@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 40,
-      "Буров Алексей Никитович": 132,
-      "Калашников Дмитрий Владимирович": 116,
-      "Крылов Дмитрий Вадимович": 89,
-      "Меркулов Вадим Александрович": 23,
-      "Орлов Олег Алексеевич": 89,
-      "Цыбизова Татьяна Игоревна": 285
+      "gas:candidate-vibid:23420001156290": 40,
+      "gas:candidate-vibid:23420001154018": 132,
+      "gas:candidate-vibid:23420001154208": 116,
+      "gas:candidate-vibid:23420001155110": 89,
+      "gas:candidate-vibid:23420001155134": 23,
+      "gas:candidate-vibid:23420001152335": 89,
+      "gas:candidate-vibid:23420001156446": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 32,
-      "Буров Алексей Никитович": 104,
-      "Калашников Дмитрий Владимирович": 119,
-      "Крылов Дмитрий Вадимович": 74,
-      "Меркулов Вадим Александрович": 16,
-      "Орлов Олег Алексеевич": 110,
-      "Цыбизова Татьяна Игоревна": 304
+      "gas:candidate-vibid:23420001156290": 32,
+      "gas:candidate-vibid:23420001154018": 104,
+      "gas:candidate-vibid:23420001154208": 119,
+      "gas:candidate-vibid:23420001155110": 74,
+      "gas:candidate-vibid:23420001155134": 16,
+      "gas:candidate-vibid:23420001152335": 110,
+      "gas:candidate-vibid:23420001156446": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 110,
-      "Калашников Дмитрий Владимирович": 138,
-      "Крылов Дмитрий Вадимович": 102,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 118,
-      "Цыбизова Татьяна Игоревна": 311
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 110,
+      "gas:candidate-vibid:23420001154208": 138,
+      "gas:candidate-vibid:23420001155110": 102,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 118,
+      "gas:candidate-vibid:23420001156446": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 41,
-      "Буров Алексей Никитович": 120,
-      "Калашников Дмитрий Владимирович": 104,
-      "Крылов Дмитрий Вадимович": 55,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 102,
-      "Цыбизова Татьяна Игоревна": 235
+      "gas:candidate-vibid:23420001156290": 41,
+      "gas:candidate-vibid:23420001154018": 120,
+      "gas:candidate-vibid:23420001154208": 104,
+      "gas:candidate-vibid:23420001155110": 55,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 102,
+      "gas:candidate-vibid:23420001156446": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 33,
-      "Буров Алексей Никитович": 118,
-      "Калашников Дмитрий Владимирович": 138,
-      "Крылов Дмитрий Вадимович": 56,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 102,
-      "Цыбизова Татьяна Игоревна": 247
+      "gas:candidate-vibid:23420001156290": 33,
+      "gas:candidate-vibid:23420001154018": 118,
+      "gas:candidate-vibid:23420001154208": 138,
+      "gas:candidate-vibid:23420001155110": 56,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 102,
+      "gas:candidate-vibid:23420001156446": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 39,
-      "Буров Алексей Никитович": 148,
-      "Калашников Дмитрий Владимирович": 91,
-      "Крылов Дмитрий Вадимович": 66,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 111,
-      "Цыбизова Татьяна Игоревна": 370
+      "gas:candidate-vibid:23420001156290": 39,
+      "gas:candidate-vibid:23420001154018": 148,
+      "gas:candidate-vibid:23420001154208": 91,
+      "gas:candidate-vibid:23420001155110": 66,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 111,
+      "gas:candidate-vibid:23420001156446": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 46,
-      "Буров Алексей Никитович": 111,
-      "Калашников Дмитрий Владимирович": 122,
-      "Крылов Дмитрий Вадимович": 98,
-      "Меркулов Вадим Александрович": 22,
-      "Орлов Олег Алексеевич": 105,
-      "Цыбизова Татьяна Игоревна": 284
+      "gas:candidate-vibid:23420001156290": 46,
+      "gas:candidate-vibid:23420001154018": 111,
+      "gas:candidate-vibid:23420001154208": 122,
+      "gas:candidate-vibid:23420001155110": 98,
+      "gas:candidate-vibid:23420001155134": 22,
+      "gas:candidate-vibid:23420001152335": 105,
+      "gas:candidate-vibid:23420001156446": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 123,
-      "Калашников Дмитрий Владимирович": 110,
-      "Крылов Дмитрий Вадимович": 89,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 98,
-      "Цыбизова Татьяна Игоревна": 270
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 123,
+      "gas:candidate-vibid:23420001154208": 110,
+      "gas:candidate-vibid:23420001155110": 89,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 98,
+      "gas:candidate-vibid:23420001156446": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 41,
-      "Буров Алексей Никитович": 123,
-      "Калашников Дмитрий Владимирович": 108,
-      "Крылов Дмитрий Вадимович": 80,
-      "Меркулов Вадим Александрович": 20,
-      "Орлов Олег Алексеевич": 110,
-      "Цыбизова Татьяна Игоревна": 278
+      "gas:candidate-vibid:23420001156290": 41,
+      "gas:candidate-vibid:23420001154018": 123,
+      "gas:candidate-vibid:23420001154208": 108,
+      "gas:candidate-vibid:23420001155110": 80,
+      "gas:candidate-vibid:23420001155134": 20,
+      "gas:candidate-vibid:23420001152335": 110,
+      "gas:candidate-vibid:23420001156446": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 58,
-      "Буров Алексей Никитович": 131,
-      "Калашников Дмитрий Владимирович": 115,
-      "Крылов Дмитрий Вадимович": 60,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 96,
-      "Цыбизова Татьяна Игоревна": 321
+      "gas:candidate-vibid:23420001156290": 58,
+      "gas:candidate-vibid:23420001154018": 131,
+      "gas:candidate-vibid:23420001154208": 115,
+      "gas:candidate-vibid:23420001155110": 60,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 96,
+      "gas:candidate-vibid:23420001156446": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 27,
-      "Буров Алексей Никитович": 114,
-      "Калашников Дмитрий Владимирович": 77,
-      "Крылов Дмитрий Вадимович": 51,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 92,
-      "Цыбизова Татьяна Игоревна": 266
+      "gas:candidate-vibid:23420001156290": 27,
+      "gas:candidate-vibid:23420001154018": 114,
+      "gas:candidate-vibid:23420001154208": 77,
+      "gas:candidate-vibid:23420001155110": 51,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 92,
+      "gas:candidate-vibid:23420001156446": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 25,
-      "Буров Алексей Никитович": 97,
-      "Калашников Дмитрий Владимирович": 96,
-      "Крылов Дмитрий Вадимович": 94,
-      "Меркулов Вадим Александрович": 19,
-      "Орлов Олег Алексеевич": 83,
-      "Цыбизова Татьяна Игоревна": 452
+      "gas:candidate-vibid:23420001156290": 25,
+      "gas:candidate-vibid:23420001154018": 97,
+      "gas:candidate-vibid:23420001154208": 96,
+      "gas:candidate-vibid:23420001155110": 94,
+      "gas:candidate-vibid:23420001155134": 19,
+      "gas:candidate-vibid:23420001152335": 83,
+      "gas:candidate-vibid:23420001156446": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 40,
-      "Буров Алексей Никитович": 142,
-      "Калашников Дмитрий Владимирович": 85,
-      "Крылов Дмитрий Вадимович": 69,
-      "Меркулов Вадим Александрович": 21,
-      "Орлов Олег Алексеевич": 91,
-      "Цыбизова Татьяна Игоревна": 281
+      "gas:candidate-vibid:23420001156290": 40,
+      "gas:candidate-vibid:23420001154018": 142,
+      "gas:candidate-vibid:23420001154208": 85,
+      "gas:candidate-vibid:23420001155110": 69,
+      "gas:candidate-vibid:23420001155134": 21,
+      "gas:candidate-vibid:23420001152335": 91,
+      "gas:candidate-vibid:23420001156446": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 39,
-      "Буров Алексей Никитович": 122,
-      "Калашников Дмитрий Владимирович": 127,
-      "Крылов Дмитрий Вадимович": 60,
-      "Меркулов Вадим Александрович": 28,
-      "Орлов Олег Алексеевич": 108,
-      "Цыбизова Татьяна Игоревна": 382
+      "gas:candidate-vibid:23420001156290": 39,
+      "gas:candidate-vibid:23420001154018": 122,
+      "gas:candidate-vibid:23420001154208": 127,
+      "gas:candidate-vibid:23420001155110": 60,
+      "gas:candidate-vibid:23420001155134": 28,
+      "gas:candidate-vibid:23420001152335": 108,
+      "gas:candidate-vibid:23420001156446": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 36,
-      "Буров Алексей Никитович": 135,
-      "Калашников Дмитрий Владимирович": 117,
-      "Крылов Дмитрий Вадимович": 86,
-      "Меркулов Вадим Александрович": 18,
-      "Орлов Олег Алексеевич": 130,
-      "Цыбизова Татьяна Игоревна": 370
+      "gas:candidate-vibid:23420001156290": 36,
+      "gas:candidate-vibid:23420001154018": 135,
+      "gas:candidate-vibid:23420001154208": 117,
+      "gas:candidate-vibid:23420001155110": 86,
+      "gas:candidate-vibid:23420001155134": 18,
+      "gas:candidate-vibid:23420001152335": 130,
+      "gas:candidate-vibid:23420001156446": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 29,
-      "Буров Алексей Никитович": 85,
-      "Калашников Дмитрий Владимирович": 115,
-      "Крылов Дмитрий Вадимович": 97,
-      "Меркулов Вадим Александрович": 24,
-      "Орлов Олег Алексеевич": 93,
-      "Цыбизова Татьяна Игоревна": 368
+      "gas:candidate-vibid:23420001156290": 29,
+      "gas:candidate-vibid:23420001154018": 85,
+      "gas:candidate-vibid:23420001154208": 115,
+      "gas:candidate-vibid:23420001155110": 97,
+      "gas:candidate-vibid:23420001155134": 24,
+      "gas:candidate-vibid:23420001152335": 93,
+      "gas:candidate-vibid:23420001156446": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 47,
-      "Буров Алексей Никитович": 132,
-      "Калашников Дмитрий Владимирович": 96,
-      "Крылов Дмитрий Вадимович": 95,
-      "Меркулов Вадим Александрович": 22,
-      "Орлов Олег Алексеевич": 113,
-      "Цыбизова Татьяна Игоревна": 286
+      "gas:candidate-vibid:23420001156290": 47,
+      "gas:candidate-vibid:23420001154018": 132,
+      "gas:candidate-vibid:23420001154208": 96,
+      "gas:candidate-vibid:23420001155110": 95,
+      "gas:candidate-vibid:23420001155134": 22,
+      "gas:candidate-vibid:23420001152335": 113,
+      "gas:candidate-vibid:23420001156446": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 25,
-      "Буров Алексей Никитович": 83,
-      "Калашников Дмитрий Владимирович": 50,
-      "Крылов Дмитрий Вадимович": 41,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 80,
-      "Цыбизова Татьяна Игоревна": 335
+      "gas:candidate-vibid:23420001156290": 25,
+      "gas:candidate-vibid:23420001154018": 83,
+      "gas:candidate-vibid:23420001154208": 50,
+      "gas:candidate-vibid:23420001155110": 41,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 80,
+      "gas:candidate-vibid:23420001156446": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 127,
-      "Калашников Дмитрий Владимирович": 48,
-      "Крылов Дмитрий Вадимович": 61,
-      "Меркулов Вадим Александрович": 18,
-      "Орлов Олег Алексеевич": 117,
-      "Цыбизова Татьяна Игоревна": 375
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 127,
+      "gas:candidate-vibid:23420001154208": 48,
+      "gas:candidate-vibid:23420001155110": 61,
+      "gas:candidate-vibid:23420001155134": 18,
+      "gas:candidate-vibid:23420001152335": 117,
+      "gas:candidate-vibid:23420001156446": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 37,
-      "Буров Алексей Никитович": 106,
-      "Калашников Дмитрий Владимирович": 69,
-      "Крылов Дмитрий Вадимович": 47,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 105,
-      "Цыбизова Татьяна Игоревна": 320
+      "gas:candidate-vibid:23420001156290": 37,
+      "gas:candidate-vibid:23420001154018": 106,
+      "gas:candidate-vibid:23420001154208": 69,
+      "gas:candidate-vibid:23420001155110": 47,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 105,
+      "gas:candidate-vibid:23420001156446": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 31,
-      "Буров Алексей Никитович": 82,
-      "Калашников Дмитрий Владимирович": 38,
-      "Крылов Дмитрий Вадимович": 62,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 88,
-      "Цыбизова Татьяна Игоревна": 502
+      "gas:candidate-vibid:23420001156290": 31,
+      "gas:candidate-vibid:23420001154018": 82,
+      "gas:candidate-vibid:23420001154208": 38,
+      "gas:candidate-vibid:23420001155110": 62,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 88,
+      "gas:candidate-vibid:23420001156446": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 39,
-      "Буров Алексей Никитович": 70,
-      "Калашников Дмитрий Владимирович": 52,
-      "Крылов Дмитрий Вадимович": 50,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 75,
-      "Цыбизова Татьяна Игоревна": 276
+      "gas:candidate-vibid:23420001156290": 39,
+      "gas:candidate-vibid:23420001154018": 70,
+      "gas:candidate-vibid:23420001154208": 52,
+      "gas:candidate-vibid:23420001155110": 50,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 75,
+      "gas:candidate-vibid:23420001156446": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 116,
-      "Калашников Дмитрий Владимирович": 101,
-      "Крылов Дмитрий Вадимович": 65,
-      "Меркулов Вадим Александрович": 19,
-      "Орлов Олег Алексеевич": 108,
-      "Цыбизова Татьяна Игоревна": 315
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 116,
+      "gas:candidate-vibid:23420001154208": 101,
+      "gas:candidate-vibid:23420001155110": 65,
+      "gas:candidate-vibid:23420001155134": 19,
+      "gas:candidate-vibid:23420001152335": 108,
+      "gas:candidate-vibid:23420001156446": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 40,
-      "Буров Алексей Никитович": 113,
-      "Калашников Дмитрий Владимирович": 71,
-      "Крылов Дмитрий Вадимович": 50,
-      "Меркулов Вадим Александрович": 11,
-      "Орлов Олег Алексеевич": 94,
-      "Цыбизова Татьяна Игоревна": 246
+      "gas:candidate-vibid:23420001156290": 40,
+      "gas:candidate-vibid:23420001154018": 113,
+      "gas:candidate-vibid:23420001154208": 71,
+      "gas:candidate-vibid:23420001155110": 50,
+      "gas:candidate-vibid:23420001155134": 11,
+      "gas:candidate-vibid:23420001152335": 94,
+      "gas:candidate-vibid:23420001156446": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 34,
-      "Буров Алексей Никитович": 83,
-      "Калашников Дмитрий Владимирович": 69,
-      "Крылов Дмитрий Вадимович": 38,
-      "Меркулов Вадим Александрович": 11,
-      "Орлов Олег Алексеевич": 77,
-      "Цыбизова Татьяна Игоревна": 243
+      "gas:candidate-vibid:23420001156290": 34,
+      "gas:candidate-vibid:23420001154018": 83,
+      "gas:candidate-vibid:23420001154208": 69,
+      "gas:candidate-vibid:23420001155110": 38,
+      "gas:candidate-vibid:23420001155134": 11,
+      "gas:candidate-vibid:23420001152335": 77,
+      "gas:candidate-vibid:23420001156446": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 67,
-      "Калашников Дмитрий Владимирович": 42,
-      "Крылов Дмитрий Вадимович": 44,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 54,
-      "Цыбизова Татьяна Игоревна": 189
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 67,
+      "gas:candidate-vibid:23420001154208": 42,
+      "gas:candidate-vibid:23420001155110": 44,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 54,
+      "gas:candidate-vibid:23420001156446": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 108,
-      "Калашников Дмитрий Владимирович": 70,
-      "Крылов Дмитрий Вадимович": 61,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 107,
-      "Цыбизова Татьяна Игоревна": 309
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 108,
+      "gas:candidate-vibid:23420001154208": 70,
+      "gas:candidate-vibid:23420001155110": 61,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 107,
+      "gas:candidate-vibid:23420001156446": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 32,
-      "Буров Алексей Никитович": 93,
-      "Калашников Дмитрий Владимирович": 74,
-      "Крылов Дмитрий Вадимович": 54,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 95,
-      "Цыбизова Татьяна Игоревна": 311
+      "gas:candidate-vibid:23420001156290": 32,
+      "gas:candidate-vibid:23420001154018": 93,
+      "gas:candidate-vibid:23420001154208": 74,
+      "gas:candidate-vibid:23420001155110": 54,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 95,
+      "gas:candidate-vibid:23420001156446": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 29,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 13,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 91
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 29,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 13,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 61,
-      "Калашников Дмитрий Владимирович": 50,
-      "Крылов Дмитрий Вадимович": 50,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 79,
-      "Цыбизова Татьяна Игоревна": 171
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 61,
+      "gas:candidate-vibid:23420001154208": 50,
+      "gas:candidate-vibid:23420001155110": 50,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 79,
+      "gas:candidate-vibid:23420001156446": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -1753,15 +1753,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 63,
-      "Михеев Алексей Олегович": 59,
-      "Плотников Владимир Николаевич": 533,
-      "Полунин Анатолий Аркадьевич": 15,
-      "Прошаков Андрей Павлович": 22,
-      "Шаманаев Евгений Иванович": 83
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 63,
+      "gas:candidate-vibid:23420001155513": 59,
+      "gas:candidate-vibid:23420001156468": 533,
+      "gas:candidate-vibid:23420001156131": 15,
+      "gas:candidate-vibid:23420001155938": 22,
+      "gas:candidate-vibid:23420001154789": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -1812,15 +1812,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 46,
-      "Михеев Алексей Олегович": 45,
-      "Плотников Владимир Николаевич": 340,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 62
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 46,
+      "gas:candidate-vibid:23420001155513": 45,
+      "gas:candidate-vibid:23420001156468": 340,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -1871,15 +1871,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 16,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 48,
-      "Михеев Алексей Олегович": 83,
-      "Плотников Владимир Николаевич": 386,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 67
+      "gas:candidate-vibid:23420001157462": 16,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 48,
+      "gas:candidate-vibid:23420001155513": 83,
+      "gas:candidate-vibid:23420001156468": 386,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -1930,15 +1930,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 75,
-      "Михеев Алексей Олегович": 57,
-      "Плотников Владимир Николаевич": 452,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 69
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 75,
+      "gas:candidate-vibid:23420001155513": 57,
+      "gas:candidate-vibid:23420001156468": 452,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -1989,15 +1989,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 62,
-      "Михеев Алексей Олегович": 34,
-      "Плотников Владимир Николаевич": 364,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 65
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 62,
+      "gas:candidate-vibid:23420001155513": 34,
+      "gas:candidate-vibid:23420001156468": 364,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2048,15 +2048,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 39,
-      "Михеев Алексей Олегович": 60,
-      "Плотников Владимир Николаевич": 332,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 44
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 39,
+      "gas:candidate-vibid:23420001155513": 60,
+      "gas:candidate-vibid:23420001156468": 332,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2107,15 +2107,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 12,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 64,
-      "Михеев Алексей Олегович": 57,
-      "Плотников Владимир Николаевич": 682,
-      "Полунин Анатолий Аркадьевич": 10,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 54
+      "gas:candidate-vibid:23420001157462": 12,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 64,
+      "gas:candidate-vibid:23420001155513": 57,
+      "gas:candidate-vibid:23420001156468": 682,
+      "gas:candidate-vibid:23420001156131": 10,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2166,15 +2166,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 54,
-      "Михеев Алексей Олегович": 4,
-      "Плотников Владимир Николаевич": 615,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 100
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 54,
+      "gas:candidate-vibid:23420001155513": 4,
+      "gas:candidate-vibid:23420001156468": 615,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2225,15 +2225,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 18,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 61,
-      "Михеев Алексей Олегович": 65,
-      "Плотников Владимир Николаевич": 601,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 110
+      "gas:candidate-vibid:23420001157462": 18,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 61,
+      "gas:candidate-vibid:23420001155513": 65,
+      "gas:candidate-vibid:23420001156468": 601,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2284,15 +2284,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 27,
-      "Михеев Алексей Олегович": 101,
-      "Плотников Владимир Николаевич": 434,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 96
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 27,
+      "gas:candidate-vibid:23420001155513": 101,
+      "gas:candidate-vibid:23420001156468": 434,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2343,15 +2343,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 21,
-      "Бондарь Сергей Николаевич": 18,
-      "Котельников Валерий Владимирович": 13,
-      "Майборода Алексей Александрович": 66,
-      "Михеев Алексей Олегович": 104,
-      "Плотников Владимир Николаевич": 568,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 78
+      "gas:candidate-vibid:23420001157462": 21,
+      "gas:candidate-vibid:23420001157485": 18,
+      "gas:candidate-vibid:23420001156313": 13,
+      "gas:candidate-vibid:23420001155181": 66,
+      "gas:candidate-vibid:23420001155513": 104,
+      "gas:candidate-vibid:23420001156468": 568,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2402,15 +2402,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 21,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 47,
-      "Михеев Алексей Олегович": 55,
-      "Плотников Владимир Николаевич": 565,
-      "Полунин Анатолий Аркадьевич": 12,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 56
+      "gas:candidate-vibid:23420001157462": 21,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 47,
+      "gas:candidate-vibid:23420001155513": 55,
+      "gas:candidate-vibid:23420001156468": 565,
+      "gas:candidate-vibid:23420001156131": 12,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2461,15 +2461,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 28,
-      "Михеев Алексей Олегович": 91,
-      "Плотников Владимир Николаевич": 604,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 51
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 28,
+      "gas:candidate-vibid:23420001155513": 91,
+      "gas:candidate-vibid:23420001156468": 604,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2520,15 +2520,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 11,
-      "Майборода Алексей Александрович": 55,
-      "Михеев Алексей Олегович": 52,
-      "Плотников Владимир Николаевич": 458,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 84
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 11,
+      "gas:candidate-vibid:23420001155181": 55,
+      "gas:candidate-vibid:23420001155513": 52,
+      "gas:candidate-vibid:23420001156468": 458,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2579,15 +2579,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 58,
-      "Михеев Алексей Олегович": 41,
-      "Плотников Владимир Николаевич": 703,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 58
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 58,
+      "gas:candidate-vibid:23420001155513": 41,
+      "gas:candidate-vibid:23420001156468": 703,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2638,15 +2638,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 9,
-      "Михеев Алексей Олегович": 61,
-      "Плотников Владимир Николаевич": 591,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 22
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 9,
+      "gas:candidate-vibid:23420001155513": 61,
+      "gas:candidate-vibid:23420001156468": 591,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2697,15 +2697,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 19,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 46,
-      "Михеев Алексей Олегович": 29,
-      "Плотников Владимир Николаевич": 496,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 70
+      "gas:candidate-vibid:23420001157462": 19,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 46,
+      "gas:candidate-vibid:23420001155513": 29,
+      "gas:candidate-vibid:23420001156468": 496,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2756,15 +2756,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 50,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 424,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 66
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 50,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 424,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2815,15 +2815,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 55,
-      "Михеев Алексей Олегович": 61,
-      "Плотников Владимир Николаевич": 455,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 66
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 55,
+      "gas:candidate-vibid:23420001155513": 61,
+      "gas:candidate-vibid:23420001156468": 455,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2874,15 +2874,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 23,
-      "Бондарь Сергей Николаевич": 20,
-      "Котельников Валерий Владимирович": 16,
-      "Майборода Алексей Александрович": 90,
-      "Михеев Алексей Олегович": 50,
-      "Плотников Владимир Николаевич": 468,
-      "Полунин Анатолий Аркадьевич": 14,
-      "Прошаков Андрей Павлович": 15,
-      "Шаманаев Евгений Иванович": 41
+      "gas:candidate-vibid:23420001157462": 23,
+      "gas:candidate-vibid:23420001157485": 20,
+      "gas:candidate-vibid:23420001156313": 16,
+      "gas:candidate-vibid:23420001155181": 90,
+      "gas:candidate-vibid:23420001155513": 50,
+      "gas:candidate-vibid:23420001156468": 468,
+      "gas:candidate-vibid:23420001156131": 14,
+      "gas:candidate-vibid:23420001155938": 15,
+      "gas:candidate-vibid:23420001154789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2933,15 +2933,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 10,
-      "Михеев Алексей Олегович": 23,
-      "Плотников Владимир Николаевич": 447,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 89
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 10,
+      "gas:candidate-vibid:23420001155513": 23,
+      "gas:candidate-vibid:23420001156468": 447,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105216&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105216&type=464",
@@ -2992,15 +2992,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 11,
-      "Майборода Алексей Александрович": 48,
-      "Михеев Алексей Олегович": 36,
-      "Плотников Владимир Николаевич": 243,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 65
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 11,
+      "gas:candidate-vibid:23420001155181": 48,
+      "gas:candidate-vibid:23420001155513": 36,
+      "gas:candidate-vibid:23420001156468": 243,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3051,15 +3051,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 139,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 21
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 139,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3110,15 +3110,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 16,
-      "Михеев Алексей Олегович": 14,
-      "Плотников Владимир Николаевич": 106,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 31
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 16,
+      "gas:candidate-vibid:23420001155513": 14,
+      "gas:candidate-vibid:23420001156468": 106,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3169,15 +3169,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 19,
-      "Плотников Владимир Николаевич": 89,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 33
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 19,
+      "gas:candidate-vibid:23420001156468": 89,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3228,15 +3228,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 15,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 76,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 15,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 76,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3287,15 +3287,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 31,
-      "Михеев Алексей Олегович": 35,
-      "Плотников Владимир Николаевич": 142,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 21
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 31,
+      "gas:candidate-vibid:23420001155513": 35,
+      "gas:candidate-vibid:23420001156468": 142,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3346,15 +3346,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 15,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 15,
-      "Михеев Алексей Олегович": 34,
-      "Плотников Владимир Николаевич": 198,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 17
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 15,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 15,
+      "gas:candidate-vibid:23420001155513": 34,
+      "gas:candidate-vibid:23420001156468": 198,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3405,15 +3405,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 4,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 45,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 0
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 4,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 45,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3464,15 +3464,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 18,
-      "Плотников Владимир Николаевич": 269,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 38
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 18,
+      "gas:candidate-vibid:23420001156468": 269,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3523,15 +3523,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 23,
-      "Михеев Алексей Олегович": 11,
-      "Плотников Владимир Николаевич": 258,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 21
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 23,
+      "gas:candidate-vibid:23420001155513": 11,
+      "gas:candidate-vibid:23420001156468": 258,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3582,15 +3582,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 72,
-      "Михеев Алексей Олегович": 51,
-      "Плотников Владимир Николаевич": 525,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 62
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 72,
+      "gas:candidate-vibid:23420001155513": 51,
+      "gas:candidate-vibid:23420001156468": 525,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3641,15 +3641,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 37,
-      "Михеев Алексей Олегович": 28,
-      "Плотников Владимир Николаевич": 287,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 37
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 37,
+      "gas:candidate-vibid:23420001155513": 28,
+      "gas:candidate-vibid:23420001156468": 287,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3700,15 +3700,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 20,
-      "Михеев Алексей Олегович": 21,
-      "Плотников Владимир Николаевич": 267,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 23
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 20,
+      "gas:candidate-vibid:23420001155513": 21,
+      "gas:candidate-vibid:23420001156468": 267,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3759,15 +3759,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 21,
-      "Михеев Алексей Олегович": 31,
-      "Плотников Владимир Николаевич": 396,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 31
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 21,
+      "gas:candidate-vibid:23420001155513": 31,
+      "gas:candidate-vibid:23420001156468": 396,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3818,15 +3818,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 49,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 301,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 61
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 49,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 301,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3877,15 +3877,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 11,
-      "Михеев Алексей Олегович": 7,
-      "Плотников Владимир Николаевич": 50,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 11,
+      "gas:candidate-vibid:23420001155513": 7,
+      "gas:candidate-vibid:23420001156468": 50,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3936,15 +3936,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 1,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 83,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 13
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 1,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 83,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -3995,15 +3995,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 6,
-      "Михеев Алексей Олегович": 2,
-      "Плотников Владимир Николаевич": 115,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 15
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 6,
+      "gas:candidate-vibid:23420001155513": 2,
+      "gas:candidate-vibid:23420001156468": 115,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -4054,15 +4054,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 34,
-      "Михеев Алексей Олегович": 23,
-      "Плотников Владимир Николаевич": 400,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 46
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 34,
+      "gas:candidate-vibid:23420001155513": 23,
+      "gas:candidate-vibid:23420001156468": 400,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -4113,15 +4113,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 14,
-      "Плотников Владимир Николаевич": 238,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 17
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 14,
+      "gas:candidate-vibid:23420001156468": 238,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -4172,15 +4172,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 35,
-      "Михеев Алексей Олегович": 30,
-      "Плотников Владимир Николаевич": 520,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 34
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 35,
+      "gas:candidate-vibid:23420001155513": 30,
+      "gas:candidate-vibid:23420001156468": 520,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105217&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105217&type=464",
@@ -4231,15 +4231,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 25,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 66,
-      "Михеев Алексей Олегович": 54,
-      "Плотников Владимир Николаевич": 418,
-      "Полунин Анатолий Аркадьевич": 9,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 83
+      "gas:candidate-vibid:23420001157462": 25,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 66,
+      "gas:candidate-vibid:23420001155513": 54,
+      "gas:candidate-vibid:23420001156468": 418,
+      "gas:candidate-vibid:23420001156131": 9,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4290,15 +4290,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 24,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 64,
-      "Михеев Алексей Олегович": 33,
-      "Плотников Владимир Николаевич": 433,
-      "Полунин Анатолий Аркадьевич": 12,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 95
+      "gas:candidate-vibid:23420001157462": 24,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 64,
+      "gas:candidate-vibid:23420001155513": 33,
+      "gas:candidate-vibid:23420001156468": 433,
+      "gas:candidate-vibid:23420001156131": 12,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4349,15 +4349,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 83,
-      "Михеев Алексей Олегович": 30,
-      "Плотников Владимир Николаевич": 513,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 16,
-      "Шаманаев Евгений Иванович": 92
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 83,
+      "gas:candidate-vibid:23420001155513": 30,
+      "gas:candidate-vibid:23420001156468": 513,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 16,
+      "gas:candidate-vibid:23420001154789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4408,15 +4408,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 18,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 52,
-      "Михеев Алексей Олегович": 40,
-      "Плотников Владимир Николаевич": 372,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 84
+      "gas:candidate-vibid:23420001157462": 18,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 52,
+      "gas:candidate-vibid:23420001155513": 40,
+      "gas:candidate-vibid:23420001156468": 372,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4467,15 +4467,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 16,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 13,
-      "Майборода Алексей Александрович": 69,
-      "Михеев Алексей Олегович": 42,
-      "Плотников Владимир Николаевич": 402,
-      "Полунин Анатолий Аркадьевич": 9,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 84
+      "gas:candidate-vibid:23420001157462": 16,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 13,
+      "gas:candidate-vibid:23420001155181": 69,
+      "gas:candidate-vibid:23420001155513": 42,
+      "gas:candidate-vibid:23420001156468": 402,
+      "gas:candidate-vibid:23420001156131": 9,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4526,15 +4526,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 59,
-      "Михеев Алексей Олегович": 64,
-      "Плотников Владимир Николаевич": 377,
-      "Полунин Анатолий Аркадьевич": 10,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 103
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 59,
+      "gas:candidate-vibid:23420001155513": 64,
+      "gas:candidate-vibid:23420001156468": 377,
+      "gas:candidate-vibid:23420001156131": 10,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4585,15 +4585,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 23,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 63,
-      "Михеев Алексей Олегович": 59,
-      "Плотников Владимир Николаевич": 363,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 98
+      "gas:candidate-vibid:23420001157462": 23,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 63,
+      "gas:candidate-vibid:23420001155513": 59,
+      "gas:candidate-vibid:23420001156468": 363,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4644,15 +4644,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 17,
-      "Михеев Алексей Олегович": 10,
-      "Плотников Владимир Николаевич": 674,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 13
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 17,
+      "gas:candidate-vibid:23420001155513": 10,
+      "gas:candidate-vibid:23420001156468": 674,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4703,15 +4703,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 17,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 61,
-      "Михеев Алексей Олегович": 35,
-      "Плотников Владимир Николаевич": 399,
-      "Полунин Анатолий Аркадьевич": 12,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 92
+      "gas:candidate-vibid:23420001157462": 17,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 61,
+      "gas:candidate-vibid:23420001155513": 35,
+      "gas:candidate-vibid:23420001156468": 399,
+      "gas:candidate-vibid:23420001156131": 12,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4762,15 +4762,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 72,
-      "Михеев Алексей Олегович": 79,
-      "Плотников Владимир Николаевич": 622,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 15,
-      "Шаманаев Евгений Иванович": 106
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 72,
+      "gas:candidate-vibid:23420001155513": 79,
+      "gas:candidate-vibid:23420001156468": 622,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 15,
+      "gas:candidate-vibid:23420001154789": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4821,15 +4821,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 18,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 59,
-      "Михеев Алексей Олегович": 43,
-      "Плотников Владимир Николаевич": 436,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 77
+      "gas:candidate-vibid:23420001157462": 18,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 59,
+      "gas:candidate-vibid:23420001155513": 43,
+      "gas:candidate-vibid:23420001156468": 436,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4880,15 +4880,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 83,
-      "Михеев Алексей Олегович": 48,
-      "Плотников Владимир Николаевич": 382,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 88
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 83,
+      "gas:candidate-vibid:23420001155513": 48,
+      "gas:candidate-vibid:23420001156468": 382,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4939,15 +4939,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 12,
-      "Плотников Владимир Николаевич": 498,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 32
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 12,
+      "gas:candidate-vibid:23420001156468": 498,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -4998,15 +4998,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 22,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 74,
-      "Михеев Алексей Олегович": 35,
-      "Плотников Владимир Николаевич": 352,
-      "Полунин Анатолий Аркадьевич": 15,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 43
+      "gas:candidate-vibid:23420001157462": 22,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 74,
+      "gas:candidate-vibid:23420001155513": 35,
+      "gas:candidate-vibid:23420001156468": 352,
+      "gas:candidate-vibid:23420001156131": 15,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5057,15 +5057,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 20,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 71,
-      "Михеев Алексей Олегович": 57,
-      "Плотников Владимир Николаевич": 365,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 103
+      "gas:candidate-vibid:23420001157462": 20,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 71,
+      "gas:candidate-vibid:23420001155513": 57,
+      "gas:candidate-vibid:23420001156468": 365,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5116,15 +5116,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 63,
-      "Михеев Алексей Олегович": 54,
-      "Плотников Владимир Николаевич": 428,
-      "Полунин Анатолий Аркадьевич": 13,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 87
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 63,
+      "gas:candidate-vibid:23420001155513": 54,
+      "gas:candidate-vibid:23420001156468": 428,
+      "gas:candidate-vibid:23420001156131": 13,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5175,15 +5175,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 72,
-      "Михеев Алексей Олегович": 45,
-      "Плотников Владимир Николаевич": 674,
-      "Полунин Анатолий Аркадьевич": 12,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 89
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 72,
+      "gas:candidate-vibid:23420001155513": 45,
+      "gas:candidate-vibid:23420001156468": 674,
+      "gas:candidate-vibid:23420001156131": 12,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5234,15 +5234,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 26,
-      "Михеев Алексей Олегович": 25,
-      "Плотников Владимир Николаевич": 708,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 40
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 26,
+      "gas:candidate-vibid:23420001155513": 25,
+      "gas:candidate-vibid:23420001156468": 708,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5293,15 +5293,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 26,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 13,
-      "Майборода Алексей Александрович": 101,
-      "Михеев Алексей Олегович": 58,
-      "Плотников Владимир Николаевич": 513,
-      "Полунин Анатолий Аркадьевич": 12,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 120
+      "gas:candidate-vibid:23420001157462": 26,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 13,
+      "gas:candidate-vibid:23420001155181": 101,
+      "gas:candidate-vibid:23420001155513": 58,
+      "gas:candidate-vibid:23420001156468": 513,
+      "gas:candidate-vibid:23420001156131": 12,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5352,15 +5352,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 16,
-      "Бондарь Сергей Николаевич": 13,
-      "Котельников Валерий Владимирович": 11,
-      "Майборода Алексей Александрович": 76,
-      "Михеев Алексей Олегович": 51,
-      "Плотников Владимир Николаевич": 356,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 17,
-      "Шаманаев Евгений Иванович": 112
+      "gas:candidate-vibid:23420001157462": 16,
+      "gas:candidate-vibid:23420001157485": 13,
+      "gas:candidate-vibid:23420001156313": 11,
+      "gas:candidate-vibid:23420001155181": 76,
+      "gas:candidate-vibid:23420001155513": 51,
+      "gas:candidate-vibid:23420001156468": 356,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 17,
+      "gas:candidate-vibid:23420001154789": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105218&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105218&type=464",
@@ -5411,15 +5411,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 28,
-      "Михеев Алексей Олегович": 15,
-      "Плотников Владимир Николаевич": 396,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 35
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 28,
+      "gas:candidate-vibid:23420001155513": 15,
+      "gas:candidate-vibid:23420001156468": 396,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5470,15 +5470,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 34,
-      "Михеев Алексей Олегович": 19,
-      "Плотников Владимир Николаевич": 179,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 20
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 34,
+      "gas:candidate-vibid:23420001155513": 19,
+      "gas:candidate-vibid:23420001156468": 179,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5529,15 +5529,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 15,
-      "Михеев Алексей Олегович": 4,
-      "Плотников Владимир Николаевич": 105,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 9
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 15,
+      "gas:candidate-vibid:23420001155513": 4,
+      "gas:candidate-vibid:23420001156468": 105,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5588,15 +5588,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 23,
-      "Михеев Алексей Олегович": 15,
-      "Плотников Владимир Николаевич": 227,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 23
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 23,
+      "gas:candidate-vibid:23420001155513": 15,
+      "gas:candidate-vibid:23420001156468": 227,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5647,15 +5647,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 59,
-      "Михеев Алексей Олегович": 29,
-      "Плотников Владимир Николаевич": 397,
-      "Полунин Анатолий Аркадьевич": 15,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 31
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 59,
+      "gas:candidate-vibid:23420001155513": 29,
+      "gas:candidate-vibid:23420001156468": 397,
+      "gas:candidate-vibid:23420001156131": 15,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5706,15 +5706,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 241,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 8
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 241,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5765,15 +5765,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 5,
-      "Михеев Алексей Олегович": 2,
-      "Плотников Владимир Николаевич": 197,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 13
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 5,
+      "gas:candidate-vibid:23420001155513": 2,
+      "gas:candidate-vibid:23420001156468": 197,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5824,15 +5824,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 6,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 116,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 6,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 116,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5883,15 +5883,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 5,
-      "Михеев Алексей Олегович": 7,
-      "Плотников Владимир Николаевич": 227,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 9
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 5,
+      "gas:candidate-vibid:23420001155513": 7,
+      "gas:candidate-vibid:23420001156468": 227,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -5942,15 +5942,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 18,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 62,
-      "Михеев Алексей Олегович": 30,
-      "Плотников Владимир Николаевич": 534,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 40
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 18,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 62,
+      "gas:candidate-vibid:23420001155513": 30,
+      "gas:candidate-vibid:23420001156468": 534,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6001,15 +6001,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 48,
-      "Михеев Алексей Олегович": 16,
-      "Плотников Владимир Николаевич": 132,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 27
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 48,
+      "gas:candidate-vibid:23420001155513": 16,
+      "gas:candidate-vibid:23420001156468": 132,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6060,15 +6060,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 42,
-      "Михеев Алексей Олегович": 17,
-      "Плотников Владимир Николаевич": 317,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 54
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 42,
+      "gas:candidate-vibid:23420001155513": 17,
+      "gas:candidate-vibid:23420001156468": 317,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6119,15 +6119,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 49,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 355,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 29
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 49,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 355,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6178,15 +6178,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 17,
-      "Плотников Владимир Николаевич": 217,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 22
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 17,
+      "gas:candidate-vibid:23420001156468": 217,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6237,15 +6237,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 29,
-      "Михеев Алексей Олегович": 23,
-      "Плотников Владимир Николаевич": 264,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 66
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 29,
+      "gas:candidate-vibid:23420001155513": 23,
+      "gas:candidate-vibid:23420001156468": 264,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6296,15 +6296,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 34,
-      "Михеев Алексей Олегович": 15,
-      "Плотников Владимир Николаевич": 306,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 24
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 34,
+      "gas:candidate-vibid:23420001155513": 15,
+      "gas:candidate-vibid:23420001156468": 306,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6355,15 +6355,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 26,
-      "Михеев Алексей Олегович": 10,
-      "Плотников Владимир Николаевич": 176,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 12
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 26,
+      "gas:candidate-vibid:23420001155513": 10,
+      "gas:candidate-vibid:23420001156468": 176,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6414,15 +6414,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 37,
-      "Михеев Алексей Олегович": 21,
-      "Плотников Владимир Николаевич": 253,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 61
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 37,
+      "gas:candidate-vibid:23420001155513": 21,
+      "gas:candidate-vibid:23420001156468": 253,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6473,15 +6473,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 13,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 131,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 23
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 13,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 131,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6532,15 +6532,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 29,
-      "Михеев Алексей Олегович": 11,
-      "Плотников Владимир Николаевич": 405,
-      "Полунин Анатолий Аркадьевич": 20,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 59
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 29,
+      "gas:candidate-vibid:23420001155513": 11,
+      "gas:candidate-vibid:23420001156468": 405,
+      "gas:candidate-vibid:23420001156131": 20,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6591,15 +6591,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 16,
-      "Михеев Алексей Олегович": 4,
-      "Плотников Владимир Николаевич": 99,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 8
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 16,
+      "gas:candidate-vibid:23420001155513": 4,
+      "gas:candidate-vibid:23420001156468": 99,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6650,15 +6650,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 26,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 125,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 16
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 26,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 125,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6709,15 +6709,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 13,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 78,
-      "Михеев Алексей Олегович": 42,
-      "Плотников Владимир Николаевич": 369,
-      "Полунин Анатолий Аркадьевич": 10,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 69
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 13,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 78,
+      "gas:candidate-vibid:23420001155513": 42,
+      "gas:candidate-vibid:23420001156468": 369,
+      "gas:candidate-vibid:23420001156131": 10,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6768,15 +6768,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 27,
-      "Михеев Алексей Олегович": 23,
-      "Плотников Владимир Николаевич": 215,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 39
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 27,
+      "gas:candidate-vibid:23420001155513": 23,
+      "gas:candidate-vibid:23420001156468": 215,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6827,15 +6827,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 21,
-      "Бондарь Сергей Николаевич": 21,
-      "Котельников Валерий Владимирович": 18,
-      "Майборода Алексей Александрович": 88,
-      "Михеев Алексей Олегович": 54,
-      "Плотников Владимир Николаевич": 564,
-      "Полунин Анатолий Аркадьевич": 10,
-      "Прошаков Андрей Павлович": 20,
-      "Шаманаев Евгений Иванович": 112
+      "gas:candidate-vibid:23420001157462": 21,
+      "gas:candidate-vibid:23420001157485": 21,
+      "gas:candidate-vibid:23420001156313": 18,
+      "gas:candidate-vibid:23420001155181": 88,
+      "gas:candidate-vibid:23420001155513": 54,
+      "gas:candidate-vibid:23420001156468": 564,
+      "gas:candidate-vibid:23420001156131": 10,
+      "gas:candidate-vibid:23420001155938": 20,
+      "gas:candidate-vibid:23420001154789": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6886,15 +6886,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 45,
-      "Михеев Алексей Олегович": 32,
-      "Плотников Владимир Николаевич": 383,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 33
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 45,
+      "gas:candidate-vibid:23420001155513": 32,
+      "gas:candidate-vibid:23420001156468": 383,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -6945,15 +6945,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 45,
-      "Михеев Алексей Олегович": 16,
-      "Плотников Владимир Николаевич": 168,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 34
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 45,
+      "gas:candidate-vibid:23420001155513": 16,
+      "gas:candidate-vibid:23420001156468": 168,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -7004,15 +7004,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 41,
-      "Михеев Алексей Олегович": 13,
-      "Плотников Владимир Николаевич": 362,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 74
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 41,
+      "gas:candidate-vibid:23420001155513": 13,
+      "gas:candidate-vibid:23420001156468": 362,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -7063,15 +7063,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 11,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 10,
-      "Плотников Владимир Николаевич": 265,
-      "Полунин Анатолий Аркадьевич": 9,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 21
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 11,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 10,
+      "gas:candidate-vibid:23420001156468": 265,
+      "gas:candidate-vibid:23420001156131": 9,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105219&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105219&type=464",
@@ -7122,15 +7122,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 38,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 500,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 42
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 38,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 500,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7181,15 +7181,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 48,
-      "Михеев Алексей Олегович": 33,
-      "Плотников Владимир Николаевич": 528,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 51
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 48,
+      "gas:candidate-vibid:23420001155513": 33,
+      "gas:candidate-vibid:23420001156468": 528,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7240,15 +7240,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 19,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 56,
-      "Михеев Алексей Олегович": 70,
-      "Плотников Владимир Николаевич": 1003,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 16,
-      "Шаманаев Евгений Иванович": 101
+      "gas:candidate-vibid:23420001157462": 19,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 56,
+      "gas:candidate-vibid:23420001155513": 70,
+      "gas:candidate-vibid:23420001156468": 1003,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 16,
+      "gas:candidate-vibid:23420001154789": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7299,15 +7299,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 31,
-      "Михеев Алексей Олегович": 49,
-      "Плотников Владимир Николаевич": 491,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 49
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 31,
+      "gas:candidate-vibid:23420001155513": 49,
+      "gas:candidate-vibid:23420001156468": 491,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7358,15 +7358,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 40,
-      "Михеев Алексей Олегович": 44,
-      "Плотников Владимир Николаевич": 392,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 61
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 40,
+      "gas:candidate-vibid:23420001155513": 44,
+      "gas:candidate-vibid:23420001156468": 392,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7417,15 +7417,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 38,
-      "Михеев Алексей Олегович": 36,
-      "Плотников Владимир Николаевич": 301,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 39
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 38,
+      "gas:candidate-vibid:23420001155513": 36,
+      "gas:candidate-vibid:23420001156468": 301,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7476,15 +7476,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 34,
-      "Михеев Алексей Олегович": 40,
-      "Плотников Владимир Николаевич": 501,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 60
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 34,
+      "gas:candidate-vibid:23420001155513": 40,
+      "gas:candidate-vibid:23420001156468": 501,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7535,15 +7535,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 8,
-      "Плотников Владимир Николаевич": 95,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 8,
+      "gas:candidate-vibid:23420001156468": 95,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7594,15 +7594,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 6,
-      "Михеев Алексей Олегович": 7,
-      "Плотников Владимир Николаевич": 101,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 14
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 6,
+      "gas:candidate-vibid:23420001155513": 7,
+      "gas:candidate-vibid:23420001156468": 101,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7653,15 +7653,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 12,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 46,
-      "Михеев Алексей Олегович": 43,
-      "Плотников Владимир Николаевич": 454,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 51
+      "gas:candidate-vibid:23420001157462": 12,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 46,
+      "gas:candidate-vibid:23420001155513": 43,
+      "gas:candidate-vibid:23420001156468": 454,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7712,15 +7712,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 23,
-      "Плотников Владимир Николаевич": 224,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 12
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 23,
+      "gas:candidate-vibid:23420001156468": 224,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7771,15 +7771,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 30,
-      "Михеев Алексей Олегович": 25,
-      "Плотников Владимир Николаевич": 384,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 30
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 30,
+      "gas:candidate-vibid:23420001155513": 25,
+      "gas:candidate-vibid:23420001156468": 384,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7830,15 +7830,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 20,
-      "Михеев Алексей Олегович": 10,
-      "Плотников Владимир Николаевич": 488,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 33
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 20,
+      "gas:candidate-vibid:23420001155513": 10,
+      "gas:candidate-vibid:23420001156468": 488,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7889,15 +7889,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 21,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 28,
-      "Михеев Алексей Олегович": 33,
-      "Плотников Владимир Николаевич": 247,
-      "Полунин Анатолий Аркадьевич": 10,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 55
+      "gas:candidate-vibid:23420001157462": 21,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 28,
+      "gas:candidate-vibid:23420001155513": 33,
+      "gas:candidate-vibid:23420001156468": 247,
+      "gas:candidate-vibid:23420001156131": 10,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -7948,15 +7948,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 28,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 650,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 38
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 28,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 650,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8007,15 +8007,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 28,
-      "Михеев Алексей Олегович": 16,
-      "Плотников Владимир Николаевич": 218,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 184
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 28,
+      "gas:candidate-vibid:23420001155513": 16,
+      "gas:candidate-vibid:23420001156468": 218,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8066,15 +8066,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 28,
-      "Михеев Алексей Олегович": 17,
-      "Плотников Владимир Николаевич": 433,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 41
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 28,
+      "gas:candidate-vibid:23420001155513": 17,
+      "gas:candidate-vibid:23420001156468": 433,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8125,15 +8125,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 16,
-      "Михеев Алексей Олегович": 14,
-      "Плотников Владимир Николаевич": 389,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 54
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 16,
+      "gas:candidate-vibid:23420001155513": 14,
+      "gas:candidate-vibid:23420001156468": 389,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8184,15 +8184,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 35,
-      "Михеев Алексей Олегович": 33,
-      "Плотников Владимир Николаевич": 303,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 56
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 35,
+      "gas:candidate-vibid:23420001155513": 33,
+      "gas:candidate-vibid:23420001156468": 303,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8243,15 +8243,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 41,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 303,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 32
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 41,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 303,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8302,15 +8302,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 4,
-      "Плотников Владимир Николаевич": 143,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 16
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 4,
+      "gas:candidate-vibid:23420001156468": 143,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105220&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105220&type=464",
@@ -8361,15 +8361,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 74,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 239,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 57
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 74,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 239,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8420,15 +8420,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 60,
-      "Михеев Алексей Олегович": 57,
-      "Плотников Владимир Николаевич": 186,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 72
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 60,
+      "gas:candidate-vibid:23420001155513": 57,
+      "gas:candidate-vibid:23420001156468": 186,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8479,15 +8479,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 47,
-      "Михеев Алексей Олегович": 35,
-      "Плотников Владимир Николаевич": 206,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 59
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 47,
+      "gas:candidate-vibid:23420001155513": 35,
+      "gas:candidate-vibid:23420001156468": 206,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8538,15 +8538,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 16,
-      "Бондарь Сергей Николаевич": 15,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 58,
-      "Михеев Алексей Олегович": 62,
-      "Плотников Владимир Николаевич": 258,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 14,
-      "Шаманаев Евгений Иванович": 72
+      "gas:candidate-vibid:23420001157462": 16,
+      "gas:candidate-vibid:23420001157485": 15,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 58,
+      "gas:candidate-vibid:23420001155513": 62,
+      "gas:candidate-vibid:23420001156468": 258,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 14,
+      "gas:candidate-vibid:23420001154789": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8597,15 +8597,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 68,
-      "Михеев Алексей Олегович": 57,
-      "Плотников Владимир Николаевич": 274,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 63
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 68,
+      "gas:candidate-vibid:23420001155513": 57,
+      "gas:candidate-vibid:23420001156468": 274,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8656,15 +8656,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 76,
-      "Михеев Алексей Олегович": 56,
-      "Плотников Владимир Николаевич": 215,
-      "Полунин Анатолий Аркадьевич": 9,
-      "Прошаков Андрей Павлович": 10,
-      "Шаманаев Евгений Иванович": 61
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 76,
+      "gas:candidate-vibid:23420001155513": 56,
+      "gas:candidate-vibid:23420001156468": 215,
+      "gas:candidate-vibid:23420001156131": 9,
+      "gas:candidate-vibid:23420001155938": 10,
+      "gas:candidate-vibid:23420001154789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8715,15 +8715,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 17,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 74,
-      "Михеев Алексей Олегович": 42,
-      "Плотников Владимир Николаевич": 263,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 53
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 17,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 74,
+      "gas:candidate-vibid:23420001155513": 42,
+      "gas:candidate-vibid:23420001156468": 263,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8774,15 +8774,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 62,
-      "Михеев Алексей Олегович": 47,
-      "Плотников Владимир Николаевич": 465,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 65
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 62,
+      "gas:candidate-vibid:23420001155513": 47,
+      "gas:candidate-vibid:23420001156468": 465,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8833,15 +8833,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 12,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 40,
-      "Михеев Алексей Олегович": 44,
-      "Плотников Владимир Николаевич": 162,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 11,
-      "Шаманаев Евгений Иванович": 39
+      "gas:candidate-vibid:23420001157462": 12,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 40,
+      "gas:candidate-vibid:23420001155513": 44,
+      "gas:candidate-vibid:23420001156468": 162,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 11,
+      "gas:candidate-vibid:23420001154789": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8892,15 +8892,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 65,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 263,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 56
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 65,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 263,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -8951,15 +8951,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 47,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 167,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 23
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 47,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 167,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9010,15 +9010,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 5,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 31,
-      "Михеев Алексей Олегович": 32,
-      "Плотников Владимир Николаевич": 176,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 41
+      "gas:candidate-vibid:23420001157462": 5,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 31,
+      "gas:candidate-vibid:23420001155513": 32,
+      "gas:candidate-vibid:23420001156468": 176,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9069,15 +9069,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 8,
-      "Михеев Алексей Олегович": 2,
-      "Плотников Владимир Николаевич": 25,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 4
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 8,
+      "gas:candidate-vibid:23420001155513": 2,
+      "gas:candidate-vibid:23420001156468": 25,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9128,15 +9128,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 19,
-      "Михеев Алексей Олегович": 35,
-      "Плотников Владимир Николаевич": 170,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 4
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 19,
+      "gas:candidate-vibid:23420001155513": 35,
+      "gas:candidate-vibid:23420001156468": 170,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9187,15 +9187,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 20,
-      "Михеев Алексей Олегович": 13,
-      "Плотников Владимир Николаевич": 47,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 6
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 20,
+      "gas:candidate-vibid:23420001155513": 13,
+      "gas:candidate-vibid:23420001156468": 47,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9246,15 +9246,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 5,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 50,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 2
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 5,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 50,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9305,15 +9305,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 3,
-      "Михеев Алексей Олегович": 5,
-      "Плотников Владимир Николаевич": 33,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 1
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 3,
+      "gas:candidate-vibid:23420001155513": 5,
+      "gas:candidate-vibid:23420001156468": 33,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9364,15 +9364,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 21,
-      "Михеев Алексей Олегович": 8,
-      "Плотников Владимир Николаевич": 89,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 11
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 21,
+      "gas:candidate-vibid:23420001155513": 8,
+      "gas:candidate-vibid:23420001156468": 89,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9423,15 +9423,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 5,
-      "Плотников Владимир Николаевич": 66,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 4
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 5,
+      "gas:candidate-vibid:23420001156468": 66,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9482,15 +9482,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 17,
-      "Михеев Алексей Олегович": 35,
-      "Плотников Владимир Николаевич": 78,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 18
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 17,
+      "gas:candidate-vibid:23420001155513": 35,
+      "gas:candidate-vibid:23420001156468": 78,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9541,15 +9541,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 10,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 55,
-      "Михеев Алексей Олегович": 43,
-      "Плотников Владимир Николаевич": 226,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 53
+      "gas:candidate-vibid:23420001157462": 10,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 55,
+      "gas:candidate-vibid:23420001155513": 43,
+      "gas:candidate-vibid:23420001156468": 226,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9600,15 +9600,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 61,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 4
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 61,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9659,15 +9659,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 24,
-      "Михеев Алексей Олегович": 22,
-      "Плотников Владимир Николаевич": 212,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 33
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 24,
+      "gas:candidate-vibid:23420001155513": 22,
+      "gas:candidate-vibid:23420001156468": 212,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9718,15 +9718,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 5,
-      "Плотников Владимир Николаевич": 69,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 1
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 5,
+      "gas:candidate-vibid:23420001156468": 69,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9777,15 +9777,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 4,
-      "Михеев Алексей Олегович": 15,
-      "Плотников Владимир Николаевич": 117,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 9
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 4,
+      "gas:candidate-vibid:23420001155513": 15,
+      "gas:candidate-vibid:23420001156468": 117,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9836,15 +9836,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 24,
-      "Михеев Алексей Олегович": 36,
-      "Плотников Владимир Николаевич": 162,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 17
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 24,
+      "gas:candidate-vibid:23420001155513": 36,
+      "gas:candidate-vibid:23420001156468": 162,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9895,15 +9895,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 15,
-      "Плотников Владимир Николаевич": 94,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 11
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 15,
+      "gas:candidate-vibid:23420001156468": 94,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -9954,15 +9954,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 37,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 246,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 14
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 37,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 246,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10013,15 +10013,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 6,
-      "Плотников Владимир Николаевич": 118,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 6,
+      "gas:candidate-vibid:23420001156468": 118,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10072,15 +10072,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 44,
-      "Михеев Алексей Олегович": 24,
-      "Плотников Владимир Николаевич": 451,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 65
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 44,
+      "gas:candidate-vibid:23420001155513": 24,
+      "gas:candidate-vibid:23420001156468": 451,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10131,15 +10131,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 14,
-      "Михеев Алексей Олегович": 14,
-      "Плотников Владимир Николаевич": 134,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 28
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 14,
+      "gas:candidate-vibid:23420001155513": 14,
+      "gas:candidate-vibid:23420001156468": 134,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10190,15 +10190,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 22,
-      "Михеев Алексей Олегович": 18,
-      "Плотников Владимир Николаевич": 152,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 25
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 22,
+      "gas:candidate-vibid:23420001155513": 18,
+      "gas:candidate-vibid:23420001156468": 152,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10249,15 +10249,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 10,
-      "Плотников Владимир Николаевич": 145,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 19
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 10,
+      "gas:candidate-vibid:23420001156468": 145,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10308,15 +10308,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 44,
-      "Михеев Алексей Олегович": 41,
-      "Плотников Владимир Николаевич": 218,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 21
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 44,
+      "gas:candidate-vibid:23420001155513": 41,
+      "gas:candidate-vibid:23420001156468": 218,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10367,15 +10367,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 6,
-      "Михеев Алексей Олегович": 5,
-      "Плотников Владимир Николаевич": 95,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 6
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 6,
+      "gas:candidate-vibid:23420001155513": 5,
+      "gas:candidate-vibid:23420001156468": 95,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10426,15 +10426,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 8,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 82,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 8
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 8,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 82,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10485,15 +10485,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 13,
-      "Михеев Алексей Олегович": 17,
-      "Плотников Владимир Николаевич": 144,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 23
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 13,
+      "gas:candidate-vibid:23420001155513": 17,
+      "gas:candidate-vibid:23420001156468": 144,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10544,15 +10544,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 20,
-      "Плотников Владимир Николаевич": 184,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 8
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 20,
+      "gas:candidate-vibid:23420001156468": 184,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10603,15 +10603,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 2,
-      "Плотников Владимир Николаевич": 44,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 1
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 2,
+      "gas:candidate-vibid:23420001156468": 44,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10662,15 +10662,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 61,
-      "Михеев Алексей Олегович": 29,
-      "Плотников Владимир Николаевич": 196,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 27
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 61,
+      "gas:candidate-vibid:23420001155513": 29,
+      "gas:candidate-vibid:23420001156468": 196,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10721,15 +10721,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 13,
-      "Михеев Алексей Олегович": 12,
-      "Плотников Владимир Николаевич": 77,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 13
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 13,
+      "gas:candidate-vibid:23420001155513": 12,
+      "gas:candidate-vibid:23420001156468": 77,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10780,15 +10780,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 10,
-      "Михеев Алексей Олегович": 14,
-      "Плотников Владимир Николаевич": 82,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 10,
+      "gas:candidate-vibid:23420001155513": 14,
+      "gas:candidate-vibid:23420001156468": 82,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10839,15 +10839,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 18,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 70,
-      "Михеев Алексей Олегович": 69,
-      "Плотников Владимир Николаевич": 274,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 62
+      "gas:candidate-vibid:23420001157462": 18,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 70,
+      "gas:candidate-vibid:23420001155513": 69,
+      "gas:candidate-vibid:23420001156468": 274,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105221&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105221&type=464",
@@ -10898,15 +10898,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 24,
-      "Бондарь Сергей Николаевич": 16,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 80,
-      "Михеев Алексей Олегович": 73,
-      "Плотников Владимир Николаевич": 549,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 118
+      "gas:candidate-vibid:23420001157462": 24,
+      "gas:candidate-vibid:23420001157485": 16,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 80,
+      "gas:candidate-vibid:23420001155513": 73,
+      "gas:candidate-vibid:23420001156468": 549,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -10957,15 +10957,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 12,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 40,
-      "Михеев Алексей Олегович": 31,
-      "Плотников Владимир Николаевич": 361,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 34
+      "gas:candidate-vibid:23420001157462": 12,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 40,
+      "gas:candidate-vibid:23420001155513": 31,
+      "gas:candidate-vibid:23420001156468": 361,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11016,15 +11016,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 43,
-      "Михеев Алексей Олегович": 31,
-      "Плотников Владимир Николаевич": 341,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 63
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 43,
+      "gas:candidate-vibid:23420001155513": 31,
+      "gas:candidate-vibid:23420001156468": 341,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11075,15 +11075,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 10,
-      "Плотников Владимир Николаевич": 103,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 3
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 10,
+      "gas:candidate-vibid:23420001156468": 103,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11134,15 +11134,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 23,
-      "Михеев Алексей Олегович": 16,
-      "Плотников Владимир Николаевич": 160,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 13
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 23,
+      "gas:candidate-vibid:23420001155513": 16,
+      "gas:candidate-vibid:23420001156468": 160,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11193,15 +11193,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 12,
-      "Михеев Алексей Олегович": 6,
-      "Плотников Владимир Николаевич": 44,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 8
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 12,
+      "gas:candidate-vibid:23420001155513": 6,
+      "gas:candidate-vibid:23420001156468": 44,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11252,15 +11252,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 12,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 4,
-      "Майборода Алексей Александрович": 30,
-      "Михеев Алексей Олегович": 16,
-      "Плотников Владимир Николаевич": 134,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 18
+      "gas:candidate-vibid:23420001157462": 12,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 4,
+      "gas:candidate-vibid:23420001155181": 30,
+      "gas:candidate-vibid:23420001155513": 16,
+      "gas:candidate-vibid:23420001156468": 134,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11311,15 +11311,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 17,
-      "Михеев Алексей Олегович": 11,
-      "Плотников Владимир Николаевич": 201,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 21
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 17,
+      "gas:candidate-vibid:23420001155513": 11,
+      "gas:candidate-vibid:23420001156468": 201,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11370,15 +11370,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 32,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 172,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 15
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 32,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 172,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11429,15 +11429,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 6,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 13,
-      "Михеев Алексей Олегович": 5,
-      "Плотников Владимир Николаевич": 191,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 7
+      "gas:candidate-vibid:23420001157462": 6,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 13,
+      "gas:candidate-vibid:23420001155513": 5,
+      "gas:candidate-vibid:23420001156468": 191,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11488,15 +11488,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 19,
-      "Михеев Алексей Олегович": 23,
-      "Плотников Владимир Николаевич": 228,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 31
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 19,
+      "gas:candidate-vibid:23420001155513": 23,
+      "gas:candidate-vibid:23420001156468": 228,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11547,15 +11547,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 2,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 82,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 4
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 2,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 82,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11606,15 +11606,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 2,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 58,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 0
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 2,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 58,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11665,15 +11665,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 16,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 57,
-      "Михеев Алексей Олегович": 54,
-      "Плотников Владимир Николаевич": 204,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 40
+      "gas:candidate-vibid:23420001157462": 16,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 57,
+      "gas:candidate-vibid:23420001155513": 54,
+      "gas:candidate-vibid:23420001156468": 204,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11724,15 +11724,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 10,
-      "Михеев Алексей Олегович": 6,
-      "Плотников Владимир Николаевич": 44,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 18
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 10,
+      "gas:candidate-vibid:23420001155513": 6,
+      "gas:candidate-vibid:23420001156468": 44,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11783,15 +11783,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 52,
-      "Михеев Алексей Олегович": 29,
-      "Плотников Владимир Николаевич": 426,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 35
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 52,
+      "gas:candidate-vibid:23420001155513": 29,
+      "gas:candidate-vibid:23420001156468": 426,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11842,15 +11842,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 24,
-      "Михеев Алексей Олегович": 6,
-      "Плотников Владимир Николаевич": 107,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 9
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 24,
+      "gas:candidate-vibid:23420001155513": 6,
+      "gas:candidate-vibid:23420001156468": 107,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11901,15 +11901,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 9,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 174,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 7
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 9,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 174,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -11960,15 +11960,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 9,
-      "Плотников Владимир Николаевич": 121,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 15
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 9,
+      "gas:candidate-vibid:23420001156468": 121,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -12019,15 +12019,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 14,
-      "Михеев Алексей Олегович": 8,
-      "Плотников Владимир Николаевич": 61,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 3
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 14,
+      "gas:candidate-vibid:23420001155513": 8,
+      "gas:candidate-vibid:23420001156468": 61,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -12078,15 +12078,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 6,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 62,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 17
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 6,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 62,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -12137,15 +12137,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 15,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 40,
-      "Михеев Алексей Олегович": 81,
-      "Плотников Владимир Николаевич": 329,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 17
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 15,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 40,
+      "gas:candidate-vibid:23420001155513": 81,
+      "gas:candidate-vibid:23420001156468": 329,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -12196,15 +12196,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 8,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 29,
-      "Михеев Алексей Олегович": 19,
-      "Плотников Владимир Николаевич": 235,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 24
+      "gas:candidate-vibid:23420001157462": 8,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 29,
+      "gas:candidate-vibid:23420001155513": 19,
+      "gas:candidate-vibid:23420001156468": 235,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -12255,15 +12255,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 5,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 25,
-      "Михеев Алексей Олегович": 24,
-      "Плотников Владимир Николаевич": 523,
-      "Полунин Анатолий Аркадьевич": 18,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 37
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 5,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 25,
+      "gas:candidate-vibid:23420001155513": 24,
+      "gas:candidate-vibid:23420001156468": 523,
+      "gas:candidate-vibid:23420001156131": 18,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105222&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105222&type=464",
@@ -12314,15 +12314,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 20,
-      "Бондарь Сергей Николаевич": 15,
-      "Котельников Валерий Владимирович": 7,
-      "Майборода Алексей Александрович": 113,
-      "Михеев Алексей Олегович": 88,
-      "Плотников Владимир Николаевич": 350,
-      "Полунин Анатолий Аркадьевич": 9,
-      "Прошаков Андрей Павлович": 23,
-      "Шаманаев Евгений Иванович": 107
+      "gas:candidate-vibid:23420001157462": 20,
+      "gas:candidate-vibid:23420001157485": 15,
+      "gas:candidate-vibid:23420001156313": 7,
+      "gas:candidate-vibid:23420001155181": 113,
+      "gas:candidate-vibid:23420001155513": 88,
+      "gas:candidate-vibid:23420001156468": 350,
+      "gas:candidate-vibid:23420001156131": 9,
+      "gas:candidate-vibid:23420001155938": 23,
+      "gas:candidate-vibid:23420001154789": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12373,15 +12373,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 20,
-      "Бондарь Сергей Николаевич": 17,
-      "Котельников Валерий Владимирович": 17,
-      "Майборода Алексей Александрович": 74,
-      "Михеев Алексей Олегович": 115,
-      "Плотников Владимир Николаевич": 339,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 18,
-      "Шаманаев Евгений Иванович": 126
+      "gas:candidate-vibid:23420001157462": 20,
+      "gas:candidate-vibid:23420001157485": 17,
+      "gas:candidate-vibid:23420001156313": 17,
+      "gas:candidate-vibid:23420001155181": 74,
+      "gas:candidate-vibid:23420001155513": 115,
+      "gas:candidate-vibid:23420001156468": 339,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 18,
+      "gas:candidate-vibid:23420001154789": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12432,15 +12432,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 32,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 17,
-      "Майборода Алексей Александрович": 137,
-      "Михеев Алексей Олегович": 121,
-      "Плотников Владимир Николаевич": 369,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 31,
-      "Шаманаев Евгений Иванович": 145
+      "gas:candidate-vibid:23420001157462": 32,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 17,
+      "gas:candidate-vibid:23420001155181": 137,
+      "gas:candidate-vibid:23420001155513": 121,
+      "gas:candidate-vibid:23420001156468": 369,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 31,
+      "gas:candidate-vibid:23420001154789": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12491,15 +12491,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 25,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 84,
-      "Михеев Алексей Олегович": 112,
-      "Плотников Владимир Николаевич": 346,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 22,
-      "Шаманаев Евгений Иванович": 112
+      "gas:candidate-vibid:23420001157462": 25,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 84,
+      "gas:candidate-vibid:23420001155513": 112,
+      "gas:candidate-vibid:23420001156468": 346,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 22,
+      "gas:candidate-vibid:23420001154789": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12550,15 +12550,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 21,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 13,
-      "Майборода Алексей Александрович": 94,
-      "Михеев Алексей Олегович": 85,
-      "Плотников Владимир Николаевич": 363,
-      "Полунин Анатолий Аркадьевич": 16,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 97
+      "gas:candidate-vibid:23420001157462": 21,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 13,
+      "gas:candidate-vibid:23420001155181": 94,
+      "gas:candidate-vibid:23420001155513": 85,
+      "gas:candidate-vibid:23420001156468": 363,
+      "gas:candidate-vibid:23420001156131": 16,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12609,15 +12609,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 20,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 13,
-      "Майборода Алексей Александрович": 52,
-      "Михеев Алексей Олегович": 60,
-      "Плотников Владимир Николаевич": 211,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 65
+      "gas:candidate-vibid:23420001157462": 20,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 13,
+      "gas:candidate-vibid:23420001155181": 52,
+      "gas:candidate-vibid:23420001155513": 60,
+      "gas:candidate-vibid:23420001156468": 211,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12668,15 +12668,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 15,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 87,
-      "Михеев Алексей Олегович": 57,
-      "Плотников Владимир Николаевич": 249,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 9,
-      "Шаманаев Евгений Иванович": 48
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 15,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 87,
+      "gas:candidate-vibid:23420001155513": 57,
+      "gas:candidate-vibid:23420001156468": 249,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 9,
+      "gas:candidate-vibid:23420001154789": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12727,15 +12727,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 28,
-      "Бондарь Сергей Николаевич": 15,
-      "Котельников Валерий Владимирович": 19,
-      "Майборода Алексей Александрович": 151,
-      "Михеев Алексей Олегович": 83,
-      "Плотников Владимир Николаевич": 477,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 17,
-      "Шаманаев Евгений Иванович": 125
+      "gas:candidate-vibid:23420001157462": 28,
+      "gas:candidate-vibid:23420001157485": 15,
+      "gas:candidate-vibid:23420001156313": 19,
+      "gas:candidate-vibid:23420001155181": 151,
+      "gas:candidate-vibid:23420001155513": 83,
+      "gas:candidate-vibid:23420001156468": 477,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 17,
+      "gas:candidate-vibid:23420001154789": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12786,15 +12786,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 30,
-      "Бондарь Сергей Николаевич": 16,
-      "Котельников Валерий Владимирович": 17,
-      "Майборода Алексей Александрович": 128,
-      "Михеев Алексей Олегович": 96,
-      "Плотников Владимир Николаевич": 416,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 103
+      "gas:candidate-vibid:23420001157462": 30,
+      "gas:candidate-vibid:23420001157485": 16,
+      "gas:candidate-vibid:23420001156313": 17,
+      "gas:candidate-vibid:23420001155181": 128,
+      "gas:candidate-vibid:23420001155513": 96,
+      "gas:candidate-vibid:23420001156468": 416,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12845,15 +12845,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 78,
-      "Михеев Алексей Олегович": 43,
-      "Плотников Владимир Николаевич": 195,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 48
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 78,
+      "gas:candidate-vibid:23420001155513": 43,
+      "gas:candidate-vibid:23420001156468": 195,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12904,15 +12904,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 11,
-      "Котельников Валерий Владимирович": 11,
-      "Майборода Алексей Александрович": 88,
-      "Михеев Алексей Олегович": 32,
-      "Плотников Владимир Николаевич": 159,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 57
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 11,
+      "gas:candidate-vibid:23420001156313": 11,
+      "gas:candidate-vibid:23420001155181": 88,
+      "gas:candidate-vibid:23420001155513": 32,
+      "gas:candidate-vibid:23420001156468": 159,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -12963,15 +12963,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 68,
-      "Михеев Алексей Олегович": 27,
-      "Плотников Владимир Николаевич": 232,
-      "Полунин Анатолий Аркадьевич": 5,
-      "Прошаков Андрей Павлович": 14,
-      "Шаманаев Евгений Иванович": 77
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 68,
+      "gas:candidate-vibid:23420001155513": 27,
+      "gas:candidate-vibid:23420001156468": 232,
+      "gas:candidate-vibid:23420001156131": 5,
+      "gas:candidate-vibid:23420001155938": 14,
+      "gas:candidate-vibid:23420001154789": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13022,15 +13022,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 19,
-      "Бондарь Сергей Николаевич": 7,
-      "Котельников Валерий Владимирович": 11,
-      "Майборода Алексей Александрович": 52,
-      "Михеев Алексей Олегович": 59,
-      "Плотников Владимир Николаевич": 186,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 7,
-      "Шаманаев Евгений Иванович": 71
+      "gas:candidate-vibid:23420001157462": 19,
+      "gas:candidate-vibid:23420001157485": 7,
+      "gas:candidate-vibid:23420001156313": 11,
+      "gas:candidate-vibid:23420001155181": 52,
+      "gas:candidate-vibid:23420001155513": 59,
+      "gas:candidate-vibid:23420001156468": 186,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 7,
+      "gas:candidate-vibid:23420001154789": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13081,15 +13081,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 9,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 49,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 153,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 50
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 9,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 49,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 153,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13140,15 +13140,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 9,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 76,
-      "Михеев Алексей Олегович": 52,
-      "Плотников Владимир Николаевич": 216,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 63
+      "gas:candidate-vibid:23420001157462": 9,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 76,
+      "gas:candidate-vibid:23420001155513": 52,
+      "gas:candidate-vibid:23420001156468": 216,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13199,15 +13199,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 25,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 17,
-      "Майборода Алексей Александрович": 153,
-      "Михеев Алексей Олегович": 70,
-      "Плотников Владимир Николаевич": 373,
-      "Полунин Анатолий Аркадьевич": 13,
-      "Прошаков Андрей Павлович": 27,
-      "Шаманаев Евгений Иванович": 121
+      "gas:candidate-vibid:23420001157462": 25,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 17,
+      "gas:candidate-vibid:23420001155181": 153,
+      "gas:candidate-vibid:23420001155513": 70,
+      "gas:candidate-vibid:23420001156468": 373,
+      "gas:candidate-vibid:23420001156131": 13,
+      "gas:candidate-vibid:23420001155938": 27,
+      "gas:candidate-vibid:23420001154789": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13258,15 +13258,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 25,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 9,
-      "Майборода Алексей Александрович": 91,
-      "Михеев Алексей Олегович": 97,
-      "Плотников Владимир Николаевич": 313,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 14,
-      "Шаманаев Евгений Иванович": 92
+      "gas:candidate-vibid:23420001157462": 25,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 9,
+      "gas:candidate-vibid:23420001155181": 91,
+      "gas:candidate-vibid:23420001155513": 97,
+      "gas:candidate-vibid:23420001156468": 313,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 14,
+      "gas:candidate-vibid:23420001154789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13317,15 +13317,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 27,
-      "Бондарь Сергей Николаевич": 12,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 86,
-      "Михеев Алексей Олегович": 94,
-      "Плотников Владимир Николаевич": 348,
-      "Полунин Анатолий Аркадьевич": 8,
-      "Прошаков Андрей Павлович": 27,
-      "Шаманаев Евгений Иванович": 100
+      "gas:candidate-vibid:23420001157462": 27,
+      "gas:candidate-vibid:23420001157485": 12,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 86,
+      "gas:candidate-vibid:23420001155513": 94,
+      "gas:candidate-vibid:23420001156468": 348,
+      "gas:candidate-vibid:23420001156131": 8,
+      "gas:candidate-vibid:23420001155938": 27,
+      "gas:candidate-vibid:23420001154789": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13376,15 +13376,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 15,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 14,
-      "Майборода Алексей Александрович": 97,
-      "Михеев Алексей Олегович": 75,
-      "Плотников Владимир Николаевич": 275,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 15,
-      "Шаманаев Евгений Иванович": 97
+      "gas:candidate-vibid:23420001157462": 15,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 14,
+      "gas:candidate-vibid:23420001155181": 97,
+      "gas:candidate-vibid:23420001155513": 75,
+      "gas:candidate-vibid:23420001156468": 275,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 15,
+      "gas:candidate-vibid:23420001154789": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13435,15 +13435,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 22,
-      "Бондарь Сергей Николаевич": 13,
-      "Котельников Валерий Владимирович": 14,
-      "Майборода Алексей Александрович": 155,
-      "Михеев Алексей Олегович": 118,
-      "Плотников Владимир Николаевич": 437,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 21,
-      "Шаманаев Евгений Иванович": 126
+      "gas:candidate-vibid:23420001157462": 22,
+      "gas:candidate-vibid:23420001157485": 13,
+      "gas:candidate-vibid:23420001156313": 14,
+      "gas:candidate-vibid:23420001155181": 155,
+      "gas:candidate-vibid:23420001155513": 118,
+      "gas:candidate-vibid:23420001156468": 437,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 21,
+      "gas:candidate-vibid:23420001154789": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13494,15 +13494,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 14,
-      "Бондарь Сергей Николаевич": 18,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 85,
-      "Михеев Алексей Олегович": 102,
-      "Плотников Владимир Николаевич": 315,
-      "Полунин Анатолий Аркадьевич": 11,
-      "Прошаков Андрей Павлович": 20,
-      "Шаманаев Евгений Иванович": 138
+      "gas:candidate-vibid:23420001157462": 14,
+      "gas:candidate-vibid:23420001157485": 18,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 85,
+      "gas:candidate-vibid:23420001155513": 102,
+      "gas:candidate-vibid:23420001156468": 315,
+      "gas:candidate-vibid:23420001156131": 11,
+      "gas:candidate-vibid:23420001155938": 20,
+      "gas:candidate-vibid:23420001154789": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13553,15 +13553,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 27,
-      "Бондарь Сергей Николаевич": 19,
-      "Котельников Валерий Владимирович": 15,
-      "Майборода Алексей Александрович": 161,
-      "Михеев Алексей Олегович": 95,
-      "Плотников Владимир Николаевич": 415,
-      "Полунин Анатолий Аркадьевич": 9,
-      "Прошаков Андрей Павлович": 18,
-      "Шаманаев Евгений Иванович": 144
+      "gas:candidate-vibid:23420001157462": 27,
+      "gas:candidate-vibid:23420001157485": 19,
+      "gas:candidate-vibid:23420001156313": 15,
+      "gas:candidate-vibid:23420001155181": 161,
+      "gas:candidate-vibid:23420001155513": 95,
+      "gas:candidate-vibid:23420001156468": 415,
+      "gas:candidate-vibid:23420001156131": 9,
+      "gas:candidate-vibid:23420001155938": 18,
+      "gas:candidate-vibid:23420001154789": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13612,15 +13612,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 19,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 68,
-      "Михеев Алексей Олегович": 38,
-      "Плотников Владимир Николаевич": 174,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 15,
-      "Шаманаев Евгений Иванович": 56
+      "gas:candidate-vibid:23420001157462": 19,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 68,
+      "gas:candidate-vibid:23420001155513": 38,
+      "gas:candidate-vibid:23420001156468": 174,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 15,
+      "gas:candidate-vibid:23420001154789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13671,15 +13671,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 11,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 77,
-      "Михеев Алексей Олегович": 51,
-      "Плотников Владимир Николаевич": 220,
-      "Полунин Анатолий Аркадьевич": 6,
-      "Прошаков Андрей Павлович": 8,
-      "Шаманаев Евгений Иванович": 71
+      "gas:candidate-vibid:23420001157462": 11,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 77,
+      "gas:candidate-vibid:23420001155513": 51,
+      "gas:candidate-vibid:23420001156468": 220,
+      "gas:candidate-vibid:23420001156131": 6,
+      "gas:candidate-vibid:23420001155938": 8,
+      "gas:candidate-vibid:23420001154789": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13730,15 +13730,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 33,
-      "Бондарь Сергей Николаевич": 14,
-      "Котельников Валерий Владимирович": 20,
-      "Майборода Алексей Александрович": 142,
-      "Михеев Алексей Олегович": 87,
-      "Плотников Владимир Николаевич": 493,
-      "Полунин Анатолий Аркадьевич": 13,
-      "Прошаков Андрей Павлович": 20,
-      "Шаманаев Евгений Иванович": 132
+      "gas:candidate-vibid:23420001157462": 33,
+      "gas:candidate-vibid:23420001157485": 14,
+      "gas:candidate-vibid:23420001156313": 20,
+      "gas:candidate-vibid:23420001155181": 142,
+      "gas:candidate-vibid:23420001155513": 87,
+      "gas:candidate-vibid:23420001156468": 493,
+      "gas:candidate-vibid:23420001156131": 13,
+      "gas:candidate-vibid:23420001155938": 20,
+      "gas:candidate-vibid:23420001154789": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13789,15 +13789,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 35,
-      "Бондарь Сергей Николаевич": 18,
-      "Котельников Валерий Владимирович": 12,
-      "Майборода Алексей Александрович": 124,
-      "Михеев Алексей Олегович": 110,
-      "Плотников Владимир Николаевич": 390,
-      "Полунин Анатолий Аркадьевич": 16,
-      "Прошаков Андрей Павлович": 20,
-      "Шаманаев Евгений Иванович": 124
+      "gas:candidate-vibid:23420001157462": 35,
+      "gas:candidate-vibid:23420001157485": 18,
+      "gas:candidate-vibid:23420001156313": 12,
+      "gas:candidate-vibid:23420001155181": 124,
+      "gas:candidate-vibid:23420001155513": 110,
+      "gas:candidate-vibid:23420001156468": 390,
+      "gas:candidate-vibid:23420001156131": 16,
+      "gas:candidate-vibid:23420001155938": 20,
+      "gas:candidate-vibid:23420001154789": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105223&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105223&type=464",
@@ -13848,15 +13848,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 22,
-      "Бондарь Сергей Николаевич": 10,
-      "Котельников Валерий Владимирович": 6,
-      "Майборода Алексей Александрович": 111,
-      "Михеев Алексей Олегович": 111,
-      "Плотников Владимир Николаевич": 805,
-      "Полунин Анатолий Аркадьевич": 10,
-      "Прошаков Андрей Павлович": 15,
-      "Шаманаев Евгений Иванович": 93
+      "gas:candidate-vibid:23420001157462": 22,
+      "gas:candidate-vibid:23420001157485": 10,
+      "gas:candidate-vibid:23420001156313": 6,
+      "gas:candidate-vibid:23420001155181": 111,
+      "gas:candidate-vibid:23420001155513": 111,
+      "gas:candidate-vibid:23420001156468": 805,
+      "gas:candidate-vibid:23420001156131": 10,
+      "gas:candidate-vibid:23420001155938": 15,
+      "gas:candidate-vibid:23420001154789": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -13907,15 +13907,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 21,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 15,
-      "Майборода Алексей Александрович": 99,
-      "Михеев Алексей Олегович": 121,
-      "Плотников Владимир Николаевич": 381,
-      "Полунин Анатолий Аркадьевич": 14,
-      "Прошаков Андрей Павлович": 12,
-      "Шаманаев Евгений Иванович": 77
+      "gas:candidate-vibid:23420001157462": 21,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 15,
+      "gas:candidate-vibid:23420001155181": 99,
+      "gas:candidate-vibid:23420001155513": 121,
+      "gas:candidate-vibid:23420001156468": 381,
+      "gas:candidate-vibid:23420001156131": 14,
+      "gas:candidate-vibid:23420001155938": 12,
+      "gas:candidate-vibid:23420001154789": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -13966,15 +13966,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 9,
-      "Михеев Алексей Олегович": 29,
-      "Плотников Владимир Николаевич": 109,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 0
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 9,
+      "gas:candidate-vibid:23420001155513": 29,
+      "gas:candidate-vibid:23420001156468": 109,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14025,15 +14025,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 7,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 10,
-      "Майборода Алексей Александрович": 31,
-      "Михеев Алексей Олегович": 27,
-      "Плотников Владимир Николаевич": 142,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 6,
-      "Шаманаев Евгений Иванович": 22
+      "gas:candidate-vibid:23420001157462": 7,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 10,
+      "gas:candidate-vibid:23420001155181": 31,
+      "gas:candidate-vibid:23420001155513": 27,
+      "gas:candidate-vibid:23420001156468": 142,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 6,
+      "gas:candidate-vibid:23420001154789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14084,15 +14084,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 9,
-      "Михеев Алексей Олегович": 13,
-      "Плотников Владимир Николаевич": 41,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 4
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 9,
+      "gas:candidate-vibid:23420001155513": 13,
+      "gas:candidate-vibid:23420001156468": 41,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14143,15 +14143,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 13,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 36,
-      "Михеев Алексей Олегович": 41,
-      "Плотников Владимир Николаевич": 179,
-      "Полунин Анатолий Аркадьевич": 4,
-      "Прошаков Андрей Павлович": 5,
-      "Шаманаев Евгений Иванович": 16
+      "gas:candidate-vibid:23420001157462": 13,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 36,
+      "gas:candidate-vibid:23420001155513": 41,
+      "gas:candidate-vibid:23420001156468": 179,
+      "gas:candidate-vibid:23420001156131": 4,
+      "gas:candidate-vibid:23420001155938": 5,
+      "gas:candidate-vibid:23420001154789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14202,15 +14202,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 2,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 14,
-      "Плотников Владимир Николаевич": 54,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 2,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 14,
+      "gas:candidate-vibid:23420001156468": 54,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14261,15 +14261,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 0,
-      "Бондарь Сергей Николаевич": 3,
-      "Котельников Валерий Владимирович": 1,
-      "Майборода Алексей Александрович": 7,
-      "Михеев Алексей Олегович": 7,
-      "Плотников Владимир Николаевич": 36,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 1,
-      "Шаманаев Евгений Иванович": 5
+      "gas:candidate-vibid:23420001157462": 0,
+      "gas:candidate-vibid:23420001157485": 3,
+      "gas:candidate-vibid:23420001156313": 1,
+      "gas:candidate-vibid:23420001155181": 7,
+      "gas:candidate-vibid:23420001155513": 7,
+      "gas:candidate-vibid:23420001156468": 36,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 1,
+      "gas:candidate-vibid:23420001154789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14320,15 +14320,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 17,
-      "Михеев Алексей Олегович": 37,
-      "Плотников Владимир Николаевич": 164,
-      "Полунин Анатолий Аркадьевич": 2,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 28
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 17,
+      "gas:candidate-vibid:23420001155513": 37,
+      "gas:candidate-vibid:23420001156468": 164,
+      "gas:candidate-vibid:23420001156131": 2,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14379,15 +14379,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 2,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 5,
-      "Михеев Алексей Олегович": 2,
-      "Плотников Владимир Николаевич": 32,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 2
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 2,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 5,
+      "gas:candidate-vibid:23420001155513": 2,
+      "gas:candidate-vibid:23420001156468": 32,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14438,15 +14438,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 4,
-      "Котельников Валерий Владимирович": 8,
-      "Майборода Алексей Александрович": 10,
-      "Михеев Алексей Олегович": 21,
-      "Плотников Владимир Николаевич": 216,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 4,
-      "Шаманаев Евгений Иванович": 10
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 4,
+      "gas:candidate-vibid:23420001156313": 8,
+      "gas:candidate-vibid:23420001155181": 10,
+      "gas:candidate-vibid:23420001155513": 21,
+      "gas:candidate-vibid:23420001156468": 216,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 4,
+      "gas:candidate-vibid:23420001154789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14497,15 +14497,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 3,
-      "Бондарь Сергей Николаевич": 1,
-      "Котельников Валерий Владимирович": 0,
-      "Майборода Алексей Александрович": 1,
-      "Михеев Алексей Олегович": 3,
-      "Плотников Владимир Николаевич": 45,
-      "Полунин Анатолий Аркадьевич": 0,
-      "Прошаков Андрей Павлович": 0,
-      "Шаманаев Евгений Иванович": 1
+      "gas:candidate-vibid:23420001157462": 3,
+      "gas:candidate-vibid:23420001157485": 1,
+      "gas:candidate-vibid:23420001156313": 0,
+      "gas:candidate-vibid:23420001155181": 1,
+      "gas:candidate-vibid:23420001155513": 3,
+      "gas:candidate-vibid:23420001156468": 45,
+      "gas:candidate-vibid:23420001156131": 0,
+      "gas:candidate-vibid:23420001155938": 0,
+      "gas:candidate-vibid:23420001154789": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14556,15 +14556,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 16,
-      "Бондарь Сергей Николаевич": 6,
-      "Котельников Валерий Владимирович": 3,
-      "Майборода Алексей Александрович": 55,
-      "Михеев Алексей Олегович": 44,
-      "Плотников Владимир Николаевич": 280,
-      "Полунин Анатолий Аркадьевич": 7,
-      "Прошаков Андрей Павлович": 13,
-      "Шаманаев Евгений Иванович": 40
+      "gas:candidate-vibid:23420001157462": 16,
+      "gas:candidate-vibid:23420001157485": 6,
+      "gas:candidate-vibid:23420001156313": 3,
+      "gas:candidate-vibid:23420001155181": 55,
+      "gas:candidate-vibid:23420001155513": 44,
+      "gas:candidate-vibid:23420001156468": 280,
+      "gas:candidate-vibid:23420001156131": 7,
+      "gas:candidate-vibid:23420001155938": 13,
+      "gas:candidate-vibid:23420001154789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14615,15 +14615,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 1,
-      "Бондарь Сергей Николаевич": 0,
-      "Котельников Валерий Владимирович": 5,
-      "Майборода Алексей Александрович": 29,
-      "Михеев Алексей Олегович": 7,
-      "Плотников Владимир Николаевич": 166,
-      "Полунин Анатолий Аркадьевич": 3,
-      "Прошаков Андрей Павлович": 3,
-      "Шаманаев Евгений Иванович": 59
+      "gas:candidate-vibid:23420001157462": 1,
+      "gas:candidate-vibid:23420001157485": 0,
+      "gas:candidate-vibid:23420001156313": 5,
+      "gas:candidate-vibid:23420001155181": 29,
+      "gas:candidate-vibid:23420001155513": 7,
+      "gas:candidate-vibid:23420001156468": 166,
+      "gas:candidate-vibid:23420001156131": 3,
+      "gas:candidate-vibid:23420001155938": 3,
+      "gas:candidate-vibid:23420001154789": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",
@@ -14674,15 +14674,15 @@ export const duma_2016_uik_463_region_34_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабкин Андрей Геннадьевич": 4,
-      "Бондарь Сергей Николаевич": 8,
-      "Котельников Валерий Владимирович": 2,
-      "Майборода Алексей Александрович": 15,
-      "Михеев Алексей Олегович": 25,
-      "Плотников Владимир Николаевич": 151,
-      "Полунин Анатолий Аркадьевич": 1,
-      "Прошаков Андрей Павлович": 2,
-      "Шаманаев Евгений Иванович": 10
+      "gas:candidate-vibid:23420001157462": 4,
+      "gas:candidate-vibid:23420001157485": 8,
+      "gas:candidate-vibid:23420001156313": 2,
+      "gas:candidate-vibid:23420001155181": 15,
+      "gas:candidate-vibid:23420001155513": 25,
+      "gas:candidate-vibid:23420001156468": 151,
+      "gas:candidate-vibid:23420001156131": 1,
+      "gas:candidate-vibid:23420001155938": 2,
+      "gas:candidate-vibid:23420001154789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000107&tvd=23420001105224&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105224&type=464",

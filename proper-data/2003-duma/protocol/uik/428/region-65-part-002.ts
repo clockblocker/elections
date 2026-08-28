@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 15,
-      "Ветер Надежда Сергеевна": 15,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 91,
-      "Ефремов Владимир Ильич": 425,
-      "Ждакаев Иван Андреевич": 281,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 45,
-      "Полуханов Андрей Анатольевич": 14,
-      "Янко Ирина Александровна": 14,
-      "Против всех": 144
+      "gas:candidate-vibid:265200067534": 15,
+      "gas:candidate-vibid:1001000195141": 15,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 91,
+      "gas:candidate-vibid:1001000225985": 425,
+      "gas:candidate-vibid:1001000121908": 281,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 45,
+      "gas:candidate-vibid:1001000136120": 14,
+      "gas:candidate-vibid:265200067481": 14,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 9,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 20,
-      "Ефремов Владимир Ильич": 100,
-      "Ждакаев Иван Андреевич": 78,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 5,
-      "Полуханов Андрей Анатольевич": 7,
-      "Янко Ирина Александровна": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:265200067534": 9,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 20,
+      "gas:candidate-vibid:1001000225985": 100,
+      "gas:candidate-vibid:1001000121908": 78,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 5,
+      "gas:candidate-vibid:1001000136120": 7,
+      "gas:candidate-vibid:265200067481": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 6,
-      "Ефремов Владимир Ильич": 27,
-      "Ждакаев Иван Андреевич": 29,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 7,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 6,
+      "gas:candidate-vibid:1001000225985": 27,
+      "gas:candidate-vibid:1001000121908": 29,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 7,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 5,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 12,
-      "Ефремов Владимир Ильич": 46,
-      "Ждакаев Иван Андреевич": 28,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:265200067534": 5,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 12,
+      "gas:candidate-vibid:1001000225985": 46,
+      "gas:candidate-vibid:1001000121908": 28,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 12,
-      "Ефремов Владимир Ильич": 32,
-      "Ждакаев Иван Андреевич": 10,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 12,
+      "gas:candidate-vibid:1001000225985": 32,
+      "gas:candidate-vibid:1001000121908": 10,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 13,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 23,
-      "Ефремов Владимир Ильич": 106,
-      "Ждакаев Иван Андреевич": 54,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 4,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:265200067534": 13,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 23,
+      "gas:candidate-vibid:1001000225985": 106,
+      "gas:candidate-vibid:1001000121908": 54,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 4,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 26,
-      "Ветер Надежда Сергеевна": 10,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 51,
-      "Ефремов Владимир Ильич": 162,
-      "Ждакаев Иван Андреевич": 126,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 7,
-      "Полуханов Андрей Анатольевич": 12,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 77
+      "gas:candidate-vibid:265200067534": 26,
+      "gas:candidate-vibid:1001000195141": 10,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 51,
+      "gas:candidate-vibid:1001000225985": 162,
+      "gas:candidate-vibid:1001000121908": 126,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 7,
+      "gas:candidate-vibid:1001000136120": 12,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 38,
-      "Ветер Надежда Сергеевна": 13,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 50,
-      "Ефремов Владимир Ильич": 250,
-      "Ждакаев Иван Андреевич": 107,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 23,
-      "Полуханов Андрей Анатольевич": 14,
-      "Янко Ирина Александровна": 7,
-      "Против всех": 97
+      "gas:candidate-vibid:265200067534": 38,
+      "gas:candidate-vibid:1001000195141": 13,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 50,
+      "gas:candidate-vibid:1001000225985": 250,
+      "gas:candidate-vibid:1001000121908": 107,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 23,
+      "gas:candidate-vibid:1001000136120": 14,
+      "gas:candidate-vibid:265200067481": 7,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 8,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 5,
-      "Ефремов Владимир Ильич": 39,
-      "Ждакаев Иван Андреевич": 20,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:265200067534": 8,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 5,
+      "gas:candidate-vibid:1001000225985": 39,
+      "gas:candidate-vibid:1001000121908": 20,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 8,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 3,
-      "Ефремов Владимир Ильич": 29,
-      "Ждакаев Иван Андреевич": 21,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 5,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 8,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 3,
+      "gas:candidate-vibid:1001000225985": 29,
+      "gas:candidate-vibid:1001000121908": 21,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 5,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 9,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 33,
-      "Ефремов Владимир Ильич": 138,
-      "Ждакаев Иван Андреевич": 109,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 14,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 52
+      "gas:candidate-vibid:265200067534": 9,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 33,
+      "gas:candidate-vibid:1001000225985": 138,
+      "gas:candidate-vibid:1001000121908": 109,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 14,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 12,
-      "Ветер Надежда Сергеевна": 9,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 31,
-      "Ефремов Владимир Ильич": 132,
-      "Ждакаев Иван Андреевич": 91,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 33,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 3,
-      "Против всех": 44
+      "gas:candidate-vibid:265200067534": 12,
+      "gas:candidate-vibid:1001000195141": 9,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 31,
+      "gas:candidate-vibid:1001000225985": 132,
+      "gas:candidate-vibid:1001000121908": 91,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 33,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 3,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 19,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 19,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 5,
-      "Ефремов Владимир Ильич": 22,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 5,
+      "gas:candidate-vibid:1001000225985": 22,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 12,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 12,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066666&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 46,
-      "Ветер Надежда Сергеевна": 37,
-      "Войтенков Валерий Владимирович": 8,
-      "Ефремов Виктор Дмитриевич": 27,
-      "Ефремов Владимир Ильич": 59,
-      "Ждакаев Иван Андреевич": 356,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 220,
-      "Полуханов Андрей Анатольевич": 29,
-      "Янко Ирина Александровна": 29,
-      "Против всех": 195
+      "gas:candidate-vibid:265200067534": 46,
+      "gas:candidate-vibid:1001000195141": 37,
+      "gas:candidate-vibid:1001000202331": 8,
+      "gas:candidate-vibid:1001000113980": 27,
+      "gas:candidate-vibid:1001000225985": 59,
+      "gas:candidate-vibid:1001000121908": 356,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 220,
+      "gas:candidate-vibid:1001000136120": 29,
+      "gas:candidate-vibid:265200067481": 29,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066667&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 104,
-      "Ветер Надежда Сергеевна": 70,
-      "Войтенков Валерий Владимирович": 28,
-      "Ефремов Виктор Дмитриевич": 41,
-      "Ефремов Владимир Ильич": 69,
-      "Ждакаев Иван Андреевич": 60,
-      "Лопатка Олег Иванович": 16,
-      "Подолян Сергей Анатольевич": 268,
-      "Полуханов Андрей Анатольевич": 57,
-      "Янко Ирина Александровна": 10,
-      "Против всех": 170
+      "gas:candidate-vibid:265200067534": 104,
+      "gas:candidate-vibid:1001000195141": 70,
+      "gas:candidate-vibid:1001000202331": 28,
+      "gas:candidate-vibid:1001000113980": 41,
+      "gas:candidate-vibid:1001000225985": 69,
+      "gas:candidate-vibid:1001000121908": 60,
+      "gas:candidate-vibid:265200066813": 16,
+      "gas:candidate-vibid:265200067505": 268,
+      "gas:candidate-vibid:1001000136120": 57,
+      "gas:candidate-vibid:265200067481": 10,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066667&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 63,
-      "Ветер Надежда Сергеевна": 58,
-      "Войтенков Валерий Владимирович": 25,
-      "Ефремов Виктор Дмитриевич": 61,
-      "Ефремов Владимир Ильич": 211,
-      "Ждакаев Иван Андреевич": 56,
-      "Лопатка Олег Иванович": 17,
-      "Подолян Сергей Анатольевич": 65,
-      "Полуханов Андрей Анатольевич": 49,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 156
+      "gas:candidate-vibid:265200067534": 63,
+      "gas:candidate-vibid:1001000195141": 58,
+      "gas:candidate-vibid:1001000202331": 25,
+      "gas:candidate-vibid:1001000113980": 61,
+      "gas:candidate-vibid:1001000225985": 211,
+      "gas:candidate-vibid:1001000121908": 56,
+      "gas:candidate-vibid:265200066813": 17,
+      "gas:candidate-vibid:265200067505": 65,
+      "gas:candidate-vibid:1001000136120": 49,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066667&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 22,
-      "Ветер Надежда Сергеевна": 13,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 8,
-      "Ефремов Владимир Ильич": 39,
-      "Ждакаев Иван Андреевич": 44,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 178,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:265200067534": 22,
+      "gas:candidate-vibid:1001000195141": 13,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 8,
+      "gas:candidate-vibid:1001000225985": 39,
+      "gas:candidate-vibid:1001000121908": 44,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 178,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066667&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 50,
-      "Ветер Надежда Сергеевна": 38,
-      "Войтенков Валерий Владимирович": 28,
-      "Ефремов Виктор Дмитриевич": 36,
-      "Ефремов Владимир Ильич": 149,
-      "Ждакаев Иван Андреевич": 86,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 180,
-      "Полуханов Андрей Анатольевич": 38,
-      "Янко Ирина Александровна": 12,
-      "Против всех": 167
+      "gas:candidate-vibid:265200067534": 50,
+      "gas:candidate-vibid:1001000195141": 38,
+      "gas:candidate-vibid:1001000202331": 28,
+      "gas:candidate-vibid:1001000113980": 36,
+      "gas:candidate-vibid:1001000225985": 149,
+      "gas:candidate-vibid:1001000121908": 86,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 180,
+      "gas:candidate-vibid:1001000136120": 38,
+      "gas:candidate-vibid:265200067481": 12,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066667&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 12,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 6,
-      "Ефремов Владимир Ильич": 24,
-      "Ждакаев Иван Андреевич": 34,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 33,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:265200067534": 12,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 6,
+      "gas:candidate-vibid:1001000225985": 24,
+      "gas:candidate-vibid:1001000121908": 34,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 33,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066667&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 18,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 37,
-      "Ефремов Владимир Ильич": 210,
-      "Ждакаев Иван Андреевич": 284,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 353,
-      "Полуханов Андрей Анатольевич": 35,
-      "Янко Ирина Александровна": 10,
-      "Против всех": 139
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 18,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 37,
+      "gas:candidate-vibid:1001000225985": 210,
+      "gas:candidate-vibid:1001000121908": 284,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 353,
+      "gas:candidate-vibid:1001000136120": 35,
+      "gas:candidate-vibid:265200067481": 10,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 23,
-      "Ветер Надежда Сергеевна": 15,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 44,
-      "Ефремов Владимир Ильич": 177,
-      "Ждакаев Иван Андреевич": 293,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 289,
-      "Полуханов Андрей Анатольевич": 16,
-      "Янко Ирина Александровна": 9,
-      "Против всех": 120
+      "gas:candidate-vibid:265200067534": 23,
+      "gas:candidate-vibid:1001000195141": 15,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 44,
+      "gas:candidate-vibid:1001000225985": 177,
+      "gas:candidate-vibid:1001000121908": 293,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 289,
+      "gas:candidate-vibid:1001000136120": 16,
+      "gas:candidate-vibid:265200067481": 9,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 17,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 64,
-      "Ефремов Владимир Ильич": 188,
-      "Ждакаев Иван Андреевич": 274,
-      "Лопатка Олег Иванович": 22,
-      "Подолян Сергей Анатольевич": 257,
-      "Полуханов Андрей Анатольевич": 18,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 84
+      "gas:candidate-vibid:265200067534": 17,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 64,
+      "gas:candidate-vibid:1001000225985": 188,
+      "gas:candidate-vibid:1001000121908": 274,
+      "gas:candidate-vibid:265200066813": 22,
+      "gas:candidate-vibid:265200067505": 257,
+      "gas:candidate-vibid:1001000136120": 18,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 26,
-      "Ефремов Владимир Ильич": 99,
-      "Ждакаев Иван Андреевич": 137,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 113,
-      "Полуханов Андрей Анатольевич": 10,
-      "Янко Ирина Александровна": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 26,
+      "gas:candidate-vibid:1001000225985": 99,
+      "gas:candidate-vibid:1001000121908": 137,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 113,
+      "gas:candidate-vibid:1001000136120": 10,
+      "gas:candidate-vibid:265200067481": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 15,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 54,
-      "Ефремов Владимир Ильич": 242,
-      "Ждакаев Иван Андреевич": 328,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 332,
-      "Полуханов Андрей Анатольевич": 17,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 100
+      "gas:candidate-vibid:265200067534": 15,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 54,
+      "gas:candidate-vibid:1001000225985": 242,
+      "gas:candidate-vibid:1001000121908": 328,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 332,
+      "gas:candidate-vibid:1001000136120": 17,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 7,
-      "Ефремов Виктор Дмитриевич": 52,
-      "Ефремов Владимир Ильич": 203,
-      "Ждакаев Иван Андреевич": 313,
-      "Лопатка Олег Иванович": 11,
-      "Подолян Сергей Анатольевич": 246,
-      "Полуханов Андрей Анатольевич": 11,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 119
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 7,
+      "gas:candidate-vibid:1001000113980": 52,
+      "gas:candidate-vibid:1001000225985": 203,
+      "gas:candidate-vibid:1001000121908": 313,
+      "gas:candidate-vibid:265200066813": 11,
+      "gas:candidate-vibid:265200067505": 246,
+      "gas:candidate-vibid:1001000136120": 11,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 33,
-      "Ветер Надежда Сергеевна": 13,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 66,
-      "Ефремов Владимир Ильич": 273,
-      "Ждакаев Иван Андреевич": 354,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 335,
-      "Полуханов Андрей Анатольевич": 19,
-      "Янко Ирина Александровна": 30,
-      "Против всех": 150
+      "gas:candidate-vibid:265200067534": 33,
+      "gas:candidate-vibid:1001000195141": 13,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 66,
+      "gas:candidate-vibid:1001000225985": 273,
+      "gas:candidate-vibid:1001000121908": 354,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 335,
+      "gas:candidate-vibid:1001000136120": 19,
+      "gas:candidate-vibid:265200067481": 30,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 27,
-      "Ветер Надежда Сергеевна": 14,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 73,
-      "Ефремов Владимир Ильич": 258,
-      "Ждакаев Иван Андреевич": 382,
-      "Лопатка Олег Иванович": 11,
-      "Подолян Сергей Анатольевич": 333,
-      "Полуханов Андрей Анатольевич": 16,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 139
+      "gas:candidate-vibid:265200067534": 27,
+      "gas:candidate-vibid:1001000195141": 14,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 73,
+      "gas:candidate-vibid:1001000225985": 258,
+      "gas:candidate-vibid:1001000121908": 382,
+      "gas:candidate-vibid:265200066813": 11,
+      "gas:candidate-vibid:265200067505": 333,
+      "gas:candidate-vibid:1001000136120": 16,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 23,
-      "Ветер Надежда Сергеевна": 17,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 54,
-      "Ефремов Владимир Ильич": 191,
-      "Ждакаев Иван Андреевич": 372,
-      "Лопатка Олег Иванович": 13,
-      "Подолян Сергей Анатольевич": 347,
-      "Полуханов Андрей Анатольевич": 29,
-      "Янко Ирина Александровна": 17,
-      "Против всех": 152
+      "gas:candidate-vibid:265200067534": 23,
+      "gas:candidate-vibid:1001000195141": 17,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 54,
+      "gas:candidate-vibid:1001000225985": 191,
+      "gas:candidate-vibid:1001000121908": 372,
+      "gas:candidate-vibid:265200066813": 13,
+      "gas:candidate-vibid:265200067505": 347,
+      "gas:candidate-vibid:1001000136120": 29,
+      "gas:candidate-vibid:265200067481": 17,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 11,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 33,
-      "Ефремов Владимир Ильич": 133,
-      "Ждакаев Иван Андреевич": 248,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 237,
-      "Полуханов Андрей Анатольевич": 26,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 100
+      "gas:candidate-vibid:265200067534": 11,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 33,
+      "gas:candidate-vibid:1001000225985": 133,
+      "gas:candidate-vibid:1001000121908": 248,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 237,
+      "gas:candidate-vibid:1001000136120": 26,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 14,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 34,
-      "Ефремов Владимир Ильич": 74,
-      "Ждакаев Иван Андреевич": 150,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 153,
-      "Полуханов Андрей Анатольевич": 14,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 69
+      "gas:candidate-vibid:265200067534": 14,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 34,
+      "gas:candidate-vibid:1001000225985": 74,
+      "gas:candidate-vibid:1001000121908": 150,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 153,
+      "gas:candidate-vibid:1001000136120": 14,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 11,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 34,
-      "Ефремов Владимир Ильич": 134,
-      "Ждакаев Иван Андреевич": 221,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 211,
-      "Полуханов Андрей Анатольевич": 20,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 82
+      "gas:candidate-vibid:265200067534": 11,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 34,
+      "gas:candidate-vibid:1001000225985": 134,
+      "gas:candidate-vibid:1001000121908": 221,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 211,
+      "gas:candidate-vibid:1001000136120": 20,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 38,
-      "Ефремов Владимир Ильич": 151,
-      "Ждакаев Иван Андреевич": 282,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 239,
-      "Полуханов Андрей Анатольевич": 14,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 99
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 38,
+      "gas:candidate-vibid:1001000225985": 151,
+      "gas:candidate-vibid:1001000121908": 282,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 239,
+      "gas:candidate-vibid:1001000136120": 14,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 45,
-      "Ефремов Владимир Ильич": 191,
-      "Ждакаев Иван Андреевич": 379,
-      "Лопатка Олег Иванович": 8,
-      "Подолян Сергей Анатольевич": 352,
-      "Полуханов Андрей Анатольевич": 24,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 118
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 45,
+      "gas:candidate-vibid:1001000225985": 191,
+      "gas:candidate-vibid:1001000121908": 379,
+      "gas:candidate-vibid:265200066813": 8,
+      "gas:candidate-vibid:265200067505": 352,
+      "gas:candidate-vibid:1001000136120": 24,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 10,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 22,
-      "Ефремов Владимир Ильич": 86,
-      "Ждакаев Иван Андреевич": 178,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 187,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 7,
-      "Против всех": 57
+      "gas:candidate-vibid:265200067534": 10,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 22,
+      "gas:candidate-vibid:1001000225985": 86,
+      "gas:candidate-vibid:1001000121908": 178,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 187,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 7,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 10,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 67,
-      "Ефремов Владимир Ильич": 198,
-      "Ждакаев Иван Андреевич": 398,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 375,
-      "Полуханов Андрей Анатольевич": 31,
-      "Янко Ирина Александровна": 26,
-      "Против всех": 147
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 10,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 67,
+      "gas:candidate-vibid:1001000225985": 198,
+      "gas:candidate-vibid:1001000121908": 398,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 375,
+      "gas:candidate-vibid:1001000136120": 31,
+      "gas:candidate-vibid:265200067481": 26,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 20,
-      "Ветер Надежда Сергеевна": 9,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 59,
-      "Ефремов Владимир Ильич": 139,
-      "Ждакаев Иван Андреевич": 254,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 246,
-      "Полуханов Андрей Анатольевич": 26,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 124
+      "gas:candidate-vibid:265200067534": 20,
+      "gas:candidate-vibid:1001000195141": 9,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 59,
+      "gas:candidate-vibid:1001000225985": 139,
+      "gas:candidate-vibid:1001000121908": 254,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 246,
+      "gas:candidate-vibid:1001000136120": 26,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 46,
-      "Ефремов Владимир Ильич": 167,
-      "Ждакаев Иван Андреевич": 255,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 288,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 91
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 46,
+      "gas:candidate-vibid:1001000225985": 167,
+      "gas:candidate-vibid:1001000121908": 255,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 288,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 8,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 29,
-      "Ефремов Владимир Ильич": 124,
-      "Ждакаев Иван Андреевич": 214,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 162,
-      "Полуханов Андрей Анатольевич": 13,
-      "Янко Ирина Александровна": 12,
-      "Против всех": 80
+      "gas:candidate-vibid:265200067534": 8,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 29,
+      "gas:candidate-vibid:1001000225985": 124,
+      "gas:candidate-vibid:1001000121908": 214,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 162,
+      "gas:candidate-vibid:1001000136120": 13,
+      "gas:candidate-vibid:265200067481": 12,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 10,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 20,
-      "Ефремов Владимир Ильич": 54,
-      "Ждакаев Иван Андреевич": 82,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 99,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:265200067534": 10,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 20,
+      "gas:candidate-vibid:1001000225985": 54,
+      "gas:candidate-vibid:1001000121908": 82,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 99,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 19,
-      "Ветер Надежда Сергеевна": 8,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 30,
-      "Ефремов Владимир Ильич": 69,
-      "Ждакаев Иван Андреевич": 157,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 167,
-      "Полуханов Андрей Анатольевич": 18,
-      "Янко Ирина Александровна": 7,
-      "Против всех": 72
+      "gas:candidate-vibid:265200067534": 19,
+      "gas:candidate-vibid:1001000195141": 8,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 30,
+      "gas:candidate-vibid:1001000225985": 69,
+      "gas:candidate-vibid:1001000121908": 157,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 167,
+      "gas:candidate-vibid:1001000136120": 18,
+      "gas:candidate-vibid:265200067481": 7,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 52,
-      "Ефремов Владимир Ильич": 207,
-      "Ждакаев Иван Андреевич": 382,
-      "Лопатка Олег Иванович": 11,
-      "Подолян Сергей Анатольевич": 330,
-      "Полуханов Андрей Анатольевич": 11,
-      "Янко Ирина Александровна": 8,
-      "Против всех": 136
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 52,
+      "gas:candidate-vibid:1001000225985": 207,
+      "gas:candidate-vibid:1001000121908": 382,
+      "gas:candidate-vibid:265200066813": 11,
+      "gas:candidate-vibid:265200067505": 330,
+      "gas:candidate-vibid:1001000136120": 11,
+      "gas:candidate-vibid:265200067481": 8,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 9,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 62,
-      "Ефремов Владимир Ильич": 288,
-      "Ждакаев Иван Андреевич": 501,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 502,
-      "Полуханов Андрей Анатольевич": 34,
-      "Янко Ирина Александровна": 26,
-      "Против всех": 171
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 9,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 62,
+      "gas:candidate-vibid:1001000225985": 288,
+      "gas:candidate-vibid:1001000121908": 501,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 502,
+      "gas:candidate-vibid:1001000136120": 34,
+      "gas:candidate-vibid:265200067481": 26,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 20,
-      "Ветер Надежда Сергеевна": 8,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 48,
-      "Ефремов Владимир Ильич": 195,
-      "Ждакаев Иван Андреевич": 392,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 399,
-      "Полуханов Андрей Анатольевич": 17,
-      "Янко Ирина Александровна": 21,
-      "Против всех": 130
+      "gas:candidate-vibid:265200067534": 20,
+      "gas:candidate-vibid:1001000195141": 8,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 48,
+      "gas:candidate-vibid:1001000225985": 195,
+      "gas:candidate-vibid:1001000121908": 392,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 399,
+      "gas:candidate-vibid:1001000136120": 17,
+      "gas:candidate-vibid:265200067481": 21,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 15,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 35,
-      "Ефремов Владимир Ильич": 171,
-      "Ждакаев Иван Андреевич": 318,
-      "Лопатка Олег Иванович": 12,
-      "Подолян Сергей Анатольевич": 257,
-      "Полуханов Андрей Анатольевич": 12,
-      "Янко Ирина Александровна": 15,
-      "Против всех": 89
+      "gas:candidate-vibid:265200067534": 15,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 35,
+      "gas:candidate-vibid:1001000225985": 171,
+      "gas:candidate-vibid:1001000121908": 318,
+      "gas:candidate-vibid:265200066813": 12,
+      "gas:candidate-vibid:265200067505": 257,
+      "gas:candidate-vibid:1001000136120": 12,
+      "gas:candidate-vibid:265200067481": 15,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 13,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 8,
-      "Ефремов Виктор Дмитриевич": 24,
-      "Ефремов Владимир Ильич": 135,
-      "Ждакаев Иван Андреевич": 199,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 232,
-      "Полуханов Андрей Анатольевич": 17,
-      "Янко Ирина Александровна": 16,
-      "Против всех": 72
+      "gas:candidate-vibid:265200067534": 13,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 8,
+      "gas:candidate-vibid:1001000113980": 24,
+      "gas:candidate-vibid:1001000225985": 135,
+      "gas:candidate-vibid:1001000121908": 199,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 232,
+      "gas:candidate-vibid:1001000136120": 17,
+      "gas:candidate-vibid:265200067481": 16,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 19,
-      "Ветер Надежда Сергеевна": 10,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 58,
-      "Ефремов Владимир Ильич": 168,
-      "Ждакаев Иван Андреевич": 477,
-      "Лопатка Олег Иванович": 13,
-      "Подолян Сергей Анатольевич": 354,
-      "Полуханов Андрей Анатольевич": 16,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 142
+      "gas:candidate-vibid:265200067534": 19,
+      "gas:candidate-vibid:1001000195141": 10,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 58,
+      "gas:candidate-vibid:1001000225985": 168,
+      "gas:candidate-vibid:1001000121908": 477,
+      "gas:candidate-vibid:265200066813": 13,
+      "gas:candidate-vibid:265200067505": 354,
+      "gas:candidate-vibid:1001000136120": 16,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 17,
-      "Ветер Надежда Сергеевна": 14,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 66,
-      "Ефремов Владимир Ильич": 223,
-      "Ждакаев Иван Андреевич": 417,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 384,
-      "Полуханов Андрей Анатольевич": 26,
-      "Янко Ирина Александровна": 12,
-      "Против всех": 146
+      "gas:candidate-vibid:265200067534": 17,
+      "gas:candidate-vibid:1001000195141": 14,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 66,
+      "gas:candidate-vibid:1001000225985": 223,
+      "gas:candidate-vibid:1001000121908": 417,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 384,
+      "gas:candidate-vibid:1001000136120": 26,
+      "gas:candidate-vibid:265200067481": 12,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 21,
-      "Ветер Надежда Сергеевна": 15,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 61,
-      "Ефремов Владимир Ильич": 223,
-      "Ждакаев Иван Андреевич": 427,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 350,
-      "Полуханов Андрей Анатольевич": 18,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 142
+      "gas:candidate-vibid:265200067534": 21,
+      "gas:candidate-vibid:1001000195141": 15,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 61,
+      "gas:candidate-vibid:1001000225985": 223,
+      "gas:candidate-vibid:1001000121908": 427,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 350,
+      "gas:candidate-vibid:1001000136120": 18,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 25,
-      "Ветер Надежда Сергеевна": 17,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 66,
-      "Ефремов Владимир Ильич": 170,
-      "Ждакаев Иван Андреевич": 398,
-      "Лопатка Олег Иванович": 10,
-      "Подолян Сергей Анатольевич": 359,
-      "Полуханов Андрей Анатольевич": 18,
-      "Янко Ирина Александровна": 15,
-      "Против всех": 119
+      "gas:candidate-vibid:265200067534": 25,
+      "gas:candidate-vibid:1001000195141": 17,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 66,
+      "gas:candidate-vibid:1001000225985": 170,
+      "gas:candidate-vibid:1001000121908": 398,
+      "gas:candidate-vibid:265200066813": 10,
+      "gas:candidate-vibid:265200067505": 359,
+      "gas:candidate-vibid:1001000136120": 18,
+      "gas:candidate-vibid:265200067481": 15,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 9,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 57,
-      "Ефремов Владимир Ильич": 174,
-      "Ждакаев Иван Андреевич": 309,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 295,
-      "Полуханов Андрей Анатольевич": 11,
-      "Янко Ирина Александровна": 14,
-      "Против всех": 124
+      "gas:candidate-vibid:265200067534": 9,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 57,
+      "gas:candidate-vibid:1001000225985": 174,
+      "gas:candidate-vibid:1001000121908": 309,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 295,
+      "gas:candidate-vibid:1001000136120": 11,
+      "gas:candidate-vibid:265200067481": 14,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 26,
-      "Ветер Надежда Сергеевна": 29,
-      "Войтенков Валерий Владимирович": 13,
-      "Ефремов Виктор Дмитриевич": 69,
-      "Ефремов Владимир Ильич": 241,
-      "Ждакаев Иван Андреевич": 419,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 423,
-      "Полуханов Андрей Анатольевич": 24,
-      "Янко Ирина Александровна": 20,
-      "Против всех": 174
+      "gas:candidate-vibid:265200067534": 26,
+      "gas:candidate-vibid:1001000195141": 29,
+      "gas:candidate-vibid:1001000202331": 13,
+      "gas:candidate-vibid:1001000113980": 69,
+      "gas:candidate-vibid:1001000225985": 241,
+      "gas:candidate-vibid:1001000121908": 419,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 423,
+      "gas:candidate-vibid:1001000136120": 24,
+      "gas:candidate-vibid:265200067481": 20,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 12,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 57,
-      "Ефремов Владимир Ильич": 174,
-      "Ждакаев Иван Андреевич": 384,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 275,
-      "Полуханов Андрей Анатольевич": 13,
-      "Янко Ирина Александровна": 15,
-      "Против всех": 122
+      "gas:candidate-vibid:265200067534": 12,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 57,
+      "gas:candidate-vibid:1001000225985": 174,
+      "gas:candidate-vibid:1001000121908": 384,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 275,
+      "gas:candidate-vibid:1001000136120": 13,
+      "gas:candidate-vibid:265200067481": 15,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 23,
-      "Ветер Надежда Сергеевна": 13,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 38,
-      "Ефремов Владимир Ильич": 164,
-      "Ждакаев Иван Андреевич": 285,
-      "Лопатка Олег Иванович": 10,
-      "Подолян Сергей Анатольевич": 283,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 15,
-      "Против всех": 99
+      "gas:candidate-vibid:265200067534": 23,
+      "gas:candidate-vibid:1001000195141": 13,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 38,
+      "gas:candidate-vibid:1001000225985": 164,
+      "gas:candidate-vibid:1001000121908": 285,
+      "gas:candidate-vibid:265200066813": 10,
+      "gas:candidate-vibid:265200067505": 283,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 15,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 25,
-      "Ветер Надежда Сергеевна": 14,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 60,
-      "Ефремов Владимир Ильич": 291,
-      "Ждакаев Иван Андреевич": 515,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 504,
-      "Полуханов Андрей Анатольевич": 21,
-      "Янко Ирина Александровна": 28,
-      "Против всех": 137
+      "gas:candidate-vibid:265200067534": 25,
+      "gas:candidate-vibid:1001000195141": 14,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 60,
+      "gas:candidate-vibid:1001000225985": 291,
+      "gas:candidate-vibid:1001000121908": 515,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 504,
+      "gas:candidate-vibid:1001000136120": 21,
+      "gas:candidate-vibid:265200067481": 28,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 7,
-      "Ветер Надежда Сергеевна": 10,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 47,
-      "Ефремов Владимир Ильич": 187,
-      "Ждакаев Иван Андреевич": 372,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 348,
-      "Полуханов Андрей Анатольевич": 19,
-      "Янко Ирина Александровна": 21,
-      "Против всех": 139
+      "gas:candidate-vibid:265200067534": 7,
+      "gas:candidate-vibid:1001000195141": 10,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 47,
+      "gas:candidate-vibid:1001000225985": 187,
+      "gas:candidate-vibid:1001000121908": 372,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 348,
+      "gas:candidate-vibid:1001000136120": 19,
+      "gas:candidate-vibid:265200067481": 21,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 10,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 57,
-      "Ефремов Владимир Ильич": 201,
-      "Ждакаев Иван Андреевич": 380,
-      "Лопатка Олег Иванович": 8,
-      "Подолян Сергей Анатольевич": 356,
-      "Полуханов Андрей Анатольевич": 21,
-      "Янко Ирина Александровна": 14,
-      "Против всех": 114
+      "gas:candidate-vibid:265200067534": 10,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 57,
+      "gas:candidate-vibid:1001000225985": 201,
+      "gas:candidate-vibid:1001000121908": 380,
+      "gas:candidate-vibid:265200066813": 8,
+      "gas:candidate-vibid:265200067505": 356,
+      "gas:candidate-vibid:1001000136120": 21,
+      "gas:candidate-vibid:265200067481": 14,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 6,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 33,
-      "Ефремов Владимир Ильич": 100,
-      "Ждакаев Иван Андреевич": 221,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 190,
-      "Полуханов Андрей Анатольевич": 5,
-      "Янко Ирина Александровна": 5,
-      "Против всех": 66
+      "gas:candidate-vibid:265200067534": 6,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 33,
+      "gas:candidate-vibid:1001000225985": 100,
+      "gas:candidate-vibid:1001000121908": 221,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 190,
+      "gas:candidate-vibid:1001000136120": 5,
+      "gas:candidate-vibid:265200067481": 5,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 22,
-      "Ветер Надежда Сергеевна": 12,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 43,
-      "Ефремов Владимир Ильич": 184,
-      "Ждакаев Иван Андреевич": 345,
-      "Лопатка Олег Иванович": 16,
-      "Подолян Сергей Анатольевич": 399,
-      "Полуханов Андрей Анатольевич": 24,
-      "Янко Ирина Александровна": 18,
-      "Против всех": 125
+      "gas:candidate-vibid:265200067534": 22,
+      "gas:candidate-vibid:1001000195141": 12,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 43,
+      "gas:candidate-vibid:1001000225985": 184,
+      "gas:candidate-vibid:1001000121908": 345,
+      "gas:candidate-vibid:265200066813": 16,
+      "gas:candidate-vibid:265200067505": 399,
+      "gas:candidate-vibid:1001000136120": 24,
+      "gas:candidate-vibid:265200067481": 18,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 55,
-      "Ефремов Владимир Ильич": 246,
-      "Ждакаев Иван Андреевич": 466,
-      "Лопатка Олег Иванович": 9,
-      "Подолян Сергей Анатольевич": 389,
-      "Полуханов Андрей Анатольевич": 21,
-      "Янко Ирина Александровна": 16,
-      "Против всех": 114
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 55,
+      "gas:candidate-vibid:1001000225985": 246,
+      "gas:candidate-vibid:1001000121908": 466,
+      "gas:candidate-vibid:265200066813": 9,
+      "gas:candidate-vibid:265200067505": 389,
+      "gas:candidate-vibid:1001000136120": 21,
+      "gas:candidate-vibid:265200067481": 16,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 70,
-      "Ветер Надежда Сергеевна": 32,
-      "Войтенков Валерий Владимирович": 12,
-      "Ефремов Виктор Дмитриевич": 94,
-      "Ефремов Владимир Ильич": 305,
-      "Ждакаев Иван Андреевич": 383,
-      "Лопатка Олег Иванович": 17,
-      "Подолян Сергей Анатольевич": 473,
-      "Полуханов Андрей Анатольевич": 41,
-      "Янко Ирина Александровна": 13,
-      "Против всех": 208
+      "gas:candidate-vibid:265200067534": 70,
+      "gas:candidate-vibid:1001000195141": 32,
+      "gas:candidate-vibid:1001000202331": 12,
+      "gas:candidate-vibid:1001000113980": 94,
+      "gas:candidate-vibid:1001000225985": 305,
+      "gas:candidate-vibid:1001000121908": 383,
+      "gas:candidate-vibid:265200066813": 17,
+      "gas:candidate-vibid:265200067505": 473,
+      "gas:candidate-vibid:1001000136120": 41,
+      "gas:candidate-vibid:265200067481": 13,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 19,
-      "Ветер Надежда Сергеевна": 13,
-      "Войтенков Валерий Владимирович": 7,
-      "Ефремов Виктор Дмитриевич": 89,
-      "Ефремов Владимир Ильич": 272,
-      "Ждакаев Иван Андреевич": 451,
-      "Лопатка Олег Иванович": 14,
-      "Подолян Сергей Анатольевич": 522,
-      "Полуханов Андрей Анатольевич": 22,
-      "Янко Ирина Александровна": 17,
-      "Против всех": 163
+      "gas:candidate-vibid:265200067534": 19,
+      "gas:candidate-vibid:1001000195141": 13,
+      "gas:candidate-vibid:1001000202331": 7,
+      "gas:candidate-vibid:1001000113980": 89,
+      "gas:candidate-vibid:1001000225985": 272,
+      "gas:candidate-vibid:1001000121908": 451,
+      "gas:candidate-vibid:265200066813": 14,
+      "gas:candidate-vibid:265200067505": 522,
+      "gas:candidate-vibid:1001000136120": 22,
+      "gas:candidate-vibid:265200067481": 17,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 9,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 49,
-      "Ефремов Владимир Ильич": 221,
-      "Ждакаев Иван Андреевич": 419,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 374,
-      "Полуханов Андрей Анатольевич": 29,
-      "Янко Ирина Александровна": 18,
-      "Против всех": 138
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 9,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 49,
+      "gas:candidate-vibid:1001000225985": 221,
+      "gas:candidate-vibid:1001000121908": 419,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 374,
+      "gas:candidate-vibid:1001000136120": 29,
+      "gas:candidate-vibid:265200067481": 18,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 24,
-      "Ветер Надежда Сергеевна": 28,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 53,
-      "Ефремов Владимир Ильич": 273,
-      "Ждакаев Иван Андреевич": 440,
-      "Лопатка Олег Иванович": 21,
-      "Подолян Сергей Анатольевич": 415,
-      "Полуханов Андрей Анатольевич": 36,
-      "Янко Ирина Александровна": 15,
-      "Против всех": 167
+      "gas:candidate-vibid:265200067534": 24,
+      "gas:candidate-vibid:1001000195141": 28,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 53,
+      "gas:candidate-vibid:1001000225985": 273,
+      "gas:candidate-vibid:1001000121908": 440,
+      "gas:candidate-vibid:265200066813": 21,
+      "gas:candidate-vibid:265200067505": 415,
+      "gas:candidate-vibid:1001000136120": 36,
+      "gas:candidate-vibid:265200067481": 15,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 41,
-      "Ветер Надежда Сергеевна": 17,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 69,
-      "Ефремов Владимир Ильич": 250,
-      "Ждакаев Иван Андреевич": 315,
-      "Лопатка Олег Иванович": 17,
-      "Подолян Сергей Анатольевич": 404,
-      "Полуханов Андрей Анатольевич": 29,
-      "Янко Ирина Александровна": 21,
-      "Против всех": 151
+      "gas:candidate-vibid:265200067534": 41,
+      "gas:candidate-vibid:1001000195141": 17,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 69,
+      "gas:candidate-vibid:1001000225985": 250,
+      "gas:candidate-vibid:1001000121908": 315,
+      "gas:candidate-vibid:265200066813": 17,
+      "gas:candidate-vibid:265200067505": 404,
+      "gas:candidate-vibid:1001000136120": 29,
+      "gas:candidate-vibid:265200067481": 21,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 29,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 79,
-      "Ефремов Владимир Ильич": 288,
-      "Ждакаев Иван Андреевич": 490,
-      "Лопатка Олег Иванович": 12,
-      "Подолян Сергей Анатольевич": 523,
-      "Полуханов Андрей Анатольевич": 30,
-      "Янко Ирина Александровна": 20,
-      "Против всех": 174
+      "gas:candidate-vibid:265200067534": 29,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 79,
+      "gas:candidate-vibid:1001000225985": 288,
+      "gas:candidate-vibid:1001000121908": 490,
+      "gas:candidate-vibid:265200066813": 12,
+      "gas:candidate-vibid:265200067505": 523,
+      "gas:candidate-vibid:1001000136120": 30,
+      "gas:candidate-vibid:265200067481": 20,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 16,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 77,
-      "Ефремов Владимир Ильич": 274,
-      "Ждакаев Иван Андреевич": 396,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 429,
-      "Полуханов Андрей Анатольевич": 24,
-      "Янко Ирина Александровна": 33,
-      "Против всех": 173
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 16,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 77,
+      "gas:candidate-vibid:1001000225985": 274,
+      "gas:candidate-vibid:1001000121908": 396,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 429,
+      "gas:candidate-vibid:1001000136120": 24,
+      "gas:candidate-vibid:265200067481": 33,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 26,
-      "Ветер Надежда Сергеевна": 13,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 65,
-      "Ефремов Владимир Ильич": 261,
-      "Ждакаев Иван Андреевич": 520,
-      "Лопатка Олег Иванович": 11,
-      "Подолян Сергей Анатольевич": 471,
-      "Полуханов Андрей Анатольевич": 27,
-      "Янко Ирина Александровна": 19,
-      "Против всех": 168
+      "gas:candidate-vibid:265200067534": 26,
+      "gas:candidate-vibid:1001000195141": 13,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 65,
+      "gas:candidate-vibid:1001000225985": 261,
+      "gas:candidate-vibid:1001000121908": 520,
+      "gas:candidate-vibid:265200066813": 11,
+      "gas:candidate-vibid:265200067505": 471,
+      "gas:candidate-vibid:1001000136120": 27,
+      "gas:candidate-vibid:265200067481": 19,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 13,
-      "Ветер Надежда Сергеевна": 9,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 95,
-      "Ефремов Владимир Ильич": 283,
-      "Ждакаев Иван Андреевич": 428,
-      "Лопатка Олег Иванович": 15,
-      "Подолян Сергей Анатольевич": 413,
-      "Полуханов Андрей Анатольевич": 23,
-      "Янко Ирина Александровна": 31,
-      "Против всех": 162
+      "gas:candidate-vibid:265200067534": 13,
+      "gas:candidate-vibid:1001000195141": 9,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 95,
+      "gas:candidate-vibid:1001000225985": 283,
+      "gas:candidate-vibid:1001000121908": 428,
+      "gas:candidate-vibid:265200066813": 15,
+      "gas:candidate-vibid:265200067505": 413,
+      "gas:candidate-vibid:1001000136120": 23,
+      "gas:candidate-vibid:265200067481": 31,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 25,
-      "Ветер Надежда Сергеевна": 16,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 80,
-      "Ефремов Владимир Ильич": 296,
-      "Ждакаев Иван Андреевич": 402,
-      "Лопатка Олег Иванович": 13,
-      "Подолян Сергей Анатольевич": 528,
-      "Полуханов Андрей Анатольевич": 19,
-      "Янко Ирина Александровна": 26,
-      "Против всех": 186
+      "gas:candidate-vibid:265200067534": 25,
+      "gas:candidate-vibid:1001000195141": 16,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 80,
+      "gas:candidate-vibid:1001000225985": 296,
+      "gas:candidate-vibid:1001000121908": 402,
+      "gas:candidate-vibid:265200066813": 13,
+      "gas:candidate-vibid:265200067505": 528,
+      "gas:candidate-vibid:1001000136120": 19,
+      "gas:candidate-vibid:265200067481": 26,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 14,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 71,
-      "Ефремов Владимир Ильич": 228,
-      "Ждакаев Иван Андреевич": 474,
-      "Лопатка Олег Иванович": 16,
-      "Подолян Сергей Анатольевич": 401,
-      "Полуханов Андрей Анатольевич": 28,
-      "Янко Ирина Александровна": 20,
-      "Против всех": 185
+      "gas:candidate-vibid:265200067534": 14,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 71,
+      "gas:candidate-vibid:1001000225985": 228,
+      "gas:candidate-vibid:1001000121908": 474,
+      "gas:candidate-vibid:265200066813": 16,
+      "gas:candidate-vibid:265200067505": 401,
+      "gas:candidate-vibid:1001000136120": 28,
+      "gas:candidate-vibid:265200067481": 20,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 18,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 62,
-      "Ефремов Владимир Ильич": 172,
-      "Ждакаев Иван Андреевич": 319,
-      "Лопатка Олег Иванович": 12,
-      "Подолян Сергей Анатольевич": 319,
-      "Полуханов Андрей Анатольевич": 21,
-      "Янко Ирина Александровна": 21,
-      "Против всех": 94
+      "gas:candidate-vibid:265200067534": 18,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 62,
+      "gas:candidate-vibid:1001000225985": 172,
+      "gas:candidate-vibid:1001000121908": 319,
+      "gas:candidate-vibid:265200066813": 12,
+      "gas:candidate-vibid:265200067505": 319,
+      "gas:candidate-vibid:1001000136120": 21,
+      "gas:candidate-vibid:265200067481": 21,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 7,
-      "Ветер Надежда Сергеевна": 9,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 68,
-      "Ефремов Владимир Ильич": 236,
-      "Ждакаев Иван Андреевич": 328,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 359,
-      "Полуханов Андрей Анатольевич": 22,
-      "Янко Ирина Александровна": 24,
-      "Против всех": 136
+      "gas:candidate-vibid:265200067534": 7,
+      "gas:candidate-vibid:1001000195141": 9,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 68,
+      "gas:candidate-vibid:1001000225985": 236,
+      "gas:candidate-vibid:1001000121908": 328,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 359,
+      "gas:candidate-vibid:1001000136120": 22,
+      "gas:candidate-vibid:265200067481": 24,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 7,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 32,
-      "Ефремов Владимир Ильич": 135,
-      "Ждакаев Иван Андреевич": 159,
-      "Лопатка Олег Иванович": 8,
-      "Подолян Сергей Анатольевич": 272,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 6,
-      "Против всех": 62
+      "gas:candidate-vibid:265200067534": 7,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 32,
+      "gas:candidate-vibid:1001000225985": 135,
+      "gas:candidate-vibid:1001000121908": 159,
+      "gas:candidate-vibid:265200066813": 8,
+      "gas:candidate-vibid:265200067505": 272,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 6,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 15,
-      "Ветер Надежда Сергеевна": 11,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 45,
-      "Ефремов Владимир Ильич": 202,
-      "Ждакаев Иван Андреевич": 319,
-      "Лопатка Олег Иванович": 5,
-      "Подолян Сергей Анатольевич": 391,
-      "Полуханов Андрей Анатольевич": 13,
-      "Янко Ирина Александровна": 19,
-      "Против всех": 139
+      "gas:candidate-vibid:265200067534": 15,
+      "gas:candidate-vibid:1001000195141": 11,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 45,
+      "gas:candidate-vibid:1001000225985": 202,
+      "gas:candidate-vibid:1001000121908": 319,
+      "gas:candidate-vibid:265200066813": 5,
+      "gas:candidate-vibid:265200067505": 391,
+      "gas:candidate-vibid:1001000136120": 13,
+      "gas:candidate-vibid:265200067481": 19,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 29,
-      "Ветер Надежда Сергеевна": 40,
-      "Войтенков Валерий Владимирович": 10,
-      "Ефремов Виктор Дмитриевич": 67,
-      "Ефремов Владимир Ильич": 252,
-      "Ждакаев Иван Андреевич": 414,
-      "Лопатка Олег Иванович": 10,
-      "Подолян Сергей Анатольевич": 453,
-      "Полуханов Андрей Анатольевич": 31,
-      "Янко Ирина Александровна": 21,
-      "Против всех": 229
+      "gas:candidate-vibid:265200067534": 29,
+      "gas:candidate-vibid:1001000195141": 40,
+      "gas:candidate-vibid:1001000202331": 10,
+      "gas:candidate-vibid:1001000113980": 67,
+      "gas:candidate-vibid:1001000225985": 252,
+      "gas:candidate-vibid:1001000121908": 414,
+      "gas:candidate-vibid:265200066813": 10,
+      "gas:candidate-vibid:265200067505": 453,
+      "gas:candidate-vibid:1001000136120": 31,
+      "gas:candidate-vibid:265200067481": 21,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 21,
-      "Ветер Надежда Сергеевна": 8,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 51,
-      "Ефремов Владимир Ильич": 162,
-      "Ждакаев Иван Андреевич": 316,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 361,
-      "Полуханов Андрей Анатольевич": 32,
-      "Янко Ирина Александровна": 11,
-      "Против всех": 147
+      "gas:candidate-vibid:265200067534": 21,
+      "gas:candidate-vibid:1001000195141": 8,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 51,
+      "gas:candidate-vibid:1001000225985": 162,
+      "gas:candidate-vibid:1001000121908": 316,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 361,
+      "gas:candidate-vibid:1001000136120": 32,
+      "gas:candidate-vibid:265200067481": 11,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 30,
-      "Ветер Надежда Сергеевна": 20,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 37,
-      "Ефремов Владимир Ильич": 133,
-      "Ждакаев Иван Андреевич": 289,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 207,
-      "Полуханов Андрей Анатольевич": 27,
-      "Янко Ирина Александровна": 10,
-      "Против всех": 123
+      "gas:candidate-vibid:265200067534": 30,
+      "gas:candidate-vibid:1001000195141": 20,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 37,
+      "gas:candidate-vibid:1001000225985": 133,
+      "gas:candidate-vibid:1001000121908": 289,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 207,
+      "gas:candidate-vibid:1001000136120": 27,
+      "gas:candidate-vibid:265200067481": 10,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 36,
-      "Ефремов Владимир Ильич": 145,
-      "Ждакаев Иван Андреевич": 361,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 294,
-      "Полуханов Андрей Анатольевич": 16,
-      "Янко Ирина Александровна": 7,
-      "Против всех": 116
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 36,
+      "gas:candidate-vibid:1001000225985": 145,
+      "gas:candidate-vibid:1001000121908": 361,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 294,
+      "gas:candidate-vibid:1001000136120": 16,
+      "gas:candidate-vibid:265200067481": 7,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 7,
-      "Ефремов Владимир Ильич": 22,
-      "Ждакаев Иван Андреевич": 24,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 45,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 7,
+      "gas:candidate-vibid:1001000225985": 22,
+      "gas:candidate-vibid:1001000121908": 24,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 45,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 51,
-      "Ветер Надежда Сергеевна": 35,
-      "Войтенков Валерий Владимирович": 10,
-      "Ефремов Виктор Дмитриевич": 61,
-      "Ефремов Владимир Ильич": 231,
-      "Ждакаев Иван Андреевич": 210,
-      "Лопатка Олег Иванович": 15,
-      "Подолян Сергей Анатольевич": 524,
-      "Полуханов Андрей Анатольевич": 32,
-      "Янко Ирина Александровна": 15,
-      "Против всех": 204
+      "gas:candidate-vibid:265200067534": 51,
+      "gas:candidate-vibid:1001000195141": 35,
+      "gas:candidate-vibid:1001000202331": 10,
+      "gas:candidate-vibid:1001000113980": 61,
+      "gas:candidate-vibid:1001000225985": 231,
+      "gas:candidate-vibid:1001000121908": 210,
+      "gas:candidate-vibid:265200066813": 15,
+      "gas:candidate-vibid:265200067505": 524,
+      "gas:candidate-vibid:1001000136120": 32,
+      "gas:candidate-vibid:265200067481": 15,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 5,
-      "Ефремов Владимир Ильич": 29,
-      "Ждакаев Иван Андреевич": 17,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 17,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 5,
+      "gas:candidate-vibid:1001000225985": 29,
+      "gas:candidate-vibid:1001000121908": 17,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 17,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 26,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 44,
-      "Ефремов Владимир Ильич": 131,
-      "Ждакаев Иван Андреевич": 232,
-      "Лопатка Олег Иванович": 12,
-      "Подолян Сергей Анатольевич": 229,
-      "Полуханов Андрей Анатольевич": 10,
-      "Янко Ирина Александровна": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:265200067534": 26,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 44,
+      "gas:candidate-vibid:1001000225985": 131,
+      "gas:candidate-vibid:1001000121908": 232,
+      "gas:candidate-vibid:265200066813": 12,
+      "gas:candidate-vibid:265200067505": 229,
+      "gas:candidate-vibid:1001000136120": 10,
+      "gas:candidate-vibid:265200067481": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 6,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 18,
-      "Ефремов Владимир Ильич": 48,
-      "Ждакаев Иван Андреевич": 68,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 41,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:265200067534": 6,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 18,
+      "gas:candidate-vibid:1001000225985": 48,
+      "gas:candidate-vibid:1001000121908": 68,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 41,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 7,
-      "Ефремов Владимир Ильич": 16,
-      "Ждакаев Иван Андреевич": 30,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 38,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 7,
+      "gas:candidate-vibid:1001000225985": 16,
+      "gas:candidate-vibid:1001000121908": 30,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 38,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 16,
-      "Ефремов Владимир Ильич": 64,
-      "Ждакаев Иван Андреевич": 95,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 74,
-      "Полуханов Андрей Анатольевич": 8,
-      "Янко Ирина Александровна": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 16,
+      "gas:candidate-vibid:1001000225985": 64,
+      "gas:candidate-vibid:1001000121908": 95,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 74,
+      "gas:candidate-vibid:1001000136120": 8,
+      "gas:candidate-vibid:265200067481": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 34,
-      "Ветер Надежда Сергеевна": 22,
-      "Войтенков Валерий Владимирович": 9,
-      "Ефремов Виктор Дмитриевич": 66,
-      "Ефремов Владимир Ильич": 169,
-      "Ждакаев Иван Андреевич": 362,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 161,
-      "Полуханов Андрей Анатольевич": 40,
-      "Янко Ирина Александровна": 21,
-      "Против всех": 140
+      "gas:candidate-vibid:265200067534": 34,
+      "gas:candidate-vibid:1001000195141": 22,
+      "gas:candidate-vibid:1001000202331": 9,
+      "gas:candidate-vibid:1001000113980": 66,
+      "gas:candidate-vibid:1001000225985": 169,
+      "gas:candidate-vibid:1001000121908": 362,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 161,
+      "gas:candidate-vibid:1001000136120": 40,
+      "gas:candidate-vibid:265200067481": 21,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 8,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 33,
-      "Ефремов Владимир Ильич": 85,
-      "Ждакаев Иван Андреевич": 192,
-      "Лопатка Олег Иванович": 7,
-      "Подолян Сергей Анатольевич": 116,
-      "Полуханов Андрей Анатольевич": 10,
-      "Янко Ирина Александровна": 4,
-      "Против всех": 52
+      "gas:candidate-vibid:265200067534": 8,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 33,
+      "gas:candidate-vibid:1001000225985": 85,
+      "gas:candidate-vibid:1001000121908": 192,
+      "gas:candidate-vibid:265200066813": 7,
+      "gas:candidate-vibid:265200067505": 116,
+      "gas:candidate-vibid:1001000136120": 10,
+      "gas:candidate-vibid:265200067481": 4,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 6,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 3,
-      "Ефремов Виктор Дмитриевич": 11,
-      "Ефремов Владимир Ильич": 19,
-      "Ждакаев Иван Андреевич": 35,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 28,
-      "Полуханов Андрей Анатольевич": 7,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 6,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 3,
+      "gas:candidate-vibid:1001000113980": 11,
+      "gas:candidate-vibid:1001000225985": 19,
+      "gas:candidate-vibid:1001000121908": 35,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 28,
+      "gas:candidate-vibid:1001000136120": 7,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 39,
-      "Ефремов Владимир Ильич": 143,
-      "Ждакаев Иван Андреевич": 28,
-      "Лопатка Олег Иванович": 6,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 39,
+      "gas:candidate-vibid:1001000225985": 143,
+      "gas:candidate-vibid:1001000121908": 28,
+      "gas:candidate-vibid:265200066813": 6,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 4,
-      "Ефремов Владимир Ильич": 17,
-      "Ждакаев Иван Андреевич": 22,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 8,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 4,
+      "gas:candidate-vibid:1001000225985": 17,
+      "gas:candidate-vibid:1001000121908": 22,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 8,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 5,
-      "Ефремов Владимир Ильич": 22,
-      "Ждакаев Иван Андреевич": 80,
-      "Лопатка Олег Иванович": 2,
-      "Подолян Сергей Анатольевич": 38,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 5,
+      "gas:candidate-vibid:1001000225985": 22,
+      "gas:candidate-vibid:1001000121908": 80,
+      "gas:candidate-vibid:265200066813": 2,
+      "gas:candidate-vibid:265200067505": 38,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 14,
-      "Ждакаев Иван Андреевич": 17,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 14,
+      "gas:candidate-vibid:1001000121908": 17,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 12,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 5,
-      "Ефремов Виктор Дмитриевич": 15,
-      "Ефремов Владимир Ильич": 21,
-      "Ждакаев Иван Андреевич": 22,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 11,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 12,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 5,
+      "gas:candidate-vibid:1001000113980": 15,
+      "gas:candidate-vibid:1001000225985": 21,
+      "gas:candidate-vibid:1001000121908": 22,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 11,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 4,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 14,
-      "Ефремов Владимир Ильич": 43,
-      "Ждакаев Иван Андреевич": 93,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 44,
-      "Полуханов Андрей Анатольевич": 7,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:265200067534": 4,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 14,
+      "gas:candidate-vibid:1001000225985": 43,
+      "gas:candidate-vibid:1001000121908": 93,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 44,
+      "gas:candidate-vibid:1001000136120": 7,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 6,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 14,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 6,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 14,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 4,
-      "Ефремов Владимир Ильич": 7,
-      "Ждакаев Иван Андреевич": 7,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 8,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 4,
+      "gas:candidate-vibid:1001000225985": 7,
+      "gas:candidate-vibid:1001000121908": 7,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 8,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 16,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 56,
-      "Ефремов Владимир Ильич": 95,
-      "Ждакаев Иван Андреевич": 50,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 9,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 16,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 56,
+      "gas:candidate-vibid:1001000225985": 95,
+      "gas:candidate-vibid:1001000121908": 50,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 9,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 20,
-      "Ветер Надежда Сергеевна": 23,
-      "Войтенков Валерий Владимирович": 6,
-      "Ефремов Виктор Дмитриевич": 16,
-      "Ефремов Владимир Ильич": 25,
-      "Ждакаев Иван Андреевич": 63,
-      "Лопатка Олег Иванович": 4,
-      "Подолян Сергей Анатольевич": 11,
-      "Полуханов Андрей Анатольевич": 14,
-      "Янко Ирина Александровна": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:265200067534": 20,
+      "gas:candidate-vibid:1001000195141": 23,
+      "gas:candidate-vibid:1001000202331": 6,
+      "gas:candidate-vibid:1001000113980": 16,
+      "gas:candidate-vibid:1001000225985": 25,
+      "gas:candidate-vibid:1001000121908": 63,
+      "gas:candidate-vibid:265200066813": 4,
+      "gas:candidate-vibid:265200067505": 11,
+      "gas:candidate-vibid:1001000136120": 14,
+      "gas:candidate-vibid:265200067481": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066668&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 16,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 16,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 13,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 13,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 11,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 11,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 5,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 6,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 5,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 6,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 12,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 6,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 12,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 6,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 11,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 11,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 12,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 12,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 8,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 3,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 8,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 3,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 7,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 7,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 10,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 9,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 10,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 9,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 19,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 19,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 14,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 14,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 11,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 11,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 5,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 5,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 4,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 4,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 4,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 4,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 4,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 4,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 3,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 3,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 16,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 16,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 6,
-      "Ефремов Владимир Ильич": 13,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 2,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 6,
+      "gas:candidate-vibid:1001000225985": 13,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 2,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 48,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 48,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 28,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 12,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 28,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 12,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 40,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 40,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 34,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 34,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 11,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 7,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 11,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 7,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 17,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 17,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 6,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:265200067534": 6,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 11,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 11,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 8,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 8,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 4,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 4,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 3,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 3,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 7,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:265200067534": 7,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 10,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 10,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 4,
-      "Ефремов Виктор Дмитриевич": 3,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 12,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 4,
+      "gas:candidate-vibid:1001000113980": 3,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 12,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 7,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 7,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 6,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 5,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 6,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 5,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 7,
-      "Ветер Надежда Сергеевна": 6,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 9,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:265200067534": 7,
+      "gas:candidate-vibid:1001000195141": 6,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 9,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 14,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 14,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 9,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 9,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 5,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 5,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 16,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 16,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 3,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 3,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 9,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 9,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 3,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 3,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 16,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 16,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 14,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 14,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 13,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 13,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 5,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 5,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 5,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 5,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 5,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 5,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 10,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 10,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 12,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 12,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 9,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 9,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 12,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 12,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 21,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 21,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 12,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 12,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 24,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 24,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 16,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 16,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 7,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 7,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 6,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 8,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 6,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 8,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 4,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 5,
-      "Полуханов Андрей Анатольевич": 5,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 4,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 5,
+      "gas:candidate-vibid:1001000136120": 5,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 12,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 12,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 5,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 5,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 4,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 3,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 13,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 6,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:265200067534": 4,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 3,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 13,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 6,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 11,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 6,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 3,
-      "Против всех": 42
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 11,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 6,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 3,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 5,
-      "Ефремов Владимир Ильич": 7,
-      "Ждакаев Иван Андреевич": 24,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 5,
+      "gas:candidate-vibid:1001000225985": 7,
+      "gas:candidate-vibid:1001000121908": 24,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 5,
-      "Ждакаев Иван Андреевич": 2,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 5,
+      "gas:candidate-vibid:1001000121908": 2,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 12,
-      "Ждакаев Иван Андреевич": 20,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 37
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 12,
+      "gas:candidate-vibid:1001000121908": 20,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 17,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 17,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 13,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 4,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 13,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 4,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 4,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 4,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 21,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 21,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 2,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 2,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 31,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 31,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 5,
-      "Янко Ирина Александровна": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 5,
+      "gas:candidate-vibid:265200067481": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 17,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 17,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 8,
-      "Ждакаев Иван Андреевич": 6,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 8,
+      "gas:candidate-vibid:1001000121908": 6,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 7,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 7,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 4,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 4,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066697&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 12,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 12,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 4,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 2,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 4,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 2,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 7,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 7,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 8,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 6,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 8,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 6,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 3,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 3,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 3,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:265200067534": 3,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 16,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 16,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 2,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 0,
-      "Ждакаев Иван Андреевич": 6,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 2,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 0,
+      "gas:candidate-vibid:1001000121908": 6,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 12,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 12,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 4,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 1,
-      "Ждакаев Иван Андреевич": 6,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 4,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 1,
+      "gas:candidate-vibid:1001000121908": 6,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 1,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 1,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 6,
-      "Ветер Надежда Сергеевна": 3,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 15,
-      "Ждакаев Иван Андреевич": 14,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 6,
+      "gas:candidate-vibid:1001000195141": 3,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 15,
+      "gas:candidate-vibid:1001000121908": 14,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 5,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 27,
-      "Ждакаев Иван Андреевич": 8,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:265200067534": 5,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 27,
+      "gas:candidate-vibid:1001000121908": 8,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 1,
-      "Ефремов Виктор Дмитриевич": 2,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 13,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 3,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 1,
+      "gas:candidate-vibid:1001000113980": 2,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 13,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 3,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 9,
-      "Лопатка Олег Иванович": 1,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 6,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 9,
+      "gas:candidate-vibid:265200066813": 1,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 6,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 5,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 5,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 2,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 2,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 2,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 2,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 2,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 2,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 3,
-      "Ждакаев Иван Андреевич": 1,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 4,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 3,
+      "gas:candidate-vibid:1001000121908": 1,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 4,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 17,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 17,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 15,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 15,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 19,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 19,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 0,
-      "Ветер Надежда Сергеевна": 0,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 0,
-      "Ефремов Владимир Ильич": 18,
-      "Ждакаев Иван Андреевич": 0,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 0,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:265200067534": 0,
+      "gas:candidate-vibid:1001000195141": 0,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 0,
+      "gas:candidate-vibid:1001000225985": 18,
+      "gas:candidate-vibid:1001000121908": 0,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 0,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_65_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блинова Ольга Николаевна": 1,
-      "Ветер Надежда Сергеевна": 1,
-      "Войтенков Валерий Владимирович": 0,
-      "Ефремов Виктор Дмитриевич": 1,
-      "Ефремов Владимир Ильич": 5,
-      "Ждакаев Иван Андреевич": 4,
-      "Лопатка Олег Иванович": 0,
-      "Подолян Сергей Анатольевич": 1,
-      "Полуханов Андрей Анатольевич": 0,
-      "Янко Ирина Александровна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:265200067534": 1,
+      "gas:candidate-vibid:1001000195141": 1,
+      "gas:candidate-vibid:1001000202331": 0,
+      "gas:candidate-vibid:1001000113980": 1,
+      "gas:candidate-vibid:1001000225985": 5,
+      "gas:candidate-vibid:1001000121908": 4,
+      "gas:candidate-vibid:265200066813": 0,
+      "gas:candidate-vibid:265200067505": 1,
+      "gas:candidate-vibid:1001000136120": 0,
+      "gas:candidate-vibid:265200067481": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=265200066698&region=0&sub_region=0&type=429",

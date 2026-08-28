@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 465,
-      "Кашин Владимир Иванович": 176,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 465,
+      "gas:candidate-vibid:1001000121866": 176,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 124,
-      "Кашин Владимир Иванович": 52,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 124,
+      "gas:candidate-vibid:1001000121866": 52,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 402,
-      "Кашин Владимир Иванович": 156,
-      "Королев Александр Петрович": 18,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 402,
+      "gas:candidate-vibid:1001000121866": 156,
+      "gas:candidate-vibid:350300370373": 18,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 570,
-      "Кашин Владимир Иванович": 151,
-      "Королев Александр Петрович": 20,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 19,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 570,
+      "gas:candidate-vibid:1001000121866": 151,
+      "gas:candidate-vibid:350300370373": 20,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 19,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 240,
-      "Кашин Владимир Иванович": 100,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 24,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 240,
+      "gas:candidate-vibid:1001000121866": 100,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 24,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 300,
-      "Кашин Владимир Иванович": 74,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 20,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 300,
+      "gas:candidate-vibid:1001000121866": 74,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 20,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 148,
-      "Кашин Владимир Иванович": 40,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 38,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 148,
+      "gas:candidate-vibid:1001000121866": 40,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 38,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 392,
-      "Кашин Владимир Иванович": 123,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 23,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 392,
+      "gas:candidate-vibid:1001000121866": 123,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 23,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 441,
-      "Кашин Владимир Иванович": 116,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 20,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 441,
+      "gas:candidate-vibid:1001000121866": 116,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 20,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 183,
-      "Кашин Владимир Иванович": 39,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 183,
+      "gas:candidate-vibid:1001000121866": 39,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 570,
-      "Кашин Владимир Иванович": 122,
-      "Королев Александр Петрович": 39,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 20,
-      "Кухаренко Александр Александрович": 60,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 570,
+      "gas:candidate-vibid:1001000121866": 122,
+      "gas:candidate-vibid:350300370373": 39,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 20,
+      "gas:candidate-vibid:350300370382": 60,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 148,
-      "Кашин Владимир Иванович": 51,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 148,
+      "gas:candidate-vibid:1001000121866": 51,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 266,
-      "Кашин Владимир Иванович": 160,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 18,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 266,
+      "gas:candidate-vibid:1001000121866": 160,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 18,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 297,
-      "Кашин Владимир Иванович": 107,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 297,
+      "gas:candidate-vibid:1001000121866": 107,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 263,
-      "Кашин Владимир Иванович": 489,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 333,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 263,
+      "gas:candidate-vibid:1001000121866": 489,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 333,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 242,
-      "Кашин Владимир Иванович": 352,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 272,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 242,
+      "gas:candidate-vibid:1001000121866": 352,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 272,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 131,
-      "Кашин Владимир Иванович": 166,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 139,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 131,
+      "gas:candidate-vibid:1001000121866": 166,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 139,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 188,
-      "Кашин Владимир Иванович": 367,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 245,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 188,
+      "gas:candidate-vibid:1001000121866": 367,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 245,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 84,
-      "Кашин Владимир Иванович": 121,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 95,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 84,
+      "gas:candidate-vibid:1001000121866": 121,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 95,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 212,
-      "Кашин Владимир Иванович": 322,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 165,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 212,
+      "gas:candidate-vibid:1001000121866": 322,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 165,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 36,
-      "Кашин Владимир Иванович": 191,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 220,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 36,
+      "gas:candidate-vibid:1001000121866": 191,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 220,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 31,
-      "Кашин Владимир Иванович": 117,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 356,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 31,
+      "gas:candidate-vibid:1001000121866": 117,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 356,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 124,
-      "Кашин Владимир Иванович": 185,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 253,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 124,
+      "gas:candidate-vibid:1001000121866": 185,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 253,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 13,
-      "Кашин Владимир Иванович": 184,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 149,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 13,
+      "gas:candidate-vibid:1001000121866": 184,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 149,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 72,
-      "Кашин Владимир Иванович": 139,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 281,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 72,
+      "gas:candidate-vibid:1001000121866": 139,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 281,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 67,
-      "Кашин Владимир Иванович": 135,
-      "Королев Александр Петрович": 6,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 236,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 67,
+      "gas:candidate-vibid:1001000121866": 135,
+      "gas:candidate-vibid:350300370373": 6,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 236,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 58,
-      "Кашин Владимир Иванович": 99,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 337,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 58,
+      "gas:candidate-vibid:1001000121866": 99,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 337,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 185,
-      "Кашин Владимир Иванович": 258,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 325,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 185,
+      "gas:candidate-vibid:1001000121866": 258,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 325,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 107,
-      "Кашин Владимир Иванович": 74,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 274,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 107,
+      "gas:candidate-vibid:1001000121866": 74,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 274,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 37,
-      "Кашин Владимир Иванович": 32,
-      "Королев Александр Петрович": 0,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 34,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 37,
+      "gas:candidate-vibid:1001000121866": 32,
+      "gas:candidate-vibid:350300370373": 0,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 34,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 142,
-      "Кашин Владимир Иванович": 344,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 331,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 142,
+      "gas:candidate-vibid:1001000121866": 344,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 331,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 91,
-      "Кашин Владимир Иванович": 225,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 229,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 91,
+      "gas:candidate-vibid:1001000121866": 225,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 229,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 21,
-      "Кашин Владимир Иванович": 62,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 126,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 21,
+      "gas:candidate-vibid:1001000121866": 62,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 126,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 16,
-      "Кашин Владимир Иванович": 42,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 155,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 16,
+      "gas:candidate-vibid:1001000121866": 42,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 155,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 75,
-      "Кашин Владимир Иванович": 141,
-      "Королев Александр Петрович": 6,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 200,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 75,
+      "gas:candidate-vibid:1001000121866": 141,
+      "gas:candidate-vibid:350300370373": 6,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 200,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 40,
-      "Кашин Владимир Иванович": 85,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 67,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 40,
+      "gas:candidate-vibid:1001000121866": 85,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 67,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370444&region=0&sub_region=0&type=429",
@@ -2130,13 +2130,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 331,
-      "Гарнаев Александр Юрьевич": 73,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 44,
-      "Пустовитовский Сергей Григорьевич": 127,
-      "Семенов Виктор Александрович": 472,
-      "Против всех": 358
+      "gas:candidate-vibid:350300470429": 331,
+      "gas:candidate-vibid:1001000195096": 73,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 44,
+      "gas:candidate-vibid:350300470496": 127,
+      "gas:candidate-vibid:1001000225954": 472,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2186,13 +2186,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 367,
-      "Гарнаев Александр Юрьевич": 47,
-      "Гладких Виктор Владимирович": 26,
-      "Нилов Ярослав Евгеньевич": 41,
-      "Пустовитовский Сергей Григорьевич": 78,
-      "Семенов Виктор Александрович": 293,
-      "Против всех": 297
+      "gas:candidate-vibid:350300470429": 367,
+      "gas:candidate-vibid:1001000195096": 47,
+      "gas:candidate-vibid:1001000190370": 26,
+      "gas:candidate-vibid:1001000289808": 41,
+      "gas:candidate-vibid:350300470496": 78,
+      "gas:candidate-vibid:1001000225954": 293,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2242,13 +2242,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 298,
-      "Гарнаев Александр Юрьевич": 100,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 32,
-      "Пустовитовский Сергей Григорьевич": 125,
-      "Семенов Виктор Александрович": 355,
-      "Против всех": 311
+      "gas:candidate-vibid:350300470429": 298,
+      "gas:candidate-vibid:1001000195096": 100,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 32,
+      "gas:candidate-vibid:350300470496": 125,
+      "gas:candidate-vibid:1001000225954": 355,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2298,13 +2298,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 388,
-      "Гарнаев Александр Юрьевич": 63,
-      "Гладких Виктор Владимирович": 28,
-      "Нилов Ярослав Евгеньевич": 18,
-      "Пустовитовский Сергей Григорьевич": 125,
-      "Семенов Виктор Александрович": 298,
-      "Против всех": 365
+      "gas:candidate-vibid:350300470429": 388,
+      "gas:candidate-vibid:1001000195096": 63,
+      "gas:candidate-vibid:1001000190370": 28,
+      "gas:candidate-vibid:1001000289808": 18,
+      "gas:candidate-vibid:350300470496": 125,
+      "gas:candidate-vibid:1001000225954": 298,
+      "special:against-all": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2354,13 +2354,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 289,
-      "Гарнаев Александр Юрьевич": 57,
-      "Гладких Виктор Владимирович": 17,
-      "Нилов Ярослав Евгеньевич": 42,
-      "Пустовитовский Сергей Григорьевич": 110,
-      "Семенов Виктор Александрович": 246,
-      "Против всех": 234
+      "gas:candidate-vibid:350300470429": 289,
+      "gas:candidate-vibid:1001000195096": 57,
+      "gas:candidate-vibid:1001000190370": 17,
+      "gas:candidate-vibid:1001000289808": 42,
+      "gas:candidate-vibid:350300470496": 110,
+      "gas:candidate-vibid:1001000225954": 246,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2410,13 +2410,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 350,
-      "Гарнаев Александр Юрьевич": 60,
-      "Гладких Виктор Владимирович": 16,
-      "Нилов Ярослав Евгеньевич": 21,
-      "Пустовитовский Сергей Григорьевич": 89,
-      "Семенов Виктор Александрович": 289,
-      "Против всех": 277
+      "gas:candidate-vibid:350300470429": 350,
+      "gas:candidate-vibid:1001000195096": 60,
+      "gas:candidate-vibid:1001000190370": 16,
+      "gas:candidate-vibid:1001000289808": 21,
+      "gas:candidate-vibid:350300470496": 89,
+      "gas:candidate-vibid:1001000225954": 289,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2466,13 +2466,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 247,
-      "Гарнаев Александр Юрьевич": 74,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 159,
-      "Семенов Виктор Александрович": 323,
-      "Против всех": 371
+      "gas:candidate-vibid:350300470429": 247,
+      "gas:candidate-vibid:1001000195096": 74,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 159,
+      "gas:candidate-vibid:1001000225954": 323,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470812&region=0&sub_region=0&type=429",
@@ -2522,13 +2522,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 356,
-      "Гарнаев Александр Юрьевич": 73,
-      "Гладких Виктор Владимирович": 52,
-      "Нилов Ярослав Евгеньевич": 67,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 439,
-      "Против всех": 348
+      "gas:candidate-vibid:350300470429": 356,
+      "gas:candidate-vibid:1001000195096": 73,
+      "gas:candidate-vibid:1001000190370": 52,
+      "gas:candidate-vibid:1001000289808": 67,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 439,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2578,13 +2578,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 331,
-      "Гарнаев Александр Юрьевич": 76,
-      "Гладких Виктор Владимирович": 51,
-      "Нилов Ярослав Евгеньевич": 34,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 428,
-      "Против всех": 383
+      "gas:candidate-vibid:350300470429": 331,
+      "gas:candidate-vibid:1001000195096": 76,
+      "gas:candidate-vibid:1001000190370": 51,
+      "gas:candidate-vibid:1001000289808": 34,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 428,
+      "special:against-all": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2634,13 +2634,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 287,
-      "Гарнаев Александр Юрьевич": 119,
-      "Гладких Виктор Владимирович": 31,
-      "Нилов Ярослав Евгеньевич": 40,
-      "Пустовитовский Сергей Григорьевич": 57,
-      "Семенов Виктор Александрович": 534,
-      "Против всех": 353
+      "gas:candidate-vibid:350300470429": 287,
+      "gas:candidate-vibid:1001000195096": 119,
+      "gas:candidate-vibid:1001000190370": 31,
+      "gas:candidate-vibid:1001000289808": 40,
+      "gas:candidate-vibid:350300470496": 57,
+      "gas:candidate-vibid:1001000225954": 534,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2690,13 +2690,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 260,
-      "Гарнаев Александр Юрьевич": 97,
-      "Гладких Виктор Владимирович": 41,
-      "Нилов Ярослав Евгеньевич": 42,
-      "Пустовитовский Сергей Григорьевич": 44,
-      "Семенов Виктор Александрович": 563,
-      "Против всех": 420
+      "gas:candidate-vibid:350300470429": 260,
+      "gas:candidate-vibid:1001000195096": 97,
+      "gas:candidate-vibid:1001000190370": 41,
+      "gas:candidate-vibid:1001000289808": 42,
+      "gas:candidate-vibid:350300470496": 44,
+      "gas:candidate-vibid:1001000225954": 563,
+      "special:against-all": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2746,13 +2746,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 274,
-      "Гарнаев Александр Юрьевич": 111,
-      "Гладких Виктор Владимирович": 34,
-      "Нилов Ярослав Евгеньевич": 51,
-      "Пустовитовский Сергей Григорьевич": 63,
-      "Семенов Виктор Александрович": 622,
-      "Против всех": 373
+      "gas:candidate-vibid:350300470429": 274,
+      "gas:candidate-vibid:1001000195096": 111,
+      "gas:candidate-vibid:1001000190370": 34,
+      "gas:candidate-vibid:1001000289808": 51,
+      "gas:candidate-vibid:350300470496": 63,
+      "gas:candidate-vibid:1001000225954": 622,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2802,13 +2802,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 289,
-      "Гарнаев Александр Юрьевич": 108,
-      "Гладких Виктор Владимирович": 41,
-      "Нилов Ярослав Евгеньевич": 62,
-      "Пустовитовский Сергей Григорьевич": 38,
-      "Семенов Виктор Александрович": 444,
-      "Против всех": 410
+      "gas:candidate-vibid:350300470429": 289,
+      "gas:candidate-vibid:1001000195096": 108,
+      "gas:candidate-vibid:1001000190370": 41,
+      "gas:candidate-vibid:1001000289808": 62,
+      "gas:candidate-vibid:350300470496": 38,
+      "gas:candidate-vibid:1001000225954": 444,
+      "special:against-all": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2858,13 +2858,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 214,
-      "Гарнаев Александр Юрьевич": 122,
-      "Гладких Виктор Владимирович": 48,
-      "Нилов Ярослав Евгеньевич": 54,
-      "Пустовитовский Сергей Григорьевич": 30,
-      "Семенов Виктор Александрович": 623,
-      "Против всех": 475
+      "gas:candidate-vibid:350300470429": 214,
+      "gas:candidate-vibid:1001000195096": 122,
+      "gas:candidate-vibid:1001000190370": 48,
+      "gas:candidate-vibid:1001000289808": 54,
+      "gas:candidate-vibid:350300470496": 30,
+      "gas:candidate-vibid:1001000225954": 623,
+      "special:against-all": 475
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2914,13 +2914,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 259,
-      "Гарнаев Александр Юрьевич": 87,
-      "Гладких Виктор Владимирович": 32,
-      "Нилов Ярослав Евгеньевич": 55,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 508,
-      "Против всех": 445
+      "gas:candidate-vibid:350300470429": 259,
+      "gas:candidate-vibid:1001000195096": 87,
+      "gas:candidate-vibid:1001000190370": 32,
+      "gas:candidate-vibid:1001000289808": 55,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 508,
+      "special:against-all": 445
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -2970,13 +2970,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 333,
-      "Гарнаев Александр Юрьевич": 108,
-      "Гладких Виктор Владимирович": 31,
-      "Нилов Ярослав Евгеньевич": 48,
-      "Пустовитовский Сергей Григорьевич": 33,
-      "Семенов Виктор Александрович": 500,
-      "Против всех": 393
+      "gas:candidate-vibid:350300470429": 333,
+      "gas:candidate-vibid:1001000195096": 108,
+      "gas:candidate-vibid:1001000190370": 31,
+      "gas:candidate-vibid:1001000289808": 48,
+      "gas:candidate-vibid:350300470496": 33,
+      "gas:candidate-vibid:1001000225954": 500,
+      "special:against-all": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -3026,13 +3026,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 222,
-      "Гарнаев Александр Юрьевич": 147,
-      "Гладких Виктор Владимирович": 53,
-      "Нилов Ярослав Евгеньевич": 29,
-      "Пустовитовский Сергей Григорьевич": 48,
-      "Семенов Виктор Александрович": 517,
-      "Против всех": 359
+      "gas:candidate-vibid:350300470429": 222,
+      "gas:candidate-vibid:1001000195096": 147,
+      "gas:candidate-vibid:1001000190370": 53,
+      "gas:candidate-vibid:1001000289808": 29,
+      "gas:candidate-vibid:350300470496": 48,
+      "gas:candidate-vibid:1001000225954": 517,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -3082,13 +3082,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 372,
-      "Гарнаев Александр Юрьевич": 108,
-      "Гладких Виктор Владимирович": 25,
-      "Нилов Ярослав Евгеньевич": 36,
-      "Пустовитовский Сергей Григорьевич": 52,
-      "Семенов Виктор Александрович": 400,
-      "Против всех": 365
+      "gas:candidate-vibid:350300470429": 372,
+      "gas:candidate-vibid:1001000195096": 108,
+      "gas:candidate-vibid:1001000190370": 25,
+      "gas:candidate-vibid:1001000289808": 36,
+      "gas:candidate-vibid:350300470496": 52,
+      "gas:candidate-vibid:1001000225954": 400,
+      "special:against-all": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -3138,13 +3138,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 230,
-      "Гарнаев Александр Юрьевич": 138,
-      "Гладких Виктор Владимирович": 35,
-      "Нилов Ярослав Евгеньевич": 43,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 463,
-      "Против всех": 309
+      "gas:candidate-vibid:350300470429": 230,
+      "gas:candidate-vibid:1001000195096": 138,
+      "gas:candidate-vibid:1001000190370": 35,
+      "gas:candidate-vibid:1001000289808": 43,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 463,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470813&region=0&sub_region=0&type=429",
@@ -3194,13 +3194,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 250,
-      "Гарнаев Александр Юрьевич": 460,
-      "Гладких Виктор Владимирович": 18,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 42,
-      "Семенов Виктор Александрович": 325,
-      "Против всех": 346
+      "gas:candidate-vibid:350300470429": 250,
+      "gas:candidate-vibid:1001000195096": 460,
+      "gas:candidate-vibid:1001000190370": 18,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 42,
+      "gas:candidate-vibid:1001000225954": 325,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3250,13 +3250,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 323,
-      "Гарнаев Александр Юрьевич": 454,
-      "Гладких Виктор Владимирович": 23,
-      "Нилов Ярослав Евгеньевич": 44,
-      "Пустовитовский Сергей Григорьевич": 62,
-      "Семенов Виктор Александрович": 333,
-      "Против всех": 342
+      "gas:candidate-vibid:350300470429": 323,
+      "gas:candidate-vibid:1001000195096": 454,
+      "gas:candidate-vibid:1001000190370": 23,
+      "gas:candidate-vibid:1001000289808": 44,
+      "gas:candidate-vibid:350300470496": 62,
+      "gas:candidate-vibid:1001000225954": 333,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3306,13 +3306,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 369,
-      "Гарнаев Александр Юрьевич": 476,
-      "Гладких Виктор Владимирович": 26,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 65,
-      "Семенов Виктор Александрович": 371,
-      "Против всех": 376
+      "gas:candidate-vibid:350300470429": 369,
+      "gas:candidate-vibid:1001000195096": 476,
+      "gas:candidate-vibid:1001000190370": 26,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 65,
+      "gas:candidate-vibid:1001000225954": 371,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3362,13 +3362,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 358,
-      "Гарнаев Александр Юрьевич": 384,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 32,
-      "Семенов Виктор Александрович": 229,
-      "Против всех": 333
+      "gas:candidate-vibid:350300470429": 358,
+      "gas:candidate-vibid:1001000195096": 384,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 32,
+      "gas:candidate-vibid:1001000225954": 229,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3418,13 +3418,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 497,
-      "Гарнаев Александр Юрьевич": 329,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 279,
-      "Против всех": 315
+      "gas:candidate-vibid:350300470429": 497,
+      "gas:candidate-vibid:1001000195096": 329,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 279,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3474,13 +3474,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 352,
-      "Гарнаев Александр Юрьевич": 298,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 54,
-      "Семенов Виктор Александрович": 264,
-      "Против всех": 231
+      "gas:candidate-vibid:350300470429": 352,
+      "gas:candidate-vibid:1001000195096": 298,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 54,
+      "gas:candidate-vibid:1001000225954": 264,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3530,13 +3530,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 279,
-      "Гарнаев Александр Юрьевич": 299,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 33,
-      "Пустовитовский Сергей Григорьевич": 41,
-      "Семенов Виктор Александрович": 300,
-      "Против всех": 288
+      "gas:candidate-vibid:350300470429": 279,
+      "gas:candidate-vibid:1001000195096": 299,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 33,
+      "gas:candidate-vibid:350300470496": 41,
+      "gas:candidate-vibid:1001000225954": 300,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3586,13 +3586,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 447,
-      "Гарнаев Александр Юрьевич": 294,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 32,
-      "Семенов Виктор Александрович": 225,
-      "Против всех": 279
+      "gas:candidate-vibid:350300470429": 447,
+      "gas:candidate-vibid:1001000195096": 294,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 32,
+      "gas:candidate-vibid:1001000225954": 225,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3642,13 +3642,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 378,
-      "Гарнаев Александр Юрьевич": 376,
-      "Гладких Виктор Владимирович": 13,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 274,
-      "Против всех": 306
+      "gas:candidate-vibid:350300470429": 378,
+      "gas:candidate-vibid:1001000195096": 376,
+      "gas:candidate-vibid:1001000190370": 13,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 274,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3698,13 +3698,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 421,
-      "Гарнаев Александр Юрьевич": 409,
-      "Гладких Виктор Владимирович": 25,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 301,
-      "Против всех": 391
+      "gas:candidate-vibid:350300470429": 421,
+      "gas:candidate-vibid:1001000195096": 409,
+      "gas:candidate-vibid:1001000190370": 25,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 301,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3754,13 +3754,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 268,
-      "Гарнаев Александр Юрьевич": 276,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 25,
-      "Пустовитовский Сергей Григорьевич": 37,
-      "Семенов Виктор Александрович": 269,
-      "Против всех": 298
+      "gas:candidate-vibid:350300470429": 268,
+      "gas:candidate-vibid:1001000195096": 276,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 25,
+      "gas:candidate-vibid:350300470496": 37,
+      "gas:candidate-vibid:1001000225954": 269,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3810,13 +3810,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 278,
-      "Гарнаев Александр Юрьевич": 352,
-      "Гладких Виктор Владимирович": 15,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 304,
-      "Против всех": 261
+      "gas:candidate-vibid:350300470429": 278,
+      "gas:candidate-vibid:1001000195096": 352,
+      "gas:candidate-vibid:1001000190370": 15,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 304,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3866,13 +3866,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 296,
-      "Гарнаев Александр Юрьевич": 293,
-      "Гладких Виктор Владимирович": 42,
-      "Нилов Ярослав Евгеньевич": 100,
-      "Пустовитовский Сергей Григорьевич": 167,
-      "Семенов Виктор Александрович": 434,
-      "Против всех": 448
+      "gas:candidate-vibid:350300470429": 296,
+      "gas:candidate-vibid:1001000195096": 293,
+      "gas:candidate-vibid:1001000190370": 42,
+      "gas:candidate-vibid:1001000289808": 100,
+      "gas:candidate-vibid:350300470496": 167,
+      "gas:candidate-vibid:1001000225954": 434,
+      "special:against-all": 448
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3922,13 +3922,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 233,
-      "Гарнаев Александр Юрьевич": 291,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 24,
-      "Пустовитовский Сергей Григорьевич": 49,
-      "Семенов Виктор Александрович": 280,
-      "Против всех": 292
+      "gas:candidate-vibid:350300470429": 233,
+      "gas:candidate-vibid:1001000195096": 291,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 24,
+      "gas:candidate-vibid:350300470496": 49,
+      "gas:candidate-vibid:1001000225954": 280,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -3978,13 +3978,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 363,
-      "Гарнаев Александр Юрьевич": 314,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 29,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 250,
-      "Против всех": 243
+      "gas:candidate-vibid:350300470429": 363,
+      "gas:candidate-vibid:1001000195096": 314,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 29,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 250,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4034,13 +4034,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 250,
-      "Гарнаев Александр Юрьевич": 390,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 36,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 314,
-      "Против всех": 296
+      "gas:candidate-vibid:350300470429": 250,
+      "gas:candidate-vibid:1001000195096": 390,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 36,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 314,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4090,13 +4090,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 273,
-      "Гарнаев Александр Юрьевич": 358,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 238,
-      "Против всех": 247
+      "gas:candidate-vibid:350300470429": 273,
+      "gas:candidate-vibid:1001000195096": 358,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 238,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4146,13 +4146,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 269,
-      "Гарнаев Александр Юрьевич": 392,
-      "Гладких Виктор Владимирович": 15,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 31,
-      "Семенов Виктор Александрович": 253,
-      "Против всех": 276
+      "gas:candidate-vibid:350300470429": 269,
+      "gas:candidate-vibid:1001000195096": 392,
+      "gas:candidate-vibid:1001000190370": 15,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 31,
+      "gas:candidate-vibid:1001000225954": 253,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4202,13 +4202,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 271,
-      "Гарнаев Александр Юрьевич": 375,
-      "Гладких Виктор Владимирович": 12,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 37,
-      "Семенов Виктор Александрович": 298,
-      "Против всех": 356
+      "gas:candidate-vibid:350300470429": 271,
+      "gas:candidate-vibid:1001000195096": 375,
+      "gas:candidate-vibid:1001000190370": 12,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 37,
+      "gas:candidate-vibid:1001000225954": 298,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4258,13 +4258,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 271,
-      "Гарнаев Александр Юрьевич": 414,
-      "Гладких Виктор Владимирович": 22,
-      "Нилов Ярослав Евгеньевич": 21,
-      "Пустовитовский Сергей Григорьевич": 50,
-      "Семенов Виктор Александрович": 309,
-      "Против всех": 263
+      "gas:candidate-vibid:350300470429": 271,
+      "gas:candidate-vibid:1001000195096": 414,
+      "gas:candidate-vibid:1001000190370": 22,
+      "gas:candidate-vibid:1001000289808": 21,
+      "gas:candidate-vibid:350300470496": 50,
+      "gas:candidate-vibid:1001000225954": 309,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4314,13 +4314,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 273,
-      "Гарнаев Александр Юрьевич": 401,
-      "Гладких Виктор Владимирович": 17,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 29,
-      "Семенов Виктор Александрович": 189,
-      "Против всех": 277
+      "gas:candidate-vibid:350300470429": 273,
+      "gas:candidate-vibid:1001000195096": 401,
+      "gas:candidate-vibid:1001000190370": 17,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 29,
+      "gas:candidate-vibid:1001000225954": 189,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4370,13 +4370,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 404,
-      "Гарнаев Александр Юрьевич": 431,
-      "Гладких Виктор Владимирович": 25,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 52,
-      "Семенов Виктор Александрович": 357,
-      "Против всех": 301
+      "gas:candidate-vibid:350300470429": 404,
+      "gas:candidate-vibid:1001000195096": 431,
+      "gas:candidate-vibid:1001000190370": 25,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 52,
+      "gas:candidate-vibid:1001000225954": 357,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4426,13 +4426,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 357,
-      "Гарнаев Александр Юрьевич": 326,
-      "Гладких Виктор Владимирович": 14,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 315,
-      "Против всех": 340
+      "gas:candidate-vibid:350300470429": 357,
+      "gas:candidate-vibid:1001000195096": 326,
+      "gas:candidate-vibid:1001000190370": 14,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 315,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4482,13 +4482,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 235,
-      "Гарнаев Александр Юрьевич": 351,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 29,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 325,
-      "Против всех": 248
+      "gas:candidate-vibid:350300470429": 235,
+      "gas:candidate-vibid:1001000195096": 351,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 29,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 325,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4538,13 +4538,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 363,
-      "Гарнаев Александр Юрьевич": 434,
-      "Гладких Виктор Владимирович": 16,
-      "Нилов Ярослав Евгеньевич": 31,
-      "Пустовитовский Сергей Григорьевич": 49,
-      "Семенов Виктор Александрович": 269,
-      "Против всех": 262
+      "gas:candidate-vibid:350300470429": 363,
+      "gas:candidate-vibid:1001000195096": 434,
+      "gas:candidate-vibid:1001000190370": 16,
+      "gas:candidate-vibid:1001000289808": 31,
+      "gas:candidate-vibid:350300470496": 49,
+      "gas:candidate-vibid:1001000225954": 269,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4594,13 +4594,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 376,
-      "Гарнаев Александр Юрьевич": 325,
-      "Гладких Виктор Владимирович": 22,
-      "Нилов Ярослав Евгеньевич": 22,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 307,
-      "Против всех": 268
+      "gas:candidate-vibid:350300470429": 376,
+      "gas:candidate-vibid:1001000195096": 325,
+      "gas:candidate-vibid:1001000190370": 22,
+      "gas:candidate-vibid:1001000289808": 22,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 307,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4650,13 +4650,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 257,
-      "Гарнаев Александр Юрьевич": 215,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 14,
-      "Семенов Виктор Александрович": 161,
-      "Против всех": 176
+      "gas:candidate-vibid:350300470429": 257,
+      "gas:candidate-vibid:1001000195096": 215,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 14,
+      "gas:candidate-vibid:1001000225954": 161,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4706,13 +4706,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 242,
-      "Гарнаев Александр Юрьевич": 293,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 22,
-      "Пустовитовский Сергей Григорьевич": 37,
-      "Семенов Виктор Александрович": 395,
-      "Против всех": 272
+      "gas:candidate-vibid:350300470429": 242,
+      "gas:candidate-vibid:1001000195096": 293,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 22,
+      "gas:candidate-vibid:350300470496": 37,
+      "gas:candidate-vibid:1001000225954": 395,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4762,13 +4762,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 235,
-      "Гарнаев Александр Юрьевич": 473,
-      "Гладких Виктор Владимирович": 8,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 303,
-      "Против всех": 316
+      "gas:candidate-vibid:350300470429": 235,
+      "gas:candidate-vibid:1001000195096": 473,
+      "gas:candidate-vibid:1001000190370": 8,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 303,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4818,13 +4818,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 193,
-      "Гарнаев Александр Юрьевич": 306,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 37,
-      "Семенов Виктор Александрович": 276,
-      "Против всех": 230
+      "gas:candidate-vibid:350300470429": 193,
+      "gas:candidate-vibid:1001000195096": 306,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 37,
+      "gas:candidate-vibid:1001000225954": 276,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4874,13 +4874,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 292,
-      "Гарнаев Александр Юрьевич": 435,
-      "Гладких Виктор Владимирович": 18,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 370,
-      "Против всех": 311
+      "gas:candidate-vibid:350300470429": 292,
+      "gas:candidate-vibid:1001000195096": 435,
+      "gas:candidate-vibid:1001000190370": 18,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 370,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4930,13 +4930,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 221,
-      "Гарнаев Александр Юрьевич": 392,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 40,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 294,
-      "Против всех": 326
+      "gas:candidate-vibid:350300470429": 221,
+      "gas:candidate-vibid:1001000195096": 392,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 40,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 294,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -4986,13 +4986,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 42,
-      "Гарнаев Александр Юрьевич": 65,
-      "Гладких Виктор Владимирович": 5,
-      "Нилов Ярослав Евгеньевич": 3,
-      "Пустовитовский Сергей Григорьевич": 12,
-      "Семенов Виктор Александрович": 56,
-      "Против всех": 69
+      "gas:candidate-vibid:350300470429": 42,
+      "gas:candidate-vibid:1001000195096": 65,
+      "gas:candidate-vibid:1001000190370": 5,
+      "gas:candidate-vibid:1001000289808": 3,
+      "gas:candidate-vibid:350300470496": 12,
+      "gas:candidate-vibid:1001000225954": 56,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470814&region=0&sub_region=0&type=429",
@@ -5042,13 +5042,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 33,
-      "Гарнаев Александр Юрьевич": 29,
-      "Гладких Виктор Владимирович": 6,
-      "Нилов Ярослав Евгеньевич": 14,
-      "Пустовитовский Сергей Григорьевич": 3,
-      "Семенов Виктор Александрович": 109,
-      "Против всех": 58
+      "gas:candidate-vibid:350300470429": 33,
+      "gas:candidate-vibid:1001000195096": 29,
+      "gas:candidate-vibid:1001000190370": 6,
+      "gas:candidate-vibid:1001000289808": 14,
+      "gas:candidate-vibid:350300470496": 3,
+      "gas:candidate-vibid:1001000225954": 109,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5098,13 +5098,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 186,
-      "Гарнаев Александр Юрьевич": 63,
-      "Гладких Виктор Владимирович": 36,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 24,
-      "Семенов Виктор Александрович": 356,
-      "Против всех": 252
+      "gas:candidate-vibid:350300470429": 186,
+      "gas:candidate-vibid:1001000195096": 63,
+      "gas:candidate-vibid:1001000190370": 36,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 24,
+      "gas:candidate-vibid:1001000225954": 356,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5154,13 +5154,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 219,
-      "Гарнаев Александр Юрьевич": 115,
-      "Гладких Виктор Владимирович": 29,
-      "Нилов Ярослав Евгеньевич": 39,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 402,
-      "Против всех": 274
+      "gas:candidate-vibid:350300470429": 219,
+      "gas:candidate-vibid:1001000195096": 115,
+      "gas:candidate-vibid:1001000190370": 29,
+      "gas:candidate-vibid:1001000289808": 39,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 402,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5210,13 +5210,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 201,
-      "Гарнаев Александр Юрьевич": 116,
-      "Гладких Виктор Владимирович": 26,
-      "Нилов Ярослав Евгеньевич": 39,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 360,
-      "Против всех": 229
+      "gas:candidate-vibid:350300470429": 201,
+      "gas:candidate-vibid:1001000195096": 116,
+      "gas:candidate-vibid:1001000190370": 26,
+      "gas:candidate-vibid:1001000289808": 39,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 360,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5266,13 +5266,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 180,
-      "Гарнаев Александр Юрьевич": 86,
-      "Гладких Виктор Владимирович": 27,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 293,
-      "Против всех": 210
+      "gas:candidate-vibid:350300470429": 180,
+      "gas:candidate-vibid:1001000195096": 86,
+      "gas:candidate-vibid:1001000190370": 27,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 293,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5322,13 +5322,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 162,
-      "Гарнаев Александр Юрьевич": 59,
-      "Гладких Виктор Владимирович": 29,
-      "Нилов Ярослав Евгеньевич": 33,
-      "Пустовитовский Сергей Григорьевич": 19,
-      "Семенов Виктор Александрович": 366,
-      "Против всех": 193
+      "gas:candidate-vibid:350300470429": 162,
+      "gas:candidate-vibid:1001000195096": 59,
+      "gas:candidate-vibid:1001000190370": 29,
+      "gas:candidate-vibid:1001000289808": 33,
+      "gas:candidate-vibid:350300470496": 19,
+      "gas:candidate-vibid:1001000225954": 366,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5378,13 +5378,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 238,
-      "Гарнаев Александр Юрьевич": 162,
-      "Гладких Виктор Владимирович": 18,
-      "Нилов Ярослав Евгеньевич": 32,
-      "Пустовитовский Сергей Григорьевич": 23,
-      "Семенов Виктор Александрович": 363,
-      "Против всех": 240
+      "gas:candidate-vibid:350300470429": 238,
+      "gas:candidate-vibid:1001000195096": 162,
+      "gas:candidate-vibid:1001000190370": 18,
+      "gas:candidate-vibid:1001000289808": 32,
+      "gas:candidate-vibid:350300470496": 23,
+      "gas:candidate-vibid:1001000225954": 363,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5434,13 +5434,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 201,
-      "Гарнаев Александр Юрьевич": 131,
-      "Гладких Виктор Владимирович": 25,
-      "Нилов Ярослав Евгеньевич": 42,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 503,
-      "Против всех": 243
+      "gas:candidate-vibid:350300470429": 201,
+      "gas:candidate-vibid:1001000195096": 131,
+      "gas:candidate-vibid:1001000190370": 25,
+      "gas:candidate-vibid:1001000289808": 42,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 503,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470815&region=0&sub_region=0&type=429",
@@ -5490,13 +5490,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 197,
-      "Гарнаев Александр Юрьевич": 85,
-      "Гладких Виктор Владимирович": 52,
-      "Нилов Ярослав Евгеньевич": 45,
-      "Пустовитовский Сергей Григорьевич": 48,
-      "Семенов Виктор Александрович": 326,
-      "Против всех": 247
+      "gas:candidate-vibid:350300470429": 197,
+      "gas:candidate-vibid:1001000195096": 85,
+      "gas:candidate-vibid:1001000190370": 52,
+      "gas:candidate-vibid:1001000289808": 45,
+      "gas:candidate-vibid:350300470496": 48,
+      "gas:candidate-vibid:1001000225954": 326,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5546,13 +5546,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 150,
-      "Гарнаев Александр Юрьевич": 106,
-      "Гладких Виктор Владимирович": 45,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 46,
-      "Семенов Виктор Александрович": 271,
-      "Против всех": 246
+      "gas:candidate-vibid:350300470429": 150,
+      "gas:candidate-vibid:1001000195096": 106,
+      "gas:candidate-vibid:1001000190370": 45,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 46,
+      "gas:candidate-vibid:1001000225954": 271,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5602,13 +5602,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 241,
-      "Гарнаев Александр Юрьевич": 111,
-      "Гладких Виктор Владимирович": 49,
-      "Нилов Ярослав Евгеньевич": 31,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 213,
-      "Против всех": 270
+      "gas:candidate-vibid:350300470429": 241,
+      "gas:candidate-vibid:1001000195096": 111,
+      "gas:candidate-vibid:1001000190370": 49,
+      "gas:candidate-vibid:1001000289808": 31,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 213,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5658,13 +5658,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 149,
-      "Гарнаев Александр Юрьевич": 119,
-      "Гладких Виктор Владимирович": 35,
-      "Нилов Ярослав Евгеньевич": 33,
-      "Пустовитовский Сергей Григорьевич": 51,
-      "Семенов Виктор Александрович": 238,
-      "Против всех": 236
+      "gas:candidate-vibid:350300470429": 149,
+      "gas:candidate-vibid:1001000195096": 119,
+      "gas:candidate-vibid:1001000190370": 35,
+      "gas:candidate-vibid:1001000289808": 33,
+      "gas:candidate-vibid:350300470496": 51,
+      "gas:candidate-vibid:1001000225954": 238,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5714,13 +5714,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 287,
-      "Гарнаев Александр Юрьевич": 91,
-      "Гладких Виктор Владимирович": 50,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 37,
-      "Семенов Виктор Александрович": 325,
-      "Против всех": 453
+      "gas:candidate-vibid:350300470429": 287,
+      "gas:candidate-vibid:1001000195096": 91,
+      "gas:candidate-vibid:1001000190370": 50,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 37,
+      "gas:candidate-vibid:1001000225954": 325,
+      "special:against-all": 453
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5770,13 +5770,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 88,
-      "Гарнаев Александр Юрьевич": 50,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 14,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 139,
-      "Против всех": 142
+      "gas:candidate-vibid:350300470429": 88,
+      "gas:candidate-vibid:1001000195096": 50,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 14,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 139,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5826,13 +5826,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 162,
-      "Гарнаев Александр Юрьевич": 104,
-      "Гладких Виктор Владимирович": 34,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 292,
-      "Против всех": 241
+      "gas:candidate-vibid:350300470429": 162,
+      "gas:candidate-vibid:1001000195096": 104,
+      "gas:candidate-vibid:1001000190370": 34,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 292,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5882,13 +5882,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 123,
-      "Гарнаев Александр Юрьевич": 21,
-      "Гладких Виктор Владимирович": 22,
-      "Нилов Ярослав Евгеньевич": 21,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 135,
-      "Против всех": 145
+      "gas:candidate-vibid:350300470429": 123,
+      "gas:candidate-vibid:1001000195096": 21,
+      "gas:candidate-vibid:1001000190370": 22,
+      "gas:candidate-vibid:1001000289808": 21,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 135,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5938,13 +5938,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 86,
-      "Гарнаев Александр Юрьевич": 38,
-      "Гладких Виктор Владимирович": 14,
-      "Нилов Ярослав Евгеньевич": 21,
-      "Пустовитовский Сергей Григорьевич": 52,
-      "Семенов Виктор Александрович": 184,
-      "Против всех": 112
+      "gas:candidate-vibid:350300470429": 86,
+      "gas:candidate-vibid:1001000195096": 38,
+      "gas:candidate-vibid:1001000190370": 14,
+      "gas:candidate-vibid:1001000289808": 21,
+      "gas:candidate-vibid:350300470496": 52,
+      "gas:candidate-vibid:1001000225954": 184,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -5994,13 +5994,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 105,
-      "Гарнаев Александр Юрьевич": 56,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 64,
-      "Семенов Виктор Александрович": 158,
-      "Против всех": 124
+      "gas:candidate-vibid:350300470429": 105,
+      "gas:candidate-vibid:1001000195096": 56,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 64,
+      "gas:candidate-vibid:1001000225954": 158,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6050,13 +6050,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 209,
-      "Гарнаев Александр Юрьевич": 61,
-      "Гладких Виктор Владимирович": 29,
-      "Нилов Ярослав Евгеньевич": 20,
-      "Пустовитовский Сергей Григорьевич": 62,
-      "Семенов Виктор Александрович": 268,
-      "Против всех": 191
+      "gas:candidate-vibid:350300470429": 209,
+      "gas:candidate-vibid:1001000195096": 61,
+      "gas:candidate-vibid:1001000190370": 29,
+      "gas:candidate-vibid:1001000289808": 20,
+      "gas:candidate-vibid:350300470496": 62,
+      "gas:candidate-vibid:1001000225954": 268,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6106,13 +6106,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 111,
-      "Гарнаев Александр Юрьевич": 24,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 172,
-      "Против всех": 128
+      "gas:candidate-vibid:350300470429": 111,
+      "gas:candidate-vibid:1001000195096": 24,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 172,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6162,13 +6162,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 234,
-      "Гарнаев Александр Юрьевич": 150,
-      "Гладких Виктор Владимирович": 48,
-      "Нилов Ярослав Евгеньевич": 29,
-      "Пустовитовский Сергей Григорьевич": 70,
-      "Семенов Виктор Александрович": 208,
-      "Против всех": 195
+      "gas:candidate-vibid:350300470429": 234,
+      "gas:candidate-vibid:1001000195096": 150,
+      "gas:candidate-vibid:1001000190370": 48,
+      "gas:candidate-vibid:1001000289808": 29,
+      "gas:candidate-vibid:350300470496": 70,
+      "gas:candidate-vibid:1001000225954": 208,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6218,13 +6218,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 201,
-      "Гарнаев Александр Юрьевич": 121,
-      "Гладких Виктор Владимирович": 42,
-      "Нилов Ярослав Евгеньевич": 34,
-      "Пустовитовский Сергей Григорьевич": 81,
-      "Семенов Виктор Александрович": 226,
-      "Против всех": 240
+      "gas:candidate-vibid:350300470429": 201,
+      "gas:candidate-vibid:1001000195096": 121,
+      "gas:candidate-vibid:1001000190370": 42,
+      "gas:candidate-vibid:1001000289808": 34,
+      "gas:candidate-vibid:350300470496": 81,
+      "gas:candidate-vibid:1001000225954": 226,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6274,13 +6274,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 166,
-      "Гарнаев Александр Юрьевич": 89,
-      "Гладких Виктор Владимирович": 35,
-      "Нилов Ярослав Евгеньевич": 29,
-      "Пустовитовский Сергей Григорьевич": 67,
-      "Семенов Виктор Александрович": 267,
-      "Против всех": 214
+      "gas:candidate-vibid:350300470429": 166,
+      "gas:candidate-vibid:1001000195096": 89,
+      "gas:candidate-vibid:1001000190370": 35,
+      "gas:candidate-vibid:1001000289808": 29,
+      "gas:candidate-vibid:350300470496": 67,
+      "gas:candidate-vibid:1001000225954": 267,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6330,13 +6330,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 204,
-      "Гарнаев Александр Юрьевич": 64,
-      "Гладких Виктор Владимирович": 34,
-      "Нилов Ярослав Евгеньевич": 34,
-      "Пустовитовский Сергей Григорьевич": 94,
-      "Семенов Виктор Александрович": 219,
-      "Против всех": 240
+      "gas:candidate-vibid:350300470429": 204,
+      "gas:candidate-vibid:1001000195096": 64,
+      "gas:candidate-vibid:1001000190370": 34,
+      "gas:candidate-vibid:1001000289808": 34,
+      "gas:candidate-vibid:350300470496": 94,
+      "gas:candidate-vibid:1001000225954": 219,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6386,13 +6386,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 258,
-      "Гарнаев Александр Юрьевич": 172,
-      "Гладких Виктор Владимирович": 50,
-      "Нилов Ярослав Евгеньевич": 50,
-      "Пустовитовский Сергей Григорьевич": 75,
-      "Семенов Виктор Александрович": 314,
-      "Против всех": 270
+      "gas:candidate-vibid:350300470429": 258,
+      "gas:candidate-vibid:1001000195096": 172,
+      "gas:candidate-vibid:1001000190370": 50,
+      "gas:candidate-vibid:1001000289808": 50,
+      "gas:candidate-vibid:350300470496": 75,
+      "gas:candidate-vibid:1001000225954": 314,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6442,13 +6442,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 181,
-      "Гарнаев Александр Юрьевич": 193,
-      "Гладких Виктор Владимирович": 45,
-      "Нилов Ярослав Евгеньевич": 37,
-      "Пустовитовский Сергей Григорьевич": 58,
-      "Семенов Виктор Александрович": 354,
-      "Против всех": 313
+      "gas:candidate-vibid:350300470429": 181,
+      "gas:candidate-vibid:1001000195096": 193,
+      "gas:candidate-vibid:1001000190370": 45,
+      "gas:candidate-vibid:1001000289808": 37,
+      "gas:candidate-vibid:350300470496": 58,
+      "gas:candidate-vibid:1001000225954": 354,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6498,13 +6498,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 216,
-      "Гарнаев Александр Юрьевич": 196,
-      "Гладких Виктор Владимирович": 39,
-      "Нилов Ярослав Евгеньевич": 34,
-      "Пустовитовский Сергей Григорьевич": 14,
-      "Семенов Виктор Александрович": 338,
-      "Против всех": 258
+      "gas:candidate-vibid:350300470429": 216,
+      "gas:candidate-vibid:1001000195096": 196,
+      "gas:candidate-vibid:1001000190370": 39,
+      "gas:candidate-vibid:1001000289808": 34,
+      "gas:candidate-vibid:350300470496": 14,
+      "gas:candidate-vibid:1001000225954": 338,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6554,13 +6554,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 179,
-      "Гарнаев Александр Юрьевич": 138,
-      "Гладких Виктор Владимирович": 51,
-      "Нилов Ярослав Евгеньевич": 48,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 368,
-      "Против всех": 347
+      "gas:candidate-vibid:350300470429": 179,
+      "gas:candidate-vibid:1001000195096": 138,
+      "gas:candidate-vibid:1001000190370": 51,
+      "gas:candidate-vibid:1001000289808": 48,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 368,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6610,13 +6610,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 239,
-      "Гарнаев Александр Юрьевич": 193,
-      "Гладких Виктор Владимирович": 49,
-      "Нилов Ярослав Евгеньевич": 45,
-      "Пустовитовский Сергей Григорьевич": 65,
-      "Семенов Виктор Александрович": 350,
-      "Против всех": 320
+      "gas:candidate-vibid:350300470429": 239,
+      "gas:candidate-vibid:1001000195096": 193,
+      "gas:candidate-vibid:1001000190370": 49,
+      "gas:candidate-vibid:1001000289808": 45,
+      "gas:candidate-vibid:350300470496": 65,
+      "gas:candidate-vibid:1001000225954": 350,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6666,13 +6666,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 103,
-      "Гарнаев Александр Юрьевич": 280,
-      "Гладких Виктор Владимирович": 47,
-      "Нилов Ярослав Евгеньевич": 91,
-      "Пустовитовский Сергей Григорьевич": 70,
-      "Семенов Виктор Александрович": 319,
-      "Против всех": 238
+      "gas:candidate-vibid:350300470429": 103,
+      "gas:candidate-vibid:1001000195096": 280,
+      "gas:candidate-vibid:1001000190370": 47,
+      "gas:candidate-vibid:1001000289808": 91,
+      "gas:candidate-vibid:350300470496": 70,
+      "gas:candidate-vibid:1001000225954": 319,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6722,13 +6722,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 135,
-      "Гарнаев Александр Юрьевич": 289,
-      "Гладких Виктор Владимирович": 38,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 64,
-      "Семенов Виктор Александрович": 251,
-      "Против всех": 220
+      "gas:candidate-vibid:350300470429": 135,
+      "gas:candidate-vibid:1001000195096": 289,
+      "gas:candidate-vibid:1001000190370": 38,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 64,
+      "gas:candidate-vibid:1001000225954": 251,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6778,13 +6778,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 182,
-      "Гарнаев Александр Юрьевич": 320,
-      "Гладких Виктор Владимирович": 48,
-      "Нилов Ярослав Евгеньевич": 41,
-      "Пустовитовский Сергей Григорьевич": 79,
-      "Семенов Виктор Александрович": 331,
-      "Против всех": 296
+      "gas:candidate-vibid:350300470429": 182,
+      "gas:candidate-vibid:1001000195096": 320,
+      "gas:candidate-vibid:1001000190370": 48,
+      "gas:candidate-vibid:1001000289808": 41,
+      "gas:candidate-vibid:350300470496": 79,
+      "gas:candidate-vibid:1001000225954": 331,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6834,13 +6834,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 238,
-      "Гарнаев Александр Юрьевич": 405,
-      "Гладких Виктор Владимирович": 59,
-      "Нилов Ярослав Евгеньевич": 40,
-      "Пустовитовский Сергей Григорьевич": 84,
-      "Семенов Виктор Александрович": 302,
-      "Против всех": 278
+      "gas:candidate-vibid:350300470429": 238,
+      "gas:candidate-vibid:1001000195096": 405,
+      "gas:candidate-vibid:1001000190370": 59,
+      "gas:candidate-vibid:1001000289808": 40,
+      "gas:candidate-vibid:350300470496": 84,
+      "gas:candidate-vibid:1001000225954": 302,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6890,13 +6890,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 164,
-      "Гарнаев Александр Юрьевич": 170,
-      "Гладких Виктор Владимирович": 56,
-      "Нилов Ярослав Евгеньевич": 64,
-      "Пустовитовский Сергей Григорьевич": 78,
-      "Семенов Виктор Александрович": 409,
-      "Против всех": 477
+      "gas:candidate-vibid:350300470429": 164,
+      "gas:candidate-vibid:1001000195096": 170,
+      "gas:candidate-vibid:1001000190370": 56,
+      "gas:candidate-vibid:1001000289808": 64,
+      "gas:candidate-vibid:350300470496": 78,
+      "gas:candidate-vibid:1001000225954": 409,
+      "special:against-all": 477
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -6946,13 +6946,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 191,
-      "Гарнаев Александр Юрьевич": 175,
-      "Гладких Виктор Владимирович": 64,
-      "Нилов Ярослав Евгеньевич": 59,
-      "Пустовитовский Сергей Григорьевич": 52,
-      "Семенов Виктор Александрович": 382,
-      "Против всех": 480
+      "gas:candidate-vibid:350300470429": 191,
+      "gas:candidate-vibid:1001000195096": 175,
+      "gas:candidate-vibid:1001000190370": 64,
+      "gas:candidate-vibid:1001000289808": 59,
+      "gas:candidate-vibid:350300470496": 52,
+      "gas:candidate-vibid:1001000225954": 382,
+      "special:against-all": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7002,13 +7002,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 241,
-      "Гарнаев Александр Юрьевич": 222,
-      "Гладких Виктор Владимирович": 50,
-      "Нилов Ярослав Евгеньевич": 50,
-      "Пустовитовский Сергей Григорьевич": 56,
-      "Семенов Виктор Александрович": 372,
-      "Против всех": 511
+      "gas:candidate-vibid:350300470429": 241,
+      "gas:candidate-vibid:1001000195096": 222,
+      "gas:candidate-vibid:1001000190370": 50,
+      "gas:candidate-vibid:1001000289808": 50,
+      "gas:candidate-vibid:350300470496": 56,
+      "gas:candidate-vibid:1001000225954": 372,
+      "special:against-all": 511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7058,13 +7058,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 186,
-      "Гарнаев Александр Юрьевич": 71,
-      "Гладких Виктор Владимирович": 56,
-      "Нилов Ярослав Евгеньевич": 20,
-      "Пустовитовский Сергей Григорьевич": 19,
-      "Семенов Виктор Александрович": 177,
-      "Против всех": 172
+      "gas:candidate-vibid:350300470429": 186,
+      "gas:candidate-vibid:1001000195096": 71,
+      "gas:candidate-vibid:1001000190370": 56,
+      "gas:candidate-vibid:1001000289808": 20,
+      "gas:candidate-vibid:350300470496": 19,
+      "gas:candidate-vibid:1001000225954": 177,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7114,13 +7114,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 198,
-      "Гарнаев Александр Юрьевич": 111,
-      "Гладких Виктор Владимирович": 41,
-      "Нилов Ярослав Евгеньевич": 22,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 282,
-      "Против всех": 212
+      "gas:candidate-vibid:350300470429": 198,
+      "gas:candidate-vibid:1001000195096": 111,
+      "gas:candidate-vibid:1001000190370": 41,
+      "gas:candidate-vibid:1001000289808": 22,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 282,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7170,13 +7170,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 246,
-      "Гарнаев Александр Юрьевич": 191,
-      "Гладких Виктор Владимирович": 42,
-      "Нилов Ярослав Евгеньевич": 21,
-      "Пустовитовский Сергей Григорьевич": 30,
-      "Семенов Виктор Александрович": 202,
-      "Против всех": 238
+      "gas:candidate-vibid:350300470429": 246,
+      "gas:candidate-vibid:1001000195096": 191,
+      "gas:candidate-vibid:1001000190370": 42,
+      "gas:candidate-vibid:1001000289808": 21,
+      "gas:candidate-vibid:350300470496": 30,
+      "gas:candidate-vibid:1001000225954": 202,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7226,13 +7226,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 401,
-      "Гарнаев Александр Юрьевич": 203,
-      "Гладких Виктор Владимирович": 41,
-      "Нилов Ярослав Евгеньевич": 37,
-      "Пустовитовский Сергей Григорьевич": 22,
-      "Семенов Виктор Александрович": 246,
-      "Против всех": 240
+      "gas:candidate-vibid:350300470429": 401,
+      "gas:candidate-vibid:1001000195096": 203,
+      "gas:candidate-vibid:1001000190370": 41,
+      "gas:candidate-vibid:1001000289808": 37,
+      "gas:candidate-vibid:350300470496": 22,
+      "gas:candidate-vibid:1001000225954": 246,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7282,13 +7282,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 260,
-      "Гарнаев Александр Юрьевич": 68,
-      "Гладких Виктор Владимирович": 43,
-      "Нилов Ярослав Евгеньевич": 39,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 229,
-      "Против всех": 226
+      "gas:candidate-vibid:350300470429": 260,
+      "gas:candidate-vibid:1001000195096": 68,
+      "gas:candidate-vibid:1001000190370": 43,
+      "gas:candidate-vibid:1001000289808": 39,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 229,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7338,13 +7338,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 150,
-      "Гарнаев Александр Юрьевич": 83,
-      "Гладких Виктор Владимирович": 28,
-      "Нилов Ярослав Евгеньевич": 32,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 199,
-      "Против всех": 204
+      "gas:candidate-vibid:350300470429": 150,
+      "gas:candidate-vibid:1001000195096": 83,
+      "gas:candidate-vibid:1001000190370": 28,
+      "gas:candidate-vibid:1001000289808": 32,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 199,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7394,13 +7394,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 124,
-      "Гарнаев Александр Юрьевич": 86,
-      "Гладких Виктор Владимирович": 57,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 279,
-      "Против всех": 188
+      "gas:candidate-vibid:350300470429": 124,
+      "gas:candidate-vibid:1001000195096": 86,
+      "gas:candidate-vibid:1001000190370": 57,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 279,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7450,13 +7450,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 172,
-      "Гарнаев Александр Юрьевич": 161,
-      "Гладких Виктор Владимирович": 32,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 38,
-      "Семенов Виктор Александрович": 276,
-      "Против всех": 272
+      "gas:candidate-vibid:350300470429": 172,
+      "gas:candidate-vibid:1001000195096": 161,
+      "gas:candidate-vibid:1001000190370": 32,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 38,
+      "gas:candidate-vibid:1001000225954": 276,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7506,13 +7506,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 254,
-      "Гарнаев Александр Юрьевич": 124,
-      "Гладких Виктор Владимирович": 30,
-      "Нилов Ярослав Евгеньевич": 34,
-      "Пустовитовский Сергей Григорьевич": 55,
-      "Семенов Виктор Александрович": 279,
-      "Против всех": 287
+      "gas:candidate-vibid:350300470429": 254,
+      "gas:candidate-vibid:1001000195096": 124,
+      "gas:candidate-vibid:1001000190370": 30,
+      "gas:candidate-vibid:1001000289808": 34,
+      "gas:candidate-vibid:350300470496": 55,
+      "gas:candidate-vibid:1001000225954": 279,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7562,13 +7562,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 208,
-      "Гарнаев Александр Юрьевич": 132,
-      "Гладких Виктор Владимирович": 38,
-      "Нилов Ярослав Евгеньевич": 37,
-      "Пустовитовский Сергей Григорьевич": 33,
-      "Семенов Виктор Александрович": 336,
-      "Против всех": 271
+      "gas:candidate-vibid:350300470429": 208,
+      "gas:candidate-vibid:1001000195096": 132,
+      "gas:candidate-vibid:1001000190370": 38,
+      "gas:candidate-vibid:1001000289808": 37,
+      "gas:candidate-vibid:350300470496": 33,
+      "gas:candidate-vibid:1001000225954": 336,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7618,13 +7618,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 189,
-      "Гарнаев Александр Юрьевич": 140,
-      "Гладких Виктор Владимирович": 30,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 50,
-      "Семенов Виктор Александрович": 359,
-      "Против всех": 254
+      "gas:candidate-vibid:350300470429": 189,
+      "gas:candidate-vibid:1001000195096": 140,
+      "gas:candidate-vibid:1001000190370": 30,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 50,
+      "gas:candidate-vibid:1001000225954": 359,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7674,13 +7674,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 225,
-      "Гарнаев Александр Юрьевич": 174,
-      "Гладких Виктор Владимирович": 37,
-      "Нилов Ярослав Евгеньевич": 33,
-      "Пустовитовский Сергей Григорьевич": 25,
-      "Семенов Виктор Александрович": 326,
-      "Против всех": 272
+      "gas:candidate-vibid:350300470429": 225,
+      "gas:candidate-vibid:1001000195096": 174,
+      "gas:candidate-vibid:1001000190370": 37,
+      "gas:candidate-vibid:1001000289808": 33,
+      "gas:candidate-vibid:350300470496": 25,
+      "gas:candidate-vibid:1001000225954": 326,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7730,13 +7730,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 219,
-      "Гарнаев Александр Юрьевич": 123,
-      "Гладких Виктор Владимирович": 35,
-      "Нилов Ярослав Евгеньевич": 22,
-      "Пустовитовский Сергей Григорьевич": 25,
-      "Семенов Виктор Александрович": 382,
-      "Против всех": 258
+      "gas:candidate-vibid:350300470429": 219,
+      "gas:candidate-vibid:1001000195096": 123,
+      "gas:candidate-vibid:1001000190370": 35,
+      "gas:candidate-vibid:1001000289808": 22,
+      "gas:candidate-vibid:350300470496": 25,
+      "gas:candidate-vibid:1001000225954": 382,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7786,13 +7786,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 224,
-      "Гарнаев Александр Юрьевич": 119,
-      "Гладких Виктор Владимирович": 34,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 57,
-      "Семенов Виктор Александрович": 338,
-      "Против всех": 311
+      "gas:candidate-vibid:350300470429": 224,
+      "gas:candidate-vibid:1001000195096": 119,
+      "gas:candidate-vibid:1001000190370": 34,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 57,
+      "gas:candidate-vibid:1001000225954": 338,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7842,13 +7842,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 164,
-      "Гарнаев Александр Юрьевич": 106,
-      "Гладких Виктор Владимирович": 31,
-      "Нилов Ярослав Евгеньевич": 12,
-      "Пустовитовский Сергей Григорьевич": 26,
-      "Семенов Виктор Александрович": 141,
-      "Против всех": 147
+      "gas:candidate-vibid:350300470429": 164,
+      "gas:candidate-vibid:1001000195096": 106,
+      "gas:candidate-vibid:1001000190370": 31,
+      "gas:candidate-vibid:1001000289808": 12,
+      "gas:candidate-vibid:350300470496": 26,
+      "gas:candidate-vibid:1001000225954": 141,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7898,13 +7898,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 215,
-      "Гарнаев Александр Юрьевич": 145,
-      "Гладких Виктор Владимирович": 45,
-      "Нилов Ярослав Евгеньевич": 17,
-      "Пустовитовский Сергей Григорьевич": 21,
-      "Семенов Виктор Александрович": 222,
-      "Против всех": 281
+      "gas:candidate-vibid:350300470429": 215,
+      "gas:candidate-vibid:1001000195096": 145,
+      "gas:candidate-vibid:1001000190370": 45,
+      "gas:candidate-vibid:1001000289808": 17,
+      "gas:candidate-vibid:350300470496": 21,
+      "gas:candidate-vibid:1001000225954": 222,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -7954,13 +7954,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 278,
-      "Гарнаев Александр Юрьевич": 176,
-      "Гладких Виктор Владимирович": 50,
-      "Нилов Ярослав Евгеньевич": 55,
-      "Пустовитовский Сергей Григорьевич": 17,
-      "Семенов Виктор Александрович": 323,
-      "Против всех": 318
+      "gas:candidate-vibid:350300470429": 278,
+      "gas:candidate-vibid:1001000195096": 176,
+      "gas:candidate-vibid:1001000190370": 50,
+      "gas:candidate-vibid:1001000289808": 55,
+      "gas:candidate-vibid:350300470496": 17,
+      "gas:candidate-vibid:1001000225954": 323,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8010,13 +8010,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 318,
-      "Гарнаев Александр Юрьевич": 285,
-      "Гладких Виктор Владимирович": 39,
-      "Нилов Ярослав Евгеньевич": 37,
-      "Пустовитовский Сергей Григорьевич": 15,
-      "Семенов Виктор Александрович": 271,
-      "Против всех": 267
+      "gas:candidate-vibid:350300470429": 318,
+      "gas:candidate-vibid:1001000195096": 285,
+      "gas:candidate-vibid:1001000190370": 39,
+      "gas:candidate-vibid:1001000289808": 37,
+      "gas:candidate-vibid:350300470496": 15,
+      "gas:candidate-vibid:1001000225954": 271,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8066,13 +8066,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 289,
-      "Гарнаев Александр Юрьевич": 232,
-      "Гладких Виктор Владимирович": 59,
-      "Нилов Ярослав Евгеньевич": 67,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 326,
-      "Против всех": 295
+      "gas:candidate-vibid:350300470429": 289,
+      "gas:candidate-vibid:1001000195096": 232,
+      "gas:candidate-vibid:1001000190370": 59,
+      "gas:candidate-vibid:1001000289808": 67,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 326,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8122,13 +8122,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 217,
-      "Гарнаев Александр Юрьевич": 301,
-      "Гладких Виктор Владимирович": 37,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 345,
-      "Против всех": 245
+      "gas:candidate-vibid:350300470429": 217,
+      "gas:candidate-vibid:1001000195096": 301,
+      "gas:candidate-vibid:1001000190370": 37,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 345,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8178,13 +8178,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 189,
-      "Гарнаев Александр Юрьевич": 160,
-      "Гладких Виктор Владимирович": 43,
-      "Нилов Ярослав Евгеньевич": 46,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 303,
-      "Против всех": 191
+      "gas:candidate-vibid:350300470429": 189,
+      "gas:candidate-vibid:1001000195096": 160,
+      "gas:candidate-vibid:1001000190370": 43,
+      "gas:candidate-vibid:1001000289808": 46,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 303,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8234,13 +8234,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 224,
-      "Гарнаев Александр Юрьевич": 204,
-      "Гладких Виктор Владимирович": 45,
-      "Нилов Ярослав Евгеньевич": 54,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 315,
-      "Против всех": 245
+      "gas:candidate-vibid:350300470429": 224,
+      "gas:candidate-vibid:1001000195096": 204,
+      "gas:candidate-vibid:1001000190370": 45,
+      "gas:candidate-vibid:1001000289808": 54,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 315,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8290,13 +8290,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 283,
-      "Гарнаев Александр Юрьевич": 142,
-      "Гладких Виктор Владимирович": 57,
-      "Нилов Ярослав Евгеньевич": 37,
-      "Пустовитовский Сергей Григорьевич": 29,
-      "Семенов Виктор Александрович": 323,
-      "Против всех": 221
+      "gas:candidate-vibid:350300470429": 283,
+      "gas:candidate-vibid:1001000195096": 142,
+      "gas:candidate-vibid:1001000190370": 57,
+      "gas:candidate-vibid:1001000289808": 37,
+      "gas:candidate-vibid:350300470496": 29,
+      "gas:candidate-vibid:1001000225954": 323,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8346,13 +8346,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 327,
-      "Гарнаев Александр Юрьевич": 170,
-      "Гладких Виктор Владимирович": 46,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 46,
-      "Семенов Виктор Александрович": 168,
-      "Против всех": 203
+      "gas:candidate-vibid:350300470429": 327,
+      "gas:candidate-vibid:1001000195096": 170,
+      "gas:candidate-vibid:1001000190370": 46,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 46,
+      "gas:candidate-vibid:1001000225954": 168,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8402,13 +8402,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 219,
-      "Гарнаев Александр Юрьевич": 159,
-      "Гладких Виктор Владимирович": 32,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 60,
-      "Семенов Виктор Александрович": 230,
-      "Против всех": 222
+      "gas:candidate-vibid:350300470429": 219,
+      "gas:candidate-vibid:1001000195096": 159,
+      "gas:candidate-vibid:1001000190370": 32,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 60,
+      "gas:candidate-vibid:1001000225954": 230,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8458,13 +8458,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 280,
-      "Гарнаев Александр Юрьевич": 131,
-      "Гладких Виктор Владимирович": 41,
-      "Нилов Ярослав Евгеньевич": 41,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 247,
-      "Против всех": 274
+      "gas:candidate-vibid:350300470429": 280,
+      "gas:candidate-vibid:1001000195096": 131,
+      "gas:candidate-vibid:1001000190370": 41,
+      "gas:candidate-vibid:1001000289808": 41,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 247,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8514,13 +8514,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 390,
-      "Гарнаев Александр Юрьевич": 124,
-      "Гладких Виктор Владимирович": 42,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 58,
-      "Семенов Виктор Александрович": 214,
-      "Против всех": 276
+      "gas:candidate-vibid:350300470429": 390,
+      "gas:candidate-vibid:1001000195096": 124,
+      "gas:candidate-vibid:1001000190370": 42,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 58,
+      "gas:candidate-vibid:1001000225954": 214,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8570,13 +8570,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 15,
-      "Гарнаев Александр Юрьевич": 6,
-      "Гладких Виктор Владимирович": 4,
-      "Нилов Ярослав Евгеньевич": 1,
-      "Пустовитовский Сергей Григорьевич": 3,
-      "Семенов Виктор Александрович": 35,
-      "Против всех": 48
+      "gas:candidate-vibid:350300470429": 15,
+      "gas:candidate-vibid:1001000195096": 6,
+      "gas:candidate-vibid:1001000190370": 4,
+      "gas:candidate-vibid:1001000289808": 1,
+      "gas:candidate-vibid:350300470496": 3,
+      "gas:candidate-vibid:1001000225954": 35,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8626,13 +8626,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 351,
-      "Гарнаев Александр Юрьевич": 161,
-      "Гладких Виктор Владимирович": 43,
-      "Нилов Ярослав Евгеньевич": 67,
-      "Пустовитовский Сергей Григорьевич": 26,
-      "Семенов Виктор Александрович": 353,
-      "Против всех": 300
+      "gas:candidate-vibid:350300470429": 351,
+      "gas:candidate-vibid:1001000195096": 161,
+      "gas:candidate-vibid:1001000190370": 43,
+      "gas:candidate-vibid:1001000289808": 67,
+      "gas:candidate-vibid:350300470496": 26,
+      "gas:candidate-vibid:1001000225954": 353,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8682,13 +8682,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 438,
-      "Гарнаев Александр Юрьевич": 115,
-      "Гладких Виктор Владимирович": 51,
-      "Нилов Ярослав Евгеньевич": 55,
-      "Пустовитовский Сергей Григорьевич": 26,
-      "Семенов Виктор Александрович": 318,
-      "Против всех": 329
+      "gas:candidate-vibid:350300470429": 438,
+      "gas:candidate-vibid:1001000195096": 115,
+      "gas:candidate-vibid:1001000190370": 51,
+      "gas:candidate-vibid:1001000289808": 55,
+      "gas:candidate-vibid:350300470496": 26,
+      "gas:candidate-vibid:1001000225954": 318,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8738,13 +8738,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 366,
-      "Гарнаев Александр Юрьевич": 127,
-      "Гладких Виктор Владимирович": 56,
-      "Нилов Ярослав Евгеньевич": 48,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 395,
-      "Против всех": 356
+      "gas:candidate-vibid:350300470429": 366,
+      "gas:candidate-vibid:1001000195096": 127,
+      "gas:candidate-vibid:1001000190370": 56,
+      "gas:candidate-vibid:1001000289808": 48,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 395,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8794,13 +8794,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 293,
-      "Гарнаев Александр Юрьевич": 101,
-      "Гладких Виктор Владимирович": 45,
-      "Нилов Ярослав Евгеньевич": 41,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 324,
-      "Против всех": 266
+      "gas:candidate-vibid:350300470429": 293,
+      "gas:candidate-vibid:1001000195096": 101,
+      "gas:candidate-vibid:1001000190370": 45,
+      "gas:candidate-vibid:1001000289808": 41,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 324,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8850,13 +8850,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 423,
-      "Гарнаев Александр Юрьевич": 198,
-      "Гладких Виктор Владимирович": 45,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 210,
-      "Против всех": 288
+      "gas:candidate-vibid:350300470429": 423,
+      "gas:candidate-vibid:1001000195096": 198,
+      "gas:candidate-vibid:1001000190370": 45,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 210,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8906,13 +8906,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 335,
-      "Гарнаев Александр Юрьевич": 212,
-      "Гладких Виктор Владимирович": 56,
-      "Нилов Ярослав Евгеньевич": 49,
-      "Пустовитовский Сергей Григорьевич": 65,
-      "Семенов Виктор Александрович": 293,
-      "Против всех": 368
+      "gas:candidate-vibid:350300470429": 335,
+      "gas:candidate-vibid:1001000195096": 212,
+      "gas:candidate-vibid:1001000190370": 56,
+      "gas:candidate-vibid:1001000289808": 49,
+      "gas:candidate-vibid:350300470496": 65,
+      "gas:candidate-vibid:1001000225954": 293,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -8962,13 +8962,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 281,
-      "Гарнаев Александр Юрьевич": 77,
-      "Гладких Виктор Владимирович": 36,
-      "Нилов Ярослав Евгеньевич": 56,
-      "Пустовитовский Сергей Григорьевич": 23,
-      "Семенов Виктор Александрович": 291,
-      "Против всех": 251
+      "gas:candidate-vibid:350300470429": 281,
+      "gas:candidate-vibid:1001000195096": 77,
+      "gas:candidate-vibid:1001000190370": 36,
+      "gas:candidate-vibid:1001000289808": 56,
+      "gas:candidate-vibid:350300470496": 23,
+      "gas:candidate-vibid:1001000225954": 291,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9018,13 +9018,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 137,
-      "Гарнаев Александр Юрьевич": 59,
-      "Гладких Виктор Владимирович": 32,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 82,
-      "Семенов Виктор Александрович": 196,
-      "Против всех": 196
+      "gas:candidate-vibid:350300470429": 137,
+      "gas:candidate-vibid:1001000195096": 59,
+      "gas:candidate-vibid:1001000190370": 32,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 82,
+      "gas:candidate-vibid:1001000225954": 196,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9074,13 +9074,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 146,
-      "Гарнаев Александр Юрьевич": 75,
-      "Гладких Виктор Владимирович": 25,
-      "Нилов Ярослав Евгеньевич": 49,
-      "Пустовитовский Сергей Григорьевич": 54,
-      "Семенов Виктор Александрович": 228,
-      "Против всех": 211
+      "gas:candidate-vibid:350300470429": 146,
+      "gas:candidate-vibid:1001000195096": 75,
+      "gas:candidate-vibid:1001000190370": 25,
+      "gas:candidate-vibid:1001000289808": 49,
+      "gas:candidate-vibid:350300470496": 54,
+      "gas:candidate-vibid:1001000225954": 228,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9130,13 +9130,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 140,
-      "Гарнаев Александр Юрьевич": 37,
-      "Гладких Виктор Владимирович": 22,
-      "Нилов Ярослав Евгеньевич": 50,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 347,
-      "Против всех": 230
+      "gas:candidate-vibid:350300470429": 140,
+      "gas:candidate-vibid:1001000195096": 37,
+      "gas:candidate-vibid:1001000190370": 22,
+      "gas:candidate-vibid:1001000289808": 50,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 347,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9186,13 +9186,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 106,
-      "Гарнаев Александр Юрьевич": 38,
-      "Гладких Виктор Владимирович": 23,
-      "Нилов Ярослав Евгеньевич": 36,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 286,
-      "Против всех": 238
+      "gas:candidate-vibid:350300470429": 106,
+      "gas:candidate-vibid:1001000195096": 38,
+      "gas:candidate-vibid:1001000190370": 23,
+      "gas:candidate-vibid:1001000289808": 36,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 286,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9242,13 +9242,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 72,
-      "Гарнаев Александр Юрьевич": 20,
-      "Гладких Виктор Владимирович": 13,
-      "Нилов Ярослав Евгеньевич": 8,
-      "Пустовитовский Сергей Григорьевич": 5,
-      "Семенов Виктор Александрович": 70,
-      "Против всех": 53
+      "gas:candidate-vibid:350300470429": 72,
+      "gas:candidate-vibid:1001000195096": 20,
+      "gas:candidate-vibid:1001000190370": 13,
+      "gas:candidate-vibid:1001000289808": 8,
+      "gas:candidate-vibid:350300470496": 5,
+      "gas:candidate-vibid:1001000225954": 70,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9298,13 +9298,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 61,
-      "Гарнаев Александр Юрьевич": 17,
-      "Гладких Виктор Владимирович": 4,
-      "Нилов Ярослав Евгеньевич": 6,
-      "Пустовитовский Сергей Григорьевич": 5,
-      "Семенов Виктор Александрович": 46,
-      "Против всех": 30
+      "gas:candidate-vibid:350300470429": 61,
+      "gas:candidate-vibid:1001000195096": 17,
+      "gas:candidate-vibid:1001000190370": 4,
+      "gas:candidate-vibid:1001000289808": 6,
+      "gas:candidate-vibid:350300470496": 5,
+      "gas:candidate-vibid:1001000225954": 46,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9354,13 +9354,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 242,
-      "Гарнаев Александр Юрьевич": 80,
-      "Гладких Виктор Владимирович": 28,
-      "Нилов Ярослав Евгеньевич": 32,
-      "Пустовитовский Сергей Григорьевич": 19,
-      "Семенов Виктор Александрович": 180,
-      "Против всех": 263
+      "gas:candidate-vibid:350300470429": 242,
+      "gas:candidate-vibid:1001000195096": 80,
+      "gas:candidate-vibid:1001000190370": 28,
+      "gas:candidate-vibid:1001000289808": 32,
+      "gas:candidate-vibid:350300470496": 19,
+      "gas:candidate-vibid:1001000225954": 180,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9410,13 +9410,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 232,
-      "Гарнаев Александр Юрьевич": 110,
-      "Гладких Виктор Владимирович": 31,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 15,
-      "Семенов Виктор Александрович": 178,
-      "Против всех": 234
+      "gas:candidate-vibid:350300470429": 232,
+      "gas:candidate-vibid:1001000195096": 110,
+      "gas:candidate-vibid:1001000190370": 31,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 15,
+      "gas:candidate-vibid:1001000225954": 178,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9466,13 +9466,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 236,
-      "Гарнаев Александр Юрьевич": 69,
-      "Гладких Виктор Владимирович": 32,
-      "Нилов Ярослав Евгеньевич": 40,
-      "Пустовитовский Сергей Григорьевич": 20,
-      "Семенов Виктор Александрович": 207,
-      "Против всех": 230
+      "gas:candidate-vibid:350300470429": 236,
+      "gas:candidate-vibid:1001000195096": 69,
+      "gas:candidate-vibid:1001000190370": 32,
+      "gas:candidate-vibid:1001000289808": 40,
+      "gas:candidate-vibid:350300470496": 20,
+      "gas:candidate-vibid:1001000225954": 207,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9522,13 +9522,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 73,
-      "Гарнаев Александр Юрьевич": 39,
-      "Гладких Виктор Владимирович": 5,
-      "Нилов Ярослав Евгеньевич": 10,
-      "Пустовитовский Сергей Григорьевич": 6,
-      "Семенов Виктор Александрович": 75,
-      "Против всех": 62
+      "gas:candidate-vibid:350300470429": 73,
+      "gas:candidate-vibid:1001000195096": 39,
+      "gas:candidate-vibid:1001000190370": 5,
+      "gas:candidate-vibid:1001000289808": 10,
+      "gas:candidate-vibid:350300470496": 6,
+      "gas:candidate-vibid:1001000225954": 75,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9578,13 +9578,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 69,
-      "Гарнаев Александр Юрьевич": 55,
-      "Гладких Виктор Владимирович": 8,
-      "Нилов Ярослав Евгеньевич": 16,
-      "Пустовитовский Сергей Григорьевич": 14,
-      "Семенов Виктор Александрович": 134,
-      "Против всех": 104
+      "gas:candidate-vibid:350300470429": 69,
+      "gas:candidate-vibid:1001000195096": 55,
+      "gas:candidate-vibid:1001000190370": 8,
+      "gas:candidate-vibid:1001000289808": 16,
+      "gas:candidate-vibid:350300470496": 14,
+      "gas:candidate-vibid:1001000225954": 134,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9634,13 +9634,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 72,
-      "Гарнаев Александр Юрьевич": 68,
-      "Гладких Виктор Владимирович": 16,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 13,
-      "Семенов Виктор Александрович": 127,
-      "Против всех": 132
+      "gas:candidate-vibid:350300470429": 72,
+      "gas:candidate-vibid:1001000195096": 68,
+      "gas:candidate-vibid:1001000190370": 16,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 13,
+      "gas:candidate-vibid:1001000225954": 127,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9690,13 +9690,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 118,
-      "Гарнаев Александр Юрьевич": 104,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 25,
-      "Пустовитовский Сергей Григорьевич": 17,
-      "Семенов Виктор Александрович": 162,
-      "Против всех": 147
+      "gas:candidate-vibid:350300470429": 118,
+      "gas:candidate-vibid:1001000195096": 104,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 25,
+      "gas:candidate-vibid:350300470496": 17,
+      "gas:candidate-vibid:1001000225954": 162,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9746,13 +9746,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 151,
-      "Гарнаев Александр Юрьевич": 193,
-      "Гладких Виктор Владимирович": 29,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 209,
-      "Против всех": 198
+      "gas:candidate-vibid:350300470429": 151,
+      "gas:candidate-vibid:1001000195096": 193,
+      "gas:candidate-vibid:1001000190370": 29,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 209,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9802,13 +9802,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 395,
-      "Гарнаев Александр Юрьевич": 212,
-      "Гладких Виктор Владимирович": 47,
-      "Нилов Ярослав Евгеньевич": 43,
-      "Пустовитовский Сергей Григорьевич": 44,
-      "Семенов Виктор Александрович": 300,
-      "Против всех": 367
+      "gas:candidate-vibid:350300470429": 395,
+      "gas:candidate-vibid:1001000195096": 212,
+      "gas:candidate-vibid:1001000190370": 47,
+      "gas:candidate-vibid:1001000289808": 43,
+      "gas:candidate-vibid:350300470496": 44,
+      "gas:candidate-vibid:1001000225954": 300,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9858,13 +9858,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 242,
-      "Гарнаев Александр Юрьевич": 133,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 47,
-      "Семенов Виктор Александрович": 220,
-      "Против всех": 210
+      "gas:candidate-vibid:350300470429": 242,
+      "gas:candidate-vibid:1001000195096": 133,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 47,
+      "gas:candidate-vibid:1001000225954": 220,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9914,13 +9914,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 199,
-      "Гарнаев Александр Юрьевич": 124,
-      "Гладких Виктор Владимирович": 34,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 46,
-      "Семенов Виктор Александрович": 231,
-      "Против всех": 242
+      "gas:candidate-vibid:350300470429": 199,
+      "gas:candidate-vibid:1001000195096": 124,
+      "gas:candidate-vibid:1001000190370": 34,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 46,
+      "gas:candidate-vibid:1001000225954": 231,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -9970,13 +9970,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 152,
-      "Гарнаев Александр Юрьевич": 118,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 10,
-      "Пустовитовский Сергей Григорьевич": 30,
-      "Семенов Виктор Александрович": 140,
-      "Против всех": 148
+      "gas:candidate-vibid:350300470429": 152,
+      "gas:candidate-vibid:1001000195096": 118,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 10,
+      "gas:candidate-vibid:350300470496": 30,
+      "gas:candidate-vibid:1001000225954": 140,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10026,13 +10026,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 200,
-      "Гарнаев Александр Юрьевич": 158,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 41,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 202,
-      "Против всех": 214
+      "gas:candidate-vibid:350300470429": 200,
+      "gas:candidate-vibid:1001000195096": 158,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 41,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 202,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10082,13 +10082,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 38,
-      "Гарнаев Александр Юрьевич": 51,
-      "Гладких Виктор Владимирович": 7,
-      "Нилов Ярослав Евгеньевич": 13,
-      "Пустовитовский Сергей Григорьевич": 18,
-      "Семенов Виктор Александрович": 103,
-      "Против всех": 72
+      "gas:candidate-vibid:350300470429": 38,
+      "gas:candidate-vibid:1001000195096": 51,
+      "gas:candidate-vibid:1001000190370": 7,
+      "gas:candidate-vibid:1001000289808": 13,
+      "gas:candidate-vibid:350300470496": 18,
+      "gas:candidate-vibid:1001000225954": 103,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10138,13 +10138,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 74,
-      "Гарнаев Александр Юрьевич": 38,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 13,
-      "Пустовитовский Сергей Григорьевич": 21,
-      "Семенов Виктор Александрович": 71,
-      "Против всех": 69
+      "gas:candidate-vibid:350300470429": 74,
+      "gas:candidate-vibid:1001000195096": 38,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 13,
+      "gas:candidate-vibid:350300470496": 21,
+      "gas:candidate-vibid:1001000225954": 71,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10194,13 +10194,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 29,
-      "Гарнаев Александр Юрьевич": 32,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 8,
-      "Пустовитовский Сергей Григорьевич": 8,
-      "Семенов Виктор Александрович": 105,
-      "Против всех": 70
+      "gas:candidate-vibid:350300470429": 29,
+      "gas:candidate-vibid:1001000195096": 32,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 8,
+      "gas:candidate-vibid:350300470496": 8,
+      "gas:candidate-vibid:1001000225954": 105,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10250,13 +10250,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 40,
-      "Гарнаев Александр Юрьевич": 34,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 13,
-      "Пустовитовский Сергей Григорьевич": 21,
-      "Семенов Виктор Александрович": 119,
-      "Против всех": 60
+      "gas:candidate-vibid:350300470429": 40,
+      "gas:candidate-vibid:1001000195096": 34,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 13,
+      "gas:candidate-vibid:350300470496": 21,
+      "gas:candidate-vibid:1001000225954": 119,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10306,13 +10306,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 22,
-      "Гарнаев Александр Юрьевич": 34,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 10,
-      "Пустовитовский Сергей Григорьевич": 12,
-      "Семенов Виктор Александрович": 74,
-      "Против всех": 48
+      "gas:candidate-vibid:350300470429": 22,
+      "gas:candidate-vibid:1001000195096": 34,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 10,
+      "gas:candidate-vibid:350300470496": 12,
+      "gas:candidate-vibid:1001000225954": 74,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10362,13 +10362,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 15,
-      "Гарнаев Александр Юрьевич": 10,
-      "Гладких Виктор Владимирович": 3,
-      "Нилов Ярослав Евгеньевич": 6,
-      "Пустовитовский Сергей Григорьевич": 8,
-      "Семенов Виктор Александрович": 53,
-      "Против всех": 38
+      "gas:candidate-vibid:350300470429": 15,
+      "gas:candidate-vibid:1001000195096": 10,
+      "gas:candidate-vibid:1001000190370": 3,
+      "gas:candidate-vibid:1001000289808": 6,
+      "gas:candidate-vibid:350300470496": 8,
+      "gas:candidate-vibid:1001000225954": 53,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10418,13 +10418,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 171,
-      "Гарнаев Александр Юрьевич": 160,
-      "Гладких Виктор Владимирович": 42,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 48,
-      "Семенов Виктор Александрович": 383,
-      "Против всех": 302
+      "gas:candidate-vibid:350300470429": 171,
+      "gas:candidate-vibid:1001000195096": 160,
+      "gas:candidate-vibid:1001000190370": 42,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 48,
+      "gas:candidate-vibid:1001000225954": 383,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10474,13 +10474,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 144,
-      "Гарнаев Александр Юрьевич": 93,
-      "Гладких Виктор Владимирович": 30,
-      "Нилов Ярослав Евгеньевич": 24,
-      "Пустовитовский Сергей Григорьевич": 16,
-      "Семенов Виктор Александрович": 151,
-      "Против всех": 139
+      "gas:candidate-vibid:350300470429": 144,
+      "gas:candidate-vibid:1001000195096": 93,
+      "gas:candidate-vibid:1001000190370": 30,
+      "gas:candidate-vibid:1001000289808": 24,
+      "gas:candidate-vibid:350300470496": 16,
+      "gas:candidate-vibid:1001000225954": 151,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10530,13 +10530,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 178,
-      "Гарнаев Александр Юрьевич": 100,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 37,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 268,
-      "Против всех": 202
+      "gas:candidate-vibid:350300470429": 178,
+      "gas:candidate-vibid:1001000195096": 100,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 37,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 268,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10586,13 +10586,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 120,
-      "Гарнаев Александр Юрьевич": 100,
-      "Гладких Виктор Владимирович": 16,
-      "Нилов Ярослав Евгеньевич": 22,
-      "Пустовитовский Сергей Григорьевич": 17,
-      "Семенов Виктор Александрович": 193,
-      "Против всех": 122
+      "gas:candidate-vibid:350300470429": 120,
+      "gas:candidate-vibid:1001000195096": 100,
+      "gas:candidate-vibid:1001000190370": 16,
+      "gas:candidate-vibid:1001000289808": 22,
+      "gas:candidate-vibid:350300470496": 17,
+      "gas:candidate-vibid:1001000225954": 193,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10642,13 +10642,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 105,
-      "Гарнаев Александр Юрьевич": 105,
-      "Гладких Виктор Владимирович": 18,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 126,
-      "Против всех": 159
+      "gas:candidate-vibid:350300470429": 105,
+      "gas:candidate-vibid:1001000195096": 105,
+      "gas:candidate-vibid:1001000190370": 18,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 126,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10698,13 +10698,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 169,
-      "Гарнаев Александр Юрьевич": 103,
-      "Гладких Виктор Владимирович": 16,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 23,
-      "Семенов Виктор Александрович": 145,
-      "Против всех": 150
+      "gas:candidate-vibid:350300470429": 169,
+      "gas:candidate-vibid:1001000195096": 103,
+      "gas:candidate-vibid:1001000190370": 16,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 23,
+      "gas:candidate-vibid:1001000225954": 145,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10754,13 +10754,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 211,
-      "Гарнаев Александр Юрьевич": 227,
-      "Гладких Виктор Владимирович": 37,
-      "Нилов Ярослав Евгеньевич": 46,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 357,
-      "Против всех": 320
+      "gas:candidate-vibid:350300470429": 211,
+      "gas:candidate-vibid:1001000195096": 227,
+      "gas:candidate-vibid:1001000190370": 37,
+      "gas:candidate-vibid:1001000289808": 46,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 357,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10810,13 +10810,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 249,
-      "Гарнаев Александр Юрьевич": 267,
-      "Гладких Виктор Владимирович": 41,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 335,
-      "Против всех": 374
+      "gas:candidate-vibid:350300470429": 249,
+      "gas:candidate-vibid:1001000195096": 267,
+      "gas:candidate-vibid:1001000190370": 41,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 335,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10866,13 +10866,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 198,
-      "Гарнаев Александр Юрьевич": 94,
-      "Гладких Виктор Владимирович": 23,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 255,
-      "Против всех": 205
+      "gas:candidate-vibid:350300470429": 198,
+      "gas:candidate-vibid:1001000195096": 94,
+      "gas:candidate-vibid:1001000190370": 23,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 255,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10922,13 +10922,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 205,
-      "Гарнаев Александр Юрьевич": 99,
-      "Гладких Виктор Владимирович": 15,
-      "Нилов Ярослав Евгеньевич": 33,
-      "Пустовитовский Сергей Григорьевич": 68,
-      "Семенов Виктор Александрович": 291,
-      "Против всех": 264
+      "gas:candidate-vibid:350300470429": 205,
+      "gas:candidate-vibid:1001000195096": 99,
+      "gas:candidate-vibid:1001000190370": 15,
+      "gas:candidate-vibid:1001000289808": 33,
+      "gas:candidate-vibid:350300470496": 68,
+      "gas:candidate-vibid:1001000225954": 291,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -10978,13 +10978,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 314,
-      "Гарнаев Александр Юрьевич": 138,
-      "Гладких Виктор Владимирович": 32,
-      "Нилов Ярослав Евгеньевич": 30,
-      "Пустовитовский Сергей Григорьевич": 84,
-      "Семенов Виктор Александрович": 305,
-      "Против всех": 343
+      "gas:candidate-vibid:350300470429": 314,
+      "gas:candidate-vibid:1001000195096": 138,
+      "gas:candidate-vibid:1001000190370": 32,
+      "gas:candidate-vibid:1001000289808": 30,
+      "gas:candidate-vibid:350300470496": 84,
+      "gas:candidate-vibid:1001000225954": 305,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -11034,13 +11034,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 204,
-      "Гарнаев Александр Юрьевич": 152,
-      "Гладких Виктор Владимирович": 27,
-      "Нилов Ярослав Евгеньевич": 25,
-      "Пустовитовский Сергей Григорьевич": 63,
-      "Семенов Виктор Александрович": 233,
-      "Против всех": 250
+      "gas:candidate-vibid:350300470429": 204,
+      "gas:candidate-vibid:1001000195096": 152,
+      "gas:candidate-vibid:1001000190370": 27,
+      "gas:candidate-vibid:1001000289808": 25,
+      "gas:candidate-vibid:350300470496": 63,
+      "gas:candidate-vibid:1001000225954": 233,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -11090,13 +11090,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 198,
-      "Гарнаев Александр Юрьевич": 109,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 46,
-      "Пустовитовский Сергей Григорьевич": 53,
-      "Семенов Виктор Александрович": 249,
-      "Против всех": 215
+      "gas:candidate-vibid:350300470429": 198,
+      "gas:candidate-vibid:1001000195096": 109,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 46,
+      "gas:candidate-vibid:350300470496": 53,
+      "gas:candidate-vibid:1001000225954": 249,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -11146,13 +11146,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 191,
-      "Гарнаев Александр Юрьевич": 262,
-      "Гладких Виктор Владимирович": 49,
-      "Нилов Ярослав Евгеньевич": 40,
-      "Пустовитовский Сергей Григорьевич": 107,
-      "Семенов Виктор Александрович": 358,
-      "Против всех": 331
+      "gas:candidate-vibid:350300470429": 191,
+      "gas:candidate-vibid:1001000195096": 262,
+      "gas:candidate-vibid:1001000190370": 49,
+      "gas:candidate-vibid:1001000289808": 40,
+      "gas:candidate-vibid:350300470496": 107,
+      "gas:candidate-vibid:1001000225954": 358,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -11202,13 +11202,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 283,
-      "Гарнаев Александр Юрьевич": 125,
-      "Гладких Виктор Владимирович": 35,
-      "Нилов Ярослав Евгеньевич": 34,
-      "Пустовитовский Сергей Григорьевич": 57,
-      "Семенов Виктор Александрович": 244,
-      "Против всех": 216
+      "gas:candidate-vibid:350300470429": 283,
+      "gas:candidate-vibid:1001000195096": 125,
+      "gas:candidate-vibid:1001000190370": 35,
+      "gas:candidate-vibid:1001000289808": 34,
+      "gas:candidate-vibid:350300470496": 57,
+      "gas:candidate-vibid:1001000225954": 244,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -11258,13 +11258,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 19,
-      "Гарнаев Александр Юрьевич": 24,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 8,
-      "Пустовитовский Сергей Григорьевич": 11,
-      "Семенов Виктор Александрович": 63,
-      "Против всех": 64
+      "gas:candidate-vibid:350300470429": 19,
+      "gas:candidate-vibid:1001000195096": 24,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 8,
+      "gas:candidate-vibid:350300470496": 11,
+      "gas:candidate-vibid:1001000225954": 63,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470816&region=0&sub_region=0&type=429",
@@ -11314,13 +11314,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 210,
-      "Гарнаев Александр Юрьевич": 98,
-      "Гладких Виктор Владимирович": 14,
-      "Нилов Ярослав Евгеньевич": 14,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 288,
-      "Против всех": 184
+      "gas:candidate-vibid:350300470429": 210,
+      "gas:candidate-vibid:1001000195096": 98,
+      "gas:candidate-vibid:1001000190370": 14,
+      "gas:candidate-vibid:1001000289808": 14,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 288,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11370,13 +11370,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 207,
-      "Гарнаев Александр Юрьевич": 140,
-      "Гладких Виктор Владимирович": 13,
-      "Нилов Ярослав Евгеньевич": 25,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 341,
-      "Против всех": 202
+      "gas:candidate-vibid:350300470429": 207,
+      "gas:candidate-vibid:1001000195096": 140,
+      "gas:candidate-vibid:1001000190370": 13,
+      "gas:candidate-vibid:1001000289808": 25,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 341,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11426,13 +11426,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 155,
-      "Гарнаев Александр Юрьевич": 125,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 21,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 250,
-      "Против всех": 147
+      "gas:candidate-vibid:350300470429": 155,
+      "gas:candidate-vibid:1001000195096": 125,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 21,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 250,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11482,13 +11482,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 200,
-      "Гарнаев Александр Юрьевич": 96,
-      "Гладких Виктор Владимирович": 7,
-      "Нилов Ярослав Евгеньевич": 12,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 249,
-      "Против всех": 185
+      "gas:candidate-vibid:350300470429": 200,
+      "gas:candidate-vibid:1001000195096": 96,
+      "gas:candidate-vibid:1001000190370": 7,
+      "gas:candidate-vibid:1001000289808": 12,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 249,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11538,13 +11538,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 158,
-      "Гарнаев Александр Юрьевич": 80,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 11,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 240,
-      "Против всех": 154
+      "gas:candidate-vibid:350300470429": 158,
+      "gas:candidate-vibid:1001000195096": 80,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 11,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 240,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11594,13 +11594,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 190,
-      "Гарнаев Александр Юрьевич": 118,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 20,
-      "Пустовитовский Сергей Григорьевич": 33,
-      "Семенов Виктор Александрович": 287,
-      "Против всех": 192
+      "gas:candidate-vibid:350300470429": 190,
+      "gas:candidate-vibid:1001000195096": 118,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 20,
+      "gas:candidate-vibid:350300470496": 33,
+      "gas:candidate-vibid:1001000225954": 287,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11650,13 +11650,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 316,
-      "Гарнаев Александр Юрьевич": 114,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 329,
-      "Против всех": 275
+      "gas:candidate-vibid:350300470429": 316,
+      "gas:candidate-vibid:1001000195096": 114,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 329,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11706,13 +11706,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 169,
-      "Гарнаев Александр Юрьевич": 51,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 14,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 260,
-      "Против всех": 146
+      "gas:candidate-vibid:350300470429": 169,
+      "gas:candidate-vibid:1001000195096": 51,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 14,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 260,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11762,13 +11762,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 241,
-      "Гарнаев Александр Юрьевич": 166,
-      "Гладких Виктор Владимирович": 23,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 40,
-      "Семенов Виктор Александрович": 460,
-      "Против всех": 315
+      "gas:candidate-vibid:350300470429": 241,
+      "gas:candidate-vibid:1001000195096": 166,
+      "gas:candidate-vibid:1001000190370": 23,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 40,
+      "gas:candidate-vibid:1001000225954": 460,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11818,13 +11818,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 228,
-      "Гарнаев Александр Юрьевич": 140,
-      "Гладких Виктор Владимирович": 18,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 327,
-      "Против всех": 261
+      "gas:candidate-vibid:350300470429": 228,
+      "gas:candidate-vibid:1001000195096": 140,
+      "gas:candidate-vibid:1001000190370": 18,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 327,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11874,13 +11874,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 214,
-      "Гарнаев Александр Юрьевич": 161,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 61,
-      "Семенов Виктор Александрович": 360,
-      "Против всех": 314
+      "gas:candidate-vibid:350300470429": 214,
+      "gas:candidate-vibid:1001000195096": 161,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 61,
+      "gas:candidate-vibid:1001000225954": 360,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11930,13 +11930,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 215,
-      "Гарнаев Александр Юрьевич": 118,
-      "Гладких Виктор Владимирович": 27,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 53,
-      "Семенов Виктор Александрович": 344,
-      "Против всех": 307
+      "gas:candidate-vibid:350300470429": 215,
+      "gas:candidate-vibid:1001000195096": 118,
+      "gas:candidate-vibid:1001000190370": 27,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 53,
+      "gas:candidate-vibid:1001000225954": 344,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -11986,13 +11986,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 155,
-      "Гарнаев Александр Юрьевич": 74,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 20,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 284,
-      "Против всех": 179
+      "gas:candidate-vibid:350300470429": 155,
+      "gas:candidate-vibid:1001000195096": 74,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 20,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 284,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12042,13 +12042,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 8,
-      "Гарнаев Александр Юрьевич": 5,
-      "Гладких Виктор Владимирович": 0,
-      "Нилов Ярослав Евгеньевич": 2,
-      "Пустовитовский Сергей Григорьевич": 3,
-      "Семенов Виктор Александрович": 15,
-      "Против всех": 25
+      "gas:candidate-vibid:350300470429": 8,
+      "gas:candidate-vibid:1001000195096": 5,
+      "gas:candidate-vibid:1001000190370": 0,
+      "gas:candidate-vibid:1001000289808": 2,
+      "gas:candidate-vibid:350300470496": 3,
+      "gas:candidate-vibid:1001000225954": 15,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12098,13 +12098,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 286,
-      "Гарнаев Александр Юрьевич": 196,
-      "Гладких Виктор Владимирович": 14,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 35,
-      "Семенов Виктор Александрович": 293,
-      "Против всех": 243
+      "gas:candidate-vibid:350300470429": 286,
+      "gas:candidate-vibid:1001000195096": 196,
+      "gas:candidate-vibid:1001000190370": 14,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 35,
+      "gas:candidate-vibid:1001000225954": 293,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12154,13 +12154,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 330,
-      "Гарнаев Александр Юрьевич": 191,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 33,
-      "Пустовитовский Сергей Григорьевич": 47,
-      "Семенов Виктор Александрович": 417,
-      "Против всех": 333
+      "gas:candidate-vibid:350300470429": 330,
+      "gas:candidate-vibid:1001000195096": 191,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 33,
+      "gas:candidate-vibid:350300470496": 47,
+      "gas:candidate-vibid:1001000225954": 417,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12210,13 +12210,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 385,
-      "Гарнаев Александр Юрьевич": 144,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 25,
-      "Пустовитовский Сергей Григорьевич": 30,
-      "Семенов Виктор Александрович": 332,
-      "Против всех": 371
+      "gas:candidate-vibid:350300470429": 385,
+      "gas:candidate-vibid:1001000195096": 144,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 25,
+      "gas:candidate-vibid:350300470496": 30,
+      "gas:candidate-vibid:1001000225954": 332,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12266,13 +12266,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 192,
-      "Гарнаев Александр Юрьевич": 144,
-      "Гладких Виктор Владимирович": 7,
-      "Нилов Ярослав Евгеньевич": 12,
-      "Пустовитовский Сергей Григорьевич": 24,
-      "Семенов Виктор Александрович": 255,
-      "Против всех": 225
+      "gas:candidate-vibid:350300470429": 192,
+      "gas:candidate-vibid:1001000195096": 144,
+      "gas:candidate-vibid:1001000190370": 7,
+      "gas:candidate-vibid:1001000289808": 12,
+      "gas:candidate-vibid:350300470496": 24,
+      "gas:candidate-vibid:1001000225954": 255,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12322,13 +12322,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 280,
-      "Гарнаев Александр Юрьевич": 161,
-      "Гладких Виктор Владимирович": 14,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 26,
-      "Семенов Виктор Александрович": 291,
-      "Против всех": 265
+      "gas:candidate-vibid:350300470429": 280,
+      "gas:candidate-vibid:1001000195096": 161,
+      "gas:candidate-vibid:1001000190370": 14,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 26,
+      "gas:candidate-vibid:1001000225954": 291,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12378,13 +12378,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 297,
-      "Гарнаев Александр Юрьевич": 167,
-      "Гладких Виктор Владимирович": 15,
-      "Нилов Ярослав Евгеньевич": 28,
-      "Пустовитовский Сергей Григорьевич": 31,
-      "Семенов Виктор Александрович": 371,
-      "Против всех": 297
+      "gas:candidate-vibid:350300470429": 297,
+      "gas:candidate-vibid:1001000195096": 167,
+      "gas:candidate-vibid:1001000190370": 15,
+      "gas:candidate-vibid:1001000289808": 28,
+      "gas:candidate-vibid:350300470496": 31,
+      "gas:candidate-vibid:1001000225954": 371,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12434,13 +12434,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 108,
-      "Гарнаев Александр Юрьевич": 82,
-      "Гладких Виктор Владимирович": 4,
-      "Нилов Ярослав Евгеньевич": 9,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 184,
-      "Против всех": 124
+      "gas:candidate-vibid:350300470429": 108,
+      "gas:candidate-vibid:1001000195096": 82,
+      "gas:candidate-vibid:1001000190370": 4,
+      "gas:candidate-vibid:1001000289808": 9,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 184,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12490,13 +12490,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 108,
-      "Гарнаев Александр Юрьевич": 80,
-      "Гладких Виктор Владимирович": 6,
-      "Нилов Ярослав Евгеньевич": 18,
-      "Пустовитовский Сергей Григорьевич": 22,
-      "Семенов Виктор Александрович": 182,
-      "Против всех": 115
+      "gas:candidate-vibid:350300470429": 108,
+      "gas:candidate-vibid:1001000195096": 80,
+      "gas:candidate-vibid:1001000190370": 6,
+      "gas:candidate-vibid:1001000289808": 18,
+      "gas:candidate-vibid:350300470496": 22,
+      "gas:candidate-vibid:1001000225954": 182,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12546,13 +12546,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 191,
-      "Гарнаев Александр Юрьевич": 151,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 51,
-      "Семенов Виктор Александрович": 332,
-      "Против всех": 255
+      "gas:candidate-vibid:350300470429": 191,
+      "gas:candidate-vibid:1001000195096": 151,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 51,
+      "gas:candidate-vibid:1001000225954": 332,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12602,13 +12602,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 281,
-      "Гарнаев Александр Юрьевич": 168,
-      "Гладких Виктор Владимирович": 20,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 39,
-      "Семенов Виктор Александрович": 323,
-      "Против всех": 320
+      "gas:candidate-vibid:350300470429": 281,
+      "gas:candidate-vibid:1001000195096": 168,
+      "gas:candidate-vibid:1001000190370": 20,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 39,
+      "gas:candidate-vibid:1001000225954": 323,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12658,13 +12658,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 250,
-      "Гарнаев Александр Юрьевич": 141,
-      "Гладких Виктор Владимирович": 12,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 30,
-      "Семенов Виктор Александрович": 256,
-      "Против всех": 225
+      "gas:candidate-vibid:350300470429": 250,
+      "gas:candidate-vibid:1001000195096": 141,
+      "gas:candidate-vibid:1001000190370": 12,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 30,
+      "gas:candidate-vibid:1001000225954": 256,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12714,13 +12714,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 299,
-      "Гарнаев Александр Юрьевич": 194,
-      "Гладких Виктор Владимирович": 16,
-      "Нилов Ярослав Евгеньевич": 35,
-      "Пустовитовский Сергей Григорьевич": 45,
-      "Семенов Виктор Александрович": 364,
-      "Против всех": 329
+      "gas:candidate-vibid:350300470429": 299,
+      "gas:candidate-vibid:1001000195096": 194,
+      "gas:candidate-vibid:1001000190370": 16,
+      "gas:candidate-vibid:1001000289808": 35,
+      "gas:candidate-vibid:350300470496": 45,
+      "gas:candidate-vibid:1001000225954": 364,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12770,13 +12770,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 167,
-      "Гарнаев Александр Юрьевич": 28,
-      "Гладких Виктор Владимирович": 6,
-      "Нилов Ярослав Евгеньевич": 7,
-      "Пустовитовский Сергей Григорьевич": 20,
-      "Семенов Виктор Александрович": 123,
-      "Против всех": 105
+      "gas:candidate-vibid:350300470429": 167,
+      "gas:candidate-vibid:1001000195096": 28,
+      "gas:candidate-vibid:1001000190370": 6,
+      "gas:candidate-vibid:1001000289808": 7,
+      "gas:candidate-vibid:350300470496": 20,
+      "gas:candidate-vibid:1001000225954": 123,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12826,13 +12826,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 312,
-      "Гарнаев Александр Юрьевич": 84,
-      "Гладких Виктор Владимирович": 9,
-      "Нилов Ярослав Евгеньевич": 32,
-      "Пустовитовский Сергей Григорьевич": 37,
-      "Семенов Виктор Александрович": 246,
-      "Против всех": 239
+      "gas:candidate-vibid:350300470429": 312,
+      "gas:candidate-vibid:1001000195096": 84,
+      "gas:candidate-vibid:1001000190370": 9,
+      "gas:candidate-vibid:1001000289808": 32,
+      "gas:candidate-vibid:350300470496": 37,
+      "gas:candidate-vibid:1001000225954": 246,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12882,13 +12882,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 246,
-      "Гарнаев Александр Юрьевич": 125,
-      "Гладких Виктор Владимирович": 15,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 43,
-      "Семенов Виктор Александрович": 251,
-      "Против всех": 238
+      "gas:candidate-vibid:350300470429": 246,
+      "gas:candidate-vibid:1001000195096": 125,
+      "gas:candidate-vibid:1001000190370": 15,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 43,
+      "gas:candidate-vibid:1001000225954": 251,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12938,13 +12938,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 264,
-      "Гарнаев Александр Юрьевич": 97,
-      "Гладких Виктор Владимирович": 13,
-      "Нилов Ярослав Евгеньевич": 20,
-      "Пустовитовский Сергей Григорьевич": 31,
-      "Семенов Виктор Александрович": 301,
-      "Против всех": 235
+      "gas:candidate-vibid:350300470429": 264,
+      "gas:candidate-vibid:1001000195096": 97,
+      "gas:candidate-vibid:1001000190370": 13,
+      "gas:candidate-vibid:1001000289808": 20,
+      "gas:candidate-vibid:350300470496": 31,
+      "gas:candidate-vibid:1001000225954": 301,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -12994,13 +12994,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 236,
-      "Гарнаев Александр Юрьевич": 132,
-      "Гладких Виктор Владимирович": 26,
-      "Нилов Ярослав Евгеньевич": 27,
-      "Пустовитовский Сергей Григорьевич": 61,
-      "Семенов Виктор Александрович": 396,
-      "Против всех": 254
+      "gas:candidate-vibid:350300470429": 236,
+      "gas:candidate-vibid:1001000195096": 132,
+      "gas:candidate-vibid:1001000190370": 26,
+      "gas:candidate-vibid:1001000289808": 27,
+      "gas:candidate-vibid:350300470496": 61,
+      "gas:candidate-vibid:1001000225954": 396,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13050,13 +13050,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 282,
-      "Гарнаев Александр Юрьевич": 89,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 32,
-      "Пустовитовский Сергей Григорьевич": 28,
-      "Семенов Виктор Александрович": 289,
-      "Против всех": 224
+      "gas:candidate-vibid:350300470429": 282,
+      "gas:candidate-vibid:1001000195096": 89,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 32,
+      "gas:candidate-vibid:350300470496": 28,
+      "gas:candidate-vibid:1001000225954": 289,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13106,13 +13106,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 198,
-      "Гарнаев Александр Юрьевич": 131,
-      "Гладких Виктор Владимирович": 26,
-      "Нилов Ярослав Евгеньевич": 38,
-      "Пустовитовский Сергей Григорьевич": 16,
-      "Семенов Виктор Александрович": 325,
-      "Против всех": 241
+      "gas:candidate-vibid:350300470429": 198,
+      "gas:candidate-vibid:1001000195096": 131,
+      "gas:candidate-vibid:1001000190370": 26,
+      "gas:candidate-vibid:1001000289808": 38,
+      "gas:candidate-vibid:350300470496": 16,
+      "gas:candidate-vibid:1001000225954": 325,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13162,13 +13162,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 194,
-      "Гарнаев Александр Юрьевич": 97,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 27,
-      "Семенов Виктор Александрович": 318,
-      "Против всех": 252
+      "gas:candidate-vibid:350300470429": 194,
+      "gas:candidate-vibid:1001000195096": 97,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 27,
+      "gas:candidate-vibid:1001000225954": 318,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13218,13 +13218,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 119,
-      "Гарнаев Александр Юрьевич": 55,
-      "Гладких Виктор Владимирович": 14,
-      "Нилов Ярослав Евгеньевич": 11,
-      "Пустовитовский Сергей Григорьевич": 15,
-      "Семенов Виктор Александрович": 208,
-      "Против всех": 118
+      "gas:candidate-vibid:350300470429": 119,
+      "gas:candidate-vibid:1001000195096": 55,
+      "gas:candidate-vibid:1001000190370": 14,
+      "gas:candidate-vibid:1001000289808": 11,
+      "gas:candidate-vibid:350300470496": 15,
+      "gas:candidate-vibid:1001000225954": 208,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13274,13 +13274,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 188,
-      "Гарнаев Александр Юрьевич": 236,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 29,
-      "Пустовитовский Сергей Григорьевич": 34,
-      "Семенов Виктор Александрович": 229,
-      "Против всех": 233
+      "gas:candidate-vibid:350300470429": 188,
+      "gas:candidate-vibid:1001000195096": 236,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 29,
+      "gas:candidate-vibid:350300470496": 34,
+      "gas:candidate-vibid:1001000225954": 229,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13330,13 +13330,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 173,
-      "Гарнаев Александр Юрьевич": 153,
-      "Гладких Виктор Владимирович": 22,
-      "Нилов Ярослав Евгеньевич": 31,
-      "Пустовитовский Сергей Григорьевич": 25,
-      "Семенов Виктор Александрович": 156,
-      "Против всех": 199
+      "gas:candidate-vibid:350300470429": 173,
+      "gas:candidate-vibid:1001000195096": 153,
+      "gas:candidate-vibid:1001000190370": 22,
+      "gas:candidate-vibid:1001000289808": 31,
+      "gas:candidate-vibid:350300470496": 25,
+      "gas:candidate-vibid:1001000225954": 156,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13386,13 +13386,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 382,
-      "Гарнаев Александр Юрьевич": 152,
-      "Гладких Виктор Владимирович": 21,
-      "Нилов Ярослав Евгеньевич": 41,
-      "Пустовитовский Сергей Григорьевич": 15,
-      "Семенов Виктор Александрович": 199,
-      "Против всех": 247
+      "gas:candidate-vibid:350300470429": 382,
+      "gas:candidate-vibid:1001000195096": 152,
+      "gas:candidate-vibid:1001000190370": 21,
+      "gas:candidate-vibid:1001000289808": 41,
+      "gas:candidate-vibid:350300470496": 15,
+      "gas:candidate-vibid:1001000225954": 199,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13442,13 +13442,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 289,
-      "Гарнаев Александр Юрьевич": 104,
-      "Гладких Виктор Владимирович": 24,
-      "Нилов Ярослав Евгеньевич": 18,
-      "Пустовитовский Сергей Григорьевич": 29,
-      "Семенов Виктор Александрович": 154,
-      "Против всех": 218
+      "gas:candidate-vibid:350300470429": 289,
+      "gas:candidate-vibid:1001000195096": 104,
+      "gas:candidate-vibid:1001000190370": 24,
+      "gas:candidate-vibid:1001000289808": 18,
+      "gas:candidate-vibid:350300470496": 29,
+      "gas:candidate-vibid:1001000225954": 154,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13498,13 +13498,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 119,
-      "Гарнаев Александр Юрьевич": 60,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 12,
-      "Пустовитовский Сергей Григорьевич": 8,
-      "Семенов Виктор Александрович": 95,
-      "Против всех": 100
+      "gas:candidate-vibid:350300470429": 119,
+      "gas:candidate-vibid:1001000195096": 60,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 12,
+      "gas:candidate-vibid:350300470496": 8,
+      "gas:candidate-vibid:1001000225954": 95,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13554,13 +13554,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 173,
-      "Гарнаев Александр Юрьевич": 152,
-      "Гладких Виктор Владимирович": 17,
-      "Нилов Ярослав Евгеньевич": 19,
-      "Пустовитовский Сергей Григорьевич": 9,
-      "Семенов Виктор Александрович": 175,
-      "Против всех": 163
+      "gas:candidate-vibid:350300470429": 173,
+      "gas:candidate-vibid:1001000195096": 152,
+      "gas:candidate-vibid:1001000190370": 17,
+      "gas:candidate-vibid:1001000289808": 19,
+      "gas:candidate-vibid:350300470496": 9,
+      "gas:candidate-vibid:1001000225954": 175,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13610,13 +13610,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 174,
-      "Гарнаев Александр Юрьевич": 86,
-      "Гладких Виктор Владимирович": 11,
-      "Нилов Ярослав Евгеньевич": 20,
-      "Пустовитовский Сергей Григорьевич": 9,
-      "Семенов Виктор Александрович": 114,
-      "Против всех": 129
+      "gas:candidate-vibid:350300470429": 174,
+      "gas:candidate-vibid:1001000195096": 86,
+      "gas:candidate-vibid:1001000190370": 11,
+      "gas:candidate-vibid:1001000289808": 20,
+      "gas:candidate-vibid:350300470496": 9,
+      "gas:candidate-vibid:1001000225954": 114,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13666,13 +13666,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 421,
-      "Гарнаев Александр Юрьевич": 215,
-      "Гладких Виктор Владимирович": 19,
-      "Нилов Ярослав Евгеньевич": 23,
-      "Пустовитовский Сергей Григорьевич": 36,
-      "Семенов Виктор Александрович": 175,
-      "Против всех": 309
+      "gas:candidate-vibid:350300470429": 421,
+      "gas:candidate-vibid:1001000195096": 215,
+      "gas:candidate-vibid:1001000190370": 19,
+      "gas:candidate-vibid:1001000289808": 23,
+      "gas:candidate-vibid:350300470496": 36,
+      "gas:candidate-vibid:1001000225954": 175,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13722,13 +13722,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 115,
-      "Гарнаев Александр Юрьевич": 79,
-      "Гладких Виктор Владимирович": 6,
-      "Нилов Ярослав Евгеньевич": 17,
-      "Пустовитовский Сергей Григорьевич": 8,
-      "Семенов Виктор Александрович": 93,
-      "Против всех": 117
+      "gas:candidate-vibid:350300470429": 115,
+      "gas:candidate-vibid:1001000195096": 79,
+      "gas:candidate-vibid:1001000190370": 6,
+      "gas:candidate-vibid:1001000289808": 17,
+      "gas:candidate-vibid:350300470496": 8,
+      "gas:candidate-vibid:1001000225954": 93,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13778,13 +13778,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 177,
-      "Гарнаев Александр Юрьевич": 93,
-      "Гладких Виктор Владимирович": 8,
-      "Нилов Ярослав Евгеньевич": 13,
-      "Пустовитовский Сергей Григорьевич": 12,
-      "Семенов Виктор Александрович": 69,
-      "Против всех": 93
+      "gas:candidate-vibid:350300470429": 177,
+      "gas:candidate-vibid:1001000195096": 93,
+      "gas:candidate-vibid:1001000190370": 8,
+      "gas:candidate-vibid:1001000289808": 13,
+      "gas:candidate-vibid:350300470496": 12,
+      "gas:candidate-vibid:1001000225954": 69,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13834,13 +13834,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 99,
-      "Гарнаев Александр Юрьевич": 66,
-      "Гладких Виктор Владимирович": 13,
-      "Нилов Ярослав Евгеньевич": 9,
-      "Пустовитовский Сергей Григорьевич": 4,
-      "Семенов Виктор Александрович": 45,
-      "Против всех": 74
+      "gas:candidate-vibid:350300470429": 99,
+      "gas:candidate-vibid:1001000195096": 66,
+      "gas:candidate-vibid:1001000190370": 13,
+      "gas:candidate-vibid:1001000289808": 9,
+      "gas:candidate-vibid:350300470496": 4,
+      "gas:candidate-vibid:1001000225954": 45,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13890,13 +13890,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 95,
-      "Гарнаев Александр Юрьевич": 165,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 24,
-      "Семенов Виктор Александрович": 132,
-      "Против всех": 148
+      "gas:candidate-vibid:350300470429": 95,
+      "gas:candidate-vibid:1001000195096": 165,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 24,
+      "gas:candidate-vibid:1001000225954": 132,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -13946,13 +13946,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 114,
-      "Гарнаев Александр Юрьевич": 35,
-      "Гладких Виктор Владимирович": 10,
-      "Нилов Ярослав Евгеньевич": 16,
-      "Пустовитовский Сергей Григорьевич": 15,
-      "Семенов Виктор Александрович": 122,
-      "Против всех": 113
+      "gas:candidate-vibid:350300470429": 114,
+      "gas:candidate-vibid:1001000195096": 35,
+      "gas:candidate-vibid:1001000190370": 10,
+      "gas:candidate-vibid:1001000289808": 16,
+      "gas:candidate-vibid:350300470496": 15,
+      "gas:candidate-vibid:1001000225954": 122,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -14002,13 +14002,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 302,
-      "Гарнаев Александр Юрьевич": 239,
-      "Гладких Виктор Владимирович": 30,
-      "Нилов Ярослав Евгеньевич": 26,
-      "Пустовитовский Сергей Григорьевич": 23,
-      "Семенов Виктор Александрович": 166,
-      "Против всех": 282
+      "gas:candidate-vibid:350300470429": 302,
+      "gas:candidate-vibid:1001000195096": 239,
+      "gas:candidate-vibid:1001000190370": 30,
+      "gas:candidate-vibid:1001000289808": 26,
+      "gas:candidate-vibid:350300470496": 23,
+      "gas:candidate-vibid:1001000225954": 166,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",
@@ -14058,13 +14058,13 @@ export const duma_2003_uik_428_region_50_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Тимур Владимирович": 178,
-      "Гарнаев Александр Юрьевич": 317,
-      "Гладких Виктор Владимирович": 23,
-      "Нилов Ярослав Евгеньевич": 36,
-      "Пустовитовский Сергей Григорьевич": 29,
-      "Семенов Виктор Александрович": 317,
-      "Против всех": 303
+      "gas:candidate-vibid:350300470429": 178,
+      "gas:candidate-vibid:1001000195096": 317,
+      "gas:candidate-vibid:1001000190370": 23,
+      "gas:candidate-vibid:1001000289808": 36,
+      "gas:candidate-vibid:350300470496": 29,
+      "gas:candidate-vibid:1001000225954": 317,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300470817&region=0&sub_region=0&type=429",

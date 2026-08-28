@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 20,
-      "Коломейцев Николай Васильевич": 170,
-      "Степанова Зоя Михайловна": 204,
-      "Щербаков Владимир Владимирович": 73,
-      "Против всех": 107
+      "gas:candidate-vibid:361300470657": 20,
+      "gas:candidate-vibid:1001000121896": 170,
+      "gas:candidate-vibid:361300470446": 204,
+      "gas:candidate-vibid:361300470603": 73,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 26,
-      "Коломейцев Николай Васильевич": 268,
-      "Степанова Зоя Михайловна": 243,
-      "Щербаков Владимир Владимирович": 164,
-      "Против всех": 154
+      "gas:candidate-vibid:361300470657": 26,
+      "gas:candidate-vibid:1001000121896": 268,
+      "gas:candidate-vibid:361300470446": 243,
+      "gas:candidate-vibid:361300470603": 164,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 27,
-      "Коломейцев Николай Васильевич": 295,
-      "Степанова Зоя Михайловна": 207,
-      "Щербаков Владимир Владимирович": 151,
-      "Против всех": 134
+      "gas:candidate-vibid:361300470657": 27,
+      "gas:candidate-vibid:1001000121896": 295,
+      "gas:candidate-vibid:361300470446": 207,
+      "gas:candidate-vibid:361300470603": 151,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 19,
-      "Коломейцев Николай Васильевич": 234,
-      "Степанова Зоя Михайловна": 217,
-      "Щербаков Владимир Владимирович": 115,
-      "Против всех": 97
+      "gas:candidate-vibid:361300470657": 19,
+      "gas:candidate-vibid:1001000121896": 234,
+      "gas:candidate-vibid:361300470446": 217,
+      "gas:candidate-vibid:361300470603": 115,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 38,
-      "Коломейцев Николай Васильевич": 440,
-      "Степанова Зоя Михайловна": 233,
-      "Щербаков Владимир Владимирович": 256,
-      "Против всех": 240
+      "gas:candidate-vibid:361300470657": 38,
+      "gas:candidate-vibid:1001000121896": 440,
+      "gas:candidate-vibid:361300470446": 233,
+      "gas:candidate-vibid:361300470603": 256,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 16,
-      "Коломейцев Николай Васильевич": 293,
-      "Степанова Зоя Михайловна": 238,
-      "Щербаков Владимир Владимирович": 319,
-      "Против всех": 145
+      "gas:candidate-vibid:361300470657": 16,
+      "gas:candidate-vibid:1001000121896": 293,
+      "gas:candidate-vibid:361300470446": 238,
+      "gas:candidate-vibid:361300470603": 319,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 43,
-      "Коломейцев Николай Васильевич": 353,
-      "Степанова Зоя Михайловна": 403,
-      "Щербаков Владимир Владимирович": 232,
-      "Против всех": 233
+      "gas:candidate-vibid:361300470657": 43,
+      "gas:candidate-vibid:1001000121896": 353,
+      "gas:candidate-vibid:361300470446": 403,
+      "gas:candidate-vibid:361300470603": 232,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 26,
-      "Коломейцев Николай Васильевич": 259,
-      "Степанова Зоя Михайловна": 297,
-      "Щербаков Владимир Владимирович": 286,
-      "Против всех": 146
+      "gas:candidate-vibid:361300470657": 26,
+      "gas:candidate-vibid:1001000121896": 259,
+      "gas:candidate-vibid:361300470446": 297,
+      "gas:candidate-vibid:361300470603": 286,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 42,
-      "Коломейцев Николай Васильевич": 342,
-      "Степанова Зоя Михайловна": 340,
-      "Щербаков Владимир Владимирович": 273,
-      "Против всех": 175
+      "gas:candidate-vibid:361300470657": 42,
+      "gas:candidate-vibid:1001000121896": 342,
+      "gas:candidate-vibid:361300470446": 340,
+      "gas:candidate-vibid:361300470603": 273,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 27,
-      "Коломейцев Николай Васильевич": 298,
-      "Степанова Зоя Михайловна": 251,
-      "Щербаков Владимир Владимирович": 274,
-      "Против всех": 163
+      "gas:candidate-vibid:361300470657": 27,
+      "gas:candidate-vibid:1001000121896": 298,
+      "gas:candidate-vibid:361300470446": 251,
+      "gas:candidate-vibid:361300470603": 274,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 39,
-      "Коломейцев Николай Васильевич": 371,
-      "Степанова Зоя Михайловна": 257,
-      "Щербаков Владимир Владимирович": 389,
-      "Против всех": 152
+      "gas:candidate-vibid:361300470657": 39,
+      "gas:candidate-vibid:1001000121896": 371,
+      "gas:candidate-vibid:361300470446": 257,
+      "gas:candidate-vibid:361300470603": 389,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 29,
-      "Коломейцев Николай Васильевич": 392,
-      "Степанова Зоя Михайловна": 218,
-      "Щербаков Владимир Владимирович": 317,
-      "Против всех": 191
+      "gas:candidate-vibid:361300470657": 29,
+      "gas:candidate-vibid:1001000121896": 392,
+      "gas:candidate-vibid:361300470446": 218,
+      "gas:candidate-vibid:361300470603": 317,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 43,
-      "Коломейцев Николай Васильевич": 307,
-      "Степанова Зоя Михайловна": 267,
-      "Щербаков Владимир Владимирович": 224,
-      "Против всех": 169
+      "gas:candidate-vibid:361300470657": 43,
+      "gas:candidate-vibid:1001000121896": 307,
+      "gas:candidate-vibid:361300470446": 267,
+      "gas:candidate-vibid:361300470603": 224,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 34,
-      "Коломейцев Николай Васильевич": 352,
-      "Степанова Зоя Михайловна": 353,
-      "Щербаков Владимир Владимирович": 220,
-      "Против всех": 171
+      "gas:candidate-vibid:361300470657": 34,
+      "gas:candidate-vibid:1001000121896": 352,
+      "gas:candidate-vibid:361300470446": 353,
+      "gas:candidate-vibid:361300470603": 220,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 25,
-      "Коломейцев Николай Васильевич": 426,
-      "Степанова Зоя Михайловна": 302,
-      "Щербаков Владимир Владимирович": 225,
-      "Против всех": 151
+      "gas:candidate-vibid:361300470657": 25,
+      "gas:candidate-vibid:1001000121896": 426,
+      "gas:candidate-vibid:361300470446": 302,
+      "gas:candidate-vibid:361300470603": 225,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 32,
-      "Коломейцев Николай Васильевич": 484,
-      "Степанова Зоя Михайловна": 261,
-      "Щербаков Владимир Владимирович": 285,
-      "Против всех": 172
+      "gas:candidate-vibid:361300470657": 32,
+      "gas:candidate-vibid:1001000121896": 484,
+      "gas:candidate-vibid:361300470446": 261,
+      "gas:candidate-vibid:361300470603": 285,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 37,
-      "Коломейцев Николай Васильевич": 360,
-      "Степанова Зоя Михайловна": 397,
-      "Щербаков Владимир Владимирович": 132,
-      "Против всех": 152
+      "gas:candidate-vibid:361300470657": 37,
+      "gas:candidate-vibid:1001000121896": 360,
+      "gas:candidate-vibid:361300470446": 397,
+      "gas:candidate-vibid:361300470603": 132,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 29,
-      "Коломейцев Николай Васильевич": 378,
-      "Степанова Зоя Михайловна": 361,
-      "Щербаков Владимир Владимирович": 201,
-      "Против всех": 147
+      "gas:candidate-vibid:361300470657": 29,
+      "gas:candidate-vibid:1001000121896": 378,
+      "gas:candidate-vibid:361300470446": 361,
+      "gas:candidate-vibid:361300470603": 201,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 38,
-      "Коломейцев Николай Васильевич": 380,
-      "Степанова Зоя Михайловна": 560,
-      "Щербаков Владимир Владимирович": 155,
-      "Против всех": 133
+      "gas:candidate-vibid:361300470657": 38,
+      "gas:candidate-vibid:1001000121896": 380,
+      "gas:candidate-vibid:361300470446": 560,
+      "gas:candidate-vibid:361300470603": 155,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 39,
-      "Коломейцев Николай Васильевич": 413,
-      "Степанова Зоя Михайловна": 421,
-      "Щербаков Владимир Владимирович": 259,
-      "Против всех": 190
+      "gas:candidate-vibid:361300470657": 39,
+      "gas:candidate-vibid:1001000121896": 413,
+      "gas:candidate-vibid:361300470446": 421,
+      "gas:candidate-vibid:361300470603": 259,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 35,
-      "Коломейцев Николай Васильевич": 491,
-      "Степанова Зоя Михайловна": 391,
-      "Щербаков Владимир Владимирович": 364,
-      "Против всех": 115
+      "gas:candidate-vibid:361300470657": 35,
+      "gas:candidate-vibid:1001000121896": 491,
+      "gas:candidate-vibid:361300470446": 391,
+      "gas:candidate-vibid:361300470603": 364,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 41,
-      "Коломейцев Николай Васильевич": 429,
-      "Степанова Зоя Михайловна": 373,
-      "Щербаков Владимир Владимирович": 312,
-      "Против всех": 206
+      "gas:candidate-vibid:361300470657": 41,
+      "gas:candidate-vibid:1001000121896": 429,
+      "gas:candidate-vibid:361300470446": 373,
+      "gas:candidate-vibid:361300470603": 312,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 21,
-      "Коломейцев Николай Васильевич": 304,
-      "Степанова Зоя Михайловна": 327,
-      "Щербаков Владимир Владимирович": 281,
-      "Против всех": 179
+      "gas:candidate-vibid:361300470657": 21,
+      "gas:candidate-vibid:1001000121896": 304,
+      "gas:candidate-vibid:361300470446": 327,
+      "gas:candidate-vibid:361300470603": 281,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 49,
-      "Коломейцев Николай Васильевич": 436,
-      "Степанова Зоя Михайловна": 363,
-      "Щербаков Владимир Владимирович": 421,
-      "Против всех": 265
+      "gas:candidate-vibid:361300470657": 49,
+      "gas:candidate-vibid:1001000121896": 436,
+      "gas:candidate-vibid:361300470446": 363,
+      "gas:candidate-vibid:361300470603": 421,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 50,
-      "Коломейцев Николай Васильевич": 482,
-      "Степанова Зоя Михайловна": 495,
-      "Щербаков Владимир Владимирович": 378,
-      "Против всех": 200
+      "gas:candidate-vibid:361300470657": 50,
+      "gas:candidate-vibid:1001000121896": 482,
+      "gas:candidate-vibid:361300470446": 495,
+      "gas:candidate-vibid:361300470603": 378,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 36,
-      "Коломейцев Николай Васильевич": 440,
-      "Степанова Зоя Михайловна": 517,
-      "Щербаков Владимир Владимирович": 424,
-      "Против всех": 262
+      "gas:candidate-vibid:361300470657": 36,
+      "gas:candidate-vibid:1001000121896": 440,
+      "gas:candidate-vibid:361300470446": 517,
+      "gas:candidate-vibid:361300470603": 424,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 47,
-      "Коломейцев Николай Васильевич": 382,
-      "Степанова Зоя Михайловна": 280,
-      "Щербаков Владимир Владимирович": 349,
-      "Против всех": 202
+      "gas:candidate-vibid:361300470657": 47,
+      "gas:candidate-vibid:1001000121896": 382,
+      "gas:candidate-vibid:361300470446": 280,
+      "gas:candidate-vibid:361300470603": 349,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 48,
-      "Коломейцев Николай Васильевич": 398,
-      "Степанова Зоя Михайловна": 343,
-      "Щербаков Владимир Владимирович": 359,
-      "Против всех": 221
+      "gas:candidate-vibid:361300470657": 48,
+      "gas:candidate-vibid:1001000121896": 398,
+      "gas:candidate-vibid:361300470446": 343,
+      "gas:candidate-vibid:361300470603": 359,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 32,
-      "Коломейцев Николай Васильевич": 350,
-      "Степанова Зоя Михайловна": 275,
-      "Щербаков Владимир Владимирович": 438,
-      "Против всех": 197
+      "gas:candidate-vibid:361300470657": 32,
+      "gas:candidate-vibid:1001000121896": 350,
+      "gas:candidate-vibid:361300470446": 275,
+      "gas:candidate-vibid:361300470603": 438,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 33,
-      "Коломейцев Николай Васильевич": 369,
-      "Степанова Зоя Михайловна": 319,
-      "Щербаков Владимир Владимирович": 416,
-      "Против всех": 199
+      "gas:candidate-vibid:361300470657": 33,
+      "gas:candidate-vibid:1001000121896": 369,
+      "gas:candidate-vibid:361300470446": 319,
+      "gas:candidate-vibid:361300470603": 416,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 28,
-      "Коломейцев Николай Васильевич": 345,
-      "Степанова Зоя Михайловна": 248,
-      "Щербаков Владимир Владимирович": 511,
-      "Против всех": 152
+      "gas:candidate-vibid:361300470657": 28,
+      "gas:candidate-vibid:1001000121896": 345,
+      "gas:candidate-vibid:361300470446": 248,
+      "gas:candidate-vibid:361300470603": 511,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 260,
-      "Степанова Зоя Михайловна": 241,
-      "Щербаков Владимир Владимирович": 366,
-      "Против всех": 168
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 260,
+      "gas:candidate-vibid:361300470446": 241,
+      "gas:candidate-vibid:361300470603": 366,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 40,
-      "Коломейцев Николай Васильевич": 383,
-      "Степанова Зоя Михайловна": 269,
-      "Щербаков Владимир Владимирович": 433,
-      "Против всех": 187
+      "gas:candidate-vibid:361300470657": 40,
+      "gas:candidate-vibid:1001000121896": 383,
+      "gas:candidate-vibid:361300470446": 269,
+      "gas:candidate-vibid:361300470603": 433,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 32,
-      "Коломейцев Николай Васильевич": 421,
-      "Степанова Зоя Михайловна": 415,
-      "Щербаков Владимир Владимирович": 519,
-      "Против всех": 143
+      "gas:candidate-vibid:361300470657": 32,
+      "gas:candidate-vibid:1001000121896": 421,
+      "gas:candidate-vibid:361300470446": 415,
+      "gas:candidate-vibid:361300470603": 519,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 37,
-      "Коломейцев Николай Васильевич": 280,
-      "Степанова Зоя Михайловна": 240,
-      "Щербаков Владимир Владимирович": 401,
-      "Против всех": 189
+      "gas:candidate-vibid:361300470657": 37,
+      "gas:candidate-vibid:1001000121896": 280,
+      "gas:candidate-vibid:361300470446": 240,
+      "gas:candidate-vibid:361300470603": 401,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 23,
-      "Коломейцев Николай Васильевич": 333,
-      "Степанова Зоя Михайловна": 471,
-      "Щербаков Владимир Владимирович": 455,
-      "Против всех": 74
+      "gas:candidate-vibid:361300470657": 23,
+      "gas:candidate-vibid:1001000121896": 333,
+      "gas:candidate-vibid:361300470446": 471,
+      "gas:candidate-vibid:361300470603": 455,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 44,
-      "Коломейцев Николай Васильевич": 270,
-      "Степанова Зоя Михайловна": 274,
-      "Щербаков Владимир Владимирович": 351,
-      "Против всех": 170
+      "gas:candidate-vibid:361300470657": 44,
+      "gas:candidate-vibid:1001000121896": 270,
+      "gas:candidate-vibid:361300470446": 274,
+      "gas:candidate-vibid:361300470603": 351,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 44,
-      "Коломейцев Николай Васильевич": 312,
-      "Степанова Зоя Михайловна": 422,
-      "Щербаков Владимир Владимирович": 342,
-      "Против всех": 193
+      "gas:candidate-vibid:361300470657": 44,
+      "gas:candidate-vibid:1001000121896": 312,
+      "gas:candidate-vibid:361300470446": 422,
+      "gas:candidate-vibid:361300470603": 342,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 28,
-      "Коломейцев Николай Васильевич": 300,
-      "Степанова Зоя Михайловна": 247,
-      "Щербаков Владимир Владимирович": 500,
-      "Против всех": 136
+      "gas:candidate-vibid:361300470657": 28,
+      "gas:candidate-vibid:1001000121896": 300,
+      "gas:candidate-vibid:361300470446": 247,
+      "gas:candidate-vibid:361300470603": 500,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 281,
-      "Степанова Зоя Михайловна": 266,
-      "Щербаков Владимир Владимирович": 475,
-      "Против всех": 154
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 281,
+      "gas:candidate-vibid:361300470446": 266,
+      "gas:candidate-vibid:361300470603": 475,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 27,
-      "Коломейцев Николай Васильевич": 281,
-      "Степанова Зоя Михайловна": 218,
-      "Щербаков Владимир Владимирович": 460,
-      "Против всех": 161
+      "gas:candidate-vibid:361300470657": 27,
+      "gas:candidate-vibid:1001000121896": 281,
+      "gas:candidate-vibid:361300470446": 218,
+      "gas:candidate-vibid:361300470603": 460,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 30,
-      "Коломейцев Николай Васильевич": 285,
-      "Степанова Зоя Михайловна": 283,
-      "Щербаков Владимир Владимирович": 376,
-      "Против всех": 155
+      "gas:candidate-vibid:361300470657": 30,
+      "gas:candidate-vibid:1001000121896": 285,
+      "gas:candidate-vibid:361300470446": 283,
+      "gas:candidate-vibid:361300470603": 376,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 26,
-      "Коломейцев Николай Васильевич": 265,
-      "Степанова Зоя Михайловна": 226,
-      "Щербаков Владимир Владимирович": 389,
-      "Против всех": 169
+      "gas:candidate-vibid:361300470657": 26,
+      "gas:candidate-vibid:1001000121896": 265,
+      "gas:candidate-vibid:361300470446": 226,
+      "gas:candidate-vibid:361300470603": 389,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 23,
-      "Коломейцев Николай Васильевич": 295,
-      "Степанова Зоя Михайловна": 271,
-      "Щербаков Владимир Владимирович": 182,
-      "Против всех": 184
+      "gas:candidate-vibid:361300470657": 23,
+      "gas:candidate-vibid:1001000121896": 295,
+      "gas:candidate-vibid:361300470446": 271,
+      "gas:candidate-vibid:361300470603": 182,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 36,
-      "Коломейцев Николай Васильевич": 493,
-      "Степанова Зоя Михайловна": 312,
-      "Щербаков Владимир Владимирович": 287,
-      "Против всех": 70
+      "gas:candidate-vibid:361300470657": 36,
+      "gas:candidate-vibid:1001000121896": 493,
+      "gas:candidate-vibid:361300470446": 312,
+      "gas:candidate-vibid:361300470603": 287,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 35,
-      "Коломейцев Николай Васильевич": 241,
-      "Степанова Зоя Михайловна": 433,
-      "Щербаков Владимир Владимирович": 347,
-      "Против всех": 118
+      "gas:candidate-vibid:361300470657": 35,
+      "gas:candidate-vibid:1001000121896": 241,
+      "gas:candidate-vibid:361300470446": 433,
+      "gas:candidate-vibid:361300470603": 347,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 49,
-      "Коломейцев Николай Васильевич": 465,
-      "Степанова Зоя Михайловна": 250,
-      "Щербаков Владимир Владимирович": 349,
-      "Против всех": 227
+      "gas:candidate-vibid:361300470657": 49,
+      "gas:candidate-vibid:1001000121896": 465,
+      "gas:candidate-vibid:361300470446": 250,
+      "gas:candidate-vibid:361300470603": 349,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 439,
-      "Степанова Зоя Михайловна": 280,
-      "Щербаков Владимир Владимирович": 390,
-      "Против всех": 259
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 439,
+      "gas:candidate-vibid:361300470446": 280,
+      "gas:candidate-vibid:361300470603": 390,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 34,
-      "Коломейцев Николай Васильевич": 258,
-      "Степанова Зоя Михайловна": 234,
-      "Щербаков Владимир Владимирович": 232,
-      "Против всех": 220
+      "gas:candidate-vibid:361300470657": 34,
+      "gas:candidate-vibid:1001000121896": 258,
+      "gas:candidate-vibid:361300470446": 234,
+      "gas:candidate-vibid:361300470603": 232,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 26,
-      "Коломейцев Николай Васильевич": 273,
-      "Степанова Зоя Михайловна": 198,
-      "Щербаков Владимир Владимирович": 359,
-      "Против всех": 97
+      "gas:candidate-vibid:361300470657": 26,
+      "gas:candidate-vibid:1001000121896": 273,
+      "gas:candidate-vibid:361300470446": 198,
+      "gas:candidate-vibid:361300470603": 359,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 44,
-      "Коломейцев Николай Васильевич": 317,
-      "Степанова Зоя Михайловна": 593,
-      "Щербаков Владимир Владимирович": 286,
-      "Против всех": 219
+      "gas:candidate-vibid:361300470657": 44,
+      "gas:candidate-vibid:1001000121896": 317,
+      "gas:candidate-vibid:361300470446": 593,
+      "gas:candidate-vibid:361300470603": 286,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 34,
-      "Коломейцев Николай Васильевич": 218,
-      "Степанова Зоя Михайловна": 336,
-      "Щербаков Владимир Владимирович": 173,
-      "Против всех": 133
+      "gas:candidate-vibid:361300470657": 34,
+      "gas:candidate-vibid:1001000121896": 218,
+      "gas:candidate-vibid:361300470446": 336,
+      "gas:candidate-vibid:361300470603": 173,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 80,
-      "Коломейцев Николай Васильевич": 439,
-      "Степанова Зоя Михайловна": 668,
-      "Щербаков Владимир Владимирович": 331,
-      "Против всех": 240
+      "gas:candidate-vibid:361300470657": 80,
+      "gas:candidate-vibid:1001000121896": 439,
+      "gas:candidate-vibid:361300470446": 668,
+      "gas:candidate-vibid:361300470603": 331,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 31,
-      "Коломейцев Николай Васильевич": 278,
-      "Степанова Зоя Михайловна": 192,
-      "Щербаков Владимир Владимирович": 285,
-      "Против всех": 162
+      "gas:candidate-vibid:361300470657": 31,
+      "gas:candidate-vibid:1001000121896": 278,
+      "gas:candidate-vibid:361300470446": 192,
+      "gas:candidate-vibid:361300470603": 285,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 21,
-      "Коломейцев Николай Васильевич": 281,
-      "Степанова Зоя Михайловна": 168,
-      "Щербаков Владимир Владимирович": 391,
-      "Против всех": 89
+      "gas:candidate-vibid:361300470657": 21,
+      "gas:candidate-vibid:1001000121896": 281,
+      "gas:candidate-vibid:361300470446": 168,
+      "gas:candidate-vibid:361300470603": 391,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 14,
-      "Коломейцев Николай Васильевич": 87,
-      "Степанова Зоя Михайловна": 157,
-      "Щербаков Владимир Владимирович": 38,
-      "Против всех": 37
+      "gas:candidate-vibid:361300470657": 14,
+      "gas:candidate-vibid:1001000121896": 87,
+      "gas:candidate-vibid:361300470446": 157,
+      "gas:candidate-vibid:361300470603": 38,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 8,
-      "Коломейцев Николай Васильевич": 55,
-      "Степанова Зоя Михайловна": 421,
-      "Щербаков Владимир Владимирович": 78,
-      "Против всех": 66
+      "gas:candidate-vibid:361300470657": 8,
+      "gas:candidate-vibid:1001000121896": 55,
+      "gas:candidate-vibid:361300470446": 421,
+      "gas:candidate-vibid:361300470603": 78,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 28,
-      "Коломейцев Николай Васильевич": 265,
-      "Степанова Зоя Михайловна": 336,
-      "Щербаков Владимир Владимирович": 472,
-      "Против всех": 200
+      "gas:candidate-vibid:361300470657": 28,
+      "gas:candidate-vibid:1001000121896": 265,
+      "gas:candidate-vibid:361300470446": 336,
+      "gas:candidate-vibid:361300470603": 472,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 30,
-      "Коломейцев Николай Васильевич": 311,
-      "Степанова Зоя Михайловна": 252,
-      "Щербаков Владимир Владимирович": 506,
-      "Против всех": 152
+      "gas:candidate-vibid:361300470657": 30,
+      "gas:candidate-vibid:1001000121896": 311,
+      "gas:candidate-vibid:361300470446": 252,
+      "gas:candidate-vibid:361300470603": 506,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 39,
-      "Коломейцев Николай Васильевич": 332,
-      "Степанова Зоя Михайловна": 337,
-      "Щербаков Владимир Владимирович": 449,
-      "Против всех": 183
+      "gas:candidate-vibid:361300470657": 39,
+      "gas:candidate-vibid:1001000121896": 332,
+      "gas:candidate-vibid:361300470446": 337,
+      "gas:candidate-vibid:361300470603": 449,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 25,
-      "Коломейцев Николай Васильевич": 216,
-      "Степанова Зоя Михайловна": 168,
-      "Щербаков Владимир Владимирович": 183,
-      "Против всех": 137
+      "gas:candidate-vibid:361300470657": 25,
+      "gas:candidate-vibid:1001000121896": 216,
+      "gas:candidate-vibid:361300470446": 168,
+      "gas:candidate-vibid:361300470603": 183,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 58,
-      "Коломейцев Николай Васильевич": 452,
-      "Степанова Зоя Михайловна": 1566,
-      "Щербаков Владимир Владимирович": 183,
-      "Против всех": 232
+      "gas:candidate-vibid:361300470657": 58,
+      "gas:candidate-vibid:1001000121896": 452,
+      "gas:candidate-vibid:361300470446": 1566,
+      "gas:candidate-vibid:361300470603": 183,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 343,
-      "Степанова Зоя Михайловна": 157,
-      "Щербаков Владимир Владимирович": 339,
-      "Против всех": 177
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 343,
+      "gas:candidate-vibid:361300470446": 157,
+      "gas:candidate-vibid:361300470603": 339,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 28,
-      "Коломейцев Николай Васильевич": 382,
-      "Степанова Зоя Михайловна": 440,
-      "Щербаков Владимир Владимирович": 405,
-      "Против всех": 189
+      "gas:candidate-vibid:361300470657": 28,
+      "gas:candidate-vibid:1001000121896": 382,
+      "gas:candidate-vibid:361300470446": 440,
+      "gas:candidate-vibid:361300470603": 405,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470434&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 26,
-      "Коломейцев Николай Васильевич": 380,
-      "Степанова Зоя Михайловна": 215,
-      "Щербаков Владимир Владимирович": 106,
-      "Против всех": 102
+      "gas:candidate-vibid:361300470657": 26,
+      "gas:candidate-vibid:1001000121896": 380,
+      "gas:candidate-vibid:361300470446": 215,
+      "gas:candidate-vibid:361300470603": 106,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 25,
-      "Коломейцев Николай Васильевич": 395,
-      "Степанова Зоя Михайловна": 215,
-      "Щербаков Владимир Владимирович": 99,
-      "Против всех": 87
+      "gas:candidate-vibid:361300470657": 25,
+      "gas:candidate-vibid:1001000121896": 395,
+      "gas:candidate-vibid:361300470446": 215,
+      "gas:candidate-vibid:361300470603": 99,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 39,
-      "Коломейцев Николай Васильевич": 446,
-      "Степанова Зоя Михайловна": 250,
-      "Щербаков Владимир Владимирович": 137,
-      "Против всех": 129
+      "gas:candidate-vibid:361300470657": 39,
+      "gas:candidate-vibid:1001000121896": 446,
+      "gas:candidate-vibid:361300470446": 250,
+      "gas:candidate-vibid:361300470603": 137,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 24,
-      "Коломейцев Николай Васильевич": 463,
-      "Степанова Зоя Михайловна": 264,
-      "Щербаков Владимир Владимирович": 131,
-      "Против всех": 120
+      "gas:candidate-vibid:361300470657": 24,
+      "gas:candidate-vibid:1001000121896": 463,
+      "gas:candidate-vibid:361300470446": 264,
+      "gas:candidate-vibid:361300470603": 131,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 35,
-      "Коломейцев Николай Васильевич": 437,
-      "Степанова Зоя Михайловна": 268,
-      "Щербаков Владимир Владимирович": 145,
-      "Против всех": 111
+      "gas:candidate-vibid:361300470657": 35,
+      "gas:candidate-vibid:1001000121896": 437,
+      "gas:candidate-vibid:361300470446": 268,
+      "gas:candidate-vibid:361300470603": 145,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 27,
-      "Коломейцев Николай Васильевич": 412,
-      "Степанова Зоя Михайловна": 300,
-      "Щербаков Владимир Владимирович": 157,
-      "Против всех": 115
+      "gas:candidate-vibid:361300470657": 27,
+      "gas:candidate-vibid:1001000121896": 412,
+      "gas:candidate-vibid:361300470446": 300,
+      "gas:candidate-vibid:361300470603": 157,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 20,
-      "Коломейцев Николай Васильевич": 379,
-      "Степанова Зоя Михайловна": 254,
-      "Щербаков Владимир Владимирович": 195,
-      "Против всех": 150
+      "gas:candidate-vibid:361300470657": 20,
+      "gas:candidate-vibid:1001000121896": 379,
+      "gas:candidate-vibid:361300470446": 254,
+      "gas:candidate-vibid:361300470603": 195,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 55,
-      "Коломейцев Николай Васильевич": 474,
-      "Степанова Зоя Михайловна": 391,
-      "Щербаков Владимир Владимирович": 218,
-      "Против всех": 181
+      "gas:candidate-vibid:361300470657": 55,
+      "gas:candidate-vibid:1001000121896": 474,
+      "gas:candidate-vibid:361300470446": 391,
+      "gas:candidate-vibid:361300470603": 218,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 34,
-      "Коломейцев Николай Васильевич": 304,
-      "Степанова Зоя Михайловна": 233,
-      "Щербаков Владимир Владимирович": 166,
-      "Против всех": 100
+      "gas:candidate-vibid:361300470657": 34,
+      "gas:candidate-vibid:1001000121896": 304,
+      "gas:candidate-vibid:361300470446": 233,
+      "gas:candidate-vibid:361300470603": 166,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 42,
-      "Коломейцев Николай Васильевич": 509,
-      "Степанова Зоя Михайловна": 291,
-      "Щербаков Владимир Владимирович": 207,
-      "Против всех": 138
+      "gas:candidate-vibid:361300470657": 42,
+      "gas:candidate-vibid:1001000121896": 509,
+      "gas:candidate-vibid:361300470446": 291,
+      "gas:candidate-vibid:361300470603": 207,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 32,
-      "Коломейцев Николай Васильевич": 487,
-      "Степанова Зоя Михайловна": 282,
-      "Щербаков Владимир Владимирович": 193,
-      "Против всех": 124
+      "gas:candidate-vibid:361300470657": 32,
+      "gas:candidate-vibid:1001000121896": 487,
+      "gas:candidate-vibid:361300470446": 282,
+      "gas:candidate-vibid:361300470603": 193,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 24,
-      "Коломейцев Николай Васильевич": 419,
-      "Степанова Зоя Михайловна": 183,
-      "Щербаков Владимир Владимирович": 168,
-      "Против всех": 96
+      "gas:candidate-vibid:361300470657": 24,
+      "gas:candidate-vibid:1001000121896": 419,
+      "gas:candidate-vibid:361300470446": 183,
+      "gas:candidate-vibid:361300470603": 168,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 33,
-      "Коломейцев Николай Васильевич": 506,
-      "Степанова Зоя Михайловна": 309,
-      "Щербаков Владимир Владимирович": 231,
-      "Против всех": 143
+      "gas:candidate-vibid:361300470657": 33,
+      "gas:candidate-vibid:1001000121896": 506,
+      "gas:candidate-vibid:361300470446": 309,
+      "gas:candidate-vibid:361300470603": 231,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 360,
-      "Степанова Зоя Михайловна": 131,
-      "Щербаков Владимир Владимирович": 154,
-      "Против всех": 87
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 360,
+      "gas:candidate-vibid:361300470446": 131,
+      "gas:candidate-vibid:361300470603": 154,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 33,
-      "Коломейцев Николай Васильевич": 418,
-      "Степанова Зоя Михайловна": 252,
-      "Щербаков Владимир Владимирович": 147,
-      "Против всех": 136
+      "gas:candidate-vibid:361300470657": 33,
+      "gas:candidate-vibid:1001000121896": 418,
+      "gas:candidate-vibid:361300470446": 252,
+      "gas:candidate-vibid:361300470603": 147,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 33,
-      "Коломейцев Николай Васильевич": 445,
-      "Степанова Зоя Михайловна": 250,
-      "Щербаков Владимир Владимирович": 243,
-      "Против всех": 110
+      "gas:candidate-vibid:361300470657": 33,
+      "gas:candidate-vibid:1001000121896": 445,
+      "gas:candidate-vibid:361300470446": 250,
+      "gas:candidate-vibid:361300470603": 243,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 25,
-      "Коломейцев Николай Васильевич": 433,
-      "Степанова Зоя Михайловна": 231,
-      "Щербаков Владимир Владимирович": 128,
-      "Против всех": 102
+      "gas:candidate-vibid:361300470657": 25,
+      "gas:candidate-vibid:1001000121896": 433,
+      "gas:candidate-vibid:361300470446": 231,
+      "gas:candidate-vibid:361300470603": 128,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 20,
-      "Коломейцев Николай Васильевич": 453,
-      "Степанова Зоя Михайловна": 226,
-      "Щербаков Владимир Владимирович": 122,
-      "Против всех": 104
+      "gas:candidate-vibid:361300470657": 20,
+      "gas:candidate-vibid:1001000121896": 453,
+      "gas:candidate-vibid:361300470446": 226,
+      "gas:candidate-vibid:361300470603": 122,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 36,
-      "Коломейцев Николай Васильевич": 722,
-      "Степанова Зоя Михайловна": 338,
-      "Щербаков Владимир Владимирович": 219,
-      "Против всех": 172
+      "gas:candidate-vibid:361300470657": 36,
+      "gas:candidate-vibid:1001000121896": 722,
+      "gas:candidate-vibid:361300470446": 338,
+      "gas:candidate-vibid:361300470603": 219,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 40,
-      "Коломейцев Николай Васильевич": 390,
-      "Степанова Зоя Михайловна": 188,
-      "Щербаков Владимир Владимирович": 136,
-      "Против всех": 83
+      "gas:candidate-vibid:361300470657": 40,
+      "gas:candidate-vibid:1001000121896": 390,
+      "gas:candidate-vibid:361300470446": 188,
+      "gas:candidate-vibid:361300470603": 136,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 31,
-      "Коломейцев Николай Васильевич": 460,
-      "Степанова Зоя Михайловна": 308,
-      "Щербаков Владимир Владимирович": 92,
-      "Против всех": 100
+      "gas:candidate-vibid:361300470657": 31,
+      "gas:candidate-vibid:1001000121896": 460,
+      "gas:candidate-vibid:361300470446": 308,
+      "gas:candidate-vibid:361300470603": 92,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 38,
-      "Коломейцев Николай Васильевич": 417,
-      "Степанова Зоя Михайловна": 212,
-      "Щербаков Владимир Владимирович": 94,
-      "Против всех": 82
+      "gas:candidate-vibid:361300470657": 38,
+      "gas:candidate-vibid:1001000121896": 417,
+      "gas:candidate-vibid:361300470446": 212,
+      "gas:candidate-vibid:361300470603": 94,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 417,
-      "Степанова Зоя Михайловна": 183,
-      "Щербаков Владимир Владимирович": 103,
-      "Против всех": 85
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 417,
+      "gas:candidate-vibid:361300470446": 183,
+      "gas:candidate-vibid:361300470603": 103,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 24,
-      "Коломейцев Николай Васильевич": 321,
-      "Степанова Зоя Михайловна": 182,
-      "Щербаков Владимир Владимирович": 187,
-      "Против всех": 71
+      "gas:candidate-vibid:361300470657": 24,
+      "gas:candidate-vibid:1001000121896": 321,
+      "gas:candidate-vibid:361300470446": 182,
+      "gas:candidate-vibid:361300470603": 187,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 460,
-      "Степанова Зоя Михайловна": 208,
-      "Щербаков Владимир Владимирович": 71,
-      "Против всех": 62
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 460,
+      "gas:candidate-vibid:361300470446": 208,
+      "gas:candidate-vibid:361300470603": 71,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 33,
-      "Коломейцев Николай Васильевич": 341,
-      "Степанова Зоя Михайловна": 236,
-      "Щербаков Владимир Владимирович": 80,
-      "Против всех": 98
+      "gas:candidate-vibid:361300470657": 33,
+      "gas:candidate-vibid:1001000121896": 341,
+      "gas:candidate-vibid:361300470446": 236,
+      "gas:candidate-vibid:361300470603": 80,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 28,
-      "Коломейцев Николай Васильевич": 482,
-      "Степанова Зоя Михайловна": 267,
-      "Щербаков Владимир Владимирович": 232,
-      "Против всех": 160
+      "gas:candidate-vibid:361300470657": 28,
+      "gas:candidate-vibid:1001000121896": 482,
+      "gas:candidate-vibid:361300470446": 267,
+      "gas:candidate-vibid:361300470603": 232,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 20,
-      "Коломейцев Николай Васильевич": 481,
-      "Степанова Зоя Михайловна": 286,
-      "Щербаков Владимир Владимирович": 167,
-      "Против всех": 139
+      "gas:candidate-vibid:361300470657": 20,
+      "gas:candidate-vibid:1001000121896": 481,
+      "gas:candidate-vibid:361300470446": 286,
+      "gas:candidate-vibid:361300470603": 167,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 42,
-      "Коломейцев Николай Васильевич": 520,
-      "Степанова Зоя Михайловна": 255,
-      "Щербаков Владимир Владимирович": 273,
-      "Против всех": 197
+      "gas:candidate-vibid:361300470657": 42,
+      "gas:candidate-vibid:1001000121896": 520,
+      "gas:candidate-vibid:361300470446": 255,
+      "gas:candidate-vibid:361300470603": 273,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 60,
-      "Коломейцев Николай Васильевич": 427,
-      "Степанова Зоя Михайловна": 490,
-      "Щербаков Владимир Владимирович": 246,
-      "Против всех": 236
+      "gas:candidate-vibid:361300470657": 60,
+      "gas:candidate-vibid:1001000121896": 427,
+      "gas:candidate-vibid:361300470446": 490,
+      "gas:candidate-vibid:361300470603": 246,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 27,
-      "Коломейцев Николай Васильевич": 461,
-      "Степанова Зоя Михайловна": 255,
-      "Щербаков Владимир Владимирович": 159,
-      "Против всех": 155
+      "gas:candidate-vibid:361300470657": 27,
+      "gas:candidate-vibid:1001000121896": 461,
+      "gas:candidate-vibid:361300470446": 255,
+      "gas:candidate-vibid:361300470603": 159,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 25,
-      "Коломейцев Николай Васильевич": 351,
-      "Степанова Зоя Михайловна": 190,
-      "Щербаков Владимир Владимирович": 155,
-      "Против всех": 76
+      "gas:candidate-vibid:361300470657": 25,
+      "gas:candidate-vibid:1001000121896": 351,
+      "gas:candidate-vibid:361300470446": 190,
+      "gas:candidate-vibid:361300470603": 155,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 42,
-      "Коломейцев Николай Васильевич": 464,
-      "Степанова Зоя Михайловна": 192,
-      "Щербаков Владимир Владимирович": 207,
-      "Против всех": 125
+      "gas:candidate-vibid:361300470657": 42,
+      "gas:candidate-vibid:1001000121896": 464,
+      "gas:candidate-vibid:361300470446": 192,
+      "gas:candidate-vibid:361300470603": 207,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 16,
-      "Коломейцев Николай Васильевич": 365,
-      "Степанова Зоя Михайловна": 166,
-      "Щербаков Владимир Владимирович": 117,
-      "Против всех": 68
+      "gas:candidate-vibid:361300470657": 16,
+      "gas:candidate-vibid:1001000121896": 365,
+      "gas:candidate-vibid:361300470446": 166,
+      "gas:candidate-vibid:361300470603": 117,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 31,
-      "Коломейцев Николай Васильевич": 385,
-      "Степанова Зоя Михайловна": 258,
-      "Щербаков Владимир Владимирович": 101,
-      "Против всех": 107
+      "gas:candidate-vibid:361300470657": 31,
+      "gas:candidate-vibid:1001000121896": 385,
+      "gas:candidate-vibid:361300470446": 258,
+      "gas:candidate-vibid:361300470603": 101,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 13,
-      "Коломейцев Николай Васильевич": 376,
-      "Степанова Зоя Михайловна": 204,
-      "Щербаков Владимир Владимирович": 173,
-      "Против всех": 81
+      "gas:candidate-vibid:361300470657": 13,
+      "gas:candidate-vibid:1001000121896": 376,
+      "gas:candidate-vibid:361300470446": 204,
+      "gas:candidate-vibid:361300470603": 173,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 48,
-      "Коломейцев Николай Васильевич": 277,
-      "Степанова Зоя Михайловна": 314,
-      "Щербаков Владимир Владимирович": 163,
-      "Против всех": 152
+      "gas:candidate-vibid:361300470657": 48,
+      "gas:candidate-vibid:1001000121896": 277,
+      "gas:candidate-vibid:361300470446": 314,
+      "gas:candidate-vibid:361300470603": 163,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 42,
-      "Коломейцев Николай Васильевич": 509,
-      "Степанова Зоя Михайловна": 228,
-      "Щербаков Владимир Владимирович": 207,
-      "Против всех": 125
+      "gas:candidate-vibid:361300470657": 42,
+      "gas:candidate-vibid:1001000121896": 509,
+      "gas:candidate-vibid:361300470446": 228,
+      "gas:candidate-vibid:361300470603": 207,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 19,
-      "Коломейцев Николай Васильевич": 435,
-      "Степанова Зоя Михайловна": 208,
-      "Щербаков Владимир Владимирович": 156,
-      "Против всех": 113
+      "gas:candidate-vibid:361300470657": 19,
+      "gas:candidate-vibid:1001000121896": 435,
+      "gas:candidate-vibid:361300470446": 208,
+      "gas:candidate-vibid:361300470603": 156,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 19,
-      "Коломейцев Николай Васильевич": 285,
-      "Степанова Зоя Михайловна": 152,
-      "Щербаков Владимир Владимирович": 173,
-      "Против всех": 76
+      "gas:candidate-vibid:361300470657": 19,
+      "gas:candidate-vibid:1001000121896": 285,
+      "gas:candidate-vibid:361300470446": 152,
+      "gas:candidate-vibid:361300470603": 173,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 36,
-      "Коломейцев Николай Васильевич": 400,
-      "Степанова Зоя Михайловна": 193,
-      "Щербаков Владимир Владимирович": 144,
-      "Против всех": 84
+      "gas:candidate-vibid:361300470657": 36,
+      "gas:candidate-vibid:1001000121896": 400,
+      "gas:candidate-vibid:361300470446": 193,
+      "gas:candidate-vibid:361300470603": 144,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470435&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 12,
-      "Коломейцев Николай Васильевич": 163,
-      "Степанова Зоя Михайловна": 163,
-      "Щербаков Владимир Владимирович": 258,
-      "Против всех": 57
+      "gas:candidate-vibid:361300470657": 12,
+      "gas:candidate-vibid:1001000121896": 163,
+      "gas:candidate-vibid:361300470446": 163,
+      "gas:candidate-vibid:361300470603": 258,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 13,
-      "Коломейцев Николай Васильевич": 213,
-      "Степанова Зоя Михайловна": 218,
-      "Щербаков Владимир Владимирович": 237,
-      "Против всех": 104
+      "gas:candidate-vibid:361300470657": 13,
+      "gas:candidate-vibid:1001000121896": 213,
+      "gas:candidate-vibid:361300470446": 218,
+      "gas:candidate-vibid:361300470603": 237,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 15,
-      "Коломейцев Николай Васильевич": 255,
-      "Степанова Зоя Михайловна": 151,
-      "Щербаков Владимир Владимирович": 289,
-      "Против всех": 60
+      "gas:candidate-vibid:361300470657": 15,
+      "gas:candidate-vibid:1001000121896": 255,
+      "gas:candidate-vibid:361300470446": 151,
+      "gas:candidate-vibid:361300470603": 289,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 14,
-      "Коломейцев Николай Васильевич": 200,
-      "Степанова Зоя Михайловна": 239,
-      "Щербаков Владимир Владимирович": 235,
-      "Против всех": 19
+      "gas:candidate-vibid:361300470657": 14,
+      "gas:candidate-vibid:1001000121896": 200,
+      "gas:candidate-vibid:361300470446": 239,
+      "gas:candidate-vibid:361300470603": 235,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 14,
-      "Коломейцев Николай Васильевич": 223,
-      "Степанова Зоя Михайловна": 178,
-      "Щербаков Владимир Владимирович": 361,
-      "Против всех": 59
+      "gas:candidate-vibid:361300470657": 14,
+      "gas:candidate-vibid:1001000121896": 223,
+      "gas:candidate-vibid:361300470446": 178,
+      "gas:candidate-vibid:361300470603": 361,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 13,
-      "Коломейцев Николай Васильевич": 272,
-      "Степанова Зоя Михайловна": 118,
-      "Щербаков Владимир Владимирович": 241,
-      "Против всех": 43
+      "gas:candidate-vibid:361300470657": 13,
+      "gas:candidate-vibid:1001000121896": 272,
+      "gas:candidate-vibid:361300470446": 118,
+      "gas:candidate-vibid:361300470603": 241,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 9,
-      "Коломейцев Николай Васильевич": 243,
-      "Степанова Зоя Михайловна": 129,
-      "Щербаков Владимир Владимирович": 322,
-      "Против всех": 50
+      "gas:candidate-vibid:361300470657": 9,
+      "gas:candidate-vibid:1001000121896": 243,
+      "gas:candidate-vibid:361300470446": 129,
+      "gas:candidate-vibid:361300470603": 322,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 18,
-      "Коломейцев Николай Васильевич": 285,
-      "Степанова Зоя Михайловна": 197,
-      "Щербаков Владимир Владимирович": 274,
-      "Против всех": 67
+      "gas:candidate-vibid:361300470657": 18,
+      "gas:candidate-vibid:1001000121896": 285,
+      "gas:candidate-vibid:361300470446": 197,
+      "gas:candidate-vibid:361300470603": 274,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 13,
-      "Коломейцев Николай Васильевич": 188,
-      "Степанова Зоя Михайловна": 129,
-      "Щербаков Владимир Владимирович": 217,
-      "Против всех": 36
+      "gas:candidate-vibid:361300470657": 13,
+      "gas:candidate-vibid:1001000121896": 188,
+      "gas:candidate-vibid:361300470446": 129,
+      "gas:candidate-vibid:361300470603": 217,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 15,
-      "Коломейцев Николай Васильевич": 178,
-      "Степанова Зоя Михайловна": 247,
-      "Щербаков Владимир Владимирович": 327,
-      "Против всех": 50
+      "gas:candidate-vibid:361300470657": 15,
+      "gas:candidate-vibid:1001000121896": 178,
+      "gas:candidate-vibid:361300470446": 247,
+      "gas:candidate-vibid:361300470603": 327,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 14,
-      "Коломейцев Николай Васильевич": 158,
-      "Степанова Зоя Михайловна": 105,
-      "Щербаков Владимир Владимирович": 275,
-      "Против всех": 29
+      "gas:candidate-vibid:361300470657": 14,
+      "gas:candidate-vibid:1001000121896": 158,
+      "gas:candidate-vibid:361300470446": 105,
+      "gas:candidate-vibid:361300470603": 275,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 7,
-      "Коломейцев Николай Васильевич": 183,
-      "Степанова Зоя Михайловна": 79,
-      "Щербаков Владимир Владимирович": 157,
-      "Против всех": 42
+      "gas:candidate-vibid:361300470657": 7,
+      "gas:candidate-vibid:1001000121896": 183,
+      "gas:candidate-vibid:361300470446": 79,
+      "gas:candidate-vibid:361300470603": 157,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 6,
-      "Коломейцев Николай Васильевич": 156,
-      "Степанова Зоя Михайловна": 394,
-      "Щербаков Владимир Владимирович": 114,
-      "Против всех": 28
+      "gas:candidate-vibid:361300470657": 6,
+      "gas:candidate-vibid:1001000121896": 156,
+      "gas:candidate-vibid:361300470446": 394,
+      "gas:candidate-vibid:361300470603": 114,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 23,
-      "Коломейцев Николай Васильевич": 268,
-      "Степанова Зоя Михайловна": 182,
-      "Щербаков Владимир Владимирович": 389,
-      "Против всех": 54
+      "gas:candidate-vibid:361300470657": 23,
+      "gas:candidate-vibid:1001000121896": 268,
+      "gas:candidate-vibid:361300470446": 182,
+      "gas:candidate-vibid:361300470603": 389,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 20,
-      "Коломейцев Николай Васильевич": 263,
-      "Степанова Зоя Михайловна": 369,
-      "Щербаков Владимир Владимирович": 254,
-      "Против всех": 54
+      "gas:candidate-vibid:361300470657": 20,
+      "gas:candidate-vibid:1001000121896": 263,
+      "gas:candidate-vibid:361300470446": 369,
+      "gas:candidate-vibid:361300470603": 254,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 19,
-      "Коломейцев Николай Васильевич": 134,
-      "Степанова Зоя Михайловна": 391,
-      "Щербаков Владимир Владимирович": 92,
-      "Против всех": 66
+      "gas:candidate-vibid:361300470657": 19,
+      "gas:candidate-vibid:1001000121896": 134,
+      "gas:candidate-vibid:361300470446": 391,
+      "gas:candidate-vibid:361300470603": 92,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 18,
-      "Коломейцев Николай Васильевич": 214,
-      "Степанова Зоя Михайловна": 400,
-      "Щербаков Владимир Владимирович": 74,
-      "Против всех": 37
+      "gas:candidate-vibid:361300470657": 18,
+      "gas:candidate-vibid:1001000121896": 214,
+      "gas:candidate-vibid:361300470446": 400,
+      "gas:candidate-vibid:361300470603": 74,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 16,
-      "Коломейцев Николай Васильевич": 198,
-      "Степанова Зоя Михайловна": 386,
-      "Щербаков Владимир Владимирович": 39,
-      "Против всех": 36
+      "gas:candidate-vibid:361300470657": 16,
+      "gas:candidate-vibid:1001000121896": 198,
+      "gas:candidate-vibid:361300470446": 386,
+      "gas:candidate-vibid:361300470603": 39,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 2,
-      "Коломейцев Николай Васильевич": 53,
-      "Степанова Зоя Михайловна": 113,
-      "Щербаков Владимир Владимирович": 11,
-      "Против всех": 21
+      "gas:candidate-vibid:361300470657": 2,
+      "gas:candidate-vibid:1001000121896": 53,
+      "gas:candidate-vibid:361300470446": 113,
+      "gas:candidate-vibid:361300470603": 11,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 11,
-      "Коломейцев Николай Васильевич": 172,
-      "Степанова Зоя Михайловна": 613,
-      "Щербаков Владимир Владимирович": 56,
-      "Против всех": 62
+      "gas:candidate-vibid:361300470657": 11,
+      "gas:candidate-vibid:1001000121896": 172,
+      "gas:candidate-vibid:361300470446": 613,
+      "gas:candidate-vibid:361300470603": 56,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 12,
-      "Коломейцев Николай Васильевич": 153,
-      "Степанова Зоя Михайловна": 1210,
-      "Щербаков Владимир Владимирович": 52,
-      "Против всех": 45
+      "gas:candidate-vibid:361300470657": 12,
+      "gas:candidate-vibid:1001000121896": 153,
+      "gas:candidate-vibid:361300470446": 1210,
+      "gas:candidate-vibid:361300470603": 52,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 7,
-      "Коломейцев Николай Васильевич": 66,
-      "Степанова Зоя Михайловна": 478,
-      "Щербаков Владимир Владимирович": 25,
-      "Против всех": 41
+      "gas:candidate-vibid:361300470657": 7,
+      "gas:candidate-vibid:1001000121896": 66,
+      "gas:candidate-vibid:361300470446": 478,
+      "gas:candidate-vibid:361300470603": 25,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 362,
-      "Степанова Зоя Михайловна": 729,
-      "Щербаков Владимир Владимирович": 35,
-      "Против всех": 75
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 362,
+      "gas:candidate-vibid:361300470446": 729,
+      "gas:candidate-vibid:361300470603": 35,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 3,
-      "Коломейцев Николай Васильевич": 26,
-      "Степанова Зоя Михайловна": 107,
-      "Щербаков Владимир Владимирович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:361300470657": 3,
+      "gas:candidate-vibid:1001000121896": 26,
+      "gas:candidate-vibid:361300470446": 107,
+      "gas:candidate-vibid:361300470603": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 2,
-      "Коломейцев Николай Васильевич": 116,
-      "Степанова Зоя Михайловна": 75,
-      "Щербаков Владимир Владимирович": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:361300470657": 2,
+      "gas:candidate-vibid:1001000121896": 116,
+      "gas:candidate-vibid:361300470446": 75,
+      "gas:candidate-vibid:361300470603": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 3,
-      "Коломейцев Николай Васильевич": 190,
-      "Степанова Зоя Михайловна": 193,
-      "Щербаков Владимир Владимирович": 13,
-      "Против всех": 25
+      "gas:candidate-vibid:361300470657": 3,
+      "gas:candidate-vibid:1001000121896": 190,
+      "gas:candidate-vibid:361300470446": 193,
+      "gas:candidate-vibid:361300470603": 13,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 0,
-      "Коломейцев Николай Васильевич": 40,
-      "Степанова Зоя Михайловна": 83,
-      "Щербаков Владимир Владимирович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:361300470657": 0,
+      "gas:candidate-vibid:1001000121896": 40,
+      "gas:candidate-vibid:361300470446": 83,
+      "gas:candidate-vibid:361300470603": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 436,
-      "Степанова Зоя Михайловна": 368,
-      "Щербаков Владимир Владимирович": 64,
-      "Против всех": 96
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 436,
+      "gas:candidate-vibid:361300470446": 368,
+      "gas:candidate-vibid:361300470603": 64,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 19,
-      "Коломейцев Николай Васильевич": 497,
-      "Степанова Зоя Михайловна": 337,
-      "Щербаков Владимир Владимирович": 86,
-      "Против всех": 157
+      "gas:candidate-vibid:361300470657": 19,
+      "gas:candidate-vibid:1001000121896": 497,
+      "gas:candidate-vibid:361300470446": 337,
+      "gas:candidate-vibid:361300470603": 86,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 23,
-      "Коломейцев Николай Васильевич": 213,
-      "Степанова Зоя Михайловна": 291,
-      "Щербаков Владимир Владимирович": 16,
-      "Против всех": 83
+      "gas:candidate-vibid:361300470657": 23,
+      "gas:candidate-vibid:1001000121896": 213,
+      "gas:candidate-vibid:361300470446": 291,
+      "gas:candidate-vibid:361300470603": 16,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 35,
-      "Коломейцев Николай Васильевич": 165,
-      "Степанова Зоя Михайловна": 323,
-      "Щербаков Владимир Владимирович": 42,
-      "Против всех": 138
+      "gas:candidate-vibid:361300470657": 35,
+      "gas:candidate-vibid:1001000121896": 165,
+      "gas:candidate-vibid:361300470446": 323,
+      "gas:candidate-vibid:361300470603": 42,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 17,
-      "Коломейцев Николай Васильевич": 398,
-      "Степанова Зоя Михайловна": 346,
-      "Щербаков Владимир Владимирович": 46,
-      "Против всех": 96
+      "gas:candidate-vibid:361300470657": 17,
+      "gas:candidate-vibid:1001000121896": 398,
+      "gas:candidate-vibid:361300470446": 346,
+      "gas:candidate-vibid:361300470603": 46,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 15,
-      "Коломейцев Николай Васильевич": 275,
-      "Степанова Зоя Михайловна": 292,
-      "Щербаков Владимир Владимирович": 24,
-      "Против всех": 54
+      "gas:candidate-vibid:361300470657": 15,
+      "gas:candidate-vibid:1001000121896": 275,
+      "gas:candidate-vibid:361300470446": 292,
+      "gas:candidate-vibid:361300470603": 24,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 3,
-      "Коломейцев Николай Васильевич": 119,
-      "Степанова Зоя Михайловна": 113,
-      "Щербаков Владимир Владимирович": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:361300470657": 3,
+      "gas:candidate-vibid:1001000121896": 119,
+      "gas:candidate-vibid:361300470446": 113,
+      "gas:candidate-vibid:361300470603": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 2,
-      "Коломейцев Николай Васильевич": 60,
-      "Степанова Зоя Михайловна": 140,
-      "Щербаков Владимир Владимирович": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:361300470657": 2,
+      "gas:candidate-vibid:1001000121896": 60,
+      "gas:candidate-vibid:361300470446": 140,
+      "gas:candidate-vibid:361300470603": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 2,
-      "Коломейцев Николай Васильевич": 24,
-      "Степанова Зоя Михайловна": 77,
-      "Щербаков Владимир Владимирович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:361300470657": 2,
+      "gas:candidate-vibid:1001000121896": 24,
+      "gas:candidate-vibid:361300470446": 77,
+      "gas:candidate-vibid:361300470603": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 3,
-      "Коломейцев Николай Васильевич": 142,
-      "Степанова Зоя Михайловна": 228,
-      "Щербаков Владимир Владимирович": 18,
-      "Против всех": 13
+      "gas:candidate-vibid:361300470657": 3,
+      "gas:candidate-vibid:1001000121896": 142,
+      "gas:candidate-vibid:361300470446": 228,
+      "gas:candidate-vibid:361300470603": 18,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 15,
-      "Коломейцев Николай Васильевич": 156,
-      "Степанова Зоя Михайловна": 468,
-      "Щербаков Владимир Владимирович": 8,
-      "Против всех": 18
+      "gas:candidate-vibid:361300470657": 15,
+      "gas:candidate-vibid:1001000121896": 156,
+      "gas:candidate-vibid:361300470446": 468,
+      "gas:candidate-vibid:361300470603": 8,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 3,
-      "Коломейцев Николай Васильевич": 76,
-      "Степанова Зоя Михайловна": 137,
-      "Щербаков Владимир Владимирович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:361300470657": 3,
+      "gas:candidate-vibid:1001000121896": 76,
+      "gas:candidate-vibid:361300470446": 137,
+      "gas:candidate-vibid:361300470603": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 4,
-      "Коломейцев Николай Васильевич": 71,
-      "Степанова Зоя Михайловна": 254,
-      "Щербаков Владимир Владимирович": 8,
-      "Против всех": 51
+      "gas:candidate-vibid:361300470657": 4,
+      "gas:candidate-vibid:1001000121896": 71,
+      "gas:candidate-vibid:361300470446": 254,
+      "gas:candidate-vibid:361300470603": 8,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 8,
-      "Коломейцев Николай Васильевич": 222,
-      "Степанова Зоя Михайловна": 681,
-      "Щербаков Владимир Владимирович": 32,
-      "Против всех": 45
+      "gas:candidate-vibid:361300470657": 8,
+      "gas:candidate-vibid:1001000121896": 222,
+      "gas:candidate-vibid:361300470446": 681,
+      "gas:candidate-vibid:361300470603": 32,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 3,
-      "Коломейцев Николай Васильевич": 152,
-      "Степанова Зоя Михайловна": 319,
-      "Щербаков Владимир Владимирович": 18,
-      "Против всех": 17
+      "gas:candidate-vibid:361300470657": 3,
+      "gas:candidate-vibid:1001000121896": 152,
+      "gas:candidate-vibid:361300470446": 319,
+      "gas:candidate-vibid:361300470603": 18,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 1,
-      "Коломейцев Николай Васильевич": 85,
-      "Степанова Зоя Михайловна": 54,
-      "Щербаков Владимир Владимирович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:361300470657": 1,
+      "gas:candidate-vibid:1001000121896": 85,
+      "gas:candidate-vibid:361300470446": 54,
+      "gas:candidate-vibid:361300470603": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 0,
-      "Коломейцев Николай Васильевич": 22,
-      "Степанова Зоя Михайловна": 48,
-      "Щербаков Владимир Владимирович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:361300470657": 0,
+      "gas:candidate-vibid:1001000121896": 22,
+      "gas:candidate-vibid:361300470446": 48,
+      "gas:candidate-vibid:361300470603": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 10,
-      "Коломейцев Николай Васильевич": 163,
-      "Степанова Зоя Михайловна": 354,
-      "Щербаков Владимир Владимирович": 13,
-      "Против всех": 33
+      "gas:candidate-vibid:361300470657": 10,
+      "gas:candidate-vibid:1001000121896": 163,
+      "gas:candidate-vibid:361300470446": 354,
+      "gas:candidate-vibid:361300470603": 13,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 6,
-      "Коломейцев Николай Васильевич": 192,
-      "Степанова Зоя Михайловна": 327,
-      "Щербаков Владимир Владимирович": 17,
-      "Против всех": 31
+      "gas:candidate-vibid:361300470657": 6,
+      "gas:candidate-vibid:1001000121896": 192,
+      "gas:candidate-vibid:361300470446": 327,
+      "gas:candidate-vibid:361300470603": 17,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 1,
-      "Коломейцев Николай Васильевич": 67,
-      "Степанова Зоя Михайловна": 250,
-      "Щербаков Владимир Владимирович": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:361300470657": 1,
+      "gas:candidate-vibid:1001000121896": 67,
+      "gas:candidate-vibid:361300470446": 250,
+      "gas:candidate-vibid:361300470603": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 4,
-      "Коломейцев Николай Васильевич": 202,
-      "Степанова Зоя Михайловна": 201,
-      "Щербаков Владимир Владимирович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:361300470657": 4,
+      "gas:candidate-vibid:1001000121896": 202,
+      "gas:candidate-vibid:361300470446": 201,
+      "gas:candidate-vibid:361300470603": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 19,
-      "Коломейцев Николай Васильевич": 307,
-      "Степанова Зоя Михайловна": 734,
-      "Щербаков Владимир Владимирович": 58,
-      "Против всех": 79
+      "gas:candidate-vibid:361300470657": 19,
+      "gas:candidate-vibid:1001000121896": 307,
+      "gas:candidate-vibid:361300470446": 734,
+      "gas:candidate-vibid:361300470603": 58,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 15,
-      "Коломейцев Николай Васильевич": 307,
-      "Степанова Зоя Михайловна": 1216,
-      "Щербаков Владимир Владимирович": 120,
-      "Против всех": 89
+      "gas:candidate-vibid:361300470657": 15,
+      "gas:candidate-vibid:1001000121896": 307,
+      "gas:candidate-vibid:361300470446": 1216,
+      "gas:candidate-vibid:361300470603": 120,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 7,
-      "Коломейцев Николай Васильевич": 122,
-      "Степанова Зоя Михайловна": 203,
-      "Щербаков Владимир Владимирович": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:361300470657": 7,
+      "gas:candidate-vibid:1001000121896": 122,
+      "gas:candidate-vibid:361300470446": 203,
+      "gas:candidate-vibid:361300470603": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 17,
-      "Коломейцев Николай Васильевич": 303,
-      "Степанова Зоя Михайловна": 789,
-      "Щербаков Владимир Владимирович": 45,
-      "Против всех": 64
+      "gas:candidate-vibid:361300470657": 17,
+      "gas:candidate-vibid:1001000121896": 303,
+      "gas:candidate-vibid:361300470446": 789,
+      "gas:candidate-vibid:361300470603": 45,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 5,
-      "Коломейцев Николай Васильевич": 306,
-      "Степанова Зоя Михайловна": 253,
-      "Щербаков Владимир Владимирович": 50,
-      "Против всех": 23
+      "gas:candidate-vibid:361300470657": 5,
+      "gas:candidate-vibid:1001000121896": 306,
+      "gas:candidate-vibid:361300470446": 253,
+      "gas:candidate-vibid:361300470603": 50,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 0,
-      "Коломейцев Николай Васильевич": 18,
-      "Степанова Зоя Михайловна": 61,
-      "Щербаков Владимир Владимирович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:361300470657": 0,
+      "gas:candidate-vibid:1001000121896": 18,
+      "gas:candidate-vibid:361300470446": 61,
+      "gas:candidate-vibid:361300470603": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 4,
-      "Коломейцев Николай Васильевич": 75,
-      "Степанова Зоя Михайловна": 97,
-      "Щербаков Владимир Владимирович": 13,
-      "Против всех": 9
+      "gas:candidate-vibid:361300470657": 4,
+      "gas:candidate-vibid:1001000121896": 75,
+      "gas:candidate-vibid:361300470446": 97,
+      "gas:candidate-vibid:361300470603": 13,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 0,
-      "Коломейцев Николай Васильевич": 15,
-      "Степанова Зоя Михайловна": 151,
-      "Щербаков Владимир Владимирович": 18,
-      "Против всех": 1
+      "gas:candidate-vibid:361300470657": 0,
+      "gas:candidate-vibid:1001000121896": 15,
+      "gas:candidate-vibid:361300470446": 151,
+      "gas:candidate-vibid:361300470603": 18,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 8,
-      "Коломейцев Николай Васильевич": 58,
-      "Степанова Зоя Михайловна": 418,
-      "Щербаков Владимир Владимирович": 74,
-      "Против всех": 12
+      "gas:candidate-vibid:361300470657": 8,
+      "gas:candidate-vibid:1001000121896": 58,
+      "gas:candidate-vibid:361300470446": 418,
+      "gas:candidate-vibid:361300470603": 74,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 8,
-      "Коломейцев Николай Васильевич": 165,
-      "Степанова Зоя Михайловна": 203,
-      "Щербаков Владимир Владимирович": 14,
-      "Против всех": 38
+      "gas:candidate-vibid:361300470657": 8,
+      "gas:candidate-vibid:1001000121896": 165,
+      "gas:candidate-vibid:361300470446": 203,
+      "gas:candidate-vibid:361300470603": 14,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 4,
-      "Коломейцев Николай Васильевич": 24,
-      "Степанова Зоя Михайловна": 171,
-      "Щербаков Владимир Владимирович": 13,
-      "Против всех": 21
+      "gas:candidate-vibid:361300470657": 4,
+      "gas:candidate-vibid:1001000121896": 24,
+      "gas:candidate-vibid:361300470446": 171,
+      "gas:candidate-vibid:361300470603": 13,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 15,
-      "Коломейцев Николай Васильевич": 159,
-      "Степанова Зоя Михайловна": 272,
-      "Щербаков Владимир Владимирович": 212,
-      "Против всех": 81
+      "gas:candidate-vibid:361300470657": 15,
+      "gas:candidate-vibid:1001000121896": 159,
+      "gas:candidate-vibid:361300470446": 272,
+      "gas:candidate-vibid:361300470603": 212,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 22,
-      "Коломейцев Николай Васильевич": 199,
-      "Степанова Зоя Михайловна": 312,
-      "Щербаков Владимир Владимирович": 367,
-      "Против всех": 135
+      "gas:candidate-vibid:361300470657": 22,
+      "gas:candidate-vibid:1001000121896": 199,
+      "gas:candidate-vibid:361300470446": 312,
+      "gas:candidate-vibid:361300470603": 367,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 10,
-      "Коломейцев Николай Васильевич": 173,
-      "Степанова Зоя Михайловна": 250,
-      "Щербаков Владимир Владимирович": 292,
-      "Против всех": 83
+      "gas:candidate-vibid:361300470657": 10,
+      "gas:candidate-vibid:1001000121896": 173,
+      "gas:candidate-vibid:361300470446": 250,
+      "gas:candidate-vibid:361300470603": 292,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алехин Виктор Тимофеевич": 144,
-      "Коломейцев Николай Васильевич": 231,
-      "Степанова Зоя Михайловна": 471,
-      "Щербаков Владимир Владимирович": 184,
-      "Против всех": 388
+      "gas:candidate-vibid:361300470657": 144,
+      "gas:candidate-vibid:1001000121896": 231,
+      "gas:candidate-vibid:361300470446": 471,
+      "gas:candidate-vibid:361300470603": 184,
+      "special:against-all": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300470436&region=0&sub_region=0&type=429",
@@ -9114,17 +9114,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 119,
-      "Емельянов Михаил Васильевич": 619,
-      "Зайналабидов Марат Салавович": 8,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 14,
-      "Нетребов Юрий Викторович": 0,
-      "Пелипенко Алексей Алексеевич": 3,
-      "Побегайлов Олег Анатольевич": 3,
-      "Стуров Борис Николаевич": 13,
-      "Чернов Виктор Николаевич": 15,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121897": 119,
+      "gas:candidate-vibid:1001000112245": 619,
+      "gas:candidate-vibid:1001000136108": 8,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 14,
+      "gas:candidate-vibid:361300570447": 0,
+      "gas:candidate-vibid:361300570524": 3,
+      "gas:candidate-vibid:1001000199632": 3,
+      "gas:candidate-vibid:361300570502": 13,
+      "gas:candidate-vibid:1001000202326": 15,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9174,17 +9174,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 252,
-      "Емельянов Михаил Васильевич": 362,
-      "Зайналабидов Марат Салавович": 11,
-      "Зарипов Альберт Маратович": 7,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 3,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 13,
-      "Стуров Борис Николаевич": 20,
-      "Чернов Виктор Николаевич": 30,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121897": 252,
+      "gas:candidate-vibid:1001000112245": 362,
+      "gas:candidate-vibid:1001000136108": 11,
+      "gas:candidate-vibid:361300570441": 7,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 3,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 13,
+      "gas:candidate-vibid:361300570502": 20,
+      "gas:candidate-vibid:1001000202326": 30,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9234,17 +9234,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 372,
-      "Емельянов Михаил Васильевич": 658,
-      "Зайналабидов Марат Салавович": 22,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 50,
-      "Чернов Виктор Николаевич": 51,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121897": 372,
+      "gas:candidate-vibid:1001000112245": 658,
+      "gas:candidate-vibid:1001000136108": 22,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 50,
+      "gas:candidate-vibid:1001000202326": 51,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9294,17 +9294,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 357,
-      "Емельянов Михаил Васильевич": 706,
-      "Зайналабидов Марат Салавович": 21,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 14,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 0,
-      "Побегайлов Олег Анатольевич": 11,
-      "Стуров Борис Николаевич": 44,
-      "Чернов Виктор Николаевич": 45,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121897": 357,
+      "gas:candidate-vibid:1001000112245": 706,
+      "gas:candidate-vibid:1001000136108": 21,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 14,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 0,
+      "gas:candidate-vibid:1001000199632": 11,
+      "gas:candidate-vibid:361300570502": 44,
+      "gas:candidate-vibid:1001000202326": 45,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9354,17 +9354,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 362,
-      "Емельянов Михаил Васильевич": 552,
-      "Зайналабидов Марат Салавович": 22,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 17,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 38,
-      "Чернов Виктор Николаевич": 49,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121897": 362,
+      "gas:candidate-vibid:1001000112245": 552,
+      "gas:candidate-vibid:1001000136108": 22,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 17,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 38,
+      "gas:candidate-vibid:1001000202326": 49,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9414,17 +9414,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 300,
-      "Емельянов Михаил Васильевич": 411,
-      "Зайналабидов Марат Салавович": 22,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 10,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 7,
-      "Стуров Борис Николаевич": 20,
-      "Чернов Виктор Николаевич": 30,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000121897": 300,
+      "gas:candidate-vibid:1001000112245": 411,
+      "gas:candidate-vibid:1001000136108": 22,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 10,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 7,
+      "gas:candidate-vibid:361300570502": 20,
+      "gas:candidate-vibid:1001000202326": 30,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9474,17 +9474,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 118,
-      "Емельянов Михаил Васильевич": 341,
-      "Зайналабидов Марат Салавович": 22,
-      "Зарипов Альберт Маратович": 15,
-      "Крючков Александр Владимирович": 8,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 8,
-      "Стуров Борис Николаевич": 85,
-      "Чернов Виктор Николаевич": 40,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121897": 118,
+      "gas:candidate-vibid:1001000112245": 341,
+      "gas:candidate-vibid:1001000136108": 22,
+      "gas:candidate-vibid:361300570441": 15,
+      "gas:candidate-vibid:1001000195128": 8,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 8,
+      "gas:candidate-vibid:361300570502": 85,
+      "gas:candidate-vibid:1001000202326": 40,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9534,17 +9534,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 450,
-      "Емельянов Михаил Васильевич": 473,
-      "Зайналабидов Марат Салавович": 20,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 15,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 3,
-      "Побегайлов Олег Анатольевич": 9,
-      "Стуров Борис Николаевич": 14,
-      "Чернов Виктор Николаевич": 43,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121897": 450,
+      "gas:candidate-vibid:1001000112245": 473,
+      "gas:candidate-vibid:1001000136108": 20,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 15,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 3,
+      "gas:candidate-vibid:1001000199632": 9,
+      "gas:candidate-vibid:361300570502": 14,
+      "gas:candidate-vibid:1001000202326": 43,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9594,17 +9594,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 241,
-      "Емельянов Михаил Васильевич": 740,
-      "Зайналабидов Марат Салавович": 41,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 22,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 17,
-      "Побегайлов Олег Анатольевич": 24,
-      "Стуров Борис Николаевич": 51,
-      "Чернов Виктор Николаевич": 45,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000121897": 241,
+      "gas:candidate-vibid:1001000112245": 740,
+      "gas:candidate-vibid:1001000136108": 41,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 22,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 17,
+      "gas:candidate-vibid:1001000199632": 24,
+      "gas:candidate-vibid:361300570502": 51,
+      "gas:candidate-vibid:1001000202326": 45,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9654,17 +9654,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 232,
-      "Емельянов Михаил Васильевич": 183,
-      "Зайналабидов Марат Салавович": 17,
-      "Зарипов Альберт Маратович": 9,
-      "Крючков Александр Владимирович": 16,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 2,
-      "Побегайлов Олег Анатольевич": 5,
-      "Стуров Борис Николаевич": 8,
-      "Чернов Виктор Николаевич": 30,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121897": 232,
+      "gas:candidate-vibid:1001000112245": 183,
+      "gas:candidate-vibid:1001000136108": 17,
+      "gas:candidate-vibid:361300570441": 9,
+      "gas:candidate-vibid:1001000195128": 16,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 2,
+      "gas:candidate-vibid:1001000199632": 5,
+      "gas:candidate-vibid:361300570502": 8,
+      "gas:candidate-vibid:1001000202326": 30,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9714,17 +9714,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 68,
-      "Емельянов Михаил Васильевич": 76,
-      "Зайналабидов Марат Салавович": 7,
-      "Зарипов Альберт Маратович": 3,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 2,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 5,
-      "Стуров Борис Николаевич": 4,
-      "Чернов Виктор Николаевич": 14,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121897": 68,
+      "gas:candidate-vibid:1001000112245": 76,
+      "gas:candidate-vibid:1001000136108": 7,
+      "gas:candidate-vibid:361300570441": 3,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 2,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 5,
+      "gas:candidate-vibid:361300570502": 4,
+      "gas:candidate-vibid:1001000202326": 14,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9774,17 +9774,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 163,
-      "Емельянов Михаил Васильевич": 129,
-      "Зайналабидов Марат Салавович": 11,
-      "Зарипов Альберт Маратович": 2,
-      "Крючков Александр Владимирович": 4,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 4,
-      "Стуров Борис Николаевич": 4,
-      "Чернов Виктор Николаевич": 26,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121897": 163,
+      "gas:candidate-vibid:1001000112245": 129,
+      "gas:candidate-vibid:1001000136108": 11,
+      "gas:candidate-vibid:361300570441": 2,
+      "gas:candidate-vibid:1001000195128": 4,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 4,
+      "gas:candidate-vibid:361300570502": 4,
+      "gas:candidate-vibid:1001000202326": 26,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9834,17 +9834,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 66,
-      "Емельянов Михаил Васильевич": 180,
-      "Зайналабидов Марат Салавович": 8,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 3,
-      "Нетребов Юрий Викторович": 1,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 1,
-      "Стуров Борис Николаевич": 2,
-      "Чернов Виктор Николаевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121897": 66,
+      "gas:candidate-vibid:1001000112245": 180,
+      "gas:candidate-vibid:1001000136108": 8,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 3,
+      "gas:candidate-vibid:361300570447": 1,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 1,
+      "gas:candidate-vibid:361300570502": 2,
+      "gas:candidate-vibid:1001000202326": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9894,17 +9894,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 43,
-      "Емельянов Михаил Васильевич": 68,
-      "Зайналабидов Марат Салавович": 3,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 3,
-      "Нетребов Юрий Викторович": 2,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 1,
-      "Стуров Борис Николаевич": 2,
-      "Чернов Виктор Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121897": 43,
+      "gas:candidate-vibid:1001000112245": 68,
+      "gas:candidate-vibid:1001000136108": 3,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 3,
+      "gas:candidate-vibid:361300570447": 2,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 1,
+      "gas:candidate-vibid:361300570502": 2,
+      "gas:candidate-vibid:1001000202326": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -9954,17 +9954,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 362,
-      "Емельянов Михаил Васильевич": 445,
-      "Зайналабидов Марат Салавович": 51,
-      "Зарипов Альберт Маратович": 18,
-      "Крючков Александр Владимирович": 24,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 17,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 22,
-      "Чернов Виктор Николаевич": 52,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121897": 362,
+      "gas:candidate-vibid:1001000112245": 445,
+      "gas:candidate-vibid:1001000136108": 51,
+      "gas:candidate-vibid:361300570441": 18,
+      "gas:candidate-vibid:1001000195128": 24,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 17,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 22,
+      "gas:candidate-vibid:1001000202326": 52,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10014,17 +10014,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 106,
-      "Емельянов Михаил Васильевич": 640,
-      "Зайналабидов Марат Салавович": 31,
-      "Зарипов Альберт Маратович": 1,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 2,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 15,
-      "Стуров Борис Николаевич": 15,
-      "Чернов Виктор Николаевич": 32,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121897": 106,
+      "gas:candidate-vibid:1001000112245": 640,
+      "gas:candidate-vibid:1001000136108": 31,
+      "gas:candidate-vibid:361300570441": 1,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 2,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 15,
+      "gas:candidate-vibid:361300570502": 15,
+      "gas:candidate-vibid:1001000202326": 32,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10074,17 +10074,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 80,
-      "Емельянов Михаил Васильевич": 239,
-      "Зайналабидов Марат Салавович": 18,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 5,
-      "Нетребов Юрий Викторович": 1,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 2,
-      "Стуров Борис Николаевич": 7,
-      "Чернов Виктор Николаевич": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121897": 80,
+      "gas:candidate-vibid:1001000112245": 239,
+      "gas:candidate-vibid:1001000136108": 18,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 5,
+      "gas:candidate-vibid:361300570447": 1,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 2,
+      "gas:candidate-vibid:361300570502": 7,
+      "gas:candidate-vibid:1001000202326": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10134,17 +10134,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 195,
-      "Емельянов Михаил Васильевич": 450,
-      "Зайналабидов Марат Салавович": 36,
-      "Зарипов Альберт Маратович": 9,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 2,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 9,
-      "Стуров Борис Николаевич": 25,
-      "Чернов Виктор Николаевич": 38,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121897": 195,
+      "gas:candidate-vibid:1001000112245": 450,
+      "gas:candidate-vibid:1001000136108": 36,
+      "gas:candidate-vibid:361300570441": 9,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 2,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 9,
+      "gas:candidate-vibid:361300570502": 25,
+      "gas:candidate-vibid:1001000202326": 38,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10194,17 +10194,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 30,
-      "Емельянов Михаил Васильевич": 68,
-      "Зайналабидов Марат Салавович": 14,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 2,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 0,
-      "Побегайлов Олег Анатольевич": 3,
-      "Стуров Борис Николаевич": 3,
-      "Чернов Виктор Николаевич": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121897": 30,
+      "gas:candidate-vibid:1001000112245": 68,
+      "gas:candidate-vibid:1001000136108": 14,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 2,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 0,
+      "gas:candidate-vibid:1001000199632": 3,
+      "gas:candidate-vibid:361300570502": 3,
+      "gas:candidate-vibid:1001000202326": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10254,17 +10254,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 134,
-      "Емельянов Михаил Васильевич": 358,
-      "Зайналабидов Марат Салавович": 17,
-      "Зарипов Альберт Маратович": 0,
-      "Крючков Александр Владимирович": 5,
-      "Нетребов Юрий Викторович": 1,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 4,
-      "Стуров Борис Николаевич": 4,
-      "Чернов Виктор Николаевич": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121897": 134,
+      "gas:candidate-vibid:1001000112245": 358,
+      "gas:candidate-vibid:1001000136108": 17,
+      "gas:candidate-vibid:361300570441": 0,
+      "gas:candidate-vibid:1001000195128": 5,
+      "gas:candidate-vibid:361300570447": 1,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 4,
+      "gas:candidate-vibid:361300570502": 4,
+      "gas:candidate-vibid:1001000202326": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10314,17 +10314,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 83,
-      "Емельянов Михаил Васильевич": 329,
-      "Зайналабидов Марат Салавович": 17,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 6,
-      "Нетребов Юрий Викторович": 1,
-      "Пелипенко Алексей Алексеевич": 2,
-      "Побегайлов Олег Анатольевич": 3,
-      "Стуров Борис Николаевич": 1,
-      "Чернов Виктор Николаевич": 8,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121897": 83,
+      "gas:candidate-vibid:1001000112245": 329,
+      "gas:candidate-vibid:1001000136108": 17,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 6,
+      "gas:candidate-vibid:361300570447": 1,
+      "gas:candidate-vibid:361300570524": 2,
+      "gas:candidate-vibid:1001000199632": 3,
+      "gas:candidate-vibid:361300570502": 1,
+      "gas:candidate-vibid:1001000202326": 8,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10374,17 +10374,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 20,
-      "Емельянов Михаил Васильевич": 85,
-      "Зайналабидов Марат Салавович": 7,
-      "Зарипов Альберт Маратович": 1,
-      "Крючков Александр Владимирович": 1,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 0,
-      "Стуров Борис Николаевич": 3,
-      "Чернов Виктор Николаевич": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121897": 20,
+      "gas:candidate-vibid:1001000112245": 85,
+      "gas:candidate-vibid:1001000136108": 7,
+      "gas:candidate-vibid:361300570441": 1,
+      "gas:candidate-vibid:1001000195128": 1,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 0,
+      "gas:candidate-vibid:361300570502": 3,
+      "gas:candidate-vibid:1001000202326": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571235&region=0&sub_region=0&type=429",
@@ -10434,17 +10434,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 376,
-      "Емельянов Михаил Васильевич": 484,
-      "Зайналабидов Марат Салавович": 38,
-      "Зарипов Альберт Маратович": 2,
-      "Крючков Александр Владимирович": 16,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 14,
-      "Стуров Борис Николаевич": 28,
-      "Чернов Виктор Николаевич": 57,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000121897": 376,
+      "gas:candidate-vibid:1001000112245": 484,
+      "gas:candidate-vibid:1001000136108": 38,
+      "gas:candidate-vibid:361300570441": 2,
+      "gas:candidate-vibid:1001000195128": 16,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 14,
+      "gas:candidate-vibid:361300570502": 28,
+      "gas:candidate-vibid:1001000202326": 57,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10494,17 +10494,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 286,
-      "Емельянов Михаил Васильевич": 475,
-      "Зайналабидов Марат Салавович": 28,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 11,
-      "Нетребов Юрий Викторович": 12,
-      "Пелипенко Алексей Алексеевич": 11,
-      "Побегайлов Олег Анатольевич": 16,
-      "Стуров Борис Николаевич": 22,
-      "Чернов Виктор Николаевич": 52,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121897": 286,
+      "gas:candidate-vibid:1001000112245": 475,
+      "gas:candidate-vibid:1001000136108": 28,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 11,
+      "gas:candidate-vibid:361300570447": 12,
+      "gas:candidate-vibid:361300570524": 11,
+      "gas:candidate-vibid:1001000199632": 16,
+      "gas:candidate-vibid:361300570502": 22,
+      "gas:candidate-vibid:1001000202326": 52,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10554,17 +10554,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 349,
-      "Емельянов Михаил Васильевич": 528,
-      "Зайналабидов Марат Салавович": 42,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 17,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 17,
-      "Стуров Борис Николаевич": 27,
-      "Чернов Виктор Николаевич": 52,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000121897": 349,
+      "gas:candidate-vibid:1001000112245": 528,
+      "gas:candidate-vibid:1001000136108": 42,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 17,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 17,
+      "gas:candidate-vibid:361300570502": 27,
+      "gas:candidate-vibid:1001000202326": 52,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10614,17 +10614,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 347,
-      "Емельянов Михаил Васильевич": 611,
-      "Зайналабидов Марат Салавович": 37,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 23,
-      "Чернов Виктор Николаевич": 26,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000121897": 347,
+      "gas:candidate-vibid:1001000112245": 611,
+      "gas:candidate-vibid:1001000136108": 37,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 23,
+      "gas:candidate-vibid:1001000202326": 26,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10674,17 +10674,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 333,
-      "Емельянов Михаил Васильевич": 577,
-      "Зайналабидов Марат Салавович": 54,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 13,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 17,
-      "Стуров Борис Николаевич": 74,
-      "Чернов Виктор Николаевич": 62,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000121897": 333,
+      "gas:candidate-vibid:1001000112245": 577,
+      "gas:candidate-vibid:1001000136108": 54,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 13,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 17,
+      "gas:candidate-vibid:361300570502": 74,
+      "gas:candidate-vibid:1001000202326": 62,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10734,17 +10734,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 408,
-      "Емельянов Михаил Васильевич": 614,
-      "Зайналабидов Марат Салавович": 58,
-      "Зарипов Альберт Маратович": 3,
-      "Крючков Александр Владимирович": 10,
-      "Нетребов Юрий Викторович": 11,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 16,
-      "Стуров Борис Николаевич": 57,
-      "Чернов Виктор Николаевич": 67,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000121897": 408,
+      "gas:candidate-vibid:1001000112245": 614,
+      "gas:candidate-vibid:1001000136108": 58,
+      "gas:candidate-vibid:361300570441": 3,
+      "gas:candidate-vibid:1001000195128": 10,
+      "gas:candidate-vibid:361300570447": 11,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 16,
+      "gas:candidate-vibid:361300570502": 57,
+      "gas:candidate-vibid:1001000202326": 67,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10794,17 +10794,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 349,
-      "Емельянов Михаил Васильевич": 416,
-      "Зайналабидов Марат Салавович": 38,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 19,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 11,
-      "Стуров Борис Николаевич": 34,
-      "Чернов Виктор Николаевич": 35,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000121897": 349,
+      "gas:candidate-vibid:1001000112245": 416,
+      "gas:candidate-vibid:1001000136108": 38,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 19,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 11,
+      "gas:candidate-vibid:361300570502": 34,
+      "gas:candidate-vibid:1001000202326": 35,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10854,17 +10854,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 333,
-      "Емельянов Михаил Васильевич": 476,
-      "Зайналабидов Марат Салавович": 42,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 19,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 13,
-      "Стуров Борис Николаевич": 54,
-      "Чернов Виктор Николаевич": 32,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121897": 333,
+      "gas:candidate-vibid:1001000112245": 476,
+      "gas:candidate-vibid:1001000136108": 42,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 19,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 13,
+      "gas:candidate-vibid:361300570502": 54,
+      "gas:candidate-vibid:1001000202326": 32,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10914,17 +10914,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 303,
-      "Емельянов Михаил Васильевич": 556,
-      "Зайналабидов Марат Салавович": 44,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 15,
-      "Нетребов Юрий Викторович": 14,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 17,
-      "Стуров Борис Николаевич": 37,
-      "Чернов Виктор Николаевич": 65,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000121897": 303,
+      "gas:candidate-vibid:1001000112245": 556,
+      "gas:candidate-vibid:1001000136108": 44,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 15,
+      "gas:candidate-vibid:361300570447": 14,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 17,
+      "gas:candidate-vibid:361300570502": 37,
+      "gas:candidate-vibid:1001000202326": 65,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -10974,17 +10974,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 370,
-      "Емельянов Михаил Васильевич": 578,
-      "Зайналабидов Марат Салавович": 43,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 17,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 27,
-      "Стуров Борис Николаевич": 40,
-      "Чернов Виктор Николаевич": 75,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121897": 370,
+      "gas:candidate-vibid:1001000112245": 578,
+      "gas:candidate-vibid:1001000136108": 43,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 17,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 27,
+      "gas:candidate-vibid:361300570502": 40,
+      "gas:candidate-vibid:1001000202326": 75,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11034,17 +11034,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 329,
-      "Емельянов Михаил Васильевич": 600,
-      "Зайналабидов Марат Салавович": 43,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 22,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 10,
-      "Побегайлов Олег Анатольевич": 38,
-      "Стуров Борис Николаевич": 39,
-      "Чернов Виктор Николаевич": 63,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000121897": 329,
+      "gas:candidate-vibid:1001000112245": 600,
+      "gas:candidate-vibid:1001000136108": 43,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 22,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 10,
+      "gas:candidate-vibid:1001000199632": 38,
+      "gas:candidate-vibid:361300570502": 39,
+      "gas:candidate-vibid:1001000202326": 63,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11094,17 +11094,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 272,
-      "Емельянов Михаил Васильевич": 392,
-      "Зайналабидов Марат Салавович": 55,
-      "Зарипов Альберт Маратович": 11,
-      "Крючков Александр Владимирович": 13,
-      "Нетребов Юрий Викторович": 13,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 16,
-      "Стуров Борис Николаевич": 52,
-      "Чернов Виктор Николаевич": 71,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000121897": 272,
+      "gas:candidate-vibid:1001000112245": 392,
+      "gas:candidate-vibid:1001000136108": 55,
+      "gas:candidate-vibid:361300570441": 11,
+      "gas:candidate-vibid:1001000195128": 13,
+      "gas:candidate-vibid:361300570447": 13,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 16,
+      "gas:candidate-vibid:361300570502": 52,
+      "gas:candidate-vibid:1001000202326": 71,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11154,17 +11154,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 346,
-      "Емельянов Михаил Васильевич": 582,
-      "Зайналабидов Марат Салавович": 61,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 15,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 23,
-      "Стуров Борис Николаевич": 68,
-      "Чернов Виктор Николаевич": 94,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000121897": 346,
+      "gas:candidate-vibid:1001000112245": 582,
+      "gas:candidate-vibid:1001000136108": 61,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 15,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 23,
+      "gas:candidate-vibid:361300570502": 68,
+      "gas:candidate-vibid:1001000202326": 94,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11214,17 +11214,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 361,
-      "Емельянов Михаил Васильевич": 544,
-      "Зайналабидов Марат Салавович": 47,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 13,
-      "Пелипенко Алексей Алексеевич": 10,
-      "Побегайлов Олег Анатольевич": 8,
-      "Стуров Борис Николаевич": 54,
-      "Чернов Виктор Николаевич": 61,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000121897": 361,
+      "gas:candidate-vibid:1001000112245": 544,
+      "gas:candidate-vibid:1001000136108": 47,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 13,
+      "gas:candidate-vibid:361300570524": 10,
+      "gas:candidate-vibid:1001000199632": 8,
+      "gas:candidate-vibid:361300570502": 54,
+      "gas:candidate-vibid:1001000202326": 61,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11274,17 +11274,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 460,
-      "Емельянов Михаил Васильевич": 727,
-      "Зайналабидов Марат Салавович": 57,
-      "Зарипов Альберт Маратович": 20,
-      "Крючков Александр Владимирович": 13,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 10,
-      "Побегайлов Олег Анатольевич": 20,
-      "Стуров Борис Николаевич": 40,
-      "Чернов Виктор Николаевич": 63,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000121897": 460,
+      "gas:candidate-vibid:1001000112245": 727,
+      "gas:candidate-vibid:1001000136108": 57,
+      "gas:candidate-vibid:361300570441": 20,
+      "gas:candidate-vibid:1001000195128": 13,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 10,
+      "gas:candidate-vibid:1001000199632": 20,
+      "gas:candidate-vibid:361300570502": 40,
+      "gas:candidate-vibid:1001000202326": 63,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11334,17 +11334,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 383,
-      "Емельянов Михаил Васильевич": 577,
-      "Зайналабидов Марат Салавович": 57,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 16,
-      "Нетребов Юрий Викторович": 13,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 19,
-      "Стуров Борис Николаевич": 34,
-      "Чернов Виктор Николаевич": 94,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000121897": 383,
+      "gas:candidate-vibid:1001000112245": 577,
+      "gas:candidate-vibid:1001000136108": 57,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 16,
+      "gas:candidate-vibid:361300570447": 13,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 19,
+      "gas:candidate-vibid:361300570502": 34,
+      "gas:candidate-vibid:1001000202326": 94,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11394,17 +11394,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 375,
-      "Емельянов Михаил Васильевич": 643,
-      "Зайналабидов Марат Салавович": 42,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 13,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 19,
-      "Стуров Борис Николаевич": 48,
-      "Чернов Виктор Николаевич": 72,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000121897": 375,
+      "gas:candidate-vibid:1001000112245": 643,
+      "gas:candidate-vibid:1001000136108": 42,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 13,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 19,
+      "gas:candidate-vibid:361300570502": 48,
+      "gas:candidate-vibid:1001000202326": 72,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11454,17 +11454,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 298,
-      "Емельянов Михаил Васильевич": 485,
-      "Зайналабидов Марат Салавович": 33,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 15,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 26,
-      "Стуров Борис Николаевич": 39,
-      "Чернов Виктор Николаевич": 64,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121897": 298,
+      "gas:candidate-vibid:1001000112245": 485,
+      "gas:candidate-vibid:1001000136108": 33,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 15,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 26,
+      "gas:candidate-vibid:361300570502": 39,
+      "gas:candidate-vibid:1001000202326": 64,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11514,17 +11514,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 251,
-      "Емельянов Михаил Васильевич": 440,
-      "Зайналабидов Марат Салавович": 41,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 2,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 8,
-      "Стуров Борис Николаевич": 32,
-      "Чернов Виктор Николаевич": 47,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121897": 251,
+      "gas:candidate-vibid:1001000112245": 440,
+      "gas:candidate-vibid:1001000136108": 41,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 2,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 8,
+      "gas:candidate-vibid:361300570502": 32,
+      "gas:candidate-vibid:1001000202326": 47,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11574,17 +11574,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 284,
-      "Емельянов Михаил Васильевич": 432,
-      "Зайналабидов Марат Салавович": 34,
-      "Зарипов Альберт Маратович": 9,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 3,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 53,
-      "Чернов Виктор Николаевич": 42,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000121897": 284,
+      "gas:candidate-vibid:1001000112245": 432,
+      "gas:candidate-vibid:1001000136108": 34,
+      "gas:candidate-vibid:361300570441": 9,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 3,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 53,
+      "gas:candidate-vibid:1001000202326": 42,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11634,17 +11634,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 313,
-      "Емельянов Михаил Васильевич": 468,
-      "Зайналабидов Марат Салавович": 48,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 8,
-      "Нетребов Юрий Викторович": 3,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 26,
-      "Чернов Виктор Николаевич": 57,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000121897": 313,
+      "gas:candidate-vibid:1001000112245": 468,
+      "gas:candidate-vibid:1001000136108": 48,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 8,
+      "gas:candidate-vibid:361300570447": 3,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 26,
+      "gas:candidate-vibid:1001000202326": 57,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11694,17 +11694,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 255,
-      "Емельянов Михаил Васильевич": 507,
-      "Зайналабидов Марат Салавович": 48,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 6,
-      "Нетребов Юрий Викторович": 10,
-      "Пелипенко Алексей Алексеевич": 15,
-      "Побегайлов Олег Анатольевич": 18,
-      "Стуров Борис Николаевич": 39,
-      "Чернов Виктор Николаевич": 40,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000121897": 255,
+      "gas:candidate-vibid:1001000112245": 507,
+      "gas:candidate-vibid:1001000136108": 48,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 6,
+      "gas:candidate-vibid:361300570447": 10,
+      "gas:candidate-vibid:361300570524": 15,
+      "gas:candidate-vibid:1001000199632": 18,
+      "gas:candidate-vibid:361300570502": 39,
+      "gas:candidate-vibid:1001000202326": 40,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11754,17 +11754,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 303,
-      "Емельянов Михаил Васильевич": 430,
-      "Зайналабидов Марат Салавович": 56,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 8,
-      "Нетребов Юрий Викторович": 9,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 13,
-      "Стуров Борис Николаевич": 41,
-      "Чернов Виктор Николаевич": 34,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121897": 303,
+      "gas:candidate-vibid:1001000112245": 430,
+      "gas:candidate-vibid:1001000136108": 56,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 8,
+      "gas:candidate-vibid:361300570447": 9,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 13,
+      "gas:candidate-vibid:361300570502": 41,
+      "gas:candidate-vibid:1001000202326": 34,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11814,17 +11814,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 150,
-      "Емельянов Михаил Васильевич": 211,
-      "Зайналабидов Марат Салавович": 51,
-      "Зарипов Альберт Маратович": 16,
-      "Крючков Александр Владимирович": 16,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 10,
-      "Побегайлов Олег Анатольевич": 18,
-      "Стуров Борис Николаевич": 22,
-      "Чернов Виктор Николаевич": 38,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000121897": 150,
+      "gas:candidate-vibid:1001000112245": 211,
+      "gas:candidate-vibid:1001000136108": 51,
+      "gas:candidate-vibid:361300570441": 16,
+      "gas:candidate-vibid:1001000195128": 16,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 10,
+      "gas:candidate-vibid:1001000199632": 18,
+      "gas:candidate-vibid:361300570502": 22,
+      "gas:candidate-vibid:1001000202326": 38,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11874,17 +11874,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 333,
-      "Емельянов Михаил Васильевич": 529,
-      "Зайналабидов Марат Салавович": 33,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 9,
-      "Стуров Борис Николаевич": 75,
-      "Чернов Виктор Николаевич": 46,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000121897": 333,
+      "gas:candidate-vibid:1001000112245": 529,
+      "gas:candidate-vibid:1001000136108": 33,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 9,
+      "gas:candidate-vibid:361300570502": 75,
+      "gas:candidate-vibid:1001000202326": 46,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11934,17 +11934,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 332,
-      "Емельянов Михаил Васильевич": 451,
-      "Зайналабидов Марат Салавович": 57,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 15,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 13,
-      "Побегайлов Олег Анатольевич": 26,
-      "Стуров Борис Николаевич": 47,
-      "Чернов Виктор Николаевич": 39,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000121897": 332,
+      "gas:candidate-vibid:1001000112245": 451,
+      "gas:candidate-vibid:1001000136108": 57,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 15,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 13,
+      "gas:candidate-vibid:1001000199632": 26,
+      "gas:candidate-vibid:361300570502": 47,
+      "gas:candidate-vibid:1001000202326": 39,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -11994,17 +11994,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 344,
-      "Емельянов Михаил Васильевич": 637,
-      "Зайналабидов Марат Салавович": 72,
-      "Зарипов Альберт Маратович": 21,
-      "Крючков Александр Владимирович": 21,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 16,
-      "Стуров Борис Николаевич": 39,
-      "Чернов Виктор Николаевич": 55,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000121897": 344,
+      "gas:candidate-vibid:1001000112245": 637,
+      "gas:candidate-vibid:1001000136108": 72,
+      "gas:candidate-vibid:361300570441": 21,
+      "gas:candidate-vibid:1001000195128": 21,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 16,
+      "gas:candidate-vibid:361300570502": 39,
+      "gas:candidate-vibid:1001000202326": 55,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12054,17 +12054,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 397,
-      "Емельянов Михаил Васильевич": 435,
-      "Зайналабидов Марат Салавович": 67,
-      "Зарипов Альберт Маратович": 14,
-      "Крючков Александр Владимирович": 15,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 3,
-      "Побегайлов Олег Анатольевич": 25,
-      "Стуров Борис Николаевич": 44,
-      "Чернов Виктор Николаевич": 59,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000121897": 397,
+      "gas:candidate-vibid:1001000112245": 435,
+      "gas:candidate-vibid:1001000136108": 67,
+      "gas:candidate-vibid:361300570441": 14,
+      "gas:candidate-vibid:1001000195128": 15,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 3,
+      "gas:candidate-vibid:1001000199632": 25,
+      "gas:candidate-vibid:361300570502": 44,
+      "gas:candidate-vibid:1001000202326": 59,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12114,17 +12114,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 252,
-      "Емельянов Михаил Васильевич": 639,
-      "Зайналабидов Марат Салавович": 47,
-      "Зарипов Альберт Маратович": 12,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 12,
-      "Побегайлов Олег Анатольевич": 18,
-      "Стуров Борис Николаевич": 52,
-      "Чернов Виктор Николаевич": 57,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000121897": 252,
+      "gas:candidate-vibid:1001000112245": 639,
+      "gas:candidate-vibid:1001000136108": 47,
+      "gas:candidate-vibid:361300570441": 12,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 12,
+      "gas:candidate-vibid:1001000199632": 18,
+      "gas:candidate-vibid:361300570502": 52,
+      "gas:candidate-vibid:1001000202326": 57,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12174,17 +12174,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 243,
-      "Емельянов Михаил Васильевич": 492,
-      "Зайналабидов Марат Салавович": 62,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 1,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 18,
-      "Стуров Борис Николаевич": 51,
-      "Чернов Виктор Николаевич": 29,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000121897": 243,
+      "gas:candidate-vibid:1001000112245": 492,
+      "gas:candidate-vibid:1001000136108": 62,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 1,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 18,
+      "gas:candidate-vibid:361300570502": 51,
+      "gas:candidate-vibid:1001000202326": 29,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12234,17 +12234,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 242,
-      "Емельянов Михаил Васильевич": 327,
-      "Зайналабидов Марат Салавович": 58,
-      "Зарипов Альберт Маратович": 15,
-      "Крючков Александр Владимирович": 4,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 14,
-      "Побегайлов Олег Анатольевич": 9,
-      "Стуров Борис Николаевич": 30,
-      "Чернов Виктор Николаевич": 32,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000121897": 242,
+      "gas:candidate-vibid:1001000112245": 327,
+      "gas:candidate-vibid:1001000136108": 58,
+      "gas:candidate-vibid:361300570441": 15,
+      "gas:candidate-vibid:1001000195128": 4,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 14,
+      "gas:candidate-vibid:1001000199632": 9,
+      "gas:candidate-vibid:361300570502": 30,
+      "gas:candidate-vibid:1001000202326": 32,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12294,17 +12294,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 284,
-      "Емельянов Михаил Васильевич": 404,
-      "Зайналабидов Марат Салавович": 63,
-      "Зарипов Альберт Маратович": 9,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 24,
-      "Стуров Борис Николаевич": 28,
-      "Чернов Виктор Николаевич": 49,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000121897": 284,
+      "gas:candidate-vibid:1001000112245": 404,
+      "gas:candidate-vibid:1001000136108": 63,
+      "gas:candidate-vibid:361300570441": 9,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 24,
+      "gas:candidate-vibid:361300570502": 28,
+      "gas:candidate-vibid:1001000202326": 49,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12354,17 +12354,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 286,
-      "Емельянов Михаил Васильевич": 547,
-      "Зайналабидов Марат Салавович": 62,
-      "Зарипов Альберт Маратович": 17,
-      "Крючков Александр Владимирович": 16,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 14,
-      "Стуров Борис Николаевич": 52,
-      "Чернов Виктор Николаевич": 64,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000121897": 286,
+      "gas:candidate-vibid:1001000112245": 547,
+      "gas:candidate-vibid:1001000136108": 62,
+      "gas:candidate-vibid:361300570441": 17,
+      "gas:candidate-vibid:1001000195128": 16,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 14,
+      "gas:candidate-vibid:361300570502": 52,
+      "gas:candidate-vibid:1001000202326": 64,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12414,17 +12414,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 284,
-      "Емельянов Михаил Васильевич": 453,
-      "Зайналабидов Марат Салавович": 41,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 17,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 10,
-      "Побегайлов Олег Анатольевич": 23,
-      "Стуров Борис Николаевич": 49,
-      "Чернов Виктор Николаевич": 45,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000121897": 284,
+      "gas:candidate-vibid:1001000112245": 453,
+      "gas:candidate-vibid:1001000136108": 41,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 17,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 10,
+      "gas:candidate-vibid:1001000199632": 23,
+      "gas:candidate-vibid:361300570502": 49,
+      "gas:candidate-vibid:1001000202326": 45,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12474,17 +12474,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 259,
-      "Емельянов Михаил Васильевич": 516,
-      "Зайналабидов Марат Салавович": 59,
-      "Зарипов Альберт Маратович": 20,
-      "Крючков Александр Владимирович": 13,
-      "Нетребов Юрий Викторович": 9,
-      "Пелипенко Алексей Алексеевич": 10,
-      "Побегайлов Олег Анатольевич": 24,
-      "Стуров Борис Николаевич": 67,
-      "Чернов Виктор Николаевич": 78,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000121897": 259,
+      "gas:candidate-vibid:1001000112245": 516,
+      "gas:candidate-vibid:1001000136108": 59,
+      "gas:candidate-vibid:361300570441": 20,
+      "gas:candidate-vibid:1001000195128": 13,
+      "gas:candidate-vibid:361300570447": 9,
+      "gas:candidate-vibid:361300570524": 10,
+      "gas:candidate-vibid:1001000199632": 24,
+      "gas:candidate-vibid:361300570502": 67,
+      "gas:candidate-vibid:1001000202326": 78,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12534,17 +12534,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 301,
-      "Емельянов Михаил Васильевич": 411,
-      "Зайналабидов Марат Салавович": 54,
-      "Зарипов Альберт Маратович": 14,
-      "Крючков Александр Владимирович": 14,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 30,
-      "Стуров Борис Николаевич": 40,
-      "Чернов Виктор Николаевич": 35,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000121897": 301,
+      "gas:candidate-vibid:1001000112245": 411,
+      "gas:candidate-vibid:1001000136108": 54,
+      "gas:candidate-vibid:361300570441": 14,
+      "gas:candidate-vibid:1001000195128": 14,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 30,
+      "gas:candidate-vibid:361300570502": 40,
+      "gas:candidate-vibid:1001000202326": 35,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12594,17 +12594,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 199,
-      "Емельянов Михаил Васильевич": 319,
-      "Зайналабидов Марат Салавович": 37,
-      "Зарипов Альберт Маратович": 10,
-      "Крючков Александр Владимирович": 11,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 14,
-      "Стуров Борис Николаевич": 32,
-      "Чернов Виктор Николаевич": 32,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000121897": 199,
+      "gas:candidate-vibid:1001000112245": 319,
+      "gas:candidate-vibid:1001000136108": 37,
+      "gas:candidate-vibid:361300570441": 10,
+      "gas:candidate-vibid:1001000195128": 11,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 14,
+      "gas:candidate-vibid:361300570502": 32,
+      "gas:candidate-vibid:1001000202326": 32,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12654,17 +12654,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 219,
-      "Емельянов Михаил Васильевич": 662,
-      "Зайналабидов Марат Салавович": 52,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 9,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 13,
-      "Побегайлов Олег Анатольевич": 15,
-      "Стуров Борис Николаевич": 28,
-      "Чернов Виктор Николаевич": 59,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000121897": 219,
+      "gas:candidate-vibid:1001000112245": 662,
+      "gas:candidate-vibid:1001000136108": 52,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 9,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 13,
+      "gas:candidate-vibid:1001000199632": 15,
+      "gas:candidate-vibid:361300570502": 28,
+      "gas:candidate-vibid:1001000202326": 59,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12714,17 +12714,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 194,
-      "Емельянов Михаил Васильевич": 332,
-      "Зайналабидов Марат Салавович": 48,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 20,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 9,
-      "Побегайлов Олег Анатольевич": 26,
-      "Стуров Борис Николаевич": 36,
-      "Чернов Виктор Николаевич": 49,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000121897": 194,
+      "gas:candidate-vibid:1001000112245": 332,
+      "gas:candidate-vibid:1001000136108": 48,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 20,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 9,
+      "gas:candidate-vibid:1001000199632": 26,
+      "gas:candidate-vibid:361300570502": 36,
+      "gas:candidate-vibid:1001000202326": 49,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12774,17 +12774,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 277,
-      "Емельянов Михаил Васильевич": 1041,
-      "Зайналабидов Марат Салавович": 84,
-      "Зарипов Альберт Маратович": 16,
-      "Крючков Александр Владимирович": 28,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 9,
-      "Побегайлов Олег Анатольевич": 35,
-      "Стуров Борис Николаевич": 51,
-      "Чернов Виктор Николаевич": 76,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000121897": 277,
+      "gas:candidate-vibid:1001000112245": 1041,
+      "gas:candidate-vibid:1001000136108": 84,
+      "gas:candidate-vibid:361300570441": 16,
+      "gas:candidate-vibid:1001000195128": 28,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 9,
+      "gas:candidate-vibid:1001000199632": 35,
+      "gas:candidate-vibid:361300570502": 51,
+      "gas:candidate-vibid:1001000202326": 76,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12834,17 +12834,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 249,
-      "Емельянов Михаил Васильевич": 422,
-      "Зайналабидов Марат Салавович": 53,
-      "Зарипов Альберт Маратович": 11,
-      "Крючков Александр Владимирович": 16,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 8,
-      "Побегайлов Олег Анатольевич": 28,
-      "Стуров Борис Николаевич": 36,
-      "Чернов Виктор Николаевич": 54,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000121897": 249,
+      "gas:candidate-vibid:1001000112245": 422,
+      "gas:candidate-vibid:1001000136108": 53,
+      "gas:candidate-vibid:361300570441": 11,
+      "gas:candidate-vibid:1001000195128": 16,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 8,
+      "gas:candidate-vibid:1001000199632": 28,
+      "gas:candidate-vibid:361300570502": 36,
+      "gas:candidate-vibid:1001000202326": 54,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12894,17 +12894,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 174,
-      "Емельянов Михаил Васильевич": 175,
-      "Зайналабидов Марат Салавович": 25,
-      "Зарипов Альберт Маратович": 1,
-      "Крючков Александр Владимирович": 10,
-      "Нетребов Юрий Викторович": 5,
-      "Пелипенко Алексей Алексеевич": 3,
-      "Побегайлов Олег Анатольевич": 5,
-      "Стуров Борис Николаевич": 15,
-      "Чернов Виктор Николаевич": 22,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000121897": 174,
+      "gas:candidate-vibid:1001000112245": 175,
+      "gas:candidate-vibid:1001000136108": 25,
+      "gas:candidate-vibid:361300570441": 1,
+      "gas:candidate-vibid:1001000195128": 10,
+      "gas:candidate-vibid:361300570447": 5,
+      "gas:candidate-vibid:361300570524": 3,
+      "gas:candidate-vibid:1001000199632": 5,
+      "gas:candidate-vibid:361300570502": 15,
+      "gas:candidate-vibid:1001000202326": 22,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -12954,17 +12954,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 94,
-      "Емельянов Михаил Васильевич": 133,
-      "Зайналабидов Марат Салавович": 18,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 8,
-      "Нетребов Юрий Викторович": 3,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 4,
-      "Стуров Борис Николаевич": 22,
-      "Чернов Виктор Николаевич": 6,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121897": 94,
+      "gas:candidate-vibid:1001000112245": 133,
+      "gas:candidate-vibid:1001000136108": 18,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 8,
+      "gas:candidate-vibid:361300570447": 3,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 4,
+      "gas:candidate-vibid:361300570502": 22,
+      "gas:candidate-vibid:1001000202326": 6,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13014,17 +13014,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 229,
-      "Емельянов Михаил Васильевич": 413,
-      "Зайналабидов Марат Салавович": 40,
-      "Зарипов Альберт Маратович": 18,
-      "Крючков Александр Владимирович": 9,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 3,
-      "Побегайлов Олег Анатольевич": 8,
-      "Стуров Борис Николаевич": 39,
-      "Чернов Виктор Николаевич": 59,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000121897": 229,
+      "gas:candidate-vibid:1001000112245": 413,
+      "gas:candidate-vibid:1001000136108": 40,
+      "gas:candidate-vibid:361300570441": 18,
+      "gas:candidate-vibid:1001000195128": 9,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 3,
+      "gas:candidate-vibid:1001000199632": 8,
+      "gas:candidate-vibid:361300570502": 39,
+      "gas:candidate-vibid:1001000202326": 59,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13074,17 +13074,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 287,
-      "Емельянов Михаил Васильевич": 583,
-      "Зайналабидов Марат Салавович": 42,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 9,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 29,
-      "Стуров Борис Николаевич": 37,
-      "Чернов Виктор Николаевич": 49,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000121897": 287,
+      "gas:candidate-vibid:1001000112245": 583,
+      "gas:candidate-vibid:1001000136108": 42,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 9,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 29,
+      "gas:candidate-vibid:361300570502": 37,
+      "gas:candidate-vibid:1001000202326": 49,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13134,17 +13134,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 246,
-      "Емельянов Михаил Васильевич": 424,
-      "Зайналабидов Марат Салавович": 55,
-      "Зарипов Альберт Маратович": 33,
-      "Крючков Александр Владимирович": 10,
-      "Нетребов Юрий Викторович": 10,
-      "Пелипенко Алексей Алексеевич": 11,
-      "Побегайлов Олег Анатольевич": 19,
-      "Стуров Борис Николаевич": 47,
-      "Чернов Виктор Николаевич": 59,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000121897": 246,
+      "gas:candidate-vibid:1001000112245": 424,
+      "gas:candidate-vibid:1001000136108": 55,
+      "gas:candidate-vibid:361300570441": 33,
+      "gas:candidate-vibid:1001000195128": 10,
+      "gas:candidate-vibid:361300570447": 10,
+      "gas:candidate-vibid:361300570524": 11,
+      "gas:candidate-vibid:1001000199632": 19,
+      "gas:candidate-vibid:361300570502": 47,
+      "gas:candidate-vibid:1001000202326": 59,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13194,17 +13194,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 184,
-      "Емельянов Михаил Васильевич": 261,
-      "Зайналабидов Марат Салавович": 33,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 3,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 14,
-      "Стуров Борис Николаевич": 35,
-      "Чернов Виктор Николаевич": 39,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000121897": 184,
+      "gas:candidate-vibid:1001000112245": 261,
+      "gas:candidate-vibid:1001000136108": 33,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 3,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 14,
+      "gas:candidate-vibid:361300570502": 35,
+      "gas:candidate-vibid:1001000202326": 39,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13254,17 +13254,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 86,
-      "Емельянов Михаил Васильевич": 199,
-      "Зайналабидов Марат Салавович": 28,
-      "Зарипов Альберт Маратович": 3,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 9,
-      "Стуров Борис Николаевич": 27,
-      "Чернов Виктор Николаевич": 46,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121897": 86,
+      "gas:candidate-vibid:1001000112245": 199,
+      "gas:candidate-vibid:1001000136108": 28,
+      "gas:candidate-vibid:361300570441": 3,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 9,
+      "gas:candidate-vibid:361300570502": 27,
+      "gas:candidate-vibid:1001000202326": 46,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13314,17 +13314,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 167,
-      "Емельянов Михаил Васильевич": 215,
-      "Зайналабидов Марат Салавович": 30,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 3,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 8,
-      "Стуров Борис Николаевич": 13,
-      "Чернов Виктор Николаевич": 24,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121897": 167,
+      "gas:candidate-vibid:1001000112245": 215,
+      "gas:candidate-vibid:1001000136108": 30,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 3,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 8,
+      "gas:candidate-vibid:361300570502": 13,
+      "gas:candidate-vibid:1001000202326": 24,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13374,17 +13374,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 199,
-      "Емельянов Михаил Васильевич": 381,
-      "Зайналабидов Марат Салавович": 37,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 10,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 2,
-      "Побегайлов Олег Анатольевич": 15,
-      "Стуров Борис Николаевич": 21,
-      "Чернов Виктор Николаевич": 38,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000121897": 199,
+      "gas:candidate-vibid:1001000112245": 381,
+      "gas:candidate-vibid:1001000136108": 37,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 10,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 2,
+      "gas:candidate-vibid:1001000199632": 15,
+      "gas:candidate-vibid:361300570502": 21,
+      "gas:candidate-vibid:1001000202326": 38,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13434,17 +13434,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 265,
-      "Емельянов Михаил Васильевич": 414,
-      "Зайналабидов Марат Салавович": 53,
-      "Зарипов Альберт Маратович": 19,
-      "Крючков Александр Владимирович": 13,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 12,
-      "Побегайлов Олег Анатольевич": 14,
-      "Стуров Борис Николаевич": 40,
-      "Чернов Виктор Николаевич": 49,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000121897": 265,
+      "gas:candidate-vibid:1001000112245": 414,
+      "gas:candidate-vibid:1001000136108": 53,
+      "gas:candidate-vibid:361300570441": 19,
+      "gas:candidate-vibid:1001000195128": 13,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 12,
+      "gas:candidate-vibid:1001000199632": 14,
+      "gas:candidate-vibid:361300570502": 40,
+      "gas:candidate-vibid:1001000202326": 49,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571237&region=0&sub_region=0&type=429",
@@ -13494,17 +13494,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 238,
-      "Емельянов Михаил Васильевич": 446,
-      "Зайналабидов Марат Салавович": 59,
-      "Зарипов Альберт Маратович": 8,
-      "Крючков Александр Владимирович": 9,
-      "Нетребов Юрий Викторович": 4,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 7,
-      "Стуров Борис Николаевич": 91,
-      "Чернов Виктор Николаевич": 54,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000121897": 238,
+      "gas:candidate-vibid:1001000112245": 446,
+      "gas:candidate-vibid:1001000136108": 59,
+      "gas:candidate-vibid:361300570441": 8,
+      "gas:candidate-vibid:1001000195128": 9,
+      "gas:candidate-vibid:361300570447": 4,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 7,
+      "gas:candidate-vibid:361300570502": 91,
+      "gas:candidate-vibid:1001000202326": 54,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13554,17 +13554,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 155,
-      "Емельянов Михаил Васильевич": 325,
-      "Зайналабидов Марат Салавович": 39,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 3,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 5,
-      "Побегайлов Олег Анатольевич": 9,
-      "Стуров Борис Николаевич": 60,
-      "Чернов Виктор Николаевич": 25,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121897": 155,
+      "gas:candidate-vibid:1001000112245": 325,
+      "gas:candidate-vibid:1001000136108": 39,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 3,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 5,
+      "gas:candidate-vibid:1001000199632": 9,
+      "gas:candidate-vibid:361300570502": 60,
+      "gas:candidate-vibid:1001000202326": 25,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13614,17 +13614,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 312,
-      "Емельянов Михаил Васильевич": 442,
-      "Зайналабидов Марат Салавович": 42,
-      "Зарипов Альберт Маратович": 8,
-      "Крючков Александр Владимирович": 17,
-      "Нетребов Юрий Викторович": 8,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 17,
-      "Стуров Борис Николаевич": 53,
-      "Чернов Виктор Николаевич": 45,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121897": 312,
+      "gas:candidate-vibid:1001000112245": 442,
+      "gas:candidate-vibid:1001000136108": 42,
+      "gas:candidate-vibid:361300570441": 8,
+      "gas:candidate-vibid:1001000195128": 17,
+      "gas:candidate-vibid:361300570447": 8,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 17,
+      "gas:candidate-vibid:361300570502": 53,
+      "gas:candidate-vibid:1001000202326": 45,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13674,17 +13674,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 183,
-      "Емельянов Михаил Васильевич": 382,
-      "Зайналабидов Марат Салавович": 44,
-      "Зарипов Альберт Маратович": 8,
-      "Крючков Александр Владимирович": 7,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 1,
-      "Побегайлов Олег Анатольевич": 7,
-      "Стуров Борис Николаевич": 44,
-      "Чернов Виктор Николаевич": 18,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121897": 183,
+      "gas:candidate-vibid:1001000112245": 382,
+      "gas:candidate-vibid:1001000136108": 44,
+      "gas:candidate-vibid:361300570441": 8,
+      "gas:candidate-vibid:1001000195128": 7,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 1,
+      "gas:candidate-vibid:1001000199632": 7,
+      "gas:candidate-vibid:361300570502": 44,
+      "gas:candidate-vibid:1001000202326": 18,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13734,17 +13734,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 181,
-      "Емельянов Михаил Васильевич": 361,
-      "Зайналабидов Марат Салавович": 46,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 9,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 6,
-      "Побегайлов Олег Анатольевич": 14,
-      "Стуров Борис Николаевич": 56,
-      "Чернов Виктор Николаевич": 32,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121897": 181,
+      "gas:candidate-vibid:1001000112245": 361,
+      "gas:candidate-vibid:1001000136108": 46,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 9,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 6,
+      "gas:candidate-vibid:1001000199632": 14,
+      "gas:candidate-vibid:361300570502": 56,
+      "gas:candidate-vibid:1001000202326": 32,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13794,17 +13794,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 162,
-      "Емельянов Михаил Васильевич": 422,
-      "Зайналабидов Марат Салавович": 25,
-      "Зарипов Альберт Маратович": 6,
-      "Крючков Александр Владимирович": 8,
-      "Нетребов Юрий Викторович": 11,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 11,
-      "Стуров Борис Николаевич": 48,
-      "Чернов Виктор Николаевич": 16,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121897": 162,
+      "gas:candidate-vibid:1001000112245": 422,
+      "gas:candidate-vibid:1001000136108": 25,
+      "gas:candidate-vibid:361300570441": 6,
+      "gas:candidate-vibid:1001000195128": 8,
+      "gas:candidate-vibid:361300570447": 11,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 11,
+      "gas:candidate-vibid:361300570502": 48,
+      "gas:candidate-vibid:1001000202326": 16,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13854,17 +13854,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 157,
-      "Емельянов Михаил Васильевич": 871,
-      "Зайналабидов Марат Салавович": 44,
-      "Зарипов Альберт Маратович": 4,
-      "Крючков Александр Владимирович": 3,
-      "Нетребов Юрий Викторович": 2,
-      "Пелипенко Алексей Алексеевич": 4,
-      "Побегайлов Олег Анатольевич": 13,
-      "Стуров Борис Николаевич": 27,
-      "Чернов Виктор Николаевич": 28,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121897": 157,
+      "gas:candidate-vibid:1001000112245": 871,
+      "gas:candidate-vibid:1001000136108": 44,
+      "gas:candidate-vibid:361300570441": 4,
+      "gas:candidate-vibid:1001000195128": 3,
+      "gas:candidate-vibid:361300570447": 2,
+      "gas:candidate-vibid:361300570524": 4,
+      "gas:candidate-vibid:1001000199632": 13,
+      "gas:candidate-vibid:361300570502": 27,
+      "gas:candidate-vibid:1001000202326": 28,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13914,17 +13914,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 178,
-      "Емельянов Михаил Васильевич": 471,
-      "Зайналабидов Марат Салавович": 36,
-      "Зарипов Альберт Маратович": 5,
-      "Крючков Александр Владимирович": 12,
-      "Нетребов Юрий Викторович": 7,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 10,
-      "Стуров Борис Николаевич": 26,
-      "Чернов Виктор Николаевич": 22,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121897": 178,
+      "gas:candidate-vibid:1001000112245": 471,
+      "gas:candidate-vibid:1001000136108": 36,
+      "gas:candidate-vibid:361300570441": 5,
+      "gas:candidate-vibid:1001000195128": 12,
+      "gas:candidate-vibid:361300570447": 7,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 10,
+      "gas:candidate-vibid:361300570502": 26,
+      "gas:candidate-vibid:1001000202326": 22,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",
@@ -13974,17 +13974,17 @@ export const duma_2003_uik_428_region_61_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бессонов Владимир Иванович": 179,
-      "Емельянов Михаил Васильевич": 467,
-      "Зайналабидов Марат Салавович": 35,
-      "Зарипов Альберт Маратович": 13,
-      "Крючков Александр Владимирович": 8,
-      "Нетребов Юрий Викторович": 6,
-      "Пелипенко Алексей Алексеевич": 7,
-      "Побегайлов Олег Анатольевич": 12,
-      "Стуров Борис Николаевич": 15,
-      "Чернов Виктор Николаевич": 34,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121897": 179,
+      "gas:candidate-vibid:1001000112245": 467,
+      "gas:candidate-vibid:1001000136108": 35,
+      "gas:candidate-vibid:361300570441": 13,
+      "gas:candidate-vibid:1001000195128": 8,
+      "gas:candidate-vibid:361300570447": 6,
+      "gas:candidate-vibid:361300570524": 7,
+      "gas:candidate-vibid:1001000199632": 12,
+      "gas:candidate-vibid:361300570502": 15,
+      "gas:candidate-vibid:1001000202326": 34,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300571239&region=0&sub_region=0&type=429",

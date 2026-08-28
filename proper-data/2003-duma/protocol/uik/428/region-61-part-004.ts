@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 98,
-      "Аверченко Владимир Александрович": 684,
-      "Волгунин Евгений Павлович": 156,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 52,
-      "Холодов Юрий Федорович": 24,
-      "Шукшунов Валентин Ефимович": 305,
-      "Против всех": 165
+      "gas:candidate-vibid:361300170951": 98,
+      "gas:candidate-vibid:1001000131406": 684,
+      "gas:candidate-vibid:1001000121894": 156,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 52,
+      "gas:candidate-vibid:361300170902": 24,
+      "gas:candidate-vibid:361300170322": 305,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 17,
-      "Аверченко Владимир Александрович": 51,
-      "Волгунин Евгений Павлович": 14,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 0,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 69,
-      "Против всех": 27
+      "gas:candidate-vibid:361300170951": 17,
+      "gas:candidate-vibid:1001000131406": 51,
+      "gas:candidate-vibid:1001000121894": 14,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 0,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 69,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 119,
-      "Аверченко Владимир Александрович": 482,
-      "Волгунин Евгений Павлович": 129,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 30,
-      "Холодов Юрий Федорович": 19,
-      "Шукшунов Валентин Ефимович": 229,
-      "Против всех": 127
+      "gas:candidate-vibid:361300170951": 119,
+      "gas:candidate-vibid:1001000131406": 482,
+      "gas:candidate-vibid:1001000121894": 129,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 30,
+      "gas:candidate-vibid:361300170902": 19,
+      "gas:candidate-vibid:361300170322": 229,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 26,
-      "Аверченко Владимир Александрович": 71,
-      "Волгунин Евгений Павлович": 26,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 61,
-      "Против всех": 14
+      "gas:candidate-vibid:361300170951": 26,
+      "gas:candidate-vibid:1001000131406": 71,
+      "gas:candidate-vibid:1001000121894": 26,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 61,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 75,
-      "Аверченко Владимир Александрович": 408,
-      "Волгунин Евгений Павлович": 158,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 23,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 100,
-      "Против всех": 36
+      "gas:candidate-vibid:361300170951": 75,
+      "gas:candidate-vibid:1001000131406": 408,
+      "gas:candidate-vibid:1001000121894": 158,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 23,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 100,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 15,
-      "Аверченко Владимир Александрович": 159,
-      "Волгунин Евгений Павлович": 48,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 6,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 31,
-      "Против всех": 16
+      "gas:candidate-vibid:361300170951": 15,
+      "gas:candidate-vibid:1001000131406": 159,
+      "gas:candidate-vibid:1001000121894": 48,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 6,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 31,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 38,
-      "Аверченко Владимир Александрович": 291,
-      "Волгунин Евгений Павлович": 100,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 66,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 38,
+      "gas:candidate-vibid:1001000131406": 291,
+      "gas:candidate-vibid:1001000121894": 100,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 66,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 49,
-      "Аверченко Владимир Александрович": 172,
-      "Волгунин Евгений Павлович": 41,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 68,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 49,
+      "gas:candidate-vibid:1001000131406": 172,
+      "gas:candidate-vibid:1001000121894": 41,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 68,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 40,
-      "Аверченко Владимир Александрович": 179,
-      "Волгунин Евгений Павлович": 16,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 24,
-      "Против всех": 22
+      "gas:candidate-vibid:361300170951": 40,
+      "gas:candidate-vibid:1001000131406": 179,
+      "gas:candidate-vibid:1001000121894": 16,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 24,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 39,
-      "Аверченко Владимир Александрович": 199,
-      "Волгунин Евгений Павлович": 12,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 52,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 39,
+      "gas:candidate-vibid:1001000131406": 199,
+      "gas:candidate-vibid:1001000121894": 12,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 52,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 59,
-      "Аверченко Владимир Александрович": 335,
-      "Волгунин Евгений Павлович": 72,
-      "Мороз Петр Петрович": 15,
-      "Прядильников Сергей Павлович": 16,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 104,
-      "Против всех": 50
+      "gas:candidate-vibid:361300170951": 59,
+      "gas:candidate-vibid:1001000131406": 335,
+      "gas:candidate-vibid:1001000121894": 72,
+      "gas:candidate-vibid:1001000195124": 15,
+      "gas:candidate-vibid:1001000136104": 16,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 104,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 119,
-      "Аверченко Владимир Александрович": 446,
-      "Волгунин Евгений Павлович": 76,
-      "Мороз Петр Петрович": 16,
-      "Прядильников Сергей Павлович": 30,
-      "Холодов Юрий Федорович": 22,
-      "Шукшунов Валентин Ефимович": 346,
-      "Против всех": 147
+      "gas:candidate-vibid:361300170951": 119,
+      "gas:candidate-vibid:1001000131406": 446,
+      "gas:candidate-vibid:1001000121894": 76,
+      "gas:candidate-vibid:1001000195124": 16,
+      "gas:candidate-vibid:1001000136104": 30,
+      "gas:candidate-vibid:361300170902": 22,
+      "gas:candidate-vibid:361300170322": 346,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 131,
-      "Аверченко Владимир Александрович": 499,
-      "Волгунин Евгений Павлович": 117,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 48,
-      "Холодов Юрий Федорович": 33,
-      "Шукшунов Валентин Ефимович": 413,
-      "Против всех": 154
+      "gas:candidate-vibid:361300170951": 131,
+      "gas:candidate-vibid:1001000131406": 499,
+      "gas:candidate-vibid:1001000121894": 117,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 48,
+      "gas:candidate-vibid:361300170902": 33,
+      "gas:candidate-vibid:361300170322": 413,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 70,
-      "Аверченко Владимир Александрович": 406,
-      "Волгунин Евгений Павлович": 88,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 32,
-      "Холодов Юрий Федорович": 22,
-      "Шукшунов Валентин Ефимович": 311,
-      "Против всех": 104
+      "gas:candidate-vibid:361300170951": 70,
+      "gas:candidate-vibid:1001000131406": 406,
+      "gas:candidate-vibid:1001000121894": 88,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 32,
+      "gas:candidate-vibid:361300170902": 22,
+      "gas:candidate-vibid:361300170322": 311,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 91,
-      "Аверченко Владимир Александрович": 398,
-      "Волгунин Евгений Павлович": 121,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 34,
-      "Холодов Юрий Федорович": 30,
-      "Шукшунов Валентин Ефимович": 310,
-      "Против всех": 140
+      "gas:candidate-vibid:361300170951": 91,
+      "gas:candidate-vibid:1001000131406": 398,
+      "gas:candidate-vibid:1001000121894": 121,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 34,
+      "gas:candidate-vibid:361300170902": 30,
+      "gas:candidate-vibid:361300170322": 310,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 96,
-      "Аверченко Владимир Александрович": 376,
-      "Волгунин Евгений Павлович": 127,
-      "Мороз Петр Петрович": 15,
-      "Прядильников Сергей Павлович": 34,
-      "Холодов Юрий Федорович": 34,
-      "Шукшунов Валентин Ефимович": 340,
-      "Против всех": 115
+      "gas:candidate-vibid:361300170951": 96,
+      "gas:candidate-vibid:1001000131406": 376,
+      "gas:candidate-vibid:1001000121894": 127,
+      "gas:candidate-vibid:1001000195124": 15,
+      "gas:candidate-vibid:1001000136104": 34,
+      "gas:candidate-vibid:361300170902": 34,
+      "gas:candidate-vibid:361300170322": 340,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 43,
-      "Аверченко Владимир Александрович": 161,
-      "Волгунин Евгений Павлович": 25,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 85,
-      "Против всех": 35
+      "gas:candidate-vibid:361300170951": 43,
+      "gas:candidate-vibid:1001000131406": 161,
+      "gas:candidate-vibid:1001000121894": 25,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 85,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 80,
-      "Аверченко Владимир Александрович": 229,
-      "Волгунин Евгений Павлович": 19,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 5,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 60,
-      "Против всех": 24
+      "gas:candidate-vibid:361300170951": 80,
+      "gas:candidate-vibid:1001000131406": 229,
+      "gas:candidate-vibid:1001000121894": 19,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 5,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 60,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 17,
-      "Аверченко Владимир Александрович": 49,
-      "Волгунин Евгений Павлович": 15,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 69,
-      "Против всех": 22
+      "gas:candidate-vibid:361300170951": 17,
+      "gas:candidate-vibid:1001000131406": 49,
+      "gas:candidate-vibid:1001000121894": 15,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 69,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 24,
-      "Аверченко Владимир Александрович": 54,
-      "Волгунин Евгений Павлович": 29,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 3,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 37,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 24,
+      "gas:candidate-vibid:1001000131406": 54,
+      "gas:candidate-vibid:1001000121894": 29,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 3,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 37,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 87,
-      "Аверченко Владимир Александрович": 275,
-      "Волгунин Евгений Павлович": 30,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 146,
-      "Против всех": 89
+      "gas:candidate-vibid:361300170951": 87,
+      "gas:candidate-vibid:1001000131406": 275,
+      "gas:candidate-vibid:1001000121894": 30,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 146,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 35,
-      "Аверченко Владимир Александрович": 180,
-      "Волгунин Евгений Павлович": 11,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 5,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 52,
-      "Против всех": 30
+      "gas:candidate-vibid:361300170951": 35,
+      "gas:candidate-vibid:1001000131406": 180,
+      "gas:candidate-vibid:1001000121894": 11,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 5,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 52,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 58,
-      "Аверченко Владимир Александрович": 220,
-      "Волгунин Евгений Павлович": 47,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 168,
-      "Против всех": 50
+      "gas:candidate-vibid:361300170951": 58,
+      "gas:candidate-vibid:1001000131406": 220,
+      "gas:candidate-vibid:1001000121894": 47,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 168,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 125,
-      "Аверченко Владимир Александрович": 539,
-      "Волгунин Евгений Павлович": 96,
-      "Мороз Петр Петрович": 14,
-      "Прядильников Сергей Павлович": 29,
-      "Холодов Юрий Федорович": 36,
-      "Шукшунов Валентин Ефимович": 252,
-      "Против всех": 95
+      "gas:candidate-vibid:361300170951": 125,
+      "gas:candidate-vibid:1001000131406": 539,
+      "gas:candidate-vibid:1001000121894": 96,
+      "gas:candidate-vibid:1001000195124": 14,
+      "gas:candidate-vibid:1001000136104": 29,
+      "gas:candidate-vibid:361300170902": 36,
+      "gas:candidate-vibid:361300170322": 252,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 61,
-      "Аверченко Владимир Александрович": 197,
-      "Волгунин Евгений Павлович": 31,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 10,
-      "Шукшунов Валентин Ефимович": 134,
-      "Против всех": 59
+      "gas:candidate-vibid:361300170951": 61,
+      "gas:candidate-vibid:1001000131406": 197,
+      "gas:candidate-vibid:1001000121894": 31,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 10,
+      "gas:candidate-vibid:361300170322": 134,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 43,
-      "Аверченко Владимир Александрович": 144,
-      "Волгунин Евгений Павлович": 70,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 20,
-      "Холодов Юрий Федорович": 14,
-      "Шукшунов Валентин Ефимович": 169,
-      "Против всех": 60
+      "gas:candidate-vibid:361300170951": 43,
+      "gas:candidate-vibid:1001000131406": 144,
+      "gas:candidate-vibid:1001000121894": 70,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 20,
+      "gas:candidate-vibid:361300170902": 14,
+      "gas:candidate-vibid:361300170322": 169,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 29,
-      "Аверченко Владимир Александрович": 79,
-      "Волгунин Евгений Павлович": 44,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 11,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 61,
-      "Против всех": 42
+      "gas:candidate-vibid:361300170951": 29,
+      "gas:candidate-vibid:1001000131406": 79,
+      "gas:candidate-vibid:1001000121894": 44,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 11,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 61,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 62,
-      "Аверченко Владимир Александрович": 209,
-      "Волгунин Евгений Павлович": 64,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 27,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 143,
-      "Против всех": 69
+      "gas:candidate-vibid:361300170951": 62,
+      "gas:candidate-vibid:1001000131406": 209,
+      "gas:candidate-vibid:1001000121894": 64,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 27,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 143,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 12,
-      "Аверченко Владимир Александрович": 42,
-      "Волгунин Евгений Павлович": 8,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 16,
-      "Против всех": 21
+      "gas:candidate-vibid:361300170951": 12,
+      "gas:candidate-vibid:1001000131406": 42,
+      "gas:candidate-vibid:1001000121894": 8,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 16,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 37,
-      "Аверченко Владимир Александрович": 74,
-      "Волгунин Евгений Павлович": 6,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 3,
-      "Холодов Юрий Федорович": 10,
-      "Шукшунов Валентин Ефимович": 17,
-      "Против всех": 81
+      "gas:candidate-vibid:361300170951": 37,
+      "gas:candidate-vibid:1001000131406": 74,
+      "gas:candidate-vibid:1001000121894": 6,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 3,
+      "gas:candidate-vibid:361300170902": 10,
+      "gas:candidate-vibid:361300170322": 17,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 68,
-      "Аверченко Владимир Александрович": 387,
-      "Волгунин Евгений Павлович": 40,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 14,
-      "Холодов Юрий Федорович": 12,
-      "Шукшунов Валентин Ефимович": 192,
-      "Против всех": 57
+      "gas:candidate-vibid:361300170951": 68,
+      "gas:candidate-vibid:1001000131406": 387,
+      "gas:candidate-vibid:1001000121894": 40,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 14,
+      "gas:candidate-vibid:361300170902": 12,
+      "gas:candidate-vibid:361300170322": 192,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 73,
-      "Аверченко Владимир Александрович": 176,
-      "Волгунин Евгений Павлович": 29,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 6,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 28,
-      "Против всех": 39
+      "gas:candidate-vibid:361300170951": 73,
+      "gas:candidate-vibid:1001000131406": 176,
+      "gas:candidate-vibid:1001000121894": 29,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 6,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 28,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 29,
-      "Аверченко Владимир Александрович": 105,
-      "Волгунин Евгений Павлович": 19,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 63,
-      "Против всех": 23
+      "gas:candidate-vibid:361300170951": 29,
+      "gas:candidate-vibid:1001000131406": 105,
+      "gas:candidate-vibid:1001000121894": 19,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 63,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 38,
-      "Аверченко Владимир Александрович": 128,
-      "Волгунин Евгений Павлович": 17,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 10,
-      "Шукшунов Валентин Ефимович": 124,
-      "Против всех": 77
+      "gas:candidate-vibid:361300170951": 38,
+      "gas:candidate-vibid:1001000131406": 128,
+      "gas:candidate-vibid:1001000121894": 17,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 10,
+      "gas:candidate-vibid:361300170322": 124,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 78,
-      "Аверченко Владимир Александрович": 233,
-      "Волгунин Евгений Павлович": 23,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 127,
-      "Против всех": 58
+      "gas:candidate-vibid:361300170951": 78,
+      "gas:candidate-vibid:1001000131406": 233,
+      "gas:candidate-vibid:1001000121894": 23,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 127,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 32,
-      "Аверченко Владимир Александрович": 75,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 5,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 23,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 32,
+      "gas:candidate-vibid:1001000131406": 75,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 5,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 23,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171488&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 10,
-      "Аверченко Владимир Александрович": 508,
-      "Волгунин Евгений Павлович": 26,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 68,
-      "Против всех": 38
+      "gas:candidate-vibid:361300170951": 10,
+      "gas:candidate-vibid:1001000131406": 508,
+      "gas:candidate-vibid:1001000121894": 26,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 68,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 17,
-      "Аверченко Владимир Александрович": 802,
-      "Волгунин Евгений Павлович": 33,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 18,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 35,
-      "Против всех": 56
+      "gas:candidate-vibid:361300170951": 17,
+      "gas:candidate-vibid:1001000131406": 802,
+      "gas:candidate-vibid:1001000121894": 33,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 18,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 35,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 0,
-      "Аверченко Владимир Александрович": 529,
-      "Волгунин Евгений Павлович": 15,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 11,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 19,
-      "Против всех": 18
+      "gas:candidate-vibid:361300170951": 0,
+      "gas:candidate-vibid:1001000131406": 529,
+      "gas:candidate-vibid:1001000121894": 15,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 11,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 19,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 90,
-      "Аверченко Владимир Александрович": 622,
-      "Волгунин Евгений Павлович": 32,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 19,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 29,
-      "Против всех": 79
+      "gas:candidate-vibid:361300170951": 90,
+      "gas:candidate-vibid:1001000131406": 622,
+      "gas:candidate-vibid:1001000121894": 32,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 19,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 29,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 11,
-      "Аверченко Владимир Александрович": 93,
-      "Волгунин Евгений Павлович": 1,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 1,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 11,
+      "gas:candidate-vibid:1001000131406": 93,
+      "gas:candidate-vibid:1001000121894": 1,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 1,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 22,
-      "Аверченко Владимир Александрович": 143,
-      "Волгунин Евгений Павлович": 29,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 13,
-      "Против всех": 28
+      "gas:candidate-vibid:361300170951": 22,
+      "gas:candidate-vibid:1001000131406": 143,
+      "gas:candidate-vibid:1001000121894": 29,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 13,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 21,
-      "Аверченко Владимир Александрович": 118,
-      "Волгунин Евгений Павлович": 27,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 24,
-      "Против всех": 14
+      "gas:candidate-vibid:361300170951": 21,
+      "gas:candidate-vibid:1001000131406": 118,
+      "gas:candidate-vibid:1001000121894": 27,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 24,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 4,
-      "Аверченко Владимир Александрович": 142,
-      "Волгунин Евгений Павлович": 2,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 3,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:361300170951": 4,
+      "gas:candidate-vibid:1001000131406": 142,
+      "gas:candidate-vibid:1001000121894": 2,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 3,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 72,
-      "Аверченко Владимир Александрович": 633,
-      "Волгунин Евгений Павлович": 117,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 28,
-      "Холодов Юрий Федорович": 12,
-      "Шукшунов Валентин Ефимович": 212,
-      "Против всех": 58
+      "gas:candidate-vibid:361300170951": 72,
+      "gas:candidate-vibid:1001000131406": 633,
+      "gas:candidate-vibid:1001000121894": 117,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 28,
+      "gas:candidate-vibid:361300170902": 12,
+      "gas:candidate-vibid:361300170322": 212,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 63,
-      "Аверченко Владимир Александрович": 670,
-      "Волгунин Евгений Павлович": 65,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 12,
-      "Холодов Юрий Федорович": 10,
-      "Шукшунов Валентин Ефимович": 100,
-      "Против всех": 26
+      "gas:candidate-vibid:361300170951": 63,
+      "gas:candidate-vibid:1001000131406": 670,
+      "gas:candidate-vibid:1001000121894": 65,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 12,
+      "gas:candidate-vibid:361300170902": 10,
+      "gas:candidate-vibid:361300170322": 100,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 13,
-      "Аверченко Владимир Александрович": 124,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 3,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 36,
-      "Против всех": 7
+      "gas:candidate-vibid:361300170951": 13,
+      "gas:candidate-vibid:1001000131406": 124,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 3,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 36,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 3,
-      "Аверченко Владимир Александрович": 530,
-      "Волгунин Евгений Павлович": 2,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 17,
-      "Против всех": 9
+      "gas:candidate-vibid:361300170951": 3,
+      "gas:candidate-vibid:1001000131406": 530,
+      "gas:candidate-vibid:1001000121894": 2,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 17,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 2,
-      "Аверченко Владимир Александрович": 121,
-      "Волгунин Евгений Павлович": 1,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 1,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:361300170951": 2,
+      "gas:candidate-vibid:1001000131406": 121,
+      "gas:candidate-vibid:1001000121894": 1,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 1,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 2,
-      "Аверченко Владимир Александрович": 236,
-      "Волгунин Евгений Павлович": 3,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:361300170951": 2,
+      "gas:candidate-vibid:1001000131406": 236,
+      "gas:candidate-vibid:1001000121894": 3,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 40,
-      "Аверченко Владимир Александрович": 595,
-      "Волгунин Евгений Павлович": 31,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 128,
-      "Против всех": 64
+      "gas:candidate-vibid:361300170951": 40,
+      "gas:candidate-vibid:1001000131406": 595,
+      "gas:candidate-vibid:1001000121894": 31,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 128,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 0,
-      "Аверченко Владимир Александрович": 171,
-      "Волгунин Евгений Павлович": 0,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 1,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:361300170951": 0,
+      "gas:candidate-vibid:1001000131406": 171,
+      "gas:candidate-vibid:1001000121894": 0,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 1,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 65,
-      "Аверченко Владимир Александрович": 346,
-      "Волгунин Евгений Павлович": 41,
-      "Мороз Петр Петрович": 16,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 158,
-      "Против всех": 84
+      "gas:candidate-vibid:361300170951": 65,
+      "gas:candidate-vibid:1001000131406": 346,
+      "gas:candidate-vibid:1001000121894": 41,
+      "gas:candidate-vibid:1001000195124": 16,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 158,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 34,
-      "Аверченко Владимир Александрович": 387,
-      "Волгунин Евгений Павлович": 24,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 20,
-      "Шукшунов Валентин Ефимович": 65,
-      "Против всех": 72
+      "gas:candidate-vibid:361300170951": 34,
+      "gas:candidate-vibid:1001000131406": 387,
+      "gas:candidate-vibid:1001000121894": 24,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 20,
+      "gas:candidate-vibid:361300170322": 65,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 85,
-      "Аверченко Владимир Александрович": 872,
-      "Волгунин Евгений Павлович": 40,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 32,
-      "Холодов Юрий Федорович": 27,
-      "Шукшунов Валентин Ефимович": 61,
-      "Против всех": 67
+      "gas:candidate-vibid:361300170951": 85,
+      "gas:candidate-vibid:1001000131406": 872,
+      "gas:candidate-vibid:1001000121894": 40,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 32,
+      "gas:candidate-vibid:361300170902": 27,
+      "gas:candidate-vibid:361300170322": 61,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 24,
-      "Аверченко Владимир Александрович": 311,
-      "Волгунин Евгений Павлович": 9,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 9,
-      "Против всех": 38
+      "gas:candidate-vibid:361300170951": 24,
+      "gas:candidate-vibid:1001000131406": 311,
+      "gas:candidate-vibid:1001000121894": 9,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 9,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 24,
-      "Аверченко Владимир Александрович": 393,
-      "Волгунин Евгений Павлович": 42,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 29,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 67,
-      "Против всех": 14
+      "gas:candidate-vibid:361300170951": 24,
+      "gas:candidate-vibid:1001000131406": 393,
+      "gas:candidate-vibid:1001000121894": 42,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 29,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 67,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 12,
-      "Аверченко Владимир Александрович": 104,
-      "Волгунин Евгений Павлович": 11,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 1,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 24,
-      "Против всех": 3
+      "gas:candidate-vibid:361300170951": 12,
+      "gas:candidate-vibid:1001000131406": 104,
+      "gas:candidate-vibid:1001000121894": 11,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 1,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 24,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 35,
-      "Аверченко Владимир Александрович": 381,
-      "Волгунин Евгений Павлович": 8,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 33,
-      "Шукшунов Валентин Ефимович": 45,
-      "Против всех": 52
+      "gas:candidate-vibid:361300170951": 35,
+      "gas:candidate-vibid:1001000131406": 381,
+      "gas:candidate-vibid:1001000121894": 8,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 33,
+      "gas:candidate-vibid:361300170322": 45,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 0,
-      "Аверченко Владимир Александрович": 346,
-      "Волгунин Евгений Павлович": 80,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 17,
-      "Холодов Юрий Федорович": 23,
-      "Шукшунов Валентин Ефимович": 83,
-      "Против всех": 30
+      "gas:candidate-vibid:361300170951": 0,
+      "gas:candidate-vibid:1001000131406": 346,
+      "gas:candidate-vibid:1001000121894": 80,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 17,
+      "gas:candidate-vibid:361300170902": 23,
+      "gas:candidate-vibid:361300170322": 83,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 116,
-      "Аверченко Владимир Александрович": 369,
-      "Волгунин Евгений Павлович": 110,
-      "Мороз Петр Петрович": 13,
-      "Прядильников Сергей Павлович": 39,
-      "Холодов Юрий Федорович": 42,
-      "Шукшунов Валентин Ефимович": 227,
-      "Против всех": 106
+      "gas:candidate-vibid:361300170951": 116,
+      "gas:candidate-vibid:1001000131406": 369,
+      "gas:candidate-vibid:1001000121894": 110,
+      "gas:candidate-vibid:1001000195124": 13,
+      "gas:candidate-vibid:1001000136104": 39,
+      "gas:candidate-vibid:361300170902": 42,
+      "gas:candidate-vibid:361300170322": 227,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 29,
-      "Аверченко Владимир Александрович": 137,
-      "Волгунин Евгений Павлович": 26,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 12,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 195,
-      "Против всех": 45
+      "gas:candidate-vibid:361300170951": 29,
+      "gas:candidate-vibid:1001000131406": 137,
+      "gas:candidate-vibid:1001000121894": 26,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 12,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 195,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 3,
-      "Аверченко Владимир Александрович": 66,
-      "Волгунин Евгений Павлович": 3,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 11,
-      "Против всех": 2
+      "gas:candidate-vibid:361300170951": 3,
+      "gas:candidate-vibid:1001000131406": 66,
+      "gas:candidate-vibid:1001000121894": 3,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 11,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 35,
-      "Аверченко Владимир Александрович": 540,
-      "Волгунин Евгений Павлович": 7,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 161,
-      "Против всех": 40
+      "gas:candidate-vibid:361300170951": 35,
+      "gas:candidate-vibid:1001000131406": 540,
+      "gas:candidate-vibid:1001000121894": 7,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 161,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 22,
-      "Аверченко Владимир Александрович": 343,
-      "Волгунин Евгений Павлович": 9,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 14,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 22,
+      "gas:candidate-vibid:1001000131406": 343,
+      "gas:candidate-vibid:1001000121894": 9,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 14,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 56,
-      "Аверченко Владимир Александрович": 717,
-      "Волгунин Евгений Павлович": 86,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 52,
-      "Холодов Юрий Федорович": 29,
-      "Шукшунов Валентин Ефимович": 404,
-      "Против всех": 101
+      "gas:candidate-vibid:361300170951": 56,
+      "gas:candidate-vibid:1001000131406": 717,
+      "gas:candidate-vibid:1001000121894": 86,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 52,
+      "gas:candidate-vibid:361300170902": 29,
+      "gas:candidate-vibid:361300170322": 404,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 43,
-      "Аверченко Владимир Александрович": 443,
-      "Волгунин Евгений Павлович": 38,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 23,
-      "Шукшунов Валентин Ефимович": 134,
-      "Против всех": 51
+      "gas:candidate-vibid:361300170951": 43,
+      "gas:candidate-vibid:1001000131406": 443,
+      "gas:candidate-vibid:1001000121894": 38,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 23,
+      "gas:candidate-vibid:361300170322": 134,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 82,
-      "Аверченко Владимир Александрович": 460,
-      "Волгунин Евгений Павлович": 67,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 27,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 281,
-      "Против всех": 103
+      "gas:candidate-vibid:361300170951": 82,
+      "gas:candidate-vibid:1001000131406": 460,
+      "gas:candidate-vibid:1001000121894": 67,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 27,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 281,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 9,
-      "Аверченко Владимир Александрович": 220,
-      "Волгунин Евгений Павлович": 0,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 0,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 26,
-      "Против всех": 6
+      "gas:candidate-vibid:361300170951": 9,
+      "gas:candidate-vibid:1001000131406": 220,
+      "gas:candidate-vibid:1001000121894": 0,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 0,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 26,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 8,
-      "Аверченко Владимир Александрович": 624,
-      "Волгунин Евгений Павлович": 22,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 11,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 24,
-      "Против всех": 32
+      "gas:candidate-vibid:361300170951": 8,
+      "gas:candidate-vibid:1001000131406": 624,
+      "gas:candidate-vibid:1001000121894": 22,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 11,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 24,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 17,
-      "Аверченко Владимир Александрович": 1339,
-      "Волгунин Евгений Павлович": 0,
-      "Мороз Петр Петрович": 23,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 14,
-      "Против всех": 0
+      "gas:candidate-vibid:361300170951": 17,
+      "gas:candidate-vibid:1001000131406": 1339,
+      "gas:candidate-vibid:1001000121894": 0,
+      "gas:candidate-vibid:1001000195124": 23,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 14,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 71,
-      "Аверченко Владимир Александрович": 444,
-      "Волгунин Евгений Павлович": 113,
-      "Мороз Петр Петрович": 27,
-      "Прядильников Сергей Павлович": 39,
-      "Холодов Юрий Федорович": 37,
-      "Шукшунов Валентин Ефимович": 328,
-      "Против всех": 324
+      "gas:candidate-vibid:361300170951": 71,
+      "gas:candidate-vibid:1001000131406": 444,
+      "gas:candidate-vibid:1001000121894": 113,
+      "gas:candidate-vibid:1001000195124": 27,
+      "gas:candidate-vibid:1001000136104": 39,
+      "gas:candidate-vibid:361300170902": 37,
+      "gas:candidate-vibid:361300170322": 328,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 149,
-      "Аверченко Владимир Александрович": 545,
-      "Волгунин Евгений Павлович": 79,
-      "Мороз Петр Петрович": 63,
-      "Прядильников Сергей Павлович": 51,
-      "Холодов Юрий Федорович": 39,
-      "Шукшунов Валентин Ефимович": 274,
-      "Против всех": 267
+      "gas:candidate-vibid:361300170951": 149,
+      "gas:candidate-vibid:1001000131406": 545,
+      "gas:candidate-vibid:1001000121894": 79,
+      "gas:candidate-vibid:1001000195124": 63,
+      "gas:candidate-vibid:1001000136104": 51,
+      "gas:candidate-vibid:361300170902": 39,
+      "gas:candidate-vibid:361300170322": 274,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 73,
-      "Аверченко Владимир Александрович": 1265,
-      "Волгунин Евгений Павлович": 48,
-      "Мороз Петр Петрович": 17,
-      "Прядильников Сергей Павлович": 31,
-      "Холодов Юрий Федорович": 19,
-      "Шукшунов Валентин Ефимович": 393,
-      "Против всех": 236
+      "gas:candidate-vibid:361300170951": 73,
+      "gas:candidate-vibid:1001000131406": 1265,
+      "gas:candidate-vibid:1001000121894": 48,
+      "gas:candidate-vibid:1001000195124": 17,
+      "gas:candidate-vibid:1001000136104": 31,
+      "gas:candidate-vibid:361300170902": 19,
+      "gas:candidate-vibid:361300170322": 393,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 46,
-      "Аверченко Владимир Александрович": 121,
-      "Волгунин Евгений Павлович": 17,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 171,
-      "Против всех": 27
+      "gas:candidate-vibid:361300170951": 46,
+      "gas:candidate-vibid:1001000131406": 121,
+      "gas:candidate-vibid:1001000121894": 17,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 171,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 16,
-      "Аверченко Владимир Александрович": 1201,
-      "Волгунин Евгений Павлович": 15,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 26,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 213,
-      "Против всех": 55
+      "gas:candidate-vibid:361300170951": 16,
+      "gas:candidate-vibid:1001000131406": 1201,
+      "gas:candidate-vibid:1001000121894": 15,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 26,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 213,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 97,
-      "Аверченко Владимир Александрович": 968,
-      "Волгунин Евгений Павлович": 29,
-      "Мороз Петр Петрович": 16,
-      "Прядильников Сергей Павлович": 29,
-      "Холодов Юрий Федорович": 24,
-      "Шукшунов Валентин Ефимович": 223,
-      "Против всех": 243
+      "gas:candidate-vibid:361300170951": 97,
+      "gas:candidate-vibid:1001000131406": 968,
+      "gas:candidate-vibid:1001000121894": 29,
+      "gas:candidate-vibid:1001000195124": 16,
+      "gas:candidate-vibid:1001000136104": 29,
+      "gas:candidate-vibid:361300170902": 24,
+      "gas:candidate-vibid:361300170322": 223,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 72,
-      "Аверченко Владимир Александрович": 290,
-      "Волгунин Евгений Павлович": 49,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 26,
-      "Холодов Юрий Федорович": 21,
-      "Шукшунов Валентин Ефимович": 129,
-      "Против всех": 98
+      "gas:candidate-vibid:361300170951": 72,
+      "gas:candidate-vibid:1001000131406": 290,
+      "gas:candidate-vibid:1001000121894": 49,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 26,
+      "gas:candidate-vibid:361300170902": 21,
+      "gas:candidate-vibid:361300170322": 129,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 97,
-      "Аверченко Владимир Александрович": 598,
-      "Волгунин Евгений Павлович": 97,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 60,
-      "Холодов Юрий Федорович": 23,
-      "Шукшунов Валентин Ефимович": 240,
-      "Против всех": 183
+      "gas:candidate-vibid:361300170951": 97,
+      "gas:candidate-vibid:1001000131406": 598,
+      "gas:candidate-vibid:1001000121894": 97,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 60,
+      "gas:candidate-vibid:361300170902": 23,
+      "gas:candidate-vibid:361300170322": 240,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 88,
-      "Аверченко Владимир Александрович": 631,
-      "Волгунин Евгений Павлович": 107,
-      "Мороз Петр Петрович": 14,
-      "Прядильников Сергей Павлович": 49,
-      "Холодов Юрий Федорович": 17,
-      "Шукшунов Валентин Ефимович": 244,
-      "Против всех": 126
+      "gas:candidate-vibid:361300170951": 88,
+      "gas:candidate-vibid:1001000131406": 631,
+      "gas:candidate-vibid:1001000121894": 107,
+      "gas:candidate-vibid:1001000195124": 14,
+      "gas:candidate-vibid:1001000136104": 49,
+      "gas:candidate-vibid:361300170902": 17,
+      "gas:candidate-vibid:361300170322": 244,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 78,
-      "Аверченко Владимир Александрович": 341,
-      "Волгунин Евгений Павлович": 39,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 28,
-      "Холодов Юрий Федорович": 21,
-      "Шукшунов Валентин Ефимович": 91,
-      "Против всех": 51
+      "gas:candidate-vibid:361300170951": 78,
+      "gas:candidate-vibid:1001000131406": 341,
+      "gas:candidate-vibid:1001000121894": 39,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 28,
+      "gas:candidate-vibid:361300170902": 21,
+      "gas:candidate-vibid:361300170322": 91,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 27,
-      "Аверченко Владимир Александрович": 159,
-      "Волгунин Евгений Павлович": 11,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:361300170951": 27,
+      "gas:candidate-vibid:1001000131406": 159,
+      "gas:candidate-vibid:1001000121894": 11,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 14,
-      "Аверченко Владимир Александрович": 189,
-      "Волгунин Евгений Павлович": 9,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 33,
-      "Против всех": 8
+      "gas:candidate-vibid:361300170951": 14,
+      "gas:candidate-vibid:1001000131406": 189,
+      "gas:candidate-vibid:1001000121894": 9,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 33,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 27,
-      "Аверченко Владимир Александрович": 349,
-      "Волгунин Евгений Павлович": 35,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 111,
-      "Против всех": 37
+      "gas:candidate-vibid:361300170951": 27,
+      "gas:candidate-vibid:1001000131406": 349,
+      "gas:candidate-vibid:1001000121894": 35,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 111,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 42,
-      "Аверченко Владимир Александрович": 258,
-      "Волгунин Евгений Павлович": 8,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 86,
-      "Против всех": 81
+      "gas:candidate-vibid:361300170951": 42,
+      "gas:candidate-vibid:1001000131406": 258,
+      "gas:candidate-vibid:1001000121894": 8,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 86,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171530&region=0&sub_region=0&type=429",
@@ -4887,12 +4887,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 119,
-      "Литвинов Владимир Александрович": 350,
-      "Мартынов Алексей Яковлевич": 17,
-      "Хорошилов Сергей Алексеевич": 104,
-      "Шацкий Сергей Викторович": 69,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121895": 119,
+      "gas:candidate-vibid:1001000225974": 350,
+      "gas:candidate-vibid:1001000195126": 17,
+      "gas:candidate-vibid:361300370398": 104,
+      "gas:candidate-vibid:361300370444": 69,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -4942,12 +4942,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 80,
-      "Литвинов Владимир Александрович": 354,
-      "Мартынов Алексей Яковлевич": 20,
-      "Хорошилов Сергей Алексеевич": 85,
-      "Шацкий Сергей Викторович": 23,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121895": 80,
+      "gas:candidate-vibid:1001000225974": 354,
+      "gas:candidate-vibid:1001000195126": 20,
+      "gas:candidate-vibid:361300370398": 85,
+      "gas:candidate-vibid:361300370444": 23,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -4997,12 +4997,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 133,
-      "Литвинов Владимир Александрович": 391,
-      "Мартынов Алексей Яковлевич": 14,
-      "Хорошилов Сергей Алексеевич": 99,
-      "Шацкий Сергей Викторович": 52,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121895": 133,
+      "gas:candidate-vibid:1001000225974": 391,
+      "gas:candidate-vibid:1001000195126": 14,
+      "gas:candidate-vibid:361300370398": 99,
+      "gas:candidate-vibid:361300370444": 52,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5052,12 +5052,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 189,
-      "Литвинов Владимир Александрович": 448,
-      "Мартынов Алексей Яковлевич": 36,
-      "Хорошилов Сергей Алексеевич": 239,
-      "Шацкий Сергей Викторович": 88,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000121895": 189,
+      "gas:candidate-vibid:1001000225974": 448,
+      "gas:candidate-vibid:1001000195126": 36,
+      "gas:candidate-vibid:361300370398": 239,
+      "gas:candidate-vibid:361300370444": 88,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5107,12 +5107,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 163,
-      "Литвинов Владимир Александрович": 523,
-      "Мартынов Алексей Яковлевич": 44,
-      "Хорошилов Сергей Алексеевич": 207,
-      "Шацкий Сергей Викторович": 96,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000121895": 163,
+      "gas:candidate-vibid:1001000225974": 523,
+      "gas:candidate-vibid:1001000195126": 44,
+      "gas:candidate-vibid:361300370398": 207,
+      "gas:candidate-vibid:361300370444": 96,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5162,12 +5162,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 95,
-      "Литвинов Владимир Александрович": 348,
-      "Мартынов Алексей Яковлевич": 15,
-      "Хорошилов Сергей Алексеевич": 100,
-      "Шацкий Сергей Викторович": 30,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121895": 95,
+      "gas:candidate-vibid:1001000225974": 348,
+      "gas:candidate-vibid:1001000195126": 15,
+      "gas:candidate-vibid:361300370398": 100,
+      "gas:candidate-vibid:361300370444": 30,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5217,12 +5217,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 91,
-      "Литвинов Владимир Александрович": 288,
-      "Мартынов Алексей Яковлевич": 15,
-      "Хорошилов Сергей Алексеевич": 77,
-      "Шацкий Сергей Викторович": 30,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121895": 91,
+      "gas:candidate-vibid:1001000225974": 288,
+      "gas:candidate-vibid:1001000195126": 15,
+      "gas:candidate-vibid:361300370398": 77,
+      "gas:candidate-vibid:361300370444": 30,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5272,12 +5272,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 119,
-      "Литвинов Владимир Александрович": 398,
-      "Мартынов Алексей Яковлевич": 38,
-      "Хорошилов Сергей Алексеевич": 125,
-      "Шацкий Сергей Викторович": 46,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121895": 119,
+      "gas:candidate-vibid:1001000225974": 398,
+      "gas:candidate-vibid:1001000195126": 38,
+      "gas:candidate-vibid:361300370398": 125,
+      "gas:candidate-vibid:361300370444": 46,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5327,12 +5327,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 181,
-      "Литвинов Владимир Александрович": 578,
-      "Мартынов Алексей Яковлевич": 20,
-      "Хорошилов Сергей Алексеевич": 137,
-      "Шацкий Сергей Викторович": 49,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121895": 181,
+      "gas:candidate-vibid:1001000225974": 578,
+      "gas:candidate-vibid:1001000195126": 20,
+      "gas:candidate-vibid:361300370398": 137,
+      "gas:candidate-vibid:361300370444": 49,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5382,12 +5382,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 209,
-      "Литвинов Владимир Александрович": 560,
-      "Мартынов Алексей Яковлевич": 28,
-      "Хорошилов Сергей Алексеевич": 186,
-      "Шацкий Сергей Викторович": 43,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121895": 209,
+      "gas:candidate-vibid:1001000225974": 560,
+      "gas:candidate-vibid:1001000195126": 28,
+      "gas:candidate-vibid:361300370398": 186,
+      "gas:candidate-vibid:361300370444": 43,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5437,12 +5437,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 143,
-      "Литвинов Владимир Александрович": 339,
-      "Мартынов Алексей Яковлевич": 17,
-      "Хорошилов Сергей Алексеевич": 108,
-      "Шацкий Сергей Викторович": 46,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121895": 143,
+      "gas:candidate-vibid:1001000225974": 339,
+      "gas:candidate-vibid:1001000195126": 17,
+      "gas:candidate-vibid:361300370398": 108,
+      "gas:candidate-vibid:361300370444": 46,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5492,12 +5492,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 140,
-      "Литвинов Владимир Александрович": 359,
-      "Мартынов Алексей Яковлевич": 34,
-      "Хорошилов Сергей Алексеевич": 201,
-      "Шацкий Сергей Викторович": 55,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121895": 140,
+      "gas:candidate-vibid:1001000225974": 359,
+      "gas:candidate-vibid:1001000195126": 34,
+      "gas:candidate-vibid:361300370398": 201,
+      "gas:candidate-vibid:361300370444": 55,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5547,12 +5547,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 119,
-      "Литвинов Владимир Александрович": 373,
-      "Мартынов Алексей Яковлевич": 12,
-      "Хорошилов Сергей Алексеевич": 137,
-      "Шацкий Сергей Викторович": 40,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000121895": 119,
+      "gas:candidate-vibid:1001000225974": 373,
+      "gas:candidate-vibid:1001000195126": 12,
+      "gas:candidate-vibid:361300370398": 137,
+      "gas:candidate-vibid:361300370444": 40,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5602,12 +5602,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 125,
-      "Литвинов Владимир Александрович": 326,
-      "Мартынов Алексей Яковлевич": 20,
-      "Хорошилов Сергей Алексеевич": 140,
-      "Шацкий Сергей Викторович": 36,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121895": 125,
+      "gas:candidate-vibid:1001000225974": 326,
+      "gas:candidate-vibid:1001000195126": 20,
+      "gas:candidate-vibid:361300370398": 140,
+      "gas:candidate-vibid:361300370444": 36,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5657,12 +5657,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 93,
-      "Литвинов Владимир Александрович": 325,
-      "Мартынов Алексей Яковлевич": 20,
-      "Хорошилов Сергей Алексеевич": 69,
-      "Шацкий Сергей Викторович": 33,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121895": 93,
+      "gas:candidate-vibid:1001000225974": 325,
+      "gas:candidate-vibid:1001000195126": 20,
+      "gas:candidate-vibid:361300370398": 69,
+      "gas:candidate-vibid:361300370444": 33,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5712,12 +5712,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 168,
-      "Литвинов Владимир Александрович": 406,
-      "Мартынов Алексей Яковлевич": 19,
-      "Хорошилов Сергей Алексеевич": 70,
-      "Шацкий Сергей Викторович": 39,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121895": 168,
+      "gas:candidate-vibid:1001000225974": 406,
+      "gas:candidate-vibid:1001000195126": 19,
+      "gas:candidate-vibid:361300370398": 70,
+      "gas:candidate-vibid:361300370444": 39,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5767,12 +5767,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 88,
-      "Литвинов Владимир Александрович": 271,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 66,
-      "Шацкий Сергей Викторович": 31,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121895": 88,
+      "gas:candidate-vibid:1001000225974": 271,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 66,
+      "gas:candidate-vibid:361300370444": 31,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5822,12 +5822,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 135,
-      "Литвинов Владимир Александрович": 246,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 41,
-      "Шацкий Сергей Викторович": 19,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121895": 135,
+      "gas:candidate-vibid:1001000225974": 246,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 41,
+      "gas:candidate-vibid:361300370444": 19,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5877,12 +5877,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 138,
-      "Литвинов Владимир Александрович": 484,
-      "Мартынов Алексей Яковлевич": 18,
-      "Хорошилов Сергей Алексеевич": 169,
-      "Шацкий Сергей Викторович": 53,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121895": 138,
+      "gas:candidate-vibid:1001000225974": 484,
+      "gas:candidate-vibid:1001000195126": 18,
+      "gas:candidate-vibid:361300370398": 169,
+      "gas:candidate-vibid:361300370444": 53,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5932,12 +5932,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 111,
-      "Литвинов Владимир Александрович": 353,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 135,
-      "Шацкий Сергей Викторович": 42,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121895": 111,
+      "gas:candidate-vibid:1001000225974": 353,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 135,
+      "gas:candidate-vibid:361300370444": 42,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -5987,12 +5987,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 65,
-      "Литвинов Владимир Александрович": 349,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 54,
-      "Шацкий Сергей Викторович": 28,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121895": 65,
+      "gas:candidate-vibid:1001000225974": 349,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 54,
+      "gas:candidate-vibid:361300370444": 28,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -6042,12 +6042,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 244,
-      "Литвинов Владимир Александрович": 490,
-      "Мартынов Алексей Яковлевич": 27,
-      "Хорошилов Сергей Алексеевич": 183,
-      "Шацкий Сергей Викторович": 64,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000121895": 244,
+      "gas:candidate-vibid:1001000225974": 490,
+      "gas:candidate-vibid:1001000195126": 27,
+      "gas:candidate-vibid:361300370398": 183,
+      "gas:candidate-vibid:361300370444": 64,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -6097,12 +6097,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 137,
-      "Литвинов Владимир Александрович": 353,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 178,
-      "Шацкий Сергей Викторович": 48,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000121895": 137,
+      "gas:candidate-vibid:1001000225974": 353,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 178,
+      "gas:candidate-vibid:361300370444": 48,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -6152,12 +6152,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 152,
-      "Литвинов Владимир Александрович": 648,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 86,
-      "Шацкий Сергей Викторович": 40,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121895": 152,
+      "gas:candidate-vibid:1001000225974": 648,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 86,
+      "gas:candidate-vibid:361300370444": 40,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -6207,12 +6207,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 98,
-      "Литвинов Владимир Александрович": 274,
-      "Мартынов Алексей Яковлевич": 18,
-      "Хорошилов Сергей Алексеевич": 116,
-      "Шацкий Сергей Викторович": 45,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121895": 98,
+      "gas:candidate-vibid:1001000225974": 274,
+      "gas:candidate-vibid:1001000195126": 18,
+      "gas:candidate-vibid:361300370398": 116,
+      "gas:candidate-vibid:361300370444": 45,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370360&region=0&sub_region=0&type=429",
@@ -6262,12 +6262,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 242,
-      "Литвинов Владимир Александрович": 289,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 91,
-      "Шацкий Сергей Викторович": 59,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121895": 242,
+      "gas:candidate-vibid:1001000225974": 289,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 91,
+      "gas:candidate-vibid:361300370444": 59,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6317,12 +6317,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 125,
-      "Литвинов Владимир Александрович": 224,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 56,
-      "Шацкий Сергей Викторович": 19,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121895": 125,
+      "gas:candidate-vibid:1001000225974": 224,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 56,
+      "gas:candidate-vibid:361300370444": 19,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6372,12 +6372,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 113,
-      "Литвинов Владимир Александрович": 231,
-      "Мартынов Алексей Яковлевич": 12,
-      "Хорошилов Сергей Алексеевич": 87,
-      "Шацкий Сергей Викторович": 26,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121895": 113,
+      "gas:candidate-vibid:1001000225974": 231,
+      "gas:candidate-vibid:1001000195126": 12,
+      "gas:candidate-vibid:361300370398": 87,
+      "gas:candidate-vibid:361300370444": 26,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6427,12 +6427,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 188,
-      "Литвинов Владимир Александрович": 325,
-      "Мартынов Алексей Яковлевич": 19,
-      "Хорошилов Сергей Алексеевич": 102,
-      "Шацкий Сергей Викторович": 28,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121895": 188,
+      "gas:candidate-vibid:1001000225974": 325,
+      "gas:candidate-vibid:1001000195126": 19,
+      "gas:candidate-vibid:361300370398": 102,
+      "gas:candidate-vibid:361300370444": 28,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6482,12 +6482,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 266,
-      "Литвинов Владимир Александрович": 472,
-      "Мартынов Алексей Яковлевич": 21,
-      "Хорошилов Сергей Алексеевич": 151,
-      "Шацкий Сергей Викторович": 51,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000121895": 266,
+      "gas:candidate-vibid:1001000225974": 472,
+      "gas:candidate-vibid:1001000195126": 21,
+      "gas:candidate-vibid:361300370398": 151,
+      "gas:candidate-vibid:361300370444": 51,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6537,12 +6537,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 126,
-      "Литвинов Владимир Александрович": 166,
-      "Мартынов Алексей Яковлевич": 17,
-      "Хорошилов Сергей Алексеевич": 78,
-      "Шацкий Сергей Викторович": 29,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121895": 126,
+      "gas:candidate-vibid:1001000225974": 166,
+      "gas:candidate-vibid:1001000195126": 17,
+      "gas:candidate-vibid:361300370398": 78,
+      "gas:candidate-vibid:361300370444": 29,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6592,12 +6592,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 225,
-      "Литвинов Владимир Александрович": 325,
-      "Мартынов Алексей Яковлевич": 34,
-      "Хорошилов Сергей Алексеевич": 117,
-      "Шацкий Сергей Викторович": 55,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000121895": 225,
+      "gas:candidate-vibid:1001000225974": 325,
+      "gas:candidate-vibid:1001000195126": 34,
+      "gas:candidate-vibid:361300370398": 117,
+      "gas:candidate-vibid:361300370444": 55,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6647,12 +6647,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 230,
-      "Литвинов Владимир Александрович": 266,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 104,
-      "Шацкий Сергей Викторович": 57,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121895": 230,
+      "gas:candidate-vibid:1001000225974": 266,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 104,
+      "gas:candidate-vibid:361300370444": 57,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6702,12 +6702,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 273,
-      "Литвинов Владимир Александрович": 269,
-      "Мартынов Алексей Яковлевич": 17,
-      "Хорошилов Сергей Алексеевич": 109,
-      "Шацкий Сергей Викторович": 31,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000121895": 273,
+      "gas:candidate-vibid:1001000225974": 269,
+      "gas:candidate-vibid:1001000195126": 17,
+      "gas:candidate-vibid:361300370398": 109,
+      "gas:candidate-vibid:361300370444": 31,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6757,12 +6757,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 317,
-      "Литвинов Владимир Александрович": 353,
-      "Мартынов Алексей Яковлевич": 28,
-      "Хорошилов Сергей Алексеевич": 163,
-      "Шацкий Сергей Викторович": 75,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000121895": 317,
+      "gas:candidate-vibid:1001000225974": 353,
+      "gas:candidate-vibid:1001000195126": 28,
+      "gas:candidate-vibid:361300370398": 163,
+      "gas:candidate-vibid:361300370444": 75,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6812,12 +6812,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 305,
-      "Литвинов Владимир Александрович": 371,
-      "Мартынов Алексей Яковлевич": 29,
-      "Хорошилов Сергей Алексеевич": 197,
-      "Шацкий Сергей Викторович": 101,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000121895": 305,
+      "gas:candidate-vibid:1001000225974": 371,
+      "gas:candidate-vibid:1001000195126": 29,
+      "gas:candidate-vibid:361300370398": 197,
+      "gas:candidate-vibid:361300370444": 101,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6867,12 +6867,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 227,
-      "Литвинов Владимир Александрович": 372,
-      "Мартынов Алексей Яковлевич": 28,
-      "Хорошилов Сергей Алексеевич": 155,
-      "Шацкий Сергей Викторович": 56,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000121895": 227,
+      "gas:candidate-vibid:1001000225974": 372,
+      "gas:candidate-vibid:1001000195126": 28,
+      "gas:candidate-vibid:361300370398": 155,
+      "gas:candidate-vibid:361300370444": 56,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6922,12 +6922,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 185,
-      "Литвинов Владимир Александрович": 193,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 58,
-      "Шацкий Сергей Викторович": 26,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121895": 185,
+      "gas:candidate-vibid:1001000225974": 193,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 58,
+      "gas:candidate-vibid:361300370444": 26,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -6977,12 +6977,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 221,
-      "Литвинов Владимир Александрович": 298,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 142,
-      "Шацкий Сергей Викторович": 66,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000121895": 221,
+      "gas:candidate-vibid:1001000225974": 298,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 142,
+      "gas:candidate-vibid:361300370444": 66,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7032,12 +7032,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 156,
-      "Литвинов Владимир Александрович": 251,
-      "Мартынов Алексей Яковлевич": 31,
-      "Хорошилов Сергей Алексеевич": 137,
-      "Шацкий Сергей Викторович": 24,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121895": 156,
+      "gas:candidate-vibid:1001000225974": 251,
+      "gas:candidate-vibid:1001000195126": 31,
+      "gas:candidate-vibid:361300370398": 137,
+      "gas:candidate-vibid:361300370444": 24,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7087,12 +7087,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 282,
-      "Литвинов Владимир Александрович": 362,
-      "Мартынов Алексей Яковлевич": 28,
-      "Хорошилов Сергей Алексеевич": 222,
-      "Шацкий Сергей Викторович": 83,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000121895": 282,
+      "gas:candidate-vibid:1001000225974": 362,
+      "gas:candidate-vibid:1001000195126": 28,
+      "gas:candidate-vibid:361300370398": 222,
+      "gas:candidate-vibid:361300370444": 83,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7142,12 +7142,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 230,
-      "Литвинов Владимир Александрович": 304,
-      "Мартынов Алексей Яковлевич": 23,
-      "Хорошилов Сергей Алексеевич": 145,
-      "Шацкий Сергей Викторович": 77,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121895": 230,
+      "gas:candidate-vibid:1001000225974": 304,
+      "gas:candidate-vibid:1001000195126": 23,
+      "gas:candidate-vibid:361300370398": 145,
+      "gas:candidate-vibid:361300370444": 77,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7197,12 +7197,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 248,
-      "Литвинов Владимир Александрович": 216,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 125,
-      "Шацкий Сергей Викторович": 55,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000121895": 248,
+      "gas:candidate-vibid:1001000225974": 216,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 125,
+      "gas:candidate-vibid:361300370444": 55,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7252,12 +7252,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 197,
-      "Литвинов Владимир Александрович": 245,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 121,
-      "Шацкий Сергей Викторович": 36,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121895": 197,
+      "gas:candidate-vibid:1001000225974": 245,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 121,
+      "gas:candidate-vibid:361300370444": 36,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7307,12 +7307,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 293,
-      "Литвинов Владимир Александрович": 331,
-      "Мартынов Алексей Яковлевич": 23,
-      "Хорошилов Сергей Алексеевич": 173,
-      "Шацкий Сергей Викторович": 62,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000121895": 293,
+      "gas:candidate-vibid:1001000225974": 331,
+      "gas:candidate-vibid:1001000195126": 23,
+      "gas:candidate-vibid:361300370398": 173,
+      "gas:candidate-vibid:361300370444": 62,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7362,12 +7362,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 123,
-      "Литвинов Владимир Александрович": 228,
-      "Мартынов Алексей Яковлевич": 8,
-      "Хорошилов Сергей Алексеевич": 52,
-      "Шацкий Сергей Викторович": 15,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121895": 123,
+      "gas:candidate-vibid:1001000225974": 228,
+      "gas:candidate-vibid:1001000195126": 8,
+      "gas:candidate-vibid:361300370398": 52,
+      "gas:candidate-vibid:361300370444": 15,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7417,12 +7417,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 196,
-      "Литвинов Владимир Александрович": 277,
-      "Мартынов Алексей Яковлевич": 21,
-      "Хорошилов Сергей Алексеевич": 136,
-      "Шацкий Сергей Викторович": 36,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000121895": 196,
+      "gas:candidate-vibid:1001000225974": 277,
+      "gas:candidate-vibid:1001000195126": 21,
+      "gas:candidate-vibid:361300370398": 136,
+      "gas:candidate-vibid:361300370444": 36,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7472,12 +7472,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 260,
-      "Литвинов Владимир Александрович": 353,
-      "Мартынов Алексей Яковлевич": 23,
-      "Хорошилов Сергей Алексеевич": 193,
-      "Шацкий Сергей Викторович": 80,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000121895": 260,
+      "gas:candidate-vibid:1001000225974": 353,
+      "gas:candidate-vibid:1001000195126": 23,
+      "gas:candidate-vibid:361300370398": 193,
+      "gas:candidate-vibid:361300370444": 80,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7527,12 +7527,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 263,
-      "Литвинов Владимир Александрович": 367,
-      "Мартынов Алексей Яковлевич": 24,
-      "Хорошилов Сергей Алексеевич": 237,
-      "Шацкий Сергей Викторович": 38,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000121895": 263,
+      "gas:candidate-vibid:1001000225974": 367,
+      "gas:candidate-vibid:1001000195126": 24,
+      "gas:candidate-vibid:361300370398": 237,
+      "gas:candidate-vibid:361300370444": 38,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7582,12 +7582,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 261,
-      "Литвинов Владимир Александрович": 424,
-      "Мартынов Алексей Яковлевич": 41,
-      "Хорошилов Сергей Алексеевич": 221,
-      "Шацкий Сергей Викторович": 86,
-      "Против всех": 361
+      "gas:candidate-vibid:1001000121895": 261,
+      "gas:candidate-vibid:1001000225974": 424,
+      "gas:candidate-vibid:1001000195126": 41,
+      "gas:candidate-vibid:361300370398": 221,
+      "gas:candidate-vibid:361300370444": 86,
+      "special:against-all": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7637,12 +7637,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 188,
-      "Литвинов Владимир Александрович": 312,
-      "Мартынов Алексей Яковлевич": 15,
-      "Хорошилов Сергей Алексеевич": 143,
-      "Шацкий Сергей Викторович": 70,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000121895": 188,
+      "gas:candidate-vibid:1001000225974": 312,
+      "gas:candidate-vibid:1001000195126": 15,
+      "gas:candidate-vibid:361300370398": 143,
+      "gas:candidate-vibid:361300370444": 70,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7692,12 +7692,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 248,
-      "Литвинов Владимир Александрович": 326,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 146,
-      "Шацкий Сергей Викторович": 35,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000121895": 248,
+      "gas:candidate-vibid:1001000225974": 326,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 146,
+      "gas:candidate-vibid:361300370444": 35,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7747,12 +7747,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 278,
-      "Литвинов Владимир Александрович": 275,
-      "Мартынов Алексей Яковлевич": 19,
-      "Хорошилов Сергей Алексеевич": 141,
-      "Шацкий Сергей Викторович": 66,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121895": 278,
+      "gas:candidate-vibid:1001000225974": 275,
+      "gas:candidate-vibid:1001000195126": 19,
+      "gas:candidate-vibid:361300370398": 141,
+      "gas:candidate-vibid:361300370444": 66,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7802,12 +7802,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 232,
-      "Литвинов Владимир Александрович": 389,
-      "Мартынов Алексей Яковлевич": 26,
-      "Хорошилов Сергей Алексеевич": 158,
-      "Шацкий Сергей Викторович": 49,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000121895": 232,
+      "gas:candidate-vibid:1001000225974": 389,
+      "gas:candidate-vibid:1001000195126": 26,
+      "gas:candidate-vibid:361300370398": 158,
+      "gas:candidate-vibid:361300370444": 49,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7857,12 +7857,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 24,
-      "Литвинов Владимир Александрович": 81,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 13,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121895": 24,
+      "gas:candidate-vibid:1001000225974": 81,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 13,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7912,12 +7912,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 225,
-      "Литвинов Владимир Александрович": 266,
-      "Мартынов Алексей Яковлевич": 28,
-      "Хорошилов Сергей Алексеевич": 217,
-      "Шацкий Сергей Викторович": 64,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121895": 225,
+      "gas:candidate-vibid:1001000225974": 266,
+      "gas:candidate-vibid:1001000195126": 28,
+      "gas:candidate-vibid:361300370398": 217,
+      "gas:candidate-vibid:361300370444": 64,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -7967,12 +7967,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 286,
-      "Литвинов Владимир Александрович": 399,
-      "Мартынов Алексей Яковлевич": 34,
-      "Хорошилов Сергей Алексеевич": 260,
-      "Шацкий Сергей Викторович": 118,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000121895": 286,
+      "gas:candidate-vibid:1001000225974": 399,
+      "gas:candidate-vibid:1001000195126": 34,
+      "gas:candidate-vibid:361300370398": 260,
+      "gas:candidate-vibid:361300370444": 118,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8022,12 +8022,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 300,
-      "Литвинов Владимир Александрович": 489,
-      "Мартынов Алексей Яковлевич": 31,
-      "Хорошилов Сергей Алексеевич": 214,
-      "Шацкий Сергей Викторович": 81,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000121895": 300,
+      "gas:candidate-vibid:1001000225974": 489,
+      "gas:candidate-vibid:1001000195126": 31,
+      "gas:candidate-vibid:361300370398": 214,
+      "gas:candidate-vibid:361300370444": 81,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8077,12 +8077,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 281,
-      "Литвинов Владимир Александрович": 280,
-      "Мартынов Алексей Яковлевич": 20,
-      "Хорошилов Сергей Алексеевич": 125,
-      "Шацкий Сергей Викторович": 50,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121895": 281,
+      "gas:candidate-vibid:1001000225974": 280,
+      "gas:candidate-vibid:1001000195126": 20,
+      "gas:candidate-vibid:361300370398": 125,
+      "gas:candidate-vibid:361300370444": 50,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8132,12 +8132,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 105,
-      "Литвинов Владимир Александрович": 200,
-      "Мартынов Алексей Яковлевич": 12,
-      "Хорошилов Сергей Алексеевич": 36,
-      "Шацкий Сергей Викторович": 29,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121895": 105,
+      "gas:candidate-vibid:1001000225974": 200,
+      "gas:candidate-vibid:1001000195126": 12,
+      "gas:candidate-vibid:361300370398": 36,
+      "gas:candidate-vibid:361300370444": 29,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8187,12 +8187,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 249,
-      "Литвинов Владимир Александрович": 197,
-      "Мартынов Алексей Яковлевич": 13,
-      "Хорошилов Сергей Алексеевич": 54,
-      "Шацкий Сергей Викторович": 35,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121895": 249,
+      "gas:candidate-vibid:1001000225974": 197,
+      "gas:candidate-vibid:1001000195126": 13,
+      "gas:candidate-vibid:361300370398": 54,
+      "gas:candidate-vibid:361300370444": 35,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8242,12 +8242,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 329,
-      "Литвинов Владимир Александрович": 299,
-      "Мартынов Алексей Яковлевич": 29,
-      "Хорошилов Сергей Алексеевич": 78,
-      "Шацкий Сергей Викторович": 60,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000121895": 329,
+      "gas:candidate-vibid:1001000225974": 299,
+      "gas:candidate-vibid:1001000195126": 29,
+      "gas:candidate-vibid:361300370398": 78,
+      "gas:candidate-vibid:361300370444": 60,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8297,12 +8297,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 236,
-      "Литвинов Владимир Александрович": 219,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 67,
-      "Шацкий Сергей Викторович": 54,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121895": 236,
+      "gas:candidate-vibid:1001000225974": 219,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 67,
+      "gas:candidate-vibid:361300370444": 54,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8352,12 +8352,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 149,
-      "Литвинов Владимир Александрович": 146,
-      "Мартынов Алексей Яковлевич": 18,
-      "Хорошилов Сергей Алексеевич": 38,
-      "Шацкий Сергей Викторович": 17,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121895": 149,
+      "gas:candidate-vibid:1001000225974": 146,
+      "gas:candidate-vibid:1001000195126": 18,
+      "gas:candidate-vibid:361300370398": 38,
+      "gas:candidate-vibid:361300370444": 17,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8407,12 +8407,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 141,
-      "Литвинов Владимир Александрович": 203,
-      "Мартынов Алексей Яковлевич": 15,
-      "Хорошилов Сергей Алексеевич": 50,
-      "Шацкий Сергей Викторович": 18,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121895": 141,
+      "gas:candidate-vibid:1001000225974": 203,
+      "gas:candidate-vibid:1001000195126": 15,
+      "gas:candidate-vibid:361300370398": 50,
+      "gas:candidate-vibid:361300370444": 18,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8462,12 +8462,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 205,
-      "Литвинов Владимир Александрович": 311,
-      "Мартынов Алексей Яковлевич": 13,
-      "Хорошилов Сергей Алексеевич": 159,
-      "Шацкий Сергей Викторович": 59,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000121895": 205,
+      "gas:candidate-vibid:1001000225974": 311,
+      "gas:candidate-vibid:1001000195126": 13,
+      "gas:candidate-vibid:361300370398": 159,
+      "gas:candidate-vibid:361300370444": 59,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8517,12 +8517,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 38,
-      "Литвинов Владимир Александрович": 41,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 19,
-      "Шацкий Сергей Викторович": 6,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121895": 38,
+      "gas:candidate-vibid:1001000225974": 41,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 19,
+      "gas:candidate-vibid:361300370444": 6,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8572,12 +8572,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 55,
-      "Литвинов Владимир Александрович": 207,
-      "Мартынов Алексей Яковлевич": 48,
-      "Хорошилов Сергей Алексеевич": 86,
-      "Шацкий Сергей Викторович": 38,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000121895": 55,
+      "gas:candidate-vibid:1001000225974": 207,
+      "gas:candidate-vibid:1001000195126": 48,
+      "gas:candidate-vibid:361300370398": 86,
+      "gas:candidate-vibid:361300370444": 38,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370362&region=0&sub_region=0&type=429",
@@ -8627,12 +8627,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 50,
-      "Литвинов Владимир Александрович": 218,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 31,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121895": 50,
+      "gas:candidate-vibid:1001000225974": 218,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 31,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -8682,12 +8682,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 10,
-      "Литвинов Владимир Александрович": 134,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 6,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121895": 10,
+      "gas:candidate-vibid:1001000225974": 134,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 6,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -8737,12 +8737,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 3,
-      "Литвинов Владимир Александрович": 82,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 6,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 3,
+      "gas:candidate-vibid:1001000225974": 82,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 6,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -8792,12 +8792,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 26,
-      "Литвинов Владимир Александрович": 152,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 7,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121895": 26,
+      "gas:candidate-vibid:1001000225974": 152,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 7,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -8847,12 +8847,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 21,
-      "Литвинов Владимир Александрович": 275,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 25,
-      "Шацкий Сергей Викторович": 8,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121895": 21,
+      "gas:candidate-vibid:1001000225974": 275,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 25,
+      "gas:candidate-vibid:361300370444": 8,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -8902,12 +8902,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 129,
-      "Литвинов Владимир Александрович": 679,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 123,
-      "Шацкий Сергей Викторович": 15,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121895": 129,
+      "gas:candidate-vibid:1001000225974": 679,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 123,
+      "gas:candidate-vibid:361300370444": 15,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -8957,12 +8957,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 109,
-      "Литвинов Владимир Александрович": 674,
-      "Мартынов Алексей Яковлевич": 22,
-      "Хорошилов Сергей Алексеевич": 129,
-      "Шацкий Сергей Викторович": 23,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121895": 109,
+      "gas:candidate-vibid:1001000225974": 674,
+      "gas:candidate-vibid:1001000195126": 22,
+      "gas:candidate-vibid:361300370398": 129,
+      "gas:candidate-vibid:361300370444": 23,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9012,12 +9012,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 10,
-      "Литвинов Владимир Александрович": 96,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 2,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 10,
+      "gas:candidate-vibid:1001000225974": 96,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 2,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9067,12 +9067,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 15,
-      "Литвинов Владимир Александрович": 140,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 7,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121895": 15,
+      "gas:candidate-vibid:1001000225974": 140,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 7,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9122,12 +9122,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 25,
-      "Литвинов Владимир Александрович": 258,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 19,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121895": 25,
+      "gas:candidate-vibid:1001000225974": 258,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 19,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9177,12 +9177,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 42,
-      "Литвинов Владимир Александрович": 230,
-      "Мартынов Алексей Яковлевич": 4,
-      "Хорошилов Сергей Алексеевич": 12,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121895": 42,
+      "gas:candidate-vibid:1001000225974": 230,
+      "gas:candidate-vibid:1001000195126": 4,
+      "gas:candidate-vibid:361300370398": 12,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9232,12 +9232,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 24,
-      "Литвинов Владимир Александрович": 135,
-      "Мартынов Алексей Яковлевич": 4,
-      "Хорошилов Сергей Алексеевич": 10,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 24,
+      "gas:candidate-vibid:1001000225974": 135,
+      "gas:candidate-vibid:1001000195126": 4,
+      "gas:candidate-vibid:361300370398": 10,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9287,12 +9287,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 102,
-      "Литвинов Владимир Александрович": 395,
-      "Мартынов Алексей Яковлевич": 9,
-      "Хорошилов Сергей Алексеевич": 93,
-      "Шацкий Сергей Викторович": 14,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121895": 102,
+      "gas:candidate-vibid:1001000225974": 395,
+      "gas:candidate-vibid:1001000195126": 9,
+      "gas:candidate-vibid:361300370398": 93,
+      "gas:candidate-vibid:361300370444": 14,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9342,12 +9342,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 28,
-      "Литвинов Владимир Александрович": 90,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 6,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121895": 28,
+      "gas:candidate-vibid:1001000225974": 90,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 6,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9397,12 +9397,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 12,
-      "Литвинов Владимир Александрович": 84,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 12,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121895": 12,
+      "gas:candidate-vibid:1001000225974": 84,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 12,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9452,12 +9452,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 22,
-      "Литвинов Владимир Александрович": 122,
-      "Мартынов Алексей Яковлевич": 4,
-      "Хорошилов Сергей Алексеевич": 14,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121895": 22,
+      "gas:candidate-vibid:1001000225974": 122,
+      "gas:candidate-vibid:1001000195126": 4,
+      "gas:candidate-vibid:361300370398": 14,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9507,12 +9507,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 35,
-      "Литвинов Владимир Александрович": 151,
-      "Мартынов Алексей Яковлевич": 6,
-      "Хорошилов Сергей Алексеевич": 20,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121895": 35,
+      "gas:candidate-vibid:1001000225974": 151,
+      "gas:candidate-vibid:1001000195126": 6,
+      "gas:candidate-vibid:361300370398": 20,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9562,12 +9562,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 4,
-      "Литвинов Владимир Александрович": 100,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 7,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121895": 4,
+      "gas:candidate-vibid:1001000225974": 100,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 7,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9617,12 +9617,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 13,
-      "Литвинов Владимир Александрович": 164,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 6,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121895": 13,
+      "gas:candidate-vibid:1001000225974": 164,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 6,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9672,12 +9672,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 75,
-      "Литвинов Владимир Александрович": 562,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 38,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121895": 75,
+      "gas:candidate-vibid:1001000225974": 562,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 38,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9727,12 +9727,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 36,
-      "Литвинов Владимир Александрович": 276,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 15,
-      "Шацкий Сергей Викторович": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121895": 36,
+      "gas:candidate-vibid:1001000225974": 276,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 15,
+      "gas:candidate-vibid:361300370444": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9782,12 +9782,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 34,
-      "Литвинов Владимир Александрович": 224,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 13,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121895": 34,
+      "gas:candidate-vibid:1001000225974": 224,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 13,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9837,12 +9837,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 6,
-      "Литвинов Владимир Александрович": 98,
-      "Мартынов Алексей Яковлевич": 4,
-      "Хорошилов Сергей Алексеевич": 2,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121895": 6,
+      "gas:candidate-vibid:1001000225974": 98,
+      "gas:candidate-vibid:1001000195126": 4,
+      "gas:candidate-vibid:361300370398": 2,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9892,12 +9892,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 14,
-      "Литвинов Владимир Александрович": 96,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 2,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 14,
+      "gas:candidate-vibid:1001000225974": 96,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 2,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -9947,12 +9947,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 9,
-      "Литвинов Владимир Александрович": 134,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 12,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121895": 9,
+      "gas:candidate-vibid:1001000225974": 134,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 12,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -10002,12 +10002,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 2,
-      "Литвинов Владимир Александрович": 85,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 3,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121895": 2,
+      "gas:candidate-vibid:1001000225974": 85,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 3,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370376&region=0&sub_region=0&type=429",
@@ -10057,12 +10057,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 3,
-      "Литвинов Владимир Александрович": 82,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 4,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121895": 3,
+      "gas:candidate-vibid:1001000225974": 82,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 4,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10112,12 +10112,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 7,
-      "Литвинов Владимир Александрович": 153,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 4,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121895": 7,
+      "gas:candidate-vibid:1001000225974": 153,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 4,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10167,12 +10167,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 54,
-      "Литвинов Владимир Александрович": 64,
-      "Мартынов Алексей Яковлевич": 8,
-      "Хорошилов Сергей Алексеевич": 17,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121895": 54,
+      "gas:candidate-vibid:1001000225974": 64,
+      "gas:candidate-vibid:1001000195126": 8,
+      "gas:candidate-vibid:361300370398": 17,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10222,12 +10222,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 156,
-      "Литвинов Владимир Александрович": 158,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 39,
-      "Шацкий Сергей Викторович": 16,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121895": 156,
+      "gas:candidate-vibid:1001000225974": 158,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 39,
+      "gas:candidate-vibid:361300370444": 16,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10277,12 +10277,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 34,
-      "Литвинов Владимир Александрович": 67,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 10,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121895": 34,
+      "gas:candidate-vibid:1001000225974": 67,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 10,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10332,12 +10332,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 39,
-      "Литвинов Владимир Александрович": 77,
-      "Мартынов Алексей Яковлевич": 4,
-      "Хорошилов Сергей Алексеевич": 5,
-      "Шацкий Сергей Викторович": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 39,
+      "gas:candidate-vibid:1001000225974": 77,
+      "gas:candidate-vibid:1001000195126": 4,
+      "gas:candidate-vibid:361300370398": 5,
+      "gas:candidate-vibid:361300370444": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10387,12 +10387,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 146,
-      "Литвинов Владимир Александрович": 684,
-      "Мартынов Алексей Яковлевич": 13,
-      "Хорошилов Сергей Алексеевич": 105,
-      "Шацкий Сергей Викторович": 37,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121895": 146,
+      "gas:candidate-vibid:1001000225974": 684,
+      "gas:candidate-vibid:1001000195126": 13,
+      "gas:candidate-vibid:361300370398": 105,
+      "gas:candidate-vibid:361300370444": 37,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10442,12 +10442,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 240,
-      "Литвинов Владимир Александрович": 813,
-      "Мартынов Алексей Яковлевич": 23,
-      "Хорошилов Сергей Алексеевич": 152,
-      "Шацкий Сергей Викторович": 34,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121895": 240,
+      "gas:candidate-vibid:1001000225974": 813,
+      "gas:candidate-vibid:1001000195126": 23,
+      "gas:candidate-vibid:361300370398": 152,
+      "gas:candidate-vibid:361300370444": 34,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10497,12 +10497,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 34,
-      "Литвинов Владимир Александрович": 212,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 18,
-      "Шацкий Сергей Викторович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121895": 34,
+      "gas:candidate-vibid:1001000225974": 212,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 18,
+      "gas:candidate-vibid:361300370444": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10552,12 +10552,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 14,
-      "Литвинов Владимир Александрович": 110,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 10,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121895": 14,
+      "gas:candidate-vibid:1001000225974": 110,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 10,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10607,12 +10607,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 66,
-      "Литвинов Владимир Александрович": 386,
-      "Мартынов Алексей Яковлевич": 9,
-      "Хорошилов Сергей Алексеевич": 24,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121895": 66,
+      "gas:candidate-vibid:1001000225974": 386,
+      "gas:candidate-vibid:1001000195126": 9,
+      "gas:candidate-vibid:361300370398": 24,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10662,12 +10662,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 71,
-      "Литвинов Владимир Александрович": 413,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 15,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121895": 71,
+      "gas:candidate-vibid:1001000225974": 413,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 15,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10717,12 +10717,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 11,
-      "Литвинов Владимир Александрович": 53,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 12,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 11,
+      "gas:candidate-vibid:1001000225974": 53,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 12,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10772,12 +10772,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 4,
-      "Литвинов Владимир Александрович": 43,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 9,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121895": 4,
+      "gas:candidate-vibid:1001000225974": 43,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 9,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10827,12 +10827,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 123,
-      "Литвинов Владимир Александрович": 476,
-      "Мартынов Алексей Яковлевич": 15,
-      "Хорошилов Сергей Алексеевич": 95,
-      "Шацкий Сергей Викторович": 35,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121895": 123,
+      "gas:candidate-vibid:1001000225974": 476,
+      "gas:candidate-vibid:1001000195126": 15,
+      "gas:candidate-vibid:361300370398": 95,
+      "gas:candidate-vibid:361300370444": 35,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10882,12 +10882,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 22,
-      "Литвинов Владимир Александрович": 34,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 23,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 22,
+      "gas:candidate-vibid:1001000225974": 34,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 23,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10937,12 +10937,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 37,
-      "Литвинов Владимир Александрович": 253,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 45,
-      "Шацкий Сергей Викторович": 10,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121895": 37,
+      "gas:candidate-vibid:1001000225974": 253,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 45,
+      "gas:candidate-vibid:361300370444": 10,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -10992,12 +10992,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 3,
-      "Литвинов Владимир Александрович": 59,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 4,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 3,
+      "gas:candidate-vibid:1001000225974": 59,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 4,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11047,12 +11047,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 3,
-      "Литвинов Владимир Александрович": 130,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 8,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121895": 3,
+      "gas:candidate-vibid:1001000225974": 130,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 8,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11102,12 +11102,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 59,
-      "Литвинов Владимир Александрович": 391,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 81,
-      "Шацкий Сергей Викторович": 10,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121895": 59,
+      "gas:candidate-vibid:1001000225974": 391,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 81,
+      "gas:candidate-vibid:361300370444": 10,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11157,12 +11157,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 0,
-      "Литвинов Владимир Александрович": 195,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 0,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121895": 0,
+      "gas:candidate-vibid:1001000225974": 195,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 0,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11212,12 +11212,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 5,
-      "Литвинов Владимир Александрович": 163,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 4,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121895": 5,
+      "gas:candidate-vibid:1001000225974": 163,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 4,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11267,12 +11267,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 12,
-      "Литвинов Владимир Александрович": 160,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 6,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121895": 12,
+      "gas:candidate-vibid:1001000225974": 160,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 6,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11322,12 +11322,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 85,
-      "Литвинов Владимир Александрович": 647,
-      "Мартынов Алексей Яковлевич": 9,
-      "Хорошилов Сергей Алексеевич": 100,
-      "Шацкий Сергей Викторович": 12,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121895": 85,
+      "gas:candidate-vibid:1001000225974": 647,
+      "gas:candidate-vibid:1001000195126": 9,
+      "gas:candidate-vibid:361300370398": 100,
+      "gas:candidate-vibid:361300370444": 12,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11377,12 +11377,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 22,
-      "Литвинов Владимир Александрович": 114,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 15,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121895": 22,
+      "gas:candidate-vibid:1001000225974": 114,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 15,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11432,12 +11432,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 13,
-      "Литвинов Владимир Александрович": 109,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 11,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 13,
+      "gas:candidate-vibid:1001000225974": 109,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 11,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11487,12 +11487,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 29,
-      "Литвинов Владимир Александрович": 180,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 45,
-      "Шацкий Сергей Викторович": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121895": 29,
+      "gas:candidate-vibid:1001000225974": 180,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 45,
+      "gas:candidate-vibid:361300370444": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11542,12 +11542,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 8,
-      "Литвинов Владимир Александрович": 45,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 8,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121895": 8,
+      "gas:candidate-vibid:1001000225974": 45,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 8,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11597,12 +11597,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 25,
-      "Литвинов Владимир Александрович": 86,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 4,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121895": 25,
+      "gas:candidate-vibid:1001000225974": 86,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 4,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11652,12 +11652,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 7,
-      "Литвинов Владимир Александрович": 114,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 5,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121895": 7,
+      "gas:candidate-vibid:1001000225974": 114,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 5,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11707,12 +11707,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 56,
-      "Литвинов Владимир Александрович": 403,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 37,
-      "Шацкий Сергей Викторович": 16,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121895": 56,
+      "gas:candidate-vibid:1001000225974": 403,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 37,
+      "gas:candidate-vibid:361300370444": 16,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11762,12 +11762,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 5,
-      "Литвинов Владимир Александрович": 53,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 3,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121895": 5,
+      "gas:candidate-vibid:1001000225974": 53,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 3,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11817,12 +11817,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 17,
-      "Литвинов Владимир Александрович": 133,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 8,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121895": 17,
+      "gas:candidate-vibid:1001000225974": 133,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 8,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11872,12 +11872,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 1,
-      "Литвинов Владимир Александрович": 57,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 2,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121895": 1,
+      "gas:candidate-vibid:1001000225974": 57,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 2,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11927,12 +11927,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 23,
-      "Литвинов Владимир Александрович": 134,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 21,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 23,
+      "gas:candidate-vibid:1001000225974": 134,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 21,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -11982,12 +11982,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 15,
-      "Литвинов Владимир Александрович": 172,
-      "Мартынов Алексей Яковлевич": 7,
-      "Хорошилов Сергей Алексеевич": 36,
-      "Шацкий Сергей Викторович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121895": 15,
+      "gas:candidate-vibid:1001000225974": 172,
+      "gas:candidate-vibid:1001000195126": 7,
+      "gas:candidate-vibid:361300370398": 36,
+      "gas:candidate-vibid:361300370444": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12037,12 +12037,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 44,
-      "Литвинов Владимир Александрович": 159,
-      "Мартынов Алексей Яковлевич": 8,
-      "Хорошилов Сергей Алексеевич": 18,
-      "Шацкий Сергей Викторович": 6,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121895": 44,
+      "gas:candidate-vibid:1001000225974": 159,
+      "gas:candidate-vibid:1001000195126": 8,
+      "gas:candidate-vibid:361300370398": 18,
+      "gas:candidate-vibid:361300370444": 6,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12092,12 +12092,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 15,
-      "Литвинов Владимир Александрович": 117,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 15,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121895": 15,
+      "gas:candidate-vibid:1001000225974": 117,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 15,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12147,12 +12147,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 15,
-      "Литвинов Владимир Александрович": 62,
-      "Мартынов Алексей Яковлевич": 7,
-      "Хорошилов Сергей Алексеевич": 7,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121895": 15,
+      "gas:candidate-vibid:1001000225974": 62,
+      "gas:candidate-vibid:1001000195126": 7,
+      "gas:candidate-vibid:361300370398": 7,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12202,12 +12202,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 113,
-      "Литвинов Владимир Александрович": 378,
-      "Мартынов Алексей Яковлевич": 14,
-      "Хорошилов Сергей Алексеевич": 30,
-      "Шацкий Сергей Викторович": 10,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121895": 113,
+      "gas:candidate-vibid:1001000225974": 378,
+      "gas:candidate-vibid:1001000195126": 14,
+      "gas:candidate-vibid:361300370398": 30,
+      "gas:candidate-vibid:361300370444": 10,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12257,12 +12257,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 13,
-      "Литвинов Владимир Александрович": 131,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 9,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121895": 13,
+      "gas:candidate-vibid:1001000225974": 131,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 9,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12312,12 +12312,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 11,
-      "Литвинов Владимир Александрович": 35,
-      "Мартынов Алексей Яковлевич": 7,
-      "Хорошилов Сергей Алексеевич": 3,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121895": 11,
+      "gas:candidate-vibid:1001000225974": 35,
+      "gas:candidate-vibid:1001000195126": 7,
+      "gas:candidate-vibid:361300370398": 3,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12367,12 +12367,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 21,
-      "Литвинов Владимир Александрович": 159,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 14,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121895": 21,
+      "gas:candidate-vibid:1001000225974": 159,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 14,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370380&region=0&sub_region=0&type=429",
@@ -12422,12 +12422,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 294,
-      "Литвинов Владимир Александрович": 443,
-      "Мартынов Алексей Яковлевич": 17,
-      "Хорошилов Сергей Алексеевич": 188,
-      "Шацкий Сергей Викторович": 28,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121895": 294,
+      "gas:candidate-vibid:1001000225974": 443,
+      "gas:candidate-vibid:1001000195126": 17,
+      "gas:candidate-vibid:361300370398": 188,
+      "gas:candidate-vibid:361300370444": 28,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12477,12 +12477,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 148,
-      "Литвинов Владимир Александрович": 222,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 133,
-      "Шацкий Сергей Викторович": 14,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121895": 148,
+      "gas:candidate-vibid:1001000225974": 222,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 133,
+      "gas:candidate-vibid:361300370444": 14,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12532,12 +12532,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 214,
-      "Литвинов Владимир Александрович": 290,
-      "Мартынов Алексей Яковлевич": 18,
-      "Хорошилов Сергей Алексеевич": 102,
-      "Шацкий Сергей Викторович": 22,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121895": 214,
+      "gas:candidate-vibid:1001000225974": 290,
+      "gas:candidate-vibid:1001000195126": 18,
+      "gas:candidate-vibid:361300370398": 102,
+      "gas:candidate-vibid:361300370444": 22,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12587,12 +12587,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 45,
-      "Литвинов Владимир Александрович": 187,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 40,
-      "Шацкий Сергей Викторович": 8,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121895": 45,
+      "gas:candidate-vibid:1001000225974": 187,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 40,
+      "gas:candidate-vibid:361300370444": 8,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12642,12 +12642,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 92,
-      "Литвинов Владимир Александрович": 257,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 66,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121895": 92,
+      "gas:candidate-vibid:1001000225974": 257,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 66,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12697,12 +12697,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 32,
-      "Литвинов Владимир Александрович": 251,
-      "Мартынов Алексей Яковлевич": 7,
-      "Хорошилов Сергей Алексеевич": 28,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121895": 32,
+      "gas:candidate-vibid:1001000225974": 251,
+      "gas:candidate-vibid:1001000195126": 7,
+      "gas:candidate-vibid:361300370398": 28,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12752,12 +12752,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 41,
-      "Литвинов Владимир Александрович": 191,
-      "Мартынов Алексей Яковлевич": 6,
-      "Хорошилов Сергей Алексеевич": 54,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121895": 41,
+      "gas:candidate-vibid:1001000225974": 191,
+      "gas:candidate-vibid:1001000195126": 6,
+      "gas:candidate-vibid:361300370398": 54,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12807,12 +12807,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 190,
-      "Литвинов Владимир Александрович": 191,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 101,
-      "Шацкий Сергей Викторович": 18,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121895": 190,
+      "gas:candidate-vibid:1001000225974": 191,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 101,
+      "gas:candidate-vibid:361300370444": 18,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12862,12 +12862,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 36,
-      "Литвинов Владимир Александрович": 98,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 8,
-      "Шацкий Сергей Викторович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 36,
+      "gas:candidate-vibid:1001000225974": 98,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 8,
+      "gas:candidate-vibid:361300370444": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12917,12 +12917,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 33,
-      "Литвинов Владимир Александрович": 59,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 22,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121895": 33,
+      "gas:candidate-vibid:1001000225974": 59,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 22,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -12972,12 +12972,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 109,
-      "Литвинов Владимир Александрович": 250,
-      "Мартынов Алексей Яковлевич": 12,
-      "Хорошилов Сергей Алексеевич": 47,
-      "Шацкий Сергей Викторович": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121895": 109,
+      "gas:candidate-vibid:1001000225974": 250,
+      "gas:candidate-vibid:1001000195126": 12,
+      "gas:candidate-vibid:361300370398": 47,
+      "gas:candidate-vibid:361300370444": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13027,12 +13027,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 24,
-      "Литвинов Владимир Александрович": 103,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 26,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121895": 24,
+      "gas:candidate-vibid:1001000225974": 103,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 26,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13082,12 +13082,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 50,
-      "Литвинов Владимир Александрович": 280,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 29,
-      "Шацкий Сергей Викторович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121895": 50,
+      "gas:candidate-vibid:1001000225974": 280,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 29,
+      "gas:candidate-vibid:361300370444": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13137,12 +13137,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 143,
-      "Литвинов Владимир Александрович": 484,
-      "Мартынов Алексей Яковлевич": 16,
-      "Хорошилов Сергей Алексеевич": 53,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121895": 143,
+      "gas:candidate-vibid:1001000225974": 484,
+      "gas:candidate-vibid:1001000195126": 16,
+      "gas:candidate-vibid:361300370398": 53,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13192,12 +13192,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 55,
-      "Литвинов Владимир Александрович": 387,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 22,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121895": 55,
+      "gas:candidate-vibid:1001000225974": 387,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 22,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13247,12 +13247,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 14,
-      "Литвинов Владимир Александрович": 90,
-      "Мартынов Алексей Яковлевич": 6,
-      "Хорошилов Сергей Алексеевич": 15,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121895": 14,
+      "gas:candidate-vibid:1001000225974": 90,
+      "gas:candidate-vibid:1001000195126": 6,
+      "gas:candidate-vibid:361300370398": 15,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13302,12 +13302,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 66,
-      "Литвинов Владимир Александрович": 107,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 24,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121895": 66,
+      "gas:candidate-vibid:1001000225974": 107,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 24,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13357,12 +13357,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 29,
-      "Литвинов Владимир Александрович": 59,
-      "Мартынов Алексей Яковлевич": 1,
-      "Хорошилов Сергей Алексеевич": 6,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121895": 29,
+      "gas:candidate-vibid:1001000225974": 59,
+      "gas:candidate-vibid:1001000195126": 1,
+      "gas:candidate-vibid:361300370398": 6,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13412,12 +13412,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 38,
-      "Литвинов Владимир Александрович": 213,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 25,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121895": 38,
+      "gas:candidate-vibid:1001000225974": 213,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 25,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13467,12 +13467,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 36,
-      "Литвинов Владимир Александрович": 190,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 25,
-      "Шацкий Сергей Викторович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121895": 36,
+      "gas:candidate-vibid:1001000225974": 190,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 25,
+      "gas:candidate-vibid:361300370444": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13522,12 +13522,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 122,
-      "Литвинов Владимир Александрович": 208,
-      "Мартынов Алексей Яковлевич": 10,
-      "Хорошилов Сергей Алексеевич": 61,
-      "Шацкий Сергей Викторович": 10,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121895": 122,
+      "gas:candidate-vibid:1001000225974": 208,
+      "gas:candidate-vibid:1001000195126": 10,
+      "gas:candidate-vibid:361300370398": 61,
+      "gas:candidate-vibid:361300370444": 10,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13577,12 +13577,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 55,
-      "Литвинов Владимир Александрович": 202,
-      "Мартынов Алексей Яковлевич": 5,
-      "Хорошилов Сергей Алексеевич": 27,
-      "Шацкий Сергей Викторович": 5,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121895": 55,
+      "gas:candidate-vibid:1001000225974": 202,
+      "gas:candidate-vibid:1001000195126": 5,
+      "gas:candidate-vibid:361300370398": 27,
+      "gas:candidate-vibid:361300370444": 5,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13632,12 +13632,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 20,
-      "Литвинов Владимир Александрович": 128,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 14,
-      "Шацкий Сергей Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 20,
+      "gas:candidate-vibid:1001000225974": 128,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 14,
+      "gas:candidate-vibid:361300370444": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13687,12 +13687,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 32,
-      "Литвинов Владимир Александрович": 216,
-      "Мартынов Алексей Яковлевич": 3,
-      "Хорошилов Сергей Алексеевич": 7,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121895": 32,
+      "gas:candidate-vibid:1001000225974": 216,
+      "gas:candidate-vibid:1001000195126": 3,
+      "gas:candidate-vibid:361300370398": 7,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13742,12 +13742,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 13,
-      "Литвинов Владимир Александрович": 214,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 16,
-      "Шацкий Сергей Викторович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121895": 13,
+      "gas:candidate-vibid:1001000225974": 214,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 16,
+      "gas:candidate-vibid:361300370444": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13797,12 +13797,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 301,
-      "Литвинов Владимир Александрович": 511,
-      "Мартынов Алексей Яковлевич": 11,
-      "Хорошилов Сергей Алексеевич": 88,
-      "Шацкий Сергей Викторович": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121895": 301,
+      "gas:candidate-vibid:1001000225974": 511,
+      "gas:candidate-vibid:1001000195126": 11,
+      "gas:candidate-vibid:361300370398": 88,
+      "gas:candidate-vibid:361300370444": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13852,12 +13852,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 4,
-      "Литвинов Владимир Александрович": 116,
-      "Мартынов Алексей Яковлевич": 0,
-      "Хорошилов Сергей Алексеевич": 8,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121895": 4,
+      "gas:candidate-vibid:1001000225974": 116,
+      "gas:candidate-vibid:1001000195126": 0,
+      "gas:candidate-vibid:361300370398": 8,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",
@@ -13907,12 +13907,12 @@ export const duma_2003_uik_428_region_61_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данченко Борис Иванович": 34,
-      "Литвинов Владимир Александрович": 55,
-      "Мартынов Алексей Яковлевич": 2,
-      "Хорошилов Сергей Алексеевич": 14,
-      "Шацкий Сергей Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121895": 34,
+      "gas:candidate-vibid:1001000225974": 55,
+      "gas:candidate-vibid:1001000195126": 2,
+      "gas:candidate-vibid:361300370398": 14,
+      "gas:candidate-vibid:361300370444": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300370382&region=0&sub_region=0&type=429",

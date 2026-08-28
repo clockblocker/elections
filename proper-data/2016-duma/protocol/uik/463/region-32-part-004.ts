@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 0,
-      "Миронова Валентина Михайловна": 73
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 0,
+      "gas:candidate-vibid:2322000968508": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 25,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 18,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 151
+      "gas:candidate-vibid:2322000966887": 25,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 18,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 39,
-      "Горелов Сергей Иванович": 17,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 35,
-      "Махотина Ольга Анатольевна": 19,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 23,
-      "Миронова Валентина Михайловна": 258
+      "gas:candidate-vibid:2322000966887": 39,
+      "gas:candidate-vibid:2322000968315": 17,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 35,
+      "gas:candidate-vibid:2322000968302": 19,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 23,
+      "gas:candidate-vibid:2322000968508": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 16,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 19,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 149
+      "gas:candidate-vibid:2322000966887": 16,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 19,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 130,
-      "Горелов Сергей Иванович": 26,
-      "Каничев Вадим Александрович": 18,
-      "Киселёв Виктор Николаевич": 107,
-      "Махотина Ольга Анатольевна": 64,
-      "Медведков Александр Александрович": 48,
-      "Медведь Иван Владимирович": 58,
-      "Миронова Валентина Михайловна": 1124
+      "gas:candidate-vibid:2322000966887": 130,
+      "gas:candidate-vibid:2322000968315": 26,
+      "gas:candidate-vibid:2322000968220": 18,
+      "gas:candidate-vibid:2322000966863": 107,
+      "gas:candidate-vibid:2322000968302": 64,
+      "gas:candidate-vibid:2322000966875": 48,
+      "gas:candidate-vibid:2322000968519": 58,
+      "gas:candidate-vibid:2322000968508": 1124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 28,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 22,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 16,
-      "Медведь Иван Владимирович": 29,
-      "Миронова Валентина Михайловна": 352
+      "gas:candidate-vibid:2322000966887": 28,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 22,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 16,
+      "gas:candidate-vibid:2322000968519": 29,
+      "gas:candidate-vibid:2322000968508": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 154,
-      "Горелов Сергей Иванович": 23,
-      "Каничев Вадим Александрович": 41,
-      "Киселёв Виктор Николаевич": 97,
-      "Махотина Ольга Анатольевна": 46,
-      "Медведков Александр Александрович": 52,
-      "Медведь Иван Владимирович": 65,
-      "Миронова Валентина Михайловна": 553
+      "gas:candidate-vibid:2322000966887": 154,
+      "gas:candidate-vibid:2322000968315": 23,
+      "gas:candidate-vibid:2322000968220": 41,
+      "gas:candidate-vibid:2322000966863": 97,
+      "gas:candidate-vibid:2322000968302": 46,
+      "gas:candidate-vibid:2322000966875": 52,
+      "gas:candidate-vibid:2322000968519": 65,
+      "gas:candidate-vibid:2322000968508": 553
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 111,
-      "Горелов Сергей Иванович": 11,
-      "Каничев Вадим Александрович": 11,
-      "Киселёв Виктор Николаевич": 78,
-      "Махотина Ольга Анатольевна": 12,
-      "Медведков Александр Александрович": 29,
-      "Медведь Иван Владимирович": 34,
-      "Миронова Валентина Михайловна": 424
+      "gas:candidate-vibid:2322000966887": 111,
+      "gas:candidate-vibid:2322000968315": 11,
+      "gas:candidate-vibid:2322000968220": 11,
+      "gas:candidate-vibid:2322000966863": 78,
+      "gas:candidate-vibid:2322000968302": 12,
+      "gas:candidate-vibid:2322000966875": 29,
+      "gas:candidate-vibid:2322000968519": 34,
+      "gas:candidate-vibid:2322000968508": 424
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 28,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 46,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 18,
-      "Миронова Валентина Михайловна": 226
+      "gas:candidate-vibid:2322000966887": 28,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 46,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 18,
+      "gas:candidate-vibid:2322000968508": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 22,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 31,
-      "Махотина Ольга Анатольевна": 10,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 188
+      "gas:candidate-vibid:2322000966887": 22,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 31,
+      "gas:candidate-vibid:2322000968302": 10,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 17,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 21,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 130
+      "gas:candidate-vibid:2322000966887": 17,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 21,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 131,
-      "Горелов Сергей Иванович": 15,
-      "Каничев Вадим Александрович": 27,
-      "Киселёв Виктор Николаевич": 185,
-      "Махотина Ольга Анатольевна": 42,
-      "Медведков Александр Александрович": 57,
-      "Медведь Иван Владимирович": 77,
-      "Миронова Валентина Михайловна": 841
+      "gas:candidate-vibid:2322000966887": 131,
+      "gas:candidate-vibid:2322000968315": 15,
+      "gas:candidate-vibid:2322000968220": 27,
+      "gas:candidate-vibid:2322000966863": 185,
+      "gas:candidate-vibid:2322000968302": 42,
+      "gas:candidate-vibid:2322000966875": 57,
+      "gas:candidate-vibid:2322000968519": 77,
+      "gas:candidate-vibid:2322000968508": 841
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 4,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 16,
-      "Киселёв Виктор Николаевич": 68,
-      "Махотина Ольга Анатольевна": 26,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 1
+      "gas:candidate-vibid:2322000966887": 4,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 16,
+      "gas:candidate-vibid:2322000966863": 68,
+      "gas:candidate-vibid:2322000968302": 26,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 15,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 28,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 340
+      "gas:candidate-vibid:2322000966887": 15,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 28,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 17,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 109
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 17,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 19,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 107
+      "gas:candidate-vibid:2322000966887": 19,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 43,
-      "Горелов Сергей Иванович": 15,
-      "Каничев Вадим Александрович": 13,
-      "Киселёв Виктор Николаевич": 54,
-      "Махотина Ольга Анатольевна": 12,
-      "Медведков Александр Александрович": 20,
-      "Медведь Иван Владимирович": 29,
-      "Миронова Валентина Михайловна": 303
+      "gas:candidate-vibid:2322000966887": 43,
+      "gas:candidate-vibid:2322000968315": 15,
+      "gas:candidate-vibid:2322000968220": 13,
+      "gas:candidate-vibid:2322000966863": 54,
+      "gas:candidate-vibid:2322000968302": 12,
+      "gas:candidate-vibid:2322000966875": 20,
+      "gas:candidate-vibid:2322000968519": 29,
+      "gas:candidate-vibid:2322000968508": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 17,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 10,
-      "Киселёв Виктор Николаевич": 15,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 22,
-      "Миронова Валентина Михайловна": 239
+      "gas:candidate-vibid:2322000966887": 17,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 10,
+      "gas:candidate-vibid:2322000966863": 15,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 22,
+      "gas:candidate-vibid:2322000968508": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 69,
-      "Горелов Сергей Иванович": 8,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 72,
-      "Махотина Ольга Анатольевна": 14,
-      "Медведков Александр Александрович": 21,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 230
+      "gas:candidate-vibid:2322000966887": 69,
+      "gas:candidate-vibid:2322000968315": 8,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 72,
+      "gas:candidate-vibid:2322000968302": 14,
+      "gas:candidate-vibid:2322000966875": 21,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 53,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 45,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 20,
-      "Медведь Иван Владимирович": 20,
-      "Миронова Валентина Михайловна": 224
+      "gas:candidate-vibid:2322000966887": 53,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 45,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 20,
+      "gas:candidate-vibid:2322000968519": 20,
+      "gas:candidate-vibid:2322000968508": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 26,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 17,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 127
+      "gas:candidate-vibid:2322000966887": 26,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 17,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 110
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 18,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 37,
-      "Махотина Ольга Анатольевна": 13,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 19,
-      "Миронова Валентина Михайловна": 188
+      "gas:candidate-vibid:2322000966887": 18,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 37,
+      "gas:candidate-vibid:2322000968302": 13,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 19,
+      "gas:candidate-vibid:2322000968508": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 47,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 16,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 388
+      "gas:candidate-vibid:2322000966887": 47,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 16,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940940&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940940&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 95,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 83,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 39,
-      "Медведь Иван Владимирович": 212,
-      "Миронова Валентина Михайловна": 869
+      "gas:candidate-vibid:2322000966887": 95,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 83,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 39,
+      "gas:candidate-vibid:2322000968519": 212,
+      "gas:candidate-vibid:2322000968508": 869
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 4,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 117
+      "gas:candidate-vibid:2322000966887": 4,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 9,
-      "Миронова Валентина Михайловна": 75
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 9,
+      "gas:candidate-vibid:2322000968508": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 20,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 24,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 56,
-      "Миронова Валентина Михайловна": 785
+      "gas:candidate-vibid:2322000966887": 20,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 24,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 56,
+      "gas:candidate-vibid:2322000968508": 785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 3,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 11,
-      "Миронова Валентина Михайловна": 276
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 3,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 11,
+      "gas:candidate-vibid:2322000968508": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 73,
-      "Миронова Валентина Михайловна": 202
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 73,
+      "gas:candidate-vibid:2322000968508": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 3,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 58
+      "gas:candidate-vibid:2322000966887": 3,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 63
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 9,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 18,
-      "Миронова Валентина Михайловна": 122
+      "gas:candidate-vibid:2322000966887": 9,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 18,
+      "gas:candidate-vibid:2322000968508": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 135
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 25,
-      "Миронова Валентина Михайловна": 269
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 25,
+      "gas:candidate-vibid:2322000968508": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 275
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 8,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 264,
-      "Миронова Валентина Михайловна": 841
+      "gas:candidate-vibid:2322000966887": 8,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 264,
+      "gas:candidate-vibid:2322000968508": 841
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 177
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 27,
-      "Миронова Валентина Михайловна": 211
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 27,
+      "gas:candidate-vibid:2322000968508": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 3,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 98
+      "gas:candidate-vibid:2322000966887": 3,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 95
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 1,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 17,
-      "Миронова Валентина Михайловна": 130
+      "gas:candidate-vibid:2322000966887": 1,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 17,
+      "gas:candidate-vibid:2322000968508": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 18,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 18,
-      "Миронова Валентина Михайловна": 251
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 18,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 18,
+      "gas:candidate-vibid:2322000968508": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 92
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 3,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 3,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 121
+      "gas:candidate-vibid:2322000966887": 3,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 3,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 6,
-      "Миронова Валентина Михайловна": 145
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 6,
+      "gas:candidate-vibid:2322000968508": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940941&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940941&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 133,
-      "Горелов Сергей Иванович": 15,
-      "Каничев Вадим Александрович": 11,
-      "Киселёв Виктор Николаевич": 114,
-      "Махотина Ольга Анатольевна": 11,
-      "Медведков Александр Александрович": 26,
-      "Медведь Иван Владимирович": 65,
-      "Миронова Валентина Михайловна": 339
+      "gas:candidate-vibid:2322000966887": 133,
+      "gas:candidate-vibid:2322000968315": 15,
+      "gas:candidate-vibid:2322000968220": 11,
+      "gas:candidate-vibid:2322000966863": 114,
+      "gas:candidate-vibid:2322000968302": 11,
+      "gas:candidate-vibid:2322000966875": 26,
+      "gas:candidate-vibid:2322000968519": 65,
+      "gas:candidate-vibid:2322000968508": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 117,
-      "Горелов Сергей Иванович": 12,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 83,
-      "Махотина Ольга Анатольевна": 11,
-      "Медведков Александр Александрович": 38,
-      "Медведь Иван Владимирович": 32,
-      "Миронова Валентина Михайловна": 323
+      "gas:candidate-vibid:2322000966887": 117,
+      "gas:candidate-vibid:2322000968315": 12,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 83,
+      "gas:candidate-vibid:2322000968302": 11,
+      "gas:candidate-vibid:2322000966875": 38,
+      "gas:candidate-vibid:2322000968519": 32,
+      "gas:candidate-vibid:2322000968508": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 82,
-      "Горелов Сергей Иванович": 14,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 97,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 18,
-      "Медведь Иван Владимирович": 36,
-      "Миронова Валентина Михайловна": 224
+      "gas:candidate-vibid:2322000966887": 82,
+      "gas:candidate-vibid:2322000968315": 14,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 97,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 18,
+      "gas:candidate-vibid:2322000968519": 36,
+      "gas:candidate-vibid:2322000968508": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 85,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 48,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 17,
-      "Миронова Валентина Михайловна": 444
+      "gas:candidate-vibid:2322000966887": 85,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 48,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 17,
+      "gas:candidate-vibid:2322000968508": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 35,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 43,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 134
+      "gas:candidate-vibid:2322000966887": 35,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 43,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 25,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 12,
-      "Миронова Валентина Михайловна": 155
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 25,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 12,
+      "gas:candidate-vibid:2322000968508": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 54,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 13,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 113
+      "gas:candidate-vibid:2322000966887": 54,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 13,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 12,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 119
+      "gas:candidate-vibid:2322000966887": 12,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 32,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 26,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 208
+      "gas:candidate-vibid:2322000966887": 32,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 26,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 9,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 1,
-      "Миронова Валентина Михайловна": 44
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 9,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 1,
+      "gas:candidate-vibid:2322000968508": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 8,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 18,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 149
+      "gas:candidate-vibid:2322000966887": 8,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 18,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 32,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 29,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 195
+      "gas:candidate-vibid:2322000966887": 32,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 29,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 41,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 11,
-      "Миронова Валентина Михайловна": 134
+      "gas:candidate-vibid:2322000966887": 41,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 11,
+      "gas:candidate-vibid:2322000968508": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 10,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 77
+      "gas:candidate-vibid:2322000966887": 10,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 111,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 11,
-      "Киселёв Виктор Николаевич": 55,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 16,
-      "Медведь Иван Владимирович": 27,
-      "Миронова Валентина Михайловна": 162
+      "gas:candidate-vibid:2322000966887": 111,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 11,
+      "gas:candidate-vibid:2322000966863": 55,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 16,
+      "gas:candidate-vibid:2322000968519": 27,
+      "gas:candidate-vibid:2322000968508": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 140,
-      "Горелов Сергей Иванович": 27,
-      "Каничев Вадим Александрович": 47,
-      "Киселёв Виктор Николаевич": 201,
-      "Махотина Ольга Анатольевна": 38,
-      "Медведков Александр Александрович": 51,
-      "Медведь Иван Владимирович": 46,
-      "Миронова Валентина Михайловна": 368
+      "gas:candidate-vibid:2322000966887": 140,
+      "gas:candidate-vibid:2322000968315": 27,
+      "gas:candidate-vibid:2322000968220": 47,
+      "gas:candidate-vibid:2322000966863": 201,
+      "gas:candidate-vibid:2322000968302": 38,
+      "gas:candidate-vibid:2322000966875": 51,
+      "gas:candidate-vibid:2322000968519": 46,
+      "gas:candidate-vibid:2322000968508": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 55,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 8,
-      "Киселёв Виктор Николаевич": 32,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 142
+      "gas:candidate-vibid:2322000966887": 55,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 8,
+      "gas:candidate-vibid:2322000966863": 32,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 19,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 58
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 19,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 35,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 41
+      "gas:candidate-vibid:2322000966887": 35,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 20,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 60
+      "gas:candidate-vibid:2322000966887": 20,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 10,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 56
+      "gas:candidate-vibid:2322000966887": 10,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940942&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940942&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 139,
-      "Горелов Сергей Иванович": 12,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 236,
-      "Махотина Ольга Анатольевна": 21,
-      "Медведков Александр Александрович": 21,
-      "Медведь Иван Владимирович": 26,
-      "Миронова Валентина Михайловна": 316
+      "gas:candidate-vibid:2322000966887": 139,
+      "gas:candidate-vibid:2322000968315": 12,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 236,
+      "gas:candidate-vibid:2322000968302": 21,
+      "gas:candidate-vibid:2322000966875": 21,
+      "gas:candidate-vibid:2322000968519": 26,
+      "gas:candidate-vibid:2322000968508": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 55,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 48,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 99
+      "gas:candidate-vibid:2322000966887": 55,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 48,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 68,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 100,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 250
+      "gas:candidate-vibid:2322000966887": 68,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 100,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 59,
-      "Горелов Сергей Иванович": 9,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 131,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 136
+      "gas:candidate-vibid:2322000966887": 59,
+      "gas:candidate-vibid:2322000968315": 9,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 131,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 62,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 121,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 15,
-      "Медведь Иван Владимирович": 9,
-      "Миронова Валентина Михайловна": 104
+      "gas:candidate-vibid:2322000966887": 62,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 121,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 15,
+      "gas:candidate-vibid:2322000968519": 9,
+      "gas:candidate-vibid:2322000968508": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 118,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 137,
-      "Махотина Ольга Анатольевна": 12,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 186
+      "gas:candidate-vibid:2322000966887": 118,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 137,
+      "gas:candidate-vibid:2322000968302": 12,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 67,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 56,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 6,
-      "Миронова Валентина Михайловна": 83
+      "gas:candidate-vibid:2322000966887": 67,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 56,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 6,
+      "gas:candidate-vibid:2322000968508": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 206,
-      "Горелов Сергей Иванович": 19,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 217,
-      "Махотина Ольга Анатольевна": 16,
-      "Медведков Александр Александрович": 31,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 262
+      "gas:candidate-vibid:2322000966887": 206,
+      "gas:candidate-vibid:2322000968315": 19,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 217,
+      "gas:candidate-vibid:2322000968302": 16,
+      "gas:candidate-vibid:2322000966875": 31,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 60,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 131,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 160
+      "gas:candidate-vibid:2322000966887": 60,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 131,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 31,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 73,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 160
+      "gas:candidate-vibid:2322000966887": 31,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 73,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 80,
-      "Горелов Сергей Иванович": 8,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 137,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 18,
-      "Миронова Валентина Михайловна": 166
+      "gas:candidate-vibid:2322000966887": 80,
+      "gas:candidate-vibid:2322000968315": 8,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 137,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 18,
+      "gas:candidate-vibid:2322000968508": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 34,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 43,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 79
+      "gas:candidate-vibid:2322000966887": 34,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 43,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 40,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 79,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 12,
-      "Миронова Валентина Михайловна": 112
+      "gas:candidate-vibid:2322000966887": 40,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 79,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 12,
+      "gas:candidate-vibid:2322000968508": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 58,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 111,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 12,
-      "Миронова Валентина Михайловна": 104
+      "gas:candidate-vibid:2322000966887": 58,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 111,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 12,
+      "gas:candidate-vibid:2322000968508": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 34,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 93,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 185
+      "gas:candidate-vibid:2322000966887": 34,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 93,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 120,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 10,
-      "Киселёв Виктор Николаевич": 269,
-      "Махотина Ольга Анатольевна": 10,
-      "Медведков Александр Александрович": 25,
-      "Медведь Иван Владимирович": 19,
-      "Миронова Валентина Михайловна": 196
+      "gas:candidate-vibid:2322000966887": 120,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 10,
+      "gas:candidate-vibid:2322000966863": 269,
+      "gas:candidate-vibid:2322000968302": 10,
+      "gas:candidate-vibid:2322000966875": 25,
+      "gas:candidate-vibid:2322000968519": 19,
+      "gas:candidate-vibid:2322000968508": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 47,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 90,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 11,
-      "Миронова Валентина Михайловна": 74
+      "gas:candidate-vibid:2322000966887": 47,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 90,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 11,
+      "gas:candidate-vibid:2322000968508": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 245,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 9,
-      "Киселёв Виктор Николаевич": 314,
-      "Махотина Ольга Анатольевна": 23,
-      "Медведков Александр Александрович": 29,
-      "Медведь Иван Владимирович": 30,
-      "Миронова Валентина Михайловна": 530
+      "gas:candidate-vibid:2322000966887": 245,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 9,
+      "gas:candidate-vibid:2322000966863": 314,
+      "gas:candidate-vibid:2322000968302": 23,
+      "gas:candidate-vibid:2322000966875": 29,
+      "gas:candidate-vibid:2322000968519": 30,
+      "gas:candidate-vibid:2322000968508": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 17,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 400,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 55
+      "gas:candidate-vibid:2322000966887": 17,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 400,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 39,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 428,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 72
+      "gas:candidate-vibid:2322000966887": 39,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 428,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 8,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 78,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 65
+      "gas:candidate-vibid:2322000966887": 8,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 78,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 71,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 8,
-      "Киселёв Виктор Николаевич": 117,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 33,
-      "Миронова Валентина Михайловна": 284
+      "gas:candidate-vibid:2322000966887": 71,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 8,
+      "gas:candidate-vibid:2322000966863": 117,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 33,
+      "gas:candidate-vibid:2322000968508": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 50,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 73,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 300
+      "gas:candidate-vibid:2322000966887": 50,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 73,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 142,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 211,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 31,
-      "Медведь Иван Владимирович": 43,
-      "Миронова Валентина Михайловна": 311
+      "gas:candidate-vibid:2322000966887": 142,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 211,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 31,
+      "gas:candidate-vibid:2322000968519": 43,
+      "gas:candidate-vibid:2322000968508": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 29,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 123,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 200
+      "gas:candidate-vibid:2322000966887": 29,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 123,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 131,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 152,
-      "Махотина Ольга Анатольевна": 15,
-      "Медведков Александр Александрович": 24,
-      "Медведь Иван Владимирович": 36,
-      "Миронова Валентина Михайловна": 1036
+      "gas:candidate-vibid:2322000966887": 131,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 152,
+      "gas:candidate-vibid:2322000968302": 15,
+      "gas:candidate-vibid:2322000966875": 24,
+      "gas:candidate-vibid:2322000968519": 36,
+      "gas:candidate-vibid:2322000968508": 1036
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 77,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 94,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 574
+      "gas:candidate-vibid:2322000966887": 77,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 94,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 574
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 112,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 49,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 23,
-      "Миронова Валентина Михайловна": 352
+      "gas:candidate-vibid:2322000966887": 112,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 49,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 23,
+      "gas:candidate-vibid:2322000968508": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 96,
-      "Горелов Сергей Иванович": 12,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 93,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 301
+      "gas:candidate-vibid:2322000966887": 96,
+      "gas:candidate-vibid:2322000968315": 12,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 93,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 137,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 86,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 11,
-      "Миронова Валентина Михайловна": 301
+      "gas:candidate-vibid:2322000966887": 137,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 86,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 11,
+      "gas:candidate-vibid:2322000968508": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 29,
-      "Горелов Сергей Иванович": 9,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 46,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 97
+      "gas:candidate-vibid:2322000966887": 29,
+      "gas:candidate-vibid:2322000968315": 9,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 46,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 94,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 83,
-      "Махотина Ольга Анатольевна": 22,
-      "Медведков Александр Александрович": 23,
-      "Медведь Иван Владимирович": 30,
-      "Миронова Валентина Михайловна": 361
+      "gas:candidate-vibid:2322000966887": 94,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 83,
+      "gas:candidate-vibid:2322000968302": 22,
+      "gas:candidate-vibid:2322000966875": 23,
+      "gas:candidate-vibid:2322000968519": 30,
+      "gas:candidate-vibid:2322000968508": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 50,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 32,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 116
+      "gas:candidate-vibid:2322000966887": 50,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 32,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 86,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 154,
-      "Махотина Ольга Анатольевна": 11,
-      "Медведков Александр Александрович": 13,
-      "Медведь Иван Владимирович": 31,
-      "Миронова Валентина Михайловна": 256
+      "gas:candidate-vibid:2322000966887": 86,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 154,
+      "gas:candidate-vibid:2322000968302": 11,
+      "gas:candidate-vibid:2322000966875": 13,
+      "gas:candidate-vibid:2322000968519": 31,
+      "gas:candidate-vibid:2322000968508": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 31,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 37,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 11,
-      "Миронова Валентина Михайловна": 69
+      "gas:candidate-vibid:2322000966887": 31,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 37,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 11,
+      "gas:candidate-vibid:2322000968508": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 15,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 85
+      "gas:candidate-vibid:2322000966887": 15,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 19,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 86
+      "gas:candidate-vibid:2322000966887": 19,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 385,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 22
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 385,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 87,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 162,
-      "Махотина Ольга Анатольевна": 12,
-      "Медведков Александр Александрович": 18,
-      "Медведь Иван Владимирович": 23,
-      "Миронова Валентина Михайловна": 423
+      "gas:candidate-vibid:2322000966887": 87,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 162,
+      "gas:candidate-vibid:2322000968302": 12,
+      "gas:candidate-vibid:2322000966875": 18,
+      "gas:candidate-vibid:2322000968519": 23,
+      "gas:candidate-vibid:2322000968508": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 7,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 32,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 2,
-      "Миронова Валентина Михайловна": 115
+      "gas:candidate-vibid:2322000966887": 7,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 32,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 2,
+      "gas:candidate-vibid:2322000968508": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 90,
-      "Горелов Сергей Иванович": 12,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 68,
-      "Махотина Ольга Анатольевна": 16,
-      "Медведков Александр Александрович": 21,
-      "Медведь Иван Владимирович": 25,
-      "Миронова Валентина Михайловна": 947
+      "gas:candidate-vibid:2322000966887": 90,
+      "gas:candidate-vibid:2322000968315": 12,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 68,
+      "gas:candidate-vibid:2322000968302": 16,
+      "gas:candidate-vibid:2322000966875": 21,
+      "gas:candidate-vibid:2322000968519": 25,
+      "gas:candidate-vibid:2322000968508": 947
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 170,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 55,
-      "Махотина Ольга Анатольевна": 15,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 33,
-      "Миронова Валентина Михайловна": 708
+      "gas:candidate-vibid:2322000966887": 170,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 55,
+      "gas:candidate-vibid:2322000968302": 15,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 33,
+      "gas:candidate-vibid:2322000968508": 708
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 151
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 157,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 11,
-      "Киселёв Виктор Николаевич": 97,
-      "Махотина Ольга Анатольевна": 20,
-      "Медведков Александр Александрович": 61,
-      "Медведь Иван Владимирович": 26,
-      "Миронова Валентина Михайловна": 1022
+      "gas:candidate-vibid:2322000966887": 157,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 11,
+      "gas:candidate-vibid:2322000966863": 97,
+      "gas:candidate-vibid:2322000968302": 20,
+      "gas:candidate-vibid:2322000966875": 61,
+      "gas:candidate-vibid:2322000968519": 26,
+      "gas:candidate-vibid:2322000968508": 1022
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 150,
-      "Горелов Сергей Иванович": 11,
-      "Каничев Вадим Александрович": 12,
-      "Киселёв Виктор Николаевич": 98,
-      "Махотина Ольга Анатольевна": 15,
-      "Медведков Александр Александрович": 41,
-      "Медведь Иван Владимирович": 23,
-      "Миронова Валентина Михайловна": 1020
+      "gas:candidate-vibid:2322000966887": 150,
+      "gas:candidate-vibid:2322000968315": 11,
+      "gas:candidate-vibid:2322000968220": 12,
+      "gas:candidate-vibid:2322000966863": 98,
+      "gas:candidate-vibid:2322000968302": 15,
+      "gas:candidate-vibid:2322000966875": 41,
+      "gas:candidate-vibid:2322000968519": 23,
+      "gas:candidate-vibid:2322000968508": 1020
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 120,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 8,
-      "Киселёв Виктор Николаевич": 120,
-      "Махотина Ольга Анатольевна": 15,
-      "Медведков Александр Александрович": 38,
-      "Медведь Иван Владимирович": 30,
-      "Миронова Валентина Михайловна": 1148
+      "gas:candidate-vibid:2322000966887": 120,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 8,
+      "gas:candidate-vibid:2322000966863": 120,
+      "gas:candidate-vibid:2322000968302": 15,
+      "gas:candidate-vibid:2322000966875": 38,
+      "gas:candidate-vibid:2322000968519": 30,
+      "gas:candidate-vibid:2322000968508": 1148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940943&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940943&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 22,
-      "Горелов Сергей Иванович": 8,
-      "Каничев Вадим Александрович": 10,
-      "Киселёв Виктор Николаевич": 40,
-      "Махотина Ольга Анатольевна": 29,
-      "Медведков Александр Александрович": 13,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 402
+      "gas:candidate-vibid:2322000966887": 22,
+      "gas:candidate-vibid:2322000968315": 8,
+      "gas:candidate-vibid:2322000968220": 10,
+      "gas:candidate-vibid:2322000966863": 40,
+      "gas:candidate-vibid:2322000968302": 29,
+      "gas:candidate-vibid:2322000966875": 13,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 12,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 17,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 198
+      "gas:candidate-vibid:2322000966887": 12,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 17,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 31,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 193
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 31,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 47,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 63,
-      "Махотина Ольга Анатольевна": 11,
-      "Медведков Александр Александрович": 19,
-      "Медведь Иван Владимирович": 34,
-      "Миронова Валентина Михайловна": 264
+      "gas:candidate-vibid:2322000966887": 47,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 63,
+      "gas:candidate-vibid:2322000968302": 11,
+      "gas:candidate-vibid:2322000966875": 19,
+      "gas:candidate-vibid:2322000968519": 34,
+      "gas:candidate-vibid:2322000968508": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 113
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 13,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 85
+      "gas:candidate-vibid:2322000966887": 13,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 14,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 111
+      "gas:candidate-vibid:2322000966887": 14,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 119
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 23,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 19,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 131
+      "gas:candidate-vibid:2322000966887": 23,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 19,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 6,
-      "Миронова Валентина Михайловна": 154
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 6,
+      "gas:candidate-vibid:2322000968508": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 15,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 178
+      "gas:candidate-vibid:2322000966887": 15,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 18,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 137
+      "gas:candidate-vibid:2322000966887": 18,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 7,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 246
+      "gas:candidate-vibid:2322000966887": 7,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 6,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 9,
-      "Миронова Валентина Михайловна": 197
+      "gas:candidate-vibid:2322000966887": 6,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 9,
+      "gas:candidate-vibid:2322000968508": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940944&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940944&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 173,
-      "Горелов Сергей Иванович": 15,
-      "Каничев Вадим Александрович": 9,
-      "Киселёв Виктор Николаевич": 83,
-      "Махотина Ольга Анатольевна": 32,
-      "Медведков Александр Александрович": 40,
-      "Медведь Иван Владимирович": 41,
-      "Миронова Валентина Михайловна": 459
+      "gas:candidate-vibid:2322000966887": 173,
+      "gas:candidate-vibid:2322000968315": 15,
+      "gas:candidate-vibid:2322000968220": 9,
+      "gas:candidate-vibid:2322000966863": 83,
+      "gas:candidate-vibid:2322000968302": 32,
+      "gas:candidate-vibid:2322000966875": 40,
+      "gas:candidate-vibid:2322000968519": 41,
+      "gas:candidate-vibid:2322000968508": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 190,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 14,
-      "Киселёв Виктор Николаевич": 85,
-      "Махотина Ольга Анатольевна": 22,
-      "Медведков Александр Александрович": 42,
-      "Медведь Иван Владимирович": 51,
-      "Миронова Валентина Михайловна": 294
+      "gas:candidate-vibid:2322000966887": 190,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 14,
+      "gas:candidate-vibid:2322000966863": 85,
+      "gas:candidate-vibid:2322000968302": 22,
+      "gas:candidate-vibid:2322000966875": 42,
+      "gas:candidate-vibid:2322000968519": 51,
+      "gas:candidate-vibid:2322000968508": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 86,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 39,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 18,
-      "Медведь Иван Владимирович": 35,
-      "Миронова Валентина Михайловна": 207
+      "gas:candidate-vibid:2322000966887": 86,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 39,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 18,
+      "gas:candidate-vibid:2322000968519": 35,
+      "gas:candidate-vibid:2322000968508": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 98,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 9,
-      "Киселёв Виктор Николаевич": 58,
-      "Махотина Ольга Анатольевна": 15,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 57,
-      "Миронова Валентина Михайловна": 258
+      "gas:candidate-vibid:2322000966887": 98,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 9,
+      "gas:candidate-vibid:2322000966863": 58,
+      "gas:candidate-vibid:2322000968302": 15,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 57,
+      "gas:candidate-vibid:2322000968508": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 176,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 58,
-      "Махотина Ольга Анатольевна": 14,
-      "Медведков Александр Александрович": 31,
-      "Медведь Иван Владимирович": 45,
-      "Миронова Валентина Михайловна": 350
+      "gas:candidate-vibid:2322000966887": 176,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 58,
+      "gas:candidate-vibid:2322000968302": 14,
+      "gas:candidate-vibid:2322000966875": 31,
+      "gas:candidate-vibid:2322000968519": 45,
+      "gas:candidate-vibid:2322000968508": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 53,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 9,
-      "Киселёв Виктор Николаевич": 60,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 19,
-      "Медведь Иван Владимирович": 45,
-      "Миронова Валентина Михайловна": 162
+      "gas:candidate-vibid:2322000966887": 53,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 9,
+      "gas:candidate-vibid:2322000966863": 60,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 19,
+      "gas:candidate-vibid:2322000968519": 45,
+      "gas:candidate-vibid:2322000968508": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 130,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 72,
-      "Махотина Ольга Анатольевна": 14,
-      "Медведков Александр Александрович": 23,
-      "Медведь Иван Владимирович": 53,
-      "Миронова Валентина Михайловна": 284
+      "gas:candidate-vibid:2322000966887": 130,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 72,
+      "gas:candidate-vibid:2322000968302": 14,
+      "gas:candidate-vibid:2322000966875": 23,
+      "gas:candidate-vibid:2322000968519": 53,
+      "gas:candidate-vibid:2322000968508": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 97,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 26,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 37,
-      "Медведь Иван Владимирович": 40,
-      "Миронова Валентина Михайловна": 356
+      "gas:candidate-vibid:2322000966887": 97,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 26,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 37,
+      "gas:candidate-vibid:2322000968519": 40,
+      "gas:candidate-vibid:2322000968508": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 50,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 38,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 135
+      "gas:candidate-vibid:2322000966887": 50,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 38,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 59,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 54,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 23,
-      "Медведь Иван Владимирович": 27,
-      "Миронова Валентина Михайловна": 183
+      "gas:candidate-vibid:2322000966887": 59,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 54,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 23,
+      "gas:candidate-vibid:2322000968519": 27,
+      "gas:candidate-vibid:2322000968508": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 77,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 49,
-      "Махотина Ольга Анатольевна": 13,
-      "Медведков Александр Александрович": 22,
-      "Медведь Иван Владимирович": 28,
-      "Миронова Валентина Михайловна": 247
+      "gas:candidate-vibid:2322000966887": 77,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 49,
+      "gas:candidate-vibid:2322000968302": 13,
+      "gas:candidate-vibid:2322000966875": 22,
+      "gas:candidate-vibid:2322000968519": 28,
+      "gas:candidate-vibid:2322000968508": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 121,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 11,
-      "Киселёв Виктор Николаевич": 37,
-      "Махотина Ольга Анатольевна": 14,
-      "Медведков Александр Александрович": 34,
-      "Медведь Иван Владимирович": 42,
-      "Миронова Валентина Михайловна": 278
+      "gas:candidate-vibid:2322000966887": 121,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 11,
+      "gas:candidate-vibid:2322000966863": 37,
+      "gas:candidate-vibid:2322000968302": 14,
+      "gas:candidate-vibid:2322000966875": 34,
+      "gas:candidate-vibid:2322000968519": 42,
+      "gas:candidate-vibid:2322000968508": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 74,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 10,
-      "Киселёв Виктор Николаевич": 29,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 22,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 216
+      "gas:candidate-vibid:2322000966887": 74,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 10,
+      "gas:candidate-vibid:2322000966863": 29,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 22,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 10,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 12,
-      "Миронова Валентина Михайловна": 142
+      "gas:candidate-vibid:2322000966887": 10,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 12,
+      "gas:candidate-vibid:2322000968508": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 39,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 19,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 18,
-      "Медведь Иван Владимирович": 20,
-      "Миронова Валентина Михайловна": 90
+      "gas:candidate-vibid:2322000966887": 39,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 19,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 18,
+      "gas:candidate-vibid:2322000968519": 20,
+      "gas:candidate-vibid:2322000968508": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 123,
-      "Горелов Сергей Иванович": 13,
-      "Каничев Вадим Александрович": 23,
-      "Киселёв Виктор Николаевич": 144,
-      "Махотина Ольга Анатольевна": 20,
-      "Медведков Александр Александрович": 30,
-      "Медведь Иван Владимирович": 55,
-      "Миронова Валентина Михайловна": 320
+      "gas:candidate-vibid:2322000966887": 123,
+      "gas:candidate-vibid:2322000968315": 13,
+      "gas:candidate-vibid:2322000968220": 23,
+      "gas:candidate-vibid:2322000966863": 144,
+      "gas:candidate-vibid:2322000968302": 20,
+      "gas:candidate-vibid:2322000966875": 30,
+      "gas:candidate-vibid:2322000968519": 55,
+      "gas:candidate-vibid:2322000968508": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 27,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 18,
-      "Медведь Иван Владимирович": 22,
-      "Миронова Валентина Михайловна": 76
+      "gas:candidate-vibid:2322000966887": 27,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 18,
+      "gas:candidate-vibid:2322000968519": 22,
+      "gas:candidate-vibid:2322000968508": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 36,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 34,
-      "Махотина Ольга Анатольевна": 13,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 201
+      "gas:candidate-vibid:2322000966887": 36,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 34,
+      "gas:candidate-vibid:2322000968302": 13,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 56,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 15,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 93
+      "gas:candidate-vibid:2322000966887": 56,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 15,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 36,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 19,
-      "Миронова Валентина Михайловна": 167
+      "gas:candidate-vibid:2322000966887": 36,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 19,
+      "gas:candidate-vibid:2322000968508": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 30,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 21,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 19,
-      "Миронова Валентина Михайловна": 174
+      "gas:candidate-vibid:2322000966887": 30,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 21,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 19,
+      "gas:candidate-vibid:2322000968508": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 64,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 13,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 25,
-      "Миронова Валентина Михайловна": 68
+      "gas:candidate-vibid:2322000966887": 64,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 13,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 25,
+      "gas:candidate-vibid:2322000968508": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 13,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 11,
-      "Миронова Валентина Михайловна": 95
+      "gas:candidate-vibid:2322000966887": 13,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 11,
+      "gas:candidate-vibid:2322000968508": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 13,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 10,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 17,
-      "Медведь Иван Владимирович": 20,
-      "Миронова Валентина Михайловна": 81
+      "gas:candidate-vibid:2322000966887": 13,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 10,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 17,
+      "gas:candidate-vibid:2322000968519": 20,
+      "gas:candidate-vibid:2322000968508": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 17,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 10,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 1,
-      "Миронова Валентина Михайловна": 44
+      "gas:candidate-vibid:2322000966887": 17,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 10,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 1,
+      "gas:candidate-vibid:2322000968508": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 41,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 21,
-      "Махотина Ольга Анатольевна": 13,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 25,
-      "Миронова Валентина Михайловна": 221
+      "gas:candidate-vibid:2322000966887": 41,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 21,
+      "gas:candidate-vibid:2322000968302": 13,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 25,
+      "gas:candidate-vibid:2322000968508": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 38,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 27,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 31,
-      "Миронова Валентина Михайловна": 306
+      "gas:candidate-vibid:2322000966887": 38,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 27,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 31,
+      "gas:candidate-vibid:2322000968508": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 47,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 24,
-      "Махотина Ольга Анатольевна": 9,
-      "Медведков Александр Александрович": 23,
-      "Медведь Иван Владимирович": 79,
-      "Миронова Валентина Михайловна": 233
+      "gas:candidate-vibid:2322000966887": 47,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 24,
+      "gas:candidate-vibid:2322000968302": 9,
+      "gas:candidate-vibid:2322000966875": 23,
+      "gas:candidate-vibid:2322000968519": 79,
+      "gas:candidate-vibid:2322000968508": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 129,
-      "Горелов Сергей Иванович": 8,
-      "Каничев Вадим Александрович": 8,
-      "Киселёв Виктор Николаевич": 77,
-      "Махотина Ольга Анатольевна": 14,
-      "Медведков Александр Александрович": 27,
-      "Медведь Иван Владимирович": 42,
-      "Миронова Валентина Михайловна": 420
+      "gas:candidate-vibid:2322000966887": 129,
+      "gas:candidate-vibid:2322000968315": 8,
+      "gas:candidate-vibid:2322000968220": 8,
+      "gas:candidate-vibid:2322000966863": 77,
+      "gas:candidate-vibid:2322000968302": 14,
+      "gas:candidate-vibid:2322000966875": 27,
+      "gas:candidate-vibid:2322000968519": 42,
+      "gas:candidate-vibid:2322000968508": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 8,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 16,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 6,
-      "Миронова Валентина Михайловна": 71
+      "gas:candidate-vibid:2322000966887": 8,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 16,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 6,
+      "gas:candidate-vibid:2322000968508": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 81,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 29,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 18,
-      "Медведь Иван Владимирович": 25,
-      "Миронова Валентина Михайловна": 221
+      "gas:candidate-vibid:2322000966887": 81,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 29,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 18,
+      "gas:candidate-vibid:2322000968519": 25,
+      "gas:candidate-vibid:2322000968508": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 26,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 20,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 21,
-      "Медведь Иван Владимирович": 12,
-      "Миронова Валентина Михайловна": 139
+      "gas:candidate-vibid:2322000966887": 26,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 20,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 21,
+      "gas:candidate-vibid:2322000968519": 12,
+      "gas:candidate-vibid:2322000968508": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 15,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 17,
-      "Миронова Валентина Михайловна": 100
+      "gas:candidate-vibid:2322000966887": 15,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 17,
+      "gas:candidate-vibid:2322000968508": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 34,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 39,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 15,
-      "Медведь Иван Владимирович": 35,
-      "Миронова Валентина Михайловна": 166
+      "gas:candidate-vibid:2322000966887": 34,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 39,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 15,
+      "gas:candidate-vibid:2322000968519": 35,
+      "gas:candidate-vibid:2322000968508": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 83,
-      "Горелов Сергей Иванович": 18,
-      "Каничев Вадим Александрович": 15,
-      "Киселёв Виктор Николаевич": 144,
-      "Махотина Ольга Анатольевна": 33,
-      "Медведков Александр Александрович": 35,
-      "Медведь Иван Владимирович": 44,
-      "Миронова Валентина Михайловна": 550
+      "gas:candidate-vibid:2322000966887": 83,
+      "gas:candidate-vibid:2322000968315": 18,
+      "gas:candidate-vibid:2322000968220": 15,
+      "gas:candidate-vibid:2322000966863": 144,
+      "gas:candidate-vibid:2322000968302": 33,
+      "gas:candidate-vibid:2322000966875": 35,
+      "gas:candidate-vibid:2322000968519": 44,
+      "gas:candidate-vibid:2322000968508": 550
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940945&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940945&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 33,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 36,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 20,
-      "Миронова Валентина Михайловна": 102
+      "gas:candidate-vibid:2322000966887": 33,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 36,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 20,
+      "gas:candidate-vibid:2322000968508": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 68,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 53,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 23,
-      "Миронова Валентина Михайловна": 323
+      "gas:candidate-vibid:2322000966887": 68,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 53,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 23,
+      "gas:candidate-vibid:2322000968508": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 62,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 49,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 9,
-      "Медведь Иван Владимирович": 25,
-      "Миронова Валентина Михайловна": 478
+      "gas:candidate-vibid:2322000966887": 62,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 49,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 9,
+      "gas:candidate-vibid:2322000968519": 25,
+      "gas:candidate-vibid:2322000968508": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 94,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 73,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 50,
-      "Миронова Валентина Михайловна": 641
+      "gas:candidate-vibid:2322000966887": 94,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 73,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 50,
+      "gas:candidate-vibid:2322000968508": 641
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 57,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 6,
-      "Киселёв Виктор Николаевич": 73,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 22,
-      "Медведь Иван Владимирович": 64,
-      "Миронова Валентина Михайловна": 611
+      "gas:candidate-vibid:2322000966887": 57,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 6,
+      "gas:candidate-vibid:2322000966863": 73,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 22,
+      "gas:candidate-vibid:2322000968519": 64,
+      "gas:candidate-vibid:2322000968508": 611
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 294
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 59,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 39,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 22,
-      "Миронова Валентина Михайловна": 171
+      "gas:candidate-vibid:2322000966887": 59,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 39,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 22,
+      "gas:candidate-vibid:2322000968508": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 91,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 8,
-      "Киселёв Виктор Николаевич": 80,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 39,
-      "Миронова Валентина Михайловна": 358
+      "gas:candidate-vibid:2322000966887": 91,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 8,
+      "gas:candidate-vibid:2322000966863": 80,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 39,
+      "gas:candidate-vibid:2322000968508": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 25,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 25,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 347
+      "gas:candidate-vibid:2322000966887": 25,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 25,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 120,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 10,
-      "Киселёв Виктор Николаевич": 61,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 20,
-      "Медведь Иван Владимирович": 35,
-      "Миронова Валентина Михайловна": 392
+      "gas:candidate-vibid:2322000966887": 120,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 10,
+      "gas:candidate-vibid:2322000966863": 61,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 20,
+      "gas:candidate-vibid:2322000968519": 35,
+      "gas:candidate-vibid:2322000968508": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 40,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 9,
-      "Киселёв Виктор Николаевич": 30,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 323
+      "gas:candidate-vibid:2322000966887": 40,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 9,
+      "gas:candidate-vibid:2322000966863": 30,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 44,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 37,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 16,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 90
+      "gas:candidate-vibid:2322000966887": 44,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 37,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 16,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 13,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 34,
-      "Миронова Валентина Михайловна": 53
+      "gas:candidate-vibid:2322000966887": 13,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 34,
+      "gas:candidate-vibid:2322000968508": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 44,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 28,
-      "Миронова Валентина Михайловна": 178
+      "gas:candidate-vibid:2322000966887": 44,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 28,
+      "gas:candidate-vibid:2322000968508": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 39,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 10,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 135
+      "gas:candidate-vibid:2322000966887": 39,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 10,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 19,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 31,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 241
+      "gas:candidate-vibid:2322000966887": 19,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 31,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 8,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 114
+      "gas:candidate-vibid:2322000966887": 8,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 49,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 13,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 1,
-      "Миронова Валентина Михайловна": 81
+      "gas:candidate-vibid:2322000966887": 49,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 13,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 1,
+      "gas:candidate-vibid:2322000968508": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 16,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 0,
-      "Миронова Валентина Михайловна": 94
+      "gas:candidate-vibid:2322000966887": 16,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 0,
+      "gas:candidate-vibid:2322000968508": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 38,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 8,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 158
+      "gas:candidate-vibid:2322000966887": 38,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 8,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 90
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 25,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 10,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 2,
-      "Миронова Валентина Михайловна": 65
+      "gas:candidate-vibid:2322000966887": 25,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 10,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 2,
+      "gas:candidate-vibid:2322000968508": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 6,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 1,
-      "Миронова Валентина Михайловна": 39
+      "gas:candidate-vibid:2322000966887": 6,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 1,
+      "gas:candidate-vibid:2322000968508": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 27,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 8,
-      "Медведь Иван Владимирович": 12,
-      "Миронова Валентина Михайловна": 255
+      "gas:candidate-vibid:2322000966887": 27,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 8,
+      "gas:candidate-vibid:2322000968519": 12,
+      "gas:candidate-vibid:2322000968508": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 21,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 21,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 0,
-      "Миронова Валентина Михайловна": 134
+      "gas:candidate-vibid:2322000966887": 21,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 21,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 0,
+      "gas:candidate-vibid:2322000968508": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 22,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 13,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 79
+      "gas:candidate-vibid:2322000966887": 22,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 13,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 10,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 78
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 10,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 9,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 55
+      "gas:candidate-vibid:2322000966887": 9,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 7,
-      "Миронова Валентина Михайловна": 75
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 7,
+      "gas:candidate-vibid:2322000968508": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 6,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 57
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 6,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 20,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 11,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 9,
-      "Миронова Валентина Михайловна": 100
+      "gas:candidate-vibid:2322000966887": 20,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 11,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 9,
+      "gas:candidate-vibid:2322000968508": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 12,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 5,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 1,
-      "Миронова Валентина Михайловна": 83
+      "gas:candidate-vibid:2322000966887": 12,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 5,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 1,
+      "gas:candidate-vibid:2322000968508": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 14,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 68
+      "gas:candidate-vibid:2322000966887": 14,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940946&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940946&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 20,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 28,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 65,
-      "Миронова Валентина Михайловна": 203
+      "gas:candidate-vibid:2322000966887": 20,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 28,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 65,
+      "gas:candidate-vibid:2322000968508": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 10,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 61,
-      "Миронова Валентина Михайловна": 38
+      "gas:candidate-vibid:2322000966887": 10,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 61,
+      "gas:candidate-vibid:2322000968508": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 31,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 23,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 14,
-      "Медведь Иван Владимирович": 32,
-      "Миронова Валентина Михайловна": 273
+      "gas:candidate-vibid:2322000966887": 31,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 23,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 14,
+      "gas:candidate-vibid:2322000968519": 32,
+      "gas:candidate-vibid:2322000968508": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 24,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 24,
-      "Миронова Валентина Михайловна": 107
+      "gas:candidate-vibid:2322000966887": 24,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 24,
+      "gas:candidate-vibid:2322000968508": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 25,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 39,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 31,
-      "Миронова Валентина Михайловна": 355
+      "gas:candidate-vibid:2322000966887": 25,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 39,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 31,
+      "gas:candidate-vibid:2322000968508": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 29,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 28,
-      "Миронова Валентина Михайловна": 207
+      "gas:candidate-vibid:2322000966887": 29,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 28,
+      "gas:candidate-vibid:2322000968508": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 14,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 7,
-      "Киселёв Виктор Николаевич": 36,
-      "Махотина Ольга Анатольевна": 7,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 77,
-      "Миронова Валентина Михайловна": 215
+      "gas:candidate-vibid:2322000966887": 14,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 7,
+      "gas:candidate-vibid:2322000966863": 36,
+      "gas:candidate-vibid:2322000968302": 7,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 77,
+      "gas:candidate-vibid:2322000968508": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 6,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 15,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 52,
-      "Миронова Валентина Михайловна": 138
+      "gas:candidate-vibid:2322000966887": 6,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 15,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 52,
+      "gas:candidate-vibid:2322000968508": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 20,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 4,
-      "Киселёв Виктор Николаевич": 13,
-      "Махотина Ольга Анатольевна": 8,
-      "Медведков Александр Александрович": 11,
-      "Медведь Иван Владимирович": 43,
-      "Миронова Валентина Михайловна": 108
+      "gas:candidate-vibid:2322000966887": 20,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 4,
+      "gas:candidate-vibid:2322000966863": 13,
+      "gas:candidate-vibid:2322000968302": 8,
+      "gas:candidate-vibid:2322000966875": 11,
+      "gas:candidate-vibid:2322000968519": 43,
+      "gas:candidate-vibid:2322000968508": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 9,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 34,
-      "Миронова Валентина Михайловна": 118
+      "gas:candidate-vibid:2322000966887": 9,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 34,
+      "gas:candidate-vibid:2322000968508": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 92
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 35,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 10,
-      "Киселёв Виктор Николаевич": 39,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 81,
-      "Медведь Иван Владимирович": 64,
-      "Миронова Валентина Михайловна": 434
+      "gas:candidate-vibid:2322000966887": 35,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 10,
+      "gas:candidate-vibid:2322000966863": 39,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 81,
+      "gas:candidate-vibid:2322000968519": 64,
+      "gas:candidate-vibid:2322000968508": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 12,
-      "Горелов Сергей Иванович": 6,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 27,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 12,
-      "Медведь Иван Владимирович": 22,
-      "Миронова Валентина Михайловна": 295
+      "gas:candidate-vibid:2322000966887": 12,
+      "gas:candidate-vibid:2322000968315": 6,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 27,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 12,
+      "gas:candidate-vibid:2322000968519": 22,
+      "gas:candidate-vibid:2322000968508": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 20,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 11,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 29,
-      "Миронова Валентина Михайловна": 289
+      "gas:candidate-vibid:2322000966887": 20,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 11,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 29,
+      "gas:candidate-vibid:2322000968508": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 16,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 31,
-      "Миронова Валентина Михайловна": 188
+      "gas:candidate-vibid:2322000966887": 16,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 31,
+      "gas:candidate-vibid:2322000968508": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 22,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 16,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 6,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 86
+      "gas:candidate-vibid:2322000966887": 22,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 16,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 6,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 29,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 11,
-      "Киселёв Виктор Николаевич": 46,
-      "Махотина Ольга Анатольевна": 22,
-      "Медведков Александр Александрович": 26,
-      "Медведь Иван Владимирович": 92,
-      "Миронова Валентина Михайловна": 362
+      "gas:candidate-vibid:2322000966887": 29,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 11,
+      "gas:candidate-vibid:2322000966863": 46,
+      "gas:candidate-vibid:2322000968302": 22,
+      "gas:candidate-vibid:2322000966875": 26,
+      "gas:candidate-vibid:2322000968519": 92,
+      "gas:candidate-vibid:2322000968508": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 24,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 23,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 53,
-      "Миронова Валентина Михайловна": 239
+      "gas:candidate-vibid:2322000966887": 24,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 23,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 53,
+      "gas:candidate-vibid:2322000968508": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 18,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 19,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 30,
-      "Миронова Валентина Михайловна": 243
+      "gas:candidate-vibid:2322000966887": 18,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 19,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 30,
+      "gas:candidate-vibid:2322000968508": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 31,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 31,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 27,
-      "Медведь Иван Владимирович": 154,
-      "Миронова Валентина Михайловна": 342
+      "gas:candidate-vibid:2322000966887": 31,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 31,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 27,
+      "gas:candidate-vibid:2322000968519": 154,
+      "gas:candidate-vibid:2322000968508": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 13,
-      "Киселёв Виктор Николаевич": 65,
-      "Махотина Ольга Анатольевна": 17,
-      "Медведков Александр Александрович": 36,
-      "Медведь Иван Владимирович": 115,
-      "Миронова Валентина Михайловна": 314
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 13,
+      "gas:candidate-vibid:2322000966863": 65,
+      "gas:candidate-vibid:2322000968302": 17,
+      "gas:candidate-vibid:2322000966875": 36,
+      "gas:candidate-vibid:2322000968519": 115,
+      "gas:candidate-vibid:2322000968508": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 1,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 3,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 111
+      "gas:candidate-vibid:2322000966887": 1,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 3,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 4,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 99
+      "gas:candidate-vibid:2322000966887": 4,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 14,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 21,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 62,
-      "Миронова Валентина Михайловна": 180
+      "gas:candidate-vibid:2322000966887": 14,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 21,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 62,
+      "gas:candidate-vibid:2322000968508": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 1,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 16,
-      "Миронова Валентина Михайловна": 48
+      "gas:candidate-vibid:2322000966887": 1,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 16,
+      "gas:candidate-vibid:2322000968508": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 29,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 16,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 10,
-      "Медведь Иван Владимирович": 101,
-      "Миронова Валентина Михайловна": 310
+      "gas:candidate-vibid:2322000966887": 29,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 16,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 10,
+      "gas:candidate-vibid:2322000968519": 101,
+      "gas:candidate-vibid:2322000968508": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 25,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 36,
-      "Махотина Ольга Анатольевна": 6,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 33,
-      "Миронова Валентина Михайловна": 180
+      "gas:candidate-vibid:2322000966887": 25,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 36,
+      "gas:candidate-vibid:2322000968302": 6,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 33,
+      "gas:candidate-vibid:2322000968508": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 57,
-      "Горелов Сергей Иванович": 10,
-      "Каничев Вадим Александрович": 9,
-      "Киселёв Виктор Николаевич": 54,
-      "Махотина Ольга Анатольевна": 15,
-      "Медведков Александр Александрович": 26,
-      "Медведь Иван Владимирович": 53,
-      "Миронова Валентина Михайловна": 534
+      "gas:candidate-vibid:2322000966887": 57,
+      "gas:candidate-vibid:2322000968315": 10,
+      "gas:candidate-vibid:2322000968220": 9,
+      "gas:candidate-vibid:2322000966863": 54,
+      "gas:candidate-vibid:2322000968302": 15,
+      "gas:candidate-vibid:2322000966875": 26,
+      "gas:candidate-vibid:2322000968519": 53,
+      "gas:candidate-vibid:2322000968508": 534
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 13,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 11,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 3,
-      "Медведь Иван Владимирович": 23,
-      "Миронова Валентина Михайловна": 42
+      "gas:candidate-vibid:2322000966887": 13,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 11,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 3,
+      "gas:candidate-vibid:2322000968519": 23,
+      "gas:candidate-vibid:2322000968508": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940947&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940947&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 4,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 1,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 42,
-      "Миронова Валентина Михайловна": 803
+      "gas:candidate-vibid:2322000966887": 4,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 1,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 42,
+      "gas:candidate-vibid:2322000968508": 803
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 37,
-      "Горелов Сергей Иванович": 7,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 39,
-      "Махотина Ольга Анатольевна": 2,
-      "Медведков Александр Александрович": 16,
-      "Медведь Иван Владимирович": 148,
-      "Миронова Валентина Михайловна": 461
+      "gas:candidate-vibid:2322000966887": 37,
+      "gas:candidate-vibid:2322000968315": 7,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 39,
+      "gas:candidate-vibid:2322000968302": 2,
+      "gas:candidate-vibid:2322000966875": 16,
+      "gas:candidate-vibid:2322000968519": 148,
+      "gas:candidate-vibid:2322000968508": 461
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 7,
-      "Горелов Сергей Иванович": 3,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 10,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 78,
-      "Миронова Валентина Михайловна": 305
+      "gas:candidate-vibid:2322000966887": 7,
+      "gas:candidate-vibid:2322000968315": 3,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 10,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 78,
+      "gas:candidate-vibid:2322000968508": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 11,
-      "Горелов Сергей Иванович": 5,
-      "Каничев Вадим Александрович": 2,
-      "Киселёв Виктор Николаевич": 14,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 7,
-      "Медведь Иван Владимирович": 90,
-      "Миронова Валентина Михайловна": 66
+      "gas:candidate-vibid:2322000966887": 11,
+      "gas:candidate-vibid:2322000968315": 5,
+      "gas:candidate-vibid:2322000968220": 2,
+      "gas:candidate-vibid:2322000966863": 14,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 7,
+      "gas:candidate-vibid:2322000968519": 90,
+      "gas:candidate-vibid:2322000968508": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 25,
-      "Горелов Сергей Иванович": 11,
-      "Каничев Вадим Александрович": 20,
-      "Киселёв Виктор Николаевич": 86,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 37,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 552
+      "gas:candidate-vibid:2322000966887": 25,
+      "gas:candidate-vibid:2322000968315": 11,
+      "gas:candidate-vibid:2322000968220": 20,
+      "gas:candidate-vibid:2322000966863": 86,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 37,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 552
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 25,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 21,
-      "Миронова Валентина Михайловна": 518
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 25,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 21,
+      "gas:candidate-vibid:2322000968508": 518
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 12,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 71,
-      "Миронова Валентина Михайловна": 551
+      "gas:candidate-vibid:2322000966887": 12,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 71,
+      "gas:candidate-vibid:2322000968508": 551
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 126
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 1,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 88
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 1,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 123
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 19,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 3,
-      "Махотина Ольга Анатольевна": 3,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 32,
-      "Миронова Валентина Михайловна": 327
+      "gas:candidate-vibid:2322000966887": 19,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 3,
+      "gas:candidate-vibid:2322000968302": 3,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 32,
+      "gas:candidate-vibid:2322000968508": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 23,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 8,
-      "Миронова Валентина Михайловна": 139
+      "gas:candidate-vibid:2322000966887": 23,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 8,
+      "gas:candidate-vibid:2322000968508": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 14,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 28,
-      "Миронова Валентина Михайловна": 173
+      "gas:candidate-vibid:2322000966887": 14,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 28,
+      "gas:candidate-vibid:2322000968508": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 3,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 2,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 0,
-      "Миронова Валентина Михайловна": 252
+      "gas:candidate-vibid:2322000966887": 3,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 2,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 0,
+      "gas:candidate-vibid:2322000968508": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 2,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 3,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 1,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 45
+      "gas:candidate-vibid:2322000966887": 2,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 3,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 1,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 12,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 12,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 3,
-      "Миронова Валентина Михайловна": 263
+      "gas:candidate-vibid:2322000966887": 12,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 12,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 3,
+      "gas:candidate-vibid:2322000968508": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 21,
-      "Горелов Сергей Иванович": 2,
-      "Каничев Вадим Александрович": 5,
-      "Киселёв Виктор Николаевич": 65,
-      "Махотина Ольга Анатольевна": 4,
-      "Медведков Александр Александрович": 5,
-      "Медведь Иван Владимирович": 13,
-      "Миронова Валентина Михайловна": 535
+      "gas:candidate-vibid:2322000966887": 21,
+      "gas:candidate-vibid:2322000968315": 2,
+      "gas:candidate-vibid:2322000968220": 5,
+      "gas:candidate-vibid:2322000966863": 65,
+      "gas:candidate-vibid:2322000968302": 4,
+      "gas:candidate-vibid:2322000966875": 5,
+      "gas:candidate-vibid:2322000968519": 13,
+      "gas:candidate-vibid:2322000968508": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 13,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 8,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 2,
-      "Миронова Валентина Михайловна": 292
+      "gas:candidate-vibid:2322000966887": 13,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 8,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 2,
+      "gas:candidate-vibid:2322000968508": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 1,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 1,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 1,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 266
+      "gas:candidate-vibid:2322000966887": 1,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 1,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 1,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 3,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 4,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 14,
-      "Миронова Валентина Михайловна": 155
+      "gas:candidate-vibid:2322000966887": 3,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 4,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 14,
+      "gas:candidate-vibid:2322000968508": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 7,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 4,
-      "Миронова Валентина Михайловна": 283
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 7,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 4,
+      "gas:candidate-vibid:2322000968508": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 35,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 24,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 52,
-      "Миронова Валентина Михайловна": 423
+      "gas:candidate-vibid:2322000966887": 35,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 24,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 52,
+      "gas:candidate-vibid:2322000968508": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 3,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 2,
-      "Медведь Иван Владимирович": 5,
-      "Миронова Валентина Михайловна": 272
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 3,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 2,
+      "gas:candidate-vibid:2322000968519": 5,
+      "gas:candidate-vibid:2322000968508": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 5,
-      "Горелов Сергей Иванович": 4,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 5,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 4,
-      "Медведь Иван Владимирович": 6,
-      "Миронова Валентина Михайловна": 201
+      "gas:candidate-vibid:2322000966887": 5,
+      "gas:candidate-vibid:2322000968315": 4,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 5,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 4,
+      "gas:candidate-vibid:2322000968519": 6,
+      "gas:candidate-vibid:2322000968508": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 1,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 15,
-      "Миронова Валентина Михайловна": 222
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 1,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 15,
+      "gas:candidate-vibid:2322000968508": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_32_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архицкий Андрей Георгиевич": 0,
-      "Горелов Сергей Иванович": 0,
-      "Каничев Вадим Александрович": 0,
-      "Киселёв Виктор Николаевич": 0,
-      "Махотина Ольга Анатольевна": 0,
-      "Медведков Александр Александрович": 0,
-      "Медведь Иван Владимирович": 10,
-      "Миронова Валентина Михайловна": 64
+      "gas:candidate-vibid:2322000966887": 0,
+      "gas:candidate-vibid:2322000968315": 0,
+      "gas:candidate-vibid:2322000968220": 0,
+      "gas:candidate-vibid:2322000966863": 0,
+      "gas:candidate-vibid:2322000968302": 0,
+      "gas:candidate-vibid:2322000966875": 0,
+      "gas:candidate-vibid:2322000968519": 10,
+      "gas:candidate-vibid:2322000968508": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bryansk?action=show&root=1000100&tvd=2322000940948&vrn=100100067795849&region=32&global=&sub_region=32&prver=0&pronetvd=null&vibid=2322000940948&type=464",

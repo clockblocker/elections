@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 25,
-      "Клементьев Олег Петрович": 49,
-      "Комарова Наталья Владимировна": 761,
-      "Кудряшов Анатолий Иванович": 119,
-      "Пономаренко Виктор Николаевич": 27,
-      "Против всех": 91
+      "gas:candidate-vibid:289200067357": 25,
+      "gas:candidate-vibid:1001000121958": 49,
+      "gas:candidate-vibid:1001000226028": 761,
+      "gas:candidate-vibid:1001000188031": 119,
+      "gas:candidate-vibid:1001000136173": 27,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 42,
-      "Комарова Наталья Владимировна": 804,
-      "Кудряшов Анатолий Иванович": 133,
-      "Пономаренко Виктор Николаевич": 24,
-      "Против всех": 118
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 42,
+      "gas:candidate-vibid:1001000226028": 804,
+      "gas:candidate-vibid:1001000188031": 133,
+      "gas:candidate-vibid:1001000136173": 24,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 863,
-      "Кудряшов Анатолий Иванович": 153,
-      "Пономаренко Виктор Николаевич": 39,
-      "Против всех": 122
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 863,
+      "gas:candidate-vibid:1001000188031": 153,
+      "gas:candidate-vibid:1001000136173": 39,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 27,
-      "Клементьев Олег Петрович": 51,
-      "Комарова Наталья Владимировна": 883,
-      "Кудряшов Анатолий Иванович": 205,
-      "Пономаренко Виктор Николаевич": 30,
-      "Против всех": 126
+      "gas:candidate-vibid:289200067357": 27,
+      "gas:candidate-vibid:1001000121958": 51,
+      "gas:candidate-vibid:1001000226028": 883,
+      "gas:candidate-vibid:1001000188031": 205,
+      "gas:candidate-vibid:1001000136173": 30,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 25,
-      "Клементьев Олег Петрович": 47,
-      "Комарова Наталья Владимировна": 844,
-      "Кудряшов Анатолий Иванович": 158,
-      "Пономаренко Виктор Николаевич": 35,
-      "Против всех": 101
+      "gas:candidate-vibid:289200067357": 25,
+      "gas:candidate-vibid:1001000121958": 47,
+      "gas:candidate-vibid:1001000226028": 844,
+      "gas:candidate-vibid:1001000188031": 158,
+      "gas:candidate-vibid:1001000136173": 35,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 34,
-      "Комарова Наталья Владимировна": 857,
-      "Кудряшов Анатолий Иванович": 143,
-      "Пономаренко Виктор Николаевич": 34,
-      "Против всех": 107
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 34,
+      "gas:candidate-vibid:1001000226028": 857,
+      "gas:candidate-vibid:1001000188031": 143,
+      "gas:candidate-vibid:1001000136173": 34,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 31,
-      "Клементьев Олег Петрович": 31,
-      "Комарова Наталья Владимировна": 939,
-      "Кудряшов Анатолий Иванович": 238,
-      "Пономаренко Виктор Николаевич": 35,
-      "Против всех": 134
+      "gas:candidate-vibid:289200067357": 31,
+      "gas:candidate-vibid:1001000121958": 31,
+      "gas:candidate-vibid:1001000226028": 939,
+      "gas:candidate-vibid:1001000188031": 238,
+      "gas:candidate-vibid:1001000136173": 35,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 47,
-      "Комарова Наталья Владимировна": 905,
-      "Кудряшов Анатолий Иванович": 228,
-      "Пономаренко Виктор Николаевич": 38,
-      "Против всех": 153
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 47,
+      "gas:candidate-vibid:1001000226028": 905,
+      "gas:candidate-vibid:1001000188031": 228,
+      "gas:candidate-vibid:1001000136173": 38,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 72,
-      "Комарова Наталья Владимировна": 974,
-      "Кудряшов Анатолий Иванович": 228,
-      "Пономаренко Виктор Николаевич": 29,
-      "Против всех": 153
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 72,
+      "gas:candidate-vibid:1001000226028": 974,
+      "gas:candidate-vibid:1001000188031": 228,
+      "gas:candidate-vibid:1001000136173": 29,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 35,
-      "Комарова Наталья Владимировна": 1041,
-      "Кудряшов Анатолий Иванович": 252,
-      "Пономаренко Виктор Николаевич": 31,
-      "Против всех": 135
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 35,
+      "gas:candidate-vibid:1001000226028": 1041,
+      "gas:candidate-vibid:1001000188031": 252,
+      "gas:candidate-vibid:1001000136173": 31,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068563&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 3,
-      "Клементьев Олег Петрович": 79,
-      "Комарова Наталья Владимировна": 216,
-      "Кудряшов Анатолий Иванович": 12,
-      "Пономаренко Виктор Николаевич": 20,
-      "Против всех": 49
+      "gas:candidate-vibid:289200067357": 3,
+      "gas:candidate-vibid:1001000121958": 79,
+      "gas:candidate-vibid:1001000226028": 216,
+      "gas:candidate-vibid:1001000188031": 12,
+      "gas:candidate-vibid:1001000136173": 20,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 129,
-      "Комарова Наталья Владимировна": 400,
-      "Кудряшов Анатолий Иванович": 22,
-      "Пономаренко Виктор Николаевич": 28,
-      "Против всех": 64
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 129,
+      "gas:candidate-vibid:1001000226028": 400,
+      "gas:candidate-vibid:1001000188031": 22,
+      "gas:candidate-vibid:1001000136173": 28,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 15,
-      "Клементьев Олег Петрович": 101,
-      "Комарова Наталья Владимировна": 459,
-      "Кудряшов Анатолий Иванович": 38,
-      "Пономаренко Виктор Николаевич": 33,
-      "Против всех": 87
+      "gas:candidate-vibid:289200067357": 15,
+      "gas:candidate-vibid:1001000121958": 101,
+      "gas:candidate-vibid:1001000226028": 459,
+      "gas:candidate-vibid:1001000188031": 38,
+      "gas:candidate-vibid:1001000136173": 33,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 6,
-      "Клементьев Олег Петрович": 70,
-      "Комарова Наталья Владимировна": 300,
-      "Кудряшов Анатолий Иванович": 26,
-      "Пономаренко Виктор Николаевич": 14,
-      "Против всех": 56
+      "gas:candidate-vibid:289200067357": 6,
+      "gas:candidate-vibid:1001000121958": 70,
+      "gas:candidate-vibid:1001000226028": 300,
+      "gas:candidate-vibid:1001000188031": 26,
+      "gas:candidate-vibid:1001000136173": 14,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 7,
-      "Клементьев Олег Петрович": 132,
-      "Комарова Наталья Владимировна": 396,
-      "Кудряшов Анатолий Иванович": 18,
-      "Пономаренко Виктор Николаевич": 18,
-      "Против всех": 74
+      "gas:candidate-vibid:289200067357": 7,
+      "gas:candidate-vibid:1001000121958": 132,
+      "gas:candidate-vibid:1001000226028": 396,
+      "gas:candidate-vibid:1001000188031": 18,
+      "gas:candidate-vibid:1001000136173": 18,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 8,
-      "Клементьев Олег Петрович": 127,
-      "Комарова Наталья Владимировна": 361,
-      "Кудряшов Анатолий Иванович": 13,
-      "Пономаренко Виктор Николаевич": 21,
-      "Против всех": 74
+      "gas:candidate-vibid:289200067357": 8,
+      "gas:candidate-vibid:1001000121958": 127,
+      "gas:candidate-vibid:1001000226028": 361,
+      "gas:candidate-vibid:1001000188031": 13,
+      "gas:candidate-vibid:1001000136173": 21,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 6,
-      "Клементьев Олег Петрович": 99,
-      "Комарова Наталья Владимировна": 428,
-      "Кудряшов Анатолий Иванович": 26,
-      "Пономаренко Виктор Николаевич": 16,
-      "Против всех": 84
+      "gas:candidate-vibid:289200067357": 6,
+      "gas:candidate-vibid:1001000121958": 99,
+      "gas:candidate-vibid:1001000226028": 428,
+      "gas:candidate-vibid:1001000188031": 26,
+      "gas:candidate-vibid:1001000136173": 16,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 119,
-      "Комарова Наталья Владимировна": 514,
-      "Кудряшов Анатолий Иванович": 45,
-      "Пономаренко Виктор Николаевич": 14,
-      "Против всех": 84
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 119,
+      "gas:candidate-vibid:1001000226028": 514,
+      "gas:candidate-vibid:1001000188031": 45,
+      "gas:candidate-vibid:1001000136173": 14,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 188,
-      "Комарова Наталья Владимировна": 892,
-      "Кудряшов Анатолий Иванович": 69,
-      "Пономаренко Виктор Николаевич": 37,
-      "Против всех": 176
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 188,
+      "gas:candidate-vibid:1001000226028": 892,
+      "gas:candidate-vibid:1001000188031": 69,
+      "gas:candidate-vibid:1001000136173": 37,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 8,
-      "Клементьев Олег Петрович": 63,
-      "Комарова Наталья Владимировна": 297,
-      "Кудряшов Анатолий Иванович": 26,
-      "Пономаренко Виктор Николаевич": 17,
-      "Против всех": 64
+      "gas:candidate-vibid:289200067357": 8,
+      "gas:candidate-vibid:1001000121958": 63,
+      "gas:candidate-vibid:1001000226028": 297,
+      "gas:candidate-vibid:1001000188031": 26,
+      "gas:candidate-vibid:1001000136173": 17,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 8,
-      "Клементьев Олег Петрович": 50,
-      "Комарова Наталья Владимировна": 362,
-      "Кудряшов Анатолий Иванович": 32,
-      "Пономаренко Виктор Николаевич": 11,
-      "Против всех": 74
+      "gas:candidate-vibid:289200067357": 8,
+      "gas:candidate-vibid:1001000121958": 50,
+      "gas:candidate-vibid:1001000226028": 362,
+      "gas:candidate-vibid:1001000188031": 32,
+      "gas:candidate-vibid:1001000136173": 11,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 10,
-      "Клементьев Олег Петрович": 105,
-      "Комарова Наталья Владимировна": 500,
-      "Кудряшов Анатолий Иванович": 56,
-      "Пономаренко Виктор Николаевич": 23,
-      "Против всех": 114
+      "gas:candidate-vibid:289200067357": 10,
+      "gas:candidate-vibid:1001000121958": 105,
+      "gas:candidate-vibid:1001000226028": 500,
+      "gas:candidate-vibid:1001000188031": 56,
+      "gas:candidate-vibid:1001000136173": 23,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 85,
-      "Комарова Наталья Владимировна": 418,
-      "Кудряшов Анатолий Иванович": 40,
-      "Пономаренко Виктор Николаевич": 12,
-      "Против всех": 90
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 85,
+      "gas:candidate-vibid:1001000226028": 418,
+      "gas:candidate-vibid:1001000188031": 40,
+      "gas:candidate-vibid:1001000136173": 12,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 7,
-      "Клементьев Олег Петрович": 109,
-      "Комарова Наталья Владимировна": 571,
-      "Кудряшов Анатолий Иванович": 35,
-      "Пономаренко Виктор Николаевич": 29,
-      "Против всех": 102
+      "gas:candidate-vibid:289200067357": 7,
+      "gas:candidate-vibid:1001000121958": 109,
+      "gas:candidate-vibid:1001000226028": 571,
+      "gas:candidate-vibid:1001000188031": 35,
+      "gas:candidate-vibid:1001000136173": 29,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 6,
-      "Клементьев Олег Петрович": 38,
-      "Комарова Наталья Владимировна": 186,
-      "Кудряшов Анатолий Иванович": 13,
-      "Пономаренко Виктор Николаевич": 15,
-      "Против всех": 31
+      "gas:candidate-vibid:289200067357": 6,
+      "gas:candidate-vibid:1001000121958": 38,
+      "gas:candidate-vibid:1001000226028": 186,
+      "gas:candidate-vibid:1001000188031": 13,
+      "gas:candidate-vibid:1001000136173": 15,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 27,
-      "Клементьев Олег Петрович": 142,
-      "Комарова Наталья Владимировна": 797,
-      "Кудряшов Анатолий Иванович": 39,
-      "Пономаренко Виктор Николаевич": 42,
-      "Против всех": 156
+      "gas:candidate-vibid:289200067357": 27,
+      "gas:candidate-vibid:1001000121958": 142,
+      "gas:candidate-vibid:1001000226028": 797,
+      "gas:candidate-vibid:1001000188031": 39,
+      "gas:candidate-vibid:1001000136173": 42,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 109,
-      "Комарова Наталья Владимировна": 661,
-      "Кудряшов Анатолий Иванович": 27,
-      "Пономаренко Виктор Николаевич": 68,
-      "Против всех": 162
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 109,
+      "gas:candidate-vibid:1001000226028": 661,
+      "gas:candidate-vibid:1001000188031": 27,
+      "gas:candidate-vibid:1001000136173": 68,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 101,
-      "Комарова Наталья Владимировна": 803,
-      "Кудряшов Анатолий Иванович": 29,
-      "Пономаренко Виктор Николаевич": 49,
-      "Против всех": 201
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 101,
+      "gas:candidate-vibid:1001000226028": 803,
+      "gas:candidate-vibid:1001000188031": 29,
+      "gas:candidate-vibid:1001000136173": 49,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 2,
-      "Клементьев Олег Петрович": 24,
-      "Комарова Наталья Владимировна": 189,
-      "Кудряшов Анатолий Иванович": 8,
-      "Пономаренко Виктор Николаевич": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:289200067357": 2,
+      "gas:candidate-vibid:1001000121958": 24,
+      "gas:candidate-vibid:1001000226028": 189,
+      "gas:candidate-vibid:1001000188031": 8,
+      "gas:candidate-vibid:1001000136173": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068564&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 60,
-      "Комарова Наталья Владимировна": 1606,
-      "Кудряшов Анатолий Иванович": 31,
-      "Пономаренко Виктор Николаевич": 46,
-      "Против всех": 151
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 60,
+      "gas:candidate-vibid:1001000226028": 1606,
+      "gas:candidate-vibid:1001000188031": 31,
+      "gas:candidate-vibid:1001000136173": 46,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068565&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 40,
-      "Клементьев Олег Петрович": 39,
-      "Комарова Наталья Владимировна": 885,
-      "Кудряшов Анатолий Иванович": 35,
-      "Пономаренко Виктор Николаевич": 57,
-      "Против всех": 79
+      "gas:candidate-vibid:289200067357": 40,
+      "gas:candidate-vibid:1001000121958": 39,
+      "gas:candidate-vibid:1001000226028": 885,
+      "gas:candidate-vibid:1001000188031": 35,
+      "gas:candidate-vibid:1001000136173": 57,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068565&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 10,
-      "Клементьев Олег Петрович": 51,
-      "Комарова Наталья Владимировна": 435,
-      "Кудряшов Анатолий Иванович": 6,
-      "Пономаренко Виктор Николаевич": 9,
-      "Против всех": 27
+      "gas:candidate-vibid:289200067357": 10,
+      "gas:candidate-vibid:1001000121958": 51,
+      "gas:candidate-vibid:1001000226028": 435,
+      "gas:candidate-vibid:1001000188031": 6,
+      "gas:candidate-vibid:1001000136173": 9,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 40,
-      "Комарова Наталья Владимировна": 855,
-      "Кудряшов Анатолий Иванович": 11,
-      "Пономаренко Виктор Николаевич": 18,
-      "Против всех": 32
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 40,
+      "gas:candidate-vibid:1001000226028": 855,
+      "gas:candidate-vibid:1001000188031": 11,
+      "gas:candidate-vibid:1001000136173": 18,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 8,
-      "Клементьев Олег Петрович": 7,
-      "Комарова Наталья Владимировна": 896,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:289200067357": 8,
+      "gas:candidate-vibid:1001000121958": 7,
+      "gas:candidate-vibid:1001000226028": 896,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 38,
-      "Комарова Наталья Владимировна": 784,
-      "Кудряшов Анатолий Иванович": 15,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 103
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 38,
+      "gas:candidate-vibid:1001000226028": 784,
+      "gas:candidate-vibid:1001000188031": 15,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 15,
-      "Комарова Наталья Владимировна": 439,
-      "Кудряшов Анатолий Иванович": 7,
-      "Пономаренко Виктор Николаевич": 13,
-      "Против всех": 65
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 15,
+      "gas:candidate-vibid:1001000226028": 439,
+      "gas:candidate-vibid:1001000188031": 7,
+      "gas:candidate-vibid:1001000136173": 13,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 7,
-      "Клементьев Олег Петрович": 8,
-      "Комарова Наталья Владимировна": 181,
-      "Кудряшов Анатолий Иванович": 4,
-      "Пономаренко Виктор Николаевич": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:289200067357": 7,
+      "gas:candidate-vibid:1001000121958": 8,
+      "gas:candidate-vibid:1001000226028": 181,
+      "gas:candidate-vibid:1001000188031": 4,
+      "gas:candidate-vibid:1001000136173": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 35,
-      "Комарова Наталья Владимировна": 697,
-      "Кудряшов Анатолий Иванович": 18,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 74
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 35,
+      "gas:candidate-vibid:1001000226028": 697,
+      "gas:candidate-vibid:1001000188031": 18,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 11,
-      "Клементьев Олег Петрович": 33,
-      "Комарова Наталья Владимировна": 497,
-      "Кудряшов Анатолий Иванович": 17,
-      "Пономаренко Виктор Николаевич": 35,
-      "Против всех": 91
+      "gas:candidate-vibid:289200067357": 11,
+      "gas:candidate-vibid:1001000121958": 33,
+      "gas:candidate-vibid:1001000226028": 497,
+      "gas:candidate-vibid:1001000188031": 17,
+      "gas:candidate-vibid:1001000136173": 35,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 17,
-      "Комарова Наталья Владимировна": 226,
-      "Кудряшов Анатолий Иванович": 17,
-      "Пономаренко Виктор Николаевич": 13,
-      "Против всех": 49
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 17,
+      "gas:candidate-vibid:1001000226028": 226,
+      "gas:candidate-vibid:1001000188031": 17,
+      "gas:candidate-vibid:1001000136173": 13,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 54,
-      "Комарова Наталья Владимировна": 847,
-      "Кудряшов Анатолий Иванович": 19,
-      "Пономаренко Виктор Николаевич": 41,
-      "Против всех": 103
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 54,
+      "gas:candidate-vibid:1001000226028": 847,
+      "gas:candidate-vibid:1001000188031": 19,
+      "gas:candidate-vibid:1001000136173": 41,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068566&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 45,
-      "Комарова Наталья Владимировна": 964,
-      "Кудряшов Анатолий Иванович": 136,
-      "Пономаренко Виктор Николаевич": 50,
-      "Против всех": 141
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 45,
+      "gas:candidate-vibid:1001000226028": 964,
+      "gas:candidate-vibid:1001000188031": 136,
+      "gas:candidate-vibid:1001000136173": 50,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068567&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 48,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 1064,
-      "Кудряшов Анатолий Иванович": 174,
-      "Пономаренко Виктор Николаевич": 53,
-      "Против всех": 145
+      "gas:candidate-vibid:289200067357": 48,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 1064,
+      "gas:candidate-vibid:1001000188031": 174,
+      "gas:candidate-vibid:1001000136173": 53,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068567&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 37,
-      "Клементьев Олег Петрович": 31,
-      "Комарова Наталья Владимировна": 944,
-      "Кудряшов Анатолий Иванович": 135,
-      "Пономаренко Виктор Николаевич": 48,
-      "Против всех": 98
+      "gas:candidate-vibid:289200067357": 37,
+      "gas:candidate-vibid:1001000121958": 31,
+      "gas:candidate-vibid:1001000226028": 944,
+      "gas:candidate-vibid:1001000188031": 135,
+      "gas:candidate-vibid:1001000136173": 48,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068567&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 26,
-      "Комарова Наталья Владимировна": 642,
-      "Кудряшов Анатолий Иванович": 88,
-      "Пономаренко Виктор Николаевич": 42,
-      "Против всех": 100
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 26,
+      "gas:candidate-vibid:1001000226028": 642,
+      "gas:candidate-vibid:1001000188031": 88,
+      "gas:candidate-vibid:1001000136173": 42,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068567&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 25,
-      "Клементьев Олег Петрович": 22,
-      "Комарова Наталья Владимировна": 660,
-      "Кудряшов Анатолий Иванович": 81,
-      "Пономаренко Виктор Николаевич": 50,
-      "Против всех": 85
+      "gas:candidate-vibid:289200067357": 25,
+      "gas:candidate-vibid:1001000121958": 22,
+      "gas:candidate-vibid:1001000226028": 660,
+      "gas:candidate-vibid:1001000188031": 81,
+      "gas:candidate-vibid:1001000136173": 50,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068567&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 38,
-      "Клементьев Олег Петрович": 24,
-      "Комарова Наталья Владимировна": 931,
-      "Кудряшов Анатолий Иванович": 138,
-      "Пономаренко Виктор Николаевич": 47,
-      "Против всех": 125
+      "gas:candidate-vibid:289200067357": 38,
+      "gas:candidate-vibid:1001000121958": 24,
+      "gas:candidate-vibid:1001000226028": 931,
+      "gas:candidate-vibid:1001000188031": 138,
+      "gas:candidate-vibid:1001000136173": 47,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068567&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 11,
-      "Клементьев Олег Петрович": 14,
-      "Комарова Наталья Владимировна": 312,
-      "Кудряшов Анатолий Иванович": 36,
-      "Пономаренко Виктор Николаевич": 37,
-      "Против всех": 66
+      "gas:candidate-vibid:289200067357": 11,
+      "gas:candidate-vibid:1001000121958": 14,
+      "gas:candidate-vibid:1001000226028": 312,
+      "gas:candidate-vibid:1001000188031": 36,
+      "gas:candidate-vibid:1001000136173": 37,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 12,
-      "Клементьев Олег Петрович": 14,
-      "Комарова Наталья Владимировна": 437,
-      "Кудряшов Анатолий Иванович": 40,
-      "Пономаренко Виктор Николаевич": 41,
-      "Против всех": 82
+      "gas:candidate-vibid:289200067357": 12,
+      "gas:candidate-vibid:1001000121958": 14,
+      "gas:candidate-vibid:1001000226028": 437,
+      "gas:candidate-vibid:1001000188031": 40,
+      "gas:candidate-vibid:1001000136173": 41,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 24,
-      "Комарова Наталья Владимировна": 869,
-      "Кудряшов Анатолий Иванович": 48,
-      "Пономаренко Виктор Николаевич": 63,
-      "Против всех": 80
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 24,
+      "gas:candidate-vibid:1001000226028": 869,
+      "gas:candidate-vibid:1001000188031": 48,
+      "gas:candidate-vibid:1001000136173": 63,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 8,
-      "Комарова Наталья Владимировна": 287,
-      "Кудряшов Анатолий Иванович": 16,
-      "Пономаренко Виктор Николаевич": 10,
-      "Против всех": 39
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 8,
+      "gas:candidate-vibid:1001000226028": 287,
+      "gas:candidate-vibid:1001000188031": 16,
+      "gas:candidate-vibid:1001000136173": 10,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 20,
-      "Комарова Наталья Владимировна": 362,
-      "Кудряшов Анатолий Иванович": 28,
-      "Пономаренко Виктор Николаевич": 53,
-      "Против всех": 79
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 20,
+      "gas:candidate-vibid:1001000226028": 362,
+      "gas:candidate-vibid:1001000188031": 28,
+      "gas:candidate-vibid:1001000136173": 53,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 18,
-      "Клементьев Олег Петрович": 20,
-      "Комарова Наталья Владимировна": 589,
-      "Кудряшов Анатолий Иванович": 40,
-      "Пономаренко Виктор Николаевич": 57,
-      "Против всех": 79
+      "gas:candidate-vibid:289200067357": 18,
+      "gas:candidate-vibid:1001000121958": 20,
+      "gas:candidate-vibid:1001000226028": 589,
+      "gas:candidate-vibid:1001000188031": 40,
+      "gas:candidate-vibid:1001000136173": 57,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 21,
-      "Комарова Наталья Владимировна": 968,
-      "Кудряшов Анатолий Иванович": 22,
-      "Пономаренко Виктор Николаевич": 26,
-      "Против всех": 48
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 21,
+      "gas:candidate-vibid:1001000226028": 968,
+      "gas:candidate-vibid:1001000188031": 22,
+      "gas:candidate-vibid:1001000136173": 26,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 49,
-      "Клементьев Олег Петрович": 38,
-      "Комарова Наталья Владимировна": 1049,
-      "Кудряшов Анатолий Иванович": 49,
-      "Пономаренко Виктор Николаевич": 44,
-      "Против всех": 58
+      "gas:candidate-vibid:289200067357": 49,
+      "gas:candidate-vibid:1001000121958": 38,
+      "gas:candidate-vibid:1001000226028": 1049,
+      "gas:candidate-vibid:1001000188031": 49,
+      "gas:candidate-vibid:1001000136173": 44,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 5,
-      "Клементьев Олег Петрович": 7,
-      "Комарова Наталья Владимировна": 496,
-      "Кудряшов Анатолий Иванович": 9,
-      "Пономаренко Виктор Николаевич": 17,
-      "Против всех": 11
+      "gas:candidate-vibid:289200067357": 5,
+      "gas:candidate-vibid:1001000121958": 7,
+      "gas:candidate-vibid:1001000226028": 496,
+      "gas:candidate-vibid:1001000188031": 9,
+      "gas:candidate-vibid:1001000136173": 17,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068568&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 56,
-      "Комарова Наталья Владимировна": 802,
-      "Кудряшов Анатолий Иванович": 96,
-      "Пономаренко Виктор Николаевич": 35,
-      "Против всех": 132
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 56,
+      "gas:candidate-vibid:1001000226028": 802,
+      "gas:candidate-vibid:1001000188031": 96,
+      "gas:candidate-vibid:1001000136173": 35,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 68,
-      "Комарова Наталья Владимировна": 1068,
-      "Кудряшов Анатолий Иванович": 129,
-      "Пономаренко Виктор Николаевич": 32,
-      "Против всех": 184
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 68,
+      "gas:candidate-vibid:1001000226028": 1068,
+      "gas:candidate-vibid:1001000188031": 129,
+      "gas:candidate-vibid:1001000136173": 32,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 71,
-      "Комарова Наталья Владимировна": 955,
-      "Кудряшов Анатолий Иванович": 113,
-      "Пономаренко Виктор Николаевич": 32,
-      "Против всех": 145
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 71,
+      "gas:candidate-vibid:1001000226028": 955,
+      "gas:candidate-vibid:1001000188031": 113,
+      "gas:candidate-vibid:1001000136173": 32,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 66,
-      "Комарова Наталья Владимировна": 845,
-      "Кудряшов Анатолий Иванович": 140,
-      "Пономаренко Виктор Николаевич": 41,
-      "Против всех": 185
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 66,
+      "gas:candidate-vibid:1001000226028": 845,
+      "gas:candidate-vibid:1001000188031": 140,
+      "gas:candidate-vibid:1001000136173": 41,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 34,
-      "Клементьев Олег Петрович": 61,
-      "Комарова Наталья Владимировна": 1066,
-      "Кудряшов Анатолий Иванович": 150,
-      "Пономаренко Виктор Николаевич": 35,
-      "Против всех": 205
+      "gas:candidate-vibid:289200067357": 34,
+      "gas:candidate-vibid:1001000121958": 61,
+      "gas:candidate-vibid:1001000226028": 1066,
+      "gas:candidate-vibid:1001000188031": 150,
+      "gas:candidate-vibid:1001000136173": 35,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 15,
-      "Клементьев Олег Петрович": 53,
-      "Комарова Наталья Владимировна": 771,
-      "Кудряшов Анатолий Иванович": 115,
-      "Пономаренко Виктор Николаевич": 38,
-      "Против всех": 184
+      "gas:candidate-vibid:289200067357": 15,
+      "gas:candidate-vibid:1001000121958": 53,
+      "gas:candidate-vibid:1001000226028": 771,
+      "gas:candidate-vibid:1001000188031": 115,
+      "gas:candidate-vibid:1001000136173": 38,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 19,
-      "Клементьев Олег Петрович": 71,
-      "Комарова Наталья Владимировна": 1000,
-      "Кудряшов Анатолий Иванович": 160,
-      "Пономаренко Виктор Николаевич": 72,
-      "Против всех": 217
+      "gas:candidate-vibid:289200067357": 19,
+      "gas:candidate-vibid:1001000121958": 71,
+      "gas:candidate-vibid:1001000226028": 1000,
+      "gas:candidate-vibid:1001000188031": 160,
+      "gas:candidate-vibid:1001000136173": 72,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 59,
-      "Комарова Наталья Владимировна": 716,
-      "Кудряшов Анатолий Иванович": 82,
-      "Пономаренко Виктор Николаевич": 43,
-      "Против всех": 133
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 59,
+      "gas:candidate-vibid:1001000226028": 716,
+      "gas:candidate-vibid:1001000188031": 82,
+      "gas:candidate-vibid:1001000136173": 43,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 9,
-      "Клементьев Олег Петрович": 42,
-      "Комарова Наталья Владимировна": 592,
-      "Кудряшов Анатолий Иванович": 56,
-      "Пономаренко Виктор Николаевич": 21,
-      "Против всех": 97
+      "gas:candidate-vibid:289200067357": 9,
+      "gas:candidate-vibid:1001000121958": 42,
+      "gas:candidate-vibid:1001000226028": 592,
+      "gas:candidate-vibid:1001000188031": 56,
+      "gas:candidate-vibid:1001000136173": 21,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 49,
-      "Комарова Наталья Владимировна": 652,
-      "Кудряшов Анатолий Иванович": 77,
-      "Пономаренко Виктор Николаевич": 27,
-      "Против всех": 107
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 49,
+      "gas:candidate-vibid:1001000226028": 652,
+      "gas:candidate-vibid:1001000188031": 77,
+      "gas:candidate-vibid:1001000136173": 27,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 70,
-      "Комарова Наталья Владимировна": 861,
-      "Кудряшов Анатолий Иванович": 149,
-      "Пономаренко Виктор Николаевич": 40,
-      "Против всех": 183
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 70,
+      "gas:candidate-vibid:1001000226028": 861,
+      "gas:candidate-vibid:1001000188031": 149,
+      "gas:candidate-vibid:1001000136173": 40,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068569&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 11,
-      "Комарова Наталья Владимировна": 190,
-      "Кудряшов Анатолий Иванович": 3,
-      "Пономаренко Виктор Николаевич": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 11,
+      "gas:candidate-vibid:1001000226028": 190,
+      "gas:candidate-vibid:1001000188031": 3,
+      "gas:candidate-vibid:1001000136173": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 9,
-      "Клементьев Олег Петрович": 5,
-      "Комарова Наталья Владимировна": 261,
-      "Кудряшов Анатолий Иванович": 12,
-      "Пономаренко Виктор Николаевич": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:289200067357": 9,
+      "gas:candidate-vibid:1001000121958": 5,
+      "gas:candidate-vibid:1001000226028": 261,
+      "gas:candidate-vibid:1001000188031": 12,
+      "gas:candidate-vibid:1001000136173": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 12,
-      "Клементьев Олег Петрович": 57,
-      "Комарова Наталья Владимировна": 801,
-      "Кудряшов Анатолий Иванович": 16,
-      "Пономаренко Виктор Николаевич": 24,
-      "Против всех": 41
+      "gas:candidate-vibid:289200067357": 12,
+      "gas:candidate-vibid:1001000121958": 57,
+      "gas:candidate-vibid:1001000226028": 801,
+      "gas:candidate-vibid:1001000188031": 16,
+      "gas:candidate-vibid:1001000136173": 24,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 6,
-      "Клементьев Олег Петрович": 5,
-      "Комарова Наталья Владимировна": 254,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:289200067357": 6,
+      "gas:candidate-vibid:1001000121958": 5,
+      "gas:candidate-vibid:1001000226028": 254,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 50,
-      "Комарова Наталья Владимировна": 1411,
-      "Кудряшов Анатолий Иванович": 25,
-      "Пономаренко Виктор Николаевич": 38,
-      "Против всех": 100
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 50,
+      "gas:candidate-vibid:1001000226028": 1411,
+      "gas:candidate-vibid:1001000188031": 25,
+      "gas:candidate-vibid:1001000136173": 38,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 9,
-      "Клементьев Олег Петрович": 22,
-      "Комарова Наталья Владимировна": 535,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:289200067357": 9,
+      "gas:candidate-vibid:1001000121958": 22,
+      "gas:candidate-vibid:1001000226028": 535,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 0,
-      "Клементьев Олег Петрович": 4,
-      "Комарова Наталья Владимировна": 282,
-      "Кудряшов Анатолий Иванович": 1,
-      "Пономаренко Виктор Николаевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:289200067357": 0,
+      "gas:candidate-vibid:1001000121958": 4,
+      "gas:candidate-vibid:1001000226028": 282,
+      "gas:candidate-vibid:1001000188031": 1,
+      "gas:candidate-vibid:1001000136173": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 12,
-      "Клементьев Олег Петрович": 9,
-      "Комарова Наталья Владимировна": 380,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 11,
-      "Против всех": 24
+      "gas:candidate-vibid:289200067357": 12,
+      "gas:candidate-vibid:1001000121958": 9,
+      "gas:candidate-vibid:1001000226028": 380,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 11,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068570&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 38,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 705,
-      "Кудряшов Анатолий Иванович": 322,
-      "Пономаренко Виктор Николаевич": 34,
-      "Против всех": 121
+      "gas:candidate-vibid:289200067357": 38,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 705,
+      "gas:candidate-vibid:1001000188031": 322,
+      "gas:candidate-vibid:1001000136173": 34,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 36,
-      "Клементьев Олег Петрович": 28,
-      "Комарова Наталья Владимировна": 701,
-      "Кудряшов Анатолий Иванович": 335,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 112
+      "gas:candidate-vibid:289200067357": 36,
+      "gas:candidate-vibid:1001000121958": 28,
+      "gas:candidate-vibid:1001000226028": 701,
+      "gas:candidate-vibid:1001000188031": 335,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 30,
-      "Комарова Наталья Владимировна": 598,
-      "Кудряшов Анатолий Иванович": 299,
-      "Пономаренко Виктор Николаевич": 17,
-      "Против всех": 108
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 30,
+      "gas:candidate-vibid:1001000226028": 598,
+      "gas:candidate-vibid:1001000188031": 299,
+      "gas:candidate-vibid:1001000136173": 17,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 42,
-      "Клементьев Олег Петрович": 36,
-      "Комарова Наталья Владимировна": 770,
-      "Кудряшов Анатолий Иванович": 354,
-      "Пономаренко Виктор Николаевич": 13,
-      "Против всех": 115
+      "gas:candidate-vibid:289200067357": 42,
+      "gas:candidate-vibid:1001000121958": 36,
+      "gas:candidate-vibid:1001000226028": 770,
+      "gas:candidate-vibid:1001000188031": 354,
+      "gas:candidate-vibid:1001000136173": 13,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 23,
-      "Клементьев Олег Петрович": 26,
-      "Комарова Наталья Владимировна": 742,
-      "Кудряшов Анатолий Иванович": 355,
-      "Пономаренко Виктор Николаевич": 28,
-      "Против всех": 123
+      "gas:candidate-vibid:289200067357": 23,
+      "gas:candidate-vibid:1001000121958": 26,
+      "gas:candidate-vibid:1001000226028": 742,
+      "gas:candidate-vibid:1001000188031": 355,
+      "gas:candidate-vibid:1001000136173": 28,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 33,
-      "Комарова Наталья Владимировна": 642,
-      "Кудряшов Анатолий Иванович": 331,
-      "Пономаренко Виктор Николаевич": 12,
-      "Против всех": 116
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 33,
+      "gas:candidate-vibid:1001000226028": 642,
+      "gas:candidate-vibid:1001000188031": 331,
+      "gas:candidate-vibid:1001000136173": 12,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 34,
-      "Клементьев Олег Петрович": 36,
-      "Комарова Наталья Владимировна": 793,
-      "Кудряшов Анатолий Иванович": 267,
-      "Пономаренко Виктор Николаевич": 30,
-      "Против всех": 114
+      "gas:candidate-vibid:289200067357": 34,
+      "gas:candidate-vibid:1001000121958": 36,
+      "gas:candidate-vibid:1001000226028": 793,
+      "gas:candidate-vibid:1001000188031": 267,
+      "gas:candidate-vibid:1001000136173": 30,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 40,
-      "Клементьев Олег Петрович": 22,
-      "Комарова Наталья Владимировна": 667,
-      "Кудряшов Анатолий Иванович": 260,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 131
+      "gas:candidate-vibid:289200067357": 40,
+      "gas:candidate-vibid:1001000121958": 22,
+      "gas:candidate-vibid:1001000226028": 667,
+      "gas:candidate-vibid:1001000188031": 260,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 35,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 728,
-      "Кудряшов Анатолий Иванович": 236,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 121
+      "gas:candidate-vibid:289200067357": 35,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 728,
+      "gas:candidate-vibid:1001000188031": 236,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 36,
-      "Клементьев Олег Петрович": 30,
-      "Комарова Наталья Владимировна": 709,
-      "Кудряшов Анатолий Иванович": 259,
-      "Пономаренко Виктор Николаевич": 20,
-      "Против всех": 104
+      "gas:candidate-vibid:289200067357": 36,
+      "gas:candidate-vibid:1001000121958": 30,
+      "gas:candidate-vibid:1001000226028": 709,
+      "gas:candidate-vibid:1001000188031": 259,
+      "gas:candidate-vibid:1001000136173": 20,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 41,
-      "Клементьев Олег Петрович": 25,
-      "Комарова Наталья Владимировна": 665,
-      "Кудряшов Анатолий Иванович": 224,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 105
+      "gas:candidate-vibid:289200067357": 41,
+      "gas:candidate-vibid:1001000121958": 25,
+      "gas:candidate-vibid:1001000226028": 665,
+      "gas:candidate-vibid:1001000188031": 224,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 37,
-      "Клементьев Олег Петрович": 27,
-      "Комарова Наталья Владимировна": 560,
-      "Кудряшов Анатолий Иванович": 257,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 60
+      "gas:candidate-vibid:289200067357": 37,
+      "gas:candidate-vibid:1001000121958": 27,
+      "gas:candidate-vibid:1001000226028": 560,
+      "gas:candidate-vibid:1001000188031": 257,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 23,
-      "Клементьев Олег Петрович": 24,
-      "Комарова Наталья Владимировна": 594,
-      "Кудряшов Анатолий Иванович": 284,
-      "Пономаренко Виктор Николаевич": 23,
-      "Против всех": 104
+      "gas:candidate-vibid:289200067357": 23,
+      "gas:candidate-vibid:1001000121958": 24,
+      "gas:candidate-vibid:1001000226028": 594,
+      "gas:candidate-vibid:1001000188031": 284,
+      "gas:candidate-vibid:1001000136173": 23,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 44,
-      "Комарова Наталья Владимировна": 700,
-      "Кудряшов Анатолий Иванович": 270,
-      "Пономаренко Виктор Николаевич": 21,
-      "Против всех": 108
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 44,
+      "gas:candidate-vibid:1001000226028": 700,
+      "gas:candidate-vibid:1001000188031": 270,
+      "gas:candidate-vibid:1001000136173": 21,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 38,
-      "Клементьев Олег Петрович": 23,
-      "Комарова Наталья Владимировна": 713,
-      "Кудряшов Анатолий Иванович": 290,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 95
+      "gas:candidate-vibid:289200067357": 38,
+      "gas:candidate-vibid:1001000121958": 23,
+      "gas:candidate-vibid:1001000226028": 713,
+      "gas:candidate-vibid:1001000188031": 290,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 37,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 679,
-      "Кудряшов Анатолий Иванович": 332,
-      "Пономаренко Виктор Николаевич": 34,
-      "Против всех": 107
+      "gas:candidate-vibid:289200067357": 37,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 679,
+      "gas:candidate-vibid:1001000188031": 332,
+      "gas:candidate-vibid:1001000136173": 34,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 23,
-      "Клементьев Олег Петрович": 25,
-      "Комарова Наталья Владимировна": 555,
-      "Кудряшов Анатолий Иванович": 225,
-      "Пономаренко Виктор Николаевич": 29,
-      "Против всех": 90
+      "gas:candidate-vibid:289200067357": 23,
+      "gas:candidate-vibid:1001000121958": 25,
+      "gas:candidate-vibid:1001000226028": 555,
+      "gas:candidate-vibid:1001000188031": 225,
+      "gas:candidate-vibid:1001000136173": 29,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 30,
-      "Клементьев Олег Петрович": 17,
-      "Комарова Наталья Владимировна": 568,
-      "Кудряшов Анатолий Иванович": 223,
-      "Пономаренко Виктор Николаевич": 20,
-      "Против всех": 59
+      "gas:candidate-vibid:289200067357": 30,
+      "gas:candidate-vibid:1001000121958": 17,
+      "gas:candidate-vibid:1001000226028": 568,
+      "gas:candidate-vibid:1001000188031": 223,
+      "gas:candidate-vibid:1001000136173": 20,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 28,
-      "Комарова Наталья Владимировна": 701,
-      "Кудряшов Анатолий Иванович": 328,
-      "Пономаренко Виктор Николаевич": 21,
-      "Против всех": 89
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 28,
+      "gas:candidate-vibid:1001000226028": 701,
+      "gas:candidate-vibid:1001000188031": 328,
+      "gas:candidate-vibid:1001000136173": 21,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 27,
-      "Комарова Наталья Владимировна": 665,
-      "Кудряшов Анатолий Иванович": 267,
-      "Пономаренко Виктор Николаевич": 17,
-      "Против всех": 96
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 27,
+      "gas:candidate-vibid:1001000226028": 665,
+      "gas:candidate-vibid:1001000188031": 267,
+      "gas:candidate-vibid:1001000136173": 17,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 30,
-      "Комарова Наталья Владимировна": 616,
-      "Кудряшов Анатолий Иванович": 280,
-      "Пономаренко Виктор Николаевич": 28,
-      "Против всех": 80
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 30,
+      "gas:candidate-vibid:1001000226028": 616,
+      "gas:candidate-vibid:1001000188031": 280,
+      "gas:candidate-vibid:1001000136173": 28,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 31,
-      "Клементьев Олег Петрович": 32,
-      "Комарова Наталья Владимировна": 571,
-      "Кудряшов Анатолий Иванович": 235,
-      "Пономаренко Виктор Николаевич": 16,
-      "Против всех": 61
+      "gas:candidate-vibid:289200067357": 31,
+      "gas:candidate-vibid:1001000121958": 32,
+      "gas:candidate-vibid:1001000226028": 571,
+      "gas:candidate-vibid:1001000188031": 235,
+      "gas:candidate-vibid:1001000136173": 16,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 27,
-      "Комарова Наталья Владимировна": 455,
-      "Кудряшов Анатолий Иванович": 196,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 58
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 27,
+      "gas:candidate-vibid:1001000226028": 455,
+      "gas:candidate-vibid:1001000188031": 196,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 18,
-      "Комарова Наталья Владимировна": 593,
-      "Кудряшов Анатолий Иванович": 243,
-      "Пономаренко Виктор Николаевич": 16,
-      "Против всех": 80
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 18,
+      "gas:candidate-vibid:1001000226028": 593,
+      "gas:candidate-vibid:1001000188031": 243,
+      "gas:candidate-vibid:1001000136173": 16,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 15,
-      "Комарова Наталья Владимировна": 562,
-      "Кудряшов Анатолий Иванович": 224,
-      "Пономаренко Виктор Николаевич": 14,
-      "Против всех": 88
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 15,
+      "gas:candidate-vibid:1001000226028": 562,
+      "gas:candidate-vibid:1001000188031": 224,
+      "gas:candidate-vibid:1001000136173": 14,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 10,
-      "Комарова Наталья Владимировна": 487,
-      "Кудряшов Анатолий Иванович": 212,
-      "Пономаренко Виктор Николаевич": 9,
-      "Против всех": 52
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 10,
+      "gas:candidate-vibid:1001000226028": 487,
+      "gas:candidate-vibid:1001000188031": 212,
+      "gas:candidate-vibid:1001000136173": 9,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 19,
-      "Комарова Наталья Владимировна": 528,
-      "Кудряшов Анатолий Иванович": 233,
-      "Пономаренко Виктор Николаевич": 23,
-      "Против всех": 92
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 19,
+      "gas:candidate-vibid:1001000226028": 528,
+      "gas:candidate-vibid:1001000188031": 233,
+      "gas:candidate-vibid:1001000136173": 23,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 23,
-      "Комарова Наталья Владимировна": 640,
-      "Кудряшов Анатолий Иванович": 331,
-      "Пономаренко Виктор Николаевич": 28,
-      "Против всех": 86
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 23,
+      "gas:candidate-vibid:1001000226028": 640,
+      "gas:candidate-vibid:1001000188031": 331,
+      "gas:candidate-vibid:1001000136173": 28,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 21,
-      "Комарова Наталья Владимировна": 496,
-      "Кудряшов Анатолий Иванович": 280,
-      "Пономаренко Виктор Николаевич": 30,
-      "Против всех": 63
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 21,
+      "gas:candidate-vibid:1001000226028": 496,
+      "gas:candidate-vibid:1001000188031": 280,
+      "gas:candidate-vibid:1001000136173": 30,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 50,
-      "Комарова Наталья Владимировна": 721,
-      "Кудряшов Анатолий Иванович": 300,
-      "Пономаренко Виктор Николаевич": 19,
-      "Против всех": 120
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 50,
+      "gas:candidate-vibid:1001000226028": 721,
+      "gas:candidate-vibid:1001000188031": 300,
+      "gas:candidate-vibid:1001000136173": 19,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 8,
-      "Клементьев Олег Петрович": 20,
-      "Комарова Наталья Владимировна": 514,
-      "Кудряшов Анатолий Иванович": 366,
-      "Пономаренко Виктор Николаевич": 12,
-      "Против всех": 61
+      "gas:candidate-vibid:289200067357": 8,
+      "gas:candidate-vibid:1001000121958": 20,
+      "gas:candidate-vibid:1001000226028": 514,
+      "gas:candidate-vibid:1001000188031": 366,
+      "gas:candidate-vibid:1001000136173": 12,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 27,
-      "Клементьев Олег Петрович": 10,
-      "Комарова Наталья Владимировна": 574,
-      "Кудряшов Анатолий Иванович": 339,
-      "Пономаренко Виктор Николаевич": 27,
-      "Против всех": 69
+      "gas:candidate-vibid:289200067357": 27,
+      "gas:candidate-vibid:1001000121958": 10,
+      "gas:candidate-vibid:1001000226028": 574,
+      "gas:candidate-vibid:1001000188031": 339,
+      "gas:candidate-vibid:1001000136173": 27,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068571&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 23,
-      "Клементьев Олег Петрович": 35,
-      "Комарова Наталья Владимировна": 693,
-      "Кудряшов Анатолий Иванович": 8,
-      "Пономаренко Виктор Николаевич": 18,
-      "Против всех": 104
+      "gas:candidate-vibid:289200067357": 23,
+      "gas:candidate-vibid:1001000121958": 35,
+      "gas:candidate-vibid:1001000226028": 693,
+      "gas:candidate-vibid:1001000188031": 8,
+      "gas:candidate-vibid:1001000136173": 18,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 12,
-      "Клементьев Олег Петрович": 15,
-      "Комарова Наталья Владимировна": 849,
-      "Кудряшов Анатолий Иванович": 4,
-      "Пономаренко Виктор Николаевич": 28,
-      "Против всех": 57
+      "gas:candidate-vibid:289200067357": 12,
+      "gas:candidate-vibid:1001000121958": 15,
+      "gas:candidate-vibid:1001000226028": 849,
+      "gas:candidate-vibid:1001000188031": 4,
+      "gas:candidate-vibid:1001000136173": 28,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 1,
-      "Клементьев Олег Петрович": 5,
-      "Комарова Наталья Владимировна": 536,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:289200067357": 1,
+      "gas:candidate-vibid:1001000121958": 5,
+      "gas:candidate-vibid:1001000226028": 536,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 592,
-      "Кудряшов Анатолий Иванович": 17,
-      "Пономаренко Виктор Николаевич": 9,
-      "Против всех": 95
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 592,
+      "gas:candidate-vibid:1001000188031": 17,
+      "gas:candidate-vibid:1001000136173": 9,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 4,
-      "Клементьев Олег Петрович": 12,
-      "Комарова Наталья Владимировна": 316,
-      "Кудряшов Анатолий Иванович": 10,
-      "Пономаренко Виктор Николаевич": 10,
-      "Против всех": 34
+      "gas:candidate-vibid:289200067357": 4,
+      "gas:candidate-vibid:1001000121958": 12,
+      "gas:candidate-vibid:1001000226028": 316,
+      "gas:candidate-vibid:1001000188031": 10,
+      "gas:candidate-vibid:1001000136173": 10,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 1,
-      "Клементьев Олег Петрович": 11,
-      "Комарова Наталья Владимировна": 327,
-      "Кудряшов Анатолий Иванович": 2,
-      "Пономаренко Виктор Николаевич": 8,
-      "Против всех": 44
+      "gas:candidate-vibid:289200067357": 1,
+      "gas:candidate-vibid:1001000121958": 11,
+      "gas:candidate-vibid:1001000226028": 327,
+      "gas:candidate-vibid:1001000188031": 2,
+      "gas:candidate-vibid:1001000136173": 8,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 0,
-      "Клементьев Олег Петрович": 2,
-      "Комарова Наталья Владимировна": 163,
-      "Кудряшов Анатолий Иванович": 1,
-      "Пономаренко Виктор Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:289200067357": 0,
+      "gas:candidate-vibid:1001000121958": 2,
+      "gas:candidate-vibid:1001000226028": 163,
+      "gas:candidate-vibid:1001000188031": 1,
+      "gas:candidate-vibid:1001000136173": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068572&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 8,
-      "Комарова Наталья Владимировна": 203,
-      "Кудряшов Анатолий Иванович": 21,
-      "Пономаренко Виктор Николаевич": 15,
-      "Против всех": 55
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 8,
+      "gas:candidate-vibid:1001000226028": 203,
+      "gas:candidate-vibid:1001000188031": 21,
+      "gas:candidate-vibid:1001000136173": 15,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 38,
-      "Комарова Наталья Владимировна": 1616,
-      "Кудряшов Анатолий Иванович": 64,
-      "Пономаренко Виктор Николаевич": 51,
-      "Против всех": 119
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 38,
+      "gas:candidate-vibid:1001000226028": 1616,
+      "gas:candidate-vibid:1001000188031": 64,
+      "gas:candidate-vibid:1001000136173": 51,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 10,
-      "Клементьев Олег Петрович": 27,
-      "Комарова Наталья Владимировна": 646,
-      "Кудряшов Анатолий Иванович": 16,
-      "Пономаренко Виктор Николаевич": 21,
-      "Против всех": 59
+      "gas:candidate-vibid:289200067357": 10,
+      "gas:candidate-vibid:1001000121958": 27,
+      "gas:candidate-vibid:1001000226028": 646,
+      "gas:candidate-vibid:1001000188031": 16,
+      "gas:candidate-vibid:1001000136173": 21,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 15,
-      "Клементьев Олег Петрович": 8,
-      "Комарова Наталья Владимировна": 156,
-      "Кудряшов Анатолий Иванович": 16,
-      "Пономаренко Виктор Николаевич": 16,
-      "Против всех": 33
+      "gas:candidate-vibid:289200067357": 15,
+      "gas:candidate-vibid:1001000121958": 8,
+      "gas:candidate-vibid:1001000226028": 156,
+      "gas:candidate-vibid:1001000188031": 16,
+      "gas:candidate-vibid:1001000136173": 16,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 18,
-      "Клементьев Олег Петрович": 15,
-      "Комарова Наталья Владимировна": 562,
-      "Кудряшов Анатолий Иванович": 22,
-      "Пономаренко Виктор Николаевич": 27,
-      "Против всех": 70
+      "gas:candidate-vibid:289200067357": 18,
+      "gas:candidate-vibid:1001000121958": 15,
+      "gas:candidate-vibid:1001000226028": 562,
+      "gas:candidate-vibid:1001000188031": 22,
+      "gas:candidate-vibid:1001000136173": 27,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 9,
-      "Клементьев Олег Петрович": 10,
-      "Комарова Наталья Владимировна": 272,
-      "Кудряшов Анатолий Иванович": 10,
-      "Пономаренко Виктор Николаевич": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:289200067357": 9,
+      "gas:candidate-vibid:1001000121958": 10,
+      "gas:candidate-vibid:1001000226028": 272,
+      "gas:candidate-vibid:1001000188031": 10,
+      "gas:candidate-vibid:1001000136173": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 33,
-      "Клементьев Олег Петрович": 40,
-      "Комарова Наталья Владимировна": 1142,
-      "Кудряшов Анатолий Иванович": 73,
-      "Пономаренко Виктор Николаевич": 98,
-      "Против всех": 144
+      "gas:candidate-vibid:289200067357": 33,
+      "gas:candidate-vibid:1001000121958": 40,
+      "gas:candidate-vibid:1001000226028": 1142,
+      "gas:candidate-vibid:1001000188031": 73,
+      "gas:candidate-vibid:1001000136173": 98,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 38,
-      "Клементьев Олег Петрович": 42,
-      "Комарова Наталья Владимировна": 1212,
-      "Кудряшов Анатолий Иванович": 70,
-      "Пономаренко Виктор Николаевич": 86,
-      "Против всех": 154
+      "gas:candidate-vibid:289200067357": 38,
+      "gas:candidate-vibid:1001000121958": 42,
+      "gas:candidate-vibid:1001000226028": 1212,
+      "gas:candidate-vibid:1001000188031": 70,
+      "gas:candidate-vibid:1001000136173": 86,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 2,
-      "Клементьев Олег Петрович": 7,
-      "Комарова Наталья Владимировна": 341,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:289200067357": 2,
+      "gas:candidate-vibid:1001000121958": 7,
+      "gas:candidate-vibid:1001000226028": 341,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 3,
-      "Клементьев Олег Петрович": 2,
-      "Комарова Наталья Владимировна": 211,
-      "Кудряшов Анатолий Иванович": 0,
-      "Пономаренко Виктор Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:289200067357": 3,
+      "gas:candidate-vibid:1001000121958": 2,
+      "gas:candidate-vibid:1001000226028": 211,
+      "gas:candidate-vibid:1001000188031": 0,
+      "gas:candidate-vibid:1001000136173": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 41,
-      "Комарова Наталья Владимировна": 1022,
-      "Кудряшов Анатолий Иванович": 29,
-      "Пономаренко Виктор Николаевич": 46,
-      "Против всех": 179
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 41,
+      "gas:candidate-vibid:1001000226028": 1022,
+      "gas:candidate-vibid:1001000188031": 29,
+      "gas:candidate-vibid:1001000136173": 46,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 38,
-      "Комарова Наталья Владимировна": 1017,
-      "Кудряшов Анатолий Иванович": 62,
-      "Пономаренко Виктор Николаевич": 50,
-      "Против всех": 197
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 38,
+      "gas:candidate-vibid:1001000226028": 1017,
+      "gas:candidate-vibid:1001000188031": 62,
+      "gas:candidate-vibid:1001000136173": 50,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 23,
-      "Клементьев Олег Петрович": 33,
-      "Комарова Наталья Владимировна": 1611,
-      "Кудряшов Анатолий Иванович": 57,
-      "Пономаренко Виктор Николаевич": 63,
-      "Против всех": 170
+      "gas:candidate-vibid:289200067357": 23,
+      "gas:candidate-vibid:1001000121958": 33,
+      "gas:candidate-vibid:1001000226028": 1611,
+      "gas:candidate-vibid:1001000188031": 57,
+      "gas:candidate-vibid:1001000136173": 63,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 42,
-      "Комарова Наталья Владимировна": 1326,
-      "Кудряшов Анатолий Иванович": 77,
-      "Пономаренко Виктор Николаевич": 43,
-      "Против всех": 176
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 42,
+      "gas:candidate-vibid:1001000226028": 1326,
+      "gas:candidate-vibid:1001000188031": 77,
+      "gas:candidate-vibid:1001000136173": 43,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 22,
-      "Клементьев Олег Петрович": 28,
-      "Комарова Наталья Владимировна": 1040,
-      "Кудряшов Анатолий Иванович": 56,
-      "Пономаренко Виктор Николаевич": 56,
-      "Против всех": 155
+      "gas:candidate-vibid:289200067357": 22,
+      "gas:candidate-vibid:1001000121958": 28,
+      "gas:candidate-vibid:1001000226028": 1040,
+      "gas:candidate-vibid:1001000188031": 56,
+      "gas:candidate-vibid:1001000136173": 56,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 63,
-      "Клементьев Олег Петрович": 26,
-      "Комарова Наталья Владимировна": 718,
-      "Кудряшов Анатолий Иванович": 56,
-      "Пономаренко Виктор Николаевич": 47,
-      "Против всех": 141
+      "gas:candidate-vibid:289200067357": 63,
+      "gas:candidate-vibid:1001000121958": 26,
+      "gas:candidate-vibid:1001000226028": 718,
+      "gas:candidate-vibid:1001000188031": 56,
+      "gas:candidate-vibid:1001000136173": 47,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 18,
-      "Комарова Наталья Владимировна": 589,
-      "Кудряшов Анатолий Иванович": 45,
-      "Пономаренко Виктор Николаевич": 23,
-      "Против всех": 69
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 18,
+      "gas:candidate-vibid:1001000226028": 589,
+      "gas:candidate-vibid:1001000188031": 45,
+      "gas:candidate-vibid:1001000136173": 23,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 27,
-      "Клементьев Олег Петрович": 35,
-      "Комарова Наталья Владимировна": 1057,
-      "Кудряшов Анатолий Иванович": 41,
-      "Пономаренко Виктор Николаевич": 51,
-      "Против всех": 94
+      "gas:candidate-vibid:289200067357": 27,
+      "gas:candidate-vibid:1001000121958": 35,
+      "gas:candidate-vibid:1001000226028": 1057,
+      "gas:candidate-vibid:1001000188031": 41,
+      "gas:candidate-vibid:1001000136173": 51,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068573&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 23,
-      "Комарова Наталья Владимировна": 772,
-      "Кудряшов Анатолий Иванович": 32,
-      "Пономаренко Виктор Николаевич": 58,
-      "Против всех": 95
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 23,
+      "gas:candidate-vibid:1001000226028": 772,
+      "gas:candidate-vibid:1001000188031": 32,
+      "gas:candidate-vibid:1001000136173": 58,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 20,
-      "Клементьев Олег Петрович": 44,
-      "Комарова Наталья Владимировна": 1388,
-      "Кудряшов Анатолий Иванович": 57,
-      "Пономаренко Виктор Николаевич": 92,
-      "Против всех": 159
+      "gas:candidate-vibid:289200067357": 20,
+      "gas:candidate-vibid:1001000121958": 44,
+      "gas:candidate-vibid:1001000226028": 1388,
+      "gas:candidate-vibid:1001000188031": 57,
+      "gas:candidate-vibid:1001000136173": 92,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 25,
-      "Комарова Наталья Владимировна": 1068,
-      "Кудряшов Анатолий Иванович": 35,
-      "Пономаренко Виктор Николаевич": 61,
-      "Против всех": 100
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 25,
+      "gas:candidate-vibid:1001000226028": 1068,
+      "gas:candidate-vibid:1001000188031": 35,
+      "gas:candidate-vibid:1001000136173": 61,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 40,
-      "Комарова Наталья Владимировна": 1090,
-      "Кудряшов Анатолий Иванович": 39,
-      "Пономаренко Виктор Николаевич": 70,
-      "Против всех": 158
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 40,
+      "gas:candidate-vibid:1001000226028": 1090,
+      "gas:candidate-vibid:1001000188031": 39,
+      "gas:candidate-vibid:1001000136173": 70,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 34,
-      "Клементьев Олег Петрович": 39,
-      "Комарова Наталья Владимировна": 1016,
-      "Кудряшов Анатолий Иванович": 62,
-      "Пономаренко Виктор Николаевич": 63,
-      "Против всех": 102
+      "gas:candidate-vibid:289200067357": 34,
+      "gas:candidate-vibid:1001000121958": 39,
+      "gas:candidate-vibid:1001000226028": 1016,
+      "gas:candidate-vibid:1001000188031": 62,
+      "gas:candidate-vibid:1001000136173": 63,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 0,
-      "Клементьев Олег Петрович": 0,
-      "Комарова Наталья Владимировна": 213,
-      "Кудряшов Анатолий Иванович": 13,
-      "Пономаренко Виктор Николаевич": 15,
-      "Против всех": 19
+      "gas:candidate-vibid:289200067357": 0,
+      "gas:candidate-vibid:1001000121958": 0,
+      "gas:candidate-vibid:1001000226028": 213,
+      "gas:candidate-vibid:1001000188031": 13,
+      "gas:candidate-vibid:1001000136173": 15,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 15,
-      "Клементьев Олег Петрович": 28,
-      "Комарова Наталья Владимировна": 851,
-      "Кудряшов Анатолий Иванович": 47,
-      "Пономаренко Виктор Николаевич": 63,
-      "Против всех": 69
+      "gas:candidate-vibid:289200067357": 15,
+      "gas:candidate-vibid:1001000121958": 28,
+      "gas:candidate-vibid:1001000226028": 851,
+      "gas:candidate-vibid:1001000188031": 47,
+      "gas:candidate-vibid:1001000136173": 63,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 30,
-      "Комарова Наталья Владимировна": 1119,
-      "Кудряшов Анатолий Иванович": 47,
-      "Пономаренко Виктор Николаевич": 70,
-      "Против всех": 93
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 30,
+      "gas:candidate-vibid:1001000226028": 1119,
+      "gas:candidate-vibid:1001000188031": 47,
+      "gas:candidate-vibid:1001000136173": 70,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 34,
-      "Комарова Наталья Владимировна": 1483,
-      "Кудряшов Анатолий Иванович": 52,
-      "Пономаренко Виктор Николаевич": 69,
-      "Против всех": 133
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 34,
+      "gas:candidate-vibid:1001000226028": 1483,
+      "gas:candidate-vibid:1001000188031": 52,
+      "gas:candidate-vibid:1001000136173": 69,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 22,
-      "Клементьев Олег Петрович": 20,
-      "Комарова Наталья Владимировна": 1156,
-      "Кудряшов Анатолий Иванович": 62,
-      "Пономаренко Виктор Николаевич": 67,
-      "Против всех": 130
+      "gas:candidate-vibid:289200067357": 22,
+      "gas:candidate-vibid:1001000121958": 20,
+      "gas:candidate-vibid:1001000226028": 1156,
+      "gas:candidate-vibid:1001000188031": 62,
+      "gas:candidate-vibid:1001000136173": 67,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 13,
-      "Комарова Наталья Владимировна": 614,
-      "Кудряшов Анатолий Иванович": 33,
-      "Пономаренко Виктор Николаевич": 43,
-      "Против всех": 61
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 13,
+      "gas:candidate-vibid:1001000226028": 614,
+      "gas:candidate-vibid:1001000188031": 33,
+      "gas:candidate-vibid:1001000136173": 43,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 11,
-      "Клементьев Олег Петрович": 26,
-      "Комарова Наталья Владимировна": 808,
-      "Кудряшов Анатолий Иванович": 20,
-      "Пономаренко Виктор Николаевич": 65,
-      "Против всех": 67
+      "gas:candidate-vibid:289200067357": 11,
+      "gas:candidate-vibid:1001000121958": 26,
+      "gas:candidate-vibid:1001000226028": 808,
+      "gas:candidate-vibid:1001000188031": 20,
+      "gas:candidate-vibid:1001000136173": 65,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 41,
-      "Комарова Наталья Владимировна": 1221,
-      "Кудряшов Анатолий Иванович": 43,
-      "Пономаренко Виктор Николаевич": 102,
-      "Против всех": 118
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 41,
+      "gas:candidate-vibid:1001000226028": 1221,
+      "gas:candidate-vibid:1001000188031": 43,
+      "gas:candidate-vibid:1001000136173": 102,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 2,
-      "Клементьев Олег Петрович": 9,
-      "Комарова Наталья Владимировна": 223,
-      "Кудряшов Анатолий Иванович": 12,
-      "Пономаренко Виктор Николаевич": 13,
-      "Против всех": 24
+      "gas:candidate-vibid:289200067357": 2,
+      "gas:candidate-vibid:1001000121958": 9,
+      "gas:candidate-vibid:1001000226028": 223,
+      "gas:candidate-vibid:1001000188031": 12,
+      "gas:candidate-vibid:1001000136173": 13,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 4,
-      "Клементьев Олег Петрович": 3,
-      "Комарова Наталья Владимировна": 105,
-      "Кудряшов Анатолий Иванович": 2,
-      "Пономаренко Виктор Николаевич": 12,
-      "Против всех": 13
+      "gas:candidate-vibid:289200067357": 4,
+      "gas:candidate-vibid:1001000121958": 3,
+      "gas:candidate-vibid:1001000226028": 105,
+      "gas:candidate-vibid:1001000188031": 2,
+      "gas:candidate-vibid:1001000136173": 12,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 3,
-      "Комарова Наталья Владимировна": 348,
-      "Кудряшов Анатолий Иванович": 16,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 35
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 3,
+      "gas:candidate-vibid:1001000226028": 348,
+      "gas:candidate-vibid:1001000188031": 16,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 12,
-      "Клементьев Олег Петрович": 2,
-      "Комарова Наталья Владимировна": 235,
-      "Кудряшов Анатолий Иванович": 10,
-      "Пономаренко Виктор Николаевич": 22,
-      "Против всех": 22
+      "gas:candidate-vibid:289200067357": 12,
+      "gas:candidate-vibid:1001000121958": 2,
+      "gas:candidate-vibid:1001000226028": 235,
+      "gas:candidate-vibid:1001000188031": 10,
+      "gas:candidate-vibid:1001000136173": 22,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 22,
-      "Клементьев Олег Петрович": 16,
-      "Комарова Наталья Владимировна": 703,
-      "Кудряшов Анатолий Иванович": 25,
-      "Пономаренко Виктор Николаевич": 70,
-      "Против всех": 57
+      "gas:candidate-vibid:289200067357": 22,
+      "gas:candidate-vibid:1001000121958": 16,
+      "gas:candidate-vibid:1001000226028": 703,
+      "gas:candidate-vibid:1001000188031": 25,
+      "gas:candidate-vibid:1001000136173": 70,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 11,
-      "Клементьев Олег Петрович": 38,
-      "Комарова Наталья Владимировна": 815,
-      "Кудряшов Анатолий Иванович": 34,
-      "Пономаренко Виктор Николаевич": 58,
-      "Против всех": 71
+      "gas:candidate-vibid:289200067357": 11,
+      "gas:candidate-vibid:1001000121958": 38,
+      "gas:candidate-vibid:1001000226028": 815,
+      "gas:candidate-vibid:1001000188031": 34,
+      "gas:candidate-vibid:1001000136173": 58,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 19,
-      "Клементьев Олег Петрович": 22,
-      "Комарова Наталья Владимировна": 559,
-      "Кудряшов Анатолий Иванович": 18,
-      "Пономаренко Виктор Николаевич": 30,
-      "Против всех": 52
+      "gas:candidate-vibid:289200067357": 19,
+      "gas:candidate-vibid:1001000121958": 22,
+      "gas:candidate-vibid:1001000226028": 559,
+      "gas:candidate-vibid:1001000188031": 18,
+      "gas:candidate-vibid:1001000136173": 30,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 18,
-      "Клементьев Олег Петрович": 26,
-      "Комарова Наталья Владимировна": 950,
-      "Кудряшов Анатолий Иванович": 28,
-      "Пономаренко Виктор Николаевич": 79,
-      "Против всех": 92
+      "gas:candidate-vibid:289200067357": 18,
+      "gas:candidate-vibid:1001000121958": 26,
+      "gas:candidate-vibid:1001000226028": 950,
+      "gas:candidate-vibid:1001000188031": 28,
+      "gas:candidate-vibid:1001000136173": 79,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 26,
-      "Комарова Наталья Владимировна": 1215,
-      "Кудряшов Анатолий Иванович": 67,
-      "Пономаренко Виктор Николаевич": 70,
-      "Против всех": 136
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 26,
+      "gas:candidate-vibid:1001000226028": 1215,
+      "gas:candidate-vibid:1001000188031": 67,
+      "gas:candidate-vibid:1001000136173": 70,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 11,
-      "Клементьев Олег Петрович": 25,
-      "Комарова Наталья Владимировна": 1232,
-      "Кудряшов Анатолий Иванович": 84,
-      "Пономаренко Виктор Николаевич": 75,
-      "Против всех": 111
+      "gas:candidate-vibid:289200067357": 11,
+      "gas:candidate-vibid:1001000121958": 25,
+      "gas:candidate-vibid:1001000226028": 1232,
+      "gas:candidate-vibid:1001000188031": 84,
+      "gas:candidate-vibid:1001000136173": 75,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 33,
-      "Комарова Наталья Владимировна": 1192,
-      "Кудряшов Анатолий Иванович": 42,
-      "Пономаренко Виктор Николаевич": 73,
-      "Против всех": 132
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 33,
+      "gas:candidate-vibid:1001000226028": 1192,
+      "gas:candidate-vibid:1001000188031": 42,
+      "gas:candidate-vibid:1001000136173": 73,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 19,
-      "Клементьев Олег Петрович": 28,
-      "Комарова Наталья Владимировна": 1343,
-      "Кудряшов Анатолий Иванович": 56,
-      "Пономаренко Виктор Николаевич": 67,
-      "Против всех": 125
+      "gas:candidate-vibid:289200067357": 19,
+      "gas:candidate-vibid:1001000121958": 28,
+      "gas:candidate-vibid:1001000226028": 1343,
+      "gas:candidate-vibid:1001000188031": 56,
+      "gas:candidate-vibid:1001000136173": 67,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 33,
-      "Комарова Наталья Владимировна": 1458,
-      "Кудряшов Анатолий Иванович": 51,
-      "Пономаренко Виктор Николаевич": 87,
-      "Против всех": 151
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 33,
+      "gas:candidate-vibid:1001000226028": 1458,
+      "gas:candidate-vibid:1001000188031": 51,
+      "gas:candidate-vibid:1001000136173": 87,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 21,
-      "Клементьев Олег Петрович": 30,
-      "Комарова Наталья Владимировна": 1396,
-      "Кудряшов Анатолий Иванович": 40,
-      "Пономаренко Виктор Николаевич": 86,
-      "Против всех": 155
+      "gas:candidate-vibid:289200067357": 21,
+      "gas:candidate-vibid:1001000121958": 30,
+      "gas:candidate-vibid:1001000226028": 1396,
+      "gas:candidate-vibid:1001000188031": 40,
+      "gas:candidate-vibid:1001000136173": 86,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 37,
-      "Комарова Наталья Владимировна": 1374,
-      "Кудряшов Анатолий Иванович": 41,
-      "Пономаренко Виктор Николаевич": 72,
-      "Против всех": 127
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 37,
+      "gas:candidate-vibid:1001000226028": 1374,
+      "gas:candidate-vibid:1001000188031": 41,
+      "gas:candidate-vibid:1001000136173": 72,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 34,
-      "Комарова Наталья Владимировна": 1159,
-      "Кудряшов Анатолий Иванович": 60,
-      "Пономаренко Виктор Николаевич": 80,
-      "Против всех": 107
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 34,
+      "gas:candidate-vibid:1001000226028": 1159,
+      "gas:candidate-vibid:1001000188031": 60,
+      "gas:candidate-vibid:1001000136173": 80,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 37,
-      "Комарова Наталья Владимировна": 1492,
-      "Кудряшов Анатолий Иванович": 47,
-      "Пономаренко Виктор Николаевич": 76,
-      "Против всех": 157
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 37,
+      "gas:candidate-vibid:1001000226028": 1492,
+      "gas:candidate-vibid:1001000188031": 47,
+      "gas:candidate-vibid:1001000136173": 76,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 25,
-      "Клементьев Олег Петрович": 30,
-      "Комарова Наталья Владимировна": 1259,
-      "Кудряшов Анатолий Иванович": 58,
-      "Пономаренко Виктор Николаевич": 92,
-      "Против всех": 140
+      "gas:candidate-vibid:289200067357": 25,
+      "gas:candidate-vibid:1001000121958": 30,
+      "gas:candidate-vibid:1001000226028": 1259,
+      "gas:candidate-vibid:1001000188031": 58,
+      "gas:candidate-vibid:1001000136173": 92,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 29,
-      "Комарова Наталья Владимировна": 1321,
-      "Кудряшов Анатолий Иванович": 50,
-      "Пономаренко Виктор Николаевич": 68,
-      "Против всех": 149
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 29,
+      "gas:candidate-vibid:1001000226028": 1321,
+      "gas:candidate-vibid:1001000188031": 50,
+      "gas:candidate-vibid:1001000136173": 68,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 25,
-      "Комарова Наталья Владимировна": 1276,
-      "Кудряшов Анатолий Иванович": 63,
-      "Пономаренко Виктор Николаевич": 68,
-      "Против всех": 128
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 25,
+      "gas:candidate-vibid:1001000226028": 1276,
+      "gas:candidate-vibid:1001000188031": 63,
+      "gas:candidate-vibid:1001000136173": 68,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 18,
-      "Комарова Наталья Владимировна": 860,
-      "Кудряшов Анатолий Иванович": 37,
-      "Пономаренко Виктор Николаевич": 77,
-      "Против всех": 85
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 18,
+      "gas:candidate-vibid:1001000226028": 860,
+      "gas:candidate-vibid:1001000188031": 37,
+      "gas:candidate-vibid:1001000136173": 77,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 15,
-      "Клементьев Олег Петрович": 24,
-      "Комарова Наталья Владимировна": 619,
-      "Кудряшов Анатолий Иванович": 29,
-      "Пономаренко Виктор Николаевич": 51,
-      "Против всех": 74
+      "gas:candidate-vibid:289200067357": 15,
+      "gas:candidate-vibid:1001000121958": 24,
+      "gas:candidate-vibid:1001000226028": 619,
+      "gas:candidate-vibid:1001000188031": 29,
+      "gas:candidate-vibid:1001000136173": 51,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 1,
-      "Клементьев Олег Петрович": 7,
-      "Комарова Наталья Владимировна": 208,
-      "Кудряшов Анатолий Иванович": 5,
-      "Пономаренко Виктор Николаевич": 19,
-      "Против всех": 15
+      "gas:candidate-vibid:289200067357": 1,
+      "gas:candidate-vibid:1001000121958": 7,
+      "gas:candidate-vibid:1001000226028": 208,
+      "gas:candidate-vibid:1001000188031": 5,
+      "gas:candidate-vibid:1001000136173": 19,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 18,
-      "Комарова Наталья Владимировна": 738,
-      "Кудряшов Анатолий Иванович": 11,
-      "Пономаренко Виктор Николаевич": 58,
-      "Против всех": 81
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 18,
+      "gas:candidate-vibid:1001000226028": 738,
+      "gas:candidate-vibid:1001000188031": 11,
+      "gas:candidate-vibid:1001000136173": 58,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 0,
-      "Клементьев Олег Петрович": 4,
-      "Комарова Наталья Владимировна": 246,
-      "Кудряшов Анатолий Иванович": 6,
-      "Пономаренко Виктор Николаевич": 15,
-      "Против всех": 21
+      "gas:candidate-vibid:289200067357": 0,
+      "gas:candidate-vibid:1001000121958": 4,
+      "gas:candidate-vibid:1001000226028": 246,
+      "gas:candidate-vibid:1001000188031": 6,
+      "gas:candidate-vibid:1001000136173": 15,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 7,
-      "Клементьев Олег Петрович": 8,
-      "Комарова Наталья Владимировна": 318,
-      "Кудряшов Анатолий Иванович": 14,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 69
+      "gas:candidate-vibid:289200067357": 7,
+      "gas:candidate-vibid:1001000121958": 8,
+      "gas:candidate-vibid:1001000226028": 318,
+      "gas:candidate-vibid:1001000188031": 14,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068574&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 34,
-      "Клементьев Олег Петрович": 46,
-      "Комарова Наталья Владимировна": 752,
-      "Кудряшов Анатолий Иванович": 121,
-      "Пономаренко Виктор Николаевич": 80,
-      "Против всех": 220
+      "gas:candidate-vibid:289200067357": 34,
+      "gas:candidate-vibid:1001000121958": 46,
+      "gas:candidate-vibid:1001000226028": 752,
+      "gas:candidate-vibid:1001000188031": 121,
+      "gas:candidate-vibid:1001000136173": 80,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 24,
-      "Клементьев Олег Петрович": 70,
-      "Комарова Наталья Владимировна": 841,
-      "Кудряшов Анатолий Иванович": 129,
-      "Пономаренко Виктор Николаевич": 72,
-      "Против всех": 228
+      "gas:candidate-vibid:289200067357": 24,
+      "gas:candidate-vibid:1001000121958": 70,
+      "gas:candidate-vibid:1001000226028": 841,
+      "gas:candidate-vibid:1001000188031": 129,
+      "gas:candidate-vibid:1001000136173": 72,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 47,
-      "Клементьев Олег Петрович": 54,
-      "Комарова Наталья Владимировна": 719,
-      "Кудряшов Анатолий Иванович": 80,
-      "Пономаренко Виктор Николаевич": 59,
-      "Против всех": 215
+      "gas:candidate-vibid:289200067357": 47,
+      "gas:candidate-vibid:1001000121958": 54,
+      "gas:candidate-vibid:1001000226028": 719,
+      "gas:candidate-vibid:1001000188031": 80,
+      "gas:candidate-vibid:1001000136173": 59,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 42,
-      "Клементьев Олег Петрович": 40,
-      "Комарова Наталья Владимировна": 799,
-      "Кудряшов Анатолий Иванович": 130,
-      "Пономаренко Виктор Николаевич": 79,
-      "Против всех": 258
+      "gas:candidate-vibid:289200067357": 42,
+      "gas:candidate-vibid:1001000121958": 40,
+      "gas:candidate-vibid:1001000226028": 799,
+      "gas:candidate-vibid:1001000188031": 130,
+      "gas:candidate-vibid:1001000136173": 79,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 50,
-      "Клементьев Олег Петрович": 78,
-      "Комарова Наталья Владимировна": 855,
-      "Кудряшов Анатолий Иванович": 112,
-      "Пономаренко Виктор Николаевич": 82,
-      "Против всех": 265
+      "gas:candidate-vibid:289200067357": 50,
+      "gas:candidate-vibid:1001000121958": 78,
+      "gas:candidate-vibid:1001000226028": 855,
+      "gas:candidate-vibid:1001000188031": 112,
+      "gas:candidate-vibid:1001000136173": 82,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 44,
-      "Клементьев Олег Петрович": 57,
-      "Комарова Наталья Владимировна": 886,
-      "Кудряшов Анатолий Иванович": 142,
-      "Пономаренко Виктор Николаевич": 68,
-      "Против всех": 277
+      "gas:candidate-vibid:289200067357": 44,
+      "gas:candidate-vibid:1001000121958": 57,
+      "gas:candidate-vibid:1001000226028": 886,
+      "gas:candidate-vibid:1001000188031": 142,
+      "gas:candidate-vibid:1001000136173": 68,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 46,
-      "Клементьев Олег Петрович": 61,
-      "Комарова Наталья Владимировна": 768,
-      "Кудряшов Анатолий Иванович": 131,
-      "Пономаренко Виктор Николаевич": 80,
-      "Против всех": 285
+      "gas:candidate-vibid:289200067357": 46,
+      "gas:candidate-vibid:1001000121958": 61,
+      "gas:candidate-vibid:1001000226028": 768,
+      "gas:candidate-vibid:1001000188031": 131,
+      "gas:candidate-vibid:1001000136173": 80,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 26,
-      "Клементьев Олег Петрович": 49,
-      "Комарова Наталья Владимировна": 747,
-      "Кудряшов Анатолий Иванович": 132,
-      "Пономаренко Виктор Николаевич": 78,
-      "Против всех": 246
+      "gas:candidate-vibid:289200067357": 26,
+      "gas:candidate-vibid:1001000121958": 49,
+      "gas:candidate-vibid:1001000226028": 747,
+      "gas:candidate-vibid:1001000188031": 132,
+      "gas:candidate-vibid:1001000136173": 78,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 78,
-      "Комарова Наталья Владимировна": 766,
-      "Кудряшов Анатолий Иванович": 152,
-      "Пономаренко Виктор Николаевич": 77,
-      "Против всех": 244
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 78,
+      "gas:candidate-vibid:1001000226028": 766,
+      "gas:candidate-vibid:1001000188031": 152,
+      "gas:candidate-vibid:1001000136173": 77,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 54,
-      "Клементьев Олег Петрович": 57,
-      "Комарова Наталья Владимировна": 908,
-      "Кудряшов Анатолий Иванович": 147,
-      "Пономаренко Виктор Николаевич": 94,
-      "Против всех": 285
+      "gas:candidate-vibid:289200067357": 54,
+      "gas:candidate-vibid:1001000121958": 57,
+      "gas:candidate-vibid:1001000226028": 908,
+      "gas:candidate-vibid:1001000188031": 147,
+      "gas:candidate-vibid:1001000136173": 94,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 37,
-      "Клементьев Олег Петрович": 72,
-      "Комарова Наталья Владимировна": 856,
-      "Кудряшов Анатолий Иванович": 140,
-      "Пономаренко Виктор Николаевич": 89,
-      "Против всех": 288
+      "gas:candidate-vibid:289200067357": 37,
+      "gas:candidate-vibid:1001000121958": 72,
+      "gas:candidate-vibid:1001000226028": 856,
+      "gas:candidate-vibid:1001000188031": 140,
+      "gas:candidate-vibid:1001000136173": 89,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 49,
-      "Клементьев Олег Петрович": 63,
-      "Комарова Наталья Владимировна": 889,
-      "Кудряшов Анатолий Иванович": 123,
-      "Пономаренко Виктор Николаевич": 109,
-      "Против всех": 282
+      "gas:candidate-vibid:289200067357": 49,
+      "gas:candidate-vibid:1001000121958": 63,
+      "gas:candidate-vibid:1001000226028": 889,
+      "gas:candidate-vibid:1001000188031": 123,
+      "gas:candidate-vibid:1001000136173": 109,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 50,
-      "Клементьев Олег Петрович": 69,
-      "Комарова Наталья Владимировна": 828,
-      "Кудряшов Анатолий Иванович": 129,
-      "Пономаренко Виктор Николаевич": 95,
-      "Против всех": 285
+      "gas:candidate-vibid:289200067357": 50,
+      "gas:candidate-vibid:1001000121958": 69,
+      "gas:candidate-vibid:1001000226028": 828,
+      "gas:candidate-vibid:1001000188031": 129,
+      "gas:candidate-vibid:1001000136173": 95,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 9,
-      "Клементьев Олег Петрович": 12,
-      "Комарова Наталья Владимировна": 219,
-      "Кудряшов Анатолий Иванович": 38,
-      "Пономаренко Виктор Николаевич": 20,
-      "Против всех": 39
+      "gas:candidate-vibid:289200067357": 9,
+      "gas:candidate-vibid:1001000121958": 12,
+      "gas:candidate-vibid:1001000226028": 219,
+      "gas:candidate-vibid:1001000188031": 38,
+      "gas:candidate-vibid:1001000136173": 20,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 13,
-      "Клементьев Олег Петрович": 22,
-      "Комарова Наталья Владимировна": 190,
-      "Кудряшов Анатолий Иванович": 31,
-      "Пономаренко Виктор Николаевич": 42,
-      "Против всех": 69
+      "gas:candidate-vibid:289200067357": 13,
+      "gas:candidate-vibid:1001000121958": 22,
+      "gas:candidate-vibid:1001000226028": 190,
+      "gas:candidate-vibid:1001000188031": 31,
+      "gas:candidate-vibid:1001000136173": 42,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 41,
-      "Комарова Наталья Владимировна": 295,
-      "Кудряшов Анатолий Иванович": 49,
-      "Пономаренко Виктор Николаевич": 50,
-      "Против всех": 113
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 41,
+      "gas:candidate-vibid:1001000226028": 295,
+      "gas:candidate-vibid:1001000188031": 49,
+      "gas:candidate-vibid:1001000136173": 50,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 17,
-      "Клементьев Олег Петрович": 18,
-      "Комарова Наталья Владимировна": 537,
-      "Кудряшов Анатолий Иванович": 51,
-      "Пономаренко Виктор Николаевич": 26,
-      "Против всех": 87
+      "gas:candidate-vibid:289200067357": 17,
+      "gas:candidate-vibid:1001000121958": 18,
+      "gas:candidate-vibid:1001000226028": 537,
+      "gas:candidate-vibid:1001000188031": 51,
+      "gas:candidate-vibid:1001000136173": 26,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 29,
-      "Клементьев Олег Петрович": 32,
-      "Комарова Наталья Владимировна": 909,
-      "Кудряшов Анатолий Иванович": 23,
-      "Пономаренко Виктор Николаевич": 52,
-      "Против всех": 164
+      "gas:candidate-vibid:289200067357": 29,
+      "gas:candidate-vibid:1001000121958": 32,
+      "gas:candidate-vibid:1001000226028": 909,
+      "gas:candidate-vibid:1001000188031": 23,
+      "gas:candidate-vibid:1001000136173": 52,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 41,
-      "Клементьев Олег Петрович": 70,
-      "Комарова Наталья Владимировна": 1830,
-      "Кудряшов Анатолий Иванович": 49,
-      "Пономаренко Виктор Николаевич": 101,
-      "Против всех": 282
+      "gas:candidate-vibid:289200067357": 41,
+      "gas:candidate-vibid:1001000121958": 70,
+      "gas:candidate-vibid:1001000226028": 1830,
+      "gas:candidate-vibid:1001000188031": 49,
+      "gas:candidate-vibid:1001000136173": 101,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 33,
-      "Клементьев Олег Петрович": 42,
-      "Комарова Наталья Владимировна": 923,
-      "Кудряшов Анатолий Иванович": 25,
-      "Пономаренко Виктор Николаевич": 65,
-      "Против всех": 149
+      "gas:candidate-vibid:289200067357": 33,
+      "gas:candidate-vibid:1001000121958": 42,
+      "gas:candidate-vibid:1001000226028": 923,
+      "gas:candidate-vibid:1001000188031": 25,
+      "gas:candidate-vibid:1001000136173": 65,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 41,
-      "Клементьев Олег Петрович": 20,
-      "Комарова Наталья Владимировна": 739,
-      "Кудряшов Анатолий Иванович": 49,
-      "Пономаренко Виктор Николаевич": 78,
-      "Против всех": 145
+      "gas:candidate-vibid:289200067357": 41,
+      "gas:candidate-vibid:1001000121958": 20,
+      "gas:candidate-vibid:1001000226028": 739,
+      "gas:candidate-vibid:1001000188031": 49,
+      "gas:candidate-vibid:1001000136173": 78,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 14,
-      "Клементьев Олег Петрович": 6,
-      "Комарова Наталья Владимировна": 582,
-      "Кудряшов Анатолий Иванович": 16,
-      "Пономаренко Виктор Николаевич": 11,
-      "Против всех": 27
+      "gas:candidate-vibid:289200067357": 14,
+      "gas:candidate-vibid:1001000121958": 6,
+      "gas:candidate-vibid:1001000226028": 582,
+      "gas:candidate-vibid:1001000188031": 16,
+      "gas:candidate-vibid:1001000136173": 11,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 52,
-      "Комарова Наталья Владимировна": 519,
-      "Кудряшов Анатолий Иванович": 47,
-      "Пономаренко Виктор Николаевич": 44,
-      "Против всех": 255
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 52,
+      "gas:candidate-vibid:1001000226028": 519,
+      "gas:candidate-vibid:1001000188031": 47,
+      "gas:candidate-vibid:1001000136173": 44,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 2,
-      "Клементьев Олег Петрович": 1,
-      "Комарова Наталья Владимировна": 154,
-      "Кудряшов Анатолий Иванович": 0,
-      "Пономаренко Виктор Николаевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:289200067357": 2,
+      "gas:candidate-vibid:1001000121958": 1,
+      "gas:candidate-vibid:1001000226028": 154,
+      "gas:candidate-vibid:1001000188031": 0,
+      "gas:candidate-vibid:1001000136173": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 10,
-      "Клементьев Олег Петрович": 15,
-      "Комарова Наталья Владимировна": 309,
-      "Кудряшов Анатолий Иванович": 3,
-      "Пономаренко Виктор Николаевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:289200067357": 10,
+      "gas:candidate-vibid:1001000121958": 15,
+      "gas:candidate-vibid:1001000226028": 309,
+      "gas:candidate-vibid:1001000188031": 3,
+      "gas:candidate-vibid:1001000136173": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 24,
-      "Комарова Наталья Владимировна": 330,
-      "Кудряшов Анатолий Иванович": 29,
-      "Пономаренко Виктор Николаевич": 39,
-      "Против всех": 71
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 24,
+      "gas:candidate-vibid:1001000226028": 330,
+      "gas:candidate-vibid:1001000188031": 29,
+      "gas:candidate-vibid:1001000136173": 39,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 18,
-      "Клементьев Олег Петрович": 17,
-      "Комарова Наталья Владимировна": 199,
-      "Кудряшов Анатолий Иванович": 9,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 41
+      "gas:candidate-vibid:289200067357": 18,
+      "gas:candidate-vibid:1001000121958": 17,
+      "gas:candidate-vibid:1001000226028": 199,
+      "gas:candidate-vibid:1001000188031": 9,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 9,
-      "Клементьев Олег Петрович": 21,
-      "Комарова Наталья Владимировна": 256,
-      "Кудряшов Анатолий Иванович": 15,
-      "Пономаренко Виктор Николаевич": 38,
-      "Против всех": 53
+      "gas:candidate-vibid:289200067357": 9,
+      "gas:candidate-vibid:1001000121958": 21,
+      "gas:candidate-vibid:1001000226028": 256,
+      "gas:candidate-vibid:1001000188031": 15,
+      "gas:candidate-vibid:1001000136173": 38,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 16,
-      "Клементьев Олег Петрович": 23,
-      "Комарова Наталья Владимировна": 600,
-      "Кудряшов Анатолий Иванович": 26,
-      "Пономаренко Виктор Николаевич": 25,
-      "Против всех": 89
+      "gas:candidate-vibid:289200067357": 16,
+      "gas:candidate-vibid:1001000121958": 23,
+      "gas:candidate-vibid:1001000226028": 600,
+      "gas:candidate-vibid:1001000188031": 26,
+      "gas:candidate-vibid:1001000136173": 25,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 32,
-      "Клементьев Олег Петрович": 17,
-      "Комарова Наталья Владимировна": 579,
-      "Кудряшов Анатолий Иванович": 107,
-      "Пономаренко Виктор Николаевич": 31,
-      "Против всех": 136
+      "gas:candidate-vibid:289200067357": 32,
+      "gas:candidate-vibid:1001000121958": 17,
+      "gas:candidate-vibid:1001000226028": 579,
+      "gas:candidate-vibid:1001000188031": 107,
+      "gas:candidate-vibid:1001000136173": 31,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_89_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Иванов Геннадий Николаевич": 28,
-      "Клементьев Олег Петрович": 12,
-      "Комарова Наталья Владимировна": 405,
-      "Кудряшов Анатолий Иванович": 27,
-      "Пономаренко Виктор Николаевич": 17,
-      "Против всех": 79
+      "gas:candidate-vibid:289200067357": 28,
+      "gas:candidate-vibid:1001000121958": 12,
+      "gas:candidate-vibid:1001000226028": 405,
+      "gas:candidate-vibid:1001000188031": 27,
+      "gas:candidate-vibid:1001000136173": 17,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=892000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=289200068575&region=0&sub_region=0&type=429",

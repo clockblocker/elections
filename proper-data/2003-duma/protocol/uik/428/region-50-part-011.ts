@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 111,
-      "Борисов Александр Николаевич": 27,
-      "Брынцалов Владимир Алексеевич": 211,
-      "Иванова Татьяна Ивановна": 117,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 24,
-      "Собко Сергей Васильевич": 284,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000195100": 111,
+      "gas:candidate-vibid:350300870422": 27,
+      "gas:candidate-vibid:1001000225956": 211,
+      "gas:candidate-vibid:250200071250": 117,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 24,
+      "gas:candidate-vibid:1001000121868": 284,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 67,
-      "Борисов Александр Николаевич": 37,
-      "Брынцалов Владимир Алексеевич": 249,
-      "Иванова Татьяна Ивановна": 95,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 24,
-      "Пелевин Игорь Юрьевич": 32,
-      "Собко Сергей Васильевич": 332,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000195100": 67,
+      "gas:candidate-vibid:350300870422": 37,
+      "gas:candidate-vibid:1001000225956": 249,
+      "gas:candidate-vibid:250200071250": 95,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 24,
+      "gas:candidate-vibid:1001000113950": 32,
+      "gas:candidate-vibid:1001000121868": 332,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 67,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 159,
-      "Иванова Татьяна Ивановна": 94,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 24,
-      "Собко Сергей Васильевич": 388,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000195100": 67,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 159,
+      "gas:candidate-vibid:250200071250": 94,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 24,
+      "gas:candidate-vibid:1001000121868": 388,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 68,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 210,
-      "Иванова Татьяна Ивановна": 71,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 17,
-      "Пелевин Игорь Юрьевич": 38,
-      "Собко Сергей Васильевич": 264,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000195100": 68,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 210,
+      "gas:candidate-vibid:250200071250": 71,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 17,
+      "gas:candidate-vibid:1001000113950": 38,
+      "gas:candidate-vibid:1001000121868": 264,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 56,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 144,
-      "Иванова Татьяна Ивановна": 56,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 17,
-      "Пелевин Игорь Юрьевич": 10,
-      "Собко Сергей Васильевич": 159,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000195100": 56,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 144,
+      "gas:candidate-vibid:250200071250": 56,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 17,
+      "gas:candidate-vibid:1001000113950": 10,
+      "gas:candidate-vibid:1001000121868": 159,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 58,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 159,
-      "Иванова Татьяна Ивановна": 60,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 24,
-      "Пелевин Игорь Юрьевич": 17,
-      "Собко Сергей Васильевич": 278,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000195100": 58,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 159,
+      "gas:candidate-vibid:250200071250": 60,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 24,
+      "gas:candidate-vibid:1001000113950": 17,
+      "gas:candidate-vibid:1001000121868": 278,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 46,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 206,
-      "Иванова Татьяна Ивановна": 59,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 25,
-      "Пелевин Игорь Юрьевич": 22,
-      "Собко Сергей Васильевич": 218,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000195100": 46,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 206,
+      "gas:candidate-vibid:250200071250": 59,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 25,
+      "gas:candidate-vibid:1001000113950": 22,
+      "gas:candidate-vibid:1001000121868": 218,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 57,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 168,
-      "Иванова Татьяна Ивановна": 56,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 15,
-      "Собко Сергей Васильевич": 142,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195100": 57,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 168,
+      "gas:candidate-vibid:250200071250": 56,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 15,
+      "gas:candidate-vibid:1001000121868": 142,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 72,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 153,
-      "Иванова Татьяна Ивановна": 54,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 17,
-      "Собко Сергей Васильевич": 228,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000195100": 72,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 153,
+      "gas:candidate-vibid:250200071250": 54,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 17,
+      "gas:candidate-vibid:1001000121868": 228,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 44,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 106,
-      "Иванова Татьяна Ивановна": 58,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 154,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000195100": 44,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 106,
+      "gas:candidate-vibid:250200071250": 58,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 154,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 26,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 115,
-      "Иванова Татьяна Ивановна": 37,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 80,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000195100": 26,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 115,
+      "gas:candidate-vibid:250200071250": 37,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 80,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 33,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 96,
-      "Иванова Татьяна Ивановна": 57,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 15,
-      "Собко Сергей Васильевич": 123,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000195100": 33,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 96,
+      "gas:candidate-vibid:250200071250": 57,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 15,
+      "gas:candidate-vibid:1001000121868": 123,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 58,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 295,
-      "Иванова Татьяна Ивановна": 59,
-      "Клетенков Сергей Николаевич": 7,
-      "Осьмаков Сергей Васильевич": 40,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 420,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000195100": 58,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 295,
+      "gas:candidate-vibid:250200071250": 59,
+      "gas:candidate-vibid:350300870425": 7,
+      "gas:candidate-vibid:1001000190375": 40,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 420,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 52,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 209,
-      "Иванова Татьяна Ивановна": 49,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 12,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 222,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000195100": 52,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 209,
+      "gas:candidate-vibid:250200071250": 49,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 12,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 222,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 72,
-      "Иванова Татьяна Ивановна": 26,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 154,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 72,
+      "gas:candidate-vibid:250200071250": 26,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 154,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 32,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 32,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 22,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 43,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 22,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 43,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 43,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 96,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 43,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 96,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 84,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 165,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 84,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 165,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 3,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 52,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 89,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195100": 3,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 52,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 89,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 58,
-      "Борисов Александр Николаевич": 19,
-      "Брынцалов Владимир Алексеевич": 116,
-      "Иванова Татьяна Ивановна": 78,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 251,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195100": 58,
+      "gas:candidate-vibid:350300870422": 19,
+      "gas:candidate-vibid:1001000225956": 116,
+      "gas:candidate-vibid:250200071250": 78,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 251,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 33,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 47,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 33,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 47,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 47,
-      "Борисов Александр Николаевич": 36,
-      "Брынцалов Владимир Алексеевич": 886,
-      "Иванова Татьяна Ивановна": 79,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 15,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 201,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000195100": 47,
+      "gas:candidate-vibid:350300870422": 36,
+      "gas:candidate-vibid:1001000225956": 886,
+      "gas:candidate-vibid:250200071250": 79,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 15,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 201,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 17,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 171,
-      "Иванова Татьяна Ивановна": 13,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 45,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000195100": 17,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 171,
+      "gas:candidate-vibid:250200071250": 13,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 45,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 31,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 102,
-      "Иванова Татьяна Ивановна": 32,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 120,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000195100": 31,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 102,
+      "gas:candidate-vibid:250200071250": 32,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 120,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 17,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 57,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 66,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195100": 17,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 57,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 66,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 51,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 158,
-      "Иванова Татьяна Ивановна": 93,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 41,
-      "Пелевин Игорь Юрьевич": 15,
-      "Собко Сергей Васильевич": 259,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000195100": 51,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 158,
+      "gas:candidate-vibid:250200071250": 93,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 41,
+      "gas:candidate-vibid:1001000113950": 15,
+      "gas:candidate-vibid:1001000121868": 259,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 4,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 60,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 107,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195100": 4,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 60,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 107,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 7,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 31,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 98,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195100": 7,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 31,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 98,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 81,
-      "Иванова Татьяна Ивановна": 12,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 93,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 81,
+      "gas:candidate-vibid:250200071250": 12,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 93,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -1782,16 +1782,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 18,
-      "Бондарев Григорий Семенович": 46,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 100,
-      "Глазьев Сергей Юрьевич": 663,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 18,
+      "gas:candidate-vibid:1001000112229": 46,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 100,
+      "gas:candidate-vibid:1001000188011": 663,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -1841,16 +1841,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 24,
-      "Баслаковский Юрий Васильевич": 34,
-      "Бондарев Григорий Семенович": 81,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 129,
-      "Глазьев Сергей Юрьевич": 587,
-      "Жилкин Сергей Николаевич": 44,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 36,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000190377": 24,
+      "gas:candidate-vibid:350300970379": 34,
+      "gas:candidate-vibid:1001000112229": 81,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 129,
+      "gas:candidate-vibid:1001000188011": 587,
+      "gas:candidate-vibid:1001000220822": 44,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 36,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -1900,16 +1900,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 36,
-      "Баслаковский Юрий Васильевич": 24,
-      "Бондарев Григорий Семенович": 93,
-      "Бурков Валерий Анатольевич": 24,
-      "Бялко Александр Андреевич": 171,
-      "Глазьев Сергей Юрьевич": 649,
-      "Жилкин Сергей Николаевич": 88,
-      "Пахомов Кирилл Владимирович": 23,
-      "Спирин Юрий Леонидович": 83,
-      "Против всех": 447
+      "gas:candidate-vibid:1001000190377": 36,
+      "gas:candidate-vibid:350300970379": 24,
+      "gas:candidate-vibid:1001000112229": 93,
+      "gas:candidate-vibid:1001000195101": 24,
+      "gas:candidate-vibid:1001000113951": 171,
+      "gas:candidate-vibid:1001000188011": 649,
+      "gas:candidate-vibid:1001000220822": 88,
+      "gas:candidate-vibid:1001000121283": 23,
+      "gas:candidate-vibid:1001000136079": 83,
+      "special:against-all": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -1959,16 +1959,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 24,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 78,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 114,
-      "Глазьев Сергей Юрьевич": 702,
-      "Жилкин Сергей Николаевич": 68,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 51,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000190377": 24,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 78,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 114,
+      "gas:candidate-vibid:1001000188011": 702,
+      "gas:candidate-vibid:1001000220822": 68,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 51,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2018,16 +2018,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 34,
-      "Бондарев Григорий Семенович": 79,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 112,
-      "Глазьев Сергей Юрьевич": 675,
-      "Жилкин Сергей Николаевич": 54,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 42,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 34,
+      "gas:candidate-vibid:1001000112229": 79,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 112,
+      "gas:candidate-vibid:1001000188011": 675,
+      "gas:candidate-vibid:1001000220822": 54,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 42,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2077,16 +2077,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 31,
-      "Бондарев Григорий Семенович": 64,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 98,
-      "Глазьев Сергей Юрьевич": 683,
-      "Жилкин Сергей Николаевич": 41,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 31,
+      "gas:candidate-vibid:1001000112229": 64,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 98,
+      "gas:candidate-vibid:1001000188011": 683,
+      "gas:candidate-vibid:1001000220822": 41,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2136,16 +2136,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 25,
-      "Бондарев Григорий Семенович": 76,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 124,
-      "Глазьев Сергей Юрьевич": 650,
-      "Жилкин Сергей Николаевич": 40,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 46,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 25,
+      "gas:candidate-vibid:1001000112229": 76,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 124,
+      "gas:candidate-vibid:1001000188011": 650,
+      "gas:candidate-vibid:1001000220822": 40,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 46,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2195,16 +2195,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 35,
-      "Баслаковский Юрий Васильевич": 27,
-      "Бондарев Григорий Семенович": 79,
-      "Бурков Валерий Анатольевич": 23,
-      "Бялко Александр Андреевич": 91,
-      "Глазьев Сергей Юрьевич": 667,
-      "Жилкин Сергей Николаевич": 38,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190377": 35,
+      "gas:candidate-vibid:350300970379": 27,
+      "gas:candidate-vibid:1001000112229": 79,
+      "gas:candidate-vibid:1001000195101": 23,
+      "gas:candidate-vibid:1001000113951": 91,
+      "gas:candidate-vibid:1001000188011": 667,
+      "gas:candidate-vibid:1001000220822": 38,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2254,16 +2254,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 38,
-      "Бондарев Григорий Семенович": 111,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 181,
-      "Глазьев Сергей Юрьевич": 840,
-      "Жилкин Сергей Николаевич": 44,
-      "Пахомов Кирилл Владимирович": 14,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 38,
+      "gas:candidate-vibid:1001000112229": 111,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 181,
+      "gas:candidate-vibid:1001000188011": 840,
+      "gas:candidate-vibid:1001000220822": 44,
+      "gas:candidate-vibid:1001000121283": 14,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2313,16 +2313,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 20,
-      "Бондарев Григорий Семенович": 91,
-      "Бурков Валерий Анатольевич": 24,
-      "Бялко Александр Андреевич": 149,
-      "Глазьев Сергей Юрьевич": 776,
-      "Жилкин Сергей Николаевич": 56,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 20,
+      "gas:candidate-vibid:1001000112229": 91,
+      "gas:candidate-vibid:1001000195101": 24,
+      "gas:candidate-vibid:1001000113951": 149,
+      "gas:candidate-vibid:1001000188011": 776,
+      "gas:candidate-vibid:1001000220822": 56,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2372,16 +2372,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 24,
-      "Бондарев Григорий Семенович": 83,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 116,
-      "Глазьев Сергей Юрьевич": 936,
-      "Жилкин Сергей Николаевич": 50,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 24,
+      "gas:candidate-vibid:1001000112229": 83,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 116,
+      "gas:candidate-vibid:1001000188011": 936,
+      "gas:candidate-vibid:1001000220822": 50,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2431,16 +2431,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 86,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 98,
-      "Глазьев Сергей Юрьевич": 847,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 29,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 86,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 98,
+      "gas:candidate-vibid:1001000188011": 847,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 29,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2490,16 +2490,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 41,
-      "Бондарев Григорий Семенович": 87,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 144,
-      "Глазьев Сергей Юрьевич": 953,
-      "Жилкин Сергей Николаевич": 48,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 36,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 41,
+      "gas:candidate-vibid:1001000112229": 87,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 144,
+      "gas:candidate-vibid:1001000188011": 953,
+      "gas:candidate-vibid:1001000220822": 48,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 36,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2549,16 +2549,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 82,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 106,
-      "Глазьев Сергей Юрьевич": 1130,
-      "Жилкин Сергей Николаевич": 43,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 19,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 82,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 106,
+      "gas:candidate-vibid:1001000188011": 1130,
+      "gas:candidate-vibid:1001000220822": 43,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 19,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2608,16 +2608,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 65,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 63,
-      "Глазьев Сергей Юрьевич": 926,
-      "Жилкин Сергей Николаевич": 34,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 35,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 65,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 63,
+      "gas:candidate-vibid:1001000188011": 926,
+      "gas:candidate-vibid:1001000220822": 34,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 35,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2667,16 +2667,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 23,
-      "Бондарев Григорий Семенович": 78,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 97,
-      "Глазьев Сергей Юрьевич": 675,
-      "Жилкин Сергей Николаевич": 42,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 23,
+      "gas:candidate-vibid:1001000112229": 78,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 97,
+      "gas:candidate-vibid:1001000188011": 675,
+      "gas:candidate-vibid:1001000220822": 42,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2726,16 +2726,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 22,
-      "Бондарев Григорий Семенович": 70,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 80,
-      "Глазьев Сергей Юрьевич": 688,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 43,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 22,
+      "gas:candidate-vibid:1001000112229": 70,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 80,
+      "gas:candidate-vibid:1001000188011": 688,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 43,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2785,16 +2785,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 113,
-      "Бурков Валерий Анатольевич": 19,
-      "Бялко Александр Андреевич": 30,
-      "Глазьев Сергей Юрьевич": 408,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 113,
+      "gas:candidate-vibid:1001000195101": 19,
+      "gas:candidate-vibid:1001000113951": 30,
+      "gas:candidate-vibid:1001000188011": 408,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970359&region=0&sub_region=0&type=429",
@@ -2844,16 +2844,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 26,
-      "Бондарев Григорий Семенович": 76,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 69,
-      "Глазьев Сергей Юрьевич": 547,
-      "Жилкин Сергей Николаевич": 58,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 26,
+      "gas:candidate-vibid:1001000112229": 76,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 69,
+      "gas:candidate-vibid:1001000188011": 547,
+      "gas:candidate-vibid:1001000220822": 58,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -2903,16 +2903,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 63,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 83,
-      "Глазьев Сергей Юрьевич": 483,
-      "Жилкин Сергей Николаевич": 38,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 63,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 83,
+      "gas:candidate-vibid:1001000188011": 483,
+      "gas:candidate-vibid:1001000220822": 38,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -2962,16 +2962,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 26,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 69,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 109,
-      "Глазьев Сергей Юрьевич": 573,
-      "Жилкин Сергей Николаевич": 41,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 42,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000190377": 26,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 69,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 109,
+      "gas:candidate-vibid:1001000188011": 573,
+      "gas:candidate-vibid:1001000220822": 41,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 42,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3021,16 +3021,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 20,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 70,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 99,
-      "Глазьев Сергей Юрьевич": 549,
-      "Жилкин Сергей Николаевич": 43,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 35,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190377": 20,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 70,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 99,
+      "gas:candidate-vibid:1001000188011": 549,
+      "gas:candidate-vibid:1001000220822": 43,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 35,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3080,16 +3080,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 16,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 77,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 74,
-      "Глазьев Сергей Юрьевич": 531,
-      "Жилкин Сергей Николаевич": 67,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 54,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000190377": 16,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 77,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 74,
+      "gas:candidate-vibid:1001000188011": 531,
+      "gas:candidate-vibid:1001000220822": 67,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 54,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3139,16 +3139,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 28,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 37,
-      "Глазьев Сергей Юрьевич": 475,
-      "Жилкин Сергей Николаевич": 14,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 14,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 28,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 37,
+      "gas:candidate-vibid:1001000188011": 475,
+      "gas:candidate-vibid:1001000220822": 14,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 14,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3198,16 +3198,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 33,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 26,
-      "Глазьев Сергей Юрьевич": 302,
-      "Жилкин Сергей Николаевич": 25,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 33,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 26,
+      "gas:candidate-vibid:1001000188011": 302,
+      "gas:candidate-vibid:1001000220822": 25,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3257,16 +3257,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 33,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 51,
-      "Глазьев Сергей Юрьевич": 486,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 33,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 51,
+      "gas:candidate-vibid:1001000188011": 486,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3316,16 +3316,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 31,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 20,
-      "Глазьев Сергей Юрьевич": 185,
-      "Жилкин Сергей Николаевич": 9,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 10,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 31,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 20,
+      "gas:candidate-vibid:1001000188011": 185,
+      "gas:candidate-vibid:1001000220822": 9,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 10,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3375,16 +3375,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 1,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 25,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 31,
-      "Глазьев Сергей Юрьевич": 222,
-      "Жилкин Сергей Николаевич": 7,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 9,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000190377": 1,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 25,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 31,
+      "gas:candidate-vibid:1001000188011": 222,
+      "gas:candidate-vibid:1001000220822": 7,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 9,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3434,16 +3434,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 22,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 17,
-      "Глазьев Сергей Юрьевич": 222,
-      "Жилкин Сергей Николаевич": 7,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 22,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 17,
+      "gas:candidate-vibid:1001000188011": 222,
+      "gas:candidate-vibid:1001000220822": 7,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3493,16 +3493,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 11,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 27,
-      "Глазьев Сергей Юрьевич": 169,
-      "Жилкин Сергей Николаевич": 6,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 10,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 11,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 27,
+      "gas:candidate-vibid:1001000188011": 169,
+      "gas:candidate-vibid:1001000220822": 6,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 10,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3552,16 +3552,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 37,
-      "Бондарев Григорий Семенович": 89,
-      "Бурков Валерий Анатольевич": 15,
-      "Бялко Александр Андреевич": 126,
-      "Глазьев Сергей Юрьевич": 763,
-      "Жилкин Сергей Николаевич": 41,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 37,
+      "gas:candidate-vibid:1001000112229": 89,
+      "gas:candidate-vibid:1001000195101": 15,
+      "gas:candidate-vibid:1001000113951": 126,
+      "gas:candidate-vibid:1001000188011": 763,
+      "gas:candidate-vibid:1001000220822": 41,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3611,16 +3611,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 28,
-      "Бондарев Григорий Семенович": 111,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 111,
-      "Глазьев Сергей Юрьевич": 726,
-      "Жилкин Сергей Николаевич": 39,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 24,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 28,
+      "gas:candidate-vibid:1001000112229": 111,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 111,
+      "gas:candidate-vibid:1001000188011": 726,
+      "gas:candidate-vibid:1001000220822": 39,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 24,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3670,16 +3670,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 3,
-      "Бондарев Григорий Семенович": 10,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 11,
-      "Глазьев Сергей Юрьевич": 188,
-      "Жилкин Сергей Николаевич": 5,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 11,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 3,
+      "gas:candidate-vibid:1001000112229": 10,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 11,
+      "gas:candidate-vibid:1001000188011": 188,
+      "gas:candidate-vibid:1001000220822": 5,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 11,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3729,16 +3729,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 34,
-      "Бондарев Григорий Семенович": 94,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 121,
-      "Глазьев Сергей Юрьевич": 613,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 34,
+      "gas:candidate-vibid:1001000112229": 94,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 121,
+      "gas:candidate-vibid:1001000188011": 613,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3788,16 +3788,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 23,
-      "Бондарев Григорий Семенович": 77,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 72,
-      "Глазьев Сергей Юрьевич": 541,
-      "Жилкин Сергей Николаевич": 30,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 23,
+      "gas:candidate-vibid:1001000112229": 77,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 72,
+      "gas:candidate-vibid:1001000188011": 541,
+      "gas:candidate-vibid:1001000220822": 30,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3847,16 +3847,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 74,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 86,
-      "Глазьев Сергей Юрьевич": 581,
-      "Жилкин Сергей Николаевич": 17,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 74,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 86,
+      "gas:candidate-vibid:1001000188011": 581,
+      "gas:candidate-vibid:1001000220822": 17,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3906,16 +3906,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 62,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 76,
-      "Глазьев Сергей Юрьевич": 566,
-      "Жилкин Сергей Николаевич": 19,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 62,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 76,
+      "gas:candidate-vibid:1001000188011": 566,
+      "gas:candidate-vibid:1001000220822": 19,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -3965,16 +3965,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 52,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 68,
-      "Глазьев Сергей Юрьевич": 388,
-      "Жилкин Сергей Николаевич": 16,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 52,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 68,
+      "gas:candidate-vibid:1001000188011": 388,
+      "gas:candidate-vibid:1001000220822": 16,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4024,16 +4024,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 75,
-      "Бондарев Григорий Семенович": 93,
-      "Бурков Валерий Анатольевич": 17,
-      "Бялко Александр Андреевич": 147,
-      "Глазьев Сергей Юрьевич": 822,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 75,
+      "gas:candidate-vibid:1001000112229": 93,
+      "gas:candidate-vibid:1001000195101": 17,
+      "gas:candidate-vibid:1001000113951": 147,
+      "gas:candidate-vibid:1001000188011": 822,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4083,16 +4083,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 30,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 99,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 154,
-      "Глазьев Сергей Юрьевич": 859,
-      "Жилкин Сергей Николаевич": 45,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 37,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000190377": 30,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 99,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 154,
+      "gas:candidate-vibid:1001000188011": 859,
+      "gas:candidate-vibid:1001000220822": 45,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 37,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4142,16 +4142,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 23,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 129,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 168,
-      "Глазьев Сергей Юрьевич": 846,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 32,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190377": 23,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 129,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 168,
+      "gas:candidate-vibid:1001000188011": 846,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 32,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4201,16 +4201,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 24,
-      "Бондарев Григорий Семенович": 96,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 123,
-      "Глазьев Сергей Юрьевич": 660,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 24,
+      "gas:candidate-vibid:1001000112229": 96,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 123,
+      "gas:candidate-vibid:1001000188011": 660,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4260,16 +4260,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 25,
-      "Бондарев Григорий Семенович": 77,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 113,
-      "Глазьев Сергей Юрьевич": 496,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 25,
+      "gas:candidate-vibid:1001000112229": 77,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 113,
+      "gas:candidate-vibid:1001000188011": 496,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4319,16 +4319,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 29,
-      "Бондарев Григорий Семенович": 90,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 124,
-      "Глазьев Сергей Юрьевич": 575,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 29,
+      "gas:candidate-vibid:1001000112229": 90,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 124,
+      "gas:candidate-vibid:1001000188011": 575,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4378,16 +4378,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 20,
-      "Бондарев Григорий Семенович": 60,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 98,
-      "Глазьев Сергей Юрьевич": 697,
-      "Жилкин Сергей Николаевич": 34,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 20,
+      "gas:candidate-vibid:1001000112229": 60,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 98,
+      "gas:candidate-vibid:1001000188011": 697,
+      "gas:candidate-vibid:1001000220822": 34,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4437,16 +4437,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 55,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 112,
-      "Глазьев Сергей Юрьевич": 616,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 55,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 112,
+      "gas:candidate-vibid:1001000188011": 616,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4496,16 +4496,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 22,
-      "Бондарев Григорий Семенович": 83,
-      "Бурков Валерий Анатольевич": 18,
-      "Бялко Александр Андреевич": 108,
-      "Глазьев Сергей Юрьевич": 726,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 22,
+      "gas:candidate-vibid:1001000112229": 83,
+      "gas:candidate-vibid:1001000195101": 18,
+      "gas:candidate-vibid:1001000113951": 108,
+      "gas:candidate-vibid:1001000188011": 726,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4555,16 +4555,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 62,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 60,
-      "Глазьев Сергей Юрьевич": 606,
-      "Жилкин Сергей Николаевич": 19,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 16,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 62,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 60,
+      "gas:candidate-vibid:1001000188011": 606,
+      "gas:candidate-vibid:1001000220822": 19,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 16,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4614,16 +4614,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 63,
-      "Бондарев Григорий Семенович": 65,
-      "Бурков Валерий Анатольевич": 30,
-      "Бялко Александр Андреевич": 113,
-      "Глазьев Сергей Юрьевич": 857,
-      "Жилкин Сергей Николаевич": 47,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 63,
+      "gas:candidate-vibid:1001000112229": 65,
+      "gas:candidate-vibid:1001000195101": 30,
+      "gas:candidate-vibid:1001000113951": 113,
+      "gas:candidate-vibid:1001000188011": 857,
+      "gas:candidate-vibid:1001000220822": 47,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4673,16 +4673,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 16,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 86,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 84,
-      "Глазьев Сергей Юрьевич": 767,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000190377": 16,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 86,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 84,
+      "gas:candidate-vibid:1001000188011": 767,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4732,16 +4732,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 22,
-      "Бондарев Григорий Семенович": 97,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 117,
-      "Глазьев Сергей Юрьевич": 848,
-      "Жилкин Сергей Николаевич": 47,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 22,
+      "gas:candidate-vibid:1001000112229": 97,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 117,
+      "gas:candidate-vibid:1001000188011": 848,
+      "gas:candidate-vibid:1001000220822": 47,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4791,16 +4791,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 39,
-      "Бондарев Григорий Семенович": 102,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 125,
-      "Глазьев Сергей Юрьевич": 833,
-      "Жилкин Сергей Николаевич": 42,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 39,
+      "gas:candidate-vibid:1001000112229": 102,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 125,
+      "gas:candidate-vibid:1001000188011": 833,
+      "gas:candidate-vibid:1001000220822": 42,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4850,16 +4850,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 18,
-      "Бондарев Григорий Семенович": 49,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 59,
-      "Глазьев Сергей Юрьевич": 471,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 19,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 18,
+      "gas:candidate-vibid:1001000112229": 49,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 59,
+      "gas:candidate-vibid:1001000188011": 471,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 19,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4909,16 +4909,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 16,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 75,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 109,
-      "Глазьев Сергей Юрьевич": 752,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190377": 16,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 75,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 109,
+      "gas:candidate-vibid:1001000188011": 752,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -4968,16 +4968,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 65,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 82,
-      "Глазьев Сергей Юрьевич": 539,
-      "Жилкин Сергей Николаевич": 33,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 28,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 65,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 82,
+      "gas:candidate-vibid:1001000188011": 539,
+      "gas:candidate-vibid:1001000220822": 33,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 28,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5027,16 +5027,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 64,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 54,
-      "Глазьев Сергей Юрьевич": 478,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 64,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 54,
+      "gas:candidate-vibid:1001000188011": 478,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5086,16 +5086,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 28,
-      "Бондарев Григорий Семенович": 94,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 127,
-      "Глазьев Сергей Юрьевич": 805,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 28,
+      "gas:candidate-vibid:1001000112229": 94,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 127,
+      "gas:candidate-vibid:1001000188011": 805,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5145,16 +5145,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 20,
-      "Бондарев Григорий Семенович": 41,
-      "Бурков Валерий Анатольевич": 17,
-      "Бялко Александр Андреевич": 79,
-      "Глазьев Сергей Юрьевич": 659,
-      "Жилкин Сергей Николаевич": 33,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 20,
+      "gas:candidate-vibid:1001000112229": 41,
+      "gas:candidate-vibid:1001000195101": 17,
+      "gas:candidate-vibid:1001000113951": 79,
+      "gas:candidate-vibid:1001000188011": 659,
+      "gas:candidate-vibid:1001000220822": 33,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5204,16 +5204,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 83,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 107,
-      "Глазьев Сергей Юрьевич": 685,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 83,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 107,
+      "gas:candidate-vibid:1001000188011": 685,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5263,16 +5263,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 62,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 116,
-      "Глазьев Сергей Юрьевич": 741,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 34,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 62,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 116,
+      "gas:candidate-vibid:1001000188011": 741,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 34,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5322,16 +5322,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 30,
-      "Бондарев Григорий Семенович": 90,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 147,
-      "Глазьев Сергей Юрьевич": 846,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 27,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 30,
+      "gas:candidate-vibid:1001000112229": 90,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 147,
+      "gas:candidate-vibid:1001000188011": 846,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 27,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5381,16 +5381,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 22,
-      "Бондарев Григорий Семенович": 94,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 143,
-      "Глазьев Сергей Юрьевич": 696,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 27,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 22,
+      "gas:candidate-vibid:1001000112229": 94,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 143,
+      "gas:candidate-vibid:1001000188011": 696,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 27,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5440,16 +5440,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 84,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 94,
-      "Глазьев Сергей Юрьевич": 575,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 84,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 94,
+      "gas:candidate-vibid:1001000188011": 575,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5499,16 +5499,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 23,
-      "Баслаковский Юрий Васильевич": 21,
-      "Бондарев Григорий Семенович": 85,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 101,
-      "Глазьев Сергей Юрьевич": 712,
-      "Жилкин Сергей Николаевич": 23,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000190377": 23,
+      "gas:candidate-vibid:350300970379": 21,
+      "gas:candidate-vibid:1001000112229": 85,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 101,
+      "gas:candidate-vibid:1001000188011": 712,
+      "gas:candidate-vibid:1001000220822": 23,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5558,16 +5558,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 25,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 47,
-      "Глазьев Сергей Юрьевич": 430,
-      "Жилкин Сергей Николаевич": 18,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 25,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 47,
+      "gas:candidate-vibid:1001000188011": 430,
+      "gas:candidate-vibid:1001000220822": 18,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5617,16 +5617,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 52,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 54,
-      "Глазьев Сергей Юрьевич": 380,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 52,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 54,
+      "gas:candidate-vibid:1001000188011": 380,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5676,16 +5676,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 60,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 72,
-      "Глазьев Сергей Юрьевич": 421,
-      "Жилкин Сергей Николаевич": 19,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 60,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 72,
+      "gas:candidate-vibid:1001000188011": 421,
+      "gas:candidate-vibid:1001000220822": 19,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5735,16 +5735,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 56,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 79,
-      "Глазьев Сергей Юрьевич": 437,
-      "Жилкин Сергей Николаевич": 16,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 56,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 79,
+      "gas:candidate-vibid:1001000188011": 437,
+      "gas:candidate-vibid:1001000220822": 16,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5794,16 +5794,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 61,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 41,
-      "Глазьев Сергей Юрьевич": 347,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 10,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 61,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 41,
+      "gas:candidate-vibid:1001000188011": 347,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 10,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5853,16 +5853,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 53,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 67,
-      "Глазьев Сергей Юрьевич": 444,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 53,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 67,
+      "gas:candidate-vibid:1001000188011": 444,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5912,16 +5912,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 37,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 36,
-      "Глазьев Сергей Юрьевич": 225,
-      "Жилкин Сергей Николаевич": 16,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 37,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 36,
+      "gas:candidate-vibid:1001000188011": 225,
+      "gas:candidate-vibid:1001000220822": 16,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -5971,16 +5971,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 79,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 70,
-      "Глазьев Сергей Юрьевич": 515,
-      "Жилкин Сергей Николаевич": 14,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 79,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 70,
+      "gas:candidate-vibid:1001000188011": 515,
+      "gas:candidate-vibid:1001000220822": 14,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6030,16 +6030,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 56,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 61,
-      "Глазьев Сергей Юрьевич": 371,
-      "Жилкин Сергей Николаевич": 28,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 56,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 61,
+      "gas:candidate-vibid:1001000188011": 371,
+      "gas:candidate-vibid:1001000220822": 28,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6089,16 +6089,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 26,
-      "Бондарев Григорий Семенович": 79,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 80,
-      "Глазьев Сергей Юрьевич": 422,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 26,
+      "gas:candidate-vibid:1001000112229": 79,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 80,
+      "gas:candidate-vibid:1001000188011": 422,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6148,16 +6148,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 40,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 44,
-      "Глазьев Сергей Юрьевич": 318,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 8,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 40,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 44,
+      "gas:candidate-vibid:1001000188011": 318,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 8,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6207,16 +6207,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 53,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 35,
-      "Глазьев Сергей Юрьевич": 375,
-      "Жилкин Сергей Николаевич": 13,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 19,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 53,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 35,
+      "gas:candidate-vibid:1001000188011": 375,
+      "gas:candidate-vibid:1001000220822": 13,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 19,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6266,16 +6266,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 42,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 65,
-      "Глазьев Сергей Юрьевич": 356,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 42,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 65,
+      "gas:candidate-vibid:1001000188011": 356,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6325,16 +6325,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 34,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 42,
-      "Глазьев Сергей Юрьевич": 319,
-      "Жилкин Сергей Николаевич": 12,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 34,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 42,
+      "gas:candidate-vibid:1001000188011": 319,
+      "gas:candidate-vibid:1001000220822": 12,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6384,16 +6384,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 64,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 65,
-      "Глазьев Сергей Юрьевич": 427,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 64,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 65,
+      "gas:candidate-vibid:1001000188011": 427,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6443,16 +6443,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 46,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 73,
-      "Глазьев Сергей Юрьевич": 446,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 16,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 46,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 73,
+      "gas:candidate-vibid:1001000188011": 446,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 16,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6502,16 +6502,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 45,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 57,
-      "Глазьев Сергей Юрьевич": 361,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 45,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 57,
+      "gas:candidate-vibid:1001000188011": 361,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6561,16 +6561,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 47,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 69,
-      "Глазьев Сергей Юрьевич": 400,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 14,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 47,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 69,
+      "gas:candidate-vibid:1001000188011": 400,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 14,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6620,16 +6620,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 44,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 48,
-      "Глазьев Сергей Юрьевич": 387,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 16,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 44,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 48,
+      "gas:candidate-vibid:1001000188011": 387,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 16,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6679,16 +6679,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 72,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 64,
-      "Глазьев Сергей Юрьевич": 598,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 72,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 64,
+      "gas:candidate-vibid:1001000188011": 598,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6738,16 +6738,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 29,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 40,
-      "Глазьев Сергей Юрьевич": 217,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 29,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 40,
+      "gas:candidate-vibid:1001000188011": 217,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6797,16 +6797,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 28,
-      "Бондарев Григорий Семенович": 35,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 48,
-      "Глазьев Сергей Юрьевич": 273,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 28,
+      "gas:candidate-vibid:1001000112229": 35,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 48,
+      "gas:candidate-vibid:1001000188011": 273,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6856,16 +6856,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 27,
-      "Бондарев Григорий Семенович": 78,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 111,
-      "Глазьев Сергей Юрьевич": 541,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 27,
+      "gas:candidate-vibid:1001000112229": 78,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 111,
+      "gas:candidate-vibid:1001000188011": 541,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6915,16 +6915,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 27,
-      "Бондарев Григорий Семенович": 41,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 41,
-      "Глазьев Сергей Юрьевич": 279,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 27,
+      "gas:candidate-vibid:1001000112229": 41,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 41,
+      "gas:candidate-vibid:1001000188011": 279,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -6974,16 +6974,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 18,
-      "Баслаковский Юрий Васильевич": 32,
-      "Бондарев Григорий Семенович": 90,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 127,
-      "Глазьев Сергей Юрьевич": 882,
-      "Жилкин Сергей Николаевич": 40,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 39,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000190377": 18,
+      "gas:candidate-vibid:350300970379": 32,
+      "gas:candidate-vibid:1001000112229": 90,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 127,
+      "gas:candidate-vibid:1001000188011": 882,
+      "gas:candidate-vibid:1001000220822": 40,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 39,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7033,16 +7033,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 40,
-      "Бондарев Григорий Семенович": 91,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 111,
-      "Глазьев Сергей Юрьевич": 693,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 39,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 40,
+      "gas:candidate-vibid:1001000112229": 91,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 111,
+      "gas:candidate-vibid:1001000188011": 693,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 39,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7092,16 +7092,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 24,
-      "Бондарев Григорий Семенович": 80,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 90,
-      "Глазьев Сергей Юрьевич": 783,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 27,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 24,
+      "gas:candidate-vibid:1001000112229": 80,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 90,
+      "gas:candidate-vibid:1001000188011": 783,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 27,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7151,16 +7151,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 25,
-      "Бондарев Григорий Семенович": 79,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 92,
-      "Глазьев Сергей Юрьевич": 663,
-      "Жилкин Сергей Николаевич": 44,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 25,
+      "gas:candidate-vibid:1001000112229": 79,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 92,
+      "gas:candidate-vibid:1001000188011": 663,
+      "gas:candidate-vibid:1001000220822": 44,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7210,16 +7210,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 27,
-      "Бондарев Григорий Семенович": 61,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 78,
-      "Глазьев Сергей Юрьевич": 459,
-      "Жилкин Сергей Николаевич": 30,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 27,
+      "gas:candidate-vibid:1001000112229": 61,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 78,
+      "gas:candidate-vibid:1001000188011": 459,
+      "gas:candidate-vibid:1001000220822": 30,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7269,16 +7269,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 85,
-      "Бурков Валерий Анатольевич": 19,
-      "Бялко Александр Андреевич": 81,
-      "Глазьев Сергей Юрьевич": 559,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 24,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 85,
+      "gas:candidate-vibid:1001000195101": 19,
+      "gas:candidate-vibid:1001000113951": 81,
+      "gas:candidate-vibid:1001000188011": 559,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 24,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7328,16 +7328,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 24,
-      "Бондарев Григорий Семенович": 75,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 89,
-      "Глазьев Сергей Юрьевич": 573,
-      "Жилкин Сергей Николаевич": 30,
-      "Пахомов Кирилл Владимирович": 14,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 24,
+      "gas:candidate-vibid:1001000112229": 75,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 89,
+      "gas:candidate-vibid:1001000188011": 573,
+      "gas:candidate-vibid:1001000220822": 30,
+      "gas:candidate-vibid:1001000121283": 14,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7387,16 +7387,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 83,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 87,
-      "Глазьев Сергей Юрьевич": 542,
-      "Жилкин Сергей Николаевич": 33,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 24,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 83,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 87,
+      "gas:candidate-vibid:1001000188011": 542,
+      "gas:candidate-vibid:1001000220822": 33,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 24,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7446,16 +7446,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 30,
-      "Бондарев Григорий Семенович": 102,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 100,
-      "Глазьев Сергей Юрьевич": 584,
-      "Жилкин Сергей Николаевич": 34,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 30,
+      "gas:candidate-vibid:1001000112229": 102,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 100,
+      "gas:candidate-vibid:1001000188011": 584,
+      "gas:candidate-vibid:1001000220822": 34,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7505,16 +7505,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 25,
-      "Баслаковский Юрий Васильевич": 37,
-      "Бондарев Григорий Семенович": 106,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 77,
-      "Глазьев Сергей Юрьевич": 547,
-      "Жилкин Сергей Николаевич": 31,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000190377": 25,
+      "gas:candidate-vibid:350300970379": 37,
+      "gas:candidate-vibid:1001000112229": 106,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 77,
+      "gas:candidate-vibid:1001000188011": 547,
+      "gas:candidate-vibid:1001000220822": 31,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7564,16 +7564,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 141,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 81,
-      "Глазьев Сергей Юрьевич": 598,
-      "Жилкин Сергей Николаевич": 40,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 141,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 81,
+      "gas:candidate-vibid:1001000188011": 598,
+      "gas:candidate-vibid:1001000220822": 40,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7623,16 +7623,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 17,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 23,
-      "Глазьев Сергей Юрьевич": 194,
-      "Жилкин Сергей Николаевич": 3,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 14,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 17,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 23,
+      "gas:candidate-vibid:1001000188011": 194,
+      "gas:candidate-vibid:1001000220822": 3,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 14,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7682,16 +7682,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 1,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 1,
-      "Глазьев Сергей Юрьевич": 40,
-      "Жилкин Сергей Николаевич": 0,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 1,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 1,
+      "gas:candidate-vibid:1001000188011": 40,
+      "gas:candidate-vibid:1001000220822": 0,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970360&region=0&sub_region=0&type=429",
@@ -7741,16 +7741,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 66,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 157,
-      "Глазьев Сергей Юрьевич": 624,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 36,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 66,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 157,
+      "gas:candidate-vibid:1001000188011": 624,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 36,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -7800,16 +7800,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 52,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 195,
-      "Глазьев Сергей Юрьевич": 441,
-      "Жилкин Сергей Николаевич": 17,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 52,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 195,
+      "gas:candidate-vibid:1001000188011": 441,
+      "gas:candidate-vibid:1001000220822": 17,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -7859,16 +7859,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 55,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 181,
-      "Глазьев Сергей Юрьевич": 684,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 29,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 55,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 181,
+      "gas:candidate-vibid:1001000188011": 684,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 29,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -7918,16 +7918,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 60,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 141,
-      "Глазьев Сергей Юрьевич": 605,
-      "Жилкин Сергей Николаевич": 23,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 60,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 141,
+      "gas:candidate-vibid:1001000188011": 605,
+      "gas:candidate-vibid:1001000220822": 23,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -7977,16 +7977,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 92,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 248,
-      "Глазьев Сергей Юрьевич": 638,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 92,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 248,
+      "gas:candidate-vibid:1001000188011": 638,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8036,16 +8036,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 83,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 281,
-      "Глазьев Сергей Юрьевич": 725,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 83,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 281,
+      "gas:candidate-vibid:1001000188011": 725,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8095,16 +8095,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 88,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 303,
-      "Глазьев Сергей Юрьевич": 722,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 88,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 303,
+      "gas:candidate-vibid:1001000188011": 722,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8154,16 +8154,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 133,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 252,
-      "Глазьев Сергей Юрьевич": 861,
-      "Жилкин Сергей Николаевич": 18,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 133,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 252,
+      "gas:candidate-vibid:1001000188011": 861,
+      "gas:candidate-vibid:1001000220822": 18,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8213,16 +8213,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 85,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 285,
-      "Глазьев Сергей Юрьевич": 767,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 85,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 285,
+      "gas:candidate-vibid:1001000188011": 767,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8272,16 +8272,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 85,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 309,
-      "Глазьев Сергей Юрьевич": 835,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 85,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 309,
+      "gas:candidate-vibid:1001000188011": 835,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8331,16 +8331,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 93,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 340,
-      "Глазьев Сергей Юрьевич": 825,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 93,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 340,
+      "gas:candidate-vibid:1001000188011": 825,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970361&region=0&sub_region=0&type=429",
@@ -8390,16 +8390,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 19,
-      "Бондарев Григорий Семенович": 70,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 94,
-      "Глазьев Сергей Юрьевич": 575,
-      "Жилкин Сергей Николаевич": 52,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 46,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 19,
+      "gas:candidate-vibid:1001000112229": 70,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 94,
+      "gas:candidate-vibid:1001000188011": 575,
+      "gas:candidate-vibid:1001000220822": 52,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 46,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8449,16 +8449,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 72,
-      "Бурков Валерий Анатольевич": 18,
-      "Бялко Александр Андреевич": 111,
-      "Глазьев Сергей Юрьевич": 588,
-      "Жилкин Сергей Николаевич": 43,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 54,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 72,
+      "gas:candidate-vibid:1001000195101": 18,
+      "gas:candidate-vibid:1001000113951": 111,
+      "gas:candidate-vibid:1001000188011": 588,
+      "gas:candidate-vibid:1001000220822": 43,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 54,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8508,16 +8508,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 18,
-      "Бондарев Григорий Семенович": 58,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 92,
-      "Глазьев Сергей Юрьевич": 565,
-      "Жилкин Сергей Николаевич": 57,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 48,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 18,
+      "gas:candidate-vibid:1001000112229": 58,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 92,
+      "gas:candidate-vibid:1001000188011": 565,
+      "gas:candidate-vibid:1001000220822": 57,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 48,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8567,16 +8567,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 25,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 68,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 126,
-      "Глазьев Сергей Юрьевич": 550,
-      "Жилкин Сергей Николаевич": 48,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 38,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190377": 25,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 68,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 126,
+      "gas:candidate-vibid:1001000188011": 550,
+      "gas:candidate-vibid:1001000220822": 48,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 38,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8626,16 +8626,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 68,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 159,
-      "Глазьев Сергей Юрьевич": 583,
-      "Жилкин Сергей Николаевич": 44,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 35,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 68,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 159,
+      "gas:candidate-vibid:1001000188011": 583,
+      "gas:candidate-vibid:1001000220822": 44,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 35,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8685,16 +8685,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 62,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 74,
-      "Глазьев Сергей Юрьевич": 575,
-      "Жилкин Сергей Николаевич": 39,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 62,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 74,
+      "gas:candidate-vibid:1001000188011": 575,
+      "gas:candidate-vibid:1001000220822": 39,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8744,16 +8744,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 25,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 44,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 73,
-      "Глазьев Сергей Юрьевич": 629,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 38,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000190377": 25,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 44,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 73,
+      "gas:candidate-vibid:1001000188011": 629,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 38,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8803,16 +8803,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 51,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 61,
-      "Глазьев Сергей Юрьевич": 502,
-      "Жилкин Сергей Николаевич": 18,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 16,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 51,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 61,
+      "gas:candidate-vibid:1001000188011": 502,
+      "gas:candidate-vibid:1001000220822": 18,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 16,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8862,16 +8862,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 45,
-      "Бурков Валерий Анатольевич": 19,
-      "Бялко Александр Андреевич": 76,
-      "Глазьев Сергей Юрьевич": 666,
-      "Жилкин Сергей Николаевич": 43,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 64,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 45,
+      "gas:candidate-vibid:1001000195101": 19,
+      "gas:candidate-vibid:1001000113951": 76,
+      "gas:candidate-vibid:1001000188011": 666,
+      "gas:candidate-vibid:1001000220822": 43,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 64,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8921,16 +8921,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 18,
-      "Бондарев Григорий Семенович": 49,
-      "Бурков Валерий Анатольевич": 36,
-      "Бялко Александр Андреевич": 158,
-      "Глазьев Сергей Юрьевич": 714,
-      "Жилкин Сергей Николаевич": 59,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 18,
+      "gas:candidate-vibid:1001000112229": 49,
+      "gas:candidate-vibid:1001000195101": 36,
+      "gas:candidate-vibid:1001000113951": 158,
+      "gas:candidate-vibid:1001000188011": 714,
+      "gas:candidate-vibid:1001000220822": 59,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -8980,16 +8980,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 14,
-      "Бурков Валерий Анатольевич": 33,
-      "Бялко Александр Андреевич": 31,
-      "Глазьев Сергей Юрьевич": 93,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 14,
+      "gas:candidate-vibid:1001000195101": 33,
+      "gas:candidate-vibid:1001000113951": 31,
+      "gas:candidate-vibid:1001000188011": 93,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9039,16 +9039,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 3,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 9,
-      "Глазьев Сергей Юрьевич": 3,
-      "Жилкин Сергей Николаевич": 4,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 3,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 9,
+      "gas:candidate-vibid:1001000188011": 3,
+      "gas:candidate-vibid:1001000220822": 4,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9098,16 +9098,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 42,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 71,
-      "Глазьев Сергей Юрьевич": 171,
-      "Жилкин Сергей Николаевич": 40,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 42,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 71,
+      "gas:candidate-vibid:1001000188011": 171,
+      "gas:candidate-vibid:1001000220822": 40,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9157,16 +9157,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 14,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 14,
-      "Глазьев Сергей Юрьевич": 66,
-      "Жилкин Сергей Николаевич": 8,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 3,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 14,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 14,
+      "gas:candidate-vibid:1001000188011": 66,
+      "gas:candidate-vibid:1001000220822": 8,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 3,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9216,16 +9216,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 6,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 15,
-      "Глазьев Сергей Юрьевич": 21,
-      "Жилкин Сергей Николаевич": 8,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 6,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 15,
+      "gas:candidate-vibid:1001000188011": 21,
+      "gas:candidate-vibid:1001000220822": 8,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9275,16 +9275,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 1,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 12,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 5,
-      "Глазьев Сергей Юрьевич": 16,
-      "Жилкин Сергей Николаевич": 10,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190377": 1,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 12,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 5,
+      "gas:candidate-vibid:1001000188011": 16,
+      "gas:candidate-vibid:1001000220822": 10,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9334,16 +9334,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 1,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 1,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 1,
-      "Глазьев Сергей Юрьевич": 15,
-      "Жилкин Сергей Николаевич": 2,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190377": 1,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 1,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 1,
+      "gas:candidate-vibid:1001000188011": 15,
+      "gas:candidate-vibid:1001000220822": 2,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9393,16 +9393,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 4,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 18,
-      "Глазьев Сергей Юрьевич": 36,
-      "Жилкин Сергей Николаевич": 8,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 4,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 18,
+      "gas:candidate-vibid:1001000188011": 36,
+      "gas:candidate-vibid:1001000220822": 8,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9452,16 +9452,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 10,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 8,
-      "Глазьев Сергей Юрьевич": 26,
-      "Жилкин Сергей Николаевич": 7,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 10,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 8,
+      "gas:candidate-vibid:1001000188011": 26,
+      "gas:candidate-vibid:1001000220822": 7,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9511,16 +9511,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 4,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 12,
-      "Глазьев Сергей Юрьевич": 10,
-      "Жилкин Сергей Николаевич": 5,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 4,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 12,
+      "gas:candidate-vibid:1001000188011": 10,
+      "gas:candidate-vibid:1001000220822": 5,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9570,16 +9570,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 2,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 1,
-      "Глазьев Сергей Юрьевич": 11,
-      "Жилкин Сергей Николаевич": 1,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 2,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 1,
+      "gas:candidate-vibid:1001000188011": 11,
+      "gas:candidate-vibid:1001000220822": 1,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9629,16 +9629,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 2,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 4,
-      "Глазьев Сергей Юрьевич": 32,
-      "Жилкин Сергей Николаевич": 10,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 2,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 4,
+      "gas:candidate-vibid:1001000188011": 32,
+      "gas:candidate-vibid:1001000220822": 10,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9688,16 +9688,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 3,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 5,
-      "Глазьев Сергей Юрьевич": 14,
-      "Жилкин Сергей Николаевич": 2,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 3,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 5,
+      "gas:candidate-vibid:1001000188011": 14,
+      "gas:candidate-vibid:1001000220822": 2,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9747,16 +9747,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 3,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 0,
-      "Глазьев Сергей Юрьевич": 7,
-      "Жилкин Сергей Николаевич": 4,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 3,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 0,
+      "gas:candidate-vibid:1001000188011": 7,
+      "gas:candidate-vibid:1001000220822": 4,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9806,16 +9806,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 5,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 10,
-      "Глазьев Сергей Юрьевич": 16,
-      "Жилкин Сергей Николаевич": 6,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 5,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 10,
+      "gas:candidate-vibid:1001000188011": 16,
+      "gas:candidate-vibid:1001000220822": 6,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9865,16 +9865,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 1,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 6,
-      "Глазьев Сергей Юрьевич": 10,
-      "Жилкин Сергей Николаевич": 1,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 1,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 6,
+      "gas:candidate-vibid:1001000188011": 10,
+      "gas:candidate-vibid:1001000220822": 1,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9924,16 +9924,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 19,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 47,
-      "Глазьев Сергей Юрьевич": 109,
-      "Жилкин Сергей Николаевич": 13,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 28,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 19,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 47,
+      "gas:candidate-vibid:1001000188011": 109,
+      "gas:candidate-vibid:1001000220822": 13,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 28,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -9983,16 +9983,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 1,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 3,
-      "Глазьев Сергей Юрьевич": 9,
-      "Жилкин Сергей Николаевич": 2,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 1,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 3,
+      "gas:candidate-vibid:1001000188011": 9,
+      "gas:candidate-vibid:1001000220822": 2,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10042,16 +10042,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 23,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 44,
-      "Глазьев Сергей Юрьевич": 174,
-      "Жилкин Сергей Николаевич": 10,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 3,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 23,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 44,
+      "gas:candidate-vibid:1001000188011": 174,
+      "gas:candidate-vibid:1001000220822": 10,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 3,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10101,16 +10101,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 0,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 4,
-      "Глазьев Сергей Юрьевич": 11,
-      "Жилкин Сергей Николаевич": 5,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 0,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 4,
+      "gas:candidate-vibid:1001000188011": 11,
+      "gas:candidate-vibid:1001000220822": 5,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10160,16 +10160,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 3,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 3,
-      "Глазьев Сергей Юрьевич": 16,
-      "Жилкин Сергей Николаевич": 3,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 3,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 3,
+      "gas:candidate-vibid:1001000188011": 16,
+      "gas:candidate-vibid:1001000220822": 3,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10219,16 +10219,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 11,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 16,
-      "Глазьев Сергей Юрьевич": 59,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 11,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 11,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 16,
+      "gas:candidate-vibid:1001000188011": 59,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 11,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10278,16 +10278,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 13,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 23,
-      "Глазьев Сергей Юрьевич": 102,
-      "Жилкин Сергей Николаевич": 43,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 13,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 23,
+      "gas:candidate-vibid:1001000188011": 102,
+      "gas:candidate-vibid:1001000220822": 43,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10337,16 +10337,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 22,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 39,
-      "Глазьев Сергей Юрьевич": 124,
-      "Жилкин Сергей Николаевич": 46,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 22,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 39,
+      "gas:candidate-vibid:1001000188011": 124,
+      "gas:candidate-vibid:1001000220822": 46,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970362&region=0&sub_region=0&type=429",
@@ -10396,16 +10396,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 16,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 42,
-      "Бурков Валерий Анатольевич": 38,
-      "Бялко Александр Андреевич": 104,
-      "Глазьев Сергей Юрьевич": 582,
-      "Жилкин Сергей Николаевич": 77,
-      "Пахомов Кирилл Владимирович": 15,
-      "Спирин Юрий Леонидович": 46,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000190377": 16,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 42,
+      "gas:candidate-vibid:1001000195101": 38,
+      "gas:candidate-vibid:1001000113951": 104,
+      "gas:candidate-vibid:1001000188011": 582,
+      "gas:candidate-vibid:1001000220822": 77,
+      "gas:candidate-vibid:1001000121283": 15,
+      "gas:candidate-vibid:1001000136079": 46,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970363&region=0&sub_region=0&type=429",
@@ -10455,16 +10455,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 30,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 44,
-      "Глазьев Сергей Юрьевич": 588,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 48,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 30,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 44,
+      "gas:candidate-vibid:1001000188011": 588,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 48,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10514,16 +10514,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 33,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 46,
-      "Глазьев Сергей Юрьевич": 548,
-      "Жилкин Сергей Николаевич": 38,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 39,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 33,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 46,
+      "gas:candidate-vibid:1001000188011": 548,
+      "gas:candidate-vibid:1001000220822": 38,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 39,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10573,16 +10573,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 16,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 40,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 66,
-      "Глазьев Сергей Юрьевич": 641,
-      "Жилкин Сергей Николаевич": 25,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 32,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000190377": 16,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 40,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 66,
+      "gas:candidate-vibid:1001000188011": 641,
+      "gas:candidate-vibid:1001000220822": 25,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 32,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10632,16 +10632,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 24,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 39,
-      "Глазьев Сергей Юрьевич": 505,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 24,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 39,
+      "gas:candidate-vibid:1001000188011": 505,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10691,16 +10691,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 34,
-      "Бурков Валерий Анатольевич": 15,
-      "Бялко Александр Андреевич": 60,
-      "Глазьев Сергей Юрьевич": 677,
-      "Жилкин Сергей Николаевич": 35,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 51,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 34,
+      "gas:candidate-vibid:1001000195101": 15,
+      "gas:candidate-vibid:1001000113951": 60,
+      "gas:candidate-vibid:1001000188011": 677,
+      "gas:candidate-vibid:1001000220822": 35,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 51,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10750,16 +10750,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 47,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 51,
-      "Глазьев Сергей Юрьевич": 710,
-      "Жилкин Сергей Николаевич": 34,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 34,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 47,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 51,
+      "gas:candidate-vibid:1001000188011": 710,
+      "gas:candidate-vibid:1001000220822": 34,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 34,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10809,16 +10809,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 25,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 39,
-      "Глазьев Сергей Юрьевич": 284,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 25,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 39,
+      "gas:candidate-vibid:1001000188011": 284,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10868,16 +10868,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 35,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 77,
-      "Глазьев Сергей Юрьевич": 659,
-      "Жилкин Сергей Николаевич": 39,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 35,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 77,
+      "gas:candidate-vibid:1001000188011": 659,
+      "gas:candidate-vibid:1001000220822": 39,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10927,16 +10927,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 26,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 55,
-      "Глазьев Сергей Юрьевич": 593,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 26,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 55,
+      "gas:candidate-vibid:1001000188011": 593,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -10986,16 +10986,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 34,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 64,
-      "Глазьев Сергей Юрьевич": 614,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 34,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 64,
+      "gas:candidate-vibid:1001000188011": 614,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11045,16 +11045,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 19,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 52,
-      "Глазьев Сергей Юрьевич": 435,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 36,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 19,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 52,
+      "gas:candidate-vibid:1001000188011": 435,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 36,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11104,16 +11104,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 26,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 59,
-      "Глазьев Сергей Юрьевич": 531,
-      "Жилкин Сергей Николаевич": 28,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 29,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 26,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 59,
+      "gas:candidate-vibid:1001000188011": 531,
+      "gas:candidate-vibid:1001000220822": 28,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 29,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11163,16 +11163,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 26,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 33,
-      "Глазьев Сергей Юрьевич": 392,
-      "Жилкин Сергей Николаевич": 34,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 35,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 26,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 33,
+      "gas:candidate-vibid:1001000188011": 392,
+      "gas:candidate-vibid:1001000220822": 34,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 35,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11222,16 +11222,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 23,
-      "Бондарев Григорий Семенович": 69,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 140,
-      "Глазьев Сергей Юрьевич": 840,
-      "Жилкин Сергей Николаевич": 44,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 45,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 23,
+      "gas:candidate-vibid:1001000112229": 69,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 140,
+      "gas:candidate-vibid:1001000188011": 840,
+      "gas:candidate-vibid:1001000220822": 44,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 45,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11281,16 +11281,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 3,
-      "Бондарев Григорий Семенович": 21,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 82,
-      "Глазьев Сергей Юрьевич": 594,
-      "Жилкин Сергей Николаевич": 39,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 32,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 3,
+      "gas:candidate-vibid:1001000112229": 21,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 82,
+      "gas:candidate-vibid:1001000188011": 594,
+      "gas:candidate-vibid:1001000220822": 39,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 32,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11340,16 +11340,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 18,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 40,
-      "Глазьев Сергей Юрьевич": 403,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 18,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 40,
+      "gas:candidate-vibid:1001000188011": 403,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11399,16 +11399,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 3,
-      "Бондарев Григорий Семенович": 9,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 9,
-      "Глазьев Сергей Юрьевич": 169,
-      "Жилкин Сергей Николаевич": 10,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 3,
+      "gas:candidate-vibid:1001000112229": 9,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 9,
+      "gas:candidate-vibid:1001000188011": 169,
+      "gas:candidate-vibid:1001000220822": 10,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11458,16 +11458,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 12,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 14,
-      "Глазьев Сергей Юрьевич": 246,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 12,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 14,
+      "gas:candidate-vibid:1001000188011": 246,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11517,16 +11517,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 42,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 93,
-      "Глазьев Сергей Юрьевич": 910,
-      "Жилкин Сергей Николаевич": 31,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 71,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 42,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 93,
+      "gas:candidate-vibid:1001000188011": 910,
+      "gas:candidate-vibid:1001000220822": 31,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 71,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11576,16 +11576,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 20,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 44,
-      "Бурков Валерий Анатольевич": 28,
-      "Бялко Александр Андреевич": 92,
-      "Глазьев Сергей Юрьевич": 502,
-      "Жилкин Сергей Николаевич": 53,
-      "Пахомов Кирилл Владимирович": 13,
-      "Спирин Юрий Леонидович": 64,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000190377": 20,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 44,
+      "gas:candidate-vibid:1001000195101": 28,
+      "gas:candidate-vibid:1001000113951": 92,
+      "gas:candidate-vibid:1001000188011": 502,
+      "gas:candidate-vibid:1001000220822": 53,
+      "gas:candidate-vibid:1001000121283": 13,
+      "gas:candidate-vibid:1001000136079": 64,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11635,16 +11635,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 39,
-      "Бурков Валерий Анатольевич": 30,
-      "Бялко Александр Андреевич": 73,
-      "Глазьев Сергей Юрьевич": 844,
-      "Жилкин Сергей Николаевич": 51,
-      "Пахомов Кирилл Владимирович": 17,
-      "Спирин Юрий Леонидович": 61,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 39,
+      "gas:candidate-vibid:1001000195101": 30,
+      "gas:candidate-vibid:1001000113951": 73,
+      "gas:candidate-vibid:1001000188011": 844,
+      "gas:candidate-vibid:1001000220822": 51,
+      "gas:candidate-vibid:1001000121283": 17,
+      "gas:candidate-vibid:1001000136079": 61,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11694,16 +11694,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 33,
-      "Баслаковский Юрий Васильевич": 20,
-      "Бондарев Григорий Семенович": 72,
-      "Бурков Валерий Анатольевич": 34,
-      "Бялко Александр Андреевич": 109,
-      "Глазьев Сергей Юрьевич": 737,
-      "Жилкин Сергей Николаевич": 71,
-      "Пахомов Кирилл Владимирович": 31,
-      "Спирин Юрий Леонидович": 154,
-      "Против всех": 586
+      "gas:candidate-vibid:1001000190377": 33,
+      "gas:candidate-vibid:350300970379": 20,
+      "gas:candidate-vibid:1001000112229": 72,
+      "gas:candidate-vibid:1001000195101": 34,
+      "gas:candidate-vibid:1001000113951": 109,
+      "gas:candidate-vibid:1001000188011": 737,
+      "gas:candidate-vibid:1001000220822": 71,
+      "gas:candidate-vibid:1001000121283": 31,
+      "gas:candidate-vibid:1001000136079": 154,
+      "special:against-all": 586
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11753,16 +11753,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 33,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 66,
-      "Глазьев Сергей Юрьевич": 912,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 13,
-      "Спирин Юрий Леонидович": 42,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 33,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 66,
+      "gas:candidate-vibid:1001000188011": 912,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 13,
+      "gas:candidate-vibid:1001000136079": 42,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11812,16 +11812,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 24,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 76,
-      "Бурков Валерий Анатольевич": 45,
-      "Бялко Александр Андреевич": 99,
-      "Глазьев Сергей Юрьевич": 840,
-      "Жилкин Сергей Николаевич": 59,
-      "Пахомов Кирилл Владимирович": 34,
-      "Спирин Юрий Леонидович": 118,
-      "Против всех": 526
+      "gas:candidate-vibid:1001000190377": 24,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 76,
+      "gas:candidate-vibid:1001000195101": 45,
+      "gas:candidate-vibid:1001000113951": 99,
+      "gas:candidate-vibid:1001000188011": 840,
+      "gas:candidate-vibid:1001000220822": 59,
+      "gas:candidate-vibid:1001000121283": 34,
+      "gas:candidate-vibid:1001000136079": 118,
+      "special:against-all": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11871,16 +11871,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 32,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 44,
-      "Бурков Валерий Анатольевич": 18,
-      "Бялко Александр Андреевич": 60,
-      "Глазьев Сергей Юрьевич": 935,
-      "Жилкин Сергей Николаевич": 67,
-      "Пахомов Кирилл Владимирович": 22,
-      "Спирин Юрий Леонидович": 88,
-      "Против всех": 435
+      "gas:candidate-vibid:1001000190377": 32,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 44,
+      "gas:candidate-vibid:1001000195101": 18,
+      "gas:candidate-vibid:1001000113951": 60,
+      "gas:candidate-vibid:1001000188011": 935,
+      "gas:candidate-vibid:1001000220822": 67,
+      "gas:candidate-vibid:1001000121283": 22,
+      "gas:candidate-vibid:1001000136079": 88,
+      "special:against-all": 435
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11930,16 +11930,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 29,
-      "Бурков Валерий Анатольевич": 32,
-      "Бялко Александр Андреевич": 61,
-      "Глазьев Сергей Юрьевич": 709,
-      "Жилкин Сергей Николаевич": 59,
-      "Пахомов Кирилл Владимирович": 15,
-      "Спирин Юрий Леонидович": 51,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 29,
+      "gas:candidate-vibid:1001000195101": 32,
+      "gas:candidate-vibid:1001000113951": 61,
+      "gas:candidate-vibid:1001000188011": 709,
+      "gas:candidate-vibid:1001000220822": 59,
+      "gas:candidate-vibid:1001000121283": 15,
+      "gas:candidate-vibid:1001000136079": 51,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -11989,16 +11989,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 39,
-      "Бурков Валерий Анатольевич": 23,
-      "Бялко Александр Андреевич": 67,
-      "Глазьев Сергей Юрьевич": 464,
-      "Жилкин Сергей Николаевич": 48,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 53,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 39,
+      "gas:candidate-vibid:1001000195101": 23,
+      "gas:candidate-vibid:1001000113951": 67,
+      "gas:candidate-vibid:1001000188011": 464,
+      "gas:candidate-vibid:1001000220822": 48,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 53,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12048,16 +12048,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 9,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 20,
-      "Глазьев Сергей Юрьевич": 81,
-      "Жилкин Сергей Николаевич": 6,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 9,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 20,
+      "gas:candidate-vibid:1001000188011": 81,
+      "gas:candidate-vibid:1001000220822": 6,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12107,16 +12107,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 37,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 43,
-      "Глазьев Сергей Юрьевич": 314,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 37,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 43,
+      "gas:candidate-vibid:1001000188011": 314,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12166,16 +12166,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 45,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 54,
-      "Глазьев Сергей Юрьевич": 412,
-      "Жилкин Сергей Николаевич": 39,
-      "Пахомов Кирилл Владимирович": 42,
-      "Спирин Юрий Леонидович": 41,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 45,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 54,
+      "gas:candidate-vibid:1001000188011": 412,
+      "gas:candidate-vibid:1001000220822": 39,
+      "gas:candidate-vibid:1001000121283": 42,
+      "gas:candidate-vibid:1001000136079": 41,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12225,16 +12225,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 53,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 97,
-      "Глазьев Сергей Юрьевич": 618,
-      "Жилкин Сергей Николаевич": 33,
-      "Пахомов Кирилл Владимирович": 15,
-      "Спирин Юрий Леонидович": 40,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 53,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 97,
+      "gas:candidate-vibid:1001000188011": 618,
+      "gas:candidate-vibid:1001000220822": 33,
+      "gas:candidate-vibid:1001000121283": 15,
+      "gas:candidate-vibid:1001000136079": 40,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12284,16 +12284,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 45,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 65,
-      "Глазьев Сергей Юрьевич": 338,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 45,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 65,
+      "gas:candidate-vibid:1001000188011": 338,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12343,16 +12343,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 44,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 99,
-      "Глазьев Сергей Юрьевич": 465,
-      "Жилкин Сергей Николаевич": 31,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 44,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 99,
+      "gas:candidate-vibid:1001000188011": 465,
+      "gas:candidate-vibid:1001000220822": 31,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12402,16 +12402,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 52,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 70,
-      "Глазьев Сергей Юрьевич": 453,
-      "Жилкин Сергей Николаевич": 19,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 52,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 70,
+      "gas:candidate-vibid:1001000188011": 453,
+      "gas:candidate-vibid:1001000220822": 19,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12461,16 +12461,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 26,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 32,
-      "Глазьев Сергей Юрьевич": 288,
-      "Жилкин Сергей Николаевич": 13,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 19,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 26,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 32,
+      "gas:candidate-vibid:1001000188011": 288,
+      "gas:candidate-vibid:1001000220822": 13,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 19,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12520,16 +12520,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 13,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 13,
-      "Глазьев Сергей Юрьевич": 136,
-      "Жилкин Сергей Николаевич": 9,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 10,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 13,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 13,
+      "gas:candidate-vibid:1001000188011": 136,
+      "gas:candidate-vibid:1001000220822": 9,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 10,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12579,16 +12579,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 18,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 64,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 109,
-      "Глазьев Сергей Юрьевич": 537,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000190377": 18,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 64,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 109,
+      "gas:candidate-vibid:1001000188011": 537,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12638,16 +12638,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 31,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 52,
-      "Глазьев Сергей Юрьевич": 475,
-      "Жилкин Сергей Николаевич": 30,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 31,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 52,
+      "gas:candidate-vibid:1001000188011": 475,
+      "gas:candidate-vibid:1001000220822": 30,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12697,16 +12697,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 29,
-      "Бондарев Григорий Семенович": 48,
-      "Бурков Валерий Анатольевич": 17,
-      "Бялко Александр Андреевич": 67,
-      "Глазьев Сергей Юрьевич": 772,
-      "Жилкин Сергей Николаевич": 40,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 40,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 29,
+      "gas:candidate-vibid:1001000112229": 48,
+      "gas:candidate-vibid:1001000195101": 17,
+      "gas:candidate-vibid:1001000113951": 67,
+      "gas:candidate-vibid:1001000188011": 772,
+      "gas:candidate-vibid:1001000220822": 40,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 40,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12756,16 +12756,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 89,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 193,
-      "Глазьев Сергей Юрьевич": 742,
-      "Жилкин Сергей Николаевич": 45,
-      "Пахомов Кирилл Владимирович": 33,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 89,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 193,
+      "gas:candidate-vibid:1001000188011": 742,
+      "gas:candidate-vibid:1001000220822": 45,
+      "gas:candidate-vibid:1001000121283": 33,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12815,16 +12815,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 64,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 85,
-      "Глазьев Сергей Юрьевич": 694,
-      "Жилкин Сергей Николаевич": 36,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 42,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 64,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 85,
+      "gas:candidate-vibid:1001000188011": 694,
+      "gas:candidate-vibid:1001000220822": 36,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 42,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12874,16 +12874,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 17,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 69,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 120,
-      "Глазьев Сергей Юрьевич": 809,
-      "Жилкин Сергей Николаевич": 46,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 37,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000190377": 17,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 69,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 120,
+      "gas:candidate-vibid:1001000188011": 809,
+      "gas:candidate-vibid:1001000220822": 46,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 37,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12933,16 +12933,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 97,
-      "Бурков Валерий Анатольевич": 18,
-      "Бялко Александр Андреевич": 112,
-      "Глазьев Сергей Юрьевич": 801,
-      "Жилкин Сергей Николаевич": 50,
-      "Пахомов Кирилл Владимирович": 19,
-      "Спирин Юрий Леонидович": 55,
-      "Против всех": 400
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 97,
+      "gas:candidate-vibid:1001000195101": 18,
+      "gas:candidate-vibid:1001000113951": 112,
+      "gas:candidate-vibid:1001000188011": 801,
+      "gas:candidate-vibid:1001000220822": 50,
+      "gas:candidate-vibid:1001000121283": 19,
+      "gas:candidate-vibid:1001000136079": 55,
+      "special:against-all": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -12992,16 +12992,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 8,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 18,
-      "Глазьев Сергей Юрьевич": 118,
-      "Жилкин Сергей Николаевич": 12,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 8,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 18,
+      "gas:candidate-vibid:1001000188011": 118,
+      "gas:candidate-vibid:1001000220822": 12,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13051,16 +13051,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 25,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 47,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 83,
-      "Глазьев Сергей Юрьевич": 563,
-      "Жилкин Сергей Николаевич": 50,
-      "Пахомов Кирилл Владимирович": 20,
-      "Спирин Юрий Леонидович": 39,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000190377": 25,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 47,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 83,
+      "gas:candidate-vibid:1001000188011": 563,
+      "gas:candidate-vibid:1001000220822": 50,
+      "gas:candidate-vibid:1001000121283": 20,
+      "gas:candidate-vibid:1001000136079": 39,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13110,16 +13110,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 18,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 38,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 116,
-      "Глазьев Сергей Юрьевич": 503,
-      "Жилкин Сергей Николаевич": 63,
-      "Пахомов Кирилл Владимирович": 16,
-      "Спирин Юрий Леонидович": 49,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000190377": 18,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 38,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 116,
+      "gas:candidate-vibid:1001000188011": 503,
+      "gas:candidate-vibid:1001000220822": 63,
+      "gas:candidate-vibid:1001000121283": 16,
+      "gas:candidate-vibid:1001000136079": 49,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13169,16 +13169,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 23,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 36,
-      "Глазьев Сергей Юрьевич": 312,
-      "Жилкин Сергей Николаевич": 28,
-      "Пахомов Кирилл Владимирович": 14,
-      "Спирин Юрий Леонидович": 32,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 23,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 36,
+      "gas:candidate-vibid:1001000188011": 312,
+      "gas:candidate-vibid:1001000220822": 28,
+      "gas:candidate-vibid:1001000121283": 14,
+      "gas:candidate-vibid:1001000136079": 32,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13228,16 +13228,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 40,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 88,
-      "Глазьев Сергей Юрьевич": 484,
-      "Жилкин Сергей Николаевич": 53,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 40,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 88,
+      "gas:candidate-vibid:1001000188011": 484,
+      "gas:candidate-vibid:1001000220822": 53,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13287,16 +13287,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 47,
-      "Бурков Валерий Анатольевич": 18,
-      "Бялко Александр Андреевич": 54,
-      "Глазьев Сергей Юрьевич": 389,
-      "Жилкин Сергей Николаевич": 38,
-      "Пахомов Кирилл Владимирович": 16,
-      "Спирин Юрий Леонидович": 27,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 47,
+      "gas:candidate-vibid:1001000195101": 18,
+      "gas:candidate-vibid:1001000113951": 54,
+      "gas:candidate-vibid:1001000188011": 389,
+      "gas:candidate-vibid:1001000220822": 38,
+      "gas:candidate-vibid:1001000121283": 16,
+      "gas:candidate-vibid:1001000136079": 27,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13346,16 +13346,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 29,
-      "Бондарев Григорий Семенович": 0,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 72,
-      "Глазьев Сергей Юрьевич": 311,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 29,
+      "gas:candidate-vibid:1001000112229": 0,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 72,
+      "gas:candidate-vibid:1001000188011": 311,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13405,16 +13405,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 61,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 92,
-      "Глазьев Сергей Юрьевич": 491,
-      "Жилкин Сергей Николаевич": 47,
-      "Пахомов Кирилл Владимирович": 14,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 61,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 92,
+      "gas:candidate-vibid:1001000188011": 491,
+      "gas:candidate-vibid:1001000220822": 47,
+      "gas:candidate-vibid:1001000121283": 14,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13464,16 +13464,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 14,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 17,
-      "Глазьев Сергей Юрьевич": 172,
-      "Жилкин Сергей Николаевич": 10,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 11,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 14,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 17,
+      "gas:candidate-vibid:1001000188011": 172,
+      "gas:candidate-vibid:1001000220822": 10,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 11,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13523,16 +13523,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 23,
-      "Баслаковский Юрий Васильевич": 16,
-      "Бондарев Григорий Семенович": 38,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 81,
-      "Глазьев Сергей Юрьевич": 563,
-      "Жилкин Сергей Николаевич": 40,
-      "Пахомов Кирилл Владимирович": 13,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190377": 23,
+      "gas:candidate-vibid:350300970379": 16,
+      "gas:candidate-vibid:1001000112229": 38,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 81,
+      "gas:candidate-vibid:1001000188011": 563,
+      "gas:candidate-vibid:1001000220822": 40,
+      "gas:candidate-vibid:1001000121283": 13,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13582,16 +13582,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 22,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 40,
-      "Глазьев Сергей Юрьевич": 443,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 16,
-      "Спирин Юрий Леонидович": 36,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 22,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 40,
+      "gas:candidate-vibid:1001000188011": 443,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 16,
+      "gas:candidate-vibid:1001000136079": 36,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13641,16 +13641,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 11,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 12,
-      "Глазьев Сергей Юрьевич": 231,
-      "Жилкин Сергей Николаевич": 19,
-      "Пахомов Кирилл Владимирович": 25,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 11,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 12,
+      "gas:candidate-vibid:1001000188011": 231,
+      "gas:candidate-vibid:1001000220822": 19,
+      "gas:candidate-vibid:1001000121283": 25,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13700,16 +13700,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 8,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 8,
-      "Глазьев Сергей Юрьевич": 222,
-      "Жилкин Сергей Николаевич": 12,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 8,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 8,
+      "gas:candidate-vibid:1001000188011": 222,
+      "gas:candidate-vibid:1001000220822": 12,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13759,16 +13759,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 16,
-      "Бурков Валерий Анатольевич": 13,
-      "Бялко Александр Андреевич": 13,
-      "Глазьев Сергей Юрьевич": 521,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 49,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 16,
+      "gas:candidate-vibid:1001000195101": 13,
+      "gas:candidate-vibid:1001000113951": 13,
+      "gas:candidate-vibid:1001000188011": 521,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 49,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13818,16 +13818,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 36,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 39,
-      "Бурков Валерий Анатольевич": 16,
-      "Бялко Александр Андреевич": 34,
-      "Глазьев Сергей Юрьевич": 330,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000190377": 36,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 39,
+      "gas:candidate-vibid:1001000195101": 16,
+      "gas:candidate-vibid:1001000113951": 34,
+      "gas:candidate-vibid:1001000188011": 330,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13877,16 +13877,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 12,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 27,
-      "Глазьев Сергей Юрьевич": 387,
-      "Жилкин Сергей Николаевич": 6,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 12,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 27,
+      "gas:candidate-vibid:1001000188011": 387,
+      "gas:candidate-vibid:1001000220822": 6,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13936,16 +13936,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 16,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 16,
-      "Глазьев Сергей Юрьевич": 178,
-      "Жилкин Сергей Николаевич": 9,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 16,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 16,
+      "gas:candidate-vibid:1001000188011": 178,
+      "gas:candidate-vibid:1001000220822": 9,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -13995,16 +13995,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 15,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 34,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 31,
-      "Глазьев Сергей Юрьевич": 256,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 27,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190377": 15,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 34,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 31,
+      "gas:candidate-vibid:1001000188011": 256,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 27,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14054,16 +14054,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 36,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 45,
-      "Глазьев Сергей Юрьевич": 256,
-      "Жилкин Сергей Николаевич": 28,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 14,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 36,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 45,
+      "gas:candidate-vibid:1001000188011": 256,
+      "gas:candidate-vibid:1001000220822": 28,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 14,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14113,16 +14113,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 37,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 39,
-      "Глазьев Сергей Юрьевич": 330,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 24,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 37,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 39,
+      "gas:candidate-vibid:1001000188011": 330,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 24,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14172,16 +14172,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 3,
-      "Бондарев Григорий Семенович": 11,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 15,
-      "Глазьев Сергей Юрьевич": 375,
-      "Жилкин Сергей Николаевич": 16,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 3,
+      "gas:candidate-vibid:1001000112229": 11,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 15,
+      "gas:candidate-vibid:1001000188011": 375,
+      "gas:candidate-vibid:1001000220822": 16,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14231,16 +14231,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 22,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 42,
-      "Глазьев Сергей Юрьевич": 221,
-      "Жилкин Сергей Николаевич": 30,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 22,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 42,
+      "gas:candidate-vibid:1001000188011": 221,
+      "gas:candidate-vibid:1001000220822": 30,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14290,16 +14290,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 6,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 4,
-      "Глазьев Сергей Юрьевич": 45,
-      "Жилкин Сергей Николаевич": 5,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 6,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 4,
+      "gas:candidate-vibid:1001000188011": 45,
+      "gas:candidate-vibid:1001000220822": 5,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14349,16 +14349,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 19,
-      "Баслаковский Юрий Васильевич": 18,
-      "Бондарев Григорий Семенович": 44,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 64,
-      "Глазьев Сергей Юрьевич": 540,
-      "Жилкин Сергей Николаевич": 27,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 49,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000190377": 19,
+      "gas:candidate-vibid:350300970379": 18,
+      "gas:candidate-vibid:1001000112229": 44,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 64,
+      "gas:candidate-vibid:1001000188011": 540,
+      "gas:candidate-vibid:1001000220822": 27,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 49,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14408,16 +14408,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 19,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 38,
-      "Глазьев Сергей Юрьевич": 422,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 19,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 19,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 38,
+      "gas:candidate-vibid:1001000188011": 422,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 19,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14467,16 +14467,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 6,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 7,
-      "Глазьев Сергей Юрьевич": 134,
-      "Жилкин Сергей Николаевич": 1,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 12,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 6,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 7,
+      "gas:candidate-vibid:1001000188011": 134,
+      "gas:candidate-vibid:1001000220822": 1,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 12,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14526,16 +14526,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 16,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 34,
-      "Глазьев Сергей Юрьевич": 119,
-      "Жилкин Сергей Николаевич": 18,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 16,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 34,
+      "gas:candidate-vibid:1001000188011": 119,
+      "gas:candidate-vibid:1001000220822": 18,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14585,16 +14585,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 31,
-      "Бондарев Григорий Семенович": 32,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 63,
-      "Глазьев Сергей Юрьевич": 738,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 31,
+      "gas:candidate-vibid:1001000112229": 32,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 63,
+      "gas:candidate-vibid:1001000188011": 738,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14644,16 +14644,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 9,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 22,
-      "Глазьев Сергей Юрьевич": 229,
-      "Жилкин Сергей Николаевич": 11,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 9,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 22,
+      "gas:candidate-vibid:1001000188011": 229,
+      "gas:candidate-vibid:1001000220822": 11,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -14703,16 +14703,16 @@ export const duma_2003_uik_428_region_50_part_011 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 16,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 40,
-      "Глазьев Сергей Юрьевич": 519,
-      "Жилкин Сергей Николаевич": 15,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 16,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 16,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 40,
+      "gas:candidate-vibid:1001000188011": 519,
+      "gas:candidate-vibid:1001000220822": 15,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 16,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",

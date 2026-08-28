@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 453,
-      "Салчак Валерий Балай-оолович": 54,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 453,
+      "gas:candidate-vibid:2172000465316": 54,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 493,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 493,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 6,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 374,
-      "Салчак Валерий Балай-оолович": 5,
-      "Серен-Хуурак Владимир Доржуевич": 11,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 6,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 374,
+      "gas:candidate-vibid:2172000465316": 5,
+      "gas:candidate-vibid:2172000464142": 11,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 18,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 7,
-      "Ооржак Мерген Дадар-оолович": 219,
-      "Салчак Валерий Балай-оолович": 49,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 15
+      "gas:candidate-vibid:2172000465248": 18,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 7,
+      "gas:candidate-vibid:2172000465305": 219,
+      "gas:candidate-vibid:2172000465316": 49,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 11,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 10,
-      "Ооржак Мерген Дадар-оолович": 198,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 11,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 10,
+      "gas:candidate-vibid:2172000465305": 198,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 72,
-      "Маады Айбек Николаевич": 33,
-      "Монгуш Монгун-оол Сынааевич": 18,
-      "Ооржак Мерген Дадар-оолович": 915,
-      "Салчак Валерий Балай-оолович": 95,
-      "Серен-Хуурак Владимир Доржуевич": 37,
-      "Френт Игорь Алексеевич": 175
+      "gas:candidate-vibid:2172000465248": 72,
+      "gas:candidate-vibid:2172000464176": 33,
+      "gas:candidate-vibid:2172000464548": 18,
+      "gas:candidate-vibid:2172000465305": 915,
+      "gas:candidate-vibid:2172000465316": 95,
+      "gas:candidate-vibid:2172000464142": 37,
+      "gas:candidate-vibid:2172000463195": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 54,
-      "Маады Айбек Николаевич": 29,
-      "Монгуш Монгун-оол Сынааевич": 16,
-      "Ооржак Мерген Дадар-оолович": 330,
-      "Салчак Валерий Балай-оолович": 82,
-      "Серен-Хуурак Владимир Доржуевич": 28,
-      "Френт Игорь Алексеевич": 227
+      "gas:candidate-vibid:2172000465248": 54,
+      "gas:candidate-vibid:2172000464176": 29,
+      "gas:candidate-vibid:2172000464548": 16,
+      "gas:candidate-vibid:2172000465305": 330,
+      "gas:candidate-vibid:2172000465316": 82,
+      "gas:candidate-vibid:2172000464142": 28,
+      "gas:candidate-vibid:2172000463195": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 41,
-      "Маады Айбек Николаевич": 12,
-      "Монгуш Монгун-оол Сынааевич": 11,
-      "Ооржак Мерген Дадар-оолович": 216,
-      "Салчак Валерий Балай-оолович": 29,
-      "Серен-Хуурак Владимир Доржуевич": 30,
-      "Френт Игорь Алексеевич": 21
+      "gas:candidate-vibid:2172000465248": 41,
+      "gas:candidate-vibid:2172000464176": 12,
+      "gas:candidate-vibid:2172000464548": 11,
+      "gas:candidate-vibid:2172000465305": 216,
+      "gas:candidate-vibid:2172000465316": 29,
+      "gas:candidate-vibid:2172000464142": 30,
+      "gas:candidate-vibid:2172000463195": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 10,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 252,
-      "Салчак Валерий Балай-оолович": 21,
-      "Серен-Хуурак Владимир Доржуевич": 9,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 10,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 252,
+      "gas:candidate-vibid:2172000465316": 21,
+      "gas:candidate-vibid:2172000464142": 9,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 1,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 105,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 1,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 105,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 5,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 98,
-      "Салчак Валерий Балай-оолович": 6,
-      "Серен-Хуурак Владимир Доржуевич": 23,
-      "Френт Игорь Алексеевич": 22
+      "gas:candidate-vibid:2172000465248": 5,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 98,
+      "gas:candidate-vibid:2172000465316": 6,
+      "gas:candidate-vibid:2172000464142": 23,
+      "gas:candidate-vibid:2172000463195": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 83,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 9
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 83,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 93,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 4
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 93,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 16,
-      "Маады Айбек Николаевич": 11,
-      "Монгуш Монгун-оол Сынааевич": 17,
-      "Ооржак Мерген Дадар-оолович": 269,
-      "Салчак Валерий Балай-оолович": 69,
-      "Серен-Хуурак Владимир Доржуевич": 69,
-      "Френт Игорь Алексеевич": 27
+      "gas:candidate-vibid:2172000465248": 16,
+      "gas:candidate-vibid:2172000464176": 11,
+      "gas:candidate-vibid:2172000464548": 17,
+      "gas:candidate-vibid:2172000465305": 269,
+      "gas:candidate-vibid:2172000465316": 69,
+      "gas:candidate-vibid:2172000464142": 69,
+      "gas:candidate-vibid:2172000463195": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 35,
-      "Маады Айбек Николаевич": 13,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 286,
-      "Салчак Валерий Балай-оолович": 42,
-      "Серен-Хуурак Владимир Доржуевич": 14,
-      "Френт Игорь Алексеевич": 21
+      "gas:candidate-vibid:2172000465248": 35,
+      "gas:candidate-vibid:2172000464176": 13,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 286,
+      "gas:candidate-vibid:2172000465316": 42,
+      "gas:candidate-vibid:2172000464142": 14,
+      "gas:candidate-vibid:2172000463195": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458177&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458177&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 1129,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 1129,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458178&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458178&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 1059,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 2,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 1059,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 2,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458178&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458178&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 34,
-      "Маады Айбек Николаевич": 10,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 605,
-      "Салчак Валерий Балай-оолович": 6,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 34,
+      "gas:candidate-vibid:2172000464176": 10,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 605,
+      "gas:candidate-vibid:2172000465316": 6,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458178&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458178&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 72,
-      "Маады Айбек Николаевич": 36,
-      "Монгуш Монгун-оол Сынааевич": 30,
-      "Ооржак Мерген Дадар-оолович": 1268,
-      "Салчак Валерий Балай-оолович": 14,
-      "Серен-Хуурак Владимир Доржуевич": 18,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 72,
+      "gas:candidate-vibid:2172000464176": 36,
+      "gas:candidate-vibid:2172000464548": 30,
+      "gas:candidate-vibid:2172000465305": 1268,
+      "gas:candidate-vibid:2172000465316": 14,
+      "gas:candidate-vibid:2172000464142": 18,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 87,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 44,
-      "Ооржак Мерген Дадар-оолович": 1320,
-      "Салчак Валерий Балай-оолович": 19,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 5
+      "gas:candidate-vibid:2172000465248": 87,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 44,
+      "gas:candidate-vibid:2172000465305": 1320,
+      "gas:candidate-vibid:2172000465316": 19,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 12,
-      "Маады Айбек Николаевич": 9,
-      "Монгуш Монгун-оол Сынааевич": 10,
-      "Ооржак Мерген Дадар-оолович": 334,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 7,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 12,
+      "gas:candidate-vibid:2172000464176": 9,
+      "gas:candidate-vibid:2172000464548": 10,
+      "gas:candidate-vibid:2172000465305": 334,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 7,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 294,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 28,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 294,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 28,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 32,
-      "Маады Айбек Николаевич": 23,
-      "Монгуш Монгун-оол Сынааевич": 19,
-      "Ооржак Мерген Дадар-оолович": 663,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 12,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 32,
+      "gas:candidate-vibid:2172000464176": 23,
+      "gas:candidate-vibid:2172000464548": 19,
+      "gas:candidate-vibid:2172000465305": 663,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 12,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 257,
-      "Салчак Валерий Балай-оолович": 3,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 257,
+      "gas:candidate-vibid:2172000465316": 3,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 3,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 434,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 3,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 434,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 31,
-      "Маады Айбек Николаевич": 17,
-      "Монгуш Монгун-оол Сынааевич": 26,
-      "Ооржак Мерген Дадар-оолович": 507,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 11,
-      "Френт Игорь Алексеевич": 8
+      "gas:candidate-vibid:2172000465248": 31,
+      "gas:candidate-vibid:2172000464176": 17,
+      "gas:candidate-vibid:2172000464548": 26,
+      "gas:candidate-vibid:2172000465305": 507,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 11,
+      "gas:candidate-vibid:2172000463195": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 339,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 339,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 8,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 806,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 8,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 806,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458179&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458179&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 100,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 10,
-      "Ооржак Мерген Дадар-оолович": 1379,
-      "Салчак Валерий Балай-оолович": 14,
-      "Серен-Хуурак Владимир Доржуевич": 24,
-      "Френт Игорь Алексеевич": 61
+      "gas:candidate-vibid:2172000465248": 100,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 10,
+      "gas:candidate-vibid:2172000465305": 1379,
+      "gas:candidate-vibid:2172000465316": 14,
+      "gas:candidate-vibid:2172000464142": 24,
+      "gas:candidate-vibid:2172000463195": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 7,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 797,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 8,
-      "Френт Игорь Алексеевич": 5
+      "gas:candidate-vibid:2172000465248": 7,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 797,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 8,
+      "gas:candidate-vibid:2172000463195": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 34,
-      "Маады Айбек Николаевич": 39,
-      "Монгуш Монгун-оол Сынааевич": 17,
-      "Ооржак Мерген Дадар-оолович": 258,
-      "Салчак Валерий Балай-оолович": 12,
-      "Серен-Хуурак Владимир Доржуевич": 13,
-      "Френт Игорь Алексеевич": 29
+      "gas:candidate-vibid:2172000465248": 34,
+      "gas:candidate-vibid:2172000464176": 39,
+      "gas:candidate-vibid:2172000464548": 17,
+      "gas:candidate-vibid:2172000465305": 258,
+      "gas:candidate-vibid:2172000465316": 12,
+      "gas:candidate-vibid:2172000464142": 13,
+      "gas:candidate-vibid:2172000463195": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 3,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 86,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 2,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 3,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 86,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 2,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 16,
-      "Маады Айбек Николаевич": 12,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 1247,
-      "Салчак Валерий Балай-оолович": 14,
-      "Серен-Хуурак Владимир Доржуевич": 10,
-      "Френт Игорь Алексеевич": 57
+      "gas:candidate-vibid:2172000465248": 16,
+      "gas:candidate-vibid:2172000464176": 12,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 1247,
+      "gas:candidate-vibid:2172000465316": 14,
+      "gas:candidate-vibid:2172000464142": 10,
+      "gas:candidate-vibid:2172000463195": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 4,
-      "Маады Айбек Николаевич": 3,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 213,
-      "Салчак Валерий Балай-оолович": 3,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 4,
+      "gas:candidate-vibid:2172000464176": 3,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 213,
+      "gas:candidate-vibid:2172000465316": 3,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 15,
-      "Маады Айбек Николаевич": 8,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 76,
-      "Салчак Валерий Балай-оолович": 10,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 7
+      "gas:candidate-vibid:2172000465248": 15,
+      "gas:candidate-vibid:2172000464176": 8,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 76,
+      "gas:candidate-vibid:2172000465316": 10,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 28,
-      "Маады Айбек Николаевич": 12,
-      "Монгуш Монгун-оол Сынааевич": 17,
-      "Ооржак Мерген Дадар-оолович": 275,
-      "Салчак Валерий Балай-оолович": 11,
-      "Серен-Хуурак Владимир Доржуевич": 14,
-      "Френт Игорь Алексеевич": 14
+      "gas:candidate-vibid:2172000465248": 28,
+      "gas:candidate-vibid:2172000464176": 12,
+      "gas:candidate-vibid:2172000464548": 17,
+      "gas:candidate-vibid:2172000465305": 275,
+      "gas:candidate-vibid:2172000465316": 11,
+      "gas:candidate-vibid:2172000464142": 14,
+      "gas:candidate-vibid:2172000463195": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 26,
-      "Маады Айбек Николаевич": 11,
-      "Монгуш Монгун-оол Сынааевич": 18,
-      "Ооржак Мерген Дадар-оолович": 382,
-      "Салчак Валерий Балай-оолович": 3,
-      "Серен-Хуурак Владимир Доржуевич": 19,
-      "Френт Игорь Алексеевич": 8
+      "gas:candidate-vibid:2172000465248": 26,
+      "gas:candidate-vibid:2172000464176": 11,
+      "gas:candidate-vibid:2172000464548": 18,
+      "gas:candidate-vibid:2172000465305": 382,
+      "gas:candidate-vibid:2172000465316": 3,
+      "gas:candidate-vibid:2172000464142": 19,
+      "gas:candidate-vibid:2172000463195": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 15,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 194,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 15,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 194,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 13,
-      "Маады Айбек Николаевич": 3,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 315,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 17,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 13,
+      "gas:candidate-vibid:2172000464176": 3,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 315,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 17,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458180&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458180&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 373,
-      "Маады Айбек Николаевич": 8,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 599,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 5
+      "gas:candidate-vibid:2172000465248": 373,
+      "gas:candidate-vibid:2172000464176": 8,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 599,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 166,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 24,
-      "Ооржак Мерген Дадар-оолович": 812,
-      "Салчак Валерий Балай-оолович": 17,
-      "Серен-Хуурак Владимир Доржуевич": 10,
-      "Френт Игорь Алексеевич": 16
+      "gas:candidate-vibid:2172000465248": 166,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 24,
+      "gas:candidate-vibid:2172000465305": 812,
+      "gas:candidate-vibid:2172000465316": 17,
+      "gas:candidate-vibid:2172000464142": 10,
+      "gas:candidate-vibid:2172000463195": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 404,
-      "Маады Айбек Николаевич": 10,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 270,
-      "Салчак Валерий Балай-оолович": 41,
-      "Серен-Хуурак Владимир Доржуевич": 27,
-      "Френт Игорь Алексеевич": 55
+      "gas:candidate-vibid:2172000465248": 404,
+      "gas:candidate-vibid:2172000464176": 10,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 270,
+      "gas:candidate-vibid:2172000465316": 41,
+      "gas:candidate-vibid:2172000464142": 27,
+      "gas:candidate-vibid:2172000463195": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 360,
-      "Маады Айбек Николаевич": 16,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 302,
-      "Салчак Валерий Балай-оолович": 38,
-      "Серен-Хуурак Владимир Доржуевич": 23,
-      "Френт Игорь Алексеевич": 25
+      "gas:candidate-vibid:2172000465248": 360,
+      "gas:candidate-vibid:2172000464176": 16,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 302,
+      "gas:candidate-vibid:2172000465316": 38,
+      "gas:candidate-vibid:2172000464142": 23,
+      "gas:candidate-vibid:2172000463195": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 18,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 328,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 18,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 328,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 17,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 3,
-      "Ооржак Мерген Дадар-оолович": 1177,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 1,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 17,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 3,
+      "gas:candidate-vibid:2172000465305": 1177,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 1,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 44,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 326,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 44,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 326,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 26,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 457,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 26,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 457,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 32,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 663,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 32,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 663,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 155,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 230,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 155,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 230,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 7,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 717,
-      "Ооржак Мерген Дадар-оолович": 0,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 7,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 717,
+      "gas:candidate-vibid:2172000465305": 0,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 398,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 398,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 305,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 305,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458181&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458181&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 14,
-      "Маады Айбек Николаевич": 7,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 215,
-      "Салчак Валерий Балай-оолович": 52,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 5
+      "gas:candidate-vibid:2172000465248": 14,
+      "gas:candidate-vibid:2172000464176": 7,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 215,
+      "gas:candidate-vibid:2172000465316": 52,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458182&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458182&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 14,
-      "Маады Айбек Николаевич": 8,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 241,
-      "Салчак Валерий Балай-оолович": 51,
-      "Серен-Хуурак Владимир Доржуевич": 1,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 14,
+      "gas:candidate-vibid:2172000464176": 8,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 241,
+      "gas:candidate-vibid:2172000465316": 51,
+      "gas:candidate-vibid:2172000464142": 1,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458182&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458182&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 42,
-      "Маады Айбек Николаевич": 31,
-      "Монгуш Монгун-оол Сынааевич": 10,
-      "Ооржак Мерген Дадар-оолович": 269,
-      "Салчак Валерий Балай-оолович": 35,
-      "Серен-Хуурак Владимир Доржуевич": 9,
-      "Френт Игорь Алексеевич": 56
+      "gas:candidate-vibid:2172000465248": 42,
+      "gas:candidate-vibid:2172000464176": 31,
+      "gas:candidate-vibid:2172000464548": 10,
+      "gas:candidate-vibid:2172000465305": 269,
+      "gas:candidate-vibid:2172000465316": 35,
+      "gas:candidate-vibid:2172000464142": 9,
+      "gas:candidate-vibid:2172000463195": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 54,
-      "Маады Айбек Николаевич": 36,
-      "Монгуш Монгун-оол Сынааевич": 50,
-      "Ооржак Мерген Дадар-оолович": 247,
-      "Салчак Валерий Балай-оолович": 19,
-      "Серен-Хуурак Владимир Доржуевич": 14,
-      "Френт Игорь Алексеевич": 65
+      "gas:candidate-vibid:2172000465248": 54,
+      "gas:candidate-vibid:2172000464176": 36,
+      "gas:candidate-vibid:2172000464548": 50,
+      "gas:candidate-vibid:2172000465305": 247,
+      "gas:candidate-vibid:2172000465316": 19,
+      "gas:candidate-vibid:2172000464142": 14,
+      "gas:candidate-vibid:2172000463195": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 58,
-      "Маады Айбек Николаевич": 30,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 459,
-      "Салчак Валерий Балай-оолович": 21,
-      "Серен-Хуурак Владимир Доржуевич": 21,
-      "Френт Игорь Алексеевич": 105
+      "gas:candidate-vibid:2172000465248": 58,
+      "gas:candidate-vibid:2172000464176": 30,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 459,
+      "gas:candidate-vibid:2172000465316": 21,
+      "gas:candidate-vibid:2172000464142": 21,
+      "gas:candidate-vibid:2172000463195": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 82,
-      "Маады Айбек Николаевич": 35,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 265,
-      "Салчак Валерий Балай-оолович": 30,
-      "Серен-Хуурак Владимир Доржуевич": 31,
-      "Френт Игорь Алексеевич": 163
+      "gas:candidate-vibid:2172000465248": 82,
+      "gas:candidate-vibid:2172000464176": 35,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 265,
+      "gas:candidate-vibid:2172000465316": 30,
+      "gas:candidate-vibid:2172000464142": 31,
+      "gas:candidate-vibid:2172000463195": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 28,
-      "Маады Айбек Николаевич": 10,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 146,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 22,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 28,
+      "gas:candidate-vibid:2172000464176": 10,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 146,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 22,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 34,
-      "Маады Айбек Николаевич": 22,
-      "Монгуш Монгун-оол Сынааевич": 13,
-      "Ооржак Мерген Дадар-оолович": 338,
-      "Салчак Валерий Балай-оолович": 22,
-      "Серен-Хуурак Владимир Доржуевич": 8,
-      "Френт Игорь Алексеевич": 7
+      "gas:candidate-vibid:2172000465248": 34,
+      "gas:candidate-vibid:2172000464176": 22,
+      "gas:candidate-vibid:2172000464548": 13,
+      "gas:candidate-vibid:2172000465305": 338,
+      "gas:candidate-vibid:2172000465316": 22,
+      "gas:candidate-vibid:2172000464142": 8,
+      "gas:candidate-vibid:2172000463195": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 20,
-      "Маады Айбек Николаевич": 9,
-      "Монгуш Монгун-оол Сынааевич": 3,
-      "Ооржак Мерген Дадар-оолович": 244,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 7,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 20,
+      "gas:candidate-vibid:2172000464176": 9,
+      "gas:candidate-vibid:2172000464548": 3,
+      "gas:candidate-vibid:2172000465305": 244,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 7,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 12,
-      "Маады Айбек Николаевич": 10,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 259,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 13,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 12,
+      "gas:candidate-vibid:2172000464176": 10,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 259,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 13,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 27,
-      "Маады Айбек Николаевич": 19,
-      "Монгуш Монгун-оол Сынааевич": 10,
-      "Ооржак Мерген Дадар-оолович": 351,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 26,
-      "Френт Игорь Алексеевич": 21
+      "gas:candidate-vibid:2172000465248": 27,
+      "gas:candidate-vibid:2172000464176": 19,
+      "gas:candidate-vibid:2172000464548": 10,
+      "gas:candidate-vibid:2172000465305": 351,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 26,
+      "gas:candidate-vibid:2172000463195": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 8,
-      "Маады Айбек Николаевич": 7,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 346,
-      "Салчак Валерий Балай-оолович": 5,
-      "Серен-Хуурак Владимир Доржуевич": 9,
-      "Френт Игорь Алексеевич": 4
+      "gas:candidate-vibid:2172000465248": 8,
+      "gas:candidate-vibid:2172000464176": 7,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 346,
+      "gas:candidate-vibid:2172000465316": 5,
+      "gas:candidate-vibid:2172000464142": 9,
+      "gas:candidate-vibid:2172000463195": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 22,
-      "Маады Айбек Николаевич": 18,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 315,
-      "Салчак Валерий Балай-оолович": 25,
-      "Серен-Хуурак Владимир Доржуевич": 37,
-      "Френт Игорь Алексеевич": 4
+      "gas:candidate-vibid:2172000465248": 22,
+      "gas:candidate-vibid:2172000464176": 18,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 315,
+      "gas:candidate-vibid:2172000465316": 25,
+      "gas:candidate-vibid:2172000464142": 37,
+      "gas:candidate-vibid:2172000463195": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 5,
-      "Маады Айбек Николаевич": 7,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 223,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 2,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 5,
+      "gas:candidate-vibid:2172000464176": 7,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 223,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 2,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 4,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 7,
-      "Ооржак Мерген Дадар-оолович": 177,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 10
+      "gas:candidate-vibid:2172000465248": 4,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 7,
+      "gas:candidate-vibid:2172000465305": 177,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458183&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458183&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 19,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 1834,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 144,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 19,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 1834,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 144,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458184&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458184&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 14,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 494,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 20,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 14,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 494,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 20,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458184&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458184&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 49,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 464,
-      "Салчак Валерий Балай-оолович": 3,
-      "Серен-Хуурак Владимир Доржуевич": 77,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 49,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 464,
+      "gas:candidate-vibid:2172000465316": 3,
+      "gas:candidate-vibid:2172000464142": 77,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458184&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458184&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 1,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 117,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 1,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 117,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458184&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458184&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 25,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 3,
-      "Ооржак Мерген Дадар-оолович": 468,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 53,
-      "Френт Игорь Алексеевич": 13
+      "gas:candidate-vibid:2172000465248": 25,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 3,
+      "gas:candidate-vibid:2172000465305": 468,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 53,
+      "gas:candidate-vibid:2172000463195": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458184&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458184&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 14,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 95,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 8,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 14,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 95,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 8,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458184&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458184&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 41,
-      "Маады Айбек Николаевич": 12,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 442,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 12,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 41,
+      "gas:candidate-vibid:2172000464176": 12,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 442,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 12,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458185&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458185&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 52,
-      "Маады Айбек Николаевич": 29,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 1267,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 5
+      "gas:candidate-vibid:2172000465248": 52,
+      "gas:candidate-vibid:2172000464176": 29,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 1267,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458185&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458185&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 440,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 440,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458185&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458185&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 21,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 282,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 13,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 21,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 282,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 13,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458185&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458185&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 7,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 807,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 7
+      "gas:candidate-vibid:2172000465248": 7,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 807,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458185&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458185&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 8,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 100,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 8,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 100,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458185&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458185&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 122,
-      "Маады Айбек Николаевич": 48,
-      "Монгуш Монгун-оол Сынааевич": 27,
-      "Ооржак Мерген Дадар-оолович": 544,
-      "Салчак Валерий Балай-оолович": 65,
-      "Серен-Хуурак Владимир Доржуевич": 63,
-      "Френт Игорь Алексеевич": 122
+      "gas:candidate-vibid:2172000465248": 122,
+      "gas:candidate-vibid:2172000464176": 48,
+      "gas:candidate-vibid:2172000464548": 27,
+      "gas:candidate-vibid:2172000465305": 544,
+      "gas:candidate-vibid:2172000465316": 65,
+      "gas:candidate-vibid:2172000464142": 63,
+      "gas:candidate-vibid:2172000463195": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 128,
-      "Маады Айбек Николаевич": 29,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 372,
-      "Салчак Валерий Балай-оолович": 68,
-      "Серен-Хуурак Владимир Доржуевич": 27,
-      "Френт Игорь Алексеевич": 188
+      "gas:candidate-vibid:2172000465248": 128,
+      "gas:candidate-vibid:2172000464176": 29,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 372,
+      "gas:candidate-vibid:2172000465316": 68,
+      "gas:candidate-vibid:2172000464142": 27,
+      "gas:candidate-vibid:2172000463195": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 180,
-      "Маады Айбек Николаевич": 55,
-      "Монгуш Монгун-оол Сынааевич": 47,
-      "Ооржак Мерген Дадар-оолович": 1042,
-      "Салчак Валерий Балай-оолович": 120,
-      "Серен-Хуурак Владимир Доржуевич": 70,
-      "Френт Игорь Алексеевич": 128
+      "gas:candidate-vibid:2172000465248": 180,
+      "gas:candidate-vibid:2172000464176": 55,
+      "gas:candidate-vibid:2172000464548": 47,
+      "gas:candidate-vibid:2172000465305": 1042,
+      "gas:candidate-vibid:2172000465316": 120,
+      "gas:candidate-vibid:2172000464142": 70,
+      "gas:candidate-vibid:2172000463195": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 81,
-      "Маады Айбек Николаевич": 26,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 1477,
-      "Салчак Валерий Балай-оолович": 67,
-      "Серен-Хуурак Владимир Доржуевич": 50,
-      "Френт Игорь Алексеевич": 146
+      "gas:candidate-vibid:2172000465248": 81,
+      "gas:candidate-vibid:2172000464176": 26,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 1477,
+      "gas:candidate-vibid:2172000465316": 67,
+      "gas:candidate-vibid:2172000464142": 50,
+      "gas:candidate-vibid:2172000463195": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 11,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 408,
-      "Салчак Валерий Балай-оолович": 36,
-      "Серен-Хуурак Владимир Доржуевич": 19,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 11,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 408,
+      "gas:candidate-vibid:2172000465316": 36,
+      "gas:candidate-vibid:2172000464142": 19,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 37,
-      "Маады Айбек Николаевич": 21,
-      "Монгуш Монгун-оол Сынааевич": 17,
-      "Ооржак Мерген Дадар-оолович": 361,
-      "Салчак Валерий Балай-оолович": 20,
-      "Серен-Хуурак Владимир Доржуевич": 30,
-      "Френт Игорь Алексеевич": 33
+      "gas:candidate-vibid:2172000465248": 37,
+      "gas:candidate-vibid:2172000464176": 21,
+      "gas:candidate-vibid:2172000464548": 17,
+      "gas:candidate-vibid:2172000465305": 361,
+      "gas:candidate-vibid:2172000465316": 20,
+      "gas:candidate-vibid:2172000464142": 30,
+      "gas:candidate-vibid:2172000463195": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 43,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 3,
-      "Ооржак Мерген Дадар-оолович": 374,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 156,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 43,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 3,
+      "gas:candidate-vibid:2172000465305": 374,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 156,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 15,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 1,
-      "Ооржак Мерген Дадар-оолович": 119,
-      "Салчак Валерий Балай-оолович": 15,
-      "Серен-Хуурак Владимир Доржуевич": 57,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 15,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 1,
+      "gas:candidate-vibid:2172000465305": 119,
+      "gas:candidate-vibid:2172000465316": 15,
+      "gas:candidate-vibid:2172000464142": 57,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 20,
-      "Маады Айбек Николаевич": 10,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 431,
-      "Салчак Валерий Балай-оолович": 24,
-      "Серен-Хуурак Владимир Доржуевич": 39,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 20,
+      "gas:candidate-vibid:2172000464176": 10,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 431,
+      "gas:candidate-vibid:2172000465316": 24,
+      "gas:candidate-vibid:2172000464142": 39,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 11,
-      "Маады Айбек Николаевич": 3,
-      "Монгуш Монгун-оол Сынааевич": 3,
-      "Ооржак Мерген Дадар-оолович": 261,
-      "Салчак Валерий Балай-оолович": 9,
-      "Серен-Хуурак Владимир Доржуевич": 25,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 11,
+      "gas:candidate-vibid:2172000464176": 3,
+      "gas:candidate-vibid:2172000464548": 3,
+      "gas:candidate-vibid:2172000465305": 261,
+      "gas:candidate-vibid:2172000465316": 9,
+      "gas:candidate-vibid:2172000464142": 25,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 101,
-      "Маады Айбек Николаевич": 28,
-      "Монгуш Монгун-оол Сынааевич": 20,
-      "Ооржак Мерген Дадар-оолович": 442,
-      "Салчак Валерий Балай-оолович": 47,
-      "Серен-Хуурак Владимир Доржуевич": 149,
-      "Френт Игорь Алексеевич": 35
+      "gas:candidate-vibid:2172000465248": 101,
+      "gas:candidate-vibid:2172000464176": 28,
+      "gas:candidate-vibid:2172000464548": 20,
+      "gas:candidate-vibid:2172000465305": 442,
+      "gas:candidate-vibid:2172000465316": 47,
+      "gas:candidate-vibid:2172000464142": 149,
+      "gas:candidate-vibid:2172000463195": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 17,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 14,
-      "Ооржак Мерген Дадар-оолович": 468,
-      "Салчак Валерий Балай-оолович": 24,
-      "Серен-Хуурак Владимир Доржуевич": 61,
-      "Френт Игорь Алексеевич": 28
+      "gas:candidate-vibid:2172000465248": 17,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 14,
+      "gas:candidate-vibid:2172000465305": 468,
+      "gas:candidate-vibid:2172000465316": 24,
+      "gas:candidate-vibid:2172000464142": 61,
+      "gas:candidate-vibid:2172000463195": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 48,
-      "Маады Айбек Николаевич": 15,
-      "Монгуш Монгун-оол Сынааевич": 12,
-      "Ооржак Мерген Дадар-оолович": 349,
-      "Салчак Валерий Балай-оолович": 23,
-      "Серен-Хуурак Владимир Доржуевич": 43,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 48,
+      "gas:candidate-vibid:2172000464176": 15,
+      "gas:candidate-vibid:2172000464548": 12,
+      "gas:candidate-vibid:2172000465305": 349,
+      "gas:candidate-vibid:2172000465316": 23,
+      "gas:candidate-vibid:2172000464142": 43,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 40,
-      "Маады Айбек Николаевич": 16,
-      "Монгуш Монгун-оол Сынааевич": 13,
-      "Ооржак Мерген Дадар-оолович": 411,
-      "Салчак Валерий Балай-оолович": 25,
-      "Серен-Хуурак Владимир Доржуевич": 41,
-      "Френт Игорь Алексеевич": 35
+      "gas:candidate-vibid:2172000465248": 40,
+      "gas:candidate-vibid:2172000464176": 16,
+      "gas:candidate-vibid:2172000464548": 13,
+      "gas:candidate-vibid:2172000465305": 411,
+      "gas:candidate-vibid:2172000465316": 25,
+      "gas:candidate-vibid:2172000464142": 41,
+      "gas:candidate-vibid:2172000463195": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458186&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458186&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 6,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 19,
-      "Ооржак Мерген Дадар-оолович": 925,
-      "Салчак Валерий Балай-оолович": 12,
-      "Серен-Хуурак Владимир Доржуевич": 17,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 6,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 19,
+      "gas:candidate-vibid:2172000465305": 925,
+      "gas:candidate-vibid:2172000465316": 12,
+      "gas:candidate-vibid:2172000464142": 17,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 10,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 36,
-      "Ооржак Мерген Дадар-оолович": 1092,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 10,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 36,
+      "gas:candidate-vibid:2172000465305": 1092,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 74,
-      "Маады Айбек Николаевич": 68,
-      "Монгуш Монгун-оол Сынааевич": 28,
-      "Ооржак Мерген Дадар-оолович": 771,
-      "Салчак Валерий Балай-оолович": 39,
-      "Серен-Хуурак Владимир Доржуевич": 32,
-      "Френт Игорь Алексеевич": 8
+      "gas:candidate-vibid:2172000465248": 74,
+      "gas:candidate-vibid:2172000464176": 68,
+      "gas:candidate-vibid:2172000464548": 28,
+      "gas:candidate-vibid:2172000465305": 771,
+      "gas:candidate-vibid:2172000465316": 39,
+      "gas:candidate-vibid:2172000464142": 32,
+      "gas:candidate-vibid:2172000463195": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 987,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 987,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 391,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 391,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 12,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 283,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 12,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 283,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 657,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 1,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 657,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 1,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 656,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 656,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 7,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 8,
-      "Ооржак Мерген Дадар-оолович": 467,
-      "Салчак Валерий Балай-оолович": 3,
-      "Серен-Хуурак Владимир Доржуевич": 4,
-      "Френт Игорь Алексеевич": 2
+      "gas:candidate-vibid:2172000465248": 7,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 8,
+      "gas:candidate-vibid:2172000465305": 467,
+      "gas:candidate-vibid:2172000465316": 3,
+      "gas:candidate-vibid:2172000464142": 4,
+      "gas:candidate-vibid:2172000463195": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 4,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 226,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 4,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 226,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 675,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 675,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 28,
-      "Маады Айбек Николаевич": 15,
-      "Монгуш Монгун-оол Сынааевич": 137,
-      "Ооржак Мерген Дадар-оолович": 587,
-      "Салчак Валерий Балай-оолович": 5,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 28,
+      "gas:candidate-vibid:2172000464176": 15,
+      "gas:candidate-vibid:2172000464548": 137,
+      "gas:candidate-vibid:2172000465305": 587,
+      "gas:candidate-vibid:2172000465316": 5,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 11,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 33,
-      "Ооржак Мерген Дадар-оолович": 342,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 11,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 33,
+      "gas:candidate-vibid:2172000465305": 342,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 577,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 1,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 577,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 1,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 158,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 158,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458187&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458187&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 97,
-      "Маады Айбек Николаевич": 56,
-      "Монгуш Монгун-оол Сынааевич": 21,
-      "Ооржак Мерген Дадар-оолович": 758,
-      "Салчак Валерий Балай-оолович": 43,
-      "Серен-Хуурак Владимир Доржуевич": 61,
-      "Френт Игорь Алексеевич": 67
+      "gas:candidate-vibid:2172000465248": 97,
+      "gas:candidate-vibid:2172000464176": 56,
+      "gas:candidate-vibid:2172000464548": 21,
+      "gas:candidate-vibid:2172000465305": 758,
+      "gas:candidate-vibid:2172000465316": 43,
+      "gas:candidate-vibid:2172000464142": 61,
+      "gas:candidate-vibid:2172000463195": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458188&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458188&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 14,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 7,
-      "Ооржак Мерген Дадар-оолович": 76,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 11,
-      "Френт Игорь Алексеевич": 62
+      "gas:candidate-vibid:2172000465248": 14,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 7,
+      "gas:candidate-vibid:2172000465305": 76,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 11,
+      "gas:candidate-vibid:2172000463195": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458188&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458188&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 9,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 656,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 7,
-      "Френт Игорь Алексеевич": 6
+      "gas:candidate-vibid:2172000465248": 9,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 656,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 7,
+      "gas:candidate-vibid:2172000463195": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458188&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458188&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 36,
-      "Маады Айбек Николаевич": 14,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 564,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 36,
-      "Френт Игорь Алексеевич": 5
+      "gas:candidate-vibid:2172000465248": 36,
+      "gas:candidate-vibid:2172000464176": 14,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 564,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 36,
+      "gas:candidate-vibid:2172000463195": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458188&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458188&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 6,
-      "Маады Айбек Николаевич": 5,
-      "Монгуш Монгун-оол Сынааевич": 4,
-      "Ооржак Мерген Дадар-оолович": 96,
-      "Салчак Валерий Балай-оолович": 9,
-      "Серен-Хуурак Владимир Доржуевич": 9,
-      "Френт Игорь Алексеевич": 31
+      "gas:candidate-vibid:2172000465248": 6,
+      "gas:candidate-vibid:2172000464176": 5,
+      "gas:candidate-vibid:2172000464548": 4,
+      "gas:candidate-vibid:2172000465305": 96,
+      "gas:candidate-vibid:2172000465316": 9,
+      "gas:candidate-vibid:2172000464142": 9,
+      "gas:candidate-vibid:2172000463195": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458188&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458188&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 11,
-      "Маады Айбек Николаевич": 6,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 172,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 11,
+      "gas:candidate-vibid:2172000464176": 6,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 172,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458188&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458188&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 175,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 1555,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 175,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 1555,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458189&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458189&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 653,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 653,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458189&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458189&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 7,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 148,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 7,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 148,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458189&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458189&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 71,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 486,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 2,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 71,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 486,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 2,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458189&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458189&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 4,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 205,
-      "Салчак Валерий Балай-оолович": 2,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 4,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 205,
+      "gas:candidate-vibid:2172000465316": 2,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458190&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458190&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 13,
-      "Маады Айбек Николаевич": 2,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 242,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 13,
+      "gas:candidate-vibid:2172000464176": 2,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 242,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458190&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458190&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 12,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 298,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 12,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 298,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458190&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458190&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 143,
-      "Маады Айбек Николаевич": 41,
-      "Монгуш Монгун-оол Сынааевич": 28,
-      "Ооржак Мерген Дадар-оолович": 1274,
-      "Салчак Валерий Балай-оолович": 16,
-      "Серен-Хуурак Владимир Доржуевич": 46,
-      "Френт Игорь Алексеевич": 37
+      "gas:candidate-vibid:2172000465248": 143,
+      "gas:candidate-vibid:2172000464176": 41,
+      "gas:candidate-vibid:2172000464548": 28,
+      "gas:candidate-vibid:2172000465305": 1274,
+      "gas:candidate-vibid:2172000465316": 16,
+      "gas:candidate-vibid:2172000464142": 46,
+      "gas:candidate-vibid:2172000463195": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458190&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458190&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 578,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 3,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 578,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 3,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458190&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458190&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 434,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 434,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458190&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458190&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 1790,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 2,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 1790,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 2,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 510,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 510,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 520,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 520,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 406,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 406,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 206,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 206,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 430,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 430,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 1,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 467,
-      "Салчак Валерий Балай-оолович": 1,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 1,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 467,
+      "gas:candidate-vibid:2172000465316": 1,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458191&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458191&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 73,
-      "Маады Айбек Николаевич": 37,
-      "Монгуш Монгун-оол Сынааевич": 61,
-      "Ооржак Мерген Дадар-оолович": 877,
-      "Салчак Валерий Балай-оолович": 46,
-      "Серен-Хуурак Владимир Доржуевич": 29,
-      "Френт Игорь Алексеевич": 22
+      "gas:candidate-vibid:2172000465248": 73,
+      "gas:candidate-vibid:2172000464176": 37,
+      "gas:candidate-vibid:2172000464548": 61,
+      "gas:candidate-vibid:2172000465305": 877,
+      "gas:candidate-vibid:2172000465316": 46,
+      "gas:candidate-vibid:2172000464142": 29,
+      "gas:candidate-vibid:2172000463195": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458192&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458192&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 59,
-      "Маады Айбек Николаевич": 21,
-      "Монгуш Монгун-оол Сынааевич": 35,
-      "Ооржак Мерген Дадар-оолович": 883,
-      "Салчак Валерий Балай-оолович": 20,
-      "Серен-Хуурак Владимир Доржуевич": 37,
-      "Френт Игорь Алексеевич": 31
+      "gas:candidate-vibid:2172000465248": 59,
+      "gas:candidate-vibid:2172000464176": 21,
+      "gas:candidate-vibid:2172000464548": 35,
+      "gas:candidate-vibid:2172000465305": 883,
+      "gas:candidate-vibid:2172000465316": 20,
+      "gas:candidate-vibid:2172000464142": 37,
+      "gas:candidate-vibid:2172000463195": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458192&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458192&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 61,
-      "Маады Айбек Николаевич": 41,
-      "Монгуш Монгун-оол Сынааевич": 23,
-      "Ооржак Мерген Дадар-оолович": 735,
-      "Салчак Валерий Балай-оолович": 26,
-      "Серен-Хуурак Владимир Доржуевич": 60,
-      "Френт Игорь Алексеевич": 33
+      "gas:candidate-vibid:2172000465248": 61,
+      "gas:candidate-vibid:2172000464176": 41,
+      "gas:candidate-vibid:2172000464548": 23,
+      "gas:candidate-vibid:2172000465305": 735,
+      "gas:candidate-vibid:2172000465316": 26,
+      "gas:candidate-vibid:2172000464142": 60,
+      "gas:candidate-vibid:2172000463195": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458192&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458192&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 51,
-      "Маады Айбек Николаевич": 31,
-      "Монгуш Монгун-оол Сынааевич": 25,
-      "Ооржак Мерген Дадар-оолович": 847,
-      "Салчак Валерий Балай-оолович": 17,
-      "Серен-Хуурак Владимир Доржуевич": 28,
-      "Френт Игорь Алексеевич": 26
+      "gas:candidate-vibid:2172000465248": 51,
+      "gas:candidate-vibid:2172000464176": 31,
+      "gas:candidate-vibid:2172000464548": 25,
+      "gas:candidate-vibid:2172000465305": 847,
+      "gas:candidate-vibid:2172000465316": 17,
+      "gas:candidate-vibid:2172000464142": 28,
+      "gas:candidate-vibid:2172000463195": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458192&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458192&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 46,
-      "Маады Айбек Николаевич": 51,
-      "Монгуш Монгун-оол Сынааевич": 35,
-      "Ооржак Мерген Дадар-оолович": 893,
-      "Салчак Валерий Балай-оолович": 50,
-      "Серен-Хуурак Владимир Доржуевич": 34,
-      "Френт Игорь Алексеевич": 15
+      "gas:candidate-vibid:2172000465248": 46,
+      "gas:candidate-vibid:2172000464176": 51,
+      "gas:candidate-vibid:2172000464548": 35,
+      "gas:candidate-vibid:2172000465305": 893,
+      "gas:candidate-vibid:2172000465316": 50,
+      "gas:candidate-vibid:2172000464142": 34,
+      "gas:candidate-vibid:2172000463195": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458192&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458192&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 40,
-      "Маады Айбек Николаевич": 25,
-      "Монгуш Монгун-оол Сынааевич": 32,
-      "Ооржак Мерген Дадар-оолович": 908,
-      "Салчак Валерий Балай-оолович": 7,
-      "Серен-Хуурак Владимир Доржуевич": 15,
-      "Френт Игорь Алексеевич": 11
+      "gas:candidate-vibid:2172000465248": 40,
+      "gas:candidate-vibid:2172000464176": 25,
+      "gas:candidate-vibid:2172000464548": 32,
+      "gas:candidate-vibid:2172000465305": 908,
+      "gas:candidate-vibid:2172000465316": 7,
+      "gas:candidate-vibid:2172000464142": 15,
+      "gas:candidate-vibid:2172000463195": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458192&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458192&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 1,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 1451,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 1,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 1451,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 8,
-      "Маады Айбек Николаевич": 4,
-      "Монгуш Монгун-оол Сынааевич": 2,
-      "Ооржак Мерген Дадар-оолович": 342,
-      "Салчак Валерий Балай-оолович": 5,
-      "Серен-Хуурак Владимир Доржуевич": 2,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 8,
+      "gas:candidate-vibid:2172000464176": 4,
+      "gas:candidate-vibid:2172000464548": 2,
+      "gas:candidate-vibid:2172000465305": 342,
+      "gas:candidate-vibid:2172000465316": 5,
+      "gas:candidate-vibid:2172000464142": 2,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 393,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 393,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 3,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 404,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 3,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 404,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 5,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 638,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 5,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 638,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 57,
-      "Маады Айбек Николаевич": 22,
-      "Монгуш Монгун-оол Сынааевич": 12,
-      "Ооржак Мерген Дадар-оолович": 685,
-      "Салчак Валерий Балай-оолович": 10,
-      "Серен-Хуурак Владимир Доржуевич": 9,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 57,
+      "gas:candidate-vibid:2172000464176": 22,
+      "gas:candidate-vibid:2172000464548": 12,
+      "gas:candidate-vibid:2172000465305": 685,
+      "gas:candidate-vibid:2172000465316": 10,
+      "gas:candidate-vibid:2172000464142": 9,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 61,
-      "Маады Айбек Николаевич": 16,
-      "Монгуш Монгун-оол Сынааевич": 11,
-      "Ооржак Мерген Дадар-оолович": 674,
-      "Салчак Валерий Балай-оолович": 11,
-      "Серен-Хуурак Владимир Доржуевич": 5,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 61,
+      "gas:candidate-vibid:2172000464176": 16,
+      "gas:candidate-vibid:2172000464548": 11,
+      "gas:candidate-vibid:2172000465305": 674,
+      "gas:candidate-vibid:2172000465316": 11,
+      "gas:candidate-vibid:2172000464142": 5,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458193&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458193&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 104,
-      "Маады Айбек Николаевич": 40,
-      "Монгуш Монгун-оол Сынааевич": 23,
-      "Ооржак Мерген Дадар-оолович": 768,
-      "Салчак Валерий Балай-оолович": 56,
-      "Серен-Хуурак Владимир Доржуевич": 62,
-      "Френт Игорь Алексеевич": 245
+      "gas:candidate-vibid:2172000465248": 104,
+      "gas:candidate-vibid:2172000464176": 40,
+      "gas:candidate-vibid:2172000464548": 23,
+      "gas:candidate-vibid:2172000465305": 768,
+      "gas:candidate-vibid:2172000465316": 56,
+      "gas:candidate-vibid:2172000464142": 62,
+      "gas:candidate-vibid:2172000463195": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 167,
-      "Маады Айбек Николаевич": 55,
-      "Монгуш Монгун-оол Сынааевич": 38,
-      "Ооржак Мерген Дадар-оолович": 972,
-      "Салчак Валерий Балай-оолович": 192,
-      "Серен-Хуурак Владимир Доржуевич": 73,
-      "Френт Игорь Алексеевич": 218
+      "gas:candidate-vibid:2172000465248": 167,
+      "gas:candidate-vibid:2172000464176": 55,
+      "gas:candidate-vibid:2172000464548": 38,
+      "gas:candidate-vibid:2172000465305": 972,
+      "gas:candidate-vibid:2172000465316": 192,
+      "gas:candidate-vibid:2172000464142": 73,
+      "gas:candidate-vibid:2172000463195": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 109,
-      "Маады Айбек Николаевич": 33,
-      "Монгуш Монгун-оол Сынааевич": 30,
-      "Ооржак Мерген Дадар-оолович": 1154,
-      "Салчак Валерий Балай-оолович": 48,
-      "Серен-Хуурак Владимир Доржуевич": 51,
-      "Френт Игорь Алексеевич": 18
+      "gas:candidate-vibid:2172000465248": 109,
+      "gas:candidate-vibid:2172000464176": 33,
+      "gas:candidate-vibid:2172000464548": 30,
+      "gas:candidate-vibid:2172000465305": 1154,
+      "gas:candidate-vibid:2172000465316": 48,
+      "gas:candidate-vibid:2172000464142": 51,
+      "gas:candidate-vibid:2172000463195": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 56,
-      "Маады Айбек Николаевич": 44,
-      "Монгуш Монгун-оол Сынааевич": 45,
-      "Ооржак Мерген Дадар-оолович": 1228,
-      "Салчак Валерий Балай-оолович": 95,
-      "Серен-Хуурак Владимир Доржуевич": 85,
-      "Френт Игорь Алексеевич": 212
+      "gas:candidate-vibid:2172000465248": 56,
+      "gas:candidate-vibid:2172000464176": 44,
+      "gas:candidate-vibid:2172000464548": 45,
+      "gas:candidate-vibid:2172000465305": 1228,
+      "gas:candidate-vibid:2172000465316": 95,
+      "gas:candidate-vibid:2172000464142": 85,
+      "gas:candidate-vibid:2172000463195": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 23,
-      "Маады Айбек Николаевич": 17,
-      "Монгуш Монгун-оол Сынааевич": 7,
-      "Ооржак Мерген Дадар-оолович": 861,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 24,
-      "Френт Игорь Алексеевич": 53
+      "gas:candidate-vibid:2172000465248": 23,
+      "gas:candidate-vibid:2172000464176": 17,
+      "gas:candidate-vibid:2172000464548": 7,
+      "gas:candidate-vibid:2172000465305": 861,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 24,
+      "gas:candidate-vibid:2172000463195": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 109,
-      "Маады Айбек Николаевич": 18,
-      "Монгуш Монгун-оол Сынааевич": 23,
-      "Ооржак Мерген Дадар-оолович": 1622,
-      "Салчак Валерий Балай-оолович": 43,
-      "Серен-Хуурак Владимир Доржуевич": 12,
-      "Френт Игорь Алексеевич": 21
+      "gas:candidate-vibid:2172000465248": 109,
+      "gas:candidate-vibid:2172000464176": 18,
+      "gas:candidate-vibid:2172000464548": 23,
+      "gas:candidate-vibid:2172000465305": 1622,
+      "gas:candidate-vibid:2172000465316": 43,
+      "gas:candidate-vibid:2172000464142": 12,
+      "gas:candidate-vibid:2172000463195": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 56,
-      "Маады Айбек Николаевич": 14,
-      "Монгуш Монгун-оол Сынааевич": 13,
-      "Ооржак Мерген Дадар-оолович": 1466,
-      "Салчак Валерий Балай-оолович": 15,
-      "Серен-Хуурак Владимир Доржуевич": 28,
-      "Френт Игорь Алексеевич": 58
+      "gas:candidate-vibid:2172000465248": 56,
+      "gas:candidate-vibid:2172000464176": 14,
+      "gas:candidate-vibid:2172000464548": 13,
+      "gas:candidate-vibid:2172000465305": 1466,
+      "gas:candidate-vibid:2172000465316": 15,
+      "gas:candidate-vibid:2172000464142": 28,
+      "gas:candidate-vibid:2172000463195": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 99,
-      "Маады Айбек Николаевич": 30,
-      "Монгуш Монгун-оол Сынааевич": 21,
-      "Ооржак Мерген Дадар-оолович": 1137,
-      "Салчак Валерий Балай-оолович": 69,
-      "Серен-Хуурак Владимир Доржуевич": 50,
-      "Френт Игорь Алексеевич": 201
+      "gas:candidate-vibid:2172000465248": 99,
+      "gas:candidate-vibid:2172000464176": 30,
+      "gas:candidate-vibid:2172000464548": 21,
+      "gas:candidate-vibid:2172000465305": 1137,
+      "gas:candidate-vibid:2172000465316": 69,
+      "gas:candidate-vibid:2172000464142": 50,
+      "gas:candidate-vibid:2172000463195": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 104,
-      "Маады Айбек Николаевич": 21,
-      "Монгуш Монгун-оол Сынааевич": 21,
-      "Ооржак Мерген Дадар-оолович": 1078,
-      "Салчак Валерий Балай-оолович": 66,
-      "Серен-Хуурак Владимир Доржуевич": 43,
-      "Френт Игорь Алексеевич": 27
+      "gas:candidate-vibid:2172000465248": 104,
+      "gas:candidate-vibid:2172000464176": 21,
+      "gas:candidate-vibid:2172000464548": 21,
+      "gas:candidate-vibid:2172000465305": 1078,
+      "gas:candidate-vibid:2172000465316": 66,
+      "gas:candidate-vibid:2172000464142": 43,
+      "gas:candidate-vibid:2172000463195": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 149,
-      "Маады Айбек Николаевич": 27,
-      "Монгуш Монгун-оол Сынааевич": 33,
-      "Ооржак Мерген Дадар-оолович": 994,
-      "Салчак Валерий Балай-оолович": 55,
-      "Серен-Хуурак Владимир Доржуевич": 67,
-      "Френт Игорь Алексеевич": 92
+      "gas:candidate-vibid:2172000465248": 149,
+      "gas:candidate-vibid:2172000464176": 27,
+      "gas:candidate-vibid:2172000464548": 33,
+      "gas:candidate-vibid:2172000465305": 994,
+      "gas:candidate-vibid:2172000465316": 55,
+      "gas:candidate-vibid:2172000464142": 67,
+      "gas:candidate-vibid:2172000463195": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 105,
-      "Маады Айбек Николаевич": 37,
-      "Монгуш Монгун-оол Сынааевич": 22,
-      "Ооржак Мерген Дадар-оолович": 614,
-      "Салчак Валерий Балай-оолович": 50,
-      "Серен-Хуурак Владимир Доржуевич": 46,
-      "Френт Игорь Алексеевич": 69
+      "gas:candidate-vibid:2172000465248": 105,
+      "gas:candidate-vibid:2172000464176": 37,
+      "gas:candidate-vibid:2172000464548": 22,
+      "gas:candidate-vibid:2172000465305": 614,
+      "gas:candidate-vibid:2172000465316": 50,
+      "gas:candidate-vibid:2172000464142": 46,
+      "gas:candidate-vibid:2172000463195": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 175,
-      "Маады Айбек Николаевич": 38,
-      "Монгуш Монгун-оол Сынааевич": 33,
-      "Ооржак Мерген Дадар-оолович": 591,
-      "Салчак Валерий Балай-оолович": 103,
-      "Серен-Хуурак Владимир Доржуевич": 64,
-      "Френт Игорь Алексеевич": 113
+      "gas:candidate-vibid:2172000465248": 175,
+      "gas:candidate-vibid:2172000464176": 38,
+      "gas:candidate-vibid:2172000464548": 33,
+      "gas:candidate-vibid:2172000465305": 591,
+      "gas:candidate-vibid:2172000465316": 103,
+      "gas:candidate-vibid:2172000464142": 64,
+      "gas:candidate-vibid:2172000463195": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 54,
-      "Маады Айбек Николаевич": 25,
-      "Монгуш Монгун-оол Сынааевич": 26,
-      "Ооржак Мерген Дадар-оолович": 1822,
-      "Салчак Валерий Балай-оолович": 43,
-      "Серен-Хуурак Владимир Доржуевич": 9,
-      "Френт Игорь Алексеевич": 19
+      "gas:candidate-vibid:2172000465248": 54,
+      "gas:candidate-vibid:2172000464176": 25,
+      "gas:candidate-vibid:2172000464548": 26,
+      "gas:candidate-vibid:2172000465305": 1822,
+      "gas:candidate-vibid:2172000465316": 43,
+      "gas:candidate-vibid:2172000464142": 9,
+      "gas:candidate-vibid:2172000463195": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 179,
-      "Маады Айбек Николаевич": 42,
-      "Монгуш Монгун-оол Сынааевич": 34,
-      "Ооржак Мерген Дадар-оолович": 683,
-      "Салчак Валерий Балай-оолович": 189,
-      "Серен-Хуурак Владимир Доржуевич": 89,
-      "Френт Игорь Алексеевич": 163
+      "gas:candidate-vibid:2172000465248": 179,
+      "gas:candidate-vibid:2172000464176": 42,
+      "gas:candidate-vibid:2172000464548": 34,
+      "gas:candidate-vibid:2172000465305": 683,
+      "gas:candidate-vibid:2172000465316": 189,
+      "gas:candidate-vibid:2172000464142": 89,
+      "gas:candidate-vibid:2172000463195": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 55,
-      "Маады Айбек Николаевич": 47,
-      "Монгуш Монгун-оол Сынааевич": 38,
-      "Ооржак Мерген Дадар-оолович": 1458,
-      "Салчак Валерий Балай-оолович": 95,
-      "Серен-Хуурак Владимир Доржуевич": 31,
-      "Френт Игорь Алексеевич": 48
+      "gas:candidate-vibid:2172000465248": 55,
+      "gas:candidate-vibid:2172000464176": 47,
+      "gas:candidate-vibid:2172000464548": 38,
+      "gas:candidate-vibid:2172000465305": 1458,
+      "gas:candidate-vibid:2172000465316": 95,
+      "gas:candidate-vibid:2172000464142": 31,
+      "gas:candidate-vibid:2172000463195": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 105,
-      "Маады Айбек Николаевич": 99,
-      "Монгуш Монгун-оол Сынааевич": 52,
-      "Ооржак Мерген Дадар-оолович": 880,
-      "Салчак Валерий Балай-оолович": 189,
-      "Серен-Хуурак Владимир Доржуевич": 206,
-      "Френт Игорь Алексеевич": 101
+      "gas:candidate-vibid:2172000465248": 105,
+      "gas:candidate-vibid:2172000464176": 99,
+      "gas:candidate-vibid:2172000464548": 52,
+      "gas:candidate-vibid:2172000465305": 880,
+      "gas:candidate-vibid:2172000465316": 189,
+      "gas:candidate-vibid:2172000464142": 206,
+      "gas:candidate-vibid:2172000463195": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 35,
-      "Маады Айбек Николаевич": 11,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 1360,
-      "Салчак Валерий Балай-оолович": 19,
-      "Серен-Хуурак Владимир Доржуевич": 31,
-      "Френт Игорь Алексеевич": 40
+      "gas:candidate-vibid:2172000465248": 35,
+      "gas:candidate-vibid:2172000464176": 11,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 1360,
+      "gas:candidate-vibid:2172000465316": 19,
+      "gas:candidate-vibid:2172000464142": 31,
+      "gas:candidate-vibid:2172000463195": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 59,
-      "Маады Айбек Николаевич": 27,
-      "Монгуш Монгун-оол Сынааевич": 15,
-      "Ооржак Мерген Дадар-оолович": 773,
-      "Салчак Валерий Балай-оолович": 31,
-      "Серен-Хуурак Владимир Доржуевич": 36,
-      "Френт Игорь Алексеевич": 90
+      "gas:candidate-vibid:2172000465248": 59,
+      "gas:candidate-vibid:2172000464176": 27,
+      "gas:candidate-vibid:2172000464548": 15,
+      "gas:candidate-vibid:2172000465305": 773,
+      "gas:candidate-vibid:2172000465316": 31,
+      "gas:candidate-vibid:2172000464142": 36,
+      "gas:candidate-vibid:2172000463195": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 175,
-      "Маады Айбек Николаевич": 43,
-      "Монгуш Монгун-оол Сынааевич": 53,
-      "Ооржак Мерген Дадар-оолович": 1567,
-      "Салчак Валерий Балай-оолович": 61,
-      "Серен-Хуурак Владимир Доржуевич": 76,
-      "Френт Игорь Алексеевич": 98
+      "gas:candidate-vibid:2172000465248": 175,
+      "gas:candidate-vibid:2172000464176": 43,
+      "gas:candidate-vibid:2172000464548": 53,
+      "gas:candidate-vibid:2172000465305": 1567,
+      "gas:candidate-vibid:2172000465316": 61,
+      "gas:candidate-vibid:2172000464142": 76,
+      "gas:candidate-vibid:2172000463195": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 93,
-      "Маады Айбек Николаевич": 3,
-      "Монгуш Монгун-оол Сынааевич": 9,
-      "Ооржак Мерген Дадар-оолович": 892,
-      "Салчак Валерий Балай-оолович": 8,
-      "Серен-Хуурак Владимир Доржуевич": 66,
-      "Френт Игорь Алексеевич": 39
+      "gas:candidate-vibid:2172000465248": 93,
+      "gas:candidate-vibid:2172000464176": 3,
+      "gas:candidate-vibid:2172000464548": 9,
+      "gas:candidate-vibid:2172000465305": 892,
+      "gas:candidate-vibid:2172000465316": 8,
+      "gas:candidate-vibid:2172000464142": 66,
+      "gas:candidate-vibid:2172000463195": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 188,
-      "Маады Айбек Николаевич": 45,
-      "Монгуш Монгун-оол Сынааевич": 43,
-      "Ооржак Мерген Дадар-оолович": 778,
-      "Салчак Валерий Балай-оолович": 85,
-      "Серен-Хуурак Владимир Доржуевич": 68,
-      "Френт Игорь Алексеевич": 107
+      "gas:candidate-vibid:2172000465248": 188,
+      "gas:candidate-vibid:2172000464176": 45,
+      "gas:candidate-vibid:2172000464548": 43,
+      "gas:candidate-vibid:2172000465305": 778,
+      "gas:candidate-vibid:2172000465316": 85,
+      "gas:candidate-vibid:2172000464142": 68,
+      "gas:candidate-vibid:2172000463195": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 109,
-      "Маады Айбек Николаевич": 48,
-      "Монгуш Монгун-оол Сынааевич": 20,
-      "Ооржак Мерген Дадар-оолович": 266,
-      "Салчак Валерий Балай-оолович": 37,
-      "Серен-Хуурак Владимир Доржуевич": 57,
-      "Френт Игорь Алексеевич": 111
+      "gas:candidate-vibid:2172000465248": 109,
+      "gas:candidate-vibid:2172000464176": 48,
+      "gas:candidate-vibid:2172000464548": 20,
+      "gas:candidate-vibid:2172000465305": 266,
+      "gas:candidate-vibid:2172000465316": 37,
+      "gas:candidate-vibid:2172000464142": 57,
+      "gas:candidate-vibid:2172000463195": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 298,
-      "Маады Айбек Николаевич": 46,
-      "Монгуш Монгун-оол Сынааевич": 44,
-      "Ооржак Мерген Дадар-оолович": 719,
-      "Салчак Валерий Балай-оолович": 122,
-      "Серен-Хуурак Владимир Доржуевич": 284,
-      "Френт Игорь Алексеевич": 188
+      "gas:candidate-vibid:2172000465248": 298,
+      "gas:candidate-vibid:2172000464176": 46,
+      "gas:candidate-vibid:2172000464548": 44,
+      "gas:candidate-vibid:2172000465305": 719,
+      "gas:candidate-vibid:2172000465316": 122,
+      "gas:candidate-vibid:2172000464142": 284,
+      "gas:candidate-vibid:2172000463195": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 209,
-      "Маады Айбек Николаевич": 56,
-      "Монгуш Монгун-оол Сынааевич": 50,
-      "Ооржак Мерген Дадар-оолович": 702,
-      "Салчак Валерий Балай-оолович": 93,
-      "Серен-Хуурак Владимир Доржуевич": 107,
-      "Френт Игорь Алексеевич": 134
+      "gas:candidate-vibid:2172000465248": 209,
+      "gas:candidate-vibid:2172000464176": 56,
+      "gas:candidate-vibid:2172000464548": 50,
+      "gas:candidate-vibid:2172000465305": 702,
+      "gas:candidate-vibid:2172000465316": 93,
+      "gas:candidate-vibid:2172000464142": 107,
+      "gas:candidate-vibid:2172000463195": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 118,
-      "Маады Айбек Николаевич": 43,
-      "Монгуш Монгун-оол Сынааевич": 28,
-      "Ооржак Мерген Дадар-оолович": 621,
-      "Салчак Валерий Балай-оолович": 65,
-      "Серен-Хуурак Владимир Доржуевич": 83,
-      "Френт Игорь Алексеевич": 56
+      "gas:candidate-vibid:2172000465248": 118,
+      "gas:candidate-vibid:2172000464176": 43,
+      "gas:candidate-vibid:2172000464548": 28,
+      "gas:candidate-vibid:2172000465305": 621,
+      "gas:candidate-vibid:2172000465316": 65,
+      "gas:candidate-vibid:2172000464142": 83,
+      "gas:candidate-vibid:2172000463195": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 61,
-      "Маады Айбек Николаевич": 48,
-      "Монгуш Монгун-оол Сынааевич": 43,
-      "Ооржак Мерген Дадар-оолович": 766,
-      "Салчак Валерий Балай-оолович": 63,
-      "Серен-Хуурак Владимир Доржуевич": 69,
-      "Френт Игорь Алексеевич": 63
+      "gas:candidate-vibid:2172000465248": 61,
+      "gas:candidate-vibid:2172000464176": 48,
+      "gas:candidate-vibid:2172000464548": 43,
+      "gas:candidate-vibid:2172000465305": 766,
+      "gas:candidate-vibid:2172000465316": 63,
+      "gas:candidate-vibid:2172000464142": 69,
+      "gas:candidate-vibid:2172000463195": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 157,
-      "Маады Айбек Николаевич": 29,
-      "Монгуш Монгун-оол Сынааевич": 29,
-      "Ооржак Мерген Дадар-оолович": 927,
-      "Салчак Валерий Балай-оолович": 81,
-      "Серен-Хуурак Владимир Доржуевич": 86,
-      "Френт Игорь Алексеевич": 152
+      "gas:candidate-vibid:2172000465248": 157,
+      "gas:candidate-vibid:2172000464176": 29,
+      "gas:candidate-vibid:2172000464548": 29,
+      "gas:candidate-vibid:2172000465305": 927,
+      "gas:candidate-vibid:2172000465316": 81,
+      "gas:candidate-vibid:2172000464142": 86,
+      "gas:candidate-vibid:2172000463195": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 137,
-      "Маады Айбек Николаевич": 42,
-      "Монгуш Монгун-оол Сынааевич": 30,
-      "Ооржак Мерген Дадар-оолович": 443,
-      "Салчак Валерий Балай-оолович": 94,
-      "Серен-Хуурак Владимир Доржуевич": 72,
-      "Френт Игорь Алексеевич": 138
+      "gas:candidate-vibid:2172000465248": 137,
+      "gas:candidate-vibid:2172000464176": 42,
+      "gas:candidate-vibid:2172000464548": 30,
+      "gas:candidate-vibid:2172000465305": 443,
+      "gas:candidate-vibid:2172000465316": 94,
+      "gas:candidate-vibid:2172000464142": 72,
+      "gas:candidate-vibid:2172000463195": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 91,
-      "Маады Айбек Николаевич": 33,
-      "Монгуш Монгун-оол Сынааевич": 25,
-      "Ооржак Мерген Дадар-оолович": 709,
-      "Салчак Валерий Балай-оолович": 100,
-      "Серен-Хуурак Владимир Доржуевич": 76,
-      "Френт Игорь Алексеевич": 106
+      "gas:candidate-vibid:2172000465248": 91,
+      "gas:candidate-vibid:2172000464176": 33,
+      "gas:candidate-vibid:2172000464548": 25,
+      "gas:candidate-vibid:2172000465305": 709,
+      "gas:candidate-vibid:2172000465316": 100,
+      "gas:candidate-vibid:2172000464142": 76,
+      "gas:candidate-vibid:2172000463195": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 133,
-      "Маады Айбек Николаевич": 17,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 958,
-      "Салчак Валерий Балай-оолович": 20,
-      "Серен-Хуурак Владимир Доржуевич": 68,
-      "Френт Игорь Алексеевич": 224
+      "gas:candidate-vibid:2172000465248": 133,
+      "gas:candidate-vibid:2172000464176": 17,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 958,
+      "gas:candidate-vibid:2172000465316": 20,
+      "gas:candidate-vibid:2172000464142": 68,
+      "gas:candidate-vibid:2172000463195": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 144,
-      "Маады Айбек Николаевич": 63,
-      "Монгуш Монгун-оол Сынааевич": 6,
-      "Ооржак Мерген Дадар-оолович": 1001,
-      "Салчак Валерий Балай-оолович": 18,
-      "Серен-Хуурак Владимир Доржуевич": 73,
-      "Френт Игорь Алексеевич": 23
+      "gas:candidate-vibid:2172000465248": 144,
+      "gas:candidate-vibid:2172000464176": 63,
+      "gas:candidate-vibid:2172000464548": 6,
+      "gas:candidate-vibid:2172000465305": 1001,
+      "gas:candidate-vibid:2172000465316": 18,
+      "gas:candidate-vibid:2172000464142": 73,
+      "gas:candidate-vibid:2172000463195": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 95,
-      "Маады Айбек Николаевич": 32,
-      "Монгуш Монгун-оол Сынааевич": 195,
-      "Ооржак Мерген Дадар-оолович": 718,
-      "Салчак Валерий Балай-оолович": 71,
-      "Серен-Хуурак Владимир Доржуевич": 14,
-      "Френт Игорь Алексеевич": 64
+      "gas:candidate-vibid:2172000465248": 95,
+      "gas:candidate-vibid:2172000464176": 32,
+      "gas:candidate-vibid:2172000464548": 195,
+      "gas:candidate-vibid:2172000465305": 718,
+      "gas:candidate-vibid:2172000465316": 71,
+      "gas:candidate-vibid:2172000464142": 14,
+      "gas:candidate-vibid:2172000463195": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458194&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458194&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 1,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 696,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 1,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 696,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 2,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 347,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 1
+      "gas:candidate-vibid:2172000465248": 2,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 347,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 412,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 412,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 7,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 5,
-      "Ооржак Мерген Дадар-оолович": 1992,
-      "Салчак Валерий Балай-оолович": 12,
-      "Серен-Хуурак Владимир Доржуевич": 22,
-      "Френт Игорь Алексеевич": 3
+      "gas:candidate-vibid:2172000465248": 7,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 5,
+      "gas:candidate-vibid:2172000465305": 1992,
+      "gas:candidate-vibid:2172000465316": 12,
+      "gas:candidate-vibid:2172000464142": 22,
+      "gas:candidate-vibid:2172000463195": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 1,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 489,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 1,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 1,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 489,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 1,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 331,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 331,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_17_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анай-Оол Мерген Кыргысович": 0,
-      "Маады Айбек Николаевич": 0,
-      "Монгуш Монгун-оол Сынааевич": 0,
-      "Ооржак Мерген Дадар-оолович": 601,
-      "Салчак Валерий Балай-оолович": 0,
-      "Серен-Хуурак Владимир Доржуевич": 0,
-      "Френт Игорь Алексеевич": 0
+      "gas:candidate-vibid:2172000465248": 0,
+      "gas:candidate-vibid:2172000464176": 0,
+      "gas:candidate-vibid:2172000464548": 0,
+      "gas:candidate-vibid:2172000465305": 601,
+      "gas:candidate-vibid:2172000465316": 0,
+      "gas:candidate-vibid:2172000464142": 0,
+      "gas:candidate-vibid:2172000463195": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyva?action=show&root=1000046&tvd=2172000458195&vrn=100100067795849&region=17&global=&sub_region=17&prver=0&pronetvd=null&vibid=2172000458195&type=464",

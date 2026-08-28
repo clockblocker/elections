@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 206,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 206,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 220,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 220,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 272,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 272,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 97,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 97,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 384,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 384,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 145,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 145,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 140,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 1,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 140,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 1,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 183,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 183,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 272,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 6,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 272,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 6,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 238,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 238,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 159,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 1
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 159,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 159,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 159,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677767&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677767&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 282,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 282,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 119,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 119,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 294,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 1
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 294,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 36,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 7,
-      "Ефимов Виталий Борисович": 640,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 15
+      "gas:candidate-vibid:2132000745729": 36,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 7,
+      "gas:candidate-vibid:2132000742114": 640,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 20,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 801,
-      "Иванова Юлия Николаевна": 13,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 17,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 20,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 801,
+      "gas:candidate-vibid:2132000742836": 13,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 17,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 48,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 589,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 23,
-      "Сорокин Сергей Федорович": 8,
-      "Тюрин Евгений Павлович": 28
+      "gas:candidate-vibid:2132000745729": 48,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 589,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 23,
+      "gas:candidate-vibid:2132000746043": 8,
+      "gas:candidate-vibid:2132000708344": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 13,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 522,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 17,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 15
+      "gas:candidate-vibid:2132000745729": 13,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 522,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 17,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 242,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 18
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 242,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 17,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 695,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 26,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 19
+      "gas:candidate-vibid:2132000745729": 17,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 695,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 26,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 16,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 11,
-      "Ефимов Виталий Борисович": 596,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 12,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 6,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 16,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 11,
+      "gas:candidate-vibid:2132000742114": 596,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 12,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 6,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 316,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 316,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 301,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 301,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 13,
-      "Ефимов Виталий Борисович": 463,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 22,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 13,
+      "gas:candidate-vibid:2132000742114": 463,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 22,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 91,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 91,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 360,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 11,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 360,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 11,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 7,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 165,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 7,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 165,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 88,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 1
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 88,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 634,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 32,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 634,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 32,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 315,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 11,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 315,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 11,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 342,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 342,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 674,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 21,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 20
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 674,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 21,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 181,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 181,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 384,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 384,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 305,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 305,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 343,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 12,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 343,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 12,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 316,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 316,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 291,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 13,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 291,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 13,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 258,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 258,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 126,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 126,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 184,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 184,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 74,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 74,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 197,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 197,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 7,
-      "Ефимов Виталий Борисович": 408,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 7,
+      "gas:candidate-vibid:2132000742114": 408,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 236,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 14
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 236,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 182,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 182,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 109,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 109,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 126,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 126,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677768&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677768&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 21,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 950,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 38,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 25
+      "gas:candidate-vibid:2132000745729": 21,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 950,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 38,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 58,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 1003,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 25,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 41
+      "gas:candidate-vibid:2132000745729": 58,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 1003,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 25,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 41,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 1172,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 82,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 66
+      "gas:candidate-vibid:2132000745729": 41,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 1172,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 82,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 287,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 287,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 218,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 218,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 79,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 79,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 300,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 7,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 300,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 7,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 486,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 486,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 221,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 221,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 372,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 372,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 134,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 134,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 158,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 158,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 129,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 129,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 70,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 1,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 70,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 1,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677769&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677769&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 181,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 181,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 163,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 163,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 323,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 13,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 11
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 323,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 13,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 97,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 97,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 178,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 178,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 390,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 390,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 266,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 266,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 11,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 889,
-      "Иванова Юлия Николаевна": 8,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 41,
-      "Сорокин Сергей Федорович": 17,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 11,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 889,
+      "gas:candidate-vibid:2132000742836": 8,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 41,
+      "gas:candidate-vibid:2132000746043": 17,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 159,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 159,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 7,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 487,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 7,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 487,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 106,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 106,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 174,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 174,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 362,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 12,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 362,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 12,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 500,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 17,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 16
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 500,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 17,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 21,
-      "Гридин Владимир Евгеньевич": 10,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 498,
-      "Иванова Юлия Николаевна": 16,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 27,
-      "Сорокин Сергей Федорович": 14,
-      "Тюрин Евгений Павлович": 64
+      "gas:candidate-vibid:2132000745729": 21,
+      "gas:candidate-vibid:2132000740965": 10,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 498,
+      "gas:candidate-vibid:2132000742836": 16,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 27,
+      "gas:candidate-vibid:2132000746043": 14,
+      "gas:candidate-vibid:2132000708344": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 16,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 963,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 48,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 20
+      "gas:candidate-vibid:2132000745729": 16,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 963,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 48,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 127,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 127,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 424,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 12,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 13
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 424,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 12,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 313,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 313,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 7,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 336,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 6,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 7,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 7,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 336,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 6,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 7,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 169,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 169,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 126,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 126,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 252,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 252,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 299,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 299,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 147,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 147,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 28,
-      "Гридин Владимир Евгеньевич": 6,
-      "Ераносян Армен Эдикович": 17,
-      "Ефимов Виталий Борисович": 693,
-      "Иванова Юлия Николаевна": 8,
-      "Коннова Лариса Андреевна": 7,
-      "Кузякин Дмитрий Викторович": 32,
-      "Сорокин Сергей Федорович": 24,
-      "Тюрин Евгений Павлович": 33
+      "gas:candidate-vibid:2132000745729": 28,
+      "gas:candidate-vibid:2132000740965": 6,
+      "gas:candidate-vibid:2132000716634": 17,
+      "gas:candidate-vibid:2132000742114": 693,
+      "gas:candidate-vibid:2132000742836": 8,
+      "gas:candidate-vibid:2132000732668": 7,
+      "gas:candidate-vibid:2132000732657": 32,
+      "gas:candidate-vibid:2132000746043": 24,
+      "gas:candidate-vibid:2132000708344": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 296,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 296,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 122,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 122,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 94,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 1
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 94,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 153,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 1
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 153,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 315,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 315,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 339,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 339,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 452,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 7,
-      "Кузякин Дмитрий Викторович": 11,
-      "Сорокин Сергей Федорович": 13,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 452,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 7,
+      "gas:candidate-vibid:2132000732657": 11,
+      "gas:candidate-vibid:2132000746043": 13,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 143,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 143,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 192,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 192,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 278,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 11,
-      "Кузякин Дмитрий Викторович": 18,
-      "Сорокин Сергей Федорович": 21,
-      "Тюрин Евгений Павлович": 29
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 278,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 11,
+      "gas:candidate-vibid:2132000732657": 18,
+      "gas:candidate-vibid:2132000746043": 21,
+      "gas:candidate-vibid:2132000708344": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 135,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 135,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 247,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 247,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 18,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 829,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 27,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 27,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 18,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 829,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 27,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 27,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 205,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 205,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 309,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 309,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 570,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 570,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 5,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 974,
-      "Иванова Юлия Николаевна": 9,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 11,
-      "Сорокин Сергей Федорович": 8,
-      "Тюрин Евгений Павлович": 25
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 5,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 974,
+      "gas:candidate-vibid:2132000742836": 9,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 11,
+      "gas:candidate-vibid:2132000746043": 8,
+      "gas:candidate-vibid:2132000708344": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 21,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 511,
-      "Иванова Юлия Николаевна": 8,
-      "Коннова Лариса Андреевна": 6,
-      "Кузякин Дмитрий Викторович": 20,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 31
+      "gas:candidate-vibid:2132000745729": 21,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 511,
+      "gas:candidate-vibid:2132000742836": 8,
+      "gas:candidate-vibid:2132000732668": 6,
+      "gas:candidate-vibid:2132000732657": 20,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 640,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 34,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 23
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 640,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 34,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 664,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 23,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 21
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 664,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 23,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 43,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 1201,
-      "Иванова Юлия Николаевна": 18,
-      "Коннова Лариса Андреевна": 20,
-      "Кузякин Дмитрий Викторович": 101,
-      "Сорокин Сергей Федорович": 27,
-      "Тюрин Евгений Павлович": 84
+      "gas:candidate-vibid:2132000745729": 43,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 1201,
+      "gas:candidate-vibid:2132000742836": 18,
+      "gas:candidate-vibid:2132000732668": 20,
+      "gas:candidate-vibid:2132000732657": 101,
+      "gas:candidate-vibid:2132000746043": 27,
+      "gas:candidate-vibid:2132000708344": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 24,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 1569,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 6,
-      "Кузякин Дмитрий Викторович": 49,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 45
+      "gas:candidate-vibid:2132000745729": 24,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 1569,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 6,
+      "gas:candidate-vibid:2132000732657": 49,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 17,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 1487,
-      "Иванова Юлия Николаевна": 10,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 40,
-      "Сорокин Сергей Федорович": 15,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 17,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 1487,
+      "gas:candidate-vibid:2132000742836": 10,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 40,
+      "gas:candidate-vibid:2132000746043": 15,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 56,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 1549,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 34,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 32
+      "gas:candidate-vibid:2132000745729": 56,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 1549,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 34,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 8,
-      "Ераносян Армен Эдикович": 23,
-      "Ефимов Виталий Борисович": 1486,
-      "Иванова Юлия Николаевна": 21,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 113,
-      "Тюрин Евгений Павлович": 15
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 8,
+      "gas:candidate-vibid:2132000716634": 23,
+      "gas:candidate-vibid:2132000742114": 1486,
+      "gas:candidate-vibid:2132000742836": 21,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 113,
+      "gas:candidate-vibid:2132000708344": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 66,
-      "Гридин Владимир Евгеньевич": 11,
-      "Ераносян Армен Эдикович": 17,
-      "Ефимов Виталий Борисович": 1270,
-      "Иванова Юлия Николаевна": 20,
-      "Коннова Лариса Андреевна": 20,
-      "Кузякин Дмитрий Викторович": 48,
-      "Сорокин Сергей Федорович": 27,
-      "Тюрин Евгений Павлович": 17
+      "gas:candidate-vibid:2132000745729": 66,
+      "gas:candidate-vibid:2132000740965": 11,
+      "gas:candidate-vibid:2132000716634": 17,
+      "gas:candidate-vibid:2132000742114": 1270,
+      "gas:candidate-vibid:2132000742836": 20,
+      "gas:candidate-vibid:2132000732668": 20,
+      "gas:candidate-vibid:2132000732657": 48,
+      "gas:candidate-vibid:2132000746043": 27,
+      "gas:candidate-vibid:2132000708344": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 637,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 21,
-      "Сорокин Сергей Федорович": 6,
-      "Тюрин Евгений Павлович": 20
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 637,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 21,
+      "gas:candidate-vibid:2132000746043": 6,
+      "gas:candidate-vibid:2132000708344": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 10,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 558,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 13,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 11
+      "gas:candidate-vibid:2132000745729": 10,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 558,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 13,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 201,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 201,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677770&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677770&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 112,
-      "Гридин Владимир Евгеньевич": 22,
-      "Ераносян Армен Эдикович": 15,
-      "Ефимов Виталий Борисович": 1685,
-      "Иванова Юлия Николаевна": 9,
-      "Коннова Лариса Андреевна": 10,
-      "Кузякин Дмитрий Викторович": 209,
-      "Сорокин Сергей Федорович": 16,
-      "Тюрин Евгений Павлович": 15
+      "gas:candidate-vibid:2132000745729": 112,
+      "gas:candidate-vibid:2132000740965": 22,
+      "gas:candidate-vibid:2132000716634": 15,
+      "gas:candidate-vibid:2132000742114": 1685,
+      "gas:candidate-vibid:2132000742836": 9,
+      "gas:candidate-vibid:2132000732668": 10,
+      "gas:candidate-vibid:2132000732657": 209,
+      "gas:candidate-vibid:2132000746043": 16,
+      "gas:candidate-vibid:2132000708344": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 34,
-      "Гридин Владимир Евгеньевич": 8,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 312,
-      "Иванова Юлия Николаевна": 16,
-      "Коннова Лариса Андреевна": 10,
-      "Кузякин Дмитрий Викторович": 25,
-      "Сорокин Сергей Федорович": 11,
-      "Тюрин Евгений Павлович": 39
+      "gas:candidate-vibid:2132000745729": 34,
+      "gas:candidate-vibid:2132000740965": 8,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 312,
+      "gas:candidate-vibid:2132000742836": 16,
+      "gas:candidate-vibid:2132000732668": 10,
+      "gas:candidate-vibid:2132000732657": 25,
+      "gas:candidate-vibid:2132000746043": 11,
+      "gas:candidate-vibid:2132000708344": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 155,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 155,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 197,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 13,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 197,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 13,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 123,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 123,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 301,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 23,
-      "Сорокин Сергей Федорович": 8,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 301,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 23,
+      "gas:candidate-vibid:2132000746043": 8,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 272,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 14,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 272,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 14,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 179,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 179,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 10,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 7,
-      "Ефимов Виталий Борисович": 261,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 10,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 7,
+      "gas:candidate-vibid:2132000742114": 261,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 19,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 339,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 20,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 23
+      "gas:candidate-vibid:2132000745729": 19,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 339,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 20,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 10,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 6,
-      "Ефимов Виталий Борисович": 671,
-      "Иванова Юлия Николаевна": 10,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 14,
-      "Сорокин Сергей Федорович": 8,
-      "Тюрин Евгений Павлович": 24
+      "gas:candidate-vibid:2132000745729": 10,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 6,
+      "gas:candidate-vibid:2132000742114": 671,
+      "gas:candidate-vibid:2132000742836": 10,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 14,
+      "gas:candidate-vibid:2132000746043": 8,
+      "gas:candidate-vibid:2132000708344": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 10,
-      "Гридин Владимир Евгеньевич": 5,
-      "Ераносян Армен Эдикович": 10,
-      "Ефимов Виталий Борисович": 916,
-      "Иванова Юлия Николаевна": 23,
-      "Коннова Лариса Андреевна": 13,
-      "Кузякин Дмитрий Викторович": 15,
-      "Сорокин Сергей Федорович": 10,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 10,
+      "gas:candidate-vibid:2132000740965": 5,
+      "gas:candidate-vibid:2132000716634": 10,
+      "gas:candidate-vibid:2132000742114": 916,
+      "gas:candidate-vibid:2132000742836": 23,
+      "gas:candidate-vibid:2132000732668": 13,
+      "gas:candidate-vibid:2132000732657": 15,
+      "gas:candidate-vibid:2132000746043": 10,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 11,
-      "Ефимов Виталий Борисович": 265,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 16,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 16
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 11,
+      "gas:candidate-vibid:2132000742114": 265,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 16,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 14,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 13,
-      "Ефимов Виталий Борисович": 307,
-      "Иванова Юлия Николаевна": 8,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 15,
-      "Сорокин Сергей Федорович": 9,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 14,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 13,
+      "gas:candidate-vibid:2132000742114": 307,
+      "gas:candidate-vibid:2132000742836": 8,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 15,
+      "gas:candidate-vibid:2132000746043": 9,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677771&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677771&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 822,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 53,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 19
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 822,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 53,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 117,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 117,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 23,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 845,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 30,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 23,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 845,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 30,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 6,
-      "Ефимов Виталий Борисович": 345,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 6,
+      "gas:candidate-vibid:2132000742114": 345,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 7,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 935,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 7,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 7,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 935,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 7,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 871,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 17
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 871,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 29,
-      "Гридин Владимир Евгеньевич": 9,
-      "Ераносян Армен Эдикович": 29,
-      "Ефимов Виталий Борисович": 492,
-      "Иванова Юлия Николаевна": 28,
-      "Коннова Лариса Андреевна": 8,
-      "Кузякин Дмитрий Викторович": 59,
-      "Сорокин Сергей Федорович": 18,
-      "Тюрин Евгений Павлович": 52
+      "gas:candidate-vibid:2132000745729": 29,
+      "gas:candidate-vibid:2132000740965": 9,
+      "gas:candidate-vibid:2132000716634": 29,
+      "gas:candidate-vibid:2132000742114": 492,
+      "gas:candidate-vibid:2132000742836": 28,
+      "gas:candidate-vibid:2132000732668": 8,
+      "gas:candidate-vibid:2132000732657": 59,
+      "gas:candidate-vibid:2132000746043": 18,
+      "gas:candidate-vibid:2132000708344": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 428,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 25
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 428,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 13,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 775,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 23,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 30
+      "gas:candidate-vibid:2132000745729": 13,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 775,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 23,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 407,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 407,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 521,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 521,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 8,
-      "Ефимов Виталий Борисович": 320,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 15
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 8,
+      "gas:candidate-vibid:2132000742114": 320,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 590,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 590,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 8,
-      "Ефимов Виталий Борисович": 504,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 16,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 8,
+      "gas:candidate-vibid:2132000742114": 504,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 16,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 300,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 300,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 8,
-      "Ефимов Виталий Борисович": 437,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 8,
+      "gas:candidate-vibid:2132000742114": 437,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 284,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 284,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 6,
-      "Ефимов Виталий Борисович": 424,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 6,
+      "gas:candidate-vibid:2132000742114": 424,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 15,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 344,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 5,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 15,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 344,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 5,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 21,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 684,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 17,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 22
+      "gas:candidate-vibid:2132000745729": 21,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 684,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 17,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 402,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 402,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 20,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 326,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 19
+      "gas:candidate-vibid:2132000745729": 20,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 326,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 326,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 6
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 326,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 7,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 970,
-      "Иванова Юлия Николаевна": 15,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 12,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 7,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 970,
+      "gas:candidate-vibid:2132000742836": 15,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 12,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 587,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 15,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 19
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 587,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 15,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 11,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 528,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 11,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 11,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 528,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 11,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 375,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 375,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 609,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 609,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 281,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 21
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 281,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 78,
-      "Гридин Владимир Евгеньевич": 7,
-      "Ераносян Армен Эдикович": 28,
-      "Ефимов Виталий Борисович": 269,
-      "Иванова Юлия Николаевна": 22,
-      "Коннова Лариса Андреевна": 10,
-      "Кузякин Дмитрий Викторович": 36,
-      "Сорокин Сергей Федорович": 13,
-      "Тюрин Евгений Павлович": 44
+      "gas:candidate-vibid:2132000745729": 78,
+      "gas:candidate-vibid:2132000740965": 7,
+      "gas:candidate-vibid:2132000716634": 28,
+      "gas:candidate-vibid:2132000742114": 269,
+      "gas:candidate-vibid:2132000742836": 22,
+      "gas:candidate-vibid:2132000732668": 10,
+      "gas:candidate-vibid:2132000732657": 36,
+      "gas:candidate-vibid:2132000746043": 13,
+      "gas:candidate-vibid:2132000708344": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 352,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 16,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 352,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 16,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 257,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 12,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 257,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 12,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677772&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677772&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 173,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 173,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 163,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 163,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 30,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 12,
-      "Ефимов Виталий Борисович": 975,
-      "Иванова Юлия Николаевна": 10,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 14,
-      "Сорокин Сергей Федорович": 9,
-      "Тюрин Евгений Павлович": 11
+      "gas:candidate-vibid:2132000745729": 30,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 12,
+      "gas:candidate-vibid:2132000742114": 975,
+      "gas:candidate-vibid:2132000742836": 10,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 14,
+      "gas:candidate-vibid:2132000746043": 9,
+      "gas:candidate-vibid:2132000708344": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 181,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 1,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 181,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 1,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 22,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 1124,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 82
+      "gas:candidate-vibid:2132000745729": 22,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 1124,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 6,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 1441,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 48,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 54
+      "gas:candidate-vibid:2132000745729": 6,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 1441,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 48,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 1289,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 85,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 19
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 1289,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 85,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 11,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 814,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 21,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 20
+      "gas:candidate-vibid:2132000745729": 11,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 814,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 21,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 10,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 772,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 39,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 31
+      "gas:candidate-vibid:2132000745729": 10,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 772,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 39,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 185,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 185,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 146,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 1
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 146,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 282,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 282,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 279,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 15,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 279,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 15,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 124,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 1,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 124,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 1,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 15,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 1130,
-      "Иванова Юлия Николаевна": 20,
-      "Коннова Лариса Андреевна": 30,
-      "Кузякин Дмитрий Викторович": 20,
-      "Сорокин Сергей Федорович": 10,
-      "Тюрин Евгений Павлович": 20
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 15,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 1130,
+      "gas:candidate-vibid:2132000742836": 20,
+      "gas:candidate-vibid:2132000732668": 30,
+      "gas:candidate-vibid:2132000732657": 20,
+      "gas:candidate-vibid:2132000746043": 10,
+      "gas:candidate-vibid:2132000708344": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 41,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 6,
-      "Ефимов Виталий Борисович": 1231,
-      "Иванова Юлия Николаевна": 13,
-      "Коннова Лариса Андреевна": 8,
-      "Кузякин Дмитрий Викторович": 44,
-      "Сорокин Сергей Федорович": 6,
-      "Тюрин Евгений Павлович": 41
+      "gas:candidate-vibid:2132000745729": 41,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 6,
+      "gas:candidate-vibid:2132000742114": 1231,
+      "gas:candidate-vibid:2132000742836": 13,
+      "gas:candidate-vibid:2132000732668": 8,
+      "gas:candidate-vibid:2132000732657": 44,
+      "gas:candidate-vibid:2132000746043": 6,
+      "gas:candidate-vibid:2132000708344": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 292,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 292,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 460,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 15,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 23
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 460,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 15,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 5,
-      "Ефимов Виталий Борисович": 368,
-      "Иванова Юлия Николаевна": 7,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 5,
+      "gas:candidate-vibid:2132000742114": 368,
+      "gas:candidate-vibid:2132000742836": 7,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 12,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 676,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 37,
-      "Сорокин Сергей Федорович": 10,
-      "Тюрин Евгений Павлович": 7
+      "gas:candidate-vibid:2132000745729": 12,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 676,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 37,
+      "gas:candidate-vibid:2132000746043": 10,
+      "gas:candidate-vibid:2132000708344": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 26,
-      "Гридин Владимир Евгеньевич": 5,
-      "Ераносян Армен Эдикович": 19,
-      "Ефимов Виталий Борисович": 1070,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 14,
-      "Кузякин Дмитрий Викторович": 24,
-      "Сорокин Сергей Федорович": 11,
-      "Тюрин Евгений Павлович": 29
+      "gas:candidate-vibid:2132000745729": 26,
+      "gas:candidate-vibid:2132000740965": 5,
+      "gas:candidate-vibid:2132000716634": 19,
+      "gas:candidate-vibid:2132000742114": 1070,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 14,
+      "gas:candidate-vibid:2132000732657": 24,
+      "gas:candidate-vibid:2132000746043": 11,
+      "gas:candidate-vibid:2132000708344": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 584,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 584,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 25,
-      "Гридин Владимир Евгеньевич": 32,
-      "Ераносян Армен Эдикович": 13,
-      "Ефимов Виталий Борисович": 1355,
-      "Иванова Юлия Николаевна": 25,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 14,
-      "Тюрин Евгений Павлович": 47
+      "gas:candidate-vibid:2132000745729": 25,
+      "gas:candidate-vibid:2132000740965": 32,
+      "gas:candidate-vibid:2132000716634": 13,
+      "gas:candidate-vibid:2132000742114": 1355,
+      "gas:candidate-vibid:2132000742836": 25,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 14,
+      "gas:candidate-vibid:2132000708344": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 60,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 730,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 30
+      "gas:candidate-vibid:2132000745729": 60,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 730,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 379,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 20,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 379,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 20,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 544,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 29,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 13
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 544,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 29,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 13,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 7,
-      "Ефимов Виталий Борисович": 364,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 25,
-      "Сорокин Сергей Федорович": 7,
-      "Тюрин Евгений Павлович": 19
+      "gas:candidate-vibid:2132000745729": 13,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 7,
+      "gas:candidate-vibid:2132000742114": 364,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 25,
+      "gas:candidate-vibid:2132000746043": 7,
+      "gas:candidate-vibid:2132000708344": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 176,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 176,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 6,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 583,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 8,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 6,
-      "Тюрин Евгений Павлович": 9
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 6,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 583,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 8,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 6,
+      "gas:candidate-vibid:2132000708344": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 8,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 810,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 25,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 16
+      "gas:candidate-vibid:2132000745729": 8,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 810,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 25,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 8,
-      "Ефимов Виталий Борисович": 323,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 8,
+      "gas:candidate-vibid:2132000742114": 323,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 645,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 35,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 22
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 645,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 35,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 175,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 175,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 260,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 2,
-      "Тюрин Евгений Павлович": 14
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 260,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 2,
+      "gas:candidate-vibid:2132000708344": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 20,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 416,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 20,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 416,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 10,
-      "Ефимов Виталий Борисович": 558,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 12
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 10,
+      "gas:candidate-vibid:2132000742114": 558,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 65,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 65,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677773&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677773&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 13,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 16,
-      "Ефимов Виталий Борисович": 534,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 39,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 48
+      "gas:candidate-vibid:2132000745729": 13,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 16,
+      "gas:candidate-vibid:2132000742114": 534,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 39,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 30,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 11,
-      "Ефимов Виталий Борисович": 476,
-      "Иванова Юлия Николаевна": 13,
-      "Коннова Лариса Андреевна": 15,
-      "Кузякин Дмитрий Викторович": 32,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 78
+      "gas:candidate-vibid:2132000745729": 30,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 11,
+      "gas:candidate-vibid:2132000742114": 476,
+      "gas:candidate-vibid:2132000742836": 13,
+      "gas:candidate-vibid:2132000732668": 15,
+      "gas:candidate-vibid:2132000732657": 32,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 13,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 522,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 19,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 48
+      "gas:candidate-vibid:2132000745729": 13,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 522,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 19,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 60,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 60,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 27,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 12,
-      "Ефимов Виталий Борисович": 321,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 51,
-      "Сорокин Сергей Федорович": 7,
-      "Тюрин Евгений Павлович": 68
+      "gas:candidate-vibid:2132000745729": 27,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 12,
+      "gas:candidate-vibid:2132000742114": 321,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 51,
+      "gas:candidate-vibid:2132000746043": 7,
+      "gas:candidate-vibid:2132000708344": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 39,
-      "Гридин Владимир Евгеньевич": 5,
-      "Ераносян Армен Эдикович": 16,
-      "Ефимов Виталий Борисович": 282,
-      "Иванова Юлия Николаевна": 17,
-      "Коннова Лариса Андреевна": 8,
-      "Кузякин Дмитрий Викторович": 45,
-      "Сорокин Сергей Федорович": 10,
-      "Тюрин Евгений Павлович": 82
+      "gas:candidate-vibid:2132000745729": 39,
+      "gas:candidate-vibid:2132000740965": 5,
+      "gas:candidate-vibid:2132000716634": 16,
+      "gas:candidate-vibid:2132000742114": 282,
+      "gas:candidate-vibid:2132000742836": 17,
+      "gas:candidate-vibid:2132000732668": 8,
+      "gas:candidate-vibid:2132000732657": 45,
+      "gas:candidate-vibid:2132000746043": 10,
+      "gas:candidate-vibid:2132000708344": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 27,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 20,
-      "Ефимов Виталий Борисович": 583,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 16,
-      "Сорокин Сергей Федорович": 4,
-      "Тюрин Евгений Павлович": 39
+      "gas:candidate-vibid:2132000745729": 27,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 20,
+      "gas:candidate-vibid:2132000742114": 583,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 16,
+      "gas:candidate-vibid:2132000746043": 4,
+      "gas:candidate-vibid:2132000708344": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 15,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 1146,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 52,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 135
+      "gas:candidate-vibid:2132000745729": 15,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 1146,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 52,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 23,
-      "Гридин Владимир Евгеньевич": 5,
-      "Ераносян Армен Эдикович": 11,
-      "Ефимов Виталий Борисович": 1116,
-      "Иванова Юлия Николаевна": 6,
-      "Коннова Лариса Андреевна": 8,
-      "Кузякин Дмитрий Викторович": 73,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 108
+      "gas:candidate-vibid:2132000745729": 23,
+      "gas:candidate-vibid:2132000740965": 5,
+      "gas:candidate-vibid:2132000716634": 11,
+      "gas:candidate-vibid:2132000742114": 1116,
+      "gas:candidate-vibid:2132000742836": 6,
+      "gas:candidate-vibid:2132000732668": 8,
+      "gas:candidate-vibid:2132000732657": 73,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 277,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 277,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 389,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 389,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 113,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 113,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 423,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 9,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 423,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 9,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 9,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 1,
-      "Ефимов Виталий Борисович": 288,
-      "Иванова Юлия Николаевна": 2,
-      "Коннова Лариса Андреевна": 4,
-      "Кузякин Дмитрий Викторович": 1,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 2
+      "gas:candidate-vibid:2132000745729": 9,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 1,
+      "gas:candidate-vibid:2132000742114": 288,
+      "gas:candidate-vibid:2132000742836": 2,
+      "gas:candidate-vibid:2132000732668": 4,
+      "gas:candidate-vibid:2132000732657": 1,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 36,
-      "Гридин Владимир Евгеньевич": 10,
-      "Ераносян Армен Эдикович": 22,
-      "Ефимов Виталий Борисович": 1356,
-      "Иванова Юлия Николаевна": 15,
-      "Коннова Лариса Андреевна": 7,
-      "Кузякин Дмитрий Викторович": 53,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 17
+      "gas:candidate-vibid:2132000745729": 36,
+      "gas:candidate-vibid:2132000740965": 10,
+      "gas:candidate-vibid:2132000716634": 22,
+      "gas:candidate-vibid:2132000742114": 1356,
+      "gas:candidate-vibid:2132000742836": 15,
+      "gas:candidate-vibid:2132000732668": 7,
+      "gas:candidate-vibid:2132000732657": 53,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 152,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 152,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 16,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 218,
-      "Иванова Юлия Николаевна": 3,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 12,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 13
+      "gas:candidate-vibid:2132000745729": 16,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 218,
+      "gas:candidate-vibid:2132000742836": 3,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 12,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 4,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 2,
-      "Ефимов Виталий Борисович": 261,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 3,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 4,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 2,
+      "gas:candidate-vibid:2132000742114": 261,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 3,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 11,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 134,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 21
+      "gas:candidate-vibid:2132000745729": 11,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 134,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 5,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 92,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 6,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 5,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 92,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 6,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 14,
-      "Гридин Владимир Евгеньевич": 6,
-      "Ераносян Армен Эдикович": 7,
-      "Ефимов Виталий Борисович": 132,
-      "Иванова Юлия Николаевна": 8,
-      "Коннова Лариса Андреевна": 3,
-      "Кузякин Дмитрий Викторович": 27,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 35
+      "gas:candidate-vibid:2132000745729": 14,
+      "gas:candidate-vibid:2132000740965": 6,
+      "gas:candidate-vibid:2132000716634": 7,
+      "gas:candidate-vibid:2132000742114": 132,
+      "gas:candidate-vibid:2132000742836": 8,
+      "gas:candidate-vibid:2132000732668": 3,
+      "gas:candidate-vibid:2132000732657": 27,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 162,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 3
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 162,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 1,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 173,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 4,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 1,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 173,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 4,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 110,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 0,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 8
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 110,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 0,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 198,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 198,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 4,
-      "Ефимов Виталий Борисович": 308,
-      "Иванова Юлия Николаевна": 4,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 7,
-      "Сорокин Сергей Федорович": 5,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 4,
+      "gas:candidate-vibid:2132000742114": 308,
+      "gas:candidate-vibid:2132000742836": 4,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 7,
+      "gas:candidate-vibid:2132000746043": 5,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 2,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 194,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 2,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 0
+      "gas:candidate-vibid:2132000745729": 2,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 194,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 2,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 3,
-      "Гридин Владимир Евгеньевич": 1,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 221,
-      "Иванова Юлия Николаевна": 5,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 11,
-      "Сорокин Сергей Федорович": 1,
-      "Тюрин Евгений Павлович": 4
+      "gas:candidate-vibid:2132000745729": 3,
+      "gas:candidate-vibid:2132000740965": 1,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 221,
+      "gas:candidate-vibid:2132000742836": 5,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 11,
+      "gas:candidate-vibid:2132000746043": 1,
+      "gas:candidate-vibid:2132000708344": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 0,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 0,
-      "Ефимов Виталий Борисович": 445,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 20,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 0,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 0,
+      "gas:candidate-vibid:2132000742114": 445,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 20,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 7,
-      "Ефимов Виталий Борисович": 419,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 1,
-      "Кузякин Дмитрий Викторович": 8,
-      "Сорокин Сергей Федорович": 6,
-      "Тюрин Евгений Павлович": 13
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 7,
+      "gas:candidate-vibid:2132000742114": 419,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 1,
+      "gas:candidate-vibid:2132000732657": 8,
+      "gas:candidate-vibid:2132000746043": 6,
+      "gas:candidate-vibid:2132000708344": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 7,
-      "Гридин Владимир Евгеньевич": 0,
-      "Ераносян Армен Эдикович": 3,
-      "Ефимов Виталий Борисович": 199,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 10,
-      "Сорокин Сергей Федорович": 0,
-      "Тюрин Евгений Павлович": 5
+      "gas:candidate-vibid:2132000745729": 7,
+      "gas:candidate-vibid:2132000740965": 0,
+      "gas:candidate-vibid:2132000716634": 3,
+      "gas:candidate-vibid:2132000742114": 199,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 10,
+      "gas:candidate-vibid:2132000746043": 0,
+      "gas:candidate-vibid:2132000708344": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677774&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677774&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 72,
-      "Гридин Владимир Евгеньевич": 21,
-      "Ераносян Армен Эдикович": 58,
-      "Ефимов Виталий Борисович": 272,
-      "Иванова Юлия Николаевна": 30,
-      "Коннова Лариса Андреевна": 18,
-      "Кузякин Дмитрий Викторович": 131,
-      "Сорокин Сергей Федорович": 26,
-      "Тюрин Евгений Павлович": 155
+      "gas:candidate-vibid:2132000745729": 72,
+      "gas:candidate-vibid:2132000740965": 21,
+      "gas:candidate-vibid:2132000716634": 58,
+      "gas:candidate-vibid:2132000742114": 272,
+      "gas:candidate-vibid:2132000742836": 30,
+      "gas:candidate-vibid:2132000732668": 18,
+      "gas:candidate-vibid:2132000732657": 131,
+      "gas:candidate-vibid:2132000746043": 26,
+      "gas:candidate-vibid:2132000708344": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 78,
-      "Гридин Владимир Евгеньевич": 18,
-      "Ераносян Армен Эдикович": 42,
-      "Ефимов Виталий Борисович": 344,
-      "Иванова Юлия Николаевна": 30,
-      "Коннова Лариса Андреевна": 13,
-      "Кузякин Дмитрий Викторович": 119,
-      "Сорокин Сергей Федорович": 40,
-      "Тюрин Евгений Павлович": 143
+      "gas:candidate-vibid:2132000745729": 78,
+      "gas:candidate-vibid:2132000740965": 18,
+      "gas:candidate-vibid:2132000716634": 42,
+      "gas:candidate-vibid:2132000742114": 344,
+      "gas:candidate-vibid:2132000742836": 30,
+      "gas:candidate-vibid:2132000732668": 13,
+      "gas:candidate-vibid:2132000732657": 119,
+      "gas:candidate-vibid:2132000746043": 40,
+      "gas:candidate-vibid:2132000708344": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 72,
-      "Гридин Владимир Евгеньевич": 15,
-      "Ераносян Армен Эдикович": 44,
-      "Ефимов Виталий Борисович": 245,
-      "Иванова Юлия Николаевна": 29,
-      "Коннова Лариса Андреевна": 16,
-      "Кузякин Дмитрий Викторович": 118,
-      "Сорокин Сергей Федорович": 42,
-      "Тюрин Евгений Павлович": 148
+      "gas:candidate-vibid:2132000745729": 72,
+      "gas:candidate-vibid:2132000740965": 15,
+      "gas:candidate-vibid:2132000716634": 44,
+      "gas:candidate-vibid:2132000742114": 245,
+      "gas:candidate-vibid:2132000742836": 29,
+      "gas:candidate-vibid:2132000732668": 16,
+      "gas:candidate-vibid:2132000732657": 118,
+      "gas:candidate-vibid:2132000746043": 42,
+      "gas:candidate-vibid:2132000708344": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 74,
-      "Гридин Владимир Евгеньевич": 15,
-      "Ераносян Армен Эдикович": 42,
-      "Ефимов Виталий Борисович": 245,
-      "Иванова Юлия Николаевна": 19,
-      "Коннова Лариса Андреевна": 11,
-      "Кузякин Дмитрий Викторович": 130,
-      "Сорокин Сергей Федорович": 31,
-      "Тюрин Евгений Павлович": 139
+      "gas:candidate-vibid:2132000745729": 74,
+      "gas:candidate-vibid:2132000740965": 15,
+      "gas:candidate-vibid:2132000716634": 42,
+      "gas:candidate-vibid:2132000742114": 245,
+      "gas:candidate-vibid:2132000742836": 19,
+      "gas:candidate-vibid:2132000732668": 11,
+      "gas:candidate-vibid:2132000732657": 130,
+      "gas:candidate-vibid:2132000746043": 31,
+      "gas:candidate-vibid:2132000708344": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 71,
-      "Гридин Владимир Евгеньевич": 31,
-      "Ераносян Армен Эдикович": 36,
-      "Ефимов Виталий Борисович": 335,
-      "Иванова Юлия Николаевна": 27,
-      "Коннова Лариса Андреевна": 18,
-      "Кузякин Дмитрий Викторович": 113,
-      "Сорокин Сергей Федорович": 33,
-      "Тюрин Евгений Павлович": 127
+      "gas:candidate-vibid:2132000745729": 71,
+      "gas:candidate-vibid:2132000740965": 31,
+      "gas:candidate-vibid:2132000716634": 36,
+      "gas:candidate-vibid:2132000742114": 335,
+      "gas:candidate-vibid:2132000742836": 27,
+      "gas:candidate-vibid:2132000732668": 18,
+      "gas:candidate-vibid:2132000732657": 113,
+      "gas:candidate-vibid:2132000746043": 33,
+      "gas:candidate-vibid:2132000708344": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 49,
-      "Гридин Владимир Евгеньевич": 9,
-      "Ераносян Армен Эдикович": 34,
-      "Ефимов Виталий Борисович": 219,
-      "Иванова Юлия Николаевна": 7,
-      "Коннова Лариса Андреевна": 9,
-      "Кузякин Дмитрий Викторович": 73,
-      "Сорокин Сергей Федорович": 19,
-      "Тюрин Евгений Павлович": 85
+      "gas:candidate-vibid:2132000745729": 49,
+      "gas:candidate-vibid:2132000740965": 9,
+      "gas:candidate-vibid:2132000716634": 34,
+      "gas:candidate-vibid:2132000742114": 219,
+      "gas:candidate-vibid:2132000742836": 7,
+      "gas:candidate-vibid:2132000732668": 9,
+      "gas:candidate-vibid:2132000732657": 73,
+      "gas:candidate-vibid:2132000746043": 19,
+      "gas:candidate-vibid:2132000708344": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 38,
-      "Гридин Владимир Евгеньевич": 5,
-      "Ераносян Армен Эдикович": 28,
-      "Ефимов Виталий Борисович": 817,
-      "Иванова Юлия Николаевна": 0,
-      "Коннова Лариса Андреевна": 15,
-      "Кузякин Дмитрий Викторович": 73,
-      "Сорокин Сергей Федорович": 27,
-      "Тюрин Евгений Павлович": 66
+      "gas:candidate-vibid:2132000745729": 38,
+      "gas:candidate-vibid:2132000740965": 5,
+      "gas:candidate-vibid:2132000716634": 28,
+      "gas:candidate-vibid:2132000742114": 817,
+      "gas:candidate-vibid:2132000742836": 0,
+      "gas:candidate-vibid:2132000732668": 15,
+      "gas:candidate-vibid:2132000732657": 73,
+      "gas:candidate-vibid:2132000746043": 27,
+      "gas:candidate-vibid:2132000708344": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 11,
-      "Гридин Владимир Евгеньевич": 9,
-      "Ераносян Армен Эдикович": 16,
-      "Ефимов Виталий Борисович": 812,
-      "Иванова Юлия Николаевна": 12,
-      "Коннова Лариса Андреевна": 6,
-      "Кузякин Дмитрий Викторович": 36,
-      "Сорокин Сергей Федорович": 17,
-      "Тюрин Евгений Павлович": 145
+      "gas:candidate-vibid:2132000745729": 11,
+      "gas:candidate-vibid:2132000740965": 9,
+      "gas:candidate-vibid:2132000716634": 16,
+      "gas:candidate-vibid:2132000742114": 812,
+      "gas:candidate-vibid:2132000742836": 12,
+      "gas:candidate-vibid:2132000732668": 6,
+      "gas:candidate-vibid:2132000732657": 36,
+      "gas:candidate-vibid:2132000746043": 17,
+      "gas:candidate-vibid:2132000708344": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 33,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 14,
-      "Ефимов Виталий Борисович": 422,
-      "Иванова Юлия Николаевна": 1,
-      "Коннова Лариса Андреевна": 0,
-      "Кузякин Дмитрий Викторович": 54,
-      "Сорокин Сергей Федорович": 14,
-      "Тюрин Евгений Павлович": 73
+      "gas:candidate-vibid:2132000745729": 33,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 14,
+      "gas:candidate-vibid:2132000742114": 422,
+      "gas:candidate-vibid:2132000742836": 1,
+      "gas:candidate-vibid:2132000732668": 0,
+      "gas:candidate-vibid:2132000732657": 54,
+      "gas:candidate-vibid:2132000746043": 14,
+      "gas:candidate-vibid:2132000708344": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 45,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 32,
-      "Ефимов Виталий Борисович": 139,
-      "Иванова Юлия Николаевна": 16,
-      "Коннова Лариса Андреевна": 8,
-      "Кузякин Дмитрий Викторович": 77,
-      "Сорокин Сергей Федорович": 26,
-      "Тюрин Евгений Павлович": 70
+      "gas:candidate-vibid:2132000745729": 45,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 32,
+      "gas:candidate-vibid:2132000742114": 139,
+      "gas:candidate-vibid:2132000742836": 16,
+      "gas:candidate-vibid:2132000732668": 8,
+      "gas:candidate-vibid:2132000732657": 77,
+      "gas:candidate-vibid:2132000746043": 26,
+      "gas:candidate-vibid:2132000708344": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 10,
-      "Гридин Владимир Евгеньевич": 12,
-      "Ераносян Армен Эдикович": 9,
-      "Ефимов Виталий Борисович": 1075,
-      "Иванова Юлия Николаевна": 7,
-      "Коннова Лариса Андреевна": 5,
-      "Кузякин Дмитрий Викторович": 38,
-      "Сорокин Сергей Федорович": 14,
-      "Тюрин Евгений Павлович": 10
+      "gas:candidate-vibid:2132000745729": 10,
+      "gas:candidate-vibid:2132000740965": 12,
+      "gas:candidate-vibid:2132000716634": 9,
+      "gas:candidate-vibid:2132000742114": 1075,
+      "gas:candidate-vibid:2132000742836": 7,
+      "gas:candidate-vibid:2132000732668": 5,
+      "gas:candidate-vibid:2132000732657": 38,
+      "gas:candidate-vibid:2132000746043": 14,
+      "gas:candidate-vibid:2132000708344": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 88,
-      "Гридин Владимир Евгеньевич": 18,
-      "Ераносян Армен Эдикович": 59,
-      "Ефимов Виталий Борисович": 355,
-      "Иванова Юлия Николаевна": 23,
-      "Коннова Лариса Андреевна": 20,
-      "Кузякин Дмитрий Викторович": 99,
-      "Сорокин Сергей Федорович": 40,
-      "Тюрин Евгений Павлович": 149
+      "gas:candidate-vibid:2132000745729": 88,
+      "gas:candidate-vibid:2132000740965": 18,
+      "gas:candidate-vibid:2132000716634": 59,
+      "gas:candidate-vibid:2132000742114": 355,
+      "gas:candidate-vibid:2132000742836": 23,
+      "gas:candidate-vibid:2132000732668": 20,
+      "gas:candidate-vibid:2132000732657": 99,
+      "gas:candidate-vibid:2132000746043": 40,
+      "gas:candidate-vibid:2132000708344": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 67,
-      "Гридин Владимир Евгеньевич": 4,
-      "Ераносян Армен Эдикович": 46,
-      "Ефимов Виталий Борисович": 202,
-      "Иванова Юлия Николаевна": 24,
-      "Коннова Лариса Андреевна": 17,
-      "Кузякин Дмитрий Викторович": 65,
-      "Сорокин Сергей Федорович": 26,
-      "Тюрин Евгений Павлович": 141
+      "gas:candidate-vibid:2132000745729": 67,
+      "gas:candidate-vibid:2132000740965": 4,
+      "gas:candidate-vibid:2132000716634": 46,
+      "gas:candidate-vibid:2132000742114": 202,
+      "gas:candidate-vibid:2132000742836": 24,
+      "gas:candidate-vibid:2132000732668": 17,
+      "gas:candidate-vibid:2132000732657": 65,
+      "gas:candidate-vibid:2132000746043": 26,
+      "gas:candidate-vibid:2132000708344": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 25,
-      "Гридин Владимир Евгеньевич": 2,
-      "Ераносян Армен Эдикович": 21,
-      "Ефимов Виталий Борисович": 77,
-      "Иванова Юлия Николаевна": 8,
-      "Коннова Лариса Андреевна": 6,
-      "Кузякин Дмитрий Викторович": 40,
-      "Сорокин Сергей Федорович": 7,
-      "Тюрин Евгений Павлович": 52
+      "gas:candidate-vibid:2132000745729": 25,
+      "gas:candidate-vibid:2132000740965": 2,
+      "gas:candidate-vibid:2132000716634": 21,
+      "gas:candidate-vibid:2132000742114": 77,
+      "gas:candidate-vibid:2132000742836": 8,
+      "gas:candidate-vibid:2132000732668": 6,
+      "gas:candidate-vibid:2132000732657": 40,
+      "gas:candidate-vibid:2132000746043": 7,
+      "gas:candidate-vibid:2132000708344": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 42,
-      "Гридин Владимир Евгеньевич": 6,
-      "Ераносян Армен Эдикович": 22,
-      "Ефимов Виталий Борисович": 117,
-      "Иванова Юлия Николаевна": 9,
-      "Коннова Лариса Андреевна": 2,
-      "Кузякин Дмитрий Викторович": 56,
-      "Сорокин Сергей Федорович": 24,
-      "Тюрин Евгений Павлович": 52
+      "gas:candidate-vibid:2132000745729": 42,
+      "gas:candidate-vibid:2132000740965": 6,
+      "gas:candidate-vibid:2132000716634": 22,
+      "gas:candidate-vibid:2132000742114": 117,
+      "gas:candidate-vibid:2132000742836": 9,
+      "gas:candidate-vibid:2132000732668": 2,
+      "gas:candidate-vibid:2132000732657": 56,
+      "gas:candidate-vibid:2132000746043": 24,
+      "gas:candidate-vibid:2132000708344": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 14,
-      "Гридин Владимир Евгеньевич": 3,
-      "Ераносян Армен Эдикович": 10,
-      "Ефимов Виталий Борисович": 223,
-      "Иванова Юлия Николаевна": 9,
-      "Коннова Лариса Андреевна": 7,
-      "Кузякин Дмитрий Викторович": 23,
-      "Сорокин Сергей Федорович": 3,
-      "Тюрин Евгений Павлович": 37
+      "gas:candidate-vibid:2132000745729": 14,
+      "gas:candidate-vibid:2132000740965": 3,
+      "gas:candidate-vibid:2132000716634": 10,
+      "gas:candidate-vibid:2132000742114": 223,
+      "gas:candidate-vibid:2132000742836": 9,
+      "gas:candidate-vibid:2132000732668": 7,
+      "gas:candidate-vibid:2132000732657": 23,
+      "gas:candidate-vibid:2132000746043": 3,
+      "gas:candidate-vibid:2132000708344": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 68,
-      "Гридин Владимир Евгеньевич": 13,
-      "Ераносян Армен Эдикович": 41,
-      "Ефимов Виталий Борисович": 319,
-      "Иванова Юлия Николаевна": 31,
-      "Коннова Лариса Андреевна": 25,
-      "Кузякин Дмитрий Викторович": 99,
-      "Сорокин Сергей Федорович": 35,
-      "Тюрин Евгений Павлович": 90
+      "gas:candidate-vibid:2132000745729": 68,
+      "gas:candidate-vibid:2132000740965": 13,
+      "gas:candidate-vibid:2132000716634": 41,
+      "gas:candidate-vibid:2132000742114": 319,
+      "gas:candidate-vibid:2132000742836": 31,
+      "gas:candidate-vibid:2132000732668": 25,
+      "gas:candidate-vibid:2132000732657": 99,
+      "gas:candidate-vibid:2132000746043": 35,
+      "gas:candidate-vibid:2132000708344": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_13_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гераськин Тимур Владимирович": 85,
-      "Гридин Владимир Евгеньевич": 11,
-      "Ераносян Армен Эдикович": 79,
-      "Ефимов Виталий Борисович": 304,
-      "Иванова Юлия Николаевна": 38,
-      "Коннова Лариса Андреевна": 21,
-      "Кузякин Дмитрий Викторович": 195,
-      "Сорокин Сергей Федорович": 42,
-      "Тюрин Евгений Павлович": 150
+      "gas:candidate-vibid:2132000745729": 85,
+      "gas:candidate-vibid:2132000740965": 11,
+      "gas:candidate-vibid:2132000716634": 79,
+      "gas:candidate-vibid:2132000742114": 304,
+      "gas:candidate-vibid:2132000742836": 38,
+      "gas:candidate-vibid:2132000732668": 21,
+      "gas:candidate-vibid:2132000732657": 195,
+      "gas:candidate-vibid:2132000746043": 42,
+      "gas:candidate-vibid:2132000708344": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mordov?action=show&root=1000033&tvd=2132000677775&vrn=100100067795849&region=13&global=&sub_region=13&prver=0&pronetvd=null&vibid=2132000677775&type=464",

@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 49,
-      "Гришуков Владимир Витальевич": 231,
-      "Плевако Сергей Михайлович": 54,
-      "Романенко Татьяна Гаврииловна": 25,
-      "Усольцев Василий Иванович": 344,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136026": 49,
+      "gas:candidate-vibid:1001000121822": 231,
+      "gas:candidate-vibid:1001000190318": 54,
+      "gas:candidate-vibid:1001000113912": 25,
+      "gas:candidate-vibid:1001000225920": 344,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 48,
-      "Гришуков Владимир Витальевич": 310,
-      "Плевако Сергей Михайлович": 65,
-      "Романенко Татьяна Гаврииловна": 28,
-      "Усольцев Василий Иванович": 277,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136026": 48,
+      "gas:candidate-vibid:1001000121822": 310,
+      "gas:candidate-vibid:1001000190318": 65,
+      "gas:candidate-vibid:1001000113912": 28,
+      "gas:candidate-vibid:1001000225920": 277,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 51,
-      "Гришуков Владимир Витальевич": 206,
-      "Плевако Сергей Михайлович": 37,
-      "Романенко Татьяна Гаврииловна": 50,
-      "Усольцев Василий Иванович": 264,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136026": 51,
+      "gas:candidate-vibid:1001000121822": 206,
+      "gas:candidate-vibid:1001000190318": 37,
+      "gas:candidate-vibid:1001000113912": 50,
+      "gas:candidate-vibid:1001000225920": 264,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 85,
-      "Гришуков Владимир Витальевич": 81,
-      "Плевако Сергей Михайлович": 26,
-      "Романенко Татьяна Гаврииловна": 37,
-      "Усольцев Василий Иванович": 211,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136026": 85,
+      "gas:candidate-vibid:1001000121822": 81,
+      "gas:candidate-vibid:1001000190318": 26,
+      "gas:candidate-vibid:1001000113912": 37,
+      "gas:candidate-vibid:1001000225920": 211,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 60,
-      "Гришуков Владимир Витальевич": 211,
-      "Плевако Сергей Михайлович": 49,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 327,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136026": 60,
+      "gas:candidate-vibid:1001000121822": 211,
+      "gas:candidate-vibid:1001000190318": 49,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 327,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 41,
-      "Гришуков Владимир Витальевич": 165,
-      "Плевако Сергей Михайлович": 23,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 251,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136026": 41,
+      "gas:candidate-vibid:1001000121822": 165,
+      "gas:candidate-vibid:1001000190318": 23,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 251,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 47,
-      "Гришуков Владимир Витальевич": 189,
-      "Плевако Сергей Михайлович": 35,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 226,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136026": 47,
+      "gas:candidate-vibid:1001000121822": 189,
+      "gas:candidate-vibid:1001000190318": 35,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 226,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 43,
-      "Гришуков Владимир Витальевич": 157,
-      "Плевако Сергей Михайлович": 33,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 187,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136026": 43,
+      "gas:candidate-vibid:1001000121822": 157,
+      "gas:candidate-vibid:1001000190318": 33,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 187,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 38,
-      "Гришуков Владимир Витальевич": 213,
-      "Плевако Сергей Михайлович": 16,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 163,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136026": 38,
+      "gas:candidate-vibid:1001000121822": 213,
+      "gas:candidate-vibid:1001000190318": 16,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 163,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 33,
-      "Гришуков Владимир Витальевич": 156,
-      "Плевако Сергей Михайлович": 28,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 250,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136026": 33,
+      "gas:candidate-vibid:1001000121822": 156,
+      "gas:candidate-vibid:1001000190318": 28,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 250,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 17,
-      "Гришуков Владимир Витальевич": 54,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 101,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136026": 17,
+      "gas:candidate-vibid:1001000121822": 54,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 101,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 35,
-      "Гришуков Владимир Витальевич": 115,
-      "Плевако Сергей Михайлович": 20,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 146,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136026": 35,
+      "gas:candidate-vibid:1001000121822": 115,
+      "gas:candidate-vibid:1001000190318": 20,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 146,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 77,
-      "Гришуков Владимир Витальевич": 311,
-      "Плевако Сергей Михайлович": 37,
-      "Романенко Татьяна Гаврииловна": 30,
-      "Усольцев Василий Иванович": 562,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136026": 77,
+      "gas:candidate-vibid:1001000121822": 311,
+      "gas:candidate-vibid:1001000190318": 37,
+      "gas:candidate-vibid:1001000113912": 30,
+      "gas:candidate-vibid:1001000225920": 562,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 71,
-      "Гришуков Владимир Витальевич": 249,
-      "Плевако Сергей Михайлович": 27,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 421,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136026": 71,
+      "gas:candidate-vibid:1001000121822": 249,
+      "gas:candidate-vibid:1001000190318": 27,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 421,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 185,
-      "Гришуков Владимир Витальевич": 144,
-      "Плевако Сергей Михайлович": 91,
-      "Романенко Татьяна Гаврииловна": 105,
-      "Усольцев Василий Иванович": 395,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000136026": 185,
+      "gas:candidate-vibid:1001000121822": 144,
+      "gas:candidate-vibid:1001000190318": 91,
+      "gas:candidate-vibid:1001000113912": 105,
+      "gas:candidate-vibid:1001000225920": 395,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 73,
-      "Гришуков Владимир Витальевич": 68,
-      "Плевако Сергей Михайлович": 27,
-      "Романенко Татьяна Гаврииловна": 31,
-      "Усольцев Василий Иванович": 491,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136026": 73,
+      "gas:candidate-vibid:1001000121822": 68,
+      "gas:candidate-vibid:1001000190318": 27,
+      "gas:candidate-vibid:1001000113912": 31,
+      "gas:candidate-vibid:1001000225920": 491,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 18,
-      "Гришуков Владимир Витальевич": 34,
-      "Плевако Сергей Михайлович": 21,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 187,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136026": 18,
+      "gas:candidate-vibid:1001000121822": 34,
+      "gas:candidate-vibid:1001000190318": 21,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 187,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 39,
-      "Гришуков Владимир Витальевич": 35,
-      "Плевако Сергей Михайлович": 30,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 243,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136026": 39,
+      "gas:candidate-vibid:1001000121822": 35,
+      "gas:candidate-vibid:1001000190318": 30,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 243,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 5,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 62,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 5,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 62,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 31,
-      "Гришуков Владимир Витальевич": 117,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 156,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136026": 31,
+      "gas:candidate-vibid:1001000121822": 117,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 156,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 7,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 26,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 7,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 26,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167191&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 62,
-      "Плевако Сергей Михайлович": 117,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 68,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 62,
+      "gas:candidate-vibid:1001000190318": 117,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 68,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 25,
-      "Гришуков Владимир Витальевич": 36,
-      "Плевако Сергей Михайлович": 19,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 46,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 25,
+      "gas:candidate-vibid:1001000121822": 36,
+      "gas:candidate-vibid:1001000190318": 19,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 46,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 29,
-      "Плевако Сергей Михайлович": 14,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 58,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 29,
+      "gas:candidate-vibid:1001000190318": 14,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 58,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 47,
-      "Плевако Сергей Михайлович": 39,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 92,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 47,
+      "gas:candidate-vibid:1001000190318": 39,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 92,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 10,
-      "Гришуков Владимир Витальевич": 14,
-      "Плевако Сергей Михайлович": 28,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 56,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136026": 10,
+      "gas:candidate-vibid:1001000121822": 14,
+      "gas:candidate-vibid:1001000190318": 28,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 56,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 40,
-      "Плевако Сергей Михайлович": 26,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 104,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 40,
+      "gas:candidate-vibid:1001000190318": 26,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 104,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 41,
-      "Гришуков Владимир Витальевич": 172,
-      "Плевако Сергей Михайлович": 197,
-      "Романенко Татьяна Гаврииловна": 29,
-      "Усольцев Василий Иванович": 338,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136026": 41,
+      "gas:candidate-vibid:1001000121822": 172,
+      "gas:candidate-vibid:1001000190318": 197,
+      "gas:candidate-vibid:1001000113912": 29,
+      "gas:candidate-vibid:1001000225920": 338,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 28,
-      "Гришуков Владимир Витальевич": 105,
-      "Плевако Сергей Михайлович": 67,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 161,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136026": 28,
+      "gas:candidate-vibid:1001000121822": 105,
+      "gas:candidate-vibid:1001000190318": 67,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 161,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 28,
-      "Гришуков Владимир Витальевич": 98,
-      "Плевако Сергей Михайлович": 107,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 202,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136026": 28,
+      "gas:candidate-vibid:1001000121822": 98,
+      "gas:candidate-vibid:1001000190318": 107,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 202,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 82,
-      "Гришуков Владимир Витальевич": 377,
-      "Плевако Сергей Михайлович": 389,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 344,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136026": 82,
+      "gas:candidate-vibid:1001000121822": 377,
+      "gas:candidate-vibid:1001000190318": 389,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 344,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 68,
-      "Гришуков Владимир Витальевич": 265,
-      "Плевако Сергей Михайлович": 273,
-      "Романенко Татьяна Гаврииловна": 25,
-      "Усольцев Василий Иванович": 297,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136026": 68,
+      "gas:candidate-vibid:1001000121822": 265,
+      "gas:candidate-vibid:1001000190318": 273,
+      "gas:candidate-vibid:1001000113912": 25,
+      "gas:candidate-vibid:1001000225920": 297,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 50,
-      "Гришуков Владимир Витальевич": 144,
-      "Плевако Сергей Михайлович": 179,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 261,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136026": 50,
+      "gas:candidate-vibid:1001000121822": 144,
+      "gas:candidate-vibid:1001000190318": 179,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 261,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 56,
-      "Гришуков Владимир Витальевич": 302,
-      "Плевако Сергей Михайлович": 358,
-      "Романенко Татьяна Гаврииловна": 26,
-      "Усольцев Василий Иванович": 286,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136026": 56,
+      "gas:candidate-vibid:1001000121822": 302,
+      "gas:candidate-vibid:1001000190318": 358,
+      "gas:candidate-vibid:1001000113912": 26,
+      "gas:candidate-vibid:1001000225920": 286,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 63,
-      "Гришуков Владимир Витальевич": 195,
-      "Плевако Сергей Михайлович": 230,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 256,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136026": 63,
+      "gas:candidate-vibid:1001000121822": 195,
+      "gas:candidate-vibid:1001000190318": 230,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 256,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 29,
-      "Гришуков Владимир Витальевич": 162,
-      "Плевако Сергей Михайлович": 120,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 231,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136026": 29,
+      "gas:candidate-vibid:1001000121822": 162,
+      "gas:candidate-vibid:1001000190318": 120,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 231,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 55,
-      "Гришуков Владимир Витальевич": 185,
-      "Плевако Сергей Михайлович": 137,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 238,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136026": 55,
+      "gas:candidate-vibid:1001000121822": 185,
+      "gas:candidate-vibid:1001000190318": 137,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 238,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 47,
-      "Гришуков Владимир Витальевич": 158,
-      "Плевако Сергей Михайлович": 220,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 342,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136026": 47,
+      "gas:candidate-vibid:1001000121822": 158,
+      "gas:candidate-vibid:1001000190318": 220,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 342,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 37,
-      "Гришуков Владимир Витальевич": 56,
-      "Плевако Сергей Михайлович": 62,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 146,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136026": 37,
+      "gas:candidate-vibid:1001000121822": 56,
+      "gas:candidate-vibid:1001000190318": 62,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 146,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 36,
-      "Гришуков Владимир Витальевич": 57,
-      "Плевако Сергей Михайлович": 90,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 156,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136026": 36,
+      "gas:candidate-vibid:1001000121822": 57,
+      "gas:candidate-vibid:1001000190318": 90,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 156,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 32,
-      "Гришуков Владимир Витальевич": 81,
-      "Плевако Сергей Михайлович": 98,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 123,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136026": 32,
+      "gas:candidate-vibid:1001000121822": 81,
+      "gas:candidate-vibid:1001000190318": 98,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 123,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 40,
-      "Гришуков Владимир Витальевич": 159,
-      "Плевако Сергей Михайлович": 244,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 186,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136026": 40,
+      "gas:candidate-vibid:1001000121822": 159,
+      "gas:candidate-vibid:1001000190318": 244,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 186,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 20,
-      "Плевако Сергей Михайлович": 22,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 35,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 20,
+      "gas:candidate-vibid:1001000190318": 22,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 35,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167192&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 40,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 167,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 40,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 167,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 13,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 110,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 13,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 110,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 11,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 143,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 11,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 143,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 5,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 43,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 5,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 43,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 0,
-      "Гришуков Владимир Витальевич": 5,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 28,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136026": 0,
+      "gas:candidate-vibid:1001000121822": 5,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 28,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 0,
-      "Гришуков Владимир Витальевич": 12,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 44,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136026": 0,
+      "gas:candidate-vibid:1001000121822": 12,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 44,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 10,
-      "Гришуков Владимир Витальевич": 10,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 139,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136026": 10,
+      "gas:candidate-vibid:1001000121822": 10,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 139,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 136,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 136,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 0,
-      "Гришуков Владимир Витальевич": 2,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 29,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 0,
+      "gas:candidate-vibid:1001000121822": 2,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 29,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 20,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 136,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 20,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 136,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 89,
-      "Гришуков Владимир Витальевич": 256,
-      "Плевако Сергей Михайлович": 138,
-      "Романенко Татьяна Гаврииловна": 47,
-      "Усольцев Василий Иванович": 752,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136026": 89,
+      "gas:candidate-vibid:1001000121822": 256,
+      "gas:candidate-vibid:1001000190318": 138,
+      "gas:candidate-vibid:1001000113912": 47,
+      "gas:candidate-vibid:1001000225920": 752,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 10,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 86,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 10,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 86,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 22,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 137,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 22,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 137,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 1,
-      "Гришуков Владимир Витальевич": 22,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 19,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136026": 1,
+      "gas:candidate-vibid:1001000121822": 22,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 19,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 38,
-      "Плевако Сергей Михайлович": 20,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 217,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 38,
+      "gas:candidate-vibid:1001000190318": 20,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 217,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 208,
-      "Гришуков Владимир Витальевич": 117,
-      "Плевако Сергей Михайлович": 108,
-      "Романенко Татьяна Гаврииловна": 43,
-      "Усольцев Василий Иванович": 782,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136026": 208,
+      "gas:candidate-vibid:1001000121822": 117,
+      "gas:candidate-vibid:1001000190318": 108,
+      "gas:candidate-vibid:1001000113912": 43,
+      "gas:candidate-vibid:1001000225920": 782,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 18,
-      "Гришуков Владимир Витальевич": 29,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 213,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136026": 18,
+      "gas:candidate-vibid:1001000121822": 29,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 213,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 40,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 78,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 40,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 78,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 26,
-      "Гришуков Владимир Витальевич": 97,
-      "Плевако Сергей Михайлович": 14,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 381,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136026": 26,
+      "gas:candidate-vibid:1001000121822": 97,
+      "gas:candidate-vibid:1001000190318": 14,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 381,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 5,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 27,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 5,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 27,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 15,
-      "Гришуков Владимир Витальевич": 21,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 23,
-      "Усольцев Василий Иванович": 206,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136026": 15,
+      "gas:candidate-vibid:1001000121822": 21,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 23,
+      "gas:candidate-vibid:1001000225920": 206,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 68,
-      "Гришуков Владимир Витальевич": 339,
-      "Плевако Сергей Михайлович": 30,
-      "Романенко Татьяна Гаврииловна": 60,
-      "Усольцев Василий Иванович": 728,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136026": 68,
+      "gas:candidate-vibid:1001000121822": 339,
+      "gas:candidate-vibid:1001000190318": 30,
+      "gas:candidate-vibid:1001000113912": 60,
+      "gas:candidate-vibid:1001000225920": 728,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 0,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 62,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 0,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 62,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 7,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 131,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 7,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 131,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167194&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 1,
-      "Гришуков Владимир Витальевич": 36,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 41,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136026": 1,
+      "gas:candidate-vibid:1001000121822": 36,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 41,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 34,
-      "Гришуков Владимир Витальевич": 189,
-      "Плевако Сергей Михайлович": 15,
-      "Романенко Татьяна Гаврииловна": 23,
-      "Усольцев Василий Иванович": 342,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136026": 34,
+      "gas:candidate-vibid:1001000121822": 189,
+      "gas:candidate-vibid:1001000190318": 15,
+      "gas:candidate-vibid:1001000113912": 23,
+      "gas:candidate-vibid:1001000225920": 342,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 17,
-      "Гришуков Владимир Витальевич": 148,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 116,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136026": 17,
+      "gas:candidate-vibid:1001000121822": 148,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 116,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 10,
-      "Гришуков Владимир Витальевич": 14,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 85,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136026": 10,
+      "gas:candidate-vibid:1001000121822": 14,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 85,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 29,
-      "Гришуков Владимир Витальевич": 167,
-      "Плевако Сергей Михайлович": 23,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 315,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136026": 29,
+      "gas:candidate-vibid:1001000121822": 167,
+      "gas:candidate-vibid:1001000190318": 23,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 315,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 18,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 86,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 18,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 86,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 19,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 19,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 19,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 19,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 39,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 36,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 39,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 36,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 59,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 109,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 59,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 109,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 113,
-      "Плевако Сергей Михайлович": 22,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 148,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 113,
+      "gas:candidate-vibid:1001000190318": 22,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 148,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 55,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 110,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 55,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 110,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 26,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 57,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 26,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 57,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 53,
-      "Гришуков Владимир Витальевич": 132,
-      "Плевако Сергей Михайлович": 22,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 286,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136026": 53,
+      "gas:candidate-vibid:1001000121822": 132,
+      "gas:candidate-vibid:1001000190318": 22,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 286,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 56,
-      "Гришуков Владимир Витальевич": 187,
-      "Плевако Сергей Михайлович": 72,
-      "Романенко Татьяна Гаврииловна": 49,
-      "Усольцев Василий Иванович": 258,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136026": 56,
+      "gas:candidate-vibid:1001000121822": 187,
+      "gas:candidate-vibid:1001000190318": 72,
+      "gas:candidate-vibid:1001000113912": 49,
+      "gas:candidate-vibid:1001000225920": 258,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 92,
-      "Гришуков Владимир Витальевич": 341,
-      "Плевако Сергей Михайлович": 126,
-      "Романенко Татьяна Гаврииловна": 74,
-      "Усольцев Василий Иванович": 408,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136026": 92,
+      "gas:candidate-vibid:1001000121822": 341,
+      "gas:candidate-vibid:1001000190318": 126,
+      "gas:candidate-vibid:1001000113912": 74,
+      "gas:candidate-vibid:1001000225920": 408,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 56,
-      "Гришуков Владимир Витальевич": 249,
-      "Плевако Сергей Михайлович": 86,
-      "Романенко Татьяна Гаврииловна": 58,
-      "Усольцев Василий Иванович": 387,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136026": 56,
+      "gas:candidate-vibid:1001000121822": 249,
+      "gas:candidate-vibid:1001000190318": 86,
+      "gas:candidate-vibid:1001000113912": 58,
+      "gas:candidate-vibid:1001000225920": 387,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 77,
-      "Гришуков Владимир Витальевич": 189,
-      "Плевако Сергей Михайлович": 67,
-      "Романенко Татьяна Гаврииловна": 75,
-      "Усольцев Василий Иванович": 379,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136026": 77,
+      "gas:candidate-vibid:1001000121822": 189,
+      "gas:candidate-vibid:1001000190318": 67,
+      "gas:candidate-vibid:1001000113912": 75,
+      "gas:candidate-vibid:1001000225920": 379,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 66,
-      "Гришуков Владимир Витальевич": 190,
-      "Плевако Сергей Михайлович": 74,
-      "Романенко Татьяна Гаврииловна": 47,
-      "Усольцев Василий Иванович": 312,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136026": 66,
+      "gas:candidate-vibid:1001000121822": 190,
+      "gas:candidate-vibid:1001000190318": 74,
+      "gas:candidate-vibid:1001000113912": 47,
+      "gas:candidate-vibid:1001000225920": 312,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 45,
-      "Гришуков Владимир Витальевич": 212,
-      "Плевако Сергей Михайлович": 71,
-      "Романенко Татьяна Гаврииловна": 55,
-      "Усольцев Василий Иванович": 311,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136026": 45,
+      "gas:candidate-vibid:1001000121822": 212,
+      "gas:candidate-vibid:1001000190318": 71,
+      "gas:candidate-vibid:1001000113912": 55,
+      "gas:candidate-vibid:1001000225920": 311,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 76,
-      "Гришуков Владимир Витальевич": 240,
-      "Плевако Сергей Михайлович": 107,
-      "Романенко Татьяна Гаврииловна": 55,
-      "Усольцев Василий Иванович": 426,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136026": 76,
+      "gas:candidate-vibid:1001000121822": 240,
+      "gas:candidate-vibid:1001000190318": 107,
+      "gas:candidate-vibid:1001000113912": 55,
+      "gas:candidate-vibid:1001000225920": 426,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 85,
-      "Гришуков Владимир Витальевич": 246,
-      "Плевако Сергей Михайлович": 100,
-      "Романенко Татьяна Гаврииловна": 75,
-      "Усольцев Василий Иванович": 360,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000136026": 85,
+      "gas:candidate-vibid:1001000121822": 246,
+      "gas:candidate-vibid:1001000190318": 100,
+      "gas:candidate-vibid:1001000113912": 75,
+      "gas:candidate-vibid:1001000225920": 360,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 24,
-      "Гришуков Владимир Витальевич": 162,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 372,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136026": 24,
+      "gas:candidate-vibid:1001000121822": 162,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 372,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 9,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 45,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 9,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 45,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 22,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 104,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 22,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 104,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 7,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 54,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 7,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 54,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 68,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 145,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 68,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 145,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167199&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 48,
-      "Гришуков Владимир Витальевич": 82,
-      "Плевако Сергей Михайлович": 23,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 306,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136026": 48,
+      "gas:candidate-vibid:1001000121822": 82,
+      "gas:candidate-vibid:1001000190318": 23,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 306,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 28,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 32,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 28,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 32,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 18,
-      "Гришуков Владимир Витальевич": 76,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 196,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136026": 18,
+      "gas:candidate-vibid:1001000121822": 76,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 196,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 21,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 93,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 21,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 93,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 58,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 244,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 58,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 244,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 73,
-      "Гришуков Владимир Витальевич": 65,
-      "Плевако Сергей Михайлович": 15,
-      "Романенко Татьяна Гаврииловна": 19,
-      "Усольцев Василий Иванович": 197,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136026": 73,
+      "gas:candidate-vibid:1001000121822": 65,
+      "gas:candidate-vibid:1001000190318": 15,
+      "gas:candidate-vibid:1001000113912": 19,
+      "gas:candidate-vibid:1001000225920": 197,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 18,
-      "Гришуков Владимир Витальевич": 32,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 151,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 18,
+      "gas:candidate-vibid:1001000121822": 32,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 151,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 68,
-      "Гришуков Владимир Витальевич": 58,
-      "Плевако Сергей Михайлович": 29,
-      "Романенко Татьяна Гаврииловна": 26,
-      "Усольцев Василий Иванович": 195,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136026": 68,
+      "gas:candidate-vibid:1001000121822": 58,
+      "gas:candidate-vibid:1001000190318": 29,
+      "gas:candidate-vibid:1001000113912": 26,
+      "gas:candidate-vibid:1001000225920": 195,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 39,
-      "Гришуков Владимир Витальевич": 66,
-      "Плевако Сергей Михайлович": 16,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 169,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136026": 39,
+      "gas:candidate-vibid:1001000121822": 66,
+      "gas:candidate-vibid:1001000190318": 16,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 169,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 19,
-      "Гришуков Владимир Витальевич": 54,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 168,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136026": 19,
+      "gas:candidate-vibid:1001000121822": 54,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 168,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 9,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 77,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 9,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 77,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 17,
-      "Гришуков Владимир Витальевич": 43,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 80,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136026": 17,
+      "gas:candidate-vibid:1001000121822": 43,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 80,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 31,
-      "Гришуков Владимир Витальевич": 26,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 225,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136026": 31,
+      "gas:candidate-vibid:1001000121822": 26,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 225,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 9,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 38,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 9,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 38,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 42,
-      "Гришуков Владимир Витальевич": 25,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 71,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136026": 42,
+      "gas:candidate-vibid:1001000121822": 25,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 71,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 21,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 55,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 21,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 55,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 36,
-      "Плевако Сергей Михайлович": 19,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 194,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 36,
+      "gas:candidate-vibid:1001000190318": 19,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 194,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 62,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 122,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 62,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 122,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 1,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 49,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 1,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 49,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 43,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 43,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 10,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 42,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 10,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 42,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 32,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 53,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 32,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 53,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 19,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 90,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 19,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 90,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 10,
-      "Гришуков Владимир Витальевич": 42,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 128,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136026": 10,
+      "gas:candidate-vibid:1001000121822": 42,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 128,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 24,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 137,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 24,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 137,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 36,
-      "Гришуков Владимир Витальевич": 82,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 298,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136026": 36,
+      "gas:candidate-vibid:1001000121822": 82,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 298,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 27,
-      "Гришуков Владимир Витальевич": 79,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 171,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136026": 27,
+      "gas:candidate-vibid:1001000121822": 79,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 171,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 58,
-      "Гришуков Владимир Витальевич": 180,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 283,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136026": 58,
+      "gas:candidate-vibid:1001000121822": 180,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 283,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 34,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 112,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 34,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 112,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 45,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 42,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 45,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 42,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 45,
-      "Гришуков Владимир Витальевич": 96,
-      "Плевако Сергей Михайлович": 42,
-      "Романенко Татьяна Гаврииловна": 28,
-      "Усольцев Василий Иванович": 228,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136026": 45,
+      "gas:candidate-vibid:1001000121822": 96,
+      "gas:candidate-vibid:1001000190318": 42,
+      "gas:candidate-vibid:1001000113912": 28,
+      "gas:candidate-vibid:1001000225920": 228,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 30,
-      "Гришуков Владимир Витальевич": 78,
-      "Плевако Сергей Михайлович": 27,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 219,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136026": 30,
+      "gas:candidate-vibid:1001000121822": 78,
+      "gas:candidate-vibid:1001000190318": 27,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 219,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 36,
-      "Гришуков Владимир Витальевич": 136,
-      "Плевако Сергей Михайлович": 35,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 253,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136026": 36,
+      "gas:candidate-vibid:1001000121822": 136,
+      "gas:candidate-vibid:1001000190318": 35,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 253,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 46,
-      "Гришуков Владимир Витальевич": 80,
-      "Плевако Сергей Михайлович": 35,
-      "Романенко Татьяна Гаврииловна": 18,
-      "Усольцев Василий Иванович": 198,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136026": 46,
+      "gas:candidate-vibid:1001000121822": 80,
+      "gas:candidate-vibid:1001000190318": 35,
+      "gas:candidate-vibid:1001000113912": 18,
+      "gas:candidate-vibid:1001000225920": 198,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 24,
-      "Гришуков Владимир Витальевич": 33,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 128,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136026": 24,
+      "gas:candidate-vibid:1001000121822": 33,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 128,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 19,
-      "Гришуков Владимир Витальевич": 17,
-      "Плевако Сергей Михайлович": 8,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 63,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136026": 19,
+      "gas:candidate-vibid:1001000121822": 17,
+      "gas:candidate-vibid:1001000190318": 8,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 63,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 15,
-      "Гришуков Владимир Витальевич": 24,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 51,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136026": 15,
+      "gas:candidate-vibid:1001000121822": 24,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 51,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 34,
-      "Гришуков Владимир Витальевич": 58,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 185,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136026": 34,
+      "gas:candidate-vibid:1001000121822": 58,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 185,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 39,
-      "Гришуков Владимир Витальевич": 154,
-      "Плевако Сергей Михайлович": 19,
-      "Романенко Татьяна Гаврииловна": 31,
-      "Усольцев Василий Иванович": 383,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136026": 39,
+      "gas:candidate-vibid:1001000121822": 154,
+      "gas:candidate-vibid:1001000190318": 19,
+      "gas:candidate-vibid:1001000113912": 31,
+      "gas:candidate-vibid:1001000225920": 383,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 45,
-      "Гришуков Владимир Витальевич": 143,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 301,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136026": 45,
+      "gas:candidate-vibid:1001000121822": 143,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 301,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167200&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 77,
-      "Гришуков Владимир Витальевич": 208,
-      "Плевако Сергей Михайлович": 82,
-      "Романенко Татьяна Гаврииловна": 59,
-      "Усольцев Василий Иванович": 302,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136026": 77,
+      "gas:candidate-vibid:1001000121822": 208,
+      "gas:candidate-vibid:1001000190318": 82,
+      "gas:candidate-vibid:1001000113912": 59,
+      "gas:candidate-vibid:1001000225920": 302,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 95,
-      "Гришуков Владимир Витальевич": 226,
-      "Плевако Сергей Михайлович": 140,
-      "Романенко Татьяна Гаврииловна": 64,
-      "Усольцев Василий Иванович": 434,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000136026": 95,
+      "gas:candidate-vibid:1001000121822": 226,
+      "gas:candidate-vibid:1001000190318": 140,
+      "gas:candidate-vibid:1001000113912": 64,
+      "gas:candidate-vibid:1001000225920": 434,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 65,
-      "Гришуков Владимир Витальевич": 204,
-      "Плевако Сергей Михайлович": 84,
-      "Романенко Татьяна Гаврииловна": 36,
-      "Усольцев Василий Иванович": 230,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136026": 65,
+      "gas:candidate-vibid:1001000121822": 204,
+      "gas:candidate-vibid:1001000190318": 84,
+      "gas:candidate-vibid:1001000113912": 36,
+      "gas:candidate-vibid:1001000225920": 230,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 95,
-      "Гришуков Владимир Витальевич": 207,
-      "Плевако Сергей Михайлович": 84,
-      "Романенко Татьяна Гаврииловна": 38,
-      "Усольцев Василий Иванович": 396,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136026": 95,
+      "gas:candidate-vibid:1001000121822": 207,
+      "gas:candidate-vibid:1001000190318": 84,
+      "gas:candidate-vibid:1001000113912": 38,
+      "gas:candidate-vibid:1001000225920": 396,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 55,
-      "Гришуков Владимир Витальевич": 80,
-      "Плевако Сергей Михайлович": 60,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 178,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136026": 55,
+      "gas:candidate-vibid:1001000121822": 80,
+      "gas:candidate-vibid:1001000190318": 60,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 178,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 85,
-      "Гришуков Владимир Витальевич": 146,
-      "Плевако Сергей Михайлович": 41,
-      "Романенко Татьяна Гаврииловна": 31,
-      "Усольцев Василий Иванович": 268,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136026": 85,
+      "gas:candidate-vibid:1001000121822": 146,
+      "gas:candidate-vibid:1001000190318": 41,
+      "gas:candidate-vibid:1001000113912": 31,
+      "gas:candidate-vibid:1001000225920": 268,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 150,
-      "Гришуков Владимир Витальевич": 128,
-      "Плевако Сергей Михайлович": 78,
-      "Романенко Татьяна Гаврииловна": 40,
-      "Усольцев Василий Иванович": 262,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136026": 150,
+      "gas:candidate-vibid:1001000121822": 128,
+      "gas:candidate-vibid:1001000190318": 78,
+      "gas:candidate-vibid:1001000113912": 40,
+      "gas:candidate-vibid:1001000225920": 262,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 51,
-      "Гришуков Владимир Витальевич": 66,
-      "Плевако Сергей Михайлович": 55,
-      "Романенко Татьяна Гаврииловна": 24,
-      "Усольцев Василий Иванович": 178,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000136026": 51,
+      "gas:candidate-vibid:1001000121822": 66,
+      "gas:candidate-vibid:1001000190318": 55,
+      "gas:candidate-vibid:1001000113912": 24,
+      "gas:candidate-vibid:1001000225920": 178,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 68,
-      "Гришуков Владимир Витальевич": 233,
-      "Плевако Сергей Михайлович": 120,
-      "Романенко Татьяна Гаврииловна": 47,
-      "Усольцев Василий Иванович": 295,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136026": 68,
+      "gas:candidate-vibid:1001000121822": 233,
+      "gas:candidate-vibid:1001000190318": 120,
+      "gas:candidate-vibid:1001000113912": 47,
+      "gas:candidate-vibid:1001000225920": 295,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 74,
-      "Гришуков Владимир Витальевич": 334,
-      "Плевако Сергей Михайлович": 109,
-      "Романенко Татьяна Гаврииловна": 48,
-      "Усольцев Василий Иванович": 383,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136026": 74,
+      "gas:candidate-vibid:1001000121822": 334,
+      "gas:candidate-vibid:1001000190318": 109,
+      "gas:candidate-vibid:1001000113912": 48,
+      "gas:candidate-vibid:1001000225920": 383,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 46,
-      "Гришуков Владимир Витальевич": 159,
-      "Плевако Сергей Михайлович": 74,
-      "Романенко Татьяна Гаврииловна": 44,
-      "Усольцев Василий Иванович": 189,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000136026": 46,
+      "gas:candidate-vibid:1001000121822": 159,
+      "gas:candidate-vibid:1001000190318": 74,
+      "gas:candidate-vibid:1001000113912": 44,
+      "gas:candidate-vibid:1001000225920": 189,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 29,
-      "Гришуков Владимир Витальевич": 47,
-      "Плевако Сергей Михайлович": 26,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 99,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136026": 29,
+      "gas:candidate-vibid:1001000121822": 47,
+      "gas:candidate-vibid:1001000190318": 26,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 99,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 23,
-      "Гришуков Владимир Витальевич": 46,
-      "Плевако Сергей Михайлович": 18,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 65,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 23,
+      "gas:candidate-vibid:1001000121822": 46,
+      "gas:candidate-vibid:1001000190318": 18,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 65,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 29,
-      "Гришуков Владимир Витальевич": 43,
-      "Плевако Сергей Михайлович": 22,
-      "Романенко Татьяна Гаврииловна": 18,
-      "Усольцев Василий Иванович": 106,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136026": 29,
+      "gas:candidate-vibid:1001000121822": 43,
+      "gas:candidate-vibid:1001000190318": 22,
+      "gas:candidate-vibid:1001000113912": 18,
+      "gas:candidate-vibid:1001000225920": 106,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 74,
-      "Гришуков Владимир Витальевич": 98,
-      "Плевако Сергей Михайлович": 70,
-      "Романенко Татьяна Гаврииловна": 36,
-      "Усольцев Василий Иванович": 162,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136026": 74,
+      "gas:candidate-vibid:1001000121822": 98,
+      "gas:candidate-vibid:1001000190318": 70,
+      "gas:candidate-vibid:1001000113912": 36,
+      "gas:candidate-vibid:1001000225920": 162,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 60,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 60,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 49,
-      "Гришуков Владимир Витальевич": 29,
-      "Плевако Сергей Михайлович": 18,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 139,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136026": 49,
+      "gas:candidate-vibid:1001000121822": 29,
+      "gas:candidate-vibid:1001000190318": 18,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 139,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 51,
-      "Плевако Сергей Михайлович": 21,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 103,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 51,
+      "gas:candidate-vibid:1001000190318": 21,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 103,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 28,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 13,
-      "Усольцев Василий Иванович": 58,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 28,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 13,
+      "gas:candidate-vibid:1001000225920": 58,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 47,
-      "Гришуков Владимир Витальевич": 83,
-      "Плевако Сергей Михайлович": 27,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 216,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136026": 47,
+      "gas:candidate-vibid:1001000121822": 83,
+      "gas:candidate-vibid:1001000190318": 27,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 216,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 33,
-      "Гришуков Владимир Витальевич": 95,
-      "Плевако Сергей Михайлович": 32,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 199,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136026": 33,
+      "gas:candidate-vibid:1001000121822": 95,
+      "gas:candidate-vibid:1001000190318": 32,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 199,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 99,
-      "Гришуков Владимир Витальевич": 101,
-      "Плевако Сергей Михайлович": 54,
-      "Романенко Татьяна Гаврииловна": 40,
-      "Усольцев Василий Иванович": 254,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136026": 99,
+      "gas:candidate-vibid:1001000121822": 101,
+      "gas:candidate-vibid:1001000190318": 54,
+      "gas:candidate-vibid:1001000113912": 40,
+      "gas:candidate-vibid:1001000225920": 254,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 72,
-      "Гришуков Владимир Витальевич": 208,
-      "Плевако Сергей Михайлович": 70,
-      "Романенко Татьяна Гаврииловна": 38,
-      "Усольцев Василий Иванович": 271,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136026": 72,
+      "gas:candidate-vibid:1001000121822": 208,
+      "gas:candidate-vibid:1001000190318": 70,
+      "gas:candidate-vibid:1001000113912": 38,
+      "gas:candidate-vibid:1001000225920": 271,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 50,
-      "Гришуков Владимир Витальевич": 246,
-      "Плевако Сергей Михайлович": 43,
-      "Романенко Татьяна Гаврииловна": 31,
-      "Усольцев Василий Иванович": 223,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136026": 50,
+      "gas:candidate-vibid:1001000121822": 246,
+      "gas:candidate-vibid:1001000190318": 43,
+      "gas:candidate-vibid:1001000113912": 31,
+      "gas:candidate-vibid:1001000225920": 223,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 63,
-      "Гришуков Владимир Витальевич": 308,
-      "Плевако Сергей Михайлович": 74,
-      "Романенко Татьяна Гаврииловна": 103,
-      "Усольцев Василий Иванович": 296,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136026": 63,
+      "gas:candidate-vibid:1001000121822": 308,
+      "gas:candidate-vibid:1001000190318": 74,
+      "gas:candidate-vibid:1001000113912": 103,
+      "gas:candidate-vibid:1001000225920": 296,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 30,
-      "Гришуков Владимир Витальевич": 128,
-      "Плевако Сергей Михайлович": 42,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 120,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136026": 30,
+      "gas:candidate-vibid:1001000121822": 128,
+      "gas:candidate-vibid:1001000190318": 42,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 120,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 89,
-      "Гришуков Владимир Витальевич": 269,
-      "Плевако Сергей Михайлович": 74,
-      "Романенко Татьяна Гаврииловна": 44,
-      "Усольцев Василий Иванович": 349,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136026": 89,
+      "gas:candidate-vibid:1001000121822": 269,
+      "gas:candidate-vibid:1001000190318": 74,
+      "gas:candidate-vibid:1001000113912": 44,
+      "gas:candidate-vibid:1001000225920": 349,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 76,
-      "Гришуков Владимир Витальевич": 244,
-      "Плевако Сергей Михайлович": 75,
-      "Романенко Татьяна Гаврииловна": 34,
-      "Усольцев Василий Иванович": 303,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136026": 76,
+      "gas:candidate-vibid:1001000121822": 244,
+      "gas:candidate-vibid:1001000190318": 75,
+      "gas:candidate-vibid:1001000113912": 34,
+      "gas:candidate-vibid:1001000225920": 303,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 30,
-      "Гришуков Владимир Витальевич": 54,
-      "Плевако Сергей Михайлович": 34,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 114,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136026": 30,
+      "gas:candidate-vibid:1001000121822": 54,
+      "gas:candidate-vibid:1001000190318": 34,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 114,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 73,
-      "Гришуков Владимир Витальевич": 61,
-      "Плевако Сергей Михайлович": 23,
-      "Романенко Татьяна Гаврииловна": 33,
-      "Усольцев Василий Иванович": 414,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136026": 73,
+      "gas:candidate-vibid:1001000121822": 61,
+      "gas:candidate-vibid:1001000190318": 23,
+      "gas:candidate-vibid:1001000113912": 33,
+      "gas:candidate-vibid:1001000225920": 414,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167201&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 11,
-      "Гришуков Владимир Витальевич": 26,
-      "Плевако Сергей Михайлович": 27,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 181,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136026": 11,
+      "gas:candidate-vibid:1001000121822": 26,
+      "gas:candidate-vibid:1001000190318": 27,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 181,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 24,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 115,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 24,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 115,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 42,
-      "Гришуков Владимир Витальевич": 39,
-      "Плевако Сергей Михайлович": 83,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 246,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136026": 42,
+      "gas:candidate-vibid:1001000121822": 39,
+      "gas:candidate-vibid:1001000190318": 83,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 246,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 26,
-      "Плевако Сергей Михайлович": 46,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 204,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 26,
+      "gas:candidate-vibid:1001000190318": 46,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 204,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 28,
-      "Гришуков Владимир Витальевич": 18,
-      "Плевако Сергей Михайлович": 29,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 182,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136026": 28,
+      "gas:candidate-vibid:1001000121822": 18,
+      "gas:candidate-vibid:1001000190318": 29,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 182,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 15,
-      "Гришуков Владимир Витальевич": 44,
-      "Плевако Сергей Михайлович": 45,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 179,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136026": 15,
+      "gas:candidate-vibid:1001000121822": 44,
+      "gas:candidate-vibid:1001000190318": 45,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 179,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 48,
-      "Плевако Сергей Михайлович": 53,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 283,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 48,
+      "gas:candidate-vibid:1001000190318": 53,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 283,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 24,
-      "Гришуков Владимир Витальевич": 77,
-      "Плевако Сергей Михайлович": 64,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 295,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136026": 24,
+      "gas:candidate-vibid:1001000121822": 77,
+      "gas:candidate-vibid:1001000190318": 64,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 295,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 86,
-      "Плевако Сергей Михайлович": 62,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 360,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 86,
+      "gas:candidate-vibid:1001000190318": 62,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 360,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 49,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 14,
-      "Усольцев Василий Иванович": 187,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 49,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 14,
+      "gas:candidate-vibid:1001000225920": 187,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 32,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 78,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 32,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 78,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 21,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 73,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 21,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 73,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 31,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 79,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 31,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 79,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 95,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 95,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 30,
-      "Плевако Сергей Михайлович": 16,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 145,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 30,
+      "gas:candidate-vibid:1001000190318": 16,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 145,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 132,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 132,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 1,
-      "Гришуков Владимир Витальевич": 14,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 35,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 1,
+      "gas:candidate-vibid:1001000121822": 14,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 35,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 2,
-      "Гришуков Владимир Витальевич": 3,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 39,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136026": 2,
+      "gas:candidate-vibid:1001000121822": 3,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 39,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167202&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 168,
-      "Гришуков Владимир Витальевич": 117,
-      "Плевако Сергей Михайлович": 213,
-      "Романенко Татьяна Гаврииловна": 87,
-      "Усольцев Василий Иванович": 292,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000136026": 168,
+      "gas:candidate-vibid:1001000121822": 117,
+      "gas:candidate-vibid:1001000190318": 213,
+      "gas:candidate-vibid:1001000113912": 87,
+      "gas:candidate-vibid:1001000225920": 292,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 80,
-      "Гришуков Владимир Витальевич": 130,
-      "Плевако Сергей Михайлович": 155,
-      "Романенко Татьяна Гаврииловна": 43,
-      "Усольцев Василий Иванович": 312,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136026": 80,
+      "gas:candidate-vibid:1001000121822": 130,
+      "gas:candidate-vibid:1001000190318": 155,
+      "gas:candidate-vibid:1001000113912": 43,
+      "gas:candidate-vibid:1001000225920": 312,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 118,
-      "Гришуков Владимир Витальевич": 254,
-      "Плевако Сергей Михайлович": 191,
-      "Романенко Татьяна Гаврииловна": 56,
-      "Усольцев Василий Иванович": 352,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136026": 118,
+      "gas:candidate-vibid:1001000121822": 254,
+      "gas:candidate-vibid:1001000190318": 191,
+      "gas:candidate-vibid:1001000113912": 56,
+      "gas:candidate-vibid:1001000225920": 352,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 101,
-      "Гришуков Владимир Витальевич": 174,
-      "Плевако Сергей Михайлович": 116,
-      "Романенко Татьяна Гаврииловна": 49,
-      "Усольцев Василий Иванович": 308,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136026": 101,
+      "gas:candidate-vibid:1001000121822": 174,
+      "gas:candidate-vibid:1001000190318": 116,
+      "gas:candidate-vibid:1001000113912": 49,
+      "gas:candidate-vibid:1001000225920": 308,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 81,
-      "Гришуков Владимир Витальевич": 201,
-      "Плевако Сергей Михайлович": 192,
-      "Романенко Татьяна Гаврииловна": 48,
-      "Усольцев Василий Иванович": 265,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136026": 81,
+      "gas:candidate-vibid:1001000121822": 201,
+      "gas:candidate-vibid:1001000190318": 192,
+      "gas:candidate-vibid:1001000113912": 48,
+      "gas:candidate-vibid:1001000225920": 265,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 87,
-      "Гришуков Владимир Витальевич": 154,
-      "Плевако Сергей Михайлович": 81,
-      "Романенко Татьяна Гаврииловна": 46,
-      "Усольцев Василий Иванович": 410,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136026": 87,
+      "gas:candidate-vibid:1001000121822": 154,
+      "gas:candidate-vibid:1001000190318": 81,
+      "gas:candidate-vibid:1001000113912": 46,
+      "gas:candidate-vibid:1001000225920": 410,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 12,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 43,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 12,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 43,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 70,
-      "Гришуков Владимир Витальевич": 89,
-      "Плевако Сергей Михайлович": 20,
-      "Романенко Татьяна Гаврииловна": 24,
-      "Усольцев Василий Иванович": 445,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136026": 70,
+      "gas:candidate-vibid:1001000121822": 89,
+      "gas:candidate-vibid:1001000190318": 20,
+      "gas:candidate-vibid:1001000113912": 24,
+      "gas:candidate-vibid:1001000225920": 445,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 15,
-      "Гришуков Владимир Витальевич": 17,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 204,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136026": 15,
+      "gas:candidate-vibid:1001000121822": 17,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 204,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 5,
-      "Гришуков Владимир Витальевич": 19,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 71,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136026": 5,
+      "gas:candidate-vibid:1001000121822": 19,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 71,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 33,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 214,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 33,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 214,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 28,
-      "Гришуков Владимир Витальевич": 33,
-      "Плевако Сергей Михайлович": 19,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 156,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136026": 28,
+      "gas:candidate-vibid:1001000121822": 33,
+      "gas:candidate-vibid:1001000190318": 19,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 156,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 60,
-      "Гришуков Владимир Витальевич": 39,
-      "Плевако Сергей Михайлович": 12,
-      "Романенко Татьяна Гаврииловна": 12,
-      "Усольцев Василий Иванович": 253,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136026": 60,
+      "gas:candidate-vibid:1001000121822": 39,
+      "gas:candidate-vibid:1001000190318": 12,
+      "gas:candidate-vibid:1001000113912": 12,
+      "gas:candidate-vibid:1001000225920": 253,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 69,
-      "Гришуков Владимир Витальевич": 229,
-      "Плевако Сергей Михайлович": 70,
-      "Романенко Татьяна Гаврииловна": 22,
-      "Усольцев Василий Иванович": 378,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136026": 69,
+      "gas:candidate-vibid:1001000121822": 229,
+      "gas:candidate-vibid:1001000190318": 70,
+      "gas:candidate-vibid:1001000113912": 22,
+      "gas:candidate-vibid:1001000225920": 378,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 11,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 21,
-      "Усольцев Василий Иванович": 83,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 11,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 21,
+      "gas:candidate-vibid:1001000225920": 83,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 23,
-      "Гришуков Владимир Витальевич": 33,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 208,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136026": 23,
+      "gas:candidate-vibid:1001000121822": 33,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 208,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 165,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 128,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 165,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 128,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 26,
-      "Гришуков Владимир Витальевич": 9,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 6,
-      "Усольцев Василий Иванович": 79,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136026": 26,
+      "gas:candidate-vibid:1001000121822": 9,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 6,
+      "gas:candidate-vibid:1001000225920": 79,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 16,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 9,
-      "Усольцев Василий Иванович": 34,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 16,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 9,
+      "gas:candidate-vibid:1001000225920": 34,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 49,
-      "Гришуков Владимир Витальевич": 68,
-      "Плевако Сергей Михайлович": 76,
-      "Романенко Татьяна Гаврииловна": 29,
-      "Усольцев Василий Иванович": 266,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136026": 49,
+      "gas:candidate-vibid:1001000121822": 68,
+      "gas:candidate-vibid:1001000190318": 76,
+      "gas:candidate-vibid:1001000113912": 29,
+      "gas:candidate-vibid:1001000225920": 266,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 85,
-      "Гришуков Владимир Витальевич": 140,
-      "Плевако Сергей Михайлович": 178,
-      "Романенко Татьяна Гаврииловна": 42,
-      "Усольцев Василий Иванович": 398,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136026": 85,
+      "gas:candidate-vibid:1001000121822": 140,
+      "gas:candidate-vibid:1001000190318": 178,
+      "gas:candidate-vibid:1001000113912": 42,
+      "gas:candidate-vibid:1001000225920": 398,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 107,
-      "Гришуков Владимир Витальевич": 209,
-      "Плевако Сергей Михайлович": 194,
-      "Романенко Татьяна Гаврииловна": 66,
-      "Усольцев Василий Иванович": 409,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136026": 107,
+      "gas:candidate-vibid:1001000121822": 209,
+      "gas:candidate-vibid:1001000190318": 194,
+      "gas:candidate-vibid:1001000113912": 66,
+      "gas:candidate-vibid:1001000225920": 409,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 27,
-      "Гришуков Владимир Витальевич": 58,
-      "Плевако Сергей Михайлович": 26,
-      "Романенко Татьяна Гаврииловна": 11,
-      "Усольцев Василий Иванович": 142,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 27,
+      "gas:candidate-vibid:1001000121822": 58,
+      "gas:candidate-vibid:1001000190318": 26,
+      "gas:candidate-vibid:1001000113912": 11,
+      "gas:candidate-vibid:1001000225920": 142,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 57,
-      "Гришуков Владимир Витальевич": 85,
-      "Плевако Сергей Михайлович": 55,
-      "Романенко Татьяна Гаврииловна": 35,
-      "Усольцев Василий Иванович": 351,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136026": 57,
+      "gas:candidate-vibid:1001000121822": 85,
+      "gas:candidate-vibid:1001000190318": 55,
+      "gas:candidate-vibid:1001000113912": 35,
+      "gas:candidate-vibid:1001000225920": 351,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 38,
-      "Гришуков Владимир Витальевич": 86,
-      "Плевако Сергей Михайлович": 41,
-      "Романенко Татьяна Гаврииловна": 22,
-      "Усольцев Василий Иванович": 403,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136026": 38,
+      "gas:candidate-vibid:1001000121822": 86,
+      "gas:candidate-vibid:1001000190318": 41,
+      "gas:candidate-vibid:1001000113912": 22,
+      "gas:candidate-vibid:1001000225920": 403,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 111,
-      "Гришуков Владимир Витальевич": 108,
-      "Плевако Сергей Михайлович": 78,
-      "Романенко Татьяна Гаврииловна": 53,
-      "Усольцев Василий Иванович": 296,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000136026": 111,
+      "gas:candidate-vibid:1001000121822": 108,
+      "gas:candidate-vibid:1001000190318": 78,
+      "gas:candidate-vibid:1001000113912": 53,
+      "gas:candidate-vibid:1001000225920": 296,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 18,
-      "Гришуков Владимир Витальевич": 45,
-      "Плевако Сергей Михайлович": 17,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 216,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136026": 18,
+      "gas:candidate-vibid:1001000121822": 45,
+      "gas:candidate-vibid:1001000190318": 17,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 216,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 5,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 137,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 5,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 137,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 10,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 204,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 10,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 204,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167203&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 95,
-      "Гришуков Владимир Витальевич": 265,
-      "Плевако Сергей Михайлович": 76,
-      "Романенко Татьяна Гаврииловна": 43,
-      "Усольцев Василий Иванович": 499,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136026": 95,
+      "gas:candidate-vibid:1001000121822": 265,
+      "gas:candidate-vibid:1001000190318": 76,
+      "gas:candidate-vibid:1001000113912": 43,
+      "gas:candidate-vibid:1001000225920": 499,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 179,
-      "Гришуков Владимир Витальевич": 266,
-      "Плевако Сергей Михайлович": 116,
-      "Романенко Татьяна Гаврииловна": 97,
-      "Усольцев Василий Иванович": 746,
-      "Против всех": 382
+      "gas:candidate-vibid:1001000136026": 179,
+      "gas:candidate-vibid:1001000121822": 266,
+      "gas:candidate-vibid:1001000190318": 116,
+      "gas:candidate-vibid:1001000113912": 97,
+      "gas:candidate-vibid:1001000225920": 746,
+      "special:against-all": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 148,
-      "Гришуков Владимир Витальевич": 136,
-      "Плевако Сергей Михайлович": 46,
-      "Романенко Татьяна Гаврииловна": 57,
-      "Усольцев Василий Иванович": 368,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000136026": 148,
+      "gas:candidate-vibid:1001000121822": 136,
+      "gas:candidate-vibid:1001000190318": 46,
+      "gas:candidate-vibid:1001000113912": 57,
+      "gas:candidate-vibid:1001000225920": 368,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 63,
-      "Гришуков Владимир Витальевич": 135,
-      "Плевако Сергей Михайлович": 52,
-      "Романенко Татьяна Гаврииловна": 22,
-      "Усольцев Василий Иванович": 394,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136026": 63,
+      "gas:candidate-vibid:1001000121822": 135,
+      "gas:candidate-vibid:1001000190318": 52,
+      "gas:candidate-vibid:1001000113912": 22,
+      "gas:candidate-vibid:1001000225920": 394,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 66,
-      "Гришуков Владимир Витальевич": 167,
-      "Плевако Сергей Михайлович": 29,
-      "Романенко Татьяна Гаврииловна": 25,
-      "Усольцев Василий Иванович": 455,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136026": 66,
+      "gas:candidate-vibid:1001000121822": 167,
+      "gas:candidate-vibid:1001000190318": 29,
+      "gas:candidate-vibid:1001000113912": 25,
+      "gas:candidate-vibid:1001000225920": 455,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 29,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 86,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 29,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 86,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 44,
-      "Гришуков Владимир Витальевич": 83,
-      "Плевако Сергей Михайлович": 16,
-      "Романенко Татьяна Гаврииловна": 18,
-      "Усольцев Василий Иванович": 253,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136026": 44,
+      "gas:candidate-vibid:1001000121822": 83,
+      "gas:candidate-vibid:1001000190318": 16,
+      "gas:candidate-vibid:1001000113912": 18,
+      "gas:candidate-vibid:1001000225920": 253,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 102,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 183,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 102,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 183,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 20,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 62,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 20,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 62,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 31,
-      "Гришуков Владимир Витальевич": 71,
-      "Плевако Сергей Михайлович": 19,
-      "Романенко Татьяна Гаврииловна": 18,
-      "Усольцев Василий Иванович": 197,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136026": 31,
+      "gas:candidate-vibid:1001000121822": 71,
+      "gas:candidate-vibid:1001000190318": 19,
+      "gas:candidate-vibid:1001000113912": 18,
+      "gas:candidate-vibid:1001000225920": 197,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 19,
-      "Гришуков Владимир Витальевич": 44,
-      "Плевако Сергей Михайлович": 15,
-      "Романенко Татьяна Гаврииловна": 19,
-      "Усольцев Василий Иванович": 173,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136026": 19,
+      "gas:candidate-vibid:1001000121822": 44,
+      "gas:candidate-vibid:1001000190318": 15,
+      "gas:candidate-vibid:1001000113912": 19,
+      "gas:candidate-vibid:1001000225920": 173,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 28,
-      "Гришуков Владимир Витальевич": 25,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 15,
-      "Усольцев Василий Иванович": 156,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136026": 28,
+      "gas:candidate-vibid:1001000121822": 25,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 15,
+      "gas:candidate-vibid:1001000225920": 156,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 26,
-      "Гришуков Владимир Витальевич": 96,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 425,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136026": 26,
+      "gas:candidate-vibid:1001000121822": 96,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 425,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 10,
-      "Гришуков Владимир Витальевич": 39,
-      "Плевако Сергей Михайлович": 7,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 225,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136026": 10,
+      "gas:candidate-vibid:1001000121822": 39,
+      "gas:candidate-vibid:1001000190318": 7,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 225,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 67,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 140,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 67,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 140,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 3,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 134,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 3,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 134,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 12,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 70,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 12,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 70,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 13,
-      "Гришуков Владимир Витальевич": 77,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 145,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136026": 13,
+      "gas:candidate-vibid:1001000121822": 77,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 145,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 2,
-      "Плевако Сергей Михайлович": 1,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 64,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 2,
+      "gas:candidate-vibid:1001000190318": 1,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 64,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 20,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 10,
-      "Усольцев Василий Иванович": 94,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 20,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 10,
+      "gas:candidate-vibid:1001000225920": 94,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 26,
-      "Гришуков Владимир Витальевич": 51,
-      "Плевако Сергей Михайлович": 5,
-      "Романенко Татьяна Гаврииловна": 23,
-      "Усольцев Василий Иванович": 347,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136026": 26,
+      "gas:candidate-vibid:1001000121822": 51,
+      "gas:candidate-vibid:1001000190318": 5,
+      "gas:candidate-vibid:1001000113912": 23,
+      "gas:candidate-vibid:1001000225920": 347,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 22,
-      "Гришуков Владимир Витальевич": 44,
-      "Плевако Сергей Михайлович": 13,
-      "Романенко Татьяна Гаврииловна": 16,
-      "Усольцев Василий Иванович": 134,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136026": 22,
+      "gas:candidate-vibid:1001000121822": 44,
+      "gas:candidate-vibid:1001000190318": 13,
+      "gas:candidate-vibid:1001000113912": 16,
+      "gas:candidate-vibid:1001000225920": 134,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 7,
-      "Гришуков Владимир Витальевич": 8,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 52,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 7,
+      "gas:candidate-vibid:1001000121822": 8,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 52,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 31,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 8,
-      "Усольцев Василий Иванович": 245,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 31,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 8,
+      "gas:candidate-vibid:1001000225920": 245,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 8,
-      "Гришуков Владимир Витальевич": 11,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 41,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136026": 8,
+      "gas:candidate-vibid:1001000121822": 11,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 41,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167206&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 126,
-      "Гришуков Владимир Витальевич": 283,
-      "Плевако Сергей Михайлович": 76,
-      "Романенко Татьяна Гаврииловна": 44,
-      "Усольцев Василий Иванович": 586,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136026": 126,
+      "gas:candidate-vibid:1001000121822": 283,
+      "gas:candidate-vibid:1001000190318": 76,
+      "gas:candidate-vibid:1001000113912": 44,
+      "gas:candidate-vibid:1001000225920": 586,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 97,
-      "Гришуков Владимир Витальевич": 177,
-      "Плевако Сергей Михайлович": 42,
-      "Романенко Татьяна Гаврииловна": 36,
-      "Усольцев Василий Иванович": 469,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136026": 97,
+      "gas:candidate-vibid:1001000121822": 177,
+      "gas:candidate-vibid:1001000190318": 42,
+      "gas:candidate-vibid:1001000113912": 36,
+      "gas:candidate-vibid:1001000225920": 469,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 72,
-      "Гришуков Владимир Витальевич": 235,
-      "Плевако Сергей Михайлович": 39,
-      "Романенко Татьяна Гаврииловна": 24,
-      "Усольцев Василий Иванович": 319,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136026": 72,
+      "gas:candidate-vibid:1001000121822": 235,
+      "gas:candidate-vibid:1001000190318": 39,
+      "gas:candidate-vibid:1001000113912": 24,
+      "gas:candidate-vibid:1001000225920": 319,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 24,
-      "Гришуков Владимир Витальевич": 27,
-      "Плевако Сергей Михайлович": 9,
-      "Романенко Татьяна Гаврииловна": 7,
-      "Усольцев Василий Иванович": 116,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136026": 24,
+      "gas:candidate-vibid:1001000121822": 27,
+      "gas:candidate-vibid:1001000190318": 9,
+      "gas:candidate-vibid:1001000113912": 7,
+      "gas:candidate-vibid:1001000225920": 116,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 93,
-      "Гришуков Владимир Витальевич": 174,
-      "Плевако Сергей Михайлович": 40,
-      "Романенко Татьяна Гаврииловна": 20,
-      "Усольцев Василий Иванович": 461,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136026": 93,
+      "gas:candidate-vibid:1001000121822": 174,
+      "gas:candidate-vibid:1001000190318": 40,
+      "gas:candidate-vibid:1001000113912": 20,
+      "gas:candidate-vibid:1001000225920": 461,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 38,
-      "Гришуков Владимир Витальевич": 68,
-      "Плевако Сергей Михайлович": 28,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 221,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136026": 38,
+      "gas:candidate-vibid:1001000121822": 68,
+      "gas:candidate-vibid:1001000190318": 28,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 221,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 6,
-      "Гришуков Владимир Витальевич": 25,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 0,
-      "Усольцев Василий Иванович": 102,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136026": 6,
+      "gas:candidate-vibid:1001000121822": 25,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 0,
+      "gas:candidate-vibid:1001000225920": 102,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 12,
-      "Гришуков Владимир Витальевич": 54,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 94,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136026": 12,
+      "gas:candidate-vibid:1001000121822": 54,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 94,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 28,
-      "Гришуков Владимир Витальевич": 44,
-      "Плевако Сергей Михайлович": 3,
-      "Романенко Татьяна Гаврииловна": 3,
-      "Усольцев Василий Иванович": 217,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136026": 28,
+      "gas:candidate-vibid:1001000121822": 44,
+      "gas:candidate-vibid:1001000190318": 3,
+      "gas:candidate-vibid:1001000113912": 3,
+      "gas:candidate-vibid:1001000225920": 217,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 14,
-      "Гришуков Владимир Витальевич": 15,
-      "Плевако Сергей Михайлович": 2,
-      "Романенко Татьяна Гаврииловна": 4,
-      "Усольцев Василий Иванович": 72,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136026": 14,
+      "gas:candidate-vibid:1001000121822": 15,
+      "gas:candidate-vibid:1001000190318": 2,
+      "gas:candidate-vibid:1001000113912": 4,
+      "gas:candidate-vibid:1001000225920": 72,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 25,
-      "Гришуков Владимир Витальевич": 90,
-      "Плевако Сергей Михайлович": 6,
-      "Романенко Татьяна Гаврииловна": 2,
-      "Усольцев Василий Иванович": 231,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136026": 25,
+      "gas:candidate-vibid:1001000121822": 90,
+      "gas:candidate-vibid:1001000190318": 6,
+      "gas:candidate-vibid:1001000113912": 2,
+      "gas:candidate-vibid:1001000225920": 231,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 16,
-      "Гришуков Владимир Витальевич": 30,
-      "Плевако Сергей Михайлович": 11,
-      "Романенко Татьяна Гаврииловна": 5,
-      "Усольцев Василий Иванович": 111,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136026": 16,
+      "gas:candidate-vibid:1001000121822": 30,
+      "gas:candidate-vibid:1001000190318": 11,
+      "gas:candidate-vibid:1001000113912": 5,
+      "gas:candidate-vibid:1001000225920": 111,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 9,
-      "Гришуков Владимир Витальевич": 73,
-      "Плевако Сергей Михайлович": 4,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 99,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136026": 9,
+      "gas:candidate-vibid:1001000121822": 73,
+      "gas:candidate-vibid:1001000190318": 4,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 99,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 4,
-      "Гришуков Владимир Витальевич": 0,
-      "Плевако Сергей Михайлович": 0,
-      "Романенко Татьяна Гаврииловна": 1,
-      "Усольцев Василий Иванович": 79,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136026": 4,
+      "gas:candidate-vibid:1001000121822": 0,
+      "gas:candidate-vibid:1001000190318": 0,
+      "gas:candidate-vibid:1001000113912": 1,
+      "gas:candidate-vibid:1001000225920": 79,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_25_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гавриков Сергей Родионович": 20,
-      "Гришуков Владимир Витальевич": 56,
-      "Плевако Сергей Михайлович": 10,
-      "Романенко Татьяна Гаврииловна": 17,
-      "Усольцев Василий Иванович": 299,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136026": 20,
+      "gas:candidate-vibid:1001000121822": 56,
+      "gas:candidate-vibid:1001000190318": 10,
+      "gas:candidate-vibid:1001000113912": 17,
+      "gas:candidate-vibid:1001000225920": 299,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300167207&region=0&sub_region=0&type=429",

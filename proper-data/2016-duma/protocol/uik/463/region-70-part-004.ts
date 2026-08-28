@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 56,
-      "Брянский Сергей Николаевич": 79,
-      "Ларин Михаил Алексеевич": 19,
-      "Лучшев Максим Алексеевич": 12,
-      "Немцева Галина Григорьевна": 88,
-      "Соломатина Татьяна Васильевна": 160,
-      "Черногривов Петр Николаевич": 7,
-      "Шипилов Василий Анатольевич": 19
+      "gas:candidate-vibid:2702000524524": 56,
+      "gas:candidate-vibid:2702000514598": 79,
+      "gas:candidate-vibid:2702000523849": 19,
+      "gas:candidate-vibid:2702000525124": 12,
+      "gas:candidate-vibid:2702000523810": 88,
+      "gas:candidate-vibid:2702000525364": 160,
+      "gas:candidate-vibid:2702000525135": 7,
+      "gas:candidate-vibid:2702000515896": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 100,
-      "Брянский Сергей Николаевич": 79,
-      "Ларин Михаил Алексеевич": 13,
-      "Лучшев Максим Алексеевич": 11,
-      "Немцева Галина Григорьевна": 77,
-      "Соломатина Татьяна Васильевна": 172,
-      "Черногривов Петр Николаевич": 5,
-      "Шипилов Василий Анатольевич": 15
+      "gas:candidate-vibid:2702000524524": 100,
+      "gas:candidate-vibid:2702000514598": 79,
+      "gas:candidate-vibid:2702000523849": 13,
+      "gas:candidate-vibid:2702000525124": 11,
+      "gas:candidate-vibid:2702000523810": 77,
+      "gas:candidate-vibid:2702000525364": 172,
+      "gas:candidate-vibid:2702000525135": 5,
+      "gas:candidate-vibid:2702000515896": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 8,
-      "Брянский Сергей Николаевич": 10,
-      "Ларин Михаил Алексеевич": 3,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 10,
-      "Соломатина Татьяна Васильевна": 16,
-      "Черногривов Петр Николаевич": 1,
-      "Шипилов Василий Анатольевич": 1
+      "gas:candidate-vibid:2702000524524": 8,
+      "gas:candidate-vibid:2702000514598": 10,
+      "gas:candidate-vibid:2702000523849": 3,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 10,
+      "gas:candidate-vibid:2702000525364": 16,
+      "gas:candidate-vibid:2702000525135": 1,
+      "gas:candidate-vibid:2702000515896": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 12,
-      "Брянский Сергей Николаевич": 14,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 11,
-      "Соломатина Татьяна Васильевна": 27,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 3
+      "gas:candidate-vibid:2702000524524": 12,
+      "gas:candidate-vibid:2702000514598": 14,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 11,
+      "gas:candidate-vibid:2702000525364": 27,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 31,
-      "Брянский Сергей Николаевич": 39,
-      "Ларин Михаил Алексеевич": 10,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 23,
-      "Соломатина Татьяна Васильевна": 87,
-      "Черногривов Петр Николаевич": 10,
-      "Шипилов Василий Анатольевич": 8
+      "gas:candidate-vibid:2702000524524": 31,
+      "gas:candidate-vibid:2702000514598": 39,
+      "gas:candidate-vibid:2702000523849": 10,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 23,
+      "gas:candidate-vibid:2702000525364": 87,
+      "gas:candidate-vibid:2702000525135": 10,
+      "gas:candidate-vibid:2702000515896": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 48,
-      "Брянский Сергей Николаевич": 55,
-      "Ларин Михаил Алексеевич": 12,
-      "Лучшев Максим Алексеевич": 10,
-      "Немцева Галина Григорьевна": 68,
-      "Соломатина Татьяна Васильевна": 106,
-      "Черногривов Петр Николаевич": 9,
-      "Шипилов Василий Анатольевич": 10
+      "gas:candidate-vibid:2702000524524": 48,
+      "gas:candidate-vibid:2702000514598": 55,
+      "gas:candidate-vibid:2702000523849": 12,
+      "gas:candidate-vibid:2702000525124": 10,
+      "gas:candidate-vibid:2702000523810": 68,
+      "gas:candidate-vibid:2702000525364": 106,
+      "gas:candidate-vibid:2702000525135": 9,
+      "gas:candidate-vibid:2702000515896": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 25,
-      "Брянский Сергей Николаевич": 34,
-      "Ларин Михаил Алексеевич": 11,
-      "Лучшев Максим Алексеевич": 4,
-      "Немцева Галина Григорьевна": 46,
-      "Соломатина Татьяна Васильевна": 101,
-      "Черногривов Петр Николаевич": 4,
-      "Шипилов Василий Анатольевич": 13
+      "gas:candidate-vibid:2702000524524": 25,
+      "gas:candidate-vibid:2702000514598": 34,
+      "gas:candidate-vibid:2702000523849": 11,
+      "gas:candidate-vibid:2702000525124": 4,
+      "gas:candidate-vibid:2702000523810": 46,
+      "gas:candidate-vibid:2702000525364": 101,
+      "gas:candidate-vibid:2702000525135": 4,
+      "gas:candidate-vibid:2702000515896": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 5,
-      "Брянский Сергей Николаевич": 17,
-      "Ларин Михаил Алексеевич": 2,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 7,
-      "Соломатина Татьяна Васильевна": 23,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 4
+      "gas:candidate-vibid:2702000524524": 5,
+      "gas:candidate-vibid:2702000514598": 17,
+      "gas:candidate-vibid:2702000523849": 2,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 7,
+      "gas:candidate-vibid:2702000525364": 23,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 20,
-      "Брянский Сергей Николаевич": 38,
-      "Ларин Михаил Алексеевич": 3,
-      "Лучшев Максим Алексеевич": 10,
-      "Немцева Галина Григорьевна": 33,
-      "Соломатина Татьяна Васильевна": 83,
-      "Черногривов Петр Николаевич": 5,
-      "Шипилов Василий Анатольевич": 6
+      "gas:candidate-vibid:2702000524524": 20,
+      "gas:candidate-vibid:2702000514598": 38,
+      "gas:candidate-vibid:2702000523849": 3,
+      "gas:candidate-vibid:2702000525124": 10,
+      "gas:candidate-vibid:2702000523810": 33,
+      "gas:candidate-vibid:2702000525364": 83,
+      "gas:candidate-vibid:2702000525135": 5,
+      "gas:candidate-vibid:2702000515896": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 10,
-      "Брянский Сергей Николаевич": 10,
-      "Ларин Михаил Алексеевич": 2,
-      "Лучшев Максим Алексеевич": 2,
-      "Немцева Галина Григорьевна": 7,
-      "Соломатина Татьяна Васильевна": 17,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 0
+      "gas:candidate-vibid:2702000524524": 10,
+      "gas:candidate-vibid:2702000514598": 10,
+      "gas:candidate-vibid:2702000523849": 2,
+      "gas:candidate-vibid:2702000525124": 2,
+      "gas:candidate-vibid:2702000523810": 7,
+      "gas:candidate-vibid:2702000525364": 17,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 22,
-      "Брянский Сергей Николаевич": 13,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 10,
-      "Соломатина Татьяна Васильевна": 80,
-      "Черногривов Петр Николаевич": 1,
-      "Шипилов Василий Анатольевич": 10
+      "gas:candidate-vibid:2702000524524": 22,
+      "gas:candidate-vibid:2702000514598": 13,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 10,
+      "gas:candidate-vibid:2702000525364": 80,
+      "gas:candidate-vibid:2702000525135": 1,
+      "gas:candidate-vibid:2702000515896": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 12,
-      "Брянский Сергей Николаевич": 11,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 6,
-      "Соломатина Татьяна Васильевна": 24,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 2
+      "gas:candidate-vibid:2702000524524": 12,
+      "gas:candidate-vibid:2702000514598": 11,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 6,
+      "gas:candidate-vibid:2702000525364": 24,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 9,
-      "Брянский Сергей Николаевич": 8,
-      "Ларин Михаил Алексеевич": 5,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 6,
-      "Соломатина Татьяна Васильевна": 31,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 1
+      "gas:candidate-vibid:2702000524524": 9,
+      "gas:candidate-vibid:2702000514598": 8,
+      "gas:candidate-vibid:2702000523849": 5,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 6,
+      "gas:candidate-vibid:2702000525364": 31,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 13,
-      "Брянский Сергей Николаевич": 8,
-      "Ларин Михаил Алексеевич": 0,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 2,
-      "Соломатина Татьяна Васильевна": 30,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 1
+      "gas:candidate-vibid:2702000524524": 13,
+      "gas:candidate-vibid:2702000514598": 8,
+      "gas:candidate-vibid:2702000523849": 0,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 2,
+      "gas:candidate-vibid:2702000525364": 30,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 5,
-      "Брянский Сергей Николаевич": 9,
-      "Ларин Михаил Алексеевич": 0,
-      "Лучшев Максим Алексеевич": 0,
-      "Немцева Галина Григорьевна": 3,
-      "Соломатина Татьяна Васильевна": 25,
-      "Черногривов Петр Николаевич": 1,
-      "Шипилов Василий Анатольевич": 3
+      "gas:candidate-vibid:2702000524524": 5,
+      "gas:candidate-vibid:2702000514598": 9,
+      "gas:candidate-vibid:2702000523849": 0,
+      "gas:candidate-vibid:2702000525124": 0,
+      "gas:candidate-vibid:2702000523810": 3,
+      "gas:candidate-vibid:2702000525364": 25,
+      "gas:candidate-vibid:2702000525135": 1,
+      "gas:candidate-vibid:2702000515896": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 14,
-      "Брянский Сергей Николаевич": 13,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 0,
-      "Немцева Галина Григорьевна": 10,
-      "Соломатина Татьяна Васильевна": 29,
-      "Черногривов Петр Николаевич": 2,
-      "Шипилов Василий Анатольевич": 4
+      "gas:candidate-vibid:2702000524524": 14,
+      "gas:candidate-vibid:2702000514598": 13,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 0,
+      "gas:candidate-vibid:2702000523810": 10,
+      "gas:candidate-vibid:2702000525364": 29,
+      "gas:candidate-vibid:2702000525135": 2,
+      "gas:candidate-vibid:2702000515896": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 4,
-      "Брянский Сергей Николаевич": 14,
-      "Ларин Михаил Алексеевич": 3,
-      "Лучшев Максим Алексеевич": 2,
-      "Немцева Галина Григорьевна": 8,
-      "Соломатина Татьяна Васильевна": 49,
-      "Черногривов Петр Николаевич": 1,
-      "Шипилов Василий Анатольевич": 0
+      "gas:candidate-vibid:2702000524524": 4,
+      "gas:candidate-vibid:2702000514598": 14,
+      "gas:candidate-vibid:2702000523849": 3,
+      "gas:candidate-vibid:2702000525124": 2,
+      "gas:candidate-vibid:2702000523810": 8,
+      "gas:candidate-vibid:2702000525364": 49,
+      "gas:candidate-vibid:2702000525135": 1,
+      "gas:candidate-vibid:2702000515896": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 29,
-      "Брянский Сергей Николаевич": 21,
-      "Ларин Михаил Алексеевич": 4,
-      "Лучшев Максим Алексеевич": 2,
-      "Немцева Галина Григорьевна": 9,
-      "Соломатина Татьяна Васильевна": 50,
-      "Черногривов Петр Николаевич": 2,
-      "Шипилов Василий Анатольевич": 0
+      "gas:candidate-vibid:2702000524524": 29,
+      "gas:candidate-vibid:2702000514598": 21,
+      "gas:candidate-vibid:2702000523849": 4,
+      "gas:candidate-vibid:2702000525124": 2,
+      "gas:candidate-vibid:2702000523810": 9,
+      "gas:candidate-vibid:2702000525364": 50,
+      "gas:candidate-vibid:2702000525135": 2,
+      "gas:candidate-vibid:2702000515896": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 9,
-      "Брянский Сергей Николаевич": 7,
-      "Ларин Михаил Алексеевич": 0,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 1,
-      "Соломатина Татьяна Васильевна": 15,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 1
+      "gas:candidate-vibid:2702000524524": 9,
+      "gas:candidate-vibid:2702000514598": 7,
+      "gas:candidate-vibid:2702000523849": 0,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 1,
+      "gas:candidate-vibid:2702000525364": 15,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 22,
-      "Брянский Сергей Николаевич": 27,
-      "Ларин Михаил Алексеевич": 5,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 18,
-      "Соломатина Татьяна Васильевна": 115,
-      "Черногривов Петр Николаевич": 2,
-      "Шипилов Василий Анатольевич": 8
+      "gas:candidate-vibid:2702000524524": 22,
+      "gas:candidate-vibid:2702000514598": 27,
+      "gas:candidate-vibid:2702000523849": 5,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 18,
+      "gas:candidate-vibid:2702000525364": 115,
+      "gas:candidate-vibid:2702000525135": 2,
+      "gas:candidate-vibid:2702000515896": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 2,
-      "Брянский Сергей Николаевич": 0,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 0,
-      "Немцева Галина Григорьевна": 3,
-      "Соломатина Татьяна Васильевна": 30,
-      "Черногривов Петр Николаевич": 2,
-      "Шипилов Василий Анатольевич": 2
+      "gas:candidate-vibid:2702000524524": 2,
+      "gas:candidate-vibid:2702000514598": 0,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 0,
+      "gas:candidate-vibid:2702000523810": 3,
+      "gas:candidate-vibid:2702000525364": 30,
+      "gas:candidate-vibid:2702000525135": 2,
+      "gas:candidate-vibid:2702000515896": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 53,
-      "Брянский Сергей Николаевич": 45,
-      "Ларин Михаил Алексеевич": 10,
-      "Лучшев Максим Алексеевич": 7,
-      "Немцева Галина Григорьевна": 50,
-      "Соломатина Татьяна Васильевна": 102,
-      "Черногривов Петр Николаевич": 8,
-      "Шипилов Василий Анатольевич": 17
+      "gas:candidate-vibid:2702000524524": 53,
+      "gas:candidate-vibid:2702000514598": 45,
+      "gas:candidate-vibid:2702000523849": 10,
+      "gas:candidate-vibid:2702000525124": 7,
+      "gas:candidate-vibid:2702000523810": 50,
+      "gas:candidate-vibid:2702000525364": 102,
+      "gas:candidate-vibid:2702000525135": 8,
+      "gas:candidate-vibid:2702000515896": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 36,
-      "Брянский Сергей Николаевич": 22,
-      "Ларин Михаил Алексеевич": 6,
-      "Лучшев Максим Алексеевич": 6,
-      "Немцева Галина Григорьевна": 28,
-      "Соломатина Татьяна Васильевна": 56,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 11
+      "gas:candidate-vibid:2702000524524": 36,
+      "gas:candidate-vibid:2702000514598": 22,
+      "gas:candidate-vibid:2702000523849": 6,
+      "gas:candidate-vibid:2702000525124": 6,
+      "gas:candidate-vibid:2702000523810": 28,
+      "gas:candidate-vibid:2702000525364": 56,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 172,
-      "Брянский Сергей Николаевич": 108,
-      "Ларин Михаил Алексеевич": 21,
-      "Лучшев Максим Алексеевич": 23,
-      "Немцева Галина Григорьевна": 138,
-      "Соломатина Татьяна Васильевна": 351,
-      "Черногривов Петр Николаевич": 19,
-      "Шипилов Василий Анатольевич": 46
+      "gas:candidate-vibid:2702000524524": 172,
+      "gas:candidate-vibid:2702000514598": 108,
+      "gas:candidate-vibid:2702000523849": 21,
+      "gas:candidate-vibid:2702000525124": 23,
+      "gas:candidate-vibid:2702000523810": 138,
+      "gas:candidate-vibid:2702000525364": 351,
+      "gas:candidate-vibid:2702000525135": 19,
+      "gas:candidate-vibid:2702000515896": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 105,
-      "Брянский Сергей Николаевич": 62,
-      "Ларин Михаил Алексеевич": 7,
-      "Лучшев Максим Алексеевич": 10,
-      "Немцева Галина Григорьевна": 87,
-      "Соломатина Татьяна Васильевна": 185,
-      "Черногривов Петр Николаевич": 9,
-      "Шипилов Василий Анатольевич": 17
+      "gas:candidate-vibid:2702000524524": 105,
+      "gas:candidate-vibid:2702000514598": 62,
+      "gas:candidate-vibid:2702000523849": 7,
+      "gas:candidate-vibid:2702000525124": 10,
+      "gas:candidate-vibid:2702000523810": 87,
+      "gas:candidate-vibid:2702000525364": 185,
+      "gas:candidate-vibid:2702000525135": 9,
+      "gas:candidate-vibid:2702000515896": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 45,
-      "Брянский Сергей Николаевич": 47,
-      "Ларин Михаил Алексеевич": 7,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 50,
-      "Соломатина Татьяна Васильевна": 135,
-      "Черногривов Петр Николаевич": 5,
-      "Шипилов Василий Анатольевич": 3
+      "gas:candidate-vibid:2702000524524": 45,
+      "gas:candidate-vibid:2702000514598": 47,
+      "gas:candidate-vibid:2702000523849": 7,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 50,
+      "gas:candidate-vibid:2702000525364": 135,
+      "gas:candidate-vibid:2702000525135": 5,
+      "gas:candidate-vibid:2702000515896": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 52,
-      "Брянский Сергей Николаевич": 51,
-      "Ларин Михаил Алексеевич": 9,
-      "Лучшев Максим Алексеевич": 9,
-      "Немцева Галина Григорьевна": 33,
-      "Соломатина Татьяна Васильевна": 86,
-      "Черногривов Петр Николаевич": 4,
-      "Шипилов Василий Анатольевич": 5
+      "gas:candidate-vibid:2702000524524": 52,
+      "gas:candidate-vibid:2702000514598": 51,
+      "gas:candidate-vibid:2702000523849": 9,
+      "gas:candidate-vibid:2702000525124": 9,
+      "gas:candidate-vibid:2702000523810": 33,
+      "gas:candidate-vibid:2702000525364": 86,
+      "gas:candidate-vibid:2702000525135": 4,
+      "gas:candidate-vibid:2702000515896": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 28,
-      "Брянский Сергей Николаевич": 35,
-      "Ларин Михаил Алексеевич": 12,
-      "Лучшев Максим Алексеевич": 2,
-      "Немцева Галина Григорьевна": 26,
-      "Соломатина Татьяна Васильевна": 77,
-      "Черногривов Петр Николаевич": 10,
-      "Шипилов Василий Анатольевич": 8
+      "gas:candidate-vibid:2702000524524": 28,
+      "gas:candidate-vibid:2702000514598": 35,
+      "gas:candidate-vibid:2702000523849": 12,
+      "gas:candidate-vibid:2702000525124": 2,
+      "gas:candidate-vibid:2702000523810": 26,
+      "gas:candidate-vibid:2702000525364": 77,
+      "gas:candidate-vibid:2702000525135": 10,
+      "gas:candidate-vibid:2702000515896": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 77,
-      "Брянский Сергей Николаевич": 68,
-      "Ларин Михаил Алексеевич": 7,
-      "Лучшев Максим Алексеевич": 6,
-      "Немцева Галина Григорьевна": 61,
-      "Соломатина Татьяна Васильевна": 130,
-      "Черногривов Петр Николаевич": 9,
-      "Шипилов Василий Анатольевич": 13
+      "gas:candidate-vibid:2702000524524": 77,
+      "gas:candidate-vibid:2702000514598": 68,
+      "gas:candidate-vibid:2702000523849": 7,
+      "gas:candidate-vibid:2702000525124": 6,
+      "gas:candidate-vibid:2702000523810": 61,
+      "gas:candidate-vibid:2702000525364": 130,
+      "gas:candidate-vibid:2702000525135": 9,
+      "gas:candidate-vibid:2702000515896": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 3,
-      "Брянский Сергей Николаевич": 12,
-      "Ларин Михаил Алексеевич": 4,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 10,
-      "Соломатина Татьяна Васильевна": 17,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 2
+      "gas:candidate-vibid:2702000524524": 3,
+      "gas:candidate-vibid:2702000514598": 12,
+      "gas:candidate-vibid:2702000523849": 4,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 10,
+      "gas:candidate-vibid:2702000525364": 17,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 7,
-      "Брянский Сергей Николаевич": 12,
-      "Ларин Михаил Алексеевич": 6,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 15,
-      "Соломатина Татьяна Васильевна": 18,
-      "Черногривов Петр Николаевич": 1,
-      "Шипилов Василий Анатольевич": 3
+      "gas:candidate-vibid:2702000524524": 7,
+      "gas:candidate-vibid:2702000514598": 12,
+      "gas:candidate-vibid:2702000523849": 6,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 15,
+      "gas:candidate-vibid:2702000525364": 18,
+      "gas:candidate-vibid:2702000525135": 1,
+      "gas:candidate-vibid:2702000515896": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 48,
-      "Брянский Сергей Николаевич": 47,
-      "Ларин Михаил Алексеевич": 7,
-      "Лучшев Максим Алексеевич": 8,
-      "Немцева Галина Григорьевна": 43,
-      "Соломатина Татьяна Васильевна": 123,
-      "Черногривов Петр Николаевич": 13,
-      "Шипилов Василий Анатольевич": 8
+      "gas:candidate-vibid:2702000524524": 48,
+      "gas:candidate-vibid:2702000514598": 47,
+      "gas:candidate-vibid:2702000523849": 7,
+      "gas:candidate-vibid:2702000525124": 8,
+      "gas:candidate-vibid:2702000523810": 43,
+      "gas:candidate-vibid:2702000525364": 123,
+      "gas:candidate-vibid:2702000525135": 13,
+      "gas:candidate-vibid:2702000515896": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 30,
-      "Брянский Сергей Николаевич": 50,
-      "Ларин Михаил Алексеевич": 9,
-      "Лучшев Максим Алексеевич": 4,
-      "Немцева Галина Григорьевна": 29,
-      "Соломатина Татьяна Васильевна": 99,
-      "Черногривов Петр Николаевич": 2,
-      "Шипилов Василий Анатольевич": 7
+      "gas:candidate-vibid:2702000524524": 30,
+      "gas:candidate-vibid:2702000514598": 50,
+      "gas:candidate-vibid:2702000523849": 9,
+      "gas:candidate-vibid:2702000525124": 4,
+      "gas:candidate-vibid:2702000523810": 29,
+      "gas:candidate-vibid:2702000525364": 99,
+      "gas:candidate-vibid:2702000525135": 2,
+      "gas:candidate-vibid:2702000515896": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 27,
-      "Брянский Сергей Николаевич": 19,
-      "Ларин Михаил Алексеевич": 3,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 30,
-      "Соломатина Татьяна Васильевна": 64,
-      "Черногривов Петр Николаевич": 3,
-      "Шипилов Василий Анатольевич": 9
+      "gas:candidate-vibid:2702000524524": 27,
+      "gas:candidate-vibid:2702000514598": 19,
+      "gas:candidate-vibid:2702000523849": 3,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 30,
+      "gas:candidate-vibid:2702000525364": 64,
+      "gas:candidate-vibid:2702000525135": 3,
+      "gas:candidate-vibid:2702000515896": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 14,
-      "Брянский Сергей Николаевич": 19,
-      "Ларин Михаил Алексеевич": 3,
-      "Лучшев Максим Алексеевич": 2,
-      "Немцева Галина Григорьевна": 13,
-      "Соломатина Татьяна Васильевна": 44,
-      "Черногривов Петр Николаевич": 7,
-      "Шипилов Василий Анатольевич": 6
+      "gas:candidate-vibid:2702000524524": 14,
+      "gas:candidate-vibid:2702000514598": 19,
+      "gas:candidate-vibid:2702000523849": 3,
+      "gas:candidate-vibid:2702000525124": 2,
+      "gas:candidate-vibid:2702000523810": 13,
+      "gas:candidate-vibid:2702000525364": 44,
+      "gas:candidate-vibid:2702000525135": 7,
+      "gas:candidate-vibid:2702000515896": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 21,
-      "Брянский Сергей Николаевич": 13,
-      "Ларин Михаил Алексеевич": 5,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 25,
-      "Соломатина Татьяна Васильевна": 39,
-      "Черногривов Петр Николаевич": 4,
-      "Шипилов Василий Анатольевич": 6
+      "gas:candidate-vibid:2702000524524": 21,
+      "gas:candidate-vibid:2702000514598": 13,
+      "gas:candidate-vibid:2702000523849": 5,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 25,
+      "gas:candidate-vibid:2702000525364": 39,
+      "gas:candidate-vibid:2702000525135": 4,
+      "gas:candidate-vibid:2702000515896": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 6,
-      "Брянский Сергей Николаевич": 3,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 2,
-      "Немцева Галина Григорьевна": 3,
-      "Соломатина Татьяна Васильевна": 39,
-      "Черногривов Петр Николаевич": 5,
-      "Шипилов Василий Анатольевич": 1
+      "gas:candidate-vibid:2702000524524": 6,
+      "gas:candidate-vibid:2702000514598": 3,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 2,
+      "gas:candidate-vibid:2702000523810": 3,
+      "gas:candidate-vibid:2702000525364": 39,
+      "gas:candidate-vibid:2702000525135": 5,
+      "gas:candidate-vibid:2702000515896": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 13,
-      "Брянский Сергей Николаевич": 15,
-      "Ларин Михаил Алексеевич": 4,
-      "Лучшев Максим Алексеевич": 1,
-      "Немцева Галина Григорьевна": 15,
-      "Соломатина Татьяна Васильевна": 45,
-      "Черногривов Петр Николаевич": 5,
-      "Шипилов Василий Анатольевич": 2
+      "gas:candidate-vibid:2702000524524": 13,
+      "gas:candidate-vibid:2702000514598": 15,
+      "gas:candidate-vibid:2702000523849": 4,
+      "gas:candidate-vibid:2702000525124": 1,
+      "gas:candidate-vibid:2702000523810": 15,
+      "gas:candidate-vibid:2702000525364": 45,
+      "gas:candidate-vibid:2702000525135": 5,
+      "gas:candidate-vibid:2702000515896": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 8,
-      "Брянский Сергей Николаевич": 10,
-      "Ларин Михаил Алексеевич": 1,
-      "Лучшев Максим Алексеевич": 0,
-      "Немцева Галина Григорьевна": 5,
-      "Соломатина Татьяна Васильевна": 12,
-      "Черногривов Петр Николаевич": 0,
-      "Шипилов Василий Анатольевич": 2
+      "gas:candidate-vibid:2702000524524": 8,
+      "gas:candidate-vibid:2702000514598": 10,
+      "gas:candidate-vibid:2702000523849": 1,
+      "gas:candidate-vibid:2702000525124": 0,
+      "gas:candidate-vibid:2702000523810": 5,
+      "gas:candidate-vibid:2702000525364": 12,
+      "gas:candidate-vibid:2702000525135": 0,
+      "gas:candidate-vibid:2702000515896": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 9,
-      "Брянский Сергей Николаевич": 5,
-      "Ларин Михаил Алексеевич": 3,
-      "Лучшев Максим Алексеевич": 3,
-      "Немцева Галина Григорьевна": 22,
-      "Соломатина Татьяна Васильевна": 25,
-      "Черногривов Петр Николаевич": 1,
-      "Шипилов Василий Анатольевич": 3
+      "gas:candidate-vibid:2702000524524": 9,
+      "gas:candidate-vibid:2702000514598": 5,
+      "gas:candidate-vibid:2702000523849": 3,
+      "gas:candidate-vibid:2702000525124": 3,
+      "gas:candidate-vibid:2702000523810": 22,
+      "gas:candidate-vibid:2702000525364": 25,
+      "gas:candidate-vibid:2702000525135": 1,
+      "gas:candidate-vibid:2702000515896": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_70_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барышникова Наталья Геннадьевна": 61,
-      "Брянский Сергей Николаевич": 57,
-      "Ларин Михаил Алексеевич": 6,
-      "Лучшев Максим Алексеевич": 5,
-      "Немцева Галина Григорьевна": 50,
-      "Соломатина Татьяна Васильевна": 134,
-      "Черногривов Петр Николаевич": 9,
-      "Шипилов Василий Анатольевич": 23
+      "gas:candidate-vibid:2702000524524": 61,
+      "gas:candidate-vibid:2702000514598": 57,
+      "gas:candidate-vibid:2702000523849": 6,
+      "gas:candidate-vibid:2702000525124": 5,
+      "gas:candidate-vibid:2702000523810": 50,
+      "gas:candidate-vibid:2702000525364": 134,
+      "gas:candidate-vibid:2702000525135": 9,
+      "gas:candidate-vibid:2702000515896": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000240&tvd=2702000471225&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000471225&type=464",

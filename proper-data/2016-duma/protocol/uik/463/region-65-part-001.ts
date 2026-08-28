@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 58,
-      "Карлов Георгий Александрович": 219,
-      "Пак Вениамин Аркадьевич": 27,
-      "Репина Ирина Геннадьевна": 15,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 72
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 58,
+      "gas:candidate-vibid:2652000381667": 219,
+      "gas:candidate-vibid:2652000381925": 27,
+      "gas:candidate-vibid:2652000381767": 15,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362104&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362104&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 19,
-      "Зенкин Александр Михайлович": 14,
-      "Иванова Светлана Васильевна": 125,
-      "Карлов Георгий Александрович": 227,
-      "Пак Вениамин Аркадьевич": 26,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 71
+      "gas:candidate-vibid:2652000381737": 19,
+      "gas:candidate-vibid:2652000381296": 14,
+      "gas:candidate-vibid:2652000381235": 125,
+      "gas:candidate-vibid:2652000381667": 227,
+      "gas:candidate-vibid:2652000381925": 26,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362104&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362104&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 15,
-      "Зенкин Александр Михайлович": 19,
-      "Иванова Светлана Васильевна": 54,
-      "Карлов Георгий Александрович": 141,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 48
+      "gas:candidate-vibid:2652000381737": 15,
+      "gas:candidate-vibid:2652000381296": 19,
+      "gas:candidate-vibid:2652000381235": 54,
+      "gas:candidate-vibid:2652000381667": 141,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362104&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362104&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 27,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 67,
-      "Карлов Георгий Александрович": 536,
-      "Пак Вениамин Аркадьевич": 29,
-      "Репина Ирина Геннадьевна": 22,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 60
+      "gas:candidate-vibid:2652000381737": 27,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 67,
+      "gas:candidate-vibid:2652000381667": 536,
+      "gas:candidate-vibid:2652000381925": 29,
+      "gas:candidate-vibid:2652000381767": 22,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362104&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362104&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 19,
-      "Зенкин Александр Михайлович": 12,
-      "Иванова Светлана Васильевна": 45,
-      "Карлов Георгий Александрович": 113,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 15,
-      "Флеер Дмитрий Александрович": 73
+      "gas:candidate-vibid:2652000381737": 19,
+      "gas:candidate-vibid:2652000381296": 12,
+      "gas:candidate-vibid:2652000381235": 45,
+      "gas:candidate-vibid:2652000381667": 113,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 15,
+      "gas:candidate-vibid:2652000379290": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362104&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362104&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 13,
-      "Карлов Георгий Александрович": 20,
-      "Пак Вениамин Аркадьевич": 4,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 13
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 13,
+      "gas:candidate-vibid:2652000381667": 20,
+      "gas:candidate-vibid:2652000381925": 4,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362104&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362104&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 105,
-      "Карлов Георгий Александрович": 119,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 18,
-      "Флеер Дмитрий Александрович": 60
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 105,
+      "gas:candidate-vibid:2652000381667": 119,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 18,
+      "gas:candidate-vibid:2652000379290": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 81,
-      "Карлов Георгий Александрович": 159,
-      "Пак Вениамин Аркадьевич": 5,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 14,
-      "Флеер Дмитрий Александрович": 37
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 81,
+      "gas:candidate-vibid:2652000381667": 159,
+      "gas:candidate-vibid:2652000381925": 5,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 14,
+      "gas:candidate-vibid:2652000379290": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 19,
-      "Иванова Светлана Васильевна": 76,
-      "Карлов Георгий Александрович": 107,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 21,
-      "Флеер Дмитрий Александрович": 51
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 19,
+      "gas:candidate-vibid:2652000381235": 76,
+      "gas:candidate-vibid:2652000381667": 107,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 21,
+      "gas:candidate-vibid:2652000379290": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 33,
-      "Зенкин Александр Михайлович": 47,
-      "Иванова Светлана Васильевна": 274,
-      "Карлов Георгий Александрович": 381,
-      "Пак Вениамин Аркадьевич": 12,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 39,
-      "Флеер Дмитрий Александрович": 143
+      "gas:candidate-vibid:2652000381737": 33,
+      "gas:candidate-vibid:2652000381296": 47,
+      "gas:candidate-vibid:2652000381235": 274,
+      "gas:candidate-vibid:2652000381667": 381,
+      "gas:candidate-vibid:2652000381925": 12,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 39,
+      "gas:candidate-vibid:2652000379290": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 19,
-      "Иванова Светлана Васильевна": 94,
-      "Карлов Георгий Александрович": 172,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 15,
-      "Флеер Дмитрий Александрович": 44
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 19,
+      "gas:candidate-vibid:2652000381235": 94,
+      "gas:candidate-vibid:2652000381667": 172,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 15,
+      "gas:candidate-vibid:2652000379290": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 133,
-      "Карлов Георгий Александрович": 203,
-      "Пак Вениамин Аркадьевич": 13,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 17,
-      "Флеер Дмитрий Александрович": 64
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 133,
+      "gas:candidate-vibid:2652000381667": 203,
+      "gas:candidate-vibid:2652000381925": 13,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 17,
+      "gas:candidate-vibid:2652000379290": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 14,
-      "Карлов Георгий Александрович": 29,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 18
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 14,
+      "gas:candidate-vibid:2652000381667": 29,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 48,
-      "Карлов Георгий Александрович": 78,
-      "Пак Вениамин Аркадьевич": 11,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 15,
-      "Флеер Дмитрий Александрович": 36
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 48,
+      "gas:candidate-vibid:2652000381667": 78,
+      "gas:candidate-vibid:2652000381925": 11,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 15,
+      "gas:candidate-vibid:2652000379290": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362105&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362105&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 57,
-      "Карлов Георгий Александрович": 72,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 21
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 57,
+      "gas:candidate-vibid:2652000381667": 72,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 10,
-      "Иванова Светлана Васильевна": 57,
-      "Карлов Георгий Александрович": 108,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 16
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 10,
+      "gas:candidate-vibid:2652000381235": 57,
+      "gas:candidate-vibid:2652000381667": 108,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 29,
-      "Иванова Светлана Васильевна": 178,
-      "Карлов Георгий Александрович": 310,
-      "Пак Вениамин Аркадьевич": 11,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 58
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 29,
+      "gas:candidate-vibid:2652000381235": 178,
+      "gas:candidate-vibid:2652000381667": 310,
+      "gas:candidate-vibid:2652000381925": 11,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 210,
-      "Карлов Георгий Александрович": 327,
-      "Пак Вениамин Аркадьевич": 17,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 39
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 210,
+      "gas:candidate-vibid:2652000381667": 327,
+      "gas:candidate-vibid:2652000381925": 17,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 95,
-      "Карлов Георгий Александрович": 173,
-      "Пак Вениамин Аркадьевич": 7,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 19,
-      "Флеер Дмитрий Александрович": 39
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 95,
+      "gas:candidate-vibid:2652000381667": 173,
+      "gas:candidate-vibid:2652000381925": 7,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 19,
+      "gas:candidate-vibid:2652000379290": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 187,
-      "Карлов Георгий Александрович": 317,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 22,
-      "Флеер Дмитрий Александрович": 46
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 187,
+      "gas:candidate-vibid:2652000381667": 317,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 22,
+      "gas:candidate-vibid:2652000379290": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 220,
-      "Карлов Георгий Александрович": 429,
-      "Пак Вениамин Аркадьевич": 26,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 26,
-      "Флеер Дмитрий Александрович": 69
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 220,
+      "gas:candidate-vibid:2652000381667": 429,
+      "gas:candidate-vibid:2652000381925": 26,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 26,
+      "gas:candidate-vibid:2652000379290": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 20,
-      "Зенкин Александр Михайлович": 33,
-      "Иванова Светлана Васильевна": 259,
-      "Карлов Георгий Александрович": 395,
-      "Пак Вениамин Аркадьевич": 25,
-      "Репина Ирина Геннадьевна": 15,
-      "Таран Эдуард Олегович": 30,
-      "Флеер Дмитрий Александрович": 73
+      "gas:candidate-vibid:2652000381737": 20,
+      "gas:candidate-vibid:2652000381296": 33,
+      "gas:candidate-vibid:2652000381235": 259,
+      "gas:candidate-vibid:2652000381667": 395,
+      "gas:candidate-vibid:2652000381925": 25,
+      "gas:candidate-vibid:2652000381767": 15,
+      "gas:candidate-vibid:2652000380364": 30,
+      "gas:candidate-vibid:2652000379290": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 4,
-      "Иванова Светлана Васильевна": 21,
-      "Карлов Георгий Александрович": 30,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 4
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 4,
+      "gas:candidate-vibid:2652000381235": 21,
+      "gas:candidate-vibid:2652000381667": 30,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 24,
-      "Карлов Георгий Александрович": 61,
-      "Пак Вениамин Аркадьевич": 4,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 4,
-      "Флеер Дмитрий Александрович": 13
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 24,
+      "gas:candidate-vibid:2652000381667": 61,
+      "gas:candidate-vibid:2652000381925": 4,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 4,
+      "gas:candidate-vibid:2652000379290": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 15,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 90,
-      "Карлов Георгий Александрович": 170,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 23,
-      "Флеер Дмитрий Александрович": 35
+      "gas:candidate-vibid:2652000381737": 15,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 90,
+      "gas:candidate-vibid:2652000381667": 170,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 23,
+      "gas:candidate-vibid:2652000379290": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 15,
-      "Иванова Светлана Васильевна": 97,
-      "Карлов Георгий Александрович": 223,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 18,
-      "Флеер Дмитрий Александрович": 32
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 15,
+      "gas:candidate-vibid:2652000381235": 97,
+      "gas:candidate-vibid:2652000381667": 223,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 18,
+      "gas:candidate-vibid:2652000379290": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 5,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 73,
-      "Карлов Георгий Александрович": 142,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 14
+      "gas:candidate-vibid:2652000381737": 5,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 73,
+      "gas:candidate-vibid:2652000381667": 142,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 24,
-      "Иванова Светлана Васильевна": 105,
-      "Карлов Георгий Александрович": 214,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 13,
-      "Таран Эдуард Олегович": 23,
-      "Флеер Дмитрий Александрович": 42
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 24,
+      "gas:candidate-vibid:2652000381235": 105,
+      "gas:candidate-vibid:2652000381667": 214,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 13,
+      "gas:candidate-vibid:2652000380364": 23,
+      "gas:candidate-vibid:2652000379290": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 130,
-      "Карлов Георгий Александрович": 168,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 9,
-      "Флеер Дмитрий Александрович": 20
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 130,
+      "gas:candidate-vibid:2652000381667": 168,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 9,
+      "gas:candidate-vibid:2652000379290": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 204,
-      "Карлов Георгий Александрович": 326,
-      "Пак Вениамин Аркадьевич": 12,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 27,
-      "Флеер Дмитрий Александрович": 47
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 204,
+      "gas:candidate-vibid:2652000381667": 326,
+      "gas:candidate-vibid:2652000381925": 12,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 27,
+      "gas:candidate-vibid:2652000379290": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362106&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362106&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 24,
-      "Зенкин Александр Михайлович": 27,
-      "Иванова Светлана Васильевна": 143,
-      "Карлов Георгий Александрович": 143,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 14,
-      "Флеер Дмитрий Александрович": 40
+      "gas:candidate-vibid:2652000381737": 24,
+      "gas:candidate-vibid:2652000381296": 27,
+      "gas:candidate-vibid:2652000381235": 143,
+      "gas:candidate-vibid:2652000381667": 143,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 14,
+      "gas:candidate-vibid:2652000379290": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 6,
-      "Иванова Светлана Васильевна": 65,
-      "Карлов Георгий Александрович": 85,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 12,
-      "Флеер Дмитрий Александрович": 11
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 6,
+      "gas:candidate-vibid:2652000381235": 65,
+      "gas:candidate-vibid:2652000381667": 85,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 12,
+      "gas:candidate-vibid:2652000379290": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 5,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 116,
-      "Карлов Георгий Александрович": 121,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 36
+      "gas:candidate-vibid:2652000381737": 5,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 116,
+      "gas:candidate-vibid:2652000381667": 121,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 13,
-      "Зенкин Александр Михайлович": 25,
-      "Иванова Светлана Васильевна": 87,
-      "Карлов Георгий Александрович": 189,
-      "Пак Вениамин Аркадьевич": 17,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 49
+      "gas:candidate-vibid:2652000381737": 13,
+      "gas:candidate-vibid:2652000381296": 25,
+      "gas:candidate-vibid:2652000381235": 87,
+      "gas:candidate-vibid:2652000381667": 189,
+      "gas:candidate-vibid:2652000381925": 17,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 29,
-      "Карлов Георгий Александрович": 36,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 25
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 29,
+      "gas:candidate-vibid:2652000381667": 36,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 70,
-      "Карлов Георгий Александрович": 83,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 29
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 70,
+      "gas:candidate-vibid:2652000381667": 83,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 21,
-      "Зенкин Александр Михайлович": 20,
-      "Иванова Светлана Васильевна": 191,
-      "Карлов Георгий Александрович": 330,
-      "Пак Вениамин Аркадьевич": 4,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 20,
-      "Флеер Дмитрий Александрович": 100
+      "gas:candidate-vibid:2652000381737": 21,
+      "gas:candidate-vibid:2652000381296": 20,
+      "gas:candidate-vibid:2652000381235": 191,
+      "gas:candidate-vibid:2652000381667": 330,
+      "gas:candidate-vibid:2652000381925": 4,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 20,
+      "gas:candidate-vibid:2652000379290": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 214,
-      "Карлов Георгий Александрович": 318,
-      "Пак Вениамин Аркадьевич": 11,
-      "Репина Ирина Геннадьевна": 15,
-      "Таран Эдуард Олегович": 25,
-      "Флеер Дмитрий Александрович": 109
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 214,
+      "gas:candidate-vibid:2652000381667": 318,
+      "gas:candidate-vibid:2652000381925": 11,
+      "gas:candidate-vibid:2652000381767": 15,
+      "gas:candidate-vibid:2652000380364": 25,
+      "gas:candidate-vibid:2652000379290": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 56,
-      "Карлов Георгий Александрович": 111,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 11,
-      "Флеер Дмитрий Александрович": 14
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 56,
+      "gas:candidate-vibid:2652000381667": 111,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 11,
+      "gas:candidate-vibid:2652000379290": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 76,
-      "Карлов Георгий Александрович": 229,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 17
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 76,
+      "gas:candidate-vibid:2652000381667": 229,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 4,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 22,
-      "Карлов Георгий Александрович": 32,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 6,
-      "Флеер Дмитрий Александрович": 9
+      "gas:candidate-vibid:2652000381737": 4,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 22,
+      "gas:candidate-vibid:2652000381667": 32,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 6,
+      "gas:candidate-vibid:2652000379290": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362107&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362107&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 65,
-      "Карлов Георгий Александрович": 98,
-      "Пак Вениамин Аркадьевич": 11,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 9,
-      "Флеер Дмитрий Александрович": 20
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 65,
+      "gas:candidate-vibid:2652000381667": 98,
+      "gas:candidate-vibid:2652000381925": 11,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 9,
+      "gas:candidate-vibid:2652000379290": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 10,
-      "Иванова Светлана Васильевна": 55,
-      "Карлов Георгий Александрович": 65,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 9,
-      "Флеер Дмитрий Александрович": 18
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 10,
+      "gas:candidate-vibid:2652000381235": 55,
+      "gas:candidate-vibid:2652000381667": 65,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 9,
+      "gas:candidate-vibid:2652000379290": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 4,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 37,
-      "Карлов Георгий Александрович": 56,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 10
+      "gas:candidate-vibid:2652000381737": 4,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 37,
+      "gas:candidate-vibid:2652000381667": 56,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 8,
-      "Карлов Георгий Александрович": 6,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 3
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 8,
+      "gas:candidate-vibid:2652000381667": 6,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 38,
-      "Карлов Георгий Александрович": 38,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 9
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 38,
+      "gas:candidate-vibid:2652000381667": 38,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 7,
-      "Иванова Светлана Васильевна": 111,
-      "Карлов Георгий Александрович": 118,
-      "Пак Вениамин Аркадьевич": 7,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 12,
-      "Флеер Дмитрий Александрович": 33
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 7,
+      "gas:candidate-vibid:2652000381235": 111,
+      "gas:candidate-vibid:2652000381667": 118,
+      "gas:candidate-vibid:2652000381925": 7,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 12,
+      "gas:candidate-vibid:2652000379290": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 121,
-      "Карлов Георгий Александрович": 151,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 16,
-      "Флеер Дмитрий Александрович": 31
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 121,
+      "gas:candidate-vibid:2652000381667": 151,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 16,
+      "gas:candidate-vibid:2652000379290": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 92,
-      "Карлов Георгий Александрович": 67,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 20
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 92,
+      "gas:candidate-vibid:2652000381667": 67,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 12,
-      "Иванова Светлана Васильевна": 115,
-      "Карлов Георгий Александрович": 137,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 9,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 42
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 12,
+      "gas:candidate-vibid:2652000381235": 115,
+      "gas:candidate-vibid:2652000381667": 137,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 9,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 5,
-      "Зенкин Александр Михайлович": 19,
-      "Иванова Светлана Васильевна": 95,
-      "Карлов Георгий Александрович": 118,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 11,
-      "Флеер Дмитрий Александрович": 28
+      "gas:candidate-vibid:2652000381737": 5,
+      "gas:candidate-vibid:2652000381296": 19,
+      "gas:candidate-vibid:2652000381235": 95,
+      "gas:candidate-vibid:2652000381667": 118,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 11,
+      "gas:candidate-vibid:2652000379290": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 72,
-      "Карлов Георгий Александрович": 111,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 29
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 72,
+      "gas:candidate-vibid:2652000381667": 111,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 13,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 161,
-      "Карлов Георгий Александрович": 230,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 16,
-      "Флеер Дмитрий Александрович": 51
+      "gas:candidate-vibid:2652000381737": 13,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 161,
+      "gas:candidate-vibid:2652000381667": 230,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 16,
+      "gas:candidate-vibid:2652000379290": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 13,
-      "Зенкин Александр Михайлович": 13,
-      "Иванова Светлана Васильевна": 194,
-      "Карлов Георгий Александрович": 289,
-      "Пак Вениамин Аркадьевич": 5,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 17,
-      "Флеер Дмитрий Александрович": 48
+      "gas:candidate-vibid:2652000381737": 13,
+      "gas:candidate-vibid:2652000381296": 13,
+      "gas:candidate-vibid:2652000381235": 194,
+      "gas:candidate-vibid:2652000381667": 289,
+      "gas:candidate-vibid:2652000381925": 5,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 17,
+      "gas:candidate-vibid:2652000379290": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 24,
-      "Иванова Светлана Васильевна": 215,
-      "Карлов Георгий Александрович": 229,
-      "Пак Вениамин Аркадьевич": 5,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 19,
-      "Флеер Дмитрий Александрович": 52
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 24,
+      "gas:candidate-vibid:2652000381235": 215,
+      "gas:candidate-vibid:2652000381667": 229,
+      "gas:candidate-vibid:2652000381925": 5,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 19,
+      "gas:candidate-vibid:2652000379290": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 13,
-      "Зенкин Александр Михайлович": 14,
-      "Иванова Светлана Васильевна": 162,
-      "Карлов Георгий Александрович": 218,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 17,
-      "Флеер Дмитрий Александрович": 31
+      "gas:candidate-vibid:2652000381737": 13,
+      "gas:candidate-vibid:2652000381296": 14,
+      "gas:candidate-vibid:2652000381235": 162,
+      "gas:candidate-vibid:2652000381667": 218,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 17,
+      "gas:candidate-vibid:2652000379290": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 96,
-      "Карлов Георгий Александрович": 146,
-      "Пак Вениамин Аркадьевич": 11,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 9,
-      "Флеер Дмитрий Александрович": 22
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 96,
+      "gas:candidate-vibid:2652000381667": 146,
+      "gas:candidate-vibid:2652000381925": 11,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 9,
+      "gas:candidate-vibid:2652000379290": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 6,
-      "Иванова Светлана Васильевна": 13,
-      "Карлов Георгий Александрович": 23,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 4
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 6,
+      "gas:candidate-vibid:2652000381235": 13,
+      "gas:candidate-vibid:2652000381667": 23,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 97,
-      "Карлов Георгий Александрович": 192,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 15,
-      "Флеер Дмитрий Александрович": 51
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 97,
+      "gas:candidate-vibid:2652000381667": 192,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 15,
+      "gas:candidate-vibid:2652000379290": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 8,
-      "Карлов Георгий Александрович": 19,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 8,
+      "gas:candidate-vibid:2652000381667": 19,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 63,
-      "Карлов Георгий Александрович": 139,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 3,
-      "Флеер Дмитрий Александрович": 20
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 63,
+      "gas:candidate-vibid:2652000381667": 139,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 3,
+      "gas:candidate-vibid:2652000379290": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 20,
-      "Карлов Георгий Александрович": 71,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 4
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 20,
+      "gas:candidate-vibid:2652000381667": 71,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 46,
-      "Карлов Георгий Александрович": 52,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 10
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 46,
+      "gas:candidate-vibid:2652000381667": 52,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 55,
-      "Карлов Георгий Александрович": 56,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 15
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 55,
+      "gas:candidate-vibid:2652000381667": 56,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 12,
-      "Карлов Георгий Александрович": 18,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 2,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 12,
+      "gas:candidate-vibid:2652000381667": 18,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 2,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362108&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362108&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 0,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 0,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 2,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 2,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 0,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 0,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 4,
-      "Карлов Георгий Александрович": 15,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 4,
+      "gas:candidate-vibid:2652000381667": 15,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 3,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 3,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 20,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 20,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 13,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 13,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 9,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 9,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 4,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 4,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 15,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 15,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 10,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 10,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 9,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 9,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 27,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 27,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 22,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 22,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 22,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 22,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 16,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 16,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 11,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 11,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 19,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 19,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 10,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 2,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 10,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 2,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 18,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 18,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 8,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 8,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 20,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 20,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 20,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 20,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 7,
-      "Карлов Георгий Александрович": 3,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 3
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 7,
+      "gas:candidate-vibid:2652000381667": 3,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 23,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 23,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 24,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 24,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 26,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 26,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 26,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 26,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 13,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 13,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 12,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 12,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 19,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 19,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 2,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 2,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 19,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 19,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 15,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 15,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 14,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 14,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 20,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 20,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 4,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 4,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 8
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 14,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 14,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 26,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 26,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 5,
-      "Карлов Георгий Александрович": 7,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 4
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 5,
+      "gas:candidate-vibid:2652000381667": 7,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 5,
-      "Карлов Георгий Александрович": 12,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 2,
-      "Флеер Дмитрий Александрович": 5
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 5,
+      "gas:candidate-vibid:2652000381667": 12,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 2,
+      "gas:candidate-vibid:2652000379290": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 9,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 9,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 4,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 3
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 4,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 1,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 2,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 1,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 2,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 0,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 0,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 4,
-      "Карлов Георгий Александрович": 8,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 8
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 4,
+      "gas:candidate-vibid:2652000381667": 8,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 13,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 13,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 2,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 2,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 0,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 0,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 24,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 24,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 4,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 4,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 13,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 13,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 2,
-      "Карлов Георгий Александрович": 5,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 15
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 2,
+      "gas:candidate-vibid:2652000381667": 5,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 5,
-      "Карлов Георгий Александрович": 3,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 5,
+      "gas:candidate-vibid:2652000381667": 3,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 4,
-      "Карлов Георгий Александрович": 5,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 1
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 4,
+      "gas:candidate-vibid:2652000381667": 5,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 1,
-      "Карлов Георгий Александрович": 0,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 1,
+      "gas:candidate-vibid:2652000381667": 0,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 17,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 17,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 4,
-      "Карлов Георгий Александрович": 4,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 4,
+      "gas:candidate-vibid:2652000381667": 4,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 15,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 2
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 15,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 0,
-      "Карлов Георгий Александрович": 1,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 0
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 0,
+      "gas:candidate-vibid:2652000381667": 1,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362109&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362109&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 18,
-      "Иванова Светлана Васильевна": 127,
-      "Карлов Георгий Александрович": 215,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 14,
-      "Флеер Дмитрий Александрович": 55
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 18,
+      "gas:candidate-vibid:2652000381235": 127,
+      "gas:candidate-vibid:2652000381667": 215,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 14,
+      "gas:candidate-vibid:2652000379290": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 4,
-      "Зенкин Александр Михайлович": 24,
-      "Иванова Светлана Васильевна": 96,
-      "Карлов Георгий Александрович": 176,
-      "Пак Вениамин Аркадьевич": 5,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 8,
-      "Флеер Дмитрий Александрович": 37
+      "gas:candidate-vibid:2652000381737": 4,
+      "gas:candidate-vibid:2652000381296": 24,
+      "gas:candidate-vibid:2652000381235": 96,
+      "gas:candidate-vibid:2652000381667": 176,
+      "gas:candidate-vibid:2652000381925": 5,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 8,
+      "gas:candidate-vibid:2652000379290": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 20,
-      "Зенкин Александр Михайлович": 41,
-      "Иванова Светлана Васильевна": 120,
-      "Карлов Георгий Александрович": 246,
-      "Пак Вениамин Аркадьевич": 13,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 15,
-      "Флеер Дмитрий Александрович": 66
+      "gas:candidate-vibid:2652000381737": 20,
+      "gas:candidate-vibid:2652000381296": 41,
+      "gas:candidate-vibid:2652000381235": 120,
+      "gas:candidate-vibid:2652000381667": 246,
+      "gas:candidate-vibid:2652000381925": 13,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 15,
+      "gas:candidate-vibid:2652000379290": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 43,
-      "Иванова Светлана Васильевна": 158,
-      "Карлов Георгий Александрович": 318,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 25,
-      "Флеер Дмитрий Александрович": 88
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 43,
+      "gas:candidate-vibid:2652000381235": 158,
+      "gas:candidate-vibid:2652000381667": 318,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 25,
+      "gas:candidate-vibid:2652000379290": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 25,
-      "Зенкин Александр Михайлович": 37,
-      "Иванова Светлана Васильевна": 165,
-      "Карлов Георгий Александрович": 418,
-      "Пак Вениамин Аркадьевич": 12,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 22,
-      "Флеер Дмитрий Александрович": 92
+      "gas:candidate-vibid:2652000381737": 25,
+      "gas:candidate-vibid:2652000381296": 37,
+      "gas:candidate-vibid:2652000381235": 165,
+      "gas:candidate-vibid:2652000381667": 418,
+      "gas:candidate-vibid:2652000381925": 12,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 22,
+      "gas:candidate-vibid:2652000379290": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 19,
-      "Зенкин Александр Михайлович": 40,
-      "Иванова Светлана Васильевна": 166,
-      "Карлов Георгий Александрович": 404,
-      "Пак Вениамин Аркадьевич": 19,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 16,
-      "Флеер Дмитрий Александрович": 91
+      "gas:candidate-vibid:2652000381737": 19,
+      "gas:candidate-vibid:2652000381296": 40,
+      "gas:candidate-vibid:2652000381235": 166,
+      "gas:candidate-vibid:2652000381667": 404,
+      "gas:candidate-vibid:2652000381925": 19,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 16,
+      "gas:candidate-vibid:2652000379290": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 16,
-      "Иванова Светлана Васильевна": 81,
-      "Карлов Георгий Александрович": 198,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 16,
-      "Флеер Дмитрий Александрович": 45
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 16,
+      "gas:candidate-vibid:2652000381235": 81,
+      "gas:candidate-vibid:2652000381667": 198,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 16,
+      "gas:candidate-vibid:2652000379290": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 14,
-      "Иванова Светлана Васильевна": 42,
-      "Карлов Георгий Александрович": 109,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 17
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 14,
+      "gas:candidate-vibid:2652000381235": 42,
+      "gas:candidate-vibid:2652000381667": 109,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 5,
-      "Карлов Георгий Александрович": 14,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 9
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 5,
+      "gas:candidate-vibid:2652000381667": 14,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 27,
-      "Иванова Светлана Васильевна": 223,
-      "Карлов Георгий Александрович": 218,
-      "Пак Вениамин Аркадьевич": 12,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 24,
-      "Флеер Дмитрий Александрович": 58
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 27,
+      "gas:candidate-vibid:2652000381235": 223,
+      "gas:candidate-vibid:2652000381667": 218,
+      "gas:candidate-vibid:2652000381925": 12,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 24,
+      "gas:candidate-vibid:2652000379290": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 26,
-      "Зенкин Александр Михайлович": 46,
-      "Иванова Светлана Васильевна": 200,
-      "Карлов Георгий Александрович": 286,
-      "Пак Вениамин Аркадьевич": 22,
-      "Репина Ирина Геннадьевна": 20,
-      "Таран Эдуард Олегович": 37,
-      "Флеер Дмитрий Александрович": 99
+      "gas:candidate-vibid:2652000381737": 26,
+      "gas:candidate-vibid:2652000381296": 46,
+      "gas:candidate-vibid:2652000381235": 200,
+      "gas:candidate-vibid:2652000381667": 286,
+      "gas:candidate-vibid:2652000381925": 22,
+      "gas:candidate-vibid:2652000381767": 20,
+      "gas:candidate-vibid:2652000380364": 37,
+      "gas:candidate-vibid:2652000379290": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 26,
-      "Иванова Светлана Васильевна": 60,
-      "Карлов Георгий Александрович": 205,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 12,
-      "Флеер Дмитрий Александрович": 32
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 26,
+      "gas:candidate-vibid:2652000381235": 60,
+      "gas:candidate-vibid:2652000381667": 205,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 12,
+      "gas:candidate-vibid:2652000379290": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 41,
-      "Карлов Георгий Александрович": 69,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 16
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 41,
+      "gas:candidate-vibid:2652000381667": 69,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 27,
-      "Иванова Светлана Васильевна": 77,
-      "Карлов Георгий Александрович": 397,
-      "Пак Вениамин Аркадьевич": 7,
-      "Репина Ирина Геннадьевна": 5,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 46
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 27,
+      "gas:candidate-vibid:2652000381235": 77,
+      "gas:candidate-vibid:2652000381667": 397,
+      "gas:candidate-vibid:2652000381925": 7,
+      "gas:candidate-vibid:2652000381767": 5,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 9,
-      "Карлов Георгий Александрович": 39,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 10
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 9,
+      "gas:candidate-vibid:2652000381667": 39,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 27,
-      "Карлов Георгий Александрович": 74,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 4,
-      "Флеер Дмитрий Александрович": 3
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 27,
+      "gas:candidate-vibid:2652000381667": 74,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 4,
+      "gas:candidate-vibid:2652000379290": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 4,
-      "Зенкин Александр Михайлович": 15,
-      "Иванова Светлана Васильевна": 40,
-      "Карлов Георгий Александрович": 96,
-      "Пак Вениамин Аркадьевич": 4,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 4,
-      "Флеер Дмитрий Александрович": 14
+      "gas:candidate-vibid:2652000381737": 4,
+      "gas:candidate-vibid:2652000381296": 15,
+      "gas:candidate-vibid:2652000381235": 40,
+      "gas:candidate-vibid:2652000381667": 96,
+      "gas:candidate-vibid:2652000381925": 4,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 4,
+      "gas:candidate-vibid:2652000379290": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362110&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362110&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 122,
-      "Карлов Георгий Александрович": 121,
-      "Пак Вениамин Аркадьевич": 10,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 38
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 122,
+      "gas:candidate-vibid:2652000381667": 121,
+      "gas:candidate-vibid:2652000381925": 10,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 69,
-      "Зенкин Александр Михайлович": 61,
-      "Иванова Светлана Васильевна": 73,
-      "Карлов Георгий Александрович": 477,
-      "Пак Вениамин Аркадьевич": 52,
-      "Репина Ирина Геннадьевна": 31,
-      "Таран Эдуард Олегович": 26,
-      "Флеер Дмитрий Александрович": 86
+      "gas:candidate-vibid:2652000381737": 69,
+      "gas:candidate-vibid:2652000381296": 61,
+      "gas:candidate-vibid:2652000381235": 73,
+      "gas:candidate-vibid:2652000381667": 477,
+      "gas:candidate-vibid:2652000381925": 52,
+      "gas:candidate-vibid:2652000381767": 31,
+      "gas:candidate-vibid:2652000380364": 26,
+      "gas:candidate-vibid:2652000379290": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 29,
-      "Зенкин Александр Михайлович": 16,
-      "Иванова Светлана Васильевна": 65,
-      "Карлов Георгий Александрович": 128,
-      "Пак Вениамин Аркадьевич": 21,
-      "Репина Ирина Геннадьевна": 18,
-      "Таран Эдуард Олегович": 10,
-      "Флеер Дмитрий Александрович": 60
+      "gas:candidate-vibid:2652000381737": 29,
+      "gas:candidate-vibid:2652000381296": 16,
+      "gas:candidate-vibid:2652000381235": 65,
+      "gas:candidate-vibid:2652000381667": 128,
+      "gas:candidate-vibid:2652000381925": 21,
+      "gas:candidate-vibid:2652000381767": 18,
+      "gas:candidate-vibid:2652000380364": 10,
+      "gas:candidate-vibid:2652000379290": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 50,
-      "Карлов Георгий Александрович": 154,
-      "Пак Вениамин Аркадьевич": 20,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 77
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 50,
+      "gas:candidate-vibid:2652000381667": 154,
+      "gas:candidate-vibid:2652000381925": 20,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 44,
-      "Зенкин Александр Михайлович": 15,
-      "Иванова Светлана Васильевна": 69,
-      "Карлов Георгий Александрович": 132,
-      "Пак Вениамин Аркадьевич": 16,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 8,
-      "Флеер Дмитрий Александрович": 78
+      "gas:candidate-vibid:2652000381737": 44,
+      "gas:candidate-vibid:2652000381296": 15,
+      "gas:candidate-vibid:2652000381235": 69,
+      "gas:candidate-vibid:2652000381667": 132,
+      "gas:candidate-vibid:2652000381925": 16,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 8,
+      "gas:candidate-vibid:2652000379290": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 26,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 30,
-      "Карлов Георгий Александрович": 205,
-      "Пак Вениамин Аркадьевич": 13,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 8,
-      "Флеер Дмитрий Александрович": 35
+      "gas:candidate-vibid:2652000381737": 26,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 30,
+      "gas:candidate-vibid:2652000381667": 205,
+      "gas:candidate-vibid:2652000381925": 13,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 8,
+      "gas:candidate-vibid:2652000379290": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 48,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 30,
-      "Карлов Георгий Александрович": 111,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 35
+      "gas:candidate-vibid:2652000381737": 48,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 30,
+      "gas:candidate-vibid:2652000381667": 111,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 12,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 124,
-      "Карлов Георгий Александрович": 178,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 20,
-      "Флеер Дмитрий Александрович": 38
+      "gas:candidate-vibid:2652000381737": 12,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 124,
+      "gas:candidate-vibid:2652000381667": 178,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 20,
+      "gas:candidate-vibid:2652000379290": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 5,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 30,
-      "Карлов Георгий Александрович": 65,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 16
+      "gas:candidate-vibid:2652000381737": 5,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 30,
+      "gas:candidate-vibid:2652000381667": 65,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362111&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362111&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 19,
-      "Зенкин Александр Михайлович": 32,
-      "Иванова Светлана Васильевна": 196,
-      "Карлов Георгий Александрович": 256,
-      "Пак Вениамин Аркадьевич": 11,
-      "Репина Ирина Геннадьевна": 20,
-      "Таран Эдуард Олегович": 36,
-      "Флеер Дмитрий Александрович": 92
+      "gas:candidate-vibid:2652000381737": 19,
+      "gas:candidate-vibid:2652000381296": 32,
+      "gas:candidate-vibid:2652000381235": 196,
+      "gas:candidate-vibid:2652000381667": 256,
+      "gas:candidate-vibid:2652000381925": 11,
+      "gas:candidate-vibid:2652000381767": 20,
+      "gas:candidate-vibid:2652000380364": 36,
+      "gas:candidate-vibid:2652000379290": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 165,
-      "Карлов Георгий Александрович": 191,
-      "Пак Вениамин Аркадьевич": 13,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 20,
-      "Флеер Дмитрий Александрович": 57
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 165,
+      "gas:candidate-vibid:2652000381667": 191,
+      "gas:candidate-vibid:2652000381925": 13,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 20,
+      "gas:candidate-vibid:2652000379290": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 16,
-      "Иванова Светлана Васильевна": 114,
-      "Карлов Георгий Александрович": 192,
-      "Пак Вениамин Аркадьевич": 7,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 23,
-      "Флеер Дмитрий Александрович": 45
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 16,
+      "gas:candidate-vibid:2652000381235": 114,
+      "gas:candidate-vibid:2652000381667": 192,
+      "gas:candidate-vibid:2652000381925": 7,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 23,
+      "gas:candidate-vibid:2652000379290": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 10,
-      "Иванова Светлана Васильевна": 55,
-      "Карлов Георгий Александрович": 65,
-      "Пак Вениамин Аркадьевич": 12,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 31
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 10,
+      "gas:candidate-vibid:2652000381235": 55,
+      "gas:candidate-vibid:2652000381667": 65,
+      "gas:candidate-vibid:2652000381925": 12,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 33,
-      "Иванова Светлана Васильевна": 191,
-      "Карлов Георгий Александрович": 266,
-      "Пак Вениамин Аркадьевич": 18,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 24,
-      "Флеер Дмитрий Александрович": 68
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 33,
+      "gas:candidate-vibid:2652000381235": 191,
+      "gas:candidate-vibid:2652000381667": 266,
+      "gas:candidate-vibid:2652000381925": 18,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 24,
+      "gas:candidate-vibid:2652000379290": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 26,
-      "Иванова Светлана Васильевна": 217,
-      "Карлов Георгий Александрович": 235,
-      "Пак Вениамин Аркадьевич": 18,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 24,
-      "Флеер Дмитрий Александрович": 86
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 26,
+      "gas:candidate-vibid:2652000381235": 217,
+      "gas:candidate-vibid:2652000381667": 235,
+      "gas:candidate-vibid:2652000381925": 18,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 24,
+      "gas:candidate-vibid:2652000379290": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 19,
-      "Иванова Светлана Васильевна": 172,
-      "Карлов Георгий Александрович": 206,
-      "Пак Вениамин Аркадьевич": 27,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 26,
-      "Флеер Дмитрий Александрович": 50
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 19,
+      "gas:candidate-vibid:2652000381235": 172,
+      "gas:candidate-vibid:2652000381667": 206,
+      "gas:candidate-vibid:2652000381925": 27,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 26,
+      "gas:candidate-vibid:2652000379290": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 14,
-      "Зенкин Александр Михайлович": 21,
-      "Иванова Светлана Васильевна": 188,
-      "Карлов Георгий Александрович": 181,
-      "Пак Вениамин Аркадьевич": 18,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 58
+      "gas:candidate-vibid:2652000381737": 14,
+      "gas:candidate-vibid:2652000381296": 21,
+      "gas:candidate-vibid:2652000381235": 188,
+      "gas:candidate-vibid:2652000381667": 181,
+      "gas:candidate-vibid:2652000381925": 18,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 200,
-      "Карлов Георгий Александрович": 202,
-      "Пак Вениамин Аркадьевич": 17,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 32,
-      "Флеер Дмитрий Александрович": 95
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 200,
+      "gas:candidate-vibid:2652000381667": 202,
+      "gas:candidate-vibid:2652000381925": 17,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 32,
+      "gas:candidate-vibid:2652000379290": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 12,
-      "Иванова Светлана Васильевна": 133,
-      "Карлов Георгий Александрович": 150,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 21,
-      "Флеер Дмитрий Александрович": 57
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 12,
+      "gas:candidate-vibid:2652000381235": 133,
+      "gas:candidate-vibid:2652000381667": 150,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 21,
+      "gas:candidate-vibid:2652000379290": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 13,
-      "Иванова Светлана Васильевна": 121,
-      "Карлов Георгий Александрович": 148,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 13,
-      "Таран Эдуард Олегович": 17,
-      "Флеер Дмитрий Александрович": 53
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 13,
+      "gas:candidate-vibid:2652000381235": 121,
+      "gas:candidate-vibid:2652000381667": 148,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 13,
+      "gas:candidate-vibid:2652000380364": 17,
+      "gas:candidate-vibid:2652000379290": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 16,
-      "Иванова Светлана Васильевна": 114,
-      "Карлов Георгий Александрович": 93,
-      "Пак Вениамин Аркадьевич": 17,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 16,
-      "Флеер Дмитрий Александрович": 39
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 16,
+      "gas:candidate-vibid:2652000381235": 114,
+      "gas:candidate-vibid:2652000381667": 93,
+      "gas:candidate-vibid:2652000381925": 17,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 16,
+      "gas:candidate-vibid:2652000379290": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 26,
-      "Зенкин Александр Михайлович": 19,
-      "Иванова Светлана Васильевна": 200,
-      "Карлов Георгий Александрович": 192,
-      "Пак Вениамин Аркадьевич": 37,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 31,
-      "Флеер Дмитрий Александрович": 63
+      "gas:candidate-vibid:2652000381737": 26,
+      "gas:candidate-vibid:2652000381296": 19,
+      "gas:candidate-vibid:2652000381235": 200,
+      "gas:candidate-vibid:2652000381667": 192,
+      "gas:candidate-vibid:2652000381925": 37,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 31,
+      "gas:candidate-vibid:2652000379290": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 18,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 187,
-      "Карлов Георгий Александрович": 209,
-      "Пак Вениамин Аркадьевич": 25,
-      "Репина Ирина Геннадьевна": 13,
-      "Таран Эдуард Олегович": 30,
-      "Флеер Дмитрий Александрович": 70
+      "gas:candidate-vibid:2652000381737": 18,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 187,
+      "gas:candidate-vibid:2652000381667": 209,
+      "gas:candidate-vibid:2652000381925": 25,
+      "gas:candidate-vibid:2652000381767": 13,
+      "gas:candidate-vibid:2652000380364": 30,
+      "gas:candidate-vibid:2652000379290": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 90,
-      "Карлов Георгий Александрович": 111,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 12,
-      "Флеер Дмитрий Александрович": 35
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 90,
+      "gas:candidate-vibid:2652000381667": 111,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 12,
+      "gas:candidate-vibid:2652000379290": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 27,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 205,
-      "Карлов Георгий Александрович": 215,
-      "Пак Вениамин Аркадьевич": 36,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 31,
-      "Флеер Дмитрий Александрович": 74
+      "gas:candidate-vibid:2652000381737": 27,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 205,
+      "gas:candidate-vibid:2652000381667": 215,
+      "gas:candidate-vibid:2652000381925": 36,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 31,
+      "gas:candidate-vibid:2652000379290": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 44,
-      "Карлов Георгий Александрович": 63,
-      "Пак Вениамин Аркадьевич": 119,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 12,
-      "Флеер Дмитрий Александрович": 14
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 44,
+      "gas:candidate-vibid:2652000381667": 63,
+      "gas:candidate-vibid:2652000381925": 119,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 12,
+      "gas:candidate-vibid:2652000379290": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 39,
-      "Иванова Светлана Васильевна": 226,
-      "Карлов Георгий Александрович": 279,
-      "Пак Вениамин Аркадьевич": 143,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 59
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 39,
+      "gas:candidate-vibid:2652000381235": 226,
+      "gas:candidate-vibid:2652000381667": 279,
+      "gas:candidate-vibid:2652000381925": 143,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 5,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 22,
-      "Карлов Георгий Александрович": 27,
-      "Пак Вениамин Аркадьевич": 32,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 4,
-      "Флеер Дмитрий Александрович": 5
+      "gas:candidate-vibid:2652000381737": 5,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 22,
+      "gas:candidate-vibid:2652000381667": 27,
+      "gas:candidate-vibid:2652000381925": 32,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 4,
+      "gas:candidate-vibid:2652000379290": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 7,
-      "Иванова Светлана Васильевна": 47,
-      "Карлов Георгий Александрович": 75,
-      "Пак Вениамин Аркадьевич": 16,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 31
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 7,
+      "gas:candidate-vibid:2652000381235": 47,
+      "gas:candidate-vibid:2652000381667": 75,
+      "gas:candidate-vibid:2652000381925": 16,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 76,
-      "Карлов Георгий Александрович": 75,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 12,
-      "Флеер Дмитрий Александрович": 22
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 76,
+      "gas:candidate-vibid:2652000381667": 75,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 12,
+      "gas:candidate-vibid:2652000379290": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 24,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 215,
-      "Карлов Георгий Александрович": 253,
-      "Пак Вениамин Аркадьевич": 28,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 36,
-      "Флеер Дмитрий Александрович": 63
+      "gas:candidate-vibid:2652000381737": 24,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 215,
+      "gas:candidate-vibid:2652000381667": 253,
+      "gas:candidate-vibid:2652000381925": 28,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 36,
+      "gas:candidate-vibid:2652000379290": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 21,
-      "Зенкин Александр Михайлович": 36,
-      "Иванова Светлана Васильевна": 240,
-      "Карлов Георгий Александрович": 246,
-      "Пак Вениамин Аркадьевич": 30,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 40,
-      "Флеер Дмитрий Александрович": 78
+      "gas:candidate-vibid:2652000381737": 21,
+      "gas:candidate-vibid:2652000381296": 36,
+      "gas:candidate-vibid:2652000381235": 240,
+      "gas:candidate-vibid:2652000381667": 246,
+      "gas:candidate-vibid:2652000381925": 30,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 40,
+      "gas:candidate-vibid:2652000379290": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 35,
-      "Зенкин Александр Михайлович": 26,
-      "Иванова Светлана Васильевна": 232,
-      "Карлов Георгий Александрович": 217,
-      "Пак Вениамин Аркадьевич": 27,
-      "Репина Ирина Геннадьевна": 24,
-      "Таран Эдуард Олегович": 43,
-      "Флеер Дмитрий Александрович": 75
+      "gas:candidate-vibid:2652000381737": 35,
+      "gas:candidate-vibid:2652000381296": 26,
+      "gas:candidate-vibid:2652000381235": 232,
+      "gas:candidate-vibid:2652000381667": 217,
+      "gas:candidate-vibid:2652000381925": 27,
+      "gas:candidate-vibid:2652000381767": 24,
+      "gas:candidate-vibid:2652000380364": 43,
+      "gas:candidate-vibid:2652000379290": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 30,
-      "Зенкин Александр Михайлович": 34,
-      "Иванова Светлана Васильевна": 186,
-      "Карлов Георгий Александрович": 163,
-      "Пак Вениамин Аркадьевич": 24,
-      "Репина Ирина Геннадьевна": 9,
-      "Таран Эдуард Олегович": 34,
-      "Флеер Дмитрий Александрович": 49
+      "gas:candidate-vibid:2652000381737": 30,
+      "gas:candidate-vibid:2652000381296": 34,
+      "gas:candidate-vibid:2652000381235": 186,
+      "gas:candidate-vibid:2652000381667": 163,
+      "gas:candidate-vibid:2652000381925": 24,
+      "gas:candidate-vibid:2652000381767": 9,
+      "gas:candidate-vibid:2652000380364": 34,
+      "gas:candidate-vibid:2652000379290": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 25,
-      "Иванова Светлана Васильевна": 141,
-      "Карлов Георгий Александрович": 133,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 40
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 25,
+      "gas:candidate-vibid:2652000381235": 141,
+      "gas:candidate-vibid:2652000381667": 133,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 20,
-      "Иванова Светлана Васильевна": 190,
-      "Карлов Георгий Александрович": 207,
-      "Пак Вениамин Аркадьевич": 16,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 20,
-      "Флеер Дмитрий Александрович": 51
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 20,
+      "gas:candidate-vibid:2652000381235": 190,
+      "gas:candidate-vibid:2652000381667": 207,
+      "gas:candidate-vibid:2652000381925": 16,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 20,
+      "gas:candidate-vibid:2652000379290": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 18,
-      "Иванова Светлана Васильевна": 211,
-      "Карлов Георгий Александрович": 233,
-      "Пак Вениамин Аркадьевич": 27,
-      "Репина Ирина Геннадьевна": 23,
-      "Таран Эдуард Олегович": 39,
-      "Флеер Дмитрий Александрович": 68
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 18,
+      "gas:candidate-vibid:2652000381235": 211,
+      "gas:candidate-vibid:2652000381667": 233,
+      "gas:candidate-vibid:2652000381925": 27,
+      "gas:candidate-vibid:2652000381767": 23,
+      "gas:candidate-vibid:2652000380364": 39,
+      "gas:candidate-vibid:2652000379290": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 35,
-      "Иванова Светлана Васильевна": 273,
-      "Карлов Георгий Александрович": 198,
-      "Пак Вениамин Аркадьевич": 25,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 53,
-      "Флеер Дмитрий Александрович": 68
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 35,
+      "gas:candidate-vibid:2652000381235": 273,
+      "gas:candidate-vibid:2652000381667": 198,
+      "gas:candidate-vibid:2652000381925": 25,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 53,
+      "gas:candidate-vibid:2652000379290": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 27,
-      "Зенкин Александр Михайлович": 34,
-      "Иванова Светлана Васильевна": 237,
-      "Карлов Георгий Александрович": 200,
-      "Пак Вениамин Аркадьевич": 33,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 46,
-      "Флеер Дмитрий Александрович": 63
+      "gas:candidate-vibid:2652000381737": 27,
+      "gas:candidate-vibid:2652000381296": 34,
+      "gas:candidate-vibid:2652000381235": 237,
+      "gas:candidate-vibid:2652000381667": 200,
+      "gas:candidate-vibid:2652000381925": 33,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 46,
+      "gas:candidate-vibid:2652000379290": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 20,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 190,
-      "Карлов Георгий Александрович": 178,
-      "Пак Вениамин Аркадьевич": 15,
-      "Репина Ирина Геннадьевна": 14,
-      "Таран Эдуард Олегович": 31,
-      "Флеер Дмитрий Александрович": 64
+      "gas:candidate-vibid:2652000381737": 20,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 190,
+      "gas:candidate-vibid:2652000381667": 178,
+      "gas:candidate-vibid:2652000381925": 15,
+      "gas:candidate-vibid:2652000381767": 14,
+      "gas:candidate-vibid:2652000380364": 31,
+      "gas:candidate-vibid:2652000379290": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 14,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 140,
-      "Карлов Георгий Александрович": 180,
-      "Пак Вениамин Аркадьевич": 20,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 20,
-      "Флеер Дмитрий Александрович": 48
+      "gas:candidate-vibid:2652000381737": 14,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 140,
+      "gas:candidate-vibid:2652000381667": 180,
+      "gas:candidate-vibid:2652000381925": 20,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 20,
+      "gas:candidate-vibid:2652000379290": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 15,
-      "Иванова Светлана Васильевна": 157,
-      "Карлов Георгий Александрович": 165,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 31,
-      "Флеер Дмитрий Александрович": 56
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 15,
+      "gas:candidate-vibid:2652000381235": 157,
+      "gas:candidate-vibid:2652000381667": 165,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 31,
+      "gas:candidate-vibid:2652000379290": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 40,
-      "Зенкин Александр Михайлович": 29,
-      "Иванова Светлана Васильевна": 318,
-      "Карлов Георгий Александрович": 282,
-      "Пак Вениамин Аркадьевич": 39,
-      "Репина Ирина Геннадьевна": 20,
-      "Таран Эдуард Олегович": 45,
-      "Флеер Дмитрий Александрович": 87
+      "gas:candidate-vibid:2652000381737": 40,
+      "gas:candidate-vibid:2652000381296": 29,
+      "gas:candidate-vibid:2652000381235": 318,
+      "gas:candidate-vibid:2652000381667": 282,
+      "gas:candidate-vibid:2652000381925": 39,
+      "gas:candidate-vibid:2652000381767": 20,
+      "gas:candidate-vibid:2652000380364": 45,
+      "gas:candidate-vibid:2652000379290": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 51,
-      "Зенкин Александр Михайлович": 57,
-      "Иванова Светлана Васильевна": 250,
-      "Карлов Георгий Александрович": 318,
-      "Пак Вениамин Аркадьевич": 36,
-      "Репина Ирина Геннадьевна": 22,
-      "Таран Эдуард Олегович": 37,
-      "Флеер Дмитрий Александрович": 98
+      "gas:candidate-vibid:2652000381737": 51,
+      "gas:candidate-vibid:2652000381296": 57,
+      "gas:candidate-vibid:2652000381235": 250,
+      "gas:candidate-vibid:2652000381667": 318,
+      "gas:candidate-vibid:2652000381925": 36,
+      "gas:candidate-vibid:2652000381767": 22,
+      "gas:candidate-vibid:2652000380364": 37,
+      "gas:candidate-vibid:2652000379290": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 11,
-      "Зенкин Александр Михайлович": 18,
-      "Иванова Светлана Васильевна": 143,
-      "Карлов Георгий Александрович": 165,
-      "Пак Вениамин Аркадьевич": 19,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 27,
-      "Флеер Дмитрий Александрович": 54
+      "gas:candidate-vibid:2652000381737": 11,
+      "gas:candidate-vibid:2652000381296": 18,
+      "gas:candidate-vibid:2652000381235": 143,
+      "gas:candidate-vibid:2652000381667": 165,
+      "gas:candidate-vibid:2652000381925": 19,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 27,
+      "gas:candidate-vibid:2652000379290": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 14,
-      "Зенкин Александр Михайлович": 20,
-      "Иванова Светлана Васильевна": 217,
-      "Карлов Георгий Александрович": 234,
-      "Пак Вениамин Аркадьевич": 30,
-      "Репина Ирина Геннадьевна": 15,
-      "Таран Эдуард Олегович": 25,
-      "Флеер Дмитрий Александрович": 51
+      "gas:candidate-vibid:2652000381737": 14,
+      "gas:candidate-vibid:2652000381296": 20,
+      "gas:candidate-vibid:2652000381235": 217,
+      "gas:candidate-vibid:2652000381667": 234,
+      "gas:candidate-vibid:2652000381925": 30,
+      "gas:candidate-vibid:2652000381767": 15,
+      "gas:candidate-vibid:2652000380364": 25,
+      "gas:candidate-vibid:2652000379290": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 4,
-      "Иванова Светлана Васильевна": 56,
-      "Карлов Георгий Александрович": 56,
-      "Пак Вениамин Аркадьевич": 8,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 29
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 4,
+      "gas:candidate-vibid:2652000381235": 56,
+      "gas:candidate-vibid:2652000381667": 56,
+      "gas:candidate-vibid:2652000381925": 8,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 18,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 138,
-      "Карлов Георгий Александрович": 140,
-      "Пак Вениамин Аркадьевич": 14,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 30,
-      "Флеер Дмитрий Александрович": 59
+      "gas:candidate-vibid:2652000381737": 18,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 138,
+      "gas:candidate-vibid:2652000381667": 140,
+      "gas:candidate-vibid:2652000381925": 14,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 30,
+      "gas:candidate-vibid:2652000379290": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 36,
-      "Зенкин Александр Михайлович": 34,
-      "Иванова Светлана Васильевна": 294,
-      "Карлов Георгий Александрович": 323,
-      "Пак Вениамин Аркадьевич": 27,
-      "Репина Ирина Геннадьевна": 19,
-      "Таран Эдуард Олегович": 44,
-      "Флеер Дмитрий Александрович": 109
+      "gas:candidate-vibid:2652000381737": 36,
+      "gas:candidate-vibid:2652000381296": 34,
+      "gas:candidate-vibid:2652000381235": 294,
+      "gas:candidate-vibid:2652000381667": 323,
+      "gas:candidate-vibid:2652000381925": 27,
+      "gas:candidate-vibid:2652000381767": 19,
+      "gas:candidate-vibid:2652000380364": 44,
+      "gas:candidate-vibid:2652000379290": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 51,
-      "Зенкин Александр Михайлович": 40,
-      "Иванова Светлана Васильевна": 282,
-      "Карлов Георгий Александрович": 365,
-      "Пак Вениамин Аркадьевич": 39,
-      "Репина Ирина Геннадьевна": 24,
-      "Таран Эдуард Олегович": 46,
-      "Флеер Дмитрий Александрович": 120
+      "gas:candidate-vibid:2652000381737": 51,
+      "gas:candidate-vibid:2652000381296": 40,
+      "gas:candidate-vibid:2652000381235": 282,
+      "gas:candidate-vibid:2652000381667": 365,
+      "gas:candidate-vibid:2652000381925": 39,
+      "gas:candidate-vibid:2652000381767": 24,
+      "gas:candidate-vibid:2652000380364": 46,
+      "gas:candidate-vibid:2652000379290": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 30,
-      "Зенкин Александр Михайлович": 47,
-      "Иванова Светлана Васильевна": 314,
-      "Карлов Георгий Александрович": 330,
-      "Пак Вениамин Аркадьевич": 25,
-      "Репина Ирина Геннадьевна": 20,
-      "Таран Эдуард Олегович": 65,
-      "Флеер Дмитрий Александрович": 121
+      "gas:candidate-vibid:2652000381737": 30,
+      "gas:candidate-vibid:2652000381296": 47,
+      "gas:candidate-vibid:2652000381235": 314,
+      "gas:candidate-vibid:2652000381667": 330,
+      "gas:candidate-vibid:2652000381925": 25,
+      "gas:candidate-vibid:2652000381767": 20,
+      "gas:candidate-vibid:2652000380364": 65,
+      "gas:candidate-vibid:2652000379290": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 14,
-      "Зенкин Александр Михайлович": 12,
-      "Иванова Светлана Васильевна": 158,
-      "Карлов Георгий Александрович": 161,
-      "Пак Вениамин Аркадьевич": 39,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 27,
-      "Флеер Дмитрий Александрович": 42
+      "gas:candidate-vibid:2652000381737": 14,
+      "gas:candidate-vibid:2652000381296": 12,
+      "gas:candidate-vibid:2652000381235": 158,
+      "gas:candidate-vibid:2652000381667": 161,
+      "gas:candidate-vibid:2652000381925": 39,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 27,
+      "gas:candidate-vibid:2652000379290": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 20,
-      "Зенкин Александр Михайлович": 35,
-      "Иванова Светлана Васильевна": 247,
-      "Карлов Георгий Александрович": 213,
-      "Пак Вениамин Аркадьевич": 18,
-      "Репина Ирина Геннадьевна": 15,
-      "Таран Эдуард Олегович": 40,
-      "Флеер Дмитрий Александрович": 90
+      "gas:candidate-vibid:2652000381737": 20,
+      "gas:candidate-vibid:2652000381296": 35,
+      "gas:candidate-vibid:2652000381235": 247,
+      "gas:candidate-vibid:2652000381667": 213,
+      "gas:candidate-vibid:2652000381925": 18,
+      "gas:candidate-vibid:2652000381767": 15,
+      "gas:candidate-vibid:2652000380364": 40,
+      "gas:candidate-vibid:2652000379290": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 27,
-      "Зенкин Александр Михайлович": 34,
-      "Иванова Светлана Васильевна": 212,
-      "Карлов Георгий Александрович": 248,
-      "Пак Вениамин Аркадьевич": 26,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 45,
-      "Флеер Дмитрий Александрович": 74
+      "gas:candidate-vibid:2652000381737": 27,
+      "gas:candidate-vibid:2652000381296": 34,
+      "gas:candidate-vibid:2652000381235": 212,
+      "gas:candidate-vibid:2652000381667": 248,
+      "gas:candidate-vibid:2652000381925": 26,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 45,
+      "gas:candidate-vibid:2652000379290": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 25,
-      "Зенкин Александр Михайлович": 62,
-      "Иванова Светлана Васильевна": 195,
-      "Карлов Георгий Александрович": 157,
-      "Пак Вениамин Аркадьевич": 34,
-      "Репина Ирина Геннадьевна": 13,
-      "Таран Эдуард Олегович": 32,
-      "Флеер Дмитрий Александрович": 45
+      "gas:candidate-vibid:2652000381737": 25,
+      "gas:candidate-vibid:2652000381296": 62,
+      "gas:candidate-vibid:2652000381235": 195,
+      "gas:candidate-vibid:2652000381667": 157,
+      "gas:candidate-vibid:2652000381925": 34,
+      "gas:candidate-vibid:2652000381767": 13,
+      "gas:candidate-vibid:2652000380364": 32,
+      "gas:candidate-vibid:2652000379290": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 21,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 223,
-      "Карлов Георгий Александрович": 202,
-      "Пак Вениамин Аркадьевич": 25,
-      "Репина Ирина Геннадьевна": 11,
-      "Таран Эдуард Олегович": 36,
-      "Флеер Дмитрий Александрович": 69
+      "gas:candidate-vibid:2652000381737": 21,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 223,
+      "gas:candidate-vibid:2652000381667": 202,
+      "gas:candidate-vibid:2652000381925": 25,
+      "gas:candidate-vibid:2652000381767": 11,
+      "gas:candidate-vibid:2652000380364": 36,
+      "gas:candidate-vibid:2652000379290": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 39,
-      "Зенкин Александр Михайлович": 36,
-      "Иванова Светлана Васильевна": 308,
-      "Карлов Георгий Александрович": 340,
-      "Пак Вениамин Аркадьевич": 37,
-      "Репина Ирина Геннадьевна": 16,
-      "Таран Эдуард Олегович": 62,
-      "Флеер Дмитрий Александрович": 77
+      "gas:candidate-vibid:2652000381737": 39,
+      "gas:candidate-vibid:2652000381296": 36,
+      "gas:candidate-vibid:2652000381235": 308,
+      "gas:candidate-vibid:2652000381667": 340,
+      "gas:candidate-vibid:2652000381925": 37,
+      "gas:candidate-vibid:2652000381767": 16,
+      "gas:candidate-vibid:2652000380364": 62,
+      "gas:candidate-vibid:2652000379290": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 19,
-      "Зенкин Александр Михайлович": 30,
-      "Иванова Светлана Васильевна": 289,
-      "Карлов Георгий Александрович": 281,
-      "Пак Вениамин Аркадьевич": 43,
-      "Репина Ирина Геннадьевна": 19,
-      "Таран Эдуард Олегович": 48,
-      "Флеер Дмитрий Александрович": 96
+      "gas:candidate-vibid:2652000381737": 19,
+      "gas:candidate-vibid:2652000381296": 30,
+      "gas:candidate-vibid:2652000381235": 289,
+      "gas:candidate-vibid:2652000381667": 281,
+      "gas:candidate-vibid:2652000381925": 43,
+      "gas:candidate-vibid:2652000381767": 19,
+      "gas:candidate-vibid:2652000380364": 48,
+      "gas:candidate-vibid:2652000379290": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 32,
-      "Зенкин Александр Михайлович": 39,
-      "Иванова Светлана Васильевна": 253,
-      "Карлов Георгий Александрович": 277,
-      "Пак Вениамин Аркадьевич": 46,
-      "Репина Ирина Геннадьевна": 18,
-      "Таран Эдуард Олегович": 38,
-      "Флеер Дмитрий Александрович": 73
+      "gas:candidate-vibid:2652000381737": 32,
+      "gas:candidate-vibid:2652000381296": 39,
+      "gas:candidate-vibid:2652000381235": 253,
+      "gas:candidate-vibid:2652000381667": 277,
+      "gas:candidate-vibid:2652000381925": 46,
+      "gas:candidate-vibid:2652000381767": 18,
+      "gas:candidate-vibid:2652000380364": 38,
+      "gas:candidate-vibid:2652000379290": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 35,
-      "Зенкин Александр Михайлович": 28,
-      "Иванова Светлана Васильевна": 316,
-      "Карлов Георгий Александрович": 330,
-      "Пак Вениамин Аркадьевич": 42,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 77,
-      "Флеер Дмитрий Александрович": 85
+      "gas:candidate-vibid:2652000381737": 35,
+      "gas:candidate-vibid:2652000381296": 28,
+      "gas:candidate-vibid:2652000381235": 316,
+      "gas:candidate-vibid:2652000381667": 330,
+      "gas:candidate-vibid:2652000381925": 42,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 77,
+      "gas:candidate-vibid:2652000379290": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 23,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 210,
-      "Карлов Георгий Александрович": 195,
-      "Пак Вениамин Аркадьевич": 30,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 70
+      "gas:candidate-vibid:2652000381737": 23,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 210,
+      "gas:candidate-vibid:2652000381667": 195,
+      "gas:candidate-vibid:2652000381925": 30,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 25,
-      "Зенкин Александр Михайлович": 27,
-      "Иванова Светлана Васильевна": 247,
-      "Карлов Георгий Александрович": 219,
-      "Пак Вениамин Аркадьевич": 34,
-      "Репина Ирина Геннадьевна": 14,
-      "Таран Эдуард Олегович": 29,
-      "Флеер Дмитрий Александрович": 47
+      "gas:candidate-vibid:2652000381737": 25,
+      "gas:candidate-vibid:2652000381296": 27,
+      "gas:candidate-vibid:2652000381235": 247,
+      "gas:candidate-vibid:2652000381667": 219,
+      "gas:candidate-vibid:2652000381925": 34,
+      "gas:candidate-vibid:2652000381767": 14,
+      "gas:candidate-vibid:2652000380364": 29,
+      "gas:candidate-vibid:2652000379290": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 25,
-      "Зенкин Александр Михайлович": 18,
-      "Иванова Светлана Васильевна": 139,
-      "Карлов Георгий Александрович": 160,
-      "Пак Вениамин Аркадьевич": 31,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 50
+      "gas:candidate-vibid:2652000381737": 25,
+      "gas:candidate-vibid:2652000381296": 18,
+      "gas:candidate-vibid:2652000381235": 139,
+      "gas:candidate-vibid:2652000381667": 160,
+      "gas:candidate-vibid:2652000381925": 31,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 29,
-      "Иванова Светлана Васильевна": 222,
-      "Карлов Георгий Александрович": 207,
-      "Пак Вениамин Аркадьевич": 21,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 34,
-      "Флеер Дмитрий Александрович": 58
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 29,
+      "gas:candidate-vibid:2652000381235": 222,
+      "gas:candidate-vibid:2652000381667": 207,
+      "gas:candidate-vibid:2652000381925": 21,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 34,
+      "gas:candidate-vibid:2652000379290": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 20,
-      "Зенкин Александр Михайлович": 25,
-      "Иванова Светлана Васильевна": 171,
-      "Карлов Георгий Александрович": 201,
-      "Пак Вениамин Аркадьевич": 22,
-      "Репина Ирина Геннадьевна": 14,
-      "Таран Эдуард Олегович": 28,
-      "Флеер Дмитрий Александрович": 63
+      "gas:candidate-vibid:2652000381737": 20,
+      "gas:candidate-vibid:2652000381296": 25,
+      "gas:candidate-vibid:2652000381235": 171,
+      "gas:candidate-vibid:2652000381667": 201,
+      "gas:candidate-vibid:2652000381925": 22,
+      "gas:candidate-vibid:2652000381767": 14,
+      "gas:candidate-vibid:2652000380364": 28,
+      "gas:candidate-vibid:2652000379290": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 27,
-      "Зенкин Александр Михайлович": 28,
-      "Иванова Светлана Васильевна": 212,
-      "Карлов Георгий Александрович": 264,
-      "Пак Вениамин Аркадьевич": 24,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 31,
-      "Флеер Дмитрий Александрович": 67
+      "gas:candidate-vibid:2652000381737": 27,
+      "gas:candidate-vibid:2652000381296": 28,
+      "gas:candidate-vibid:2652000381235": 212,
+      "gas:candidate-vibid:2652000381667": 264,
+      "gas:candidate-vibid:2652000381925": 24,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 31,
+      "gas:candidate-vibid:2652000379290": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 15,
-      "Зенкин Александр Михайлович": 18,
-      "Иванова Светлана Васильевна": 82,
-      "Карлов Георгий Александрович": 160,
-      "Пак Вениамин Аркадьевич": 18,
-      "Репина Ирина Геннадьевна": 13,
-      "Таран Эдуард Олегович": 18,
-      "Флеер Дмитрий Александрович": 60
+      "gas:candidate-vibid:2652000381737": 15,
+      "gas:candidate-vibid:2652000381296": 18,
+      "gas:candidate-vibid:2652000381235": 82,
+      "gas:candidate-vibid:2652000381667": 160,
+      "gas:candidate-vibid:2652000381925": 18,
+      "gas:candidate-vibid:2652000381767": 13,
+      "gas:candidate-vibid:2652000380364": 18,
+      "gas:candidate-vibid:2652000379290": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 29,
-      "Иванова Светлана Васильевна": 214,
-      "Карлов Георгий Александрович": 230,
-      "Пак Вениамин Аркадьевич": 18,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 21,
-      "Флеер Дмитрий Александрович": 86
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 29,
+      "gas:candidate-vibid:2652000381235": 214,
+      "gas:candidate-vibid:2652000381667": 230,
+      "gas:candidate-vibid:2652000381925": 18,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 21,
+      "gas:candidate-vibid:2652000379290": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 22,
-      "Зенкин Александр Михайлович": 24,
-      "Иванова Светлана Васильевна": 153,
-      "Карлов Георгий Александрович": 174,
-      "Пак Вениамин Аркадьевич": 26,
-      "Репина Ирина Геннадьевна": 19,
-      "Таран Эдуард Олегович": 19,
-      "Флеер Дмитрий Александрович": 63
+      "gas:candidate-vibid:2652000381737": 22,
+      "gas:candidate-vibid:2652000381296": 24,
+      "gas:candidate-vibid:2652000381235": 153,
+      "gas:candidate-vibid:2652000381667": 174,
+      "gas:candidate-vibid:2652000381925": 26,
+      "gas:candidate-vibid:2652000381767": 19,
+      "gas:candidate-vibid:2652000380364": 19,
+      "gas:candidate-vibid:2652000379290": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 12,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 73,
-      "Карлов Георгий Александрович": 74,
-      "Пак Вениамин Аркадьевич": 7,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 19,
-      "Флеер Дмитрий Александрович": 30
+      "gas:candidate-vibid:2652000381737": 12,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 73,
+      "gas:candidate-vibid:2652000381667": 74,
+      "gas:candidate-vibid:2652000381925": 7,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 19,
+      "gas:candidate-vibid:2652000379290": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 18,
-      "Карлов Георгий Александрович": 26,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 4,
-      "Флеер Дмитрий Александрович": 7
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 18,
+      "gas:candidate-vibid:2652000381667": 26,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 4,
+      "gas:candidate-vibid:2652000379290": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 12,
-      "Иванова Светлана Васильевна": 140,
-      "Карлов Георгий Александрович": 185,
-      "Пак Вениамин Аркадьевич": 16,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 21,
-      "Флеер Дмитрий Александрович": 52
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 12,
+      "gas:candidate-vibid:2652000381235": 140,
+      "gas:candidate-vibid:2652000381667": 185,
+      "gas:candidate-vibid:2652000381925": 16,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 21,
+      "gas:candidate-vibid:2652000379290": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 58,
-      "Карлов Георгий Александрович": 66,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 6,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 13
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 58,
+      "gas:candidate-vibid:2652000381667": 66,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 6,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 2,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 15,
-      "Карлов Георгий Александрович": 34,
-      "Пак Вениамин Аркадьевич": 0,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 5,
-      "Флеер Дмитрий Александрович": 6
+      "gas:candidate-vibid:2652000381737": 2,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 15,
+      "gas:candidate-vibid:2652000381667": 34,
+      "gas:candidate-vibid:2652000381925": 0,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 5,
+      "gas:candidate-vibid:2652000379290": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 5,
-      "Иванова Светлана Васильевна": 44,
-      "Карлов Георгий Александрович": 56,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 12
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 5,
+      "gas:candidate-vibid:2652000381235": 44,
+      "gas:candidate-vibid:2652000381667": 56,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 9,
-      "Зенкин Александр Михайлович": 16,
-      "Иванова Светлана Васильевна": 93,
-      "Карлов Георгий Александрович": 152,
-      "Пак Вениамин Аркадьевич": 5,
-      "Репина Ирина Геннадьевна": 9,
-      "Таран Эдуард Олегович": 19,
-      "Флеер Дмитрий Александрович": 46
+      "gas:candidate-vibid:2652000381737": 9,
+      "gas:candidate-vibid:2652000381296": 16,
+      "gas:candidate-vibid:2652000381235": 93,
+      "gas:candidate-vibid:2652000381667": 152,
+      "gas:candidate-vibid:2652000381925": 5,
+      "gas:candidate-vibid:2652000381767": 9,
+      "gas:candidate-vibid:2652000380364": 19,
+      "gas:candidate-vibid:2652000379290": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 8,
-      "Зенкин Александр Михайлович": 12,
-      "Иванова Светлана Васильевна": 84,
-      "Карлов Георгий Александрович": 146,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 13,
-      "Флеер Дмитрий Александрович": 34
+      "gas:candidate-vibid:2652000381737": 8,
+      "gas:candidate-vibid:2652000381296": 12,
+      "gas:candidate-vibid:2652000381235": 84,
+      "gas:candidate-vibid:2652000381667": 146,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 13,
+      "gas:candidate-vibid:2652000379290": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 3,
-      "Иванова Светлана Васильевна": 12,
-      "Карлов Георгий Александрович": 36,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 1,
-      "Таран Эдуард Олегович": 10,
-      "Флеер Дмитрий Александрович": 3
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 3,
+      "gas:candidate-vibid:2652000381235": 12,
+      "gas:candidate-vibid:2652000381667": 36,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 1,
+      "gas:candidate-vibid:2652000380364": 10,
+      "gas:candidate-vibid:2652000379290": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 34,
-      "Зенкин Александр Михайлович": 14,
-      "Иванова Светлана Васильевна": 29,
-      "Карлов Георгий Александрович": 45,
-      "Пак Вениамин Аркадьевич": 9,
-      "Репина Ирина Геннадьевна": 7,
-      "Таран Эдуард Олегович": 6,
-      "Флеер Дмитрий Александрович": 8
+      "gas:candidate-vibid:2652000381737": 34,
+      "gas:candidate-vibid:2652000381296": 14,
+      "gas:candidate-vibid:2652000381235": 29,
+      "gas:candidate-vibid:2652000381667": 45,
+      "gas:candidate-vibid:2652000381925": 9,
+      "gas:candidate-vibid:2652000381767": 7,
+      "gas:candidate-vibid:2652000380364": 6,
+      "gas:candidate-vibid:2652000379290": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 7,
-      "Зенкин Александр Михайлович": 9,
-      "Иванова Светлана Васильевна": 33,
-      "Карлов Георгий Александрович": 92,
-      "Пак Вениамин Аркадьевич": 3,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 10,
-      "Флеер Дмитрий Александрович": 20
+      "gas:candidate-vibid:2652000381737": 7,
+      "gas:candidate-vibid:2652000381296": 9,
+      "gas:candidate-vibid:2652000381235": 33,
+      "gas:candidate-vibid:2652000381667": 92,
+      "gas:candidate-vibid:2652000381925": 3,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 10,
+      "gas:candidate-vibid:2652000379290": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 33,
-      "Карлов Георгий Александрович": 46,
-      "Пак Вениамин Аркадьевич": 44,
-      "Репина Ирина Геннадьевна": 4,
-      "Таран Эдуард Олегович": 9,
-      "Флеер Дмитрий Александрович": 13
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 33,
+      "gas:candidate-vibid:2652000381667": 46,
+      "gas:candidate-vibid:2652000381925": 44,
+      "gas:candidate-vibid:2652000381767": 4,
+      "gas:candidate-vibid:2652000380364": 9,
+      "gas:candidate-vibid:2652000379290": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 3,
-      "Зенкин Александр Михайлович": 1,
-      "Иванова Светлана Васильевна": 21,
-      "Карлов Георгий Александрович": 22,
-      "Пак Вениамин Аркадьевич": 4,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 3,
-      "Флеер Дмитрий Александрович": 14
+      "gas:candidate-vibid:2652000381737": 3,
+      "gas:candidate-vibid:2652000381296": 1,
+      "gas:candidate-vibid:2652000381235": 21,
+      "gas:candidate-vibid:2652000381667": 22,
+      "gas:candidate-vibid:2652000381925": 4,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 3,
+      "gas:candidate-vibid:2652000379290": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 3,
-      "Иванова Светлана Васильевна": 11,
-      "Карлов Георгий Александрович": 21,
-      "Пак Вениамин Аркадьевич": 1,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 4,
-      "Флеер Дмитрий Александрович": 12
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 3,
+      "gas:candidate-vibid:2652000381235": 11,
+      "gas:candidate-vibid:2652000381667": 21,
+      "gas:candidate-vibid:2652000381925": 1,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 4,
+      "gas:candidate-vibid:2652000379290": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 3,
-      "Иванова Светлана Васильевна": 6,
-      "Карлов Георгий Александрович": 23,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 0,
-      "Таран Эдуард Олегович": 2,
-      "Флеер Дмитрий Александрович": 3
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 3,
+      "gas:candidate-vibid:2652000381235": 6,
+      "gas:candidate-vibid:2652000381667": 23,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 0,
+      "gas:candidate-vibid:2652000380364": 2,
+      "gas:candidate-vibid:2652000379290": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 45,
-      "Карлов Георгий Александрович": 62,
-      "Пак Вениамин Аркадьевич": 7,
-      "Репина Ирина Геннадьевна": 3,
-      "Таран Эдуард Олегович": 8,
-      "Флеер Дмитрий Александрович": 18
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 45,
+      "gas:candidate-vibid:2652000381667": 62,
+      "gas:candidate-vibid:2652000381925": 7,
+      "gas:candidate-vibid:2652000381767": 3,
+      "gas:candidate-vibid:2652000380364": 8,
+      "gas:candidate-vibid:2652000379290": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 37,
-      "Зенкин Александр Михайлович": 43,
-      "Иванова Светлана Васильевна": 150,
-      "Карлов Георгий Александрович": 251,
-      "Пак Вениамин Аркадьевич": 53,
-      "Репина Ирина Геннадьевна": 19,
-      "Таран Эдуард Олегович": 42,
-      "Флеер Дмитрий Александрович": 76
+      "gas:candidate-vibid:2652000381737": 37,
+      "gas:candidate-vibid:2652000381296": 43,
+      "gas:candidate-vibid:2652000381235": 150,
+      "gas:candidate-vibid:2652000381667": 251,
+      "gas:candidate-vibid:2652000381925": 53,
+      "gas:candidate-vibid:2652000381767": 19,
+      "gas:candidate-vibid:2652000380364": 42,
+      "gas:candidate-vibid:2652000379290": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 17,
-      "Зенкин Александр Михайлович": 8,
-      "Иванова Светлана Васильевна": 22,
-      "Карлов Георгий Александрович": 65,
-      "Пак Вениамин Аркадьевич": 10,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 10,
-      "Флеер Дмитрий Александрович": 50
+      "gas:candidate-vibid:2652000381737": 17,
+      "gas:candidate-vibid:2652000381296": 8,
+      "gas:candidate-vibid:2652000381235": 22,
+      "gas:candidate-vibid:2652000381667": 65,
+      "gas:candidate-vibid:2652000381925": 10,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 10,
+      "gas:candidate-vibid:2652000379290": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 6,
-      "Зенкин Александр Михайлович": 17,
-      "Иванова Светлана Васильевна": 65,
-      "Карлов Георгий Александрович": 74,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 7,
-      "Флеер Дмитрий Александрович": 34
+      "gas:candidate-vibid:2652000381737": 6,
+      "gas:candidate-vibid:2652000381296": 17,
+      "gas:candidate-vibid:2652000381235": 65,
+      "gas:candidate-vibid:2652000381667": 74,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 7,
+      "gas:candidate-vibid:2652000379290": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 15,
-      "Зенкин Александр Михайлович": 15,
-      "Иванова Светлана Васильевна": 118,
-      "Карлов Георгий Александрович": 132,
-      "Пак Вениамин Аркадьевич": 23,
-      "Репина Ирина Геннадьевна": 10,
-      "Таран Эдуард Олегович": 25,
-      "Флеер Дмитрий Александрович": 44
+      "gas:candidate-vibid:2652000381737": 15,
+      "gas:candidate-vibid:2652000381296": 15,
+      "gas:candidate-vibid:2652000381235": 118,
+      "gas:candidate-vibid:2652000381667": 132,
+      "gas:candidate-vibid:2652000381925": 23,
+      "gas:candidate-vibid:2652000381767": 10,
+      "gas:candidate-vibid:2652000380364": 25,
+      "gas:candidate-vibid:2652000379290": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 74,
-      "Карлов Георгий Александрович": 98,
-      "Пак Вениамин Аркадьевич": 60,
-      "Репина Ирина Геннадьевна": 12,
-      "Таран Эдуард Олегович": 15,
-      "Флеер Дмитрий Александрович": 38
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 74,
+      "gas:candidate-vibid:2652000381667": 98,
+      "gas:candidate-vibid:2652000381925": 60,
+      "gas:candidate-vibid:2652000381767": 12,
+      "gas:candidate-vibid:2652000380364": 15,
+      "gas:candidate-vibid:2652000379290": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 16,
-      "Зенкин Александр Михайлович": 26,
-      "Иванова Светлана Васильевна": 154,
-      "Карлов Георгий Александрович": 128,
-      "Пак Вениамин Аркадьевич": 19,
-      "Репина Ирина Геннадьевна": 8,
-      "Таран Эдуард Олегович": 18,
-      "Флеер Дмитрий Александрович": 31
+      "gas:candidate-vibid:2652000381737": 16,
+      "gas:candidate-vibid:2652000381296": 26,
+      "gas:candidate-vibid:2652000381235": 154,
+      "gas:candidate-vibid:2652000381667": 128,
+      "gas:candidate-vibid:2652000381925": 19,
+      "gas:candidate-vibid:2652000381767": 8,
+      "gas:candidate-vibid:2652000380364": 18,
+      "gas:candidate-vibid:2652000379290": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 10,
-      "Зенкин Александр Михайлович": 11,
-      "Иванова Светлана Васильевна": 122,
-      "Карлов Георгий Александрович": 110,
-      "Пак Вениамин Аркадьевич": 29,
-      "Репина Ирина Геннадьевна": 19,
-      "Таран Эдуард Олегович": 22,
-      "Флеер Дмитрий Александрович": 48
+      "gas:candidate-vibid:2652000381737": 10,
+      "gas:candidate-vibid:2652000381296": 11,
+      "gas:candidate-vibid:2652000381235": 122,
+      "gas:candidate-vibid:2652000381667": 110,
+      "gas:candidate-vibid:2652000381925": 29,
+      "gas:candidate-vibid:2652000381767": 19,
+      "gas:candidate-vibid:2652000380364": 22,
+      "gas:candidate-vibid:2652000379290": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 72,
-      "Зенкин Александр Михайлович": 68,
-      "Иванова Светлана Васильевна": 156,
-      "Карлов Георгий Александрович": 374,
-      "Пак Вениамин Аркадьевич": 43,
-      "Репина Ирина Геннадьевна": 63,
-      "Таран Эдуард Олегович": 57,
-      "Флеер Дмитрий Александрович": 159
+      "gas:candidate-vibid:2652000381737": 72,
+      "gas:candidate-vibid:2652000381296": 68,
+      "gas:candidate-vibid:2652000381235": 156,
+      "gas:candidate-vibid:2652000381667": 374,
+      "gas:candidate-vibid:2652000381925": 43,
+      "gas:candidate-vibid:2652000381767": 63,
+      "gas:candidate-vibid:2652000380364": 57,
+      "gas:candidate-vibid:2652000379290": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 18,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 115,
-      "Карлов Георгий Александрович": 186,
-      "Пак Вениамин Аркадьевич": 22,
-      "Репина Ирина Геннадьевна": 13,
-      "Таран Эдуард Олегович": 21,
-      "Флеер Дмитрий Александрович": 73
+      "gas:candidate-vibid:2652000381737": 18,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 115,
+      "gas:candidate-vibid:2652000381667": 186,
+      "gas:candidate-vibid:2652000381925": 22,
+      "gas:candidate-vibid:2652000381767": 13,
+      "gas:candidate-vibid:2652000380364": 21,
+      "gas:candidate-vibid:2652000379290": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 1,
-      "Зенкин Александр Михайлович": 0,
-      "Иванова Светлана Васильевна": 4,
-      "Карлов Георгий Александрович": 7,
-      "Пак Вениамин Аркадьевич": 2,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 0,
-      "Флеер Дмитрий Александрович": 4
+      "gas:candidate-vibid:2652000381737": 1,
+      "gas:candidate-vibid:2652000381296": 0,
+      "gas:candidate-vibid:2652000381235": 4,
+      "gas:candidate-vibid:2652000381667": 7,
+      "gas:candidate-vibid:2652000381925": 2,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 0,
+      "gas:candidate-vibid:2652000379290": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 138,
-      "Зенкин Александр Михайлович": 69,
-      "Иванова Светлана Васильевна": 302,
-      "Карлов Георгий Александрович": 1318,
-      "Пак Вениамин Аркадьевич": 74,
-      "Репина Ирина Геннадьевна": 46,
-      "Таран Эдуард Олегович": 42,
-      "Флеер Дмитрий Александрович": 89
+      "gas:candidate-vibid:2652000381737": 138,
+      "gas:candidate-vibid:2652000381296": 69,
+      "gas:candidate-vibid:2652000381235": 302,
+      "gas:candidate-vibid:2652000381667": 1318,
+      "gas:candidate-vibid:2652000381925": 74,
+      "gas:candidate-vibid:2652000381767": 46,
+      "gas:candidate-vibid:2652000380364": 42,
+      "gas:candidate-vibid:2652000379290": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 177,
-      "Зенкин Александр Михайлович": 92,
-      "Иванова Светлана Васильевна": 430,
-      "Карлов Георгий Александрович": 1979,
-      "Пак Вениамин Аркадьевич": 77,
-      "Репина Ирина Геннадьевна": 59,
-      "Таран Эдуард Олегович": 57,
-      "Флеер Дмитрий Александрович": 132
+      "gas:candidate-vibid:2652000381737": 177,
+      "gas:candidate-vibid:2652000381296": 92,
+      "gas:candidate-vibid:2652000381235": 430,
+      "gas:candidate-vibid:2652000381667": 1979,
+      "gas:candidate-vibid:2652000381925": 77,
+      "gas:candidate-vibid:2652000381767": 59,
+      "gas:candidate-vibid:2652000380364": 57,
+      "gas:candidate-vibid:2652000379290": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 42,
-      "Зенкин Александр Михайлович": 23,
-      "Иванова Светлана Васильевна": 151,
-      "Карлов Георгий Александрович": 548,
-      "Пак Вениамин Аркадьевич": 46,
-      "Репина Ирина Геннадьевна": 20,
-      "Таран Эдуард Олегович": 24,
-      "Флеер Дмитрий Александрович": 45
+      "gas:candidate-vibid:2652000381737": 42,
+      "gas:candidate-vibid:2652000381296": 23,
+      "gas:candidate-vibid:2652000381235": 151,
+      "gas:candidate-vibid:2652000381667": 548,
+      "gas:candidate-vibid:2652000381925": 46,
+      "gas:candidate-vibid:2652000381767": 20,
+      "gas:candidate-vibid:2652000380364": 24,
+      "gas:candidate-vibid:2652000379290": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 130,
-      "Зенкин Александр Михайлович": 76,
-      "Иванова Светлана Васильевна": 315,
-      "Карлов Георгий Александрович": 1196,
-      "Пак Вениамин Аркадьевич": 69,
-      "Репина Ирина Геннадьевна": 45,
-      "Таран Эдуард Олегович": 50,
-      "Флеер Дмитрий Александрович": 86
+      "gas:candidate-vibid:2652000381737": 130,
+      "gas:candidate-vibid:2652000381296": 76,
+      "gas:candidate-vibid:2652000381235": 315,
+      "gas:candidate-vibid:2652000381667": 1196,
+      "gas:candidate-vibid:2652000381925": 69,
+      "gas:candidate-vibid:2652000381767": 45,
+      "gas:candidate-vibid:2652000380364": 50,
+      "gas:candidate-vibid:2652000379290": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362112&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362112&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 0,
-      "Зенкин Александр Михайлович": 2,
-      "Иванова Светлана Васильевна": 12,
-      "Карлов Георгий Александрович": 39,
-      "Пак Вениамин Аркадьевич": 6,
-      "Репина Ирина Геннадьевна": 2,
-      "Таран Эдуард Олегович": 1,
-      "Флеер Дмитрий Александрович": 12
+      "gas:candidate-vibid:2652000381737": 0,
+      "gas:candidate-vibid:2652000381296": 2,
+      "gas:candidate-vibid:2652000381235": 12,
+      "gas:candidate-vibid:2652000381667": 39,
+      "gas:candidate-vibid:2652000381925": 6,
+      "gas:candidate-vibid:2652000381767": 2,
+      "gas:candidate-vibid:2652000380364": 1,
+      "gas:candidate-vibid:2652000379290": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362113&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362113&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 29,
-      "Зенкин Александр Михайлович": 22,
-      "Иванова Светлана Васильевна": 111,
-      "Карлов Георгий Александрович": 397,
-      "Пак Вениамин Аркадьевич": 34,
-      "Репина Ирина Геннадьевна": 14,
-      "Таран Эдуард Олегович": 16,
-      "Флеер Дмитрий Александрович": 98
+      "gas:candidate-vibid:2652000381737": 29,
+      "gas:candidate-vibid:2652000381296": 22,
+      "gas:candidate-vibid:2652000381235": 111,
+      "gas:candidate-vibid:2652000381667": 397,
+      "gas:candidate-vibid:2652000381925": 34,
+      "gas:candidate-vibid:2652000381767": 14,
+      "gas:candidate-vibid:2652000380364": 16,
+      "gas:candidate-vibid:2652000379290": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362113&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362113&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 15,
-      "Зенкин Александр Михайлович": 29,
-      "Иванова Светлана Васильевна": 159,
-      "Карлов Георгий Александрович": 543,
-      "Пак Вениамин Аркадьевич": 45,
-      "Репина Ирина Геннадьевна": 17,
-      "Таран Эдуард Олегович": 44,
-      "Флеер Дмитрий Александрович": 125
+      "gas:candidate-vibid:2652000381737": 15,
+      "gas:candidate-vibid:2652000381296": 29,
+      "gas:candidate-vibid:2652000381235": 159,
+      "gas:candidate-vibid:2652000381667": 543,
+      "gas:candidate-vibid:2652000381925": 45,
+      "gas:candidate-vibid:2652000381767": 17,
+      "gas:candidate-vibid:2652000380364": 44,
+      "gas:candidate-vibid:2652000379290": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362113&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362113&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_65_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Григоренко Алексей Николаевич": 12,
-      "Зенкин Александр Михайлович": 20,
-      "Иванова Светлана Васильевна": 83,
-      "Карлов Георгий Александрович": 291,
-      "Пак Вениамин Аркадьевич": 38,
-      "Репина Ирина Геннадьевна": 24,
-      "Таран Эдуард Олегович": 23,
-      "Флеер Дмитрий Александрович": 92
+      "gas:candidate-vibid:2652000381737": 12,
+      "gas:candidate-vibid:2652000381296": 20,
+      "gas:candidate-vibid:2652000381235": 83,
+      "gas:candidate-vibid:2652000381667": 291,
+      "gas:candidate-vibid:2652000381925": 38,
+      "gas:candidate-vibid:2652000381767": 24,
+      "gas:candidate-vibid:2652000380364": 23,
+      "gas:candidate-vibid:2652000379290": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sakhalin?action=show&root=1000220&tvd=2652000362113&vrn=100100067795849&region=65&global=&sub_region=65&prver=0&pronetvd=null&vibid=2652000362113&type=464",

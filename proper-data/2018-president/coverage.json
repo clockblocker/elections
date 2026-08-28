@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "election": "2018-president",
   "regions": [
     {
@@ -1069,6 +1069,25 @@
       "reconciliation_status": "passed"
     }
   ],
+  "registry_gates": {
+    "sources_complete": true,
+    "registry_counts_complete": true,
+    "every_result_choice_matched_to_official_identity": true,
+    "identity_key_formulas_valid": true,
+    "uik_and_tik_vote_key_sets_valid": true,
+    "regular_and_special_winner_keys_exclusive": true,
+    "allowed_source_anomalies_exact": true,
+    "literal_elected_and_unique_highest_winner_agree": true,
+    "allowed_anomalies": [],
+    "errors": {
+      "sources": [],
+      "registry": [],
+      "identity": [],
+      "winner": []
+    },
+    "passed": true,
+    "publishable": true
+  },
   "summary": {
     "regions": 87,
     "districts": 0,
@@ -1081,7 +1100,9 @@
     "build_errors": 0,
     "duplicate_conflicts": 0,
     "direct_recovery_requests": 20,
-    "direct_recovery_valid": 0
+    "direct_recovery_valid": 0,
+    "registry_sources_complete": true,
+    "registry_gates_passed": true
   },
   "failed_direct_recovery": [
     {

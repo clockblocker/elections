@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 149,
-      "Большаков Иван Петрович": 22,
-      "Володин Вячеслав Викторович": 1163,
-      "Граф Юрий Валентинович": 14,
-      "Караман Наталья Леонидовна": 8,
-      "Смирнов Владимир Сергеевич": 65,
-      "Смирнов Вячеслав Николаевич": 11,
-      "Тагунов Александр Васильевич": 26,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121904": 149,
+      "gas:candidate-vibid:1001000112252": 22,
+      "gas:candidate-vibid:1001000225982": 1163,
+      "gas:candidate-vibid:364300170375": 14,
+      "gas:candidate-vibid:1001000121286": 8,
+      "gas:candidate-vibid:1001000113976": 65,
+      "gas:candidate-vibid:1001000195138": 11,
+      "gas:candidate-vibid:1001000136117": 26,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Большаков Иван Петрович": 24,
-      "Володин Вячеслав Викторович": 932,
-      "Граф Юрий Валентинович": 8,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 51,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 34,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121904": 112,
+      "gas:candidate-vibid:1001000112252": 24,
+      "gas:candidate-vibid:1001000225982": 932,
+      "gas:candidate-vibid:364300170375": 8,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 51,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 34,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 135,
-      "Большаков Иван Петрович": 26,
-      "Володин Вячеслав Викторович": 1026,
-      "Граф Юрий Валентинович": 15,
-      "Караман Наталья Леонидовна": 11,
-      "Смирнов Владимир Сергеевич": 73,
-      "Смирнов Вячеслав Николаевич": 11,
-      "Тагунов Александр Васильевич": 36,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121904": 135,
+      "gas:candidate-vibid:1001000112252": 26,
+      "gas:candidate-vibid:1001000225982": 1026,
+      "gas:candidate-vibid:364300170375": 15,
+      "gas:candidate-vibid:1001000121286": 11,
+      "gas:candidate-vibid:1001000113976": 73,
+      "gas:candidate-vibid:1001000195138": 11,
+      "gas:candidate-vibid:1001000136117": 36,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 160,
-      "Большаков Иван Петрович": 24,
-      "Володин Вячеслав Викторович": 1400,
-      "Граф Юрий Валентинович": 6,
-      "Караман Наталья Леонидовна": 15,
-      "Смирнов Владимир Сергеевич": 71,
-      "Смирнов Вячеслав Николаевич": 8,
-      "Тагунов Александр Васильевич": 27,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121904": 160,
+      "gas:candidate-vibid:1001000112252": 24,
+      "gas:candidate-vibid:1001000225982": 1400,
+      "gas:candidate-vibid:364300170375": 6,
+      "gas:candidate-vibid:1001000121286": 15,
+      "gas:candidate-vibid:1001000113976": 71,
+      "gas:candidate-vibid:1001000195138": 8,
+      "gas:candidate-vibid:1001000136117": 27,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 156,
-      "Большаков Иван Петрович": 29,
-      "Володин Вячеслав Викторович": 1370,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 6,
-      "Смирнов Владимир Сергеевич": 48,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 25,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121904": 156,
+      "gas:candidate-vibid:1001000112252": 29,
+      "gas:candidate-vibid:1001000225982": 1370,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 6,
+      "gas:candidate-vibid:1001000113976": 48,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 25,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 86,
-      "Большаков Иван Петрович": 29,
-      "Володин Вячеслав Викторович": 1098,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 16,
-      "Смирнов Владимир Сергеевич": 74,
-      "Смирнов Вячеслав Николаевич": 9,
-      "Тагунов Александр Васильевич": 22,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121904": 86,
+      "gas:candidate-vibid:1001000112252": 29,
+      "gas:candidate-vibid:1001000225982": 1098,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 16,
+      "gas:candidate-vibid:1001000113976": 74,
+      "gas:candidate-vibid:1001000195138": 9,
+      "gas:candidate-vibid:1001000136117": 22,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 90,
-      "Большаков Иван Петрович": 19,
-      "Володин Вячеслав Викторович": 1079,
-      "Граф Юрий Валентинович": 7,
-      "Караман Наталья Леонидовна": 11,
-      "Смирнов Владимир Сергеевич": 75,
-      "Смирнов Вячеслав Николаевич": 12,
-      "Тагунов Александр Васильевич": 34,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000121904": 90,
+      "gas:candidate-vibid:1001000112252": 19,
+      "gas:candidate-vibid:1001000225982": 1079,
+      "gas:candidate-vibid:364300170375": 7,
+      "gas:candidate-vibid:1001000121286": 11,
+      "gas:candidate-vibid:1001000113976": 75,
+      "gas:candidate-vibid:1001000195138": 12,
+      "gas:candidate-vibid:1001000136117": 34,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 93,
-      "Большаков Иван Петрович": 16,
-      "Володин Вячеслав Викторович": 1122,
-      "Граф Юрий Валентинович": 7,
-      "Караман Наталья Леонидовна": 15,
-      "Смирнов Владимир Сергеевич": 68,
-      "Смирнов Вячеслав Николаевич": 7,
-      "Тагунов Александр Васильевич": 30,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121904": 93,
+      "gas:candidate-vibid:1001000112252": 16,
+      "gas:candidate-vibid:1001000225982": 1122,
+      "gas:candidate-vibid:364300170375": 7,
+      "gas:candidate-vibid:1001000121286": 15,
+      "gas:candidate-vibid:1001000113976": 68,
+      "gas:candidate-vibid:1001000195138": 7,
+      "gas:candidate-vibid:1001000136117": 30,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 114,
-      "Большаков Иван Петрович": 27,
-      "Володин Вячеслав Викторович": 1098,
-      "Граф Юрий Валентинович": 4,
-      "Караман Наталья Леонидовна": 8,
-      "Смирнов Владимир Сергеевич": 57,
-      "Смирнов Вячеслав Николаевич": 4,
-      "Тагунов Александр Васильевич": 33,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121904": 114,
+      "gas:candidate-vibid:1001000112252": 27,
+      "gas:candidate-vibid:1001000225982": 1098,
+      "gas:candidate-vibid:364300170375": 4,
+      "gas:candidate-vibid:1001000121286": 8,
+      "gas:candidate-vibid:1001000113976": 57,
+      "gas:candidate-vibid:1001000195138": 4,
+      "gas:candidate-vibid:1001000136117": 33,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 151,
-      "Большаков Иван Петрович": 16,
-      "Володин Вячеслав Викторович": 1311,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 7,
-      "Смирнов Владимир Сергеевич": 67,
-      "Смирнов Вячеслав Николаевич": 11,
-      "Тагунов Александр Васильевич": 40,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121904": 151,
+      "gas:candidate-vibid:1001000112252": 16,
+      "gas:candidate-vibid:1001000225982": 1311,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 7,
+      "gas:candidate-vibid:1001000113976": 67,
+      "gas:candidate-vibid:1001000195138": 11,
+      "gas:candidate-vibid:1001000136117": 40,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 101,
-      "Большаков Иван Петрович": 17,
-      "Володин Вячеслав Викторович": 1006,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 15,
-      "Смирнов Владимир Сергеевич": 69,
-      "Смирнов Вячеслав Николаевич": 7,
-      "Тагунов Александр Васильевич": 34,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121904": 101,
+      "gas:candidate-vibid:1001000112252": 17,
+      "gas:candidate-vibid:1001000225982": 1006,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 15,
+      "gas:candidate-vibid:1001000113976": 69,
+      "gas:candidate-vibid:1001000195138": 7,
+      "gas:candidate-vibid:1001000136117": 34,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 154,
-      "Большаков Иван Петрович": 18,
-      "Володин Вячеслав Викторович": 1391,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 5,
-      "Смирнов Владимир Сергеевич": 70,
-      "Смирнов Вячеслав Николаевич": 2,
-      "Тагунов Александр Васильевич": 27,
-      "Чирков Евгений Петрович": 4,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121904": 154,
+      "gas:candidate-vibid:1001000112252": 18,
+      "gas:candidate-vibid:1001000225982": 1391,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 5,
+      "gas:candidate-vibid:1001000113976": 70,
+      "gas:candidate-vibid:1001000195138": 2,
+      "gas:candidate-vibid:1001000136117": 27,
+      "gas:candidate-vibid:364300170488": 4,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 158,
-      "Большаков Иван Петрович": 21,
-      "Володин Вячеслав Викторович": 1331,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 10,
-      "Смирнов Владимир Сергеевич": 91,
-      "Смирнов Вячеслав Николаевич": 8,
-      "Тагунов Александр Васильевич": 30,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121904": 158,
+      "gas:candidate-vibid:1001000112252": 21,
+      "gas:candidate-vibid:1001000225982": 1331,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 10,
+      "gas:candidate-vibid:1001000113976": 91,
+      "gas:candidate-vibid:1001000195138": 8,
+      "gas:candidate-vibid:1001000136117": 30,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 168,
-      "Большаков Иван Петрович": 31,
-      "Володин Вячеслав Викторович": 1251,
-      "Граф Юрий Валентинович": 7,
-      "Караман Наталья Леонидовна": 8,
-      "Смирнов Владимир Сергеевич": 83,
-      "Смирнов Вячеслав Николаевич": 5,
-      "Тагунов Александр Васильевич": 49,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121904": 168,
+      "gas:candidate-vibid:1001000112252": 31,
+      "gas:candidate-vibid:1001000225982": 1251,
+      "gas:candidate-vibid:364300170375": 7,
+      "gas:candidate-vibid:1001000121286": 8,
+      "gas:candidate-vibid:1001000113976": 83,
+      "gas:candidate-vibid:1001000195138": 5,
+      "gas:candidate-vibid:1001000136117": 49,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 99,
-      "Большаков Иван Петрович": 22,
-      "Володин Вячеслав Викторович": 886,
-      "Граф Юрий Валентинович": 8,
-      "Караман Наталья Леонидовна": 9,
-      "Смирнов Владимир Сергеевич": 58,
-      "Смирнов Вячеслав Николаевич": 6,
-      "Тагунов Александр Васильевич": 33,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121904": 99,
+      "gas:candidate-vibid:1001000112252": 22,
+      "gas:candidate-vibid:1001000225982": 886,
+      "gas:candidate-vibid:364300170375": 8,
+      "gas:candidate-vibid:1001000121286": 9,
+      "gas:candidate-vibid:1001000113976": 58,
+      "gas:candidate-vibid:1001000195138": 6,
+      "gas:candidate-vibid:1001000136117": 33,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 39,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 172,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 14,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 5,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121904": 39,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 172,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 14,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 5,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 28,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 841,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 5,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121904": 28,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 841,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 5,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 45,
-      "Большаков Иван Петрович": 9,
-      "Володин Вячеслав Викторович": 469,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121904": 45,
+      "gas:candidate-vibid:1001000112252": 9,
+      "gas:candidate-vibid:1001000225982": 469,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 72,
-      "Большаков Иван Петрович": 8,
-      "Володин Вячеслав Викторович": 745,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 4,
-      "Смирнов Владимир Сергеевич": 16,
-      "Смирнов Вячеслав Николаевич": 4,
-      "Тагунов Александр Васильевич": 17,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121904": 72,
+      "gas:candidate-vibid:1001000112252": 8,
+      "gas:candidate-vibid:1001000225982": 745,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 4,
+      "gas:candidate-vibid:1001000113976": 16,
+      "gas:candidate-vibid:1001000195138": 4,
+      "gas:candidate-vibid:1001000136117": 17,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 457,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 19,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 457,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 266,
-      "Граф Юрий Валентинович": 5,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 266,
+      "gas:candidate-vibid:364300170375": 5,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 6,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 291,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121904": 6,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 291,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 403,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121904": 12,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 403,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 615,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 6,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121904": 36,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 615,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 6,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 273,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 273,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 397,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 4,
-      "Смирнов Вячеслав Николаевич": 4,
-      "Тагунов Александр Васильевич": 7,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121904": 17,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 397,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 4,
+      "gas:candidate-vibid:1001000195138": 4,
+      "gas:candidate-vibid:1001000136117": 7,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 44,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 599,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 11,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 10,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121904": 44,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 599,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 11,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 10,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 377,
-      "Граф Юрий Валентинович": 3,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121904": 19,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 377,
+      "gas:candidate-vibid:364300170375": 3,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 177,
-      "Граф Юрий Валентинович": 4,
-      "Караман Наталья Леонидовна": 4,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121904": 13,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 177,
+      "gas:candidate-vibid:364300170375": 4,
+      "gas:candidate-vibid:1001000121286": 4,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 363,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 4,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 363,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 4,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 203,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121904": 10,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 203,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 91,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121904": 4,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 91,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 304,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 12,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 304,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 25,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 280,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 1,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121904": 25,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 280,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 1,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 16,
-      "Большаков Иван Петрович": 3,
-      "Володин Вячеслав Викторович": 260,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 1,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121904": 16,
+      "gas:candidate-vibid:1001000112252": 3,
+      "gas:candidate-vibid:1001000225982": 260,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 1,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 33,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 827,
-      "Граф Юрий Валентинович": 4,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 13,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 20,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121904": 33,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 827,
+      "gas:candidate-vibid:364300170375": 4,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 13,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 20,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 423,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 8,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121904": 22,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 423,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 8,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 319,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 3,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 25,
-      "Чирков Евгений Петрович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121904": 20,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 319,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 3,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 25,
+      "gas:candidate-vibid:364300170488": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Большаков Иван Петрович": 5,
-      "Володин Вячеслав Викторович": 374,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 5,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 20,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121904": 43,
+      "gas:candidate-vibid:1001000112252": 5,
+      "gas:candidate-vibid:1001000225982": 374,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 5,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 20,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 69,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121904": 14,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 69,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 6,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 86,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121904": 6,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 86,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 1,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 86,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121904": 1,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 86,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 40,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 390,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 4,
-      "Смирнов Владимир Сергеевич": 7,
-      "Смирнов Вячеслав Николаевич": 3,
-      "Тагунов Александр Васильевич": 10,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121904": 40,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 390,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 4,
+      "gas:candidate-vibid:1001000113976": 7,
+      "gas:candidate-vibid:1001000195138": 3,
+      "gas:candidate-vibid:1001000136117": 10,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 350,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121904": 15,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 350,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 118,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121904": 8,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 118,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Большаков Иван Петрович": 0,
-      "Володин Вячеслав Викторович": 355,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 2,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 3,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121904": 15,
+      "gas:candidate-vibid:1001000112252": 0,
+      "gas:candidate-vibid:1001000225982": 355,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 2,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 3,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 34,
-      "Большаков Иван Петрович": 2,
-      "Володин Вячеслав Викторович": 289,
-      "Граф Юрий Валентинович": 1,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 0,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 0,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121904": 34,
+      "gas:candidate-vibid:1001000112252": 2,
+      "gas:candidate-vibid:1001000225982": 289,
+      "gas:candidate-vibid:364300170375": 1,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 0,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 0,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 37,
-      "Большаков Иван Петрович": 1,
-      "Володин Вячеслав Викторович": 278,
-      "Граф Юрий Валентинович": 0,
-      "Караман Наталья Леонидовна": 1,
-      "Смирнов Владимир Сергеевич": 2,
-      "Смирнов Вячеслав Николаевич": 0,
-      "Тагунов Александр Васильевич": 2,
-      "Чирков Евгений Петрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121904": 37,
+      "gas:candidate-vibid:1001000112252": 1,
+      "gas:candidate-vibid:1001000225982": 278,
+      "gas:candidate-vibid:364300170375": 0,
+      "gas:candidate-vibid:1001000121286": 1,
+      "gas:candidate-vibid:1001000113976": 2,
+      "gas:candidate-vibid:1001000195138": 0,
+      "gas:candidate-vibid:1001000136117": 2,
+      "gas:candidate-vibid:364300170488": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 49,
-      "Большаков Иван Петрович": 4,
-      "Володин Вячеслав Викторович": 415,
-      "Граф Юрий Валентинович": 2,
-      "Караман Наталья Леонидовна": 0,
-      "Смирнов Владимир Сергеевич": 18,
-      "Смирнов Вячеслав Николаевич": 1,
-      "Тагунов Александр Васильевич": 13,
-      "Чирков Евгений Петрович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121904": 49,
+      "gas:candidate-vibid:1001000112252": 4,
+      "gas:candidate-vibid:1001000225982": 415,
+      "gas:candidate-vibid:364300170375": 2,
+      "gas:candidate-vibid:1001000121286": 0,
+      "gas:candidate-vibid:1001000113976": 18,
+      "gas:candidate-vibid:1001000195138": 1,
+      "gas:candidate-vibid:1001000136117": 13,
+      "gas:candidate-vibid:364300170488": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300170920&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 14,
-      "Ветров Александр Иванович": 213,
-      "Волков Виктор Петрович": 263,
-      "Камшилов Петр Петрович": 408,
-      "Коргунов Олег Николаевич": 72,
-      "Нестерова Надежда Владимировна": 20,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 43,
-      "Степанов Спартак Аркадьевич": 11,
-      "Против всех": 133
+      "gas:candidate-vibid:364300270400": 14,
+      "gas:candidate-vibid:1001000113977": 213,
+      "gas:candidate-vibid:1001000121905": 263,
+      "gas:candidate-vibid:1001000225983": 408,
+      "gas:candidate-vibid:1001000131410": 72,
+      "gas:candidate-vibid:1001000195139": 20,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 43,
+      "gas:candidate-vibid:1001000190409": 11,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 166,
-      "Волков Виктор Петрович": 227,
-      "Камшилов Петр Петрович": 413,
-      "Коргунов Олег Николаевич": 66,
-      "Нестерова Надежда Владимировна": 10,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 46,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 97
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 166,
+      "gas:candidate-vibid:1001000121905": 227,
+      "gas:candidate-vibid:1001000225983": 413,
+      "gas:candidate-vibid:1001000131410": 66,
+      "gas:candidate-vibid:1001000195139": 10,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 46,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 22,
-      "Ветров Александр Иванович": 118,
-      "Волков Виктор Петрович": 320,
-      "Камшилов Петр Петрович": 432,
-      "Коргунов Олег Николаевич": 57,
-      "Нестерова Надежда Владимировна": 11,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 59,
-      "Степанов Спартак Аркадьевич": 11,
-      "Против всех": 109
+      "gas:candidate-vibid:364300270400": 22,
+      "gas:candidate-vibid:1001000113977": 118,
+      "gas:candidate-vibid:1001000121905": 320,
+      "gas:candidate-vibid:1001000225983": 432,
+      "gas:candidate-vibid:1001000131410": 57,
+      "gas:candidate-vibid:1001000195139": 11,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 59,
+      "gas:candidate-vibid:1001000190409": 11,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 14,
-      "Ветров Александр Иванович": 178,
-      "Волков Виктор Петрович": 345,
-      "Камшилов Петр Петрович": 297,
-      "Коргунов Олег Николаевич": 49,
-      "Нестерова Надежда Владимировна": 11,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 38,
-      "Степанов Спартак Аркадьевич": 11,
-      "Против всех": 110
+      "gas:candidate-vibid:364300270400": 14,
+      "gas:candidate-vibid:1001000113977": 178,
+      "gas:candidate-vibid:1001000121905": 345,
+      "gas:candidate-vibid:1001000225983": 297,
+      "gas:candidate-vibid:1001000131410": 49,
+      "gas:candidate-vibid:1001000195139": 11,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 38,
+      "gas:candidate-vibid:1001000190409": 11,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 10,
-      "Ветров Александр Иванович": 147,
-      "Волков Виктор Петрович": 295,
-      "Камшилов Петр Петрович": 386,
-      "Коргунов Олег Николаевич": 65,
-      "Нестерова Надежда Владимировна": 17,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 39,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 97
+      "gas:candidate-vibid:364300270400": 10,
+      "gas:candidate-vibid:1001000113977": 147,
+      "gas:candidate-vibid:1001000121905": 295,
+      "gas:candidate-vibid:1001000225983": 386,
+      "gas:candidate-vibid:1001000131410": 65,
+      "gas:candidate-vibid:1001000195139": 17,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 39,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 12,
-      "Ветров Александр Иванович": 178,
-      "Волков Виктор Петрович": 327,
-      "Камшилов Петр Петрович": 526,
-      "Коргунов Олег Николаевич": 82,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 7,
-      "Скачек Владимир Владимирович": 51,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 168
+      "gas:candidate-vibid:364300270400": 12,
+      "gas:candidate-vibid:1001000113977": 178,
+      "gas:candidate-vibid:1001000121905": 327,
+      "gas:candidate-vibid:1001000225983": 526,
+      "gas:candidate-vibid:1001000131410": 82,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 7,
+      "gas:candidate-vibid:1001000289811": 51,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 153,
-      "Волков Виктор Петрович": 271,
-      "Камшилов Петр Петрович": 381,
-      "Коргунов Олег Николаевич": 73,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 38,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 108
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 153,
+      "gas:candidate-vibid:1001000121905": 271,
+      "gas:candidate-vibid:1001000225983": 381,
+      "gas:candidate-vibid:1001000131410": 73,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 38,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 9,
-      "Ветров Александр Иванович": 139,
-      "Волков Виктор Петрович": 345,
-      "Камшилов Петр Петрович": 265,
-      "Коргунов Олег Николаевич": 94,
-      "Нестерова Надежда Владимировна": 10,
-      "Серяпин Валерий Петрович": 5,
-      "Скачек Владимир Владимирович": 19,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 122
+      "gas:candidate-vibid:364300270400": 9,
+      "gas:candidate-vibid:1001000113977": 139,
+      "gas:candidate-vibid:1001000121905": 345,
+      "gas:candidate-vibid:1001000225983": 265,
+      "gas:candidate-vibid:1001000131410": 94,
+      "gas:candidate-vibid:1001000195139": 10,
+      "gas:candidate-vibid:364300270632": 5,
+      "gas:candidate-vibid:1001000289811": 19,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 162,
-      "Волков Виктор Петрович": 367,
-      "Камшилов Петр Петрович": 332,
-      "Коргунов Олег Николаевич": 77,
-      "Нестерова Надежда Владимировна": 13,
-      "Серяпин Валерий Петрович": 7,
-      "Скачек Владимир Владимирович": 29,
-      "Степанов Спартак Аркадьевич": 9,
-      "Против всех": 140
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 162,
+      "gas:candidate-vibid:1001000121905": 367,
+      "gas:candidate-vibid:1001000225983": 332,
+      "gas:candidate-vibid:1001000131410": 77,
+      "gas:candidate-vibid:1001000195139": 13,
+      "gas:candidate-vibid:364300270632": 7,
+      "gas:candidate-vibid:1001000289811": 29,
+      "gas:candidate-vibid:1001000190409": 9,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 10,
-      "Ветров Александр Иванович": 231,
-      "Волков Виктор Петрович": 283,
-      "Камшилов Петр Петрович": 286,
-      "Коргунов Олег Николаевич": 87,
-      "Нестерова Надежда Владимировна": 13,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 36,
-      "Степанов Спартак Аркадьевич": 6,
-      "Против всех": 111
+      "gas:candidate-vibid:364300270400": 10,
+      "gas:candidate-vibid:1001000113977": 231,
+      "gas:candidate-vibid:1001000121905": 283,
+      "gas:candidate-vibid:1001000225983": 286,
+      "gas:candidate-vibid:1001000131410": 87,
+      "gas:candidate-vibid:1001000195139": 13,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 36,
+      "gas:candidate-vibid:1001000190409": 6,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 185,
-      "Волков Виктор Петрович": 238,
-      "Камшилов Петр Петрович": 287,
-      "Коргунов Олег Николаевич": 36,
-      "Нестерова Надежда Владимировна": 10,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 31,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 105
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 185,
+      "gas:candidate-vibid:1001000121905": 238,
+      "gas:candidate-vibid:1001000225983": 287,
+      "gas:candidate-vibid:1001000131410": 36,
+      "gas:candidate-vibid:1001000195139": 10,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 31,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 9,
-      "Ветров Александр Иванович": 81,
-      "Волков Виктор Петрович": 290,
-      "Камшилов Петр Петрович": 240,
-      "Коргунов Олег Николаевич": 11,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 230,
-      "Скачек Владимир Владимирович": 53,
-      "Степанов Спартак Аркадьевич": 10,
-      "Против всех": 132
+      "gas:candidate-vibid:364300270400": 9,
+      "gas:candidate-vibid:1001000113977": 81,
+      "gas:candidate-vibid:1001000121905": 290,
+      "gas:candidate-vibid:1001000225983": 240,
+      "gas:candidate-vibid:1001000131410": 11,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 230,
+      "gas:candidate-vibid:1001000289811": 53,
+      "gas:candidate-vibid:1001000190409": 10,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 9,
-      "Волков Виктор Петрович": 74,
-      "Камшилов Петр Петрович": 168,
-      "Коргунов Олег Николаевич": 34,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 12,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 9,
+      "gas:candidate-vibid:1001000121905": 74,
+      "gas:candidate-vibid:1001000225983": 168,
+      "gas:candidate-vibid:1001000131410": 34,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 12,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 17,
-      "Камшилов Петр Петрович": 152,
-      "Коргунов Олег Николаевич": 15,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 17,
+      "gas:candidate-vibid:1001000225983": 152,
+      "gas:candidate-vibid:1001000131410": 15,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 8,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 147,
-      "Коргунов Олег Николаевич": 96,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 8,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 147,
+      "gas:candidate-vibid:1001000131410": 96,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 31,
-      "Волков Виктор Петрович": 39,
-      "Камшилов Петр Петрович": 192,
-      "Коргунов Олег Николаевич": 83,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 31,
+      "gas:candidate-vibid:1001000121905": 39,
+      "gas:candidate-vibid:1001000225983": 192,
+      "gas:candidate-vibid:1001000131410": 83,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 19,
-      "Камшилов Петр Петрович": 140,
-      "Коргунов Олег Николаевич": 36,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 19,
+      "gas:candidate-vibid:1001000225983": 140,
+      "gas:candidate-vibid:1001000131410": 36,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 30,
-      "Волков Виктор Петрович": 20,
-      "Камшилов Петр Петрович": 135,
-      "Коргунов Олег Николаевич": 100,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 30,
+      "gas:candidate-vibid:1001000121905": 20,
+      "gas:candidate-vibid:1001000225983": 135,
+      "gas:candidate-vibid:1001000131410": 100,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 52,
-      "Волков Виктор Петрович": 38,
-      "Камшилов Петр Петрович": 215,
-      "Коргунов Олег Николаевич": 40,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 11,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 52,
+      "gas:candidate-vibid:1001000121905": 38,
+      "gas:candidate-vibid:1001000225983": 215,
+      "gas:candidate-vibid:1001000131410": 40,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 11,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 6,
-      "Волков Виктор Петрович": 8,
-      "Камшилов Петр Петрович": 128,
-      "Коргунов Олег Николаевич": 19,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 6,
+      "gas:candidate-vibid:1001000121905": 8,
+      "gas:candidate-vibid:1001000225983": 128,
+      "gas:candidate-vibid:1001000131410": 19,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 13,
-      "Волков Виктор Петрович": 93,
-      "Камшилов Петр Петрович": 334,
-      "Коргунов Олег Николаевич": 47,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 13,
+      "gas:candidate-vibid:1001000121905": 93,
+      "gas:candidate-vibid:1001000225983": 334,
+      "gas:candidate-vibid:1001000131410": 47,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 47,
-      "Камшилов Петр Петрович": 241,
-      "Коргунов Олег Николаевич": 44,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 47,
+      "gas:candidate-vibid:1001000225983": 241,
+      "gas:candidate-vibid:1001000131410": 44,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 36,
-      "Волков Виктор Петрович": 66,
-      "Камшилов Петр Петрович": 210,
-      "Коргунов Олег Николаевич": 51,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 12,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 36,
+      "gas:candidate-vibid:1001000121905": 66,
+      "gas:candidate-vibid:1001000225983": 210,
+      "gas:candidate-vibid:1001000131410": 51,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 12,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 38,
-      "Волков Виктор Петрович": 40,
-      "Камшилов Петр Петрович": 182,
-      "Коргунов Олег Николаевич": 64,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 19,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 69
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 38,
+      "gas:candidate-vibid:1001000121905": 40,
+      "gas:candidate-vibid:1001000225983": 182,
+      "gas:candidate-vibid:1001000131410": 64,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 19,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 18,
-      "Волков Виктор Петрович": 73,
-      "Камшилов Петр Петрович": 381,
-      "Коргунов Олег Николаевич": 50,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 11,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 18,
+      "gas:candidate-vibid:1001000121905": 73,
+      "gas:candidate-vibid:1001000225983": 381,
+      "gas:candidate-vibid:1001000131410": 50,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 11,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 42,
-      "Волков Виктор Петрович": 67,
-      "Камшилов Петр Петрович": 241,
-      "Коргунов Олег Николаевич": 97,
-      "Нестерова Надежда Владимировна": 12,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 42,
+      "gas:candidate-vibid:1001000121905": 67,
+      "gas:candidate-vibid:1001000225983": 241,
+      "gas:candidate-vibid:1001000131410": 97,
+      "gas:candidate-vibid:1001000195139": 12,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 104,
-      "Коргунов Олег Николаевич": 33,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 104,
+      "gas:candidate-vibid:1001000131410": 33,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 5,
-      "Камшилов Петр Петрович": 84,
-      "Коргунов Олег Николаевич": 28,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 5,
+      "gas:candidate-vibid:1001000225983": 84,
+      "gas:candidate-vibid:1001000131410": 28,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 7,
-      "Волков Виктор Петрович": 61,
-      "Камшилов Петр Петрович": 338,
-      "Коргунов Олег Николаевич": 14,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 7,
+      "gas:candidate-vibid:1001000121905": 61,
+      "gas:candidate-vibid:1001000225983": 338,
+      "gas:candidate-vibid:1001000131410": 14,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 47,
-      "Камшилов Петр Петрович": 158,
-      "Коргунов Олег Николаевич": 50,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 47,
+      "gas:candidate-vibid:1001000225983": 158,
+      "gas:candidate-vibid:1001000131410": 50,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 44,
-      "Камшилов Петр Петрович": 148,
-      "Коргунов Олег Николаевич": 38,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 44,
+      "gas:candidate-vibid:1001000225983": 148,
+      "gas:candidate-vibid:1001000131410": 38,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 25,
-      "Камшилов Петр Петрович": 168,
-      "Коргунов Олег Николаевич": 6,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 25,
+      "gas:candidate-vibid:1001000225983": 168,
+      "gas:candidate-vibid:1001000131410": 6,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 5,
-      "Волков Виктор Петрович": 45,
-      "Камшилов Петр Петрович": 154,
-      "Коргунов Олег Николаевич": 66,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 14,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 5,
+      "gas:candidate-vibid:1001000121905": 45,
+      "gas:candidate-vibid:1001000225983": 154,
+      "gas:candidate-vibid:1001000131410": 66,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 14,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 11,
-      "Волков Виктор Петрович": 55,
-      "Камшилов Петр Петрович": 216,
-      "Коргунов Олег Николаевич": 52,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 9,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 11,
+      "gas:candidate-vibid:1001000121905": 55,
+      "gas:candidate-vibid:1001000225983": 216,
+      "gas:candidate-vibid:1001000131410": 52,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 9,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 46,
-      "Камшилов Петр Петрович": 284,
-      "Коргунов Олег Николаевич": 28,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 46,
+      "gas:candidate-vibid:1001000225983": 284,
+      "gas:candidate-vibid:1001000131410": 28,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270888&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 22,
-      "Волков Виктор Петрович": 121,
-      "Камшилов Петр Петрович": 295,
-      "Коргунов Олег Николаевич": 296,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 26,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 102
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 22,
+      "gas:candidate-vibid:1001000121905": 121,
+      "gas:candidate-vibid:1001000225983": 295,
+      "gas:candidate-vibid:1001000131410": 296,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 26,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 12,
-      "Ветров Александр Иванович": 26,
-      "Волков Виктор Петрович": 181,
-      "Камшилов Петр Петрович": 399,
-      "Коргунов Олег Николаевич": 379,
-      "Нестерова Надежда Владимировна": 16,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 31,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 114
+      "gas:candidate-vibid:364300270400": 12,
+      "gas:candidate-vibid:1001000113977": 26,
+      "gas:candidate-vibid:1001000121905": 181,
+      "gas:candidate-vibid:1001000225983": 399,
+      "gas:candidate-vibid:1001000131410": 379,
+      "gas:candidate-vibid:1001000195139": 16,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 31,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 82,
-      "Волков Виктор Петрович": 166,
-      "Камшилов Петр Петрович": 356,
-      "Коргунов Олег Николаевич": 200,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 32,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 130
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 82,
+      "gas:candidate-vibid:1001000121905": 166,
+      "gas:candidate-vibid:1001000225983": 356,
+      "gas:candidate-vibid:1001000131410": 200,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 32,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 22,
-      "Волков Виктор Петрович": 100,
-      "Камшилов Петр Петрович": 139,
-      "Коргунов Олег Николаевич": 80,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 12,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 22,
+      "gas:candidate-vibid:1001000121905": 100,
+      "gas:candidate-vibid:1001000225983": 139,
+      "gas:candidate-vibid:1001000131410": 80,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 12,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 10,
-      "Ветров Александр Иванович": 55,
-      "Волков Виктор Петрович": 77,
-      "Камшилов Петр Петрович": 199,
-      "Коргунов Олег Николаевич": 170,
-      "Нестерова Надежда Владимировна": 17,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 22,
-      "Степанов Спартак Аркадьевич": 6,
-      "Против всех": 93
+      "gas:candidate-vibid:364300270400": 10,
+      "gas:candidate-vibid:1001000113977": 55,
+      "gas:candidate-vibid:1001000121905": 77,
+      "gas:candidate-vibid:1001000225983": 199,
+      "gas:candidate-vibid:1001000131410": 170,
+      "gas:candidate-vibid:1001000195139": 17,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 22,
+      "gas:candidate-vibid:1001000190409": 6,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 37,
-      "Волков Виктор Петрович": 237,
-      "Камшилов Петр Петрович": 395,
-      "Коргунов Олег Николаевич": 170,
-      "Нестерова Надежда Владимировна": 22,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 44,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 131
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 37,
+      "gas:candidate-vibid:1001000121905": 237,
+      "gas:candidate-vibid:1001000225983": 395,
+      "gas:candidate-vibid:1001000131410": 170,
+      "gas:candidate-vibid:1001000195139": 22,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 44,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 12,
-      "Ветров Александр Иванович": 52,
-      "Волков Виктор Петрович": 169,
-      "Камшилов Петр Петрович": 398,
-      "Коргунов Олег Николаевич": 252,
-      "Нестерова Надежда Владимировна": 25,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 60,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 171
+      "gas:candidate-vibid:364300270400": 12,
+      "gas:candidate-vibid:1001000113977": 52,
+      "gas:candidate-vibid:1001000121905": 169,
+      "gas:candidate-vibid:1001000225983": 398,
+      "gas:candidate-vibid:1001000131410": 252,
+      "gas:candidate-vibid:1001000195139": 25,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 60,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 15,
-      "Ветров Александр Иванович": 7,
-      "Волков Виктор Петрович": 45,
-      "Камшилов Петр Петрович": 1,
-      "Коргунов Олег Николаевич": 7,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 74,
-      "Степанов Спартак Аркадьевич": 45,
-      "Против всех": 26
+      "gas:candidate-vibid:364300270400": 15,
+      "gas:candidate-vibid:1001000113977": 7,
+      "gas:candidate-vibid:1001000121905": 45,
+      "gas:candidate-vibid:1001000225983": 1,
+      "gas:candidate-vibid:1001000131410": 7,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 74,
+      "gas:candidate-vibid:1001000190409": 45,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 14,
-      "Ветров Александр Иванович": 173,
-      "Волков Виктор Петрович": 134,
-      "Камшилов Петр Петрович": 361,
-      "Коргунов Олег Николаевич": 232,
-      "Нестерова Надежда Владимировна": 16,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 51,
-      "Степанов Спартак Аркадьевич": 9,
-      "Против всех": 139
+      "gas:candidate-vibid:364300270400": 14,
+      "gas:candidate-vibid:1001000113977": 173,
+      "gas:candidate-vibid:1001000121905": 134,
+      "gas:candidate-vibid:1001000225983": 361,
+      "gas:candidate-vibid:1001000131410": 232,
+      "gas:candidate-vibid:1001000195139": 16,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 51,
+      "gas:candidate-vibid:1001000190409": 9,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 124,
-      "Волков Виктор Петрович": 81,
-      "Камшилов Петр Петрович": 250,
-      "Коргунов Олег Николаевич": 169,
-      "Нестерова Надежда Владимировна": 22,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 33,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 112
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 124,
+      "gas:candidate-vibid:1001000121905": 81,
+      "gas:candidate-vibid:1001000225983": 250,
+      "gas:candidate-vibid:1001000131410": 169,
+      "gas:candidate-vibid:1001000195139": 22,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 33,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 5,
-      "Камшилов Петр Петрович": 73,
-      "Коргунов Олег Николаевич": 15,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 5,
+      "gas:candidate-vibid:1001000225983": 73,
+      "gas:candidate-vibid:1001000131410": 15,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 3,
-      "Камшилов Петр Петрович": 82,
-      "Коргунов Олег Николаевич": 62,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 3,
+      "gas:candidate-vibid:1001000225983": 82,
+      "gas:candidate-vibid:1001000131410": 62,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 6,
-      "Волков Виктор Петрович": 24,
-      "Камшилов Петр Петрович": 224,
-      "Коргунов Олег Николаевич": 87,
-      "Нестерова Надежда Владимировна": 11,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 14,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 53
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 6,
+      "gas:candidate-vibid:1001000121905": 24,
+      "gas:candidate-vibid:1001000225983": 224,
+      "gas:candidate-vibid:1001000131410": 87,
+      "gas:candidate-vibid:1001000195139": 11,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 14,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 21,
-      "Камшилов Петр Петрович": 147,
-      "Коргунов Олег Николаевич": 35,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 21,
+      "gas:candidate-vibid:1001000225983": 147,
+      "gas:candidate-vibid:1001000131410": 35,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 63,
-      "Камшилов Петр Петрович": 64,
-      "Коргунов Олег Николаевич": 55,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 63,
+      "gas:candidate-vibid:1001000225983": 64,
+      "gas:candidate-vibid:1001000131410": 55,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 8,
-      "Волков Виктор Петрович": 60,
-      "Камшилов Петр Петрович": 195,
-      "Коргунов Олег Николаевич": 38,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 8,
+      "gas:candidate-vibid:1001000121905": 60,
+      "gas:candidate-vibid:1001000225983": 195,
+      "gas:candidate-vibid:1001000131410": 38,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 5,
-      "Волков Виктор Петрович": 10,
-      "Камшилов Петр Петрович": 118,
-      "Коргунов Олег Николаевич": 90,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 5,
+      "gas:candidate-vibid:1001000121905": 10,
+      "gas:candidate-vibid:1001000225983": 118,
+      "gas:candidate-vibid:1001000131410": 90,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 33,
-      "Камшилов Петр Петрович": 47,
-      "Коргунов Олег Николаевич": 43,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 33,
+      "gas:candidate-vibid:1001000225983": 47,
+      "gas:candidate-vibid:1001000131410": 43,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 23,
-      "Камшилов Петр Петрович": 131,
-      "Коргунов Олег Николаевич": 23,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 23,
+      "gas:candidate-vibid:1001000225983": 131,
+      "gas:candidate-vibid:1001000131410": 23,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 49,
-      "Камшилов Петр Петрович": 84,
-      "Коргунов Олег Николаевич": 7,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 49,
+      "gas:candidate-vibid:1001000225983": 84,
+      "gas:candidate-vibid:1001000131410": 7,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 169,
-      "Камшилов Петр Петрович": 172,
-      "Коргунов Олег Николаевич": 53,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 15,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 169,
+      "gas:candidate-vibid:1001000225983": 172,
+      "gas:candidate-vibid:1001000131410": 53,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 15,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 7,
-      "Волков Виктор Петрович": 171,
-      "Камшилов Петр Петрович": 189,
-      "Коргунов Олег Николаевич": 39,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 18,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 7,
+      "gas:candidate-vibid:1001000121905": 171,
+      "gas:candidate-vibid:1001000225983": 189,
+      "gas:candidate-vibid:1001000131410": 39,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 18,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 53,
-      "Камшилов Петр Петрович": 252,
-      "Коргунов Олег Николаевич": 58,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 53,
+      "gas:candidate-vibid:1001000225983": 252,
+      "gas:candidate-vibid:1001000131410": 58,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 93,
-      "Камшилов Петр Петрович": 93,
-      "Коргунов Олег Николаевич": 8,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 93,
+      "gas:candidate-vibid:1001000225983": 93,
+      "gas:candidate-vibid:1001000131410": 8,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 75,
-      "Камшилов Петр Петрович": 78,
-      "Коргунов Олег Николаевич": 9,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 75,
+      "gas:candidate-vibid:1001000225983": 78,
+      "gas:candidate-vibid:1001000131410": 9,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 33,
-      "Камшилов Петр Петрович": 178,
-      "Коргунов Олег Николаевич": 42,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 33,
+      "gas:candidate-vibid:1001000225983": 178,
+      "gas:candidate-vibid:1001000131410": 42,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 12,
-      "Камшилов Петр Петрович": 39,
-      "Коргунов Олег Николаевич": 3,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 12,
+      "gas:candidate-vibid:1001000225983": 39,
+      "gas:candidate-vibid:1001000131410": 3,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 1,
-      "Камшилов Петр Петрович": 69,
-      "Коргунов Олег Николаевич": 1,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 1,
+      "gas:candidate-vibid:1001000225983": 69,
+      "gas:candidate-vibid:1001000131410": 1,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 37,
-      "Камшилов Петр Петрович": 172,
-      "Коргунов Олег Николаевич": 29,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 37,
+      "gas:candidate-vibid:1001000225983": 172,
+      "gas:candidate-vibid:1001000131410": 29,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 29,
-      "Камшилов Петр Петрович": 317,
-      "Коргунов Олег Николаевич": 98,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 29,
+      "gas:candidate-vibid:1001000225983": 317,
+      "gas:candidate-vibid:1001000131410": 98,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 10,
-      "Камшилов Петр Петрович": 196,
-      "Коргунов Олег Николаевич": 22,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 10,
+      "gas:candidate-vibid:1001000225983": 196,
+      "gas:candidate-vibid:1001000131410": 22,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 6,
-      "Волков Виктор Петрович": 83,
-      "Камшилов Петр Петрович": 189,
-      "Коргунов Олег Николаевич": 88,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 13,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 6,
+      "gas:candidate-vibid:1001000121905": 83,
+      "gas:candidate-vibid:1001000225983": 189,
+      "gas:candidate-vibid:1001000131410": 88,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 13,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 9,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 24,
-      "Камшилов Петр Петрович": 210,
-      "Коргунов Олег Николаевич": 110,
-      "Нестерова Надежда Владимировна": 14,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 20,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 53
+      "gas:candidate-vibid:364300270400": 9,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 24,
+      "gas:candidate-vibid:1001000225983": 210,
+      "gas:candidate-vibid:1001000131410": 110,
+      "gas:candidate-vibid:1001000195139": 14,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 20,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 27,
-      "Камшилов Петр Петрович": 185,
-      "Коргунов Олег Николаевич": 117,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 27,
+      "gas:candidate-vibid:1001000225983": 185,
+      "gas:candidate-vibid:1001000131410": 117,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 0,
-      "Камшилов Петр Петрович": 171,
-      "Коргунов Олег Николаевич": 0,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 0,
+      "gas:candidate-vibid:1001000225983": 171,
+      "gas:candidate-vibid:1001000131410": 0,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 10,
-      "Камшилов Петр Петрович": 173,
-      "Коргунов Олег Николаевич": 66,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 10,
+      "gas:candidate-vibid:1001000225983": 173,
+      "gas:candidate-vibid:1001000131410": 66,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 8,
-      "Волков Виктор Петрович": 128,
-      "Камшилов Петр Петрович": 118,
-      "Коргунов Олег Николаевич": 50,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 8,
+      "gas:candidate-vibid:1001000121905": 128,
+      "gas:candidate-vibid:1001000225983": 118,
+      "gas:candidate-vibid:1001000131410": 50,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 89,
-      "Камшилов Петр Петрович": 163,
-      "Коргунов Олег Николаевич": 88,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 89,
+      "gas:candidate-vibid:1001000225983": 163,
+      "gas:candidate-vibid:1001000131410": 88,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 5,
-      "Волков Виктор Петрович": 22,
-      "Камшилов Петр Петрович": 103,
-      "Коргунов Олег Николаевич": 47,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 5,
+      "gas:candidate-vibid:1001000121905": 22,
+      "gas:candidate-vibid:1001000225983": 103,
+      "gas:candidate-vibid:1001000131410": 47,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 8,
-      "Волков Виктор Петрович": 78,
-      "Камшилов Петр Петрович": 138,
-      "Коргунов Олег Николаевич": 28,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 8,
+      "gas:candidate-vibid:1001000121905": 78,
+      "gas:candidate-vibid:1001000225983": 138,
+      "gas:candidate-vibid:1001000131410": 28,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 13,
-      "Камшилов Петр Петрович": 51,
-      "Коргунов Олег Николаевич": 27,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 13,
+      "gas:candidate-vibid:1001000225983": 51,
+      "gas:candidate-vibid:1001000131410": 27,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 22,
-      "Камшилов Петр Петрович": 147,
-      "Коргунов Олег Николаевич": 175,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 22,
+      "gas:candidate-vibid:1001000225983": 147,
+      "gas:candidate-vibid:1001000131410": 175,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 10,
-      "Волков Виктор Петрович": 58,
-      "Камшилов Петр Петрович": 199,
-      "Коргунов Олег Николаевич": 102,
-      "Нестерова Надежда Владимировна": 13,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 10,
+      "gas:candidate-vibid:1001000121905": 58,
+      "gas:candidate-vibid:1001000225983": 199,
+      "gas:candidate-vibid:1001000131410": 102,
+      "gas:candidate-vibid:1001000195139": 13,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 114,
-      "Камшилов Петр Петрович": 299,
-      "Коргунов Олег Николаевич": 96,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 114,
+      "gas:candidate-vibid:1001000225983": 299,
+      "gas:candidate-vibid:1001000131410": 96,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 56,
-      "Камшилов Петр Петрович": 95,
-      "Коргунов Олег Николаевич": 87,
-      "Нестерова Надежда Владимировна": 11,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 15,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 67
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 56,
+      "gas:candidate-vibid:1001000225983": 95,
+      "gas:candidate-vibid:1001000131410": 87,
+      "gas:candidate-vibid:1001000195139": 11,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 15,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 9,
-      "Камшилов Петр Петрович": 15,
-      "Коргунов Олег Николаевич": 47,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 9,
+      "gas:candidate-vibid:1001000225983": 15,
+      "gas:candidate-vibid:1001000131410": 47,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270894&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 34,
-      "Волков Виктор Петрович": 241,
-      "Камшилов Петр Петрович": 602,
-      "Коргунов Олег Николаевич": 115,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 11,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 55
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 34,
+      "gas:candidate-vibid:1001000121905": 241,
+      "gas:candidate-vibid:1001000225983": 602,
+      "gas:candidate-vibid:1001000131410": 115,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 11,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 47,
-      "Волков Виктор Петрович": 140,
-      "Камшилов Петр Петрович": 589,
-      "Коргунов Олег Николаевич": 206,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 20,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 58
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 47,
+      "gas:candidate-vibid:1001000121905": 140,
+      "gas:candidate-vibid:1001000225983": 589,
+      "gas:candidate-vibid:1001000131410": 206,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 20,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 76,
-      "Камшилов Петр Петрович": 276,
-      "Коргунов Олег Николаевич": 53,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 76,
+      "gas:candidate-vibid:1001000225983": 276,
+      "gas:candidate-vibid:1001000131410": 53,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 324,
-      "Коргунов Олег Николаевич": 93,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 324,
+      "gas:candidate-vibid:1001000131410": 93,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 29,
-      "Камшилов Петр Петрович": 71,
-      "Коргунов Олег Николаевич": 20,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 29,
+      "gas:candidate-vibid:1001000225983": 71,
+      "gas:candidate-vibid:1001000131410": 20,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 9,
-      "Волков Виктор Петрович": 185,
-      "Камшилов Петр Петрович": 292,
-      "Коргунов Олег Николаевич": 204,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 9,
+      "gas:candidate-vibid:1001000121905": 185,
+      "gas:candidate-vibid:1001000225983": 292,
+      "gas:candidate-vibid:1001000131410": 204,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 3,
-      "Камшилов Петр Петрович": 145,
-      "Коргунов Олег Николаевич": 19,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 3,
+      "gas:candidate-vibid:1001000225983": 145,
+      "gas:candidate-vibid:1001000131410": 19,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 0,
-      "Камшилов Петр Петрович": 53,
-      "Коргунов Олег Николаевич": 4,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 0,
+      "gas:candidate-vibid:1001000225983": 53,
+      "gas:candidate-vibid:1001000131410": 4,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 8,
-      "Камшилов Петр Петрович": 39,
-      "Коргунов Олег Николаевич": 6,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 8,
+      "gas:candidate-vibid:1001000225983": 39,
+      "gas:candidate-vibid:1001000131410": 6,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 9,
-      "Камшилов Петр Петрович": 107,
-      "Коргунов Олег Николаевич": 22,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 9,
+      "gas:candidate-vibid:1001000225983": 107,
+      "gas:candidate-vibid:1001000131410": 22,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 112,
-      "Коргунов Олег Николаевич": 20,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 112,
+      "gas:candidate-vibid:1001000131410": 20,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 59,
-      "Камшилов Петр Петрович": 227,
-      "Коргунов Олег Николаевич": 51,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 59,
+      "gas:candidate-vibid:1001000225983": 227,
+      "gas:candidate-vibid:1001000131410": 51,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 15,
-      "Волков Виктор Петрович": 146,
-      "Камшилов Петр Петрович": 505,
-      "Коргунов Олег Николаевич": 190,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 15,
+      "gas:candidate-vibid:1001000121905": 146,
+      "gas:candidate-vibid:1001000225983": 505,
+      "gas:candidate-vibid:1001000131410": 190,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 24,
-      "Камшилов Петр Петрович": 268,
-      "Коргунов Олег Николаевич": 52,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 9,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 24,
+      "gas:candidate-vibid:1001000225983": 268,
+      "gas:candidate-vibid:1001000131410": 52,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 9,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 21,
-      "Камшилов Петр Петрович": 49,
-      "Коргунов Олег Николаевич": 6,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 21,
+      "gas:candidate-vibid:1001000225983": 49,
+      "gas:candidate-vibid:1001000131410": 6,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 33,
-      "Камшилов Петр Петрович": 356,
-      "Коргунов Олег Николаевич": 60,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 57
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 33,
+      "gas:candidate-vibid:1001000225983": 356,
+      "gas:candidate-vibid:1001000131410": 60,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 9,
-      "Волков Виктор Петрович": 66,
-      "Камшилов Петр Петрович": 492,
-      "Коргунов Олег Николаевич": 202,
-      "Нестерова Надежда Владимировна": 6,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 42
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 9,
+      "gas:candidate-vibid:1001000121905": 66,
+      "gas:candidate-vibid:1001000225983": 492,
+      "gas:candidate-vibid:1001000131410": 202,
+      "gas:candidate-vibid:1001000195139": 6,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 1,
-      "Камшилов Петр Петрович": 32,
-      "Коргунов Олег Николаевич": 31,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 1,
+      "gas:candidate-vibid:1001000225983": 32,
+      "gas:candidate-vibid:1001000131410": 31,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270896&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 166,
-      "Волков Виктор Петрович": 334,
-      "Камшилов Петр Петрович": 284,
-      "Коргунов Олег Николаевич": 270,
-      "Нестерова Надежда Владимировна": 22,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 51,
-      "Степанов Спартак Аркадьевич": 9,
-      "Против всех": 184
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 166,
+      "gas:candidate-vibid:1001000121905": 334,
+      "gas:candidate-vibid:1001000225983": 284,
+      "gas:candidate-vibid:1001000131410": 270,
+      "gas:candidate-vibid:1001000195139": 22,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 51,
+      "gas:candidate-vibid:1001000190409": 9,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 10,
-      "Ветров Александр Иванович": 114,
-      "Волков Виктор Петрович": 336,
-      "Камшилов Петр Петрович": 249,
-      "Коргунов Олег Николаевич": 170,
-      "Нестерова Надежда Владимировна": 24,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 48,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 99
+      "gas:candidate-vibid:364300270400": 10,
+      "gas:candidate-vibid:1001000113977": 114,
+      "gas:candidate-vibid:1001000121905": 336,
+      "gas:candidate-vibid:1001000225983": 249,
+      "gas:candidate-vibid:1001000131410": 170,
+      "gas:candidate-vibid:1001000195139": 24,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 48,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 14,
-      "Ветров Александр Иванович": 91,
-      "Волков Виктор Петрович": 328,
-      "Камшилов Петр Петрович": 248,
-      "Коргунов Олег Николаевич": 104,
-      "Нестерова Надежда Владимировна": 24,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 43,
-      "Степанов Спартак Аркадьевич": 10,
-      "Против всех": 93
+      "gas:candidate-vibid:364300270400": 14,
+      "gas:candidate-vibid:1001000113977": 91,
+      "gas:candidate-vibid:1001000121905": 328,
+      "gas:candidate-vibid:1001000225983": 248,
+      "gas:candidate-vibid:1001000131410": 104,
+      "gas:candidate-vibid:1001000195139": 24,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 43,
+      "gas:candidate-vibid:1001000190409": 10,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 9,
-      "Ветров Александр Иванович": 60,
-      "Волков Виктор Петрович": 71,
-      "Камшилов Петр Петрович": 121,
-      "Коргунов Олег Николаевич": 124,
-      "Нестерова Надежда Владимировна": 12,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 20,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 69
+      "gas:candidate-vibid:364300270400": 9,
+      "gas:candidate-vibid:1001000113977": 60,
+      "gas:candidate-vibid:1001000121905": 71,
+      "gas:candidate-vibid:1001000225983": 121,
+      "gas:candidate-vibid:1001000131410": 124,
+      "gas:candidate-vibid:1001000195139": 12,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 20,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 19,
-      "Камшилов Петр Петрович": 137,
-      "Коргунов Олег Николаевич": 27,
-      "Нестерова Надежда Владимировна": 6,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 21,
-      "Степанов Спартак Аркадьевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 19,
+      "gas:candidate-vibid:1001000225983": 137,
+      "gas:candidate-vibid:1001000131410": 27,
+      "gas:candidate-vibid:1001000195139": 6,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 21,
+      "gas:candidate-vibid:1001000190409": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 12,
-      "Волков Виктор Петрович": 63,
-      "Камшилов Петр Петрович": 189,
-      "Коргунов Олег Николаевич": 71,
-      "Нестерова Надежда Владимировна": 11,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 22,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 12,
+      "gas:candidate-vibid:1001000121905": 63,
+      "gas:candidate-vibid:1001000225983": 189,
+      "gas:candidate-vibid:1001000131410": 71,
+      "gas:candidate-vibid:1001000195139": 11,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 22,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 5,
-      "Камшилов Петр Петрович": 31,
-      "Коргунов Олег Николаевич": 20,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 5,
+      "gas:candidate-vibid:1001000225983": 31,
+      "gas:candidate-vibid:1001000131410": 20,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 31,
-      "Камшилов Петр Петрович": 177,
-      "Коргунов Олег Николаевич": 21,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 31,
+      "gas:candidate-vibid:1001000225983": 177,
+      "gas:candidate-vibid:1001000131410": 21,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 18,
-      "Волков Виктор Петрович": 53,
-      "Камшилов Петр Петрович": 120,
-      "Коргунов Олег Николаевич": 57,
-      "Нестерова Надежда Владимировна": 13,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 62
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 18,
+      "gas:candidate-vibid:1001000121905": 53,
+      "gas:candidate-vibid:1001000225983": 120,
+      "gas:candidate-vibid:1001000131410": 57,
+      "gas:candidate-vibid:1001000195139": 13,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 11,
-      "Волков Виктор Петрович": 40,
-      "Камшилов Петр Петрович": 228,
-      "Коргунов Олег Николаевич": 50,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 11,
+      "gas:candidate-vibid:1001000121905": 40,
+      "gas:candidate-vibid:1001000225983": 228,
+      "gas:candidate-vibid:1001000131410": 50,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 4,
-      "Камшилов Петр Петрович": 35,
-      "Коргунов Олег Николаевич": 9,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 4,
+      "gas:candidate-vibid:1001000225983": 35,
+      "gas:candidate-vibid:1001000131410": 9,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 114,
-      "Камшилов Петр Петрович": 272,
-      "Коргунов Олег Николаевич": 33,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 13,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 114,
+      "gas:candidate-vibid:1001000225983": 272,
+      "gas:candidate-vibid:1001000131410": 33,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 13,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 35,
-      "Камшилов Петр Петрович": 74,
-      "Коргунов Олег Николаевич": 12,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 35,
+      "gas:candidate-vibid:1001000225983": 74,
+      "gas:candidate-vibid:1001000131410": 12,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 42,
-      "Камшилов Петр Петрович": 199,
-      "Коргунов Олег Николаевич": 52,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 42,
+      "gas:candidate-vibid:1001000225983": 199,
+      "gas:candidate-vibid:1001000131410": 52,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 31,
-      "Камшилов Петр Петрович": 40,
-      "Коргунов Олег Николаевич": 17,
-      "Нестерова Надежда Владимировна": 6,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 31,
+      "gas:candidate-vibid:1001000225983": 40,
+      "gas:candidate-vibid:1001000131410": 17,
+      "gas:candidate-vibid:1001000195139": 6,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 41,
-      "Камшилов Петр Петрович": 155,
-      "Коргунов Олег Николаевич": 51,
-      "Нестерова Надежда Владимировна": 10,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 41,
+      "gas:candidate-vibid:1001000225983": 155,
+      "gas:candidate-vibid:1001000131410": 51,
+      "gas:candidate-vibid:1001000195139": 10,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 54,
-      "Камшилов Петр Петрович": 83,
-      "Коргунов Олег Николаевич": 88,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 54,
+      "gas:candidate-vibid:1001000225983": 83,
+      "gas:candidate-vibid:1001000131410": 88,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 12,
-      "Волков Виктор Петрович": 28,
-      "Камшилов Петр Петрович": 184,
-      "Коргунов Олег Николаевич": 50,
-      "Нестерова Надежда Владимировна": 10,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 12,
+      "gas:candidate-vibid:1001000121905": 28,
+      "gas:candidate-vibid:1001000225983": 184,
+      "gas:candidate-vibid:1001000131410": 50,
+      "gas:candidate-vibid:1001000195139": 10,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 10,
-      "Волков Виктор Петрович": 33,
-      "Камшилов Петр Петрович": 87,
-      "Коргунов Олег Николаевич": 22,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 10,
+      "gas:candidate-vibid:1001000121905": 33,
+      "gas:candidate-vibid:1001000225983": 87,
+      "gas:candidate-vibid:1001000131410": 22,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 75,
-      "Волков Виктор Петрович": 113,
-      "Камшилов Петр Петрович": 314,
-      "Коргунов Олег Николаевич": 91,
-      "Нестерова Надежда Владимировна": 6,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 19,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 94
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 75,
+      "gas:candidate-vibid:1001000121905": 113,
+      "gas:candidate-vibid:1001000225983": 314,
+      "gas:candidate-vibid:1001000131410": 91,
+      "gas:candidate-vibid:1001000195139": 6,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 19,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 42,
-      "Камшилов Петр Петрович": 50,
-      "Коргунов Олег Николаевич": 13,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 42,
+      "gas:candidate-vibid:1001000225983": 50,
+      "gas:candidate-vibid:1001000131410": 13,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 7,
-      "Камшилов Петр Петрович": 54,
-      "Коргунов Олег Николаевич": 26,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 7,
+      "gas:candidate-vibid:1001000225983": 54,
+      "gas:candidate-vibid:1001000131410": 26,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 10,
-      "Камшилов Петр Петрович": 73,
-      "Коргунов Олег Николаевич": 29,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 10,
+      "gas:candidate-vibid:1001000225983": 73,
+      "gas:candidate-vibid:1001000131410": 29,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 9,
-      "Волков Виктор Петрович": 55,
-      "Камшилов Петр Петрович": 301,
-      "Коргунов Олег Николаевич": 49,
-      "Нестерова Надежда Владимировна": 14,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 13,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 9,
+      "gas:candidate-vibid:1001000121905": 55,
+      "gas:candidate-vibid:1001000225983": 301,
+      "gas:candidate-vibid:1001000131410": 49,
+      "gas:candidate-vibid:1001000195139": 14,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 13,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 5,
-      "Волков Виктор Петрович": 45,
-      "Камшилов Петр Петрович": 187,
-      "Коргунов Олег Николаевич": 63,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 15,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 5,
+      "gas:candidate-vibid:1001000121905": 45,
+      "gas:candidate-vibid:1001000225983": 187,
+      "gas:candidate-vibid:1001000131410": 63,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 15,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 167,
-      "Коргунов Олег Николаевич": 101,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 167,
+      "gas:candidate-vibid:1001000131410": 101,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 6,
-      "Волков Виктор Петрович": 9,
-      "Камшилов Петр Петрович": 155,
-      "Коргунов Олег Николаевич": 59,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 6,
+      "gas:candidate-vibid:1001000121905": 9,
+      "gas:candidate-vibid:1001000225983": 155,
+      "gas:candidate-vibid:1001000131410": 59,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270898&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 68,
-      "Волков Виктор Петрович": 281,
-      "Камшилов Петр Петрович": 236,
-      "Коргунов Олег Николаевич": 84,
-      "Нестерова Надежда Владимировна": 6,
-      "Серяпин Валерий Петрович": 5,
-      "Скачек Владимир Владимирович": 29,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 71
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 68,
+      "gas:candidate-vibid:1001000121905": 281,
+      "gas:candidate-vibid:1001000225983": 236,
+      "gas:candidate-vibid:1001000131410": 84,
+      "gas:candidate-vibid:1001000195139": 6,
+      "gas:candidate-vibid:364300270632": 5,
+      "gas:candidate-vibid:1001000289811": 29,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 40,
-      "Волков Виктор Петрович": 169,
-      "Камшилов Петр Петрович": 259,
-      "Коргунов Олег Николаевич": 70,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 14,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 65
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 40,
+      "gas:candidate-vibid:1001000121905": 169,
+      "gas:candidate-vibid:1001000225983": 259,
+      "gas:candidate-vibid:1001000131410": 70,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 14,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 58,
-      "Волков Виктор Петрович": 161,
-      "Камшилов Петр Петрович": 271,
-      "Коргунов Олег Николаевич": 95,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 22,
-      "Степанов Спартак Аркадьевич": 6,
-      "Против всех": 75
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 58,
+      "gas:candidate-vibid:1001000121905": 161,
+      "gas:candidate-vibid:1001000225983": 271,
+      "gas:candidate-vibid:1001000131410": 95,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 22,
+      "gas:candidate-vibid:1001000190409": 6,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 57,
-      "Волков Виктор Петрович": 176,
-      "Камшилов Петр Петрович": 283,
-      "Коргунов Олег Николаевич": 108,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 26,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 87
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 57,
+      "gas:candidate-vibid:1001000121905": 176,
+      "gas:candidate-vibid:1001000225983": 283,
+      "gas:candidate-vibid:1001000131410": 108,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 26,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 21,
-      "Волков Виктор Петрович": 109,
-      "Камшилов Петр Петрович": 97,
-      "Коргунов Олег Николаевич": 36,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 21,
+      "gas:candidate-vibid:1001000121905": 109,
+      "gas:candidate-vibid:1001000225983": 97,
+      "gas:candidate-vibid:1001000131410": 36,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 15,
-      "Волков Виктор Петрович": 80,
-      "Камшилов Петр Петрович": 197,
-      "Коргунов Олег Николаевич": 29,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 9,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 15,
+      "gas:candidate-vibid:1001000121905": 80,
+      "gas:candidate-vibid:1001000225983": 197,
+      "gas:candidate-vibid:1001000131410": 29,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 9,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 22,
-      "Волков Виктор Петрович": 32,
-      "Камшилов Петр Петрович": 161,
-      "Коргунов Олег Николаевич": 30,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 22,
+      "gas:candidate-vibid:1001000121905": 32,
+      "gas:candidate-vibid:1001000225983": 161,
+      "gas:candidate-vibid:1001000131410": 30,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 16,
-      "Волков Виктор Петрович": 48,
-      "Камшилов Петр Петрович": 280,
-      "Коргунов Олег Николаевич": 19,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 16,
+      "gas:candidate-vibid:1001000121905": 48,
+      "gas:candidate-vibid:1001000225983": 280,
+      "gas:candidate-vibid:1001000131410": 19,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 9,
-      "Волков Виктор Петрович": 46,
-      "Камшилов Петр Петрович": 233,
-      "Коргунов Олег Николаевич": 17,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 9,
+      "gas:candidate-vibid:1001000121905": 46,
+      "gas:candidate-vibid:1001000225983": 233,
+      "gas:candidate-vibid:1001000131410": 17,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 24,
-      "Волков Виктор Петрович": 176,
-      "Камшилов Петр Петрович": 261,
-      "Коргунов Олег Николаевич": 49,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 28,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 51
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 24,
+      "gas:candidate-vibid:1001000121905": 176,
+      "gas:candidate-vibid:1001000225983": 261,
+      "gas:candidate-vibid:1001000131410": 49,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 28,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 13,
-      "Волков Виктор Петрович": 45,
-      "Камшилов Петр Петрович": 152,
-      "Коргунов Олег Николаевич": 25,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 13,
+      "gas:candidate-vibid:1001000121905": 45,
+      "gas:candidate-vibid:1001000225983": 152,
+      "gas:candidate-vibid:1001000131410": 25,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 32,
-      "Камшилов Петр Петрович": 49,
-      "Коргунов Олег Николаевич": 20,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 32,
+      "gas:candidate-vibid:1001000225983": 49,
+      "gas:candidate-vibid:1001000131410": 20,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 44,
-      "Волков Виктор Петрович": 94,
-      "Камшилов Петр Петрович": 170,
-      "Коргунов Олег Николаевич": 35,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 44,
+      "gas:candidate-vibid:1001000121905": 94,
+      "gas:candidate-vibid:1001000225983": 170,
+      "gas:candidate-vibid:1001000131410": 35,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 6,
-      "Волков Виктор Петрович": 37,
-      "Камшилов Петр Петрович": 73,
-      "Коргунов Олег Николаевич": 13,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 6,
+      "gas:candidate-vibid:1001000121905": 37,
+      "gas:candidate-vibid:1001000225983": 73,
+      "gas:candidate-vibid:1001000131410": 13,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 108,
-      "Камшилов Петр Петрович": 185,
-      "Коргунов Олег Николаевич": 48,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 108,
+      "gas:candidate-vibid:1001000225983": 185,
+      "gas:candidate-vibid:1001000131410": 48,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 36,
-      "Волков Виктор Петрович": 88,
-      "Камшилов Петр Петрович": 91,
-      "Коргунов Олег Николаевич": 22,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 16,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 36,
+      "gas:candidate-vibid:1001000121905": 88,
+      "gas:candidate-vibid:1001000225983": 91,
+      "gas:candidate-vibid:1001000131410": 22,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 16,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 8,
-      "Волков Виктор Петрович": 73,
-      "Камшилов Петр Петрович": 87,
-      "Коргунов Олег Николаевич": 92,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 8,
+      "gas:candidate-vibid:1001000121905": 73,
+      "gas:candidate-vibid:1001000225983": 87,
+      "gas:candidate-vibid:1001000131410": 92,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 7,
-      "Волков Виктор Петрович": 27,
-      "Камшилов Петр Петрович": 85,
-      "Коргунов Олег Николаевич": 27,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 7,
+      "gas:candidate-vibid:1001000121905": 27,
+      "gas:candidate-vibid:1001000225983": 85,
+      "gas:candidate-vibid:1001000131410": 27,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 21,
-      "Волков Виктор Петрович": 95,
-      "Камшилов Петр Петрович": 179,
-      "Коргунов Олег Николаевич": 79,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 21,
+      "gas:candidate-vibid:1001000121905": 95,
+      "gas:candidate-vibid:1001000225983": 179,
+      "gas:candidate-vibid:1001000131410": 79,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 43,
-      "Камшилов Петр Петрович": 141,
-      "Коргунов Олег Николаевич": 31,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 43,
+      "gas:candidate-vibid:1001000225983": 141,
+      "gas:candidate-vibid:1001000131410": 31,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270905&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 129,
-      "Волков Виктор Петрович": 161,
-      "Камшилов Петр Петрович": 336,
-      "Коргунов Олег Николаевич": 259,
-      "Нестерова Надежда Владимировна": 17,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 32,
-      "Степанов Спартак Аркадьевич": 7,
-      "Против всех": 119
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 129,
+      "gas:candidate-vibid:1001000121905": 161,
+      "gas:candidate-vibid:1001000225983": 336,
+      "gas:candidate-vibid:1001000131410": 259,
+      "gas:candidate-vibid:1001000195139": 17,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 32,
+      "gas:candidate-vibid:1001000190409": 7,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 105,
-      "Волков Виктор Петрович": 197,
-      "Камшилов Петр Петрович": 636,
-      "Коргунов Олег Николаевич": 198,
-      "Нестерова Надежда Владимировна": 12,
-      "Серяпин Валерий Петрович": 5,
-      "Скачек Владимир Владимирович": 39,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 100
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 105,
+      "gas:candidate-vibid:1001000121905": 197,
+      "gas:candidate-vibid:1001000225983": 636,
+      "gas:candidate-vibid:1001000131410": 198,
+      "gas:candidate-vibid:1001000195139": 12,
+      "gas:candidate-vibid:364300270632": 5,
+      "gas:candidate-vibid:1001000289811": 39,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 155,
-      "Волков Виктор Петрович": 262,
-      "Камшилов Петр Петрович": 392,
-      "Коргунов Олег Николаевич": 176,
-      "Нестерова Надежда Владимировна": 12,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 31,
-      "Степанов Спартак Аркадьевич": 9,
-      "Против всех": 141
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 155,
+      "gas:candidate-vibid:1001000121905": 262,
+      "gas:candidate-vibid:1001000225983": 392,
+      "gas:candidate-vibid:1001000131410": 176,
+      "gas:candidate-vibid:1001000195139": 12,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 31,
+      "gas:candidate-vibid:1001000190409": 9,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 55,
-      "Волков Виктор Петрович": 92,
-      "Камшилов Петр Петрович": 453,
-      "Коргунов Олег Николаевич": 219,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 87
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 55,
+      "gas:candidate-vibid:1001000121905": 92,
+      "gas:candidate-vibid:1001000225983": 453,
+      "gas:candidate-vibid:1001000131410": 219,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 78,
-      "Волков Виктор Петрович": 125,
-      "Камшилов Петр Петрович": 167,
-      "Коргунов Олег Николаевич": 39,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 78,
+      "gas:candidate-vibid:1001000121905": 125,
+      "gas:candidate-vibid:1001000225983": 167,
+      "gas:candidate-vibid:1001000131410": 39,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 21,
-      "Волков Виктор Петрович": 77,
-      "Камшилов Петр Петрович": 108,
-      "Коргунов Олег Николаевич": 115,
-      "Нестерова Надежда Владимировна": 18,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 12,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 21,
+      "gas:candidate-vibid:1001000121905": 77,
+      "gas:candidate-vibid:1001000225983": 108,
+      "gas:candidate-vibid:1001000131410": 115,
+      "gas:candidate-vibid:1001000195139": 18,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 12,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 16,
-      "Волков Виктор Петрович": 44,
-      "Камшилов Петр Петрович": 295,
-      "Коргунов Олег Николаевич": 81,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 16,
+      "gas:candidate-vibid:1001000121905": 44,
+      "gas:candidate-vibid:1001000225983": 295,
+      "gas:candidate-vibid:1001000131410": 81,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 15,
-      "Камшилов Петр Петрович": 86,
-      "Коргунов Олег Николаевич": 9,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 15,
+      "gas:candidate-vibid:1001000225983": 86,
+      "gas:candidate-vibid:1001000131410": 9,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 6,
-      "Ветров Александр Иванович": 10,
-      "Волков Виктор Петрович": 118,
-      "Камшилов Петр Петрович": 183,
-      "Коргунов Олег Николаевич": 79,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:364300270400": 6,
+      "gas:candidate-vibid:1001000113977": 10,
+      "gas:candidate-vibid:1001000121905": 118,
+      "gas:candidate-vibid:1001000225983": 183,
+      "gas:candidate-vibid:1001000131410": 79,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 30,
-      "Камшилов Петр Петрович": 50,
-      "Коргунов Олег Николаевич": 43,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 30,
+      "gas:candidate-vibid:1001000225983": 50,
+      "gas:candidate-vibid:1001000131410": 43,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 13,
-      "Камшилов Петр Петрович": 87,
-      "Коргунов Олег Николаевич": 16,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 13,
+      "gas:candidate-vibid:1001000225983": 87,
+      "gas:candidate-vibid:1001000131410": 16,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 11,
-      "Волков Виктор Петрович": 35,
-      "Камшилов Петр Петрович": 207,
-      "Коргунов Олег Николаевич": 99,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 7,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 11,
+      "gas:candidate-vibid:1001000121905": 35,
+      "gas:candidate-vibid:1001000225983": 207,
+      "gas:candidate-vibid:1001000131410": 99,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 7,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 18,
-      "Волков Виктор Петрович": 36,
-      "Камшилов Петр Петрович": 203,
-      "Коргунов Олег Николаевич": 67,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 18,
+      "gas:candidate-vibid:1001000121905": 36,
+      "gas:candidate-vibid:1001000225983": 203,
+      "gas:candidate-vibid:1001000131410": 67,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 7,
-      "Волков Виктор Петрович": 44,
-      "Камшилов Петр Петрович": 106,
-      "Коргунов Олег Николаевич": 98,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 7,
+      "gas:candidate-vibid:1001000121905": 44,
+      "gas:candidate-vibid:1001000225983": 106,
+      "gas:candidate-vibid:1001000131410": 98,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 8,
-      "Волков Виктор Петрович": 6,
-      "Камшилов Петр Петрович": 35,
-      "Коргунов Олег Николаевич": 23,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 8,
+      "gas:candidate-vibid:1001000121905": 6,
+      "gas:candidate-vibid:1001000225983": 35,
+      "gas:candidate-vibid:1001000131410": 23,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 10,
-      "Волков Виктор Петрович": 171,
-      "Камшилов Петр Петрович": 174,
-      "Коргунов Олег Николаевич": 44,
-      "Нестерова Надежда Владимировна": 7,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 10,
+      "gas:candidate-vibid:1001000121905": 171,
+      "gas:candidate-vibid:1001000225983": 174,
+      "gas:candidate-vibid:1001000131410": 44,
+      "gas:candidate-vibid:1001000195139": 7,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 5,
-      "Камшилов Петр Петрович": 51,
-      "Коргунов Олег Николаевич": 11,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 5,
+      "gas:candidate-vibid:1001000225983": 51,
+      "gas:candidate-vibid:1001000131410": 11,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 26,
-      "Волков Виктор Петрович": 145,
-      "Камшилов Петр Петрович": 211,
-      "Коргунов Олег Николаевич": 59,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 10,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 26,
+      "gas:candidate-vibid:1001000121905": 145,
+      "gas:candidate-vibid:1001000225983": 211,
+      "gas:candidate-vibid:1001000131410": 59,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 10,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 116,
-      "Коргунов Олег Николаевич": 27,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 116,
+      "gas:candidate-vibid:1001000131410": 27,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 18,
-      "Волков Виктор Петрович": 51,
-      "Камшилов Петр Петрович": 255,
-      "Коргунов Олег Николаевич": 15,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 16,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 18,
+      "gas:candidate-vibid:1001000121905": 51,
+      "gas:candidate-vibid:1001000225983": 255,
+      "gas:candidate-vibid:1001000131410": 15,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 16,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 5,
-      "Волков Виктор Петрович": 10,
-      "Камшилов Петр Петрович": 116,
-      "Коргунов Олег Николаевич": 14,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 5,
+      "gas:candidate-vibid:1001000121905": 10,
+      "gas:candidate-vibid:1001000225983": 116,
+      "gas:candidate-vibid:1001000131410": 14,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 13,
-      "Камшилов Петр Петрович": 58,
-      "Коргунов Олег Николаевич": 7,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 13,
+      "gas:candidate-vibid:1001000225983": 58,
+      "gas:candidate-vibid:1001000131410": 7,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 2,
-      "Камшилов Петр Петрович": 67,
-      "Коргунов Олег Николаевич": 7,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 2,
+      "gas:candidate-vibid:1001000225983": 67,
+      "gas:candidate-vibid:1001000131410": 7,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 17,
-      "Камшилов Петр Петрович": 190,
-      "Коргунов Олег Николаевич": 30,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 17,
+      "gas:candidate-vibid:1001000225983": 190,
+      "gas:candidate-vibid:1001000131410": 30,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 1,
-      "Камшилов Петр Петрович": 40,
-      "Коргунов Олег Николаевич": 2,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 1,
+      "gas:candidate-vibid:1001000225983": 40,
+      "gas:candidate-vibid:1001000131410": 2,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 110,
-      "Волков Виктор Петрович": 275,
-      "Камшилов Петр Петрович": 536,
-      "Коргунов Олег Николаевич": 82,
-      "Нестерова Надежда Владимировна": 3,
-      "Серяпин Валерий Петрович": 4,
-      "Скачек Владимир Владимирович": 17,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 100
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 110,
+      "gas:candidate-vibid:1001000121905": 275,
+      "gas:candidate-vibid:1001000225983": 536,
+      "gas:candidate-vibid:1001000131410": 82,
+      "gas:candidate-vibid:1001000195139": 3,
+      "gas:candidate-vibid:364300270632": 4,
+      "gas:candidate-vibid:1001000289811": 17,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 13,
-      "Камшилов Петр Петрович": 67,
-      "Коргунов Олег Николаевич": 16,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 13,
+      "gas:candidate-vibid:1001000225983": 67,
+      "gas:candidate-vibid:1001000131410": 16,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 20,
-      "Камшилов Петр Петрович": 81,
-      "Коргунов Олег Николаевич": 9,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 20,
+      "gas:candidate-vibid:1001000225983": 81,
+      "gas:candidate-vibid:1001000131410": 9,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 33,
-      "Камшилов Петр Петрович": 94,
-      "Коргунов Олег Николаевич": 19,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 33,
+      "gas:candidate-vibid:1001000225983": 94,
+      "gas:candidate-vibid:1001000131410": 19,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 7,
-      "Волков Виктор Петрович": 16,
-      "Камшилов Петр Петрович": 48,
-      "Коргунов Олег Николаевич": 56,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 7,
+      "gas:candidate-vibid:1001000121905": 16,
+      "gas:candidate-vibid:1001000225983": 48,
+      "gas:candidate-vibid:1001000131410": 56,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 13,
-      "Камшилов Петр Петрович": 56,
-      "Коргунов Олег Николаевич": 11,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 13,
+      "gas:candidate-vibid:1001000225983": 56,
+      "gas:candidate-vibid:1001000131410": 11,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 14,
-      "Камшилов Петр Петрович": 86,
-      "Коргунов Олег Николаевич": 28,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 14,
+      "gas:candidate-vibid:1001000225983": 86,
+      "gas:candidate-vibid:1001000131410": 28,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 0,
-      "Волков Виктор Петрович": 32,
-      "Камшилов Петр Петрович": 135,
-      "Коргунов Олег Николаевич": 52,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 0,
+      "gas:candidate-vibid:1001000121905": 32,
+      "gas:candidate-vibid:1001000225983": 135,
+      "gas:candidate-vibid:1001000131410": 52,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 27,
-      "Камшилов Петр Петрович": 135,
-      "Коргунов Олег Николаевич": 26,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 27,
+      "gas:candidate-vibid:1001000225983": 135,
+      "gas:candidate-vibid:1001000131410": 26,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 5,
-      "Волков Виктор Петрович": 147,
-      "Камшилов Петр Петрович": 309,
-      "Коргунов Олег Николаевич": 38,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 5,
+      "gas:candidate-vibid:1001000121905": 147,
+      "gas:candidate-vibid:1001000225983": 309,
+      "gas:candidate-vibid:1001000131410": 38,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 68,
-      "Волков Виктор Петрович": 181,
-      "Камшилов Петр Петрович": 252,
-      "Коргунов Олег Николаевич": 44,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 15,
-      "Степанов Спартак Аркадьевич": 4,
-      "Против всех": 73
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 68,
+      "gas:candidate-vibid:1001000121905": 181,
+      "gas:candidate-vibid:1001000225983": 252,
+      "gas:candidate-vibid:1001000131410": 44,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 15,
+      "gas:candidate-vibid:1001000190409": 4,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 43,
-      "Камшилов Петр Петрович": 133,
-      "Коргунов Олег Николаевич": 30,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 43,
+      "gas:candidate-vibid:1001000225983": 133,
+      "gas:candidate-vibid:1001000131410": 30,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 6,
-      "Камшилов Петр Петрович": 49,
-      "Коргунов Олег Николаевич": 1,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 2,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 6,
+      "gas:candidate-vibid:1001000225983": 49,
+      "gas:candidate-vibid:1001000131410": 1,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 2,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270907&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 24,
-      "Ветров Александр Иванович": 113,
-      "Волков Виктор Петрович": 472,
-      "Камшилов Петр Петрович": 426,
-      "Коргунов Олег Николаевич": 194,
-      "Нестерова Надежда Владимировна": 21,
-      "Серяпин Валерий Петрович": 5,
-      "Скачек Владимир Владимирович": 30,
-      "Степанов Спартак Аркадьевич": 20,
-      "Против всех": 224
+      "gas:candidate-vibid:364300270400": 24,
+      "gas:candidate-vibid:1001000113977": 113,
+      "gas:candidate-vibid:1001000121905": 472,
+      "gas:candidate-vibid:1001000225983": 426,
+      "gas:candidate-vibid:1001000131410": 194,
+      "gas:candidate-vibid:1001000195139": 21,
+      "gas:candidate-vibid:364300270632": 5,
+      "gas:candidate-vibid:1001000289811": 30,
+      "gas:candidate-vibid:1001000190409": 20,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 9,
-      "Ветров Александр Иванович": 64,
-      "Волков Виктор Петрович": 248,
-      "Камшилов Петр Петрович": 294,
-      "Коргунов Олег Николаевич": 136,
-      "Нестерова Надежда Владимировна": 13,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 35,
-      "Степанов Спартак Аркадьевич": 9,
-      "Против всех": 171
+      "gas:candidate-vibid:364300270400": 9,
+      "gas:candidate-vibid:1001000113977": 64,
+      "gas:candidate-vibid:1001000121905": 248,
+      "gas:candidate-vibid:1001000225983": 294,
+      "gas:candidate-vibid:1001000131410": 136,
+      "gas:candidate-vibid:1001000195139": 13,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 35,
+      "gas:candidate-vibid:1001000190409": 9,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 5,
-      "Ветров Александр Иванович": 59,
-      "Волков Виктор Петрович": 183,
-      "Камшилов Петр Петрович": 200,
-      "Коргунов Олег Николаевич": 42,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 30,
-      "Степанов Спартак Аркадьевич": 5,
-      "Против всех": 96
+      "gas:candidate-vibid:364300270400": 5,
+      "gas:candidate-vibid:1001000113977": 59,
+      "gas:candidate-vibid:1001000121905": 183,
+      "gas:candidate-vibid:1001000225983": 200,
+      "gas:candidate-vibid:1001000131410": 42,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 30,
+      "gas:candidate-vibid:1001000190409": 5,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 28,
-      "Камшилов Петр Петрович": 34,
-      "Коргунов Олег Николаевич": 2,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 28,
+      "gas:candidate-vibid:1001000225983": 34,
+      "gas:candidate-vibid:1001000131410": 2,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 8,
-      "Ветров Александр Иванович": 48,
-      "Волков Виктор Петрович": 353,
-      "Камшилов Петр Петрович": 199,
-      "Коргунов Олег Николаевич": 205,
-      "Нестерова Надежда Владимировна": 9,
-      "Серяпин Валерий Петрович": 3,
-      "Скачек Владимир Владимирович": 43,
-      "Степанов Спартак Аркадьевич": 8,
-      "Против всех": 100
+      "gas:candidate-vibid:364300270400": 8,
+      "gas:candidate-vibid:1001000113977": 48,
+      "gas:candidate-vibid:1001000121905": 353,
+      "gas:candidate-vibid:1001000225983": 199,
+      "gas:candidate-vibid:1001000131410": 205,
+      "gas:candidate-vibid:1001000195139": 9,
+      "gas:candidate-vibid:364300270632": 3,
+      "gas:candidate-vibid:1001000289811": 43,
+      "gas:candidate-vibid:1001000190409": 8,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 20,
-      "Камшилов Петр Петрович": 43,
-      "Коргунов Олег Николаевич": 6,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 20,
+      "gas:candidate-vibid:1001000225983": 43,
+      "gas:candidate-vibid:1001000131410": 6,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 2,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 30,
-      "Камшилов Петр Петрович": 87,
-      "Коргунов Олег Николаевич": 63,
-      "Нестерова Надежда Владимировна": 2,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 5,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 44
+      "gas:candidate-vibid:364300270400": 2,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 30,
+      "gas:candidate-vibid:1001000225983": 87,
+      "gas:candidate-vibid:1001000131410": 63,
+      "gas:candidate-vibid:1001000195139": 2,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 5,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 15,
-      "Камшилов Петр Петрович": 76,
-      "Коргунов Олег Николаевич": 10,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 15,
+      "gas:candidate-vibid:1001000225983": 76,
+      "gas:candidate-vibid:1001000131410": 10,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 1,
-      "Волков Виктор Петрович": 73,
-      "Камшилов Петр Петрович": 186,
-      "Коргунов Олег Николаевич": 71,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 4,
-      "Степанов Спартак Аркадьевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 1,
+      "gas:candidate-vibid:1001000121905": 73,
+      "gas:candidate-vibid:1001000225983": 186,
+      "gas:candidate-vibid:1001000131410": 71,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 4,
+      "gas:candidate-vibid:1001000190409": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 4,
-      "Камшилов Петр Петрович": 74,
-      "Коргунов Олег Николаевич": 16,
-      "Нестерова Надежда Владимировна": 0,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 0,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 4,
+      "gas:candidate-vibid:1001000225983": 74,
+      "gas:candidate-vibid:1001000131410": 16,
+      "gas:candidate-vibid:1001000195139": 0,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 0,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 3,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 41,
-      "Камшилов Петр Петрович": 134,
-      "Коргунов Олег Николаевич": 136,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 3,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:364300270400": 3,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 41,
+      "gas:candidate-vibid:1001000225983": 134,
+      "gas:candidate-vibid:1001000131410": 136,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 3,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 7,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 58,
-      "Камшилов Петр Петрович": 184,
-      "Коргунов Олег Николаевич": 57,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:364300270400": 7,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 58,
+      "gas:candidate-vibid:1001000225983": 184,
+      "gas:candidate-vibid:1001000131410": 57,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 1,
-      "Ветров Александр Иванович": 3,
-      "Волков Виктор Петрович": 41,
-      "Камшилов Петр Петрович": 103,
-      "Коргунов Олег Николаевич": 122,
-      "Нестерова Надежда Владимировна": 5,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 6,
-      "Степанов Спартак Аркадьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:364300270400": 1,
+      "gas:candidate-vibid:1001000113977": 3,
+      "gas:candidate-vibid:1001000121905": 41,
+      "gas:candidate-vibid:1001000225983": 103,
+      "gas:candidate-vibid:1001000131410": 122,
+      "gas:candidate-vibid:1001000195139": 5,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 6,
+      "gas:candidate-vibid:1001000190409": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 4,
-      "Ветров Александр Иванович": 4,
-      "Волков Виктор Петрович": 86,
-      "Камшилов Петр Петрович": 170,
-      "Коргунов Олег Николаевич": 64,
-      "Нестерова Надежда Владимировна": 4,
-      "Серяпин Валерий Петрович": 1,
-      "Скачек Владимир Владимирович": 8,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:364300270400": 4,
+      "gas:candidate-vibid:1001000113977": 4,
+      "gas:candidate-vibid:1001000121905": 86,
+      "gas:candidate-vibid:1001000225983": 170,
+      "gas:candidate-vibid:1001000131410": 64,
+      "gas:candidate-vibid:1001000195139": 4,
+      "gas:candidate-vibid:364300270632": 1,
+      "gas:candidate-vibid:1001000289811": 8,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 6,
-      "Волков Виктор Петрович": 43,
-      "Камшилов Петр Петрович": 85,
-      "Коргунов Олег Николаевич": 105,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 15,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 6,
+      "gas:candidate-vibid:1001000121905": 43,
+      "gas:candidate-vibid:1001000225983": 85,
+      "gas:candidate-vibid:1001000131410": 105,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 15,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 0,
-      "Ветров Александр Иванович": 2,
-      "Волков Виктор Петрович": 12,
-      "Камшилов Петр Петрович": 60,
-      "Коргунов Олег Николаевич": 18,
-      "Нестерова Надежда Владимировна": 1,
-      "Серяпин Валерий Петрович": 0,
-      "Скачек Владимир Владимирович": 1,
-      "Степанов Спартак Аркадьевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:364300270400": 0,
+      "gas:candidate-vibid:1001000113977": 2,
+      "gas:candidate-vibid:1001000121905": 12,
+      "gas:candidate-vibid:1001000225983": 60,
+      "gas:candidate-vibid:1001000131410": 18,
+      "gas:candidate-vibid:1001000195139": 1,
+      "gas:candidate-vibid:364300270632": 0,
+      "gas:candidate-vibid:1001000289811": 1,
+      "gas:candidate-vibid:1001000190409": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_64_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болганов Сергей Владимирович": 13,
-      "Ветров Александр Иванович": 22,
-      "Волков Виктор Петрович": 171,
-      "Камшилов Петр Петрович": 215,
-      "Коргунов Олег Николаевич": 73,
-      "Нестерова Надежда Владимировна": 8,
-      "Серяпин Валерий Петрович": 2,
-      "Скачек Владимир Владимирович": 19,
-      "Степанов Спартак Аркадьевич": 16,
-      "Против всех": 140
+      "gas:candidate-vibid:364300270400": 13,
+      "gas:candidate-vibid:1001000113977": 22,
+      "gas:candidate-vibid:1001000121905": 171,
+      "gas:candidate-vibid:1001000225983": 215,
+      "gas:candidate-vibid:1001000131410": 73,
+      "gas:candidate-vibid:1001000195139": 8,
+      "gas:candidate-vibid:364300270632": 2,
+      "gas:candidate-vibid:1001000289811": 19,
+      "gas:candidate-vibid:1001000190409": 16,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300270909&region=0&sub_region=0&type=429",

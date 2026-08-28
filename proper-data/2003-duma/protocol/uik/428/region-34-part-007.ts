@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 151,
-      "Горюнов Владимир Дмитриевич": 462,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 289,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 163
+      "gas:candidate-vibid:334300470473": 151,
+      "gas:candidate-vibid:334300470470": 462,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 289,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 115,
-      "Горюнов Владимир Дмитриевич": 241,
-      "Заостровский Игорь Игоревич": 27,
-      "Ищенко Евгений Петрович": 271,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 149
+      "gas:candidate-vibid:334300470473": 115,
+      "gas:candidate-vibid:334300470470": 241,
+      "gas:candidate-vibid:334300470463": 27,
+      "gas:candidate-vibid:334300470466": 271,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 165,
-      "Горюнов Владимир Дмитриевич": 325,
-      "Заостровский Игорь Игоревич": 29,
-      "Ищенко Евгений Петрович": 458,
-      "Косков Алексей Андреевич": 58,
-      "Против всех": 398
+      "gas:candidate-vibid:334300470473": 165,
+      "gas:candidate-vibid:334300470470": 325,
+      "gas:candidate-vibid:334300470463": 29,
+      "gas:candidate-vibid:334300470466": 458,
+      "gas:candidate-vibid:1001000202301": 58,
+      "special:against-all": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 150,
-      "Горюнов Владимир Дмитриевич": 485,
-      "Заостровский Игорь Игоревич": 23,
-      "Ищенко Евгений Петрович": 360,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 241
+      "gas:candidate-vibid:334300470473": 150,
+      "gas:candidate-vibid:334300470470": 485,
+      "gas:candidate-vibid:334300470463": 23,
+      "gas:candidate-vibid:334300470466": 360,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 190,
-      "Горюнов Владимир Дмитриевич": 467,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 412,
-      "Косков Алексей Андреевич": 31,
-      "Против всех": 237
+      "gas:candidate-vibid:334300470473": 190,
+      "gas:candidate-vibid:334300470470": 467,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 412,
+      "gas:candidate-vibid:1001000202301": 31,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 146,
-      "Горюнов Владимир Дмитриевич": 449,
-      "Заостровский Игорь Игоревич": 39,
-      "Ищенко Евгений Петрович": 354,
-      "Косков Алексей Андреевич": 31,
-      "Против всех": 230
+      "gas:candidate-vibid:334300470473": 146,
+      "gas:candidate-vibid:334300470470": 449,
+      "gas:candidate-vibid:334300470463": 39,
+      "gas:candidate-vibid:334300470466": 354,
+      "gas:candidate-vibid:1001000202301": 31,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 172,
-      "Горюнов Владимир Дмитриевич": 424,
-      "Заостровский Игорь Игоревич": 33,
-      "Ищенко Евгений Петрович": 403,
-      "Косков Алексей Андреевич": 45,
-      "Против всех": 299
+      "gas:candidate-vibid:334300470473": 172,
+      "gas:candidate-vibid:334300470470": 424,
+      "gas:candidate-vibid:334300470463": 33,
+      "gas:candidate-vibid:334300470466": 403,
+      "gas:candidate-vibid:1001000202301": 45,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 111,
-      "Горюнов Владимир Дмитриевич": 300,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 339,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 184
+      "gas:candidate-vibid:334300470473": 111,
+      "gas:candidate-vibid:334300470470": 300,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 339,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 163,
-      "Горюнов Владимир Дмитриевич": 467,
-      "Заостровский Игорь Игоревич": 22,
-      "Ищенко Евгений Петрович": 328,
-      "Косков Алексей Андреевич": 31,
-      "Против всех": 350
+      "gas:candidate-vibid:334300470473": 163,
+      "gas:candidate-vibid:334300470470": 467,
+      "gas:candidate-vibid:334300470463": 22,
+      "gas:candidate-vibid:334300470466": 328,
+      "gas:candidate-vibid:1001000202301": 31,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 158,
-      "Горюнов Владимир Дмитриевич": 334,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 263,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 174
+      "gas:candidate-vibid:334300470473": 158,
+      "gas:candidate-vibid:334300470470": 334,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 263,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 128,
-      "Горюнов Владимир Дмитриевич": 406,
-      "Заостровский Игорь Игоревич": 25,
-      "Ищенко Евгений Петрович": 246,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 205
+      "gas:candidate-vibid:334300470473": 128,
+      "gas:candidate-vibid:334300470470": 406,
+      "gas:candidate-vibid:334300470463": 25,
+      "gas:candidate-vibid:334300470466": 246,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 167,
-      "Горюнов Владимир Дмитриевич": 393,
-      "Заостровский Игорь Игоревич": 14,
-      "Ищенко Евгений Петрович": 294,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 190
+      "gas:candidate-vibid:334300470473": 167,
+      "gas:candidate-vibid:334300470470": 393,
+      "gas:candidate-vibid:334300470463": 14,
+      "gas:candidate-vibid:334300470466": 294,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 134,
-      "Горюнов Владимир Дмитриевич": 461,
-      "Заостровский Игорь Игоревич": 25,
-      "Ищенко Евгений Петрович": 309,
-      "Косков Алексей Андреевич": 26,
-      "Против всех": 247
+      "gas:candidate-vibid:334300470473": 134,
+      "gas:candidate-vibid:334300470470": 461,
+      "gas:candidate-vibid:334300470463": 25,
+      "gas:candidate-vibid:334300470466": 309,
+      "gas:candidate-vibid:1001000202301": 26,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 202,
-      "Горюнов Владимир Дмитриевич": 490,
-      "Заостровский Игорь Игоревич": 31,
-      "Ищенко Евгений Петрович": 299,
-      "Косков Алексей Андреевич": 37,
-      "Против всех": 290
+      "gas:candidate-vibid:334300470473": 202,
+      "gas:candidate-vibid:334300470470": 490,
+      "gas:candidate-vibid:334300470463": 31,
+      "gas:candidate-vibid:334300470466": 299,
+      "gas:candidate-vibid:1001000202301": 37,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 194,
-      "Горюнов Владимир Дмитриевич": 481,
-      "Заостровский Игорь Игоревич": 27,
-      "Ищенко Евгений Петрович": 320,
-      "Косков Алексей Андреевич": 29,
-      "Против всех": 294
+      "gas:candidate-vibid:334300470473": 194,
+      "gas:candidate-vibid:334300470470": 481,
+      "gas:candidate-vibid:334300470463": 27,
+      "gas:candidate-vibid:334300470466": 320,
+      "gas:candidate-vibid:1001000202301": 29,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 192,
-      "Горюнов Владимир Дмитриевич": 502,
-      "Заостровский Игорь Игоревич": 32,
-      "Ищенко Евгений Петрович": 322,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 251
+      "gas:candidate-vibid:334300470473": 192,
+      "gas:candidate-vibid:334300470470": 502,
+      "gas:candidate-vibid:334300470463": 32,
+      "gas:candidate-vibid:334300470466": 322,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 184,
-      "Горюнов Владимир Дмитриевич": 481,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 276,
-      "Косков Алексей Андреевич": 33,
-      "Против всех": 236
+      "gas:candidate-vibid:334300470473": 184,
+      "gas:candidate-vibid:334300470470": 481,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 276,
+      "gas:candidate-vibid:1001000202301": 33,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 155,
-      "Горюнов Владимир Дмитриевич": 428,
-      "Заостровский Игорь Игоревич": 26,
-      "Ищенко Евгений Петрович": 256,
-      "Косков Алексей Андреевич": 30,
-      "Против всех": 240
+      "gas:candidate-vibid:334300470473": 155,
+      "gas:candidate-vibid:334300470470": 428,
+      "gas:candidate-vibid:334300470463": 26,
+      "gas:candidate-vibid:334300470466": 256,
+      "gas:candidate-vibid:1001000202301": 30,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 113,
-      "Горюнов Владимир Дмитриевич": 457,
-      "Заостровский Игорь Игоревич": 25,
-      "Ищенко Евгений Петрович": 242,
-      "Косков Алексей Андреевич": 25,
-      "Против всех": 228
+      "gas:candidate-vibid:334300470473": 113,
+      "gas:candidate-vibid:334300470470": 457,
+      "gas:candidate-vibid:334300470463": 25,
+      "gas:candidate-vibid:334300470466": 242,
+      "gas:candidate-vibid:1001000202301": 25,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 85,
-      "Горюнов Владимир Дмитриевич": 413,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 229,
-      "Косков Алексей Андреевич": 27,
-      "Против всех": 239
+      "gas:candidate-vibid:334300470473": 85,
+      "gas:candidate-vibid:334300470470": 413,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 229,
+      "gas:candidate-vibid:1001000202301": 27,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 114,
-      "Горюнов Владимир Дмитриевич": 388,
-      "Заостровский Игорь Игоревич": 22,
-      "Ищенко Евгений Петрович": 256,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 240
+      "gas:candidate-vibid:334300470473": 114,
+      "gas:candidate-vibid:334300470470": 388,
+      "gas:candidate-vibid:334300470463": 22,
+      "gas:candidate-vibid:334300470466": 256,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 127,
-      "Горюнов Владимир Дмитриевич": 399,
-      "Заостровский Игорь Игоревич": 32,
-      "Ищенко Евгений Петрович": 269,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 205
+      "gas:candidate-vibid:334300470473": 127,
+      "gas:candidate-vibid:334300470470": 399,
+      "gas:candidate-vibid:334300470463": 32,
+      "gas:candidate-vibid:334300470466": 269,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 118,
-      "Горюнов Владимир Дмитриевич": 379,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 217,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 227
+      "gas:candidate-vibid:334300470473": 118,
+      "gas:candidate-vibid:334300470470": 379,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 217,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 134,
-      "Горюнов Владимир Дмитриевич": 435,
-      "Заостровский Игорь Игоревич": 31,
-      "Ищенко Евгений Петрович": 276,
-      "Косков Алексей Андреевич": 31,
-      "Против всех": 233
+      "gas:candidate-vibid:334300470473": 134,
+      "gas:candidate-vibid:334300470470": 435,
+      "gas:candidate-vibid:334300470463": 31,
+      "gas:candidate-vibid:334300470466": 276,
+      "gas:candidate-vibid:1001000202301": 31,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 153,
-      "Горюнов Владимир Дмитриевич": 393,
-      "Заостровский Игорь Игоревич": 29,
-      "Ищенко Евгений Петрович": 328,
-      "Косков Алексей Андреевич": 27,
-      "Против всех": 184
+      "gas:candidate-vibid:334300470473": 153,
+      "gas:candidate-vibid:334300470470": 393,
+      "gas:candidate-vibid:334300470463": 29,
+      "gas:candidate-vibid:334300470466": 328,
+      "gas:candidate-vibid:1001000202301": 27,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 165,
-      "Горюнов Владимир Дмитриевич": 426,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 373,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 205
+      "gas:candidate-vibid:334300470473": 165,
+      "gas:candidate-vibid:334300470470": 426,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 373,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 136,
-      "Горюнов Владимир Дмитриевич": 379,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 337,
-      "Косков Алексей Андреевич": 26,
-      "Против всех": 148
+      "gas:candidate-vibid:334300470473": 136,
+      "gas:candidate-vibid:334300470470": 379,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 337,
+      "gas:candidate-vibid:1001000202301": 26,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 198,
-      "Горюнов Владимир Дмитриевич": 331,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 309,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 146
+      "gas:candidate-vibid:334300470473": 198,
+      "gas:candidate-vibid:334300470470": 331,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 309,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 144,
-      "Горюнов Владимир Дмитриевич": 364,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 266,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 142
+      "gas:candidate-vibid:334300470473": 144,
+      "gas:candidate-vibid:334300470470": 364,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 266,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 104,
-      "Горюнов Владимир Дмитриевич": 311,
-      "Заостровский Игорь Игоревич": 23,
-      "Ищенко Евгений Петрович": 295,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 146
+      "gas:candidate-vibid:334300470473": 104,
+      "gas:candidate-vibid:334300470470": 311,
+      "gas:candidate-vibid:334300470463": 23,
+      "gas:candidate-vibid:334300470466": 295,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 119,
-      "Горюнов Владимир Дмитриевич": 319,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 297,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 124
+      "gas:candidate-vibid:334300470473": 119,
+      "gas:candidate-vibid:334300470470": 319,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 297,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 118,
-      "Горюнов Владимир Дмитриевич": 293,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 301,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 172
+      "gas:candidate-vibid:334300470473": 118,
+      "gas:candidate-vibid:334300470470": 293,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 301,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 129,
-      "Горюнов Владимир Дмитриевич": 286,
-      "Заостровский Игорь Игоревич": 14,
-      "Ищенко Евгений Петрович": 320,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 163
+      "gas:candidate-vibid:334300470473": 129,
+      "gas:candidate-vibid:334300470470": 286,
+      "gas:candidate-vibid:334300470463": 14,
+      "gas:candidate-vibid:334300470466": 320,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 141,
-      "Горюнов Владимир Дмитриевич": 354,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 314,
-      "Косков Алексей Андреевич": 27,
-      "Против всех": 162
+      "gas:candidate-vibid:334300470473": 141,
+      "gas:candidate-vibid:334300470470": 354,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 314,
+      "gas:candidate-vibid:1001000202301": 27,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 140,
-      "Горюнов Владимир Дмитриевич": 520,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 358,
-      "Косков Алексей Андреевич": 35,
-      "Против всех": 246
+      "gas:candidate-vibid:334300470473": 140,
+      "gas:candidate-vibid:334300470470": 520,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 358,
+      "gas:candidate-vibid:1001000202301": 35,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 138,
-      "Горюнов Владимир Дмитриевич": 347,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 274,
-      "Косков Алексей Андреевич": 21,
-      "Против всех": 163
+      "gas:candidate-vibid:334300470473": 138,
+      "gas:candidate-vibid:334300470470": 347,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 274,
+      "gas:candidate-vibid:1001000202301": 21,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 144,
-      "Горюнов Владимир Дмитриевич": 522,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 368,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 170
+      "gas:candidate-vibid:334300470473": 144,
+      "gas:candidate-vibid:334300470470": 522,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 368,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 105,
-      "Горюнов Владимир Дмитриевич": 502,
-      "Заостровский Игорь Игоревич": 5,
-      "Ищенко Евгений Петрович": 275,
-      "Косков Алексей Андреевич": 21,
-      "Против всех": 134
+      "gas:candidate-vibid:334300470473": 105,
+      "gas:candidate-vibid:334300470470": 502,
+      "gas:candidate-vibid:334300470463": 5,
+      "gas:candidate-vibid:334300470466": 275,
+      "gas:candidate-vibid:1001000202301": 21,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 179,
-      "Горюнов Владимир Дмитриевич": 563,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 292,
-      "Косков Алексей Андреевич": 12,
-      "Против всех": 136
+      "gas:candidate-vibid:334300470473": 179,
+      "gas:candidate-vibid:334300470470": 563,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 292,
+      "gas:candidate-vibid:1001000202301": 12,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 97,
-      "Горюнов Владимир Дмитриевич": 217,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 233,
-      "Косков Алексей Андреевич": 12,
-      "Против всех": 113
+      "gas:candidate-vibid:334300470473": 97,
+      "gas:candidate-vibid:334300470470": 217,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 233,
+      "gas:candidate-vibid:1001000202301": 12,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 148,
-      "Горюнов Владимир Дмитриевич": 424,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 266,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 153
+      "gas:candidate-vibid:334300470473": 148,
+      "gas:candidate-vibid:334300470470": 424,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 266,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 101,
-      "Горюнов Владимир Дмитриевич": 357,
-      "Заостровский Игорь Игоревич": 11,
-      "Ищенко Евгений Петрович": 334,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 139
+      "gas:candidate-vibid:334300470473": 101,
+      "gas:candidate-vibid:334300470470": 357,
+      "gas:candidate-vibid:334300470463": 11,
+      "gas:candidate-vibid:334300470466": 334,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 65,
-      "Горюнов Владимир Дмитриевич": 310,
-      "Заостровский Игорь Игоревич": 6,
-      "Ищенко Евгений Петрович": 149,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 101
+      "gas:candidate-vibid:334300470473": 65,
+      "gas:candidate-vibid:334300470470": 310,
+      "gas:candidate-vibid:334300470463": 6,
+      "gas:candidate-vibid:334300470466": 149,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 203,
-      "Горюнов Владимир Дмитриевич": 296,
-      "Заостровский Игорь Игоревич": 25,
-      "Ищенко Евгений Петрович": 345,
-      "Косков Алексей Андреевич": 26,
-      "Против всех": 179
+      "gas:candidate-vibid:334300470473": 203,
+      "gas:candidate-vibid:334300470470": 296,
+      "gas:candidate-vibid:334300470463": 25,
+      "gas:candidate-vibid:334300470466": 345,
+      "gas:candidate-vibid:1001000202301": 26,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 0,
-      "Горюнов Владимир Дмитриевич": 4,
-      "Заостровский Игорь Игоревич": 0,
-      "Ищенко Евгений Петрович": 2,
-      "Косков Алексей Андреевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:334300470473": 0,
+      "gas:candidate-vibid:334300470470": 4,
+      "gas:candidate-vibid:334300470463": 0,
+      "gas:candidate-vibid:334300470466": 2,
+      "gas:candidate-vibid:1001000202301": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 17,
-      "Горюнов Владимир Дмитриевич": 32,
-      "Заостровский Игорь Игоревич": 3,
-      "Ищенко Евгений Петрович": 32,
-      "Косков Алексей Андреевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:334300470473": 17,
+      "gas:candidate-vibid:334300470470": 32,
+      "gas:candidate-vibid:334300470463": 3,
+      "gas:candidate-vibid:334300470466": 32,
+      "gas:candidate-vibid:1001000202301": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 0,
-      "Горюнов Владимир Дмитриевич": 2,
-      "Заостровский Игорь Игоревич": 1,
-      "Ищенко Евгений Петрович": 2,
-      "Косков Алексей Андреевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:334300470473": 0,
+      "gas:candidate-vibid:334300470470": 2,
+      "gas:candidate-vibid:334300470463": 1,
+      "gas:candidate-vibid:334300470466": 2,
+      "gas:candidate-vibid:1001000202301": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 16,
-      "Горюнов Владимир Дмитриевич": 34,
-      "Заостровский Игорь Игоревич": 2,
-      "Ищенко Евгений Петрович": 30,
-      "Косков Алексей Андреевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:334300470473": 16,
+      "gas:candidate-vibid:334300470470": 34,
+      "gas:candidate-vibid:334300470463": 2,
+      "gas:candidate-vibid:334300470466": 30,
+      "gas:candidate-vibid:1001000202301": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 3,
-      "Горюнов Владимир Дмитриевич": 1,
-      "Заостровский Игорь Игоревич": 1,
-      "Ищенко Евгений Петрович": 3,
-      "Косков Алексей Андреевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:334300470473": 3,
+      "gas:candidate-vibid:334300470470": 1,
+      "gas:candidate-vibid:334300470463": 1,
+      "gas:candidate-vibid:334300470466": 3,
+      "gas:candidate-vibid:1001000202301": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470547&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 156,
-      "Горюнов Владимир Дмитриевич": 501,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 397,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 171
+      "gas:candidate-vibid:334300470473": 156,
+      "gas:candidate-vibid:334300470470": 501,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 397,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 146,
-      "Горюнов Владимир Дмитриевич": 477,
-      "Заостровский Игорь Игоревич": 12,
-      "Ищенко Евгений Петрович": 330,
-      "Косков Алексей Андреевич": 22,
-      "Против всех": 164
+      "gas:candidate-vibid:334300470473": 146,
+      "gas:candidate-vibid:334300470470": 477,
+      "gas:candidate-vibid:334300470463": 12,
+      "gas:candidate-vibid:334300470466": 330,
+      "gas:candidate-vibid:1001000202301": 22,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 179,
-      "Горюнов Владимир Дмитриевич": 489,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 367,
-      "Косков Алексей Андреевич": 5,
-      "Против всех": 210
+      "gas:candidate-vibid:334300470473": 179,
+      "gas:candidate-vibid:334300470470": 489,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 367,
+      "gas:candidate-vibid:1001000202301": 5,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 199,
-      "Горюнов Владимир Дмитриевич": 477,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 379,
-      "Косков Алексей Андреевич": 21,
-      "Против всех": 186
+      "gas:candidate-vibid:334300470473": 199,
+      "gas:candidate-vibid:334300470470": 477,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 379,
+      "gas:candidate-vibid:1001000202301": 21,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 121,
-      "Горюнов Владимир Дмитриевич": 465,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 337,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 143
+      "gas:candidate-vibid:334300470473": 121,
+      "gas:candidate-vibid:334300470470": 465,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 337,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 138,
-      "Горюнов Владимир Дмитриевич": 433,
-      "Заостровский Игорь Игоревич": 12,
-      "Ищенко Евгений Петрович": 388,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 136
+      "gas:candidate-vibid:334300470473": 138,
+      "gas:candidate-vibid:334300470470": 433,
+      "gas:candidate-vibid:334300470463": 12,
+      "gas:candidate-vibid:334300470466": 388,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 127,
-      "Горюнов Владимир Дмитриевич": 358,
-      "Заостровский Игорь Игоревич": 14,
-      "Ищенко Евгений Петрович": 342,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 117
+      "gas:candidate-vibid:334300470473": 127,
+      "gas:candidate-vibid:334300470470": 358,
+      "gas:candidate-vibid:334300470463": 14,
+      "gas:candidate-vibid:334300470466": 342,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 168,
-      "Горюнов Владимир Дмитриевич": 614,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 316,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 139
+      "gas:candidate-vibid:334300470473": 168,
+      "gas:candidate-vibid:334300470470": 614,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 316,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 147,
-      "Горюнов Владимир Дмитриевич": 481,
-      "Заостровский Игорь Игоревич": 14,
-      "Ищенко Евгений Петрович": 355,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 151
+      "gas:candidate-vibid:334300470473": 147,
+      "gas:candidate-vibid:334300470470": 481,
+      "gas:candidate-vibid:334300470463": 14,
+      "gas:candidate-vibid:334300470466": 355,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 130,
-      "Горюнов Владимир Дмитриевич": 322,
-      "Заостровский Игорь Игоревич": 10,
-      "Ищенко Евгений Петрович": 248,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 147
+      "gas:candidate-vibid:334300470473": 130,
+      "gas:candidate-vibid:334300470470": 322,
+      "gas:candidate-vibid:334300470463": 10,
+      "gas:candidate-vibid:334300470466": 248,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 21,
-      "Горюнов Владимир Дмитриевич": 400,
-      "Заостровский Игорь Игоревич": 5,
-      "Ищенко Евгений Петрович": 46,
-      "Косков Алексей Андреевич": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:334300470473": 21,
+      "gas:candidate-vibid:334300470470": 400,
+      "gas:candidate-vibid:334300470463": 5,
+      "gas:candidate-vibid:334300470466": 46,
+      "gas:candidate-vibid:1001000202301": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 63,
-      "Горюнов Владимир Дмитриевич": 161,
-      "Заостровский Игорь Игоревич": 5,
-      "Ищенко Евгений Петрович": 156,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:334300470473": 63,
+      "gas:candidate-vibid:334300470470": 161,
+      "gas:candidate-vibid:334300470463": 5,
+      "gas:candidate-vibid:334300470466": 156,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 105,
-      "Горюнов Владимир Дмитриевич": 252,
-      "Заостровский Игорь Игоревич": 7,
-      "Ищенко Евгений Петрович": 222,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 84
+      "gas:candidate-vibid:334300470473": 105,
+      "gas:candidate-vibid:334300470470": 252,
+      "gas:candidate-vibid:334300470463": 7,
+      "gas:candidate-vibid:334300470466": 222,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 105,
-      "Горюнов Владимир Дмитриевич": 474,
-      "Заостровский Игорь Игоревич": 5,
-      "Ищенко Евгений Петрович": 242,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 173
+      "gas:candidate-vibid:334300470473": 105,
+      "gas:candidate-vibid:334300470470": 474,
+      "gas:candidate-vibid:334300470463": 5,
+      "gas:candidate-vibid:334300470466": 242,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 93,
-      "Горюнов Владимир Дмитриевич": 397,
-      "Заостровский Игорь Игоревич": 4,
-      "Ищенко Евгений Петрович": 289,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 135
+      "gas:candidate-vibid:334300470473": 93,
+      "gas:candidate-vibid:334300470470": 397,
+      "gas:candidate-vibid:334300470463": 4,
+      "gas:candidate-vibid:334300470466": 289,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 134,
-      "Горюнов Владимир Дмитриевич": 578,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 397,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 200
+      "gas:candidate-vibid:334300470473": 134,
+      "gas:candidate-vibid:334300470470": 578,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 397,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 98,
-      "Горюнов Владимир Дмитриевич": 572,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 377,
-      "Косков Алексей Андреевич": 21,
-      "Против всех": 229
+      "gas:candidate-vibid:334300470473": 98,
+      "gas:candidate-vibid:334300470470": 572,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 377,
+      "gas:candidate-vibid:1001000202301": 21,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 203,
-      "Горюнов Владимир Дмитриевич": 607,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 447,
-      "Косков Алексей Андреевич": 27,
-      "Против всех": 257
+      "gas:candidate-vibid:334300470473": 203,
+      "gas:candidate-vibid:334300470470": 607,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 447,
+      "gas:candidate-vibid:1001000202301": 27,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 128,
-      "Горюнов Владимир Дмитриевич": 467,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 351,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 182
+      "gas:candidate-vibid:334300470473": 128,
+      "gas:candidate-vibid:334300470470": 467,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 351,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 197,
-      "Горюнов Владимир Дмитриевич": 518,
-      "Заостровский Игорь Игоревич": 10,
-      "Ищенко Евгений Петрович": 430,
-      "Косков Алексей Андреевич": 21,
-      "Против всех": 163
+      "gas:candidate-vibid:334300470473": 197,
+      "gas:candidate-vibid:334300470470": 518,
+      "gas:candidate-vibid:334300470463": 10,
+      "gas:candidate-vibid:334300470466": 430,
+      "gas:candidate-vibid:1001000202301": 21,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 191,
-      "Горюнов Владимир Дмитриевич": 451,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 426,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 166
+      "gas:candidate-vibid:334300470473": 191,
+      "gas:candidate-vibid:334300470470": 451,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 426,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 127,
-      "Горюнов Владимир Дмитриевич": 422,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 445,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 195
+      "gas:candidate-vibid:334300470473": 127,
+      "gas:candidate-vibid:334300470470": 422,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 445,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 142,
-      "Горюнов Владимир Дмитриевич": 419,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 323,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 154
+      "gas:candidate-vibid:334300470473": 142,
+      "gas:candidate-vibid:334300470470": 419,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 323,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 165,
-      "Горюнов Владимир Дмитриевич": 466,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 305,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 190
+      "gas:candidate-vibid:334300470473": 165,
+      "gas:candidate-vibid:334300470470": 466,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 305,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 76,
-      "Горюнов Владимир Дмитриевич": 223,
-      "Заостровский Игорь Игоревич": 7,
-      "Ищенко Евгений Петрович": 163,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 88
+      "gas:candidate-vibid:334300470473": 76,
+      "gas:candidate-vibid:334300470470": 223,
+      "gas:candidate-vibid:334300470463": 7,
+      "gas:candidate-vibid:334300470466": 163,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 135,
-      "Горюнов Владимир Дмитриевич": 410,
-      "Заостровский Игорь Игоревич": 12,
-      "Ищенко Евгений Петрович": 326,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 121
+      "gas:candidate-vibid:334300470473": 135,
+      "gas:candidate-vibid:334300470470": 410,
+      "gas:candidate-vibid:334300470463": 12,
+      "gas:candidate-vibid:334300470466": 326,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 156,
-      "Горюнов Владимир Дмитриевич": 511,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 392,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 161
+      "gas:candidate-vibid:334300470473": 156,
+      "gas:candidate-vibid:334300470470": 511,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 392,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 99,
-      "Горюнов Владимир Дмитриевич": 355,
-      "Заостровский Игорь Игоревич": 10,
-      "Ищенко Евгений Петрович": 271,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 101
+      "gas:candidate-vibid:334300470473": 99,
+      "gas:candidate-vibid:334300470470": 355,
+      "gas:candidate-vibid:334300470463": 10,
+      "gas:candidate-vibid:334300470466": 271,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 92,
-      "Горюнов Владимир Дмитриевич": 403,
-      "Заостровский Игорь Игоревич": 12,
-      "Ищенко Евгений Петрович": 217,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 145
+      "gas:candidate-vibid:334300470473": 92,
+      "gas:candidate-vibid:334300470470": 403,
+      "gas:candidate-vibid:334300470463": 12,
+      "gas:candidate-vibid:334300470466": 217,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 70,
-      "Горюнов Владимир Дмитриевич": 190,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 116,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 84
+      "gas:candidate-vibid:334300470473": 70,
+      "gas:candidate-vibid:334300470470": 190,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 116,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 111,
-      "Горюнов Владимир Дмитриевич": 341,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 235,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 113
+      "gas:candidate-vibid:334300470473": 111,
+      "gas:candidate-vibid:334300470470": 341,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 235,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 30,
-      "Горюнов Владимир Дмитриевич": 135,
-      "Заостровский Игорь Игоревич": 4,
-      "Ищенко Евгений Петрович": 74,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 54
+      "gas:candidate-vibid:334300470473": 30,
+      "gas:candidate-vibid:334300470470": 135,
+      "gas:candidate-vibid:334300470463": 4,
+      "gas:candidate-vibid:334300470466": 74,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 161,
-      "Горюнов Владимир Дмитриевич": 557,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 335,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 216
+      "gas:candidate-vibid:334300470473": 161,
+      "gas:candidate-vibid:334300470470": 557,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 335,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 248,
-      "Горюнов Владимир Дмитриевич": 555,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 316,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 154
+      "gas:candidate-vibid:334300470473": 248,
+      "gas:candidate-vibid:334300470470": 555,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 316,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 161,
-      "Горюнов Владимир Дмитриевич": 607,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 399,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 192
+      "gas:candidate-vibid:334300470473": 161,
+      "gas:candidate-vibid:334300470470": 607,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 399,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 182,
-      "Горюнов Владимир Дмитриевич": 543,
-      "Заостровский Игорь Игоревич": 28,
-      "Ищенко Евгений Петрович": 461,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 199
+      "gas:candidate-vibid:334300470473": 182,
+      "gas:candidate-vibid:334300470470": 543,
+      "gas:candidate-vibid:334300470463": 28,
+      "gas:candidate-vibid:334300470466": 461,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 187,
-      "Горюнов Владимир Дмитриевич": 546,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 361,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 144
+      "gas:candidate-vibid:334300470473": 187,
+      "gas:candidate-vibid:334300470470": 546,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 361,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 184,
-      "Горюнов Владимир Дмитриевич": 517,
-      "Заостровский Игорь Игоревич": 12,
-      "Ищенко Евгений Петрович": 385,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 207
+      "gas:candidate-vibid:334300470473": 184,
+      "gas:candidate-vibid:334300470470": 517,
+      "gas:candidate-vibid:334300470463": 12,
+      "gas:candidate-vibid:334300470466": 385,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 72,
-      "Горюнов Владимир Дмитриевич": 408,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 184,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 106
+      "gas:candidate-vibid:334300470473": 72,
+      "gas:candidate-vibid:334300470470": 408,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 184,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 123,
-      "Горюнов Владимир Дмитриевич": 542,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 401,
-      "Косков Алексей Андреевич": 39,
-      "Против всех": 186
+      "gas:candidate-vibid:334300470473": 123,
+      "gas:candidate-vibid:334300470470": 542,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 401,
+      "gas:candidate-vibid:1001000202301": 39,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 131,
-      "Горюнов Владимир Дмитриевич": 551,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 286,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 172
+      "gas:candidate-vibid:334300470473": 131,
+      "gas:candidate-vibid:334300470470": 551,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 286,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 122,
-      "Горюнов Владимир Дмитриевич": 486,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 208,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 121
+      "gas:candidate-vibid:334300470473": 122,
+      "gas:candidate-vibid:334300470470": 486,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 208,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 177,
-      "Горюнов Владимир Дмитриевич": 615,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 321,
-      "Косков Алексей Андреевич": 29,
-      "Против всех": 203
+      "gas:candidate-vibid:334300470473": 177,
+      "gas:candidate-vibid:334300470470": 615,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 321,
+      "gas:candidate-vibid:1001000202301": 29,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 158,
-      "Горюнов Владимир Дмитриевич": 502,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 347,
-      "Косков Алексей Андреевич": 22,
-      "Против всех": 215
+      "gas:candidate-vibid:334300470473": 158,
+      "gas:candidate-vibid:334300470470": 502,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 347,
+      "gas:candidate-vibid:1001000202301": 22,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 131,
-      "Горюнов Владимир Дмитриевич": 548,
-      "Заостровский Игорь Игоревич": 22,
-      "Ищенко Евгений Петрович": 297,
-      "Косков Алексей Андреевич": 31,
-      "Против всех": 260
+      "gas:candidate-vibid:334300470473": 131,
+      "gas:candidate-vibid:334300470470": 548,
+      "gas:candidate-vibid:334300470463": 22,
+      "gas:candidate-vibid:334300470466": 297,
+      "gas:candidate-vibid:1001000202301": 31,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 157,
-      "Горюнов Владимир Дмитриевич": 559,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 270,
-      "Косков Алексей Андреевич": 34,
-      "Против всех": 214
+      "gas:candidate-vibid:334300470473": 157,
+      "gas:candidate-vibid:334300470470": 559,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 270,
+      "gas:candidate-vibid:1001000202301": 34,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 126,
-      "Горюнов Владимир Дмитриевич": 457,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 259,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 190
+      "gas:candidate-vibid:334300470473": 126,
+      "gas:candidate-vibid:334300470470": 457,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 259,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 199,
-      "Горюнов Владимир Дмитриевич": 453,
-      "Заостровский Игорь Игоревич": 22,
-      "Ищенко Евгений Петрович": 484,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 174
+      "gas:candidate-vibid:334300470473": 199,
+      "gas:candidate-vibid:334300470470": 453,
+      "gas:candidate-vibid:334300470463": 22,
+      "gas:candidate-vibid:334300470466": 484,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 165,
-      "Горюнов Владимир Дмитриевич": 513,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 396,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 171
+      "gas:candidate-vibid:334300470473": 165,
+      "gas:candidate-vibid:334300470470": 513,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 396,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 156,
-      "Горюнов Владимир Дмитриевич": 468,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 339,
-      "Косков Алексей Андреевич": 26,
-      "Против всех": 161
+      "gas:candidate-vibid:334300470473": 156,
+      "gas:candidate-vibid:334300470470": 468,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 339,
+      "gas:candidate-vibid:1001000202301": 26,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 161,
-      "Горюнов Владимир Дмитриевич": 418,
-      "Заостровский Игорь Игоревич": 14,
-      "Ищенко Евгений Петрович": 335,
-      "Косков Алексей Андреевич": 43,
-      "Против всех": 127
+      "gas:candidate-vibid:334300470473": 161,
+      "gas:candidate-vibid:334300470470": 418,
+      "gas:candidate-vibid:334300470463": 14,
+      "gas:candidate-vibid:334300470466": 335,
+      "gas:candidate-vibid:1001000202301": 43,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 56,
-      "Горюнов Владимир Дмитриевич": 317,
-      "Заостровский Игорь Игоревич": 7,
-      "Ищенко Евгений Петрович": 231,
-      "Косков Алексей Андреевич": 4,
-      "Против всех": 78
+      "gas:candidate-vibid:334300470473": 56,
+      "gas:candidate-vibid:334300470470": 317,
+      "gas:candidate-vibid:334300470463": 7,
+      "gas:candidate-vibid:334300470466": 231,
+      "gas:candidate-vibid:1001000202301": 4,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470548&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 39,
-      "Горюнов Владимир Дмитриевич": 238,
-      "Заостровский Игорь Игоревич": 7,
-      "Ищенко Евгений Петрович": 134,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 72
+      "gas:candidate-vibid:334300470473": 39,
+      "gas:candidate-vibid:334300470470": 238,
+      "gas:candidate-vibid:334300470463": 7,
+      "gas:candidate-vibid:334300470466": 134,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 129,
-      "Горюнов Владимир Дмитриевич": 478,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 287,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 144
+      "gas:candidate-vibid:334300470473": 129,
+      "gas:candidate-vibid:334300470470": 478,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 287,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 169,
-      "Горюнов Владимир Дмитриевич": 565,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 364,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 196
+      "gas:candidate-vibid:334300470473": 169,
+      "gas:candidate-vibid:334300470470": 565,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 364,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 305,
-      "Горюнов Владимир Дмитриевич": 507,
-      "Заостровский Игорь Игоревич": 27,
-      "Ищенко Евгений Петрович": 470,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 211
+      "gas:candidate-vibid:334300470473": 305,
+      "gas:candidate-vibid:334300470470": 507,
+      "gas:candidate-vibid:334300470463": 27,
+      "gas:candidate-vibid:334300470466": 470,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 185,
-      "Горюнов Владимир Дмитриевич": 428,
-      "Заостровский Игорь Игоревич": 28,
-      "Ищенко Евгений Петрович": 272,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 175
+      "gas:candidate-vibid:334300470473": 185,
+      "gas:candidate-vibid:334300470470": 428,
+      "gas:candidate-vibid:334300470463": 28,
+      "gas:candidate-vibid:334300470466": 272,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 260,
-      "Горюнов Владимир Дмитриевич": 663,
-      "Заостровский Игорь Игоревич": 38,
-      "Ищенко Евгений Петрович": 388,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 222
+      "gas:candidate-vibid:334300470473": 260,
+      "gas:candidate-vibid:334300470470": 663,
+      "gas:candidate-vibid:334300470463": 38,
+      "gas:candidate-vibid:334300470466": 388,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 227,
-      "Горюнов Владимир Дмитриевич": 489,
-      "Заостровский Игорь Игоревич": 26,
-      "Ищенко Евгений Петрович": 302,
-      "Косков Алексей Андреевич": 25,
-      "Против всех": 149
+      "gas:candidate-vibid:334300470473": 227,
+      "gas:candidate-vibid:334300470470": 489,
+      "gas:candidate-vibid:334300470463": 26,
+      "gas:candidate-vibid:334300470466": 302,
+      "gas:candidate-vibid:1001000202301": 25,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 166,
-      "Горюнов Владимир Дмитриевич": 394,
-      "Заостровский Игорь Игоревич": 22,
-      "Ищенко Евгений Петрович": 288,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 176
+      "gas:candidate-vibid:334300470473": 166,
+      "gas:candidate-vibid:334300470470": 394,
+      "gas:candidate-vibid:334300470463": 22,
+      "gas:candidate-vibid:334300470466": 288,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 166,
-      "Горюнов Владимир Дмитриевич": 435,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 293,
-      "Косков Алексей Андреевич": 26,
-      "Против всех": 142
+      "gas:candidate-vibid:334300470473": 166,
+      "gas:candidate-vibid:334300470470": 435,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 293,
+      "gas:candidate-vibid:1001000202301": 26,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 162,
-      "Горюнов Владимир Дмитриевич": 371,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 280,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 154
+      "gas:candidate-vibid:334300470473": 162,
+      "gas:candidate-vibid:334300470470": 371,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 280,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 168,
-      "Горюнов Владимир Дмитриевич": 360,
-      "Заостровский Игорь Игоревич": 25,
-      "Ищенко Евгений Петрович": 214,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 147
+      "gas:candidate-vibid:334300470473": 168,
+      "gas:candidate-vibid:334300470470": 360,
+      "gas:candidate-vibid:334300470463": 25,
+      "gas:candidate-vibid:334300470466": 214,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 155,
-      "Горюнов Владимир Дмитриевич": 405,
-      "Заостровский Игорь Игоревич": 27,
-      "Ищенко Евгений Петрович": 286,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 131
+      "gas:candidate-vibid:334300470473": 155,
+      "gas:candidate-vibid:334300470470": 405,
+      "gas:candidate-vibid:334300470463": 27,
+      "gas:candidate-vibid:334300470466": 286,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 179,
-      "Горюнов Владимир Дмитриевич": 414,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 303,
-      "Косков Алексей Андреевич": 34,
-      "Против всех": 206
+      "gas:candidate-vibid:334300470473": 179,
+      "gas:candidate-vibid:334300470470": 414,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 303,
+      "gas:candidate-vibid:1001000202301": 34,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 212,
-      "Горюнов Владимир Дмитриевич": 430,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 417,
-      "Косков Алексей Андреевич": 22,
-      "Против всех": 197
+      "gas:candidate-vibid:334300470473": 212,
+      "gas:candidate-vibid:334300470470": 430,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 417,
+      "gas:candidate-vibid:1001000202301": 22,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 187,
-      "Горюнов Владимир Дмитриевич": 383,
-      "Заостровский Игорь Игоревич": 23,
-      "Ищенко Евгений Петрович": 275,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 150
+      "gas:candidate-vibid:334300470473": 187,
+      "gas:candidate-vibid:334300470470": 383,
+      "gas:candidate-vibid:334300470463": 23,
+      "gas:candidate-vibid:334300470466": 275,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 236,
-      "Горюнов Владимир Дмитриевич": 407,
-      "Заостровский Игорь Игоревич": 25,
-      "Ищенко Евгений Петрович": 391,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 180
+      "gas:candidate-vibid:334300470473": 236,
+      "gas:candidate-vibid:334300470470": 407,
+      "gas:candidate-vibid:334300470463": 25,
+      "gas:candidate-vibid:334300470466": 391,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 99,
-      "Горюнов Владимир Дмитриевич": 389,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 323,
-      "Косков Алексей Андреевич": 26,
-      "Против всех": 167
+      "gas:candidate-vibid:334300470473": 99,
+      "gas:candidate-vibid:334300470470": 389,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 323,
+      "gas:candidate-vibid:1001000202301": 26,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 121,
-      "Горюнов Владимир Дмитриевич": 415,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 370,
-      "Косков Алексей Андреевич": 33,
-      "Против всех": 269
+      "gas:candidate-vibid:334300470473": 121,
+      "gas:candidate-vibid:334300470470": 415,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 370,
+      "gas:candidate-vibid:1001000202301": 33,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 180,
-      "Горюнов Владимир Дмитриевич": 520,
-      "Заостровский Игорь Игоревич": 30,
-      "Ищенко Евгений Петрович": 383,
-      "Косков Алексей Андреевич": 25,
-      "Против всех": 237
+      "gas:candidate-vibid:334300470473": 180,
+      "gas:candidate-vibid:334300470470": 520,
+      "gas:candidate-vibid:334300470463": 30,
+      "gas:candidate-vibid:334300470466": 383,
+      "gas:candidate-vibid:1001000202301": 25,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 100,
-      "Горюнов Владимир Дмитриевич": 300,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 221,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 109
+      "gas:candidate-vibid:334300470473": 100,
+      "gas:candidate-vibid:334300470470": 300,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 221,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 156,
-      "Горюнов Владимир Дмитриевич": 459,
-      "Заостровский Игорь Игоревич": 26,
-      "Ищенко Евгений Петрович": 372,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 203
+      "gas:candidate-vibid:334300470473": 156,
+      "gas:candidate-vibid:334300470470": 459,
+      "gas:candidate-vibid:334300470463": 26,
+      "gas:candidate-vibid:334300470466": 372,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 229,
-      "Горюнов Владимир Дмитриевич": 507,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 448,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 241
+      "gas:candidate-vibid:334300470473": 229,
+      "gas:candidate-vibid:334300470470": 507,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 448,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 162,
-      "Горюнов Владимир Дмитриевич": 273,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 204,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 173
+      "gas:candidate-vibid:334300470473": 162,
+      "gas:candidate-vibid:334300470470": 273,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 204,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 219,
-      "Горюнов Владимир Дмитриевич": 561,
-      "Заостровский Игорь Игоревич": 37,
-      "Ищенко Евгений Петрович": 366,
-      "Косков Алексей Андреевич": 30,
-      "Против всех": 234
+      "gas:candidate-vibid:334300470473": 219,
+      "gas:candidate-vibid:334300470470": 561,
+      "gas:candidate-vibid:334300470463": 37,
+      "gas:candidate-vibid:334300470466": 366,
+      "gas:candidate-vibid:1001000202301": 30,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 208,
-      "Горюнов Владимир Дмитриевич": 442,
-      "Заостровский Игорь Игоревич": 26,
-      "Ищенко Евгений Петрович": 354,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 200
+      "gas:candidate-vibid:334300470473": 208,
+      "gas:candidate-vibid:334300470470": 442,
+      "gas:candidate-vibid:334300470463": 26,
+      "gas:candidate-vibid:334300470466": 354,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 222,
-      "Горюнов Владимир Дмитриевич": 518,
-      "Заостровский Игорь Игоревич": 28,
-      "Ищенко Евгений Петрович": 403,
-      "Косков Алексей Андреевич": 31,
-      "Против всех": 221
+      "gas:candidate-vibid:334300470473": 222,
+      "gas:candidate-vibid:334300470470": 518,
+      "gas:candidate-vibid:334300470463": 28,
+      "gas:candidate-vibid:334300470466": 403,
+      "gas:candidate-vibid:1001000202301": 31,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 255,
-      "Горюнов Владимир Дмитриевич": 470,
-      "Заостровский Игорь Игоревич": 27,
-      "Ищенко Евгений Петрович": 417,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 249
+      "gas:candidate-vibid:334300470473": 255,
+      "gas:candidate-vibid:334300470470": 470,
+      "gas:candidate-vibid:334300470463": 27,
+      "gas:candidate-vibid:334300470466": 417,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 181,
-      "Горюнов Владимир Дмитриевич": 421,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 325,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 192
+      "gas:candidate-vibid:334300470473": 181,
+      "gas:candidate-vibid:334300470470": 421,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 325,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 152,
-      "Горюнов Владимир Дмитриевич": 252,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 265,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 100
+      "gas:candidate-vibid:334300470473": 152,
+      "gas:candidate-vibid:334300470470": 252,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 265,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 240,
-      "Горюнов Владимир Дмитриевич": 471,
-      "Заостровский Игорь Игоревич": 28,
-      "Ищенко Евгений Петрович": 342,
-      "Косков Алексей Андреевич": 33,
-      "Против всех": 191
+      "gas:candidate-vibid:334300470473": 240,
+      "gas:candidate-vibid:334300470470": 471,
+      "gas:candidate-vibid:334300470463": 28,
+      "gas:candidate-vibid:334300470466": 342,
+      "gas:candidate-vibid:1001000202301": 33,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 173,
-      "Горюнов Владимир Дмитриевич": 412,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 295,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 169
+      "gas:candidate-vibid:334300470473": 173,
+      "gas:candidate-vibid:334300470470": 412,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 295,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 54,
-      "Горюнов Владимир Дмитриевич": 185,
-      "Заостровский Игорь Игоревич": 11,
-      "Ищенко Евгений Петрович": 123,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 107
+      "gas:candidate-vibid:334300470473": 54,
+      "gas:candidate-vibid:334300470470": 185,
+      "gas:candidate-vibid:334300470463": 11,
+      "gas:candidate-vibid:334300470466": 123,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 0,
-      "Горюнов Владимир Дмитриевич": 334,
-      "Заостровский Игорь Игоревич": 2,
-      "Ищенко Евгений Петрович": 27,
-      "Косков Алексей Андреевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:334300470473": 0,
+      "gas:candidate-vibid:334300470470": 334,
+      "gas:candidate-vibid:334300470463": 2,
+      "gas:candidate-vibid:334300470466": 27,
+      "gas:candidate-vibid:1001000202301": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470549&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 131,
-      "Горюнов Владимир Дмитриевич": 343,
-      "Заостровский Игорь Игоревич": 11,
-      "Ищенко Евгений Петрович": 335,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 153
+      "gas:candidate-vibid:334300470473": 131,
+      "gas:candidate-vibid:334300470470": 343,
+      "gas:candidate-vibid:334300470463": 11,
+      "gas:candidate-vibid:334300470466": 335,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 87,
-      "Горюнов Владимир Дмитриевич": 388,
-      "Заостровский Игорь Игоревич": 24,
-      "Ищенко Евгений Петрович": 494,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 266
+      "gas:candidate-vibid:334300470473": 87,
+      "gas:candidate-vibid:334300470470": 388,
+      "gas:candidate-vibid:334300470463": 24,
+      "gas:candidate-vibid:334300470466": 494,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 111,
-      "Горюнов Владимир Дмитриевич": 448,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 344,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 206
+      "gas:candidate-vibid:334300470473": 111,
+      "gas:candidate-vibid:334300470470": 448,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 344,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 187,
-      "Горюнов Владимир Дмитриевич": 553,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 417,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 172
+      "gas:candidate-vibid:334300470473": 187,
+      "gas:candidate-vibid:334300470470": 553,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 417,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 144,
-      "Горюнов Владимир Дмитриевич": 553,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 405,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 173
+      "gas:candidate-vibid:334300470473": 144,
+      "gas:candidate-vibid:334300470470": 553,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 405,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 196,
-      "Горюнов Владимир Дмитриевич": 609,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 462,
-      "Косков Алексей Андреевич": 25,
-      "Против всех": 207
+      "gas:candidate-vibid:334300470473": 196,
+      "gas:candidate-vibid:334300470470": 609,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 462,
+      "gas:candidate-vibid:1001000202301": 25,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 102,
-      "Горюнов Владимир Дмитриевич": 355,
-      "Заостровский Игорь Игоревич": 6,
-      "Ищенко Евгений Петрович": 289,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 119
+      "gas:candidate-vibid:334300470473": 102,
+      "gas:candidate-vibid:334300470470": 355,
+      "gas:candidate-vibid:334300470463": 6,
+      "gas:candidate-vibid:334300470466": 289,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 123,
-      "Горюнов Владимир Дмитриевич": 344,
-      "Заостровский Игорь Игоревич": 7,
-      "Ищенко Евгений Петрович": 298,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 124
+      "gas:candidate-vibid:334300470473": 123,
+      "gas:candidate-vibid:334300470470": 344,
+      "gas:candidate-vibid:334300470463": 7,
+      "gas:candidate-vibid:334300470466": 298,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 125,
-      "Горюнов Владимир Дмитриевич": 506,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 225,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 122
+      "gas:candidate-vibid:334300470473": 125,
+      "gas:candidate-vibid:334300470470": 506,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 225,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 167,
-      "Горюнов Владимир Дмитриевич": 605,
-      "Заостровский Игорь Игоревич": 20,
-      "Ищенко Евгений Петрович": 385,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 169
+      "gas:candidate-vibid:334300470473": 167,
+      "gas:candidate-vibid:334300470470": 605,
+      "gas:candidate-vibid:334300470463": 20,
+      "gas:candidate-vibid:334300470466": 385,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 129,
-      "Горюнов Владимир Дмитриевич": 473,
-      "Заостровский Игорь Игоревич": 24,
-      "Ищенко Евгений Петрович": 372,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 221
+      "gas:candidate-vibid:334300470473": 129,
+      "gas:candidate-vibid:334300470470": 473,
+      "gas:candidate-vibid:334300470463": 24,
+      "gas:candidate-vibid:334300470466": 372,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 125,
-      "Горюнов Владимир Дмитриевич": 542,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 369,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 220
+      "gas:candidate-vibid:334300470473": 125,
+      "gas:candidate-vibid:334300470470": 542,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 369,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 130,
-      "Горюнов Владимир Дмитриевич": 484,
-      "Заостровский Игорь Игоревич": 21,
-      "Ищенко Евгений Петрович": 309,
-      "Косков Алексей Андреевич": 22,
-      "Против всех": 190
+      "gas:candidate-vibid:334300470473": 130,
+      "gas:candidate-vibid:334300470470": 484,
+      "gas:candidate-vibid:334300470463": 21,
+      "gas:candidate-vibid:334300470466": 309,
+      "gas:candidate-vibid:1001000202301": 22,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 152,
-      "Горюнов Владимир Дмитриевич": 579,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 364,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 241
+      "gas:candidate-vibid:334300470473": 152,
+      "gas:candidate-vibid:334300470470": 579,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 364,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 113,
-      "Горюнов Владимир Дмитриевич": 527,
-      "Заостровский Игорь Игоревич": 10,
-      "Ищенко Евгений Петрович": 372,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 258
+      "gas:candidate-vibid:334300470473": 113,
+      "gas:candidate-vibid:334300470470": 527,
+      "gas:candidate-vibid:334300470463": 10,
+      "gas:candidate-vibid:334300470466": 372,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 131,
-      "Горюнов Владимир Дмитриевич": 473,
-      "Заостровский Игорь Игоревич": 28,
-      "Ищенко Евгений Петрович": 329,
-      "Косков Алексей Андреевич": 33,
-      "Против всех": 257
+      "gas:candidate-vibid:334300470473": 131,
+      "gas:candidate-vibid:334300470470": 473,
+      "gas:candidate-vibid:334300470463": 28,
+      "gas:candidate-vibid:334300470466": 329,
+      "gas:candidate-vibid:1001000202301": 33,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 164,
-      "Горюнов Владимир Дмитриевич": 503,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 290,
-      "Косков Алексей Андреевич": 30,
-      "Против всех": 196
+      "gas:candidate-vibid:334300470473": 164,
+      "gas:candidate-vibid:334300470470": 503,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 290,
+      "gas:candidate-vibid:1001000202301": 30,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 127,
-      "Горюнов Владимир Дмитриевич": 386,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 302,
-      "Косков Алексей Андреевич": 12,
-      "Против всех": 142
+      "gas:candidate-vibid:334300470473": 127,
+      "gas:candidate-vibid:334300470470": 386,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 302,
+      "gas:candidate-vibid:1001000202301": 12,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 157,
-      "Горюнов Владимир Дмитриевич": 529,
-      "Заостровский Игорь Игоревич": 23,
-      "Ищенко Евгений Петрович": 411,
-      "Косков Алексей Андреевич": 33,
-      "Против всех": 242
+      "gas:candidate-vibid:334300470473": 157,
+      "gas:candidate-vibid:334300470470": 529,
+      "gas:candidate-vibid:334300470463": 23,
+      "gas:candidate-vibid:334300470466": 411,
+      "gas:candidate-vibid:1001000202301": 33,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 139,
-      "Горюнов Владимир Дмитриевич": 505,
-      "Заостровский Игорь Игоревич": 24,
-      "Ищенко Евгений Петрович": 334,
-      "Косков Алексей Андреевич": 28,
-      "Против всех": 211
+      "gas:candidate-vibid:334300470473": 139,
+      "gas:candidate-vibid:334300470470": 505,
+      "gas:candidate-vibid:334300470463": 24,
+      "gas:candidate-vibid:334300470466": 334,
+      "gas:candidate-vibid:1001000202301": 28,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 166,
-      "Горюнов Владимир Дмитриевич": 617,
-      "Заостровский Игорь Игоревич": 22,
-      "Ищенко Евгений Петрович": 413,
-      "Косков Алексей Андреевич": 24,
-      "Против всех": 231
+      "gas:candidate-vibid:334300470473": 166,
+      "gas:candidate-vibid:334300470470": 617,
+      "gas:candidate-vibid:334300470463": 22,
+      "gas:candidate-vibid:334300470466": 413,
+      "gas:candidate-vibid:1001000202301": 24,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 20
     },
     "votes": {
-      "Голованчиков Александр Борисович": 168,
-      "Горюнов Владимир Дмитриевич": 552,
-      "Заостровский Игорь Игоревич": 18,
-      "Ищенко Евгений Петрович": 360,
-      "Косков Алексей Андреевич": 32,
-      "Против всех": 224
+      "gas:candidate-vibid:334300470473": 168,
+      "gas:candidate-vibid:334300470470": 552,
+      "gas:candidate-vibid:334300470463": 18,
+      "gas:candidate-vibid:334300470466": 360,
+      "gas:candidate-vibid:1001000202301": 32,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 44,
-      "Горюнов Владимир Дмитриевич": 187,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 142,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 72
+      "gas:candidate-vibid:334300470473": 44,
+      "gas:candidate-vibid:334300470470": 187,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 142,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 41,
-      "Горюнов Владимир Дмитриевич": 186,
-      "Заостровский Игорь Игоревич": 6,
-      "Ищенко Евгений Петрович": 136,
-      "Косков Алексей Андреевич": 5,
-      "Против всех": 74
+      "gas:candidate-vibid:334300470473": 41,
+      "gas:candidate-vibid:334300470470": 186,
+      "gas:candidate-vibid:334300470463": 6,
+      "gas:candidate-vibid:334300470466": 136,
+      "gas:candidate-vibid:1001000202301": 5,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 78,
-      "Горюнов Владимир Дмитриевич": 355,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 267,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 119
+      "gas:candidate-vibid:334300470473": 78,
+      "gas:candidate-vibid:334300470470": 355,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 267,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 135,
-      "Горюнов Владимир Дмитриевич": 392,
-      "Заостровский Игорь Игоревич": 6,
-      "Ищенко Евгений Петрович": 406,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 118
+      "gas:candidate-vibid:334300470473": 135,
+      "gas:candidate-vibid:334300470470": 392,
+      "gas:candidate-vibid:334300470463": 6,
+      "gas:candidate-vibid:334300470466": 406,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 116,
-      "Горюнов Владимир Дмитриевич": 353,
-      "Заостровский Игорь Игоревич": 11,
-      "Ищенко Евгений Петрович": 302,
-      "Косков Алексей Андреевич": 19,
-      "Против всех": 118
+      "gas:candidate-vibid:334300470473": 116,
+      "gas:candidate-vibid:334300470470": 353,
+      "gas:candidate-vibid:334300470463": 11,
+      "gas:candidate-vibid:334300470466": 302,
+      "gas:candidate-vibid:1001000202301": 19,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 157,
-      "Горюнов Владимир Дмитриевич": 485,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 419,
-      "Косков Алексей Андреевич": 22,
-      "Против всех": 168
+      "gas:candidate-vibid:334300470473": 157,
+      "gas:candidate-vibid:334300470470": 485,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 419,
+      "gas:candidate-vibid:1001000202301": 22,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 78,
-      "Горюнов Владимир Дмитриевич": 289,
-      "Заостровский Игорь Игоревич": 3,
-      "Ищенко Евгений Петрович": 307,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 125
+      "gas:candidate-vibid:334300470473": 78,
+      "gas:candidate-vibid:334300470470": 289,
+      "gas:candidate-vibid:334300470463": 3,
+      "gas:candidate-vibid:334300470466": 307,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 62,
-      "Горюнов Владимир Дмитриевич": 343,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 300,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 113
+      "gas:candidate-vibid:334300470473": 62,
+      "gas:candidate-vibid:334300470470": 343,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 300,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 150,
-      "Горюнов Владимир Дмитриевич": 501,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 440,
-      "Косков Алексей Андреевич": 13,
-      "Против всех": 208
+      "gas:candidate-vibid:334300470473": 150,
+      "gas:candidate-vibid:334300470470": 501,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 440,
+      "gas:candidate-vibid:1001000202301": 13,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 108,
-      "Горюнов Владимир Дмитриевич": 375,
-      "Заостровский Игорь Игоревич": 14,
-      "Ищенко Евгений Петрович": 365,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 119
+      "gas:candidate-vibid:334300470473": 108,
+      "gas:candidate-vibid:334300470470": 375,
+      "gas:candidate-vibid:334300470463": 14,
+      "gas:candidate-vibid:334300470466": 365,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 171,
-      "Горюнов Владимир Дмитриевич": 477,
-      "Заостровский Игорь Игоревич": 17,
-      "Ищенко Евгений Петрович": 388,
-      "Косков Алексей Андреевич": 17,
-      "Против всех": 150
+      "gas:candidate-vibid:334300470473": 171,
+      "gas:candidate-vibid:334300470470": 477,
+      "gas:candidate-vibid:334300470463": 17,
+      "gas:candidate-vibid:334300470466": 388,
+      "gas:candidate-vibid:1001000202301": 17,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 141,
-      "Горюнов Владимир Дмитриевич": 538,
-      "Заостровский Игорь Игоревич": 16,
-      "Ищенко Евгений Петрович": 364,
-      "Косков Алексей Андреевич": 18,
-      "Против всех": 145
+      "gas:candidate-vibid:334300470473": 141,
+      "gas:candidate-vibid:334300470470": 538,
+      "gas:candidate-vibid:334300470463": 16,
+      "gas:candidate-vibid:334300470466": 364,
+      "gas:candidate-vibid:1001000202301": 18,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 117,
-      "Горюнов Владимир Дмитриевич": 400,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 360,
-      "Косков Алексей Андреевич": 21,
-      "Против всех": 141
+      "gas:candidate-vibid:334300470473": 117,
+      "gas:candidate-vibid:334300470470": 400,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 360,
+      "gas:candidate-vibid:1001000202301": 21,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 97,
-      "Горюнов Владимир Дмитриевич": 320,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 230,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 103
+      "gas:candidate-vibid:334300470473": 97,
+      "gas:candidate-vibid:334300470470": 320,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 230,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 52,
-      "Горюнов Владимир Дмитриевич": 221,
-      "Заостровский Игорь Игоревич": 9,
-      "Ищенко Евгений Петрович": 151,
-      "Косков Алексей Андреевич": 11,
-      "Против всех": 53
+      "gas:candidate-vibid:334300470473": 52,
+      "gas:candidate-vibid:334300470470": 221,
+      "gas:candidate-vibid:334300470463": 9,
+      "gas:candidate-vibid:334300470466": 151,
+      "gas:candidate-vibid:1001000202301": 11,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 97,
-      "Горюнов Владимир Дмитриевич": 348,
-      "Заостровский Игорь Игоревич": 10,
-      "Ищенко Евгений Петрович": 288,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 122
+      "gas:candidate-vibid:334300470473": 97,
+      "gas:candidate-vibid:334300470470": 348,
+      "gas:candidate-vibid:334300470463": 10,
+      "gas:candidate-vibid:334300470466": 288,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 84,
-      "Горюнов Владимир Дмитриевич": 400,
-      "Заостровский Игорь Игоревич": 11,
-      "Ищенко Евгений Петрович": 297,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 163
+      "gas:candidate-vibid:334300470473": 84,
+      "gas:candidate-vibid:334300470470": 400,
+      "gas:candidate-vibid:334300470463": 11,
+      "gas:candidate-vibid:334300470466": 297,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 70,
-      "Горюнов Владимир Дмитриевич": 336,
-      "Заостровский Игорь Игоревич": 19,
-      "Ищенко Евгений Петрович": 282,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 92
+      "gas:candidate-vibid:334300470473": 70,
+      "gas:candidate-vibid:334300470470": 336,
+      "gas:candidate-vibid:334300470463": 19,
+      "gas:candidate-vibid:334300470466": 282,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 100,
-      "Горюнов Владимир Дмитриевич": 361,
-      "Заостровский Игорь Игоревич": 10,
-      "Ищенко Евгений Петрович": 273,
-      "Косков Алексей Андреевич": 22,
-      "Против всех": 135
+      "gas:candidate-vibid:334300470473": 100,
+      "gas:candidate-vibid:334300470470": 361,
+      "gas:candidate-vibid:334300470463": 10,
+      "gas:candidate-vibid:334300470466": 273,
+      "gas:candidate-vibid:1001000202301": 22,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 75,
-      "Горюнов Владимир Дмитриевич": 264,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 233,
-      "Косков Алексей Андреевич": 16,
-      "Против всех": 83
+      "gas:candidate-vibid:334300470473": 75,
+      "gas:candidate-vibid:334300470470": 264,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 233,
+      "gas:candidate-vibid:1001000202301": 16,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 75,
-      "Горюнов Владимир Дмитриевич": 221,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 178,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 92
+      "gas:candidate-vibid:334300470473": 75,
+      "gas:candidate-vibid:334300470470": 221,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 178,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 66,
-      "Горюнов Владимир Дмитриевич": 250,
-      "Заостровский Игорь Игоревич": 4,
-      "Ищенко Евгений Петрович": 242,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 138
+      "gas:candidate-vibid:334300470473": 66,
+      "gas:candidate-vibid:334300470470": 250,
+      "gas:candidate-vibid:334300470463": 4,
+      "gas:candidate-vibid:334300470466": 242,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 128,
-      "Горюнов Владимир Дмитриевич": 269,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 263,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 97
+      "gas:candidate-vibid:334300470473": 128,
+      "gas:candidate-vibid:334300470470": 269,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 263,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 113,
-      "Горюнов Владимир Дмитриевич": 351,
-      "Заостровский Игорь Игоревич": 8,
-      "Ищенко Евгений Петрович": 328,
-      "Косков Алексей Андреевич": 23,
-      "Против всех": 119
+      "gas:candidate-vibid:334300470473": 113,
+      "gas:candidate-vibid:334300470470": 351,
+      "gas:candidate-vibid:334300470463": 8,
+      "gas:candidate-vibid:334300470466": 328,
+      "gas:candidate-vibid:1001000202301": 23,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 97,
-      "Горюнов Владимир Дмитриевич": 346,
-      "Заостровский Игорь Игоревич": 13,
-      "Ищенко Евгений Петрович": 359,
-      "Косков Алексей Андреевич": 20,
-      "Против всех": 157
+      "gas:candidate-vibid:334300470473": 97,
+      "gas:candidate-vibid:334300470470": 346,
+      "gas:candidate-vibid:334300470463": 13,
+      "gas:candidate-vibid:334300470466": 359,
+      "gas:candidate-vibid:1001000202301": 20,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 144,
-      "Горюнов Владимир Дмитриевич": 309,
-      "Заостровский Игорь Игоревич": 12,
-      "Ищенко Евгений Петрович": 190,
-      "Косков Алексей Андреевич": 8,
-      "Против всех": 96
+      "gas:candidate-vibid:334300470473": 144,
+      "gas:candidate-vibid:334300470470": 309,
+      "gas:candidate-vibid:334300470463": 12,
+      "gas:candidate-vibid:334300470466": 190,
+      "gas:candidate-vibid:1001000202301": 8,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 105,
-      "Горюнов Владимир Дмитриевич": 308,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 187,
-      "Косков Алексей Андреевич": 15,
-      "Против всех": 109
+      "gas:candidate-vibid:334300470473": 105,
+      "gas:candidate-vibid:334300470470": 308,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 187,
+      "gas:candidate-vibid:1001000202301": 15,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 37,
-      "Горюнов Владимир Дмитриевич": 108,
-      "Заостровский Игорь Игоревич": 7,
-      "Ищенко Евгений Петрович": 120,
-      "Косков Алексей Андреевич": 0,
-      "Против всех": 56
+      "gas:candidate-vibid:334300470473": 37,
+      "gas:candidate-vibid:334300470470": 108,
+      "gas:candidate-vibid:334300470463": 7,
+      "gas:candidate-vibid:334300470466": 120,
+      "gas:candidate-vibid:1001000202301": 0,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 80,
-      "Горюнов Владимир Дмитриевич": 320,
-      "Заостровский Игорь Игоревич": 15,
-      "Ищенко Евгений Петрович": 220,
-      "Косков Алексей Андреевич": 14,
-      "Против всех": 133
+      "gas:candidate-vibid:334300470473": 80,
+      "gas:candidate-vibid:334300470470": 320,
+      "gas:candidate-vibid:334300470463": 15,
+      "gas:candidate-vibid:334300470466": 220,
+      "gas:candidate-vibid:1001000202301": 14,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_34_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Голованчиков Александр Борисович": 59,
-      "Горюнов Владимир Дмитриевич": 248,
-      "Заостровский Игорь Игоревич": 6,
-      "Ищенко Евгений Петрович": 190,
-      "Косков Алексей Андреевич": 10,
-      "Против всех": 118
+      "gas:candidate-vibid:334300470473": 59,
+      "gas:candidate-vibid:334300470470": 248,
+      "gas:candidate-vibid:334300470463": 6,
+      "gas:candidate-vibid:334300470466": 190,
+      "gas:candidate-vibid:1001000202301": 10,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300470550&region=0&sub_region=0&type=429",

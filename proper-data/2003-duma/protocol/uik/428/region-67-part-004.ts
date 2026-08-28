@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 199,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 42,
-      "Коржова Светлана Михайловна": 30,
-      "Лукьянов Анатолий Иванович": 26,
-      "Маслаков Сергей Васильевич": 46,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 8,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225991": 199,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 42,
+      "gas:candidate-vibid:1001000136128": 30,
+      "gas:candidate-vibid:1001000121915": 26,
+      "gas:candidate-vibid:267200070875": 46,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 8,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 35,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 40,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 16,
-      "Маслаков Сергей Васильевич": 26,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 35,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 40,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 16,
+      "gas:candidate-vibid:267200070875": 26,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 199,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 72,
-      "Коржова Светлана Михайловна": 16,
-      "Лукьянов Анатолий Иванович": 24,
-      "Маслаков Сергей Васильевич": 25,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225991": 199,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 72,
+      "gas:candidate-vibid:1001000136128": 16,
+      "gas:candidate-vibid:1001000121915": 24,
+      "gas:candidate-vibid:267200070875": 25,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 208,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 50,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 46,
-      "Маслаков Сергей Васильевич": 33,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225991": 208,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 50,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 46,
+      "gas:candidate-vibid:267200070875": 33,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 222,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 56,
-      "Маслаков Сергей Васильевич": 15,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225991": 222,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 56,
+      "gas:candidate-vibid:267200070875": 15,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 33,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 17,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 26,
-      "Маслаков Сергей Васильевич": 19,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 33,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 17,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 26,
+      "gas:candidate-vibid:267200070875": 19,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 181,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 26,
-      "Коржова Светлана Михайловна": 24,
-      "Лукьянов Анатолий Иванович": 77,
-      "Маслаков Сергей Васильевич": 29,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225991": 181,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 26,
+      "gas:candidate-vibid:1001000136128": 24,
+      "gas:candidate-vibid:1001000121915": 77,
+      "gas:candidate-vibid:267200070875": 29,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 239,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 37,
-      "Коржова Светлана Михайловна": 17,
-      "Лукьянов Анатолий Иванович": 45,
-      "Маслаков Сергей Васильевич": 30,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225991": 239,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 37,
+      "gas:candidate-vibid:1001000136128": 17,
+      "gas:candidate-vibid:1001000121915": 45,
+      "gas:candidate-vibid:267200070875": 30,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 175,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 33,
-      "Коржова Светлана Михайловна": 35,
-      "Лукьянов Анатолий Иванович": 35,
-      "Маслаков Сергей Васильевич": 29,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225991": 175,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 33,
+      "gas:candidate-vibid:1001000136128": 35,
+      "gas:candidate-vibid:1001000121915": 35,
+      "gas:candidate-vibid:267200070875": 29,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 87,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 25,
-      "Коржова Светлана Михайловна": 3,
-      "Лукьянов Анатолий Иванович": 14,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 87,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 25,
+      "gas:candidate-vibid:1001000136128": 3,
+      "gas:candidate-vibid:1001000121915": 14,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 87,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 13,
-      "Коржова Светлана Михайловна": 2,
-      "Лукьянов Анатолий Иванович": 13,
-      "Маслаков Сергей Васильевич": 4,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 87,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 13,
+      "gas:candidate-vibid:1001000136128": 2,
+      "gas:candidate-vibid:1001000121915": 13,
+      "gas:candidate-vibid:267200070875": 4,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 218,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 87,
-      "Коржова Светлана Михайловна": 28,
-      "Лукьянов Анатолий Иванович": 64,
-      "Маслаков Сергей Васильевич": 52,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225991": 218,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 87,
+      "gas:candidate-vibid:1001000136128": 28,
+      "gas:candidate-vibid:1001000121915": 64,
+      "gas:candidate-vibid:267200070875": 52,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 179,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 105,
-      "Коржова Светлана Михайловна": 31,
-      "Лукьянов Анатолий Иванович": 44,
-      "Маслаков Сергей Васильевич": 57,
-      "Парфенов Борис Иванович": 6,
-      "Фомченков Сергей Александрович": 5,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225991": 179,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 105,
+      "gas:candidate-vibid:1001000136128": 31,
+      "gas:candidate-vibid:1001000121915": 44,
+      "gas:candidate-vibid:267200070875": 57,
+      "gas:candidate-vibid:1001000112259": 6,
+      "gas:candidate-vibid:267200071845": 5,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 82,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 25,
-      "Коржова Светлана Михайловна": 3,
-      "Лукьянов Анатолий Иванович": 31,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225991": 82,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 25,
+      "gas:candidate-vibid:1001000136128": 3,
+      "gas:candidate-vibid:1001000121915": 31,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 134,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 12,
-      "Коржова Светлана Михайловна": 3,
-      "Лукьянов Анатолий Иванович": 13,
-      "Маслаков Сергей Васильевич": 11,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 134,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 12,
+      "gas:candidate-vibid:1001000136128": 3,
+      "gas:candidate-vibid:1001000121915": 13,
+      "gas:candidate-vibid:267200070875": 11,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 92,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 15,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 8,
-      "Маслаков Сергей Васильевич": 2,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 92,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 15,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 8,
+      "gas:candidate-vibid:267200070875": 2,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 140,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 31,
-      "Коржова Светлана Михайловна": 19,
-      "Лукьянов Анатолий Иванович": 14,
-      "Маслаков Сергей Васильевич": 15,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225991": 140,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 31,
+      "gas:candidate-vibid:1001000136128": 19,
+      "gas:candidate-vibid:1001000121915": 14,
+      "gas:candidate-vibid:267200070875": 15,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 42,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 34,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 11,
-      "Маслаков Сергей Васильевич": 11,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 42,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 34,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 11,
+      "gas:candidate-vibid:267200070875": 11,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 489,
-      "Григорьев Михаил Михайлович": 9,
-      "Игнатенков Александр Сергеевич": 76,
-      "Коржова Светлана Михайловна": 34,
-      "Лукьянов Анатолий Иванович": 37,
-      "Маслаков Сергей Васильевич": 48,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 7,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225991": 489,
+      "gas:candidate-vibid:1001000195146": 9,
+      "gas:candidate-vibid:1001000217956": 76,
+      "gas:candidate-vibid:1001000136128": 34,
+      "gas:candidate-vibid:1001000121915": 37,
+      "gas:candidate-vibid:267200070875": 48,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 7,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 139,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 56,
-      "Коржова Светлана Михайловна": 23,
-      "Лукьянов Анатолий Иванович": 52,
-      "Маслаков Сергей Васильевич": 51,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225991": 139,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 56,
+      "gas:candidate-vibid:1001000136128": 23,
+      "gas:candidate-vibid:1001000121915": 52,
+      "gas:candidate-vibid:267200070875": 51,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 61,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 230,
-      "Коржова Светлана Михайловна": 20,
-      "Лукьянов Анатолий Иванович": 26,
-      "Маслаков Сергей Васильевич": 30,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000225991": 61,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 230,
+      "gas:candidate-vibid:1001000136128": 20,
+      "gas:candidate-vibid:1001000121915": 26,
+      "gas:candidate-vibid:267200070875": 30,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 81,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 39,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 15,
-      "Маслаков Сергей Васильевич": 22,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 81,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 39,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 15,
+      "gas:candidate-vibid:267200070875": 22,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 142,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 35,
-      "Коржова Светлана Михайловна": 22,
-      "Лукьянов Анатолий Иванович": 38,
-      "Маслаков Сергей Васильевич": 18,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 142,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 35,
+      "gas:candidate-vibid:1001000136128": 22,
+      "gas:candidate-vibid:1001000121915": 38,
+      "gas:candidate-vibid:267200070875": 18,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 69,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 26,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 29,
-      "Маслаков Сергей Васильевич": 8,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225991": 69,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 26,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 29,
+      "gas:candidate-vibid:267200070875": 8,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 44,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 54,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 26,
-      "Маслаков Сергей Васильевич": 26,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 44,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 54,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 26,
+      "gas:candidate-vibid:267200070875": 26,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 80,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 32,
-      "Коржова Светлана Михайловна": 2,
-      "Лукьянов Анатолий Иванович": 20,
-      "Маслаков Сергей Васильевич": 4,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225991": 80,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 32,
+      "gas:candidate-vibid:1001000136128": 2,
+      "gas:candidate-vibid:1001000121915": 20,
+      "gas:candidate-vibid:267200070875": 4,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 181,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 37,
-      "Коржова Светлана Михайловна": 24,
-      "Лукьянов Анатолий Иванович": 35,
-      "Маслаков Сергей Васильевич": 29,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225991": 181,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 37,
+      "gas:candidate-vibid:1001000136128": 24,
+      "gas:candidate-vibid:1001000121915": 35,
+      "gas:candidate-vibid:267200070875": 29,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 205,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 32,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 13,
-      "Маслаков Сергей Васильевич": 16,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 205,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 32,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 13,
+      "gas:candidate-vibid:267200070875": 16,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 164,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 24,
-      "Коржова Светлана Михайловна": 3,
-      "Лукьянов Анатолий Иванович": 15,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225991": 164,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 24,
+      "gas:candidate-vibid:1001000136128": 3,
+      "gas:candidate-vibid:1001000121915": 15,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 50,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 45,
-      "Коржова Светлана Михайловна": 9,
-      "Лукьянов Анатолий Иванович": 2,
-      "Маслаков Сергей Васильевич": 5,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225991": 50,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 45,
+      "gas:candidate-vibid:1001000136128": 9,
+      "gas:candidate-vibid:1001000121915": 2,
+      "gas:candidate-vibid:267200070875": 5,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 70,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 23,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 16,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 9,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 70,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 23,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 16,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 9,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 130,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 73,
-      "Коржова Светлана Михайловна": 16,
-      "Лукьянов Анатолий Иванович": 36,
-      "Маслаков Сергей Васильевич": 14,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 130,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 73,
+      "gas:candidate-vibid:1001000136128": 16,
+      "gas:candidate-vibid:1001000121915": 36,
+      "gas:candidate-vibid:267200070875": 14,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 73,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 21,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 28,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225991": 73,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 21,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 28,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 40,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 66,
-      "Коржова Светлана Михайловна": 15,
-      "Лукьянов Анатолий Иванович": 22,
-      "Маслаков Сергей Васильевич": 4,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225991": 40,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 66,
+      "gas:candidate-vibid:1001000136128": 15,
+      "gas:candidate-vibid:1001000121915": 22,
+      "gas:candidate-vibid:267200070875": 4,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 473,
-      "Григорьев Михаил Михайлович": 10,
-      "Игнатенков Александр Сергеевич": 357,
-      "Коржова Светлана Михайловна": 100,
-      "Лукьянов Анатолий Иванович": 171,
-      "Маслаков Сергей Васильевич": 92,
-      "Парфенов Борис Иванович": 14,
-      "Фомченков Сергей Александрович": 7,
-      "Юхименко Игорь Андреевич": 11,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000225991": 473,
+      "gas:candidate-vibid:1001000195146": 10,
+      "gas:candidate-vibid:1001000217956": 357,
+      "gas:candidate-vibid:1001000136128": 100,
+      "gas:candidate-vibid:1001000121915": 171,
+      "gas:candidate-vibid:267200070875": 92,
+      "gas:candidate-vibid:1001000112259": 14,
+      "gas:candidate-vibid:267200071845": 7,
+      "gas:candidate-vibid:1001000113984": 11,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 220,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 118,
-      "Коржова Светлана Михайловна": 28,
-      "Лукьянов Анатолий Иванович": 56,
-      "Маслаков Сергей Васильевич": 47,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225991": 220,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 118,
+      "gas:candidate-vibid:1001000136128": 28,
+      "gas:candidate-vibid:1001000121915": 56,
+      "gas:candidate-vibid:267200070875": 47,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 25,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 41,
-      "Коржова Светлана Михайловна": 4,
-      "Лукьянов Анатолий Иванович": 12,
-      "Маслаков Сергей Васильевич": 6,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 25,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 41,
+      "gas:candidate-vibid:1001000136128": 4,
+      "gas:candidate-vibid:1001000121915": 12,
+      "gas:candidate-vibid:267200070875": 6,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 355,
-      "Григорьев Михаил Михайлович": 17,
-      "Игнатенков Александр Сергеевич": 229,
-      "Коржова Светлана Михайловна": 195,
-      "Лукьянов Анатолий Иванович": 151,
-      "Маслаков Сергей Васильевич": 328,
-      "Парфенов Борис Иванович": 30,
-      "Фомченков Сергей Александрович": 10,
-      "Юхименко Игорь Андреевич": 14,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000225991": 355,
+      "gas:candidate-vibid:1001000195146": 17,
+      "gas:candidate-vibid:1001000217956": 229,
+      "gas:candidate-vibid:1001000136128": 195,
+      "gas:candidate-vibid:1001000121915": 151,
+      "gas:candidate-vibid:267200070875": 328,
+      "gas:candidate-vibid:1001000112259": 30,
+      "gas:candidate-vibid:267200071845": 10,
+      "gas:candidate-vibid:1001000113984": 14,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000056&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071407&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 477,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 50,
-      "Коржова Светлана Михайловна": 88,
-      "Лукьянов Анатолий Иванович": 153,
-      "Маслаков Сергей Васильевич": 119,
-      "Парфенов Борис Иванович": 37,
-      "Фомченков Сергей Александрович": 7,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000225991": 477,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 50,
+      "gas:candidate-vibid:1001000136128": 88,
+      "gas:candidate-vibid:1001000121915": 153,
+      "gas:candidate-vibid:267200070875": 119,
+      "gas:candidate-vibid:1001000112259": 37,
+      "gas:candidate-vibid:267200071845": 7,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 427,
-      "Григорьев Михаил Михайлович": 6,
-      "Игнатенков Александр Сергеевич": 58,
-      "Коржова Светлана Михайловна": 84,
-      "Лукьянов Анатолий Иванович": 145,
-      "Маслаков Сергей Васильевич": 115,
-      "Парфенов Борис Иванович": 16,
-      "Фомченков Сергей Александрович": 4,
-      "Юхименко Игорь Андреевич": 17,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000225991": 427,
+      "gas:candidate-vibid:1001000195146": 6,
+      "gas:candidate-vibid:1001000217956": 58,
+      "gas:candidate-vibid:1001000136128": 84,
+      "gas:candidate-vibid:1001000121915": 145,
+      "gas:candidate-vibid:267200070875": 115,
+      "gas:candidate-vibid:1001000112259": 16,
+      "gas:candidate-vibid:267200071845": 4,
+      "gas:candidate-vibid:1001000113984": 17,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 166,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 24,
-      "Маслаков Сергей Васильевич": 24,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225991": 166,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 24,
+      "gas:candidate-vibid:267200070875": 24,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 89,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 45,
-      "Коржова Светлана Михайловна": 4,
-      "Лукьянов Анатолий Иванович": 15,
-      "Маслаков Сергей Васильевич": 11,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225991": 89,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 45,
+      "gas:candidate-vibid:1001000136128": 4,
+      "gas:candidate-vibid:1001000121915": 15,
+      "gas:candidate-vibid:267200070875": 11,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 42,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 7,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 17,
-      "Маслаков Сергей Васильевич": 5,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 42,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 7,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 17,
+      "gas:candidate-vibid:267200070875": 5,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 99,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 24,
-      "Коржова Светлана Михайловна": 28,
-      "Лукьянов Анатолий Иванович": 22,
-      "Маслаков Сергей Васильевич": 18,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 99,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 24,
+      "gas:candidate-vibid:1001000136128": 28,
+      "gas:candidate-vibid:1001000121915": 22,
+      "gas:candidate-vibid:267200070875": 18,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 125,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 7,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 13,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 125,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 7,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 13,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 93,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 2,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 20,
-      "Маслаков Сергей Васильевич": 16,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225991": 93,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 2,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 20,
+      "gas:candidate-vibid:267200070875": 16,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 166,
-      "Григорьев Михаил Михайлович": 7,
-      "Игнатенков Александр Сергеевич": 13,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 6,
-      "Маслаков Сергей Васильевич": 14,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 166,
+      "gas:candidate-vibid:1001000195146": 7,
+      "gas:candidate-vibid:1001000217956": 13,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 6,
+      "gas:candidate-vibid:267200070875": 14,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 176,
-      "Григорьев Михаил Михайлович": 9,
-      "Игнатенков Александр Сергеевич": 17,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 57,
-      "Маслаков Сергей Васильевич": 49,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 176,
+      "gas:candidate-vibid:1001000195146": 9,
+      "gas:candidate-vibid:1001000217956": 17,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 57,
+      "gas:candidate-vibid:267200070875": 49,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 46,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 3,
-      "Лукьянов Анатолий Иванович": 6,
-      "Маслаков Сергей Васильевич": 14,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225991": 46,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 3,
+      "gas:candidate-vibid:1001000121915": 6,
+      "gas:candidate-vibid:267200070875": 14,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 98,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 7,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 9,
-      "Маслаков Сергей Васильевич": 7,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 98,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 7,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 9,
+      "gas:candidate-vibid:267200070875": 7,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 190,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 18,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 23,
-      "Маслаков Сергей Васильевич": 2,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225991": 190,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 18,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 23,
+      "gas:candidate-vibid:267200070875": 2,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 171,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 15,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 23,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225991": 171,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 15,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 23,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 263,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 23,
-      "Маслаков Сергей Васильевич": 13,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225991": 263,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 23,
+      "gas:candidate-vibid:267200070875": 13,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 115,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 27,
-      "Маслаков Сергей Васильевич": 2,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 115,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 27,
+      "gas:candidate-vibid:267200070875": 2,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 115,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 9,
-      "Коржова Светлана Михайловна": 12,
-      "Лукьянов Анатолий Иванович": 26,
-      "Маслаков Сергей Васильевич": 7,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 115,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 9,
+      "gas:candidate-vibid:1001000136128": 12,
+      "gas:candidate-vibid:1001000121915": 26,
+      "gas:candidate-vibid:267200070875": 7,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 292,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 21,
-      "Лукьянов Анатолий Иванович": 22,
-      "Маслаков Сергей Васильевич": 21,
-      "Парфенов Борис Иванович": 9,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 292,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 21,
+      "gas:candidate-vibid:1001000121915": 22,
+      "gas:candidate-vibid:267200070875": 21,
+      "gas:candidate-vibid:1001000112259": 9,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 262,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 77,
-      "Коржова Светлана Михайловна": 91,
-      "Лукьянов Анатолий Иванович": 181,
-      "Маслаков Сергей Васильевич": 152,
-      "Парфенов Борис Иванович": 21,
-      "Фомченков Сергей Александрович": 6,
-      "Юхименко Игорь Андреевич": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000225991": 262,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 77,
+      "gas:candidate-vibid:1001000136128": 91,
+      "gas:candidate-vibid:1001000121915": 181,
+      "gas:candidate-vibid:267200070875": 152,
+      "gas:candidate-vibid:1001000112259": 21,
+      "gas:candidate-vibid:267200071845": 6,
+      "gas:candidate-vibid:1001000113984": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000057&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071408&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 295,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 55,
-      "Коржова Светлана Михайловна": 46,
-      "Лукьянов Анатолий Иванович": 92,
-      "Маслаков Сергей Васильевич": 93,
-      "Парфенов Борис Иванович": 22,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 7,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225991": 295,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 55,
+      "gas:candidate-vibid:1001000136128": 46,
+      "gas:candidate-vibid:1001000121915": 92,
+      "gas:candidate-vibid:267200070875": 93,
+      "gas:candidate-vibid:1001000112259": 22,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 7,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 92,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 22,
-      "Лукьянов Анатолий Иванович": 20,
-      "Маслаков Сергей Васильевич": 39,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225991": 92,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 22,
+      "gas:candidate-vibid:1001000121915": 20,
+      "gas:candidate-vibid:267200070875": 39,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 340,
-      "Григорьев Михаил Михайлович": 9,
-      "Игнатенков Александр Сергеевич": 42,
-      "Коржова Светлана Михайловна": 74,
-      "Лукьянов Анатолий Иванович": 102,
-      "Маслаков Сергей Васильевич": 116,
-      "Парфенов Борис Иванович": 20,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 8,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225991": 340,
+      "gas:candidate-vibid:1001000195146": 9,
+      "gas:candidate-vibid:1001000217956": 42,
+      "gas:candidate-vibid:1001000136128": 74,
+      "gas:candidate-vibid:1001000121915": 102,
+      "gas:candidate-vibid:267200070875": 116,
+      "gas:candidate-vibid:1001000112259": 20,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 8,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 131,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 17,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 42,
-      "Маслаков Сергей Васильевич": 26,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 4,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 131,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 17,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 42,
+      "gas:candidate-vibid:267200070875": 26,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 4,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 62,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 12,
-      "Коржова Светлана Михайловна": 17,
-      "Лукьянов Анатолий Иванович": 20,
-      "Маслаков Сергей Васильевич": 22,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225991": 62,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 12,
+      "gas:candidate-vibid:1001000136128": 17,
+      "gas:candidate-vibid:1001000121915": 20,
+      "gas:candidate-vibid:267200070875": 22,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 44,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 18,
-      "Лукьянов Анатолий Иванович": 14,
-      "Маслаков Сергей Васильевич": 18,
-      "Парфенов Борис Иванович": 7,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225991": 44,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 18,
+      "gas:candidate-vibid:1001000121915": 14,
+      "gas:candidate-vibid:267200070875": 18,
+      "gas:candidate-vibid:1001000112259": 7,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 142,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 28,
-      "Коржова Светлана Михайловна": 30,
-      "Лукьянов Анатолий Иванович": 27,
-      "Маслаков Сергей Васильевич": 24,
-      "Парфенов Борис Иванович": 10,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225991": 142,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 28,
+      "gas:candidate-vibid:1001000136128": 30,
+      "gas:candidate-vibid:1001000121915": 27,
+      "gas:candidate-vibid:267200070875": 24,
+      "gas:candidate-vibid:1001000112259": 10,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 51,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 14,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 12,
-      "Маслаков Сергей Васильевич": 7,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225991": 51,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 14,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 12,
+      "gas:candidate-vibid:267200070875": 7,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 90,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 28,
-      "Коржова Светлана Михайловна": 28,
-      "Лукьянов Анатолий Иванович": 16,
-      "Маслаков Сергей Васильевич": 17,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 90,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 28,
+      "gas:candidate-vibid:1001000136128": 28,
+      "gas:candidate-vibid:1001000121915": 16,
+      "gas:candidate-vibid:267200070875": 17,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 86,
-      "Григорьев Михаил Михайлович": 6,
-      "Игнатенков Александр Сергеевич": 79,
-      "Коржова Светлана Михайловна": 20,
-      "Лукьянов Анатолий Иванович": 25,
-      "Маслаков Сергей Васильевич": 23,
-      "Парфенов Борис Иванович": 11,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 86,
+      "gas:candidate-vibid:1001000195146": 6,
+      "gas:candidate-vibid:1001000217956": 79,
+      "gas:candidate-vibid:1001000136128": 20,
+      "gas:candidate-vibid:1001000121915": 25,
+      "gas:candidate-vibid:267200070875": 23,
+      "gas:candidate-vibid:1001000112259": 11,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 86,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 10,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 36,
-      "Маслаков Сергей Васильевич": 17,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 86,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 10,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 36,
+      "gas:candidate-vibid:267200070875": 17,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 45,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 27,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 27,
-      "Маслаков Сергей Васильевич": 13,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225991": 45,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 27,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 27,
+      "gas:candidate-vibid:267200070875": 13,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 138,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 31,
-      "Коржова Светлана Михайловна": 18,
-      "Лукьянов Анатолий Иванович": 30,
-      "Маслаков Сергей Васильевич": 46,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225991": 138,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 31,
+      "gas:candidate-vibid:1001000136128": 18,
+      "gas:candidate-vibid:1001000121915": 30,
+      "gas:candidate-vibid:267200070875": 46,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 61,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 4,
-      "Коржова Светлана Михайловна": 4,
-      "Лукьянов Анатолий Иванович": 11,
-      "Маслаков Сергей Васильевич": 8,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225991": 61,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 4,
+      "gas:candidate-vibid:1001000136128": 4,
+      "gas:candidate-vibid:1001000121915": 11,
+      "gas:candidate-vibid:267200070875": 8,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 93,
-      "Григорьев Михаил Михайлович": 6,
-      "Игнатенков Александр Сергеевич": 16,
-      "Коржова Светлана Михайловна": 21,
-      "Лукьянов Анатолий Иванович": 72,
-      "Маслаков Сергей Васильевич": 28,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225991": 93,
+      "gas:candidate-vibid:1001000195146": 6,
+      "gas:candidate-vibid:1001000217956": 16,
+      "gas:candidate-vibid:1001000136128": 21,
+      "gas:candidate-vibid:1001000121915": 72,
+      "gas:candidate-vibid:267200070875": 28,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 73,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 21,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 36,
-      "Маслаков Сергей Васильевич": 25,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225991": 73,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 21,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 36,
+      "gas:candidate-vibid:267200070875": 25,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 72,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 25,
-      "Маслаков Сергей Васильевич": 20,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 72,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 25,
+      "gas:candidate-vibid:267200070875": 20,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 101,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 26,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 30,
-      "Маслаков Сергей Васильевич": 14,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 101,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 26,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 30,
+      "gas:candidate-vibid:267200070875": 14,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 89,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 18,
-      "Коржова Светлана Михайловна": 12,
-      "Лукьянов Анатолий Иванович": 45,
-      "Маслаков Сергей Васильевич": 21,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225991": 89,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 18,
+      "gas:candidate-vibid:1001000136128": 12,
+      "gas:candidate-vibid:1001000121915": 45,
+      "gas:candidate-vibid:267200070875": 21,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 63,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 25,
-      "Маслаков Сергей Васильевич": 11,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 63,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 25,
+      "gas:candidate-vibid:267200070875": 11,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 77,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 2,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 29,
-      "Маслаков Сергей Васильевич": 29,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 77,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 2,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 29,
+      "gas:candidate-vibid:267200070875": 29,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 113,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 29,
-      "Коржова Светлана Михайловна": 13,
-      "Лукьянов Анатолий Иванович": 37,
-      "Маслаков Сергей Васильевич": 57,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 4,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 113,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 29,
+      "gas:candidate-vibid:1001000136128": 13,
+      "gas:candidate-vibid:1001000121915": 37,
+      "gas:candidate-vibid:267200070875": 57,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 4,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_67_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 110,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 38,
-      "Коржова Светлана Михайловна": 17,
-      "Лукьянов Анатолий Иванович": 49,
-      "Маслаков Сергей Васильевич": 43,
-      "Парфенов Борис Иванович": 6,
-      "Фомченков Сергей Александрович": 5,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225991": 110,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 38,
+      "gas:candidate-vibid:1001000136128": 17,
+      "gas:candidate-vibid:1001000121915": 49,
+      "gas:candidate-vibid:267200070875": 43,
+      "gas:candidate-vibid:1001000112259": 6,
+      "gas:candidate-vibid:267200071845": 5,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000058&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071409&region=0&sub_region=0&type=429",

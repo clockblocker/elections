@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 248,
-      "Гольцев Евгений Михайлович": 73,
-      "Смоляков Сергей Аркадьевич": 34,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 689,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000113981": 248,
+      "gas:candidate-vibid:1001000136123": 73,
+      "gas:candidate-vibid:366300366843": 34,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 689,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 131,
-      "Гольцев Евгений Михайлович": 33,
-      "Смоляков Сергей Аркадьевич": 21,
-      "Тарасов Александр Леонидович": 34,
-      "Язев Валерий Афонасьевич": 470,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113981": 131,
+      "gas:candidate-vibid:1001000136123": 33,
+      "gas:candidate-vibid:366300366843": 21,
+      "gas:candidate-vibid:1001000195143": 34,
+      "gas:candidate-vibid:1001000225988": 470,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 159,
-      "Гольцев Евгений Михайлович": 66,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 15,
-      "Язев Валерий Афонасьевич": 639,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000113981": 159,
+      "gas:candidate-vibid:1001000136123": 66,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 15,
+      "gas:candidate-vibid:1001000225988": 639,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 120,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 553,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000113981": 120,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 553,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 142,
-      "Гольцев Евгений Михайлович": 59,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 492,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000113981": 142,
+      "gas:candidate-vibid:1001000136123": 59,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 492,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 89,
-      "Гольцев Евгений Михайлович": 34,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 258,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000113981": 89,
+      "gas:candidate-vibid:1001000136123": 34,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 258,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 145,
-      "Гольцев Евгений Михайлович": 62,
-      "Смоляков Сергей Аркадьевич": 17,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 678,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000113981": 145,
+      "gas:candidate-vibid:1001000136123": 62,
+      "gas:candidate-vibid:366300366843": 17,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 678,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 227,
-      "Гольцев Евгений Михайлович": 43,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 590,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000113981": 227,
+      "gas:candidate-vibid:1001000136123": 43,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 590,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 212,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 540,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000113981": 212,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 540,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 199,
-      "Гольцев Евгений Михайлович": 62,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 15,
-      "Язев Валерий Афонасьевич": 578,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113981": 199,
+      "gas:candidate-vibid:1001000136123": 62,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 15,
+      "gas:candidate-vibid:1001000225988": 578,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 105,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 7,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 317,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000113981": 105,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 7,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 317,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 187,
-      "Гольцев Евгений Михайлович": 77,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 19,
-      "Язев Валерий Афонасьевич": 596,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113981": 187,
+      "gas:candidate-vibid:1001000136123": 77,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 19,
+      "gas:candidate-vibid:1001000225988": 596,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 163,
-      "Гольцев Евгений Михайлович": 60,
-      "Смоляков Сергей Аркадьевич": 11,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 508,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000113981": 163,
+      "gas:candidate-vibid:1001000136123": 60,
+      "gas:candidate-vibid:366300366843": 11,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 508,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 144,
-      "Гольцев Евгений Михайлович": 83,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 447,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000113981": 144,
+      "gas:candidate-vibid:1001000136123": 83,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 447,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 191,
-      "Гольцев Евгений Михайлович": 50,
-      "Смоляков Сергей Аркадьевич": 15,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 681,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000113981": 191,
+      "gas:candidate-vibid:1001000136123": 50,
+      "gas:candidate-vibid:366300366843": 15,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 681,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 167,
-      "Гольцев Евгений Михайлович": 47,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 547,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000113981": 167,
+      "gas:candidate-vibid:1001000136123": 47,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 547,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 109,
-      "Гольцев Евгений Михайлович": 32,
-      "Смоляков Сергей Аркадьевич": 17,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 474,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000113981": 109,
+      "gas:candidate-vibid:1001000136123": 32,
+      "gas:candidate-vibid:366300366843": 17,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 474,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 155,
-      "Гольцев Евгений Михайлович": 37,
-      "Смоляков Сергей Аркадьевич": 28,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 532,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000113981": 155,
+      "gas:candidate-vibid:1001000136123": 37,
+      "gas:candidate-vibid:366300366843": 28,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 532,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 134,
-      "Гольцев Евгений Михайлович": 42,
-      "Смоляков Сергей Аркадьевич": 21,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 544,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000113981": 134,
+      "gas:candidate-vibid:1001000136123": 42,
+      "gas:candidate-vibid:366300366843": 21,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 544,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 186,
-      "Гольцев Евгений Михайлович": 42,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 574,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000113981": 186,
+      "gas:candidate-vibid:1001000136123": 42,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 574,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 134,
-      "Гольцев Евгений Михайлович": 30,
-      "Смоляков Сергей Аркадьевич": 8,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 544,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000113981": 134,
+      "gas:candidate-vibid:1001000136123": 30,
+      "gas:candidate-vibid:366300366843": 8,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 544,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 198,
-      "Гольцев Евгений Михайлович": 50,
-      "Смоляков Сергей Аркадьевич": 20,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 751,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000113981": 198,
+      "gas:candidate-vibid:1001000136123": 50,
+      "gas:candidate-vibid:366300366843": 20,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 751,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 168,
-      "Гольцев Евгений Михайлович": 46,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 659,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000113981": 168,
+      "gas:candidate-vibid:1001000136123": 46,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 659,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 147,
-      "Гольцев Евгений Михайлович": 36,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 477,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000113981": 147,
+      "gas:candidate-vibid:1001000136123": 36,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 477,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 177,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 26,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 717,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000113981": 177,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 26,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 717,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 121,
-      "Гольцев Евгений Михайлович": 50,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 506,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000113981": 121,
+      "gas:candidate-vibid:1001000136123": 50,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 506,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 159,
-      "Гольцев Евгений Михайлович": 36,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 16,
-      "Язев Валерий Афонасьевич": 518,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000113981": 159,
+      "gas:candidate-vibid:1001000136123": 36,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 16,
+      "gas:candidate-vibid:1001000225988": 518,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 176,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 17,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 629,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113981": 176,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 17,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 629,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 162,
-      "Гольцев Евгений Михайлович": 57,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 577,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000113981": 162,
+      "gas:candidate-vibid:1001000136123": 57,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 577,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 154,
-      "Гольцев Евгений Михайлович": 53,
-      "Смоляков Сергей Аркадьевич": 26,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 604,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000113981": 154,
+      "gas:candidate-vibid:1001000136123": 53,
+      "gas:candidate-vibid:366300366843": 26,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 604,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 196,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 643,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000113981": 196,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 643,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 258,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 648,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000113981": 258,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 648,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 156,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 474,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113981": 156,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 474,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 143,
-      "Гольцев Евгений Михайлович": 36,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 466,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113981": 143,
+      "gas:candidate-vibid:1001000136123": 36,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 466,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 244,
-      "Гольцев Евгений Михайлович": 63,
-      "Смоляков Сергей Аркадьевич": 8,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 472,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000113981": 244,
+      "gas:candidate-vibid:1001000136123": 63,
+      "gas:candidate-vibid:366300366843": 8,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 472,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 165,
-      "Гольцев Евгений Михайлович": 46,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 394,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113981": 165,
+      "gas:candidate-vibid:1001000136123": 46,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 394,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 132,
-      "Гольцев Евгений Михайлович": 40,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 469,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000113981": 132,
+      "gas:candidate-vibid:1001000136123": 40,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 469,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 181,
-      "Гольцев Евгений Михайлович": 55,
-      "Смоляков Сергей Аркадьевич": 21,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 496,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113981": 181,
+      "gas:candidate-vibid:1001000136123": 55,
+      "gas:candidate-vibid:366300366843": 21,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 496,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 245,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 27,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 630,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000113981": 245,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 27,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 630,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 179,
-      "Гольцев Евгений Михайлович": 52,
-      "Смоляков Сергей Аркадьевич": 25,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 605,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000113981": 179,
+      "gas:candidate-vibid:1001000136123": 52,
+      "gas:candidate-vibid:366300366843": 25,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 605,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 191,
-      "Гольцев Евгений Михайлович": 47,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 762,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000113981": 191,
+      "gas:candidate-vibid:1001000136123": 47,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 762,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 189,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 15,
-      "Язев Валерий Афонасьевич": 619,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113981": 189,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 15,
+      "gas:candidate-vibid:1001000225988": 619,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 211,
-      "Гольцев Евгений Михайлович": 55,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 544,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000113981": 211,
+      "gas:candidate-vibid:1001000136123": 55,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 544,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 141,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 534,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000113981": 141,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 534,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 166,
-      "Гольцев Евгений Михайлович": 55,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 732,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000113981": 166,
+      "gas:candidate-vibid:1001000136123": 55,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 732,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 149,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 10,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 671,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000113981": 149,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 10,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 671,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 139,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 585,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000113981": 139,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 585,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 155,
-      "Гольцев Евгений Михайлович": 58,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 618,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000113981": 155,
+      "gas:candidate-vibid:1001000136123": 58,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 618,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 140,
-      "Гольцев Евгений Михайлович": 46,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 502,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000113981": 140,
+      "gas:candidate-vibid:1001000136123": 46,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 502,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 174,
-      "Гольцев Евгений Михайлович": 53,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 408,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113981": 174,
+      "gas:candidate-vibid:1001000136123": 53,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 408,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 42,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 108,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113981": 42,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 108,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 64,
-      "Гольцев Евгений Михайлович": 13,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 117,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000113981": 64,
+      "gas:candidate-vibid:1001000136123": 13,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 117,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 40,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 105,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113981": 40,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 105,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 91,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 11,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 325,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113981": 91,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 11,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 325,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 122,
-      "Гольцев Евгений Михайлович": 28,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 232,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113981": 122,
+      "gas:candidate-vibid:1001000136123": 28,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 232,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 101,
-      "Гольцев Евгений Михайлович": 51,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 298,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000113981": 101,
+      "gas:candidate-vibid:1001000136123": 51,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 298,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 116,
-      "Гольцев Евгений Михайлович": 38,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 390,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000113981": 116,
+      "gas:candidate-vibid:1001000136123": 38,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 390,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 87,
-      "Гольцев Евгений Михайлович": 17,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 243,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000113981": 87,
+      "gas:candidate-vibid:1001000136123": 17,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 243,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 34,
-      "Гольцев Евгений Михайлович": 14,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 149,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113981": 34,
+      "gas:candidate-vibid:1001000136123": 14,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 149,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 56,
-      "Гольцев Евгений Михайлович": 17,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 129,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000113981": 56,
+      "gas:candidate-vibid:1001000136123": 17,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 129,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 175,
-      "Гольцев Евгений Михайлович": 49,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 594,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000113981": 175,
+      "gas:candidate-vibid:1001000136123": 49,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 594,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 131,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 15,
-      "Язев Валерий Афонасьевич": 557,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000113981": 131,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 15,
+      "gas:candidate-vibid:1001000225988": 557,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 136,
-      "Гольцев Евгений Михайлович": 46,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 470,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000113981": 136,
+      "gas:candidate-vibid:1001000136123": 46,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 470,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 75,
-      "Гольцев Евгений Михайлович": 19,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 127,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000113981": 75,
+      "gas:candidate-vibid:1001000136123": 19,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 127,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366745&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 159,
-      "Гольцев Евгений Михайлович": 49,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 416,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113981": 159,
+      "gas:candidate-vibid:1001000136123": 49,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 416,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 152,
-      "Гольцев Евгений Михайлович": 38,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 438,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113981": 152,
+      "gas:candidate-vibid:1001000136123": 38,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 438,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 113,
-      "Гольцев Евгений Михайлович": 39,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 297,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000113981": 113,
+      "gas:candidate-vibid:1001000136123": 39,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 297,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 201,
-      "Гольцев Евгений Михайлович": 47,
-      "Смоляков Сергей Аркадьевич": 20,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 367,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000113981": 201,
+      "gas:candidate-vibid:1001000136123": 47,
+      "gas:candidate-vibid:366300366843": 20,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 367,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 129,
-      "Гольцев Евгений Михайлович": 51,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 394,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000113981": 129,
+      "gas:candidate-vibid:1001000136123": 51,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 394,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 155,
-      "Гольцев Евгений Михайлович": 65,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 465,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113981": 155,
+      "gas:candidate-vibid:1001000136123": 65,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 465,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 133,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 403,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113981": 133,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 403,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 168,
-      "Гольцев Евгений Михайлович": 38,
-      "Смоляков Сергей Аркадьевич": 8,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 326,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000113981": 168,
+      "gas:candidate-vibid:1001000136123": 38,
+      "gas:candidate-vibid:366300366843": 8,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 326,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 164,
-      "Гольцев Евгений Михайлович": 64,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 484,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000113981": 164,
+      "gas:candidate-vibid:1001000136123": 64,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 484,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 196,
-      "Гольцев Евгений Михайлович": 47,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 443,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000113981": 196,
+      "gas:candidate-vibid:1001000136123": 47,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 443,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 165,
-      "Гольцев Евгений Михайлович": 59,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 457,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000113981": 165,
+      "gas:candidate-vibid:1001000136123": 59,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 457,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 119,
-      "Гольцев Евгений Михайлович": 33,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 330,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113981": 119,
+      "gas:candidate-vibid:1001000136123": 33,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 330,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 209,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 507,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000113981": 209,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 507,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 151,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 483,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113981": 151,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 483,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 117,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 510,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000113981": 117,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 510,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 28,
-      "Гольцев Евгений Михайлович": 10,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 76,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113981": 28,
+      "gas:candidate-vibid:1001000136123": 10,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 76,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 71,
-      "Гольцев Евгений Михайлович": 27,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 192,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000113981": 71,
+      "gas:candidate-vibid:1001000136123": 27,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 192,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 89,
-      "Гольцев Евгений Михайлович": 25,
-      "Смоляков Сергей Аркадьевич": 8,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 268,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113981": 89,
+      "gas:candidate-vibid:1001000136123": 25,
+      "gas:candidate-vibid:366300366843": 8,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 268,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 177,
-      "Гольцев Евгений Михайлович": 55,
-      "Смоляков Сергей Аркадьевич": 17,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 640,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000113981": 177,
+      "gas:candidate-vibid:1001000136123": 55,
+      "gas:candidate-vibid:366300366843": 17,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 640,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 143,
-      "Гольцев Евгений Михайлович": 51,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 432,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113981": 143,
+      "gas:candidate-vibid:1001000136123": 51,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 432,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 104,
-      "Гольцев Евгений Михайлович": 21,
-      "Смоляков Сергей Аркадьевич": 4,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 174,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000113981": 104,
+      "gas:candidate-vibid:1001000136123": 21,
+      "gas:candidate-vibid:366300366843": 4,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 174,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 151,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 580,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000113981": 151,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 580,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 101,
-      "Гольцев Евгений Михайлович": 23,
-      "Смоляков Сергей Аркадьевич": 17,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 391,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000113981": 101,
+      "gas:candidate-vibid:1001000136123": 23,
+      "gas:candidate-vibid:366300366843": 17,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 391,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 93,
-      "Гольцев Евгений Михайлович": 38,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 388,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000113981": 93,
+      "gas:candidate-vibid:1001000136123": 38,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 388,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 125,
-      "Гольцев Евгений Михайлович": 34,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 413,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000113981": 125,
+      "gas:candidate-vibid:1001000136123": 34,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 413,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 126,
-      "Гольцев Евгений Михайлович": 32,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 384,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113981": 126,
+      "gas:candidate-vibid:1001000136123": 32,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 384,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 121,
-      "Гольцев Евгений Михайлович": 31,
-      "Смоляков Сергей Аркадьевич": 28,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 397,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000113981": 121,
+      "gas:candidate-vibid:1001000136123": 31,
+      "gas:candidate-vibid:366300366843": 28,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 397,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 82,
-      "Гольцев Евгений Михайлович": 40,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 434,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000113981": 82,
+      "gas:candidate-vibid:1001000136123": 40,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 434,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 87,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 478,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000113981": 87,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 478,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 178,
-      "Гольцев Евгений Михайлович": 52,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 653,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000113981": 178,
+      "gas:candidate-vibid:1001000136123": 52,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 653,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 173,
-      "Гольцев Евгений Михайлович": 53,
-      "Смоляков Сергей Аркадьевич": 15,
-      "Тарасов Александр Леонидович": 16,
-      "Язев Валерий Афонасьевич": 589,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000113981": 173,
+      "gas:candidate-vibid:1001000136123": 53,
+      "gas:candidate-vibid:366300366843": 15,
+      "gas:candidate-vibid:1001000195143": 16,
+      "gas:candidate-vibid:1001000225988": 589,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 202,
-      "Гольцев Евгений Михайлович": 65,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 685,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000113981": 202,
+      "gas:candidate-vibid:1001000136123": 65,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 685,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 231,
-      "Гольцев Евгений Михайлович": 70,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 612,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000113981": 231,
+      "gas:candidate-vibid:1001000136123": 70,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 612,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 172,
-      "Гольцев Евгений Михайлович": 47,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 565,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000113981": 172,
+      "gas:candidate-vibid:1001000136123": 47,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 565,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 206,
-      "Гольцев Евгений Михайлович": 74,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 535,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000113981": 206,
+      "gas:candidate-vibid:1001000136123": 74,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 535,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 232,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 25,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 592,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000113981": 232,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 25,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 592,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 173,
-      "Гольцев Евгений Михайлович": 71,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 631,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000113981": 173,
+      "gas:candidate-vibid:1001000136123": 71,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 631,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 214,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 594,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113981": 214,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 594,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 149,
-      "Гольцев Евгений Михайлович": 58,
-      "Смоляков Сергей Аркадьевич": 27,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 516,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000113981": 149,
+      "gas:candidate-vibid:1001000136123": 58,
+      "gas:candidate-vibid:366300366843": 27,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 516,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 189,
-      "Гольцев Евгений Михайлович": 49,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 634,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000113981": 189,
+      "gas:candidate-vibid:1001000136123": 49,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 634,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 172,
-      "Гольцев Евгений Михайлович": 63,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 682,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000113981": 172,
+      "gas:candidate-vibid:1001000136123": 63,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 682,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 142,
-      "Гольцев Евгений Михайлович": 40,
-      "Смоляков Сергей Аркадьевич": 11,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 562,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000113981": 142,
+      "gas:candidate-vibid:1001000136123": 40,
+      "gas:candidate-vibid:366300366843": 11,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 562,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 161,
-      "Гольцев Евгений Михайлович": 77,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 678,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113981": 161,
+      "gas:candidate-vibid:1001000136123": 77,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 678,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 208,
-      "Гольцев Евгений Михайлович": 103,
-      "Смоляков Сергей Аркадьевич": 34,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 626,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000113981": 208,
+      "gas:candidate-vibid:1001000136123": 103,
+      "gas:candidate-vibid:366300366843": 34,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 626,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 168,
-      "Гольцев Евгений Михайлович": 38,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 646,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000113981": 168,
+      "gas:candidate-vibid:1001000136123": 38,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 646,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 166,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 530,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000113981": 166,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 530,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 159,
-      "Гольцев Евгений Михайлович": 50,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 578,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000113981": 159,
+      "gas:candidate-vibid:1001000136123": 50,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 578,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 178,
-      "Гольцев Евгений Михайлович": 69,
-      "Смоляков Сергей Аркадьевич": 28,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 651,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000113981": 178,
+      "gas:candidate-vibid:1001000136123": 69,
+      "gas:candidate-vibid:366300366843": 28,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 651,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 162,
-      "Гольцев Евгений Михайлович": 68,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 584,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000113981": 162,
+      "gas:candidate-vibid:1001000136123": 68,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 584,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 95,
-      "Гольцев Евгений Михайлович": 7,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 192,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113981": 95,
+      "gas:candidate-vibid:1001000136123": 7,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 192,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 68,
-      "Гольцев Евгений Михайлович": 9,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 127,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000113981": 68,
+      "gas:candidate-vibid:1001000136123": 9,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 127,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 151,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 514,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000113981": 151,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 514,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366746&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 59,
-      "Гольцев Евгений Михайлович": 17,
-      "Смоляков Сергей Аркадьевич": 4,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 231,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113981": 59,
+      "gas:candidate-vibid:1001000136123": 17,
+      "gas:candidate-vibid:366300366843": 4,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 231,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 81,
-      "Гольцев Евгений Михайлович": 42,
-      "Смоляков Сергей Аркадьевич": 7,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 503,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113981": 81,
+      "gas:candidate-vibid:1001000136123": 42,
+      "gas:candidate-vibid:366300366843": 7,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 503,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 83,
-      "Гольцев Евгений Михайлович": 42,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 431,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113981": 83,
+      "gas:candidate-vibid:1001000136123": 42,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 431,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 15,
-      "Гольцев Евгений Михайлович": 2,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 70,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113981": 15,
+      "gas:candidate-vibid:1001000136123": 2,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 70,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 51,
-      "Гольцев Евгений Михайлович": 10,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 305,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000113981": 51,
+      "gas:candidate-vibid:1001000136123": 10,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 305,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 24,
-      "Гольцев Евгений Михайлович": 1,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 75,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113981": 24,
+      "gas:candidate-vibid:1001000136123": 1,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 75,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 184,
-      "Гольцев Евгений Михайлович": 28,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 393,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113981": 184,
+      "gas:candidate-vibid:1001000136123": 28,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 393,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 67,
-      "Гольцев Евгений Михайлович": 18,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 312,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113981": 67,
+      "gas:candidate-vibid:1001000136123": 18,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 312,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 145,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 20,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 423,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113981": 145,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 20,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 423,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 5,
-      "Гольцев Евгений Михайлович": 0,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 35,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113981": 5,
+      "gas:candidate-vibid:1001000136123": 0,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 35,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 31,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 91,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113981": 31,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 91,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 36,
-      "Гольцев Евгений Михайлович": 26,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 98,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113981": 36,
+      "gas:candidate-vibid:1001000136123": 26,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 98,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 13,
-      "Гольцев Евгений Михайлович": 2,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 57,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113981": 13,
+      "gas:candidate-vibid:1001000136123": 2,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 57,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 22,
-      "Гольцев Евгений Михайлович": 2,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 28,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113981": 22,
+      "gas:candidate-vibid:1001000136123": 2,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 28,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 57,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 106,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113981": 57,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 106,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 22,
-      "Гольцев Евгений Михайлович": 7,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 232,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113981": 22,
+      "gas:candidate-vibid:1001000136123": 7,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 232,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 6,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 71,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113981": 6,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 71,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 4,
-      "Гольцев Евгений Михайлович": 0,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 40,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113981": 4,
+      "gas:candidate-vibid:1001000136123": 0,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 40,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 0,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 65,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113981": 0,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 65,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 11,
-      "Гольцев Евгений Михайлович": 1,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 52,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113981": 11,
+      "gas:candidate-vibid:1001000136123": 1,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 52,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 40,
-      "Гольцев Евгений Михайлович": 8,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 199,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113981": 40,
+      "gas:candidate-vibid:1001000136123": 8,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 199,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 6,
-      "Гольцев Евгений Михайлович": 8,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 128,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113981": 6,
+      "gas:candidate-vibid:1001000136123": 8,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 128,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 73,
-      "Гольцев Евгений Михайлович": 16,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 208,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113981": 73,
+      "gas:candidate-vibid:1001000136123": 16,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 208,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 86,
-      "Гольцев Евгений Михайлович": 32,
-      "Смоляков Сергей Аркадьевич": 4,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 389,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113981": 86,
+      "gas:candidate-vibid:1001000136123": 32,
+      "gas:candidate-vibid:366300366843": 4,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 389,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 9,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 91,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113981": 9,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 91,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 19,
-      "Гольцев Евгений Михайлович": 10,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 110,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113981": 19,
+      "gas:candidate-vibid:1001000136123": 10,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 110,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 44,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 168,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113981": 44,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 168,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 99,
-      "Гольцев Евгений Михайлович": 19,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 348,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113981": 99,
+      "gas:candidate-vibid:1001000136123": 19,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 348,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 268,
-      "Гольцев Евгений Михайлович": 70,
-      "Смоляков Сергей Аркадьевич": 20,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 596,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113981": 268,
+      "gas:candidate-vibid:1001000136123": 70,
+      "gas:candidate-vibid:366300366843": 20,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 596,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 63,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 120,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113981": 63,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 120,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 9,
-      "Гольцев Евгений Михайлович": 3,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 48,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113981": 9,
+      "gas:candidate-vibid:1001000136123": 3,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 48,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 4,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 50,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113981": 4,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 50,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 26,
-      "Гольцев Евгений Михайлович": 7,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 67,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113981": 26,
+      "gas:candidate-vibid:1001000136123": 7,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 67,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 12,
-      "Гольцев Евгений Михайлович": 3,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 105,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113981": 12,
+      "gas:candidate-vibid:1001000136123": 3,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 105,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 84,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 10,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 243,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113981": 84,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 10,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 243,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 236,
-      "Гольцев Евгений Михайлович": 59,
-      "Смоляков Сергей Аркадьевич": 28,
-      "Тарасов Александр Леонидович": 18,
-      "Язев Валерий Афонасьевич": 804,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113981": 236,
+      "gas:candidate-vibid:1001000136123": 59,
+      "gas:candidate-vibid:366300366843": 28,
+      "gas:candidate-vibid:1001000195143": 18,
+      "gas:candidate-vibid:1001000225988": 804,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 26,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 103,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113981": 26,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 103,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 68,
-      "Гольцев Евгений Михайлович": 36,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 15,
-      "Язев Валерий Афонасьевич": 233,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113981": 68,
+      "gas:candidate-vibid:1001000136123": 36,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 15,
+      "gas:candidate-vibid:1001000225988": 233,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 67,
-      "Гольцев Евгений Михайлович": 32,
-      "Смоляков Сергей Аркадьевич": 8,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 257,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000113981": 67,
+      "gas:candidate-vibid:1001000136123": 32,
+      "gas:candidate-vibid:366300366843": 8,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 257,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 89,
-      "Гольцев Евгений Михайлович": 35,
-      "Смоляков Сергей Аркадьевич": 10,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 189,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000113981": 89,
+      "gas:candidate-vibid:1001000136123": 35,
+      "gas:candidate-vibid:366300366843": 10,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 189,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 39,
-      "Гольцев Евгений Михайлович": 4,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 126,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113981": 39,
+      "gas:candidate-vibid:1001000136123": 4,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 126,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 126,
-      "Гольцев Евгений Михайлович": 28,
-      "Смоляков Сергей Аркадьевич": 10,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 333,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000113981": 126,
+      "gas:candidate-vibid:1001000136123": 28,
+      "gas:candidate-vibid:366300366843": 10,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 333,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 83,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 244,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113981": 83,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 244,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 33,
-      "Гольцев Евгений Михайлович": 4,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 78,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113981": 33,
+      "gas:candidate-vibid:1001000136123": 4,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 78,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 94,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 279,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113981": 94,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 279,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 280,
-      "Гольцев Евгений Михайлович": 65,
-      "Смоляков Сергей Аркадьевич": 11,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 493,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113981": 280,
+      "gas:candidate-vibid:1001000136123": 65,
+      "gas:candidate-vibid:366300366843": 11,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 493,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366747&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 241,
-      "Гольцев Евгений Михайлович": 27,
-      "Смоляков Сергей Аркадьевич": 33,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 492,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000113981": 241,
+      "gas:candidate-vibid:1001000136123": 27,
+      "gas:candidate-vibid:366300366843": 33,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 492,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 252,
-      "Гольцев Евгений Михайлович": 18,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 572,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000113981": 252,
+      "gas:candidate-vibid:1001000136123": 18,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 572,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 282,
-      "Гольцев Евгений Михайлович": 38,
-      "Смоляков Сергей Аркадьевич": 48,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 647,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000113981": 282,
+      "gas:candidate-vibid:1001000136123": 38,
+      "gas:candidate-vibid:366300366843": 48,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 647,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 227,
-      "Гольцев Евгений Михайлович": 30,
-      "Смоляков Сергей Аркадьевич": 34,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 650,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000113981": 227,
+      "gas:candidate-vibid:1001000136123": 30,
+      "gas:candidate-vibid:366300366843": 34,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 650,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 394,
-      "Гольцев Евгений Михайлович": 24,
-      "Смоляков Сергей Аркадьевич": 36,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 657,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000113981": 394,
+      "gas:candidate-vibid:1001000136123": 24,
+      "gas:candidate-vibid:366300366843": 36,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 657,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 247,
-      "Гольцев Евгений Михайлович": 26,
-      "Смоляков Сергей Аркадьевич": 25,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 580,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000113981": 247,
+      "gas:candidate-vibid:1001000136123": 26,
+      "gas:candidate-vibid:366300366843": 25,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 580,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 195,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 36,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 510,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000113981": 195,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 36,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 510,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 128,
-      "Гольцев Евгений Михайлович": 19,
-      "Смоляков Сергей Аркадьевич": 11,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 326,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113981": 128,
+      "gas:candidate-vibid:1001000136123": 19,
+      "gas:candidate-vibid:366300366843": 11,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 326,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 94,
-      "Гольцев Евгений Михайлович": 8,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 218,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113981": 94,
+      "gas:candidate-vibid:1001000136123": 8,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 218,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 117,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 10,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 198,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113981": 117,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 10,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 198,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 111,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 10,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 217,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113981": 111,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 10,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 217,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 90,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 184,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113981": 90,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 184,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 134,
-      "Гольцев Евгений Михайлович": 9,
-      "Смоляков Сергей Аркадьевич": 7,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 262,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113981": 134,
+      "gas:candidate-vibid:1001000136123": 9,
+      "gas:candidate-vibid:366300366843": 7,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 262,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 25,
-      "Гольцев Евгений Михайлович": 4,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 59,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113981": 25,
+      "gas:candidate-vibid:1001000136123": 4,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 59,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 29,
-      "Гольцев Евгений Михайлович": 1,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 92,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113981": 29,
+      "gas:candidate-vibid:1001000136123": 1,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 92,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 16,
-      "Гольцев Евгений Михайлович": 4,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 17,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113981": 16,
+      "gas:candidate-vibid:1001000136123": 4,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 17,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 317,
-      "Гольцев Евгений Михайлович": 20,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 606,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113981": 317,
+      "gas:candidate-vibid:1001000136123": 20,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 606,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 360,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 29,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 590,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000113981": 360,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 29,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 590,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 153,
-      "Гольцев Евгений Михайлович": 53,
-      "Смоляков Сергей Аркадьевич": 60,
-      "Тарасов Александр Леонидович": 18,
-      "Язев Валерий Афонасьевич": 519,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000113981": 153,
+      "gas:candidate-vibid:1001000136123": 53,
+      "gas:candidate-vibid:366300366843": 60,
+      "gas:candidate-vibid:1001000195143": 18,
+      "gas:candidate-vibid:1001000225988": 519,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 26,
-      "Гольцев Евгений Михайлович": 9,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 177,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113981": 26,
+      "gas:candidate-vibid:1001000136123": 9,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 177,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 16,
-      "Гольцев Евгений Михайлович": 15,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 84,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113981": 16,
+      "gas:candidate-vibid:1001000136123": 15,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 84,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 21,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 4,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 135,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113981": 21,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 4,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 135,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 252,
-      "Гольцев Евгений Михайлович": 21,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 453,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113981": 252,
+      "gas:candidate-vibid:1001000136123": 21,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 453,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 27,
-      "Гольцев Евгений Михайлович": 4,
-      "Смоляков Сергей Аркадьевич": 12,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 127,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113981": 27,
+      "gas:candidate-vibid:1001000136123": 4,
+      "gas:candidate-vibid:366300366843": 12,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 127,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 4,
-      "Гольцев Евгений Михайлович": 0,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 84,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113981": 4,
+      "gas:candidate-vibid:1001000136123": 0,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 84,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 114,
-      "Гольцев Евгений Михайлович": 10,
-      "Смоляков Сергей Аркадьевич": 7,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 151,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113981": 114,
+      "gas:candidate-vibid:1001000136123": 10,
+      "gas:candidate-vibid:366300366843": 7,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 151,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 24,
-      "Гольцев Евгений Михайлович": 2,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 40,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113981": 24,
+      "gas:candidate-vibid:1001000136123": 2,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 40,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 29,
-      "Гольцев Евгений Михайлович": 6,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 117,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113981": 29,
+      "gas:candidate-vibid:1001000136123": 6,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 117,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 4,
-      "Гольцев Евгений Михайлович": 0,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 26,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113981": 4,
+      "gas:candidate-vibid:1001000136123": 0,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 26,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 51,
-      "Гольцев Евгений Михайлович": 10,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 223,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113981": 51,
+      "gas:candidate-vibid:1001000136123": 10,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 223,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 56,
-      "Гольцев Евгений Михайлович": 7,
-      "Смоляков Сергей Аркадьевич": 6,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 133,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113981": 56,
+      "gas:candidate-vibid:1001000136123": 7,
+      "gas:candidate-vibid:366300366843": 6,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 133,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 24,
-      "Гольцев Евгений Михайлович": 7,
-      "Смоляков Сергей Аркадьевич": 1,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 44,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113981": 24,
+      "gas:candidate-vibid:1001000136123": 7,
+      "gas:candidate-vibid:366300366843": 1,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 44,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 88,
-      "Гольцев Евгений Михайлович": 2,
-      "Смоляков Сергей Аркадьевич": 5,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 254,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113981": 88,
+      "gas:candidate-vibid:1001000136123": 2,
+      "gas:candidate-vibid:366300366843": 5,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 254,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 18,
-      "Гольцев Евгений Михайлович": 2,
-      "Смоляков Сергей Аркадьевич": 0,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 53,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113981": 18,
+      "gas:candidate-vibid:1001000136123": 2,
+      "gas:candidate-vibid:366300366843": 0,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 53,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 36,
-      "Гольцев Евгений Михайлович": 1,
-      "Смоляков Сергей Аркадьевич": 4,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 55,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113981": 36,
+      "gas:candidate-vibid:1001000136123": 1,
+      "gas:candidate-vibid:366300366843": 4,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 55,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 36,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 7,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 166,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113981": 36,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 7,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 166,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366748&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 182,
-      "Гольцев Евгений Михайлович": 33,
-      "Смоляков Сергей Аркадьевич": 71,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 938,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000113981": 182,
+      "gas:candidate-vibid:1001000136123": 33,
+      "gas:candidate-vibid:366300366843": 71,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 938,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 202,
-      "Гольцев Евгений Михайлович": 21,
-      "Смоляков Сергей Аркадьевич": 48,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 858,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113981": 202,
+      "gas:candidate-vibid:1001000136123": 21,
+      "gas:candidate-vibid:366300366843": 48,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 858,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 153,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 35,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 815,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113981": 153,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 35,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 815,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 100,
-      "Гольцев Евгений Михайлович": 8,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 656,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113981": 100,
+      "gas:candidate-vibid:1001000136123": 8,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 656,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 188,
-      "Гольцев Евгений Михайлович": 19,
-      "Смоляков Сергей Аркадьевич": 65,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 840,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113981": 188,
+      "gas:candidate-vibid:1001000136123": 19,
+      "gas:candidate-vibid:366300366843": 65,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 840,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 184,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 39,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 690,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000113981": 184,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 39,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 690,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 183,
-      "Гольцев Евгений Михайлович": 10,
-      "Смоляков Сергей Аркадьевич": 37,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 532,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113981": 183,
+      "gas:candidate-vibid:1001000136123": 10,
+      "gas:candidate-vibid:366300366843": 37,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 532,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 121,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 43,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 604,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113981": 121,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 43,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 604,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 191,
-      "Гольцев Евгений Михайлович": 14,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 332,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113981": 191,
+      "gas:candidate-vibid:1001000136123": 14,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 332,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 182,
-      "Гольцев Евгений Михайлович": 11,
-      "Смоляков Сергей Аркадьевич": 265,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 336,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000113981": 182,
+      "gas:candidate-vibid:1001000136123": 11,
+      "gas:candidate-vibid:366300366843": 265,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 336,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 123,
-      "Гольцев Евгений Михайлович": 22,
-      "Смоляков Сергей Аркадьевич": 26,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 549,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113981": 123,
+      "gas:candidate-vibid:1001000136123": 22,
+      "gas:candidate-vibid:366300366843": 26,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 549,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 80,
-      "Гольцев Евгений Михайлович": 12,
-      "Смоляков Сергей Аркадьевич": 29,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 351,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113981": 80,
+      "gas:candidate-vibid:1001000136123": 12,
+      "gas:candidate-vibid:366300366843": 29,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 351,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 176,
-      "Гольцев Евгений Михайлович": 16,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 414,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113981": 176,
+      "gas:candidate-vibid:1001000136123": 16,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 414,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366749&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 186,
-      "Гольцев Евгений Михайлович": 33,
-      "Смоляков Сергей Аркадьевич": 47,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 428,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000113981": 186,
+      "gas:candidate-vibid:1001000136123": 33,
+      "gas:candidate-vibid:366300366843": 47,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 428,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 174,
-      "Гольцев Евгений Михайлович": 34,
-      "Смоляков Сергей Аркадьевич": 40,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 410,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000113981": 174,
+      "gas:candidate-vibid:1001000136123": 34,
+      "gas:candidate-vibid:366300366843": 40,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 410,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 126,
-      "Гольцев Евгений Михайлович": 17,
-      "Смоляков Сергей Аркадьевич": 41,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 423,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000113981": 126,
+      "gas:candidate-vibid:1001000136123": 17,
+      "gas:candidate-vibid:366300366843": 41,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 423,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 169,
-      "Гольцев Евгений Михайлович": 36,
-      "Смоляков Сергей Аркадьевич": 60,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 586,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000113981": 169,
+      "gas:candidate-vibid:1001000136123": 36,
+      "gas:candidate-vibid:366300366843": 60,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 586,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 224,
-      "Гольцев Евгений Михайлович": 34,
-      "Смоляков Сергей Аркадьевич": 51,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 674,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000113981": 224,
+      "gas:candidate-vibid:1001000136123": 34,
+      "gas:candidate-vibid:366300366843": 51,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 674,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 199,
-      "Гольцев Евгений Михайлович": 44,
-      "Смоляков Сергей Аркадьевич": 60,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 652,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000113981": 199,
+      "gas:candidate-vibid:1001000136123": 44,
+      "gas:candidate-vibid:366300366843": 60,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 652,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 215,
-      "Гольцев Евгений Михайлович": 64,
-      "Смоляков Сергей Аркадьевич": 37,
-      "Тарасов Александр Леонидович": 36,
-      "Язев Валерий Афонасьевич": 358,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000113981": 215,
+      "gas:candidate-vibid:1001000136123": 64,
+      "gas:candidate-vibid:366300366843": 37,
+      "gas:candidate-vibid:1001000195143": 36,
+      "gas:candidate-vibid:1001000225988": 358,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 128,
-      "Гольцев Евгений Михайлович": 21,
-      "Смоляков Сергей Аркадьевич": 45,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 411,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000113981": 128,
+      "gas:candidate-vibid:1001000136123": 21,
+      "gas:candidate-vibid:366300366843": 45,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 411,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 168,
-      "Гольцев Евгений Михайлович": 27,
-      "Смоляков Сергей Аркадьевич": 36,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 472,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113981": 168,
+      "gas:candidate-vibid:1001000136123": 27,
+      "gas:candidate-vibid:366300366843": 36,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 472,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 149,
-      "Гольцев Евгений Михайлович": 23,
-      "Смоляков Сергей Аркадьевич": 64,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 676,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000113981": 149,
+      "gas:candidate-vibid:1001000136123": 23,
+      "gas:candidate-vibid:366300366843": 64,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 676,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 80,
-      "Гольцев Евгений Михайлович": 27,
-      "Смоляков Сергей Аркадьевич": 21,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 280,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000113981": 80,
+      "gas:candidate-vibid:1001000136123": 27,
+      "gas:candidate-vibid:366300366843": 21,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 280,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 105,
-      "Гольцев Евгений Михайлович": 25,
-      "Смоляков Сергей Аркадьевич": 43,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 460,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113981": 105,
+      "gas:candidate-vibid:1001000136123": 25,
+      "gas:candidate-vibid:366300366843": 43,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 460,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 133,
-      "Гольцев Евгений Михайлович": 23,
-      "Смоляков Сергей Аркадьевич": 41,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 412,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000113981": 133,
+      "gas:candidate-vibid:1001000136123": 23,
+      "gas:candidate-vibid:366300366843": 41,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 412,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 142,
-      "Гольцев Евгений Михайлович": 27,
-      "Смоляков Сергей Аркадьевич": 40,
-      "Тарасов Александр Леонидович": 19,
-      "Язев Валерий Афонасьевич": 543,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000113981": 142,
+      "gas:candidate-vibid:1001000136123": 27,
+      "gas:candidate-vibid:366300366843": 40,
+      "gas:candidate-vibid:1001000195143": 19,
+      "gas:candidate-vibid:1001000225988": 543,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 245,
-      "Гольцев Евгений Михайлович": 34,
-      "Смоляков Сергей Аркадьевич": 39,
-      "Тарасов Александр Леонидович": 17,
-      "Язев Валерий Афонасьевич": 683,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000113981": 245,
+      "gas:candidate-vibid:1001000136123": 34,
+      "gas:candidate-vibid:366300366843": 39,
+      "gas:candidate-vibid:1001000195143": 17,
+      "gas:candidate-vibid:1001000225988": 683,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 248,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 27,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 515,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000113981": 248,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 27,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 515,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 256,
-      "Гольцев Евгений Михайлович": 43,
-      "Смоляков Сергей Аркадьевич": 37,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 574,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000113981": 256,
+      "gas:candidate-vibid:1001000136123": 43,
+      "gas:candidate-vibid:366300366843": 37,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 574,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 270,
-      "Гольцев Евгений Михайлович": 66,
-      "Смоляков Сергей Аркадьевич": 48,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 648,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000113981": 270,
+      "gas:candidate-vibid:1001000136123": 66,
+      "gas:candidate-vibid:366300366843": 48,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 648,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 309,
-      "Гольцев Евгений Михайлович": 59,
-      "Смоляков Сергей Аркадьевич": 30,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 591,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113981": 309,
+      "gas:candidate-vibid:1001000136123": 59,
+      "gas:candidate-vibid:366300366843": 30,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 591,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 289,
-      "Гольцев Евгений Михайлович": 37,
-      "Смоляков Сергей Аркадьевич": 44,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 558,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000113981": 289,
+      "gas:candidate-vibid:1001000136123": 37,
+      "gas:candidate-vibid:366300366843": 44,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 558,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 266,
-      "Гольцев Евгений Михайлович": 43,
-      "Смоляков Сергей Аркадьевич": 46,
-      "Тарасов Александр Леонидович": 20,
-      "Язев Валерий Афонасьевич": 698,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000113981": 266,
+      "gas:candidate-vibid:1001000136123": 43,
+      "gas:candidate-vibid:366300366843": 46,
+      "gas:candidate-vibid:1001000195143": 20,
+      "gas:candidate-vibid:1001000225988": 698,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 262,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 52,
-      "Тарасов Александр Леонидович": 19,
-      "Язев Валерий Афонасьевич": 703,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000113981": 262,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 52,
+      "gas:candidate-vibid:1001000195143": 19,
+      "gas:candidate-vibid:1001000225988": 703,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 212,
-      "Гольцев Евгений Михайлович": 40,
-      "Смоляков Сергей Аркадьевич": 30,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 410,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000113981": 212,
+      "gas:candidate-vibid:1001000136123": 40,
+      "gas:candidate-vibid:366300366843": 30,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 410,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 217,
-      "Гольцев Евгений Михайлович": 20,
-      "Смоляков Сергей Аркадьевич": 37,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 389,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000113981": 217,
+      "gas:candidate-vibid:1001000136123": 20,
+      "gas:candidate-vibid:366300366843": 37,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 389,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 197,
-      "Гольцев Евгений Михайлович": 39,
-      "Смоляков Сергей Аркадьевич": 40,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 379,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000113981": 197,
+      "gas:candidate-vibid:1001000136123": 39,
+      "gas:candidate-vibid:366300366843": 40,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 379,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 197,
-      "Гольцев Евгений Михайлович": 22,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 463,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000113981": 197,
+      "gas:candidate-vibid:1001000136123": 22,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 463,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 222,
-      "Гольцев Евгений Михайлович": 36,
-      "Смоляков Сергей Аркадьевич": 45,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 555,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113981": 222,
+      "gas:candidate-vibid:1001000136123": 36,
+      "gas:candidate-vibid:366300366843": 45,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 555,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 197,
-      "Гольцев Евгений Михайлович": 25,
-      "Смоляков Сергей Аркадьевич": 37,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 390,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000113981": 197,
+      "gas:candidate-vibid:1001000136123": 25,
+      "gas:candidate-vibid:366300366843": 37,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 390,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 125,
-      "Гольцев Евгений Михайлович": 22,
-      "Смоляков Сергей Аркадьевич": 51,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 412,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113981": 125,
+      "gas:candidate-vibid:1001000136123": 22,
+      "gas:candidate-vibid:366300366843": 51,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 412,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 143,
-      "Гольцев Евгений Михайлович": 19,
-      "Смоляков Сергей Аркадьевич": 25,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 378,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000113981": 143,
+      "gas:candidate-vibid:1001000136123": 19,
+      "gas:candidate-vibid:366300366843": 25,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 378,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 161,
-      "Гольцев Евгений Михайлович": 28,
-      "Смоляков Сергей Аркадьевич": 47,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 488,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000113981": 161,
+      "gas:candidate-vibid:1001000136123": 28,
+      "gas:candidate-vibid:366300366843": 47,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 488,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 193,
-      "Гольцев Евгений Михайлович": 34,
-      "Смоляков Сергей Аркадьевич": 33,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 667,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113981": 193,
+      "gas:candidate-vibid:1001000136123": 34,
+      "gas:candidate-vibid:366300366843": 33,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 667,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 238,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 61,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 781,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000113981": 238,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 61,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 781,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 154,
-      "Гольцев Евгений Михайлович": 29,
-      "Смоляков Сергей Аркадьевич": 52,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 511,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000113981": 154,
+      "gas:candidate-vibid:1001000136123": 29,
+      "gas:candidate-vibid:366300366843": 52,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 511,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 289,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 85,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 562,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000113981": 289,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 85,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 562,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 207,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 76,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 589,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000113981": 207,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 76,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 589,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 5,
-      "Гольцев Евгений Михайлович": 3,
-      "Смоляков Сергей Аркадьевич": 2,
-      "Тарасов Александр Леонидович": 0,
-      "Язев Валерий Афонасьевич": 67,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113981": 5,
+      "gas:candidate-vibid:1001000136123": 3,
+      "gas:candidate-vibid:366300366843": 2,
+      "gas:candidate-vibid:1001000195143": 0,
+      "gas:candidate-vibid:1001000225988": 67,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 111,
-      "Гольцев Евгений Михайлович": 23,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 4,
-      "Язев Валерий Афонасьевич": 281,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113981": 111,
+      "gas:candidate-vibid:1001000136123": 23,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 4,
+      "gas:candidate-vibid:1001000225988": 281,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_66_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 10,
-      "Гольцев Евгений Михайлович": 3,
-      "Смоляков Сергей Аркадьевич": 4,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 55,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113981": 10,
+      "gas:candidate-vibid:1001000136123": 3,
+      "gas:candidate-vibid:366300366843": 4,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 55,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",

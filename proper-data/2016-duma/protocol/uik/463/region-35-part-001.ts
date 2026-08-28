@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 60,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 17,
-      "Селин Михаил Васильевич": 72,
-      "Тельтевской Александр Дмитриевич": 34,
-      "Шулепов Евгений Борисович": 176
+      "gas:candidate-vibid:2352000916174": 60,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 17,
+      "gas:candidate-vibid:2352000918267": 72,
+      "gas:candidate-vibid:2352000919596": 34,
+      "gas:candidate-vibid:2352000920382": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 60,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 22,
-      "Селин Михаил Васильевич": 70,
-      "Тельтевской Александр Дмитриевич": 46,
-      "Шулепов Евгений Борисович": 156
+      "gas:candidate-vibid:2352000916174": 60,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 22,
+      "gas:candidate-vibid:2352000918267": 70,
+      "gas:candidate-vibid:2352000919596": 46,
+      "gas:candidate-vibid:2352000920382": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 44,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 21,
-      "Селин Михаил Васильевич": 78,
-      "Тельтевской Александр Дмитриевич": 54,
-      "Шулепов Евгений Борисович": 162
+      "gas:candidate-vibid:2352000916174": 44,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 21,
+      "gas:candidate-vibid:2352000918267": 78,
+      "gas:candidate-vibid:2352000919596": 54,
+      "gas:candidate-vibid:2352000920382": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 57,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 15,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 100,
-      "Тельтевской Александр Дмитриевич": 62,
-      "Шулепов Евгений Борисович": 172
+      "gas:candidate-vibid:2352000916174": 57,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 15,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 100,
+      "gas:candidate-vibid:2352000919596": 62,
+      "gas:candidate-vibid:2352000920382": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 90,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 32,
-      "Михайлов Алексей Леонидович": 19,
-      "Некрасов Алексей Викторович": 13,
-      "Панько Кирилл Игоревич": 24,
-      "Селин Михаил Васильевич": 101,
-      "Тельтевской Александр Дмитриевич": 66,
-      "Шулепов Евгений Борисович": 225
+      "gas:candidate-vibid:2352000916174": 90,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 32,
+      "gas:candidate-vibid:2352000951236": 19,
+      "gas:candidate-vibid:2352000920448": 13,
+      "gas:candidate-vibid:2352000918201": 24,
+      "gas:candidate-vibid:2352000918267": 101,
+      "gas:candidate-vibid:2352000919596": 66,
+      "gas:candidate-vibid:2352000920382": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 74,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 10,
-      "Панько Кирилл Игоревич": 28,
-      "Селин Михаил Васильевич": 85,
-      "Тельтевской Александр Дмитриевич": 59,
-      "Шулепов Евгений Борисович": 147
+      "gas:candidate-vibid:2352000916174": 74,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 10,
+      "gas:candidate-vibid:2352000918201": 28,
+      "gas:candidate-vibid:2352000918267": 85,
+      "gas:candidate-vibid:2352000919596": 59,
+      "gas:candidate-vibid:2352000920382": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 41,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 22,
-      "Селин Михаил Васильевич": 99,
-      "Тельтевской Александр Дмитриевич": 38,
-      "Шулепов Евгений Борисович": 189
+      "gas:candidate-vibid:2352000916174": 41,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 22,
+      "gas:candidate-vibid:2352000918267": 99,
+      "gas:candidate-vibid:2352000919596": 38,
+      "gas:candidate-vibid:2352000920382": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 33,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 107
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 33,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 28,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 60
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 28,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 27,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 91
+      "gas:candidate-vibid:2352000916174": 27,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 14,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 0,
-      "Шулепов Евгений Борисович": 45
+      "gas:candidate-vibid:2352000916174": 14,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 0,
+      "gas:candidate-vibid:2352000920382": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 48,
-      "Тельтевской Александр Дмитриевич": 15,
-      "Шулепов Евгений Борисович": 98
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 48,
+      "gas:candidate-vibid:2352000919596": 15,
+      "gas:candidate-vibid:2352000920382": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 14,
-      "Шулепов Евгений Борисович": 31
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 14,
+      "gas:candidate-vibid:2352000920382": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 45
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 20,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 31
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 20,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 20,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 63
+      "gas:candidate-vibid:2352000916174": 20,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 6,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 5,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 33
+      "gas:candidate-vibid:2352000916174": 6,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 5,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 31,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 17,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 74
+      "gas:candidate-vibid:2352000916174": 31,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 17,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 3,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 3,
-      "Шулепов Евгений Борисович": 36
+      "gas:candidate-vibid:2352000916174": 3,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 3,
+      "gas:candidate-vibid:2352000920382": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 14,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 29
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 14,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 78,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 21,
-      "Михайлов Алексей Леонидович": 13,
-      "Некрасов Алексей Викторович": 19,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 63,
-      "Тельтевской Александр Дмитриевич": 43,
-      "Шулепов Евгений Борисович": 237
+      "gas:candidate-vibid:2352000916174": 78,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 21,
+      "gas:candidate-vibid:2352000951236": 13,
+      "gas:candidate-vibid:2352000920448": 19,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 63,
+      "gas:candidate-vibid:2352000919596": 43,
+      "gas:candidate-vibid:2352000920382": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 97,
-      "Доможиров Евгений Валерьевич": 15,
-      "Милюкова Ольга Николаевна": 21,
-      "Михайлов Алексей Леонидович": 13,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 23,
-      "Селин Михаил Васильевич": 65,
-      "Тельтевской Александр Дмитриевич": 52,
-      "Шулепов Евгений Борисович": 349
+      "gas:candidate-vibid:2352000916174": 97,
+      "gas:candidate-vibid:2352000919585": 15,
+      "gas:candidate-vibid:2352000919695": 21,
+      "gas:candidate-vibid:2352000951236": 13,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 23,
+      "gas:candidate-vibid:2352000918267": 65,
+      "gas:candidate-vibid:2352000919596": 52,
+      "gas:candidate-vibid:2352000920382": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 73,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 16,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 12,
-      "Панько Кирилл Игоревич": 22,
-      "Селин Михаил Васильевич": 92,
-      "Тельтевской Александр Дмитриевич": 54,
-      "Шулепов Евгений Борисович": 192
+      "gas:candidate-vibid:2352000916174": 73,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 16,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 12,
+      "gas:candidate-vibid:2352000918201": 22,
+      "gas:candidate-vibid:2352000918267": 92,
+      "gas:candidate-vibid:2352000919596": 54,
+      "gas:candidate-vibid:2352000920382": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 20,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 27,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 51
+      "gas:candidate-vibid:2352000916174": 20,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 27,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 4,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 29
+      "gas:candidate-vibid:2352000916174": 4,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 71,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 25,
-      "Селин Михаил Васильевич": 67,
-      "Тельтевской Александр Дмитриевич": 51,
-      "Шулепов Евгений Борисович": 198
+      "gas:candidate-vibid:2352000916174": 71,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 25,
+      "gas:candidate-vibid:2352000918267": 67,
+      "gas:candidate-vibid:2352000919596": 51,
+      "gas:candidate-vibid:2352000920382": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 40,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 13,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 46,
-      "Тельтевской Александр Дмитриевич": 28,
-      "Шулепов Евгений Борисович": 143
+      "gas:candidate-vibid:2352000916174": 40,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 13,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 46,
+      "gas:candidate-vibid:2352000919596": 28,
+      "gas:candidate-vibid:2352000920382": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 71,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 18,
-      "Панько Кирилл Игоревич": 25,
-      "Селин Михаил Васильевич": 72,
-      "Тельтевской Александр Дмитриевич": 40,
-      "Шулепов Евгений Борисович": 186
+      "gas:candidate-vibid:2352000916174": 71,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 18,
+      "gas:candidate-vibid:2352000918201": 25,
+      "gas:candidate-vibid:2352000918267": 72,
+      "gas:candidate-vibid:2352000919596": 40,
+      "gas:candidate-vibid:2352000920382": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 6,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 35
+      "gas:candidate-vibid:2352000916174": 6,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 25,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 87
+      "gas:candidate-vibid:2352000916174": 25,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 23,
-      "Тельтевской Александр Дмитриевич": 1,
-      "Шулепов Евгений Борисович": 75
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 23,
+      "gas:candidate-vibid:2352000919596": 1,
+      "gas:candidate-vibid:2352000920382": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 3,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 20,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 66
+      "gas:candidate-vibid:2352000916174": 3,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 20,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 16,
-      "Селин Михаил Васильевич": 49,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 54
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 16,
+      "gas:candidate-vibid:2352000918267": 49,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869370&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869370&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 146,
-      "Доможиров Евгений Валерьевич": 16,
-      "Милюкова Ольга Николаевна": 24,
-      "Михайлов Алексей Леонидович": 18,
-      "Некрасов Алексей Викторович": 41,
-      "Панько Кирилл Игоревич": 37,
-      "Селин Михаил Васильевич": 133,
-      "Тельтевской Александр Дмитриевич": 154,
-      "Шулепов Евгений Борисович": 416
+      "gas:candidate-vibid:2352000916174": 146,
+      "gas:candidate-vibid:2352000919585": 16,
+      "gas:candidate-vibid:2352000919695": 24,
+      "gas:candidate-vibid:2352000951236": 18,
+      "gas:candidate-vibid:2352000920448": 41,
+      "gas:candidate-vibid:2352000918201": 37,
+      "gas:candidate-vibid:2352000918267": 133,
+      "gas:candidate-vibid:2352000919596": 154,
+      "gas:candidate-vibid:2352000920382": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 127,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 25,
-      "Михайлов Алексей Леонидович": 23,
-      "Некрасов Алексей Викторович": 22,
-      "Панько Кирилл Игоревич": 52,
-      "Селин Михаил Васильевич": 137,
-      "Тельтевской Александр Дмитриевич": 196,
-      "Шулепов Евгений Борисович": 386
+      "gas:candidate-vibid:2352000916174": 127,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 25,
+      "gas:candidate-vibid:2352000951236": 23,
+      "gas:candidate-vibid:2352000920448": 22,
+      "gas:candidate-vibid:2352000918201": 52,
+      "gas:candidate-vibid:2352000918267": 137,
+      "gas:candidate-vibid:2352000919596": 196,
+      "gas:candidate-vibid:2352000920382": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 36,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 14,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 21,
-      "Селин Михаил Васильевич": 38,
-      "Тельтевской Александр Дмитриевич": 33,
-      "Шулепов Евгений Борисович": 111
+      "gas:candidate-vibid:2352000916174": 36,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 14,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 21,
+      "gas:candidate-vibid:2352000918267": 38,
+      "gas:candidate-vibid:2352000919596": 33,
+      "gas:candidate-vibid:2352000920382": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 40,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 47,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 77
+      "gas:candidate-vibid:2352000916174": 40,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 47,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 20,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 26,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 46
+      "gas:candidate-vibid:2352000916174": 20,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 26,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 16,
-      "Шулепов Евгений Борисович": 118
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 16,
+      "gas:candidate-vibid:2352000920382": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 46,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 29,
-      "Тельтевской Александр Дмитриевич": 23,
-      "Шулепов Евгений Борисович": 106
+      "gas:candidate-vibid:2352000916174": 46,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 29,
+      "gas:candidate-vibid:2352000919596": 23,
+      "gas:candidate-vibid:2352000920382": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 55
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 32,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 19,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 50
+      "gas:candidate-vibid:2352000916174": 32,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 19,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 33
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 70,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 10,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 48,
-      "Тельтевской Александр Дмитриевич": 26,
-      "Шулепов Евгений Борисович": 126
+      "gas:candidate-vibid:2352000916174": 70,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 10,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 48,
+      "gas:candidate-vibid:2352000919596": 26,
+      "gas:candidate-vibid:2352000920382": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 46
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 54,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 16,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 18,
-      "Тельтевской Александр Дмитриевич": 23,
-      "Шулепов Евгений Борисович": 117
+      "gas:candidate-vibid:2352000916174": 54,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 16,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 18,
+      "gas:candidate-vibid:2352000919596": 23,
+      "gas:candidate-vibid:2352000920382": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 46
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 54,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 31,
-      "Селин Михаил Васильевич": 38,
-      "Тельтевской Александр Дмитриевич": 24,
-      "Шулепов Евгений Борисович": 130
+      "gas:candidate-vibid:2352000916174": 54,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 31,
+      "gas:candidate-vibid:2352000918267": 38,
+      "gas:candidate-vibid:2352000919596": 24,
+      "gas:candidate-vibid:2352000920382": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 22,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 66
+      "gas:candidate-vibid:2352000916174": 22,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 11,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 85
+      "gas:candidate-vibid:2352000916174": 11,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 39,
-      "Тельтевской Александр Дмитриевич": 20,
-      "Шулепов Евгений Борисович": 101
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 39,
+      "gas:candidate-vibid:2352000919596": 20,
+      "gas:candidate-vibid:2352000920382": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 4,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 23
+      "gas:candidate-vibid:2352000916174": 4,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 22
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 31,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 16,
-      "Шулепов Евгений Борисович": 124
+      "gas:candidate-vibid:2352000916174": 31,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 16,
+      "gas:candidate-vibid:2352000920382": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 34
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869371&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869371&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 35,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 17,
-      "Тельтевской Александр Дмитриевич": 14,
-      "Шулепов Евгений Борисович": 88
+      "gas:candidate-vibid:2352000916174": 35,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 17,
+      "gas:candidate-vibid:2352000919596": 14,
+      "gas:candidate-vibid:2352000920382": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 55
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 58
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 3,
-      "Шулепов Евгений Борисович": 53
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 3,
+      "gas:candidate-vibid:2352000920382": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 0,
-      "Шулепов Евгений Борисович": 39
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 0,
+      "gas:candidate-vibid:2352000920382": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 46
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 47
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 14,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 32
+      "gas:candidate-vibid:2352000916174": 14,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 46,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 10,
-      "Панько Кирилл Игоревич": 16,
-      "Селин Михаил Васильевич": 48,
-      "Тельтевской Александр Дмитриевич": 52,
-      "Шулепов Евгений Борисович": 118
+      "gas:candidate-vibid:2352000916174": 46,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 10,
+      "gas:candidate-vibid:2352000918201": 16,
+      "gas:candidate-vibid:2352000918267": 48,
+      "gas:candidate-vibid:2352000919596": 52,
+      "gas:candidate-vibid:2352000920382": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 11,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 3,
-      "Шулепов Евгений Борисович": 39
+      "gas:candidate-vibid:2352000916174": 11,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 3,
+      "gas:candidate-vibid:2352000920382": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 30,
-      "Шулепов Евгений Борисович": 113
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 30,
+      "gas:candidate-vibid:2352000920382": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 33,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 91
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 33,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 36
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 22,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 30,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 75
+      "gas:candidate-vibid:2352000916174": 22,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 30,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 52,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 10,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 42,
-      "Тельтевской Александр Дмитриевич": 51,
-      "Шулепов Евгений Борисович": 123
+      "gas:candidate-vibid:2352000916174": 52,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 10,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 42,
+      "gas:candidate-vibid:2352000919596": 51,
+      "gas:candidate-vibid:2352000920382": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 86,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 20,
-      "Некрасов Алексей Викторович": 23,
-      "Панько Кирилл Игоревич": 32,
-      "Селин Михаил Васильевич": 101,
-      "Тельтевской Александр Дмитриевич": 110,
-      "Шулепов Евгений Борисович": 232
+      "gas:candidate-vibid:2352000916174": 86,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 20,
+      "gas:candidate-vibid:2352000920448": 23,
+      "gas:candidate-vibid:2352000918201": 32,
+      "gas:candidate-vibid:2352000918267": 101,
+      "gas:candidate-vibid:2352000919596": 110,
+      "gas:candidate-vibid:2352000920382": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 58,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 13,
-      "Некрасов Алексей Викторович": 18,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 58,
-      "Тельтевской Александр Дмитриевич": 59,
-      "Шулепов Евгений Борисович": 191
+      "gas:candidate-vibid:2352000916174": 58,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 13,
+      "gas:candidate-vibid:2352000920448": 18,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 58,
+      "gas:candidate-vibid:2352000919596": 59,
+      "gas:candidate-vibid:2352000920382": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 20
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 23,
-      "Шулепов Евгений Борисович": 44
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 23,
+      "gas:candidate-vibid:2352000920382": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 45
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869372&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869372&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 51,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 11,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 40,
-      "Тельтевской Александр Дмитриевич": 112,
-      "Шулепов Евгений Борисович": 119
+      "gas:candidate-vibid:2352000916174": 51,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 11,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 40,
+      "gas:candidate-vibid:2352000919596": 112,
+      "gas:candidate-vibid:2352000920382": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 40,
-      "Шулепов Евгений Борисович": 100
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 40,
+      "gas:candidate-vibid:2352000920382": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 43,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 29,
-      "Тельтевской Александр Дмитриевич": 58,
-      "Шулепов Евгений Борисович": 99
+      "gas:candidate-vibid:2352000916174": 43,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 29,
+      "gas:candidate-vibid:2352000919596": 58,
+      "gas:candidate-vibid:2352000920382": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 75,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 23,
-      "Панько Кирилл Игоревич": 20,
-      "Селин Михаил Васильевич": 58,
-      "Тельтевской Александр Дмитриевич": 136,
-      "Шулепов Евгений Борисович": 187
+      "gas:candidate-vibid:2352000916174": 75,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 23,
+      "gas:candidate-vibid:2352000918201": 20,
+      "gas:candidate-vibid:2352000918267": 58,
+      "gas:candidate-vibid:2352000919596": 136,
+      "gas:candidate-vibid:2352000920382": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 65,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 11,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 48,
-      "Тельтевской Александр Дмитриевич": 99,
-      "Шулепов Евгений Борисович": 158
+      "gas:candidate-vibid:2352000916174": 65,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 11,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 48,
+      "gas:candidate-vibid:2352000919596": 99,
+      "gas:candidate-vibid:2352000920382": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 69,
-      "Доможиров Евгений Валерьевич": 17,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 12,
-      "Панько Кирилл Игоревич": 16,
-      "Селин Михаил Васильевич": 60,
-      "Тельтевской Александр Дмитриевич": 108,
-      "Шулепов Евгений Борисович": 221
+      "gas:candidate-vibid:2352000916174": 69,
+      "gas:candidate-vibid:2352000919585": 17,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 12,
+      "gas:candidate-vibid:2352000918201": 16,
+      "gas:candidate-vibid:2352000918267": 60,
+      "gas:candidate-vibid:2352000919596": 108,
+      "gas:candidate-vibid:2352000920382": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 78,
-      "Доможиров Евгений Валерьевич": 16,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 33,
-      "Селин Михаил Васильевич": 55,
-      "Тельтевской Александр Дмитриевич": 130,
-      "Шулепов Евгений Борисович": 166
+      "gas:candidate-vibid:2352000916174": 78,
+      "gas:candidate-vibid:2352000919585": 16,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 33,
+      "gas:candidate-vibid:2352000918267": 55,
+      "gas:candidate-vibid:2352000919596": 130,
+      "gas:candidate-vibid:2352000920382": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 57,
-      "Доможиров Евгений Валерьевич": 12,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 45,
-      "Тельтевской Александр Дмитриевич": 165,
-      "Шулепов Евгений Борисович": 193
+      "gas:candidate-vibid:2352000916174": 57,
+      "gas:candidate-vibid:2352000919585": 12,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 45,
+      "gas:candidate-vibid:2352000919596": 165,
+      "gas:candidate-vibid:2352000920382": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 106,
-      "Доможиров Евгений Валерьевич": 17,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 19,
-      "Некрасов Алексей Викторович": 15,
-      "Панько Кирилл Игоревич": 21,
-      "Селин Михаил Васильевич": 77,
-      "Тельтевской Александр Дмитриевич": 162,
-      "Шулепов Евгений Борисович": 231
+      "gas:candidate-vibid:2352000916174": 106,
+      "gas:candidate-vibid:2352000919585": 17,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 19,
+      "gas:candidate-vibid:2352000920448": 15,
+      "gas:candidate-vibid:2352000918201": 21,
+      "gas:candidate-vibid:2352000918267": 77,
+      "gas:candidate-vibid:2352000919596": 162,
+      "gas:candidate-vibid:2352000920382": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 52,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 15,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 54,
-      "Тельтевской Александр Дмитриевич": 122,
-      "Шулепов Евгений Борисович": 191
+      "gas:candidate-vibid:2352000916174": 52,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 15,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 54,
+      "gas:candidate-vibid:2352000919596": 122,
+      "gas:candidate-vibid:2352000920382": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 79,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 24,
-      "Селин Михаил Васильевич": 53,
-      "Тельтевской Александр Дмитриевич": 102,
-      "Шулепов Евгений Борисович": 255
+      "gas:candidate-vibid:2352000916174": 79,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 24,
+      "gas:candidate-vibid:2352000918267": 53,
+      "gas:candidate-vibid:2352000919596": 102,
+      "gas:candidate-vibid:2352000920382": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 44,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 46,
-      "Шулепов Евгений Борисович": 95
+      "gas:candidate-vibid:2352000916174": 44,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 46,
+      "gas:candidate-vibid:2352000920382": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 70,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 27,
-      "Селин Михаил Васильевич": 58,
-      "Тельтевской Александр Дмитриевич": 74,
-      "Шулепов Евгений Борисович": 163
+      "gas:candidate-vibid:2352000916174": 70,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 27,
+      "gas:candidate-vibid:2352000918267": 58,
+      "gas:candidate-vibid:2352000919596": 74,
+      "gas:candidate-vibid:2352000920382": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 82,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 57,
-      "Шулепов Евгений Борисович": 162
+      "gas:candidate-vibid:2352000916174": 82,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 57,
+      "gas:candidate-vibid:2352000920382": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 69,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 16,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 47,
-      "Тельтевской Александр Дмитриевич": 76,
-      "Шулепов Евгений Борисович": 163
+      "gas:candidate-vibid:2352000916174": 69,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 16,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 47,
+      "gas:candidate-vibid:2352000919596": 76,
+      "gas:candidate-vibid:2352000920382": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 49,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 13,
-      "Некрасов Алексей Викторович": 19,
-      "Панько Кирилл Игоревич": 28,
-      "Селин Михаил Васильевич": 55,
-      "Тельтевской Александр Дмитриевич": 78,
-      "Шулепов Евгений Борисович": 198
+      "gas:candidate-vibid:2352000916174": 49,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 13,
+      "gas:candidate-vibid:2352000920448": 19,
+      "gas:candidate-vibid:2352000918201": 28,
+      "gas:candidate-vibid:2352000918267": 55,
+      "gas:candidate-vibid:2352000919596": 78,
+      "gas:candidate-vibid:2352000920382": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 63,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 12,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 44,
-      "Тельтевской Александр Дмитриевич": 103,
-      "Шулепов Евгений Борисович": 183
+      "gas:candidate-vibid:2352000916174": 63,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 12,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 44,
+      "gas:candidate-vibid:2352000919596": 103,
+      "gas:candidate-vibid:2352000920382": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 74,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 17,
-      "Панько Кирилл Игоревич": 17,
-      "Селин Михаил Васильевич": 57,
-      "Тельтевской Александр Дмитриевич": 115,
-      "Шулепов Евгений Борисович": 188
+      "gas:candidate-vibid:2352000916174": 74,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 17,
+      "gas:candidate-vibid:2352000918201": 17,
+      "gas:candidate-vibid:2352000918267": 57,
+      "gas:candidate-vibid:2352000919596": 115,
+      "gas:candidate-vibid:2352000920382": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 84,
-      "Доможиров Евгений Валерьевич": 19,
-      "Милюкова Ольга Николаевна": 23,
-      "Михайлов Алексей Леонидович": 13,
-      "Некрасов Алексей Викторович": 12,
-      "Панько Кирилл Игоревич": 24,
-      "Селин Михаил Васильевич": 74,
-      "Тельтевской Александр Дмитриевич": 124,
-      "Шулепов Евгений Борисович": 203
+      "gas:candidate-vibid:2352000916174": 84,
+      "gas:candidate-vibid:2352000919585": 19,
+      "gas:candidate-vibid:2352000919695": 23,
+      "gas:candidate-vibid:2352000951236": 13,
+      "gas:candidate-vibid:2352000920448": 12,
+      "gas:candidate-vibid:2352000918201": 24,
+      "gas:candidate-vibid:2352000918267": 74,
+      "gas:candidate-vibid:2352000919596": 124,
+      "gas:candidate-vibid:2352000920382": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 60,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 17,
-      "Панько Кирилл Игоревич": 19,
-      "Селин Михаил Васильевич": 43,
-      "Тельтевской Александр Дмитриевич": 96,
-      "Шулепов Евгений Борисович": 165
+      "gas:candidate-vibid:2352000916174": 60,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 17,
+      "gas:candidate-vibid:2352000918201": 19,
+      "gas:candidate-vibid:2352000918267": 43,
+      "gas:candidate-vibid:2352000919596": 96,
+      "gas:candidate-vibid:2352000920382": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 17,
-      "Тельтевской Александр Дмитриевич": 30,
-      "Шулепов Евгений Борисович": 47
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 17,
+      "gas:candidate-vibid:2352000919596": 30,
+      "gas:candidate-vibid:2352000920382": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 29,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 16,
-      "Селин Михаил Васильевич": 31,
-      "Тельтевской Александр Дмитриевич": 66,
-      "Шулепов Евгений Борисович": 88
+      "gas:candidate-vibid:2352000916174": 29,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 16,
+      "gas:candidate-vibid:2352000918267": 31,
+      "gas:candidate-vibid:2352000919596": 66,
+      "gas:candidate-vibid:2352000920382": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 101,
-      "Доможиров Евгений Валерьевич": 20,
-      "Милюкова Ольга Николаевна": 24,
-      "Михайлов Алексей Леонидович": 13,
-      "Некрасов Алексей Викторович": 19,
-      "Панько Кирилл Игоревич": 23,
-      "Селин Михаил Васильевич": 85,
-      "Тельтевской Александр Дмитриевич": 104,
-      "Шулепов Евгений Борисович": 316
+      "gas:candidate-vibid:2352000916174": 101,
+      "gas:candidate-vibid:2352000919585": 20,
+      "gas:candidate-vibid:2352000919695": 24,
+      "gas:candidate-vibid:2352000951236": 13,
+      "gas:candidate-vibid:2352000920448": 19,
+      "gas:candidate-vibid:2352000918201": 23,
+      "gas:candidate-vibid:2352000918267": 85,
+      "gas:candidate-vibid:2352000919596": 104,
+      "gas:candidate-vibid:2352000920382": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 109,
-      "Доможиров Евгений Валерьевич": 15,
-      "Милюкова Ольга Николаевна": 24,
-      "Михайлов Алексей Леонидович": 17,
-      "Некрасов Алексей Викторович": 20,
-      "Панько Кирилл Игоревич": 34,
-      "Селин Михаил Васильевич": 77,
-      "Тельтевской Александр Дмитриевич": 98,
-      "Шулепов Евгений Борисович": 330
+      "gas:candidate-vibid:2352000916174": 109,
+      "gas:candidate-vibid:2352000919585": 15,
+      "gas:candidate-vibid:2352000919695": 24,
+      "gas:candidate-vibid:2352000951236": 17,
+      "gas:candidate-vibid:2352000920448": 20,
+      "gas:candidate-vibid:2352000918201": 34,
+      "gas:candidate-vibid:2352000918267": 77,
+      "gas:candidate-vibid:2352000919596": 98,
+      "gas:candidate-vibid:2352000920382": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 11,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 23,
-      "Тельтевской Александр Дмитриевич": 17,
-      "Шулепов Евгений Борисович": 62
+      "gas:candidate-vibid:2352000916174": 11,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 23,
+      "gas:candidate-vibid:2352000919596": 17,
+      "gas:candidate-vibid:2352000920382": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 11,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 25
+      "gas:candidate-vibid:2352000916174": 11,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 28
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 8,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 42
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 8,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 29,
-      "Тельтевской Александр Дмитриевич": 22,
-      "Шулепов Евгений Борисович": 83
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 29,
+      "gas:candidate-vibid:2352000919596": 22,
+      "gas:candidate-vibid:2352000920382": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 14,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 17,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 57,
-      "Шулепов Евгений Борисович": 186
+      "gas:candidate-vibid:2352000916174": 14,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 17,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 57,
+      "gas:candidate-vibid:2352000920382": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 20,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 82
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 20,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 19,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 29
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 19,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 39,
-      "Тельтевской Александр Дмитриевич": 42,
-      "Шулепов Евгений Борисович": 133
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 39,
+      "gas:candidate-vibid:2352000919596": 42,
+      "gas:candidate-vibid:2352000920382": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 26,
-      "Тельтевской Александр Дмитриевич": 39,
-      "Шулепов Евгений Борисович": 165
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 26,
+      "gas:candidate-vibid:2352000919596": 39,
+      "gas:candidate-vibid:2352000920382": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 6,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 39
+      "gas:candidate-vibid:2352000916174": 6,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 21,
-      "Шулепов Евгений Борисович": 66
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 21,
+      "gas:candidate-vibid:2352000920382": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 40,
-      "Шулепов Евгений Борисович": 108
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 40,
+      "gas:candidate-vibid:2352000920382": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 1,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 24
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 1,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869373&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869373&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 5,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 53
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 5,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 67
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 73
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 18,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 60
+      "gas:candidate-vibid:2352000916174": 18,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 62
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 78,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 18,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 23,
-      "Тельтевской Александр Дмитриевич": 19,
-      "Шулепов Евгений Борисович": 142
+      "gas:candidate-vibid:2352000916174": 78,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 18,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 23,
+      "gas:candidate-vibid:2352000919596": 19,
+      "gas:candidate-vibid:2352000920382": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 59,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 23,
-      "Шулепов Евгений Борисович": 116
+      "gas:candidate-vibid:2352000916174": 59,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 23,
+      "gas:candidate-vibid:2352000920382": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 52
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 31
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 15,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 132
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 15,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 22,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 42
+      "gas:candidate-vibid:2352000916174": 22,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 38,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 8,
-      "Тельтевской Александр Дмитриевич": 21,
-      "Шулепов Евгений Борисович": 74
+      "gas:candidate-vibid:2352000916174": 38,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 8,
+      "gas:candidate-vibid:2352000919596": 21,
+      "gas:candidate-vibid:2352000920382": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 8,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 0,
-      "Шулепов Евгений Борисович": 26
+      "gas:candidate-vibid:2352000916174": 8,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 0,
+      "gas:candidate-vibid:2352000920382": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 1,
-      "Шулепов Евгений Борисович": 30
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 1,
+      "gas:candidate-vibid:2352000920382": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 71,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 29,
-      "Тельтевской Александр Дмитриевич": 50,
-      "Шулепов Евгений Борисович": 151
+      "gas:candidate-vibid:2352000916174": 71,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 29,
+      "gas:candidate-vibid:2352000919596": 50,
+      "gas:candidate-vibid:2352000920382": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 44,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 14,
-      "Тельтевской Александр Дмитриевич": 21,
-      "Шулепов Евгений Борисович": 102
+      "gas:candidate-vibid:2352000916174": 44,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 14,
+      "gas:candidate-vibid:2352000919596": 21,
+      "gas:candidate-vibid:2352000920382": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 105,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 38,
-      "Тельтевской Александр Дмитриевич": 75,
-      "Шулепов Евгений Борисович": 245
+      "gas:candidate-vibid:2352000916174": 105,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 38,
+      "gas:candidate-vibid:2352000919596": 75,
+      "gas:candidate-vibid:2352000920382": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 72,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 39,
-      "Шулепов Евгений Борисович": 151
+      "gas:candidate-vibid:2352000916174": 72,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 39,
+      "gas:candidate-vibid:2352000920382": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 113,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 20,
-      "Михайлов Алексей Леонидович": 11,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 39,
-      "Тельтевской Александр Дмитриевич": 87,
-      "Шулепов Евгений Борисович": 295
+      "gas:candidate-vibid:2352000916174": 113,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 20,
+      "gas:candidate-vibid:2352000951236": 11,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 39,
+      "gas:candidate-vibid:2352000919596": 87,
+      "gas:candidate-vibid:2352000920382": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 29,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 90
+      "gas:candidate-vibid:2352000916174": 29,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 39,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 74
+      "gas:candidate-vibid:2352000916174": 39,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 15,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 130
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 15,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869374&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869374&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 70,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 20,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 22,
-      "Селин Михаил Васильевич": 52,
-      "Тельтевской Александр Дмитриевич": 38,
-      "Шулепов Евгений Борисович": 135
+      "gas:candidate-vibid:2352000916174": 70,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 20,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 22,
+      "gas:candidate-vibid:2352000918267": 52,
+      "gas:candidate-vibid:2352000919596": 38,
+      "gas:candidate-vibid:2352000920382": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 31,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 18,
-      "Тельтевской Александр Дмитриевич": 27,
-      "Шулепов Евгений Борисович": 87
+      "gas:candidate-vibid:2352000916174": 31,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 18,
+      "gas:candidate-vibid:2352000919596": 27,
+      "gas:candidate-vibid:2352000920382": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 63,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 44,
-      "Тельтевской Александр Дмитриевич": 49,
-      "Шулепов Евгений Борисович": 148
+      "gas:candidate-vibid:2352000916174": 63,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 44,
+      "gas:candidate-vibid:2352000919596": 49,
+      "gas:candidate-vibid:2352000920382": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 50,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 58,
-      "Тельтевской Александр Дмитриевич": 57,
-      "Шулепов Евгений Борисович": 146
+      "gas:candidate-vibid:2352000916174": 50,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 58,
+      "gas:candidate-vibid:2352000919596": 57,
+      "gas:candidate-vibid:2352000920382": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 45,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 30,
-      "Тельтевской Александр Дмитриевич": 44,
-      "Шулепов Евгений Борисович": 135
+      "gas:candidate-vibid:2352000916174": 45,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 30,
+      "gas:candidate-vibid:2352000919596": 44,
+      "gas:candidate-vibid:2352000920382": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 50,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 25,
-      "Селин Михаил Васильевич": 49,
-      "Тельтевской Александр Дмитриевич": 54,
-      "Шулепов Евгений Борисович": 153
+      "gas:candidate-vibid:2352000916174": 50,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 25,
+      "gas:candidate-vibid:2352000918267": 49,
+      "gas:candidate-vibid:2352000919596": 54,
+      "gas:candidate-vibid:2352000920382": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 25,
-      "Шулепов Евгений Борисович": 60
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 25,
+      "gas:candidate-vibid:2352000920382": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 46,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 44,
-      "Тельтевской Александр Дмитриевич": 18,
-      "Шулепов Евгений Борисович": 175
+      "gas:candidate-vibid:2352000916174": 46,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 44,
+      "gas:candidate-vibid:2352000919596": 18,
+      "gas:candidate-vibid:2352000920382": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 32,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 106
+      "gas:candidate-vibid:2352000916174": 32,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 20,
-      "Шулепов Евгений Борисович": 97
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 20,
+      "gas:candidate-vibid:2352000920382": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 14,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 33
+      "gas:candidate-vibid:2352000916174": 14,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 12,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 32
+      "gas:candidate-vibid:2352000916174": 12,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 27,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 38,
-      "Тельтевской Александр Дмитриевич": 19,
-      "Шулепов Евгений Борисович": 72
+      "gas:candidate-vibid:2352000916174": 27,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 38,
+      "gas:candidate-vibid:2352000919596": 19,
+      "gas:candidate-vibid:2352000920382": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 4,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 46
+      "gas:candidate-vibid:2352000916174": 4,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 6,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 18
+      "gas:candidate-vibid:2352000916174": 6,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 56,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 29,
-      "Селин Михаил Васильевич": 68,
-      "Тельтевской Александр Дмитриевич": 22,
-      "Шулепов Евгений Борисович": 170
+      "gas:candidate-vibid:2352000916174": 56,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 29,
+      "gas:candidate-vibid:2352000918267": 68,
+      "gas:candidate-vibid:2352000919596": 22,
+      "gas:candidate-vibid:2352000920382": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 4,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 0,
-      "Тельтевской Александр Дмитриевич": 0,
-      "Шулепов Евгений Борисович": 23
+      "gas:candidate-vibid:2352000916174": 4,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 0,
+      "gas:candidate-vibid:2352000919596": 0,
+      "gas:candidate-vibid:2352000920382": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 5,
-      "Тельтевской Александр Дмитриевич": 22,
-      "Шулепов Евгений Борисович": 104
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 5,
+      "gas:candidate-vibid:2352000919596": 22,
+      "gas:candidate-vibid:2352000920382": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 27,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 15,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 67
+      "gas:candidate-vibid:2352000916174": 27,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 15,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 19,
-      "Тельтевской Александр Дмитриевич": 14,
-      "Шулепов Евгений Борисович": 121
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 19,
+      "gas:candidate-vibid:2352000919596": 14,
+      "gas:candidate-vibid:2352000920382": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 36,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 18,
-      "Шулепов Евгений Борисович": 179
+      "gas:candidate-vibid:2352000916174": 36,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 18,
+      "gas:candidate-vibid:2352000920382": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 10,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 30,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 20
+      "gas:candidate-vibid:2352000916174": 10,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 30,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 37,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 26,
-      "Тельтевской Александр Дмитриевич": 16,
-      "Шулепов Евгений Борисович": 149
+      "gas:candidate-vibid:2352000916174": 37,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 26,
+      "gas:candidate-vibid:2352000919596": 16,
+      "gas:candidate-vibid:2352000920382": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 28,
-      "Тельтевской Александр Дмитриевич": 26,
-      "Шулепов Евгений Борисович": 97
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 28,
+      "gas:candidate-vibid:2352000919596": 26,
+      "gas:candidate-vibid:2352000920382": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 44,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 33,
-      "Тельтевской Александр Дмитриевич": 45,
-      "Шулепов Евгений Борисович": 160
+      "gas:candidate-vibid:2352000916174": 44,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 33,
+      "gas:candidate-vibid:2352000919596": 45,
+      "gas:candidate-vibid:2352000920382": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 50
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 37,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 26,
-      "Шулепов Евгений Борисович": 60
+      "gas:candidate-vibid:2352000916174": 37,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 26,
+      "gas:candidate-vibid:2352000920382": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 3,
-      "Шулепов Евгений Борисович": 48
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 3,
+      "gas:candidate-vibid:2352000920382": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 19,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 89
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 19,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 65
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 20,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 8,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 57
+      "gas:candidate-vibid:2352000916174": 20,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 8,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 41
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 11,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 25
+      "gas:candidate-vibid:2352000916174": 11,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 63,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 15,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 121
+      "gas:candidate-vibid:2352000916174": 63,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 15,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 29
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 25,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 18,
-      "Тельтевской Александр Дмитриевич": 3,
-      "Шулепов Евгений Борисович": 106
+      "gas:candidate-vibid:2352000916174": 25,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 18,
+      "gas:candidate-vibid:2352000919596": 3,
+      "gas:candidate-vibid:2352000920382": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 5,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 67
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 5,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 25
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 51
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 43
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 29,
-      "Шулепов Евгений Борисович": 99
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 29,
+      "gas:candidate-vibid:2352000920382": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 22,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 15,
-      "Шулепов Евгений Борисович": 48
+      "gas:candidate-vibid:2352000916174": 22,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 15,
+      "gas:candidate-vibid:2352000920382": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869375&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869375&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 38,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 24,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 146
+      "gas:candidate-vibid:2352000916174": 38,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 24,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 8,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 8,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 57
+      "gas:candidate-vibid:2352000916174": 8,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 8,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 61,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 19,
-      "Селин Михаил Васильевич": 39,
-      "Тельтевской Александр Дмитриевич": 20,
-      "Шулепов Евгений Борисович": 135
+      "gas:candidate-vibid:2352000916174": 61,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 19,
+      "gas:candidate-vibid:2352000918267": 39,
+      "gas:candidate-vibid:2352000919596": 20,
+      "gas:candidate-vibid:2352000920382": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 32,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 36,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 67
+      "gas:candidate-vibid:2352000916174": 32,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 36,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 83,
-      "Доможиров Евгений Валерьевич": 14,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 14,
-      "Панько Кирилл Игоревич": 28,
-      "Селин Михаил Васильевич": 94,
-      "Тельтевской Александр Дмитриевич": 42,
-      "Шулепов Евгений Борисович": 256
+      "gas:candidate-vibid:2352000916174": 83,
+      "gas:candidate-vibid:2352000919585": 14,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 14,
+      "gas:candidate-vibid:2352000918201": 28,
+      "gas:candidate-vibid:2352000918267": 94,
+      "gas:candidate-vibid:2352000919596": 42,
+      "gas:candidate-vibid:2352000920382": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 44,
-      "Доможиров Евгений Валерьевич": 9,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 68,
-      "Тельтевской Александр Дмитриевич": 20,
-      "Шулепов Евгений Борисович": 149
+      "gas:candidate-vibid:2352000916174": 44,
+      "gas:candidate-vibid:2352000919585": 9,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 68,
+      "gas:candidate-vibid:2352000919596": 20,
+      "gas:candidate-vibid:2352000920382": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 29,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 30,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 113
+      "gas:candidate-vibid:2352000916174": 29,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 30,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 70
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 16
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 45,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 19,
-      "Шулепов Евгений Борисович": 145
+      "gas:candidate-vibid:2352000916174": 45,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 19,
+      "gas:candidate-vibid:2352000920382": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 114
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869376&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869376&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 28,
-      "Тельтевской Александр Дмитриевич": 16,
-      "Шулепов Евгений Борисович": 159
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 28,
+      "gas:candidate-vibid:2352000919596": 16,
+      "gas:candidate-vibid:2352000920382": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 22,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 78
+      "gas:candidate-vibid:2352000916174": 22,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 3,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 28
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 3,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 54,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 42,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 196
+      "gas:candidate-vibid:2352000916174": 54,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 42,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 27,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 7,
-      "Шулепов Евгений Борисович": 76
+      "gas:candidate-vibid:2352000916174": 27,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 7,
+      "gas:candidate-vibid:2352000920382": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 59,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 44,
-      "Тельтевской Александр Дмитриевич": 32,
-      "Шулепов Евгений Борисович": 203
+      "gas:candidate-vibid:2352000916174": 59,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 44,
+      "gas:candidate-vibid:2352000919596": 32,
+      "gas:candidate-vibid:2352000920382": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 125,
-      "Доможиров Евгений Валерьевич": 15,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 14,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 39,
-      "Селин Михаил Васильевич": 219,
-      "Тельтевской Александр Дмитриевич": 126,
-      "Шулепов Евгений Борисович": 399
+      "gas:candidate-vibid:2352000916174": 125,
+      "gas:candidate-vibid:2352000919585": 15,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 14,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 39,
+      "gas:candidate-vibid:2352000918267": 219,
+      "gas:candidate-vibid:2352000919596": 126,
+      "gas:candidate-vibid:2352000920382": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 129,
-      "Доможиров Евгений Валерьевич": 16,
-      "Милюкова Ольга Николаевна": 26,
-      "Михайлов Алексей Леонидович": 14,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 40,
-      "Селин Михаил Васильевич": 159,
-      "Тельтевской Александр Дмитриевич": 118,
-      "Шулепов Евгений Борисович": 389
+      "gas:candidate-vibid:2352000916174": 129,
+      "gas:candidate-vibid:2352000919585": 16,
+      "gas:candidate-vibid:2352000919695": 26,
+      "gas:candidate-vibid:2352000951236": 14,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 40,
+      "gas:candidate-vibid:2352000918267": 159,
+      "gas:candidate-vibid:2352000919596": 118,
+      "gas:candidate-vibid:2352000920382": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 27,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 29,
-      "Тельтевской Александр Дмитриевич": 23,
-      "Шулепов Евгений Борисович": 80
+      "gas:candidate-vibid:2352000916174": 27,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 29,
+      "gas:candidate-vibid:2352000919596": 23,
+      "gas:candidate-vibid:2352000920382": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 41,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 59,
-      "Тельтевской Александр Дмитриевич": 36,
-      "Шулепов Евгений Борисович": 129
+      "gas:candidate-vibid:2352000916174": 41,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 59,
+      "gas:candidate-vibid:2352000919596": 36,
+      "gas:candidate-vibid:2352000920382": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 24,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 19,
-      "Шулепов Евгений Борисович": 102
+      "gas:candidate-vibid:2352000916174": 24,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 19,
+      "gas:candidate-vibid:2352000920382": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 96
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 15,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 51
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 15,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 18,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 1,
-      "Шулепов Евгений Борисович": 93
+      "gas:candidate-vibid:2352000916174": 18,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 1,
+      "gas:candidate-vibid:2352000920382": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 22,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 17,
-      "Селин Михаил Васильевич": 31,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 93
+      "gas:candidate-vibid:2352000916174": 22,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 17,
+      "gas:candidate-vibid:2352000918267": 31,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 20,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 74
+      "gas:candidate-vibid:2352000916174": 20,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 95
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 30,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 17,
-      "Селин Михаил Васильевич": 35,
-      "Тельтевской Александр Дмитриевич": 17,
-      "Шулепов Евгений Борисович": 219
+      "gas:candidate-vibid:2352000916174": 30,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 17,
+      "gas:candidate-vibid:2352000918267": 35,
+      "gas:candidate-vibid:2352000919596": 17,
+      "gas:candidate-vibid:2352000920382": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 53,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 61
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 53,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 37
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 31,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 23,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 127
+      "gas:candidate-vibid:2352000916174": 31,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 23,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 85
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 34,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 14,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 120
+      "gas:candidate-vibid:2352000916174": 34,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 14,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 27,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 27,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 102
+      "gas:candidate-vibid:2352000916174": 27,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 27,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 12,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 84
+      "gas:candidate-vibid:2352000916174": 12,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 32,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 63,
-      "Тельтевской Александр Дмитриевич": 19,
-      "Шулепов Евгений Борисович": 171
+      "gas:candidate-vibid:2352000916174": 32,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 63,
+      "gas:candidate-vibid:2352000919596": 19,
+      "gas:candidate-vibid:2352000920382": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 33,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 1,
-      "Шулепов Евгений Борисович": 70
+      "gas:candidate-vibid:2352000916174": 33,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 1,
+      "gas:candidate-vibid:2352000920382": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 8,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 72
+      "gas:candidate-vibid:2352000916174": 8,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 6,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 52
+      "gas:candidate-vibid:2352000916174": 6,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 51
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 42,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 12,
-      "Селин Михаил Васильевич": 52,
-      "Тельтевской Александр Дмитриевич": 27,
-      "Шулепов Евгений Борисович": 182
+      "gas:candidate-vibid:2352000916174": 42,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 12,
+      "gas:candidate-vibid:2352000918267": 52,
+      "gas:candidate-vibid:2352000919596": 27,
+      "gas:candidate-vibid:2352000920382": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869377&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869377&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 106,
-      "Доможиров Евгений Валерьевич": 12,
-      "Милюкова Ольга Николаевна": 19,
-      "Михайлов Алексей Леонидович": 23,
-      "Некрасов Алексей Викторович": 41,
-      "Панько Кирилл Игоревич": 35,
-      "Селин Михаил Васильевич": 128,
-      "Тельтевской Александр Дмитриевич": 132,
-      "Шулепов Евгений Борисович": 311
+      "gas:candidate-vibid:2352000916174": 106,
+      "gas:candidate-vibid:2352000919585": 12,
+      "gas:candidate-vibid:2352000919695": 19,
+      "gas:candidate-vibid:2352000951236": 23,
+      "gas:candidate-vibid:2352000920448": 41,
+      "gas:candidate-vibid:2352000918201": 35,
+      "gas:candidate-vibid:2352000918267": 128,
+      "gas:candidate-vibid:2352000919596": 132,
+      "gas:candidate-vibid:2352000920382": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 104,
-      "Доможиров Евгений Валерьевич": 24,
-      "Милюкова Ольга Николаевна": 30,
-      "Михайлов Алексей Леонидович": 14,
-      "Некрасов Алексей Викторович": 44,
-      "Панько Кирилл Игоревич": 40,
-      "Селин Михаил Васильевич": 103,
-      "Тельтевской Александр Дмитриевич": 159,
-      "Шулепов Евгений Борисович": 335
+      "gas:candidate-vibid:2352000916174": 104,
+      "gas:candidate-vibid:2352000919585": 24,
+      "gas:candidate-vibid:2352000919695": 30,
+      "gas:candidate-vibid:2352000951236": 14,
+      "gas:candidate-vibid:2352000920448": 44,
+      "gas:candidate-vibid:2352000918201": 40,
+      "gas:candidate-vibid:2352000918267": 103,
+      "gas:candidate-vibid:2352000919596": 159,
+      "gas:candidate-vibid:2352000920382": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 101,
-      "Доможиров Евгений Валерьевич": 19,
-      "Милюкова Ольга Николаевна": 20,
-      "Михайлов Алексей Леонидович": 14,
-      "Некрасов Алексей Викторович": 39,
-      "Панько Кирилл Игоревич": 30,
-      "Селин Михаил Васильевич": 117,
-      "Тельтевской Александр Дмитриевич": 132,
-      "Шулепов Евгений Борисович": 213
+      "gas:candidate-vibid:2352000916174": 101,
+      "gas:candidate-vibid:2352000919585": 19,
+      "gas:candidate-vibid:2352000919695": 20,
+      "gas:candidate-vibid:2352000951236": 14,
+      "gas:candidate-vibid:2352000920448": 39,
+      "gas:candidate-vibid:2352000918201": 30,
+      "gas:candidate-vibid:2352000918267": 117,
+      "gas:candidate-vibid:2352000919596": 132,
+      "gas:candidate-vibid:2352000920382": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 53,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 22,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 59,
-      "Тельтевской Александр Дмитриевич": 62,
-      "Шулепов Евгений Борисович": 136
+      "gas:candidate-vibid:2352000916174": 53,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 22,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 59,
+      "gas:candidate-vibid:2352000919596": 62,
+      "gas:candidate-vibid:2352000920382": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 65,
-      "Доможиров Евгений Валерьевич": 17,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 15,
-      "Панько Кирилл Игоревич": 23,
-      "Селин Михаил Васильевич": 91,
-      "Тельтевской Александр Дмитриевич": 56,
-      "Шулепов Евгений Борисович": 142
+      "gas:candidate-vibid:2352000916174": 65,
+      "gas:candidate-vibid:2352000919585": 17,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 15,
+      "gas:candidate-vibid:2352000918201": 23,
+      "gas:candidate-vibid:2352000918267": 91,
+      "gas:candidate-vibid:2352000919596": 56,
+      "gas:candidate-vibid:2352000920382": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 85,
-      "Доможиров Евгений Валерьевич": 14,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 20,
-      "Панько Кирилл Игоревич": 20,
-      "Селин Михаил Васильевич": 60,
-      "Тельтевской Александр Дмитриевич": 54,
-      "Шулепов Евгений Борисович": 181
+      "gas:candidate-vibid:2352000916174": 85,
+      "gas:candidate-vibid:2352000919585": 14,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 20,
+      "gas:candidate-vibid:2352000918201": 20,
+      "gas:candidate-vibid:2352000918267": 60,
+      "gas:candidate-vibid:2352000919596": 54,
+      "gas:candidate-vibid:2352000920382": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 59,
-      "Доможиров Евгений Валерьевич": 10,
-      "Милюкова Ольга Николаевна": 18,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 21,
-      "Панько Кирилл Игоревич": 25,
-      "Селин Михаил Васильевич": 74,
-      "Тельтевской Александр Дмитриевич": 72,
-      "Шулепов Евгений Борисович": 151
+      "gas:candidate-vibid:2352000916174": 59,
+      "gas:candidate-vibid:2352000919585": 10,
+      "gas:candidate-vibid:2352000919695": 18,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 21,
+      "gas:candidate-vibid:2352000918201": 25,
+      "gas:candidate-vibid:2352000918267": 74,
+      "gas:candidate-vibid:2352000919596": 72,
+      "gas:candidate-vibid:2352000920382": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 120,
-      "Доможиров Евгений Валерьевич": 17,
-      "Милюкова Ольга Николаевна": 28,
-      "Михайлов Алексей Леонидович": 16,
-      "Некрасов Алексей Викторович": 26,
-      "Панько Кирилл Игоревич": 34,
-      "Селин Михаил Васильевич": 116,
-      "Тельтевской Александр Дмитриевич": 76,
-      "Шулепов Евгений Борисович": 282
+      "gas:candidate-vibid:2352000916174": 120,
+      "gas:candidate-vibid:2352000919585": 17,
+      "gas:candidate-vibid:2352000919695": 28,
+      "gas:candidate-vibid:2352000951236": 16,
+      "gas:candidate-vibid:2352000920448": 26,
+      "gas:candidate-vibid:2352000918201": 34,
+      "gas:candidate-vibid:2352000918267": 116,
+      "gas:candidate-vibid:2352000919596": 76,
+      "gas:candidate-vibid:2352000920382": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 58,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 13,
-      "Панько Кирилл Игоревич": 23,
-      "Селин Михаил Васильевич": 82,
-      "Тельтевской Александр Дмитриевич": 58,
-      "Шулепов Евгений Борисович": 153
+      "gas:candidate-vibid:2352000916174": 58,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 13,
+      "gas:candidate-vibid:2352000918201": 23,
+      "gas:candidate-vibid:2352000918267": 82,
+      "gas:candidate-vibid:2352000919596": 58,
+      "gas:candidate-vibid:2352000920382": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 117,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 21,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 16,
-      "Панько Кирилл Игоревич": 51,
-      "Селин Михаил Васильевич": 130,
-      "Тельтевской Александр Дмитриевич": 38,
-      "Шулепов Евгений Борисович": 201
+      "gas:candidate-vibid:2352000916174": 117,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 21,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 16,
+      "gas:candidate-vibid:2352000918201": 51,
+      "gas:candidate-vibid:2352000918267": 130,
+      "gas:candidate-vibid:2352000919596": 38,
+      "gas:candidate-vibid:2352000920382": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 79,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 16,
-      "Михайлов Алексей Леонидович": 12,
-      "Некрасов Алексей Викторович": 10,
-      "Панько Кирилл Игоревич": 32,
-      "Селин Михаил Васильевич": 98,
-      "Тельтевской Александр Дмитриевич": 44,
-      "Шулепов Евгений Борисович": 167
+      "gas:candidate-vibid:2352000916174": 79,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 16,
+      "gas:candidate-vibid:2352000951236": 12,
+      "gas:candidate-vibid:2352000920448": 10,
+      "gas:candidate-vibid:2352000918201": 32,
+      "gas:candidate-vibid:2352000918267": 98,
+      "gas:candidate-vibid:2352000919596": 44,
+      "gas:candidate-vibid:2352000920382": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 97,
-      "Доможиров Евгений Валерьевич": 14,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 11,
-      "Некрасов Алексей Викторович": 19,
-      "Панько Кирилл Игоревич": 33,
-      "Селин Михаил Васильевич": 110,
-      "Тельтевской Александр Дмитриевич": 59,
-      "Шулепов Евгений Борисович": 201
+      "gas:candidate-vibid:2352000916174": 97,
+      "gas:candidate-vibid:2352000919585": 14,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 11,
+      "gas:candidate-vibid:2352000920448": 19,
+      "gas:candidate-vibid:2352000918201": 33,
+      "gas:candidate-vibid:2352000918267": 110,
+      "gas:candidate-vibid:2352000919596": 59,
+      "gas:candidate-vibid:2352000920382": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 47,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 11,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 20,
-      "Селин Михаил Васильевич": 67,
-      "Тельтевской Александр Дмитриевич": 32,
-      "Шулепов Евгений Борисович": 100
+      "gas:candidate-vibid:2352000916174": 47,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 11,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 20,
+      "gas:candidate-vibid:2352000918267": 67,
+      "gas:candidate-vibid:2352000919596": 32,
+      "gas:candidate-vibid:2352000920382": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 38,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 25,
-      "Селин Михаил Васильевич": 34,
-      "Тельтевской Александр Дмитриевич": 24,
-      "Шулепов Евгений Борисович": 86
+      "gas:candidate-vibid:2352000916174": 38,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 25,
+      "gas:candidate-vibid:2352000918267": 34,
+      "gas:candidate-vibid:2352000919596": 24,
+      "gas:candidate-vibid:2352000920382": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 20,
-      "Тельтевской Александр Дмитриевич": 3,
-      "Шулепов Евгений Борисович": 33
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 20,
+      "gas:candidate-vibid:2352000919596": 3,
+      "gas:candidate-vibid:2352000920382": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 24
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 4,
-      "Шулепов Евгений Борисович": 57
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 4,
+      "gas:candidate-vibid:2352000920382": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 35,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 67
+      "gas:candidate-vibid:2352000916174": 35,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 8,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 121
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 8,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 30,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 27,
-      "Шулепов Евгений Борисович": 169
+      "gas:candidate-vibid:2352000916174": 30,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 27,
+      "gas:candidate-vibid:2352000920382": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 38,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 14,
-      "Тельтевской Александр Дмитриевич": 17,
-      "Шулепов Евгений Борисович": 104
+      "gas:candidate-vibid:2352000916174": 38,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 14,
+      "gas:candidate-vibid:2352000919596": 17,
+      "gas:candidate-vibid:2352000920382": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 10,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 53
+      "gas:candidate-vibid:2352000916174": 10,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 70,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 16,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 38,
-      "Панько Кирилл Игоревич": 23,
-      "Селин Михаил Васильевич": 55,
-      "Тельтевской Александр Дмитриевич": 39,
-      "Шулепов Евгений Борисович": 241
+      "gas:candidate-vibid:2352000916174": 70,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 16,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 38,
+      "gas:candidate-vibid:2352000918201": 23,
+      "gas:candidate-vibid:2352000918267": 55,
+      "gas:candidate-vibid:2352000919596": 39,
+      "gas:candidate-vibid:2352000920382": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 25,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 53
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 25,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 14,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 62
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 14,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 28,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 17,
-      "Шулепов Евгений Борисович": 82
+      "gas:candidate-vibid:2352000916174": 28,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 17,
+      "gas:candidate-vibid:2352000920382": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 47,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 16,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 23,
-      "Тельтевской Александр Дмитриевич": 32,
-      "Шулепов Евгений Борисович": 118
+      "gas:candidate-vibid:2352000916174": 47,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 16,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 23,
+      "gas:candidate-vibid:2352000919596": 32,
+      "gas:candidate-vibid:2352000920382": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 18,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 37,
-      "Шулепов Евгений Борисович": 75
+      "gas:candidate-vibid:2352000916174": 18,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 37,
+      "gas:candidate-vibid:2352000920382": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 26,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 2,
-      "Шулепов Евгений Борисович": 57
+      "gas:candidate-vibid:2352000916174": 26,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 2,
+      "gas:candidate-vibid:2352000920382": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 32,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 9,
-      "Шулепов Евгений Борисович": 37
+      "gas:candidate-vibid:2352000916174": 32,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 9,
+      "gas:candidate-vibid:2352000920382": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_35_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 39,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 7,
-      "Панько Кирилл Игоревич": 11,
-      "Селин Михаил Васильевич": 19,
-      "Тельтевской Александр Дмитриевич": 26,
-      "Шулепов Евгений Борисович": 155
+      "gas:candidate-vibid:2352000916174": 39,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 7,
+      "gas:candidate-vibid:2352000918201": 11,
+      "gas:candidate-vibid:2352000918267": 19,
+      "gas:candidate-vibid:2352000919596": 26,
+      "gas:candidate-vibid:2352000920382": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869378&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869378&type=464",

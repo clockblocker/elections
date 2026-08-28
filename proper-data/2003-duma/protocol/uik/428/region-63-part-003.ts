@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 30,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 159,
-      "Макашов Альберт Михайлович": 299,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 5,
-      "Федоров Михаил Васильевич": 137,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000112248": 30,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 159,
+      "gas:candidate-vibid:1001000121901": 299,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 5,
+      "gas:candidate-vibid:1001000225979": 137,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 29,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 127,
-      "Макашов Альберт Михайлович": 344,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 174,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 29,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 127,
+      "gas:candidate-vibid:1001000121901": 344,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 174,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 44,
-      "Венедиктов Юрий Николаевич": 36,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 173,
-      "Макашов Альберт Михайлович": 354,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 163,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000112248": 44,
+      "gas:candidate-vibid:1001000136114": 36,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 173,
+      "gas:candidate-vibid:1001000121901": 354,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 163,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 25,
-      "Венедиктов Юрий Николаевич": 25,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 129,
-      "Макашов Альберт Михайлович": 211,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 101,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000112248": 25,
+      "gas:candidate-vibid:1001000136114": 25,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 129,
+      "gas:candidate-vibid:1001000121901": 211,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 101,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 32,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 6,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 83,
-      "Макашов Альберт Михайлович": 169,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 85,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 32,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 6,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 83,
+      "gas:candidate-vibid:1001000121901": 169,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 85,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 41,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 27,
-      "Гусенков Виталий Волеевич": 14,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 146,
-      "Макашов Альберт Михайлович": 478,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 143,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000112248": 41,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 27,
+      "gas:candidate-vibid:363300270568": 14,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 146,
+      "gas:candidate-vibid:1001000121901": 478,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 143,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 31,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 169,
-      "Макашов Альберт Михайлович": 247,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 137,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 31,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 169,
+      "gas:candidate-vibid:1001000121901": 247,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 137,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 21,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 81,
-      "Макашов Альберт Михайлович": 207,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 5,
-      "Федоров Михаил Васильевич": 91,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 21,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 81,
+      "gas:candidate-vibid:1001000121901": 207,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 5,
+      "gas:candidate-vibid:1001000225979": 91,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 64,
-      "Венедиктов Юрий Николаевич": 33,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 127,
-      "Макашов Альберт Михайлович": 272,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 137,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000112248": 64,
+      "gas:candidate-vibid:1001000136114": 33,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 127,
+      "gas:candidate-vibid:1001000121901": 272,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 137,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 28,
-      "Венедиктов Юрий Николаевич": 30,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 149,
-      "Макашов Альберт Михайлович": 231,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 101,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112248": 28,
+      "gas:candidate-vibid:1001000136114": 30,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 149,
+      "gas:candidate-vibid:1001000121901": 231,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 101,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 37,
-      "Венедиктов Юрий Николаевич": 28,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 117,
-      "Макашов Альберт Михайлович": 242,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 94,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000112248": 37,
+      "gas:candidate-vibid:1001000136114": 28,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 117,
+      "gas:candidate-vibid:1001000121901": 242,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 94,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 33,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 24,
-      "Гусенков Виталий Волеевич": 38,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 197,
-      "Макашов Альберт Михайлович": 377,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 160,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000112248": 33,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 24,
+      "gas:candidate-vibid:363300270568": 38,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 197,
+      "gas:candidate-vibid:1001000121901": 377,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 160,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 17,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 9,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 88,
-      "Макашов Альберт Михайлович": 129,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 85,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112248": 17,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 9,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 88,
+      "gas:candidate-vibid:1001000121901": 129,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 85,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 23,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 131,
-      "Макашов Альберт Михайлович": 246,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 99,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 23,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 131,
+      "gas:candidate-vibid:1001000121901": 246,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 99,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 36,
-      "Венедиктов Юрий Николаевич": 31,
-      "Гужов Виктор Валентинович": 16,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 153,
-      "Макашов Альберт Михайлович": 289,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 138,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000112248": 36,
+      "gas:candidate-vibid:1001000136114": 31,
+      "gas:candidate-vibid:363300270493": 16,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 153,
+      "gas:candidate-vibid:1001000121901": 289,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 138,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 112,
-      "Макашов Альберт Михайлович": 260,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 95,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 112,
+      "gas:candidate-vibid:1001000121901": 260,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 95,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 50,
-      "Венедиктов Юрий Николаевич": 22,
-      "Гужов Виктор Валентинович": 34,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 178,
-      "Макашов Альберт Михайлович": 372,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 108,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000112248": 50,
+      "gas:candidate-vibid:1001000136114": 22,
+      "gas:candidate-vibid:363300270493": 34,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 178,
+      "gas:candidate-vibid:1001000121901": 372,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 108,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 48,
-      "Гужов Виктор Валентинович": 24,
-      "Гусенков Виталий Волеевич": 26,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 186,
-      "Макашов Альберт Михайлович": 322,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 124,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 48,
+      "gas:candidate-vibid:363300270493": 24,
+      "gas:candidate-vibid:363300270568": 26,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 186,
+      "gas:candidate-vibid:1001000121901": 322,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 124,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 25,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 23,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 202,
-      "Макашов Альберт Михайлович": 331,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 131,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000112248": 25,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 23,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 202,
+      "gas:candidate-vibid:1001000121901": 331,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 131,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 33,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 224,
-      "Макашов Альберт Михайлович": 389,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 178,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000112248": 33,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 224,
+      "gas:candidate-vibid:1001000121901": 389,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 178,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 24,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 148,
-      "Макашов Альберт Михайлович": 302,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 121,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 24,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 148,
+      "gas:candidate-vibid:1001000121901": 302,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 121,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 30,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 114,
-      "Макашов Альберт Михайлович": 329,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 160,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000112248": 30,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 114,
+      "gas:candidate-vibid:1001000121901": 329,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 160,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 49,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 218,
-      "Макашов Альберт Михайлович": 316,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 147,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112248": 49,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 218,
+      "gas:candidate-vibid:1001000121901": 316,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 147,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 28,
-      "Венедиктов Юрий Николаевич": 30,
-      "Гужов Виктор Валентинович": 21,
-      "Гусенков Виталий Волеевич": 21,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 156,
-      "Макашов Альберт Михайлович": 320,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 120,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000112248": 28,
+      "gas:candidate-vibid:1001000136114": 30,
+      "gas:candidate-vibid:363300270493": 21,
+      "gas:candidate-vibid:363300270568": 21,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 156,
+      "gas:candidate-vibid:1001000121901": 320,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 120,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 28,
-      "Гужов Виктор Валентинович": 17,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 171,
-      "Макашов Альберт Михайлович": 232,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 81,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 28,
+      "gas:candidate-vibid:363300270493": 17,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 171,
+      "gas:candidate-vibid:1001000121901": 232,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 81,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 29,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 198,
-      "Макашов Альберт Михайлович": 265,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 5,
-      "Федоров Михаил Васильевич": 112,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 29,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 198,
+      "gas:candidate-vibid:1001000121901": 265,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 5,
+      "gas:candidate-vibid:1001000225979": 112,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 62,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 32,
-      "Гусенков Виталий Волеевич": 31,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 185,
-      "Макашов Альберт Михайлович": 342,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 5,
-      "Федоров Михаил Васильевич": 157,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000112248": 62,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 32,
+      "gas:candidate-vibid:363300270568": 31,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 185,
+      "gas:candidate-vibid:1001000121901": 342,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 5,
+      "gas:candidate-vibid:1001000225979": 157,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 55,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 145,
-      "Макашов Альберт Михайлович": 300,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 19,
-      "Федоров Михаил Васильевич": 148,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112248": 55,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 145,
+      "gas:candidate-vibid:1001000121901": 300,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 19,
+      "gas:candidate-vibid:1001000225979": 148,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 48,
-      "Венедиктов Юрий Николаевич": 44,
-      "Гужов Виктор Валентинович": 21,
-      "Гусенков Виталий Волеевич": 38,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 192,
-      "Макашов Альберт Михайлович": 334,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 129,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000112248": 48,
+      "gas:candidate-vibid:1001000136114": 44,
+      "gas:candidate-vibid:363300270493": 21,
+      "gas:candidate-vibid:363300270568": 38,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 192,
+      "gas:candidate-vibid:1001000121901": 334,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 129,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 79,
-      "Венедиктов Юрий Николаевич": 56,
-      "Гужов Виктор Валентинович": 27,
-      "Гусенков Виталий Волеевич": 34,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 147,
-      "Макашов Альберт Михайлович": 529,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 188,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000112248": 79,
+      "gas:candidate-vibid:1001000136114": 56,
+      "gas:candidate-vibid:363300270493": 27,
+      "gas:candidate-vibid:363300270568": 34,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 147,
+      "gas:candidate-vibid:1001000121901": 529,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 188,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 63,
-      "Венедиктов Юрий Николаевич": 64,
-      "Гужов Виктор Валентинович": 47,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 705,
-      "Макашов Альберт Михайлович": 446,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 161,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000112248": 63,
+      "gas:candidate-vibid:1001000136114": 64,
+      "gas:candidate-vibid:363300270493": 47,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 705,
+      "gas:candidate-vibid:1001000121901": 446,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 161,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 51,
-      "Венедиктов Юрий Николаевич": 51,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 34,
-      "Лекарева Вера Александровна": 203,
-      "Макашов Альберт Михайлович": 460,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 183,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000112248": 51,
+      "gas:candidate-vibid:1001000136114": 51,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 34,
+      "gas:candidate-vibid:363300270559": 203,
+      "gas:candidate-vibid:1001000121901": 460,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 183,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 72,
-      "Венедиктов Юрий Николаевич": 38,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 38,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 199,
-      "Макашов Альберт Михайлович": 445,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 22,
-      "Федоров Михаил Васильевич": 185,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000112248": 72,
+      "gas:candidate-vibid:1001000136114": 38,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 38,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 199,
+      "gas:candidate-vibid:1001000121901": 445,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 22,
+      "gas:candidate-vibid:1001000225979": 185,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 90,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 22,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 202,
-      "Макашов Альберт Михайлович": 386,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 22,
-      "Федоров Михаил Васильевич": 167,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000112248": 90,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 22,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 202,
+      "gas:candidate-vibid:1001000121901": 386,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 22,
+      "gas:candidate-vibid:1001000225979": 167,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 53,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 206,
-      "Макашов Альберт Михайлович": 383,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 203,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000112248": 53,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 206,
+      "gas:candidate-vibid:1001000121901": 383,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 203,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 57,
-      "Венедиктов Юрий Николаевич": 73,
-      "Гужов Виктор Валентинович": 26,
-      "Гусенков Виталий Волеевич": 40,
-      "Колосов Денис Олегович": 29,
-      "Лекарева Вера Александровна": 138,
-      "Макашов Альберт Михайлович": 451,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 30,
-      "Федоров Михаил Васильевич": 175,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000112248": 57,
+      "gas:candidate-vibid:1001000136114": 73,
+      "gas:candidate-vibid:363300270493": 26,
+      "gas:candidate-vibid:363300270568": 40,
+      "gas:candidate-vibid:1001000195134": 29,
+      "gas:candidate-vibid:363300270559": 138,
+      "gas:candidate-vibid:1001000121901": 451,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 30,
+      "gas:candidate-vibid:1001000225979": 175,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 45,
-      "Венедиктов Юрий Николаевич": 42,
-      "Гужов Виктор Валентинович": 19,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 148,
-      "Макашов Альберт Михайлович": 399,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 147,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000112248": 45,
+      "gas:candidate-vibid:1001000136114": 42,
+      "gas:candidate-vibid:363300270493": 19,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 148,
+      "gas:candidate-vibid:1001000121901": 399,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 147,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 39,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 159,
-      "Макашов Альберт Михайлович": 376,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 131,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000112248": 39,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 159,
+      "gas:candidate-vibid:1001000121901": 376,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 131,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 49,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 29,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 153,
-      "Макашов Альберт Михайлович": 390,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 18,
-      "Федоров Михаил Васильевич": 146,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 49,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 29,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 153,
+      "gas:candidate-vibid:1001000121901": 390,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 18,
+      "gas:candidate-vibid:1001000225979": 146,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 43,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 28,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 171,
-      "Макашов Альберт Михайлович": 465,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 182,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000112248": 43,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 28,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 171,
+      "gas:candidate-vibid:1001000121901": 465,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 182,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 44,
-      "Венедиктов Юрий Николаевич": 18,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 28,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 162,
-      "Макашов Альберт Михайлович": 343,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 149,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000112248": 44,
+      "gas:candidate-vibid:1001000136114": 18,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 28,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 162,
+      "gas:candidate-vibid:1001000121901": 343,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 149,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 63,
-      "Венедиктов Юрий Николаевич": 38,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 26,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 180,
-      "Макашов Альберт Михайлович": 386,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 170,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 63,
+      "gas:candidate-vibid:1001000136114": 38,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 26,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 180,
+      "gas:candidate-vibid:1001000121901": 386,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 170,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 58,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 28,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 158,
-      "Макашов Альберт Михайлович": 308,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 183,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000112248": 58,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 28,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 158,
+      "gas:candidate-vibid:1001000121901": 308,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 183,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 63,
-      "Венедиктов Юрий Николаевич": 53,
-      "Гужов Виктор Валентинович": 25,
-      "Гусенков Виталий Волеевич": 32,
-      "Колосов Денис Олегович": 21,
-      "Лекарева Вера Александровна": 206,
-      "Макашов Альберт Михайлович": 454,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 23,
-      "Федоров Михаил Васильевич": 191,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000112248": 63,
+      "gas:candidate-vibid:1001000136114": 53,
+      "gas:candidate-vibid:363300270493": 25,
+      "gas:candidate-vibid:363300270568": 32,
+      "gas:candidate-vibid:1001000195134": 21,
+      "gas:candidate-vibid:363300270559": 206,
+      "gas:candidate-vibid:1001000121901": 454,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 23,
+      "gas:candidate-vibid:1001000225979": 191,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 62,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 26,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 175,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 21,
-      "Федоров Михаил Васильевич": 185,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000112248": 62,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 26,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 175,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 21,
+      "gas:candidate-vibid:1001000225979": 185,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 69,
-      "Венедиктов Юрий Николаевич": 68,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 214,
-      "Макашов Альберт Михайлович": 481,
-      "Сидоров Сергей Вениаминович": 9,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 209,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000112248": 69,
+      "gas:candidate-vibid:1001000136114": 68,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 214,
+      "gas:candidate-vibid:1001000121901": 481,
+      "gas:candidate-vibid:363300270556": 9,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 209,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 59,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 24,
-      "Гусенков Виталий Волеевич": 17,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 175,
-      "Макашов Альберт Михайлович": 303,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 145,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000112248": 59,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 24,
+      "gas:candidate-vibid:363300270568": 17,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 175,
+      "gas:candidate-vibid:1001000121901": 303,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 145,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 102,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 16,
-      "Гусенков Виталий Волеевич": 40,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 171,
-      "Макашов Альберт Михайлович": 353,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 165,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000112248": 102,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 16,
+      "gas:candidate-vibid:363300270568": 40,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 171,
+      "gas:candidate-vibid:1001000121901": 353,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 165,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 61,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 27,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 226,
-      "Макашов Альберт Михайлович": 356,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 19,
-      "Федоров Михаил Васильевич": 165,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 61,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 27,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 226,
+      "gas:candidate-vibid:1001000121901": 356,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 19,
+      "gas:candidate-vibid:1001000225979": 165,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 70,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 243,
-      "Макашов Альберт Михайлович": 326,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 187,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000112248": 70,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 243,
+      "gas:candidate-vibid:1001000121901": 326,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 187,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 52,
-      "Венедиктов Юрий Николаевич": 47,
-      "Гужов Виктор Валентинович": 22,
-      "Гусенков Виталий Волеевич": 17,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 201,
-      "Макашов Альберт Михайлович": 406,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 187,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000112248": 52,
+      "gas:candidate-vibid:1001000136114": 47,
+      "gas:candidate-vibid:363300270493": 22,
+      "gas:candidate-vibid:363300270568": 17,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 201,
+      "gas:candidate-vibid:1001000121901": 406,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 187,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 71,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 30,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 158,
-      "Макашов Альберт Михайлович": 381,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 167,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000112248": 71,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 30,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 158,
+      "gas:candidate-vibid:1001000121901": 381,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 167,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 69,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 20,
-      "Лекарева Вера Александровна": 166,
-      "Макашов Альберт Михайлович": 419,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 168,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000112248": 69,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 20,
+      "gas:candidate-vibid:363300270559": 166,
+      "gas:candidate-vibid:1001000121901": 419,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 168,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 71,
-      "Венедиктов Юрий Николаевич": 36,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 34,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 155,
-      "Макашов Альберт Михайлович": 334,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 157,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000112248": 71,
+      "gas:candidate-vibid:1001000136114": 36,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 34,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 155,
+      "gas:candidate-vibid:1001000121901": 334,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 157,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 61,
-      "Венедиктов Юрий Николаевич": 48,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 30,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 169,
-      "Макашов Альберт Михайлович": 333,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 198,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000112248": 61,
+      "gas:candidate-vibid:1001000136114": 48,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 30,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 169,
+      "gas:candidate-vibid:1001000121901": 333,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 198,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 57,
-      "Венедиктов Юрий Николаевич": 45,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 165,
-      "Макашов Альберт Михайлович": 367,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 153,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000112248": 57,
+      "gas:candidate-vibid:1001000136114": 45,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 165,
+      "gas:candidate-vibid:1001000121901": 367,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 153,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 72,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 40,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 181,
-      "Макашов Альберт Михайлович": 423,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 191,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000112248": 72,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 40,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 181,
+      "gas:candidate-vibid:1001000121901": 423,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 191,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 77,
-      "Венедиктов Юрий Николаевич": 67,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 32,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 208,
-      "Макашов Альберт Михайлович": 412,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 169,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000112248": 77,
+      "gas:candidate-vibid:1001000136114": 67,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 32,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 208,
+      "gas:candidate-vibid:1001000121901": 412,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 169,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 55,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 18,
-      "Лекарева Вера Александровна": 144,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 144,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000112248": 55,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 18,
+      "gas:candidate-vibid:363300270559": 144,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 144,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 46,
-      "Венедиктов Юрий Николаевич": 47,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 175,
-      "Макашов Альберт Михайлович": 353,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 18,
-      "Федоров Михаил Васильевич": 200,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000112248": 46,
+      "gas:candidate-vibid:1001000136114": 47,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 175,
+      "gas:candidate-vibid:1001000121901": 353,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 18,
+      "gas:candidate-vibid:1001000225979": 200,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 85,
-      "Венедиктов Юрий Николаевич": 73,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 2,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 224,
-      "Макашов Альберт Михайлович": 570,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 21,
-      "Федоров Михаил Васильевич": 188,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000112248": 85,
+      "gas:candidate-vibid:1001000136114": 73,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 2,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 224,
+      "gas:candidate-vibid:1001000121901": 570,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 21,
+      "gas:candidate-vibid:1001000225979": 188,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 68,
-      "Венедиктов Юрий Николаевич": 80,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 122,
-      "Макашов Альберт Михайлович": 486,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 138,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000112248": 68,
+      "gas:candidate-vibid:1001000136114": 80,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 122,
+      "gas:candidate-vibid:1001000121901": 486,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 138,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 82,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 163,
-      "Макашов Альберт Михайлович": 410,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 155,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000112248": 82,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 163,
+      "gas:candidate-vibid:1001000121901": 410,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 155,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 85,
-      "Венедиктов Юрий Николаевич": 71,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 204,
-      "Макашов Альберт Михайлович": 309,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 159,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000112248": 85,
+      "gas:candidate-vibid:1001000136114": 71,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 204,
+      "gas:candidate-vibid:1001000121901": 309,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 159,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 59,
-      "Венедиктов Юрий Николаевич": 53,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 60,
-      "Колосов Денис Олегович": 21,
-      "Лекарева Вера Александровна": 193,
-      "Макашов Альберт Михайлович": 375,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 199,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000112248": 59,
+      "gas:candidate-vibid:1001000136114": 53,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 60,
+      "gas:candidate-vibid:1001000195134": 21,
+      "gas:candidate-vibid:363300270559": 193,
+      "gas:candidate-vibid:1001000121901": 375,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 199,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 86,
-      "Венедиктов Юрий Николаевич": 59,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 208,
-      "Макашов Альберт Михайлович": 417,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 182,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000112248": 86,
+      "gas:candidate-vibid:1001000136114": 59,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 208,
+      "gas:candidate-vibid:1001000121901": 417,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 182,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 47,
-      "Венедиктов Юрий Николаевич": 53,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 47,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 129,
-      "Макашов Альберт Михайлович": 348,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 136,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000112248": 47,
+      "gas:candidate-vibid:1001000136114": 53,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 47,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 129,
+      "gas:candidate-vibid:1001000121901": 348,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 136,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 46,
-      "Венедиктов Юрий Николаевич": 51,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 149,
-      "Макашов Альберт Михайлович": 354,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 183,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000112248": 46,
+      "gas:candidate-vibid:1001000136114": 51,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 149,
+      "gas:candidate-vibid:1001000121901": 354,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 183,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 62,
-      "Венедиктов Юрий Николаевич": 76,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 28,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 210,
-      "Макашов Альберт Михайлович": 340,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 150,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000112248": 62,
+      "gas:candidate-vibid:1001000136114": 76,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 28,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 210,
+      "gas:candidate-vibid:1001000121901": 340,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 150,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 72,
-      "Венедиктов Юрий Николаевич": 63,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 34,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 182,
-      "Макашов Альберт Михайлович": 439,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 218,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000112248": 72,
+      "gas:candidate-vibid:1001000136114": 63,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 34,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 182,
+      "gas:candidate-vibid:1001000121901": 439,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 218,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 50,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 136,
-      "Макашов Альберт Михайлович": 361,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 156,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000112248": 50,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 136,
+      "gas:candidate-vibid:1001000121901": 361,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 156,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 44,
-      "Венедиктов Юрий Николаевич": 54,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 31,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 128,
-      "Макашов Альберт Михайлович": 364,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 162,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000112248": 44,
+      "gas:candidate-vibid:1001000136114": 54,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 31,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 128,
+      "gas:candidate-vibid:1001000121901": 364,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 162,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 46,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 17,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 161,
-      "Макашов Альберт Михайлович": 340,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 181,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 46,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 17,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 161,
+      "gas:candidate-vibid:1001000121901": 340,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 181,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 53,
-      "Венедиктов Юрий Николаевич": 36,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 148,
-      "Макашов Альберт Михайлович": 290,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 133,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 53,
+      "gas:candidate-vibid:1001000136114": 36,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 148,
+      "gas:candidate-vibid:1001000121901": 290,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 133,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 52,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 21,
-      "Лекарева Вера Александровна": 147,
-      "Макашов Альберт Михайлович": 277,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 151,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000112248": 52,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 21,
+      "gas:candidate-vibid:363300270559": 147,
+      "gas:candidate-vibid:1001000121901": 277,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 151,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 46,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 152,
-      "Макашов Альберт Михайлович": 319,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 180,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000112248": 46,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 152,
+      "gas:candidate-vibid:1001000121901": 319,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 180,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 63,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 139,
-      "Макашов Альберт Михайлович": 368,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 184,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000112248": 63,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 139,
+      "gas:candidate-vibid:1001000121901": 368,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 184,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 55,
-      "Венедиктов Юрий Николаевич": 58,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 173,
-      "Макашов Альберт Михайлович": 368,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 176,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000112248": 55,
+      "gas:candidate-vibid:1001000136114": 58,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 173,
+      "gas:candidate-vibid:1001000121901": 368,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 176,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 43,
-      "Венедиктов Юрий Николаевич": 59,
-      "Гужов Виктор Валентинович": 21,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 169,
-      "Макашов Альберт Михайлович": 261,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 130,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000112248": 43,
+      "gas:candidate-vibid:1001000136114": 59,
+      "gas:candidate-vibid:363300270493": 21,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 169,
+      "gas:candidate-vibid:1001000121901": 261,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 130,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 70,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 9,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 176,
-      "Макашов Альберт Михайлович": 307,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 168,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000112248": 70,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 9,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 176,
+      "gas:candidate-vibid:1001000121901": 307,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 168,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 71,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 154,
-      "Макашов Альберт Михайлович": 303,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 135,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000112248": 71,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 154,
+      "gas:candidate-vibid:1001000121901": 303,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 135,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 88,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 4,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 143,
-      "Макашов Альберт Михайлович": 405,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 191,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000112248": 88,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 4,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 143,
+      "gas:candidate-vibid:1001000121901": 405,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 191,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 68,
-      "Венедиктов Юрий Николаевич": 56,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 171,
-      "Макашов Альберт Михайлович": 447,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 19,
-      "Федоров Михаил Васильевич": 247,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000112248": 68,
+      "gas:candidate-vibid:1001000136114": 56,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 171,
+      "gas:candidate-vibid:1001000121901": 447,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 19,
+      "gas:candidate-vibid:1001000225979": 247,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 47,
-      "Венедиктов Юрий Николаевич": 30,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 30,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 134,
-      "Макашов Альберт Михайлович": 258,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 143,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000112248": 47,
+      "gas:candidate-vibid:1001000136114": 30,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 30,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 134,
+      "gas:candidate-vibid:1001000121901": 258,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 143,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 66,
-      "Венедиктов Юрий Николаевич": 32,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 31,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 170,
-      "Макашов Альберт Михайлович": 266,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 163,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000112248": 66,
+      "gas:candidate-vibid:1001000136114": 32,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 31,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 170,
+      "gas:candidate-vibid:1001000121901": 266,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 163,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 62,
-      "Венедиктов Юрий Николаевич": 53,
-      "Гужов Виктор Валентинович": 23,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 23,
-      "Лекарева Вера Александровна": 190,
-      "Макашов Альберт Михайлович": 299,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 164,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000112248": 62,
+      "gas:candidate-vibid:1001000136114": 53,
+      "gas:candidate-vibid:363300270493": 23,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 23,
+      "gas:candidate-vibid:363300270559": 190,
+      "gas:candidate-vibid:1001000121901": 299,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 164,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 81,
-      "Венедиктов Юрий Николаевич": 42,
-      "Гужов Виктор Валентинович": 21,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 24,
-      "Лекарева Вера Александровна": 176,
-      "Макашов Альберт Михайлович": 347,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 167,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000112248": 81,
+      "gas:candidate-vibid:1001000136114": 42,
+      "gas:candidate-vibid:363300270493": 21,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 24,
+      "gas:candidate-vibid:363300270559": 176,
+      "gas:candidate-vibid:1001000121901": 347,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 167,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 59,
-      "Венедиктов Юрий Николаевич": 64,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 18,
-      "Лекарева Вера Александровна": 173,
-      "Макашов Альберт Михайлович": 378,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 18,
-      "Федоров Михаил Васильевич": 219,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000112248": 59,
+      "gas:candidate-vibid:1001000136114": 64,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 18,
+      "gas:candidate-vibid:363300270559": 173,
+      "gas:candidate-vibid:1001000121901": 378,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 18,
+      "gas:candidate-vibid:1001000225979": 219,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 71,
-      "Венедиктов Юрий Николаевич": 59,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 19,
-      "Лекарева Вера Александровна": 159,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 13,
-      "Телегин Александр Тимофеевич": 32,
-      "Федоров Михаил Васильевич": 157,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000112248": 71,
+      "gas:candidate-vibid:1001000136114": 59,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 19,
+      "gas:candidate-vibid:363300270559": 159,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 13,
+      "gas:candidate-vibid:1001000190406": 32,
+      "gas:candidate-vibid:1001000225979": 157,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 80,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 172,
-      "Макашов Альберт Михайлович": 406,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 172,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000112248": 80,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 172,
+      "gas:candidate-vibid:1001000121901": 406,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 172,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 95,
-      "Венедиктов Юрий Николаевич": 50,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 21,
-      "Лекарева Вера Александровна": 215,
-      "Макашов Альберт Михайлович": 382,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 220,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000112248": 95,
+      "gas:candidate-vibid:1001000136114": 50,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 21,
+      "gas:candidate-vibid:363300270559": 215,
+      "gas:candidate-vibid:1001000121901": 382,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 220,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 95,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 21,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 170,
-      "Макашов Альберт Михайлович": 352,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 205,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000112248": 95,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 21,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 170,
+      "gas:candidate-vibid:1001000121901": 352,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 205,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 81,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 162,
-      "Макашов Альберт Михайлович": 212,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 212,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000112248": 81,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 162,
+      "gas:candidate-vibid:1001000121901": 212,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 212,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 12,
-      "Венедиктов Юрий Николаевич": 12,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 14,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 77,
-      "Макашов Альберт Михайлович": 154,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 71,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112248": 12,
+      "gas:candidate-vibid:1001000136114": 12,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 14,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 77,
+      "gas:candidate-vibid:1001000121901": 154,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 71,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 38,
-      "Гужов Виктор Валентинович": 19,
-      "Гусенков Виталий Волеевич": 68,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 183,
-      "Макашов Альберт Михайлович": 347,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 142,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 38,
+      "gas:candidate-vibid:363300270493": 19,
+      "gas:candidate-vibid:363300270568": 68,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 183,
+      "gas:candidate-vibid:1001000121901": 347,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 142,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 57,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 126,
-      "Макашов Альберт Михайлович": 334,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 126,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 57,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 126,
+      "gas:candidate-vibid:1001000121901": 334,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 126,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 28,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 47,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 113,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 163,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112248": 28,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 47,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 113,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 163,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 24,
-      "Гужов Виктор Валентинович": 4,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 86,
-      "Макашов Альберт Михайлович": 307,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 83,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 24,
+      "gas:candidate-vibid:363300270493": 4,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 86,
+      "gas:candidate-vibid:1001000121901": 307,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 83,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 35,
-      "Венедиктов Юрий Николаевич": 38,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 63,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 151,
-      "Макашов Альберт Михайлович": 492,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 168,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 35,
+      "gas:candidate-vibid:1001000136114": 38,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 63,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 151,
+      "gas:candidate-vibid:1001000121901": 492,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 168,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 42,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 62,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 133,
-      "Макашов Альберт Михайлович": 458,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 202,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 42,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 62,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 133,
+      "gas:candidate-vibid:1001000121901": 458,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 202,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 23,
-      "Венедиктов Юрий Николаевич": 42,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 116,
-      "Макашов Альберт Михайлович": 305,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 162,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000112248": 23,
+      "gas:candidate-vibid:1001000136114": 42,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 116,
+      "gas:candidate-vibid:1001000121901": 305,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 162,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 26,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 39,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 129,
-      "Макашов Альберт Михайлович": 409,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 5,
-      "Федоров Михаил Васильевич": 144,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 26,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 39,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 129,
+      "gas:candidate-vibid:1001000121901": 409,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 5,
+      "gas:candidate-vibid:1001000225979": 144,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 23,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 27,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 92,
-      "Макашов Альберт Михайлович": 341,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 143,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 23,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 27,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 92,
+      "gas:candidate-vibid:1001000121901": 341,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 143,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 34,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 121,
-      "Макашов Альберт Михайлович": 370,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 181,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 34,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 121,
+      "gas:candidate-vibid:1001000121901": 370,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 181,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 20,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 4,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 141,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 22,
-      "Федоров Михаил Васильевич": 97,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000112248": 20,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 4,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 141,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 22,
+      "gas:candidate-vibid:1001000225979": 97,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 48,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 9,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 172,
-      "Макашов Альберт Михайлович": 364,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 168,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 48,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 9,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 172,
+      "gas:candidate-vibid:1001000121901": 364,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 168,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 58,
-      "Венедиктов Юрий Николаевич": 36,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 197,
-      "Макашов Альберт Михайлович": 445,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 169,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000112248": 58,
+      "gas:candidate-vibid:1001000136114": 36,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 197,
+      "gas:candidate-vibid:1001000121901": 445,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 169,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 29,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 164,
-      "Макашов Альберт Михайлович": 429,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 148,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 29,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 164,
+      "gas:candidate-vibid:1001000121901": 429,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 148,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 33,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 142,
-      "Макашов Альберт Михайлович": 517,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 129,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 33,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 142,
+      "gas:candidate-vibid:1001000121901": 517,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 129,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 48,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 144,
-      "Макашов Альберт Михайлович": 399,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 143,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 48,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 144,
+      "gas:candidate-vibid:1001000121901": 399,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 143,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 41,
-      "Венедиктов Юрий Николаевич": 27,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 9,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 156,
-      "Макашов Альберт Михайлович": 284,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 120,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000112248": 41,
+      "gas:candidate-vibid:1001000136114": 27,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 9,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 156,
+      "gas:candidate-vibid:1001000121901": 284,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 120,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 64,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 175,
-      "Макашов Альберт Михайлович": 421,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 197,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000112248": 64,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 175,
+      "gas:candidate-vibid:1001000121901": 421,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 197,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 64,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 10,
-      "Колосов Денис Олегович": 24,
-      "Лекарева Вера Александровна": 194,
-      "Макашов Альберт Михайлович": 468,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 205,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000112248": 64,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 10,
+      "gas:candidate-vibid:1001000195134": 24,
+      "gas:candidate-vibid:363300270559": 194,
+      "gas:candidate-vibid:1001000121901": 468,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 205,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 68,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 232,
-      "Макашов Альберт Михайлович": 488,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 192,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000112248": 68,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 232,
+      "gas:candidate-vibid:1001000121901": 488,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 192,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 21,
-      "Венедиктов Юрий Николаевич": 33,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 10,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 126,
-      "Макашов Альберт Михайлович": 290,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 223,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000112248": 21,
+      "gas:candidate-vibid:1001000136114": 33,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 10,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 126,
+      "gas:candidate-vibid:1001000121901": 290,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 223,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 17,
-      "Венедиктов Юрий Николаевич": 20,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 7,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 78,
-      "Макашов Альберт Михайлович": 123,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 75,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112248": 17,
+      "gas:candidate-vibid:1001000136114": 20,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 7,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 78,
+      "gas:candidate-vibid:1001000121901": 123,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 75,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 36,
-      "Венедиктов Юрий Николаевич": 69,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 21,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 172,
-      "Макашов Альберт Михайлович": 361,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 283,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000112248": 36,
+      "gas:candidate-vibid:1001000136114": 69,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 21,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 172,
+      "gas:candidate-vibid:1001000121901": 361,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 283,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 124,
-      "Макашов Альберт Михайлович": 310,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 179,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 124,
+      "gas:candidate-vibid:1001000121901": 310,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 179,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 55,
-      "Венедиктов Юрий Николаевич": 44,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 217,
-      "Макашов Альберт Михайлович": 371,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 25,
-      "Федоров Михаил Васильевич": 234,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000112248": 55,
+      "gas:candidate-vibid:1001000136114": 44,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 217,
+      "gas:candidate-vibid:1001000121901": 371,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 25,
+      "gas:candidate-vibid:1001000225979": 234,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 33,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 4,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 187,
-      "Макашов Альберт Михайлович": 426,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 189,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000112248": 33,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 4,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 187,
+      "gas:candidate-vibid:1001000121901": 426,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 189,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 63,
-      "Венедиктов Юрий Николаевич": 58,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 23,
-      "Лекарева Вера Александровна": 144,
-      "Макашов Альберт Михайлович": 511,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 205,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000112248": 63,
+      "gas:candidate-vibid:1001000136114": 58,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 23,
+      "gas:candidate-vibid:363300270559": 144,
+      "gas:candidate-vibid:1001000121901": 511,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 205,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 35,
-      "Венедиктов Юрий Николаевич": 54,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 169,
-      "Макашов Альберт Михайлович": 5,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 252,
-      "Федоров Михаил Васильевич": 499,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000112248": 35,
+      "gas:candidate-vibid:1001000136114": 54,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 169,
+      "gas:candidate-vibid:1001000121901": 5,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 252,
+      "gas:candidate-vibid:1001000225979": 499,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 208,
-      "Макашов Альберт Михайлович": 328,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 160,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 208,
+      "gas:candidate-vibid:1001000121901": 328,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 160,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 43,
-      "Венедиктов Юрий Николаевич": 60,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 7,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 227,
-      "Макашов Альберт Михайлович": 319,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 171,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000112248": 43,
+      "gas:candidate-vibid:1001000136114": 60,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 7,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 227,
+      "gas:candidate-vibid:1001000121901": 319,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 171,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 28,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 188,
-      "Макашов Альберт Михайлович": 326,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 169,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000112248": 28,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 188,
+      "gas:candidate-vibid:1001000121901": 326,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 169,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 49,
-      "Венедиктов Юрий Николаевич": 51,
-      "Гужов Виктор Валентинович": 20,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 210,
-      "Макашов Альберт Михайлович": 368,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 196,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000112248": 49,
+      "gas:candidate-vibid:1001000136114": 51,
+      "gas:candidate-vibid:363300270493": 20,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 210,
+      "gas:candidate-vibid:1001000121901": 368,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 196,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 3,
-      "Венедиктов Юрий Николаевич": 4,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 1,
-      "Колосов Денис Олегович": 1,
-      "Лекарева Вера Александровна": 14,
-      "Макашов Альберт Михайлович": 26,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 22,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112248": 3,
+      "gas:candidate-vibid:1001000136114": 4,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 1,
+      "gas:candidate-vibid:1001000195134": 1,
+      "gas:candidate-vibid:363300270559": 14,
+      "gas:candidate-vibid:1001000121901": 26,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 22,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 43,
-      "Венедиктов Юрий Николаевич": 42,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 2,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 179,
-      "Макашов Альберт Михайлович": 79,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 42,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112248": 43,
+      "gas:candidate-vibid:1001000136114": 42,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 2,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 179,
+      "gas:candidate-vibid:1001000121901": 79,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 42,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 3,
-      "Венедиктов Юрий Николаевич": 3,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 31,
-      "Колосов Денис Олегович": 1,
-      "Лекарева Вера Александровна": 50,
-      "Макашов Альберт Михайлович": 61,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112248": 3,
+      "gas:candidate-vibid:1001000136114": 3,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 31,
+      "gas:candidate-vibid:1001000195134": 1,
+      "gas:candidate-vibid:363300270559": 50,
+      "gas:candidate-vibid:1001000121901": 61,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070891&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 58,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 21,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 156,
-      "Макашов Альберт Михайлович": 231,
-      "Сидоров Сергей Вениаминович": 15,
-      "Телегин Александр Тимофеевич": 18,
-      "Федоров Михаил Васильевич": 177,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000112248": 58,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 21,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 156,
+      "gas:candidate-vibid:1001000121901": 231,
+      "gas:candidate-vibid:363300270556": 15,
+      "gas:candidate-vibid:1001000190406": 18,
+      "gas:candidate-vibid:1001000225979": 177,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 28,
-      "Венедиктов Юрий Николаевич": 31,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 10,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 104,
-      "Макашов Альберт Михайлович": 172,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 2,
-      "Федоров Михаил Васильевич": 97,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112248": 28,
+      "gas:candidate-vibid:1001000136114": 31,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 10,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 104,
+      "gas:candidate-vibid:1001000121901": 172,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 2,
+      "gas:candidate-vibid:1001000225979": 97,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 15,
-      "Венедиктов Юрий Николаевич": 32,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 82,
-      "Макашов Альберт Михайлович": 181,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 2,
-      "Федоров Михаил Васильевич": 95,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000112248": 15,
+      "gas:candidate-vibid:1001000136114": 32,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 82,
+      "gas:candidate-vibid:1001000121901": 181,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 2,
+      "gas:candidate-vibid:1001000225979": 95,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 24,
-      "Венедиктов Юрий Николаевич": 31,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 1,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 45,
-      "Макашов Альберт Михайлович": 156,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 75,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000112248": 24,
+      "gas:candidate-vibid:1001000136114": 31,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 1,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 45,
+      "gas:candidate-vibid:1001000121901": 156,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 75,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 18,
-      "Венедиктов Юрий Николаевич": 15,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 105,
-      "Макашов Альберт Михайлович": 147,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 105,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000112248": 18,
+      "gas:candidate-vibid:1001000136114": 15,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 105,
+      "gas:candidate-vibid:1001000121901": 147,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 105,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 14,
-      "Венедиктов Юрий Николаевич": 12,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 83,
-      "Макашов Альберт Михайлович": 156,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 65,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000112248": 14,
+      "gas:candidate-vibid:1001000136114": 12,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 83,
+      "gas:candidate-vibid:1001000121901": 156,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 65,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 24,
-      "Венедиктов Юрий Николаевич": 17,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 99,
-      "Макашов Альберт Михайлович": 176,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 80,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000112248": 24,
+      "gas:candidate-vibid:1001000136114": 17,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 99,
+      "gas:candidate-vibid:1001000121901": 176,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 80,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 20,
-      "Венедиктов Юрий Николаевич": 21,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 96,
-      "Макашов Альберт Михайлович": 197,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 113,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000112248": 20,
+      "gas:candidate-vibid:1001000136114": 21,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 96,
+      "gas:candidate-vibid:1001000121901": 197,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 113,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 21,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 17,
-      "Гусенков Виталий Волеевич": 26,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 165,
-      "Макашов Альберт Михайлович": 307,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 23,
-      "Федоров Михаил Васильевич": 163,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000112248": 21,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 17,
+      "gas:candidate-vibid:363300270568": 26,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 165,
+      "gas:candidate-vibid:1001000121901": 307,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 23,
+      "gas:candidate-vibid:1001000225979": 163,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 15,
-      "Венедиктов Юрий Николаевич": 22,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 1,
-      "Лекарева Вера Александровна": 80,
-      "Макашов Альберт Михайлович": 189,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 115,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000112248": 15,
+      "gas:candidate-vibid:1001000136114": 22,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 1,
+      "gas:candidate-vibid:363300270559": 80,
+      "gas:candidate-vibid:1001000121901": 189,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 115,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 17,
-      "Венедиктов Юрий Николаевич": 25,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 10,
-      "Колосов Денис Олегович": 1,
-      "Лекарева Вера Александровна": 108,
-      "Макашов Альберт Михайлович": 218,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 87,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000112248": 17,
+      "gas:candidate-vibid:1001000136114": 25,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 10,
+      "gas:candidate-vibid:1001000195134": 1,
+      "gas:candidate-vibid:363300270559": 108,
+      "gas:candidate-vibid:1001000121901": 218,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 87,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 24,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 119,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 147,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112248": 24,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 119,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 147,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 72,
-      "Гужов Виктор Валентинович": 18,
-      "Гусенков Виталий Волеевич": 9,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 171,
-      "Макашов Альберт Михайлович": 438,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 203,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 72,
+      "gas:candidate-vibid:363300270493": 18,
+      "gas:candidate-vibid:363300270568": 9,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 171,
+      "gas:candidate-vibid:1001000121901": 438,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 203,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 47,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 190,
-      "Макашов Альберт Михайлович": 390,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 166,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 47,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 190,
+      "gas:candidate-vibid:1001000121901": 390,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 166,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 39,
-      "Венедиктов Юрий Николаевич": 55,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 32,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 173,
-      "Макашов Альберт Михайлович": 409,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 159,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000112248": 39,
+      "gas:candidate-vibid:1001000136114": 55,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 32,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 173,
+      "gas:candidate-vibid:1001000121901": 409,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 159,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 11,
-      "Венедиктов Юрий Николаевич": 12,
-      "Гужов Виктор Валентинович": 4,
-      "Гусенков Виталий Волеевич": 2,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 37,
-      "Макашов Альберт Михайлович": 97,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 2,
-      "Федоров Михаил Васильевич": 70,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112248": 11,
+      "gas:candidate-vibid:1001000136114": 12,
+      "gas:candidate-vibid:363300270493": 4,
+      "gas:candidate-vibid:363300270568": 2,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 37,
+      "gas:candidate-vibid:1001000121901": 97,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 2,
+      "gas:candidate-vibid:1001000225979": 70,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 38,
-      "Венедиктов Юрий Николаевич": 64,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 27,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 138,
-      "Макашов Альберт Михайлович": 373,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 407,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000112248": 38,
+      "gas:candidate-vibid:1001000136114": 64,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 27,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 138,
+      "gas:candidate-vibid:1001000121901": 373,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 407,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 41,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 16,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 141,
-      "Макашов Альберт Михайлович": 302,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 450,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112248": 41,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 16,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 141,
+      "gas:candidate-vibid:1001000121901": 302,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 450,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 44,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 106,
-      "Макашов Альберт Михайлович": 305,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 398,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112248": 44,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 106,
+      "gas:candidate-vibid:1001000121901": 305,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 398,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 134,
-      "Макашов Альберт Михайлович": 332,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 328,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 134,
+      "gas:candidate-vibid:1001000121901": 332,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 328,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 39,
-      "Венедиктов Юрий Николаевич": 50,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 21,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 168,
-      "Макашов Альберт Михайлович": 355,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 383,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000112248": 39,
+      "gas:candidate-vibid:1001000136114": 50,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 21,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 168,
+      "gas:candidate-vibid:1001000121901": 355,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 383,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 48,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 22,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 198,
-      "Макашов Альберт Михайлович": 323,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 217,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000112248": 48,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 22,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 198,
+      "gas:candidate-vibid:1001000121901": 323,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 217,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 30,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 16,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 177,
-      "Макашов Альберт Михайлович": 454,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 201,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000112248": 30,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 16,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 177,
+      "gas:candidate-vibid:1001000121901": 454,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 201,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 43,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 120,
-      "Макашов Альберт Михайлович": 374,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 337,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000112248": 43,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 120,
+      "gas:candidate-vibid:1001000121901": 374,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 337,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 33,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 20,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 157,
-      "Макашов Альберт Михайлович": 380,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 435,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000112248": 33,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 20,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 157,
+      "gas:candidate-vibid:1001000121901": 380,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 435,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 51,
-      "Венедиктов Юрий Николаевич": 63,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 34,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 175,
-      "Макашов Альберт Михайлович": 409,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 400,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000112248": 51,
+      "gas:candidate-vibid:1001000136114": 63,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 34,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 175,
+      "gas:candidate-vibid:1001000121901": 409,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 400,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 69,
-      "Венедиктов Юрий Николаевич": 64,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 200,
-      "Макашов Альберт Михайлович": 458,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 263,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000112248": 69,
+      "gas:candidate-vibid:1001000136114": 64,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 200,
+      "gas:candidate-vibid:1001000121901": 458,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 263,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 18,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 130,
-      "Макашов Альберт Михайлович": 242,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 123,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 18,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 130,
+      "gas:candidate-vibid:1001000121901": 242,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 123,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 65,
-      "Венедиктов Юрий Николаевич": 60,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 161,
-      "Макашов Альберт Михайлович": 519,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 213,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000112248": 65,
+      "gas:candidate-vibid:1001000136114": 60,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 161,
+      "gas:candidate-vibid:1001000121901": 519,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 213,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 53,
-      "Венедиктов Юрий Николаевич": 56,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 167,
-      "Макашов Альберт Михайлович": 363,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 19,
-      "Федоров Михаил Васильевич": 245,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000112248": 53,
+      "gas:candidate-vibid:1001000136114": 56,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 167,
+      "gas:candidate-vibid:1001000121901": 363,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 19,
+      "gas:candidate-vibid:1001000225979": 245,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 62,
-      "Венедиктов Юрий Николаевич": 60,
-      "Гужов Виктор Валентинович": 27,
-      "Гусенков Виталий Волеевич": 28,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 173,
-      "Макашов Альберт Михайлович": 394,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 22,
-      "Федоров Михаил Васильевич": 488,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000112248": 62,
+      "gas:candidate-vibid:1001000136114": 60,
+      "gas:candidate-vibid:363300270493": 27,
+      "gas:candidate-vibid:363300270568": 28,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 173,
+      "gas:candidate-vibid:1001000121901": 394,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 22,
+      "gas:candidate-vibid:1001000225979": 488,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 173,
-      "Макашов Альберт Михайлович": 275,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 258,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 173,
+      "gas:candidate-vibid:1001000121901": 275,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 258,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 53,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 144,
-      "Макашов Альберт Михайлович": 342,
-      "Сидоров Сергей Вениаминович": 9,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 210,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000112248": 53,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 144,
+      "gas:candidate-vibid:1001000121901": 342,
+      "gas:candidate-vibid:363300270556": 9,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 210,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 65,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 221,
-      "Макашов Альберт Михайлович": 532,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 222,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 65,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 221,
+      "gas:candidate-vibid:1001000121901": 532,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 222,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 59,
-      "Венедиктов Юрий Николаевич": 54,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 191,
-      "Макашов Альберт Михайлович": 442,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 198,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000112248": 59,
+      "gas:candidate-vibid:1001000136114": 54,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 191,
+      "gas:candidate-vibid:1001000121901": 442,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 198,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 25,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 169,
-      "Макашов Альберт Михайлович": 309,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 124,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000112248": 25,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 169,
+      "gas:candidate-vibid:1001000121901": 309,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 124,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 40,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 128,
-      "Макашов Альберт Михайлович": 304,
-      "Сидоров Сергей Вениаминович": 16,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 158,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 40,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 128,
+      "gas:candidate-vibid:1001000121901": 304,
+      "gas:candidate-vibid:363300270556": 16,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 158,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 65,
-      "Венедиктов Юрий Николаевич": 43,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 18,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 191,
-      "Макашов Альберт Михайлович": 390,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 152,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000112248": 65,
+      "gas:candidate-vibid:1001000136114": 43,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 18,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 191,
+      "gas:candidate-vibid:1001000121901": 390,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 152,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 49,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 139,
-      "Макашов Альберт Михайлович": 294,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 139,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112248": 49,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 139,
+      "gas:candidate-vibid:1001000121901": 294,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 139,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 54,
-      "Венедиктов Юрий Николаевич": 53,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 188,
-      "Макашов Альберт Михайлович": 380,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 19,
-      "Федоров Михаил Васильевич": 137,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000112248": 54,
+      "gas:candidate-vibid:1001000136114": 53,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 188,
+      "gas:candidate-vibid:1001000121901": 380,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 19,
+      "gas:candidate-vibid:1001000225979": 137,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 78,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 31,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 213,
-      "Макашов Альберт Михайлович": 510,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 221,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000112248": 78,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 31,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 213,
+      "gas:candidate-vibid:1001000121901": 510,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 221,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 44,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 15,
-      "Гусенков Виталий Волеевич": 43,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 179,
-      "Макашов Альберт Михайлович": 479,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 224,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000112248": 44,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 15,
+      "gas:candidate-vibid:363300270568": 43,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 179,
+      "gas:candidate-vibid:1001000121901": 479,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 224,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 49,
-      "Венедиктов Юрий Николаевич": 58,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 172,
-      "Макашов Альберт Михайлович": 357,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 21,
-      "Федоров Михаил Васильевич": 194,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000112248": 49,
+      "gas:candidate-vibid:1001000136114": 58,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 172,
+      "gas:candidate-vibid:1001000121901": 357,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 21,
+      "gas:candidate-vibid:1001000225979": 194,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 52,
-      "Венедиктов Юрий Николаевич": 70,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 174,
-      "Макашов Альберт Михайлович": 502,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 219,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000112248": 52,
+      "gas:candidate-vibid:1001000136114": 70,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 174,
+      "gas:candidate-vibid:1001000121901": 502,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 219,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 52,
-      "Венедиктов Юрий Николаевич": 73,
-      "Гужов Виктор Валентинович": 17,
-      "Гусенков Виталий Волеевич": 40,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 226,
-      "Макашов Альберт Михайлович": 442,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 214,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000112248": 52,
+      "gas:candidate-vibid:1001000136114": 73,
+      "gas:candidate-vibid:363300270493": 17,
+      "gas:candidate-vibid:363300270568": 40,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 226,
+      "gas:candidate-vibid:1001000121901": 442,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 214,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 66,
-      "Венедиктов Юрий Николаевич": 57,
-      "Гужов Виктор Валентинович": 20,
-      "Гусенков Виталий Волеевич": 64,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 169,
-      "Макашов Альберт Михайлович": 428,
-      "Сидоров Сергей Вениаминович": 9,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 233,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000112248": 66,
+      "gas:candidate-vibid:1001000136114": 57,
+      "gas:candidate-vibid:363300270493": 20,
+      "gas:candidate-vibid:363300270568": 64,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 169,
+      "gas:candidate-vibid:1001000121901": 428,
+      "gas:candidate-vibid:363300270556": 9,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 233,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 24,
-      "Венедиктов Юрий Николаевич": 66,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 81,
-      "Макашов Альберт Михайлович": 127,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 114,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112248": 24,
+      "gas:candidate-vibid:1001000136114": 66,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 81,
+      "gas:candidate-vibid:1001000121901": 127,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 114,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 58,
-      "Венедиктов Юрий Николаевич": 38,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 48,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 195,
-      "Макашов Альберт Михайлович": 343,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 169,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000112248": 58,
+      "gas:candidate-vibid:1001000136114": 38,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 48,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 195,
+      "gas:candidate-vibid:1001000121901": 343,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 169,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 40,
-      "Венедиктов Юрий Николаевич": 36,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 38,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 157,
-      "Макашов Альберт Михайлович": 266,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 98,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000112248": 40,
+      "gas:candidate-vibid:1001000136114": 36,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 38,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 157,
+      "gas:candidate-vibid:1001000121901": 266,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 98,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 27,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 46,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 152,
-      "Макашов Альберт Михайлович": 272,
-      "Сидоров Сергей Вениаминович": 9,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 127,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 27,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 46,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 152,
+      "gas:candidate-vibid:1001000121901": 272,
+      "gas:candidate-vibid:363300270556": 9,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 127,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 35,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 50,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 118,
-      "Макашов Альберт Михайлович": 283,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 117,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112248": 35,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 50,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 118,
+      "gas:candidate-vibid:1001000121901": 283,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 117,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 73,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 117,
-      "Макашов Альберт Михайлович": 304,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 116,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 73,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 117,
+      "gas:candidate-vibid:1001000121901": 304,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 116,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 46,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 17,
-      "Гусенков Виталий Волеевич": 17,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 149,
-      "Макашов Альберт Михайлович": 334,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 136,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000112248": 46,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 17,
+      "gas:candidate-vibid:363300270568": 17,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 149,
+      "gas:candidate-vibid:1001000121901": 334,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 136,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 31,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 37,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 126,
-      "Макашов Альберт Михайлович": 285,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 120,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 31,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 37,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 126,
+      "gas:candidate-vibid:1001000121901": 285,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 120,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 55,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 83,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 146,
-      "Макашов Альберт Михайлович": 369,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 27,
-      "Федоров Михаил Васильевич": 174,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112248": 55,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 83,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 146,
+      "gas:candidate-vibid:1001000121901": 369,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 27,
+      "gas:candidate-vibid:1001000225979": 174,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 60,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 53,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 139,
-      "Макашов Альберт Михайлович": 329,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 169,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000112248": 60,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 53,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 139,
+      "gas:candidate-vibid:1001000121901": 329,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 169,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 56,
-      "Венедиктов Юрий Николаевич": 47,
-      "Гужов Виктор Валентинович": 19,
-      "Гусенков Виталий Волеевич": 83,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 146,
-      "Макашов Альберт Михайлович": 417,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 10,
-      "Федоров Михаил Васильевич": 154,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000112248": 56,
+      "gas:candidate-vibid:1001000136114": 47,
+      "gas:candidate-vibid:363300270493": 19,
+      "gas:candidate-vibid:363300270568": 83,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 146,
+      "gas:candidate-vibid:1001000121901": 417,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 10,
+      "gas:candidate-vibid:1001000225979": 154,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 37,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 65,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 151,
-      "Макашов Альберт Михайлович": 332,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 18,
-      "Федоров Михаил Васильевич": 144,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000112248": 37,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 65,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 151,
+      "gas:candidate-vibid:1001000121901": 332,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 18,
+      "gas:candidate-vibid:1001000225979": 144,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 39,
-      "Венедиктов Юрий Николаевич": 32,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 194,
-      "Колосов Денис Олегович": 19,
-      "Лекарева Вера Александровна": 186,
-      "Макашов Альберт Михайлович": 302,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 133,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000112248": 39,
+      "gas:candidate-vibid:1001000136114": 32,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 194,
+      "gas:candidate-vibid:1001000195134": 19,
+      "gas:candidate-vibid:363300270559": 186,
+      "gas:candidate-vibid:1001000121901": 302,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 133,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 35,
-      "Венедиктов Юрий Николаевич": 38,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 89,
-      "Колосов Денис Олегович": 16,
-      "Лекарева Вера Александровна": 144,
-      "Макашов Альберт Михайлович": 328,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 144,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000112248": 35,
+      "gas:candidate-vibid:1001000136114": 38,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 89,
+      "gas:candidate-vibid:1001000195134": 16,
+      "gas:candidate-vibid:363300270559": 144,
+      "gas:candidate-vibid:1001000121901": 328,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 144,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 21,
-      "Венедиктов Юрий Николаевич": 30,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 91,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 119,
-      "Макашов Альберт Михайлович": 176,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 95,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000112248": 21,
+      "gas:candidate-vibid:1001000136114": 30,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 91,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 119,
+      "gas:candidate-vibid:1001000121901": 176,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 95,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 49,
-      "Венедиктов Юрий Николаевич": 44,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 129,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 157,
-      "Макашов Альберт Михайлович": 297,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 150,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000112248": 49,
+      "gas:candidate-vibid:1001000136114": 44,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 129,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 157,
+      "gas:candidate-vibid:1001000121901": 297,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 150,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 39,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 182,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 113,
-      "Макашов Альберт Михайлович": 261,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 117,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000112248": 39,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 182,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 113,
+      "gas:candidate-vibid:1001000121901": 261,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 117,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 56,
-      "Венедиктов Юрий Николаевич": 45,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 64,
-      "Колосов Денис Олегович": 19,
-      "Лекарева Вера Александровна": 186,
-      "Макашов Альберт Михайлович": 373,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 18,
-      "Федоров Михаил Васильевич": 187,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000112248": 56,
+      "gas:candidate-vibid:1001000136114": 45,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 64,
+      "gas:candidate-vibid:1001000195134": 19,
+      "gas:candidate-vibid:363300270559": 186,
+      "gas:candidate-vibid:1001000121901": 373,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 18,
+      "gas:candidate-vibid:1001000225979": 187,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 56,
-      "Венедиктов Юрий Николаевич": 57,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 26,
-      "Колосов Денис Олегович": 21,
-      "Лекарева Вера Александровна": 234,
-      "Макашов Альберт Михайлович": 399,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 228,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000112248": 56,
+      "gas:candidate-vibid:1001000136114": 57,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 26,
+      "gas:candidate-vibid:1001000195134": 21,
+      "gas:candidate-vibid:363300270559": 234,
+      "gas:candidate-vibid:1001000121901": 399,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 228,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 57,
-      "Венедиктов Юрий Николаевич": 65,
-      "Гужов Виктор Валентинович": 17,
-      "Гусенков Виталий Волеевич": 47,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 222,
-      "Макашов Альберт Михайлович": 404,
-      "Сидоров Сергей Вениаминович": 12,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 201,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000112248": 57,
+      "gas:candidate-vibid:1001000136114": 65,
+      "gas:candidate-vibid:363300270493": 17,
+      "gas:candidate-vibid:363300270568": 47,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 222,
+      "gas:candidate-vibid:1001000121901": 404,
+      "gas:candidate-vibid:363300270556": 12,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 201,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 41,
-      "Венедиктов Юрий Николаевич": 45,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 56,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 125,
-      "Макашов Альберт Михайлович": 278,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 152,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000112248": 41,
+      "gas:candidate-vibid:1001000136114": 45,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 56,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 125,
+      "gas:candidate-vibid:1001000121901": 278,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 152,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 59,
-      "Венедиктов Юрий Николаевич": 71,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 80,
-      "Колосов Денис Олегович": 20,
-      "Лекарева Вера Александровна": 194,
-      "Макашов Альберт Михайлович": 422,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 212,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000112248": 59,
+      "gas:candidate-vibid:1001000136114": 71,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 80,
+      "gas:candidate-vibid:1001000195134": 20,
+      "gas:candidate-vibid:363300270559": 194,
+      "gas:candidate-vibid:1001000121901": 422,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 212,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 64,
-      "Венедиктов Юрий Николаевич": 45,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 44,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 181,
-      "Макашов Альберт Михайлович": 388,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 15,
-      "Федоров Михаил Васильевич": 181,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000112248": 64,
+      "gas:candidate-vibid:1001000136114": 45,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 44,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 181,
+      "gas:candidate-vibid:1001000121901": 388,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 15,
+      "gas:candidate-vibid:1001000225979": 181,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 62,
-      "Венедиктов Юрий Николаевич": 58,
-      "Гужов Виктор Валентинович": 16,
-      "Гусенков Виталий Волеевич": 84,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 192,
-      "Макашов Альберт Михайлович": 391,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 16,
-      "Федоров Михаил Васильевич": 207,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000112248": 62,
+      "gas:candidate-vibid:1001000136114": 58,
+      "gas:candidate-vibid:363300270493": 16,
+      "gas:candidate-vibid:363300270568": 84,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 192,
+      "gas:candidate-vibid:1001000121901": 391,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 16,
+      "gas:candidate-vibid:1001000225979": 207,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 52,
-      "Венедиктов Юрий Николаевич": 42,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 86,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 178,
-      "Макашов Альберт Михайлович": 396,
-      "Сидоров Сергей Вениаминович": 11,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 199,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000112248": 52,
+      "gas:candidate-vibid:1001000136114": 42,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 86,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 178,
+      "gas:candidate-vibid:1001000121901": 396,
+      "gas:candidate-vibid:363300270556": 11,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 199,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 41,
-      "Венедиктов Юрий Николаевич": 53,
-      "Гужов Виктор Валентинович": 14,
-      "Гусенков Виталий Волеевич": 43,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 177,
-      "Макашов Альберт Михайлович": 356,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 19,
-      "Федоров Михаил Васильевич": 208,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000112248": 41,
+      "gas:candidate-vibid:1001000136114": 53,
+      "gas:candidate-vibid:363300270493": 14,
+      "gas:candidate-vibid:363300270568": 43,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 177,
+      "gas:candidate-vibid:1001000121901": 356,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 19,
+      "gas:candidate-vibid:1001000225979": 208,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 57,
-      "Венедиктов Юрий Николаевич": 47,
-      "Гужов Виктор Валентинович": 21,
-      "Гусенков Виталий Волеевич": 46,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 175,
-      "Макашов Альберт Михайлович": 292,
-      "Сидоров Сергей Вениаминович": 14,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 196,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000112248": 57,
+      "gas:candidate-vibid:1001000136114": 47,
+      "gas:candidate-vibid:363300270493": 21,
+      "gas:candidate-vibid:363300270568": 46,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 175,
+      "gas:candidate-vibid:1001000121901": 292,
+      "gas:candidate-vibid:363300270556": 14,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 196,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 48,
-      "Венедиктов Юрий Николаевич": 55,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 49,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 197,
-      "Макашов Альберт Михайлович": 310,
-      "Сидоров Сергей Вениаминович": 9,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 237,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000112248": 48,
+      "gas:candidate-vibid:1001000136114": 55,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 49,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 197,
+      "gas:candidate-vibid:1001000121901": 310,
+      "gas:candidate-vibid:363300270556": 9,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 237,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 77,
-      "Венедиктов Юрий Николаевич": 67,
-      "Гужов Виктор Валентинович": 19,
-      "Гусенков Виталий Волеевич": 39,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 188,
-      "Макашов Альберт Михайлович": 442,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 241,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000112248": 77,
+      "gas:candidate-vibid:1001000136114": 67,
+      "gas:candidate-vibid:363300270493": 19,
+      "gas:candidate-vibid:363300270568": 39,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 188,
+      "gas:candidate-vibid:1001000121901": 442,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 241,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 38,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 31,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 153,
-      "Макашов Альберт Михайлович": 289,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 206,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000112248": 38,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 31,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 153,
+      "gas:candidate-vibid:1001000121901": 289,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 206,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 54,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 41,
-      "Колосов Денис Олегович": 18,
-      "Лекарева Вера Александровна": 207,
-      "Макашов Альберт Михайлович": 383,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 20,
-      "Федоров Михаил Васильевич": 190,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000112248": 54,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 41,
+      "gas:candidate-vibid:1001000195134": 18,
+      "gas:candidate-vibid:363300270559": 207,
+      "gas:candidate-vibid:1001000121901": 383,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 20,
+      "gas:candidate-vibid:1001000225979": 190,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 53,
-      "Венедиктов Юрий Николаевич": 54,
-      "Гужов Виктор Валентинович": 20,
-      "Гусенков Виталий Волеевич": 47,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 165,
-      "Макашов Альберт Михайлович": 375,
-      "Сидоров Сергей Вениаминович": 10,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 185,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000112248": 53,
+      "gas:candidate-vibid:1001000136114": 54,
+      "gas:candidate-vibid:363300270493": 20,
+      "gas:candidate-vibid:363300270568": 47,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 165,
+      "gas:candidate-vibid:1001000121901": 375,
+      "gas:candidate-vibid:363300270556": 10,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 185,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 46,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 177,
-      "Макашов Альберт Михайлович": 416,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 17,
-      "Федоров Михаил Васильевич": 228,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000112248": 46,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 177,
+      "gas:candidate-vibid:1001000121901": 416,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 17,
+      "gas:candidate-vibid:1001000225979": 228,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 51,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 42,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 166,
-      "Макашов Альберт Михайлович": 435,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 191,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000112248": 51,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 42,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 166,
+      "gas:candidate-vibid:1001000121901": 435,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 191,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 47,
-      "Венедиктов Юрий Николаевич": 37,
-      "Гужов Виктор Валентинович": 16,
-      "Гусенков Виталий Волеевич": 24,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 210,
-      "Макашов Альберт Михайлович": 325,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 14,
-      "Федоров Михаил Васильевич": 197,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000112248": 47,
+      "gas:candidate-vibid:1001000136114": 37,
+      "gas:candidate-vibid:363300270493": 16,
+      "gas:candidate-vibid:363300270568": 24,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 210,
+      "gas:candidate-vibid:1001000121901": 325,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 14,
+      "gas:candidate-vibid:1001000225979": 197,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 54,
-      "Венедиктов Юрий Николаевич": 74,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 30,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 184,
-      "Макашов Альберт Михайлович": 330,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 193,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000112248": 54,
+      "gas:candidate-vibid:1001000136114": 74,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 30,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 184,
+      "gas:candidate-vibid:1001000121901": 330,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 193,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 17,
-      "Венедиктов Юрий Николаевич": 13,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 93,
-      "Макашов Альберт Михайлович": 113,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 77,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000112248": 17,
+      "gas:candidate-vibid:1001000136114": 13,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 93,
+      "gas:candidate-vibid:1001000121901": 113,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 77,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 5,
-      "Венедиктов Юрий Николаевич": 2,
-      "Гужов Виктор Валентинович": 1,
-      "Гусенков Виталий Волеевич": 1,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 21,
-      "Макашов Альберт Михайлович": 15,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 22,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112248": 5,
+      "gas:candidate-vibid:1001000136114": 2,
+      "gas:candidate-vibid:363300270493": 1,
+      "gas:candidate-vibid:363300270568": 1,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 21,
+      "gas:candidate-vibid:1001000121901": 15,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 22,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 8,
-      "Венедиктов Юрий Николаевич": 2,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 21,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 35,
-      "Макашов Альберт Михайлович": 93,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 2,
-      "Федоров Михаил Васильевич": 27,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000112248": 8,
+      "gas:candidate-vibid:1001000136114": 2,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 21,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 35,
+      "gas:candidate-vibid:1001000121901": 93,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 2,
+      "gas:candidate-vibid:1001000225979": 27,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 34,
-      "Венедиктов Юрий Николаевич": 50,
-      "Гужов Виктор Валентинович": 7,
-      "Гусенков Виталий Волеевич": 35,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 136,
-      "Макашов Альберт Михайлович": 358,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 86,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112248": 34,
+      "gas:candidate-vibid:1001000136114": 50,
+      "gas:candidate-vibid:363300270493": 7,
+      "gas:candidate-vibid:363300270568": 35,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 136,
+      "gas:candidate-vibid:1001000121901": 358,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 86,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 3,
-      "Венедиктов Юрий Николаевич": 5,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 1,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 38,
-      "Макашов Альберт Михайлович": 8,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 2,
-      "Федоров Михаил Васильевич": 18,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000112248": 3,
+      "gas:candidate-vibid:1001000136114": 5,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 1,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 38,
+      "gas:candidate-vibid:1001000121901": 8,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 2,
+      "gas:candidate-vibid:1001000225979": 18,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 1,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 0,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 6,
-      "Макашов Альберт Михайлович": 12,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 1,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 0,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 6,
+      "gas:candidate-vibid:1001000121901": 12,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 0,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 0,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 5,
-      "Макашов Альберт Михайлович": 15,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 11,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 0,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 0,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 5,
+      "gas:candidate-vibid:1001000121901": 15,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 11,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 0,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 0,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 3,
-      "Макашов Альберт Михайлович": 4,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 0,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 0,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 3,
+      "gas:candidate-vibid:1001000121901": 4,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 0,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 0,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 0,
-      "Макашов Альберт Михайлович": 6,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 0,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 0,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 0,
+      "gas:candidate-vibid:1001000121901": 6,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070892&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 9,
-      "Венедиктов Юрий Николаевич": 14,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 17,
-      "Колосов Денис Олегович": 1,
-      "Лекарева Вера Александровна": 216,
-      "Макашов Альберт Михайлович": 66,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 23,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000112248": 9,
+      "gas:candidate-vibid:1001000136114": 14,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 17,
+      "gas:candidate-vibid:1001000195134": 1,
+      "gas:candidate-vibid:363300270559": 216,
+      "gas:candidate-vibid:1001000121901": 66,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 23,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 4,
-      "Гужов Виктор Валентинович": 1,
-      "Гусенков Виталий Волеевич": 1,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 93,
-      "Макашов Альберт Михайлович": 27,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 4,
+      "gas:candidate-vibid:363300270493": 1,
+      "gas:candidate-vibid:363300270568": 1,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 93,
+      "gas:candidate-vibid:1001000121901": 27,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 6,
-      "Венедиктов Юрий Николаевич": 6,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 4,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 158,
-      "Макашов Альберт Михайлович": 89,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 5,
-      "Федоров Михаил Васильевич": 50,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000112248": 6,
+      "gas:candidate-vibid:1001000136114": 6,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 4,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 158,
+      "gas:candidate-vibid:1001000121901": 89,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 5,
+      "gas:candidate-vibid:1001000225979": 50,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 1,
-      "Гужов Виктор Валентинович": 1,
-      "Гусенков Виталий Волеевич": 2,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 44,
-      "Макашов Альберт Михайлович": 10,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 1,
+      "gas:candidate-vibid:363300270493": 1,
+      "gas:candidate-vibid:363300270568": 2,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 44,
+      "gas:candidate-vibid:1001000121901": 10,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 3,
-      "Венедиктов Юрий Николаевич": 20,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 2,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 125,
-      "Макашов Альберт Михайлович": 73,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 21,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000112248": 3,
+      "gas:candidate-vibid:1001000136114": 20,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 2,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 125,
+      "gas:candidate-vibid:1001000121901": 73,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 21,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 25,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 165,
-      "Макашов Альберт Михайлович": 191,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 93,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 25,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 165,
+      "gas:candidate-vibid:1001000121901": 191,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 93,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 29,
-      "Венедиктов Юрий Николаевич": 49,
-      "Гужов Виктор Валентинович": 11,
-      "Гусенков Виталий Волеевич": 41,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 298,
-      "Макашов Альберт Михайлович": 276,
-      "Сидоров Сергей Вениаминович": 8,
-      "Телегин Александр Тимофеевич": 21,
-      "Федоров Михаил Васильевич": 144,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000112248": 29,
+      "gas:candidate-vibid:1001000136114": 49,
+      "gas:candidate-vibid:363300270493": 11,
+      "gas:candidate-vibid:363300270568": 41,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 298,
+      "gas:candidate-vibid:1001000121901": 276,
+      "gas:candidate-vibid:363300270556": 8,
+      "gas:candidate-vibid:1001000190406": 21,
+      "gas:candidate-vibid:1001000225979": 144,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 5,
-      "Венедиктов Юрий Николаевич": 13,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 4,
-      "Колосов Денис Олегович": 1,
-      "Лекарева Вера Александровна": 235,
-      "Макашов Альберт Михайлович": 249,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 88,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000112248": 5,
+      "gas:candidate-vibid:1001000136114": 13,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 4,
+      "gas:candidate-vibid:1001000195134": 1,
+      "gas:candidate-vibid:363300270559": 235,
+      "gas:candidate-vibid:1001000121901": 249,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 88,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 0,
-      "Венедиктов Юрий Николаевич": 3,
-      "Гужов Виктор Валентинович": 1,
-      "Гусенков Виталий Волеевич": 2,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 67,
-      "Макашов Альберт Михайлович": 53,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 9,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112248": 0,
+      "gas:candidate-vibid:1001000136114": 3,
+      "gas:candidate-vibid:363300270493": 1,
+      "gas:candidate-vibid:363300270568": 2,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 67,
+      "gas:candidate-vibid:1001000121901": 53,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 9,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 2,
-      "Венедиктов Юрий Николаевич": 6,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 0,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 24,
-      "Макашов Альберт Михайлович": 15,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 9,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112248": 2,
+      "gas:candidate-vibid:1001000136114": 6,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 0,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 24,
+      "gas:candidate-vibid:1001000121901": 15,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 9,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 4,
-      "Венедиктов Юрий Николаевич": 8,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 45,
-      "Колосов Денис Олегович": 4,
-      "Лекарева Вера Александровна": 137,
-      "Макашов Альберт Михайлович": 115,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 74,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112248": 4,
+      "gas:candidate-vibid:1001000136114": 8,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 45,
+      "gas:candidate-vibid:1001000195134": 4,
+      "gas:candidate-vibid:363300270559": 137,
+      "gas:candidate-vibid:1001000121901": 115,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 74,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 18,
-      "Венедиктов Юрий Николаевич": 29,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 27,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 277,
-      "Макашов Альберт Михайлович": 266,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 172,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000112248": 18,
+      "gas:candidate-vibid:1001000136114": 29,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 27,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 277,
+      "gas:candidate-vibid:1001000121901": 266,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 172,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 18,
-      "Венедиктов Юрий Николаевич": 30,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 29,
-      "Колосов Денис Олегович": 9,
-      "Лекарева Вера Александровна": 261,
-      "Макашов Альберт Михайлович": 275,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 171,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112248": 18,
+      "gas:candidate-vibid:1001000136114": 30,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 29,
+      "gas:candidate-vibid:1001000195134": 9,
+      "gas:candidate-vibid:363300270559": 261,
+      "gas:candidate-vibid:1001000121901": 275,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 171,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 17,
-      "Венедиктов Юрий Николаевич": 41,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 25,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 222,
-      "Макашов Альберт Михайлович": 306,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 150,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000112248": 17,
+      "gas:candidate-vibid:1001000136114": 41,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 25,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 222,
+      "gas:candidate-vibid:1001000121901": 306,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 150,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 3,
-      "Венедиктов Юрий Николаевич": 1,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 4,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 44,
-      "Макашов Альберт Михайлович": 76,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 22,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112248": 3,
+      "gas:candidate-vibid:1001000136114": 1,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 4,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 44,
+      "gas:candidate-vibid:1001000121901": 76,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 22,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 4,
-      "Венедиктов Юрий Николаевич": 3,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 1,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 34,
-      "Макашов Альберт Михайлович": 52,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 31,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112248": 4,
+      "gas:candidate-vibid:1001000136114": 3,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 1,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 34,
+      "gas:candidate-vibid:1001000121901": 52,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 31,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 1,
-      "Венедиктов Юрий Николаевич": 3,
-      "Гужов Виктор Валентинович": 0,
-      "Гусенков Виталий Волеевич": 4,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 121,
-      "Макашов Альберт Михайлович": 59,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 27,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112248": 1,
+      "gas:candidate-vibid:1001000136114": 3,
+      "gas:candidate-vibid:363300270493": 0,
+      "gas:candidate-vibid:363300270568": 4,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 121,
+      "gas:candidate-vibid:1001000121901": 59,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 27,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 26,
-      "Венедиктов Юрий Николаевич": 57,
-      "Гужов Виктор Валентинович": 12,
-      "Гусенков Виталий Волеевич": 23,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 252,
-      "Макашов Альберт Михайлович": 300,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 11,
-      "Федоров Михаил Васильевич": 167,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112248": 26,
+      "gas:candidate-vibid:1001000136114": 57,
+      "gas:candidate-vibid:363300270493": 12,
+      "gas:candidate-vibid:363300270568": 23,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 252,
+      "gas:candidate-vibid:1001000121901": 300,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 11,
+      "gas:candidate-vibid:1001000225979": 167,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 31,
-      "Венедиктов Юрий Николаевич": 64,
-      "Гужов Виктор Валентинович": 10,
-      "Гусенков Виталий Волеевич": 35,
-      "Колосов Денис Олегович": 13,
-      "Лекарева Вера Александровна": 343,
-      "Макашов Альберт Михайлович": 322,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 212,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000112248": 31,
+      "gas:candidate-vibid:1001000136114": 64,
+      "gas:candidate-vibid:363300270493": 10,
+      "gas:candidate-vibid:363300270568": 35,
+      "gas:candidate-vibid:1001000195134": 13,
+      "gas:candidate-vibid:363300270559": 343,
+      "gas:candidate-vibid:1001000121901": 322,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 212,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 16,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 20,
-      "Колосов Денис Олегович": 14,
-      "Лекарева Вера Александровна": 272,
-      "Макашов Альберт Михайлович": 221,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 192,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000112248": 16,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 20,
+      "gas:candidate-vibid:1001000195134": 14,
+      "gas:candidate-vibid:363300270559": 272,
+      "gas:candidate-vibid:1001000121901": 221,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 192,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 28,
-      "Венедиктов Юрий Николаевич": 35,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 27,
-      "Колосов Денис Олегович": 12,
-      "Лекарева Вера Александровна": 257,
-      "Макашов Альберт Михайлович": 241,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 222,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112248": 28,
+      "gas:candidate-vibid:1001000136114": 35,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 27,
+      "gas:candidate-vibid:1001000195134": 12,
+      "gas:candidate-vibid:363300270559": 257,
+      "gas:candidate-vibid:1001000121901": 241,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 222,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 13,
-      "Венедиктов Юрий Николаевич": 34,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 21,
-      "Лекарева Вера Александровна": 216,
-      "Макашов Альберт Михайлович": 256,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 8,
-      "Федоров Михаил Васильевич": 183,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000112248": 13,
+      "gas:candidate-vibid:1001000136114": 34,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 21,
+      "gas:candidate-vibid:363300270559": 216,
+      "gas:candidate-vibid:1001000121901": 256,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 8,
+      "gas:candidate-vibid:1001000225979": 183,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 23,
-      "Венедиктов Юрий Николаевич": 36,
-      "Гужов Виктор Валентинович": 9,
-      "Гусенков Виталий Волеевич": 13,
-      "Колосов Денис Олегович": 15,
-      "Лекарева Вера Александровна": 222,
-      "Макашов Альберт Михайлович": 214,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 9,
-      "Федоров Михаил Васильевич": 176,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000112248": 23,
+      "gas:candidate-vibid:1001000136114": 36,
+      "gas:candidate-vibid:363300270493": 9,
+      "gas:candidate-vibid:363300270568": 13,
+      "gas:candidate-vibid:1001000195134": 15,
+      "gas:candidate-vibid:363300270559": 222,
+      "gas:candidate-vibid:1001000121901": 214,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 9,
+      "gas:candidate-vibid:1001000225979": 176,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 10,
-      "Венедиктов Юрий Николаевич": 21,
-      "Гужов Виктор Валентинович": 5,
-      "Гусенков Виталий Волеевич": 3,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 177,
-      "Макашов Альберт Михайлович": 157,
-      "Сидоров Сергей Вениаминович": 5,
-      "Телегин Александр Тимофеевич": 4,
-      "Федоров Михаил Васильевич": 114,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112248": 10,
+      "gas:candidate-vibid:1001000136114": 21,
+      "gas:candidate-vibid:363300270493": 5,
+      "gas:candidate-vibid:363300270568": 3,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 177,
+      "gas:candidate-vibid:1001000121901": 157,
+      "gas:candidate-vibid:363300270556": 5,
+      "gas:candidate-vibid:1001000190406": 4,
+      "gas:candidate-vibid:1001000225979": 114,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 17,
-      "Венедиктов Юрий Николаевич": 24,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 117,
-      "Макашов Альберт Михайлович": 100,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 89,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112248": 17,
+      "gas:candidate-vibid:1001000136114": 24,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 117,
+      "gas:candidate-vibid:1001000121901": 100,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 89,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 9,
-      "Венедиктов Юрий Николаевич": 11,
-      "Гужов Виктор Валентинович": 3,
-      "Гусенков Виталий Волеевич": 3,
-      "Колосов Денис Олегович": 6,
-      "Лекарева Вера Александровна": 82,
-      "Макашов Альберт Михайлович": 61,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 2,
-      "Федоров Михаил Васильевич": 38,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112248": 9,
+      "gas:candidate-vibid:1001000136114": 11,
+      "gas:candidate-vibid:363300270493": 3,
+      "gas:candidate-vibid:363300270568": 3,
+      "gas:candidate-vibid:1001000195134": 6,
+      "gas:candidate-vibid:363300270559": 82,
+      "gas:candidate-vibid:1001000121901": 61,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 2,
+      "gas:candidate-vibid:1001000225979": 38,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 4,
-      "Венедиктов Юрий Николаевич": 3,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 4,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 41,
-      "Макашов Альберт Михайлович": 13,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 1,
-      "Федоров Михаил Васильевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112248": 4,
+      "gas:candidate-vibid:1001000136114": 3,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 4,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 41,
+      "gas:candidate-vibid:1001000121901": 13,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 1,
+      "gas:candidate-vibid:1001000225979": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 19,
-      "Венедиктов Юрий Николаевич": 32,
-      "Гужов Виктор Валентинович": 4,
-      "Гусенков Виталий Волеевич": 12,
-      "Колосов Денис Олегович": 5,
-      "Лекарева Вера Александровна": 281,
-      "Макашов Альберт Михайлович": 215,
-      "Сидоров Сергей Вениаминович": 7,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 157,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112248": 19,
+      "gas:candidate-vibid:1001000136114": 32,
+      "gas:candidate-vibid:363300270493": 4,
+      "gas:candidate-vibid:363300270568": 12,
+      "gas:candidate-vibid:1001000195134": 5,
+      "gas:candidate-vibid:363300270559": 281,
+      "gas:candidate-vibid:1001000121901": 215,
+      "gas:candidate-vibid:363300270556": 7,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 157,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 8,
-      "Венедиктов Юрий Николаевич": 4,
-      "Гужов Виктор Валентинович": 1,
-      "Гусенков Виталий Волеевич": 5,
-      "Колосов Денис Олегович": 2,
-      "Лекарева Вера Александровна": 111,
-      "Макашов Альберт Михайлович": 58,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 0,
-      "Федоров Михаил Васильевич": 17,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000112248": 8,
+      "gas:candidate-vibid:1001000136114": 4,
+      "gas:candidate-vibid:363300270493": 1,
+      "gas:candidate-vibid:363300270568": 5,
+      "gas:candidate-vibid:1001000195134": 2,
+      "gas:candidate-vibid:363300270559": 111,
+      "gas:candidate-vibid:1001000121901": 58,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 0,
+      "gas:candidate-vibid:1001000225979": 17,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_63_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 8,
-      "Венедиктов Юрий Николаевич": 9,
-      "Гужов Виктор Валентинович": 2,
-      "Гусенков Виталий Волеевич": 5,
-      "Колосов Денис Олегович": 0,
-      "Лекарева Вера Александровна": 105,
-      "Макашов Альберт Михайлович": 58,
-      "Сидоров Сергей Вениаминович": 0,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 30,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112248": 8,
+      "gas:candidate-vibid:1001000136114": 9,
+      "gas:candidate-vibid:363300270493": 2,
+      "gas:candidate-vibid:363300270568": 5,
+      "gas:candidate-vibid:1001000195134": 0,
+      "gas:candidate-vibid:363300270559": 105,
+      "gas:candidate-vibid:1001000121901": 58,
+      "gas:candidate-vibid:363300270556": 0,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 30,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070893&region=0&sub_region=0&type=429",

@@ -42,18 +42,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 22,
-      "Камалетдинов Венер Хаернасович": 393,
-      "Кузнецов Сергей Николаевич": 235,
-      "Муратова Лилия Рифкатовна": 746,
-      "Овсянников Александр Митрофанович": 181,
-      "Пархоменко Владимир Григорьевич": 58,
-      "Сибиряков Сергей Анатольевич": 46,
-      "Фазлыев Аскар Асхатович": 45,
-      "Хакимов Загир Ахсанович": 49,
-      "Шангареева Зиля Саетмухаметовна": 28,
-      "Юмагулов Анвер Мансурович": 20,
-      "Против всех": 278
+      "gas:candidate-vibid:302300167301": 22,
+      "gas:candidate-vibid:1001000225870": 393,
+      "gas:candidate-vibid:1001000112176": 235,
+      "gas:candidate-vibid:302300167173": 746,
+      "gas:candidate-vibid:1001000121787": 181,
+      "gas:candidate-vibid:302300167232": 58,
+      "gas:candidate-vibid:1001000194997": 46,
+      "gas:candidate-vibid:302300166764": 45,
+      "gas:candidate-vibid:1001000201791": 49,
+      "gas:candidate-vibid:302300166628": 28,
+      "gas:candidate-vibid:302300166842": 20,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -103,18 +103,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 16,
-      "Камалетдинов Венер Хаернасович": 385,
-      "Кузнецов Сергей Николаевич": 222,
-      "Муратова Лилия Рифкатовна": 600,
-      "Овсянников Александр Митрофанович": 283,
-      "Пархоменко Владимир Григорьевич": 55,
-      "Сибиряков Сергей Анатольевич": 56,
-      "Фазлыев Аскар Асхатович": 79,
-      "Хакимов Загир Ахсанович": 45,
-      "Шангареева Зиля Саетмухаметовна": 27,
-      "Юмагулов Анвер Мансурович": 31,
-      "Против всех": 240
+      "gas:candidate-vibid:302300167301": 16,
+      "gas:candidate-vibid:1001000225870": 385,
+      "gas:candidate-vibid:1001000112176": 222,
+      "gas:candidate-vibid:302300167173": 600,
+      "gas:candidate-vibid:1001000121787": 283,
+      "gas:candidate-vibid:302300167232": 55,
+      "gas:candidate-vibid:1001000194997": 56,
+      "gas:candidate-vibid:302300166764": 79,
+      "gas:candidate-vibid:1001000201791": 45,
+      "gas:candidate-vibid:302300166628": 27,
+      "gas:candidate-vibid:302300166842": 31,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -164,18 +164,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 22,
-      "Камалетдинов Венер Хаернасович": 306,
-      "Кузнецов Сергей Николаевич": 210,
-      "Муратова Лилия Рифкатовна": 583,
-      "Овсянников Александр Митрофанович": 232,
-      "Пархоменко Владимир Григорьевич": 48,
-      "Сибиряков Сергей Анатольевич": 32,
-      "Фазлыев Аскар Асхатович": 97,
-      "Хакимов Загир Ахсанович": 53,
-      "Шангареева Зиля Саетмухаметовна": 60,
-      "Юмагулов Анвер Мансурович": 39,
-      "Против всех": 235
+      "gas:candidate-vibid:302300167301": 22,
+      "gas:candidate-vibid:1001000225870": 306,
+      "gas:candidate-vibid:1001000112176": 210,
+      "gas:candidate-vibid:302300167173": 583,
+      "gas:candidate-vibid:1001000121787": 232,
+      "gas:candidate-vibid:302300167232": 48,
+      "gas:candidate-vibid:1001000194997": 32,
+      "gas:candidate-vibid:302300166764": 97,
+      "gas:candidate-vibid:1001000201791": 53,
+      "gas:candidate-vibid:302300166628": 60,
+      "gas:candidate-vibid:302300166842": 39,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -225,18 +225,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 8,
-      "Камалетдинов Венер Хаернасович": 362,
-      "Кузнецов Сергей Николаевич": 202,
-      "Муратова Лилия Рифкатовна": 630,
-      "Овсянников Александр Митрофанович": 204,
-      "Пархоменко Владимир Григорьевич": 43,
-      "Сибиряков Сергей Анатольевич": 21,
-      "Фазлыев Аскар Асхатович": 128,
-      "Хакимов Загир Ахсанович": 40,
-      "Шангареева Зиля Саетмухаметовна": 34,
-      "Юмагулов Анвер Мансурович": 21,
-      "Против всех": 261
+      "gas:candidate-vibid:302300167301": 8,
+      "gas:candidate-vibid:1001000225870": 362,
+      "gas:candidate-vibid:1001000112176": 202,
+      "gas:candidate-vibid:302300167173": 630,
+      "gas:candidate-vibid:1001000121787": 204,
+      "gas:candidate-vibid:302300167232": 43,
+      "gas:candidate-vibid:1001000194997": 21,
+      "gas:candidate-vibid:302300166764": 128,
+      "gas:candidate-vibid:1001000201791": 40,
+      "gas:candidate-vibid:302300166628": 34,
+      "gas:candidate-vibid:302300166842": 21,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -286,18 +286,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 18,
-      "Камалетдинов Венер Хаернасович": 205,
-      "Кузнецов Сергей Николаевич": 148,
-      "Муратова Лилия Рифкатовна": 442,
-      "Овсянников Александр Митрофанович": 123,
-      "Пархоменко Владимир Григорьевич": 32,
-      "Сибиряков Сергей Анатольевич": 25,
-      "Фазлыев Аскар Асхатович": 29,
-      "Хакимов Загир Ахсанович": 40,
-      "Шангареева Зиля Саетмухаметовна": 27,
-      "Юмагулов Анвер Мансурович": 13,
-      "Против всех": 195
+      "gas:candidate-vibid:302300167301": 18,
+      "gas:candidate-vibid:1001000225870": 205,
+      "gas:candidate-vibid:1001000112176": 148,
+      "gas:candidate-vibid:302300167173": 442,
+      "gas:candidate-vibid:1001000121787": 123,
+      "gas:candidate-vibid:302300167232": 32,
+      "gas:candidate-vibid:1001000194997": 25,
+      "gas:candidate-vibid:302300166764": 29,
+      "gas:candidate-vibid:1001000201791": 40,
+      "gas:candidate-vibid:302300166628": 27,
+      "gas:candidate-vibid:302300166842": 13,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -347,18 +347,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 16,
-      "Камалетдинов Венер Хаернасович": 461,
-      "Кузнецов Сергей Николаевич": 189,
-      "Муратова Лилия Рифкатовна": 707,
-      "Овсянников Александр Митрофанович": 193,
-      "Пархоменко Владимир Григорьевич": 32,
-      "Сибиряков Сергей Анатольевич": 44,
-      "Фазлыев Аскар Асхатович": 45,
-      "Хакимов Загир Ахсанович": 71,
-      "Шангареева Зиля Саетмухаметовна": 40,
-      "Юмагулов Анвер Мансурович": 18,
-      "Против всех": 287
+      "gas:candidate-vibid:302300167301": 16,
+      "gas:candidate-vibid:1001000225870": 461,
+      "gas:candidate-vibid:1001000112176": 189,
+      "gas:candidate-vibid:302300167173": 707,
+      "gas:candidate-vibid:1001000121787": 193,
+      "gas:candidate-vibid:302300167232": 32,
+      "gas:candidate-vibid:1001000194997": 44,
+      "gas:candidate-vibid:302300166764": 45,
+      "gas:candidate-vibid:1001000201791": 71,
+      "gas:candidate-vibid:302300166628": 40,
+      "gas:candidate-vibid:302300166842": 18,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -408,18 +408,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 19,
-      "Камалетдинов Венер Хаернасович": 159,
-      "Кузнецов Сергей Николаевич": 73,
-      "Муратова Лилия Рифкатовна": 353,
-      "Овсянников Александр Митрофанович": 85,
-      "Пархоменко Владимир Григорьевич": 16,
-      "Сибиряков Сергей Анатольевич": 15,
-      "Фазлыев Аскар Асхатович": 18,
-      "Хакимов Загир Ахсанович": 35,
-      "Шангареева Зиля Саетмухаметовна": 20,
-      "Юмагулов Анвер Мансурович": 6,
-      "Против всех": 97
+      "gas:candidate-vibid:302300167301": 19,
+      "gas:candidate-vibid:1001000225870": 159,
+      "gas:candidate-vibid:1001000112176": 73,
+      "gas:candidate-vibid:302300167173": 353,
+      "gas:candidate-vibid:1001000121787": 85,
+      "gas:candidate-vibid:302300167232": 16,
+      "gas:candidate-vibid:1001000194997": 15,
+      "gas:candidate-vibid:302300166764": 18,
+      "gas:candidate-vibid:1001000201791": 35,
+      "gas:candidate-vibid:302300166628": 20,
+      "gas:candidate-vibid:302300166842": 6,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000060&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066875&region=0&sub_region=0&type=429",
@@ -469,18 +469,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 27,
-      "Камалетдинов Венер Хаернасович": 186,
-      "Кузнецов Сергей Николаевич": 108,
-      "Муратова Лилия Рифкатовна": 498,
-      "Овсянников Александр Митрофанович": 209,
-      "Пархоменко Владимир Григорьевич": 58,
-      "Сибиряков Сергей Анатольевич": 31,
-      "Фазлыев Аскар Асхатович": 151,
-      "Хакимов Загир Ахсанович": 47,
-      "Шангареева Зиля Саетмухаметовна": 26,
-      "Юмагулов Анвер Мансурович": 26,
-      "Против всех": 264
+      "gas:candidate-vibid:302300167301": 27,
+      "gas:candidate-vibid:1001000225870": 186,
+      "gas:candidate-vibid:1001000112176": 108,
+      "gas:candidate-vibid:302300167173": 498,
+      "gas:candidate-vibid:1001000121787": 209,
+      "gas:candidate-vibid:302300167232": 58,
+      "gas:candidate-vibid:1001000194997": 31,
+      "gas:candidate-vibid:302300166764": 151,
+      "gas:candidate-vibid:1001000201791": 47,
+      "gas:candidate-vibid:302300166628": 26,
+      "gas:candidate-vibid:302300166842": 26,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -530,18 +530,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 13,
-      "Камалетдинов Венер Хаернасович": 182,
-      "Кузнецов Сергей Николаевич": 101,
-      "Муратова Лилия Рифкатовна": 487,
-      "Овсянников Александр Митрофанович": 200,
-      "Пархоменко Владимир Григорьевич": 59,
-      "Сибиряков Сергей Анатольевич": 13,
-      "Фазлыев Аскар Асхатович": 70,
-      "Хакимов Загир Ахсанович": 79,
-      "Шангареева Зиля Саетмухаметовна": 28,
-      "Юмагулов Анвер Мансурович": 21,
-      "Против всех": 171
+      "gas:candidate-vibid:302300167301": 13,
+      "gas:candidate-vibid:1001000225870": 182,
+      "gas:candidate-vibid:1001000112176": 101,
+      "gas:candidate-vibid:302300167173": 487,
+      "gas:candidate-vibid:1001000121787": 200,
+      "gas:candidate-vibid:302300167232": 59,
+      "gas:candidate-vibid:1001000194997": 13,
+      "gas:candidate-vibid:302300166764": 70,
+      "gas:candidate-vibid:1001000201791": 79,
+      "gas:candidate-vibid:302300166628": 28,
+      "gas:candidate-vibid:302300166842": 21,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -591,18 +591,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 21,
-      "Камалетдинов Венер Хаернасович": 215,
-      "Кузнецов Сергей Николаевич": 145,
-      "Муратова Лилия Рифкатовна": 385,
-      "Овсянников Александр Митрофанович": 198,
-      "Пархоменко Владимир Григорьевич": 36,
-      "Сибиряков Сергей Анатольевич": 16,
-      "Фазлыев Аскар Асхатович": 79,
-      "Хакимов Загир Ахсанович": 48,
-      "Шангареева Зиля Саетмухаметовна": 18,
-      "Юмагулов Анвер Мансурович": 26,
-      "Против всех": 157
+      "gas:candidate-vibid:302300167301": 21,
+      "gas:candidate-vibid:1001000225870": 215,
+      "gas:candidate-vibid:1001000112176": 145,
+      "gas:candidate-vibid:302300167173": 385,
+      "gas:candidate-vibid:1001000121787": 198,
+      "gas:candidate-vibid:302300167232": 36,
+      "gas:candidate-vibid:1001000194997": 16,
+      "gas:candidate-vibid:302300166764": 79,
+      "gas:candidate-vibid:1001000201791": 48,
+      "gas:candidate-vibid:302300166628": 18,
+      "gas:candidate-vibid:302300166842": 26,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -652,18 +652,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 14,
-      "Камалетдинов Венер Хаернасович": 176,
-      "Кузнецов Сергей Николаевич": 103,
-      "Муратова Лилия Рифкатовна": 379,
-      "Овсянников Александр Митрофанович": 219,
-      "Пархоменко Владимир Григорьевич": 34,
-      "Сибиряков Сергей Анатольевич": 22,
-      "Фазлыев Аскар Асхатович": 92,
-      "Хакимов Загир Ахсанович": 38,
-      "Шангареева Зиля Саетмухаметовна": 18,
-      "Юмагулов Анвер Мансурович": 17,
-      "Против всех": 162
+      "gas:candidate-vibid:302300167301": 14,
+      "gas:candidate-vibid:1001000225870": 176,
+      "gas:candidate-vibid:1001000112176": 103,
+      "gas:candidate-vibid:302300167173": 379,
+      "gas:candidate-vibid:1001000121787": 219,
+      "gas:candidate-vibid:302300167232": 34,
+      "gas:candidate-vibid:1001000194997": 22,
+      "gas:candidate-vibid:302300166764": 92,
+      "gas:candidate-vibid:1001000201791": 38,
+      "gas:candidate-vibid:302300166628": 18,
+      "gas:candidate-vibid:302300166842": 17,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -713,18 +713,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 29,
-      "Камалетдинов Венер Хаернасович": 314,
-      "Кузнецов Сергей Николаевич": 143,
-      "Муратова Лилия Рифкатовна": 482,
-      "Овсянников Александр Митрофанович": 141,
-      "Пархоменко Владимир Григорьевич": 52,
-      "Сибиряков Сергей Анатольевич": 21,
-      "Фазлыев Аскар Асхатович": 54,
-      "Хакимов Загир Ахсанович": 83,
-      "Шангареева Зиля Саетмухаметовна": 35,
-      "Юмагулов Анвер Мансурович": 37,
-      "Против всех": 208
+      "gas:candidate-vibid:302300167301": 29,
+      "gas:candidate-vibid:1001000225870": 314,
+      "gas:candidate-vibid:1001000112176": 143,
+      "gas:candidate-vibid:302300167173": 482,
+      "gas:candidate-vibid:1001000121787": 141,
+      "gas:candidate-vibid:302300167232": 52,
+      "gas:candidate-vibid:1001000194997": 21,
+      "gas:candidate-vibid:302300166764": 54,
+      "gas:candidate-vibid:1001000201791": 83,
+      "gas:candidate-vibid:302300166628": 35,
+      "gas:candidate-vibid:302300166842": 37,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -774,18 +774,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 21,
-      "Камалетдинов Венер Хаернасович": 215,
-      "Кузнецов Сергей Николаевич": 70,
-      "Муратова Лилия Рифкатовна": 590,
-      "Овсянников Александр Митрофанович": 148,
-      "Пархоменко Владимир Григорьевич": 26,
-      "Сибиряков Сергей Анатольевич": 27,
-      "Фазлыев Аскар Асхатович": 90,
-      "Хакимов Загир Ахсанович": 33,
-      "Шангареева Зиля Саетмухаметовна": 33,
-      "Юмагулов Анвер Мансурович": 17,
-      "Против всех": 192
+      "gas:candidate-vibid:302300167301": 21,
+      "gas:candidate-vibid:1001000225870": 215,
+      "gas:candidate-vibid:1001000112176": 70,
+      "gas:candidate-vibid:302300167173": 590,
+      "gas:candidate-vibid:1001000121787": 148,
+      "gas:candidate-vibid:302300167232": 26,
+      "gas:candidate-vibid:1001000194997": 27,
+      "gas:candidate-vibid:302300166764": 90,
+      "gas:candidate-vibid:1001000201791": 33,
+      "gas:candidate-vibid:302300166628": 33,
+      "gas:candidate-vibid:302300166842": 17,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -835,18 +835,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 18,
-      "Камалетдинов Венер Хаернасович": 226,
-      "Кузнецов Сергей Николаевич": 93,
-      "Муратова Лилия Рифкатовна": 618,
-      "Овсянников Александр Митрофанович": 182,
-      "Пархоменко Владимир Григорьевич": 29,
-      "Сибиряков Сергей Анатольевич": 17,
-      "Фазлыев Аскар Асхатович": 53,
-      "Хакимов Загир Ахсанович": 45,
-      "Шангареева Зиля Саетмухаметовна": 28,
-      "Юмагулов Анвер Мансурович": 27,
-      "Против всех": 171
+      "gas:candidate-vibid:302300167301": 18,
+      "gas:candidate-vibid:1001000225870": 226,
+      "gas:candidate-vibid:1001000112176": 93,
+      "gas:candidate-vibid:302300167173": 618,
+      "gas:candidate-vibid:1001000121787": 182,
+      "gas:candidate-vibid:302300167232": 29,
+      "gas:candidate-vibid:1001000194997": 17,
+      "gas:candidate-vibid:302300166764": 53,
+      "gas:candidate-vibid:1001000201791": 45,
+      "gas:candidate-vibid:302300166628": 28,
+      "gas:candidate-vibid:302300166842": 27,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -896,18 +896,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 219,
-      "Кузнецов Сергей Николаевич": 162,
-      "Муратова Лилия Рифкатовна": 467,
-      "Овсянников Александр Митрофанович": 213,
-      "Пархоменко Владимир Григорьевич": 42,
-      "Сибиряков Сергей Анатольевич": 28,
-      "Фазлыев Аскар Асхатович": 109,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 11,
-      "Против всех": 160
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 219,
+      "gas:candidate-vibid:1001000112176": 162,
+      "gas:candidate-vibid:302300167173": 467,
+      "gas:candidate-vibid:1001000121787": 213,
+      "gas:candidate-vibid:302300167232": 42,
+      "gas:candidate-vibid:1001000194997": 28,
+      "gas:candidate-vibid:302300166764": 109,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 11,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -957,18 +957,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 28,
-      "Камалетдинов Венер Хаернасович": 238,
-      "Кузнецов Сергей Николаевич": 148,
-      "Муратова Лилия Рифкатовна": 443,
-      "Овсянников Александр Митрофанович": 247,
-      "Пархоменко Владимир Григорьевич": 48,
-      "Сибиряков Сергей Анатольевич": 37,
-      "Фазлыев Аскар Асхатович": 81,
-      "Хакимов Загир Ахсанович": 38,
-      "Шангареева Зиля Саетмухаметовна": 31,
-      "Юмагулов Анвер Мансурович": 22,
-      "Против всех": 192
+      "gas:candidate-vibid:302300167301": 28,
+      "gas:candidate-vibid:1001000225870": 238,
+      "gas:candidate-vibid:1001000112176": 148,
+      "gas:candidate-vibid:302300167173": 443,
+      "gas:candidate-vibid:1001000121787": 247,
+      "gas:candidate-vibid:302300167232": 48,
+      "gas:candidate-vibid:1001000194997": 37,
+      "gas:candidate-vibid:302300166764": 81,
+      "gas:candidate-vibid:1001000201791": 38,
+      "gas:candidate-vibid:302300166628": 31,
+      "gas:candidate-vibid:302300166842": 22,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1018,18 +1018,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 17,
-      "Камалетдинов Венер Хаернасович": 220,
-      "Кузнецов Сергей Николаевич": 152,
-      "Муратова Лилия Рифкатовна": 516,
-      "Овсянников Александр Митрофанович": 210,
-      "Пархоменко Владимир Григорьевич": 49,
-      "Сибиряков Сергей Анатольевич": 14,
-      "Фазлыев Аскар Асхатович": 117,
-      "Хакимов Загир Ахсанович": 40,
-      "Шангареева Зиля Саетмухаметовна": 51,
-      "Юмагулов Анвер Мансурович": 29,
-      "Против всех": 185
+      "gas:candidate-vibid:302300167301": 17,
+      "gas:candidate-vibid:1001000225870": 220,
+      "gas:candidate-vibid:1001000112176": 152,
+      "gas:candidate-vibid:302300167173": 516,
+      "gas:candidate-vibid:1001000121787": 210,
+      "gas:candidate-vibid:302300167232": 49,
+      "gas:candidate-vibid:1001000194997": 14,
+      "gas:candidate-vibid:302300166764": 117,
+      "gas:candidate-vibid:1001000201791": 40,
+      "gas:candidate-vibid:302300166628": 51,
+      "gas:candidate-vibid:302300166842": 29,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1079,18 +1079,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 220,
-      "Кузнецов Сергей Николаевич": 170,
-      "Муратова Лилия Рифкатовна": 543,
-      "Овсянников Александр Митрофанович": 213,
-      "Пархоменко Владимир Григорьевич": 49,
-      "Сибиряков Сергей Анатольевич": 25,
-      "Фазлыев Аскар Асхатович": 89,
-      "Хакимов Загир Ахсанович": 46,
-      "Шангареева Зиля Саетмухаметовна": 56,
-      "Юмагулов Анвер Мансурович": 23,
-      "Против всех": 209
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 220,
+      "gas:candidate-vibid:1001000112176": 170,
+      "gas:candidate-vibid:302300167173": 543,
+      "gas:candidate-vibid:1001000121787": 213,
+      "gas:candidate-vibid:302300167232": 49,
+      "gas:candidate-vibid:1001000194997": 25,
+      "gas:candidate-vibid:302300166764": 89,
+      "gas:candidate-vibid:1001000201791": 46,
+      "gas:candidate-vibid:302300166628": 56,
+      "gas:candidate-vibid:302300166842": 23,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1140,18 +1140,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 20,
-      "Камалетдинов Венер Хаернасович": 169,
-      "Кузнецов Сергей Николаевич": 125,
-      "Муратова Лилия Рифкатовна": 428,
-      "Овсянников Александр Митрофанович": 216,
-      "Пархоменко Владимир Григорьевич": 36,
-      "Сибиряков Сергей Анатольевич": 28,
-      "Фазлыев Аскар Асхатович": 84,
-      "Хакимов Загир Ахсанович": 30,
-      "Шангареева Зиля Саетмухаметовна": 26,
-      "Юмагулов Анвер Мансурович": 34,
-      "Против всех": 207
+      "gas:candidate-vibid:302300167301": 20,
+      "gas:candidate-vibid:1001000225870": 169,
+      "gas:candidate-vibid:1001000112176": 125,
+      "gas:candidate-vibid:302300167173": 428,
+      "gas:candidate-vibid:1001000121787": 216,
+      "gas:candidate-vibid:302300167232": 36,
+      "gas:candidate-vibid:1001000194997": 28,
+      "gas:candidate-vibid:302300166764": 84,
+      "gas:candidate-vibid:1001000201791": 30,
+      "gas:candidate-vibid:302300166628": 26,
+      "gas:candidate-vibid:302300166842": 34,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1201,18 +1201,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 11,
-      "Камалетдинов Венер Хаернасович": 148,
-      "Кузнецов Сергей Николаевич": 130,
-      "Муратова Лилия Рифкатовна": 316,
-      "Овсянников Александр Митрофанович": 138,
-      "Пархоменко Владимир Григорьевич": 19,
-      "Сибиряков Сергей Анатольевич": 32,
-      "Фазлыев Аскар Асхатович": 45,
-      "Хакимов Загир Ахсанович": 26,
-      "Шангареева Зиля Саетмухаметовна": 15,
-      "Юмагулов Анвер Мансурович": 12,
-      "Против всех": 96
+      "gas:candidate-vibid:302300167301": 11,
+      "gas:candidate-vibid:1001000225870": 148,
+      "gas:candidate-vibid:1001000112176": 130,
+      "gas:candidate-vibid:302300167173": 316,
+      "gas:candidate-vibid:1001000121787": 138,
+      "gas:candidate-vibid:302300167232": 19,
+      "gas:candidate-vibid:1001000194997": 32,
+      "gas:candidate-vibid:302300166764": 45,
+      "gas:candidate-vibid:1001000201791": 26,
+      "gas:candidate-vibid:302300166628": 15,
+      "gas:candidate-vibid:302300166842": 12,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1262,18 +1262,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 7,
-      "Камалетдинов Венер Хаернасович": 115,
-      "Кузнецов Сергей Николаевич": 69,
-      "Муратова Лилия Рифкатовна": 282,
-      "Овсянников Александр Митрофанович": 166,
-      "Пархоменко Владимир Григорьевич": 29,
-      "Сибиряков Сергей Анатольевич": 10,
-      "Фазлыев Аскар Асхатович": 62,
-      "Хакимов Загир Ахсанович": 23,
-      "Шангареева Зиля Саетмухаметовна": 15,
-      "Юмагулов Анвер Мансурович": 14,
-      "Против всех": 108
+      "gas:candidate-vibid:302300167301": 7,
+      "gas:candidate-vibid:1001000225870": 115,
+      "gas:candidate-vibid:1001000112176": 69,
+      "gas:candidate-vibid:302300167173": 282,
+      "gas:candidate-vibid:1001000121787": 166,
+      "gas:candidate-vibid:302300167232": 29,
+      "gas:candidate-vibid:1001000194997": 10,
+      "gas:candidate-vibid:302300166764": 62,
+      "gas:candidate-vibid:1001000201791": 23,
+      "gas:candidate-vibid:302300166628": 15,
+      "gas:candidate-vibid:302300166842": 14,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1323,18 +1323,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 174,
-      "Кузнецов Сергей Николаевич": 89,
-      "Муратова Лилия Рифкатовна": 411,
-      "Овсянников Александр Митрофанович": 140,
-      "Пархоменко Владимир Григорьевич": 80,
-      "Сибиряков Сергей Анатольевич": 17,
-      "Фазлыев Аскар Асхатович": 75,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 33,
-      "Юмагулов Анвер Мансурович": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 174,
+      "gas:candidate-vibid:1001000112176": 89,
+      "gas:candidate-vibid:302300167173": 411,
+      "gas:candidate-vibid:1001000121787": 140,
+      "gas:candidate-vibid:302300167232": 80,
+      "gas:candidate-vibid:1001000194997": 17,
+      "gas:candidate-vibid:302300166764": 75,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 33,
+      "gas:candidate-vibid:302300166842": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1384,18 +1384,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 14,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 37,
-      "Овсянников Александр Митрофанович": 9,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 6,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 14,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 37,
+      "gas:candidate-vibid:1001000121787": 9,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 6,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1445,18 +1445,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 17,
-      "Камалетдинов Венер Хаернасович": 186,
-      "Кузнецов Сергей Николаевич": 140,
-      "Муратова Лилия Рифкатовна": 420,
-      "Овсянников Александр Митрофанович": 195,
-      "Пархоменко Владимир Григорьевич": 40,
-      "Сибиряков Сергей Анатольевич": 22,
-      "Фазлыев Аскар Асхатович": 52,
-      "Хакимов Загир Ахсанович": 38,
-      "Шангареева Зиля Саетмухаметовна": 34,
-      "Юмагулов Анвер Мансурович": 52,
-      "Против всех": 189
+      "gas:candidate-vibid:302300167301": 17,
+      "gas:candidate-vibid:1001000225870": 186,
+      "gas:candidate-vibid:1001000112176": 140,
+      "gas:candidate-vibid:302300167173": 420,
+      "gas:candidate-vibid:1001000121787": 195,
+      "gas:candidate-vibid:302300167232": 40,
+      "gas:candidate-vibid:1001000194997": 22,
+      "gas:candidate-vibid:302300166764": 52,
+      "gas:candidate-vibid:1001000201791": 38,
+      "gas:candidate-vibid:302300166628": 34,
+      "gas:candidate-vibid:302300166842": 52,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1506,18 +1506,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 28,
-      "Камалетдинов Венер Хаернасович": 277,
-      "Кузнецов Сергей Николаевич": 144,
-      "Муратова Лилия Рифкатовна": 401,
-      "Овсянников Александр Митрофанович": 182,
-      "Пархоменко Владимир Григорьевич": 73,
-      "Сибиряков Сергей Анатольевич": 20,
-      "Фазлыев Аскар Асхатович": 121,
-      "Хакимов Загир Ахсанович": 71,
-      "Шангареева Зиля Саетмухаметовна": 34,
-      "Юмагулов Анвер Мансурович": 35,
-      "Против всех": 157
+      "gas:candidate-vibid:302300167301": 28,
+      "gas:candidate-vibid:1001000225870": 277,
+      "gas:candidate-vibid:1001000112176": 144,
+      "gas:candidate-vibid:302300167173": 401,
+      "gas:candidate-vibid:1001000121787": 182,
+      "gas:candidate-vibid:302300167232": 73,
+      "gas:candidate-vibid:1001000194997": 20,
+      "gas:candidate-vibid:302300166764": 121,
+      "gas:candidate-vibid:1001000201791": 71,
+      "gas:candidate-vibid:302300166628": 34,
+      "gas:candidate-vibid:302300166842": 35,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1567,18 +1567,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 155,
-      "Кузнецов Сергей Николаевич": 106,
-      "Муратова Лилия Рифкатовна": 431,
-      "Овсянников Александр Митрофанович": 260,
-      "Пархоменко Владимир Григорьевич": 34,
-      "Сибиряков Сергей Анатольевич": 20,
-      "Фазлыев Аскар Асхатович": 122,
-      "Хакимов Загир Ахсанович": 29,
-      "Шангареева Зиля Саетмухаметовна": 21,
-      "Юмагулов Анвер Мансурович": 40,
-      "Против всех": 193
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 155,
+      "gas:candidate-vibid:1001000112176": 106,
+      "gas:candidate-vibid:302300167173": 431,
+      "gas:candidate-vibid:1001000121787": 260,
+      "gas:candidate-vibid:302300167232": 34,
+      "gas:candidate-vibid:1001000194997": 20,
+      "gas:candidate-vibid:302300166764": 122,
+      "gas:candidate-vibid:1001000201791": 29,
+      "gas:candidate-vibid:302300166628": 21,
+      "gas:candidate-vibid:302300166842": 40,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1628,18 +1628,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 16,
-      "Камалетдинов Венер Хаернасович": 169,
-      "Кузнецов Сергей Николаевич": 174,
-      "Муратова Лилия Рифкатовна": 473,
-      "Овсянников Александр Митрофанович": 208,
-      "Пархоменко Владимир Григорьевич": 32,
-      "Сибиряков Сергей Анатольевич": 24,
-      "Фазлыев Аскар Асхатович": 169,
-      "Хакимов Загир Ахсанович": 40,
-      "Шангареева Зиля Саетмухаметовна": 18,
-      "Юмагулов Анвер Мансурович": 30,
-      "Против всех": 183
+      "gas:candidate-vibid:302300167301": 16,
+      "gas:candidate-vibid:1001000225870": 169,
+      "gas:candidate-vibid:1001000112176": 174,
+      "gas:candidate-vibid:302300167173": 473,
+      "gas:candidate-vibid:1001000121787": 208,
+      "gas:candidate-vibid:302300167232": 32,
+      "gas:candidate-vibid:1001000194997": 24,
+      "gas:candidate-vibid:302300166764": 169,
+      "gas:candidate-vibid:1001000201791": 40,
+      "gas:candidate-vibid:302300166628": 18,
+      "gas:candidate-vibid:302300166842": 30,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1689,18 +1689,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 28,
-      "Камалетдинов Венер Хаернасович": 185,
-      "Кузнецов Сергей Николаевич": 120,
-      "Муратова Лилия Рифкатовна": 427,
-      "Овсянников Александр Митрофанович": 227,
-      "Пархоменко Владимир Григорьевич": 49,
-      "Сибиряков Сергей Анатольевич": 25,
-      "Фазлыев Аскар Асхатович": 126,
-      "Хакимов Загир Ахсанович": 41,
-      "Шангареева Зиля Саетмухаметовна": 16,
-      "Юмагулов Анвер Мансурович": 25,
-      "Против всех": 177
+      "gas:candidate-vibid:302300167301": 28,
+      "gas:candidate-vibid:1001000225870": 185,
+      "gas:candidate-vibid:1001000112176": 120,
+      "gas:candidate-vibid:302300167173": 427,
+      "gas:candidate-vibid:1001000121787": 227,
+      "gas:candidate-vibid:302300167232": 49,
+      "gas:candidate-vibid:1001000194997": 25,
+      "gas:candidate-vibid:302300166764": 126,
+      "gas:candidate-vibid:1001000201791": 41,
+      "gas:candidate-vibid:302300166628": 16,
+      "gas:candidate-vibid:302300166842": 25,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1750,18 +1750,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 20,
-      "Камалетдинов Венер Хаернасович": 217,
-      "Кузнецов Сергей Николаевич": 122,
-      "Муратова Лилия Рифкатовна": 426,
-      "Овсянников Александр Митрофанович": 158,
-      "Пархоменко Владимир Григорьевич": 45,
-      "Сибиряков Сергей Анатольевич": 22,
-      "Фазлыев Аскар Асхатович": 96,
-      "Хакимов Загир Ахсанович": 31,
-      "Шангареева Зиля Саетмухаметовна": 49,
-      "Юмагулов Анвер Мансурович": 30,
-      "Против всех": 229
+      "gas:candidate-vibid:302300167301": 20,
+      "gas:candidate-vibid:1001000225870": 217,
+      "gas:candidate-vibid:1001000112176": 122,
+      "gas:candidate-vibid:302300167173": 426,
+      "gas:candidate-vibid:1001000121787": 158,
+      "gas:candidate-vibid:302300167232": 45,
+      "gas:candidate-vibid:1001000194997": 22,
+      "gas:candidate-vibid:302300166764": 96,
+      "gas:candidate-vibid:1001000201791": 31,
+      "gas:candidate-vibid:302300166628": 49,
+      "gas:candidate-vibid:302300166842": 30,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1811,18 +1811,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 32,
-      "Камалетдинов Венер Хаернасович": 264,
-      "Кузнецов Сергей Николаевич": 91,
-      "Муратова Лилия Рифкатовна": 492,
-      "Овсянников Александр Митрофанович": 162,
-      "Пархоменко Владимир Григорьевич": 45,
-      "Сибиряков Сергей Анатольевич": 20,
-      "Фазлыев Аскар Асхатович": 53,
-      "Хакимов Загир Ахсанович": 33,
-      "Шангареева Зиля Саетмухаметовна": 30,
-      "Юмагулов Анвер Мансурович": 17,
-      "Против всех": 142
+      "gas:candidate-vibid:302300167301": 32,
+      "gas:candidate-vibid:1001000225870": 264,
+      "gas:candidate-vibid:1001000112176": 91,
+      "gas:candidate-vibid:302300167173": 492,
+      "gas:candidate-vibid:1001000121787": 162,
+      "gas:candidate-vibid:302300167232": 45,
+      "gas:candidate-vibid:1001000194997": 20,
+      "gas:candidate-vibid:302300166764": 53,
+      "gas:candidate-vibid:1001000201791": 33,
+      "gas:candidate-vibid:302300166628": 30,
+      "gas:candidate-vibid:302300166842": 17,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1872,18 +1872,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 28,
-      "Камалетдинов Венер Хаернасович": 292,
-      "Кузнецов Сергей Николаевич": 87,
-      "Муратова Лилия Рифкатовна": 502,
-      "Овсянников Александр Митрофанович": 268,
-      "Пархоменко Владимир Григорьевич": 37,
-      "Сибиряков Сергей Анатольевич": 25,
-      "Фазлыев Аскар Асхатович": 69,
-      "Хакимов Загир Ахсанович": 91,
-      "Шангареева Зиля Саетмухаметовна": 62,
-      "Юмагулов Анвер Мансурович": 19,
-      "Против всех": 147
+      "gas:candidate-vibid:302300167301": 28,
+      "gas:candidate-vibid:1001000225870": 292,
+      "gas:candidate-vibid:1001000112176": 87,
+      "gas:candidate-vibid:302300167173": 502,
+      "gas:candidate-vibid:1001000121787": 268,
+      "gas:candidate-vibid:302300167232": 37,
+      "gas:candidate-vibid:1001000194997": 25,
+      "gas:candidate-vibid:302300166764": 69,
+      "gas:candidate-vibid:1001000201791": 91,
+      "gas:candidate-vibid:302300166628": 62,
+      "gas:candidate-vibid:302300166842": 19,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1933,18 +1933,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 11,
-      "Камалетдинов Венер Хаернасович": 237,
-      "Кузнецов Сергей Николаевич": 111,
-      "Муратова Лилия Рифкатовна": 402,
-      "Овсянников Александр Митрофанович": 238,
-      "Пархоменко Владимир Григорьевич": 35,
-      "Сибиряков Сергей Анатольевич": 30,
-      "Фазлыев Аскар Асхатович": 57,
-      "Хакимов Загир Ахсанович": 51,
-      "Шангареева Зиля Саетмухаметовна": 25,
-      "Юмагулов Анвер Мансурович": 17,
-      "Против всех": 193
+      "gas:candidate-vibid:302300167301": 11,
+      "gas:candidate-vibid:1001000225870": 237,
+      "gas:candidate-vibid:1001000112176": 111,
+      "gas:candidate-vibid:302300167173": 402,
+      "gas:candidate-vibid:1001000121787": 238,
+      "gas:candidate-vibid:302300167232": 35,
+      "gas:candidate-vibid:1001000194997": 30,
+      "gas:candidate-vibid:302300166764": 57,
+      "gas:candidate-vibid:1001000201791": 51,
+      "gas:candidate-vibid:302300166628": 25,
+      "gas:candidate-vibid:302300166842": 17,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -1994,18 +1994,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 18,
-      "Камалетдинов Венер Хаернасович": 265,
-      "Кузнецов Сергей Николаевич": 105,
-      "Муратова Лилия Рифкатовна": 430,
-      "Овсянников Александр Митрофанович": 212,
-      "Пархоменко Владимир Григорьевич": 50,
-      "Сибиряков Сергей Анатольевич": 29,
-      "Фазлыев Аскар Асхатович": 70,
-      "Хакимов Загир Ахсанович": 43,
-      "Шангареева Зиля Саетмухаметовна": 33,
-      "Юмагулов Анвер Мансурович": 25,
-      "Против всех": 149
+      "gas:candidate-vibid:302300167301": 18,
+      "gas:candidate-vibid:1001000225870": 265,
+      "gas:candidate-vibid:1001000112176": 105,
+      "gas:candidate-vibid:302300167173": 430,
+      "gas:candidate-vibid:1001000121787": 212,
+      "gas:candidate-vibid:302300167232": 50,
+      "gas:candidate-vibid:1001000194997": 29,
+      "gas:candidate-vibid:302300166764": 70,
+      "gas:candidate-vibid:1001000201791": 43,
+      "gas:candidate-vibid:302300166628": 33,
+      "gas:candidate-vibid:302300166842": 25,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2055,18 +2055,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 182,
-      "Кузнецов Сергей Николаевич": 81,
-      "Муратова Лилия Рифкатовна": 646,
-      "Овсянников Александр Митрофанович": 246,
-      "Пархоменко Владимир Григорьевич": 16,
-      "Сибиряков Сергей Анатольевич": 13,
-      "Фазлыев Аскар Асхатович": 68,
-      "Хакимов Загир Ахсанович": 49,
-      "Шангареева Зиля Саетмухаметовна": 43,
-      "Юмагулов Анвер Мансурович": 17,
-      "Против всех": 132
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 182,
+      "gas:candidate-vibid:1001000112176": 81,
+      "gas:candidate-vibid:302300167173": 646,
+      "gas:candidate-vibid:1001000121787": 246,
+      "gas:candidate-vibid:302300167232": 16,
+      "gas:candidate-vibid:1001000194997": 13,
+      "gas:candidate-vibid:302300166764": 68,
+      "gas:candidate-vibid:1001000201791": 49,
+      "gas:candidate-vibid:302300166628": 43,
+      "gas:candidate-vibid:302300166842": 17,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2116,18 +2116,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 192,
-      "Кузнецов Сергей Николаевич": 74,
-      "Муратова Лилия Рифкатовна": 697,
-      "Овсянников Александр Митрофанович": 191,
-      "Пархоменко Владимир Григорьевич": 30,
-      "Сибиряков Сергей Анатольевич": 19,
-      "Фазлыев Аскар Асхатович": 76,
-      "Хакимов Загир Ахсанович": 48,
-      "Шангареева Зиля Саетмухаметовна": 29,
-      "Юмагулов Анвер Мансурович": 19,
-      "Против всех": 139
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 192,
+      "gas:candidate-vibid:1001000112176": 74,
+      "gas:candidate-vibid:302300167173": 697,
+      "gas:candidate-vibid:1001000121787": 191,
+      "gas:candidate-vibid:302300167232": 30,
+      "gas:candidate-vibid:1001000194997": 19,
+      "gas:candidate-vibid:302300166764": 76,
+      "gas:candidate-vibid:1001000201791": 48,
+      "gas:candidate-vibid:302300166628": 29,
+      "gas:candidate-vibid:302300166842": 19,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2177,18 +2177,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 10,
-      "Камалетдинов Венер Хаернасович": 210,
-      "Кузнецов Сергей Николаевич": 77,
-      "Муратова Лилия Рифкатовна": 755,
-      "Овсянников Александр Митрофанович": 256,
-      "Пархоменко Владимир Григорьевич": 40,
-      "Сибиряков Сергей Анатольевич": 10,
-      "Фазлыев Аскар Асхатович": 76,
-      "Хакимов Загир Ахсанович": 55,
-      "Шангареева Зиля Саетмухаметовна": 34,
-      "Юмагулов Анвер Мансурович": 16,
-      "Против всех": 156
+      "gas:candidate-vibid:302300167301": 10,
+      "gas:candidate-vibid:1001000225870": 210,
+      "gas:candidate-vibid:1001000112176": 77,
+      "gas:candidate-vibid:302300167173": 755,
+      "gas:candidate-vibid:1001000121787": 256,
+      "gas:candidate-vibid:302300167232": 40,
+      "gas:candidate-vibid:1001000194997": 10,
+      "gas:candidate-vibid:302300166764": 76,
+      "gas:candidate-vibid:1001000201791": 55,
+      "gas:candidate-vibid:302300166628": 34,
+      "gas:candidate-vibid:302300166842": 16,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2238,18 +2238,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 17,
-      "Камалетдинов Венер Хаернасович": 160,
-      "Кузнецов Сергей Николаевич": 47,
-      "Муратова Лилия Рифкатовна": 676,
-      "Овсянников Александр Митрофанович": 111,
-      "Пархоменко Владимир Григорьевич": 21,
-      "Сибиряков Сергей Анатольевич": 10,
-      "Фазлыев Аскар Асхатович": 82,
-      "Хакимов Загир Ахсанович": 37,
-      "Шангареева Зиля Саетмухаметовна": 25,
-      "Юмагулов Анвер Мансурович": 87,
-      "Против всех": 118
+      "gas:candidate-vibid:302300167301": 17,
+      "gas:candidate-vibid:1001000225870": 160,
+      "gas:candidate-vibid:1001000112176": 47,
+      "gas:candidate-vibid:302300167173": 676,
+      "gas:candidate-vibid:1001000121787": 111,
+      "gas:candidate-vibid:302300167232": 21,
+      "gas:candidate-vibid:1001000194997": 10,
+      "gas:candidate-vibid:302300166764": 82,
+      "gas:candidate-vibid:1001000201791": 37,
+      "gas:candidate-vibid:302300166628": 25,
+      "gas:candidate-vibid:302300166842": 87,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2299,18 +2299,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 21,
-      "Камалетдинов Венер Хаернасович": 294,
-      "Кузнецов Сергей Николаевич": 126,
-      "Муратова Лилия Рифкатовна": 451,
-      "Овсянников Александр Митрофанович": 278,
-      "Пархоменко Владимир Григорьевич": 104,
-      "Сибиряков Сергей Анатольевич": 43,
-      "Фазлыев Аскар Асхатович": 56,
-      "Хакимов Загир Ахсанович": 73,
-      "Шангареева Зиля Саетмухаметовна": 32,
-      "Юмагулов Анвер Мансурович": 24,
-      "Против всех": 231
+      "gas:candidate-vibid:302300167301": 21,
+      "gas:candidate-vibid:1001000225870": 294,
+      "gas:candidate-vibid:1001000112176": 126,
+      "gas:candidate-vibid:302300167173": 451,
+      "gas:candidate-vibid:1001000121787": 278,
+      "gas:candidate-vibid:302300167232": 104,
+      "gas:candidate-vibid:1001000194997": 43,
+      "gas:candidate-vibid:302300166764": 56,
+      "gas:candidate-vibid:1001000201791": 73,
+      "gas:candidate-vibid:302300166628": 32,
+      "gas:candidate-vibid:302300166842": 24,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2360,18 +2360,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 30,
-      "Камалетдинов Венер Хаернасович": 333,
-      "Кузнецов Сергей Николаевич": 162,
-      "Муратова Лилия Рифкатовна": 533,
-      "Овсянников Александр Митрофанович": 448,
-      "Пархоменко Владимир Григорьевич": 67,
-      "Сибиряков Сергей Анатольевич": 38,
-      "Фазлыев Аскар Асхатович": 61,
-      "Хакимов Загир Ахсанович": 48,
-      "Шангареева Зиля Саетмухаметовна": 26,
-      "Юмагулов Анвер Мансурович": 18,
-      "Против всех": 177
+      "gas:candidate-vibid:302300167301": 30,
+      "gas:candidate-vibid:1001000225870": 333,
+      "gas:candidate-vibid:1001000112176": 162,
+      "gas:candidate-vibid:302300167173": 533,
+      "gas:candidate-vibid:1001000121787": 448,
+      "gas:candidate-vibid:302300167232": 67,
+      "gas:candidate-vibid:1001000194997": 38,
+      "gas:candidate-vibid:302300166764": 61,
+      "gas:candidate-vibid:1001000201791": 48,
+      "gas:candidate-vibid:302300166628": 26,
+      "gas:candidate-vibid:302300166842": 18,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2421,18 +2421,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 276,
-      "Кузнецов Сергей Николаевич": 124,
-      "Муратова Лилия Рифкатовна": 393,
-      "Овсянников Александр Митрофанович": 434,
-      "Пархоменко Владимир Григорьевич": 56,
-      "Сибиряков Сергей Анатольевич": 28,
-      "Фазлыев Аскар Асхатович": 42,
-      "Хакимов Загир Ахсанович": 54,
-      "Шангареева Зиля Саетмухаметовна": 23,
-      "Юмагулов Анвер Мансурович": 15,
-      "Против всех": 177
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 276,
+      "gas:candidate-vibid:1001000112176": 124,
+      "gas:candidate-vibid:302300167173": 393,
+      "gas:candidate-vibid:1001000121787": 434,
+      "gas:candidate-vibid:302300167232": 56,
+      "gas:candidate-vibid:1001000194997": 28,
+      "gas:candidate-vibid:302300166764": 42,
+      "gas:candidate-vibid:1001000201791": 54,
+      "gas:candidate-vibid:302300166628": 23,
+      "gas:candidate-vibid:302300166842": 15,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2482,18 +2482,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 13,
-      "Камалетдинов Венер Хаернасович": 468,
-      "Кузнецов Сергей Николаевич": 117,
-      "Муратова Лилия Рифкатовна": 415,
-      "Овсянников Александр Митрофанович": 479,
-      "Пархоменко Владимир Григорьевич": 107,
-      "Сибиряков Сергей Анатольевич": 31,
-      "Фазлыев Аскар Асхатович": 32,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 26,
-      "Юмагулов Анвер Мансурович": 9,
-      "Против всех": 171
+      "gas:candidate-vibid:302300167301": 13,
+      "gas:candidate-vibid:1001000225870": 468,
+      "gas:candidate-vibid:1001000112176": 117,
+      "gas:candidate-vibid:302300167173": 415,
+      "gas:candidate-vibid:1001000121787": 479,
+      "gas:candidate-vibid:302300167232": 107,
+      "gas:candidate-vibid:1001000194997": 31,
+      "gas:candidate-vibid:302300166764": 32,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 26,
+      "gas:candidate-vibid:302300166842": 9,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2543,18 +2543,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 172,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 155,
-      "Овсянников Александр Митрофанович": 7,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 3,
-      "Шангареева Зиля Саетмухаметовна": 3,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 172,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 155,
+      "gas:candidate-vibid:1001000121787": 7,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 3,
+      "gas:candidate-vibid:302300166628": 3,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2604,18 +2604,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 296,
-      "Кузнецов Сергей Николаевич": 13,
-      "Муратова Лилия Рифкатовна": 134,
-      "Овсянников Александр Митрофанович": 10,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 14,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 296,
+      "gas:candidate-vibid:1001000112176": 13,
+      "gas:candidate-vibid:302300167173": 134,
+      "gas:candidate-vibid:1001000121787": 10,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 14,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2665,18 +2665,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 83,
-      "Кузнецов Сергей Николаевич": 8,
-      "Муратова Лилия Рифкатовна": 51,
-      "Овсянников Александр Митрофанович": 7,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 37,
-      "Хакимов Загир Ахсанович": 21,
-      "Шангареева Зиля Саетмухаметовна": 9,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 83,
+      "gas:candidate-vibid:1001000112176": 8,
+      "gas:candidate-vibid:302300167173": 51,
+      "gas:candidate-vibid:1001000121787": 7,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 37,
+      "gas:candidate-vibid:1001000201791": 21,
+      "gas:candidate-vibid:302300166628": 9,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2726,18 +2726,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 10,
-      "Камалетдинов Венер Хаернасович": 197,
-      "Кузнецов Сергей Николаевич": 24,
-      "Муратова Лилия Рифкатовна": 162,
-      "Овсянников Александр Митрофанович": 43,
-      "Пархоменко Владимир Григорьевич": 14,
-      "Сибиряков Сергей Анатольевич": 9,
-      "Фазлыев Аскар Асхатович": 16,
-      "Хакимов Загир Ахсанович": 3,
-      "Шангареева Зиля Саетмухаметовна": 11,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:302300167301": 10,
+      "gas:candidate-vibid:1001000225870": 197,
+      "gas:candidate-vibid:1001000112176": 24,
+      "gas:candidate-vibid:302300167173": 162,
+      "gas:candidate-vibid:1001000121787": 43,
+      "gas:candidate-vibid:302300167232": 14,
+      "gas:candidate-vibid:1001000194997": 9,
+      "gas:candidate-vibid:302300166764": 16,
+      "gas:candidate-vibid:1001000201791": 3,
+      "gas:candidate-vibid:302300166628": 11,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2787,18 +2787,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 78,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 37,
-      "Овсянников Александр Митрофанович": 10,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 9,
-      "Хакимов Загир Ахсанович": 1,
-      "Шангареева Зиля Саетмухаметовна": 3,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 78,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 37,
+      "gas:candidate-vibid:1001000121787": 10,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 9,
+      "gas:candidate-vibid:1001000201791": 1,
+      "gas:candidate-vibid:302300166628": 3,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2848,18 +2848,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 161,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 185,
-      "Овсянников Александр Митрофанович": 21,
-      "Пархоменко Владимир Григорьевич": 8,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 6,
-      "Хакимов Загир Ахсанович": 14,
-      "Шангареева Зиля Саетмухаметовна": 5,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 161,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 185,
+      "gas:candidate-vibid:1001000121787": 21,
+      "gas:candidate-vibid:302300167232": 8,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 6,
+      "gas:candidate-vibid:1001000201791": 14,
+      "gas:candidate-vibid:302300166628": 5,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2909,18 +2909,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 137,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 51,
-      "Овсянников Александр Митрофанович": 8,
-      "Пархоменко Владимир Григорьевич": 2,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 4,
-      "Хакимов Загир Ахсанович": 7,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 137,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 51,
+      "gas:candidate-vibid:1001000121787": 8,
+      "gas:candidate-vibid:302300167232": 2,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 4,
+      "gas:candidate-vibid:1001000201791": 7,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -2970,18 +2970,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 7,
-      "Камалетдинов Венер Хаернасович": 215,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 126,
-      "Овсянников Александр Митрофанович": 30,
-      "Пархоменко Владимир Григорьевич": 2,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 11,
-      "Хакимов Загир Ахсанович": 10,
-      "Шангареева Зиля Саетмухаметовна": 4,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:302300167301": 7,
+      "gas:candidate-vibid:1001000225870": 215,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 126,
+      "gas:candidate-vibid:1001000121787": 30,
+      "gas:candidate-vibid:302300167232": 2,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 11,
+      "gas:candidate-vibid:1001000201791": 10,
+      "gas:candidate-vibid:302300166628": 4,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3031,18 +3031,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 244,
-      "Кузнецов Сергей Николаевич": 14,
-      "Муратова Лилия Рифкатовна": 162,
-      "Овсянников Александр Митрофанович": 73,
-      "Пархоменко Владимир Григорьевич": 7,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 24,
-      "Хакимов Загир Ахсанович": 18,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 11,
-      "Против всех": 52
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 244,
+      "gas:candidate-vibid:1001000112176": 14,
+      "gas:candidate-vibid:302300167173": 162,
+      "gas:candidate-vibid:1001000121787": 73,
+      "gas:candidate-vibid:302300167232": 7,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 24,
+      "gas:candidate-vibid:1001000201791": 18,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 11,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3092,18 +3092,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 14,
-      "Камалетдинов Венер Хаернасович": 262,
-      "Кузнецов Сергей Николаевич": 40,
-      "Муратова Лилия Рифкатовна": 404,
-      "Овсянников Александр Митрофанович": 65,
-      "Пархоменко Владимир Григорьевич": 31,
-      "Сибиряков Сергей Анатольевич": 16,
-      "Фазлыев Аскар Асхатович": 26,
-      "Хакимов Загир Ахсанович": 50,
-      "Шангареева Зиля Саетмухаметовна": 32,
-      "Юмагулов Анвер Мансурович": 15,
-      "Против всех": 88
+      "gas:candidate-vibid:302300167301": 14,
+      "gas:candidate-vibid:1001000225870": 262,
+      "gas:candidate-vibid:1001000112176": 40,
+      "gas:candidate-vibid:302300167173": 404,
+      "gas:candidate-vibid:1001000121787": 65,
+      "gas:candidate-vibid:302300167232": 31,
+      "gas:candidate-vibid:1001000194997": 16,
+      "gas:candidate-vibid:302300166764": 26,
+      "gas:candidate-vibid:1001000201791": 50,
+      "gas:candidate-vibid:302300166628": 32,
+      "gas:candidate-vibid:302300166842": 15,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3153,18 +3153,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 84,
-      "Кузнецов Сергей Николаевич": 30,
-      "Муратова Лилия Рифкатовна": 38,
-      "Овсянников Александр Митрофанович": 20,
-      "Пархоменко Владимир Григорьевич": 8,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 14,
-      "Хакимов Загир Ахсанович": 8,
-      "Шангареева Зиля Саетмухаметовна": 4,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 84,
+      "gas:candidate-vibid:1001000112176": 30,
+      "gas:candidate-vibid:302300167173": 38,
+      "gas:candidate-vibid:1001000121787": 20,
+      "gas:candidate-vibid:302300167232": 8,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 14,
+      "gas:candidate-vibid:1001000201791": 8,
+      "gas:candidate-vibid:302300166628": 4,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3214,18 +3214,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 208,
-      "Кузнецов Сергей Николаевич": 13,
-      "Муратова Лилия Рифкатовна": 292,
-      "Овсянников Александр Митрофанович": 38,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 24,
-      "Хакимов Загир Ахсанович": 61,
-      "Шангареева Зиля Саетмухаметовна": 15,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 208,
+      "gas:candidate-vibid:1001000112176": 13,
+      "gas:candidate-vibid:302300167173": 292,
+      "gas:candidate-vibid:1001000121787": 38,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 24,
+      "gas:candidate-vibid:1001000201791": 61,
+      "gas:candidate-vibid:302300166628": 15,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3275,18 +3275,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 10,
-      "Камалетдинов Венер Хаернасович": 79,
-      "Кузнецов Сергей Николаевич": 9,
-      "Муратова Лилия Рифкатовна": 223,
-      "Овсянников Александр Митрофанович": 16,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 8,
-      "Хакимов Загир Ахсанович": 36,
-      "Шангареева Зиля Саетмухаметовна": 6,
-      "Юмагулов Анвер Мансурович": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:302300167301": 10,
+      "gas:candidate-vibid:1001000225870": 79,
+      "gas:candidate-vibid:1001000112176": 9,
+      "gas:candidate-vibid:302300167173": 223,
+      "gas:candidate-vibid:1001000121787": 16,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 8,
+      "gas:candidate-vibid:1001000201791": 36,
+      "gas:candidate-vibid:302300166628": 6,
+      "gas:candidate-vibid:302300166842": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3336,18 +3336,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 261,
-      "Кузнецов Сергей Николаевич": 11,
-      "Муратова Лилия Рифкатовна": 174,
-      "Овсянников Александр Митрофанович": 23,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 5,
-      "Фазлыев Аскар Асхатович": 19,
-      "Хакимов Загир Ахсанович": 45,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 261,
+      "gas:candidate-vibid:1001000112176": 11,
+      "gas:candidate-vibid:302300167173": 174,
+      "gas:candidate-vibid:1001000121787": 23,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 5,
+      "gas:candidate-vibid:302300166764": 19,
+      "gas:candidate-vibid:1001000201791": 45,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3397,18 +3397,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 8,
-      "Камалетдинов Венер Хаернасович": 98,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 59,
-      "Овсянников Александр Митрофанович": 22,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 10,
-      "Хакимов Загир Ахсанович": 10,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:302300167301": 8,
+      "gas:candidate-vibid:1001000225870": 98,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 59,
+      "gas:candidate-vibid:1001000121787": 22,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 10,
+      "gas:candidate-vibid:1001000201791": 10,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3458,18 +3458,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 94,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 135,
-      "Овсянников Александр Митрофанович": 12,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 18,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 94,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 135,
+      "gas:candidate-vibid:1001000121787": 12,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 18,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3519,18 +3519,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 68,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 173,
-      "Овсянников Александр Митрофанович": 15,
-      "Пархоменко Владимир Григорьевич": 2,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 20,
-      "Шангареева Зиля Саетмухаметовна": 3,
-      "Юмагулов Анвер Мансурович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 68,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 173,
+      "gas:candidate-vibid:1001000121787": 15,
+      "gas:candidate-vibid:302300167232": 2,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 20,
+      "gas:candidate-vibid:302300166628": 3,
+      "gas:candidate-vibid:302300166842": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3580,18 +3580,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 52,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 119,
-      "Овсянников Александр Митрофанович": 20,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 27,
-      "Хакимов Загир Ахсанович": 52,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 52,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 119,
+      "gas:candidate-vibid:1001000121787": 20,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 27,
+      "gas:candidate-vibid:1001000201791": 52,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3641,18 +3641,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 81,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 53,
-      "Овсянников Александр Митрофанович": 32,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 7,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 81,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 53,
+      "gas:candidate-vibid:1001000121787": 32,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 7,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3702,18 +3702,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 84,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 116,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 16,
-      "Хакимов Загир Ахсанович": 8,
-      "Шангареева Зиля Саетмухаметовна": 1,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 84,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 116,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 16,
+      "gas:candidate-vibid:1001000201791": 8,
+      "gas:candidate-vibid:302300166628": 1,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3763,18 +3763,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 85,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 119,
-      "Овсянников Александр Митрофанович": 3,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 23,
-      "Хакимов Загир Ахсанович": 6,
-      "Шангареева Зиля Саетмухаметовна": 8,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 85,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 119,
+      "gas:candidate-vibid:1001000121787": 3,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 23,
+      "gas:candidate-vibid:1001000201791": 6,
+      "gas:candidate-vibid:302300166628": 8,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3824,18 +3824,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 115,
-      "Кузнецов Сергей Николаевич": 10,
-      "Муратова Лилия Рифкатовна": 190,
-      "Овсянников Александр Митрофанович": 28,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 12,
-      "Хакимов Загир Ахсанович": 19,
-      "Шангареева Зиля Саетмухаметовна": 11,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 115,
+      "gas:candidate-vibid:1001000112176": 10,
+      "gas:candidate-vibid:302300167173": 190,
+      "gas:candidate-vibid:1001000121787": 28,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 12,
+      "gas:candidate-vibid:1001000201791": 19,
+      "gas:candidate-vibid:302300166628": 11,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3885,18 +3885,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 45,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 141,
-      "Овсянников Александр Митрофанович": 18,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 8,
-      "Хакимов Загир Ахсанович": 9,
-      "Шангареева Зиля Саетмухаметовна": 17,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 45,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 141,
+      "gas:candidate-vibid:1001000121787": 18,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 8,
+      "gas:candidate-vibid:1001000201791": 9,
+      "gas:candidate-vibid:302300166628": 17,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -3946,18 +3946,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 10,
-      "Камалетдинов Венер Хаернасович": 102,
-      "Кузнецов Сергей Николаевич": 22,
-      "Муратова Лилия Рифкатовна": 113,
-      "Овсянников Александр Митрофанович": 60,
-      "Пархоменко Владимир Григорьевич": 6,
-      "Сибиряков Сергей Анатольевич": 9,
-      "Фазлыев Аскар Асхатович": 15,
-      "Хакимов Загир Ахсанович": 22,
-      "Шангареева Зиля Саетмухаметовна": 11,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:302300167301": 10,
+      "gas:candidate-vibid:1001000225870": 102,
+      "gas:candidate-vibid:1001000112176": 22,
+      "gas:candidate-vibid:302300167173": 113,
+      "gas:candidate-vibid:1001000121787": 60,
+      "gas:candidate-vibid:302300167232": 6,
+      "gas:candidate-vibid:1001000194997": 9,
+      "gas:candidate-vibid:302300166764": 15,
+      "gas:candidate-vibid:1001000201791": 22,
+      "gas:candidate-vibid:302300166628": 11,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4007,18 +4007,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 95,
-      "Кузнецов Сергей Николаевич": 10,
-      "Муратова Лилия Рифкатовна": 141,
-      "Овсянников Александр Митрофанович": 12,
-      "Пархоменко Владимир Григорьевич": 6,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 53,
-      "Хакимов Загир Ахсанович": 9,
-      "Шангареева Зиля Саетмухаметовна": 19,
-      "Юмагулов Анвер Мансурович": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 95,
+      "gas:candidate-vibid:1001000112176": 10,
+      "gas:candidate-vibid:302300167173": 141,
+      "gas:candidate-vibid:1001000121787": 12,
+      "gas:candidate-vibid:302300167232": 6,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 53,
+      "gas:candidate-vibid:1001000201791": 9,
+      "gas:candidate-vibid:302300166628": 19,
+      "gas:candidate-vibid:302300166842": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4068,18 +4068,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 0,
-      "Камалетдинов Венер Хаернасович": 113,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 98,
-      "Овсянников Александр Митрофанович": 22,
-      "Пархоменко Владимир Григорьевич": 7,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 21,
-      "Хакимов Загир Ахсанович": 17,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:302300167301": 0,
+      "gas:candidate-vibid:1001000225870": 113,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 98,
+      "gas:candidate-vibid:1001000121787": 22,
+      "gas:candidate-vibid:302300167232": 7,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 21,
+      "gas:candidate-vibid:1001000201791": 17,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4129,18 +4129,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 16,
-      "Камалетдинов Венер Хаернасович": 288,
-      "Кузнецов Сергей Николаевич": 31,
-      "Муратова Лилия Рифкатовна": 205,
-      "Овсянников Александр Митрофанович": 46,
-      "Пархоменко Владимир Григорьевич": 11,
-      "Сибиряков Сергей Анатольевич": 8,
-      "Фазлыев Аскар Асхатович": 41,
-      "Хакимов Загир Ахсанович": 23,
-      "Шангареева Зиля Саетмухаметовна": 39,
-      "Юмагулов Анвер Мансурович": 14,
-      "Против всех": 99
+      "gas:candidate-vibid:302300167301": 16,
+      "gas:candidate-vibid:1001000225870": 288,
+      "gas:candidate-vibid:1001000112176": 31,
+      "gas:candidate-vibid:302300167173": 205,
+      "gas:candidate-vibid:1001000121787": 46,
+      "gas:candidate-vibid:302300167232": 11,
+      "gas:candidate-vibid:1001000194997": 8,
+      "gas:candidate-vibid:302300166764": 41,
+      "gas:candidate-vibid:1001000201791": 23,
+      "gas:candidate-vibid:302300166628": 39,
+      "gas:candidate-vibid:302300166842": 14,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4190,18 +4190,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 223,
-      "Кузнецов Сергей Николаевич": 10,
-      "Муратова Лилия Рифкатовна": 155,
-      "Овсянников Александр Митрофанович": 10,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 18,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 223,
+      "gas:candidate-vibid:1001000112176": 10,
+      "gas:candidate-vibid:302300167173": 155,
+      "gas:candidate-vibid:1001000121787": 10,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 18,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4251,18 +4251,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 133,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 122,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 4,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 3,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 133,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 122,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 4,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 3,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4312,18 +4312,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 34,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 79,
-      "Овсянников Александр Митрофанович": 12,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 7,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 34,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 79,
+      "gas:candidate-vibid:1001000121787": 12,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 7,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4373,18 +4373,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 182,
-      "Кузнецов Сергей Николаевич": 13,
-      "Муратова Лилия Рифкатовна": 140,
-      "Овсянников Александр Митрофанович": 10,
-      "Пархоменко Владимир Григорьевич": 8,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 8,
-      "Хакимов Загир Ахсанович": 9,
-      "Шангареева Зиля Саетмухаметовна": 11,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 182,
+      "gas:candidate-vibid:1001000112176": 13,
+      "gas:candidate-vibid:302300167173": 140,
+      "gas:candidate-vibid:1001000121787": 10,
+      "gas:candidate-vibid:302300167232": 8,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 8,
+      "gas:candidate-vibid:1001000201791": 9,
+      "gas:candidate-vibid:302300166628": 11,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4434,18 +4434,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 124,
-      "Кузнецов Сергей Николаевич": 14,
-      "Муратова Лилия Рифкатовна": 151,
-      "Овсянников Александр Митрофанович": 19,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 5,
-      "Фазлыев Аскар Асхатович": 17,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 15,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 124,
+      "gas:candidate-vibid:1001000112176": 14,
+      "gas:candidate-vibid:302300167173": 151,
+      "gas:candidate-vibid:1001000121787": 19,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 5,
+      "gas:candidate-vibid:302300166764": 17,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 15,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4495,18 +4495,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 137,
-      "Кузнецов Сергей Николаевич": 63,
-      "Муратова Лилия Рифкатовна": 178,
-      "Овсянников Александр Митрофанович": 26,
-      "Пархоменко Владимир Григорьевич": 44,
-      "Сибиряков Сергей Анатольевич": 14,
-      "Фазлыев Аскар Асхатович": 29,
-      "Хакимов Загир Ахсанович": 20,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 8,
-      "Против всех": 63
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 137,
+      "gas:candidate-vibid:1001000112176": 63,
+      "gas:candidate-vibid:302300167173": 178,
+      "gas:candidate-vibid:1001000121787": 26,
+      "gas:candidate-vibid:302300167232": 44,
+      "gas:candidate-vibid:1001000194997": 14,
+      "gas:candidate-vibid:302300166764": 29,
+      "gas:candidate-vibid:1001000201791": 20,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 8,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4556,18 +4556,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 11,
-      "Камалетдинов Венер Хаернасович": 269,
-      "Кузнецов Сергей Николаевич": 23,
-      "Муратова Лилия Рифкатовна": 374,
-      "Овсянников Александр Митрофанович": 50,
-      "Пархоменко Владимир Григорьевич": 13,
-      "Сибиряков Сергей Анатольевич": 6,
-      "Фазлыев Аскар Асхатович": 38,
-      "Хакимов Загир Ахсанович": 28,
-      "Шангареева Зиля Саетмухаметовна": 22,
-      "Юмагулов Анвер Мансурович": 10,
-      "Против всех": 92
+      "gas:candidate-vibid:302300167301": 11,
+      "gas:candidate-vibid:1001000225870": 269,
+      "gas:candidate-vibid:1001000112176": 23,
+      "gas:candidate-vibid:302300167173": 374,
+      "gas:candidate-vibid:1001000121787": 50,
+      "gas:candidate-vibid:302300167232": 13,
+      "gas:candidate-vibid:1001000194997": 6,
+      "gas:candidate-vibid:302300166764": 38,
+      "gas:candidate-vibid:1001000201791": 28,
+      "gas:candidate-vibid:302300166628": 22,
+      "gas:candidate-vibid:302300166842": 10,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4617,18 +4617,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 244,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 92,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 5,
-      "Фазлыев Аскар Асхатович": 6,
-      "Хакимов Загир Ахсанович": 4,
-      "Шангареева Зиля Саетмухаметовна": 4,
-      "Юмагулов Анвер Мансурович": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 244,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 92,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 5,
+      "gas:candidate-vibid:302300166764": 6,
+      "gas:candidate-vibid:1001000201791": 4,
+      "gas:candidate-vibid:302300166628": 4,
+      "gas:candidate-vibid:302300166842": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4678,18 +4678,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 28,
-      "Кузнецов Сергей Николаевич": 15,
-      "Муратова Лилия Рифкатовна": 47,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 4,
-      "Шангареева Зиля Саетмухаметовна": 1,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 28,
+      "gas:candidate-vibid:1001000112176": 15,
+      "gas:candidate-vibid:302300167173": 47,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 4,
+      "gas:candidate-vibid:302300166628": 1,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4739,18 +4739,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 90,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 53,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 8,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 90,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 53,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 8,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4800,18 +4800,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 78,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 97,
-      "Овсянников Александр Митрофанович": 1,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 4,
-      "Хакимов Загир Ахсанович": 9,
-      "Шангареева Зиля Саетмухаметовна": 6,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 78,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 97,
+      "gas:candidate-vibid:1001000121787": 1,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 4,
+      "gas:candidate-vibid:1001000201791": 9,
+      "gas:candidate-vibid:302300166628": 6,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4861,18 +4861,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 0,
-      "Камалетдинов Венер Хаернасович": 50,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 51,
-      "Овсянников Александр Митрофанович": 3,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 7,
-      "Шангареева Зиля Саетмухаметовна": 3,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:302300167301": 0,
+      "gas:candidate-vibid:1001000225870": 50,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 51,
+      "gas:candidate-vibid:1001000121787": 3,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 7,
+      "gas:candidate-vibid:302300166628": 3,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4922,18 +4922,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 61,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 40,
-      "Овсянников Александр Митрофанович": 1,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 5,
-      "Хакимов Загир Ахсанович": 8,
-      "Шангареева Зиля Саетмухаметовна": 0,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 61,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 40,
+      "gas:candidate-vibid:1001000121787": 1,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 5,
+      "gas:candidate-vibid:1001000201791": 8,
+      "gas:candidate-vibid:302300166628": 0,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -4983,18 +4983,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 277,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 170,
-      "Овсянников Александр Митрофанович": 39,
-      "Пархоменко Владимир Григорьевич": 8,
-      "Сибиряков Сергей Анатольевич": 6,
-      "Фазлыев Аскар Асхатович": 9,
-      "Хакимов Загир Ахсанович": 19,
-      "Шангареева Зиля Саетмухаметовна": 28,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 277,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 170,
+      "gas:candidate-vibid:1001000121787": 39,
+      "gas:candidate-vibid:302300167232": 8,
+      "gas:candidate-vibid:1001000194997": 6,
+      "gas:candidate-vibid:302300166764": 9,
+      "gas:candidate-vibid:1001000201791": 19,
+      "gas:candidate-vibid:302300166628": 28,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -5044,18 +5044,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 52,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 122,
-      "Овсянников Александр Митрофанович": 21,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 26,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 9,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 52,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 122,
+      "gas:candidate-vibid:1001000121787": 21,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 26,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 9,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -5105,18 +5105,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 73,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 60,
-      "Овсянников Александр Митрофанович": 7,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 1,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 73,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 60,
+      "gas:candidate-vibid:1001000121787": 7,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 1,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -5166,18 +5166,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 7,
-      "Камалетдинов Венер Хаернасович": 80,
-      "Кузнецов Сергей Николаевич": 14,
-      "Муратова Лилия Рифкатовна": 188,
-      "Овсянников Александр Митрофанович": 44,
-      "Пархоменко Владимир Григорьевич": 8,
-      "Сибиряков Сергей Анатольевич": 5,
-      "Фазлыев Аскар Асхатович": 19,
-      "Хакимов Загир Ахсанович": 13,
-      "Шангареева Зиля Саетмухаметовна": 9,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:302300167301": 7,
+      "gas:candidate-vibid:1001000225870": 80,
+      "gas:candidate-vibid:1001000112176": 14,
+      "gas:candidate-vibid:302300167173": 188,
+      "gas:candidate-vibid:1001000121787": 44,
+      "gas:candidate-vibid:302300167232": 8,
+      "gas:candidate-vibid:1001000194997": 5,
+      "gas:candidate-vibid:302300166764": 19,
+      "gas:candidate-vibid:1001000201791": 13,
+      "gas:candidate-vibid:302300166628": 9,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -5227,18 +5227,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 118,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 100,
-      "Овсянников Александр Митрофанович": 17,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 20,
-      "Хакимов Загир Ахсанович": 3,
-      "Шангареева Зиля Саетмухаметовна": 14,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 118,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 100,
+      "gas:candidate-vibid:1001000121787": 17,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 20,
+      "gas:candidate-vibid:1001000201791": 3,
+      "gas:candidate-vibid:302300166628": 14,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -5288,18 +5288,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 76,
-      "Кузнецов Сергей Николаевич": 7,
-      "Муратова Лилия Рифкатовна": 84,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 8,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 5,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 76,
+      "gas:candidate-vibid:1001000112176": 7,
+      "gas:candidate-vibid:302300167173": 84,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 8,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 5,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000061&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066876&region=0&sub_region=0&type=429",
@@ -5349,18 +5349,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 12,
-      "Камалетдинов Венер Хаернасович": 279,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 113,
-      "Овсянников Александр Митрофанович": 39,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 91,
-      "Хакимов Загир Ахсанович": 147,
-      "Шангареева Зиля Саетмухаметовна": 267,
-      "Юмагулов Анвер Мансурович": 29,
-      "Против всех": 53
+      "gas:candidate-vibid:302300167301": 12,
+      "gas:candidate-vibid:1001000225870": 279,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 113,
+      "gas:candidate-vibid:1001000121787": 39,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 91,
+      "gas:candidate-vibid:1001000201791": 147,
+      "gas:candidate-vibid:302300166628": 267,
+      "gas:candidate-vibid:302300166842": 29,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5410,18 +5410,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 166,
-      "Кузнецов Сергей Николаевич": 9,
-      "Муратова Лилия Рифкатовна": 64,
-      "Овсянников Александр Митрофанович": 46,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 51,
-      "Хакимов Загир Ахсанович": 154,
-      "Шангареева Зиля Саетмухаметовна": 252,
-      "Юмагулов Анвер Мансурович": 17,
-      "Против всех": 55
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 166,
+      "gas:candidate-vibid:1001000112176": 9,
+      "gas:candidate-vibid:302300167173": 64,
+      "gas:candidate-vibid:1001000121787": 46,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 51,
+      "gas:candidate-vibid:1001000201791": 154,
+      "gas:candidate-vibid:302300166628": 252,
+      "gas:candidate-vibid:302300166842": 17,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5471,18 +5471,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 7,
-      "Камалетдинов Венер Хаернасович": 146,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 76,
-      "Овсянников Александр Митрофанович": 33,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 6,
-      "Фазлыев Аскар Асхатович": 30,
-      "Хакимов Загир Ахсанович": 178,
-      "Шангареева Зиля Саетмухаметовна": 171,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:302300167301": 7,
+      "gas:candidate-vibid:1001000225870": 146,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 76,
+      "gas:candidate-vibid:1001000121787": 33,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 6,
+      "gas:candidate-vibid:302300166764": 30,
+      "gas:candidate-vibid:1001000201791": 178,
+      "gas:candidate-vibid:302300166628": 171,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5532,18 +5532,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 11,
-      "Камалетдинов Венер Хаернасович": 157,
-      "Кузнецов Сергей Николаевич": 16,
-      "Муратова Лилия Рифкатовна": 108,
-      "Овсянников Александр Митрофанович": 41,
-      "Пархоменко Владимир Григорьевич": 7,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 62,
-      "Хакимов Загир Ахсанович": 396,
-      "Шангареева Зиля Саетмухаметовна": 178,
-      "Юмагулов Анвер Мансурович": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:302300167301": 11,
+      "gas:candidate-vibid:1001000225870": 157,
+      "gas:candidate-vibid:1001000112176": 16,
+      "gas:candidate-vibid:302300167173": 108,
+      "gas:candidate-vibid:1001000121787": 41,
+      "gas:candidate-vibid:302300167232": 7,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 62,
+      "gas:candidate-vibid:1001000201791": 396,
+      "gas:candidate-vibid:302300166628": 178,
+      "gas:candidate-vibid:302300166842": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5593,18 +5593,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 115,
-      "Кузнецов Сергей Николаевич": 7,
-      "Муратова Лилия Рифкатовна": 71,
-      "Овсянников Александр Митрофанович": 40,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 39,
-      "Хакимов Загир Ахсанович": 213,
-      "Шангареева Зиля Саетмухаметовна": 166,
-      "Юмагулов Анвер Мансурович": 15,
-      "Против всех": 49
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 115,
+      "gas:candidate-vibid:1001000112176": 7,
+      "gas:candidate-vibid:302300167173": 71,
+      "gas:candidate-vibid:1001000121787": 40,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 39,
+      "gas:candidate-vibid:1001000201791": 213,
+      "gas:candidate-vibid:302300166628": 166,
+      "gas:candidate-vibid:302300166842": 15,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5654,18 +5654,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 7,
-      "Камалетдинов Венер Хаернасович": 151,
-      "Кузнецов Сергей Николаевич": 34,
-      "Муратова Лилия Рифкатовна": 142,
-      "Овсянников Александр Митрофанович": 46,
-      "Пархоменко Владимир Григорьевич": 7,
-      "Сибиряков Сергей Анатольевич": 7,
-      "Фазлыев Аскар Асхатович": 53,
-      "Хакимов Загир Ахсанович": 227,
-      "Шангареева Зиля Саетмухаметовна": 195,
-      "Юмагулов Анвер Мансурович": 20,
-      "Против всех": 63
+      "gas:candidate-vibid:302300167301": 7,
+      "gas:candidate-vibid:1001000225870": 151,
+      "gas:candidate-vibid:1001000112176": 34,
+      "gas:candidate-vibid:302300167173": 142,
+      "gas:candidate-vibid:1001000121787": 46,
+      "gas:candidate-vibid:302300167232": 7,
+      "gas:candidate-vibid:1001000194997": 7,
+      "gas:candidate-vibid:302300166764": 53,
+      "gas:candidate-vibid:1001000201791": 227,
+      "gas:candidate-vibid:302300166628": 195,
+      "gas:candidate-vibid:302300166842": 20,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5715,18 +5715,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 15,
-      "Камалетдинов Венер Хаернасович": 198,
-      "Кузнецов Сергей Николаевич": 7,
-      "Муратова Лилия Рифкатовна": 142,
-      "Овсянников Александр Митрофанович": 35,
-      "Пархоменко Владимир Григорьевич": 12,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 59,
-      "Хакимов Загир Ахсанович": 262,
-      "Шангареева Зиля Саетмухаметовна": 196,
-      "Юмагулов Анвер Мансурович": 22,
-      "Против всех": 36
+      "gas:candidate-vibid:302300167301": 15,
+      "gas:candidate-vibid:1001000225870": 198,
+      "gas:candidate-vibid:1001000112176": 7,
+      "gas:candidate-vibid:302300167173": 142,
+      "gas:candidate-vibid:1001000121787": 35,
+      "gas:candidate-vibid:302300167232": 12,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 59,
+      "gas:candidate-vibid:1001000201791": 262,
+      "gas:candidate-vibid:302300166628": 196,
+      "gas:candidate-vibid:302300166842": 22,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5776,18 +5776,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 73,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 25,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 24,
-      "Хакимов Загир Ахсанович": 41,
-      "Шангареева Зиля Саетмухаметовна": 21,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 73,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 25,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 24,
+      "gas:candidate-vibid:1001000201791": 41,
+      "gas:candidate-vibid:302300166628": 21,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5837,18 +5837,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 238,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 17,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 1,
-      "Хакимов Загир Ахсанович": 139,
-      "Шангареева Зиля Саетмухаметовна": 37,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 238,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 17,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 1,
+      "gas:candidate-vibid:1001000201791": 139,
+      "gas:candidate-vibid:302300166628": 37,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5898,18 +5898,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 64,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 8,
-      "Овсянников Александр Митрофанович": 1,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 4,
-      "Хакимов Загир Ахсанович": 8,
-      "Шангареева Зиля Саетмухаметовна": 10,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 64,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 8,
+      "gas:candidate-vibid:1001000121787": 1,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 4,
+      "gas:candidate-vibid:1001000201791": 8,
+      "gas:candidate-vibid:302300166628": 10,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -5959,18 +5959,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 70,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 11,
-      "Овсянников Александр Митрофанович": 0,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 9,
-      "Шангареева Зиля Саетмухаметовна": 9,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 70,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 11,
+      "gas:candidate-vibid:1001000121787": 0,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 9,
+      "gas:candidate-vibid:302300166628": 9,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6020,18 +6020,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 11,
-      "Камалетдинов Венер Хаернасович": 159,
-      "Кузнецов Сергей Николаевич": 8,
-      "Муратова Лилия Рифкатовна": 10,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 6,
-      "Хакимов Загир Ахсанович": 65,
-      "Шангареева Зиля Саетмухаметовна": 36,
-      "Юмагулов Анвер Мансурович": 13,
-      "Против всех": 16
+      "gas:candidate-vibid:302300167301": 11,
+      "gas:candidate-vibid:1001000225870": 159,
+      "gas:candidate-vibid:1001000112176": 8,
+      "gas:candidate-vibid:302300167173": 10,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 6,
+      "gas:candidate-vibid:1001000201791": 65,
+      "gas:candidate-vibid:302300166628": 36,
+      "gas:candidate-vibid:302300166842": 13,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6081,18 +6081,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 108,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 17,
-      "Овсянников Александр Митрофанович": 22,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 58,
-      "Шангареева Зиля Саетмухаметовна": 42,
-      "Юмагулов Анвер Мансурович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 108,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 17,
+      "gas:candidate-vibid:1001000121787": 22,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 58,
+      "gas:candidate-vibid:302300166628": 42,
+      "gas:candidate-vibid:302300166842": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6142,18 +6142,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 162,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 9,
-      "Овсянников Александр Митрофанович": 2,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 0,
-      "Хакимов Загир Ахсанович": 37,
-      "Шангареева Зиля Саетмухаметовна": 5,
-      "Юмагулов Анвер Мансурович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 162,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 9,
+      "gas:candidate-vibid:1001000121787": 2,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 0,
+      "gas:candidate-vibid:1001000201791": 37,
+      "gas:candidate-vibid:302300166628": 5,
+      "gas:candidate-vibid:302300166842": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6203,18 +6203,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 328,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 39,
-      "Овсянников Александр Митрофанович": 13,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 39,
-      "Хакимов Загир Ахсанович": 37,
-      "Шангареева Зиля Саетмухаметовна": 45,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 328,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 39,
+      "gas:candidate-vibid:1001000121787": 13,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 39,
+      "gas:candidate-vibid:1001000201791": 37,
+      "gas:candidate-vibid:302300166628": 45,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6264,18 +6264,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 123,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 4,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 4,
-      "Хакимов Загир Ахсанович": 7,
-      "Шангареева Зиля Саетмухаметовна": 6,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 123,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 4,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 4,
+      "gas:candidate-vibid:1001000201791": 7,
+      "gas:candidate-vibid:302300166628": 6,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6325,18 +6325,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 0,
-      "Камалетдинов Венер Хаернасович": 109,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 53,
-      "Овсянников Александр Митрофанович": 34,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 20,
-      "Шангареева Зиля Саетмухаметовна": 42,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:302300167301": 0,
+      "gas:candidate-vibid:1001000225870": 109,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 53,
+      "gas:candidate-vibid:1001000121787": 34,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 20,
+      "gas:candidate-vibid:302300166628": 42,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6386,18 +6386,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 222,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 18,
-      "Овсянников Александр Митрофанович": 3,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 0,
-      "Хакимов Загир Ахсанович": 74,
-      "Шангареева Зиля Саетмухаметовна": 14,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 222,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 18,
+      "gas:candidate-vibid:1001000121787": 3,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 0,
+      "gas:candidate-vibid:1001000201791": 74,
+      "gas:candidate-vibid:302300166628": 14,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6447,18 +6447,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 284,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 13,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 2,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 78,
-      "Шангареева Зиля Саетмухаметовна": 6,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 284,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 13,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 2,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 78,
+      "gas:candidate-vibid:302300166628": 6,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6508,18 +6508,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 155,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 9,
-      "Овсянников Александр Митрофанович": 2,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 1,
-      "Хакимов Загир Ахсанович": 35,
-      "Шангареева Зиля Саетмухаметовна": 6,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 155,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 9,
+      "gas:candidate-vibid:1001000121787": 2,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 1,
+      "gas:candidate-vibid:1001000201791": 35,
+      "gas:candidate-vibid:302300166628": 6,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6569,18 +6569,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 231,
-      "Кузнецов Сергей Николаевич": 30,
-      "Муратова Лилия Рифкатовна": 28,
-      "Овсянников Александр Митрофанович": 16,
-      "Пархоменко Владимир Григорьевич": 16,
-      "Сибиряков Сергей Анатольевич": 13,
-      "Фазлыев Аскар Асхатович": 12,
-      "Хакимов Загир Ахсанович": 29,
-      "Шангареева Зиля Саетмухаметовна": 23,
-      "Юмагулов Анвер Мансурович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 231,
+      "gas:candidate-vibid:1001000112176": 30,
+      "gas:candidate-vibid:302300167173": 28,
+      "gas:candidate-vibid:1001000121787": 16,
+      "gas:candidate-vibid:302300167232": 16,
+      "gas:candidate-vibid:1001000194997": 13,
+      "gas:candidate-vibid:302300166764": 12,
+      "gas:candidate-vibid:1001000201791": 29,
+      "gas:candidate-vibid:302300166628": 23,
+      "gas:candidate-vibid:302300166842": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6630,18 +6630,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 139,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 4,
-      "Овсянников Александр Митрофанович": 1,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 7,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 139,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 4,
+      "gas:candidate-vibid:1001000121787": 1,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 7,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6691,18 +6691,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 129,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 11,
-      "Овсянников Александр Митрофанович": 7,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 1,
-      "Хакимов Загир Ахсанович": 21,
-      "Шангареева Зиля Саетмухаметовна": 10,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 129,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 11,
+      "gas:candidate-vibid:1001000121787": 7,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 1,
+      "gas:candidate-vibid:1001000201791": 21,
+      "gas:candidate-vibid:302300166628": 10,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6752,18 +6752,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 71,
-      "Кузнецов Сергей Николаевич": 13,
-      "Муратова Лилия Рифкатовна": 10,
-      "Овсянников Александр Митрофанович": 5,
-      "Пархоменко Владимир Григорьевич": 9,
-      "Сибиряков Сергей Анатольевич": 6,
-      "Фазлыев Аскар Асхатович": 1,
-      "Хакимов Загир Ахсанович": 4,
-      "Шангареева Зиля Саетмухаметовна": 3,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 71,
+      "gas:candidate-vibid:1001000112176": 13,
+      "gas:candidate-vibid:302300167173": 10,
+      "gas:candidate-vibid:1001000121787": 5,
+      "gas:candidate-vibid:302300167232": 9,
+      "gas:candidate-vibid:1001000194997": 6,
+      "gas:candidate-vibid:302300166764": 1,
+      "gas:candidate-vibid:1001000201791": 4,
+      "gas:candidate-vibid:302300166628": 3,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6813,18 +6813,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 321,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 19,
-      "Овсянников Александр Митрофанович": 6,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 25,
-      "Хакимов Загир Ахсанович": 108,
-      "Шангареева Зиля Саетмухаметовна": 25,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 321,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 19,
+      "gas:candidate-vibid:1001000121787": 6,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 25,
+      "gas:candidate-vibid:1001000201791": 108,
+      "gas:candidate-vibid:302300166628": 25,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6874,18 +6874,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 54,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 25,
-      "Овсянников Александр Митрофанович": 1,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 46,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 54,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 25,
+      "gas:candidate-vibid:1001000121787": 1,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 46,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6935,18 +6935,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 486,
-      "Кузнецов Сергей Николаевич": 4,
-      "Муратова Лилия Рифкатовна": 13,
-      "Овсянников Александр Митрофанович": 15,
-      "Пархоменко Владимир Григорьевич": 4,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 39,
-      "Хакимов Загир Ахсанович": 53,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 486,
+      "gas:candidate-vibid:1001000112176": 4,
+      "gas:candidate-vibid:302300167173": 13,
+      "gas:candidate-vibid:1001000121787": 15,
+      "gas:candidate-vibid:302300167232": 4,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 39,
+      "gas:candidate-vibid:1001000201791": 53,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -6996,18 +6996,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 149,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 9,
-      "Овсянников Александр Митрофанович": 0,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 5,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 149,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 9,
+      "gas:candidate-vibid:1001000121787": 0,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 5,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7057,18 +7057,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 383,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 42,
-      "Овсянников Александр Митрофанович": 9,
-      "Пархоменко Владимир Григорьевич": 2,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 52,
-      "Хакимов Загир Ахсанович": 10,
-      "Шангареева Зиля Саетмухаметовна": 71,
-      "Юмагулов Анвер Мансурович": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 383,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 42,
+      "gas:candidate-vibid:1001000121787": 9,
+      "gas:candidate-vibid:302300167232": 2,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 52,
+      "gas:candidate-vibid:1001000201791": 10,
+      "gas:candidate-vibid:302300166628": 71,
+      "gas:candidate-vibid:302300166842": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7118,18 +7118,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 8,
-      "Камалетдинов Венер Хаернасович": 268,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 71,
-      "Овсянников Александр Митрофанович": 20,
-      "Пархоменко Владимир Григорьевич": 6,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 46,
-      "Хакимов Загир Ахсанович": 95,
-      "Шангареева Зиля Саетмухаметовна": 109,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:302300167301": 8,
+      "gas:candidate-vibid:1001000225870": 268,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 71,
+      "gas:candidate-vibid:1001000121787": 20,
+      "gas:candidate-vibid:302300167232": 6,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 46,
+      "gas:candidate-vibid:1001000201791": 95,
+      "gas:candidate-vibid:302300166628": 109,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7179,18 +7179,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 112,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 3,
-      "Овсянников Александр Митрофанович": 0,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 6,
-      "Хакимов Загир Ахсанович": 3,
-      "Шангареева Зиля Саетмухаметовна": 8,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 112,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 3,
+      "gas:candidate-vibid:1001000121787": 0,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 6,
+      "gas:candidate-vibid:1001000201791": 3,
+      "gas:candidate-vibid:302300166628": 8,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7240,18 +7240,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 91,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 13,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 22,
-      "Хакимов Загир Ахсанович": 0,
-      "Шангареева Зиля Саетмухаметовна": 18,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 91,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 13,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 22,
+      "gas:candidate-vibid:1001000201791": 0,
+      "gas:candidate-vibid:302300166628": 18,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7301,18 +7301,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 242,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 16,
-      "Овсянников Александр Митрофанович": 6,
-      "Пархоменко Владимир Григорьевич": 2,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 7,
-      "Хакимов Загир Ахсанович": 2,
-      "Шангареева Зиля Саетмухаметовна": 61,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 242,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 16,
+      "gas:candidate-vibid:1001000121787": 6,
+      "gas:candidate-vibid:302300167232": 2,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 7,
+      "gas:candidate-vibid:1001000201791": 2,
+      "gas:candidate-vibid:302300166628": 61,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7362,18 +7362,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 74,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 8,
-      "Овсянников Александр Митрофанович": 2,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 10,
-      "Хакимов Загир Ахсанович": 4,
-      "Шангареева Зиля Саетмухаметовна": 54,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 74,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 8,
+      "gas:candidate-vibid:1001000121787": 2,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 10,
+      "gas:candidate-vibid:1001000201791": 4,
+      "gas:candidate-vibid:302300166628": 54,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7423,18 +7423,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 120,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 9,
-      "Овсянников Александр Митрофанович": 3,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 4,
-      "Фазлыев Аскар Асхатович": 5,
-      "Хакимов Загир Ахсанович": 7,
-      "Шангареева Зиля Саетмухаметовна": 23,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 120,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 9,
+      "gas:candidate-vibid:1001000121787": 3,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 4,
+      "gas:candidate-vibid:302300166764": 5,
+      "gas:candidate-vibid:1001000201791": 7,
+      "gas:candidate-vibid:302300166628": 23,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7484,18 +7484,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 123,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 1,
-      "Овсянников Александр Митрофанович": 0,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 1,
-      "Шангареева Зиля Саетмухаметовна": 16,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 123,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 1,
+      "gas:candidate-vibid:1001000121787": 0,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 1,
+      "gas:candidate-vibid:302300166628": 16,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7545,18 +7545,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 384,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 23,
-      "Овсянников Александр Митрофанович": 8,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 36,
-      "Хакимов Загир Ахсанович": 24,
-      "Шангареева Зиля Саетмухаметовна": 37,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 384,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 23,
+      "gas:candidate-vibid:1001000121787": 8,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 36,
+      "gas:candidate-vibid:1001000201791": 24,
+      "gas:candidate-vibid:302300166628": 37,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7606,18 +7606,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 9,
-      "Камалетдинов Венер Хаернасович": 167,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 6,
-      "Овсянников Александр Митрофанович": 0,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 5,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 4,
-      "Шангареева Зиля Саетмухаметовна": 44,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:302300167301": 9,
+      "gas:candidate-vibid:1001000225870": 167,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 6,
+      "gas:candidate-vibid:1001000121787": 0,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 5,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 4,
+      "gas:candidate-vibid:302300166628": 44,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7667,18 +7667,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 6,
-      "Камалетдинов Венер Хаернасович": 185,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 18,
-      "Овсянников Александр Митрофанович": 9,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 2,
-      "Шангареева Зиля Саетмухаметовна": 13,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:302300167301": 6,
+      "gas:candidate-vibid:1001000225870": 185,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 18,
+      "gas:candidate-vibid:1001000121787": 9,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 2,
+      "gas:candidate-vibid:302300166628": 13,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7728,18 +7728,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 328,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 18,
-      "Овсянников Александр Митрофанович": 10,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 30,
-      "Хакимов Загир Ахсанович": 62,
-      "Шангареева Зиля Саетмухаметовна": 17,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 328,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 18,
+      "gas:candidate-vibid:1001000121787": 10,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 30,
+      "gas:candidate-vibid:1001000201791": 62,
+      "gas:candidate-vibid:302300166628": 17,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7789,18 +7789,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 237,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 6,
-      "Овсянников Александр Митрофанович": 4,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 28,
-      "Хакимов Загир Ахсанович": 41,
-      "Шангареева Зиля Саетмухаметовна": 17,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 237,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 6,
+      "gas:candidate-vibid:1001000121787": 4,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 28,
+      "gas:candidate-vibid:1001000201791": 41,
+      "gas:candidate-vibid:302300166628": 17,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7850,18 +7850,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 0,
-      "Камалетдинов Венер Хаернасович": 78,
-      "Кузнецов Сергей Николаевич": 0,
-      "Муратова Лилия Рифкатовна": 2,
-      "Овсянников Александр Митрофанович": 0,
-      "Пархоменко Владимир Григорьевич": 0,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 2,
-      "Шангареева Зиля Саетмухаметовна": 2,
-      "Юмагулов Анвер Мансурович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:302300167301": 0,
+      "gas:candidate-vibid:1001000225870": 78,
+      "gas:candidate-vibid:1001000112176": 0,
+      "gas:candidate-vibid:302300167173": 2,
+      "gas:candidate-vibid:1001000121787": 0,
+      "gas:candidate-vibid:302300167232": 0,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 2,
+      "gas:candidate-vibid:302300166628": 2,
+      "gas:candidate-vibid:302300166842": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7911,18 +7911,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 192,
-      "Кузнецов Сергей Николаевич": 5,
-      "Муратова Лилия Рифкатовна": 18,
-      "Овсянников Александр Митрофанович": 11,
-      "Пархоменко Владимир Григорьевич": 7,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 53,
-      "Хакимов Загир Ахсанович": 11,
-      "Шангареева Зиля Саетмухаметовна": 59,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 192,
+      "gas:candidate-vibid:1001000112176": 5,
+      "gas:candidate-vibid:302300167173": 18,
+      "gas:candidate-vibid:1001000121787": 11,
+      "gas:candidate-vibid:302300167232": 7,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 53,
+      "gas:candidate-vibid:1001000201791": 11,
+      "gas:candidate-vibid:302300166628": 59,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -7972,18 +7972,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 7,
-      "Камалетдинов Венер Хаернасович": 282,
-      "Кузнецов Сергей Николаевич": 11,
-      "Муратова Лилия Рифкатовна": 32,
-      "Овсянников Александр Митрофанович": 29,
-      "Пархоменко Владимир Григорьевич": 6,
-      "Сибиряков Сергей Анатольевич": 5,
-      "Фазлыев Аскар Асхатович": 49,
-      "Хакимов Загир Ахсанович": 54,
-      "Шангареева Зиля Саетмухаметовна": 60,
-      "Юмагулов Анвер Мансурович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:302300167301": 7,
+      "gas:candidate-vibid:1001000225870": 282,
+      "gas:candidate-vibid:1001000112176": 11,
+      "gas:candidate-vibid:302300167173": 32,
+      "gas:candidate-vibid:1001000121787": 29,
+      "gas:candidate-vibid:302300167232": 6,
+      "gas:candidate-vibid:1001000194997": 5,
+      "gas:candidate-vibid:302300166764": 49,
+      "gas:candidate-vibid:1001000201791": 54,
+      "gas:candidate-vibid:302300166628": 60,
+      "gas:candidate-vibid:302300166842": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8033,18 +8033,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 0,
-      "Камалетдинов Венер Хаернасович": 124,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 7,
-      "Овсянников Александр Митрофанович": 9,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 0,
-      "Фазлыев Аскар Асхатович": 2,
-      "Хакимов Загир Ахсанович": 4,
-      "Шангареева Зиля Саетмухаметовна": 9,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:302300167301": 0,
+      "gas:candidate-vibid:1001000225870": 124,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 7,
+      "gas:candidate-vibid:1001000121787": 9,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 0,
+      "gas:candidate-vibid:302300166764": 2,
+      "gas:candidate-vibid:1001000201791": 4,
+      "gas:candidate-vibid:302300166628": 9,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8094,18 +8094,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 4,
-      "Камалетдинов Венер Хаернасович": 245,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 22,
-      "Овсянников Александр Митрофанович": 13,
-      "Пархоменко Владимир Григорьевич": 3,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 4,
-      "Хакимов Загир Ахсанович": 95,
-      "Шангареева Зиля Саетмухаметовна": 42,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:302300167301": 4,
+      "gas:candidate-vibid:1001000225870": 245,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 22,
+      "gas:candidate-vibid:1001000121787": 13,
+      "gas:candidate-vibid:302300167232": 3,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 4,
+      "gas:candidate-vibid:1001000201791": 95,
+      "gas:candidate-vibid:302300166628": 42,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8155,18 +8155,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 231,
-      "Кузнецов Сергей Николаевич": 8,
-      "Муратова Лилия Рифкатовна": 22,
-      "Овсянников Александр Митрофанович": 25,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 3,
-      "Фазлыев Аскар Асхатович": 17,
-      "Хакимов Загир Ахсанович": 53,
-      "Шангареева Зиля Саетмухаметовна": 67,
-      "Юмагулов Анвер Мансурович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 231,
+      "gas:candidate-vibid:1001000112176": 8,
+      "gas:candidate-vibid:302300167173": 22,
+      "gas:candidate-vibid:1001000121787": 25,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 3,
+      "gas:candidate-vibid:302300166764": 17,
+      "gas:candidate-vibid:1001000201791": 53,
+      "gas:candidate-vibid:302300166628": 67,
+      "gas:candidate-vibid:302300166842": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8216,18 +8216,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 1,
-      "Камалетдинов Венер Хаернасович": 111,
-      "Кузнецов Сергей Николаевич": 1,
-      "Муратова Лилия Рифкатовна": 12,
-      "Овсянников Александр Митрофанович": 9,
-      "Пархоменко Владимир Григорьевич": 1,
-      "Сибиряков Сергей Анатольевич": 1,
-      "Фазлыев Аскар Асхатович": 3,
-      "Хакимов Загир Ахсанович": 15,
-      "Шангареева Зиля Саетмухаметовна": 19,
-      "Юмагулов Анвер Мансурович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:302300167301": 1,
+      "gas:candidate-vibid:1001000225870": 111,
+      "gas:candidate-vibid:1001000112176": 1,
+      "gas:candidate-vibid:302300167173": 12,
+      "gas:candidate-vibid:1001000121787": 9,
+      "gas:candidate-vibid:302300167232": 1,
+      "gas:candidate-vibid:1001000194997": 1,
+      "gas:candidate-vibid:302300166764": 3,
+      "gas:candidate-vibid:1001000201791": 15,
+      "gas:candidate-vibid:302300166628": 19,
+      "gas:candidate-vibid:302300166842": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8277,18 +8277,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 3,
-      "Камалетдинов Венер Хаернасович": 173,
-      "Кузнецов Сергей Николаевич": 6,
-      "Муратова Лилия Рифкатовна": 15,
-      "Овсянников Александр Митрофанович": 31,
-      "Пархоменко Владимир Григорьевич": 7,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 8,
-      "Хакимов Загир Ахсанович": 14,
-      "Шангареева Зиля Саетмухаметовна": 47,
-      "Юмагулов Анвер Мансурович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:302300167301": 3,
+      "gas:candidate-vibid:1001000225870": 173,
+      "gas:candidate-vibid:1001000112176": 6,
+      "gas:candidate-vibid:302300167173": 15,
+      "gas:candidate-vibid:1001000121787": 31,
+      "gas:candidate-vibid:302300167232": 7,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 8,
+      "gas:candidate-vibid:1001000201791": 14,
+      "gas:candidate-vibid:302300166628": 47,
+      "gas:candidate-vibid:302300166842": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8338,18 +8338,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 2,
-      "Камалетдинов Венер Хаернасович": 180,
-      "Кузнецов Сергей Николаевич": 2,
-      "Муратова Лилия Рифкатовна": 23,
-      "Овсянников Александр Митрофанович": 36,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 2,
-      "Фазлыев Аскар Асхатович": 13,
-      "Хакимов Загир Ахсанович": 58,
-      "Шангареева Зиля Саетмухаметовна": 46,
-      "Юмагулов Анвер Мансурович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:302300167301": 2,
+      "gas:candidate-vibid:1001000225870": 180,
+      "gas:candidate-vibid:1001000112176": 2,
+      "gas:candidate-vibid:302300167173": 23,
+      "gas:candidate-vibid:1001000121787": 36,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 2,
+      "gas:candidate-vibid:302300166764": 13,
+      "gas:candidate-vibid:1001000201791": 58,
+      "gas:candidate-vibid:302300166628": 46,
+      "gas:candidate-vibid:302300166842": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8399,18 +8399,18 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Искужин Азамат Адигамович": 5,
-      "Камалетдинов Венер Хаернасович": 161,
-      "Кузнецов Сергей Николаевич": 3,
-      "Муратова Лилия Рифкатовна": 12,
-      "Овсянников Александр Митрофанович": 8,
-      "Пархоменко Владимир Григорьевич": 5,
-      "Сибиряков Сергей Анатольевич": 6,
-      "Фазлыев Аскар Асхатович": 8,
-      "Хакимов Загир Ахсанович": 30,
-      "Шангареева Зиля Саетмухаметовна": 40,
-      "Юмагулов Анвер Мансурович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:302300167301": 5,
+      "gas:candidate-vibid:1001000225870": 161,
+      "gas:candidate-vibid:1001000112176": 3,
+      "gas:candidate-vibid:302300167173": 12,
+      "gas:candidate-vibid:1001000121787": 8,
+      "gas:candidate-vibid:302300167232": 5,
+      "gas:candidate-vibid:1001000194997": 6,
+      "gas:candidate-vibid:302300166764": 8,
+      "gas:candidate-vibid:1001000201791": 30,
+      "gas:candidate-vibid:302300166628": 40,
+      "gas:candidate-vibid:302300166842": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000062&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066877&region=0&sub_region=0&type=429",
@@ -8460,15 +8460,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 12,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 6,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 4,
-      "Минибаев Фарит Галиевич": 9,
-      "Старков Анатолий Михайлович": 261,
-      "Против всех": 13
+      "gas:candidate-vibid:302300566890": 12,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 6,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 4,
+      "gas:candidate-vibid:1001000121788": 9,
+      "gas:candidate-vibid:1001000225871": 261,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8518,15 +8518,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 11,
-      "Биканасов Роберт Мулланурович": 12,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 9,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 5,
-      "Минибаев Фарит Галиевич": 21,
-      "Старков Анатолий Михайлович": 92,
-      "Против всех": 11
+      "gas:candidate-vibid:302300566890": 11,
+      "gas:candidate-vibid:1001000113894": 12,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 9,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 5,
+      "gas:candidate-vibid:1001000121788": 21,
+      "gas:candidate-vibid:1001000225871": 92,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8576,15 +8576,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 39,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 8,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 14,
-      "Минибаев Фарит Галиевич": 13,
-      "Старков Анатолий Михайлович": 222,
-      "Против всех": 12
+      "gas:candidate-vibid:302300566890": 39,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 8,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 14,
+      "gas:candidate-vibid:1001000121788": 13,
+      "gas:candidate-vibid:1001000225871": 222,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8634,15 +8634,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 14,
-      "Биканасов Роберт Мулланурович": 1,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 0,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 7,
-      "Минибаев Фарит Галиевич": 8,
-      "Старков Анатолий Михайлович": 100,
-      "Против всех": 14
+      "gas:candidate-vibid:302300566890": 14,
+      "gas:candidate-vibid:1001000113894": 1,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 0,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 7,
+      "gas:candidate-vibid:1001000121788": 8,
+      "gas:candidate-vibid:1001000225871": 100,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8692,15 +8692,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 12,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 36,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 5,
-      "Минибаев Фарит Галиевич": 18,
-      "Старков Анатолий Михайлович": 179,
-      "Против всех": 33
+      "gas:candidate-vibid:302300566890": 12,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 36,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 5,
+      "gas:candidate-vibid:1001000121788": 18,
+      "gas:candidate-vibid:1001000225871": 179,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8750,15 +8750,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 1,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 15,
-      "Идрисов Фарит Сагитович": 0,
-      "Медведев Юрий Витальевич": 1,
-      "Минибаев Фарит Галиевич": 4,
-      "Старков Анатолий Михайлович": 127,
-      "Против всех": 6
+      "gas:candidate-vibid:302300566890": 1,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 15,
+      "gas:candidate-vibid:1001000201792": 0,
+      "gas:candidate-vibid:302300566910": 1,
+      "gas:candidate-vibid:1001000121788": 4,
+      "gas:candidate-vibid:1001000225871": 127,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8808,15 +8808,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 8,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 5,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 1,
-      "Минибаев Фарит Галиевич": 10,
-      "Старков Анатолий Михайлович": 99,
-      "Против всех": 17
+      "gas:candidate-vibid:302300566890": 8,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 5,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 1,
+      "gas:candidate-vibid:1001000121788": 10,
+      "gas:candidate-vibid:1001000225871": 99,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8866,15 +8866,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 2,
-      "Биканасов Роберт Мулланурович": 2,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 7,
-      "Идрисов Фарит Сагитович": 0,
-      "Медведев Юрий Витальевич": 0,
-      "Минибаев Фарит Галиевич": 2,
-      "Старков Анатолий Михайлович": 94,
-      "Против всех": 1
+      "gas:candidate-vibid:302300566890": 2,
+      "gas:candidate-vibid:1001000113894": 2,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 7,
+      "gas:candidate-vibid:1001000201792": 0,
+      "gas:candidate-vibid:302300566910": 0,
+      "gas:candidate-vibid:1001000121788": 2,
+      "gas:candidate-vibid:1001000225871": 94,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8924,15 +8924,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 38,
-      "Биканасов Роберт Мулланурович": 19,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 16,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 30,
-      "Минибаев Фарит Галиевич": 77,
-      "Старков Анатолий Михайлович": 465,
-      "Против всех": 104
+      "gas:candidate-vibid:302300566890": 38,
+      "gas:candidate-vibid:1001000113894": 19,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 16,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 30,
+      "gas:candidate-vibid:1001000121788": 77,
+      "gas:candidate-vibid:1001000225871": 465,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -8982,15 +8982,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 11,
-      "Биканасов Роберт Мулланурович": 10,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 7,
-      "Идрисов Фарит Сагитович": 13,
-      "Медведев Юрий Витальевич": 5,
-      "Минибаев Фарит Галиевич": 56,
-      "Старков Анатолий Михайлович": 329,
-      "Против всех": 15
+      "gas:candidate-vibid:302300566890": 11,
+      "gas:candidate-vibid:1001000113894": 10,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 7,
+      "gas:candidate-vibid:1001000201792": 13,
+      "gas:candidate-vibid:302300566910": 5,
+      "gas:candidate-vibid:1001000121788": 56,
+      "gas:candidate-vibid:1001000225871": 329,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9040,15 +9040,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 3,
-      "Биканасов Роберт Мулланурович": 4,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 7,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 4,
-      "Минибаев Фарит Галиевич": 40,
-      "Старков Анатолий Михайлович": 571,
-      "Против всех": 9
+      "gas:candidate-vibid:302300566890": 3,
+      "gas:candidate-vibid:1001000113894": 4,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 7,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 4,
+      "gas:candidate-vibid:1001000121788": 40,
+      "gas:candidate-vibid:1001000225871": 571,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9098,15 +9098,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 7,
-      "Биканасов Роберт Мулланурович": 4,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 4,
-      "Минибаев Фарит Галиевич": 22,
-      "Старков Анатолий Михайлович": 176,
-      "Против всех": 3
+      "gas:candidate-vibid:302300566890": 7,
+      "gas:candidate-vibid:1001000113894": 4,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 4,
+      "gas:candidate-vibid:1001000121788": 22,
+      "gas:candidate-vibid:1001000225871": 176,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9156,15 +9156,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 17,
-      "Биканасов Роберт Мулланурович": 1,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 7,
-      "Минибаев Фарит Галиевич": 10,
-      "Старков Анатолий Михайлович": 241,
-      "Против всех": 8
+      "gas:candidate-vibid:302300566890": 17,
+      "gas:candidate-vibid:1001000113894": 1,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 7,
+      "gas:candidate-vibid:1001000121788": 10,
+      "gas:candidate-vibid:1001000225871": 241,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9214,15 +9214,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 39,
-      "Биканасов Роберт Мулланурович": 1,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 12,
-      "Минибаев Фарит Галиевич": 16,
-      "Старков Анатолий Михайлович": 257,
-      "Против всех": 15
+      "gas:candidate-vibid:302300566890": 39,
+      "gas:candidate-vibid:1001000113894": 1,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 12,
+      "gas:candidate-vibid:1001000121788": 16,
+      "gas:candidate-vibid:1001000225871": 257,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9272,15 +9272,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 43,
-      "Биканасов Роберт Мулланурович": 7,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 12,
-      "Минибаев Фарит Галиевич": 15,
-      "Старков Анатолий Михайлович": 281,
-      "Против всех": 17
+      "gas:candidate-vibid:302300566890": 43,
+      "gas:candidate-vibid:1001000113894": 7,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 12,
+      "gas:candidate-vibid:1001000121788": 15,
+      "gas:candidate-vibid:1001000225871": 281,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9330,15 +9330,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 16,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 11,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 14,
-      "Минибаев Фарит Галиевич": 26,
-      "Старков Анатолий Михайлович": 218,
-      "Против всех": 18
+      "gas:candidate-vibid:302300566890": 16,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 11,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 14,
+      "gas:candidate-vibid:1001000121788": 26,
+      "gas:candidate-vibid:1001000225871": 218,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9388,15 +9388,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 9,
-      "Биканасов Роберт Мулланурович": 5,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 6,
-      "Минибаев Фарит Галиевич": 21,
-      "Старков Анатолий Михайлович": 340,
-      "Против всех": 20
+      "gas:candidate-vibid:302300566890": 9,
+      "gas:candidate-vibid:1001000113894": 5,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 6,
+      "gas:candidate-vibid:1001000121788": 21,
+      "gas:candidate-vibid:1001000225871": 340,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9446,15 +9446,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 107,
-      "Биканасов Роберт Мулланурович": 35,
-      "Гугенгеймер Антон Юрьевич": 11,
-      "Даутов Салават Ахатович": 21,
-      "Идрисов Фарит Сагитович": 16,
-      "Медведев Юрий Витальевич": 84,
-      "Минибаев Фарит Галиевич": 74,
-      "Старков Анатолий Михайлович": 753,
-      "Против всех": 132
+      "gas:candidate-vibid:302300566890": 107,
+      "gas:candidate-vibid:1001000113894": 35,
+      "gas:candidate-vibid:1001000194998": 11,
+      "gas:candidate-vibid:302300566887": 21,
+      "gas:candidate-vibid:1001000201792": 16,
+      "gas:candidate-vibid:302300566910": 84,
+      "gas:candidate-vibid:1001000121788": 74,
+      "gas:candidate-vibid:1001000225871": 753,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9504,15 +9504,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 21,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 5,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 10,
-      "Минибаев Фарит Галиевич": 14,
-      "Старков Анатолий Михайлович": 154,
-      "Против всех": 23
+      "gas:candidate-vibid:302300566890": 21,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 5,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 10,
+      "gas:candidate-vibid:1001000121788": 14,
+      "gas:candidate-vibid:1001000225871": 154,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9562,15 +9562,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 39,
-      "Биканасов Роберт Мулланурович": 7,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 19,
-      "Минибаев Фарит Галиевич": 17,
-      "Старков Анатолий Михайлович": 172,
-      "Против всех": 34
+      "gas:candidate-vibid:302300566890": 39,
+      "gas:candidate-vibid:1001000113894": 7,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 19,
+      "gas:candidate-vibid:1001000121788": 17,
+      "gas:candidate-vibid:1001000225871": 172,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9620,15 +9620,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 9,
-      "Биканасов Роберт Мулланурович": 0,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 3,
-      "Минибаев Фарит Галиевич": 3,
-      "Старков Анатолий Михайлович": 73,
-      "Против всех": 6
+      "gas:candidate-vibid:302300566890": 9,
+      "gas:candidate-vibid:1001000113894": 0,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 3,
+      "gas:candidate-vibid:1001000121788": 3,
+      "gas:candidate-vibid:1001000225871": 73,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9678,15 +9678,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 15,
-      "Биканасов Роберт Мулланурович": 2,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 3,
-      "Идрисов Фарит Сагитович": 0,
-      "Медведев Юрий Витальевич": 4,
-      "Минибаев Фарит Галиевич": 14,
-      "Старков Анатолий Михайлович": 120,
-      "Против всех": 6
+      "gas:candidate-vibid:302300566890": 15,
+      "gas:candidate-vibid:1001000113894": 2,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 3,
+      "gas:candidate-vibid:1001000201792": 0,
+      "gas:candidate-vibid:302300566910": 4,
+      "gas:candidate-vibid:1001000121788": 14,
+      "gas:candidate-vibid:1001000225871": 120,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9736,15 +9736,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 27,
-      "Биканасов Роберт Мулланурович": 1,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 0,
-      "Идрисов Фарит Сагитович": 2,
-      "Медведев Юрий Витальевич": 13,
-      "Минибаев Фарит Галиевич": 18,
-      "Старков Анатолий Михайлович": 169,
-      "Против всех": 16
+      "gas:candidate-vibid:302300566890": 27,
+      "gas:candidate-vibid:1001000113894": 1,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 0,
+      "gas:candidate-vibid:1001000201792": 2,
+      "gas:candidate-vibid:302300566910": 13,
+      "gas:candidate-vibid:1001000121788": 18,
+      "gas:candidate-vibid:1001000225871": 169,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9794,15 +9794,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 4,
-      "Биканасов Роберт Мулланурович": 2,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 6,
-      "Идрисов Фарит Сагитович": 2,
-      "Медведев Юрий Витальевич": 2,
-      "Минибаев Фарит Галиевич": 9,
-      "Старков Анатолий Михайлович": 110,
-      "Против всех": 3
+      "gas:candidate-vibid:302300566890": 4,
+      "gas:candidate-vibid:1001000113894": 2,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 6,
+      "gas:candidate-vibid:1001000201792": 2,
+      "gas:candidate-vibid:302300566910": 2,
+      "gas:candidate-vibid:1001000121788": 9,
+      "gas:candidate-vibid:1001000225871": 110,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9852,15 +9852,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 34,
-      "Биканасов Роберт Мулланурович": 20,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 21,
-      "Идрисов Фарит Сагитович": 20,
-      "Медведев Юрий Витальевич": 80,
-      "Минибаев Фарит Галиевич": 55,
-      "Старков Анатолий Михайлович": 998,
-      "Против всех": 91
+      "gas:candidate-vibid:302300566890": 34,
+      "gas:candidate-vibid:1001000113894": 20,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 21,
+      "gas:candidate-vibid:1001000201792": 20,
+      "gas:candidate-vibid:302300566910": 80,
+      "gas:candidate-vibid:1001000121788": 55,
+      "gas:candidate-vibid:1001000225871": 998,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9910,15 +9910,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 9,
-      "Биканасов Роберт Мулланурович": 4,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 10,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 8,
-      "Минибаев Фарит Галиевич": 11,
-      "Старков Анатолий Михайлович": 127,
-      "Против всех": 28
+      "gas:candidate-vibid:302300566890": 9,
+      "gas:candidate-vibid:1001000113894": 4,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 10,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 8,
+      "gas:candidate-vibid:1001000121788": 11,
+      "gas:candidate-vibid:1001000225871": 127,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -9968,15 +9968,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 3,
-      "Биканасов Роберт Мулланурович": 5,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 3,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 8,
-      "Минибаев Фарит Галиевич": 6,
-      "Старков Анатолий Михайлович": 187,
-      "Против всех": 9
+      "gas:candidate-vibid:302300566890": 3,
+      "gas:candidate-vibid:1001000113894": 5,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 3,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 8,
+      "gas:candidate-vibid:1001000121788": 6,
+      "gas:candidate-vibid:1001000225871": 187,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10026,15 +10026,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 13,
-      "Биканасов Роберт Мулланурович": 4,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 8,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 19,
-      "Минибаев Фарит Галиевич": 27,
-      "Старков Анатолий Михайлович": 215,
-      "Против всех": 22
+      "gas:candidate-vibid:302300566890": 13,
+      "gas:candidate-vibid:1001000113894": 4,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 8,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 19,
+      "gas:candidate-vibid:1001000121788": 27,
+      "gas:candidate-vibid:1001000225871": 215,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10084,15 +10084,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 5,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 6,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 9,
-      "Минибаев Фарит Галиевич": 13,
-      "Старков Анатолий Михайлович": 84,
-      "Против всех": 7
+      "gas:candidate-vibid:302300566890": 5,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 6,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 9,
+      "gas:candidate-vibid:1001000121788": 13,
+      "gas:candidate-vibid:1001000225871": 84,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10142,15 +10142,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 28,
-      "Биканасов Роберт Мулланурович": 8,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 27,
-      "Минибаев Фарит Галиевич": 25,
-      "Старков Анатолий Михайлович": 276,
-      "Против всех": 23
+      "gas:candidate-vibid:302300566890": 28,
+      "gas:candidate-vibid:1001000113894": 8,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 27,
+      "gas:candidate-vibid:1001000121788": 25,
+      "gas:candidate-vibid:1001000225871": 276,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10200,15 +10200,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 35,
-      "Биканасов Роберт Мулланурович": 22,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 19,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 21,
-      "Минибаев Фарит Галиевич": 51,
-      "Старков Анатолий Михайлович": 295,
-      "Против всех": 57
+      "gas:candidate-vibid:302300566890": 35,
+      "gas:candidate-vibid:1001000113894": 22,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 19,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 21,
+      "gas:candidate-vibid:1001000121788": 51,
+      "gas:candidate-vibid:1001000225871": 295,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10258,15 +10258,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 59,
-      "Биканасов Роберт Мулланурович": 39,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 17,
-      "Идрисов Фарит Сагитович": 7,
-      "Медведев Юрий Витальевич": 18,
-      "Минибаев Фарит Галиевич": 78,
-      "Старков Анатолий Михайлович": 576,
-      "Против всех": 79
+      "gas:candidate-vibid:302300566890": 59,
+      "gas:candidate-vibid:1001000113894": 39,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 17,
+      "gas:candidate-vibid:1001000201792": 7,
+      "gas:candidate-vibid:302300566910": 18,
+      "gas:candidate-vibid:1001000121788": 78,
+      "gas:candidate-vibid:1001000225871": 576,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10316,15 +10316,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 14,
-      "Биканасов Роберт Мулланурович": 2,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 5,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 5,
-      "Минибаев Фарит Галиевич": 19,
-      "Старков Анатолий Михайлович": 120,
-      "Против всех": 24
+      "gas:candidate-vibid:302300566890": 14,
+      "gas:candidate-vibid:1001000113894": 2,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 5,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 5,
+      "gas:candidate-vibid:1001000121788": 19,
+      "gas:candidate-vibid:1001000225871": 120,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10374,15 +10374,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 1,
-      "Биканасов Роберт Мулланурович": 1,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 0,
-      "Минибаев Фарит Галиевич": 7,
-      "Старков Анатолий Михайлович": 72,
-      "Против всех": 0
+      "gas:candidate-vibid:302300566890": 1,
+      "gas:candidate-vibid:1001000113894": 1,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 0,
+      "gas:candidate-vibid:1001000121788": 7,
+      "gas:candidate-vibid:1001000225871": 72,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10432,15 +10432,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 53,
-      "Биканасов Роберт Мулланурович": 9,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 14,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 27,
-      "Минибаев Фарит Галиевич": 47,
-      "Старков Анатолий Михайлович": 420,
-      "Против всех": 61
+      "gas:candidate-vibid:302300566890": 53,
+      "gas:candidate-vibid:1001000113894": 9,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 14,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 27,
+      "gas:candidate-vibid:1001000121788": 47,
+      "gas:candidate-vibid:1001000225871": 420,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10490,15 +10490,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 15,
-      "Биканасов Роберт Мулланурович": 5,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 10,
-      "Минибаев Фарит Галиевич": 8,
-      "Старков Анатолий Михайлович": 96,
-      "Против всех": 12
+      "gas:candidate-vibid:302300566890": 15,
+      "gas:candidate-vibid:1001000113894": 5,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 10,
+      "gas:candidate-vibid:1001000121788": 8,
+      "gas:candidate-vibid:1001000225871": 96,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10548,15 +10548,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 11,
-      "Биканасов Роберт Мулланурович": 5,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 0,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 7,
-      "Минибаев Фарит Галиевич": 9,
-      "Старков Анатолий Михайлович": 118,
-      "Против всех": 5
+      "gas:candidate-vibid:302300566890": 11,
+      "gas:candidate-vibid:1001000113894": 5,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 0,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 7,
+      "gas:candidate-vibid:1001000121788": 9,
+      "gas:candidate-vibid:1001000225871": 118,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10606,15 +10606,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 12,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 5,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 7,
-      "Минибаев Фарит Галиевич": 17,
-      "Старков Анатолий Михайлович": 83,
-      "Против всех": 15
+      "gas:candidate-vibid:302300566890": 12,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 5,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 7,
+      "gas:candidate-vibid:1001000121788": 17,
+      "gas:candidate-vibid:1001000225871": 83,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10664,15 +10664,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 20,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 2,
-      "Минибаев Фарит Галиевич": 11,
-      "Старков Анатолий Михайлович": 147,
-      "Против всех": 11
+      "gas:candidate-vibid:302300566890": 20,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 2,
+      "gas:candidate-vibid:1001000121788": 11,
+      "gas:candidate-vibid:1001000225871": 147,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10722,15 +10722,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 27,
-      "Биканасов Роберт Мулланурович": 11,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 6,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 10,
-      "Минибаев Фарит Галиевич": 22,
-      "Старков Анатолий Михайлович": 362,
-      "Против всех": 34
+      "gas:candidate-vibid:302300566890": 27,
+      "gas:candidate-vibid:1001000113894": 11,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 6,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 10,
+      "gas:candidate-vibid:1001000121788": 22,
+      "gas:candidate-vibid:1001000225871": 362,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10780,15 +10780,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 11,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 7,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 7,
-      "Медведев Юрий Витальевич": 8,
-      "Минибаев Фарит Галиевич": 21,
-      "Старков Анатолий Михайлович": 98,
-      "Против всех": 15
+      "gas:candidate-vibid:302300566890": 11,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 7,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 7,
+      "gas:candidate-vibid:302300566910": 8,
+      "gas:candidate-vibid:1001000121788": 21,
+      "gas:candidate-vibid:1001000225871": 98,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10838,15 +10838,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 13,
-      "Биканасов Роберт Мулланурович": 4,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 2,
-      "Медведев Юрий Витальевич": 2,
-      "Минибаев Фарит Галиевич": 4,
-      "Старков Анатолий Михайлович": 69,
-      "Против всех": 11
+      "gas:candidate-vibid:302300566890": 13,
+      "gas:candidate-vibid:1001000113894": 4,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 2,
+      "gas:candidate-vibid:302300566910": 2,
+      "gas:candidate-vibid:1001000121788": 4,
+      "gas:candidate-vibid:1001000225871": 69,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10896,15 +10896,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 8,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 1,
-      "Минибаев Фарит Галиевич": 5,
-      "Старков Анатолий Михайлович": 87,
-      "Против всех": 3
+      "gas:candidate-vibid:302300566890": 8,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 1,
+      "gas:candidate-vibid:1001000121788": 5,
+      "gas:candidate-vibid:1001000225871": 87,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -10954,15 +10954,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 20,
-      "Биканасов Роберт Мулланурович": 8,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 6,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 0,
-      "Минибаев Фарит Галиевич": 12,
-      "Старков Анатолий Михайлович": 112,
-      "Против всех": 17
+      "gas:candidate-vibid:302300566890": 20,
+      "gas:candidate-vibid:1001000113894": 8,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 6,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 0,
+      "gas:candidate-vibid:1001000121788": 12,
+      "gas:candidate-vibid:1001000225871": 112,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11012,15 +11012,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 10,
-      "Биканасов Роберт Мулланурович": 0,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 5,
-      "Минибаев Фарит Галиевич": 4,
-      "Старков Анатолий Михайлович": 121,
-      "Против всех": 11
+      "gas:candidate-vibid:302300566890": 10,
+      "gas:candidate-vibid:1001000113894": 0,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 5,
+      "gas:candidate-vibid:1001000121788": 4,
+      "gas:candidate-vibid:1001000225871": 121,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11070,15 +11070,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 15,
-      "Биканасов Роберт Мулланурович": 2,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 3,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 8,
-      "Минибаев Фарит Галиевич": 3,
-      "Старков Анатолий Михайлович": 73,
-      "Против всех": 0
+      "gas:candidate-vibid:302300566890": 15,
+      "gas:candidate-vibid:1001000113894": 2,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 3,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 8,
+      "gas:candidate-vibid:1001000121788": 3,
+      "gas:candidate-vibid:1001000225871": 73,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11128,15 +11128,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 38,
-      "Биканасов Роберт Мулланурович": 10,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 12,
-      "Минибаев Фарит Галиевич": 12,
-      "Старков Анатолий Михайлович": 142,
-      "Против всех": 10
+      "gas:candidate-vibid:302300566890": 38,
+      "gas:candidate-vibid:1001000113894": 10,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 12,
+      "gas:candidate-vibid:1001000121788": 12,
+      "gas:candidate-vibid:1001000225871": 142,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11186,15 +11186,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 37,
-      "Биканасов Роберт Мулланурович": 8,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 7,
-      "Минибаев Фарит Галиевич": 17,
-      "Старков Анатолий Михайлович": 163,
-      "Против всех": 17
+      "gas:candidate-vibid:302300566890": 37,
+      "gas:candidate-vibid:1001000113894": 8,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 7,
+      "gas:candidate-vibid:1001000121788": 17,
+      "gas:candidate-vibid:1001000225871": 163,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11244,15 +11244,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 34,
-      "Биканасов Роберт Мулланурович": 4,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 15,
-      "Минибаев Фарит Галиевич": 10,
-      "Старков Анатолий Михайлович": 320,
-      "Против всех": 23
+      "gas:candidate-vibid:302300566890": 34,
+      "gas:candidate-vibid:1001000113894": 4,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 15,
+      "gas:candidate-vibid:1001000121788": 10,
+      "gas:candidate-vibid:1001000225871": 320,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11302,15 +11302,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 8,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 9,
-      "Идрисов Фарит Сагитович": 12,
-      "Медведев Юрий Витальевич": 6,
-      "Минибаев Фарит Галиевич": 14,
-      "Старков Анатолий Михайлович": 194,
-      "Против всех": 13
+      "gas:candidate-vibid:302300566890": 8,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 9,
+      "gas:candidate-vibid:1001000201792": 12,
+      "gas:candidate-vibid:302300566910": 6,
+      "gas:candidate-vibid:1001000121788": 14,
+      "gas:candidate-vibid:1001000225871": 194,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11360,15 +11360,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 34,
-      "Биканасов Роберт Мулланурович": 34,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 26,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 22,
-      "Минибаев Фарит Галиевич": 51,
-      "Старков Анатолий Михайлович": 871,
-      "Против всех": 108
+      "gas:candidate-vibid:302300566890": 34,
+      "gas:candidate-vibid:1001000113894": 34,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 26,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 22,
+      "gas:candidate-vibid:1001000121788": 51,
+      "gas:candidate-vibid:1001000225871": 871,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11418,15 +11418,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 34,
-      "Биканасов Роберт Мулланурович": 12,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 1,
-      "Идрисов Фарит Сагитович": 8,
-      "Медведев Юрий Витальевич": 11,
-      "Минибаев Фарит Галиевич": 17,
-      "Старков Анатолий Михайлович": 250,
-      "Против всех": 14
+      "gas:candidate-vibid:302300566890": 34,
+      "gas:candidate-vibid:1001000113894": 12,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 1,
+      "gas:candidate-vibid:1001000201792": 8,
+      "gas:candidate-vibid:302300566910": 11,
+      "gas:candidate-vibid:1001000121788": 17,
+      "gas:candidate-vibid:1001000225871": 250,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11476,15 +11476,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 9,
-      "Биканасов Роберт Мулланурович": 10,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 9,
-      "Идрисов Фарит Сагитович": 2,
-      "Медведев Юрий Витальевич": 0,
-      "Минибаев Фарит Галиевич": 18,
-      "Старков Анатолий Михайлович": 159,
-      "Против всех": 4
+      "gas:candidate-vibid:302300566890": 9,
+      "gas:candidate-vibid:1001000113894": 10,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 9,
+      "gas:candidate-vibid:1001000201792": 2,
+      "gas:candidate-vibid:302300566910": 0,
+      "gas:candidate-vibid:1001000121788": 18,
+      "gas:candidate-vibid:1001000225871": 159,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11534,15 +11534,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 14,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 3,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 7,
-      "Минибаев Фарит Галиевич": 5,
-      "Старков Анатолий Михайлович": 250,
-      "Против всех": 12
+      "gas:candidate-vibid:302300566890": 14,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 3,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 7,
+      "gas:candidate-vibid:1001000121788": 5,
+      "gas:candidate-vibid:1001000225871": 250,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11592,15 +11592,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 46,
-      "Биканасов Роберт Мулланурович": 8,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 36,
-      "Идрисов Фарит Сагитович": 17,
-      "Медведев Юрий Витальевич": 10,
-      "Минибаев Фарит Галиевич": 21,
-      "Старков Анатолий Михайлович": 308,
-      "Против всех": 31
+      "gas:candidate-vibid:302300566890": 46,
+      "gas:candidate-vibid:1001000113894": 8,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 36,
+      "gas:candidate-vibid:1001000201792": 17,
+      "gas:candidate-vibid:302300566910": 10,
+      "gas:candidate-vibid:1001000121788": 21,
+      "gas:candidate-vibid:1001000225871": 308,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11650,15 +11650,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 24,
-      "Биканасов Роберт Мулланурович": 29,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 4,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 4,
-      "Минибаев Фарит Галиевич": 68,
-      "Старков Анатолий Михайлович": 275,
-      "Против всех": 36
+      "gas:candidate-vibid:302300566890": 24,
+      "gas:candidate-vibid:1001000113894": 29,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 4,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 4,
+      "gas:candidate-vibid:1001000121788": 68,
+      "gas:candidate-vibid:1001000225871": 275,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11708,15 +11708,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 7,
-      "Биканасов Роберт Мулланурович": 17,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 5,
-      "Идрисов Фарит Сагитович": 7,
-      "Медведев Юрий Витальевич": 4,
-      "Минибаев Фарит Галиевич": 42,
-      "Старков Анатолий Михайлович": 174,
-      "Против всех": 12
+      "gas:candidate-vibid:302300566890": 7,
+      "gas:candidate-vibid:1001000113894": 17,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 5,
+      "gas:candidate-vibid:1001000201792": 7,
+      "gas:candidate-vibid:302300566910": 4,
+      "gas:candidate-vibid:1001000121788": 42,
+      "gas:candidate-vibid:1001000225871": 174,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11766,15 +11766,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 29,
-      "Биканасов Роберт Мулланурович": 3,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 2,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 6,
-      "Минибаев Фарит Галиевич": 17,
-      "Старков Анатолий Михайлович": 213,
-      "Против всех": 13
+      "gas:candidate-vibid:302300566890": 29,
+      "gas:candidate-vibid:1001000113894": 3,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 2,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 6,
+      "gas:candidate-vibid:1001000121788": 17,
+      "gas:candidate-vibid:1001000225871": 213,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11824,15 +11824,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 33,
-      "Биканасов Роберт Мулланурович": 6,
-      "Гугенгеймер Антон Юрьевич": 0,
-      "Даутов Салават Ахатович": 3,
-      "Идрисов Фарит Сагитович": 1,
-      "Медведев Юрий Витальевич": 3,
-      "Минибаев Фарит Галиевич": 11,
-      "Старков Анатолий Михайлович": 142,
-      "Против всех": 11
+      "gas:candidate-vibid:302300566890": 33,
+      "gas:candidate-vibid:1001000113894": 6,
+      "gas:candidate-vibid:1001000194998": 0,
+      "gas:candidate-vibid:302300566887": 3,
+      "gas:candidate-vibid:1001000201792": 1,
+      "gas:candidate-vibid:302300566910": 3,
+      "gas:candidate-vibid:1001000121788": 11,
+      "gas:candidate-vibid:1001000225871": 142,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000063&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066878&region=0&sub_region=0&type=429",
@@ -11882,15 +11882,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 54,
-      "Биканасов Роберт Мулланурович": 32,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 19,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 44,
-      "Минибаев Фарит Галиевич": 99,
-      "Старков Анатолий Михайлович": 571,
-      "Против всех": 66
+      "gas:candidate-vibid:302300566890": 54,
+      "gas:candidate-vibid:1001000113894": 32,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 19,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 44,
+      "gas:candidate-vibid:1001000121788": 99,
+      "gas:candidate-vibid:1001000225871": 571,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -11940,15 +11940,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 38,
-      "Биканасов Роберт Мулланурович": 29,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 17,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 23,
-      "Минибаев Фарит Галиевич": 71,
-      "Старков Анатолий Михайлович": 454,
-      "Против всех": 82
+      "gas:candidate-vibid:302300566890": 38,
+      "gas:candidate-vibid:1001000113894": 29,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 17,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 23,
+      "gas:candidate-vibid:1001000121788": 71,
+      "gas:candidate-vibid:1001000225871": 454,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -11998,15 +11998,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 129,
-      "Биканасов Роберт Мулланурович": 93,
-      "Гугенгеймер Антон Юрьевич": 12,
-      "Даутов Салават Ахатович": 69,
-      "Идрисов Фарит Сагитович": 17,
-      "Медведев Юрий Витальевич": 136,
-      "Минибаев Фарит Галиевич": 153,
-      "Старков Анатолий Михайлович": 1098,
-      "Против всех": 225
+      "gas:candidate-vibid:302300566890": 129,
+      "gas:candidate-vibid:1001000113894": 93,
+      "gas:candidate-vibid:1001000194998": 12,
+      "gas:candidate-vibid:302300566887": 69,
+      "gas:candidate-vibid:1001000201792": 17,
+      "gas:candidate-vibid:302300566910": 136,
+      "gas:candidate-vibid:1001000121788": 153,
+      "gas:candidate-vibid:1001000225871": 1098,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12056,15 +12056,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 141,
-      "Биканасов Роберт Мулланурович": 86,
-      "Гугенгеймер Антон Юрьевич": 7,
-      "Даутов Салават Ахатович": 59,
-      "Идрисов Фарит Сагитович": 16,
-      "Медведев Юрий Витальевич": 122,
-      "Минибаев Фарит Галиевич": 219,
-      "Старков Анатолий Михайлович": 1202,
-      "Против всех": 226
+      "gas:candidate-vibid:302300566890": 141,
+      "gas:candidate-vibid:1001000113894": 86,
+      "gas:candidate-vibid:1001000194998": 7,
+      "gas:candidate-vibid:302300566887": 59,
+      "gas:candidate-vibid:1001000201792": 16,
+      "gas:candidate-vibid:302300566910": 122,
+      "gas:candidate-vibid:1001000121788": 219,
+      "gas:candidate-vibid:1001000225871": 1202,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12114,15 +12114,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 75,
-      "Биканасов Роберт Мулланурович": 34,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 18,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 56,
-      "Минибаев Фарит Галиевич": 76,
-      "Старков Анатолий Михайлович": 723,
-      "Против всех": 108
+      "gas:candidate-vibid:302300566890": 75,
+      "gas:candidate-vibid:1001000113894": 34,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 18,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 56,
+      "gas:candidate-vibid:1001000121788": 76,
+      "gas:candidate-vibid:1001000225871": 723,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12172,15 +12172,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 25,
-      "Биканасов Роберт Мулланурович": 13,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 10,
-      "Идрисов Фарит Сагитович": 7,
-      "Медведев Юрий Витальевич": 11,
-      "Минибаев Фарит Галиевич": 33,
-      "Старков Анатолий Михайлович": 260,
-      "Против всех": 36
+      "gas:candidate-vibid:302300566890": 25,
+      "gas:candidate-vibid:1001000113894": 13,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 10,
+      "gas:candidate-vibid:1001000201792": 7,
+      "gas:candidate-vibid:302300566910": 11,
+      "gas:candidate-vibid:1001000121788": 33,
+      "gas:candidate-vibid:1001000225871": 260,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12230,15 +12230,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 135,
-      "Биканасов Роберт Мулланурович": 67,
-      "Гугенгеймер Антон Юрьевич": 9,
-      "Даутов Салават Ахатович": 60,
-      "Идрисов Фарит Сагитович": 20,
-      "Медведев Юрий Витальевич": 67,
-      "Минибаев Фарит Галиевич": 187,
-      "Старков Анатолий Михайлович": 831,
-      "Против всех": 167
+      "gas:candidate-vibid:302300566890": 135,
+      "gas:candidate-vibid:1001000113894": 67,
+      "gas:candidate-vibid:1001000194998": 9,
+      "gas:candidate-vibid:302300566887": 60,
+      "gas:candidate-vibid:1001000201792": 20,
+      "gas:candidate-vibid:302300566910": 67,
+      "gas:candidate-vibid:1001000121788": 187,
+      "gas:candidate-vibid:1001000225871": 831,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12288,15 +12288,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 72,
-      "Биканасов Роберт Мулланурович": 43,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 22,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 42,
-      "Минибаев Фарит Галиевич": 147,
-      "Старков Анатолий Михайлович": 690,
-      "Против всех": 125
+      "gas:candidate-vibid:302300566890": 72,
+      "gas:candidate-vibid:1001000113894": 43,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 22,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 42,
+      "gas:candidate-vibid:1001000121788": 147,
+      "gas:candidate-vibid:1001000225871": 690,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12346,15 +12346,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 155,
-      "Биканасов Роберт Мулланурович": 83,
-      "Гугенгеймер Антон Юрьевич": 9,
-      "Даутов Салават Ахатович": 30,
-      "Идрисов Фарит Сагитович": 19,
-      "Медведев Юрий Витальевич": 72,
-      "Минибаев Фарит Галиевич": 235,
-      "Старков Анатолий Михайлович": 865,
-      "Против всех": 173
+      "gas:candidate-vibid:302300566890": 155,
+      "gas:candidate-vibid:1001000113894": 83,
+      "gas:candidate-vibid:1001000194998": 9,
+      "gas:candidate-vibid:302300566887": 30,
+      "gas:candidate-vibid:1001000201792": 19,
+      "gas:candidate-vibid:302300566910": 72,
+      "gas:candidate-vibid:1001000121788": 235,
+      "gas:candidate-vibid:1001000225871": 865,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12404,15 +12404,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 91,
-      "Биканасов Роберт Мулланурович": 51,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 21,
-      "Идрисов Фарит Сагитович": 4,
-      "Медведев Юрий Витальевич": 37,
-      "Минибаев Фарит Галиевич": 123,
-      "Старков Анатолий Михайлович": 494,
-      "Против всех": 95
+      "gas:candidate-vibid:302300566890": 91,
+      "gas:candidate-vibid:1001000113894": 51,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 21,
+      "gas:candidate-vibid:1001000201792": 4,
+      "gas:candidate-vibid:302300566910": 37,
+      "gas:candidate-vibid:1001000121788": 123,
+      "gas:candidate-vibid:1001000225871": 494,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12462,15 +12462,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 72,
-      "Биканасов Роберт Мулланурович": 84,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 51,
-      "Идрисов Фарит Сагитович": 19,
-      "Медведев Юрий Витальевич": 81,
-      "Минибаев Фарит Галиевич": 183,
-      "Старков Анатолий Михайлович": 920,
-      "Против всех": 219
+      "gas:candidate-vibid:302300566890": 72,
+      "gas:candidate-vibid:1001000113894": 84,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 51,
+      "gas:candidate-vibid:1001000201792": 19,
+      "gas:candidate-vibid:302300566910": 81,
+      "gas:candidate-vibid:1001000121788": 183,
+      "gas:candidate-vibid:1001000225871": 920,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12520,15 +12520,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 157,
-      "Биканасов Роберт Мулланурович": 92,
-      "Гугенгеймер Антон Юрьевич": 9,
-      "Даутов Салават Ахатович": 55,
-      "Идрисов Фарит Сагитович": 28,
-      "Медведев Юрий Витальевич": 60,
-      "Минибаев Фарит Галиевич": 168,
-      "Старков Анатолий Михайлович": 1121,
-      "Против всех": 282
+      "gas:candidate-vibid:302300566890": 157,
+      "gas:candidate-vibid:1001000113894": 92,
+      "gas:candidate-vibid:1001000194998": 9,
+      "gas:candidate-vibid:302300566887": 55,
+      "gas:candidate-vibid:1001000201792": 28,
+      "gas:candidate-vibid:302300566910": 60,
+      "gas:candidate-vibid:1001000121788": 168,
+      "gas:candidate-vibid:1001000225871": 1121,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12578,15 +12578,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 132,
-      "Биканасов Роберт Мулланурович": 81,
-      "Гугенгеймер Антон Юрьевич": 6,
-      "Даутов Салават Ахатович": 82,
-      "Идрисов Фарит Сагитович": 19,
-      "Медведев Юрий Витальевич": 86,
-      "Минибаев Фарит Галиевич": 228,
-      "Старков Анатолий Михайлович": 1260,
-      "Против всех": 216
+      "gas:candidate-vibid:302300566890": 132,
+      "gas:candidate-vibid:1001000113894": 81,
+      "gas:candidate-vibid:1001000194998": 6,
+      "gas:candidate-vibid:302300566887": 82,
+      "gas:candidate-vibid:1001000201792": 19,
+      "gas:candidate-vibid:302300566910": 86,
+      "gas:candidate-vibid:1001000121788": 228,
+      "gas:candidate-vibid:1001000225871": 1260,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12636,15 +12636,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 53,
-      "Биканасов Роберт Мулланурович": 42,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 24,
-      "Идрисов Фарит Сагитович": 3,
-      "Медведев Юрий Витальевич": 74,
-      "Минибаев Фарит Галиевич": 90,
-      "Старков Анатолий Михайлович": 562,
-      "Против всех": 82
+      "gas:candidate-vibid:302300566890": 53,
+      "gas:candidate-vibid:1001000113894": 42,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 24,
+      "gas:candidate-vibid:1001000201792": 3,
+      "gas:candidate-vibid:302300566910": 74,
+      "gas:candidate-vibid:1001000121788": 90,
+      "gas:candidate-vibid:1001000225871": 562,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12694,15 +12694,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 29,
-      "Биканасов Роберт Мулланурович": 32,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 36,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 23,
-      "Минибаев Фарит Галиевич": 89,
-      "Старков Анатолий Михайлович": 509,
-      "Против всех": 76
+      "gas:candidate-vibid:302300566890": 29,
+      "gas:candidate-vibid:1001000113894": 32,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 36,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 23,
+      "gas:candidate-vibid:1001000121788": 89,
+      "gas:candidate-vibid:1001000225871": 509,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12752,15 +12752,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 74,
-      "Биканасов Роберт Мулланурович": 57,
-      "Гугенгеймер Антон Юрьевич": 6,
-      "Даутов Салават Ахатович": 71,
-      "Идрисов Фарит Сагитович": 17,
-      "Медведев Юрий Витальевич": 51,
-      "Минибаев Фарит Галиевич": 73,
-      "Старков Анатолий Михайлович": 689,
-      "Против всех": 86
+      "gas:candidate-vibid:302300566890": 74,
+      "gas:candidate-vibid:1001000113894": 57,
+      "gas:candidate-vibid:1001000194998": 6,
+      "gas:candidate-vibid:302300566887": 71,
+      "gas:candidate-vibid:1001000201792": 17,
+      "gas:candidate-vibid:302300566910": 51,
+      "gas:candidate-vibid:1001000121788": 73,
+      "gas:candidate-vibid:1001000225871": 689,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12810,15 +12810,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 112,
-      "Биканасов Роберт Мулланурович": 90,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 37,
-      "Идрисов Фарит Сагитович": 20,
-      "Медведев Юрий Витальевич": 106,
-      "Минибаев Фарит Галиевич": 146,
-      "Старков Анатолий Михайлович": 801,
-      "Против всех": 175
+      "gas:candidate-vibid:302300566890": 112,
+      "gas:candidate-vibid:1001000113894": 90,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 37,
+      "gas:candidate-vibid:1001000201792": 20,
+      "gas:candidate-vibid:302300566910": 106,
+      "gas:candidate-vibid:1001000121788": 146,
+      "gas:candidate-vibid:1001000225871": 801,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12868,15 +12868,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 102,
-      "Биканасов Роберт Мулланурович": 88,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 49,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 80,
-      "Минибаев Фарит Галиевич": 165,
-      "Старков Анатолий Михайлович": 803,
-      "Против всех": 195
+      "gas:candidate-vibid:302300566890": 102,
+      "gas:candidate-vibid:1001000113894": 88,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 49,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 80,
+      "gas:candidate-vibid:1001000121788": 165,
+      "gas:candidate-vibid:1001000225871": 803,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12926,15 +12926,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 120,
-      "Биканасов Роберт Мулланурович": 60,
-      "Гугенгеймер Антон Юрьевич": 7,
-      "Даутов Салават Ахатович": 38,
-      "Идрисов Фарит Сагитович": 17,
-      "Медведев Юрий Витальевич": 69,
-      "Минибаев Фарит Галиевич": 125,
-      "Старков Анатолий Михайлович": 867,
-      "Против всех": 174
+      "gas:candidate-vibid:302300566890": 120,
+      "gas:candidate-vibid:1001000113894": 60,
+      "gas:candidate-vibid:1001000194998": 7,
+      "gas:candidate-vibid:302300566887": 38,
+      "gas:candidate-vibid:1001000201792": 17,
+      "gas:candidate-vibid:302300566910": 69,
+      "gas:candidate-vibid:1001000121788": 125,
+      "gas:candidate-vibid:1001000225871": 867,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -12984,15 +12984,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 23,
-      "Биканасов Роберт Мулланурович": 15,
-      "Гугенгеймер Антон Юрьевич": 6,
-      "Даутов Салават Ахатович": 10,
-      "Идрисов Фарит Сагитович": 5,
-      "Медведев Юрий Витальевич": 16,
-      "Минибаев Фарит Галиевич": 36,
-      "Старков Анатолий Михайлович": 338,
-      "Против всех": 36
+      "gas:candidate-vibid:302300566890": 23,
+      "gas:candidate-vibid:1001000113894": 15,
+      "gas:candidate-vibid:1001000194998": 6,
+      "gas:candidate-vibid:302300566887": 10,
+      "gas:candidate-vibid:1001000201792": 5,
+      "gas:candidate-vibid:302300566910": 16,
+      "gas:candidate-vibid:1001000121788": 36,
+      "gas:candidate-vibid:1001000225871": 338,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13042,15 +13042,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 77,
-      "Биканасов Роберт Мулланурович": 54,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 46,
-      "Идрисов Фарит Сагитович": 17,
-      "Медведев Юрий Витальевич": 34,
-      "Минибаев Фарит Галиевич": 118,
-      "Старков Анатолий Михайлович": 655,
-      "Против всех": 101
+      "gas:candidate-vibid:302300566890": 77,
+      "gas:candidate-vibid:1001000113894": 54,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 46,
+      "gas:candidate-vibid:1001000201792": 17,
+      "gas:candidate-vibid:302300566910": 34,
+      "gas:candidate-vibid:1001000121788": 118,
+      "gas:candidate-vibid:1001000225871": 655,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13100,15 +13100,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 123,
-      "Биканасов Роберт Мулланурович": 74,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 74,
-      "Идрисов Фарит Сагитович": 15,
-      "Медведев Юрий Витальевич": 59,
-      "Минибаев Фарит Галиевич": 189,
-      "Старков Анатолий Михайлович": 1202,
-      "Против всех": 198
+      "gas:candidate-vibid:302300566890": 123,
+      "gas:candidate-vibid:1001000113894": 74,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 74,
+      "gas:candidate-vibid:1001000201792": 15,
+      "gas:candidate-vibid:302300566910": 59,
+      "gas:candidate-vibid:1001000121788": 189,
+      "gas:candidate-vibid:1001000225871": 1202,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13158,15 +13158,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 43,
-      "Биканасов Роберт Мулланурович": 31,
-      "Гугенгеймер Антон Юрьевич": 1,
-      "Даутов Салават Ахатович": 25,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 18,
-      "Минибаев Фарит Галиевич": 53,
-      "Старков Анатолий Михайлович": 420,
-      "Против всех": 18
+      "gas:candidate-vibid:302300566890": 43,
+      "gas:candidate-vibid:1001000113894": 31,
+      "gas:candidate-vibid:1001000194998": 1,
+      "gas:candidate-vibid:302300566887": 25,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 18,
+      "gas:candidate-vibid:1001000121788": 53,
+      "gas:candidate-vibid:1001000225871": 420,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13216,15 +13216,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 79,
-      "Биканасов Роберт Мулланурович": 49,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 39,
-      "Идрисов Фарит Сагитович": 12,
-      "Медведев Юрий Витальевич": 70,
-      "Минибаев Фарит Галиевич": 111,
-      "Старков Анатолий Михайлович": 722,
-      "Против всех": 160
+      "gas:candidate-vibid:302300566890": 79,
+      "gas:candidate-vibid:1001000113894": 49,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 39,
+      "gas:candidate-vibid:1001000201792": 12,
+      "gas:candidate-vibid:302300566910": 70,
+      "gas:candidate-vibid:1001000121788": 111,
+      "gas:candidate-vibid:1001000225871": 722,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13274,15 +13274,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 109,
-      "Биканасов Роберт Мулланурович": 83,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 72,
-      "Идрисов Фарит Сагитович": 13,
-      "Медведев Юрий Витальевич": 55,
-      "Минибаев Фарит Галиевич": 191,
-      "Старков Анатолий Михайлович": 880,
-      "Против всех": 193
+      "gas:candidate-vibid:302300566890": 109,
+      "gas:candidate-vibid:1001000113894": 83,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 72,
+      "gas:candidate-vibid:1001000201792": 13,
+      "gas:candidate-vibid:302300566910": 55,
+      "gas:candidate-vibid:1001000121788": 191,
+      "gas:candidate-vibid:1001000225871": 880,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13332,15 +13332,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 102,
-      "Биканасов Роберт Мулланурович": 64,
-      "Гугенгеймер Антон Юрьевич": 10,
-      "Даутов Салават Ахатович": 67,
-      "Идрисов Фарит Сагитович": 24,
-      "Медведев Юрий Витальевич": 60,
-      "Минибаев Фарит Галиевич": 175,
-      "Старков Анатолий Михайлович": 1035,
-      "Против всех": 174
+      "gas:candidate-vibid:302300566890": 102,
+      "gas:candidate-vibid:1001000113894": 64,
+      "gas:candidate-vibid:1001000194998": 10,
+      "gas:candidate-vibid:302300566887": 67,
+      "gas:candidate-vibid:1001000201792": 24,
+      "gas:candidate-vibid:302300566910": 60,
+      "gas:candidate-vibid:1001000121788": 175,
+      "gas:candidate-vibid:1001000225871": 1035,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13390,15 +13390,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 83,
-      "Биканасов Роберт Мулланурович": 60,
-      "Гугенгеймер Антон Юрьевич": 9,
-      "Даутов Салават Ахатович": 38,
-      "Идрисов Фарит Сагитович": 32,
-      "Медведев Юрий Витальевич": 48,
-      "Минибаев Фарит Галиевич": 103,
-      "Старков Анатолий Михайлович": 900,
-      "Против всех": 113
+      "gas:candidate-vibid:302300566890": 83,
+      "gas:candidate-vibid:1001000113894": 60,
+      "gas:candidate-vibid:1001000194998": 9,
+      "gas:candidate-vibid:302300566887": 38,
+      "gas:candidate-vibid:1001000201792": 32,
+      "gas:candidate-vibid:302300566910": 48,
+      "gas:candidate-vibid:1001000121788": 103,
+      "gas:candidate-vibid:1001000225871": 900,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13448,15 +13448,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 66,
-      "Биканасов Роберт Мулланурович": 42,
-      "Гугенгеймер Антон Юрьевич": 7,
-      "Даутов Салават Ахатович": 37,
-      "Идрисов Фарит Сагитович": 13,
-      "Медведев Юрий Витальевич": 44,
-      "Минибаев Фарит Галиевич": 179,
-      "Старков Анатолий Михайлович": 661,
-      "Против всех": 123
+      "gas:candidate-vibid:302300566890": 66,
+      "gas:candidate-vibid:1001000113894": 42,
+      "gas:candidate-vibid:1001000194998": 7,
+      "gas:candidate-vibid:302300566887": 37,
+      "gas:candidate-vibid:1001000201792": 13,
+      "gas:candidate-vibid:302300566910": 44,
+      "gas:candidate-vibid:1001000121788": 179,
+      "gas:candidate-vibid:1001000225871": 661,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13506,15 +13506,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 70,
-      "Биканасов Роберт Мулланурович": 61,
-      "Гугенгеймер Антон Юрьевич": 7,
-      "Даутов Салават Ахатович": 58,
-      "Идрисов Фарит Сагитович": 12,
-      "Медведев Юрий Витальевич": 37,
-      "Минибаев Фарит Галиевич": 81,
-      "Старков Анатолий Михайлович": 705,
-      "Против всех": 146
+      "gas:candidate-vibid:302300566890": 70,
+      "gas:candidate-vibid:1001000113894": 61,
+      "gas:candidate-vibid:1001000194998": 7,
+      "gas:candidate-vibid:302300566887": 58,
+      "gas:candidate-vibid:1001000201792": 12,
+      "gas:candidate-vibid:302300566910": 37,
+      "gas:candidate-vibid:1001000121788": 81,
+      "gas:candidate-vibid:1001000225871": 705,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13564,15 +13564,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 73,
-      "Биканасов Роберт Мулланурович": 26,
-      "Гугенгеймер Антон Юрьевич": 6,
-      "Даутов Салават Ахатович": 27,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 34,
-      "Минибаев Фарит Галиевич": 60,
-      "Старков Анатолий Михайлович": 1026,
-      "Против всех": 106
+      "gas:candidate-vibid:302300566890": 73,
+      "gas:candidate-vibid:1001000113894": 26,
+      "gas:candidate-vibid:1001000194998": 6,
+      "gas:candidate-vibid:302300566887": 27,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 34,
+      "gas:candidate-vibid:1001000121788": 60,
+      "gas:candidate-vibid:1001000225871": 1026,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13622,15 +13622,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 104,
-      "Биканасов Роберт Мулланурович": 49,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 63,
-      "Идрисов Фарит Сагитович": 27,
-      "Медведев Юрий Витальевич": 56,
-      "Минибаев Фарит Галиевич": 117,
-      "Старков Анатолий Михайлович": 970,
-      "Против всех": 144
+      "gas:candidate-vibid:302300566890": 104,
+      "gas:candidate-vibid:1001000113894": 49,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 63,
+      "gas:candidate-vibid:1001000201792": 27,
+      "gas:candidate-vibid:302300566910": 56,
+      "gas:candidate-vibid:1001000121788": 117,
+      "gas:candidate-vibid:1001000225871": 970,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13680,15 +13680,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 96,
-      "Биканасов Роберт Мулланурович": 60,
-      "Гугенгеймер Антон Юрьевич": 18,
-      "Даутов Салават Ахатович": 41,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 36,
-      "Минибаев Фарит Галиевич": 128,
-      "Старков Анатолий Михайлович": 829,
-      "Против всех": 123
+      "gas:candidate-vibid:302300566890": 96,
+      "gas:candidate-vibid:1001000113894": 60,
+      "gas:candidate-vibid:1001000194998": 18,
+      "gas:candidate-vibid:302300566887": 41,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 36,
+      "gas:candidate-vibid:1001000121788": 128,
+      "gas:candidate-vibid:1001000225871": 829,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13738,15 +13738,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 102,
-      "Биканасов Роберт Мулланурович": 59,
-      "Гугенгеймер Антон Юрьевич": 10,
-      "Даутов Салават Ахатович": 59,
-      "Идрисов Фарит Сагитович": 25,
-      "Медведев Юрий Витальевич": 50,
-      "Минибаев Фарит Галиевич": 198,
-      "Старков Анатолий Михайлович": 994,
-      "Против всех": 160
+      "gas:candidate-vibid:302300566890": 102,
+      "gas:candidate-vibid:1001000113894": 59,
+      "gas:candidate-vibid:1001000194998": 10,
+      "gas:candidate-vibid:302300566887": 59,
+      "gas:candidate-vibid:1001000201792": 25,
+      "gas:candidate-vibid:302300566910": 50,
+      "gas:candidate-vibid:1001000121788": 198,
+      "gas:candidate-vibid:1001000225871": 994,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13796,15 +13796,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 120,
-      "Биканасов Роберт Мулланурович": 42,
-      "Гугенгеймер Антон Юрьевич": 10,
-      "Даутов Салават Ахатович": 92,
-      "Идрисов Фарит Сагитович": 30,
-      "Медведев Юрий Витальевич": 64,
-      "Минибаев Фарит Галиевич": 154,
-      "Старков Анатолий Михайлович": 1129,
-      "Против всех": 198
+      "gas:candidate-vibid:302300566890": 120,
+      "gas:candidate-vibid:1001000113894": 42,
+      "gas:candidate-vibid:1001000194998": 10,
+      "gas:candidate-vibid:302300566887": 92,
+      "gas:candidate-vibid:1001000201792": 30,
+      "gas:candidate-vibid:302300566910": 64,
+      "gas:candidate-vibid:1001000121788": 154,
+      "gas:candidate-vibid:1001000225871": 1129,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13854,15 +13854,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 23,
-      "Биканасов Роберт Мулланурович": 18,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 24,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 14,
-      "Минибаев Фарит Галиевич": 29,
-      "Старков Анатолий Михайлович": 321,
-      "Против всех": 43
+      "gas:candidate-vibid:302300566890": 23,
+      "gas:candidate-vibid:1001000113894": 18,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 24,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 14,
+      "gas:candidate-vibid:1001000121788": 29,
+      "gas:candidate-vibid:1001000225871": 321,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13912,15 +13912,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 104,
-      "Биканасов Роберт Мулланурович": 42,
-      "Гугенгеймер Антон Юрьевич": 9,
-      "Даутов Салават Ахатович": 43,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 51,
-      "Минибаев Фарит Галиевич": 122,
-      "Старков Анатолий Михайлович": 1124,
-      "Против всех": 181
+      "gas:candidate-vibid:302300566890": 104,
+      "gas:candidate-vibid:1001000113894": 42,
+      "gas:candidate-vibid:1001000194998": 9,
+      "gas:candidate-vibid:302300566887": 43,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 51,
+      "gas:candidate-vibid:1001000121788": 122,
+      "gas:candidate-vibid:1001000225871": 1124,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -13970,15 +13970,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 48,
-      "Биканасов Роберт Мулланурович": 30,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 47,
-      "Идрисов Фарит Сагитович": 12,
-      "Медведев Юрий Витальевич": 47,
-      "Минибаев Фарит Галиевич": 68,
-      "Старков Анатолий Михайлович": 666,
-      "Против всех": 118
+      "gas:candidate-vibid:302300566890": 48,
+      "gas:candidate-vibid:1001000113894": 30,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 47,
+      "gas:candidate-vibid:1001000201792": 12,
+      "gas:candidate-vibid:302300566910": 47,
+      "gas:candidate-vibid:1001000121788": 68,
+      "gas:candidate-vibid:1001000225871": 666,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14028,15 +14028,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 94,
-      "Биканасов Роберт Мулланурович": 54,
-      "Гугенгеймер Антон Юрьевич": 8,
-      "Даутов Салават Ахатович": 86,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 62,
-      "Минибаев Фарит Галиевич": 162,
-      "Старков Анатолий Михайлович": 1512,
-      "Против всех": 198
+      "gas:candidate-vibid:302300566890": 94,
+      "gas:candidate-vibid:1001000113894": 54,
+      "gas:candidate-vibid:1001000194998": 8,
+      "gas:candidate-vibid:302300566887": 86,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 62,
+      "gas:candidate-vibid:1001000121788": 162,
+      "gas:candidate-vibid:1001000225871": 1512,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14086,15 +14086,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 75,
-      "Биканасов Роберт Мулланурович": 37,
-      "Гугенгеймер Антон Юрьевич": 5,
-      "Даутов Салават Ахатович": 76,
-      "Идрисов Фарит Сагитович": 33,
-      "Медведев Юрий Витальевич": 29,
-      "Минибаев Фарит Галиевич": 96,
-      "Старков Анатолий Михайлович": 875,
-      "Против всех": 99
+      "gas:candidate-vibid:302300566890": 75,
+      "gas:candidate-vibid:1001000113894": 37,
+      "gas:candidate-vibid:1001000194998": 5,
+      "gas:candidate-vibid:302300566887": 76,
+      "gas:candidate-vibid:1001000201792": 33,
+      "gas:candidate-vibid:302300566910": 29,
+      "gas:candidate-vibid:1001000121788": 96,
+      "gas:candidate-vibid:1001000225871": 875,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14144,15 +14144,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 42,
-      "Биканасов Роберт Мулланурович": 37,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 30,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 37,
-      "Минибаев Фарит Галиевич": 64,
-      "Старков Анатолий Михайлович": 514,
-      "Против всех": 81
+      "gas:candidate-vibid:302300566890": 42,
+      "gas:candidate-vibid:1001000113894": 37,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 30,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 37,
+      "gas:candidate-vibid:1001000121788": 64,
+      "gas:candidate-vibid:1001000225871": 514,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14202,15 +14202,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 62,
-      "Биканасов Роберт Мулланурович": 36,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 35,
-      "Идрисов Фарит Сагитович": 14,
-      "Медведев Юрий Витальевич": 33,
-      "Минибаев Фарит Галиевич": 88,
-      "Старков Анатолий Михайлович": 658,
-      "Против всех": 129
+      "gas:candidate-vibid:302300566890": 62,
+      "gas:candidate-vibid:1001000113894": 36,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 35,
+      "gas:candidate-vibid:1001000201792": 14,
+      "gas:candidate-vibid:302300566910": 33,
+      "gas:candidate-vibid:1001000121788": 88,
+      "gas:candidate-vibid:1001000225871": 658,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14260,15 +14260,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 96,
-      "Биканасов Роберт Мулланурович": 50,
-      "Гугенгеймер Антон Юрьевич": 2,
-      "Даутов Салават Ахатович": 45,
-      "Идрисов Фарит Сагитович": 8,
-      "Медведев Юрий Витальевич": 36,
-      "Минибаев Фарит Галиевич": 65,
-      "Старков Анатолий Михайлович": 1013,
-      "Против всех": 101
+      "gas:candidate-vibid:302300566890": 96,
+      "gas:candidate-vibid:1001000113894": 50,
+      "gas:candidate-vibid:1001000194998": 2,
+      "gas:candidate-vibid:302300566887": 45,
+      "gas:candidate-vibid:1001000201792": 8,
+      "gas:candidate-vibid:302300566910": 36,
+      "gas:candidate-vibid:1001000121788": 65,
+      "gas:candidate-vibid:1001000225871": 1013,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14318,15 +14318,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 60,
-      "Биканасов Роберт Мулланурович": 40,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 34,
-      "Идрисов Фарит Сагитович": 14,
-      "Медведев Юрий Витальевич": 34,
-      "Минибаев Фарит Галиевич": 83,
-      "Старков Анатолий Михайлович": 478,
-      "Против всех": 112
+      "gas:candidate-vibid:302300566890": 60,
+      "gas:candidate-vibid:1001000113894": 40,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 34,
+      "gas:candidate-vibid:1001000201792": 14,
+      "gas:candidate-vibid:302300566910": 34,
+      "gas:candidate-vibid:1001000121788": 83,
+      "gas:candidate-vibid:1001000225871": 478,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14376,15 +14376,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 89,
-      "Биканасов Роберт Мулланурович": 68,
-      "Гугенгеймер Антон Юрьевич": 7,
-      "Даутов Салават Ахатович": 63,
-      "Идрисов Фарит Сагитович": 14,
-      "Медведев Юрий Витальевич": 46,
-      "Минибаев Фарит Галиевич": 98,
-      "Старков Анатолий Михайлович": 1296,
-      "Против всех": 154
+      "gas:candidate-vibid:302300566890": 89,
+      "gas:candidate-vibid:1001000113894": 68,
+      "gas:candidate-vibid:1001000194998": 7,
+      "gas:candidate-vibid:302300566887": 63,
+      "gas:candidate-vibid:1001000201792": 14,
+      "gas:candidate-vibid:302300566910": 46,
+      "gas:candidate-vibid:1001000121788": 98,
+      "gas:candidate-vibid:1001000225871": 1296,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14434,15 +14434,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 39,
-      "Биканасов Роберт Мулланурович": 25,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 32,
-      "Идрисов Фарит Сагитович": 7,
-      "Медведев Юрий Витальевич": 20,
-      "Минибаев Фарит Галиевич": 61,
-      "Старков Анатолий Михайлович": 490,
-      "Против всех": 93
+      "gas:candidate-vibid:302300566890": 39,
+      "gas:candidate-vibid:1001000113894": 25,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 32,
+      "gas:candidate-vibid:1001000201792": 7,
+      "gas:candidate-vibid:302300566910": 20,
+      "gas:candidate-vibid:1001000121788": 61,
+      "gas:candidate-vibid:1001000225871": 490,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14492,15 +14492,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 85,
-      "Биканасов Роберт Мулланурович": 48,
-      "Гугенгеймер Антон Юрьевич": 11,
-      "Даутов Салават Ахатович": 51,
-      "Идрисов Фарит Сагитович": 16,
-      "Медведев Юрий Витальевич": 38,
-      "Минибаев Фарит Галиевич": 169,
-      "Старков Анатолий Михайлович": 820,
-      "Против всех": 194
+      "gas:candidate-vibid:302300566890": 85,
+      "gas:candidate-vibid:1001000113894": 48,
+      "gas:candidate-vibid:1001000194998": 11,
+      "gas:candidate-vibid:302300566887": 51,
+      "gas:candidate-vibid:1001000201792": 16,
+      "gas:candidate-vibid:302300566910": 38,
+      "gas:candidate-vibid:1001000121788": 169,
+      "gas:candidate-vibid:1001000225871": 820,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14550,15 +14550,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 57,
-      "Биканасов Роберт Мулланурович": 32,
-      "Гугенгеймер Антон Юрьевич": 6,
-      "Даутов Салават Ахатович": 27,
-      "Идрисов Фарит Сагитович": 6,
-      "Медведев Юрий Витальевич": 26,
-      "Минибаев Фарит Галиевич": 76,
-      "Старков Анатолий Михайлович": 544,
-      "Против всех": 108
+      "gas:candidate-vibid:302300566890": 57,
+      "gas:candidate-vibid:1001000113894": 32,
+      "gas:candidate-vibid:1001000194998": 6,
+      "gas:candidate-vibid:302300566887": 27,
+      "gas:candidate-vibid:1001000201792": 6,
+      "gas:candidate-vibid:302300566910": 26,
+      "gas:candidate-vibid:1001000121788": 76,
+      "gas:candidate-vibid:1001000225871": 544,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14608,15 +14608,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 68,
-      "Биканасов Роберт Мулланурович": 46,
-      "Гугенгеймер Антон Юрьевич": 8,
-      "Даутов Салават Ахатович": 57,
-      "Идрисов Фарит Сагитович": 11,
-      "Медведев Юрий Витальевич": 44,
-      "Минибаев Фарит Галиевич": 106,
-      "Старков Анатолий Михайлович": 771,
-      "Против всех": 134
+      "gas:candidate-vibid:302300566890": 68,
+      "gas:candidate-vibid:1001000113894": 46,
+      "gas:candidate-vibid:1001000194998": 8,
+      "gas:candidate-vibid:302300566887": 57,
+      "gas:candidate-vibid:1001000201792": 11,
+      "gas:candidate-vibid:302300566910": 44,
+      "gas:candidate-vibid:1001000121788": 106,
+      "gas:candidate-vibid:1001000225871": 771,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14666,15 +14666,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 62,
-      "Биканасов Роберт Мулланурович": 29,
-      "Гугенгеймер Антон Юрьевич": 4,
-      "Даутов Салават Ахатович": 20,
-      "Идрисов Фарит Сагитович": 9,
-      "Медведев Юрий Витальевич": 20,
-      "Минибаев Фарит Галиевич": 81,
-      "Старков Анатолий Михайлович": 551,
-      "Против всех": 82
+      "gas:candidate-vibid:302300566890": 62,
+      "gas:candidate-vibid:1001000113894": 29,
+      "gas:candidate-vibid:1001000194998": 4,
+      "gas:candidate-vibid:302300566887": 20,
+      "gas:candidate-vibid:1001000201792": 9,
+      "gas:candidate-vibid:302300566910": 20,
+      "gas:candidate-vibid:1001000121788": 81,
+      "gas:candidate-vibid:1001000225871": 551,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14724,15 +14724,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 109,
-      "Биканасов Роберт Мулланурович": 52,
-      "Гугенгеймер Антон Юрьевич": 9,
-      "Даутов Салават Ахатович": 92,
-      "Идрисов Фарит Сагитович": 15,
-      "Медведев Юрий Витальевич": 51,
-      "Минибаев Фарит Галиевич": 189,
-      "Старков Анатолий Михайлович": 1036,
-      "Против всех": 192
+      "gas:candidate-vibid:302300566890": 109,
+      "gas:candidate-vibid:1001000113894": 52,
+      "gas:candidate-vibid:1001000194998": 9,
+      "gas:candidate-vibid:302300566887": 92,
+      "gas:candidate-vibid:1001000201792": 15,
+      "gas:candidate-vibid:302300566910": 51,
+      "gas:candidate-vibid:1001000121788": 189,
+      "gas:candidate-vibid:1001000225871": 1036,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14782,15 +14782,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 70,
-      "Биканасов Роберт Мулланурович": 33,
-      "Гугенгеймер Антон Юрьевич": 3,
-      "Даутов Салават Ахатович": 23,
-      "Идрисов Фарит Сагитович": 7,
-      "Медведев Юрий Витальевич": 37,
-      "Минибаев Фарит Галиевич": 113,
-      "Старков Анатолий Михайлович": 785,
-      "Против всех": 139
+      "gas:candidate-vibid:302300566890": 70,
+      "gas:candidate-vibid:1001000113894": 33,
+      "gas:candidate-vibid:1001000194998": 3,
+      "gas:candidate-vibid:302300566887": 23,
+      "gas:candidate-vibid:1001000201792": 7,
+      "gas:candidate-vibid:302300566910": 37,
+      "gas:candidate-vibid:1001000121788": 113,
+      "gas:candidate-vibid:1001000225871": 785,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14840,15 +14840,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 84,
-      "Биканасов Роберт Мулланурович": 57,
-      "Гугенгеймер Антон Юрьевич": 6,
-      "Даутов Салават Ахатович": 27,
-      "Идрисов Фарит Сагитович": 10,
-      "Медведев Юрий Витальевич": 37,
-      "Минибаев Фарит Галиевич": 137,
-      "Старков Анатолий Михайлович": 815,
-      "Против всех": 162
+      "gas:candidate-vibid:302300566890": 84,
+      "gas:candidate-vibid:1001000113894": 57,
+      "gas:candidate-vibid:1001000194998": 6,
+      "gas:candidate-vibid:302300566887": 27,
+      "gas:candidate-vibid:1001000201792": 10,
+      "gas:candidate-vibid:302300566910": 37,
+      "gas:candidate-vibid:1001000121788": 137,
+      "gas:candidate-vibid:1001000225871": 815,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",
@@ -14898,15 +14898,15 @@ export const duma_2003_uik_428_region_3_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Алексей Викторович": 95,
-      "Биканасов Роберт Мулланурович": 32,
-      "Гугенгеймер Антон Юрьевич": 8,
-      "Даутов Салават Ахатович": 43,
-      "Идрисов Фарит Сагитович": 15,
-      "Медведев Юрий Витальевич": 52,
-      "Минибаев Фарит Галиевич": 196,
-      "Старков Анатолий Михайлович": 635,
-      "Против всех": 135
+      "gas:candidate-vibid:302300566890": 95,
+      "gas:candidate-vibid:1001000113894": 32,
+      "gas:candidate-vibid:1001000194998": 8,
+      "gas:candidate-vibid:302300566887": 43,
+      "gas:candidate-vibid:1001000201792": 15,
+      "gas:candidate-vibid:302300566910": 52,
+      "gas:candidate-vibid:1001000121788": 196,
+      "gas:candidate-vibid:1001000225871": 635,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000064&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066879&region=0&sub_region=0&type=429",

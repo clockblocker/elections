@@ -8,5376 +8,14336 @@ export const duma_2021_uik_to_tik_region_48 = [
     "uikNumber": 101,
     "uikTvd": "4484001187061",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №101",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4484001187062",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №102",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4484001187063",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №103",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4484001187064",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №104",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4484001187065",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №105",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4484001187066",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №106",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4484001187067",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №107",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4484001187068",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №108",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4484001187069",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №109",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4484001187070",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №110",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4484001187071",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №111",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4484001187072",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №112",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4484001187073",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №113",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4484001187074",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №114",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4484001187075",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №115",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4484001187076",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №116",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4484001187077",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №117",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4484001187078",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №118",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4484001187079",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №119",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4484001187080",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №120",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4484001187081",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №121",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4484001187082",
     "tikTvd": "2482000944900",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "uikName": "УИК №122",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4484002365750",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №201",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4484002365751",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №202",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4484002365752",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №203",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4484002365753",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №204",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4484002365754",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №205",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4484002365755",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №206",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4484002365756",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №207",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4484002365757",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №208",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4484002365758",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №209",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4484002365759",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №210",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4484002365760",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №211",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4484002365761",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №212",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4484002365762",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №213",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4484002365763",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №214",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4484002365764",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №215",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4484002365765",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №216",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4484002365766",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №217",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4484002365767",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №218",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4484002365768",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №219",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4484002365769",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №220",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4484002365770",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №221",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4484002365771",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №222",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4484002365772",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №223",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4484002365773",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №224",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4484002365774",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №225",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4484002365775",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №226",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4484002365776",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №227",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4484002365777",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №228",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4484002365778",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №229",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4484002365779",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №230",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4484002365780",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №231",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4484002365781",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №232",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4484002365782",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №233",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4484002365783",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №234",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4484002365784",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №235",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4484002365785",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №236",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4484002365786",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №237",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4484002365787",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №238",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4484002365788",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №239",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4484002365789",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №240",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4484002365790",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №241",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4484002365791",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №242",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4484002365792",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №243",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4484002365793",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №244",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4484002365794",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №245",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4484002365795",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №246",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4484002365796",
     "tikTvd": "2482000944899",
-    "tikName": "Грязинская"
+    "tikName": "Грязинская",
+    "uikName": "УИК №247",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4484003313341",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №301",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4484003313342",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №302",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4484003313343",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №303",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4484003313344",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №304",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4484003313345",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №305",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4484003313346",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №306",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4484003313347",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №307",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4484003313348",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №308",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4484003313349",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №309",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4484003313350",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №310",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4484003313351",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №311",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4484003313352",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №312",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4484003313353",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №313",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4484003313354",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №314",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4484003313355",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №315",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4484003313356",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №316",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4484003313357",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №317",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4484003313358",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №318",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4484003313359",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №319",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4484003313360",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №320",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4484003313361",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №321",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4484003313362",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №322",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4484003313363",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №323",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4484003313364",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №324",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4484003313365",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №325",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4484003313366",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №326",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4484003313367",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №327",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4484003313368",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №328",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4484003313369",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №329",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4484003313370",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №330",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4484003313371",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №331",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4484003313372",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №332",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4484003313373",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №333",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4484003313374",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №334",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4484003313375",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №335",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4484003313376",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №336",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4484003313377",
     "tikTvd": "2482000944887",
-    "tikName": "Данковская"
+    "tikName": "Данковская",
+    "uikName": "УИК №337",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "9489004286281",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №401",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "9489004286282",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №402",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "9489004286283",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №403",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "9489004286284",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №404",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "9489004286285",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №405",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "9489004286286",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №406",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "9489004286287",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №407",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "9489004286288",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №408",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "9489004286289",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №409",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "9489004286290",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №410",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "9489004286291",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №411",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "9489004286292",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №412",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "9489004286293",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №413",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "9489004286294",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №414",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "9489004286295",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №415",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "9489004286296",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №416",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "9489004286297",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №417",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "9489004286298",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №418",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "9489004286299",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №419",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "9489004286300",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №420",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "9489004286301",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №421",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "9489004286302",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №422",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "9489004286303",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №423",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "9489004286304",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №424",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "9489004286305",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №425",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "9489004286306",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №426",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "9489004286307",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №427",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "9489004286308",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №428",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "9489004286309",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №429",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "9489004286310",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №430",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "9489004286311",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №431",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "9489004286312",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №432",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "9489004286313",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №433",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "9489004286314",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №434",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "9489004286315",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №435",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "9489004286316",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №436",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "9489004286317",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №437",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "9489004286318",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №438",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "9489004286319",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №439",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "9489004286320",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №440",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "9489004286321",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №441",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "9489004286322",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №442",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "9489004286323",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №443",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "9489004286324",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №444",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "9489004286325",
     "tikTvd": "2482000944898",
-    "tikName": "Добринская"
+    "tikName": "Добринская",
+    "uikName": "УИК №445",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4484005362650",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №501",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4484005362651",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №502",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4484005362652",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №503",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4484005362653",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №504",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4484005362654",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №505",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4484005362655",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №506",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4484005362656",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №507",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4484005362657",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №508",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4484005362658",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №509",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4484005362659",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №510",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4484005362660",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №511",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4484005362661",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №512",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4484005362662",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №513",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4484005362663",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №514",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4484005362664",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №515",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4484005362665",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №516",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4484005362666",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №517",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4484005362667",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №518",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4484005362668",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №519",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4484005362669",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №520",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4484005362670",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №521",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4484005362671",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №522",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4484005362672",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №523",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4484005362673",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №524",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4484005362674",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №525",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4484005362675",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №526",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4484005362676",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №527",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4484005362677",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №528",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4484005362678",
     "tikTvd": "2482000944886",
-    "tikName": "Добровская"
+    "tikName": "Добровская",
+    "uikName": "УИК №529",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4484006181657",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №601",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4484006181658",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №602",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4484006181659",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №603",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4484006181660",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №604",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4484006181661",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №605",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4484006181662",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №606",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4484006181663",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №607",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4484006181664",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №608",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4484006181665",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №609",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4484006181666",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №610",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4484006181667",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №611",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4484006181668",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №612",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4484006181669",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №613",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4484006181670",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №614",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4484006181671",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №615",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4484006181672",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №616",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4484006181673",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №617",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4484006181674",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №618",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4484006181675",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №619",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4484006181676",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №620",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4484006181677",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №621",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4484006181678",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №622",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4484006181679",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №623",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4484006181680",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №624",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4484006181681",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №625",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4484006181682",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №626",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4484006181683",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №627",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4484006181684",
     "tikTvd": "2482000944897",
-    "tikName": "Долгоруковская"
+    "tikName": "Долгоруковская",
+    "uikName": "УИК №628",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4484007257752",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №701",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4484007257754",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №702",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4484007257755",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №703",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4484007257756",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №704",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4484007257757",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №705",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4484007257758",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №706",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4484007257759",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №707",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4484007257760",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №708",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4484007257761",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №709",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4484007257762",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №710",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4484007257763",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №711",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4484007257764",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №712",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4484007257765",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №713",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4484007257766",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №714",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4484007257767",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №715",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4484007257768",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №716",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4484007257769",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №717",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4484007257770",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №718",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4484007257771",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №719",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4484007257772",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №720",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4484007257773",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №721",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4484007257774",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №722",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4484007257775",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №723",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4484007257776",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №724",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4484007257777",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №725",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4484007257778",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №726",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4484007257779",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №727",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4484007257780",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №728",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4484007257781",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №729",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4484007257782",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №730",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4484007257783",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №731",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4484007257784",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №732",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4484007257785",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №733",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4484007257786",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №734",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4484007257787",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №735",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4484007257788",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №736",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4484007257789",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №737",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4484007257790",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №738",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4484007257791",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №739",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4484007257792",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №740",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4484007257793",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №741",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4484007257794",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №742",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4484007257795",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №743",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4484007257796",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №744",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4484007257797",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №745",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4484007257798",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №746",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4484007257799",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №747",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4484007257800",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №748",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4484007257801",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №749",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4484007257802",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №750",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4484007257803",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №751",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4484007257804",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №752",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4484007257805",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №753",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4484007257806",
     "tikTvd": "2482000944884",
-    "tikName": "Елецкая городская"
+    "tikName": "Елецкая городская",
+    "uikName": "УИК №754",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4484008266210",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №801",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4484008266211",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №802",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4484008266212",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №803",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4484008266213",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №804",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4484008266214",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №805",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4484008266215",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №806",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4484008266216",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №807",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4484008266217",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №808",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4484008266218",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №809",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4484008266219",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №810",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4484008266220",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №811",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4484008266221",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №812",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4484008266222",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №813",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4484008266223",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №814",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4484008266224",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №815",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4484008266225",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №816",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4484008266226",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №817",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4484008266227",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №818",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4484008266228",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №819",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4484008266229",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №820",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4484008266230",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №821",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4484008266231",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №822",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4484008266232",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №823",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4484008266233",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №824",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4484008266234",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №825",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4484008266235",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №826",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4484008266236",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №827",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4484008266237",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №828",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4484008266238",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №829",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4484008266239",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №830",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4484008266240",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №831",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4484008266241",
     "tikTvd": "2482000944885",
-    "tikName": "Елецкая"
+    "tikName": "Елецкая",
+    "uikName": "УИК №832",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4484009241099",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №901",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4484009241100",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №902",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4484009241101",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №903",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4484009241102",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №904",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4484009241103",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №905",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4484009241104",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №906",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4484009241105",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №907",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4484009241106",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №908",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4484009241107",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №909",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4484009241108",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №910",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4484009241109",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №911",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4484009241110",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №912",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4484009241111",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №913",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4484009241112",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №914",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4484009241113",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №915",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4484009241114",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №916",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4484009241115",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №917",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4484009241116",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №918",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4484009241117",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №919",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4484009241118",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №920",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4484009241119",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №921",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4484009241120",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №922",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4484009241121",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №923",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4484009241122",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №924",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4484009241123",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №925",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4484009241124",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №926",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4484009241125",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №927",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4484009241126",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №928",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4484009241127",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №929",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4484009241128",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №930",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4484009241129",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №931",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4484009241130",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №932",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4484009241131",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №933",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4484009241132",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №934",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4484009241133",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №935",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4484009241134",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №936",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4484009241135",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №937",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4484009241136",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №938",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4484009241137",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №939",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4484009241138",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №940",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4484009241139",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №941",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4484009241140",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №942",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4484009241141",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №943",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4484009241142",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №944",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4484009241143",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №945",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4484009241144",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №946",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4484009241145",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №947",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4484009241146",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №948",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4484009241147",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №949",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4484009241148",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №950",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4484009241149",
     "tikTvd": "2482000944896",
-    "tikName": "Задонская"
+    "tikName": "Задонская",
+    "uikName": "УИК №951",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4484010207787",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1001",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4484010207788",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1002",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4484010207789",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1003",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4484010207790",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1004",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4484010207791",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1005",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4484010207792",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1006",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4484010207793",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1007",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4484010207794",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1008",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4484010207795",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1009",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4484010207796",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1010",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4484010207797",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1011",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4484010207798",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1012",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4484010207799",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1013",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4484010207800",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1014",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4484010207801",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1015",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4484010207802",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1016",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4484010207803",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1017",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4484010207804",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1018",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4484010207805",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1019",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4484010207806",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1020",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4484010207807",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1021",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4484010207808",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1022",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4484010207809",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1023",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4484010207810",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1024",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4484010207811",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1025",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4484010207812",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1026",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4484010207813",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1027",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4484010207814",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1028",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4484010207815",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1029",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4484010207816",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1030",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4484010207817",
     "tikTvd": "2482000944895",
-    "tikName": "Измалковская"
+    "tikName": "Измалковская",
+    "uikName": "УИК №1031",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4484011194976",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1101",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4484011194977",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1102",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4484011194978",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1103",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4484011194979",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1104",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4484011194980",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1105",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4484011194981",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1106",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4484011194982",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1107",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4484011194983",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1108",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4484011194984",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1109",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4484011194985",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1110",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4484011194986",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1111",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4484011194987",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1112",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4484011194988",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1113",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4484011194989",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1114",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4484011194990",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1115",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4484011194991",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1116",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4484011194992",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1117",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4484011194993",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1118",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4484011194994",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1119",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4484011194995",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1120",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4484011194996",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1121",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4484011194997",
     "tikTvd": "2482000944883",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "uikName": "УИК №1122",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4484012290384",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1201",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4484012290385",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1202",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4484012290386",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1203",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4484012290387",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1204",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4484012290388",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1205",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4484012290389",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1206",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4484012290390",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1207",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4484012290391",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1208",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4484012290392",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1209",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4484012290393",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1210",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4484012290394",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1211",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4484012290395",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1212",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4484012290396",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1213",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4484012290397",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1214",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4484012290398",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1215",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4484012290399",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1216",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4484012290400",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1217",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4484012290401",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1218",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4484012290402",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1219",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4484012290403",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1220",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4484012290404",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1221",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4484012290405",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1222",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4484012290406",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1223",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4484012290407",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1224",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4484012290408",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1225",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4484012290409",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1226",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4484012290410",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1227",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4484012290411",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1228",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4484012290412",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1229",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4484012290413",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1230",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4484012290414",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1231",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4484012290415",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1232",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4484012290416",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1233",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4484012290417",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1234",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4484012290418",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1235",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4484012290419",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1236",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4484012290420",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1237",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4484012290421",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1238",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4484012290422",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1239",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4484012290423",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1240",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4484012290424",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1241",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4484012290425",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1242",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4484012290426",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1243",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4484012290427",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1244",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4484012290428",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1245",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4484012290429",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1246",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4484012290430",
     "tikTvd": "2482000944882",
-    "tikName": "Лебедянская"
+    "tikName": "Лебедянская",
+    "uikName": "УИК №1247",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4484013194882",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1301",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4484013194883",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1302",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4484013194884",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1303",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4484013194885",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1304",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4484013194886",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1305",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4484013194887",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1306",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4484013194888",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1307",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4484013194889",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1308",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4484013194890",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1309",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4484013194891",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1310",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4484013194892",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1311",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4484013194893",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1312",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4484013194894",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1313",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4484013194895",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1314",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4484013194896",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1315",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4484013194897",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1316",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4484013194898",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1317",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4484013194899",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1318",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4484013194900",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1319",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4484013194901",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1320",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4484013194902",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1321",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4484013194903",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1322",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4484013194904",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1323",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4484013194905",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1324",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4484013194906",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1325",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4484013194907",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1326",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4484013194908",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1327",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4484013194909",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1328",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4484013194910",
     "tikTvd": "2482000944881",
-    "tikName": "Лев-Толстовская"
+    "tikName": "Лев-Толстовская",
+    "uikName": "УИК №1329",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4484015380004",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1501",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4484015380005",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1502",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4484015380006",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1503",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4484015379982",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1504",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4484015380007",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1505",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4484015379983",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1506",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4484015379984",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1507",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4484015379985",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1508",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4484015380008",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1509",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4484015380009",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1510",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4484015379986",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1511",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4484015379987",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1512",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4484015379988",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1513",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4484015379989",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1514",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4484015380010",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1515",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4484015380011",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1516",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4484015379990",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1517",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4484015379991",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1518",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4484015379992",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1519",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4484015379993",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1520",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4484015380012",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1521",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4484015380013",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1522",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4484015380014",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1523",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4484015380015",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1524",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4484015379994",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1525",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4484015379995",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1526",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4484015379996",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1527",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4484015379997",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1528",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4484015380016",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1529",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4484015380017",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1530",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4484015379998",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1531",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4484015379999",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1532",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4484015380018",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1533",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4484015380019",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1534",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4484015380020",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1535",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4484015380021",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1536",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4484015380022",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1537",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4484015380000",
     "tikTvd": "2482000944878",
-    "tikName": "Липецкая 114 ок"
+    "tikName": "Липецкая 114 ок",
+    "uikName": "УИК №1538",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4484015380023",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1539",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4484015380024",
     "tikTvd": "2482000944892",
-    "tikName": "Липецкая 115 ок"
+    "tikName": "Липецкая 115 ок",
+    "uikName": "УИК №1540",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4484016230047",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1601",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4484016230048",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1602",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4484016230049",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1603",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4484016230050",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1604",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4484016230051",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1605",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4484016230052",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1606",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4484016230053",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1607",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4484016230054",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1608",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4484016230055",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1609",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4484016230056",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1610",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4484016230057",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1611",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4484016230058",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1612",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4484016230059",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1613",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4484016230060",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1614",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4484016230061",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1615",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4484016230062",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1616",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4484016230063",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1617",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4484016230064",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1618",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4484016230065",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1619",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4484016230066",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1620",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4484016230067",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1621",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4484016230068",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1622",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4484016230069",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1623",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4484016230070",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1624",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4484016230071",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1625",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4484016230072",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1626",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4484016230073",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1627",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4484016230074",
     "tikTvd": "2482000944877",
-    "tikName": "Становлянская"
+    "tikName": "Становлянская",
+    "uikName": "УИК №1628",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4484017207410",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1701",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4484017207411",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1702",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4484017207412",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1703",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4484017207413",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1704",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4484017207414",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1705",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4484017207415",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1706",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4484017207416",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1707",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4484017207417",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1708",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4484017207418",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1709",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4484017207419",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1710",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4484017207420",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1711",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4484017207421",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1712",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4484017207422",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1713",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4484017207423",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1714",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4484017207424",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1715",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4484017207425",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1716",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4484017207426",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1717",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4484017207427",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1718",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4484017207428",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1719",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4484017207429",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1720",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4484017207430",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1721",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4484017207431",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1722",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4484017207432",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1723",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4484017207433",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1724",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4484017207434",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1725",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4484017207435",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1726",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4484017207436",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1727",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4484017207437",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1728",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4484017207438",
     "tikTvd": "2482000944891",
-    "tikName": "Тербунская"
+    "tikName": "Тербунская",
+    "uikName": "УИК №1729",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4484018257456",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1801",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4484018257457",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1802",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4484018257458",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1803",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4484018257459",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1804",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4484018257460",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1805",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4484018257461",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1806",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4484018257462",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1807",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4484018257463",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1808",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4484018257464",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1809",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4484018257465",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1810",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4484018257466",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1811",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4484018257467",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1812",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4484018257468",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1813",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4484018257469",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1814",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4484018257470",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1815",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4484018257471",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1816",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4484018257472",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1817",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4484018257473",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1818",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4484018257474",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1819",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4484018257475",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1820",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4484018257476",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1821",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4484018257477",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1822",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4484018257478",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1823",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4484018257479",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1824",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4484018257480",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1825",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4484018257481",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1826",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4484018257482",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1827",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4484018257483",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1828",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4484018257484",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1829",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4484018257485",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1830",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4484018257486",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1831",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4484018257487",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1832",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4484018257488",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1833",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4484018257489",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1834",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4484018257490",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1835",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4484018257491",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1836",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4484018257492",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1837",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4484018257493",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1838",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4484018257494",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1839",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4484018257495",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1840",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4484018257496",
     "tikTvd": "2482000944890",
-    "tikName": "Усманская"
+    "tikName": "Усманская",
+    "uikName": "УИК №1841",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4484019183529",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1901",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4484019183530",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1902",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4484019183531",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1903",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4484019183532",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1904",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4484019183533",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1905",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4484019183534",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1906",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4484019183535",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1907",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4484019183536",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1908",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4484019183537",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1909",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4484019183538",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1910",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4484019183539",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1911",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4484019183540",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1912",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4484019183541",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1913",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4484019183542",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1914",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4484019183543",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1915",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4484019183544",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1916",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4484019183545",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1917",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4484019183546",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1918",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4484019183547",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1919",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4484019183548",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1920",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4484019183549",
     "tikTvd": "2482000944889",
-    "tikName": "Хлевенская"
+    "tikName": "Хлевенская",
+    "uikName": "УИК №1921",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4484020397244",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2001",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4484020397245",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2002",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4484020397246",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2003",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4484020397247",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2004",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4484020397248",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2005",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4484020397249",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2006",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4484020397250",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2007",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4484020397251",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2008",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4484020397252",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2009",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4484020397253",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2010",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4484020397254",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2011",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4484020397255",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2012",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4484020397256",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2013",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4484020397257",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2014",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4484020397258",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2015",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4484020397259",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2016",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4484020397260",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2017",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4484020397261",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2018",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4484020397262",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2019",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4484020397263",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2020",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4484020397264",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2021",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4484020397265",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2022",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4484020397266",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2023",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4484020397267",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2024",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4484020397268",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2025",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4484020397269",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2026",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4484020397270",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2027",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4484020397271",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2028",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4484020397272",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2029",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4484020397273",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2030",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4484020397274",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2031",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4484020397275",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2032",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4484020397276",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2033",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4484020397277",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2034",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4484020397278",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2035",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4484020397279",
     "tikTvd": "2482000944876",
-    "tikName": "Чаплыгинская"
+    "tikName": "Чаплыгинская",
+    "uikName": "УИК №2036",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4484021169102",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2101",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4484021169103",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2102",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4484021169104",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2103",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4484021169105",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2104",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4484021169106",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2105",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4484021169107",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2106",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4484021169108",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2107",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4484021169109",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2108",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4484021169110",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2109",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4484021169111",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2110",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4484021169112",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2111",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4484021169113",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2112",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4484021169114",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2113",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4484021169115",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2114",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4484021169116",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2115",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4484021169117",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2116",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4484021169118",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2117",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4484021169119",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2118",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4484021169120",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2119",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4484021169121",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2120",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4484021169122",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2121",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4484021169123",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2122",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4484021169124",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2123",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4484021169341",
     "tikTvd": "2482000944894",
-    "tikName": "Липецк, Левобережная"
+    "tikName": "Липецк, Левобережная",
+    "uikName": "УИК №2124",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4484022362251",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2201",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4484022362252",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2202",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4484022362253",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2203",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4484022362254",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2204",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4484022362255",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2205",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4484022362256",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2206",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4484022362257",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2207",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4484022362258",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2208",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4484022362259",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2209",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4484022362260",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2210",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4484022362261",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2211",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4484022362262",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2212",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4484022362263",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2213",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4484022362264",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2214",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4484022362265",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2215",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4484022362266",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2216",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4484022362267",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2217",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4484022362268",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2218",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4484022362269",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2219",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4484022362270",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2220",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4484022362271",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2221",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4484022362272",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2222",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4484022362273",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2223",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4484022362274",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2224",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4484022362275",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2225",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4484022362276",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2226",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4484022362277",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2227",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4484022362278",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2228",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4484022362279",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2229",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4484022362280",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2230",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4484022362281",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2231",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4484022362282",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2232",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4484022362283",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2233",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4484022362284",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2234",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4484022362285",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2235",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4484022362286",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2237",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4484022362287",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2238",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4484022362288",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2239",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4484022362289",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2240",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4484022362290",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2241",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4484022362291",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2242",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4484022362292",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2243",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4484022362293",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2244",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4484022362294",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2245",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4484022362295",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2246",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2247,
     "uikTvd": "4484022362296",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2247",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4484022362297",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2248",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2249,
     "uikTvd": "4484022362298",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2249",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4484022362299",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2250",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2251,
     "uikTvd": "4484022362300",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2251",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4484022362301",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2252",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2253,
     "uikTvd": "4484022362302",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2253",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4484022362303",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №2254",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2301,
     "uikTvd": "9489023238573",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2301",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2302,
     "uikTvd": "9489023238574",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2302",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2303,
     "uikTvd": "9489023238575",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2303",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2304,
     "uikTvd": "9489023238576",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2304",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2305,
     "uikTvd": "9489023238577",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2305",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2306,
     "uikTvd": "9489023238578",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2306",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2307,
     "uikTvd": "9489023238579",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2307",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2308,
     "uikTvd": "9489023238580",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2308",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2309,
     "uikTvd": "9489023238581",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2309",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2310,
     "uikTvd": "9489023238582",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2310",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2311,
     "uikTvd": "9489023238583",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2311",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2312,
     "uikTvd": "9489023238584",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2312",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2313,
     "uikTvd": "9489023238585",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2313",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2314,
     "uikTvd": "9489023238586",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2314",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2315,
     "uikTvd": "9489023238587",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2315",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2316,
     "uikTvd": "9489023238588",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2316",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2317,
     "uikTvd": "9489023238589",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2317",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2318,
     "uikTvd": "9489023238590",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2318",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2319,
     "uikTvd": "9489023238591",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2319",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2320,
     "uikTvd": "9489023238592",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2320",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2321,
     "uikTvd": "9489023238593",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2321",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2322,
     "uikTvd": "9489023238594",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2322",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2323,
     "uikTvd": "9489023238595",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2323",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2324,
     "uikTvd": "9489023238596",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2324",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2325,
     "uikTvd": "9489023238597",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2325",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2326,
     "uikTvd": "9489023238598",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2326",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2327,
     "uikTvd": "9489023238599",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2327",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2328,
     "uikTvd": "9489023238600",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2328",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2329,
     "uikTvd": "9489023238601",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2329",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2330,
     "uikTvd": "9489023238602",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2330",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2331,
     "uikTvd": "9489023238603",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2331",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2332,
     "uikTvd": "9489023238604",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2332",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2333,
     "uikTvd": "9489023238605",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2333",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2334,
     "uikTvd": "9489023238606",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2334",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2335,
     "uikTvd": "9489023238607",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2335",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2336,
     "uikTvd": "9489023238608",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2336",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2337,
     "uikTvd": "9489023238609",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2337",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2338,
     "uikTvd": "9489023238610",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2338",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2339,
     "uikTvd": "9489023238611",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2339",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2340,
     "uikTvd": "9489023238612",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2340",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2341,
     "uikTvd": "9489023238613",
     "tikTvd": "2482000944880",
-    "tikName": "Липецк, Правобережная"
+    "tikName": "Липецк, Правобережная",
+    "uikName": "УИК №2341",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4484024315748",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2401",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4484024315749",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2402",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4484024315750",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2403",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4484024315751",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2404",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4484024315752",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2405",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4484024315753",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2406",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4484024315754",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2407",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4484024315755",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2408",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4484024315756",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2409",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4484024315757",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2410",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4484024315758",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2411",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4484024315759",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2412",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4484024315760",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2413",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4484024315761",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2414",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4484024315762",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2415",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4484024315763",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2416",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4484024315764",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2417",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4484024315765",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2418",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4484024315766",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2419",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4484024315767",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2420",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4484024315768",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2421",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4484024315769",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2422",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4484024315770",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2423",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4484024315771",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2424",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4484024315772",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2425",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4484024315773",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2426",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4484024315774",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2427",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4484024315775",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2428",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4484024315776",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2429",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4484024315777",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2430",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4484024315778",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2431",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4484024315779",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2432",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4484024315780",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2433",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4484024315781",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2434",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4484024315782",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2435",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4484024315783",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2436",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4484024315784",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2437",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4484024315785",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2438",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4484024315786",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2439",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4484024315787",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2440",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2441,
     "uikTvd": "4484024315788",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2441",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2442,
     "uikTvd": "4484024315789",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2442",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2443,
     "uikTvd": "4484024315790",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2443",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2444,
     "uikTvd": "4484024315791",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2444",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2445,
     "uikTvd": "4484024315792",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2445",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2446,
     "uikTvd": "4484024315793",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2446",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2447,
     "uikTvd": "4484024315794",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2447",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2448,
     "uikTvd": "4484024315795",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2448",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2449,
     "uikTvd": "4484024315796",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2449",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2450,
     "uikTvd": "4484024315797",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2450",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2451,
     "uikTvd": "4484024315798",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2451",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2452,
     "uikTvd": "4484024315799",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2452",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2453,
     "uikTvd": "4484024315800",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2453",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2454,
     "uikTvd": "4484024315801",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2454",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2455,
     "uikTvd": "4484024315802",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2455",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2456,
     "uikTvd": "4484024315803",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2456",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2457,
     "uikTvd": "4484024315804",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2457",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2458,
     "uikTvd": "4484024315805",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2458",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2459,
     "uikTvd": "4484024315806",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2459",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2460,
     "uikTvd": "4484024315807",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2460",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2461,
     "uikTvd": "4484024315808",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2461",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2462,
     "uikTvd": "4484024315809",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2462",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2463,
     "uikTvd": "4484024315810",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2463",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2464,
     "uikTvd": "4484024315811",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2464",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2465,
     "uikTvd": "4484024315812",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2465",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2466,
     "uikTvd": "4484024315813",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2466",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2467,
     "uikTvd": "4484024315814",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2467",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2468,
     "uikTvd": "4484024315815",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2468",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2469,
     "uikTvd": "4484024315816",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2469",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2470,
     "uikTvd": "4484024315817",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2470",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2471,
     "uikTvd": "4484024315818",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2471",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2472,
     "uikTvd": "4484024315819",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2472",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2473,
     "uikTvd": "4484024315820",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2473",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2474,
     "uikTvd": "4484024315821",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2474",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2475,
     "uikTvd": "4484024315822",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2475",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2476,
     "uikTvd": "4484024315823",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №2476",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4484025195872",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2501",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4484025195873",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2502",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4484025195874",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2503",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4484025195875",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2504",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4484025195876",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2505",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4484025195877",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2506",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4484025195878",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2507",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4484025195879",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2508",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4484025195880",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2509",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4484025195881",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2510",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4484025195882",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2511",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4484025195883",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2512",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4484025195884",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2513",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4484025195885",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2514",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4484025195886",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2515",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4484025195887",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2516",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4484025195888",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2517",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4484025195889",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2518",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4484025195890",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2519",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4484025195891",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2520",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4484025195892",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2521",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4484025195893",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2522",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4484025195894",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2523",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4484025195895",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2524",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4484025195896",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2525",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4484025195897",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2526",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4484025195898",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2527",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4484025195899",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2528",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4484025195900",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2529",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4484025195901",
     "tikTvd": "2482000944888",
-    "tikName": "Липецк, Октябрьская №2"
+    "tikName": "Липецк, Октябрьская №2",
+    "uikName": "УИК №2530",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 8125,
     "uikTvd": "4484022383073",
     "tikTvd": "2482000944893",
-    "tikName": "Липецк, Октябрьская №1"
+    "tikName": "Липецк, Октябрьская №1",
+    "uikName": "УИК №8125",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883569",
+    "oikName": "Липецкая область – Левобережный",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100225883569"
+    }
   },
   {
     "uikNumber": 8226,
     "uikTvd": "4484024319589",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №8226",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   },
   {
     "uikNumber": 8227,
     "uikTvd": "4484024319590",
     "tikTvd": "2482000944879",
-    "tikName": "Липецк, Советская"
+    "tikName": "Липецк, Советская",
+    "uikName": "УИК №8227",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
+    "oikTvd": "100100225883568",
+    "oikName": "Липецкая область – Липецкий",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100225883568"
+    }
   }
 ] satisfies readonly UikTikRelation[];

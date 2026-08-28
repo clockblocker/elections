@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 25,
-      "Иконников Дмитрий Геннадьевич": 93,
-      "Куликов Владимир Владимирович": 46,
-      "Поглазов Александр Павлович": 119,
-      "Розуван Алексей Михайлович": 202,
-      "Рязанов Александр Александрович": 29,
-      "Сергеенков Владимир Нилович": 115,
-      "Скачков Олег Владимирович": 82,
-      "Туруло Валерий Николаевич": 49,
-      "Шабалин Борис Андреевич": 21,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000220818": 25,
+      "gas:candidate-vibid:1001000112216": 93,
+      "gas:candidate-vibid:343300170559": 46,
+      "gas:candidate-vibid:1001000113937": 119,
+      "gas:candidate-vibid:1001000225944": 202,
+      "gas:candidate-vibid:1001000136064": 29,
+      "gas:candidate-vibid:343300170542": 115,
+      "gas:candidate-vibid:343300170358": 82,
+      "gas:candidate-vibid:1001000126642": 49,
+      "gas:candidate-vibid:1001000195083": 21,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 19,
-      "Иконников Дмитрий Геннадьевич": 58,
-      "Куликов Владимир Владимирович": 26,
-      "Поглазов Александр Павлович": 74,
-      "Розуван Алексей Михайлович": 141,
-      "Рязанов Александр Александрович": 16,
-      "Сергеенков Владимир Нилович": 42,
-      "Скачков Олег Владимирович": 58,
-      "Туруло Валерий Николаевич": 38,
-      "Шабалин Борис Андреевич": 14,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000220818": 19,
+      "gas:candidate-vibid:1001000112216": 58,
+      "gas:candidate-vibid:343300170559": 26,
+      "gas:candidate-vibid:1001000113937": 74,
+      "gas:candidate-vibid:1001000225944": 141,
+      "gas:candidate-vibid:1001000136064": 16,
+      "gas:candidate-vibid:343300170542": 42,
+      "gas:candidate-vibid:343300170358": 58,
+      "gas:candidate-vibid:1001000126642": 38,
+      "gas:candidate-vibid:1001000195083": 14,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 47,
-      "Иконников Дмитрий Геннадьевич": 158,
-      "Куликов Владимир Владимирович": 68,
-      "Поглазов Александр Павлович": 162,
-      "Розуван Алексей Михайлович": 371,
-      "Рязанов Александр Александрович": 27,
-      "Сергеенков Владимир Нилович": 104,
-      "Скачков Олег Владимирович": 99,
-      "Туруло Валерий Николаевич": 57,
-      "Шабалин Борис Андреевич": 21,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000220818": 47,
+      "gas:candidate-vibid:1001000112216": 158,
+      "gas:candidate-vibid:343300170559": 68,
+      "gas:candidate-vibid:1001000113937": 162,
+      "gas:candidate-vibid:1001000225944": 371,
+      "gas:candidate-vibid:1001000136064": 27,
+      "gas:candidate-vibid:343300170542": 104,
+      "gas:candidate-vibid:343300170358": 99,
+      "gas:candidate-vibid:1001000126642": 57,
+      "gas:candidate-vibid:1001000195083": 21,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 45,
-      "Иконников Дмитрий Геннадьевич": 111,
-      "Куликов Владимир Владимирович": 68,
-      "Поглазов Александр Павлович": 144,
-      "Розуван Алексей Михайлович": 278,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 133,
-      "Скачков Олег Владимирович": 101,
-      "Туруло Валерий Николаевич": 79,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000220818": 45,
+      "gas:candidate-vibid:1001000112216": 111,
+      "gas:candidate-vibid:343300170559": 68,
+      "gas:candidate-vibid:1001000113937": 144,
+      "gas:candidate-vibid:1001000225944": 278,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 133,
+      "gas:candidate-vibid:343300170358": 101,
+      "gas:candidate-vibid:1001000126642": 79,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 47,
-      "Иконников Дмитрий Геннадьевич": 102,
-      "Куликов Владимир Владимирович": 83,
-      "Поглазов Александр Павлович": 135,
-      "Розуван Алексей Михайлович": 335,
-      "Рязанов Александр Александрович": 48,
-      "Сергеенков Владимир Нилович": 126,
-      "Скачков Олег Владимирович": 154,
-      "Туруло Валерий Николаевич": 95,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000220818": 47,
+      "gas:candidate-vibid:1001000112216": 102,
+      "gas:candidate-vibid:343300170559": 83,
+      "gas:candidate-vibid:1001000113937": 135,
+      "gas:candidate-vibid:1001000225944": 335,
+      "gas:candidate-vibid:1001000136064": 48,
+      "gas:candidate-vibid:343300170542": 126,
+      "gas:candidate-vibid:343300170358": 154,
+      "gas:candidate-vibid:1001000126642": 95,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 43,
-      "Иконников Дмитрий Геннадьевич": 117,
-      "Куликов Владимир Владимирович": 131,
-      "Поглазов Александр Павлович": 131,
-      "Розуван Алексей Михайлович": 311,
-      "Рязанов Александр Александрович": 30,
-      "Сергеенков Владимир Нилович": 102,
-      "Скачков Олег Владимирович": 113,
-      "Туруло Валерий Николаевич": 69,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000220818": 43,
+      "gas:candidate-vibid:1001000112216": 117,
+      "gas:candidate-vibid:343300170559": 131,
+      "gas:candidate-vibid:1001000113937": 131,
+      "gas:candidate-vibid:1001000225944": 311,
+      "gas:candidate-vibid:1001000136064": 30,
+      "gas:candidate-vibid:343300170542": 102,
+      "gas:candidate-vibid:343300170358": 113,
+      "gas:candidate-vibid:1001000126642": 69,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 75,
-      "Куликов Владимир Владимирович": 36,
-      "Поглазов Александр Павлович": 103,
-      "Розуван Алексей Михайлович": 194,
-      "Рязанов Александр Александрович": 25,
-      "Сергеенков Владимир Нилович": 50,
-      "Скачков Олег Владимирович": 57,
-      "Туруло Валерий Николаевич": 27,
-      "Шабалин Борис Андреевич": 15,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 75,
+      "gas:candidate-vibid:343300170559": 36,
+      "gas:candidate-vibid:1001000113937": 103,
+      "gas:candidate-vibid:1001000225944": 194,
+      "gas:candidate-vibid:1001000136064": 25,
+      "gas:candidate-vibid:343300170542": 50,
+      "gas:candidate-vibid:343300170358": 57,
+      "gas:candidate-vibid:1001000126642": 27,
+      "gas:candidate-vibid:1001000195083": 15,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 56,
-      "Иконников Дмитрий Геннадьевич": 116,
-      "Куликов Владимир Владимирович": 80,
-      "Поглазов Александр Павлович": 141,
-      "Розуван Алексей Михайлович": 352,
-      "Рязанов Александр Александрович": 70,
-      "Сергеенков Владимир Нилович": 155,
-      "Скачков Олег Владимирович": 133,
-      "Туруло Валерий Николаевич": 74,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000220818": 56,
+      "gas:candidate-vibid:1001000112216": 116,
+      "gas:candidate-vibid:343300170559": 80,
+      "gas:candidate-vibid:1001000113937": 141,
+      "gas:candidate-vibid:1001000225944": 352,
+      "gas:candidate-vibid:1001000136064": 70,
+      "gas:candidate-vibid:343300170542": 155,
+      "gas:candidate-vibid:343300170358": 133,
+      "gas:candidate-vibid:1001000126642": 74,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 27,
-      "Иконников Дмитрий Геннадьевич": 69,
-      "Куликов Владимир Владимирович": 52,
-      "Поглазов Александр Павлович": 68,
-      "Розуван Алексей Михайлович": 182,
-      "Рязанов Александр Александрович": 29,
-      "Сергеенков Владимир Нилович": 135,
-      "Скачков Олег Владимирович": 86,
-      "Туруло Валерий Николаевич": 128,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000220818": 27,
+      "gas:candidate-vibid:1001000112216": 69,
+      "gas:candidate-vibid:343300170559": 52,
+      "gas:candidate-vibid:1001000113937": 68,
+      "gas:candidate-vibid:1001000225944": 182,
+      "gas:candidate-vibid:1001000136064": 29,
+      "gas:candidate-vibid:343300170542": 135,
+      "gas:candidate-vibid:343300170358": 86,
+      "gas:candidate-vibid:1001000126642": 128,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 40,
-      "Иконников Дмитрий Геннадьевич": 49,
-      "Куликов Владимир Владимирович": 24,
-      "Поглазов Александр Павлович": 107,
-      "Розуван Алексей Михайлович": 172,
-      "Рязанов Александр Александрович": 21,
-      "Сергеенков Владимир Нилович": 75,
-      "Скачков Олег Владимирович": 128,
-      "Туруло Валерий Николаевич": 48,
-      "Шабалин Борис Андреевич": 27,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000220818": 40,
+      "gas:candidate-vibid:1001000112216": 49,
+      "gas:candidate-vibid:343300170559": 24,
+      "gas:candidate-vibid:1001000113937": 107,
+      "gas:candidate-vibid:1001000225944": 172,
+      "gas:candidate-vibid:1001000136064": 21,
+      "gas:candidate-vibid:343300170542": 75,
+      "gas:candidate-vibid:343300170358": 128,
+      "gas:candidate-vibid:1001000126642": 48,
+      "gas:candidate-vibid:1001000195083": 27,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 33,
-      "Иконников Дмитрий Геннадьевич": 38,
-      "Куликов Владимир Владимирович": 39,
-      "Поглазов Александр Павлович": 103,
-      "Розуван Алексей Михайлович": 239,
-      "Рязанов Александр Александрович": 42,
-      "Сергеенков Владимир Нилович": 60,
-      "Скачков Олег Владимирович": 274,
-      "Туруло Валерий Николаевич": 23,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000220818": 33,
+      "gas:candidate-vibid:1001000112216": 38,
+      "gas:candidate-vibid:343300170559": 39,
+      "gas:candidate-vibid:1001000113937": 103,
+      "gas:candidate-vibid:1001000225944": 239,
+      "gas:candidate-vibid:1001000136064": 42,
+      "gas:candidate-vibid:343300170542": 60,
+      "gas:candidate-vibid:343300170358": 274,
+      "gas:candidate-vibid:1001000126642": 23,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 30,
-      "Иконников Дмитрий Геннадьевич": 48,
-      "Куликов Владимир Владимирович": 36,
-      "Поглазов Александр Павлович": 88,
-      "Розуван Алексей Михайлович": 176,
-      "Рязанов Александр Александрович": 29,
-      "Сергеенков Владимир Нилович": 68,
-      "Скачков Олег Владимирович": 57,
-      "Туруло Валерий Николаевич": 22,
-      "Шабалин Борис Андреевич": 26,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000220818": 30,
+      "gas:candidate-vibid:1001000112216": 48,
+      "gas:candidate-vibid:343300170559": 36,
+      "gas:candidate-vibid:1001000113937": 88,
+      "gas:candidate-vibid:1001000225944": 176,
+      "gas:candidate-vibid:1001000136064": 29,
+      "gas:candidate-vibid:343300170542": 68,
+      "gas:candidate-vibid:343300170358": 57,
+      "gas:candidate-vibid:1001000126642": 22,
+      "gas:candidate-vibid:1001000195083": 26,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 42,
-      "Иконников Дмитрий Геннадьевич": 112,
-      "Куликов Владимир Владимирович": 33,
-      "Поглазов Александр Павлович": 57,
-      "Розуван Алексей Михайлович": 159,
-      "Рязанов Александр Александрович": 38,
-      "Сергеенков Владимир Нилович": 92,
-      "Скачков Олег Владимирович": 88,
-      "Туруло Валерий Николаевич": 45,
-      "Шабалин Борис Андреевич": 42,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000220818": 42,
+      "gas:candidate-vibid:1001000112216": 112,
+      "gas:candidate-vibid:343300170559": 33,
+      "gas:candidate-vibid:1001000113937": 57,
+      "gas:candidate-vibid:1001000225944": 159,
+      "gas:candidate-vibid:1001000136064": 38,
+      "gas:candidate-vibid:343300170542": 92,
+      "gas:candidate-vibid:343300170358": 88,
+      "gas:candidate-vibid:1001000126642": 45,
+      "gas:candidate-vibid:1001000195083": 42,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 25,
-      "Иконников Дмитрий Геннадьевич": 64,
-      "Куликов Владимир Владимирович": 16,
-      "Поглазов Александр Павлович": 99,
-      "Розуван Алексей Михайлович": 159,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 62,
-      "Скачков Олег Владимирович": 66,
-      "Туруло Валерий Николаевич": 28,
-      "Шабалин Борис Андреевич": 32,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000220818": 25,
+      "gas:candidate-vibid:1001000112216": 64,
+      "gas:candidate-vibid:343300170559": 16,
+      "gas:candidate-vibid:1001000113937": 99,
+      "gas:candidate-vibid:1001000225944": 159,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 62,
+      "gas:candidate-vibid:343300170358": 66,
+      "gas:candidate-vibid:1001000126642": 28,
+      "gas:candidate-vibid:1001000195083": 32,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 37,
-      "Иконников Дмитрий Геннадьевич": 85,
-      "Куликов Владимир Владимирович": 19,
-      "Поглазов Александр Павлович": 82,
-      "Розуван Алексей Михайлович": 198,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 135,
-      "Скачков Олег Владимирович": 67,
-      "Туруло Валерий Николаевич": 64,
-      "Шабалин Борис Андреевич": 38,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000220818": 37,
+      "gas:candidate-vibid:1001000112216": 85,
+      "gas:candidate-vibid:343300170559": 19,
+      "gas:candidate-vibid:1001000113937": 82,
+      "gas:candidate-vibid:1001000225944": 198,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 135,
+      "gas:candidate-vibid:343300170358": 67,
+      "gas:candidate-vibid:1001000126642": 64,
+      "gas:candidate-vibid:1001000195083": 38,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 101,
-      "Куликов Владимир Владимирович": 54,
-      "Поглазов Александр Павлович": 110,
-      "Розуван Алексей Михайлович": 276,
-      "Рязанов Александр Александрович": 44,
-      "Сергеенков Владимир Нилович": 143,
-      "Скачков Олег Владимирович": 160,
-      "Туруло Валерий Николаевич": 51,
-      "Шабалин Борис Андреевич": 46,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 101,
+      "gas:candidate-vibid:343300170559": 54,
+      "gas:candidate-vibid:1001000113937": 110,
+      "gas:candidate-vibid:1001000225944": 276,
+      "gas:candidate-vibid:1001000136064": 44,
+      "gas:candidate-vibid:343300170542": 143,
+      "gas:candidate-vibid:343300170358": 160,
+      "gas:candidate-vibid:1001000126642": 51,
+      "gas:candidate-vibid:1001000195083": 46,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 37,
-      "Иконников Дмитрий Геннадьевич": 184,
-      "Куликов Владимир Владимирович": 42,
-      "Поглазов Александр Павлович": 208,
-      "Розуван Алексей Михайлович": 221,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 122,
-      "Скачков Олег Владимирович": 80,
-      "Туруло Валерий Николаевич": 52,
-      "Шабалин Борис Андреевич": 45,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000220818": 37,
+      "gas:candidate-vibid:1001000112216": 184,
+      "gas:candidate-vibid:343300170559": 42,
+      "gas:candidate-vibid:1001000113937": 208,
+      "gas:candidate-vibid:1001000225944": 221,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 122,
+      "gas:candidate-vibid:343300170358": 80,
+      "gas:candidate-vibid:1001000126642": 52,
+      "gas:candidate-vibid:1001000195083": 45,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 49,
-      "Иконников Дмитрий Геннадьевич": 229,
-      "Куликов Владимир Владимирович": 48,
-      "Поглазов Александр Павлович": 284,
-      "Розуван Алексей Михайлович": 399,
-      "Рязанов Александр Александрович": 68,
-      "Сергеенков Владимир Нилович": 95,
-      "Скачков Олег Владимирович": 145,
-      "Туруло Валерий Николаевич": 49,
-      "Шабалин Борис Андреевич": 69,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000220818": 49,
+      "gas:candidate-vibid:1001000112216": 229,
+      "gas:candidate-vibid:343300170559": 48,
+      "gas:candidate-vibid:1001000113937": 284,
+      "gas:candidate-vibid:1001000225944": 399,
+      "gas:candidate-vibid:1001000136064": 68,
+      "gas:candidate-vibid:343300170542": 95,
+      "gas:candidate-vibid:343300170358": 145,
+      "gas:candidate-vibid:1001000126642": 49,
+      "gas:candidate-vibid:1001000195083": 69,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 14,
-      "Иконников Дмитрий Геннадьевич": 24,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 65,
-      "Розуван Алексей Михайлович": 88,
-      "Рязанов Александр Александрович": 14,
-      "Сергеенков Владимир Нилович": 42,
-      "Скачков Олег Владимирович": 36,
-      "Туруло Валерий Николаевич": 18,
-      "Шабалин Борис Андреевич": 11,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220818": 14,
+      "gas:candidate-vibid:1001000112216": 24,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 65,
+      "gas:candidate-vibid:1001000225944": 88,
+      "gas:candidate-vibid:1001000136064": 14,
+      "gas:candidate-vibid:343300170542": 42,
+      "gas:candidate-vibid:343300170358": 36,
+      "gas:candidate-vibid:1001000126642": 18,
+      "gas:candidate-vibid:1001000195083": 11,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 27,
-      "Иконников Дмитрий Геннадьевич": 27,
-      "Куликов Владимир Владимирович": 26,
-      "Поглазов Александр Павлович": 65,
-      "Розуван Алексей Михайлович": 113,
-      "Рязанов Александр Александрович": 26,
-      "Сергеенков Владимир Нилович": 60,
-      "Скачков Олег Владимирович": 85,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 22,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000220818": 27,
+      "gas:candidate-vibid:1001000112216": 27,
+      "gas:candidate-vibid:343300170559": 26,
+      "gas:candidate-vibid:1001000113937": 65,
+      "gas:candidate-vibid:1001000225944": 113,
+      "gas:candidate-vibid:1001000136064": 26,
+      "gas:candidate-vibid:343300170542": 60,
+      "gas:candidate-vibid:343300170358": 85,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 22,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 26,
-      "Иконников Дмитрий Геннадьевич": 30,
-      "Куликов Владимир Владимирович": 16,
-      "Поглазов Александр Павлович": 65,
-      "Розуван Алексей Михайлович": 154,
-      "Рязанов Александр Александрович": 16,
-      "Сергеенков Владимир Нилович": 71,
-      "Скачков Олег Владимирович": 53,
-      "Туруло Валерий Николаевич": 22,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000220818": 26,
+      "gas:candidate-vibid:1001000112216": 30,
+      "gas:candidate-vibid:343300170559": 16,
+      "gas:candidate-vibid:1001000113937": 65,
+      "gas:candidate-vibid:1001000225944": 154,
+      "gas:candidate-vibid:1001000136064": 16,
+      "gas:candidate-vibid:343300170542": 71,
+      "gas:candidate-vibid:343300170358": 53,
+      "gas:candidate-vibid:1001000126642": 22,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 12,
-      "Иконников Дмитрий Геннадьевич": 11,
-      "Куликов Владимир Владимирович": 13,
-      "Поглазов Александр Павлович": 37,
-      "Розуван Алексей Михайлович": 124,
-      "Рязанов Александр Александрович": 20,
-      "Сергеенков Владимир Нилович": 130,
-      "Скачков Олег Владимирович": 48,
-      "Туруло Валерий Николаевич": 21,
-      "Шабалин Борис Андреевич": 12,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220818": 12,
+      "gas:candidate-vibid:1001000112216": 11,
+      "gas:candidate-vibid:343300170559": 13,
+      "gas:candidate-vibid:1001000113937": 37,
+      "gas:candidate-vibid:1001000225944": 124,
+      "gas:candidate-vibid:1001000136064": 20,
+      "gas:candidate-vibid:343300170542": 130,
+      "gas:candidate-vibid:343300170358": 48,
+      "gas:candidate-vibid:1001000126642": 21,
+      "gas:candidate-vibid:1001000195083": 12,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 14,
-      "Иконников Дмитрий Геннадьевич": 22,
-      "Куликов Владимир Владимирович": 11,
-      "Поглазов Александр Павлович": 21,
-      "Розуван Алексей Михайлович": 75,
-      "Рязанов Александр Александрович": 41,
-      "Сергеенков Владимир Нилович": 16,
-      "Скачков Олег Владимирович": 21,
-      "Туруло Валерий Николаевич": 3,
-      "Шабалин Борис Андреевич": 9,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000220818": 14,
+      "gas:candidate-vibid:1001000112216": 22,
+      "gas:candidate-vibid:343300170559": 11,
+      "gas:candidate-vibid:1001000113937": 21,
+      "gas:candidate-vibid:1001000225944": 75,
+      "gas:candidate-vibid:1001000136064": 41,
+      "gas:candidate-vibid:343300170542": 16,
+      "gas:candidate-vibid:343300170358": 21,
+      "gas:candidate-vibid:1001000126642": 3,
+      "gas:candidate-vibid:1001000195083": 9,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070812&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 30,
-      "Иконников Дмитрий Геннадьевич": 98,
-      "Куликов Владимир Владимирович": 52,
-      "Поглазов Александр Павлович": 94,
-      "Розуван Алексей Михайлович": 174,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 94,
-      "Скачков Олег Владимирович": 83,
-      "Туруло Валерий Николаевич": 74,
-      "Шабалин Борис Андреевич": 30,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000220818": 30,
+      "gas:candidate-vibid:1001000112216": 98,
+      "gas:candidate-vibid:343300170559": 52,
+      "gas:candidate-vibid:1001000113937": 94,
+      "gas:candidate-vibid:1001000225944": 174,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 94,
+      "gas:candidate-vibid:343300170358": 83,
+      "gas:candidate-vibid:1001000126642": 74,
+      "gas:candidate-vibid:1001000195083": 30,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 46,
-      "Иконников Дмитрий Геннадьевич": 119,
-      "Куликов Владимир Владимирович": 62,
-      "Поглазов Александр Павлович": 134,
-      "Розуван Алексей Михайлович": 258,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 149,
-      "Скачков Олег Владимирович": 116,
-      "Туруло Валерий Николаевич": 84,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000220818": 46,
+      "gas:candidate-vibid:1001000112216": 119,
+      "gas:candidate-vibid:343300170559": 62,
+      "gas:candidate-vibid:1001000113937": 134,
+      "gas:candidate-vibid:1001000225944": 258,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 149,
+      "gas:candidate-vibid:343300170358": 116,
+      "gas:candidate-vibid:1001000126642": 84,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 46,
-      "Иконников Дмитрий Геннадьевич": 174,
-      "Куликов Владимир Владимирович": 78,
-      "Поглазов Александр Павлович": 222,
-      "Розуван Алексей Михайлович": 303,
-      "Рязанов Александр Александрович": 68,
-      "Сергеенков Владимир Нилович": 145,
-      "Скачков Олег Владимирович": 169,
-      "Туруло Валерий Николаевич": 69,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000220818": 46,
+      "gas:candidate-vibid:1001000112216": 174,
+      "gas:candidate-vibid:343300170559": 78,
+      "gas:candidate-vibid:1001000113937": 222,
+      "gas:candidate-vibid:1001000225944": 303,
+      "gas:candidate-vibid:1001000136064": 68,
+      "gas:candidate-vibid:343300170542": 145,
+      "gas:candidate-vibid:343300170358": 169,
+      "gas:candidate-vibid:1001000126642": 69,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 136,
-      "Куликов Владимир Владимирович": 64,
-      "Поглазов Александр Павлович": 151,
-      "Розуван Алексей Михайлович": 287,
-      "Рязанов Александр Александрович": 61,
-      "Сергеенков Владимир Нилович": 176,
-      "Скачков Олег Владимирович": 136,
-      "Туруло Валерий Николаевич": 87,
-      "Шабалин Борис Андреевич": 36,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 136,
+      "gas:candidate-vibid:343300170559": 64,
+      "gas:candidate-vibid:1001000113937": 151,
+      "gas:candidate-vibid:1001000225944": 287,
+      "gas:candidate-vibid:1001000136064": 61,
+      "gas:candidate-vibid:343300170542": 176,
+      "gas:candidate-vibid:343300170358": 136,
+      "gas:candidate-vibid:1001000126642": 87,
+      "gas:candidate-vibid:1001000195083": 36,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 52,
-      "Иконников Дмитрий Геннадьевич": 121,
-      "Куликов Владимир Владимирович": 56,
-      "Поглазов Александр Павлович": 140,
-      "Розуван Алексей Михайлович": 237,
-      "Рязанов Александр Александрович": 48,
-      "Сергеенков Владимир Нилович": 175,
-      "Скачков Олег Владимирович": 145,
-      "Туруло Валерий Николаевич": 97,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000220818": 52,
+      "gas:candidate-vibid:1001000112216": 121,
+      "gas:candidate-vibid:343300170559": 56,
+      "gas:candidate-vibid:1001000113937": 140,
+      "gas:candidate-vibid:1001000225944": 237,
+      "gas:candidate-vibid:1001000136064": 48,
+      "gas:candidate-vibid:343300170542": 175,
+      "gas:candidate-vibid:343300170358": 145,
+      "gas:candidate-vibid:1001000126642": 97,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 49,
-      "Иконников Дмитрий Геннадьевич": 65,
-      "Куликов Владимир Владимирович": 48,
-      "Поглазов Александр Павлович": 110,
-      "Розуван Алексей Михайлович": 192,
-      "Рязанов Александр Александрович": 44,
-      "Сергеенков Владимир Нилович": 127,
-      "Скачков Олег Владимирович": 119,
-      "Туруло Валерий Николаевич": 84,
-      "Шабалин Борис Андреевич": 29,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000220818": 49,
+      "gas:candidate-vibid:1001000112216": 65,
+      "gas:candidate-vibid:343300170559": 48,
+      "gas:candidate-vibid:1001000113937": 110,
+      "gas:candidate-vibid:1001000225944": 192,
+      "gas:candidate-vibid:1001000136064": 44,
+      "gas:candidate-vibid:343300170542": 127,
+      "gas:candidate-vibid:343300170358": 119,
+      "gas:candidate-vibid:1001000126642": 84,
+      "gas:candidate-vibid:1001000195083": 29,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 107,
-      "Куликов Владимир Владимирович": 35,
-      "Поглазов Александр Павлович": 128,
-      "Розуван Алексей Михайлович": 263,
-      "Рязанов Александр Александрович": 63,
-      "Сергеенков Владимир Нилович": 178,
-      "Скачков Олег Владимирович": 113,
-      "Туруло Валерий Николаевич": 86,
-      "Шабалин Борис Андреевич": 58,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 107,
+      "gas:candidate-vibid:343300170559": 35,
+      "gas:candidate-vibid:1001000113937": 128,
+      "gas:candidate-vibid:1001000225944": 263,
+      "gas:candidate-vibid:1001000136064": 63,
+      "gas:candidate-vibid:343300170542": 178,
+      "gas:candidate-vibid:343300170358": 113,
+      "gas:candidate-vibid:1001000126642": 86,
+      "gas:candidate-vibid:1001000195083": 58,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 116,
-      "Куликов Владимир Владимирович": 65,
-      "Поглазов Александр Павлович": 147,
-      "Розуван Алексей Михайлович": 271,
-      "Рязанов Александр Александрович": 53,
-      "Сергеенков Владимир Нилович": 132,
-      "Скачков Олег Владимирович": 144,
-      "Туруло Валерий Николаевич": 87,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 116,
+      "gas:candidate-vibid:343300170559": 65,
+      "gas:candidate-vibid:1001000113937": 147,
+      "gas:candidate-vibid:1001000225944": 271,
+      "gas:candidate-vibid:1001000136064": 53,
+      "gas:candidate-vibid:343300170542": 132,
+      "gas:candidate-vibid:343300170358": 144,
+      "gas:candidate-vibid:1001000126642": 87,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 57,
-      "Иконников Дмитрий Геннадьевич": 91,
-      "Куликов Владимир Владимирович": 81,
-      "Поглазов Александр Павлович": 166,
-      "Розуван Алексей Михайлович": 240,
-      "Рязанов Александр Александрович": 41,
-      "Сергеенков Владимир Нилович": 184,
-      "Скачков Олег Владимирович": 92,
-      "Туруло Валерий Николаевич": 99,
-      "Шабалин Борис Андреевич": 48,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000220818": 57,
+      "gas:candidate-vibid:1001000112216": 91,
+      "gas:candidate-vibid:343300170559": 81,
+      "gas:candidate-vibid:1001000113937": 166,
+      "gas:candidate-vibid:1001000225944": 240,
+      "gas:candidate-vibid:1001000136064": 41,
+      "gas:candidate-vibid:343300170542": 184,
+      "gas:candidate-vibid:343300170358": 92,
+      "gas:candidate-vibid:1001000126642": 99,
+      "gas:candidate-vibid:1001000195083": 48,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 34,
-      "Иконников Дмитрий Геннадьевич": 46,
-      "Куликов Владимир Владимирович": 17,
-      "Поглазов Александр Павлович": 63,
-      "Розуван Алексей Михайлович": 142,
-      "Рязанов Александр Александрович": 26,
-      "Сергеенков Владимир Нилович": 69,
-      "Скачков Олег Владимирович": 56,
-      "Туруло Валерий Николаевич": 39,
-      "Шабалин Борис Андреевич": 18,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000220818": 34,
+      "gas:candidate-vibid:1001000112216": 46,
+      "gas:candidate-vibid:343300170559": 17,
+      "gas:candidate-vibid:1001000113937": 63,
+      "gas:candidate-vibid:1001000225944": 142,
+      "gas:candidate-vibid:1001000136064": 26,
+      "gas:candidate-vibid:343300170542": 69,
+      "gas:candidate-vibid:343300170358": 56,
+      "gas:candidate-vibid:1001000126642": 39,
+      "gas:candidate-vibid:1001000195083": 18,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 68,
-      "Иконников Дмитрий Геннадьевич": 113,
-      "Куликов Владимир Владимирович": 65,
-      "Поглазов Александр Павлович": 125,
-      "Розуван Алексей Михайлович": 292,
-      "Рязанов Александр Александрович": 52,
-      "Сергеенков Владимир Нилович": 198,
-      "Скачков Олег Владимирович": 132,
-      "Туруло Валерий Николаевич": 90,
-      "Шабалин Борис Андреевич": 59,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000220818": 68,
+      "gas:candidate-vibid:1001000112216": 113,
+      "gas:candidate-vibid:343300170559": 65,
+      "gas:candidate-vibid:1001000113937": 125,
+      "gas:candidate-vibid:1001000225944": 292,
+      "gas:candidate-vibid:1001000136064": 52,
+      "gas:candidate-vibid:343300170542": 198,
+      "gas:candidate-vibid:343300170358": 132,
+      "gas:candidate-vibid:1001000126642": 90,
+      "gas:candidate-vibid:1001000195083": 59,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 45,
-      "Иконников Дмитрий Геннадьевич": 81,
-      "Куликов Владимир Владимирович": 60,
-      "Поглазов Александр Павлович": 95,
-      "Розуван Алексей Михайлович": 190,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 95,
-      "Скачков Олег Владимирович": 74,
-      "Туруло Валерий Николаевич": 83,
-      "Шабалин Борис Андреевич": 37,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000220818": 45,
+      "gas:candidate-vibid:1001000112216": 81,
+      "gas:candidate-vibid:343300170559": 60,
+      "gas:candidate-vibid:1001000113937": 95,
+      "gas:candidate-vibid:1001000225944": 190,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 95,
+      "gas:candidate-vibid:343300170358": 74,
+      "gas:candidate-vibid:1001000126642": 83,
+      "gas:candidate-vibid:1001000195083": 37,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 47,
-      "Иконников Дмитрий Геннадьевич": 70,
-      "Куликов Владимир Владимирович": 48,
-      "Поглазов Александр Павлович": 79,
-      "Розуван Алексей Михайлович": 174,
-      "Рязанов Александр Александрович": 32,
-      "Сергеенков Владимир Нилович": 148,
-      "Скачков Олег Владимирович": 98,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 29,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000220818": 47,
+      "gas:candidate-vibid:1001000112216": 70,
+      "gas:candidate-vibid:343300170559": 48,
+      "gas:candidate-vibid:1001000113937": 79,
+      "gas:candidate-vibid:1001000225944": 174,
+      "gas:candidate-vibid:1001000136064": 32,
+      "gas:candidate-vibid:343300170542": 148,
+      "gas:candidate-vibid:343300170358": 98,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 29,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 72,
-      "Иконников Дмитрий Геннадьевич": 148,
-      "Куликов Владимир Владимирович": 84,
-      "Поглазов Александр Павлович": 174,
-      "Розуван Алексей Михайлович": 405,
-      "Рязанов Александр Александрович": 73,
-      "Сергеенков Владимир Нилович": 138,
-      "Скачков Олег Владимирович": 127,
-      "Туруло Валерий Николаевич": 94,
-      "Шабалин Борис Андреевич": 48,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000220818": 72,
+      "gas:candidate-vibid:1001000112216": 148,
+      "gas:candidate-vibid:343300170559": 84,
+      "gas:candidate-vibid:1001000113937": 174,
+      "gas:candidate-vibid:1001000225944": 405,
+      "gas:candidate-vibid:1001000136064": 73,
+      "gas:candidate-vibid:343300170542": 138,
+      "gas:candidate-vibid:343300170358": 127,
+      "gas:candidate-vibid:1001000126642": 94,
+      "gas:candidate-vibid:1001000195083": 48,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 24,
-      "Иконников Дмитрий Геннадьевич": 42,
-      "Куликов Владимир Владимирович": 37,
-      "Поглазов Александр Павлович": 48,
-      "Розуван Алексей Михайлович": 113,
-      "Рязанов Александр Александрович": 20,
-      "Сергеенков Владимир Нилович": 39,
-      "Скачков Олег Владимирович": 57,
-      "Туруло Валерий Николаевич": 18,
-      "Шабалин Борис Андреевич": 17,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000220818": 24,
+      "gas:candidate-vibid:1001000112216": 42,
+      "gas:candidate-vibid:343300170559": 37,
+      "gas:candidate-vibid:1001000113937": 48,
+      "gas:candidate-vibid:1001000225944": 113,
+      "gas:candidate-vibid:1001000136064": 20,
+      "gas:candidate-vibid:343300170542": 39,
+      "gas:candidate-vibid:343300170358": 57,
+      "gas:candidate-vibid:1001000126642": 18,
+      "gas:candidate-vibid:1001000195083": 17,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 59,
-      "Иконников Дмитрий Геннадьевич": 121,
-      "Куликов Владимир Владимирович": 62,
-      "Поглазов Александр Павлович": 141,
-      "Розуван Алексей Михайлович": 361,
-      "Рязанов Александр Александрович": 85,
-      "Сергеенков Владимир Нилович": 125,
-      "Скачков Олег Владимирович": 164,
-      "Туруло Валерий Николаевич": 55,
-      "Шабалин Борис Андреевич": 42,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000220818": 59,
+      "gas:candidate-vibid:1001000112216": 121,
+      "gas:candidate-vibid:343300170559": 62,
+      "gas:candidate-vibid:1001000113937": 141,
+      "gas:candidate-vibid:1001000225944": 361,
+      "gas:candidate-vibid:1001000136064": 85,
+      "gas:candidate-vibid:343300170542": 125,
+      "gas:candidate-vibid:343300170358": 164,
+      "gas:candidate-vibid:1001000126642": 55,
+      "gas:candidate-vibid:1001000195083": 42,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 46,
-      "Иконников Дмитрий Геннадьевич": 84,
-      "Куликов Владимир Владимирович": 37,
-      "Поглазов Александр Павлович": 74,
-      "Розуван Алексей Михайлович": 240,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 115,
-      "Скачков Олег Владимирович": 89,
-      "Туруло Валерий Николаевич": 57,
-      "Шабалин Борис Андреевич": 26,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000220818": 46,
+      "gas:candidate-vibid:1001000112216": 84,
+      "gas:candidate-vibid:343300170559": 37,
+      "gas:candidate-vibid:1001000113937": 74,
+      "gas:candidate-vibid:1001000225944": 240,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 115,
+      "gas:candidate-vibid:343300170358": 89,
+      "gas:candidate-vibid:1001000126642": 57,
+      "gas:candidate-vibid:1001000195083": 26,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 99,
-      "Куликов Владимир Владимирович": 59,
-      "Поглазов Александр Павлович": 140,
-      "Розуван Алексей Михайлович": 360,
-      "Рязанов Александр Александрович": 54,
-      "Сергеенков Владимир Нилович": 135,
-      "Скачков Олег Владимирович": 119,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 99,
+      "gas:candidate-vibid:343300170559": 59,
+      "gas:candidate-vibid:1001000113937": 140,
+      "gas:candidate-vibid:1001000225944": 360,
+      "gas:candidate-vibid:1001000136064": 54,
+      "gas:candidate-vibid:343300170542": 135,
+      "gas:candidate-vibid:343300170358": 119,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 34,
-      "Иконников Дмитрий Геннадьевич": 62,
-      "Куликов Владимир Владимирович": 41,
-      "Поглазов Александр Павлович": 90,
-      "Розуван Алексей Михайлович": 198,
-      "Рязанов Александр Александрович": 34,
-      "Сергеенков Владимир Нилович": 114,
-      "Скачков Олег Владимирович": 87,
-      "Туруло Валерий Николаевич": 49,
-      "Шабалин Борис Андреевич": 23,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000220818": 34,
+      "gas:candidate-vibid:1001000112216": 62,
+      "gas:candidate-vibid:343300170559": 41,
+      "gas:candidate-vibid:1001000113937": 90,
+      "gas:candidate-vibid:1001000225944": 198,
+      "gas:candidate-vibid:1001000136064": 34,
+      "gas:candidate-vibid:343300170542": 114,
+      "gas:candidate-vibid:343300170358": 87,
+      "gas:candidate-vibid:1001000126642": 49,
+      "gas:candidate-vibid:1001000195083": 23,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 56,
-      "Куликов Владимир Владимирович": 37,
-      "Поглазов Александр Павлович": 103,
-      "Розуван Алексей Михайлович": 227,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 165,
-      "Скачков Олег Владимирович": 99,
-      "Туруло Валерий Николаевич": 44,
-      "Шабалин Борис Андреевич": 24,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 56,
+      "gas:candidate-vibid:343300170559": 37,
+      "gas:candidate-vibid:1001000113937": 103,
+      "gas:candidate-vibid:1001000225944": 227,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 165,
+      "gas:candidate-vibid:343300170358": 99,
+      "gas:candidate-vibid:1001000126642": 44,
+      "gas:candidate-vibid:1001000195083": 24,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 53,
-      "Иконников Дмитрий Геннадьевич": 114,
-      "Куликов Владимир Владимирович": 64,
-      "Поглазов Александр Павлович": 133,
-      "Розуван Алексей Михайлович": 213,
-      "Рязанов Александр Александрович": 38,
-      "Сергеенков Владимир Нилович": 110,
-      "Скачков Олег Владимирович": 87,
-      "Туруло Валерий Николаевич": 73,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000220818": 53,
+      "gas:candidate-vibid:1001000112216": 114,
+      "gas:candidate-vibid:343300170559": 64,
+      "gas:candidate-vibid:1001000113937": 133,
+      "gas:candidate-vibid:1001000225944": 213,
+      "gas:candidate-vibid:1001000136064": 38,
+      "gas:candidate-vibid:343300170542": 110,
+      "gas:candidate-vibid:343300170358": 87,
+      "gas:candidate-vibid:1001000126642": 73,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 103,
-      "Куликов Владимир Владимирович": 41,
-      "Поглазов Александр Павлович": 145,
-      "Розуван Алексей Михайлович": 285,
-      "Рязанов Александр Александрович": 64,
-      "Сергеенков Владимир Нилович": 106,
-      "Скачков Олег Владимирович": 128,
-      "Туруло Валерий Николаевич": 73,
-      "Шабалин Борис Андреевич": 23,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 103,
+      "gas:candidate-vibid:343300170559": 41,
+      "gas:candidate-vibid:1001000113937": 145,
+      "gas:candidate-vibid:1001000225944": 285,
+      "gas:candidate-vibid:1001000136064": 64,
+      "gas:candidate-vibid:343300170542": 106,
+      "gas:candidate-vibid:343300170358": 128,
+      "gas:candidate-vibid:1001000126642": 73,
+      "gas:candidate-vibid:1001000195083": 23,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 37,
-      "Иконников Дмитрий Геннадьевич": 57,
-      "Куликов Владимир Владимирович": 31,
-      "Поглазов Александр Павлович": 65,
-      "Розуван Алексей Михайлович": 178,
-      "Рязанов Александр Александрович": 33,
-      "Сергеенков Владимир Нилович": 102,
-      "Скачков Олег Владимирович": 66,
-      "Туруло Валерий Николаевич": 70,
-      "Шабалин Борис Андреевич": 27,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000220818": 37,
+      "gas:candidate-vibid:1001000112216": 57,
+      "gas:candidate-vibid:343300170559": 31,
+      "gas:candidate-vibid:1001000113937": 65,
+      "gas:candidate-vibid:1001000225944": 178,
+      "gas:candidate-vibid:1001000136064": 33,
+      "gas:candidate-vibid:343300170542": 102,
+      "gas:candidate-vibid:343300170358": 66,
+      "gas:candidate-vibid:1001000126642": 70,
+      "gas:candidate-vibid:1001000195083": 27,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 51,
-      "Иконников Дмитрий Геннадьевич": 65,
-      "Куликов Владимир Владимирович": 53,
-      "Поглазов Александр Павлович": 131,
-      "Розуван Алексей Михайлович": 313,
-      "Рязанов Александр Александрович": 52,
-      "Сергеенков Владимир Нилович": 164,
-      "Скачков Олег Владимирович": 112,
-      "Туруло Валерий Николаевич": 68,
-      "Шабалин Борис Андреевич": 54,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000220818": 51,
+      "gas:candidate-vibid:1001000112216": 65,
+      "gas:candidate-vibid:343300170559": 53,
+      "gas:candidate-vibid:1001000113937": 131,
+      "gas:candidate-vibid:1001000225944": 313,
+      "gas:candidate-vibid:1001000136064": 52,
+      "gas:candidate-vibid:343300170542": 164,
+      "gas:candidate-vibid:343300170358": 112,
+      "gas:candidate-vibid:1001000126642": 68,
+      "gas:candidate-vibid:1001000195083": 54,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 36,
-      "Иконников Дмитрий Геннадьевич": 73,
-      "Куликов Владимир Владимирович": 41,
-      "Поглазов Александр Павлович": 142,
-      "Розуван Алексей Михайлович": 224,
-      "Рязанов Александр Александрович": 46,
-      "Сергеенков Владимир Нилович": 102,
-      "Скачков Олег Владимирович": 103,
-      "Туруло Валерий Николаевич": 42,
-      "Шабалин Борис Андреевич": 32,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000220818": 36,
+      "gas:candidate-vibid:1001000112216": 73,
+      "gas:candidate-vibid:343300170559": 41,
+      "gas:candidate-vibid:1001000113937": 142,
+      "gas:candidate-vibid:1001000225944": 224,
+      "gas:candidate-vibid:1001000136064": 46,
+      "gas:candidate-vibid:343300170542": 102,
+      "gas:candidate-vibid:343300170358": 103,
+      "gas:candidate-vibid:1001000126642": 42,
+      "gas:candidate-vibid:1001000195083": 32,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 37,
-      "Иконников Дмитрий Геннадьевич": 49,
-      "Куликов Владимир Владимирович": 36,
-      "Поглазов Александр Павлович": 91,
-      "Розуван Алексей Михайлович": 157,
-      "Рязанов Александр Александрович": 41,
-      "Сергеенков Владимир Нилович": 71,
-      "Скачков Олег Владимирович": 96,
-      "Туруло Валерий Николаевич": 48,
-      "Шабалин Борис Андреевич": 23,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000220818": 37,
+      "gas:candidate-vibid:1001000112216": 49,
+      "gas:candidate-vibid:343300170559": 36,
+      "gas:candidate-vibid:1001000113937": 91,
+      "gas:candidate-vibid:1001000225944": 157,
+      "gas:candidate-vibid:1001000136064": 41,
+      "gas:candidate-vibid:343300170542": 71,
+      "gas:candidate-vibid:343300170358": 96,
+      "gas:candidate-vibid:1001000126642": 48,
+      "gas:candidate-vibid:1001000195083": 23,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 128,
-      "Куликов Владимир Владимирович": 56,
-      "Поглазов Александр Павлович": 196,
-      "Розуван Алексей Михайлович": 226,
-      "Рязанов Александр Александрович": 39,
-      "Сергеенков Владимир Нилович": 153,
-      "Скачков Олег Владимирович": 130,
-      "Туруло Валерий Николаевич": 80,
-      "Шабалин Борис Андреевич": 46,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 128,
+      "gas:candidate-vibid:343300170559": 56,
+      "gas:candidate-vibid:1001000113937": 196,
+      "gas:candidate-vibid:1001000225944": 226,
+      "gas:candidate-vibid:1001000136064": 39,
+      "gas:candidate-vibid:343300170542": 153,
+      "gas:candidate-vibid:343300170358": 130,
+      "gas:candidate-vibid:1001000126642": 80,
+      "gas:candidate-vibid:1001000195083": 46,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 49,
-      "Иконников Дмитрий Геннадьевич": 81,
-      "Куликов Владимир Владимирович": 38,
-      "Поглазов Александр Павлович": 116,
-      "Розуван Алексей Михайлович": 229,
-      "Рязанов Александр Александрович": 31,
-      "Сергеенков Владимир Нилович": 109,
-      "Скачков Олег Владимирович": 87,
-      "Туруло Валерий Николаевич": 55,
-      "Шабалин Борис Андреевич": 35,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000220818": 49,
+      "gas:candidate-vibid:1001000112216": 81,
+      "gas:candidate-vibid:343300170559": 38,
+      "gas:candidate-vibid:1001000113937": 116,
+      "gas:candidate-vibid:1001000225944": 229,
+      "gas:candidate-vibid:1001000136064": 31,
+      "gas:candidate-vibid:343300170542": 109,
+      "gas:candidate-vibid:343300170358": 87,
+      "gas:candidate-vibid:1001000126642": 55,
+      "gas:candidate-vibid:1001000195083": 35,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 107,
-      "Куликов Владимир Владимирович": 70,
-      "Поглазов Александр Павлович": 184,
-      "Розуван Алексей Михайлович": 274,
-      "Рязанов Александр Александрович": 32,
-      "Сергеенков Владимир Нилович": 189,
-      "Скачков Олег Владимирович": 137,
-      "Туруло Валерий Николаевич": 58,
-      "Шабалин Борис Андреевич": 47,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 107,
+      "gas:candidate-vibid:343300170559": 70,
+      "gas:candidate-vibid:1001000113937": 184,
+      "gas:candidate-vibid:1001000225944": 274,
+      "gas:candidate-vibid:1001000136064": 32,
+      "gas:candidate-vibid:343300170542": 189,
+      "gas:candidate-vibid:343300170358": 137,
+      "gas:candidate-vibid:1001000126642": 58,
+      "gas:candidate-vibid:1001000195083": 47,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 49,
-      "Иконников Дмитрий Геннадьевич": 131,
-      "Куликов Владимир Владимирович": 68,
-      "Поглазов Александр Павлович": 193,
-      "Розуван Алексей Михайлович": 327,
-      "Рязанов Александр Александрович": 53,
-      "Сергеенков Владимир Нилович": 201,
-      "Скачков Олег Владимирович": 176,
-      "Туруло Валерий Николаевич": 95,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000220818": 49,
+      "gas:candidate-vibid:1001000112216": 131,
+      "gas:candidate-vibid:343300170559": 68,
+      "gas:candidate-vibid:1001000113937": 193,
+      "gas:candidate-vibid:1001000225944": 327,
+      "gas:candidate-vibid:1001000136064": 53,
+      "gas:candidate-vibid:343300170542": 201,
+      "gas:candidate-vibid:343300170358": 176,
+      "gas:candidate-vibid:1001000126642": 95,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 33,
-      "Иконников Дмитрий Геннадьевич": 96,
-      "Куликов Владимир Владимирович": 57,
-      "Поглазов Александр Павлович": 120,
-      "Розуван Алексей Михайлович": 200,
-      "Рязанов Александр Александрович": 22,
-      "Сергеенков Владимир Нилович": 184,
-      "Скачков Олег Владимирович": 101,
-      "Туруло Валерий Николаевич": 67,
-      "Шабалин Борис Андреевич": 22,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000220818": 33,
+      "gas:candidate-vibid:1001000112216": 96,
+      "gas:candidate-vibid:343300170559": 57,
+      "gas:candidate-vibid:1001000113937": 120,
+      "gas:candidate-vibid:1001000225944": 200,
+      "gas:candidate-vibid:1001000136064": 22,
+      "gas:candidate-vibid:343300170542": 184,
+      "gas:candidate-vibid:343300170358": 101,
+      "gas:candidate-vibid:1001000126642": 67,
+      "gas:candidate-vibid:1001000195083": 22,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 34,
-      "Иконников Дмитрий Геннадьевич": 96,
-      "Куликов Владимир Владимирович": 61,
-      "Поглазов Александр Павлович": 195,
-      "Розуван Алексей Михайлович": 266,
-      "Рязанов Александр Александрович": 31,
-      "Сергеенков Владимир Нилович": 120,
-      "Скачков Олег Владимирович": 98,
-      "Туруло Валерий Николаевич": 78,
-      "Шабалин Борис Андреевич": 55,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000220818": 34,
+      "gas:candidate-vibid:1001000112216": 96,
+      "gas:candidate-vibid:343300170559": 61,
+      "gas:candidate-vibid:1001000113937": 195,
+      "gas:candidate-vibid:1001000225944": 266,
+      "gas:candidate-vibid:1001000136064": 31,
+      "gas:candidate-vibid:343300170542": 120,
+      "gas:candidate-vibid:343300170358": 98,
+      "gas:candidate-vibid:1001000126642": 78,
+      "gas:candidate-vibid:1001000195083": 55,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 52,
-      "Иконников Дмитрий Геннадьевич": 98,
-      "Куликов Владимир Владимирович": 63,
-      "Поглазов Александр Павлович": 137,
-      "Розуван Алексей Михайлович": 305,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 154,
-      "Скачков Олег Владимирович": 112,
-      "Туруло Валерий Николаевич": 93,
-      "Шабалин Борис Андреевич": 39,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000220818": 52,
+      "gas:candidate-vibid:1001000112216": 98,
+      "gas:candidate-vibid:343300170559": 63,
+      "gas:candidate-vibid:1001000113937": 137,
+      "gas:candidate-vibid:1001000225944": 305,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 154,
+      "gas:candidate-vibid:343300170358": 112,
+      "gas:candidate-vibid:1001000126642": 93,
+      "gas:candidate-vibid:1001000195083": 39,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 69,
-      "Иконников Дмитрий Геннадьевич": 88,
-      "Куликов Владимир Владимирович": 65,
-      "Поглазов Александр Павлович": 198,
-      "Розуван Алексей Михайлович": 307,
-      "Рязанов Александр Александрович": 61,
-      "Сергеенков Владимир Нилович": 160,
-      "Скачков Олег Владимирович": 106,
-      "Туруло Валерий Николаевич": 80,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000220818": 69,
+      "gas:candidate-vibid:1001000112216": 88,
+      "gas:candidate-vibid:343300170559": 65,
+      "gas:candidate-vibid:1001000113937": 198,
+      "gas:candidate-vibid:1001000225944": 307,
+      "gas:candidate-vibid:1001000136064": 61,
+      "gas:candidate-vibid:343300170542": 160,
+      "gas:candidate-vibid:343300170358": 106,
+      "gas:candidate-vibid:1001000126642": 80,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 52,
-      "Иконников Дмитрий Геннадьевич": 119,
-      "Куликов Владимир Владимирович": 54,
-      "Поглазов Александр Павлович": 149,
-      "Розуван Алексей Михайлович": 361,
-      "Рязанов Александр Александрович": 64,
-      "Сергеенков Владимир Нилович": 150,
-      "Скачков Олег Владимирович": 146,
-      "Туруло Валерий Николаевич": 79,
-      "Шабалин Борис Андреевич": 63,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000220818": 52,
+      "gas:candidate-vibid:1001000112216": 119,
+      "gas:candidate-vibid:343300170559": 54,
+      "gas:candidate-vibid:1001000113937": 149,
+      "gas:candidate-vibid:1001000225944": 361,
+      "gas:candidate-vibid:1001000136064": 64,
+      "gas:candidate-vibid:343300170542": 150,
+      "gas:candidate-vibid:343300170358": 146,
+      "gas:candidate-vibid:1001000126642": 79,
+      "gas:candidate-vibid:1001000195083": 63,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 160,
-      "Куликов Владимир Владимирович": 58,
-      "Поглазов Александр Павлович": 183,
-      "Розуван Алексей Михайлович": 379,
-      "Рязанов Александр Александрович": 47,
-      "Сергеенков Владимир Нилович": 150,
-      "Скачков Олег Владимирович": 145,
-      "Туруло Валерий Николаевич": 96,
-      "Шабалин Борис Андреевич": 51,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 160,
+      "gas:candidate-vibid:343300170559": 58,
+      "gas:candidate-vibid:1001000113937": 183,
+      "gas:candidate-vibid:1001000225944": 379,
+      "gas:candidate-vibid:1001000136064": 47,
+      "gas:candidate-vibid:343300170542": 150,
+      "gas:candidate-vibid:343300170358": 145,
+      "gas:candidate-vibid:1001000126642": 96,
+      "gas:candidate-vibid:1001000195083": 51,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 122,
-      "Куликов Владимир Владимирович": 63,
-      "Поглазов Александр Павлович": 202,
-      "Розуван Алексей Михайлович": 309,
-      "Рязанов Александр Александрович": 35,
-      "Сергеенков Владимир Нилович": 159,
-      "Скачков Олег Владимирович": 117,
-      "Туруло Валерий Николаевич": 64,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 122,
+      "gas:candidate-vibid:343300170559": 63,
+      "gas:candidate-vibid:1001000113937": 202,
+      "gas:candidate-vibid:1001000225944": 309,
+      "gas:candidate-vibid:1001000136064": 35,
+      "gas:candidate-vibid:343300170542": 159,
+      "gas:candidate-vibid:343300170358": 117,
+      "gas:candidate-vibid:1001000126642": 64,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 108,
-      "Куликов Владимир Владимирович": 59,
-      "Поглазов Александр Павлович": 113,
-      "Розуван Алексей Михайлович": 260,
-      "Рязанов Александр Александрович": 56,
-      "Сергеенков Владимир Нилович": 114,
-      "Скачков Олег Владимирович": 145,
-      "Туруло Валерий Николаевич": 76,
-      "Шабалин Борис Андреевич": 38,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 108,
+      "gas:candidate-vibid:343300170559": 59,
+      "gas:candidate-vibid:1001000113937": 113,
+      "gas:candidate-vibid:1001000225944": 260,
+      "gas:candidate-vibid:1001000136064": 56,
+      "gas:candidate-vibid:343300170542": 114,
+      "gas:candidate-vibid:343300170358": 145,
+      "gas:candidate-vibid:1001000126642": 76,
+      "gas:candidate-vibid:1001000195083": 38,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 56,
-      "Иконников Дмитрий Геннадьевич": 101,
-      "Куликов Владимир Владимирович": 85,
-      "Поглазов Александр Павлович": 193,
-      "Розуван Алексей Михайлович": 346,
-      "Рязанов Александр Александрович": 89,
-      "Сергеенков Владимир Нилович": 168,
-      "Скачков Олег Владимирович": 95,
-      "Туруло Валерий Николаевич": 99,
-      "Шабалин Борис Андреевич": 36,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000220818": 56,
+      "gas:candidate-vibid:1001000112216": 101,
+      "gas:candidate-vibid:343300170559": 85,
+      "gas:candidate-vibid:1001000113937": 193,
+      "gas:candidate-vibid:1001000225944": 346,
+      "gas:candidate-vibid:1001000136064": 89,
+      "gas:candidate-vibid:343300170542": 168,
+      "gas:candidate-vibid:343300170358": 95,
+      "gas:candidate-vibid:1001000126642": 99,
+      "gas:candidate-vibid:1001000195083": 36,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 33,
-      "Иконников Дмитрий Геннадьевич": 87,
-      "Куликов Владимир Владимирович": 60,
-      "Поглазов Александр Павлович": 164,
-      "Розуван Алексей Михайлович": 321,
-      "Рязанов Александр Александрович": 60,
-      "Сергеенков Владимир Нилович": 147,
-      "Скачков Олег Владимирович": 102,
-      "Туруло Валерий Николаевич": 54,
-      "Шабалин Борис Андреевич": 39,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000220818": 33,
+      "gas:candidate-vibid:1001000112216": 87,
+      "gas:candidate-vibid:343300170559": 60,
+      "gas:candidate-vibid:1001000113937": 164,
+      "gas:candidate-vibid:1001000225944": 321,
+      "gas:candidate-vibid:1001000136064": 60,
+      "gas:candidate-vibid:343300170542": 147,
+      "gas:candidate-vibid:343300170358": 102,
+      "gas:candidate-vibid:1001000126642": 54,
+      "gas:candidate-vibid:1001000195083": 39,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 54,
-      "Иконников Дмитрий Геннадьевич": 109,
-      "Куликов Владимир Владимирович": 70,
-      "Поглазов Александр Павлович": 191,
-      "Розуван Алексей Михайлович": 372,
-      "Рязанов Александр Александрович": 57,
-      "Сергеенков Владимир Нилович": 188,
-      "Скачков Олег Владимирович": 113,
-      "Туруло Валерий Николаевич": 92,
-      "Шабалин Борис Андреевич": 72,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000220818": 54,
+      "gas:candidate-vibid:1001000112216": 109,
+      "gas:candidate-vibid:343300170559": 70,
+      "gas:candidate-vibid:1001000113937": 191,
+      "gas:candidate-vibid:1001000225944": 372,
+      "gas:candidate-vibid:1001000136064": 57,
+      "gas:candidate-vibid:343300170542": 188,
+      "gas:candidate-vibid:343300170358": 113,
+      "gas:candidate-vibid:1001000126642": 92,
+      "gas:candidate-vibid:1001000195083": 72,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 52,
-      "Иконников Дмитрий Геннадьевич": 97,
-      "Куликов Владимир Владимирович": 65,
-      "Поглазов Александр Павлович": 175,
-      "Розуван Алексей Михайлович": 333,
-      "Рязанов Александр Александрович": 56,
-      "Сергеенков Владимир Нилович": 185,
-      "Скачков Олег Владимирович": 161,
-      "Туруло Валерий Николаевич": 119,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000220818": 52,
+      "gas:candidate-vibid:1001000112216": 97,
+      "gas:candidate-vibid:343300170559": 65,
+      "gas:candidate-vibid:1001000113937": 175,
+      "gas:candidate-vibid:1001000225944": 333,
+      "gas:candidate-vibid:1001000136064": 56,
+      "gas:candidate-vibid:343300170542": 185,
+      "gas:candidate-vibid:343300170358": 161,
+      "gas:candidate-vibid:1001000126642": 119,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 24,
-      "Иконников Дмитрий Геннадьевич": 82,
-      "Куликов Владимир Владимирович": 59,
-      "Поглазов Александр Павлович": 188,
-      "Розуван Алексей Михайлович": 281,
-      "Рязанов Александр Александрович": 46,
-      "Сергеенков Владимир Нилович": 123,
-      "Скачков Олег Владимирович": 113,
-      "Туруло Валерий Николаевич": 50,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000220818": 24,
+      "gas:candidate-vibid:1001000112216": 82,
+      "gas:candidate-vibid:343300170559": 59,
+      "gas:candidate-vibid:1001000113937": 188,
+      "gas:candidate-vibid:1001000225944": 281,
+      "gas:candidate-vibid:1001000136064": 46,
+      "gas:candidate-vibid:343300170542": 123,
+      "gas:candidate-vibid:343300170358": 113,
+      "gas:candidate-vibid:1001000126642": 50,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 28,
-      "Иконников Дмитрий Геннадьевич": 76,
-      "Куликов Владимир Владимирович": 41,
-      "Поглазов Александр Павлович": 204,
-      "Розуван Алексей Михайлович": 238,
-      "Рязанов Александр Александрович": 41,
-      "Сергеенков Владимир Нилович": 70,
-      "Скачков Олег Владимирович": 61,
-      "Туруло Валерий Николаевич": 45,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000220818": 28,
+      "gas:candidate-vibid:1001000112216": 76,
+      "gas:candidate-vibid:343300170559": 41,
+      "gas:candidate-vibid:1001000113937": 204,
+      "gas:candidate-vibid:1001000225944": 238,
+      "gas:candidate-vibid:1001000136064": 41,
+      "gas:candidate-vibid:343300170542": 70,
+      "gas:candidate-vibid:343300170358": 61,
+      "gas:candidate-vibid:1001000126642": 45,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 39,
-      "Иконников Дмитрий Геннадьевич": 134,
-      "Куликов Владимир Владимирович": 98,
-      "Поглазов Александр Павлович": 144,
-      "Розуван Алексей Михайлович": 261,
-      "Рязанов Александр Александрович": 41,
-      "Сергеенков Владимир Нилович": 117,
-      "Скачков Олег Владимирович": 125,
-      "Туруло Валерий Николаевич": 91,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000220818": 39,
+      "gas:candidate-vibid:1001000112216": 134,
+      "gas:candidate-vibid:343300170559": 98,
+      "gas:candidate-vibid:1001000113937": 144,
+      "gas:candidate-vibid:1001000225944": 261,
+      "gas:candidate-vibid:1001000136064": 41,
+      "gas:candidate-vibid:343300170542": 117,
+      "gas:candidate-vibid:343300170358": 125,
+      "gas:candidate-vibid:1001000126642": 91,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 51,
-      "Иконников Дмитрий Геннадьевич": 97,
-      "Куликов Владимир Владимирович": 51,
-      "Поглазов Александр Павлович": 158,
-      "Розуван Алексей Михайлович": 332,
-      "Рязанов Александр Александрович": 57,
-      "Сергеенков Владимир Нилович": 120,
-      "Скачков Олег Владимирович": 137,
-      "Туруло Валерий Николаевич": 96,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000220818": 51,
+      "gas:candidate-vibid:1001000112216": 97,
+      "gas:candidate-vibid:343300170559": 51,
+      "gas:candidate-vibid:1001000113937": 158,
+      "gas:candidate-vibid:1001000225944": 332,
+      "gas:candidate-vibid:1001000136064": 57,
+      "gas:candidate-vibid:343300170542": 120,
+      "gas:candidate-vibid:343300170358": 137,
+      "gas:candidate-vibid:1001000126642": 96,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 49,
-      "Иконников Дмитрий Геннадьевич": 72,
-      "Куликов Владимир Владимирович": 31,
-      "Поглазов Александр Павлович": 159,
-      "Розуван Алексей Михайлович": 254,
-      "Рязанов Александр Александрович": 46,
-      "Сергеенков Владимир Нилович": 108,
-      "Скачков Олег Владимирович": 102,
-      "Туруло Валерий Николаевич": 78,
-      "Шабалин Борис Андреевич": 55,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000220818": 49,
+      "gas:candidate-vibid:1001000112216": 72,
+      "gas:candidate-vibid:343300170559": 31,
+      "gas:candidate-vibid:1001000113937": 159,
+      "gas:candidate-vibid:1001000225944": 254,
+      "gas:candidate-vibid:1001000136064": 46,
+      "gas:candidate-vibid:343300170542": 108,
+      "gas:candidate-vibid:343300170358": 102,
+      "gas:candidate-vibid:1001000126642": 78,
+      "gas:candidate-vibid:1001000195083": 55,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 34,
-      "Иконников Дмитрий Геннадьевич": 65,
-      "Куликов Владимир Владимирович": 47,
-      "Поглазов Александр Павлович": 110,
-      "Розуван Алексей Михайлович": 257,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 94,
-      "Скачков Олег Владимирович": 112,
-      "Туруло Валерий Николаевич": 56,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000220818": 34,
+      "gas:candidate-vibid:1001000112216": 65,
+      "gas:candidate-vibid:343300170559": 47,
+      "gas:candidate-vibid:1001000113937": 110,
+      "gas:candidate-vibid:1001000225944": 257,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 94,
+      "gas:candidate-vibid:343300170358": 112,
+      "gas:candidate-vibid:1001000126642": 56,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 57,
-      "Иконников Дмитрий Геннадьевич": 123,
-      "Куликов Владимир Владимирович": 80,
-      "Поглазов Александр Павлович": 144,
-      "Розуван Алексей Михайлович": 294,
-      "Рязанов Александр Александрович": 74,
-      "Сергеенков Владимир Нилович": 111,
-      "Скачков Олег Владимирович": 119,
-      "Туруло Валерий Николаевич": 81,
-      "Шабалин Борис Андреевич": 37,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000220818": 57,
+      "gas:candidate-vibid:1001000112216": 123,
+      "gas:candidate-vibid:343300170559": 80,
+      "gas:candidate-vibid:1001000113937": 144,
+      "gas:candidate-vibid:1001000225944": 294,
+      "gas:candidate-vibid:1001000136064": 74,
+      "gas:candidate-vibid:343300170542": 111,
+      "gas:candidate-vibid:343300170358": 119,
+      "gas:candidate-vibid:1001000126642": 81,
+      "gas:candidate-vibid:1001000195083": 37,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 47,
-      "Иконников Дмитрий Геннадьевич": 134,
-      "Куликов Владимир Владимирович": 47,
-      "Поглазов Александр Павлович": 136,
-      "Розуван Алексей Михайлович": 302,
-      "Рязанов Александр Александрович": 50,
-      "Сергеенков Владимир Нилович": 141,
-      "Скачков Олег Владимирович": 116,
-      "Туруло Валерий Николаевич": 82,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000220818": 47,
+      "gas:candidate-vibid:1001000112216": 134,
+      "gas:candidate-vibid:343300170559": 47,
+      "gas:candidate-vibid:1001000113937": 136,
+      "gas:candidate-vibid:1001000225944": 302,
+      "gas:candidate-vibid:1001000136064": 50,
+      "gas:candidate-vibid:343300170542": 141,
+      "gas:candidate-vibid:343300170358": 116,
+      "gas:candidate-vibid:1001000126642": 82,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 34,
-      "Иконников Дмитрий Геннадьевич": 52,
-      "Куликов Владимир Владимирович": 16,
-      "Поглазов Александр Павлович": 87,
-      "Розуван Алексей Михайлович": 126,
-      "Рязанов Александр Александрович": 31,
-      "Сергеенков Владимир Нилович": 45,
-      "Скачков Олег Владимирович": 58,
-      "Туруло Валерий Николаевич": 43,
-      "Шабалин Борис Андреевич": 21,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000220818": 34,
+      "gas:candidate-vibid:1001000112216": 52,
+      "gas:candidate-vibid:343300170559": 16,
+      "gas:candidate-vibid:1001000113937": 87,
+      "gas:candidate-vibid:1001000225944": 126,
+      "gas:candidate-vibid:1001000136064": 31,
+      "gas:candidate-vibid:343300170542": 45,
+      "gas:candidate-vibid:343300170358": 58,
+      "gas:candidate-vibid:1001000126642": 43,
+      "gas:candidate-vibid:1001000195083": 21,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 50,
-      "Иконников Дмитрий Геннадьевич": 82,
-      "Куликов Владимир Владимирович": 49,
-      "Поглазов Александр Павлович": 98,
-      "Розуван Алексей Михайлович": 229,
-      "Рязанов Александр Александрович": 50,
-      "Сергеенков Владимир Нилович": 116,
-      "Скачков Олег Владимирович": 122,
-      "Туруло Валерий Николаевич": 54,
-      "Шабалин Борис Андреевич": 45,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000220818": 50,
+      "gas:candidate-vibid:1001000112216": 82,
+      "gas:candidate-vibid:343300170559": 49,
+      "gas:candidate-vibid:1001000113937": 98,
+      "gas:candidate-vibid:1001000225944": 229,
+      "gas:candidate-vibid:1001000136064": 50,
+      "gas:candidate-vibid:343300170542": 116,
+      "gas:candidate-vibid:343300170358": 122,
+      "gas:candidate-vibid:1001000126642": 54,
+      "gas:candidate-vibid:1001000195083": 45,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 51,
-      "Куликов Владимир Владимирович": 56,
-      "Поглазов Александр Павлович": 119,
-      "Розуван Алексей Михайлович": 227,
-      "Рязанов Александр Александрович": 37,
-      "Сергеенков Владимир Нилович": 126,
-      "Скачков Олег Владимирович": 102,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 38,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 51,
+      "gas:candidate-vibid:343300170559": 56,
+      "gas:candidate-vibid:1001000113937": 119,
+      "gas:candidate-vibid:1001000225944": 227,
+      "gas:candidate-vibid:1001000136064": 37,
+      "gas:candidate-vibid:343300170542": 126,
+      "gas:candidate-vibid:343300170358": 102,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 38,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 31,
-      "Иконников Дмитрий Геннадьевич": 66,
-      "Куликов Владимир Владимирович": 43,
-      "Поглазов Александр Павлович": 87,
-      "Розуван Алексей Михайлович": 178,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 83,
-      "Скачков Олег Владимирович": 92,
-      "Туруло Валерий Николаевич": 44,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000220818": 31,
+      "gas:candidate-vibid:1001000112216": 66,
+      "gas:candidate-vibid:343300170559": 43,
+      "gas:candidate-vibid:1001000113937": 87,
+      "gas:candidate-vibid:1001000225944": 178,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 83,
+      "gas:candidate-vibid:343300170358": 92,
+      "gas:candidate-vibid:1001000126642": 44,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 69,
-      "Иконников Дмитрий Геннадьевич": 146,
-      "Куликов Владимир Владимирович": 51,
-      "Поглазов Александр Павлович": 147,
-      "Розуван Алексей Михайлович": 269,
-      "Рязанов Александр Александрович": 54,
-      "Сергеенков Владимир Нилович": 67,
-      "Скачков Олег Владимирович": 105,
-      "Туруло Валерий Николаевич": 59,
-      "Шабалин Борис Андреевич": 39,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000220818": 69,
+      "gas:candidate-vibid:1001000112216": 146,
+      "gas:candidate-vibid:343300170559": 51,
+      "gas:candidate-vibid:1001000113937": 147,
+      "gas:candidate-vibid:1001000225944": 269,
+      "gas:candidate-vibid:1001000136064": 54,
+      "gas:candidate-vibid:343300170542": 67,
+      "gas:candidate-vibid:343300170358": 105,
+      "gas:candidate-vibid:1001000126642": 59,
+      "gas:candidate-vibid:1001000195083": 39,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 60,
-      "Иконников Дмитрий Геннадьевич": 109,
-      "Куликов Владимир Владимирович": 55,
-      "Поглазов Александр Павлович": 146,
-      "Розуван Алексей Михайлович": 266,
-      "Рязанов Александр Александрович": 47,
-      "Сергеенков Владимир Нилович": 83,
-      "Скачков Олег Владимирович": 111,
-      "Туруло Валерий Николаевич": 68,
-      "Шабалин Борис Андреевич": 21,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000220818": 60,
+      "gas:candidate-vibid:1001000112216": 109,
+      "gas:candidate-vibid:343300170559": 55,
+      "gas:candidate-vibid:1001000113937": 146,
+      "gas:candidate-vibid:1001000225944": 266,
+      "gas:candidate-vibid:1001000136064": 47,
+      "gas:candidate-vibid:343300170542": 83,
+      "gas:candidate-vibid:343300170358": 111,
+      "gas:candidate-vibid:1001000126642": 68,
+      "gas:candidate-vibid:1001000195083": 21,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 60,
-      "Иконников Дмитрий Геннадьевич": 112,
-      "Куликов Владимир Владимирович": 45,
-      "Поглазов Александр Павлович": 179,
-      "Розуван Алексей Михайлович": 335,
-      "Рязанов Александр Александрович": 72,
-      "Сергеенков Владимир Нилович": 135,
-      "Скачков Олег Владимирович": 122,
-      "Туруло Валерий Николаевич": 71,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000220818": 60,
+      "gas:candidate-vibid:1001000112216": 112,
+      "gas:candidate-vibid:343300170559": 45,
+      "gas:candidate-vibid:1001000113937": 179,
+      "gas:candidate-vibid:1001000225944": 335,
+      "gas:candidate-vibid:1001000136064": 72,
+      "gas:candidate-vibid:343300170542": 135,
+      "gas:candidate-vibid:343300170358": 122,
+      "gas:candidate-vibid:1001000126642": 71,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 101,
-      "Куликов Владимир Владимирович": 43,
-      "Поглазов Александр Павлович": 208,
-      "Розуван Алексей Михайлович": 288,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 53,
-      "Скачков Олег Владимирович": 90,
-      "Туруло Валерий Николаевич": 28,
-      "Шабалин Борис Андреевич": 22,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 101,
+      "gas:candidate-vibid:343300170559": 43,
+      "gas:candidate-vibid:1001000113937": 208,
+      "gas:candidate-vibid:1001000225944": 288,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 53,
+      "gas:candidate-vibid:343300170358": 90,
+      "gas:candidate-vibid:1001000126642": 28,
+      "gas:candidate-vibid:1001000195083": 22,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 48,
-      "Иконников Дмитрий Геннадьевич": 194,
-      "Куликов Владимир Владимирович": 62,
-      "Поглазов Александр Павлович": 191,
-      "Розуван Алексей Михайлович": 334,
-      "Рязанов Александр Александрович": 57,
-      "Сергеенков Владимир Нилович": 67,
-      "Скачков Олег Владимирович": 115,
-      "Туруло Валерий Николаевич": 50,
-      "Шабалин Борис Андреевич": 22,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000220818": 48,
+      "gas:candidate-vibid:1001000112216": 194,
+      "gas:candidate-vibid:343300170559": 62,
+      "gas:candidate-vibid:1001000113937": 191,
+      "gas:candidate-vibid:1001000225944": 334,
+      "gas:candidate-vibid:1001000136064": 57,
+      "gas:candidate-vibid:343300170542": 67,
+      "gas:candidate-vibid:343300170358": 115,
+      "gas:candidate-vibid:1001000126642": 50,
+      "gas:candidate-vibid:1001000195083": 22,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 31,
-      "Иконников Дмитрий Геннадьевич": 128,
-      "Куликов Владимир Владимирович": 51,
-      "Поглазов Александр Павлович": 145,
-      "Розуван Алексей Михайлович": 212,
-      "Рязанов Александр Александрович": 47,
-      "Сергеенков Владимир Нилович": 57,
-      "Скачков Олег Владимирович": 103,
-      "Туруло Валерий Николаевич": 51,
-      "Шабалин Борис Андреевич": 32,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000220818": 31,
+      "gas:candidate-vibid:1001000112216": 128,
+      "gas:candidate-vibid:343300170559": 51,
+      "gas:candidate-vibid:1001000113937": 145,
+      "gas:candidate-vibid:1001000225944": 212,
+      "gas:candidate-vibid:1001000136064": 47,
+      "gas:candidate-vibid:343300170542": 57,
+      "gas:candidate-vibid:343300170358": 103,
+      "gas:candidate-vibid:1001000126642": 51,
+      "gas:candidate-vibid:1001000195083": 32,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 54,
-      "Иконников Дмитрий Геннадьевич": 88,
-      "Куликов Владимир Владимирович": 38,
-      "Поглазов Александр Павлович": 193,
-      "Розуван Алексей Михайлович": 276,
-      "Рязанов Александр Александрович": 72,
-      "Сергеенков Владимир Нилович": 117,
-      "Скачков Олег Владимирович": 150,
-      "Туруло Валерий Николаевич": 73,
-      "Шабалин Борис Андреевич": 45,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000220818": 54,
+      "gas:candidate-vibid:1001000112216": 88,
+      "gas:candidate-vibid:343300170559": 38,
+      "gas:candidate-vibid:1001000113937": 193,
+      "gas:candidate-vibid:1001000225944": 276,
+      "gas:candidate-vibid:1001000136064": 72,
+      "gas:candidate-vibid:343300170542": 117,
+      "gas:candidate-vibid:343300170358": 150,
+      "gas:candidate-vibid:1001000126642": 73,
+      "gas:candidate-vibid:1001000195083": 45,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 26,
-      "Иконников Дмитрий Геннадьевич": 39,
-      "Куликов Владимир Владимирович": 38,
-      "Поглазов Александр Павлович": 108,
-      "Розуван Алексей Михайлович": 243,
-      "Рязанов Александр Александрович": 37,
-      "Сергеенков Владимир Нилович": 99,
-      "Скачков Олег Владимирович": 151,
-      "Туруло Валерий Николаевич": 31,
-      "Шабалин Борис Андреевич": 39,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000220818": 26,
+      "gas:candidate-vibid:1001000112216": 39,
+      "gas:candidate-vibid:343300170559": 38,
+      "gas:candidate-vibid:1001000113937": 108,
+      "gas:candidate-vibid:1001000225944": 243,
+      "gas:candidate-vibid:1001000136064": 37,
+      "gas:candidate-vibid:343300170542": 99,
+      "gas:candidate-vibid:343300170358": 151,
+      "gas:candidate-vibid:1001000126642": 31,
+      "gas:candidate-vibid:1001000195083": 39,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 42,
-      "Иконников Дмитрий Геннадьевич": 37,
-      "Куликов Владимир Владимирович": 31,
-      "Поглазов Александр Павлович": 86,
-      "Розуван Алексей Михайлович": 292,
-      "Рязанов Александр Александрович": 23,
-      "Сергеенков Владимир Нилович": 90,
-      "Скачков Олег Владимирович": 128,
-      "Туруло Валерий Николаевич": 22,
-      "Шабалин Борис Андреевич": 31,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000220818": 42,
+      "gas:candidate-vibid:1001000112216": 37,
+      "gas:candidate-vibid:343300170559": 31,
+      "gas:candidate-vibid:1001000113937": 86,
+      "gas:candidate-vibid:1001000225944": 292,
+      "gas:candidate-vibid:1001000136064": 23,
+      "gas:candidate-vibid:343300170542": 90,
+      "gas:candidate-vibid:343300170358": 128,
+      "gas:candidate-vibid:1001000126642": 22,
+      "gas:candidate-vibid:1001000195083": 31,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 22,
-      "Иконников Дмитрий Геннадьевич": 33,
-      "Куликов Владимир Владимирович": 44,
-      "Поглазов Александр Павлович": 78,
-      "Розуван Алексей Михайлович": 247,
-      "Рязанов Александр Александрович": 33,
-      "Сергеенков Владимир Нилович": 81,
-      "Скачков Олег Владимирович": 112,
-      "Туруло Валерий Николаевич": 26,
-      "Шабалин Борис Андреевич": 13,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000220818": 22,
+      "gas:candidate-vibid:1001000112216": 33,
+      "gas:candidate-vibid:343300170559": 44,
+      "gas:candidate-vibid:1001000113937": 78,
+      "gas:candidate-vibid:1001000225944": 247,
+      "gas:candidate-vibid:1001000136064": 33,
+      "gas:candidate-vibid:343300170542": 81,
+      "gas:candidate-vibid:343300170358": 112,
+      "gas:candidate-vibid:1001000126642": 26,
+      "gas:candidate-vibid:1001000195083": 13,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 39,
-      "Иконников Дмитрий Геннадьевич": 35,
-      "Куликов Владимир Владимирович": 32,
-      "Поглазов Александр Павлович": 83,
-      "Розуван Алексей Михайлович": 201,
-      "Рязанов Александр Александрович": 32,
-      "Сергеенков Владимир Нилович": 90,
-      "Скачков Олег Владимирович": 117,
-      "Туруло Валерий Николаевич": 33,
-      "Шабалин Борис Андреевич": 36,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000220818": 39,
+      "gas:candidate-vibid:1001000112216": 35,
+      "gas:candidate-vibid:343300170559": 32,
+      "gas:candidate-vibid:1001000113937": 83,
+      "gas:candidate-vibid:1001000225944": 201,
+      "gas:candidate-vibid:1001000136064": 32,
+      "gas:candidate-vibid:343300170542": 90,
+      "gas:candidate-vibid:343300170358": 117,
+      "gas:candidate-vibid:1001000126642": 33,
+      "gas:candidate-vibid:1001000195083": 36,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 11,
-      "Иконников Дмитрий Геннадьевич": 22,
-      "Куликов Владимир Владимирович": 4,
-      "Поглазов Александр Павлович": 37,
-      "Розуван Алексей Михайлович": 49,
-      "Рязанов Александр Александрович": 17,
-      "Сергеенков Владимир Нилович": 30,
-      "Скачков Олег Владимирович": 44,
-      "Туруло Валерий Николаевич": 14,
-      "Шабалин Борис Андреевич": 8,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000220818": 11,
+      "gas:candidate-vibid:1001000112216": 22,
+      "gas:candidate-vibid:343300170559": 4,
+      "gas:candidate-vibid:1001000113937": 37,
+      "gas:candidate-vibid:1001000225944": 49,
+      "gas:candidate-vibid:1001000136064": 17,
+      "gas:candidate-vibid:343300170542": 30,
+      "gas:candidate-vibid:343300170358": 44,
+      "gas:candidate-vibid:1001000126642": 14,
+      "gas:candidate-vibid:1001000195083": 8,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 31,
-      "Иконников Дмитрий Геннадьевич": 42,
-      "Куликов Владимир Владимирович": 75,
-      "Поглазов Александр Павлович": 119,
-      "Розуван Алексей Михайлович": 292,
-      "Рязанов Александр Александрович": 50,
-      "Сергеенков Владимир Нилович": 199,
-      "Скачков Олег Владимирович": 156,
-      "Туруло Валерий Николаевич": 45,
-      "Шабалин Борис Андреевич": 49,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000220818": 31,
+      "gas:candidate-vibid:1001000112216": 42,
+      "gas:candidate-vibid:343300170559": 75,
+      "gas:candidate-vibid:1001000113937": 119,
+      "gas:candidate-vibid:1001000225944": 292,
+      "gas:candidate-vibid:1001000136064": 50,
+      "gas:candidate-vibid:343300170542": 199,
+      "gas:candidate-vibid:343300170358": 156,
+      "gas:candidate-vibid:1001000126642": 45,
+      "gas:candidate-vibid:1001000195083": 49,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 32,
-      "Иконников Дмитрий Геннадьевич": 27,
-      "Куликов Владимир Владимирович": 36,
-      "Поглазов Александр Павлович": 46,
-      "Розуван Алексей Михайлович": 212,
-      "Рязанов Александр Александрович": 32,
-      "Сергеенков Владимир Нилович": 56,
-      "Скачков Олег Владимирович": 88,
-      "Туруло Валерий Николаевич": 34,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000220818": 32,
+      "gas:candidate-vibid:1001000112216": 27,
+      "gas:candidate-vibid:343300170559": 36,
+      "gas:candidate-vibid:1001000113937": 46,
+      "gas:candidate-vibid:1001000225944": 212,
+      "gas:candidate-vibid:1001000136064": 32,
+      "gas:candidate-vibid:343300170542": 56,
+      "gas:candidate-vibid:343300170358": 88,
+      "gas:candidate-vibid:1001000126642": 34,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 7,
-      "Иконников Дмитрий Геннадьевич": 6,
-      "Куликов Владимир Владимирович": 4,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 8,
-      "Рязанов Александр Александрович": 3,
-      "Сергеенков Владимир Нилович": 13,
-      "Скачков Олег Владимирович": 7,
-      "Туруло Валерий Николаевич": 8,
-      "Шабалин Борис Андреевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220818": 7,
+      "gas:candidate-vibid:1001000112216": 6,
+      "gas:candidate-vibid:343300170559": 4,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 8,
+      "gas:candidate-vibid:1001000136064": 3,
+      "gas:candidate-vibid:343300170542": 13,
+      "gas:candidate-vibid:343300170358": 7,
+      "gas:candidate-vibid:1001000126642": 8,
+      "gas:candidate-vibid:1001000195083": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 5,
-      "Иконников Дмитрий Геннадьевич": 6,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 8,
-      "Розуван Алексей Михайлович": 18,
-      "Рязанов Александр Александрович": 9,
-      "Сергеенков Владимир Нилович": 21,
-      "Скачков Олег Владимирович": 12,
-      "Туруло Валерий Николаевич": 9,
-      "Шабалин Борис Андреевич": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000220818": 5,
+      "gas:candidate-vibid:1001000112216": 6,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 8,
+      "gas:candidate-vibid:1001000225944": 18,
+      "gas:candidate-vibid:1001000136064": 9,
+      "gas:candidate-vibid:343300170542": 21,
+      "gas:candidate-vibid:343300170358": 12,
+      "gas:candidate-vibid:1001000126642": 9,
+      "gas:candidate-vibid:1001000195083": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 3,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 10,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 1,
-      "Скачков Олег Владимирович": 4,
-      "Туруло Валерий Николаевич": 5,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 3,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 10,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 1,
+      "gas:candidate-vibid:343300170358": 4,
+      "gas:candidate-vibid:1001000126642": 5,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 0,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 2,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 9,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 0,
-      "Скачков Олег Владимирович": 1,
-      "Туруло Валерий Николаевич": 0,
-      "Шабалин Борис Андреевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220818": 0,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 2,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 9,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 0,
+      "gas:candidate-vibid:343300170358": 1,
+      "gas:candidate-vibid:1001000126642": 0,
+      "gas:candidate-vibid:1001000195083": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 5,
-      "Куликов Владимир Владимирович": 2,
-      "Поглазов Александр Павлович": 5,
-      "Розуван Алексей Михайлович": 5,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 4,
-      "Скачков Олег Владимирович": 4,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 5,
+      "gas:candidate-vibid:343300170559": 2,
+      "gas:candidate-vibid:1001000113937": 5,
+      "gas:candidate-vibid:1001000225944": 5,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 4,
+      "gas:candidate-vibid:343300170358": 4,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 3,
-      "Иконников Дмитрий Геннадьевич": 9,
-      "Куликов Владимир Владимирович": 3,
-      "Поглазов Александр Павлович": 9,
-      "Розуван Алексей Михайлович": 12,
-      "Рязанов Александр Александрович": 6,
-      "Сергеенков Владимир Нилович": 7,
-      "Скачков Олег Владимирович": 6,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000220818": 3,
+      "gas:candidate-vibid:1001000112216": 9,
+      "gas:candidate-vibid:343300170559": 3,
+      "gas:candidate-vibid:1001000113937": 9,
+      "gas:candidate-vibid:1001000225944": 12,
+      "gas:candidate-vibid:1001000136064": 6,
+      "gas:candidate-vibid:343300170542": 7,
+      "gas:candidate-vibid:343300170358": 6,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 6,
-      "Иконников Дмитрий Геннадьевич": 33,
-      "Куликов Владимир Владимирович": 6,
-      "Поглазов Александр Павлович": 10,
-      "Розуван Алексей Михайлович": 26,
-      "Рязанов Александр Александрович": 6,
-      "Сергеенков Владимир Нилович": 27,
-      "Скачков Олег Владимирович": 25,
-      "Туруло Валерий Николаевич": 7,
-      "Шабалин Борис Андреевич": 20,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000220818": 6,
+      "gas:candidate-vibid:1001000112216": 33,
+      "gas:candidate-vibid:343300170559": 6,
+      "gas:candidate-vibid:1001000113937": 10,
+      "gas:candidate-vibid:1001000225944": 26,
+      "gas:candidate-vibid:1001000136064": 6,
+      "gas:candidate-vibid:343300170542": 27,
+      "gas:candidate-vibid:343300170358": 25,
+      "gas:candidate-vibid:1001000126642": 7,
+      "gas:candidate-vibid:1001000195083": 20,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 0,
-      "Иконников Дмитрий Геннадьевич": 4,
-      "Куликов Владимир Владимирович": 2,
-      "Поглазов Александр Павлович": 3,
-      "Розуван Алексей Михайлович": 4,
-      "Рязанов Александр Александрович": 1,
-      "Сергеенков Владимир Нилович": 4,
-      "Скачков Олег Владимирович": 6,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220818": 0,
+      "gas:candidate-vibid:1001000112216": 4,
+      "gas:candidate-vibid:343300170559": 2,
+      "gas:candidate-vibid:1001000113937": 3,
+      "gas:candidate-vibid:1001000225944": 4,
+      "gas:candidate-vibid:1001000136064": 1,
+      "gas:candidate-vibid:343300170542": 4,
+      "gas:candidate-vibid:343300170358": 6,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 0,
-      "Иконников Дмитрий Геннадьевич": 4,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 3,
-      "Розуван Алексей Михайлович": 5,
-      "Рязанов Александр Александрович": 1,
-      "Сергеенков Владимир Нилович": 5,
-      "Скачков Олег Владимирович": 4,
-      "Туруло Валерий Николаевич": 6,
-      "Шабалин Борис Андреевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220818": 0,
+      "gas:candidate-vibid:1001000112216": 4,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 3,
+      "gas:candidate-vibid:1001000225944": 5,
+      "gas:candidate-vibid:1001000136064": 1,
+      "gas:candidate-vibid:343300170542": 5,
+      "gas:candidate-vibid:343300170358": 4,
+      "gas:candidate-vibid:1001000126642": 6,
+      "gas:candidate-vibid:1001000195083": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070813&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 21,
-      "Иконников Дмитрий Геннадьевич": 25,
-      "Куликов Владимир Владимирович": 26,
-      "Поглазов Александр Павлович": 43,
-      "Розуван Алексей Михайлович": 100,
-      "Рязанов Александр Александрович": 24,
-      "Сергеенков Владимир Нилович": 59,
-      "Скачков Олег Владимирович": 55,
-      "Туруло Валерий Николаевич": 30,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000220818": 21,
+      "gas:candidate-vibid:1001000112216": 25,
+      "gas:candidate-vibid:343300170559": 26,
+      "gas:candidate-vibid:1001000113937": 43,
+      "gas:candidate-vibid:1001000225944": 100,
+      "gas:candidate-vibid:1001000136064": 24,
+      "gas:candidate-vibid:343300170542": 59,
+      "gas:candidate-vibid:343300170358": 55,
+      "gas:candidate-vibid:1001000126642": 30,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 36,
-      "Иконников Дмитрий Геннадьевич": 11,
-      "Куликов Владимир Владимирович": 30,
-      "Поглазов Александр Павлович": 26,
-      "Розуван Алексей Михайлович": 87,
-      "Рязанов Александр Александрович": 22,
-      "Сергеенков Владимир Нилович": 39,
-      "Скачков Олег Владимирович": 46,
-      "Туруло Валерий Николаевич": 27,
-      "Шабалин Борис Андреевич": 19,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000220818": 36,
+      "gas:candidate-vibid:1001000112216": 11,
+      "gas:candidate-vibid:343300170559": 30,
+      "gas:candidate-vibid:1001000113937": 26,
+      "gas:candidate-vibid:1001000225944": 87,
+      "gas:candidate-vibid:1001000136064": 22,
+      "gas:candidate-vibid:343300170542": 39,
+      "gas:candidate-vibid:343300170358": 46,
+      "gas:candidate-vibid:1001000126642": 27,
+      "gas:candidate-vibid:1001000195083": 19,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 3,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 6,
-      "Поглазов Александр Павлович": 9,
-      "Розуван Алексей Михайлович": 15,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 12,
-      "Скачков Олег Владимирович": 13,
-      "Туруло Валерий Николаевич": 3,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220818": 3,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 6,
+      "gas:candidate-vibid:1001000113937": 9,
+      "gas:candidate-vibid:1001000225944": 15,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 12,
+      "gas:candidate-vibid:343300170358": 13,
+      "gas:candidate-vibid:1001000126642": 3,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 29,
-      "Иконников Дмитрий Геннадьевич": 42,
-      "Куликов Владимир Владимирович": 43,
-      "Поглазов Александр Павлович": 110,
-      "Розуван Алексей Михайлович": 239,
-      "Рязанов Александр Александрович": 34,
-      "Сергеенков Владимир Нилович": 138,
-      "Скачков Олег Владимирович": 121,
-      "Туруло Валерий Николаевич": 66,
-      "Шабалин Борис Андреевич": 29,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000220818": 29,
+      "gas:candidate-vibid:1001000112216": 42,
+      "gas:candidate-vibid:343300170559": 43,
+      "gas:candidate-vibid:1001000113937": 110,
+      "gas:candidate-vibid:1001000225944": 239,
+      "gas:candidate-vibid:1001000136064": 34,
+      "gas:candidate-vibid:343300170542": 138,
+      "gas:candidate-vibid:343300170358": 121,
+      "gas:candidate-vibid:1001000126642": 66,
+      "gas:candidate-vibid:1001000195083": 29,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 42,
-      "Иконников Дмитрий Геннадьевич": 135,
-      "Куликов Владимир Владимирович": 76,
-      "Поглазов Александр Павлович": 107,
-      "Розуван Алексей Михайлович": 271,
-      "Рязанов Александр Александрович": 53,
-      "Сергеенков Владимир Нилович": 183,
-      "Скачков Олег Владимирович": 165,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 67,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000220818": 42,
+      "gas:candidate-vibid:1001000112216": 135,
+      "gas:candidate-vibid:343300170559": 76,
+      "gas:candidate-vibid:1001000113937": 107,
+      "gas:candidate-vibid:1001000225944": 271,
+      "gas:candidate-vibid:1001000136064": 53,
+      "gas:candidate-vibid:343300170542": 183,
+      "gas:candidate-vibid:343300170358": 165,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 67,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 27,
-      "Иконников Дмитрий Геннадьевич": 93,
-      "Куликов Владимир Владимирович": 43,
-      "Поглазов Александр Павлович": 72,
-      "Розуван Алексей Михайлович": 198,
-      "Рязанов Александр Александрович": 36,
-      "Сергеенков Владимир Нилович": 72,
-      "Скачков Олег Владимирович": 105,
-      "Туруло Валерий Николаевич": 41,
-      "Шабалин Борис Андреевич": 31,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000220818": 27,
+      "gas:candidate-vibid:1001000112216": 93,
+      "gas:candidate-vibid:343300170559": 43,
+      "gas:candidate-vibid:1001000113937": 72,
+      "gas:candidate-vibid:1001000225944": 198,
+      "gas:candidate-vibid:1001000136064": 36,
+      "gas:candidate-vibid:343300170542": 72,
+      "gas:candidate-vibid:343300170358": 105,
+      "gas:candidate-vibid:1001000126642": 41,
+      "gas:candidate-vibid:1001000195083": 31,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 58,
-      "Иконников Дмитрий Геннадьевич": 100,
-      "Куликов Владимир Владимирович": 70,
-      "Поглазов Александр Павлович": 192,
-      "Розуван Алексей Михайлович": 350,
-      "Рязанов Александр Александрович": 56,
-      "Сергеенков Владимир Нилович": 176,
-      "Скачков Олег Владимирович": 204,
-      "Туруло Валерий Николаевич": 84,
-      "Шабалин Борис Андреевич": 51,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000220818": 58,
+      "gas:candidate-vibid:1001000112216": 100,
+      "gas:candidate-vibid:343300170559": 70,
+      "gas:candidate-vibid:1001000113937": 192,
+      "gas:candidate-vibid:1001000225944": 350,
+      "gas:candidate-vibid:1001000136064": 56,
+      "gas:candidate-vibid:343300170542": 176,
+      "gas:candidate-vibid:343300170358": 204,
+      "gas:candidate-vibid:1001000126642": 84,
+      "gas:candidate-vibid:1001000195083": 51,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 37,
-      "Иконников Дмитрий Геннадьевич": 69,
-      "Куликов Владимир Владимирович": 69,
-      "Поглазов Александр Павлович": 139,
-      "Розуван Алексей Михайлович": 299,
-      "Рязанов Александр Александрович": 48,
-      "Сергеенков Владимир Нилович": 240,
-      "Скачков Олег Владимирович": 180,
-      "Туруло Валерий Николаевич": 87,
-      "Шабалин Борис Андреевич": 42,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000220818": 37,
+      "gas:candidate-vibid:1001000112216": 69,
+      "gas:candidate-vibid:343300170559": 69,
+      "gas:candidate-vibid:1001000113937": 139,
+      "gas:candidate-vibid:1001000225944": 299,
+      "gas:candidate-vibid:1001000136064": 48,
+      "gas:candidate-vibid:343300170542": 240,
+      "gas:candidate-vibid:343300170358": 180,
+      "gas:candidate-vibid:1001000126642": 87,
+      "gas:candidate-vibid:1001000195083": 42,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 29,
-      "Иконников Дмитрий Геннадьевич": 80,
-      "Куликов Владимир Владимирович": 81,
-      "Поглазов Александр Павлович": 161,
-      "Розуван Алексей Михайлович": 351,
-      "Рязанов Александр Александрович": 52,
-      "Сергеенков Владимир Нилович": 131,
-      "Скачков Олег Владимирович": 259,
-      "Туруло Валерий Николаевич": 86,
-      "Шабалин Борис Андреевич": 48,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000220818": 29,
+      "gas:candidate-vibid:1001000112216": 80,
+      "gas:candidate-vibid:343300170559": 81,
+      "gas:candidate-vibid:1001000113937": 161,
+      "gas:candidate-vibid:1001000225944": 351,
+      "gas:candidate-vibid:1001000136064": 52,
+      "gas:candidate-vibid:343300170542": 131,
+      "gas:candidate-vibid:343300170358": 259,
+      "gas:candidate-vibid:1001000126642": 86,
+      "gas:candidate-vibid:1001000195083": 48,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 42,
-      "Иконников Дмитрий Геннадьевич": 65,
-      "Куликов Владимир Владимирович": 83,
-      "Поглазов Александр Павлович": 142,
-      "Розуван Алексей Михайлович": 288,
-      "Рязанов Александр Александрович": 49,
-      "Сергеенков Владимир Нилович": 191,
-      "Скачков Олег Владимирович": 183,
-      "Туруло Валерий Николаевич": 78,
-      "Шабалин Борис Андреевич": 58,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000220818": 42,
+      "gas:candidate-vibid:1001000112216": 65,
+      "gas:candidate-vibid:343300170559": 83,
+      "gas:candidate-vibid:1001000113937": 142,
+      "gas:candidate-vibid:1001000225944": 288,
+      "gas:candidate-vibid:1001000136064": 49,
+      "gas:candidate-vibid:343300170542": 191,
+      "gas:candidate-vibid:343300170358": 183,
+      "gas:candidate-vibid:1001000126642": 78,
+      "gas:candidate-vibid:1001000195083": 58,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 26,
-      "Иконников Дмитрий Геннадьевич": 25,
-      "Куликов Владимир Владимирович": 54,
-      "Поглазов Александр Павлович": 58,
-      "Розуван Алексей Михайлович": 211,
-      "Рязанов Александр Александрович": 34,
-      "Сергеенков Владимир Нилович": 125,
-      "Скачков Олег Владимирович": 130,
-      "Туруло Валерий Николаевич": 30,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000220818": 26,
+      "gas:candidate-vibid:1001000112216": 25,
+      "gas:candidate-vibid:343300170559": 54,
+      "gas:candidate-vibid:1001000113937": 58,
+      "gas:candidate-vibid:1001000225944": 211,
+      "gas:candidate-vibid:1001000136064": 34,
+      "gas:candidate-vibid:343300170542": 125,
+      "gas:candidate-vibid:343300170358": 130,
+      "gas:candidate-vibid:1001000126642": 30,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 33,
-      "Иконников Дмитрий Геннадьевич": 64,
-      "Куликов Владимир Владимирович": 76,
-      "Поглазов Александр Павлович": 162,
-      "Розуван Алексей Михайлович": 275,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 158,
-      "Скачков Олег Владимирович": 214,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 57,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000220818": 33,
+      "gas:candidate-vibid:1001000112216": 64,
+      "gas:candidate-vibid:343300170559": 76,
+      "gas:candidate-vibid:1001000113937": 162,
+      "gas:candidate-vibid:1001000225944": 275,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 158,
+      "gas:candidate-vibid:343300170358": 214,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 57,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 52,
-      "Куликов Владимир Владимирович": 63,
-      "Поглазов Александр Павлович": 100,
-      "Розуван Алексей Михайлович": 203,
-      "Рязанов Александр Александрович": 61,
-      "Сергеенков Владимир Нилович": 188,
-      "Скачков Олег Владимирович": 139,
-      "Туруло Валерий Николаевич": 47,
-      "Шабалин Борис Андреевич": 52,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 52,
+      "gas:candidate-vibid:343300170559": 63,
+      "gas:candidate-vibid:1001000113937": 100,
+      "gas:candidate-vibid:1001000225944": 203,
+      "gas:candidate-vibid:1001000136064": 61,
+      "gas:candidate-vibid:343300170542": 188,
+      "gas:candidate-vibid:343300170358": 139,
+      "gas:candidate-vibid:1001000126642": 47,
+      "gas:candidate-vibid:1001000195083": 52,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 59,
-      "Иконников Дмитрий Геннадьевич": 70,
-      "Куликов Владимир Владимирович": 80,
-      "Поглазов Александр Павлович": 155,
-      "Розуван Алексей Михайлович": 311,
-      "Рязанов Александр Александрович": 78,
-      "Сергеенков Владимир Нилович": 141,
-      "Скачков Олег Владимирович": 181,
-      "Туруло Валерий Николаевич": 69,
-      "Шабалин Борис Андреевич": 49,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000220818": 59,
+      "gas:candidate-vibid:1001000112216": 70,
+      "gas:candidate-vibid:343300170559": 80,
+      "gas:candidate-vibid:1001000113937": 155,
+      "gas:candidate-vibid:1001000225944": 311,
+      "gas:candidate-vibid:1001000136064": 78,
+      "gas:candidate-vibid:343300170542": 141,
+      "gas:candidate-vibid:343300170358": 181,
+      "gas:candidate-vibid:1001000126642": 69,
+      "gas:candidate-vibid:1001000195083": 49,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 58,
-      "Иконников Дмитрий Геннадьевич": 68,
-      "Куликов Владимир Владимирович": 81,
-      "Поглазов Александр Павлович": 145,
-      "Розуван Алексей Михайлович": 297,
-      "Рязанов Александр Александрович": 77,
-      "Сергеенков Владимир Нилович": 168,
-      "Скачков Олег Владимирович": 188,
-      "Туруло Валерий Николаевич": 54,
-      "Шабалин Борис Андреевич": 61,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000220818": 58,
+      "gas:candidate-vibid:1001000112216": 68,
+      "gas:candidate-vibid:343300170559": 81,
+      "gas:candidate-vibid:1001000113937": 145,
+      "gas:candidate-vibid:1001000225944": 297,
+      "gas:candidate-vibid:1001000136064": 77,
+      "gas:candidate-vibid:343300170542": 168,
+      "gas:candidate-vibid:343300170358": 188,
+      "gas:candidate-vibid:1001000126642": 54,
+      "gas:candidate-vibid:1001000195083": 61,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 46,
-      "Иконников Дмитрий Геннадьевич": 107,
-      "Куликов Владимир Владимирович": 67,
-      "Поглазов Александр Павлович": 112,
-      "Розуван Алексей Михайлович": 224,
-      "Рязанов Александр Александрович": 43,
-      "Сергеенков Владимир Нилович": 96,
-      "Скачков Олег Владимирович": 116,
-      "Туруло Валерий Николаевич": 62,
-      "Шабалин Борис Андреевич": 36,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000220818": 46,
+      "gas:candidate-vibid:1001000112216": 107,
+      "gas:candidate-vibid:343300170559": 67,
+      "gas:candidate-vibid:1001000113937": 112,
+      "gas:candidate-vibid:1001000225944": 224,
+      "gas:candidate-vibid:1001000136064": 43,
+      "gas:candidate-vibid:343300170542": 96,
+      "gas:candidate-vibid:343300170358": 116,
+      "gas:candidate-vibid:1001000126642": 62,
+      "gas:candidate-vibid:1001000195083": 36,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 46,
-      "Иконников Дмитрий Геннадьевич": 117,
-      "Куликов Владимир Владимирович": 57,
-      "Поглазов Александр Павлович": 94,
-      "Розуван Алексей Михайлович": 216,
-      "Рязанов Александр Александрович": 45,
-      "Сергеенков Владимир Нилович": 104,
-      "Скачков Олег Владимирович": 111,
-      "Туруло Валерий Николаевич": 38,
-      "Шабалин Борис Андреевич": 22,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000220818": 46,
+      "gas:candidate-vibid:1001000112216": 117,
+      "gas:candidate-vibid:343300170559": 57,
+      "gas:candidate-vibid:1001000113937": 94,
+      "gas:candidate-vibid:1001000225944": 216,
+      "gas:candidate-vibid:1001000136064": 45,
+      "gas:candidate-vibid:343300170542": 104,
+      "gas:candidate-vibid:343300170358": 111,
+      "gas:candidate-vibid:1001000126642": 38,
+      "gas:candidate-vibid:1001000195083": 22,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 60,
-      "Иконников Дмитрий Геннадьевич": 94,
-      "Куликов Владимир Владимирович": 57,
-      "Поглазов Александр Павлович": 104,
-      "Розуван Алексей Михайлович": 254,
-      "Рязанов Александр Александрович": 56,
-      "Сергеенков Владимир Нилович": 106,
-      "Скачков Олег Владимирович": 106,
-      "Туруло Валерий Николаевич": 40,
-      "Шабалин Борис Андреевич": 24,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000220818": 60,
+      "gas:candidate-vibid:1001000112216": 94,
+      "gas:candidate-vibid:343300170559": 57,
+      "gas:candidate-vibid:1001000113937": 104,
+      "gas:candidate-vibid:1001000225944": 254,
+      "gas:candidate-vibid:1001000136064": 56,
+      "gas:candidate-vibid:343300170542": 106,
+      "gas:candidate-vibid:343300170358": 106,
+      "gas:candidate-vibid:1001000126642": 40,
+      "gas:candidate-vibid:1001000195083": 24,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 48,
-      "Иконников Дмитрий Геннадьевич": 117,
-      "Куликов Владимир Владимирович": 87,
-      "Поглазов Александр Павлович": 86,
-      "Розуван Алексей Михайлович": 254,
-      "Рязанов Александр Александрович": 58,
-      "Сергеенков Владимир Нилович": 131,
-      "Скачков Олег Владимирович": 118,
-      "Туруло Валерий Николаевич": 34,
-      "Шабалин Борис Андреевич": 37,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000220818": 48,
+      "gas:candidate-vibid:1001000112216": 117,
+      "gas:candidate-vibid:343300170559": 87,
+      "gas:candidate-vibid:1001000113937": 86,
+      "gas:candidate-vibid:1001000225944": 254,
+      "gas:candidate-vibid:1001000136064": 58,
+      "gas:candidate-vibid:343300170542": 131,
+      "gas:candidate-vibid:343300170358": 118,
+      "gas:candidate-vibid:1001000126642": 34,
+      "gas:candidate-vibid:1001000195083": 37,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070814&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 5,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 3,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 2,
-      "Скачков Олег Владимирович": 1,
-      "Туруло Валерий Николаевич": 0,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 5,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 3,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 2,
+      "gas:candidate-vibid:343300170358": 1,
+      "gas:candidate-vibid:1001000126642": 0,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 5,
-      "Иконников Дмитрий Геннадьевич": 4,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 20,
-      "Рязанов Александр Александрович": 3,
-      "Сергеенков Владимир Нилович": 11,
-      "Скачков Олег Владимирович": 5,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000220818": 5,
+      "gas:candidate-vibid:1001000112216": 4,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 20,
+      "gas:candidate-vibid:1001000136064": 3,
+      "gas:candidate-vibid:343300170542": 11,
+      "gas:candidate-vibid:343300170358": 5,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 7,
-      "Иконников Дмитрий Геннадьевич": 11,
-      "Куликов Владимир Владимирович": 5,
-      "Поглазов Александр Павлович": 8,
-      "Розуван Алексей Михайлович": 45,
-      "Рязанов Александр Александрович": 6,
-      "Сергеенков Владимир Нилович": 19,
-      "Скачков Олег Владимирович": 7,
-      "Туруло Валерий Николаевич": 9,
-      "Шабалин Борис Андреевич": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000220818": 7,
+      "gas:candidate-vibid:1001000112216": 11,
+      "gas:candidate-vibid:343300170559": 5,
+      "gas:candidate-vibid:1001000113937": 8,
+      "gas:candidate-vibid:1001000225944": 45,
+      "gas:candidate-vibid:1001000136064": 6,
+      "gas:candidate-vibid:343300170542": 19,
+      "gas:candidate-vibid:343300170358": 7,
+      "gas:candidate-vibid:1001000126642": 9,
+      "gas:candidate-vibid:1001000195083": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 3,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 15,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 20,
-      "Скачков Олег Владимирович": 4,
-      "Туруло Валерий Николаевич": 10,
-      "Шабалин Борис Андреевич": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 3,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 15,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 20,
+      "gas:candidate-vibid:343300170358": 4,
+      "gas:candidate-vibid:1001000126642": 10,
+      "gas:candidate-vibid:1001000195083": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 3,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 2,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 11,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 8,
-      "Скачков Олег Владимирович": 3,
-      "Туруло Валерий Николаевич": 3,
-      "Шабалин Борис Андреевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220818": 3,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 2,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 11,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 8,
+      "gas:candidate-vibid:343300170358": 3,
+      "gas:candidate-vibid:1001000126642": 3,
+      "gas:candidate-vibid:1001000195083": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 15,
-      "Куликов Владимир Владимирович": 2,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 10,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 6,
-      "Скачков Олег Владимирович": 4,
-      "Туруло Валерий Николаевич": 4,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 15,
+      "gas:candidate-vibid:343300170559": 2,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 10,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 6,
+      "gas:candidate-vibid:343300170358": 4,
+      "gas:candidate-vibid:1001000126642": 4,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 4,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 0,
-      "Поглазов Александр Павлович": 1,
-      "Розуван Алексей Михайлович": 1,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 5,
-      "Скачков Олег Владимирович": 2,
-      "Туруло Валерий Николаевич": 3,
-      "Шабалин Борис Андреевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000220818": 4,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 0,
+      "gas:candidate-vibid:1001000113937": 1,
+      "gas:candidate-vibid:1001000225944": 1,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 5,
+      "gas:candidate-vibid:343300170358": 2,
+      "gas:candidate-vibid:1001000126642": 3,
+      "gas:candidate-vibid:1001000195083": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 0,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 14,
-      "Рязанов Александр Александрович": 4,
-      "Сергеенков Владимир Нилович": 1,
-      "Скачков Олег Владимирович": 1,
-      "Туруло Валерий Николаевич": 4,
-      "Шабалин Борис Андреевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 0,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 14,
+      "gas:candidate-vibid:1001000136064": 4,
+      "gas:candidate-vibid:343300170542": 1,
+      "gas:candidate-vibid:343300170358": 1,
+      "gas:candidate-vibid:1001000126642": 4,
+      "gas:candidate-vibid:1001000195083": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 4,
-      "Иконников Дмитрий Геннадьевич": 0,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 6,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 5,
-      "Скачков Олег Владимирович": 2,
-      "Туруло Валерий Николаевич": 5,
-      "Шабалин Борис Андреевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220818": 4,
+      "gas:candidate-vibid:1001000112216": 0,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 6,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 5,
+      "gas:candidate-vibid:343300170358": 2,
+      "gas:candidate-vibid:1001000126642": 5,
+      "gas:candidate-vibid:1001000195083": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 0,
-      "Поглазов Александр Павлович": 1,
-      "Розуван Алексей Михайлович": 2,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 0,
-      "Скачков Олег Владимирович": 3,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 0,
+      "gas:candidate-vibid:1001000113937": 1,
+      "gas:candidate-vibid:1001000225944": 2,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 0,
+      "gas:candidate-vibid:343300170358": 3,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 76,
-      "Иконников Дмитрий Геннадьевич": 103,
-      "Куликов Владимир Владимирович": 62,
-      "Поглазов Александр Павлович": 154,
-      "Розуван Алексей Михайлович": 332,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 121,
-      "Скачков Олег Владимирович": 116,
-      "Туруло Валерий Николаевич": 74,
-      "Шабалин Борис Андреевич": 38,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000220818": 76,
+      "gas:candidate-vibid:1001000112216": 103,
+      "gas:candidate-vibid:343300170559": 62,
+      "gas:candidate-vibid:1001000113937": 154,
+      "gas:candidate-vibid:1001000225944": 332,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 121,
+      "gas:candidate-vibid:343300170358": 116,
+      "gas:candidate-vibid:1001000126642": 74,
+      "gas:candidate-vibid:1001000195083": 38,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 25,
-      "Иконников Дмитрий Геннадьевич": 87,
-      "Куликов Владимир Владимирович": 40,
-      "Поглазов Александр Павлович": 87,
-      "Розуван Алексей Михайлович": 153,
-      "Рязанов Александр Александрович": 39,
-      "Сергеенков Владимир Нилович": 77,
-      "Скачков Олег Владимирович": 79,
-      "Туруло Валерий Николаевич": 58,
-      "Шабалин Борис Андреевич": 18,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000220818": 25,
+      "gas:candidate-vibid:1001000112216": 87,
+      "gas:candidate-vibid:343300170559": 40,
+      "gas:candidate-vibid:1001000113937": 87,
+      "gas:candidate-vibid:1001000225944": 153,
+      "gas:candidate-vibid:1001000136064": 39,
+      "gas:candidate-vibid:343300170542": 77,
+      "gas:candidate-vibid:343300170358": 79,
+      "gas:candidate-vibid:1001000126642": 58,
+      "gas:candidate-vibid:1001000195083": 18,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 13,
-      "Иконников Дмитрий Геннадьевич": 66,
-      "Куликов Владимир Владимирович": 32,
-      "Поглазов Александр Павлович": 74,
-      "Розуван Алексей Михайлович": 132,
-      "Рязанов Александр Александрович": 13,
-      "Сергеенков Владимир Нилович": 86,
-      "Скачков Олег Владимирович": 47,
-      "Туруло Валерий Николаевич": 52,
-      "Шабалин Борис Андреевич": 9,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000220818": 13,
+      "gas:candidate-vibid:1001000112216": 66,
+      "gas:candidate-vibid:343300170559": 32,
+      "gas:candidate-vibid:1001000113937": 74,
+      "gas:candidate-vibid:1001000225944": 132,
+      "gas:candidate-vibid:1001000136064": 13,
+      "gas:candidate-vibid:343300170542": 86,
+      "gas:candidate-vibid:343300170358": 47,
+      "gas:candidate-vibid:1001000126642": 52,
+      "gas:candidate-vibid:1001000195083": 9,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 24,
-      "Иконников Дмитрий Геннадьевич": 120,
-      "Куликов Владимир Владимирович": 34,
-      "Поглазов Александр Павлович": 80,
-      "Розуван Алексей Михайлович": 103,
-      "Рязанов Александр Александрович": 26,
-      "Сергеенков Владимир Нилович": 67,
-      "Скачков Олег Владимирович": 59,
-      "Туруло Валерий Николаевич": 32,
-      "Шабалин Борис Андреевич": 23,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000220818": 24,
+      "gas:candidate-vibid:1001000112216": 120,
+      "gas:candidate-vibid:343300170559": 34,
+      "gas:candidate-vibid:1001000113937": 80,
+      "gas:candidate-vibid:1001000225944": 103,
+      "gas:candidate-vibid:1001000136064": 26,
+      "gas:candidate-vibid:343300170542": 67,
+      "gas:candidate-vibid:343300170358": 59,
+      "gas:candidate-vibid:1001000126642": 32,
+      "gas:candidate-vibid:1001000195083": 23,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 45,
-      "Иконников Дмитрий Геннадьевич": 169,
-      "Куликов Владимир Владимирович": 55,
-      "Поглазов Александр Павлович": 141,
-      "Розуван Алексей Михайлович": 283,
-      "Рязанов Александр Александрович": 51,
-      "Сергеенков Владимир Нилович": 139,
-      "Скачков Олег Владимирович": 129,
-      "Туруло Валерий Николаевич": 78,
-      "Шабалин Борис Андреевич": 27,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000220818": 45,
+      "gas:candidate-vibid:1001000112216": 169,
+      "gas:candidate-vibid:343300170559": 55,
+      "gas:candidate-vibid:1001000113937": 141,
+      "gas:candidate-vibid:1001000225944": 283,
+      "gas:candidate-vibid:1001000136064": 51,
+      "gas:candidate-vibid:343300170542": 139,
+      "gas:candidate-vibid:343300170358": 129,
+      "gas:candidate-vibid:1001000126642": 78,
+      "gas:candidate-vibid:1001000195083": 27,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 42,
-      "Иконников Дмитрий Геннадьевич": 186,
-      "Куликов Владимир Владимирович": 86,
-      "Поглазов Александр Павлович": 157,
-      "Розуван Алексей Михайлович": 309,
-      "Рязанов Александр Александрович": 37,
-      "Сергеенков Владимир Нилович": 238,
-      "Скачков Олег Владимирович": 143,
-      "Туруло Валерий Николаевич": 85,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000220818": 42,
+      "gas:candidate-vibid:1001000112216": 186,
+      "gas:candidate-vibid:343300170559": 86,
+      "gas:candidate-vibid:1001000113937": 157,
+      "gas:candidate-vibid:1001000225944": 309,
+      "gas:candidate-vibid:1001000136064": 37,
+      "gas:candidate-vibid:343300170542": 238,
+      "gas:candidate-vibid:343300170358": 143,
+      "gas:candidate-vibid:1001000126642": 85,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 6,
-      "Розуван Алексей Михайлович": 17,
-      "Рязанов Александр Александрович": 15,
-      "Сергеенков Владимир Нилович": 6,
-      "Скачков Олег Владимирович": 21,
-      "Туруло Валерий Николаевич": 0,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 6,
+      "gas:candidate-vibid:1001000225944": 17,
+      "gas:candidate-vibid:1001000136064": 15,
+      "gas:candidate-vibid:343300170542": 6,
+      "gas:candidate-vibid:343300170358": 21,
+      "gas:candidate-vibid:1001000126642": 0,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 48,
-      "Иконников Дмитрий Геннадьевич": 172,
-      "Куликов Владимир Владимирович": 86,
-      "Поглазов Александр Павлович": 142,
-      "Розуван Алексей Михайлович": 314,
-      "Рязанов Александр Александрович": 37,
-      "Сергеенков Владимир Нилович": 180,
-      "Скачков Олег Владимирович": 88,
-      "Туруло Валерий Николаевич": 69,
-      "Шабалин Борис Андреевич": 47,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000220818": 48,
+      "gas:candidate-vibid:1001000112216": 172,
+      "gas:candidate-vibid:343300170559": 86,
+      "gas:candidate-vibid:1001000113937": 142,
+      "gas:candidate-vibid:1001000225944": 314,
+      "gas:candidate-vibid:1001000136064": 37,
+      "gas:candidate-vibid:343300170542": 180,
+      "gas:candidate-vibid:343300170358": 88,
+      "gas:candidate-vibid:1001000126642": 69,
+      "gas:candidate-vibid:1001000195083": 47,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 57,
-      "Иконников Дмитрий Геннадьевич": 175,
-      "Куликов Владимир Владимирович": 121,
-      "Поглазов Александр Павлович": 113,
-      "Розуван Алексей Михайлович": 433,
-      "Рязанов Александр Александрович": 53,
-      "Сергеенков Владимир Нилович": 146,
-      "Скачков Олег Владимирович": 74,
-      "Туруло Валерий Николаевич": 79,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000220818": 57,
+      "gas:candidate-vibid:1001000112216": 175,
+      "gas:candidate-vibid:343300170559": 121,
+      "gas:candidate-vibid:1001000113937": 113,
+      "gas:candidate-vibid:1001000225944": 433,
+      "gas:candidate-vibid:1001000136064": 53,
+      "gas:candidate-vibid:343300170542": 146,
+      "gas:candidate-vibid:343300170358": 74,
+      "gas:candidate-vibid:1001000126642": 79,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 64,
-      "Иконников Дмитрий Геннадьевич": 131,
-      "Куликов Владимир Владимирович": 100,
-      "Поглазов Александр Павлович": 122,
-      "Розуван Алексей Михайлович": 339,
-      "Рязанов Александр Александрович": 39,
-      "Сергеенков Владимир Нилович": 154,
-      "Скачков Олег Владимирович": 101,
-      "Туруло Валерий Николаевич": 74,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000220818": 64,
+      "gas:candidate-vibid:1001000112216": 131,
+      "gas:candidate-vibid:343300170559": 100,
+      "gas:candidate-vibid:1001000113937": 122,
+      "gas:candidate-vibid:1001000225944": 339,
+      "gas:candidate-vibid:1001000136064": 39,
+      "gas:candidate-vibid:343300170542": 154,
+      "gas:candidate-vibid:343300170358": 101,
+      "gas:candidate-vibid:1001000126642": 74,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 48,
-      "Иконников Дмитрий Геннадьевич": 135,
-      "Куликов Владимир Владимирович": 56,
-      "Поглазов Александр Павлович": 101,
-      "Розуван Алексей Михайлович": 313,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 120,
-      "Скачков Олег Владимирович": 71,
-      "Туруло Валерий Николаевич": 98,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000220818": 48,
+      "gas:candidate-vibid:1001000112216": 135,
+      "gas:candidate-vibid:343300170559": 56,
+      "gas:candidate-vibid:1001000113937": 101,
+      "gas:candidate-vibid:1001000225944": 313,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 120,
+      "gas:candidate-vibid:343300170358": 71,
+      "gas:candidate-vibid:1001000126642": 98,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 60,
-      "Иконников Дмитрий Геннадьевич": 148,
-      "Куликов Владимир Владимирович": 110,
-      "Поглазов Александр Павлович": 172,
-      "Розуван Алексей Михайлович": 406,
-      "Рязанов Александр Александрович": 64,
-      "Сергеенков Владимир Нилович": 166,
-      "Скачков Олег Владимирович": 126,
-      "Туруло Валерий Николаевич": 98,
-      "Шабалин Борис Андреевич": 46,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000220818": 60,
+      "gas:candidate-vibid:1001000112216": 148,
+      "gas:candidate-vibid:343300170559": 110,
+      "gas:candidate-vibid:1001000113937": 172,
+      "gas:candidate-vibid:1001000225944": 406,
+      "gas:candidate-vibid:1001000136064": 64,
+      "gas:candidate-vibid:343300170542": 166,
+      "gas:candidate-vibid:343300170358": 126,
+      "gas:candidate-vibid:1001000126642": 98,
+      "gas:candidate-vibid:1001000195083": 46,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 67,
-      "Иконников Дмитрий Геннадьевич": 122,
-      "Куликов Владимир Владимирович": 75,
-      "Поглазов Александр Павлович": 99,
-      "Розуван Алексей Михайлович": 303,
-      "Рязанов Александр Александрович": 62,
-      "Сергеенков Владимир Нилович": 141,
-      "Скачков Олег Владимирович": 86,
-      "Туруло Валерий Николаевич": 72,
-      "Шабалин Борис Андреевич": 24,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000220818": 67,
+      "gas:candidate-vibid:1001000112216": 122,
+      "gas:candidate-vibid:343300170559": 75,
+      "gas:candidate-vibid:1001000113937": 99,
+      "gas:candidate-vibid:1001000225944": 303,
+      "gas:candidate-vibid:1001000136064": 62,
+      "gas:candidate-vibid:343300170542": 141,
+      "gas:candidate-vibid:343300170358": 86,
+      "gas:candidate-vibid:1001000126642": 72,
+      "gas:candidate-vibid:1001000195083": 24,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 17,
-      "Иконников Дмитрий Геннадьевич": 31,
-      "Куликов Владимир Владимирович": 24,
-      "Поглазов Александр Павлович": 49,
-      "Розуван Алексей Михайлович": 96,
-      "Рязанов Александр Александрович": 26,
-      "Сергеенков Владимир Нилович": 30,
-      "Скачков Олег Владимирович": 48,
-      "Туруло Валерий Николаевич": 17,
-      "Шабалин Борис Андреевич": 11,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000220818": 17,
+      "gas:candidate-vibid:1001000112216": 31,
+      "gas:candidate-vibid:343300170559": 24,
+      "gas:candidate-vibid:1001000113937": 49,
+      "gas:candidate-vibid:1001000225944": 96,
+      "gas:candidate-vibid:1001000136064": 26,
+      "gas:candidate-vibid:343300170542": 30,
+      "gas:candidate-vibid:343300170358": 48,
+      "gas:candidate-vibid:1001000126642": 17,
+      "gas:candidate-vibid:1001000195083": 11,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 26,
-      "Иконников Дмитрий Геннадьевич": 37,
-      "Куликов Владимир Владимирович": 22,
-      "Поглазов Александр Павлович": 69,
-      "Розуван Алексей Михайлович": 118,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 26,
-      "Скачков Олег Владимирович": 73,
-      "Туруло Валерий Николаевич": 20,
-      "Шабалин Борис Андреевич": 26,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000220818": 26,
+      "gas:candidate-vibid:1001000112216": 37,
+      "gas:candidate-vibid:343300170559": 22,
+      "gas:candidate-vibid:1001000113937": 69,
+      "gas:candidate-vibid:1001000225944": 118,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 26,
+      "gas:candidate-vibid:343300170358": 73,
+      "gas:candidate-vibid:1001000126642": 20,
+      "gas:candidate-vibid:1001000195083": 26,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 33,
-      "Иконников Дмитрий Геннадьевич": 49,
-      "Куликов Владимир Владимирович": 29,
-      "Поглазов Александр Павлович": 75,
-      "Розуван Алексей Михайлович": 145,
-      "Рязанов Александр Александрович": 45,
-      "Сергеенков Владимир Нилович": 31,
-      "Скачков Олег Владимирович": 80,
-      "Туруло Валерий Николаевич": 29,
-      "Шабалин Борис Андреевич": 19,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000220818": 33,
+      "gas:candidate-vibid:1001000112216": 49,
+      "gas:candidate-vibid:343300170559": 29,
+      "gas:candidate-vibid:1001000113937": 75,
+      "gas:candidate-vibid:1001000225944": 145,
+      "gas:candidate-vibid:1001000136064": 45,
+      "gas:candidate-vibid:343300170542": 31,
+      "gas:candidate-vibid:343300170358": 80,
+      "gas:candidate-vibid:1001000126642": 29,
+      "gas:candidate-vibid:1001000195083": 19,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 64,
-      "Иконников Дмитрий Геннадьевич": 117,
-      "Куликов Владимир Владимирович": 85,
-      "Поглазов Александр Павлович": 162,
-      "Розуван Алексей Михайлович": 373,
-      "Рязанов Александр Александрович": 70,
-      "Сергеенков Владимир Нилович": 132,
-      "Скачков Олег Владимирович": 155,
-      "Туруло Валерий Николаевич": 93,
-      "Шабалин Борис Андреевич": 54,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000220818": 64,
+      "gas:candidate-vibid:1001000112216": 117,
+      "gas:candidate-vibid:343300170559": 85,
+      "gas:candidate-vibid:1001000113937": 162,
+      "gas:candidate-vibid:1001000225944": 373,
+      "gas:candidate-vibid:1001000136064": 70,
+      "gas:candidate-vibid:343300170542": 132,
+      "gas:candidate-vibid:343300170358": 155,
+      "gas:candidate-vibid:1001000126642": 93,
+      "gas:candidate-vibid:1001000195083": 54,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 11,
-      "Иконников Дмитрий Геннадьевич": 15,
-      "Куликов Владимир Владимирович": 8,
-      "Поглазов Александр Павлович": 45,
-      "Розуван Алексей Михайлович": 64,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 23,
-      "Скачков Олег Владимирович": 36,
-      "Туруло Валерий Николаевич": 11,
-      "Шабалин Борис Андреевич": 17,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000220818": 11,
+      "gas:candidate-vibid:1001000112216": 15,
+      "gas:candidate-vibid:343300170559": 8,
+      "gas:candidate-vibid:1001000113937": 45,
+      "gas:candidate-vibid:1001000225944": 64,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 23,
+      "gas:candidate-vibid:343300170358": 36,
+      "gas:candidate-vibid:1001000126642": 11,
+      "gas:candidate-vibid:1001000195083": 17,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 12,
-      "Иконников Дмитрий Геннадьевич": 9,
-      "Куликов Владимир Владимирович": 17,
-      "Поглазов Александр Павлович": 23,
-      "Розуван Алексей Михайлович": 45,
-      "Рязанов Александр Александрович": 9,
-      "Сергеенков Владимир Нилович": 16,
-      "Скачков Олег Владимирович": 32,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 6,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000220818": 12,
+      "gas:candidate-vibid:1001000112216": 9,
+      "gas:candidate-vibid:343300170559": 17,
+      "gas:candidate-vibid:1001000113937": 23,
+      "gas:candidate-vibid:1001000225944": 45,
+      "gas:candidate-vibid:1001000136064": 9,
+      "gas:candidate-vibid:343300170542": 16,
+      "gas:candidate-vibid:343300170358": 32,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 6,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 80,
-      "Иконников Дмитрий Геннадьевич": 136,
-      "Куликов Владимир Владимирович": 62,
-      "Поглазов Александр Павлович": 192,
-      "Розуван Алексей Михайлович": 353,
-      "Рязанов Александр Александрович": 80,
-      "Сергеенков Владимир Нилович": 178,
-      "Скачков Олег Владимирович": 164,
-      "Туруло Валерий Николаевич": 74,
-      "Шабалин Борис Андреевич": 61,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000220818": 80,
+      "gas:candidate-vibid:1001000112216": 136,
+      "gas:candidate-vibid:343300170559": 62,
+      "gas:candidate-vibid:1001000113937": 192,
+      "gas:candidate-vibid:1001000225944": 353,
+      "gas:candidate-vibid:1001000136064": 80,
+      "gas:candidate-vibid:343300170542": 178,
+      "gas:candidate-vibid:343300170358": 164,
+      "gas:candidate-vibid:1001000126642": 74,
+      "gas:candidate-vibid:1001000195083": 61,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 138,
-      "Куликов Владимир Владимирович": 141,
-      "Поглазов Александр Павлович": 165,
-      "Розуван Алексей Михайлович": 386,
-      "Рязанов Александр Александрович": 67,
-      "Сергеенков Владимир Нилович": 176,
-      "Скачков Олег Владимирович": 161,
-      "Туруло Валерий Николаевич": 104,
-      "Шабалин Борис Андреевич": 77,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 138,
+      "gas:candidate-vibid:343300170559": 141,
+      "gas:candidate-vibid:1001000113937": 165,
+      "gas:candidate-vibid:1001000225944": 386,
+      "gas:candidate-vibid:1001000136064": 67,
+      "gas:candidate-vibid:343300170542": 176,
+      "gas:candidate-vibid:343300170358": 161,
+      "gas:candidate-vibid:1001000126642": 104,
+      "gas:candidate-vibid:1001000195083": 77,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 47,
-      "Иконников Дмитрий Геннадьевич": 93,
-      "Куликов Владимир Владимирович": 72,
-      "Поглазов Александр Павлович": 145,
-      "Розуван Алексей Михайлович": 300,
-      "Рязанов Александр Александрович": 45,
-      "Сергеенков Владимир Нилович": 101,
-      "Скачков Олег Владимирович": 90,
-      "Туруло Валерий Николаевич": 54,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000220818": 47,
+      "gas:candidate-vibid:1001000112216": 93,
+      "gas:candidate-vibid:343300170559": 72,
+      "gas:candidate-vibid:1001000113937": 145,
+      "gas:candidate-vibid:1001000225944": 300,
+      "gas:candidate-vibid:1001000136064": 45,
+      "gas:candidate-vibid:343300170542": 101,
+      "gas:candidate-vibid:343300170358": 90,
+      "gas:candidate-vibid:1001000126642": 54,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 54,
-      "Иконников Дмитрий Геннадьевич": 107,
-      "Куликов Владимир Владимирович": 49,
-      "Поглазов Александр Павлович": 118,
-      "Розуван Алексей Михайлович": 253,
-      "Рязанов Александр Александрович": 52,
-      "Сергеенков Владимир Нилович": 117,
-      "Скачков Олег Владимирович": 100,
-      "Туруло Валерий Николаевич": 57,
-      "Шабалин Борис Андреевич": 22,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000220818": 54,
+      "gas:candidate-vibid:1001000112216": 107,
+      "gas:candidate-vibid:343300170559": 49,
+      "gas:candidate-vibid:1001000113937": 118,
+      "gas:candidate-vibid:1001000225944": 253,
+      "gas:candidate-vibid:1001000136064": 52,
+      "gas:candidate-vibid:343300170542": 117,
+      "gas:candidate-vibid:343300170358": 100,
+      "gas:candidate-vibid:1001000126642": 57,
+      "gas:candidate-vibid:1001000195083": 22,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 27,
-      "Иконников Дмитрий Геннадьевич": 87,
-      "Куликов Владимир Владимирович": 42,
-      "Поглазов Александр Павлович": 143,
-      "Розуван Алексей Михайлович": 171,
-      "Рязанов Александр Александрович": 39,
-      "Сергеенков Владимир Нилович": 70,
-      "Скачков Олег Владимирович": 79,
-      "Туруло Валерий Николаевич": 43,
-      "Шабалин Борис Андреевич": 17,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000220818": 27,
+      "gas:candidate-vibid:1001000112216": 87,
+      "gas:candidate-vibid:343300170559": 42,
+      "gas:candidate-vibid:1001000113937": 143,
+      "gas:candidate-vibid:1001000225944": 171,
+      "gas:candidate-vibid:1001000136064": 39,
+      "gas:candidate-vibid:343300170542": 70,
+      "gas:candidate-vibid:343300170358": 79,
+      "gas:candidate-vibid:1001000126642": 43,
+      "gas:candidate-vibid:1001000195083": 17,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 178,
-      "Куликов Владимир Владимирович": 52,
-      "Поглазов Александр Павлович": 130,
-      "Розуван Алексей Михайлович": 252,
-      "Рязанов Александр Александрович": 52,
-      "Сергеенков Владимир Нилович": 83,
-      "Скачков Олег Владимирович": 109,
-      "Туруло Валерий Николаевич": 72,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 178,
+      "gas:candidate-vibid:343300170559": 52,
+      "gas:candidate-vibid:1001000113937": 130,
+      "gas:candidate-vibid:1001000225944": 252,
+      "gas:candidate-vibid:1001000136064": 52,
+      "gas:candidate-vibid:343300170542": 83,
+      "gas:candidate-vibid:343300170358": 109,
+      "gas:candidate-vibid:1001000126642": 72,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 119,
-      "Куликов Владимир Владимирович": 49,
-      "Поглазов Александр Павлович": 110,
-      "Розуван Алексей Михайлович": 256,
-      "Рязанов Александр Александрович": 53,
-      "Сергеенков Владимир Нилович": 104,
-      "Скачков Олег Владимирович": 122,
-      "Туруло Валерий Николаевич": 51,
-      "Шабалин Борис Андреевич": 23,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 119,
+      "gas:candidate-vibid:343300170559": 49,
+      "gas:candidate-vibid:1001000113937": 110,
+      "gas:candidate-vibid:1001000225944": 256,
+      "gas:candidate-vibid:1001000136064": 53,
+      "gas:candidate-vibid:343300170542": 104,
+      "gas:candidate-vibid:343300170358": 122,
+      "gas:candidate-vibid:1001000126642": 51,
+      "gas:candidate-vibid:1001000195083": 23,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 32,
-      "Иконников Дмитрий Геннадьевич": 80,
-      "Куликов Владимир Владимирович": 52,
-      "Поглазов Александр Павлович": 100,
-      "Розуван Алексей Михайлович": 234,
-      "Рязанов Александр Александрович": 33,
-      "Сергеенков Владимир Нилович": 153,
-      "Скачков Олег Владимирович": 64,
-      "Туруло Валерий Николаевич": 106,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000220818": 32,
+      "gas:candidate-vibid:1001000112216": 80,
+      "gas:candidate-vibid:343300170559": 52,
+      "gas:candidate-vibid:1001000113937": 100,
+      "gas:candidate-vibid:1001000225944": 234,
+      "gas:candidate-vibid:1001000136064": 33,
+      "gas:candidate-vibid:343300170542": 153,
+      "gas:candidate-vibid:343300170358": 64,
+      "gas:candidate-vibid:1001000126642": 106,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 99,
-      "Куликов Владимир Владимирович": 59,
-      "Поглазов Александр Павлович": 139,
-      "Розуван Алексей Михайлович": 229,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 125,
-      "Скачков Олег Владимирович": 92,
-      "Туруло Валерий Николаевич": 80,
-      "Шабалин Борис Андреевич": 24,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 99,
+      "gas:candidate-vibid:343300170559": 59,
+      "gas:candidate-vibid:1001000113937": 139,
+      "gas:candidate-vibid:1001000225944": 229,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 125,
+      "gas:candidate-vibid:343300170358": 92,
+      "gas:candidate-vibid:1001000126642": 80,
+      "gas:candidate-vibid:1001000195083": 24,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 51,
-      "Иконников Дмитрий Геннадьевич": 95,
-      "Куликов Владимир Владимирович": 68,
-      "Поглазов Александр Павлович": 120,
-      "Розуван Алексей Михайлович": 286,
-      "Рязанов Александр Александрович": 37,
-      "Сергеенков Владимир Нилович": 121,
-      "Скачков Олег Владимирович": 93,
-      "Туруло Валерий Николаевич": 69,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000220818": 51,
+      "gas:candidate-vibid:1001000112216": 95,
+      "gas:candidate-vibid:343300170559": 68,
+      "gas:candidate-vibid:1001000113937": 120,
+      "gas:candidate-vibid:1001000225944": 286,
+      "gas:candidate-vibid:1001000136064": 37,
+      "gas:candidate-vibid:343300170542": 121,
+      "gas:candidate-vibid:343300170358": 93,
+      "gas:candidate-vibid:1001000126642": 69,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 88,
-      "Иконников Дмитрий Геннадьевич": 162,
-      "Куликов Владимир Владимирович": 69,
-      "Поглазов Александр Павлович": 135,
-      "Розуван Алексей Михайлович": 401,
-      "Рязанов Александр Александрович": 72,
-      "Сергеенков Владимир Нилович": 139,
-      "Скачков Олег Владимирович": 156,
-      "Туруло Валерий Николаевич": 125,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000220818": 88,
+      "gas:candidate-vibid:1001000112216": 162,
+      "gas:candidate-vibid:343300170559": 69,
+      "gas:candidate-vibid:1001000113937": 135,
+      "gas:candidate-vibid:1001000225944": 401,
+      "gas:candidate-vibid:1001000136064": 72,
+      "gas:candidate-vibid:343300170542": 139,
+      "gas:candidate-vibid:343300170358": 156,
+      "gas:candidate-vibid:1001000126642": 125,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 62,
-      "Иконников Дмитрий Геннадьевич": 119,
-      "Куликов Владимир Владимирович": 95,
-      "Поглазов Александр Павлович": 162,
-      "Розуван Алексей Михайлович": 364,
-      "Рязанов Александр Александрович": 59,
-      "Сергеенков Владимир Нилович": 163,
-      "Скачков Олег Владимирович": 133,
-      "Туруло Валерий Николаевич": 113,
-      "Шабалин Борис Андреевич": 57,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000220818": 62,
+      "gas:candidate-vibid:1001000112216": 119,
+      "gas:candidate-vibid:343300170559": 95,
+      "gas:candidate-vibid:1001000113937": 162,
+      "gas:candidate-vibid:1001000225944": 364,
+      "gas:candidate-vibid:1001000136064": 59,
+      "gas:candidate-vibid:343300170542": 163,
+      "gas:candidate-vibid:343300170358": 133,
+      "gas:candidate-vibid:1001000126642": 113,
+      "gas:candidate-vibid:1001000195083": 57,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 59,
-      "Иконников Дмитрий Геннадьевич": 127,
-      "Куликов Владимир Владимирович": 89,
-      "Поглазов Александр Павлович": 132,
-      "Розуван Алексей Михайлович": 326,
-      "Рязанов Александр Александрович": 67,
-      "Сергеенков Владимир Нилович": 177,
-      "Скачков Олег Владимирович": 108,
-      "Туруло Валерий Николаевич": 117,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000220818": 59,
+      "gas:candidate-vibid:1001000112216": 127,
+      "gas:candidate-vibid:343300170559": 89,
+      "gas:candidate-vibid:1001000113937": 132,
+      "gas:candidate-vibid:1001000225944": 326,
+      "gas:candidate-vibid:1001000136064": 67,
+      "gas:candidate-vibid:343300170542": 177,
+      "gas:candidate-vibid:343300170358": 108,
+      "gas:candidate-vibid:1001000126642": 117,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 30,
-      "Иконников Дмитрий Геннадьевич": 97,
-      "Куликов Владимир Владимирович": 51,
-      "Поглазов Александр Павлович": 118,
-      "Розуван Алексей Михайлович": 318,
-      "Рязанов Александр Александрович": 41,
-      "Сергеенков Владимир Нилович": 138,
-      "Скачков Олег Владимирович": 103,
-      "Туруло Валерий Николаевич": 64,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000220818": 30,
+      "gas:candidate-vibid:1001000112216": 97,
+      "gas:candidate-vibid:343300170559": 51,
+      "gas:candidate-vibid:1001000113937": 118,
+      "gas:candidate-vibid:1001000225944": 318,
+      "gas:candidate-vibid:1001000136064": 41,
+      "gas:candidate-vibid:343300170542": 138,
+      "gas:candidate-vibid:343300170358": 103,
+      "gas:candidate-vibid:1001000126642": 64,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 78,
-      "Иконников Дмитрий Геннадьевич": 127,
-      "Куликов Владимир Владимирович": 60,
-      "Поглазов Александр Павлович": 185,
-      "Розуван Алексей Михайлович": 341,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 145,
-      "Скачков Олег Владимирович": 110,
-      "Туруло Валерий Николаевич": 96,
-      "Шабалин Борис Андреевич": 51,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000220818": 78,
+      "gas:candidate-vibid:1001000112216": 127,
+      "gas:candidate-vibid:343300170559": 60,
+      "gas:candidate-vibid:1001000113937": 185,
+      "gas:candidate-vibid:1001000225944": 341,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 145,
+      "gas:candidate-vibid:343300170358": 110,
+      "gas:candidate-vibid:1001000126642": 96,
+      "gas:candidate-vibid:1001000195083": 51,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 80,
-      "Иконников Дмитрий Геннадьевич": 196,
-      "Куликов Владимир Владимирович": 90,
-      "Поглазов Александр Павлович": 125,
-      "Розуван Алексей Михайлович": 343,
-      "Рязанов Александр Александрович": 57,
-      "Сергеенков Владимир Нилович": 163,
-      "Скачков Олег Владимирович": 135,
-      "Туруло Валерий Николаевич": 97,
-      "Шабалин Борис Андреевич": 55,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000220818": 80,
+      "gas:candidate-vibid:1001000112216": 196,
+      "gas:candidate-vibid:343300170559": 90,
+      "gas:candidate-vibid:1001000113937": 125,
+      "gas:candidate-vibid:1001000225944": 343,
+      "gas:candidate-vibid:1001000136064": 57,
+      "gas:candidate-vibid:343300170542": 163,
+      "gas:candidate-vibid:343300170358": 135,
+      "gas:candidate-vibid:1001000126642": 97,
+      "gas:candidate-vibid:1001000195083": 55,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 38,
-      "Иконников Дмитрий Геннадьевич": 77,
-      "Куликов Владимир Владимирович": 46,
-      "Поглазов Александр Павлович": 119,
-      "Розуван Алексей Михайлович": 200,
-      "Рязанов Александр Александрович": 17,
-      "Сергеенков Владимир Нилович": 72,
-      "Скачков Олег Владимирович": 80,
-      "Туруло Валерий Николаевич": 60,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000220818": 38,
+      "gas:candidate-vibid:1001000112216": 77,
+      "gas:candidate-vibid:343300170559": 46,
+      "gas:candidate-vibid:1001000113937": 119,
+      "gas:candidate-vibid:1001000225944": 200,
+      "gas:candidate-vibid:1001000136064": 17,
+      "gas:candidate-vibid:343300170542": 72,
+      "gas:candidate-vibid:343300170358": 80,
+      "gas:candidate-vibid:1001000126642": 60,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 54,
-      "Иконников Дмитрий Геннадьевич": 241,
-      "Куликов Владимир Владимирович": 69,
-      "Поглазов Александр Павлович": 117,
-      "Розуван Алексей Михайлович": 290,
-      "Рязанов Александр Александрович": 43,
-      "Сергеенков Владимир Нилович": 153,
-      "Скачков Олег Владимирович": 153,
-      "Туруло Валерий Николаевич": 112,
-      "Шабалин Борис Андреевич": 43,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000220818": 54,
+      "gas:candidate-vibid:1001000112216": 241,
+      "gas:candidate-vibid:343300170559": 69,
+      "gas:candidate-vibid:1001000113937": 117,
+      "gas:candidate-vibid:1001000225944": 290,
+      "gas:candidate-vibid:1001000136064": 43,
+      "gas:candidate-vibid:343300170542": 153,
+      "gas:candidate-vibid:343300170358": 153,
+      "gas:candidate-vibid:1001000126642": 112,
+      "gas:candidate-vibid:1001000195083": 43,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 61,
-      "Иконников Дмитрий Геннадьевич": 151,
-      "Куликов Владимир Владимирович": 68,
-      "Поглазов Александр Павлович": 138,
-      "Розуван Алексей Михайлович": 276,
-      "Рязанов Александр Александрович": 39,
-      "Сергеенков Владимир Нилович": 106,
-      "Скачков Олег Владимирович": 112,
-      "Туруло Валерий Николаевич": 83,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000220818": 61,
+      "gas:candidate-vibid:1001000112216": 151,
+      "gas:candidate-vibid:343300170559": 68,
+      "gas:candidate-vibid:1001000113937": 138,
+      "gas:candidate-vibid:1001000225944": 276,
+      "gas:candidate-vibid:1001000136064": 39,
+      "gas:candidate-vibid:343300170542": 106,
+      "gas:candidate-vibid:343300170358": 112,
+      "gas:candidate-vibid:1001000126642": 83,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 49,
-      "Иконников Дмитрий Геннадьевич": 75,
-      "Куликов Владимир Владимирович": 56,
-      "Поглазов Александр Павлович": 84,
-      "Розуван Алексей Михайлович": 249,
-      "Рязанов Александр Александрович": 33,
-      "Сергеенков Владимир Нилович": 168,
-      "Скачков Олег Владимирович": 72,
-      "Туруло Валерий Николаевич": 36,
-      "Шабалин Борис Андреевич": 27,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000220818": 49,
+      "gas:candidate-vibid:1001000112216": 75,
+      "gas:candidate-vibid:343300170559": 56,
+      "gas:candidate-vibid:1001000113937": 84,
+      "gas:candidate-vibid:1001000225944": 249,
+      "gas:candidate-vibid:1001000136064": 33,
+      "gas:candidate-vibid:343300170542": 168,
+      "gas:candidate-vibid:343300170358": 72,
+      "gas:candidate-vibid:1001000126642": 36,
+      "gas:candidate-vibid:1001000195083": 27,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 50,
-      "Иконников Дмитрий Геннадьевич": 113,
-      "Куликов Владимир Владимирович": 57,
-      "Поглазов Александр Павлович": 130,
-      "Розуван Алексей Михайлович": 357,
-      "Рязанов Александр Александрович": 60,
-      "Сергеенков Владимир Нилович": 108,
-      "Скачков Олег Владимирович": 93,
-      "Туруло Валерий Николаевич": 85,
-      "Шабалин Борис Андреевич": 32,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000220818": 50,
+      "gas:candidate-vibid:1001000112216": 113,
+      "gas:candidate-vibid:343300170559": 57,
+      "gas:candidate-vibid:1001000113937": 130,
+      "gas:candidate-vibid:1001000225944": 357,
+      "gas:candidate-vibid:1001000136064": 60,
+      "gas:candidate-vibid:343300170542": 108,
+      "gas:candidate-vibid:343300170358": 93,
+      "gas:candidate-vibid:1001000126642": 85,
+      "gas:candidate-vibid:1001000195083": 32,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 64,
-      "Иконников Дмитрий Геннадьевич": 93,
-      "Куликов Владимир Владимирович": 61,
-      "Поглазов Александр Павлович": 146,
-      "Розуван Алексей Михайлович": 311,
-      "Рязанов Александр Александрович": 71,
-      "Сергеенков Владимир Нилович": 138,
-      "Скачков Олег Владимирович": 120,
-      "Туруло Валерий Николаевич": 93,
-      "Шабалин Борис Андреевич": 46,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000220818": 64,
+      "gas:candidate-vibid:1001000112216": 93,
+      "gas:candidate-vibid:343300170559": 61,
+      "gas:candidate-vibid:1001000113937": 146,
+      "gas:candidate-vibid:1001000225944": 311,
+      "gas:candidate-vibid:1001000136064": 71,
+      "gas:candidate-vibid:343300170542": 138,
+      "gas:candidate-vibid:343300170358": 120,
+      "gas:candidate-vibid:1001000126642": 93,
+      "gas:candidate-vibid:1001000195083": 46,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 51,
-      "Иконников Дмитрий Геннадьевич": 122,
-      "Куликов Владимир Владимирович": 78,
-      "Поглазов Александр Павлович": 188,
-      "Розуван Алексей Михайлович": 388,
-      "Рязанов Александр Александрович": 87,
-      "Сергеенков Владимир Нилович": 138,
-      "Скачков Олег Владимирович": 162,
-      "Туруло Валерий Николаевич": 88,
-      "Шабалин Борис Андреевич": 48,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000220818": 51,
+      "gas:candidate-vibid:1001000112216": 122,
+      "gas:candidate-vibid:343300170559": 78,
+      "gas:candidate-vibid:1001000113937": 188,
+      "gas:candidate-vibid:1001000225944": 388,
+      "gas:candidate-vibid:1001000136064": 87,
+      "gas:candidate-vibid:343300170542": 138,
+      "gas:candidate-vibid:343300170358": 162,
+      "gas:candidate-vibid:1001000126642": 88,
+      "gas:candidate-vibid:1001000195083": 48,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 30,
-      "Иконников Дмитрий Геннадьевич": 79,
-      "Куликов Владимир Владимирович": 30,
-      "Поглазов Александр Павлович": 73,
-      "Розуван Алексей Михайлович": 155,
-      "Рязанов Александр Александрович": 21,
-      "Сергеенков Владимир Нилович": 95,
-      "Скачков Олег Владимирович": 73,
-      "Туруло Валерий Николаевич": 55,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000220818": 30,
+      "gas:candidate-vibid:1001000112216": 79,
+      "gas:candidate-vibid:343300170559": 30,
+      "gas:candidate-vibid:1001000113937": 73,
+      "gas:candidate-vibid:1001000225944": 155,
+      "gas:candidate-vibid:1001000136064": 21,
+      "gas:candidate-vibid:343300170542": 95,
+      "gas:candidate-vibid:343300170358": 73,
+      "gas:candidate-vibid:1001000126642": 55,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 53,
-      "Иконников Дмитрий Геннадьевич": 139,
-      "Куликов Владимир Владимирович": 65,
-      "Поглазов Александр Павлович": 136,
-      "Розуван Алексей Михайлович": 359,
-      "Рязанов Александр Александрович": 59,
-      "Сергеенков Владимир Нилович": 135,
-      "Скачков Олег Владимирович": 117,
-      "Туруло Валерий Николаевич": 81,
-      "Шабалин Борис Андреевич": 38,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000220818": 53,
+      "gas:candidate-vibid:1001000112216": 139,
+      "gas:candidate-vibid:343300170559": 65,
+      "gas:candidate-vibid:1001000113937": 136,
+      "gas:candidate-vibid:1001000225944": 359,
+      "gas:candidate-vibid:1001000136064": 59,
+      "gas:candidate-vibid:343300170542": 135,
+      "gas:candidate-vibid:343300170358": 117,
+      "gas:candidate-vibid:1001000126642": 81,
+      "gas:candidate-vibid:1001000195083": 38,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 64,
-      "Иконников Дмитрий Геннадьевич": 136,
-      "Куликов Владимир Владимирович": 91,
-      "Поглазов Александр Павлович": 168,
-      "Розуван Алексей Михайлович": 353,
-      "Рязанов Александр Александрович": 75,
-      "Сергеенков Владимир Нилович": 183,
-      "Скачков Олег Владимирович": 135,
-      "Туруло Валерий Николаевич": 87,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000220818": 64,
+      "gas:candidate-vibid:1001000112216": 136,
+      "gas:candidate-vibid:343300170559": 91,
+      "gas:candidate-vibid:1001000113937": 168,
+      "gas:candidate-vibid:1001000225944": 353,
+      "gas:candidate-vibid:1001000136064": 75,
+      "gas:candidate-vibid:343300170542": 183,
+      "gas:candidate-vibid:343300170358": 135,
+      "gas:candidate-vibid:1001000126642": 87,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 56,
-      "Иконников Дмитрий Геннадьевич": 218,
-      "Куликов Владимир Владимирович": 71,
-      "Поглазов Александр Павлович": 128,
-      "Розуван Алексей Михайлович": 303,
-      "Рязанов Александр Александрович": 42,
-      "Сергеенков Владимир Нилович": 124,
-      "Скачков Олег Владимирович": 134,
-      "Туруло Валерий Николаевич": 94,
-      "Шабалин Борис Андреевич": 45,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000220818": 56,
+      "gas:candidate-vibid:1001000112216": 218,
+      "gas:candidate-vibid:343300170559": 71,
+      "gas:candidate-vibid:1001000113937": 128,
+      "gas:candidate-vibid:1001000225944": 303,
+      "gas:candidate-vibid:1001000136064": 42,
+      "gas:candidate-vibid:343300170542": 124,
+      "gas:candidate-vibid:343300170358": 134,
+      "gas:candidate-vibid:1001000126642": 94,
+      "gas:candidate-vibid:1001000195083": 45,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 58,
-      "Иконников Дмитрий Геннадьевич": 193,
-      "Куликов Владимир Владимирович": 53,
-      "Поглазов Александр Павлович": 131,
-      "Розуван Алексей Михайлович": 286,
-      "Рязанов Александр Александрович": 62,
-      "Сергеенков Владимир Нилович": 132,
-      "Скачков Олег Владимирович": 96,
-      "Туруло Валерий Николаевич": 111,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000220818": 58,
+      "gas:candidate-vibid:1001000112216": 193,
+      "gas:candidate-vibid:343300170559": 53,
+      "gas:candidate-vibid:1001000113937": 131,
+      "gas:candidate-vibid:1001000225944": 286,
+      "gas:candidate-vibid:1001000136064": 62,
+      "gas:candidate-vibid:343300170542": 132,
+      "gas:candidate-vibid:343300170358": 96,
+      "gas:candidate-vibid:1001000126642": 111,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 31,
-      "Иконников Дмитрий Геннадьевич": 100,
-      "Куликов Владимир Владимирович": 60,
-      "Поглазов Александр Павлович": 162,
-      "Розуван Алексей Михайлович": 262,
-      "Рязанов Александр Александрович": 49,
-      "Сергеенков Владимир Нилович": 106,
-      "Скачков Олег Владимирович": 83,
-      "Туруло Валерий Николаевич": 73,
-      "Шабалин Борис Андреевич": 42,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000220818": 31,
+      "gas:candidate-vibid:1001000112216": 100,
+      "gas:candidate-vibid:343300170559": 60,
+      "gas:candidate-vibid:1001000113937": 162,
+      "gas:candidate-vibid:1001000225944": 262,
+      "gas:candidate-vibid:1001000136064": 49,
+      "gas:candidate-vibid:343300170542": 106,
+      "gas:candidate-vibid:343300170358": 83,
+      "gas:candidate-vibid:1001000126642": 73,
+      "gas:candidate-vibid:1001000195083": 42,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 18,
-      "Иконников Дмитрий Геннадьевич": 58,
-      "Куликов Владимир Владимирович": 21,
-      "Поглазов Александр Павлович": 126,
-      "Розуван Алексей Михайлович": 165,
-      "Рязанов Александр Александрович": 30,
-      "Сергеенков Владимир Нилович": 75,
-      "Скачков Олег Владимирович": 58,
-      "Туруло Валерий Николаевич": 50,
-      "Шабалин Борис Андреевич": 25,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000220818": 18,
+      "gas:candidate-vibid:1001000112216": 58,
+      "gas:candidate-vibid:343300170559": 21,
+      "gas:candidate-vibid:1001000113937": 126,
+      "gas:candidate-vibid:1001000225944": 165,
+      "gas:candidate-vibid:1001000136064": 30,
+      "gas:candidate-vibid:343300170542": 75,
+      "gas:candidate-vibid:343300170358": 58,
+      "gas:candidate-vibid:1001000126642": 50,
+      "gas:candidate-vibid:1001000195083": 25,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 67,
-      "Иконников Дмитрий Геннадьевич": 128,
-      "Куликов Владимир Владимирович": 70,
-      "Поглазов Александр Павлович": 159,
-      "Розуван Алексей Михайлович": 392,
-      "Рязанов Александр Александрович": 82,
-      "Сергеенков Владимир Нилович": 182,
-      "Скачков Олег Владимирович": 133,
-      "Туруло Валерий Николаевич": 106,
-      "Шабалин Борис Андреевич": 52,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000220818": 67,
+      "gas:candidate-vibid:1001000112216": 128,
+      "gas:candidate-vibid:343300170559": 70,
+      "gas:candidate-vibid:1001000113937": 159,
+      "gas:candidate-vibid:1001000225944": 392,
+      "gas:candidate-vibid:1001000136064": 82,
+      "gas:candidate-vibid:343300170542": 182,
+      "gas:candidate-vibid:343300170358": 133,
+      "gas:candidate-vibid:1001000126642": 106,
+      "gas:candidate-vibid:1001000195083": 52,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 110,
-      "Куликов Владимир Владимирович": 61,
-      "Поглазов Александр Павлович": 115,
-      "Розуван Алексей Михайлович": 213,
-      "Рязанов Александр Александрович": 43,
-      "Сергеенков Владимир Нилович": 79,
-      "Скачков Олег Владимирович": 98,
-      "Туруло Валерий Николаевич": 65,
-      "Шабалин Борис Андреевич": 23,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 110,
+      "gas:candidate-vibid:343300170559": 61,
+      "gas:candidate-vibid:1001000113937": 115,
+      "gas:candidate-vibid:1001000225944": 213,
+      "gas:candidate-vibid:1001000136064": 43,
+      "gas:candidate-vibid:343300170542": 79,
+      "gas:candidate-vibid:343300170358": 98,
+      "gas:candidate-vibid:1001000126642": 65,
+      "gas:candidate-vibid:1001000195083": 23,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 11,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 5,
-      "Поглазов Александр Павлович": 13,
-      "Розуван Алексей Михайлович": 21,
-      "Рязанов Александр Александрович": 9,
-      "Сергеенков Владимир Нилович": 14,
-      "Скачков Олег Владимирович": 5,
-      "Туруло Валерий Николаевич": 6,
-      "Шабалин Борис Андреевич": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000220818": 11,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 5,
+      "gas:candidate-vibid:1001000113937": 13,
+      "gas:candidate-vibid:1001000225944": 21,
+      "gas:candidate-vibid:1001000136064": 9,
+      "gas:candidate-vibid:343300170542": 14,
+      "gas:candidate-vibid:343300170358": 5,
+      "gas:candidate-vibid:1001000126642": 6,
+      "gas:candidate-vibid:1001000195083": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 71,
-      "Иконников Дмитрий Геннадьевич": 132,
-      "Куликов Владимир Владимирович": 148,
-      "Поглазов Александр Павлович": 178,
-      "Розуван Алексей Михайлович": 352,
-      "Рязанов Александр Александрович": 43,
-      "Сергеенков Владимир Нилович": 121,
-      "Скачков Олег Владимирович": 151,
-      "Туруло Валерий Николаевич": 89,
-      "Шабалин Борис Андреевич": 43,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000220818": 71,
+      "gas:candidate-vibid:1001000112216": 132,
+      "gas:candidate-vibid:343300170559": 148,
+      "gas:candidate-vibid:1001000113937": 178,
+      "gas:candidate-vibid:1001000225944": 352,
+      "gas:candidate-vibid:1001000136064": 43,
+      "gas:candidate-vibid:343300170542": 121,
+      "gas:candidate-vibid:343300170358": 151,
+      "gas:candidate-vibid:1001000126642": 89,
+      "gas:candidate-vibid:1001000195083": 43,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 47,
-      "Иконников Дмитрий Геннадьевич": 115,
-      "Куликов Владимир Владимирович": 105,
-      "Поглазов Александр Павлович": 164,
-      "Розуван Алексей Михайлович": 368,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 112,
-      "Скачков Олег Владимирович": 136,
-      "Туруло Валерий Николаевич": 56,
-      "Шабалин Борис Андреевич": 37,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000220818": 47,
+      "gas:candidate-vibid:1001000112216": 115,
+      "gas:candidate-vibid:343300170559": 105,
+      "gas:candidate-vibid:1001000113937": 164,
+      "gas:candidate-vibid:1001000225944": 368,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 112,
+      "gas:candidate-vibid:343300170358": 136,
+      "gas:candidate-vibid:1001000126642": 56,
+      "gas:candidate-vibid:1001000195083": 37,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 86,
-      "Иконников Дмитрий Геннадьевич": 123,
-      "Куликов Владимир Владимирович": 158,
-      "Поглазов Александр Павлович": 189,
-      "Розуван Алексей Михайлович": 357,
-      "Рязанов Александр Александрович": 66,
-      "Сергеенков Владимир Нилович": 157,
-      "Скачков Олег Владимирович": 173,
-      "Туруло Валерий Николаевич": 113,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000220818": 86,
+      "gas:candidate-vibid:1001000112216": 123,
+      "gas:candidate-vibid:343300170559": 158,
+      "gas:candidate-vibid:1001000113937": 189,
+      "gas:candidate-vibid:1001000225944": 357,
+      "gas:candidate-vibid:1001000136064": 66,
+      "gas:candidate-vibid:343300170542": 157,
+      "gas:candidate-vibid:343300170358": 173,
+      "gas:candidate-vibid:1001000126642": 113,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 69,
-      "Иконников Дмитрий Геннадьевич": 104,
-      "Куликов Владимир Владимирович": 146,
-      "Поглазов Александр Павлович": 170,
-      "Розуван Алексей Михайлович": 344,
-      "Рязанов Александр Александрович": 60,
-      "Сергеенков Владимир Нилович": 142,
-      "Скачков Олег Владимирович": 151,
-      "Туруло Валерий Николаевич": 95,
-      "Шабалин Борис Андреевич": 34,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000220818": 69,
+      "gas:candidate-vibid:1001000112216": 104,
+      "gas:candidate-vibid:343300170559": 146,
+      "gas:candidate-vibid:1001000113937": 170,
+      "gas:candidate-vibid:1001000225944": 344,
+      "gas:candidate-vibid:1001000136064": 60,
+      "gas:candidate-vibid:343300170542": 142,
+      "gas:candidate-vibid:343300170358": 151,
+      "gas:candidate-vibid:1001000126642": 95,
+      "gas:candidate-vibid:1001000195083": 34,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 62,
-      "Иконников Дмитрий Геннадьевич": 107,
-      "Куликов Владимир Владимирович": 78,
-      "Поглазов Александр Павлович": 284,
-      "Розуван Алексей Михайлович": 371,
-      "Рязанов Александр Александрович": 63,
-      "Сергеенков Владимир Нилович": 137,
-      "Скачков Олег Владимирович": 131,
-      "Туруло Валерий Николаевич": 95,
-      "Шабалин Борис Андреевич": 39,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000220818": 62,
+      "gas:candidate-vibid:1001000112216": 107,
+      "gas:candidate-vibid:343300170559": 78,
+      "gas:candidate-vibid:1001000113937": 284,
+      "gas:candidate-vibid:1001000225944": 371,
+      "gas:candidate-vibid:1001000136064": 63,
+      "gas:candidate-vibid:343300170542": 137,
+      "gas:candidate-vibid:343300170358": 131,
+      "gas:candidate-vibid:1001000126642": 95,
+      "gas:candidate-vibid:1001000195083": 39,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 69,
-      "Иконников Дмитрий Геннадьевич": 95,
-      "Куликов Владимир Владимирович": 116,
-      "Поглазов Александр Павлович": 175,
-      "Розуван Алексей Михайлович": 450,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 141,
-      "Скачков Олег Владимирович": 179,
-      "Туруло Валерий Николаевич": 85,
-      "Шабалин Борис Андреевич": 37,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000220818": 69,
+      "gas:candidate-vibid:1001000112216": 95,
+      "gas:candidate-vibid:343300170559": 116,
+      "gas:candidate-vibid:1001000113937": 175,
+      "gas:candidate-vibid:1001000225944": 450,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 141,
+      "gas:candidate-vibid:343300170358": 179,
+      "gas:candidate-vibid:1001000126642": 85,
+      "gas:candidate-vibid:1001000195083": 37,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 58,
-      "Иконников Дмитрий Геннадьевич": 111,
-      "Куликов Владимир Владимирович": 98,
-      "Поглазов Александр Павлович": 172,
-      "Розуван Алексей Михайлович": 322,
-      "Рязанов Александр Александрович": 58,
-      "Сергеенков Владимир Нилович": 97,
-      "Скачков Олег Владимирович": 147,
-      "Туруло Валерий Николаевич": 83,
-      "Шабалин Борис Андреевич": 17,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000220818": 58,
+      "gas:candidate-vibid:1001000112216": 111,
+      "gas:candidate-vibid:343300170559": 98,
+      "gas:candidate-vibid:1001000113937": 172,
+      "gas:candidate-vibid:1001000225944": 322,
+      "gas:candidate-vibid:1001000136064": 58,
+      "gas:candidate-vibid:343300170542": 97,
+      "gas:candidate-vibid:343300170358": 147,
+      "gas:candidate-vibid:1001000126642": 83,
+      "gas:candidate-vibid:1001000195083": 17,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 53,
-      "Иконников Дмитрий Геннадьевич": 110,
-      "Куликов Владимир Владимирович": 87,
-      "Поглазов Александр Павлович": 211,
-      "Розуван Алексей Михайлович": 344,
-      "Рязанов Александр Александрович": 58,
-      "Сергеенков Владимир Нилович": 105,
-      "Скачков Олег Владимирович": 164,
-      "Туруло Валерий Николаевич": 66,
-      "Шабалин Борис Андреевич": 48,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000220818": 53,
+      "gas:candidate-vibid:1001000112216": 110,
+      "gas:candidate-vibid:343300170559": 87,
+      "gas:candidate-vibid:1001000113937": 211,
+      "gas:candidate-vibid:1001000225944": 344,
+      "gas:candidate-vibid:1001000136064": 58,
+      "gas:candidate-vibid:343300170542": 105,
+      "gas:candidate-vibid:343300170358": 164,
+      "gas:candidate-vibid:1001000126642": 66,
+      "gas:candidate-vibid:1001000195083": 48,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 101,
-      "Куликов Владимир Владимирович": 50,
-      "Поглазов Александр Павлович": 208,
-      "Розуван Алексей Михайлович": 272,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 94,
-      "Скачков Олег Владимирович": 129,
-      "Туруло Валерий Николаевич": 78,
-      "Шабалин Борис Андреевич": 36,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 101,
+      "gas:candidate-vibid:343300170559": 50,
+      "gas:candidate-vibid:1001000113937": 208,
+      "gas:candidate-vibid:1001000225944": 272,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 94,
+      "gas:candidate-vibid:343300170358": 129,
+      "gas:candidate-vibid:1001000126642": 78,
+      "gas:candidate-vibid:1001000195083": 36,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 56,
-      "Иконников Дмитрий Геннадьевич": 113,
-      "Куликов Владимир Владимирович": 63,
-      "Поглазов Александр Павлович": 195,
-      "Розуван Алексей Михайлович": 334,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 169,
-      "Скачков Олег Владимирович": 123,
-      "Туруло Валерий Николаевич": 93,
-      "Шабалин Борис Андреевич": 53,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000220818": 56,
+      "gas:candidate-vibid:1001000112216": 113,
+      "gas:candidate-vibid:343300170559": 63,
+      "gas:candidate-vibid:1001000113937": 195,
+      "gas:candidate-vibid:1001000225944": 334,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 169,
+      "gas:candidate-vibid:343300170358": 123,
+      "gas:candidate-vibid:1001000126642": 93,
+      "gas:candidate-vibid:1001000195083": 53,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 56,
-      "Иконников Дмитрий Геннадьевич": 76,
-      "Куликов Владимир Владимирович": 66,
-      "Поглазов Александр Павлович": 195,
-      "Розуван Алексей Михайлович": 297,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 95,
-      "Скачков Олег Владимирович": 129,
-      "Туруло Валерий Николаевич": 62,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000220818": 56,
+      "gas:candidate-vibid:1001000112216": 76,
+      "gas:candidate-vibid:343300170559": 66,
+      "gas:candidate-vibid:1001000113937": 195,
+      "gas:candidate-vibid:1001000225944": 297,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 95,
+      "gas:candidate-vibid:343300170358": 129,
+      "gas:candidate-vibid:1001000126642": 62,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 75,
-      "Иконников Дмитрий Геннадьевич": 101,
-      "Куликов Владимир Владимирович": 82,
-      "Поглазов Александр Павлович": 200,
-      "Розуван Алексей Михайлович": 330,
-      "Рязанов Александр Александрович": 61,
-      "Сергеенков Владимир Нилович": 155,
-      "Скачков Олег Владимирович": 177,
-      "Туруло Валерий Николаевич": 89,
-      "Шабалин Борис Андреевич": 46,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000220818": 75,
+      "gas:candidate-vibid:1001000112216": 101,
+      "gas:candidate-vibid:343300170559": 82,
+      "gas:candidate-vibid:1001000113937": 200,
+      "gas:candidate-vibid:1001000225944": 330,
+      "gas:candidate-vibid:1001000136064": 61,
+      "gas:candidate-vibid:343300170542": 155,
+      "gas:candidate-vibid:343300170358": 177,
+      "gas:candidate-vibid:1001000126642": 89,
+      "gas:candidate-vibid:1001000195083": 46,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 60,
-      "Иконников Дмитрий Геннадьевич": 206,
-      "Куликов Владимир Владимирович": 49,
-      "Поглазов Александр Павлович": 261,
-      "Розуван Алексей Михайлович": 337,
-      "Рязанов Александр Александрович": 61,
-      "Сергеенков Владимир Нилович": 117,
-      "Скачков Олег Владимирович": 154,
-      "Туруло Валерий Николаевич": 73,
-      "Шабалин Борис Андреевич": 39,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000220818": 60,
+      "gas:candidate-vibid:1001000112216": 206,
+      "gas:candidate-vibid:343300170559": 49,
+      "gas:candidate-vibid:1001000113937": 261,
+      "gas:candidate-vibid:1001000225944": 337,
+      "gas:candidate-vibid:1001000136064": 61,
+      "gas:candidate-vibid:343300170542": 117,
+      "gas:candidate-vibid:343300170358": 154,
+      "gas:candidate-vibid:1001000126642": 73,
+      "gas:candidate-vibid:1001000195083": 39,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 112,
-      "Куликов Владимир Владимирович": 63,
-      "Поглазов Александр Павлович": 205,
-      "Розуван Алексей Михайлович": 335,
-      "Рязанов Александр Александрович": 49,
-      "Сергеенков Владимир Нилович": 87,
-      "Скачков Олег Владимирович": 125,
-      "Туруло Валерий Николаевич": 51,
-      "Шабалин Борис Андреевич": 24,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 112,
+      "gas:candidate-vibid:343300170559": 63,
+      "gas:candidate-vibid:1001000113937": 205,
+      "gas:candidate-vibid:1001000225944": 335,
+      "gas:candidate-vibid:1001000136064": 49,
+      "gas:candidate-vibid:343300170542": 87,
+      "gas:candidate-vibid:343300170358": 125,
+      "gas:candidate-vibid:1001000126642": 51,
+      "gas:candidate-vibid:1001000195083": 24,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 67,
-      "Иконников Дмитрий Геннадьевич": 183,
-      "Куликов Владимир Владимирович": 55,
-      "Поглазов Александр Павлович": 202,
-      "Розуван Алексей Михайлович": 383,
-      "Рязанов Александр Александрович": 62,
-      "Сергеенков Владимир Нилович": 110,
-      "Скачков Олег Владимирович": 122,
-      "Туруло Валерий Николаевич": 92,
-      "Шабалин Борис Андреевич": 38,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000220818": 67,
+      "gas:candidate-vibid:1001000112216": 183,
+      "gas:candidate-vibid:343300170559": 55,
+      "gas:candidate-vibid:1001000113937": 202,
+      "gas:candidate-vibid:1001000225944": 383,
+      "gas:candidate-vibid:1001000136064": 62,
+      "gas:candidate-vibid:343300170542": 110,
+      "gas:candidate-vibid:343300170358": 122,
+      "gas:candidate-vibid:1001000126642": 92,
+      "gas:candidate-vibid:1001000195083": 38,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 51,
-      "Иконников Дмитрий Геннадьевич": 107,
-      "Куликов Владимир Владимирович": 56,
-      "Поглазов Александр Павлович": 176,
-      "Розуван Алексей Михайлович": 303,
-      "Рязанов Александр Александрович": 40,
-      "Сергеенков Владимир Нилович": 120,
-      "Скачков Олег Владимирович": 148,
-      "Туруло Валерий Николаевич": 83,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000220818": 51,
+      "gas:candidate-vibid:1001000112216": 107,
+      "gas:candidate-vibid:343300170559": 56,
+      "gas:candidate-vibid:1001000113937": 176,
+      "gas:candidate-vibid:1001000225944": 303,
+      "gas:candidate-vibid:1001000136064": 40,
+      "gas:candidate-vibid:343300170542": 120,
+      "gas:candidate-vibid:343300170358": 148,
+      "gas:candidate-vibid:1001000126642": 83,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 56,
-      "Иконников Дмитрий Геннадьевич": 122,
-      "Куликов Владимир Владимирович": 55,
-      "Поглазов Александр Павлович": 182,
-      "Розуван Алексей Михайлович": 359,
-      "Рязанов Александр Александрович": 49,
-      "Сергеенков Владимир Нилович": 155,
-      "Скачков Олег Владимирович": 168,
-      "Туруло Валерий Николаевич": 75,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000220818": 56,
+      "gas:candidate-vibid:1001000112216": 122,
+      "gas:candidate-vibid:343300170559": 55,
+      "gas:candidate-vibid:1001000113937": 182,
+      "gas:candidate-vibid:1001000225944": 359,
+      "gas:candidate-vibid:1001000136064": 49,
+      "gas:candidate-vibid:343300170542": 155,
+      "gas:candidate-vibid:343300170358": 168,
+      "gas:candidate-vibid:1001000126642": 75,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 77,
-      "Иконников Дмитрий Геннадьевич": 101,
-      "Куликов Владимир Владимирович": 60,
-      "Поглазов Александр Павлович": 159,
-      "Розуван Алексей Михайлович": 336,
-      "Рязанов Александр Александрович": 74,
-      "Сергеенков Владимир Нилович": 146,
-      "Скачков Олег Владимирович": 129,
-      "Туруло Валерий Николаевич": 93,
-      "Шабалин Борис Андреевич": 48,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000220818": 77,
+      "gas:candidate-vibid:1001000112216": 101,
+      "gas:candidate-vibid:343300170559": 60,
+      "gas:candidate-vibid:1001000113937": 159,
+      "gas:candidate-vibid:1001000225944": 336,
+      "gas:candidate-vibid:1001000136064": 74,
+      "gas:candidate-vibid:343300170542": 146,
+      "gas:candidate-vibid:343300170358": 129,
+      "gas:candidate-vibid:1001000126642": 93,
+      "gas:candidate-vibid:1001000195083": 48,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 53,
-      "Иконников Дмитрий Геннадьевич": 117,
-      "Куликов Владимир Владимирович": 57,
-      "Поглазов Александр Павлович": 106,
-      "Розуван Алексей Михайлович": 299,
-      "Рязанов Александр Александрович": 77,
-      "Сергеенков Владимир Нилович": 90,
-      "Скачков Олег Владимирович": 126,
-      "Туруло Валерий Николаевич": 59,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000220818": 53,
+      "gas:candidate-vibid:1001000112216": 117,
+      "gas:candidate-vibid:343300170559": 57,
+      "gas:candidate-vibid:1001000113937": 106,
+      "gas:candidate-vibid:1001000225944": 299,
+      "gas:candidate-vibid:1001000136064": 77,
+      "gas:candidate-vibid:343300170542": 90,
+      "gas:candidate-vibid:343300170358": 126,
+      "gas:candidate-vibid:1001000126642": 59,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 87,
-      "Куликов Владимир Владимирович": 53,
-      "Поглазов Александр Павлович": 197,
-      "Розуван Алексей Михайлович": 350,
-      "Рязанов Александр Александрович": 33,
-      "Сергеенков Владимир Нилович": 104,
-      "Скачков Олег Владимирович": 149,
-      "Туруло Валерий Николаевич": 61,
-      "Шабалин Борис Андреевич": 27,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 87,
+      "gas:candidate-vibid:343300170559": 53,
+      "gas:candidate-vibid:1001000113937": 197,
+      "gas:candidate-vibid:1001000225944": 350,
+      "gas:candidate-vibid:1001000136064": 33,
+      "gas:candidate-vibid:343300170542": 104,
+      "gas:candidate-vibid:343300170358": 149,
+      "gas:candidate-vibid:1001000126642": 61,
+      "gas:candidate-vibid:1001000195083": 27,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 22,
-      "Иконников Дмитрий Геннадьевич": 87,
-      "Куликов Владимир Владимирович": 30,
-      "Поглазов Александр Павлович": 82,
-      "Розуван Алексей Михайлович": 157,
-      "Рязанов Александр Александрович": 25,
-      "Сергеенков Владимир Нилович": 146,
-      "Скачков Олег Владимирович": 50,
-      "Туруло Валерий Николаевич": 49,
-      "Шабалин Борис Андреевич": 17,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000220818": 22,
+      "gas:candidate-vibid:1001000112216": 87,
+      "gas:candidate-vibid:343300170559": 30,
+      "gas:candidate-vibid:1001000113937": 82,
+      "gas:candidate-vibid:1001000225944": 157,
+      "gas:candidate-vibid:1001000136064": 25,
+      "gas:candidate-vibid:343300170542": 146,
+      "gas:candidate-vibid:343300170358": 50,
+      "gas:candidate-vibid:1001000126642": 49,
+      "gas:candidate-vibid:1001000195083": 17,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 36,
-      "Иконников Дмитрий Геннадьевич": 50,
-      "Куликов Владимир Владимирович": 31,
-      "Поглазов Александр Павлович": 86,
-      "Розуван Алексей Михайлович": 273,
-      "Рязанов Александр Александрович": 62,
-      "Сергеенков Владимир Нилович": 82,
-      "Скачков Олег Владимирович": 63,
-      "Туруло Валерий Николаевич": 22,
-      "Шабалин Борис Андреевич": 32,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000220818": 36,
+      "gas:candidate-vibid:1001000112216": 50,
+      "gas:candidate-vibid:343300170559": 31,
+      "gas:candidate-vibid:1001000113937": 86,
+      "gas:candidate-vibid:1001000225944": 273,
+      "gas:candidate-vibid:1001000136064": 62,
+      "gas:candidate-vibid:343300170542": 82,
+      "gas:candidate-vibid:343300170358": 63,
+      "gas:candidate-vibid:1001000126642": 22,
+      "gas:candidate-vibid:1001000195083": 32,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 55,
-      "Иконников Дмитрий Геннадьевич": 97,
-      "Куликов Владимир Владимирович": 66,
-      "Поглазов Александр Павлович": 52,
-      "Розуван Алексей Михайлович": 225,
-      "Рязанов Александр Александрович": 42,
-      "Сергеенков Владимир Нилович": 178,
-      "Скачков Олег Владимирович": 92,
-      "Туруло Валерий Николаевич": 42,
-      "Шабалин Борис Андреевич": 44,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000220818": 55,
+      "gas:candidate-vibid:1001000112216": 97,
+      "gas:candidate-vibid:343300170559": 66,
+      "gas:candidate-vibid:1001000113937": 52,
+      "gas:candidate-vibid:1001000225944": 225,
+      "gas:candidate-vibid:1001000136064": 42,
+      "gas:candidate-vibid:343300170542": 178,
+      "gas:candidate-vibid:343300170358": 92,
+      "gas:candidate-vibid:1001000126642": 42,
+      "gas:candidate-vibid:1001000195083": 44,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 42,
-      "Иконников Дмитрий Геннадьевич": 86,
-      "Куликов Владимир Владимирович": 32,
-      "Поглазов Александр Павлович": 55,
-      "Розуван Алексей Михайлович": 220,
-      "Рязанов Александр Александрович": 47,
-      "Сергеенков Владимир Нилович": 152,
-      "Скачков Олег Владимирович": 99,
-      "Туруло Валерий Николаевич": 63,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000220818": 42,
+      "gas:candidate-vibid:1001000112216": 86,
+      "gas:candidate-vibid:343300170559": 32,
+      "gas:candidate-vibid:1001000113937": 55,
+      "gas:candidate-vibid:1001000225944": 220,
+      "gas:candidate-vibid:1001000136064": 47,
+      "gas:candidate-vibid:343300170542": 152,
+      "gas:candidate-vibid:343300170358": 99,
+      "gas:candidate-vibid:1001000126642": 63,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 81,
-      "Иконников Дмитрий Геннадьевич": 102,
-      "Куликов Владимир Владимирович": 61,
-      "Поглазов Александр Павлович": 116,
-      "Розуван Алексей Михайлович": 369,
-      "Рязанов Александр Александрович": 71,
-      "Сергеенков Владимир Нилович": 197,
-      "Скачков Олег Владимирович": 152,
-      "Туруло Валерий Николаевич": 71,
-      "Шабалин Борис Андреевич": 59,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000220818": 81,
+      "gas:candidate-vibid:1001000112216": 102,
+      "gas:candidate-vibid:343300170559": 61,
+      "gas:candidate-vibid:1001000113937": 116,
+      "gas:candidate-vibid:1001000225944": 369,
+      "gas:candidate-vibid:1001000136064": 71,
+      "gas:candidate-vibid:343300170542": 197,
+      "gas:candidate-vibid:343300170358": 152,
+      "gas:candidate-vibid:1001000126642": 71,
+      "gas:candidate-vibid:1001000195083": 59,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 48,
-      "Куликов Владимир Владимирович": 40,
-      "Поглазов Александр Павлович": 68,
-      "Розуван Алексей Михайлович": 207,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 127,
-      "Скачков Олег Владимирович": 75,
-      "Туруло Валерий Николаевич": 54,
-      "Шабалин Борис Андреевич": 41,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 48,
+      "gas:candidate-vibid:343300170559": 40,
+      "gas:candidate-vibid:1001000113937": 68,
+      "gas:candidate-vibid:1001000225944": 207,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 127,
+      "gas:candidate-vibid:343300170358": 75,
+      "gas:candidate-vibid:1001000126642": 54,
+      "gas:candidate-vibid:1001000195083": 41,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 30,
-      "Иконников Дмитрий Геннадьевич": 48,
-      "Куликов Владимир Владимирович": 41,
-      "Поглазов Александр Павлович": 86,
-      "Розуван Алексей Михайлович": 233,
-      "Рязанов Александр Александрович": 38,
-      "Сергеенков Владимир Нилович": 104,
-      "Скачков Олег Владимирович": 97,
-      "Туруло Валерий Николаевич": 58,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000220818": 30,
+      "gas:candidate-vibid:1001000112216": 48,
+      "gas:candidate-vibid:343300170559": 41,
+      "gas:candidate-vibid:1001000113937": 86,
+      "gas:candidate-vibid:1001000225944": 233,
+      "gas:candidate-vibid:1001000136064": 38,
+      "gas:candidate-vibid:343300170542": 104,
+      "gas:candidate-vibid:343300170358": 97,
+      "gas:candidate-vibid:1001000126642": 58,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 24,
-      "Иконников Дмитрий Геннадьевич": 29,
-      "Куликов Владимир Владимирович": 23,
-      "Поглазов Александр Павлович": 40,
-      "Розуван Алексей Михайлович": 141,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 56,
-      "Скачков Олег Владимирович": 58,
-      "Туруло Валерий Николаевич": 15,
-      "Шабалин Борис Андреевич": 20,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000220818": 24,
+      "gas:candidate-vibid:1001000112216": 29,
+      "gas:candidate-vibid:343300170559": 23,
+      "gas:candidate-vibid:1001000113937": 40,
+      "gas:candidate-vibid:1001000225944": 141,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 56,
+      "gas:candidate-vibid:343300170358": 58,
+      "gas:candidate-vibid:1001000126642": 15,
+      "gas:candidate-vibid:1001000195083": 20,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 44,
-      "Иконников Дмитрий Геннадьевич": 43,
-      "Куликов Владимир Владимирович": 63,
-      "Поглазов Александр Павлович": 76,
-      "Розуван Алексей Михайлович": 255,
-      "Рязанов Александр Александрович": 28,
-      "Сергеенков Владимир Нилович": 115,
-      "Скачков Олег Владимирович": 86,
-      "Туруло Валерий Николаевич": 28,
-      "Шабалин Борис Андреевич": 35,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000220818": 44,
+      "gas:candidate-vibid:1001000112216": 43,
+      "gas:candidate-vibid:343300170559": 63,
+      "gas:candidate-vibid:1001000113937": 76,
+      "gas:candidate-vibid:1001000225944": 255,
+      "gas:candidate-vibid:1001000136064": 28,
+      "gas:candidate-vibid:343300170542": 115,
+      "gas:candidate-vibid:343300170358": 86,
+      "gas:candidate-vibid:1001000126642": 28,
+      "gas:candidate-vibid:1001000195083": 35,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 22,
-      "Иконников Дмитрий Геннадьевич": 53,
-      "Куликов Владимир Владимирович": 10,
-      "Поглазов Александр Павлович": 27,
-      "Розуван Алексей Михайлович": 53,
-      "Рязанов Александр Александрович": 21,
-      "Сергеенков Владимир Нилович": 50,
-      "Скачков Олег Владимирович": 27,
-      "Туруло Валерий Николаевич": 16,
-      "Шабалин Борис Андреевич": 13,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000220818": 22,
+      "gas:candidate-vibid:1001000112216": 53,
+      "gas:candidate-vibid:343300170559": 10,
+      "gas:candidate-vibid:1001000113937": 27,
+      "gas:candidate-vibid:1001000225944": 53,
+      "gas:candidate-vibid:1001000136064": 21,
+      "gas:candidate-vibid:343300170542": 50,
+      "gas:candidate-vibid:343300170358": 27,
+      "gas:candidate-vibid:1001000126642": 16,
+      "gas:candidate-vibid:1001000195083": 13,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 18,
-      "Иконников Дмитрий Геннадьевич": 24,
-      "Куликов Владимир Владимирович": 44,
-      "Поглазов Александр Павлович": 98,
-      "Розуван Алексей Михайлович": 101,
-      "Рязанов Александр Александрович": 22,
-      "Сергеенков Владимир Нилович": 49,
-      "Скачков Олег Владимирович": 54,
-      "Туруло Валерий Николаевич": 28,
-      "Шабалин Борис Андреевич": 31,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000220818": 18,
+      "gas:candidate-vibid:1001000112216": 24,
+      "gas:candidate-vibid:343300170559": 44,
+      "gas:candidate-vibid:1001000113937": 98,
+      "gas:candidate-vibid:1001000225944": 101,
+      "gas:candidate-vibid:1001000136064": 22,
+      "gas:candidate-vibid:343300170542": 49,
+      "gas:candidate-vibid:343300170358": 54,
+      "gas:candidate-vibid:1001000126642": 28,
+      "gas:candidate-vibid:1001000195083": 31,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 10,
-      "Иконников Дмитрий Геннадьевич": 18,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 27,
-      "Розуван Алексей Михайлович": 91,
-      "Рязанов Александр Александрович": 13,
-      "Сергеенков Владимир Нилович": 55,
-      "Скачков Олег Владимирович": 100,
-      "Туруло Валерий Николаевич": 16,
-      "Шабалин Борис Андреевич": 16,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000220818": 10,
+      "gas:candidate-vibid:1001000112216": 18,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 27,
+      "gas:candidate-vibid:1001000225944": 91,
+      "gas:candidate-vibid:1001000136064": 13,
+      "gas:candidate-vibid:343300170542": 55,
+      "gas:candidate-vibid:343300170358": 100,
+      "gas:candidate-vibid:1001000126642": 16,
+      "gas:candidate-vibid:1001000195083": 16,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070815&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 23,
-      "Иконников Дмитрий Геннадьевич": 51,
-      "Куликов Владимир Владимирович": 18,
-      "Поглазов Александр Павлович": 46,
-      "Розуван Алексей Михайлович": 265,
-      "Рязанов Александр Александрович": 63,
-      "Сергеенков Владимир Нилович": 133,
-      "Скачков Олег Владимирович": 59,
-      "Туруло Валерий Николаевич": 40,
-      "Шабалин Борис Андреевич": 45,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000220818": 23,
+      "gas:candidate-vibid:1001000112216": 51,
+      "gas:candidate-vibid:343300170559": 18,
+      "gas:candidate-vibid:1001000113937": 46,
+      "gas:candidate-vibid:1001000225944": 265,
+      "gas:candidate-vibid:1001000136064": 63,
+      "gas:candidate-vibid:343300170542": 133,
+      "gas:candidate-vibid:343300170358": 59,
+      "gas:candidate-vibid:1001000126642": 40,
+      "gas:candidate-vibid:1001000195083": 45,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 29,
-      "Иконников Дмитрий Геннадьевич": 121,
-      "Куликов Владимир Владимирович": 26,
-      "Поглазов Александр Павлович": 44,
-      "Розуван Алексей Михайлович": 300,
-      "Рязанов Александр Александрович": 55,
-      "Сергеенков Владимир Нилович": 139,
-      "Скачков Олег Владимирович": 76,
-      "Туруло Валерий Николаевич": 93,
-      "Шабалин Борис Андреевич": 40,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000220818": 29,
+      "gas:candidate-vibid:1001000112216": 121,
+      "gas:candidate-vibid:343300170559": 26,
+      "gas:candidate-vibid:1001000113937": 44,
+      "gas:candidate-vibid:1001000225944": 300,
+      "gas:candidate-vibid:1001000136064": 55,
+      "gas:candidate-vibid:343300170542": 139,
+      "gas:candidate-vibid:343300170358": 76,
+      "gas:candidate-vibid:1001000126642": 93,
+      "gas:candidate-vibid:1001000195083": 40,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 81,
-      "Куликов Владимир Владимирович": 20,
-      "Поглазов Александр Павлович": 41,
-      "Розуван Алексей Михайлович": 292,
-      "Рязанов Александр Александрович": 71,
-      "Сергеенков Владимир Нилович": 149,
-      "Скачков Олег Владимирович": 117,
-      "Туруло Валерий Николаевич": 56,
-      "Шабалин Борис Андреевич": 37,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 81,
+      "gas:candidate-vibid:343300170559": 20,
+      "gas:candidate-vibid:1001000113937": 41,
+      "gas:candidate-vibid:1001000225944": 292,
+      "gas:candidate-vibid:1001000136064": 71,
+      "gas:candidate-vibid:343300170542": 149,
+      "gas:candidate-vibid:343300170358": 117,
+      "gas:candidate-vibid:1001000126642": 56,
+      "gas:candidate-vibid:1001000195083": 37,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 17,
-      "Иконников Дмитрий Геннадьевич": 41,
-      "Куликов Владимир Владимирович": 18,
-      "Поглазов Александр Павлович": 13,
-      "Розуван Алексей Михайлович": 135,
-      "Рязанов Александр Александрович": 24,
-      "Сергеенков Владимир Нилович": 77,
-      "Скачков Олег Владимирович": 50,
-      "Туруло Валерий Николаевич": 30,
-      "Шабалин Борис Андреевич": 31,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000220818": 17,
+      "gas:candidate-vibid:1001000112216": 41,
+      "gas:candidate-vibid:343300170559": 18,
+      "gas:candidate-vibid:1001000113937": 13,
+      "gas:candidate-vibid:1001000225944": 135,
+      "gas:candidate-vibid:1001000136064": 24,
+      "gas:candidate-vibid:343300170542": 77,
+      "gas:candidate-vibid:343300170358": 50,
+      "gas:candidate-vibid:1001000126642": 30,
+      "gas:candidate-vibid:1001000195083": 31,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 8,
-      "Иконников Дмитрий Геннадьевич": 43,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 12,
-      "Розуван Алексей Михайлович": 125,
-      "Рязанов Александр Александрович": 27,
-      "Сергеенков Владимир Нилович": 75,
-      "Скачков Олег Владимирович": 52,
-      "Туруло Валерий Николаевич": 27,
-      "Шабалин Борис Андреевич": 19,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000220818": 8,
+      "gas:candidate-vibid:1001000112216": 43,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 12,
+      "gas:candidate-vibid:1001000225944": 125,
+      "gas:candidate-vibid:1001000136064": 27,
+      "gas:candidate-vibid:343300170542": 75,
+      "gas:candidate-vibid:343300170358": 52,
+      "gas:candidate-vibid:1001000126642": 27,
+      "gas:candidate-vibid:1001000195083": 19,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 40,
-      "Иконников Дмитрий Геннадьевич": 79,
-      "Куликов Владимир Владимирович": 36,
-      "Поглазов Александр Павлович": 34,
-      "Розуван Алексей Михайлович": 328,
-      "Рязанов Александр Александрович": 60,
-      "Сергеенков Владимир Нилович": 172,
-      "Скачков Олег Владимирович": 88,
-      "Туруло Валерий Николаевич": 84,
-      "Шабалин Борис Андреевич": 50,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000220818": 40,
+      "gas:candidate-vibid:1001000112216": 79,
+      "gas:candidate-vibid:343300170559": 36,
+      "gas:candidate-vibid:1001000113937": 34,
+      "gas:candidate-vibid:1001000225944": 328,
+      "gas:candidate-vibid:1001000136064": 60,
+      "gas:candidate-vibid:343300170542": 172,
+      "gas:candidate-vibid:343300170358": 88,
+      "gas:candidate-vibid:1001000126642": 84,
+      "gas:candidate-vibid:1001000195083": 50,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 5,
-      "Поглазов Александр Павлович": 1,
-      "Розуван Алексей Михайлович": 36,
-      "Рязанов Александр Александрович": 7,
-      "Сергеенков Владимир Нилович": 10,
-      "Скачков Олег Владимирович": 4,
-      "Туруло Валерий Николаевич": 3,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 5,
+      "gas:candidate-vibid:1001000113937": 1,
+      "gas:candidate-vibid:1001000225944": 36,
+      "gas:candidate-vibid:1001000136064": 7,
+      "gas:candidate-vibid:343300170542": 10,
+      "gas:candidate-vibid:343300170358": 4,
+      "gas:candidate-vibid:1001000126642": 3,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 8,
-      "Поглазов Александр Павлович": 1,
-      "Розуван Алексей Михайлович": 55,
-      "Рязанов Александр Александрович": 10,
-      "Сергеенков Владимир Нилович": 21,
-      "Скачков Олег Владимирович": 5,
-      "Туруло Валерий Николаевич": 4,
-      "Шабалин Борис Андреевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 8,
+      "gas:candidate-vibid:1001000113937": 1,
+      "gas:candidate-vibid:1001000225944": 55,
+      "gas:candidate-vibid:1001000136064": 10,
+      "gas:candidate-vibid:343300170542": 21,
+      "gas:candidate-vibid:343300170358": 5,
+      "gas:candidate-vibid:1001000126642": 4,
+      "gas:candidate-vibid:1001000195083": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 3,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 13,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 12,
-      "Скачков Олег Владимирович": 2,
-      "Туруло Валерий Николаевич": 0,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220818": 3,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 13,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 12,
+      "gas:candidate-vibid:343300170358": 2,
+      "gas:candidate-vibid:1001000126642": 0,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 7,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 71,
-      "Рязанов Александр Александрович": 19,
-      "Сергеенков Владимир Нилович": 29,
-      "Скачков Олег Владимирович": 36,
-      "Туруло Валерий Николаевич": 10,
-      "Шабалин Борис Андреевич": 9,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 7,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 71,
+      "gas:candidate-vibid:1001000136064": 19,
+      "gas:candidate-vibid:343300170542": 29,
+      "gas:candidate-vibid:343300170358": 36,
+      "gas:candidate-vibid:1001000126642": 10,
+      "gas:candidate-vibid:1001000195083": 9,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 7,
-      "Иконников Дмитрий Геннадьевич": 5,
-      "Куликов Владимир Владимирович": 3,
-      "Поглазов Александр Павлович": 3,
-      "Розуван Алексей Михайлович": 45,
-      "Рязанов Александр Александрович": 12,
-      "Сергеенков Владимир Нилович": 52,
-      "Скачков Олег Владимирович": 16,
-      "Туруло Валерий Николаевич": 2,
-      "Шабалин Борис Андреевич": 15,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000220818": 7,
+      "gas:candidate-vibid:1001000112216": 5,
+      "gas:candidate-vibid:343300170559": 3,
+      "gas:candidate-vibid:1001000113937": 3,
+      "gas:candidate-vibid:1001000225944": 45,
+      "gas:candidate-vibid:1001000136064": 12,
+      "gas:candidate-vibid:343300170542": 52,
+      "gas:candidate-vibid:343300170358": 16,
+      "gas:candidate-vibid:1001000126642": 2,
+      "gas:candidate-vibid:1001000195083": 15,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 23,
-      "Иконников Дмитрий Геннадьевич": 51,
-      "Куликов Владимир Владимирович": 25,
-      "Поглазов Александр Павлович": 12,
-      "Розуван Алексей Михайлович": 203,
-      "Рязанов Александр Александрович": 24,
-      "Сергеенков Владимир Нилович": 54,
-      "Скачков Олег Владимирович": 120,
-      "Туруло Валерий Николаевич": 27,
-      "Шабалин Борис Андреевич": 35,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000220818": 23,
+      "gas:candidate-vibid:1001000112216": 51,
+      "gas:candidate-vibid:343300170559": 25,
+      "gas:candidate-vibid:1001000113937": 12,
+      "gas:candidate-vibid:1001000225944": 203,
+      "gas:candidate-vibid:1001000136064": 24,
+      "gas:candidate-vibid:343300170542": 54,
+      "gas:candidate-vibid:343300170358": 120,
+      "gas:candidate-vibid:1001000126642": 27,
+      "gas:candidate-vibid:1001000195083": 35,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 35,
-      "Иконников Дмитрий Геннадьевич": 39,
-      "Куликов Владимир Владимирович": 19,
-      "Поглазов Александр Павлович": 22,
-      "Розуван Алексей Михайлович": 185,
-      "Рязанов Александр Александрович": 52,
-      "Сергеенков Владимир Нилович": 50,
-      "Скачков Олег Владимирович": 111,
-      "Туруло Валерий Николаевич": 26,
-      "Шабалин Борис Андреевич": 30,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000220818": 35,
+      "gas:candidate-vibid:1001000112216": 39,
+      "gas:candidate-vibid:343300170559": 19,
+      "gas:candidate-vibid:1001000113937": 22,
+      "gas:candidate-vibid:1001000225944": 185,
+      "gas:candidate-vibid:1001000136064": 52,
+      "gas:candidate-vibid:343300170542": 50,
+      "gas:candidate-vibid:343300170358": 111,
+      "gas:candidate-vibid:1001000126642": 26,
+      "gas:candidate-vibid:1001000195083": 30,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 40,
-      "Иконников Дмитрий Геннадьевич": 36,
-      "Куликов Владимир Владимирович": 12,
-      "Поглазов Александр Павлович": 10,
-      "Розуван Алексей Михайлович": 229,
-      "Рязанов Александр Александрович": 25,
-      "Сергеенков Владимир Нилович": 71,
-      "Скачков Олег Владимирович": 103,
-      "Туруло Валерий Николаевич": 33,
-      "Шабалин Борис Андреевич": 26,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000220818": 40,
+      "gas:candidate-vibid:1001000112216": 36,
+      "gas:candidate-vibid:343300170559": 12,
+      "gas:candidate-vibid:1001000113937": 10,
+      "gas:candidate-vibid:1001000225944": 229,
+      "gas:candidate-vibid:1001000136064": 25,
+      "gas:candidate-vibid:343300170542": 71,
+      "gas:candidate-vibid:343300170358": 103,
+      "gas:candidate-vibid:1001000126642": 33,
+      "gas:candidate-vibid:1001000195083": 26,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 41,
-      "Иконников Дмитрий Геннадьевич": 34,
-      "Куликов Владимир Владимирович": 13,
-      "Поглазов Александр Павлович": 11,
-      "Розуван Алексей Михайлович": 234,
-      "Рязанов Александр Александрович": 38,
-      "Сергеенков Владимир Нилович": 51,
-      "Скачков Олег Владимирович": 81,
-      "Туруло Валерий Николаевич": 30,
-      "Шабалин Борис Андреевич": 32,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000220818": 41,
+      "gas:candidate-vibid:1001000112216": 34,
+      "gas:candidate-vibid:343300170559": 13,
+      "gas:candidate-vibid:1001000113937": 11,
+      "gas:candidate-vibid:1001000225944": 234,
+      "gas:candidate-vibid:1001000136064": 38,
+      "gas:candidate-vibid:343300170542": 51,
+      "gas:candidate-vibid:343300170358": 81,
+      "gas:candidate-vibid:1001000126642": 30,
+      "gas:candidate-vibid:1001000195083": 32,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 24,
-      "Иконников Дмитрий Геннадьевич": 31,
-      "Куликов Владимир Владимирович": 8,
-      "Поглазов Александр Павлович": 9,
-      "Розуван Алексей Михайлович": 178,
-      "Рязанов Александр Александрович": 34,
-      "Сергеенков Владимир Нилович": 47,
-      "Скачков Олег Владимирович": 33,
-      "Туруло Валерий Николаевич": 14,
-      "Шабалин Борис Андреевич": 14,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000220818": 24,
+      "gas:candidate-vibid:1001000112216": 31,
+      "gas:candidate-vibid:343300170559": 8,
+      "gas:candidate-vibid:1001000113937": 9,
+      "gas:candidate-vibid:1001000225944": 178,
+      "gas:candidate-vibid:1001000136064": 34,
+      "gas:candidate-vibid:343300170542": 47,
+      "gas:candidate-vibid:343300170358": 33,
+      "gas:candidate-vibid:1001000126642": 14,
+      "gas:candidate-vibid:1001000195083": 14,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 4,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 1,
-      "Розуван Алексей Михайлович": 18,
-      "Рязанов Александр Александрович": 5,
-      "Сергеенков Владимир Нилович": 19,
-      "Скачков Олег Владимирович": 13,
-      "Туруло Валерий Николаевич": 1,
-      "Шабалин Борис Андреевич": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000220818": 4,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 1,
+      "gas:candidate-vibid:1001000225944": 18,
+      "gas:candidate-vibid:1001000136064": 5,
+      "gas:candidate-vibid:343300170542": 19,
+      "gas:candidate-vibid:343300170358": 13,
+      "gas:candidate-vibid:1001000126642": 1,
+      "gas:candidate-vibid:1001000195083": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 12,
-      "Куликов Владимир Владимирович": 0,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 21,
-      "Рязанов Александр Александрович": 1,
-      "Сергеенков Владимир Нилович": 3,
-      "Скачков Олег Владимирович": 11,
-      "Туруло Валерий Николаевич": 0,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 12,
+      "gas:candidate-vibid:343300170559": 0,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 21,
+      "gas:candidate-vibid:1001000136064": 1,
+      "gas:candidate-vibid:343300170542": 3,
+      "gas:candidate-vibid:343300170358": 11,
+      "gas:candidate-vibid:1001000126642": 0,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 13,
-      "Иконников Дмитрий Геннадьевич": 22,
-      "Куликов Владимир Владимирович": 8,
-      "Поглазов Александр Павлович": 5,
-      "Розуван Алексей Михайлович": 114,
-      "Рязанов Александр Александрович": 17,
-      "Сергеенков Владимир Нилович": 40,
-      "Скачков Олег Владимирович": 31,
-      "Туруло Валерий Николаевич": 9,
-      "Шабалин Борис Андреевич": 45,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000220818": 13,
+      "gas:candidate-vibid:1001000112216": 22,
+      "gas:candidate-vibid:343300170559": 8,
+      "gas:candidate-vibid:1001000113937": 5,
+      "gas:candidate-vibid:1001000225944": 114,
+      "gas:candidate-vibid:1001000136064": 17,
+      "gas:candidate-vibid:343300170542": 40,
+      "gas:candidate-vibid:343300170358": 31,
+      "gas:candidate-vibid:1001000126642": 9,
+      "gas:candidate-vibid:1001000195083": 45,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 4,
-      "Иконников Дмитрий Геннадьевич": 4,
-      "Куликов Владимир Владимирович": 12,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 118,
-      "Рязанов Александр Александрович": 11,
-      "Сергеенков Владимир Нилович": 46,
-      "Скачков Олег Владимирович": 83,
-      "Туруло Валерий Николаевич": 7,
-      "Шабалин Борис Андреевич": 18,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000220818": 4,
+      "gas:candidate-vibid:1001000112216": 4,
+      "gas:candidate-vibid:343300170559": 12,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 118,
+      "gas:candidate-vibid:1001000136064": 11,
+      "gas:candidate-vibid:343300170542": 46,
+      "gas:candidate-vibid:343300170358": 83,
+      "gas:candidate-vibid:1001000126642": 7,
+      "gas:candidate-vibid:1001000195083": 18,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 3,
-      "Куликов Владимир Владимирович": 2,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 13,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 2,
-      "Скачков Олег Владимирович": 5,
-      "Туруло Валерий Николаевич": 6,
-      "Шабалин Борис Андреевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 3,
+      "gas:candidate-vibid:343300170559": 2,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 13,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 2,
+      "gas:candidate-vibid:343300170358": 5,
+      "gas:candidate-vibid:1001000126642": 6,
+      "gas:candidate-vibid:1001000195083": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 11,
-      "Иконников Дмитрий Геннадьевич": 6,
-      "Куликов Владимир Владимирович": 4,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 114,
-      "Рязанов Александр Александрович": 13,
-      "Сергеенков Владимир Нилович": 8,
-      "Скачков Олег Владимирович": 41,
-      "Туруло Валерий Николаевич": 10,
-      "Шабалин Борис Андреевич": 12,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000220818": 11,
+      "gas:candidate-vibid:1001000112216": 6,
+      "gas:candidate-vibid:343300170559": 4,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 114,
+      "gas:candidate-vibid:1001000136064": 13,
+      "gas:candidate-vibid:343300170542": 8,
+      "gas:candidate-vibid:343300170358": 41,
+      "gas:candidate-vibid:1001000126642": 10,
+      "gas:candidate-vibid:1001000195083": 12,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 0,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 29,
-      "Рязанов Александр Александрович": 2,
-      "Сергеенков Владимир Нилович": 14,
-      "Скачков Олег Владимирович": 5,
-      "Туруло Валерий Николаевич": 0,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 0,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 29,
+      "gas:candidate-vibid:1001000136064": 2,
+      "gas:candidate-vibid:343300170542": 14,
+      "gas:candidate-vibid:343300170358": 5,
+      "gas:candidate-vibid:1001000126642": 0,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 33,
-      "Иконников Дмитрий Геннадьевич": 56,
-      "Куликов Владимир Владимирович": 22,
-      "Поглазов Александр Павлович": 14,
-      "Розуван Алексей Михайлович": 304,
-      "Рязанов Александр Александрович": 29,
-      "Сергеенков Владимир Нилович": 64,
-      "Скачков Олег Владимирович": 59,
-      "Туруло Валерий Николаевич": 11,
-      "Шабалин Борис Андреевич": 33,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000220818": 33,
+      "gas:candidate-vibid:1001000112216": 56,
+      "gas:candidate-vibid:343300170559": 22,
+      "gas:candidate-vibid:1001000113937": 14,
+      "gas:candidate-vibid:1001000225944": 304,
+      "gas:candidate-vibid:1001000136064": 29,
+      "gas:candidate-vibid:343300170542": 64,
+      "gas:candidate-vibid:343300170358": 59,
+      "gas:candidate-vibid:1001000126642": 11,
+      "gas:candidate-vibid:1001000195083": 33,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 20,
-      "Иконников Дмитрий Геннадьевич": 37,
-      "Куликов Владимир Владимирович": 18,
-      "Поглазов Александр Павлович": 17,
-      "Розуван Алексей Михайлович": 271,
-      "Рязанов Александр Александрович": 34,
-      "Сергеенков Владимир Нилович": 45,
-      "Скачков Олег Владимирович": 61,
-      "Туруло Валерий Николаевич": 22,
-      "Шабалин Борис Андреевич": 36,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000220818": 20,
+      "gas:candidate-vibid:1001000112216": 37,
+      "gas:candidate-vibid:343300170559": 18,
+      "gas:candidate-vibid:1001000113937": 17,
+      "gas:candidate-vibid:1001000225944": 271,
+      "gas:candidate-vibid:1001000136064": 34,
+      "gas:candidate-vibid:343300170542": 45,
+      "gas:candidate-vibid:343300170358": 61,
+      "gas:candidate-vibid:1001000126642": 22,
+      "gas:candidate-vibid:1001000195083": 36,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 4,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 0,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 35,
-      "Рязанов Александр Александрович": 8,
-      "Сергеенков Владимир Нилович": 13,
-      "Скачков Олег Владимирович": 13,
-      "Туруло Валерий Николаевич": 4,
-      "Шабалин Борис Андреевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000220818": 4,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 0,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 35,
+      "gas:candidate-vibid:1001000136064": 8,
+      "gas:candidate-vibid:343300170542": 13,
+      "gas:candidate-vibid:343300170358": 13,
+      "gas:candidate-vibid:1001000126642": 4,
+      "gas:candidate-vibid:1001000195083": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 5,
-      "Иконников Дмитрий Геннадьевич": 2,
-      "Куликов Владимир Владимирович": 5,
-      "Поглазов Александр Павлович": 7,
-      "Розуван Алексей Михайлович": 12,
-      "Рязанов Александр Александрович": 4,
-      "Сергеенков Владимир Нилович": 16,
-      "Скачков Олег Владимирович": 3,
-      "Туруло Валерий Николаевич": 1,
-      "Шабалин Борис Андреевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220818": 5,
+      "gas:candidate-vibid:1001000112216": 2,
+      "gas:candidate-vibid:343300170559": 5,
+      "gas:candidate-vibid:1001000113937": 7,
+      "gas:candidate-vibid:1001000225944": 12,
+      "gas:candidate-vibid:1001000136064": 4,
+      "gas:candidate-vibid:343300170542": 16,
+      "gas:candidate-vibid:343300170358": 3,
+      "gas:candidate-vibid:1001000126642": 1,
+      "gas:candidate-vibid:1001000195083": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 6,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 1,
-      "Розуван Алексей Михайлович": 11,
-      "Рязанов Александр Александрович": 3,
-      "Сергеенков Владимир Нилович": 12,
-      "Скачков Олег Владимирович": 7,
-      "Туруло Валерий Николаевич": 3,
-      "Шабалин Борис Андреевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220818": 6,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 1,
+      "gas:candidate-vibid:1001000225944": 11,
+      "gas:candidate-vibid:1001000136064": 3,
+      "gas:candidate-vibid:343300170542": 12,
+      "gas:candidate-vibid:343300170358": 7,
+      "gas:candidate-vibid:1001000126642": 3,
+      "gas:candidate-vibid:1001000195083": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 6,
-      "Куликов Владимир Владимирович": 4,
-      "Поглазов Александр Павлович": 2,
-      "Розуван Алексей Михайлович": 19,
-      "Рязанов Александр Александрович": 1,
-      "Сергеенков Владимир Нилович": 3,
-      "Скачков Олег Владимирович": 1,
-      "Туруло Валерий Николаевич": 1,
-      "Шабалин Борис Андреевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 6,
+      "gas:candidate-vibid:343300170559": 4,
+      "gas:candidate-vibid:1001000113937": 2,
+      "gas:candidate-vibid:1001000225944": 19,
+      "gas:candidate-vibid:1001000136064": 1,
+      "gas:candidate-vibid:343300170542": 3,
+      "gas:candidate-vibid:343300170358": 1,
+      "gas:candidate-vibid:1001000126642": 1,
+      "gas:candidate-vibid:1001000195083": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 14,
-      "Иконников Дмитрий Геннадьевич": 20,
-      "Куликов Владимир Владимирович": 10,
-      "Поглазов Александр Павлович": 8,
-      "Розуван Алексей Михайлович": 175,
-      "Рязанов Александр Александрович": 15,
-      "Сергеенков Владимир Нилович": 88,
-      "Скачков Олег Владимирович": 40,
-      "Туруло Валерий Николаевич": 19,
-      "Шабалин Борис Андреевич": 20,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000220818": 14,
+      "gas:candidate-vibid:1001000112216": 20,
+      "gas:candidate-vibid:343300170559": 10,
+      "gas:candidate-vibid:1001000113937": 8,
+      "gas:candidate-vibid:1001000225944": 175,
+      "gas:candidate-vibid:1001000136064": 15,
+      "gas:candidate-vibid:343300170542": 88,
+      "gas:candidate-vibid:343300170358": 40,
+      "gas:candidate-vibid:1001000126642": 19,
+      "gas:candidate-vibid:1001000195083": 20,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 6,
-      "Иконников Дмитрий Геннадьевич": 16,
-      "Куликов Владимир Владимирович": 1,
-      "Поглазов Александр Павлович": 5,
-      "Розуван Алексей Михайлович": 138,
-      "Рязанов Александр Александрович": 10,
-      "Сергеенков Владимир Нилович": 87,
-      "Скачков Олег Владимирович": 29,
-      "Туруло Валерий Николаевич": 9,
-      "Шабалин Борис Андреевич": 20,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000220818": 6,
+      "gas:candidate-vibid:1001000112216": 16,
+      "gas:candidate-vibid:343300170559": 1,
+      "gas:candidate-vibid:1001000113937": 5,
+      "gas:candidate-vibid:1001000225944": 138,
+      "gas:candidate-vibid:1001000136064": 10,
+      "gas:candidate-vibid:343300170542": 87,
+      "gas:candidate-vibid:343300170358": 29,
+      "gas:candidate-vibid:1001000126642": 9,
+      "gas:candidate-vibid:1001000195083": 20,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 1,
-      "Куликов Владимир Владимирович": 4,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 42,
-      "Рязанов Александр Александрович": 0,
-      "Сергеенков Владимир Нилович": 47,
-      "Скачков Олег Владимирович": 31,
-      "Туруло Валерий Николаевич": 4,
-      "Шабалин Борис Андреевич": 16,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 1,
+      "gas:candidate-vibid:343300170559": 4,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 42,
+      "gas:candidate-vibid:1001000136064": 0,
+      "gas:candidate-vibid:343300170542": 47,
+      "gas:candidate-vibid:343300170358": 31,
+      "gas:candidate-vibid:1001000126642": 4,
+      "gas:candidate-vibid:1001000195083": 16,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 2,
-      "Иконников Дмитрий Геннадьевич": 4,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 38,
-      "Рязанов Александр Александрович": 3,
-      "Сергеенков Владимир Нилович": 33,
-      "Скачков Олег Владимирович": 44,
-      "Туруло Валерий Николаевич": 5,
-      "Шабалин Борис Андреевич": 14,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220818": 2,
+      "gas:candidate-vibid:1001000112216": 4,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 38,
+      "gas:candidate-vibid:1001000136064": 3,
+      "gas:candidate-vibid:343300170542": 33,
+      "gas:candidate-vibid:343300170358": 44,
+      "gas:candidate-vibid:1001000126642": 5,
+      "gas:candidate-vibid:1001000195083": 14,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 1,
-      "Иконников Дмитрий Геннадьевич": 2,
-      "Куликов Владимир Владимирович": 9,
-      "Поглазов Александр Павлович": 0,
-      "Розуван Алексей Михайлович": 17,
-      "Рязанов Александр Александрович": 5,
-      "Сергеенков Владимир Нилович": 27,
-      "Скачков Олег Владимирович": 17,
-      "Туруло Валерий Николаевич": 9,
-      "Шабалин Борис Андреевич": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220818": 1,
+      "gas:candidate-vibid:1001000112216": 2,
+      "gas:candidate-vibid:343300170559": 9,
+      "gas:candidate-vibid:1001000113937": 0,
+      "gas:candidate-vibid:1001000225944": 17,
+      "gas:candidate-vibid:1001000136064": 5,
+      "gas:candidate-vibid:343300170542": 27,
+      "gas:candidate-vibid:343300170358": 17,
+      "gas:candidate-vibid:1001000126642": 9,
+      "gas:candidate-vibid:1001000195083": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 6,
-      "Иконников Дмитрий Геннадьевич": 13,
-      "Куликов Владимир Владимирович": 7,
-      "Поглазов Александр Павлович": 5,
-      "Розуван Алексей Михайлович": 89,
-      "Рязанов Александр Александрович": 10,
-      "Сергеенков Владимир Нилович": 18,
-      "Скачков Олег Владимирович": 7,
-      "Туруло Валерий Николаевич": 4,
-      "Шабалин Борис Андреевич": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000220818": 6,
+      "gas:candidate-vibid:1001000112216": 13,
+      "gas:candidate-vibid:343300170559": 7,
+      "gas:candidate-vibid:1001000113937": 5,
+      "gas:candidate-vibid:1001000225944": 89,
+      "gas:candidate-vibid:1001000136064": 10,
+      "gas:candidate-vibid:343300170542": 18,
+      "gas:candidate-vibid:343300170358": 7,
+      "gas:candidate-vibid:1001000126642": 4,
+      "gas:candidate-vibid:1001000195083": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 19,
-      "Иконников Дмитрий Геннадьевич": 4,
-      "Куликов Владимир Владимирович": 9,
-      "Поглазов Александр Павлович": 4,
-      "Розуван Алексей Михайлович": 54,
-      "Рязанов Александр Александрович": 9,
-      "Сергеенков Владимир Нилович": 36,
-      "Скачков Олег Владимирович": 0,
-      "Туруло Валерий Николаевич": 11,
-      "Шабалин Борис Андреевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000220818": 19,
+      "gas:candidate-vibid:1001000112216": 4,
+      "gas:candidate-vibid:343300170559": 9,
+      "gas:candidate-vibid:1001000113937": 4,
+      "gas:candidate-vibid:1001000225944": 54,
+      "gas:candidate-vibid:1001000136064": 9,
+      "gas:candidate-vibid:343300170542": 36,
+      "gas:candidate-vibid:343300170358": 0,
+      "gas:candidate-vibid:1001000126642": 11,
+      "gas:candidate-vibid:1001000195083": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_43_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Безденежных Николай Николаевич": 13,
-      "Иконников Дмитрий Геннадьевич": 18,
-      "Куликов Владимир Владимирович": 8,
-      "Поглазов Александр Павлович": 3,
-      "Розуван Алексей Михайлович": 48,
-      "Рязанов Александр Александрович": 12,
-      "Сергеенков Владимир Нилович": 79,
-      "Скачков Олег Владимирович": 10,
-      "Туруло Валерий Николаевич": 16,
-      "Шабалин Борис Андреевич": 28,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000220818": 13,
+      "gas:candidate-vibid:1001000112216": 18,
+      "gas:candidate-vibid:343300170559": 8,
+      "gas:candidate-vibid:1001000113937": 3,
+      "gas:candidate-vibid:1001000225944": 48,
+      "gas:candidate-vibid:1001000136064": 12,
+      "gas:candidate-vibid:343300170542": 79,
+      "gas:candidate-vibid:343300170358": 10,
+      "gas:candidate-vibid:1001000126642": 16,
+      "gas:candidate-vibid:1001000195083": 28,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070816&region=0&sub_region=0&type=429",

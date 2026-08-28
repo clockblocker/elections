@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 42,
-      "Гайнуллин Дмитрий Фаридович": 33,
-      "Добровольская Виктория Дмитриевна": 49,
-      "Левин Леонид Леонидович": 778,
-      "Мамонов Андрей Викторович": 27,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 83
+      "gas:candidate-vibid:2582000734132": 42,
+      "gas:candidate-vibid:2582000741060": 33,
+      "gas:candidate-vibid:2582000740321": 49,
+      "gas:candidate-vibid:2582000736159": 778,
+      "gas:candidate-vibid:2582000740281": 27,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 27,
-      "Гайнуллин Дмитрий Фаридович": 12,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 392,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 22
+      "gas:candidate-vibid:2582000734132": 27,
+      "gas:candidate-vibid:2582000741060": 12,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 392,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 1,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 1,
-      "Левин Леонид Леонидович": 132,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 1
+      "gas:candidate-vibid:2582000734132": 1,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 1,
+      "gas:candidate-vibid:2582000736159": 132,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 19,
-      "Добровольская Виктория Дмитриевна": 34,
-      "Левин Леонид Леонидович": 877,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 104
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 19,
+      "gas:candidate-vibid:2582000740321": 34,
+      "gas:candidate-vibid:2582000736159": 877,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 59,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 12,
-      "Левин Леонид Леонидович": 155,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 59,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 12,
+      "gas:candidate-vibid:2582000736159": 155,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 15,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 202,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 15,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 202,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 6,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 288,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 29
+      "gas:candidate-vibid:2582000734132": 6,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 288,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 6,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 140,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 10
+      "gas:candidate-vibid:2582000734132": 6,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 140,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 56,
-      "Гайнуллин Дмитрий Фаридович": 25,
-      "Добровольская Виктория Дмитриевна": 30,
-      "Левин Леонид Леонидович": 467,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 45
+      "gas:candidate-vibid:2582000734132": 56,
+      "gas:candidate-vibid:2582000741060": 25,
+      "gas:candidate-vibid:2582000740321": 30,
+      "gas:candidate-vibid:2582000736159": 467,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 3,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 26,
-      "Левин Леонид Леонидович": 82,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 3,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 26,
+      "gas:candidate-vibid:2582000736159": 82,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 49,
-      "Гайнуллин Дмитрий Фаридович": 12,
-      "Добровольская Виктория Дмитриевна": 21,
-      "Левин Леонид Леонидович": 481,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 34
+      "gas:candidate-vibid:2582000734132": 49,
+      "gas:candidate-vibid:2582000741060": 12,
+      "gas:candidate-vibid:2582000740321": 21,
+      "gas:candidate-vibid:2582000736159": 481,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 32,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 24,
-      "Левин Леонид Леонидович": 455,
-      "Мамонов Андрей Викторович": 10,
-      "Мельниченко Василий Александрович": 8,
-      "Филяев Дмитрий Олегович": 34
+      "gas:candidate-vibid:2582000734132": 32,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 24,
+      "gas:candidate-vibid:2582000736159": 455,
+      "gas:candidate-vibid:2582000740281": 10,
+      "gas:candidate-vibid:2582000740682": 8,
+      "gas:candidate-vibid:2582000740042": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 28,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 18,
-      "Левин Леонид Леонидович": 133,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 23
+      "gas:candidate-vibid:2582000734132": 28,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 18,
+      "gas:candidate-vibid:2582000736159": 133,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 28,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 344,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 20
+      "gas:candidate-vibid:2582000734132": 28,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 344,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 7,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 2,
-      "Левин Леонид Леонидович": 121,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 3
+      "gas:candidate-vibid:2582000734132": 7,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 2,
+      "gas:candidate-vibid:2582000736159": 121,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 7,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 43,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 10
+      "gas:candidate-vibid:2582000734132": 7,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 43,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 45,
-      "Гайнуллин Дмитрий Фаридович": 9,
-      "Добровольская Виктория Дмитриевна": 35,
-      "Левин Леонид Леонидович": 539,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 34
+      "gas:candidate-vibid:2582000734132": 45,
+      "gas:candidate-vibid:2582000741060": 9,
+      "gas:candidate-vibid:2582000740321": 35,
+      "gas:candidate-vibid:2582000736159": 539,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 29,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 13,
-      "Левин Леонид Леонидович": 378,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 25
+      "gas:candidate-vibid:2582000734132": 29,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 13,
+      "gas:candidate-vibid:2582000736159": 378,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671238&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671238&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 25,
-      "Гайнуллин Дмитрий Фаридович": 8,
-      "Добровольская Виктория Дмитриевна": 20,
-      "Левин Леонид Леонидович": 508,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 59
+      "gas:candidate-vibid:2582000734132": 25,
+      "gas:candidate-vibid:2582000741060": 8,
+      "gas:candidate-vibid:2582000740321": 20,
+      "gas:candidate-vibid:2582000736159": 508,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 74,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 7
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 74,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 13,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 24,
-      "Левин Леонид Леонидович": 140,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 10,
-      "Филяев Дмитрий Олегович": 36
+      "gas:candidate-vibid:2582000734132": 13,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 24,
+      "gas:candidate-vibid:2582000736159": 140,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 10,
+      "gas:candidate-vibid:2582000740042": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 19,
-      "Левин Леонид Леонидович": 226,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 19,
+      "gas:candidate-vibid:2582000736159": 226,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 0,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 2,
-      "Левин Леонид Леонидович": 110,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 1
+      "gas:candidate-vibid:2582000734132": 0,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 2,
+      "gas:candidate-vibid:2582000736159": 110,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 7,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 85,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 2
+      "gas:candidate-vibid:2582000734132": 7,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 85,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 26,
-      "Гайнуллин Дмитрий Фаридович": 16,
-      "Добровольская Виктория Дмитриевна": 15,
-      "Левин Леонид Леонидович": 906,
-      "Мамонов Андрей Викторович": 15,
-      "Мельниченко Василий Александрович": 17,
-      "Филяев Дмитрий Олегович": 218
+      "gas:candidate-vibid:2582000734132": 26,
+      "gas:candidate-vibid:2582000741060": 16,
+      "gas:candidate-vibid:2582000740321": 15,
+      "gas:candidate-vibid:2582000736159": 906,
+      "gas:candidate-vibid:2582000740281": 15,
+      "gas:candidate-vibid:2582000740682": 17,
+      "gas:candidate-vibid:2582000740042": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 63,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 2,
-      "Левин Леонид Леонидович": 912,
-      "Мамонов Андрей Викторович": 9,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 219
+      "gas:candidate-vibid:2582000734132": 63,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 2,
+      "gas:candidate-vibid:2582000736159": 912,
+      "gas:candidate-vibid:2582000740281": 9,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 113,
-      "Гайнуллин Дмитрий Фаридович": 18,
-      "Добровольская Виктория Дмитриевна": 59,
-      "Левин Леонид Леонидович": 782,
-      "Мамонов Андрей Викторович": 24,
-      "Мельниченко Василий Александрович": 15,
-      "Филяев Дмитрий Олегович": 176
+      "gas:candidate-vibid:2582000734132": 113,
+      "gas:candidate-vibid:2582000741060": 18,
+      "gas:candidate-vibid:2582000740321": 59,
+      "gas:candidate-vibid:2582000736159": 782,
+      "gas:candidate-vibid:2582000740281": 24,
+      "gas:candidate-vibid:2582000740682": 15,
+      "gas:candidate-vibid:2582000740042": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 18,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 307,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 13
+      "gas:candidate-vibid:2582000734132": 18,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 307,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 12,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 166,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 12,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 166,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 0,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 2,
-      "Левин Леонид Леонидович": 57,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 2
+      "gas:candidate-vibid:2582000734132": 0,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 2,
+      "gas:candidate-vibid:2582000736159": 57,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 6,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 147,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 6,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 147,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 3,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 0,
-      "Левин Леонид Леонидович": 107,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 1
+      "gas:candidate-vibid:2582000734132": 3,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 0,
+      "gas:candidate-vibid:2582000736159": 107,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 8,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 183,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 7
+      "gas:candidate-vibid:2582000734132": 8,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 183,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 1,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 57,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 9
+      "gas:candidate-vibid:2582000734132": 1,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 57,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 21,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 265,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 21,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 265,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 20,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 130,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 7
+      "gas:candidate-vibid:2582000734132": 20,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 130,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 21,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 168,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 21,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 168,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 1,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 1,
-      "Левин Леонид Леонидович": 103,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 1
+      "gas:candidate-vibid:2582000734132": 1,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 1,
+      "gas:candidate-vibid:2582000736159": 103,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 15,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 221,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 13
+      "gas:candidate-vibid:2582000734132": 15,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 221,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671239&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671239&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 94,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 61,
-      "Левин Леонид Леонидович": 616,
-      "Мамонов Андрей Викторович": 21,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 128
+      "gas:candidate-vibid:2582000734132": 94,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 61,
+      "gas:candidate-vibid:2582000736159": 616,
+      "gas:candidate-vibid:2582000740281": 21,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 77,
-      "Гайнуллин Дмитрий Фаридович": 12,
-      "Добровольская Виктория Дмитриевна": 59,
-      "Левин Леонид Леонидович": 418,
-      "Мамонов Андрей Викторович": 12,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 176
+      "gas:candidate-vibid:2582000734132": 77,
+      "gas:candidate-vibid:2582000741060": 12,
+      "gas:candidate-vibid:2582000740321": 59,
+      "gas:candidate-vibid:2582000736159": 418,
+      "gas:candidate-vibid:2582000740281": 12,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 71,
-      "Гайнуллин Дмитрий Фаридович": 12,
-      "Добровольская Виктория Дмитриевна": 40,
-      "Левин Леонид Леонидович": 463,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 13,
-      "Филяев Дмитрий Олегович": 120
+      "gas:candidate-vibid:2582000734132": 71,
+      "gas:candidate-vibid:2582000741060": 12,
+      "gas:candidate-vibid:2582000740321": 40,
+      "gas:candidate-vibid:2582000736159": 463,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 13,
+      "gas:candidate-vibid:2582000740042": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 104,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 55,
-      "Левин Леонид Леонидович": 500,
-      "Мамонов Андрей Викторович": 21,
-      "Мельниченко Василий Александрович": 14,
-      "Филяев Дмитрий Олегович": 135
+      "gas:candidate-vibid:2582000734132": 104,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 55,
+      "gas:candidate-vibid:2582000736159": 500,
+      "gas:candidate-vibid:2582000740281": 21,
+      "gas:candidate-vibid:2582000740682": 14,
+      "gas:candidate-vibid:2582000740042": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 79,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 39,
-      "Левин Леонид Леонидович": 338,
-      "Мамонов Андрей Викторович": 23,
-      "Мельниченко Василий Александрович": 8,
-      "Филяев Дмитрий Олегович": 145
+      "gas:candidate-vibid:2582000734132": 79,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 39,
+      "gas:candidate-vibid:2582000736159": 338,
+      "gas:candidate-vibid:2582000740281": 23,
+      "gas:candidate-vibid:2582000740682": 8,
+      "gas:candidate-vibid:2582000740042": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 93,
-      "Гайнуллин Дмитрий Фаридович": 13,
-      "Добровольская Виктория Дмитриевна": 58,
-      "Левин Леонид Леонидович": 646,
-      "Мамонов Андрей Викторович": 20,
-      "Мельниченко Василий Александрович": 23,
-      "Филяев Дмитрий Олегович": 172
+      "gas:candidate-vibid:2582000734132": 93,
+      "gas:candidate-vibid:2582000741060": 13,
+      "gas:candidate-vibid:2582000740321": 58,
+      "gas:candidate-vibid:2582000736159": 646,
+      "gas:candidate-vibid:2582000740281": 20,
+      "gas:candidate-vibid:2582000740682": 23,
+      "gas:candidate-vibid:2582000740042": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 177,
-      "Гайнуллин Дмитрий Фаридович": 13,
-      "Добровольская Виктория Дмитриевна": 107,
-      "Левин Леонид Леонидович": 642,
-      "Мамонов Андрей Викторович": 26,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 196
+      "gas:candidate-vibid:2582000734132": 177,
+      "gas:candidate-vibid:2582000741060": 13,
+      "gas:candidate-vibid:2582000740321": 107,
+      "gas:candidate-vibid:2582000736159": 642,
+      "gas:candidate-vibid:2582000740281": 26,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 51,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 47,
-      "Левин Леонид Леонидович": 454,
-      "Мамонов Андрей Викторович": 11,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 67
+      "gas:candidate-vibid:2582000734132": 51,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 47,
+      "gas:candidate-vibid:2582000736159": 454,
+      "gas:candidate-vibid:2582000740281": 11,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 13,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 12,
-      "Левин Леонид Леонидович": 91,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 19
+      "gas:candidate-vibid:2582000734132": 13,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 12,
+      "gas:candidate-vibid:2582000736159": 91,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 0,
-      "Левин Леонид Леонидович": 69,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 0
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 0,
+      "gas:candidate-vibid:2582000736159": 69,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 30,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 149,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 23
+      "gas:candidate-vibid:2582000734132": 30,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 149,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 22,
-      "Левин Леонид Леонидович": 298,
-      "Мамонов Андрей Викторович": 9,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 48
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 22,
+      "gas:candidate-vibid:2582000736159": 298,
+      "gas:candidate-vibid:2582000740281": 9,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 5,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 110,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 62
+      "gas:candidate-vibid:2582000734132": 5,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 110,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 8,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 194,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 4
+      "gas:candidate-vibid:2582000734132": 8,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 194,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 7,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 12,
-      "Левин Леонид Леонидович": 635,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 15
+      "gas:candidate-vibid:2582000734132": 7,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 12,
+      "gas:candidate-vibid:2582000736159": 635,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 24,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 32,
-      "Левин Леонид Леонидович": 245,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 27
+      "gas:candidate-vibid:2582000734132": 24,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 32,
+      "gas:candidate-vibid:2582000736159": 245,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 27,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 37,
-      "Левин Леонид Леонидович": 457,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 35
+      "gas:candidate-vibid:2582000734132": 27,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 37,
+      "gas:candidate-vibid:2582000736159": 457,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 59,
-      "Гайнуллин Дмитрий Фаридович": 9,
-      "Добровольская Виктория Дмитриевна": 41,
-      "Левин Леонид Леонидович": 610,
-      "Мамонов Андрей Викторович": 16,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 85
+      "gas:candidate-vibid:2582000734132": 59,
+      "gas:candidate-vibid:2582000741060": 9,
+      "gas:candidate-vibid:2582000740321": 41,
+      "gas:candidate-vibid:2582000736159": 610,
+      "gas:candidate-vibid:2582000740281": 16,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 21,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 10,
-      "Левин Леонид Леонидович": 147,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 11
+      "gas:candidate-vibid:2582000734132": 21,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 10,
+      "gas:candidate-vibid:2582000736159": 147,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 21,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 312,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 21,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 312,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 14,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 149,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 11
+      "gas:candidate-vibid:2582000734132": 14,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 149,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 23,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 19,
-      "Левин Леонид Леонидович": 310,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 41
+      "gas:candidate-vibid:2582000734132": 23,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 19,
+      "gas:candidate-vibid:2582000736159": 310,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 1,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 0,
-      "Левин Леонид Леонидович": 177,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 2
+      "gas:candidate-vibid:2582000734132": 1,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 0,
+      "gas:candidate-vibid:2582000736159": 177,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 30,
-      "Левин Леонид Леонидович": 212,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 47
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 30,
+      "gas:candidate-vibid:2582000736159": 212,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 1,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 151,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 6
+      "gas:candidate-vibid:2582000734132": 1,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 151,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 15,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 9,
-      "Левин Леонид Леонидович": 404,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 31
+      "gas:candidate-vibid:2582000734132": 15,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 9,
+      "gas:candidate-vibid:2582000736159": 404,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 40,
-      "Левин Леонид Леонидович": 572,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 34
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 40,
+      "gas:candidate-vibid:2582000736159": 572,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 21,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 28,
-      "Левин Леонид Леонидович": 276,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 46
+      "gas:candidate-vibid:2582000734132": 21,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 28,
+      "gas:candidate-vibid:2582000736159": 276,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 13,
-      "Гайнуллин Дмитрий Фаридович": 8,
-      "Добровольская Виктория Дмитриевна": 22,
-      "Левин Леонид Леонидович": 748,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 51
+      "gas:candidate-vibid:2582000734132": 13,
+      "gas:candidate-vibid:2582000741060": 8,
+      "gas:candidate-vibid:2582000740321": 22,
+      "gas:candidate-vibid:2582000736159": 748,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671240&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671240&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 13,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 6,
-      "Левин Леонид Леонидович": 222,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 31
+      "gas:candidate-vibid:2582000734132": 13,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 6,
+      "gas:candidate-vibid:2582000736159": 222,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 8,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 195,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 4
+      "gas:candidate-vibid:2582000734132": 8,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 195,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 11,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 6,
-      "Левин Леонид Леонидович": 165,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 10
+      "gas:candidate-vibid:2582000734132": 11,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 6,
+      "gas:candidate-vibid:2582000736159": 165,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 29,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 17,
-      "Левин Леонид Леонидович": 184,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 27
+      "gas:candidate-vibid:2582000734132": 29,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 17,
+      "gas:candidate-vibid:2582000736159": 184,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 8,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 270,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 14
+      "gas:candidate-vibid:2582000734132": 8,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 270,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 11,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 11,
-      "Левин Леонид Леонидович": 190,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 23
+      "gas:candidate-vibid:2582000734132": 11,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 11,
+      "gas:candidate-vibid:2582000736159": 190,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 29,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 174,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 27
+      "gas:candidate-vibid:2582000734132": 29,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 174,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 37,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 12,
-      "Левин Леонид Леонидович": 149,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 16
+      "gas:candidate-vibid:2582000734132": 37,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 12,
+      "gas:candidate-vibid:2582000736159": 149,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 45,
-      "Гайнуллин Дмитрий Фаридович": 6,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 332,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 23
+      "gas:candidate-vibid:2582000734132": 45,
+      "gas:candidate-vibid:2582000741060": 6,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 332,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 18,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 218,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 20
+      "gas:candidate-vibid:2582000734132": 18,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 218,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 38,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 20,
-      "Левин Леонид Леонидович": 237,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 42
+      "gas:candidate-vibid:2582000734132": 38,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 20,
+      "gas:candidate-vibid:2582000736159": 237,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 0,
-      "Левин Леонид Леонидович": 223,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 9
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 0,
+      "gas:candidate-vibid:2582000736159": 223,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 8,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 135,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 13
+      "gas:candidate-vibid:2582000734132": 8,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 135,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 9,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 70,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 17
+      "gas:candidate-vibid:2582000734132": 9,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 70,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 6,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 105,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 12
+      "gas:candidate-vibid:2582000734132": 6,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 105,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 6,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 125,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 41
+      "gas:candidate-vibid:2582000734132": 6,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 125,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 13,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 6,
-      "Левин Леонид Леонидович": 127,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 15
+      "gas:candidate-vibid:2582000734132": 13,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 6,
+      "gas:candidate-vibid:2582000736159": 127,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 3,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 78,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 9
+      "gas:candidate-vibid:2582000734132": 3,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 78,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 24,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 11,
-      "Левин Леонид Леонидович": 263,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 28
+      "gas:candidate-vibid:2582000734132": 24,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 11,
+      "gas:candidate-vibid:2582000736159": 263,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 11,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 221,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 15
+      "gas:candidate-vibid:2582000734132": 11,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 221,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 10,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 6,
-      "Левин Леонид Леонидович": 177,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 13
+      "gas:candidate-vibid:2582000734132": 10,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 6,
+      "gas:candidate-vibid:2582000736159": 177,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 14,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 13,
-      "Левин Леонид Леонидович": 103,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 23
+      "gas:candidate-vibid:2582000734132": 14,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 13,
+      "gas:candidate-vibid:2582000736159": 103,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 2,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 2,
-      "Левин Леонид Леонидович": 84,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 7
+      "gas:candidate-vibid:2582000734132": 2,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 2,
+      "gas:candidate-vibid:2582000736159": 84,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 6,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 1,
-      "Левин Леонид Леонидович": 117,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 3
+      "gas:candidate-vibid:2582000734132": 6,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 1,
+      "gas:candidate-vibid:2582000736159": 117,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671241&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671241&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 23,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 220,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 14
+      "gas:candidate-vibid:2582000734132": 23,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 220,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 107,
-      "Гайнуллин Дмитрий Фаридович": 16,
-      "Добровольская Виктория Дмитриевна": 45,
-      "Левин Леонид Леонидович": 667,
-      "Мамонов Андрей Викторович": 24,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 97
+      "gas:candidate-vibid:2582000734132": 107,
+      "gas:candidate-vibid:2582000741060": 16,
+      "gas:candidate-vibid:2582000740321": 45,
+      "gas:candidate-vibid:2582000736159": 667,
+      "gas:candidate-vibid:2582000740281": 24,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 115,
-      "Гайнуллин Дмитрий Фаридович": 15,
-      "Добровольская Виктория Дмитриевна": 55,
-      "Левин Леонид Леонидович": 1152,
-      "Мамонов Андрей Викторович": 19,
-      "Мельниченко Василий Александрович": 12,
-      "Филяев Дмитрий Олегович": 67
+      "gas:candidate-vibid:2582000734132": 115,
+      "gas:candidate-vibid:2582000741060": 15,
+      "gas:candidate-vibid:2582000740321": 55,
+      "gas:candidate-vibid:2582000736159": 1152,
+      "gas:candidate-vibid:2582000740281": 19,
+      "gas:candidate-vibid:2582000740682": 12,
+      "gas:candidate-vibid:2582000740042": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 84,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 45,
-      "Левин Леонид Леонидович": 872,
-      "Мамонов Андрей Викторович": 22,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 59
+      "gas:candidate-vibid:2582000734132": 84,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 45,
+      "gas:candidate-vibid:2582000736159": 872,
+      "gas:candidate-vibid:2582000740281": 22,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 74,
-      "Гайнуллин Дмитрий Фаридович": 14,
-      "Добровольская Виктория Дмитриевна": 57,
-      "Левин Леонид Леонидович": 835,
-      "Мамонов Андрей Викторович": 30,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 77
+      "gas:candidate-vibid:2582000734132": 74,
+      "gas:candidate-vibid:2582000741060": 14,
+      "gas:candidate-vibid:2582000740321": 57,
+      "gas:candidate-vibid:2582000736159": 835,
+      "gas:candidate-vibid:2582000740281": 30,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 154,
-      "Гайнуллин Дмитрий Фаридович": 49,
-      "Добровольская Виктория Дмитриевна": 111,
-      "Левин Леонид Леонидович": 1133,
-      "Мамонов Андрей Викторович": 45,
-      "Мельниченко Василий Александрович": 31,
-      "Филяев Дмитрий Олегович": 100
+      "gas:candidate-vibid:2582000734132": 154,
+      "gas:candidate-vibid:2582000741060": 49,
+      "gas:candidate-vibid:2582000740321": 111,
+      "gas:candidate-vibid:2582000736159": 1133,
+      "gas:candidate-vibid:2582000740281": 45,
+      "gas:candidate-vibid:2582000740682": 31,
+      "gas:candidate-vibid:2582000740042": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 98,
-      "Гайнуллин Дмитрий Фаридович": 36,
-      "Добровольская Виктория Дмитриевна": 55,
-      "Левин Леонид Леонидович": 782,
-      "Мамонов Андрей Викторович": 25,
-      "Мельниченко Василий Александрович": 33,
-      "Филяев Дмитрий Олегович": 96
+      "gas:candidate-vibid:2582000734132": 98,
+      "gas:candidate-vibid:2582000741060": 36,
+      "gas:candidate-vibid:2582000740321": 55,
+      "gas:candidate-vibid:2582000736159": 782,
+      "gas:candidate-vibid:2582000740281": 25,
+      "gas:candidate-vibid:2582000740682": 33,
+      "gas:candidate-vibid:2582000740042": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 95,
-      "Гайнуллин Дмитрий Фаридович": 18,
-      "Добровольская Виктория Дмитриевна": 60,
-      "Левин Леонид Леонидович": 1006,
-      "Мамонов Андрей Викторович": 30,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 99
+      "gas:candidate-vibid:2582000734132": 95,
+      "gas:candidate-vibid:2582000741060": 18,
+      "gas:candidate-vibid:2582000740321": 60,
+      "gas:candidate-vibid:2582000736159": 1006,
+      "gas:candidate-vibid:2582000740281": 30,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 85,
-      "Гайнуллин Дмитрий Фаридович": 26,
-      "Добровольская Виктория Дмитриевна": 42,
-      "Левин Леонид Леонидович": 769,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 44
+      "gas:candidate-vibid:2582000734132": 85,
+      "gas:candidate-vibid:2582000741060": 26,
+      "gas:candidate-vibid:2582000740321": 42,
+      "gas:candidate-vibid:2582000736159": 769,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 101,
-      "Гайнуллин Дмитрий Фаридович": 20,
-      "Добровольская Виктория Дмитриевна": 54,
-      "Левин Леонид Леонидович": 1011,
-      "Мамонов Андрей Викторович": 17,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 57
+      "gas:candidate-vibid:2582000734132": 101,
+      "gas:candidate-vibid:2582000741060": 20,
+      "gas:candidate-vibid:2582000740321": 54,
+      "gas:candidate-vibid:2582000736159": 1011,
+      "gas:candidate-vibid:2582000740281": 17,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 37,
-      "Гайнуллин Дмитрий Фаридович": 6,
-      "Добровольская Виктория Дмитриевна": 28,
-      "Левин Леонид Леонидович": 358,
-      "Мамонов Андрей Викторович": 17,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 31
+      "gas:candidate-vibid:2582000734132": 37,
+      "gas:candidate-vibid:2582000741060": 6,
+      "gas:candidate-vibid:2582000740321": 28,
+      "gas:candidate-vibid:2582000736159": 358,
+      "gas:candidate-vibid:2582000740281": 17,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 0,
-      "Гайнуллин Дмитрий Фаридович": 16,
-      "Добровольская Виктория Дмитриевна": 56,
-      "Левин Леонид Леонидович": 792,
-      "Мамонов Андрей Викторович": 42,
-      "Мельниченко Василий Александрович": 14,
-      "Филяев Дмитрий Олегович": 49
+      "gas:candidate-vibid:2582000734132": 0,
+      "gas:candidate-vibid:2582000741060": 16,
+      "gas:candidate-vibid:2582000740321": 56,
+      "gas:candidate-vibid:2582000736159": 792,
+      "gas:candidate-vibid:2582000740281": 42,
+      "gas:candidate-vibid:2582000740682": 14,
+      "gas:candidate-vibid:2582000740042": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 39,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 34,
-      "Левин Леонид Леонидович": 529,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 31
+      "gas:candidate-vibid:2582000734132": 39,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 34,
+      "gas:candidate-vibid:2582000736159": 529,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 72,
-      "Гайнуллин Дмитрий Фаридович": 9,
-      "Добровольская Виктория Дмитриевна": 30,
-      "Левин Леонид Леонидович": 531,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 56
+      "gas:candidate-vibid:2582000734132": 72,
+      "gas:candidate-vibid:2582000741060": 9,
+      "gas:candidate-vibid:2582000740321": 30,
+      "gas:candidate-vibid:2582000736159": 531,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 35,
-      "Гайнуллин Дмитрий Фаридович": 23,
-      "Добровольская Виктория Дмитриевна": 42,
-      "Левин Леонид Леонидович": 576,
-      "Мамонов Андрей Викторович": 23,
-      "Мельниченко Василий Александрович": 13,
-      "Филяев Дмитрий Олегович": 46
+      "gas:candidate-vibid:2582000734132": 35,
+      "gas:candidate-vibid:2582000741060": 23,
+      "gas:candidate-vibid:2582000740321": 42,
+      "gas:candidate-vibid:2582000736159": 576,
+      "gas:candidate-vibid:2582000740281": 23,
+      "gas:candidate-vibid:2582000740682": 13,
+      "gas:candidate-vibid:2582000740042": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 55,
-      "Гайнуллин Дмитрий Фаридович": 8,
-      "Добровольская Виктория Дмитриевна": 35,
-      "Левин Леонид Леонидович": 690,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 60
+      "gas:candidate-vibid:2582000734132": 55,
+      "gas:candidate-vibid:2582000741060": 8,
+      "gas:candidate-vibid:2582000740321": 35,
+      "gas:candidate-vibid:2582000736159": 690,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 71,
-      "Гайнуллин Дмитрий Фаридович": 11,
-      "Добровольская Виктория Дмитриевна": 38,
-      "Левин Леонид Леонидович": 594,
-      "Мамонов Андрей Викторович": 14,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 48
+      "gas:candidate-vibid:2582000734132": 71,
+      "gas:candidate-vibid:2582000741060": 11,
+      "gas:candidate-vibid:2582000740321": 38,
+      "gas:candidate-vibid:2582000736159": 594,
+      "gas:candidate-vibid:2582000740281": 14,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 38,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 70,
-      "Левин Леонид Леонидович": 527,
-      "Мамонов Андрей Викторович": 11,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 32
+      "gas:candidate-vibid:2582000734132": 38,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 70,
+      "gas:candidate-vibid:2582000736159": 527,
+      "gas:candidate-vibid:2582000740281": 11,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 35,
-      "Гайнуллин Дмитрий Фаридович": 20,
-      "Добровольская Виктория Дмитриевна": 34,
-      "Левин Леонид Леонидович": 393,
-      "Мамонов Андрей Викторович": 14,
-      "Мельниченко Василий Александрович": 14,
-      "Филяев Дмитрий Олегович": 24
+      "gas:candidate-vibid:2582000734132": 35,
+      "gas:candidate-vibid:2582000741060": 20,
+      "gas:candidate-vibid:2582000740321": 34,
+      "gas:candidate-vibid:2582000736159": 393,
+      "gas:candidate-vibid:2582000740281": 14,
+      "gas:candidate-vibid:2582000740682": 14,
+      "gas:candidate-vibid:2582000740042": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 93,
-      "Гайнуллин Дмитрий Фаридович": 15,
-      "Добровольская Виктория Дмитриевна": 53,
-      "Левин Леонид Леонидович": 886,
-      "Мамонов Андрей Викторович": 22,
-      "Мельниченко Василий Александрович": 13,
-      "Филяев Дмитрий Олегович": 130
+      "gas:candidate-vibid:2582000734132": 93,
+      "gas:candidate-vibid:2582000741060": 15,
+      "gas:candidate-vibid:2582000740321": 53,
+      "gas:candidate-vibid:2582000736159": 886,
+      "gas:candidate-vibid:2582000740281": 22,
+      "gas:candidate-vibid:2582000740682": 13,
+      "gas:candidate-vibid:2582000740042": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 99,
-      "Гайнуллин Дмитрий Фаридович": 13,
-      "Добровольская Виктория Дмитриевна": 47,
-      "Левин Леонид Леонидович": 930,
-      "Мамонов Андрей Викторович": 25,
-      "Мельниченко Василий Александрович": 13,
-      "Филяев Дмитрий Олегович": 115
+      "gas:candidate-vibid:2582000734132": 99,
+      "gas:candidate-vibid:2582000741060": 13,
+      "gas:candidate-vibid:2582000740321": 47,
+      "gas:candidate-vibid:2582000736159": 930,
+      "gas:candidate-vibid:2582000740281": 25,
+      "gas:candidate-vibid:2582000740682": 13,
+      "gas:candidate-vibid:2582000740042": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 10,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 16,
-      "Левин Леонид Леонидович": 132,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 22
+      "gas:candidate-vibid:2582000734132": 10,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 16,
+      "gas:candidate-vibid:2582000736159": 132,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 13,
-      "Левин Леонид Леонидович": 400,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 31
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 13,
+      "gas:candidate-vibid:2582000736159": 400,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 52,
-      "Гайнуллин Дмитрий Фаридович": 8,
-      "Добровольская Виктория Дмитриевна": 43,
-      "Левин Леонид Леонидович": 382,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 61
+      "gas:candidate-vibid:2582000734132": 52,
+      "gas:candidate-vibid:2582000741060": 8,
+      "gas:candidate-vibid:2582000740321": 43,
+      "gas:candidate-vibid:2582000736159": 382,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 72,
-      "Гайнуллин Дмитрий Фаридович": 8,
-      "Добровольская Виктория Дмитриевна": 36,
-      "Левин Леонид Леонидович": 573,
-      "Мамонов Андрей Викторович": 17,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 72,
+      "gas:candidate-vibid:2582000741060": 8,
+      "gas:candidate-vibid:2582000740321": 36,
+      "gas:candidate-vibid:2582000736159": 573,
+      "gas:candidate-vibid:2582000740281": 17,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 42,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 11,
-      "Левин Леонид Леонидович": 249,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 18
+      "gas:candidate-vibid:2582000734132": 42,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 11,
+      "gas:candidate-vibid:2582000736159": 249,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 9,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 123,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 9
+      "gas:candidate-vibid:2582000734132": 9,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 123,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 137,
-      "Гайнуллин Дмитрий Фаридович": 29,
-      "Добровольская Виктория Дмитриевна": 58,
-      "Левин Леонид Леонидович": 1063,
-      "Мамонов Андрей Викторович": 36,
-      "Мельниченко Василий Александрович": 19,
-      "Филяев Дмитрий Олегович": 125
+      "gas:candidate-vibid:2582000734132": 137,
+      "gas:candidate-vibid:2582000741060": 29,
+      "gas:candidate-vibid:2582000740321": 58,
+      "gas:candidate-vibid:2582000736159": 1063,
+      "gas:candidate-vibid:2582000740281": 36,
+      "gas:candidate-vibid:2582000740682": 19,
+      "gas:candidate-vibid:2582000740042": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 30,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 26,
-      "Левин Леонид Леонидович": 491,
-      "Мамонов Андрей Викторович": 9,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 28
+      "gas:candidate-vibid:2582000734132": 30,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 26,
+      "gas:candidate-vibid:2582000736159": 491,
+      "gas:candidate-vibid:2582000740281": 9,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 17,
-      "Гайнуллин Дмитрий Фаридович": 9,
-      "Добровольская Виктория Дмитриевна": 16,
-      "Левин Леонид Леонидович": 483,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 28
+      "gas:candidate-vibid:2582000734132": 17,
+      "gas:candidate-vibid:2582000741060": 9,
+      "gas:candidate-vibid:2582000740321": 16,
+      "gas:candidate-vibid:2582000736159": 483,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 60,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 44,
-      "Левин Леонид Леонидович": 410,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 29,
-      "Филяев Дмитрий Олегович": 104
+      "gas:candidate-vibid:2582000734132": 60,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 44,
+      "gas:candidate-vibid:2582000736159": 410,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 29,
+      "gas:candidate-vibid:2582000740042": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 10,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 18,
-      "Левин Леонид Леонидович": 187,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 14
+      "gas:candidate-vibid:2582000734132": 10,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 18,
+      "gas:candidate-vibid:2582000736159": 187,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 165,
-      "Гайнуллин Дмитрий Фаридович": 34,
-      "Добровольская Виктория Дмитриевна": 131,
-      "Левин Леонид Леонидович": 878,
-      "Мамонов Андрей Викторович": 44,
-      "Мельниченко Василий Александрович": 23,
-      "Филяев Дмитрий Олегович": 106
+      "gas:candidate-vibid:2582000734132": 165,
+      "gas:candidate-vibid:2582000741060": 34,
+      "gas:candidate-vibid:2582000740321": 131,
+      "gas:candidate-vibid:2582000736159": 878,
+      "gas:candidate-vibid:2582000740281": 44,
+      "gas:candidate-vibid:2582000740682": 23,
+      "gas:candidate-vibid:2582000740042": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 133,
-      "Гайнуллин Дмитрий Фаридович": 25,
-      "Добровольская Виктория Дмитриевна": 89,
-      "Левин Леонид Леонидович": 684,
-      "Мамонов Андрей Викторович": 28,
-      "Мельниченко Василий Александрович": 20,
-      "Филяев Дмитрий Олегович": 130
+      "gas:candidate-vibid:2582000734132": 133,
+      "gas:candidate-vibid:2582000741060": 25,
+      "gas:candidate-vibid:2582000740321": 89,
+      "gas:candidate-vibid:2582000736159": 684,
+      "gas:candidate-vibid:2582000740281": 28,
+      "gas:candidate-vibid:2582000740682": 20,
+      "gas:candidate-vibid:2582000740042": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 103,
-      "Гайнуллин Дмитрий Фаридович": 23,
-      "Добровольская Виктория Дмитриевна": 57,
-      "Левин Леонид Леонидович": 682,
-      "Мамонов Андрей Викторович": 25,
-      "Мельниченко Василий Александрович": 8,
-      "Филяев Дмитрий Олегович": 105
+      "gas:candidate-vibid:2582000734132": 103,
+      "gas:candidate-vibid:2582000741060": 23,
+      "gas:candidate-vibid:2582000740321": 57,
+      "gas:candidate-vibid:2582000736159": 682,
+      "gas:candidate-vibid:2582000740281": 25,
+      "gas:candidate-vibid:2582000740682": 8,
+      "gas:candidate-vibid:2582000740042": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 37,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 27,
-      "Левин Леонид Леонидович": 463,
-      "Мамонов Андрей Викторович": 9,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 34
+      "gas:candidate-vibid:2582000734132": 37,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 27,
+      "gas:candidate-vibid:2582000736159": 463,
+      "gas:candidate-vibid:2582000740281": 9,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671242&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671242&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 127,
-      "Гайнуллин Дмитрий Фаридович": 21,
-      "Добровольская Виктория Дмитриевна": 71,
-      "Левин Леонид Леонидович": 775,
-      "Мамонов Андрей Викторович": 37,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 110
+      "gas:candidate-vibid:2582000734132": 127,
+      "gas:candidate-vibid:2582000741060": 21,
+      "gas:candidate-vibid:2582000740321": 71,
+      "gas:candidate-vibid:2582000736159": 775,
+      "gas:candidate-vibid:2582000740281": 37,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 138,
-      "Гайнуллин Дмитрий Фаридович": 28,
-      "Добровольская Виктория Дмитриевна": 56,
-      "Левин Леонид Леонидович": 826,
-      "Мамонов Андрей Викторович": 24,
-      "Мельниченко Василий Александрович": 10,
-      "Филяев Дмитрий Олегович": 137
+      "gas:candidate-vibid:2582000734132": 138,
+      "gas:candidate-vibid:2582000741060": 28,
+      "gas:candidate-vibid:2582000740321": 56,
+      "gas:candidate-vibid:2582000736159": 826,
+      "gas:candidate-vibid:2582000740281": 24,
+      "gas:candidate-vibid:2582000740682": 10,
+      "gas:candidate-vibid:2582000740042": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 9,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 1022,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 133
+      "gas:candidate-vibid:2582000734132": 9,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 1022,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 12,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 20,
-      "Левин Леонид Леонидович": 398,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 18
+      "gas:candidate-vibid:2582000734132": 12,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 20,
+      "gas:candidate-vibid:2582000736159": 398,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 23,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 16,
-      "Левин Леонид Леонидович": 456,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 19
+      "gas:candidate-vibid:2582000734132": 23,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 16,
+      "gas:candidate-vibid:2582000736159": 456,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 39,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 38,
-      "Левин Леонид Леонидович": 447,
-      "Мамонов Андрей Викторович": 11,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 29
+      "gas:candidate-vibid:2582000734132": 39,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 38,
+      "gas:candidate-vibid:2582000736159": 447,
+      "gas:candidate-vibid:2582000740281": 11,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 18,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 92,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 7
+      "gas:candidate-vibid:2582000734132": 18,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 92,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 23,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 17,
-      "Левин Леонид Леонидович": 242,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 21
+      "gas:candidate-vibid:2582000734132": 23,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 17,
+      "gas:candidate-vibid:2582000736159": 242,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 5,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 153,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 11
+      "gas:candidate-vibid:2582000734132": 5,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 153,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 2,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 104,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 9
+      "gas:candidate-vibid:2582000734132": 2,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 104,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 2,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 50,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 0
+      "gas:candidate-vibid:2582000734132": 2,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 50,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 0,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 3,
-      "Левин Леонид Леонидович": 155,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 21
+      "gas:candidate-vibid:2582000734132": 0,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 3,
+      "gas:candidate-vibid:2582000736159": 155,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 39,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 17,
-      "Левин Леонид Леонидович": 403,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 39,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 17,
+      "gas:candidate-vibid:2582000736159": 403,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 15,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 19,
-      "Левин Леонид Леонидович": 305,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 21
+      "gas:candidate-vibid:2582000734132": 15,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 19,
+      "gas:candidate-vibid:2582000736159": 305,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 17,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 13,
-      "Левин Леонид Леонидович": 369,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 17
+      "gas:candidate-vibid:2582000734132": 17,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 13,
+      "gas:candidate-vibid:2582000736159": 369,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 13,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 19,
-      "Левин Леонид Леонидович": 539,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 17
+      "gas:candidate-vibid:2582000734132": 13,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 19,
+      "gas:candidate-vibid:2582000736159": 539,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 16,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 431,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 13
+      "gas:candidate-vibid:2582000734132": 16,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 431,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 3,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 1,
-      "Левин Леонид Леонидович": 693,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 2
+      "gas:candidate-vibid:2582000734132": 3,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 1,
+      "gas:candidate-vibid:2582000736159": 693,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 50,
-      "Гайнуллин Дмитрий Фаридович": 11,
-      "Добровольская Виктория Дмитриевна": 30,
-      "Левин Леонид Леонидович": 505,
-      "Мамонов Андрей Викторович": 10,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 51
+      "gas:candidate-vibid:2582000734132": 50,
+      "gas:candidate-vibid:2582000741060": 11,
+      "gas:candidate-vibid:2582000740321": 30,
+      "gas:candidate-vibid:2582000736159": 505,
+      "gas:candidate-vibid:2582000740281": 10,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 10,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 0,
-      "Левин Леонид Леонидович": 168,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 3
+      "gas:candidate-vibid:2582000734132": 10,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 0,
+      "gas:candidate-vibid:2582000736159": 168,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 10,
-      "Левин Леонид Леонидович": 268,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 22
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 10,
+      "gas:candidate-vibid:2582000736159": 268,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 18,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 230,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 14
+      "gas:candidate-vibid:2582000734132": 18,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 230,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 28,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 567,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 15
+      "gas:candidate-vibid:2582000734132": 28,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 567,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 107,
-      "Гайнуллин Дмитрий Фаридович": 30,
-      "Добровольская Виктория Дмитриевна": 63,
-      "Левин Леонид Леонидович": 1212,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 15,
-      "Филяев Дмитрий Олегович": 173
+      "gas:candidate-vibid:2582000734132": 107,
+      "gas:candidate-vibid:2582000741060": 30,
+      "gas:candidate-vibid:2582000740321": 63,
+      "gas:candidate-vibid:2582000736159": 1212,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 15,
+      "gas:candidate-vibid:2582000740042": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 13,
-      "Левин Леонид Леонидович": 390,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 23
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 13,
+      "gas:candidate-vibid:2582000736159": 390,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 5,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 6,
-      "Левин Леонид Леонидович": 200,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 3
+      "gas:candidate-vibid:2582000734132": 5,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 6,
+      "gas:candidate-vibid:2582000736159": 200,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 64,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 47,
-      "Левин Леонид Леонидович": 829,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 84
+      "gas:candidate-vibid:2582000734132": 64,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 47,
+      "gas:candidate-vibid:2582000736159": 829,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 17,
-      "Левин Леонид Леонидович": 347,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 20
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 17,
+      "gas:candidate-vibid:2582000736159": 347,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 15,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 9,
-      "Левин Леонид Леонидович": 425,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 15,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 9,
+      "gas:candidate-vibid:2582000736159": 425,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 191,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 11
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 191,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 18,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 16,
-      "Левин Леонид Леонидович": 366,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 18,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 16,
+      "gas:candidate-vibid:2582000736159": 366,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671243&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671243&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 29,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 23,
-      "Левин Леонид Леонидович": 576,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 20
+      "gas:candidate-vibid:2582000734132": 29,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 23,
+      "gas:candidate-vibid:2582000736159": 576,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 73,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 44,
-      "Левин Леонид Леонидович": 495,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 45
+      "gas:candidate-vibid:2582000734132": 73,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 44,
+      "gas:candidate-vibid:2582000736159": 495,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 110,
-      "Гайнуллин Дмитрий Фаридович": 22,
-      "Добровольская Виктория Дмитриевна": 43,
-      "Левин Леонид Леонидович": 729,
-      "Мамонов Андрей Викторович": 15,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 82
+      "gas:candidate-vibid:2582000734132": 110,
+      "gas:candidate-vibid:2582000741060": 22,
+      "gas:candidate-vibid:2582000740321": 43,
+      "gas:candidate-vibid:2582000736159": 729,
+      "gas:candidate-vibid:2582000740281": 15,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 117,
-      "Гайнуллин Дмитрий Фаридович": 24,
-      "Добровольская Виктория Дмитриевна": 83,
-      "Левин Леонид Леонидович": 731,
-      "Мамонов Андрей Викторович": 25,
-      "Мельниченко Василий Александрович": 13,
-      "Филяев Дмитрий Олегович": 126
+      "gas:candidate-vibid:2582000734132": 117,
+      "gas:candidate-vibid:2582000741060": 24,
+      "gas:candidate-vibid:2582000740321": 83,
+      "gas:candidate-vibid:2582000736159": 731,
+      "gas:candidate-vibid:2582000740281": 25,
+      "gas:candidate-vibid:2582000740682": 13,
+      "gas:candidate-vibid:2582000740042": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 11,
-      "Левин Леонид Леонидович": 303,
-      "Мамонов Андрей Викторович": 9,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 20
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 11,
+      "gas:candidate-vibid:2582000736159": 303,
+      "gas:candidate-vibid:2582000740281": 9,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 21,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 205,
-      "Мамонов Андрей Викторович": 10,
-      "Мельниченко Василий Александрович": 4,
-      "Филяев Дмитрий Олегович": 18
+      "gas:candidate-vibid:2582000734132": 21,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 205,
+      "gas:candidate-vibid:2582000740281": 10,
+      "gas:candidate-vibid:2582000740682": 4,
+      "gas:candidate-vibid:2582000740042": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 14,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 223,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 14,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 223,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 31,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 29,
-      "Левин Леонид Леонидович": 300,
-      "Мамонов Андрей Викторович": 6,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 38
+      "gas:candidate-vibid:2582000734132": 31,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 29,
+      "gas:candidate-vibid:2582000736159": 300,
+      "gas:candidate-vibid:2582000740281": 6,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 11,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 172,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 10
+      "gas:candidate-vibid:2582000734132": 11,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 172,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 10,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 12,
-      "Левин Леонид Леонидович": 138,
-      "Мамонов Андрей Викторович": 13,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 10,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 12,
+      "gas:candidate-vibid:2582000736159": 138,
+      "gas:candidate-vibid:2582000740281": 13,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 25,
-      "Гайнуллин Дмитрий Фаридович": 6,
-      "Добровольская Виктория Дмитриевна": 16,
-      "Левин Леонид Леонидович": 474,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 55
+      "gas:candidate-vibid:2582000734132": 25,
+      "gas:candidate-vibid:2582000741060": 6,
+      "gas:candidate-vibid:2582000740321": 16,
+      "gas:candidate-vibid:2582000736159": 474,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 11,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 16,
-      "Левин Леонид Леонидович": 231,
-      "Мамонов Андрей Викторович": 11,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 30
+      "gas:candidate-vibid:2582000734132": 11,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 16,
+      "gas:candidate-vibid:2582000736159": 231,
+      "gas:candidate-vibid:2582000740281": 11,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 11,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 150,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 18
+      "gas:candidate-vibid:2582000734132": 11,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 150,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 9,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 97,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 12
+      "gas:candidate-vibid:2582000734132": 9,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 97,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 10,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 9,
-      "Левин Леонид Леонидович": 148,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 12
+      "gas:candidate-vibid:2582000734132": 10,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 9,
+      "gas:candidate-vibid:2582000736159": 148,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 185,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 34
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 185,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 15,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 111,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 22
+      "gas:candidate-vibid:2582000734132": 15,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 111,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 23,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 110,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 25
+      "gas:candidate-vibid:2582000734132": 23,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 110,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 107,
-      "Гайнуллин Дмитрий Фаридович": 9,
-      "Добровольская Виктория Дмитриевна": 46,
-      "Левин Леонид Леонидович": 510,
-      "Мамонов Андрей Викторович": 20,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 80
+      "gas:candidate-vibid:2582000734132": 107,
+      "gas:candidate-vibid:2582000741060": 9,
+      "gas:candidate-vibid:2582000740321": 46,
+      "gas:candidate-vibid:2582000736159": 510,
+      "gas:candidate-vibid:2582000740281": 20,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 125,
-      "Гайнуллин Дмитрий Фаридович": 18,
-      "Добровольская Виктория Дмитриевна": 72,
-      "Левин Леонид Леонидович": 620,
-      "Мамонов Андрей Викторович": 22,
-      "Мельниченко Василий Александрович": 10,
-      "Филяев Дмитрий Олегович": 83
+      "gas:candidate-vibid:2582000734132": 125,
+      "gas:candidate-vibid:2582000741060": 18,
+      "gas:candidate-vibid:2582000740321": 72,
+      "gas:candidate-vibid:2582000736159": 620,
+      "gas:candidate-vibid:2582000740281": 22,
+      "gas:candidate-vibid:2582000740682": 10,
+      "gas:candidate-vibid:2582000740042": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671244&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671244&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 53,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 26,
-      "Левин Леонид Леонидович": 401,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 46
+      "gas:candidate-vibid:2582000734132": 53,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 26,
+      "gas:candidate-vibid:2582000736159": 401,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 101,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 68,
-      "Левин Леонид Леонидович": 708,
-      "Мамонов Андрей Викторович": 17,
-      "Мельниченко Василий Александрович": 8,
-      "Филяев Дмитрий Олегович": 118
+      "gas:candidate-vibid:2582000734132": 101,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 68,
+      "gas:candidate-vibid:2582000736159": 708,
+      "gas:candidate-vibid:2582000740281": 17,
+      "gas:candidate-vibid:2582000740682": 8,
+      "gas:candidate-vibid:2582000740042": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 105,
-      "Гайнуллин Дмитрий Фаридович": 17,
-      "Добровольская Виктория Дмитриевна": 89,
-      "Левин Леонид Леонидович": 384,
-      "Мамонов Андрей Викторович": 22,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 88
+      "gas:candidate-vibid:2582000734132": 105,
+      "gas:candidate-vibid:2582000741060": 17,
+      "gas:candidate-vibid:2582000740321": 89,
+      "gas:candidate-vibid:2582000736159": 384,
+      "gas:candidate-vibid:2582000740281": 22,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 127,
-      "Гайнуллин Дмитрий Фаридович": 28,
-      "Добровольская Виктория Дмитриевна": 64,
-      "Левин Леонид Леонидович": 1119,
-      "Мамонов Андрей Викторович": 21,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 133
+      "gas:candidate-vibid:2582000734132": 127,
+      "gas:candidate-vibid:2582000741060": 28,
+      "gas:candidate-vibid:2582000740321": 64,
+      "gas:candidate-vibid:2582000736159": 1119,
+      "gas:candidate-vibid:2582000740281": 21,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 71,
-      "Гайнуллин Дмитрий Фаридович": 5,
-      "Добровольская Виктория Дмитриевна": 24,
-      "Левин Леонид Леонидович": 415,
-      "Мамонов Андрей Викторович": 8,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 104
+      "gas:candidate-vibid:2582000734132": 71,
+      "gas:candidate-vibid:2582000741060": 5,
+      "gas:candidate-vibid:2582000740321": 24,
+      "gas:candidate-vibid:2582000736159": 415,
+      "gas:candidate-vibid:2582000740281": 8,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 127,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 49,
-      "Левин Леонид Леонидович": 1001,
-      "Мамонов Андрей Викторович": 15,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 151
+      "gas:candidate-vibid:2582000734132": 127,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 49,
+      "gas:candidate-vibid:2582000736159": 1001,
+      "gas:candidate-vibid:2582000740281": 15,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 110,
-      "Гайнуллин Дмитрий Фаридович": 14,
-      "Добровольская Виктория Дмитриевна": 41,
-      "Левин Леонид Леонидович": 859,
-      "Мамонов Андрей Викторович": 18,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 153
+      "gas:candidate-vibid:2582000734132": 110,
+      "gas:candidate-vibid:2582000741060": 14,
+      "gas:candidate-vibid:2582000740321": 41,
+      "gas:candidate-vibid:2582000736159": 859,
+      "gas:candidate-vibid:2582000740281": 18,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 6,
-      "Левин Леонид Леонидович": 102,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 6,
+      "gas:candidate-vibid:2582000736159": 102,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 59,
-      "Гайнуллин Дмитрий Фаридович": 8,
-      "Добровольская Виктория Дмитриевна": 30,
-      "Левин Леонид Леонидович": 474,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 5,
-      "Филяев Дмитрий Олегович": 33
+      "gas:candidate-vibid:2582000734132": 59,
+      "gas:candidate-vibid:2582000741060": 8,
+      "gas:candidate-vibid:2582000740321": 30,
+      "gas:candidate-vibid:2582000736159": 474,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 5,
+      "gas:candidate-vibid:2582000740042": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 18,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 17,
-      "Левин Леонид Леонидович": 173,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 18,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 17,
+      "gas:candidate-vibid:2582000736159": 173,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 80,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 33
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 80,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 6,
-      "Добровольская Виктория Дмитриевна": 20,
-      "Левин Леонид Леонидович": 176,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 41
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 6,
+      "gas:candidate-vibid:2582000740321": 20,
+      "gas:candidate-vibid:2582000736159": 176,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 3,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 68,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 1
+      "gas:candidate-vibid:2582000734132": 3,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 68,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 19,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 18,
-      "Левин Леонид Леонидович": 317,
-      "Мамонов Андрей Викторович": 10,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 19,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 18,
+      "gas:candidate-vibid:2582000736159": 317,
+      "gas:candidate-vibid:2582000740281": 10,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 54,
-      "Гайнуллин Дмитрий Фаридович": 11,
-      "Добровольская Виктория Дмитриевна": 41,
-      "Левин Леонид Леонидович": 617,
-      "Мамонов Андрей Викторович": 9,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 79
+      "gas:candidate-vibid:2582000734132": 54,
+      "gas:candidate-vibid:2582000741060": 11,
+      "gas:candidate-vibid:2582000740321": 41,
+      "gas:candidate-vibid:2582000736159": 617,
+      "gas:candidate-vibid:2582000740281": 9,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 26,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 14,
-      "Левин Леонид Леонидович": 218,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 26
+      "gas:candidate-vibid:2582000734132": 26,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 14,
+      "gas:candidate-vibid:2582000736159": 218,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 4,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 5,
-      "Левин Леонид Леонидович": 178,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 4,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 5,
+      "gas:candidate-vibid:2582000736159": 178,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 29,
-      "Гайнуллин Дмитрий Фаридович": 14,
-      "Добровольская Виктория Дмитриевна": 19,
-      "Левин Леонид Леонидович": 456,
-      "Мамонов Андрей Викторович": 3,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 39
+      "gas:candidate-vibid:2582000734132": 29,
+      "gas:candidate-vibid:2582000741060": 14,
+      "gas:candidate-vibid:2582000740321": 19,
+      "gas:candidate-vibid:2582000736159": 456,
+      "gas:candidate-vibid:2582000740281": 3,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 40,
-      "Гайнуллин Дмитрий Фаридович": 2,
-      "Добровольская Виктория Дмитриевна": 18,
-      "Левин Леонид Леонидович": 183,
-      "Мамонов Андрей Викторович": 4,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 41
+      "gas:candidate-vibid:2582000734132": 40,
+      "gas:candidate-vibid:2582000741060": 2,
+      "gas:candidate-vibid:2582000740321": 18,
+      "gas:candidate-vibid:2582000736159": 183,
+      "gas:candidate-vibid:2582000740281": 4,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 22,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 11,
-      "Левин Леонид Леонидович": 290,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 10
+      "gas:candidate-vibid:2582000734132": 22,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 11,
+      "gas:candidate-vibid:2582000736159": 290,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 20,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 12,
-      "Левин Леонид Леонидович": 251,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 22
+      "gas:candidate-vibid:2582000734132": 20,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 12,
+      "gas:candidate-vibid:2582000736159": 251,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 81,
-      "Гайнуллин Дмитрий Фаридович": 4,
-      "Добровольская Виктория Дмитриевна": 55,
-      "Левин Леонид Леонидович": 434,
-      "Мамонов Андрей Викторович": 15,
-      "Мельниченко Василий Александрович": 2,
-      "Филяев Дмитрий Олегович": 51
+      "gas:candidate-vibid:2582000734132": 81,
+      "gas:candidate-vibid:2582000741060": 4,
+      "gas:candidate-vibid:2582000740321": 55,
+      "gas:candidate-vibid:2582000736159": 434,
+      "gas:candidate-vibid:2582000740281": 15,
+      "gas:candidate-vibid:2582000740682": 2,
+      "gas:candidate-vibid:2582000740042": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 26,
-      "Гайнуллин Дмитрий Фаридович": 3,
-      "Добровольская Виктория Дмитриевна": 10,
-      "Левин Леонид Леонидович": 165,
-      "Мамонов Андрей Викторович": 1,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 17
+      "gas:candidate-vibid:2582000734132": 26,
+      "gas:candidate-vibid:2582000741060": 3,
+      "gas:candidate-vibid:2582000740321": 10,
+      "gas:candidate-vibid:2582000736159": 165,
+      "gas:candidate-vibid:2582000740281": 1,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 45,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 20,
-      "Левин Леонид Леонидович": 596,
-      "Мамонов Андрей Викторович": 11,
-      "Мельниченко Василий Александрович": 3,
-      "Филяев Дмитрий Олегович": 122
+      "gas:candidate-vibid:2582000734132": 45,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 20,
+      "gas:candidate-vibid:2582000736159": 596,
+      "gas:candidate-vibid:2582000740281": 11,
+      "gas:candidate-vibid:2582000740682": 3,
+      "gas:candidate-vibid:2582000740042": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 25,
-      "Гайнуллин Дмитрий Фаридович": 9,
-      "Добровольская Виктория Дмитриевна": 9,
-      "Левин Леонид Леонидович": 235,
-      "Мамонов Андрей Викторович": 5,
-      "Мельниченко Василий Александрович": 25,
-      "Филяев Дмитрий Олегович": 56
+      "gas:candidate-vibid:2582000734132": 25,
+      "gas:candidate-vibid:2582000741060": 9,
+      "gas:candidate-vibid:2582000740321": 9,
+      "gas:candidate-vibid:2582000736159": 235,
+      "gas:candidate-vibid:2582000740281": 5,
+      "gas:candidate-vibid:2582000740682": 25,
+      "gas:candidate-vibid:2582000740042": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 12,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 4,
-      "Левин Леонид Леонидович": 293,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 1,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 12,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 4,
+      "gas:candidate-vibid:2582000736159": 293,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 1,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 0,
-      "Гайнуллин Дмитрий Фаридович": 0,
-      "Добровольская Виктория Дмитриевна": 11,
-      "Левин Леонид Леонидович": 353,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 35
+      "gas:candidate-vibid:2582000734132": 0,
+      "gas:candidate-vibid:2582000741060": 0,
+      "gas:candidate-vibid:2582000740321": 11,
+      "gas:candidate-vibid:2582000736159": 353,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 2,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 8,
-      "Левин Леонид Леонидович": 86,
-      "Мамонов Андрей Викторович": 0,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 5
+      "gas:candidate-vibid:2582000734132": 2,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 8,
+      "gas:candidate-vibid:2582000736159": 86,
+      "gas:candidate-vibid:2582000740281": 0,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 17,
-      "Гайнуллин Дмитрий Фаридович": 1,
-      "Добровольская Виктория Дмитриевна": 7,
-      "Левин Леонид Леонидович": 106,
-      "Мамонов Андрей Викторович": 2,
-      "Мельниченко Василий Александрович": 0,
-      "Филяев Дмитрий Олегович": 8
+      "gas:candidate-vibid:2582000734132": 17,
+      "gas:candidate-vibid:2582000741060": 1,
+      "gas:candidate-vibid:2582000740321": 7,
+      "gas:candidate-vibid:2582000736159": 106,
+      "gas:candidate-vibid:2582000740281": 2,
+      "gas:candidate-vibid:2582000740682": 0,
+      "gas:candidate-vibid:2582000740042": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671245&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671245&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 165,
-      "Гайнуллин Дмитрий Фаридович": 67,
-      "Добровольская Виктория Дмитриевна": 110,
-      "Левин Леонид Леонидович": 355,
-      "Мамонов Андрей Викторович": 43,
-      "Мельниченко Василий Александрович": 33,
-      "Филяев Дмитрий Олегович": 163
+      "gas:candidate-vibid:2582000734132": 165,
+      "gas:candidate-vibid:2582000741060": 67,
+      "gas:candidate-vibid:2582000740321": 110,
+      "gas:candidate-vibid:2582000736159": 355,
+      "gas:candidate-vibid:2582000740281": 43,
+      "gas:candidate-vibid:2582000740682": 33,
+      "gas:candidate-vibid:2582000740042": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 87,
-      "Гайнуллин Дмитрий Фаридович": 24,
-      "Добровольская Виктория Дмитриевна": 43,
-      "Левин Леонид Леонидович": 182,
-      "Мамонов Андрей Викторович": 21,
-      "Мельниченко Василий Александрович": 8,
-      "Филяев Дмитрий Олегович": 78
+      "gas:candidate-vibid:2582000734132": 87,
+      "gas:candidate-vibid:2582000741060": 24,
+      "gas:candidate-vibid:2582000740321": 43,
+      "gas:candidate-vibid:2582000736159": 182,
+      "gas:candidate-vibid:2582000740281": 21,
+      "gas:candidate-vibid:2582000740682": 8,
+      "gas:candidate-vibid:2582000740042": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 127,
-      "Гайнуллин Дмитрий Фаридович": 45,
-      "Добровольская Виктория Дмитриевна": 60,
-      "Левин Леонид Леонидович": 308,
-      "Мамонов Андрей Викторович": 38,
-      "Мельниченко Василий Александрович": 23,
-      "Филяев Дмитрий Олегович": 86
+      "gas:candidate-vibid:2582000734132": 127,
+      "gas:candidate-vibid:2582000741060": 45,
+      "gas:candidate-vibid:2582000740321": 60,
+      "gas:candidate-vibid:2582000736159": 308,
+      "gas:candidate-vibid:2582000740281": 38,
+      "gas:candidate-vibid:2582000740682": 23,
+      "gas:candidate-vibid:2582000740042": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 189,
-      "Гайнуллин Дмитрий Фаридович": 66,
-      "Добровольская Виктория Дмитриевна": 96,
-      "Левин Леонид Леонидович": 413,
-      "Мамонов Андрей Викторович": 68,
-      "Мельниченко Василий Александрович": 20,
-      "Филяев Дмитрий Олегович": 201
+      "gas:candidate-vibid:2582000734132": 189,
+      "gas:candidate-vibid:2582000741060": 66,
+      "gas:candidate-vibid:2582000740321": 96,
+      "gas:candidate-vibid:2582000736159": 413,
+      "gas:candidate-vibid:2582000740281": 68,
+      "gas:candidate-vibid:2582000740682": 20,
+      "gas:candidate-vibid:2582000740042": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 201,
-      "Гайнуллин Дмитрий Фаридович": 41,
-      "Добровольская Виктория Дмитриевна": 103,
-      "Левин Леонид Леонидович": 457,
-      "Мамонов Андрей Викторович": 43,
-      "Мельниченко Василий Александрович": 37,
-      "Филяев Дмитрий Олегович": 209
+      "gas:candidate-vibid:2582000734132": 201,
+      "gas:candidate-vibid:2582000741060": 41,
+      "gas:candidate-vibid:2582000740321": 103,
+      "gas:candidate-vibid:2582000736159": 457,
+      "gas:candidate-vibid:2582000740281": 43,
+      "gas:candidate-vibid:2582000740682": 37,
+      "gas:candidate-vibid:2582000740042": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 236,
-      "Гайнуллин Дмитрий Фаридович": 63,
-      "Добровольская Виктория Дмитриевна": 114,
-      "Левин Леонид Леонидович": 445,
-      "Мамонов Андрей Викторович": 61,
-      "Мельниченко Василий Александрович": 26,
-      "Филяев Дмитрий Олегович": 236
+      "gas:candidate-vibid:2582000734132": 236,
+      "gas:candidate-vibid:2582000741060": 63,
+      "gas:candidate-vibid:2582000740321": 114,
+      "gas:candidate-vibid:2582000736159": 445,
+      "gas:candidate-vibid:2582000740281": 61,
+      "gas:candidate-vibid:2582000740682": 26,
+      "gas:candidate-vibid:2582000740042": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 203,
-      "Гайнуллин Дмитрий Фаридович": 72,
-      "Добровольская Виктория Дмитриевна": 100,
-      "Левин Леонид Леонидович": 388,
-      "Мамонов Андрей Викторович": 53,
-      "Мельниченко Василий Александрович": 42,
-      "Филяев Дмитрий Олегович": 201
+      "gas:candidate-vibid:2582000734132": 203,
+      "gas:candidate-vibid:2582000741060": 72,
+      "gas:candidate-vibid:2582000740321": 100,
+      "gas:candidate-vibid:2582000736159": 388,
+      "gas:candidate-vibid:2582000740281": 53,
+      "gas:candidate-vibid:2582000740682": 42,
+      "gas:candidate-vibid:2582000740042": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 200,
-      "Гайнуллин Дмитрий Фаридович": 50,
-      "Добровольская Виктория Дмитриевна": 89,
-      "Левин Леонид Леонидович": 343,
-      "Мамонов Андрей Викторович": 30,
-      "Мельниченко Василий Александрович": 30,
-      "Филяев Дмитрий Олегович": 187
+      "gas:candidate-vibid:2582000734132": 200,
+      "gas:candidate-vibid:2582000741060": 50,
+      "gas:candidate-vibid:2582000740321": 89,
+      "gas:candidate-vibid:2582000736159": 343,
+      "gas:candidate-vibid:2582000740281": 30,
+      "gas:candidate-vibid:2582000740682": 30,
+      "gas:candidate-vibid:2582000740042": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 176,
-      "Гайнуллин Дмитрий Фаридович": 38,
-      "Добровольская Виктория Дмитриевна": 97,
-      "Левин Леонид Леонидович": 390,
-      "Мамонов Андрей Викторович": 50,
-      "Мельниченко Василий Александрович": 38,
-      "Филяев Дмитрий Олегович": 187
+      "gas:candidate-vibid:2582000734132": 176,
+      "gas:candidate-vibid:2582000741060": 38,
+      "gas:candidate-vibid:2582000740321": 97,
+      "gas:candidate-vibid:2582000736159": 390,
+      "gas:candidate-vibid:2582000740281": 50,
+      "gas:candidate-vibid:2582000740682": 38,
+      "gas:candidate-vibid:2582000740042": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 150,
-      "Гайнуллин Дмитрий Фаридович": 49,
-      "Добровольская Виктория Дмитриевна": 81,
-      "Левин Леонид Леонидович": 360,
-      "Мамонов Андрей Викторович": 35,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 165
+      "gas:candidate-vibid:2582000734132": 150,
+      "gas:candidate-vibid:2582000741060": 49,
+      "gas:candidate-vibid:2582000740321": 81,
+      "gas:candidate-vibid:2582000736159": 360,
+      "gas:candidate-vibid:2582000740281": 35,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 185,
-      "Гайнуллин Дмитрий Фаридович": 72,
-      "Добровольская Виктория Дмитриевна": 105,
-      "Левин Леонид Леонидович": 368,
-      "Мамонов Андрей Викторович": 70,
-      "Мельниченко Василий Александрович": 45,
-      "Филяев Дмитрий Олегович": 221
+      "gas:candidate-vibid:2582000734132": 185,
+      "gas:candidate-vibid:2582000741060": 72,
+      "gas:candidate-vibid:2582000740321": 105,
+      "gas:candidate-vibid:2582000736159": 368,
+      "gas:candidate-vibid:2582000740281": 70,
+      "gas:candidate-vibid:2582000740682": 45,
+      "gas:candidate-vibid:2582000740042": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 129,
-      "Гайнуллин Дмитрий Фаридович": 50,
-      "Добровольская Виктория Дмитриевна": 72,
-      "Левин Леонид Леонидович": 354,
-      "Мамонов Андрей Викторович": 32,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 163
+      "gas:candidate-vibid:2582000734132": 129,
+      "gas:candidate-vibid:2582000741060": 50,
+      "gas:candidate-vibid:2582000740321": 72,
+      "gas:candidate-vibid:2582000736159": 354,
+      "gas:candidate-vibid:2582000740281": 32,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 183,
-      "Гайнуллин Дмитрий Фаридович": 58,
-      "Добровольская Виктория Дмитриевна": 98,
-      "Левин Леонид Леонидович": 440,
-      "Мамонов Андрей Викторович": 52,
-      "Мельниченко Василий Александрович": 30,
-      "Филяев Дмитрий Олегович": 209
+      "gas:candidate-vibid:2582000734132": 183,
+      "gas:candidate-vibid:2582000741060": 58,
+      "gas:candidate-vibid:2582000740321": 98,
+      "gas:candidate-vibid:2582000736159": 440,
+      "gas:candidate-vibid:2582000740281": 52,
+      "gas:candidate-vibid:2582000740682": 30,
+      "gas:candidate-vibid:2582000740042": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 202,
-      "Гайнуллин Дмитрий Фаридович": 38,
-      "Добровольская Виктория Дмитриевна": 82,
-      "Левин Леонид Леонидович": 330,
-      "Мамонов Андрей Викторович": 52,
-      "Мельниченко Василий Александрович": 28,
-      "Филяев Дмитрий Олегович": 206
+      "gas:candidate-vibid:2582000734132": 202,
+      "gas:candidate-vibid:2582000741060": 38,
+      "gas:candidate-vibid:2582000740321": 82,
+      "gas:candidate-vibid:2582000736159": 330,
+      "gas:candidate-vibid:2582000740281": 52,
+      "gas:candidate-vibid:2582000740682": 28,
+      "gas:candidate-vibid:2582000740042": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 137,
-      "Гайнуллин Дмитрий Фаридович": 33,
-      "Добровольская Виктория Дмитриевна": 71,
-      "Левин Леонид Леонидович": 360,
-      "Мамонов Андрей Викторович": 36,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 157
+      "gas:candidate-vibid:2582000734132": 137,
+      "gas:candidate-vibid:2582000741060": 33,
+      "gas:candidate-vibid:2582000740321": 71,
+      "gas:candidate-vibid:2582000736159": 360,
+      "gas:candidate-vibid:2582000740281": 36,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 163,
-      "Гайнуллин Дмитрий Фаридович": 48,
-      "Добровольская Виктория Дмитриевна": 92,
-      "Левин Леонид Леонидович": 365,
-      "Мамонов Андрей Викторович": 46,
-      "Мельниченко Василий Александрович": 33,
-      "Филяев Дмитрий Олегович": 200
+      "gas:candidate-vibid:2582000734132": 163,
+      "gas:candidate-vibid:2582000741060": 48,
+      "gas:candidate-vibid:2582000740321": 92,
+      "gas:candidate-vibid:2582000736159": 365,
+      "gas:candidate-vibid:2582000740281": 46,
+      "gas:candidate-vibid:2582000740682": 33,
+      "gas:candidate-vibid:2582000740042": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 164,
-      "Гайнуллин Дмитрий Фаридович": 49,
-      "Добровольская Виктория Дмитриевна": 85,
-      "Левин Леонид Леонидович": 293,
-      "Мамонов Андрей Викторович": 58,
-      "Мельниченко Василий Александрович": 35,
-      "Филяев Дмитрий Олегович": 165
+      "gas:candidate-vibid:2582000734132": 164,
+      "gas:candidate-vibid:2582000741060": 49,
+      "gas:candidate-vibid:2582000740321": 85,
+      "gas:candidate-vibid:2582000736159": 293,
+      "gas:candidate-vibid:2582000740281": 58,
+      "gas:candidate-vibid:2582000740682": 35,
+      "gas:candidate-vibid:2582000740042": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 140,
-      "Гайнуллин Дмитрий Фаридович": 42,
-      "Добровольская Виктория Дмитриевна": 102,
-      "Левин Леонид Леонидович": 352,
-      "Мамонов Андрей Викторович": 44,
-      "Мельниченко Василий Александрович": 30,
-      "Филяев Дмитрий Олегович": 157
+      "gas:candidate-vibid:2582000734132": 140,
+      "gas:candidate-vibid:2582000741060": 42,
+      "gas:candidate-vibid:2582000740321": 102,
+      "gas:candidate-vibid:2582000736159": 352,
+      "gas:candidate-vibid:2582000740281": 44,
+      "gas:candidate-vibid:2582000740682": 30,
+      "gas:candidate-vibid:2582000740042": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 162,
-      "Гайнуллин Дмитрий Фаридович": 49,
-      "Добровольская Виктория Дмитриевна": 96,
-      "Левин Леонид Леонидович": 396,
-      "Мамонов Андрей Викторович": 46,
-      "Мельниченко Василий Александрович": 27,
-      "Филяев Дмитрий Олегович": 160
+      "gas:candidate-vibid:2582000734132": 162,
+      "gas:candidate-vibid:2582000741060": 49,
+      "gas:candidate-vibid:2582000740321": 96,
+      "gas:candidate-vibid:2582000736159": 396,
+      "gas:candidate-vibid:2582000740281": 46,
+      "gas:candidate-vibid:2582000740682": 27,
+      "gas:candidate-vibid:2582000740042": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 144,
-      "Гайнуллин Дмитрий Фаридович": 44,
-      "Добровольская Виктория Дмитриевна": 82,
-      "Левин Леонид Леонидович": 367,
-      "Мамонов Андрей Викторович": 53,
-      "Мельниченко Василий Александрович": 31,
-      "Филяев Дмитрий Олегович": 152
+      "gas:candidate-vibid:2582000734132": 144,
+      "gas:candidate-vibid:2582000741060": 44,
+      "gas:candidate-vibid:2582000740321": 82,
+      "gas:candidate-vibid:2582000736159": 367,
+      "gas:candidate-vibid:2582000740281": 53,
+      "gas:candidate-vibid:2582000740682": 31,
+      "gas:candidate-vibid:2582000740042": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 133,
-      "Гайнуллин Дмитрий Фаридович": 30,
-      "Добровольская Виктория Дмитриевна": 72,
-      "Левин Леонид Леонидович": 351,
-      "Мамонов Андрей Викторович": 48,
-      "Мельниченко Василий Александрович": 28,
-      "Филяев Дмитрий Олегович": 142
+      "gas:candidate-vibid:2582000734132": 133,
+      "gas:candidate-vibid:2582000741060": 30,
+      "gas:candidate-vibid:2582000740321": 72,
+      "gas:candidate-vibid:2582000736159": 351,
+      "gas:candidate-vibid:2582000740281": 48,
+      "gas:candidate-vibid:2582000740682": 28,
+      "gas:candidate-vibid:2582000740042": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 142,
-      "Гайнуллин Дмитрий Фаридович": 53,
-      "Добровольская Виктория Дмитриевна": 72,
-      "Левин Леонид Леонидович": 316,
-      "Мамонов Андрей Викторович": 29,
-      "Мельниченко Василий Александрович": 29,
-      "Филяев Дмитрий Олегович": 176
+      "gas:candidate-vibid:2582000734132": 142,
+      "gas:candidate-vibid:2582000741060": 53,
+      "gas:candidate-vibid:2582000740321": 72,
+      "gas:candidate-vibid:2582000736159": 316,
+      "gas:candidate-vibid:2582000740281": 29,
+      "gas:candidate-vibid:2582000740682": 29,
+      "gas:candidate-vibid:2582000740042": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 119,
-      "Гайнуллин Дмитрий Фаридович": 34,
-      "Добровольская Виктория Дмитриевна": 90,
-      "Левин Леонид Леонидович": 342,
-      "Мамонов Андрей Викторович": 34,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 166
+      "gas:candidate-vibid:2582000734132": 119,
+      "gas:candidate-vibid:2582000741060": 34,
+      "gas:candidate-vibid:2582000740321": 90,
+      "gas:candidate-vibid:2582000736159": 342,
+      "gas:candidate-vibid:2582000740281": 34,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 97,
-      "Гайнуллин Дмитрий Фаридович": 18,
-      "Добровольская Виктория Дмитриевна": 47,
-      "Левин Леонид Леонидович": 187,
-      "Мамонов Андрей Викторович": 22,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 82
+      "gas:candidate-vibid:2582000734132": 97,
+      "gas:candidate-vibid:2582000741060": 18,
+      "gas:candidate-vibid:2582000740321": 47,
+      "gas:candidate-vibid:2582000736159": 187,
+      "gas:candidate-vibid:2582000740281": 22,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 90,
-      "Гайнуллин Дмитрий Фаридович": 18,
-      "Добровольская Виктория Дмитриевна": 45,
-      "Левин Леонид Леонидович": 192,
-      "Мамонов Андрей Викторович": 23,
-      "Мельниченко Василий Александрович": 11,
-      "Филяев Дмитрий Олегович": 80
+      "gas:candidate-vibid:2582000734132": 90,
+      "gas:candidate-vibid:2582000741060": 18,
+      "gas:candidate-vibid:2582000740321": 45,
+      "gas:candidate-vibid:2582000736159": 192,
+      "gas:candidate-vibid:2582000740281": 23,
+      "gas:candidate-vibid:2582000740682": 11,
+      "gas:candidate-vibid:2582000740042": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 256,
-      "Гайнуллин Дмитрий Фаридович": 70,
-      "Добровольская Виктория Дмитриевна": 107,
-      "Левин Леонид Леонидович": 458,
-      "Мамонов Андрей Викторович": 57,
-      "Мельниченко Василий Александрович": 39,
-      "Филяев Дмитрий Олегович": 178
+      "gas:candidate-vibid:2582000734132": 256,
+      "gas:candidate-vibid:2582000741060": 70,
+      "gas:candidate-vibid:2582000740321": 107,
+      "gas:candidate-vibid:2582000736159": 458,
+      "gas:candidate-vibid:2582000740281": 57,
+      "gas:candidate-vibid:2582000740682": 39,
+      "gas:candidate-vibid:2582000740042": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671246&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671246&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 108,
-      "Гайнуллин Дмитрий Фаридович": 7,
-      "Добровольская Виктория Дмитриевна": 62,
-      "Левин Леонид Леонидович": 728,
-      "Мамонов Андрей Викторович": 19,
-      "Мельниченко Василий Александрович": 12,
-      "Филяев Дмитрий Олегович": 98
+      "gas:candidate-vibid:2582000734132": 108,
+      "gas:candidate-vibid:2582000741060": 7,
+      "gas:candidate-vibid:2582000740321": 62,
+      "gas:candidate-vibid:2582000736159": 728,
+      "gas:candidate-vibid:2582000740281": 19,
+      "gas:candidate-vibid:2582000740682": 12,
+      "gas:candidate-vibid:2582000740042": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 48,
-      "Гайнуллин Дмитрий Фаридович": 12,
-      "Добровольская Виктория Дмитриевна": 50,
-      "Левин Леонид Леонидович": 186,
-      "Мамонов Андрей Викторович": 7,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 62
+      "gas:candidate-vibid:2582000734132": 48,
+      "gas:candidate-vibid:2582000741060": 12,
+      "gas:candidate-vibid:2582000740321": 50,
+      "gas:candidate-vibid:2582000736159": 186,
+      "gas:candidate-vibid:2582000740281": 7,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 86,
-      "Гайнуллин Дмитрий Фаридович": 16,
-      "Добровольская Виктория Дмитриевна": 2,
-      "Левин Леонид Леонидович": 401,
-      "Мамонов Андрей Викторович": 21,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 85
+      "gas:candidate-vibid:2582000734132": 86,
+      "gas:candidate-vibid:2582000741060": 16,
+      "gas:candidate-vibid:2582000740321": 2,
+      "gas:candidate-vibid:2582000736159": 401,
+      "gas:candidate-vibid:2582000740281": 21,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 117,
-      "Гайнуллин Дмитрий Фаридович": 44,
-      "Добровольская Виктория Дмитриевна": 56,
-      "Левин Леонид Леонидович": 460,
-      "Мамонов Андрей Викторович": 38,
-      "Мельниченко Василий Александрович": 36,
-      "Филяев Дмитрий Олегович": 259
+      "gas:candidate-vibid:2582000734132": 117,
+      "gas:candidate-vibid:2582000741060": 44,
+      "gas:candidate-vibid:2582000740321": 56,
+      "gas:candidate-vibid:2582000736159": 460,
+      "gas:candidate-vibid:2582000740281": 38,
+      "gas:candidate-vibid:2582000740682": 36,
+      "gas:candidate-vibid:2582000740042": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 120,
-      "Гайнуллин Дмитрий Фаридович": 33,
-      "Добровольская Виктория Дмитриевна": 61,
-      "Левин Леонид Леонидович": 757,
-      "Мамонов Андрей Викторович": 42,
-      "Мельниченко Василий Александрович": 29,
-      "Филяев Дмитрий Олегович": 202
+      "gas:candidate-vibid:2582000734132": 120,
+      "gas:candidate-vibid:2582000741060": 33,
+      "gas:candidate-vibid:2582000740321": 61,
+      "gas:candidate-vibid:2582000736159": 757,
+      "gas:candidate-vibid:2582000740281": 42,
+      "gas:candidate-vibid:2582000740682": 29,
+      "gas:candidate-vibid:2582000740042": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 128,
-      "Гайнуллин Дмитрий Фаридович": 46,
-      "Добровольская Виктория Дмитриевна": 90,
-      "Левин Леонид Леонидович": 499,
-      "Мамонов Андрей Викторович": 62,
-      "Мельниченко Василий Александрович": 30,
-      "Филяев Дмитрий Олегович": 231
+      "gas:candidate-vibid:2582000734132": 128,
+      "gas:candidate-vibid:2582000741060": 46,
+      "gas:candidate-vibid:2582000740321": 90,
+      "gas:candidate-vibid:2582000736159": 499,
+      "gas:candidate-vibid:2582000740281": 62,
+      "gas:candidate-vibid:2582000740682": 30,
+      "gas:candidate-vibid:2582000740042": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 140,
-      "Гайнуллин Дмитрий Фаридович": 31,
-      "Добровольская Виктория Дмитриевна": 94,
-      "Левин Леонид Леонидович": 288,
-      "Мамонов Андрей Викторович": 40,
-      "Мельниченко Василий Александрович": 39,
-      "Филяев Дмитрий Олегович": 263
+      "gas:candidate-vibid:2582000734132": 140,
+      "gas:candidate-vibid:2582000741060": 31,
+      "gas:candidate-vibid:2582000740321": 94,
+      "gas:candidate-vibid:2582000736159": 288,
+      "gas:candidate-vibid:2582000740281": 40,
+      "gas:candidate-vibid:2582000740682": 39,
+      "gas:candidate-vibid:2582000740042": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 135,
-      "Гайнуллин Дмитрий Фаридович": 35,
-      "Добровольская Виктория Дмитриевна": 54,
-      "Левин Леонид Леонидович": 274,
-      "Мамонов Андрей Викторович": 37,
-      "Мельниченко Василий Александрович": 23,
-      "Филяев Дмитрий Олегович": 220
+      "gas:candidate-vibid:2582000734132": 135,
+      "gas:candidate-vibid:2582000741060": 35,
+      "gas:candidate-vibid:2582000740321": 54,
+      "gas:candidate-vibid:2582000736159": 274,
+      "gas:candidate-vibid:2582000740281": 37,
+      "gas:candidate-vibid:2582000740682": 23,
+      "gas:candidate-vibid:2582000740042": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 124,
-      "Гайнуллин Дмитрий Фаридович": 23,
-      "Добровольская Виктория Дмитриевна": 66,
-      "Левин Леонид Леонидович": 417,
-      "Мамонов Андрей Викторович": 31,
-      "Мельниченко Василий Александрович": 29,
-      "Филяев Дмитрий Олегович": 207
+      "gas:candidate-vibid:2582000734132": 124,
+      "gas:candidate-vibid:2582000741060": 23,
+      "gas:candidate-vibid:2582000740321": 66,
+      "gas:candidate-vibid:2582000736159": 417,
+      "gas:candidate-vibid:2582000740281": 31,
+      "gas:candidate-vibid:2582000740682": 29,
+      "gas:candidate-vibid:2582000740042": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 121,
-      "Гайнуллин Дмитрий Фаридович": 25,
-      "Добровольская Виктория Дмитриевна": 65,
-      "Левин Леонид Леонидович": 294,
-      "Мамонов Андрей Викторович": 47,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 208
+      "gas:candidate-vibid:2582000734132": 121,
+      "gas:candidate-vibid:2582000741060": 25,
+      "gas:candidate-vibid:2582000740321": 65,
+      "gas:candidate-vibid:2582000736159": 294,
+      "gas:candidate-vibid:2582000740281": 47,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 117,
-      "Гайнуллин Дмитрий Фаридович": 20,
-      "Добровольская Виктория Дмитриевна": 55,
-      "Левин Леонид Леонидович": 689,
-      "Мамонов Андрей Викторович": 24,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 212
+      "gas:candidate-vibid:2582000734132": 117,
+      "gas:candidate-vibid:2582000741060": 20,
+      "gas:candidate-vibid:2582000740321": 55,
+      "gas:candidate-vibid:2582000736159": 689,
+      "gas:candidate-vibid:2582000740281": 24,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 128,
-      "Гайнуллин Дмитрий Фаридович": 31,
-      "Добровольская Виктория Дмитриевна": 55,
-      "Левин Леонид Леонидович": 201,
-      "Мамонов Андрей Викторович": 39,
-      "Мельниченко Василий Александрович": 20,
-      "Филяев Дмитрий Олегович": 143
+      "gas:candidate-vibid:2582000734132": 128,
+      "gas:candidate-vibid:2582000741060": 31,
+      "gas:candidate-vibid:2582000740321": 55,
+      "gas:candidate-vibid:2582000736159": 201,
+      "gas:candidate-vibid:2582000740281": 39,
+      "gas:candidate-vibid:2582000740682": 20,
+      "gas:candidate-vibid:2582000740042": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 59,
-      "Гайнуллин Дмитрий Фаридович": 35,
-      "Добровольская Виктория Дмитриевна": 34,
-      "Левин Леонид Леонидович": 141,
-      "Мамонов Андрей Викторович": 23,
-      "Мельниченко Василий Александрович": 7,
-      "Филяев Дмитрий Олегович": 109
+      "gas:candidate-vibid:2582000734132": 59,
+      "gas:candidate-vibid:2582000741060": 35,
+      "gas:candidate-vibid:2582000740321": 34,
+      "gas:candidate-vibid:2582000736159": 141,
+      "gas:candidate-vibid:2582000740281": 23,
+      "gas:candidate-vibid:2582000740682": 7,
+      "gas:candidate-vibid:2582000740042": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 79,
-      "Гайнуллин Дмитрий Фаридович": 22,
-      "Добровольская Виктория Дмитриевна": 44,
-      "Левин Леонид Леонидович": 552,
-      "Мамонов Андрей Викторович": 25,
-      "Мельниченко Василий Александрович": 9,
-      "Филяев Дмитрий Олегович": 88
+      "gas:candidate-vibid:2582000734132": 79,
+      "gas:candidate-vibid:2582000741060": 22,
+      "gas:candidate-vibid:2582000740321": 44,
+      "gas:candidate-vibid:2582000736159": 552,
+      "gas:candidate-vibid:2582000740281": 25,
+      "gas:candidate-vibid:2582000740682": 9,
+      "gas:candidate-vibid:2582000740042": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 67,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 45,
-      "Левин Леонид Леонидович": 592,
-      "Мамонов Андрей Викторович": 19,
-      "Мельниченко Василий Александрович": 6,
-      "Филяев Дмитрий Олегович": 137
+      "gas:candidate-vibid:2582000734132": 67,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 45,
+      "gas:candidate-vibid:2582000736159": 592,
+      "gas:candidate-vibid:2582000740281": 19,
+      "gas:candidate-vibid:2582000740682": 6,
+      "gas:candidate-vibid:2582000740042": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_58_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Александр Евгеньевич": 108,
-      "Гайнуллин Дмитрий Фаридович": 10,
-      "Добровольская Виктория Дмитриевна": 65,
-      "Левин Леонид Леонидович": 560,
-      "Мамонов Андрей Викторович": 27,
-      "Мельниченко Василий Александрович": 18,
-      "Филяев Дмитрий Олегович": 133
+      "gas:candidate-vibid:2582000734132": 108,
+      "gas:candidate-vibid:2582000741060": 10,
+      "gas:candidate-vibid:2582000740321": 65,
+      "gas:candidate-vibid:2582000736159": 560,
+      "gas:candidate-vibid:2582000740281": 27,
+      "gas:candidate-vibid:2582000740682": 18,
+      "gas:candidate-vibid:2582000740042": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=2582000671247&vrn=100100067795849&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=2582000671247&type=464",

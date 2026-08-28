@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 13,
-      "Ловелиус Николай Владимирович": 2,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 4,
-      "Симутин Сергей Анатольевич": 6,
-      "Ситнов Виктор Владимирович": 128,
-      "Против всех": 28
+      "gas:candidate-vibid:284200066973": 13,
+      "gas:candidate-vibid:1001000195183": 2,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 4,
+      "gas:candidate-vibid:284200066708": 6,
+      "gas:candidate-vibid:1001000226023": 128,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 5,
-      "Ловелиус Николай Владимирович": 1,
-      "Лыков Сергей Вячеславович": 4,
-      "Пантела Олег Дмитриевич": 1,
-      "Симутин Сергей Анатольевич": 8,
-      "Ситнов Виктор Владимирович": 143,
-      "Против всех": 41
+      "gas:candidate-vibid:284200066973": 5,
+      "gas:candidate-vibid:1001000195183": 1,
+      "gas:candidate-vibid:1001000289819": 4,
+      "gas:candidate-vibid:284200066676": 1,
+      "gas:candidate-vibid:284200066708": 8,
+      "gas:candidate-vibid:1001000226023": 143,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 4,
-      "Ловелиус Николай Владимирович": 2,
-      "Лыков Сергей Вячеславович": 3,
-      "Пантела Олег Дмитриевич": 2,
-      "Симутин Сергей Анатольевич": 4,
-      "Ситнов Виктор Владимирович": 102,
-      "Против всех": 17
+      "gas:candidate-vibid:284200066973": 4,
+      "gas:candidate-vibid:1001000195183": 2,
+      "gas:candidate-vibid:1001000289819": 3,
+      "gas:candidate-vibid:284200066676": 2,
+      "gas:candidate-vibid:284200066708": 4,
+      "gas:candidate-vibid:1001000226023": 102,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 2,
-      "Ловелиус Николай Владимирович": 6,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 3,
-      "Симутин Сергей Анатольевич": 0,
-      "Ситнов Виктор Владимирович": 94,
-      "Против всех": 23
+      "gas:candidate-vibid:284200066973": 2,
+      "gas:candidate-vibid:1001000195183": 6,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 3,
+      "gas:candidate-vibid:284200066708": 0,
+      "gas:candidate-vibid:1001000226023": 94,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 3,
-      "Ловелиус Николай Владимирович": 0,
-      "Лыков Сергей Вячеславович": 0,
-      "Пантела Олег Дмитриевич": 1,
-      "Симутин Сергей Анатольевич": 2,
-      "Ситнов Виктор Владимирович": 136,
-      "Против всех": 13
+      "gas:candidate-vibid:284200066973": 3,
+      "gas:candidate-vibid:1001000195183": 0,
+      "gas:candidate-vibid:1001000289819": 0,
+      "gas:candidate-vibid:284200066676": 1,
+      "gas:candidate-vibid:284200066708": 2,
+      "gas:candidate-vibid:1001000226023": 136,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 52,
-      "Ловелиус Николай Владимирович": 106,
-      "Лыков Сергей Вячеславович": 50,
-      "Пантела Олег Дмитриевич": 32,
-      "Симутин Сергей Анатольевич": 31,
-      "Ситнов Виктор Владимирович": 782,
-      "Против всех": 410
+      "gas:candidate-vibid:284200066973": 52,
+      "gas:candidate-vibid:1001000195183": 106,
+      "gas:candidate-vibid:1001000289819": 50,
+      "gas:candidate-vibid:284200066676": 32,
+      "gas:candidate-vibid:284200066708": 31,
+      "gas:candidate-vibid:1001000226023": 782,
+      "special:against-all": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 3,
-      "Ловелиус Николай Владимирович": 0,
-      "Лыков Сергей Вячеславович": 1,
-      "Пантела Олег Дмитриевич": 3,
-      "Симутин Сергей Анатольевич": 0,
-      "Ситнов Виктор Владимирович": 93,
-      "Против всех": 21
+      "gas:candidate-vibid:284200066973": 3,
+      "gas:candidate-vibid:1001000195183": 0,
+      "gas:candidate-vibid:1001000289819": 1,
+      "gas:candidate-vibid:284200066676": 3,
+      "gas:candidate-vibid:284200066708": 0,
+      "gas:candidate-vibid:1001000226023": 93,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 6,
-      "Ловелиус Николай Владимирович": 3,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 2,
-      "Симутин Сергей Анатольевич": 3,
-      "Ситнов Виктор Владимирович": 148,
-      "Против всех": 16
+      "gas:candidate-vibid:284200066973": 6,
+      "gas:candidate-vibid:1001000195183": 3,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 2,
+      "gas:candidate-vibid:284200066708": 3,
+      "gas:candidate-vibid:1001000226023": 148,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 10,
-      "Ловелиус Николай Владимирович": 6,
-      "Лыков Сергей Вячеславович": 7,
-      "Пантела Олег Дмитриевич": 1,
-      "Симутин Сергей Анатольевич": 6,
-      "Ситнов Виктор Владимирович": 240,
-      "Против всех": 27
+      "gas:candidate-vibid:284200066973": 10,
+      "gas:candidate-vibid:1001000195183": 6,
+      "gas:candidate-vibid:1001000289819": 7,
+      "gas:candidate-vibid:284200066676": 1,
+      "gas:candidate-vibid:284200066708": 6,
+      "gas:candidate-vibid:1001000226023": 240,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 11,
-      "Ловелиус Николай Владимирович": 4,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 4,
-      "Симутин Сергей Анатольевич": 5,
-      "Ситнов Виктор Владимирович": 210,
-      "Против всех": 25
+      "gas:candidate-vibid:284200066973": 11,
+      "gas:candidate-vibid:1001000195183": 4,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 4,
+      "gas:candidate-vibid:284200066708": 5,
+      "gas:candidate-vibid:1001000226023": 210,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066702&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 14,
-      "Ловелиус Николай Владимирович": 7,
-      "Лыков Сергей Вячеславович": 5,
-      "Пантела Олег Дмитриевич": 15,
-      "Симутин Сергей Анатольевич": 4,
-      "Ситнов Виктор Владимирович": 79,
-      "Против всех": 27
+      "gas:candidate-vibid:284200066973": 14,
+      "gas:candidate-vibid:1001000195183": 7,
+      "gas:candidate-vibid:1001000289819": 5,
+      "gas:candidate-vibid:284200066676": 15,
+      "gas:candidate-vibid:284200066708": 4,
+      "gas:candidate-vibid:1001000226023": 79,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 107,
-      "Ловелиус Николай Владимирович": 19,
-      "Лыков Сергей Вячеславович": 17,
-      "Пантела Олег Дмитриевич": 97,
-      "Симутин Сергей Анатольевич": 35,
-      "Ситнов Виктор Владимирович": 753,
-      "Против всех": 288
+      "gas:candidate-vibid:284200066973": 107,
+      "gas:candidate-vibid:1001000195183": 19,
+      "gas:candidate-vibid:1001000289819": 17,
+      "gas:candidate-vibid:284200066676": 97,
+      "gas:candidate-vibid:284200066708": 35,
+      "gas:candidate-vibid:1001000226023": 753,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 112,
-      "Ловелиус Николай Владимирович": 33,
-      "Лыков Сергей Вячеславович": 21,
-      "Пантела Олег Дмитриевич": 88,
-      "Симутин Сергей Анатольевич": 30,
-      "Ситнов Виктор Владимирович": 761,
-      "Против всех": 288
+      "gas:candidate-vibid:284200066973": 112,
+      "gas:candidate-vibid:1001000195183": 33,
+      "gas:candidate-vibid:1001000289819": 21,
+      "gas:candidate-vibid:284200066676": 88,
+      "gas:candidate-vibid:284200066708": 30,
+      "gas:candidate-vibid:1001000226023": 761,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 111,
-      "Ловелиус Николай Владимирович": 43,
-      "Лыков Сергей Вячеславович": 21,
-      "Пантела Олег Дмитриевич": 106,
-      "Симутин Сергей Анатольевич": 30,
-      "Ситнов Виктор Владимирович": 838,
-      "Против всех": 289
+      "gas:candidate-vibid:284200066973": 111,
+      "gas:candidate-vibid:1001000195183": 43,
+      "gas:candidate-vibid:1001000289819": 21,
+      "gas:candidate-vibid:284200066676": 106,
+      "gas:candidate-vibid:284200066708": 30,
+      "gas:candidate-vibid:1001000226023": 838,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 109,
-      "Ловелиус Николай Владимирович": 48,
-      "Лыков Сергей Вячеславович": 21,
-      "Пантела Олег Дмитриевич": 113,
-      "Симутин Сергей Анатольевич": 34,
-      "Ситнов Виктор Владимирович": 740,
-      "Против всех": 277
+      "gas:candidate-vibid:284200066973": 109,
+      "gas:candidate-vibid:1001000195183": 48,
+      "gas:candidate-vibid:1001000289819": 21,
+      "gas:candidate-vibid:284200066676": 113,
+      "gas:candidate-vibid:284200066708": 34,
+      "gas:candidate-vibid:1001000226023": 740,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 42,
-      "Ловелиус Николай Владимирович": 14,
-      "Лыков Сергей Вячеславович": 3,
-      "Пантела Олег Дмитриевич": 30,
-      "Симутин Сергей Анатольевич": 15,
-      "Ситнов Виктор Владимирович": 284,
-      "Против всех": 82
+      "gas:candidate-vibid:284200066973": 42,
+      "gas:candidate-vibid:1001000195183": 14,
+      "gas:candidate-vibid:1001000289819": 3,
+      "gas:candidate-vibid:284200066676": 30,
+      "gas:candidate-vibid:284200066708": 15,
+      "gas:candidate-vibid:1001000226023": 284,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 76,
-      "Ловелиус Николай Владимирович": 23,
-      "Лыков Сергей Вячеславович": 17,
-      "Пантела Олег Дмитриевич": 72,
-      "Симутин Сергей Анатольевич": 41,
-      "Ситнов Виктор Владимирович": 566,
-      "Против всех": 244
+      "gas:candidate-vibid:284200066973": 76,
+      "gas:candidate-vibid:1001000195183": 23,
+      "gas:candidate-vibid:1001000289819": 17,
+      "gas:candidate-vibid:284200066676": 72,
+      "gas:candidate-vibid:284200066708": 41,
+      "gas:candidate-vibid:1001000226023": 566,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 56,
-      "Ловелиус Николай Владимирович": 15,
-      "Лыков Сергей Вячеславович": 6,
-      "Пантела Олег Дмитриевич": 66,
-      "Симутин Сергей Анатольевич": 16,
-      "Ситнов Виктор Владимирович": 360,
-      "Против всех": 151
+      "gas:candidate-vibid:284200066973": 56,
+      "gas:candidate-vibid:1001000195183": 15,
+      "gas:candidate-vibid:1001000289819": 6,
+      "gas:candidate-vibid:284200066676": 66,
+      "gas:candidate-vibid:284200066708": 16,
+      "gas:candidate-vibid:1001000226023": 360,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 63,
-      "Ловелиус Николай Владимирович": 31,
-      "Лыков Сергей Вячеславович": 12,
-      "Пантела Олег Дмитриевич": 69,
-      "Симутин Сергей Анатольевич": 20,
-      "Ситнов Виктор Владимирович": 540,
-      "Против всех": 206
+      "gas:candidate-vibid:284200066973": 63,
+      "gas:candidate-vibid:1001000195183": 31,
+      "gas:candidate-vibid:1001000289819": 12,
+      "gas:candidate-vibid:284200066676": 69,
+      "gas:candidate-vibid:284200066708": 20,
+      "gas:candidate-vibid:1001000226023": 540,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 3,
-      "Ловелиус Николай Владимирович": 0,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 2,
-      "Симутин Сергей Анатольевич": 0,
-      "Ситнов Виктор Владимирович": 50,
-      "Против всех": 24
+      "gas:candidate-vibid:284200066973": 3,
+      "gas:candidate-vibid:1001000195183": 0,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 2,
+      "gas:candidate-vibid:284200066708": 0,
+      "gas:candidate-vibid:1001000226023": 50,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 14,
-      "Ловелиус Николай Владимирович": 3,
-      "Лыков Сергей Вячеславович": 4,
-      "Пантела Олег Дмитриевич": 7,
-      "Симутин Сергей Анатольевич": 4,
-      "Ситнов Виктор Владимирович": 95,
-      "Против всех": 32
+      "gas:candidate-vibid:284200066973": 14,
+      "gas:candidate-vibid:1001000195183": 3,
+      "gas:candidate-vibid:1001000289819": 4,
+      "gas:candidate-vibid:284200066676": 7,
+      "gas:candidate-vibid:284200066708": 4,
+      "gas:candidate-vibid:1001000226023": 95,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 39,
-      "Ловелиус Николай Владимирович": 3,
-      "Лыков Сергей Вячеславович": 4,
-      "Пантела Олег Дмитриевич": 10,
-      "Симутин Сергей Анатольевич": 5,
-      "Ситнов Виктор Владимирович": 69,
-      "Против всех": 64
+      "gas:candidate-vibid:284200066973": 39,
+      "gas:candidate-vibid:1001000195183": 3,
+      "gas:candidate-vibid:1001000289819": 4,
+      "gas:candidate-vibid:284200066676": 10,
+      "gas:candidate-vibid:284200066708": 5,
+      "gas:candidate-vibid:1001000226023": 69,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 8,
-      "Ловелиус Николай Владимирович": 4,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 8,
-      "Симутин Сергей Анатольевич": 8,
-      "Ситнов Виктор Владимирович": 156,
-      "Против всех": 46
+      "gas:candidate-vibid:284200066973": 8,
+      "gas:candidate-vibid:1001000195183": 4,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 8,
+      "gas:candidate-vibid:284200066708": 8,
+      "gas:candidate-vibid:1001000226023": 156,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 8,
-      "Ловелиус Николай Владимирович": 5,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 0,
-      "Симутин Сергей Анатольевич": 4,
-      "Ситнов Виктор Владимирович": 163,
-      "Против всех": 30
+      "gas:candidate-vibid:284200066973": 8,
+      "gas:candidate-vibid:1001000195183": 5,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 0,
+      "gas:candidate-vibid:284200066708": 4,
+      "gas:candidate-vibid:1001000226023": 163,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 1,
-      "Ловелиус Николай Владимирович": 0,
-      "Лыков Сергей Вячеславович": 3,
-      "Пантела Олег Дмитриевич": 3,
-      "Симутин Сергей Анатольевич": 2,
-      "Ситнов Виктор Владимирович": 84,
-      "Против всех": 11
+      "gas:candidate-vibid:284200066973": 1,
+      "gas:candidate-vibid:1001000195183": 0,
+      "gas:candidate-vibid:1001000289819": 3,
+      "gas:candidate-vibid:284200066676": 3,
+      "gas:candidate-vibid:284200066708": 2,
+      "gas:candidate-vibid:1001000226023": 84,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066703&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 66,
-      "Ловелиус Николай Владимирович": 6,
-      "Лыков Сергей Вячеславович": 8,
-      "Пантела Олег Дмитриевич": 8,
-      "Симутин Сергей Анатольевич": 9,
-      "Ситнов Виктор Владимирович": 117,
-      "Против всех": 19
+      "gas:candidate-vibid:284200066973": 66,
+      "gas:candidate-vibid:1001000195183": 6,
+      "gas:candidate-vibid:1001000289819": 8,
+      "gas:candidate-vibid:284200066676": 8,
+      "gas:candidate-vibid:284200066708": 9,
+      "gas:candidate-vibid:1001000226023": 117,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066704&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 14,
-      "Ловелиус Николай Владимирович": 2,
-      "Лыков Сергей Вячеславович": 1,
-      "Пантела Олег Дмитриевич": 1,
-      "Симутин Сергей Анатольевич": 1,
-      "Ситнов Виктор Владимирович": 112,
-      "Против всех": 17
+      "gas:candidate-vibid:284200066973": 14,
+      "gas:candidate-vibid:1001000195183": 2,
+      "gas:candidate-vibid:1001000289819": 1,
+      "gas:candidate-vibid:284200066676": 1,
+      "gas:candidate-vibid:284200066708": 1,
+      "gas:candidate-vibid:1001000226023": 112,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066704&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 14,
-      "Ловелиус Николай Владимирович": 2,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 1,
-      "Симутин Сергей Анатольевич": 2,
-      "Ситнов Виктор Владимирович": 155,
-      "Против всех": 27
+      "gas:candidate-vibid:284200066973": 14,
+      "gas:candidate-vibid:1001000195183": 2,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 1,
+      "gas:candidate-vibid:284200066708": 2,
+      "gas:candidate-vibid:1001000226023": 155,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066704&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 31,
-      "Ловелиус Николай Владимирович": 7,
-      "Лыков Сергей Вячеславович": 7,
-      "Пантела Олег Дмитриевич": 17,
-      "Симутин Сергей Анатольевич": 11,
-      "Ситнов Виктор Владимирович": 212,
-      "Против всех": 96
+      "gas:candidate-vibid:284200066973": 31,
+      "gas:candidate-vibid:1001000195183": 7,
+      "gas:candidate-vibid:1001000289819": 7,
+      "gas:candidate-vibid:284200066676": 17,
+      "gas:candidate-vibid:284200066708": 11,
+      "gas:candidate-vibid:1001000226023": 212,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066704&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 44,
-      "Ловелиус Николай Владимирович": 2,
-      "Лыков Сергей Вячеславович": 6,
-      "Пантела Олег Дмитриевич": 3,
-      "Симутин Сергей Анатольевич": 17,
-      "Ситнов Виктор Владимирович": 551,
-      "Против всех": 44
+      "gas:candidate-vibid:284200066973": 44,
+      "gas:candidate-vibid:1001000195183": 2,
+      "gas:candidate-vibid:1001000289819": 6,
+      "gas:candidate-vibid:284200066676": 3,
+      "gas:candidate-vibid:284200066708": 17,
+      "gas:candidate-vibid:1001000226023": 551,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066704&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 0,
-      "Ловелиус Николай Владимирович": 0,
-      "Лыков Сергей Вячеславович": 0,
-      "Пантела Олег Дмитриевич": 1,
-      "Симутин Сергей Анатольевич": 0,
-      "Ситнов Виктор Владимирович": 75,
-      "Против всех": 5
+      "gas:candidate-vibid:284200066973": 0,
+      "gas:candidate-vibid:1001000195183": 0,
+      "gas:candidate-vibid:1001000289819": 0,
+      "gas:candidate-vibid:284200066676": 1,
+      "gas:candidate-vibid:284200066708": 0,
+      "gas:candidate-vibid:1001000226023": 75,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066704&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 46,
-      "Ловелиус Николай Владимирович": 7,
-      "Лыков Сергей Вячеславович": 19,
-      "Пантела Олег Дмитриевич": 36,
-      "Симутин Сергей Анатольевич": 21,
-      "Ситнов Виктор Владимирович": 230,
-      "Против всех": 142
+      "gas:candidate-vibid:284200066973": 46,
+      "gas:candidate-vibid:1001000195183": 7,
+      "gas:candidate-vibid:1001000289819": 19,
+      "gas:candidate-vibid:284200066676": 36,
+      "gas:candidate-vibid:284200066708": 21,
+      "gas:candidate-vibid:1001000226023": 230,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066705&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_84_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ваулин Вадим Викторович": 6,
-      "Ловелиус Николай Владимирович": 2,
-      "Лыков Сергей Вячеславович": 2,
-      "Пантела Олег Дмитриевич": 6,
-      "Симутин Сергей Анатольевич": 0,
-      "Ситнов Виктор Владимирович": 96,
-      "Против всех": 23
+      "gas:candidate-vibid:284200066973": 6,
+      "gas:candidate-vibid:1001000195183": 2,
+      "gas:candidate-vibid:1001000289819": 2,
+      "gas:candidate-vibid:284200066676": 6,
+      "gas:candidate-vibid:284200066708": 0,
+      "gas:candidate-vibid:1001000226023": 96,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=842000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=284200066705&region=0&sub_region=0&type=429",

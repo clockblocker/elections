@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 559
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 559
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 21,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 7,
-      "Новиков Дмитрий Николаевич": 11,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 487
+      "gas:candidate-vibid:4164026236433": 21,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 7,
+      "gas:candidate-vibid:4164026236487": 11,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 206
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 395
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 18,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 555
+      "gas:candidate-vibid:4164026236433": 18,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 555
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 216
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 12,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 411
+      "gas:candidate-vibid:4164026236433": 12,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 18,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 20,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 10,
-      "Сибагатуллин Фатих Саубанович": 485
+      "gas:candidate-vibid:4164026236433": 18,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 20,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 10,
+      "gas:candidate-vibid:4164026236678": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 16,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 16,
-      "Сибагатуллин Фатих Саубанович": 360
+      "gas:candidate-vibid:4164026236433": 16,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 16,
+      "gas:candidate-vibid:4164026236678": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 8,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 15,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 358
+      "gas:candidate-vibid:4164026236433": 8,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 15,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 15,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 352
+      "gas:candidate-vibid:4164026236433": 15,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 36,
-      "Бородин Евгений Анатольевич": 16,
-      "Габдуллин Ленар Айдарович": 18,
-      "Новиков Дмитрий Николаевич": 17,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 19,
-      "Сибагатуллин Фатих Саубанович": 355
+      "gas:candidate-vibid:4164026236433": 36,
+      "gas:candidate-vibid:4164026236947": 16,
+      "gas:candidate-vibid:4164026218595": 18,
+      "gas:candidate-vibid:4164026236487": 17,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 19,
+      "gas:candidate-vibid:4164026236678": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 21,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 11,
-      "Сибагатуллин Фатих Саубанович": 371
+      "gas:candidate-vibid:4164026236433": 21,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 11,
+      "gas:candidate-vibid:4164026236678": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 209
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 9,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 13,
-      "Сибагатуллин Фатих Саубанович": 302
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 9,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 13,
+      "gas:candidate-vibid:4164026236678": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 207
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 14,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 16,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 18,
-      "Сибагатуллин Фатих Саубанович": 793
+      "gas:candidate-vibid:4164026236433": 14,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 16,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 18,
+      "gas:candidate-vibid:4164026236678": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 12,
-      "Бородин Евгений Анатольевич": 7,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 321
+      "gas:candidate-vibid:4164026236433": 12,
+      "gas:candidate-vibid:4164026236947": 7,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 495
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 17,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 235
+      "gas:candidate-vibid:4164026236433": 17,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 289
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 8,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 236
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 8,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 84,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 53,
-      "Новиков Дмитрий Николаевич": 32,
-      "Новиков Илья Вадимович": 14,
-      "Пешков Виктор Петрович": 95,
-      "Сибагатуллин Фатих Саубанович": 956
+      "gas:candidate-vibid:4164026236433": 84,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 53,
+      "gas:candidate-vibid:4164026236487": 32,
+      "gas:candidate-vibid:4164026236594": 14,
+      "gas:candidate-vibid:4164026237830": 95,
+      "gas:candidate-vibid:4164026236678": 956
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 85,
-      "Бородин Евгений Анатольевич": 67,
-      "Габдуллин Ленар Айдарович": 45,
-      "Новиков Дмитрий Николаевич": 39,
-      "Новиков Илья Вадимович": 47,
-      "Пешков Виктор Петрович": 45,
-      "Сибагатуллин Фатих Саубанович": 998
+      "gas:candidate-vibid:4164026236433": 85,
+      "gas:candidate-vibid:4164026236947": 67,
+      "gas:candidate-vibid:4164026218595": 45,
+      "gas:candidate-vibid:4164026236487": 39,
+      "gas:candidate-vibid:4164026236594": 47,
+      "gas:candidate-vibid:4164026237830": 45,
+      "gas:candidate-vibid:4164026236678": 998
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 119,
-      "Бородин Евгений Анатольевич": 15,
-      "Габдуллин Ленар Айдарович": 65,
-      "Новиков Дмитрий Николаевич": 36,
-      "Новиков Илья Вадимович": 9,
-      "Пешков Виктор Петрович": 54,
-      "Сибагатуллин Фатих Саубанович": 942
+      "gas:candidate-vibid:4164026236433": 119,
+      "gas:candidate-vibid:4164026236947": 15,
+      "gas:candidate-vibid:4164026218595": 65,
+      "gas:candidate-vibid:4164026236487": 36,
+      "gas:candidate-vibid:4164026236594": 9,
+      "gas:candidate-vibid:4164026237830": 54,
+      "gas:candidate-vibid:4164026236678": 942
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 106,
-      "Бородин Евгений Анатольевич": 41,
-      "Габдуллин Ленар Айдарович": 78,
-      "Новиков Дмитрий Николаевич": 37,
-      "Новиков Илья Вадимович": 12,
-      "Пешков Виктор Петрович": 51,
-      "Сибагатуллин Фатих Саубанович": 972
+      "gas:candidate-vibid:4164026236433": 106,
+      "gas:candidate-vibid:4164026236947": 41,
+      "gas:candidate-vibid:4164026218595": 78,
+      "gas:candidate-vibid:4164026236487": 37,
+      "gas:candidate-vibid:4164026236594": 12,
+      "gas:candidate-vibid:4164026237830": 51,
+      "gas:candidate-vibid:4164026236678": 972
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 85,
-      "Бородин Евгений Анатольевич": 34,
-      "Габдуллин Ленар Айдарович": 56,
-      "Новиков Дмитрий Николаевич": 28,
-      "Новиков Илья Вадимович": 23,
-      "Пешков Виктор Петрович": 62,
-      "Сибагатуллин Фатих Саубанович": 999
+      "gas:candidate-vibid:4164026236433": 85,
+      "gas:candidate-vibid:4164026236947": 34,
+      "gas:candidate-vibid:4164026218595": 56,
+      "gas:candidate-vibid:4164026236487": 28,
+      "gas:candidate-vibid:4164026236594": 23,
+      "gas:candidate-vibid:4164026237830": 62,
+      "gas:candidate-vibid:4164026236678": 999
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 19,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 21,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 488
+      "gas:candidate-vibid:4164026236433": 19,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 21,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 488
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 164
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 21,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 17,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 13,
-      "Сибагатуллин Фатих Саубанович": 608
+      "gas:candidate-vibid:4164026236433": 21,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 17,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 13,
+      "gas:candidate-vibid:4164026236678": 608
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 22,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 16,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 542
+      "gas:candidate-vibid:4164026236433": 22,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 16,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 321
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 31,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 179
+      "gas:candidate-vibid:4164026236433": 31,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 16,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 21,
-      "Новиков Дмитрий Николаевич": 14,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 557
+      "gas:candidate-vibid:4164026236433": 16,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 21,
+      "gas:candidate-vibid:4164026236487": 14,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 557
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 43,
-      "Бородин Евгений Анатольевич": 32,
-      "Габдуллин Ленар Айдарович": 112,
-      "Новиков Дмитрий Николаевич": 60,
-      "Новиков Илья Вадимович": 23,
-      "Пешков Виктор Петрович": 82,
-      "Сибагатуллин Фатих Саубанович": 818
+      "gas:candidate-vibid:4164026236433": 43,
+      "gas:candidate-vibid:4164026236947": 32,
+      "gas:candidate-vibid:4164026218595": 112,
+      "gas:candidate-vibid:4164026236487": 60,
+      "gas:candidate-vibid:4164026236594": 23,
+      "gas:candidate-vibid:4164026237830": 82,
+      "gas:candidate-vibid:4164026236678": 818
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 81,
-      "Бородин Евгений Анатольевич": 51,
-      "Габдуллин Ленар Айдарович": 65,
-      "Новиков Дмитрий Николаевич": 32,
-      "Новиков Илья Вадимович": 23,
-      "Пешков Виктор Петрович": 47,
-      "Сибагатуллин Фатих Саубанович": 744
+      "gas:candidate-vibid:4164026236433": 81,
+      "gas:candidate-vibid:4164026236947": 51,
+      "gas:candidate-vibid:4164026218595": 65,
+      "gas:candidate-vibid:4164026236487": 32,
+      "gas:candidate-vibid:4164026236594": 23,
+      "gas:candidate-vibid:4164026237830": 47,
+      "gas:candidate-vibid:4164026236678": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 111,
-      "Бородин Евгений Анатольевич": 34,
-      "Габдуллин Ленар Айдарович": 69,
-      "Новиков Дмитрий Николаевич": 55,
-      "Новиков Илья Вадимович": 18,
-      "Пешков Виктор Петрович": 58,
-      "Сибагатуллин Фатих Саубанович": 753
+      "gas:candidate-vibid:4164026236433": 111,
+      "gas:candidate-vibid:4164026236947": 34,
+      "gas:candidate-vibid:4164026218595": 69,
+      "gas:candidate-vibid:4164026236487": 55,
+      "gas:candidate-vibid:4164026236594": 18,
+      "gas:candidate-vibid:4164026237830": 58,
+      "gas:candidate-vibid:4164026236678": 753
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 95,
-      "Бородин Евгений Анатольевич": 51,
-      "Габдуллин Ленар Айдарович": 114,
-      "Новиков Дмитрий Николаевич": 50,
-      "Новиков Илья Вадимович": 29,
-      "Пешков Виктор Петрович": 61,
-      "Сибагатуллин Фатих Саубанович": 963
+      "gas:candidate-vibid:4164026236433": 95,
+      "gas:candidate-vibid:4164026236947": 51,
+      "gas:candidate-vibid:4164026218595": 114,
+      "gas:candidate-vibid:4164026236487": 50,
+      "gas:candidate-vibid:4164026236594": 29,
+      "gas:candidate-vibid:4164026237830": 61,
+      "gas:candidate-vibid:4164026236678": 963
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 163
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 22,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 16,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 12,
-      "Сибагатуллин Фатих Саубанович": 533
+      "gas:candidate-vibid:4164026236433": 22,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 16,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 12,
+      "gas:candidate-vibid:4164026236678": 533
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562265&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562265&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 27,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 12,
-      "Сибагатуллин Фатих Саубанович": 1198
+      "gas:candidate-vibid:4164026236433": 27,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 12,
+      "gas:candidate-vibid:4164026236678": 1198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 16,
-      "Бородин Евгений Анатольевич": 23,
-      "Габдуллин Ленар Айдарович": 7,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 1235
+      "gas:candidate-vibid:4164026236433": 16,
+      "gas:candidate-vibid:4164026236947": 23,
+      "gas:candidate-vibid:4164026218595": 7,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 1235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 31,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 940
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 31,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 940
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 149,
-      "Бородин Евгений Анатольевич": 22,
-      "Габдуллин Ленар Айдарович": 14,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 18,
-      "Пешков Виктор Петрович": 25,
-      "Сибагатуллин Фатих Саубанович": 341
+      "gas:candidate-vibid:4164026236433": 149,
+      "gas:candidate-vibid:4164026236947": 22,
+      "gas:candidate-vibid:4164026218595": 14,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 18,
+      "gas:candidate-vibid:4164026237830": 25,
+      "gas:candidate-vibid:4164026236678": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 22,
-      "Бородин Евгений Анатольевич": 16,
-      "Габдуллин Ленар Айдарович": 4,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 31,
-      "Сибагатуллин Фатих Саубанович": 1040
+      "gas:candidate-vibid:4164026236433": 22,
+      "gas:candidate-vibid:4164026236947": 16,
+      "gas:candidate-vibid:4164026218595": 4,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 31,
+      "gas:candidate-vibid:4164026236678": 1040
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 24,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 635
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 24,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 635
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 27,
-      "Габдуллин Ленар Айдарович": 4,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 528
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 27,
+      "gas:candidate-vibid:4164026218595": 4,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 528
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 8,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 304
+      "gas:candidate-vibid:4164026236433": 8,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 260
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 174
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 188
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 604
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 604
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 363
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 55,
-      "Бородин Евгений Анатольевич": 39,
-      "Габдуллин Ленар Айдарович": 42,
-      "Новиков Дмитрий Николаевич": 45,
-      "Новиков Илья Вадимович": 47,
-      "Пешков Виктор Петрович": 41,
-      "Сибагатуллин Фатих Саубанович": 542
+      "gas:candidate-vibid:4164026236433": 55,
+      "gas:candidate-vibid:4164026236947": 39,
+      "gas:candidate-vibid:4164026218595": 42,
+      "gas:candidate-vibid:4164026236487": 45,
+      "gas:candidate-vibid:4164026236594": 47,
+      "gas:candidate-vibid:4164026237830": 41,
+      "gas:candidate-vibid:4164026236678": 542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 423
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 383
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 157
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 250
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 195
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 235
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 8,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 357
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 8,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 159
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 485
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 115,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 113,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 98,
-      "Пешков Виктор Петрович": 37,
-      "Сибагатуллин Фатих Саубанович": 531
+      "gas:candidate-vibid:4164026236433": 115,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 113,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 98,
+      "gas:candidate-vibid:4164026237830": 37,
+      "gas:candidate-vibid:4164026236678": 531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 90,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 68,
-      "Сибагатуллин Фатих Саубанович": 305
+      "gas:candidate-vibid:4164026236433": 90,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 68,
+      "gas:candidate-vibid:4164026236678": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 33,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 33,
-      "Новиков Дмитрий Николаевич": 17,
-      "Новиков Илья Вадимович": 8,
-      "Пешков Виктор Петрович": 21,
-      "Сибагатуллин Фатих Саубанович": 762
+      "gas:candidate-vibid:4164026236433": 33,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 33,
+      "gas:candidate-vibid:4164026236487": 17,
+      "gas:candidate-vibid:4164026236594": 8,
+      "gas:candidate-vibid:4164026237830": 21,
+      "gas:candidate-vibid:4164026236678": 762
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 388
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 195
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 142,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 423
+      "gas:candidate-vibid:4164026236433": 142,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 9,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 506
+      "gas:candidate-vibid:4164026236433": 9,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 331
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 554
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 554
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 29,
-      "Бородин Евгений Анатольевич": 27,
-      "Габдуллин Ленар Айдарович": 31,
-      "Новиков Дмитрий Николаевич": 24,
-      "Новиков Илья Вадимович": 34,
-      "Пешков Виктор Петрович": 61,
-      "Сибагатуллин Фатих Саубанович": 432
+      "gas:candidate-vibid:4164026236433": 29,
+      "gas:candidate-vibid:4164026236947": 27,
+      "gas:candidate-vibid:4164026218595": 31,
+      "gas:candidate-vibid:4164026236487": 24,
+      "gas:candidate-vibid:4164026236594": 34,
+      "gas:candidate-vibid:4164026237830": 61,
+      "gas:candidate-vibid:4164026236678": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 277
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 4,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 418
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 4,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 267
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 202
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 128
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 180
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 133
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 145
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 145
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 262
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 128
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 359
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 10,
-      "Сибагатуллин Фатих Саубанович": 344
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 10,
+      "gas:candidate-vibid:4164026236678": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 361
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562266&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562266&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 11,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 12,
-      "Сибагатуллин Фатих Саубанович": 262
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 11,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 12,
+      "gas:candidate-vibid:4164026236678": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 21,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 19,
-      "Новиков Илья Вадимович": 10,
-      "Пешков Виктор Петрович": 25,
-      "Сибагатуллин Фатих Саубанович": 384
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 21,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 19,
+      "gas:candidate-vibid:4164026236594": 10,
+      "gas:candidate-vibid:4164026237830": 25,
+      "gas:candidate-vibid:4164026236678": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 12,
-      "Сибагатуллин Фатих Саубанович": 210
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 12,
+      "gas:candidate-vibid:4164026236678": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 15,
-      "Сибагатуллин Фатих Саубанович": 179
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 15,
+      "gas:candidate-vibid:4164026236678": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 13,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 299
+      "gas:candidate-vibid:4164026236433": 13,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 18,
-      "Бородин Евгений Анатольевич": 19,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 18,
-      "Сибагатуллин Фатих Саубанович": 508
+      "gas:candidate-vibid:4164026236433": 18,
+      "gas:candidate-vibid:4164026236947": 19,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 18,
+      "gas:candidate-vibid:4164026236678": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 16,
-      "Бородин Евгений Анатольевич": 11,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 304
+      "gas:candidate-vibid:4164026236433": 16,
+      "gas:candidate-vibid:4164026236947": 11,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 4,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 160
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 4,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 96
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 12,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 9,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 406
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 12,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 9,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 44,
-      "Бородин Евгений Анатольевич": 44,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 30,
-      "Сибагатуллин Фатих Саубанович": 727
+      "gas:candidate-vibid:4164026236433": 44,
+      "gas:candidate-vibid:4164026236947": 44,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 30,
+      "gas:candidate-vibid:4164026236678": 727
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 197
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 13,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 499
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 13,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 499
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 17,
-      "Бородин Евгений Анатольевич": 12,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 8,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 284
+      "gas:candidate-vibid:4164026236433": 17,
+      "gas:candidate-vibid:4164026236947": 12,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 8,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 37,
-      "Бородин Евгений Анатольевич": 22,
-      "Габдуллин Ленар Айдарович": 22,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 37,
-      "Сибагатуллин Фатих Саубанович": 797
+      "gas:candidate-vibid:4164026236433": 37,
+      "gas:candidate-vibid:4164026236947": 22,
+      "gas:candidate-vibid:4164026218595": 22,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 37,
+      "gas:candidate-vibid:4164026236678": 797
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 28,
-      "Бородин Евгений Анатольевич": 18,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 25,
-      "Сибагатуллин Фатих Саубанович": 534
+      "gas:candidate-vibid:4164026236433": 28,
+      "gas:candidate-vibid:4164026236947": 18,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 25,
+      "gas:candidate-vibid:4164026236678": 534
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 26,
-      "Бородин Евгений Анатольевич": 20,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 25,
-      "Сибагатуллин Фатих Саубанович": 545
+      "gas:candidate-vibid:4164026236433": 26,
+      "gas:candidate-vibid:4164026236947": 20,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 25,
+      "gas:candidate-vibid:4164026236678": 545
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 28,
-      "Бородин Евгений Анатольевич": 59,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 19,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 44,
-      "Сибагатуллин Фатих Саубанович": 947
+      "gas:candidate-vibid:4164026236433": 28,
+      "gas:candidate-vibid:4164026236947": 59,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 19,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 44,
+      "gas:candidate-vibid:4164026236678": 947
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 16,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 20,
-      "Сибагатуллин Фатих Саубанович": 392
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 16,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 20,
+      "gas:candidate-vibid:4164026236678": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 15,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 25,
-      "Сибагатуллин Фатих Саубанович": 418
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 15,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 25,
+      "gas:candidate-vibid:4164026236678": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 11,
-      "Сибагатуллин Фатих Саубанович": 406
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 11,
+      "gas:candidate-vibid:4164026236678": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 37,
-      "Бородин Евгений Анатольевич": 49,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 36,
-      "Сибагатуллин Фатих Саубанович": 758
+      "gas:candidate-vibid:4164026236433": 37,
+      "gas:candidate-vibid:4164026236947": 49,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 36,
+      "gas:candidate-vibid:4164026236678": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 83,
-      "Бородин Евгений Анатольевич": 101,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 1504
+      "gas:candidate-vibid:4164026236433": 83,
+      "gas:candidate-vibid:4164026236947": 101,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 1504
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 66,
-      "Бородин Евгений Анатольевич": 86,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 16,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 65,
-      "Сибагатуллин Фатих Саубанович": 1346
+      "gas:candidate-vibid:4164026236433": 66,
+      "gas:candidate-vibid:4164026236947": 86,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 16,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 65,
+      "gas:candidate-vibid:4164026236678": 1346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 78,
-      "Бородин Евгений Анатольевич": 92,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 11,
-      "Новиков Илья Вадимович": 21,
-      "Пешков Виктор Петрович": 33,
-      "Сибагатуллин Фатих Саубанович": 1266
+      "gas:candidate-vibid:4164026236433": 78,
+      "gas:candidate-vibid:4164026236947": 92,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 11,
+      "gas:candidate-vibid:4164026236594": 21,
+      "gas:candidate-vibid:4164026237830": 33,
+      "gas:candidate-vibid:4164026236678": 1266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 51,
-      "Бородин Евгений Анатольевич": 71,
-      "Габдуллин Ленар Айдарович": 19,
-      "Новиков Дмитрий Николаевич": 8,
-      "Новиков Илья Вадимович": 8,
-      "Пешков Виктор Петрович": 56,
-      "Сибагатуллин Фатих Саубанович": 1166
+      "gas:candidate-vibid:4164026236433": 51,
+      "gas:candidate-vibid:4164026236947": 71,
+      "gas:candidate-vibid:4164026218595": 19,
+      "gas:candidate-vibid:4164026236487": 8,
+      "gas:candidate-vibid:4164026236594": 8,
+      "gas:candidate-vibid:4164026237830": 56,
+      "gas:candidate-vibid:4164026236678": 1166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 55,
-      "Бородин Евгений Анатольевич": 75,
-      "Габдуллин Ленар Айдарович": 15,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 62,
-      "Сибагатуллин Фатих Саубанович": 1184
+      "gas:candidate-vibid:4164026236433": 55,
+      "gas:candidate-vibid:4164026236947": 75,
+      "gas:candidate-vibid:4164026218595": 15,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 62,
+      "gas:candidate-vibid:4164026236678": 1184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 58,
-      "Бородин Евгений Анатольевич": 75,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 11,
-      "Новиков Илья Вадимович": 8,
-      "Пешков Виктор Петрович": 54,
-      "Сибагатуллин Фатих Саубанович": 1176
+      "gas:candidate-vibid:4164026236433": 58,
+      "gas:candidate-vibid:4164026236947": 75,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 11,
+      "gas:candidate-vibid:4164026236594": 8,
+      "gas:candidate-vibid:4164026237830": 54,
+      "gas:candidate-vibid:4164026236678": 1176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 53,
-      "Бородин Евгений Анатольевич": 92,
-      "Габдуллин Ленар Айдарович": 17,
-      "Новиков Дмитрий Николаевич": 21,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 66,
-      "Сибагатуллин Фатих Саубанович": 1137
+      "gas:candidate-vibid:4164026236433": 53,
+      "gas:candidate-vibid:4164026236947": 92,
+      "gas:candidate-vibid:4164026218595": 17,
+      "gas:candidate-vibid:4164026236487": 21,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 66,
+      "gas:candidate-vibid:4164026236678": 1137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 23,
-      "Бородин Евгений Анатольевич": 32,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 9,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 713
+      "gas:candidate-vibid:4164026236433": 23,
+      "gas:candidate-vibid:4164026236947": 32,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 9,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 21,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 11,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 506
+      "gas:candidate-vibid:4164026236433": 21,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 11,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 51,
-      "Бородин Евгений Анатольевич": 48,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 35,
-      "Сибагатуллин Фатих Саубанович": 774
+      "gas:candidate-vibid:4164026236433": 51,
+      "gas:candidate-vibid:4164026236947": 48,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 35,
+      "gas:candidate-vibid:4164026236678": 774
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 226
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 386
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 325
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 23,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 14,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 27,
-      "Сибагатуллин Фатих Саубанович": 781
+      "gas:candidate-vibid:4164026236433": 23,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 14,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 27,
+      "gas:candidate-vibid:4164026236678": 781
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 4,
-      "Сибагатуллин Фатих Саубанович": 355
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 4,
+      "gas:candidate-vibid:4164026236678": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 9,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 311
+      "gas:candidate-vibid:4164026236433": 9,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 212
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 14,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 20,
-      "Сибагатуллин Фатих Саубанович": 474
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 14,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 20,
+      "gas:candidate-vibid:4164026236678": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 16,
-      "Бородин Евгений Анатольевич": 15,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 275
+      "gas:candidate-vibid:4164026236433": 16,
+      "gas:candidate-vibid:4164026236947": 15,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 89
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 151
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 68,
-      "Бородин Евгений Анатольевич": 83,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 26,
-      "Новиков Илья Вадимович": 16,
-      "Пешков Виктор Петрович": 53,
-      "Сибагатуллин Фатих Саубанович": 1296
+      "gas:candidate-vibid:4164026236433": 68,
+      "gas:candidate-vibid:4164026236947": 83,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 26,
+      "gas:candidate-vibid:4164026236594": 16,
+      "gas:candidate-vibid:4164026237830": 53,
+      "gas:candidate-vibid:4164026236678": 1296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 19,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 9,
-      "Пешков Виктор Петрович": 21,
-      "Сибагатуллин Фатих Саубанович": 435
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 19,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 9,
+      "gas:candidate-vibid:4164026237830": 21,
+      "gas:candidate-vibid:4164026236678": 435
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 8,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 16,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 360
+      "gas:candidate-vibid:4164026236433": 8,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 16,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 306
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 274
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 14,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 255
+      "gas:candidate-vibid:4164026236433": 14,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 221
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 19,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 11,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 17,
-      "Сибагатуллин Фатих Саубанович": 432
+      "gas:candidate-vibid:4164026236433": 19,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 11,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 17,
+      "gas:candidate-vibid:4164026236678": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 61,
-      "Бородин Евгений Анатольевич": 16,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 20,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 50,
-      "Сибагатуллин Фатих Саубанович": 807
+      "gas:candidate-vibid:4164026236433": 61,
+      "gas:candidate-vibid:4164026236947": 16,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 20,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 50,
+      "gas:candidate-vibid:4164026236678": 807
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 15,
-      "Сибагатуллин Фатих Саубанович": 348
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 15,
+      "gas:candidate-vibid:4164026236678": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562267&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562267&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 13,
-      "Габдуллин Ленар Айдарович": 19,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 29,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 271
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 13,
+      "gas:candidate-vibid:4164026218595": 19,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 29,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 50,
-      "Бородин Евгений Анатольевич": 15,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 46,
-      "Новиков Илья Вадимович": 10,
-      "Пешков Виктор Петрович": 13,
-      "Сибагатуллин Фатих Саубанович": 366
+      "gas:candidate-vibid:4164026236433": 50,
+      "gas:candidate-vibid:4164026236947": 15,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 46,
+      "gas:candidate-vibid:4164026236594": 10,
+      "gas:candidate-vibid:4164026237830": 13,
+      "gas:candidate-vibid:4164026236678": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 13,
-      "Габдуллин Ленар Айдарович": 9,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 18,
-      "Сибагатуллин Фатих Саубанович": 215
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 13,
+      "gas:candidate-vibid:4164026218595": 9,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 18,
+      "gas:candidate-vibid:4164026236678": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 21,
-      "Бородин Евгений Анатольевич": 38,
-      "Габдуллин Ленар Айдарович": 20,
-      "Новиков Дмитрий Николаевич": 21,
-      "Новиков Илья Вадимович": 23,
-      "Пешков Виктор Петрович": 27,
-      "Сибагатуллин Фатих Саубанович": 385
+      "gas:candidate-vibid:4164026236433": 21,
+      "gas:candidate-vibid:4164026236947": 38,
+      "gas:candidate-vibid:4164026218595": 20,
+      "gas:candidate-vibid:4164026236487": 21,
+      "gas:candidate-vibid:4164026236594": 23,
+      "gas:candidate-vibid:4164026237830": 27,
+      "gas:candidate-vibid:4164026236678": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 11,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 119
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 11,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 12,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 124
+      "gas:candidate-vibid:4164026236433": 12,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 68,
-      "Бородин Евгений Анатольевич": 20,
-      "Габдуллин Ленар Айдарович": 56,
-      "Новиков Дмитрий Николаевич": 25,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 37,
-      "Сибагатуллин Фатих Саубанович": 521
+      "gas:candidate-vibid:4164026236433": 68,
+      "gas:candidate-vibid:4164026236947": 20,
+      "gas:candidate-vibid:4164026218595": 56,
+      "gas:candidate-vibid:4164026236487": 25,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 37,
+      "gas:candidate-vibid:4164026236678": 521
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 53,
-      "Бородин Евгений Анатольевич": 52,
-      "Габдуллин Ленар Айдарович": 43,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 37,
-      "Сибагатуллин Фатих Саубанович": 444
+      "gas:candidate-vibid:4164026236433": 53,
+      "gas:candidate-vibid:4164026236947": 52,
+      "gas:candidate-vibid:4164026218595": 43,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 37,
+      "gas:candidate-vibid:4164026236678": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 12,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 95
+      "gas:candidate-vibid:4164026236433": 12,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 52
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 2,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 145
+      "gas:candidate-vibid:4164026236433": 2,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 14,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 11,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 126
+      "gas:candidate-vibid:4164026236433": 14,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 11,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 33,
-      "Бородин Евгений Анатольевич": 67,
-      "Габдуллин Ленар Айдарович": 19,
-      "Новиков Дмитрий Николаевич": 18,
-      "Новиков Илья Вадимович": 10,
-      "Пешков Виктор Петрович": 20,
-      "Сибагатуллин Фатих Саубанович": 427
+      "gas:candidate-vibid:4164026236433": 33,
+      "gas:candidate-vibid:4164026236947": 67,
+      "gas:candidate-vibid:4164026218595": 19,
+      "gas:candidate-vibid:4164026236487": 18,
+      "gas:candidate-vibid:4164026236594": 10,
+      "gas:candidate-vibid:4164026237830": 20,
+      "gas:candidate-vibid:4164026236678": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 8,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 62
+      "gas:candidate-vibid:4164026236433": 8,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 49,
-      "Бородин Евгений Анатольевич": 33,
-      "Габдуллин Ленар Айдарович": 35,
-      "Новиков Дмитрий Николаевич": 38,
-      "Новиков Илья Вадимович": 34,
-      "Пешков Виктор Петрович": 35,
-      "Сибагатуллин Фатих Саубанович": 547
+      "gas:candidate-vibid:4164026236433": 49,
+      "gas:candidate-vibid:4164026236947": 33,
+      "gas:candidate-vibid:4164026218595": 35,
+      "gas:candidate-vibid:4164026236487": 38,
+      "gas:candidate-vibid:4164026236594": 34,
+      "gas:candidate-vibid:4164026237830": 35,
+      "gas:candidate-vibid:4164026236678": 547
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 86
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 36,
-      "Бородин Евгений Анатольевич": 24,
-      "Габдуллин Ленар Айдарович": 59,
-      "Новиков Дмитрий Николаевич": 17,
-      "Новиков Илья Вадимович": 16,
-      "Пешков Виктор Петрович": 67,
-      "Сибагатуллин Фатих Саубанович": 570
+      "gas:candidate-vibid:4164026236433": 36,
+      "gas:candidate-vibid:4164026236947": 24,
+      "gas:candidate-vibid:4164026218595": 59,
+      "gas:candidate-vibid:4164026236487": 17,
+      "gas:candidate-vibid:4164026236594": 16,
+      "gas:candidate-vibid:4164026237830": 67,
+      "gas:candidate-vibid:4164026236678": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 106,
-      "Бородин Евгений Анатольевич": 30,
-      "Габдуллин Ленар Айдарович": 23,
-      "Новиков Дмитрий Николаевич": 31,
-      "Новиков Илья Вадимович": 21,
-      "Пешков Виктор Петрович": 10,
-      "Сибагатуллин Фатих Саубанович": 548
+      "gas:candidate-vibid:4164026236433": 106,
+      "gas:candidate-vibid:4164026236947": 30,
+      "gas:candidate-vibid:4164026218595": 23,
+      "gas:candidate-vibid:4164026236487": 31,
+      "gas:candidate-vibid:4164026236594": 21,
+      "gas:candidate-vibid:4164026237830": 10,
+      "gas:candidate-vibid:4164026236678": 548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 71,
-      "Бородин Евгений Анатольевич": 41,
-      "Габдуллин Ленар Айдарович": 74,
-      "Новиков Дмитрий Николаевич": 85,
-      "Новиков Илья Вадимович": 17,
-      "Пешков Виктор Петрович": 12,
-      "Сибагатуллин Фатих Саубанович": 764
+      "gas:candidate-vibid:4164026236433": 71,
+      "gas:candidate-vibid:4164026236947": 41,
+      "gas:candidate-vibid:4164026218595": 74,
+      "gas:candidate-vibid:4164026236487": 85,
+      "gas:candidate-vibid:4164026236594": 17,
+      "gas:candidate-vibid:4164026237830": 12,
+      "gas:candidate-vibid:4164026236678": 764
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 85,
-      "Бородин Евгений Анатольевич": 64,
-      "Габдуллин Ленар Айдарович": 58,
-      "Новиков Дмитрий Николаевич": 41,
-      "Новиков Илья Вадимович": 39,
-      "Пешков Виктор Петрович": 30,
-      "Сибагатуллин Фатих Саубанович": 740
+      "gas:candidate-vibid:4164026236433": 85,
+      "gas:candidate-vibid:4164026236947": 64,
+      "gas:candidate-vibid:4164026218595": 58,
+      "gas:candidate-vibid:4164026236487": 41,
+      "gas:candidate-vibid:4164026236594": 39,
+      "gas:candidate-vibid:4164026237830": 30,
+      "gas:candidate-vibid:4164026236678": 740
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 36,
-      "Бородин Евгений Анатольевич": 46,
-      "Габдуллин Ленар Айдарович": 30,
-      "Новиков Дмитрий Николаевич": 32,
-      "Новиков Илья Вадимович": 18,
-      "Пешков Виктор Петрович": 28,
-      "Сибагатуллин Фатих Саубанович": 560
+      "gas:candidate-vibid:4164026236433": 36,
+      "gas:candidate-vibid:4164026236947": 46,
+      "gas:candidate-vibid:4164026218595": 30,
+      "gas:candidate-vibid:4164026236487": 32,
+      "gas:candidate-vibid:4164026236594": 18,
+      "gas:candidate-vibid:4164026237830": 28,
+      "gas:candidate-vibid:4164026236678": 560
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 46,
-      "Бородин Евгений Анатольевич": 52,
-      "Габдуллин Ленар Айдарович": 34,
-      "Новиков Дмитрий Николаевич": 29,
-      "Новиков Илья Вадимович": 22,
-      "Пешков Виктор Петрович": 41,
-      "Сибагатуллин Фатих Саубанович": 525
+      "gas:candidate-vibid:4164026236433": 46,
+      "gas:candidate-vibid:4164026236947": 52,
+      "gas:candidate-vibid:4164026218595": 34,
+      "gas:candidate-vibid:4164026236487": 29,
+      "gas:candidate-vibid:4164026236594": 22,
+      "gas:candidate-vibid:4164026237830": 41,
+      "gas:candidate-vibid:4164026236678": 525
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 51,
-      "Бородин Евгений Анатольевич": 40,
-      "Габдуллин Ленар Айдарович": 50,
-      "Новиков Дмитрий Николаевич": 31,
-      "Новиков Илья Вадимович": 21,
-      "Пешков Виктор Петрович": 41,
-      "Сибагатуллин Фатих Саубанович": 580
+      "gas:candidate-vibid:4164026236433": 51,
+      "gas:candidate-vibid:4164026236947": 40,
+      "gas:candidate-vibid:4164026218595": 50,
+      "gas:candidate-vibid:4164026236487": 31,
+      "gas:candidate-vibid:4164026236594": 21,
+      "gas:candidate-vibid:4164026237830": 41,
+      "gas:candidate-vibid:4164026236678": 580
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 57,
-      "Бородин Евгений Анатольевич": 33,
-      "Габдуллин Ленар Айдарович": 56,
-      "Новиков Дмитрий Николаевич": 63,
-      "Новиков Илья Вадимович": 39,
-      "Пешков Виктор Петрович": 57,
-      "Сибагатуллин Фатих Саубанович": 713
+      "gas:candidate-vibid:4164026236433": 57,
+      "gas:candidate-vibid:4164026236947": 33,
+      "gas:candidate-vibid:4164026218595": 56,
+      "gas:candidate-vibid:4164026236487": 63,
+      "gas:candidate-vibid:4164026236594": 39,
+      "gas:candidate-vibid:4164026237830": 57,
+      "gas:candidate-vibid:4164026236678": 713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 30,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 75,
-      "Новиков Илья Вадимович": 29,
-      "Пешков Виктор Петрович": 99,
-      "Сибагатуллин Фатих Саубанович": 550
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 30,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 75,
+      "gas:candidate-vibid:4164026236594": 29,
+      "gas:candidate-vibid:4164026237830": 99,
+      "gas:candidate-vibid:4164026236678": 550
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 50,
-      "Бородин Евгений Анатольевич": 21,
-      "Габдуллин Ленар Айдарович": 41,
-      "Новиков Дмитрий Николаевич": 32,
-      "Новиков Илья Вадимович": 14,
-      "Пешков Виктор Петрович": 31,
-      "Сибагатуллин Фатих Саубанович": 494
+      "gas:candidate-vibid:4164026236433": 50,
+      "gas:candidate-vibid:4164026236947": 21,
+      "gas:candidate-vibid:4164026218595": 41,
+      "gas:candidate-vibid:4164026236487": 32,
+      "gas:candidate-vibid:4164026236594": 14,
+      "gas:candidate-vibid:4164026237830": 31,
+      "gas:candidate-vibid:4164026236678": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 43,
-      "Бородин Евгений Анатольевич": 13,
-      "Габдуллин Ленар Айдарович": 38,
-      "Новиков Дмитрий Николаевич": 22,
-      "Новиков Илья Вадимович": 23,
-      "Пешков Виктор Петрович": 27,
-      "Сибагатуллин Фатих Саубанович": 444
+      "gas:candidate-vibid:4164026236433": 43,
+      "gas:candidate-vibid:4164026236947": 13,
+      "gas:candidate-vibid:4164026218595": 38,
+      "gas:candidate-vibid:4164026236487": 22,
+      "gas:candidate-vibid:4164026236594": 23,
+      "gas:candidate-vibid:4164026237830": 27,
+      "gas:candidate-vibid:4164026236678": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 36,
-      "Бородин Евгений Анатольевич": 19,
-      "Габдуллин Ленар Айдарович": 24,
-      "Новиков Дмитрий Николаевич": 31,
-      "Новиков Илья Вадимович": 16,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 360
+      "gas:candidate-vibid:4164026236433": 36,
+      "gas:candidate-vibid:4164026236947": 19,
+      "gas:candidate-vibid:4164026218595": 24,
+      "gas:candidate-vibid:4164026236487": 31,
+      "gas:candidate-vibid:4164026236594": 16,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 15,
-      "Бородин Евгений Анатольевич": 65,
-      "Габдуллин Ленар Айдарович": 20,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 31,
-      "Сибагатуллин Фатих Саубанович": 450
+      "gas:candidate-vibid:4164026236433": 15,
+      "gas:candidate-vibid:4164026236947": 65,
+      "gas:candidate-vibid:4164026218595": 20,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 31,
+      "gas:candidate-vibid:4164026236678": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 68,
-      "Бородин Евгений Анатольевич": 30,
-      "Габдуллин Ленар Айдарович": 55,
-      "Новиков Дмитрий Николаевич": 71,
-      "Новиков Илья Вадимович": 22,
-      "Пешков Виктор Петрович": 47,
-      "Сибагатуллин Фатих Саубанович": 834
+      "gas:candidate-vibid:4164026236433": 68,
+      "gas:candidate-vibid:4164026236947": 30,
+      "gas:candidate-vibid:4164026218595": 55,
+      "gas:candidate-vibid:4164026236487": 71,
+      "gas:candidate-vibid:4164026236594": 22,
+      "gas:candidate-vibid:4164026237830": 47,
+      "gas:candidate-vibid:4164026236678": 834
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 40,
-      "Бородин Евгений Анатольевич": 35,
-      "Габдуллин Ленар Айдарович": 25,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 260
+      "gas:candidate-vibid:4164026236433": 40,
+      "gas:candidate-vibid:4164026236947": 35,
+      "gas:candidate-vibid:4164026218595": 25,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 42,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 23,
-      "Новиков Дмитрий Николаевич": 13,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 215
+      "gas:candidate-vibid:4164026236433": 42,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 23,
+      "gas:candidate-vibid:4164026236487": 13,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 80
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 32,
-      "Бородин Евгений Анатольевич": 7,
-      "Габдуллин Ленар Айдарович": 9,
-      "Новиков Дмитрий Николаевич": 11,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 24,
-      "Сибагатуллин Фатих Саубанович": 237
+      "gas:candidate-vibid:4164026236433": 32,
+      "gas:candidate-vibid:4164026236947": 7,
+      "gas:candidate-vibid:4164026218595": 9,
+      "gas:candidate-vibid:4164026236487": 11,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 24,
+      "gas:candidate-vibid:4164026236678": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 49,
-      "Бородин Евгений Анатольевич": 21,
-      "Габдуллин Ленар Айдарович": 35,
-      "Новиков Дмитрий Николаевич": 17,
-      "Новиков Илья Вадимович": 12,
-      "Пешков Виктор Петрович": 19,
-      "Сибагатуллин Фатих Саубанович": 391
+      "gas:candidate-vibid:4164026236433": 49,
+      "gas:candidate-vibid:4164026236947": 21,
+      "gas:candidate-vibid:4164026218595": 35,
+      "gas:candidate-vibid:4164026236487": 17,
+      "gas:candidate-vibid:4164026236594": 12,
+      "gas:candidate-vibid:4164026237830": 19,
+      "gas:candidate-vibid:4164026236678": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 24,
-      "Бородин Евгений Анатольевич": 19,
-      "Габдуллин Ленар Айдарович": 33,
-      "Новиков Дмитрий Николаевич": 20,
-      "Новиков Илья Вадимович": 30,
-      "Пешков Виктор Петрович": 27,
-      "Сибагатуллин Фатих Саубанович": 374
+      "gas:candidate-vibid:4164026236433": 24,
+      "gas:candidate-vibid:4164026236947": 19,
+      "gas:candidate-vibid:4164026218595": 33,
+      "gas:candidate-vibid:4164026236487": 20,
+      "gas:candidate-vibid:4164026236594": 30,
+      "gas:candidate-vibid:4164026237830": 27,
+      "gas:candidate-vibid:4164026236678": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 66,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 180
+      "gas:candidate-vibid:4164026236433": 66,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 26,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 14,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 16,
-      "Сибагатуллин Фатих Саубанович": 383
+      "gas:candidate-vibid:4164026236433": 26,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 14,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 16,
+      "gas:candidate-vibid:4164026236678": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 27,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 12,
-      "Новиков Дмитрий Николаевич": 22,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 190
+      "gas:candidate-vibid:4164026236433": 27,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 12,
+      "gas:candidate-vibid:4164026236487": 22,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 54,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 40,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 10,
-      "Пешков Виктор Петрович": 31,
-      "Сибагатуллин Фатих Саубанович": 423
+      "gas:candidate-vibid:4164026236433": 54,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 40,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 10,
+      "gas:candidate-vibid:4164026237830": 31,
+      "gas:candidate-vibid:4164026236678": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 10,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 14,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 4,
-      "Сибагатуллин Фатих Саубанович": 81
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 10,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 14,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 4,
+      "gas:candidate-vibid:4164026236678": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 66,
-      "Бородин Евгений Анатольевич": 50,
-      "Габдуллин Ленар Айдарович": 65,
-      "Новиков Дмитрий Николаевич": 58,
-      "Новиков Илья Вадимович": 11,
-      "Пешков Виктор Петрович": 67,
-      "Сибагатуллин Фатих Саубанович": 767
+      "gas:candidate-vibid:4164026236433": 66,
+      "gas:candidate-vibid:4164026236947": 50,
+      "gas:candidate-vibid:4164026218595": 65,
+      "gas:candidate-vibid:4164026236487": 58,
+      "gas:candidate-vibid:4164026236594": 11,
+      "gas:candidate-vibid:4164026237830": 67,
+      "gas:candidate-vibid:4164026236678": 767
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 20,
-      "Бородин Евгений Анатольевич": 13,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 8,
-      "Пешков Виктор Петрович": 17,
-      "Сибагатуллин Фатих Саубанович": 177
+      "gas:candidate-vibid:4164026236433": 20,
+      "gas:candidate-vibid:4164026236947": 13,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 8,
+      "gas:candidate-vibid:4164026237830": 17,
+      "gas:candidate-vibid:4164026236678": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 66
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 43,
-      "Бородин Евгений Анатольевич": 32,
-      "Габдуллин Ленар Айдарович": 16,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 22,
-      "Пешков Виктор Петрович": 16,
-      "Сибагатуллин Фатих Саубанович": 350
+      "gas:candidate-vibid:4164026236433": 43,
+      "gas:candidate-vibid:4164026236947": 32,
+      "gas:candidate-vibid:4164026218595": 16,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 22,
+      "gas:candidate-vibid:4164026237830": 16,
+      "gas:candidate-vibid:4164026236678": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 66,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 40,
-      "Новиков Дмитрий Николаевич": 7,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 40,
-      "Сибагатуллин Фатих Саубанович": 435
+      "gas:candidate-vibid:4164026236433": 66,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 40,
+      "gas:candidate-vibid:4164026236487": 7,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 40,
+      "gas:candidate-vibid:4164026236678": 435
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 19,
-      "Бородин Евгений Анатольевич": 34,
-      "Габдуллин Ленар Айдарович": 31,
-      "Новиков Дмитрий Николаевич": 37,
-      "Новиков Илья Вадимович": 38,
-      "Пешков Виктор Петрович": 43,
-      "Сибагатуллин Фатих Саубанович": 494
+      "gas:candidate-vibid:4164026236433": 19,
+      "gas:candidate-vibid:4164026236947": 34,
+      "gas:candidate-vibid:4164026218595": 31,
+      "gas:candidate-vibid:4164026236487": 37,
+      "gas:candidate-vibid:4164026236594": 38,
+      "gas:candidate-vibid:4164026237830": 43,
+      "gas:candidate-vibid:4164026236678": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 74,
-      "Бородин Евгений Анатольевич": 57,
-      "Габдуллин Ленар Айдарович": 45,
-      "Новиков Дмитрий Николаевич": 64,
-      "Новиков Илья Вадимович": 31,
-      "Пешков Виктор Петрович": 51,
-      "Сибагатуллин Фатих Саубанович": 708
+      "gas:candidate-vibid:4164026236433": 74,
+      "gas:candidate-vibid:4164026236947": 57,
+      "gas:candidate-vibid:4164026218595": 45,
+      "gas:candidate-vibid:4164026236487": 64,
+      "gas:candidate-vibid:4164026236594": 31,
+      "gas:candidate-vibid:4164026237830": 51,
+      "gas:candidate-vibid:4164026236678": 708
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 42,
-      "Бородин Евгений Анатольевич": 13,
-      "Габдуллин Ленар Айдарович": 31,
-      "Новиков Дмитрий Николаевич": 16,
-      "Новиков Илья Вадимович": 5,
-      "Пешков Виктор Петрович": 27,
-      "Сибагатуллин Фатих Саубанович": 370
+      "gas:candidate-vibid:4164026236433": 42,
+      "gas:candidate-vibid:4164026236947": 13,
+      "gas:candidate-vibid:4164026218595": 31,
+      "gas:candidate-vibid:4164026236487": 16,
+      "gas:candidate-vibid:4164026236594": 5,
+      "gas:candidate-vibid:4164026237830": 27,
+      "gas:candidate-vibid:4164026236678": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 32,
-      "Бородин Евгений Анатольевич": 28,
-      "Габдуллин Ленар Айдарович": 34,
-      "Новиков Дмитрий Николаевич": 37,
-      "Новиков Илья Вадимович": 24,
-      "Пешков Виктор Петрович": 66,
-      "Сибагатуллин Фатих Саубанович": 563
+      "gas:candidate-vibid:4164026236433": 32,
+      "gas:candidate-vibid:4164026236947": 28,
+      "gas:candidate-vibid:4164026218595": 34,
+      "gas:candidate-vibid:4164026236487": 37,
+      "gas:candidate-vibid:4164026236594": 24,
+      "gas:candidate-vibid:4164026237830": 66,
+      "gas:candidate-vibid:4164026236678": 563
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 118,
-      "Бородин Евгений Анатольевич": 19,
-      "Габдуллин Ленар Айдарович": 31,
-      "Новиков Дмитрий Николаевич": 21,
-      "Новиков Илья Вадимович": 24,
-      "Пешков Виктор Петрович": 25,
-      "Сибагатуллин Фатих Саубанович": 602
+      "gas:candidate-vibid:4164026236433": 118,
+      "gas:candidate-vibid:4164026236947": 19,
+      "gas:candidate-vibid:4164026218595": 31,
+      "gas:candidate-vibid:4164026236487": 21,
+      "gas:candidate-vibid:4164026236594": 24,
+      "gas:candidate-vibid:4164026237830": 25,
+      "gas:candidate-vibid:4164026236678": 602
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 53,
-      "Бородин Евгений Анатольевич": 23,
-      "Габдуллин Ленар Айдарович": 40,
-      "Новиков Дмитрий Николаевич": 25,
-      "Новиков Илья Вадимович": 24,
-      "Пешков Виктор Петрович": 30,
-      "Сибагатуллин Фатих Саубанович": 469
+      "gas:candidate-vibid:4164026236433": 53,
+      "gas:candidate-vibid:4164026236947": 23,
+      "gas:candidate-vibid:4164026218595": 40,
+      "gas:candidate-vibid:4164026236487": 25,
+      "gas:candidate-vibid:4164026236594": 24,
+      "gas:candidate-vibid:4164026237830": 30,
+      "gas:candidate-vibid:4164026236678": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 87,
-      "Бородин Евгений Анатольевич": 18,
-      "Габдуллин Ленар Айдарович": 15,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 13,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 383
+      "gas:candidate-vibid:4164026236433": 87,
+      "gas:candidate-vibid:4164026236947": 18,
+      "gas:candidate-vibid:4164026218595": 15,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 13,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 4,
-      "Сибагатуллин Фатих Саубанович": 69
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 4,
+      "gas:candidate-vibid:4164026236678": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562268&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562268&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 44,
-      "Бородин Евгений Анатольевич": 23,
-      "Габдуллин Ленар Айдарович": 21,
-      "Новиков Дмитрий Николаевич": 16,
-      "Новиков Илья Вадимович": 29,
-      "Пешков Виктор Петрович": 24,
-      "Сибагатуллин Фатих Саубанович": 791
+      "gas:candidate-vibid:4164026236433": 44,
+      "gas:candidate-vibid:4164026236947": 23,
+      "gas:candidate-vibid:4164026218595": 21,
+      "gas:candidate-vibid:4164026236487": 16,
+      "gas:candidate-vibid:4164026236594": 29,
+      "gas:candidate-vibid:4164026237830": 24,
+      "gas:candidate-vibid:4164026236678": 791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 129,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 45,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 101,
-      "Пешков Виктор Петрович": 173,
-      "Сибагатуллин Фатих Саубанович": 990
+      "gas:candidate-vibid:4164026236433": 129,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 45,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 101,
+      "gas:candidate-vibid:4164026237830": 173,
+      "gas:candidate-vibid:4164026236678": 990
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 84,
-      "Бородин Евгений Анатольевич": 27,
-      "Габдуллин Ленар Айдарович": 73,
-      "Новиков Дмитрий Николаевич": 44,
-      "Новиков Илья Вадимович": 26,
-      "Пешков Виктор Петрович": 99,
-      "Сибагатуллин Фатих Саубанович": 702
+      "gas:candidate-vibid:4164026236433": 84,
+      "gas:candidate-vibid:4164026236947": 27,
+      "gas:candidate-vibid:4164026218595": 73,
+      "gas:candidate-vibid:4164026236487": 44,
+      "gas:candidate-vibid:4164026236594": 26,
+      "gas:candidate-vibid:4164026237830": 99,
+      "gas:candidate-vibid:4164026236678": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 77,
-      "Бородин Евгений Анатольевич": 22,
-      "Габдуллин Ленар Айдарович": 56,
-      "Новиков Дмитрий Николаевич": 50,
-      "Новиков Илья Вадимович": 28,
-      "Пешков Виктор Петрович": 54,
-      "Сибагатуллин Фатих Саубанович": 1241
+      "gas:candidate-vibid:4164026236433": 77,
+      "gas:candidate-vibid:4164026236947": 22,
+      "gas:candidate-vibid:4164026218595": 56,
+      "gas:candidate-vibid:4164026236487": 50,
+      "gas:candidate-vibid:4164026236594": 28,
+      "gas:candidate-vibid:4164026237830": 54,
+      "gas:candidate-vibid:4164026236678": 1241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 108,
-      "Бородин Евгений Анатольевич": 38,
-      "Габдуллин Ленар Айдарович": 81,
-      "Новиков Дмитрий Николаевич": 68,
-      "Новиков Илья Вадимович": 18,
-      "Пешков Виктор Петрович": 77,
-      "Сибагатуллин Фатих Саубанович": 678
+      "gas:candidate-vibid:4164026236433": 108,
+      "gas:candidate-vibid:4164026236947": 38,
+      "gas:candidate-vibid:4164026218595": 81,
+      "gas:candidate-vibid:4164026236487": 68,
+      "gas:candidate-vibid:4164026236594": 18,
+      "gas:candidate-vibid:4164026237830": 77,
+      "gas:candidate-vibid:4164026236678": 678
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 73,
-      "Бородин Евгений Анатольевич": 31,
-      "Габдуллин Ленар Айдарович": 91,
-      "Новиков Дмитрий Николаевич": 31,
-      "Новиков Илья Вадимович": 12,
-      "Пешков Виктор Петрович": 59,
-      "Сибагатуллин Фатих Саубанович": 1208
+      "gas:candidate-vibid:4164026236433": 73,
+      "gas:candidate-vibid:4164026236947": 31,
+      "gas:candidate-vibid:4164026218595": 91,
+      "gas:candidate-vibid:4164026236487": 31,
+      "gas:candidate-vibid:4164026236594": 12,
+      "gas:candidate-vibid:4164026237830": 59,
+      "gas:candidate-vibid:4164026236678": 1208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 79,
-      "Бородин Евгений Анатольевич": 24,
-      "Габдуллин Ленар Айдарович": 63,
-      "Новиков Дмитрий Николаевич": 29,
-      "Новиков Илья Вадимович": 32,
-      "Пешков Виктор Петрович": 70,
-      "Сибагатуллин Фатих Саубанович": 1265
+      "gas:candidate-vibid:4164026236433": 79,
+      "gas:candidate-vibid:4164026236947": 24,
+      "gas:candidate-vibid:4164026218595": 63,
+      "gas:candidate-vibid:4164026236487": 29,
+      "gas:candidate-vibid:4164026236594": 32,
+      "gas:candidate-vibid:4164026237830": 70,
+      "gas:candidate-vibid:4164026236678": 1265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 101,
-      "Бородин Евгений Анатольевич": 23,
-      "Габдуллин Ленар Айдарович": 59,
-      "Новиков Дмитрий Николаевич": 51,
-      "Новиков Илья Вадимович": 30,
-      "Пешков Виктор Петрович": 89,
-      "Сибагатуллин Фатих Саубанович": 1357
+      "gas:candidate-vibid:4164026236433": 101,
+      "gas:candidate-vibid:4164026236947": 23,
+      "gas:candidate-vibid:4164026218595": 59,
+      "gas:candidate-vibid:4164026236487": 51,
+      "gas:candidate-vibid:4164026236594": 30,
+      "gas:candidate-vibid:4164026237830": 89,
+      "gas:candidate-vibid:4164026236678": 1357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 200,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 44,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 39,
-      "Сибагатуллин Фатих Саубанович": 658
+      "gas:candidate-vibid:4164026236433": 200,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 44,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 39,
+      "gas:candidate-vibid:4164026236678": 658
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 86,
-      "Бородин Евгений Анатольевич": 20,
-      "Габдуллин Ленар Айдарович": 33,
-      "Новиков Дмитрий Николаевич": 26,
-      "Новиков Илья Вадимович": 33,
-      "Пешков Виктор Петрович": 48,
-      "Сибагатуллин Фатих Саубанович": 599
+      "gas:candidate-vibid:4164026236433": 86,
+      "gas:candidate-vibid:4164026236947": 20,
+      "gas:candidate-vibid:4164026218595": 33,
+      "gas:candidate-vibid:4164026236487": 26,
+      "gas:candidate-vibid:4164026236594": 33,
+      "gas:candidate-vibid:4164026237830": 48,
+      "gas:candidate-vibid:4164026236678": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 15,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 10,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 204
+      "gas:candidate-vibid:4164026236433": 15,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 10,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 125
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 16,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 8,
-      "Новиков Илья Вадимович": 11,
-      "Пешков Виктор Петрович": 10,
-      "Сибагатуллин Фатих Саубанович": 699
+      "gas:candidate-vibid:4164026236433": 16,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 8,
+      "gas:candidate-vibid:4164026236594": 11,
+      "gas:candidate-vibid:4164026237830": 10,
+      "gas:candidate-vibid:4164026236678": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 9,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 12,
-      "Пешков Виктор Петрович": 16,
-      "Сибагатуллин Фатих Саубанович": 563
+      "gas:candidate-vibid:4164026236433": 9,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 12,
+      "gas:candidate-vibid:4164026237830": 16,
+      "gas:candidate-vibid:4164026236678": 563
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 9,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 333
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 9,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 18,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 16,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 515
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 18,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 16,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 22,
-      "Бородин Евгений Анатольевич": 6,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 15,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 19,
-      "Сибагатуллин Фатих Саубанович": 267
+      "gas:candidate-vibid:4164026236433": 22,
+      "gas:candidate-vibid:4164026236947": 6,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 15,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 19,
+      "gas:candidate-vibid:4164026236678": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 32,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 18,
-      "Новиков Дмитрий Николаевич": 9,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 38,
-      "Сибагатуллин Фатих Саубанович": 530
+      "gas:candidate-vibid:4164026236433": 32,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 18,
+      "gas:candidate-vibid:4164026236487": 9,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 38,
+      "gas:candidate-vibid:4164026236678": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 13,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 9,
-      "Новиков Дмитрий Николаевич": 9,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 11,
-      "Сибагатуллин Фатих Саубанович": 193
+      "gas:candidate-vibid:4164026236433": 13,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 9,
+      "gas:candidate-vibid:4164026236487": 9,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 11,
+      "gas:candidate-vibid:4164026236678": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 2,
-      "Сибагатуллин Фатих Саубанович": 221
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 2,
+      "gas:candidate-vibid:4164026236678": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 8,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 7,
-      "Сибагатуллин Фатих Саубанович": 325
+      "gas:candidate-vibid:4164026236433": 8,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 7,
+      "gas:candidate-vibid:4164026236678": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 285
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 188
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 7,
-      "Новиков Дмитрий Николаевич": 10,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 4,
-      "Сибагатуллин Фатих Саубанович": 176
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 7,
+      "gas:candidate-vibid:4164026236487": 10,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 4,
+      "gas:candidate-vibid:4164026236678": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 15,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 7,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 262
+      "gas:candidate-vibid:4164026236433": 15,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 7,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 9,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 380
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 9,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 7,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 259
+      "gas:candidate-vibid:4164026236433": 7,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 25,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 4,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 31,
-      "Сибагатуллин Фатих Саубанович": 598
+      "gas:candidate-vibid:4164026236433": 25,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 4,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 31,
+      "gas:candidate-vibid:4164026236678": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 140
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 391
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 12,
-      "Габдуллин Ленар Айдарович": 22,
-      "Новиков Дмитрий Николаевич": 25,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 17,
-      "Сибагатуллин Фатих Саубанович": 247
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 12,
+      "gas:candidate-vibid:4164026218595": 22,
+      "gas:candidate-vibid:4164026236487": 25,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 17,
+      "gas:candidate-vibid:4164026236678": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 11,
-      "Бородин Евгений Анатольевич": 9,
-      "Габдуллин Ленар Айдарович": 19,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 15,
-      "Сибагатуллин Фатих Саубанович": 266
+      "gas:candidate-vibid:4164026236433": 11,
+      "gas:candidate-vibid:4164026236947": 9,
+      "gas:candidate-vibid:4164026218595": 19,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 15,
+      "gas:candidate-vibid:4164026236678": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 15,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 667
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 15,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 667
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 7,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 984
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 7,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 984
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 38,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 19,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 11,
-      "Сибагатуллин Фатих Саубанович": 220
+      "gas:candidate-vibid:4164026236433": 38,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 19,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 11,
+      "gas:candidate-vibid:4164026236678": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 2,
-      "Новиков Дмитрий Николаевич": 1,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 302
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 2,
+      "gas:candidate-vibid:4164026236487": 1,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 15,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 16,
-      "Сибагатуллин Фатих Саубанович": 383
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 15,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 16,
+      "gas:candidate-vibid:4164026236678": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 173
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 242
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 0,
-      "Бородин Евгений Анатольевич": 3,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 0,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 0,
-      "Сибагатуллин Фатих Саубанович": 342
+      "gas:candidate-vibid:4164026236433": 0,
+      "gas:candidate-vibid:4164026236947": 3,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 0,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 0,
+      "gas:candidate-vibid:4164026236678": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 8,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 261
+      "gas:candidate-vibid:4164026236433": 8,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 18,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 6,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 8,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 336
+      "gas:candidate-vibid:4164026236433": 18,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 6,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 8,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 1,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 214
+      "gas:candidate-vibid:4164026236433": 1,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 12,
-      "Бородин Евгений Анатольевич": 11,
-      "Габдуллин Ленар Айдарович": 8,
-      "Новиков Дмитрий Николаевич": 14,
-      "Новиков Илья Вадимович": 4,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 492
+      "gas:candidate-vibid:4164026236433": 12,
+      "gas:candidate-vibid:4164026236947": 11,
+      "gas:candidate-vibid:4164026218595": 8,
+      "gas:candidate-vibid:4164026236487": 14,
+      "gas:candidate-vibid:4164026236594": 4,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 492
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 9,
-      "Бородин Евгений Анатольевич": 7,
-      "Габдуллин Ленар Айдарович": 13,
-      "Новиков Дмитрий Николаевич": 11,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 402
+      "gas:candidate-vibid:4164026236433": 9,
+      "gas:candidate-vibid:4164026236947": 7,
+      "gas:candidate-vibid:4164026218595": 13,
+      "gas:candidate-vibid:4164026236487": 11,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 33,
-      "Бородин Евгений Анатольевич": 8,
-      "Габдуллин Ленар Айдарович": 20,
-      "Новиков Дмитрий Николаевич": 18,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 14,
-      "Сибагатуллин Фатих Саубанович": 536
+      "gas:candidate-vibid:4164026236433": 33,
+      "gas:candidate-vibid:4164026236947": 8,
+      "gas:candidate-vibid:4164026218595": 20,
+      "gas:candidate-vibid:4164026236487": 18,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 14,
+      "gas:candidate-vibid:4164026236678": 536
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 9,
-      "Бородин Евгений Анатольевич": 4,
-      "Габдуллин Ленар Айдарович": 7,
-      "Новиков Дмитрий Николаевич": 5,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 11,
-      "Сибагатуллин Фатих Саубанович": 240
+      "gas:candidate-vibid:4164026236433": 9,
+      "gas:candidate-vibid:4164026236947": 4,
+      "gas:candidate-vibid:4164026218595": 7,
+      "gas:candidate-vibid:4164026236487": 5,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 11,
+      "gas:candidate-vibid:4164026236678": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 14,
-      "Бородин Евгений Анатольевич": 0,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 2,
-      "Новиков Илья Вадимович": 2,
-      "Пешков Виктор Петрович": 1,
-      "Сибагатуллин Фатих Саубанович": 210
+      "gas:candidate-vibid:4164026236433": 14,
+      "gas:candidate-vibid:4164026236947": 0,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 2,
+      "gas:candidate-vibid:4164026236594": 2,
+      "gas:candidate-vibid:4164026237830": 1,
+      "gas:candidate-vibid:4164026236678": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 10,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 12,
-      "Сибагатуллин Фатих Саубанович": 333
+      "gas:candidate-vibid:4164026236433": 10,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 12,
+      "gas:candidate-vibid:4164026236678": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 6,
-      "Бородин Евгений Анатольевич": 7,
-      "Габдуллин Ленар Айдарович": 11,
-      "Новиков Дмитрий Николаевич": 6,
-      "Новиков Илья Вадимович": 9,
-      "Пешков Виктор Петрович": 5,
-      "Сибагатуллин Фатих Саубанович": 398
+      "gas:candidate-vibid:4164026236433": 6,
+      "gas:candidate-vibid:4164026236947": 7,
+      "gas:candidate-vibid:4164026218595": 11,
+      "gas:candidate-vibid:4164026236487": 6,
+      "gas:candidate-vibid:4164026236594": 9,
+      "gas:candidate-vibid:4164026237830": 5,
+      "gas:candidate-vibid:4164026236678": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 5,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 5,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 3,
-      "Пешков Виктор Петрович": 3,
-      "Сибагатуллин Фатих Саубанович": 203
+      "gas:candidate-vibid:4164026236433": 5,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 5,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 3,
+      "gas:candidate-vibid:4164026237830": 3,
+      "gas:candidate-vibid:4164026236678": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 14,
-      "Бородин Евгений Анатольевич": 17,
-      "Габдуллин Ленар Айдарович": 0,
-      "Новиков Дмитрий Николаевич": 22,
-      "Новиков Илья Вадимович": 17,
-      "Пешков Виктор Петрович": 53,
-      "Сибагатуллин Фатих Саубанович": 440
+      "gas:candidate-vibid:4164026236433": 14,
+      "gas:candidate-vibid:4164026236947": 17,
+      "gas:candidate-vibid:4164026218595": 0,
+      "gas:candidate-vibid:4164026236487": 22,
+      "gas:candidate-vibid:4164026236594": 17,
+      "gas:candidate-vibid:4164026237830": 53,
+      "gas:candidate-vibid:4164026236678": 440
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 4,
-      "Бородин Евгений Анатольевич": 1,
-      "Габдуллин Ленар Айдарович": 3,
-      "Новиков Дмитрий Николаевич": 4,
-      "Новиков Илья Вадимович": 0,
-      "Пешков Виктор Петрович": 6,
-      "Сибагатуллин Фатих Саубанович": 256
+      "gas:candidate-vibid:4164026236433": 4,
+      "gas:candidate-vibid:4164026236947": 1,
+      "gas:candidate-vibid:4164026218595": 3,
+      "gas:candidate-vibid:4164026236487": 4,
+      "gas:candidate-vibid:4164026236594": 0,
+      "gas:candidate-vibid:4164026237830": 6,
+      "gas:candidate-vibid:4164026236678": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 41,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 18,
-      "Новиков Дмитрий Николаевич": 12,
-      "Новиков Илья Вадимович": 6,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 446
+      "gas:candidate-vibid:4164026236433": 41,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 18,
+      "gas:candidate-vibid:4164026236487": 12,
+      "gas:candidate-vibid:4164026236594": 6,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 19,
-      "Бородин Евгений Анатольевич": 5,
-      "Габдуллин Ленар Айдарович": 9,
-      "Новиков Дмитрий Николаевич": 8,
-      "Новиков Илья Вадимович": 1,
-      "Пешков Виктор Петрович": 8,
-      "Сибагатуллин Фатих Саубанович": 469
+      "gas:candidate-vibid:4164026236433": 19,
+      "gas:candidate-vibid:4164026236947": 5,
+      "gas:candidate-vibid:4164026218595": 9,
+      "gas:candidate-vibid:4164026236487": 8,
+      "gas:candidate-vibid:4164026236594": 1,
+      "gas:candidate-vibid:4164026237830": 8,
+      "gas:candidate-vibid:4164026236678": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_16_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бильгильдеева Рушания Габдулахатовна": 3,
-      "Бородин Евгений Анатольевич": 2,
-      "Габдуллин Ленар Айдарович": 1,
-      "Новиков Дмитрий Николаевич": 3,
-      "Новиков Илья Вадимович": 8,
-      "Пешков Виктор Петрович": 9,
-      "Сибагатуллин Фатих Саубанович": 265
+      "gas:candidate-vibid:4164026236433": 3,
+      "gas:candidate-vibid:4164026236947": 2,
+      "gas:candidate-vibid:4164026218595": 1,
+      "gas:candidate-vibid:4164026236487": 3,
+      "gas:candidate-vibid:4164026236594": 8,
+      "gas:candidate-vibid:4164026237830": 9,
+      "gas:candidate-vibid:4164026236678": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000039&tvd=21620001562269&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562269&type=464",

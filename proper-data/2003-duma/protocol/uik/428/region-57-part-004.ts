@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 5,
-      "Зябкин Владимир Александрович": 2,
-      "Кузьмин Алексей Алексеевич": 2,
-      "Мосякин Иван Яковлевич": 60,
-      "Тарасов Сергей Александрович": 4,
-      "Щипаков Дмитрий Павлович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136098": 5,
+      "gas:candidate-vibid:1001000212600": 2,
+      "gas:candidate-vibid:1001000118559": 2,
+      "gas:candidate-vibid:257200070955": 60,
+      "gas:candidate-vibid:1001000113965": 4,
+      "gas:candidate-vibid:1001000195121": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070648&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 3,
-      "Зябкин Владимир Александрович": 4,
-      "Кузьмин Алексей Алексеевич": 5,
-      "Мосякин Иван Яковлевич": 408,
-      "Тарасов Сергей Александрович": 1,
-      "Щипаков Дмитрий Павлович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136098": 3,
+      "gas:candidate-vibid:1001000212600": 4,
+      "gas:candidate-vibid:1001000118559": 5,
+      "gas:candidate-vibid:257200070955": 408,
+      "gas:candidate-vibid:1001000113965": 1,
+      "gas:candidate-vibid:1001000195121": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070648&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 11,
-      "Зябкин Владимир Александрович": 12,
-      "Кузьмин Алексей Алексеевич": 11,
-      "Мосякин Иван Яковлевич": 177,
-      "Тарасов Сергей Александрович": 15,
-      "Щипаков Дмитрий Павлович": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136098": 11,
+      "gas:candidate-vibid:1001000212600": 12,
+      "gas:candidate-vibid:1001000118559": 11,
+      "gas:candidate-vibid:257200070955": 177,
+      "gas:candidate-vibid:1001000113965": 15,
+      "gas:candidate-vibid:1001000195121": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070648&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 11,
-      "Зябкин Владимир Александрович": 8,
-      "Кузьмин Алексей Алексеевич": 9,
-      "Мосякин Иван Яковлевич": 122,
-      "Тарасов Сергей Александрович": 3,
-      "Щипаков Дмитрий Павлович": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136098": 11,
+      "gas:candidate-vibid:1001000212600": 8,
+      "gas:candidate-vibid:1001000118559": 9,
+      "gas:candidate-vibid:257200070955": 122,
+      "gas:candidate-vibid:1001000113965": 3,
+      "gas:candidate-vibid:1001000195121": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 11,
-      "Зябкин Владимир Александрович": 3,
-      "Кузьмин Алексей Алексеевич": 10,
-      "Мосякин Иван Яковлевич": 115,
-      "Тарасов Сергей Александрович": 3,
-      "Щипаков Дмитрий Павлович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136098": 11,
+      "gas:candidate-vibid:1001000212600": 3,
+      "gas:candidate-vibid:1001000118559": 10,
+      "gas:candidate-vibid:257200070955": 115,
+      "gas:candidate-vibid:1001000113965": 3,
+      "gas:candidate-vibid:1001000195121": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 5,
-      "Зябкин Владимир Александрович": 3,
-      "Кузьмин Алексей Алексеевич": 8,
-      "Мосякин Иван Яковлевич": 188,
-      "Тарасов Сергей Александрович": 11,
-      "Щипаков Дмитрий Павлович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136098": 5,
+      "gas:candidate-vibid:1001000212600": 3,
+      "gas:candidate-vibid:1001000118559": 8,
+      "gas:candidate-vibid:257200070955": 188,
+      "gas:candidate-vibid:1001000113965": 11,
+      "gas:candidate-vibid:1001000195121": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 67,
-      "Зябкин Владимир Александрович": 10,
-      "Кузьмин Алексей Алексеевич": 12,
-      "Мосякин Иван Яковлевич": 206,
-      "Тарасов Сергей Александрович": 15,
-      "Щипаков Дмитрий Павлович": 18,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136098": 67,
+      "gas:candidate-vibid:1001000212600": 10,
+      "gas:candidate-vibid:1001000118559": 12,
+      "gas:candidate-vibid:257200070955": 206,
+      "gas:candidate-vibid:1001000113965": 15,
+      "gas:candidate-vibid:1001000195121": 18,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 9,
-      "Зябкин Владимир Александрович": 6,
-      "Кузьмин Алексей Алексеевич": 20,
-      "Мосякин Иван Яковлевич": 232,
-      "Тарасов Сергей Александрович": 6,
-      "Щипаков Дмитрий Павлович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136098": 9,
+      "gas:candidate-vibid:1001000212600": 6,
+      "gas:candidate-vibid:1001000118559": 20,
+      "gas:candidate-vibid:257200070955": 232,
+      "gas:candidate-vibid:1001000113965": 6,
+      "gas:candidate-vibid:1001000195121": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 2,
-      "Зябкин Владимир Александрович": 8,
-      "Кузьмин Алексей Алексеевич": 10,
-      "Мосякин Иван Яковлевич": 149,
-      "Тарасов Сергей Александрович": 7,
-      "Щипаков Дмитрий Павлович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136098": 2,
+      "gas:candidate-vibid:1001000212600": 8,
+      "gas:candidate-vibid:1001000118559": 10,
+      "gas:candidate-vibid:257200070955": 149,
+      "gas:candidate-vibid:1001000113965": 7,
+      "gas:candidate-vibid:1001000195121": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 49,
-      "Зябкин Владимир Александрович": 20,
-      "Кузьмин Алексей Алексеевич": 22,
-      "Мосякин Иван Яковлевич": 244,
-      "Тарасов Сергей Александрович": 20,
-      "Щипаков Дмитрий Павлович": 14,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136098": 49,
+      "gas:candidate-vibid:1001000212600": 20,
+      "gas:candidate-vibid:1001000118559": 22,
+      "gas:candidate-vibid:257200070955": 244,
+      "gas:candidate-vibid:1001000113965": 20,
+      "gas:candidate-vibid:1001000195121": 14,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 13,
-      "Зябкин Владимир Александрович": 4,
-      "Кузьмин Алексей Алексеевич": 18,
-      "Мосякин Иван Яковлевич": 126,
-      "Тарасов Сергей Александрович": 5,
-      "Щипаков Дмитрий Павлович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136098": 13,
+      "gas:candidate-vibid:1001000212600": 4,
+      "gas:candidate-vibid:1001000118559": 18,
+      "gas:candidate-vibid:257200070955": 126,
+      "gas:candidate-vibid:1001000113965": 5,
+      "gas:candidate-vibid:1001000195121": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 10,
-      "Зябкин Владимир Александрович": 2,
-      "Кузьмин Алексей Алексеевич": 0,
-      "Мосякин Иван Яковлевич": 200,
-      "Тарасов Сергей Александрович": 4,
-      "Щипаков Дмитрий Павлович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136098": 10,
+      "gas:candidate-vibid:1001000212600": 2,
+      "gas:candidate-vibid:1001000118559": 0,
+      "gas:candidate-vibid:257200070955": 200,
+      "gas:candidate-vibid:1001000113965": 4,
+      "gas:candidate-vibid:1001000195121": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 19,
-      "Зябкин Владимир Александрович": 6,
-      "Кузьмин Алексей Алексеевич": 10,
-      "Мосякин Иван Яковлевич": 215,
-      "Тарасов Сергей Александрович": 7,
-      "Щипаков Дмитрий Павлович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136098": 19,
+      "gas:candidate-vibid:1001000212600": 6,
+      "gas:candidate-vibid:1001000118559": 10,
+      "gas:candidate-vibid:257200070955": 215,
+      "gas:candidate-vibid:1001000113965": 7,
+      "gas:candidate-vibid:1001000195121": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 11,
-      "Зябкин Владимир Александрович": 40,
-      "Кузьмин Алексей Алексеевич": 12,
-      "Мосякин Иван Яковлевич": 102,
-      "Тарасов Сергей Александрович": 20,
-      "Щипаков Дмитрий Павлович": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136098": 11,
+      "gas:candidate-vibid:1001000212600": 40,
+      "gas:candidate-vibid:1001000118559": 12,
+      "gas:candidate-vibid:257200070955": 102,
+      "gas:candidate-vibid:1001000113965": 20,
+      "gas:candidate-vibid:1001000195121": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 4,
-      "Зябкин Владимир Александрович": 2,
-      "Кузьмин Алексей Алексеевич": 10,
-      "Мосякин Иван Яковлевич": 144,
-      "Тарасов Сергей Александрович": 6,
-      "Щипаков Дмитрий Павлович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136098": 4,
+      "gas:candidate-vibid:1001000212600": 2,
+      "gas:candidate-vibid:1001000118559": 10,
+      "gas:candidate-vibid:257200070955": 144,
+      "gas:candidate-vibid:1001000113965": 6,
+      "gas:candidate-vibid:1001000195121": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 20,
-      "Зябкин Владимир Александрович": 15,
-      "Кузьмин Алексей Алексеевич": 40,
-      "Мосякин Иван Яковлевич": 267,
-      "Тарасов Сергей Александрович": 22,
-      "Щипаков Дмитрий Павлович": 17,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136098": 20,
+      "gas:candidate-vibid:1001000212600": 15,
+      "gas:candidate-vibid:1001000118559": 40,
+      "gas:candidate-vibid:257200070955": 267,
+      "gas:candidate-vibid:1001000113965": 22,
+      "gas:candidate-vibid:1001000195121": 17,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 16,
-      "Зябкин Владимир Александрович": 4,
-      "Кузьмин Алексей Алексеевич": 5,
-      "Мосякин Иван Яковлевич": 100,
-      "Тарасов Сергей Александрович": 8,
-      "Щипаков Дмитрий Павлович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136098": 16,
+      "gas:candidate-vibid:1001000212600": 4,
+      "gas:candidate-vibid:1001000118559": 5,
+      "gas:candidate-vibid:257200070955": 100,
+      "gas:candidate-vibid:1001000113965": 8,
+      "gas:candidate-vibid:1001000195121": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 74,
-      "Зябкин Владимир Александрович": 26,
-      "Кузьмин Алексей Алексеевич": 80,
-      "Мосякин Иван Яковлевич": 582,
-      "Тарасов Сергей Александрович": 44,
-      "Щипаков Дмитрий Павлович": 17,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136098": 74,
+      "gas:candidate-vibid:1001000212600": 26,
+      "gas:candidate-vibid:1001000118559": 80,
+      "gas:candidate-vibid:257200070955": 582,
+      "gas:candidate-vibid:1001000113965": 44,
+      "gas:candidate-vibid:1001000195121": 17,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 21,
-      "Зябкин Владимир Александрович": 9,
-      "Кузьмин Алексей Алексеевич": 22,
-      "Мосякин Иван Яковлевич": 167,
-      "Тарасов Сергей Александрович": 16,
-      "Щипаков Дмитрий Павлович": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136098": 21,
+      "gas:candidate-vibid:1001000212600": 9,
+      "gas:candidate-vibid:1001000118559": 22,
+      "gas:candidate-vibid:257200070955": 167,
+      "gas:candidate-vibid:1001000113965": 16,
+      "gas:candidate-vibid:1001000195121": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 7,
-      "Зябкин Владимир Александрович": 8,
-      "Кузьмин Алексей Алексеевич": 4,
-      "Мосякин Иван Яковлевич": 147,
-      "Тарасов Сергей Александрович": 7,
-      "Щипаков Дмитрий Павлович": 8,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136098": 7,
+      "gas:candidate-vibid:1001000212600": 8,
+      "gas:candidate-vibid:1001000118559": 4,
+      "gas:candidate-vibid:257200070955": 147,
+      "gas:candidate-vibid:1001000113965": 7,
+      "gas:candidate-vibid:1001000195121": 8,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070649&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 132,
-      "Зябкин Владимир Александрович": 54,
-      "Кузьмин Алексей Алексеевич": 268,
-      "Мосякин Иван Яковлевич": 730,
-      "Тарасов Сергей Александрович": 25,
-      "Щипаков Дмитрий Павлович": 39,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000136098": 132,
+      "gas:candidate-vibid:1001000212600": 54,
+      "gas:candidate-vibid:1001000118559": 268,
+      "gas:candidate-vibid:257200070955": 730,
+      "gas:candidate-vibid:1001000113965": 25,
+      "gas:candidate-vibid:1001000195121": 39,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 100,
-      "Зябкин Владимир Александрович": 26,
-      "Кузьмин Алексей Алексеевич": 132,
-      "Мосякин Иван Яковлевич": 344,
-      "Тарасов Сергей Александрович": 45,
-      "Щипаков Дмитрий Павлович": 22,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136098": 100,
+      "gas:candidate-vibid:1001000212600": 26,
+      "gas:candidate-vibid:1001000118559": 132,
+      "gas:candidate-vibid:257200070955": 344,
+      "gas:candidate-vibid:1001000113965": 45,
+      "gas:candidate-vibid:1001000195121": 22,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 153,
-      "Зябкин Владимир Александрович": 78,
-      "Кузьмин Алексей Алексеевич": 237,
-      "Мосякин Иван Яковлевич": 452,
-      "Тарасов Сергей Александрович": 116,
-      "Щипаков Дмитрий Павлович": 73,
-      "Против всех": 450
+      "gas:candidate-vibid:1001000136098": 153,
+      "gas:candidate-vibid:1001000212600": 78,
+      "gas:candidate-vibid:1001000118559": 237,
+      "gas:candidate-vibid:257200070955": 452,
+      "gas:candidate-vibid:1001000113965": 116,
+      "gas:candidate-vibid:1001000195121": 73,
+      "special:against-all": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 135,
-      "Зябкин Владимир Александрович": 68,
-      "Кузьмин Алексей Алексеевич": 244,
-      "Мосякин Иван Яковлевич": 334,
-      "Тарасов Сергей Александрович": 89,
-      "Щипаков Дмитрий Павлович": 51,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000136098": 135,
+      "gas:candidate-vibid:1001000212600": 68,
+      "gas:candidate-vibid:1001000118559": 244,
+      "gas:candidate-vibid:257200070955": 334,
+      "gas:candidate-vibid:1001000113965": 89,
+      "gas:candidate-vibid:1001000195121": 51,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 128,
-      "Зябкин Владимир Александрович": 59,
-      "Кузьмин Алексей Алексеевич": 229,
-      "Мосякин Иван Яковлевич": 364,
-      "Тарасов Сергей Александрович": 69,
-      "Щипаков Дмитрий Павлович": 49,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136098": 128,
+      "gas:candidate-vibid:1001000212600": 59,
+      "gas:candidate-vibid:1001000118559": 229,
+      "gas:candidate-vibid:257200070955": 364,
+      "gas:candidate-vibid:1001000113965": 69,
+      "gas:candidate-vibid:1001000195121": 49,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 133,
-      "Зябкин Владимир Александрович": 79,
-      "Кузьмин Алексей Алексеевич": 342,
-      "Мосякин Иван Яковлевич": 502,
-      "Тарасов Сергей Александрович": 124,
-      "Щипаков Дмитрий Павлович": 63,
-      "Против всех": 474
+      "gas:candidate-vibid:1001000136098": 133,
+      "gas:candidate-vibid:1001000212600": 79,
+      "gas:candidate-vibid:1001000118559": 342,
+      "gas:candidate-vibid:257200070955": 502,
+      "gas:candidate-vibid:1001000113965": 124,
+      "gas:candidate-vibid:1001000195121": 63,
+      "special:against-all": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 157,
-      "Зябкин Владимир Александрович": 91,
-      "Кузьмин Алексей Алексеевич": 340,
-      "Мосякин Иван Яковлевич": 468,
-      "Тарасов Сергей Александрович": 116,
-      "Щипаков Дмитрий Павлович": 68,
-      "Против всех": 524
+      "gas:candidate-vibid:1001000136098": 157,
+      "gas:candidate-vibid:1001000212600": 91,
+      "gas:candidate-vibid:1001000118559": 340,
+      "gas:candidate-vibid:257200070955": 468,
+      "gas:candidate-vibid:1001000113965": 116,
+      "gas:candidate-vibid:1001000195121": 68,
+      "special:against-all": 524
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 137,
-      "Зябкин Владимир Александрович": 68,
-      "Кузьмин Алексей Алексеевич": 373,
-      "Мосякин Иван Яковлевич": 424,
-      "Тарасов Сергей Александрович": 83,
-      "Щипаков Дмитрий Павлович": 49,
-      "Против всех": 420
+      "gas:candidate-vibid:1001000136098": 137,
+      "gas:candidate-vibid:1001000212600": 68,
+      "gas:candidate-vibid:1001000118559": 373,
+      "gas:candidate-vibid:257200070955": 424,
+      "gas:candidate-vibid:1001000113965": 83,
+      "gas:candidate-vibid:1001000195121": 49,
+      "special:against-all": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 137,
-      "Зябкин Владимир Александрович": 76,
-      "Кузьмин Алексей Алексеевич": 206,
-      "Мосякин Иван Яковлевич": 315,
-      "Тарасов Сергей Александрович": 90,
-      "Щипаков Дмитрий Павлович": 64,
-      "Против всех": 386
+      "gas:candidate-vibid:1001000136098": 137,
+      "gas:candidate-vibid:1001000212600": 76,
+      "gas:candidate-vibid:1001000118559": 206,
+      "gas:candidate-vibid:257200070955": 315,
+      "gas:candidate-vibid:1001000113965": 90,
+      "gas:candidate-vibid:1001000195121": 64,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 83,
-      "Зябкин Владимир Александрович": 77,
-      "Кузьмин Алексей Алексеевич": 273,
-      "Мосякин Иван Яковлевич": 379,
-      "Тарасов Сергей Александрович": 92,
-      "Щипаков Дмитрий Павлович": 44,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000136098": 83,
+      "gas:candidate-vibid:1001000212600": 77,
+      "gas:candidate-vibid:1001000118559": 273,
+      "gas:candidate-vibid:257200070955": 379,
+      "gas:candidate-vibid:1001000113965": 92,
+      "gas:candidate-vibid:1001000195121": 44,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 199,
-      "Зябкин Владимир Александрович": 70,
-      "Кузьмин Алексей Алексеевич": 400,
-      "Мосякин Иван Яковлевич": 462,
-      "Тарасов Сергей Александрович": 104,
-      "Щипаков Дмитрий Павлович": 73,
-      "Против всех": 456
+      "gas:candidate-vibid:1001000136098": 199,
+      "gas:candidate-vibid:1001000212600": 70,
+      "gas:candidate-vibid:1001000118559": 400,
+      "gas:candidate-vibid:257200070955": 462,
+      "gas:candidate-vibid:1001000113965": 104,
+      "gas:candidate-vibid:1001000195121": 73,
+      "special:against-all": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 116,
-      "Зябкин Владимир Александрович": 82,
-      "Кузьмин Алексей Алексеевич": 346,
-      "Мосякин Иван Яковлевич": 430,
-      "Тарасов Сергей Александрович": 96,
-      "Щипаков Дмитрий Павлович": 76,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000136098": 116,
+      "gas:candidate-vibid:1001000212600": 82,
+      "gas:candidate-vibid:1001000118559": 346,
+      "gas:candidate-vibid:257200070955": 430,
+      "gas:candidate-vibid:1001000113965": 96,
+      "gas:candidate-vibid:1001000195121": 76,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 151,
-      "Зябкин Владимир Александрович": 88,
-      "Кузьмин Алексей Алексеевич": 272,
-      "Мосякин Иван Яковлевич": 432,
-      "Тарасов Сергей Александрович": 107,
-      "Щипаков Дмитрий Павлович": 48,
-      "Против всех": 380
+      "gas:candidate-vibid:1001000136098": 151,
+      "gas:candidate-vibid:1001000212600": 88,
+      "gas:candidate-vibid:1001000118559": 272,
+      "gas:candidate-vibid:257200070955": 432,
+      "gas:candidate-vibid:1001000113965": 107,
+      "gas:candidate-vibid:1001000195121": 48,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 107,
-      "Зябкин Владимир Александрович": 80,
-      "Кузьмин Алексей Алексеевич": 350,
-      "Мосякин Иван Яковлевич": 428,
-      "Тарасов Сергей Александрович": 96,
-      "Щипаков Дмитрий Павлович": 49,
-      "Против всех": 393
+      "gas:candidate-vibid:1001000136098": 107,
+      "gas:candidate-vibid:1001000212600": 80,
+      "gas:candidate-vibid:1001000118559": 350,
+      "gas:candidate-vibid:257200070955": 428,
+      "gas:candidate-vibid:1001000113965": 96,
+      "gas:candidate-vibid:1001000195121": 49,
+      "special:against-all": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 147,
-      "Зябкин Владимир Александрович": 68,
-      "Кузьмин Алексей Алексеевич": 280,
-      "Мосякин Иван Яковлевич": 539,
-      "Тарасов Сергей Александрович": 108,
-      "Щипаков Дмитрий Павлович": 34,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136098": 147,
+      "gas:candidate-vibid:1001000212600": 68,
+      "gas:candidate-vibid:1001000118559": 280,
+      "gas:candidate-vibid:257200070955": 539,
+      "gas:candidate-vibid:1001000113965": 108,
+      "gas:candidate-vibid:1001000195121": 34,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 129,
-      "Зябкин Владимир Александрович": 55,
-      "Кузьмин Алексей Алексеевич": 351,
-      "Мосякин Иван Яковлевич": 377,
-      "Тарасов Сергей Александрович": 88,
-      "Щипаков Дмитрий Павлович": 54,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000136098": 129,
+      "gas:candidate-vibid:1001000212600": 55,
+      "gas:candidate-vibid:1001000118559": 351,
+      "gas:candidate-vibid:257200070955": 377,
+      "gas:candidate-vibid:1001000113965": 88,
+      "gas:candidate-vibid:1001000195121": 54,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 166,
-      "Зябкин Владимир Александрович": 90,
-      "Кузьмин Алексей Алексеевич": 267,
-      "Мосякин Иван Яковлевич": 422,
-      "Тарасов Сергей Александрович": 106,
-      "Щипаков Дмитрий Павлович": 63,
-      "Против всех": 421
+      "gas:candidate-vibid:1001000136098": 166,
+      "gas:candidate-vibid:1001000212600": 90,
+      "gas:candidate-vibid:1001000118559": 267,
+      "gas:candidate-vibid:257200070955": 422,
+      "gas:candidate-vibid:1001000113965": 106,
+      "gas:candidate-vibid:1001000195121": 63,
+      "special:against-all": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 162,
-      "Зябкин Владимир Александрович": 62,
-      "Кузьмин Алексей Алексеевич": 266,
-      "Мосякин Иван Яковлевич": 497,
-      "Тарасов Сергей Александрович": 107,
-      "Щипаков Дмитрий Павлович": 34,
-      "Против всех": 469
+      "gas:candidate-vibid:1001000136098": 162,
+      "gas:candidate-vibid:1001000212600": 62,
+      "gas:candidate-vibid:1001000118559": 266,
+      "gas:candidate-vibid:257200070955": 497,
+      "gas:candidate-vibid:1001000113965": 107,
+      "gas:candidate-vibid:1001000195121": 34,
+      "special:against-all": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 105,
-      "Зябкин Владимир Александрович": 73,
-      "Кузьмин Алексей Алексеевич": 232,
-      "Мосякин Иван Яковлевич": 441,
-      "Тарасов Сергей Александрович": 81,
-      "Щипаков Дмитрий Павлович": 48,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000136098": 105,
+      "gas:candidate-vibid:1001000212600": 73,
+      "gas:candidate-vibid:1001000118559": 232,
+      "gas:candidate-vibid:257200070955": 441,
+      "gas:candidate-vibid:1001000113965": 81,
+      "gas:candidate-vibid:1001000195121": 48,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 122,
-      "Зябкин Владимир Александрович": 71,
-      "Кузьмин Алексей Алексеевич": 286,
-      "Мосякин Иван Яковлевич": 445,
-      "Тарасов Сергей Александрович": 85,
-      "Щипаков Дмитрий Павлович": 34,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000136098": 122,
+      "gas:candidate-vibid:1001000212600": 71,
+      "gas:candidate-vibid:1001000118559": 286,
+      "gas:candidate-vibid:257200070955": 445,
+      "gas:candidate-vibid:1001000113965": 85,
+      "gas:candidate-vibid:1001000195121": 34,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 81,
-      "Зябкин Владимир Александрович": 26,
-      "Кузьмин Алексей Алексеевич": 134,
-      "Мосякин Иван Яковлевич": 234,
-      "Тарасов Сергей Александрович": 64,
-      "Щипаков Дмитрий Павлович": 25,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136098": 81,
+      "gas:candidate-vibid:1001000212600": 26,
+      "gas:candidate-vibid:1001000118559": 134,
+      "gas:candidate-vibid:257200070955": 234,
+      "gas:candidate-vibid:1001000113965": 64,
+      "gas:candidate-vibid:1001000195121": 25,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 87,
-      "Зябкин Владимир Александрович": 74,
-      "Кузьмин Алексей Алексеевич": 212,
-      "Мосякин Иван Яковлевич": 316,
-      "Тарасов Сергей Александрович": 64,
-      "Щипаков Дмитрий Павлович": 33,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000136098": 87,
+      "gas:candidate-vibid:1001000212600": 74,
+      "gas:candidate-vibid:1001000118559": 212,
+      "gas:candidate-vibid:257200070955": 316,
+      "gas:candidate-vibid:1001000113965": 64,
+      "gas:candidate-vibid:1001000195121": 33,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 106,
-      "Зябкин Владимир Александрович": 53,
-      "Кузьмин Алексей Алексеевич": 274,
-      "Мосякин Иван Яковлевич": 326,
-      "Тарасов Сергей Александрович": 60,
-      "Щипаков Дмитрий Павлович": 48,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136098": 106,
+      "gas:candidate-vibid:1001000212600": 53,
+      "gas:candidate-vibid:1001000118559": 274,
+      "gas:candidate-vibid:257200070955": 326,
+      "gas:candidate-vibid:1001000113965": 60,
+      "gas:candidate-vibid:1001000195121": 48,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_57_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бавыкин Сергей Николаевич": 93,
-      "Зябкин Владимир Александрович": 66,
-      "Кузьмин Алексей Алексеевич": 191,
-      "Мосякин Иван Яковлевич": 371,
-      "Тарасов Сергей Александрович": 70,
-      "Щипаков Дмитрий Павлович": 46,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000136098": 93,
+      "gas:candidate-vibid:1001000212600": 66,
+      "gas:candidate-vibid:1001000118559": 191,
+      "gas:candidate-vibid:257200070955": 371,
+      "gas:candidate-vibid:1001000113965": 70,
+      "gas:candidate-vibid:1001000195121": 46,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=572000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=257200070661&region=0&sub_region=0&type=429",

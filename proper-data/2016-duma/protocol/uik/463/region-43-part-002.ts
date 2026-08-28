@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 283,
-      "Барсуков Николай Александрович": 49,
-      "Вотинцев Алексей Владимирович": 133,
-      "Мальцев Александр Николаевич": 135,
-      "Орлов Андрей Евгеньевич": 32,
-      "Перов Андрей Игоревич": 30,
-      "Рогожкин Сергей Валентинович": 24
+      "gas:candidate-vibid:2432000880419": 283,
+      "gas:candidate-vibid:2432000869611": 49,
+      "gas:candidate-vibid:2432000872151": 133,
+      "gas:candidate-vibid:2432000871789": 135,
+      "gas:candidate-vibid:2432000886353": 32,
+      "gas:candidate-vibid:2432000880430": 30,
+      "gas:candidate-vibid:2432000872588": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 267,
-      "Барсуков Николай Александрович": 36,
-      "Вотинцев Алексей Владимирович": 82,
-      "Мальцев Александр Николаевич": 66,
-      "Орлов Андрей Евгеньевич": 40,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 36
+      "gas:candidate-vibid:2432000880419": 267,
+      "gas:candidate-vibid:2432000869611": 36,
+      "gas:candidate-vibid:2432000872151": 82,
+      "gas:candidate-vibid:2432000871789": 66,
+      "gas:candidate-vibid:2432000886353": 40,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 293,
-      "Барсуков Николай Александрович": 45,
-      "Вотинцев Алексей Владимирович": 119,
-      "Мальцев Александр Николаевич": 108,
-      "Орлов Андрей Евгеньевич": 31,
-      "Перов Андрей Игоревич": 24,
-      "Рогожкин Сергей Валентинович": 32
+      "gas:candidate-vibid:2432000880419": 293,
+      "gas:candidate-vibid:2432000869611": 45,
+      "gas:candidate-vibid:2432000872151": 119,
+      "gas:candidate-vibid:2432000871789": 108,
+      "gas:candidate-vibid:2432000886353": 31,
+      "gas:candidate-vibid:2432000880430": 24,
+      "gas:candidate-vibid:2432000872588": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 275,
-      "Барсуков Николай Александрович": 36,
-      "Вотинцев Алексей Владимирович": 118,
-      "Мальцев Александр Николаевич": 126,
-      "Орлов Андрей Евгеньевич": 31,
-      "Перов Андрей Игоревич": 27,
-      "Рогожкин Сергей Валентинович": 29
+      "gas:candidate-vibid:2432000880419": 275,
+      "gas:candidate-vibid:2432000869611": 36,
+      "gas:candidate-vibid:2432000872151": 118,
+      "gas:candidate-vibid:2432000871789": 126,
+      "gas:candidate-vibid:2432000886353": 31,
+      "gas:candidate-vibid:2432000880430": 27,
+      "gas:candidate-vibid:2432000872588": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 325,
-      "Барсуков Николай Александрович": 45,
-      "Вотинцев Алексей Владимирович": 126,
-      "Мальцев Александр Николаевич": 122,
-      "Орлов Андрей Евгеньевич": 35,
-      "Перов Андрей Игоревич": 33,
-      "Рогожкин Сергей Валентинович": 27
+      "gas:candidate-vibid:2432000880419": 325,
+      "gas:candidate-vibid:2432000869611": 45,
+      "gas:candidate-vibid:2432000872151": 126,
+      "gas:candidate-vibid:2432000871789": 122,
+      "gas:candidate-vibid:2432000886353": 35,
+      "gas:candidate-vibid:2432000880430": 33,
+      "gas:candidate-vibid:2432000872588": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 371,
-      "Барсуков Николай Александрович": 62,
-      "Вотинцев Алексей Владимирович": 127,
-      "Мальцев Александр Николаевич": 155,
-      "Орлов Андрей Евгеньевич": 49,
-      "Перов Андрей Игоревич": 46,
-      "Рогожкин Сергей Валентинович": 45
+      "gas:candidate-vibid:2432000880419": 371,
+      "gas:candidate-vibid:2432000869611": 62,
+      "gas:candidate-vibid:2432000872151": 127,
+      "gas:candidate-vibid:2432000871789": 155,
+      "gas:candidate-vibid:2432000886353": 49,
+      "gas:candidate-vibid:2432000880430": 46,
+      "gas:candidate-vibid:2432000872588": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 285,
-      "Барсуков Николай Александрович": 35,
-      "Вотинцев Алексей Владимирович": 77,
-      "Мальцев Александр Николаевич": 116,
-      "Орлов Андрей Евгеньевич": 42,
-      "Перов Андрей Игоревич": 24,
-      "Рогожкин Сергей Валентинович": 24
+      "gas:candidate-vibid:2432000880419": 285,
+      "gas:candidate-vibid:2432000869611": 35,
+      "gas:candidate-vibid:2432000872151": 77,
+      "gas:candidate-vibid:2432000871789": 116,
+      "gas:candidate-vibid:2432000886353": 42,
+      "gas:candidate-vibid:2432000880430": 24,
+      "gas:candidate-vibid:2432000872588": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 306,
-      "Барсуков Николай Александрович": 60,
-      "Вотинцев Алексей Владимирович": 115,
-      "Мальцев Александр Николаевич": 130,
-      "Орлов Андрей Евгеньевич": 61,
-      "Перов Андрей Игоревич": 42,
-      "Рогожкин Сергей Валентинович": 46
+      "gas:candidate-vibid:2432000880419": 306,
+      "gas:candidate-vibid:2432000869611": 60,
+      "gas:candidate-vibid:2432000872151": 115,
+      "gas:candidate-vibid:2432000871789": 130,
+      "gas:candidate-vibid:2432000886353": 61,
+      "gas:candidate-vibid:2432000880430": 42,
+      "gas:candidate-vibid:2432000872588": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 175,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 94,
-      "Мальцев Александр Николаевич": 88,
-      "Орлов Андрей Евгеньевич": 45,
-      "Перов Андрей Игоревич": 19,
-      "Рогожкин Сергей Валентинович": 25
+      "gas:candidate-vibid:2432000880419": 175,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 94,
+      "gas:candidate-vibid:2432000871789": 88,
+      "gas:candidate-vibid:2432000886353": 45,
+      "gas:candidate-vibid:2432000880430": 19,
+      "gas:candidate-vibid:2432000872588": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 138,
-      "Барсуков Николай Александрович": 18,
-      "Вотинцев Алексей Владимирович": 66,
-      "Мальцев Александр Николаевич": 47,
-      "Орлов Андрей Евгеньевич": 20,
-      "Перов Андрей Игоревич": 19,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 138,
+      "gas:candidate-vibid:2432000869611": 18,
+      "gas:candidate-vibid:2432000872151": 66,
+      "gas:candidate-vibid:2432000871789": 47,
+      "gas:candidate-vibid:2432000886353": 20,
+      "gas:candidate-vibid:2432000880430": 19,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 163,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 48,
-      "Мальцев Александр Николаевич": 92,
-      "Орлов Андрей Евгеньевич": 25,
-      "Перов Андрей Игоревич": 20,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 163,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 48,
+      "gas:candidate-vibid:2432000871789": 92,
+      "gas:candidate-vibid:2432000886353": 25,
+      "gas:candidate-vibid:2432000880430": 20,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 227,
-      "Барсуков Николай Александрович": 27,
-      "Вотинцев Алексей Владимирович": 50,
-      "Мальцев Александр Николаевич": 74,
-      "Орлов Андрей Евгеньевич": 22,
-      "Перов Андрей Игоревич": 17,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 227,
+      "gas:candidate-vibid:2432000869611": 27,
+      "gas:candidate-vibid:2432000872151": 50,
+      "gas:candidate-vibid:2432000871789": 74,
+      "gas:candidate-vibid:2432000886353": 22,
+      "gas:candidate-vibid:2432000880430": 17,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 289,
-      "Барсуков Николай Александрович": 37,
-      "Вотинцев Алексей Владимирович": 88,
-      "Мальцев Александр Николаевич": 128,
-      "Орлов Андрей Евгеньевич": 37,
-      "Перов Андрей Игоревич": 31,
-      "Рогожкин Сергей Валентинович": 30
+      "gas:candidate-vibid:2432000880419": 289,
+      "gas:candidate-vibid:2432000869611": 37,
+      "gas:candidate-vibid:2432000872151": 88,
+      "gas:candidate-vibid:2432000871789": 128,
+      "gas:candidate-vibid:2432000886353": 37,
+      "gas:candidate-vibid:2432000880430": 31,
+      "gas:candidate-vibid:2432000872588": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 334,
-      "Барсуков Николай Александрович": 44,
-      "Вотинцев Алексей Владимирович": 92,
-      "Мальцев Александр Николаевич": 113,
-      "Орлов Андрей Евгеньевич": 44,
-      "Перов Андрей Игоревич": 35,
-      "Рогожкин Сергей Валентинович": 34
+      "gas:candidate-vibid:2432000880419": 334,
+      "gas:candidate-vibid:2432000869611": 44,
+      "gas:candidate-vibid:2432000872151": 92,
+      "gas:candidate-vibid:2432000871789": 113,
+      "gas:candidate-vibid:2432000886353": 44,
+      "gas:candidate-vibid:2432000880430": 35,
+      "gas:candidate-vibid:2432000872588": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 143,
-      "Барсуков Николай Александрович": 15,
-      "Вотинцев Алексей Владимирович": 46,
-      "Мальцев Александр Николаевич": 46,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 17
+      "gas:candidate-vibid:2432000880419": 143,
+      "gas:candidate-vibid:2432000869611": 15,
+      "gas:candidate-vibid:2432000872151": 46,
+      "gas:candidate-vibid:2432000871789": 46,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 263,
-      "Барсуков Николай Александрович": 40,
-      "Вотинцев Алексей Владимирович": 79,
-      "Мальцев Александр Николаевич": 127,
-      "Орлов Андрей Евгеньевич": 37,
-      "Перов Андрей Игоревич": 23,
-      "Рогожкин Сергей Валентинович": 23
+      "gas:candidate-vibid:2432000880419": 263,
+      "gas:candidate-vibid:2432000869611": 40,
+      "gas:candidate-vibid:2432000872151": 79,
+      "gas:candidate-vibid:2432000871789": 127,
+      "gas:candidate-vibid:2432000886353": 37,
+      "gas:candidate-vibid:2432000880430": 23,
+      "gas:candidate-vibid:2432000872588": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 244,
-      "Барсуков Николай Александрович": 53,
-      "Вотинцев Алексей Владимирович": 90,
-      "Мальцев Александр Николаевич": 114,
-      "Орлов Андрей Евгеньевич": 29,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 27
+      "gas:candidate-vibid:2432000880419": 244,
+      "gas:candidate-vibid:2432000869611": 53,
+      "gas:candidate-vibid:2432000872151": 90,
+      "gas:candidate-vibid:2432000871789": 114,
+      "gas:candidate-vibid:2432000886353": 29,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 160,
-      "Барсуков Николай Александрович": 28,
-      "Вотинцев Алексей Владимирович": 54,
-      "Мальцев Александр Николаевич": 69,
-      "Орлов Андрей Евгеньевич": 19,
-      "Перов Андрей Игоревич": 14,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 160,
+      "gas:candidate-vibid:2432000869611": 28,
+      "gas:candidate-vibid:2432000872151": 54,
+      "gas:candidate-vibid:2432000871789": 69,
+      "gas:candidate-vibid:2432000886353": 19,
+      "gas:candidate-vibid:2432000880430": 14,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 242,
-      "Барсуков Николай Александрович": 52,
-      "Вотинцев Алексей Владимирович": 101,
-      "Мальцев Александр Николаевич": 129,
-      "Орлов Андрей Евгеньевич": 46,
-      "Перов Андрей Игоревич": 49,
-      "Рогожкин Сергей Валентинович": 34
+      "gas:candidate-vibid:2432000880419": 242,
+      "gas:candidate-vibid:2432000869611": 52,
+      "gas:candidate-vibid:2432000872151": 101,
+      "gas:candidate-vibid:2432000871789": 129,
+      "gas:candidate-vibid:2432000886353": 46,
+      "gas:candidate-vibid:2432000880430": 49,
+      "gas:candidate-vibid:2432000872588": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 270,
-      "Барсуков Николай Александрович": 33,
-      "Вотинцев Алексей Владимирович": 87,
-      "Мальцев Александр Николаевич": 132,
-      "Орлов Андрей Евгеньевич": 49,
-      "Перов Андрей Игоревич": 45,
-      "Рогожкин Сергей Валентинович": 33
+      "gas:candidate-vibid:2432000880419": 270,
+      "gas:candidate-vibid:2432000869611": 33,
+      "gas:candidate-vibid:2432000872151": 87,
+      "gas:candidate-vibid:2432000871789": 132,
+      "gas:candidate-vibid:2432000886353": 49,
+      "gas:candidate-vibid:2432000880430": 45,
+      "gas:candidate-vibid:2432000872588": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 270,
-      "Барсуков Николай Александрович": 23,
-      "Вотинцев Алексей Владимирович": 92,
-      "Мальцев Александр Николаевич": 135,
-      "Орлов Андрей Евгеньевич": 47,
-      "Перов Андрей Игоревич": 34,
-      "Рогожкин Сергей Валентинович": 24
+      "gas:candidate-vibid:2432000880419": 270,
+      "gas:candidate-vibid:2432000869611": 23,
+      "gas:candidate-vibid:2432000872151": 92,
+      "gas:candidate-vibid:2432000871789": 135,
+      "gas:candidate-vibid:2432000886353": 47,
+      "gas:candidate-vibid:2432000880430": 34,
+      "gas:candidate-vibid:2432000872588": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 306,
-      "Барсуков Николай Александрович": 57,
-      "Вотинцев Алексей Владимирович": 145,
-      "Мальцев Александр Николаевич": 161,
-      "Орлов Андрей Евгеньевич": 43,
-      "Перов Андрей Игоревич": 49,
-      "Рогожкин Сергей Валентинович": 45
+      "gas:candidate-vibid:2432000880419": 306,
+      "gas:candidate-vibid:2432000869611": 57,
+      "gas:candidate-vibid:2432000872151": 145,
+      "gas:candidate-vibid:2432000871789": 161,
+      "gas:candidate-vibid:2432000886353": 43,
+      "gas:candidate-vibid:2432000880430": 49,
+      "gas:candidate-vibid:2432000872588": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 307,
-      "Барсуков Николай Александрович": 39,
-      "Вотинцев Алексей Владимирович": 106,
-      "Мальцев Александр Николаевич": 141,
-      "Орлов Андрей Евгеньевич": 50,
-      "Перов Андрей Игоревич": 59,
-      "Рогожкин Сергей Валентинович": 26
+      "gas:candidate-vibid:2432000880419": 307,
+      "gas:candidate-vibid:2432000869611": 39,
+      "gas:candidate-vibid:2432000872151": 106,
+      "gas:candidate-vibid:2432000871789": 141,
+      "gas:candidate-vibid:2432000886353": 50,
+      "gas:candidate-vibid:2432000880430": 59,
+      "gas:candidate-vibid:2432000872588": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 272,
-      "Барсуков Николай Александрович": 41,
-      "Вотинцев Алексей Владимирович": 119,
-      "Мальцев Александр Николаевич": 114,
-      "Орлов Андрей Евгеньевич": 42,
-      "Перов Андрей Игоревич": 53,
-      "Рогожкин Сергей Валентинович": 38
+      "gas:candidate-vibid:2432000880419": 272,
+      "gas:candidate-vibid:2432000869611": 41,
+      "gas:candidate-vibid:2432000872151": 119,
+      "gas:candidate-vibid:2432000871789": 114,
+      "gas:candidate-vibid:2432000886353": 42,
+      "gas:candidate-vibid:2432000880430": 53,
+      "gas:candidate-vibid:2432000872588": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 371,
-      "Барсуков Николай Александрович": 57,
-      "Вотинцев Алексей Владимирович": 139,
-      "Мальцев Александр Николаевич": 176,
-      "Орлов Андрей Евгеньевич": 61,
-      "Перов Андрей Игоревич": 54,
-      "Рогожкин Сергей Валентинович": 48
+      "gas:candidate-vibid:2432000880419": 371,
+      "gas:candidate-vibid:2432000869611": 57,
+      "gas:candidate-vibid:2432000872151": 139,
+      "gas:candidate-vibid:2432000871789": 176,
+      "gas:candidate-vibid:2432000886353": 61,
+      "gas:candidate-vibid:2432000880430": 54,
+      "gas:candidate-vibid:2432000872588": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 344,
-      "Барсуков Николай Александрович": 39,
-      "Вотинцев Алексей Владимирович": 87,
-      "Мальцев Александр Николаевич": 170,
-      "Орлов Андрей Евгеньевич": 46,
-      "Перов Андрей Игоревич": 28,
-      "Рогожкин Сергей Валентинович": 35
+      "gas:candidate-vibid:2432000880419": 344,
+      "gas:candidate-vibid:2432000869611": 39,
+      "gas:candidate-vibid:2432000872151": 87,
+      "gas:candidate-vibid:2432000871789": 170,
+      "gas:candidate-vibid:2432000886353": 46,
+      "gas:candidate-vibid:2432000880430": 28,
+      "gas:candidate-vibid:2432000872588": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 240,
-      "Барсуков Николай Александрович": 46,
-      "Вотинцев Алексей Владимирович": 116,
-      "Мальцев Александр Николаевич": 128,
-      "Орлов Андрей Евгеньевич": 42,
-      "Перов Андрей Игоревич": 24,
-      "Рогожкин Сергей Валентинович": 29
+      "gas:candidate-vibid:2432000880419": 240,
+      "gas:candidate-vibid:2432000869611": 46,
+      "gas:candidate-vibid:2432000872151": 116,
+      "gas:candidate-vibid:2432000871789": 128,
+      "gas:candidate-vibid:2432000886353": 42,
+      "gas:candidate-vibid:2432000880430": 24,
+      "gas:candidate-vibid:2432000872588": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 225,
-      "Барсуков Николай Александрович": 35,
-      "Вотинцев Алексей Владимирович": 118,
-      "Мальцев Александр Николаевич": 108,
-      "Орлов Андрей Евгеньевич": 34,
-      "Перов Андрей Игоревич": 35,
-      "Рогожкин Сергей Валентинович": 38
+      "gas:candidate-vibid:2432000880419": 225,
+      "gas:candidate-vibid:2432000869611": 35,
+      "gas:candidate-vibid:2432000872151": 118,
+      "gas:candidate-vibid:2432000871789": 108,
+      "gas:candidate-vibid:2432000886353": 34,
+      "gas:candidate-vibid:2432000880430": 35,
+      "gas:candidate-vibid:2432000872588": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 311,
-      "Барсуков Николай Александрович": 52,
-      "Вотинцев Алексей Владимирович": 111,
-      "Мальцев Александр Николаевич": 124,
-      "Орлов Андрей Евгеньевич": 40,
-      "Перов Андрей Игоревич": 31,
-      "Рогожкин Сергей Валентинович": 36
+      "gas:candidate-vibid:2432000880419": 311,
+      "gas:candidate-vibid:2432000869611": 52,
+      "gas:candidate-vibid:2432000872151": 111,
+      "gas:candidate-vibid:2432000871789": 124,
+      "gas:candidate-vibid:2432000886353": 40,
+      "gas:candidate-vibid:2432000880430": 31,
+      "gas:candidate-vibid:2432000872588": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 239,
-      "Барсуков Николай Александрович": 37,
-      "Вотинцев Алексей Владимирович": 77,
-      "Мальцев Александр Николаевич": 100,
-      "Орлов Андрей Евгеньевич": 31,
-      "Перов Андрей Игоревич": 25,
-      "Рогожкин Сергей Валентинович": 26
+      "gas:candidate-vibid:2432000880419": 239,
+      "gas:candidate-vibid:2432000869611": 37,
+      "gas:candidate-vibid:2432000872151": 77,
+      "gas:candidate-vibid:2432000871789": 100,
+      "gas:candidate-vibid:2432000886353": 31,
+      "gas:candidate-vibid:2432000880430": 25,
+      "gas:candidate-vibid:2432000872588": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 206,
-      "Барсуков Николай Александрович": 26,
-      "Вотинцев Алексей Владимирович": 61,
-      "Мальцев Александр Николаевич": 108,
-      "Орлов Андрей Евгеньевич": 24,
-      "Перов Андрей Игоревич": 17,
-      "Рогожкин Сергей Валентинович": 32
+      "gas:candidate-vibid:2432000880419": 206,
+      "gas:candidate-vibid:2432000869611": 26,
+      "gas:candidate-vibid:2432000872151": 61,
+      "gas:candidate-vibid:2432000871789": 108,
+      "gas:candidate-vibid:2432000886353": 24,
+      "gas:candidate-vibid:2432000880430": 17,
+      "gas:candidate-vibid:2432000872588": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 326,
-      "Барсуков Николай Александрович": 47,
-      "Вотинцев Алексей Владимирович": 103,
-      "Мальцев Александр Николаевич": 120,
-      "Орлов Андрей Евгеньевич": 23,
-      "Перов Андрей Игоревич": 24,
-      "Рогожкин Сергей Валентинович": 37
+      "gas:candidate-vibid:2432000880419": 326,
+      "gas:candidate-vibid:2432000869611": 47,
+      "gas:candidate-vibid:2432000872151": 103,
+      "gas:candidate-vibid:2432000871789": 120,
+      "gas:candidate-vibid:2432000886353": 23,
+      "gas:candidate-vibid:2432000880430": 24,
+      "gas:candidate-vibid:2432000872588": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 325,
-      "Барсуков Николай Александрович": 49,
-      "Вотинцев Алексей Владимирович": 120,
-      "Мальцев Александр Николаевич": 163,
-      "Орлов Андрей Евгеньевич": 36,
-      "Перов Андрей Игоревич": 30,
-      "Рогожкин Сергей Валентинович": 40
+      "gas:candidate-vibid:2432000880419": 325,
+      "gas:candidate-vibid:2432000869611": 49,
+      "gas:candidate-vibid:2432000872151": 120,
+      "gas:candidate-vibid:2432000871789": 163,
+      "gas:candidate-vibid:2432000886353": 36,
+      "gas:candidate-vibid:2432000880430": 30,
+      "gas:candidate-vibid:2432000872588": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 381,
-      "Барсуков Николай Александрович": 47,
-      "Вотинцев Алексей Владимирович": 118,
-      "Мальцев Александр Николаевич": 185,
-      "Орлов Андрей Евгеньевич": 52,
-      "Перов Андрей Игоревич": 26,
-      "Рогожкин Сергей Валентинович": 27
+      "gas:candidate-vibid:2432000880419": 381,
+      "gas:candidate-vibid:2432000869611": 47,
+      "gas:candidate-vibid:2432000872151": 118,
+      "gas:candidate-vibid:2432000871789": 185,
+      "gas:candidate-vibid:2432000886353": 52,
+      "gas:candidate-vibid:2432000880430": 26,
+      "gas:candidate-vibid:2432000872588": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 182,
-      "Барсуков Николай Александрович": 30,
-      "Вотинцев Алексей Владимирович": 52,
-      "Мальцев Александр Николаевич": 110,
-      "Орлов Андрей Евгеньевич": 18,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 21
+      "gas:candidate-vibid:2432000880419": 182,
+      "gas:candidate-vibid:2432000869611": 30,
+      "gas:candidate-vibid:2432000872151": 52,
+      "gas:candidate-vibid:2432000871789": 110,
+      "gas:candidate-vibid:2432000886353": 18,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 288,
-      "Барсуков Николай Александрович": 41,
-      "Вотинцев Алексей Владимирович": 74,
-      "Мальцев Александр Николаевич": 117,
-      "Орлов Андрей Евгеньевич": 34,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 24
+      "gas:candidate-vibid:2432000880419": 288,
+      "gas:candidate-vibid:2432000869611": 41,
+      "gas:candidate-vibid:2432000872151": 74,
+      "gas:candidate-vibid:2432000871789": 117,
+      "gas:candidate-vibid:2432000886353": 34,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 327,
-      "Барсуков Николай Александрович": 58,
-      "Вотинцев Алексей Владимирович": 100,
-      "Мальцев Александр Николаевич": 175,
-      "Орлов Андрей Евгеньевич": 54,
-      "Перов Андрей Игоревич": 46,
-      "Рогожкин Сергей Валентинович": 37
+      "gas:candidate-vibid:2432000880419": 327,
+      "gas:candidate-vibid:2432000869611": 58,
+      "gas:candidate-vibid:2432000872151": 100,
+      "gas:candidate-vibid:2432000871789": 175,
+      "gas:candidate-vibid:2432000886353": 54,
+      "gas:candidate-vibid:2432000880430": 46,
+      "gas:candidate-vibid:2432000872588": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 315,
-      "Барсуков Николай Александрович": 50,
-      "Вотинцев Алексей Владимирович": 82,
-      "Мальцев Александр Николаевич": 139,
-      "Орлов Андрей Евгеньевич": 33,
-      "Перов Андрей Игоревич": 24,
-      "Рогожкин Сергей Валентинович": 33
+      "gas:candidate-vibid:2432000880419": 315,
+      "gas:candidate-vibid:2432000869611": 50,
+      "gas:candidate-vibid:2432000872151": 82,
+      "gas:candidate-vibid:2432000871789": 139,
+      "gas:candidate-vibid:2432000886353": 33,
+      "gas:candidate-vibid:2432000880430": 24,
+      "gas:candidate-vibid:2432000872588": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 259,
-      "Барсуков Николай Александрович": 38,
-      "Вотинцев Алексей Владимирович": 80,
-      "Мальцев Александр Николаевич": 101,
-      "Орлов Андрей Евгеньевич": 35,
-      "Перов Андрей Игоревич": 16,
-      "Рогожкин Сергей Валентинович": 23
+      "gas:candidate-vibid:2432000880419": 259,
+      "gas:candidate-vibid:2432000869611": 38,
+      "gas:candidate-vibid:2432000872151": 80,
+      "gas:candidate-vibid:2432000871789": 101,
+      "gas:candidate-vibid:2432000886353": 35,
+      "gas:candidate-vibid:2432000880430": 16,
+      "gas:candidate-vibid:2432000872588": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 197,
-      "Барсуков Николай Александрович": 35,
-      "Вотинцев Алексей Владимирович": 67,
-      "Мальцев Александр Николаевич": 107,
-      "Орлов Андрей Евгеньевич": 24,
-      "Перов Андрей Игоревич": 16,
-      "Рогожкин Сергей Валентинович": 23
+      "gas:candidate-vibid:2432000880419": 197,
+      "gas:candidate-vibid:2432000869611": 35,
+      "gas:candidate-vibid:2432000872151": 67,
+      "gas:candidate-vibid:2432000871789": 107,
+      "gas:candidate-vibid:2432000886353": 24,
+      "gas:candidate-vibid:2432000880430": 16,
+      "gas:candidate-vibid:2432000872588": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 282,
-      "Барсуков Николай Александрович": 33,
-      "Вотинцев Алексей Владимирович": 77,
-      "Мальцев Александр Николаевич": 136,
-      "Орлов Андрей Евгеньевич": 27,
-      "Перов Андрей Игоревич": 37,
-      "Рогожкин Сергей Валентинович": 33
+      "gas:candidate-vibid:2432000880419": 282,
+      "gas:candidate-vibid:2432000869611": 33,
+      "gas:candidate-vibid:2432000872151": 77,
+      "gas:candidate-vibid:2432000871789": 136,
+      "gas:candidate-vibid:2432000886353": 27,
+      "gas:candidate-vibid:2432000880430": 37,
+      "gas:candidate-vibid:2432000872588": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 245,
-      "Барсуков Николай Александрович": 49,
-      "Вотинцев Алексей Владимирович": 77,
-      "Мальцев Александр Николаевич": 115,
-      "Орлов Андрей Евгеньевич": 43,
-      "Перов Андрей Игоревич": 25,
-      "Рогожкин Сергей Валентинович": 28
+      "gas:candidate-vibid:2432000880419": 245,
+      "gas:candidate-vibid:2432000869611": 49,
+      "gas:candidate-vibid:2432000872151": 77,
+      "gas:candidate-vibid:2432000871789": 115,
+      "gas:candidate-vibid:2432000886353": 43,
+      "gas:candidate-vibid:2432000880430": 25,
+      "gas:candidate-vibid:2432000872588": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 186,
-      "Барсуков Николай Александрович": 50,
-      "Вотинцев Алексей Владимирович": 77,
-      "Мальцев Александр Николаевич": 78,
-      "Орлов Андрей Евгеньевич": 40,
-      "Перов Андрей Игоревич": 28,
-      "Рогожкин Сергей Валентинович": 24
+      "gas:candidate-vibid:2432000880419": 186,
+      "gas:candidate-vibid:2432000869611": 50,
+      "gas:candidate-vibid:2432000872151": 77,
+      "gas:candidate-vibid:2432000871789": 78,
+      "gas:candidate-vibid:2432000886353": 40,
+      "gas:candidate-vibid:2432000880430": 28,
+      "gas:candidate-vibid:2432000872588": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 192,
-      "Барсуков Николай Александрович": 34,
-      "Вотинцев Алексей Владимирович": 58,
-      "Мальцев Александр Николаевич": 103,
-      "Орлов Андрей Евгеньевич": 31,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 21
+      "gas:candidate-vibid:2432000880419": 192,
+      "gas:candidate-vibid:2432000869611": 34,
+      "gas:candidate-vibid:2432000872151": 58,
+      "gas:candidate-vibid:2432000871789": 103,
+      "gas:candidate-vibid:2432000886353": 31,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 219,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 53,
-      "Мальцев Александр Николаевич": 112,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 20,
-      "Рогожкин Сергей Валентинович": 25
+      "gas:candidate-vibid:2432000880419": 219,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 53,
+      "gas:candidate-vibid:2432000871789": 112,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 20,
+      "gas:candidate-vibid:2432000872588": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 131,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 49,
-      "Мальцев Александр Николаевич": 63,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 26,
-      "Рогожкин Сергей Валентинович": 14
+      "gas:candidate-vibid:2432000880419": 131,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 49,
+      "gas:candidate-vibid:2432000871789": 63,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 26,
+      "gas:candidate-vibid:2432000872588": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 266,
-      "Барсуков Николай Александрович": 67,
-      "Вотинцев Алексей Владимирович": 129,
-      "Мальцев Александр Николаевич": 163,
-      "Орлов Андрей Евгеньевич": 40,
-      "Перов Андрей Игоревич": 52,
-      "Рогожкин Сергей Валентинович": 22
+      "gas:candidate-vibid:2432000880419": 266,
+      "gas:candidate-vibid:2432000869611": 67,
+      "gas:candidate-vibid:2432000872151": 129,
+      "gas:candidate-vibid:2432000871789": 163,
+      "gas:candidate-vibid:2432000886353": 40,
+      "gas:candidate-vibid:2432000880430": 52,
+      "gas:candidate-vibid:2432000872588": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 223,
-      "Барсуков Николай Александрович": 42,
-      "Вотинцев Алексей Владимирович": 98,
-      "Мальцев Александр Николаевич": 140,
-      "Орлов Андрей Евгеньевич": 34,
-      "Перов Андрей Игоревич": 35,
-      "Рогожкин Сергей Валентинович": 38
+      "gas:candidate-vibid:2432000880419": 223,
+      "gas:candidate-vibid:2432000869611": 42,
+      "gas:candidate-vibid:2432000872151": 98,
+      "gas:candidate-vibid:2432000871789": 140,
+      "gas:candidate-vibid:2432000886353": 34,
+      "gas:candidate-vibid:2432000880430": 35,
+      "gas:candidate-vibid:2432000872588": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 255,
-      "Барсуков Николай Александрович": 39,
-      "Вотинцев Алексей Владимирович": 91,
-      "Мальцев Александр Николаевич": 137,
-      "Орлов Андрей Евгеньевич": 28,
-      "Перов Андрей Игоревич": 32,
-      "Рогожкин Сергей Валентинович": 31
+      "gas:candidate-vibid:2432000880419": 255,
+      "gas:candidate-vibid:2432000869611": 39,
+      "gas:candidate-vibid:2432000872151": 91,
+      "gas:candidate-vibid:2432000871789": 137,
+      "gas:candidate-vibid:2432000886353": 28,
+      "gas:candidate-vibid:2432000880430": 32,
+      "gas:candidate-vibid:2432000872588": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 388,
-      "Барсуков Николай Александрович": 52,
-      "Вотинцев Алексей Владимирович": 125,
-      "Мальцев Александр Николаевич": 201,
-      "Орлов Андрей Евгеньевич": 81,
-      "Перов Андрей Игоревич": 51,
-      "Рогожкин Сергей Валентинович": 53
+      "gas:candidate-vibid:2432000880419": 388,
+      "gas:candidate-vibid:2432000869611": 52,
+      "gas:candidate-vibid:2432000872151": 125,
+      "gas:candidate-vibid:2432000871789": 201,
+      "gas:candidate-vibid:2432000886353": 81,
+      "gas:candidate-vibid:2432000880430": 51,
+      "gas:candidate-vibid:2432000872588": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 319,
-      "Барсуков Николай Александрович": 56,
-      "Вотинцев Алексей Владимирович": 136,
-      "Мальцев Александр Николаевич": 171,
-      "Орлов Андрей Евгеньевич": 40,
-      "Перов Андрей Игоревич": 50,
-      "Рогожкин Сергей Валентинович": 38
+      "gas:candidate-vibid:2432000880419": 319,
+      "gas:candidate-vibid:2432000869611": 56,
+      "gas:candidate-vibid:2432000872151": 136,
+      "gas:candidate-vibid:2432000871789": 171,
+      "gas:candidate-vibid:2432000886353": 40,
+      "gas:candidate-vibid:2432000880430": 50,
+      "gas:candidate-vibid:2432000872588": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 360,
-      "Барсуков Николай Александрович": 40,
-      "Вотинцев Алексей Владимирович": 89,
-      "Мальцев Александр Николаевич": 119,
-      "Орлов Андрей Евгеньевич": 47,
-      "Перов Андрей Игоревич": 27,
-      "Рогожкин Сергей Валентинович": 37
+      "gas:candidate-vibid:2432000880419": 360,
+      "gas:candidate-vibid:2432000869611": 40,
+      "gas:candidate-vibid:2432000872151": 89,
+      "gas:candidate-vibid:2432000871789": 119,
+      "gas:candidate-vibid:2432000886353": 47,
+      "gas:candidate-vibid:2432000880430": 27,
+      "gas:candidate-vibid:2432000872588": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 309,
-      "Барсуков Николай Александрович": 45,
-      "Вотинцев Алексей Владимирович": 104,
-      "Мальцев Александр Николаевич": 172,
-      "Орлов Андрей Евгеньевич": 49,
-      "Перов Андрей Игоревич": 39,
-      "Рогожкин Сергей Валентинович": 42
+      "gas:candidate-vibid:2432000880419": 309,
+      "gas:candidate-vibid:2432000869611": 45,
+      "gas:candidate-vibid:2432000872151": 104,
+      "gas:candidate-vibid:2432000871789": 172,
+      "gas:candidate-vibid:2432000886353": 49,
+      "gas:candidate-vibid:2432000880430": 39,
+      "gas:candidate-vibid:2432000872588": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 329,
-      "Барсуков Николай Александрович": 61,
-      "Вотинцев Алексей Владимирович": 88,
-      "Мальцев Александр Николаевич": 106,
-      "Орлов Андрей Евгеньевич": 37,
-      "Перов Андрей Игоревич": 27,
-      "Рогожкин Сергей Валентинович": 41
+      "gas:candidate-vibid:2432000880419": 329,
+      "gas:candidate-vibid:2432000869611": 61,
+      "gas:candidate-vibid:2432000872151": 88,
+      "gas:candidate-vibid:2432000871789": 106,
+      "gas:candidate-vibid:2432000886353": 37,
+      "gas:candidate-vibid:2432000880430": 27,
+      "gas:candidate-vibid:2432000872588": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 261,
-      "Барсуков Николай Александрович": 30,
-      "Вотинцев Алексей Владимирович": 82,
-      "Мальцев Александр Николаевич": 72,
-      "Орлов Андрей Евгеньевич": 28,
-      "Перов Андрей Игоревич": 13,
-      "Рогожкин Сергей Валентинович": 23
+      "gas:candidate-vibid:2432000880419": 261,
+      "gas:candidate-vibid:2432000869611": 30,
+      "gas:candidate-vibid:2432000872151": 82,
+      "gas:candidate-vibid:2432000871789": 72,
+      "gas:candidate-vibid:2432000886353": 28,
+      "gas:candidate-vibid:2432000880430": 13,
+      "gas:candidate-vibid:2432000872588": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 342,
-      "Барсуков Николай Александрович": 48,
-      "Вотинцев Алексей Владимирович": 96,
-      "Мальцев Александр Николаевич": 84,
-      "Орлов Андрей Евгеньевич": 34,
-      "Перов Андрей Игоревич": 20,
-      "Рогожкин Сергей Валентинович": 29
+      "gas:candidate-vibid:2432000880419": 342,
+      "gas:candidate-vibid:2432000869611": 48,
+      "gas:candidate-vibid:2432000872151": 96,
+      "gas:candidate-vibid:2432000871789": 84,
+      "gas:candidate-vibid:2432000886353": 34,
+      "gas:candidate-vibid:2432000880430": 20,
+      "gas:candidate-vibid:2432000872588": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 354,
-      "Барсуков Николай Александрович": 49,
-      "Вотинцев Алексей Владимирович": 98,
-      "Мальцев Александр Николаевич": 124,
-      "Орлов Андрей Евгеньевич": 55,
-      "Перов Андрей Игоревич": 47,
-      "Рогожкин Сергей Валентинович": 47
+      "gas:candidate-vibid:2432000880419": 354,
+      "gas:candidate-vibid:2432000869611": 49,
+      "gas:candidate-vibid:2432000872151": 98,
+      "gas:candidate-vibid:2432000871789": 124,
+      "gas:candidate-vibid:2432000886353": 55,
+      "gas:candidate-vibid:2432000880430": 47,
+      "gas:candidate-vibid:2432000872588": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 89,
-      "Барсуков Николай Александрович": 13,
-      "Вотинцев Алексей Владимирович": 32,
-      "Мальцев Александр Николаевич": 25,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 89,
+      "gas:candidate-vibid:2432000869611": 13,
+      "gas:candidate-vibid:2432000872151": 32,
+      "gas:candidate-vibid:2432000871789": 25,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 390,
-      "Барсуков Николай Александрович": 50,
-      "Вотинцев Алексей Владимирович": 139,
-      "Мальцев Александр Николаевич": 106,
-      "Орлов Андрей Евгеньевич": 32,
-      "Перов Андрей Игоревич": 11,
-      "Рогожкин Сергей Валентинович": 43
+      "gas:candidate-vibid:2432000880419": 390,
+      "gas:candidate-vibid:2432000869611": 50,
+      "gas:candidate-vibid:2432000872151": 139,
+      "gas:candidate-vibid:2432000871789": 106,
+      "gas:candidate-vibid:2432000886353": 32,
+      "gas:candidate-vibid:2432000880430": 11,
+      "gas:candidate-vibid:2432000872588": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 289,
-      "Барсуков Николай Александрович": 26,
-      "Вотинцев Алексей Владимирович": 59,
-      "Мальцев Александр Николаевич": 34,
-      "Орлов Андрей Евгеньевич": 19,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 20
+      "gas:candidate-vibid:2432000880419": 289,
+      "gas:candidate-vibid:2432000869611": 26,
+      "gas:candidate-vibid:2432000872151": 59,
+      "gas:candidate-vibid:2432000871789": 34,
+      "gas:candidate-vibid:2432000886353": 19,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 48,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 48,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 24,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 24,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 31,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 31,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 22,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 22,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 21,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 21,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773467&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773467&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 167,
-      "Барсуков Николай Александрович": 32,
-      "Вотинцев Алексей Владимирович": 53,
-      "Мальцев Александр Николаевич": 31,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 167,
+      "gas:candidate-vibid:2432000869611": 32,
+      "gas:candidate-vibid:2432000872151": 53,
+      "gas:candidate-vibid:2432000871789": 31,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 237,
-      "Барсуков Николай Александрович": 22,
-      "Вотинцев Алексей Владимирович": 60,
-      "Мальцев Александр Николаевич": 38,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 237,
+      "gas:candidate-vibid:2432000869611": 22,
+      "gas:candidate-vibid:2432000872151": 60,
+      "gas:candidate-vibid:2432000871789": 38,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 220,
-      "Барсуков Николай Александрович": 27,
-      "Вотинцев Алексей Владимирович": 96,
-      "Мальцев Александр Николаевич": 48,
-      "Орлов Андрей Евгеньевич": 12,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 220,
+      "gas:candidate-vibid:2432000869611": 27,
+      "gas:candidate-vibid:2432000872151": 96,
+      "gas:candidate-vibid:2432000871789": 48,
+      "gas:candidate-vibid:2432000886353": 12,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 121,
-      "Барсуков Николай Александрович": 19,
-      "Вотинцев Алексей Владимирович": 37,
-      "Мальцев Александр Николаевич": 23,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 121,
+      "gas:candidate-vibid:2432000869611": 19,
+      "gas:candidate-vibid:2432000872151": 37,
+      "gas:candidate-vibid:2432000871789": 23,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 326,
-      "Барсуков Николай Александрович": 43,
-      "Вотинцев Алексей Владимирович": 133,
-      "Мальцев Александр Николаевич": 49,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 13
+      "gas:candidate-vibid:2432000880419": 326,
+      "gas:candidate-vibid:2432000869611": 43,
+      "gas:candidate-vibid:2432000872151": 133,
+      "gas:candidate-vibid:2432000871789": 49,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 280,
-      "Барсуков Николай Александрович": 23,
-      "Вотинцев Алексей Владимирович": 131,
-      "Мальцев Александр Николаевич": 74,
-      "Орлов Андрей Евгеньевич": 14,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 280,
+      "gas:candidate-vibid:2432000869611": 23,
+      "gas:candidate-vibid:2432000872151": 131,
+      "gas:candidate-vibid:2432000871789": 74,
+      "gas:candidate-vibid:2432000886353": 14,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 217,
-      "Барсуков Николай Александрович": 27,
-      "Вотинцев Алексей Владимирович": 78,
-      "Мальцев Александр Николаевич": 52,
-      "Орлов Андрей Евгеньевич": 14,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 13
+      "gas:candidate-vibid:2432000880419": 217,
+      "gas:candidate-vibid:2432000869611": 27,
+      "gas:candidate-vibid:2432000872151": 78,
+      "gas:candidate-vibid:2432000871789": 52,
+      "gas:candidate-vibid:2432000886353": 14,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 186,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 89,
-      "Мальцев Александр Николаевич": 44,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 186,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 89,
+      "gas:candidate-vibid:2432000871789": 44,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 243,
-      "Барсуков Николай Александрович": 22,
-      "Вотинцев Алексей Владимирович": 40,
-      "Мальцев Александр Николаевич": 25,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 243,
+      "gas:candidate-vibid:2432000869611": 22,
+      "gas:candidate-vibid:2432000872151": 40,
+      "gas:candidate-vibid:2432000871789": 25,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 189,
-      "Барсуков Николай Александрович": 28,
-      "Вотинцев Алексей Владимирович": 44,
-      "Мальцев Александр Николаевич": 47,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 189,
+      "gas:candidate-vibid:2432000869611": 28,
+      "gas:candidate-vibid:2432000872151": 44,
+      "gas:candidate-vibid:2432000871789": 47,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 172,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 28,
-      "Мальцев Александр Николаевич": 36,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 172,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 28,
+      "gas:candidate-vibid:2432000871789": 36,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 114,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 39,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 114,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 39,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 218,
-      "Барсуков Николай Александрович": 24,
-      "Вотинцев Алексей Владимирович": 72,
-      "Мальцев Александр Николаевич": 33,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 218,
+      "gas:candidate-vibid:2432000869611": 24,
+      "gas:candidate-vibid:2432000872151": 72,
+      "gas:candidate-vibid:2432000871789": 33,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 119,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 119,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 396,
-      "Барсуков Николай Александрович": 28,
-      "Вотинцев Алексей Владимирович": 90,
-      "Мальцев Александр Николаевич": 67,
-      "Орлов Андрей Евгеньевич": 21,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 23
+      "gas:candidate-vibid:2432000880419": 396,
+      "gas:candidate-vibid:2432000869611": 28,
+      "gas:candidate-vibid:2432000872151": 90,
+      "gas:candidate-vibid:2432000871789": 67,
+      "gas:candidate-vibid:2432000886353": 21,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 40,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 10,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 40,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 10,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 255,
-      "Барсуков Николай Александрович": 30,
-      "Вотинцев Алексей Владимирович": 35,
-      "Мальцев Александр Николаевич": 30,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 255,
+      "gas:candidate-vibid:2432000869611": 30,
+      "gas:candidate-vibid:2432000872151": 35,
+      "gas:candidate-vibid:2432000871789": 30,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 31,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 31,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 118,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 118,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 96,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 96,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 220,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 65,
-      "Мальцев Александр Николаевич": 29,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 220,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 65,
+      "gas:candidate-vibid:2432000871789": 29,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 224,
-      "Барсуков Николай Александрович": 26,
-      "Вотинцев Алексей Владимирович": 88,
-      "Мальцев Александр Николаевич": 33,
-      "Орлов Андрей Евгеньевич": 16,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 13
+      "gas:candidate-vibid:2432000880419": 224,
+      "gas:candidate-vibid:2432000869611": 26,
+      "gas:candidate-vibid:2432000872151": 88,
+      "gas:candidate-vibid:2432000871789": 33,
+      "gas:candidate-vibid:2432000886353": 16,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 83,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 28,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 83,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 28,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 55,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 55,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 61,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 61,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 75,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 4,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 75,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 4,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 193,
-      "Барсуков Николай Александрович": 32,
-      "Вотинцев Алексей Владимирович": 69,
-      "Мальцев Александр Николаевич": 15,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 193,
+      "gas:candidate-vibid:2432000869611": 32,
+      "gas:candidate-vibid:2432000872151": 69,
+      "gas:candidate-vibid:2432000871789": 15,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 121,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 35,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 121,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 35,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773469&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773469&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 340,
-      "Барсуков Николай Александрович": 46,
-      "Вотинцев Алексей Владимирович": 55,
-      "Мальцев Александр Николаевич": 44,
-      "Орлов Андрей Евгеньевич": 16,
-      "Перов Андрей Игоревич": 11,
-      "Рогожкин Сергей Валентинович": 15
+      "gas:candidate-vibid:2432000880419": 340,
+      "gas:candidate-vibid:2432000869611": 46,
+      "gas:candidate-vibid:2432000872151": 55,
+      "gas:candidate-vibid:2432000871789": 44,
+      "gas:candidate-vibid:2432000886353": 16,
+      "gas:candidate-vibid:2432000880430": 11,
+      "gas:candidate-vibid:2432000872588": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 239,
-      "Барсуков Николай Александрович": 37,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 27,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 239,
+      "gas:candidate-vibid:2432000869611": 37,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 27,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 183,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 29,
-      "Мальцев Александр Николаевич": 29,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 183,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 29,
+      "gas:candidate-vibid:2432000871789": 29,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 34,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 2,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 34,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 2,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 11,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 1,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 11,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 1,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 257,
-      "Барсуков Николай Александрович": 27,
-      "Вотинцев Алексей Владимирович": 48,
-      "Мальцев Александр Николаевич": 36,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 257,
+      "gas:candidate-vibid:2432000869611": 27,
+      "gas:candidate-vibid:2432000872151": 48,
+      "gas:candidate-vibid:2432000871789": 36,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 154,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 31,
-      "Мальцев Александр Николаевич": 28,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 154,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 31,
+      "gas:candidate-vibid:2432000871789": 28,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 74,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 21,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 74,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 21,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 131,
-      "Барсуков Николай Александрович": 18,
-      "Вотинцев Алексей Владимирович": 11,
-      "Мальцев Александр Николаевич": 24,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 131,
+      "gas:candidate-vibid:2432000869611": 18,
+      "gas:candidate-vibid:2432000872151": 11,
+      "gas:candidate-vibid:2432000871789": 24,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 64,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 3,
-      "Мальцев Александр Николаевич": 10,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 64,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 3,
+      "gas:candidate-vibid:2432000871789": 10,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 118,
-      "Барсуков Николай Александрович": 19,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 118,
+      "gas:candidate-vibid:2432000869611": 19,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 14,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 1,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 14,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 1,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 66,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 16,
-      "Мальцев Александр Николаевич": 15,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 66,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 16,
+      "gas:candidate-vibid:2432000871789": 15,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 95,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 15,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 95,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 15,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 33,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 5,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 33,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 5,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773472&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773472&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 135,
-      "Барсуков Николай Александрович": 13,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 135,
+      "gas:candidate-vibid:2432000869611": 13,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 81,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 11,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 81,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 11,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 41,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 41,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 103,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 20,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 103,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 20,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 98,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 23,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 10,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 98,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 23,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 10,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 52,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 23,
-      "Мальцев Александр Николаевич": 19,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 52,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 23,
+      "gas:candidate-vibid:2432000871789": 19,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 71,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 1,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 71,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 1,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 276,
-      "Барсуков Николай Александрович": 55,
-      "Вотинцев Алексей Владимирович": 116,
-      "Мальцев Александр Николаевич": 61,
-      "Орлов Андрей Евгеньевич": 18,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 17
+      "gas:candidate-vibid:2432000880419": 276,
+      "gas:candidate-vibid:2432000869611": 55,
+      "gas:candidate-vibid:2432000872151": 116,
+      "gas:candidate-vibid:2432000871789": 61,
+      "gas:candidate-vibid:2432000886353": 18,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 186,
-      "Барсуков Николай Александрович": 23,
-      "Вотинцев Алексей Владимирович": 49,
-      "Мальцев Александр Николаевич": 42,
-      "Орлов Андрей Евгеньевич": 14,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 186,
+      "gas:candidate-vibid:2432000869611": 23,
+      "gas:candidate-vibid:2432000872151": 49,
+      "gas:candidate-vibid:2432000871789": 42,
+      "gas:candidate-vibid:2432000886353": 14,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 201,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 35,
-      "Мальцев Александр Николаевич": 40,
-      "Орлов Андрей Евгеньевич": 19,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 201,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 35,
+      "gas:candidate-vibid:2432000871789": 40,
+      "gas:candidate-vibid:2432000886353": 19,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 46,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 46,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 84,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 84,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 128,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 128,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 72,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 72,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 113,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 22,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 113,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 22,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 74,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 74,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 64,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 17,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 64,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 17,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 424,
-      "Барсуков Николай Александрович": 55,
-      "Вотинцев Алексей Владимирович": 110,
-      "Мальцев Александр Николаевич": 92,
-      "Орлов Андрей Евгеньевич": 37,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 18
+      "gas:candidate-vibid:2432000880419": 424,
+      "gas:candidate-vibid:2432000869611": 55,
+      "gas:candidate-vibid:2432000872151": 110,
+      "gas:candidate-vibid:2432000871789": 92,
+      "gas:candidate-vibid:2432000886353": 37,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 479,
-      "Барсуков Николай Александрович": 52,
-      "Вотинцев Алексей Владимирович": 91,
-      "Мальцев Александр Николаевич": 103,
-      "Орлов Андрей Евгеньевич": 36,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 20
+      "gas:candidate-vibid:2432000880419": 479,
+      "gas:candidate-vibid:2432000869611": 52,
+      "gas:candidate-vibid:2432000872151": 91,
+      "gas:candidate-vibid:2432000871789": 103,
+      "gas:candidate-vibid:2432000886353": 36,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 478,
-      "Барсуков Николай Александрович": 54,
-      "Вотинцев Алексей Владимирович": 103,
-      "Мальцев Александр Николаевич": 106,
-      "Орлов Андрей Евгеньевич": 36,
-      "Перов Андрей Игоревич": 12,
-      "Рогожкин Сергей Валентинович": 19
+      "gas:candidate-vibid:2432000880419": 478,
+      "gas:candidate-vibid:2432000869611": 54,
+      "gas:candidate-vibid:2432000872151": 103,
+      "gas:candidate-vibid:2432000871789": 106,
+      "gas:candidate-vibid:2432000886353": 36,
+      "gas:candidate-vibid:2432000880430": 12,
+      "gas:candidate-vibid:2432000872588": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 449,
-      "Барсуков Николай Александрович": 41,
-      "Вотинцев Алексей Владимирович": 88,
-      "Мальцев Александр Николаевич": 106,
-      "Орлов Андрей Евгеньевич": 33,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 31
+      "gas:candidate-vibid:2432000880419": 449,
+      "gas:candidate-vibid:2432000869611": 41,
+      "gas:candidate-vibid:2432000872151": 88,
+      "gas:candidate-vibid:2432000871789": 106,
+      "gas:candidate-vibid:2432000886353": 33,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 186,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 22,
-      "Мальцев Александр Николаевич": 32,
-      "Орлов Андрей Евгеньевич": 10,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 186,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 22,
+      "gas:candidate-vibid:2432000871789": 32,
+      "gas:candidate-vibid:2432000886353": 10,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 203,
-      "Барсуков Николай Александрович": 29,
-      "Вотинцев Алексей Владимирович": 29,
-      "Мальцев Александр Николаевич": 36,
-      "Орлов Андрей Евгеньевич": 27,
-      "Перов Андрей Игоревич": 11,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 203,
+      "gas:candidate-vibid:2432000869611": 29,
+      "gas:candidate-vibid:2432000872151": 29,
+      "gas:candidate-vibid:2432000871789": 36,
+      "gas:candidate-vibid:2432000886353": 27,
+      "gas:candidate-vibid:2432000880430": 11,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773474&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773474&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 509,
-      "Барсуков Николай Александрович": 63,
-      "Вотинцев Алексей Владимирович": 92,
-      "Мальцев Александр Николаевич": 84,
-      "Орлов Андрей Евгеньевич": 18,
-      "Перов Андрей Игоревич": 15,
-      "Рогожкин Сергей Валентинович": 38
+      "gas:candidate-vibid:2432000880419": 509,
+      "gas:candidate-vibid:2432000869611": 63,
+      "gas:candidate-vibid:2432000872151": 92,
+      "gas:candidate-vibid:2432000871789": 84,
+      "gas:candidate-vibid:2432000886353": 18,
+      "gas:candidate-vibid:2432000880430": 15,
+      "gas:candidate-vibid:2432000872588": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 188,
-      "Барсуков Николай Александрович": 15,
-      "Вотинцев Алексей Владимирович": 27,
-      "Мальцев Александр Николаевич": 27,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 19
+      "gas:candidate-vibid:2432000880419": 188,
+      "gas:candidate-vibid:2432000869611": 15,
+      "gas:candidate-vibid:2432000872151": 27,
+      "gas:candidate-vibid:2432000871789": 27,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 260,
-      "Барсуков Николай Александрович": 31,
-      "Вотинцев Алексей Владимирович": 68,
-      "Мальцев Александр Николаевич": 60,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 24
+      "gas:candidate-vibid:2432000880419": 260,
+      "gas:candidate-vibid:2432000869611": 31,
+      "gas:candidate-vibid:2432000872151": 68,
+      "gas:candidate-vibid:2432000871789": 60,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 186,
-      "Барсуков Николай Александрович": 24,
-      "Вотинцев Алексей Владимирович": 35,
-      "Мальцев Александр Николаевич": 25,
-      "Орлов Андрей Евгеньевич": 10,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 14
+      "gas:candidate-vibid:2432000880419": 186,
+      "gas:candidate-vibid:2432000869611": 24,
+      "gas:candidate-vibid:2432000872151": 35,
+      "gas:candidate-vibid:2432000871789": 25,
+      "gas:candidate-vibid:2432000886353": 10,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 60,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 60,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 64,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 64,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 162,
-      "Барсуков Николай Александрович": 27,
-      "Вотинцев Алексей Владимирович": 37,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 162,
+      "gas:candidate-vibid:2432000869611": 27,
+      "gas:candidate-vibid:2432000872151": 37,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 41,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 41,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 33,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 33,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 34,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 34,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 76,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 40,
-      "Мальцев Александр Николаевич": 25,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 76,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 40,
+      "gas:candidate-vibid:2432000871789": 25,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 56,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 56,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 50,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 50,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 296,
-      "Барсуков Николай Александрович": 28,
-      "Вотинцев Алексей Владимирович": 36,
-      "Мальцев Александр Николаевич": 21,
-      "Орлов Андрей Евгеньевич": 15,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 13
+      "gas:candidate-vibid:2432000880419": 296,
+      "gas:candidate-vibid:2432000869611": 28,
+      "gas:candidate-vibid:2432000872151": 36,
+      "gas:candidate-vibid:2432000871789": 21,
+      "gas:candidate-vibid:2432000886353": 15,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 139,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 17,
-      "Мальцев Александр Николаевич": 10,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 139,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 17,
+      "gas:candidate-vibid:2432000871789": 10,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 91,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 11,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 91,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 11,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 230,
-      "Барсуков Николай Александрович": 27,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 34,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 230,
+      "gas:candidate-vibid:2432000869611": 27,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 34,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773475&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773475&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 822,
-      "Барсуков Николай Александрович": 38,
-      "Вотинцев Алексей Владимирович": 107,
-      "Мальцев Александр Николаевич": 74,
-      "Орлов Андрей Евгеньевич": 16,
-      "Перов Андрей Игоревич": 15,
-      "Рогожкин Сергей Валентинович": 18
+      "gas:candidate-vibid:2432000880419": 822,
+      "gas:candidate-vibid:2432000869611": 38,
+      "gas:candidate-vibid:2432000872151": 107,
+      "gas:candidate-vibid:2432000871789": 74,
+      "gas:candidate-vibid:2432000886353": 16,
+      "gas:candidate-vibid:2432000880430": 15,
+      "gas:candidate-vibid:2432000872588": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 458,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 68,
-      "Мальцев Александр Николаевич": 52,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 458,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 68,
+      "gas:candidate-vibid:2432000871789": 52,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 97,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 3,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 97,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 3,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 100,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 100,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 79,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 79,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 102,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 102,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 37,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 1,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 37,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 1,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 151,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 151,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 43,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 43,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 57,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 8,
-      "Мальцев Александр Николаевич": 4,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 57,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 8,
+      "gas:candidate-vibid:2432000871789": 4,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 59,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 59,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 75,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 5,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 75,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 5,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 213,
-      "Барсуков Николай Александрович": 13,
-      "Вотинцев Алексей Владимирович": 22,
-      "Мальцев Александр Николаевич": 21,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 213,
+      "gas:candidate-vibid:2432000869611": 13,
+      "gas:candidate-vibid:2432000872151": 22,
+      "gas:candidate-vibid:2432000871789": 21,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 60,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 1,
-      "Мальцев Александр Николаевич": 4,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 60,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 1,
+      "gas:candidate-vibid:2432000871789": 4,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 41,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 2,
-      "Мальцев Александр Николаевич": 2,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 41,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 2,
+      "gas:candidate-vibid:2432000871789": 2,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 45,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 3,
-      "Мальцев Александр Николаевич": 1,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 45,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 3,
+      "gas:candidate-vibid:2432000871789": 1,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 269,
-      "Барсуков Николай Александрович": 28,
-      "Вотинцев Алексей Владимирович": 33,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 269,
+      "gas:candidate-vibid:2432000869611": 28,
+      "gas:candidate-vibid:2432000872151": 33,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 108,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 8,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 108,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 8,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 74,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 1,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 74,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 1,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 255,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 25,
-      "Мальцев Александр Николаевич": 21,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 255,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 25,
+      "gas:candidate-vibid:2432000871789": 21,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 60,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 60,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 58,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 58,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 80,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 4,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 80,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 4,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 106,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 106,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 169,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 23,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 169,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 23,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 69,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 5,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 69,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 5,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 164,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 164,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 38,
-      "Барсуков Николай Александрович": 0,
-      "Вотинцев Алексей Владимирович": 2,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 38,
+      "gas:candidate-vibid:2432000869611": 0,
+      "gas:candidate-vibid:2432000872151": 2,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 134,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 134,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 127,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 127,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773477&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773477&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 366,
-      "Барсуков Николай Александрович": 62,
-      "Вотинцев Алексей Владимирович": 100,
-      "Мальцев Александр Николаевич": 114,
-      "Орлов Андрей Евгеньевич": 18,
-      "Перов Андрей Игоревич": 16,
-      "Рогожкин Сергей Валентинович": 29
+      "gas:candidate-vibid:2432000880419": 366,
+      "gas:candidate-vibid:2432000869611": 62,
+      "gas:candidate-vibid:2432000872151": 100,
+      "gas:candidate-vibid:2432000871789": 114,
+      "gas:candidate-vibid:2432000886353": 18,
+      "gas:candidate-vibid:2432000880430": 16,
+      "gas:candidate-vibid:2432000872588": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 243,
-      "Барсуков Николай Александрович": 35,
-      "Вотинцев Алексей Владимирович": 58,
-      "Мальцев Александр Николаевич": 49,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 15
+      "gas:candidate-vibid:2432000880419": 243,
+      "gas:candidate-vibid:2432000869611": 35,
+      "gas:candidate-vibid:2432000872151": 58,
+      "gas:candidate-vibid:2432000871789": 49,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 245,
-      "Барсуков Николай Александрович": 32,
-      "Вотинцев Алексей Владимирович": 68,
-      "Мальцев Александр Николаевич": 42,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 12
+      "gas:candidate-vibid:2432000880419": 245,
+      "gas:candidate-vibid:2432000869611": 32,
+      "gas:candidate-vibid:2432000872151": 68,
+      "gas:candidate-vibid:2432000871789": 42,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 131,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 26,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 131,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 26,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 52,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 52,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 28,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 8,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 28,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 8,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 116,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 24,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 116,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 24,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 82,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 82,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 36,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 8,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 36,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 8,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 46,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 17,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 46,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 17,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 51,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 51,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 134,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 20,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 134,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 20,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 35,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 3,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 35,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 3,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 33,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 5,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 33,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 5,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773479&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773479&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 90,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 90,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 216,
-      "Барсуков Николай Александрович": 38,
-      "Вотинцев Алексей Владимирович": 50,
-      "Мальцев Александр Николаевич": 90,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 19
+      "gas:candidate-vibid:2432000880419": 216,
+      "gas:candidate-vibid:2432000869611": 38,
+      "gas:candidate-vibid:2432000872151": 50,
+      "gas:candidate-vibid:2432000871789": 90,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 257,
-      "Барсуков Николай Александрович": 24,
-      "Вотинцев Алексей Владимирович": 42,
-      "Мальцев Александр Николаевич": 76,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 257,
+      "gas:candidate-vibid:2432000869611": 24,
+      "gas:candidate-vibid:2432000872151": 42,
+      "gas:candidate-vibid:2432000871789": 76,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 94,
-      "Барсуков Николай Александрович": 15,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 21,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 94,
+      "gas:candidate-vibid:2432000869611": 15,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 21,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 88,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 24,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 12
+      "gas:candidate-vibid:2432000880419": 88,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 24,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 172,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 28,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 172,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 28,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 181,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 21,
-      "Мальцев Александр Николаевич": 19,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 181,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 21,
+      "gas:candidate-vibid:2432000871789": 19,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 175,
-      "Барсуков Николай Александрович": 44,
-      "Вотинцев Алексей Владимирович": 53,
-      "Мальцев Александр Николаевич": 43,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 175,
+      "gas:candidate-vibid:2432000869611": 44,
+      "gas:candidate-vibid:2432000872151": 53,
+      "gas:candidate-vibid:2432000871789": 43,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 173,
-      "Барсуков Николай Александрович": 19,
-      "Вотинцев Алексей Владимирович": 23,
-      "Мальцев Александр Николаевич": 31,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 173,
+      "gas:candidate-vibid:2432000869611": 19,
+      "gas:candidate-vibid:2432000872151": 23,
+      "gas:candidate-vibid:2432000871789": 31,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 59,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 8,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 59,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 8,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 128,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 20,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 128,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 20,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 282,
-      "Барсуков Николай Александрович": 39,
-      "Вотинцев Алексей Владимирович": 61,
-      "Мальцев Александр Николаевич": 49,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 22
+      "gas:candidate-vibid:2432000880419": 282,
+      "gas:candidate-vibid:2432000869611": 39,
+      "gas:candidate-vibid:2432000872151": 61,
+      "gas:candidate-vibid:2432000871789": 49,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 123,
-      "Барсуков Николай Александрович": 15,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 123,
+      "gas:candidate-vibid:2432000869611": 15,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 233,
-      "Барсуков Николай Александрович": 30,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 47,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 233,
+      "gas:candidate-vibid:2432000869611": 30,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 47,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 166,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 38,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 166,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 38,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 68,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 13,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 68,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 13,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 186,
-      "Барсуков Николай Александрович": 28,
-      "Вотинцев Алексей Владимирович": 65,
-      "Мальцев Александр Николаевич": 38,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 11,
-      "Рогожкин Сергей Валентинович": 13
+      "gas:candidate-vibid:2432000880419": 186,
+      "gas:candidate-vibid:2432000869611": 28,
+      "gas:candidate-vibid:2432000872151": 65,
+      "gas:candidate-vibid:2432000871789": 38,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 11,
+      "gas:candidate-vibid:2432000872588": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 105,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 35,
-      "Мальцев Александр Николаевич": 19,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 14
+      "gas:candidate-vibid:2432000880419": 105,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 35,
+      "gas:candidate-vibid:2432000871789": 19,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 80,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 80,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 71,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 71,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 62,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 10,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 62,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 10,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 256,
-      "Барсуков Николай Александрович": 33,
-      "Вотинцев Алексей Владимирович": 42,
-      "Мальцев Александр Николаевич": 70,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 18
+      "gas:candidate-vibid:2432000880419": 256,
+      "gas:candidate-vibid:2432000869611": 33,
+      "gas:candidate-vibid:2432000872151": 42,
+      "gas:candidate-vibid:2432000871789": 70,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 189,
-      "Барсуков Николай Александрович": 18,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 27,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 18
+      "gas:candidate-vibid:2432000880419": 189,
+      "gas:candidate-vibid:2432000869611": 18,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 27,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773485&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773485&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 214,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 1,
-      "Мальцев Александр Николаевич": 1,
-      "Орлов Андрей Евгеньевич": 38,
-      "Перов Андрей Игоревич": 21,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 214,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 1,
+      "gas:candidate-vibid:2432000871789": 1,
+      "gas:candidate-vibid:2432000886353": 38,
+      "gas:candidate-vibid:2432000880430": 21,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 61,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 61,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 189,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 30,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 189,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 30,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 161,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 45,
-      "Мальцев Александр Николаевич": 26,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 161,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 45,
+      "gas:candidate-vibid:2432000871789": 26,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 96,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 17,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 96,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 17,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 107,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 107,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 80,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 33,
-      "Мальцев Александр Николаевич": 20,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 80,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 33,
+      "gas:candidate-vibid:2432000871789": 20,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 19,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 19,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 75,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 38,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 75,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 38,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 99,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 29,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 99,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 29,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 28,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 6,
-      "Мальцев Александр Николаевич": 3,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 28,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 6,
+      "gas:candidate-vibid:2432000871789": 3,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 52,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 13,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 52,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 13,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 116,
-      "Барсуков Николай Александрович": 31,
-      "Вотинцев Алексей Владимирович": 89,
-      "Мальцев Александр Николаевич": 42,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 116,
+      "gas:candidate-vibid:2432000869611": 31,
+      "gas:candidate-vibid:2432000872151": 89,
+      "gas:candidate-vibid:2432000871789": 42,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 53,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 25,
-      "Мальцев Александр Николаевич": 8,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 53,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 25,
+      "gas:candidate-vibid:2432000871789": 8,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 97,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 97,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 38,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 10,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 38,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 10,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 405,
-      "Барсуков Николай Александрович": 51,
-      "Вотинцев Алексей Владимирович": 100,
-      "Мальцев Александр Николаевич": 92,
-      "Орлов Андрей Евгеньевич": 14,
-      "Перов Андрей Игоревич": 15,
-      "Рогожкин Сергей Валентинович": 14
+      "gas:candidate-vibid:2432000880419": 405,
+      "gas:candidate-vibid:2432000869611": 51,
+      "gas:candidate-vibid:2432000872151": 100,
+      "gas:candidate-vibid:2432000871789": 92,
+      "gas:candidate-vibid:2432000886353": 14,
+      "gas:candidate-vibid:2432000880430": 15,
+      "gas:candidate-vibid:2432000872588": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 349,
-      "Барсуков Николай Александрович": 49,
-      "Вотинцев Алексей Владимирович": 83,
-      "Мальцев Александр Николаевич": 89,
-      "Орлов Андрей Евгеньевич": 25,
-      "Перов Андрей Игоревич": 17,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 349,
+      "gas:candidate-vibid:2432000869611": 49,
+      "gas:candidate-vibid:2432000872151": 83,
+      "gas:candidate-vibid:2432000871789": 89,
+      "gas:candidate-vibid:2432000886353": 25,
+      "gas:candidate-vibid:2432000880430": 17,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 322,
-      "Барсуков Николай Александрович": 35,
-      "Вотинцев Алексей Владимирович": 102,
-      "Мальцев Александр Николаевич": 100,
-      "Орлов Андрей Евгеньевич": 28,
-      "Перов Андрей Игоревич": 14,
-      "Рогожкин Сергей Валентинович": 27
+      "gas:candidate-vibid:2432000880419": 322,
+      "gas:candidate-vibid:2432000869611": 35,
+      "gas:candidate-vibid:2432000872151": 102,
+      "gas:candidate-vibid:2432000871789": 100,
+      "gas:candidate-vibid:2432000886353": 28,
+      "gas:candidate-vibid:2432000880430": 14,
+      "gas:candidate-vibid:2432000872588": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773489&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773489&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 59,
-      "Барсуков Николай Александрович": 3,
-      "Вотинцев Алексей Владимирович": 2,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 59,
+      "gas:candidate-vibid:2432000869611": 3,
+      "gas:candidate-vibid:2432000872151": 2,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 94,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 94,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 75,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 21,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 75,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 21,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 104,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 22,
-      "Мальцев Александр Николаевич": 17,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 104,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 22,
+      "gas:candidate-vibid:2432000871789": 17,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 59,
-      "Барсуков Николай Александрович": 2,
-      "Вотинцев Алексей Владимирович": 5,
-      "Мальцев Александр Николаевич": 13,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 59,
+      "gas:candidate-vibid:2432000869611": 2,
+      "gas:candidate-vibid:2432000872151": 5,
+      "gas:candidate-vibid:2432000871789": 13,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 103,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 17,
-      "Мальцев Александр Николаевич": 4,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 103,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 17,
+      "gas:candidate-vibid:2432000871789": 4,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 240,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 31,
-      "Мальцев Александр Николаевич": 29,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 240,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 31,
+      "gas:candidate-vibid:2432000871789": 29,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 89,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 7,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 89,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 7,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 161,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 11,
-      "Мальцев Александр Николаевич": 24,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 161,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 11,
+      "gas:candidate-vibid:2432000871789": 24,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 273,
-      "Барсуков Николай Александрович": 37,
-      "Вотинцев Алексей Владимирович": 38,
-      "Мальцев Александр Николаевич": 45,
-      "Орлов Андрей Евгеньевич": 20,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 14
+      "gas:candidate-vibid:2432000880419": 273,
+      "gas:candidate-vibid:2432000869611": 37,
+      "gas:candidate-vibid:2432000872151": 38,
+      "gas:candidate-vibid:2432000871789": 45,
+      "gas:candidate-vibid:2432000886353": 20,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 196,
-      "Барсуков Николай Александрович": 29,
-      "Вотинцев Алексей Владимирович": 37,
-      "Мальцев Александр Николаевич": 25,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 11,
-      "Рогожкин Сергей Валентинович": 12
+      "gas:candidate-vibid:2432000880419": 196,
+      "gas:candidate-vibid:2432000869611": 29,
+      "gas:candidate-vibid:2432000872151": 37,
+      "gas:candidate-vibid:2432000871789": 25,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 11,
+      "gas:candidate-vibid:2432000872588": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 179,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 21,
-      "Мальцев Александр Николаевич": 20,
-      "Орлов Андрей Евгеньевич": 10,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 179,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 21,
+      "gas:candidate-vibid:2432000871789": 20,
+      "gas:candidate-vibid:2432000886353": 10,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 158,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 20,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 158,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 20,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 79,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 23,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 79,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 23,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 364,
-      "Барсуков Николай Александрович": 62,
-      "Вотинцев Алексей Владимирович": 114,
-      "Мальцев Александр Николаевич": 54,
-      "Орлов Андрей Евгеньевич": 15,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 34
+      "gas:candidate-vibid:2432000880419": 364,
+      "gas:candidate-vibid:2432000869611": 62,
+      "gas:candidate-vibid:2432000872151": 114,
+      "gas:candidate-vibid:2432000871789": 54,
+      "gas:candidate-vibid:2432000886353": 15,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_43_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 373,
-      "Барсуков Николай Александрович": 47,
-      "Вотинцев Алексей Владимирович": 85,
-      "Мальцев Александр Николаевич": 59,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 373,
+      "gas:candidate-vibid:2432000869611": 47,
+      "gas:candidate-vibid:2432000872151": 85,
+      "gas:candidate-vibid:2432000871789": 59,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",

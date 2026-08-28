@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 50,
-      "Десинов Денис Анатольевич": 13,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 35,
-      "Красов Андрей Леонидович": 163,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 14,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 50,
+      "gas:candidate-vibid:2622000686677": 13,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 35,
+      "gas:candidate-vibid:2622000686573": 163,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 14,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 37,
-      "Десинов Денис Анатольевич": 24,
-      "Епифанова Мария Александровна": 11,
-      "Кравченко Юрий Александрович": 22,
-      "Красов Андрей Леонидович": 247,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 10,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 37,
+      "gas:candidate-vibid:2622000686677": 24,
+      "gas:candidate-vibid:2622000687051": 11,
+      "gas:candidate-vibid:2622000660670": 22,
+      "gas:candidate-vibid:2622000686573": 247,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 10,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 37,
-      "Десинов Денис Анатольевич": 24,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 90,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 12,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 37,
+      "gas:candidate-vibid:2622000686677": 24,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 90,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 12,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 56,
-      "Десинов Денис Анатольевич": 15,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 44,
-      "Красов Андрей Леонидович": 167,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 9,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 56,
+      "gas:candidate-vibid:2622000686677": 15,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 44,
+      "gas:candidate-vibid:2622000686573": 167,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 9,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 5,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 6,
-      "Красов Андрей Леонидович": 72,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 5,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 6,
+      "gas:candidate-vibid:2622000686573": 72,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 12,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 12,
-      "Красов Андрей Леонидович": 48,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 12,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 12,
+      "gas:candidate-vibid:2622000686573": 48,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 11,
-      "Красов Андрей Леонидович": 79,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 11,
+      "gas:candidate-vibid:2622000686573": 79,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 59,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 60,
-      "Красов Андрей Леонидович": 195,
-      "Кусова Ирина Гасановна": 10,
-      "Ляблин Андрей Алексеевич": 16,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 59,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 60,
+      "gas:candidate-vibid:2622000686573": 195,
+      "gas:candidate-vibid:2622000686220": 10,
+      "gas:candidate-vibid:2622000685437": 16,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 82,
-      "Десинов Денис Анатольевич": 18,
-      "Епифанова Мария Александровна": 15,
-      "Кравченко Юрий Александрович": 65,
-      "Красов Андрей Леонидович": 223,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 33,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 82,
+      "gas:candidate-vibid:2622000686677": 18,
+      "gas:candidate-vibid:2622000687051": 15,
+      "gas:candidate-vibid:2622000660670": 65,
+      "gas:candidate-vibid:2622000686573": 223,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 33,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 85,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 83,
-      "Красов Андрей Леонидович": 227,
-      "Кусова Ирина Гасановна": 11,
-      "Ляблин Андрей Алексеевич": 29,
-      "Рогов Владимир Александрович": 20,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 85,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 83,
+      "gas:candidate-vibid:2622000686573": 227,
+      "gas:candidate-vibid:2622000686220": 11,
+      "gas:candidate-vibid:2622000685437": 29,
+      "gas:candidate-vibid:2622000687415": 20,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 64,
-      "Десинов Денис Анатольевич": 16,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 44,
-      "Красов Андрей Леонидович": 184,
-      "Кусова Ирина Гасановна": 8,
-      "Ляблин Андрей Алексеевич": 12,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 64,
+      "gas:candidate-vibid:2622000686677": 16,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 44,
+      "gas:candidate-vibid:2622000686573": 184,
+      "gas:candidate-vibid:2622000686220": 8,
+      "gas:candidate-vibid:2622000685437": 12,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 47,
-      "Десинов Денис Анатольевич": 13,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 22,
-      "Красов Андрей Леонидович": 73,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 11,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 47,
+      "gas:candidate-vibid:2622000686677": 13,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 22,
+      "gas:candidate-vibid:2622000686573": 73,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 11,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 12,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 0,
-      "Кравченко Юрий Александрович": 4,
-      "Красов Андрей Леонидович": 27,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 12,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 0,
+      "gas:candidate-vibid:2622000660670": 4,
+      "gas:candidate-vibid:2622000686573": 27,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 26,
-      "Десинов Денис Анатольевич": 12,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 14,
-      "Красов Андрей Леонидович": 59,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 26,
+      "gas:candidate-vibid:2622000686677": 12,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 14,
+      "gas:candidate-vibid:2622000686573": 59,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 42,
-      "Десинов Денис Анатольевич": 19,
-      "Епифанова Мария Александровна": 13,
-      "Кравченко Юрий Александрович": 32,
-      "Красов Андрей Леонидович": 101,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 9,
-      "Рогов Владимир Александрович": 6,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 42,
+      "gas:candidate-vibid:2622000686677": 19,
+      "gas:candidate-vibid:2622000687051": 13,
+      "gas:candidate-vibid:2622000660670": 32,
+      "gas:candidate-vibid:2622000686573": 101,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 9,
+      "gas:candidate-vibid:2622000687415": 6,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 10,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 6,
-      "Красов Андрей Леонидович": 72,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 10,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 6,
+      "gas:candidate-vibid:2622000686573": 72,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 21,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 21,
-      "Красов Андрей Леонидович": 152,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 21,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 21,
+      "gas:candidate-vibid:2622000686573": 152,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 18,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 11,
-      "Красов Андрей Леонидович": 52,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 18,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 11,
+      "gas:candidate-vibid:2622000686573": 52,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 12,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 12,
-      "Красов Андрей Леонидович": 67,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 12,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 12,
+      "gas:candidate-vibid:2622000686573": 67,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 11,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 8,
-      "Красов Андрей Леонидович": 105,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 11,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 8,
+      "gas:candidate-vibid:2622000686573": 105,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 9,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 18,
-      "Красов Андрей Леонидович": 98,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 9,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 18,
+      "gas:candidate-vibid:2622000686573": 98,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633365&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633365&type=464",
@@ -1282,16 +1282,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 10,
-      "Митина Елена Анатольевна": 55,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 23,
-      "Цветкова Наталия Анатольевна": 7,
-      "Шерин Александр Николаевич": 21
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 10,
+      "gas:candidate-vibid:2622000687620": 55,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 23,
+      "gas:candidate-vibid:2622000685453": 7,
+      "gas:candidate-vibid:2622000660602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1342,16 +1342,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 116,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 8,
-      "Шерин Александр Николаевич": 1
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 116,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 8,
+      "gas:candidate-vibid:2622000660602": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1402,16 +1402,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 41,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 16,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 7
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 41,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 16,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1462,16 +1462,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 13,
-      "Митина Елена Анатольевна": 60,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 16,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 14
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 13,
+      "gas:candidate-vibid:2622000687620": 60,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 16,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1522,16 +1522,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 14,
-      "Митина Елена Анатольевна": 106,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 22,
-      "Цветкова Наталия Анатольевна": 2,
-      "Шерин Александр Николаевич": 21
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 14,
+      "gas:candidate-vibid:2622000687620": 106,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 22,
+      "gas:candidate-vibid:2622000685453": 2,
+      "gas:candidate-vibid:2622000660602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1582,16 +1582,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 1,
-      "Митина Елена Анатольевна": 52,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 7,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 1
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 1,
+      "gas:candidate-vibid:2622000687620": 52,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 7,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1642,16 +1642,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 4,
-      "Митина Елена Анатольевна": 45,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 3,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 5
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 4,
+      "gas:candidate-vibid:2622000687620": 45,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 3,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1702,16 +1702,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 11,
-      "Митина Елена Анатольевна": 105,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 9,
-      "Шерин Александр Николаевич": 19
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 11,
+      "gas:candidate-vibid:2622000687620": 105,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 9,
+      "gas:candidate-vibid:2622000660602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1762,16 +1762,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 2,
-      "Митина Елена Анатольевна": 38,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 2
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 2,
+      "gas:candidate-vibid:2622000687620": 38,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1822,16 +1822,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 141,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 43,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 14
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 141,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 43,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1882,16 +1882,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 63,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 4,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 63,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 4,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -1942,16 +1942,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 111,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 34,
-      "Цветкова Наталия Анатольевна": 4,
-      "Шерин Александр Николаевич": 31
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 111,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 34,
+      "gas:candidate-vibid:2622000685453": 4,
+      "gas:candidate-vibid:2622000660602": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2002,16 +2002,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 10,
-      "Митина Елена Анатольевна": 173,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 7,
-      "Федоткин Владимир Николаевич": 50,
-      "Цветкова Наталия Анатольевна": 10,
-      "Шерин Александр Николаевич": 31
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 10,
+      "gas:candidate-vibid:2622000687620": 173,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 7,
+      "gas:candidate-vibid:2622000687069": 50,
+      "gas:candidate-vibid:2622000685453": 10,
+      "gas:candidate-vibid:2622000660602": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2062,16 +2062,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 4,
-      "Митина Елена Анатольевна": 103,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 4,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 4,
+      "gas:candidate-vibid:2622000687620": 103,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 4,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2122,16 +2122,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 1,
-      "Митина Елена Анатольевна": 70,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 9
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 1,
+      "gas:candidate-vibid:2622000687620": 70,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2182,16 +2182,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 66,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 27,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 14
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 66,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 27,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2242,16 +2242,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 41,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 5,
-      "Федоткин Владимир Николаевич": 14,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 3
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 41,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 5,
+      "gas:candidate-vibid:2622000687069": 14,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2302,16 +2302,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 36,
-      "Митина Елена Анатольевна": 380,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 138,
-      "Цветкова Наталия Анатольевна": 27,
-      "Шерин Александр Николаевич": 47
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 36,
+      "gas:candidate-vibid:2622000687620": 380,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 138,
+      "gas:candidate-vibid:2622000685453": 27,
+      "gas:candidate-vibid:2622000660602": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2362,16 +2362,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 19,
-      "Лукьянова Галина Валентиновна": 34,
-      "Митина Елена Анатольевна": 305,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 196,
-      "Цветкова Наталия Анатольевна": 30,
-      "Шерин Александр Николаевич": 53
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 19,
+      "gas:candidate-vibid:2622000687153": 34,
+      "gas:candidate-vibid:2622000687620": 305,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 196,
+      "gas:candidate-vibid:2622000685453": 30,
+      "gas:candidate-vibid:2622000660602": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2422,16 +2422,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 34,
-      "Митина Елена Анатольевна": 347,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 177,
-      "Цветкова Наталия Анатольевна": 22,
-      "Шерин Александр Николаевич": 66
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 34,
+      "gas:candidate-vibid:2622000687620": 347,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 177,
+      "gas:candidate-vibid:2622000685453": 22,
+      "gas:candidate-vibid:2622000660602": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633367&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633367&type=464",
@@ -2482,16 +2482,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 10,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 357,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 95,
-      "Цветкова Наталия Анатольевна": 32,
-      "Шерин Александр Николаевич": 110
+      "gas:candidate-vibid:2622000687459": 10,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 357,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 95,
+      "gas:candidate-vibid:2622000685453": 32,
+      "gas:candidate-vibid:2622000660602": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2542,16 +2542,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 32,
-      "Митина Елена Анатольевна": 298,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 108,
-      "Цветкова Наталия Анатольевна": 47,
-      "Шерин Александр Николаевич": 145
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 32,
+      "gas:candidate-vibid:2622000687620": 298,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 108,
+      "gas:candidate-vibid:2622000685453": 47,
+      "gas:candidate-vibid:2622000660602": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2602,16 +2602,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 295,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 60,
-      "Цветкова Наталия Анатольевна": 47,
-      "Шерин Александр Николаевич": 138
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 295,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 60,
+      "gas:candidate-vibid:2622000685453": 47,
+      "gas:candidate-vibid:2622000660602": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2662,16 +2662,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 81,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 11,
-      "Цветкова Наталия Анатольевна": 2,
-      "Шерин Александр Николаевич": 23
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 81,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 11,
+      "gas:candidate-vibid:2622000685453": 2,
+      "gas:candidate-vibid:2622000660602": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2722,16 +2722,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 122,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 6,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 17
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 122,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 6,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2782,16 +2782,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 9,
-      "Митина Елена Анатольевна": 113,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 22,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 19
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 9,
+      "gas:candidate-vibid:2622000687620": 113,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 22,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2842,16 +2842,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 102,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 10,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 18
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 102,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 10,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2902,16 +2902,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 119,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 6,
-      "Федоткин Владимир Николаевич": 33,
-      "Цветкова Наталия Анатольевна": 9,
-      "Шерин Александр Николаевич": 30
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 119,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 6,
+      "gas:candidate-vibid:2622000687069": 33,
+      "gas:candidate-vibid:2622000685453": 9,
+      "gas:candidate-vibid:2622000660602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -2962,16 +2962,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 12,
-      "Митина Елена Анатольевна": 163,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 30,
-      "Цветкова Наталия Анатольевна": 7,
-      "Шерин Александр Николаевич": 37
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 12,
+      "gas:candidate-vibid:2622000687620": 163,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 30,
+      "gas:candidate-vibid:2622000685453": 7,
+      "gas:candidate-vibid:2622000660602": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3022,16 +3022,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 13,
-      "Митина Елена Анатольевна": 364,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 59,
-      "Цветкова Наталия Анатольевна": 23,
-      "Шерин Александр Николаевич": 53
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 13,
+      "gas:candidate-vibid:2622000687620": 364,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 59,
+      "gas:candidate-vibid:2622000685453": 23,
+      "gas:candidate-vibid:2622000660602": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3082,16 +3082,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 43,
-      "Митина Елена Анатольевна": 464,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 100,
-      "Цветкова Наталия Анатольевна": 50,
-      "Шерин Александр Николаевич": 138
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 43,
+      "gas:candidate-vibid:2622000687620": 464,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 100,
+      "gas:candidate-vibid:2622000685453": 50,
+      "gas:candidate-vibid:2622000660602": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3142,16 +3142,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 305,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 80,
-      "Цветкова Наталия Анатольевна": 21,
-      "Шерин Александр Николаевич": 61
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 305,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 80,
+      "gas:candidate-vibid:2622000685453": 21,
+      "gas:candidate-vibid:2622000660602": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3202,16 +3202,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 73,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 9,
-      "Шерин Александр Николаевич": 39
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 73,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 9,
+      "gas:candidate-vibid:2622000660602": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3262,16 +3262,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 12,
-      "Митина Елена Анатольевна": 68,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 44,
-      "Цветкова Наталия Анатольевна": 12,
-      "Шерин Александр Николаевич": 24
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 12,
+      "gas:candidate-vibid:2622000687620": 68,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 44,
+      "gas:candidate-vibid:2622000685453": 12,
+      "gas:candidate-vibid:2622000660602": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3322,16 +3322,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 14,
-      "Митина Елена Анатольевна": 175,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 37,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 28
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 14,
+      "gas:candidate-vibid:2622000687620": 175,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 37,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3382,16 +3382,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 15,
-      "Митина Елена Анатольевна": 210,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 46,
-      "Цветкова Наталия Анатольевна": 25,
-      "Шерин Александр Николаевич": 51
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 15,
+      "gas:candidate-vibid:2622000687620": 210,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 46,
+      "gas:candidate-vibid:2622000685453": 25,
+      "gas:candidate-vibid:2622000660602": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633368&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633368&type=464",
@@ -3442,16 +3442,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 23,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 209,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 96,
-      "Цветкова Наталия Анатольевна": 43,
-      "Шерин Александр Николаевич": 59
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 23,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 209,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 96,
+      "gas:candidate-vibid:2622000685453": 43,
+      "gas:candidate-vibid:2622000660602": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3502,16 +3502,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 16,
-      "Лукьянова Галина Валентиновна": 26,
-      "Митина Елена Анатольевна": 161,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 95,
-      "Цветкова Наталия Анатольевна": 30,
-      "Шерин Александр Николаевич": 71
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 16,
+      "gas:candidate-vibid:2622000687153": 26,
+      "gas:candidate-vibid:2622000687620": 161,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 95,
+      "gas:candidate-vibid:2622000685453": 30,
+      "gas:candidate-vibid:2622000660602": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3562,16 +3562,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 78,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 37,
-      "Цветкова Наталия Анатольевна": 13,
-      "Шерин Александр Николаевич": 55
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 78,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 37,
+      "gas:candidate-vibid:2622000685453": 13,
+      "gas:candidate-vibid:2622000660602": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3622,16 +3622,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 16,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 146,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 75,
-      "Цветкова Наталия Анатольевна": 26,
-      "Шерин Александр Николаевич": 43
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 16,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 146,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 75,
+      "gas:candidate-vibid:2622000685453": 26,
+      "gas:candidate-vibid:2622000660602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3682,16 +3682,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 29,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 175,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 84,
-      "Цветкова Наталия Анатольевна": 24,
-      "Шерин Александр Николаевич": 59
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 29,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 175,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 84,
+      "gas:candidate-vibid:2622000685453": 24,
+      "gas:candidate-vibid:2622000660602": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3742,16 +3742,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 12,
-      "Митина Елена Анатольевна": 126,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 37,
-      "Цветкова Наталия Анатольевна": 21,
-      "Шерин Александр Николаевич": 55
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 12,
+      "gas:candidate-vibid:2622000687620": 126,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 37,
+      "gas:candidate-vibid:2622000685453": 21,
+      "gas:candidate-vibid:2622000660602": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3802,16 +3802,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 25,
-      "Митина Елена Анатольевна": 136,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 7,
-      "Федоткин Владимир Николаевич": 68,
-      "Цветкова Наталия Анатольевна": 29,
-      "Шерин Александр Николаевич": 59
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 25,
+      "gas:candidate-vibid:2622000687620": 136,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 7,
+      "gas:candidate-vibid:2622000687069": 68,
+      "gas:candidate-vibid:2622000685453": 29,
+      "gas:candidate-vibid:2622000660602": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3862,16 +3862,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 14,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 20,
-      "Митина Елена Анатольевна": 177,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 12,
-      "Федоткин Владимир Николаевич": 62,
-      "Цветкова Наталия Анатольевна": 30,
-      "Шерин Александр Николаевич": 46
+      "gas:candidate-vibid:2622000687459": 14,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 20,
+      "gas:candidate-vibid:2622000687620": 177,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 12,
+      "gas:candidate-vibid:2622000687069": 62,
+      "gas:candidate-vibid:2622000685453": 30,
+      "gas:candidate-vibid:2622000660602": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3922,16 +3922,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 12,
-      "Денисенко Владимир Ильич": 26,
-      "Лукьянова Галина Валентиновна": 42,
-      "Митина Елена Анатольевна": 416,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 154,
-      "Цветкова Наталия Анатольевна": 49,
-      "Шерин Александр Николаевич": 94
+      "gas:candidate-vibid:2622000687459": 12,
+      "gas:candidate-vibid:2622000687448": 26,
+      "gas:candidate-vibid:2622000687153": 42,
+      "gas:candidate-vibid:2622000687620": 416,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 154,
+      "gas:candidate-vibid:2622000685453": 49,
+      "gas:candidate-vibid:2622000660602": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -3982,16 +3982,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 36,
-      "Митина Елена Анатольевна": 243,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 15,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 98,
-      "Цветкова Наталия Анатольевна": 43,
-      "Шерин Александр Николаевич": 64
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 36,
+      "gas:candidate-vibid:2622000687620": 243,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 15,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 98,
+      "gas:candidate-vibid:2622000685453": 43,
+      "gas:candidate-vibid:2622000660602": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4042,16 +4042,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 12,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 193,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 15,
-      "Федоткин Владимир Николаевич": 96,
-      "Цветкова Наталия Анатольевна": 52,
-      "Шерин Александр Николаевич": 73
+      "gas:candidate-vibid:2622000687459": 12,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 193,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 15,
+      "gas:candidate-vibid:2622000687069": 96,
+      "gas:candidate-vibid:2622000685453": 52,
+      "gas:candidate-vibid:2622000660602": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4102,16 +4102,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 26,
-      "Денисенко Владимир Ильич": 27,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 379,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 26,
-      "Федоткин Владимир Николаевич": 173,
-      "Цветкова Наталия Анатольевна": 54,
-      "Шерин Александр Николаевич": 109
+      "gas:candidate-vibid:2622000687459": 26,
+      "gas:candidate-vibid:2622000687448": 27,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 379,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 26,
+      "gas:candidate-vibid:2622000687069": 173,
+      "gas:candidate-vibid:2622000685453": 54,
+      "gas:candidate-vibid:2622000660602": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4162,16 +4162,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 20,
-      "Лукьянова Галина Валентиновна": 49,
-      "Митина Елена Анатольевна": 220,
-      "Самохин Александр Владимирович": 19,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 7,
-      "Федоткин Владимир Николаевич": 144,
-      "Цветкова Наталия Анатольевна": 57,
-      "Шерин Александр Николаевич": 102
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 20,
+      "gas:candidate-vibid:2622000687153": 49,
+      "gas:candidate-vibid:2622000687620": 220,
+      "gas:candidate-vibid:2622000687666": 19,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 7,
+      "gas:candidate-vibid:2622000687069": 144,
+      "gas:candidate-vibid:2622000685453": 57,
+      "gas:candidate-vibid:2622000660602": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4222,16 +4222,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 154,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 68,
-      "Цветкова Наталия Анатольевна": 35,
-      "Шерин Александр Николаевич": 51
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 154,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 68,
+      "gas:candidate-vibid:2622000685453": 35,
+      "gas:candidate-vibid:2622000660602": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4282,16 +4282,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 44,
-      "Митина Елена Анатольевна": 517,
-      "Самохин Александр Владимирович": 30,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 81,
-      "Цветкова Наталия Анатольевна": 30,
-      "Шерин Александр Николаевич": 52
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 44,
+      "gas:candidate-vibid:2622000687620": 517,
+      "gas:candidate-vibid:2622000687666": 30,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 81,
+      "gas:candidate-vibid:2622000685453": 30,
+      "gas:candidate-vibid:2622000660602": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4342,16 +4342,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 92,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 20,
-      "Цветкова Наталия Анатольевна": 7,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 92,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 20,
+      "gas:candidate-vibid:2622000685453": 7,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4402,16 +4402,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 20,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 229,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 56,
-      "Цветкова Наталия Анатольевна": 15,
-      "Шерин Александр Николаевич": 38
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 20,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 229,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 56,
+      "gas:candidate-vibid:2622000685453": 15,
+      "gas:candidate-vibid:2622000660602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4462,16 +4462,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 16,
-      "Денисенко Владимир Ильич": 19,
-      "Лукьянова Галина Валентиновна": 52,
-      "Митина Елена Анатольевна": 420,
-      "Самохин Александр Владимирович": 24,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 321,
-      "Цветкова Наталия Анатольевна": 47,
-      "Шерин Александр Николаевич": 96
+      "gas:candidate-vibid:2622000687459": 16,
+      "gas:candidate-vibid:2622000687448": 19,
+      "gas:candidate-vibid:2622000687153": 52,
+      "gas:candidate-vibid:2622000687620": 420,
+      "gas:candidate-vibid:2622000687666": 24,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 321,
+      "gas:candidate-vibid:2622000685453": 47,
+      "gas:candidate-vibid:2622000660602": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633369&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633369&type=464",
@@ -4522,16 +4522,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 117,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 15,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 6
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 117,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 15,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4582,16 +4582,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 51,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 23,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 6
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 51,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 23,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4642,16 +4642,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 168,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 2,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 168,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 2,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4702,16 +4702,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 10,
-      "Денисенко Владимир Ильич": 28,
-      "Лукьянова Галина Валентиновна": 30,
-      "Митина Елена Анатольевна": 545,
-      "Самохин Александр Владимирович": 22,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 69,
-      "Цветкова Наталия Анатольевна": 35,
-      "Шерин Александр Николаевич": 81
+      "gas:candidate-vibid:2622000687459": 10,
+      "gas:candidate-vibid:2622000687448": 28,
+      "gas:candidate-vibid:2622000687153": 30,
+      "gas:candidate-vibid:2622000687620": 545,
+      "gas:candidate-vibid:2622000687666": 22,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 69,
+      "gas:candidate-vibid:2622000685453": 35,
+      "gas:candidate-vibid:2622000660602": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4762,16 +4762,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 24,
-      "Лукьянова Галина Валентиновна": 39,
-      "Митина Елена Анатольевна": 791,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 27,
-      "Федоткин Владимир Николаевич": 59,
-      "Цветкова Наталия Анатольевна": 37,
-      "Шерин Александр Николаевич": 49
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 24,
+      "gas:candidate-vibid:2622000687153": 39,
+      "gas:candidate-vibid:2622000687620": 791,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 27,
+      "gas:candidate-vibid:2622000687069": 59,
+      "gas:candidate-vibid:2622000685453": 37,
+      "gas:candidate-vibid:2622000660602": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4822,16 +4822,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 15,
-      "Митина Елена Анатольевна": 226,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 38,
-      "Цветкова Наталия Анатольевна": 8,
-      "Шерин Александр Николаевич": 17
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 15,
+      "gas:candidate-vibid:2622000687620": 226,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 38,
+      "gas:candidate-vibid:2622000685453": 8,
+      "gas:candidate-vibid:2622000660602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4882,16 +4882,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 32,
-      "Митина Елена Анатольевна": 584,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 141,
-      "Цветкова Наталия Анатольевна": 19,
-      "Шерин Александр Николаевич": 60
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 32,
+      "gas:candidate-vibid:2622000687620": 584,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 141,
+      "gas:candidate-vibid:2622000685453": 19,
+      "gas:candidate-vibid:2622000660602": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -4942,16 +4942,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 19,
-      "Денисенко Владимир Ильич": 33,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 974,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 52,
-      "Цветкова Наталия Анатольевна": 21,
-      "Шерин Александр Николаевич": 76
+      "gas:candidate-vibid:2622000687459": 19,
+      "gas:candidate-vibid:2622000687448": 33,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 974,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 52,
+      "gas:candidate-vibid:2622000685453": 21,
+      "gas:candidate-vibid:2622000660602": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5002,16 +5002,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 10,
-      "Денисенко Владимир Ильич": 32,
-      "Лукьянова Галина Валентиновна": 40,
-      "Митина Елена Анатольевна": 587,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 87,
-      "Цветкова Наталия Анатольевна": 35,
-      "Шерин Александр Николаевич": 126
+      "gas:candidate-vibid:2622000687459": 10,
+      "gas:candidate-vibid:2622000687448": 32,
+      "gas:candidate-vibid:2622000687153": 40,
+      "gas:candidate-vibid:2622000687620": 587,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 87,
+      "gas:candidate-vibid:2622000685453": 35,
+      "gas:candidate-vibid:2622000660602": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5062,16 +5062,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 16,
-      "Митина Елена Анатольевна": 264,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 27,
-      "Цветкова Наталия Анатольевна": 8,
-      "Шерин Александр Николаевич": 21
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 16,
+      "gas:candidate-vibid:2622000687620": 264,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 27,
+      "gas:candidate-vibid:2622000685453": 8,
+      "gas:candidate-vibid:2622000660602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5122,16 +5122,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 10,
-      "Митина Елена Анатольевна": 119,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 7,
-      "Цветкова Наталия Анатольевна": 4,
-      "Шерин Александр Николаевич": 9
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 10,
+      "gas:candidate-vibid:2622000687620": 119,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 7,
+      "gas:candidate-vibid:2622000685453": 4,
+      "gas:candidate-vibid:2622000660602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5182,16 +5182,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 1,
-      "Митина Елена Анатольевна": 104,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 28,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 8
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 1,
+      "gas:candidate-vibid:2622000687620": 104,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 28,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5242,16 +5242,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 419,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 46,
-      "Цветкова Наталия Анатольевна": 15,
-      "Шерин Александр Николаевич": 28
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 419,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 46,
+      "gas:candidate-vibid:2622000685453": 15,
+      "gas:candidate-vibid:2622000660602": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5302,16 +5302,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 9,
-      "Митина Елена Анатольевна": 179,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 22,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 9,
+      "gas:candidate-vibid:2622000687620": 179,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 22,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5362,16 +5362,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 203,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 6,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 16,
-      "Шерин Александр Николаевич": 33
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 203,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 6,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 16,
+      "gas:candidate-vibid:2622000660602": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5422,16 +5422,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 12,
-      "Митина Елена Анатольевна": 259,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 2,
-      "Шерин Александр Николаевич": 5
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 12,
+      "gas:candidate-vibid:2622000687620": 259,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 2,
+      "gas:candidate-vibid:2622000660602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5482,16 +5482,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 402,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 5,
-      "Федоткин Владимир Николаевич": 29,
-      "Цветкова Наталия Анатольевна": 7,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 402,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 5,
+      "gas:candidate-vibid:2622000687069": 29,
+      "gas:candidate-vibid:2622000685453": 7,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5542,16 +5542,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 188,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 16,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 19
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 188,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 16,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5602,16 +5602,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 137,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 33,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 11
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 137,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 33,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5662,16 +5662,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 1131,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 81,
-      "Цветкова Наталия Анатольевна": 22,
-      "Шерин Александр Николаевич": 132
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 1131,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 81,
+      "gas:candidate-vibid:2622000685453": 22,
+      "gas:candidate-vibid:2622000660602": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5722,16 +5722,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 330,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 5,
-      "Цветкова Наталия Анатольевна": 2,
-      "Шерин Александр Николаевич": 14
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 330,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 5,
+      "gas:candidate-vibid:2622000685453": 2,
+      "gas:candidate-vibid:2622000660602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5782,16 +5782,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 262,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 17,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 9
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 262,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 17,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5842,16 +5842,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 77,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 21,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 5
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 77,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 21,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5902,16 +5902,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 12,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 248,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 26,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 21
+      "gas:candidate-vibid:2622000687459": 12,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 248,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 26,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -5962,16 +5962,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 26,
-      "Митина Елена Анатольевна": 213,
-      "Самохин Александр Владимирович": 21,
-      "Тамбовцев Игорь Федорович": 23,
-      "Тюрин Александр Владимирович": 15,
-      "Федоткин Владимир Николаевич": 81,
-      "Цветкова Наталия Анатольевна": 19,
-      "Шерин Александр Николаевич": 23
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 26,
+      "gas:candidate-vibid:2622000687620": 213,
+      "gas:candidate-vibid:2622000687666": 21,
+      "gas:candidate-vibid:2622000687471": 23,
+      "gas:candidate-vibid:2622000687111": 15,
+      "gas:candidate-vibid:2622000687069": 81,
+      "gas:candidate-vibid:2622000685453": 19,
+      "gas:candidate-vibid:2622000660602": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6022,16 +6022,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 32,
-      "Митина Елена Анатольевна": 261,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 73,
-      "Цветкова Наталия Анатольевна": 17,
-      "Шерин Александр Николаевич": 33
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 32,
+      "gas:candidate-vibid:2622000687620": 261,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 73,
+      "gas:candidate-vibid:2622000685453": 17,
+      "gas:candidate-vibid:2622000660602": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6082,16 +6082,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 19,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 34,
-      "Митина Елена Анатольевна": 182,
-      "Самохин Александр Владимирович": 20,
-      "Тамбовцев Игорь Федорович": 16,
-      "Тюрин Александр Владимирович": 15,
-      "Федоткин Владимир Николаевич": 73,
-      "Цветкова Наталия Анатольевна": 38,
-      "Шерин Александр Николаевич": 59
+      "gas:candidate-vibid:2622000687459": 19,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 34,
+      "gas:candidate-vibid:2622000687620": 182,
+      "gas:candidate-vibid:2622000687666": 20,
+      "gas:candidate-vibid:2622000687471": 16,
+      "gas:candidate-vibid:2622000687111": 15,
+      "gas:candidate-vibid:2622000687069": 73,
+      "gas:candidate-vibid:2622000685453": 38,
+      "gas:candidate-vibid:2622000660602": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6142,16 +6142,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 19,
-      "Митина Елена Анатольевна": 366,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 39,
-      "Цветкова Наталия Анатольевна": 14,
-      "Шерин Александр Николаевич": 21
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 19,
+      "gas:candidate-vibid:2622000687620": 366,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 39,
+      "gas:candidate-vibid:2622000685453": 14,
+      "gas:candidate-vibid:2622000660602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6202,16 +6202,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 9,
-      "Митина Елена Анатольевна": 152,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 17,
-      "Цветкова Наталия Анатольевна": 10,
-      "Шерин Александр Николаевич": 16
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 9,
+      "gas:candidate-vibid:2622000687620": 152,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 17,
+      "gas:candidate-vibid:2622000685453": 10,
+      "gas:candidate-vibid:2622000660602": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6262,16 +6262,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 183,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 31,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 29
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 183,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 31,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6322,16 +6322,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 19,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 737,
-      "Самохин Александр Владимирович": 14,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 12,
-      "Федоткин Владимир Николаевич": 62,
-      "Цветкова Наталия Анатольевна": 18,
-      "Шерин Александр Николаевич": 55
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 19,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 737,
+      "gas:candidate-vibid:2622000687666": 14,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 12,
+      "gas:candidate-vibid:2622000687069": 62,
+      "gas:candidate-vibid:2622000685453": 18,
+      "gas:candidate-vibid:2622000660602": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6382,16 +6382,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 193,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 11,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 14
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 193,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 11,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6442,16 +6442,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 15,
-      "Митина Елена Анатольевна": 255,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 24,
-      "Цветкова Наталия Анатольевна": 11,
-      "Шерин Александр Николаевич": 36
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 15,
+      "gas:candidate-vibid:2622000687620": 255,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 24,
+      "gas:candidate-vibid:2622000685453": 11,
+      "gas:candidate-vibid:2622000660602": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6502,16 +6502,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 9,
-      "Митина Елена Анатольевна": 129,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 14,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 6
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 9,
+      "gas:candidate-vibid:2622000687620": 129,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 14,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6562,16 +6562,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 11,
-      "Митина Елена Анатольевна": 225,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 39,
-      "Цветкова Наталия Анатольевна": 9,
-      "Шерин Александр Николаевич": 23
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 11,
+      "gas:candidate-vibid:2622000687620": 225,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 39,
+      "gas:candidate-vibid:2622000685453": 9,
+      "gas:candidate-vibid:2622000660602": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633370&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633370&type=464",
@@ -6622,16 +6622,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 47,
-      "Митина Елена Анатольевна": 597,
-      "Самохин Александр Владимирович": 17,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 173,
-      "Цветкова Наталия Анатольевна": 22,
-      "Шерин Александр Николаевич": 139
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 47,
+      "gas:candidate-vibid:2622000687620": 597,
+      "gas:candidate-vibid:2622000687666": 17,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 173,
+      "gas:candidate-vibid:2622000685453": 22,
+      "gas:candidate-vibid:2622000660602": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -6682,16 +6682,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 573,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 129,
-      "Цветкова Наталия Анатольевна": 33,
-      "Шерин Александр Николаевич": 107
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 573,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 129,
+      "gas:candidate-vibid:2622000685453": 33,
+      "gas:candidate-vibid:2622000660602": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -6742,16 +6742,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 19,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 36,
-      "Митина Елена Анатольевна": 561,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 103,
-      "Цветкова Наталия Анатольевна": 33,
-      "Шерин Александр Николаевич": 99
+      "gas:candidate-vibid:2622000687459": 19,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 36,
+      "gas:candidate-vibid:2622000687620": 561,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 103,
+      "gas:candidate-vibid:2622000685453": 33,
+      "gas:candidate-vibid:2622000660602": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -6802,16 +6802,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 45,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 5,
-      "Федоткин Владимир Николаевич": 28,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 10
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 45,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 5,
+      "gas:candidate-vibid:2622000687069": 28,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -6862,16 +6862,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 2,
-      "Митина Елена Анатольевна": 75,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 13,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 7
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 2,
+      "gas:candidate-vibid:2622000687620": 75,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 13,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -6922,16 +6922,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 66,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 5,
-      "Цветкова Наталия Анатольевна": 1,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 66,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 5,
+      "gas:candidate-vibid:2622000685453": 1,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -6982,16 +6982,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 2,
-      "Митина Елена Анатольевна": 71,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 4,
-      "Цветкова Наталия Анатольевна": 0,
-      "Шерин Александр Николаевич": 0
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 2,
+      "gas:candidate-vibid:2622000687620": 71,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 4,
+      "gas:candidate-vibid:2622000685453": 0,
+      "gas:candidate-vibid:2622000660602": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7042,16 +7042,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 120,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 21,
-      "Цветкова Наталия Анатольевна": 4,
-      "Шерин Александр Николаевич": 11
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 120,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 21,
+      "gas:candidate-vibid:2622000685453": 4,
+      "gas:candidate-vibid:2622000660602": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7102,16 +7102,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 61,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 5,
-      "Цветкова Наталия Анатольевна": 2,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 61,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 5,
+      "gas:candidate-vibid:2622000685453": 2,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7162,16 +7162,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 1,
-      "Митина Елена Анатольевна": 34,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 6,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 13
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 1,
+      "gas:candidate-vibid:2622000687620": 34,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 6,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7222,16 +7222,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 0,
-      "Митина Елена Анатольевна": 58,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 13,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 3
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 0,
+      "gas:candidate-vibid:2622000687620": 58,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 13,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7282,16 +7282,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 70,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 8,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 12
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 70,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 8,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7342,16 +7342,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 73,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 3,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 4
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 73,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 3,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7402,16 +7402,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 4,
-      "Митина Елена Анатольевна": 141,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 9,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 4
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 4,
+      "gas:candidate-vibid:2622000687620": 141,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 9,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7462,16 +7462,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 26,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 10,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 3
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 26,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 10,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7522,16 +7522,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 4,
-      "Митина Елена Анатольевна": 314,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 18,
-      "Цветкова Наталия Анатольевна": 0,
-      "Шерин Александр Николаевич": 19
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 4,
+      "gas:candidate-vibid:2622000687620": 314,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 18,
+      "gas:candidate-vibid:2622000685453": 0,
+      "gas:candidate-vibid:2622000660602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7582,16 +7582,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 12,
-      "Митина Елена Анатольевна": 29,
-      "Самохин Александр Владимирович": 1,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 37,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 6
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 12,
+      "gas:candidate-vibid:2622000687620": 29,
+      "gas:candidate-vibid:2622000687666": 1,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 37,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633371&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633371&type=464",
@@ -7642,16 +7642,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 102,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 6,
-      "Федоткин Владимир Николаевич": 76,
-      "Цветкова Наталия Анатольевна": 17,
-      "Шерин Александр Николаевич": 39
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 102,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 6,
+      "gas:candidate-vibid:2622000687069": 76,
+      "gas:candidate-vibid:2622000685453": 17,
+      "gas:candidate-vibid:2622000660602": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -7702,16 +7702,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 25,
-      "Митина Елена Анатольевна": 207,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 153,
-      "Цветкова Наталия Анатольевна": 78,
-      "Шерин Александр Николаевич": 117
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 25,
+      "gas:candidate-vibid:2622000687620": 207,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 153,
+      "gas:candidate-vibid:2622000685453": 78,
+      "gas:candidate-vibid:2622000660602": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -7762,16 +7762,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 31,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 237,
-      "Самохин Александр Владимирович": 24,
-      "Тамбовцев Игорь Федорович": 19,
-      "Тюрин Александр Владимирович": 21,
-      "Федоткин Владимир Николаевич": 121,
-      "Цветкова Наталия Анатольевна": 61,
-      "Шерин Александр Николаевич": 149
+      "gas:candidate-vibid:2622000687459": 31,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 237,
+      "gas:candidate-vibid:2622000687666": 24,
+      "gas:candidate-vibid:2622000687471": 19,
+      "gas:candidate-vibid:2622000687111": 21,
+      "gas:candidate-vibid:2622000687069": 121,
+      "gas:candidate-vibid:2622000685453": 61,
+      "gas:candidate-vibid:2622000660602": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -7822,16 +7822,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 186,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 20,
-      "Федоткин Владимир Николаевич": 210,
-      "Цветкова Наталия Анатольевна": 78,
-      "Шерин Александр Николаевич": 167
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 186,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 20,
+      "gas:candidate-vibid:2622000687069": 210,
+      "gas:candidate-vibid:2622000685453": 78,
+      "gas:candidate-vibid:2622000660602": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -7882,16 +7882,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 425,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 105,
-      "Цветкова Наталия Анатольевна": 54,
-      "Шерин Александр Николаевич": 128
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 425,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 105,
+      "gas:candidate-vibid:2622000685453": 54,
+      "gas:candidate-vibid:2622000660602": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -7942,16 +7942,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 180,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 161,
-      "Цветкова Наталия Анатольевна": 49,
-      "Шерин Александр Николаевич": 194
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 180,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 161,
+      "gas:candidate-vibid:2622000685453": 49,
+      "gas:candidate-vibid:2622000660602": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8002,16 +8002,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 156,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 120,
-      "Цветкова Наталия Анатольевна": 47,
-      "Шерин Александр Николаевич": 111
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 156,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 120,
+      "gas:candidate-vibid:2622000685453": 47,
+      "gas:candidate-vibid:2622000660602": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8062,16 +8062,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 164,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 154,
-      "Цветкова Наталия Анатольевна": 56,
-      "Шерин Александр Николаевич": 138
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 164,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 154,
+      "gas:candidate-vibid:2622000685453": 56,
+      "gas:candidate-vibid:2622000660602": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8122,16 +8122,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 36,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 19,
-      "Митина Елена Анатольевна": 142,
-      "Самохин Александр Владимирович": 14,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 191,
-      "Цветкова Наталия Анатольевна": 51,
-      "Шерин Александр Николаевич": 111
+      "gas:candidate-vibid:2622000687459": 36,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 19,
+      "gas:candidate-vibid:2622000687620": 142,
+      "gas:candidate-vibid:2622000687666": 14,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 191,
+      "gas:candidate-vibid:2622000685453": 51,
+      "gas:candidate-vibid:2622000660602": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8182,16 +8182,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 22,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 210,
-      "Самохин Александр Владимирович": 22,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 239,
-      "Цветкова Наталия Анатольевна": 66,
-      "Шерин Александр Николаевич": 148
+      "gas:candidate-vibid:2622000687459": 22,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 210,
+      "gas:candidate-vibid:2622000687666": 22,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 239,
+      "gas:candidate-vibid:2622000685453": 66,
+      "gas:candidate-vibid:2622000660602": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8242,16 +8242,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 36,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 15,
-      "Митина Елена Анатольевна": 197,
-      "Самохин Александр Владимирович": 17,
-      "Тамбовцев Игорь Федорович": 15,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 205,
-      "Цветкова Наталия Анатольевна": 49,
-      "Шерин Александр Николаевич": 147
+      "gas:candidate-vibid:2622000687459": 36,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 15,
+      "gas:candidate-vibid:2622000687620": 197,
+      "gas:candidate-vibid:2622000687666": 17,
+      "gas:candidate-vibid:2622000687471": 15,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 205,
+      "gas:candidate-vibid:2622000685453": 49,
+      "gas:candidate-vibid:2622000660602": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8302,16 +8302,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 16,
-      "Митина Елена Анатольевна": 134,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 15,
-      "Федоткин Владимир Николаевич": 103,
-      "Цветкова Наталия Анатольевна": 28,
-      "Шерин Александр Николаевич": 97
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 16,
+      "gas:candidate-vibid:2622000687620": 134,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 15,
+      "gas:candidate-vibid:2622000687069": 103,
+      "gas:candidate-vibid:2622000685453": 28,
+      "gas:candidate-vibid:2622000660602": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8362,16 +8362,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 210,
-      "Самохин Александр Владимирович": 19,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 24,
-      "Федоткин Владимир Николаевич": 194,
-      "Цветкова Наталия Анатольевна": 95,
-      "Шерин Александр Николаевич": 150
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 210,
+      "gas:candidate-vibid:2622000687666": 19,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 24,
+      "gas:candidate-vibid:2622000687069": 194,
+      "gas:candidate-vibid:2622000685453": 95,
+      "gas:candidate-vibid:2622000660602": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8422,16 +8422,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 191,
-      "Самохин Александр Владимирович": 26,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 18,
-      "Федоткин Владимир Николаевич": 194,
-      "Цветкова Наталия Анатольевна": 91,
-      "Шерин Александр Николаевич": 167
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 191,
+      "gas:candidate-vibid:2622000687666": 26,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 18,
+      "gas:candidate-vibid:2622000687069": 194,
+      "gas:candidate-vibid:2622000685453": 91,
+      "gas:candidate-vibid:2622000660602": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8482,16 +8482,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 216,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 209,
-      "Цветкова Наталия Анатольевна": 95,
-      "Шерин Александр Николаевич": 163
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 216,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 209,
+      "gas:candidate-vibid:2622000685453": 95,
+      "gas:candidate-vibid:2622000660602": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8542,16 +8542,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 12,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 19,
-      "Митина Елена Анатольевна": 182,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 22,
-      "Федоткин Владимир Николаевич": 161,
-      "Цветкова Наталия Анатольевна": 62,
-      "Шерин Александр Николаевич": 121
+      "gas:candidate-vibid:2622000687459": 12,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 19,
+      "gas:candidate-vibid:2622000687620": 182,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 22,
+      "gas:candidate-vibid:2622000687069": 161,
+      "gas:candidate-vibid:2622000685453": 62,
+      "gas:candidate-vibid:2622000660602": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8602,16 +8602,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 26,
-      "Митина Елена Анатольевна": 155,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 15,
-      "Федоткин Владимир Николаевич": 178,
-      "Цветкова Наталия Анатольевна": 102,
-      "Шерин Александр Николаевич": 141
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 26,
+      "gas:candidate-vibid:2622000687620": 155,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 15,
+      "gas:candidate-vibid:2622000687069": 178,
+      "gas:candidate-vibid:2622000685453": 102,
+      "gas:candidate-vibid:2622000660602": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8662,16 +8662,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 198,
-      "Самохин Александр Владимирович": 20,
-      "Тамбовцев Игорь Федорович": 17,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 207,
-      "Цветкова Наталия Анатольевна": 115,
-      "Шерин Александр Николаевич": 204
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 198,
+      "gas:candidate-vibid:2622000687666": 20,
+      "gas:candidate-vibid:2622000687471": 17,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 207,
+      "gas:candidate-vibid:2622000685453": 115,
+      "gas:candidate-vibid:2622000660602": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8722,16 +8722,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 26,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 176,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 18,
-      "Федоткин Владимир Николаевич": 210,
-      "Цветкова Наталия Анатольевна": 106,
-      "Шерин Александр Николаевич": 174
+      "gas:candidate-vibid:2622000687459": 26,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 176,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 18,
+      "gas:candidate-vibid:2622000687069": 210,
+      "gas:candidate-vibid:2622000685453": 106,
+      "gas:candidate-vibid:2622000660602": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8782,16 +8782,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 57,
-      "Митина Елена Анатольевна": 219,
-      "Самохин Александр Владимирович": 25,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 21,
-      "Федоткин Владимир Николаевич": 250,
-      "Цветкова Наталия Анатольевна": 141,
-      "Шерин Александр Николаевич": 193
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 57,
+      "gas:candidate-vibid:2622000687620": 219,
+      "gas:candidate-vibid:2622000687666": 25,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 21,
+      "gas:candidate-vibid:2622000687069": 250,
+      "gas:candidate-vibid:2622000685453": 141,
+      "gas:candidate-vibid:2622000660602": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8842,16 +8842,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 185,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 168,
-      "Цветкова Наталия Анатольевна": 92,
-      "Шерин Александр Николаевич": 153
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 185,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 168,
+      "gas:candidate-vibid:2622000685453": 92,
+      "gas:candidate-vibid:2622000660602": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8902,16 +8902,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 185,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 21,
-      "Федоткин Владимир Николаевич": 151,
-      "Цветкова Наталия Анатольевна": 80,
-      "Шерин Александр Николаевич": 140
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 185,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 21,
+      "gas:candidate-vibid:2622000687069": 151,
+      "gas:candidate-vibid:2622000685453": 80,
+      "gas:candidate-vibid:2622000660602": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -8962,16 +8962,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 16,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 136,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 146,
-      "Цветкова Наталия Анатольевна": 62,
-      "Шерин Александр Николаевич": 109
+      "gas:candidate-vibid:2622000687459": 16,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 136,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 146,
+      "gas:candidate-vibid:2622000685453": 62,
+      "gas:candidate-vibid:2622000660602": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9022,16 +9022,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 26,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 34,
-      "Митина Елена Анатольевна": 226,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 15,
-      "Тюрин Александр Владимирович": 24,
-      "Федоткин Владимир Николаевич": 198,
-      "Цветкова Наталия Анатольевна": 103,
-      "Шерин Александр Николаевич": 186
+      "gas:candidate-vibid:2622000687459": 26,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 34,
+      "gas:candidate-vibid:2622000687620": 226,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 15,
+      "gas:candidate-vibid:2622000687111": 24,
+      "gas:candidate-vibid:2622000687069": 198,
+      "gas:candidate-vibid:2622000685453": 103,
+      "gas:candidate-vibid:2622000660602": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9082,16 +9082,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 30,
-      "Митина Елена Анатольевна": 164,
-      "Самохин Александр Владимирович": 14,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 206,
-      "Цветкова Наталия Анатольевна": 79,
-      "Шерин Александр Николаевич": 111
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 30,
+      "gas:candidate-vibid:2622000687620": 164,
+      "gas:candidate-vibid:2622000687666": 14,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 206,
+      "gas:candidate-vibid:2622000685453": 79,
+      "gas:candidate-vibid:2622000660602": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9142,16 +9142,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 22,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 216,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 35,
-      "Федоткин Владимир Николаевич": 263,
-      "Цветкова Наталия Анатольевна": 109,
-      "Шерин Александр Николаевич": 201
+      "gas:candidate-vibid:2622000687459": 22,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 216,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 35,
+      "gas:candidate-vibid:2622000687069": 263,
+      "gas:candidate-vibid:2622000685453": 109,
+      "gas:candidate-vibid:2622000660602": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9202,16 +9202,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 237,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 19,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 217,
-      "Цветкова Наталия Анатольевна": 88,
-      "Шерин Александр Николаевич": 192
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 237,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 19,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 217,
+      "gas:candidate-vibid:2622000685453": 88,
+      "gas:candidate-vibid:2622000660602": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9262,16 +9262,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 26,
-      "Денисенко Владимир Ильич": 23,
-      "Лукьянова Галина Валентиновна": 26,
-      "Митина Елена Анатольевна": 215,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 27,
-      "Федоткин Владимир Николаевич": 198,
-      "Цветкова Наталия Анатольевна": 88,
-      "Шерин Александр Николаевич": 139
+      "gas:candidate-vibid:2622000687459": 26,
+      "gas:candidate-vibid:2622000687448": 23,
+      "gas:candidate-vibid:2622000687153": 26,
+      "gas:candidate-vibid:2622000687620": 215,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 27,
+      "gas:candidate-vibid:2622000687069": 198,
+      "gas:candidate-vibid:2622000685453": 88,
+      "gas:candidate-vibid:2622000660602": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9322,16 +9322,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 174,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 140,
-      "Цветкова Наталия Анатольевна": 82,
-      "Шерин Александр Николаевич": 136
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 174,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 140,
+      "gas:candidate-vibid:2622000685453": 82,
+      "gas:candidate-vibid:2622000660602": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9382,16 +9382,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 20,
-      "Лукьянова Галина Валентиновна": 50,
-      "Митина Елена Анатольевна": 297,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 20,
-      "Тюрин Александр Владимирович": 32,
-      "Федоткин Владимир Николаевич": 268,
-      "Цветкова Наталия Анатольевна": 118,
-      "Шерин Александр Николаевич": 188
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 20,
+      "gas:candidate-vibid:2622000687153": 50,
+      "gas:candidate-vibid:2622000687620": 297,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 20,
+      "gas:candidate-vibid:2622000687111": 32,
+      "gas:candidate-vibid:2622000687069": 268,
+      "gas:candidate-vibid:2622000685453": 118,
+      "gas:candidate-vibid:2622000660602": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9442,16 +9442,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 34,
-      "Митина Елена Анатольевна": 213,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 17,
-      "Тюрин Александр Владимирович": 24,
-      "Федоткин Владимир Николаевич": 186,
-      "Цветкова Наталия Анатольевна": 94,
-      "Шерин Александр Николаевич": 172
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 34,
+      "gas:candidate-vibid:2622000687620": 213,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 17,
+      "gas:candidate-vibid:2622000687111": 24,
+      "gas:candidate-vibid:2622000687069": 186,
+      "gas:candidate-vibid:2622000685453": 94,
+      "gas:candidate-vibid:2622000660602": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9502,16 +9502,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 29,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 225,
-      "Самохин Александр Владимирович": 23,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 34,
-      "Федоткин Владимир Николаевич": 200,
-      "Цветкова Наталия Анатольевна": 117,
-      "Шерин Александр Николаевич": 181
+      "gas:candidate-vibid:2622000687459": 29,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 225,
+      "gas:candidate-vibid:2622000687666": 23,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 34,
+      "gas:candidate-vibid:2622000687069": 200,
+      "gas:candidate-vibid:2622000685453": 117,
+      "gas:candidate-vibid:2622000660602": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9562,16 +9562,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 31,
-      "Митина Елена Анатольевна": 194,
-      "Самохин Александр Владимирович": 26,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 131,
-      "Цветкова Наталия Анатольевна": 76,
-      "Шерин Александр Николаевич": 153
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 31,
+      "gas:candidate-vibid:2622000687620": 194,
+      "gas:candidate-vibid:2622000687666": 26,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 131,
+      "gas:candidate-vibid:2622000685453": 76,
+      "gas:candidate-vibid:2622000660602": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9622,16 +9622,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 22,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 42,
-      "Митина Елена Анатольевна": 309,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 24,
-      "Федоткин Владимир Николаевич": 209,
-      "Цветкова Наталия Анатольевна": 126,
-      "Шерин Александр Николаевич": 192
+      "gas:candidate-vibid:2622000687459": 22,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 42,
+      "gas:candidate-vibid:2622000687620": 309,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 24,
+      "gas:candidate-vibid:2622000687069": 209,
+      "gas:candidate-vibid:2622000685453": 126,
+      "gas:candidate-vibid:2622000660602": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9682,16 +9682,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 31,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 42,
-      "Митина Елена Анатольевна": 237,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 191,
-      "Цветкова Наталия Анатольевна": 92,
-      "Шерин Александр Николаевич": 178
+      "gas:candidate-vibid:2622000687459": 31,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 42,
+      "gas:candidate-vibid:2622000687620": 237,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 191,
+      "gas:candidate-vibid:2622000685453": 92,
+      "gas:candidate-vibid:2622000660602": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9742,16 +9742,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 30,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 34,
-      "Митина Елена Анатольевна": 247,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 15,
-      "Тюрин Александр Владимирович": 35,
-      "Федоткин Владимир Николаевич": 235,
-      "Цветкова Наталия Анатольевна": 93,
-      "Шерин Александр Николаевич": 175
+      "gas:candidate-vibid:2622000687459": 30,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 34,
+      "gas:candidate-vibid:2622000687620": 247,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 15,
+      "gas:candidate-vibid:2622000687111": 35,
+      "gas:candidate-vibid:2622000687069": 235,
+      "gas:candidate-vibid:2622000685453": 93,
+      "gas:candidate-vibid:2622000660602": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9802,16 +9802,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 25,
-      "Митина Елена Анатольевна": 249,
-      "Самохин Александр Владимирович": 21,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 27,
-      "Федоткин Владимир Николаевич": 181,
-      "Цветкова Наталия Анатольевна": 89,
-      "Шерин Александр Николаевич": 182
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 25,
+      "gas:candidate-vibid:2622000687620": 249,
+      "gas:candidate-vibid:2622000687666": 21,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 27,
+      "gas:candidate-vibid:2622000687069": 181,
+      "gas:candidate-vibid:2622000685453": 89,
+      "gas:candidate-vibid:2622000660602": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9862,16 +9862,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 195,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 193,
-      "Цветкова Наталия Анатольевна": 70,
-      "Шерин Александр Николаевич": 153
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 195,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 193,
+      "gas:candidate-vibid:2622000685453": 70,
+      "gas:candidate-vibid:2622000660602": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9922,16 +9922,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 14,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 16,
-      "Митина Елена Анатольевна": 185,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 182,
-      "Цветкова Наталия Анатольевна": 62,
-      "Шерин Александр Николаевич": 118
+      "gas:candidate-vibid:2622000687459": 14,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 16,
+      "gas:candidate-vibid:2622000687620": 185,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 182,
+      "gas:candidate-vibid:2622000685453": 62,
+      "gas:candidate-vibid:2622000660602": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -9982,16 +9982,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 24,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 30,
-      "Митина Елена Анатольевна": 233,
-      "Самохин Александр Владимирович": 20,
-      "Тамбовцев Игорь Федорович": 20,
-      "Тюрин Александр Владимирович": 26,
-      "Федоткин Владимир Николаевич": 167,
-      "Цветкова Наталия Анатольевна": 118,
-      "Шерин Александр Николаевич": 202
+      "gas:candidate-vibid:2622000687459": 24,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 30,
+      "gas:candidate-vibid:2622000687620": 233,
+      "gas:candidate-vibid:2622000687666": 20,
+      "gas:candidate-vibid:2622000687471": 20,
+      "gas:candidate-vibid:2622000687111": 26,
+      "gas:candidate-vibid:2622000687069": 167,
+      "gas:candidate-vibid:2622000685453": 118,
+      "gas:candidate-vibid:2622000660602": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10042,16 +10042,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 26,
-      "Денисенко Владимир Ильич": 21,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 243,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 22,
-      "Тюрин Александр Владимирович": 33,
-      "Федоткин Владимир Николаевич": 179,
-      "Цветкова Наталия Анатольевна": 98,
-      "Шерин Александр Николаевич": 192
+      "gas:candidate-vibid:2622000687459": 26,
+      "gas:candidate-vibid:2622000687448": 21,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 243,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 22,
+      "gas:candidate-vibid:2622000687111": 33,
+      "gas:candidate-vibid:2622000687069": 179,
+      "gas:candidate-vibid:2622000685453": 98,
+      "gas:candidate-vibid:2622000660602": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10102,16 +10102,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 32,
-      "Митина Елена Анатольевна": 160,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 125,
-      "Цветкова Наталия Анатольевна": 34,
-      "Шерин Александр Николаевич": 103
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 32,
+      "gas:candidate-vibid:2622000687620": 160,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 125,
+      "gas:candidate-vibid:2622000685453": 34,
+      "gas:candidate-vibid:2622000660602": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10162,16 +10162,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 103,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 88,
-      "Цветкова Наталия Анатольевна": 27,
-      "Шерин Александр Николаевич": 84
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 103,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 88,
+      "gas:candidate-vibid:2622000685453": 27,
+      "gas:candidate-vibid:2622000660602": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10222,16 +10222,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 166,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 110,
-      "Цветкова Наталия Анатольевна": 39,
-      "Шерин Александр Николаевич": 117
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 166,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 110,
+      "gas:candidate-vibid:2622000685453": 39,
+      "gas:candidate-vibid:2622000660602": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10282,16 +10282,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 25,
-      "Митина Елена Анатольевна": 141,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 6,
-      "Федоткин Владимир Николаевич": 97,
-      "Цветкова Наталия Анатольевна": 36,
-      "Шерин Александр Николаевич": 87
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 25,
+      "gas:candidate-vibid:2622000687620": 141,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 6,
+      "gas:candidate-vibid:2622000687069": 97,
+      "gas:candidate-vibid:2622000685453": 36,
+      "gas:candidate-vibid:2622000660602": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10342,16 +10342,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 166,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 18,
-      "Федоткин Владимир Николаевич": 101,
-      "Цветкова Наталия Анатольевна": 40,
-      "Шерин Александр Николаевич": 102
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 166,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 18,
+      "gas:candidate-vibid:2622000687069": 101,
+      "gas:candidate-vibid:2622000685453": 40,
+      "gas:candidate-vibid:2622000660602": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10402,16 +10402,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 43,
-      "Митина Елена Анатольевна": 201,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 9,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 125,
-      "Цветкова Наталия Анатольевна": 45,
-      "Шерин Александр Николаевич": 141
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 43,
+      "gas:candidate-vibid:2622000687620": 201,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 9,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 125,
+      "gas:candidate-vibid:2622000685453": 45,
+      "gas:candidate-vibid:2622000660602": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10462,16 +10462,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 42,
-      "Митина Елена Анатольевна": 181,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 88,
-      "Цветкова Наталия Анатольевна": 46,
-      "Шерин Александр Николаевич": 151
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 42,
+      "gas:candidate-vibid:2622000687620": 181,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 88,
+      "gas:candidate-vibid:2622000685453": 46,
+      "gas:candidate-vibid:2622000660602": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10522,16 +10522,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 12,
-      "Митина Елена Анатольевна": 153,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 86,
-      "Цветкова Наталия Анатольевна": 51,
-      "Шерин Александр Николаевич": 110
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 12,
+      "gas:candidate-vibid:2622000687620": 153,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 86,
+      "gas:candidate-vibid:2622000685453": 51,
+      "gas:candidate-vibid:2622000660602": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633372&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633372&type=464",
@@ -10582,16 +10582,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 23,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 191,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 192,
-      "Цветкова Наталия Анатольевна": 44,
-      "Шерин Александр Николаевич": 104
+      "gas:candidate-vibid:2622000687459": 23,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 191,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 192,
+      "gas:candidate-vibid:2622000685453": 44,
+      "gas:candidate-vibid:2622000660602": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -10642,16 +10642,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 12,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 14,
-      "Митина Елена Анатольевна": 189,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 183,
-      "Цветкова Наталия Анатольевна": 54,
-      "Шерин Александр Николаевич": 119
+      "gas:candidate-vibid:2622000687459": 12,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 14,
+      "gas:candidate-vibid:2622000687620": 189,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 183,
+      "gas:candidate-vibid:2622000685453": 54,
+      "gas:candidate-vibid:2622000660602": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -10702,16 +10702,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 8,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 37,
-      "Митина Елена Анатольевна": 212,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 109,
-      "Цветкова Наталия Анатольевна": 76,
-      "Шерин Александр Николаевич": 116
+      "gas:candidate-vibid:2622000687459": 8,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 37,
+      "gas:candidate-vibid:2622000687620": 212,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 109,
+      "gas:candidate-vibid:2622000685453": 76,
+      "gas:candidate-vibid:2622000660602": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -10762,16 +10762,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 16,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 122,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 76,
-      "Цветкова Наталия Анатольевна": 25,
-      "Шерин Александр Николаевич": 65
+      "gas:candidate-vibid:2622000687459": 16,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 122,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 76,
+      "gas:candidate-vibid:2622000685453": 25,
+      "gas:candidate-vibid:2622000660602": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -10822,16 +10822,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 185,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 168,
-      "Цветкова Наталия Анатольевна": 54,
-      "Шерин Александр Николаевич": 127
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 185,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 168,
+      "gas:candidate-vibid:2622000685453": 54,
+      "gas:candidate-vibid:2622000660602": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -10882,16 +10882,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 173,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 27,
-      "Федоткин Владимир Николаевич": 138,
-      "Цветкова Наталия Анатольевна": 61,
-      "Шерин Александр Николаевич": 122
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 173,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 27,
+      "gas:candidate-vibid:2622000687069": 138,
+      "gas:candidate-vibid:2622000685453": 61,
+      "gas:candidate-vibid:2622000660602": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -10942,16 +10942,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 229,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 18,
-      "Федоткин Владимир Николаевич": 210,
-      "Цветкова Наталия Анатольевна": 55,
-      "Шерин Александр Николаевич": 138
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 229,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 18,
+      "gas:candidate-vibid:2622000687069": 210,
+      "gas:candidate-vibid:2622000685453": 55,
+      "gas:candidate-vibid:2622000660602": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11002,16 +11002,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 20,
-      "Лукьянова Галина Валентиновна": 36,
-      "Митина Елена Анатольевна": 254,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 18,
-      "Тюрин Александр Владимирович": 21,
-      "Федоткин Владимир Николаевич": 170,
-      "Цветкова Наталия Анатольевна": 57,
-      "Шерин Александр Николаевич": 167
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 20,
+      "gas:candidate-vibid:2622000687153": 36,
+      "gas:candidate-vibid:2622000687620": 254,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 18,
+      "gas:candidate-vibid:2622000687111": 21,
+      "gas:candidate-vibid:2622000687069": 170,
+      "gas:candidate-vibid:2622000685453": 57,
+      "gas:candidate-vibid:2622000660602": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11062,16 +11062,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 13,
-      "Митина Елена Анатольевна": 177,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 123,
-      "Цветкова Наталия Анатольевна": 33,
-      "Шерин Александр Николаевич": 136
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 13,
+      "gas:candidate-vibid:2622000687620": 177,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 123,
+      "gas:candidate-vibid:2622000685453": 33,
+      "gas:candidate-vibid:2622000660602": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11122,16 +11122,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 16,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 19,
-      "Митина Елена Анатольевна": 209,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 150,
-      "Цветкова Наталия Анатольевна": 33,
-      "Шерин Александр Николаевич": 141
+      "gas:candidate-vibid:2622000687459": 16,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 19,
+      "gas:candidate-vibid:2622000687620": 209,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 150,
+      "gas:candidate-vibid:2622000685453": 33,
+      "gas:candidate-vibid:2622000660602": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11182,16 +11182,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 181,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 12,
-      "Федоткин Владимир Николаевич": 179,
-      "Цветкова Наталия Анатольевна": 58,
-      "Шерин Александр Николаевич": 142
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 181,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 12,
+      "gas:candidate-vibid:2622000687069": 179,
+      "gas:candidate-vibid:2622000685453": 58,
+      "gas:candidate-vibid:2622000660602": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11242,16 +11242,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 184,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 29,
-      "Федоткин Владимир Николаевич": 221,
-      "Цветкова Наталия Анатольевна": 65,
-      "Шерин Александр Николаевич": 174
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 184,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 29,
+      "gas:candidate-vibid:2622000687069": 221,
+      "gas:candidate-vibid:2622000685453": 65,
+      "gas:candidate-vibid:2622000660602": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11302,16 +11302,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 170,
-      "Самохин Александр Владимирович": 14,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 151,
-      "Цветкова Наталия Анатольевна": 67,
-      "Шерин Александр Николаевич": 151
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 170,
+      "gas:candidate-vibid:2622000687666": 14,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 151,
+      "gas:candidate-vibid:2622000685453": 67,
+      "gas:candidate-vibid:2622000660602": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11362,16 +11362,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 26,
-      "Митина Елена Анатольевна": 203,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 22,
-      "Федоткин Владимир Николаевич": 165,
-      "Цветкова Наталия Анатольевна": 71,
-      "Шерин Александр Николаевич": 144
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 26,
+      "gas:candidate-vibid:2622000687620": 203,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 22,
+      "gas:candidate-vibid:2622000687069": 165,
+      "gas:candidate-vibid:2622000685453": 71,
+      "gas:candidate-vibid:2622000660602": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11422,16 +11422,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 192,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 184,
-      "Цветкова Наталия Анатольевна": 37,
-      "Шерин Александр Николаевич": 126
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 192,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 184,
+      "gas:candidate-vibid:2622000685453": 37,
+      "gas:candidate-vibid:2622000660602": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11482,16 +11482,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 14,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 13,
-      "Митина Елена Анатольевна": 186,
-      "Самохин Александр Владимирович": 14,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 22,
-      "Федоткин Владимир Николаевич": 135,
-      "Цветкова Наталия Анатольевна": 33,
-      "Шерин Александр Николаевич": 140
+      "gas:candidate-vibid:2622000687459": 14,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 13,
+      "gas:candidate-vibid:2622000687620": 186,
+      "gas:candidate-vibid:2622000687666": 14,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 22,
+      "gas:candidate-vibid:2622000687069": 135,
+      "gas:candidate-vibid:2622000685453": 33,
+      "gas:candidate-vibid:2622000660602": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11542,16 +11542,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 234,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 184,
-      "Цветкова Наталия Анатольевна": 54,
-      "Шерин Александр Николаевич": 164
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 234,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 184,
+      "gas:candidate-vibid:2622000685453": 54,
+      "gas:candidate-vibid:2622000660602": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11602,16 +11602,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 25,
-      "Митина Елена Анатольевна": 221,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 22,
-      "Федоткин Владимир Николаевич": 212,
-      "Цветкова Наталия Анатольевна": 75,
-      "Шерин Александр Николаевич": 159
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 25,
+      "gas:candidate-vibid:2622000687620": 221,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 22,
+      "gas:candidate-vibid:2622000687069": 212,
+      "gas:candidate-vibid:2622000685453": 75,
+      "gas:candidate-vibid:2622000660602": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11662,16 +11662,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 22,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 182,
-      "Самохин Александр Владимирович": 14,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 194,
-      "Цветкова Наталия Анатольевна": 50,
-      "Шерин Александр Николаевич": 153
+      "gas:candidate-vibid:2622000687459": 22,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 182,
+      "gas:candidate-vibid:2622000687666": 14,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 194,
+      "gas:candidate-vibid:2622000685453": 50,
+      "gas:candidate-vibid:2622000660602": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11722,16 +11722,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 30,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 19,
-      "Митина Елена Анатольевна": 204,
-      "Самохин Александр Владимирович": 19,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 216,
-      "Цветкова Наталия Анатольевна": 68,
-      "Шерин Александр Николаевич": 138
+      "gas:candidate-vibid:2622000687459": 30,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 19,
+      "gas:candidate-vibid:2622000687620": 204,
+      "gas:candidate-vibid:2622000687666": 19,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 216,
+      "gas:candidate-vibid:2622000685453": 68,
+      "gas:candidate-vibid:2622000660602": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11782,16 +11782,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 37,
-      "Денисенко Владимир Ильич": 21,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 263,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 20,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 262,
-      "Цветкова Наталия Анатольевна": 77,
-      "Шерин Александр Николаевич": 185
+      "gas:candidate-vibid:2622000687459": 37,
+      "gas:candidate-vibid:2622000687448": 21,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 263,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 20,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 262,
+      "gas:candidate-vibid:2622000685453": 77,
+      "gas:candidate-vibid:2622000660602": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11842,16 +11842,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 22,
-      "Денисенко Владимир Ильич": 16,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 242,
-      "Самохин Александр Владимирович": 24,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 226,
-      "Цветкова Наталия Анатольевна": 66,
-      "Шерин Александр Николаевич": 158
+      "gas:candidate-vibid:2622000687459": 22,
+      "gas:candidate-vibid:2622000687448": 16,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 242,
+      "gas:candidate-vibid:2622000687666": 24,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 226,
+      "gas:candidate-vibid:2622000685453": 66,
+      "gas:candidate-vibid:2622000660602": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11902,16 +11902,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 29,
-      "Денисенко Владимир Ильич": 19,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 218,
-      "Самохин Александр Владимирович": 24,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 24,
-      "Федоткин Владимир Николаевич": 203,
-      "Цветкова Наталия Анатольевна": 59,
-      "Шерин Александр Николаевич": 129
+      "gas:candidate-vibid:2622000687459": 29,
+      "gas:candidate-vibid:2622000687448": 19,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 218,
+      "gas:candidate-vibid:2622000687666": 24,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 24,
+      "gas:candidate-vibid:2622000687069": 203,
+      "gas:candidate-vibid:2622000685453": 59,
+      "gas:candidate-vibid:2622000660602": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -11962,16 +11962,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 23,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 199,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 161,
-      "Цветкова Наталия Анатольевна": 54,
-      "Шерин Александр Николаевич": 123
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 23,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 199,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 161,
+      "gas:candidate-vibid:2622000685453": 54,
+      "gas:candidate-vibid:2622000660602": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12022,16 +12022,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 22,
-      "Денисенко Владимир Ильич": 20,
-      "Лукьянова Галина Валентиновна": 35,
-      "Митина Елена Анатольевна": 190,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 16,
-      "Тюрин Александр Владимирович": 16,
-      "Федоткин Владимир Николаевич": 194,
-      "Цветкова Наталия Анатольевна": 66,
-      "Шерин Александр Николаевич": 171
+      "gas:candidate-vibid:2622000687459": 22,
+      "gas:candidate-vibid:2622000687448": 20,
+      "gas:candidate-vibid:2622000687153": 35,
+      "gas:candidate-vibid:2622000687620": 190,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 16,
+      "gas:candidate-vibid:2622000687111": 16,
+      "gas:candidate-vibid:2622000687069": 194,
+      "gas:candidate-vibid:2622000685453": 66,
+      "gas:candidate-vibid:2622000660602": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12082,16 +12082,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 28,
-      "Денисенко Владимир Ильич": 19,
-      "Лукьянова Галина Валентиновна": 30,
-      "Митина Елена Анатольевна": 234,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 18,
-      "Тюрин Александр Владимирович": 15,
-      "Федоткин Владимир Николаевич": 231,
-      "Цветкова Наталия Анатольевна": 58,
-      "Шерин Александр Николаевич": 162
+      "gas:candidate-vibid:2622000687459": 28,
+      "gas:candidate-vibid:2622000687448": 19,
+      "gas:candidate-vibid:2622000687153": 30,
+      "gas:candidate-vibid:2622000687620": 234,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 18,
+      "gas:candidate-vibid:2622000687111": 15,
+      "gas:candidate-vibid:2622000687069": 231,
+      "gas:candidate-vibid:2622000685453": 58,
+      "gas:candidate-vibid:2622000660602": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12142,16 +12142,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 19,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 196,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 18,
-      "Федоткин Владимир Николаевич": 190,
-      "Цветкова Наталия Анатольевна": 43,
-      "Шерин Александр Николаевич": 153
+      "gas:candidate-vibid:2622000687459": 19,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 196,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 18,
+      "gas:candidate-vibid:2622000687069": 190,
+      "gas:candidate-vibid:2622000685453": 43,
+      "gas:candidate-vibid:2622000660602": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12202,16 +12202,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 7,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 182,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 21,
-      "Федоткин Владимир Николаевич": 162,
-      "Цветкова Наталия Анатольевна": 42,
-      "Шерин Александр Николаевич": 105
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 7,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 182,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 21,
+      "gas:candidate-vibid:2622000687069": 162,
+      "gas:candidate-vibid:2622000685453": 42,
+      "gas:candidate-vibid:2622000660602": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12262,16 +12262,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 31,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 230,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 186,
-      "Цветкова Наталия Анатольевна": 56,
-      "Шерин Александр Николаевич": 141
+      "gas:candidate-vibid:2622000687459": 31,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 230,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 186,
+      "gas:candidate-vibid:2622000685453": 56,
+      "gas:candidate-vibid:2622000660602": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12322,16 +12322,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 35,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 18,
-      "Митина Елена Анатольевна": 218,
-      "Самохин Александр Владимирович": 23,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 119,
-      "Цветкова Наталия Анатольевна": 35,
-      "Шерин Александр Николаевич": 119
+      "gas:candidate-vibid:2622000687459": 35,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 18,
+      "gas:candidate-vibid:2622000687620": 218,
+      "gas:candidate-vibid:2622000687666": 23,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 119,
+      "gas:candidate-vibid:2622000685453": 35,
+      "gas:candidate-vibid:2622000660602": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12382,16 +12382,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 250,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 19,
-      "Федоткин Владимир Николаевич": 196,
-      "Цветкова Наталия Анатольевна": 70,
-      "Шерин Александр Николаевич": 142
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 250,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 19,
+      "gas:candidate-vibid:2622000687069": 196,
+      "gas:candidate-vibid:2622000685453": 70,
+      "gas:candidate-vibid:2622000660602": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12442,16 +12442,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 13,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 178,
-      "Самохин Александр Владимирович": 9,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 26,
-      "Федоткин Владимир Николаевич": 115,
-      "Цветкова Наталия Анатольевна": 42,
-      "Шерин Александр Николаевич": 146
+      "gas:candidate-vibid:2622000687459": 13,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 178,
+      "gas:candidate-vibid:2622000687666": 9,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 26,
+      "gas:candidate-vibid:2622000687069": 115,
+      "gas:candidate-vibid:2622000685453": 42,
+      "gas:candidate-vibid:2622000660602": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12502,16 +12502,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 21,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 203,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 17,
-      "Федоткин Владимир Николаевич": 159,
-      "Цветкова Наталия Анатольевна": 41,
-      "Шерин Александр Николаевич": 145
+      "gas:candidate-vibid:2622000687459": 21,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 203,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 17,
+      "gas:candidate-vibid:2622000687069": 159,
+      "gas:candidate-vibid:2622000685453": 41,
+      "gas:candidate-vibid:2622000660602": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12562,16 +12562,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 262,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 155,
-      "Цветкова Наталия Анатольевна": 64,
-      "Шерин Александр Николаевич": 203
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 262,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 155,
+      "gas:candidate-vibid:2622000685453": 64,
+      "gas:candidate-vibid:2622000660602": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12622,16 +12622,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 26,
-      "Денисенко Владимир Ильич": 36,
-      "Лукьянова Галина Валентиновна": 49,
-      "Митина Елена Анатольевна": 457,
-      "Самохин Александр Владимирович": 30,
-      "Тамбовцев Игорь Федорович": 15,
-      "Тюрин Александр Владимирович": 34,
-      "Федоткин Владимир Николаевич": 197,
-      "Цветкова Наталия Анатольевна": 126,
-      "Шерин Александр Николаевич": 257
+      "gas:candidate-vibid:2622000687459": 26,
+      "gas:candidate-vibid:2622000687448": 36,
+      "gas:candidate-vibid:2622000687153": 49,
+      "gas:candidate-vibid:2622000687620": 457,
+      "gas:candidate-vibid:2622000687666": 30,
+      "gas:candidate-vibid:2622000687471": 15,
+      "gas:candidate-vibid:2622000687111": 34,
+      "gas:candidate-vibid:2622000687069": 197,
+      "gas:candidate-vibid:2622000685453": 126,
+      "gas:candidate-vibid:2622000660602": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12682,16 +12682,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 16,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 16,
-      "Митина Елена Анатольевна": 276,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 124,
-      "Цветкова Наталия Анатольевна": 67,
-      "Шерин Александр Николаевич": 174
+      "gas:candidate-vibid:2622000687459": 16,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 16,
+      "gas:candidate-vibid:2622000687620": 276,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 124,
+      "gas:candidate-vibid:2622000685453": 67,
+      "gas:candidate-vibid:2622000660602": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12742,16 +12742,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 158,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 81,
-      "Цветкова Наталия Анатольевна": 37,
-      "Шерин Александр Николаевич": 84
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 158,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 81,
+      "gas:candidate-vibid:2622000685453": 37,
+      "gas:candidate-vibid:2622000660602": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12802,16 +12802,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 49,
-      "Денисенко Владимир Ильич": 34,
-      "Лукьянова Галина Валентиновна": 72,
-      "Митина Елена Анатольевна": 976,
-      "Самохин Александр Владимирович": 37,
-      "Тамбовцев Игорь Федорович": 22,
-      "Тюрин Александр Владимирович": 37,
-      "Федоткин Владимир Николаевич": 81,
-      "Цветкова Наталия Анатольевна": 60,
-      "Шерин Александр Николаевич": 166
+      "gas:candidate-vibid:2622000687459": 49,
+      "gas:candidate-vibid:2622000687448": 34,
+      "gas:candidate-vibid:2622000687153": 72,
+      "gas:candidate-vibid:2622000687620": 976,
+      "gas:candidate-vibid:2622000687666": 37,
+      "gas:candidate-vibid:2622000687471": 22,
+      "gas:candidate-vibid:2622000687111": 37,
+      "gas:candidate-vibid:2622000687069": 81,
+      "gas:candidate-vibid:2622000685453": 60,
+      "gas:candidate-vibid:2622000660602": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12862,16 +12862,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 12,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 268,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 18,
-      "Федоткин Владимир Николаевич": 156,
-      "Цветкова Наталия Анатольевна": 53,
-      "Шерин Александр Николаевич": 140
+      "gas:candidate-vibid:2622000687459": 12,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 268,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 18,
+      "gas:candidate-vibid:2622000687069": 156,
+      "gas:candidate-vibid:2622000685453": 53,
+      "gas:candidate-vibid:2622000660602": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12922,16 +12922,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 17,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 10,
-      "Митина Елена Анатольевна": 174,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 12,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 111,
-      "Цветкова Наталия Анатольевна": 52,
-      "Шерин Александр Николаевич": 145
+      "gas:candidate-vibid:2622000687459": 17,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 10,
+      "gas:candidate-vibid:2622000687620": 174,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 12,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 111,
+      "gas:candidate-vibid:2622000685453": 52,
+      "gas:candidate-vibid:2622000660602": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -12982,16 +12982,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 14,
-      "Денисенко Владимир Ильич": 11,
-      "Лукьянова Галина Валентиновна": 24,
-      "Митина Елена Анатольевна": 192,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 23,
-      "Федоткин Владимир Николаевич": 190,
-      "Цветкова Наталия Анатольевна": 52,
-      "Шерин Александр Николаевич": 158
+      "gas:candidate-vibid:2622000687459": 14,
+      "gas:candidate-vibid:2622000687448": 11,
+      "gas:candidate-vibid:2622000687153": 24,
+      "gas:candidate-vibid:2622000687620": 192,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 23,
+      "gas:candidate-vibid:2622000687069": 190,
+      "gas:candidate-vibid:2622000685453": 52,
+      "gas:candidate-vibid:2622000660602": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13042,16 +13042,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 19,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 195,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 7,
-      "Федоткин Владимир Николаевич": 165,
-      "Цветкова Наталия Анатольевна": 51,
-      "Шерин Александр Николаевич": 118
+      "gas:candidate-vibid:2622000687459": 19,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 195,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 7,
+      "gas:candidate-vibid:2622000687069": 165,
+      "gas:candidate-vibid:2622000685453": 51,
+      "gas:candidate-vibid:2622000660602": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13102,16 +13102,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 20,
-      "Денисенко Владимир Ильич": 21,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 225,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 10,
-      "Тюрин Александр Владимирович": 14,
-      "Федоткин Владимир Николаевич": 237,
-      "Цветкова Наталия Анатольевна": 63,
-      "Шерин Александр Николаевич": 130
+      "gas:candidate-vibid:2622000687459": 20,
+      "gas:candidate-vibid:2622000687448": 21,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 225,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 10,
+      "gas:candidate-vibid:2622000687111": 14,
+      "gas:candidate-vibid:2622000687069": 237,
+      "gas:candidate-vibid:2622000685453": 63,
+      "gas:candidate-vibid:2622000660602": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13162,16 +13162,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 14,
-      "Денисенко Владимир Ильич": 20,
-      "Лукьянова Галина Валентиновна": 31,
-      "Митина Елена Анатольевна": 212,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 35,
-      "Федоткин Владимир Николаевич": 179,
-      "Цветкова Наталия Анатольевна": 55,
-      "Шерин Александр Николаевич": 145
+      "gas:candidate-vibid:2622000687459": 14,
+      "gas:candidate-vibid:2622000687448": 20,
+      "gas:candidate-vibid:2622000687153": 31,
+      "gas:candidate-vibid:2622000687620": 212,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 35,
+      "gas:candidate-vibid:2622000687069": 179,
+      "gas:candidate-vibid:2622000685453": 55,
+      "gas:candidate-vibid:2622000660602": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13222,16 +13222,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 23,
-      "Денисенко Владимир Ильич": 14,
-      "Лукьянова Галина Валентиновна": 27,
-      "Митина Елена Анатольевна": 259,
-      "Самохин Александр Владимирович": 17,
-      "Тамбовцев Игорь Федорович": 13,
-      "Тюрин Александр Владимирович": 30,
-      "Федоткин Владимир Николаевич": 197,
-      "Цветкова Наталия Анатольевна": 57,
-      "Шерин Александр Николаевич": 140
+      "gas:candidate-vibid:2622000687459": 23,
+      "gas:candidate-vibid:2622000687448": 14,
+      "gas:candidate-vibid:2622000687153": 27,
+      "gas:candidate-vibid:2622000687620": 259,
+      "gas:candidate-vibid:2622000687666": 17,
+      "gas:candidate-vibid:2622000687471": 13,
+      "gas:candidate-vibid:2622000687111": 30,
+      "gas:candidate-vibid:2622000687069": 197,
+      "gas:candidate-vibid:2622000685453": 57,
+      "gas:candidate-vibid:2622000660602": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13282,16 +13282,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 23,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 21,
-      "Митина Елена Анатольевна": 181,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 216,
-      "Цветкова Наталия Анатольевна": 51,
-      "Шерин Александр Николаевич": 162
+      "gas:candidate-vibid:2622000687459": 23,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 21,
+      "gas:candidate-vibid:2622000687620": 181,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 216,
+      "gas:candidate-vibid:2622000685453": 51,
+      "gas:candidate-vibid:2622000660602": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13342,16 +13342,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 29,
-      "Денисенко Владимир Ильич": 17,
-      "Лукьянова Галина Валентиновна": 15,
-      "Митина Елена Анатольевна": 215,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 15,
-      "Тюрин Александр Владимирович": 28,
-      "Федоткин Владимир Николаевич": 247,
-      "Цветкова Наталия Анатольевна": 60,
-      "Шерин Александр Николаевич": 158
+      "gas:candidate-vibid:2622000687459": 29,
+      "gas:candidate-vibid:2622000687448": 17,
+      "gas:candidate-vibid:2622000687153": 15,
+      "gas:candidate-vibid:2622000687620": 215,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 15,
+      "gas:candidate-vibid:2622000687111": 28,
+      "gas:candidate-vibid:2622000687069": 247,
+      "gas:candidate-vibid:2622000685453": 60,
+      "gas:candidate-vibid:2622000660602": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13402,16 +13402,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 29,
-      "Денисенко Владимир Ильич": 13,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 183,
-      "Самохин Александр Владимирович": 15,
-      "Тамбовцев Игорь Федорович": 11,
-      "Тюрин Александр Владимирович": 25,
-      "Федоткин Владимир Николаевич": 205,
-      "Цветкова Наталия Анатольевна": 55,
-      "Шерин Александр Николаевич": 121
+      "gas:candidate-vibid:2622000687459": 29,
+      "gas:candidate-vibid:2622000687448": 13,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 183,
+      "gas:candidate-vibid:2622000687666": 15,
+      "gas:candidate-vibid:2622000687471": 11,
+      "gas:candidate-vibid:2622000687111": 25,
+      "gas:candidate-vibid:2622000687069": 205,
+      "gas:candidate-vibid:2622000685453": 55,
+      "gas:candidate-vibid:2622000660602": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13462,16 +13462,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 15,
-      "Денисенко Владимир Ильич": 10,
-      "Лукьянова Галина Валентиновна": 13,
-      "Митина Елена Анатольевна": 95,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 84,
-      "Цветкова Наталия Анатольевна": 21,
-      "Шерин Александр Николаевич": 55
+      "gas:candidate-vibid:2622000687459": 15,
+      "gas:candidate-vibid:2622000687448": 10,
+      "gas:candidate-vibid:2622000687153": 13,
+      "gas:candidate-vibid:2622000687620": 95,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 84,
+      "gas:candidate-vibid:2622000685453": 21,
+      "gas:candidate-vibid:2622000660602": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13522,16 +13522,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 5,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 16,
-      "Самохин Александр Владимирович": 2,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 8,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 13
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 5,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 16,
+      "gas:candidate-vibid:2622000687666": 2,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 8,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13582,16 +13582,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 12,
-      "Лукьянова Галина Валентиновна": 8,
-      "Митина Елена Анатольевна": 50,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 6,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 10,
-      "Шерин Александр Николаевич": 30
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 12,
+      "gas:candidate-vibid:2622000687153": 8,
+      "gas:candidate-vibid:2622000687620": 50,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 6,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 10,
+      "gas:candidate-vibid:2622000660602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633373&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633373&type=464",
@@ -13642,16 +13642,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 11,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 16,
-      "Митина Елена Анатольевна": 189,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 39,
-      "Цветкова Наталия Анатольевна": 15,
-      "Шерин Александр Николаевич": 38
+      "gas:candidate-vibid:2622000687459": 11,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 16,
+      "gas:candidate-vibid:2622000687620": 189,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 39,
+      "gas:candidate-vibid:2622000685453": 15,
+      "gas:candidate-vibid:2622000660602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -13702,16 +13702,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 11,
-      "Митина Елена Анатольевна": 340,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 44,
-      "Цветкова Наталия Анатольевна": 23,
-      "Шерин Александр Николаевич": 66
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 11,
+      "gas:candidate-vibid:2622000687620": 340,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 44,
+      "gas:candidate-vibid:2622000685453": 23,
+      "gas:candidate-vibid:2622000660602": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -13762,16 +13762,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 19,
-      "Митина Елена Анатольевна": 434,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 6,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 41,
-      "Цветкова Наталия Анатольевна": 14,
-      "Шерин Александр Николаевич": 77
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 19,
+      "gas:candidate-vibid:2622000687620": 434,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 6,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 41,
+      "gas:candidate-vibid:2622000685453": 14,
+      "gas:candidate-vibid:2622000660602": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -13822,16 +13822,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 15,
-      "Лукьянова Галина Валентиновна": 23,
-      "Митина Елена Анатольевна": 258,
-      "Самохин Александр Владимирович": 10,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 12,
-      "Федоткин Владимир Николаевич": 53,
-      "Цветкова Наталия Анатольевна": 47,
-      "Шерин Александр Николаевич": 64
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 15,
+      "gas:candidate-vibid:2622000687153": 23,
+      "gas:candidate-vibid:2622000687620": 258,
+      "gas:candidate-vibid:2622000687666": 10,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 12,
+      "gas:candidate-vibid:2622000687069": 53,
+      "gas:candidate-vibid:2622000685453": 47,
+      "gas:candidate-vibid:2622000660602": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -13882,16 +13882,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 11,
-      "Митина Елена Анатольевна": 170,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 8,
-      "Тюрин Александр Владимирович": 10,
-      "Федоткин Владимир Николаевич": 54,
-      "Цветкова Наталия Анатольевна": 16,
-      "Шерин Александр Николаевич": 49
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 11,
+      "gas:candidate-vibid:2622000687620": 170,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 8,
+      "gas:candidate-vibid:2622000687111": 10,
+      "gas:candidate-vibid:2622000687069": 54,
+      "gas:candidate-vibid:2622000685453": 16,
+      "gas:candidate-vibid:2622000660602": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -13942,16 +13942,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 9,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 424,
-      "Самохин Александр Владимирович": 7,
-      "Тамбовцев Игорь Федорович": 7,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 49,
-      "Цветкова Наталия Анатольевна": 20,
-      "Шерин Александр Николаевич": 44
+      "gas:candidate-vibid:2622000687459": 9,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 424,
+      "gas:candidate-vibid:2622000687666": 7,
+      "gas:candidate-vibid:2622000687471": 7,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 49,
+      "gas:candidate-vibid:2622000685453": 20,
+      "gas:candidate-vibid:2622000660602": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14002,16 +14002,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 10,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 28,
-      "Митина Елена Анатольевна": 306,
-      "Самохин Александр Владимирович": 18,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 13,
-      "Федоткин Владимир Николаевич": 78,
-      "Цветкова Наталия Анатольевна": 33,
-      "Шерин Александр Николаевич": 52
+      "gas:candidate-vibid:2622000687459": 10,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 28,
+      "gas:candidate-vibid:2622000687620": 306,
+      "gas:candidate-vibid:2622000687666": 18,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 13,
+      "gas:candidate-vibid:2622000687069": 78,
+      "gas:candidate-vibid:2622000685453": 33,
+      "gas:candidate-vibid:2622000660602": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14062,16 +14062,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 15,
-      "Митина Елена Анатольевна": 284,
-      "Самохин Александр Владимирович": 12,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 91,
-      "Цветкова Наталия Анатольевна": 27,
-      "Шерин Александр Николаевич": 47
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 15,
+      "gas:candidate-vibid:2622000687620": 284,
+      "gas:candidate-vibid:2622000687666": 12,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 91,
+      "gas:candidate-vibid:2622000685453": 27,
+      "gas:candidate-vibid:2622000660602": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14122,16 +14122,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 6,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 17,
-      "Митина Елена Анатольевна": 413,
-      "Самохин Александр Владимирович": 8,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 57,
-      "Цветкова Наталия Анатольевна": 35,
-      "Шерин Александр Николаевич": 61
+      "gas:candidate-vibid:2622000687459": 6,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 17,
+      "gas:candidate-vibid:2622000687620": 413,
+      "gas:candidate-vibid:2622000687666": 8,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 57,
+      "gas:candidate-vibid:2622000685453": 35,
+      "gas:candidate-vibid:2622000660602": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14182,16 +14182,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 5,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 22,
-      "Митина Елена Анатольевна": 387,
-      "Самохин Александр Владимирович": 11,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 11,
-      "Федоткин Владимир Николаевич": 36,
-      "Цветкова Наталия Анатольевна": 21,
-      "Шерин Александр Николаевич": 52
+      "gas:candidate-vibid:2622000687459": 5,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 22,
+      "gas:candidate-vibid:2622000687620": 387,
+      "gas:candidate-vibid:2622000687666": 11,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 11,
+      "gas:candidate-vibid:2622000687069": 36,
+      "gas:candidate-vibid:2622000685453": 21,
+      "gas:candidate-vibid:2622000660602": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14242,16 +14242,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 14,
-      "Митина Елена Анатольевна": 462,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 4,
-      "Федоткин Владимир Николаевич": 36,
-      "Цветкова Наталия Анатольевна": 13,
-      "Шерин Александр Николаевич": 62
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 14,
+      "gas:candidate-vibid:2622000687620": 462,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 4,
+      "gas:candidate-vibid:2622000687069": 36,
+      "gas:candidate-vibid:2622000685453": 13,
+      "gas:candidate-vibid:2622000660602": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14302,16 +14302,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 3,
-      "Денисенко Владимир Ильич": 8,
-      "Лукьянова Галина Валентиновна": 29,
-      "Митина Елена Анатольевна": 167,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 3,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 69,
-      "Цветкова Наталия Анатольевна": 39,
-      "Шерин Александр Николаевич": 71
+      "gas:candidate-vibid:2622000687459": 3,
+      "gas:candidate-vibid:2622000687448": 8,
+      "gas:candidate-vibid:2622000687153": 29,
+      "gas:candidate-vibid:2622000687620": 167,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 3,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 69,
+      "gas:candidate-vibid:2622000685453": 39,
+      "gas:candidate-vibid:2622000660602": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14362,16 +14362,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 7,
-      "Денисенко Владимир Ильич": 9,
-      "Лукьянова Галина Валентиновна": 38,
-      "Митина Елена Анатольевна": 204,
-      "Самохин Александр Владимирович": 13,
-      "Тамбовцев Игорь Федорович": 5,
-      "Тюрин Александр Владимирович": 8,
-      "Федоткин Владимир Николаевич": 82,
-      "Цветкова Наталия Анатольевна": 31,
-      "Шерин Александр Николаевич": 45
+      "gas:candidate-vibid:2622000687459": 7,
+      "gas:candidate-vibid:2622000687448": 9,
+      "gas:candidate-vibid:2622000687153": 38,
+      "gas:candidate-vibid:2622000687620": 204,
+      "gas:candidate-vibid:2622000687666": 13,
+      "gas:candidate-vibid:2622000687471": 5,
+      "gas:candidate-vibid:2622000687111": 8,
+      "gas:candidate-vibid:2622000687069": 82,
+      "gas:candidate-vibid:2622000685453": 31,
+      "gas:candidate-vibid:2622000660602": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14422,16 +14422,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 18,
-      "Денисенко Владимир Ильич": 32,
-      "Лукьянова Галина Валентиновна": 33,
-      "Митина Елена Анатольевна": 322,
-      "Самохин Александр Владимирович": 32,
-      "Тамбовцев Игорь Федорович": 26,
-      "Тюрин Александр Владимирович": 40,
-      "Федоткин Владимир Николаевич": 83,
-      "Цветкова Наталия Анатольевна": 40,
-      "Шерин Александр Николаевич": 68
+      "gas:candidate-vibid:2622000687459": 18,
+      "gas:candidate-vibid:2622000687448": 32,
+      "gas:candidate-vibid:2622000687153": 33,
+      "gas:candidate-vibid:2622000687620": 322,
+      "gas:candidate-vibid:2622000687666": 32,
+      "gas:candidate-vibid:2622000687471": 26,
+      "gas:candidate-vibid:2622000687111": 40,
+      "gas:candidate-vibid:2622000687069": 83,
+      "gas:candidate-vibid:2622000685453": 40,
+      "gas:candidate-vibid:2622000660602": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14482,16 +14482,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 10,
-      "Денисенко Владимир Ильич": 4,
-      "Лукьянова Галина Валентиновна": 20,
-      "Митина Елена Анатольевна": 256,
-      "Самохин Александр Владимирович": 16,
-      "Тамбовцев Игорь Федорович": 14,
-      "Тюрин Александр Владимирович": 9,
-      "Федоткин Владимир Николаевич": 41,
-      "Цветкова Наталия Анатольевна": 26,
-      "Шерин Александр Николаевич": 61
+      "gas:candidate-vibid:2622000687459": 10,
+      "gas:candidate-vibid:2622000687448": 4,
+      "gas:candidate-vibid:2622000687153": 20,
+      "gas:candidate-vibid:2622000687620": 256,
+      "gas:candidate-vibid:2622000687666": 16,
+      "gas:candidate-vibid:2622000687471": 14,
+      "gas:candidate-vibid:2622000687111": 9,
+      "gas:candidate-vibid:2622000687069": 41,
+      "gas:candidate-vibid:2622000685453": 26,
+      "gas:candidate-vibid:2622000660602": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14542,16 +14542,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 2,
-      "Лукьянова Галина Валентиновна": 7,
-      "Митина Елена Анатольевна": 99,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 12,
-      "Цветкова Наталия Анатольевна": 26,
-      "Шерин Александр Николаевич": 13
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 2,
+      "gas:candidate-vibid:2622000687153": 7,
+      "gas:candidate-vibid:2622000687620": 99,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 12,
+      "gas:candidate-vibid:2622000685453": 26,
+      "gas:candidate-vibid:2622000660602": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14602,16 +14602,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 3,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 118,
-      "Самохин Александр Владимирович": 5,
-      "Тамбовцев Игорь Федорович": 2,
-      "Тюрин Александр Владимирович": 3,
-      "Федоткин Владимир Николаевич": 3,
-      "Цветкова Наталия Анатольевна": 7,
-      "Шерин Александр Николаевич": 9
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 3,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 118,
+      "gas:candidate-vibid:2622000687666": 5,
+      "gas:candidate-vibid:2622000687471": 2,
+      "gas:candidate-vibid:2622000687111": 3,
+      "gas:candidate-vibid:2622000687069": 3,
+      "gas:candidate-vibid:2622000685453": 7,
+      "gas:candidate-vibid:2622000660602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14662,16 +14662,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 100,
-      "Самохин Александр Владимирович": 4,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 28,
-      "Цветкова Наталия Анатольевна": 4,
-      "Шерин Александр Николаевич": 6
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 100,
+      "gas:candidate-vibid:2622000687666": 4,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 28,
+      "gas:candidate-vibid:2622000685453": 4,
+      "gas:candidate-vibid:2622000660602": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14722,16 +14722,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 2,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 3,
-      "Митина Елена Анатольевна": 105,
-      "Самохин Александр Владимирович": 3,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 0,
-      "Федоткин Владимир Николаевич": 3,
-      "Цветкова Наталия Анатольевна": 0,
-      "Шерин Александр Николаевич": 15
+      "gas:candidate-vibid:2622000687459": 2,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 3,
+      "gas:candidate-vibid:2622000687620": 105,
+      "gas:candidate-vibid:2622000687666": 3,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 0,
+      "gas:candidate-vibid:2622000687069": 3,
+      "gas:candidate-vibid:2622000685453": 0,
+      "gas:candidate-vibid:2622000660602": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14782,16 +14782,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 4,
-      "Денисенко Владимир Ильич": 6,
-      "Лукьянова Галина Валентиновна": 10,
-      "Митина Елена Анатольевна": 111,
-      "Самохин Александр Владимирович": 6,
-      "Тамбовцев Игорь Федорович": 4,
-      "Тюрин Александр Владимирович": 2,
-      "Федоткин Владимир Николаевич": 19,
-      "Цветкова Наталия Анатольевна": 5,
-      "Шерин Александр Николаевич": 14
+      "gas:candidate-vibid:2622000687459": 4,
+      "gas:candidate-vibid:2622000687448": 6,
+      "gas:candidate-vibid:2622000687153": 10,
+      "gas:candidate-vibid:2622000687620": 111,
+      "gas:candidate-vibid:2622000687666": 6,
+      "gas:candidate-vibid:2622000687471": 4,
+      "gas:candidate-vibid:2622000687111": 2,
+      "gas:candidate-vibid:2622000687069": 19,
+      "gas:candidate-vibid:2622000685453": 5,
+      "gas:candidate-vibid:2622000660602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14842,16 +14842,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 0,
-      "Лукьянова Галина Валентиновна": 6,
-      "Митина Елена Анатольевна": 82,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 5,
-      "Федоткин Владимир Николаевич": 16,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 9
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 0,
+      "gas:candidate-vibid:2622000687153": 6,
+      "gas:candidate-vibid:2622000687620": 82,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 5,
+      "gas:candidate-vibid:2622000687069": 16,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14902,16 +14902,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 1,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 1,
-      "Митина Елена Анатольевна": 85,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 1,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 8,
-      "Цветкова Наталия Анатольевна": 3,
-      "Шерин Александр Николаевич": 10
+      "gas:candidate-vibid:2622000687459": 1,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 1,
+      "gas:candidate-vibid:2622000687620": 85,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 1,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 8,
+      "gas:candidate-vibid:2622000685453": 3,
+      "gas:candidate-vibid:2622000660602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",
@@ -14962,16 +14962,16 @@ export const duma_2016_uik_463_region_62_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Байметов Валентин Семенович": 0,
-      "Денисенко Владимир Ильич": 1,
-      "Лукьянова Галина Валентиновна": 5,
-      "Митина Елена Анатольевна": 165,
-      "Самохин Александр Владимирович": 0,
-      "Тамбовцев Игорь Федорович": 0,
-      "Тюрин Александр Владимирович": 1,
-      "Федоткин Владимир Николаевич": 9,
-      "Цветкова Наталия Анатольевна": 6,
-      "Шерин Александр Николаевич": 7
+      "gas:candidate-vibid:2622000687459": 0,
+      "gas:candidate-vibid:2622000687448": 1,
+      "gas:candidate-vibid:2622000687153": 5,
+      "gas:candidate-vibid:2622000687620": 165,
+      "gas:candidate-vibid:2622000687666": 0,
+      "gas:candidate-vibid:2622000687471": 0,
+      "gas:candidate-vibid:2622000687111": 1,
+      "gas:candidate-vibid:2622000687069": 9,
+      "gas:candidate-vibid:2622000685453": 6,
+      "gas:candidate-vibid:2622000660602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000207&tvd=2622000633374&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633374&type=464",

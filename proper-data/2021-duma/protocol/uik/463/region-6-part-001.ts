@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "4064002243861",
+    "uikName": "УИК №501",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1730,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -28,11 +32,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 74,
-      "Кодзоев Хамзат Туганович": 48,
-      "Мартазанов Абдулмажит Кадирович": 165,
-      "Сейнароев Багаудин Хамзатович": 41,
-      "Татриев Муслим Барисович": 1163
+      "2062000430696": 74,
+      "2062000429070": 48,
+      "2062000430714": 165,
+      "2062000432209": 41,
+      "2062000429082": 1163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -42,6 +46,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -51,8 +59,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "4064002243862",
+    "uikName": "УИК №502",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1070,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 980,
@@ -68,11 +80,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 41,
-      "Кодзоев Хамзат Туганович": 33,
-      "Мартазанов Абдулмажит Кадирович": 114,
-      "Сейнароев Багаудин Хамзатович": 28,
-      "Татриев Муслим Барисович": 719
+      "2062000430696": 41,
+      "2062000429070": 33,
+      "2062000430714": 114,
+      "2062000432209": 28,
+      "2062000429082": 719
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -82,6 +94,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -91,8 +107,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "4064002243863",
+    "uikName": "УИК №503",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2341,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -108,11 +128,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 99,
-      "Кодзоев Хамзат Туганович": 85,
-      "Мартазанов Абдулмажит Кадирович": 200,
-      "Сейнароев Багаудин Хамзатович": 62,
-      "Татриев Муслим Барисович": 1579
+      "2062000430696": 99,
+      "2062000429070": 85,
+      "2062000430714": 200,
+      "2062000432209": 62,
+      "2062000429082": 1579
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -122,6 +142,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -131,8 +155,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "4064002243864",
+    "uikName": "УИК №504",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1326,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -148,11 +176,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 54,
-      "Кодзоев Хамзат Туганович": 46,
-      "Мартазанов Абдулмажит Кадирович": 131,
-      "Сейнароев Багаудин Хамзатович": 29,
-      "Татриев Муслим Барисович": 890
+      "2062000430696": 54,
+      "2062000429070": 46,
+      "2062000430714": 131,
+      "2062000432209": 29,
+      "2062000429082": 890
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -162,6 +190,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -171,8 +203,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "4064002243865",
+    "uikName": "УИК №505",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1312,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1180,
@@ -188,11 +224,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 58,
-      "Кодзоев Хамзат Туганович": 41,
-      "Мартазанов Абдулмажит Кадирович": 107,
-      "Сейнароев Багаудин Хамзатович": 35,
-      "Татриев Муслим Барисович": 918
+      "2062000430696": 58,
+      "2062000429070": 41,
+      "2062000430714": 107,
+      "2062000432209": 35,
+      "2062000429082": 918
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -202,6 +238,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -211,8 +251,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "4064002243866",
+    "uikName": "УИК №506",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1098,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 990,
@@ -228,11 +272,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 47,
-      "Кодзоев Хамзат Туганович": 39,
-      "Мартазанов Абдулмажит Кадирович": 96,
-      "Сейнароев Багаудин Хамзатович": 23,
-      "Татриев Муслим Барисович": 751
+      "2062000430696": 47,
+      "2062000429070": 39,
+      "2062000430714": 96,
+      "2062000432209": 23,
+      "2062000429082": 751
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -242,6 +286,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -251,8 +299,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "4064002243867",
+    "uikName": "УИК №507",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 997,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 997,
@@ -268,11 +320,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 61,
-      "Кодзоев Хамзат Туганович": 46,
-      "Мартазанов Абдулмажит Кадирович": 89,
-      "Сейнароев Багаудин Хамзатович": 19,
-      "Татриев Муслим Барисович": 653
+      "2062000430696": 61,
+      "2062000429070": 46,
+      "2062000430714": 89,
+      "2062000432209": 19,
+      "2062000429082": 653
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -282,6 +334,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -291,8 +347,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "4064002243868",
+    "uikName": "УИК №508",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1806,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1690,
@@ -308,11 +368,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 88,
-      "Кодзоев Хамзат Туганович": 119,
-      "Мартазанов Абдулмажит Кадирович": 137,
-      "Сейнароев Багаудин Хамзатович": 67,
-      "Татриев Муслим Барисович": 875
+      "2062000430696": 88,
+      "2062000429070": 119,
+      "2062000430714": 137,
+      "2062000432209": 67,
+      "2062000429082": 875
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -322,6 +382,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -331,8 +395,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "4064002243869",
+    "uikName": "УИК №509",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1718,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -348,11 +416,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 76,
-      "Кодзоев Хамзат Туганович": 63,
-      "Мартазанов Абдулмажит Кадирович": 143,
-      "Сейнароев Багаудин Хамзатович": 43,
-      "Татриев Муслим Барисович": 1152
+      "2062000430696": 76,
+      "2062000429070": 63,
+      "2062000430714": 143,
+      "2062000432209": 43,
+      "2062000429082": 1152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -362,6 +430,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -371,8 +443,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "4064002243870",
+    "uikName": "УИК №510",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1835,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1660,
@@ -388,11 +464,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 74,
-      "Кодзоев Хамзат Туганович": 57,
-      "Мартазанов Абдулмажит Кадирович": 165,
-      "Сейнароев Багаудин Хамзатович": 40,
-      "Татриев Муслим Барисович": 1189
+      "2062000430696": 74,
+      "2062000429070": 57,
+      "2062000430714": 165,
+      "2062000432209": 40,
+      "2062000429082": 1189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -402,6 +478,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -411,8 +491,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "4064002243871",
+    "uikName": "УИК №511",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 464,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 464,
@@ -428,11 +512,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 32,
-      "Кодзоев Хамзат Туганович": 32,
-      "Мартазанов Абдулмажит Кадирович": 23,
-      "Сейнароев Багаудин Хамзатович": 8,
-      "Татриев Муслим Барисович": 248
+      "2062000430696": 32,
+      "2062000429070": 32,
+      "2062000430714": 23,
+      "2062000432209": 8,
+      "2062000429082": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -442,6 +526,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -451,8 +539,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "4064002243872",
+    "uikName": "УИК №512",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 928,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 930,
@@ -468,11 +560,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 35,
-      "Кодзоев Хамзат Туганович": 31,
-      "Мартазанов Абдулмажит Кадирович": 73,
-      "Сейнароев Багаудин Хамзатович": 25,
-      "Татриев Муслим Барисович": 645
+      "2062000430696": 35,
+      "2062000429070": 31,
+      "2062000430714": 73,
+      "2062000432209": 25,
+      "2062000429082": 645
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -482,6 +574,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -491,8 +587,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "4064002243873",
+    "uikName": "УИК №513",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1865,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1680,
@@ -508,11 +608,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 82,
-      "Кодзоев Хамзат Туганович": 64,
-      "Мартазанов Абдулмажит Кадирович": 183,
-      "Сейнароев Багаудин Хамзатович": 42,
-      "Татриев Муслим Барисович": 1279
+      "2062000430696": 82,
+      "2062000429070": 64,
+      "2062000430714": 183,
+      "2062000432209": 42,
+      "2062000429082": 1279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -522,6 +622,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -531,8 +635,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "4064002243874",
+    "uikName": "УИК №514",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1611,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1540,
@@ -548,11 +656,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 55,
-      "Кодзоев Хамзат Туганович": 107,
-      "Мартазанов Абдулмажит Кадирович": 188,
-      "Сейнароев Багаудин Хамзатович": 65,
-      "Татриев Муслим Барисович": 947
+      "2062000430696": 55,
+      "2062000429070": 107,
+      "2062000430714": 188,
+      "2062000432209": 65,
+      "2062000429082": 947
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -562,6 +670,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -571,8 +683,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "4064002243875",
+    "uikName": "УИК №515",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1573,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1420,
@@ -588,11 +704,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 65,
-      "Кодзоев Хамзат Туганович": 51,
-      "Мартазанов Абдулмажит Кадирович": 153,
-      "Сейнароев Багаудин Хамзатович": 37,
-      "Татриев Муслим Барисович": 1077
+      "2062000430696": 65,
+      "2062000429070": 51,
+      "2062000430714": 153,
+      "2062000432209": 37,
+      "2062000429082": 1077
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -602,6 +718,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -611,8 +731,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "4064002243876",
+    "uikName": "УИК №516",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1617,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1510,
@@ -628,11 +752,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 98,
-      "Кодзоев Хамзат Туганович": 130,
-      "Мартазанов Абдулмажит Кадирович": 132,
-      "Сейнароев Багаудин Хамзатович": 51,
-      "Татриев Муслим Барисович": 930
+      "2062000430696": 98,
+      "2062000429070": 130,
+      "2062000430714": 132,
+      "2062000432209": 51,
+      "2062000429082": 930
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -642,6 +766,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -651,8 +779,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "4064002243877",
+    "uikName": "УИК №517",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1571,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -668,11 +800,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 67,
-      "Кодзоев Хамзат Туганович": 57,
-      "Мартазанов Абдулмажит Кадирович": 135,
-      "Сейнароев Багаудин Хамзатович": 43,
-      "Татриев Муслим Барисович": 1069
+      "2062000430696": 67,
+      "2062000429070": 57,
+      "2062000430714": 135,
+      "2062000432209": 43,
+      "2062000429082": 1069
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -682,6 +814,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -691,8 +827,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "4064002243878",
+    "uikName": "УИК №518",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1310,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -708,11 +848,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 56,
-      "Кодзоев Хамзат Туганович": 50,
-      "Мартазанов Абдулмажит Кадирович": 120,
-      "Сейнароев Багаудин Хамзатович": 31,
-      "Татриев Муслим Барисович": 887
+      "2062000430696": 56,
+      "2062000429070": 50,
+      "2062000430714": 120,
+      "2062000432209": 31,
+      "2062000429082": 887
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -722,6 +862,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -731,8 +875,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "4064002243879",
+    "uikName": "УИК №519",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1164,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -748,11 +896,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 48,
-      "Кодзоев Хамзат Туганович": 27,
-      "Мартазанов Абдулмажит Кадирович": 110,
-      "Сейнароев Багаудин Хамзатович": 25,
-      "Татриев Муслим Барисович": 789
+      "2062000430696": 48,
+      "2062000429070": 27,
+      "2062000430714": 110,
+      "2062000432209": 25,
+      "2062000429082": 789
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -762,6 +910,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -771,8 +923,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "4064002243880",
+    "uikName": "УИК №520",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1601,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -788,11 +944,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 64,
-      "Кодзоев Хамзат Туганович": 55,
-      "Мартазанов Абдулмажит Кадирович": 144,
-      "Сейнароев Багаудин Хамзатович": 43,
-      "Татриев Муслим Барисович": 1083
+      "2062000430696": 64,
+      "2062000429070": 55,
+      "2062000430714": 144,
+      "2062000432209": 43,
+      "2062000429082": 1083
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -802,6 +958,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -811,8 +971,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "4064002243881",
+    "uikName": "УИК №521",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2005,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1810,
@@ -828,11 +992,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 89,
-      "Кодзоев Хамзат Туганович": 68,
-      "Мартазанов Абдулмажит Кадирович": 189,
-      "Сейнароев Багаудин Хамзатович": 50,
-      "Татриев Муслим Барисович": 1368
+      "2062000430696": 89,
+      "2062000429070": 68,
+      "2062000430714": 189,
+      "2062000432209": 50,
+      "2062000429082": 1368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -842,6 +1006,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -851,8 +1019,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "4064002243882",
+    "uikName": "УИК №522",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1390,
@@ -868,11 +1040,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 66,
-      "Кодзоев Хамзат Туганович": 51,
-      "Мартазанов Абдулмажит Кадирович": 133,
-      "Сейнароев Багаудин Хамзатович": 36,
-      "Татриев Муслим Барисович": 1045
+      "2062000430696": 66,
+      "2062000429070": 51,
+      "2062000430714": 133,
+      "2062000432209": 36,
+      "2062000429082": 1045
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -882,6 +1054,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -891,8 +1067,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "4064002243883",
+    "uikName": "УИК №523",
     "tikTvd": "2062000420965",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 647,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 647,
@@ -908,11 +1088,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 27,
-      "Кодзоев Хамзат Туганович": 24,
-      "Мартазанов Абдулмажит Кадирович": 56,
-      "Сейнароев Багаудин Хамзатович": 16,
-      "Татриев Муслим Барисович": 436
+      "2062000430696": 27,
+      "2062000429070": 24,
+      "2062000430714": 56,
+      "2062000432209": 16,
+      "2062000429082": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
@@ -922,6 +1102,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.194962+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420965&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420965&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -931,8 +1115,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "4064004174299",
+    "uikName": "УИК №801",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2548,
@@ -948,11 +1136,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 52,
-      "Кодзоев Хамзат Туганович": 99,
-      "Мартазанов Абдулмажит Кадирович": 92,
-      "Сейнароев Багаудин Хамзатович": 538,
-      "Татриев Муслим Барисович": 1682
+      "2062000430696": 52,
+      "2062000429070": 99,
+      "2062000430714": 92,
+      "2062000432209": 538,
+      "2062000429082": 1682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -962,6 +1150,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -971,8 +1163,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "4064004174300",
+    "uikName": "УИК №802",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2959,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2664,
@@ -988,11 +1184,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 57,
-      "Кодзоев Хамзат Туганович": 78,
-      "Мартазанов Абдулмажит Кадирович": 70,
-      "Сейнароев Багаудин Хамзатович": 627,
-      "Татриев Муслим Барисович": 1768
+      "2062000430696": 57,
+      "2062000429070": 78,
+      "2062000430714": 70,
+      "2062000432209": 627,
+      "2062000429082": 1768
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1002,6 +1198,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1011,8 +1211,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "4064004174301",
+    "uikName": "УИК №803",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3404,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 3404,
@@ -1028,11 +1232,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 64,
-      "Кодзоев Хамзат Туганович": 119,
-      "Мартазанов Абдулмажит Кадирович": 121,
-      "Сейнароев Багаудин Хамзатович": 658,
-      "Татриев Муслим Барисович": 2060
+      "2062000430696": 64,
+      "2062000429070": 119,
+      "2062000430714": 121,
+      "2062000432209": 658,
+      "2062000429082": 2060
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1042,6 +1246,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1051,8 +1259,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "4064004174302",
+    "uikName": "УИК №804",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2447,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2222,
@@ -1068,11 +1280,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 46,
-      "Кодзоев Хамзат Туганович": 91,
-      "Мартазанов Абдулмажит Кадирович": 82,
-      "Сейнароев Багаудин Хамзатович": 484,
-      "Татриев Муслим Барисович": 1497
+      "2062000430696": 46,
+      "2062000429070": 91,
+      "2062000430714": 82,
+      "2062000432209": 484,
+      "2062000429082": 1497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1082,6 +1294,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1091,8 +1307,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "4064004174303",
+    "uikName": "УИК №805",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2204,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2090,
@@ -1108,11 +1328,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 93,
-      "Кодзоев Хамзат Туганович": 210,
-      "Мартазанов Абдулмажит Кадирович": 181,
-      "Сейнароев Багаудин Хамзатович": 166,
-      "Татриев Муслим Барисович": 587
+      "2062000430696": 93,
+      "2062000429070": 210,
+      "2062000430714": 181,
+      "2062000432209": 166,
+      "2062000429082": 587
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1122,6 +1342,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1131,8 +1355,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "4064004174304",
+    "uikName": "УИК №806",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2947,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2670,
@@ -1148,11 +1376,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 65,
-      "Кодзоев Хамзат Туганович": 98,
-      "Мартазанов Абдулмажит Кадирович": 92,
-      "Сейнароев Багаудин Хамзатович": 537,
-      "Татриев Муслим Барисович": 1678
+      "2062000430696": 65,
+      "2062000429070": 98,
+      "2062000430714": 92,
+      "2062000432209": 537,
+      "2062000429082": 1678
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1162,6 +1390,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1171,8 +1403,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "4064004174305",
+    "uikName": "УИК №807",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1871,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1695,
@@ -1188,11 +1424,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 25,
-      "Кодзоев Хамзат Туганович": 98,
-      "Мартазанов Абдулмажит Кадирович": 92,
-      "Сейнароев Багаудин Хамзатович": 322,
-      "Татриев Муслим Барисович": 1145
+      "2062000430696": 25,
+      "2062000429070": 98,
+      "2062000430714": 92,
+      "2062000432209": 322,
+      "2062000429082": 1145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1202,6 +1438,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1211,8 +1451,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "4064004174306",
+    "uikName": "УИК №808",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1494,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1352,
@@ -1228,11 +1472,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 73,
-      "Кодзоев Хамзат Туганович": 93,
-      "Мартазанов Абдулмажит Кадирович": 25,
-      "Сейнароев Багаудин Хамзатович": 283,
-      "Татриев Муслим Барисович": 736
+      "2062000430696": 73,
+      "2062000429070": 93,
+      "2062000430714": 25,
+      "2062000432209": 283,
+      "2062000429082": 736
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1242,6 +1486,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1251,8 +1499,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "4064004174307",
+    "uikName": "УИК №809",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 985,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 891,
@@ -1268,11 +1520,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 16,
-      "Кодзоев Хамзат Туганович": 32,
-      "Мартазанов Абдулмажит Кадирович": 77,
-      "Сейнароев Багаудин Хамзатович": 142,
-      "Татриев Муслим Барисович": 546
+      "2062000430696": 16,
+      "2062000429070": 32,
+      "2062000430714": 77,
+      "2062000432209": 142,
+      "2062000429082": 546
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1282,6 +1534,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1291,8 +1547,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "4064004174308",
+    "uikName": "УИК №810",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1111,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 994,
@@ -1308,11 +1568,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 19,
-      "Кодзоев Хамзат Туганович": 42,
-      "Мартазанов Абдулмажит Кадирович": 34,
-      "Сейнароев Багаудин Хамзатович": 204,
-      "Татриев Муслим Барисович": 634
+      "2062000430696": 19,
+      "2062000429070": 42,
+      "2062000430714": 34,
+      "2062000432209": 204,
+      "2062000429082": 634
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1322,6 +1582,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1331,8 +1595,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "4064004174309",
+    "uikName": "УИК №811",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1009,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 897,
@@ -1348,11 +1616,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 19,
-      "Кодзоев Хамзат Туганович": 37,
-      "Мартазанов Абдулмажит Кадирович": 34,
-      "Сейнароев Багаудин Хамзатович": 196,
-      "Татриев Муслим Барисович": 608
+      "2062000430696": 19,
+      "2062000429070": 37,
+      "2062000430714": 34,
+      "2062000432209": 196,
+      "2062000429082": 608
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1362,6 +1630,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1371,8 +1643,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "4064004174310",
+    "uikName": "УИК №812",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 460,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 414,
@@ -1388,11 +1664,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 15,
-      "Кодзоев Хамзат Туганович": 25,
-      "Мартазанов Абдулмажит Кадирович": 23,
-      "Сейнароев Багаудин Хамзатович": 20,
-      "Татриев Муслим Барисович": 282
+      "2062000430696": 15,
+      "2062000429070": 25,
+      "2062000430714": 23,
+      "2062000432209": 20,
+      "2062000429082": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1402,6 +1678,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1411,8 +1691,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "4064004174311",
+    "uikName": "УИК №813",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 127,
@@ -1428,11 +1712,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 1,
-      "Кодзоев Хамзат Туганович": 7,
-      "Мартазанов Абдулмажит Кадирович": 1,
-      "Сейнароев Багаудин Хамзатович": 3,
-      "Татриев Муслим Барисович": 103
+      "2062000430696": 1,
+      "2062000429070": 7,
+      "2062000430714": 1,
+      "2062000432209": 3,
+      "2062000429082": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1442,6 +1726,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1451,8 +1739,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "4064004174312",
+    "uikName": "УИК №814",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 243,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 243,
@@ -1468,11 +1760,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 2,
-      "Кодзоев Хамзат Туганович": 11,
-      "Мартазанов Абдулмажит Кадирович": 11,
-      "Сейнароев Багаудин Хамзатович": 53,
-      "Татриев Муслим Барисович": 162
+      "2062000430696": 2,
+      "2062000429070": 11,
+      "2062000430714": 11,
+      "2062000432209": 53,
+      "2062000429082": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1482,6 +1774,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1491,8 +1787,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "4064004174313",
+    "uikName": "УИК №815",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -1508,11 +1808,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 6,
-      "Кодзоев Хамзат Туганович": 6,
-      "Мартазанов Абдулмажит Кадирович": 0,
-      "Сейнароев Багаудин Хамзатович": 9,
-      "Татриев Муслим Барисович": 232
+      "2062000430696": 6,
+      "2062000429070": 6,
+      "2062000430714": 0,
+      "2062000432209": 9,
+      "2062000429082": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1522,6 +1822,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1531,8 +1835,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "4064004174314",
+    "uikName": "УИК №816",
     "tikTvd": "2062000420966",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 819,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 686,
@@ -1548,11 +1856,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 53,
-      "Кодзоев Хамзат Туганович": 91,
-      "Мартазанов Абдулмажит Кадирович": 79,
-      "Сейнароев Багаудин Хамзатович": 49,
-      "Татриев Муслим Барисович": 392
+      "2062000430696": 53,
+      "2062000429070": 91,
+      "2062000430714": 79,
+      "2062000432209": 49,
+      "2062000429082": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
@@ -1562,6 +1870,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:55.674187+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420966&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420966&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1571,8 +1883,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "4064007122337",
+    "uikName": "УИК №301",
     "tikTvd": "2062000420967",
     "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1875,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1837,
@@ -1588,11 +1904,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 32,
-      "Кодзоев Хамзат Туганович": 252,
-      "Мартазанов Абдулмажит Кадирович": 78,
-      "Сейнароев Багаудин Хамзатович": 36,
-      "Татриев Муслим Барисович": 1090
+      "2062000430696": 32,
+      "2062000429070": 252,
+      "2062000430714": 78,
+      "2062000432209": 36,
+      "2062000429082": 1090
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
@@ -1602,6 +1918,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.149211+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1611,8 +1931,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "4064007122338",
+    "uikName": "УИК №302",
     "tikTvd": "2062000420967",
     "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1651,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1651,
@@ -1628,11 +1952,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 54,
-      "Кодзоев Хамзат Туганович": 11,
-      "Мартазанов Абдулмажит Кадирович": 148,
-      "Сейнароев Багаудин Хамзатович": 26,
-      "Татриев Муслим Барисович": 1145
+      "2062000430696": 54,
+      "2062000429070": 11,
+      "2062000430714": 148,
+      "2062000432209": 26,
+      "2062000429082": 1145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
@@ -1642,6 +1966,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.149211+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1651,8 +1979,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "4064007122339",
+    "uikName": "УИК №303",
     "tikTvd": "2062000420967",
     "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 526,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 526,
@@ -1668,11 +2000,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 27,
-      "Кодзоев Хамзат Туганович": 46,
-      "Мартазанов Абдулмажит Кадирович": 79,
-      "Сейнароев Багаудин Хамзатович": 19,
-      "Татриев Муслим Барисович": 344
+      "2062000430696": 27,
+      "2062000429070": 46,
+      "2062000430714": 79,
+      "2062000432209": 19,
+      "2062000429082": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
@@ -1682,6 +2014,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.149211+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1691,8 +2027,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "4064007122340",
+    "uikName": "УИК №304",
     "tikTvd": "2062000420967",
     "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1030,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1011,
@@ -1708,11 +2048,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 53,
-      "Кодзоев Хамзат Туганович": 37,
-      "Мартазанов Абдулмажит Кадирович": 158,
-      "Сейнароев Багаудин Хамзатович": 43,
-      "Татриев Муслим Барисович": 715
+      "2062000430696": 53,
+      "2062000429070": 37,
+      "2062000430714": 158,
+      "2062000432209": 43,
+      "2062000429082": 715
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
@@ -1722,6 +2062,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.149211+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420967&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420967&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1731,8 +2075,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4064001128145",
+    "uikName": "УИК №101",
     "tikTvd": "2062000420968",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 629,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 624,
@@ -1748,11 +2096,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 36,
-      "Кодзоев Хамзат Туганович": 19,
-      "Мартазанов Абдулмажит Кадирович": 26,
-      "Сейнароев Багаудин Хамзатович": 14,
-      "Татриев Муслим Барисович": 496
+      "2062000430696": 36,
+      "2062000429070": 19,
+      "2062000430714": 26,
+      "2062000432209": 14,
+      "2062000429082": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
@@ -1762,6 +2110,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.895284+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1771,8 +2123,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4064001128146",
+    "uikName": "УИК №102",
     "tikTvd": "2062000420968",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 656,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 646,
@@ -1788,11 +2144,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 41,
-      "Кодзоев Хамзат Туганович": 23,
-      "Мартазанов Абдулмажит Кадирович": 45,
-      "Сейнароев Багаудин Хамзатович": 19,
-      "Татриев Муслим Барисович": 474
+      "2062000430696": 41,
+      "2062000429070": 23,
+      "2062000430714": 45,
+      "2062000432209": 19,
+      "2062000429082": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
@@ -1802,6 +2158,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.895284+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1811,8 +2171,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4064001128147",
+    "uikName": "УИК №103",
     "tikTvd": "2062000420968",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 282,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 279,
@@ -1828,11 +2192,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 23,
-      "Кодзоев Хамзат Туганович": 25,
-      "Мартазанов Абдулмажит Кадирович": 49,
-      "Сейнароев Багаудин Хамзатович": 15,
-      "Татриев Муслим Барисович": 145
+      "2062000430696": 23,
+      "2062000429070": 25,
+      "2062000430714": 49,
+      "2062000432209": 15,
+      "2062000429082": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
@@ -1842,6 +2206,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.895284+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1851,8 +2219,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4064001128148",
+    "uikName": "УИК №104",
     "tikTvd": "2062000420968",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 119,
@@ -1868,11 +2240,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 27,
-      "Кодзоев Хамзат Туганович": 8,
-      "Мартазанов Абдулмажит Кадирович": 22,
-      "Сейнароев Багаудин Хамзатович": 11,
-      "Татриев Муслим Барисович": 49
+      "2062000430696": 27,
+      "2062000429070": 8,
+      "2062000430714": 22,
+      "2062000432209": 11,
+      "2062000429082": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
@@ -1882,6 +2254,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.895284+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1891,8 +2267,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "4064001128149",
+    "uikName": "УИК №105",
     "tikTvd": "2062000420968",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 342,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 333,
@@ -1908,11 +2288,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 34,
-      "Кодзоев Хамзат Туганович": 17,
-      "Мартазанов Абдулмажит Кадирович": 45,
-      "Сейнароев Багаудин Хамзатович": 15,
-      "Татриев Муслим Барисович": 210
+      "2062000430696": 34,
+      "2062000429070": 17,
+      "2062000430714": 45,
+      "2062000432209": 15,
+      "2062000429082": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
@@ -1922,6 +2302,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.895284+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1931,8 +2315,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4064001128150",
+    "uikName": "УИК №106",
     "tikTvd": "2062000420968",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 970,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 970,
@@ -1948,11 +2336,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 52,
-      "Кодзоев Хамзат Туганович": 21,
-      "Мартазанов Абдулмажит Кадирович": 39,
-      "Сейнароев Багаудин Хамзатович": 28,
-      "Татриев Муслим Барисович": 611
+      "2062000430696": 52,
+      "2062000429070": 21,
+      "2062000430714": 39,
+      "2062000432209": 28,
+      "2062000429082": 611
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
@@ -1962,6 +2350,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:56.895284+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420968&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420968&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -1971,8 +2363,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "4064005118859",
+    "uikName": "УИК №201",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1069,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 975,
@@ -1988,11 +2384,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 34,
-      "Кодзоев Хамзат Туганович": 21,
-      "Мартазанов Абдулмажит Кадирович": 137,
-      "Сейнароев Багаудин Хамзатович": 36,
-      "Татриев Муслим Барисович": 732
+      "2062000430696": 34,
+      "2062000429070": 21,
+      "2062000430714": 137,
+      "2062000432209": 36,
+      "2062000429082": 732
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2002,6 +2398,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2011,8 +2411,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "4064005118860",
+    "uikName": "УИК №202",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1677,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1526,
@@ -2028,11 +2432,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 28,
-      "Кодзоев Хамзат Туганович": 15,
-      "Мартазанов Абдулмажит Кадирович": 163,
-      "Сейнароев Багаудин Хамзатович": 22,
-      "Татриев Муслим Барисович": 1288
+      "2062000430696": 28,
+      "2062000429070": 15,
+      "2062000430714": 163,
+      "2062000432209": 22,
+      "2062000429082": 1288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2042,6 +2446,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2051,8 +2459,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "4064005118861",
+    "uikName": "УИК №203",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1110,
@@ -2068,11 +2480,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 19,
-      "Кодзоев Хамзат Туганович": 8,
-      "Мартазанов Абдулмажит Кадирович": 32,
-      "Сейнароев Багаудин Хамзатович": 164,
-      "Татриев Муслим Барисович": 847
+      "2062000430696": 19,
+      "2062000429070": 8,
+      "2062000430714": 32,
+      "2062000432209": 164,
+      "2062000429082": 847
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2082,6 +2494,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2091,8 +2507,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "4064005118862",
+    "uikName": "УИК №204",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2252,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2142,
@@ -2108,11 +2528,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 41,
-      "Кодзоев Хамзат Туганович": 13,
-      "Мартазанов Абдулмажит Кадирович": 302,
-      "Сейнароев Багаудин Хамзатович": 51,
-      "Татриев Муслим Барисович": 1720
+      "2062000430696": 41,
+      "2062000429070": 13,
+      "2062000430714": 302,
+      "2062000432209": 51,
+      "2062000429082": 1720
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2122,6 +2542,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2131,8 +2555,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "4064005118863",
+    "uikName": "УИК №205",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2873,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2690,
@@ -2148,11 +2576,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 23,
-      "Кодзоев Хамзат Туганович": 31,
-      "Мартазанов Абдулмажит Кадирович": 336,
-      "Сейнароев Багаудин Хамзатович": 60,
-      "Татриев Муслим Барисович": 2231
+      "2062000430696": 23,
+      "2062000429070": 31,
+      "2062000430714": 336,
+      "2062000432209": 60,
+      "2062000429082": 2231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2162,6 +2590,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2171,8 +2603,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "4064005118864",
+    "uikName": "УИК №206",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2355,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2188,11 +2624,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 45,
-      "Кодзоев Хамзат Туганович": 130,
-      "Мартазанов Абдулмажит Кадирович": 79,
-      "Сейнароев Багаудин Хамзатович": 39,
-      "Татриев Муслим Барисович": 193
+      "2062000430696": 45,
+      "2062000429070": 130,
+      "2062000430714": 79,
+      "2062000432209": 39,
+      "2062000429082": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2202,6 +2638,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2211,8 +2651,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "4064005118865",
+    "uikName": "УИК №207",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1436,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1312,
@@ -2228,11 +2672,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 59,
-      "Кодзоев Хамзат Туганович": 393,
-      "Мартазанов Абдулмажит Кадирович": 77,
-      "Сейнароев Багаудин Хамзатович": 44,
-      "Татриев Муслим Барисович": 421
+      "2062000430696": 59,
+      "2062000429070": 393,
+      "2062000430714": 77,
+      "2062000432209": 44,
+      "2062000429082": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2242,6 +2686,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2251,8 +2699,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "4064005118866",
+    "uikName": "УИК №208",
     "tikTvd": "2062000420969",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2721,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2531,
@@ -2268,11 +2720,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 18,
-      "Кодзоев Хамзат Туганович": 10,
-      "Мартазанов Абдулмажит Кадирович": 206,
-      "Сейнароев Багаудин Хамзатович": 44,
-      "Татриев Муслим Барисович": 2244
+      "2062000430696": 18,
+      "2062000429070": 10,
+      "2062000430714": 206,
+      "2062000432209": 44,
+      "2062000429082": 2244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
@@ -2282,6 +2734,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.362389+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420969&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420969&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2291,8 +2747,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "4064006147858",
+    "uikName": "УИК №601",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2255,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2016,
@@ -2308,11 +2768,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 94,
-      "Кодзоев Хамзат Туганович": 188,
-      "Мартазанов Абдулмажит Кадирович": 277,
-      "Сейнароев Багаудин Хамзатович": 62,
-      "Татриев Муслим Барисович": 1227
+      "2062000430696": 94,
+      "2062000429070": 188,
+      "2062000430714": 277,
+      "2062000432209": 62,
+      "2062000429082": 1227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2322,6 +2782,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2331,8 +2795,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "4064006147859",
+    "uikName": "УИК №602",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2773,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2463,
@@ -2348,11 +2816,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 137,
-      "Кодзоев Хамзат Туганович": 207,
-      "Мартазанов Абдулмажит Кадирович": 258,
-      "Сейнароев Багаудин Хамзатович": 73,
-      "Татриев Муслим Барисович": 1701
+      "2062000430696": 137,
+      "2062000429070": 207,
+      "2062000430714": 258,
+      "2062000432209": 73,
+      "2062000429082": 1701
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2362,6 +2830,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2371,8 +2843,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "4064006147860",
+    "uikName": "УИК №603",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1640,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1509,
@@ -2388,11 +2864,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 88,
-      "Кодзоев Хамзат Туганович": 42,
-      "Мартазанов Абдулмажит Кадирович": 119,
-      "Сейнароев Багаудин Хамзатович": 24,
-      "Татриев Муслим Барисович": 1031
+      "2062000430696": 88,
+      "2062000429070": 42,
+      "2062000430714": 119,
+      "2062000432209": 24,
+      "2062000429082": 1031
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2402,6 +2878,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2411,8 +2891,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "4064006147861",
+    "uikName": "УИК №604",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1797,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1589,
@@ -2428,11 +2912,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 56,
-      "Кодзоев Хамзат Туганович": 309,
-      "Мартазанов Абдулмажит Кадирович": 213,
-      "Сейнароев Багаудин Хамзатович": 58,
-      "Татриев Муслим Барисович": 828
+      "2062000430696": 56,
+      "2062000429070": 309,
+      "2062000430714": 213,
+      "2062000432209": 58,
+      "2062000429082": 828
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2442,6 +2926,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2451,8 +2939,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "4064006147862",
+    "uikName": "УИК №605",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2339,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2244,
@@ -2468,11 +2960,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 114,
-      "Кодзоев Хамзат Туганович": 186,
-      "Мартазанов Абдулмажит Кадирович": 265,
-      "Сейнароев Багаудин Хамзатович": 57,
-      "Татриев Муслим Барисович": 1418
+      "2062000430696": 114,
+      "2062000429070": 186,
+      "2062000430714": 265,
+      "2062000432209": 57,
+      "2062000429082": 1418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2482,6 +2974,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2491,8 +2987,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "4064006147863",
+    "uikName": "УИК №606",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2747,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2464,
@@ -2508,11 +3008,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 75,
-      "Кодзоев Хамзат Туганович": 229,
-      "Мартазанов Абдулмажит Кадирович": 204,
-      "Сейнароев Багаудин Хамзатович": 65,
-      "Татриев Муслим Барисович": 1620
+      "2062000430696": 75,
+      "2062000429070": 229,
+      "2062000430714": 204,
+      "2062000432209": 65,
+      "2062000429082": 1620
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2522,6 +3022,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2531,8 +3035,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "4064006147864",
+    "uikName": "УИК №607",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2796,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2489,
@@ -2548,11 +3056,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 139,
-      "Кодзоев Хамзат Туганович": 192,
-      "Мартазанов Абдулмажит Кадирович": 362,
-      "Сейнароев Багаудин Хамзатович": 87,
-      "Татриев Муслим Барисович": 1591
+      "2062000430696": 139,
+      "2062000429070": 192,
+      "2062000430714": 362,
+      "2062000432209": 87,
+      "2062000429082": 1591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2562,6 +3070,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2571,8 +3083,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "4064006147865",
+    "uikName": "УИК №608",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2636,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -2588,11 +3104,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 95,
-      "Кодзоев Хамзат Туганович": 151,
-      "Мартазанов Абдулмажит Кадирович": 231,
-      "Сейнароев Багаудин Хамзатович": 46,
-      "Татриев Муслим Барисович": 1609
+      "2062000430696": 95,
+      "2062000429070": 151,
+      "2062000430714": 231,
+      "2062000432209": 46,
+      "2062000429082": 1609
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2602,6 +3118,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2611,8 +3131,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "4064006147866",
+    "uikName": "УИК №609",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1432,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1257,
@@ -2628,11 +3152,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 42,
-      "Кодзоев Хамзат Туганович": 182,
-      "Мартазанов Абдулмажит Кадирович": 283,
-      "Сейнароев Багаудин Хамзатович": 34,
-      "Татриев Муслим Барисович": 699
+      "2062000430696": 42,
+      "2062000429070": 182,
+      "2062000430714": 283,
+      "2062000432209": 34,
+      "2062000429082": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2642,6 +3166,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2651,8 +3179,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "4064006147867",
+    "uikName": "УИК №610",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2787,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2471,
@@ -2668,11 +3200,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 99,
-      "Кодзоев Хамзат Туганович": 301,
-      "Мартазанов Абдулмажит Кадирович": 355,
-      "Сейнароев Багаудин Хамзатович": 75,
-      "Татриев Муслим Барисович": 1482
+      "2062000430696": 99,
+      "2062000429070": 301,
+      "2062000430714": 355,
+      "2062000432209": 75,
+      "2062000429082": 1482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2682,6 +3214,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2691,8 +3227,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "4064006147868",
+    "uikName": "УИК №611",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1665,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1521,
@@ -2708,11 +3248,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 51,
-      "Кодзоев Хамзат Туганович": 59,
-      "Мартазанов Абдулмажит Кадирович": 116,
-      "Сейнароев Багаудин Хамзатович": 31,
-      "Татриев Муслим Барисович": 1042
+      "2062000430696": 51,
+      "2062000429070": 59,
+      "2062000430714": 116,
+      "2062000432209": 31,
+      "2062000429082": 1042
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2722,6 +3262,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2731,8 +3275,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "4064006147869",
+    "uikName": "УИК №612",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2214,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1998,
@@ -2748,11 +3296,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 123,
-      "Кодзоев Хамзат Туганович": 78,
-      "Мартазанов Абдулмажит Кадирович": 262,
-      "Сейнароев Багаудин Хамзатович": 56,
-      "Татриев Муслим Барисович": 1247
+      "2062000430696": 123,
+      "2062000429070": 78,
+      "2062000430714": 262,
+      "2062000432209": 56,
+      "2062000429082": 1247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2762,6 +3310,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2771,8 +3323,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "4064006147870",
+    "uikName": "УИК №613",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2686,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2394,
@@ -2788,11 +3344,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 142,
-      "Кодзоев Хамзат Туганович": 309,
-      "Мартазанов Абдулмажит Кадирович": 318,
-      "Сейнароев Багаудин Хамзатович": 81,
-      "Татриев Муслим Барисович": 1404
+      "2062000430696": 142,
+      "2062000429070": 309,
+      "2062000430714": 318,
+      "2062000432209": 81,
+      "2062000429082": 1404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2802,6 +3358,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2811,8 +3371,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "4064006147871",
+    "uikName": "УИК №614",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2045,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1814,
@@ -2828,11 +3392,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 86,
-      "Кодзоев Хамзат Туганович": 117,
-      "Мартазанов Абдулмажит Кадирович": 193,
-      "Сейнароев Багаудин Хамзатович": 52,
-      "Татриев Муслим Барисович": 1166
+      "2062000430696": 86,
+      "2062000429070": 117,
+      "2062000430714": 193,
+      "2062000432209": 52,
+      "2062000429082": 1166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2842,6 +3406,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2851,8 +3419,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "4064006147872",
+    "uikName": "УИК №615",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2587,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2318,
@@ -2868,11 +3440,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 55,
-      "Кодзоев Хамзат Туганович": 146,
-      "Мартазанов Абдулмажит Кадирович": 95,
-      "Сейнароев Багаудин Хамзатович": 54,
-      "Татриев Муслим Барисович": 259
+      "2062000430696": 55,
+      "2062000429070": 146,
+      "2062000430714": 95,
+      "2062000432209": 54,
+      "2062000429082": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2882,6 +3454,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2891,8 +3467,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "4064006147873",
+    "uikName": "УИК №616",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2645,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2370,
@@ -2908,11 +3488,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 89,
-      "Кодзоев Хамзат Туганович": 619,
-      "Мартазанов Абдулмажит Кадирович": 356,
-      "Сейнароев Багаудин Хамзатович": 53,
-      "Татриев Муслим Барисович": 633
+      "2062000430696": 89,
+      "2062000429070": 619,
+      "2062000430714": 356,
+      "2062000432209": 53,
+      "2062000429082": 633
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2922,6 +3502,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2931,8 +3515,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "4064006147874",
+    "uikName": "УИК №617",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2818,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2523,
@@ -2948,11 +3536,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 64,
-      "Кодзоев Хамзат Туганович": 111,
-      "Мартазанов Абдулмажит Кадирович": 295,
-      "Сейнароев Багаудин Хамзатович": 78,
-      "Татриев Муслим Барисович": 1660
+      "2062000430696": 64,
+      "2062000429070": 111,
+      "2062000430714": 295,
+      "2062000432209": 78,
+      "2062000429082": 1660
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -2962,6 +3550,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -2971,8 +3563,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "4064006147875",
+    "uikName": "УИК №618",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2539,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2275,
@@ -2988,11 +3584,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 144,
-      "Кодзоев Хамзат Туганович": 228,
-      "Мартазанов Абдулмажит Кадирович": 197,
-      "Сейнароев Багаудин Хамзатович": 95,
-      "Татриев Муслим Барисович": 1495
+      "2062000430696": 144,
+      "2062000429070": 228,
+      "2062000430714": 197,
+      "2062000432209": 95,
+      "2062000429082": 1495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -3002,6 +3598,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3011,8 +3611,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "4064006147876",
+    "uikName": "УИК №619",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2558,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2273,
@@ -3028,11 +3632,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 64,
-      "Кодзоев Хамзат Туганович": 241,
-      "Мартазанов Абдулмажит Кадирович": 266,
-      "Сейнароев Багаудин Хамзатович": 82,
-      "Татриев Муслим Барисович": 1581
+      "2062000430696": 64,
+      "2062000429070": 241,
+      "2062000430714": 266,
+      "2062000432209": 82,
+      "2062000429082": 1581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -3042,6 +3646,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3051,8 +3659,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "4064006147877",
+    "uikName": "УИК №620",
     "tikTvd": "2062000420970",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2893,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2496,
@@ -3068,11 +3680,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 40,
-      "Кодзоев Хамзат Туганович": 153,
-      "Мартазанов Абдулмажит Кадирович": 98,
-      "Сейнароев Багаудин Хамзатович": 27,
-      "Татриев Муслим Барисович": 1398
+      "2062000430696": 40,
+      "2062000429070": 153,
+      "2062000430714": 98,
+      "2062000432209": 27,
+      "2062000429082": 1398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
@@ -3082,6 +3694,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:57.775767+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420970&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420970&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3091,8 +3707,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "4064003240193",
+    "uikName": "УИК №701",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1708,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1656,
@@ -3108,11 +3728,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 52,
-      "Кодзоев Хамзат Туганович": 87,
-      "Мартазанов Абдулмажит Кадирович": 159,
-      "Сейнароев Багаудин Хамзатович": 36,
-      "Татриев Муслим Барисович": 1227
+      "2062000430696": 52,
+      "2062000429070": 87,
+      "2062000430714": 159,
+      "2062000432209": 36,
+      "2062000429082": 1227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3122,6 +3742,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3131,8 +3755,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "4064003240194",
+    "uikName": "УИК №702",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1902,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1876,
@@ -3148,11 +3776,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 63,
-      "Кодзоев Хамзат Туганович": 45,
-      "Мартазанов Абдулмажит Кадирович": 114,
-      "Сейнароев Багаудин Хамзатович": 17,
-      "Татриев Муслим Барисович": 1460
+      "2062000430696": 63,
+      "2062000429070": 45,
+      "2062000430714": 114,
+      "2062000432209": 17,
+      "2062000429082": 1460
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3162,6 +3790,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3171,8 +3803,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "4064003240195",
+    "uikName": "УИК №703",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2036,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1740,
@@ -3188,11 +3824,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 81,
-      "Кодзоев Хамзат Туганович": 112,
-      "Мартазанов Абдулмажит Кадирович": 171,
-      "Сейнароев Багаудин Хамзатович": 74,
-      "Татриев Муслим Барисович": 1274
+      "2062000430696": 81,
+      "2062000429070": 112,
+      "2062000430714": 171,
+      "2062000432209": 74,
+      "2062000429082": 1274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3202,6 +3838,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3211,8 +3851,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "4064003240196",
+    "uikName": "УИК №704",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 912,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -3228,11 +3872,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 56,
-      "Кодзоев Хамзат Туганович": 207,
-      "Мартазанов Абдулмажит Кадирович": 105,
-      "Сейнароев Багаудин Хамзатович": 13,
-      "Татриев Муслим Барисович": 329
+      "2062000430696": 56,
+      "2062000429070": 207,
+      "2062000430714": 105,
+      "2062000432209": 13,
+      "2062000429082": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3242,6 +3886,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3251,8 +3899,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "4064003240197",
+    "uikName": "УИК №705",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1793,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1580,
@@ -3268,11 +3920,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 103,
-      "Кодзоев Хамзат Туганович": 89,
-      "Мартазанов Абдулмажит Кадирович": 176,
-      "Сейнароев Багаудин Хамзатович": 55,
-      "Татриев Муслим Барисович": 1098
+      "2062000430696": 103,
+      "2062000429070": 89,
+      "2062000430714": 176,
+      "2062000432209": 55,
+      "2062000429082": 1098
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3282,6 +3934,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3291,8 +3947,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "4064003240198",
+    "uikName": "УИК №706",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2242,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2207,
@@ -3308,11 +3968,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 96,
-      "Кодзоев Хамзат Туганович": 37,
-      "Мартазанов Абдулмажит Кадирович": 213,
-      "Сейнароев Багаудин Хамзатович": 49,
-      "Татриев Муслим Барисович": 1624
+      "2062000430696": 96,
+      "2062000429070": 37,
+      "2062000430714": 213,
+      "2062000432209": 49,
+      "2062000429082": 1624
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3322,6 +3982,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3331,8 +3995,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "4064003240199",
+    "uikName": "УИК №707",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2032,
@@ -3348,11 +4016,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 104,
-      "Кодзоев Хамзат Туганович": 76,
-      "Мартазанов Абдулмажит Кадирович": 154,
-      "Сейнароев Багаудин Хамзатович": 31,
-      "Татриев Муслим Барисович": 1631
+      "2062000430696": 104,
+      "2062000429070": 76,
+      "2062000430714": 154,
+      "2062000432209": 31,
+      "2062000429082": 1631
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3362,6 +4030,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3371,8 +4043,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "4064003240200",
+    "uikName": "УИК №708",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2002,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1765,
@@ -3388,11 +4064,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 94,
-      "Кодзоев Хамзат Туганович": 52,
-      "Мартазанов Абдулмажит Кадирович": 185,
-      "Сейнароев Багаудин Хамзатович": 46,
-      "Татриев Муслим Барисович": 1335
+      "2062000430696": 94,
+      "2062000429070": 52,
+      "2062000430714": 185,
+      "2062000432209": 46,
+      "2062000429082": 1335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3402,6 +4078,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3411,8 +4091,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "4064003240201",
+    "uikName": "УИК №709",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2189,
@@ -3428,11 +4112,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 101,
-      "Кодзоев Хамзат Туганович": 64,
-      "Мартазанов Абдулмажит Кадирович": 288,
-      "Сейнароев Багаудин Хамзатович": 52,
-      "Татриев Муслим Барисович": 1568
+      "2062000430696": 101,
+      "2062000429070": 64,
+      "2062000430714": 288,
+      "2062000432209": 52,
+      "2062000429082": 1568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3442,6 +4126,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3451,8 +4139,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "4064003240202",
+    "uikName": "УИК №710",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2124,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1863,
@@ -3468,11 +4160,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 67,
-      "Кодзоев Хамзат Туганович": 86,
-      "Мартазанов Абдулмажит Кадирович": 91,
-      "Сейнароев Багаудин Хамзатович": 74,
-      "Татриев Муслим Барисович": 1531
+      "2062000430696": 67,
+      "2062000429070": 86,
+      "2062000430714": 91,
+      "2062000432209": 74,
+      "2062000429082": 1531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3482,6 +4174,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3491,8 +4187,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "4064003240203",
+    "uikName": "УИК №711",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2271,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1962,
@@ -3508,11 +4208,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 131,
-      "Кодзоев Хамзат Туганович": 91,
-      "Мартазанов Абдулмажит Кадирович": 144,
-      "Сейнароев Багаудин Хамзатович": 59,
-      "Татриев Муслим Барисович": 1498
+      "2062000430696": 131,
+      "2062000429070": 91,
+      "2062000430714": 144,
+      "2062000432209": 59,
+      "2062000429082": 1498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3522,6 +4222,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3531,8 +4235,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "4064003240204",
+    "uikName": "УИК №712",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2241,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2187,
@@ -3548,11 +4256,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 19,
-      "Кодзоев Хамзат Туганович": 103,
-      "Мартазанов Абдулмажит Кадирович": 18,
-      "Сейнароев Багаудин Хамзатович": 29,
-      "Татриев Муслим Барисович": 1830
+      "2062000430696": 19,
+      "2062000429070": 103,
+      "2062000430714": 18,
+      "2062000432209": 29,
+      "2062000429082": 1830
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3562,6 +4270,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3571,8 +4283,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "4064003240205",
+    "uikName": "УИК №713",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2465,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2174,
@@ -3588,11 +4304,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 166,
-      "Кодзоев Хамзат Туганович": 304,
-      "Мартазанов Абдулмажит Кадирович": 285,
-      "Сейнароев Багаудин Хамзатович": 93,
-      "Татриев Муслим Барисович": 1300
+      "2062000430696": 166,
+      "2062000429070": 304,
+      "2062000430714": 285,
+      "2062000432209": 93,
+      "2062000429082": 1300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3602,6 +4318,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3611,8 +4331,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "4064003240206",
+    "uikName": "УИК №714",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2697,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2386,
@@ -3628,11 +4352,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 158,
-      "Кодзоев Хамзат Туганович": 204,
-      "Мартазанов Абдулмажит Кадирович": 197,
-      "Сейнароев Багаудин Хамзатович": 85,
-      "Татриев Муслим Барисович": 1643
+      "2062000430696": 158,
+      "2062000429070": 204,
+      "2062000430714": 197,
+      "2062000432209": 85,
+      "2062000429082": 1643
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3642,6 +4366,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3651,8 +4379,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "4064003240207",
+    "uikName": "УИК №715",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1565,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1365,
@@ -3668,11 +4400,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 73,
-      "Кодзоев Хамзат Туганович": 182,
-      "Мартазанов Абдулмажит Кадирович": 202,
-      "Сейнароев Багаудин Хамзатович": 55,
-      "Татриев Муслим Барисович": 810
+      "2062000430696": 73,
+      "2062000429070": 182,
+      "2062000430714": 202,
+      "2062000432209": 55,
+      "2062000429082": 810
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3682,6 +4414,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3691,8 +4427,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "4064003240208",
+    "uikName": "УИК №716",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2236,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1942,
@@ -3708,11 +4448,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 131,
-      "Кодзоев Хамзат Туганович": 47,
-      "Мартазанов Абдулмажит Кадирович": 69,
-      "Сейнароев Багаудин Хамзатович": 21,
-      "Татриев Муслим Барисович": 1657
+      "2062000430696": 131,
+      "2062000429070": 47,
+      "2062000430714": 69,
+      "2062000432209": 21,
+      "2062000429082": 1657
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3722,6 +4462,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3731,8 +4475,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "4064003240209",
+    "uikName": "УИК №717",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 118,
@@ -3748,11 +4496,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 0,
-      "Кодзоев Хамзат Туганович": 0,
-      "Мартазанов Абдулмажит Кадирович": 5,
-      "Сейнароев Багаудин Хамзатович": 0,
-      "Татриев Муслим Барисович": 109
+      "2062000430696": 0,
+      "2062000429070": 0,
+      "2062000430714": 5,
+      "2062000432209": 0,
+      "2062000429082": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3762,6 +4510,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3771,8 +4523,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "4064003240210",
+    "uikName": "УИК №718",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1681,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1482,
@@ -3788,11 +4544,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 47,
-      "Кодзоев Хамзат Туганович": 60,
-      "Мартазанов Абдулмажит Кадирович": 54,
-      "Сейнароев Багаудин Хамзатович": 53,
-      "Татриев Муслим Барисович": 974
+      "2062000430696": 47,
+      "2062000429070": 60,
+      "2062000430714": 54,
+      "2062000432209": 53,
+      "2062000429082": 974
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3802,6 +4558,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3811,8 +4571,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "4064003240211",
+    "uikName": "УИК №719",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2419,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2131,
@@ -3828,11 +4592,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 124,
-      "Кодзоев Хамзат Туганович": 93,
-      "Мартазанов Абдулмажит Кадирович": 151,
-      "Сейнароев Багаудин Хамзатович": 53,
-      "Татриев Муслим Барисович": 1690
+      "2062000430696": 124,
+      "2062000429070": 93,
+      "2062000430714": 151,
+      "2062000432209": 53,
+      "2062000429082": 1690
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3842,6 +4606,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3851,8 +4619,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "4064003240212",
+    "uikName": "УИК №720",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2886,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2825,
@@ -3868,11 +4640,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 152,
-      "Кодзоев Хамзат Туганович": 191,
-      "Мартазанов Абдулмажит Кадирович": 209,
-      "Сейнароев Багаудин Хамзатович": 72,
-      "Татриев Муслим Барисович": 1977
+      "2062000430696": 152,
+      "2062000429070": 191,
+      "2062000430714": 209,
+      "2062000432209": 72,
+      "2062000429082": 1977
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3882,6 +4654,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3891,8 +4667,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "4064003240213",
+    "uikName": "УИК №721",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2882,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2520,
@@ -3908,11 +4688,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 187,
-      "Кодзоев Хамзат Туганович": 261,
-      "Мартазанов Абдулмажит Кадирович": 251,
-      "Сейнароев Багаудин Хамзатович": 82,
-      "Татриев Муслим Барисович": 1714
+      "2062000430696": 187,
+      "2062000429070": 261,
+      "2062000430714": 251,
+      "2062000432209": 82,
+      "2062000429082": 1714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3922,6 +4702,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3931,8 +4715,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "4064003240214",
+    "uikName": "УИК №722",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2364,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2314,
@@ -3948,11 +4736,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 113,
-      "Кодзоев Хамзат Туганович": 182,
-      "Мартазанов Абдулмажит Кадирович": 215,
-      "Сейнароев Багаудин Хамзатович": 64,
-      "Татриев Муслим Барисович": 1588
+      "2062000430696": 113,
+      "2062000429070": 182,
+      "2062000430714": 215,
+      "2062000432209": 64,
+      "2062000429082": 1588
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -3962,6 +4750,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -3971,8 +4763,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "4064003240215",
+    "uikName": "УИК №723",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1604,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1391,
@@ -3988,11 +4784,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 75,
-      "Кодзоев Хамзат Туганович": 94,
-      "Мартазанов Абдулмажит Кадирович": 107,
-      "Сейнароев Багаудин Хамзатович": 29,
-      "Татриев Муслим Барисович": 1060
+      "2062000430696": 75,
+      "2062000429070": 94,
+      "2062000430714": 107,
+      "2062000432209": 29,
+      "2062000429082": 1060
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4002,6 +4798,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4011,8 +4811,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "4064003240216",
+    "uikName": "УИК №724",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2037,
@@ -4028,11 +4832,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 89,
-      "Кодзоев Хамзат Туганович": 57,
-      "Мартазанов Абдулмажит Кадирович": 100,
-      "Сейнароев Багаудин Хамзатович": 42,
-      "Татриев Муслим Барисович": 1729
+      "2062000430696": 89,
+      "2062000429070": 57,
+      "2062000430714": 100,
+      "2062000432209": 42,
+      "2062000429082": 1729
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4042,6 +4846,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4051,8 +4859,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "4064003240217",
+    "uikName": "УИК №725",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1702,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1658,
@@ -4068,11 +4880,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 46,
-      "Кодзоев Хамзат Туганович": 109,
-      "Мартазанов Абдулмажит Кадирович": 81,
-      "Сейнароев Багаудин Хамзатович": 18,
-      "Татриев Муслим Барисович": 1232
+      "2062000430696": 46,
+      "2062000429070": 109,
+      "2062000430714": 81,
+      "2062000432209": 18,
+      "2062000429082": 1232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4082,6 +4894,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4091,8 +4907,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "4064003240218",
+    "uikName": "УИК №726",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1649,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1445,
@@ -4108,11 +4928,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 46,
-      "Кодзоев Хамзат Туганович": 85,
-      "Мартазанов Абдулмажит Кадирович": 99,
-      "Сейнароев Багаудин Хамзатович": 59,
-      "Татриев Муслим Барисович": 1096
+      "2062000430696": 46,
+      "2062000429070": 85,
+      "2062000430714": 99,
+      "2062000432209": 59,
+      "2062000429082": 1096
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4122,6 +4942,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4131,8 +4955,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "4064003240219",
+    "uikName": "УИК №727",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2040,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1777,
@@ -4148,11 +4976,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 101,
-      "Кодзоев Хамзат Туганович": 63,
-      "Мартазанов Абдулмажит Кадирович": 161,
-      "Сейнароев Багаудин Хамзатович": 34,
-      "Татриев Муслим Барисович": 1408
+      "2062000430696": 101,
+      "2062000429070": 63,
+      "2062000430714": 161,
+      "2062000432209": 34,
+      "2062000429082": 1408
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4162,6 +4990,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4171,8 +5003,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "4064003240220",
+    "uikName": "УИК №728",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2246,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1943,
@@ -4188,11 +5024,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 122,
-      "Кодзоев Хамзат Туганович": 103,
-      "Мартазанов Абдулмажит Кадирович": 147,
-      "Сейнароев Багаудин Хамзатович": 68,
-      "Татриев Муслим Барисович": 1434
+      "2062000430696": 122,
+      "2062000429070": 103,
+      "2062000430714": 147,
+      "2062000432209": 68,
+      "2062000429082": 1434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4202,6 +5038,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4211,8 +5051,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "4064003240221",
+    "uikName": "УИК №729",
     "tikTvd": "2062000420971",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2002,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1906,
@@ -4228,11 +5072,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 68,
-      "Кодзоев Хамзат Туганович": 131,
-      "Мартазанов Абдулмажит Кадирович": 123,
-      "Сейнароев Багаудин Хамзатович": 74,
-      "Татриев Муслим Барисович": 599
+      "2062000430696": 68,
+      "2062000429070": 131,
+      "2062000430714": 123,
+      "2062000432209": 74,
+      "2062000429082": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
@@ -4242,6 +5086,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:58.570620+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420971&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420971&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4251,8 +5099,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "4064008144596",
+    "uikName": "УИК №401",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 691,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 675,
@@ -4268,11 +5120,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 22,
-      "Кодзоев Хамзат Туганович": 32,
-      "Мартазанов Абдулмажит Кадирович": 41,
-      "Сейнароев Багаудин Хамзатович": 19,
-      "Татриев Муслим Барисович": 402
+      "2062000430696": 22,
+      "2062000429070": 32,
+      "2062000430714": 41,
+      "2062000432209": 19,
+      "2062000429082": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4282,6 +5134,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4291,8 +5147,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "4064008144597",
+    "uikName": "УИК №402",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1717,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4308,11 +5168,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 55,
-      "Кодзоев Хамзат Туганович": 101,
-      "Мартазанов Абдулмажит Кадирович": 187,
-      "Сейнароев Багаудин Хамзатович": 56,
-      "Татриев Муслим Барисович": 1013
+      "2062000430696": 55,
+      "2062000429070": 101,
+      "2062000430714": 187,
+      "2062000432209": 56,
+      "2062000429082": 1013
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4322,6 +5182,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4331,8 +5195,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "4064008144598",
+    "uikName": "УИК №403",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -4348,11 +5216,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 45,
-      "Кодзоев Хамзат Туганович": 83,
-      "Мартазанов Абдулмажит Кадирович": 149,
-      "Сейнароев Багаудин Хамзатович": 47,
-      "Татриев Муслим Барисович": 767
+      "2062000430696": 45,
+      "2062000429070": 83,
+      "2062000430714": 149,
+      "2062000432209": 47,
+      "2062000429082": 767
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4362,6 +5230,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4371,8 +5243,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "4064008144599",
+    "uikName": "УИК №404",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 841,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -4388,11 +5264,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 29,
-      "Кодзоев Хамзат Туганович": 48,
-      "Мартазанов Абдулмажит Кадирович": 90,
-      "Сейнароев Багаудин Хамзатович": 28,
-      "Татриев Муслим Барисович": 498
+      "2062000430696": 29,
+      "2062000429070": 48,
+      "2062000430714": 90,
+      "2062000432209": 28,
+      "2062000429082": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4402,6 +5278,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4411,8 +5291,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "4064008144600",
+    "uikName": "УИК №405",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1721,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4428,11 +5312,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 54,
-      "Кодзоев Хамзат Туганович": 107,
-      "Мартазанов Абдулмажит Кадирович": 195,
-      "Сейнароев Багаудин Хамзатович": 62,
-      "Татриев Муслим Барисович": 1007
+      "2062000430696": 54,
+      "2062000429070": 107,
+      "2062000430714": 195,
+      "2062000432209": 62,
+      "2062000429082": 1007
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4442,6 +5326,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4451,8 +5339,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "4064008144601",
+    "uikName": "УИК №406",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -4468,11 +5360,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 50,
-      "Кодзоев Хамзат Туганович": 89,
-      "Мартазанов Абдулмажит Кадирович": 165,
-      "Сейнароев Багаудин Хамзатович": 49,
-      "Татриев Муслим Барисович": 909
+      "2062000430696": 50,
+      "2062000429070": 89,
+      "2062000430714": 165,
+      "2062000432209": 49,
+      "2062000429082": 909
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4482,6 +5374,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4491,8 +5387,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "4064008144602",
+    "uikName": "УИК №407",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -4508,11 +5408,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 46,
-      "Кодзоев Хамзат Туганович": 87,
-      "Мартазанов Абдулмажит Кадирович": 168,
-      "Сейнароев Багаудин Хамзатович": 50,
-      "Татриев Муслим Барисович": 898
+      "2062000430696": 46,
+      "2062000429070": 87,
+      "2062000430714": 168,
+      "2062000432209": 50,
+      "2062000429082": 898
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4522,6 +5422,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4531,8 +5435,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "4064008144603",
+    "uikName": "УИК №408",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1848,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4548,11 +5456,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 60,
-      "Кодзоев Хамзат Туганович": 107,
-      "Мартазанов Абдулмажит Кадирович": 204,
-      "Сейнароев Багаудин Хамзатович": 60,
-      "Татриев Муслим Барисович": 1095
+      "2062000430696": 60,
+      "2062000429070": 107,
+      "2062000430714": 204,
+      "2062000432209": 60,
+      "2062000429082": 1095
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4562,6 +5470,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4571,8 +5483,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "4064008144604",
+    "uikName": "УИК №409",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1760,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4588,11 +5504,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 56,
-      "Кодзоев Хамзат Туганович": 104,
-      "Мартазанов Абдулмажит Кадирович": 190,
-      "Сейнароев Багаудин Хамзатович": 56,
-      "Татриев Муслим Барисович": 1044
+      "2062000430696": 56,
+      "2062000429070": 104,
+      "2062000430714": 190,
+      "2062000432209": 56,
+      "2062000429082": 1044
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4602,6 +5518,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4611,8 +5531,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "4064008144605",
+    "uikName": "УИК №410",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4628,11 +5552,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 66,
-      "Кодзоев Хамзат Туганович": 31,
-      "Мартазанов Абдулмажит Кадирович": 191,
-      "Сейнароев Багаудин Хамзатович": 62,
-      "Татриев Муслим Барисович": 1148
+      "2062000430696": 66,
+      "2062000429070": 31,
+      "2062000430714": 191,
+      "2062000432209": 62,
+      "2062000429082": 1148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4642,6 +5566,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4651,8 +5579,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "4064008144606",
+    "uikName": "УИК №411",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 712,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 680,
@@ -4668,11 +5600,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 27,
-      "Кодзоев Хамзат Туганович": 106,
-      "Мартазанов Абдулмажит Кадирович": 33,
-      "Сейнароев Багаудин Хамзатович": 50,
-      "Татриев Муслим Барисович": 342
+      "2062000430696": 27,
+      "2062000429070": 106,
+      "2062000430714": 33,
+      "2062000432209": 50,
+      "2062000429082": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4682,6 +5614,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4691,8 +5627,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "4064008144607",
+    "uikName": "УИК №412",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1458,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -4708,11 +5648,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 47,
-      "Кодзоев Хамзат Туганович": 87,
-      "Мартазанов Абдулмажит Кадирович": 159,
-      "Сейнароев Багаудин Хамзатович": 49,
-      "Татриев Муслим Барисович": 868
+      "2062000430696": 47,
+      "2062000429070": 87,
+      "2062000430714": 159,
+      "2062000432209": 49,
+      "2062000429082": 868
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4722,6 +5662,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4731,8 +5675,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "4064008144608",
+    "uikName": "УИК №413",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1636,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4748,11 +5696,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 51,
-      "Кодзоев Хамзат Туганович": 97,
-      "Мартазанов Абдулмажит Кадирович": 181,
-      "Сейнароев Багаудин Хамзатович": 51,
-      "Татриев Муслим Барисович": 976
+      "2062000430696": 51,
+      "2062000429070": 97,
+      "2062000430714": 181,
+      "2062000432209": 51,
+      "2062000429082": 976
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4762,6 +5710,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4771,8 +5723,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "4064008144609",
+    "uikName": "УИК №414",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 537,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -4788,11 +5744,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 18,
-      "Кодзоев Хамзат Туганович": 31,
-      "Мартазанов Абдулмажит Кадирович": 58,
-      "Сейнароев Багаудин Хамзатович": 18,
-      "Татриев Муслим Барисович": 311
+      "2062000430696": 18,
+      "2062000429070": 31,
+      "2062000430714": 58,
+      "2062000432209": 18,
+      "2062000429082": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4802,6 +5758,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4811,8 +5771,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "4064008144610",
+    "uikName": "УИК №415",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 924,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -4828,11 +5792,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 29,
-      "Кодзоев Хамзат Туганович": 54,
-      "Мартазанов Абдулмажит Кадирович": 99,
-      "Сейнароев Багаудин Хамзатович": 31,
-      "Татриев Муслим Барисович": 544
+      "2062000430696": 29,
+      "2062000429070": 54,
+      "2062000430714": 99,
+      "2062000432209": 31,
+      "2062000429082": 544
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4842,6 +5806,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4851,8 +5819,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "4064008144611",
+    "uikName": "УИК №416",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1385,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4868,11 +5840,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 43,
-      "Кодзоев Хамзат Туганович": 81,
-      "Мартазанов Абдулмажит Кадирович": 153,
-      "Сейнароев Багаудин Хамзатович": 45,
-      "Татриев Муслим Барисович": 820
+      "2062000430696": 43,
+      "2062000429070": 81,
+      "2062000430714": 153,
+      "2062000432209": 45,
+      "2062000429082": 820
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4882,6 +5854,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4891,8 +5867,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "4064008144612",
+    "uikName": "УИК №417",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1366,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4908,11 +5888,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 44,
-      "Кодзоев Хамзат Туганович": 79,
-      "Мартазанов Абдулмажит Кадирович": 151,
-      "Сейнароев Багаудин Хамзатович": 44,
-      "Татриев Муслим Барисович": 817
+      "2062000430696": 44,
+      "2062000429070": 79,
+      "2062000430714": 151,
+      "2062000432209": 44,
+      "2062000429082": 817
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4922,6 +5902,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4931,8 +5915,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "4064008144613",
+    "uikName": "УИК №418",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -4948,11 +5936,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 45,
-      "Кодзоев Хамзат Туганович": 80,
-      "Мартазанов Абдулмажит Кадирович": 149,
-      "Сейнароев Багаудин Хамзатович": 47,
-      "Татриев Муслим Барисович": 811
+      "2062000430696": 45,
+      "2062000429070": 80,
+      "2062000430714": 149,
+      "2062000432209": 47,
+      "2062000429082": 811
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -4962,6 +5950,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -4971,8 +5963,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "4064008144614",
+    "uikName": "УИК №419",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 559,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -4988,11 +5984,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 17,
-      "Кодзоев Хамзат Туганович": 32,
-      "Мартазанов Абдулмажит Кадирович": 60,
-      "Сейнароев Багаудин Хамзатович": 20,
-      "Татриев Муслим Барисович": 328
+      "2062000430696": 17,
+      "2062000429070": 32,
+      "2062000430714": 60,
+      "2062000432209": 20,
+      "2062000429082": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -5002,6 +5998,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5011,8 +6011,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "4064008144615",
+    "uikName": "УИК №420",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 583,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 555,
@@ -5028,11 +6032,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 15,
-      "Кодзоев Хамзат Туганович": 29,
-      "Мартазанов Абдулмажит Кадирович": 8,
-      "Сейнароев Багаудин Хамзатович": 9,
-      "Татриев Муслим Барисович": 372
+      "2062000430696": 15,
+      "2062000429070": 29,
+      "2062000430714": 8,
+      "2062000432209": 9,
+      "2062000429082": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -5042,6 +6046,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5051,8 +6059,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "4064008144616",
+    "uikName": "УИК №421",
     "tikTvd": "2062000420972",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1260,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -5068,11 +6080,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 46,
-      "Кодзоев Хамзат Туганович": 85,
-      "Мартазанов Абдулмажит Кадирович": 165,
-      "Сейнароев Багаудин Хамзатович": 46,
-      "Татриев Муслим Барисович": 707
+      "2062000430696": 46,
+      "2062000429070": 85,
+      "2062000430714": 165,
+      "2062000432209": 46,
+      "2062000429082": 707
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
@@ -5082,6 +6094,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.415809+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420972&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420972&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5091,8 +6107,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "406400988087",
+    "uikName": "УИК №901",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2388,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -5108,11 +6128,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 39,
-      "Кодзоев Хамзат Туганович": 46,
-      "Мартазанов Абдулмажит Кадирович": 216,
-      "Сейнароев Багаудин Хамзатович": 398,
-      "Татриев Муслим Барисович": 1352
+      "2062000430696": 39,
+      "2062000429070": 46,
+      "2062000430714": 216,
+      "2062000432209": 398,
+      "2062000429082": 1352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5122,6 +6142,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5131,8 +6155,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "406400988088",
+    "uikName": "УИК №902",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1867,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1681,
@@ -5148,11 +6176,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 51,
-      "Кодзоев Хамзат Туганович": 149,
-      "Мартазанов Абдулмажит Кадирович": 148,
-      "Сейнароев Багаудин Хамзатович": 740,
-      "Татриев Муслим Барисович": 368
+      "2062000430696": 51,
+      "2062000429070": 149,
+      "2062000430714": 148,
+      "2062000432209": 740,
+      "2062000429082": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5162,6 +6190,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5171,8 +6203,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "406400988089",
+    "uikName": "УИК №903",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2366,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2130,
@@ -5188,11 +6224,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 28,
-      "Кодзоев Хамзат Туганович": 51,
-      "Мартазанов Абдулмажит Кадирович": 199,
-      "Сейнароев Багаудин Хамзатович": 452,
-      "Татриев Муслим Барисович": 1184
+      "2062000430696": 28,
+      "2062000429070": 51,
+      "2062000430714": 199,
+      "2062000432209": 452,
+      "2062000429082": 1184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5202,6 +6238,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5211,8 +6251,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "406400988090",
+    "uikName": "УИК №904",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1645,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1481,
@@ -5228,11 +6272,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 2,
-      "Кодзоев Хамзат Туганович": 9,
-      "Мартазанов Абдулмажит Кадирович": 104,
-      "Сейнароев Багаудин Хамзатович": 79,
-      "Татриев Муслим Барисович": 1252
+      "2062000430696": 2,
+      "2062000429070": 9,
+      "2062000430714": 104,
+      "2062000432209": 79,
+      "2062000429082": 1252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5242,6 +6286,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5251,8 +6299,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "406400988091",
+    "uikName": "УИК №905",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1627,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1465,
@@ -5268,11 +6320,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 29,
-      "Кодзоев Хамзат Туганович": 14,
-      "Мартазанов Абдулмажит Кадирович": 185,
-      "Сейнароев Багаудин Хамзатович": 180,
-      "Татриев Муслим Барисович": 1040
+      "2062000430696": 29,
+      "2062000429070": 14,
+      "2062000430714": 185,
+      "2062000432209": 180,
+      "2062000429082": 1040
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5282,6 +6334,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5291,8 +6347,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "406400988092",
+    "uikName": "УИК №906",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1661,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1495,
@@ -5308,11 +6368,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 31,
-      "Кодзоев Хамзат Туганович": 47,
-      "Мартазанов Абдулмажит Кадирович": 174,
-      "Сейнароев Багаудин Хамзатович": 198,
-      "Татриев Муслим Барисович": 1000
+      "2062000430696": 31,
+      "2062000429070": 47,
+      "2062000430714": 174,
+      "2062000432209": 198,
+      "2062000429082": 1000
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5322,6 +6382,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5331,8 +6395,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "406400988093",
+    "uikName": "УИК №907",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2430,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2187,
@@ -5348,11 +6416,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 36,
-      "Кодзоев Хамзат Туганович": 52,
-      "Мартазанов Абдулмажит Кадирович": 221,
-      "Сейнароев Багаудин Хамзатович": 412,
-      "Татриев Муслим Барисович": 1356
+      "2062000430696": 36,
+      "2062000429070": 52,
+      "2062000430714": 221,
+      "2062000432209": 412,
+      "2062000429082": 1356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5362,6 +6430,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5371,8 +6443,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "406400988094",
+    "uikName": "УИК №908",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1616,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1455,
@@ -5388,11 +6464,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 18,
-      "Кодзоев Хамзат Туганович": 23,
-      "Мартазанов Абдулмажит Кадирович": 108,
-      "Сейнароев Багаудин Хамзатович": 217,
-      "Татриев Муслим Барисович": 957
+      "2062000430696": 18,
+      "2062000429070": 23,
+      "2062000430714": 108,
+      "2062000432209": 217,
+      "2062000429082": 957
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5402,6 +6478,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5411,8 +6491,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "406400988095",
+    "uikName": "УИК №909",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2283,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2055,
@@ -5428,11 +6512,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 41,
-      "Кодзоев Хамзат Туганович": 52,
-      "Мартазанов Абдулмажит Кадирович": 238,
-      "Сейнароев Багаудин Хамзатович": 321,
-      "Татриев Муслим Барисович": 1349
+      "2062000430696": 41,
+      "2062000429070": 52,
+      "2062000430714": 238,
+      "2062000432209": 321,
+      "2062000429082": 1349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5442,6 +6526,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   },
   {
@@ -5451,8 +6539,12 @@ export const duma_2021_uik_463_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "406400988096",
+    "uikName": "УИК №910",
     "tikTvd": "2062000420973",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100225883415",
+    "regionName": "Республика Ингушетия",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1716,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1545,
@@ -5468,11 +6560,11 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гадиев Ислам Геланиевич": 37,
-      "Кодзоев Хамзат Туганович": 23,
-      "Мартазанов Абдулмажит Кадирович": 125,
-      "Сейнароев Багаудин Хамзатович": 120,
-      "Татриев Муслим Барисович": 1230
+      "2062000430696": 37,
+      "2062000429070": 23,
+      "2062000430714": 125,
+      "2062000432209": 120,
+      "2062000429082": 1230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
@@ -5482,6 +6574,10 @@ export const duma_2021_uik_463_region_6_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.687737+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000420973&vrn=100100225883172&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000420973&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100225883416"
     }
   }
 ] satisfies readonly UikProtocol[];

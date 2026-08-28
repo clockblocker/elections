@@ -8,6474 +8,17264 @@ export const duma_2021_uik_to_tik_region_72 = [
     "uikNumber": 101,
     "uikTvd": "4724001206580",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №101",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4724001206581",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №102",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4724001206582",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №103",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4724001206583",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №104",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4724001206584",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №106",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4724001206585",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №108",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4724001206586",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №109",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4724001206587",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №111",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4724001206588",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №112",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4724001206589",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №115",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4724001206590",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №116",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4724001206591",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №117",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4724001206592",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №119",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4724001206593",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №120",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4724001206594",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №123",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4724001206595",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №124",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4724001206596",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №125",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4724001206597",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №126",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4724001206598",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №128",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4724001206599",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №129",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4724001206600",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №130",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4724001206601",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №132",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4724001206602",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №133",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4724001206603",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №134",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4724001206604",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №136",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4724001206605",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №137",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4724001206606",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №138",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4724001206607",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №139",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4724001206608",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №140",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4724001206609",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №142",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4724001206610",
     "tikTvd": "27220001482167",
-    "tikName": "Абатская"
+    "tikName": "Абатская",
+    "uikName": "УИК №143",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4724002176029",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №201",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4724002176030",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №202",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4724002176031",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №203",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4724002176032",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №204",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4724002176033",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №205",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4724002176034",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №207",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4724002176035",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №208",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4724002176036",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №209",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4724002176037",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №212",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4724002176038",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №213",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4724002176039",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №214",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4724002176040",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №215",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4724002176041",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №218",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4724002176042",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №219",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4724002176043",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №220",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4724002176044",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №221",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4724002176045",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №222",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4724002176046",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №223",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4724002176047",
     "tikTvd": "27220001482181",
-    "tikName": "Армизонская"
+    "tikName": "Армизонская",
+    "uikName": "УИК №224",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4724003195070",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №301",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4724003195071",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №302",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4724003195072",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №303",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4724003195073",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №304",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4724003195074",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №306",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4724003195075",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №307",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4724003195076",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №309",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4724003195077",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №312",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4724003195078",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №313",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4724003195079",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №315",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4724003195080",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №317",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4724003195081",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №318",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4724003195082",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №320",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4724003195083",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №321",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4724003195084",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №322",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4724003195085",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №323",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4724003195086",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №326",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4724003195087",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №327",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4724003195088",
     "tikTvd": "27220001482166",
-    "tikName": "Аромашевская"
+    "tikName": "Аромашевская",
+    "uikName": "УИК №328",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4724004177981",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №401",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4724004177982",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №402",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4724004177983",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №403",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4724004177984",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №404",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4724004177985",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №406",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4724004177986",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №407",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4724004177987",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №409",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4724004177988",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №410",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4724004177989",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №411",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4724004177990",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №412",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4724004177991",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №413",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4724004177992",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №415",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4724004177993",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №417",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4724004177994",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №419",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4724004177995",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №421",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4724004177996",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №423",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4724004177997",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №425",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4724004177998",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №426",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4724004177999",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №427",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4724004178000",
     "tikTvd": "27220001482180",
-    "tikName": "Бердюжская"
+    "tikName": "Бердюжская",
+    "uikName": "УИК №431",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4724005286459",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №501",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4724005286460",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №502",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4724005286461",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №503",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4724005286462",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №505",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4724005286463",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №506",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4724005286464",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №507",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4724005286465",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №508",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4724005286466",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №509",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4724005286467",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №510",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4724005286468",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №511",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4724005286469",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №512",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4724005286470",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №513",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4724005286471",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №515",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4724005286472",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №516",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4724005286473",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №517",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4724005286474",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №518",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4724005286475",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №519",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4724005286476",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №520",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4724005286477",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №521",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4724005286478",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №522",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4724005286479",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №523",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4724005286480",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №524",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4724005286481",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №525",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4724005286482",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №526",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4724005286483",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №527",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4724005286484",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №528",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4724005286485",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №529",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4724005286486",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №531",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4724005286487",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №532",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4724005286488",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №533",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4724005286489",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №534",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4724005286490",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №535",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4724005286491",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №536",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4724005286492",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №537",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4724005286493",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №538",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4724005286494",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №539",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4724005286495",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №540",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4724005286496",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №541",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4724005286497",
     "tikTvd": "27220001482165",
-    "tikName": "Вагайская"
+    "tikName": "Вагайская",
+    "uikName": "УИК №542",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4724006250831",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №601",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4724006250832",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №602",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4724006250833",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №603",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4724006250834",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №604",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4724006250835",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №605",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4724006250836",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №606",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4724006250837",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №607",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4724006250838",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №608",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4724006250839",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №609",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4724006250840",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №610",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4724006250841",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №611",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4724006250842",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №612",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4724006250843",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №613",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4724006250844",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №615",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4724006250845",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №616",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4724006250846",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №617",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4724006250847",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №618",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4724006250848",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №619",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4724006250849",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №621",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4724006250850",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №623",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4724006250851",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №624",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4724006250852",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №626",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4724006250853",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №627",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4724006250854",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №628",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4724006250855",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №629",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4724006250856",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №630",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4724006250857",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №631",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4724006250858",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №632",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4724006250859",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №633",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4724006250860",
     "tikTvd": "27220001482164",
-    "tikName": "Викуловская"
+    "tikName": "Викуловская",
+    "uikName": "УИК №634",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4724007235801",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №701",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4724007235802",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №702",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4724007235803",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №703",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4724007235804",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №704",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4724007235805",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №705",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4724007235806",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №706",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4724007235807",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №707",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4724007235808",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №708",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4724007235809",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №709",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4724007235810",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №710",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4724007235811",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №711",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4724007235812",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №712",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4724007235813",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №713",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4724007235814",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №714",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4724007235815",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №715",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4724007235816",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №716",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4724007235817",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №717",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4724007235818",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №718",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4724007235819",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №719",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4724007235820",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №720",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4724007235821",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №721",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4724007235822",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №722",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4724007235823",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №723",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4724007235824",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №724",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4724007235825",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №725",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4724007235826",
     "tikTvd": "27220001482179",
-    "tikName": "Голышмановская"
+    "tikName": "Голышмановская",
+    "uikName": "УИК №726",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4724008229310",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №801",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4724008229311",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №802",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4724008229312",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №803",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4724008229313",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №804",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4724008229314",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №805",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4724008229315",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №806",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4724008229316",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №807",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4724008229317",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №808",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4724008229318",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №809",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4724008229319",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №810",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4724008229320",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №811",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4724008229321",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №812",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4724008229322",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №813",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4724008229323",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №814",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4724008229324",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №815",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4724008229325",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №816",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4724008229326",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №817",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4724008229327",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №818",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4724008229328",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №819",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4724008229329",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №820",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4724008229330",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №821",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4724008229331",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №822",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4724008229332",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №823",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4724008229333",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №825",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4724008229334",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №827",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4724008229335",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №829",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4724008229336",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №830",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4724008229337",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №831",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4724008229338",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №832",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4724008229339",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №833",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4724008229340",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №834",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4724008229341",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №835",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4724008229342",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №836",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4724008229343",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №837",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4724008229344",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №838",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4724008229345",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №839",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4724008229346",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №841",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4724008229347",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №842",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4724008229348",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №843",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4724008229349",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №844",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4724008229350",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №845",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4724008229351",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №846",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4724008229352",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №847",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4724008229353",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №848",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4724008229354",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №849",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4724008229355",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №850",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4724008229356",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №851",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4724008229357",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №852",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4724008229358",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №853",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4724008229359",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №855",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4724008229360",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №856",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4724008229361",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №857",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4724008229362",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №858",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4724008229363",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №859",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4724008229364",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №860",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4724008233859",
     "tikTvd": "27220001482178",
-    "tikName": "Заводоуковская"
+    "tikName": "Заводоуковская",
+    "uikName": "УИК №861",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4724009237807",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №901",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4724009237808",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №902",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4724009237809",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №903",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4724009237810",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №904",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4724009237811",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №905",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4724009237812",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №906",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4724009237813",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №907",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4724009237814",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №908",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4724009237815",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №909",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4724009237816",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №910",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4724009237817",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №911",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4724009237818",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №912",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4724009237819",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №913",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4724009237820",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №914",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4724009237821",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №915",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4724009237822",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №916",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4724009237823",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №917",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4724009237824",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №918",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4724009237825",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №919",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4724009237826",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №922",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4724009237827",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №923",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4724009237828",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №924",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4724009237829",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №925",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4724009237830",
     "tikTvd": "27220001482177",
-    "tikName": "Исетская"
+    "tikName": "Исетская",
+    "uikName": "УИК №928",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4724026301510",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1001",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4724026301511",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1002",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4724026301512",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1003",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4724026301513",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1004",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4724026301514",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1005",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4724026301515",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1006",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4724026301516",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1007",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4724026301517",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1008",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4724026301518",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1009",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4724026301519",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1010",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4724026301520",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1011",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4724026301521",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1012",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4724026301522",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1013",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4724026301523",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1014",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4724026301524",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1015",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4724026301525",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1016",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4724026301526",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1017",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4724026301527",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1018",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4724026301528",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1019",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4724026301529",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1020",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4724026301530",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1021",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4724026301531",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1022",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4724026301532",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1023",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4724026301533",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1024",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4724026301534",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1025",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4724026301535",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1026",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4724026301536",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1027",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4724026301537",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1028",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4724026301538",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1029",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4724026301539",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1030",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4724026301540",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1031",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4724026301541",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1032",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4724026301542",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1033",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4724026301543",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1034",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4724026301544",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1035",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4724026301545",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1036",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4724026301546",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1037",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4724026301547",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1038",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4724026301548",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1039",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4724026301549",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1040",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4724026301550",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1041",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4724026301551",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1042",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4724026301552",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1043",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4724026301553",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1044",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4724026301554",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1045",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4724026301555",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1046",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4724026301556",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1047",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4724026301557",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1048",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4724026301558",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1049",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4724026301559",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1050",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4724026301560",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1051",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4724026301561",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1052",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4724026301562",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1053",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4724026301563",
     "tikTvd": "27220001482163",
-    "tikName": "Ишимская"
+    "tikName": "Ишимская",
+    "uikName": "УИК №1054",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4724010228601",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1101",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4724010228602",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1102",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4724010228603",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1103",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4724010228604",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1104",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4724010228605",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1105",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4724010228606",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1106",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4724010228607",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1107",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4724010228608",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1108",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4724010228609",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1109",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4724010228610",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1110",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4724010228611",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1111",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4724010228612",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1112",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4724010228613",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1113",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4724010228614",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1114",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4724010228615",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1115",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4724010228616",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1116",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4724010228617",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1117",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4724010228618",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1118",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4724010228619",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1119",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4724010228620",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1120",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4724010228621",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1121",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4724010228622",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1122",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4724010228623",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1123",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4724010228624",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1124",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4724010228625",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1125",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4724010228626",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1126",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4724010228627",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1127",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4724010228628",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1128",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4724010228629",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1129",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4724010228630",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1130",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4724010228631",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1131",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4724010228632",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1132",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4724010228633",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1133",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4724010228634",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1134",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4724010228635",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1136",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4724010228636",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1137",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4724010228637",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1138",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4724010228638",
     "tikTvd": "27220001482162",
-    "tikName": "Ишимская городская"
+    "tikName": "Ишимская городская",
+    "uikName": "УИК №1139",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4724011246234",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1201",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4724011246235",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1202",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4724011246236",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1203",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4724011246237",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1204",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4724011246238",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1205",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4724011246239",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1206",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4724011246240",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1207",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4724011246241",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1208",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4724011246242",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1209",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4724011246243",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1210",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4724011246244",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1211",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4724011246245",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1212",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4724011246246",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1213",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4724011246247",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1214",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4724011246248",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1215",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4724011246249",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1216",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4724011246250",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1217",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4724011246251",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1218",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4724011246252",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1219",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4724011246253",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1220",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4724011246254",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1221",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4724011246255",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1222",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4724011246256",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1223",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4724011246257",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1224",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4724011246258",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1225",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4724011246259",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1226",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4724011246260",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1227",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4724011246261",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1228",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4724011246262",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1229",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4724011246263",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1230",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4724011246264",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1231",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4724011246265",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1232",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4724011246266",
     "tikTvd": "27220001482176",
-    "tikName": "Казанская"
+    "tikName": "Казанская",
+    "uikName": "УИК №1233",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4724012247030",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1301",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4724012247031",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1302",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4724012247032",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1303",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4724012247033",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1304",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4724012247034",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1305",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4724012247035",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1306",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4724012247036",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1307",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4724012247037",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1308",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4724012247038",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1309",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4724012247039",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1310",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4724012247040",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1311",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4724012247041",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1312",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4724012247042",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1313",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4724012247043",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1314",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4724012247044",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1315",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4724012247045",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1317",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4724012247046",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1318",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4724012247047",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1319",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4724012247048",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1320",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4724012247049",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1321",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4724012247050",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1322",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4724012247051",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1323",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4724012247052",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1324",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4724012247053",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1325",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4724012247054",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1326",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4724012247055",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1327",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4724012247056",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1328",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4724012247057",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1329",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4724012247058",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1330",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4724012247059",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1332",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4724012247060",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1333",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4724012247061",
     "tikTvd": "27220001482161",
-    "tikName": "Нижнетавдинская"
+    "tikName": "Нижнетавдинская",
+    "uikName": "УИК №1334",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4724013183787",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1401",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4724013183788",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1402",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4724013183789",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1403",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4724013183790",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1404",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4724013183791",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1405",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4724013183792",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1406",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4724013183793",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1407",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4724013183794",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1408",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4724013183795",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1409",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4724013183796",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1410",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4724013183797",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1411",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4724013183798",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1412",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4724013183799",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1413",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4724013183800",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1414",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4724013183801",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1415",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4724013183802",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1416",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4724013183803",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1417",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4724013183804",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1418",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4724013183805",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1419",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4724013183806",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1420",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4724013183807",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1421",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4724013183808",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1424",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4724013183809",
     "tikTvd": "27220001482175",
-    "tikName": "Омутинская"
+    "tikName": "Омутинская",
+    "uikName": "УИК №1425",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4724014181814",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1501",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4724014181815",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1502",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4724014181816",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1503",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4724014181817",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1504",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4724014181818",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1505",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4724014181819",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1506",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4724014181820",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1507",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4724014181821",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1508",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4724014181822",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1509",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4724014181823",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1510",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4724014181824",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1511",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4724014181825",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1512",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4724014181826",
     "tikTvd": "27220001482174",
-    "tikName": "Сладковская"
+    "tikName": "Сладковская",
+    "uikName": "УИК №1513",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4724015167701",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1601",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4724015167702",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1602",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4724015167703",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1603",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4724015167704",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1604",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4724015167705",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1605",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4724015167706",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1606",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4724015167707",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1607",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4724015167708",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1608",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4724015167709",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1609",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4724015167710",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1610",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4724015167711",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1611",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4724015167712",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1612",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4724015167713",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1613",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4724015167714",
     "tikTvd": "27220001482160",
-    "tikName": "Сорокинская"
+    "tikName": "Сорокинская",
+    "uikName": "УИК №1614",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4724027277473",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1701",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4724027277474",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1702",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4724027277475",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1703",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4724027277476",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1704",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4724027277477",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1705",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4724027277478",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1706",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4724027277479",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1707",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4724027277480",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1708",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4724027277481",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1709",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4724027277482",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1710",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4724027277483",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1711",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4724027277484",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1712",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4724027277485",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1713",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4724027277486",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1714",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4724027277487",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1715",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4724027277488",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1716",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4724027277489",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1717",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4724027277490",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1718",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4724027277491",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1719",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4724027277492",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1720",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4724027277493",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1721",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4724027277494",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1722",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4724027277495",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1723",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4724027277496",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1724",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4724027277497",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1725",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4724027277498",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1726",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4724027277499",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1727",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4724027277500",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1728",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4724027277501",
     "tikTvd": "27220001482159",
-    "tikName": "Тобольская"
+    "tikName": "Тобольская",
+    "uikName": "УИК №1729",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4724016260817",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1801",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4724016260818",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1802",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4724016260819",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1803",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4724016260820",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1804",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4724016260821",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1805",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4724016260822",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1806",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4724016260823",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1807",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4724016260824",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1808",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4724016260825",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1809",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4724016260826",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1810",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4724016260827",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1811",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4724016260828",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1812",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4724016260829",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1813",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4724016260830",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1814",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4724016260831",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1815",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4724016260832",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1816",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4724016260833",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1817",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4724016260834",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1818",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4724016260835",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1819",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4724016260836",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1820",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4724016260837",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1821",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4724016260838",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1822",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4724016260839",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1823",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4724016260840",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1824",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4724016260841",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1825",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4724016260842",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1826",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4724016260843",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1827",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4724016260844",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1828",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4724016260845",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1829",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4724016260846",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1830",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4724016260847",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1831",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4724016260848",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1832",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4724016260849",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1833",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4724016260850",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1834",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4724016260851",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1835",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4724016260852",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1836",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4724016260853",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1837",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4724016260854",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1838",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4724016260855",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1839",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4724016260856",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1840",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4724016260857",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1841",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4724016260858",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1842",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4724016260859",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1843",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4724016260860",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1844",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4724016260861",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1845",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4724016260862",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1846",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4724016260863",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1847",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4724016260864",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1848",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4724016260865",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1850",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4724016260866",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1851",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4724016263429",
     "tikTvd": "27220001482158",
-    "tikName": "Тобольская городская"
+    "tikName": "Тобольская городская",
+    "uikName": "УИК №1852",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4724017414360",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1901",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4724017414361",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1902",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4724017414362",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1903",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4724017414363",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1904",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4724017414364",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1905",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4724017414365",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1906",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4724017414366",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1907",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4724017414367",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1908",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4724017414368",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1909",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4724017414369",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1910",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4724017414370",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1911",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4724017414371",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1912",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4724017414372",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1913",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4724017414373",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1914",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4724017414374",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1915",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4724017414375",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1916",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4724017414376",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1917",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4724017414377",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1918",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4724017414378",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1919",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4724017414379",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1920",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4724017414380",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1921",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4724017414381",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1922",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4724017414382",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1923",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4724017414383",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1924",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4724017414384",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1925",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4724017414385",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1926",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4724017414386",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1927",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4724017414387",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1928",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4724017414388",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1929",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4724017414389",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1930",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4724017414390",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1931",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4724017414391",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1932",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4724017414392",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1933",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4724017414393",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1934",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4724017414394",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1935",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4724017414395",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1936",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4724017414396",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1937",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4724017414397",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1938",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4724017414398",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1939",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4724017414399",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1940",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4724017414400",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1941",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4724017414401",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1942",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4724017414402",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1943",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4724017414403",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1944",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4724017414404",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1945",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4724017414405",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1946",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4724017414406",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1947",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4724017414407",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1948",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4724017414408",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1949",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4724017414409",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1950",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4724017414410",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1951",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4724017414411",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1952",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4724017414412",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1953",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4724017414413",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1954",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4724017414414",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1955",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4724017414415",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1956",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4724017414416",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1957",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4724017414417",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1958",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1959,
     "uikTvd": "4724017414418",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1959",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4724017414419",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1960",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1961,
     "uikTvd": "4724017414420",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1961",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1962,
     "uikTvd": "4724017414421",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1962",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4724017414422",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1963",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4724017414423",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1964",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1965,
     "uikTvd": "4724017414424",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1965",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4724017414425",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1966",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1967,
     "uikTvd": "4724017414426",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1967",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1968,
     "uikTvd": "4724017414427",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1968",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1969,
     "uikTvd": "4724017414428",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1969",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1970,
     "uikTvd": "4724017414429",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1970",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1971,
     "uikTvd": "4724017414430",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1971",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1972,
     "uikTvd": "4724017414431",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1972",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1973,
     "uikTvd": "4724017414432",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1973",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1974,
     "uikTvd": "4724017414433",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1974",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1975,
     "uikTvd": "4724017414434",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1975",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 1976,
     "uikTvd": "4724017414435",
     "tikTvd": "27220001482173",
-    "tikName": "Тюменская"
+    "tikName": "Тюменская",
+    "uikName": "УИК №1976",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4724018308017",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2001",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4724018311122",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2002",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4724018308018",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2003",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4724018308019",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2004",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4724018308020",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2005",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4724018308021",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2006",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4724018308022",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2007",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4724018308023",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2008",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4724018308024",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2009",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4724018308025",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2010",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4724018308026",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2011",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4724018308027",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2012",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4724018308028",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2013",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4724018308029",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2014",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4724018308030",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2015",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4724018308031",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2016",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4724018308032",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2017",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4724018308033",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2018",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4724018308034",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2019",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4724018308035",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2020",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4724018308036",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2021",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4724018308037",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2022",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4724018311123",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2023",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4724018308038",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2024",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4724018308039",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2025",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4724018308040",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2026",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4724018308041",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2027",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4724018308042",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2028",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4724018308043",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2029",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4724018308044",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2030",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4724018308045",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2031",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4724018308046",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2032",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4724018308047",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2033",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4724018308048",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2034",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4724018308049",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2035",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4724018308050",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2036",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4724018308051",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2037",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4724018308052",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2038",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4724018308053",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2039",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4724018308054",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2040",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4724018308055",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2041",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4724018308056",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2042",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4724018308057",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2043",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4724018308058",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2044",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4724018308059",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2045",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4724018308060",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2046",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4724018308061",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2047",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4724018308062",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2048",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4724018308063",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2049",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4724018308064",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2050",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4724018308065",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2051",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4724018308066",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2052",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4724018308067",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2053",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4724018308068",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2054",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4724018308069",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2055",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4724018308070",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2056",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2057,
     "uikTvd": "4724018308071",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2057",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2058,
     "uikTvd": "4724018308072",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2058",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2059,
     "uikTvd": "4724018308073",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2059",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2060,
     "uikTvd": "4724018308074",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2060",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2061,
     "uikTvd": "4724018308075",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2061",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2062,
     "uikTvd": "4724018308076",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2062",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2063,
     "uikTvd": "4724018308077",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2063",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2064,
     "uikTvd": "4724018308078",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2064",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2065,
     "uikTvd": "4724018308079",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2065",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2066,
     "uikTvd": "4724018308080",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2066",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2067,
     "uikTvd": "4724018308081",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2067",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2068,
     "uikTvd": "4724018308082",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2068",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2069,
     "uikTvd": "4724018308083",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2069",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2070,
     "uikTvd": "4724018308084",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2070",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2071,
     "uikTvd": "4724018308085",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2071",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2072,
     "uikTvd": "4724018308086",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2072",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2073,
     "uikTvd": "4724018308087",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2073",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2074,
     "uikTvd": "4724018308088",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2074",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2075,
     "uikTvd": "4724018308089",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2075",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2076,
     "uikTvd": "4724018308090",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2076",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2077,
     "uikTvd": "4724018308091",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2077",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2078,
     "uikTvd": "4724018308092",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2078",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2079,
     "uikTvd": "4724018308093",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2079",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2080,
     "uikTvd": "4724018308094",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2080",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4724018308095",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2081",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2082,
     "uikTvd": "4724018308096",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2082",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2083,
     "uikTvd": "4724018308097",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2083",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2084,
     "uikTvd": "4724018308098",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2084",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2085,
     "uikTvd": "4724018308099",
     "tikTvd": "27220001482172",
-    "tikName": "Тюмень, Калининская"
+    "tikName": "Тюмень, Калининская",
+    "uikName": "УИК №2085",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4724019253653",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2101",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4724019253654",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2102",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4724019253655",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2103",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4724019253656",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2104",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4724019253657",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2105",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4724019253658",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2106",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4724019253659",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2107",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4724019253660",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2108",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4724019253661",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2109",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4724019253662",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2110",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4724019253663",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2111",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4724019253664",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2112",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4724019253665",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2113",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4724019253666",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2114",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4724019253667",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2115",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4724019253668",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2116",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4724019253669",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2117",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4724019253670",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2118",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4724019253671",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2119",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4724019253672",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2120",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4724019253673",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2121",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4724019253674",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2122",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4724019253675",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2123",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4724019253676",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2124",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4724019253677",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2125",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4724019253678",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2126",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4724019253679",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2127",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4724019253680",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2128",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4724019253681",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2129",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4724019253682",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2130",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4724019253683",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2131",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4724019253684",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2132",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4724019253685",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2133",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2134,
     "uikTvd": "4724019253686",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2134",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2135,
     "uikTvd": "4724019253687",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2135",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2136,
     "uikTvd": "4724019253688",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2136",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2137,
     "uikTvd": "4724019253689",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2137",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2138,
     "uikTvd": "4724019253690",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2138",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2139,
     "uikTvd": "4724019253691",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2139",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2140,
     "uikTvd": "4724019253692",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2140",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2141,
     "uikTvd": "4724019253693",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2141",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2142,
     "uikTvd": "4724019253694",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2142",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2143,
     "uikTvd": "4724019253695",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2143",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2144,
     "uikTvd": "4724019253696",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2144",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2145,
     "uikTvd": "4724019253697",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2145",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2146,
     "uikTvd": "4724019253698",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2146",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2147,
     "uikTvd": "4724019253699",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2147",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2148,
     "uikTvd": "4724019253700",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2148",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2149,
     "uikTvd": "4724019253701",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2149",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2150,
     "uikTvd": "4724019253702",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2150",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2151,
     "uikTvd": "4724019253703",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2151",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2152,
     "uikTvd": "4724019253704",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2152",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2153,
     "uikTvd": "4724019253705",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2153",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2154,
     "uikTvd": "4724019253706",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2154",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2155,
     "uikTvd": "4724019253707",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2155",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2156,
     "uikTvd": "4724019253708",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2156",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2157,
     "uikTvd": "4724019253709",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2157",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2158,
     "uikTvd": "4724019253710",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2158",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2159,
     "uikTvd": "4724019253711",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2159",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2160,
     "uikTvd": "4724019253712",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2160",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2161,
     "uikTvd": "4724019253713",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2161",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2162,
     "uikTvd": "4724019253714",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2162",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2163,
     "uikTvd": "4724019253715",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2163",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2164,
     "uikTvd": "4724019261557",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2164",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2165,
     "uikTvd": "4724019261558",
     "tikTvd": "27220001482157",
-    "tikName": "Тюмень, Ленинская"
+    "tikName": "Тюмень, Ленинская",
+    "uikName": "УИК №2165",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4724020299205",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2201",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4724020299206",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2202",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4724020299207",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2203",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4724020299208",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2204",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4724020299209",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2205",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4724020299210",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2206",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4724020299211",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2207",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4724020299212",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2208",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4724020299213",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2209",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4724020299214",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2210",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4724020299215",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2211",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4724020299216",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2212",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4724020299217",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2213",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4724020299218",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2214",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4724020299219",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2215",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4724020299220",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2216",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4724020299221",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2217",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4724020299222",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2218",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4724020299223",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2219",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4724020299224",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2220",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4724020299225",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2221",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4724020299226",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2222",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4724020299227",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2223",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4724020299228",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2224",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4724020299229",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2225",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4724020299230",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2226",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4724020299231",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2227",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4724020299232",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2228",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4724020299233",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2229",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4724020299234",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2230",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4724020299235",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2231",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4724020299236",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2232",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4724020299237",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2233",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4724020299238",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2234",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4724020299239",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2235",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4724020299240",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2236",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4724020299241",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2237",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4724020299242",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2238",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4724020299243",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2239",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4724020299244",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2240",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4724020299245",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2241",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4724020299246",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2242",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4724020299247",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2243",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4724020299248",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2244",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4724020299249",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2245",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4724020299250",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2246",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2247,
     "uikTvd": "4724020299251",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2247",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4724020299252",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2248",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2249,
     "uikTvd": "4724020299253",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2249",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4724020299254",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2250",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2251,
     "uikTvd": "4724020299255",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2251",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4724020299256",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2252",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2253,
     "uikTvd": "4724020299257",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2253",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4724020299258",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2254",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2255,
     "uikTvd": "4724020299259",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2255",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2256,
     "uikTvd": "4724020299260",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2256",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2257,
     "uikTvd": "4724020299261",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2257",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2258,
     "uikTvd": "4724020299262",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2258",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2259,
     "uikTvd": "4724020299263",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2259",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2260,
     "uikTvd": "4724020299264",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2260",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2261,
     "uikTvd": "4724020299265",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2261",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2262,
     "uikTvd": "4724020299266",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2262",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2263,
     "uikTvd": "4724020299267",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2263",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2264,
     "uikTvd": "4724020299268",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2264",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2265,
     "uikTvd": "4724020299269",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2265",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2266,
     "uikTvd": "4724020299270",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2266",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2267,
     "uikTvd": "4724020299271",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2267",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2268,
     "uikTvd": "4724020299272",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2268",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2269,
     "uikTvd": "4724020299273",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2269",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2270,
     "uikTvd": "4724020299274",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2270",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2271,
     "uikTvd": "4724020299275",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2271",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2272,
     "uikTvd": "4724020299276",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2272",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2273,
     "uikTvd": "4724020299277",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2273",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2274,
     "uikTvd": "4724020299278",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2274",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2275,
     "uikTvd": "4724020299279",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2275",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2276,
     "uikTvd": "4724020299280",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2276",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2277,
     "uikTvd": "4724020299281",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2277",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2278,
     "uikTvd": "4724020299282",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2278",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2279,
     "uikTvd": "4724020299283",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2279",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2280,
     "uikTvd": "4724020299284",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2280",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2281,
     "uikTvd": "4724020299285",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2281",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2282,
     "uikTvd": "4724020307112",
     "tikTvd": "27220001482156",
-    "tikName": "Тюмень, Центральная"
+    "tikName": "Тюмень, Центральная",
+    "uikName": "УИК №2282",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4724021213048",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2301",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4724021213049",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2302",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4724021213050",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2303",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4724021213051",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2304",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4724021213052",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2305",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4724021213053",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2306",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4724021213054",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2307",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4724021213055",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2308",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4724021213056",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2309",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4724021213057",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2310",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4724021213058",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2311",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4724021213059",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2312",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4724021213060",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2313",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4724021213061",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2314",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4724021213062",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2315",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4724021213063",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2316",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4724021213064",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2317",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4724021213065",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2318",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4724021213066",
     "tikTvd": "27220001482155",
-    "tikName": "Уватская"
+    "tikName": "Уватская",
+    "uikName": "УИК №2319",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4724022216071",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2401",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4724022216072",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2402",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4724022216073",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2403",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4724022216074",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2405",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4724022216075",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2406",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4724022216076",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2407",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4724022216077",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2408",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4724022216078",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2409",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4724022216079",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2410",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4724022216080",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2411",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4724022216081",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2412",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4724022216082",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2413",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4724022216083",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2414",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4724022216084",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2415",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4724022216085",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2416",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4724022216086",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2418",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4724022216087",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2419",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4724022216088",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2420",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4724022216089",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2421",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4724022216090",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2422",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4724022216091",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2423",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4724022216092",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2424",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4724022216093",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2425",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4724022216094",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2426",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4724022216095",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2427",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4724022216096",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2428",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4724022216097",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2429",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4724022216098",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2430",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4724022216099",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2431",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4724022216100",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2432",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4724022216101",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2433",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4724022216102",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2434",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4724022216103",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2435",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4724022216104",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2436",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4724022216105",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2437",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4724022216106",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2438",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4724022216107",
     "tikTvd": "27220001482171",
-    "tikName": "Упоровская"
+    "tikName": "Упоровская",
+    "uikName": "УИК №2439",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4724023186203",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2501",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4724023186204",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2502",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4724023186205",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2503",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4724023186206",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2504",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4724023186207",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2505",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4724023186208",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2507",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4724023186209",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2508",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4724023186210",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2509",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4724023186211",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2510",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4724023186212",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2512",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4724023186213",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2513",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4724023186214",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2514",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4724023186215",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2515",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4724023186216",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2516",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4724023186217",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2517",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4724023186218",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2518",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4724023186219",
     "tikTvd": "27220001482154",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "uikName": "УИК №2519",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4724028230678",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2601",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4724028230679",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2602",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4724028230680",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2603",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4724028230681",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2604",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4724028230682",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2605",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4724028230683",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2606",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4724028230684",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2607",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4724028230685",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2608",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4724028230686",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2609",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4724028230687",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2610",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4724028230688",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2611",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4724028230689",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2612",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4724028230690",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2613",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4724028230691",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2614",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4724028230692",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2615",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4724028230693",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2616",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4724028230694",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2617",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4724028230695",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2618",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4724028230696",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2619",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4724028230697",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2620",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4724028230698",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2621",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4724028230699",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2622",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4724028230700",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2623",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4724028230701",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2624",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4724028230702",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2625",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4724028230703",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2626",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4724028230704",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2627",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4724028230705",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2628",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4724028230706",
     "tikTvd": "27220001482170",
-    "tikName": "Ялуторовская"
+    "tikName": "Ялуторовская",
+    "uikName": "УИК №2629",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4724024161386",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2701",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4724024161387",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2702",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4724024161388",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2703",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4724024161389",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2704",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4724024161390",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2705",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4724024161391",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2706",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4724024161392",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2707",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4724024161393",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2708",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4724024161394",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2709",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4724024161395",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2710",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4724024161396",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2711",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4724024161397",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2712",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4724024161398",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2713",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4724024161399",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2714",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4724024161400",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2715",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4724024161401",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2716",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4724024161402",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2717",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4724024161403",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2718",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4724024161404",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2719",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4724024161405",
     "tikTvd": "27220001482169",
-    "tikName": "Ялуторовская городская"
+    "tikName": "Ялуторовская городская",
+    "uikName": "УИК №2720",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4724025224523",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2801",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4724025224524",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2802",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4724025224525",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2803",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4724025224526",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2804",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4724025224527",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2805",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4724025224528",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2806",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4724025224529",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2807",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4724025224530",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2808",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4724025224531",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2809",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4724025224532",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2810",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4724025224533",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2811",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4724025224534",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2812",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4724025224535",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2813",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4724025224536",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2814",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4724025224537",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2815",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4724025224538",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2816",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4724025224539",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2817",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4724025224540",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2818",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4724025224541",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2819",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4724025224542",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2820",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4724025224543",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2822",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4724025224544",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2824",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4724025224545",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2825",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4724025224546",
     "tikTvd": "27220001482153",
-    "tikName": "Ярковская"
+    "tikName": "Ярковская",
+    "uikName": "УИК №2826",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883682",
+    "oikName": "Тюменская область – Тюменский",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
+    }
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4724029251932",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2901",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4724029251933",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2902",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4724029251934",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2903",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4724029251935",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2904",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4724029251936",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2905",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4724029251937",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2906",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4724029251938",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2907",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4724029251939",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2908",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4724029251940",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2909",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4724029251941",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2910",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4724029251942",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2911",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4724029251943",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2912",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4724029251944",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2913",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4724029251945",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2914",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4724029251946",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2915",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4724029251947",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2916",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4724029251948",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2917",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4724029251949",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2918",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4724029251950",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2919",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4724029251951",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2920",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4724029251952",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2921",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4724029251953",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2922",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4724029251954",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2923",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4724029251955",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2924",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4724029251956",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2925",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2926,
     "uikTvd": "4724029251957",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2926",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2927,
     "uikTvd": "4724029251958",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2927",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2928,
     "uikTvd": "4724029251959",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2928",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2929,
     "uikTvd": "4724029251960",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2929",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2930,
     "uikTvd": "4724029251961",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2930",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2931,
     "uikTvd": "4724029251962",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2931",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2932,
     "uikTvd": "4724029251963",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2932",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2933,
     "uikTvd": "4724029251964",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2933",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2934,
     "uikTvd": "4724029251965",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2934",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2935,
     "uikTvd": "4724029251966",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2935",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2936,
     "uikTvd": "4724029251967",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2936",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2937,
     "uikTvd": "4724029251968",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2937",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2938,
     "uikTvd": "4724029251969",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2938",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2939,
     "uikTvd": "4724029251970",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2939",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2940,
     "uikTvd": "4724029251971",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2940",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2941,
     "uikTvd": "4724029251972",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2941",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2942,
     "uikTvd": "4724029251973",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2942",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2943,
     "uikTvd": "4724029251974",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2943",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2944,
     "uikTvd": "4724029251975",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2944",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2945,
     "uikTvd": "4724029251976",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2945",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2946,
     "uikTvd": "4724029251977",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2946",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2947,
     "uikTvd": "4724029251978",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2947",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2948,
     "uikTvd": "4724029251979",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2948",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2949,
     "uikTvd": "4724029251980",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2949",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2950,
     "uikTvd": "4724029251981",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2950",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2951,
     "uikTvd": "4724029251982",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2951",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2952,
     "uikTvd": "4724029251983",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2952",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2953,
     "uikTvd": "4724029251984",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2953",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2954,
     "uikTvd": "4724029251985",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2954",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2955,
     "uikTvd": "4724029251986",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2955",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2956,
     "uikTvd": "4724029251987",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2956",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2957,
     "uikTvd": "4724029251988",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2957",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2958,
     "uikTvd": "4724029251989",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2958",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2959,
     "uikTvd": "4724029251990",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2959",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2960,
     "uikTvd": "4724029251991",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2960",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2961,
     "uikTvd": "4724029251992",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2961",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2962,
     "uikTvd": "4724029251993",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2962",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2963,
     "uikTvd": "4724029251994",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2963",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2964,
     "uikTvd": "4724029251995",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2964",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2965,
     "uikTvd": "4724029251996",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2965",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2966,
     "uikTvd": "4724029251997",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2966",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2967,
     "uikTvd": "4724029251998",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2967",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2968,
     "uikTvd": "4724029251999",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2968",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2969,
     "uikTvd": "4724029252000",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2969",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2970,
     "uikTvd": "4724029252001",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2970",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2971,
     "uikTvd": "4724029252002",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2971",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2972,
     "uikTvd": "4724029252003",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2972",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2973,
     "uikTvd": "4724029257584",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2973",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   },
   {
     "uikNumber": 2974,
     "uikTvd": "4724029257585",
     "tikTvd": "27220001482168",
-    "tikName": "Тюмень, Восточная"
+    "tikName": "Тюмень, Восточная",
+    "uikName": "УИК №2974",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
+    "oikTvd": "100100225883683",
+    "oikName": "Тюменская область – Заводоуковский",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
+    }
   }
 ] satisfies readonly UikTikRelation[];

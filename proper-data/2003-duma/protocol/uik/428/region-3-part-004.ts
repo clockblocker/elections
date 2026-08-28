@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 48,
-      "Морозов Алексей Егорович": 6,
-      "Нигматулин Роберт Искандрович": 16,
-      "Никитин Валентин Иванович": 24,
-      "Сафин Фаиль Габдуллович": 17,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 48,
+      "gas:candidate-vibid:302300266644": 6,
+      "gas:candidate-vibid:302300266993": 16,
+      "gas:candidate-vibid:1001000121784": 24,
+      "gas:candidate-vibid:302300266722": 17,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 0,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 12,
-      "Морозов Алексей Егорович": 6,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 9,
-      "Сафин Фаиль Габдуллович": 9,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 0,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 12,
+      "gas:candidate-vibid:302300266644": 6,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 9,
+      "gas:candidate-vibid:302300266722": 9,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 52,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 2,
-      "Сафин Фаиль Габдуллович": 3,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 52,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 2,
+      "gas:candidate-vibid:302300266722": 3,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 114,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 6,
-      "Никитин Валентин Иванович": 1,
-      "Сафин Фаиль Габдуллович": 7,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 114,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 6,
+      "gas:candidate-vibid:1001000121784": 1,
+      "gas:candidate-vibid:302300266722": 7,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 0,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 3,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 6,
-      "Никитин Валентин Иванович": 2,
-      "Сафин Фаиль Габдуллович": 0,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000277355": 0,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 3,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 6,
+      "gas:candidate-vibid:1001000121784": 2,
+      "gas:candidate-vibid:302300266722": 0,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 14,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 4,
-      "Сафин Фаиль Габдуллович": 6,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 14,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 4,
+      "gas:candidate-vibid:302300266722": 6,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 48,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 9,
-      "Сафин Фаиль Габдуллович": 9,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 48,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 9,
+      "gas:candidate-vibid:302300266722": 9,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 27,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 17,
-      "Никитин Валентин Иванович": 12,
-      "Сафин Фаиль Габдуллович": 4,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 27,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 17,
+      "gas:candidate-vibid:1001000121784": 12,
+      "gas:candidate-vibid:302300266722": 4,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066834&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 58,
-      "Асадуллин Флюр Минзагитович": 109,
-      "Асафьев Артур Валерьевич": 74,
-      "Кальметьев Марс Рахматуллович": 149,
-      "Морозов Алексей Егорович": 84,
-      "Нигматулин Роберт Искандрович": 143,
-      "Никитин Валентин Иванович": 118,
-      "Сафин Фаиль Габдуллович": 92,
-      "Токарчук Александр Сергеевич": 22,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000277355": 58,
+      "gas:candidate-vibid:302300266624": 109,
+      "gas:candidate-vibid:1001000112173": 74,
+      "gas:candidate-vibid:1001000225867": 149,
+      "gas:candidate-vibid:302300266644": 84,
+      "gas:candidate-vibid:302300266993": 143,
+      "gas:candidate-vibid:1001000121784": 118,
+      "gas:candidate-vibid:302300266722": 92,
+      "gas:candidate-vibid:1001000194994": 22,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 85,
-      "Асадуллин Флюр Минзагитович": 118,
-      "Асафьев Артур Валерьевич": 89,
-      "Кальметьев Марс Рахматуллович": 299,
-      "Морозов Алексей Егорович": 88,
-      "Нигматулин Роберт Искандрович": 206,
-      "Никитин Валентин Иванович": 147,
-      "Сафин Фаиль Габдуллович": 88,
-      "Токарчук Александр Сергеевич": 21,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000277355": 85,
+      "gas:candidate-vibid:302300266624": 118,
+      "gas:candidate-vibid:1001000112173": 89,
+      "gas:candidate-vibid:1001000225867": 299,
+      "gas:candidate-vibid:302300266644": 88,
+      "gas:candidate-vibid:302300266993": 206,
+      "gas:candidate-vibid:1001000121784": 147,
+      "gas:candidate-vibid:302300266722": 88,
+      "gas:candidate-vibid:1001000194994": 21,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 5
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 75,
-      "Асадуллин Флюр Минзагитович": 98,
-      "Асафьев Артур Валерьевич": 98,
-      "Кальметьев Марс Рахматуллович": 124,
-      "Морозов Алексей Егорович": 110,
-      "Нигматулин Роберт Искандрович": 200,
-      "Никитин Валентин Иванович": 175,
-      "Сафин Фаиль Габдуллович": 80,
-      "Токарчук Александр Сергеевич": 31,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000277355": 75,
+      "gas:candidate-vibid:302300266624": 98,
+      "gas:candidate-vibid:1001000112173": 98,
+      "gas:candidate-vibid:1001000225867": 124,
+      "gas:candidate-vibid:302300266644": 110,
+      "gas:candidate-vibid:302300266993": 200,
+      "gas:candidate-vibid:1001000121784": 175,
+      "gas:candidate-vibid:302300266722": 80,
+      "gas:candidate-vibid:1001000194994": 31,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 83,
-      "Асадуллин Флюр Минзагитович": 243,
-      "Асафьев Артур Валерьевич": 90,
-      "Кальметьев Марс Рахматуллович": 141,
-      "Морозов Алексей Егорович": 114,
-      "Нигматулин Роберт Искандрович": 191,
-      "Никитин Валентин Иванович": 197,
-      "Сафин Фаиль Габдуллович": 97,
-      "Токарчук Александр Сергеевич": 23,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000277355": 83,
+      "gas:candidate-vibid:302300266624": 243,
+      "gas:candidate-vibid:1001000112173": 90,
+      "gas:candidate-vibid:1001000225867": 141,
+      "gas:candidate-vibid:302300266644": 114,
+      "gas:candidate-vibid:302300266993": 191,
+      "gas:candidate-vibid:1001000121784": 197,
+      "gas:candidate-vibid:302300266722": 97,
+      "gas:candidate-vibid:1001000194994": 23,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 86,
-      "Асадуллин Флюр Минзагитович": 243,
-      "Асафьев Артур Валерьевич": 80,
-      "Кальметьев Марс Рахматуллович": 131,
-      "Морозов Алексей Егорович": 136,
-      "Нигматулин Роберт Искандрович": 206,
-      "Никитин Валентин Иванович": 161,
-      "Сафин Фаиль Габдуллович": 113,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000277355": 86,
+      "gas:candidate-vibid:302300266624": 243,
+      "gas:candidate-vibid:1001000112173": 80,
+      "gas:candidate-vibid:1001000225867": 131,
+      "gas:candidate-vibid:302300266644": 136,
+      "gas:candidate-vibid:302300266993": 206,
+      "gas:candidate-vibid:1001000121784": 161,
+      "gas:candidate-vibid:302300266722": 113,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 71,
-      "Асадуллин Флюр Минзагитович": 277,
-      "Асафьев Артур Валерьевич": 98,
-      "Кальметьев Марс Рахматуллович": 116,
-      "Морозов Алексей Егорович": 90,
-      "Нигматулин Роберт Искандрович": 184,
-      "Никитин Валентин Иванович": 186,
-      "Сафин Фаиль Габдуллович": 98,
-      "Токарчук Александр Сергеевич": 18,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000277355": 71,
+      "gas:candidate-vibid:302300266624": 277,
+      "gas:candidate-vibid:1001000112173": 98,
+      "gas:candidate-vibid:1001000225867": 116,
+      "gas:candidate-vibid:302300266644": 90,
+      "gas:candidate-vibid:302300266993": 184,
+      "gas:candidate-vibid:1001000121784": 186,
+      "gas:candidate-vibid:302300266722": 98,
+      "gas:candidate-vibid:1001000194994": 18,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 87,
-      "Асадуллин Флюр Минзагитович": 375,
-      "Асафьев Артур Валерьевич": 135,
-      "Кальметьев Марс Рахматуллович": 133,
-      "Морозов Алексей Егорович": 130,
-      "Нигматулин Роберт Искандрович": 247,
-      "Никитин Валентин Иванович": 256,
-      "Сафин Фаиль Габдуллович": 140,
-      "Токарчук Александр Сергеевич": 35,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000277355": 87,
+      "gas:candidate-vibid:302300266624": 375,
+      "gas:candidate-vibid:1001000112173": 135,
+      "gas:candidate-vibid:1001000225867": 133,
+      "gas:candidate-vibid:302300266644": 130,
+      "gas:candidate-vibid:302300266993": 247,
+      "gas:candidate-vibid:1001000121784": 256,
+      "gas:candidate-vibid:302300266722": 140,
+      "gas:candidate-vibid:1001000194994": 35,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 99,
-      "Асадуллин Флюр Минзагитович": 214,
-      "Асафьев Артур Валерьевич": 136,
-      "Кальметьев Марс Рахматуллович": 136,
-      "Морозов Алексей Егорович": 151,
-      "Нигматулин Роберт Искандрович": 229,
-      "Никитин Валентин Иванович": 241,
-      "Сафин Фаиль Габдуллович": 109,
-      "Токарчук Александр Сергеевич": 40,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000277355": 99,
+      "gas:candidate-vibid:302300266624": 214,
+      "gas:candidate-vibid:1001000112173": 136,
+      "gas:candidate-vibid:1001000225867": 136,
+      "gas:candidate-vibid:302300266644": 151,
+      "gas:candidate-vibid:302300266993": 229,
+      "gas:candidate-vibid:1001000121784": 241,
+      "gas:candidate-vibid:302300266722": 109,
+      "gas:candidate-vibid:1001000194994": 40,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 95,
-      "Асадуллин Флюр Минзагитович": 219,
-      "Асафьев Артур Валерьевич": 180,
-      "Кальметьев Марс Рахматуллович": 187,
-      "Морозов Алексей Егорович": 156,
-      "Нигматулин Роберт Искандрович": 255,
-      "Никитин Валентин Иванович": 313,
-      "Сафин Фаиль Габдуллович": 162,
-      "Токарчук Александр Сергеевич": 42,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000277355": 95,
+      "gas:candidate-vibid:302300266624": 219,
+      "gas:candidate-vibid:1001000112173": 180,
+      "gas:candidate-vibid:1001000225867": 187,
+      "gas:candidate-vibid:302300266644": 156,
+      "gas:candidate-vibid:302300266993": 255,
+      "gas:candidate-vibid:1001000121784": 313,
+      "gas:candidate-vibid:302300266722": 162,
+      "gas:candidate-vibid:1001000194994": 42,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 107,
-      "Асадуллин Флюр Минзагитович": 107,
-      "Асафьев Артур Валерьевич": 175,
-      "Кальметьев Марс Рахматуллович": 259,
-      "Морозов Алексей Егорович": 148,
-      "Нигматулин Роберт Искандрович": 328,
-      "Никитин Валентин Иванович": 263,
-      "Сафин Фаиль Габдуллович": 139,
-      "Токарчук Александр Сергеевич": 25,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000277355": 107,
+      "gas:candidate-vibid:302300266624": 107,
+      "gas:candidate-vibid:1001000112173": 175,
+      "gas:candidate-vibid:1001000225867": 259,
+      "gas:candidate-vibid:302300266644": 148,
+      "gas:candidate-vibid:302300266993": 328,
+      "gas:candidate-vibid:1001000121784": 263,
+      "gas:candidate-vibid:302300266722": 139,
+      "gas:candidate-vibid:1001000194994": 25,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 129,
-      "Асадуллин Флюр Минзагитович": 179,
-      "Асафьев Артур Валерьевич": 127,
-      "Кальметьев Марс Рахматуллович": 183,
-      "Морозов Алексей Егорович": 162,
-      "Нигматулин Роберт Искандрович": 292,
-      "Никитин Валентин Иванович": 212,
-      "Сафин Фаиль Габдуллович": 149,
-      "Токарчук Александр Сергеевич": 29,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000277355": 129,
+      "gas:candidate-vibid:302300266624": 179,
+      "gas:candidate-vibid:1001000112173": 127,
+      "gas:candidate-vibid:1001000225867": 183,
+      "gas:candidate-vibid:302300266644": 162,
+      "gas:candidate-vibid:302300266993": 292,
+      "gas:candidate-vibid:1001000121784": 212,
+      "gas:candidate-vibid:302300266722": 149,
+      "gas:candidate-vibid:1001000194994": 29,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 94,
-      "Асадуллин Флюр Минзагитович": 171,
-      "Асафьев Артур Валерьевич": 80,
-      "Кальметьев Марс Рахматуллович": 183,
-      "Морозов Алексей Егорович": 131,
-      "Нигматулин Роберт Искандрович": 208,
-      "Никитин Валентин Иванович": 145,
-      "Сафин Фаиль Габдуллович": 168,
-      "Токарчук Александр Сергеевич": 24,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000277355": 94,
+      "gas:candidate-vibid:302300266624": 171,
+      "gas:candidate-vibid:1001000112173": 80,
+      "gas:candidate-vibid:1001000225867": 183,
+      "gas:candidate-vibid:302300266644": 131,
+      "gas:candidate-vibid:302300266993": 208,
+      "gas:candidate-vibid:1001000121784": 145,
+      "gas:candidate-vibid:302300266722": 168,
+      "gas:candidate-vibid:1001000194994": 24,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 129,
-      "Асадуллин Флюр Минзагитович": 184,
-      "Асафьев Артур Валерьевич": 128,
-      "Кальметьев Марс Рахматуллович": 302,
-      "Морозов Алексей Егорович": 170,
-      "Нигматулин Роберт Искандрович": 184,
-      "Никитин Валентин Иванович": 203,
-      "Сафин Фаиль Габдуллович": 190,
-      "Токарчук Александр Сергеевич": 30,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000277355": 129,
+      "gas:candidate-vibid:302300266624": 184,
+      "gas:candidate-vibid:1001000112173": 128,
+      "gas:candidate-vibid:1001000225867": 302,
+      "gas:candidate-vibid:302300266644": 170,
+      "gas:candidate-vibid:302300266993": 184,
+      "gas:candidate-vibid:1001000121784": 203,
+      "gas:candidate-vibid:302300266722": 190,
+      "gas:candidate-vibid:1001000194994": 30,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 109,
-      "Асадуллин Флюр Минзагитович": 156,
-      "Асафьев Артур Валерьевич": 153,
-      "Кальметьев Марс Рахматуллович": 166,
-      "Морозов Алексей Егорович": 188,
-      "Нигматулин Роберт Искандрович": 226,
-      "Никитин Валентин Иванович": 212,
-      "Сафин Фаиль Габдуллович": 136,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000277355": 109,
+      "gas:candidate-vibid:302300266624": 156,
+      "gas:candidate-vibid:1001000112173": 153,
+      "gas:candidate-vibid:1001000225867": 166,
+      "gas:candidate-vibid:302300266644": 188,
+      "gas:candidate-vibid:302300266993": 226,
+      "gas:candidate-vibid:1001000121784": 212,
+      "gas:candidate-vibid:302300266722": 136,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 110,
-      "Асадуллин Флюр Минзагитович": 132,
-      "Асафьев Артур Валерьевич": 84,
-      "Кальметьев Марс Рахматуллович": 150,
-      "Морозов Алексей Егорович": 179,
-      "Нигматулин Роберт Искандрович": 201,
-      "Никитин Валентин Иванович": 165,
-      "Сафин Фаиль Габдуллович": 119,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000277355": 110,
+      "gas:candidate-vibid:302300266624": 132,
+      "gas:candidate-vibid:1001000112173": 84,
+      "gas:candidate-vibid:1001000225867": 150,
+      "gas:candidate-vibid:302300266644": 179,
+      "gas:candidate-vibid:302300266993": 201,
+      "gas:candidate-vibid:1001000121784": 165,
+      "gas:candidate-vibid:302300266722": 119,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 157,
-      "Асадуллин Флюр Минзагитович": 156,
-      "Асафьев Артур Валерьевич": 133,
-      "Кальметьев Марс Рахматуллович": 253,
-      "Морозов Алексей Егорович": 156,
-      "Нигматулин Роберт Искандрович": 271,
-      "Никитин Валентин Иванович": 170,
-      "Сафин Фаиль Габдуллович": 139,
-      "Токарчук Александр Сергеевич": 40,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000277355": 157,
+      "gas:candidate-vibid:302300266624": 156,
+      "gas:candidate-vibid:1001000112173": 133,
+      "gas:candidate-vibid:1001000225867": 253,
+      "gas:candidate-vibid:302300266644": 156,
+      "gas:candidate-vibid:302300266993": 271,
+      "gas:candidate-vibid:1001000121784": 170,
+      "gas:candidate-vibid:302300266722": 139,
+      "gas:candidate-vibid:1001000194994": 40,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 139,
-      "Асадуллин Флюр Минзагитович": 208,
-      "Асафьев Артур Валерьевич": 118,
-      "Кальметьев Марс Рахматуллович": 198,
-      "Морозов Алексей Егорович": 135,
-      "Нигматулин Роберт Искандрович": 354,
-      "Никитин Валентин Иванович": 198,
-      "Сафин Фаиль Габдуллович": 108,
-      "Токарчук Александр Сергеевич": 24,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000277355": 139,
+      "gas:candidate-vibid:302300266624": 208,
+      "gas:candidate-vibid:1001000112173": 118,
+      "gas:candidate-vibid:1001000225867": 198,
+      "gas:candidate-vibid:302300266644": 135,
+      "gas:candidate-vibid:302300266993": 354,
+      "gas:candidate-vibid:1001000121784": 198,
+      "gas:candidate-vibid:302300266722": 108,
+      "gas:candidate-vibid:1001000194994": 24,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 121,
-      "Асадуллин Флюр Минзагитович": 242,
-      "Асафьев Артур Валерьевич": 102,
-      "Кальметьев Марс Рахматуллович": 227,
-      "Морозов Алексей Егорович": 176,
-      "Нигматулин Роберт Искандрович": 230,
-      "Никитин Валентин Иванович": 147,
-      "Сафин Фаиль Габдуллович": 142,
-      "Токарчук Александр Сергеевич": 36,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000277355": 121,
+      "gas:candidate-vibid:302300266624": 242,
+      "gas:candidate-vibid:1001000112173": 102,
+      "gas:candidate-vibid:1001000225867": 227,
+      "gas:candidate-vibid:302300266644": 176,
+      "gas:candidate-vibid:302300266993": 230,
+      "gas:candidate-vibid:1001000121784": 147,
+      "gas:candidate-vibid:302300266722": 142,
+      "gas:candidate-vibid:1001000194994": 36,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 193,
-      "Асадуллин Флюр Минзагитович": 205,
-      "Асафьев Артур Валерьевич": 116,
-      "Кальметьев Марс Рахматуллович": 135,
-      "Морозов Алексей Егорович": 159,
-      "Нигматулин Роберт Искандрович": 246,
-      "Никитин Валентин Иванович": 182,
-      "Сафин Фаиль Габдуллович": 139,
-      "Токарчук Александр Сергеевич": 33,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000277355": 193,
+      "gas:candidate-vibid:302300266624": 205,
+      "gas:candidate-vibid:1001000112173": 116,
+      "gas:candidate-vibid:1001000225867": 135,
+      "gas:candidate-vibid:302300266644": 159,
+      "gas:candidate-vibid:302300266993": 246,
+      "gas:candidate-vibid:1001000121784": 182,
+      "gas:candidate-vibid:302300266722": 139,
+      "gas:candidate-vibid:1001000194994": 33,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 207,
-      "Асадуллин Флюр Минзагитович": 177,
-      "Асафьев Артур Валерьевич": 129,
-      "Кальметьев Марс Рахматуллович": 227,
-      "Морозов Алексей Егорович": 186,
-      "Нигматулин Роберт Искандрович": 229,
-      "Никитин Валентин Иванович": 150,
-      "Сафин Фаиль Габдуллович": 161,
-      "Токарчук Александр Сергеевич": 36,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000277355": 207,
+      "gas:candidate-vibid:302300266624": 177,
+      "gas:candidate-vibid:1001000112173": 129,
+      "gas:candidate-vibid:1001000225867": 227,
+      "gas:candidate-vibid:302300266644": 186,
+      "gas:candidate-vibid:302300266993": 229,
+      "gas:candidate-vibid:1001000121784": 150,
+      "gas:candidate-vibid:302300266722": 161,
+      "gas:candidate-vibid:1001000194994": 36,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 155,
-      "Асадуллин Флюр Минзагитович": 198,
-      "Асафьев Артур Валерьевич": 110,
-      "Кальметьев Марс Рахматуллович": 186,
-      "Морозов Алексей Егорович": 148,
-      "Нигматулин Роберт Искандрович": 265,
-      "Никитин Валентин Иванович": 154,
-      "Сафин Фаиль Габдуллович": 139,
-      "Токарчук Александр Сергеевич": 34,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000277355": 155,
+      "gas:candidate-vibid:302300266624": 198,
+      "gas:candidate-vibid:1001000112173": 110,
+      "gas:candidate-vibid:1001000225867": 186,
+      "gas:candidate-vibid:302300266644": 148,
+      "gas:candidate-vibid:302300266993": 265,
+      "gas:candidate-vibid:1001000121784": 154,
+      "gas:candidate-vibid:302300266722": 139,
+      "gas:candidate-vibid:1001000194994": 34,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 131,
-      "Асадуллин Флюр Минзагитович": 203,
-      "Асафьев Артур Валерьевич": 145,
-      "Кальметьев Марс Рахматуллович": 219,
-      "Морозов Алексей Егорович": 132,
-      "Нигматулин Роберт Искандрович": 198,
-      "Никитин Валентин Иванович": 163,
-      "Сафин Фаиль Габдуллович": 164,
-      "Токарчук Александр Сергеевич": 46,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000277355": 131,
+      "gas:candidate-vibid:302300266624": 203,
+      "gas:candidate-vibid:1001000112173": 145,
+      "gas:candidate-vibid:1001000225867": 219,
+      "gas:candidate-vibid:302300266644": 132,
+      "gas:candidate-vibid:302300266993": 198,
+      "gas:candidate-vibid:1001000121784": 163,
+      "gas:candidate-vibid:302300266722": 164,
+      "gas:candidate-vibid:1001000194994": 46,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 97,
-      "Асадуллин Флюр Минзагитович": 253,
-      "Асафьев Артур Валерьевич": 138,
-      "Кальметьев Марс Рахматуллович": 205,
-      "Морозов Алексей Егорович": 163,
-      "Нигматулин Роберт Искандрович": 216,
-      "Никитин Валентин Иванович": 183,
-      "Сафин Фаиль Габдуллович": 153,
-      "Токарчук Александр Сергеевич": 47,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000277355": 97,
+      "gas:candidate-vibid:302300266624": 253,
+      "gas:candidate-vibid:1001000112173": 138,
+      "gas:candidate-vibid:1001000225867": 205,
+      "gas:candidate-vibid:302300266644": 163,
+      "gas:candidate-vibid:302300266993": 216,
+      "gas:candidate-vibid:1001000121784": 183,
+      "gas:candidate-vibid:302300266722": 153,
+      "gas:candidate-vibid:1001000194994": 47,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 131,
-      "Асадуллин Флюр Минзагитович": 200,
-      "Асафьев Артур Валерьевич": 113,
-      "Кальметьев Марс Рахматуллович": 203,
-      "Морозов Алексей Егорович": 181,
-      "Нигматулин Роберт Искандрович": 202,
-      "Никитин Валентин Иванович": 184,
-      "Сафин Фаиль Габдуллович": 200,
-      "Токарчук Александр Сергеевич": 36,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000277355": 131,
+      "gas:candidate-vibid:302300266624": 200,
+      "gas:candidate-vibid:1001000112173": 113,
+      "gas:candidate-vibid:1001000225867": 203,
+      "gas:candidate-vibid:302300266644": 181,
+      "gas:candidate-vibid:302300266993": 202,
+      "gas:candidate-vibid:1001000121784": 184,
+      "gas:candidate-vibid:302300266722": 200,
+      "gas:candidate-vibid:1001000194994": 36,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 124,
-      "Асадуллин Флюр Минзагитович": 235,
-      "Асафьев Артур Валерьевич": 143,
-      "Кальметьев Марс Рахматуллович": 145,
-      "Морозов Алексей Егорович": 189,
-      "Нигматулин Роберт Искандрович": 233,
-      "Никитин Валентин Иванович": 200,
-      "Сафин Фаиль Габдуллович": 177,
-      "Токарчук Александр Сергеевич": 43,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000277355": 124,
+      "gas:candidate-vibid:302300266624": 235,
+      "gas:candidate-vibid:1001000112173": 143,
+      "gas:candidate-vibid:1001000225867": 145,
+      "gas:candidate-vibid:302300266644": 189,
+      "gas:candidate-vibid:302300266993": 233,
+      "gas:candidate-vibid:1001000121784": 200,
+      "gas:candidate-vibid:302300266722": 177,
+      "gas:candidate-vibid:1001000194994": 43,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 142,
-      "Асадуллин Флюр Минзагитович": 200,
-      "Асафьев Артур Валерьевич": 109,
-      "Кальметьев Марс Рахматуллович": 260,
-      "Морозов Алексей Егорович": 159,
-      "Нигматулин Роберт Искандрович": 181,
-      "Никитин Валентин Иванович": 147,
-      "Сафин Фаиль Габдуллович": 244,
-      "Токарчук Александр Сергеевич": 48,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000277355": 142,
+      "gas:candidate-vibid:302300266624": 200,
+      "gas:candidate-vibid:1001000112173": 109,
+      "gas:candidate-vibid:1001000225867": 260,
+      "gas:candidate-vibid:302300266644": 159,
+      "gas:candidate-vibid:302300266993": 181,
+      "gas:candidate-vibid:1001000121784": 147,
+      "gas:candidate-vibid:302300266722": 244,
+      "gas:candidate-vibid:1001000194994": 48,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 46,
-      "Асадуллин Флюр Минзагитович": 49,
-      "Асафьев Артур Валерьевич": 48,
-      "Кальметьев Марс Рахматуллович": 130,
-      "Морозов Алексей Егорович": 109,
-      "Нигматулин Роберт Искандрович": 64,
-      "Никитин Валентин Иванович": 97,
-      "Сафин Фаиль Габдуллович": 104,
-      "Токарчук Александр Сергеевич": 15,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000277355": 46,
+      "gas:candidate-vibid:302300266624": 49,
+      "gas:candidate-vibid:1001000112173": 48,
+      "gas:candidate-vibid:1001000225867": 130,
+      "gas:candidate-vibid:302300266644": 109,
+      "gas:candidate-vibid:302300266993": 64,
+      "gas:candidate-vibid:1001000121784": 97,
+      "gas:candidate-vibid:302300266722": 104,
+      "gas:candidate-vibid:1001000194994": 15,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 31,
-      "Асадуллин Флюр Минзагитович": 27,
-      "Асафьев Артур Валерьевич": 28,
-      "Кальметьев Марс Рахматуллович": 43,
-      "Морозов Алексей Егорович": 42,
-      "Нигматулин Роберт Искандрович": 23,
-      "Никитин Валентин Иванович": 32,
-      "Сафин Фаиль Габдуллович": 46,
-      "Токарчук Александр Сергеевич": 10,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000277355": 31,
+      "gas:candidate-vibid:302300266624": 27,
+      "gas:candidate-vibid:1001000112173": 28,
+      "gas:candidate-vibid:1001000225867": 43,
+      "gas:candidate-vibid:302300266644": 42,
+      "gas:candidate-vibid:302300266993": 23,
+      "gas:candidate-vibid:1001000121784": 32,
+      "gas:candidate-vibid:302300266722": 46,
+      "gas:candidate-vibid:1001000194994": 10,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 75,
-      "Асадуллин Флюр Минзагитович": 62,
-      "Асафьев Артур Валерьевич": 21,
-      "Кальметьев Марс Рахматуллович": 355,
-      "Морозов Алексей Егорович": 33,
-      "Нигматулин Роберт Искандрович": 87,
-      "Никитин Валентин Иванович": 41,
-      "Сафин Фаиль Габдуллович": 76,
-      "Токарчук Александр Сергеевич": 8,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000277355": 75,
+      "gas:candidate-vibid:302300266624": 62,
+      "gas:candidate-vibid:1001000112173": 21,
+      "gas:candidate-vibid:1001000225867": 355,
+      "gas:candidate-vibid:302300266644": 33,
+      "gas:candidate-vibid:302300266993": 87,
+      "gas:candidate-vibid:1001000121784": 41,
+      "gas:candidate-vibid:302300266722": 76,
+      "gas:candidate-vibid:1001000194994": 8,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 66,
-      "Асадуллин Флюр Минзагитович": 42,
-      "Асафьев Артур Валерьевич": 68,
-      "Кальметьев Марс Рахматуллович": 159,
-      "Морозов Алексей Егорович": 68,
-      "Нигматулин Роберт Искандрович": 60,
-      "Никитин Валентин Иванович": 71,
-      "Сафин Фаиль Габдуллович": 85,
-      "Токарчук Александр Сергеевич": 13,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000277355": 66,
+      "gas:candidate-vibid:302300266624": 42,
+      "gas:candidate-vibid:1001000112173": 68,
+      "gas:candidate-vibid:1001000225867": 159,
+      "gas:candidate-vibid:302300266644": 68,
+      "gas:candidate-vibid:302300266993": 60,
+      "gas:candidate-vibid:1001000121784": 71,
+      "gas:candidate-vibid:302300266722": 85,
+      "gas:candidate-vibid:1001000194994": 13,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 104,
-      "Асадуллин Флюр Минзагитович": 198,
-      "Асафьев Артур Валерьевич": 136,
-      "Кальметьев Марс Рахматуллович": 243,
-      "Морозов Алексей Егорович": 188,
-      "Нигматулин Роберт Искандрович": 239,
-      "Никитин Валентин Иванович": 150,
-      "Сафин Фаиль Габдуллович": 122,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000277355": 104,
+      "gas:candidate-vibid:302300266624": 198,
+      "gas:candidate-vibid:1001000112173": 136,
+      "gas:candidate-vibid:1001000225867": 243,
+      "gas:candidate-vibid:302300266644": 188,
+      "gas:candidate-vibid:302300266993": 239,
+      "gas:candidate-vibid:1001000121784": 150,
+      "gas:candidate-vibid:302300266722": 122,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 95,
-      "Асадуллин Флюр Минзагитович": 185,
-      "Асафьев Артур Валерьевич": 109,
-      "Кальметьев Марс Рахматуллович": 387,
-      "Морозов Алексей Егорович": 135,
-      "Нигматулин Роберт Искандрович": 226,
-      "Никитин Валентин Иванович": 150,
-      "Сафин Фаиль Габдуллович": 161,
-      "Токарчук Александр Сергеевич": 35,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000277355": 95,
+      "gas:candidate-vibid:302300266624": 185,
+      "gas:candidate-vibid:1001000112173": 109,
+      "gas:candidate-vibid:1001000225867": 387,
+      "gas:candidate-vibid:302300266644": 135,
+      "gas:candidate-vibid:302300266993": 226,
+      "gas:candidate-vibid:1001000121784": 150,
+      "gas:candidate-vibid:302300266722": 161,
+      "gas:candidate-vibid:1001000194994": 35,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 90,
-      "Асадуллин Флюр Минзагитович": 150,
-      "Асафьев Артур Валерьевич": 106,
-      "Кальметьев Марс Рахматуллович": 409,
-      "Морозов Алексей Егорович": 143,
-      "Нигматулин Роберт Искандрович": 254,
-      "Никитин Валентин Иванович": 148,
-      "Сафин Фаиль Габдуллович": 140,
-      "Токарчук Александр Сергеевич": 16,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000277355": 90,
+      "gas:candidate-vibid:302300266624": 150,
+      "gas:candidate-vibid:1001000112173": 106,
+      "gas:candidate-vibid:1001000225867": 409,
+      "gas:candidate-vibid:302300266644": 143,
+      "gas:candidate-vibid:302300266993": 254,
+      "gas:candidate-vibid:1001000121784": 148,
+      "gas:candidate-vibid:302300266722": 140,
+      "gas:candidate-vibid:1001000194994": 16,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 99,
-      "Асадуллин Флюр Минзагитович": 179,
-      "Асафьев Артур Валерьевич": 103,
-      "Кальметьев Марс Рахматуллович": 276,
-      "Морозов Алексей Егорович": 127,
-      "Нигматулин Роберт Искандрович": 255,
-      "Никитин Валентин Иванович": 156,
-      "Сафин Фаиль Габдуллович": 134,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000277355": 99,
+      "gas:candidate-vibid:302300266624": 179,
+      "gas:candidate-vibid:1001000112173": 103,
+      "gas:candidate-vibid:1001000225867": 276,
+      "gas:candidate-vibid:302300266644": 127,
+      "gas:candidate-vibid:302300266993": 255,
+      "gas:candidate-vibid:1001000121784": 156,
+      "gas:candidate-vibid:302300266722": 134,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 157,
-      "Асадуллин Флюр Минзагитович": 195,
-      "Асафьев Артур Валерьевич": 137,
-      "Кальметьев Марс Рахматуллович": 184,
-      "Морозов Алексей Егорович": 150,
-      "Нигматулин Роберт Искандрович": 267,
-      "Никитин Валентин Иванович": 149,
-      "Сафин Фаиль Габдуллович": 105,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000277355": 157,
+      "gas:candidate-vibid:302300266624": 195,
+      "gas:candidate-vibid:1001000112173": 137,
+      "gas:candidate-vibid:1001000225867": 184,
+      "gas:candidate-vibid:302300266644": 150,
+      "gas:candidate-vibid:302300266993": 267,
+      "gas:candidate-vibid:1001000121784": 149,
+      "gas:candidate-vibid:302300266722": 105,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 6
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 72,
-      "Асадуллин Флюр Минзагитович": 176,
-      "Асафьев Артур Валерьевич": 159,
-      "Кальметьев Марс Рахматуллович": 175,
-      "Морозов Алексей Егорович": 130,
-      "Нигматулин Роберт Искандрович": 287,
-      "Никитин Валентин Иванович": 247,
-      "Сафин Фаиль Габдуллович": 107,
-      "Токарчук Александр Сергеевич": 35,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000277355": 72,
+      "gas:candidate-vibid:302300266624": 176,
+      "gas:candidate-vibid:1001000112173": 159,
+      "gas:candidate-vibid:1001000225867": 175,
+      "gas:candidate-vibid:302300266644": 130,
+      "gas:candidate-vibid:302300266993": 287,
+      "gas:candidate-vibid:1001000121784": 247,
+      "gas:candidate-vibid:302300266722": 107,
+      "gas:candidate-vibid:1001000194994": 35,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 117,
-      "Асадуллин Флюр Минзагитович": 173,
-      "Асафьев Артур Валерьевич": 135,
-      "Кальметьев Марс Рахматуллович": 153,
-      "Морозов Алексей Егорович": 153,
-      "Нигматулин Роберт Искандрович": 275,
-      "Никитин Валентин Иванович": 207,
-      "Сафин Фаиль Габдуллович": 101,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000277355": 117,
+      "gas:candidate-vibid:302300266624": 173,
+      "gas:candidate-vibid:1001000112173": 135,
+      "gas:candidate-vibid:1001000225867": 153,
+      "gas:candidate-vibid:302300266644": 153,
+      "gas:candidate-vibid:302300266993": 275,
+      "gas:candidate-vibid:1001000121784": 207,
+      "gas:candidate-vibid:302300266722": 101,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 125,
-      "Асадуллин Флюр Минзагитович": 151,
-      "Асафьев Артур Валерьевич": 168,
-      "Кальметьев Марс Рахматуллович": 300,
-      "Морозов Алексей Егорович": 154,
-      "Нигматулин Роберт Искандрович": 286,
-      "Никитин Валентин Иванович": 177,
-      "Сафин Фаиль Габдуллович": 97,
-      "Токарчук Александр Сергеевич": 27,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000277355": 125,
+      "gas:candidate-vibid:302300266624": 151,
+      "gas:candidate-vibid:1001000112173": 168,
+      "gas:candidate-vibid:1001000225867": 300,
+      "gas:candidate-vibid:302300266644": 154,
+      "gas:candidate-vibid:302300266993": 286,
+      "gas:candidate-vibid:1001000121784": 177,
+      "gas:candidate-vibid:302300266722": 97,
+      "gas:candidate-vibid:1001000194994": 27,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 31,
-      "Асадуллин Флюр Минзагитович": 29,
-      "Асафьев Артур Валерьевич": 38,
-      "Кальметьев Марс Рахматуллович": 81,
-      "Морозов Алексей Егорович": 51,
-      "Нигматулин Роберт Искандрович": 75,
-      "Никитин Валентин Иванович": 45,
-      "Сафин Фаиль Габдуллович": 45,
-      "Токарчук Александр Сергеевич": 15,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000277355": 31,
+      "gas:candidate-vibid:302300266624": 29,
+      "gas:candidate-vibid:1001000112173": 38,
+      "gas:candidate-vibid:1001000225867": 81,
+      "gas:candidate-vibid:302300266644": 51,
+      "gas:candidate-vibid:302300266993": 75,
+      "gas:candidate-vibid:1001000121784": 45,
+      "gas:candidate-vibid:302300266722": 45,
+      "gas:candidate-vibid:1001000194994": 15,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 127,
-      "Асадуллин Флюр Минзагитович": 115,
-      "Асафьев Артур Валерьевич": 149,
-      "Кальметьев Марс Рахматуллович": 208,
-      "Морозов Алексей Егорович": 217,
-      "Нигматулин Роберт Искандрович": 260,
-      "Никитин Валентин Иванович": 251,
-      "Сафин Фаиль Габдуллович": 197,
-      "Токарчук Александр Сергеевич": 49,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000277355": 127,
+      "gas:candidate-vibid:302300266624": 115,
+      "gas:candidate-vibid:1001000112173": 149,
+      "gas:candidate-vibid:1001000225867": 208,
+      "gas:candidate-vibid:302300266644": 217,
+      "gas:candidate-vibid:302300266993": 260,
+      "gas:candidate-vibid:1001000121784": 251,
+      "gas:candidate-vibid:302300266722": 197,
+      "gas:candidate-vibid:1001000194994": 49,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 112,
-      "Асадуллин Флюр Минзагитович": 128,
-      "Асафьев Артур Валерьевич": 122,
-      "Кальметьев Марс Рахматуллович": 285,
-      "Морозов Алексей Егорович": 158,
-      "Нигматулин Роберт Искандрович": 226,
-      "Никитин Валентин Иванович": 223,
-      "Сафин Фаиль Габдуллович": 163,
-      "Токарчук Александр Сергеевич": 45,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000277355": 112,
+      "gas:candidate-vibid:302300266624": 128,
+      "gas:candidate-vibid:1001000112173": 122,
+      "gas:candidate-vibid:1001000225867": 285,
+      "gas:candidate-vibid:302300266644": 158,
+      "gas:candidate-vibid:302300266993": 226,
+      "gas:candidate-vibid:1001000121784": 223,
+      "gas:candidate-vibid:302300266722": 163,
+      "gas:candidate-vibid:1001000194994": 45,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 132,
-      "Асадуллин Флюр Минзагитович": 162,
-      "Асафьев Артур Валерьевич": 150,
-      "Кальметьев Марс Рахматуллович": 323,
-      "Морозов Алексей Егорович": 156,
-      "Нигматулин Роберт Искандрович": 309,
-      "Никитин Валентин Иванович": 211,
-      "Сафин Фаиль Габдуллович": 170,
-      "Токарчук Александр Сергеевич": 34,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000277355": 132,
+      "gas:candidate-vibid:302300266624": 162,
+      "gas:candidate-vibid:1001000112173": 150,
+      "gas:candidate-vibid:1001000225867": 323,
+      "gas:candidate-vibid:302300266644": 156,
+      "gas:candidate-vibid:302300266993": 309,
+      "gas:candidate-vibid:1001000121784": 211,
+      "gas:candidate-vibid:302300266722": 170,
+      "gas:candidate-vibid:1001000194994": 34,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 141,
-      "Асадуллин Флюр Минзагитович": 231,
-      "Асафьев Артур Валерьевич": 154,
-      "Кальметьев Марс Рахматуллович": 255,
-      "Морозов Алексей Егорович": 212,
-      "Нигматулин Роберт Искандрович": 243,
-      "Никитин Валентин Иванович": 205,
-      "Сафин Фаиль Габдуллович": 202,
-      "Токарчук Александр Сергеевич": 32,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000277355": 141,
+      "gas:candidate-vibid:302300266624": 231,
+      "gas:candidate-vibid:1001000112173": 154,
+      "gas:candidate-vibid:1001000225867": 255,
+      "gas:candidate-vibid:302300266644": 212,
+      "gas:candidate-vibid:302300266993": 243,
+      "gas:candidate-vibid:1001000121784": 205,
+      "gas:candidate-vibid:302300266722": 202,
+      "gas:candidate-vibid:1001000194994": 32,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 113,
-      "Асадуллин Флюр Минзагитович": 186,
-      "Асафьев Артур Валерьевич": 162,
-      "Кальметьев Марс Рахматуллович": 245,
-      "Морозов Алексей Егорович": 212,
-      "Нигматулин Роберт Искандрович": 180,
-      "Никитин Валентин Иванович": 208,
-      "Сафин Фаиль Габдуллович": 215,
-      "Токарчук Александр Сергеевич": 45,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000277355": 113,
+      "gas:candidate-vibid:302300266624": 186,
+      "gas:candidate-vibid:1001000112173": 162,
+      "gas:candidate-vibid:1001000225867": 245,
+      "gas:candidate-vibid:302300266644": 212,
+      "gas:candidate-vibid:302300266993": 180,
+      "gas:candidate-vibid:1001000121784": 208,
+      "gas:candidate-vibid:302300266722": 215,
+      "gas:candidate-vibid:1001000194994": 45,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 109,
-      "Асадуллин Флюр Минзагитович": 215,
-      "Асафьев Артур Валерьевич": 153,
-      "Кальметьев Марс Рахматуллович": 293,
-      "Морозов Алексей Егорович": 161,
-      "Нигматулин Роберт Искандрович": 199,
-      "Никитин Валентин Иванович": 192,
-      "Сафин Фаиль Габдуллович": 175,
-      "Токарчук Александр Сергеевич": 36,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000277355": 109,
+      "gas:candidate-vibid:302300266624": 215,
+      "gas:candidate-vibid:1001000112173": 153,
+      "gas:candidate-vibid:1001000225867": 293,
+      "gas:candidate-vibid:302300266644": 161,
+      "gas:candidate-vibid:302300266993": 199,
+      "gas:candidate-vibid:1001000121784": 192,
+      "gas:candidate-vibid:302300266722": 175,
+      "gas:candidate-vibid:1001000194994": 36,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 88,
-      "Асадуллин Флюр Минзагитович": 161,
-      "Асафьев Артур Валерьевич": 125,
-      "Кальметьев Марс Рахматуллович": 186,
-      "Морозов Алексей Егорович": 133,
-      "Нигматулин Роберт Искандрович": 133,
-      "Никитин Валентин Иванович": 144,
-      "Сафин Фаиль Габдуллович": 126,
-      "Токарчук Александр Сергеевич": 48,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000277355": 88,
+      "gas:candidate-vibid:302300266624": 161,
+      "gas:candidate-vibid:1001000112173": 125,
+      "gas:candidate-vibid:1001000225867": 186,
+      "gas:candidate-vibid:302300266644": 133,
+      "gas:candidate-vibid:302300266993": 133,
+      "gas:candidate-vibid:1001000121784": 144,
+      "gas:candidate-vibid:302300266722": 126,
+      "gas:candidate-vibid:1001000194994": 48,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 138,
-      "Асадуллин Флюр Минзагитович": 194,
-      "Асафьев Артур Валерьевич": 137,
-      "Кальметьев Марс Рахматуллович": 351,
-      "Морозов Алексей Егорович": 120,
-      "Нигматулин Роберт Искандрович": 206,
-      "Никитин Валентин Иванович": 251,
-      "Сафин Фаиль Габдуллович": 189,
-      "Токарчук Александр Сергеевич": 23,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000277355": 138,
+      "gas:candidate-vibid:302300266624": 194,
+      "gas:candidate-vibid:1001000112173": 137,
+      "gas:candidate-vibid:1001000225867": 351,
+      "gas:candidate-vibid:302300266644": 120,
+      "gas:candidate-vibid:302300266993": 206,
+      "gas:candidate-vibid:1001000121784": 251,
+      "gas:candidate-vibid:302300266722": 189,
+      "gas:candidate-vibid:1001000194994": 23,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 130,
-      "Асадуллин Флюр Минзагитович": 342,
-      "Асафьев Артур Валерьевич": 159,
-      "Кальметьев Марс Рахматуллович": 351,
-      "Морозов Алексей Егорович": 138,
-      "Нигматулин Роберт Искандрович": 294,
-      "Никитин Валентин Иванович": 134,
-      "Сафин Фаиль Габдуллович": 155,
-      "Токарчук Александр Сергеевич": 41,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000277355": 130,
+      "gas:candidate-vibid:302300266624": 342,
+      "gas:candidate-vibid:1001000112173": 159,
+      "gas:candidate-vibid:1001000225867": 351,
+      "gas:candidate-vibid:302300266644": 138,
+      "gas:candidate-vibid:302300266993": 294,
+      "gas:candidate-vibid:1001000121784": 134,
+      "gas:candidate-vibid:302300266722": 155,
+      "gas:candidate-vibid:1001000194994": 41,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 144,
-      "Асадуллин Флюр Минзагитович": 304,
-      "Асафьев Артур Валерьевич": 159,
-      "Кальметьев Марс Рахматуллович": 358,
-      "Морозов Алексей Егорович": 209,
-      "Нигматулин Роберт Искандрович": 316,
-      "Никитин Валентин Иванович": 183,
-      "Сафин Фаиль Габдуллович": 207,
-      "Токарчук Александр Сергеевич": 42,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000277355": 144,
+      "gas:candidate-vibid:302300266624": 304,
+      "gas:candidate-vibid:1001000112173": 159,
+      "gas:candidate-vibid:1001000225867": 358,
+      "gas:candidate-vibid:302300266644": 209,
+      "gas:candidate-vibid:302300266993": 316,
+      "gas:candidate-vibid:1001000121784": 183,
+      "gas:candidate-vibid:302300266722": 207,
+      "gas:candidate-vibid:1001000194994": 42,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 146,
-      "Асадуллин Флюр Минзагитович": 222,
-      "Асафьев Артур Валерьевич": 119,
-      "Кальметьев Марс Рахматуллович": 281,
-      "Морозов Алексей Егорович": 192,
-      "Нигматулин Роберт Искандрович": 245,
-      "Никитин Валентин Иванович": 173,
-      "Сафин Фаиль Габдуллович": 220,
-      "Токарчук Александр Сергеевич": 33,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000277355": 146,
+      "gas:candidate-vibid:302300266624": 222,
+      "gas:candidate-vibid:1001000112173": 119,
+      "gas:candidate-vibid:1001000225867": 281,
+      "gas:candidate-vibid:302300266644": 192,
+      "gas:candidate-vibid:302300266993": 245,
+      "gas:candidate-vibid:1001000121784": 173,
+      "gas:candidate-vibid:302300266722": 220,
+      "gas:candidate-vibid:1001000194994": 33,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 120,
-      "Асадуллин Флюр Минзагитович": 136,
-      "Асафьев Артур Валерьевич": 138,
-      "Кальметьев Марс Рахматуллович": 312,
-      "Морозов Алексей Егорович": 138,
-      "Нигматулин Роберт Искандрович": 249,
-      "Никитин Валентин Иванович": 192,
-      "Сафин Фаиль Габдуллович": 201,
-      "Токарчук Александр Сергеевич": 32,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000277355": 120,
+      "gas:candidate-vibid:302300266624": 136,
+      "gas:candidate-vibid:1001000112173": 138,
+      "gas:candidate-vibid:1001000225867": 312,
+      "gas:candidate-vibid:302300266644": 138,
+      "gas:candidate-vibid:302300266993": 249,
+      "gas:candidate-vibid:1001000121784": 192,
+      "gas:candidate-vibid:302300266722": 201,
+      "gas:candidate-vibid:1001000194994": 32,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 143,
-      "Асадуллин Флюр Минзагитович": 147,
-      "Асафьев Артур Валерьевич": 117,
-      "Кальметьев Марс Рахматуллович": 327,
-      "Морозов Алексей Егорович": 147,
-      "Нигматулин Роберт Искандрович": 280,
-      "Никитин Валентин Иванович": 187,
-      "Сафин Фаиль Габдуллович": 228,
-      "Токарчук Александр Сергеевич": 39,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000277355": 143,
+      "gas:candidate-vibid:302300266624": 147,
+      "gas:candidate-vibid:1001000112173": 117,
+      "gas:candidate-vibid:1001000225867": 327,
+      "gas:candidate-vibid:302300266644": 147,
+      "gas:candidate-vibid:302300266993": 280,
+      "gas:candidate-vibid:1001000121784": 187,
+      "gas:candidate-vibid:302300266722": 228,
+      "gas:candidate-vibid:1001000194994": 39,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 135,
-      "Асадуллин Флюр Минзагитович": 196,
-      "Асафьев Артур Валерьевич": 129,
-      "Кальметьев Марс Рахматуллович": 361,
-      "Морозов Алексей Егорович": 159,
-      "Нигматулин Роберт Искандрович": 225,
-      "Никитин Валентин Иванович": 218,
-      "Сафин Фаиль Габдуллович": 200,
-      "Токарчук Александр Сергеевич": 45,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000277355": 135,
+      "gas:candidate-vibid:302300266624": 196,
+      "gas:candidate-vibid:1001000112173": 129,
+      "gas:candidate-vibid:1001000225867": 361,
+      "gas:candidate-vibid:302300266644": 159,
+      "gas:candidate-vibid:302300266993": 225,
+      "gas:candidate-vibid:1001000121784": 218,
+      "gas:candidate-vibid:302300266722": 200,
+      "gas:candidate-vibid:1001000194994": 45,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 133,
-      "Асадуллин Флюр Минзагитович": 177,
-      "Асафьев Артур Валерьевич": 137,
-      "Кальметьев Марс Рахматуллович": 255,
-      "Морозов Алексей Егорович": 159,
-      "Нигматулин Роберт Искандрович": 214,
-      "Никитин Валентин Иванович": 195,
-      "Сафин Фаиль Габдуллович": 197,
-      "Токарчук Александр Сергеевич": 44,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000277355": 133,
+      "gas:candidate-vibid:302300266624": 177,
+      "gas:candidate-vibid:1001000112173": 137,
+      "gas:candidate-vibid:1001000225867": 255,
+      "gas:candidate-vibid:302300266644": 159,
+      "gas:candidate-vibid:302300266993": 214,
+      "gas:candidate-vibid:1001000121784": 195,
+      "gas:candidate-vibid:302300266722": 197,
+      "gas:candidate-vibid:1001000194994": 44,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 105,
-      "Асадуллин Флюр Минзагитович": 228,
-      "Асафьев Артур Валерьевич": 108,
-      "Кальметьев Марс Рахматуллович": 290,
-      "Морозов Алексей Егорович": 183,
-      "Нигматулин Роберт Искандрович": 272,
-      "Никитин Валентин Иванович": 181,
-      "Сафин Фаиль Габдуллович": 184,
-      "Токарчук Александр Сергеевич": 42,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000277355": 105,
+      "gas:candidate-vibid:302300266624": 228,
+      "gas:candidate-vibid:1001000112173": 108,
+      "gas:candidate-vibid:1001000225867": 290,
+      "gas:candidate-vibid:302300266644": 183,
+      "gas:candidate-vibid:302300266993": 272,
+      "gas:candidate-vibid:1001000121784": 181,
+      "gas:candidate-vibid:302300266722": 184,
+      "gas:candidate-vibid:1001000194994": 42,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 144,
-      "Асадуллин Флюр Минзагитович": 246,
-      "Асафьев Артур Валерьевич": 145,
-      "Кальметьев Марс Рахматуллович": 274,
-      "Морозов Алексей Егорович": 167,
-      "Нигматулин Роберт Искандрович": 233,
-      "Никитин Валентин Иванович": 191,
-      "Сафин Фаиль Габдуллович": 229,
-      "Токарчук Александр Сергеевич": 39,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000277355": 144,
+      "gas:candidate-vibid:302300266624": 246,
+      "gas:candidate-vibid:1001000112173": 145,
+      "gas:candidate-vibid:1001000225867": 274,
+      "gas:candidate-vibid:302300266644": 167,
+      "gas:candidate-vibid:302300266993": 233,
+      "gas:candidate-vibid:1001000121784": 191,
+      "gas:candidate-vibid:302300266722": 229,
+      "gas:candidate-vibid:1001000194994": 39,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 116,
-      "Асадуллин Флюр Минзагитович": 208,
-      "Асафьев Артур Валерьевич": 114,
-      "Кальметьев Марс Рахматуллович": 261,
-      "Морозов Алексей Егорович": 187,
-      "Нигматулин Роберт Искандрович": 191,
-      "Никитин Валентин Иванович": 162,
-      "Сафин Фаиль Габдуллович": 219,
-      "Токарчук Александр Сергеевич": 36,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000277355": 116,
+      "gas:candidate-vibid:302300266624": 208,
+      "gas:candidate-vibid:1001000112173": 114,
+      "gas:candidate-vibid:1001000225867": 261,
+      "gas:candidate-vibid:302300266644": 187,
+      "gas:candidate-vibid:302300266993": 191,
+      "gas:candidate-vibid:1001000121784": 162,
+      "gas:candidate-vibid:302300266722": 219,
+      "gas:candidate-vibid:1001000194994": 36,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 128,
-      "Асадуллин Флюр Минзагитович": 124,
-      "Асафьев Артур Валерьевич": 152,
-      "Кальметьев Марс Рахматуллович": 289,
-      "Морозов Алексей Егорович": 144,
-      "Нигматулин Роберт Искандрович": 194,
-      "Никитин Валентин Иванович": 177,
-      "Сафин Фаиль Габдуллович": 187,
-      "Токарчук Александр Сергеевич": 37,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000277355": 128,
+      "gas:candidate-vibid:302300266624": 124,
+      "gas:candidate-vibid:1001000112173": 152,
+      "gas:candidate-vibid:1001000225867": 289,
+      "gas:candidate-vibid:302300266644": 144,
+      "gas:candidate-vibid:302300266993": 194,
+      "gas:candidate-vibid:1001000121784": 177,
+      "gas:candidate-vibid:302300266722": 187,
+      "gas:candidate-vibid:1001000194994": 37,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 143,
-      "Асадуллин Флюр Минзагитович": 83,
-      "Асафьев Артур Валерьевич": 130,
-      "Кальметьев Марс Рахматуллович": 194,
-      "Морозов Алексей Егорович": 211,
-      "Нигматулин Роберт Искандрович": 233,
-      "Никитин Валентин Иванович": 178,
-      "Сафин Фаиль Габдуллович": 183,
-      "Токарчук Александр Сергеевич": 49,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000277355": 143,
+      "gas:candidate-vibid:302300266624": 83,
+      "gas:candidate-vibid:1001000112173": 130,
+      "gas:candidate-vibid:1001000225867": 194,
+      "gas:candidate-vibid:302300266644": 211,
+      "gas:candidate-vibid:302300266993": 233,
+      "gas:candidate-vibid:1001000121784": 178,
+      "gas:candidate-vibid:302300266722": 183,
+      "gas:candidate-vibid:1001000194994": 49,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 156,
-      "Асадуллин Флюр Минзагитович": 134,
-      "Асафьев Артур Валерьевич": 153,
-      "Кальметьев Марс Рахматуллович": 290,
-      "Морозов Алексей Егорович": 183,
-      "Нигматулин Роберт Искандрович": 267,
-      "Никитин Валентин Иванович": 195,
-      "Сафин Фаиль Габдуллович": 245,
-      "Токарчук Александр Сергеевич": 45,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000277355": 156,
+      "gas:candidate-vibid:302300266624": 134,
+      "gas:candidate-vibid:1001000112173": 153,
+      "gas:candidate-vibid:1001000225867": 290,
+      "gas:candidate-vibid:302300266644": 183,
+      "gas:candidate-vibid:302300266993": 267,
+      "gas:candidate-vibid:1001000121784": 195,
+      "gas:candidate-vibid:302300266722": 245,
+      "gas:candidate-vibid:1001000194994": 45,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 157,
-      "Асадуллин Флюр Минзагитович": 132,
-      "Асафьев Артур Валерьевич": 131,
-      "Кальметьев Марс Рахматуллович": 236,
-      "Морозов Алексей Егорович": 230,
-      "Нигматулин Роберт Искандрович": 211,
-      "Никитин Валентин Иванович": 212,
-      "Сафин Фаиль Габдуллович": 238,
-      "Токарчук Александр Сергеевич": 31,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000277355": 157,
+      "gas:candidate-vibid:302300266624": 132,
+      "gas:candidate-vibid:1001000112173": 131,
+      "gas:candidate-vibid:1001000225867": 236,
+      "gas:candidate-vibid:302300266644": 230,
+      "gas:candidate-vibid:302300266993": 211,
+      "gas:candidate-vibid:1001000121784": 212,
+      "gas:candidate-vibid:302300266722": 238,
+      "gas:candidate-vibid:1001000194994": 31,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 112,
-      "Асадуллин Флюр Минзагитович": 229,
-      "Асафьев Артур Валерьевич": 117,
-      "Кальметьев Марс Рахматуллович": 357,
-      "Морозов Алексей Егорович": 129,
-      "Нигматулин Роберт Искандрович": 274,
-      "Никитин Валентин Иванович": 194,
-      "Сафин Фаиль Габдуллович": 205,
-      "Токарчук Александр Сергеевич": 31,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000277355": 112,
+      "gas:candidate-vibid:302300266624": 229,
+      "gas:candidate-vibid:1001000112173": 117,
+      "gas:candidate-vibid:1001000225867": 357,
+      "gas:candidate-vibid:302300266644": 129,
+      "gas:candidate-vibid:302300266993": 274,
+      "gas:candidate-vibid:1001000121784": 194,
+      "gas:candidate-vibid:302300266722": 205,
+      "gas:candidate-vibid:1001000194994": 31,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 172,
-      "Асадуллин Флюр Минзагитович": 197,
-      "Асафьев Артур Валерьевич": 144,
-      "Кальметьев Марс Рахматуллович": 306,
-      "Морозов Алексей Егорович": 174,
-      "Нигматулин Роберт Искандрович": 338,
-      "Никитин Валентин Иванович": 151,
-      "Сафин Фаиль Габдуллович": 199,
-      "Токарчук Александр Сергеевич": 32,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000277355": 172,
+      "gas:candidate-vibid:302300266624": 197,
+      "gas:candidate-vibid:1001000112173": 144,
+      "gas:candidate-vibid:1001000225867": 306,
+      "gas:candidate-vibid:302300266644": 174,
+      "gas:candidate-vibid:302300266993": 338,
+      "gas:candidate-vibid:1001000121784": 151,
+      "gas:candidate-vibid:302300266722": 199,
+      "gas:candidate-vibid:1001000194994": 32,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 108,
-      "Асадуллин Флюр Минзагитович": 213,
-      "Асафьев Артур Валерьевич": 117,
-      "Кальметьев Марс Рахматуллович": 348,
-      "Морозов Алексей Егорович": 138,
-      "Нигматулин Роберт Искандрович": 253,
-      "Никитин Валентин Иванович": 153,
-      "Сафин Фаиль Габдуллович": 166,
-      "Токарчук Александр Сергеевич": 42,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000277355": 108,
+      "gas:candidate-vibid:302300266624": 213,
+      "gas:candidate-vibid:1001000112173": 117,
+      "gas:candidate-vibid:1001000225867": 348,
+      "gas:candidate-vibid:302300266644": 138,
+      "gas:candidate-vibid:302300266993": 253,
+      "gas:candidate-vibid:1001000121784": 153,
+      "gas:candidate-vibid:302300266722": 166,
+      "gas:candidate-vibid:1001000194994": 42,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 130,
-      "Асадуллин Флюр Минзагитович": 150,
-      "Асафьев Артур Валерьевич": 87,
-      "Кальметьев Марс Рахматуллович": 275,
-      "Морозов Алексей Егорович": 110,
-      "Нигматулин Роберт Искандрович": 191,
-      "Никитин Валентин Иванович": 105,
-      "Сафин Фаиль Габдуллович": 138,
-      "Токарчук Александр Сергеевич": 32,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000277355": 130,
+      "gas:candidate-vibid:302300266624": 150,
+      "gas:candidate-vibid:1001000112173": 87,
+      "gas:candidate-vibid:1001000225867": 275,
+      "gas:candidate-vibid:302300266644": 110,
+      "gas:candidate-vibid:302300266993": 191,
+      "gas:candidate-vibid:1001000121784": 105,
+      "gas:candidate-vibid:302300266722": 138,
+      "gas:candidate-vibid:1001000194994": 32,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 155,
-      "Асадуллин Флюр Минзагитович": 254,
-      "Асафьев Артур Валерьевич": 106,
-      "Кальметьев Марс Рахматуллович": 303,
-      "Морозов Алексей Егорович": 171,
-      "Нигматулин Роберт Искандрович": 272,
-      "Никитин Валентин Иванович": 164,
-      "Сафин Фаиль Габдуллович": 154,
-      "Токарчук Александр Сергеевич": 39,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000277355": 155,
+      "gas:candidate-vibid:302300266624": 254,
+      "gas:candidate-vibid:1001000112173": 106,
+      "gas:candidate-vibid:1001000225867": 303,
+      "gas:candidate-vibid:302300266644": 171,
+      "gas:candidate-vibid:302300266993": 272,
+      "gas:candidate-vibid:1001000121784": 164,
+      "gas:candidate-vibid:302300266722": 154,
+      "gas:candidate-vibid:1001000194994": 39,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 220,
-      "Асадуллин Флюр Минзагитович": 140,
-      "Асафьев Артур Валерьевич": 131,
-      "Кальметьев Марс Рахматуллович": 308,
-      "Морозов Алексей Егорович": 170,
-      "Нигматулин Роберт Искандрович": 314,
-      "Никитин Валентин Иванович": 170,
-      "Сафин Фаиль Габдуллович": 182,
-      "Токарчук Александр Сергеевич": 47,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000277355": 220,
+      "gas:candidate-vibid:302300266624": 140,
+      "gas:candidate-vibid:1001000112173": 131,
+      "gas:candidate-vibid:1001000225867": 308,
+      "gas:candidate-vibid:302300266644": 170,
+      "gas:candidate-vibid:302300266993": 314,
+      "gas:candidate-vibid:1001000121784": 170,
+      "gas:candidate-vibid:302300266722": 182,
+      "gas:candidate-vibid:1001000194994": 47,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 17,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 15,
-      "Кальметьев Марс Рахматуллович": 47,
-      "Морозов Алексей Егорович": 37,
-      "Нигматулин Роберт Искандрович": 12,
-      "Никитин Валентин Иванович": 35,
-      "Сафин Фаиль Габдуллович": 43,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000277355": 17,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 15,
+      "gas:candidate-vibid:1001000225867": 47,
+      "gas:candidate-vibid:302300266644": 37,
+      "gas:candidate-vibid:302300266993": 12,
+      "gas:candidate-vibid:1001000121784": 35,
+      "gas:candidate-vibid:302300266722": 43,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 20,
-      "Асадуллин Флюр Минзагитович": 52,
-      "Асафьев Артур Валерьевич": 12,
-      "Кальметьев Марс Рахматуллович": 136,
-      "Морозов Алексей Егорович": 88,
-      "Нигматулин Роберт Искандрович": 30,
-      "Никитин Валентин Иванович": 44,
-      "Сафин Фаиль Габдуллович": 92,
-      "Токарчук Александр Сергеевич": 17,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000277355": 20,
+      "gas:candidate-vibid:302300266624": 52,
+      "gas:candidate-vibid:1001000112173": 12,
+      "gas:candidate-vibid:1001000225867": 136,
+      "gas:candidate-vibid:302300266644": 88,
+      "gas:candidate-vibid:302300266993": 30,
+      "gas:candidate-vibid:1001000121784": 44,
+      "gas:candidate-vibid:302300266722": 92,
+      "gas:candidate-vibid:1001000194994": 17,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 16,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 5,
-      "Сафин Фаиль Габдуллович": 7,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 16,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 5,
+      "gas:candidate-vibid:302300266722": 7,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 11,
-      "Асафьев Артур Валерьевич": 10,
-      "Кальметьев Марс Рахматуллович": 60,
-      "Морозов Алексей Егорович": 23,
-      "Нигматулин Роберт Искандрович": 32,
-      "Никитин Валентин Иванович": 22,
-      "Сафин Фаиль Габдуллович": 23,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 11,
+      "gas:candidate-vibid:1001000112173": 10,
+      "gas:candidate-vibid:1001000225867": 60,
+      "gas:candidate-vibid:302300266644": 23,
+      "gas:candidate-vibid:302300266993": 32,
+      "gas:candidate-vibid:1001000121784": 22,
+      "gas:candidate-vibid:302300266722": 23,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 9,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 12,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 6,
-      "Никитин Валентин Иванович": 5,
-      "Сафин Фаиль Габдуллович": 13,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 9,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 12,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 6,
+      "gas:candidate-vibid:1001000121784": 5,
+      "gas:candidate-vibid:302300266722": 13,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 5,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 5,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 1,
+      "gas:candidate-vibid:302300266722": 3,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066835&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 14,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 166,
-      "Морозов Алексей Егорович": 32,
-      "Нигматулин Роберт Искандрович": 41,
-      "Никитин Валентин Иванович": 12,
-      "Сафин Фаиль Габдуллович": 52,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 14,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 166,
+      "gas:candidate-vibid:302300266644": 32,
+      "gas:candidate-vibid:302300266993": 41,
+      "gas:candidate-vibid:1001000121784": 12,
+      "gas:candidate-vibid:302300266722": 52,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 22,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 6,
-      "Кальметьев Марс Рахматуллович": 316,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 55,
-      "Никитин Валентин Иванович": 99,
-      "Сафин Фаиль Габдуллович": 78,
-      "Токарчук Александр Сергеевич": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000277355": 22,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 6,
+      "gas:candidate-vibid:1001000225867": 316,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 55,
+      "gas:candidate-vibid:1001000121784": 99,
+      "gas:candidate-vibid:302300266722": 78,
+      "gas:candidate-vibid:1001000194994": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 26,
-      "Асадуллин Флюр Минзагитович": 9,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 194,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 16,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 41,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 26,
+      "gas:candidate-vibid:302300266624": 9,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 194,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 16,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 41,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 8,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 227,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 22,
-      "Никитин Валентин Иванович": 5,
-      "Сафин Фаиль Габдуллович": 45,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 8,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 227,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 22,
+      "gas:candidate-vibid:1001000121784": 5,
+      "gas:candidate-vibid:302300266722": 45,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 21,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 6,
-      "Кальметьев Марс Рахматуллович": 267,
-      "Морозов Алексей Егорович": 25,
-      "Нигматулин Роберт Искандрович": 30,
-      "Никитин Валентин Иванович": 139,
-      "Сафин Фаиль Габдуллович": 83,
-      "Токарчук Александр Сергеевич": 10,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000277355": 21,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 6,
+      "gas:candidate-vibid:1001000225867": 267,
+      "gas:candidate-vibid:302300266644": 25,
+      "gas:candidate-vibid:302300266993": 30,
+      "gas:candidate-vibid:1001000121784": 139,
+      "gas:candidate-vibid:302300266722": 83,
+      "gas:candidate-vibid:1001000194994": 10,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 13,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 119,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 28,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 35,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000277355": 13,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 119,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 28,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 35,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 20,
-      "Кальметьев Марс Рахматуллович": 194,
-      "Морозов Алексей Егорович": 28,
-      "Нигматулин Роберт Искандрович": 15,
-      "Никитин Валентин Иванович": 205,
-      "Сафин Фаиль Габдуллович": 39,
-      "Токарчук Александр Сергеевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 20,
+      "gas:candidate-vibid:1001000225867": 194,
+      "gas:candidate-vibid:302300266644": 28,
+      "gas:candidate-vibid:302300266993": 15,
+      "gas:candidate-vibid:1001000121784": 205,
+      "gas:candidate-vibid:302300266722": 39,
+      "gas:candidate-vibid:1001000194994": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 9,
-      "Асадуллин Флюр Минзагитович": 38,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 238,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 14,
-      "Никитин Валентин Иванович": 35,
-      "Сафин Фаиль Габдуллович": 57,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000277355": 9,
+      "gas:candidate-vibid:302300266624": 38,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 238,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 14,
+      "gas:candidate-vibid:1001000121784": 35,
+      "gas:candidate-vibid:302300266722": 57,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 1,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 57,
-      "Морозов Алексей Егорович": 6,
-      "Нигматулин Роберт Искандрович": 7,
-      "Никитин Валентин Иванович": 11,
-      "Сафин Фаиль Габдуллович": 23,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 1,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 57,
+      "gas:candidate-vibid:302300266644": 6,
+      "gas:candidate-vibid:302300266993": 7,
+      "gas:candidate-vibid:1001000121784": 11,
+      "gas:candidate-vibid:302300266722": 23,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 29,
-      "Асадуллин Флюр Минзагитович": 14,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 213,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 91,
-      "Никитин Валентин Иванович": 85,
-      "Сафин Фаиль Габдуллович": 168,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000277355": 29,
+      "gas:candidate-vibid:302300266624": 14,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 213,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 91,
+      "gas:candidate-vibid:1001000121784": 85,
+      "gas:candidate-vibid:302300266722": 168,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 6,
-      "Кальметьев Марс Рахматуллович": 131,
-      "Морозов Алексей Егорович": 15,
-      "Нигматулин Роберт Искандрович": 34,
-      "Никитин Валентин Иванович": 31,
-      "Сафин Фаиль Габдуллович": 84,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 6,
+      "gas:candidate-vibid:1001000225867": 131,
+      "gas:candidate-vibid:302300266644": 15,
+      "gas:candidate-vibid:302300266993": 34,
+      "gas:candidate-vibid:1001000121784": 31,
+      "gas:candidate-vibid:302300266722": 84,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 271,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 25,
-      "Никитин Валентин Иванович": 113,
-      "Сафин Фаиль Габдуллович": 25,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 271,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 25,
+      "gas:candidate-vibid:1001000121784": 113,
+      "gas:candidate-vibid:302300266722": 25,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 15,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 138,
-      "Морозов Алексей Егорович": 17,
-      "Нигматулин Роберт Искандрович": 33,
-      "Никитин Валентин Иванович": 225,
-      "Сафин Фаиль Габдуллович": 44,
-      "Токарчук Александр Сергеевич": 9,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000277355": 15,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 138,
+      "gas:candidate-vibid:302300266644": 17,
+      "gas:candidate-vibid:302300266993": 33,
+      "gas:candidate-vibid:1001000121784": 225,
+      "gas:candidate-vibid:302300266722": 44,
+      "gas:candidate-vibid:1001000194994": 9,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 54,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 10,
-      "Никитин Валентин Иванович": 68,
-      "Сафин Фаиль Габдуллович": 24,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 54,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 10,
+      "gas:candidate-vibid:1001000121784": 68,
+      "gas:candidate-vibid:302300266722": 24,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 1,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 56,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 1,
-      "Никитин Валентин Иванович": 21,
-      "Сафин Фаиль Габдуллович": 10,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 1,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 56,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 1,
+      "gas:candidate-vibid:1001000121784": 21,
+      "gas:candidate-vibid:302300266722": 10,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 1,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 129,
-      "Морозов Алексей Егорович": 9,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 9,
-      "Сафин Фаиль Габдуллович": 10,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 1,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 129,
+      "gas:candidate-vibid:302300266644": 9,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 9,
+      "gas:candidate-vibid:302300266722": 10,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 419,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 24,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 3,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 419,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 24,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 3,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 12,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 186,
-      "Морозов Алексей Егорович": 12,
-      "Нигматулин Роберт Искандрович": 19,
-      "Никитин Валентин Иванович": 166,
-      "Сафин Фаиль Габдуллович": 43,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 12,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 186,
+      "gas:candidate-vibid:302300266644": 12,
+      "gas:candidate-vibid:302300266993": 19,
+      "gas:candidate-vibid:1001000121784": 166,
+      "gas:candidate-vibid:302300266722": 43,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 13,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 308,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 26,
-      "Никитин Валентин Иванович": 11,
-      "Сафин Фаиль Габдуллович": 36,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 13,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 308,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 26,
+      "gas:candidate-vibid:1001000121784": 11,
+      "gas:candidate-vibid:302300266722": 36,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 0,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 85,
-      "Морозов Алексей Егорович": 17,
-      "Нигматулин Роберт Искандрович": 12,
-      "Никитин Валентин Иванович": 175,
-      "Сафин Фаиль Габдуллович": 33,
-      "Токарчук Александр Сергеевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 0,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 85,
+      "gas:candidate-vibid:302300266644": 17,
+      "gas:candidate-vibid:302300266993": 12,
+      "gas:candidate-vibid:1001000121784": 175,
+      "gas:candidate-vibid:302300266722": 33,
+      "gas:candidate-vibid:1001000194994": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 98,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 63,
-      "Никитин Валентин Иванович": 16,
-      "Сафин Фаиль Габдуллович": 57,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 98,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 63,
+      "gas:candidate-vibid:1001000121784": 16,
+      "gas:candidate-vibid:302300266722": 57,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 15,
-      "Асадуллин Флюр Минзагитович": 9,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 117,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 40,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 95,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 15,
+      "gas:candidate-vibid:302300266624": 9,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 117,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 40,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 95,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 16,
-      "Асадуллин Флюр Минзагитович": 16,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 218,
-      "Морозов Алексей Егорович": 15,
-      "Нигматулин Роберт Искандрович": 47,
-      "Никитин Валентин Иванович": 42,
-      "Сафин Фаиль Габдуллович": 87,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000277355": 16,
+      "gas:candidate-vibid:302300266624": 16,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 218,
+      "gas:candidate-vibid:302300266644": 15,
+      "gas:candidate-vibid:302300266993": 47,
+      "gas:candidate-vibid:1001000121784": 42,
+      "gas:candidate-vibid:302300266722": 87,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 12,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 173,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 65,
-      "Никитин Валентин Иванович": 26,
-      "Сафин Фаиль Габдуллович": 53,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000277355": 12,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 173,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 65,
+      "gas:candidate-vibid:1001000121784": 26,
+      "gas:candidate-vibid:302300266722": 53,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 113,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 15,
-      "Никитин Валентин Иванович": 3,
-      "Сафин Фаиль Габдуллович": 10,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 113,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 15,
+      "gas:candidate-vibid:1001000121784": 3,
+      "gas:candidate-vibid:302300266722": 10,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 1,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 64,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 20,
-      "Сафин Фаиль Габдуллович": 5,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 1,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 64,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 20,
+      "gas:candidate-vibid:302300266722": 5,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 42,
-      "Морозов Алексей Егорович": 14,
-      "Нигматулин Роберт Искандрович": 13,
-      "Никитин Валентин Иванович": 88,
-      "Сафин Фаиль Габдуллович": 22,
-      "Токарчук Александр Сергеевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 42,
+      "gas:candidate-vibid:302300266644": 14,
+      "gas:candidate-vibid:302300266993": 13,
+      "gas:candidate-vibid:1001000121784": 88,
+      "gas:candidate-vibid:302300266722": 22,
+      "gas:candidate-vibid:1001000194994": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 23,
-      "Асадуллин Флюр Минзагитович": 11,
-      "Асафьев Артур Валерьевич": 8,
-      "Кальметьев Марс Рахматуллович": 101,
-      "Морозов Алексей Егорович": 91,
-      "Нигматулин Роберт Искандрович": 38,
-      "Никитин Валентин Иванович": 146,
-      "Сафин Фаиль Габдуллович": 63,
-      "Токарчук Александр Сергеевич": 18,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000277355": 23,
+      "gas:candidate-vibid:302300266624": 11,
+      "gas:candidate-vibid:1001000112173": 8,
+      "gas:candidate-vibid:1001000225867": 101,
+      "gas:candidate-vibid:302300266644": 91,
+      "gas:candidate-vibid:302300266993": 38,
+      "gas:candidate-vibid:1001000121784": 146,
+      "gas:candidate-vibid:302300266722": 63,
+      "gas:candidate-vibid:1001000194994": 18,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 18,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 309,
-      "Морозов Алексей Егорович": 6,
-      "Нигматулин Роберт Искандрович": 85,
-      "Никитин Валентин Иванович": 3,
-      "Сафин Фаиль Габдуллович": 53,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 18,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 309,
+      "gas:candidate-vibid:302300266644": 6,
+      "gas:candidate-vibid:302300266993": 85,
+      "gas:candidate-vibid:1001000121784": 3,
+      "gas:candidate-vibid:302300266722": 53,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 9,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 106,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 10,
-      "Никитин Валентин Иванович": 2,
-      "Сафин Фаиль Габдуллович": 7,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000277355": 9,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 106,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 10,
+      "gas:candidate-vibid:1001000121784": 2,
+      "gas:candidate-vibid:302300266722": 7,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 16,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 13,
-      "Кальметьев Марс Рахматуллович": 131,
-      "Морозов Алексей Егорович": 16,
-      "Нигматулин Роберт Искандрович": 51,
-      "Никитин Валентин Иванович": 66,
-      "Сафин Фаиль Габдуллович": 89,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000277355": 16,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 13,
+      "gas:candidate-vibid:1001000225867": 131,
+      "gas:candidate-vibid:302300266644": 16,
+      "gas:candidate-vibid:302300266993": 51,
+      "gas:candidate-vibid:1001000121784": 66,
+      "gas:candidate-vibid:302300266722": 89,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 17,
-      "Асадуллин Флюр Минзагитович": 135,
-      "Асафьев Артур Валерьевич": 16,
-      "Кальметьев Марс Рахматуллович": 342,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 110,
-      "Никитин Валентин Иванович": 55,
-      "Сафин Фаиль Габдуллович": 183,
-      "Токарчук Александр Сергеевич": 9,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000277355": 17,
+      "gas:candidate-vibid:302300266624": 135,
+      "gas:candidate-vibid:1001000112173": 16,
+      "gas:candidate-vibid:1001000225867": 342,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 110,
+      "gas:candidate-vibid:1001000121784": 55,
+      "gas:candidate-vibid:302300266722": 183,
+      "gas:candidate-vibid:1001000194994": 9,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 41,
-      "Асадуллин Флюр Минзагитович": 261,
-      "Асафьев Артур Валерьевич": 26,
-      "Кальметьев Марс Рахматуллович": 548,
-      "Морозов Алексей Егорович": 77,
-      "Нигматулин Роберт Искандрович": 217,
-      "Никитин Валентин Иванович": 141,
-      "Сафин Фаиль Габдуллович": 275,
-      "Токарчук Александр Сергеевич": 14,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000277355": 41,
+      "gas:candidate-vibid:302300266624": 261,
+      "gas:candidate-vibid:1001000112173": 26,
+      "gas:candidate-vibid:1001000225867": 548,
+      "gas:candidate-vibid:302300266644": 77,
+      "gas:candidate-vibid:302300266993": 217,
+      "gas:candidate-vibid:1001000121784": 141,
+      "gas:candidate-vibid:302300266722": 275,
+      "gas:candidate-vibid:1001000194994": 14,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 48,
-      "Асадуллин Флюр Минзагитович": 283,
-      "Асафьев Артур Валерьевич": 21,
-      "Кальметьев Марс Рахматуллович": 622,
-      "Морозов Алексей Егорович": 35,
-      "Нигматулин Роберт Искандрович": 286,
-      "Никитин Валентин Иванович": 166,
-      "Сафин Фаиль Габдуллович": 316,
-      "Токарчук Александр Сергеевич": 18,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000277355": 48,
+      "gas:candidate-vibid:302300266624": 283,
+      "gas:candidate-vibid:1001000112173": 21,
+      "gas:candidate-vibid:1001000225867": 622,
+      "gas:candidate-vibid:302300266644": 35,
+      "gas:candidate-vibid:302300266993": 286,
+      "gas:candidate-vibid:1001000121784": 166,
+      "gas:candidate-vibid:302300266722": 316,
+      "gas:candidate-vibid:1001000194994": 18,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 20,
-      "Асадуллин Флюр Минзагитович": 171,
-      "Асафьев Артур Валерьевич": 14,
-      "Кальметьев Марс Рахматуллович": 311,
-      "Морозов Алексей Егорович": 44,
-      "Нигматулин Роберт Искандрович": 78,
-      "Никитин Валентин Иванович": 161,
-      "Сафин Фаиль Габдуллович": 170,
-      "Токарчук Александр Сергеевич": 15,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000277355": 20,
+      "gas:candidate-vibid:302300266624": 171,
+      "gas:candidate-vibid:1001000112173": 14,
+      "gas:candidate-vibid:1001000225867": 311,
+      "gas:candidate-vibid:302300266644": 44,
+      "gas:candidate-vibid:302300266993": 78,
+      "gas:candidate-vibid:1001000121784": 161,
+      "gas:candidate-vibid:302300266722": 170,
+      "gas:candidate-vibid:1001000194994": 15,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 242,
-      "Морозов Алексей Егорович": 17,
-      "Нигматулин Роберт Искандрович": 17,
-      "Никитин Валентин Иванович": 76,
-      "Сафин Фаиль Габдуллович": 28,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 242,
+      "gas:candidate-vibid:302300266644": 17,
+      "gas:candidate-vibid:302300266993": 17,
+      "gas:candidate-vibid:1001000121784": 76,
+      "gas:candidate-vibid:302300266722": 28,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 0,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 46,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 112,
-      "Сафин Фаиль Габдуллович": 12,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 0,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 46,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 112,
+      "gas:candidate-vibid:302300266722": 12,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 214,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 37,
-      "Никитин Валентин Иванович": 23,
-      "Сафин Фаиль Габдуллович": 99,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 214,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 37,
+      "gas:candidate-vibid:1001000121784": 23,
+      "gas:candidate-vibid:302300266722": 99,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 128,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 19,
-      "Сафин Фаиль Габдуллович": 21,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 128,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 19,
+      "gas:candidate-vibid:302300266722": 21,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 152,
-      "Морозов Алексей Егорович": 11,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 21,
-      "Сафин Фаиль Габдуллович": 30,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 152,
+      "gas:candidate-vibid:302300266644": 11,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 21,
+      "gas:candidate-vibid:302300266722": 30,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 8,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 187,
-      "Морозов Алексей Егорович": 19,
-      "Нигматулин Роберт Искандрович": 17,
-      "Никитин Валентин Иванович": 122,
-      "Сафин Фаиль Габдуллович": 46,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000277355": 8,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 187,
+      "gas:candidate-vibid:302300266644": 19,
+      "gas:candidate-vibid:302300266993": 17,
+      "gas:candidate-vibid:1001000121784": 122,
+      "gas:candidate-vibid:302300266722": 46,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 1,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 125,
-      "Морозов Алексей Егорович": 9,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 66,
-      "Сафин Фаиль Габдуллович": 24,
-      "Токарчук Александр Сергеевич": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 1,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 125,
+      "gas:candidate-vibid:302300266644": 9,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 66,
+      "gas:candidate-vibid:302300266722": 24,
+      "gas:candidate-vibid:1001000194994": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 478,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 45,
-      "Никитин Валентин Иванович": 7,
-      "Сафин Фаиль Габдуллович": 6,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 478,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 45,
+      "gas:candidate-vibid:1001000121784": 7,
+      "gas:candidate-vibid:302300266722": 6,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 21,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 214,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 30,
-      "Никитин Валентин Иванович": 6,
-      "Сафин Фаиль Габдуллович": 53,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000277355": 21,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 214,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 30,
+      "gas:candidate-vibid:1001000121784": 6,
+      "gas:candidate-vibid:302300266722": 53,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 156,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 22,
-      "Никитин Валентин Иванович": 13,
-      "Сафин Фаиль Габдуллович": 33,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 156,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 22,
+      "gas:candidate-vibid:1001000121784": 13,
+      "gas:candidate-vibid:302300266722": 33,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 150,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 16,
-      "Сафин Фаиль Габдуллович": 9,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 150,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 16,
+      "gas:candidate-vibid:302300266722": 9,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 8,
-      "Кальметьев Марс Рахматуллович": 135,
-      "Морозов Алексей Егорович": 23,
-      "Нигматулин Роберт Искандрович": 13,
-      "Никитин Валентин Иванович": 158,
-      "Сафин Фаиль Габдуллович": 72,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 8,
+      "gas:candidate-vibid:1001000225867": 135,
+      "gas:candidate-vibid:302300266644": 23,
+      "gas:candidate-vibid:302300266993": 13,
+      "gas:candidate-vibid:1001000121784": 158,
+      "gas:candidate-vibid:302300266722": 72,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 31,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 0,
-      "Никитин Валентин Иванович": 9,
-      "Сафин Фаиль Габдуллович": 16,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 31,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 0,
+      "gas:candidate-vibid:1001000121784": 9,
+      "gas:candidate-vibid:302300266722": 16,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 220,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 57,
-      "Сафин Фаиль Габдуллович": 31,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 220,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 57,
+      "gas:candidate-vibid:302300266722": 31,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066836&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 27,
-      "Асадуллин Флюр Минзагитович": 84,
-      "Асафьев Артур Валерьевич": 18,
-      "Кальметьев Марс Рахматуллович": 252,
-      "Морозов Алексей Егорович": 67,
-      "Нигматулин Роберт Искандрович": 80,
-      "Никитин Валентин Иванович": 102,
-      "Сафин Фаиль Габдуллович": 118,
-      "Токарчук Александр Сергеевич": 17,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000277355": 27,
+      "gas:candidate-vibid:302300266624": 84,
+      "gas:candidate-vibid:1001000112173": 18,
+      "gas:candidate-vibid:1001000225867": 252,
+      "gas:candidate-vibid:302300266644": 67,
+      "gas:candidate-vibid:302300266993": 80,
+      "gas:candidate-vibid:1001000121784": 102,
+      "gas:candidate-vibid:302300266722": 118,
+      "gas:candidate-vibid:1001000194994": 17,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 33,
-      "Асадуллин Флюр Минзагитович": 91,
-      "Асафьев Артур Валерьевич": 13,
-      "Кальметьев Марс Рахматуллович": 213,
-      "Морозов Алексей Егорович": 70,
-      "Нигматулин Роберт Искандрович": 54,
-      "Никитин Валентин Иванович": 143,
-      "Сафин Фаиль Габдуллович": 93,
-      "Токарчук Александр Сергеевич": 13,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000277355": 33,
+      "gas:candidate-vibid:302300266624": 91,
+      "gas:candidate-vibid:1001000112173": 13,
+      "gas:candidate-vibid:1001000225867": 213,
+      "gas:candidate-vibid:302300266644": 70,
+      "gas:candidate-vibid:302300266993": 54,
+      "gas:candidate-vibid:1001000121784": 143,
+      "gas:candidate-vibid:302300266722": 93,
+      "gas:candidate-vibid:1001000194994": 13,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 35,
-      "Асадуллин Флюр Минзагитович": 132,
-      "Асафьев Артур Валерьевич": 9,
-      "Кальметьев Марс Рахматуллович": 289,
-      "Морозов Алексей Егорович": 112,
-      "Нигматулин Роберт Искандрович": 69,
-      "Никитин Валентин Иванович": 174,
-      "Сафин Фаиль Габдуллович": 100,
-      "Токарчук Александр Сергеевич": 23,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000277355": 35,
+      "gas:candidate-vibid:302300266624": 132,
+      "gas:candidate-vibid:1001000112173": 9,
+      "gas:candidate-vibid:1001000225867": 289,
+      "gas:candidate-vibid:302300266644": 112,
+      "gas:candidate-vibid:302300266993": 69,
+      "gas:candidate-vibid:1001000121784": 174,
+      "gas:candidate-vibid:302300266722": 100,
+      "gas:candidate-vibid:1001000194994": 23,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 24,
-      "Асадуллин Флюр Минзагитович": 80,
-      "Асафьев Артур Валерьевич": 10,
-      "Кальметьев Марс Рахматуллович": 173,
-      "Морозов Алексей Егорович": 113,
-      "Нигматулин Роберт Искандрович": 39,
-      "Никитин Валентин Иванович": 121,
-      "Сафин Фаиль Габдуллович": 86,
-      "Токарчук Александр Сергеевич": 22,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000277355": 24,
+      "gas:candidate-vibid:302300266624": 80,
+      "gas:candidate-vibid:1001000112173": 10,
+      "gas:candidate-vibid:1001000225867": 173,
+      "gas:candidate-vibid:302300266644": 113,
+      "gas:candidate-vibid:302300266993": 39,
+      "gas:candidate-vibid:1001000121784": 121,
+      "gas:candidate-vibid:302300266722": 86,
+      "gas:candidate-vibid:1001000194994": 22,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 23,
-      "Асадуллин Флюр Минзагитович": 63,
-      "Асафьев Артур Валерьевич": 8,
-      "Кальметьев Марс Рахматуллович": 152,
-      "Морозов Алексей Егорович": 59,
-      "Нигматулин Роберт Искандрович": 39,
-      "Никитин Валентин Иванович": 54,
-      "Сафин Фаиль Габдуллович": 79,
-      "Токарчук Александр Сергеевич": 7,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000277355": 23,
+      "gas:candidate-vibid:302300266624": 63,
+      "gas:candidate-vibid:1001000112173": 8,
+      "gas:candidate-vibid:1001000225867": 152,
+      "gas:candidate-vibid:302300266644": 59,
+      "gas:candidate-vibid:302300266993": 39,
+      "gas:candidate-vibid:1001000121784": 54,
+      "gas:candidate-vibid:302300266722": 79,
+      "gas:candidate-vibid:1001000194994": 7,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 8,
-      "Асадуллин Флюр Минзагитович": 39,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 102,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 15,
-      "Никитин Валентин Иванович": 18,
-      "Сафин Фаиль Габдуллович": 97,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000277355": 8,
+      "gas:candidate-vibid:302300266624": 39,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 102,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 15,
+      "gas:candidate-vibid:1001000121784": 18,
+      "gas:candidate-vibid:302300266722": 97,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 23,
-      "Асадуллин Флюр Минзагитович": 76,
-      "Асафьев Артур Валерьевич": 8,
-      "Кальметьев Марс Рахматуллович": 208,
-      "Морозов Алексей Егорович": 73,
-      "Нигматулин Роберт Искандрович": 77,
-      "Никитин Валентин Иванович": 98,
-      "Сафин Фаиль Габдуллович": 105,
-      "Токарчук Александр Сергеевич": 8,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000277355": 23,
+      "gas:candidate-vibid:302300266624": 76,
+      "gas:candidate-vibid:1001000112173": 8,
+      "gas:candidate-vibid:1001000225867": 208,
+      "gas:candidate-vibid:302300266644": 73,
+      "gas:candidate-vibid:302300266993": 77,
+      "gas:candidate-vibid:1001000121784": 98,
+      "gas:candidate-vibid:302300266722": 105,
+      "gas:candidate-vibid:1001000194994": 8,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 12,
-      "Асадуллин Флюр Минзагитович": 54,
-      "Асафьев Артур Валерьевич": 8,
-      "Кальметьев Марс Рахматуллович": 129,
-      "Морозов Алексей Егорович": 66,
-      "Нигматулин Роберт Искандрович": 18,
-      "Никитин Валентин Иванович": 126,
-      "Сафин Фаиль Габдуллович": 78,
-      "Токарчук Александр Сергеевич": 9,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000277355": 12,
+      "gas:candidate-vibid:302300266624": 54,
+      "gas:candidate-vibid:1001000112173": 8,
+      "gas:candidate-vibid:1001000225867": 129,
+      "gas:candidate-vibid:302300266644": 66,
+      "gas:candidate-vibid:302300266993": 18,
+      "gas:candidate-vibid:1001000121784": 126,
+      "gas:candidate-vibid:302300266722": 78,
+      "gas:candidate-vibid:1001000194994": 9,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 19,
-      "Асадуллин Флюр Минзагитович": 50,
-      "Асафьев Артур Валерьевич": 11,
-      "Кальметьев Марс Рахматуллович": 306,
-      "Морозов Алексей Егорович": 106,
-      "Нигматулин Роберт Искандрович": 47,
-      "Никитин Валентин Иванович": 102,
-      "Сафин Фаиль Габдуллович": 136,
-      "Токарчук Александр Сергеевич": 21,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000277355": 19,
+      "gas:candidate-vibid:302300266624": 50,
+      "gas:candidate-vibid:1001000112173": 11,
+      "gas:candidate-vibid:1001000225867": 306,
+      "gas:candidate-vibid:302300266644": 106,
+      "gas:candidate-vibid:302300266993": 47,
+      "gas:candidate-vibid:1001000121784": 102,
+      "gas:candidate-vibid:302300266722": 136,
+      "gas:candidate-vibid:1001000194994": 21,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 43,
-      "Асадуллин Флюр Минзагитович": 75,
-      "Асафьев Артур Валерьевич": 18,
-      "Кальметьев Марс Рахматуллович": 589,
-      "Морозов Алексей Егорович": 104,
-      "Нигматулин Роберт Искандрович": 63,
-      "Никитин Валентин Иванович": 188,
-      "Сафин Фаиль Габдуллович": 152,
-      "Токарчук Александр Сергеевич": 25,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000277355": 43,
+      "gas:candidate-vibid:302300266624": 75,
+      "gas:candidate-vibid:1001000112173": 18,
+      "gas:candidate-vibid:1001000225867": 589,
+      "gas:candidate-vibid:302300266644": 104,
+      "gas:candidate-vibid:302300266993": 63,
+      "gas:candidate-vibid:1001000121784": 188,
+      "gas:candidate-vibid:302300266722": 152,
+      "gas:candidate-vibid:1001000194994": 25,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 53,
-      "Асадуллин Флюр Минзагитович": 138,
-      "Асафьев Артур Валерьевич": 32,
-      "Кальметьев Марс Рахматуллович": 587,
-      "Морозов Алексей Егорович": 112,
-      "Нигматулин Роберт Искандрович": 178,
-      "Никитин Валентин Иванович": 131,
-      "Сафин Фаиль Габдуллович": 195,
-      "Токарчук Александр Сергеевич": 24,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000277355": 53,
+      "gas:candidate-vibid:302300266624": 138,
+      "gas:candidate-vibid:1001000112173": 32,
+      "gas:candidate-vibid:1001000225867": 587,
+      "gas:candidate-vibid:302300266644": 112,
+      "gas:candidate-vibid:302300266993": 178,
+      "gas:candidate-vibid:1001000121784": 131,
+      "gas:candidate-vibid:302300266722": 195,
+      "gas:candidate-vibid:1001000194994": 24,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 25,
-      "Асадуллин Флюр Минзагитович": 62,
-      "Асафьев Артур Валерьевич": 11,
-      "Кальметьев Марс Рахматуллович": 229,
-      "Морозов Алексей Егорович": 30,
-      "Нигматулин Роберт Искандрович": 59,
-      "Никитин Валентин Иванович": 38,
-      "Сафин Фаиль Габдуллович": 113,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 25,
+      "gas:candidate-vibid:302300266624": 62,
+      "gas:candidate-vibid:1001000112173": 11,
+      "gas:candidate-vibid:1001000225867": 229,
+      "gas:candidate-vibid:302300266644": 30,
+      "gas:candidate-vibid:302300266993": 59,
+      "gas:candidate-vibid:1001000121784": 38,
+      "gas:candidate-vibid:302300266722": 113,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 16,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 251,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 12,
-      "Никитин Валентин Иванович": 20,
-      "Сафин Фаиль Габдуллович": 43,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 16,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 251,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 12,
+      "gas:candidate-vibid:1001000121784": 20,
+      "gas:candidate-vibid:302300266722": 43,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 15,
-      "Асадуллин Флюр Минзагитович": 0,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 88,
-      "Морозов Алексей Егорович": 10,
-      "Нигматулин Роберт Искандрович": 18,
-      "Никитин Валентин Иванович": 3,
-      "Сафин Фаиль Габдуллович": 15,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 15,
+      "gas:candidate-vibid:302300266624": 0,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 88,
+      "gas:candidate-vibid:302300266644": 10,
+      "gas:candidate-vibid:302300266993": 18,
+      "gas:candidate-vibid:1001000121784": 3,
+      "gas:candidate-vibid:302300266722": 15,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 20,
-      "Асадуллин Флюр Минзагитович": 37,
-      "Асафьев Артур Валерьевич": 11,
-      "Кальметьев Марс Рахматуллович": 365,
-      "Морозов Алексей Егорович": 41,
-      "Нигматулин Роберт Искандрович": 30,
-      "Никитин Валентин Иванович": 77,
-      "Сафин Фаиль Габдуллович": 52,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000277355": 20,
+      "gas:candidate-vibid:302300266624": 37,
+      "gas:candidate-vibid:1001000112173": 11,
+      "gas:candidate-vibid:1001000225867": 365,
+      "gas:candidate-vibid:302300266644": 41,
+      "gas:candidate-vibid:302300266993": 30,
+      "gas:candidate-vibid:1001000121784": 77,
+      "gas:candidate-vibid:302300266722": 52,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 346,
-      "Морозов Алексей Егорович": 6,
-      "Нигматулин Роберт Искандрович": 9,
-      "Никитин Валентин Иванович": 28,
-      "Сафин Фаиль Габдуллович": 19,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 346,
+      "gas:candidate-vibid:302300266644": 6,
+      "gas:candidate-vibid:302300266993": 9,
+      "gas:candidate-vibid:1001000121784": 28,
+      "gas:candidate-vibid:302300266722": 19,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 92,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 0,
-      "Никитин Валентин Иванович": 9,
-      "Сафин Фаиль Габдуллович": 14,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 92,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 0,
+      "gas:candidate-vibid:1001000121784": 9,
+      "gas:candidate-vibid:302300266722": 14,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 47,
-      "Морозов Алексей Егорович": 17,
-      "Нигматулин Роберт Искандрович": 0,
-      "Никитин Валентин Иванович": 19,
-      "Сафин Фаиль Габдуллович": 8,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 47,
+      "gas:candidate-vibid:302300266644": 17,
+      "gas:candidate-vibid:302300266993": 0,
+      "gas:candidate-vibid:1001000121784": 19,
+      "gas:candidate-vibid:302300266722": 8,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 16,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 8,
-      "Кальметьев Марс Рахматуллович": 346,
-      "Морозов Алексей Егорович": 39,
-      "Нигматулин Роберт Искандрович": 26,
-      "Никитин Валентин Иванович": 45,
-      "Сафин Фаиль Габдуллович": 78,
-      "Токарчук Александр Сергеевич": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000277355": 16,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 8,
+      "gas:candidate-vibid:1001000225867": 346,
+      "gas:candidate-vibid:302300266644": 39,
+      "gas:candidate-vibid:302300266993": 26,
+      "gas:candidate-vibid:1001000121784": 45,
+      "gas:candidate-vibid:302300266722": 78,
+      "gas:candidate-vibid:1001000194994": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 21,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 534,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 42,
-      "Никитин Валентин Иванович": 29,
-      "Сафин Фаиль Габдуллович": 77,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 21,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 534,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 42,
+      "gas:candidate-vibid:1001000121784": 29,
+      "gas:candidate-vibid:302300266722": 77,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 145,
-      "Морозов Алексей Егорович": 10,
-      "Нигматулин Роберт Искандрович": 20,
-      "Никитин Валентин Иванович": 2,
-      "Сафин Фаиль Габдуллович": 33,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 145,
+      "gas:candidate-vibid:302300266644": 10,
+      "gas:candidate-vibid:302300266993": 20,
+      "gas:candidate-vibid:1001000121784": 2,
+      "gas:candidate-vibid:302300266722": 33,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 1,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 123,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 0,
-      "Никитин Валентин Иванович": 7,
-      "Сафин Фаиль Габдуллович": 5,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 1,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 123,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 0,
+      "gas:candidate-vibid:1001000121784": 7,
+      "gas:candidate-vibid:302300266722": 5,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 13,
-      "Асадуллин Флюр Минзагитович": 16,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 406,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 21,
-      "Никитин Валентин Иванович": 13,
-      "Сафин Фаиль Габдуллович": 33,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000277355": 13,
+      "gas:candidate-vibid:302300266624": 16,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 406,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 21,
+      "gas:candidate-vibid:1001000121784": 13,
+      "gas:candidate-vibid:302300266722": 33,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 9,
-      "Асафьев Артур Валерьевич": 12,
-      "Кальметьев Марс Рахматуллович": 270,
-      "Морозов Алексей Егорович": 13,
-      "Нигматулин Роберт Искандрович": 14,
-      "Никитин Валентин Иванович": 23,
-      "Сафин Фаиль Габдуллович": 41,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 9,
+      "gas:candidate-vibid:1001000112173": 12,
+      "gas:candidate-vibid:1001000225867": 270,
+      "gas:candidate-vibid:302300266644": 13,
+      "gas:candidate-vibid:302300266993": 14,
+      "gas:candidate-vibid:1001000121784": 23,
+      "gas:candidate-vibid:302300266722": 41,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 3,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 171,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 7,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 3,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 171,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 7,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 181,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 13,
-      "Сафин Фаиль Габдуллович": 6,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 181,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 13,
+      "gas:candidate-vibid:302300266722": 6,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 154,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 15,
-      "Сафин Фаиль Габдуллович": 12,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 154,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 15,
+      "gas:candidate-vibid:302300266722": 12,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 23,
-      "Асадуллин Флюр Минзагитович": 25,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 247,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 28,
-      "Никитин Валентин Иванович": 7,
-      "Сафин Фаиль Габдуллович": 34,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 23,
+      "gas:candidate-vibid:302300266624": 25,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 247,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 28,
+      "gas:candidate-vibid:1001000121784": 7,
+      "gas:candidate-vibid:302300266722": 34,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 60,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 16,
-      "Никитин Валентин Иванович": 13,
-      "Сафин Фаиль Габдуллович": 46,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 60,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 16,
+      "gas:candidate-vibid:1001000121784": 13,
+      "gas:candidate-vibid:302300266722": 46,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 240,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 2,
-      "Сафин Фаиль Габдуллович": 7,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 240,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 2,
+      "gas:candidate-vibid:302300266722": 7,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 74,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 22,
-      "Сафин Фаиль Габдуллович": 16,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 74,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 22,
+      "gas:candidate-vibid:302300266722": 16,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 8,
-      "Асадуллин Флюр Минзагитович": 10,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 408,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 17,
-      "Никитин Валентин Иванович": 14,
-      "Сафин Фаиль Габдуллович": 15,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000277355": 8,
+      "gas:candidate-vibid:302300266624": 10,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 408,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 17,
+      "gas:candidate-vibid:1001000121784": 14,
+      "gas:candidate-vibid:302300266722": 15,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 77,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 14,
-      "Сафин Фаиль Габдуллович": 24,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 77,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 14,
+      "gas:candidate-vibid:302300266722": 24,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 11,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 169,
-      "Морозов Алексей Егорович": 12,
-      "Нигматулин Роберт Искандрович": 14,
-      "Никитин Валентин Иванович": 108,
-      "Сафин Фаиль Габдуллович": 52,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 11,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 169,
+      "gas:candidate-vibid:302300266644": 12,
+      "gas:candidate-vibid:302300266993": 14,
+      "gas:candidate-vibid:1001000121784": 108,
+      "gas:candidate-vibid:302300266722": 52,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 8,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 6,
-      "Кальметьев Марс Рахматуллович": 160,
-      "Морозов Алексей Егорович": 39,
-      "Нигматулин Роберт Искандрович": 14,
-      "Никитин Валентин Иванович": 72,
-      "Сафин Фаиль Габдуллович": 68,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000277355": 8,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 6,
+      "gas:candidate-vibid:1001000225867": 160,
+      "gas:candidate-vibid:302300266644": 39,
+      "gas:candidate-vibid:302300266993": 14,
+      "gas:candidate-vibid:1001000121784": 72,
+      "gas:candidate-vibid:302300266722": 68,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 87,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 7,
-      "Никитин Валентин Иванович": 7,
-      "Сафин Фаиль Габдуллович": 13,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 87,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 7,
+      "gas:candidate-vibid:1001000121784": 7,
+      "gas:candidate-vibid:302300266722": 13,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 0,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 100,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 2,
-      "Никитин Валентин Иванович": 15,
-      "Сафин Фаиль Габдуллович": 13,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 0,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 100,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 2,
+      "gas:candidate-vibid:1001000121784": 15,
+      "gas:candidate-vibid:302300266722": 13,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 67,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 9,
-      "Никитин Валентин Иванович": 6,
-      "Сафин Фаиль Габдуллович": 19,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 67,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 9,
+      "gas:candidate-vibid:1001000121784": 6,
+      "gas:candidate-vibid:302300266722": 19,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 14,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 349,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 14,
-      "Никитин Валентин Иванович": 15,
-      "Сафин Фаиль Габдуллович": 112,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 14,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 349,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 14,
+      "gas:candidate-vibid:1001000121784": 15,
+      "gas:candidate-vibid:302300266722": 112,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 17,
-      "Асадуллин Флюр Минзагитович": 21,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 318,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 27,
-      "Никитин Валентин Иванович": 34,
-      "Сафин Фаиль Габдуллович": 114,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 17,
+      "gas:candidate-vibid:302300266624": 21,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 318,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 27,
+      "gas:candidate-vibid:1001000121784": 34,
+      "gas:candidate-vibid:302300266722": 114,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 9,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 117,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 31,
-      "Никитин Валентин Иванович": 46,
-      "Сафин Фаиль Габдуллович": 40,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 9,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 117,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 31,
+      "gas:candidate-vibid:1001000121784": 46,
+      "gas:candidate-vibid:302300266722": 40,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 192,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 21,
-      "Никитин Валентин Иванович": 14,
-      "Сафин Фаиль Габдуллович": 125,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 192,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 21,
+      "gas:candidate-vibid:1001000121784": 14,
+      "gas:candidate-vibid:302300266722": 125,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 19,
-      "Асадуллин Флюр Минзагитович": 13,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 518,
-      "Морозов Алексей Егорович": 9,
-      "Нигматулин Роберт Искандрович": 32,
-      "Никитин Валентин Иванович": 55,
-      "Сафин Фаиль Габдуллович": 89,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000277355": 19,
+      "gas:candidate-vibid:302300266624": 13,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 518,
+      "gas:candidate-vibid:302300266644": 9,
+      "gas:candidate-vibid:302300266993": 32,
+      "gas:candidate-vibid:1001000121784": 55,
+      "gas:candidate-vibid:302300266722": 89,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 130,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 11,
-      "Никитин Валентин Иванович": 5,
-      "Сафин Фаиль Габдуллович": 12,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 130,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 11,
+      "gas:candidate-vibid:1001000121784": 5,
+      "gas:candidate-vibid:302300266722": 12,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 8,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 217,
-      "Морозов Алексей Егорович": 6,
-      "Нигматулин Роберт Искандрович": 16,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 67,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 8,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 217,
+      "gas:candidate-vibid:302300266644": 6,
+      "gas:candidate-vibid:302300266993": 16,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 67,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 17,
-      "Асадуллин Флюр Минзагитович": 20,
-      "Асафьев Артур Валерьевич": 9,
-      "Кальметьев Марс Рахматуллович": 347,
-      "Морозов Алексей Егорович": 10,
-      "Нигматулин Роберт Искандрович": 33,
-      "Никитин Валентин Иванович": 21,
-      "Сафин Фаиль Габдуллович": 151,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000277355": 17,
+      "gas:candidate-vibid:302300266624": 20,
+      "gas:candidate-vibid:1001000112173": 9,
+      "gas:candidate-vibid:1001000225867": 347,
+      "gas:candidate-vibid:302300266644": 10,
+      "gas:candidate-vibid:302300266993": 33,
+      "gas:candidate-vibid:1001000121784": 21,
+      "gas:candidate-vibid:302300266722": 151,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 65,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 342,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 47,
-      "Никитин Валентин Иванович": 12,
-      "Сафин Фаиль Габдуллович": 23,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 65,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 342,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 47,
+      "gas:candidate-vibid:1001000121784": 12,
+      "gas:candidate-vibid:302300266722": 23,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 14,
-      "Асадуллин Флюр Минзагитович": 47,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 545,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 54,
-      "Никитин Валентин Иванович": 22,
-      "Сафин Фаиль Габдуллович": 111,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000277355": 14,
+      "gas:candidate-vibid:302300266624": 47,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 545,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 54,
+      "gas:candidate-vibid:1001000121784": 22,
+      "gas:candidate-vibid:302300266722": 111,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 18,
-      "Асадуллин Флюр Минзагитович": 8,
-      "Асафьев Артур Валерьевич": 6,
-      "Кальметьев Марс Рахматуллович": 536,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 25,
-      "Никитин Валентин Иванович": 5,
-      "Сафин Фаиль Габдуллович": 19,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 18,
+      "gas:candidate-vibid:302300266624": 8,
+      "gas:candidate-vibid:1001000112173": 6,
+      "gas:candidate-vibid:1001000225867": 536,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 25,
+      "gas:candidate-vibid:1001000121784": 5,
+      "gas:candidate-vibid:302300266722": 19,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 13,
-      "Асадуллин Флюр Минзагитович": 30,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 166,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 32,
-      "Никитин Валентин Иванович": 11,
-      "Сафин Фаиль Габдуллович": 52,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000277355": 13,
+      "gas:candidate-vibid:302300266624": 30,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 166,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 32,
+      "gas:candidate-vibid:1001000121784": 11,
+      "gas:candidate-vibid:302300266722": 52,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 219,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 12,
-      "Никитин Валентин Иванович": 38,
-      "Сафин Фаиль Габдуллович": 6,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 219,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 12,
+      "gas:candidate-vibid:1001000121784": 38,
+      "gas:candidate-vibid:302300266722": 6,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 71,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 21,
-      "Никитин Валентин Иванович": 18,
-      "Сафин Фаиль Габдуллович": 46,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 71,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 21,
+      "gas:candidate-vibid:1001000121784": 18,
+      "gas:candidate-vibid:302300266722": 46,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 41,
-      "Асадуллин Флюр Минзагитович": 105,
-      "Асафьев Артур Валерьевич": 16,
-      "Кальметьев Марс Рахматуллович": 383,
-      "Морозов Алексей Егорович": 38,
-      "Нигматулин Роберт Искандрович": 113,
-      "Никитин Валентин Иванович": 165,
-      "Сафин Фаиль Габдуллович": 136,
-      "Токарчук Александр Сергеевич": 10,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000277355": 41,
+      "gas:candidate-vibid:302300266624": 105,
+      "gas:candidate-vibid:1001000112173": 16,
+      "gas:candidate-vibid:1001000225867": 383,
+      "gas:candidate-vibid:302300266644": 38,
+      "gas:candidate-vibid:302300266993": 113,
+      "gas:candidate-vibid:1001000121784": 165,
+      "gas:candidate-vibid:302300266722": 136,
+      "gas:candidate-vibid:1001000194994": 10,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 9,
-      "Асадуллин Флюр Минзагитович": 12,
-      "Асафьев Артур Валерьевич": 12,
-      "Кальметьев Марс Рахматуллович": 66,
-      "Морозов Алексей Егорович": 10,
-      "Нигматулин Роберт Искандрович": 41,
-      "Никитин Валентин Иванович": 71,
-      "Сафин Фаиль Габдуллович": 55,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000277355": 9,
+      "gas:candidate-vibid:302300266624": 12,
+      "gas:candidate-vibid:1001000112173": 12,
+      "gas:candidate-vibid:1001000225867": 66,
+      "gas:candidate-vibid:302300266644": 10,
+      "gas:candidate-vibid:302300266993": 41,
+      "gas:candidate-vibid:1001000121784": 71,
+      "gas:candidate-vibid:302300266722": 55,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066837&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 23,
-      "Асадуллин Флюр Минзагитович": 202,
-      "Асафьев Артур Валерьевич": 23,
-      "Кальметьев Марс Рахматуллович": 159,
-      "Морозов Алексей Егорович": 59,
-      "Нигматулин Роберт Искандрович": 33,
-      "Никитин Валентин Иванович": 157,
-      "Сафин Фаиль Габдуллович": 98,
-      "Токарчук Александр Сергеевич": 13,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000277355": 23,
+      "gas:candidate-vibid:302300266624": 202,
+      "gas:candidate-vibid:1001000112173": 23,
+      "gas:candidate-vibid:1001000225867": 159,
+      "gas:candidate-vibid:302300266644": 59,
+      "gas:candidate-vibid:302300266993": 33,
+      "gas:candidate-vibid:1001000121784": 157,
+      "gas:candidate-vibid:302300266722": 98,
+      "gas:candidate-vibid:1001000194994": 13,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 7
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 370,
-      "Асафьев Артур Валерьевич": 15,
-      "Кальметьев Марс Рахматуллович": 105,
-      "Морозов Алексей Егорович": 28,
-      "Нигматулин Роберт Искандрович": 30,
-      "Никитин Валентин Иванович": 250,
-      "Сафин Фаиль Габдуллович": 49,
-      "Токарчук Александр Сергеевич": 5,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 370,
+      "gas:candidate-vibid:1001000112173": 15,
+      "gas:candidate-vibid:1001000225867": 105,
+      "gas:candidate-vibid:302300266644": 28,
+      "gas:candidate-vibid:302300266993": 30,
+      "gas:candidate-vibid:1001000121784": 250,
+      "gas:candidate-vibid:302300266722": 49,
+      "gas:candidate-vibid:1001000194994": 5,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 161,
-      "Асафьев Артур Валерьевич": 14,
-      "Кальметьев Марс Рахматуллович": 82,
-      "Морозов Алексей Егорович": 38,
-      "Нигматулин Роберт Искандрович": 16,
-      "Никитин Валентин Иванович": 127,
-      "Сафин Фаиль Габдуллович": 82,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 161,
+      "gas:candidate-vibid:1001000112173": 14,
+      "gas:candidate-vibid:1001000225867": 82,
+      "gas:candidate-vibid:302300266644": 38,
+      "gas:candidate-vibid:302300266993": 16,
+      "gas:candidate-vibid:1001000121784": 127,
+      "gas:candidate-vibid:302300266722": 82,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 176,
-      "Асафьев Артур Валерьевич": 16,
-      "Кальметьев Марс Рахматуллович": 67,
-      "Морозов Алексей Егорович": 45,
-      "Нигматулин Роберт Искандрович": 24,
-      "Никитин Валентин Иванович": 104,
-      "Сафин Фаиль Габдуллович": 72,
-      "Токарчук Александр Сергеевич": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 176,
+      "gas:candidate-vibid:1001000112173": 16,
+      "gas:candidate-vibid:1001000225867": 67,
+      "gas:candidate-vibid:302300266644": 45,
+      "gas:candidate-vibid:302300266993": 24,
+      "gas:candidate-vibid:1001000121784": 104,
+      "gas:candidate-vibid:302300266722": 72,
+      "gas:candidate-vibid:1001000194994": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 26,
-      "Асадуллин Флюр Минзагитович": 367,
-      "Асафьев Артур Валерьевич": 12,
-      "Кальметьев Марс Рахматуллович": 170,
-      "Морозов Алексей Егорович": 89,
-      "Нигматулин Роберт Искандрович": 44,
-      "Никитин Валентин Иванович": 194,
-      "Сафин Фаиль Габдуллович": 147,
-      "Токарчук Александр Сергеевич": 7,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000277355": 26,
+      "gas:candidate-vibid:302300266624": 367,
+      "gas:candidate-vibid:1001000112173": 12,
+      "gas:candidate-vibid:1001000225867": 170,
+      "gas:candidate-vibid:302300266644": 89,
+      "gas:candidate-vibid:302300266993": 44,
+      "gas:candidate-vibid:1001000121784": 194,
+      "gas:candidate-vibid:302300266722": 147,
+      "gas:candidate-vibid:1001000194994": 7,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 31,
-      "Асадуллин Флюр Минзагитович": 328,
-      "Асафьев Артур Валерьевич": 16,
-      "Кальметьев Марс Рахматуллович": 183,
-      "Морозов Алексей Егорович": 81,
-      "Нигматулин Роберт Искандрович": 48,
-      "Никитин Валентин Иванович": 216,
-      "Сафин Фаиль Габдуллович": 117,
-      "Токарчук Александр Сергеевич": 8,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000277355": 31,
+      "gas:candidate-vibid:302300266624": 328,
+      "gas:candidate-vibid:1001000112173": 16,
+      "gas:candidate-vibid:1001000225867": 183,
+      "gas:candidate-vibid:302300266644": 81,
+      "gas:candidate-vibid:302300266993": 48,
+      "gas:candidate-vibid:1001000121784": 216,
+      "gas:candidate-vibid:302300266722": 117,
+      "gas:candidate-vibid:1001000194994": 8,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 34,
-      "Асадуллин Флюр Минзагитович": 430,
-      "Асафьев Артур Валерьевич": 24,
-      "Кальметьев Марс Рахматуллович": 276,
-      "Морозов Алексей Егорович": 113,
-      "Нигматулин Роберт Искандрович": 102,
-      "Никитин Валентин Иванович": 203,
-      "Сафин Фаиль Габдуллович": 156,
-      "Токарчук Александр Сергеевич": 20,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000277355": 34,
+      "gas:candidate-vibid:302300266624": 430,
+      "gas:candidate-vibid:1001000112173": 24,
+      "gas:candidate-vibid:1001000225867": 276,
+      "gas:candidate-vibid:302300266644": 113,
+      "gas:candidate-vibid:302300266993": 102,
+      "gas:candidate-vibid:1001000121784": 203,
+      "gas:candidate-vibid:302300266722": 156,
+      "gas:candidate-vibid:1001000194994": 20,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 30,
-      "Асадуллин Флюр Минзагитович": 429,
-      "Асафьев Артур Валерьевич": 30,
-      "Кальметьев Марс Рахматуллович": 246,
-      "Морозов Алексей Егорович": 116,
-      "Нигматулин Роберт Искандрович": 83,
-      "Никитин Валентин Иванович": 269,
-      "Сафин Фаиль Габдуллович": 154,
-      "Токарчук Александр Сергеевич": 17,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000277355": 30,
+      "gas:candidate-vibid:302300266624": 429,
+      "gas:candidate-vibid:1001000112173": 30,
+      "gas:candidate-vibid:1001000225867": 246,
+      "gas:candidate-vibid:302300266644": 116,
+      "gas:candidate-vibid:302300266993": 83,
+      "gas:candidate-vibid:1001000121784": 269,
+      "gas:candidate-vibid:302300266722": 154,
+      "gas:candidate-vibid:1001000194994": 17,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 17,
-      "Асадуллин Флюр Минзагитович": 225,
-      "Асафьев Артур Валерьевич": 23,
-      "Кальметьев Марс Рахматуллович": 147,
-      "Морозов Алексей Егорович": 67,
-      "Нигматулин Роберт Искандрович": 40,
-      "Никитин Валентин Иванович": 210,
-      "Сафин Фаиль Габдуллович": 75,
-      "Токарчук Александр Сергеевич": 15,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000277355": 17,
+      "gas:candidate-vibid:302300266624": 225,
+      "gas:candidate-vibid:1001000112173": 23,
+      "gas:candidate-vibid:1001000225867": 147,
+      "gas:candidate-vibid:302300266644": 67,
+      "gas:candidate-vibid:302300266993": 40,
+      "gas:candidate-vibid:1001000121784": 210,
+      "gas:candidate-vibid:302300266722": 75,
+      "gas:candidate-vibid:1001000194994": 15,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 13,
-      "Асадуллин Флюр Минзагитович": 213,
-      "Асафьев Артур Валерьевич": 13,
-      "Кальметьев Марс Рахматуллович": 199,
-      "Морозов Алексей Егорович": 92,
-      "Нигматулин Роберт Искандрович": 44,
-      "Никитин Валентин Иванович": 179,
-      "Сафин Фаиль Габдуллович": 104,
-      "Токарчук Александр Сергеевич": 18,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000277355": 13,
+      "gas:candidate-vibid:302300266624": 213,
+      "gas:candidate-vibid:1001000112173": 13,
+      "gas:candidate-vibid:1001000225867": 199,
+      "gas:candidate-vibid:302300266644": 92,
+      "gas:candidate-vibid:302300266993": 44,
+      "gas:candidate-vibid:1001000121784": 179,
+      "gas:candidate-vibid:302300266722": 104,
+      "gas:candidate-vibid:1001000194994": 18,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 17,
-      "Асадуллин Флюр Минзагитович": 165,
-      "Асафьев Артур Валерьевич": 10,
-      "Кальметьев Марс Рахматуллович": 81,
-      "Морозов Алексей Егорович": 53,
-      "Нигматулин Роберт Искандрович": 31,
-      "Никитин Валентин Иванович": 120,
-      "Сафин Фаиль Габдуллович": 73,
-      "Токарчук Александр Сергеевич": 9,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000277355": 17,
+      "gas:candidate-vibid:302300266624": 165,
+      "gas:candidate-vibid:1001000112173": 10,
+      "gas:candidate-vibid:1001000225867": 81,
+      "gas:candidate-vibid:302300266644": 53,
+      "gas:candidate-vibid:302300266993": 31,
+      "gas:candidate-vibid:1001000121784": 120,
+      "gas:candidate-vibid:302300266722": 73,
+      "gas:candidate-vibid:1001000194994": 9,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 32,
-      "Асадуллин Флюр Минзагитович": 157,
-      "Асафьев Артур Валерьевич": 18,
-      "Кальметьев Марс Рахматуллович": 198,
-      "Морозов Алексей Егорович": 67,
-      "Нигматулин Роберт Искандрович": 28,
-      "Никитин Валентин Иванович": 106,
-      "Сафин Фаиль Габдуллович": 97,
-      "Токарчук Александр Сергеевич": 20,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000277355": 32,
+      "gas:candidate-vibid:302300266624": 157,
+      "gas:candidate-vibid:1001000112173": 18,
+      "gas:candidate-vibid:1001000225867": 198,
+      "gas:candidate-vibid:302300266644": 67,
+      "gas:candidate-vibid:302300266993": 28,
+      "gas:candidate-vibid:1001000121784": 106,
+      "gas:candidate-vibid:302300266722": 97,
+      "gas:candidate-vibid:1001000194994": 20,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 42,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 89,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 21,
-      "Сафин Фаиль Габдуллович": 24,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 42,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 89,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 21,
+      "gas:candidate-vibid:302300266722": 24,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 5,
-      "Асадуллин Флюр Минзагитович": 18,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 142,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 2,
-      "Никитин Валентин Иванович": 17,
-      "Сафин Фаиль Габдуллович": 8,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 5,
+      "gas:candidate-vibid:302300266624": 18,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 142,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 2,
+      "gas:candidate-vibid:1001000121784": 17,
+      "gas:candidate-vibid:302300266722": 8,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 41,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 230,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 6,
-      "Сафин Фаиль Габдуллович": 25,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 41,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 230,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 6,
+      "gas:candidate-vibid:302300266722": 25,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 10,
-      "Асадуллин Флюр Минзагитович": 22,
-      "Асафьев Артур Валерьевич": 7,
-      "Кальметьев Марс Рахматуллович": 69,
-      "Морозов Алексей Егорович": 25,
-      "Нигматулин Роберт Искандрович": 9,
-      "Никитин Валентин Иванович": 73,
-      "Сафин Фаиль Габдуллович": 51,
-      "Токарчук Александр Сергеевич": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000277355": 10,
+      "gas:candidate-vibid:302300266624": 22,
+      "gas:candidate-vibid:1001000112173": 7,
+      "gas:candidate-vibid:1001000225867": 69,
+      "gas:candidate-vibid:302300266644": 25,
+      "gas:candidate-vibid:302300266993": 9,
+      "gas:candidate-vibid:1001000121784": 73,
+      "gas:candidate-vibid:302300266722": 51,
+      "gas:candidate-vibid:1001000194994": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 5,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 34,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 6,
-      "Никитин Валентин Иванович": 28,
-      "Сафин Фаиль Габдуллович": 178,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 5,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 34,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 6,
+      "gas:candidate-vibid:1001000121784": 28,
+      "gas:candidate-vibid:302300266722": 178,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 94,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 13,
-      "Никитин Валентин Иванович": 26,
-      "Сафин Фаиль Габдуллович": 84,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 94,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 13,
+      "gas:candidate-vibid:1001000121784": 26,
+      "gas:candidate-vibid:302300266722": 84,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 6,
-      "Кальметьев Марс Рахматуллович": 109,
-      "Морозов Алексей Егорович": 43,
-      "Нигматулин Роберт Искандрович": 13,
-      "Никитин Валентин Иванович": 89,
-      "Сафин Фаиль Габдуллович": 52,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 6,
+      "gas:candidate-vibid:1001000225867": 109,
+      "gas:candidate-vibid:302300266644": 43,
+      "gas:candidate-vibid:302300266993": 13,
+      "gas:candidate-vibid:1001000121784": 89,
+      "gas:candidate-vibid:302300266722": 52,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 36,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 84,
-      "Морозов Алексей Егорович": 3,
-      "Нигматулин Роберт Искандрович": 14,
-      "Никитин Валентин Иванович": 22,
-      "Сафин Фаиль Габдуллович": 86,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 36,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 84,
+      "gas:candidate-vibid:302300266644": 3,
+      "gas:candidate-vibid:302300266993": 14,
+      "gas:candidate-vibid:1001000121784": 22,
+      "gas:candidate-vibid:302300266722": 86,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 21,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 177,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 10,
-      "Никитин Валентин Иванович": 8,
-      "Сафин Фаиль Габдуллович": 21,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 21,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 177,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 10,
+      "gas:candidate-vibid:1001000121784": 8,
+      "gas:candidate-vibid:302300266722": 21,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 23,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 145,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 13,
-      "Никитин Валентин Иванович": 13,
-      "Сафин Фаиль Габдуллович": 71,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 23,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 145,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 13,
+      "gas:candidate-vibid:1001000121784": 13,
+      "gas:candidate-vibid:302300266722": 71,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 21,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 479,
-      "Морозов Алексей Егорович": 12,
-      "Нигматулин Роберт Искандрович": 11,
-      "Никитин Валентин Иванович": 88,
-      "Сафин Фаиль Габдуллович": 53,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 21,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 479,
+      "gas:candidate-vibid:302300266644": 12,
+      "gas:candidate-vibid:302300266993": 11,
+      "gas:candidate-vibid:1001000121784": 88,
+      "gas:candidate-vibid:302300266722": 53,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 6,
-      "Асадуллин Флюр Минзагитович": 4,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 146,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 1,
-      "Сафин Фаиль Габдуллович": 12,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 6,
+      "gas:candidate-vibid:302300266624": 4,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 146,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 1,
+      "gas:candidate-vibid:302300266722": 12,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 8,
-      "Асадуллин Флюр Минзагитович": 121,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 220,
-      "Морозов Алексей Егорович": 8,
-      "Нигматулин Роберт Искандрович": 17,
-      "Никитин Валентин Иванович": 12,
-      "Сафин Фаиль Габдуллович": 21,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 8,
+      "gas:candidate-vibid:302300266624": 121,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 220,
+      "gas:candidate-vibid:302300266644": 8,
+      "gas:candidate-vibid:302300266993": 17,
+      "gas:candidate-vibid:1001000121784": 12,
+      "gas:candidate-vibid:302300266722": 21,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 37,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 97,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 7,
-      "Сафин Фаиль Габдуллович": 7,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 37,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 97,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 7,
+      "gas:candidate-vibid:302300266722": 7,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 25,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 93,
-      "Морозов Алексей Егорович": 4,
-      "Нигматулин Роберт Искандрович": 20,
-      "Никитин Валентин Иванович": 14,
-      "Сафин Фаиль Габдуллович": 154,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 25,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 93,
+      "gas:candidate-vibid:302300266644": 4,
+      "gas:candidate-vibid:302300266993": 20,
+      "gas:candidate-vibid:1001000121784": 14,
+      "gas:candidate-vibid:302300266722": 154,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 16,
-      "Асадуллин Флюр Минзагитович": 26,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 154,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 19,
-      "Никитин Валентин Иванович": 26,
-      "Сафин Фаиль Габдуллович": 20,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000277355": 16,
+      "gas:candidate-vibid:302300266624": 26,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 154,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 19,
+      "gas:candidate-vibid:1001000121784": 26,
+      "gas:candidate-vibid:302300266722": 20,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 13,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 165,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 7,
-      "Никитин Валентин Иванович": 2,
-      "Сафин Фаиль Габдуллович": 4,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 13,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 165,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 7,
+      "gas:candidate-vibid:1001000121784": 2,
+      "gas:candidate-vibid:302300266722": 4,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 41,
-      "Асафьев Артур Валерьевич": 0,
-      "Кальметьев Марс Рахматуллович": 67,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 20,
-      "Сафин Фаиль Габдуллович": 6,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 41,
+      "gas:candidate-vibid:1001000112173": 0,
+      "gas:candidate-vibid:1001000225867": 67,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 20,
+      "gas:candidate-vibid:302300266722": 6,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 115,
-      "Морозов Алексей Егорович": 0,
-      "Нигматулин Роберт Искандрович": 6,
-      "Никитин Валентин Иванович": 1,
-      "Сафин Фаиль Габдуллович": 6,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 115,
+      "gas:candidate-vibid:302300266644": 0,
+      "gas:candidate-vibid:302300266993": 6,
+      "gas:candidate-vibid:1001000121784": 1,
+      "gas:candidate-vibid:302300266722": 6,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 12,
-      "Асадуллин Флюр Минзагитович": 90,
-      "Асафьев Артур Валерьевич": 11,
-      "Кальметьев Марс Рахматуллович": 270,
-      "Морозов Алексей Егорович": 17,
-      "Нигматулин Роберт Искандрович": 47,
-      "Никитин Валентин Иванович": 138,
-      "Сафин Фаиль Габдуллович": 64,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000277355": 12,
+      "gas:candidate-vibid:302300266624": 90,
+      "gas:candidate-vibid:1001000112173": 11,
+      "gas:candidate-vibid:1001000225867": 270,
+      "gas:candidate-vibid:302300266644": 17,
+      "gas:candidate-vibid:302300266993": 47,
+      "gas:candidate-vibid:1001000121784": 138,
+      "gas:candidate-vibid:302300266722": 64,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 26,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 329,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 11,
-      "Никитин Валентин Иванович": 14,
-      "Сафин Фаиль Габдуллович": 14,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 26,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 329,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 11,
+      "gas:candidate-vibid:1001000121784": 14,
+      "gas:candidate-vibid:302300266722": 14,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 17,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 79,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 15,
-      "Сафин Фаиль Габдуллович": 5,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 17,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 79,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 15,
+      "gas:candidate-vibid:302300266722": 5,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 7,
-      "Асафьев Артур Валерьевич": 9,
-      "Кальметьев Марс Рахматуллович": 96,
-      "Морозов Алексей Егорович": 33,
-      "Нигматулин Роберт Искандрович": 7,
-      "Никитин Валентин Иванович": 80,
-      "Сафин Фаиль Габдуллович": 54,
-      "Токарчук Александр Сергеевич": 11,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 7,
+      "gas:candidate-vibid:1001000112173": 9,
+      "gas:candidate-vibid:1001000225867": 96,
+      "gas:candidate-vibid:302300266644": 33,
+      "gas:candidate-vibid:302300266993": 7,
+      "gas:candidate-vibid:1001000121784": 80,
+      "gas:candidate-vibid:302300266722": 54,
+      "gas:candidate-vibid:1001000194994": 11,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 1,
-      "Асадуллин Флюр Минзагитович": 51,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 189,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 11,
-      "Никитин Валентин Иванович": 17,
-      "Сафин Фаиль Габдуллович": 45,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000277355": 1,
+      "gas:candidate-vibid:302300266624": 51,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 189,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 11,
+      "gas:candidate-vibid:1001000121784": 17,
+      "gas:candidate-vibid:302300266722": 45,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 27,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 100,
-      "Морозов Алексей Егорович": 9,
-      "Нигматулин Роберт Искандрович": 9,
-      "Никитин Валентин Иванович": 54,
-      "Сафин Фаиль Габдуллович": 19,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 27,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 100,
+      "gas:candidate-vibid:302300266644": 9,
+      "gas:candidate-vibid:302300266993": 9,
+      "gas:candidate-vibid:1001000121784": 54,
+      "gas:candidate-vibid:302300266722": 19,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 2,
-      "Асадуллин Флюр Минзагитович": 13,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 52,
-      "Морозов Алексей Егорович": 10,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 5,
-      "Сафин Фаиль Габдуллович": 24,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000277355": 2,
+      "gas:candidate-vibid:302300266624": 13,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 52,
+      "gas:candidate-vibid:302300266644": 10,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 5,
+      "gas:candidate-vibid:302300266722": 24,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 7,
-      "Асадуллин Флюр Минзагитович": 19,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 55,
-      "Морозов Алексей Егорович": 14,
-      "Нигматулин Роберт Искандрович": 8,
-      "Никитин Валентин Иванович": 64,
-      "Сафин Фаиль Габдуллович": 26,
-      "Токарчук Александр Сергеевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000277355": 7,
+      "gas:candidate-vibid:302300266624": 19,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 55,
+      "gas:candidate-vibid:302300266644": 14,
+      "gas:candidate-vibid:302300266993": 8,
+      "gas:candidate-vibid:1001000121784": 64,
+      "gas:candidate-vibid:302300266722": 26,
+      "gas:candidate-vibid:1001000194994": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 47,
-      "Асафьев Артур Валерьевич": 3,
-      "Кальметьев Марс Рахматуллович": 16,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 0,
-      "Никитин Валентин Иванович": 51,
-      "Сафин Фаиль Габдуллович": 21,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 47,
+      "gas:candidate-vibid:1001000112173": 3,
+      "gas:candidate-vibid:1001000225867": 16,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 0,
+      "gas:candidate-vibid:1001000121784": 51,
+      "gas:candidate-vibid:302300266722": 21,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 12,
-      "Асадуллин Флюр Минзагитович": 125,
-      "Асафьев Артур Валерьевич": 9,
-      "Кальметьев Марс Рахматуллович": 126,
-      "Морозов Алексей Егорович": 27,
-      "Нигматулин Роберт Искандрович": 27,
-      "Никитин Валентин Иванович": 49,
-      "Сафин Фаиль Габдуллович": 61,
-      "Токарчук Александр Сергеевич": 16,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000277355": 12,
+      "gas:candidate-vibid:302300266624": 125,
+      "gas:candidate-vibid:1001000112173": 9,
+      "gas:candidate-vibid:1001000225867": 126,
+      "gas:candidate-vibid:302300266644": 27,
+      "gas:candidate-vibid:302300266993": 27,
+      "gas:candidate-vibid:1001000121784": 49,
+      "gas:candidate-vibid:302300266722": 61,
+      "gas:candidate-vibid:1001000194994": 16,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 11,
-      "Асадуллин Флюр Минзагитович": 44,
-      "Асафьев Артур Валерьевич": 4,
-      "Кальметьев Марс Рахматуллович": 181,
-      "Морозов Алексей Егорович": 7,
-      "Нигматулин Роберт Искандрович": 23,
-      "Никитин Валентин Иванович": 19,
-      "Сафин Фаиль Габдуллович": 55,
-      "Токарчук Александр Сергеевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000277355": 11,
+      "gas:candidate-vibid:302300266624": 44,
+      "gas:candidate-vibid:1001000112173": 4,
+      "gas:candidate-vibid:1001000225867": 181,
+      "gas:candidate-vibid:302300266644": 7,
+      "gas:candidate-vibid:302300266993": 23,
+      "gas:candidate-vibid:1001000121784": 19,
+      "gas:candidate-vibid:302300266722": 55,
+      "gas:candidate-vibid:1001000194994": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 8,
-      "Асадуллин Флюр Минзагитович": 21,
-      "Асафьев Артур Валерьевич": 1,
-      "Кальметьев Марс Рахматуллович": 216,
-      "Морозов Алексей Егорович": 1,
-      "Нигматулин Роберт Искандрович": 25,
-      "Никитин Валентин Иванович": 11,
-      "Сафин Фаиль Габдуллович": 72,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000277355": 8,
+      "gas:candidate-vibid:302300266624": 21,
+      "gas:candidate-vibid:1001000112173": 1,
+      "gas:candidate-vibid:1001000225867": 216,
+      "gas:candidate-vibid:302300266644": 1,
+      "gas:candidate-vibid:302300266993": 25,
+      "gas:candidate-vibid:1001000121784": 11,
+      "gas:candidate-vibid:302300266722": 72,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 3,
-      "Асадуллин Флюр Минзагитович": 2,
-      "Асафьев Артур Валерьевич": 2,
-      "Кальметьев Марс Рахматуллович": 124,
-      "Морозов Алексей Егорович": 5,
-      "Нигматулин Роберт Искандрович": 3,
-      "Никитин Валентин Иванович": 119,
-      "Сафин Фаиль Габдуллович": 18,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000277355": 3,
+      "gas:candidate-vibid:302300266624": 2,
+      "gas:candidate-vibid:1001000112173": 2,
+      "gas:candidate-vibid:1001000225867": 124,
+      "gas:candidate-vibid:302300266644": 5,
+      "gas:candidate-vibid:302300266993": 3,
+      "gas:candidate-vibid:1001000121784": 119,
+      "gas:candidate-vibid:302300266722": 18,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 6,
-      "Асафьев Артур Валерьевич": 5,
-      "Кальметьев Марс Рахматуллович": 42,
-      "Морозов Алексей Егорович": 2,
-      "Нигматулин Роберт Искандрович": 5,
-      "Никитин Валентин Иванович": 15,
-      "Сафин Фаиль Габдуллович": 12,
-      "Токарчук Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 6,
+      "gas:candidate-vibid:1001000112173": 5,
+      "gas:candidate-vibid:1001000225867": 42,
+      "gas:candidate-vibid:302300266644": 2,
+      "gas:candidate-vibid:302300266993": 5,
+      "gas:candidate-vibid:1001000121784": 15,
+      "gas:candidate-vibid:302300266722": 12,
+      "gas:candidate-vibid:1001000194994": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 4,
-      "Асадуллин Флюр Минзагитович": 13,
-      "Асафьев Артур Валерьевич": 9,
-      "Кальметьев Марс Рахматуллович": 112,
-      "Морозов Алексей Егорович": 24,
-      "Нигматулин Роберт Искандрович": 4,
-      "Никитин Валентин Иванович": 44,
-      "Сафин Фаиль Габдуллович": 51,
-      "Токарчук Александр Сергеевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000277355": 4,
+      "gas:candidate-vibid:302300266624": 13,
+      "gas:candidate-vibid:1001000112173": 9,
+      "gas:candidate-vibid:1001000225867": 112,
+      "gas:candidate-vibid:302300266644": 24,
+      "gas:candidate-vibid:302300266993": 4,
+      "gas:candidate-vibid:1001000121784": 44,
+      "gas:candidate-vibid:302300266722": 51,
+      "gas:candidate-vibid:1001000194994": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066838&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 35,
-      "Асадуллин Флюр Минзагитович": 71,
-      "Асафьев Артур Валерьевич": 23,
-      "Кальметьев Марс Рахматуллович": 259,
-      "Морозов Алексей Егорович": 124,
-      "Нигматулин Роберт Искандрович": 51,
-      "Никитин Валентин Иванович": 191,
-      "Сафин Фаиль Габдуллович": 197,
-      "Токарчук Александр Сергеевич": 23,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000277355": 35,
+      "gas:candidate-vibid:302300266624": 71,
+      "gas:candidate-vibid:1001000112173": 23,
+      "gas:candidate-vibid:1001000225867": 259,
+      "gas:candidate-vibid:302300266644": 124,
+      "gas:candidate-vibid:302300266993": 51,
+      "gas:candidate-vibid:1001000121784": 191,
+      "gas:candidate-vibid:302300266722": 197,
+      "gas:candidate-vibid:1001000194994": 23,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 49,
-      "Асадуллин Флюр Минзагитович": 71,
-      "Асафьев Артур Валерьевич": 28,
-      "Кальметьев Марс Рахматуллович": 133,
-      "Морозов Алексей Егорович": 106,
-      "Нигматулин Роберт Искандрович": 50,
-      "Никитин Валентин Иванович": 158,
-      "Сафин Фаиль Габдуллович": 253,
-      "Токарчук Александр Сергеевич": 25,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000277355": 49,
+      "gas:candidate-vibid:302300266624": 71,
+      "gas:candidate-vibid:1001000112173": 28,
+      "gas:candidate-vibid:1001000225867": 133,
+      "gas:candidate-vibid:302300266644": 106,
+      "gas:candidate-vibid:302300266993": 50,
+      "gas:candidate-vibid:1001000121784": 158,
+      "gas:candidate-vibid:302300266722": 253,
+      "gas:candidate-vibid:1001000194994": 25,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 37,
-      "Асадуллин Флюр Минзагитович": 48,
-      "Асафьев Артур Валерьевич": 32,
-      "Кальметьев Марс Рахматуллович": 348,
-      "Морозов Алексей Егорович": 138,
-      "Нигматулин Роберт Искандрович": 49,
-      "Никитин Валентин Иванович": 124,
-      "Сафин Фаиль Габдуллович": 263,
-      "Токарчук Александр Сергеевич": 25,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000277355": 37,
+      "gas:candidate-vibid:302300266624": 48,
+      "gas:candidate-vibid:1001000112173": 32,
+      "gas:candidate-vibid:1001000225867": 348,
+      "gas:candidate-vibid:302300266644": 138,
+      "gas:candidate-vibid:302300266993": 49,
+      "gas:candidate-vibid:1001000121784": 124,
+      "gas:candidate-vibid:302300266722": 263,
+      "gas:candidate-vibid:1001000194994": 25,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 52,
-      "Асадуллин Флюр Минзагитович": 67,
-      "Асафьев Артур Валерьевич": 31,
-      "Кальметьев Марс Рахматуллович": 135,
-      "Морозов Алексей Егорович": 234,
-      "Нигматулин Роберт Искандрович": 62,
-      "Никитин Валентин Иванович": 209,
-      "Сафин Фаиль Габдуллович": 286,
-      "Токарчук Александр Сергеевич": 34,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000277355": 52,
+      "gas:candidate-vibid:302300266624": 67,
+      "gas:candidate-vibid:1001000112173": 31,
+      "gas:candidate-vibid:1001000225867": 135,
+      "gas:candidate-vibid:302300266644": 234,
+      "gas:candidate-vibid:302300266993": 62,
+      "gas:candidate-vibid:1001000121784": 209,
+      "gas:candidate-vibid:302300266722": 286,
+      "gas:candidate-vibid:1001000194994": 34,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 61,
-      "Асадуллин Флюр Минзагитович": 73,
-      "Асафьев Артур Валерьевич": 41,
-      "Кальметьев Марс Рахматуллович": 494,
-      "Морозов Алексей Егорович": 266,
-      "Нигматулин Роберт Искандрович": 49,
-      "Никитин Валентин Иванович": 219,
-      "Сафин Фаиль Габдуллович": 261,
-      "Токарчук Александр Сергеевич": 29,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000277355": 61,
+      "gas:candidate-vibid:302300266624": 73,
+      "gas:candidate-vibid:1001000112173": 41,
+      "gas:candidate-vibid:1001000225867": 494,
+      "gas:candidate-vibid:302300266644": 266,
+      "gas:candidate-vibid:302300266993": 49,
+      "gas:candidate-vibid:1001000121784": 219,
+      "gas:candidate-vibid:302300266722": 261,
+      "gas:candidate-vibid:1001000194994": 29,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 43,
-      "Асадуллин Флюр Минзагитович": 55,
-      "Асафьев Артур Валерьевич": 25,
-      "Кальметьев Марс Рахматуллович": 181,
-      "Морозов Алексей Егорович": 215,
-      "Нигматулин Роберт Искандрович": 52,
-      "Никитин Валентин Иванович": 222,
-      "Сафин Фаиль Габдуллович": 207,
-      "Токарчук Александр Сергеевич": 22,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000277355": 43,
+      "gas:candidate-vibid:302300266624": 55,
+      "gas:candidate-vibid:1001000112173": 25,
+      "gas:candidate-vibid:1001000225867": 181,
+      "gas:candidate-vibid:302300266644": 215,
+      "gas:candidate-vibid:302300266993": 52,
+      "gas:candidate-vibid:1001000121784": 222,
+      "gas:candidate-vibid:302300266722": 207,
+      "gas:candidate-vibid:1001000194994": 22,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 31,
-      "Асадуллин Флюр Минзагитович": 163,
-      "Асафьев Артур Валерьевич": 23,
-      "Кальметьев Марс Рахматуллович": 231,
-      "Морозов Алексей Егорович": 227,
-      "Нигматулин Роберт Искандрович": 60,
-      "Никитин Валентин Иванович": 211,
-      "Сафин Фаиль Габдуллович": 157,
-      "Токарчук Александр Сергеевич": 2,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000277355": 31,
+      "gas:candidate-vibid:302300266624": 163,
+      "gas:candidate-vibid:1001000112173": 23,
+      "gas:candidate-vibid:1001000225867": 231,
+      "gas:candidate-vibid:302300266644": 227,
+      "gas:candidate-vibid:302300266993": 60,
+      "gas:candidate-vibid:1001000121784": 211,
+      "gas:candidate-vibid:302300266722": 157,
+      "gas:candidate-vibid:1001000194994": 2,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 60,
-      "Асадуллин Флюр Минзагитович": 113,
-      "Асафьев Артур Валерьевич": 29,
-      "Кальметьев Марс Рахматуллович": 152,
-      "Морозов Алексей Егорович": 219,
-      "Нигматулин Роберт Искандрович": 54,
-      "Никитин Валентин Иванович": 173,
-      "Сафин Фаиль Габдуллович": 211,
-      "Токарчук Александр Сергеевич": 29,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000277355": 60,
+      "gas:candidate-vibid:302300266624": 113,
+      "gas:candidate-vibid:1001000112173": 29,
+      "gas:candidate-vibid:1001000225867": 152,
+      "gas:candidate-vibid:302300266644": 219,
+      "gas:candidate-vibid:302300266993": 54,
+      "gas:candidate-vibid:1001000121784": 173,
+      "gas:candidate-vibid:302300266722": 211,
+      "gas:candidate-vibid:1001000194994": 29,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 46,
-      "Асадуллин Флюр Минзагитович": 61,
-      "Асафьев Артур Валерьевич": 34,
-      "Кальметьев Марс Рахматуллович": 114,
-      "Морозов Алексей Егорович": 176,
-      "Нигматулин Роберт Искандрович": 40,
-      "Никитин Валентин Иванович": 316,
-      "Сафин Фаиль Габдуллович": 178,
-      "Токарчук Александр Сергеевич": 31,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000277355": 46,
+      "gas:candidate-vibid:302300266624": 61,
+      "gas:candidate-vibid:1001000112173": 34,
+      "gas:candidate-vibid:1001000225867": 114,
+      "gas:candidate-vibid:302300266644": 176,
+      "gas:candidate-vibid:302300266993": 40,
+      "gas:candidate-vibid:1001000121784": 316,
+      "gas:candidate-vibid:302300266722": 178,
+      "gas:candidate-vibid:1001000194994": 31,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 21,
-      "Асадуллин Флюр Минзагитович": 24,
-      "Асафьев Артур Валерьевич": 102,
-      "Кальметьев Марс Рахматуллович": 29,
-      "Морозов Алексей Егорович": 140,
-      "Нигматулин Роберт Искандрович": 97,
-      "Никитин Валентин Иванович": 11,
-      "Сафин Фаиль Габдуллович": 114,
-      "Токарчук Александр Сергеевич": 26,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000277355": 21,
+      "gas:candidate-vibid:302300266624": 24,
+      "gas:candidate-vibid:1001000112173": 102,
+      "gas:candidate-vibid:1001000225867": 29,
+      "gas:candidate-vibid:302300266644": 140,
+      "gas:candidate-vibid:302300266993": 97,
+      "gas:candidate-vibid:1001000121784": 11,
+      "gas:candidate-vibid:302300266722": 114,
+      "gas:candidate-vibid:1001000194994": 26,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 41,
-      "Асадуллин Флюр Минзагитович": 99,
-      "Асафьев Артур Валерьевич": 31,
-      "Кальметьев Марс Рахматуллович": 141,
-      "Морозов Алексей Егорович": 114,
-      "Нигматулин Роберт Искандрович": 39,
-      "Никитин Валентин Иванович": 186,
-      "Сафин Фаиль Габдуллович": 209,
-      "Токарчук Александр Сергеевич": 25,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000277355": 41,
+      "gas:candidate-vibid:302300266624": 99,
+      "gas:candidate-vibid:1001000112173": 31,
+      "gas:candidate-vibid:1001000225867": 141,
+      "gas:candidate-vibid:302300266644": 114,
+      "gas:candidate-vibid:302300266993": 39,
+      "gas:candidate-vibid:1001000121784": 186,
+      "gas:candidate-vibid:302300266722": 209,
+      "gas:candidate-vibid:1001000194994": 25,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 72,
-      "Асадуллин Флюр Минзагитович": 115,
-      "Асафьев Артур Валерьевич": 35,
-      "Кальметьев Марс Рахматуллович": 213,
-      "Морозов Алексей Егорович": 220,
-      "Нигматулин Роберт Искандрович": 63,
-      "Никитин Валентин Иванович": 159,
-      "Сафин Фаиль Габдуллович": 189,
-      "Токарчук Александр Сергеевич": 24,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000277355": 72,
+      "gas:candidate-vibid:302300266624": 115,
+      "gas:candidate-vibid:1001000112173": 35,
+      "gas:candidate-vibid:1001000225867": 213,
+      "gas:candidate-vibid:302300266644": 220,
+      "gas:candidate-vibid:302300266993": 63,
+      "gas:candidate-vibid:1001000121784": 159,
+      "gas:candidate-vibid:302300266722": 189,
+      "gas:candidate-vibid:1001000194994": 24,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 92,
-      "Асадуллин Флюр Минзагитович": 163,
-      "Асафьев Артур Валерьевич": 47,
-      "Кальметьев Марс Рахматуллович": 167,
-      "Морозов Алексей Егорович": 247,
-      "Нигматулин Роберт Искандрович": 49,
-      "Никитин Валентин Иванович": 286,
-      "Сафин Фаиль Габдуллович": 237,
-      "Токарчук Александр Сергеевич": 27,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000277355": 92,
+      "gas:candidate-vibid:302300266624": 163,
+      "gas:candidate-vibid:1001000112173": 47,
+      "gas:candidate-vibid:1001000225867": 167,
+      "gas:candidate-vibid:302300266644": 247,
+      "gas:candidate-vibid:302300266993": 49,
+      "gas:candidate-vibid:1001000121784": 286,
+      "gas:candidate-vibid:302300266722": 237,
+      "gas:candidate-vibid:1001000194994": 27,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 50,
-      "Асадуллин Флюр Минзагитович": 132,
-      "Асафьев Артур Валерьевич": 43,
-      "Кальметьев Марс Рахматуллович": 208,
-      "Морозов Алексей Егорович": 150,
-      "Нигматулин Роберт Искандрович": 102,
-      "Никитин Валентин Иванович": 235,
-      "Сафин Фаиль Габдуллович": 178,
-      "Токарчук Александр Сергеевич": 16,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000277355": 50,
+      "gas:candidate-vibid:302300266624": 132,
+      "gas:candidate-vibid:1001000112173": 43,
+      "gas:candidate-vibid:1001000225867": 208,
+      "gas:candidate-vibid:302300266644": 150,
+      "gas:candidate-vibid:302300266993": 102,
+      "gas:candidate-vibid:1001000121784": 235,
+      "gas:candidate-vibid:302300266722": 178,
+      "gas:candidate-vibid:1001000194994": 16,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 59,
-      "Асадуллин Флюр Минзагитович": 107,
-      "Асафьев Артур Валерьевич": 37,
-      "Кальметьев Марс Рахматуллович": 140,
-      "Морозов Алексей Егорович": 211,
-      "Нигматулин Роберт Искандрович": 57,
-      "Никитин Валентин Иванович": 292,
-      "Сафин Фаиль Габдуллович": 161,
-      "Токарчук Александр Сергеевич": 22,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000277355": 59,
+      "gas:candidate-vibid:302300266624": 107,
+      "gas:candidate-vibid:1001000112173": 37,
+      "gas:candidate-vibid:1001000225867": 140,
+      "gas:candidate-vibid:302300266644": 211,
+      "gas:candidate-vibid:302300266993": 57,
+      "gas:candidate-vibid:1001000121784": 292,
+      "gas:candidate-vibid:302300266722": 161,
+      "gas:candidate-vibid:1001000194994": 22,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 51,
-      "Асадуллин Флюр Минзагитович": 121,
-      "Асафьев Артур Валерьевич": 44,
-      "Кальметьев Марс Рахматуллович": 283,
-      "Морозов Алексей Егорович": 241,
-      "Нигматулин Роберт Искандрович": 56,
-      "Никитин Валентин Иванович": 280,
-      "Сафин Фаиль Габдуллович": 228,
-      "Токарчук Александр Сергеевич": 25,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000277355": 51,
+      "gas:candidate-vibid:302300266624": 121,
+      "gas:candidate-vibid:1001000112173": 44,
+      "gas:candidate-vibid:1001000225867": 283,
+      "gas:candidate-vibid:302300266644": 241,
+      "gas:candidate-vibid:302300266993": 56,
+      "gas:candidate-vibid:1001000121784": 280,
+      "gas:candidate-vibid:302300266722": 228,
+      "gas:candidate-vibid:1001000194994": 25,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 42,
-      "Асадуллин Флюр Минзагитович": 94,
-      "Асафьев Артур Валерьевич": 41,
-      "Кальметьев Марс Рахматуллович": 177,
-      "Морозов Алексей Егорович": 212,
-      "Нигматулин Роберт Искандрович": 59,
-      "Никитин Валентин Иванович": 343,
-      "Сафин Фаиль Габдуллович": 207,
-      "Токарчук Александр Сергеевич": 29,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000277355": 42,
+      "gas:candidate-vibid:302300266624": 94,
+      "gas:candidate-vibid:1001000112173": 41,
+      "gas:candidate-vibid:1001000225867": 177,
+      "gas:candidate-vibid:302300266644": 212,
+      "gas:candidate-vibid:302300266993": 59,
+      "gas:candidate-vibid:1001000121784": 343,
+      "gas:candidate-vibid:302300266722": 207,
+      "gas:candidate-vibid:1001000194994": 29,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 55,
-      "Асадуллин Флюр Минзагитович": 176,
-      "Асафьев Артур Валерьевич": 29,
-      "Кальметьев Марс Рахматуллович": 156,
-      "Морозов Алексей Егорович": 269,
-      "Нигматулин Роберт Искандрович": 59,
-      "Никитин Валентин Иванович": 328,
-      "Сафин Фаиль Габдуллович": 285,
-      "Токарчук Александр Сергеевич": 22,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000277355": 55,
+      "gas:candidate-vibid:302300266624": 176,
+      "gas:candidate-vibid:1001000112173": 29,
+      "gas:candidate-vibid:1001000225867": 156,
+      "gas:candidate-vibid:302300266644": 269,
+      "gas:candidate-vibid:302300266993": 59,
+      "gas:candidate-vibid:1001000121784": 328,
+      "gas:candidate-vibid:302300266722": 285,
+      "gas:candidate-vibid:1001000194994": 22,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 43,
-      "Асадуллин Флюр Минзагитович": 90,
-      "Асафьев Артур Валерьевич": 37,
-      "Кальметьев Марс Рахматуллович": 185,
-      "Морозов Алексей Егорович": 177,
-      "Нигматулин Роберт Искандрович": 67,
-      "Никитин Валентин Иванович": 193,
-      "Сафин Фаиль Габдуллович": 183,
-      "Токарчук Александр Сергеевич": 30,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000277355": 43,
+      "gas:candidate-vibid:302300266624": 90,
+      "gas:candidate-vibid:1001000112173": 37,
+      "gas:candidate-vibid:1001000225867": 185,
+      "gas:candidate-vibid:302300266644": 177,
+      "gas:candidate-vibid:302300266993": 67,
+      "gas:candidate-vibid:1001000121784": 193,
+      "gas:candidate-vibid:302300266722": 183,
+      "gas:candidate-vibid:1001000194994": 30,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_3_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аминева Рафика Ибрагимовна": 44,
-      "Асадуллин Флюр Минзагитович": 100,
-      "Асафьев Артур Валерьевич": 30,
-      "Кальметьев Марс Рахматуллович": 140,
-      "Морозов Алексей Егорович": 160,
-      "Нигматулин Роберт Искандрович": 62,
-      "Никитин Валентин Иванович": 263,
-      "Сафин Фаиль Габдуллович": 219,
-      "Токарчук Александр Сергеевич": 32,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000277355": 44,
+      "gas:candidate-vibid:302300266624": 100,
+      "gas:candidate-vibid:1001000112173": 30,
+      "gas:candidate-vibid:1001000225867": 140,
+      "gas:candidate-vibid:302300266644": 160,
+      "gas:candidate-vibid:302300266993": 62,
+      "gas:candidate-vibid:1001000121784": 263,
+      "gas:candidate-vibid:302300266722": 219,
+      "gas:candidate-vibid:1001000194994": 32,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=22000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=202200066839&region=0&sub_region=0&type=429",

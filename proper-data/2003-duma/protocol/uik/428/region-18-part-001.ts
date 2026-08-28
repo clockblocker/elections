@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 37,
-      "Арефьев Анатолий Витальевич": 11,
-      "Богомольный Евгений Исаакович": 192,
-      "Евдокимов Виктор Николаевич": 10,
-      "Забильский Владимир Викторович": 7,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 13,
-      "Шумков Дмитрий Владимирович": 15,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121803": 37,
+      "gas:candidate-vibid:1001000190296": 11,
+      "gas:candidate-vibid:1001000225908": 192,
+      "gas:candidate-vibid:1001000136006": 10,
+      "gas:candidate-vibid:318300166875": 7,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 13,
+      "gas:candidate-vibid:1001000113904": 15,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 35,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 185,
-      "Евдокимов Виктор Николаевич": 11,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 6,
-      "Шумков Дмитрий Владимирович": 16,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121803": 35,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 185,
+      "gas:candidate-vibid:1001000136006": 11,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 6,
+      "gas:candidate-vibid:1001000113904": 16,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 91,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 222,
-      "Евдокимов Виктор Николаевич": 14,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 95,
-      "Шумков Дмитрий Владимирович": 21,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121803": 91,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 222,
+      "gas:candidate-vibid:1001000136006": 14,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 95,
+      "gas:candidate-vibid:1001000113904": 21,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 25,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 207,
-      "Евдокимов Виктор Николаевич": 8,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121803": 25,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 207,
+      "gas:candidate-vibid:1001000136006": 8,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 58,
-      "Арефьев Анатолий Витальевич": 7,
-      "Богомольный Евгений Исаакович": 172,
-      "Евдокимов Виктор Николаевич": 6,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 6,
-      "Шумков Дмитрий Владимирович": 13,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121803": 58,
+      "gas:candidate-vibid:1001000190296": 7,
+      "gas:candidate-vibid:1001000225908": 172,
+      "gas:candidate-vibid:1001000136006": 6,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 6,
+      "gas:candidate-vibid:1001000113904": 13,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 186,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 555,
-      "Евдокимов Виктор Николаевич": 91,
-      "Забильский Владимир Викторович": 25,
-      "Кулагин Евгений Александрович": 18,
-      "Шуклин Сергей Борисович": 168,
-      "Шумков Дмитрий Владимирович": 46,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000121803": 186,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 555,
+      "gas:candidate-vibid:1001000136006": 91,
+      "gas:candidate-vibid:318300166875": 25,
+      "gas:candidate-vibid:318300166808": 18,
+      "gas:candidate-vibid:1001000254927": 168,
+      "gas:candidate-vibid:1001000113904": 46,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 56,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 237,
-      "Евдокимов Виктор Николаевич": 21,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 22,
-      "Шумков Дмитрий Владимирович": 11,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121803": 56,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 237,
+      "gas:candidate-vibid:1001000136006": 21,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 22,
+      "gas:candidate-vibid:1001000113904": 11,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 102,
-      "Арефьев Анатолий Витальевич": 9,
-      "Богомольный Евгений Исаакович": 236,
-      "Евдокимов Виктор Николаевич": 46,
-      "Забильский Владимир Викторович": 14,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 42,
-      "Шумков Дмитрий Владимирович": 10,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121803": 102,
+      "gas:candidate-vibid:1001000190296": 9,
+      "gas:candidate-vibid:1001000225908": 236,
+      "gas:candidate-vibid:1001000136006": 46,
+      "gas:candidate-vibid:318300166875": 14,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 42,
+      "gas:candidate-vibid:1001000113904": 10,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 128,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 177,
-      "Евдокимов Виктор Николаевич": 17,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 40,
-      "Шумков Дмитрий Владимирович": 9,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121803": 128,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 177,
+      "gas:candidate-vibid:1001000136006": 17,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 40,
+      "gas:candidate-vibid:1001000113904": 9,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 19,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 144,
-      "Евдокимов Виктор Николаевич": 12,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 9,
-      "Шумков Дмитрий Владимирович": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121803": 19,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 144,
+      "gas:candidate-vibid:1001000136006": 12,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 9,
+      "gas:candidate-vibid:1001000113904": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 155,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 105,
-      "Евдокимов Виктор Николаевич": 12,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 13,
-      "Шумков Дмитрий Владимирович": 27,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121803": 155,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 105,
+      "gas:candidate-vibid:1001000136006": 12,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 13,
+      "gas:candidate-vibid:1001000113904": 27,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 51,
-      "Арефьев Анатолий Витальевич": 8,
-      "Богомольный Евгений Исаакович": 107,
-      "Евдокимов Виктор Николаевич": 12,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 2,
-      "Шумков Дмитрий Владимирович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121803": 51,
+      "gas:candidate-vibid:1001000190296": 8,
+      "gas:candidate-vibid:1001000225908": 107,
+      "gas:candidate-vibid:1001000136006": 12,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 2,
+      "gas:candidate-vibid:1001000113904": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 125,
-      "Арефьев Анатолий Витальевич": 8,
-      "Богомольный Евгений Исаакович": 380,
-      "Евдокимов Виктор Николаевич": 29,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 26,
-      "Шумков Дмитрий Владимирович": 28,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121803": 125,
+      "gas:candidate-vibid:1001000190296": 8,
+      "gas:candidate-vibid:1001000225908": 380,
+      "gas:candidate-vibid:1001000136006": 29,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 26,
+      "gas:candidate-vibid:1001000113904": 28,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 65,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 256,
-      "Евдокимов Виктор Николаевич": 31,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 8,
-      "Шумков Дмитрий Владимирович": 22,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121803": 65,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 256,
+      "gas:candidate-vibid:1001000136006": 31,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 8,
+      "gas:candidate-vibid:1001000113904": 22,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 34,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 134,
-      "Евдокимов Виктор Николаевич": 13,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 18,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121803": 34,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 134,
+      "gas:candidate-vibid:1001000136006": 13,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 18,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 29,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 181,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 11,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121803": 29,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 181,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 11,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 68,
-      "Евдокимов Виктор Николаевич": 3,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121803": 9,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 68,
+      "gas:candidate-vibid:1001000136006": 3,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 184,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 391,
-      "Евдокимов Виктор Николаевич": 21,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 23,
-      "Шумков Дмитрий Владимирович": 20,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121803": 184,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 391,
+      "gas:candidate-vibid:1001000136006": 21,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 23,
+      "gas:candidate-vibid:1001000113904": 20,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 39,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 71,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 3,
-      "Шумков Дмитрий Владимирович": 12,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121803": 39,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 71,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 3,
+      "gas:candidate-vibid:1001000113904": 12,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 72,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 217,
-      "Евдокимов Виктор Николаевич": 11,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 19,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121803": 72,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 217,
+      "gas:candidate-vibid:1001000136006": 11,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 19,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 243,
-      "Арефьев Анатолий Витальевич": 8,
-      "Богомольный Евгений Исаакович": 381,
-      "Евдокимов Виктор Николаевич": 7,
-      "Забильский Владимир Викторович": 6,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 31,
-      "Шумков Дмитрий Владимирович": 22,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121803": 243,
+      "gas:candidate-vibid:1001000190296": 8,
+      "gas:candidate-vibid:1001000225908": 381,
+      "gas:candidate-vibid:1001000136006": 7,
+      "gas:candidate-vibid:318300166875": 6,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 31,
+      "gas:candidate-vibid:1001000113904": 22,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 56,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 40,
-      "Евдокимов Виктор Николаевич": 1,
-      "Забильский Владимир Викторович": 4,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 3,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121803": 56,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 40,
+      "gas:candidate-vibid:1001000136006": 1,
+      "gas:candidate-vibid:318300166875": 4,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 3,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 74,
-      "Арефьев Анатолий Витальевич": 8,
-      "Богомольный Евгений Исаакович": 440,
-      "Евдокимов Виктор Николаевич": 21,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 27,
-      "Шумков Дмитрий Владимирович": 17,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121803": 74,
+      "gas:candidate-vibid:1001000190296": 8,
+      "gas:candidate-vibid:1001000225908": 440,
+      "gas:candidate-vibid:1001000136006": 21,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 27,
+      "gas:candidate-vibid:1001000113904": 17,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 31,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 89,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 2,
-      "Шумков Дмитрий Владимирович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121803": 31,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 89,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 2,
+      "gas:candidate-vibid:1001000113904": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 184,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 181,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 4,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 41,
-      "Шумков Дмитрий Владимирович": 17,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121803": 184,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 181,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 4,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 41,
+      "gas:candidate-vibid:1001000113904": 17,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 22,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 153,
-      "Евдокимов Виктор Николаевич": 10,
-      "Забильский Владимир Викторович": 4,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121803": 22,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 153,
+      "gas:candidate-vibid:1001000136006": 10,
+      "gas:candidate-vibid:318300166875": 4,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 71,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 184,
-      "Евдокимов Виктор Николаевич": 7,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 6,
-      "Шумков Дмитрий Владимирович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121803": 71,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 184,
+      "gas:candidate-vibid:1001000136006": 7,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 6,
+      "gas:candidate-vibid:1001000113904": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066627&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 222,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 310,
-      "Евдокимов Виктор Николаевич": 21,
-      "Забильский Владимир Викторович": 8,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 19,
-      "Шумков Дмитрий Владимирович": 27,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121803": 222,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 310,
+      "gas:candidate-vibid:1001000136006": 21,
+      "gas:candidate-vibid:318300166875": 8,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 19,
+      "gas:candidate-vibid:1001000113904": 27,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 30,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 85,
-      "Евдокимов Виктор Николаевич": 5,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 2,
-      "Шумков Дмитрий Владимирович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121803": 30,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 85,
+      "gas:candidate-vibid:1001000136006": 5,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 2,
+      "gas:candidate-vibid:1001000113904": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 8,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 45,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121803": 8,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 45,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 3,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 58,
-      "Евдокимов Виктор Николаевич": 0,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121803": 3,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 58,
+      "gas:candidate-vibid:1001000136006": 0,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 8,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 47,
-      "Евдокимов Виктор Николаевич": 0,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121803": 8,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 47,
+      "gas:candidate-vibid:1001000136006": 0,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 18,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 126,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121803": 18,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 126,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 40,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 171,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121803": 40,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 171,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 145,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 847,
-      "Евдокимов Виктор Николаевич": 52,
-      "Забильский Владимир Викторович": 41,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 53,
-      "Шумков Дмитрий Владимирович": 90,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000121803": 145,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 847,
+      "gas:candidate-vibid:1001000136006": 52,
+      "gas:candidate-vibid:318300166875": 41,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 53,
+      "gas:candidate-vibid:1001000113904": 90,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 27,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 157,
-      "Евдокимов Виктор Николаевич": 10,
-      "Забильский Владимир Викторович": 4,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 11,
-      "Шумков Дмитрий Владимирович": 12,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121803": 27,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 157,
+      "gas:candidate-vibid:1001000136006": 10,
+      "gas:candidate-vibid:318300166875": 4,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 11,
+      "gas:candidate-vibid:1001000113904": 12,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 84,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 394,
-      "Евдокимов Виктор Николаевич": 21,
-      "Забильский Владимир Викторович": 6,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 12,
-      "Шумков Дмитрий Владимирович": 12,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121803": 84,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 394,
+      "gas:candidate-vibid:1001000136006": 21,
+      "gas:candidate-vibid:318300166875": 6,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 12,
+      "gas:candidate-vibid:1001000113904": 12,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 10,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 63,
-      "Евдокимов Виктор Николаевич": 5,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 3,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121803": 10,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 63,
+      "gas:candidate-vibid:1001000136006": 5,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 3,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 49,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 201,
-      "Евдокимов Виктор Николаевич": 9,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121803": 49,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 201,
+      "gas:candidate-vibid:1001000136006": 9,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 100,
-      "Арефьев Анатолий Витальевич": 7,
-      "Богомольный Евгений Исаакович": 292,
-      "Евдокимов Виктор Николаевич": 33,
-      "Забильский Владимир Викторович": 25,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 44,
-      "Шумков Дмитрий Владимирович": 81,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121803": 100,
+      "gas:candidate-vibid:1001000190296": 7,
+      "gas:candidate-vibid:1001000225908": 292,
+      "gas:candidate-vibid:1001000136006": 33,
+      "gas:candidate-vibid:318300166875": 25,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 44,
+      "gas:candidate-vibid:1001000113904": 81,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 243,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 483,
-      "Евдокимов Виктор Николаевич": 50,
-      "Забильский Владимир Викторович": 50,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 86,
-      "Шумков Дмитрий Владимирович": 126,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000121803": 243,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 483,
+      "gas:candidate-vibid:1001000136006": 50,
+      "gas:candidate-vibid:318300166875": 50,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 86,
+      "gas:candidate-vibid:1001000113904": 126,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 90,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 331,
-      "Евдокимов Виктор Николаевич": 26,
-      "Забильский Владимир Викторович": 11,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 59,
-      "Шумков Дмитрий Владимирович": 56,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121803": 90,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 331,
+      "gas:candidate-vibid:1001000136006": 26,
+      "gas:candidate-vibid:318300166875": 11,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 59,
+      "gas:candidate-vibid:1001000113904": 56,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 99,
-      "Арефьев Анатолий Витальевич": 8,
-      "Богомольный Евгений Исаакович": 285,
-      "Евдокимов Виктор Николаевич": 30,
-      "Забильский Владимир Викторович": 43,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 46,
-      "Шумков Дмитрий Владимирович": 66,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000121803": 99,
+      "gas:candidate-vibid:1001000190296": 8,
+      "gas:candidate-vibid:1001000225908": 285,
+      "gas:candidate-vibid:1001000136006": 30,
+      "gas:candidate-vibid:318300166875": 43,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 46,
+      "gas:candidate-vibid:1001000113904": 66,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 88,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 154,
-      "Евдокимов Виктор Николаевич": 13,
-      "Забильский Владимир Викторович": 6,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 10,
-      "Шумков Дмитрий Владимирович": 46,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121803": 88,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 154,
+      "gas:candidate-vibid:1001000136006": 13,
+      "gas:candidate-vibid:318300166875": 6,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 10,
+      "gas:candidate-vibid:1001000113904": 46,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 81,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 616,
-      "Евдокимов Виктор Николаевич": 58,
-      "Забильский Владимир Викторович": 28,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 66,
-      "Шумков Дмитрий Владимирович": 118,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121803": 81,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 616,
+      "gas:candidate-vibid:1001000136006": 58,
+      "gas:candidate-vibid:318300166875": 28,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 66,
+      "gas:candidate-vibid:1001000113904": 118,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 17,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 109,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 8,
-      "Шумков Дмитрий Владимирович": 17,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121803": 17,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 109,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 8,
+      "gas:candidate-vibid:1001000113904": 17,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 66,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 452,
-      "Евдокимов Виктор Николаевич": 13,
-      "Забильский Владимир Викторович": 7,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 13,
-      "Шумков Дмитрий Владимирович": 41,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121803": 66,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 452,
+      "gas:candidate-vibid:1001000136006": 13,
+      "gas:candidate-vibid:318300166875": 7,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 13,
+      "gas:candidate-vibid:1001000113904": 41,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 71,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 428,
-      "Евдокимов Виктор Николаевич": 10,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 19,
-      "Шумков Дмитрий Владимирович": 36,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121803": 71,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 428,
+      "gas:candidate-vibid:1001000136006": 10,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 19,
+      "gas:candidate-vibid:1001000113904": 36,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 18,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 116,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 2,
-      "Шумков Дмитрий Владимирович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121803": 18,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 116,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 2,
+      "gas:candidate-vibid:1001000113904": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 10,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 106,
-      "Евдокимов Виктор Николаевич": 1,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121803": 10,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 106,
+      "gas:candidate-vibid:1001000136006": 1,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 7,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 93,
-      "Евдокимов Виктор Николаевич": 6,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121803": 7,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 93,
+      "gas:candidate-vibid:1001000136006": 6,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 10,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 97,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121803": 10,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 97,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 76,
-      "Арефьев Анатолий Витальевич": 7,
-      "Богомольный Евгений Исаакович": 290,
-      "Евдокимов Виктор Николаевич": 19,
-      "Забильский Владимир Викторович": 6,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 27,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121803": 76,
+      "gas:candidate-vibid:1001000190296": 7,
+      "gas:candidate-vibid:1001000225908": 290,
+      "gas:candidate-vibid:1001000136006": 19,
+      "gas:candidate-vibid:318300166875": 6,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 27,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 27,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 89,
-      "Евдокимов Виктор Николаевич": 3,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121803": 27,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 89,
+      "gas:candidate-vibid:1001000136006": 3,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 57,
-      "Арефьев Анатолий Витальевич": 7,
-      "Богомольный Евгений Исаакович": 232,
-      "Евдокимов Виктор Николаевич": 18,
-      "Забильский Владимир Викторович": 12,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 10,
-      "Шумков Дмитрий Владимирович": 22,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121803": 57,
+      "gas:candidate-vibid:1001000190296": 7,
+      "gas:candidate-vibid:1001000225908": 232,
+      "gas:candidate-vibid:1001000136006": 18,
+      "gas:candidate-vibid:318300166875": 12,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 10,
+      "gas:candidate-vibid:1001000113904": 22,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 74,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 225,
-      "Евдокимов Виктор Николаевич": 21,
-      "Забильский Владимир Викторович": 7,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 12,
-      "Шумков Дмитрий Владимирович": 14,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121803": 74,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 225,
+      "gas:candidate-vibid:1001000136006": 21,
+      "gas:candidate-vibid:318300166875": 7,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 12,
+      "gas:candidate-vibid:1001000113904": 14,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 15,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 69,
-      "Евдокимов Виктор Николаевич": 9,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 7,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121803": 15,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 69,
+      "gas:candidate-vibid:1001000136006": 9,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 7,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 233,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 661,
-      "Евдокимов Виктор Николаевич": 62,
-      "Забильский Владимир Викторович": 48,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 43,
-      "Шумков Дмитрий Владимирович": 155,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000121803": 233,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 661,
+      "gas:candidate-vibid:1001000136006": 62,
+      "gas:candidate-vibid:318300166875": 48,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 43,
+      "gas:candidate-vibid:1001000113904": 155,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 178,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 534,
-      "Евдокимов Виктор Николаевич": 46,
-      "Забильский Владимир Викторович": 22,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 19,
-      "Шумков Дмитрий Владимирович": 74,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000121803": 178,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 534,
+      "gas:candidate-vibid:1001000136006": 46,
+      "gas:candidate-vibid:318300166875": 22,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 19,
+      "gas:candidate-vibid:1001000113904": 74,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 37,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 180,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 17,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121803": 37,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 180,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 17,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 204,
-      "Арефьев Анатолий Витальевич": 28,
-      "Богомольный Евгений Исаакович": 501,
-      "Евдокимов Виктор Николаевич": 86,
-      "Забильский Владимир Викторович": 52,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 44,
-      "Шумков Дмитрий Владимирович": 130,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000121803": 204,
+      "gas:candidate-vibid:1001000190296": 28,
+      "gas:candidate-vibid:1001000225908": 501,
+      "gas:candidate-vibid:1001000136006": 86,
+      "gas:candidate-vibid:318300166875": 52,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 44,
+      "gas:candidate-vibid:1001000113904": 130,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 117,
-      "Арефьев Анатолий Витальевич": 9,
-      "Богомольный Евгений Исаакович": 176,
-      "Евдокимов Виктор Николаевич": 38,
-      "Забильский Владимир Викторович": 4,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 22,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121803": 117,
+      "gas:candidate-vibid:1001000190296": 9,
+      "gas:candidate-vibid:1001000225908": 176,
+      "gas:candidate-vibid:1001000136006": 38,
+      "gas:candidate-vibid:318300166875": 4,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 22,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 78,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 502,
-      "Евдокимов Виктор Николаевич": 24,
-      "Забильский Владимир Викторович": 11,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 8,
-      "Шумков Дмитрий Владимирович": 26,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121803": 78,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 502,
+      "gas:candidate-vibid:1001000136006": 24,
+      "gas:candidate-vibid:318300166875": 11,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 8,
+      "gas:candidate-vibid:1001000113904": 26,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 12,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 147,
-      "Евдокимов Виктор Николаевич": 5,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121803": 12,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 147,
+      "gas:candidate-vibid:1001000136006": 5,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 17,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 65,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121803": 17,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 65,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 89,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121803": 9,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 89,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 93,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 204,
-      "Евдокимов Виктор Николаевич": 14,
-      "Забильский Владимир Викторович": 21,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 32,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121803": 93,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 204,
+      "gas:candidate-vibid:1001000136006": 14,
+      "gas:candidate-vibid:318300166875": 21,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 32,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 35,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 136,
-      "Евдокимов Виктор Николаевич": 5,
-      "Забильский Владимир Викторович": 11,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121803": 35,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 136,
+      "gas:candidate-vibid:1001000136006": 5,
+      "gas:candidate-vibid:318300166875": 11,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 27,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 360,
-      "Евдокимов Виктор Николаевич": 18,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 12,
-      "Шумков Дмитрий Владимирович": 23,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121803": 27,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 360,
+      "gas:candidate-vibid:1001000136006": 18,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 12,
+      "gas:candidate-vibid:1001000113904": 23,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 99,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 517,
-      "Евдокимов Виктор Николаевич": 42,
-      "Забильский Владимир Викторович": 21,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 18,
-      "Шумков Дмитрий Владимирович": 108,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000121803": 99,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 517,
+      "gas:candidate-vibid:1001000136006": 42,
+      "gas:candidate-vibid:318300166875": 21,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 18,
+      "gas:candidate-vibid:1001000113904": 108,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 46,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 274,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 7,
-      "Шумков Дмитрий Владимирович": 12,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121803": 46,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 274,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 7,
+      "gas:candidate-vibid:1001000113904": 12,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 30,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 240,
-      "Евдокимов Виктор Николаевич": 25,
-      "Забильский Владимир Викторович": 6,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 28,
-      "Шумков Дмитрий Владимирович": 17,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121803": 30,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 240,
+      "gas:candidate-vibid:1001000136006": 25,
+      "gas:candidate-vibid:318300166875": 6,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 28,
+      "gas:candidate-vibid:1001000113904": 17,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 38,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 339,
-      "Евдокимов Виктор Николаевич": 6,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 14,
-      "Шумков Дмитрий Владимирович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121803": 38,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 339,
+      "gas:candidate-vibid:1001000136006": 6,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 14,
+      "gas:candidate-vibid:1001000113904": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 84,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 316,
-      "Евдокимов Виктор Николаевич": 15,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 10,
-      "Шумков Дмитрий Владимирович": 25,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121803": 84,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 316,
+      "gas:candidate-vibid:1001000136006": 15,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 10,
+      "gas:candidate-vibid:1001000113904": 25,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 32,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 215,
-      "Евдокимов Виктор Николаевич": 7,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 9,
-      "Шумков Дмитрий Владимирович": 16,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121803": 32,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 215,
+      "gas:candidate-vibid:1001000136006": 7,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 9,
+      "gas:candidate-vibid:1001000113904": 16,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 22,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 90,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 9,
-      "Шумков Дмитрий Владимирович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121803": 22,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 90,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 9,
+      "gas:candidate-vibid:1001000113904": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 69,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 182,
-      "Евдокимов Виктор Николаевич": 29,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 9,
-      "Шумков Дмитрий Владимирович": 30,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121803": 69,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 182,
+      "gas:candidate-vibid:1001000136006": 29,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 9,
+      "gas:candidate-vibid:1001000113904": 30,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 12,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 73,
-      "Евдокимов Виктор Николаевич": 7,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 3,
-      "Шумков Дмитрий Владимирович": 25,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121803": 12,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 73,
+      "gas:candidate-vibid:1001000136006": 7,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 3,
+      "gas:candidate-vibid:1001000113904": 25,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 21,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 122,
-      "Евдокимов Виктор Николаевич": 6,
-      "Забильский Владимир Викторович": 7,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 19,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121803": 21,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 122,
+      "gas:candidate-vibid:1001000136006": 6,
+      "gas:candidate-vibid:318300166875": 7,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 19,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 56,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 85,
-      "Евдокимов Виктор Николаевич": 17,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 10,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121803": 56,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 85,
+      "gas:candidate-vibid:1001000136006": 17,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 10,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 24,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 24,
-      "Евдокимов Виктор Николаевич": 8,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121803": 24,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 24,
+      "gas:candidate-vibid:1001000136006": 8,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 115,
-      "Арефьев Анатолий Витальевич": 9,
-      "Богомольный Евгений Исаакович": 400,
-      "Евдокимов Виктор Николаевич": 27,
-      "Забильский Владимир Викторович": 13,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 13,
-      "Шумков Дмитрий Владимирович": 47,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121803": 115,
+      "gas:candidate-vibid:1001000190296": 9,
+      "gas:candidate-vibid:1001000225908": 400,
+      "gas:candidate-vibid:1001000136006": 27,
+      "gas:candidate-vibid:318300166875": 13,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 13,
+      "gas:candidate-vibid:1001000113904": 47,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 6,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 49,
-      "Евдокимов Виктор Николаевич": 1,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121803": 6,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 49,
+      "gas:candidate-vibid:1001000136006": 1,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066628&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 121,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 227,
-      "Евдокимов Виктор Николаевич": 40,
-      "Забильский Владимир Викторович": 87,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 34,
-      "Шумков Дмитрий Владимирович": 162,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000121803": 121,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 227,
+      "gas:candidate-vibid:1001000136006": 40,
+      "gas:candidate-vibid:318300166875": 87,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 34,
+      "gas:candidate-vibid:1001000113904": 162,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 133,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 338,
-      "Евдокимов Виктор Николаевич": 52,
-      "Забильский Владимир Викторович": 71,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 73,
-      "Шумков Дмитрий Владимирович": 204,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000121803": 133,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 338,
+      "gas:candidate-vibid:1001000136006": 52,
+      "gas:candidate-vibid:318300166875": 71,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 73,
+      "gas:candidate-vibid:1001000113904": 204,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 165,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 310,
-      "Евдокимов Виктор Николаевич": 37,
-      "Забильский Владимир Викторович": 65,
-      "Кулагин Евгений Александрович": 18,
-      "Шуклин Сергей Борисович": 46,
-      "Шумков Дмитрий Владимирович": 148,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000121803": 165,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 310,
+      "gas:candidate-vibid:1001000136006": 37,
+      "gas:candidate-vibid:318300166875": 65,
+      "gas:candidate-vibid:318300166808": 18,
+      "gas:candidate-vibid:1001000254927": 46,
+      "gas:candidate-vibid:1001000113904": 148,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 180,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 305,
-      "Евдокимов Виктор Николаевич": 60,
-      "Забильский Владимир Викторович": 79,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 99,
-      "Шумков Дмитрий Владимирович": 150,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000121803": 180,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 305,
+      "gas:candidate-vibid:1001000136006": 60,
+      "gas:candidate-vibid:318300166875": 79,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 99,
+      "gas:candidate-vibid:1001000113904": 150,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 106,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 222,
-      "Евдокимов Виктор Николаевич": 36,
-      "Забильский Владимир Викторович": 48,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 39,
-      "Шумков Дмитрий Владимирович": 116,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121803": 106,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 222,
+      "gas:candidate-vibid:1001000136006": 36,
+      "gas:candidate-vibid:318300166875": 48,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 39,
+      "gas:candidate-vibid:1001000113904": 116,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 179,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 366,
-      "Евдокимов Виктор Николаевич": 51,
-      "Забильский Владимир Викторович": 95,
-      "Кулагин Евгений Александрович": 22,
-      "Шуклин Сергей Борисович": 77,
-      "Шумков Дмитрий Владимирович": 149,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000121803": 179,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 366,
+      "gas:candidate-vibid:1001000136006": 51,
+      "gas:candidate-vibid:318300166875": 95,
+      "gas:candidate-vibid:318300166808": 22,
+      "gas:candidate-vibid:1001000254927": 77,
+      "gas:candidate-vibid:1001000113904": 149,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 104,
-      "Арефьев Анатолий Витальевич": 13,
-      "Богомольный Евгений Исаакович": 394,
-      "Евдокимов Виктор Николаевич": 34,
-      "Забильский Владимир Викторович": 53,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 45,
-      "Шумков Дмитрий Владимирович": 161,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000121803": 104,
+      "gas:candidate-vibid:1001000190296": 13,
+      "gas:candidate-vibid:1001000225908": 394,
+      "gas:candidate-vibid:1001000136006": 34,
+      "gas:candidate-vibid:318300166875": 53,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 45,
+      "gas:candidate-vibid:1001000113904": 161,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 134,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 253,
-      "Евдокимов Виктор Николаевич": 36,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 65,
-      "Шумков Дмитрий Владимирович": 156,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121803": 134,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 253,
+      "gas:candidate-vibid:1001000136006": 36,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 65,
+      "gas:candidate-vibid:1001000113904": 156,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 44,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 171,
-      "Евдокимов Виктор Николаевич": 15,
-      "Забильский Владимир Викторович": 13,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 23,
-      "Шумков Дмитрий Владимирович": 80,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121803": 44,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 171,
+      "gas:candidate-vibid:1001000136006": 15,
+      "gas:candidate-vibid:318300166875": 13,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 23,
+      "gas:candidate-vibid:1001000113904": 80,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 312,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 305,
-      "Евдокимов Виктор Николаевич": 35,
-      "Забильский Владимир Викторович": 58,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 92,
-      "Шумков Дмитрий Владимирович": 159,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000121803": 312,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 305,
+      "gas:candidate-vibid:1001000136006": 35,
+      "gas:candidate-vibid:318300166875": 58,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 92,
+      "gas:candidate-vibid:1001000113904": 159,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 193,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 300,
-      "Евдокимов Виктор Николаевич": 54,
-      "Забильский Владимир Викторович": 65,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 93,
-      "Шумков Дмитрий Владимирович": 213,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000121803": 193,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 300,
+      "gas:candidate-vibid:1001000136006": 54,
+      "gas:candidate-vibid:318300166875": 65,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 93,
+      "gas:candidate-vibid:1001000113904": 213,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 74,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 222,
-      "Евдокимов Виктор Николаевич": 32,
-      "Забильский Владимир Викторович": 35,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 20,
-      "Шумков Дмитрий Владимирович": 98,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121803": 74,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 222,
+      "gas:candidate-vibid:1001000136006": 32,
+      "gas:candidate-vibid:318300166875": 35,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 20,
+      "gas:candidate-vibid:1001000113904": 98,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 136,
-      "Арефьев Анатолий Витальевич": 14,
-      "Богомольный Евгений Исаакович": 217,
-      "Евдокимов Виктор Николаевич": 43,
-      "Забильский Владимир Викторович": 41,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 31,
-      "Шумков Дмитрий Владимирович": 116,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000121803": 136,
+      "gas:candidate-vibid:1001000190296": 14,
+      "gas:candidate-vibid:1001000225908": 217,
+      "gas:candidate-vibid:1001000136006": 43,
+      "gas:candidate-vibid:318300166875": 41,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 31,
+      "gas:candidate-vibid:1001000113904": 116,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 101,
-      "Арефьев Анатолий Витальевич": 14,
-      "Богомольный Евгений Исаакович": 235,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 24,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 41,
-      "Шумков Дмитрий Владимирович": 171,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000121803": 101,
+      "gas:candidate-vibid:1001000190296": 14,
+      "gas:candidate-vibid:1001000225908": 235,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 24,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 41,
+      "gas:candidate-vibid:1001000113904": 171,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 96,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 137,
-      "Евдокимов Виктор Николаевич": 46,
-      "Забильский Владимир Викторович": 10,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 25,
-      "Шумков Дмитрий Владимирович": 98,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121803": 96,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 137,
+      "gas:candidate-vibid:1001000136006": 46,
+      "gas:candidate-vibid:318300166875": 10,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 25,
+      "gas:candidate-vibid:1001000113904": 98,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 92,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 197,
-      "Евдокимов Виктор Николаевич": 41,
-      "Забильский Владимир Викторович": 15,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 44,
-      "Шумков Дмитрий Владимирович": 98,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121803": 92,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 197,
+      "gas:candidate-vibid:1001000136006": 41,
+      "gas:candidate-vibid:318300166875": 15,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 44,
+      "gas:candidate-vibid:1001000113904": 98,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 75,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 158,
-      "Евдокимов Виктор Николаевич": 35,
-      "Забильский Владимир Викторович": 17,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 28,
-      "Шумков Дмитрий Владимирович": 107,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121803": 75,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 158,
+      "gas:candidate-vibid:1001000136006": 35,
+      "gas:candidate-vibid:318300166875": 17,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 28,
+      "gas:candidate-vibid:1001000113904": 107,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 131,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 343,
-      "Евдокимов Виктор Николаевич": 45,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 40,
-      "Шумков Дмитрий Владимирович": 143,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000121803": 131,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 343,
+      "gas:candidate-vibid:1001000136006": 45,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 40,
+      "gas:candidate-vibid:1001000113904": 143,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 182,
-      "Арефьев Анатолий Витальевич": 22,
-      "Богомольный Евгений Исаакович": 278,
-      "Евдокимов Виктор Николаевич": 52,
-      "Забильский Владимир Викторович": 72,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 45,
-      "Шумков Дмитрий Владимирович": 136,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121803": 182,
+      "gas:candidate-vibid:1001000190296": 22,
+      "gas:candidate-vibid:1001000225908": 278,
+      "gas:candidate-vibid:1001000136006": 52,
+      "gas:candidate-vibid:318300166875": 72,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 45,
+      "gas:candidate-vibid:1001000113904": 136,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 156,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 268,
-      "Евдокимов Виктор Николаевич": 38,
-      "Забильский Владимир Викторович": 50,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 45,
-      "Шумков Дмитрий Владимирович": 150,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000121803": 156,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 268,
+      "gas:candidate-vibid:1001000136006": 38,
+      "gas:candidate-vibid:318300166875": 50,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 45,
+      "gas:candidate-vibid:1001000113904": 150,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 172,
-      "Арефьев Анатолий Витальевич": 17,
-      "Богомольный Евгений Исаакович": 282,
-      "Евдокимов Виктор Николаевич": 50,
-      "Забильский Владимир Викторович": 39,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 45,
-      "Шумков Дмитрий Владимирович": 184,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000121803": 172,
+      "gas:candidate-vibid:1001000190296": 17,
+      "gas:candidate-vibid:1001000225908": 282,
+      "gas:candidate-vibid:1001000136006": 50,
+      "gas:candidate-vibid:318300166875": 39,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 45,
+      "gas:candidate-vibid:1001000113904": 184,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 128,
-      "Арефьев Анатолий Витальевич": 22,
-      "Богомольный Евгений Исаакович": 271,
-      "Евдокимов Виктор Николаевич": 51,
-      "Забильский Владимир Викторович": 67,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 86,
-      "Шумков Дмитрий Владимирович": 142,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000121803": 128,
+      "gas:candidate-vibid:1001000190296": 22,
+      "gas:candidate-vibid:1001000225908": 271,
+      "gas:candidate-vibid:1001000136006": 51,
+      "gas:candidate-vibid:318300166875": 67,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 86,
+      "gas:candidate-vibid:1001000113904": 142,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 123,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 317,
-      "Евдокимов Виктор Николаевич": 48,
-      "Забильский Владимир Викторович": 44,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 61,
-      "Шумков Дмитрий Владимирович": 179,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000121803": 123,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 317,
+      "gas:candidate-vibid:1001000136006": 48,
+      "gas:candidate-vibid:318300166875": 44,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 61,
+      "gas:candidate-vibid:1001000113904": 179,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 163,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 325,
-      "Евдокимов Виктор Николаевич": 28,
-      "Забильский Владимир Викторович": 34,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 44,
-      "Шумков Дмитрий Владимирович": 177,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000121803": 163,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 325,
+      "gas:candidate-vibid:1001000136006": 28,
+      "gas:candidate-vibid:318300166875": 34,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 44,
+      "gas:candidate-vibid:1001000113904": 177,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 130,
-      "Арефьев Анатолий Витальевич": 11,
-      "Богомольный Евгений Исаакович": 282,
-      "Евдокимов Виктор Николаевич": 32,
-      "Забильский Владимир Викторович": 35,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 56,
-      "Шумков Дмитрий Владимирович": 135,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121803": 130,
+      "gas:candidate-vibid:1001000190296": 11,
+      "gas:candidate-vibid:1001000225908": 282,
+      "gas:candidate-vibid:1001000136006": 32,
+      "gas:candidate-vibid:318300166875": 35,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 56,
+      "gas:candidate-vibid:1001000113904": 135,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 147,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 363,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 52,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 76,
-      "Шумков Дмитрий Владимирович": 203,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121803": 147,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 363,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 52,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 76,
+      "gas:candidate-vibid:1001000113904": 203,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 119,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 225,
-      "Евдокимов Виктор Николаевич": 38,
-      "Забильский Владимир Викторович": 32,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 51,
-      "Шумков Дмитрий Владимирович": 177,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121803": 119,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 225,
+      "gas:candidate-vibid:1001000136006": 38,
+      "gas:candidate-vibid:318300166875": 32,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 51,
+      "gas:candidate-vibid:1001000113904": 177,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 127,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 241,
-      "Евдокимов Виктор Николаевич": 49,
-      "Забильский Владимир Викторович": 43,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 80,
-      "Шумков Дмитрий Владимирович": 181,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121803": 127,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 241,
+      "gas:candidate-vibid:1001000136006": 49,
+      "gas:candidate-vibid:318300166875": 43,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 80,
+      "gas:candidate-vibid:1001000113904": 181,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 179,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 334,
-      "Евдокимов Виктор Николаевич": 44,
-      "Забильский Владимир Викторович": 67,
-      "Кулагин Евгений Александрович": 17,
-      "Шуклин Сергей Борисович": 82,
-      "Шумков Дмитрий Владимирович": 191,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000121803": 179,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 334,
+      "gas:candidate-vibid:1001000136006": 44,
+      "gas:candidate-vibid:318300166875": 67,
+      "gas:candidate-vibid:318300166808": 17,
+      "gas:candidate-vibid:1001000254927": 82,
+      "gas:candidate-vibid:1001000113904": 191,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 170,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 320,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 72,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 88,
-      "Шумков Дмитрий Владимирович": 140,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000121803": 170,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 320,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 72,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 88,
+      "gas:candidate-vibid:1001000113904": 140,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 197,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 351,
-      "Евдокимов Виктор Николаевич": 59,
-      "Забильский Владимир Викторович": 67,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 76,
-      "Шумков Дмитрий Владимирович": 274,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000121803": 197,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 351,
+      "gas:candidate-vibid:1001000136006": 59,
+      "gas:candidate-vibid:318300166875": 67,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 76,
+      "gas:candidate-vibid:1001000113904": 274,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 171,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 300,
-      "Евдокимов Виктор Николаевич": 56,
-      "Забильский Владимир Викторович": 49,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 65,
-      "Шумков Дмитрий Владимирович": 177,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000121803": 171,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 300,
+      "gas:candidate-vibid:1001000136006": 56,
+      "gas:candidate-vibid:318300166875": 49,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 65,
+      "gas:candidate-vibid:1001000113904": 177,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 120,
-      "Арефьев Анатолий Витальевич": 13,
-      "Богомольный Евгений Исаакович": 228,
-      "Евдокимов Виктор Николаевич": 40,
-      "Забильский Владимир Викторович": 22,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 39,
-      "Шумков Дмитрий Владимирович": 131,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121803": 120,
+      "gas:candidate-vibid:1001000190296": 13,
+      "gas:candidate-vibid:1001000225908": 228,
+      "gas:candidate-vibid:1001000136006": 40,
+      "gas:candidate-vibid:318300166875": 22,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 39,
+      "gas:candidate-vibid:1001000113904": 131,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 159,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 339,
-      "Евдокимов Виктор Николаевич": 43,
-      "Забильский Владимир Викторович": 42,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 57,
-      "Шумков Дмитрий Владимирович": 157,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000121803": 159,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 339,
+      "gas:candidate-vibid:1001000136006": 43,
+      "gas:candidate-vibid:318300166875": 42,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 57,
+      "gas:candidate-vibid:1001000113904": 157,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 155,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 254,
-      "Евдокимов Виктор Николаевич": 44,
-      "Забильский Владимир Викторович": 37,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 65,
-      "Шумков Дмитрий Владимирович": 193,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000121803": 155,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 254,
+      "gas:candidate-vibid:1001000136006": 44,
+      "gas:candidate-vibid:318300166875": 37,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 65,
+      "gas:candidate-vibid:1001000113904": 193,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 164,
-      "Арефьев Анатолий Витальевич": 26,
-      "Богомольный Евгений Исаакович": 393,
-      "Евдокимов Виктор Николаевич": 55,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 15,
-      "Шуклин Сергей Борисович": 94,
-      "Шумков Дмитрий Владимирович": 192,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000121803": 164,
+      "gas:candidate-vibid:1001000190296": 26,
+      "gas:candidate-vibid:1001000225908": 393,
+      "gas:candidate-vibid:1001000136006": 55,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 15,
+      "gas:candidate-vibid:1001000254927": 94,
+      "gas:candidate-vibid:1001000113904": 192,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 174,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 387,
-      "Евдокимов Виктор Николаевич": 52,
-      "Забильский Владимир Викторович": 39,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 64,
-      "Шумков Дмитрий Владимирович": 231,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000121803": 174,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 387,
+      "gas:candidate-vibid:1001000136006": 52,
+      "gas:candidate-vibid:318300166875": 39,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 64,
+      "gas:candidate-vibid:1001000113904": 231,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 174,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 351,
-      "Евдокимов Виктор Николаевич": 46,
-      "Забильский Владимир Викторович": 63,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 87,
-      "Шумков Дмитрий Владимирович": 184,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000121803": 174,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 351,
+      "gas:candidate-vibid:1001000136006": 46,
+      "gas:candidate-vibid:318300166875": 63,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 87,
+      "gas:candidate-vibid:1001000113904": 184,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 147,
-      "Арефьев Анатолий Витальевич": 24,
-      "Богомольный Евгений Исаакович": 305,
-      "Евдокимов Виктор Николаевич": 58,
-      "Забильский Владимир Викторович": 56,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 53,
-      "Шумков Дмитрий Владимирович": 234,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000121803": 147,
+      "gas:candidate-vibid:1001000190296": 24,
+      "gas:candidate-vibid:1001000225908": 305,
+      "gas:candidate-vibid:1001000136006": 58,
+      "gas:candidate-vibid:318300166875": 56,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 53,
+      "gas:candidate-vibid:1001000113904": 234,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 148,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 242,
-      "Евдокимов Виктор Николаевич": 42,
-      "Забильский Владимир Викторович": 48,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 60,
-      "Шумков Дмитрий Владимирович": 95,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121803": 148,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 242,
+      "gas:candidate-vibid:1001000136006": 42,
+      "gas:candidate-vibid:318300166875": 48,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 60,
+      "gas:candidate-vibid:1001000113904": 95,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 175,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 427,
-      "Евдокимов Виктор Николаевич": 54,
-      "Забильский Владимир Викторович": 68,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 80,
-      "Шумков Дмитрий Владимирович": 172,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000121803": 175,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 427,
+      "gas:candidate-vibid:1001000136006": 54,
+      "gas:candidate-vibid:318300166875": 68,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 80,
+      "gas:candidate-vibid:1001000113904": 172,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 40,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 132,
-      "Евдокимов Виктор Николаевич": 19,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 6,
-      "Шумков Дмитрий Владимирович": 53,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121803": 40,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 132,
+      "gas:candidate-vibid:1001000136006": 19,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 6,
+      "gas:candidate-vibid:1001000113904": 53,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 59,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 234,
-      "Евдокимов Виктор Николаевич": 33,
-      "Забильский Владимир Викторович": 10,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 24,
-      "Шумков Дмитрий Владимирович": 88,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000121803": 59,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 234,
+      "gas:candidate-vibid:1001000136006": 33,
+      "gas:candidate-vibid:318300166875": 10,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 24,
+      "gas:candidate-vibid:1001000113904": 88,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 4,
-      "Арефьев Анатолий Витальевич": 3,
-      "Богомольный Евгений Исаакович": 314,
-      "Евдокимов Виктор Николаевич": 31,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 18,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121803": 4,
+      "gas:candidate-vibid:1001000190296": 3,
+      "gas:candidate-vibid:1001000225908": 314,
+      "gas:candidate-vibid:1001000136006": 31,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 18,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 189,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 358,
-      "Евдокимов Виктор Николаевич": 70,
-      "Забильский Владимир Викторович": 58,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 46,
-      "Шумков Дмитрий Владимирович": 204,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000121803": 189,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 358,
+      "gas:candidate-vibid:1001000136006": 70,
+      "gas:candidate-vibid:318300166875": 58,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 46,
+      "gas:candidate-vibid:1001000113904": 204,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 11,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 17,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 2,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121803": 11,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 17,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 2,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 69,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 148,
-      "Евдокимов Виктор Николаевич": 39,
-      "Забильский Владимир Викторович": 21,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 38,
-      "Шумков Дмитрий Владимирович": 100,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121803": 69,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 148,
+      "gas:candidate-vibid:1001000136006": 39,
+      "gas:candidate-vibid:318300166875": 21,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 38,
+      "gas:candidate-vibid:1001000113904": 100,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 123,
-      "Арефьев Анатолий Витальевич": 17,
-      "Богомольный Евгений Исаакович": 265,
-      "Евдокимов Виктор Николаевич": 47,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 37,
-      "Шумков Дмитрий Владимирович": 147,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000121803": 123,
+      "gas:candidate-vibid:1001000190296": 17,
+      "gas:candidate-vibid:1001000225908": 265,
+      "gas:candidate-vibid:1001000136006": 47,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 37,
+      "gas:candidate-vibid:1001000113904": 147,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 130,
-      "Арефьев Анатолий Витальевич": 24,
-      "Богомольный Евгений Исаакович": 208,
-      "Евдокимов Виктор Николаевич": 39,
-      "Забильский Владимир Викторович": 32,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 39,
-      "Шумков Дмитрий Владимирович": 116,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000121803": 130,
+      "gas:candidate-vibid:1001000190296": 24,
+      "gas:candidate-vibid:1001000225908": 208,
+      "gas:candidate-vibid:1001000136006": 39,
+      "gas:candidate-vibid:318300166875": 32,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 39,
+      "gas:candidate-vibid:1001000113904": 116,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 37,
-      "Евдокимов Виктор Николаевич": 10,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 15,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121803": 9,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 37,
+      "gas:candidate-vibid:1001000136006": 10,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 15,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 21,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 49,
-      "Евдокимов Виктор Николаевич": 12,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 7,
-      "Шумков Дмитрий Владимирович": 46,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121803": 21,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 49,
+      "gas:candidate-vibid:1001000136006": 12,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 7,
+      "gas:candidate-vibid:1001000113904": 46,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066629&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 186,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 484,
-      "Евдокимов Виктор Николаевич": 39,
-      "Забильский Владимир Викторович": 40,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 92,
-      "Шумков Дмитрий Владимирович": 198,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000121803": 186,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 484,
+      "gas:candidate-vibid:1001000136006": 39,
+      "gas:candidate-vibid:318300166875": 40,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 92,
+      "gas:candidate-vibid:1001000113904": 198,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 128,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 344,
-      "Евдокимов Виктор Николаевич": 39,
-      "Забильский Владимир Викторович": 38,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 64,
-      "Шумков Дмитрий Владимирович": 200,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121803": 128,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 344,
+      "gas:candidate-vibid:1001000136006": 39,
+      "gas:candidate-vibid:318300166875": 38,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 64,
+      "gas:candidate-vibid:1001000113904": 200,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 85,
-      "Арефьев Анатолий Витальевич": 13,
-      "Богомольный Евгений Исаакович": 266,
-      "Евдокимов Виктор Николаевич": 32,
-      "Забильский Владимир Викторович": 47,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 46,
-      "Шумков Дмитрий Владимирович": 101,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000121803": 85,
+      "gas:candidate-vibid:1001000190296": 13,
+      "gas:candidate-vibid:1001000225908": 266,
+      "gas:candidate-vibid:1001000136006": 32,
+      "gas:candidate-vibid:318300166875": 47,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 46,
+      "gas:candidate-vibid:1001000113904": 101,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 143,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 333,
-      "Евдокимов Виктор Николаевич": 68,
-      "Забильский Владимир Викторович": 37,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 88,
-      "Шумков Дмитрий Владимирович": 199,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000121803": 143,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 333,
+      "gas:candidate-vibid:1001000136006": 68,
+      "gas:candidate-vibid:318300166875": 37,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 88,
+      "gas:candidate-vibid:1001000113904": 199,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 116,
-      "Арефьев Анатолий Витальевич": 17,
-      "Богомольный Евгений Исаакович": 380,
-      "Евдокимов Виктор Николаевич": 37,
-      "Забильский Владимир Викторович": 51,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 65,
-      "Шумков Дмитрий Владимирович": 198,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000121803": 116,
+      "gas:candidate-vibid:1001000190296": 17,
+      "gas:candidate-vibid:1001000225908": 380,
+      "gas:candidate-vibid:1001000136006": 37,
+      "gas:candidate-vibid:318300166875": 51,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 65,
+      "gas:candidate-vibid:1001000113904": 198,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 171,
-      "Арефьев Анатолий Витальевич": 27,
-      "Богомольный Евгений Исаакович": 410,
-      "Евдокимов Виктор Николаевич": 58,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 91,
-      "Шумков Дмитрий Владимирович": 282,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000121803": 171,
+      "gas:candidate-vibid:1001000190296": 27,
+      "gas:candidate-vibid:1001000225908": 410,
+      "gas:candidate-vibid:1001000136006": 58,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 91,
+      "gas:candidate-vibid:1001000113904": 282,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 212,
-      "Арефьев Анатолий Витальевич": 36,
-      "Богомольный Евгений Исаакович": 587,
-      "Евдокимов Виктор Николаевич": 56,
-      "Забильский Владимир Викторович": 51,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 68,
-      "Шумков Дмитрий Владимирович": 174,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000121803": 212,
+      "gas:candidate-vibid:1001000190296": 36,
+      "gas:candidate-vibid:1001000225908": 587,
+      "gas:candidate-vibid:1001000136006": 56,
+      "gas:candidate-vibid:318300166875": 51,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 68,
+      "gas:candidate-vibid:1001000113904": 174,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 58,
-      "Арефьев Анатолий Витальевич": 13,
-      "Богомольный Евгений Исаакович": 152,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 15,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 38,
-      "Шумков Дмитрий Владимирович": 70,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121803": 58,
+      "gas:candidate-vibid:1001000190296": 13,
+      "gas:candidate-vibid:1001000225908": 152,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 15,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 38,
+      "gas:candidate-vibid:1001000113904": 70,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 108,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 278,
-      "Евдокимов Виктор Николаевич": 45,
-      "Забильский Владимир Викторович": 25,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 60,
-      "Шумков Дмитрий Владимирович": 129,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000121803": 108,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 278,
+      "gas:candidate-vibid:1001000136006": 45,
+      "gas:candidate-vibid:318300166875": 25,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 60,
+      "gas:candidate-vibid:1001000113904": 129,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 252,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 326,
-      "Евдокимов Виктор Николаевич": 35,
-      "Забильский Владимир Викторович": 16,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 26,
-      "Шумков Дмитрий Владимирович": 85,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121803": 252,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 326,
+      "gas:candidate-vibid:1001000136006": 35,
+      "gas:candidate-vibid:318300166875": 16,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 26,
+      "gas:candidate-vibid:1001000113904": 85,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 295,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 404,
-      "Евдокимов Виктор Николаевич": 37,
-      "Забильский Владимир Викторович": 46,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 88,
-      "Шумков Дмитрий Владимирович": 162,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000121803": 295,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 404,
+      "gas:candidate-vibid:1001000136006": 37,
+      "gas:candidate-vibid:318300166875": 46,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 88,
+      "gas:candidate-vibid:1001000113904": 162,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 139,
-      "Арефьев Анатолий Витальевич": 26,
-      "Богомольный Евгений Исаакович": 315,
-      "Евдокимов Виктор Николаевич": 34,
-      "Забильский Владимир Викторович": 34,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 46,
-      "Шумков Дмитрий Владимирович": 106,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000121803": 139,
+      "gas:candidate-vibid:1001000190296": 26,
+      "gas:candidate-vibid:1001000225908": 315,
+      "gas:candidate-vibid:1001000136006": 34,
+      "gas:candidate-vibid:318300166875": 34,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 46,
+      "gas:candidate-vibid:1001000113904": 106,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 228,
-      "Арефьев Анатолий Витальевич": 11,
-      "Богомольный Евгений Исаакович": 320,
-      "Евдокимов Виктор Николаевич": 63,
-      "Забильский Владимир Викторович": 37,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 57,
-      "Шумков Дмитрий Владимирович": 172,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000121803": 228,
+      "gas:candidate-vibid:1001000190296": 11,
+      "gas:candidate-vibid:1001000225908": 320,
+      "gas:candidate-vibid:1001000136006": 63,
+      "gas:candidate-vibid:318300166875": 37,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 57,
+      "gas:candidate-vibid:1001000113904": 172,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 131,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 268,
-      "Евдокимов Виктор Николаевич": 38,
-      "Забильский Владимир Викторович": 35,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 58,
-      "Шумков Дмитрий Владимирович": 172,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000121803": 131,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 268,
+      "gas:candidate-vibid:1001000136006": 38,
+      "gas:candidate-vibid:318300166875": 35,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 58,
+      "gas:candidate-vibid:1001000113904": 172,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 163,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 462,
-      "Евдокимов Виктор Николаевич": 55,
-      "Забильский Владимир Викторович": 47,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 95,
-      "Шумков Дмитрий Владимирович": 257,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000121803": 163,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 462,
+      "gas:candidate-vibid:1001000136006": 55,
+      "gas:candidate-vibid:318300166875": 47,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 95,
+      "gas:candidate-vibid:1001000113904": 257,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 221,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 359,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 51,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 62,
-      "Шумков Дмитрий Владимирович": 234,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000121803": 221,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 359,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 51,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 62,
+      "gas:candidate-vibid:1001000113904": 234,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 38,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 153,
-      "Евдокимов Виктор Николаевич": 20,
-      "Забильский Владимир Викторович": 18,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 18,
-      "Шумков Дмитрий Владимирович": 79,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121803": 38,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 153,
+      "gas:candidate-vibid:1001000136006": 20,
+      "gas:candidate-vibid:318300166875": 18,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 18,
+      "gas:candidate-vibid:1001000113904": 79,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 184,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 481,
-      "Евдокимов Виктор Николаевич": 49,
-      "Забильский Владимир Викторович": 55,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 77,
-      "Шумков Дмитрий Владимирович": 240,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000121803": 184,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 481,
+      "gas:candidate-vibid:1001000136006": 49,
+      "gas:candidate-vibid:318300166875": 55,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 77,
+      "gas:candidate-vibid:1001000113904": 240,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 124,
-      "Арефьев Анатолий Витальевич": 11,
-      "Богомольный Евгений Исаакович": 250,
-      "Евдокимов Виктор Николаевич": 53,
-      "Забильский Владимир Викторович": 35,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 76,
-      "Шумков Дмитрий Владимирович": 168,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000121803": 124,
+      "gas:candidate-vibid:1001000190296": 11,
+      "gas:candidate-vibid:1001000225908": 250,
+      "gas:candidate-vibid:1001000136006": 53,
+      "gas:candidate-vibid:318300166875": 35,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 76,
+      "gas:candidate-vibid:1001000113904": 168,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 199,
-      "Арефьев Анатолий Витальевич": 32,
-      "Богомольный Евгений Исаакович": 284,
-      "Евдокимов Виктор Николаевич": 74,
-      "Забильский Владимир Викторович": 59,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 92,
-      "Шумков Дмитрий Владимирович": 203,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000121803": 199,
+      "gas:candidate-vibid:1001000190296": 32,
+      "gas:candidate-vibid:1001000225908": 284,
+      "gas:candidate-vibid:1001000136006": 74,
+      "gas:candidate-vibid:318300166875": 59,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 92,
+      "gas:candidate-vibid:1001000113904": 203,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 148,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 370,
-      "Евдокимов Виктор Николаевич": 55,
-      "Забильский Владимир Викторович": 65,
-      "Кулагин Евгений Александрович": 15,
-      "Шуклин Сергей Борисович": 86,
-      "Шумков Дмитрий Владимирович": 214,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000121803": 148,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 370,
+      "gas:candidate-vibid:1001000136006": 55,
+      "gas:candidate-vibid:318300166875": 65,
+      "gas:candidate-vibid:318300166808": 15,
+      "gas:candidate-vibid:1001000254927": 86,
+      "gas:candidate-vibid:1001000113904": 214,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 265,
-      "Арефьев Анатолий Витальевич": 40,
-      "Богомольный Евгений Исаакович": 461,
-      "Евдокимов Виктор Николаевич": 67,
-      "Забильский Владимир Викторович": 59,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 122,
-      "Шумков Дмитрий Владимирович": 225,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000121803": 265,
+      "gas:candidate-vibid:1001000190296": 40,
+      "gas:candidate-vibid:1001000225908": 461,
+      "gas:candidate-vibid:1001000136006": 67,
+      "gas:candidate-vibid:318300166875": 59,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 122,
+      "gas:candidate-vibid:1001000113904": 225,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 127,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 299,
-      "Евдокимов Виктор Николаевич": 51,
-      "Забильский Владимир Викторович": 43,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 63,
-      "Шумков Дмитрий Владимирович": 164,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000121803": 127,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 299,
+      "gas:candidate-vibid:1001000136006": 51,
+      "gas:candidate-vibid:318300166875": 43,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 63,
+      "gas:candidate-vibid:1001000113904": 164,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 201,
-      "Арефьев Анатолий Витальевич": 22,
-      "Богомольный Евгений Исаакович": 317,
-      "Евдокимов Виктор Николаевич": 45,
-      "Забильский Владимир Викторович": 55,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 57,
-      "Шумков Дмитрий Владимирович": 131,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000121803": 201,
+      "gas:candidate-vibid:1001000190296": 22,
+      "gas:candidate-vibid:1001000225908": 317,
+      "gas:candidate-vibid:1001000136006": 45,
+      "gas:candidate-vibid:318300166875": 55,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 57,
+      "gas:candidate-vibid:1001000113904": 131,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 143,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 285,
-      "Евдокимов Виктор Николаевич": 31,
-      "Забильский Владимир Викторович": 44,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 43,
-      "Шумков Дмитрий Владимирович": 126,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121803": 143,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 285,
+      "gas:candidate-vibid:1001000136006": 31,
+      "gas:candidate-vibid:318300166875": 44,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 43,
+      "gas:candidate-vibid:1001000113904": 126,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 182,
-      "Арефьев Анатолий Витальевич": 22,
-      "Богомольный Евгений Исаакович": 401,
-      "Евдокимов Виктор Николаевич": 81,
-      "Забильский Владимир Викторович": 57,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 80,
-      "Шумков Дмитрий Владимирович": 204,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000121803": 182,
+      "gas:candidate-vibid:1001000190296": 22,
+      "gas:candidate-vibid:1001000225908": 401,
+      "gas:candidate-vibid:1001000136006": 81,
+      "gas:candidate-vibid:318300166875": 57,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 80,
+      "gas:candidate-vibid:1001000113904": 204,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 223,
-      "Арефьев Анатолий Витальевич": 32,
-      "Богомольный Евгений Исаакович": 451,
-      "Евдокимов Виктор Николаевич": 83,
-      "Забильский Владимир Викторович": 80,
-      "Кулагин Евгений Александрович": 26,
-      "Шуклин Сергей Борисович": 117,
-      "Шумков Дмитрий Владимирович": 203,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000121803": 223,
+      "gas:candidate-vibid:1001000190296": 32,
+      "gas:candidate-vibid:1001000225908": 451,
+      "gas:candidate-vibid:1001000136006": 83,
+      "gas:candidate-vibid:318300166875": 80,
+      "gas:candidate-vibid:318300166808": 26,
+      "gas:candidate-vibid:1001000254927": 117,
+      "gas:candidate-vibid:1001000113904": 203,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 161,
-      "Арефьев Анатолий Витальевич": 26,
-      "Богомольный Евгений Исаакович": 317,
-      "Евдокимов Виктор Николаевич": 64,
-      "Забильский Владимир Викторович": 66,
-      "Кулагин Евгений Александрович": 17,
-      "Шуклин Сергей Борисович": 101,
-      "Шумков Дмитрий Владимирович": 156,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000121803": 161,
+      "gas:candidate-vibid:1001000190296": 26,
+      "gas:candidate-vibid:1001000225908": 317,
+      "gas:candidate-vibid:1001000136006": 64,
+      "gas:candidate-vibid:318300166875": 66,
+      "gas:candidate-vibid:318300166808": 17,
+      "gas:candidate-vibid:1001000254927": 101,
+      "gas:candidate-vibid:1001000113904": 156,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 161,
-      "Арефьев Анатолий Витальевич": 22,
-      "Богомольный Евгений Исаакович": 327,
-      "Евдокимов Виктор Николаевич": 47,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 70,
-      "Шумков Дмитрий Владимирович": 169,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121803": 161,
+      "gas:candidate-vibid:1001000190296": 22,
+      "gas:candidate-vibid:1001000225908": 327,
+      "gas:candidate-vibid:1001000136006": 47,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 70,
+      "gas:candidate-vibid:1001000113904": 169,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 172,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 437,
-      "Евдокимов Виктор Николаевич": 79,
-      "Забильский Владимир Викторович": 79,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 95,
-      "Шумков Дмитрий Владимирович": 236,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000121803": 172,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 437,
+      "gas:candidate-vibid:1001000136006": 79,
+      "gas:candidate-vibid:318300166875": 79,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 95,
+      "gas:candidate-vibid:1001000113904": 236,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 30,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 49,
-      "Евдокимов Виктор Николаевич": 11,
-      "Забильский Владимир Викторович": 9,
-      "Кулагин Евгений Александрович": 1,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121803": 30,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 49,
+      "gas:candidate-vibid:1001000136006": 11,
+      "gas:candidate-vibid:318300166875": 9,
+      "gas:candidate-vibid:318300166808": 1,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 207,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 341,
-      "Евдокимов Виктор Николаевич": 66,
-      "Забильский Владимир Викторович": 54,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 49,
-      "Шумков Дмитрий Владимирович": 159,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000121803": 207,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 341,
+      "gas:candidate-vibid:1001000136006": 66,
+      "gas:candidate-vibid:318300166875": 54,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 49,
+      "gas:candidate-vibid:1001000113904": 159,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 193,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 400,
-      "Евдокимов Виктор Николаевич": 95,
-      "Забильский Владимир Викторович": 63,
-      "Кулагин Евгений Александрович": 16,
-      "Шуклин Сергей Борисович": 71,
-      "Шумков Дмитрий Владимирович": 203,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000121803": 193,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 400,
+      "gas:candidate-vibid:1001000136006": 95,
+      "gas:candidate-vibid:318300166875": 63,
+      "gas:candidate-vibid:318300166808": 16,
+      "gas:candidate-vibid:1001000254927": 71,
+      "gas:candidate-vibid:1001000113904": 203,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 154,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 229,
-      "Евдокимов Виктор Николаевич": 49,
-      "Забильский Владимир Викторович": 38,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 33,
-      "Шумков Дмитрий Владимирович": 154,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121803": 154,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 229,
+      "gas:candidate-vibid:1001000136006": 49,
+      "gas:candidate-vibid:318300166875": 38,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 33,
+      "gas:candidate-vibid:1001000113904": 154,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 57,
-      "Арефьев Анатолий Витальевич": 8,
-      "Богомольный Евгений Исаакович": 123,
-      "Евдокимов Виктор Николаевич": 26,
-      "Забильский Владимир Викторович": 13,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 23,
-      "Шумков Дмитрий Владимирович": 100,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121803": 57,
+      "gas:candidate-vibid:1001000190296": 8,
+      "gas:candidate-vibid:1001000225908": 123,
+      "gas:candidate-vibid:1001000136006": 26,
+      "gas:candidate-vibid:318300166875": 13,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 23,
+      "gas:candidate-vibid:1001000113904": 100,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 270,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 286,
-      "Евдокимов Виктор Николаевич": 77,
-      "Забильский Владимир Викторович": 48,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 70,
-      "Шумков Дмитрий Владимирович": 251,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121803": 270,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 286,
+      "gas:candidate-vibid:1001000136006": 77,
+      "gas:candidate-vibid:318300166875": 48,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 70,
+      "gas:candidate-vibid:1001000113904": 251,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 253,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 391,
-      "Евдокимов Виктор Николаевич": 67,
-      "Забильский Владимир Викторович": 86,
-      "Кулагин Евгений Александрович": 15,
-      "Шуклин Сергей Борисович": 81,
-      "Шумков Дмитрий Владимирович": 319,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000121803": 253,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 391,
+      "gas:candidate-vibid:1001000136006": 67,
+      "gas:candidate-vibid:318300166875": 86,
+      "gas:candidate-vibid:318300166808": 15,
+      "gas:candidate-vibid:1001000254927": 81,
+      "gas:candidate-vibid:1001000113904": 319,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 4,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 24,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121803": 4,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 24,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 12,
-      "Евдокимов Виктор Николаевич": 1,
-      "Забильский Владимир Викторович": 3,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 6,
-      "Шумков Дмитрий Владимирович": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121803": 9,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 12,
+      "gas:candidate-vibid:1001000136006": 1,
+      "gas:candidate-vibid:318300166875": 3,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 6,
+      "gas:candidate-vibid:1001000113904": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 2,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 21,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 2,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121803": 2,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 21,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 2,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 3,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 33,
-      "Евдокимов Виктор Николаевич": 0,
-      "Забильский Владимир Викторович": 4,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121803": 3,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 33,
+      "gas:candidate-vibid:1001000136006": 0,
+      "gas:candidate-vibid:318300166875": 4,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 54,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 102,
-      "Евдокимов Виктор Николаевич": 25,
-      "Забильский Владимир Викторович": 16,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 26,
-      "Шумков Дмитрий Владимирович": 62,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121803": 54,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 102,
+      "gas:candidate-vibid:1001000136006": 25,
+      "gas:candidate-vibid:318300166875": 16,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 26,
+      "gas:candidate-vibid:1001000113904": 62,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 14,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 271,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 0,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 0,
-      "Шумков Дмитрий Владимирович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121803": 14,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 271,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 0,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 0,
+      "gas:candidate-vibid:1001000113904": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 133,
-      "Арефьев Анатолий Витальевич": 16,
-      "Богомольный Евгений Исаакович": 362,
-      "Евдокимов Виктор Николаевич": 47,
-      "Забильский Владимир Викторович": 85,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 84,
-      "Шумков Дмитрий Владимирович": 179,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000121803": 133,
+      "gas:candidate-vibid:1001000190296": 16,
+      "gas:candidate-vibid:1001000225908": 362,
+      "gas:candidate-vibid:1001000136006": 47,
+      "gas:candidate-vibid:318300166875": 85,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 84,
+      "gas:candidate-vibid:1001000113904": 179,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 187,
-      "Арефьев Анатолий Витальевич": 32,
-      "Богомольный Евгений Исаакович": 458,
-      "Евдокимов Виктор Николаевич": 62,
-      "Забильский Владимир Викторович": 40,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 107,
-      "Шумков Дмитрий Владимирович": 175,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000121803": 187,
+      "gas:candidate-vibid:1001000190296": 32,
+      "gas:candidate-vibid:1001000225908": 458,
+      "gas:candidate-vibid:1001000136006": 62,
+      "gas:candidate-vibid:318300166875": 40,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 107,
+      "gas:candidate-vibid:1001000113904": 175,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 187,
-      "Арефьев Анатолий Витальевич": 40,
-      "Богомольный Евгений Исаакович": 372,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 47,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 82,
-      "Шумков Дмитрий Владимирович": 194,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000121803": 187,
+      "gas:candidate-vibid:1001000190296": 40,
+      "gas:candidate-vibid:1001000225908": 372,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 47,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 82,
+      "gas:candidate-vibid:1001000113904": 194,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 110,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 301,
-      "Евдокимов Виктор Николаевич": 49,
-      "Забильский Владимир Викторович": 49,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 85,
-      "Шумков Дмитрий Владимирович": 146,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000121803": 110,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 301,
+      "gas:candidate-vibid:1001000136006": 49,
+      "gas:candidate-vibid:318300166875": 49,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 85,
+      "gas:candidate-vibid:1001000113904": 146,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 79,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 226,
-      "Евдокимов Виктор Николаевич": 33,
-      "Забильский Владимир Викторович": 16,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 30,
-      "Шумков Дмитрий Владимирович": 72,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121803": 79,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 226,
+      "gas:candidate-vibid:1001000136006": 33,
+      "gas:candidate-vibid:318300166875": 16,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 30,
+      "gas:candidate-vibid:1001000113904": 72,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066630&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 217,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 422,
-      "Евдокимов Виктор Николаевич": 64,
-      "Забильский Владимир Викторович": 79,
-      "Кулагин Евгений Александрович": 15,
-      "Шуклин Сергей Борисович": 83,
-      "Шумков Дмитрий Владимирович": 201,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000121803": 217,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 422,
+      "gas:candidate-vibid:1001000136006": 64,
+      "gas:candidate-vibid:318300166875": 79,
+      "gas:candidate-vibid:318300166808": 15,
+      "gas:candidate-vibid:1001000254927": 83,
+      "gas:candidate-vibid:1001000113904": 201,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 232,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 426,
-      "Евдокимов Виктор Николаевич": 61,
-      "Забильский Владимир Викторович": 79,
-      "Кулагин Евгений Александрович": 19,
-      "Шуклин Сергей Борисович": 83,
-      "Шумков Дмитрий Владимирович": 272,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000121803": 232,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 426,
+      "gas:candidate-vibid:1001000136006": 61,
+      "gas:candidate-vibid:318300166875": 79,
+      "gas:candidate-vibid:318300166808": 19,
+      "gas:candidate-vibid:1001000254927": 83,
+      "gas:candidate-vibid:1001000113904": 272,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 219,
-      "Арефьев Анатолий Витальевич": 24,
-      "Богомольный Евгений Исаакович": 468,
-      "Евдокимов Виктор Николаевич": 73,
-      "Забильский Владимир Викторович": 67,
-      "Кулагин Евгений Александрович": 24,
-      "Шуклин Сергей Борисович": 84,
-      "Шумков Дмитрий Владимирович": 227,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000121803": 219,
+      "gas:candidate-vibid:1001000190296": 24,
+      "gas:candidate-vibid:1001000225908": 468,
+      "gas:candidate-vibid:1001000136006": 73,
+      "gas:candidate-vibid:318300166875": 67,
+      "gas:candidate-vibid:318300166808": 24,
+      "gas:candidate-vibid:1001000254927": 84,
+      "gas:candidate-vibid:1001000113904": 227,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 169,
-      "Арефьев Анатолий Витальевич": 28,
-      "Богомольный Евгений Исаакович": 305,
-      "Евдокимов Виктор Николаевич": 45,
-      "Забильский Владимир Викторович": 79,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 92,
-      "Шумков Дмитрий Владимирович": 250,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000121803": 169,
+      "gas:candidate-vibid:1001000190296": 28,
+      "gas:candidate-vibid:1001000225908": 305,
+      "gas:candidate-vibid:1001000136006": 45,
+      "gas:candidate-vibid:318300166875": 79,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 92,
+      "gas:candidate-vibid:1001000113904": 250,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 131,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 286,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 55,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 69,
-      "Шумков Дмитрий Владимирович": 160,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000121803": 131,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 286,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 55,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 69,
+      "gas:candidate-vibid:1001000113904": 160,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 222,
-      "Арефьев Анатолий Витальевич": 27,
-      "Богомольный Евгений Исаакович": 394,
-      "Евдокимов Виктор Николаевич": 51,
-      "Забильский Владимир Викторович": 88,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 95,
-      "Шумков Дмитрий Владимирович": 246,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000121803": 222,
+      "gas:candidate-vibid:1001000190296": 27,
+      "gas:candidate-vibid:1001000225908": 394,
+      "gas:candidate-vibid:1001000136006": 51,
+      "gas:candidate-vibid:318300166875": 88,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 95,
+      "gas:candidate-vibid:1001000113904": 246,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 229,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 467,
-      "Евдокимов Виктор Николаевич": 77,
-      "Забильский Владимир Викторович": 90,
-      "Кулагин Евгений Александрович": 15,
-      "Шуклин Сергей Борисович": 89,
-      "Шумков Дмитрий Владимирович": 208,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000121803": 229,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 467,
+      "gas:candidate-vibid:1001000136006": 77,
+      "gas:candidate-vibid:318300166875": 90,
+      "gas:candidate-vibid:318300166808": 15,
+      "gas:candidate-vibid:1001000254927": 89,
+      "gas:candidate-vibid:1001000113904": 208,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 218,
-      "Арефьев Анатолий Витальевич": 36,
-      "Богомольный Евгений Исаакович": 468,
-      "Евдокимов Виктор Николаевич": 61,
-      "Забильский Владимир Викторович": 76,
-      "Кулагин Евгений Александрович": 15,
-      "Шуклин Сергей Борисович": 113,
-      "Шумков Дмитрий Владимирович": 245,
-      "Против всех": 416
+      "gas:candidate-vibid:1001000121803": 218,
+      "gas:candidate-vibid:1001000190296": 36,
+      "gas:candidate-vibid:1001000225908": 468,
+      "gas:candidate-vibid:1001000136006": 61,
+      "gas:candidate-vibid:318300166875": 76,
+      "gas:candidate-vibid:318300166808": 15,
+      "gas:candidate-vibid:1001000254927": 113,
+      "gas:candidate-vibid:1001000113904": 245,
+      "special:against-all": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 220,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 405,
-      "Евдокимов Виктор Николаевич": 71,
-      "Забильский Владимир Викторович": 39,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 69,
-      "Шумков Дмитрий Владимирович": 201,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000121803": 220,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 405,
+      "gas:candidate-vibid:1001000136006": 71,
+      "gas:candidate-vibid:318300166875": 39,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 69,
+      "gas:candidate-vibid:1001000113904": 201,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 266,
-      "Арефьев Анатолий Витальевич": 35,
-      "Богомольный Евгений Исаакович": 416,
-      "Евдокимов Виктор Николаевич": 56,
-      "Забильский Владимир Викторович": 61,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 70,
-      "Шумков Дмитрий Владимирович": 226,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000121803": 266,
+      "gas:candidate-vibid:1001000190296": 35,
+      "gas:candidate-vibid:1001000225908": 416,
+      "gas:candidate-vibid:1001000136006": 56,
+      "gas:candidate-vibid:318300166875": 61,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 70,
+      "gas:candidate-vibid:1001000113904": 226,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 209,
-      "Арефьев Анатолий Витальевич": 33,
-      "Богомольный Евгений Исаакович": 484,
-      "Евдокимов Виктор Николаевич": 60,
-      "Забильский Владимир Викторович": 66,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 59,
-      "Шумков Дмитрий Владимирович": 281,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000121803": 209,
+      "gas:candidate-vibid:1001000190296": 33,
+      "gas:candidate-vibid:1001000225908": 484,
+      "gas:candidate-vibid:1001000136006": 60,
+      "gas:candidate-vibid:318300166875": 66,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 59,
+      "gas:candidate-vibid:1001000113904": 281,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 230,
-      "Арефьев Анатолий Витальевич": 31,
-      "Богомольный Евгений Исаакович": 474,
-      "Евдокимов Виктор Николаевич": 71,
-      "Забильский Владимир Викторович": 87,
-      "Кулагин Евгений Александрович": 17,
-      "Шуклин Сергей Борисович": 89,
-      "Шумков Дмитрий Владимирович": 308,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000121803": 230,
+      "gas:candidate-vibid:1001000190296": 31,
+      "gas:candidate-vibid:1001000225908": 474,
+      "gas:candidate-vibid:1001000136006": 71,
+      "gas:candidate-vibid:318300166875": 87,
+      "gas:candidate-vibid:318300166808": 17,
+      "gas:candidate-vibid:1001000254927": 89,
+      "gas:candidate-vibid:1001000113904": 308,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 222,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 429,
-      "Евдокимов Виктор Николаевич": 64,
-      "Забильский Владимир Викторович": 69,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 45,
-      "Шумков Дмитрий Владимирович": 214,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000121803": 222,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 429,
+      "gas:candidate-vibid:1001000136006": 64,
+      "gas:candidate-vibid:318300166875": 69,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 45,
+      "gas:candidate-vibid:1001000113904": 214,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 281,
-      "Арефьев Анатолий Витальевич": 41,
-      "Богомольный Евгений Исаакович": 384,
-      "Евдокимов Виктор Николаевич": 63,
-      "Забильский Владимир Викторович": 74,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 77,
-      "Шумков Дмитрий Владимирович": 250,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000121803": 281,
+      "gas:candidate-vibid:1001000190296": 41,
+      "gas:candidate-vibid:1001000225908": 384,
+      "gas:candidate-vibid:1001000136006": 63,
+      "gas:candidate-vibid:318300166875": 74,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 77,
+      "gas:candidate-vibid:1001000113904": 250,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 271,
-      "Арефьев Анатолий Витальевич": 36,
-      "Богомольный Евгений Исаакович": 379,
-      "Евдокимов Виктор Николаевич": 54,
-      "Забильский Владимир Викторович": 49,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 106,
-      "Шумков Дмитрий Владимирович": 277,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000121803": 271,
+      "gas:candidate-vibid:1001000190296": 36,
+      "gas:candidate-vibid:1001000225908": 379,
+      "gas:candidate-vibid:1001000136006": 54,
+      "gas:candidate-vibid:318300166875": 49,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 106,
+      "gas:candidate-vibid:1001000113904": 277,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 138,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 269,
-      "Евдокимов Виктор Николаевич": 33,
-      "Забильский Владимир Викторович": 33,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 47,
-      "Шумков Дмитрий Владимирович": 171,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121803": 138,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 269,
+      "gas:candidate-vibid:1001000136006": 33,
+      "gas:candidate-vibid:318300166875": 33,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 47,
+      "gas:candidate-vibid:1001000113904": 171,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 207,
-      "Арефьев Анатолий Витальевич": 41,
-      "Богомольный Евгений Исаакович": 357,
-      "Евдокимов Виктор Николаевич": 59,
-      "Забильский Владимир Викторович": 58,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 66,
-      "Шумков Дмитрий Владимирович": 185,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000121803": 207,
+      "gas:candidate-vibid:1001000190296": 41,
+      "gas:candidate-vibid:1001000225908": 357,
+      "gas:candidate-vibid:1001000136006": 59,
+      "gas:candidate-vibid:318300166875": 58,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 66,
+      "gas:candidate-vibid:1001000113904": 185,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 202,
-      "Арефьев Анатолий Витальевич": 14,
-      "Богомольный Евгений Исаакович": 213,
-      "Евдокимов Виктор Николаевич": 47,
-      "Забильский Владимир Викторович": 83,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 94,
-      "Шумков Дмитрий Владимирович": 190,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121803": 202,
+      "gas:candidate-vibid:1001000190296": 14,
+      "gas:candidate-vibid:1001000225908": 213,
+      "gas:candidate-vibid:1001000136006": 47,
+      "gas:candidate-vibid:318300166875": 83,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 94,
+      "gas:candidate-vibid:1001000113904": 190,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 199,
-      "Арефьев Анатолий Витальевич": 31,
-      "Богомольный Евгений Исаакович": 252,
-      "Евдокимов Виктор Николаевич": 40,
-      "Забильский Владимир Викторович": 91,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 85,
-      "Шумков Дмитрий Владимирович": 169,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000121803": 199,
+      "gas:candidate-vibid:1001000190296": 31,
+      "gas:candidate-vibid:1001000225908": 252,
+      "gas:candidate-vibid:1001000136006": 40,
+      "gas:candidate-vibid:318300166875": 91,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 85,
+      "gas:candidate-vibid:1001000113904": 169,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 140,
-      "Арефьев Анатолий Витальевич": 17,
-      "Богомольный Евгений Исаакович": 258,
-      "Евдокимов Виктор Николаевич": 46,
-      "Забильский Владимир Викторович": 77,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 63,
-      "Шумков Дмитрий Владимирович": 154,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000121803": 140,
+      "gas:candidate-vibid:1001000190296": 17,
+      "gas:candidate-vibid:1001000225908": 258,
+      "gas:candidate-vibid:1001000136006": 46,
+      "gas:candidate-vibid:318300166875": 77,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 63,
+      "gas:candidate-vibid:1001000113904": 154,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 90,
-      "Арефьев Анатолий Витальевич": 9,
-      "Богомольный Евгений Исаакович": 164,
-      "Евдокимов Виктор Николаевич": 25,
-      "Забильский Владимир Викторович": 55,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 47,
-      "Шумков Дмитрий Владимирович": 122,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121803": 90,
+      "gas:candidate-vibid:1001000190296": 9,
+      "gas:candidate-vibid:1001000225908": 164,
+      "gas:candidate-vibid:1001000136006": 25,
+      "gas:candidate-vibid:318300166875": 55,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 47,
+      "gas:candidate-vibid:1001000113904": 122,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 189,
-      "Арефьев Анатолий Витальевич": 26,
-      "Богомольный Евгений Исаакович": 335,
-      "Евдокимов Виктор Николаевич": 42,
-      "Забильский Владимир Викторович": 76,
-      "Кулагин Евгений Александрович": 19,
-      "Шуклин Сергей Борисович": 94,
-      "Шумков Дмитрий Владимирович": 162,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000121803": 189,
+      "gas:candidate-vibid:1001000190296": 26,
+      "gas:candidate-vibid:1001000225908": 335,
+      "gas:candidate-vibid:1001000136006": 42,
+      "gas:candidate-vibid:318300166875": 76,
+      "gas:candidate-vibid:318300166808": 19,
+      "gas:candidate-vibid:1001000254927": 94,
+      "gas:candidate-vibid:1001000113904": 162,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 47,
-      "Арефьев Анатолий Витальевич": 6,
-      "Богомольный Евгений Исаакович": 159,
-      "Евдокимов Виктор Николаевич": 49,
-      "Забильский Владимир Викторович": 35,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 26,
-      "Шумков Дмитрий Владимирович": 67,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121803": 47,
+      "gas:candidate-vibid:1001000190296": 6,
+      "gas:candidate-vibid:1001000225908": 159,
+      "gas:candidate-vibid:1001000136006": 49,
+      "gas:candidate-vibid:318300166875": 35,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 26,
+      "gas:candidate-vibid:1001000113904": 67,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 153,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 249,
-      "Евдокимов Виктор Николаевич": 29,
-      "Забильский Владимир Викторович": 78,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 53,
-      "Шумков Дмитрий Владимирович": 114,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121803": 153,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 249,
+      "gas:candidate-vibid:1001000136006": 29,
+      "gas:candidate-vibid:318300166875": 78,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 53,
+      "gas:candidate-vibid:1001000113904": 114,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 84,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 134,
-      "Евдокимов Виктор Николаевич": 20,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 37,
-      "Шумков Дмитрий Владимирович": 88,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121803": 84,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 134,
+      "gas:candidate-vibid:1001000136006": 20,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 37,
+      "gas:candidate-vibid:1001000113904": 88,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 86,
-      "Арефьев Анатолий Витальевич": 12,
-      "Богомольный Евгений Исаакович": 130,
-      "Евдокимов Виктор Николаевич": 19,
-      "Забильский Владимир Викторович": 36,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 28,
-      "Шумков Дмитрий Владимирович": 81,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121803": 86,
+      "gas:candidate-vibid:1001000190296": 12,
+      "gas:candidate-vibid:1001000225908": 130,
+      "gas:candidate-vibid:1001000136006": 19,
+      "gas:candidate-vibid:318300166875": 36,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 28,
+      "gas:candidate-vibid:1001000113904": 81,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 204,
-      "Арефьев Анатолий Витальевич": 15,
-      "Богомольный Евгений Исаакович": 142,
-      "Евдокимов Виктор Николаевич": 20,
-      "Забильский Владимир Викторович": 45,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 46,
-      "Шумков Дмитрий Владимирович": 74,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121803": 204,
+      "gas:candidate-vibid:1001000190296": 15,
+      "gas:candidate-vibid:1001000225908": 142,
+      "gas:candidate-vibid:1001000136006": 20,
+      "gas:candidate-vibid:318300166875": 45,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 46,
+      "gas:candidate-vibid:1001000113904": 74,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 219,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 249,
-      "Евдокимов Виктор Николаевич": 43,
-      "Забильский Владимир Викторович": 77,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 93,
-      "Шумков Дмитрий Владимирович": 167,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121803": 219,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 249,
+      "gas:candidate-vibid:1001000136006": 43,
+      "gas:candidate-vibid:318300166875": 77,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 93,
+      "gas:candidate-vibid:1001000113904": 167,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 201,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 289,
-      "Евдокимов Виктор Николаевич": 32,
-      "Забильский Владимир Викторович": 58,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 81,
-      "Шумков Дмитрий Владимирович": 121,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000121803": 201,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 289,
+      "gas:candidate-vibid:1001000136006": 32,
+      "gas:candidate-vibid:318300166875": 58,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 81,
+      "gas:candidate-vibid:1001000113904": 121,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 224,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 307,
-      "Евдокимов Виктор Николаевич": 44,
-      "Забильский Владимир Викторович": 90,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 139,
-      "Шумков Дмитрий Владимирович": 226,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000121803": 224,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 307,
+      "gas:candidate-vibid:1001000136006": 44,
+      "gas:candidate-vibid:318300166875": 90,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 139,
+      "gas:candidate-vibid:1001000113904": 226,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 126,
-      "Арефьев Анатолий Витальевич": 19,
-      "Богомольный Евгений Исаакович": 227,
-      "Евдокимов Виктор Николаевич": 40,
-      "Забильский Владимир Викторович": 61,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 72,
-      "Шумков Дмитрий Владимирович": 132,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121803": 126,
+      "gas:candidate-vibid:1001000190296": 19,
+      "gas:candidate-vibid:1001000225908": 227,
+      "gas:candidate-vibid:1001000136006": 40,
+      "gas:candidate-vibid:318300166875": 61,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 72,
+      "gas:candidate-vibid:1001000113904": 132,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 130,
-      "Арефьев Анатолий Витальевич": 17,
-      "Богомольный Евгений Исаакович": 260,
-      "Евдокимов Виктор Николаевич": 37,
-      "Забильский Владимир Викторович": 62,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 41,
-      "Шумков Дмитрий Владимирович": 167,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121803": 130,
+      "gas:candidate-vibid:1001000190296": 17,
+      "gas:candidate-vibid:1001000225908": 260,
+      "gas:candidate-vibid:1001000136006": 37,
+      "gas:candidate-vibid:318300166875": 62,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 41,
+      "gas:candidate-vibid:1001000113904": 167,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 158,
-      "Арефьев Анатолий Витальевич": 13,
-      "Богомольный Евгений Исаакович": 250,
-      "Евдокимов Виктор Николаевич": 38,
-      "Забильский Владимир Викторович": 53,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 88,
-      "Шумков Дмитрий Владимирович": 148,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121803": 158,
+      "gas:candidate-vibid:1001000190296": 13,
+      "gas:candidate-vibid:1001000225908": 250,
+      "gas:candidate-vibid:1001000136006": 38,
+      "gas:candidate-vibid:318300166875": 53,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 88,
+      "gas:candidate-vibid:1001000113904": 148,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 268,
-      "Арефьев Анатолий Витальевич": 49,
-      "Богомольный Евгений Исаакович": 460,
-      "Евдокимов Виктор Николаевич": 73,
-      "Забильский Владимир Викторович": 121,
-      "Кулагин Евгений Александрович": 18,
-      "Шуклин Сергей Борисович": 128,
-      "Шумков Дмитрий Владимирович": 276,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000121803": 268,
+      "gas:candidate-vibid:1001000190296": 49,
+      "gas:candidate-vibid:1001000225908": 460,
+      "gas:candidate-vibid:1001000136006": 73,
+      "gas:candidate-vibid:318300166875": 121,
+      "gas:candidate-vibid:318300166808": 18,
+      "gas:candidate-vibid:1001000254927": 128,
+      "gas:candidate-vibid:1001000113904": 276,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 167,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 250,
-      "Евдокимов Виктор Николаевич": 57,
-      "Забильский Владимир Викторович": 57,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 82,
-      "Шумков Дмитрий Владимирович": 171,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000121803": 167,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 250,
+      "gas:candidate-vibid:1001000136006": 57,
+      "gas:candidate-vibid:318300166875": 57,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 82,
+      "gas:candidate-vibid:1001000113904": 171,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 229,
-      "Арефьев Анатолий Витальевич": 34,
-      "Богомольный Евгений Исаакович": 470,
-      "Евдокимов Виктор Николаевич": 58,
-      "Забильский Владимир Викторович": 95,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 78,
-      "Шумков Дмитрий Владимирович": 233,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000121803": 229,
+      "gas:candidate-vibid:1001000190296": 34,
+      "gas:candidate-vibid:1001000225908": 470,
+      "gas:candidate-vibid:1001000136006": 58,
+      "gas:candidate-vibid:318300166875": 95,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 78,
+      "gas:candidate-vibid:1001000113904": 233,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 198,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 413,
-      "Евдокимов Виктор Николаевич": 54,
-      "Забильский Владимир Викторович": 78,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 89,
-      "Шумков Дмитрий Владимирович": 218,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000121803": 198,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 413,
+      "gas:candidate-vibid:1001000136006": 54,
+      "gas:candidate-vibid:318300166875": 78,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 89,
+      "gas:candidate-vibid:1001000113904": 218,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 197,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 413,
-      "Евдокимов Виктор Николаевич": 44,
-      "Забильский Владимир Викторович": 104,
-      "Кулагин Евгений Александрович": 18,
-      "Шуклин Сергей Борисович": 63,
-      "Шумков Дмитрий Владимирович": 252,
-      "Против всех": 367
+      "gas:candidate-vibid:1001000121803": 197,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 413,
+      "gas:candidate-vibid:1001000136006": 44,
+      "gas:candidate-vibid:318300166875": 104,
+      "gas:candidate-vibid:318300166808": 18,
+      "gas:candidate-vibid:1001000254927": 63,
+      "gas:candidate-vibid:1001000113904": 252,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 151,
-      "Арефьев Анатолий Витальевич": 26,
-      "Богомольный Евгений Исаакович": 298,
-      "Евдокимов Виктор Николаевич": 43,
-      "Забильский Владимир Викторович": 88,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 72,
-      "Шумков Дмитрий Владимирович": 150,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000121803": 151,
+      "gas:candidate-vibid:1001000190296": 26,
+      "gas:candidate-vibid:1001000225908": 298,
+      "gas:candidate-vibid:1001000136006": 43,
+      "gas:candidate-vibid:318300166875": 88,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 72,
+      "gas:candidate-vibid:1001000113904": 150,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 193,
-      "Арефьев Анатолий Витальевич": 35,
-      "Богомольный Евгений Исаакович": 383,
-      "Евдокимов Виктор Николаевич": 54,
-      "Забильский Владимир Викторович": 113,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 123,
-      "Шумков Дмитрий Владимирович": 239,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000121803": 193,
+      "gas:candidate-vibid:1001000190296": 35,
+      "gas:candidate-vibid:1001000225908": 383,
+      "gas:candidate-vibid:1001000136006": 54,
+      "gas:candidate-vibid:318300166875": 113,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 123,
+      "gas:candidate-vibid:1001000113904": 239,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 255,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 299,
-      "Евдокимов Виктор Николаевич": 55,
-      "Забильский Владимир Викторович": 95,
-      "Кулагин Евгений Александрович": 14,
-      "Шуклин Сергей Борисович": 97,
-      "Шумков Дмитрий Владимирович": 165,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000121803": 255,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 299,
+      "gas:candidate-vibid:1001000136006": 55,
+      "gas:candidate-vibid:318300166875": 95,
+      "gas:candidate-vibid:318300166808": 14,
+      "gas:candidate-vibid:1001000254927": 97,
+      "gas:candidate-vibid:1001000113904": 165,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 261,
-      "Арефьев Анатолий Витальевич": 33,
-      "Богомольный Евгений Исаакович": 366,
-      "Евдокимов Виктор Николаевич": 51,
-      "Забильский Владимир Викторович": 94,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 68,
-      "Шумков Дмитрий Владимирович": 276,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000121803": 261,
+      "gas:candidate-vibid:1001000190296": 33,
+      "gas:candidate-vibid:1001000225908": 366,
+      "gas:candidate-vibid:1001000136006": 51,
+      "gas:candidate-vibid:318300166875": 94,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 68,
+      "gas:candidate-vibid:1001000113904": 276,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 200,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 476,
-      "Евдокимов Виктор Николаевич": 70,
-      "Забильский Владимир Викторович": 88,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 87,
-      "Шумков Дмитрий Владимирович": 308,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000121803": 200,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 476,
+      "gas:candidate-vibid:1001000136006": 70,
+      "gas:candidate-vibid:318300166875": 88,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 87,
+      "gas:candidate-vibid:1001000113904": 308,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 148,
-      "Арефьев Анатолий Витальевич": 27,
-      "Богомольный Евгений Исаакович": 463,
-      "Евдокимов Виктор Николаевич": 36,
-      "Забильский Владимир Викторович": 244,
-      "Кулагин Евгений Александрович": 11,
-      "Шуклин Сергей Борисович": 92,
-      "Шумков Дмитрий Владимирович": 224,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000121803": 148,
+      "gas:candidate-vibid:1001000190296": 27,
+      "gas:candidate-vibid:1001000225908": 463,
+      "gas:candidate-vibid:1001000136006": 36,
+      "gas:candidate-vibid:318300166875": 244,
+      "gas:candidate-vibid:318300166808": 11,
+      "gas:candidate-vibid:1001000254927": 92,
+      "gas:candidate-vibid:1001000113904": 224,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 209,
-      "Арефьев Анатолий Витальевич": 30,
-      "Богомольный Евгений Исаакович": 387,
-      "Евдокимов Виктор Николаевич": 48,
-      "Забильский Владимир Викторович": 252,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 49,
-      "Шумков Дмитрий Владимирович": 218,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000121803": 209,
+      "gas:candidate-vibid:1001000190296": 30,
+      "gas:candidate-vibid:1001000225908": 387,
+      "gas:candidate-vibid:1001000136006": 48,
+      "gas:candidate-vibid:318300166875": 252,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 49,
+      "gas:candidate-vibid:1001000113904": 218,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 184,
-      "Арефьев Анатолий Витальевич": 26,
-      "Богомольный Евгений Исаакович": 476,
-      "Евдокимов Виктор Николаевич": 67,
-      "Забильский Владимир Викторович": 247,
-      "Кулагин Евгений Александрович": 10,
-      "Шуклин Сергей Борисович": 62,
-      "Шумков Дмитрий Владимирович": 250,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000121803": 184,
+      "gas:candidate-vibid:1001000190296": 26,
+      "gas:candidate-vibid:1001000225908": 476,
+      "gas:candidate-vibid:1001000136006": 67,
+      "gas:candidate-vibid:318300166875": 247,
+      "gas:candidate-vibid:318300166808": 10,
+      "gas:candidate-vibid:1001000254927": 62,
+      "gas:candidate-vibid:1001000113904": 250,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 129,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 276,
-      "Евдокимов Виктор Николаевич": 40,
-      "Забильский Владимир Викторович": 154,
-      "Кулагин Евгений Александрович": 5,
-      "Шуклин Сергей Борисович": 36,
-      "Шумков Дмитрий Владимирович": 129,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000121803": 129,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 276,
+      "gas:candidate-vibid:1001000136006": 40,
+      "gas:candidate-vibid:318300166875": 154,
+      "gas:candidate-vibid:318300166808": 5,
+      "gas:candidate-vibid:1001000254927": 36,
+      "gas:candidate-vibid:1001000113904": 129,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 186,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 419,
-      "Евдокимов Виктор Николаевич": 50,
-      "Забильский Владимир Викторович": 277,
-      "Кулагин Евгений Александрович": 16,
-      "Шуклин Сергей Борисович": 92,
-      "Шумков Дмитрий Владимирович": 261,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000121803": 186,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 419,
+      "gas:candidate-vibid:1001000136006": 50,
+      "gas:candidate-vibid:318300166875": 277,
+      "gas:candidate-vibid:318300166808": 16,
+      "gas:candidate-vibid:1001000254927": 92,
+      "gas:candidate-vibid:1001000113904": 261,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 191,
-      "Арефьев Анатолий Витальевич": 24,
-      "Богомольный Евгений Исаакович": 303,
-      "Евдокимов Виктор Николаевич": 53,
-      "Забильский Владимир Викторович": 138,
-      "Кулагин Евгений Александрович": 12,
-      "Шуклин Сергей Борисович": 61,
-      "Шумков Дмитрий Владимирович": 167,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000121803": 191,
+      "gas:candidate-vibid:1001000190296": 24,
+      "gas:candidate-vibid:1001000225908": 303,
+      "gas:candidate-vibid:1001000136006": 53,
+      "gas:candidate-vibid:318300166875": 138,
+      "gas:candidate-vibid:318300166808": 12,
+      "gas:candidate-vibid:1001000254927": 61,
+      "gas:candidate-vibid:1001000113904": 167,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 19,
-      "Арефьев Анатолий Витальевич": 4,
-      "Богомольный Евгений Исаакович": 87,
-      "Евдокимов Виктор Николаевич": 13,
-      "Забильский Владимир Викторович": 10,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 5,
-      "Шумков Дмитрий Владимирович": 36,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121803": 19,
+      "gas:candidate-vibid:1001000190296": 4,
+      "gas:candidate-vibid:1001000225908": 87,
+      "gas:candidate-vibid:1001000136006": 13,
+      "gas:candidate-vibid:318300166875": 10,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 5,
+      "gas:candidate-vibid:1001000113904": 36,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 12,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 70,
-      "Евдокимов Виктор Николаевич": 6,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 14,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121803": 12,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 70,
+      "gas:candidate-vibid:1001000136006": 6,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 14,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 11,
-      "Арефьев Анатолий Витальевич": 10,
-      "Богомольный Евгений Исаакович": 142,
-      "Евдокимов Виктор Николаевич": 16,
-      "Забильский Владимир Викторович": 2,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 21,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121803": 11,
+      "gas:candidate-vibid:1001000190296": 10,
+      "gas:candidate-vibid:1001000225908": 142,
+      "gas:candidate-vibid:1001000136006": 16,
+      "gas:candidate-vibid:318300166875": 2,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 21,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 10,
-      "Арефьев Анатолий Витальевич": 5,
-      "Богомольный Евгений Исаакович": 39,
-      "Евдокимов Виктор Николаевич": 4,
-      "Забильский Владимир Викторович": 5,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 16,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121803": 10,
+      "gas:candidate-vibid:1001000190296": 5,
+      "gas:candidate-vibid:1001000225908": 39,
+      "gas:candidate-vibid:1001000136006": 4,
+      "gas:candidate-vibid:318300166875": 5,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 16,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 69,
-      "Арефьев Анатолий Витальевич": 11,
-      "Богомольный Евгений Исаакович": 135,
-      "Евдокимов Виктор Николаевич": 24,
-      "Забильский Владимир Викторович": 50,
-      "Кулагин Евгений Александрович": 3,
-      "Шуклин Сергей Борисович": 17,
-      "Шумков Дмитрий Владимирович": 89,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121803": 69,
+      "gas:candidate-vibid:1001000190296": 11,
+      "gas:candidate-vibid:1001000225908": 135,
+      "gas:candidate-vibid:1001000136006": 24,
+      "gas:candidate-vibid:318300166875": 50,
+      "gas:candidate-vibid:318300166808": 3,
+      "gas:candidate-vibid:1001000254927": 17,
+      "gas:candidate-vibid:1001000113904": 89,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 25,
-      "Арефьев Анатолий Витальевич": 1,
-      "Богомольный Евгений Исаакович": 55,
-      "Евдокимов Виктор Николаевич": 1,
-      "Забильский Владимир Викторович": 10,
-      "Кулагин Евгений Александрович": 2,
-      "Шуклин Сергей Борисович": 10,
-      "Шумков Дмитрий Владимирович": 20,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121803": 25,
+      "gas:candidate-vibid:1001000190296": 1,
+      "gas:candidate-vibid:1001000225908": 55,
+      "gas:candidate-vibid:1001000136006": 1,
+      "gas:candidate-vibid:318300166875": 10,
+      "gas:candidate-vibid:318300166808": 2,
+      "gas:candidate-vibid:1001000254927": 10,
+      "gas:candidate-vibid:1001000113904": 20,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 298,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 363,
-      "Евдокимов Виктор Николаевич": 61,
-      "Забильский Владимир Викторович": 104,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 79,
-      "Шумков Дмитрий Владимирович": 304,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000121803": 298,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 363,
+      "gas:candidate-vibid:1001000136006": 61,
+      "gas:candidate-vibid:318300166875": 104,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 79,
+      "gas:candidate-vibid:1001000113904": 304,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 37,
-      "Евдокимов Виктор Николаевич": 2,
-      "Забильский Владимир Викторович": 23,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 4,
-      "Шумков Дмитрий Владимирович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121803": 9,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 37,
+      "gas:candidate-vibid:1001000136006": 2,
+      "gas:candidate-vibid:318300166875": 23,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 4,
+      "gas:candidate-vibid:1001000113904": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 79,
-      "Арефьев Анатолий Витальевич": 20,
-      "Богомольный Евгений Исаакович": 199,
-      "Евдокимов Виктор Николаевич": 20,
-      "Забильский Владимир Викторович": 35,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 26,
-      "Шумков Дмитрий Владимирович": 134,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121803": 79,
+      "gas:candidate-vibid:1001000190296": 20,
+      "gas:candidate-vibid:1001000225908": 199,
+      "gas:candidate-vibid:1001000136006": 20,
+      "gas:candidate-vibid:318300166875": 35,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 26,
+      "gas:candidate-vibid:1001000113904": 134,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 5,
-      "Арефьев Анатолий Витальевич": 2,
-      "Богомольный Евгений Исаакович": 7,
-      "Евдокимов Виктор Николаевич": 1,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 3,
-      "Шумков Дмитрий Владимирович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121803": 5,
+      "gas:candidate-vibid:1001000190296": 2,
+      "gas:candidate-vibid:1001000225908": 7,
+      "gas:candidate-vibid:1001000136006": 1,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 3,
+      "gas:candidate-vibid:1001000113904": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 2,
-      "Арефьев Анатолий Витальевич": 0,
-      "Богомольный Евгений Исаакович": 27,
-      "Евдокимов Виктор Николаевич": 0,
-      "Забильский Владимир Викторович": 1,
-      "Кулагин Евгений Александрович": 0,
-      "Шуклин Сергей Борисович": 1,
-      "Шумков Дмитрий Владимирович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121803": 2,
+      "gas:candidate-vibid:1001000190296": 0,
+      "gas:candidate-vibid:1001000225908": 27,
+      "gas:candidate-vibid:1001000136006": 0,
+      "gas:candidate-vibid:318300166875": 1,
+      "gas:candidate-vibid:318300166808": 0,
+      "gas:candidate-vibid:1001000254927": 1,
+      "gas:candidate-vibid:1001000113904": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066631&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 113,
-      "Арефьев Анатолий Витальевич": 33,
-      "Богомольный Евгений Исаакович": 250,
-      "Евдокимов Виктор Николаевич": 43,
-      "Забильский Владимир Викторович": 48,
-      "Кулагин Евгений Александрович": 4,
-      "Шуклин Сергей Борисович": 37,
-      "Шумков Дмитрий Владимирович": 120,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121803": 113,
+      "gas:candidate-vibid:1001000190296": 33,
+      "gas:candidate-vibid:1001000225908": 250,
+      "gas:candidate-vibid:1001000136006": 43,
+      "gas:candidate-vibid:318300166875": 48,
+      "gas:candidate-vibid:318300166808": 4,
+      "gas:candidate-vibid:1001000254927": 37,
+      "gas:candidate-vibid:1001000113904": 120,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 193,
-      "Арефьев Анатолий Витальевич": 21,
-      "Богомольный Евгений Исаакович": 436,
-      "Евдокимов Виктор Николаевич": 63,
-      "Забильский Владимир Викторович": 69,
-      "Кулагин Евгений Александрович": 9,
-      "Шуклин Сергей Борисович": 79,
-      "Шумков Дмитрий Владимирович": 162,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000121803": 193,
+      "gas:candidate-vibid:1001000190296": 21,
+      "gas:candidate-vibid:1001000225908": 436,
+      "gas:candidate-vibid:1001000136006": 63,
+      "gas:candidate-vibid:318300166875": 69,
+      "gas:candidate-vibid:318300166808": 9,
+      "gas:candidate-vibid:1001000254927": 79,
+      "gas:candidate-vibid:1001000113904": 162,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 126,
-      "Арефьев Анатолий Витальевич": 25,
-      "Богомольный Евгений Исаакович": 249,
-      "Евдокимов Виктор Николаевич": 64,
-      "Забильский Владимир Викторович": 53,
-      "Кулагин Евгений Александрович": 13,
-      "Шуклин Сергей Борисович": 97,
-      "Шумков Дмитрий Владимирович": 181,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121803": 126,
+      "gas:candidate-vibid:1001000190296": 25,
+      "gas:candidate-vibid:1001000225908": 249,
+      "gas:candidate-vibid:1001000136006": 64,
+      "gas:candidate-vibid:318300166875": 53,
+      "gas:candidate-vibid:318300166808": 13,
+      "gas:candidate-vibid:1001000254927": 97,
+      "gas:candidate-vibid:1001000113904": 181,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 177,
-      "Арефьев Анатолий Витальевич": 31,
-      "Богомольный Евгений Исаакович": 417,
-      "Евдокимов Виктор Николаевич": 67,
-      "Забильский Владимир Викторович": 93,
-      "Кулагин Евгений Александрович": 16,
-      "Шуклин Сергей Борисович": 70,
-      "Шумков Дмитрий Владимирович": 161,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000121803": 177,
+      "gas:candidate-vibid:1001000190296": 31,
+      "gas:candidate-vibid:1001000225908": 417,
+      "gas:candidate-vibid:1001000136006": 67,
+      "gas:candidate-vibid:318300166875": 93,
+      "gas:candidate-vibid:318300166808": 16,
+      "gas:candidate-vibid:1001000254927": 70,
+      "gas:candidate-vibid:1001000113904": 161,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 179,
-      "Арефьев Анатолий Витальевич": 18,
-      "Богомольный Евгений Исаакович": 236,
-      "Евдокимов Виктор Николаевич": 27,
-      "Забильский Владимир Викторович": 92,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 58,
-      "Шумков Дмитрий Владимирович": 136,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121803": 179,
+      "gas:candidate-vibid:1001000190296": 18,
+      "gas:candidate-vibid:1001000225908": 236,
+      "gas:candidate-vibid:1001000136006": 27,
+      "gas:candidate-vibid:318300166875": 92,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 58,
+      "gas:candidate-vibid:1001000113904": 136,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 225,
-      "Арефьев Анатолий Витальевич": 23,
-      "Богомольный Евгений Исаакович": 271,
-      "Евдокимов Виктор Николаевич": 43,
-      "Забильский Владимир Викторович": 73,
-      "Кулагин Евгений Александрович": 6,
-      "Шуклин Сергей Борисович": 39,
-      "Шумков Дмитрий Владимирович": 113,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000121803": 225,
+      "gas:candidate-vibid:1001000190296": 23,
+      "gas:candidate-vibid:1001000225908": 271,
+      "gas:candidate-vibid:1001000136006": 43,
+      "gas:candidate-vibid:318300166875": 73,
+      "gas:candidate-vibid:318300166808": 6,
+      "gas:candidate-vibid:1001000254927": 39,
+      "gas:candidate-vibid:1001000113904": 113,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 208,
-      "Арефьев Анатолий Витальевич": 47,
-      "Богомольный Евгений Исаакович": 300,
-      "Евдокимов Виктор Николаевич": 52,
-      "Забильский Владимир Викторович": 115,
-      "Кулагин Евгений Александрович": 7,
-      "Шуклин Сергей Борисович": 93,
-      "Шумков Дмитрий Владимирович": 148,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000121803": 208,
+      "gas:candidate-vibid:1001000190296": 47,
+      "gas:candidate-vibid:1001000225908": 300,
+      "gas:candidate-vibid:1001000136006": 52,
+      "gas:candidate-vibid:318300166875": 115,
+      "gas:candidate-vibid:318300166808": 7,
+      "gas:candidate-vibid:1001000254927": 93,
+      "gas:candidate-vibid:1001000113904": 148,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_18_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 159,
-      "Арефьев Анатолий Витальевич": 29,
-      "Богомольный Евгений Исаакович": 341,
-      "Евдокимов Виктор Николаевич": 33,
-      "Забильский Владимир Викторович": 125,
-      "Кулагин Евгений Александрович": 8,
-      "Шуклин Сергей Борисович": 86,
-      "Шумков Дмитрий Владимирович": 161,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000121803": 159,
+      "gas:candidate-vibid:1001000190296": 29,
+      "gas:candidate-vibid:1001000225908": 341,
+      "gas:candidate-vibid:1001000136006": 33,
+      "gas:candidate-vibid:318300166875": 125,
+      "gas:candidate-vibid:318300166808": 8,
+      "gas:candidate-vibid:1001000254927": 86,
+      "gas:candidate-vibid:1001000113904": 161,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066632&region=0&sub_region=0&type=429",

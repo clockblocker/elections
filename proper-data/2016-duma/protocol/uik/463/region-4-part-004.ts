@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 3,
-      "Дамдинов Алдар Валерьевич": 364,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 16,
-      "Цыденов Баяр Бимбаевич": 4,
-      "Цыренов Баир Цыденович": 31
+      "gas:candidate-vibid:2032000701970": 3,
+      "gas:candidate-vibid:2032000700866": 364,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 16,
+      "gas:candidate-vibid:2032000700791": 4,
+      "gas:candidate-vibid:2032000700096": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653546&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653546&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 2,
-      "Дамдинов Алдар Валерьевич": 139,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 35,
-      "Цыденов Баяр Бимбаевич": 5,
-      "Цыренов Баир Цыденович": 26
+      "gas:candidate-vibid:2032000701970": 2,
+      "gas:candidate-vibid:2032000700866": 139,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 35,
+      "gas:candidate-vibid:2032000700791": 5,
+      "gas:candidate-vibid:2032000700096": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653546&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653546&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 77,
-      "Дамдинов Алдар Валерьевич": 411,
-      "Дорош Сергей Дмитриевич": 41,
-      "Слипенчук Михаил Викторович": 122,
-      "Цыденов Баяр Бимбаевич": 15,
-      "Цыренов Баир Цыденович": 100
+      "gas:candidate-vibid:2032000701970": 77,
+      "gas:candidate-vibid:2032000700866": 411,
+      "gas:candidate-vibid:2032000679092": 41,
+      "gas:candidate-vibid:2032000701434": 122,
+      "gas:candidate-vibid:2032000700791": 15,
+      "gas:candidate-vibid:2032000700096": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 56,
-      "Дамдинов Алдар Валерьевич": 301,
-      "Дорош Сергей Дмитриевич": 39,
-      "Слипенчук Михаил Викторович": 98,
-      "Цыденов Баяр Бимбаевич": 9,
-      "Цыренов Баир Цыденович": 82
+      "gas:candidate-vibid:2032000701970": 56,
+      "gas:candidate-vibid:2032000700866": 301,
+      "gas:candidate-vibid:2032000679092": 39,
+      "gas:candidate-vibid:2032000701434": 98,
+      "gas:candidate-vibid:2032000700791": 9,
+      "gas:candidate-vibid:2032000700096": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 15,
-      "Дамдинов Алдар Валерьевич": 65,
-      "Дорош Сергей Дмитриевич": 10,
-      "Слипенчук Михаил Викторович": 33,
-      "Цыденов Баяр Бимбаевич": 5,
-      "Цыренов Баир Цыденович": 29
+      "gas:candidate-vibid:2032000701970": 15,
+      "gas:candidate-vibid:2032000700866": 65,
+      "gas:candidate-vibid:2032000679092": 10,
+      "gas:candidate-vibid:2032000701434": 33,
+      "gas:candidate-vibid:2032000700791": 5,
+      "gas:candidate-vibid:2032000700096": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 67,
-      "Дамдинов Алдар Валерьевич": 237,
-      "Дорош Сергей Дмитриевич": 34,
-      "Слипенчук Михаил Викторович": 156,
-      "Цыденов Баяр Бимбаевич": 12,
-      "Цыренов Баир Цыденович": 78
+      "gas:candidate-vibid:2032000701970": 67,
+      "gas:candidate-vibid:2032000700866": 237,
+      "gas:candidate-vibid:2032000679092": 34,
+      "gas:candidate-vibid:2032000701434": 156,
+      "gas:candidate-vibid:2032000700791": 12,
+      "gas:candidate-vibid:2032000700096": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 74,
-      "Дамдинов Алдар Валерьевич": 287,
-      "Дорош Сергей Дмитриевич": 37,
-      "Слипенчук Михаил Викторович": 155,
-      "Цыденов Баяр Бимбаевич": 87,
-      "Цыренов Баир Цыденович": 18
+      "gas:candidate-vibid:2032000701970": 74,
+      "gas:candidate-vibid:2032000700866": 287,
+      "gas:candidate-vibid:2032000679092": 37,
+      "gas:candidate-vibid:2032000701434": 155,
+      "gas:candidate-vibid:2032000700791": 87,
+      "gas:candidate-vibid:2032000700096": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 43,
-      "Дамдинов Алдар Валерьевич": 155,
-      "Дорош Сергей Дмитриевич": 23,
-      "Слипенчук Михаил Викторович": 102,
-      "Цыденов Баяр Бимбаевич": 9,
-      "Цыренов Баир Цыденович": 36
+      "gas:candidate-vibid:2032000701970": 43,
+      "gas:candidate-vibid:2032000700866": 155,
+      "gas:candidate-vibid:2032000679092": 23,
+      "gas:candidate-vibid:2032000701434": 102,
+      "gas:candidate-vibid:2032000700791": 9,
+      "gas:candidate-vibid:2032000700096": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 23,
-      "Дамдинов Алдар Валерьевич": 111,
-      "Дорош Сергей Дмитриевич": 18,
-      "Слипенчук Михаил Викторович": 51,
-      "Цыденов Баяр Бимбаевич": 3,
-      "Цыренов Баир Цыденович": 27
+      "gas:candidate-vibid:2032000701970": 23,
+      "gas:candidate-vibid:2032000700866": 111,
+      "gas:candidate-vibid:2032000679092": 18,
+      "gas:candidate-vibid:2032000701434": 51,
+      "gas:candidate-vibid:2032000700791": 3,
+      "gas:candidate-vibid:2032000700096": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 44,
-      "Дамдинов Алдар Валерьевич": 173,
-      "Дорош Сергей Дмитриевич": 35,
-      "Слипенчук Михаил Викторович": 80,
-      "Цыденов Баяр Бимбаевич": 6,
-      "Цыренов Баир Цыденович": 71
+      "gas:candidate-vibid:2032000701970": 44,
+      "gas:candidate-vibid:2032000700866": 173,
+      "gas:candidate-vibid:2032000679092": 35,
+      "gas:candidate-vibid:2032000701434": 80,
+      "gas:candidate-vibid:2032000700791": 6,
+      "gas:candidate-vibid:2032000700096": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 9,
-      "Дамдинов Алдар Валерьевич": 26,
-      "Дорош Сергей Дмитриевич": 10,
-      "Слипенчук Михаил Викторович": 19,
-      "Цыденов Баяр Бимбаевич": 1,
-      "Цыренов Баир Цыденович": 6
+      "gas:candidate-vibid:2032000701970": 9,
+      "gas:candidate-vibid:2032000700866": 26,
+      "gas:candidate-vibid:2032000679092": 10,
+      "gas:candidate-vibid:2032000701434": 19,
+      "gas:candidate-vibid:2032000700791": 1,
+      "gas:candidate-vibid:2032000700096": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 55,
-      "Дамдинов Алдар Валерьевич": 137,
-      "Дорош Сергей Дмитриевич": 35,
-      "Слипенчук Михаил Викторович": 38,
-      "Цыденов Баяр Бимбаевич": 12,
-      "Цыренов Баир Цыденович": 26
+      "gas:candidate-vibid:2032000701970": 55,
+      "gas:candidate-vibid:2032000700866": 137,
+      "gas:candidate-vibid:2032000679092": 35,
+      "gas:candidate-vibid:2032000701434": 38,
+      "gas:candidate-vibid:2032000700791": 12,
+      "gas:candidate-vibid:2032000700096": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 64,
-      "Дамдинов Алдар Валерьевич": 215,
-      "Дорош Сергей Дмитриевич": 53,
-      "Слипенчук Михаил Викторович": 46,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 54
+      "gas:candidate-vibid:2032000701970": 64,
+      "gas:candidate-vibid:2032000700866": 215,
+      "gas:candidate-vibid:2032000679092": 53,
+      "gas:candidate-vibid:2032000701434": 46,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 5,
-      "Дамдинов Алдар Валерьевич": 214,
-      "Дорош Сергей Дмитриевич": 0,
-      "Слипенчук Михаил Викторович": 25,
-      "Цыденов Баяр Бимбаевич": 4,
-      "Цыренов Баир Цыденович": 24
+      "gas:candidate-vibid:2032000701970": 5,
+      "gas:candidate-vibid:2032000700866": 214,
+      "gas:candidate-vibid:2032000679092": 0,
+      "gas:candidate-vibid:2032000701434": 25,
+      "gas:candidate-vibid:2032000700791": 4,
+      "gas:candidate-vibid:2032000700096": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 1,
-      "Дамдинов Алдар Валерьевич": 37,
-      "Дорош Сергей Дмитриевич": 0,
-      "Слипенчук Михаил Викторович": 7,
-      "Цыденов Баяр Бимбаевич": 2,
-      "Цыренов Баир Цыденович": 21
+      "gas:candidate-vibid:2032000701970": 1,
+      "gas:candidate-vibid:2032000700866": 37,
+      "gas:candidate-vibid:2032000679092": 0,
+      "gas:candidate-vibid:2032000701434": 7,
+      "gas:candidate-vibid:2032000700791": 2,
+      "gas:candidate-vibid:2032000700096": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 8,
-      "Дамдинов Алдар Валерьевич": 152,
-      "Дорош Сергей Дмитриевич": 9,
-      "Слипенчук Михаил Викторович": 33,
-      "Цыденов Баяр Бимбаевич": 7,
-      "Цыренов Баир Цыденович": 29
+      "gas:candidate-vibid:2032000701970": 8,
+      "gas:candidate-vibid:2032000700866": 152,
+      "gas:candidate-vibid:2032000679092": 9,
+      "gas:candidate-vibid:2032000701434": 33,
+      "gas:candidate-vibid:2032000700791": 7,
+      "gas:candidate-vibid:2032000700096": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 1,
-      "Дамдинов Алдар Валерьевич": 47,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 20,
-      "Цыденов Баяр Бимбаевич": 2,
-      "Цыренов Баир Цыденович": 11
+      "gas:candidate-vibid:2032000701970": 1,
+      "gas:candidate-vibid:2032000700866": 47,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 20,
+      "gas:candidate-vibid:2032000700791": 2,
+      "gas:candidate-vibid:2032000700096": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 1,
-      "Дамдинов Алдар Валерьевич": 75,
-      "Дорош Сергей Дмитриевич": 0,
-      "Слипенчук Михаил Викторович": 16,
-      "Цыденов Баяр Бимбаевич": 7,
-      "Цыренов Баир Цыденович": 4
+      "gas:candidate-vibid:2032000701970": 1,
+      "gas:candidate-vibid:2032000700866": 75,
+      "gas:candidate-vibid:2032000679092": 0,
+      "gas:candidate-vibid:2032000701434": 16,
+      "gas:candidate-vibid:2032000700791": 7,
+      "gas:candidate-vibid:2032000700096": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 4,
-      "Дамдинов Алдар Валерьевич": 68,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 8,
-      "Цыденов Баяр Бимбаевич": 3,
-      "Цыренов Баир Цыденович": 3
+      "gas:candidate-vibid:2032000701970": 4,
+      "gas:candidate-vibid:2032000700866": 68,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 8,
+      "gas:candidate-vibid:2032000700791": 3,
+      "gas:candidate-vibid:2032000700096": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 45,
-      "Дамдинов Алдар Валерьевич": 109,
-      "Дорош Сергей Дмитриевич": 34,
-      "Слипенчук Михаил Викторович": 60,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 55
+      "gas:candidate-vibid:2032000701970": 45,
+      "gas:candidate-vibid:2032000700866": 109,
+      "gas:candidate-vibid:2032000679092": 34,
+      "gas:candidate-vibid:2032000701434": 60,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 17,
-      "Дамдинов Алдар Валерьевич": 95,
-      "Дорош Сергей Дмитриевич": 14,
-      "Слипенчук Михаил Викторович": 14,
-      "Цыденов Баяр Бимбаевич": 10,
-      "Цыренов Баир Цыденович": 45
+      "gas:candidate-vibid:2032000701970": 17,
+      "gas:candidate-vibid:2032000700866": 95,
+      "gas:candidate-vibid:2032000679092": 14,
+      "gas:candidate-vibid:2032000701434": 14,
+      "gas:candidate-vibid:2032000700791": 10,
+      "gas:candidate-vibid:2032000700096": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 1,
-      "Дамдинов Алдар Валерьевич": 4,
-      "Дорош Сергей Дмитриевич": 6,
-      "Слипенчук Михаил Викторович": 9,
-      "Цыденов Баяр Бимбаевич": 1,
-      "Цыренов Баир Цыденович": 3
+      "gas:candidate-vibid:2032000701970": 1,
+      "gas:candidate-vibid:2032000700866": 4,
+      "gas:candidate-vibid:2032000679092": 6,
+      "gas:candidate-vibid:2032000701434": 9,
+      "gas:candidate-vibid:2032000700791": 1,
+      "gas:candidate-vibid:2032000700096": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 20,
-      "Дамдинов Алдар Валерьевич": 512,
-      "Дорош Сергей Дмитриевич": 15,
-      "Слипенчук Михаил Викторович": 165,
-      "Цыденов Баяр Бимбаевич": 18,
-      "Цыренов Баир Цыденович": 116
+      "gas:candidate-vibid:2032000701970": 20,
+      "gas:candidate-vibid:2032000700866": 512,
+      "gas:candidate-vibid:2032000679092": 15,
+      "gas:candidate-vibid:2032000701434": 165,
+      "gas:candidate-vibid:2032000700791": 18,
+      "gas:candidate-vibid:2032000700096": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 1,
-      "Дамдинов Алдар Валерьевич": 131,
-      "Дорош Сергей Дмитриевич": 1,
-      "Слипенчук Михаил Викторович": 21,
-      "Цыденов Баяр Бимбаевич": 5,
-      "Цыренов Баир Цыденович": 50
+      "gas:candidate-vibid:2032000701970": 1,
+      "gas:candidate-vibid:2032000700866": 131,
+      "gas:candidate-vibid:2032000679092": 1,
+      "gas:candidate-vibid:2032000701434": 21,
+      "gas:candidate-vibid:2032000700791": 5,
+      "gas:candidate-vibid:2032000700096": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 75,
-      "Дамдинов Алдар Валерьевич": 264,
-      "Дорош Сергей Дмитриевич": 43,
-      "Слипенчук Михаил Викторович": 92,
-      "Цыденов Баяр Бимбаевич": 14,
-      "Цыренов Баир Цыденович": 87
+      "gas:candidate-vibid:2032000701970": 75,
+      "gas:candidate-vibid:2032000700866": 264,
+      "gas:candidate-vibid:2032000679092": 43,
+      "gas:candidate-vibid:2032000701434": 92,
+      "gas:candidate-vibid:2032000700791": 14,
+      "gas:candidate-vibid:2032000700096": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 81,
-      "Дамдинов Алдар Валерьевич": 131,
-      "Дорош Сергей Дмитриевич": 40,
-      "Слипенчук Михаил Викторович": 71,
-      "Цыденов Баяр Бимбаевич": 14,
-      "Цыренов Баир Цыденович": 125
+      "gas:candidate-vibid:2032000701970": 81,
+      "gas:candidate-vibid:2032000700866": 131,
+      "gas:candidate-vibid:2032000679092": 40,
+      "gas:candidate-vibid:2032000701434": 71,
+      "gas:candidate-vibid:2032000700791": 14,
+      "gas:candidate-vibid:2032000700096": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 16,
-      "Дамдинов Алдар Валерьевич": 73,
-      "Дорош Сергей Дмитриевич": 14,
-      "Слипенчук Михаил Викторович": 27,
-      "Цыденов Баяр Бимбаевич": 6,
-      "Цыренов Баир Цыденович": 31
+      "gas:candidate-vibid:2032000701970": 16,
+      "gas:candidate-vibid:2032000700866": 73,
+      "gas:candidate-vibid:2032000679092": 14,
+      "gas:candidate-vibid:2032000701434": 27,
+      "gas:candidate-vibid:2032000700791": 6,
+      "gas:candidate-vibid:2032000700096": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 5,
-      "Дамдинов Алдар Валерьевич": 115,
-      "Дорош Сергей Дмитриевич": 4,
-      "Слипенчук Михаил Викторович": 43,
-      "Цыденов Баяр Бимбаевич": 3,
-      "Цыренов Баир Цыденович": 15
+      "gas:candidate-vibid:2032000701970": 5,
+      "gas:candidate-vibid:2032000700866": 115,
+      "gas:candidate-vibid:2032000679092": 4,
+      "gas:candidate-vibid:2032000701434": 43,
+      "gas:candidate-vibid:2032000700791": 3,
+      "gas:candidate-vibid:2032000700096": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 82,
-      "Дамдинов Алдар Валерьевич": 359,
-      "Дорош Сергей Дмитриевич": 55,
-      "Слипенчук Михаил Викторович": 74,
-      "Цыденов Баяр Бимбаевич": 21,
-      "Цыренов Баир Цыденович": 115
+      "gas:candidate-vibid:2032000701970": 82,
+      "gas:candidate-vibid:2032000700866": 359,
+      "gas:candidate-vibid:2032000679092": 55,
+      "gas:candidate-vibid:2032000701434": 74,
+      "gas:candidate-vibid:2032000700791": 21,
+      "gas:candidate-vibid:2032000700096": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 81,
-      "Дамдинов Алдар Валерьевич": 378,
-      "Дорош Сергей Дмитриевич": 51,
-      "Слипенчук Михаил Викторович": 61,
-      "Цыденов Баяр Бимбаевич": 21,
-      "Цыренов Баир Цыденович": 100
+      "gas:candidate-vibid:2032000701970": 81,
+      "gas:candidate-vibid:2032000700866": 378,
+      "gas:candidate-vibid:2032000679092": 51,
+      "gas:candidate-vibid:2032000701434": 61,
+      "gas:candidate-vibid:2032000700791": 21,
+      "gas:candidate-vibid:2032000700096": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 44,
-      "Дамдинов Алдар Валерьевич": 279,
-      "Дорош Сергей Дмитриевич": 26,
-      "Слипенчук Михаил Викторович": 69,
-      "Цыденов Баяр Бимбаевич": 10,
-      "Цыренов Баир Цыденович": 113
+      "gas:candidate-vibid:2032000701970": 44,
+      "gas:candidate-vibid:2032000700866": 279,
+      "gas:candidate-vibid:2032000679092": 26,
+      "gas:candidate-vibid:2032000701434": 69,
+      "gas:candidate-vibid:2032000700791": 10,
+      "gas:candidate-vibid:2032000700096": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 48,
-      "Дамдинов Алдар Валерьевич": 243,
-      "Дорош Сергей Дмитриевич": 41,
-      "Слипенчук Михаил Викторович": 91,
-      "Цыденов Баяр Бимбаевич": 17,
-      "Цыренов Баир Цыденович": 167
+      "gas:candidate-vibid:2032000701970": 48,
+      "gas:candidate-vibid:2032000700866": 243,
+      "gas:candidate-vibid:2032000679092": 41,
+      "gas:candidate-vibid:2032000701434": 91,
+      "gas:candidate-vibid:2032000700791": 17,
+      "gas:candidate-vibid:2032000700096": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 6,
-      "Дамдинов Алдар Валерьевич": 144,
-      "Дорош Сергей Дмитриевич": 6,
-      "Слипенчук Михаил Викторович": 34,
-      "Цыденов Баяр Бимбаевич": 6,
-      "Цыренов Баир Цыденович": 42
+      "gas:candidate-vibid:2032000701970": 6,
+      "gas:candidate-vibid:2032000700866": 144,
+      "gas:candidate-vibid:2032000679092": 6,
+      "gas:candidate-vibid:2032000701434": 34,
+      "gas:candidate-vibid:2032000700791": 6,
+      "gas:candidate-vibid:2032000700096": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 0,
-      "Дамдинов Алдар Валерьевич": 82,
-      "Дорош Сергей Дмитриевич": 3,
-      "Слипенчук Михаил Викторович": 18,
-      "Цыденов Баяр Бимбаевич": 1,
-      "Цыренов Баир Цыденович": 7
+      "gas:candidate-vibid:2032000701970": 0,
+      "gas:candidate-vibid:2032000700866": 82,
+      "gas:candidate-vibid:2032000679092": 3,
+      "gas:candidate-vibid:2032000701434": 18,
+      "gas:candidate-vibid:2032000700791": 1,
+      "gas:candidate-vibid:2032000700096": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 1,
-      "Дамдинов Алдар Валерьевич": 47,
-      "Дорош Сергей Дмитриевич": 4,
-      "Слипенчук Михаил Викторович": 4,
-      "Цыденов Баяр Бимбаевич": 2,
-      "Цыренов Баир Цыденович": 7
+      "gas:candidate-vibid:2032000701970": 1,
+      "gas:candidate-vibid:2032000700866": 47,
+      "gas:candidate-vibid:2032000679092": 4,
+      "gas:candidate-vibid:2032000701434": 4,
+      "gas:candidate-vibid:2032000700791": 2,
+      "gas:candidate-vibid:2032000700096": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 27,
-      "Дамдинов Алдар Валерьевич": 80,
-      "Дорош Сергей Дмитриевич": 18,
-      "Слипенчук Михаил Викторович": 32,
-      "Цыденов Баяр Бимбаевич": 10,
-      "Цыренов Баир Цыденович": 52
+      "gas:candidate-vibid:2032000701970": 27,
+      "gas:candidate-vibid:2032000700866": 80,
+      "gas:candidate-vibid:2032000679092": 18,
+      "gas:candidate-vibid:2032000701434": 32,
+      "gas:candidate-vibid:2032000700791": 10,
+      "gas:candidate-vibid:2032000700096": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 7,
-      "Дамдинов Алдар Валерьевич": 38,
-      "Дорош Сергей Дмитриевич": 7,
-      "Слипенчук Михаил Викторович": 21,
-      "Цыденов Баяр Бимбаевич": 1,
-      "Цыренов Баир Цыденович": 12
+      "gas:candidate-vibid:2032000701970": 7,
+      "gas:candidate-vibid:2032000700866": 38,
+      "gas:candidate-vibid:2032000679092": 7,
+      "gas:candidate-vibid:2032000701434": 21,
+      "gas:candidate-vibid:2032000700791": 1,
+      "gas:candidate-vibid:2032000700096": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 5,
-      "Дамдинов Алдар Валерьевич": 22,
-      "Дорош Сергей Дмитриевич": 7,
-      "Слипенчук Михаил Викторович": 6,
-      "Цыденов Баяр Бимбаевич": 2,
-      "Цыренов Баир Цыденович": 3
+      "gas:candidate-vibid:2032000701970": 5,
+      "gas:candidate-vibid:2032000700866": 22,
+      "gas:candidate-vibid:2032000679092": 7,
+      "gas:candidate-vibid:2032000701434": 6,
+      "gas:candidate-vibid:2032000700791": 2,
+      "gas:candidate-vibid:2032000700096": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 19,
-      "Дамдинов Алдар Валерьевич": 116,
-      "Дорош Сергей Дмитриевич": 13,
-      "Слипенчук Михаил Викторович": 60,
-      "Цыденов Баяр Бимбаевич": 10,
-      "Цыренов Баир Цыденович": 31
+      "gas:candidate-vibid:2032000701970": 19,
+      "gas:candidate-vibid:2032000700866": 116,
+      "gas:candidate-vibid:2032000679092": 13,
+      "gas:candidate-vibid:2032000701434": 60,
+      "gas:candidate-vibid:2032000700791": 10,
+      "gas:candidate-vibid:2032000700096": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 63,
-      "Дамдинов Алдар Валерьевич": 155,
-      "Дорош Сергей Дмитриевич": 22,
-      "Слипенчук Михаил Викторович": 92,
-      "Цыденов Баяр Бимбаевич": 9,
-      "Цыренов Баир Цыденович": 62
+      "gas:candidate-vibid:2032000701970": 63,
+      "gas:candidate-vibid:2032000700866": 155,
+      "gas:candidate-vibid:2032000679092": 22,
+      "gas:candidate-vibid:2032000701434": 92,
+      "gas:candidate-vibid:2032000700791": 9,
+      "gas:candidate-vibid:2032000700096": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 33,
-      "Дамдинов Алдар Валерьевич": 132,
-      "Дорош Сергей Дмитриевич": 29,
-      "Слипенчук Михаил Викторович": 51,
-      "Цыденов Баяр Бимбаевич": 7,
-      "Цыренов Баир Цыденович": 41
+      "gas:candidate-vibid:2032000701970": 33,
+      "gas:candidate-vibid:2032000700866": 132,
+      "gas:candidate-vibid:2032000679092": 29,
+      "gas:candidate-vibid:2032000701434": 51,
+      "gas:candidate-vibid:2032000700791": 7,
+      "gas:candidate-vibid:2032000700096": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 53,
-      "Дамдинов Алдар Валерьевич": 350,
-      "Дорош Сергей Дмитриевич": 17,
-      "Слипенчук Михаил Викторович": 114,
-      "Цыденов Баяр Бимбаевич": 12,
-      "Цыренов Баир Цыденович": 42
+      "gas:candidate-vibid:2032000701970": 53,
+      "gas:candidate-vibid:2032000700866": 350,
+      "gas:candidate-vibid:2032000679092": 17,
+      "gas:candidate-vibid:2032000701434": 114,
+      "gas:candidate-vibid:2032000700791": 12,
+      "gas:candidate-vibid:2032000700096": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 3,
-      "Дамдинов Алдар Валерьевич": 81,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 9,
-      "Цыденов Баяр Бимбаевич": 2,
-      "Цыренов Баир Цыденович": 13
+      "gas:candidate-vibid:2032000701970": 3,
+      "gas:candidate-vibid:2032000700866": 81,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 9,
+      "gas:candidate-vibid:2032000700791": 2,
+      "gas:candidate-vibid:2032000700096": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 55,
-      "Дамдинов Алдар Валерьевич": 130,
-      "Дорош Сергей Дмитриевич": 29,
-      "Слипенчук Михаил Викторович": 73,
-      "Цыденов Баяр Бимбаевич": 6,
-      "Цыренов Баир Цыденович": 48
+      "gas:candidate-vibid:2032000701970": 55,
+      "gas:candidate-vibid:2032000700866": 130,
+      "gas:candidate-vibid:2032000679092": 29,
+      "gas:candidate-vibid:2032000701434": 73,
+      "gas:candidate-vibid:2032000700791": 6,
+      "gas:candidate-vibid:2032000700096": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 29,
-      "Дамдинов Алдар Валерьевич": 176,
-      "Дорош Сергей Дмитриевич": 24,
-      "Слипенчук Михаил Викторович": 46,
-      "Цыденов Баяр Бимбаевич": 10,
-      "Цыренов Баир Цыденович": 39
+      "gas:candidate-vibid:2032000701970": 29,
+      "gas:candidate-vibid:2032000700866": 176,
+      "gas:candidate-vibid:2032000679092": 24,
+      "gas:candidate-vibid:2032000701434": 46,
+      "gas:candidate-vibid:2032000700791": 10,
+      "gas:candidate-vibid:2032000700096": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 33,
-      "Дамдинов Алдар Валерьевич": 223,
-      "Дорош Сергей Дмитриевич": 31,
-      "Слипенчук Михаил Викторович": 58,
-      "Цыденов Баяр Бимбаевич": 12,
-      "Цыренов Баир Цыденович": 35
+      "gas:candidate-vibid:2032000701970": 33,
+      "gas:candidate-vibid:2032000700866": 223,
+      "gas:candidate-vibid:2032000679092": 31,
+      "gas:candidate-vibid:2032000701434": 58,
+      "gas:candidate-vibid:2032000700791": 12,
+      "gas:candidate-vibid:2032000700096": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 3,
-      "Дамдинов Алдар Валерьевич": 33,
-      "Дорош Сергей Дмитриевич": 6,
-      "Слипенчук Михаил Викторович": 4,
-      "Цыденов Баяр Бимбаевич": 5,
-      "Цыренов Баир Цыденович": 7
+      "gas:candidate-vibid:2032000701970": 3,
+      "gas:candidate-vibid:2032000700866": 33,
+      "gas:candidate-vibid:2032000679092": 6,
+      "gas:candidate-vibid:2032000701434": 4,
+      "gas:candidate-vibid:2032000700791": 5,
+      "gas:candidate-vibid:2032000700096": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 5,
-      "Дамдинов Алдар Валерьевич": 42,
-      "Дорош Сергей Дмитриевич": 7,
-      "Слипенчук Михаил Викторович": 1,
-      "Цыденов Баяр Бимбаевич": 0,
-      "Цыренов Баир Цыденович": 11
+      "gas:candidate-vibid:2032000701970": 5,
+      "gas:candidate-vibid:2032000700866": 42,
+      "gas:candidate-vibid:2032000679092": 7,
+      "gas:candidate-vibid:2032000701434": 1,
+      "gas:candidate-vibid:2032000700791": 0,
+      "gas:candidate-vibid:2032000700096": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 4,
-      "Дамдинов Алдар Валерьевич": 11,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 6,
-      "Цыденов Баяр Бимбаевич": 3,
-      "Цыренов Баир Цыденович": 7
+      "gas:candidate-vibid:2032000701970": 4,
+      "gas:candidate-vibid:2032000700866": 11,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 6,
+      "gas:candidate-vibid:2032000700791": 3,
+      "gas:candidate-vibid:2032000700096": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 7,
-      "Дамдинов Алдар Валерьевич": 15,
-      "Дорош Сергей Дмитриевич": 3,
-      "Слипенчук Михаил Викторович": 8,
-      "Цыденов Баяр Бимбаевич": 2,
-      "Цыренов Баир Цыденович": 12
+      "gas:candidate-vibid:2032000701970": 7,
+      "gas:candidate-vibid:2032000700866": 15,
+      "gas:candidate-vibid:2032000679092": 3,
+      "gas:candidate-vibid:2032000701434": 8,
+      "gas:candidate-vibid:2032000700791": 2,
+      "gas:candidate-vibid:2032000700096": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000653547&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000653547&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 35,
-      "Дамдинов Алдар Валерьевич": 94,
-      "Дорош Сергей Дмитриевич": 19,
-      "Слипенчук Михаил Викторович": 76,
-      "Цыденов Баяр Бимбаевич": 7,
-      "Цыренов Баир Цыденович": 90
+      "gas:candidate-vibid:2032000701970": 35,
+      "gas:candidate-vibid:2032000700866": 94,
+      "gas:candidate-vibid:2032000679092": 19,
+      "gas:candidate-vibid:2032000701434": 76,
+      "gas:candidate-vibid:2032000700791": 7,
+      "gas:candidate-vibid:2032000700096": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -2899,12 +2899,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 30,
-      "Дамдинов Алдар Валерьевич": 126,
-      "Дорош Сергей Дмитриевич": 23,
-      "Слипенчук Михаил Викторович": 90,
-      "Цыденов Баяр Бимбаевич": 6,
-      "Цыренов Баир Цыденович": 62
+      "gas:candidate-vibid:2032000701970": 30,
+      "gas:candidate-vibid:2032000700866": 126,
+      "gas:candidate-vibid:2032000679092": 23,
+      "gas:candidate-vibid:2032000701434": 90,
+      "gas:candidate-vibid:2032000700791": 6,
+      "gas:candidate-vibid:2032000700096": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -2955,12 +2955,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 60,
-      "Дамдинов Алдар Валерьевич": 201,
-      "Дорош Сергей Дмитриевич": 19,
-      "Слипенчук Михаил Викторович": 148,
-      "Цыденов Баяр Бимбаевич": 18,
-      "Цыренов Баир Цыденович": 152
+      "gas:candidate-vibid:2032000701970": 60,
+      "gas:candidate-vibid:2032000700866": 201,
+      "gas:candidate-vibid:2032000679092": 19,
+      "gas:candidate-vibid:2032000701434": 148,
+      "gas:candidate-vibid:2032000700791": 18,
+      "gas:candidate-vibid:2032000700096": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3011,12 +3011,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 34,
-      "Дамдинов Алдар Валерьевич": 92,
-      "Дорош Сергей Дмитриевич": 5,
-      "Слипенчук Михаил Викторович": 118,
-      "Цыденов Баяр Бимбаевич": 9,
-      "Цыренов Баир Цыденович": 92
+      "gas:candidate-vibid:2032000701970": 34,
+      "gas:candidate-vibid:2032000700866": 92,
+      "gas:candidate-vibid:2032000679092": 5,
+      "gas:candidate-vibid:2032000701434": 118,
+      "gas:candidate-vibid:2032000700791": 9,
+      "gas:candidate-vibid:2032000700096": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3067,12 +3067,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 61,
-      "Дамдинов Алдар Валерьевич": 189,
-      "Дорош Сергей Дмитриевич": 18,
-      "Слипенчук Михаил Викторович": 124,
-      "Цыденов Баяр Бимбаевич": 21,
-      "Цыренов Баир Цыденович": 151
+      "gas:candidate-vibid:2032000701970": 61,
+      "gas:candidate-vibid:2032000700866": 189,
+      "gas:candidate-vibid:2032000679092": 18,
+      "gas:candidate-vibid:2032000701434": 124,
+      "gas:candidate-vibid:2032000700791": 21,
+      "gas:candidate-vibid:2032000700096": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3123,12 +3123,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 44,
-      "Дамдинов Алдар Валерьевич": 176,
-      "Дорош Сергей Дмитриевич": 12,
-      "Слипенчук Михаил Викторович": 152,
-      "Цыденов Баяр Бимбаевич": 17,
-      "Цыренов Баир Цыденович": 165
+      "gas:candidate-vibid:2032000701970": 44,
+      "gas:candidate-vibid:2032000700866": 176,
+      "gas:candidate-vibid:2032000679092": 12,
+      "gas:candidate-vibid:2032000701434": 152,
+      "gas:candidate-vibid:2032000700791": 17,
+      "gas:candidate-vibid:2032000700096": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3179,12 +3179,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 43,
-      "Дамдинов Алдар Валерьевич": 247,
-      "Дорош Сергей Дмитриевич": 28,
-      "Слипенчук Михаил Викторович": 153,
-      "Цыденов Баяр Бимбаевич": 18,
-      "Цыренов Баир Цыденович": 154
+      "gas:candidate-vibid:2032000701970": 43,
+      "gas:candidate-vibid:2032000700866": 247,
+      "gas:candidate-vibid:2032000679092": 28,
+      "gas:candidate-vibid:2032000701434": 153,
+      "gas:candidate-vibid:2032000700791": 18,
+      "gas:candidate-vibid:2032000700096": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3235,12 +3235,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 25,
-      "Дамдинов Алдар Валерьевич": 192,
-      "Дорош Сергей Дмитриевич": 17,
-      "Слипенчук Михаил Викторович": 163,
-      "Цыденов Баяр Бимбаевич": 14,
-      "Цыренов Баир Цыденович": 93
+      "gas:candidate-vibid:2032000701970": 25,
+      "gas:candidate-vibid:2032000700866": 192,
+      "gas:candidate-vibid:2032000679092": 17,
+      "gas:candidate-vibid:2032000701434": 163,
+      "gas:candidate-vibid:2032000700791": 14,
+      "gas:candidate-vibid:2032000700096": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3291,12 +3291,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 64,
-      "Дамдинов Алдар Валерьевич": 246,
-      "Дорош Сергей Дмитриевич": 16,
-      "Слипенчук Михаил Викторович": 163,
-      "Цыденов Баяр Бимбаевич": 18,
-      "Цыренов Баир Цыденович": 178
+      "gas:candidate-vibid:2032000701970": 64,
+      "gas:candidate-vibid:2032000700866": 246,
+      "gas:candidate-vibid:2032000679092": 16,
+      "gas:candidate-vibid:2032000701434": 163,
+      "gas:candidate-vibid:2032000700791": 18,
+      "gas:candidate-vibid:2032000700096": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3347,12 +3347,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 21,
-      "Дамдинов Алдар Валерьевич": 101,
-      "Дорош Сергей Дмитриевич": 9,
-      "Слипенчук Михаил Викторович": 85,
-      "Цыденов Баяр Бимбаевич": 11,
-      "Цыренов Баир Цыденович": 95
+      "gas:candidate-vibid:2032000701970": 21,
+      "gas:candidate-vibid:2032000700866": 101,
+      "gas:candidate-vibid:2032000679092": 9,
+      "gas:candidate-vibid:2032000701434": 85,
+      "gas:candidate-vibid:2032000700791": 11,
+      "gas:candidate-vibid:2032000700096": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3403,12 +3403,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 86,
-      "Дамдинов Алдар Валерьевич": 339,
-      "Дорош Сергей Дмитриевич": 33,
-      "Слипенчук Михаил Викторович": 248,
-      "Цыденов Баяр Бимбаевич": 43,
-      "Цыренов Баир Цыденович": 244
+      "gas:candidate-vibid:2032000701970": 86,
+      "gas:candidate-vibid:2032000700866": 339,
+      "gas:candidate-vibid:2032000679092": 33,
+      "gas:candidate-vibid:2032000701434": 248,
+      "gas:candidate-vibid:2032000700791": 43,
+      "gas:candidate-vibid:2032000700096": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3459,12 +3459,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 72,
-      "Дамдинов Алдар Валерьевич": 265,
-      "Дорош Сергей Дмитриевич": 30,
-      "Слипенчук Михаил Викторович": 226,
-      "Цыденов Баяр Бимбаевич": 16,
-      "Цыренов Баир Цыденович": 169
+      "gas:candidate-vibid:2032000701970": 72,
+      "gas:candidate-vibid:2032000700866": 265,
+      "gas:candidate-vibid:2032000679092": 30,
+      "gas:candidate-vibid:2032000701434": 226,
+      "gas:candidate-vibid:2032000700791": 16,
+      "gas:candidate-vibid:2032000700096": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3515,12 +3515,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 41,
-      "Дамдинов Алдар Валерьевич": 213,
-      "Дорош Сергей Дмитриевич": 3,
-      "Слипенчук Михаил Викторович": 121,
-      "Цыденов Баяр Бимбаевич": 31,
-      "Цыренов Баир Цыденович": 118
+      "gas:candidate-vibid:2032000701970": 41,
+      "gas:candidate-vibid:2032000700866": 213,
+      "gas:candidate-vibid:2032000679092": 3,
+      "gas:candidate-vibid:2032000701434": 121,
+      "gas:candidate-vibid:2032000700791": 31,
+      "gas:candidate-vibid:2032000700096": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3571,12 +3571,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 29,
-      "Дамдинов Алдар Валерьевич": 139,
-      "Дорош Сергей Дмитриевич": 19,
-      "Слипенчук Михаил Викторович": 87,
-      "Цыденов Баяр Бимбаевич": 29,
-      "Цыренов Баир Цыденович": 84
+      "gas:candidate-vibid:2032000701970": 29,
+      "gas:candidate-vibid:2032000700866": 139,
+      "gas:candidate-vibid:2032000679092": 19,
+      "gas:candidate-vibid:2032000701434": 87,
+      "gas:candidate-vibid:2032000700791": 29,
+      "gas:candidate-vibid:2032000700096": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3627,12 +3627,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 60,
-      "Дамдинов Алдар Валерьевич": 185,
-      "Дорош Сергей Дмитриевич": 47,
-      "Слипенчук Михаил Викторович": 116,
-      "Цыденов Баяр Бимбаевич": 41,
-      "Цыренов Баир Цыденович": 62
+      "gas:candidate-vibid:2032000701970": 60,
+      "gas:candidate-vibid:2032000700866": 185,
+      "gas:candidate-vibid:2032000679092": 47,
+      "gas:candidate-vibid:2032000701434": 116,
+      "gas:candidate-vibid:2032000700791": 41,
+      "gas:candidate-vibid:2032000700096": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3683,12 +3683,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 73,
-      "Дамдинов Алдар Валерьевич": 178,
-      "Дорош Сергей Дмитриевич": 29,
-      "Слипенчук Михаил Викторович": 309,
-      "Цыденов Баяр Бимбаевич": 14,
-      "Цыренов Баир Цыденович": 130
+      "gas:candidate-vibid:2032000701970": 73,
+      "gas:candidate-vibid:2032000700866": 178,
+      "gas:candidate-vibid:2032000679092": 29,
+      "gas:candidate-vibid:2032000701434": 309,
+      "gas:candidate-vibid:2032000700791": 14,
+      "gas:candidate-vibid:2032000700096": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3739,12 +3739,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 123,
-      "Дамдинов Алдар Валерьевич": 379,
-      "Дорош Сергей Дмитриевич": 31,
-      "Слипенчук Михаил Викторович": 422,
-      "Цыденов Баяр Бимбаевич": 30,
-      "Цыренов Баир Цыденович": 195
+      "gas:candidate-vibid:2032000701970": 123,
+      "gas:candidate-vibid:2032000700866": 379,
+      "gas:candidate-vibid:2032000679092": 31,
+      "gas:candidate-vibid:2032000701434": 422,
+      "gas:candidate-vibid:2032000700791": 30,
+      "gas:candidate-vibid:2032000700096": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3795,12 +3795,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 14,
-      "Дамдинов Алдар Валерьевич": 117,
-      "Дорош Сергей Дмитриевич": 7,
-      "Слипенчук Михаил Викторович": 85,
-      "Цыденов Баяр Бимбаевич": 6,
-      "Цыренов Баир Цыденович": 63
+      "gas:candidate-vibid:2032000701970": 14,
+      "gas:candidate-vibid:2032000700866": 117,
+      "gas:candidate-vibid:2032000679092": 7,
+      "gas:candidate-vibid:2032000701434": 85,
+      "gas:candidate-vibid:2032000700791": 6,
+      "gas:candidate-vibid:2032000700096": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3851,12 +3851,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 35,
-      "Дамдинов Алдар Валерьевич": 166,
-      "Дорош Сергей Дмитриевич": 16,
-      "Слипенчук Михаил Викторович": 129,
-      "Цыденов Баяр Бимбаевич": 8,
-      "Цыренов Баир Цыденович": 85
+      "gas:candidate-vibid:2032000701970": 35,
+      "gas:candidate-vibid:2032000700866": 166,
+      "gas:candidate-vibid:2032000679092": 16,
+      "gas:candidate-vibid:2032000701434": 129,
+      "gas:candidate-vibid:2032000700791": 8,
+      "gas:candidate-vibid:2032000700096": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3907,12 +3907,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 42,
-      "Дамдинов Алдар Валерьевич": 226,
-      "Дорош Сергей Дмитриевич": 16,
-      "Слипенчук Михаил Викторович": 193,
-      "Цыденов Баяр Бимбаевич": 41,
-      "Цыренов Баир Цыденович": 157
+      "gas:candidate-vibid:2032000701970": 42,
+      "gas:candidate-vibid:2032000700866": 226,
+      "gas:candidate-vibid:2032000679092": 16,
+      "gas:candidate-vibid:2032000701434": 193,
+      "gas:candidate-vibid:2032000700791": 41,
+      "gas:candidate-vibid:2032000700096": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -3963,12 +3963,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 27,
-      "Дамдинов Алдар Валерьевич": 174,
-      "Дорош Сергей Дмитриевич": 19,
-      "Слипенчук Михаил Викторович": 126,
-      "Цыденов Баяр Бимбаевич": 19,
-      "Цыренов Баир Цыденович": 88
+      "gas:candidate-vibid:2032000701970": 27,
+      "gas:candidate-vibid:2032000700866": 174,
+      "gas:candidate-vibid:2032000679092": 19,
+      "gas:candidate-vibid:2032000701434": 126,
+      "gas:candidate-vibid:2032000700791": 19,
+      "gas:candidate-vibid:2032000700096": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4019,12 +4019,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 47,
-      "Дамдинов Алдар Валерьевич": 222,
-      "Дорош Сергей Дмитриевич": 19,
-      "Слипенчук Михаил Викторович": 134,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 109
+      "gas:candidate-vibid:2032000701970": 47,
+      "gas:candidate-vibid:2032000700866": 222,
+      "gas:candidate-vibid:2032000679092": 19,
+      "gas:candidate-vibid:2032000701434": 134,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4075,12 +4075,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 80,
-      "Дамдинов Алдар Валерьевич": 193,
-      "Дорош Сергей Дмитриевич": 38,
-      "Слипенчук Михаил Викторович": 154,
-      "Цыденов Баяр Бимбаевич": 38,
-      "Цыренов Баир Цыденович": 124
+      "gas:candidate-vibid:2032000701970": 80,
+      "gas:candidate-vibid:2032000700866": 193,
+      "gas:candidate-vibid:2032000679092": 38,
+      "gas:candidate-vibid:2032000701434": 154,
+      "gas:candidate-vibid:2032000700791": 38,
+      "gas:candidate-vibid:2032000700096": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4131,12 +4131,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 97,
-      "Дамдинов Алдар Валерьевич": 254,
-      "Дорош Сергей Дмитриевич": 29,
-      "Слипенчук Михаил Викторович": 181,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 120
+      "gas:candidate-vibid:2032000701970": 97,
+      "gas:candidate-vibid:2032000700866": 254,
+      "gas:candidate-vibid:2032000679092": 29,
+      "gas:candidate-vibid:2032000701434": 181,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4187,12 +4187,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 120,
-      "Дамдинов Алдар Валерьевич": 304,
-      "Дорош Сергей Дмитриевич": 72,
-      "Слипенчук Михаил Викторович": 171,
-      "Цыденов Баяр Бимбаевич": 28,
-      "Цыренов Баир Цыденович": 87
+      "gas:candidate-vibid:2032000701970": 120,
+      "gas:candidate-vibid:2032000700866": 304,
+      "gas:candidate-vibid:2032000679092": 72,
+      "gas:candidate-vibid:2032000701434": 171,
+      "gas:candidate-vibid:2032000700791": 28,
+      "gas:candidate-vibid:2032000700096": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4243,12 +4243,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 28,
-      "Дамдинов Алдар Валерьевич": 110,
-      "Дорош Сергей Дмитриевич": 29,
-      "Слипенчук Михаил Викторович": 27,
-      "Цыденов Баяр Бимбаевич": 11,
-      "Цыренов Баир Цыденович": 18
+      "gas:candidate-vibid:2032000701970": 28,
+      "gas:candidate-vibid:2032000700866": 110,
+      "gas:candidate-vibid:2032000679092": 29,
+      "gas:candidate-vibid:2032000701434": 27,
+      "gas:candidate-vibid:2032000700791": 11,
+      "gas:candidate-vibid:2032000700096": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4299,12 +4299,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 56,
-      "Дамдинов Алдар Валерьевич": 231,
-      "Дорош Сергей Дмитриевич": 48,
-      "Слипенчук Михаил Викторович": 205,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 99
+      "gas:candidate-vibid:2032000701970": 56,
+      "gas:candidate-vibid:2032000700866": 231,
+      "gas:candidate-vibid:2032000679092": 48,
+      "gas:candidate-vibid:2032000701434": 205,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4355,12 +4355,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 86,
-      "Дамдинов Алдар Валерьевич": 248,
-      "Дорош Сергей Дмитриевич": 37,
-      "Слипенчук Михаил Викторович": 193,
-      "Цыденов Баяр Бимбаевич": 19,
-      "Цыренов Баир Цыденович": 182
+      "gas:candidate-vibid:2032000701970": 86,
+      "gas:candidate-vibid:2032000700866": 248,
+      "gas:candidate-vibid:2032000679092": 37,
+      "gas:candidate-vibid:2032000701434": 193,
+      "gas:candidate-vibid:2032000700791": 19,
+      "gas:candidate-vibid:2032000700096": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4411,12 +4411,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 58,
-      "Дамдинов Алдар Валерьевич": 257,
-      "Дорош Сергей Дмитриевич": 23,
-      "Слипенчук Михаил Викторович": 192,
-      "Цыденов Баяр Бимбаевич": 26,
-      "Цыренов Баир Цыденович": 163
+      "gas:candidate-vibid:2032000701970": 58,
+      "gas:candidate-vibid:2032000700866": 257,
+      "gas:candidate-vibid:2032000679092": 23,
+      "gas:candidate-vibid:2032000701434": 192,
+      "gas:candidate-vibid:2032000700791": 26,
+      "gas:candidate-vibid:2032000700096": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4467,12 +4467,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 54,
-      "Дамдинов Алдар Валерьевич": 138,
-      "Дорош Сергей Дмитриевич": 18,
-      "Слипенчук Михаил Викторович": 143,
-      "Цыденов Баяр Бимбаевич": 22,
-      "Цыренов Баир Цыденович": 142
+      "gas:candidate-vibid:2032000701970": 54,
+      "gas:candidate-vibid:2032000700866": 138,
+      "gas:candidate-vibid:2032000679092": 18,
+      "gas:candidate-vibid:2032000701434": 143,
+      "gas:candidate-vibid:2032000700791": 22,
+      "gas:candidate-vibid:2032000700096": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4523,12 +4523,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 17,
-      "Дамдинов Алдар Валерьевич": 130,
-      "Дорош Сергей Дмитриевич": 2,
-      "Слипенчук Михаил Викторович": 80,
-      "Цыденов Баяр Бимбаевич": 9,
-      "Цыренов Баир Цыденович": 64
+      "gas:candidate-vibid:2032000701970": 17,
+      "gas:candidate-vibid:2032000700866": 130,
+      "gas:candidate-vibid:2032000679092": 2,
+      "gas:candidate-vibid:2032000701434": 80,
+      "gas:candidate-vibid:2032000700791": 9,
+      "gas:candidate-vibid:2032000700096": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4579,12 +4579,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 17,
-      "Дамдинов Алдар Валерьевич": 151,
-      "Дорош Сергей Дмитриевич": 5,
-      "Слипенчук Михаил Викторович": 80,
-      "Цыденов Баяр Бимбаевич": 17,
-      "Цыренов Баир Цыденович": 83
+      "gas:candidate-vibid:2032000701970": 17,
+      "gas:candidate-vibid:2032000700866": 151,
+      "gas:candidate-vibid:2032000679092": 5,
+      "gas:candidate-vibid:2032000701434": 80,
+      "gas:candidate-vibid:2032000700791": 17,
+      "gas:candidate-vibid:2032000700096": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4635,12 +4635,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 20,
-      "Дамдинов Алдар Валерьевич": 204,
-      "Дорош Сергей Дмитриевич": 7,
-      "Слипенчук Михаил Викторович": 66,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 91
+      "gas:candidate-vibid:2032000701970": 20,
+      "gas:candidate-vibid:2032000700866": 204,
+      "gas:candidate-vibid:2032000679092": 7,
+      "gas:candidate-vibid:2032000701434": 66,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4691,12 +4691,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 63,
-      "Дамдинов Алдар Валерьевич": 174,
-      "Дорош Сергей Дмитриевич": 31,
-      "Слипенчук Михаил Викторович": 160,
-      "Цыденов Баяр Бимбаевич": 13,
-      "Цыренов Баир Цыденович": 108
+      "gas:candidate-vibid:2032000701970": 63,
+      "gas:candidate-vibid:2032000700866": 174,
+      "gas:candidate-vibid:2032000679092": 31,
+      "gas:candidate-vibid:2032000701434": 160,
+      "gas:candidate-vibid:2032000700791": 13,
+      "gas:candidate-vibid:2032000700096": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4747,12 +4747,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 30,
-      "Дамдинов Алдар Валерьевич": 125,
-      "Дорош Сергей Дмитриевич": 14,
-      "Слипенчук Михаил Викторович": 51,
-      "Цыденов Баяр Бимбаевич": 7,
-      "Цыренов Баир Цыденович": 49
+      "gas:candidate-vibid:2032000701970": 30,
+      "gas:candidate-vibid:2032000700866": 125,
+      "gas:candidate-vibid:2032000679092": 14,
+      "gas:candidate-vibid:2032000701434": 51,
+      "gas:candidate-vibid:2032000700791": 7,
+      "gas:candidate-vibid:2032000700096": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4803,12 +4803,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 9,
-      "Дамдинов Алдар Валерьевич": 12,
-      "Дорош Сергей Дмитриевич": 8,
-      "Слипенчук Михаил Викторович": 0,
-      "Цыденов Баяр Бимбаевич": 1,
-      "Цыренов Баир Цыденович": 13
+      "gas:candidate-vibid:2032000701970": 9,
+      "gas:candidate-vibid:2032000700866": 12,
+      "gas:candidate-vibid:2032000679092": 8,
+      "gas:candidate-vibid:2032000701434": 0,
+      "gas:candidate-vibid:2032000700791": 1,
+      "gas:candidate-vibid:2032000700096": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4859,12 +4859,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 6,
-      "Дамдинов Алдар Валерьевич": 19,
-      "Дорош Сергей Дмитриевич": 8,
-      "Слипенчук Михаил Викторович": 10,
-      "Цыденов Баяр Бимбаевич": 5,
-      "Цыренов Баир Цыденович": 3
+      "gas:candidate-vibid:2032000701970": 6,
+      "gas:candidate-vibid:2032000700866": 19,
+      "gas:candidate-vibid:2032000679092": 8,
+      "gas:candidate-vibid:2032000701434": 10,
+      "gas:candidate-vibid:2032000700791": 5,
+      "gas:candidate-vibid:2032000700096": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4915,12 +4915,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 12,
-      "Дамдинов Алдар Валерьевич": 25,
-      "Дорош Сергей Дмитриевич": 3,
-      "Слипенчук Михаил Викторович": 9,
-      "Цыденов Баяр Бимбаевич": 1,
-      "Цыренов Баир Цыденович": 10
+      "gas:candidate-vibid:2032000701970": 12,
+      "gas:candidate-vibid:2032000700866": 25,
+      "gas:candidate-vibid:2032000679092": 3,
+      "gas:candidate-vibid:2032000701434": 9,
+      "gas:candidate-vibid:2032000700791": 1,
+      "gas:candidate-vibid:2032000700096": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",
@@ -4971,12 +4971,12 @@ export const duma_2016_uik_463_region_4_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бухольцева Оксана Васильевна": 62,
-      "Дамдинов Алдар Валерьевич": 55,
-      "Дорош Сергей Дмитриевич": 47,
-      "Слипенчук Михаил Викторович": 37,
-      "Цыденов Баяр Бимбаевич": 66,
-      "Цыренов Баир Цыденович": 31
+      "gas:candidate-vibid:2032000701970": 62,
+      "gas:candidate-vibid:2032000700866": 55,
+      "gas:candidate-vibid:2032000679092": 47,
+      "gas:candidate-vibid:2032000701434": 37,
+      "gas:candidate-vibid:2032000700791": 66,
+      "gas:candidate-vibid:2032000700096": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/buriat?action=show&root=1000013&tvd=2032000655832&vrn=100100067795849&region=4&global=&sub_region=4&prver=0&pronetvd=null&vibid=2032000655832&type=464",

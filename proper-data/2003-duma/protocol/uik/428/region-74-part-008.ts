@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 9,
-      "Крашенинников Павел Владимирович": 60,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 5,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 9,
+      "gas:candidate-vibid:1001000113990": 60,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 5,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 4,
-      "Крашенинников Павел Владимирович": 81,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 8,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 17,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 4,
+      "gas:candidate-vibid:1001000113990": 81,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 8,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 17,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 41,
-      "Крашенинников Павел Владимирович": 141,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 45,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 41,
+      "gas:candidate-vibid:1001000113990": 141,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 45,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 35,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 31,
-      "Крашенинников Павел Владимирович": 177,
-      "Левандовский Валерий Витальевич": 8,
-      "Пронина Зоя Ивановна": 14,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 46,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000217965": 35,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 31,
+      "gas:candidate-vibid:1001000113990": 177,
+      "gas:candidate-vibid:374300466670": 8,
+      "gas:candidate-vibid:1001000121928": 14,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 46,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 4,
-      "Крашенинников Павел Владимирович": 45,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 26,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 12,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 4,
+      "gas:candidate-vibid:1001000113990": 45,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 26,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 12,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 45,
-      "Глуховский Владимир Ильич": 41,
-      "Дубровский Владимир Федорович": 25,
-      "Крашенинников Павел Владимирович": 154,
-      "Левандовский Валерий Витальевич": 8,
-      "Пронина Зоя Ивановна": 14,
-      "Солдаткин Дмитрий Федорович": 20,
-      "Чершинцев Александр Григорьевич": 80,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217965": 45,
+      "gas:candidate-vibid:374300466922": 41,
+      "gas:candidate-vibid:1001000220853": 25,
+      "gas:candidate-vibid:1001000113990": 154,
+      "gas:candidate-vibid:374300466670": 8,
+      "gas:candidate-vibid:1001000121928": 14,
+      "gas:candidate-vibid:374300466667": 20,
+      "gas:candidate-vibid:1001000226000": 80,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 28,
-      "Дубровский Владимир Федорович": 12,
-      "Крашенинников Павел Владимирович": 109,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 25,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 34,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 28,
+      "gas:candidate-vibid:1001000220853": 12,
+      "gas:candidate-vibid:1001000113990": 109,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 25,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 34,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 14,
-      "Дубровский Владимир Федорович": 9,
-      "Крашенинников Павел Владимирович": 41,
-      "Левандовский Валерий Витальевич": 8,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 10,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 14,
+      "gas:candidate-vibid:1001000220853": 9,
+      "gas:candidate-vibid:1001000113990": 41,
+      "gas:candidate-vibid:374300466670": 8,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 10,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 4,
-      "Крашенинников Павел Владимирович": 80,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 2,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 7,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 4,
+      "gas:candidate-vibid:1001000113990": 80,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 2,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 7,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 23,
-      "Дубровский Владимир Федорович": 13,
-      "Крашенинников Павел Владимирович": 56,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 12,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 28,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 23,
+      "gas:candidate-vibid:1001000220853": 13,
+      "gas:candidate-vibid:1001000113990": 56,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 12,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 28,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 19,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 36,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 3,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 9,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 19,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 36,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 3,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 9,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 9,
-      "Дубровский Владимир Федорович": 1,
-      "Крашенинников Павел Владимирович": 70,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 0,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 10,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 9,
+      "gas:candidate-vibid:1001000220853": 1,
+      "gas:candidate-vibid:1001000113990": 70,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 0,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 10,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 94,
-      "Глуховский Владимир Ильич": 42,
-      "Дубровский Владимир Федорович": 38,
-      "Крашенинников Павел Владимирович": 480,
-      "Левандовский Валерий Витальевич": 12,
-      "Пронина Зоя Ивановна": 38,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 64,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000217965": 94,
+      "gas:candidate-vibid:374300466922": 42,
+      "gas:candidate-vibid:1001000220853": 38,
+      "gas:candidate-vibid:1001000113990": 480,
+      "gas:candidate-vibid:374300466670": 12,
+      "gas:candidate-vibid:1001000121928": 38,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 64,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 60,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 72,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 2,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 21,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217965": 60,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 72,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 2,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 21,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 26,
-      "Дубровский Владимир Федорович": 79,
-      "Крашенинников Павел Владимирович": 303,
-      "Левандовский Валерий Витальевич": 16,
-      "Пронина Зоя Ивановна": 23,
-      "Солдаткин Дмитрий Федорович": 20,
-      "Чершинцев Александр Григорьевич": 103,
-      "Четыркин Юрий Борисович": 12,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 26,
+      "gas:candidate-vibid:1001000220853": 79,
+      "gas:candidate-vibid:1001000113990": 303,
+      "gas:candidate-vibid:374300466670": 16,
+      "gas:candidate-vibid:1001000121928": 23,
+      "gas:candidate-vibid:374300466667": 20,
+      "gas:candidate-vibid:1001000226000": 103,
+      "gas:candidate-vibid:374300466673": 12,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 14,
-      "Крашенинников Павел Владимирович": 189,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 15,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 27,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 14,
+      "gas:candidate-vibid:1001000113990": 189,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 15,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 27,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 77,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 5,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 21,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 77,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 5,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 21,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 75,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 13,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 33,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 75,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 13,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 33,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 77,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 25,
-      "Крашенинников Павел Владимирович": 591,
-      "Левандовский Валерий Витальевич": 102,
-      "Пронина Зоя Ивановна": 59,
-      "Солдаткин Дмитрий Федорович": 19,
-      "Чершинцев Александр Григорьевич": 65,
-      "Четыркин Юрий Борисович": 9,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000217965": 77,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 25,
+      "gas:candidate-vibid:1001000113990": 591,
+      "gas:candidate-vibid:374300466670": 102,
+      "gas:candidate-vibid:1001000121928": 59,
+      "gas:candidate-vibid:374300466667": 19,
+      "gas:candidate-vibid:1001000226000": 65,
+      "gas:candidate-vibid:374300466673": 9,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 15,
-      "Крашенинников Павел Владимирович": 104,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 20,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 21,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 15,
+      "gas:candidate-vibid:1001000113990": 104,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 20,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 21,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 15,
-      "Крашенинников Павел Владимирович": 100,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 12,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 25,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 15,
+      "gas:candidate-vibid:1001000113990": 100,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 12,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 25,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 110,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 8,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 18,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 110,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 8,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 18,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 45,
-      "Глуховский Владимир Ильич": 26,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 569,
-      "Левандовский Валерий Витальевич": 41,
-      "Пронина Зоя Ивановна": 41,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 92,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217965": 45,
+      "gas:candidate-vibid:374300466922": 26,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 569,
+      "gas:candidate-vibid:374300466670": 41,
+      "gas:candidate-vibid:1001000121928": 41,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 92,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 74,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 6,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 17,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 74,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 6,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 17,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 46,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 31,
-      "Крашенинников Павел Владимирович": 271,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 28,
-      "Солдаткин Дмитрий Федорович": 10,
-      "Чершинцев Александр Григорьевич": 72,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000217965": 46,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 31,
+      "gas:candidate-vibid:1001000113990": 271,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 28,
+      "gas:candidate-vibid:374300466667": 10,
+      "gas:candidate-vibid:1001000226000": 72,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 42,
-      "Крашенинников Павел Владимирович": 60,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 10,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 16,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 42,
+      "gas:candidate-vibid:1001000113990": 60,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 10,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 16,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 1,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 70,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 8,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 24,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217965": 1,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 70,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 8,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 24,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 3,
-      "Глуховский Владимир Ильич": 3,
-      "Дубровский Владимир Федорович": 12,
-      "Крашенинников Павел Владимирович": 29,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 3,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 14,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217965": 3,
+      "gas:candidate-vibid:374300466922": 3,
+      "gas:candidate-vibid:1001000220853": 12,
+      "gas:candidate-vibid:1001000113990": 29,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 3,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 14,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 7,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 51,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 0,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 7,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 51,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 0,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 21,
-      "Крашенинников Павел Владимирович": 62,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 16,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 19,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 21,
+      "gas:candidate-vibid:1001000113990": 62,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 16,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 19,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 44,
-      "Крашенинников Павел Владимирович": 32,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 8,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 25,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 44,
+      "gas:candidate-vibid:1001000113990": 32,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 8,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 25,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 15,
-      "Крашенинников Павел Владимирович": 37,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 5,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 14,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 15,
+      "gas:candidate-vibid:1001000113990": 37,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 5,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 14,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 62,
-      "Дубровский Владимир Федорович": 15,
-      "Крашенинников Павел Владимирович": 198,
-      "Левандовский Валерий Витальевич": 5,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 16,
-      "Чершинцев Александр Григорьевич": 34,
-      "Четыркин Юрий Борисович": 17,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 62,
+      "gas:candidate-vibid:1001000220853": 15,
+      "gas:candidate-vibid:1001000113990": 198,
+      "gas:candidate-vibid:374300466670": 5,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 16,
+      "gas:candidate-vibid:1001000226000": 34,
+      "gas:candidate-vibid:374300466673": 17,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 19,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 65,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 14,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 19,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 65,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 14,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 61,
-      "Глуховский Владимир Ильич": 30,
-      "Дубровский Владимир Федорович": 32,
-      "Крашенинников Павел Владимирович": 254,
-      "Левандовский Валерий Витальевич": 11,
-      "Пронина Зоя Ивановна": 39,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 62,
-      "Четыркин Юрий Борисович": 14,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000217965": 61,
+      "gas:candidate-vibid:374300466922": 30,
+      "gas:candidate-vibid:1001000220853": 32,
+      "gas:candidate-vibid:1001000113990": 254,
+      "gas:candidate-vibid:374300466670": 11,
+      "gas:candidate-vibid:1001000121928": 39,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 62,
+      "gas:candidate-vibid:374300466673": 14,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 69,
-      "Дубровский Владимир Федорович": 11,
-      "Крашенинников Павел Владимирович": 110,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 17,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 20,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 69,
+      "gas:candidate-vibid:1001000220853": 11,
+      "gas:candidate-vibid:1001000113990": 110,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 17,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 20,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -2166,14 +2166,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 540,
-      "Котельников Михаил Сергеевич": 19,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 52,
-      "Табалов Алексей Викторович": 16,
-      "Против всех": 58
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 540,
+      "gas:candidate-vibid:1001000136142": 19,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 52,
+      "gas:candidate-vibid:1001000112272": 16,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2223,14 +2223,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 1479,
-      "Котельников Михаил Сергеевич": 37,
-      "Куричев Олег Алексеевич": 27,
-      "Пинженин Виктор Михайлович": 15,
-      "Попцов Станислав Егорович": 120,
-      "Табалов Алексей Викторович": 33,
-      "Против всех": 148
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 1479,
+      "gas:candidate-vibid:1001000136142": 37,
+      "gas:candidate-vibid:1001000217966": 27,
+      "gas:candidate-vibid:1001000126652": 15,
+      "gas:candidate-vibid:1001000121929": 120,
+      "gas:candidate-vibid:1001000112272": 33,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2280,14 +2280,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 344,
-      "Котельников Михаил Сергеевич": 17,
-      "Куричев Олег Алексеевич": 12,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 62,
-      "Табалов Алексей Викторович": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 344,
+      "gas:candidate-vibid:1001000136142": 17,
+      "gas:candidate-vibid:1001000217966": 12,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 62,
+      "gas:candidate-vibid:1001000112272": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2337,14 +2337,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 147,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 147,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2394,14 +2394,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 94,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 16,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 94,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 16,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2451,14 +2451,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 46,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 46,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2508,14 +2508,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 83,
-      "Котельников Михаил Сергеевич": 3,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 83,
+      "gas:candidate-vibid:1001000136142": 3,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2565,14 +2565,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 225,
-      "Котельников Михаил Сергеевич": 13,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 24,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 225,
+      "gas:candidate-vibid:1001000136142": 13,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 24,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2622,14 +2622,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 264,
-      "Котельников Михаил Сергеевич": 25,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 14,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 43
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 264,
+      "gas:candidate-vibid:1001000136142": 25,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 14,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2679,14 +2679,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 165,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 19,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 165,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 19,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2736,14 +2736,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 77,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 77,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2793,14 +2793,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 95,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 5,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 95,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 5,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2850,14 +2850,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 1429,
-      "Котельников Михаил Сергеевич": 46,
-      "Куричев Олег Алексеевич": 30,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 94,
-      "Табалов Алексей Викторович": 11,
-      "Против всех": 106
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 1429,
+      "gas:candidate-vibid:1001000136142": 46,
+      "gas:candidate-vibid:1001000217966": 30,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 94,
+      "gas:candidate-vibid:1001000112272": 11,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2907,14 +2907,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 229,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 229,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -2964,14 +2964,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 139,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 11,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 139,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 11,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3021,14 +3021,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 102,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 1,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 102,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 1,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3078,14 +3078,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 82,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 82,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3135,14 +3135,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 421,
-      "Котельников Михаил Сергеевич": 16,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 26,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 50
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 421,
+      "gas:candidate-vibid:1001000136142": 16,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 26,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3192,14 +3192,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 136,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 9,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 136,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 9,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3249,14 +3249,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 83,
-      "Котельников Михаил Сергеевич": 5,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 83,
+      "gas:candidate-vibid:1001000136142": 5,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3306,14 +3306,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 98,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 98,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3363,14 +3363,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 56,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 56,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 3,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3420,14 +3420,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 12,
-      "Гартунг Валерий Карлович": 914,
-      "Котельников Михаил Сергеевич": 56,
-      "Куричев Олег Алексеевич": 25,
-      "Пинженин Виктор Михайлович": 15,
-      "Попцов Станислав Егорович": 121,
-      "Табалов Алексей Викторович": 31,
-      "Против всех": 103
+      "gas:candidate-vibid:374300567025": 12,
+      "gas:candidate-vibid:374300566691": 914,
+      "gas:candidate-vibid:1001000136142": 56,
+      "gas:candidate-vibid:1001000217966": 25,
+      "gas:candidate-vibid:1001000126652": 15,
+      "gas:candidate-vibid:1001000121929": 121,
+      "gas:candidate-vibid:1001000112272": 31,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3477,14 +3477,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 135,
-      "Котельников Михаил Сергеевич": 3,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 135,
+      "gas:candidate-vibid:1001000136142": 3,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3534,14 +3534,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 87,
-      "Котельников Михаил Сергеевич": 12,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 9,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 87,
+      "gas:candidate-vibid:1001000136142": 12,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 9,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3591,14 +3591,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 162,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 39,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 162,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 39,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3648,14 +3648,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 36,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 36,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3705,14 +3705,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 165,
-      "Котельников Михаил Сергеевич": 14,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 16,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 165,
+      "gas:candidate-vibid:1001000136142": 14,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 16,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3762,14 +3762,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 130,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 130,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3819,14 +3819,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 75,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 5,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 75,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 5,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3876,14 +3876,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 108,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 108,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3933,14 +3933,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 173,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 173,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -3990,14 +3990,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 261,
-      "Котельников Михаил Сергеевич": 10,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 50,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 261,
+      "gas:candidate-vibid:1001000136142": 10,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 50,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4047,14 +4047,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 16,
-      "Гартунг Валерий Карлович": 100,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 5,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:374300567025": 16,
+      "gas:candidate-vibid:374300566691": 100,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 5,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4104,14 +4104,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 452,
-      "Котельников Михаил Сергеевич": 10,
-      "Куричев Олег Алексеевич": 18,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 77,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 452,
+      "gas:candidate-vibid:1001000136142": 10,
+      "gas:candidate-vibid:1001000217966": 18,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 77,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4161,14 +4161,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 51,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 51,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 0,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4218,14 +4218,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 44,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 44,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4275,14 +4275,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 89,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 8,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 89,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 8,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4332,14 +4332,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 1,
-      "Котельников Михаил Сергеевич": 57,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 1,
+      "gas:candidate-vibid:1001000136142": 57,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4389,14 +4389,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 90,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 90,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567245&region=0&sub_region=0&type=429",
@@ -4446,14 +4446,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 630,
-      "Котельников Михаил Сергеевич": 13,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 25,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 630,
+      "gas:candidate-vibid:1001000136142": 13,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 25,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4503,14 +4503,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 449,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 17,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 449,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 17,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4560,14 +4560,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 485,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 22,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 485,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 22,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4617,14 +4617,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 646,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 38,
-      "Табалов Алексей Викторович": 13,
-      "Против всех": 41
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 646,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 38,
+      "gas:candidate-vibid:1001000112272": 13,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4674,14 +4674,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 632,
-      "Котельников Михаил Сергеевич": 16,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 39,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 632,
+      "gas:candidate-vibid:1001000136142": 16,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 39,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4731,14 +4731,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 445,
-      "Котельников Михаил Сергеевич": 15,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 40,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 445,
+      "gas:candidate-vibid:1001000136142": 15,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 40,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4788,14 +4788,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 466,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 38,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 466,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 38,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4845,14 +4845,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 538,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 21,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 538,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 21,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4902,14 +4902,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 610,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 43,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 610,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 43,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -4959,14 +4959,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 594,
-      "Котельников Михаил Сергеевич": 19,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 26,
-      "Табалов Алексей Викторович": 11,
-      "Против всех": 44
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 594,
+      "gas:candidate-vibid:1001000136142": 19,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 26,
+      "gas:candidate-vibid:1001000112272": 11,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5016,14 +5016,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 528,
-      "Котельников Михаил Сергеевич": 16,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 31,
-      "Табалов Алексей Викторович": 16,
-      "Против всех": 51
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 528,
+      "gas:candidate-vibid:1001000136142": 16,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 31,
+      "gas:candidate-vibid:1001000112272": 16,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5073,14 +5073,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 577,
-      "Котельников Михаил Сергеевич": 13,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 23,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 39
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 577,
+      "gas:candidate-vibid:1001000136142": 13,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 23,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5130,14 +5130,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 663,
-      "Котельников Михаил Сергеевич": 14,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 19,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 41
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 663,
+      "gas:candidate-vibid:1001000136142": 14,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 19,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5187,14 +5187,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 579,
-      "Котельников Михаил Сергеевич": 14,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 43,
-      "Табалов Алексей Викторович": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 579,
+      "gas:candidate-vibid:1001000136142": 14,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 43,
+      "gas:candidate-vibid:1001000112272": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5244,14 +5244,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 598,
-      "Котельников Михаил Сергеевич": 17,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 55,
-      "Табалов Алексей Викторович": 11,
-      "Против всех": 48
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 598,
+      "gas:candidate-vibid:1001000136142": 17,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 55,
+      "gas:candidate-vibid:1001000112272": 11,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5301,14 +5301,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 526,
-      "Котельников Михаил Сергеевич": 7,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 28,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 526,
+      "gas:candidate-vibid:1001000136142": 7,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 28,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5358,14 +5358,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 107,
-      "Котельников Михаил Сергеевич": 3,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 14,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 107,
+      "gas:candidate-vibid:1001000136142": 3,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 14,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5415,14 +5415,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 324,
-      "Котельников Михаил Сергеевич": 13,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 29,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 324,
+      "gas:candidate-vibid:1001000136142": 13,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 29,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5472,14 +5472,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 427,
-      "Котельников Михаил Сергеевич": 10,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 27,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 63
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 427,
+      "gas:candidate-vibid:1001000136142": 10,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 27,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5529,14 +5529,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 502,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 52,
-      "Табалов Алексей Викторович": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 502,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 52,
+      "gas:candidate-vibid:1001000112272": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5586,14 +5586,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 583,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 51,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 45
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 583,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 51,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5643,14 +5643,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 456,
-      "Котельников Михаил Сергеевич": 20,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 79,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 38
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 456,
+      "gas:candidate-vibid:1001000136142": 20,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 79,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5700,14 +5700,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 521,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 11,
-      "Попцов Станислав Егорович": 58,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 31
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 521,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 11,
+      "gas:candidate-vibid:1001000121929": 58,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5757,14 +5757,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 449,
-      "Котельников Михаил Сергеевич": 13,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 47,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 66
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 449,
+      "gas:candidate-vibid:1001000136142": 13,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 47,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5814,14 +5814,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 383,
-      "Котельников Михаил Сергеевич": 22,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 32,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 58
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 383,
+      "gas:candidate-vibid:1001000136142": 22,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 32,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5871,14 +5871,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 321,
-      "Котельников Михаил Сергеевич": 7,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 34,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 321,
+      "gas:candidate-vibid:1001000136142": 7,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 34,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5928,14 +5928,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 168,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 15,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 168,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 15,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -5985,14 +5985,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 538,
-      "Котельников Михаил Сергеевич": 19,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 52,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 538,
+      "gas:candidate-vibid:1001000136142": 19,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 52,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -6042,14 +6042,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 519,
-      "Котельников Михаил Сергеевич": 10,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 48,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 60
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 519,
+      "gas:candidate-vibid:1001000136142": 10,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 48,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -6099,14 +6099,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 594,
-      "Котельников Михаил Сергеевич": 18,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 39,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 594,
+      "gas:candidate-vibid:1001000136142": 18,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 39,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567248&region=0&sub_region=0&type=429",
@@ -6156,14 +6156,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 586,
-      "Котельников Михаил Сергеевич": 46,
-      "Куричев Олег Алексеевич": 14,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 66,
-      "Табалов Алексей Викторович": 18,
-      "Против всех": 78
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 586,
+      "gas:candidate-vibid:1001000136142": 46,
+      "gas:candidate-vibid:1001000217966": 14,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 66,
+      "gas:candidate-vibid:1001000112272": 18,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6213,14 +6213,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 615,
-      "Котельников Михаил Сергеевич": 37,
-      "Куричев Олег Алексеевич": 14,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 78,
-      "Табалов Алексей Викторович": 26,
-      "Против всех": 117
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 615,
+      "gas:candidate-vibid:1001000136142": 37,
+      "gas:candidate-vibid:1001000217966": 14,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 78,
+      "gas:candidate-vibid:1001000112272": 26,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6270,14 +6270,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 579,
-      "Котельников Михаил Сергеевич": 42,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 96,
-      "Табалов Алексей Викторович": 35,
-      "Против всех": 96
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 579,
+      "gas:candidate-vibid:1001000136142": 42,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 96,
+      "gas:candidate-vibid:1001000112272": 35,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6327,14 +6327,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 681,
-      "Котельников Михаил Сергеевич": 62,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 93,
-      "Табалов Алексей Викторович": 28,
-      "Против всех": 92
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 681,
+      "gas:candidate-vibid:1001000136142": 62,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 93,
+      "gas:candidate-vibid:1001000112272": 28,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6384,14 +6384,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 593,
-      "Котельников Михаил Сергеевич": 51,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 57,
-      "Табалов Алексей Викторович": 25,
-      "Против всех": 92
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 593,
+      "gas:candidate-vibid:1001000136142": 51,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 57,
+      "gas:candidate-vibid:1001000112272": 25,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6441,14 +6441,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 627,
-      "Котельников Михаил Сергеевич": 47,
-      "Куричев Олег Алексеевич": 17,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 43,
-      "Табалов Алексей Викторович": 18,
-      "Против всех": 61
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 627,
+      "gas:candidate-vibid:1001000136142": 47,
+      "gas:candidate-vibid:1001000217966": 17,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 43,
+      "gas:candidate-vibid:1001000112272": 18,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6498,14 +6498,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 643,
-      "Котельников Михаил Сергеевич": 59,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 93,
-      "Табалов Алексей Викторович": 30,
-      "Против всех": 105
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 643,
+      "gas:candidate-vibid:1001000136142": 59,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 93,
+      "gas:candidate-vibid:1001000112272": 30,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6555,14 +6555,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 706,
-      "Котельников Михаил Сергеевич": 53,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 13,
-      "Попцов Станислав Егорович": 140,
-      "Табалов Алексей Викторович": 30,
-      "Против всех": 134
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 706,
+      "gas:candidate-vibid:1001000136142": 53,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 13,
+      "gas:candidate-vibid:1001000121929": 140,
+      "gas:candidate-vibid:1001000112272": 30,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6612,14 +6612,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 12,
-      "Гартунг Валерий Карлович": 636,
-      "Котельников Михаил Сергеевич": 73,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 102,
-      "Табалов Алексей Викторович": 36,
-      "Против всех": 101
+      "gas:candidate-vibid:374300567025": 12,
+      "gas:candidate-vibid:374300566691": 636,
+      "gas:candidate-vibid:1001000136142": 73,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 102,
+      "gas:candidate-vibid:1001000112272": 36,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6669,14 +6669,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 662,
-      "Котельников Михаил Сергеевич": 36,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 124,
-      "Табалов Алексей Викторович": 20,
-      "Против всех": 113
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 662,
+      "gas:candidate-vibid:1001000136142": 36,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 124,
+      "gas:candidate-vibid:1001000112272": 20,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6726,14 +6726,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 690,
-      "Котельников Михаил Сергеевич": 52,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 106,
-      "Табалов Алексей Викторович": 33,
-      "Против всех": 103
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 690,
+      "gas:candidate-vibid:1001000136142": 52,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 106,
+      "gas:candidate-vibid:1001000112272": 33,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6783,14 +6783,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 595,
-      "Котельников Михаил Сергеевич": 86,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 82,
-      "Табалов Алексей Викторович": 15,
-      "Против всех": 97
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 595,
+      "gas:candidate-vibid:1001000136142": 86,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 82,
+      "gas:candidate-vibid:1001000112272": 15,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6840,14 +6840,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 673,
-      "Котельников Михаил Сергеевич": 69,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 109,
-      "Табалов Алексей Викторович": 33,
-      "Против всех": 144
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 673,
+      "gas:candidate-vibid:1001000136142": 69,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 109,
+      "gas:candidate-vibid:1001000112272": 33,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6897,14 +6897,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 11,
-      "Гартунг Валерий Карлович": 339,
-      "Котельников Михаил Сергеевич": 28,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 45,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 48
+      "gas:candidate-vibid:374300567025": 11,
+      "gas:candidate-vibid:374300566691": 339,
+      "gas:candidate-vibid:1001000136142": 28,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 45,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -6954,14 +6954,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 261,
-      "Котельников Михаил Сергеевич": 22,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 23,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 261,
+      "gas:candidate-vibid:1001000136142": 22,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 23,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7011,14 +7011,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 543,
-      "Котельников Михаил Сергеевич": 49,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 84,
-      "Табалов Алексей Викторович": 19,
-      "Против всех": 80
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 543,
+      "gas:candidate-vibid:1001000136142": 49,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 84,
+      "gas:candidate-vibid:1001000112272": 19,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7068,14 +7068,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 15,
-      "Гартунг Валерий Карлович": 468,
-      "Котельников Михаил Сергеевич": 42,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 52,
-      "Табалов Алексей Викторович": 16,
-      "Против всех": 60
+      "gas:candidate-vibid:374300567025": 15,
+      "gas:candidate-vibid:374300566691": 468,
+      "gas:candidate-vibid:1001000136142": 42,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 52,
+      "gas:candidate-vibid:1001000112272": 16,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7125,14 +7125,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 173,
-      "Котельников Михаил Сергеевич": 17,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 22,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 173,
+      "gas:candidate-vibid:1001000136142": 17,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 22,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7182,14 +7182,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 318,
-      "Котельников Михаил Сергеевич": 24,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 33,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 37
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 318,
+      "gas:candidate-vibid:1001000136142": 24,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 33,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7239,14 +7239,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 322,
-      "Котельников Михаил Сергеевич": 33,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 35,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 322,
+      "gas:candidate-vibid:1001000136142": 33,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 35,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7296,14 +7296,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 383,
-      "Котельников Михаил Сергеевич": 36,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 61,
-      "Табалов Алексей Викторович": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 383,
+      "gas:candidate-vibid:1001000136142": 36,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 61,
+      "gas:candidate-vibid:1001000112272": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7353,14 +7353,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 197,
-      "Котельников Михаил Сергеевич": 3,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 16,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 37
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 197,
+      "gas:candidate-vibid:1001000136142": 3,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 16,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7410,14 +7410,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 714,
-      "Котельников Михаил Сергеевич": 32,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 62,
-      "Табалов Алексей Викторович": 9,
-      "Против всех": 70
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 714,
+      "gas:candidate-vibid:1001000136142": 32,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 62,
+      "gas:candidate-vibid:1001000112272": 9,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7467,14 +7467,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 742,
-      "Котельников Михаил Сергеевич": 22,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 67,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 62
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 742,
+      "gas:candidate-vibid:1001000136142": 22,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 67,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7524,14 +7524,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 633,
-      "Котельников Михаил Сергеевич": 25,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 81,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 84
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 633,
+      "gas:candidate-vibid:1001000136142": 25,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 81,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7581,14 +7581,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 565,
-      "Котельников Михаил Сергеевич": 23,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 115,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 56
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 565,
+      "gas:candidate-vibid:1001000136142": 23,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 115,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7638,14 +7638,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 553,
-      "Котельников Михаил Сергеевич": 15,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 56,
-      "Табалов Алексей Викторович": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 553,
+      "gas:candidate-vibid:1001000136142": 15,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 56,
+      "gas:candidate-vibid:1001000112272": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7695,14 +7695,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 314,
-      "Котельников Михаил Сергеевич": 21,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 29,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 314,
+      "gas:candidate-vibid:1001000136142": 21,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 29,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7752,14 +7752,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 72,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 13,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 72,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 13,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7809,14 +7809,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 348,
-      "Котельников Михаил Сергеевич": 32,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 20,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 348,
+      "gas:candidate-vibid:1001000136142": 32,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 20,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7866,14 +7866,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 129,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 19,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 129,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 19,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7923,14 +7923,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 543,
-      "Котельников Михаил Сергеевич": 47,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 57,
-      "Табалов Алексей Викторович": 28,
-      "Против всех": 77
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 543,
+      "gas:candidate-vibid:1001000136142": 47,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 57,
+      "gas:candidate-vibid:1001000112272": 28,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -7980,14 +7980,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 685,
-      "Котельников Михаил Сергеевич": 48,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 73,
-      "Табалов Алексей Викторович": 17,
-      "Против всех": 102
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 685,
+      "gas:candidate-vibid:1001000136142": 48,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 73,
+      "gas:candidate-vibid:1001000112272": 17,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -8037,14 +8037,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 13,
-      "Гартунг Валерий Карлович": 715,
-      "Котельников Михаил Сергеевич": 39,
-      "Куричев Олег Алексеевич": 12,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 50,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 81
+      "gas:candidate-vibid:374300567025": 13,
+      "gas:candidate-vibid:374300566691": 715,
+      "gas:candidate-vibid:1001000136142": 39,
+      "gas:candidate-vibid:1001000217966": 12,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 50,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -8094,14 +8094,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 732,
-      "Котельников Михаил Сергеевич": 49,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 65,
-      "Табалов Алексей Викторович": 24,
-      "Против всех": 107
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 732,
+      "gas:candidate-vibid:1001000136142": 49,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 65,
+      "gas:candidate-vibid:1001000112272": 24,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -8151,14 +8151,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 702,
-      "Котельников Михаил Сергеевич": 62,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 59,
-      "Табалов Алексей Викторович": 13,
-      "Против всех": 124
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 702,
+      "gas:candidate-vibid:1001000136142": 62,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 59,
+      "gas:candidate-vibid:1001000112272": 13,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567252&region=0&sub_region=0&type=429",
@@ -8208,14 +8208,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 328,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 9,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 328,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 9,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8265,14 +8265,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 100,
-      "Котельников Михаил Сергеевич": 3,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 3,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 100,
+      "gas:candidate-vibid:1001000136142": 3,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 3,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8322,14 +8322,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 248,
-      "Котельников Михаил Сергеевич": 17,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 12,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 248,
+      "gas:candidate-vibid:1001000136142": 17,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 12,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8379,14 +8379,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 274,
-      "Котельников Михаил Сергеевич": 20,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 9,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 45
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 274,
+      "gas:candidate-vibid:1001000136142": 20,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 9,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8436,14 +8436,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 303,
-      "Котельников Михаил Сергеевич": 15,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 24,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 56
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 303,
+      "gas:candidate-vibid:1001000136142": 15,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 24,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8493,14 +8493,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 14,
-      "Гартунг Валерий Карлович": 1200,
-      "Котельников Михаил Сергеевич": 29,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 14,
-      "Попцов Станислав Егорович": 79,
-      "Табалов Алексей Викторович": 36,
-      "Против всех": 205
+      "gas:candidate-vibid:374300567025": 14,
+      "gas:candidate-vibid:374300566691": 1200,
+      "gas:candidate-vibid:1001000136142": 29,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 14,
+      "gas:candidate-vibid:1001000121929": 79,
+      "gas:candidate-vibid:1001000112272": 36,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8550,14 +8550,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 1086,
-      "Котельников Михаил Сергеевич": 49,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 81,
-      "Табалов Алексей Викторович": 37,
-      "Против всех": 172
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 1086,
+      "gas:candidate-vibid:1001000136142": 49,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 81,
+      "gas:candidate-vibid:1001000112272": 37,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8607,14 +8607,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 355,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 13,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 355,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 13,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8664,14 +8664,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 197,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 5,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 197,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 5,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8721,14 +8721,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 909,
-      "Котельников Михаил Сергеевич": 31,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 49,
-      "Табалов Алексей Викторович": 19,
-      "Против всех": 81
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 909,
+      "gas:candidate-vibid:1001000136142": 31,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 49,
+      "gas:candidate-vibid:1001000112272": 19,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8778,14 +8778,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 356,
-      "Котельников Михаил Сергеевич": 24,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 18,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 94
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 356,
+      "gas:candidate-vibid:1001000136142": 24,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 18,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8835,14 +8835,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 106,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 106,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8892,14 +8892,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 49,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 0,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 49,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 0,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -8949,14 +8949,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 11,
-      "Гартунг Валерий Карлович": 798,
-      "Котельников Михаил Сергеевич": 25,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 32,
-      "Табалов Алексей Викторович": 33,
-      "Против всех": 106
+      "gas:candidate-vibid:374300567025": 11,
+      "gas:candidate-vibid:374300566691": 798,
+      "gas:candidate-vibid:1001000136142": 25,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 32,
+      "gas:candidate-vibid:1001000112272": 33,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9006,14 +9006,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 232,
-      "Котельников Михаил Сергеевич": 5,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 33
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 232,
+      "gas:candidate-vibid:1001000136142": 5,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9063,14 +9063,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 108,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 7,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 108,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 7,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9120,14 +9120,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 102,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 102,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9177,14 +9177,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 100,
-      "Котельников Михаил Сергеевич": 5,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 5,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 100,
+      "gas:candidate-vibid:1001000136142": 5,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 5,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9234,14 +9234,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 166,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 8,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 166,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 8,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9291,14 +9291,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 195,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 195,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9348,14 +9348,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 76,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 1,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 76,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 1,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9405,14 +9405,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 84,
-      "Котельников Михаил Сергеевич": 5,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 84,
+      "gas:candidate-vibid:1001000136142": 5,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 3,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9462,14 +9462,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 20,
-      "Гартунг Валерий Карлович": 609,
-      "Котельников Михаил Сергеевич": 26,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 66,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 94
+      "gas:candidate-vibid:374300567025": 20,
+      "gas:candidate-vibid:374300566691": 609,
+      "gas:candidate-vibid:1001000136142": 26,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 66,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9519,14 +9519,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 85,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 3,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 85,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 3,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9576,14 +9576,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 632,
-      "Котельников Михаил Сергеевич": 27,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 41,
-      "Табалов Алексей Викторович": 35,
-      "Против всех": 144
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 632,
+      "gas:candidate-vibid:1001000136142": 27,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 41,
+      "gas:candidate-vibid:1001000112272": 35,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9633,14 +9633,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 742,
-      "Котельников Михаил Сергеевич": 26,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 49,
-      "Табалов Алексей Викторович": 21,
-      "Против всех": 163
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 742,
+      "gas:candidate-vibid:1001000136142": 26,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 49,
+      "gas:candidate-vibid:1001000112272": 21,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9690,14 +9690,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 132,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 132,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9747,14 +9747,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 169,
-      "Котельников Михаил Сергеевич": 7,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 10,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 169,
+      "gas:candidate-vibid:1001000136142": 7,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 10,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9804,14 +9804,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 661,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 14,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 24,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 72
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 661,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 14,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 24,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9861,14 +9861,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 188,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 3,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 188,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 3,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9918,14 +9918,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 178,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 7,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 178,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 7,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -9975,14 +9975,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 120,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 0,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 120,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 0,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10032,14 +10032,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 123,
-      "Котельников Михаил Сергеевич": 5,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 8,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 123,
+      "gas:candidate-vibid:1001000136142": 5,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 8,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10089,14 +10089,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 339,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 17,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 339,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 17,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10146,14 +10146,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 11,
-      "Гартунг Валерий Карлович": 603,
-      "Котельников Михаил Сергеевич": 23,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 25,
-      "Табалов Алексей Викторович": 17,
-      "Против всех": 76
+      "gas:candidate-vibid:374300567025": 11,
+      "gas:candidate-vibid:374300566691": 603,
+      "gas:candidate-vibid:1001000136142": 23,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 25,
+      "gas:candidate-vibid:1001000112272": 17,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10203,14 +10203,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 198,
-      "Котельников Михаил Сергеевич": 17,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 14,
-      "Попцов Станислав Егорович": 20,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 37
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 198,
+      "gas:candidate-vibid:1001000136142": 17,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 14,
+      "gas:candidate-vibid:1001000121929": 20,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10260,14 +10260,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 91,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 7,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 91,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 7,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10317,14 +10317,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 415,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 16,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 64
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 415,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 16,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10374,14 +10374,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 515,
-      "Котельников Михаил Сергеевич": 79,
-      "Куричев Олег Алексеевич": 12,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 8,
-      "Табалов Алексей Викторович": 9,
-      "Против всех": 59
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 515,
+      "gas:candidate-vibid:1001000136142": 79,
+      "gas:candidate-vibid:1001000217966": 12,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 8,
+      "gas:candidate-vibid:1001000112272": 9,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10431,14 +10431,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 6,
-      "Гартунг Валерий Карлович": 299,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 17,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:374300567025": 6,
+      "gas:candidate-vibid:374300566691": 299,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 17,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10488,14 +10488,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 113,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 113,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10545,14 +10545,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 11,
-      "Гартунг Валерий Карлович": 953,
-      "Котельников Михаил Сергеевич": 40,
-      "Куричев Олег Алексеевич": 18,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 52,
-      "Табалов Алексей Викторович": 31,
-      "Против всех": 155
+      "gas:candidate-vibid:374300567025": 11,
+      "gas:candidate-vibid:374300566691": 953,
+      "gas:candidate-vibid:1001000136142": 40,
+      "gas:candidate-vibid:1001000217966": 18,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 52,
+      "gas:candidate-vibid:1001000112272": 31,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10602,14 +10602,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 341,
-      "Котельников Михаил Сергеевич": 16,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 19,
-      "Табалов Алексей Викторович": 13,
-      "Против всех": 88
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 341,
+      "gas:candidate-vibid:1001000136142": 16,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 19,
+      "gas:candidate-vibid:1001000112272": 13,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10659,14 +10659,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 174,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 8,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 174,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 8,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10716,14 +10716,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 189,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 6,
-      "Попцов Станислав Егорович": 13,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 48
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 189,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 6,
+      "gas:candidate-vibid:1001000121929": 13,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10773,14 +10773,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 69,
-      "Котельников Михаил Сергеевич": 0,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 69,
+      "gas:candidate-vibid:1001000136142": 0,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10830,14 +10830,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 180,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 12,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 180,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 12,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10887,14 +10887,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 49,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 0,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 49,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 0,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -10944,14 +10944,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 248,
-      "Котельников Михаил Сергеевич": 11,
-      "Куричев Олег Алексеевич": 5,
-      "Пинженин Виктор Михайлович": 2,
-      "Попцов Станислав Егорович": 13,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 248,
+      "gas:candidate-vibid:1001000136142": 11,
+      "gas:candidate-vibid:1001000217966": 5,
+      "gas:candidate-vibid:1001000126652": 2,
+      "gas:candidate-vibid:1001000121929": 13,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567256&region=0&sub_region=0&type=429",
@@ -11001,14 +11001,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 545,
-      "Котельников Михаил Сергеевич": 24,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 51,
-      "Попцов Станислав Егорович": 48,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 545,
+      "gas:candidate-vibid:1001000136142": 24,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 51,
+      "gas:candidate-vibid:1001000121929": 48,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11058,14 +11058,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 502,
-      "Котельников Михаил Сергеевич": 16,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 42,
-      "Попцов Станислав Егорович": 55,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 63
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 502,
+      "gas:candidate-vibid:1001000136142": 16,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 42,
+      "gas:candidate-vibid:1001000121929": 55,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11115,14 +11115,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 666,
-      "Котельников Михаил Сергеевич": 16,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 26,
-      "Попцов Станислав Егорович": 43,
-      "Табалов Алексей Викторович": 17,
-      "Против всех": 71
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 666,
+      "gas:candidate-vibid:1001000136142": 16,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 26,
+      "gas:candidate-vibid:1001000121929": 43,
+      "gas:candidate-vibid:1001000112272": 17,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11172,14 +11172,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 497,
-      "Котельников Михаил Сергеевич": 18,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 26,
-      "Попцов Станислав Егорович": 18,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 46
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 497,
+      "gas:candidate-vibid:1001000136142": 18,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 26,
+      "gas:candidate-vibid:1001000121929": 18,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11229,14 +11229,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 529,
-      "Котельников Михаил Сергеевич": 18,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 20,
-      "Попцов Станислав Егорович": 27,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 50
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 529,
+      "gas:candidate-vibid:1001000136142": 18,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 20,
+      "gas:candidate-vibid:1001000121929": 27,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11286,14 +11286,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 240,
-      "Котельников Михаил Сергеевич": 5,
-      "Куричев Олег Алексеевич": 9,
-      "Пинженин Виктор Михайлович": 22,
-      "Попцов Станислав Егорович": 36,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 240,
+      "gas:candidate-vibid:1001000136142": 5,
+      "gas:candidate-vibid:1001000217966": 9,
+      "gas:candidate-vibid:1001000126652": 22,
+      "gas:candidate-vibid:1001000121929": 36,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11343,14 +11343,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 297,
-      "Котельников Михаил Сергеевич": 4,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 15,
-      "Попцов Станислав Егорович": 20,
-      "Табалов Алексей Викторович": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 297,
+      "gas:candidate-vibid:1001000136142": 4,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 15,
+      "gas:candidate-vibid:1001000121929": 20,
+      "gas:candidate-vibid:1001000112272": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11400,14 +11400,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 179,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 4,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 179,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 4,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11457,14 +11457,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 209,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 35
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 209,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 7,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11514,14 +11514,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 760,
-      "Котельников Михаил Сергеевич": 26,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 39,
-      "Попцов Станислав Егорович": 41,
-      "Табалов Алексей Викторович": 19,
-      "Против всех": 77
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 760,
+      "gas:candidate-vibid:1001000136142": 26,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 39,
+      "gas:candidate-vibid:1001000121929": 41,
+      "gas:candidate-vibid:1001000112272": 19,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11571,14 +11571,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 82,
-      "Котельников Михаил Сергеевич": 3,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 7,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 82,
+      "gas:candidate-vibid:1001000136142": 3,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 7,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11628,14 +11628,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 314,
-      "Котельников Михаил Сергеевич": 7,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 3,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 314,
+      "gas:candidate-vibid:1001000136142": 7,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 3,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11685,14 +11685,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 11,
-      "Гартунг Валерий Карлович": 802,
-      "Котельников Михаил Сергеевич": 33,
-      "Куричев Олег Алексеевич": 12,
-      "Пинженин Виктор Михайлович": 53,
-      "Попцов Станислав Егорович": 29,
-      "Табалов Алексей Викторович": 19,
-      "Против всех": 55
+      "gas:candidate-vibid:374300567025": 11,
+      "gas:candidate-vibid:374300566691": 802,
+      "gas:candidate-vibid:1001000136142": 33,
+      "gas:candidate-vibid:1001000217966": 12,
+      "gas:candidate-vibid:1001000126652": 53,
+      "gas:candidate-vibid:1001000121929": 29,
+      "gas:candidate-vibid:1001000112272": 19,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11742,14 +11742,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 354,
-      "Котельников Михаил Сергеевич": 20,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 34,
-      "Попцов Станислав Егорович": 23,
-      "Табалов Алексей Викторович": 8,
-      "Против всех": 53
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 354,
+      "gas:candidate-vibid:1001000136142": 20,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 34,
+      "gas:candidate-vibid:1001000121929": 23,
+      "gas:candidate-vibid:1001000112272": 8,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11799,14 +11799,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 4,
-      "Гартунг Валерий Карлович": 290,
-      "Котельников Михаил Сергеевич": 13,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 7,
-      "Попцов Станислав Егорович": 25,
-      "Табалов Алексей Викторович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:374300567025": 4,
+      "gas:candidate-vibid:374300566691": 290,
+      "gas:candidate-vibid:1001000136142": 13,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 7,
+      "gas:candidate-vibid:1001000121929": 25,
+      "gas:candidate-vibid:1001000112272": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11856,14 +11856,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 0,
-      "Гартунг Валерий Карлович": 92,
-      "Котельников Михаил Сергеевич": 2,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 11,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:374300567025": 0,
+      "gas:candidate-vibid:374300566691": 92,
+      "gas:candidate-vibid:1001000136142": 2,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 11,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11913,14 +11913,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 362,
-      "Котельников Михаил Сергеевич": 9,
-      "Куричев Олег Алексеевич": 23,
-      "Пинженин Виктор Михайлович": 16,
-      "Попцов Станислав Егорович": 14,
-      "Табалов Алексей Викторович": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 362,
+      "gas:candidate-vibid:1001000136142": 9,
+      "gas:candidate-vibid:1001000217966": 23,
+      "gas:candidate-vibid:1001000126652": 16,
+      "gas:candidate-vibid:1001000121929": 14,
+      "gas:candidate-vibid:1001000112272": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -11970,14 +11970,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 336,
-      "Котельников Михаил Сергеевич": 23,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 16,
-      "Попцов Станислав Егорович": 6,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 336,
+      "gas:candidate-vibid:1001000136142": 23,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 16,
+      "gas:candidate-vibid:1001000121929": 6,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12027,14 +12027,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 567,
-      "Котельников Михаил Сергеевич": 26,
-      "Куричев Олег Алексеевич": 17,
-      "Пинженин Виктор Михайлович": 25,
-      "Попцов Станислав Егорович": 60,
-      "Табалов Алексей Викторович": 14,
-      "Против всех": 32
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 567,
+      "gas:candidate-vibid:1001000136142": 26,
+      "gas:candidate-vibid:1001000217966": 17,
+      "gas:candidate-vibid:1001000126652": 25,
+      "gas:candidate-vibid:1001000121929": 60,
+      "gas:candidate-vibid:1001000112272": 14,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12084,14 +12084,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 143,
-      "Котельников Михаил Сергеевич": 1,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 1,
-      "Табалов Алексей Викторович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 143,
+      "gas:candidate-vibid:1001000136142": 1,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 1,
+      "gas:candidate-vibid:1001000112272": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12141,14 +12141,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 168,
-      "Котельников Михаил Сергеевич": 14,
-      "Куричев Олег Алексеевич": 7,
-      "Пинженин Виктор Михайлович": 11,
-      "Попцов Станислав Егорович": 10,
-      "Табалов Алексей Викторович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 168,
+      "gas:candidate-vibid:1001000136142": 14,
+      "gas:candidate-vibid:1001000217966": 7,
+      "gas:candidate-vibid:1001000126652": 11,
+      "gas:candidate-vibid:1001000121929": 10,
+      "gas:candidate-vibid:1001000112272": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12198,14 +12198,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 272,
-      "Котельников Михаил Сергеевич": 14,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 16,
-      "Попцов Станислав Егорович": 13,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 272,
+      "gas:candidate-vibid:1001000136142": 14,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 16,
+      "gas:candidate-vibid:1001000121929": 13,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12255,14 +12255,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 22,
-      "Гартунг Валерий Карлович": 534,
-      "Котельников Михаил Сергеевич": 12,
-      "Куричев Олег Алексеевич": 21,
-      "Пинженин Виктор Михайлович": 14,
-      "Попцов Станислав Егорович": 44,
-      "Табалов Алексей Викторович": 18,
-      "Против всех": 71
+      "gas:candidate-vibid:374300567025": 22,
+      "gas:candidate-vibid:374300566691": 534,
+      "gas:candidate-vibid:1001000136142": 12,
+      "gas:candidate-vibid:1001000217966": 21,
+      "gas:candidate-vibid:1001000126652": 14,
+      "gas:candidate-vibid:1001000121929": 44,
+      "gas:candidate-vibid:1001000112272": 18,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12312,14 +12312,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 151,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 6,
-      "Пинженин Виктор Михайлович": 11,
-      "Попцов Станислав Егорович": 10,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 151,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 6,
+      "gas:candidate-vibid:1001000126652": 11,
+      "gas:candidate-vibid:1001000121929": 10,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12369,14 +12369,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 285,
-      "Котельников Михаил Сергеевич": 19,
-      "Куричев Олег Алексеевич": 4,
-      "Пинженин Виктор Михайлович": 36,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 285,
+      "gas:candidate-vibid:1001000136142": 19,
+      "gas:candidate-vibid:1001000217966": 4,
+      "gas:candidate-vibid:1001000126652": 36,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12426,14 +12426,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 210,
-      "Котельников Михаил Сергеевич": 8,
-      "Куричев Олег Алексеевич": 1,
-      "Пинженин Виктор Михайлович": 16,
-      "Попцов Станислав Егорович": 4,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 210,
+      "gas:candidate-vibid:1001000136142": 8,
+      "gas:candidate-vibid:1001000217966": 1,
+      "gas:candidate-vibid:1001000126652": 16,
+      "gas:candidate-vibid:1001000121929": 4,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12483,14 +12483,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 1,
-      "Гартунг Валерий Карлович": 204,
-      "Котельников Михаил Сергеевич": 10,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 19,
-      "Попцов Станислав Егорович": 7,
-      "Табалов Алексей Викторович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:374300567025": 1,
+      "gas:candidate-vibid:374300566691": 204,
+      "gas:candidate-vibid:1001000136142": 10,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 19,
+      "gas:candidate-vibid:1001000121929": 7,
+      "gas:candidate-vibid:1001000112272": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12540,14 +12540,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 445,
-      "Котельников Михаил Сергеевич": 26,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 21,
-      "Попцов Станислав Егорович": 41,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 52
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 445,
+      "gas:candidate-vibid:1001000136142": 26,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 21,
+      "gas:candidate-vibid:1001000121929": 41,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12597,14 +12597,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 72,
-      "Котельников Михаил Сергеевич": 6,
-      "Куричев Олег Алексеевич": 2,
-      "Пинженин Виктор Михайлович": 5,
-      "Попцов Станислав Егорович": 2,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 72,
+      "gas:candidate-vibid:1001000136142": 6,
+      "gas:candidate-vibid:1001000217966": 2,
+      "gas:candidate-vibid:1001000126652": 5,
+      "gas:candidate-vibid:1001000121929": 2,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12654,14 +12654,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 278,
-      "Котельников Михаил Сергеевич": 12,
-      "Куричев Олег Алексеевич": 14,
-      "Пинженин Виктор Михайлович": 29,
-      "Попцов Станислав Егорович": 33,
-      "Табалов Алексей Викторович": 12,
-      "Против всех": 27
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 278,
+      "gas:candidate-vibid:1001000136142": 12,
+      "gas:candidate-vibid:1001000217966": 14,
+      "gas:candidate-vibid:1001000126652": 29,
+      "gas:candidate-vibid:1001000121929": 33,
+      "gas:candidate-vibid:1001000112272": 12,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12711,14 +12711,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 2,
-      "Гартунг Валерий Карлович": 328,
-      "Котельников Михаил Сергеевич": 12,
-      "Куричев Олег Алексеевич": 3,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 22,
-      "Табалов Алексей Викторович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:374300567025": 2,
+      "gas:candidate-vibid:374300566691": 328,
+      "gas:candidate-vibid:1001000136142": 12,
+      "gas:candidate-vibid:1001000217966": 3,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 22,
+      "gas:candidate-vibid:1001000112272": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567258&region=0&sub_region=0&type=429",
@@ -12768,14 +12768,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 559,
-      "Котельников Михаил Сергеевич": 38,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 73,
-      "Табалов Алексей Викторович": 87,
-      "Против всех": 188
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 559,
+      "gas:candidate-vibid:1001000136142": 38,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 73,
+      "gas:candidate-vibid:1001000112272": 87,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -12825,14 +12825,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 479,
-      "Котельников Михаил Сергеевич": 28,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 50,
-      "Табалов Алексей Викторович": 55,
-      "Против всех": 112
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 479,
+      "gas:candidate-vibid:1001000136142": 28,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 50,
+      "gas:candidate-vibid:1001000112272": 55,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -12882,14 +12882,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 716,
-      "Котельников Михаил Сергеевич": 49,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 92,
-      "Табалов Алексей Викторович": 85,
-      "Против всех": 169
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 716,
+      "gas:candidate-vibid:1001000136142": 49,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 92,
+      "gas:candidate-vibid:1001000112272": 85,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -12939,14 +12939,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 16,
-      "Гартунг Валерий Карлович": 602,
-      "Котельников Михаил Сергеевич": 39,
-      "Куричев Олег Алексеевич": 17,
-      "Пинженин Виктор Михайлович": 11,
-      "Попцов Станислав Егорович": 58,
-      "Табалов Алексей Викторович": 71,
-      "Против всех": 210
+      "gas:candidate-vibid:374300567025": 16,
+      "gas:candidate-vibid:374300566691": 602,
+      "gas:candidate-vibid:1001000136142": 39,
+      "gas:candidate-vibid:1001000217966": 17,
+      "gas:candidate-vibid:1001000126652": 11,
+      "gas:candidate-vibid:1001000121929": 58,
+      "gas:candidate-vibid:1001000112272": 71,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -12996,14 +12996,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 13,
-      "Гартунг Валерий Карлович": 722,
-      "Котельников Михаил Сергеевич": 65,
-      "Куричев Олег Алексеевич": 23,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 84,
-      "Табалов Алексей Викторович": 101,
-      "Против всех": 254
+      "gas:candidate-vibid:374300567025": 13,
+      "gas:candidate-vibid:374300566691": 722,
+      "gas:candidate-vibid:1001000136142": 65,
+      "gas:candidate-vibid:1001000217966": 23,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 84,
+      "gas:candidate-vibid:1001000112272": 101,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13053,14 +13053,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 524,
-      "Котельников Михаил Сергеевич": 30,
-      "Куричев Олег Алексеевич": 26,
-      "Пинженин Виктор Михайлович": 3,
-      "Попцов Станислав Егорович": 60,
-      "Табалов Алексей Викторович": 61,
-      "Против всех": 157
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 524,
+      "gas:candidate-vibid:1001000136142": 30,
+      "gas:candidate-vibid:1001000217966": 26,
+      "gas:candidate-vibid:1001000126652": 3,
+      "gas:candidate-vibid:1001000121929": 60,
+      "gas:candidate-vibid:1001000112272": 61,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13110,14 +13110,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 13,
-      "Гартунг Валерий Карлович": 677,
-      "Котельников Михаил Сергеевич": 68,
-      "Куричев Олег Алексеевич": 26,
-      "Пинженин Виктор Михайлович": 17,
-      "Попцов Станислав Егорович": 100,
-      "Табалов Алексей Викторович": 95,
-      "Против всех": 228
+      "gas:candidate-vibid:374300567025": 13,
+      "gas:candidate-vibid:374300566691": 677,
+      "gas:candidate-vibid:1001000136142": 68,
+      "gas:candidate-vibid:1001000217966": 26,
+      "gas:candidate-vibid:1001000126652": 17,
+      "gas:candidate-vibid:1001000121929": 100,
+      "gas:candidate-vibid:1001000112272": 95,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13167,14 +13167,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 13,
-      "Гартунг Валерий Карлович": 550,
-      "Котельников Михаил Сергеевич": 56,
-      "Куричев Олег Алексеевич": 18,
-      "Пинженин Виктор Михайлович": 17,
-      "Попцов Станислав Егорович": 98,
-      "Табалов Алексей Викторович": 58,
-      "Против всех": 172
+      "gas:candidate-vibid:374300567025": 13,
+      "gas:candidate-vibid:374300566691": 550,
+      "gas:candidate-vibid:1001000136142": 56,
+      "gas:candidate-vibid:1001000217966": 18,
+      "gas:candidate-vibid:1001000126652": 17,
+      "gas:candidate-vibid:1001000121929": 98,
+      "gas:candidate-vibid:1001000112272": 58,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13224,14 +13224,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 12,
-      "Гартунг Валерий Карлович": 574,
-      "Котельников Михаил Сергеевич": 39,
-      "Куричев Олег Алексеевич": 10,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 58,
-      "Табалов Алексей Викторович": 46,
-      "Против всех": 100
+      "gas:candidate-vibid:374300567025": 12,
+      "gas:candidate-vibid:374300566691": 574,
+      "gas:candidate-vibid:1001000136142": 39,
+      "gas:candidate-vibid:1001000217966": 10,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 58,
+      "gas:candidate-vibid:1001000112272": 46,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13281,14 +13281,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 22,
-      "Гартунг Валерий Карлович": 641,
-      "Котельников Михаил Сергеевич": 48,
-      "Куричев Олег Алексеевич": 25,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 86,
-      "Табалов Алексей Викторович": 49,
-      "Против всех": 178
+      "gas:candidate-vibid:374300567025": 22,
+      "gas:candidate-vibid:374300566691": 641,
+      "gas:candidate-vibid:1001000136142": 48,
+      "gas:candidate-vibid:1001000217966": 25,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 86,
+      "gas:candidate-vibid:1001000112272": 49,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13338,14 +13338,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 19,
-      "Гартунг Валерий Карлович": 563,
-      "Котельников Михаил Сергеевич": 49,
-      "Куричев Олег Алексеевич": 26,
-      "Пинженин Виктор Михайлович": 11,
-      "Попцов Станислав Егорович": 60,
-      "Табалов Алексей Викторович": 77,
-      "Против всех": 206
+      "gas:candidate-vibid:374300567025": 19,
+      "gas:candidate-vibid:374300566691": 563,
+      "gas:candidate-vibid:1001000136142": 49,
+      "gas:candidate-vibid:1001000217966": 26,
+      "gas:candidate-vibid:1001000126652": 11,
+      "gas:candidate-vibid:1001000121929": 60,
+      "gas:candidate-vibid:1001000112272": 77,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13395,14 +13395,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 377,
-      "Котельников Михаил Сергеевич": 34,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 28,
-      "Табалов Алексей Викторович": 34,
-      "Против всех": 90
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 377,
+      "gas:candidate-vibid:1001000136142": 34,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 28,
+      "gas:candidate-vibid:1001000112272": 34,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13452,14 +13452,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 694,
-      "Котельников Михаил Сергеевич": 57,
-      "Куричев Олег Алексеевич": 17,
-      "Пинженин Виктор Михайлович": 9,
-      "Попцов Станислав Егорович": 85,
-      "Табалов Алексей Викторович": 96,
-      "Против всех": 217
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 694,
+      "gas:candidate-vibid:1001000136142": 57,
+      "gas:candidate-vibid:1001000217966": 17,
+      "gas:candidate-vibid:1001000126652": 9,
+      "gas:candidate-vibid:1001000121929": 85,
+      "gas:candidate-vibid:1001000112272": 96,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13509,14 +13509,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 659,
-      "Котельников Михаил Сергеевич": 42,
-      "Куричев Олег Алексеевич": 18,
-      "Пинженин Виктор Михайлович": 19,
-      "Попцов Станислав Егорович": 74,
-      "Табалов Алексей Викторович": 46,
-      "Против всех": 137
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 659,
+      "gas:candidate-vibid:1001000136142": 42,
+      "gas:candidate-vibid:1001000217966": 18,
+      "gas:candidate-vibid:1001000126652": 19,
+      "gas:candidate-vibid:1001000121929": 74,
+      "gas:candidate-vibid:1001000112272": 46,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13566,14 +13566,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 572,
-      "Котельников Михаил Сергеевич": 37,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 56,
-      "Табалов Алексей Викторович": 49,
-      "Против всех": 139
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 572,
+      "gas:candidate-vibid:1001000136142": 37,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 56,
+      "gas:candidate-vibid:1001000112272": 49,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13623,14 +13623,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 595,
-      "Котельников Михаил Сергеевич": 61,
-      "Куричев Олег Алексеевич": 19,
-      "Пинженин Виктор Михайлович": 22,
-      "Попцов Станислав Егорович": 67,
-      "Табалов Алексей Викторович": 61,
-      "Против всех": 147
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 595,
+      "gas:candidate-vibid:1001000136142": 61,
+      "gas:candidate-vibid:1001000217966": 19,
+      "gas:candidate-vibid:1001000126652": 22,
+      "gas:candidate-vibid:1001000121929": 67,
+      "gas:candidate-vibid:1001000112272": 61,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13680,14 +13680,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 636,
-      "Котельников Михаил Сергеевич": 31,
-      "Куричев Олег Алексеевич": 17,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 73,
-      "Табалов Алексей Викторович": 60,
-      "Против всех": 137
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 636,
+      "gas:candidate-vibid:1001000136142": 31,
+      "gas:candidate-vibid:1001000217966": 17,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 73,
+      "gas:candidate-vibid:1001000112272": 60,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13737,14 +13737,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 3,
-      "Гартунг Валерий Карлович": 674,
-      "Котельников Михаил Сергеевич": 39,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 1,
-      "Попцов Станислав Егорович": 56,
-      "Табалов Алексей Викторович": 67,
-      "Против всех": 166
+      "gas:candidate-vibid:374300567025": 3,
+      "gas:candidate-vibid:374300566691": 674,
+      "gas:candidate-vibid:1001000136142": 39,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 1,
+      "gas:candidate-vibid:1001000121929": 56,
+      "gas:candidate-vibid:1001000112272": 67,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13794,14 +13794,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 9,
-      "Гартунг Валерий Карлович": 717,
-      "Котельников Михаил Сергеевич": 51,
-      "Куричев Олег Алексеевич": 8,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 92,
-      "Табалов Алексей Викторович": 43,
-      "Против всех": 181
+      "gas:candidate-vibid:374300567025": 9,
+      "gas:candidate-vibid:374300566691": 717,
+      "gas:candidate-vibid:1001000136142": 51,
+      "gas:candidate-vibid:1001000217966": 8,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 92,
+      "gas:candidate-vibid:1001000112272": 43,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13851,14 +13851,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 579,
-      "Котельников Михаил Сергеевич": 64,
-      "Куричев Олег Алексеевич": 13,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 72,
-      "Табалов Алексей Викторович": 45,
-      "Против всех": 120
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 579,
+      "gas:candidate-vibid:1001000136142": 64,
+      "gas:candidate-vibid:1001000217966": 13,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 72,
+      "gas:candidate-vibid:1001000112272": 45,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13908,14 +13908,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 15,
-      "Гартунг Валерий Карлович": 749,
-      "Котельников Михаил Сергеевич": 39,
-      "Куричев Олег Алексеевич": 12,
-      "Пинженин Виктор Михайлович": 12,
-      "Попцов Станислав Егорович": 66,
-      "Табалов Алексей Викторович": 56,
-      "Против всех": 175
+      "gas:candidate-vibid:374300567025": 15,
+      "gas:candidate-vibid:374300566691": 749,
+      "gas:candidate-vibid:1001000136142": 39,
+      "gas:candidate-vibid:1001000217966": 12,
+      "gas:candidate-vibid:1001000126652": 12,
+      "gas:candidate-vibid:1001000121929": 66,
+      "gas:candidate-vibid:1001000112272": 56,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -13965,14 +13965,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 552,
-      "Котельников Михаил Сергеевич": 33,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 57,
-      "Табалов Алексей Викторович": 36,
-      "Против всех": 120
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 552,
+      "gas:candidate-vibid:1001000136142": 33,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 57,
+      "gas:candidate-vibid:1001000112272": 36,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -14022,14 +14022,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 5,
-      "Гартунг Валерий Карлович": 674,
-      "Котельников Михаил Сергеевич": 69,
-      "Куричев Олег Алексеевич": 18,
-      "Пинженин Виктор Михайлович": 10,
-      "Попцов Станислав Егорович": 86,
-      "Табалов Алексей Викторович": 66,
-      "Против всех": 177
+      "gas:candidate-vibid:374300567025": 5,
+      "gas:candidate-vibid:374300566691": 674,
+      "gas:candidate-vibid:1001000136142": 69,
+      "gas:candidate-vibid:1001000217966": 18,
+      "gas:candidate-vibid:1001000126652": 10,
+      "gas:candidate-vibid:1001000121929": 86,
+      "gas:candidate-vibid:1001000112272": 66,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -14079,14 +14079,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 704,
-      "Котельников Михаил Сергеевич": 55,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 79,
-      "Табалов Алексей Викторович": 72,
-      "Против всех": 147
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 704,
+      "gas:candidate-vibid:1001000136142": 55,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 79,
+      "gas:candidate-vibid:1001000112272": 72,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -14136,14 +14136,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 7,
-      "Гартунг Валерий Карлович": 706,
-      "Котельников Михаил Сергеевич": 53,
-      "Куричев Олег Алексеевич": 12,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 64,
-      "Табалов Алексей Викторович": 60,
-      "Против всех": 148
+      "gas:candidate-vibid:374300567025": 7,
+      "gas:candidate-vibid:374300566691": 706,
+      "gas:candidate-vibid:1001000136142": 53,
+      "gas:candidate-vibid:1001000217966": 12,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 64,
+      "gas:candidate-vibid:1001000112272": 60,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -14193,14 +14193,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 10,
-      "Гартунг Валерий Карлович": 694,
-      "Котельников Михаил Сергеевич": 41,
-      "Куричев Олег Алексеевич": 16,
-      "Пинженин Виктор Михайлович": 16,
-      "Попцов Станислав Егорович": 90,
-      "Табалов Алексей Викторович": 59,
-      "Против всех": 152
+      "gas:candidate-vibid:374300567025": 10,
+      "gas:candidate-vibid:374300566691": 694,
+      "gas:candidate-vibid:1001000136142": 41,
+      "gas:candidate-vibid:1001000217966": 16,
+      "gas:candidate-vibid:1001000126652": 16,
+      "gas:candidate-vibid:1001000121929": 90,
+      "gas:candidate-vibid:1001000112272": 59,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -14250,14 +14250,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 16,
-      "Гартунг Валерий Карлович": 882,
-      "Котельников Михаил Сергеевич": 77,
-      "Куричев Олег Алексеевич": 11,
-      "Пинженин Виктор Михайлович": 20,
-      "Попцов Станислав Егорович": 82,
-      "Табалов Алексей Викторович": 55,
-      "Против всех": 215
+      "gas:candidate-vibid:374300567025": 16,
+      "gas:candidate-vibid:374300566691": 882,
+      "gas:candidate-vibid:1001000136142": 77,
+      "gas:candidate-vibid:1001000217966": 11,
+      "gas:candidate-vibid:1001000126652": 20,
+      "gas:candidate-vibid:1001000121929": 82,
+      "gas:candidate-vibid:1001000112272": 55,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",
@@ -14307,14 +14307,14 @@ export const duma_2003_uik_428_region_74_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахроменко Михаил Васильевич": 8,
-      "Гартунг Валерий Карлович": 493,
-      "Котельников Михаил Сергеевич": 37,
-      "Куричев Олег Алексеевич": 15,
-      "Пинженин Виктор Михайлович": 8,
-      "Попцов Станислав Егорович": 62,
-      "Табалов Алексей Викторович": 37,
-      "Против всех": 123
+      "gas:candidate-vibid:374300567025": 8,
+      "gas:candidate-vibid:374300566691": 493,
+      "gas:candidate-vibid:1001000136142": 37,
+      "gas:candidate-vibid:1001000217966": 15,
+      "gas:candidate-vibid:1001000126652": 8,
+      "gas:candidate-vibid:1001000121929": 62,
+      "gas:candidate-vibid:1001000112272": 37,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743005008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300567260&region=0&sub_region=0&type=429",

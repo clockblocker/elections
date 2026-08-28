@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { AnalysisParameters, Point, PointEstimate } from "../types";
+import type { Point, PointEstimate } from "../types";
 
 interface View { x0: number; x1: number; y0: number; y1: number }
 interface Size { width: number; height: number }
@@ -29,11 +29,11 @@ function isPlottable(point: Point): point is PlotPoint {
 }
 
 export function Scatterplot({
-  points, estimates, parameters, color, selectedId, onSelect
+  points, estimates, coreContour, color, selectedId, onSelect
 }: {
   points: Point[];
   estimates: Map<string, PointEstimate>;
-  parameters: AnalysisParameters;
+  coreContour: Array<{ turnout: number; result: number }>;
   color: string;
   selectedId: string | null;
   onSelect(point: Point): void;
@@ -124,26 +124,43 @@ export function Scatterplot({
       if (tick >= current.x0 && tick <= current.x1) { context.beginPath(); context.moveTo(x(tick), MARGIN.top); context.lineTo(x(tick), MARGIN.top + d.height); context.stroke(); }
       if (tick >= current.y0 && tick <= current.y1) { context.beginPath(); context.moveTo(MARGIN.left, y(tick)); context.lineTo(MARGIN.left + d.width, y(tick)); context.stroke(); }
     }
-    const normal = rgba(color, 0.25); const elevated = rgba("#c88732", 0.5); const review = rgba("#b7452e", 0.62);
-    for (const point of plottedPoints) {
-      if (point.turnout < current.x0 || point.turnout > current.x1 || point.result < current.y0 || point.result > current.y1) continue;
-      const pixel = toPixel(point, current); const estimate = estimates.get(point.id);
-      context.fillStyle = estimate?.qValue !== null && estimate?.qValue !== undefined
-        && estimate.qValue <= parameters.fdrThreshold ? review
-        : (estimate?.pSus ?? 0) >= 0.95 ? elevated : normal;
-      context.fillRect(pixel.x - 1.25, pixel.y - 1.25, 2.5, 2.5);
+    const gradeColors: Record<PointEstimate["grade"], string> = {
+      U: "rgba(95,99,93,.22)", P0: rgba(color, 0.22), P1: "rgba(199,150,51,.50)",
+      P2: "rgba(204,101,42,.61)", P3: "rgba(183,69,46,.72)"
+    };
+    // Paint the ordinary cloud first so dense P2/P3 tails cannot be hidden by it.
+    for (const grade of ["U", "P0", "P1", "P2", "P3"] as const) {
+      for (const point of plottedPoints) {
+        if (point.turnout < current.x0 || point.turnout > current.x1 || point.result < current.y0 || point.result > current.y1) continue;
+        if ((estimates.get(point.id)?.grade ?? "U") !== grade) continue;
+        const pixel = toPixel(point, current); const width = grade === "P3" ? 3 : 2.5;
+        context.fillStyle = gradeColors[grade];
+        context.fillRect(pixel.x - width / 2, pixel.y - width / 2, width, width);
+      }
     }
+    context.strokeStyle = "rgba(35,92,82,.95)"; context.lineWidth = 2;
+    context.beginPath();
+    for (const [index, corePoint] of coreContour.entries()) {
+      if (index === 0) context.moveTo(x(corePoint.turnout), y(corePoint.result));
+      else context.lineTo(x(corePoint.turnout), y(corePoint.result));
+    }
+    context.stroke();
     const selected = selectedId ? plottedPoints.find((point) => point.id === selectedId) : null;
     if (selected) {
       const pixel = toPixel(selected, current); const estimate = estimates.get(selected.id);
-      if (estimate?.expectedShare !== null && estimate?.expectedShare !== undefined && estimate.interval95) {
+      if (estimate?.expectedShare !== null && estimate?.expectedShare !== undefined
+        && estimate.expectedTurnout !== null && estimate.expectedTurnout !== undefined && estimate.interval95) {
         const expectedResult = 100 * estimate.expectedShare;
         const lowResult = 100 * estimate.interval95[0] / selected.validBallots;
         const highResult = 100 * estimate.interval95[1] / selected.validBallots;
+        const expectedPixel = toPixel({ turnout: estimate.expectedTurnout, result: expectedResult }, current);
         context.strokeStyle = "rgba(21,26,24,.78)"; context.lineWidth = 2;
-        context.beginPath(); context.moveTo(pixel.x, y(lowResult)); context.lineTo(pixel.x, y(highResult)); context.stroke();
+        context.setLineDash([5, 4]);
+        context.beginPath(); context.moveTo(expectedPixel.x, expectedPixel.y); context.lineTo(pixel.x, pixel.y); context.stroke();
+        context.setLineDash([]);
+        context.beginPath(); context.moveTo(expectedPixel.x, y(lowResult)); context.lineTo(expectedPixel.x, y(highResult)); context.stroke();
         context.fillStyle = "#fbfaf6"; context.strokeStyle = "#151a18";
-        context.beginPath(); context.arc(pixel.x, y(expectedResult), 4, 0, Math.PI * 2); context.fill(); context.stroke();
+        context.beginPath(); context.arc(expectedPixel.x, expectedPixel.y, 4, 0, Math.PI * 2); context.fill(); context.stroke();
       }
       context.strokeStyle = "#151a18"; context.lineWidth = 2;
       context.beginPath(); context.arc(pixel.x, pixel.y, 6.5, 0, Math.PI * 2); context.stroke();
@@ -161,7 +178,7 @@ export function Scatterplot({
       const value = current.y0 + index / 5 * (current.y1 - current.y0);
       context.fillText(value.toFixed(current.y1 - current.y0 < 20 ? 1 : 0), MARGIN.left - 9, MARGIN.top + d.height - index / 5 * d.height + 4);
     }
-  }, [color, dimensions, estimates, parameters.fdrThreshold, plottedPoints, selectedId, size, toPixel, view]);
+  }, [color, coreContour, dimensions, estimates, plottedPoints, selectedId, size, toPixel, view]);
 
   useEffect(() => {
     const shell = shellRef.current; if (!shell) return;
@@ -206,7 +223,7 @@ export function Scatterplot({
   return <section className="plot-card">
     <div className="plot-head">
       <div><span className="eyebrow">Physical UIK evidence field</span><h2>Turnout × party result</h2></div>
-      <div className="plot-tools"><span><i className="legend-dot ordinary" style={{ background: color }} /> routine</span><span><i className="legend-dot elevated" /> P_sus ≥ 95%</span><span><i className="legend-dot excess" /> BY review</span><button onClick={() => applyView(FULL)}>Reset view</button></div>
+      <div className="plot-tools"><span><i className="legend-line core" /> 95% fitted core</span><span><i className="legend-dot ordinary" style={{ background: color }} /> P0</span><span><i className="legend-dot p1" /> P1 ≥ 95%</span><span><i className="legend-dot p2" /> P2 ≥ 99%</span><span><i className="legend-dot p3" /> P3 ≥ 99.9%</span><button onClick={() => applyView(FULL)}>Reset view</button></div>
     </div>
     <div className="plot-shell" ref={shellRef} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={() => { dragRef.current = null; }} onPointerLeave={() => setHover(null)}>
       <canvas ref={canvasRef} aria-label={`${plottedPoints.length.toLocaleString()} physical precinct points. Turnout on the horizontal axis and party result on the vertical axis.`} role="img" />
@@ -219,6 +236,6 @@ export function Scatterplot({
         <small>Click to inspect protocol</small>
       </div>}
     </div>
-    <footer className="plot-foot"><span>{plottedPoints.length.toLocaleString()} plotted / {points.length.toLocaleString()} protocols</span><span>Selected whisker = expected 95% interval</span><span>Scores fixed before geography filtering</span><span>Wheel to zoom · drag to pan</span></footer>
+    <footer className="plot-foot"><span>{plottedPoints.length.toLocaleString()} plotted / {points.length.toLocaleString()} protocols</span><span>Green contour = election-wide central field</span><span>Selected line = core expectation → actual</span><span>Wheel to zoom · drag to pan</span></footer>
   </section>;
 }

@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 12,
-      "Балаклеец Людмила Ивановна": 15,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 15,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 75
+      "gas:candidate-vibid:2082000414493": 12,
+      "gas:candidate-vibid:2082000414301": 15,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 15,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 9,
-      "Балаклеец Людмила Ивановна": 26,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 2,
-      "Каруев Владимир Оконович": 52,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 200
+      "gas:candidate-vibid:2082000414493": 9,
+      "gas:candidate-vibid:2082000414301": 26,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 2,
+      "gas:candidate-vibid:2082000414510": 52,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 1,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 1,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 21
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 1,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 1,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 63,
-      "Бессарабов Андрей Анатольевич": 24,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 26,
-      "Каруев Владимир Оконович": 68,
-      "Манжикова Наталья Сергеевна": 58,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 466
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 63,
+      "gas:candidate-vibid:2082000413230": 24,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 26,
+      "gas:candidate-vibid:2082000414510": 68,
+      "gas:candidate-vibid:2082000413327": 58,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 18,
-      "Балаклеец Людмила Ивановна": 63,
-      "Бессарабов Андрей Анатольевич": 34,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 21,
-      "Каруев Владимир Оконович": 33,
-      "Манжикова Наталья Сергеевна": 32,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 168
+      "gas:candidate-vibid:2082000414493": 18,
+      "gas:candidate-vibid:2082000414301": 63,
+      "gas:candidate-vibid:2082000413230": 34,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 21,
+      "gas:candidate-vibid:2082000414510": 33,
+      "gas:candidate-vibid:2082000413327": 32,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 27,
-      "Балаклеец Людмила Ивановна": 66,
-      "Бессарабов Андрей Анатольевич": 25,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 29,
-      "Каруев Владимир Оконович": 29,
-      "Манжикова Наталья Сергеевна": 44,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 404
+      "gas:candidate-vibid:2082000414493": 27,
+      "gas:candidate-vibid:2082000414301": 66,
+      "gas:candidate-vibid:2082000413230": 25,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 29,
+      "gas:candidate-vibid:2082000414510": 29,
+      "gas:candidate-vibid:2082000413327": 44,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 29,
-      "Балаклеец Людмила Ивановна": 87,
-      "Бессарабов Андрей Анатольевич": 25,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 33,
-      "Каруев Владимир Оконович": 68,
-      "Манжикова Наталья Сергеевна": 52,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 369
+      "gas:candidate-vibid:2082000414493": 29,
+      "gas:candidate-vibid:2082000414301": 87,
+      "gas:candidate-vibid:2082000413230": 25,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 33,
+      "gas:candidate-vibid:2082000414510": 68,
+      "gas:candidate-vibid:2082000413327": 52,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 27,
-      "Бессарабов Андрей Анатольевич": 10,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 19,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 12,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 279
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 27,
+      "gas:candidate-vibid:2082000413230": 10,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 19,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 12,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 105,
-      "Бессарабов Андрей Анатольевич": 65,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 43,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 16,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 259
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 105,
+      "gas:candidate-vibid:2082000413230": 65,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 43,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 16,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 14,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 113
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 14,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 34,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 116
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 34,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 11,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 1,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 59
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 11,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 1,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402616&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402616&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 6,
-      "Балаклеец Людмила Ивановна": 94,
-      "Бессарабов Андрей Анатольевич": 62,
-      "Болдырев Игорь Владимирович": 10,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 34,
-      "Каруев Владимир Оконович": 14,
-      "Манжикова Наталья Сергеевна": 42,
-      "Мантеев Сергей Борисович": 10,
-      "Мукабенова Марина Алексеевна": 308
+      "gas:candidate-vibid:2082000414493": 6,
+      "gas:candidate-vibid:2082000414301": 94,
+      "gas:candidate-vibid:2082000413230": 62,
+      "gas:candidate-vibid:2082000414736": 10,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 34,
+      "gas:candidate-vibid:2082000414510": 14,
+      "gas:candidate-vibid:2082000413327": 42,
+      "gas:candidate-vibid:2082000414473": 10,
+      "gas:candidate-vibid:2082000414041": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 142,
-      "Бессарабов Андрей Анатольевич": 100,
-      "Болдырев Игорь Владимирович": 15,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 47,
-      "Каруев Владимир Оконович": 29,
-      "Манжикова Наталья Сергеевна": 89,
-      "Мантеев Сергей Борисович": 9,
-      "Мукабенова Марина Алексеевна": 341
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 142,
+      "gas:candidate-vibid:2082000413230": 100,
+      "gas:candidate-vibid:2082000414736": 15,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 47,
+      "gas:candidate-vibid:2082000414510": 29,
+      "gas:candidate-vibid:2082000413327": 89,
+      "gas:candidate-vibid:2082000414473": 9,
+      "gas:candidate-vibid:2082000414041": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 62,
-      "Бессарабов Андрей Анатольевич": 57,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 15,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 28,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 408
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 62,
+      "gas:candidate-vibid:2082000413230": 57,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 15,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 28,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 408
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 19,
-      "Балаклеец Людмила Ивановна": 36,
-      "Бессарабов Андрей Анатольевич": 16,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 20,
-      "Манжикова Наталья Сергеевна": 21,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 419
+      "gas:candidate-vibid:2082000414493": 19,
+      "gas:candidate-vibid:2082000414301": 36,
+      "gas:candidate-vibid:2082000413230": 16,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 20,
+      "gas:candidate-vibid:2082000413327": 21,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 1,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 8,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 43
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 1,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 8,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 26,
-      "Бессарабов Андрей Анатольевич": 22,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 17,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 11,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 302
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 26,
+      "gas:candidate-vibid:2082000413230": 22,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 17,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 11,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 22,
-      "Бессарабов Андрей Анатольевич": 19,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 8,
-      "Манжикова Наталья Сергеевна": 11,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 159
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 22,
+      "gas:candidate-vibid:2082000413230": 19,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 8,
+      "gas:candidate-vibid:2082000413327": 11,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 5,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 12,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 31
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 5,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 12,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 5,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 2,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 12,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 96
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 5,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 2,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 12,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 50,
-      "Бессарабов Андрей Анатольевич": 36,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 24,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 27,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 223
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 50,
+      "gas:candidate-vibid:2082000413230": 36,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 24,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 27,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 7,
-      "Каруев Владимир Оконович": 17,
-      "Манжикова Наталья Сергеевна": 14,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 72
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 7,
+      "gas:candidate-vibid:2082000414510": 17,
+      "gas:candidate-vibid:2082000413327": 14,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 20,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 38
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 20,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 4,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 14,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 60
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 4,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 14,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 178
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 9,
-      "Балаклеец Людмила Ивановна": 31,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 45,
-      "Манжикова Наталья Сергеевна": 28,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 56
+      "gas:candidate-vibid:2082000414493": 9,
+      "gas:candidate-vibid:2082000414301": 31,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 45,
+      "gas:candidate-vibid:2082000413327": 28,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402617&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402617&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 30,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 8,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 561
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 30,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 8,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 561
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 27,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 8,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 507
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 27,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 8,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 431
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 16,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 328
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 16,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 15,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 267
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 15,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 33,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 608
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 33,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 608
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 626
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 626
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 480
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 36,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 571
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 36,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 571
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 40,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 573
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 40,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 573
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 8,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 461
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 8,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 461
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 21,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 407
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 21,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 29,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 11,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 580
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 29,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 11,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 580
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 402
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 20,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 301
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 20,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 276
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 360
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 37,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 599
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 37,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 10,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 146
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 10,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 34,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 526
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 34,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 29,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 453
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 29,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 453
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 35,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 540
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 35,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 29,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 497
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 29,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402618&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402618&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 26,
-      "Балаклеец Людмила Ивановна": 51,
-      "Бессарабов Андрей Анатольевич": 12,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 8,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 28,
-      "Манжикова Наталья Сергеевна": 35,
-      "Мантеев Сергей Борисович": 11,
-      "Мукабенова Марина Алексеевна": 206
+      "gas:candidate-vibid:2082000414493": 26,
+      "gas:candidate-vibid:2082000414301": 51,
+      "gas:candidate-vibid:2082000413230": 12,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 8,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 28,
+      "gas:candidate-vibid:2082000413327": 35,
+      "gas:candidate-vibid:2082000414473": 11,
+      "gas:candidate-vibid:2082000414041": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 55,
-      "Бессарабов Андрей Анатольевич": 7,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 11,
-      "Манжикова Наталья Сергеевна": 64,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 294
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 55,
+      "gas:candidate-vibid:2082000413230": 7,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 11,
+      "gas:candidate-vibid:2082000413327": 64,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 44,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 6,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 7,
-      "Каруев Владимир Оконович": 20,
-      "Манжикова Наталья Сергеевна": 44,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 319
+      "gas:candidate-vibid:2082000414493": 44,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 6,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 7,
+      "gas:candidate-vibid:2082000414510": 20,
+      "gas:candidate-vibid:2082000413327": 44,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 24,
-      "Балаклеец Людмила Ивановна": 44,
-      "Бессарабов Андрей Анатольевич": 7,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 13,
-      "Каруев Владимир Оконович": 31,
-      "Манжикова Наталья Сергеевна": 39,
-      "Мантеев Сергей Борисович": 9,
-      "Мукабенова Марина Алексеевна": 472
+      "gas:candidate-vibid:2082000414493": 24,
+      "gas:candidate-vibid:2082000414301": 44,
+      "gas:candidate-vibid:2082000413230": 7,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 13,
+      "gas:candidate-vibid:2082000414510": 31,
+      "gas:candidate-vibid:2082000413327": 39,
+      "gas:candidate-vibid:2082000414473": 9,
+      "gas:candidate-vibid:2082000414041": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 26,
-      "Балаклеец Людмила Ивановна": 51,
-      "Бессарабов Андрей Анатольевич": 28,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 16,
-      "Каруев Владимир Оконович": 36,
-      "Манжикова Наталья Сергеевна": 59,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 363
+      "gas:candidate-vibid:2082000414493": 26,
+      "gas:candidate-vibid:2082000414301": 51,
+      "gas:candidate-vibid:2082000413230": 28,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 16,
+      "gas:candidate-vibid:2082000414510": 36,
+      "gas:candidate-vibid:2082000413327": 59,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 16,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 16,
-      "Манжикова Наталья Сергеевна": 12,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 274
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 16,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 16,
+      "gas:candidate-vibid:2082000413327": 12,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 273
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 30
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 9,
-      "Балаклеец Людмила Ивановна": 41,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 8,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 271
+      "gas:candidate-vibid:2082000414493": 9,
+      "gas:candidate-vibid:2082000414301": 41,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 8,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 1,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 60
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 1,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 1,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 35
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 1,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 35,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 17,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 266
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 35,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 17,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 6,
-      "Балаклеец Людмила Ивановна": 16,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 27,
-      "Манжикова Наталья Сергеевна": 40,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 297
+      "gas:candidate-vibid:2082000414493": 6,
+      "gas:candidate-vibid:2082000414301": 16,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 27,
+      "gas:candidate-vibid:2082000413327": 40,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 26,
-      "Бессарабов Андрей Анатольевич": 5,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 16,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 287
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 26,
+      "gas:candidate-vibid:2082000413230": 5,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 16,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 38,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 483
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 38,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 483
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402619&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402619&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 11,
-      "Манжикова Наталья Сергеевна": 13,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 585
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 11,
+      "gas:candidate-vibid:2082000413327": 13,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 585
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 22,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 17,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 612
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 22,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 17,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 9,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 10,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 539
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 9,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 10,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 539
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 13,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 486
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 13,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 486
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 9,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 8,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 558
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 9,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 8,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 17,
-      "Балаклеец Людмила Ивановна": 26,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 8,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 27,
-      "Манжикова Наталья Сергеевна": 31,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 718
+      "gas:candidate-vibid:2082000414493": 17,
+      "gas:candidate-vibid:2082000414301": 26,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 8,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 27,
+      "gas:candidate-vibid:2082000413327": 31,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 718
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 11,
-      "Бессарабов Андрей Анатольевич": 5,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 5,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 9,
-      "Манжикова Наталья Сергеевна": 10,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 465
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 11,
+      "gas:candidate-vibid:2082000413230": 5,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 5,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 9,
+      "gas:candidate-vibid:2082000413327": 10,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 25,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 733
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 25,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 733
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 9,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 14,
-      "Манжикова Наталья Сергеевна": 17,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 346
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 9,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 14,
+      "gas:candidate-vibid:2082000413327": 17,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 12,
-      "Бессарабов Андрей Анатольевич": 6,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 324
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 12,
+      "gas:candidate-vibid:2082000413230": 6,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 306
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 11,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 631
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 11,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 631
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 265
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402620&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402620&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 41,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 23,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 171
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 41,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 23,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 8,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 12,
-      "Манжикова Наталья Сергеевна": 29,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 87
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 8,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 12,
+      "gas:candidate-vibid:2082000413327": 29,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 38,
-      "Бессарабов Андрей Анатольевич": 32,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 14,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 55,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 222
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 38,
+      "gas:candidate-vibid:2082000413230": 32,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 14,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 55,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 36,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 10,
-      "Манжикова Наталья Сергеевна": 26,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 100
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 36,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 10,
+      "gas:candidate-vibid:2082000413327": 26,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 7,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 21,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 240
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 7,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 21,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 38,
-      "Бессарабов Андрей Анатольевич": 12,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 15,
-      "Манжикова Наталья Сергеевна": 38,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 202
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 38,
+      "gas:candidate-vibid:2082000413230": 12,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 15,
+      "gas:candidate-vibid:2082000413327": 38,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 26,
-      "Бессарабов Андрей Анатольевич": 11,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 45,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 179
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 26,
+      "gas:candidate-vibid:2082000413230": 11,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 45,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 150,
-      "Бессарабов Андрей Анатольевич": 180,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 168
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 150,
+      "gas:candidate-vibid:2082000413230": 180,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 104,
-      "Бессарабов Андрей Анатольевич": 129,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 12,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 186
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 104,
+      "gas:candidate-vibid:2082000413230": 129,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 12,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 56,
-      "Бессарабов Андрей Анатольевич": 107,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 11,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 135
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 56,
+      "gas:candidate-vibid:2082000413230": 107,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 11,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 98,
-      "Бессарабов Андрей Анатольевич": 190,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 15,
-      "Каруев Владимир Оконович": 10,
-      "Манжикова Наталья Сергеевна": 56,
-      "Мантеев Сергей Борисович": 10,
-      "Мукабенова Марина Алексеевна": 167
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 98,
+      "gas:candidate-vibid:2082000413230": 190,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 15,
+      "gas:candidate-vibid:2082000414510": 10,
+      "gas:candidate-vibid:2082000413327": 56,
+      "gas:candidate-vibid:2082000414473": 10,
+      "gas:candidate-vibid:2082000414041": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 20,
-      "Балаклеец Людмила Ивановна": 28,
-      "Бессарабов Андрей Анатольевич": 6,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 19,
-      "Манжикова Наталья Сергеевна": 85,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 164
+      "gas:candidate-vibid:2082000414493": 20,
+      "gas:candidate-vibid:2082000414301": 28,
+      "gas:candidate-vibid:2082000413230": 6,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 19,
+      "gas:candidate-vibid:2082000413327": 85,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402621&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402621&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 78,
-      "Манжикова Наталья Сергеевна": 27,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 175
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 78,
+      "gas:candidate-vibid:2082000413327": 27,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 29,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 67,
-      "Манжикова Наталья Сергеевна": 13,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 144
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 29,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 67,
+      "gas:candidate-vibid:2082000413327": 13,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 113,
-      "Манжикова Наталья Сергеевна": 21,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 154
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 113,
+      "gas:candidate-vibid:2082000413327": 21,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 15,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 43,
-      "Манжикова Наталья Сергеевна": 14,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 191
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 15,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 43,
+      "gas:candidate-vibid:2082000413327": 14,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 68,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 137
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 68,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 9,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 168
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 9,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 4,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 24,
-      "Манжикова Наталья Сергеевна": 10,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 509
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 4,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 24,
+      "gas:candidate-vibid:2082000413327": 10,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 509
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 0,
-      "Бессарабов Андрей Анатольевич": 7,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 9,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 239
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 0,
+      "gas:candidate-vibid:2082000413230": 7,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 9,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 59,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 58,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 298
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 59,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 58,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 5,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 80
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 5,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 74,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 459
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 74,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 6,
-      "Балаклеец Людмила Ивановна": 10,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 19,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 392
+      "gas:candidate-vibid:2082000414493": 6,
+      "gas:candidate-vibid:2082000414301": 10,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 19,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 12,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 17,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 299
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 12,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 17,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 0,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 153
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 0,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 4,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 327
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 4,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 6,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 39,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 413
+      "gas:candidate-vibid:2082000414493": 6,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 39,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402622&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402622&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 12,
-      "Балаклеец Людмила Ивановна": 44,
-      "Бессарабов Андрей Анатольевич": 18,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 13,
-      "Каруев Владимир Оконович": 24,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 13,
-      "Мукабенова Марина Алексеевна": 468
+      "gas:candidate-vibid:2082000414493": 12,
+      "gas:candidate-vibid:2082000414301": 44,
+      "gas:candidate-vibid:2082000413230": 18,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 13,
+      "gas:candidate-vibid:2082000414510": 24,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 13,
+      "gas:candidate-vibid:2082000414041": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 39,
-      "Балаклеец Людмила Ивановна": 148,
-      "Бессарабов Андрей Анатольевич": 6,
-      "Болдырев Игорь Владимирович": 24,
-      "Габунщин Сергей Валериевич": 19,
-      "Захарченко Анатолий Александрович": 16,
-      "Каруев Владимир Оконович": 92,
-      "Манжикова Наталья Сергеевна": 71,
-      "Мантеев Сергей Борисович": 93,
-      "Мукабенова Марина Алексеевна": 591
+      "gas:candidate-vibid:2082000414493": 39,
+      "gas:candidate-vibid:2082000414301": 148,
+      "gas:candidate-vibid:2082000413230": 6,
+      "gas:candidate-vibid:2082000414736": 24,
+      "gas:candidate-vibid:2082000414363": 19,
+      "gas:candidate-vibid:2082000413584": 16,
+      "gas:candidate-vibid:2082000414510": 92,
+      "gas:candidate-vibid:2082000413327": 71,
+      "gas:candidate-vibid:2082000414473": 93,
+      "gas:candidate-vibid:2082000414041": 591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 113,
-      "Бессарабов Андрей Анатольевич": 5,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 35,
-      "Манжикова Наталья Сергеевна": 40,
-      "Мантеев Сергей Борисович": 28,
-      "Мукабенова Марина Алексеевна": 883
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 113,
+      "gas:candidate-vibid:2082000413230": 5,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 35,
+      "gas:candidate-vibid:2082000413327": 40,
+      "gas:candidate-vibid:2082000414473": 28,
+      "gas:candidate-vibid:2082000414041": 883
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 12,
-      "Балаклеец Людмила Ивановна": 101,
-      "Бессарабов Андрей Анатольевич": 10,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 14,
-      "Каруев Владимир Оконович": 33,
-      "Манжикова Наталья Сергеевна": 17,
-      "Мантеев Сергей Борисович": 18,
-      "Мукабенова Марина Алексеевна": 1190
+      "gas:candidate-vibid:2082000414493": 12,
+      "gas:candidate-vibid:2082000414301": 101,
+      "gas:candidate-vibid:2082000413230": 10,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 14,
+      "gas:candidate-vibid:2082000414510": 33,
+      "gas:candidate-vibid:2082000413327": 17,
+      "gas:candidate-vibid:2082000414473": 18,
+      "gas:candidate-vibid:2082000414041": 1190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 80,
-      "Бессарабов Андрей Анатольевич": 5,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 25,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 618
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 80,
+      "gas:candidate-vibid:2082000413230": 5,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 25,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 5,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 205
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 5,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 11,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 21,
-      "Манжикова Наталья Сергеевна": 1,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 433
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 11,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 21,
+      "gas:candidate-vibid:2082000413327": 1,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 12,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 216
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 12,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 68,
-      "Бессарабов Андрей Анатольевич": 16,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 41,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 116
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 68,
+      "gas:candidate-vibid:2082000413230": 16,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 41,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 29,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 44,
-      "Манжикова Наталья Сергеевна": 16,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 324
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 29,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 44,
+      "gas:candidate-vibid:2082000413327": 16,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 0,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 244
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 0,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 22,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 46,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 174
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 22,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 46,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 302
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 40,
-      "Манжикова Наталья Сергеевна": 8,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 488
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 40,
+      "gas:candidate-vibid:2082000413327": 8,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 488
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 17,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 13,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 116
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 17,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 13,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402623&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402623&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 20,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 76,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 120
+      "gas:candidate-vibid:2082000414493": 20,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 76,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 36,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 8,
-      "Каруев Владимир Оконович": 23,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 236
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 36,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 8,
+      "gas:candidate-vibid:2082000414510": 23,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 22,
-      "Балаклеец Людмила Ивановна": 93,
-      "Бессарабов Андрей Анатольевич": 73,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 14,
-      "Захарченко Анатолий Александрович": 55,
-      "Каруев Владимир Оконович": 29,
-      "Манжикова Наталья Сергеевна": 27,
-      "Мантеев Сергей Борисович": 7,
-      "Мукабенова Марина Алексеевна": 348
+      "gas:candidate-vibid:2082000414493": 22,
+      "gas:candidate-vibid:2082000414301": 93,
+      "gas:candidate-vibid:2082000413230": 73,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 14,
+      "gas:candidate-vibid:2082000413584": 55,
+      "gas:candidate-vibid:2082000414510": 29,
+      "gas:candidate-vibid:2082000413327": 27,
+      "gas:candidate-vibid:2082000414473": 7,
+      "gas:candidate-vibid:2082000414041": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 40,
-      "Балаклеец Людмила Ивановна": 34,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 19,
-      "Манжикова Наталья Сергеевна": 49,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 164
+      "gas:candidate-vibid:2082000414493": 40,
+      "gas:candidate-vibid:2082000414301": 34,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 19,
+      "gas:candidate-vibid:2082000413327": 49,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 18,
-      "Балаклеец Людмила Ивановна": 13,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 15,
-      "Манжикова Наталья Сергеевна": 15,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 115
+      "gas:candidate-vibid:2082000414493": 18,
+      "gas:candidate-vibid:2082000414301": 13,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 15,
+      "gas:candidate-vibid:2082000413327": 15,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 20,
-      "Бессарабов Андрей Анатольевич": 17,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 11,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 233
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 20,
+      "gas:candidate-vibid:2082000413230": 17,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 11,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 70,
-      "Балаклеец Людмила Ивановна": 31,
-      "Бессарабов Андрей Анатольевич": 11,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 40,
-      "Манжикова Наталья Сергеевна": 28,
-      "Мантеев Сергей Борисович": 12,
-      "Мукабенова Марина Алексеевна": 340
+      "gas:candidate-vibid:2082000414493": 70,
+      "gas:candidate-vibid:2082000414301": 31,
+      "gas:candidate-vibid:2082000413230": 11,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 40,
+      "gas:candidate-vibid:2082000413327": 28,
+      "gas:candidate-vibid:2082000414473": 12,
+      "gas:candidate-vibid:2082000414041": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 11,
-      "Манжикова Наталья Сергеевна": 16,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 208
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 11,
+      "gas:candidate-vibid:2082000413327": 16,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 157
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 144
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 39,
-      "Балаклеец Людмила Ивановна": 63,
-      "Бессарабов Андрей Анатольевич": 23,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 9,
-      "Захарченко Анатолий Александрович": 19,
-      "Каруев Владимир Оконович": 106,
-      "Манжикова Наталья Сергеевна": 66,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 209
+      "gas:candidate-vibid:2082000414493": 39,
+      "gas:candidate-vibid:2082000414301": 63,
+      "gas:candidate-vibid:2082000413230": 23,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 9,
+      "gas:candidate-vibid:2082000413584": 19,
+      "gas:candidate-vibid:2082000414510": 106,
+      "gas:candidate-vibid:2082000413327": 66,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 34,
-      "Балаклеец Людмила Ивановна": 49,
-      "Бессарабов Андрей Анатольевич": 26,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 9,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 79,
-      "Манжикова Наталья Сергеевна": 52,
-      "Мантеев Сергей Борисович": 8,
-      "Мукабенова Марина Алексеевна": 401
+      "gas:candidate-vibid:2082000414493": 34,
+      "gas:candidate-vibid:2082000414301": 49,
+      "gas:candidate-vibid:2082000413230": 26,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 9,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 79,
+      "gas:candidate-vibid:2082000413327": 52,
+      "gas:candidate-vibid:2082000414473": 8,
+      "gas:candidate-vibid:2082000414041": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 22,
-      "Балаклеец Людмила Ивановна": 19,
-      "Бессарабов Андрей Анатольевич": 20,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 23,
-      "Каруев Владимир Оконович": 11,
-      "Манжикова Наталья Сергеевна": 25,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 193
+      "gas:candidate-vibid:2082000414493": 22,
+      "gas:candidate-vibid:2082000414301": 19,
+      "gas:candidate-vibid:2082000413230": 20,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 23,
+      "gas:candidate-vibid:2082000414510": 11,
+      "gas:candidate-vibid:2082000413327": 25,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 51,
-      "Балаклеец Людмила Ивановна": 53,
-      "Бессарабов Андрей Анатольевич": 26,
-      "Болдырев Игорь Владимирович": 15,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 20,
-      "Каруев Владимир Оконович": 151,
-      "Манжикова Наталья Сергеевна": 59,
-      "Мантеев Сергей Борисович": 14,
-      "Мукабенова Марина Алексеевна": 538
+      "gas:candidate-vibid:2082000414493": 51,
+      "gas:candidate-vibid:2082000414301": 53,
+      "gas:candidate-vibid:2082000413230": 26,
+      "gas:candidate-vibid:2082000414736": 15,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 20,
+      "gas:candidate-vibid:2082000414510": 151,
+      "gas:candidate-vibid:2082000413327": 59,
+      "gas:candidate-vibid:2082000414473": 14,
+      "gas:candidate-vibid:2082000414041": 538
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 29,
-      "Балаклеец Людмила Ивановна": 57,
-      "Бессарабов Андрей Анатольевич": 33,
-      "Болдырев Игорь Владимирович": 10,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 25,
-      "Каруев Владимир Оконович": 73,
-      "Манжикова Наталья Сергеевна": 42,
-      "Мантеев Сергей Борисович": 12,
-      "Мукабенова Марина Алексеевна": 199
+      "gas:candidate-vibid:2082000414493": 29,
+      "gas:candidate-vibid:2082000414301": 57,
+      "gas:candidate-vibid:2082000413230": 33,
+      "gas:candidate-vibid:2082000414736": 10,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 25,
+      "gas:candidate-vibid:2082000414510": 73,
+      "gas:candidate-vibid:2082000413327": 42,
+      "gas:candidate-vibid:2082000414473": 12,
+      "gas:candidate-vibid:2082000414041": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 54,
-      "Бессарабов Андрей Анатольевич": 50,
-      "Болдырев Игорь Владимирович": 11,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 28,
-      "Каруев Владимир Оконович": 51,
-      "Манжикова Наталья Сергеевна": 27,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 225
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 54,
+      "gas:candidate-vibid:2082000413230": 50,
+      "gas:candidate-vibid:2082000414736": 11,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 28,
+      "gas:candidate-vibid:2082000414510": 51,
+      "gas:candidate-vibid:2082000413327": 27,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 185,
-      "Балаклеец Людмила Ивановна": 0,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 175,
-      "Манжикова Наталья Сергеевна": 99,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 308
+      "gas:candidate-vibid:2082000414493": 185,
+      "gas:candidate-vibid:2082000414301": 0,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 175,
+      "gas:candidate-vibid:2082000413327": 99,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 19,
-      "Балаклеец Людмила Ивановна": 41,
-      "Бессарабов Андрей Анатольевич": 18,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 33,
-      "Манжикова Наталья Сергеевна": 26,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 140
+      "gas:candidate-vibid:2082000414493": 19,
+      "gas:candidate-vibid:2082000414301": 41,
+      "gas:candidate-vibid:2082000413230": 18,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 33,
+      "gas:candidate-vibid:2082000413327": 26,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402624&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402624&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 31,
-      "Бессарабов Андрей Анатольевич": 7,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 259
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 31,
+      "gas:candidate-vibid:2082000413230": 7,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 20,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 107
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 20,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 45,
-      "Бессарабов Андрей Анатольевич": 6,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 23,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 1,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 251
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 45,
+      "gas:candidate-vibid:2082000413230": 6,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 23,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 1,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 6,
-      "Балаклеец Людмила Ивановна": 4,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 105
+      "gas:candidate-vibid:2082000414493": 6,
+      "gas:candidate-vibid:2082000414301": 4,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 30,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 270
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 30,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 27,
-      "Бессарабов Андрей Анатольевич": 11,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 474
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 27,
+      "gas:candidate-vibid:2082000413230": 11,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 190
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 11,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 142
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 11,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 49,
-      "Бессарабов Андрей Анатольевич": 41,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 14,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 23,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 306
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 49,
+      "gas:candidate-vibid:2082000413230": 41,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 14,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 23,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 14,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 14,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 216
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 14,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 14,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 109,
-      "Бессарабов Андрей Анатольевич": 50,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 38,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 10,
-      "Мукабенова Марина Алексеевна": 650
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 109,
+      "gas:candidate-vibid:2082000413230": 50,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 38,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 10,
+      "gas:candidate-vibid:2082000414041": 650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 51,
-      "Бессарабов Андрей Анатольевич": 10,
-      "Болдырев Игорь Владимирович": 81,
-      "Габунщин Сергей Валериевич": 16,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 633
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 51,
+      "gas:candidate-vibid:2082000413230": 10,
+      "gas:candidate-vibid:2082000414736": 81,
+      "gas:candidate-vibid:2082000414363": 16,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 633
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 51,
-      "Бессарабов Андрей Анатольевич": 10,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 7,
-      "Мукабенова Марина Алексеевна": 426
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 51,
+      "gas:candidate-vibid:2082000413230": 10,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 7,
+      "gas:candidate-vibid:2082000414041": 426
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 14,
-      "Балаклеец Людмила Ивановна": 105,
-      "Бессарабов Андрей Анатольевич": 52,
-      "Болдырев Игорь Владимирович": 15,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 10,
-      "Манжикова Наталья Сергеевна": 21,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 740
+      "gas:candidate-vibid:2082000414493": 14,
+      "gas:candidate-vibid:2082000414301": 105,
+      "gas:candidate-vibid:2082000413230": 52,
+      "gas:candidate-vibid:2082000414736": 15,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 10,
+      "gas:candidate-vibid:2082000413327": 21,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 740
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 18,
-      "Балаклеец Людмила Ивановна": 160,
-      "Бессарабов Андрей Анатольевич": 94,
-      "Болдырев Игорь Владимирович": 23,
-      "Габунщин Сергей Валериевич": 12,
-      "Захарченко Анатолий Александрович": 35,
-      "Каруев Владимир Оконович": 26,
-      "Манжикова Наталья Сергеевна": 48,
-      "Мантеев Сергей Борисович": 11,
-      "Мукабенова Марина Алексеевна": 390
+      "gas:candidate-vibid:2082000414493": 18,
+      "gas:candidate-vibid:2082000414301": 160,
+      "gas:candidate-vibid:2082000413230": 94,
+      "gas:candidate-vibid:2082000414736": 23,
+      "gas:candidate-vibid:2082000414363": 12,
+      "gas:candidate-vibid:2082000413584": 35,
+      "gas:candidate-vibid:2082000414510": 26,
+      "gas:candidate-vibid:2082000413327": 48,
+      "gas:candidate-vibid:2082000414473": 11,
+      "gas:candidate-vibid:2082000414041": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402625&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402625&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 9,
-      "Балаклеец Людмила Ивановна": 192,
-      "Бессарабов Андрей Анатольевич": 18,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 17,
-      "Манжикова Наталья Сергеевна": 14,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 108
+      "gas:candidate-vibid:2082000414493": 9,
+      "gas:candidate-vibid:2082000414301": 192,
+      "gas:candidate-vibid:2082000413230": 18,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 17,
+      "gas:candidate-vibid:2082000413327": 14,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 156,
-      "Бессарабов Андрей Анатольевич": 33,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 13,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 9,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 172
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 156,
+      "gas:candidate-vibid:2082000413230": 33,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 13,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 9,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 123,
-      "Бессарабов Андрей Анатольевич": 28,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 10,
-      "Манжикова Наталья Сергеевна": 17,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 242
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 123,
+      "gas:candidate-vibid:2082000413230": 28,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 10,
+      "gas:candidate-vibid:2082000413327": 17,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 13,
-      "Балаклеец Людмила Ивановна": 117,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 273
+      "gas:candidate-vibid:2082000414493": 13,
+      "gas:candidate-vibid:2082000414301": 117,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 11,
-      "Балаклеец Людмила Ивановна": 187,
-      "Бессарабов Андрей Анатольевич": 31,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 9,
-      "Каруев Владимир Оконович": 14,
-      "Манжикова Наталья Сергеевна": 38,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 225
+      "gas:candidate-vibid:2082000414493": 11,
+      "gas:candidate-vibid:2082000414301": 187,
+      "gas:candidate-vibid:2082000413230": 31,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 9,
+      "gas:candidate-vibid:2082000414510": 14,
+      "gas:candidate-vibid:2082000413327": 38,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 190,
-      "Бессарабов Андрей Анатольевич": 10,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 8,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 9,
-      "Манжикова Наталья Сергеевна": 18,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 198
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 190,
+      "gas:candidate-vibid:2082000413230": 10,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 8,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 9,
+      "gas:candidate-vibid:2082000413327": 18,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 91,
-      "Бессарабов Андрей Анатольевич": 9,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 11,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 264
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 91,
+      "gas:candidate-vibid:2082000413230": 9,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 11,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 168,
-      "Бессарабов Андрей Анатольевич": 21,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 10,
-      "Захарченко Анатолий Александрович": 14,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 15,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 93
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 168,
+      "gas:candidate-vibid:2082000413230": 21,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 10,
+      "gas:candidate-vibid:2082000413584": 14,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 15,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 4,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 59
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 4,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 27,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 81
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 27,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 30,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 23
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 30,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 39
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 6,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 21
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 6,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 94,
-      "Бессарабов Андрей Анатольевич": 9,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 156
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 94,
+      "gas:candidate-vibid:2082000413230": 9,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 41
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 211,
-      "Бессарабов Андрей Анатольевич": 24,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 8,
-      "Каруев Владимир Оконович": 10,
-      "Манжикова Наталья Сергеевна": 15,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 146
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 211,
+      "gas:candidate-vibid:2082000413230": 24,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 8,
+      "gas:candidate-vibid:2082000414510": 10,
+      "gas:candidate-vibid:2082000413327": 15,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 85,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 8,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 105
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 85,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 8,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 90,
-      "Бессарабов Андрей Анатольевич": 9,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 10,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 107
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 90,
+      "gas:candidate-vibid:2082000413230": 9,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 10,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 8,
-      "Балаклеец Людмила Ивановна": 60,
-      "Бессарабов Андрей Анатольевич": 10,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 8,
-      "Каруев Владимир Оконович": 8,
-      "Манжикова Наталья Сергеевна": 15,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 124
+      "gas:candidate-vibid:2082000414493": 8,
+      "gas:candidate-vibid:2082000414301": 60,
+      "gas:candidate-vibid:2082000413230": 10,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 8,
+      "gas:candidate-vibid:2082000414510": 8,
+      "gas:candidate-vibid:2082000413327": 15,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 5,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 0,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 74
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 5,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 0,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 12,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 2,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 33,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 33
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 12,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 2,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 33,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 73
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 33,
-      "Бессарабов Андрей Анатольевич": 9,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 1,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 42
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 33,
+      "gas:candidate-vibid:2082000413230": 9,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 1,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402626&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402626&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 1,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 16,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 306
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 1,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 16,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 1,
-      "Балаклеец Людмила Ивановна": 0,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 3,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 246
+      "gas:candidate-vibid:2082000414493": 1,
+      "gas:candidate-vibid:2082000414301": 0,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 3,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 47,
-      "Балаклеец Людмила Ивановна": 157,
-      "Бессарабов Андрей Анатольевич": 14,
-      "Болдырев Игорь Владимирович": 21,
-      "Габунщин Сергей Валериевич": 8,
-      "Захарченко Анатолий Александрович": 33,
-      "Каруев Владимир Оконович": 101,
-      "Манжикова Наталья Сергеевна": 133,
-      "Мантеев Сергей Борисович": 22,
-      "Мукабенова Марина Алексеевна": 453
+      "gas:candidate-vibid:2082000414493": 47,
+      "gas:candidate-vibid:2082000414301": 157,
+      "gas:candidate-vibid:2082000413230": 14,
+      "gas:candidate-vibid:2082000414736": 21,
+      "gas:candidate-vibid:2082000414363": 8,
+      "gas:candidate-vibid:2082000413584": 33,
+      "gas:candidate-vibid:2082000414510": 101,
+      "gas:candidate-vibid:2082000413327": 133,
+      "gas:candidate-vibid:2082000414473": 22,
+      "gas:candidate-vibid:2082000414041": 453
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 12,
-      "Балаклеец Людмила Ивановна": 29,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 21,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 548
+      "gas:candidate-vibid:2082000414493": 12,
+      "gas:candidate-vibid:2082000414301": 29,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 21,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 10,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 318
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 10,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 151
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 12,
-      "Бессарабов Андрей Анатольевич": 6,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 7,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 199
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 12,
+      "gas:candidate-vibid:2082000413230": 6,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 7,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 7,
-      "Балаклеец Людмила Ивановна": 12,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 2,
-      "Каруев Владимир Оконович": 8,
-      "Манжикова Наталья Сергеевна": 11,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 510
+      "gas:candidate-vibid:2082000414493": 7,
+      "gas:candidate-vibid:2082000414301": 12,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 2,
+      "gas:candidate-vibid:2082000414510": 8,
+      "gas:candidate-vibid:2082000413327": 11,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 510
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 26,
-      "Балаклеец Людмила Ивановна": 1,
-      "Бессарабов Андрей Анатольевич": 2,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 3,
-      "Каруев Владимир Оконович": 5,
-      "Манжикова Наталья Сергеевна": 30,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 451
+      "gas:candidate-vibid:2082000414493": 26,
+      "gas:candidate-vibid:2082000414301": 1,
+      "gas:candidate-vibid:2082000413230": 2,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 3,
+      "gas:candidate-vibid:2082000414510": 5,
+      "gas:candidate-vibid:2082000413327": 30,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 17,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 2,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 2,
-      "Мукабенова Марина Алексеевна": 375
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 17,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 2,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 2,
+      "gas:candidate-vibid:2082000414041": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 9,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 203
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 9,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 20,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 19,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 410
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 20,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 19,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 2,
-      "Балаклеец Людмила Ивановна": 1,
-      "Бессарабов Андрей Анатольевич": 3,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 307
+      "gas:candidate-vibid:2082000414493": 2,
+      "gas:candidate-vibid:2082000414301": 1,
+      "gas:candidate-vibid:2082000413230": 3,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 2,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 2,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 2,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 162
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 2,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 2,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 2,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402627&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402627&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 101,
-      "Балаклеец Людмила Ивановна": 135,
-      "Бессарабов Андрей Анатольевич": 67,
-      "Болдырев Игорь Владимирович": 24,
-      "Габунщин Сергей Валериевич": 26,
-      "Захарченко Анатолий Александрович": 41,
-      "Каруев Владимир Оконович": 143,
-      "Манжикова Наталья Сергеевна": 123,
-      "Мантеев Сергей Борисович": 36,
-      "Мукабенова Марина Алексеевна": 699
+      "gas:candidate-vibid:2082000414493": 101,
+      "gas:candidate-vibid:2082000414301": 135,
+      "gas:candidate-vibid:2082000413230": 67,
+      "gas:candidate-vibid:2082000414736": 24,
+      "gas:candidate-vibid:2082000414363": 26,
+      "gas:candidate-vibid:2082000413584": 41,
+      "gas:candidate-vibid:2082000414510": 143,
+      "gas:candidate-vibid:2082000413327": 123,
+      "gas:candidate-vibid:2082000414473": 36,
+      "gas:candidate-vibid:2082000414041": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 8,
-      "Бессарабов Андрей Анатольевич": 14,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 8,
-      "Каруев Владимир Оконович": 14,
-      "Манжикова Наталья Сергеевна": 8,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 53
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 8,
+      "gas:candidate-vibid:2082000413230": 14,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 8,
+      "gas:candidate-vibid:2082000414510": 14,
+      "gas:candidate-vibid:2082000413327": 8,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 20,
-      "Балаклеец Людмила Ивановна": 75,
-      "Бессарабов Андрей Анатольевич": 27,
-      "Болдырев Игорь Владимирович": 7,
-      "Габунщин Сергей Валериевич": 8,
-      "Захарченко Анатолий Александрович": 8,
-      "Каруев Владимир Оконович": 76,
-      "Манжикова Наталья Сергеевна": 50,
-      "Мантеев Сергей Борисович": 9,
-      "Мукабенова Марина Алексеевна": 223
+      "gas:candidate-vibid:2082000414493": 20,
+      "gas:candidate-vibid:2082000414301": 75,
+      "gas:candidate-vibid:2082000413230": 27,
+      "gas:candidate-vibid:2082000414736": 7,
+      "gas:candidate-vibid:2082000414363": 8,
+      "gas:candidate-vibid:2082000413584": 8,
+      "gas:candidate-vibid:2082000414510": 76,
+      "gas:candidate-vibid:2082000413327": 50,
+      "gas:candidate-vibid:2082000414473": 9,
+      "gas:candidate-vibid:2082000414041": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 94,
-      "Балаклеец Людмила Ивановна": 101,
-      "Бессарабов Андрей Анатольевич": 32,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 19,
-      "Захарченко Анатолий Александрович": 17,
-      "Каруев Владимир Оконович": 138,
-      "Манжикова Наталья Сергеевна": 78,
-      "Мантеев Сергей Борисович": 26,
-      "Мукабенова Марина Алексеевна": 298
+      "gas:candidate-vibid:2082000414493": 94,
+      "gas:candidate-vibid:2082000414301": 101,
+      "gas:candidate-vibid:2082000413230": 32,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 19,
+      "gas:candidate-vibid:2082000413584": 17,
+      "gas:candidate-vibid:2082000414510": 138,
+      "gas:candidate-vibid:2082000413327": 78,
+      "gas:candidate-vibid:2082000414473": 26,
+      "gas:candidate-vibid:2082000414041": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 6,
-      "Балаклеец Людмила Ивановна": 18,
-      "Бессарабов Андрей Анатольевич": 4,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 18,
-      "Манжикова Наталья Сергеевна": 10,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 72
+      "gas:candidate-vibid:2082000414493": 6,
+      "gas:candidate-vibid:2082000414301": 18,
+      "gas:candidate-vibid:2082000413230": 4,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 18,
+      "gas:candidate-vibid:2082000413327": 10,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 6,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 9,
-      "Манжикова Наталья Сергеевна": 1,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 45
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 6,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 9,
+      "gas:candidate-vibid:2082000413327": 1,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 15,
-      "Балаклеец Людмила Ивановна": 44,
-      "Бессарабов Андрей Анатольевич": 32,
-      "Болдырев Игорь Владимирович": 6,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 9,
-      "Каруев Владимир Оконович": 40,
-      "Манжикова Наталья Сергеевна": 22,
-      "Мантеев Сергей Борисович": 9,
-      "Мукабенова Марина Алексеевна": 327
+      "gas:candidate-vibid:2082000414493": 15,
+      "gas:candidate-vibid:2082000414301": 44,
+      "gas:candidate-vibid:2082000413230": 32,
+      "gas:candidate-vibid:2082000414736": 6,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 9,
+      "gas:candidate-vibid:2082000414510": 40,
+      "gas:candidate-vibid:2082000413327": 22,
+      "gas:candidate-vibid:2082000414473": 9,
+      "gas:candidate-vibid:2082000414041": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 71,
-      "Балаклеец Людмила Ивановна": 85,
-      "Бессарабов Андрей Анатольевич": 55,
-      "Болдырев Игорь Владимирович": 20,
-      "Габунщин Сергей Валериевич": 11,
-      "Захарченко Анатолий Александрович": 24,
-      "Каруев Владимир Оконович": 117,
-      "Манжикова Наталья Сергеевна": 70,
-      "Мантеев Сергей Борисович": 18,
-      "Мукабенова Марина Алексеевна": 528
+      "gas:candidate-vibid:2082000414493": 71,
+      "gas:candidate-vibid:2082000414301": 85,
+      "gas:candidate-vibid:2082000413230": 55,
+      "gas:candidate-vibid:2082000414736": 20,
+      "gas:candidate-vibid:2082000414363": 11,
+      "gas:candidate-vibid:2082000413584": 24,
+      "gas:candidate-vibid:2082000414510": 117,
+      "gas:candidate-vibid:2082000413327": 70,
+      "gas:candidate-vibid:2082000414473": 18,
+      "gas:candidate-vibid:2082000414041": 528
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 10,
-      "Балаклеец Людмила Ивановна": 63,
-      "Бессарабов Андрей Анатольевич": 20,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 11,
-      "Каруев Владимир Оконович": 32,
-      "Манжикова Наталья Сергеевна": 23,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 304
+      "gas:candidate-vibid:2082000414493": 10,
+      "gas:candidate-vibid:2082000414301": 63,
+      "gas:candidate-vibid:2082000413230": 20,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 11,
+      "gas:candidate-vibid:2082000414510": 32,
+      "gas:candidate-vibid:2082000413327": 23,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 60,
-      "Балаклеец Людмила Ивановна": 106,
-      "Бессарабов Андрей Анатольевич": 47,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 25,
-      "Захарченко Анатолий Александрович": 22,
-      "Каруев Владимир Оконович": 135,
-      "Манжикова Наталья Сергеевна": 65,
-      "Мантеев Сергей Борисович": 15,
-      "Мукабенова Марина Алексеевна": 456
+      "gas:candidate-vibid:2082000414493": 60,
+      "gas:candidate-vibid:2082000414301": 106,
+      "gas:candidate-vibid:2082000413230": 47,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 25,
+      "gas:candidate-vibid:2082000413584": 22,
+      "gas:candidate-vibid:2082000414510": 135,
+      "gas:candidate-vibid:2082000413327": 65,
+      "gas:candidate-vibid:2082000414473": 15,
+      "gas:candidate-vibid:2082000414041": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 85,
-      "Балаклеец Людмила Ивановна": 80,
-      "Бессарабов Андрей Анатольевич": 21,
-      "Болдырев Игорь Владимирович": 11,
-      "Габунщин Сергей Валериевич": 13,
-      "Захарченко Анатолий Александрович": 17,
-      "Каруев Владимир Оконович": 165,
-      "Манжикова Наталья Сергеевна": 79,
-      "Мантеев Сергей Борисович": 25,
-      "Мукабенова Марина Алексеевна": 641
+      "gas:candidate-vibid:2082000414493": 85,
+      "gas:candidate-vibid:2082000414301": 80,
+      "gas:candidate-vibid:2082000413230": 21,
+      "gas:candidate-vibid:2082000414736": 11,
+      "gas:candidate-vibid:2082000414363": 13,
+      "gas:candidate-vibid:2082000413584": 17,
+      "gas:candidate-vibid:2082000414510": 165,
+      "gas:candidate-vibid:2082000413327": 79,
+      "gas:candidate-vibid:2082000414473": 25,
+      "gas:candidate-vibid:2082000414041": 641
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 78,
-      "Балаклеец Людмила Ивановна": 107,
-      "Бессарабов Андрей Анатольевич": 20,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 18,
-      "Захарченко Анатолий Александрович": 22,
-      "Каруев Владимир Оконович": 141,
-      "Манжикова Наталья Сергеевна": 44,
-      "Мантеев Сергей Борисович": 19,
-      "Мукабенова Марина Алексеевна": 467
+      "gas:candidate-vibid:2082000414493": 78,
+      "gas:candidate-vibid:2082000414301": 107,
+      "gas:candidate-vibid:2082000413230": 20,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 18,
+      "gas:candidate-vibid:2082000413584": 22,
+      "gas:candidate-vibid:2082000414510": 141,
+      "gas:candidate-vibid:2082000413327": 44,
+      "gas:candidate-vibid:2082000414473": 19,
+      "gas:candidate-vibid:2082000414041": 467
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 0,
-      "Балаклеец Людмила Ивановна": 4,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 4,
-      "Манжикова Наталья Сергеевна": 7,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 133
+      "gas:candidate-vibid:2082000414493": 0,
+      "gas:candidate-vibid:2082000414301": 4,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 4,
+      "gas:candidate-vibid:2082000413327": 7,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 126,
-      "Балаклеец Людмила Ивановна": 138,
-      "Бессарабов Андрей Анатольевич": 43,
-      "Болдырев Игорь Владимирович": 25,
-      "Габунщин Сергей Валериевич": 33,
-      "Захарченко Анатолий Александрович": 22,
-      "Каруев Владимир Оконович": 117,
-      "Манжикова Наталья Сергеевна": 89,
-      "Мантеев Сергей Борисович": 31,
-      "Мукабенова Марина Алексеевна": 325
+      "gas:candidate-vibid:2082000414493": 126,
+      "gas:candidate-vibid:2082000414301": 138,
+      "gas:candidate-vibid:2082000413230": 43,
+      "gas:candidate-vibid:2082000414736": 25,
+      "gas:candidate-vibid:2082000414363": 33,
+      "gas:candidate-vibid:2082000413584": 22,
+      "gas:candidate-vibid:2082000414510": 117,
+      "gas:candidate-vibid:2082000413327": 89,
+      "gas:candidate-vibid:2082000414473": 31,
+      "gas:candidate-vibid:2082000414041": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 74,
-      "Балаклеец Людмила Ивановна": 85,
-      "Бессарабов Андрей Анатольевич": 35,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 13,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 99,
-      "Манжикова Наталья Сергеевна": 83,
-      "Мантеев Сергей Борисович": 31,
-      "Мукабенова Марина Алексеевна": 303
+      "gas:candidate-vibid:2082000414493": 74,
+      "gas:candidate-vibid:2082000414301": 85,
+      "gas:candidate-vibid:2082000413230": 35,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 13,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 99,
+      "gas:candidate-vibid:2082000413327": 83,
+      "gas:candidate-vibid:2082000414473": 31,
+      "gas:candidate-vibid:2082000414041": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 16,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 13,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 13,
-      "Манжикова Наталья Сергеевна": 18,
-      "Мантеев Сергей Борисович": 4,
-      "Мукабенова Марина Алексеевна": 579
+      "gas:candidate-vibid:2082000414493": 16,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 13,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 13,
+      "gas:candidate-vibid:2082000413327": 18,
+      "gas:candidate-vibid:2082000414473": 4,
+      "gas:candidate-vibid:2082000414041": 579
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 78,
-      "Балаклеец Людмила Ивановна": 110,
-      "Бессарабов Андрей Анатольевич": 38,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 14,
-      "Захарченко Анатолий Александрович": 19,
-      "Каруев Владимир Оконович": 75,
-      "Манжикова Наталья Сергеевна": 47,
-      "Мантеев Сергей Борисович": 12,
-      "Мукабенова Марина Алексеевна": 682
+      "gas:candidate-vibid:2082000414493": 78,
+      "gas:candidate-vibid:2082000414301": 110,
+      "gas:candidate-vibid:2082000413230": 38,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 14,
+      "gas:candidate-vibid:2082000413584": 19,
+      "gas:candidate-vibid:2082000414510": 75,
+      "gas:candidate-vibid:2082000413327": 47,
+      "gas:candidate-vibid:2082000414473": 12,
+      "gas:candidate-vibid:2082000414041": 682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 41,
-      "Балаклеец Людмила Ивановна": 46,
-      "Бессарабов Андрей Анатольевич": 28,
-      "Болдырев Игорь Владимирович": 15,
-      "Габунщин Сергей Валериевич": 14,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 51,
-      "Манжикова Наталья Сергеевна": 44,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 201
+      "gas:candidate-vibid:2082000414493": 41,
+      "gas:candidate-vibid:2082000414301": 46,
+      "gas:candidate-vibid:2082000413230": 28,
+      "gas:candidate-vibid:2082000414736": 15,
+      "gas:candidate-vibid:2082000414363": 14,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 51,
+      "gas:candidate-vibid:2082000413327": 44,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 107,
-      "Балаклеец Людмила Ивановна": 121,
-      "Бессарабов Андрей Анатольевич": 26,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 26,
-      "Захарченко Анатолий Александрович": 16,
-      "Каруев Владимир Оконович": 159,
-      "Манжикова Наталья Сергеевна": 101,
-      "Мантеев Сергей Борисович": 32,
-      "Мукабенова Марина Алексеевна": 510
+      "gas:candidate-vibid:2082000414493": 107,
+      "gas:candidate-vibid:2082000414301": 121,
+      "gas:candidate-vibid:2082000413230": 26,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 26,
+      "gas:candidate-vibid:2082000413584": 16,
+      "gas:candidate-vibid:2082000414510": 159,
+      "gas:candidate-vibid:2082000413327": 101,
+      "gas:candidate-vibid:2082000414473": 32,
+      "gas:candidate-vibid:2082000414041": 510
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 5,
-      "Балаклеец Людмила Ивановна": 7,
-      "Бессарабов Андрей Анатольевич": 13,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 1,
-      "Захарченко Анатолий Александрович": 12,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 8,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 64
+      "gas:candidate-vibid:2082000414493": 5,
+      "gas:candidate-vibid:2082000414301": 7,
+      "gas:candidate-vibid:2082000413230": 13,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 1,
+      "gas:candidate-vibid:2082000413584": 12,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 8,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 17,
-      "Балаклеец Людмила Ивановна": 21,
-      "Бессарабов Андрей Анатольевич": 18,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 9,
-      "Захарченко Анатолий Александрович": 15,
-      "Каруев Владимир Оконович": 24,
-      "Манжикова Наталья Сергеевна": 20,
-      "Мантеев Сергей Борисович": 9,
-      "Мукабенова Марина Алексеевна": 733
+      "gas:candidate-vibid:2082000414493": 17,
+      "gas:candidate-vibid:2082000414301": 21,
+      "gas:candidate-vibid:2082000413230": 18,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 9,
+      "gas:candidate-vibid:2082000413584": 15,
+      "gas:candidate-vibid:2082000414510": 24,
+      "gas:candidate-vibid:2082000413327": 20,
+      "gas:candidate-vibid:2082000414473": 9,
+      "gas:candidate-vibid:2082000414041": 733
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 19,
-      "Балаклеец Людмила Ивановна": 24,
-      "Бессарабов Андрей Анатольевич": 24,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 15,
-      "Каруев Владимир Оконович": 25,
-      "Манжикова Наталья Сергеевна": 34,
-      "Мантеев Сергей Борисович": 7,
-      "Мукабенова Марина Алексеевна": 106
+      "gas:candidate-vibid:2082000414493": 19,
+      "gas:candidate-vibid:2082000414301": 24,
+      "gas:candidate-vibid:2082000413230": 24,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 15,
+      "gas:candidate-vibid:2082000414510": 25,
+      "gas:candidate-vibid:2082000413327": 34,
+      "gas:candidate-vibid:2082000414473": 7,
+      "gas:candidate-vibid:2082000414041": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 31,
-      "Балаклеец Людмила Ивановна": 68,
-      "Бессарабов Андрей Анатольевич": 100,
-      "Болдырев Игорь Владимирович": 16,
-      "Габунщин Сергей Валериевич": 7,
-      "Захарченко Анатолий Александрович": 26,
-      "Каруев Владимир Оконович": 78,
-      "Манжикова Наталья Сергеевна": 56,
-      "Мантеев Сергей Борисович": 13,
-      "Мукабенова Марина Алексеевна": 289
+      "gas:candidate-vibid:2082000414493": 31,
+      "gas:candidate-vibid:2082000414301": 68,
+      "gas:candidate-vibid:2082000413230": 100,
+      "gas:candidate-vibid:2082000414736": 16,
+      "gas:candidate-vibid:2082000414363": 7,
+      "gas:candidate-vibid:2082000413584": 26,
+      "gas:candidate-vibid:2082000414510": 78,
+      "gas:candidate-vibid:2082000413327": 56,
+      "gas:candidate-vibid:2082000414473": 13,
+      "gas:candidate-vibid:2082000414041": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 108,
-      "Балаклеец Людмила Ивановна": 105,
-      "Бессарабов Андрей Анатольевич": 52,
-      "Болдырев Игорь Владимирович": 18,
-      "Габунщин Сергей Валериевич": 35,
-      "Захарченко Анатолий Александрович": 17,
-      "Каруев Владимир Оконович": 113,
-      "Манжикова Наталья Сергеевна": 85,
-      "Мантеев Сергей Борисович": 33,
-      "Мукабенова Марина Алексеевна": 327
+      "gas:candidate-vibid:2082000414493": 108,
+      "gas:candidate-vibid:2082000414301": 105,
+      "gas:candidate-vibid:2082000413230": 52,
+      "gas:candidate-vibid:2082000414736": 18,
+      "gas:candidate-vibid:2082000414363": 35,
+      "gas:candidate-vibid:2082000413584": 17,
+      "gas:candidate-vibid:2082000414510": 113,
+      "gas:candidate-vibid:2082000413327": 85,
+      "gas:candidate-vibid:2082000414473": 33,
+      "gas:candidate-vibid:2082000414041": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 45,
-      "Балаклеец Людмила Ивановна": 70,
-      "Бессарабов Андрей Анатольевич": 33,
-      "Болдырев Игорь Владимирович": 15,
-      "Габунщин Сергей Валериевич": 18,
-      "Захарченко Анатолий Александрович": 17,
-      "Каруев Владимир Оконович": 73,
-      "Манжикова Наталья Сергеевна": 55,
-      "Мантеев Сергей Борисович": 20,
-      "Мукабенова Марина Алексеевна": 206
+      "gas:candidate-vibid:2082000414493": 45,
+      "gas:candidate-vibid:2082000414301": 70,
+      "gas:candidate-vibid:2082000413230": 33,
+      "gas:candidate-vibid:2082000414736": 15,
+      "gas:candidate-vibid:2082000414363": 18,
+      "gas:candidate-vibid:2082000413584": 17,
+      "gas:candidate-vibid:2082000414510": 73,
+      "gas:candidate-vibid:2082000413327": 55,
+      "gas:candidate-vibid:2082000414473": 20,
+      "gas:candidate-vibid:2082000414041": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 89,
-      "Балаклеец Людмила Ивановна": 96,
-      "Бессарабов Андрей Анатольевич": 47,
-      "Болдырев Игорь Владимирович": 12,
-      "Габунщин Сергей Валериевич": 28,
-      "Захарченко Анатолий Александрович": 24,
-      "Каруев Владимир Оконович": 141,
-      "Манжикова Наталья Сергеевна": 94,
-      "Мантеев Сергей Борисович": 27,
-      "Мукабенова Марина Алексеевна": 650
+      "gas:candidate-vibid:2082000414493": 89,
+      "gas:candidate-vibid:2082000414301": 96,
+      "gas:candidate-vibid:2082000413230": 47,
+      "gas:candidate-vibid:2082000414736": 12,
+      "gas:candidate-vibid:2082000414363": 28,
+      "gas:candidate-vibid:2082000413584": 24,
+      "gas:candidate-vibid:2082000414510": 141,
+      "gas:candidate-vibid:2082000413327": 94,
+      "gas:candidate-vibid:2082000414473": 27,
+      "gas:candidate-vibid:2082000414041": 650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 98,
-      "Балаклеец Людмила Ивановна": 135,
-      "Бессарабов Андрей Анатольевич": 7,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 5,
-      "Каруев Владимир Оконович": 119,
-      "Манжикова Наталья Сергеевна": 87,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 556
+      "gas:candidate-vibid:2082000414493": 98,
+      "gas:candidate-vibid:2082000414301": 135,
+      "gas:candidate-vibid:2082000413230": 7,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 5,
+      "gas:candidate-vibid:2082000414510": 119,
+      "gas:candidate-vibid:2082000413327": 87,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 556
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 75,
-      "Балаклеец Людмила Ивановна": 68,
-      "Бессарабов Андрей Анатольевич": 35,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 4,
-      "Каруев Владимир Оконович": 34,
-      "Манжикова Наталья Сергеевна": 75,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 702
+      "gas:candidate-vibid:2082000414493": 75,
+      "gas:candidate-vibid:2082000414301": 68,
+      "gas:candidate-vibid:2082000413230": 35,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 4,
+      "gas:candidate-vibid:2082000414510": 34,
+      "gas:candidate-vibid:2082000413327": 75,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 107,
-      "Балаклеец Людмила Ивановна": 142,
-      "Бессарабов Андрей Анатольевич": 62,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 36,
-      "Захарченко Анатолий Александрович": 29,
-      "Каруев Владимир Оконович": 127,
-      "Манжикова Наталья Сергеевна": 110,
-      "Мантеев Сергей Борисович": 42,
-      "Мукабенова Марина Алексеевна": 364
+      "gas:candidate-vibid:2082000414493": 107,
+      "gas:candidate-vibid:2082000414301": 142,
+      "gas:candidate-vibid:2082000413230": 62,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 36,
+      "gas:candidate-vibid:2082000413584": 29,
+      "gas:candidate-vibid:2082000414510": 127,
+      "gas:candidate-vibid:2082000413327": 110,
+      "gas:candidate-vibid:2082000414473": 42,
+      "gas:candidate-vibid:2082000414041": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 109,
-      "Балаклеец Людмила Ивановна": 106,
-      "Бессарабов Андрей Анатольевич": 42,
-      "Болдырев Игорь Владимирович": 23,
-      "Габунщин Сергей Валериевич": 15,
-      "Захарченко Анатолий Александрович": 26,
-      "Каруев Владимир Оконович": 102,
-      "Манжикова Наталья Сергеевна": 78,
-      "Мантеев Сергей Борисович": 22,
-      "Мукабенова Марина Алексеевна": 304
+      "gas:candidate-vibid:2082000414493": 109,
+      "gas:candidate-vibid:2082000414301": 106,
+      "gas:candidate-vibid:2082000413230": 42,
+      "gas:candidate-vibid:2082000414736": 23,
+      "gas:candidate-vibid:2082000414363": 15,
+      "gas:candidate-vibid:2082000413584": 26,
+      "gas:candidate-vibid:2082000414510": 102,
+      "gas:candidate-vibid:2082000413327": 78,
+      "gas:candidate-vibid:2082000414473": 22,
+      "gas:candidate-vibid:2082000414041": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 26,
-      "Балаклеец Людмила Ивановна": 54,
-      "Бессарабов Андрей Анатольевич": 11,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 5,
-      "Захарченко Анатолий Александрович": 10,
-      "Каруев Владимир Оконович": 23,
-      "Манжикова Наталья Сергеевна": 32,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 124
+      "gas:candidate-vibid:2082000414493": 26,
+      "gas:candidate-vibid:2082000414301": 54,
+      "gas:candidate-vibid:2082000413230": 11,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 5,
+      "gas:candidate-vibid:2082000413584": 10,
+      "gas:candidate-vibid:2082000414510": 23,
+      "gas:candidate-vibid:2082000413327": 32,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 69,
-      "Балаклеец Людмила Ивановна": 74,
-      "Бессарабов Андрей Анатольевич": 57,
-      "Болдырев Игорь Владимирович": 5,
-      "Габунщин Сергей Валериевич": 16,
-      "Захарченко Анатолий Александрович": 16,
-      "Каруев Владимир Оконович": 66,
-      "Манжикова Наталья Сергеевна": 66,
-      "Мантеев Сергей Борисович": 32,
-      "Мукабенова Марина Алексеевна": 255
+      "gas:candidate-vibid:2082000414493": 69,
+      "gas:candidate-vibid:2082000414301": 74,
+      "gas:candidate-vibid:2082000413230": 57,
+      "gas:candidate-vibid:2082000414736": 5,
+      "gas:candidate-vibid:2082000414363": 16,
+      "gas:candidate-vibid:2082000413584": 16,
+      "gas:candidate-vibid:2082000414510": 66,
+      "gas:candidate-vibid:2082000413327": 66,
+      "gas:candidate-vibid:2082000414473": 32,
+      "gas:candidate-vibid:2082000414041": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 72,
-      "Балаклеец Людмила Ивановна": 103,
-      "Бессарабов Андрей Анатольевич": 60,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 12,
-      "Захарченко Анатолий Александрович": 25,
-      "Каруев Владимир Оконович": 91,
-      "Манжикова Наталья Сергеевна": 78,
-      "Мантеев Сергей Борисович": 26,
-      "Мукабенова Марина Алексеевна": 339
+      "gas:candidate-vibid:2082000414493": 72,
+      "gas:candidate-vibid:2082000414301": 103,
+      "gas:candidate-vibid:2082000413230": 60,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 12,
+      "gas:candidate-vibid:2082000413584": 25,
+      "gas:candidate-vibid:2082000414510": 91,
+      "gas:candidate-vibid:2082000413327": 78,
+      "gas:candidate-vibid:2082000414473": 26,
+      "gas:candidate-vibid:2082000414041": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 70,
-      "Балаклеец Людмила Ивановна": 65,
-      "Бессарабов Андрей Анатольевич": 30,
-      "Болдырев Игорь Владимирович": 23,
-      "Габунщин Сергей Валериевич": 18,
-      "Захарченко Анатолий Александрович": 14,
-      "Каруев Владимир Оконович": 114,
-      "Манжикова Наталья Сергеевна": 73,
-      "Мантеев Сергей Борисович": 20,
-      "Мукабенова Марина Алексеевна": 253
+      "gas:candidate-vibid:2082000414493": 70,
+      "gas:candidate-vibid:2082000414301": 65,
+      "gas:candidate-vibid:2082000413230": 30,
+      "gas:candidate-vibid:2082000414736": 23,
+      "gas:candidate-vibid:2082000414363": 18,
+      "gas:candidate-vibid:2082000413584": 14,
+      "gas:candidate-vibid:2082000414510": 114,
+      "gas:candidate-vibid:2082000413327": 73,
+      "gas:candidate-vibid:2082000414473": 20,
+      "gas:candidate-vibid:2082000414041": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 122,
-      "Балаклеец Людмила Ивановна": 97,
-      "Бессарабов Андрей Анатольевич": 47,
-      "Болдырев Игорь Владимирович": 21,
-      "Габунщин Сергей Валериевич": 12,
-      "Захарченко Анатолий Александрович": 19,
-      "Каруев Владимир Оконович": 75,
-      "Манжикова Наталья Сергеевна": 62,
-      "Мантеев Сергей Борисович": 29,
-      "Мукабенова Марина Алексеевна": 338
+      "gas:candidate-vibid:2082000414493": 122,
+      "gas:candidate-vibid:2082000414301": 97,
+      "gas:candidate-vibid:2082000413230": 47,
+      "gas:candidate-vibid:2082000414736": 21,
+      "gas:candidate-vibid:2082000414363": 12,
+      "gas:candidate-vibid:2082000413584": 19,
+      "gas:candidate-vibid:2082000414510": 75,
+      "gas:candidate-vibid:2082000413327": 62,
+      "gas:candidate-vibid:2082000414473": 29,
+      "gas:candidate-vibid:2082000414041": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 116,
-      "Балаклеец Людмила Ивановна": 148,
-      "Бессарабов Андрей Анатольевич": 54,
-      "Болдырев Игорь Владимирович": 30,
-      "Габунщин Сергей Валериевич": 24,
-      "Захарченко Анатолий Александрович": 24,
-      "Каруев Владимир Оконович": 72,
-      "Манжикова Наталья Сергеевна": 103,
-      "Мантеев Сергей Борисович": 18,
-      "Мукабенова Марина Алексеевна": 434
+      "gas:candidate-vibid:2082000414493": 116,
+      "gas:candidate-vibid:2082000414301": 148,
+      "gas:candidate-vibid:2082000413230": 54,
+      "gas:candidate-vibid:2082000414736": 30,
+      "gas:candidate-vibid:2082000414363": 24,
+      "gas:candidate-vibid:2082000413584": 24,
+      "gas:candidate-vibid:2082000414510": 72,
+      "gas:candidate-vibid:2082000413327": 103,
+      "gas:candidate-vibid:2082000414473": 18,
+      "gas:candidate-vibid:2082000414041": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 153,
-      "Балаклеец Людмила Ивановна": 144,
-      "Бессарабов Андрей Анатольевич": 74,
-      "Болдырев Игорь Владимирович": 17,
-      "Габунщин Сергей Валериевич": 27,
-      "Захарченко Анатолий Александрович": 28,
-      "Каруев Владимир Оконович": 129,
-      "Манжикова Наталья Сергеевна": 128,
-      "Мантеев Сергей Борисович": 25,
-      "Мукабенова Марина Алексеевна": 482
+      "gas:candidate-vibid:2082000414493": 153,
+      "gas:candidate-vibid:2082000414301": 144,
+      "gas:candidate-vibid:2082000413230": 74,
+      "gas:candidate-vibid:2082000414736": 17,
+      "gas:candidate-vibid:2082000414363": 27,
+      "gas:candidate-vibid:2082000413584": 28,
+      "gas:candidate-vibid:2082000414510": 129,
+      "gas:candidate-vibid:2082000413327": 128,
+      "gas:candidate-vibid:2082000414473": 25,
+      "gas:candidate-vibid:2082000414041": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 116,
-      "Балаклеец Людмила Ивановна": 136,
-      "Бессарабов Андрей Анатольевич": 37,
-      "Болдырев Игорь Владимирович": 20,
-      "Габунщин Сергей Валериевич": 28,
-      "Захарченко Анатолий Александрович": 24,
-      "Каруев Владимир Оконович": 174,
-      "Манжикова Наталья Сергеевна": 127,
-      "Мантеев Сергей Борисович": 26,
-      "Мукабенова Марина Алексеевна": 393
+      "gas:candidate-vibid:2082000414493": 116,
+      "gas:candidate-vibid:2082000414301": 136,
+      "gas:candidate-vibid:2082000413230": 37,
+      "gas:candidate-vibid:2082000414736": 20,
+      "gas:candidate-vibid:2082000414363": 28,
+      "gas:candidate-vibid:2082000413584": 24,
+      "gas:candidate-vibid:2082000414510": 174,
+      "gas:candidate-vibid:2082000413327": 127,
+      "gas:candidate-vibid:2082000414473": 26,
+      "gas:candidate-vibid:2082000414041": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 165,
-      "Балаклеец Людмила Ивановна": 124,
-      "Бессарабов Андрей Анатольевич": 35,
-      "Болдырев Игорь Владимирович": 17,
-      "Габунщин Сергей Валериевич": 25,
-      "Захарченко Анатолий Александрович": 25,
-      "Каруев Владимир Оконович": 170,
-      "Манжикова Наталья Сергеевна": 110,
-      "Мантеев Сергей Борисович": 47,
-      "Мукабенова Марина Алексеевна": 442
+      "gas:candidate-vibid:2082000414493": 165,
+      "gas:candidate-vibid:2082000414301": 124,
+      "gas:candidate-vibid:2082000413230": 35,
+      "gas:candidate-vibid:2082000414736": 17,
+      "gas:candidate-vibid:2082000414363": 25,
+      "gas:candidate-vibid:2082000413584": 25,
+      "gas:candidate-vibid:2082000414510": 170,
+      "gas:candidate-vibid:2082000413327": 110,
+      "gas:candidate-vibid:2082000414473": 47,
+      "gas:candidate-vibid:2082000414041": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 33,
-      "Балаклеец Людмила Ивановна": 95,
-      "Бессарабов Андрей Анатольевич": 76,
-      "Болдырев Игорь Владимирович": 17,
-      "Габунщин Сергей Валериевич": 17,
-      "Захарченко Анатолий Александрович": 44,
-      "Каруев Владимир Оконович": 73,
-      "Манжикова Наталья Сергеевна": 66,
-      "Мантеев Сергей Борисович": 13,
-      "Мукабенова Марина Алексеевна": 280
+      "gas:candidate-vibid:2082000414493": 33,
+      "gas:candidate-vibid:2082000414301": 95,
+      "gas:candidate-vibid:2082000413230": 76,
+      "gas:candidate-vibid:2082000414736": 17,
+      "gas:candidate-vibid:2082000414363": 17,
+      "gas:candidate-vibid:2082000413584": 44,
+      "gas:candidate-vibid:2082000414510": 73,
+      "gas:candidate-vibid:2082000413327": 66,
+      "gas:candidate-vibid:2082000414473": 13,
+      "gas:candidate-vibid:2082000414041": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 17,
-      "Балаклеец Людмила Ивановна": 116,
-      "Бессарабов Андрей Анатольевич": 85,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 9,
-      "Захарченко Анатолий Александрович": 40,
-      "Каруев Владимир Оконович": 21,
-      "Манжикова Наталья Сергеевна": 37,
-      "Мантеев Сергей Борисович": 10,
-      "Мукабенова Марина Алексеевна": 366
+      "gas:candidate-vibid:2082000414493": 17,
+      "gas:candidate-vibid:2082000414301": 116,
+      "gas:candidate-vibid:2082000413230": 85,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 9,
+      "gas:candidate-vibid:2082000413584": 40,
+      "gas:candidate-vibid:2082000414510": 21,
+      "gas:candidate-vibid:2082000413327": 37,
+      "gas:candidate-vibid:2082000414473": 10,
+      "gas:candidate-vibid:2082000414041": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 27,
-      "Балаклеец Людмила Ивановна": 121,
-      "Бессарабов Андрей Анатольевич": 104,
-      "Болдырев Игорь Владимирович": 14,
-      "Габунщин Сергей Валериевич": 13,
-      "Захарченко Анатолий Александрович": 36,
-      "Каруев Владимир Оконович": 78,
-      "Манжикова Наталья Сергеевна": 58,
-      "Мантеев Сергей Борисович": 13,
-      "Мукабенова Марина Алексеевна": 318
+      "gas:candidate-vibid:2082000414493": 27,
+      "gas:candidate-vibid:2082000414301": 121,
+      "gas:candidate-vibid:2082000413230": 104,
+      "gas:candidate-vibid:2082000414736": 14,
+      "gas:candidate-vibid:2082000414363": 13,
+      "gas:candidate-vibid:2082000413584": 36,
+      "gas:candidate-vibid:2082000414510": 78,
+      "gas:candidate-vibid:2082000413327": 58,
+      "gas:candidate-vibid:2082000414473": 13,
+      "gas:candidate-vibid:2082000414041": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 26,
-      "Балаклеец Людмила Ивановна": 93,
-      "Бессарабов Андрей Анатольевич": 66,
-      "Болдырев Игорь Владимирович": 19,
-      "Габунщин Сергей Валериевич": 3,
-      "Захарченко Анатолий Александрович": 38,
-      "Каруев Владимир Оконович": 62,
-      "Манжикова Наталья Сергеевна": 47,
-      "Мантеев Сергей Борисович": 7,
-      "Мукабенова Марина Алексеевна": 356
+      "gas:candidate-vibid:2082000414493": 26,
+      "gas:candidate-vibid:2082000414301": 93,
+      "gas:candidate-vibid:2082000413230": 66,
+      "gas:candidate-vibid:2082000414736": 19,
+      "gas:candidate-vibid:2082000414363": 3,
+      "gas:candidate-vibid:2082000413584": 38,
+      "gas:candidate-vibid:2082000414510": 62,
+      "gas:candidate-vibid:2082000413327": 47,
+      "gas:candidate-vibid:2082000414473": 7,
+      "gas:candidate-vibid:2082000414041": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 94,
-      "Балаклеец Людмила Ивановна": 119,
-      "Бессарабов Андрей Анатольевич": 50,
-      "Болдырев Игорь Владимирович": 16,
-      "Габунщин Сергей Валериевич": 14,
-      "Захарченко Анатолий Александрович": 27,
-      "Каруев Владимир Оконович": 167,
-      "Манжикова Наталья Сергеевна": 105,
-      "Мантеев Сергей Борисович": 17,
-      "Мукабенова Марина Алексеевна": 768
+      "gas:candidate-vibid:2082000414493": 94,
+      "gas:candidate-vibid:2082000414301": 119,
+      "gas:candidate-vibid:2082000413230": 50,
+      "gas:candidate-vibid:2082000414736": 16,
+      "gas:candidate-vibid:2082000414363": 14,
+      "gas:candidate-vibid:2082000413584": 27,
+      "gas:candidate-vibid:2082000414510": 167,
+      "gas:candidate-vibid:2082000413327": 105,
+      "gas:candidate-vibid:2082000414473": 17,
+      "gas:candidate-vibid:2082000414041": 768
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 95,
-      "Балаклеец Людмила Ивановна": 94,
-      "Бессарабов Андрей Анатольевич": 51,
-      "Болдырев Игорь Владимирович": 18,
-      "Габунщин Сергей Валериевич": 16,
-      "Захарченко Анатолий Александрович": 23,
-      "Каруев Владимир Оконович": 171,
-      "Манжикова Наталья Сергеевна": 68,
-      "Мантеев Сергей Борисович": 22,
-      "Мукабенова Марина Алексеевна": 397
+      "gas:candidate-vibid:2082000414493": 95,
+      "gas:candidate-vibid:2082000414301": 94,
+      "gas:candidate-vibid:2082000413230": 51,
+      "gas:candidate-vibid:2082000414736": 18,
+      "gas:candidate-vibid:2082000414363": 16,
+      "gas:candidate-vibid:2082000413584": 23,
+      "gas:candidate-vibid:2082000414510": 171,
+      "gas:candidate-vibid:2082000413327": 68,
+      "gas:candidate-vibid:2082000414473": 22,
+      "gas:candidate-vibid:2082000414041": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 55,
-      "Балаклеец Людмила Ивановна": 60,
-      "Бессарабов Андрей Анатольевич": 30,
-      "Болдырев Игорь Владимирович": 10,
-      "Габунщин Сергей Валериевич": 10,
-      "Захарченко Анатолий Александрович": 9,
-      "Каруев Владимир Оконович": 98,
-      "Манжикова Наталья Сергеевна": 52,
-      "Мантеев Сергей Борисович": 7,
-      "Мукабенова Марина Алексеевна": 355
+      "gas:candidate-vibid:2082000414493": 55,
+      "gas:candidate-vibid:2082000414301": 60,
+      "gas:candidate-vibid:2082000413230": 30,
+      "gas:candidate-vibid:2082000414736": 10,
+      "gas:candidate-vibid:2082000414363": 10,
+      "gas:candidate-vibid:2082000413584": 9,
+      "gas:candidate-vibid:2082000414510": 98,
+      "gas:candidate-vibid:2082000413327": 52,
+      "gas:candidate-vibid:2082000414473": 7,
+      "gas:candidate-vibid:2082000414041": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 103,
-      "Балаклеец Людмила Ивановна": 111,
-      "Бессарабов Андрей Анатольевич": 33,
-      "Болдырев Игорь Владимирович": 20,
-      "Габунщин Сергей Валериевич": 21,
-      "Захарченко Анатолий Александрович": 11,
-      "Каруев Владимир Оконович": 138,
-      "Манжикова Наталья Сергеевна": 107,
-      "Мантеев Сергей Борисович": 26,
-      "Мукабенова Марина Алексеевна": 474
+      "gas:candidate-vibid:2082000414493": 103,
+      "gas:candidate-vibid:2082000414301": 111,
+      "gas:candidate-vibid:2082000413230": 33,
+      "gas:candidate-vibid:2082000414736": 20,
+      "gas:candidate-vibid:2082000414363": 21,
+      "gas:candidate-vibid:2082000413584": 11,
+      "gas:candidate-vibid:2082000414510": 138,
+      "gas:candidate-vibid:2082000413327": 107,
+      "gas:candidate-vibid:2082000414473": 26,
+      "gas:candidate-vibid:2082000414041": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 11,
-      "Балаклеец Людмила Ивановна": 16,
-      "Бессарабов Андрей Анатольевич": 5,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 1,
-      "Каруев Владимир Оконович": 9,
-      "Манжикова Наталья Сергеевна": 5,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 459
+      "gas:candidate-vibid:2082000414493": 11,
+      "gas:candidate-vibid:2082000414301": 16,
+      "gas:candidate-vibid:2082000413230": 5,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 1,
+      "gas:candidate-vibid:2082000414510": 9,
+      "gas:candidate-vibid:2082000413327": 5,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 47,
-      "Балаклеец Людмила Ивановна": 61,
-      "Бессарабов Андрей Анатольевич": 23,
-      "Болдырев Игорь Владимирович": 16,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 22,
-      "Каруев Владимир Оконович": 74,
-      "Манжикова Наталья Сергеевна": 70,
-      "Мантеев Сергей Борисович": 13,
-      "Мукабенова Марина Алексеевна": 486
+      "gas:candidate-vibid:2082000414493": 47,
+      "gas:candidate-vibid:2082000414301": 61,
+      "gas:candidate-vibid:2082000413230": 23,
+      "gas:candidate-vibid:2082000414736": 16,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 22,
+      "gas:candidate-vibid:2082000414510": 74,
+      "gas:candidate-vibid:2082000413327": 70,
+      "gas:candidate-vibid:2082000414473": 13,
+      "gas:candidate-vibid:2082000414041": 486
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 20,
-      "Балаклеец Людмила Ивановна": 25,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 8,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 28,
-      "Манжикова Наталья Сергеевна": 31,
-      "Мантеев Сергей Борисович": 5,
-      "Мукабенова Марина Алексеевна": 270
+      "gas:candidate-vibid:2082000414493": 20,
+      "gas:candidate-vibid:2082000414301": 25,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 8,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 28,
+      "gas:candidate-vibid:2082000413327": 31,
+      "gas:candidate-vibid:2082000414473": 5,
+      "gas:candidate-vibid:2082000414041": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402628&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402628&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 18,
-      "Балаклеец Людмила Ивановна": 46,
-      "Бессарабов Андрей Анатольевич": 22,
-      "Болдырев Игорь Владимирович": 13,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 30,
-      "Каруев Владимир Оконович": 69,
-      "Манжикова Наталья Сергеевна": 36,
-      "Мантеев Сергей Борисович": 7,
-      "Мукабенова Марина Алексеевна": 700
+      "gas:candidate-vibid:2082000414493": 18,
+      "gas:candidate-vibid:2082000414301": 46,
+      "gas:candidate-vibid:2082000413230": 22,
+      "gas:candidate-vibid:2082000414736": 13,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 30,
+      "gas:candidate-vibid:2082000414510": 69,
+      "gas:candidate-vibid:2082000413327": 36,
+      "gas:candidate-vibid:2082000414473": 7,
+      "gas:candidate-vibid:2082000414041": 700
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 31,
-      "Балаклеец Людмила Ивановна": 48,
-      "Бессарабов Андрей Анатольевич": 28,
-      "Болдырев Игорь Владимирович": 8,
-      "Габунщин Сергей Валериевич": 9,
-      "Захарченко Анатолий Александрович": 18,
-      "Каруев Владимир Оконович": 45,
-      "Манжикова Наталья Сергеевна": 38,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 505
+      "gas:candidate-vibid:2082000414493": 31,
+      "gas:candidate-vibid:2082000414301": 48,
+      "gas:candidate-vibid:2082000413230": 28,
+      "gas:candidate-vibid:2082000414736": 8,
+      "gas:candidate-vibid:2082000414363": 9,
+      "gas:candidate-vibid:2082000413584": 18,
+      "gas:candidate-vibid:2082000414510": 45,
+      "gas:candidate-vibid:2082000413327": 38,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 505
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 18,
-      "Балаклеец Людмила Ивановна": 20,
-      "Бессарабов Андрей Анатольевич": 8,
-      "Болдырев Игорь Владимирович": 3,
-      "Габунщин Сергей Валериевич": 2,
-      "Захарченко Анатолий Александрович": 17,
-      "Каруев Владимир Оконович": 22,
-      "Манжикова Наталья Сергеевна": 14,
-      "Мантеев Сергей Борисович": 6,
-      "Мукабенова Марина Алексеевна": 317
+      "gas:candidate-vibid:2082000414493": 18,
+      "gas:candidate-vibid:2082000414301": 20,
+      "gas:candidate-vibid:2082000413230": 8,
+      "gas:candidate-vibid:2082000414736": 3,
+      "gas:candidate-vibid:2082000414363": 2,
+      "gas:candidate-vibid:2082000413584": 17,
+      "gas:candidate-vibid:2082000414510": 22,
+      "gas:candidate-vibid:2082000413327": 14,
+      "gas:candidate-vibid:2082000414473": 6,
+      "gas:candidate-vibid:2082000414041": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 35,
-      "Балаклеец Людмила Ивановна": 38,
-      "Бессарабов Андрей Анатольевич": 20,
-      "Болдырев Игорь Владимирович": 9,
-      "Габунщин Сергей Валериевич": 6,
-      "Захарченко Анатолий Александрович": 21,
-      "Каруев Владимир Оконович": 42,
-      "Манжикова Наталья Сергеевна": 22,
-      "Мантеев Сергей Борисович": 12,
-      "Мукабенова Марина Алексеевна": 300
+      "gas:candidate-vibid:2082000414493": 35,
+      "gas:candidate-vibid:2082000414301": 38,
+      "gas:candidate-vibid:2082000413230": 20,
+      "gas:candidate-vibid:2082000414736": 9,
+      "gas:candidate-vibid:2082000414363": 6,
+      "gas:candidate-vibid:2082000413584": 21,
+      "gas:candidate-vibid:2082000414510": 42,
+      "gas:candidate-vibid:2082000413327": 22,
+      "gas:candidate-vibid:2082000414473": 12,
+      "gas:candidate-vibid:2082000414041": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 20,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 14,
-      "Болдырев Игорь Владимирович": 4,
-      "Габунщин Сергей Валериевич": 4,
-      "Захарченко Анатолий Александрович": 16,
-      "Каруев Владимир Оконович": 83,
-      "Манжикова Наталья Сергеевна": 21,
-      "Мантеев Сергей Борисович": 1,
-      "Мукабенова Марина Алексеевна": 203
+      "gas:candidate-vibid:2082000414493": 20,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 14,
+      "gas:candidate-vibid:2082000414736": 4,
+      "gas:candidate-vibid:2082000414363": 4,
+      "gas:candidate-vibid:2082000413584": 16,
+      "gas:candidate-vibid:2082000414510": 83,
+      "gas:candidate-vibid:2082000413327": 21,
+      "gas:candidate-vibid:2082000414473": 1,
+      "gas:candidate-vibid:2082000414041": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 3,
-      "Балаклеец Людмила Ивановна": 17,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 1,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 6,
-      "Каруев Владимир Оконович": 12,
-      "Манжикова Наталья Сергеевна": 6,
-      "Мантеев Сергей Борисович": 3,
-      "Мукабенова Марина Алексеевна": 229
+      "gas:candidate-vibid:2082000414493": 3,
+      "gas:candidate-vibid:2082000414301": 17,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 1,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 6,
+      "gas:candidate-vibid:2082000414510": 12,
+      "gas:candidate-vibid:2082000413327": 6,
+      "gas:candidate-vibid:2082000414473": 3,
+      "gas:candidate-vibid:2082000414041": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 3,
-      "Бессарабов Андрей Анатольевич": 1,
-      "Болдырев Игорь Владимирович": 2,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 6,
-      "Манжикова Наталья Сергеевна": 3,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 227
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 3,
+      "gas:candidate-vibid:2082000413230": 1,
+      "gas:candidate-vibid:2082000414736": 2,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 6,
+      "gas:candidate-vibid:2082000413327": 3,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 4,
-      "Балаклеец Людмила Ивановна": 0,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 0,
-      "Манжикова Наталья Сергеевна": 4,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 373
+      "gas:candidate-vibid:2082000414493": 4,
+      "gas:candidate-vibid:2082000414301": 0,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 0,
+      "gas:candidate-vibid:2082000413327": 4,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_8_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атеев Семен Николаевич": 14,
-      "Балаклеец Людмила Ивановна": 32,
-      "Бессарабов Андрей Анатольевич": 0,
-      "Болдырев Игорь Владимирович": 0,
-      "Габунщин Сергей Валериевич": 0,
-      "Захарченко Анатолий Александрович": 0,
-      "Каруев Владимир Оконович": 55,
-      "Манжикова Наталья Сергеевна": 55,
-      "Мантеев Сергей Борисович": 0,
-      "Мукабенова Марина Алексеевна": 315
+      "gas:candidate-vibid:2082000414493": 14,
+      "gas:candidate-vibid:2082000414301": 32,
+      "gas:candidate-vibid:2082000413230": 0,
+      "gas:candidate-vibid:2082000414736": 0,
+      "gas:candidate-vibid:2082000414363": 0,
+      "gas:candidate-vibid:2082000413584": 0,
+      "gas:candidate-vibid:2082000414510": 55,
+      "gas:candidate-vibid:2082000413327": 55,
+      "gas:candidate-vibid:2082000414473": 0,
+      "gas:candidate-vibid:2082000414041": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000023&tvd=2082000402629&vrn=100100067795849&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000402629&type=464",

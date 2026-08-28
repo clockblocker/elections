@@ -8,3654 +8,9744 @@ export const duma_2021_uik_to_tik_region_60 = [
     "uikNumber": 1,
     "uikTvd": "4604018446407",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №1",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4604018446408",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №2",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4604018446409",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №3",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4604018446410",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №4",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4604018446411",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №5",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4604018446412",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №6",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4604018446413",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №7",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4604018446414",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №8",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4604018446415",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №9",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4604018446416",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №10",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4604018446417",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №11",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4604018446418",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №12",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4604018446419",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №13",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4604018446420",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №14",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4604018446421",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №15",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4604018446422",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №16",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4604018446423",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №17",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4604018446424",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №18",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4604018446425",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №19",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4604018446426",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №20",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4604018446427",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №21",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4604018446428",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №22",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4604018446429",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №23",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4604018446430",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №24",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4604018446431",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №25",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4604018446432",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №26",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4604018446433",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №27",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4604018446434",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №28",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4604018446435",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №29",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4604018446436",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №30",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4604018446437",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №31",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4604018446438",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №32",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4604018446439",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №33",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4604018446440",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №34",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4604018446441",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №35",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4604018446442",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №36",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4604018446443",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №37",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4604018446444",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №38",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4604018446445",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №39",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4604018446446",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №40",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4604018446447",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №41",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4604018446448",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №42",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4604018446449",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №43",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4604018446450",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №44",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4604018446451",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №45",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4604018446452",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №46",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4604018446453",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №47",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4604018446454",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №48",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4604018446455",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №49",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4604018446456",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №50",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4604018446457",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №51",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4604018446458",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №52",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4604018446459",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №53",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4604018446460",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №54",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4604018446461",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №55",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4604018446462",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №56",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4604018446463",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №57",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4604018446464",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №58",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4604018446465",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №59",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4604018446466",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №60",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4604018446467",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №61",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4604018446468",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №62",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4604018446469",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №63",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4604018446470",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №64",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4604018446471",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №65",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4604018446472",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №66",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4604018446473",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №67",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4604018446474",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №68",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4604018446475",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №69",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4604018446476",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №70",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4604018446477",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №71",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4604018446478",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №72",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4604018446479",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №73",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4604018446480",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №74",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4604018446481",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №75",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4604018446482",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №76",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4604018446483",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №77",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4604018446484",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №78",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4604018446485",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №79",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4604018446486",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №80",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4604018446487",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №81",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4604018446488",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №82",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4604018446489",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №83",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4604018446490",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №84",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4604018446491",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №85",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4604018446492",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №86",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4604018446493",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №87",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4604018446494",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №88",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4604018446495",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №89",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4604018446496",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №90",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4604018446497",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №91",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4604018446498",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №92",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4604018446499",
     "tikTvd": "2602000864687",
-    "tikName": "Псковская городская"
+    "tikName": "Псковская городская",
+    "uikName": "УИК №93",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4604002239150",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №94",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4604002239151",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №95",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4604002239152",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №96",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4604002239153",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №97",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4604002239154",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №98",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4604002239155",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №99",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4604002239156",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №100",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4604002239157",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №101",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4604002239158",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №102",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4604002239159",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №103",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4604002239160",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №104",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4604002239161",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №105",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4604002239162",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №106",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4604002239163",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №107",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4604002239164",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №108",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4604002239165",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №109",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4604002239166",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №110",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4604002239167",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №111",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4604002239168",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №112",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4604002239169",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №113",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4604002239170",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №114",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4604002239171",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №115",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4604002239172",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №116",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4604002239173",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №117",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4604002239174",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №118",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4604002239175",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №119",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4604002239176",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №120",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4604002239177",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №121",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4604002239178",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №122",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4604002239179",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №123",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4604002239180",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №124",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4604002239181",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №125",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4604002239182",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №126",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4604002239183",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №127",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4604002239184",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №128",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4604002239185",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №129",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4604002239186",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №130",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4604002239187",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №131",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4604002239188",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №132",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4604002239189",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №133",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4604002239190",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №134",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4604002239191",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №135",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4604002239192",
     "tikTvd": "2602000864665",
-    "tikName": "Великолукская городская"
+    "tikName": "Великолукская городская",
+    "uikName": "УИК №136",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4604019270202",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №137",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4604019270203",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №138",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4604019270204",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №139",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4604019270205",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №140",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4604019270206",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №141",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4604019270207",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №142",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4604019270208",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №143",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4604019270209",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №144",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4604019270210",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №145",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4604019270211",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №146",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4604019270212",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №147",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4604019270213",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №148",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4604019270214",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №149",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4604019270215",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №150",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4604019270216",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №151",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4604019270217",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №152",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4604019270218",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №153",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4604019270219",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №154",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4604019270220",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №155",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4604019270221",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №156",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4604019270222",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №157",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4604019270223",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №158",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4604019270224",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №159",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4604019270225",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №160",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4604019270226",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №161",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4604019270227",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №162",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4604019270228",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №163",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4604019270229",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №164",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4604019270230",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №165",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4604019270231",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №166",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4604019270232",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №167",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4604019270233",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №168",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4604019270234",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №169",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4604019270235",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №170",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4604019270236",
     "tikTvd": "2602000864679",
-    "tikName": "Псковская"
+    "tikName": "Псковская",
+    "uikName": "УИК №171",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4604015202399",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №172",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4604015202400",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №173",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4604015202401",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №174",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4604015202402",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №175",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4604015202403",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №176",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4604015202404",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №177",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4604015202405",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №178",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4604015202406",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №179",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4604015202407",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №180",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4604015202408",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №181",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4604015202409",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №182",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4604015202410",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №183",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4604015202411",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №184",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4604015202412",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №185",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4604015202413",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №186",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4604015202414",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №187",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4604015202415",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №188",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4604015202416",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №189",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4604015202417",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №190",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4604015202418",
     "tikTvd": "2602000864683",
-    "tikName": "Печорская"
+    "tikName": "Печорская",
+    "uikName": "УИК №191",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4604014174397",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №192",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4604014174398",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №193",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4604014174399",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №194",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4604014174400",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №195",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4604014174401",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №196",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4604014174402",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №197",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4604014174403",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №198",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4604014174404",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №199",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4604014174405",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №200",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4604014174406",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №201",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4604014174407",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №202",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4604014174408",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №203",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4604014174409",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №204",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4604014174410",
     "tikTvd": "2602000864666",
-    "tikName": "Палкинская"
+    "tikName": "Палкинская",
+    "uikName": "УИК №205",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4604005185554",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №206",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4604005185555",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №207",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4604005185556",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №209",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4604005185557",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №210",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4604005185558",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №211",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4604005185559",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №212",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4604005185560",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №213",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4604005185561",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №214",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4604005185562",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №215",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4604005185563",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №216",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4604005185564",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №217",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4604005185565",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №218",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4604005185566",
     "tikTvd": "2602000864689",
-    "tikName": "Дновская"
+    "tikName": "Дновская",
+    "uikName": "УИК №219",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4604004194411",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №220",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4604004194415",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №221",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4604004194417",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №222",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4604004194418",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №223",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4604004194419",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №224",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4604004194420",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №225",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4604004194421",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №226",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4604004194422",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №227",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4604004194423",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №228",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4604004194424",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №229",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4604004194425",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №230",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4604004194426",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №231",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4604004194427",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №232",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4604004194428",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №233",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4604004194429",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №234",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4604004194430",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №235",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4604004194431",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №236",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4604004194432",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №237",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4604004194433",
     "tikTvd": "2602000864676",
-    "tikName": "Дедовичская"
+    "tikName": "Дедовичская",
+    "uikName": "УИК №238",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4604013224283",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №239",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4604013224284",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №240",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4604013224285",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №241",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4604013224286",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №242",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4604013224287",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №243",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4604013224288",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №244",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4604013224289",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №245",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4604013224290",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №246",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4604013224291",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №247",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4604013224292",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №248",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4604013224293",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №249",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4604013224294",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №250",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4604013224295",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №251",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4604013224296",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №252",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4604013224297",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №253",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4604013224298",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №254",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4604013224299",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №255",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4604013224300",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №256",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4604013224301",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №257",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4604013224302",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №258",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4604013224303",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №259",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4604013224304",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №260",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4604013224305",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №261",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4604013224306",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №262",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4604013224307",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №263",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4604013224308",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №264",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4604013224309",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №265",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4604013224310",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №266",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4604013224311",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №267",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4604013224312",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №268",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4604013224313",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №269",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4604013224314",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №270",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4604013224315",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №271",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4604013224316",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №272",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4604013224317",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №273",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4604013224318",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №274",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4604013224319",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №275",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4604013224320",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №276",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4604013224321",
     "tikTvd": "2602000864682",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "uikName": "УИК №277",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4604001193348",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №278",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4604001193349",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №279",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4604001193350",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №280",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4604001193351",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №281",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4604001193352",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №282",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4604001193353",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №283",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4604001193354",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №284",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4604001193355",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №285",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4604001193356",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №286",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4604001193357",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №287",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4604001193358",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №288",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4604001193359",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №289",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4604001193360",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №290",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4604001193361",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №291",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4604001193362",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №292",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4604001193363",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №293",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4604001193364",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №294",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4604001193365",
     "tikTvd": "2602000864672",
-    "tikName": "Бежаницкая"
+    "tikName": "Бежаницкая",
+    "uikName": "УИК №295",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4604010172621",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №296",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4604010172622",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №297",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4604010172623",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №298",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4604010172624",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №299",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4604010172625",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №300",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4604010172626",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №301",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4604010172627",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №302",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4604010172628",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №303",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4604010172629",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №304",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4604010172630",
     "tikTvd": "2602000864688",
-    "tikName": "Новоржевская"
+    "tikName": "Новоржевская",
+    "uikName": "УИК №305",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4604006167550",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №306",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4604006167551",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №307",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4604006167552",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №308",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4604006167553",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №310",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4604006167554",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №311",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4604006167555",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №312",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4604006167556",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №313",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4604006167557",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №314",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4604006167558",
     "tikTvd": "2602000864681",
-    "tikName": "Красногородская"
+    "tikName": "Красногородская",
+    "uikName": "УИК №316",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4604022198440",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №317",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4604022198441",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №318",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4604022198442",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №319",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4604022198443",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №320",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4604022198444",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №321",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4604022198445",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №322",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4604022198446",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №323",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4604022198447",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №324",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4604022198448",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №325",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4604022198449",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №326",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4604022198450",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №327",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4604022198451",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №328",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4604022198452",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №329",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4604022198453",
     "tikTvd": "2602000864671",
-    "tikName": "Пыталовская"
+    "tikName": "Пыталовская",
+    "uikName": "УИК №330",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4604021173206",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №331",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4604021173207",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №332",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4604021173208",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №333",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4604021173209",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №334",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4604021173210",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №335",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4604021173211",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №336",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4604021173212",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №337",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4604021173213",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №338",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4604021173214",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №339",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4604021173215",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №340",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4604021173216",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №341",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4604021173217",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №342",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4604021173218",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №343",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4604021173219",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №344",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4604021173220",
     "tikTvd": "2602000864686",
-    "tikName": "Пушкиногорская"
+    "tikName": "Пушкиногорская",
+    "uikName": "УИК №345",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4604012202155",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №346",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4604012202156",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №347",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4604012202157",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №348",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4604012202158",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №349",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4604012202159",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №350",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4604012202160",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №351",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4604012202161",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №352",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4604012202162",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №353",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4604012202163",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №354",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4604012202164",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №355",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4604012202165",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №356",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4604012202166",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №357",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4604012202167",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №358",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4604012202168",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №359",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4604012202169",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №360",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4604012202170",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №361",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4604012202171",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №362",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4604012202172",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №363",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4604012202173",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №364",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4604012202174",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №365",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4604012202175",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №366",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4604012202176",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №367",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4604012202177",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №368",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4604012202178",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №369",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4604012202179",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №370",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4604012202180",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №371",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4604012202181",
     "tikTvd": "2602000864685",
-    "tikName": "Опочецкая"
+    "tikName": "Опочецкая",
+    "uikName": "УИК №372",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4604020200471",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №373",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4604020200472",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №374",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4604020200473",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №375",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4604020200474",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №376",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4604020200475",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №377",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4604020200476",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №378",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4604020200477",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №379",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4604020200478",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №380",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4604020200479",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №381",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4604020200480",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №382",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4604020200481",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №383",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4604020200482",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №384",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4604020200483",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №385",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4604020200484",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №386",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4604020200485",
     "tikTvd": "2602000864667",
-    "tikName": "Пустошкинская"
+    "tikName": "Пустошкинская",
+    "uikName": "УИК №387",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4604011197611",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №388",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4604011197612",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №389",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4604011197613",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №390",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4604011197614",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №391",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4604011197615",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №392",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4604011197616",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №393",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4604011197617",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №394",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4604011197618",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №395",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4604011197619",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №396",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4604011197620",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №397",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4604011197621",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №398",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4604011197622",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №399",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4604011197623",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №400",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4604011197624",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №401",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4604011197625",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №402",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4604011197626",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №403",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4604011197627",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №404",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4604011197628",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №405",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4604011197629",
     "tikTvd": "2602000864678",
-    "tikName": "Новосокольническая"
+    "tikName": "Новосокольническая",
+    "uikName": "УИК №406",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4604008209471",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №407",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4604008209472",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №408",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4604008209473",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №409",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4604008209474",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №410",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4604008209475",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №411",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4604008209476",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №412",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4604008209477",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №413",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4604008209478",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №414",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4604008209479",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №415",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4604008209480",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №416",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4604008209481",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №417",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4604008209482",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №418",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4604008209483",
     "tikTvd": "2602000864684",
-    "tikName": "Локнянская"
+    "tikName": "Локнянская",
+    "uikName": "УИК №419",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4604026225790",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №422",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4604026225791",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №423",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4604026225792",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №424",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4604026225793",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №425",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4604026225794",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №426",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4604026225795",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №427",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4604026225796",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №428",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4604026225797",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №429",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4604026225798",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №430",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4604026225799",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №431",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4604026225800",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №432",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4604026225801",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №433",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4604026225802",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №434",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4604026225803",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №435",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4604026225804",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №436",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4604026225805",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №437",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4604026225806",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №438",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4604026225807",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №439",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4604026225808",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №440",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4604026225809",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №441",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4604026225810",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №442",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4604026225811",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №443",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4604026225812",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №444",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4604026225813",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №445",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4604026225814",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №446",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4604026225815",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №447",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4604026225816",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №448",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4604026225817",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №449",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4604026225818",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №450",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4604026225819",
     "tikTvd": "2602000864674",
-    "tikName": "Великолукская"
+    "tikName": "Великолукская",
+    "uikName": "УИК №451",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4604007196719",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №452",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4604007196720",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №453",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4604007196721",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №454",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4604007196722",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №455",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4604007196723",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №456",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4604007196724",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №457",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4604007196725",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №458",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4604007196726",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №459",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4604007196727",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №460",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4604007196728",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №461",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4604007196729",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №462",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4604007196730",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №463",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4604007196731",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №464",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4604007196732",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №465",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4604007196733",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №466",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4604007196734",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №467",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4604007196735",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №468",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4604007196736",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №469",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4604007196737",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №470",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4604007196738",
     "tikTvd": "2602000864677",
-    "tikName": "Куньинская"
+    "tikName": "Куньинская",
+    "uikName": "УИК №471",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4604024215185",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №472",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4604024215187",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №473",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4604024215188",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №474",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4604024215189",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №475",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4604024215190",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №476",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4604024215191",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №477",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4604024215192",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №478",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4604024215193",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №479",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4604024215194",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №480",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4604024215195",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №481",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4604024215196",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №482",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4604024215197",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №483",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4604024215198",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №484",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4604024215199",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №485",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4604024215200",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №486",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4604024215201",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №487",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4604024215202",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №488",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4604024215203",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №489",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4604024215204",
     "tikTvd": "2602000864673",
-    "tikName": "Струго-Красненская"
+    "tikName": "Струго-Красненская",
+    "uikName": "УИК №490",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4604003184488",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №491",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4604003184490",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №492",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4604003184492",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №493",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4604003184494",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №494",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4604003184496",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №495",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4604003184498",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №496",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4604003184500",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №497",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4604003184502",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №498",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4604003184504",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №499",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4604003184506",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №500",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4604003184508",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №501",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4604003184510",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №502",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4604003184512",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №503",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4604003184514",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №504",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4604003184516",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №505",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4604003184518",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №506",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4604003184520",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №507",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4604003184522",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №508",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4604003184524",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №509",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4604003184526",
     "tikTvd": "2602000864670",
-    "tikName": "Гдовская"
+    "tikName": "Гдовская",
+    "uikName": "УИК №510",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4604016188220",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №511",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4604016188221",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №512",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4604016188222",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №513",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4604016188223",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №514",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4604016188224",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №515",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4604016188225",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №516",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4604016188226",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №517",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4604016188227",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №518",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4604016188228",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №519",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4604016188229",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №520",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4604016188230",
     "tikTvd": "2602000864680",
-    "tikName": "Плюсская"
+    "tikName": "Плюсская",
+    "uikName": "УИК №521",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4604017209756",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №522",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4604017209757",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №523",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4604017209758",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №524",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4604017209759",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №525",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4604017209760",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №526",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4604017209761",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №527",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4604017209762",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №528",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4604017209763",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №529",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4604017209764",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №530",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4604017209765",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №531",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4604017209766",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №532",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4604017209767",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №533",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4604017209768",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №534",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4604017209769",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №535",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4604017209770",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №536",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4604017209771",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №537",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4604017209772",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №538",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4604017209773",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №539",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4604017209774",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №540",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4604017209775",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №541",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4604017209776",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №542",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4604017209777",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №543",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4604017209778",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №544",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4604017209779",
     "tikTvd": "2602000864669",
-    "tikName": "Порховская"
+    "tikName": "Порховская",
+    "uikName": "УИК №545",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4604023246252",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №546",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4604023246253",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №547",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4604023246254",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №548",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4604023246255",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №549",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4604023246256",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №550",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4604023246257",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №551",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4604023246258",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №552",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4604023246259",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №553",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4604023246260",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №554",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4604023246261",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №555",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4604023246263",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №557",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4604023246264",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №558",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4604023246265",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №559",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4604023246266",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №560",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4604023246267",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №561",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4604023246268",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №562",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4604023246269",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №563",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4604023246270",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №564",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4604023246271",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №565",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4604023246272",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №566",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4604023246273",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №567",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4604023246274",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №568",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4604023246275",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №569",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4604023246276",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №570",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4604023246277",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №571",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4604023246278",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №572",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4604023246279",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №573",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4604023246280",
     "tikTvd": "2602000864675",
-    "tikName": "Себежская"
+    "tikName": "Себежская",
+    "uikName": "УИК №574",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4604009233754",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №575",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4604009233756",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №576",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4604009233758",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №577",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4604009233760",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №578",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4604009233762",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №579",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4604009233764",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №580",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4604009233766",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №581",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4604009233768",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №582",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4604009233770",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №583",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4604009233772",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №584",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4604009233774",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №585",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4604009233776",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №586",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4604009233778",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №587",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4604009233780",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №588",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4604009233782",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №589",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4604009233784",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №590",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4604009233786",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №591",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4604009233788",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №592",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4604009233790",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №593",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4604009233792",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №594",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4604009233794",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №595",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4604009233796",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №596",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4604009233798",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №597",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4604009233800",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №598",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4604009233802",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №599",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4604009233804",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №600",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4604009233806",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №601",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4604009233808",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №602",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4604009233810",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №603",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4604009233812",
     "tikTvd": "2602000864668",
-    "tikName": "Невельская"
+    "tikName": "Невельская",
+    "uikName": "УИК №604",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4604025169400",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №605",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4604025169401",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №606",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4604025169402",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №607",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4604025169403",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №608",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4604025169404",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №609",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4604025169405",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №610",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4604025169406",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №611",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4604025169407",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №612",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4604025169408",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №613",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4604025169409",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №614",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4604025169410",
     "tikTvd": "2602000864664",
-    "tikName": "Усвятская"
+    "tikName": "Усвятская",
+    "uikName": "УИК №615",
+    "regionCode": "60",
+    "regionTvd": "100100225883632",
+    "regionName": "Псковская область",
+    "oikTvd": "100100225883633",
+    "oikName": "Псковская область – Псковский",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100225883633"
+    }
   }
 ] satisfies readonly UikTikRelation[];

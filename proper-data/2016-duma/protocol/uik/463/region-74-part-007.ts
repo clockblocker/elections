@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 487,
-      "Гараев Алексей Иванович": 45,
-      "Дроздов Николай Иванович": 57,
-      "Егоров Игорь Викторович": 71,
-      "Корда Ольга Анатольевна": 55,
-      "Мухометьярова Ольга Ивановна": 152,
-      "Федоров Николай Сергеевич": 123,
-      "Шичков Сергей Владимирович": 23
+      "gas:candidate-vibid:4744027211990": 487,
+      "gas:candidate-vibid:4744027212082": 45,
+      "gas:candidate-vibid:4744027211922": 57,
+      "gas:candidate-vibid:4744027211910": 71,
+      "gas:candidate-vibid:4744027211840": 55,
+      "gas:candidate-vibid:4744027209085": 152,
+      "gas:candidate-vibid:4744027211806": 123,
+      "gas:candidate-vibid:4744027212150": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 548,
-      "Гараев Алексей Иванович": 56,
-      "Дроздов Николай Иванович": 55,
-      "Егоров Игорь Викторович": 75,
-      "Корда Ольга Анатольевна": 69,
-      "Мухометьярова Ольга Ивановна": 265,
-      "Федоров Николай Сергеевич": 131,
-      "Шичков Сергей Владимирович": 21
+      "gas:candidate-vibid:4744027211990": 548,
+      "gas:candidate-vibid:4744027212082": 56,
+      "gas:candidate-vibid:4744027211922": 55,
+      "gas:candidate-vibid:4744027211910": 75,
+      "gas:candidate-vibid:4744027211840": 69,
+      "gas:candidate-vibid:4744027209085": 265,
+      "gas:candidate-vibid:4744027211806": 131,
+      "gas:candidate-vibid:4744027212150": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 317,
-      "Гараев Алексей Иванович": 44,
-      "Дроздов Николай Иванович": 48,
-      "Егоров Игорь Викторович": 48,
-      "Корда Ольга Анатольевна": 42,
-      "Мухометьярова Ольга Ивановна": 150,
-      "Федоров Николай Сергеевич": 84,
-      "Шичков Сергей Владимирович": 12
+      "gas:candidate-vibid:4744027211990": 317,
+      "gas:candidate-vibid:4744027212082": 44,
+      "gas:candidate-vibid:4744027211922": 48,
+      "gas:candidate-vibid:4744027211910": 48,
+      "gas:candidate-vibid:4744027211840": 42,
+      "gas:candidate-vibid:4744027209085": 150,
+      "gas:candidate-vibid:4744027211806": 84,
+      "gas:candidate-vibid:4744027212150": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 214,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 3,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 9,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 214,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 3,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 9,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 519,
-      "Гараев Алексей Иванович": 63,
-      "Дроздов Николай Иванович": 56,
-      "Егоров Игорь Викторович": 86,
-      "Корда Ольга Анатольевна": 73,
-      "Мухометьярова Ольга Ивановна": 200,
-      "Федоров Николай Сергеевич": 122,
-      "Шичков Сергей Владимирович": 23
+      "gas:candidate-vibid:4744027211990": 519,
+      "gas:candidate-vibid:4744027212082": 63,
+      "gas:candidate-vibid:4744027211922": 56,
+      "gas:candidate-vibid:4744027211910": 86,
+      "gas:candidate-vibid:4744027211840": 73,
+      "gas:candidate-vibid:4744027209085": 200,
+      "gas:candidate-vibid:4744027211806": 122,
+      "gas:candidate-vibid:4744027212150": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 401,
-      "Гараев Алексей Иванович": 30,
-      "Дроздов Николай Иванович": 38,
-      "Егоров Игорь Викторович": 48,
-      "Корда Ольга Анатольевна": 59,
-      "Мухометьярова Ольга Ивановна": 161,
-      "Федоров Николай Сергеевич": 116,
-      "Шичков Сергей Владимирович": 17
+      "gas:candidate-vibid:4744027211990": 401,
+      "gas:candidate-vibid:4744027212082": 30,
+      "gas:candidate-vibid:4744027211922": 38,
+      "gas:candidate-vibid:4744027211910": 48,
+      "gas:candidate-vibid:4744027211840": 59,
+      "gas:candidate-vibid:4744027209085": 161,
+      "gas:candidate-vibid:4744027211806": 116,
+      "gas:candidate-vibid:4744027212150": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 399,
-      "Гараев Алексей Иванович": 74,
-      "Дроздов Николай Иванович": 44,
-      "Егоров Игорь Викторович": 54,
-      "Корда Ольга Анатольевна": 77,
-      "Мухометьярова Ольга Ивановна": 205,
-      "Федоров Николай Сергеевич": 113,
-      "Шичков Сергей Владимирович": 37
+      "gas:candidate-vibid:4744027211990": 399,
+      "gas:candidate-vibid:4744027212082": 74,
+      "gas:candidate-vibid:4744027211922": 44,
+      "gas:candidate-vibid:4744027211910": 54,
+      "gas:candidate-vibid:4744027211840": 77,
+      "gas:candidate-vibid:4744027209085": 205,
+      "gas:candidate-vibid:4744027211806": 113,
+      "gas:candidate-vibid:4744027212150": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 425,
-      "Гараев Алексей Иванович": 51,
-      "Дроздов Николай Иванович": 49,
-      "Егоров Игорь Викторович": 66,
-      "Корда Ольга Анатольевна": 48,
-      "Мухометьярова Ольга Ивановна": 172,
-      "Федоров Николай Сергеевич": 114,
-      "Шичков Сергей Владимирович": 25
+      "gas:candidate-vibid:4744027211990": 425,
+      "gas:candidate-vibid:4744027212082": 51,
+      "gas:candidate-vibid:4744027211922": 49,
+      "gas:candidate-vibid:4744027211910": 66,
+      "gas:candidate-vibid:4744027211840": 48,
+      "gas:candidate-vibid:4744027209085": 172,
+      "gas:candidate-vibid:4744027211806": 114,
+      "gas:candidate-vibid:4744027212150": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 391,
-      "Гараев Алексей Иванович": 56,
-      "Дроздов Николай Иванович": 38,
-      "Егоров Игорь Викторович": 93,
-      "Корда Ольга Анатольевна": 70,
-      "Мухометьярова Ольга Ивановна": 273,
-      "Федоров Николай Сергеевич": 136,
-      "Шичков Сергей Владимирович": 21
+      "gas:candidate-vibid:4744027211990": 391,
+      "gas:candidate-vibid:4744027212082": 56,
+      "gas:candidate-vibid:4744027211922": 38,
+      "gas:candidate-vibid:4744027211910": 93,
+      "gas:candidate-vibid:4744027211840": 70,
+      "gas:candidate-vibid:4744027209085": 273,
+      "gas:candidate-vibid:4744027211806": 136,
+      "gas:candidate-vibid:4744027212150": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 438,
-      "Гараев Алексей Иванович": 61,
-      "Дроздов Николай Иванович": 58,
-      "Егоров Игорь Викторович": 56,
-      "Корда Ольга Анатольевна": 61,
-      "Мухометьярова Ольга Ивановна": 175,
-      "Федоров Николай Сергеевич": 124,
-      "Шичков Сергей Владимирович": 25
+      "gas:candidate-vibid:4744027211990": 438,
+      "gas:candidate-vibid:4744027212082": 61,
+      "gas:candidate-vibid:4744027211922": 58,
+      "gas:candidate-vibid:4744027211910": 56,
+      "gas:candidate-vibid:4744027211840": 61,
+      "gas:candidate-vibid:4744027209085": 175,
+      "gas:candidate-vibid:4744027211806": 124,
+      "gas:candidate-vibid:4744027212150": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 360,
-      "Гараев Алексей Иванович": 31,
-      "Дроздов Николай Иванович": 39,
-      "Егоров Игорь Викторович": 44,
-      "Корда Ольга Анатольевна": 45,
-      "Мухометьярова Ольга Ивановна": 143,
-      "Федоров Николай Сергеевич": 90,
-      "Шичков Сергей Владимирович": 20
+      "gas:candidate-vibid:4744027211990": 360,
+      "gas:candidate-vibid:4744027212082": 31,
+      "gas:candidate-vibid:4744027211922": 39,
+      "gas:candidate-vibid:4744027211910": 44,
+      "gas:candidate-vibid:4744027211840": 45,
+      "gas:candidate-vibid:4744027209085": 143,
+      "gas:candidate-vibid:4744027211806": 90,
+      "gas:candidate-vibid:4744027212150": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 177,
-      "Гараев Алексей Иванович": 29,
-      "Дроздов Николай Иванович": 15,
-      "Егоров Игорь Викторович": 21,
-      "Корда Ольга Анатольевна": 12,
-      "Мухометьярова Ольга Ивановна": 68,
-      "Федоров Николай Сергеевич": 49,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 177,
+      "gas:candidate-vibid:4744027212082": 29,
+      "gas:candidate-vibid:4744027211922": 15,
+      "gas:candidate-vibid:4744027211910": 21,
+      "gas:candidate-vibid:4744027211840": 12,
+      "gas:candidate-vibid:4744027209085": 68,
+      "gas:candidate-vibid:4744027211806": 49,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143166&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143166&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 296,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 9,
-      "Егоров Игорь Викторович": 29,
-      "Корда Ольга Анатольевна": 112,
-      "Мухометьярова Ольга Ивановна": 42,
-      "Федоров Николай Сергеевич": 57,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 296,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 9,
+      "gas:candidate-vibid:4744027211910": 29,
+      "gas:candidate-vibid:4744027211840": 112,
+      "gas:candidate-vibid:4744027209085": 42,
+      "gas:candidate-vibid:4744027211806": 57,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 446,
-      "Гараев Алексей Иванович": 25,
-      "Дроздов Николай Иванович": 18,
-      "Егоров Игорь Викторович": 39,
-      "Корда Ольга Анатольевна": 242,
-      "Мухометьярова Ольга Ивановна": 69,
-      "Федоров Николай Сергеевич": 79,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 446,
+      "gas:candidate-vibid:4744027212082": 25,
+      "gas:candidate-vibid:4744027211922": 18,
+      "gas:candidate-vibid:4744027211910": 39,
+      "gas:candidate-vibid:4744027211840": 242,
+      "gas:candidate-vibid:4744027209085": 69,
+      "gas:candidate-vibid:4744027211806": 79,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 525,
-      "Гараев Алексей Иванович": 25,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 44,
-      "Корда Ольга Анатольевна": 248,
-      "Мухометьярова Ольга Ивановна": 47,
-      "Федоров Николай Сергеевич": 76,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 525,
+      "gas:candidate-vibid:4744027212082": 25,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 44,
+      "gas:candidate-vibid:4744027211840": 248,
+      "gas:candidate-vibid:4744027209085": 47,
+      "gas:candidate-vibid:4744027211806": 76,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 183,
-      "Гараев Алексей Иванович": 12,
-      "Дроздов Николай Иванович": 11,
-      "Егоров Игорь Викторович": 13,
-      "Корда Ольга Анатольевна": 67,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 31,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 183,
+      "gas:candidate-vibid:4744027212082": 12,
+      "gas:candidate-vibid:4744027211922": 11,
+      "gas:candidate-vibid:4744027211910": 13,
+      "gas:candidate-vibid:4744027211840": 67,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 31,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 680,
-      "Гараев Алексей Иванович": 32,
-      "Дроздов Николай Иванович": 40,
-      "Егоров Игорь Викторович": 77,
-      "Корда Ольга Анатольевна": 68,
-      "Мухометьярова Ольга Ивановна": 134,
-      "Федоров Николай Сергеевич": 141,
-      "Шичков Сергей Владимирович": 21
+      "gas:candidate-vibid:4744027211990": 680,
+      "gas:candidate-vibid:4744027212082": 32,
+      "gas:candidate-vibid:4744027211922": 40,
+      "gas:candidate-vibid:4744027211910": 77,
+      "gas:candidate-vibid:4744027211840": 68,
+      "gas:candidate-vibid:4744027209085": 134,
+      "gas:candidate-vibid:4744027211806": 141,
+      "gas:candidate-vibid:4744027212150": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 507,
-      "Гараев Алексей Иванович": 42,
-      "Дроздов Николай Иванович": 51,
-      "Егоров Игорь Викторович": 78,
-      "Корда Ольга Анатольевна": 58,
-      "Мухометьярова Ольга Ивановна": 195,
-      "Федоров Николай Сергеевич": 111,
-      "Шичков Сергей Владимирович": 20
+      "gas:candidate-vibid:4744027211990": 507,
+      "gas:candidate-vibid:4744027212082": 42,
+      "gas:candidate-vibid:4744027211922": 51,
+      "gas:candidate-vibid:4744027211910": 78,
+      "gas:candidate-vibid:4744027211840": 58,
+      "gas:candidate-vibid:4744027209085": 195,
+      "gas:candidate-vibid:4744027211806": 111,
+      "gas:candidate-vibid:4744027212150": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 217,
-      "Гараев Алексей Иванович": 14,
-      "Дроздов Николай Иванович": 17,
-      "Егоров Игорь Викторович": 30,
-      "Корда Ольга Анатольевна": 26,
-      "Мухометьярова Ольга Ивановна": 75,
-      "Федоров Николай Сергеевич": 53,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 217,
+      "gas:candidate-vibid:4744027212082": 14,
+      "gas:candidate-vibid:4744027211922": 17,
+      "gas:candidate-vibid:4744027211910": 30,
+      "gas:candidate-vibid:4744027211840": 26,
+      "gas:candidate-vibid:4744027209085": 75,
+      "gas:candidate-vibid:4744027211806": 53,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 423,
-      "Гараев Алексей Иванович": 27,
-      "Дроздов Николай Иванович": 33,
-      "Егоров Игорь Викторович": 51,
-      "Корда Ольга Анатольевна": 44,
-      "Мухометьярова Ольга Ивановна": 203,
-      "Федоров Николай Сергеевич": 91,
-      "Шичков Сергей Владимирович": 12
+      "gas:candidate-vibid:4744027211990": 423,
+      "gas:candidate-vibid:4744027212082": 27,
+      "gas:candidate-vibid:4744027211922": 33,
+      "gas:candidate-vibid:4744027211910": 51,
+      "gas:candidate-vibid:4744027211840": 44,
+      "gas:candidate-vibid:4744027209085": 203,
+      "gas:candidate-vibid:4744027211806": 91,
+      "gas:candidate-vibid:4744027212150": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 503,
-      "Гараев Алексей Иванович": 30,
-      "Дроздов Николай Иванович": 29,
-      "Егоров Игорь Викторович": 81,
-      "Корда Ольга Анатольевна": 53,
-      "Мухометьярова Ольга Ивановна": 223,
-      "Федоров Николай Сергеевич": 103,
-      "Шичков Сергей Владимирович": 16
+      "gas:candidate-vibid:4744027211990": 503,
+      "gas:candidate-vibid:4744027212082": 30,
+      "gas:candidate-vibid:4744027211922": 29,
+      "gas:candidate-vibid:4744027211910": 81,
+      "gas:candidate-vibid:4744027211840": 53,
+      "gas:candidate-vibid:4744027209085": 223,
+      "gas:candidate-vibid:4744027211806": 103,
+      "gas:candidate-vibid:4744027212150": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 370,
-      "Гараев Алексей Иванович": 31,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 63,
-      "Корда Ольга Анатольевна": 35,
-      "Мухометьярова Ольга Ивановна": 164,
-      "Федоров Николай Сергеевич": 77,
-      "Шичков Сергей Владимирович": 26
+      "gas:candidate-vibid:4744027211990": 370,
+      "gas:candidate-vibid:4744027212082": 31,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 63,
+      "gas:candidate-vibid:4744027211840": 35,
+      "gas:candidate-vibid:4744027209085": 164,
+      "gas:candidate-vibid:4744027211806": 77,
+      "gas:candidate-vibid:4744027212150": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 410,
-      "Гараев Алексей Иванович": 30,
-      "Дроздов Николай Иванович": 42,
-      "Егоров Игорь Викторович": 79,
-      "Корда Ольга Анатольевна": 37,
-      "Мухометьярова Ольга Ивановна": 187,
-      "Федоров Николай Сергеевич": 111,
-      "Шичков Сергей Владимирович": 16
+      "gas:candidate-vibid:4744027211990": 410,
+      "gas:candidate-vibid:4744027212082": 30,
+      "gas:candidate-vibid:4744027211922": 42,
+      "gas:candidate-vibid:4744027211910": 79,
+      "gas:candidate-vibid:4744027211840": 37,
+      "gas:candidate-vibid:4744027209085": 187,
+      "gas:candidate-vibid:4744027211806": 111,
+      "gas:candidate-vibid:4744027212150": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 492,
-      "Гараев Алексей Иванович": 39,
-      "Дроздов Николай Иванович": 34,
-      "Егоров Игорь Викторович": 64,
-      "Корда Ольга Анатольевна": 41,
-      "Мухометьярова Ольга Ивановна": 176,
-      "Федоров Николай Сергеевич": 132,
-      "Шичков Сергей Владимирович": 18
+      "gas:candidate-vibid:4744027211990": 492,
+      "gas:candidate-vibid:4744027212082": 39,
+      "gas:candidate-vibid:4744027211922": 34,
+      "gas:candidate-vibid:4744027211910": 64,
+      "gas:candidate-vibid:4744027211840": 41,
+      "gas:candidate-vibid:4744027209085": 176,
+      "gas:candidate-vibid:4744027211806": 132,
+      "gas:candidate-vibid:4744027212150": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 511,
-      "Гараев Алексей Иванович": 22,
-      "Дроздов Николай Иванович": 37,
-      "Егоров Игорь Викторович": 59,
-      "Корда Ольга Анатольевна": 47,
-      "Мухометьярова Ольга Ивановна": 132,
-      "Федоров Николай Сергеевич": 87,
-      "Шичков Сергей Владимирович": 16
+      "gas:candidate-vibid:4744027211990": 511,
+      "gas:candidate-vibid:4744027212082": 22,
+      "gas:candidate-vibid:4744027211922": 37,
+      "gas:candidate-vibid:4744027211910": 59,
+      "gas:candidate-vibid:4744027211840": 47,
+      "gas:candidate-vibid:4744027209085": 132,
+      "gas:candidate-vibid:4744027211806": 87,
+      "gas:candidate-vibid:4744027212150": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 282,
-      "Гараев Алексей Иванович": 13,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 26,
-      "Корда Ольга Анатольевна": 28,
-      "Мухометьярова Ольга Ивановна": 88,
-      "Федоров Николай Сергеевич": 49,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 282,
+      "gas:candidate-vibid:4744027212082": 13,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 26,
+      "gas:candidate-vibid:4744027211840": 28,
+      "gas:candidate-vibid:4744027209085": 88,
+      "gas:candidate-vibid:4744027211806": 49,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 525,
-      "Гараев Алексей Иванович": 68,
-      "Дроздов Николай Иванович": 47,
-      "Егоров Игорь Викторович": 85,
-      "Корда Ольга Анатольевна": 83,
-      "Мухометьярова Ольга Ивановна": 160,
-      "Федоров Николай Сергеевич": 117,
-      "Шичков Сергей Владимирович": 28
+      "gas:candidate-vibid:4744027211990": 525,
+      "gas:candidate-vibid:4744027212082": 68,
+      "gas:candidate-vibid:4744027211922": 47,
+      "gas:candidate-vibid:4744027211910": 85,
+      "gas:candidate-vibid:4744027211840": 83,
+      "gas:candidate-vibid:4744027209085": 160,
+      "gas:candidate-vibid:4744027211806": 117,
+      "gas:candidate-vibid:4744027212150": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 336,
-      "Гараев Алексей Иванович": 29,
-      "Дроздов Николай Иванович": 22,
-      "Егоров Игорь Викторович": 44,
-      "Корда Ольга Анатольевна": 40,
-      "Мухометьярова Ольга Ивановна": 95,
-      "Федоров Николай Сергеевич": 71,
-      "Шичков Сергей Владимирович": 15
+      "gas:candidate-vibid:4744027211990": 336,
+      "gas:candidate-vibid:4744027212082": 29,
+      "gas:candidate-vibid:4744027211922": 22,
+      "gas:candidate-vibid:4744027211910": 44,
+      "gas:candidate-vibid:4744027211840": 40,
+      "gas:candidate-vibid:4744027209085": 95,
+      "gas:candidate-vibid:4744027211806": 71,
+      "gas:candidate-vibid:4744027212150": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 253,
-      "Гараев Алексей Иванович": 32,
-      "Дроздов Николай Иванович": 25,
-      "Егоров Игорь Викторович": 41,
-      "Корда Ольга Анатольевна": 36,
-      "Мухометьярова Ольга Ивановна": 84,
-      "Федоров Николай Сергеевич": 51,
-      "Шичков Сергей Владимирович": 11
+      "gas:candidate-vibid:4744027211990": 253,
+      "gas:candidate-vibid:4744027212082": 32,
+      "gas:candidate-vibid:4744027211922": 25,
+      "gas:candidate-vibid:4744027211910": 41,
+      "gas:candidate-vibid:4744027211840": 36,
+      "gas:candidate-vibid:4744027209085": 84,
+      "gas:candidate-vibid:4744027211806": 51,
+      "gas:candidate-vibid:4744027212150": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 406,
-      "Гараев Алексей Иванович": 56,
-      "Дроздов Николай Иванович": 44,
-      "Егоров Игорь Викторович": 68,
-      "Корда Ольга Анатольевна": 44,
-      "Мухометьярова Ольга Ивановна": 120,
-      "Федоров Николай Сергеевич": 109,
-      "Шичков Сергей Владимирович": 18
+      "gas:candidate-vibid:4744027211990": 406,
+      "gas:candidate-vibid:4744027212082": 56,
+      "gas:candidate-vibid:4744027211922": 44,
+      "gas:candidate-vibid:4744027211910": 68,
+      "gas:candidate-vibid:4744027211840": 44,
+      "gas:candidate-vibid:4744027209085": 120,
+      "gas:candidate-vibid:4744027211806": 109,
+      "gas:candidate-vibid:4744027212150": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 338,
-      "Гараев Алексей Иванович": 16,
-      "Дроздов Николай Иванович": 25,
-      "Егоров Игорь Викторович": 36,
-      "Корда Ольга Анатольевна": 28,
-      "Мухометьярова Ольга Ивановна": 82,
-      "Федоров Николай Сергеевич": 67,
-      "Шичков Сергей Владимирович": 13
+      "gas:candidate-vibid:4744027211990": 338,
+      "gas:candidate-vibid:4744027212082": 16,
+      "gas:candidate-vibid:4744027211922": 25,
+      "gas:candidate-vibid:4744027211910": 36,
+      "gas:candidate-vibid:4744027211840": 28,
+      "gas:candidate-vibid:4744027209085": 82,
+      "gas:candidate-vibid:4744027211806": 67,
+      "gas:candidate-vibid:4744027212150": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 506,
-      "Гараев Алексей Иванович": 40,
-      "Дроздов Николай Иванович": 35,
-      "Егоров Игорь Викторович": 56,
-      "Корда Ольга Анатольевна": 52,
-      "Мухометьярова Ольга Ивановна": 126,
-      "Федоров Николай Сергеевич": 103,
-      "Шичков Сергей Владимирович": 15
+      "gas:candidate-vibid:4744027211990": 506,
+      "gas:candidate-vibid:4744027212082": 40,
+      "gas:candidate-vibid:4744027211922": 35,
+      "gas:candidate-vibid:4744027211910": 56,
+      "gas:candidate-vibid:4744027211840": 52,
+      "gas:candidate-vibid:4744027209085": 126,
+      "gas:candidate-vibid:4744027211806": 103,
+      "gas:candidate-vibid:4744027212150": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 112,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 13,
-      "Корда Ольга Анатольевна": 14,
-      "Мухометьярова Ольга Ивановна": 32,
-      "Федоров Николай Сергеевич": 25,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 112,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 13,
+      "gas:candidate-vibid:4744027211840": 14,
+      "gas:candidate-vibid:4744027209085": 32,
+      "gas:candidate-vibid:4744027211806": 25,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 536,
-      "Гараев Алексей Иванович": 51,
-      "Дроздов Николай Иванович": 36,
-      "Егоров Игорь Викторович": 70,
-      "Корда Ольга Анатольевна": 58,
-      "Мухометьярова Ольга Ивановна": 151,
-      "Федоров Николай Сергеевич": 147,
-      "Шичков Сергей Владимирович": 19
+      "gas:candidate-vibid:4744027211990": 536,
+      "gas:candidate-vibid:4744027212082": 51,
+      "gas:candidate-vibid:4744027211922": 36,
+      "gas:candidate-vibid:4744027211910": 70,
+      "gas:candidate-vibid:4744027211840": 58,
+      "gas:candidate-vibid:4744027209085": 151,
+      "gas:candidate-vibid:4744027211806": 147,
+      "gas:candidate-vibid:4744027212150": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 528,
-      "Гараев Алексей Иванович": 35,
-      "Дроздов Николай Иванович": 56,
-      "Егоров Игорь Викторович": 65,
-      "Корда Ольга Анатольевна": 52,
-      "Мухометьярова Ольга Ивановна": 170,
-      "Федоров Николай Сергеевич": 96,
-      "Шичков Сергей Владимирович": 23
+      "gas:candidate-vibid:4744027211990": 528,
+      "gas:candidate-vibid:4744027212082": 35,
+      "gas:candidate-vibid:4744027211922": 56,
+      "gas:candidate-vibid:4744027211910": 65,
+      "gas:candidate-vibid:4744027211840": 52,
+      "gas:candidate-vibid:4744027209085": 170,
+      "gas:candidate-vibid:4744027211806": 96,
+      "gas:candidate-vibid:4744027212150": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 430,
-      "Гараев Алексей Иванович": 48,
-      "Дроздов Николай Иванович": 44,
-      "Егоров Игорь Викторович": 63,
-      "Корда Ольга Анатольевна": 43,
-      "Мухометьярова Ольга Ивановна": 113,
-      "Федоров Николай Сергеевич": 78,
-      "Шичков Сергей Владимирович": 19
+      "gas:candidate-vibid:4744027211990": 430,
+      "gas:candidate-vibid:4744027212082": 48,
+      "gas:candidate-vibid:4744027211922": 44,
+      "gas:candidate-vibid:4744027211910": 63,
+      "gas:candidate-vibid:4744027211840": 43,
+      "gas:candidate-vibid:4744027209085": 113,
+      "gas:candidate-vibid:4744027211806": 78,
+      "gas:candidate-vibid:4744027212150": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 320,
-      "Гараев Алексей Иванович": 26,
-      "Дроздов Николай Иванович": 23,
-      "Егоров Игорь Викторович": 39,
-      "Корда Ольга Анатольевна": 40,
-      "Мухометьярова Ольга Ивановна": 140,
-      "Федоров Николай Сергеевич": 56,
-      "Шичков Сергей Владимирович": 17
+      "gas:candidate-vibid:4744027211990": 320,
+      "gas:candidate-vibid:4744027212082": 26,
+      "gas:candidate-vibid:4744027211922": 23,
+      "gas:candidate-vibid:4744027211910": 39,
+      "gas:candidate-vibid:4744027211840": 40,
+      "gas:candidate-vibid:4744027209085": 140,
+      "gas:candidate-vibid:4744027211806": 56,
+      "gas:candidate-vibid:4744027212150": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 528,
-      "Гараев Алексей Иванович": 45,
-      "Дроздов Николай Иванович": 44,
-      "Егоров Игорь Викторович": 54,
-      "Корда Ольга Анатольевна": 46,
-      "Мухометьярова Ольга Ивановна": 175,
-      "Федоров Николай Сергеевич": 101,
-      "Шичков Сергей Владимирович": 26
+      "gas:candidate-vibid:4744027211990": 528,
+      "gas:candidate-vibid:4744027212082": 45,
+      "gas:candidate-vibid:4744027211922": 44,
+      "gas:candidate-vibid:4744027211910": 54,
+      "gas:candidate-vibid:4744027211840": 46,
+      "gas:candidate-vibid:4744027209085": 175,
+      "gas:candidate-vibid:4744027211806": 101,
+      "gas:candidate-vibid:4744027212150": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 582,
-      "Гараев Алексей Иванович": 41,
-      "Дроздов Николай Иванович": 47,
-      "Егоров Игорь Викторович": 88,
-      "Корда Ольга Анатольевна": 56,
-      "Мухометьярова Ольга Ивановна": 128,
-      "Федоров Николай Сергеевич": 139,
-      "Шичков Сергей Владимирович": 23
+      "gas:candidate-vibid:4744027211990": 582,
+      "gas:candidate-vibid:4744027212082": 41,
+      "gas:candidate-vibid:4744027211922": 47,
+      "gas:candidate-vibid:4744027211910": 88,
+      "gas:candidate-vibid:4744027211840": 56,
+      "gas:candidate-vibid:4744027209085": 128,
+      "gas:candidate-vibid:4744027211806": 139,
+      "gas:candidate-vibid:4744027212150": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 559,
-      "Гараев Алексей Иванович": 52,
-      "Дроздов Николай Иванович": 29,
-      "Егоров Игорь Викторович": 63,
-      "Корда Ольга Анатольевна": 59,
-      "Мухометьярова Ольга Ивановна": 110,
-      "Федоров Николай Сергеевич": 93,
-      "Шичков Сергей Владимирович": 21
+      "gas:candidate-vibid:4744027211990": 559,
+      "gas:candidate-vibid:4744027212082": 52,
+      "gas:candidate-vibid:4744027211922": 29,
+      "gas:candidate-vibid:4744027211910": 63,
+      "gas:candidate-vibid:4744027211840": 59,
+      "gas:candidate-vibid:4744027209085": 110,
+      "gas:candidate-vibid:4744027211806": 93,
+      "gas:candidate-vibid:4744027212150": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 249,
-      "Гараев Алексей Иванович": 29,
-      "Дроздов Николай Иванович": 18,
-      "Егоров Игорь Викторович": 64,
-      "Корда Ольга Анатольевна": 34,
-      "Мухометьярова Ольга Ивановна": 102,
-      "Федоров Николай Сергеевич": 61,
-      "Шичков Сергей Владимирович": 11
+      "gas:candidate-vibid:4744027211990": 249,
+      "gas:candidate-vibid:4744027212082": 29,
+      "gas:candidate-vibid:4744027211922": 18,
+      "gas:candidate-vibid:4744027211910": 64,
+      "gas:candidate-vibid:4744027211840": 34,
+      "gas:candidate-vibid:4744027209085": 102,
+      "gas:candidate-vibid:4744027211806": 61,
+      "gas:candidate-vibid:4744027212150": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 485,
-      "Гараев Алексей Иванович": 46,
-      "Дроздов Николай Иванович": 28,
-      "Егоров Игорь Викторович": 72,
-      "Корда Ольга Анатольевна": 38,
-      "Мухометьярова Ольга Ивановна": 130,
-      "Федоров Николай Сергеевич": 71,
-      "Шичков Сергей Владимирович": 22
+      "gas:candidate-vibid:4744027211990": 485,
+      "gas:candidate-vibid:4744027212082": 46,
+      "gas:candidate-vibid:4744027211922": 28,
+      "gas:candidate-vibid:4744027211910": 72,
+      "gas:candidate-vibid:4744027211840": 38,
+      "gas:candidate-vibid:4744027209085": 130,
+      "gas:candidate-vibid:4744027211806": 71,
+      "gas:candidate-vibid:4744027212150": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 221,
-      "Гараев Алексей Иванович": 21,
-      "Дроздов Николай Иванович": 11,
-      "Егоров Игорь Викторович": 38,
-      "Корда Ольга Анатольевна": 20,
-      "Мухометьярова Ольга Ивановна": 63,
-      "Федоров Николай Сергеевич": 32,
-      "Шичков Сергей Владимирович": 12
+      "gas:candidate-vibid:4744027211990": 221,
+      "gas:candidate-vibid:4744027212082": 21,
+      "gas:candidate-vibid:4744027211922": 11,
+      "gas:candidate-vibid:4744027211910": 38,
+      "gas:candidate-vibid:4744027211840": 20,
+      "gas:candidate-vibid:4744027209085": 63,
+      "gas:candidate-vibid:4744027211806": 32,
+      "gas:candidate-vibid:4744027212150": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 441,
-      "Гараев Алексей Иванович": 60,
-      "Дроздов Николай Иванович": 31,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 51,
-      "Мухометьярова Ольга Ивановна": 99,
-      "Федоров Николай Сергеевич": 81,
-      "Шичков Сергей Владимирович": 28
+      "gas:candidate-vibid:4744027211990": 441,
+      "gas:candidate-vibid:4744027212082": 60,
+      "gas:candidate-vibid:4744027211922": 31,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 51,
+      "gas:candidate-vibid:4744027209085": 99,
+      "gas:candidate-vibid:4744027211806": 81,
+      "gas:candidate-vibid:4744027212150": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 467,
-      "Гараев Алексей Иванович": 52,
-      "Дроздов Николай Иванович": 39,
-      "Егоров Игорь Викторович": 69,
-      "Корда Ольга Анатольевна": 64,
-      "Мухометьярова Ольга Ивановна": 152,
-      "Федоров Николай Сергеевич": 100,
-      "Шичков Сергей Владимирович": 36
+      "gas:candidate-vibid:4744027211990": 467,
+      "gas:candidate-vibid:4744027212082": 52,
+      "gas:candidate-vibid:4744027211922": 39,
+      "gas:candidate-vibid:4744027211910": 69,
+      "gas:candidate-vibid:4744027211840": 64,
+      "gas:candidate-vibid:4744027209085": 152,
+      "gas:candidate-vibid:4744027211806": 100,
+      "gas:candidate-vibid:4744027212150": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 449,
-      "Гараев Алексей Иванович": 56,
-      "Дроздов Николай Иванович": 23,
-      "Егоров Игорь Викторович": 48,
-      "Корда Ольга Анатольевна": 57,
-      "Мухометьярова Ольга Ивановна": 127,
-      "Федоров Николай Сергеевич": 68,
-      "Шичков Сергей Владимирович": 20
+      "gas:candidate-vibid:4744027211990": 449,
+      "gas:candidate-vibid:4744027212082": 56,
+      "gas:candidate-vibid:4744027211922": 23,
+      "gas:candidate-vibid:4744027211910": 48,
+      "gas:candidate-vibid:4744027211840": 57,
+      "gas:candidate-vibid:4744027209085": 127,
+      "gas:candidate-vibid:4744027211806": 68,
+      "gas:candidate-vibid:4744027212150": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 513,
-      "Гараев Алексей Иванович": 48,
-      "Дроздов Николай Иванович": 33,
-      "Егоров Игорь Викторович": 80,
-      "Корда Ольга Анатольевна": 55,
-      "Мухометьярова Ольга Ивановна": 164,
-      "Федоров Николай Сергеевич": 108,
-      "Шичков Сергей Владимирович": 34
+      "gas:candidate-vibid:4744027211990": 513,
+      "gas:candidate-vibid:4744027212082": 48,
+      "gas:candidate-vibid:4744027211922": 33,
+      "gas:candidate-vibid:4744027211910": 80,
+      "gas:candidate-vibid:4744027211840": 55,
+      "gas:candidate-vibid:4744027209085": 164,
+      "gas:candidate-vibid:4744027211806": 108,
+      "gas:candidate-vibid:4744027212150": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 391,
-      "Гараев Алексей Иванович": 36,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 62,
-      "Корда Ольга Анатольевна": 54,
-      "Мухометьярова Ольга Ивановна": 152,
-      "Федоров Николай Сергеевич": 82,
-      "Шичков Сергей Владимирович": 24
+      "gas:candidate-vibid:4744027211990": 391,
+      "gas:candidate-vibid:4744027212082": 36,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 62,
+      "gas:candidate-vibid:4744027211840": 54,
+      "gas:candidate-vibid:4744027209085": 152,
+      "gas:candidate-vibid:4744027211806": 82,
+      "gas:candidate-vibid:4744027212150": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 395,
-      "Гараев Алексей Иванович": 43,
-      "Дроздов Николай Иванович": 24,
-      "Егоров Игорь Викторович": 43,
-      "Корда Ольга Анатольевна": 42,
-      "Мухометьярова Ольга Ивановна": 131,
-      "Федоров Николай Сергеевич": 58,
-      "Шичков Сергей Владимирович": 24
+      "gas:candidate-vibid:4744027211990": 395,
+      "gas:candidate-vibid:4744027212082": 43,
+      "gas:candidate-vibid:4744027211922": 24,
+      "gas:candidate-vibid:4744027211910": 43,
+      "gas:candidate-vibid:4744027211840": 42,
+      "gas:candidate-vibid:4744027209085": 131,
+      "gas:candidate-vibid:4744027211806": 58,
+      "gas:candidate-vibid:4744027212150": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 391,
-      "Гараев Алексей Иванович": 21,
-      "Дроздов Николай Иванович": 22,
-      "Егоров Игорь Викторович": 52,
-      "Корда Ольга Анатольевна": 44,
-      "Мухометьярова Ольга Ивановна": 129,
-      "Федоров Николай Сергеевич": 76,
-      "Шичков Сергей Владимирович": 11
+      "gas:candidate-vibid:4744027211990": 391,
+      "gas:candidate-vibid:4744027212082": 21,
+      "gas:candidate-vibid:4744027211922": 22,
+      "gas:candidate-vibid:4744027211910": 52,
+      "gas:candidate-vibid:4744027211840": 44,
+      "gas:candidate-vibid:4744027209085": 129,
+      "gas:candidate-vibid:4744027211806": 76,
+      "gas:candidate-vibid:4744027212150": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 371,
-      "Гараев Алексей Иванович": 26,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 34,
-      "Корда Ольга Анатольевна": 34,
-      "Мухометьярова Ольга Ивановна": 113,
-      "Федоров Николай Сергеевич": 55,
-      "Шичков Сергей Владимирович": 13
+      "gas:candidate-vibid:4744027211990": 371,
+      "gas:candidate-vibid:4744027212082": 26,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 34,
+      "gas:candidate-vibid:4744027211840": 34,
+      "gas:candidate-vibid:4744027209085": 113,
+      "gas:candidate-vibid:4744027211806": 55,
+      "gas:candidate-vibid:4744027212150": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 421,
-      "Гараев Алексей Иванович": 36,
-      "Дроздов Николай Иванович": 30,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 50,
-      "Мухометьярова Ольга Ивановна": 123,
-      "Федоров Николай Сергеевич": 75,
-      "Шичков Сергей Владимирович": 18
+      "gas:candidate-vibid:4744027211990": 421,
+      "gas:candidate-vibid:4744027212082": 36,
+      "gas:candidate-vibid:4744027211922": 30,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 50,
+      "gas:candidate-vibid:4744027209085": 123,
+      "gas:candidate-vibid:4744027211806": 75,
+      "gas:candidate-vibid:4744027212150": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 500,
-      "Гараев Алексей Иванович": 49,
-      "Дроздов Николай Иванович": 32,
-      "Егоров Игорь Викторович": 60,
-      "Корда Ольга Анатольевна": 58,
-      "Мухометьярова Ольга Ивановна": 147,
-      "Федоров Николай Сергеевич": 82,
-      "Шичков Сергей Владимирович": 28
+      "gas:candidate-vibid:4744027211990": 500,
+      "gas:candidate-vibid:4744027212082": 49,
+      "gas:candidate-vibid:4744027211922": 32,
+      "gas:candidate-vibid:4744027211910": 60,
+      "gas:candidate-vibid:4744027211840": 58,
+      "gas:candidate-vibid:4744027209085": 147,
+      "gas:candidate-vibid:4744027211806": 82,
+      "gas:candidate-vibid:4744027212150": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 608,
-      "Гараев Алексей Иванович": 62,
-      "Дроздов Николай Иванович": 57,
-      "Егоров Игорь Викторович": 100,
-      "Корда Ольга Анатольевна": 79,
-      "Мухометьярова Ольга Ивановна": 183,
-      "Федоров Николай Сергеевич": 113,
-      "Шичков Сергей Владимирович": 46
+      "gas:candidate-vibid:4744027211990": 608,
+      "gas:candidate-vibid:4744027212082": 62,
+      "gas:candidate-vibid:4744027211922": 57,
+      "gas:candidate-vibid:4744027211910": 100,
+      "gas:candidate-vibid:4744027211840": 79,
+      "gas:candidate-vibid:4744027209085": 183,
+      "gas:candidate-vibid:4744027211806": 113,
+      "gas:candidate-vibid:4744027212150": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 474,
-      "Гараев Алексей Иванович": 56,
-      "Дроздов Николай Иванович": 36,
-      "Егоров Игорь Викторович": 79,
-      "Корда Ольга Анатольевна": 74,
-      "Мухометьярова Ольга Ивановна": 132,
-      "Федоров Николай Сергеевич": 84,
-      "Шичков Сергей Владимирович": 31
+      "gas:candidate-vibid:4744027211990": 474,
+      "gas:candidate-vibid:4744027212082": 56,
+      "gas:candidate-vibid:4744027211922": 36,
+      "gas:candidate-vibid:4744027211910": 79,
+      "gas:candidate-vibid:4744027211840": 74,
+      "gas:candidate-vibid:4744027209085": 132,
+      "gas:candidate-vibid:4744027211806": 84,
+      "gas:candidate-vibid:4744027212150": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 73,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 7,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 73,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 7,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 157,
-      "Гараев Алексей Иванович": 19,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 26,
-      "Корда Ольга Анатольевна": 14,
-      "Мухометьярова Ольга Ивановна": 40,
-      "Федоров Николай Сергеевич": 33,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 157,
+      "gas:candidate-vibid:4744027212082": 19,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 26,
+      "gas:candidate-vibid:4744027211840": 14,
+      "gas:candidate-vibid:4744027209085": 40,
+      "gas:candidate-vibid:4744027211806": 33,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143167&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143167&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 327,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 13,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 173,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 327,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 13,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 173,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 271,
-      "Гараев Алексей Иванович": 27,
-      "Дроздов Николай Иванович": 27,
-      "Егоров Игорь Викторович": 33,
-      "Корда Ольга Анатольевна": 11,
-      "Мухометьярова Ольга Ивановна": 195,
-      "Федоров Николай Сергеевич": 57,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 271,
+      "gas:candidate-vibid:4744027212082": 27,
+      "gas:candidate-vibid:4744027211922": 27,
+      "gas:candidate-vibid:4744027211910": 33,
+      "gas:candidate-vibid:4744027211840": 11,
+      "gas:candidate-vibid:4744027209085": 195,
+      "gas:candidate-vibid:4744027211806": 57,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 127,
-      "Гараев Алексей Иванович": 10,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 21,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 24,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 127,
+      "gas:candidate-vibid:4744027212082": 10,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 21,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 24,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 215,
-      "Гараев Алексей Иванович": 44,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 28,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 82,
-      "Федоров Николай Сергеевич": 26,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 215,
+      "gas:candidate-vibid:4744027212082": 44,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 28,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 82,
+      "gas:candidate-vibid:4744027211806": 26,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 104,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 32,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 104,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 32,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 252,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 7,
-      "Егоров Игорь Викторович": 5,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 31,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 252,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 7,
+      "gas:candidate-vibid:4744027211910": 5,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 31,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 218,
-      "Гараев Алексей Иванович": 56,
-      "Дроздов Николай Иванович": 24,
-      "Егоров Игорь Викторович": 25,
-      "Корда Ольга Анатольевна": 10,
-      "Мухометьярова Ольга Ивановна": 67,
-      "Федоров Николай Сергеевич": 41,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 218,
+      "gas:candidate-vibid:4744027212082": 56,
+      "gas:candidate-vibid:4744027211922": 24,
+      "gas:candidate-vibid:4744027211910": 25,
+      "gas:candidate-vibid:4744027211840": 10,
+      "gas:candidate-vibid:4744027209085": 67,
+      "gas:candidate-vibid:4744027211806": 41,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 79,
-      "Гараев Алексей Иванович": 13,
-      "Дроздов Николай Иванович": 10,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 36,
-      "Федоров Николай Сергеевич": 11,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 79,
+      "gas:candidate-vibid:4744027212082": 13,
+      "gas:candidate-vibid:4744027211922": 10,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 36,
+      "gas:candidate-vibid:4744027211806": 11,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 341,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 30,
-      "Федоров Николай Сергеевич": 6,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 341,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 30,
+      "gas:candidate-vibid:4744027211806": 6,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 55,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 11,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 55,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 11,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 134,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 10,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 50,
-      "Федоров Николай Сергеевич": 21,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 134,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 10,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 50,
+      "gas:candidate-vibid:4744027211806": 21,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 25,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 11,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 25,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 11,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 72,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 9,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 0,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 72,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 9,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 0,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 170,
-      "Гараев Алексей Иванович": 43,
-      "Дроздов Николай Иванович": 10,
-      "Егоров Игорь Викторович": 17,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 43,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 170,
+      "gas:candidate-vibid:4744027212082": 43,
+      "gas:candidate-vibid:4744027211922": 10,
+      "gas:candidate-vibid:4744027211910": 17,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 43,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 108,
-      "Гараев Алексей Иванович": 7,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 19,
-      "Федоров Николай Сергеевич": 3,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 108,
+      "gas:candidate-vibid:4744027212082": 7,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 19,
+      "gas:candidate-vibid:4744027211806": 3,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 51,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 7,
-      "Федоров Николай Сергеевич": 5,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 51,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 7,
+      "gas:candidate-vibid:4744027211806": 5,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 302,
-      "Гараев Алексей Иванович": 46,
-      "Дроздов Николай Иванович": 9,
-      "Егоров Игорь Викторович": 18,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 72,
-      "Федоров Николай Сергеевич": 29,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 302,
+      "gas:candidate-vibid:4744027212082": 46,
+      "gas:candidate-vibid:4744027211922": 9,
+      "gas:candidate-vibid:4744027211910": 18,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 72,
+      "gas:candidate-vibid:4744027211806": 29,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 70,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 70,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 22,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 0,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 29,
-      "Федоров Николай Сергеевич": 2,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 22,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 0,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 29,
+      "gas:candidate-vibid:4744027211806": 2,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 190,
-      "Гараев Алексей Иванович": 23,
-      "Дроздов Николай Иванович": 11,
-      "Егоров Игорь Викторович": 16,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 68,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 190,
+      "gas:candidate-vibid:4744027212082": 23,
+      "gas:candidate-vibid:4744027211922": 11,
+      "gas:candidate-vibid:4744027211910": 16,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 68,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 233,
-      "Гараев Алексей Иванович": 19,
-      "Дроздов Николай Иванович": 15,
-      "Егоров Игорь Викторович": 26,
-      "Корда Ольга Анатольевна": 11,
-      "Мухометьярова Ольга Ивановна": 75,
-      "Федоров Николай Сергеевич": 27,
-      "Шичков Сергей Владимирович": 8
+      "gas:candidate-vibid:4744027211990": 233,
+      "gas:candidate-vibid:4744027212082": 19,
+      "gas:candidate-vibid:4744027211922": 15,
+      "gas:candidate-vibid:4744027211910": 26,
+      "gas:candidate-vibid:4744027211840": 11,
+      "gas:candidate-vibid:4744027209085": 75,
+      "gas:candidate-vibid:4744027211806": 27,
+      "gas:candidate-vibid:4744027212150": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 75,
-      "Гараев Алексей Иванович": 7,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 24,
-      "Федоров Николай Сергеевич": 9,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 75,
+      "gas:candidate-vibid:4744027212082": 7,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 24,
+      "gas:candidate-vibid:4744027211806": 9,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 80,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 80,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 255,
-      "Гараев Алексей Иванович": 43,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 18,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 139,
-      "Федоров Николай Сергеевич": 38,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 255,
+      "gas:candidate-vibid:4744027212082": 43,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 18,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 139,
+      "gas:candidate-vibid:4744027211806": 38,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 93,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 54,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 93,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 54,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 289,
-      "Гараев Алексей Иванович": 39,
-      "Дроздов Николай Иванович": 13,
-      "Егоров Игорь Викторович": 28,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 57,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 289,
+      "gas:candidate-vibid:4744027212082": 39,
+      "gas:candidate-vibid:4744027211922": 13,
+      "gas:candidate-vibid:4744027211910": 28,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 57,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 120,
-      "Гараев Алексей Иванович": 10,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 7,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 23,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 120,
+      "gas:candidate-vibid:4744027212082": 10,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 7,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 23,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 151,
-      "Гараев Алексей Иванович": 26,
-      "Дроздов Николай Иванович": 11,
-      "Егоров Игорь Викторович": 14,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 52,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 151,
+      "gas:candidate-vibid:4744027212082": 26,
+      "gas:candidate-vibid:4744027211922": 11,
+      "gas:candidate-vibid:4744027211910": 14,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 52,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 26,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 0,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 19,
-      "Федоров Николай Сергеевич": 0,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 26,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 0,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 19,
+      "gas:candidate-vibid:4744027211806": 0,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 55,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 3,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 55,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 3,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 22,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 25,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 22,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 25,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 22,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 11,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 10,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 22,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 11,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 10,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 27,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 0,
-      "Егоров Игорь Викторович": 1,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 11,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 27,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 0,
+      "gas:candidate-vibid:4744027211910": 1,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 11,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 166,
-      "Гараев Алексей Иванович": 36,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 37,
-      "Корда Ольга Анатольевна": 14,
-      "Мухометьярова Ольга Ивановна": 135,
-      "Федоров Николай Сергеевич": 52,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 166,
+      "gas:candidate-vibid:4744027212082": 36,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 37,
+      "gas:candidate-vibid:4744027211840": 14,
+      "gas:candidate-vibid:4744027209085": 135,
+      "gas:candidate-vibid:4744027211806": 52,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 289,
-      "Гараев Алексей Иванович": 42,
-      "Дроздов Николай Иванович": 10,
-      "Егоров Игорь Викторович": 45,
-      "Корда Ольга Анатольевна": 9,
-      "Мухометьярова Ольга Ивановна": 218,
-      "Федоров Николай Сергеевич": 54,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 289,
+      "gas:candidate-vibid:4744027212082": 42,
+      "gas:candidate-vibid:4744027211922": 10,
+      "gas:candidate-vibid:4744027211910": 45,
+      "gas:candidate-vibid:4744027211840": 9,
+      "gas:candidate-vibid:4744027209085": 218,
+      "gas:candidate-vibid:4744027211806": 54,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 84,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 26,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 84,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 26,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143168&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143168&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 184,
-      "Гараев Алексей Иванович": 23,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 40,
-      "Федоров Николай Сергеевич": 85,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 184,
+      "gas:candidate-vibid:4744027212082": 23,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 40,
+      "gas:candidate-vibid:4744027211806": 85,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 204,
-      "Гараев Алексей Иванович": 19,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 63,
-      "Корда Ольга Анатольевна": 10,
-      "Мухометьярова Ольга Ивановна": 31,
-      "Федоров Николай Сергеевич": 76,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 204,
+      "gas:candidate-vibid:4744027212082": 19,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 63,
+      "gas:candidate-vibid:4744027211840": 10,
+      "gas:candidate-vibid:4744027209085": 31,
+      "gas:candidate-vibid:4744027211806": 76,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 132,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 31,
-      "Егоров Игорь Викторович": 59,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 35,
-      "Федоров Николай Сергеевич": 95,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 132,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 31,
+      "gas:candidate-vibid:4744027211910": 59,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 35,
+      "gas:candidate-vibid:4744027211806": 95,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 173,
-      "Гараев Алексей Иванович": 17,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 65,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 29,
-      "Федоров Николай Сергеевич": 79,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 173,
+      "gas:candidate-vibid:4744027212082": 17,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 65,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 29,
+      "gas:candidate-vibid:4744027211806": 79,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 191,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 31,
-      "Егоров Игорь Викторович": 65,
-      "Корда Ольга Анатольевна": 14,
-      "Мухометьярова Ольга Ивановна": 40,
-      "Федоров Николай Сергеевич": 77,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 191,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 31,
+      "gas:candidate-vibid:4744027211910": 65,
+      "gas:candidate-vibid:4744027211840": 14,
+      "gas:candidate-vibid:4744027209085": 40,
+      "gas:candidate-vibid:4744027211806": 77,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 217,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 35,
-      "Егоров Игорь Викторович": 73,
-      "Корда Ольга Анатольевна": 15,
-      "Мухометьярова Ольга Ивановна": 47,
-      "Федоров Николай Сергеевич": 112,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 217,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 35,
+      "gas:candidate-vibid:4744027211910": 73,
+      "gas:candidate-vibid:4744027211840": 15,
+      "gas:candidate-vibid:4744027209085": 47,
+      "gas:candidate-vibid:4744027211806": 112,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 155,
-      "Гараев Алексей Иванович": 20,
-      "Дроздов Николай Иванович": 23,
-      "Егоров Игорь Викторович": 61,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 49,
-      "Федоров Николай Сергеевич": 86,
-      "Шичков Сергей Владимирович": 11
+      "gas:candidate-vibid:4744027211990": 155,
+      "gas:candidate-vibid:4744027212082": 20,
+      "gas:candidate-vibid:4744027211922": 23,
+      "gas:candidate-vibid:4744027211910": 61,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 49,
+      "gas:candidate-vibid:4744027211806": 86,
+      "gas:candidate-vibid:4744027212150": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 192,
-      "Гараев Алексей Иванович": 18,
-      "Дроздов Николай Иванович": 35,
-      "Егоров Игорь Викторович": 83,
-      "Корда Ольга Анатольевна": 17,
-      "Мухометьярова Ольга Ивановна": 100,
-      "Федоров Николай Сергеевич": 84,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 192,
+      "gas:candidate-vibid:4744027212082": 18,
+      "gas:candidate-vibid:4744027211922": 35,
+      "gas:candidate-vibid:4744027211910": 83,
+      "gas:candidate-vibid:4744027211840": 17,
+      "gas:candidate-vibid:4744027209085": 100,
+      "gas:candidate-vibid:4744027211806": 84,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 237,
-      "Гараев Алексей Иванович": 30,
-      "Дроздов Николай Иванович": 40,
-      "Егоров Игорь Викторович": 101,
-      "Корда Ольга Анатольевна": 26,
-      "Мухометьярова Ольга Ивановна": 102,
-      "Федоров Николай Сергеевич": 103,
-      "Шичков Сергей Владимирович": 14
+      "gas:candidate-vibid:4744027211990": 237,
+      "gas:candidate-vibid:4744027212082": 30,
+      "gas:candidate-vibid:4744027211922": 40,
+      "gas:candidate-vibid:4744027211910": 101,
+      "gas:candidate-vibid:4744027211840": 26,
+      "gas:candidate-vibid:4744027209085": 102,
+      "gas:candidate-vibid:4744027211806": 103,
+      "gas:candidate-vibid:4744027212150": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 217,
-      "Гараев Алексей Иванович": 36,
-      "Дроздов Николай Иванович": 28,
-      "Егоров Игорь Викторович": 101,
-      "Корда Ольга Анатольевна": 18,
-      "Мухометьярова Ольга Ивановна": 84,
-      "Федоров Николай Сергеевич": 110,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 217,
+      "gas:candidate-vibid:4744027212082": 36,
+      "gas:candidate-vibid:4744027211922": 28,
+      "gas:candidate-vibid:4744027211910": 101,
+      "gas:candidate-vibid:4744027211840": 18,
+      "gas:candidate-vibid:4744027209085": 84,
+      "gas:candidate-vibid:4744027211806": 110,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 189,
-      "Гараев Алексей Иванович": 24,
-      "Дроздов Николай Иванович": 27,
-      "Егоров Игорь Викторович": 84,
-      "Корда Ольга Анатольевна": 16,
-      "Мухометьярова Ольга Ивановна": 101,
-      "Федоров Николай Сергеевич": 80,
-      "Шичков Сергей Владимирович": 8
+      "gas:candidate-vibid:4744027211990": 189,
+      "gas:candidate-vibid:4744027212082": 24,
+      "gas:candidate-vibid:4744027211922": 27,
+      "gas:candidate-vibid:4744027211910": 84,
+      "gas:candidate-vibid:4744027211840": 16,
+      "gas:candidate-vibid:4744027209085": 101,
+      "gas:candidate-vibid:4744027211806": 80,
+      "gas:candidate-vibid:4744027212150": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 178,
-      "Гараев Алексей Иванович": 36,
-      "Дроздов Николай Иванович": 24,
-      "Егоров Игорь Викторович": 67,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 71,
-      "Федоров Николай Сергеевич": 82,
-      "Шичков Сергей Владимирович": 11
+      "gas:candidate-vibid:4744027211990": 178,
+      "gas:candidate-vibid:4744027212082": 36,
+      "gas:candidate-vibid:4744027211922": 24,
+      "gas:candidate-vibid:4744027211910": 67,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 71,
+      "gas:candidate-vibid:4744027211806": 82,
+      "gas:candidate-vibid:4744027212150": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 240,
-      "Гараев Алексей Иванович": 53,
-      "Дроздов Николай Иванович": 30,
-      "Егоров Игорь Викторович": 89,
-      "Корда Ольга Анатольевна": 15,
-      "Мухометьярова Ольга Ивановна": 55,
-      "Федоров Николай Сергеевич": 109,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 240,
+      "gas:candidate-vibid:4744027212082": 53,
+      "gas:candidate-vibid:4744027211922": 30,
+      "gas:candidate-vibid:4744027211910": 89,
+      "gas:candidate-vibid:4744027211840": 15,
+      "gas:candidate-vibid:4744027209085": 55,
+      "gas:candidate-vibid:4744027211806": 109,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 224,
-      "Гараев Алексей Иванович": 41,
-      "Дроздов Николай Иванович": 29,
-      "Егоров Игорь Викторович": 66,
-      "Корда Ольга Анатольевна": 17,
-      "Мухометьярова Ольга Ивановна": 51,
-      "Федоров Николай Сергеевич": 94,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 224,
+      "gas:candidate-vibid:4744027212082": 41,
+      "gas:candidate-vibid:4744027211922": 29,
+      "gas:candidate-vibid:4744027211910": 66,
+      "gas:candidate-vibid:4744027211840": 17,
+      "gas:candidate-vibid:4744027209085": 51,
+      "gas:candidate-vibid:4744027211806": 94,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 180,
-      "Гараев Алексей Иванович": 12,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 27,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 16,
-      "Федоров Николай Сергеевич": 40,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 180,
+      "gas:candidate-vibid:4744027212082": 12,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 27,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 16,
+      "gas:candidate-vibid:4744027211806": 40,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 118,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 10,
-      "Егоров Игорь Викторович": 41,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 3,
-      "Федоров Николай Сергеевич": 25,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 118,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 10,
+      "gas:candidate-vibid:4744027211910": 41,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 3,
+      "gas:candidate-vibid:4744027211806": 25,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 137,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 30,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 17,
-      "Мухометьярова Ольга Ивановна": 43,
-      "Федоров Николай Сергеевич": 77,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 137,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 30,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 17,
+      "gas:candidate-vibid:4744027209085": 43,
+      "gas:candidate-vibid:4744027211806": 77,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 201,
-      "Гараев Алексей Иванович": 29,
-      "Дроздов Николай Иванович": 30,
-      "Егоров Игорь Викторович": 43,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 28,
-      "Федоров Николай Сергеевич": 62,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 201,
+      "gas:candidate-vibid:4744027212082": 29,
+      "gas:candidate-vibid:4744027211922": 30,
+      "gas:candidate-vibid:4744027211910": 43,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 28,
+      "gas:candidate-vibid:4744027211806": 62,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 41,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 1,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 2,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 41,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 1,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 2,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 51,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 5,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 2,
-      "Федоров Николай Сергеевич": 6,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 51,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 5,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 2,
+      "gas:candidate-vibid:4744027211806": 6,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 101,
-      "Гараев Алексей Иванович": 10,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 46,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 101,
+      "gas:candidate-vibid:4744027212082": 10,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 46,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 25,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 17,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 7,
-      "Федоров Николай Сергеевич": 14,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 25,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 17,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 7,
+      "gas:candidate-vibid:4744027211806": 14,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 21,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 0,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 21,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 0,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 64,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 11,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 4,
-      "Федоров Николай Сергеевич": 5,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 64,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 11,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 4,
+      "gas:candidate-vibid:4744027211806": 5,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 257,
-      "Гараев Алексей Иванович": 25,
-      "Дроздов Николай Иванович": 22,
-      "Егоров Игорь Викторович": 36,
-      "Корда Ольга Анатольевна": 9,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 257,
+      "gas:candidate-vibid:4744027212082": 25,
+      "gas:candidate-vibid:4744027211922": 22,
+      "gas:candidate-vibid:4744027211910": 36,
+      "gas:candidate-vibid:4744027211840": 9,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 109,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 8,
-      "Федоров Николай Сергеевич": 27,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 109,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 8,
+      "gas:candidate-vibid:4744027211806": 27,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 58,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 14,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 4,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 58,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 14,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 4,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 315,
-      "Гараев Алексей Иванович": 58,
-      "Дроздов Николай Иванович": 23,
-      "Егоров Игорь Викторович": 25,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 27,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 315,
+      "gas:candidate-vibid:4744027212082": 58,
+      "gas:candidate-vibid:4744027211922": 23,
+      "gas:candidate-vibid:4744027211910": 25,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 27,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 52,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 0,
-      "Федоров Николай Сергеевич": 0,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 52,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 0,
+      "gas:candidate-vibid:4744027211806": 0,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 40,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 0,
-      "Егоров Игорь Викторович": 12,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 0,
-      "Федоров Николай Сергеевич": 6,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 40,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 0,
+      "gas:candidate-vibid:4744027211910": 12,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 0,
+      "gas:candidate-vibid:4744027211806": 6,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 152,
-      "Гараев Алексей Иванович": 37,
-      "Дроздов Николай Иванович": 31,
-      "Егоров Игорь Викторович": 71,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 15,
-      "Федоров Николай Сергеевич": 19,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 152,
+      "gas:candidate-vibid:4744027212082": 37,
+      "gas:candidate-vibid:4744027211922": 31,
+      "gas:candidate-vibid:4744027211910": 71,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 15,
+      "gas:candidate-vibid:4744027211806": 19,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 210,
-      "Гараев Алексей Иванович": 27,
-      "Дроздов Николай Иванович": 32,
-      "Егоров Игорь Викторович": 71,
-      "Корда Ольга Анатольевна": 15,
-      "Мухометьярова Ольга Ивановна": 42,
-      "Федоров Николай Сергеевич": 86,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 210,
+      "gas:candidate-vibid:4744027212082": 27,
+      "gas:candidate-vibid:4744027211922": 32,
+      "gas:candidate-vibid:4744027211910": 71,
+      "gas:candidate-vibid:4744027211840": 15,
+      "gas:candidate-vibid:4744027209085": 42,
+      "gas:candidate-vibid:4744027211806": 86,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 48,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 7,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 1,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 48,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 7,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 1,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 23,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 3,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 2,
-      "Федоров Николай Сергеевич": 5,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 23,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 3,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 2,
+      "gas:candidate-vibid:4744027211806": 5,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 254,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 17,
-      "Егоров Игорь Викторович": 21,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 48,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 254,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 17,
+      "gas:candidate-vibid:4744027211910": 21,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 48,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 59,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 14,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 4,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 59,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 14,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 4,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 94,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 12,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 2,
-      "Федоров Николай Сергеевич": 6,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 94,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 12,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 2,
+      "gas:candidate-vibid:4744027211806": 6,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 272,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 36,
-      "Егоров Игорь Викторович": 71,
-      "Корда Ольга Анатольевна": 25,
-      "Мухометьярова Ольга Ивановна": 32,
-      "Федоров Николай Сергеевич": 76,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 272,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 36,
+      "gas:candidate-vibid:4744027211910": 71,
+      "gas:candidate-vibid:4744027211840": 25,
+      "gas:candidate-vibid:4744027209085": 32,
+      "gas:candidate-vibid:4744027211806": 76,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 154,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 31,
-      "Егоров Игорь Викторович": 15,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 11,
-      "Федоров Николай Сергеевич": 37,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 154,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 31,
+      "gas:candidate-vibid:4744027211910": 15,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 11,
+      "gas:candidate-vibid:4744027211806": 37,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 102,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 5,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 10,
-      "Федоров Николай Сергеевич": 19,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 102,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 5,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 10,
+      "gas:candidate-vibid:4744027211806": 19,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 216,
-      "Гараев Алексей Иванович": 59,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 48,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 27,
-      "Федоров Николай Сергеевич": 49,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 216,
+      "gas:candidate-vibid:4744027212082": 59,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 48,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 27,
+      "gas:candidate-vibid:4744027211806": 49,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 65,
-      "Гараев Алексей Иванович": 7,
-      "Дроздов Николай Иванович": 7,
-      "Егоров Игорь Викторович": 26,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 7,
-      "Федоров Николай Сергеевич": 28,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 65,
+      "gas:candidate-vibid:4744027212082": 7,
+      "gas:candidate-vibid:4744027211922": 7,
+      "gas:candidate-vibid:4744027211910": 26,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 7,
+      "gas:candidate-vibid:4744027211806": 28,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 29,
-      "Гараев Алексей Иванович": 7,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 5,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 3,
-      "Федоров Николай Сергеевич": 16,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 29,
+      "gas:candidate-vibid:4744027212082": 7,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 5,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 3,
+      "gas:candidate-vibid:4744027211806": 16,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 59,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 7,
-      "Федоров Николай Сергеевич": 3,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 59,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 7,
+      "gas:candidate-vibid:4744027211806": 3,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 145,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 62,
-      "Корда Ольга Анатольевна": 14,
-      "Мухометьярова Ольга Ивановна": 18,
-      "Федоров Николай Сергеевич": 69,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 145,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 62,
+      "gas:candidate-vibid:4744027211840": 14,
+      "gas:candidate-vibid:4744027209085": 18,
+      "gas:candidate-vibid:4744027211806": 69,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 128,
-      "Гараев Алексей Иванович": 17,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 15,
-      "Мухометьярова Ольга Ивановна": 13,
-      "Федоров Николай Сергеевич": 51,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 128,
+      "gas:candidate-vibid:4744027212082": 17,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 15,
+      "gas:candidate-vibid:4744027209085": 13,
+      "gas:candidate-vibid:4744027211806": 51,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 92,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 21,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 5,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 92,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 21,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 5,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 41,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 0,
-      "Егоров Игорь Викторович": 37,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 1,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 41,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 0,
+      "gas:candidate-vibid:4744027211910": 37,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 1,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 185,
-      "Гараев Алексей Иванович": 57,
-      "Дроздов Николай Иванович": 24,
-      "Егоров Игорь Викторович": 59,
-      "Корда Ольга Анатольевна": 10,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 25,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 185,
+      "gas:candidate-vibid:4744027212082": 57,
+      "gas:candidate-vibid:4744027211922": 24,
+      "gas:candidate-vibid:4744027211910": 59,
+      "gas:candidate-vibid:4744027211840": 10,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 25,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 45,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 11,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 6,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 45,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 11,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 6,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 74,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 5,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 74,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 5,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143169&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143169&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 235,
-      "Гараев Алексей Иванович": 22,
-      "Дроздов Николай Иванович": 21,
-      "Егоров Игорь Викторович": 63,
-      "Корда Ольга Анатольевна": 19,
-      "Мухометьярова Ольга Ивановна": 54,
-      "Федоров Николай Сергеевич": 80,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 235,
+      "gas:candidate-vibid:4744027212082": 22,
+      "gas:candidate-vibid:4744027211922": 21,
+      "gas:candidate-vibid:4744027211910": 63,
+      "gas:candidate-vibid:4744027211840": 19,
+      "gas:candidate-vibid:4744027209085": 54,
+      "gas:candidate-vibid:4744027211806": 80,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143170&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143170&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 428,
-      "Гараев Алексей Иванович": 14,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 53,
-      "Корда Ольга Анатольевна": 24,
-      "Мухометьярова Ольга Ивановна": 76,
-      "Федоров Николай Сергеевич": 118,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 428,
+      "gas:candidate-vibid:4744027212082": 14,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 53,
+      "gas:candidate-vibid:4744027211840": 24,
+      "gas:candidate-vibid:4744027209085": 76,
+      "gas:candidate-vibid:4744027211806": 118,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143170&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143170&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 404,
-      "Гараев Алексей Иванович": 33,
-      "Дроздов Николай Иванович": 28,
-      "Егоров Игорь Викторович": 32,
-      "Корда Ольга Анатольевна": 17,
-      "Мухометьярова Ольга Ивановна": 70,
-      "Федоров Николай Сергеевич": 122,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 404,
+      "gas:candidate-vibid:4744027212082": 33,
+      "gas:candidate-vibid:4744027211922": 28,
+      "gas:candidate-vibid:4744027211910": 32,
+      "gas:candidate-vibid:4744027211840": 17,
+      "gas:candidate-vibid:4744027209085": 70,
+      "gas:candidate-vibid:4744027211806": 122,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143170&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143170&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 299,
-      "Гараев Алексей Иванович": 21,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 38,
-      "Корда Ольга Анатольевна": 18,
-      "Мухометьярова Ольга Ивановна": 246,
-      "Федоров Николай Сергеевич": 76,
-      "Шичков Сергей Владимирович": 10
+      "gas:candidate-vibid:4744027211990": 299,
+      "gas:candidate-vibid:4744027212082": 21,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 38,
+      "gas:candidate-vibid:4744027211840": 18,
+      "gas:candidate-vibid:4744027209085": 246,
+      "gas:candidate-vibid:4744027211806": 76,
+      "gas:candidate-vibid:4744027212150": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 250,
-      "Гараев Алексей Иванович": 23,
-      "Дроздов Николай Иванович": 27,
-      "Егоров Игорь Викторович": 57,
-      "Корда Ольга Анатольевна": 21,
-      "Мухометьярова Ольга Ивановна": 154,
-      "Федоров Николай Сергеевич": 72,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 250,
+      "gas:candidate-vibid:4744027212082": 23,
+      "gas:candidate-vibid:4744027211922": 27,
+      "gas:candidate-vibid:4744027211910": 57,
+      "gas:candidate-vibid:4744027211840": 21,
+      "gas:candidate-vibid:4744027209085": 154,
+      "gas:candidate-vibid:4744027211806": 72,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 101,
-      "Гараев Алексей Иванович": 14,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 21,
-      "Корда Ольга Анатольевна": 10,
-      "Мухометьярова Ольга Ивановна": 78,
-      "Федоров Николай Сергеевич": 23,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 101,
+      "gas:candidate-vibid:4744027212082": 14,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 21,
+      "gas:candidate-vibid:4744027211840": 10,
+      "gas:candidate-vibid:4744027209085": 78,
+      "gas:candidate-vibid:4744027211806": 23,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 273,
-      "Гараев Алексей Иванович": 27,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 59,
-      "Корда Ольга Анатольевна": 23,
-      "Мухометьярова Ольга Ивановна": 171,
-      "Федоров Николай Сергеевич": 82,
-      "Шичков Сергей Владимирович": 15
+      "gas:candidate-vibid:4744027211990": 273,
+      "gas:candidate-vibid:4744027212082": 27,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 59,
+      "gas:candidate-vibid:4744027211840": 23,
+      "gas:candidate-vibid:4744027209085": 171,
+      "gas:candidate-vibid:4744027211806": 82,
+      "gas:candidate-vibid:4744027212150": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 392,
-      "Гараев Алексей Иванович": 33,
-      "Дроздов Николай Иванович": 41,
-      "Егоров Игорь Викторович": 79,
-      "Корда Ольга Анатольевна": 30,
-      "Мухометьярова Ольга Ивановна": 310,
-      "Федоров Николай Сергеевич": 89,
-      "Шичков Сергей Владимирович": 10
+      "gas:candidate-vibid:4744027211990": 392,
+      "gas:candidate-vibid:4744027212082": 33,
+      "gas:candidate-vibid:4744027211922": 41,
+      "gas:candidate-vibid:4744027211910": 79,
+      "gas:candidate-vibid:4744027211840": 30,
+      "gas:candidate-vibid:4744027209085": 310,
+      "gas:candidate-vibid:4744027211806": 89,
+      "gas:candidate-vibid:4744027212150": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 346,
-      "Гараев Алексей Иванович": 61,
-      "Дроздов Николай Иванович": 69,
-      "Егоров Игорь Викторович": 106,
-      "Корда Ольга Анатольевна": 44,
-      "Мухометьярова Ольга Ивановна": 155,
-      "Федоров Николай Сергеевич": 162,
-      "Шичков Сергей Владимирович": 10
+      "gas:candidate-vibid:4744027211990": 346,
+      "gas:candidate-vibid:4744027212082": 61,
+      "gas:candidate-vibid:4744027211922": 69,
+      "gas:candidate-vibid:4744027211910": 106,
+      "gas:candidate-vibid:4744027211840": 44,
+      "gas:candidate-vibid:4744027209085": 155,
+      "gas:candidate-vibid:4744027211806": 162,
+      "gas:candidate-vibid:4744027212150": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 301,
-      "Гараев Алексей Иванович": 48,
-      "Дроздов Николай Иванович": 55,
-      "Егоров Игорь Викторович": 107,
-      "Корда Ольга Анатольевна": 36,
-      "Мухометьярова Ольга Ивановна": 156,
-      "Федоров Николай Сергеевич": 120,
-      "Шичков Сергей Владимирович": 13
+      "gas:candidate-vibid:4744027211990": 301,
+      "gas:candidate-vibid:4744027212082": 48,
+      "gas:candidate-vibid:4744027211922": 55,
+      "gas:candidate-vibid:4744027211910": 107,
+      "gas:candidate-vibid:4744027211840": 36,
+      "gas:candidate-vibid:4744027209085": 156,
+      "gas:candidate-vibid:4744027211806": 120,
+      "gas:candidate-vibid:4744027212150": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 332,
-      "Гараев Алексей Иванович": 67,
-      "Дроздов Николай Иванович": 74,
-      "Егоров Игорь Викторович": 131,
-      "Корда Ольга Анатольевна": 37,
-      "Мухометьярова Ольга Ивановна": 152,
-      "Федоров Николай Сергеевич": 108,
-      "Шичков Сергей Владимирович": 21
+      "gas:candidate-vibid:4744027211990": 332,
+      "gas:candidate-vibid:4744027212082": 67,
+      "gas:candidate-vibid:4744027211922": 74,
+      "gas:candidate-vibid:4744027211910": 131,
+      "gas:candidate-vibid:4744027211840": 37,
+      "gas:candidate-vibid:4744027209085": 152,
+      "gas:candidate-vibid:4744027211806": 108,
+      "gas:candidate-vibid:4744027212150": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 68,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 20,
-      "Корда Ольга Анатольевна": 11,
-      "Мухометьярова Ольга Ивановна": 12,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 68,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 20,
+      "gas:candidate-vibid:4744027211840": 11,
+      "gas:candidate-vibid:4744027209085": 12,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 36,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 12,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 36,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 12,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 40,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 15,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 40,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 15,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 174,
-      "Гараев Алексей Иванович": 20,
-      "Дроздов Николай Иванович": 19,
-      "Егоров Игорь Викторович": 78,
-      "Корда Ольга Анатольевна": 12,
-      "Мухометьярова Ольга Ивановна": 57,
-      "Федоров Николай Сергеевич": 48,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 174,
+      "gas:candidate-vibid:4744027212082": 20,
+      "gas:candidate-vibid:4744027211922": 19,
+      "gas:candidate-vibid:4744027211910": 78,
+      "gas:candidate-vibid:4744027211840": 12,
+      "gas:candidate-vibid:4744027209085": 57,
+      "gas:candidate-vibid:4744027211806": 48,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 38,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 16,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 32,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 38,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 16,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 32,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 111,
-      "Гараев Алексей Иванович": 20,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 22,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 14,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 111,
+      "gas:candidate-vibid:4744027212082": 20,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 22,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 14,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 68,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 10,
-      "Егоров Игорь Викторович": 21,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 6,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 68,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 10,
+      "gas:candidate-vibid:4744027211910": 21,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 6,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 34,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 23,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 16,
-      "Федоров Николай Сергеевич": 2,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 34,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 23,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 16,
+      "gas:candidate-vibid:4744027211806": 2,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 157,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 13,
-      "Егоров Игорь Викторович": 20,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 119,
-      "Федоров Николай Сергеевич": 35,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 157,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 13,
+      "gas:candidate-vibid:4744027211910": 20,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 119,
+      "gas:candidate-vibid:4744027211806": 35,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 57,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 8,
-      "Федоров Николай Сергеевич": 5,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 57,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 8,
+      "gas:candidate-vibid:4744027211806": 5,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 182,
-      "Гараев Алексей Иванович": 15,
-      "Дроздов Николай Иванович": 18,
-      "Егоров Игорь Викторович": 19,
-      "Корда Ольга Анатольевна": 17,
-      "Мухометьярова Ольга Ивановна": 72,
-      "Федоров Николай Сергеевич": 53,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 182,
+      "gas:candidate-vibid:4744027212082": 15,
+      "gas:candidate-vibid:4744027211922": 18,
+      "gas:candidate-vibid:4744027211910": 19,
+      "gas:candidate-vibid:4744027211840": 17,
+      "gas:candidate-vibid:4744027209085": 72,
+      "gas:candidate-vibid:4744027211806": 53,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 65,
-      "Гараев Алексей Иванович": 7,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 48,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 65,
+      "gas:candidate-vibid:4744027212082": 7,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 48,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 359,
-      "Гараев Алексей Иванович": 22,
-      "Дроздов Николай Иванович": 28,
-      "Егоров Игорь Викторович": 80,
-      "Корда Ольга Анатольевна": 23,
-      "Мухометьярова Ольга Ивановна": 90,
-      "Федоров Николай Сергеевич": 38,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 359,
+      "gas:candidate-vibid:4744027212082": 22,
+      "gas:candidate-vibid:4744027211922": 28,
+      "gas:candidate-vibid:4744027211910": 80,
+      "gas:candidate-vibid:4744027211840": 23,
+      "gas:candidate-vibid:4744027209085": 90,
+      "gas:candidate-vibid:4744027211806": 38,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 81,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 7,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 40,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 81,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 7,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 40,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 35,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 2,
-      "Федоров Николай Сергеевич": 2,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 35,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 2,
+      "gas:candidate-vibid:4744027211806": 2,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 59,
-      "Гараев Алексей Иванович": 20,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 12,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 9,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 59,
+      "gas:candidate-vibid:4744027212082": 20,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 12,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 9,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 79,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 5,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 30,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 79,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 5,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 30,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 266,
-      "Гараев Алексей Иванович": 37,
-      "Дроздов Николай Иванович": 29,
-      "Егоров Игорь Викторович": 57,
-      "Корда Ольга Анатольевна": 21,
-      "Мухометьярова Ольга Ивановна": 96,
-      "Федоров Николай Сергеевич": 69,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 266,
+      "gas:candidate-vibid:4744027212082": 37,
+      "gas:candidate-vibid:4744027211922": 29,
+      "gas:candidate-vibid:4744027211910": 57,
+      "gas:candidate-vibid:4744027211840": 21,
+      "gas:candidate-vibid:4744027209085": 96,
+      "gas:candidate-vibid:4744027211806": 69,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 46,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 12,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 20,
-      "Федоров Николай Сергеевич": 9,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 46,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 12,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 20,
+      "gas:candidate-vibid:4744027211806": 9,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 46,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 15,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 27,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 46,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 15,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 27,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 56,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 20,
-      "Федоров Николай Сергеевич": 9,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 56,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 20,
+      "gas:candidate-vibid:4744027211806": 9,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 30,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 7,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 18,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 30,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 7,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 18,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 30,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 11,
-      "Федоров Николай Сергеевич": 20,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 30,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 11,
+      "gas:candidate-vibid:4744027211806": 20,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 85,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 44,
-      "Федоров Николай Сергеевич": 16,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 85,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 44,
+      "gas:candidate-vibid:4744027211806": 16,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 107,
-      "Гараев Алексей Иванович": 26,
-      "Дроздов Николай Иванович": 11,
-      "Егоров Игорь Викторович": 45,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 40,
-      "Федоров Николай Сергеевич": 26,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 107,
+      "gas:candidate-vibid:4744027212082": 26,
+      "gas:candidate-vibid:4744027211922": 11,
+      "gas:candidate-vibid:4744027211910": 45,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 40,
+      "gas:candidate-vibid:4744027211806": 26,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 28,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 25,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 28,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 25,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 37,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 50,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 37,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 50,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 234,
-      "Гараев Алексей Иванович": 28,
-      "Дроздов Николай Иванович": 18,
-      "Егоров Игорь Викторович": 74,
-      "Корда Ольга Анатольевна": 24,
-      "Мухометьярова Ольга Ивановна": 126,
-      "Федоров Николай Сергеевич": 57,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 234,
+      "gas:candidate-vibid:4744027212082": 28,
+      "gas:candidate-vibid:4744027211922": 18,
+      "gas:candidate-vibid:4744027211910": 74,
+      "gas:candidate-vibid:4744027211840": 24,
+      "gas:candidate-vibid:4744027209085": 126,
+      "gas:candidate-vibid:4744027211806": 57,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 49,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 6,
-      "Федоров Николай Сергеевич": 7,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 49,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 6,
+      "gas:candidate-vibid:4744027211806": 7,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 42,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 37,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 42,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 37,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 204,
-      "Гараев Алексей Иванович": 23,
-      "Дроздов Николай Иванович": 15,
-      "Егоров Игорь Викторович": 40,
-      "Корда Ольга Анатольевна": 19,
-      "Мухометьярова Ольга Ивановна": 87,
-      "Федоров Николай Сергеевич": 51,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 204,
+      "gas:candidate-vibid:4744027212082": 23,
+      "gas:candidate-vibid:4744027211922": 15,
+      "gas:candidate-vibid:4744027211910": 40,
+      "gas:candidate-vibid:4744027211840": 19,
+      "gas:candidate-vibid:4744027209085": 87,
+      "gas:candidate-vibid:4744027211806": 51,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 70,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 70,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 52,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 3,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 7,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 52,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 3,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 7,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 30,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 3,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 10,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 30,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 3,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 10,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 53,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 10,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 45,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 53,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 10,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 45,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 34,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 11,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 20,
-      "Федоров Николай Сергеевич": 0,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 34,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 11,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 20,
+      "gas:candidate-vibid:4744027211806": 0,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 165,
-      "Гараев Алексей Иванович": 29,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 37,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 24,
-      "Федоров Николай Сергеевич": 16,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 165,
+      "gas:candidate-vibid:4744027212082": 29,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 37,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 24,
+      "gas:candidate-vibid:4744027211806": 16,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 40,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 31,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 40,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 31,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 14,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 16,
-      "Федоров Николай Сергеевич": 7,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 14,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 16,
+      "gas:candidate-vibid:4744027211806": 7,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 163,
-      "Гараев Алексей Иванович": 28,
-      "Дроздов Николай Иванович": 18,
-      "Егоров Игорь Викторович": 44,
-      "Корда Ольга Анатольевна": 15,
-      "Мухометьярова Ольга Ивановна": 153,
-      "Федоров Николай Сергеевич": 48,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 163,
+      "gas:candidate-vibid:4744027212082": 28,
+      "gas:candidate-vibid:4744027211922": 18,
+      "gas:candidate-vibid:4744027211910": 44,
+      "gas:candidate-vibid:4744027211840": 15,
+      "gas:candidate-vibid:4744027209085": 153,
+      "gas:candidate-vibid:4744027211806": 48,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 34,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 5,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 31,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 34,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 5,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 31,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 58,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 65,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 58,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 65,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 40,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 16,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 16,
-      "Федоров Николай Сергеевич": 1,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 40,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 16,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 16,
+      "gas:candidate-vibid:4744027211806": 1,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 89,
-      "Гараев Алексей Иванович": 10,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 20,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 43,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 89,
+      "gas:candidate-vibid:4744027212082": 10,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 20,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 43,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 55,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 53,
-      "Федоров Николай Сергеевич": 16,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 55,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 53,
+      "gas:candidate-vibid:4744027211806": 16,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 45,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 4,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 35,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 45,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 4,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 35,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143171&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143171&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 637,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 6,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 637,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 6,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 86,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 11,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 10,
-      "Федоров Николай Сергеевич": 9,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 86,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 11,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 10,
+      "gas:candidate-vibid:4744027211806": 9,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 138,
-      "Гараев Алексей Иванович": 3,
-      "Дроздов Николай Иванович": 13,
-      "Егоров Игорь Викторович": 38,
-      "Корда Ольга Анатольевна": 9,
-      "Мухометьярова Ольга Ивановна": 35,
-      "Федоров Николай Сергеевич": 15,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 138,
+      "gas:candidate-vibid:4744027212082": 3,
+      "gas:candidate-vibid:4744027211922": 13,
+      "gas:candidate-vibid:4744027211910": 38,
+      "gas:candidate-vibid:4744027211840": 9,
+      "gas:candidate-vibid:4744027209085": 35,
+      "gas:candidate-vibid:4744027211806": 15,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 833,
-      "Гараев Алексей Иванович": 14,
-      "Дроздов Николай Иванович": 18,
-      "Егоров Игорь Викторович": 117,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 41,
-      "Федоров Николай Сергеевич": 49,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 833,
+      "gas:candidate-vibid:4744027212082": 14,
+      "gas:candidate-vibid:4744027211922": 18,
+      "gas:candidate-vibid:4744027211910": 117,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 41,
+      "gas:candidate-vibid:4744027211806": 49,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 631,
-      "Гараев Алексей Иванович": 46,
-      "Дроздов Николай Иванович": 30,
-      "Егоров Игорь Викторович": 60,
-      "Корда Ольга Анатольевна": 11,
-      "Мухометьярова Ольга Ивановна": 77,
-      "Федоров Николай Сергеевич": 46,
-      "Шичков Сергей Владимирович": 9
+      "gas:candidate-vibid:4744027211990": 631,
+      "gas:candidate-vibid:4744027212082": 46,
+      "gas:candidate-vibid:4744027211922": 30,
+      "gas:candidate-vibid:4744027211910": 60,
+      "gas:candidate-vibid:4744027211840": 11,
+      "gas:candidate-vibid:4744027209085": 77,
+      "gas:candidate-vibid:4744027211806": 46,
+      "gas:candidate-vibid:4744027212150": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 270,
-      "Гараев Алексей Иванович": 70,
-      "Дроздов Николай Иванович": 23,
-      "Егоров Игорь Викторович": 76,
-      "Корда Ольга Анатольевна": 26,
-      "Мухометьярова Ольга Ивановна": 47,
-      "Федоров Николай Сергеевич": 72,
-      "Шичков Сергей Владимирович": 20
+      "gas:candidate-vibid:4744027211990": 270,
+      "gas:candidate-vibid:4744027212082": 70,
+      "gas:candidate-vibid:4744027211922": 23,
+      "gas:candidate-vibid:4744027211910": 76,
+      "gas:candidate-vibid:4744027211840": 26,
+      "gas:candidate-vibid:4744027209085": 47,
+      "gas:candidate-vibid:4744027211806": 72,
+      "gas:candidate-vibid:4744027212150": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 286,
-      "Гараев Алексей Иванович": 53,
-      "Дроздов Николай Иванович": 27,
-      "Егоров Игорь Викторович": 67,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 42,
-      "Федоров Николай Сергеевич": 51,
-      "Шичков Сергей Владимирович": 12
+      "gas:candidate-vibid:4744027211990": 286,
+      "gas:candidate-vibid:4744027212082": 53,
+      "gas:candidate-vibid:4744027211922": 27,
+      "gas:candidate-vibid:4744027211910": 67,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 42,
+      "gas:candidate-vibid:4744027211806": 51,
+      "gas:candidate-vibid:4744027212150": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 426,
-      "Гараев Алексей Иванович": 69,
-      "Дроздов Николай Иванович": 48,
-      "Егоров Игорь Викторович": 108,
-      "Корда Ольга Анатольевна": 20,
-      "Мухометьярова Ольга Ивановна": 89,
-      "Федоров Николай Сергеевич": 85,
-      "Шичков Сергей Владимирович": 11
+      "gas:candidate-vibid:4744027211990": 426,
+      "gas:candidate-vibid:4744027212082": 69,
+      "gas:candidate-vibid:4744027211922": 48,
+      "gas:candidate-vibid:4744027211910": 108,
+      "gas:candidate-vibid:4744027211840": 20,
+      "gas:candidate-vibid:4744027209085": 89,
+      "gas:candidate-vibid:4744027211806": 85,
+      "gas:candidate-vibid:4744027212150": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 243,
-      "Гараев Алексей Иванович": 37,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 66,
-      "Корда Ольга Анатольевна": 22,
-      "Мухометьярова Ольга Ивановна": 61,
-      "Федоров Николай Сергеевич": 72,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 243,
+      "gas:candidate-vibid:4744027212082": 37,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 66,
+      "gas:candidate-vibid:4744027211840": 22,
+      "gas:candidate-vibid:4744027209085": 61,
+      "gas:candidate-vibid:4744027211806": 72,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 115,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 14,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 8,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 115,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 14,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 8,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 156,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 16,
-      "Егоров Игорь Викторович": 29,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 28,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 156,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 16,
+      "gas:candidate-vibid:4744027211910": 29,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 28,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 40,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 0,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 26,
-      "Федоров Николай Сергеевич": 3,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 40,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 0,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 26,
+      "gas:candidate-vibid:4744027211806": 3,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 218,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 53,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 99,
-      "Федоров Николай Сергеевич": 41,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 218,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 53,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 99,
+      "gas:candidate-vibid:4744027211806": 41,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 49,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 15,
-      "Корда Ольга Анатольевна": 9,
-      "Мухометьярова Ольга Ивановна": 11,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 49,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 15,
+      "gas:candidate-vibid:4744027211840": 9,
+      "gas:candidate-vibid:4744027209085": 11,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 69,
-      "Гараев Алексей Иванович": 5,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 8,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 1,
-      "Федоров Николай Сергеевич": 8,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 69,
+      "gas:candidate-vibid:4744027212082": 5,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 8,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 1,
+      "gas:candidate-vibid:4744027211806": 8,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 62,
-      "Гараев Алексей Иванович": 23,
-      "Дроздов Николай Иванович": 1,
-      "Егоров Игорь Викторович": 2,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 9,
-      "Федоров Николай Сергеевич": 6,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 62,
+      "gas:candidate-vibid:4744027212082": 23,
+      "gas:candidate-vibid:4744027211922": 1,
+      "gas:candidate-vibid:4744027211910": 2,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 9,
+      "gas:candidate-vibid:4744027211806": 6,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 68,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 13,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 23,
-      "Федоров Николай Сергеевич": 11,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 68,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 13,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 23,
+      "gas:candidate-vibid:4744027211806": 11,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 170,
-      "Гараев Алексей Иванович": 25,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 9,
-      "Мухометьярова Ольга Ивановна": 41,
-      "Федоров Николай Сергеевич": 33,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 170,
+      "gas:candidate-vibid:4744027212082": 25,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 9,
+      "gas:candidate-vibid:4744027209085": 41,
+      "gas:candidate-vibid:4744027211806": 33,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 42,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 14,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 35,
-      "Федоров Николай Сергеевич": 11,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 42,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 14,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 35,
+      "gas:candidate-vibid:4744027211806": 11,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 50,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 6,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 30,
-      "Федоров Николай Сергеевич": 2,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 50,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 6,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 30,
+      "gas:candidate-vibid:4744027211806": 2,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 102,
-      "Гараев Алексей Иванович": 6,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 23,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 34,
-      "Федоров Николай Сергеевич": 3,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 102,
+      "gas:candidate-vibid:4744027212082": 6,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 23,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 34,
+      "gas:candidate-vibid:4744027211806": 3,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 242,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 79,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 28,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 242,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 79,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 28,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 49,
-      "Гараев Алексей Иванович": 0,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 20,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 17,
-      "Федоров Николай Сергеевич": 12,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 49,
+      "gas:candidate-vibid:4744027212082": 0,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 20,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 17,
+      "gas:candidate-vibid:4744027211806": 12,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 521,
-      "Гараев Алексей Иванович": 8,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 9,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 29,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 521,
+      "gas:candidate-vibid:4744027212082": 8,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 9,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 29,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 99,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 16,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 16,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 99,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 16,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 16,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 327,
-      "Гараев Алексей Иванович": 21,
-      "Дроздов Николай Иванович": 13,
-      "Егоров Игорь Викторович": 48,
-      "Корда Ольга Анатольевна": 8,
-      "Мухометьярова Ольга Ивановна": 23,
-      "Федоров Николай Сергеевич": 21,
-      "Шичков Сергей Владимирович": 7
+      "gas:candidate-vibid:4744027211990": 327,
+      "gas:candidate-vibid:4744027212082": 21,
+      "gas:candidate-vibid:4744027211922": 13,
+      "gas:candidate-vibid:4744027211910": 48,
+      "gas:candidate-vibid:4744027211840": 8,
+      "gas:candidate-vibid:4744027209085": 23,
+      "gas:candidate-vibid:4744027211806": 21,
+      "gas:candidate-vibid:4744027212150": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 100,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 16,
-      "Егоров Игорь Викторович": 22,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 31,
-      "Федоров Николай Сергеевич": 21,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 100,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 16,
+      "gas:candidate-vibid:4744027211910": 22,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 31,
+      "gas:candidate-vibid:4744027211806": 21,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 79,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 4,
-      "Егоров Игорь Викторович": 24,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 22,
-      "Федоров Николай Сергеевич": 27,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 79,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 4,
+      "gas:candidate-vibid:4744027211910": 24,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 22,
+      "gas:candidate-vibid:4744027211806": 27,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 45,
-      "Гараев Алексей Иванович": 1,
-      "Дроздов Николай Иванович": 9,
-      "Егоров Игорь Викторович": 19,
-      "Корда Ольга Анатольевна": 0,
-      "Мухометьярова Ольга Ивановна": 27,
-      "Федоров Николай Сергеевич": 10,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 45,
+      "gas:candidate-vibid:4744027212082": 1,
+      "gas:candidate-vibid:4744027211922": 9,
+      "gas:candidate-vibid:4744027211910": 19,
+      "gas:candidate-vibid:4744027211840": 0,
+      "gas:candidate-vibid:4744027209085": 27,
+      "gas:candidate-vibid:4744027211806": 10,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 198,
-      "Гараев Алексей Иванович": 17,
-      "Дроздов Николай Иванович": 16,
-      "Егоров Игорь Викторович": 56,
-      "Корда Ольга Анатольевна": 13,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 73,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 198,
+      "gas:candidate-vibid:4744027212082": 17,
+      "gas:candidate-vibid:4744027211922": 16,
+      "gas:candidate-vibid:4744027211910": 56,
+      "gas:candidate-vibid:4744027211840": 13,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 73,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 126,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 12,
-      "Егоров Игорь Викторович": 14,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 18,
-      "Федоров Николай Сергеевич": 18,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 126,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 12,
+      "gas:candidate-vibid:4744027211910": 14,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 18,
+      "gas:candidate-vibid:4744027211806": 18,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 90,
-      "Гараев Алексей Иванович": 9,
-      "Дроздов Николай Иванович": 5,
-      "Егоров Игорь Викторович": 15,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 41,
-      "Федоров Николай Сергеевич": 4,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 90,
+      "gas:candidate-vibid:4744027212082": 9,
+      "gas:candidate-vibid:4744027211922": 5,
+      "gas:candidate-vibid:4744027211910": 15,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 41,
+      "gas:candidate-vibid:4744027211806": 4,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 151,
-      "Гараев Алексей Иванович": 2,
-      "Дроздов Николай Иванович": 2,
-      "Егоров Игорь Викторович": 13,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 20,
-      "Федоров Николай Сергеевич": 9,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 151,
+      "gas:candidate-vibid:4744027212082": 2,
+      "gas:candidate-vibid:4744027211922": 2,
+      "gas:candidate-vibid:4744027211910": 13,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 20,
+      "gas:candidate-vibid:4744027211806": 9,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 41,
-      "Гараев Алексей Иванович": 4,
-      "Дроздов Николай Иванович": 3,
-      "Егоров Игорь Викторович": 11,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 10,
-      "Федоров Николай Сергеевич": 7,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 41,
+      "gas:candidate-vibid:4744027212082": 4,
+      "gas:candidate-vibid:4744027211922": 3,
+      "gas:candidate-vibid:4744027211910": 11,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 10,
+      "gas:candidate-vibid:4744027211806": 7,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 268,
-      "Гараев Алексей Иванович": 22,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 47,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 78,
-      "Федоров Николай Сергеевич": 51,
-      "Шичков Сергей Владимирович": 5
+      "gas:candidate-vibid:4744027211990": 268,
+      "gas:candidate-vibid:4744027212082": 22,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 47,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 78,
+      "gas:candidate-vibid:4744027211806": 51,
+      "gas:candidate-vibid:4744027212150": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 117,
-      "Гараев Алексей Иванович": 11,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 32,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 21,
-      "Федоров Николай Сергеевич": 21,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 117,
+      "gas:candidate-vibid:4744027212082": 11,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 32,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 21,
+      "gas:candidate-vibid:4744027211806": 21,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 307,
-      "Гараев Алексей Иванович": 14,
-      "Дроздов Николай Иванович": 25,
-      "Егоров Игорь Викторович": 70,
-      "Корда Ольга Анатольевна": 1,
-      "Мухометьярова Ольга Ивановна": 32,
-      "Федоров Николай Сергеевич": 31,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 307,
+      "gas:candidate-vibid:4744027212082": 14,
+      "gas:candidate-vibid:4744027211922": 25,
+      "gas:candidate-vibid:4744027211910": 70,
+      "gas:candidate-vibid:4744027211840": 1,
+      "gas:candidate-vibid:4744027209085": 32,
+      "gas:candidate-vibid:4744027211806": 31,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 115,
-      "Гараев Алексей Иванович": 13,
-      "Дроздов Николай Иванович": 8,
-      "Егоров Игорь Викторович": 23,
-      "Корда Ольга Анатольевна": 12,
-      "Мухометьярова Ольга Ивановна": 16,
-      "Федоров Николай Сергеевич": 31,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 115,
+      "gas:candidate-vibid:4744027212082": 13,
+      "gas:candidate-vibid:4744027211922": 8,
+      "gas:candidate-vibid:4744027211910": 23,
+      "gas:candidate-vibid:4744027211840": 12,
+      "gas:candidate-vibid:4744027209085": 16,
+      "gas:candidate-vibid:4744027211806": 31,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 398,
-      "Гараев Алексей Иванович": 52,
-      "Дроздов Николай Иванович": 28,
-      "Егоров Игорь Викторович": 65,
-      "Корда Ольга Анатольевна": 21,
-      "Мухометьярова Ольга Ивановна": 71,
-      "Федоров Николай Сергеевич": 84,
-      "Шичков Сергей Владимирович": 15
+      "gas:candidate-vibid:4744027211990": 398,
+      "gas:candidate-vibid:4744027212082": 52,
+      "gas:candidate-vibid:4744027211922": 28,
+      "gas:candidate-vibid:4744027211910": 65,
+      "gas:candidate-vibid:4744027211840": 21,
+      "gas:candidate-vibid:4744027209085": 71,
+      "gas:candidate-vibid:4744027211806": 84,
+      "gas:candidate-vibid:4744027212150": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143172&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143172&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 217,
-      "Гараев Алексей Иванович": 35,
-      "Дроздов Николай Иванович": 19,
-      "Егоров Игорь Викторович": 85,
-      "Корда Ольга Анатольевна": 7,
-      "Мухометьярова Ольга Ивановна": 120,
-      "Федоров Николай Сергеевич": 41,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 217,
+      "gas:candidate-vibid:4744027212082": 35,
+      "gas:candidate-vibid:4744027211922": 19,
+      "gas:candidate-vibid:4744027211910": 85,
+      "gas:candidate-vibid:4744027211840": 7,
+      "gas:candidate-vibid:4744027209085": 120,
+      "gas:candidate-vibid:4744027211806": 41,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 58,
-      "Гараев Алексей Иванович": 12,
-      "Дроздов Николай Иванович": 6,
-      "Егоров Игорь Викторович": 28,
-      "Корда Ольга Анатольевна": 3,
-      "Мухометьярова Ольга Ивановна": 28,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 2
+      "gas:candidate-vibid:4744027211990": 58,
+      "gas:candidate-vibid:4744027212082": 12,
+      "gas:candidate-vibid:4744027211922": 6,
+      "gas:candidate-vibid:4744027211910": 28,
+      "gas:candidate-vibid:4744027211840": 3,
+      "gas:candidate-vibid:4744027209085": 28,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 128,
-      "Гараев Алексей Иванович": 27,
-      "Дроздов Николай Иванович": 15,
-      "Егоров Игорь Викторович": 53,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 70,
-      "Федоров Николай Сергеевич": 36,
-      "Шичков Сергей Владимирович": 6
+      "gas:candidate-vibid:4744027211990": 128,
+      "gas:candidate-vibid:4744027212082": 27,
+      "gas:candidate-vibid:4744027211922": 15,
+      "gas:candidate-vibid:4744027211910": 53,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 70,
+      "gas:candidate-vibid:4744027211806": 36,
+      "gas:candidate-vibid:4744027212150": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 140,
-      "Гараев Алексей Иванович": 18,
-      "Дроздов Николай Иванович": 14,
-      "Егоров Игорь Викторович": 37,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 50,
-      "Федоров Николай Сергеевич": 41,
-      "Шичков Сергей Владимирович": 0
+      "gas:candidate-vibid:4744027211990": 140,
+      "gas:candidate-vibid:4744027212082": 18,
+      "gas:candidate-vibid:4744027211922": 14,
+      "gas:candidate-vibid:4744027211910": 37,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 50,
+      "gas:candidate-vibid:4744027211806": 41,
+      "gas:candidate-vibid:4744027212150": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 157,
-      "Гараев Алексей Иванович": 29,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 60,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 59,
-      "Федоров Николай Сергеевич": 52,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 157,
+      "gas:candidate-vibid:4744027212082": 29,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 60,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 59,
+      "gas:candidate-vibid:4744027211806": 52,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 137,
-      "Гараев Алексей Иванович": 24,
-      "Дроздов Николай Иванович": 20,
-      "Егоров Игорь Викторович": 36,
-      "Корда Ольга Анатольевна": 11,
-      "Мухометьярова Ольга Ивановна": 49,
-      "Федоров Николай Сергеевич": 40,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 137,
+      "gas:candidate-vibid:4744027212082": 24,
+      "gas:candidate-vibid:4744027211922": 20,
+      "gas:candidate-vibid:4744027211910": 36,
+      "gas:candidate-vibid:4744027211840": 11,
+      "gas:candidate-vibid:4744027209085": 49,
+      "gas:candidate-vibid:4744027211806": 40,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 186,
-      "Гараев Алексей Иванович": 17,
-      "Дроздов Николай Иванович": 28,
-      "Егоров Игорь Викторович": 67,
-      "Корда Ольга Анатольевна": 6,
-      "Мухометьярова Ольга Ивановна": 96,
-      "Федоров Николай Сергеевич": 31,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 186,
+      "gas:candidate-vibid:4744027212082": 17,
+      "gas:candidate-vibid:4744027211922": 28,
+      "gas:candidate-vibid:4744027211910": 67,
+      "gas:candidate-vibid:4744027211840": 6,
+      "gas:candidate-vibid:4744027209085": 96,
+      "gas:candidate-vibid:4744027211806": 31,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 157,
-      "Гараев Алексей Иванович": 21,
-      "Дроздов Николай Иванович": 26,
-      "Егоров Игорь Викторович": 61,
-      "Корда Ольга Анатольевна": 5,
-      "Мухометьярова Ольга Ивановна": 47,
-      "Федоров Николай Сергеевич": 47,
-      "Шичков Сергей Владимирович": 4
+      "gas:candidate-vibid:4744027211990": 157,
+      "gas:candidate-vibid:4744027212082": 21,
+      "gas:candidate-vibid:4744027211922": 26,
+      "gas:candidate-vibid:4744027211910": 61,
+      "gas:candidate-vibid:4744027211840": 5,
+      "gas:candidate-vibid:4744027209085": 47,
+      "gas:candidate-vibid:4744027211806": 47,
+      "gas:candidate-vibid:4744027212150": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 90,
-      "Гараев Алексей Иванович": 7,
-      "Дроздов Николай Иванович": 15,
-      "Егоров Игорь Викторович": 15,
-      "Корда Ольга Анатольевна": 2,
-      "Мухометьярова Ольга Ивановна": 25,
-      "Федоров Николай Сергеевич": 17,
-      "Шичков Сергей Владимирович": 1
+      "gas:candidate-vibid:4744027211990": 90,
+      "gas:candidate-vibid:4744027212082": 7,
+      "gas:candidate-vibid:4744027211922": 15,
+      "gas:candidate-vibid:4744027211910": 15,
+      "gas:candidate-vibid:4744027211840": 2,
+      "gas:candidate-vibid:4744027209085": 25,
+      "gas:candidate-vibid:4744027211806": 17,
+      "gas:candidate-vibid:4744027212150": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_74_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бахметьев Виталий Викторович": 125,
-      "Гараев Алексей Иванович": 12,
-      "Дроздов Николай Иванович": 33,
-      "Егоров Игорь Викторович": 29,
-      "Корда Ольга Анатольевна": 4,
-      "Мухометьярова Ольга Ивановна": 14,
-      "Федоров Николай Сергеевич": 13,
-      "Шичков Сергей Владимирович": 3
+      "gas:candidate-vibid:4744027211990": 125,
+      "gas:candidate-vibid:4744027212082": 12,
+      "gas:candidate-vibid:4744027211922": 33,
+      "gas:candidate-vibid:4744027211910": 29,
+      "gas:candidate-vibid:4744027211840": 4,
+      "gas:candidate-vibid:4744027209085": 14,
+      "gas:candidate-vibid:4744027211806": 13,
+      "gas:candidate-vibid:4744027212150": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000254&tvd=27420001143173&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143173&type=464",

@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 65,
-      "Борщев Валерий Васильевич": 294,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 535,
-      "Сидоров Ярослав Северович": 131,
-      "Хидиятуллин Вагиз Назирович": 89,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000136152": 65,
+      "gas:candidate-vibid:1001000112277": 294,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 535,
+      "gas:candidate-vibid:1001000121937": 131,
+      "gas:candidate-vibid:1001000195167": 89,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 49,
-      "Борщев Валерий Васильевич": 316,
-      "Малинин Виктор Андреевич": 49,
-      "Рязанский Валерий Владимирович": 507,
-      "Сидоров Ярослав Северович": 136,
-      "Хидиятуллин Вагиз Назирович": 74,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136152": 49,
+      "gas:candidate-vibid:1001000112277": 316,
+      "gas:candidate-vibid:1001000190451": 49,
+      "gas:candidate-vibid:1001000226010": 507,
+      "gas:candidate-vibid:1001000121937": 136,
+      "gas:candidate-vibid:1001000195167": 74,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 30,
-      "Борщев Валерий Васильевич": 181,
-      "Малинин Виктор Андреевич": 29,
-      "Рязанский Валерий Владимирович": 431,
-      "Сидоров Ярослав Северович": 100,
-      "Хидиятуллин Вагиз Назирович": 37,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136152": 30,
+      "gas:candidate-vibid:1001000112277": 181,
+      "gas:candidate-vibid:1001000190451": 29,
+      "gas:candidate-vibid:1001000226010": 431,
+      "gas:candidate-vibid:1001000121937": 100,
+      "gas:candidate-vibid:1001000195167": 37,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 40,
-      "Борщев Валерий Васильевич": 180,
-      "Малинин Виктор Андреевич": 26,
-      "Рязанский Валерий Владимирович": 454,
-      "Сидоров Ярослав Северович": 83,
-      "Хидиятуллин Вагиз Назирович": 38,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136152": 40,
+      "gas:candidate-vibid:1001000112277": 180,
+      "gas:candidate-vibid:1001000190451": 26,
+      "gas:candidate-vibid:1001000226010": 454,
+      "gas:candidate-vibid:1001000121937": 83,
+      "gas:candidate-vibid:1001000195167": 38,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 20,
-      "Борщев Валерий Васильевич": 144,
-      "Малинин Виктор Андреевич": 20,
-      "Рязанский Валерий Владимирович": 350,
-      "Сидоров Ярослав Северович": 65,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136152": 20,
+      "gas:candidate-vibid:1001000112277": 144,
+      "gas:candidate-vibid:1001000190451": 20,
+      "gas:candidate-vibid:1001000226010": 350,
+      "gas:candidate-vibid:1001000121937": 65,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 244,
-      "Малинин Виктор Андреевич": 23,
-      "Рязанский Валерий Владимирович": 470,
-      "Сидоров Ярослав Северович": 77,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 244,
+      "gas:candidate-vibid:1001000190451": 23,
+      "gas:candidate-vibid:1001000226010": 470,
+      "gas:candidate-vibid:1001000121937": 77,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 33,
-      "Борщев Валерий Васильевич": 218,
-      "Малинин Виктор Андреевич": 28,
-      "Рязанский Валерий Владимирович": 460,
-      "Сидоров Ярослав Северович": 85,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000136152": 33,
+      "gas:candidate-vibid:1001000112277": 218,
+      "gas:candidate-vibid:1001000190451": 28,
+      "gas:candidate-vibid:1001000226010": 460,
+      "gas:candidate-vibid:1001000121937": 85,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 198,
-      "Малинин Виктор Андреевич": 29,
-      "Рязанский Валерий Владимирович": 541,
-      "Сидоров Ярослав Северович": 83,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 198,
+      "gas:candidate-vibid:1001000190451": 29,
+      "gas:candidate-vibid:1001000226010": 541,
+      "gas:candidate-vibid:1001000121937": 83,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 24,
-      "Борщев Валерий Васильевич": 193,
-      "Малинин Виктор Андреевич": 26,
-      "Рязанский Валерий Владимирович": 322,
-      "Сидоров Ярослав Северович": 64,
-      "Хидиятуллин Вагиз Назирович": 37,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136152": 24,
+      "gas:candidate-vibid:1001000112277": 193,
+      "gas:candidate-vibid:1001000190451": 26,
+      "gas:candidate-vibid:1001000226010": 322,
+      "gas:candidate-vibid:1001000121937": 64,
+      "gas:candidate-vibid:1001000195167": 37,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 27,
-      "Борщев Валерий Васильевич": 164,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 529,
-      "Сидоров Ярослав Северович": 76,
-      "Хидиятуллин Вагиз Назирович": 29,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000136152": 27,
+      "gas:candidate-vibid:1001000112277": 164,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 529,
+      "gas:candidate-vibid:1001000121937": 76,
+      "gas:candidate-vibid:1001000195167": 29,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 25,
-      "Борщев Валерий Васильевич": 140,
-      "Малинин Виктор Андреевич": 27,
-      "Рязанский Валерий Владимирович": 368,
-      "Сидоров Ярослав Северович": 53,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136152": 25,
+      "gas:candidate-vibid:1001000112277": 140,
+      "gas:candidate-vibid:1001000190451": 27,
+      "gas:candidate-vibid:1001000226010": 368,
+      "gas:candidate-vibid:1001000121937": 53,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 240,
-      "Малинин Виктор Андреевич": 28,
-      "Рязанский Валерий Владимирович": 614,
-      "Сидоров Ярослав Северович": 93,
-      "Хидиятуллин Вагиз Назирович": 85,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 240,
+      "gas:candidate-vibid:1001000190451": 28,
+      "gas:candidate-vibid:1001000226010": 614,
+      "gas:candidate-vibid:1001000121937": 93,
+      "gas:candidate-vibid:1001000195167": 85,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 45,
-      "Борщев Валерий Васильевич": 215,
-      "Малинин Виктор Андреевич": 30,
-      "Рязанский Валерий Владимирович": 401,
-      "Сидоров Ярослав Северович": 56,
-      "Хидиятуллин Вагиз Назирович": 52,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136152": 45,
+      "gas:candidate-vibid:1001000112277": 215,
+      "gas:candidate-vibid:1001000190451": 30,
+      "gas:candidate-vibid:1001000226010": 401,
+      "gas:candidate-vibid:1001000121937": 56,
+      "gas:candidate-vibid:1001000195167": 52,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 31,
-      "Борщев Валерий Васильевич": 215,
-      "Малинин Виктор Андреевич": 21,
-      "Рязанский Валерий Владимирович": 518,
-      "Сидоров Ярослав Северович": 77,
-      "Хидиятуллин Вагиз Назирович": 31,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136152": 31,
+      "gas:candidate-vibid:1001000112277": 215,
+      "gas:candidate-vibid:1001000190451": 21,
+      "gas:candidate-vibid:1001000226010": 518,
+      "gas:candidate-vibid:1001000121937": 77,
+      "gas:candidate-vibid:1001000195167": 31,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 41,
-      "Борщев Валерий Васильевич": 277,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 650,
-      "Сидоров Ярослав Северович": 133,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136152": 41,
+      "gas:candidate-vibid:1001000112277": 277,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 650,
+      "gas:candidate-vibid:1001000121937": 133,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 45,
-      "Борщев Валерий Васильевич": 225,
-      "Малинин Виктор Андреевич": 43,
-      "Рязанский Валерий Владимирович": 602,
-      "Сидоров Ярослав Северович": 81,
-      "Хидиятуллин Вагиз Назирович": 40,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136152": 45,
+      "gas:candidate-vibid:1001000112277": 225,
+      "gas:candidate-vibid:1001000190451": 43,
+      "gas:candidate-vibid:1001000226010": 602,
+      "gas:candidate-vibid:1001000121937": 81,
+      "gas:candidate-vibid:1001000195167": 40,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 42,
-      "Борщев Валерий Васильевич": 313,
-      "Малинин Виктор Андреевич": 49,
-      "Рязанский Валерий Владимирович": 657,
-      "Сидоров Ярослав Северович": 127,
-      "Хидиятуллин Вагиз Назирович": 40,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000136152": 42,
+      "gas:candidate-vibid:1001000112277": 313,
+      "gas:candidate-vibid:1001000190451": 49,
+      "gas:candidate-vibid:1001000226010": 657,
+      "gas:candidate-vibid:1001000121937": 127,
+      "gas:candidate-vibid:1001000195167": 40,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 28,
-      "Борщев Валерий Васильевич": 249,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 600,
-      "Сидоров Ярослав Северович": 132,
-      "Хидиятуллин Вагиз Назирович": 65,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000136152": 28,
+      "gas:candidate-vibid:1001000112277": 249,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 600,
+      "gas:candidate-vibid:1001000121937": 132,
+      "gas:candidate-vibid:1001000195167": 65,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 53,
-      "Борщев Валерий Васильевич": 271,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 563,
-      "Сидоров Ярослав Северович": 157,
-      "Хидиятуллин Вагиз Назирович": 64,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000136152": 53,
+      "gas:candidate-vibid:1001000112277": 271,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 563,
+      "gas:candidate-vibid:1001000121937": 157,
+      "gas:candidate-vibid:1001000195167": 64,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 48,
-      "Борщев Валерий Васильевич": 265,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 576,
-      "Сидоров Ярослав Северович": 92,
-      "Хидиятуллин Вагиз Назирович": 69,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136152": 48,
+      "gas:candidate-vibid:1001000112277": 265,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 576,
+      "gas:candidate-vibid:1001000121937": 92,
+      "gas:candidate-vibid:1001000195167": 69,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 46,
-      "Борщев Валерий Васильевич": 253,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 474,
-      "Сидоров Ярослав Северович": 81,
-      "Хидиятуллин Вагиз Назирович": 60,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000136152": 46,
+      "gas:candidate-vibid:1001000112277": 253,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 474,
+      "gas:candidate-vibid:1001000121937": 81,
+      "gas:candidate-vibid:1001000195167": 60,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 30,
-      "Борщев Валерий Васильевич": 151,
-      "Малинин Виктор Андреевич": 39,
-      "Рязанский Валерий Владимирович": 535,
-      "Сидоров Ярослав Северович": 79,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136152": 30,
+      "gas:candidate-vibid:1001000112277": 151,
+      "gas:candidate-vibid:1001000190451": 39,
+      "gas:candidate-vibid:1001000226010": 535,
+      "gas:candidate-vibid:1001000121937": 79,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 29,
-      "Борщев Валерий Васильевич": 218,
-      "Малинин Виктор Андреевич": 26,
-      "Рязанский Валерий Владимирович": 522,
-      "Сидоров Ярослав Северович": 89,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000136152": 29,
+      "gas:candidate-vibid:1001000112277": 218,
+      "gas:candidate-vibid:1001000190451": 26,
+      "gas:candidate-vibid:1001000226010": 522,
+      "gas:candidate-vibid:1001000121937": 89,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 32,
-      "Борщев Валерий Васильевич": 281,
-      "Малинин Виктор Андреевич": 35,
-      "Рязанский Валерий Владимирович": 497,
-      "Сидоров Ярослав Северович": 101,
-      "Хидиятуллин Вагиз Назирович": 44,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136152": 32,
+      "gas:candidate-vibid:1001000112277": 281,
+      "gas:candidate-vibid:1001000190451": 35,
+      "gas:candidate-vibid:1001000226010": 497,
+      "gas:candidate-vibid:1001000121937": 101,
+      "gas:candidate-vibid:1001000195167": 44,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 254,
-      "Малинин Виктор Андреевич": 39,
-      "Рязанский Валерий Владимирович": 588,
-      "Сидоров Ярослав Северович": 116,
-      "Хидиятуллин Вагиз Назирович": 41,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 254,
+      "gas:candidate-vibid:1001000190451": 39,
+      "gas:candidate-vibid:1001000226010": 588,
+      "gas:candidate-vibid:1001000121937": 116,
+      "gas:candidate-vibid:1001000195167": 41,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 188,
-      "Малинин Виктор Андреевич": 26,
-      "Рязанский Валерий Владимирович": 400,
-      "Сидоров Ярослав Северович": 93,
-      "Хидиятуллин Вагиз Назирович": 42,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 188,
+      "gas:candidate-vibid:1001000190451": 26,
+      "gas:candidate-vibid:1001000226010": 400,
+      "gas:candidate-vibid:1001000121937": 93,
+      "gas:candidate-vibid:1001000195167": 42,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 41,
-      "Борщев Валерий Васильевич": 294,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 617,
-      "Сидоров Ярослав Северович": 124,
-      "Хидиятуллин Вагиз Назирович": 40,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000136152": 41,
+      "gas:candidate-vibid:1001000112277": 294,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 617,
+      "gas:candidate-vibid:1001000121937": 124,
+      "gas:candidate-vibid:1001000195167": 40,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 272,
-      "Малинин Виктор Андреевич": 28,
-      "Рязанский Валерий Владимирович": 615,
-      "Сидоров Ярослав Северович": 114,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 272,
+      "gas:candidate-vibid:1001000190451": 28,
+      "gas:candidate-vibid:1001000226010": 615,
+      "gas:candidate-vibid:1001000121937": 114,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 37,
-      "Борщев Валерий Васильевич": 166,
-      "Малинин Виктор Андреевич": 25,
-      "Рязанский Валерий Владимирович": 494,
-      "Сидоров Ярослав Северович": 91,
-      "Хидиятуллин Вагиз Назирович": 36,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000136152": 37,
+      "gas:candidate-vibid:1001000112277": 166,
+      "gas:candidate-vibid:1001000190451": 25,
+      "gas:candidate-vibid:1001000226010": 494,
+      "gas:candidate-vibid:1001000121937": 91,
+      "gas:candidate-vibid:1001000195167": 36,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 58,
-      "Борщев Валерий Васильевич": 233,
-      "Малинин Виктор Андреевич": 74,
-      "Рязанский Валерий Владимирович": 717,
-      "Сидоров Ярослав Северович": 128,
-      "Хидиятуллин Вагиз Назирович": 68,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000136152": 58,
+      "gas:candidate-vibid:1001000112277": 233,
+      "gas:candidate-vibid:1001000190451": 74,
+      "gas:candidate-vibid:1001000226010": 717,
+      "gas:candidate-vibid:1001000121937": 128,
+      "gas:candidate-vibid:1001000195167": 68,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 44,
-      "Борщев Валерий Васильевич": 288,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 643,
-      "Сидоров Ярослав Северович": 113,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000136152": 44,
+      "gas:candidate-vibid:1001000112277": 288,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 643,
+      "gas:candidate-vibid:1001000121937": 113,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 0,
-      "Борщев Валерий Васильевич": 1,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 2,
-      "Сидоров Ярослав Северович": 0,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136152": 0,
+      "gas:candidate-vibid:1001000112277": 1,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 2,
+      "gas:candidate-vibid:1001000121937": 0,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 4,
-      "Борщев Валерий Васильевич": 21,
-      "Малинин Виктор Андреевич": 9,
-      "Рязанский Валерий Владимирович": 49,
-      "Сидоров Ярослав Северович": 10,
-      "Хидиятуллин Вагиз Назирович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136152": 4,
+      "gas:candidate-vibid:1001000112277": 21,
+      "gas:candidate-vibid:1001000190451": 9,
+      "gas:candidate-vibid:1001000226010": 49,
+      "gas:candidate-vibid:1001000121937": 10,
+      "gas:candidate-vibid:1001000195167": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 2,
-      "Малинин Виктор Андреевич": 2,
-      "Рязанский Валерий Владимирович": 9,
-      "Сидоров Ярослав Северович": 4,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 2,
+      "gas:candidate-vibid:1001000190451": 2,
+      "gas:candidate-vibid:1001000226010": 9,
+      "gas:candidate-vibid:1001000121937": 4,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 5,
-      "Борщев Валерий Васильевич": 1,
-      "Малинин Виктор Андреевич": 1,
-      "Рязанский Валерий Владимирович": 24,
-      "Сидоров Ярослав Северович": 2,
-      "Хидиятуллин Вагиз Назирович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136152": 5,
+      "gas:candidate-vibid:1001000112277": 1,
+      "gas:candidate-vibid:1001000190451": 1,
+      "gas:candidate-vibid:1001000226010": 24,
+      "gas:candidate-vibid:1001000121937": 2,
+      "gas:candidate-vibid:1001000195167": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 47,
-      "Борщев Валерий Васильевич": 225,
-      "Малинин Виктор Андреевич": 60,
-      "Рязанский Валерий Владимирович": 467,
-      "Сидоров Ярослав Северович": 126,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000136152": 47,
+      "gas:candidate-vibid:1001000112277": 225,
+      "gas:candidate-vibid:1001000190451": 60,
+      "gas:candidate-vibid:1001000226010": 467,
+      "gas:candidate-vibid:1001000121937": 126,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 26,
-      "Борщев Валерий Васильевич": 259,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 312,
-      "Сидоров Ярослав Северович": 106,
-      "Хидиятуллин Вагиз Назирович": 30,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136152": 26,
+      "gas:candidate-vibid:1001000112277": 259,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 312,
+      "gas:candidate-vibid:1001000121937": 106,
+      "gas:candidate-vibid:1001000195167": 30,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 58,
-      "Борщев Валерий Васильевич": 375,
-      "Малинин Виктор Андреевич": 40,
-      "Рязанский Валерий Владимирович": 462,
-      "Сидоров Ярослав Северович": 136,
-      "Хидиятуллин Вагиз Назирович": 49,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000136152": 58,
+      "gas:candidate-vibid:1001000112277": 375,
+      "gas:candidate-vibid:1001000190451": 40,
+      "gas:candidate-vibid:1001000226010": 462,
+      "gas:candidate-vibid:1001000121937": 136,
+      "gas:candidate-vibid:1001000195167": 49,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 59,
-      "Борщев Валерий Васильевич": 322,
-      "Малинин Виктор Андреевич": 40,
-      "Рязанский Валерий Владимирович": 491,
-      "Сидоров Ярослав Северович": 103,
-      "Хидиятуллин Вагиз Назирович": 54,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000136152": 59,
+      "gas:candidate-vibid:1001000112277": 322,
+      "gas:candidate-vibid:1001000190451": 40,
+      "gas:candidate-vibid:1001000226010": 491,
+      "gas:candidate-vibid:1001000121937": 103,
+      "gas:candidate-vibid:1001000195167": 54,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 46,
-      "Борщев Валерий Васильевич": 261,
-      "Малинин Виктор Андреевич": 83,
-      "Рязанский Валерий Владимирович": 481,
-      "Сидоров Ярослав Северович": 123,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000136152": 46,
+      "gas:candidate-vibid:1001000112277": 261,
+      "gas:candidate-vibid:1001000190451": 83,
+      "gas:candidate-vibid:1001000226010": 481,
+      "gas:candidate-vibid:1001000121937": 123,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 46,
-      "Борщев Валерий Васильевич": 336,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 309,
-      "Сидоров Ярослав Северович": 110,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000136152": 46,
+      "gas:candidate-vibid:1001000112277": 336,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 309,
+      "gas:candidate-vibid:1001000121937": 110,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 67,
-      "Борщев Валерий Васильевич": 555,
-      "Малинин Виктор Андреевич": 60,
-      "Рязанский Валерий Владимирович": 476,
-      "Сидоров Ярослав Северович": 145,
-      "Хидиятуллин Вагиз Назирович": 53,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000136152": 67,
+      "gas:candidate-vibid:1001000112277": 555,
+      "gas:candidate-vibid:1001000190451": 60,
+      "gas:candidate-vibid:1001000226010": 476,
+      "gas:candidate-vibid:1001000121937": 145,
+      "gas:candidate-vibid:1001000195167": 53,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 55,
-      "Борщев Валерий Васильевич": 427,
-      "Малинин Виктор Андреевич": 34,
-      "Рязанский Валерий Владимирович": 441,
-      "Сидоров Ярослав Северович": 153,
-      "Хидиятуллин Вагиз Назирович": 39,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000136152": 55,
+      "gas:candidate-vibid:1001000112277": 427,
+      "gas:candidate-vibid:1001000190451": 34,
+      "gas:candidate-vibid:1001000226010": 441,
+      "gas:candidate-vibid:1001000121937": 153,
+      "gas:candidate-vibid:1001000195167": 39,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 52,
-      "Борщев Валерий Васильевич": 472,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 482,
-      "Сидоров Ярослав Северович": 151,
-      "Хидиятуллин Вагиз Назирович": 33,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000136152": 52,
+      "gas:candidate-vibid:1001000112277": 472,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 482,
+      "gas:candidate-vibid:1001000121937": 151,
+      "gas:candidate-vibid:1001000195167": 33,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 47,
-      "Борщев Валерий Васильевич": 264,
-      "Малинин Виктор Андреевич": 43,
-      "Рязанский Валерий Владимирович": 266,
-      "Сидоров Ярослав Северович": 105,
-      "Хидиятуллин Вагиз Назирович": 43,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136152": 47,
+      "gas:candidate-vibid:1001000112277": 264,
+      "gas:candidate-vibid:1001000190451": 43,
+      "gas:candidate-vibid:1001000226010": 266,
+      "gas:candidate-vibid:1001000121937": 105,
+      "gas:candidate-vibid:1001000195167": 43,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 54,
-      "Борщев Валерий Васильевич": 351,
-      "Малинин Виктор Андреевич": 56,
-      "Рязанский Валерий Владимирович": 383,
-      "Сидоров Ярослав Северович": 114,
-      "Хидиятуллин Вагиз Назирович": 44,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000136152": 54,
+      "gas:candidate-vibid:1001000112277": 351,
+      "gas:candidate-vibid:1001000190451": 56,
+      "gas:candidate-vibid:1001000226010": 383,
+      "gas:candidate-vibid:1001000121937": 114,
+      "gas:candidate-vibid:1001000195167": 44,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 45,
-      "Борщев Валерий Васильевич": 275,
-      "Малинин Виктор Андреевич": 22,
-      "Рязанский Валерий Владимирович": 309,
-      "Сидоров Ярослав Северович": 88,
-      "Хидиятуллин Вагиз Назирович": 23,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136152": 45,
+      "gas:candidate-vibid:1001000112277": 275,
+      "gas:candidate-vibid:1001000190451": 22,
+      "gas:candidate-vibid:1001000226010": 309,
+      "gas:candidate-vibid:1001000121937": 88,
+      "gas:candidate-vibid:1001000195167": 23,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 64,
-      "Борщев Валерий Васильевич": 359,
-      "Малинин Виктор Андреевич": 61,
-      "Рязанский Валерий Владимирович": 481,
-      "Сидоров Ярослав Северович": 129,
-      "Хидиятуллин Вагиз Назирович": 60,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000136152": 64,
+      "gas:candidate-vibid:1001000112277": 359,
+      "gas:candidate-vibid:1001000190451": 61,
+      "gas:candidate-vibid:1001000226010": 481,
+      "gas:candidate-vibid:1001000121937": 129,
+      "gas:candidate-vibid:1001000195167": 60,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 59,
-      "Борщев Валерий Васильевич": 248,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 584,
-      "Сидоров Ярослав Северович": 103,
-      "Хидиятуллин Вагиз Назирович": 61,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000136152": 59,
+      "gas:candidate-vibid:1001000112277": 248,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 584,
+      "gas:candidate-vibid:1001000121937": 103,
+      "gas:candidate-vibid:1001000195167": 61,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 56,
-      "Борщев Валерий Васильевич": 257,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 388,
-      "Сидоров Ярослав Северович": 119,
-      "Хидиятуллин Вагиз Назирович": 49,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000136152": 56,
+      "gas:candidate-vibid:1001000112277": 257,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 388,
+      "gas:candidate-vibid:1001000121937": 119,
+      "gas:candidate-vibid:1001000195167": 49,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 50,
-      "Борщев Валерий Васильевич": 368,
-      "Малинин Виктор Андреевич": 41,
-      "Рязанский Валерий Владимирович": 533,
-      "Сидоров Ярослав Северович": 124,
-      "Хидиятуллин Вагиз Назирович": 58,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000136152": 50,
+      "gas:candidate-vibid:1001000112277": 368,
+      "gas:candidate-vibid:1001000190451": 41,
+      "gas:candidate-vibid:1001000226010": 533,
+      "gas:candidate-vibid:1001000121937": 124,
+      "gas:candidate-vibid:1001000195167": 58,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 236,
-      "Малинин Виктор Андреевич": 35,
-      "Рязанский Валерий Владимирович": 445,
-      "Сидоров Ярослав Северович": 91,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 236,
+      "gas:candidate-vibid:1001000190451": 35,
+      "gas:candidate-vibid:1001000226010": 445,
+      "gas:candidate-vibid:1001000121937": 91,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 44,
-      "Борщев Валерий Васильевич": 236,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 392,
-      "Сидоров Ярослав Северович": 123,
-      "Хидиятуллин Вагиз Назирович": 47,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000136152": 44,
+      "gas:candidate-vibid:1001000112277": 236,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 392,
+      "gas:candidate-vibid:1001000121937": 123,
+      "gas:candidate-vibid:1001000195167": 47,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 67,
-      "Борщев Валерий Васильевич": 200,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 449,
-      "Сидоров Ярослав Северович": 137,
-      "Хидиятуллин Вагиз Назирович": 47,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000136152": 67,
+      "gas:candidate-vibid:1001000112277": 200,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 449,
+      "gas:candidate-vibid:1001000121937": 137,
+      "gas:candidate-vibid:1001000195167": 47,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 37,
-      "Борщев Валерий Васильевич": 252,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 489,
-      "Сидоров Ярослав Северович": 78,
-      "Хидиятуллин Вагиз Назирович": 42,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000136152": 37,
+      "gas:candidate-vibid:1001000112277": 252,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 489,
+      "gas:candidate-vibid:1001000121937": 78,
+      "gas:candidate-vibid:1001000195167": 42,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 37,
-      "Борщев Валерий Васильевич": 221,
-      "Малинин Виктор Андреевич": 45,
-      "Рязанский Валерий Владимирович": 436,
-      "Сидоров Ярослав Северович": 97,
-      "Хидиятуллин Вагиз Назирович": 55,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000136152": 37,
+      "gas:candidate-vibid:1001000112277": 221,
+      "gas:candidate-vibid:1001000190451": 45,
+      "gas:candidate-vibid:1001000226010": 436,
+      "gas:candidate-vibid:1001000121937": 97,
+      "gas:candidate-vibid:1001000195167": 55,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 70,
-      "Борщев Валерий Васильевич": 322,
-      "Малинин Виктор Андреевич": 48,
-      "Рязанский Валерий Владимирович": 487,
-      "Сидоров Ярослав Северович": 109,
-      "Хидиятуллин Вагиз Назирович": 42,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136152": 70,
+      "gas:candidate-vibid:1001000112277": 322,
+      "gas:candidate-vibid:1001000190451": 48,
+      "gas:candidate-vibid:1001000226010": 487,
+      "gas:candidate-vibid:1001000121937": 109,
+      "gas:candidate-vibid:1001000195167": 42,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 50,
-      "Борщев Валерий Васильевич": 264,
-      "Малинин Виктор Андреевич": 45,
-      "Рязанский Валерий Владимирович": 653,
-      "Сидоров Ярослав Северович": 98,
-      "Хидиятуллин Вагиз Назирович": 59,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000136152": 50,
+      "gas:candidate-vibid:1001000112277": 264,
+      "gas:candidate-vibid:1001000190451": 45,
+      "gas:candidate-vibid:1001000226010": 653,
+      "gas:candidate-vibid:1001000121937": 98,
+      "gas:candidate-vibid:1001000195167": 59,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 11,
-      "Борщев Валерий Васильевич": 43,
-      "Малинин Виктор Андреевич": 13,
-      "Рязанский Валерий Владимирович": 74,
-      "Сидоров Ярослав Северович": 17,
-      "Хидиятуллин Вагиз Назирович": 6,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136152": 11,
+      "gas:candidate-vibid:1001000112277": 43,
+      "gas:candidate-vibid:1001000190451": 13,
+      "gas:candidate-vibid:1001000226010": 74,
+      "gas:candidate-vibid:1001000121937": 17,
+      "gas:candidate-vibid:1001000195167": 6,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 5,
-      "Борщев Валерий Васильевич": 12,
-      "Малинин Виктор Андреевич": 4,
-      "Рязанский Валерий Владимирович": 38,
-      "Сидоров Ярослав Северович": 9,
-      "Хидиятуллин Вагиз Назирович": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136152": 5,
+      "gas:candidate-vibid:1001000112277": 12,
+      "gas:candidate-vibid:1001000190451": 4,
+      "gas:candidate-vibid:1001000226010": 38,
+      "gas:candidate-vibid:1001000121937": 9,
+      "gas:candidate-vibid:1001000195167": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 6,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 6,
-      "Сидоров Ярослав Северович": 1,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 6,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 6,
+      "gas:candidate-vibid:1001000121937": 1,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 0,
-      "Борщев Валерий Васильевич": 3,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 2,
-      "Сидоров Ярослав Северович": 2,
-      "Хидиятуллин Вагиз Назирович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136152": 0,
+      "gas:candidate-vibid:1001000112277": 3,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 2,
+      "gas:candidate-vibid:1001000121937": 2,
+      "gas:candidate-vibid:1001000195167": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 1,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 6,
-      "Сидоров Ярослав Северович": 0,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 1,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 6,
+      "gas:candidate-vibid:1001000121937": 0,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870588&region=0&sub_region=0&type=429",
@@ -3570,14 +3570,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1041,
-      "Миненко Георгий Николаевич": 29,
-      "Монахов Валерий Федорович": 134,
-      "Морозов Антон Юрьевич": 44,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 21,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226011": 1041,
+      "gas:candidate-vibid:1001000121289": 29,
+      "gas:candidate-vibid:1001000121938": 134,
+      "gas:candidate-vibid:1001000136153": 44,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 21,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3627,14 +3627,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 925,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 109,
-      "Морозов Антон Юрьевич": 57,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000226011": 925,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 109,
+      "gas:candidate-vibid:1001000136153": 57,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3684,14 +3684,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1042,
-      "Миненко Георгий Николаевич": 49,
-      "Монахов Валерий Федорович": 89,
-      "Морозов Антон Юрьевич": 68,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000226011": 1042,
+      "gas:candidate-vibid:1001000121289": 49,
+      "gas:candidate-vibid:1001000121938": 89,
+      "gas:candidate-vibid:1001000136153": 68,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3741,14 +3741,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 943,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 145,
-      "Морозов Антон Юрьевич": 47,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 35,
-      "Шпигель Леонид Теодорович": 25,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000226011": 943,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 145,
+      "gas:candidate-vibid:1001000136153": 47,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 35,
+      "gas:candidate-vibid:377300970435": 25,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3798,14 +3798,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 780,
-      "Миненко Георгий Николаевич": 30,
-      "Монахов Валерий Федорович": 67,
-      "Морозов Антон Юрьевич": 44,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000226011": 780,
+      "gas:candidate-vibid:1001000121289": 30,
+      "gas:candidate-vibid:1001000121938": 67,
+      "gas:candidate-vibid:1001000136153": 44,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3855,14 +3855,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 823,
-      "Миненко Георгий Николаевич": 20,
-      "Монахов Валерий Федорович": 84,
-      "Морозов Антон Юрьевич": 44,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 4,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000226011": 823,
+      "gas:candidate-vibid:1001000121289": 20,
+      "gas:candidate-vibid:1001000121938": 84,
+      "gas:candidate-vibid:1001000136153": 44,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 4,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3912,14 +3912,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 822,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 77,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000226011": 822,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 77,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -3969,14 +3969,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 935,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 121,
-      "Морозов Антон Юрьевич": 62,
-      "Палащенко Максим Вячеславович": 21,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000226011": 935,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 121,
+      "gas:candidate-vibid:1001000136153": 62,
+      "gas:candidate-vibid:1001000195168": 21,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4026,14 +4026,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1037,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 101,
-      "Морозов Антон Юрьевич": 37,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000226011": 1037,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 101,
+      "gas:candidate-vibid:1001000136153": 37,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4083,14 +4083,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1042,
-      "Миненко Георгий Николаевич": 39,
-      "Монахов Валерий Федорович": 119,
-      "Морозов Антон Юрьевич": 59,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 6,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000226011": 1042,
+      "gas:candidate-vibid:1001000121289": 39,
+      "gas:candidate-vibid:1001000121938": 119,
+      "gas:candidate-vibid:1001000136153": 59,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 6,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4140,14 +4140,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 966,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 99,
-      "Морозов Антон Юрьевич": 57,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 21,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000226011": 966,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 99,
+      "gas:candidate-vibid:1001000136153": 57,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 21,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4197,14 +4197,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1025,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 96,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000226011": 1025,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 96,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4254,14 +4254,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 916,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 106,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 23,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226011": 916,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 106,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 23,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4311,14 +4311,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 768,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 72,
-      "Морозов Антон Юрьевич": 46,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000226011": 768,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 72,
+      "gas:candidate-vibid:1001000136153": 46,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4368,14 +4368,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 761,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 106,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 1,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000226011": 761,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 106,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 1,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4425,14 +4425,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 989,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 136,
-      "Морозов Антон Юрьевич": 34,
-      "Палащенко Максим Вячеславович": 20,
-      "Хрусталев Герман Александрович": 27,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226011": 989,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 136,
+      "gas:candidate-vibid:1001000136153": 34,
+      "gas:candidate-vibid:1001000195168": 20,
+      "gas:candidate-vibid:377300970499": 27,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4482,14 +4482,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1041,
-      "Миненко Георгий Николаевич": 49,
-      "Монахов Валерий Федорович": 96,
-      "Морозов Антон Юрьевич": 65,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 24,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000226011": 1041,
+      "gas:candidate-vibid:1001000121289": 49,
+      "gas:candidate-vibid:1001000121938": 96,
+      "gas:candidate-vibid:1001000136153": 65,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 24,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4539,14 +4539,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 638,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 117,
-      "Морозов Антон Юрьевич": 34,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 7,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000226011": 638,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 117,
+      "gas:candidate-vibid:1001000136153": 34,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 7,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4596,14 +4596,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 576,
-      "Миненко Георгий Николаевич": 37,
-      "Монахов Валерий Федорович": 73,
-      "Морозов Антон Юрьевич": 71,
-      "Палащенко Максим Вячеславович": 30,
-      "Хрусталев Герман Александрович": 25,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000226011": 576,
+      "gas:candidate-vibid:1001000121289": 37,
+      "gas:candidate-vibid:1001000121938": 73,
+      "gas:candidate-vibid:1001000136153": 71,
+      "gas:candidate-vibid:1001000195168": 30,
+      "gas:candidate-vibid:377300970499": 25,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4653,14 +4653,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 830,
-      "Миненко Георгий Николаевич": 42,
-      "Монахов Валерий Федорович": 92,
-      "Морозов Антон Юрьевич": 48,
-      "Палащенко Максим Вячеславович": 33,
-      "Хрусталев Герман Александрович": 31,
-      "Шпигель Леонид Теодорович": 25,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000226011": 830,
+      "gas:candidate-vibid:1001000121289": 42,
+      "gas:candidate-vibid:1001000121938": 92,
+      "gas:candidate-vibid:1001000136153": 48,
+      "gas:candidate-vibid:1001000195168": 33,
+      "gas:candidate-vibid:377300970499": 31,
+      "gas:candidate-vibid:377300970435": 25,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4710,14 +4710,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 680,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 79,
-      "Морозов Антон Юрьевич": 48,
-      "Палащенко Максим Вячеславович": 22,
-      "Хрусталев Герман Александрович": 41,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000226011": 680,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 79,
+      "gas:candidate-vibid:1001000136153": 48,
+      "gas:candidate-vibid:1001000195168": 22,
+      "gas:candidate-vibid:377300970499": 41,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4767,14 +4767,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 437,
-      "Миненко Георгий Николаевич": 40,
-      "Монахов Валерий Федорович": 63,
-      "Морозов Антон Юрьевич": 57,
-      "Палащенко Максим Вячеславович": 24,
-      "Хрусталев Герман Александрович": 32,
-      "Шпигель Леонид Теодорович": 20,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000226011": 437,
+      "gas:candidate-vibid:1001000121289": 40,
+      "gas:candidate-vibid:1001000121938": 63,
+      "gas:candidate-vibid:1001000136153": 57,
+      "gas:candidate-vibid:1001000195168": 24,
+      "gas:candidate-vibid:377300970499": 32,
+      "gas:candidate-vibid:377300970435": 20,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4824,14 +4824,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 833,
-      "Миненко Георгий Николаевич": 35,
-      "Монахов Валерий Федорович": 93,
-      "Морозов Антон Юрьевич": 50,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 23,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000226011": 833,
+      "gas:candidate-vibid:1001000121289": 35,
+      "gas:candidate-vibid:1001000121938": 93,
+      "gas:candidate-vibid:1001000136153": 50,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 23,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4881,14 +4881,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 747,
-      "Миненко Георгий Николаевич": 15,
-      "Монахов Валерий Федорович": 62,
-      "Морозов Антон Юрьевич": 32,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000226011": 747,
+      "gas:candidate-vibid:1001000121289": 15,
+      "gas:candidate-vibid:1001000121938": 62,
+      "gas:candidate-vibid:1001000136153": 32,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4938,14 +4938,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 818,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 83,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000226011": 818,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 83,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -4995,14 +4995,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 704,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 104,
-      "Морозов Антон Юрьевич": 32,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 6,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000226011": 704,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 104,
+      "gas:candidate-vibid:1001000136153": 32,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 6,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -5052,14 +5052,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 121,
-      "Миненко Георгий Николаевич": 3,
-      "Монахов Валерий Федорович": 7,
-      "Морозов Антон Юрьевич": 7,
-      "Палащенко Максим Вячеславович": 2,
-      "Хрусталев Герман Александрович": 3,
-      "Шпигель Леонид Теодорович": 1,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000226011": 121,
+      "gas:candidate-vibid:1001000121289": 3,
+      "gas:candidate-vibid:1001000121938": 7,
+      "gas:candidate-vibid:1001000136153": 7,
+      "gas:candidate-vibid:1001000195168": 2,
+      "gas:candidate-vibid:377300970499": 3,
+      "gas:candidate-vibid:377300970435": 1,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970399&region=0&sub_region=0&type=429",
@@ -5109,14 +5109,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 792,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 91,
-      "Морозов Антон Юрьевич": 54,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 4,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000226011": 792,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 91,
+      "gas:candidate-vibid:1001000136153": 54,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 4,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5166,14 +5166,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 860,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 74,
-      "Морозов Антон Юрьевич": 56,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000226011": 860,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 74,
+      "gas:candidate-vibid:1001000136153": 56,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5223,14 +5223,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 824,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 54,
-      "Морозов Антон Юрьевич": 61,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000226011": 824,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 54,
+      "gas:candidate-vibid:1001000136153": 61,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5280,14 +5280,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 833,
-      "Миненко Георгий Николаевич": 28,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 3,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000226011": 833,
+      "gas:candidate-vibid:1001000121289": 28,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 3,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5337,14 +5337,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 946,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 98,
-      "Морозов Антон Юрьевич": 28,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000226011": 946,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 98,
+      "gas:candidate-vibid:1001000136153": 28,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5394,14 +5394,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 840,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 94,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000226011": 840,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 94,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5451,14 +5451,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 650,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 82,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000226011": 650,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 82,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5508,14 +5508,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 840,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 99,
-      "Морозов Антон Юрьевич": 37,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 6,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000226011": 840,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 99,
+      "gas:candidate-vibid:1001000136153": 37,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 6,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5565,14 +5565,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 879,
-      "Миненко Георгий Николаевич": 39,
-      "Монахов Валерий Федорович": 96,
-      "Морозов Антон Юрьевич": 42,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000226011": 879,
+      "gas:candidate-vibid:1001000121289": 39,
+      "gas:candidate-vibid:1001000121938": 96,
+      "gas:candidate-vibid:1001000136153": 42,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5622,14 +5622,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 903,
-      "Миненко Георгий Николаевич": 60,
-      "Монахов Валерий Федорович": 78,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 29,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000226011": 903,
+      "gas:candidate-vibid:1001000121289": 60,
+      "gas:candidate-vibid:1001000121938": 78,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 29,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5679,14 +5679,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 741,
-      "Миненко Георгий Николаевич": 62,
-      "Монахов Валерий Федорович": 37,
-      "Морозов Антон Юрьевич": 26,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000226011": 741,
+      "gas:candidate-vibid:1001000121289": 62,
+      "gas:candidate-vibid:1001000121938": 37,
+      "gas:candidate-vibid:1001000136153": 26,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5736,14 +5736,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 578,
-      "Миненко Георгий Николаевич": 20,
-      "Монахов Валерий Федорович": 48,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 7,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000226011": 578,
+      "gas:candidate-vibid:1001000121289": 20,
+      "gas:candidate-vibid:1001000121938": 48,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 7,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5793,14 +5793,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 793,
-      "Миненко Георгий Николаевич": 44,
-      "Монахов Валерий Федорович": 72,
-      "Морозов Антон Юрьевич": 53,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000226011": 793,
+      "gas:candidate-vibid:1001000121289": 44,
+      "gas:candidate-vibid:1001000121938": 72,
+      "gas:candidate-vibid:1001000136153": 53,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5850,14 +5850,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 674,
-      "Миненко Георгий Николаевич": 39,
-      "Монахов Валерий Федорович": 69,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000226011": 674,
+      "gas:candidate-vibid:1001000121289": 39,
+      "gas:candidate-vibid:1001000121938": 69,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5907,14 +5907,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 723,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 4,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226011": 723,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 4,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -5964,14 +5964,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1006,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 129,
-      "Морозов Антон Юрьевич": 55,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000226011": 1006,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 129,
+      "gas:candidate-vibid:1001000136153": 55,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6021,14 +6021,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 809,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 95,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 21,
-      "Шпигель Леонид Теодорович": 5,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000226011": 809,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 95,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 21,
+      "gas:candidate-vibid:377300970435": 5,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6078,14 +6078,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1038,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 131,
-      "Морозов Антон Юрьевич": 56,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 18,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000226011": 1038,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 131,
+      "gas:candidate-vibid:1001000136153": 56,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 18,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6135,14 +6135,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 868,
-      "Миненко Георгий Николаевич": 48,
-      "Монахов Валерий Федорович": 99,
-      "Морозов Антон Юрьевич": 35,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000226011": 868,
+      "gas:candidate-vibid:1001000121289": 48,
+      "gas:candidate-vibid:1001000121938": 99,
+      "gas:candidate-vibid:1001000136153": 35,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6192,14 +6192,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 794,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 44,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000226011": 794,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 44,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6249,14 +6249,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 175,
-      "Миненко Георгий Николаевич": 3,
-      "Монахов Валерий Федорович": 10,
-      "Морозов Антон Юрьевич": 9,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 3,
-      "Шпигель Леонид Теодорович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000226011": 175,
+      "gas:candidate-vibid:1001000121289": 3,
+      "gas:candidate-vibid:1001000121938": 10,
+      "gas:candidate-vibid:1001000136153": 9,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 3,
+      "gas:candidate-vibid:377300970435": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6306,14 +6306,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 299,
-      "Миненко Георгий Николаевич": 10,
-      "Монахов Валерий Федорович": 7,
-      "Морозов Антон Юрьевич": 3,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 2,
-      "Шпигель Леонид Теодорович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000226011": 299,
+      "gas:candidate-vibid:1001000121289": 10,
+      "gas:candidate-vibid:1001000121938": 7,
+      "gas:candidate-vibid:1001000136153": 3,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 2,
+      "gas:candidate-vibid:377300970435": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6363,14 +6363,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 33,
-      "Миненко Георгий Николаевич": 2,
-      "Монахов Валерий Федорович": 2,
-      "Морозов Антон Юрьевич": 1,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 1,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000226011": 33,
+      "gas:candidate-vibid:1001000121289": 2,
+      "gas:candidate-vibid:1001000121938": 2,
+      "gas:candidate-vibid:1001000136153": 1,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 1,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970400&region=0&sub_region=0&type=429",
@@ -6420,14 +6420,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 941,
-      "Миненко Георгий Николаевич": 41,
-      "Монахов Валерий Федорович": 114,
-      "Морозов Антон Юрьевич": 62,
-      "Палащенко Максим Вячеславович": 21,
-      "Хрусталев Герман Александрович": 19,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000226011": 941,
+      "gas:candidate-vibid:1001000121289": 41,
+      "gas:candidate-vibid:1001000121938": 114,
+      "gas:candidate-vibid:1001000136153": 62,
+      "gas:candidate-vibid:1001000195168": 21,
+      "gas:candidate-vibid:377300970499": 19,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6477,14 +6477,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 793,
-      "Миненко Георгий Николаевич": 20,
-      "Монахов Валерий Федорович": 98,
-      "Морозов Антон Юрьевич": 60,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 33,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000226011": 793,
+      "gas:candidate-vibid:1001000121289": 20,
+      "gas:candidate-vibid:1001000121938": 98,
+      "gas:candidate-vibid:1001000136153": 60,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 33,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6534,14 +6534,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 957,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 54,
-      "Морозов Антон Юрьевич": 38,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000226011": 957,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 54,
+      "gas:candidate-vibid:1001000136153": 38,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6591,14 +6591,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1044,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 50,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 25,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000226011": 1044,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 50,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 25,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6648,14 +6648,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 848,
-      "Миненко Георгий Николаевич": 37,
-      "Монахов Валерий Федорович": 82,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226011": 848,
+      "gas:candidate-vibid:1001000121289": 37,
+      "gas:candidate-vibid:1001000121938": 82,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6705,14 +6705,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 884,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 77,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000226011": 884,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 77,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6762,14 +6762,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1014,
-      "Миненко Георгий Николаевич": 29,
-      "Монахов Валерий Федорович": 87,
-      "Морозов Антон Юрьевич": 54,
-      "Палащенко Максим Вячеславович": 5,
-      "Хрусталев Герман Александрович": 34,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000226011": 1014,
+      "gas:candidate-vibid:1001000121289": 29,
+      "gas:candidate-vibid:1001000121938": 87,
+      "gas:candidate-vibid:1001000136153": 54,
+      "gas:candidate-vibid:1001000195168": 5,
+      "gas:candidate-vibid:377300970499": 34,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6819,14 +6819,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 934,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 35,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000226011": 934,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 35,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6876,14 +6876,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 969,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 96,
-      "Морозов Антон Юрьевич": 37,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000226011": 969,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 96,
+      "gas:candidate-vibid:1001000136153": 37,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6933,14 +6933,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 869,
-      "Миненко Георгий Николаевич": 49,
-      "Монахов Валерий Федорович": 93,
-      "Морозов Антон Юрьевич": 30,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000226011": 869,
+      "gas:candidate-vibid:1001000121289": 49,
+      "gas:candidate-vibid:1001000121938": 93,
+      "gas:candidate-vibid:1001000136153": 30,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -6990,14 +6990,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 858,
-      "Миненко Георгий Николаевич": 19,
-      "Монахов Валерий Федорович": 69,
-      "Морозов Антон Юрьевич": 31,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000226011": 858,
+      "gas:candidate-vibid:1001000121289": 19,
+      "gas:candidate-vibid:1001000121938": 69,
+      "gas:candidate-vibid:1001000136153": 31,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7047,14 +7047,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 866,
-      "Миненко Георгий Николаевич": 35,
-      "Монахов Валерий Федорович": 113,
-      "Морозов Антон Юрьевич": 35,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 7,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000226011": 866,
+      "gas:candidate-vibid:1001000121289": 35,
+      "gas:candidate-vibid:1001000121938": 113,
+      "gas:candidate-vibid:1001000136153": 35,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 7,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7104,14 +7104,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 791,
-      "Миненко Георгий Николаевич": 29,
-      "Монахов Валерий Федорович": 113,
-      "Морозов Антон Юрьевич": 30,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000226011": 791,
+      "gas:candidate-vibid:1001000121289": 29,
+      "gas:candidate-vibid:1001000121938": 113,
+      "gas:candidate-vibid:1001000136153": 30,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7161,14 +7161,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 905,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 74,
-      "Морозов Антон Юрьевич": 42,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000226011": 905,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 74,
+      "gas:candidate-vibid:1001000136153": 42,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7218,14 +7218,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 941,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 79,
-      "Морозов Антон Юрьевич": 26,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 23,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226011": 941,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 79,
+      "gas:candidate-vibid:1001000136153": 26,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 23,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7275,14 +7275,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 979,
-      "Миненко Георгий Николаевич": 41,
-      "Монахов Валерий Федорович": 181,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000226011": 979,
+      "gas:candidate-vibid:1001000121289": 41,
+      "gas:candidate-vibid:1001000121938": 181,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7332,14 +7332,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 776,
-      "Миненко Георгий Николаевич": 32,
-      "Монахов Валерий Федорович": 132,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000226011": 776,
+      "gas:candidate-vibid:1001000121289": 32,
+      "gas:candidate-vibid:1001000121938": 132,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7389,14 +7389,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 966,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 92,
-      "Морозов Антон Юрьевич": 31,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 24,
-      "Шпигель Леонид Теодорович": 22,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000226011": 966,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 92,
+      "gas:candidate-vibid:1001000136153": 31,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 24,
+      "gas:candidate-vibid:377300970435": 22,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7446,14 +7446,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 780,
-      "Миненко Георгий Николаевич": 21,
-      "Монахов Валерий Федорович": 85,
-      "Морозов Антон Юрьевич": 37,
-      "Палащенко Максим Вячеславович": 4,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000226011": 780,
+      "gas:candidate-vibid:1001000121289": 21,
+      "gas:candidate-vibid:1001000121938": 85,
+      "gas:candidate-vibid:1001000136153": 37,
+      "gas:candidate-vibid:1001000195168": 4,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7503,14 +7503,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 902,
-      "Миненко Георгий Николаевич": 29,
-      "Монахов Валерий Федорович": 78,
-      "Морозов Антон Юрьевич": 35,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000226011": 902,
+      "gas:candidate-vibid:1001000121289": 29,
+      "gas:candidate-vibid:1001000121938": 78,
+      "gas:candidate-vibid:1001000136153": 35,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7560,14 +7560,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 992,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 110,
-      "Морозов Антон Юрьевич": 61,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000226011": 992,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 110,
+      "gas:candidate-vibid:1001000136153": 61,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7617,14 +7617,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 913,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 92,
-      "Морозов Антон Юрьевич": 45,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 27,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000226011": 913,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 92,
+      "gas:candidate-vibid:1001000136153": 45,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 27,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7674,14 +7674,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 910,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 74,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000226011": 910,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 74,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7731,14 +7731,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 727,
-      "Миненко Георгий Николаевич": 19,
-      "Монахов Валерий Федорович": 72,
-      "Морозов Антон Юрьевич": 23,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 21,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000226011": 727,
+      "gas:candidate-vibid:1001000121289": 19,
+      "gas:candidate-vibid:1001000121938": 72,
+      "gas:candidate-vibid:1001000136153": 23,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 21,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7788,14 +7788,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 784,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 55,
-      "Морозов Антон Юрьевич": 22,
-      "Палащенко Максим Вячеславович": 6,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000226011": 784,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 55,
+      "gas:candidate-vibid:1001000136153": 22,
+      "gas:candidate-vibid:1001000195168": 6,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7845,14 +7845,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 980,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 99,
-      "Морозов Антон Юрьевич": 57,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000226011": 980,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 99,
+      "gas:candidate-vibid:1001000136153": 57,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7902,14 +7902,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 977,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 95,
-      "Морозов Антон Юрьевич": 47,
-      "Палащенко Максим Вячеславович": 4,
-      "Хрусталев Герман Александрович": 28,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000226011": 977,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 95,
+      "gas:candidate-vibid:1001000136153": 47,
+      "gas:candidate-vibid:1001000195168": 4,
+      "gas:candidate-vibid:377300970499": 28,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -7959,14 +7959,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1014,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 101,
-      "Морозов Антон Юрьевич": 52,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000226011": 1014,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 101,
+      "gas:candidate-vibid:1001000136153": 52,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8016,14 +8016,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1013,
-      "Миненко Георгий Николаевич": 28,
-      "Монахов Валерий Федорович": 109,
-      "Морозов Антон Юрьевич": 48,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 23,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000226011": 1013,
+      "gas:candidate-vibid:1001000121289": 28,
+      "gas:candidate-vibid:1001000121938": 109,
+      "gas:candidate-vibid:1001000136153": 48,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 23,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8073,14 +8073,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1034,
-      "Миненко Георгий Николаевич": 15,
-      "Монахов Валерий Федорович": 101,
-      "Морозов Антон Юрьевич": 51,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000226011": 1034,
+      "gas:candidate-vibid:1001000121289": 15,
+      "gas:candidate-vibid:1001000121938": 101,
+      "gas:candidate-vibid:1001000136153": 51,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8130,14 +8130,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1115,
-      "Миненко Георгий Николаевич": 40,
-      "Монахов Валерий Федорович": 105,
-      "Морозов Антон Юрьевич": 34,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 27,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000226011": 1115,
+      "gas:candidate-vibid:1001000121289": 40,
+      "gas:candidate-vibid:1001000121938": 105,
+      "gas:candidate-vibid:1001000136153": 34,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 27,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8187,14 +8187,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1069,
-      "Миненко Георгий Николаевич": 41,
-      "Монахов Валерий Федорович": 100,
-      "Морозов Антон Юрьевич": 37,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 27,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000226011": 1069,
+      "gas:candidate-vibid:1001000121289": 41,
+      "gas:candidate-vibid:1001000121938": 100,
+      "gas:candidate-vibid:1001000136153": 37,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 27,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8244,14 +8244,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1062,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 64,
-      "Морозов Антон Юрьевич": 39,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 28,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000226011": 1062,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 64,
+      "gas:candidate-vibid:1001000136153": 39,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 28,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8301,14 +8301,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1029,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 97,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000226011": 1029,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 97,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8358,14 +8358,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1048,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 67,
-      "Морозов Антон Юрьевич": 49,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 24,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000226011": 1048,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 67,
+      "gas:candidate-vibid:1001000136153": 49,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 24,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8415,14 +8415,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1050,
-      "Миненко Георгий Николаевич": 40,
-      "Монахов Валерий Федорович": 101,
-      "Морозов Антон Юрьевич": 47,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000226011": 1050,
+      "gas:candidate-vibid:1001000121289": 40,
+      "gas:candidate-vibid:1001000121938": 101,
+      "gas:candidate-vibid:1001000136153": 47,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8472,14 +8472,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 870,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 124,
-      "Морозов Антон Юрьевич": 24,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 20,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000226011": 870,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 124,
+      "gas:candidate-vibid:1001000136153": 24,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 20,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8529,14 +8529,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 962,
-      "Миненко Георгий Николаевич": 28,
-      "Монахов Валерий Федорович": 100,
-      "Морозов Антон Юрьевич": 45,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 24,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000226011": 962,
+      "gas:candidate-vibid:1001000121289": 28,
+      "gas:candidate-vibid:1001000121938": 100,
+      "gas:candidate-vibid:1001000136153": 45,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 24,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8586,14 +8586,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 965,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 91,
-      "Морозов Антон Юрьевич": 46,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000226011": 965,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 91,
+      "gas:candidate-vibid:1001000136153": 46,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8643,14 +8643,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 911,
-      "Миненко Георгий Николаевич": 29,
-      "Монахов Валерий Федорович": 66,
-      "Морозов Антон Юрьевич": 49,
-      "Палащенко Максим Вячеславович": 20,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000226011": 911,
+      "gas:candidate-vibid:1001000121289": 29,
+      "gas:candidate-vibid:1001000121938": 66,
+      "gas:candidate-vibid:1001000136153": 49,
+      "gas:candidate-vibid:1001000195168": 20,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8700,14 +8700,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 927,
-      "Миненко Георгий Николаевич": 36,
-      "Монахов Валерий Федорович": 115,
-      "Морозов Антон Юрьевич": 57,
-      "Палащенко Максим Вячеславович": 34,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000226011": 927,
+      "gas:candidate-vibid:1001000121289": 36,
+      "gas:candidate-vibid:1001000121938": 115,
+      "gas:candidate-vibid:1001000136153": 57,
+      "gas:candidate-vibid:1001000195168": 34,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8757,14 +8757,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1065,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 69,
-      "Морозов Антон Юрьевич": 54,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 23,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000226011": 1065,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 69,
+      "gas:candidate-vibid:1001000136153": 54,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 23,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970401&region=0&sub_region=0&type=429",
@@ -8814,14 +8814,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 263,
-      "Миненко Георгий Николаевич": 21,
-      "Монахов Валерий Федорович": 29,
-      "Морозов Антон Юрьевич": 19,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000226011": 263,
+      "gas:candidate-vibid:1001000121289": 21,
+      "gas:candidate-vibid:1001000121938": 29,
+      "gas:candidate-vibid:1001000136153": 19,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -8871,14 +8871,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 540,
-      "Миненко Георгий Николаевич": 22,
-      "Монахов Валерий Федорович": 56,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000226011": 540,
+      "gas:candidate-vibid:1001000121289": 22,
+      "gas:candidate-vibid:1001000121938": 56,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -8928,14 +8928,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 606,
-      "Миненко Георгий Николаевич": 36,
-      "Монахов Валерий Федорович": 47,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 20,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000226011": 606,
+      "gas:candidate-vibid:1001000121289": 36,
+      "gas:candidate-vibid:1001000121938": 47,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 20,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -8985,14 +8985,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 650,
-      "Миненко Георгий Николаевич": 20,
-      "Монахов Валерий Федорович": 44,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000226011": 650,
+      "gas:candidate-vibid:1001000121289": 20,
+      "gas:candidate-vibid:1001000121938": 44,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9042,14 +9042,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 697,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 52,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000226011": 697,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 52,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9099,14 +9099,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 663,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 62,
-      "Морозов Антон Юрьевич": 43,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 7,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000226011": 663,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 62,
+      "gas:candidate-vibid:1001000136153": 43,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 7,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9156,14 +9156,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 627,
-      "Миненко Георгий Николаевич": 21,
-      "Монахов Валерий Федорович": 62,
-      "Морозов Антон Юрьевич": 42,
-      "Палащенко Максим Вячеславович": 6,
-      "Хрусталев Герман Александрович": 4,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000226011": 627,
+      "gas:candidate-vibid:1001000121289": 21,
+      "gas:candidate-vibid:1001000121938": 62,
+      "gas:candidate-vibid:1001000136153": 42,
+      "gas:candidate-vibid:1001000195168": 6,
+      "gas:candidate-vibid:377300970499": 4,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9213,14 +9213,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 506,
-      "Миненко Георгий Николаевич": 19,
-      "Монахов Валерий Федорович": 56,
-      "Морозов Антон Юрьевич": 22,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 7,
-      "Шпигель Леонид Теодорович": 6,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000226011": 506,
+      "gas:candidate-vibid:1001000121289": 19,
+      "gas:candidate-vibid:1001000121938": 56,
+      "gas:candidate-vibid:1001000136153": 22,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 7,
+      "gas:candidate-vibid:377300970435": 6,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9270,14 +9270,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 789,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 69,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 20,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000226011": 789,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 69,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 20,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9327,14 +9327,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 773,
-      "Миненко Георгий Николаевич": 44,
-      "Монахов Валерий Федорович": 90,
-      "Морозов Антон Юрьевич": 57,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 21,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000226011": 773,
+      "gas:candidate-vibid:1001000121289": 44,
+      "gas:candidate-vibid:1001000121938": 90,
+      "gas:candidate-vibid:1001000136153": 57,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 21,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9384,14 +9384,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 615,
-      "Миненко Георгий Николаевич": 22,
-      "Монахов Валерий Федорович": 69,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000226011": 615,
+      "gas:candidate-vibid:1001000121289": 22,
+      "gas:candidate-vibid:1001000121938": 69,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9441,14 +9441,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 578,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 65,
-      "Морозов Антон Юрьевич": 21,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000226011": 578,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 65,
+      "gas:candidate-vibid:1001000136153": 21,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9498,14 +9498,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 810,
-      "Миненко Георгий Николаевич": 37,
-      "Монахов Валерий Федорович": 87,
-      "Морозов Антон Юрьевич": 39,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000226011": 810,
+      "gas:candidate-vibid:1001000121289": 37,
+      "gas:candidate-vibid:1001000121938": 87,
+      "gas:candidate-vibid:1001000136153": 39,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9555,14 +9555,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 942,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 107,
-      "Морозов Антон Юрьевич": 47,
-      "Палащенко Максим Вячеславович": 24,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 20,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000226011": 942,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 107,
+      "gas:candidate-vibid:1001000136153": 47,
+      "gas:candidate-vibid:1001000195168": 24,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 20,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9612,14 +9612,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 911,
-      "Миненко Георгий Николаевич": 41,
-      "Монахов Валерий Федорович": 129,
-      "Морозов Антон Юрьевич": 49,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000226011": 911,
+      "gas:candidate-vibid:1001000121289": 41,
+      "gas:candidate-vibid:1001000121938": 129,
+      "gas:candidate-vibid:1001000136153": 49,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9669,14 +9669,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 854,
-      "Миненко Георгий Николаевич": 47,
-      "Монахов Валерий Федорович": 102,
-      "Морозов Антон Юрьевич": 38,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000226011": 854,
+      "gas:candidate-vibid:1001000121289": 47,
+      "gas:candidate-vibid:1001000121938": 102,
+      "gas:candidate-vibid:1001000136153": 38,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9726,14 +9726,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 535,
-      "Миненко Георгий Николаевич": 22,
-      "Монахов Валерий Федорович": 53,
-      "Морозов Антон Юрьевич": 24,
-      "Палащенко Максим Вячеславович": 5,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000226011": 535,
+      "gas:candidate-vibid:1001000121289": 22,
+      "gas:candidate-vibid:1001000121938": 53,
+      "gas:candidate-vibid:1001000136153": 24,
+      "gas:candidate-vibid:1001000195168": 5,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9783,14 +9783,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 726,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 54,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000226011": 726,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 54,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9840,14 +9840,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 707,
-      "Миненко Георгий Николаевич": 60,
-      "Монахов Валерий Федорович": 85,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000226011": 707,
+      "gas:candidate-vibid:1001000121289": 60,
+      "gas:candidate-vibid:1001000121938": 85,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9897,14 +9897,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 588,
-      "Миненко Георгий Николаевич": 16,
-      "Монахов Валерий Федорович": 62,
-      "Морозов Антон Юрьевич": 39,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000226011": 588,
+      "gas:candidate-vibid:1001000121289": 16,
+      "gas:candidate-vibid:1001000121938": 62,
+      "gas:candidate-vibid:1001000136153": 39,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -9954,14 +9954,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 675,
-      "Миненко Георгий Николаевич": 12,
-      "Монахов Валерий Федорович": 47,
-      "Морозов Антон Юрьевич": 27,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000226011": 675,
+      "gas:candidate-vibid:1001000121289": 12,
+      "gas:candidate-vibid:1001000121938": 47,
+      "gas:candidate-vibid:1001000136153": 27,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10011,14 +10011,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1052,
-      "Миненко Георгий Николаевич": 36,
-      "Монахов Валерий Федорович": 108,
-      "Морозов Антон Юрьевич": 31,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 15,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000226011": 1052,
+      "gas:candidate-vibid:1001000121289": 36,
+      "gas:candidate-vibid:1001000121938": 108,
+      "gas:candidate-vibid:1001000136153": 31,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 15,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10068,14 +10068,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 578,
-      "Миненко Георгий Николаевич": 59,
-      "Монахов Валерий Федорович": 55,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 4,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000226011": 578,
+      "gas:candidate-vibid:1001000121289": 59,
+      "gas:candidate-vibid:1001000121938": 55,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 4,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10125,14 +10125,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 672,
-      "Миненко Георгий Николаевич": 45,
-      "Монахов Валерий Федорович": 80,
-      "Морозов Антон Юрьевич": 30,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000226011": 672,
+      "gas:candidate-vibid:1001000121289": 45,
+      "gas:candidate-vibid:1001000121938": 80,
+      "gas:candidate-vibid:1001000136153": 30,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10182,14 +10182,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 772,
-      "Миненко Георгий Николаевич": 45,
-      "Монахов Валерий Федорович": 64,
-      "Морозов Антон Юрьевич": 34,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 22,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000226011": 772,
+      "gas:candidate-vibid:1001000121289": 45,
+      "gas:candidate-vibid:1001000121938": 64,
+      "gas:candidate-vibid:1001000136153": 34,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 22,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10239,14 +10239,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1031,
-      "Миненко Георгий Николаевич": 46,
-      "Монахов Валерий Федорович": 83,
-      "Морозов Антон Юрьевич": 43,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000226011": 1031,
+      "gas:candidate-vibid:1001000121289": 46,
+      "gas:candidate-vibid:1001000121938": 83,
+      "gas:candidate-vibid:1001000136153": 43,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10296,14 +10296,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 780,
-      "Миненко Георгий Николаевич": 42,
-      "Монахов Валерий Федорович": 122,
-      "Морозов Антон Юрьевич": 44,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000226011": 780,
+      "gas:candidate-vibid:1001000121289": 42,
+      "gas:candidate-vibid:1001000121938": 122,
+      "gas:candidate-vibid:1001000136153": 44,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10353,14 +10353,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 972,
-      "Миненко Георгий Николаевич": 48,
-      "Монахов Валерий Федорович": 112,
-      "Морозов Антон Юрьевич": 54,
-      "Палащенко Максим Вячеславович": 19,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 22,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000226011": 972,
+      "gas:candidate-vibid:1001000121289": 48,
+      "gas:candidate-vibid:1001000121938": 112,
+      "gas:candidate-vibid:1001000136153": 54,
+      "gas:candidate-vibid:1001000195168": 19,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 22,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10410,14 +10410,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 939,
-      "Миненко Георгий Николаевич": 53,
-      "Монахов Валерий Федорович": 101,
-      "Морозов Антон Юрьевич": 64,
-      "Палащенко Максим Вячеславович": 3,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000226011": 939,
+      "gas:candidate-vibid:1001000121289": 53,
+      "gas:candidate-vibid:1001000121938": 101,
+      "gas:candidate-vibid:1001000136153": 64,
+      "gas:candidate-vibid:1001000195168": 3,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10467,14 +10467,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 559,
-      "Миненко Георгий Николаевич": 28,
-      "Монахов Валерий Федорович": 60,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 4,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000226011": 559,
+      "gas:candidate-vibid:1001000121289": 28,
+      "gas:candidate-vibid:1001000121938": 60,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 4,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10524,14 +10524,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 794,
-      "Миненко Георгий Николаевич": 19,
-      "Монахов Валерий Федорович": 70,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 6,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000226011": 794,
+      "gas:candidate-vibid:1001000121289": 19,
+      "gas:candidate-vibid:1001000121938": 70,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 6,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10581,14 +10581,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 760,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 74,
-      "Морозов Антон Юрьевич": 25,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000226011": 760,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 74,
+      "gas:candidate-vibid:1001000136153": 25,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10638,14 +10638,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 902,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 85,
-      "Морозов Антон Юрьевич": 24,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000226011": 902,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 85,
+      "gas:candidate-vibid:1001000136153": 24,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10695,14 +10695,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 23,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 1,
-      "Морозов Антон Юрьевич": 2,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000226011": 23,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 1,
+      "gas:candidate-vibid:1001000136153": 2,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10752,14 +10752,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 24,
-      "Миненко Георгий Николаевич": 1,
-      "Монахов Валерий Федорович": 6,
-      "Морозов Антон Юрьевич": 1,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 1,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000226011": 24,
+      "gas:candidate-vibid:1001000121289": 1,
+      "gas:candidate-vibid:1001000121938": 6,
+      "gas:candidate-vibid:1001000136153": 1,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 1,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10809,14 +10809,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 247,
-      "Миненко Георгий Николаевич": 76,
-      "Монахов Валерий Федорович": 40,
-      "Морозов Антон Юрьевич": 19,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 31,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000226011": 247,
+      "gas:candidate-vibid:1001000121289": 76,
+      "gas:candidate-vibid:1001000121938": 40,
+      "gas:candidate-vibid:1001000136153": 19,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 31,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10866,14 +10866,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 52,
-      "Миненко Георгий Николаевич": 8,
-      "Монахов Валерий Федорович": 6,
-      "Морозов Антон Юрьевич": 3,
-      "Палащенко Максим Вячеславович": 3,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000226011": 52,
+      "gas:candidate-vibid:1001000121289": 8,
+      "gas:candidate-vibid:1001000121938": 6,
+      "gas:candidate-vibid:1001000136153": 3,
+      "gas:candidate-vibid:1001000195168": 3,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10923,14 +10923,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 17,
-      "Миненко Георгий Николаевич": 9,
-      "Монахов Валерий Федорович": 4,
-      "Морозов Антон Юрьевич": 5,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 5,
-      "Шпигель Леонид Теодорович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000226011": 17,
+      "gas:candidate-vibid:1001000121289": 9,
+      "gas:candidate-vibid:1001000121938": 4,
+      "gas:candidate-vibid:1001000136153": 5,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 5,
+      "gas:candidate-vibid:377300970435": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -10980,14 +10980,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 94,
-      "Миненко Георгий Николаевич": 47,
-      "Монахов Валерий Федорович": 4,
-      "Морозов Антон Юрьевич": 9,
-      "Палащенко Максим Вячеславович": 3,
-      "Хрусталев Герман Александрович": 6,
-      "Шпигель Леонид Теодорович": 54,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000226011": 94,
+      "gas:candidate-vibid:1001000121289": 47,
+      "gas:candidate-vibid:1001000121938": 4,
+      "gas:candidate-vibid:1001000136153": 9,
+      "gas:candidate-vibid:1001000195168": 3,
+      "gas:candidate-vibid:377300970499": 6,
+      "gas:candidate-vibid:377300970435": 54,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970402&region=0&sub_region=0&type=429",
@@ -11037,14 +11037,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 673,
-      "Миненко Георгий Николаевич": 20,
-      "Монахов Валерий Федорович": 45,
-      "Морозов Антон Юрьевич": 20,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 12,
-      "Шпигель Леонид Теодорович": 4,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000226011": 673,
+      "gas:candidate-vibid:1001000121289": 20,
+      "gas:candidate-vibid:1001000121938": 45,
+      "gas:candidate-vibid:1001000136153": 20,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 12,
+      "gas:candidate-vibid:377300970435": 4,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11094,14 +11094,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1060,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 78,
-      "Морозов Антон Юрьевич": 34,
-      "Палащенко Максим Вячеславович": 22,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 6,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000226011": 1060,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 78,
+      "gas:candidate-vibid:1001000136153": 34,
+      "gas:candidate-vibid:1001000195168": 22,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 6,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11151,14 +11151,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 982,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 76,
-      "Морозов Антон Юрьевич": 63,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 33,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000226011": 982,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 76,
+      "gas:candidate-vibid:1001000136153": 63,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 33,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11208,14 +11208,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 893,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 89,
-      "Морозов Антон Юрьевич": 44,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 23,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000226011": 893,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 89,
+      "gas:candidate-vibid:1001000136153": 44,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 23,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11265,14 +11265,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1068,
-      "Миненко Георгий Николаевич": 45,
-      "Монахов Валерий Федорович": 97,
-      "Морозов Антон Юрьевич": 55,
-      "Палащенко Максим Вячеславович": 24,
-      "Хрусталев Герман Александрович": 24,
-      "Шпигель Леонид Теодорович": 20,
-      "Против всех": 397
+      "gas:candidate-vibid:1001000226011": 1068,
+      "gas:candidate-vibid:1001000121289": 45,
+      "gas:candidate-vibid:1001000121938": 97,
+      "gas:candidate-vibid:1001000136153": 55,
+      "gas:candidate-vibid:1001000195168": 24,
+      "gas:candidate-vibid:377300970499": 24,
+      "gas:candidate-vibid:377300970435": 20,
+      "special:against-all": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11322,14 +11322,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 938,
-      "Миненко Георгий Николаевич": 32,
-      "Монахов Валерий Федорович": 63,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 13,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000226011": 938,
+      "gas:candidate-vibid:1001000121289": 32,
+      "gas:candidate-vibid:1001000121938": 63,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 13,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11379,14 +11379,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 904,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 80,
-      "Морозов Антон Юрьевич": 42,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 25,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000226011": 904,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 80,
+      "gas:candidate-vibid:1001000136153": 42,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 25,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11436,14 +11436,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 688,
-      "Миненко Георгий Николаевич": 19,
-      "Монахов Валерий Федорович": 67,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000226011": 688,
+      "gas:candidate-vibid:1001000121289": 19,
+      "gas:candidate-vibid:1001000121938": 67,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11493,14 +11493,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 996,
-      "Миненко Георгий Николаевич": 17,
-      "Монахов Валерий Федорович": 82,
-      "Морозов Антон Юрьевич": 35,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 21,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000226011": 996,
+      "gas:candidate-vibid:1001000121289": 17,
+      "gas:candidate-vibid:1001000121938": 82,
+      "gas:candidate-vibid:1001000136153": 35,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 21,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11550,14 +11550,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 843,
-      "Миненко Георгий Николаевич": 48,
-      "Монахов Валерий Федорович": 68,
-      "Морозов Антон Юрьевич": 42,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 19,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000226011": 843,
+      "gas:candidate-vibid:1001000121289": 48,
+      "gas:candidate-vibid:1001000121938": 68,
+      "gas:candidate-vibid:1001000136153": 42,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 19,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11607,14 +11607,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 18,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 0,
-      "Морозов Антон Юрьевич": 0,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000226011": 18,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 0,
+      "gas:candidate-vibid:1001000136153": 0,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11664,14 +11664,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 8,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 0,
-      "Морозов Антон Юрьевич": 0,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 1,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000226011": 8,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 0,
+      "gas:candidate-vibid:1001000136153": 0,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 1,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11721,14 +11721,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 2,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 2,
-      "Морозов Антон Юрьевич": 0,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000226011": 2,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 2,
+      "gas:candidate-vibid:1001000136153": 0,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11778,14 +11778,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 3,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 1,
-      "Морозов Антон Юрьевич": 0,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000226011": 3,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 1,
+      "gas:candidate-vibid:1001000136153": 0,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11835,14 +11835,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 82,
-      "Миненко Георгий Николаевич": 2,
-      "Монахов Валерий Федорович": 3,
-      "Морозов Антон Юрьевич": 4,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 2,
-      "Шпигель Леонид Теодорович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000226011": 82,
+      "gas:candidate-vibid:1001000121289": 2,
+      "gas:candidate-vibid:1001000121938": 3,
+      "gas:candidate-vibid:1001000136153": 4,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 2,
+      "gas:candidate-vibid:377300970435": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970403&region=0&sub_region=0&type=429",
@@ -11892,14 +11892,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 843,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 60,
-      "Морозов Антон Юрьевич": 21,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000226011": 843,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 60,
+      "gas:candidate-vibid:1001000136153": 21,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970404&region=0&sub_region=0&type=429",
@@ -11949,14 +11949,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 940,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 68,
-      "Морозов Антон Юрьевич": 29,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 7,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000226011": 940,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 68,
+      "gas:candidate-vibid:1001000136153": 29,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 7,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970404&region=0&sub_region=0&type=429",
@@ -12006,14 +12006,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1029,
-      "Миненко Георгий Николаевич": 21,
-      "Монахов Валерий Федорович": 86,
-      "Морозов Антон Юрьевич": 50,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 8,
-      "Шпигель Леонид Теодорович": 10,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000226011": 1029,
+      "gas:candidate-vibid:1001000121289": 21,
+      "gas:candidate-vibid:1001000121938": 86,
+      "gas:candidate-vibid:1001000136153": 50,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 8,
+      "gas:candidate-vibid:377300970435": 10,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970404&region=0&sub_region=0&type=429",
@@ -12063,14 +12063,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 369,
-      "Миненко Георгий Николаевич": 16,
-      "Монахов Валерий Федорович": 36,
-      "Морозов Антон Юрьевич": 14,
-      "Палащенко Максим Вячеславович": 3,
-      "Хрусталев Герман Александрович": 5,
-      "Шпигель Леонид Теодорович": 4,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000226011": 369,
+      "gas:candidate-vibid:1001000121289": 16,
+      "gas:candidate-vibid:1001000121938": 36,
+      "gas:candidate-vibid:1001000136153": 14,
+      "gas:candidate-vibid:1001000195168": 3,
+      "gas:candidate-vibid:377300970499": 5,
+      "gas:candidate-vibid:377300970435": 4,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970404&region=0&sub_region=0&type=429",
@@ -12120,14 +12120,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 890,
-      "Миненко Георгий Николаевич": 32,
-      "Монахов Валерий Федорович": 141,
-      "Морозов Антон Юрьевич": 26,
-      "Палащенко Максим Вячеславович": 20,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000226011": 890,
+      "gas:candidate-vibid:1001000121289": 32,
+      "gas:candidate-vibid:1001000121938": 141,
+      "gas:candidate-vibid:1001000136153": 26,
+      "gas:candidate-vibid:1001000195168": 20,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12177,14 +12177,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 754,
-      "Миненко Георгий Николаевич": 33,
-      "Монахов Валерий Федорович": 75,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 14,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000226011": 754,
+      "gas:candidate-vibid:1001000121289": 33,
+      "gas:candidate-vibid:1001000121938": 75,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 14,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12234,14 +12234,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 885,
-      "Миненко Георгий Николаевич": 28,
-      "Монахов Валерий Федорович": 106,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 8,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000226011": 885,
+      "gas:candidate-vibid:1001000121289": 28,
+      "gas:candidate-vibid:1001000121938": 106,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 8,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12291,14 +12291,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 750,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 56,
-      "Морозов Антон Юрьевич": 23,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 19,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000226011": 750,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 56,
+      "gas:candidate-vibid:1001000136153": 23,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 19,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12348,14 +12348,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 732,
-      "Миненко Георгий Николаевич": 16,
-      "Монахов Валерий Федорович": 58,
-      "Морозов Антон Юрьевич": 25,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 8,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000226011": 732,
+      "gas:candidate-vibid:1001000121289": 16,
+      "gas:candidate-vibid:1001000121938": 58,
+      "gas:candidate-vibid:1001000136153": 25,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 8,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12405,14 +12405,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1022,
-      "Миненко Георгий Николаевич": 47,
-      "Монахов Валерий Федорович": 103,
-      "Морозов Антон Юрьевич": 37,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 27,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000226011": 1022,
+      "gas:candidate-vibid:1001000121289": 47,
+      "gas:candidate-vibid:1001000121938": 103,
+      "gas:candidate-vibid:1001000136153": 37,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 27,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12462,14 +12462,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 960,
-      "Миненко Георгий Николаевич": 24,
-      "Монахов Валерий Федорович": 115,
-      "Морозов Антон Юрьевич": 38,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 23,
-      "Шпигель Леонид Теодорович": 25,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000226011": 960,
+      "gas:candidate-vibid:1001000121289": 24,
+      "gas:candidate-vibid:1001000121938": 115,
+      "gas:candidate-vibid:1001000136153": 38,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 23,
+      "gas:candidate-vibid:377300970435": 25,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12519,14 +12519,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1097,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 101,
-      "Морозов Антон Юрьевич": 47,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000226011": 1097,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 101,
+      "gas:candidate-vibid:1001000136153": 47,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12576,14 +12576,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1035,
-      "Миненко Георгий Николаевич": 47,
-      "Монахов Валерий Федорович": 123,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 22,
-      "Хрусталев Герман Александрович": 26,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000226011": 1035,
+      "gas:candidate-vibid:1001000121289": 47,
+      "gas:candidate-vibid:1001000121938": 123,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 22,
+      "gas:candidate-vibid:377300970499": 26,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12633,14 +12633,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1066,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 140,
-      "Морозов Антон Юрьевич": 42,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000226011": 1066,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 140,
+      "gas:candidate-vibid:1001000136153": 42,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12690,14 +12690,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 965,
-      "Миненко Георгий Николаевич": 38,
-      "Монахов Валерий Федорович": 117,
-      "Морозов Антон Юрьевич": 27,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 6,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000226011": 965,
+      "gas:candidate-vibid:1001000121289": 38,
+      "gas:candidate-vibid:1001000121938": 117,
+      "gas:candidate-vibid:1001000136153": 27,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 6,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12747,14 +12747,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 963,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 104,
-      "Морозов Антон Юрьевич": 40,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000226011": 963,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 104,
+      "gas:candidate-vibid:1001000136153": 40,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12804,14 +12804,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 959,
-      "Миненко Георгий Николаевич": 22,
-      "Монахов Валерий Федорович": 86,
-      "Морозов Антон Юрьевич": 38,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000226011": 959,
+      "gas:candidate-vibid:1001000121289": 22,
+      "gas:candidate-vibid:1001000121938": 86,
+      "gas:candidate-vibid:1001000136153": 38,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12861,14 +12861,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1061,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 113,
-      "Морозов Антон Юрьевич": 50,
-      "Палащенко Максим Вячеславович": 1,
-      "Хрусталев Герман Александрович": 22,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000226011": 1061,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 113,
+      "gas:candidate-vibid:1001000136153": 50,
+      "gas:candidate-vibid:1001000195168": 1,
+      "gas:candidate-vibid:377300970499": 22,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12918,14 +12918,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 728,
-      "Миненко Георгий Николаевич": 25,
-      "Монахов Валерий Федорович": 84,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000226011": 728,
+      "gas:candidate-vibid:1001000121289": 25,
+      "gas:candidate-vibid:1001000121938": 84,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -12975,14 +12975,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 998,
-      "Миненко Георгий Николаевич": 45,
-      "Монахов Валерий Федорович": 127,
-      "Морозов Антон Юрьевич": 20,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 23,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000226011": 998,
+      "gas:candidate-vibid:1001000121289": 45,
+      "gas:candidate-vibid:1001000121938": 127,
+      "gas:candidate-vibid:1001000136153": 20,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 23,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13032,14 +13032,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 939,
-      "Миненко Георгий Николаевич": 26,
-      "Монахов Валерий Федорович": 104,
-      "Морозов Антон Юрьевич": 39,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 23,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000226011": 939,
+      "gas:candidate-vibid:1001000121289": 26,
+      "gas:candidate-vibid:1001000121938": 104,
+      "gas:candidate-vibid:1001000136153": 39,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 23,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13089,14 +13089,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 942,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 102,
-      "Морозов Антон Юрьевич": 27,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000226011": 942,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 102,
+      "gas:candidate-vibid:1001000136153": 27,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13146,14 +13146,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1031,
-      "Миненко Георгий Николаевич": 41,
-      "Монахов Валерий Федорович": 118,
-      "Морозов Антон Юрьевич": 32,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 13,
-      "Шпигель Леонид Теодорович": 21,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000226011": 1031,
+      "gas:candidate-vibid:1001000121289": 41,
+      "gas:candidate-vibid:1001000121938": 118,
+      "gas:candidate-vibid:1001000136153": 32,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 13,
+      "gas:candidate-vibid:377300970435": 21,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13203,14 +13203,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 900,
-      "Миненко Георгий Николаевич": 40,
-      "Монахов Валерий Федорович": 118,
-      "Морозов Антон Юрьевич": 47,
-      "Палащенко Максим Вячеславович": 14,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 28,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000226011": 900,
+      "gas:candidate-vibid:1001000121289": 40,
+      "gas:candidate-vibid:1001000121938": 118,
+      "gas:candidate-vibid:1001000136153": 47,
+      "gas:candidate-vibid:1001000195168": 14,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 28,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13260,14 +13260,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1053,
-      "Миненко Георгий Николаевич": 42,
-      "Монахов Валерий Федорович": 141,
-      "Морозов Антон Юрьевич": 36,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 13,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000226011": 1053,
+      "gas:candidate-vibid:1001000121289": 42,
+      "gas:candidate-vibid:1001000121938": 141,
+      "gas:candidate-vibid:1001000136153": 36,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 13,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13317,14 +13317,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 1035,
-      "Миненко Георгий Николаевич": 27,
-      "Монахов Валерий Федорович": 111,
-      "Морозов Антон Юрьевич": 33,
-      "Палащенко Максим Вячеславович": 11,
-      "Хрусталев Герман Александрович": 18,
-      "Шпигель Леонид Теодорович": 18,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000226011": 1035,
+      "gas:candidate-vibid:1001000121289": 27,
+      "gas:candidate-vibid:1001000121938": 111,
+      "gas:candidate-vibid:1001000136153": 33,
+      "gas:candidate-vibid:1001000195168": 11,
+      "gas:candidate-vibid:377300970499": 18,
+      "gas:candidate-vibid:377300970435": 18,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13374,14 +13374,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 0,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 1,
-      "Морозов Антон Юрьевич": 0,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000226011": 0,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 1,
+      "gas:candidate-vibid:1001000136153": 0,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13431,14 +13431,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 0,
-      "Миненко Георгий Николаевич": 0,
-      "Монахов Валерий Федорович": 0,
-      "Морозов Антон Юрьевич": 0,
-      "Палащенко Максим Вячеславович": 0,
-      "Хрусталев Герман Александрович": 0,
-      "Шпигель Леонид Теодорович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000226011": 0,
+      "gas:candidate-vibid:1001000121289": 0,
+      "gas:candidate-vibid:1001000121938": 0,
+      "gas:candidate-vibid:1001000136153": 0,
+      "gas:candidate-vibid:1001000195168": 0,
+      "gas:candidate-vibid:377300970499": 0,
+      "gas:candidate-vibid:377300970435": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13488,14 +13488,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 158,
-      "Миненко Георгий Николаевич": 8,
-      "Монахов Валерий Федорович": 11,
-      "Морозов Антон Юрьевич": 11,
-      "Палащенко Максим Вячеславович": 4,
-      "Хрусталев Герман Александрович": 10,
-      "Шпигель Леонид Теодорович": 2,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000226011": 158,
+      "gas:candidate-vibid:1001000121289": 8,
+      "gas:candidate-vibid:1001000121938": 11,
+      "gas:candidate-vibid:1001000136153": 11,
+      "gas:candidate-vibid:1001000195168": 4,
+      "gas:candidate-vibid:377300970499": 10,
+      "gas:candidate-vibid:377300970435": 2,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970405&region=0&sub_region=0&type=429",
@@ -13545,14 +13545,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 869,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 102,
-      "Морозов Антон Юрьевич": 49,
-      "Палащенко Максим Вячеславович": 22,
-      "Хрусталев Герман Александрович": 19,
-      "Шпигель Леонид Теодорович": 7,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000226011": 869,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 102,
+      "gas:candidate-vibid:1001000136153": 49,
+      "gas:candidate-vibid:1001000195168": 22,
+      "gas:candidate-vibid:377300970499": 19,
+      "gas:candidate-vibid:377300970435": 7,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13602,14 +13602,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 918,
-      "Миненко Георгий Николаевич": 41,
-      "Монахов Валерий Федорович": 119,
-      "Морозов Антон Юрьевич": 41,
-      "Палащенко Максим Вячеславович": 15,
-      "Хрусталев Герман Александрович": 19,
-      "Шпигель Леонид Теодорович": 19,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000226011": 918,
+      "gas:candidate-vibid:1001000121289": 41,
+      "gas:candidate-vibid:1001000121938": 119,
+      "gas:candidate-vibid:1001000136153": 41,
+      "gas:candidate-vibid:1001000195168": 15,
+      "gas:candidate-vibid:377300970499": 19,
+      "gas:candidate-vibid:377300970435": 19,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13659,14 +13659,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 858,
-      "Миненко Георгий Николаевич": 31,
-      "Монахов Валерий Федорович": 110,
-      "Морозов Антон Юрьевич": 49,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 11,
-      "Шпигель Леонид Теодорович": 9,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000226011": 858,
+      "gas:candidate-vibid:1001000121289": 31,
+      "gas:candidate-vibid:1001000121938": 110,
+      "gas:candidate-vibid:1001000136153": 49,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 11,
+      "gas:candidate-vibid:377300970435": 9,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13716,14 +13716,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 879,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 93,
-      "Морозов Антон Юрьевич": 67,
-      "Палащенко Максим Вячеславович": 10,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 18,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000226011": 879,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 93,
+      "gas:candidate-vibid:1001000136153": 67,
+      "gas:candidate-vibid:1001000195168": 10,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 18,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13773,14 +13773,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 891,
-      "Миненко Георгий Николаевич": 35,
-      "Монахов Валерий Федорович": 84,
-      "Морозов Антон Юрьевич": 59,
-      "Палащенко Максим Вячеславович": 18,
-      "Хрусталев Герман Александрович": 9,
-      "Шпигель Леонид Теодорович": 18,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000226011": 891,
+      "gas:candidate-vibid:1001000121289": 35,
+      "gas:candidate-vibid:1001000121938": 84,
+      "gas:candidate-vibid:1001000136153": 59,
+      "gas:candidate-vibid:1001000195168": 18,
+      "gas:candidate-vibid:377300970499": 9,
+      "gas:candidate-vibid:377300970435": 18,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13830,14 +13830,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 934,
-      "Миненко Георгий Николаевич": 29,
-      "Монахов Валерий Федорович": 81,
-      "Морозов Антон Юрьевич": 46,
-      "Палащенко Максим Вячеславович": 20,
-      "Хрусталев Герман Александрович": 15,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000226011": 934,
+      "gas:candidate-vibid:1001000121289": 29,
+      "gas:candidate-vibid:1001000121938": 81,
+      "gas:candidate-vibid:1001000136153": 46,
+      "gas:candidate-vibid:1001000195168": 20,
+      "gas:candidate-vibid:377300970499": 15,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13887,14 +13887,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 837,
-      "Миненко Георгий Николаевич": 35,
-      "Монахов Валерий Федорович": 109,
-      "Морозов Антон Юрьевич": 56,
-      "Палащенко Максим Вячеславович": 20,
-      "Хрусталев Герман Александрович": 17,
-      "Шпигель Леонид Теодорович": 16,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000226011": 837,
+      "gas:candidate-vibid:1001000121289": 35,
+      "gas:candidate-vibid:1001000121938": 109,
+      "gas:candidate-vibid:1001000136153": 56,
+      "gas:candidate-vibid:1001000195168": 20,
+      "gas:candidate-vibid:377300970499": 17,
+      "gas:candidate-vibid:377300970435": 16,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -13944,14 +13944,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 760,
-      "Миненко Георгий Николаевич": 45,
-      "Монахов Валерий Федорович": 87,
-      "Морозов Антон Юрьевич": 52,
-      "Палащенко Максим Вячеславович": 16,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 25,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000226011": 760,
+      "gas:candidate-vibid:1001000121289": 45,
+      "gas:candidate-vibid:1001000121938": 87,
+      "gas:candidate-vibid:1001000136153": 52,
+      "gas:candidate-vibid:1001000195168": 16,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 25,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -14001,14 +14001,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 859,
-      "Миненко Георгий Николаевич": 32,
-      "Монахов Валерий Федорович": 102,
-      "Морозов Антон Юрьевич": 35,
-      "Палащенко Максим Вячеславович": 17,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 17,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000226011": 859,
+      "gas:candidate-vibid:1001000121289": 32,
+      "gas:candidate-vibid:1001000121938": 102,
+      "gas:candidate-vibid:1001000136153": 35,
+      "gas:candidate-vibid:1001000195168": 17,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 17,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -14058,14 +14058,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 863,
-      "Миненко Георгий Николаевич": 16,
-      "Монахов Валерий Федорович": 80,
-      "Морозов Антон Юрьевич": 49,
-      "Палащенко Максим Вячеславович": 12,
-      "Хрусталев Герман Александрович": 16,
-      "Шпигель Леонид Теодорович": 27,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000226011": 863,
+      "gas:candidate-vibid:1001000121289": 16,
+      "gas:candidate-vibid:1001000121938": 80,
+      "gas:candidate-vibid:1001000136153": 49,
+      "gas:candidate-vibid:1001000195168": 12,
+      "gas:candidate-vibid:377300970499": 16,
+      "gas:candidate-vibid:377300970435": 27,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -14115,14 +14115,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 989,
-      "Миненко Георгий Николаевич": 34,
-      "Монахов Валерий Федорович": 80,
-      "Морозов Антон Юрьевич": 48,
-      "Палащенко Максим Вячеславович": 9,
-      "Хрусталев Герман Александрович": 20,
-      "Шпигель Леонид Теодорович": 11,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000226011": 989,
+      "gas:candidate-vibid:1001000121289": 34,
+      "gas:candidate-vibid:1001000121938": 80,
+      "gas:candidate-vibid:1001000136153": 48,
+      "gas:candidate-vibid:1001000195168": 9,
+      "gas:candidate-vibid:377300970499": 20,
+      "gas:candidate-vibid:377300970435": 11,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",
@@ -14172,14 +14172,14 @@ export const duma_2003_uik_428_region_77_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Жуков Александр Дмитриевич": 943,
-      "Миненко Георгий Николаевич": 21,
-      "Монахов Валерий Федорович": 73,
-      "Морозов Антон Юрьевич": 38,
-      "Палащенко Максим Вячеславович": 7,
-      "Хрусталев Герман Александрович": 14,
-      "Шпигель Леонид Теодорович": 12,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000226011": 943,
+      "gas:candidate-vibid:1001000121289": 21,
+      "gas:candidate-vibid:1001000121938": 73,
+      "gas:candidate-vibid:1001000136153": 38,
+      "gas:candidate-vibid:1001000195168": 7,
+      "gas:candidate-vibid:377300970499": 14,
+      "gas:candidate-vibid:377300970435": 12,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773009008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300970406&region=0&sub_region=0&type=429",

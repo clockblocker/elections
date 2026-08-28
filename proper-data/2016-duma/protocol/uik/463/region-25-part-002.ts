@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 9,
-      "Долгачев Анатолий Николаевич": 17,
-      "Либанов Виталий Викторович": 5,
-      "Марковцев Николай Владимирович": 6,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 5,
-      "Сопчук Сергей Андреевич": 68,
-      "Черепков Виктор Иванович": 10
+      "gas:candidate-vibid:22520001065788": 9,
+      "gas:candidate-vibid:22520001122521": 17,
+      "gas:candidate-vibid:22520001123365": 5,
+      "gas:candidate-vibid:22520001123546": 6,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 5,
+      "gas:candidate-vibid:22520001121309": 68,
+      "gas:candidate-vibid:22520001122673": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 44,
-      "Долгачев Анатолий Николаевич": 43,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 46,
-      "Передня Александр Александрович": 33,
-      "Сопчук Сергей Андреевич": 176,
-      "Черепков Виктор Иванович": 24
+      "gas:candidate-vibid:22520001065788": 44,
+      "gas:candidate-vibid:22520001122521": 43,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 46,
+      "gas:candidate-vibid:22520001068729": 33,
+      "gas:candidate-vibid:22520001121309": 176,
+      "gas:candidate-vibid:22520001122673": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 36,
-      "Долгачев Анатолий Николаевич": 51,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 16,
-      "Передня Александр Александрович": 21,
-      "Сопчук Сергей Андреевич": 95,
-      "Черепков Виктор Иванович": 13
+      "gas:candidate-vibid:22520001065788": 36,
+      "gas:candidate-vibid:22520001122521": 51,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 16,
+      "gas:candidate-vibid:22520001068729": 21,
+      "gas:candidate-vibid:22520001121309": 95,
+      "gas:candidate-vibid:22520001122673": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 14,
-      "Долгачев Анатолий Николаевич": 29,
-      "Либанов Виталий Викторович": 5,
-      "Марковцев Николай Владимирович": 5,
-      "Пак Олег Игоревич": 9,
-      "Передня Александр Александрович": 8,
-      "Сопчук Сергей Андреевич": 109,
-      "Черепков Виктор Иванович": 10
+      "gas:candidate-vibid:22520001065788": 14,
+      "gas:candidate-vibid:22520001122521": 29,
+      "gas:candidate-vibid:22520001123365": 5,
+      "gas:candidate-vibid:22520001123546": 5,
+      "gas:candidate-vibid:22520001123419": 9,
+      "gas:candidate-vibid:22520001068729": 8,
+      "gas:candidate-vibid:22520001121309": 109,
+      "gas:candidate-vibid:22520001122673": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 69,
-      "Долгачев Анатолий Николаевич": 80,
-      "Либанов Виталий Викторович": 22,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 51,
-      "Передня Александр Александрович": 21,
-      "Сопчук Сергей Андреевич": 186,
-      "Черепков Виктор Иванович": 30
+      "gas:candidate-vibid:22520001065788": 69,
+      "gas:candidate-vibid:22520001122521": 80,
+      "gas:candidate-vibid:22520001123365": 22,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 51,
+      "gas:candidate-vibid:22520001068729": 21,
+      "gas:candidate-vibid:22520001121309": 186,
+      "gas:candidate-vibid:22520001122673": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 23,
-      "Долгачев Анатолий Николаевич": 22,
-      "Либанов Виталий Викторович": 8,
-      "Марковцев Николай Владимирович": 4,
-      "Пак Олег Игоревич": 13,
-      "Передня Александр Александрович": 9,
-      "Сопчук Сергей Андреевич": 79,
-      "Черепков Виктор Иванович": 4
+      "gas:candidate-vibid:22520001065788": 23,
+      "gas:candidate-vibid:22520001122521": 22,
+      "gas:candidate-vibid:22520001123365": 8,
+      "gas:candidate-vibid:22520001123546": 4,
+      "gas:candidate-vibid:22520001123419": 13,
+      "gas:candidate-vibid:22520001068729": 9,
+      "gas:candidate-vibid:22520001121309": 79,
+      "gas:candidate-vibid:22520001122673": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 12,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 8,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 49,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 12,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 8,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 49,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 29,
-      "Долгачев Анатолий Николаевич": 39,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 7,
-      "Пак Олег Игоревич": 28,
-      "Передня Александр Александрович": 15,
-      "Сопчук Сергей Андреевич": 171,
-      "Черепков Виктор Иванович": 25
+      "gas:candidate-vibid:22520001065788": 29,
+      "gas:candidate-vibid:22520001122521": 39,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 7,
+      "gas:candidate-vibid:22520001123419": 28,
+      "gas:candidate-vibid:22520001068729": 15,
+      "gas:candidate-vibid:22520001121309": 171,
+      "gas:candidate-vibid:22520001122673": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 13,
-      "Долгачев Анатолий Николаевич": 15,
-      "Либанов Виталий Викторович": 7,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 15,
-      "Передня Александр Александрович": 10,
-      "Сопчук Сергей Андреевич": 48,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 13,
+      "gas:candidate-vibid:22520001122521": 15,
+      "gas:candidate-vibid:22520001123365": 7,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 15,
+      "gas:candidate-vibid:22520001068729": 10,
+      "gas:candidate-vibid:22520001121309": 48,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 36,
-      "Долгачев Анатолий Николаевич": 36,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 21,
-      "Передня Александр Александрович": 19,
-      "Сопчук Сергей Андреевич": 119,
-      "Черепков Виктор Иванович": 27
+      "gas:candidate-vibid:22520001065788": 36,
+      "gas:candidate-vibid:22520001122521": 36,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 21,
+      "gas:candidate-vibid:22520001068729": 19,
+      "gas:candidate-vibid:22520001121309": 119,
+      "gas:candidate-vibid:22520001122673": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 54,
-      "Долгачев Анатолий Николаевич": 73,
-      "Либанов Виталий Викторович": 27,
-      "Марковцев Николай Владимирович": 20,
-      "Пак Олег Игоревич": 32,
-      "Передня Александр Александрович": 29,
-      "Сопчук Сергей Андреевич": 205,
-      "Черепков Виктор Иванович": 54
+      "gas:candidate-vibid:22520001065788": 54,
+      "gas:candidate-vibid:22520001122521": 73,
+      "gas:candidate-vibid:22520001123365": 27,
+      "gas:candidate-vibid:22520001123546": 20,
+      "gas:candidate-vibid:22520001123419": 32,
+      "gas:candidate-vibid:22520001068729": 29,
+      "gas:candidate-vibid:22520001121309": 205,
+      "gas:candidate-vibid:22520001122673": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 106,
-      "Долгачев Анатолий Николаевич": 164,
-      "Либанов Виталий Викторович": 39,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 80,
-      "Передня Александр Александрович": 74,
-      "Сопчук Сергей Андреевич": 383,
-      "Черепков Виктор Иванович": 88
+      "gas:candidate-vibid:22520001065788": 106,
+      "gas:candidate-vibid:22520001122521": 164,
+      "gas:candidate-vibid:22520001123365": 39,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 80,
+      "gas:candidate-vibid:22520001068729": 74,
+      "gas:candidate-vibid:22520001121309": 383,
+      "gas:candidate-vibid:22520001122673": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 14,
-      "Долгачев Анатолий Николаевич": 9,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 7,
-      "Пак Олег Игоревич": 8,
-      "Передня Александр Александрович": 6,
-      "Сопчук Сергей Андреевич": 46,
-      "Черепков Виктор Иванович": 8
+      "gas:candidate-vibid:22520001065788": 14,
+      "gas:candidate-vibid:22520001122521": 9,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 7,
+      "gas:candidate-vibid:22520001123419": 8,
+      "gas:candidate-vibid:22520001068729": 6,
+      "gas:candidate-vibid:22520001121309": 46,
+      "gas:candidate-vibid:22520001122673": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 35,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 10,
-      "Пак Олег Игоревич": 23,
-      "Передня Александр Александрович": 26,
-      "Сопчук Сергей Андреевич": 185,
-      "Черепков Виктор Иванович": 28
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 35,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 10,
+      "gas:candidate-vibid:22520001123419": 23,
+      "gas:candidate-vibid:22520001068729": 26,
+      "gas:candidate-vibid:22520001121309": 185,
+      "gas:candidate-vibid:22520001122673": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 57,
-      "Долгачев Анатолий Николаевич": 49,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 15,
-      "Пак Олег Игоревич": 36,
-      "Передня Александр Александрович": 36,
-      "Сопчук Сергей Андреевич": 247,
-      "Черепков Виктор Иванович": 39
+      "gas:candidate-vibid:22520001065788": 57,
+      "gas:candidate-vibid:22520001122521": 49,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 15,
+      "gas:candidate-vibid:22520001123419": 36,
+      "gas:candidate-vibid:22520001068729": 36,
+      "gas:candidate-vibid:22520001121309": 247,
+      "gas:candidate-vibid:22520001122673": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 75,
-      "Долгачев Анатолий Николаевич": 51,
-      "Либанов Виталий Викторович": 26,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 30,
-      "Передня Александр Александрович": 57,
-      "Сопчук Сергей Андреевич": 239,
-      "Черепков Виктор Иванович": 51
+      "gas:candidate-vibid:22520001065788": 75,
+      "gas:candidate-vibid:22520001122521": 51,
+      "gas:candidate-vibid:22520001123365": 26,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 30,
+      "gas:candidate-vibid:22520001068729": 57,
+      "gas:candidate-vibid:22520001121309": 239,
+      "gas:candidate-vibid:22520001122673": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 49,
-      "Долгачев Анатолий Николаевич": 62,
-      "Либанов Виталий Викторович": 22,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 34,
-      "Передня Александр Александрович": 29,
-      "Сопчук Сергей Андреевич": 179,
-      "Черепков Виктор Иванович": 38
+      "gas:candidate-vibid:22520001065788": 49,
+      "gas:candidate-vibid:22520001122521": 62,
+      "gas:candidate-vibid:22520001123365": 22,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 34,
+      "gas:candidate-vibid:22520001068729": 29,
+      "gas:candidate-vibid:22520001121309": 179,
+      "gas:candidate-vibid:22520001122673": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 22,
-      "Долгачев Анатолий Николаевич": 19,
-      "Либанов Виталий Викторович": 4,
-      "Марковцев Николай Владимирович": 3,
-      "Пак Олег Игоревич": 9,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 57,
-      "Черепков Виктор Иванович": 7
+      "gas:candidate-vibid:22520001065788": 22,
+      "gas:candidate-vibid:22520001122521": 19,
+      "gas:candidate-vibid:22520001123365": 4,
+      "gas:candidate-vibid:22520001123546": 3,
+      "gas:candidate-vibid:22520001123419": 9,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 57,
+      "gas:candidate-vibid:22520001122673": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 42,
-      "Долгачев Анатолий Николаевич": 86,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 7,
-      "Пак Олег Игоревич": 41,
-      "Передня Александр Александрович": 19,
-      "Сопчук Сергей Андреевич": 210,
-      "Черепков Виктор Иванович": 29
+      "gas:candidate-vibid:22520001065788": 42,
+      "gas:candidate-vibid:22520001122521": 86,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 7,
+      "gas:candidate-vibid:22520001123419": 41,
+      "gas:candidate-vibid:22520001068729": 19,
+      "gas:candidate-vibid:22520001121309": 210,
+      "gas:candidate-vibid:22520001122673": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 75,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 9,
-      "Пак Олег Игоревич": 47,
-      "Передня Александр Александрович": 22,
-      "Сопчук Сергей Андреевич": 177,
-      "Черепков Виктор Иванович": 13
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 75,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 9,
+      "gas:candidate-vibid:22520001123419": 47,
+      "gas:candidate-vibid:22520001068729": 22,
+      "gas:candidate-vibid:22520001121309": 177,
+      "gas:candidate-vibid:22520001122673": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 61,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 8,
-      "Пак Олег Игоревич": 41,
-      "Передня Александр Александрович": 30,
-      "Сопчук Сергей Андреевич": 227,
-      "Черепков Виктор Иванович": 35
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 61,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 8,
+      "gas:candidate-vibid:22520001123419": 41,
+      "gas:candidate-vibid:22520001068729": 30,
+      "gas:candidate-vibid:22520001121309": 227,
+      "gas:candidate-vibid:22520001122673": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 43,
-      "Долгачев Анатолий Николаевич": 64,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 9,
-      "Пак Олег Игоревич": 29,
-      "Передня Александр Александрович": 19,
-      "Сопчук Сергей Андреевич": 219,
-      "Черепков Виктор Иванович": 26
+      "gas:candidate-vibid:22520001065788": 43,
+      "gas:candidate-vibid:22520001122521": 64,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 9,
+      "gas:candidate-vibid:22520001123419": 29,
+      "gas:candidate-vibid:22520001068729": 19,
+      "gas:candidate-vibid:22520001121309": 219,
+      "gas:candidate-vibid:22520001122673": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 14,
-      "Долгачев Анатолий Николаевич": 16,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 18,
-      "Передня Александр Александрович": 9,
-      "Сопчук Сергей Андреевич": 104,
-      "Черепков Виктор Иванович": 7
+      "gas:candidate-vibid:22520001065788": 14,
+      "gas:candidate-vibid:22520001122521": 16,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 18,
+      "gas:candidate-vibid:22520001068729": 9,
+      "gas:candidate-vibid:22520001121309": 104,
+      "gas:candidate-vibid:22520001122673": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999730&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999730&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 85,
-      "Долгачев Анатолий Николаевич": 105,
-      "Либанов Виталий Викторович": 31,
-      "Марковцев Николай Владимирович": 50,
-      "Пак Олег Игоревич": 126,
-      "Передня Александр Александрович": 72,
-      "Сопчук Сергей Андреевич": 150,
-      "Черепков Виктор Иванович": 92
+      "gas:candidate-vibid:22520001065788": 85,
+      "gas:candidate-vibid:22520001122521": 105,
+      "gas:candidate-vibid:22520001123365": 31,
+      "gas:candidate-vibid:22520001123546": 50,
+      "gas:candidate-vibid:22520001123419": 126,
+      "gas:candidate-vibid:22520001068729": 72,
+      "gas:candidate-vibid:22520001121309": 150,
+      "gas:candidate-vibid:22520001122673": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 89,
-      "Долгачев Анатолий Николаевич": 96,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 36,
-      "Пак Олег Игоревич": 83,
-      "Передня Александр Александрович": 107,
-      "Сопчук Сергей Андреевич": 136,
-      "Черепков Виктор Иванович": 89
+      "gas:candidate-vibid:22520001065788": 89,
+      "gas:candidate-vibid:22520001122521": 96,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 36,
+      "gas:candidate-vibid:22520001123419": 83,
+      "gas:candidate-vibid:22520001068729": 107,
+      "gas:candidate-vibid:22520001121309": 136,
+      "gas:candidate-vibid:22520001122673": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 67,
-      "Долгачев Анатолий Николаевич": 89,
-      "Либанов Виталий Викторович": 31,
-      "Марковцев Николай Владимирович": 37,
-      "Пак Олег Игоревич": 53,
-      "Передня Александр Александрович": 102,
-      "Сопчук Сергей Андреевич": 152,
-      "Черепков Виктор Иванович": 65
+      "gas:candidate-vibid:22520001065788": 67,
+      "gas:candidate-vibid:22520001122521": 89,
+      "gas:candidate-vibid:22520001123365": 31,
+      "gas:candidate-vibid:22520001123546": 37,
+      "gas:candidate-vibid:22520001123419": 53,
+      "gas:candidate-vibid:22520001068729": 102,
+      "gas:candidate-vibid:22520001121309": 152,
+      "gas:candidate-vibid:22520001122673": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 92,
-      "Долгачев Анатолий Николаевич": 89,
-      "Либанов Виталий Викторович": 25,
-      "Марковцев Николай Владимирович": 18,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 87,
-      "Сопчук Сергей Андреевич": 125,
-      "Черепков Виктор Иванович": 75
+      "gas:candidate-vibid:22520001065788": 92,
+      "gas:candidate-vibid:22520001122521": 89,
+      "gas:candidate-vibid:22520001123365": 25,
+      "gas:candidate-vibid:22520001123546": 18,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 87,
+      "gas:candidate-vibid:22520001121309": 125,
+      "gas:candidate-vibid:22520001122673": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 45,
-      "Долгачев Анатолий Николаевич": 86,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 65,
-      "Передня Александр Александрович": 101,
-      "Сопчук Сергей Андреевич": 148,
-      "Черепков Виктор Иванович": 65
+      "gas:candidate-vibid:22520001065788": 45,
+      "gas:candidate-vibid:22520001122521": 86,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 65,
+      "gas:candidate-vibid:22520001068729": 101,
+      "gas:candidate-vibid:22520001121309": 148,
+      "gas:candidate-vibid:22520001122673": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 71,
-      "Долгачев Анатолий Николаевич": 138,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 55,
-      "Пак Олег Игоревич": 97,
-      "Передня Александр Александрович": 141,
-      "Сопчук Сергей Андреевич": 150,
-      "Черепков Виктор Иванович": 86
+      "gas:candidate-vibid:22520001065788": 71,
+      "gas:candidate-vibid:22520001122521": 138,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 55,
+      "gas:candidate-vibid:22520001123419": 97,
+      "gas:candidate-vibid:22520001068729": 141,
+      "gas:candidate-vibid:22520001121309": 150,
+      "gas:candidate-vibid:22520001122673": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 37,
-      "Долгачев Анатолий Николаевич": 61,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 25,
-      "Пак Олег Игоревич": 62,
-      "Передня Александр Александрович": 64,
-      "Сопчук Сергей Андреевич": 75,
-      "Черепков Виктор Иванович": 41
+      "gas:candidate-vibid:22520001065788": 37,
+      "gas:candidate-vibid:22520001122521": 61,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 25,
+      "gas:candidate-vibid:22520001123419": 62,
+      "gas:candidate-vibid:22520001068729": 64,
+      "gas:candidate-vibid:22520001121309": 75,
+      "gas:candidate-vibid:22520001122673": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 26,
-      "Долгачев Анатолий Николаевич": 54,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 50,
-      "Передня Александр Александрович": 54,
-      "Сопчук Сергей Андреевич": 67,
-      "Черепков Виктор Иванович": 45
+      "gas:candidate-vibid:22520001065788": 26,
+      "gas:candidate-vibid:22520001122521": 54,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 50,
+      "gas:candidate-vibid:22520001068729": 54,
+      "gas:candidate-vibid:22520001121309": 67,
+      "gas:candidate-vibid:22520001122673": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 20,
-      "Долгачев Анатолий Николаевич": 46,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 27,
-      "Пак Олег Игоревич": 54,
-      "Передня Александр Александрович": 70,
-      "Сопчук Сергей Андреевич": 57,
-      "Черепков Виктор Иванович": 29
+      "gas:candidate-vibid:22520001065788": 20,
+      "gas:candidate-vibid:22520001122521": 46,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 27,
+      "gas:candidate-vibid:22520001123419": 54,
+      "gas:candidate-vibid:22520001068729": 70,
+      "gas:candidate-vibid:22520001121309": 57,
+      "gas:candidate-vibid:22520001122673": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 23,
-      "Долгачев Анатолий Николаевич": 27,
-      "Либанов Виталий Викторович": 6,
-      "Марковцев Николай Владимирович": 11,
-      "Пак Олег Игоревич": 20,
-      "Передня Александр Александрович": 33,
-      "Сопчук Сергей Андреевич": 42,
-      "Черепков Виктор Иванович": 36
+      "gas:candidate-vibid:22520001065788": 23,
+      "gas:candidate-vibid:22520001122521": 27,
+      "gas:candidate-vibid:22520001123365": 6,
+      "gas:candidate-vibid:22520001123546": 11,
+      "gas:candidate-vibid:22520001123419": 20,
+      "gas:candidate-vibid:22520001068729": 33,
+      "gas:candidate-vibid:22520001121309": 42,
+      "gas:candidate-vibid:22520001122673": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 14,
-      "Долгачев Анатолий Николаевич": 13,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 13,
-      "Пак Олег Игоревич": 18,
-      "Передня Александр Александрович": 29,
-      "Сопчук Сергей Андреевич": 33,
-      "Черепков Виктор Иванович": 20
+      "gas:candidate-vibid:22520001065788": 14,
+      "gas:candidate-vibid:22520001122521": 13,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 13,
+      "gas:candidate-vibid:22520001123419": 18,
+      "gas:candidate-vibid:22520001068729": 29,
+      "gas:candidate-vibid:22520001121309": 33,
+      "gas:candidate-vibid:22520001122673": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 58,
-      "Долгачев Анатолий Николаевич": 50,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 24,
-      "Пак Олег Игоревич": 51,
-      "Передня Александр Александрович": 48,
-      "Сопчук Сергей Андреевич": 54,
-      "Черепков Виктор Иванович": 41
+      "gas:candidate-vibid:22520001065788": 58,
+      "gas:candidate-vibid:22520001122521": 50,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 24,
+      "gas:candidate-vibid:22520001123419": 51,
+      "gas:candidate-vibid:22520001068729": 48,
+      "gas:candidate-vibid:22520001121309": 54,
+      "gas:candidate-vibid:22520001122673": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 28,
-      "Долгачев Анатолий Николаевич": 71,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 32,
-      "Пак Олег Игоревич": 52,
-      "Передня Александр Александрович": 57,
-      "Сопчук Сергей Андреевич": 69,
-      "Черепков Виктор Иванович": 49
+      "gas:candidate-vibid:22520001065788": 28,
+      "gas:candidate-vibid:22520001122521": 71,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 32,
+      "gas:candidate-vibid:22520001123419": 52,
+      "gas:candidate-vibid:22520001068729": 57,
+      "gas:candidate-vibid:22520001121309": 69,
+      "gas:candidate-vibid:22520001122673": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 53,
-      "Долгачев Анатолий Николаевич": 77,
-      "Либанов Виталий Викторович": 22,
-      "Марковцев Николай Владимирович": 27,
-      "Пак Олег Игоревич": 75,
-      "Передня Александр Александрович": 150,
-      "Сопчук Сергей Андреевич": 115,
-      "Черепков Виктор Иванович": 86
+      "gas:candidate-vibid:22520001065788": 53,
+      "gas:candidate-vibid:22520001122521": 77,
+      "gas:candidate-vibid:22520001123365": 22,
+      "gas:candidate-vibid:22520001123546": 27,
+      "gas:candidate-vibid:22520001123419": 75,
+      "gas:candidate-vibid:22520001068729": 150,
+      "gas:candidate-vibid:22520001121309": 115,
+      "gas:candidate-vibid:22520001122673": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 100,
-      "Либанов Виталий Викторович": 30,
-      "Марковцев Николай Владимирович": 34,
-      "Пак Олег Игоревич": 66,
-      "Передня Александр Александрович": 125,
-      "Сопчук Сергей Андреевич": 89,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 100,
+      "gas:candidate-vibid:22520001123365": 30,
+      "gas:candidate-vibid:22520001123546": 34,
+      "gas:candidate-vibid:22520001123419": 66,
+      "gas:candidate-vibid:22520001068729": 125,
+      "gas:candidate-vibid:22520001121309": 89,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 34,
-      "Долгачев Анатолий Николаевич": 95,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 23,
-      "Пак Олег Игоревич": 61,
-      "Передня Александр Александрович": 109,
-      "Сопчук Сергей Андреевич": 66,
-      "Черепков Виктор Иванович": 55
+      "gas:candidate-vibid:22520001065788": 34,
+      "gas:candidate-vibid:22520001122521": 95,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 23,
+      "gas:candidate-vibid:22520001123419": 61,
+      "gas:candidate-vibid:22520001068729": 109,
+      "gas:candidate-vibid:22520001121309": 66,
+      "gas:candidate-vibid:22520001122673": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 32,
-      "Долгачев Анатолий Николаевич": 79,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 26,
-      "Пак Олег Игоревич": 49,
-      "Передня Александр Александрович": 106,
-      "Сопчук Сергей Андреевич": 88,
-      "Черепков Виктор Иванович": 44
+      "gas:candidate-vibid:22520001065788": 32,
+      "gas:candidate-vibid:22520001122521": 79,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 26,
+      "gas:candidate-vibid:22520001123419": 49,
+      "gas:candidate-vibid:22520001068729": 106,
+      "gas:candidate-vibid:22520001121309": 88,
+      "gas:candidate-vibid:22520001122673": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 61,
-      "Долгачев Анатолий Николаевич": 115,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 58,
-      "Передня Александр Александрович": 145,
-      "Сопчук Сергей Андреевич": 122,
-      "Черепков Виктор Иванович": 72
+      "gas:candidate-vibid:22520001065788": 61,
+      "gas:candidate-vibid:22520001122521": 115,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 58,
+      "gas:candidate-vibid:22520001068729": 145,
+      "gas:candidate-vibid:22520001121309": 122,
+      "gas:candidate-vibid:22520001122673": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 20,
-      "Долгачев Анатолий Николаевич": 53,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 9,
-      "Пак Олег Игоревич": 23,
-      "Передня Александр Александрович": 74,
-      "Сопчук Сергей Андреевич": 37,
-      "Черепков Виктор Иванович": 44
+      "gas:candidate-vibid:22520001065788": 20,
+      "gas:candidate-vibid:22520001122521": 53,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 9,
+      "gas:candidate-vibid:22520001123419": 23,
+      "gas:candidate-vibid:22520001068729": 74,
+      "gas:candidate-vibid:22520001121309": 37,
+      "gas:candidate-vibid:22520001122673": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 45,
-      "Долгачев Анатолий Николаевич": 80,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 26,
-      "Пак Олег Игоревич": 67,
-      "Передня Александр Александрович": 95,
-      "Сопчук Сергей Андреевич": 115,
-      "Черепков Виктор Иванович": 67
+      "gas:candidate-vibid:22520001065788": 45,
+      "gas:candidate-vibid:22520001122521": 80,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 26,
+      "gas:candidate-vibid:22520001123419": 67,
+      "gas:candidate-vibid:22520001068729": 95,
+      "gas:candidate-vibid:22520001121309": 115,
+      "gas:candidate-vibid:22520001122673": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 58,
-      "Долгачев Анатолий Николаевич": 137,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 32,
-      "Пак Олег Игоревич": 55,
-      "Передня Александр Александрович": 106,
-      "Сопчук Сергей Андреевич": 135,
-      "Черепков Виктор Иванович": 77
+      "gas:candidate-vibid:22520001065788": 58,
+      "gas:candidate-vibid:22520001122521": 137,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 32,
+      "gas:candidate-vibid:22520001123419": 55,
+      "gas:candidate-vibid:22520001068729": 106,
+      "gas:candidate-vibid:22520001121309": 135,
+      "gas:candidate-vibid:22520001122673": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 64,
-      "Долгачев Анатолий Николаевич": 118,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 28,
-      "Пак Олег Игоревич": 60,
-      "Передня Александр Александрович": 106,
-      "Сопчук Сергей Андреевич": 112,
-      "Черепков Виктор Иванович": 53
+      "gas:candidate-vibid:22520001065788": 64,
+      "gas:candidate-vibid:22520001122521": 118,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 28,
+      "gas:candidate-vibid:22520001123419": 60,
+      "gas:candidate-vibid:22520001068729": 106,
+      "gas:candidate-vibid:22520001121309": 112,
+      "gas:candidate-vibid:22520001122673": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 19,
-      "Долгачев Анатолий Николаевич": 12,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 7,
-      "Пак Олег Игоревич": 8,
-      "Передня Александр Александрович": 23,
-      "Сопчук Сергей Андреевич": 31,
-      "Черепков Виктор Иванович": 7
+      "gas:candidate-vibid:22520001065788": 19,
+      "gas:candidate-vibid:22520001122521": 12,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 7,
+      "gas:candidate-vibid:22520001123419": 8,
+      "gas:candidate-vibid:22520001068729": 23,
+      "gas:candidate-vibid:22520001121309": 31,
+      "gas:candidate-vibid:22520001122673": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 61,
-      "Долгачев Анатолий Николаевич": 36,
-      "Либанов Виталий Викторович": 6,
-      "Марковцев Николай Владимирович": 8,
-      "Пак Олег Игоревич": 33,
-      "Передня Александр Александрович": 38,
-      "Сопчук Сергей Андреевич": 109,
-      "Черепков Виктор Иванович": 24
+      "gas:candidate-vibid:22520001065788": 61,
+      "gas:candidate-vibid:22520001122521": 36,
+      "gas:candidate-vibid:22520001123365": 6,
+      "gas:candidate-vibid:22520001123546": 8,
+      "gas:candidate-vibid:22520001123419": 33,
+      "gas:candidate-vibid:22520001068729": 38,
+      "gas:candidate-vibid:22520001121309": 109,
+      "gas:candidate-vibid:22520001122673": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 86,
-      "Долгачев Анатолий Николаевич": 53,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 43,
-      "Передня Александр Александрович": 60,
-      "Сопчук Сергей Андреевич": 131,
-      "Черепков Виктор Иванович": 22
+      "gas:candidate-vibid:22520001065788": 86,
+      "gas:candidate-vibid:22520001122521": 53,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 43,
+      "gas:candidate-vibid:22520001068729": 60,
+      "gas:candidate-vibid:22520001121309": 131,
+      "gas:candidate-vibid:22520001122673": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 18,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 7,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 9,
-      "Передня Александр Александрович": 16,
-      "Сопчук Сергей Андреевич": 63,
-      "Черепков Виктор Иванович": 16
+      "gas:candidate-vibid:22520001065788": 18,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 7,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 9,
+      "gas:candidate-vibid:22520001068729": 16,
+      "gas:candidate-vibid:22520001121309": 63,
+      "gas:candidate-vibid:22520001122673": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 16,
-      "Либанов Виталий Викторович": 5,
-      "Марковцев Николай Владимирович": 3,
-      "Пак Олег Игоревич": 16,
-      "Передня Александр Александрович": 15,
-      "Сопчук Сергей Андреевич": 27,
-      "Черепков Виктор Иванович": 7
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 16,
+      "gas:candidate-vibid:22520001123365": 5,
+      "gas:candidate-vibid:22520001123546": 3,
+      "gas:candidate-vibid:22520001123419": 16,
+      "gas:candidate-vibid:22520001068729": 15,
+      "gas:candidate-vibid:22520001121309": 27,
+      "gas:candidate-vibid:22520001122673": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 66,
-      "Долгачев Анатолий Николаевич": 44,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 18,
-      "Пак Олег Игоревич": 60,
-      "Передня Александр Александрович": 26,
-      "Сопчук Сергей Андреевич": 179,
-      "Черепков Виктор Иванович": 23
+      "gas:candidate-vibid:22520001065788": 66,
+      "gas:candidate-vibid:22520001122521": 44,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 18,
+      "gas:candidate-vibid:22520001123419": 60,
+      "gas:candidate-vibid:22520001068729": 26,
+      "gas:candidate-vibid:22520001121309": 179,
+      "gas:candidate-vibid:22520001122673": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 15,
-      "Долгачев Анатолий Николаевич": 10,
-      "Либанов Виталий Викторович": 4,
-      "Марковцев Николай Владимирович": 8,
-      "Пак Олег Игоревич": 20,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 36,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 15,
+      "gas:candidate-vibid:22520001122521": 10,
+      "gas:candidate-vibid:22520001123365": 4,
+      "gas:candidate-vibid:22520001123546": 8,
+      "gas:candidate-vibid:22520001123419": 20,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 36,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 12,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 12,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 11,
-      "Долгачев Анатолий Николаевич": 9,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 6,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 11,
-      "Черепков Виктор Иванович": 6
+      "gas:candidate-vibid:22520001065788": 11,
+      "gas:candidate-vibid:22520001122521": 9,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 6,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 11,
+      "gas:candidate-vibid:22520001122673": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 8,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 5,
-      "Сопчук Сергей Андреевич": 4,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 8,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 5,
+      "gas:candidate-vibid:22520001121309": 4,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 8,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 8,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 4
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 6,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 4,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 6,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 4,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 7,
-      "Долгачев Анатолий Николаевич": 7,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 5,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 7,
+      "gas:candidate-vibid:22520001122521": 7,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 5,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 12,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 12,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 13,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 13,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 5,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 2,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 5,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 2,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 10
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 36,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 6,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 24,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 36,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 6,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 24,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 14,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 14,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 3,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 4,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 3,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 4,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 7,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 4,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 7,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 4,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 3,
-      "Пак Олег Игоревич": 6,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 3,
+      "gas:candidate-vibid:22520001123419": 6,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 7,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 5,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 7,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 5,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 6
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 30,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 30,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 11,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 44,
-      "Черепков Виктор Иванович": 6
+      "gas:candidate-vibid:22520001065788": 11,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 44,
+      "gas:candidate-vibid:22520001122673": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 29,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 29,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 7,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 8,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 44,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 7,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 8,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 44,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 15,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 15,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 21,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 21,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 8,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 8,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 14,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 14,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 19,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 19,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 4
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 12,
-      "Либанов Виталий Викторович": 10,
-      "Марковцев Николай Владимирович": 9,
-      "Пак Олег Игоревич": 11,
-      "Передня Александр Александрович": 14,
-      "Сопчук Сергей Андреевич": 258,
-      "Черепков Виктор Иванович": 9
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 12,
+      "gas:candidate-vibid:22520001123365": 10,
+      "gas:candidate-vibid:22520001123546": 9,
+      "gas:candidate-vibid:22520001123419": 11,
+      "gas:candidate-vibid:22520001068729": 14,
+      "gas:candidate-vibid:22520001121309": 258,
+      "gas:candidate-vibid:22520001122673": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 15,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 15,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 14,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 14,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 63,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 15
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 63,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 16,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 16,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 13,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 13,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 4,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 4,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 6,
-      "Передня Александр Александрович": 5,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 4
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 6,
+      "gas:candidate-vibid:22520001068729": 5,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 6
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 11,
-      "Долгачев Анатолий Николаевич": 7,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 9,
-      "Пак Олег Игоревич": 5,
-      "Передня Александр Александрович": 10,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 11,
+      "gas:candidate-vibid:22520001122521": 7,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 9,
+      "gas:candidate-vibid:22520001123419": 5,
+      "gas:candidate-vibid:22520001068729": 10,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 26,
-      "Долгачев Анатолий Николаевич": 8,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 5,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 14,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 26,
+      "gas:candidate-vibid:22520001122521": 8,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 5,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 14,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 10,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 10,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 6,
-      "Передня Александр Александрович": 5,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 6,
+      "gas:candidate-vibid:22520001068729": 5,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 6,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 6,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 5,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 5,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 5,
-      "Либанов Виталий Викторович": 8,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 10,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 5,
+      "gas:candidate-vibid:22520001123365": 8,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 10,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 11,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 5,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 11,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 5,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 9,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 9,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 6,
-      "Сопчук Сергей Андреевич": 20,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 6,
+      "gas:candidate-vibid:22520001121309": 20,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 34,
-      "Долгачев Анатолий Николаевич": 20,
-      "Либанов Виталий Викторович": 5,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 17,
-      "Передня Александр Александрович": 16,
-      "Сопчук Сергей Андреевич": 38,
-      "Черепков Виктор Иванович": 9
+      "gas:candidate-vibid:22520001065788": 34,
+      "gas:candidate-vibid:22520001122521": 20,
+      "gas:candidate-vibid:22520001123365": 5,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 17,
+      "gas:candidate-vibid:22520001068729": 16,
+      "gas:candidate-vibid:22520001121309": 38,
+      "gas:candidate-vibid:22520001122673": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 6
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 4,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 4,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 4,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 4,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 6,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 6,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 23,
-      "Долгачев Анатолий Николаевич": 6,
-      "Либанов Виталий Викторович": 7,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 3,
-      "Передня Александр Александрович": 10,
-      "Сопчук Сергей Андреевич": 12,
-      "Черепков Виктор Иванович": 6
+      "gas:candidate-vibid:22520001065788": 23,
+      "gas:candidate-vibid:22520001122521": 6,
+      "gas:candidate-vibid:22520001123365": 7,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 3,
+      "gas:candidate-vibid:22520001068729": 10,
+      "gas:candidate-vibid:22520001121309": 12,
+      "gas:candidate-vibid:22520001122673": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 15,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 4,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 9,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 24,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 15,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 4,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 9,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 24,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 8,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 14
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 8,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 12,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 6,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 7,
-      "Сопчук Сергей Андреевич": 6,
-      "Черепков Виктор Иванович": 9
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 12,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 6,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 7,
+      "gas:candidate-vibid:22520001121309": 6,
+      "gas:candidate-vibid:22520001122673": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 3,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 2,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 3,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 2,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 7,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 13,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 7,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 13,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 8,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 3,
-      "Сопчук Сергей Андреевич": 7,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 8,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 3,
+      "gas:candidate-vibid:22520001121309": 7,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 19,
-      "Сопчук Сергей Андреевич": 2,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 19,
+      "gas:candidate-vibid:22520001121309": 2,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 18,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 18,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 11,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 11,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 5,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 5,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 4,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 4,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 0,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 8
+      "gas:candidate-vibid:22520001065788": 0,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 4,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 5,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 4,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 5,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 2,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 2,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 9,
-      "Долгачев Анатолий Николаевич": 6,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 8,
-      "Сопчук Сергей Андреевич": 9,
-      "Черепков Виктор Иванович": 4
+      "gas:candidate-vibid:22520001065788": 9,
+      "gas:candidate-vibid:22520001122521": 6,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 8,
+      "gas:candidate-vibid:22520001121309": 9,
+      "gas:candidate-vibid:22520001122673": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 13,
-      "Долгачев Анатолий Николаевич": 2,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 13,
+      "gas:candidate-vibid:22520001122521": 2,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 19,
-      "Долгачев Анатолий Николаевич": 0,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 0,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 19,
+      "gas:candidate-vibid:22520001122521": 0,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 0,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999731&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999731&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 76,
-      "Долгачев Анатолий Николаевич": 73,
-      "Либанов Виталий Викторович": 22,
-      "Марковцев Николай Владимирович": 36,
-      "Пак Олег Игоревич": 70,
-      "Передня Александр Александрович": 98,
-      "Сопчук Сергей Андреевич": 164,
-      "Черепков Виктор Иванович": 96
+      "gas:candidate-vibid:22520001065788": 76,
+      "gas:candidate-vibid:22520001122521": 73,
+      "gas:candidate-vibid:22520001123365": 22,
+      "gas:candidate-vibid:22520001123546": 36,
+      "gas:candidate-vibid:22520001123419": 70,
+      "gas:candidate-vibid:22520001068729": 98,
+      "gas:candidate-vibid:22520001121309": 164,
+      "gas:candidate-vibid:22520001122673": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 52,
-      "Долгачев Анатолий Николаевич": 64,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 26,
-      "Пак Олег Игоревич": 34,
-      "Передня Александр Александрович": 62,
-      "Сопчук Сергей Андреевич": 89,
-      "Черепков Виктор Иванович": 70
+      "gas:candidate-vibid:22520001065788": 52,
+      "gas:candidate-vibid:22520001122521": 64,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 26,
+      "gas:candidate-vibid:22520001123419": 34,
+      "gas:candidate-vibid:22520001068729": 62,
+      "gas:candidate-vibid:22520001121309": 89,
+      "gas:candidate-vibid:22520001122673": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 68,
-      "Долгачев Анатолий Николаевич": 84,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 29,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 84,
-      "Сопчук Сергей Андреевич": 194,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 68,
+      "gas:candidate-vibid:22520001122521": 84,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 29,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 84,
+      "gas:candidate-vibid:22520001121309": 194,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 62,
-      "Долгачев Анатолий Николаевич": 72,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 39,
-      "Пак Олег Игоревич": 48,
-      "Передня Александр Александрович": 90,
-      "Сопчук Сергей Андреевич": 118,
-      "Черепков Виктор Иванович": 77
+      "gas:candidate-vibid:22520001065788": 62,
+      "gas:candidate-vibid:22520001122521": 72,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 39,
+      "gas:candidate-vibid:22520001123419": 48,
+      "gas:candidate-vibid:22520001068729": 90,
+      "gas:candidate-vibid:22520001121309": 118,
+      "gas:candidate-vibid:22520001122673": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 61,
-      "Долгачев Анатолий Николаевич": 66,
-      "Либанов Виталий Викторович": 10,
-      "Марковцев Николай Владимирович": 29,
-      "Пак Олег Игоревич": 39,
-      "Передня Александр Александрович": 53,
-      "Сопчук Сергей Андреевич": 95,
-      "Черепков Виктор Иванович": 59
+      "gas:candidate-vibid:22520001065788": 61,
+      "gas:candidate-vibid:22520001122521": 66,
+      "gas:candidate-vibid:22520001123365": 10,
+      "gas:candidate-vibid:22520001123546": 29,
+      "gas:candidate-vibid:22520001123419": 39,
+      "gas:candidate-vibid:22520001068729": 53,
+      "gas:candidate-vibid:22520001121309": 95,
+      "gas:candidate-vibid:22520001122673": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 59,
-      "Долгачев Анатолий Николаевич": 88,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 26,
-      "Пак Олег Игоревич": 61,
-      "Передня Александр Александрович": 85,
-      "Сопчук Сергей Андреевич": 129,
-      "Черепков Виктор Иванович": 90
+      "gas:candidate-vibid:22520001065788": 59,
+      "gas:candidate-vibid:22520001122521": 88,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 26,
+      "gas:candidate-vibid:22520001123419": 61,
+      "gas:candidate-vibid:22520001068729": 85,
+      "gas:candidate-vibid:22520001121309": 129,
+      "gas:candidate-vibid:22520001122673": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 57,
-      "Долгачев Анатолий Николаевич": 78,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 36,
-      "Пак Олег Игоревич": 65,
-      "Передня Александр Александрович": 102,
-      "Сопчук Сергей Андреевич": 133,
-      "Черепков Виктор Иванович": 93
+      "gas:candidate-vibid:22520001065788": 57,
+      "gas:candidate-vibid:22520001122521": 78,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 36,
+      "gas:candidate-vibid:22520001123419": 65,
+      "gas:candidate-vibid:22520001068729": 102,
+      "gas:candidate-vibid:22520001121309": 133,
+      "gas:candidate-vibid:22520001122673": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 51,
-      "Долгачев Анатолий Николаевич": 66,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 55,
-      "Передня Александр Александрович": 60,
-      "Сопчук Сергей Андреевич": 128,
-      "Черепков Виктор Иванович": 68
+      "gas:candidate-vibid:22520001065788": 51,
+      "gas:candidate-vibid:22520001122521": 66,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 55,
+      "gas:candidate-vibid:22520001068729": 60,
+      "gas:candidate-vibid:22520001121309": 128,
+      "gas:candidate-vibid:22520001122673": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 99,
-      "Долгачев Анатолий Николаевич": 96,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 37,
-      "Пак Олег Игоревич": 63,
-      "Передня Александр Александрович": 127,
-      "Сопчук Сергей Андреевич": 157,
-      "Черепков Виктор Иванович": 96
+      "gas:candidate-vibid:22520001065788": 99,
+      "gas:candidate-vibid:22520001122521": 96,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 37,
+      "gas:candidate-vibid:22520001123419": 63,
+      "gas:candidate-vibid:22520001068729": 127,
+      "gas:candidate-vibid:22520001121309": 157,
+      "gas:candidate-vibid:22520001122673": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 112,
-      "Долгачев Анатолий Николаевич": 133,
-      "Либанов Виталий Викторович": 26,
-      "Марковцев Николай Владимирович": 37,
-      "Пак Олег Игоревич": 98,
-      "Передня Александр Александрович": 74,
-      "Сопчук Сергей Андреевич": 247,
-      "Черепков Виктор Иванович": 108
+      "gas:candidate-vibid:22520001065788": 112,
+      "gas:candidate-vibid:22520001122521": 133,
+      "gas:candidate-vibid:22520001123365": 26,
+      "gas:candidate-vibid:22520001123546": 37,
+      "gas:candidate-vibid:22520001123419": 98,
+      "gas:candidate-vibid:22520001068729": 74,
+      "gas:candidate-vibid:22520001121309": 247,
+      "gas:candidate-vibid:22520001122673": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 78,
-      "Долгачев Анатолий Николаевич": 83,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 24,
-      "Пак Олег Игоревич": 51,
-      "Передня Александр Александрович": 81,
-      "Сопчук Сергей Андреевич": 191,
-      "Черепков Виктор Иванович": 81
+      "gas:candidate-vibid:22520001065788": 78,
+      "gas:candidate-vibid:22520001122521": 83,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 24,
+      "gas:candidate-vibid:22520001123419": 51,
+      "gas:candidate-vibid:22520001068729": 81,
+      "gas:candidate-vibid:22520001121309": 191,
+      "gas:candidate-vibid:22520001122673": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 71,
-      "Долгачев Анатолий Николаевич": 108,
-      "Либанов Виталий Викторович": 24,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 68,
-      "Передня Александр Александрович": 63,
-      "Сопчук Сергей Андреевич": 143,
-      "Черепков Виктор Иванович": 73
+      "gas:candidate-vibid:22520001065788": 71,
+      "gas:candidate-vibid:22520001122521": 108,
+      "gas:candidate-vibid:22520001123365": 24,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 68,
+      "gas:candidate-vibid:22520001068729": 63,
+      "gas:candidate-vibid:22520001121309": 143,
+      "gas:candidate-vibid:22520001122673": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 75,
-      "Долгачев Анатолий Николаевич": 99,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 37,
-      "Пак Олег Игоревич": 71,
-      "Передня Александр Александрович": 74,
-      "Сопчук Сергей Андреевич": 136,
-      "Черепков Виктор Иванович": 68
+      "gas:candidate-vibid:22520001065788": 75,
+      "gas:candidate-vibid:22520001122521": 99,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 37,
+      "gas:candidate-vibid:22520001123419": 71,
+      "gas:candidate-vibid:22520001068729": 74,
+      "gas:candidate-vibid:22520001121309": 136,
+      "gas:candidate-vibid:22520001122673": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 51,
-      "Долгачев Анатолий Николаевич": 52,
-      "Либанов Виталий Викторович": 5,
-      "Марковцев Николай Владимирович": 16,
-      "Пак Олег Игоревич": 28,
-      "Передня Александр Александрович": 31,
-      "Сопчук Сергей Андреевич": 72,
-      "Черепков Виктор Иванович": 51
+      "gas:candidate-vibid:22520001065788": 51,
+      "gas:candidate-vibid:22520001122521": 52,
+      "gas:candidate-vibid:22520001123365": 5,
+      "gas:candidate-vibid:22520001123546": 16,
+      "gas:candidate-vibid:22520001123419": 28,
+      "gas:candidate-vibid:22520001068729": 31,
+      "gas:candidate-vibid:22520001121309": 72,
+      "gas:candidate-vibid:22520001122673": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 57,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 45,
-      "Передня Александр Александрович": 62,
-      "Сопчук Сергей Андреевич": 113,
-      "Черепков Виктор Иванович": 65
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 57,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 45,
+      "gas:candidate-vibid:22520001068729": 62,
+      "gas:candidate-vibid:22520001121309": 113,
+      "gas:candidate-vibid:22520001122673": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 86,
-      "Долгачев Анатолий Николаевич": 86,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 30,
-      "Пак Олег Игоревич": 47,
-      "Передня Александр Александрович": 69,
-      "Сопчук Сергей Андреевич": 142,
-      "Черепков Виктор Иванович": 101
+      "gas:candidate-vibid:22520001065788": 86,
+      "gas:candidate-vibid:22520001122521": 86,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 30,
+      "gas:candidate-vibid:22520001123419": 47,
+      "gas:candidate-vibid:22520001068729": 69,
+      "gas:candidate-vibid:22520001121309": 142,
+      "gas:candidate-vibid:22520001122673": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 43,
-      "Долгачев Анатолий Николаевич": 61,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 48,
-      "Пак Олег Игоревич": 54,
-      "Передня Александр Александрович": 63,
-      "Сопчук Сергей Андреевич": 96,
-      "Черепков Виктор Иванович": 61
+      "gas:candidate-vibid:22520001065788": 43,
+      "gas:candidate-vibid:22520001122521": 61,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 48,
+      "gas:candidate-vibid:22520001123419": 54,
+      "gas:candidate-vibid:22520001068729": 63,
+      "gas:candidate-vibid:22520001121309": 96,
+      "gas:candidate-vibid:22520001122673": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 95,
-      "Долгачев Анатолий Николаевич": 107,
-      "Либанов Виталий Викторович": 22,
-      "Марковцев Николай Владимирович": 36,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 69,
-      "Сопчук Сергей Андреевич": 128,
-      "Черепков Виктор Иванович": 84
+      "gas:candidate-vibid:22520001065788": 95,
+      "gas:candidate-vibid:22520001122521": 107,
+      "gas:candidate-vibid:22520001123365": 22,
+      "gas:candidate-vibid:22520001123546": 36,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 69,
+      "gas:candidate-vibid:22520001121309": 128,
+      "gas:candidate-vibid:22520001122673": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 72,
-      "Долгачев Анатолий Николаевич": 116,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 45,
-      "Передня Александр Александрович": 70,
-      "Сопчук Сергей Андреевич": 158,
-      "Черепков Виктор Иванович": 95
+      "gas:candidate-vibid:22520001065788": 72,
+      "gas:candidate-vibid:22520001122521": 116,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 45,
+      "gas:candidate-vibid:22520001068729": 70,
+      "gas:candidate-vibid:22520001121309": 158,
+      "gas:candidate-vibid:22520001122673": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 92,
-      "Долгачев Анатолий Николаевич": 101,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 48,
-      "Сопчук Сергей Андреевич": 136,
-      "Черепков Виктор Иванович": 98
+      "gas:candidate-vibid:22520001065788": 92,
+      "gas:candidate-vibid:22520001122521": 101,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 48,
+      "gas:candidate-vibid:22520001121309": 136,
+      "gas:candidate-vibid:22520001122673": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 84,
-      "Долгачев Анатолий Николаевич": 132,
-      "Либанов Виталий Викторович": 24,
-      "Марковцев Николай Владимирович": 34,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 87,
-      "Сопчук Сергей Андреевич": 131,
-      "Черепков Виктор Иванович": 104
+      "gas:candidate-vibid:22520001065788": 84,
+      "gas:candidate-vibid:22520001122521": 132,
+      "gas:candidate-vibid:22520001123365": 24,
+      "gas:candidate-vibid:22520001123546": 34,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 87,
+      "gas:candidate-vibid:22520001121309": 131,
+      "gas:candidate-vibid:22520001122673": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 70,
-      "Долгачев Анатолий Николаевич": 98,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 52,
-      "Передня Александр Александрович": 66,
-      "Сопчук Сергей Андреевич": 88,
-      "Черепков Виктор Иванович": 107
+      "gas:candidate-vibid:22520001065788": 70,
+      "gas:candidate-vibid:22520001122521": 98,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 52,
+      "gas:candidate-vibid:22520001068729": 66,
+      "gas:candidate-vibid:22520001121309": 88,
+      "gas:candidate-vibid:22520001122673": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 52,
-      "Долгачев Анатолий Николаевич": 84,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 25,
-      "Пак Олег Игоревич": 36,
-      "Передня Александр Александрович": 54,
-      "Сопчук Сергей Андреевич": 108,
-      "Черепков Виктор Иванович": 89
+      "gas:candidate-vibid:22520001065788": 52,
+      "gas:candidate-vibid:22520001122521": 84,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 25,
+      "gas:candidate-vibid:22520001123419": 36,
+      "gas:candidate-vibid:22520001068729": 54,
+      "gas:candidate-vibid:22520001121309": 108,
+      "gas:candidate-vibid:22520001122673": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 52,
-      "Долгачев Анатолий Николаевич": 64,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 36,
-      "Передня Александр Александрович": 33,
-      "Сопчук Сергей Андреевич": 71,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 52,
+      "gas:candidate-vibid:22520001122521": 64,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 36,
+      "gas:candidate-vibid:22520001068729": 33,
+      "gas:candidate-vibid:22520001121309": 71,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 60,
-      "Долгачев Анатолий Николаевич": 100,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 41,
-      "Передня Александр Александрович": 63,
-      "Сопчук Сергей Андреевич": 114,
-      "Черепков Виктор Иванович": 74
+      "gas:candidate-vibid:22520001065788": 60,
+      "gas:candidate-vibid:22520001122521": 100,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 41,
+      "gas:candidate-vibid:22520001068729": 63,
+      "gas:candidate-vibid:22520001121309": 114,
+      "gas:candidate-vibid:22520001122673": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 63,
-      "Долгачев Анатолий Николаевич": 85,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 31,
-      "Передня Александр Александрович": 65,
-      "Сопчук Сергей Андреевич": 119,
-      "Черепков Виктор Иванович": 66
+      "gas:candidate-vibid:22520001065788": 63,
+      "gas:candidate-vibid:22520001122521": 85,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 31,
+      "gas:candidate-vibid:22520001068729": 65,
+      "gas:candidate-vibid:22520001121309": 119,
+      "gas:candidate-vibid:22520001122673": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 48,
-      "Долгачев Анатолий Николаевич": 64,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 20,
-      "Пак Олег Игоревич": 43,
-      "Передня Александр Александрович": 56,
-      "Сопчук Сергей Андреевич": 107,
-      "Черепков Виктор Иванович": 73
+      "gas:candidate-vibid:22520001065788": 48,
+      "gas:candidate-vibid:22520001122521": 64,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 20,
+      "gas:candidate-vibid:22520001123419": 43,
+      "gas:candidate-vibid:22520001068729": 56,
+      "gas:candidate-vibid:22520001121309": 107,
+      "gas:candidate-vibid:22520001122673": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 50,
-      "Долгачев Анатолий Николаевич": 78,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 16,
-      "Пак Олег Игоревич": 37,
-      "Передня Александр Александрович": 54,
-      "Сопчук Сергей Андреевич": 62,
-      "Черепков Виктор Иванович": 61
+      "gas:candidate-vibid:22520001065788": 50,
+      "gas:candidate-vibid:22520001122521": 78,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 16,
+      "gas:candidate-vibid:22520001123419": 37,
+      "gas:candidate-vibid:22520001068729": 54,
+      "gas:candidate-vibid:22520001121309": 62,
+      "gas:candidate-vibid:22520001122673": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 99,
-      "Долгачев Анатолий Николаевич": 167,
-      "Либанов Виталий Викторович": 35,
-      "Марковцев Николай Владимирович": 37,
-      "Пак Олег Игоревич": 76,
-      "Передня Александр Александрович": 66,
-      "Сопчук Сергей Андреевич": 143,
-      "Черепков Виктор Иванович": 100
+      "gas:candidate-vibid:22520001065788": 99,
+      "gas:candidate-vibid:22520001122521": 167,
+      "gas:candidate-vibid:22520001123365": 35,
+      "gas:candidate-vibid:22520001123546": 37,
+      "gas:candidate-vibid:22520001123419": 76,
+      "gas:candidate-vibid:22520001068729": 66,
+      "gas:candidate-vibid:22520001121309": 143,
+      "gas:candidate-vibid:22520001122673": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 56,
-      "Долгачев Анатолий Николаевич": 80,
-      "Либанов Виталий Викторович": 24,
-      "Марковцев Николай Владимирович": 18,
-      "Пак Олег Игоревич": 38,
-      "Передня Александр Александрович": 67,
-      "Сопчук Сергей Андреевич": 104,
-      "Черепков Виктор Иванович": 53
+      "gas:candidate-vibid:22520001065788": 56,
+      "gas:candidate-vibid:22520001122521": 80,
+      "gas:candidate-vibid:22520001123365": 24,
+      "gas:candidate-vibid:22520001123546": 18,
+      "gas:candidate-vibid:22520001123419": 38,
+      "gas:candidate-vibid:22520001068729": 67,
+      "gas:candidate-vibid:22520001121309": 104,
+      "gas:candidate-vibid:22520001122673": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 54,
-      "Долгачев Анатолий Николаевич": 157,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 13,
-      "Пак Олег Игоревич": 50,
-      "Передня Александр Александрович": 77,
-      "Сопчук Сергей Андреевич": 100,
-      "Черепков Виктор Иванович": 73
+      "gas:candidate-vibid:22520001065788": 54,
+      "gas:candidate-vibid:22520001122521": 157,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 13,
+      "gas:candidate-vibid:22520001123419": 50,
+      "gas:candidate-vibid:22520001068729": 77,
+      "gas:candidate-vibid:22520001121309": 100,
+      "gas:candidate-vibid:22520001122673": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 79,
-      "Долгачев Анатолий Николаевич": 107,
-      "Либанов Виталий Викторович": 29,
-      "Марковцев Николай Владимирович": 32,
-      "Пак Олег Игоревич": 57,
-      "Передня Александр Александрович": 52,
-      "Сопчук Сергей Андреевич": 120,
-      "Черепков Виктор Иванович": 53
+      "gas:candidate-vibid:22520001065788": 79,
+      "gas:candidate-vibid:22520001122521": 107,
+      "gas:candidate-vibid:22520001123365": 29,
+      "gas:candidate-vibid:22520001123546": 32,
+      "gas:candidate-vibid:22520001123419": 57,
+      "gas:candidate-vibid:22520001068729": 52,
+      "gas:candidate-vibid:22520001121309": 120,
+      "gas:candidate-vibid:22520001122673": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 44,
-      "Долгачев Анатолий Николаевич": 72,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 45,
-      "Передня Александр Александрович": 35,
-      "Сопчук Сергей Андреевич": 97,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 44,
+      "gas:candidate-vibid:22520001122521": 72,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 45,
+      "gas:candidate-vibid:22520001068729": 35,
+      "gas:candidate-vibid:22520001121309": 97,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 96,
-      "Долгачев Анатолий Николаевич": 113,
-      "Либанов Виталий Викторович": 35,
-      "Марковцев Николай Владимирович": 34,
-      "Пак Олег Игоревич": 83,
-      "Передня Александр Александрович": 61,
-      "Сопчук Сергей Андреевич": 184,
-      "Черепков Виктор Иванович": 80
+      "gas:candidate-vibid:22520001065788": 96,
+      "gas:candidate-vibid:22520001122521": 113,
+      "gas:candidate-vibid:22520001123365": 35,
+      "gas:candidate-vibid:22520001123546": 34,
+      "gas:candidate-vibid:22520001123419": 83,
+      "gas:candidate-vibid:22520001068729": 61,
+      "gas:candidate-vibid:22520001121309": 184,
+      "gas:candidate-vibid:22520001122673": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 43,
-      "Долгачев Анатолий Николаевич": 84,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 24,
-      "Пак Олег Игоревич": 63,
-      "Передня Александр Александрович": 32,
-      "Сопчук Сергей Андреевич": 104,
-      "Черепков Виктор Иванович": 47
+      "gas:candidate-vibid:22520001065788": 43,
+      "gas:candidate-vibid:22520001122521": 84,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 24,
+      "gas:candidate-vibid:22520001123419": 63,
+      "gas:candidate-vibid:22520001068729": 32,
+      "gas:candidate-vibid:22520001121309": 104,
+      "gas:candidate-vibid:22520001122673": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 66,
-      "Долгачев Анатолий Николаевич": 124,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 45,
-      "Передня Александр Александрович": 46,
-      "Сопчук Сергей Андреевич": 118,
-      "Черепков Виктор Иванович": 65
+      "gas:candidate-vibid:22520001065788": 66,
+      "gas:candidate-vibid:22520001122521": 124,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 45,
+      "gas:candidate-vibid:22520001068729": 46,
+      "gas:candidate-vibid:22520001121309": 118,
+      "gas:candidate-vibid:22520001122673": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 60,
-      "Долгачев Анатолий Николаевич": 70,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 14,
-      "Пак Олег Игоревич": 28,
-      "Передня Александр Александрович": 28,
-      "Сопчук Сергей Андреевич": 100,
-      "Черепков Виктор Иванович": 37
+      "gas:candidate-vibid:22520001065788": 60,
+      "gas:candidate-vibid:22520001122521": 70,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 14,
+      "gas:candidate-vibid:22520001123419": 28,
+      "gas:candidate-vibid:22520001068729": 28,
+      "gas:candidate-vibid:22520001121309": 100,
+      "gas:candidate-vibid:22520001122673": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 53,
-      "Долгачев Анатолий Николаевич": 77,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 10,
-      "Пак Олег Игоревич": 40,
-      "Передня Александр Александрович": 52,
-      "Сопчук Сергей Андреевич": 84,
-      "Черепков Виктор Иванович": 70
+      "gas:candidate-vibid:22520001065788": 53,
+      "gas:candidate-vibid:22520001122521": 77,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 10,
+      "gas:candidate-vibid:22520001123419": 40,
+      "gas:candidate-vibid:22520001068729": 52,
+      "gas:candidate-vibid:22520001121309": 84,
+      "gas:candidate-vibid:22520001122673": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 87,
-      "Долгачев Анатолий Николаевич": 63,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 68,
-      "Сопчук Сергей Андреевич": 122,
-      "Черепков Виктор Иванович": 109
+      "gas:candidate-vibid:22520001065788": 87,
+      "gas:candidate-vibid:22520001122521": 63,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 68,
+      "gas:candidate-vibid:22520001121309": 122,
+      "gas:candidate-vibid:22520001122673": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 90,
-      "Долгачев Анатолий Николаевич": 103,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 24,
-      "Пак Олег Игоревич": 83,
-      "Передня Александр Александрович": 61,
-      "Сопчук Сергей Андреевич": 161,
-      "Черепков Виктор Иванович": 72
+      "gas:candidate-vibid:22520001065788": 90,
+      "gas:candidate-vibid:22520001122521": 103,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 24,
+      "gas:candidate-vibid:22520001123419": 83,
+      "gas:candidate-vibid:22520001068729": 61,
+      "gas:candidate-vibid:22520001121309": 161,
+      "gas:candidate-vibid:22520001122673": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 105,
-      "Долгачев Анатолий Николаевич": 82,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 27,
-      "Пак Олег Игоревич": 35,
-      "Передня Александр Александрович": 50,
-      "Сопчук Сергей Андреевич": 125,
-      "Черепков Виктор Иванович": 66
+      "gas:candidate-vibid:22520001065788": 105,
+      "gas:candidate-vibid:22520001122521": 82,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 27,
+      "gas:candidate-vibid:22520001123419": 35,
+      "gas:candidate-vibid:22520001068729": 50,
+      "gas:candidate-vibid:22520001121309": 125,
+      "gas:candidate-vibid:22520001122673": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 58,
-      "Долгачев Анатолий Николаевич": 58,
-      "Либанов Виталий Викторович": 8,
-      "Марковцев Николай Владимирович": 8,
-      "Пак Олег Игоревич": 31,
-      "Передня Александр Александрович": 30,
-      "Сопчук Сергей Андреевич": 79,
-      "Черепков Виктор Иванович": 36
+      "gas:candidate-vibid:22520001065788": 58,
+      "gas:candidate-vibid:22520001122521": 58,
+      "gas:candidate-vibid:22520001123365": 8,
+      "gas:candidate-vibid:22520001123546": 8,
+      "gas:candidate-vibid:22520001123419": 31,
+      "gas:candidate-vibid:22520001068729": 30,
+      "gas:candidate-vibid:22520001121309": 79,
+      "gas:candidate-vibid:22520001122673": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 71,
-      "Долгачев Анатолий Николаевич": 102,
-      "Либанов Виталий Викторович": 19,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 51,
-      "Передня Александр Александрович": 53,
-      "Сопчук Сергей Андреевич": 114,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 71,
+      "gas:candidate-vibid:22520001122521": 102,
+      "gas:candidate-vibid:22520001123365": 19,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 51,
+      "gas:candidate-vibid:22520001068729": 53,
+      "gas:candidate-vibid:22520001121309": 114,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 60,
-      "Долгачев Анатолий Николаевич": 114,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 42,
-      "Передня Александр Александрович": 59,
-      "Сопчук Сергей Андреевич": 115,
-      "Черепков Виктор Иванович": 44
+      "gas:candidate-vibid:22520001065788": 60,
+      "gas:candidate-vibid:22520001122521": 114,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 42,
+      "gas:candidate-vibid:22520001068729": 59,
+      "gas:candidate-vibid:22520001121309": 115,
+      "gas:candidate-vibid:22520001122673": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 43,
-      "Долгачев Анатолий Николаевич": 69,
-      "Либанов Виталий Викторович": 10,
-      "Марковцев Николай Владимирович": 18,
-      "Пак Олег Игоревич": 50,
-      "Передня Александр Александрович": 52,
-      "Сопчук Сергей Андреевич": 103,
-      "Черепков Виктор Иванович": 68
+      "gas:candidate-vibid:22520001065788": 43,
+      "gas:candidate-vibid:22520001122521": 69,
+      "gas:candidate-vibid:22520001123365": 10,
+      "gas:candidate-vibid:22520001123546": 18,
+      "gas:candidate-vibid:22520001123419": 50,
+      "gas:candidate-vibid:22520001068729": 52,
+      "gas:candidate-vibid:22520001121309": 103,
+      "gas:candidate-vibid:22520001122673": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 83,
-      "Долгачев Анатолий Николаевич": 109,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 27,
-      "Пак Олег Игоревич": 62,
-      "Передня Александр Александрович": 78,
-      "Сопчук Сергей Андреевич": 123,
-      "Черепков Виктор Иванович": 83
+      "gas:candidate-vibid:22520001065788": 83,
+      "gas:candidate-vibid:22520001122521": 109,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 27,
+      "gas:candidate-vibid:22520001123419": 62,
+      "gas:candidate-vibid:22520001068729": 78,
+      "gas:candidate-vibid:22520001121309": 123,
+      "gas:candidate-vibid:22520001122673": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 78,
-      "Долгачев Анатолий Николаевич": 109,
-      "Либанов Виталий Викторович": 26,
-      "Марковцев Николай Владимирович": 21,
-      "Пак Олег Игоревич": 67,
-      "Передня Александр Александрович": 72,
-      "Сопчук Сергей Андреевич": 109,
-      "Черепков Виктор Иванович": 90
+      "gas:candidate-vibid:22520001065788": 78,
+      "gas:candidate-vibid:22520001122521": 109,
+      "gas:candidate-vibid:22520001123365": 26,
+      "gas:candidate-vibid:22520001123546": 21,
+      "gas:candidate-vibid:22520001123419": 67,
+      "gas:candidate-vibid:22520001068729": 72,
+      "gas:candidate-vibid:22520001121309": 109,
+      "gas:candidate-vibid:22520001122673": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 27,
-      "Долгачев Анатолий Николаевич": 23,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 8,
-      "Пак Олег Игоревич": 15,
-      "Передня Александр Александрович": 46,
-      "Сопчук Сергей Андреевич": 231,
-      "Черепков Виктор Иванович": 13
+      "gas:candidate-vibid:22520001065788": 27,
+      "gas:candidate-vibid:22520001122521": 23,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 8,
+      "gas:candidate-vibid:22520001123419": 15,
+      "gas:candidate-vibid:22520001068729": 46,
+      "gas:candidate-vibid:22520001121309": 231,
+      "gas:candidate-vibid:22520001122673": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 43,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 32,
-      "Пак Олег Игоревич": 55,
-      "Передня Александр Александрович": 62,
-      "Сопчук Сергей Андреевич": 100,
-      "Черепков Виктор Иванович": 70
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 43,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 32,
+      "gas:candidate-vibid:22520001123419": 55,
+      "gas:candidate-vibid:22520001068729": 62,
+      "gas:candidate-vibid:22520001121309": 100,
+      "gas:candidate-vibid:22520001122673": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 80,
-      "Долгачев Анатолий Николаевич": 114,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 20,
-      "Пак Олег Игоревич": 61,
-      "Передня Александр Александрович": 72,
-      "Сопчук Сергей Андреевич": 104,
-      "Черепков Виктор Иванович": 57
+      "gas:candidate-vibid:22520001065788": 80,
+      "gas:candidate-vibid:22520001122521": 114,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 20,
+      "gas:candidate-vibid:22520001123419": 61,
+      "gas:candidate-vibid:22520001068729": 72,
+      "gas:candidate-vibid:22520001121309": 104,
+      "gas:candidate-vibid:22520001122673": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 74,
-      "Долгачев Анатолий Николаевич": 74,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 27,
-      "Пак Олег Игоревич": 51,
-      "Передня Александр Александрович": 54,
-      "Сопчук Сергей Андреевич": 126,
-      "Черепков Виктор Иванович": 77
+      "gas:candidate-vibid:22520001065788": 74,
+      "gas:candidate-vibid:22520001122521": 74,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 27,
+      "gas:candidate-vibid:22520001123419": 51,
+      "gas:candidate-vibid:22520001068729": 54,
+      "gas:candidate-vibid:22520001121309": 126,
+      "gas:candidate-vibid:22520001122673": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 145,
-      "Долгачев Анатолий Николаевич": 116,
-      "Либанов Виталий Викторович": 39,
-      "Марковцев Николай Владимирович": 36,
-      "Пак Олег Игоревич": 74,
-      "Передня Александр Александрович": 59,
-      "Сопчук Сергей Андреевич": 319,
-      "Черепков Виктор Иванович": 120
+      "gas:candidate-vibid:22520001065788": 145,
+      "gas:candidate-vibid:22520001122521": 116,
+      "gas:candidate-vibid:22520001123365": 39,
+      "gas:candidate-vibid:22520001123546": 36,
+      "gas:candidate-vibid:22520001123419": 74,
+      "gas:candidate-vibid:22520001068729": 59,
+      "gas:candidate-vibid:22520001121309": 319,
+      "gas:candidate-vibid:22520001122673": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 35,
-      "Долгачев Анатолий Николаевич": 97,
-      "Либанов Виталий Викторович": 7,
-      "Марковцев Николай Владимирович": 23,
-      "Пак Олег Игоревич": 37,
-      "Передня Александр Александрович": 43,
-      "Сопчук Сергей Андреевич": 88,
-      "Черепков Виктор Иванович": 65
+      "gas:candidate-vibid:22520001065788": 35,
+      "gas:candidate-vibid:22520001122521": 97,
+      "gas:candidate-vibid:22520001123365": 7,
+      "gas:candidate-vibid:22520001123546": 23,
+      "gas:candidate-vibid:22520001123419": 37,
+      "gas:candidate-vibid:22520001068729": 43,
+      "gas:candidate-vibid:22520001121309": 88,
+      "gas:candidate-vibid:22520001122673": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 68,
-      "Долгачев Анатолий Николаевич": 88,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 12,
-      "Пак Олег Игоревич": 41,
-      "Передня Александр Александрович": 49,
-      "Сопчук Сергей Андреевич": 91,
-      "Черепков Виктор Иванович": 37
+      "gas:candidate-vibid:22520001065788": 68,
+      "gas:candidate-vibid:22520001122521": 88,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 12,
+      "gas:candidate-vibid:22520001123419": 41,
+      "gas:candidate-vibid:22520001068729": 49,
+      "gas:candidate-vibid:22520001121309": 91,
+      "gas:candidate-vibid:22520001122673": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 13,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 7,
-      "Передня Александр Александрович": 6,
-      "Сопчук Сергей Андреевич": 10,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 13,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 7,
+      "gas:candidate-vibid:22520001068729": 6,
+      "gas:candidate-vibid:22520001121309": 10,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 2,
-      "Долгачев Анатолий Николаевич": 13,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 4,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 35,
-      "Черепков Виктор Иванович": 5
+      "gas:candidate-vibid:22520001065788": 2,
+      "gas:candidate-vibid:22520001122521": 13,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 4,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 35,
+      "gas:candidate-vibid:22520001122673": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999732&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999732&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 31,
-      "Долгачев Анатолий Николаевич": 77,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 33,
-      "Пак Олег Игоревич": 44,
-      "Передня Александр Александрович": 36,
-      "Сопчук Сергей Андреевич": 73,
-      "Черепков Виктор Иванович": 61
+      "gas:candidate-vibid:22520001065788": 31,
+      "gas:candidate-vibid:22520001122521": 77,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 33,
+      "gas:candidate-vibid:22520001123419": 44,
+      "gas:candidate-vibid:22520001068729": 36,
+      "gas:candidate-vibid:22520001121309": 73,
+      "gas:candidate-vibid:22520001122673": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 53,
-      "Долгачев Анатолий Николаевич": 56,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 20,
-      "Пак Олег Игоревич": 49,
-      "Передня Александр Александрович": 40,
-      "Сопчук Сергей Андреевич": 94,
-      "Черепков Виктор Иванович": 52
+      "gas:candidate-vibid:22520001065788": 53,
+      "gas:candidate-vibid:22520001122521": 56,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 20,
+      "gas:candidate-vibid:22520001123419": 49,
+      "gas:candidate-vibid:22520001068729": 40,
+      "gas:candidate-vibid:22520001121309": 94,
+      "gas:candidate-vibid:22520001122673": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 40,
-      "Долгачев Анатолий Николаевич": 124,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 47,
-      "Пак Олег Игоревич": 73,
-      "Передня Александр Александрович": 48,
-      "Сопчук Сергей Андреевич": 88,
-      "Черепков Виктор Иванович": 70
+      "gas:candidate-vibid:22520001065788": 40,
+      "gas:candidate-vibid:22520001122521": 124,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 47,
+      "gas:candidate-vibid:22520001123419": 73,
+      "gas:candidate-vibid:22520001068729": 48,
+      "gas:candidate-vibid:22520001121309": 88,
+      "gas:candidate-vibid:22520001122673": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 47,
-      "Долгачев Анатолий Николаевич": 97,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 57,
-      "Передня Александр Александрович": 111,
-      "Сопчук Сергей Андреевич": 90,
-      "Черепков Виктор Иванович": 68
+      "gas:candidate-vibid:22520001065788": 47,
+      "gas:candidate-vibid:22520001122521": 97,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 57,
+      "gas:candidate-vibid:22520001068729": 111,
+      "gas:candidate-vibid:22520001121309": 90,
+      "gas:candidate-vibid:22520001122673": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 45,
-      "Долгачев Анатолий Николаевич": 49,
-      "Либанов Виталий Викторович": 5,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 30,
-      "Передня Александр Александрович": 35,
-      "Сопчук Сергей Андреевич": 51,
-      "Черепков Виктор Иванович": 31
+      "gas:candidate-vibid:22520001065788": 45,
+      "gas:candidate-vibid:22520001122521": 49,
+      "gas:candidate-vibid:22520001123365": 5,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 30,
+      "gas:candidate-vibid:22520001068729": 35,
+      "gas:candidate-vibid:22520001121309": 51,
+      "gas:candidate-vibid:22520001122673": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 36,
-      "Долгачев Анатолий Николаевич": 63,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 40,
-      "Передня Александр Александрович": 28,
-      "Сопчук Сергей Андреевич": 58,
-      "Черепков Виктор Иванович": 43
+      "gas:candidate-vibid:22520001065788": 36,
+      "gas:candidate-vibid:22520001122521": 63,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 40,
+      "gas:candidate-vibid:22520001068729": 28,
+      "gas:candidate-vibid:22520001121309": 58,
+      "gas:candidate-vibid:22520001122673": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 82,
-      "Долгачев Анатолий Николаевич": 132,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 35,
-      "Пак Олег Игоревич": 94,
-      "Передня Александр Александрович": 45,
-      "Сопчук Сергей Андреевич": 200,
-      "Черепков Виктор Иванович": 115
+      "gas:candidate-vibid:22520001065788": 82,
+      "gas:candidate-vibid:22520001122521": 132,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 35,
+      "gas:candidate-vibid:22520001123419": 94,
+      "gas:candidate-vibid:22520001068729": 45,
+      "gas:candidate-vibid:22520001121309": 200,
+      "gas:candidate-vibid:22520001122673": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 56,
-      "Долгачев Анатолий Николаевич": 82,
-      "Либанов Виталий Викторович": 14,
-      "Марковцев Николай Владимирович": 36,
-      "Пак Олег Игоревич": 44,
-      "Передня Александр Александрович": 50,
-      "Сопчук Сергей Андреевич": 125,
-      "Черепков Виктор Иванович": 58
+      "gas:candidate-vibid:22520001065788": 56,
+      "gas:candidate-vibid:22520001122521": 82,
+      "gas:candidate-vibid:22520001123365": 14,
+      "gas:candidate-vibid:22520001123546": 36,
+      "gas:candidate-vibid:22520001123419": 44,
+      "gas:candidate-vibid:22520001068729": 50,
+      "gas:candidate-vibid:22520001121309": 125,
+      "gas:candidate-vibid:22520001122673": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 25,
-      "Долгачев Анатолий Николаевич": 28,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 11,
-      "Пак Олег Игоревич": 20,
-      "Передня Александр Александрович": 13,
-      "Сопчук Сергей Андреевич": 38,
-      "Черепков Виктор Иванович": 30
+      "gas:candidate-vibid:22520001065788": 25,
+      "gas:candidate-vibid:22520001122521": 28,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 11,
+      "gas:candidate-vibid:22520001123419": 20,
+      "gas:candidate-vibid:22520001068729": 13,
+      "gas:candidate-vibid:22520001121309": 38,
+      "gas:candidate-vibid:22520001122673": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 42,
-      "Долгачев Анатолий Николаевич": 120,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 24,
-      "Пак Олег Игоревич": 64,
-      "Передня Александр Александрович": 72,
-      "Сопчук Сергей Андреевич": 118,
-      "Черепков Виктор Иванович": 89
+      "gas:candidate-vibid:22520001065788": 42,
+      "gas:candidate-vibid:22520001122521": 120,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 24,
+      "gas:candidate-vibid:22520001123419": 64,
+      "gas:candidate-vibid:22520001068729": 72,
+      "gas:candidate-vibid:22520001121309": 118,
+      "gas:candidate-vibid:22520001122673": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 35,
-      "Долгачев Анатолий Николаевич": 89,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 20,
-      "Пак Олег Игоревич": 51,
-      "Передня Александр Александрович": 44,
-      "Сопчук Сергей Андреевич": 86,
-      "Черепков Виктор Иванович": 48
+      "gas:candidate-vibid:22520001065788": 35,
+      "gas:candidate-vibid:22520001122521": 89,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 20,
+      "gas:candidate-vibid:22520001123419": 51,
+      "gas:candidate-vibid:22520001068729": 44,
+      "gas:candidate-vibid:22520001121309": 86,
+      "gas:candidate-vibid:22520001122673": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 42,
-      "Долгачев Анатолий Николаевич": 75,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 29,
-      "Пак Олег Игоревич": 62,
-      "Передня Александр Александрович": 48,
-      "Сопчук Сергей Андреевич": 83,
-      "Черепков Виктор Иванович": 78
+      "gas:candidate-vibid:22520001065788": 42,
+      "gas:candidate-vibid:22520001122521": 75,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 29,
+      "gas:candidate-vibid:22520001123419": 62,
+      "gas:candidate-vibid:22520001068729": 48,
+      "gas:candidate-vibid:22520001121309": 83,
+      "gas:candidate-vibid:22520001122673": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 48,
-      "Долгачев Анатолий Николаевич": 92,
-      "Либанов Виталий Викторович": 10,
-      "Марковцев Николай Владимирович": 22,
-      "Пак Олег Игоревич": 49,
-      "Передня Александр Александрович": 61,
-      "Сопчук Сергей Андреевич": 81,
-      "Черепков Виктор Иванович": 71
+      "gas:candidate-vibid:22520001065788": 48,
+      "gas:candidate-vibid:22520001122521": 92,
+      "gas:candidate-vibid:22520001123365": 10,
+      "gas:candidate-vibid:22520001123546": 22,
+      "gas:candidate-vibid:22520001123419": 49,
+      "gas:candidate-vibid:22520001068729": 61,
+      "gas:candidate-vibid:22520001121309": 81,
+      "gas:candidate-vibid:22520001122673": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 47,
-      "Долгачев Анатолий Николаевич": 95,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 29,
-      "Пак Олег Игоревич": 70,
-      "Передня Александр Александрович": 45,
-      "Сопчук Сергей Андреевич": 112,
-      "Черепков Виктор Иванович": 61
+      "gas:candidate-vibid:22520001065788": 47,
+      "gas:candidate-vibid:22520001122521": 95,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 29,
+      "gas:candidate-vibid:22520001123419": 70,
+      "gas:candidate-vibid:22520001068729": 45,
+      "gas:candidate-vibid:22520001121309": 112,
+      "gas:candidate-vibid:22520001122673": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 105,
-      "Долгачев Анатолий Николаевич": 174,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 52,
-      "Пак Олег Игоревич": 79,
-      "Передня Александр Александрович": 79,
-      "Сопчук Сергей Андреевич": 161,
-      "Черепков Виктор Иванович": 113
+      "gas:candidate-vibid:22520001065788": 105,
+      "gas:candidate-vibid:22520001122521": 174,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 52,
+      "gas:candidate-vibid:22520001123419": 79,
+      "gas:candidate-vibid:22520001068729": 79,
+      "gas:candidate-vibid:22520001121309": 161,
+      "gas:candidate-vibid:22520001122673": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 85,
-      "Долгачев Анатолий Николаевич": 127,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 77,
-      "Передня Александр Александрович": 80,
-      "Сопчук Сергей Андреевич": 133,
-      "Черепков Виктор Иванович": 119
+      "gas:candidate-vibid:22520001065788": 85,
+      "gas:candidate-vibid:22520001122521": 127,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 77,
+      "gas:candidate-vibid:22520001068729": 80,
+      "gas:candidate-vibid:22520001121309": 133,
+      "gas:candidate-vibid:22520001122673": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 83,
-      "Долгачев Анатолий Николаевич": 161,
-      "Либанов Виталий Викторович": 33,
-      "Марковцев Николай Владимирович": 37,
-      "Пак Олег Игоревич": 106,
-      "Передня Александр Александрович": 60,
-      "Сопчук Сергей Андреевич": 159,
-      "Черепков Виктор Иванович": 124
+      "gas:candidate-vibid:22520001065788": 83,
+      "gas:candidate-vibid:22520001122521": 161,
+      "gas:candidate-vibid:22520001123365": 33,
+      "gas:candidate-vibid:22520001123546": 37,
+      "gas:candidate-vibid:22520001123419": 106,
+      "gas:candidate-vibid:22520001068729": 60,
+      "gas:candidate-vibid:22520001121309": 159,
+      "gas:candidate-vibid:22520001122673": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 104,
-      "Долгачев Анатолий Николаевич": 117,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 31,
-      "Пак Олег Игоревич": 63,
-      "Передня Александр Александрович": 65,
-      "Сопчук Сергей Андреевич": 103,
-      "Черепков Виктор Иванович": 108
+      "gas:candidate-vibid:22520001065788": 104,
+      "gas:candidate-vibid:22520001122521": 117,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 31,
+      "gas:candidate-vibid:22520001123419": 63,
+      "gas:candidate-vibid:22520001068729": 65,
+      "gas:candidate-vibid:22520001121309": 103,
+      "gas:candidate-vibid:22520001122673": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 67,
-      "Долгачев Анатолий Николаевич": 91,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 28,
-      "Пак Олег Игоревич": 69,
-      "Передня Александр Александрович": 84,
-      "Сопчук Сергей Андреевич": 142,
-      "Черепков Виктор Иванович": 85
+      "gas:candidate-vibid:22520001065788": 67,
+      "gas:candidate-vibid:22520001122521": 91,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 28,
+      "gas:candidate-vibid:22520001123419": 69,
+      "gas:candidate-vibid:22520001068729": 84,
+      "gas:candidate-vibid:22520001121309": 142,
+      "gas:candidate-vibid:22520001122673": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 62,
-      "Долгачев Анатолий Николаевич": 44,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 34,
-      "Передня Александр Александрович": 38,
-      "Сопчук Сергей Андреевич": 77,
-      "Черепков Виктор Иванович": 51
+      "gas:candidate-vibid:22520001065788": 62,
+      "gas:candidate-vibid:22520001122521": 44,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 34,
+      "gas:candidate-vibid:22520001068729": 38,
+      "gas:candidate-vibid:22520001121309": 77,
+      "gas:candidate-vibid:22520001122673": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 97,
-      "Долгачев Анатолий Николаевич": 118,
-      "Либанов Виталий Викторович": 30,
-      "Марковцев Николай Владимирович": 45,
-      "Пак Олег Игоревич": 70,
-      "Передня Александр Александрович": 64,
-      "Сопчук Сергей Андреевич": 209,
-      "Черепков Виктор Иванович": 105
+      "gas:candidate-vibid:22520001065788": 97,
+      "gas:candidate-vibid:22520001122521": 118,
+      "gas:candidate-vibid:22520001123365": 30,
+      "gas:candidate-vibid:22520001123546": 45,
+      "gas:candidate-vibid:22520001123419": 70,
+      "gas:candidate-vibid:22520001068729": 64,
+      "gas:candidate-vibid:22520001121309": 209,
+      "gas:candidate-vibid:22520001122673": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 65,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 18,
-      "Пак Олег Игоревич": 35,
-      "Передня Александр Александрович": 42,
-      "Сопчук Сергей Андреевич": 77,
-      "Черепков Виктор Иванович": 46
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 65,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 18,
+      "gas:candidate-vibid:22520001123419": 35,
+      "gas:candidate-vibid:22520001068729": 42,
+      "gas:candidate-vibid:22520001121309": 77,
+      "gas:candidate-vibid:22520001122673": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 49,
-      "Долгачев Анатолий Николаевич": 99,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 25,
-      "Пак Олег Игоревич": 55,
-      "Передня Александр Александрович": 38,
-      "Сопчук Сергей Андреевич": 136,
-      "Черепков Виктор Иванович": 71
+      "gas:candidate-vibid:22520001065788": 49,
+      "gas:candidate-vibid:22520001122521": 99,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 25,
+      "gas:candidate-vibid:22520001123419": 55,
+      "gas:candidate-vibid:22520001068729": 38,
+      "gas:candidate-vibid:22520001121309": 136,
+      "gas:candidate-vibid:22520001122673": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 53,
-      "Долгачев Анатолий Николаевич": 95,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 55,
-      "Передня Александр Александрович": 58,
-      "Сопчук Сергей Андреевич": 107,
-      "Черепков Виктор Иванович": 67
+      "gas:candidate-vibid:22520001065788": 53,
+      "gas:candidate-vibid:22520001122521": 95,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 55,
+      "gas:candidate-vibid:22520001068729": 58,
+      "gas:candidate-vibid:22520001121309": 107,
+      "gas:candidate-vibid:22520001122673": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 109,
-      "Долгачев Анатолий Николаевич": 194,
-      "Либанов Виталий Викторович": 43,
-      "Марковцев Николай Владимирович": 52,
-      "Пак Олег Игоревич": 91,
-      "Передня Александр Александрович": 79,
-      "Сопчук Сергей Андреевич": 220,
-      "Черепков Виктор Иванович": 101
+      "gas:candidate-vibid:22520001065788": 109,
+      "gas:candidate-vibid:22520001122521": 194,
+      "gas:candidate-vibid:22520001123365": 43,
+      "gas:candidate-vibid:22520001123546": 52,
+      "gas:candidate-vibid:22520001123419": 91,
+      "gas:candidate-vibid:22520001068729": 79,
+      "gas:candidate-vibid:22520001121309": 220,
+      "gas:candidate-vibid:22520001122673": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 50,
-      "Долгачев Анатолий Николаевич": 102,
-      "Либанов Виталий Викторович": 26,
-      "Марковцев Николай Владимирович": 42,
-      "Пак Олег Игоревич": 54,
-      "Передня Александр Александрович": 61,
-      "Сопчук Сергей Андреевич": 109,
-      "Черепков Виктор Иванович": 67
+      "gas:candidate-vibid:22520001065788": 50,
+      "gas:candidate-vibid:22520001122521": 102,
+      "gas:candidate-vibid:22520001123365": 26,
+      "gas:candidate-vibid:22520001123546": 42,
+      "gas:candidate-vibid:22520001123419": 54,
+      "gas:candidate-vibid:22520001068729": 61,
+      "gas:candidate-vibid:22520001121309": 109,
+      "gas:candidate-vibid:22520001122673": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 72,
-      "Долгачев Анатолий Николаевич": 131,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 38,
-      "Пак Олег Игоревич": 74,
-      "Передня Александр Александрович": 67,
-      "Сопчук Сергей Андреевич": 131,
-      "Черепков Виктор Иванович": 110
+      "gas:candidate-vibid:22520001065788": 72,
+      "gas:candidate-vibid:22520001122521": 131,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 38,
+      "gas:candidate-vibid:22520001123419": 74,
+      "gas:candidate-vibid:22520001068729": 67,
+      "gas:candidate-vibid:22520001121309": 131,
+      "gas:candidate-vibid:22520001122673": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 68,
-      "Долгачев Анатолий Николаевич": 118,
-      "Либанов Виталий Викторович": 18,
-      "Марковцев Николай Владимирович": 26,
-      "Пак Олег Игоревич": 56,
-      "Передня Александр Александрович": 69,
-      "Сопчук Сергей Андреевич": 120,
-      "Черепков Виктор Иванович": 61
+      "gas:candidate-vibid:22520001065788": 68,
+      "gas:candidate-vibid:22520001122521": 118,
+      "gas:candidate-vibid:22520001123365": 18,
+      "gas:candidate-vibid:22520001123546": 26,
+      "gas:candidate-vibid:22520001123419": 56,
+      "gas:candidate-vibid:22520001068729": 69,
+      "gas:candidate-vibid:22520001121309": 120,
+      "gas:candidate-vibid:22520001122673": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 80,
-      "Долгачев Анатолий Николаевич": 137,
-      "Либанов Виталий Викторович": 28,
-      "Марковцев Николай Владимирович": 30,
-      "Пак Олег Игоревич": 62,
-      "Передня Александр Александрович": 67,
-      "Сопчук Сергей Андреевич": 113,
-      "Черепков Виктор Иванович": 68
+      "gas:candidate-vibid:22520001065788": 80,
+      "gas:candidate-vibid:22520001122521": 137,
+      "gas:candidate-vibid:22520001123365": 28,
+      "gas:candidate-vibid:22520001123546": 30,
+      "gas:candidate-vibid:22520001123419": 62,
+      "gas:candidate-vibid:22520001068729": 67,
+      "gas:candidate-vibid:22520001121309": 113,
+      "gas:candidate-vibid:22520001122673": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 51,
-      "Долгачев Анатолий Николаевич": 120,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 28,
-      "Пак Олег Игоревич": 56,
-      "Передня Александр Александрович": 55,
-      "Сопчук Сергей Андреевич": 125,
-      "Черепков Виктор Иванович": 78
+      "gas:candidate-vibid:22520001065788": 51,
+      "gas:candidate-vibid:22520001122521": 120,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 28,
+      "gas:candidate-vibid:22520001123419": 56,
+      "gas:candidate-vibid:22520001068729": 55,
+      "gas:candidate-vibid:22520001121309": 125,
+      "gas:candidate-vibid:22520001122673": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 39,
-      "Долгачев Анатолий Николаевич": 91,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 19,
-      "Пак Олег Игоревич": 39,
-      "Передня Александр Александрович": 34,
-      "Сопчук Сергей Андреевич": 75,
-      "Черепков Виктор Иванович": 46
+      "gas:candidate-vibid:22520001065788": 39,
+      "gas:candidate-vibid:22520001122521": 91,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 19,
+      "gas:candidate-vibid:22520001123419": 39,
+      "gas:candidate-vibid:22520001068729": 34,
+      "gas:candidate-vibid:22520001121309": 75,
+      "gas:candidate-vibid:22520001122673": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 59,
-      "Долгачев Анатолий Николаевич": 86,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 30,
-      "Пак Олег Игоревич": 53,
-      "Передня Александр Александрович": 58,
-      "Сопчук Сергей Андреевич": 126,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 59,
+      "gas:candidate-vibid:22520001122521": 86,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 30,
+      "gas:candidate-vibid:22520001123419": 53,
+      "gas:candidate-vibid:22520001068729": 58,
+      "gas:candidate-vibid:22520001121309": 126,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 72,
-      "Долгачев Анатолий Николаевич": 89,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 18,
-      "Пак Олег Игоревич": 34,
-      "Передня Александр Александрович": 64,
-      "Сопчук Сергей Андреевич": 107,
-      "Черепков Виктор Иванович": 56
+      "gas:candidate-vibid:22520001065788": 72,
+      "gas:candidate-vibid:22520001122521": 89,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 18,
+      "gas:candidate-vibid:22520001123419": 34,
+      "gas:candidate-vibid:22520001068729": 64,
+      "gas:candidate-vibid:22520001121309": 107,
+      "gas:candidate-vibid:22520001122673": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 50,
-      "Долгачев Анатолий Николаевич": 101,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 29,
-      "Пак Олег Игоревич": 54,
-      "Передня Александр Александрович": 44,
-      "Сопчук Сергей Андреевич": 132,
-      "Черепков Виктор Иванович": 62
+      "gas:candidate-vibid:22520001065788": 50,
+      "gas:candidate-vibid:22520001122521": 101,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 29,
+      "gas:candidate-vibid:22520001123419": 54,
+      "gas:candidate-vibid:22520001068729": 44,
+      "gas:candidate-vibid:22520001121309": 132,
+      "gas:candidate-vibid:22520001122673": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 57,
-      "Долгачев Анатолий Николаевич": 119,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 57,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 68,
-      "Сопчук Сергей Андреевич": 138,
-      "Черепков Виктор Иванович": 81
+      "gas:candidate-vibid:22520001065788": 57,
+      "gas:candidate-vibid:22520001122521": 119,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 57,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 68,
+      "gas:candidate-vibid:22520001121309": 138,
+      "gas:candidate-vibid:22520001122673": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 54,
-      "Долгачев Анатолий Николаевич": 93,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 59,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 65,
-      "Сопчук Сергей Андреевич": 133,
-      "Черепков Виктор Иванович": 73
+      "gas:candidate-vibid:22520001065788": 54,
+      "gas:candidate-vibid:22520001122521": 93,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 59,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 65,
+      "gas:candidate-vibid:22520001121309": 133,
+      "gas:candidate-vibid:22520001122673": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 91,
-      "Долгачев Анатолий Николаевич": 134,
-      "Либанов Виталий Викторович": 24,
-      "Марковцев Николай Владимирович": 71,
-      "Пак Олег Игоревич": 61,
-      "Передня Александр Александрович": 77,
-      "Сопчук Сергей Андреевич": 138,
-      "Черепков Виктор Иванович": 87
+      "gas:candidate-vibid:22520001065788": 91,
+      "gas:candidate-vibid:22520001122521": 134,
+      "gas:candidate-vibid:22520001123365": 24,
+      "gas:candidate-vibid:22520001123546": 71,
+      "gas:candidate-vibid:22520001123419": 61,
+      "gas:candidate-vibid:22520001068729": 77,
+      "gas:candidate-vibid:22520001121309": 138,
+      "gas:candidate-vibid:22520001122673": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 66,
-      "Долгачев Анатолий Николаевич": 126,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 40,
-      "Пак Олег Игоревич": 65,
-      "Передня Александр Александрович": 63,
-      "Сопчук Сергей Андреевич": 140,
-      "Черепков Виктор Иванович": 93
+      "gas:candidate-vibid:22520001065788": 66,
+      "gas:candidate-vibid:22520001122521": 126,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 40,
+      "gas:candidate-vibid:22520001123419": 65,
+      "gas:candidate-vibid:22520001068729": 63,
+      "gas:candidate-vibid:22520001121309": 140,
+      "gas:candidate-vibid:22520001122673": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 62,
-      "Долгачев Анатолий Николаевич": 93,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 49,
-      "Пак Олег Игоревич": 72,
-      "Передня Александр Александрович": 52,
-      "Сопчук Сергей Андреевич": 115,
-      "Черепков Виктор Иванович": 79
+      "gas:candidate-vibid:22520001065788": 62,
+      "gas:candidate-vibid:22520001122521": 93,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 49,
+      "gas:candidate-vibid:22520001123419": 72,
+      "gas:candidate-vibid:22520001068729": 52,
+      "gas:candidate-vibid:22520001121309": 115,
+      "gas:candidate-vibid:22520001122673": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 71,
-      "Долгачев Анатолий Николаевич": 62,
-      "Либанов Виталий Викторович": 16,
-      "Марковцев Николай Владимирович": 29,
-      "Пак Олег Игоревич": 50,
-      "Передня Александр Александрович": 50,
-      "Сопчук Сергей Андреевич": 149,
-      "Черепков Виктор Иванович": 60
+      "gas:candidate-vibid:22520001065788": 71,
+      "gas:candidate-vibid:22520001122521": 62,
+      "gas:candidate-vibid:22520001123365": 16,
+      "gas:candidate-vibid:22520001123546": 29,
+      "gas:candidate-vibid:22520001123419": 50,
+      "gas:candidate-vibid:22520001068729": 50,
+      "gas:candidate-vibid:22520001121309": 149,
+      "gas:candidate-vibid:22520001122673": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 59,
-      "Долгачев Анатолий Николаевич": 42,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 17,
-      "Пак Олег Игоревич": 31,
-      "Передня Александр Александрович": 21,
-      "Сопчук Сергей Андреевич": 135,
-      "Черепков Виктор Иванович": 16
+      "gas:candidate-vibid:22520001065788": 59,
+      "gas:candidate-vibid:22520001122521": 42,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 17,
+      "gas:candidate-vibid:22520001123419": 31,
+      "gas:candidate-vibid:22520001068729": 21,
+      "gas:candidate-vibid:22520001121309": 135,
+      "gas:candidate-vibid:22520001122673": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 62,
-      "Долгачев Анатолий Николаевич": 78,
-      "Либанов Виталий Викторович": 11,
-      "Марковцев Николай Владимирович": 51,
-      "Пак Олег Игоревич": 57,
-      "Передня Александр Александрович": 50,
-      "Сопчук Сергей Андреевич": 90,
-      "Черепков Виктор Иванович": 76
+      "gas:candidate-vibid:22520001065788": 62,
+      "gas:candidate-vibid:22520001122521": 78,
+      "gas:candidate-vibid:22520001123365": 11,
+      "gas:candidate-vibid:22520001123546": 51,
+      "gas:candidate-vibid:22520001123419": 57,
+      "gas:candidate-vibid:22520001068729": 50,
+      "gas:candidate-vibid:22520001121309": 90,
+      "gas:candidate-vibid:22520001122673": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 65,
-      "Долгачев Анатолий Николаевич": 97,
-      "Либанов Виталий Викторович": 23,
-      "Марковцев Николай Владимирович": 49,
-      "Пак Олег Игоревич": 58,
-      "Передня Александр Александрович": 59,
-      "Сопчук Сергей Андреевич": 143,
-      "Черепков Виктор Иванович": 67
+      "gas:candidate-vibid:22520001065788": 65,
+      "gas:candidate-vibid:22520001122521": 97,
+      "gas:candidate-vibid:22520001123365": 23,
+      "gas:candidate-vibid:22520001123546": 49,
+      "gas:candidate-vibid:22520001123419": 58,
+      "gas:candidate-vibid:22520001068729": 59,
+      "gas:candidate-vibid:22520001121309": 143,
+      "gas:candidate-vibid:22520001122673": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 54,
-      "Долгачев Анатолий Николаевич": 71,
-      "Либанов Виталий Викторович": 30,
-      "Марковцев Николай Владимирович": 56,
-      "Пак Олег Игоревич": 46,
-      "Передня Александр Александрович": 54,
-      "Сопчук Сергей Андреевич": 119,
-      "Черепков Виктор Иванович": 105
+      "gas:candidate-vibid:22520001065788": 54,
+      "gas:candidate-vibid:22520001122521": 71,
+      "gas:candidate-vibid:22520001123365": 30,
+      "gas:candidate-vibid:22520001123546": 56,
+      "gas:candidate-vibid:22520001123419": 46,
+      "gas:candidate-vibid:22520001068729": 54,
+      "gas:candidate-vibid:22520001121309": 119,
+      "gas:candidate-vibid:22520001122673": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 46,
-      "Долгачев Анатолий Николаевич": 70,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 24,
-      "Пак Олег Игоревич": 31,
-      "Передня Александр Александрович": 32,
-      "Сопчук Сергей Андреевич": 74,
-      "Черепков Виктор Иванович": 53
+      "gas:candidate-vibid:22520001065788": 46,
+      "gas:candidate-vibid:22520001122521": 70,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 24,
+      "gas:candidate-vibid:22520001123419": 31,
+      "gas:candidate-vibid:22520001068729": 32,
+      "gas:candidate-vibid:22520001121309": 74,
+      "gas:candidate-vibid:22520001122673": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 31,
-      "Долгачев Анатолий Николаевич": 46,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 26,
-      "Пак Олег Игоревич": 16,
-      "Передня Александр Александрович": 44,
-      "Сопчук Сергей Андреевич": 50,
-      "Черепков Виктор Иванович": 21
+      "gas:candidate-vibid:22520001065788": 31,
+      "gas:candidate-vibid:22520001122521": 46,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 26,
+      "gas:candidate-vibid:22520001123419": 16,
+      "gas:candidate-vibid:22520001068729": 44,
+      "gas:candidate-vibid:22520001121309": 50,
+      "gas:candidate-vibid:22520001122673": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 47,
-      "Долгачев Анатолий Николаевич": 62,
-      "Либанов Виталий Викторович": 13,
-      "Марковцев Николай Владимирович": 28,
-      "Пак Олег Игоревич": 25,
-      "Передня Александр Александрович": 33,
-      "Сопчук Сергей Андреевич": 84,
-      "Черепков Виктор Иванович": 49
+      "gas:candidate-vibid:22520001065788": 47,
+      "gas:candidate-vibid:22520001122521": 62,
+      "gas:candidate-vibid:22520001123365": 13,
+      "gas:candidate-vibid:22520001123546": 28,
+      "gas:candidate-vibid:22520001123419": 25,
+      "gas:candidate-vibid:22520001068729": 33,
+      "gas:candidate-vibid:22520001121309": 84,
+      "gas:candidate-vibid:22520001122673": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 60,
-      "Долгачев Анатолий Николаевич": 100,
-      "Либанов Виталий Викторович": 15,
-      "Марковцев Николай Владимирович": 41,
-      "Пак Олег Игоревич": 42,
-      "Передня Александр Александрович": 62,
-      "Сопчук Сергей Андреевич": 117,
-      "Черепков Виктор Иванович": 77
+      "gas:candidate-vibid:22520001065788": 60,
+      "gas:candidate-vibid:22520001122521": 100,
+      "gas:candidate-vibid:22520001123365": 15,
+      "gas:candidate-vibid:22520001123546": 41,
+      "gas:candidate-vibid:22520001123419": 42,
+      "gas:candidate-vibid:22520001068729": 62,
+      "gas:candidate-vibid:22520001121309": 117,
+      "gas:candidate-vibid:22520001122673": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_25_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 79,
-      "Долгачев Анатолий Николаевич": 95,
-      "Либанов Виталий Викторович": 20,
-      "Марковцев Николай Владимирович": 45,
-      "Пак Олег Игоревич": 60,
-      "Передня Александр Александрович": 47,
-      "Сопчук Сергей Андреевич": 128,
-      "Черепков Виктор Иванович": 78
+      "gas:candidate-vibid:22520001065788": 79,
+      "gas:candidate-vibid:22520001122521": 95,
+      "gas:candidate-vibid:22520001123365": 20,
+      "gas:candidate-vibid:22520001123546": 45,
+      "gas:candidate-vibid:22520001123419": 60,
+      "gas:candidate-vibid:22520001068729": 47,
+      "gas:candidate-vibid:22520001121309": 128,
+      "gas:candidate-vibid:22520001122673": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",

@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 32,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 340,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 133,
-      "Чулкин Алексей Аркадьевич": 152,
-      "Шудегов Виктор Евграфович": 93,
-      "Ягафаров Тимур Фаатович": 62
+      "gas:candidate-vibid:2182000788212": 32,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 340,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 133,
+      "gas:candidate-vibid:2182000788018": 152,
+      "gas:candidate-vibid:2182000786535": 93,
+      "gas:candidate-vibid:2182000783897": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 18,
-      "Загребин Алексей Егорович": 197,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 66,
-      "Чулкин Алексей Аркадьевич": 144,
-      "Шудегов Виктор Евграфович": 39,
-      "Ягафаров Тимур Фаатович": 46
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 18,
+      "gas:candidate-vibid:2182000787548": 197,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 66,
+      "gas:candidate-vibid:2182000788018": 144,
+      "gas:candidate-vibid:2182000786535": 39,
+      "gas:candidate-vibid:2182000783897": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 15,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 248,
-      "Закиров Ильдар Шамилевич": 14,
-      "Чепкасов Владимир Геннадьевич": 50,
-      "Чулкин Алексей Аркадьевич": 166,
-      "Шудегов Виктор Евграфович": 39,
-      "Ягафаров Тимур Фаатович": 56
+      "gas:candidate-vibid:2182000788212": 15,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 248,
+      "gas:candidate-vibid:2182000786620": 14,
+      "gas:candidate-vibid:2182000785139": 50,
+      "gas:candidate-vibid:2182000788018": 166,
+      "gas:candidate-vibid:2182000786535": 39,
+      "gas:candidate-vibid:2182000783897": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 237,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 52,
-      "Чулкин Алексей Аркадьевич": 115,
-      "Шудегов Виктор Евграфович": 32,
-      "Ягафаров Тимур Фаатович": 55
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 237,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 52,
+      "gas:candidate-vibid:2182000788018": 115,
+      "gas:candidate-vibid:2182000786535": 32,
+      "gas:candidate-vibid:2182000783897": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 29,
-      "Дементьев Роман Вячеславович": 29,
-      "Загребин Алексей Егорович": 328,
-      "Закиров Ильдар Шамилевич": 19,
-      "Чепкасов Владимир Геннадьевич": 117,
-      "Чулкин Алексей Аркадьевич": 155,
-      "Шудегов Виктор Евграфович": 127,
-      "Ягафаров Тимур Фаатович": 83
+      "gas:candidate-vibid:2182000788212": 29,
+      "gas:candidate-vibid:2182000785496": 29,
+      "gas:candidate-vibid:2182000787548": 328,
+      "gas:candidate-vibid:2182000786620": 19,
+      "gas:candidate-vibid:2182000785139": 117,
+      "gas:candidate-vibid:2182000788018": 155,
+      "gas:candidate-vibid:2182000786535": 127,
+      "gas:candidate-vibid:2182000783897": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 14,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 276,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 89,
-      "Чулкин Алексей Аркадьевич": 83,
-      "Шудегов Виктор Евграфович": 88,
-      "Ягафаров Тимур Фаатович": 46
+      "gas:candidate-vibid:2182000788212": 14,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 276,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 89,
+      "gas:candidate-vibid:2182000788018": 83,
+      "gas:candidate-vibid:2182000786535": 88,
+      "gas:candidate-vibid:2182000783897": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 270,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 83,
-      "Чулкин Алексей Аркадьевич": 88,
-      "Шудегов Виктор Евграфович": 97,
-      "Ягафаров Тимур Фаатович": 44
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 270,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 83,
+      "gas:candidate-vibid:2182000788018": 88,
+      "gas:candidate-vibid:2182000786535": 97,
+      "gas:candidate-vibid:2182000783897": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 288,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 70,
-      "Чулкин Алексей Аркадьевич": 93,
-      "Шудегов Виктор Евграфович": 68,
-      "Ягафаров Тимур Фаатович": 51
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 288,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 70,
+      "gas:candidate-vibid:2182000788018": 93,
+      "gas:candidate-vibid:2182000786535": 68,
+      "gas:candidate-vibid:2182000783897": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 14,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 293,
-      "Закиров Ильдар Шамилевич": 14,
-      "Чепкасов Владимир Геннадьевич": 106,
-      "Чулкин Алексей Аркадьевич": 110,
-      "Шудегов Виктор Евграфович": 103,
-      "Ягафаров Тимур Фаатович": 49
+      "gas:candidate-vibid:2182000788212": 14,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 293,
+      "gas:candidate-vibid:2182000786620": 14,
+      "gas:candidate-vibid:2182000785139": 106,
+      "gas:candidate-vibid:2182000788018": 110,
+      "gas:candidate-vibid:2182000786535": 103,
+      "gas:candidate-vibid:2182000783897": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 12,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 247,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 93,
-      "Чулкин Алексей Аркадьевич": 127,
-      "Шудегов Виктор Евграфович": 112,
-      "Ягафаров Тимур Фаатович": 50
+      "gas:candidate-vibid:2182000788212": 12,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 247,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 93,
+      "gas:candidate-vibid:2182000788018": 127,
+      "gas:candidate-vibid:2182000786535": 112,
+      "gas:candidate-vibid:2182000783897": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 259,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 97,
-      "Чулкин Алексей Аркадьевич": 90,
-      "Шудегов Виктор Евграфович": 117,
-      "Ягафаров Тимур Фаатович": 45
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 259,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 97,
+      "gas:candidate-vibid:2182000788018": 90,
+      "gas:candidate-vibid:2182000786535": 117,
+      "gas:candidate-vibid:2182000783897": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 7,
-      "Загребин Алексей Егорович": 255,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 74,
-      "Чулкин Алексей Аркадьевич": 85,
-      "Шудегов Виктор Евграфович": 93,
-      "Ягафаров Тимур Фаатович": 44
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 7,
+      "gas:candidate-vibid:2182000787548": 255,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 74,
+      "gas:candidate-vibid:2182000788018": 85,
+      "gas:candidate-vibid:2182000786535": 93,
+      "gas:candidate-vibid:2182000783897": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 22,
-      "Дементьев Роман Вячеславович": 40,
-      "Загребин Алексей Егорович": 518,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 162,
-      "Чулкин Алексей Аркадьевич": 152,
-      "Шудегов Виктор Евграфович": 166,
-      "Ягафаров Тимур Фаатович": 88
+      "gas:candidate-vibid:2182000788212": 22,
+      "gas:candidate-vibid:2182000785496": 40,
+      "gas:candidate-vibid:2182000787548": 518,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 162,
+      "gas:candidate-vibid:2182000788018": 152,
+      "gas:candidate-vibid:2182000786535": 166,
+      "gas:candidate-vibid:2182000783897": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 14,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 288,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 109,
-      "Чулкин Алексей Аркадьевич": 95,
-      "Шудегов Виктор Евграфович": 113,
-      "Ягафаров Тимур Фаатович": 52
+      "gas:candidate-vibid:2182000788212": 14,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 288,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 109,
+      "gas:candidate-vibid:2182000788018": 95,
+      "gas:candidate-vibid:2182000786535": 113,
+      "gas:candidate-vibid:2182000783897": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 320,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 105,
-      "Чулкин Алексей Аркадьевич": 142,
-      "Шудегов Виктор Евграфович": 118,
-      "Ягафаров Тимур Фаатович": 49
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 320,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 105,
+      "gas:candidate-vibid:2182000788018": 142,
+      "gas:candidate-vibid:2182000786535": 118,
+      "gas:candidate-vibid:2182000783897": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 22,
-      "Дементьев Роман Вячеславович": 48,
-      "Загребин Алексей Егорович": 385,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 146,
-      "Чулкин Алексей Аркадьевич": 208,
-      "Шудегов Виктор Евграфович": 155,
-      "Ягафаров Тимур Фаатович": 88
+      "gas:candidate-vibid:2182000788212": 22,
+      "gas:candidate-vibid:2182000785496": 48,
+      "gas:candidate-vibid:2182000787548": 385,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 146,
+      "gas:candidate-vibid:2182000788018": 208,
+      "gas:candidate-vibid:2182000786535": 155,
+      "gas:candidate-vibid:2182000783897": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 12,
-      "Дементьев Роман Вячеславович": 30,
-      "Загребин Алексей Егорович": 196,
-      "Закиров Ильдар Шамилевич": 14,
-      "Чепкасов Владимир Геннадьевич": 114,
-      "Чулкин Алексей Аркадьевич": 140,
-      "Шудегов Виктор Евграфович": 108,
-      "Ягафаров Тимур Фаатович": 73
+      "gas:candidate-vibid:2182000788212": 12,
+      "gas:candidate-vibid:2182000785496": 30,
+      "gas:candidate-vibid:2182000787548": 196,
+      "gas:candidate-vibid:2182000786620": 14,
+      "gas:candidate-vibid:2182000785139": 114,
+      "gas:candidate-vibid:2182000788018": 140,
+      "gas:candidate-vibid:2182000786535": 108,
+      "gas:candidate-vibid:2182000783897": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 13,
-      "Дементьев Роман Вячеславович": 25,
-      "Загребин Алексей Егорович": 289,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 118,
-      "Чулкин Алексей Аркадьевич": 135,
-      "Шудегов Виктор Евграфович": 126,
-      "Ягафаров Тимур Фаатович": 67
+      "gas:candidate-vibid:2182000788212": 13,
+      "gas:candidate-vibid:2182000785496": 25,
+      "gas:candidate-vibid:2182000787548": 289,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 118,
+      "gas:candidate-vibid:2182000788018": 135,
+      "gas:candidate-vibid:2182000786535": 126,
+      "gas:candidate-vibid:2182000783897": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 18,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 253,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 102,
-      "Чулкин Алексей Аркадьевич": 112,
-      "Шудегов Виктор Евграфович": 97,
-      "Ягафаров Тимур Фаатович": 55
+      "gas:candidate-vibid:2182000788212": 18,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 253,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 102,
+      "gas:candidate-vibid:2182000788018": 112,
+      "gas:candidate-vibid:2182000786535": 97,
+      "gas:candidate-vibid:2182000783897": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 13,
-      "Дементьев Роман Вячеславович": 17,
-      "Загребин Алексей Егорович": 236,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 103,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 84,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 13,
+      "gas:candidate-vibid:2182000785496": 17,
+      "gas:candidate-vibid:2182000787548": 236,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 103,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 84,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 13,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 250,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 100,
-      "Чулкин Алексей Аркадьевич": 151,
-      "Шудегов Виктор Евграфович": 122,
-      "Ягафаров Тимур Фаатович": 54
+      "gas:candidate-vibid:2182000788212": 13,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 250,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 100,
+      "gas:candidate-vibid:2182000788018": 151,
+      "gas:candidate-vibid:2182000786535": 122,
+      "gas:candidate-vibid:2182000783897": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 193,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 104,
-      "Чулкин Алексей Аркадьевич": 140,
-      "Шудегов Виктор Евграфович": 87,
-      "Ягафаров Тимур Фаатович": 43
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 193,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 104,
+      "gas:candidate-vibid:2182000788018": 140,
+      "gas:candidate-vibid:2182000786535": 87,
+      "gas:candidate-vibid:2182000783897": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 17,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 242,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 104,
-      "Чулкин Алексей Аркадьевич": 143,
-      "Шудегов Виктор Евграфович": 119,
-      "Ягафаров Тимур Фаатович": 52
+      "gas:candidate-vibid:2182000788212": 17,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 242,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 104,
+      "gas:candidate-vibid:2182000788018": 143,
+      "gas:candidate-vibid:2182000786535": 119,
+      "gas:candidate-vibid:2182000783897": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 251,
-      "Закиров Ильдар Шамилевич": 14,
-      "Чепкасов Владимир Геннадьевич": 122,
-      "Чулкин Алексей Аркадьевич": 163,
-      "Шудегов Виктор Евграфович": 121,
-      "Ягафаров Тимур Фаатович": 49
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 251,
+      "gas:candidate-vibid:2182000786620": 14,
+      "gas:candidate-vibid:2182000785139": 122,
+      "gas:candidate-vibid:2182000788018": 163,
+      "gas:candidate-vibid:2182000786535": 121,
+      "gas:candidate-vibid:2182000783897": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 14,
-      "Дементьев Роман Вячеславович": 25,
-      "Загребин Алексей Егорович": 249,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 139,
-      "Чулкин Алексей Аркадьевич": 139,
-      "Шудегов Виктор Евграфович": 93,
-      "Ягафаров Тимур Фаатович": 67
+      "gas:candidate-vibid:2182000788212": 14,
+      "gas:candidate-vibid:2182000785496": 25,
+      "gas:candidate-vibid:2182000787548": 249,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 139,
+      "gas:candidate-vibid:2182000788018": 139,
+      "gas:candidate-vibid:2182000786535": 93,
+      "gas:candidate-vibid:2182000783897": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 20,
-      "Загребин Алексей Егорович": 224,
-      "Закиров Ильдар Шамилевич": 16,
-      "Чепкасов Владимир Геннадьевич": 115,
-      "Чулкин Алексей Аркадьевич": 109,
-      "Шудегов Виктор Евграфович": 101,
-      "Ягафаров Тимур Фаатович": 74
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 20,
+      "gas:candidate-vibid:2182000787548": 224,
+      "gas:candidate-vibid:2182000786620": 16,
+      "gas:candidate-vibid:2182000785139": 115,
+      "gas:candidate-vibid:2182000788018": 109,
+      "gas:candidate-vibid:2182000786535": 101,
+      "gas:candidate-vibid:2182000783897": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 37,
-      "Дементьев Роман Вячеславович": 24,
-      "Загребин Алексей Егорович": 202,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 96,
-      "Чулкин Алексей Аркадьевич": 88,
-      "Шудегов Виктор Евграфович": 93,
-      "Ягафаров Тимур Фаатович": 50
+      "gas:candidate-vibid:2182000788212": 37,
+      "gas:candidate-vibid:2182000785496": 24,
+      "gas:candidate-vibid:2182000787548": 202,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 96,
+      "gas:candidate-vibid:2182000788018": 88,
+      "gas:candidate-vibid:2182000786535": 93,
+      "gas:candidate-vibid:2182000783897": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 44,
-      "Дементьев Роман Вячеславович": 26,
-      "Загребин Алексей Егорович": 231,
-      "Закиров Ильдар Шамилевич": 20,
-      "Чепкасов Владимир Геннадьевич": 134,
-      "Чулкин Алексей Аркадьевич": 165,
-      "Шудегов Виктор Евграфович": 113,
-      "Ягафаров Тимур Фаатович": 46
+      "gas:candidate-vibid:2182000788212": 44,
+      "gas:candidate-vibid:2182000785496": 26,
+      "gas:candidate-vibid:2182000787548": 231,
+      "gas:candidate-vibid:2182000786620": 20,
+      "gas:candidate-vibid:2182000785139": 134,
+      "gas:candidate-vibid:2182000788018": 165,
+      "gas:candidate-vibid:2182000786535": 113,
+      "gas:candidate-vibid:2182000783897": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 16,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 215,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 87,
-      "Чулкин Алексей Аркадьевич": 119,
-      "Шудегов Виктор Евграфович": 64,
-      "Ягафаров Тимур Фаатович": 32
+      "gas:candidate-vibid:2182000788212": 16,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 215,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 87,
+      "gas:candidate-vibid:2182000788018": 119,
+      "gas:candidate-vibid:2182000786535": 64,
+      "gas:candidate-vibid:2182000783897": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 56,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 18,
-      "Чулкин Алексей Аркадьевич": 38,
-      "Шудегов Виктор Евграфович": 30,
-      "Ягафаров Тимур Фаатович": 15
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 56,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 18,
+      "gas:candidate-vibid:2182000788018": 38,
+      "gas:candidate-vibid:2182000786535": 30,
+      "gas:candidate-vibid:2182000783897": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 13,
-      "Дементьев Роман Вячеславович": 1,
-      "Загребин Алексей Егорович": 58,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 8,
-      "Чулкин Алексей Аркадьевич": 13,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 33
+      "gas:candidate-vibid:2182000788212": 13,
+      "gas:candidate-vibid:2182000785496": 1,
+      "gas:candidate-vibid:2182000787548": 58,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 8,
+      "gas:candidate-vibid:2182000788018": 13,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 52,
-      "Дементьев Роман Вячеславович": 26,
-      "Загребин Алексей Егорович": 287,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 131,
-      "Чулкин Алексей Аркадьевич": 184,
-      "Шудегов Виктор Евграфович": 148,
-      "Ягафаров Тимур Фаатович": 65
+      "gas:candidate-vibid:2182000788212": 52,
+      "gas:candidate-vibid:2182000785496": 26,
+      "gas:candidate-vibid:2182000787548": 287,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 131,
+      "gas:candidate-vibid:2182000788018": 184,
+      "gas:candidate-vibid:2182000786535": 148,
+      "gas:candidate-vibid:2182000783897": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 16,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 5,
-      "Чулкин Алексей Аркадьевич": 3,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 1
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 16,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 5,
+      "gas:candidate-vibid:2182000788018": 3,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 19,
-      "Дементьев Роман Вячеславович": 20,
-      "Загребин Алексей Егорович": 245,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 82,
-      "Чулкин Алексей Аркадьевич": 164,
-      "Шудегов Виктор Евграфович": 61,
-      "Ягафаров Тимур Фаатович": 70
+      "gas:candidate-vibid:2182000788212": 19,
+      "gas:candidate-vibid:2182000785496": 20,
+      "gas:candidate-vibid:2182000787548": 245,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 82,
+      "gas:candidate-vibid:2182000788018": 164,
+      "gas:candidate-vibid:2182000786535": 61,
+      "gas:candidate-vibid:2182000783897": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 54,
-      "Дементьев Роман Вячеславович": 29,
-      "Загребин Алексей Егорович": 285,
-      "Закиров Ильдар Шамилевич": 18,
-      "Чепкасов Владимир Геннадьевич": 117,
-      "Чулкин Алексей Аркадьевич": 121,
-      "Шудегов Виктор Евграфович": 96,
-      "Ягафаров Тимур Фаатович": 85
+      "gas:candidate-vibid:2182000788212": 54,
+      "gas:candidate-vibid:2182000785496": 29,
+      "gas:candidate-vibid:2182000787548": 285,
+      "gas:candidate-vibid:2182000786620": 18,
+      "gas:candidate-vibid:2182000785139": 117,
+      "gas:candidate-vibid:2182000788018": 121,
+      "gas:candidate-vibid:2182000786535": 96,
+      "gas:candidate-vibid:2182000783897": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 21,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 188,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 86,
-      "Чулкин Алексей Аркадьевич": 82,
-      "Шудегов Виктор Евграфович": 49,
-      "Ягафаров Тимур Фаатович": 28
+      "gas:candidate-vibid:2182000788212": 21,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 188,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 86,
+      "gas:candidate-vibid:2182000788018": 82,
+      "gas:candidate-vibid:2182000786535": 49,
+      "gas:candidate-vibid:2182000783897": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 0,
-      "Загребин Алексей Егорович": 5,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 4,
-      "Чулкин Алексей Аркадьевич": 5,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 0
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 0,
+      "gas:candidate-vibid:2182000787548": 5,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 4,
+      "gas:candidate-vibid:2182000788018": 5,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 159,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 36,
-      "Чулкин Алексей Аркадьевич": 77,
-      "Шудегов Виктор Евграфович": 29,
-      "Ягафаров Тимур Фаатович": 25
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 159,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 36,
+      "gas:candidate-vibid:2182000788018": 77,
+      "gas:candidate-vibid:2182000786535": 29,
+      "gas:candidate-vibid:2182000783897": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 7,
-      "Загребин Алексей Егорович": 67,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 7,
-      "Чулкин Алексей Аркадьевич": 11,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 5
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 7,
+      "gas:candidate-vibid:2182000787548": 67,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 7,
+      "gas:candidate-vibid:2182000788018": 11,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 28,
-      "Дементьев Роман Вячеславович": 37,
-      "Загребин Алексей Егорович": 547,
-      "Закиров Ильдар Шамилевич": 21,
-      "Чепкасов Владимир Геннадьевич": 169,
-      "Чулкин Алексей Аркадьевич": 191,
-      "Шудегов Виктор Евграфович": 152,
-      "Ягафаров Тимур Фаатович": 79
+      "gas:candidate-vibid:2182000788212": 28,
+      "gas:candidate-vibid:2182000785496": 37,
+      "gas:candidate-vibid:2182000787548": 547,
+      "gas:candidate-vibid:2182000786620": 21,
+      "gas:candidate-vibid:2182000785139": 169,
+      "gas:candidate-vibid:2182000788018": 191,
+      "gas:candidate-vibid:2182000786535": 152,
+      "gas:candidate-vibid:2182000783897": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744065&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744065&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 34,
-      "Загребин Алексей Егорович": 434,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 155,
-      "Чулкин Алексей Аркадьевич": 127,
-      "Шудегов Виктор Евграфович": 38,
-      "Ягафаров Тимур Фаатович": 76
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 34,
+      "gas:candidate-vibid:2182000787548": 434,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 155,
+      "gas:candidate-vibid:2182000788018": 127,
+      "gas:candidate-vibid:2182000786535": 38,
+      "gas:candidate-vibid:2182000783897": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 166,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 33,
-      "Чулкин Алексей Аркадьевич": 55,
-      "Шудегов Виктор Евграфович": 18,
-      "Ягафаров Тимур Фаатович": 30
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 166,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 33,
+      "gas:candidate-vibid:2182000788018": 55,
+      "gas:candidate-vibid:2182000786535": 18,
+      "gas:candidate-vibid:2182000783897": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 170,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 31,
-      "Чулкин Алексей Аркадьевич": 63,
-      "Шудегов Виктор Евграфович": 19,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 170,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 31,
+      "gas:candidate-vibid:2182000788018": 63,
+      "gas:candidate-vibid:2182000786535": 19,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 29,
-      "Загребин Алексей Егорович": 467,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 104,
-      "Чулкин Алексей Аркадьевич": 119,
-      "Шудегов Виктор Евграфович": 28,
-      "Ягафаров Тимур Фаатович": 70
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 29,
+      "gas:candidate-vibid:2182000787548": 467,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 104,
+      "gas:candidate-vibid:2182000788018": 119,
+      "gas:candidate-vibid:2182000786535": 28,
+      "gas:candidate-vibid:2182000783897": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 34,
-      "Загребин Алексей Егорович": 370,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 97,
-      "Чулкин Алексей Аркадьевич": 132,
-      "Шудегов Виктор Евграфович": 27,
-      "Ягафаров Тимур Фаатович": 61
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 34,
+      "gas:candidate-vibid:2182000787548": 370,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 97,
+      "gas:candidate-vibid:2182000788018": 132,
+      "gas:candidate-vibid:2182000786535": 27,
+      "gas:candidate-vibid:2182000783897": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 25,
-      "Загребин Алексей Егорович": 502,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 153,
-      "Чулкин Алексей Аркадьевич": 130,
-      "Шудегов Виктор Евграфович": 32,
-      "Ягафаров Тимур Фаатович": 97
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 25,
+      "gas:candidate-vibid:2182000787548": 502,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 153,
+      "gas:candidate-vibid:2182000788018": 130,
+      "gas:candidate-vibid:2182000786535": 32,
+      "gas:candidate-vibid:2182000783897": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 190,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 70,
-      "Чулкин Алексей Аркадьевич": 42,
-      "Шудегов Виктор Евграфович": 12,
-      "Ягафаров Тимур Фаатович": 27
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 190,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 70,
+      "gas:candidate-vibid:2182000788018": 42,
+      "gas:candidate-vibid:2182000786535": 12,
+      "gas:candidate-vibid:2182000783897": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 326,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 142,
-      "Чулкин Алексей Аркадьевич": 88,
-      "Шудегов Виктор Евграфович": 31,
-      "Ягафаров Тимур Фаатович": 70
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 326,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 142,
+      "gas:candidate-vibid:2182000788018": 88,
+      "gas:candidate-vibid:2182000786535": 31,
+      "gas:candidate-vibid:2182000783897": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 27,
-      "Загребин Алексей Егорович": 535,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 136,
-      "Чулкин Алексей Аркадьевич": 153,
-      "Шудегов Виктор Евграфович": 32,
-      "Ягафаров Тимур Фаатович": 72
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 27,
+      "gas:candidate-vibid:2182000787548": 535,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 136,
+      "gas:candidate-vibid:2182000788018": 153,
+      "gas:candidate-vibid:2182000786535": 32,
+      "gas:candidate-vibid:2182000783897": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 20,
-      "Загребин Алексей Егорович": 335,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 125,
-      "Чулкин Алексей Аркадьевич": 72,
-      "Шудегов Виктор Евграфович": 35,
-      "Ягафаров Тимур Фаатович": 55
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 20,
+      "gas:candidate-vibid:2182000787548": 335,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 125,
+      "gas:candidate-vibid:2182000788018": 72,
+      "gas:candidate-vibid:2182000786535": 35,
+      "gas:candidate-vibid:2182000783897": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 229,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 50,
-      "Чулкин Алексей Аркадьевич": 46,
-      "Шудегов Виктор Евграфович": 23,
-      "Ягафаров Тимур Фаатович": 30
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 229,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 50,
+      "gas:candidate-vibid:2182000788018": 46,
+      "gas:candidate-vibid:2182000786535": 23,
+      "gas:candidate-vibid:2182000783897": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 20,
-      "Дементьев Роман Вячеславович": 18,
-      "Загребин Алексей Егорович": 217,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 53,
-      "Чулкин Алексей Аркадьевич": 93,
-      "Шудегов Виктор Евграфович": 15,
-      "Ягафаров Тимур Фаатович": 38
+      "gas:candidate-vibid:2182000788212": 20,
+      "gas:candidate-vibid:2182000785496": 18,
+      "gas:candidate-vibid:2182000787548": 217,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 53,
+      "gas:candidate-vibid:2182000788018": 93,
+      "gas:candidate-vibid:2182000786535": 15,
+      "gas:candidate-vibid:2182000783897": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 105,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 42,
-      "Чулкин Алексей Аркадьевич": 48,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 25
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 105,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 42,
+      "gas:candidate-vibid:2182000788018": 48,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 160,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 25,
-      "Чулкин Алексей Аркадьевич": 78,
-      "Шудегов Виктор Евграфович": 14,
-      "Ягафаров Тимур Фаатович": 22
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 160,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 25,
+      "gas:candidate-vibid:2182000788018": 78,
+      "gas:candidate-vibid:2182000786535": 14,
+      "gas:candidate-vibid:2182000783897": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 299,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 23,
-      "Чулкин Алексей Аркадьевич": 21,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 8
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 299,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 23,
+      "gas:candidate-vibid:2182000788018": 21,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 207,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 14,
-      "Чулкин Алексей Аркадьевич": 31,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 207,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 14,
+      "gas:candidate-vibid:2182000788018": 31,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 161,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 17,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 10
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 161,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 17,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 58,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 6,
-      "Чулкин Алексей Аркадьевич": 14,
-      "Шудегов Виктор Евграфович": 0,
-      "Ягафаров Тимур Фаатович": 2
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 58,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 6,
+      "gas:candidate-vibid:2182000788018": 14,
+      "gas:candidate-vibid:2182000786535": 0,
+      "gas:candidate-vibid:2182000783897": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 13,
-      "Дементьев Роман Вячеславович": 32,
-      "Загребин Алексей Егорович": 306,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 93,
-      "Чулкин Алексей Аркадьевич": 70,
-      "Шудегов Виктор Евграфович": 18,
-      "Ягафаров Тимур Фаатович": 26
+      "gas:candidate-vibid:2182000788212": 13,
+      "gas:candidate-vibid:2182000785496": 32,
+      "gas:candidate-vibid:2182000787548": 306,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 93,
+      "gas:candidate-vibid:2182000788018": 70,
+      "gas:candidate-vibid:2182000786535": 18,
+      "gas:candidate-vibid:2182000783897": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 32,
-      "Загребин Алексей Егорович": 250,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 113,
-      "Чулкин Алексей Аркадьевич": 82,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 29
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 32,
+      "gas:candidate-vibid:2182000787548": 250,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 113,
+      "gas:candidate-vibid:2182000788018": 82,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 283,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 34,
-      "Чулкин Алексей Аркадьевич": 32,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 8
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 283,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 34,
+      "gas:candidate-vibid:2182000788018": 32,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 136,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 10,
-      "Чулкин Алексей Аркадьевич": 27,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 1
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 136,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 10,
+      "gas:candidate-vibid:2182000788018": 27,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 130,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 16,
-      "Чулкин Алексей Аркадьевич": 24,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 9
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 130,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 16,
+      "gas:candidate-vibid:2182000788018": 24,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 157,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 15,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 157,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 15,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 77,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 8,
-      "Чулкин Алексей Аркадьевич": 20,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 77,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 8,
+      "gas:candidate-vibid:2182000788018": 20,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 352,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 63,
-      "Чулкин Алексей Аркадьевич": 23,
-      "Шудегов Виктор Евграфович": 16,
-      "Ягафаров Тимур Фаатович": 31
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 352,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 63,
+      "gas:candidate-vibid:2182000788018": 23,
+      "gas:candidate-vibid:2182000786535": 16,
+      "gas:candidate-vibid:2182000783897": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 90,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 9,
-      "Чулкин Алексей Аркадьевич": 13,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 6
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 90,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 9,
+      "gas:candidate-vibid:2182000788018": 13,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 109,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 10,
-      "Чулкин Алексей Аркадьевич": 9,
-      "Шудегов Виктор Евграфович": 6,
-      "Ягафаров Тимур Фаатович": 2
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 109,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 10,
+      "gas:candidate-vibid:2182000788018": 9,
+      "gas:candidate-vibid:2182000786535": 6,
+      "gas:candidate-vibid:2182000783897": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 153,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 27,
-      "Чулкин Алексей Аркадьевич": 41,
-      "Шудегов Виктор Евграфович": 6,
-      "Ягафаров Тимур Фаатович": 20
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 153,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 27,
+      "gas:candidate-vibid:2182000788018": 41,
+      "gas:candidate-vibid:2182000786535": 6,
+      "gas:candidate-vibid:2182000783897": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 218,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 23,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 10
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 218,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 23,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 118,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 13,
-      "Чулкин Алексей Аркадьевич": 9,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 8
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 118,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 13,
+      "gas:candidate-vibid:2182000788018": 9,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 76,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 10,
-      "Чулкин Алексей Аркадьевич": 15,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 0
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 76,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 10,
+      "gas:candidate-vibid:2182000788018": 15,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 289,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 25,
-      "Чулкин Алексей Аркадьевич": 27,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 5
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 289,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 25,
+      "gas:candidate-vibid:2182000788018": 27,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 163,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 15,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 6,
-      "Ягафаров Тимур Фаатович": 11
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 163,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 15,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 6,
+      "gas:candidate-vibid:2182000783897": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 18,
-      "Загребин Алексей Егорович": 260,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 34,
-      "Чулкин Алексей Аркадьевич": 35,
-      "Шудегов Виктор Евграфович": 12,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 18,
+      "gas:candidate-vibid:2182000787548": 260,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 34,
+      "gas:candidate-vibid:2182000788018": 35,
+      "gas:candidate-vibid:2182000786535": 12,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 140,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 9,
-      "Чулкин Алексей Аркадьевич": 25,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 18
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 140,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 9,
+      "gas:candidate-vibid:2182000788018": 25,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 112,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 38,
-      "Чулкин Алексей Аркадьевич": 32,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 20
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 112,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 38,
+      "gas:candidate-vibid:2182000788018": 32,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 0,
-      "Загребин Алексей Егорович": 53,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 7,
-      "Чулкин Алексей Аркадьевич": 14,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 3
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 0,
+      "gas:candidate-vibid:2182000787548": 53,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 7,
+      "gas:candidate-vibid:2182000788018": 14,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 62,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 5,
-      "Чулкин Алексей Аркадьевич": 17,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 11
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 62,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 5,
+      "gas:candidate-vibid:2182000788018": 17,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744066&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744066&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 20,
-      "Загребин Алексей Егорович": 200,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 77,
-      "Чулкин Алексей Аркадьевич": 151,
-      "Шудегов Виктор Евграфович": 10,
-      "Ягафаров Тимур Фаатович": 29
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 20,
+      "gas:candidate-vibid:2182000787548": 200,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 77,
+      "gas:candidate-vibid:2182000788018": 151,
+      "gas:candidate-vibid:2182000786535": 10,
+      "gas:candidate-vibid:2182000783897": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 86,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 16,
-      "Чулкин Алексей Аркадьевич": 58,
-      "Шудегов Виктор Евграфович": 14,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 86,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 16,
+      "gas:candidate-vibid:2182000788018": 58,
+      "gas:candidate-vibid:2182000786535": 14,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 25,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 10,
-      "Чулкин Алексей Аркадьевич": 33,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 25,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 10,
+      "gas:candidate-vibid:2182000788018": 33,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 0,
-      "Загребин Алексей Егорович": 24,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 5,
-      "Чулкин Алексей Аркадьевич": 30,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 3
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 0,
+      "gas:candidate-vibid:2182000787548": 24,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 5,
+      "gas:candidate-vibid:2182000788018": 30,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 16,
-      "Дементьев Роман Вячеславович": 37,
-      "Загребин Алексей Егорович": 433,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 144,
-      "Чулкин Алексей Аркадьевич": 122,
-      "Шудегов Виктор Евграфович": 53,
-      "Ягафаров Тимур Фаатович": 84
+      "gas:candidate-vibid:2182000788212": 16,
+      "gas:candidate-vibid:2182000785496": 37,
+      "gas:candidate-vibid:2182000787548": 433,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 144,
+      "gas:candidate-vibid:2182000788018": 122,
+      "gas:candidate-vibid:2182000786535": 53,
+      "gas:candidate-vibid:2182000783897": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 13,
-      "Дементьев Роман Вячеславович": 52,
-      "Загребин Алексей Егорович": 461,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 149,
-      "Чулкин Алексей Аркадьевич": 157,
-      "Шудегов Виктор Евграфович": 74,
-      "Ягафаров Тимур Фаатович": 77
+      "gas:candidate-vibid:2182000788212": 13,
+      "gas:candidate-vibid:2182000785496": 52,
+      "gas:candidate-vibid:2182000787548": 461,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 149,
+      "gas:candidate-vibid:2182000788018": 157,
+      "gas:candidate-vibid:2182000786535": 74,
+      "gas:candidate-vibid:2182000783897": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 193,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 60,
-      "Чулкин Алексей Аркадьевич": 71,
-      "Шудегов Виктор Евграфович": 19,
-      "Ягафаров Тимур Фаатович": 52
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 193,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 60,
+      "gas:candidate-vibid:2182000788018": 71,
+      "gas:candidate-vibid:2182000786535": 19,
+      "gas:candidate-vibid:2182000783897": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 25,
-      "Загребин Алексей Егорович": 290,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 85,
-      "Чулкин Алексей Аркадьевич": 131,
-      "Шудегов Виктор Евграфович": 26,
-      "Ягафаров Тимур Фаатович": 53
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 25,
+      "gas:candidate-vibid:2182000787548": 290,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 85,
+      "gas:candidate-vibid:2182000788018": 131,
+      "gas:candidate-vibid:2182000786535": 26,
+      "gas:candidate-vibid:2182000783897": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 150,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 35,
-      "Чулкин Алексей Аркадьевич": 47,
-      "Шудегов Виктор Евграфович": 11,
-      "Ягафаров Тимур Фаатович": 13
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 150,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 35,
+      "gas:candidate-vibid:2182000788018": 47,
+      "gas:candidate-vibid:2182000786535": 11,
+      "gas:candidate-vibid:2182000783897": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 175,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 58,
-      "Чулкин Алексей Аркадьевич": 87,
-      "Шудегов Виктор Евграфович": 30,
-      "Ягафаров Тимур Фаатович": 89
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 175,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 58,
+      "gas:candidate-vibid:2182000788018": 87,
+      "gas:candidate-vibid:2182000786535": 30,
+      "gas:candidate-vibid:2182000783897": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 383,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 127,
-      "Чулкин Алексей Аркадьевич": 139,
-      "Шудегов Виктор Евграфович": 53,
-      "Ягафаров Тимур Фаатович": 67
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 383,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 127,
+      "gas:candidate-vibid:2182000788018": 139,
+      "gas:candidate-vibid:2182000786535": 53,
+      "gas:candidate-vibid:2182000783897": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 125,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 33,
-      "Чулкин Алексей Аркадьевич": 70,
-      "Шудегов Виктор Евграфович": 21,
-      "Ягафаров Тимур Фаатович": 19
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 125,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 33,
+      "gas:candidate-vibid:2182000788018": 70,
+      "gas:candidate-vibid:2182000786535": 21,
+      "gas:candidate-vibid:2182000783897": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 77,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 44,
-      "Чулкин Алексей Аркадьевич": 19,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 17
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 77,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 44,
+      "gas:candidate-vibid:2182000788018": 19,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 16,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 342,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 60,
-      "Чулкин Алексей Аркадьевич": 93,
-      "Шудегов Виктор Евграфович": 23,
-      "Ягафаров Тимур Фаатович": 39
+      "gas:candidate-vibid:2182000788212": 16,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 342,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 60,
+      "gas:candidate-vibid:2182000788018": 93,
+      "gas:candidate-vibid:2182000786535": 23,
+      "gas:candidate-vibid:2182000783897": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 18,
-      "Дементьев Роман Вячеславович": 29,
-      "Загребин Алексей Егорович": 326,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 155,
-      "Чулкин Алексей Аркадьевич": 89,
-      "Шудегов Виктор Евграфович": 73,
-      "Ягафаров Тимур Фаатович": 73
+      "gas:candidate-vibid:2182000788212": 18,
+      "gas:candidate-vibid:2182000785496": 29,
+      "gas:candidate-vibid:2182000787548": 326,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 155,
+      "gas:candidate-vibid:2182000788018": 89,
+      "gas:candidate-vibid:2182000786535": 73,
+      "gas:candidate-vibid:2182000783897": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 20,
-      "Загребин Алексей Егорович": 178,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 81,
-      "Чулкин Алексей Аркадьевич": 60,
-      "Шудегов Виктор Евграфович": 30,
-      "Ягафаров Тимур Фаатович": 56
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 20,
+      "gas:candidate-vibid:2182000787548": 178,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 81,
+      "gas:candidate-vibid:2182000788018": 60,
+      "gas:candidate-vibid:2182000786535": 30,
+      "gas:candidate-vibid:2182000783897": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 24,
-      "Загребин Алексей Егорович": 229,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 59,
-      "Чулкин Алексей Аркадьевич": 78,
-      "Шудегов Виктор Евграфович": 38,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 24,
+      "gas:candidate-vibid:2182000787548": 229,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 59,
+      "gas:candidate-vibid:2182000788018": 78,
+      "gas:candidate-vibid:2182000786535": 38,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 20,
-      "Дементьев Роман Вячеславович": 30,
-      "Загребин Алексей Егорович": 372,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 87,
-      "Чулкин Алексей Аркадьевич": 94,
-      "Шудегов Виктор Евграфович": 45,
-      "Ягафаров Тимур Фаатович": 62
+      "gas:candidate-vibid:2182000788212": 20,
+      "gas:candidate-vibid:2182000785496": 30,
+      "gas:candidate-vibid:2182000787548": 372,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 87,
+      "gas:candidate-vibid:2182000788018": 94,
+      "gas:candidate-vibid:2182000786535": 45,
+      "gas:candidate-vibid:2182000783897": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 99,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 40,
-      "Чулкин Алексей Аркадьевич": 38,
-      "Шудегов Виктор Евграфович": 15,
-      "Ягафаров Тимур Фаатович": 15
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 99,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 40,
+      "gas:candidate-vibid:2182000788018": 38,
+      "gas:candidate-vibid:2182000786535": 15,
+      "gas:candidate-vibid:2182000783897": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 17,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 227,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 61,
-      "Чулкин Алексей Аркадьевич": 143,
-      "Шудегов Виктор Евграфович": 44,
-      "Ягафаров Тимур Фаатович": 38
+      "gas:candidate-vibid:2182000788212": 17,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 227,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 61,
+      "gas:candidate-vibid:2182000788018": 143,
+      "gas:candidate-vibid:2182000786535": 44,
+      "gas:candidate-vibid:2182000783897": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 15,
-      "Дементьев Роман Вячеславович": 38,
-      "Загребин Алексей Егорович": 391,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 70,
-      "Чулкин Алексей Аркадьевич": 165,
-      "Шудегов Виктор Евграфович": 63,
-      "Ягафаров Тимур Фаатович": 77
+      "gas:candidate-vibid:2182000788212": 15,
+      "gas:candidate-vibid:2182000785496": 38,
+      "gas:candidate-vibid:2182000787548": 391,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 70,
+      "gas:candidate-vibid:2182000788018": 165,
+      "gas:candidate-vibid:2182000786535": 63,
+      "gas:candidate-vibid:2182000783897": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 130,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 29,
-      "Чулкин Алексей Аркадьевич": 42,
-      "Шудегов Виктор Евграфович": 20,
-      "Ягафаров Тимур Фаатович": 26
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 130,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 29,
+      "gas:candidate-vibid:2182000788018": 42,
+      "gas:candidate-vibid:2182000786535": 20,
+      "gas:candidate-vibid:2182000783897": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 76,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 25,
-      "Чулкин Алексей Аркадьевич": 29,
-      "Шудегов Виктор Евграфович": 24,
-      "Ягафаров Тимур Фаатович": 14
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 76,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 25,
+      "gas:candidate-vibid:2182000788018": 29,
+      "gas:candidate-vibid:2182000786535": 24,
+      "gas:candidate-vibid:2182000783897": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 67,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 20,
-      "Чулкин Алексей Аркадьевич": 31,
-      "Шудегов Виктор Евграфович": 9,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 67,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 20,
+      "gas:candidate-vibid:2182000788018": 31,
+      "gas:candidate-vibid:2182000786535": 9,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 25,
-      "Загребин Алексей Егорович": 487,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 68,
-      "Чулкин Алексей Аркадьевич": 117,
-      "Шудегов Виктор Евграфович": 51,
-      "Ягафаров Тимур Фаатович": 40
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 25,
+      "gas:candidate-vibid:2182000787548": 487,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 68,
+      "gas:candidate-vibid:2182000788018": 117,
+      "gas:candidate-vibid:2182000786535": 51,
+      "gas:candidate-vibid:2182000783897": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 191,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 51,
-      "Чулкин Алексей Аркадьевич": 67,
-      "Шудегов Виктор Евграфович": 16,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 191,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 51,
+      "gas:candidate-vibid:2182000788018": 67,
+      "gas:candidate-vibid:2182000786535": 16,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 20,
-      "Дементьев Роман Вячеславович": 27,
-      "Загребин Алексей Егорович": 283,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 82,
-      "Чулкин Алексей Аркадьевич": 138,
-      "Шудегов Виктор Евграфович": 60,
-      "Ягафаров Тимур Фаатович": 64
+      "gas:candidate-vibid:2182000788212": 20,
+      "gas:candidate-vibid:2182000785496": 27,
+      "gas:candidate-vibid:2182000787548": 283,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 82,
+      "gas:candidate-vibid:2182000788018": 138,
+      "gas:candidate-vibid:2182000786535": 60,
+      "gas:candidate-vibid:2182000783897": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 16,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 320,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 86,
-      "Чулкин Алексей Аркадьевич": 215,
-      "Шудегов Виктор Евграфович": 57,
-      "Ягафаров Тимур Фаатович": 65
+      "gas:candidate-vibid:2182000788212": 16,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 320,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 86,
+      "gas:candidate-vibid:2182000788018": 215,
+      "gas:candidate-vibid:2182000786535": 57,
+      "gas:candidate-vibid:2182000783897": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744067&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744067&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 163,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 41,
-      "Чулкин Алексей Аркадьевич": 18,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 10
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 163,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 41,
+      "gas:candidate-vibid:2182000788018": 18,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 36,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 17,
-      "Чулкин Алексей Аркадьевич": 25,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 5
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 36,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 17,
+      "gas:candidate-vibid:2182000788018": 25,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 205,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 73,
-      "Чулкин Алексей Аркадьевич": 79,
-      "Шудегов Виктор Евграфович": 26,
-      "Ягафаров Тимур Фаатович": 11
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 205,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 73,
+      "gas:candidate-vibid:2182000788018": 79,
+      "gas:candidate-vibid:2182000786535": 26,
+      "gas:candidate-vibid:2182000783897": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 203,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 88,
-      "Чулкин Алексей Аркадьевич": 53,
-      "Шудегов Виктор Евграфович": 13,
-      "Ягафаров Тимур Фаатович": 15
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 203,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 88,
+      "gas:candidate-vibid:2182000788018": 53,
+      "gas:candidate-vibid:2182000786535": 13,
+      "gas:candidate-vibid:2182000783897": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 163,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 66,
-      "Чулкин Алексей Аркадьевич": 96,
-      "Шудегов Виктор Евграфович": 10,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 163,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 66,
+      "gas:candidate-vibid:2182000788018": 96,
+      "gas:candidate-vibid:2182000786535": 10,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 328,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 145,
-      "Чулкин Алексей Аркадьевич": 112,
-      "Шудегов Виктор Евграфович": 23,
-      "Ягафаров Тимур Фаатович": 49
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 328,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 145,
+      "gas:candidate-vibid:2182000788018": 112,
+      "gas:candidate-vibid:2182000786535": 23,
+      "gas:candidate-vibid:2182000783897": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 401,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 168,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 15,
-      "Ягафаров Тимур Фаатович": 36
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 401,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 168,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 15,
+      "gas:candidate-vibid:2182000783897": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 1,
-      "Загребин Алексей Егорович": 92,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 5,
-      "Чулкин Алексей Аркадьевич": 10,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 4
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 1,
+      "gas:candidate-vibid:2182000787548": 92,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 5,
+      "gas:candidate-vibid:2182000788018": 10,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 46,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 12,
-      "Чулкин Алексей Аркадьевич": 10,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 0
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 46,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 12,
+      "gas:candidate-vibid:2182000788018": 10,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 248,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 59,
-      "Чулкин Алексей Аркадьевич": 34,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 6
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 248,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 59,
+      "gas:candidate-vibid:2182000788018": 34,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 108,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 31,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 3
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 108,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 31,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 121,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 26,
-      "Чулкин Алексей Аркадьевич": 56,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 11
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 121,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 26,
+      "gas:candidate-vibid:2182000788018": 56,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 0,
-      "Загребин Алексей Егорович": 62,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 24,
-      "Чулкин Алексей Аркадьевич": 33,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 1
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 0,
+      "gas:candidate-vibid:2182000787548": 62,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 24,
+      "gas:candidate-vibid:2182000788018": 33,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 85,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 8,
-      "Чулкин Алексей Аркадьевич": 8,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 85,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 8,
+      "gas:candidate-vibid:2182000788018": 8,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 73,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 27,
-      "Чулкин Алексей Аркадьевич": 27,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 3
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 73,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 27,
+      "gas:candidate-vibid:2182000788018": 27,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 80,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 48,
-      "Чулкин Алексей Аркадьевич": 29,
-      "Шудегов Виктор Евграфович": 6,
-      "Ягафаров Тимур Фаатович": 4
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 80,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 48,
+      "gas:candidate-vibid:2182000788018": 29,
+      "gas:candidate-vibid:2182000786535": 6,
+      "gas:candidate-vibid:2182000783897": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 263,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 30,
-      "Чулкин Алексей Аркадьевич": 64,
-      "Шудегов Виктор Евграфович": 10,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 263,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 30,
+      "gas:candidate-vibid:2182000788018": 64,
+      "gas:candidate-vibid:2182000786535": 10,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 1,
-      "Загребин Алексей Егорович": 32,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 18,
-      "Чулкин Алексей Аркадьевич": 4,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 3
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 1,
+      "gas:candidate-vibid:2182000787548": 32,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 18,
+      "gas:candidate-vibid:2182000788018": 4,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 0,
-      "Загребин Алексей Егорович": 45,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 10,
-      "Чулкин Алексей Аркадьевич": 22,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 5
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 0,
+      "gas:candidate-vibid:2182000787548": 45,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 10,
+      "gas:candidate-vibid:2182000788018": 22,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 0,
-      "Загребин Алексей Егорович": 61,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 8,
-      "Чулкин Алексей Аркадьевич": 5,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 9
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 0,
+      "gas:candidate-vibid:2182000787548": 61,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 8,
+      "gas:candidate-vibid:2182000788018": 5,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 105,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 19,
-      "Чулкин Алексей Аркадьевич": 31,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 11
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 105,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 19,
+      "gas:candidate-vibid:2182000788018": 31,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 187,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 94,
-      "Чулкин Алексей Аркадьевич": 34,
-      "Шудегов Виктор Евграфович": 9,
-      "Ягафаров Тимур Фаатович": 16
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 187,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 94,
+      "gas:candidate-vibid:2182000788018": 34,
+      "gas:candidate-vibid:2182000786535": 9,
+      "gas:candidate-vibid:2182000783897": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 127,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 43,
-      "Чулкин Алексей Аркадьевич": 23,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 127,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 43,
+      "gas:candidate-vibid:2182000788018": 23,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744068&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744068&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 24,
-      "Загребин Алексей Егорович": 207,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 260,
-      "Чулкин Алексей Аркадьевич": 249,
-      "Шудегов Виктор Евграфович": 103,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 24,
+      "gas:candidate-vibid:2182000787548": 207,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 260,
+      "gas:candidate-vibid:2182000788018": 249,
+      "gas:candidate-vibid:2182000786535": 103,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 25,
-      "Загребин Алексей Егорович": 158,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 215,
-      "Чулкин Алексей Аркадьевич": 249,
-      "Шудегов Виктор Евграфович": 88,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 25,
+      "gas:candidate-vibid:2182000787548": 158,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 215,
+      "gas:candidate-vibid:2182000788018": 249,
+      "gas:candidate-vibid:2182000786535": 88,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 170,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 219,
-      "Чулкин Алексей Аркадьевич": 186,
-      "Шудегов Виктор Евграфович": 73,
-      "Ягафаров Тимур Фаатович": 51
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 170,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 219,
+      "gas:candidate-vibid:2182000788018": 186,
+      "gas:candidate-vibid:2182000786535": 73,
+      "gas:candidate-vibid:2182000783897": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 81,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 123,
-      "Чулкин Алексей Аркадьевич": 105,
-      "Шудегов Виктор Евграфович": 32,
-      "Ягафаров Тимур Фаатович": 21
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 81,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 123,
+      "gas:candidate-vibid:2182000788018": 105,
+      "gas:candidate-vibid:2182000786535": 32,
+      "gas:candidate-vibid:2182000783897": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 135,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 136,
-      "Чулкин Алексей Аркадьевич": 144,
-      "Шудегов Виктор Евграфович": 59,
-      "Ягафаров Тимур Фаатович": 31
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 135,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 136,
+      "gas:candidate-vibid:2182000788018": 144,
+      "gas:candidate-vibid:2182000786535": 59,
+      "gas:candidate-vibid:2182000783897": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 192,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 204,
-      "Чулкин Алексей Аркадьевич": 205,
-      "Шудегов Виктор Евграфович": 127,
-      "Ягафаров Тимур Фаатович": 43
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 192,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 204,
+      "gas:candidate-vibid:2182000788018": 205,
+      "gas:candidate-vibid:2182000786535": 127,
+      "gas:candidate-vibid:2182000783897": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 137,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 176,
-      "Чулкин Алексей Аркадьевич": 102,
-      "Шудегов Виктор Евграфович": 56,
-      "Ягафаров Тимур Фаатович": 32
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 137,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 176,
+      "gas:candidate-vibid:2182000788018": 102,
+      "gas:candidate-vibid:2182000786535": 56,
+      "gas:candidate-vibid:2182000783897": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 35,
-      "Загребин Алексей Егорович": 275,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 210,
-      "Чулкин Алексей Аркадьевич": 266,
-      "Шудегов Виктор Евграфович": 74,
-      "Ягафаров Тимур Фаатович": 72
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 35,
+      "gas:candidate-vibid:2182000787548": 275,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 210,
+      "gas:candidate-vibid:2182000788018": 266,
+      "gas:candidate-vibid:2182000786535": 74,
+      "gas:candidate-vibid:2182000783897": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 265,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 247,
-      "Чулкин Алексей Аркадьевич": 218,
-      "Шудегов Виктор Евграфович": 87,
-      "Ягафаров Тимур Фаатович": 51
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 265,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 247,
+      "gas:candidate-vibid:2182000788018": 218,
+      "gas:candidate-vibid:2182000786535": 87,
+      "gas:candidate-vibid:2182000783897": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 238,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 261,
-      "Чулкин Алексей Аркадьевич": 205,
-      "Шудегов Виктор Евграфович": 104,
-      "Ягафаров Тимур Фаатович": 63
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 238,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 261,
+      "gas:candidate-vibid:2182000788018": 205,
+      "gas:candidate-vibid:2182000786535": 104,
+      "gas:candidate-vibid:2182000783897": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 12,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 246,
-      "Закиров Ильдар Шамилевич": 16,
-      "Чепкасов Владимир Геннадьевич": 266,
-      "Чулкин Алексей Аркадьевич": 214,
-      "Шудегов Виктор Евграфович": 90,
-      "Ягафаров Тимур Фаатович": 57
+      "gas:candidate-vibid:2182000788212": 12,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 246,
+      "gas:candidate-vibid:2182000786620": 16,
+      "gas:candidate-vibid:2182000785139": 266,
+      "gas:candidate-vibid:2182000788018": 214,
+      "gas:candidate-vibid:2182000786535": 90,
+      "gas:candidate-vibid:2182000783897": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 127,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 204,
-      "Чулкин Алексей Аркадьевич": 127,
-      "Шудегов Виктор Евграфович": 52,
-      "Ягафаров Тимур Фаатович": 27
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 127,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 204,
+      "gas:candidate-vibid:2182000788018": 127,
+      "gas:candidate-vibid:2182000786535": 52,
+      "gas:candidate-vibid:2182000783897": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 131,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 145,
-      "Чулкин Алексей Аркадьевич": 99,
-      "Шудегов Виктор Евграфович": 45,
-      "Ягафаров Тимур Фаатович": 29
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 131,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 145,
+      "gas:candidate-vibid:2182000788018": 99,
+      "gas:candidate-vibid:2182000786535": 45,
+      "gas:candidate-vibid:2182000783897": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 250,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 330,
-      "Чулкин Алексей Аркадьевич": 233,
-      "Шудегов Виктор Евграфович": 141,
-      "Ягафаров Тимур Фаатович": 63
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 250,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 330,
+      "gas:candidate-vibid:2182000788018": 233,
+      "gas:candidate-vibid:2182000786535": 141,
+      "gas:candidate-vibid:2182000783897": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 152,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 141,
-      "Чулкин Алексей Аркадьевич": 130,
-      "Шудегов Виктор Евграфович": 48,
-      "Ягафаров Тимур Фаатович": 31
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 152,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 141,
+      "gas:candidate-vibid:2182000788018": 130,
+      "gas:candidate-vibid:2182000786535": 48,
+      "gas:candidate-vibid:2182000783897": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 148,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 158,
-      "Чулкин Алексей Аркадьевич": 126,
-      "Шудегов Виктор Евграфович": 64,
-      "Ягафаров Тимур Фаатович": 30
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 148,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 158,
+      "gas:candidate-vibid:2182000788018": 126,
+      "gas:candidate-vibid:2182000786535": 64,
+      "gas:candidate-vibid:2182000783897": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 172,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 213,
-      "Чулкин Алексей Аркадьевич": 166,
-      "Шудегов Виктор Евграфович": 74,
-      "Ягафаров Тимур Фаатович": 46
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 172,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 213,
+      "gas:candidate-vibid:2182000788018": 166,
+      "gas:candidate-vibid:2182000786535": 74,
+      "gas:candidate-vibid:2182000783897": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 182,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 229,
-      "Чулкин Алексей Аркадьевич": 161,
-      "Шудегов Виктор Евграфович": 114,
-      "Ягафаров Тимур Фаатович": 44
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 182,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 229,
+      "gas:candidate-vibid:2182000788018": 161,
+      "gas:candidate-vibid:2182000786535": 114,
+      "gas:candidate-vibid:2182000783897": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 193,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 224,
-      "Чулкин Алексей Аркадьевич": 168,
-      "Шудегов Виктор Евграфович": 86,
-      "Ягафаров Тимур Фаатович": 43
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 193,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 224,
+      "gas:candidate-vibid:2182000788018": 168,
+      "gas:candidate-vibid:2182000786535": 86,
+      "gas:candidate-vibid:2182000783897": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 169,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 262,
-      "Чулкин Алексей Аркадьевич": 191,
-      "Шудегов Виктор Евграфович": 63,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 169,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 262,
+      "gas:candidate-vibid:2182000788018": 191,
+      "gas:candidate-vibid:2182000786535": 63,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 22,
-      "Загребин Алексей Егорович": 256,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 147,
-      "Чулкин Алексей Аркадьевич": 142,
-      "Шудегов Виктор Евграфович": 76,
-      "Ягафаров Тимур Фаатович": 39
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 22,
+      "gas:candidate-vibid:2182000787548": 256,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 147,
+      "gas:candidate-vibid:2182000788018": 142,
+      "gas:candidate-vibid:2182000786535": 76,
+      "gas:candidate-vibid:2182000783897": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 206,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 153,
-      "Чулкин Алексей Аркадьевич": 157,
-      "Шудегов Виктор Евграфович": 114,
-      "Ягафаров Тимур Фаатович": 34
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 206,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 153,
+      "gas:candidate-vibid:2182000788018": 157,
+      "gas:candidate-vibid:2182000786535": 114,
+      "gas:candidate-vibid:2182000783897": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 246,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 221,
-      "Чулкин Алексей Аркадьевич": 163,
-      "Шудегов Виктор Евграфович": 131,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 246,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 221,
+      "gas:candidate-vibid:2182000788018": 163,
+      "gas:candidate-vibid:2182000786535": 131,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 134,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 161,
-      "Чулкин Алексей Аркадьевич": 153,
-      "Шудегов Виктор Евграфович": 67,
-      "Ягафаров Тимур Фаатович": 44
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 134,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 161,
+      "gas:candidate-vibid:2182000788018": 153,
+      "gas:candidate-vibid:2182000786535": 67,
+      "gas:candidate-vibid:2182000783897": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 206,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 221,
-      "Чулкин Алексей Аркадьевич": 154,
-      "Шудегов Виктор Евграфович": 122,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 206,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 221,
+      "gas:candidate-vibid:2182000788018": 154,
+      "gas:candidate-vibid:2182000786535": 122,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 20,
-      "Загребин Алексей Егорович": 193,
-      "Закиров Ильдар Шамилевич": 19,
-      "Чепкасов Владимир Геннадьевич": 234,
-      "Чулкин Алексей Аркадьевич": 199,
-      "Шудегов Виктор Евграфович": 152,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 20,
+      "gas:candidate-vibid:2182000787548": 193,
+      "gas:candidate-vibid:2182000786620": 19,
+      "gas:candidate-vibid:2182000785139": 234,
+      "gas:candidate-vibid:2182000788018": 199,
+      "gas:candidate-vibid:2182000786535": 152,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 181,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 113,
-      "Чулкин Алексей Аркадьевич": 109,
-      "Шудегов Виктор Евграфович": 50,
-      "Ягафаров Тимур Фаатович": 21
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 181,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 113,
+      "gas:candidate-vibid:2182000788018": 109,
+      "gas:candidate-vibid:2182000786535": 50,
+      "gas:candidate-vibid:2182000783897": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 19,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 343,
-      "Закиров Ильдар Шамилевич": 19,
-      "Чепкасов Владимир Геннадьевич": 217,
-      "Чулкин Алексей Аркадьевич": 223,
-      "Шудегов Виктор Евграфович": 153,
-      "Ягафаров Тимур Фаатович": 95
+      "gas:candidate-vibid:2182000788212": 19,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 343,
+      "gas:candidate-vibid:2182000786620": 19,
+      "gas:candidate-vibid:2182000785139": 217,
+      "gas:candidate-vibid:2182000788018": 223,
+      "gas:candidate-vibid:2182000786535": 153,
+      "gas:candidate-vibid:2182000783897": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 159,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 147,
-      "Чулкин Алексей Аркадьевич": 110,
-      "Шудегов Виктор Евграфович": 80,
-      "Ягафаров Тимур Фаатович": 40
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 159,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 147,
+      "gas:candidate-vibid:2182000788018": 110,
+      "gas:candidate-vibid:2182000786535": 80,
+      "gas:candidate-vibid:2182000783897": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 140,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 125,
-      "Чулкин Алексей Аркадьевич": 122,
-      "Шудегов Виктор Евграфович": 69,
-      "Ягафаров Тимур Фаатович": 20
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 140,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 125,
+      "gas:candidate-vibid:2182000788018": 122,
+      "gas:candidate-vibid:2182000786535": 69,
+      "gas:candidate-vibid:2182000783897": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 250,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 177,
-      "Чулкин Алексей Аркадьевич": 161,
-      "Шудегов Виктор Евграфович": 142,
-      "Ягафаров Тимур Фаатович": 61
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 250,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 177,
+      "gas:candidate-vibid:2182000788018": 161,
+      "gas:candidate-vibid:2182000786535": 142,
+      "gas:candidate-vibid:2182000783897": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 212,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 171,
-      "Чулкин Алексей Аркадьевич": 140,
-      "Шудегов Виктор Евграфович": 133,
-      "Ягафаров Тимур Фаатович": 50
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 212,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 171,
+      "gas:candidate-vibid:2182000788018": 140,
+      "gas:candidate-vibid:2182000786535": 133,
+      "gas:candidate-vibid:2182000783897": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 277,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 217,
-      "Чулкин Алексей Аркадьевич": 187,
-      "Шудегов Виктор Евграфович": 135,
-      "Ягафаров Тимур Фаатович": 66
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 277,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 217,
+      "gas:candidate-vibid:2182000788018": 187,
+      "gas:candidate-vibid:2182000786535": 135,
+      "gas:candidate-vibid:2182000783897": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 140,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 150,
-      "Чулкин Алексей Аркадьевич": 152,
-      "Шудегов Виктор Евграфович": 51,
-      "Ягафаров Тимур Фаатович": 32
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 140,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 150,
+      "gas:candidate-vibid:2182000788018": 152,
+      "gas:candidate-vibid:2182000786535": 51,
+      "gas:candidate-vibid:2182000783897": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 177,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 210,
-      "Чулкин Алексей Аркадьевич": 177,
-      "Шудегов Виктор Евграфович": 95,
-      "Ягафаров Тимур Фаатович": 53
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 177,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 210,
+      "gas:candidate-vibid:2182000788018": 177,
+      "gas:candidate-vibid:2182000786535": 95,
+      "gas:candidate-vibid:2182000783897": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 37,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 4,
-      "Чулкин Алексей Аркадьевич": 18,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 1
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 37,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 4,
+      "gas:candidate-vibid:2182000788018": 18,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 243,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 258,
-      "Чулкин Алексей Аркадьевич": 167,
-      "Шудегов Виктор Евграфович": 66,
-      "Ягафаров Тимур Фаатович": 50
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 243,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 258,
+      "gas:candidate-vibid:2182000788018": 167,
+      "gas:candidate-vibid:2182000786535": 66,
+      "gas:candidate-vibid:2182000783897": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 92,
-      "Закиров Ильдар Шамилевич": 5,
-      "Чепкасов Владимир Геннадьевич": 92,
-      "Чулкин Алексей Аркадьевич": 91,
-      "Шудегов Виктор Евграфович": 29,
-      "Ягафаров Тимур Фаатович": 22
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 92,
+      "gas:candidate-vibid:2182000786620": 5,
+      "gas:candidate-vibid:2182000785139": 92,
+      "gas:candidate-vibid:2182000788018": 91,
+      "gas:candidate-vibid:2182000786535": 29,
+      "gas:candidate-vibid:2182000783897": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 185,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 171,
-      "Чулкин Алексей Аркадьевич": 159,
-      "Шудегов Виктор Евграфович": 39,
-      "Ягафаров Тимур Фаатович": 33
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 185,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 171,
+      "gas:candidate-vibid:2182000788018": 159,
+      "gas:candidate-vibid:2182000786535": 39,
+      "gas:candidate-vibid:2182000783897": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 7,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 9,
-      "Чулкин Алексей Аркадьевич": 11,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 4
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 7,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 9,
+      "gas:candidate-vibid:2182000788018": 11,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 16,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 13,
-      "Чулкин Алексей Аркадьевич": 14,
-      "Шудегов Виктор Евграфович": 9,
-      "Ягафаров Тимур Фаатович": 5
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 16,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 13,
+      "gas:candidate-vibid:2182000788018": 14,
+      "gas:candidate-vibid:2182000786535": 9,
+      "gas:candidate-vibid:2182000783897": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 25,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 13,
-      "Чулкин Алексей Аркадьевич": 15,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 26
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 25,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 13,
+      "gas:candidate-vibid:2182000788018": 15,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744069&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744069&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 145,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 68,
-      "Чулкин Алексей Аркадьевич": 95,
-      "Шудегов Виктор Евграфович": 17,
-      "Ягафаров Тимур Фаатович": 22
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 145,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 68,
+      "gas:candidate-vibid:2182000788018": 95,
+      "gas:candidate-vibid:2182000786535": 17,
+      "gas:candidate-vibid:2182000783897": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 107,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 75,
-      "Чулкин Алексей Аркадьевич": 79,
-      "Шудегов Виктор Евграфович": 25,
-      "Ягафаров Тимур Фаатович": 29
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 107,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 75,
+      "gas:candidate-vibid:2182000788018": 79,
+      "gas:candidate-vibid:2182000786535": 25,
+      "gas:candidate-vibid:2182000783897": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 1,
-      "Загребин Алексей Егорович": 49,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 21,
-      "Чулкин Алексей Аркадьевич": 13,
-      "Шудегов Виктор Евграфович": 1,
-      "Ягафаров Тимур Фаатович": 8
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 1,
+      "gas:candidate-vibid:2182000787548": 49,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 21,
+      "gas:candidate-vibid:2182000788018": 13,
+      "gas:candidate-vibid:2182000786535": 1,
+      "gas:candidate-vibid:2182000783897": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 96,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 18,
-      "Чулкин Алексей Аркадьевич": 20,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 96,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 18,
+      "gas:candidate-vibid:2182000788018": 20,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 127,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 97,
-      "Чулкин Алексей Аркадьевич": 74,
-      "Шудегов Виктор Евграфович": 18,
-      "Ягафаров Тимур Фаатович": 13
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 127,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 97,
+      "gas:candidate-vibid:2182000788018": 74,
+      "gas:candidate-vibid:2182000786535": 18,
+      "gas:candidate-vibid:2182000783897": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 105,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 48,
-      "Чулкин Алексей Аркадьевич": 49,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 13
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 105,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 48,
+      "gas:candidate-vibid:2182000788018": 49,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 155,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 72,
-      "Чулкин Алексей Аркадьевич": 52,
-      "Шудегов Виктор Евграфович": 4,
-      "Ягафаров Тимур Фаатович": 9
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 155,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 72,
+      "gas:candidate-vibid:2182000788018": 52,
+      "gas:candidate-vibid:2182000786535": 4,
+      "gas:candidate-vibid:2182000783897": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 148,
-      "Закиров Ильдар Шамилевич": 1,
-      "Чепкасов Владимир Геннадьевич": 67,
-      "Чулкин Алексей Аркадьевич": 42,
-      "Шудегов Виктор Евграфович": 5,
-      "Ягафаров Тимур Фаатович": 14
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 148,
+      "gas:candidate-vibid:2182000786620": 1,
+      "gas:candidate-vibid:2182000785139": 67,
+      "gas:candidate-vibid:2182000788018": 42,
+      "gas:candidate-vibid:2182000786535": 5,
+      "gas:candidate-vibid:2182000783897": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 254,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 90,
-      "Чулкин Алексей Аркадьевич": 109,
-      "Шудегов Виктор Евграфович": 19,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 254,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 90,
+      "gas:candidate-vibid:2182000788018": 109,
+      "gas:candidate-vibid:2182000786535": 19,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 217,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 104,
-      "Чулкин Алексей Аркадьевич": 78,
-      "Шудегов Виктор Евграфович": 9,
-      "Ягафаров Тимур Фаатович": 15
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 217,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 104,
+      "gas:candidate-vibid:2182000788018": 78,
+      "gas:candidate-vibid:2182000786535": 9,
+      "gas:candidate-vibid:2182000783897": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 128,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 72,
-      "Чулкин Алексей Аркадьевич": 117,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 26
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 128,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 72,
+      "gas:candidate-vibid:2182000788018": 117,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 162,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 27,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 13
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 162,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 27,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 316,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 46,
-      "Чулкин Алексей Аркадьевич": 42,
-      "Шудегов Виктор Евграфович": 34,
-      "Ягафаров Тимур Фаатович": 10
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 316,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 46,
+      "gas:candidate-vibid:2182000788018": 42,
+      "gas:candidate-vibid:2182000786535": 34,
+      "gas:candidate-vibid:2182000783897": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 317,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 128,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 24,
-      "Ягафаров Тимур Фаатович": 26
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 317,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 128,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 24,
+      "gas:candidate-vibid:2182000783897": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 103,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 30,
-      "Чулкин Алексей Аркадьевич": 46,
-      "Шудегов Виктор Евграфович": 2,
-      "Ягафаров Тимур Фаатович": 4
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 103,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 30,
+      "gas:candidate-vibid:2182000788018": 46,
+      "gas:candidate-vibid:2182000786535": 2,
+      "gas:candidate-vibid:2182000783897": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 7,
-      "Загребин Алексей Егорович": 236,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 70,
-      "Чулкин Алексей Аркадьевич": 50,
-      "Шудегов Виктор Евграфович": 20,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 7,
+      "gas:candidate-vibid:2182000787548": 236,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 70,
+      "gas:candidate-vibid:2182000788018": 50,
+      "gas:candidate-vibid:2182000786535": 20,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 251,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 135,
-      "Чулкин Алексей Аркадьевич": 157,
-      "Шудегов Виктор Евграфович": 30,
-      "Ягафаров Тимур Фаатович": 26
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 251,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 135,
+      "gas:candidate-vibid:2182000788018": 157,
+      "gas:candidate-vibid:2182000786535": 30,
+      "gas:candidate-vibid:2182000783897": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 84,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 59,
-      "Чулкин Алексей Аркадьевич": 53,
-      "Шудегов Виктор Евграфович": 8,
-      "Ягафаров Тимур Фаатович": 22
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 84,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 59,
+      "gas:candidate-vibid:2182000788018": 53,
+      "gas:candidate-vibid:2182000786535": 8,
+      "gas:candidate-vibid:2182000783897": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 2,
-      "Загребин Алексей Егорович": 35,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 12,
-      "Чулкин Алексей Аркадьевич": 14,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 4
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 2,
+      "gas:candidate-vibid:2182000787548": 35,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 12,
+      "gas:candidate-vibid:2182000788018": 14,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 82,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 62,
-      "Чулкин Алексей Аркадьевич": 29,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 82,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 62,
+      "gas:candidate-vibid:2182000788018": 29,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 3,
-      "Загребин Алексей Егорович": 75,
-      "Закиров Ильдар Шамилевич": 0,
-      "Чепкасов Владимир Геннадьевич": 50,
-      "Чулкин Алексей Аркадьевич": 37,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 7
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 3,
+      "gas:candidate-vibid:2182000787548": 75,
+      "gas:candidate-vibid:2182000786620": 0,
+      "gas:candidate-vibid:2182000785139": 50,
+      "gas:candidate-vibid:2182000788018": 37,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 152,
-      "Закиров Ильдар Шамилевич": 2,
-      "Чепкасов Владимир Геннадьевич": 57,
-      "Чулкин Алексей Аркадьевич": 55,
-      "Шудегов Виктор Евграфович": 6,
-      "Ягафаров Тимур Фаатович": 19
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 152,
+      "gas:candidate-vibid:2182000786620": 2,
+      "gas:candidate-vibid:2182000785139": 57,
+      "gas:candidate-vibid:2182000788018": 55,
+      "gas:candidate-vibid:2182000786535": 6,
+      "gas:candidate-vibid:2182000783897": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 18,
-      "Загребин Алексей Егорович": 248,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 115,
-      "Чулкин Алексей Аркадьевич": 160,
-      "Шудегов Виктор Евграфович": 32,
-      "Ягафаров Тимур Фаатович": 33
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 18,
+      "gas:candidate-vibid:2182000787548": 248,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 115,
+      "gas:candidate-vibid:2182000788018": 160,
+      "gas:candidate-vibid:2182000786535": 32,
+      "gas:candidate-vibid:2182000783897": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744070&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744070&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 297,
-      "Закиров Ильдар Шамилевич": 19,
-      "Чепкасов Владимир Геннадьевич": 113,
-      "Чулкин Алексей Аркадьевич": 100,
-      "Шудегов Виктор Евграфович": 47,
-      "Ягафаров Тимур Фаатович": 25
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 297,
+      "gas:candidate-vibid:2182000786620": 19,
+      "gas:candidate-vibid:2182000785139": 113,
+      "gas:candidate-vibid:2182000788018": 100,
+      "gas:candidate-vibid:2182000786535": 47,
+      "gas:candidate-vibid:2182000783897": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 245,
-      "Закиров Ильдар Шамилевич": 20,
-      "Чепкасов Владимир Геннадьевич": 131,
-      "Чулкин Алексей Аркадьевич": 110,
-      "Шудегов Виктор Евграфович": 70,
-      "Ягафаров Тимур Фаатович": 47
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 245,
+      "gas:candidate-vibid:2182000786620": 20,
+      "gas:candidate-vibid:2182000785139": 131,
+      "gas:candidate-vibid:2182000788018": 110,
+      "gas:candidate-vibid:2182000786535": 70,
+      "gas:candidate-vibid:2182000783897": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 211,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 98,
-      "Чулкин Алексей Аркадьевич": 139,
-      "Шудегов Виктор Евграфович": 51,
-      "Ягафаров Тимур Фаатович": 44
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 211,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 98,
+      "gas:candidate-vibid:2182000788018": 139,
+      "gas:candidate-vibid:2182000786535": 51,
+      "gas:candidate-vibid:2182000783897": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 11,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 298,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 137,
-      "Чулкин Алексей Аркадьевич": 141,
-      "Шудегов Виктор Евграфович": 66,
-      "Ягафаров Тимур Фаатович": 59
+      "gas:candidate-vibid:2182000788212": 11,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 298,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 137,
+      "gas:candidate-vibid:2182000788018": 141,
+      "gas:candidate-vibid:2182000786535": 66,
+      "gas:candidate-vibid:2182000783897": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 301,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 158,
-      "Чулкин Алексей Аркадьевич": 166,
-      "Шудегов Виктор Евграфович": 61,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 301,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 158,
+      "gas:candidate-vibid:2182000788018": 166,
+      "gas:candidate-vibid:2182000786535": 61,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 203,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 114,
-      "Чулкин Алексей Аркадьевич": 96,
-      "Шудегов Виктор Евграфович": 53,
-      "Ягафаров Тимур Фаатович": 27
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 203,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 114,
+      "gas:candidate-vibid:2182000788018": 96,
+      "gas:candidate-vibid:2182000786535": 53,
+      "gas:candidate-vibid:2182000783897": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 12,
-      "Дементьев Роман Вячеславович": 22,
-      "Загребин Алексей Егорович": 448,
-      "Закиров Ильдар Шамилевич": 25,
-      "Чепкасов Владимир Геннадьевич": 136,
-      "Чулкин Алексей Аркадьевич": 157,
-      "Шудегов Виктор Евграфович": 65,
-      "Ягафаров Тимур Фаатович": 35
+      "gas:candidate-vibid:2182000788212": 12,
+      "gas:candidate-vibid:2182000785496": 22,
+      "gas:candidate-vibid:2182000787548": 448,
+      "gas:candidate-vibid:2182000786620": 25,
+      "gas:candidate-vibid:2182000785139": 136,
+      "gas:candidate-vibid:2182000788018": 157,
+      "gas:candidate-vibid:2182000786535": 65,
+      "gas:candidate-vibid:2182000783897": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 12,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 320,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 96,
-      "Чулкин Алексей Аркадьевич": 126,
-      "Шудегов Виктор Евграфович": 62,
-      "Ягафаров Тимур Фаатович": 39
+      "gas:candidate-vibid:2182000788212": 12,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 320,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 96,
+      "gas:candidate-vibid:2182000788018": 126,
+      "gas:candidate-vibid:2182000786535": 62,
+      "gas:candidate-vibid:2182000783897": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 195,
-      "Закиров Ильдар Шамилевич": 16,
-      "Чепкасов Владимир Геннадьевич": 60,
-      "Чулкин Алексей Аркадьевич": 76,
-      "Шудегов Виктор Евграфович": 55,
-      "Ягафаров Тимур Фаатович": 36
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 195,
+      "gas:candidate-vibid:2182000786620": 16,
+      "gas:candidate-vibid:2182000785139": 60,
+      "gas:candidate-vibid:2182000788018": 76,
+      "gas:candidate-vibid:2182000786535": 55,
+      "gas:candidate-vibid:2182000783897": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 17,
-      "Загребин Алексей Егорович": 272,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 95,
-      "Чулкин Алексей Аркадьевич": 168,
-      "Шудегов Виктор Евграфович": 36,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 17,
+      "gas:candidate-vibid:2182000787548": 272,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 95,
+      "gas:candidate-vibid:2182000788018": 168,
+      "gas:candidate-vibid:2182000786535": 36,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 22,
-      "Загребин Алексей Егорович": 346,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 90,
-      "Чулкин Алексей Аркадьевич": 139,
-      "Шудегов Виктор Евграфович": 60,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 22,
+      "gas:candidate-vibid:2182000787548": 346,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 90,
+      "gas:candidate-vibid:2182000788018": 139,
+      "gas:candidate-vibid:2182000786535": 60,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 267,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 47,
-      "Чулкин Алексей Аркадьевич": 147,
-      "Шудегов Виктор Евграфович": 50,
-      "Ягафаров Тимур Фаатович": 49
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 267,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 47,
+      "gas:candidate-vibid:2182000788018": 147,
+      "gas:candidate-vibid:2182000786535": 50,
+      "gas:candidate-vibid:2182000783897": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 10,
-      "Загребин Алексей Егорович": 236,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 141,
-      "Чулкин Алексей Аркадьевич": 92,
-      "Шудегов Виктор Евграфович": 48,
-      "Ягафаров Тимур Фаатович": 23
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 10,
+      "gas:candidate-vibid:2182000787548": 236,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 141,
+      "gas:candidate-vibid:2182000788018": 92,
+      "gas:candidate-vibid:2182000786535": 48,
+      "gas:candidate-vibid:2182000783897": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 317,
-      "Закиров Ильдар Шамилевич": 9,
-      "Чепкасов Владимир Геннадьевич": 134,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 59,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 317,
+      "gas:candidate-vibid:2182000786620": 9,
+      "gas:candidate-vibid:2182000785139": 134,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 59,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 8,
-      "Дементьев Роман Вячеславович": 17,
-      "Загребин Алексей Егорович": 339,
-      "Закиров Ильдар Шамилевич": 20,
-      "Чепкасов Владимир Геннадьевич": 129,
-      "Чулкин Алексей Аркадьевич": 125,
-      "Шудегов Виктор Евграфович": 55,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 8,
+      "gas:candidate-vibid:2182000785496": 17,
+      "gas:candidate-vibid:2182000787548": 339,
+      "gas:candidate-vibid:2182000786620": 20,
+      "gas:candidate-vibid:2182000785139": 129,
+      "gas:candidate-vibid:2182000788018": 125,
+      "gas:candidate-vibid:2182000786535": 55,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 284,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 71,
-      "Чулкин Алексей Аркадьевич": 117,
-      "Шудегов Виктор Евграфович": 31,
-      "Ягафаров Тимур Фаатович": 63
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 284,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 71,
+      "gas:candidate-vibid:2182000788018": 117,
+      "gas:candidate-vibid:2182000786535": 31,
+      "gas:candidate-vibid:2182000783897": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 301,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 66,
-      "Чулкин Алексей Аркадьевич": 108,
-      "Шудегов Виктор Евграфович": 21,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 301,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 66,
+      "gas:candidate-vibid:2182000788018": 108,
+      "gas:candidate-vibid:2182000786535": 21,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 275,
-      "Закиров Ильдар Шамилевич": 23,
-      "Чепкасов Владимир Геннадьевич": 72,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 28,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 275,
+      "gas:candidate-vibid:2182000786620": 23,
+      "gas:candidate-vibid:2182000785139": 72,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 28,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 550,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 104,
-      "Чулкин Алексей Аркадьевич": 130,
-      "Шудегов Виктор Евграфович": 58,
-      "Ягафаров Тимур Фаатович": 57
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 550,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 104,
+      "gas:candidate-vibid:2182000788018": 130,
+      "gas:candidate-vibid:2182000786535": 58,
+      "gas:candidate-vibid:2182000783897": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 383,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 109,
-      "Чулкин Алексей Аркадьевич": 95,
-      "Шудегов Виктор Евграфович": 60,
-      "Ягафаров Тимур Фаатович": 36
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 383,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 109,
+      "gas:candidate-vibid:2182000788018": 95,
+      "gas:candidate-vibid:2182000786535": 60,
+      "gas:candidate-vibid:2182000783897": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 325,
-      "Закиров Ильдар Шамилевич": 18,
-      "Чепкасов Владимир Геннадьевич": 109,
-      "Чулкин Алексей Аркадьевич": 122,
-      "Шудегов Виктор Евграфович": 51,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 325,
+      "gas:candidate-vibid:2182000786620": 18,
+      "gas:candidate-vibid:2182000785139": 109,
+      "gas:candidate-vibid:2182000788018": 122,
+      "gas:candidate-vibid:2182000786535": 51,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 17,
-      "Загребин Алексей Егорович": 351,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 66,
-      "Чулкин Алексей Аркадьевич": 122,
-      "Шудегов Виктор Евграфович": 22,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 17,
+      "gas:candidate-vibid:2182000787548": 351,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 66,
+      "gas:candidate-vibid:2182000788018": 122,
+      "gas:candidate-vibid:2182000786535": 22,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 313,
-      "Закиров Ильдар Шамилевич": 18,
-      "Чепкасов Владимир Геннадьевич": 78,
-      "Чулкин Алексей Аркадьевич": 156,
-      "Шудегов Виктор Евграфович": 46,
-      "Ягафаров Тимур Фаатович": 45
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 313,
+      "gas:candidate-vibid:2182000786620": 18,
+      "gas:candidate-vibid:2182000785139": 78,
+      "gas:candidate-vibid:2182000788018": 156,
+      "gas:candidate-vibid:2182000786535": 46,
+      "gas:candidate-vibid:2182000783897": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 256,
-      "Закиров Ильдар Шамилевич": 21,
-      "Чепкасов Владимир Геннадьевич": 93,
-      "Чулкин Алексей Аркадьевич": 128,
-      "Шудегов Виктор Евграфович": 71,
-      "Ягафаров Тимур Фаатович": 34
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 256,
+      "gas:candidate-vibid:2182000786620": 21,
+      "gas:candidate-vibid:2182000785139": 93,
+      "gas:candidate-vibid:2182000788018": 128,
+      "gas:candidate-vibid:2182000786535": 71,
+      "gas:candidate-vibid:2182000783897": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 322,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 123,
-      "Чулкин Алексей Аркадьевич": 128,
-      "Шудегов Виктор Евграфович": 69,
-      "Ягафаров Тимур Фаатович": 47
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 322,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 123,
+      "gas:candidate-vibid:2182000788018": 128,
+      "gas:candidate-vibid:2182000786535": 69,
+      "gas:candidate-vibid:2182000783897": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 254,
-      "Закиров Ильдар Шамилевич": 14,
-      "Чепкасов Владимир Геннадьевич": 78,
-      "Чулкин Алексей Аркадьевич": 103,
-      "Шудегов Виктор Евграфович": 50,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 254,
+      "gas:candidate-vibid:2182000786620": 14,
+      "gas:candidate-vibid:2182000785139": 78,
+      "gas:candidate-vibid:2182000788018": 103,
+      "gas:candidate-vibid:2182000786535": 50,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 230,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 83,
-      "Чулкин Алексей Аркадьевич": 115,
-      "Шудегов Виктор Евграфович": 51,
-      "Ягафаров Тимур Фаатович": 25
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 230,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 83,
+      "gas:candidate-vibid:2182000788018": 115,
+      "gas:candidate-vibid:2182000786535": 51,
+      "gas:candidate-vibid:2182000783897": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 13,
-      "Загребин Алексей Егорович": 291,
-      "Закиров Ильдар Шамилевич": 21,
-      "Чепкасов Владимир Геннадьевич": 103,
-      "Чулкин Алексей Аркадьевич": 110,
-      "Шудегов Виктор Евграфович": 82,
-      "Ягафаров Тимур Фаатович": 49
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 13,
+      "gas:candidate-vibid:2182000787548": 291,
+      "gas:candidate-vibid:2182000786620": 21,
+      "gas:candidate-vibid:2182000785139": 103,
+      "gas:candidate-vibid:2182000788018": 110,
+      "gas:candidate-vibid:2182000786535": 82,
+      "gas:candidate-vibid:2182000783897": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 394,
-      "Закиров Ильдар Шамилевич": 11,
-      "Чепкасов Владимир Геннадьевич": 106,
-      "Чулкин Алексей Аркадьевич": 128,
-      "Шудегов Виктор Евграфович": 63,
-      "Ягафаров Тимур Фаатович": 71
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 394,
+      "gas:candidate-vibid:2182000786620": 11,
+      "gas:candidate-vibid:2182000785139": 106,
+      "gas:candidate-vibid:2182000788018": 128,
+      "gas:candidate-vibid:2182000786535": 63,
+      "gas:candidate-vibid:2182000783897": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 4,
-      "Загребин Алексей Егорович": 176,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 47,
-      "Чулкин Алексей Аркадьевич": 87,
-      "Шудегов Виктор Евграфович": 29,
-      "Ягафаров Тимур Фаатович": 29
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 4,
+      "gas:candidate-vibid:2182000787548": 176,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 47,
+      "gas:candidate-vibid:2182000788018": 87,
+      "gas:candidate-vibid:2182000786535": 29,
+      "gas:candidate-vibid:2182000783897": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 314,
-      "Закиров Ильдар Шамилевич": 21,
-      "Чепкасов Владимир Геннадьевич": 84,
-      "Чулкин Алексей Аркадьевич": 137,
-      "Шудегов Виктор Евграфович": 75,
-      "Ягафаров Тимур Фаатович": 54
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 314,
+      "gas:candidate-vibid:2182000786620": 21,
+      "gas:candidate-vibid:2182000785139": 84,
+      "gas:candidate-vibid:2182000788018": 137,
+      "gas:candidate-vibid:2182000786535": 75,
+      "gas:candidate-vibid:2182000783897": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 6,
-      "Дементьев Роман Вячеславович": 7,
-      "Загребин Алексей Егорович": 254,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 78,
-      "Чулкин Алексей Аркадьевич": 112,
-      "Шудегов Виктор Евграфович": 75,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 6,
+      "gas:candidate-vibid:2182000785496": 7,
+      "gas:candidate-vibid:2182000787548": 254,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 78,
+      "gas:candidate-vibid:2182000788018": 112,
+      "gas:candidate-vibid:2182000786535": 75,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 314,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 80,
-      "Чулкин Алексей Аркадьевич": 144,
-      "Шудегов Виктор Евграфович": 57,
-      "Ягафаров Тимур Фаатович": 46
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 314,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 80,
+      "gas:candidate-vibid:2182000788018": 144,
+      "gas:candidate-vibid:2182000786535": 57,
+      "gas:candidate-vibid:2182000783897": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 246,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 104,
-      "Чулкин Алексей Аркадьевич": 105,
-      "Шудегов Виктор Евграфович": 44,
-      "Ягафаров Тимур Фаатович": 33
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 246,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 104,
+      "gas:candidate-vibid:2182000788018": 105,
+      "gas:candidate-vibid:2182000786535": 44,
+      "gas:candidate-vibid:2182000783897": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 235,
-      "Закиров Ильдар Шамилевич": 21,
-      "Чепкасов Владимир Геннадьевич": 53,
-      "Чулкин Алексей Аркадьевич": 126,
-      "Шудегов Виктор Евграфович": 37,
-      "Ягафаров Тимур Фаатович": 41
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 235,
+      "gas:candidate-vibid:2182000786620": 21,
+      "gas:candidate-vibid:2182000785139": 53,
+      "gas:candidate-vibid:2182000788018": 126,
+      "gas:candidate-vibid:2182000786535": 37,
+      "gas:candidate-vibid:2182000783897": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 222,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 45,
-      "Чулкин Алексей Аркадьевич": 157,
-      "Шудегов Виктор Евграфович": 37,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 222,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 45,
+      "gas:candidate-vibid:2182000788018": 157,
+      "gas:candidate-vibid:2182000786535": 37,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 305,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 74,
-      "Чулкин Алексей Аркадьевич": 196,
-      "Шудегов Виктор Евграфович": 80,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 305,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 74,
+      "gas:candidate-vibid:2182000788018": 196,
+      "gas:candidate-vibid:2182000786535": 80,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 5,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 232,
-      "Закиров Ильдар Шамилевич": 18,
-      "Чепкасов Владимир Геннадьевич": 75,
-      "Чулкин Алексей Аркадьевич": 158,
-      "Шудегов Виктор Евграфович": 44,
-      "Ягафаров Тимур Фаатович": 46
+      "gas:candidate-vibid:2182000788212": 5,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 232,
+      "gas:candidate-vibid:2182000786620": 18,
+      "gas:candidate-vibid:2182000785139": 75,
+      "gas:candidate-vibid:2182000788018": 158,
+      "gas:candidate-vibid:2182000786535": 44,
+      "gas:candidate-vibid:2182000783897": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 12,
-      "Загребин Алексей Егорович": 246,
-      "Закиров Ильдар Шамилевич": 10,
-      "Чепкасов Владимир Геннадьевич": 36,
-      "Чулкин Алексей Аркадьевич": 123,
-      "Шудегов Виктор Евграфович": 50,
-      "Ягафаров Тимур Фаатович": 28
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 12,
+      "gas:candidate-vibid:2182000787548": 246,
+      "gas:candidate-vibid:2182000786620": 10,
+      "gas:candidate-vibid:2182000785139": 36,
+      "gas:candidate-vibid:2182000788018": 123,
+      "gas:candidate-vibid:2182000786535": 50,
+      "gas:candidate-vibid:2182000783897": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 9,
-      "Загребин Алексей Егорович": 149,
-      "Закиров Ильдар Шамилевич": 13,
-      "Чепкасов Владимир Геннадьевич": 37,
-      "Чулкин Алексей Аркадьевич": 64,
-      "Шудегов Виктор Евграфович": 19,
-      "Ягафаров Тимур Фаатович": 30
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 9,
+      "gas:candidate-vibid:2182000787548": 149,
+      "gas:candidate-vibid:2182000786620": 13,
+      "gas:candidate-vibid:2182000785139": 37,
+      "gas:candidate-vibid:2182000788018": 64,
+      "gas:candidate-vibid:2182000786535": 19,
+      "gas:candidate-vibid:2182000783897": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 0,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 84,
-      "Закиров Ильдар Шамилевич": 3,
-      "Чепкасов Владимир Геннадьевич": 11,
-      "Чулкин Алексей Аркадьевич": 10,
-      "Шудегов Виктор Евграфович": 3,
-      "Ягафаров Тимур Фаатович": 11
+      "gas:candidate-vibid:2182000788212": 0,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 84,
+      "gas:candidate-vibid:2182000786620": 3,
+      "gas:candidate-vibid:2182000785139": 11,
+      "gas:candidate-vibid:2182000788018": 10,
+      "gas:candidate-vibid:2182000786535": 3,
+      "gas:candidate-vibid:2182000783897": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 81,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 20,
-      "Чулкин Алексей Аркадьевич": 44,
-      "Шудегов Виктор Евграфович": 10,
-      "Ягафаров Тимур Фаатович": 8
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 81,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 20,
+      "gas:candidate-vibid:2182000788018": 44,
+      "gas:candidate-vibid:2182000786535": 10,
+      "gas:candidate-vibid:2182000783897": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 14,
-      "Загребин Алексей Егорович": 275,
-      "Закиров Ильдар Шамилевич": 17,
-      "Чепкасов Владимир Геннадьевич": 94,
-      "Чулкин Алексей Аркадьевич": 144,
-      "Шудегов Виктор Евграфович": 59,
-      "Ягафаров Тимур Фаатович": 37
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 14,
+      "gas:candidate-vibid:2182000787548": 275,
+      "gas:candidate-vibid:2182000786620": 17,
+      "gas:candidate-vibid:2182000785139": 94,
+      "gas:candidate-vibid:2182000788018": 144,
+      "gas:candidate-vibid:2182000786535": 59,
+      "gas:candidate-vibid:2182000783897": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 23,
-      "Загребин Алексей Егорович": 255,
-      "Закиров Ильдар Шамилевич": 20,
-      "Чепкасов Владимир Геннадьевич": 74,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 40,
-      "Ягафаров Тимур Фаатович": 40
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 23,
+      "gas:candidate-vibid:2182000787548": 255,
+      "gas:candidate-vibid:2182000786620": 20,
+      "gas:candidate-vibid:2182000785139": 74,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 40,
+      "gas:candidate-vibid:2182000783897": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 11,
-      "Загребин Алексей Егорович": 368,
-      "Закиров Ильдар Шамилевич": 16,
-      "Чепкасов Владимир Геннадьевич": 73,
-      "Чулкин Алексей Аркадьевич": 117,
-      "Шудегов Виктор Евграфович": 30,
-      "Ягафаров Тимур Фаатович": 40
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 11,
+      "gas:candidate-vibid:2182000787548": 368,
+      "gas:candidate-vibid:2182000786620": 16,
+      "gas:candidate-vibid:2182000785139": 73,
+      "gas:candidate-vibid:2182000788018": 117,
+      "gas:candidate-vibid:2182000786535": 30,
+      "gas:candidate-vibid:2182000783897": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 10,
-      "Дементьев Роман Вячеславович": 21,
-      "Загребин Алексей Егорович": 352,
-      "Закиров Ильдар Шамилевич": 14,
-      "Чепкасов Владимир Геннадьевич": 62,
-      "Чулкин Алексей Аркадьевич": 115,
-      "Шудегов Виктор Евграфович": 38,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 10,
+      "gas:candidate-vibid:2182000785496": 21,
+      "gas:candidate-vibid:2182000787548": 352,
+      "gas:candidate-vibid:2182000786620": 14,
+      "gas:candidate-vibid:2182000785139": 62,
+      "gas:candidate-vibid:2182000788018": 115,
+      "gas:candidate-vibid:2182000786535": 38,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 15,
-      "Загребин Алексей Егорович": 258,
-      "Закиров Ильдар Шамилевич": 12,
-      "Чепкасов Владимир Геннадьевич": 62,
-      "Чулкин Алексей Аркадьевич": 110,
-      "Шудегов Виктор Евграфович": 29,
-      "Ягафаров Тимур Фаатович": 47
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 15,
+      "gas:candidate-vibid:2182000787548": 258,
+      "gas:candidate-vibid:2182000786620": 12,
+      "gas:candidate-vibid:2182000785139": 62,
+      "gas:candidate-vibid:2182000788018": 110,
+      "gas:candidate-vibid:2182000786535": 29,
+      "gas:candidate-vibid:2182000783897": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 4,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 301,
-      "Закиров Ильдар Шамилевич": 21,
-      "Чепкасов Владимир Геннадьевич": 45,
-      "Чулкин Алексей Аркадьевич": 115,
-      "Шудегов Виктор Евграфович": 34,
-      "Ягафаров Тимур Фаатович": 42
+      "gas:candidate-vibid:2182000788212": 4,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 301,
+      "gas:candidate-vibid:2182000786620": 21,
+      "gas:candidate-vibid:2182000785139": 45,
+      "gas:candidate-vibid:2182000788018": 115,
+      "gas:candidate-vibid:2182000786535": 34,
+      "gas:candidate-vibid:2182000783897": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 9,
-      "Дементьев Роман Вячеславович": 19,
-      "Загребин Алексей Егорович": 304,
-      "Закиров Ильдар Шамилевич": 15,
-      "Чепкасов Владимир Геннадьевич": 80,
-      "Чулкин Алексей Аркадьевич": 129,
-      "Шудегов Виктор Евграфович": 29,
-      "Ягафаров Тимур Фаатович": 48
+      "gas:candidate-vibid:2182000788212": 9,
+      "gas:candidate-vibid:2182000785496": 19,
+      "gas:candidate-vibid:2182000787548": 304,
+      "gas:candidate-vibid:2182000786620": 15,
+      "gas:candidate-vibid:2182000785139": 80,
+      "gas:candidate-vibid:2182000788018": 129,
+      "gas:candidate-vibid:2182000786535": 29,
+      "gas:candidate-vibid:2182000783897": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 16,
-      "Загребин Алексей Егорович": 323,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 62,
-      "Чулкин Алексей Аркадьевич": 116,
-      "Шудегов Виктор Евграфович": 30,
-      "Ягафаров Тимур Фаатович": 44
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 16,
+      "gas:candidate-vibid:2182000787548": 323,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 62,
+      "gas:candidate-vibid:2182000788018": 116,
+      "gas:candidate-vibid:2182000786535": 30,
+      "gas:candidate-vibid:2182000783897": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 1,
-      "Дементьев Роман Вячеславович": 8,
-      "Загребин Алексей Егорович": 119,
-      "Закиров Ильдар Шамилевич": 7,
-      "Чепкасов Владимир Геннадьевич": 25,
-      "Чулкин Алексей Аркадьевич": 38,
-      "Шудегов Виктор Евграфович": 6,
-      "Ягафаров Тимур Фаатович": 17
+      "gas:candidate-vibid:2182000788212": 1,
+      "gas:candidate-vibid:2182000785496": 8,
+      "gas:candidate-vibid:2182000787548": 119,
+      "gas:candidate-vibid:2182000786620": 7,
+      "gas:candidate-vibid:2182000785139": 25,
+      "gas:candidate-vibid:2182000788018": 38,
+      "gas:candidate-vibid:2182000786535": 6,
+      "gas:candidate-vibid:2182000783897": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744071&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744071&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 3,
-      "Дементьев Роман Вячеславович": 7,
-      "Загребин Алексей Егорович": 185,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 58,
-      "Чулкин Алексей Аркадьевич": 35,
-      "Шудегов Виктор Евграфович": 10,
-      "Ягафаров Тимур Фаатович": 29
+      "gas:candidate-vibid:2182000788212": 3,
+      "gas:candidate-vibid:2182000785496": 7,
+      "gas:candidate-vibid:2182000787548": 185,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 58,
+      "gas:candidate-vibid:2182000788018": 35,
+      "gas:candidate-vibid:2182000786535": 10,
+      "gas:candidate-vibid:2182000783897": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744072&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744072&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 7,
-      "Дементьев Роман Вячеславович": 17,
-      "Загребин Алексей Егорович": 174,
-      "Закиров Ильдар Шамилевич": 4,
-      "Чепкасов Владимир Геннадьевич": 63,
-      "Чулкин Алексей Аркадьевич": 25,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 12
+      "gas:candidate-vibid:2182000788212": 7,
+      "gas:candidate-vibid:2182000785496": 17,
+      "gas:candidate-vibid:2182000787548": 174,
+      "gas:candidate-vibid:2182000786620": 4,
+      "gas:candidate-vibid:2182000785139": 63,
+      "gas:candidate-vibid:2182000788018": 25,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744072&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744072&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 6,
-      "Загребин Алексей Егорович": 267,
-      "Закиров Ильдар Шамилевич": 8,
-      "Чепкасов Владимир Геннадьевич": 45,
-      "Чулкин Алексей Аркадьевич": 20,
-      "Шудегов Виктор Евграфович": 7,
-      "Ягафаров Тимур Фаатович": 15
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 6,
+      "gas:candidate-vibid:2182000787548": 267,
+      "gas:candidate-vibid:2182000786620": 8,
+      "gas:candidate-vibid:2182000785139": 45,
+      "gas:candidate-vibid:2182000788018": 20,
+      "gas:candidate-vibid:2182000786535": 7,
+      "gas:candidate-vibid:2182000783897": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744072&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744072&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_18_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буторин Сергей Викторович": 2,
-      "Дементьев Роман Вячеславович": 5,
-      "Загребин Алексей Егорович": 105,
-      "Закиров Ильдар Шамилевич": 6,
-      "Чепкасов Владимир Геннадьевич": 7,
-      "Чулкин Алексей Аркадьевич": 28,
-      "Шудегов Виктор Евграфович": 11,
-      "Ягафаров Тимур Фаатович": 5
+      "gas:candidate-vibid:2182000788212": 2,
+      "gas:candidate-vibid:2182000785496": 5,
+      "gas:candidate-vibid:2182000787548": 105,
+      "gas:candidate-vibid:2182000786620": 6,
+      "gas:candidate-vibid:2182000785139": 7,
+      "gas:candidate-vibid:2182000788018": 28,
+      "gas:candidate-vibid:2182000786535": 11,
+      "gas:candidate-vibid:2182000783897": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000048&tvd=2182000744072&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744072&type=464",

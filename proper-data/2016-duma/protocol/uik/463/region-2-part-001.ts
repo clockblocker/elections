@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 24,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 19,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 13,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 24,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 19,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 13,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 271,
-      "Груздев Александр Анатольевич": 26,
-      "Демина Мария Фоминична": 83,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 9,
-      "Казитов Тимур Борисович": 76,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 261,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 271,
+      "gas:candidate-vibid:2042000321784": 26,
+      "gas:candidate-vibid:2042000322805": 83,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 9,
+      "gas:candidate-vibid:2042000321032": 76,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 261,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 269,
-      "Груздев Александр Анатольевич": 34,
-      "Демина Мария Фоминична": 85,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 12,
-      "Казитов Тимур Борисович": 105,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 281,
-      "Червов Александр Юрьевич": 7
+      "gas:candidate-vibid:2042000322834": 269,
+      "gas:candidate-vibid:2042000321784": 34,
+      "gas:candidate-vibid:2042000322805": 85,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 12,
+      "gas:candidate-vibid:2042000321032": 105,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 281,
+      "gas:candidate-vibid:2042000323106": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 21,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 21,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 14,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 13,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 14,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 13,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 39,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 27,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 8,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 37,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 39,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 27,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 8,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 37,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 45,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 28,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 67,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 45,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 28,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 67,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 164,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 84,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 20,
-      "Князев Урмат Алексеевич": 21,
-      "Ромашкин Виктор Васильевич": 80,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 164,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 84,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 20,
+      "gas:candidate-vibid:2042000322448": 21,
+      "gas:candidate-vibid:2042000322437": 80,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 27,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 18,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 27,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 18,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 35,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 35,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 13,
-      "Груздев Александр Анатольевич": 6,
-      "Демина Мария Фоминична": 12,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 17,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 13,
+      "gas:candidate-vibid:2042000321784": 6,
+      "gas:candidate-vibid:2042000322805": 12,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 17,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 158,
-      "Груздев Александр Анатольевич": 8,
-      "Демина Мария Фоминична": 85,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 29,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 71,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 158,
+      "gas:candidate-vibid:2042000321784": 8,
+      "gas:candidate-vibid:2042000322805": 85,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 29,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 71,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 69,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 31,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 37,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 69,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 31,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 37,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 41,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 25,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 16,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 30,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 41,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 25,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 16,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 30,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 9,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 11,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 4,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 9,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 11,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 4,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 45,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 11,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 45,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 11,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 23,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 23,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 7,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 5,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 7,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 7,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 5,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 7,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 50,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 31,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 19,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 43,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 50,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 31,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 19,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 43,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 119,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 32,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 8,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 37,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 119,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 32,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 8,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 37,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314655&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314655&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 120,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 14,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 46,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 120,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 14,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 46,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 123,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 51,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 36,
-      "Князев Урмат Алексеевич": 10,
-      "Ромашкин Виктор Васильевич": 71,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 123,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 51,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 36,
+      "gas:candidate-vibid:2042000322448": 10,
+      "gas:candidate-vibid:2042000322437": 71,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 115,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 13,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 17,
-      "Князев Урмат Алексеевич": 9,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 115,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 13,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 17,
+      "gas:candidate-vibid:2042000322448": 9,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 32,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 29,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 10,
-      "Князев Урмат Алексеевич": 10,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 32,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 29,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 10,
+      "gas:candidate-vibid:2042000322448": 10,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 57,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 21,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 31,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 57,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 21,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 31,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 102,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 111,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 16,
-      "Князев Урмат Алексеевич": 14,
-      "Ромашкин Виктор Васильевич": 57,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 102,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 111,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 16,
+      "gas:candidate-vibid:2042000322448": 14,
+      "gas:candidate-vibid:2042000322437": 57,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 65,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 22,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 65,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 22,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 61,
-      "Груздев Александр Анатольевич": 6,
-      "Демина Мария Фоминична": 26,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 31,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 61,
+      "gas:candidate-vibid:2042000321784": 6,
+      "gas:candidate-vibid:2042000322805": 26,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 31,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 111,
-      "Груздев Александр Анатольевич": 11,
-      "Демина Мария Фоминична": 78,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 44,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 99,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 111,
+      "gas:candidate-vibid:2042000321784": 11,
+      "gas:candidate-vibid:2042000322805": 78,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 44,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 99,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 320,
-      "Груздев Александр Анатольевич": 24,
-      "Демина Мария Фоминична": 301,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 103,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 178,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 320,
+      "gas:candidate-vibid:2042000321784": 24,
+      "gas:candidate-vibid:2042000322805": 301,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 103,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 178,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 47,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 47,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 35,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 47,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 47,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 35,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 46,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 10,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 5,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 46,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 10,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 5,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 54,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 4,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 54,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 4,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 75,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 35,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 15,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 53,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 75,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 35,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 15,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 53,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 29,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 37,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 16,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 29,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 37,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 16,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 45,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 22,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 39,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 45,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 22,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 39,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 26,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 25,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 11,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 26,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 25,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 11,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 116,
-      "Груздев Александр Анатольевич": 9,
-      "Демина Мария Фоминична": 56,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 18,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 116,
+      "gas:candidate-vibid:2042000321784": 9,
+      "gas:candidate-vibid:2042000322805": 56,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 18,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 15,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 33,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 11,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 15,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 33,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 11,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 32,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 9,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 12,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 32,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 9,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 12,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 97,
-      "Груздев Александр Анатольевич": 9,
-      "Демина Мария Фоминична": 81,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 44,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 41,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 97,
+      "gas:candidate-vibid:2042000321784": 9,
+      "gas:candidate-vibid:2042000322805": 81,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 44,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 41,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 27,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 37,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 27,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 37,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 41,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 21,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 17,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 41,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 21,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 17,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 94,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 15,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 28,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 20,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 94,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 15,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 28,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 20,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 29,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 30,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 8,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 29,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 30,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 8,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 34,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 12,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 11,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 20,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 34,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 12,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 11,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 20,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 118,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 72,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 16,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 59,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 118,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 72,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 16,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 59,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 119,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 148,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 11,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 44,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 119,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 148,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 11,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 44,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 88,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 32,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 5,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 88,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 32,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 5,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 66,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 3,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 66,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 3,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314656&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314656&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 126,
-      "Груздев Александр Анатольевич": 41,
-      "Демина Мария Фоминична": 86,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 47,
-      "Князев Урмат Алексеевич": 7,
-      "Ромашкин Виктор Васильевич": 138,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 126,
+      "gas:candidate-vibid:2042000321784": 41,
+      "gas:candidate-vibid:2042000322805": 86,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 47,
+      "gas:candidate-vibid:2042000322448": 7,
+      "gas:candidate-vibid:2042000322437": 138,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 74,
-      "Груздев Александр Анатольевич": 42,
-      "Демина Мария Фоминична": 92,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 8,
-      "Казитов Тимур Борисович": 41,
-      "Князев Урмат Алексеевич": 7,
-      "Ромашкин Виктор Васильевич": 106,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 74,
+      "gas:candidate-vibid:2042000321784": 42,
+      "gas:candidate-vibid:2042000322805": 92,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 8,
+      "gas:candidate-vibid:2042000321032": 41,
+      "gas:candidate-vibid:2042000322448": 7,
+      "gas:candidate-vibid:2042000322437": 106,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 139,
-      "Груздев Александр Анатольевич": 22,
-      "Демина Мария Фоминична": 80,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 36,
-      "Князев Урмат Алексеевич": 11,
-      "Ромашкин Виктор Васильевич": 139,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 139,
+      "gas:candidate-vibid:2042000321784": 22,
+      "gas:candidate-vibid:2042000322805": 80,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 36,
+      "gas:candidate-vibid:2042000322448": 11,
+      "gas:candidate-vibid:2042000322437": 139,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 103,
-      "Груздев Александр Анатольевич": 24,
-      "Демина Мария Фоминична": 78,
-      "Думнов Дмитрий Александрович": 9,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 33,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 130,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 103,
+      "gas:candidate-vibid:2042000321784": 24,
+      "gas:candidate-vibid:2042000322805": 78,
+      "gas:candidate-vibid:2042000323263": 9,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 33,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 130,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 159,
-      "Груздев Александр Анатольевич": 43,
-      "Демина Мария Фоминична": 102,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 9,
-      "Казитов Тимур Борисович": 48,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 151,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 159,
+      "gas:candidate-vibid:2042000321784": 43,
+      "gas:candidate-vibid:2042000322805": 102,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 9,
+      "gas:candidate-vibid:2042000321032": 48,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 151,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 119,
-      "Груздев Александр Анатольевич": 13,
-      "Демина Мария Фоминична": 79,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 5,
-      "Казитов Тимур Борисович": 39,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 130,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 119,
+      "gas:candidate-vibid:2042000321784": 13,
+      "gas:candidate-vibid:2042000322805": 79,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 5,
+      "gas:candidate-vibid:2042000321032": 39,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 130,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 14,
-      "Демина Мария Фоминична": 51,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 34,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 74,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 14,
+      "gas:candidate-vibid:2042000322805": 51,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 34,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 74,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 108,
-      "Груздев Александр Анатольевич": 27,
-      "Демина Мария Фоминична": 91,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 12,
-      "Казитов Тимур Борисович": 40,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 172,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 108,
+      "gas:candidate-vibid:2042000321784": 27,
+      "gas:candidate-vibid:2042000322805": 91,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 12,
+      "gas:candidate-vibid:2042000321032": 40,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 172,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 113,
-      "Груздев Александр Анатольевич": 26,
-      "Демина Мария Фоминична": 101,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 7,
-      "Казитов Тимур Борисович": 28,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 81,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 113,
+      "gas:candidate-vibid:2042000321784": 26,
+      "gas:candidate-vibid:2042000322805": 101,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 7,
+      "gas:candidate-vibid:2042000321032": 28,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 81,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 101,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 21,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 64,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 101,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 21,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 64,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 65,
-      "Груздев Александр Анатольевич": 16,
-      "Демина Мария Фоминична": 63,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 20,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 72,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 65,
+      "gas:candidate-vibid:2042000321784": 16,
+      "gas:candidate-vibid:2042000322805": 63,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 20,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 72,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 39,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 42,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 41,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 39,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 42,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 41,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 34,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 54,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 25,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 30,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 34,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 54,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 25,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 30,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 138,
-      "Груздев Александр Анатольевич": 12,
-      "Демина Мария Фоминична": 56,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 45,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 102,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 138,
+      "gas:candidate-vibid:2042000321784": 12,
+      "gas:candidate-vibid:2042000322805": 56,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 45,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 102,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 113,
-      "Груздев Александр Анатольевич": 20,
-      "Демина Мария Фоминична": 72,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 43,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 65,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 113,
+      "gas:candidate-vibid:2042000321784": 20,
+      "gas:candidate-vibid:2042000322805": 72,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 43,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 65,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 71,
-      "Груздев Александр Анатольевич": 8,
-      "Демина Мария Фоминична": 45,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 35,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 66,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 71,
+      "gas:candidate-vibid:2042000321784": 8,
+      "gas:candidate-vibid:2042000322805": 45,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 35,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 66,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 61,
-      "Груздев Александр Анатольевич": 9,
-      "Демина Мария Фоминична": 53,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 28,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 36,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 61,
+      "gas:candidate-vibid:2042000321784": 9,
+      "gas:candidate-vibid:2042000322805": 53,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 28,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 36,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 62,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 14,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 22,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 35,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 62,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 14,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 22,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 35,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 61,
-      "Груздев Александр Анатольевич": 6,
-      "Демина Мария Фоминична": 54,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 25,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 61,
+      "gas:candidate-vibid:2042000321784": 6,
+      "gas:candidate-vibid:2042000322805": 54,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 25,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 53,
-      "Груздев Александр Анатольевич": 8,
-      "Демина Мария Фоминична": 54,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 9,
-      "Казитов Тимур Борисович": 27,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 68,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 53,
+      "gas:candidate-vibid:2042000321784": 8,
+      "gas:candidate-vibid:2042000322805": 54,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 9,
+      "gas:candidate-vibid:2042000321032": 27,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 68,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 200,
-      "Груздев Александр Анатольевич": 19,
-      "Демина Мария Фоминична": 139,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 13,
-      "Казитов Тимур Борисович": 86,
-      "Князев Урмат Алексеевич": 25,
-      "Ромашкин Виктор Васильевич": 186,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 200,
+      "gas:candidate-vibid:2042000321784": 19,
+      "gas:candidate-vibid:2042000322805": 139,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 13,
+      "gas:candidate-vibid:2042000321032": 86,
+      "gas:candidate-vibid:2042000322448": 25,
+      "gas:candidate-vibid:2042000322437": 186,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 115,
-      "Груздев Александр Анатольевич": 12,
-      "Демина Мария Фоминична": 91,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 5,
-      "Казитов Тимур Борисович": 42,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 159,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 115,
+      "gas:candidate-vibid:2042000321784": 12,
+      "gas:candidate-vibid:2042000322805": 91,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 5,
+      "gas:candidate-vibid:2042000321032": 42,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 159,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 73,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 40,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 31,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 64,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 73,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 40,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 31,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 64,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 42,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 25,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 8,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 17,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 42,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 25,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 8,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 17,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 105,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 14,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 13,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 105,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 14,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 13,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 75,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 75,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 39,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 35,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 14,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 18,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 39,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 35,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 14,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 18,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 102,
-      "Груздев Александр Анатольевич": 34,
-      "Демина Мария Фоминична": 55,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 7,
-      "Казитов Тимур Борисович": 43,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 142,
-      "Червов Александр Юрьевич": 7
+      "gas:candidate-vibid:2042000322834": 102,
+      "gas:candidate-vibid:2042000321784": 34,
+      "gas:candidate-vibid:2042000322805": 55,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 7,
+      "gas:candidate-vibid:2042000321032": 43,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 142,
+      "gas:candidate-vibid:2042000323106": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 188,
-      "Груздев Александр Анатольевич": 25,
-      "Демина Мария Фоминична": 189,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 10,
-      "Казитов Тимур Борисович": 72,
-      "Князев Урмат Алексеевич": 7,
-      "Ромашкин Виктор Васильевич": 131,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 188,
+      "gas:candidate-vibid:2042000321784": 25,
+      "gas:candidate-vibid:2042000322805": 189,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 10,
+      "gas:candidate-vibid:2042000321032": 72,
+      "gas:candidate-vibid:2042000322448": 7,
+      "gas:candidate-vibid:2042000322437": 131,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314657&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314657&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 254,
-      "Груздев Александр Анатольевич": 32,
-      "Демина Мария Фоминична": 95,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 8,
-      "Казитов Тимур Борисович": 104,
-      "Князев Урмат Алексеевич": 16,
-      "Ромашкин Виктор Васильевич": 262,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 254,
+      "gas:candidate-vibid:2042000321784": 32,
+      "gas:candidate-vibid:2042000322805": 95,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 8,
+      "gas:candidate-vibid:2042000321032": 104,
+      "gas:candidate-vibid:2042000322448": 16,
+      "gas:candidate-vibid:2042000322437": 262,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 218,
-      "Груздев Александр Анатольевич": 55,
-      "Демина Мария Фоминична": 105,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 21,
-      "Казитов Тимур Борисович": 84,
-      "Князев Урмат Алексеевич": 27,
-      "Ромашкин Виктор Васильевич": 274,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 218,
+      "gas:candidate-vibid:2042000321784": 55,
+      "gas:candidate-vibid:2042000322805": 105,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 21,
+      "gas:candidate-vibid:2042000321032": 84,
+      "gas:candidate-vibid:2042000322448": 27,
+      "gas:candidate-vibid:2042000322437": 274,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 190,
-      "Груздев Александр Анатольевич": 59,
-      "Демина Мария Фоминична": 90,
-      "Думнов Дмитрий Александрович": 12,
-      "Зверяко Ирина Владимировна": 13,
-      "Казитов Тимур Борисович": 95,
-      "Князев Урмат Алексеевич": 18,
-      "Ромашкин Виктор Васильевич": 204,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 190,
+      "gas:candidate-vibid:2042000321784": 59,
+      "gas:candidate-vibid:2042000322805": 90,
+      "gas:candidate-vibid:2042000323263": 12,
+      "gas:candidate-vibid:2042000323305": 13,
+      "gas:candidate-vibid:2042000321032": 95,
+      "gas:candidate-vibid:2042000322448": 18,
+      "gas:candidate-vibid:2042000322437": 204,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 280,
-      "Груздев Александр Анатольевич": 33,
-      "Демина Мария Фоминична": 96,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 13,
-      "Казитов Тимур Борисович": 101,
-      "Князев Урмат Алексеевич": 29,
-      "Ромашкин Виктор Васильевич": 259,
-      "Червов Александр Юрьевич": 9
+      "gas:candidate-vibid:2042000322834": 280,
+      "gas:candidate-vibid:2042000321784": 33,
+      "gas:candidate-vibid:2042000322805": 96,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 13,
+      "gas:candidate-vibid:2042000321032": 101,
+      "gas:candidate-vibid:2042000322448": 29,
+      "gas:candidate-vibid:2042000322437": 259,
+      "gas:candidate-vibid:2042000323106": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 345,
-      "Груздев Александр Анатольевич": 44,
-      "Демина Мария Фоминична": 87,
-      "Думнов Дмитрий Александрович": 11,
-      "Зверяко Ирина Владимировна": 13,
-      "Казитов Тимур Борисович": 128,
-      "Князев Урмат Алексеевич": 25,
-      "Ромашкин Виктор Васильевич": 276,
-      "Червов Александр Юрьевич": 8
+      "gas:candidate-vibid:2042000322834": 345,
+      "gas:candidate-vibid:2042000321784": 44,
+      "gas:candidate-vibid:2042000322805": 87,
+      "gas:candidate-vibid:2042000323263": 11,
+      "gas:candidate-vibid:2042000323305": 13,
+      "gas:candidate-vibid:2042000321032": 128,
+      "gas:candidate-vibid:2042000322448": 25,
+      "gas:candidate-vibid:2042000322437": 276,
+      "gas:candidate-vibid:2042000323106": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 314,
-      "Груздев Александр Анатольевич": 35,
-      "Демина Мария Фоминична": 109,
-      "Думнов Дмитрий Александрович": 13,
-      "Зверяко Ирина Владимировна": 12,
-      "Казитов Тимур Борисович": 125,
-      "Князев Урмат Алексеевич": 30,
-      "Ромашкин Виктор Васильевич": 258,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 314,
+      "gas:candidate-vibid:2042000321784": 35,
+      "gas:candidate-vibid:2042000322805": 109,
+      "gas:candidate-vibid:2042000323263": 13,
+      "gas:candidate-vibid:2042000323305": 12,
+      "gas:candidate-vibid:2042000321032": 125,
+      "gas:candidate-vibid:2042000322448": 30,
+      "gas:candidate-vibid:2042000322437": 258,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 246,
-      "Груздев Александр Анатольевич": 47,
-      "Демина Мария Фоминична": 99,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 8,
-      "Казитов Тимур Борисович": 112,
-      "Князев Урмат Алексеевич": 27,
-      "Ромашкин Виктор Васильевич": 281,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 246,
+      "gas:candidate-vibid:2042000321784": 47,
+      "gas:candidate-vibid:2042000322805": 99,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 8,
+      "gas:candidate-vibid:2042000321032": 112,
+      "gas:candidate-vibid:2042000322448": 27,
+      "gas:candidate-vibid:2042000322437": 281,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 278,
-      "Груздев Александр Анатольевич": 61,
-      "Демина Мария Фоминична": 107,
-      "Думнов Дмитрий Александрович": 11,
-      "Зверяко Ирина Владимировна": 11,
-      "Казитов Тимур Борисович": 128,
-      "Князев Урмат Алексеевич": 28,
-      "Ромашкин Виктор Васильевич": 320,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 278,
+      "gas:candidate-vibid:2042000321784": 61,
+      "gas:candidate-vibid:2042000322805": 107,
+      "gas:candidate-vibid:2042000323263": 11,
+      "gas:candidate-vibid:2042000323305": 11,
+      "gas:candidate-vibid:2042000321032": 128,
+      "gas:candidate-vibid:2042000322448": 28,
+      "gas:candidate-vibid:2042000322437": 320,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 199,
-      "Груздев Александр Анатольевич": 36,
-      "Демина Мария Фоминична": 56,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 11,
-      "Казитов Тимур Борисович": 69,
-      "Князев Урмат Алексеевич": 15,
-      "Ромашкин Виктор Васильевич": 211,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 199,
+      "gas:candidate-vibid:2042000321784": 36,
+      "gas:candidate-vibid:2042000322805": 56,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 11,
+      "gas:candidate-vibid:2042000321032": 69,
+      "gas:candidate-vibid:2042000322448": 15,
+      "gas:candidate-vibid:2042000322437": 211,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 224,
-      "Груздев Александр Анатольевич": 37,
-      "Демина Мария Фоминична": 53,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 12,
-      "Казитов Тимур Борисович": 71,
-      "Князев Урмат Алексеевич": 23,
-      "Ромашкин Виктор Васильевич": 210,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 224,
+      "gas:candidate-vibid:2042000321784": 37,
+      "gas:candidate-vibid:2042000322805": 53,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 12,
+      "gas:candidate-vibid:2042000321032": 71,
+      "gas:candidate-vibid:2042000322448": 23,
+      "gas:candidate-vibid:2042000322437": 210,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 171,
-      "Груздев Александр Анатольевич": 39,
-      "Демина Мария Фоминична": 85,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 15,
-      "Казитов Тимур Борисович": 63,
-      "Князев Урмат Алексеевич": 15,
-      "Ромашкин Виктор Васильевич": 239,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 171,
+      "gas:candidate-vibid:2042000321784": 39,
+      "gas:candidate-vibid:2042000322805": 85,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 15,
+      "gas:candidate-vibid:2042000321032": 63,
+      "gas:candidate-vibid:2042000322448": 15,
+      "gas:candidate-vibid:2042000322437": 239,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 273,
-      "Груздев Александр Анатольевич": 41,
-      "Демина Мария Фоминична": 78,
-      "Думнов Дмитрий Александрович": 9,
-      "Зверяко Ирина Владимировна": 12,
-      "Казитов Тимур Борисович": 118,
-      "Князев Урмат Алексеевич": 26,
-      "Ромашкин Виктор Васильевич": 252,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 273,
+      "gas:candidate-vibid:2042000321784": 41,
+      "gas:candidate-vibid:2042000322805": 78,
+      "gas:candidate-vibid:2042000323263": 9,
+      "gas:candidate-vibid:2042000323305": 12,
+      "gas:candidate-vibid:2042000321032": 118,
+      "gas:candidate-vibid:2042000322448": 26,
+      "gas:candidate-vibid:2042000322437": 252,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 242,
-      "Груздев Александр Анатольевич": 21,
-      "Демина Мария Фоминична": 81,
-      "Думнов Дмитрий Александрович": 12,
-      "Зверяко Ирина Владимировна": 6,
-      "Казитов Тимур Борисович": 96,
-      "Князев Урмат Алексеевич": 25,
-      "Ромашкин Виктор Васильевич": 212,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 242,
+      "gas:candidate-vibid:2042000321784": 21,
+      "gas:candidate-vibid:2042000322805": 81,
+      "gas:candidate-vibid:2042000323263": 12,
+      "gas:candidate-vibid:2042000323305": 6,
+      "gas:candidate-vibid:2042000321032": 96,
+      "gas:candidate-vibid:2042000322448": 25,
+      "gas:candidate-vibid:2042000322437": 212,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 315,
-      "Груздев Александр Анатольевич": 39,
-      "Демина Мария Фоминична": 114,
-      "Думнов Дмитрий Александрович": 14,
-      "Зверяко Ирина Владимировна": 14,
-      "Казитов Тимур Борисович": 105,
-      "Князев Урмат Алексеевич": 15,
-      "Ромашкин Виктор Васильевич": 233,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 315,
+      "gas:candidate-vibid:2042000321784": 39,
+      "gas:candidate-vibid:2042000322805": 114,
+      "gas:candidate-vibid:2042000323263": 14,
+      "gas:candidate-vibid:2042000323305": 14,
+      "gas:candidate-vibid:2042000321032": 105,
+      "gas:candidate-vibid:2042000322448": 15,
+      "gas:candidate-vibid:2042000322437": 233,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 273,
-      "Груздев Александр Анатольевич": 37,
-      "Демина Мария Фоминична": 87,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 24,
-      "Казитов Тимур Борисович": 108,
-      "Князев Урмат Алексеевич": 27,
-      "Ромашкин Виктор Васильевич": 251,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 273,
+      "gas:candidate-vibid:2042000321784": 37,
+      "gas:candidate-vibid:2042000322805": 87,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 24,
+      "gas:candidate-vibid:2042000321032": 108,
+      "gas:candidate-vibid:2042000322448": 27,
+      "gas:candidate-vibid:2042000322437": 251,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 132,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 42,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 6,
-      "Казитов Тимур Борисович": 71,
-      "Князев Урмат Алексеевич": 20,
-      "Ромашкин Виктор Васильевич": 92,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 132,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 42,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 6,
+      "gas:candidate-vibid:2042000321032": 71,
+      "gas:candidate-vibid:2042000322448": 20,
+      "gas:candidate-vibid:2042000322437": 92,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 261,
-      "Груздев Александр Анатольевич": 35,
-      "Демина Мария Фоминична": 89,
-      "Думнов Дмитрий Александрович": 29,
-      "Зверяко Ирина Владимировна": 8,
-      "Казитов Тимур Борисович": 109,
-      "Князев Урмат Алексеевич": 26,
-      "Ромашкин Виктор Васильевич": 222,
-      "Червов Александр Юрьевич": 8
+      "gas:candidate-vibid:2042000322834": 261,
+      "gas:candidate-vibid:2042000321784": 35,
+      "gas:candidate-vibid:2042000322805": 89,
+      "gas:candidate-vibid:2042000323263": 29,
+      "gas:candidate-vibid:2042000323305": 8,
+      "gas:candidate-vibid:2042000321032": 109,
+      "gas:candidate-vibid:2042000322448": 26,
+      "gas:candidate-vibid:2042000322437": 222,
+      "gas:candidate-vibid:2042000323106": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 148,
-      "Груздев Александр Анатольевич": 9,
-      "Демина Мария Фоминична": 52,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 12,
-      "Казитов Тимур Борисович": 82,
-      "Князев Урмат Алексеевич": 12,
-      "Ромашкин Виктор Васильевич": 132,
-      "Червов Александр Юрьевич": 5
+      "gas:candidate-vibid:2042000322834": 148,
+      "gas:candidate-vibid:2042000321784": 9,
+      "gas:candidate-vibid:2042000322805": 52,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 12,
+      "gas:candidate-vibid:2042000321032": 82,
+      "gas:candidate-vibid:2042000322448": 12,
+      "gas:candidate-vibid:2042000322437": 132,
+      "gas:candidate-vibid:2042000323106": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 185,
-      "Груздев Александр Анатольевич": 25,
-      "Демина Мария Фоминична": 106,
-      "Думнов Дмитрий Александрович": 18,
-      "Зверяко Ирина Владимировна": 23,
-      "Казитов Тимур Борисович": 116,
-      "Князев Урмат Алексеевич": 15,
-      "Ромашкин Виктор Васильевич": 243,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 185,
+      "gas:candidate-vibid:2042000321784": 25,
+      "gas:candidate-vibid:2042000322805": 106,
+      "gas:candidate-vibid:2042000323263": 18,
+      "gas:candidate-vibid:2042000323305": 23,
+      "gas:candidate-vibid:2042000321032": 116,
+      "gas:candidate-vibid:2042000322448": 15,
+      "gas:candidate-vibid:2042000322437": 243,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 182,
-      "Груздев Александр Анатольевич": 19,
-      "Демина Мария Фоминична": 90,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 10,
-      "Казитов Тимур Борисович": 126,
-      "Князев Урмат Алексеевич": 16,
-      "Ромашкин Виктор Васильевич": 186,
-      "Червов Александр Юрьевич": 10
+      "gas:candidate-vibid:2042000322834": 182,
+      "gas:candidate-vibid:2042000321784": 19,
+      "gas:candidate-vibid:2042000322805": 90,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 10,
+      "gas:candidate-vibid:2042000321032": 126,
+      "gas:candidate-vibid:2042000322448": 16,
+      "gas:candidate-vibid:2042000322437": 186,
+      "gas:candidate-vibid:2042000323106": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 210,
-      "Груздев Александр Анатольевич": 30,
-      "Демина Мария Фоминична": 109,
-      "Думнов Дмитрий Александрович": 11,
-      "Зверяко Ирина Владимировна": 11,
-      "Казитов Тимур Борисович": 112,
-      "Князев Урмат Алексеевич": 22,
-      "Ромашкин Виктор Васильевич": 266,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 210,
+      "gas:candidate-vibid:2042000321784": 30,
+      "gas:candidate-vibid:2042000322805": 109,
+      "gas:candidate-vibid:2042000323263": 11,
+      "gas:candidate-vibid:2042000323305": 11,
+      "gas:candidate-vibid:2042000321032": 112,
+      "gas:candidate-vibid:2042000322448": 22,
+      "gas:candidate-vibid:2042000322437": 266,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 314,
-      "Груздев Александр Анатольевич": 14,
-      "Демина Мария Фоминична": 45,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 11,
-      "Казитов Тимур Борисович": 72,
-      "Князев Урмат Алексеевич": 43,
-      "Ромашкин Виктор Васильевич": 97,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 314,
+      "gas:candidate-vibid:2042000321784": 14,
+      "gas:candidate-vibid:2042000322805": 45,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 11,
+      "gas:candidate-vibid:2042000321032": 72,
+      "gas:candidate-vibid:2042000322448": 43,
+      "gas:candidate-vibid:2042000322437": 97,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 74,
-      "Груздев Александр Анатольевич": 11,
-      "Демина Мария Фоминична": 40,
-      "Думнов Дмитрий Александрович": 7,
-      "Зверяко Ирина Владимировна": 5,
-      "Казитов Тимур Борисович": 66,
-      "Князев Урмат Алексеевич": 12,
-      "Ромашкин Виктор Васильевич": 83,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 74,
+      "gas:candidate-vibid:2042000321784": 11,
+      "gas:candidate-vibid:2042000322805": 40,
+      "gas:candidate-vibid:2042000323263": 7,
+      "gas:candidate-vibid:2042000323305": 5,
+      "gas:candidate-vibid:2042000321032": 66,
+      "gas:candidate-vibid:2042000322448": 12,
+      "gas:candidate-vibid:2042000322437": 83,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314658&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314658&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 48,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 23,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 102,
-      "Ромашкин Виктор Васильевич": 20,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 48,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 23,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 102,
+      "gas:candidate-vibid:2042000322437": 20,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 128,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 15,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 175,
-      "Ромашкин Виктор Васильевич": 8,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 128,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 15,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 175,
+      "gas:candidate-vibid:2042000322437": 8,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 96,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 4,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 85,
-      "Ромашкин Виктор Васильевич": 12,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 96,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 4,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 85,
+      "gas:candidate-vibid:2042000322437": 12,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 130,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 5,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 123,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 130,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 5,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 123,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 142,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 15,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 89,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 142,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 15,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 89,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 373,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 114,
-      "Ромашкин Виктор Васильевич": 13,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 373,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 114,
+      "gas:candidate-vibid:2042000322437": 13,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 430,
-      "Груздев Александр Анатольевич": 20,
-      "Демина Мария Фоминична": 89,
-      "Думнов Дмитрий Александрович": 10,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 22,
-      "Князев Урмат Алексеевич": 118,
-      "Ромашкин Виктор Васильевич": 191,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 430,
+      "gas:candidate-vibid:2042000321784": 20,
+      "gas:candidate-vibid:2042000322805": 89,
+      "gas:candidate-vibid:2042000323263": 10,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 22,
+      "gas:candidate-vibid:2042000322448": 118,
+      "gas:candidate-vibid:2042000322437": 191,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 472,
-      "Груздев Александр Анатольевич": 28,
-      "Демина Мария Фоминична": 48,
-      "Думнов Дмитрий Александрович": 13,
-      "Зверяко Ирина Владимировна": 10,
-      "Казитов Тимур Борисович": 38,
-      "Князев Урмат Алексеевич": 83,
-      "Ромашкин Виктор Васильевич": 209,
-      "Червов Александр Юрьевич": 4
+      "gas:candidate-vibid:2042000322834": 472,
+      "gas:candidate-vibid:2042000321784": 28,
+      "gas:candidate-vibid:2042000322805": 48,
+      "gas:candidate-vibid:2042000323263": 13,
+      "gas:candidate-vibid:2042000323305": 10,
+      "gas:candidate-vibid:2042000321032": 38,
+      "gas:candidate-vibid:2042000322448": 83,
+      "gas:candidate-vibid:2042000322437": 209,
+      "gas:candidate-vibid:2042000323106": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 191,
-      "Груздев Александр Анатольевич": 17,
-      "Демина Мария Фоминична": 30,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 9,
-      "Князев Урмат Алексеевич": 52,
-      "Ромашкин Виктор Васильевич": 96,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 191,
+      "gas:candidate-vibid:2042000321784": 17,
+      "gas:candidate-vibid:2042000322805": 30,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 9,
+      "gas:candidate-vibid:2042000322448": 52,
+      "gas:candidate-vibid:2042000322437": 96,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 567,
-      "Груздев Александр Анатольевич": 39,
-      "Демина Мария Фоминична": 68,
-      "Думнов Дмитрий Александрович": 13,
-      "Зверяко Ирина Владимировна": 10,
-      "Казитов Тимур Борисович": 46,
-      "Князев Урмат Алексеевич": 90,
-      "Ромашкин Виктор Васильевич": 264,
-      "Червов Александр Юрьевич": 15
+      "gas:candidate-vibid:2042000322834": 567,
+      "gas:candidate-vibid:2042000321784": 39,
+      "gas:candidate-vibid:2042000322805": 68,
+      "gas:candidate-vibid:2042000323263": 13,
+      "gas:candidate-vibid:2042000323305": 10,
+      "gas:candidate-vibid:2042000321032": 46,
+      "gas:candidate-vibid:2042000322448": 90,
+      "gas:candidate-vibid:2042000322437": 264,
+      "gas:candidate-vibid:2042000323106": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 275,
-      "Груздев Александр Анатольевич": 25,
-      "Демина Мария Фоминична": 43,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 16,
-      "Князев Урмат Алексеевич": 39,
-      "Ромашкин Виктор Васильевич": 134,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 275,
+      "gas:candidate-vibid:2042000321784": 25,
+      "gas:candidate-vibid:2042000322805": 43,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 16,
+      "gas:candidate-vibid:2042000322448": 39,
+      "gas:candidate-vibid:2042000322437": 134,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 249,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 37,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 5,
-      "Князев Урмат Алексеевич": 72,
-      "Ромашкин Виктор Васильевич": 24,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 249,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 37,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 5,
+      "gas:candidate-vibid:2042000322448": 72,
+      "gas:candidate-vibid:2042000322437": 24,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 239,
-      "Груздев Александр Анатольевич": 13,
-      "Демина Мария Фоминична": 23,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 16,
-      "Ромашкин Виктор Васильевич": 154,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 239,
+      "gas:candidate-vibid:2042000321784": 13,
+      "gas:candidate-vibid:2042000322805": 23,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 16,
+      "gas:candidate-vibid:2042000322437": 154,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 345,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 33,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 116,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 345,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 33,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 116,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 371,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 20,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 53,
-      "Ромашкин Виктор Васильевич": 25,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 371,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 20,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 53,
+      "gas:candidate-vibid:2042000322437": 25,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 124,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 9,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 124,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 9,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 384,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 36,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 33,
-      "Ромашкин Виктор Васильевич": 60,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 384,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 36,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 33,
+      "gas:candidate-vibid:2042000322437": 60,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314659&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314659&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 136,
-      "Груздев Александр Анатольевич": 6,
-      "Демина Мария Фоминична": 74,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 24,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 56,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 136,
+      "gas:candidate-vibid:2042000321784": 6,
+      "gas:candidate-vibid:2042000322805": 74,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 24,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 56,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 117,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 70,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 33,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 60,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 117,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 70,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 33,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 60,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 138,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 73,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 32,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 57,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 138,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 73,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 32,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 57,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 46,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 45,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 46,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 45,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 41,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 11,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 41,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 11,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 16,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 19,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 16,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 19,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 37,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 40,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 37,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 40,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 56,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 13,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 56,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 13,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 55,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 43,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 55,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 43,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 69,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 37,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 37,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 69,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 37,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 37,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 80,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 45,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 26,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 60,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 80,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 45,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 26,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 60,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 79,
-      "Груздев Александр Анатольевич": 10,
-      "Демина Мария Фоминична": 25,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 25,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 54,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 79,
+      "gas:candidate-vibid:2042000321784": 10,
+      "gas:candidate-vibid:2042000322805": 25,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 25,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 54,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 32,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 48,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 16,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 32,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 48,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 16,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 35,
-      "Груздев Александр Анатольевич": 10,
-      "Демина Мария Фоминична": 42,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 27,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 68,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 35,
+      "gas:candidate-vibid:2042000321784": 10,
+      "gas:candidate-vibid:2042000322805": 42,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 27,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 68,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 48,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 38,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 18,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 54,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 48,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 38,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 18,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 54,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 46,
-      "Груздев Александр Анатольевич": 8,
-      "Демина Мария Фоминична": 66,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 20,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 46,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 46,
+      "gas:candidate-vibid:2042000321784": 8,
+      "gas:candidate-vibid:2042000322805": 66,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 20,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 46,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 45,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 21,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 9,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 56,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 45,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 21,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 9,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 56,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 45,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 13,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 8,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 60,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 45,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 13,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 8,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 60,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314660&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314660&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 188,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 4,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 9,
-      "Ромашкин Виктор Васильевич": 6,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 188,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 4,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 9,
+      "gas:candidate-vibid:2042000322437": 6,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 150,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 7,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 150,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 7,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 208,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 31,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 19,
-      "Ромашкин Виктор Васильевич": 7,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 208,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 31,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 19,
+      "gas:candidate-vibid:2042000322437": 7,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 120,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 88,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 5,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 120,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 88,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 5,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 152,
-      "Груздев Александр Анатольевич": 10,
-      "Демина Мария Фоминична": 67,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 14,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 20,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 152,
+      "gas:candidate-vibid:2042000321784": 10,
+      "gas:candidate-vibid:2042000322805": 67,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 14,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 20,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 103,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 39,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 11,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 70,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 103,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 39,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 11,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 70,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 47,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 14,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 8,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 47,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 14,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 8,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 44,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 44,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 120,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 17,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 120,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 17,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 359,
-      "Груздев Александр Анатольевич": 25,
-      "Демина Мария Фоминична": 86,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 6,
-      "Казитов Тимур Борисович": 34,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 108,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 359,
+      "gas:candidate-vibid:2042000321784": 25,
+      "gas:candidate-vibid:2042000322805": 86,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 6,
+      "gas:candidate-vibid:2042000321032": 34,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 108,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 112,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 24,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 17,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 43,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 112,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 24,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 17,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 43,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 130,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 18,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 130,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 18,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 37,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 5,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 37,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 5,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 320,
-      "Груздев Александр Анатольевич": 14,
-      "Демина Мария Фоминична": 94,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 5,
-      "Казитов Тимур Борисович": 35,
-      "Князев Урмат Алексеевич": 23,
-      "Ромашкин Виктор Васильевич": 107,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 320,
+      "gas:candidate-vibid:2042000321784": 14,
+      "gas:candidate-vibid:2042000322805": 94,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 5,
+      "gas:candidate-vibid:2042000321032": 35,
+      "gas:candidate-vibid:2042000322448": 23,
+      "gas:candidate-vibid:2042000322437": 107,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 345,
-      "Груздев Александр Анатольевич": 24,
-      "Демина Мария Фоминична": 86,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 44,
-      "Князев Урмат Алексеевич": 15,
-      "Ромашкин Виктор Васильевич": 118,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 345,
+      "gas:candidate-vibid:2042000321784": 24,
+      "gas:candidate-vibid:2042000322805": 86,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 44,
+      "gas:candidate-vibid:2042000322448": 15,
+      "gas:candidate-vibid:2042000322437": 118,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 20,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 10,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 29,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 20,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 10,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 29,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 139,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 42,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 15,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 27,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 139,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 42,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 15,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 27,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 22,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 3,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 16,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 22,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 3,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 16,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 68,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 3,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 68,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 3,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 130,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 10,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 130,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 10,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 80,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 4,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 7,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 80,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 4,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 7,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314661&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314661&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 102,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 0,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 28,
-      "Ромашкин Виктор Васильевич": 8,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 102,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 0,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 28,
+      "gas:candidate-vibid:2042000322437": 8,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 188,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 33,
-      "Ромашкин Виктор Васильевич": 41,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 188,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 33,
+      "gas:candidate-vibid:2042000322437": 41,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 105,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 0,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 105,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 0,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 274,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 30,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 35,
-      "Ромашкин Виктор Васильевич": 24,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 274,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 30,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 35,
+      "gas:candidate-vibid:2042000322437": 24,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 69,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 8,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 38,
-      "Ромашкин Виктор Васильевич": 1,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 69,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 8,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 38,
+      "gas:candidate-vibid:2042000322437": 1,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 191,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 6,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 34,
-      "Ромашкин Виктор Васильевич": 12,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 191,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 6,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 34,
+      "gas:candidate-vibid:2042000322437": 12,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 0,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 6,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 0,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 6,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 470,
-      "Груздев Александр Анатольевич": 31,
-      "Демина Мария Фоминична": 155,
-      "Думнов Дмитрий Александрович": 8,
-      "Зверяко Ирина Владимировна": 4,
-      "Казитов Тимур Борисович": 62,
-      "Князев Урмат Алексеевич": 29,
-      "Ромашкин Виктор Васильевич": 165,
-      "Червов Александр Юрьевич": 6
+      "gas:candidate-vibid:2042000322834": 470,
+      "gas:candidate-vibid:2042000321784": 31,
+      "gas:candidate-vibid:2042000322805": 155,
+      "gas:candidate-vibid:2042000323263": 8,
+      "gas:candidate-vibid:2042000323305": 4,
+      "gas:candidate-vibid:2042000321032": 62,
+      "gas:candidate-vibid:2042000322448": 29,
+      "gas:candidate-vibid:2042000322437": 165,
+      "gas:candidate-vibid:2042000323106": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 162,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 12,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 35,
-      "Ромашкин Виктор Васильевич": 21,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 162,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 12,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 35,
+      "gas:candidate-vibid:2042000322437": 21,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 572,
-      "Груздев Александр Анатольевич": 22,
-      "Демина Мария Фоминична": 59,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 105,
-      "Ромашкин Виктор Васильевич": 70,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 572,
+      "gas:candidate-vibid:2042000321784": 22,
+      "gas:candidate-vibid:2042000322805": 59,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 105,
+      "gas:candidate-vibid:2042000322437": 70,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 190,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 8,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 32,
-      "Ромашкин Виктор Васильевич": 12,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 190,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 8,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 32,
+      "gas:candidate-vibid:2042000322437": 12,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314662&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314662&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 83,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 6,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 17,
-      "Ромашкин Виктор Васильевич": 30,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 83,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 6,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 17,
+      "gas:candidate-vibid:2042000322437": 30,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 106,
-      "Груздев Александр Анатольевич": 5,
-      "Демина Мария Фоминична": 6,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 15,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 106,
+      "gas:candidate-vibid:2042000321784": 5,
+      "gas:candidate-vibid:2042000322805": 6,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 15,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 49,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 16,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 49,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 16,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 113,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 22,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 29,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 24,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 113,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 22,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 29,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 24,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 30,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 16,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 1,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 30,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 16,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 1,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 32,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 5,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 10,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 13,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 32,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 5,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 10,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 13,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 104,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 13,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 104,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 13,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 94,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 8,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 5,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 94,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 8,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 5,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 243,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 10,
-      "Князев Урмат Алексеевич": 39,
-      "Ромашкин Виктор Васильевич": 12,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 243,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 10,
+      "gas:candidate-vibid:2042000322448": 39,
+      "gas:candidate-vibid:2042000322437": 12,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 86,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 0,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 86,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 0,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 381,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 39,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 196,
-      "Князев Урмат Алексеевич": 52,
-      "Ромашкин Виктор Васильевич": 45,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 381,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 39,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 196,
+      "gas:candidate-vibid:2042000322448": 52,
+      "gas:candidate-vibid:2042000322437": 45,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 223,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 3,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 15,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 223,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 3,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 15,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 349,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 44,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 43,
-      "Князев Урмат Алексеевич": 34,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 349,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 44,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 43,
+      "gas:candidate-vibid:2042000322448": 34,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 346,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 33,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 84,
-      "Князев Урмат Алексеевич": 30,
-      "Ромашкин Виктор Васильевич": 19,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 346,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 33,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 84,
+      "gas:candidate-vibid:2042000322448": 30,
+      "gas:candidate-vibid:2042000322437": 19,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 37,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 6,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 37,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 6,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 57,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 57,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 508,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 17,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 65,
-      "Князев Урмат Алексеевич": 44,
-      "Ромашкин Виктор Васильевич": 22,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 508,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 17,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 65,
+      "gas:candidate-vibid:2042000322448": 44,
+      "gas:candidate-vibid:2042000322437": 22,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 72,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 72,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 162,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 16,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 162,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 16,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 52,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 7,
-      "Ромашкин Виктор Васильевич": 5,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 52,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 7,
+      "gas:candidate-vibid:2042000322437": 5,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 163,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 6,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 55,
-      "Князев Урмат Алексеевич": 10,
-      "Ромашкин Виктор Васильевич": 24,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 163,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 6,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 55,
+      "gas:candidate-vibid:2042000322448": 10,
+      "gas:candidate-vibid:2042000322437": 24,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 26,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 31,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 26,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 31,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 58,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 2,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 21,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 58,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 2,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 21,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 148,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 22,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 78,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 66,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 148,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 22,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 78,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 66,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 379,
-      "Груздев Александр Анатольевич": 8,
-      "Демина Мария Фоминична": 24,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 154,
-      "Князев Урмат Алексеевич": 71,
-      "Ромашкин Виктор Васильевич": 58,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 379,
+      "gas:candidate-vibid:2042000321784": 8,
+      "gas:candidate-vibid:2042000322805": 24,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 154,
+      "gas:candidate-vibid:2042000322448": 71,
+      "gas:candidate-vibid:2042000322437": 58,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314663&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314663&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 76,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 8,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 12,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 76,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 8,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 12,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 51,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 3,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 3,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 51,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 3,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 3,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 68,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 4,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 3,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 68,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 4,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 3,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 171,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 21,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 24,
-      "Ромашкин Виктор Васильевич": 33,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 171,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 21,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 24,
+      "gas:candidate-vibid:2042000322437": 33,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 76,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 8,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 76,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 8,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 102,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 1,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 0,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 6,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 102,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 1,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 0,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 6,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 233,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 16,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 8,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 233,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 16,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 8,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 147,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 6,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 3,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 147,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 6,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 3,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 109,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 8,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 10,
-      "Ромашкин Виктор Васильевич": 19,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 109,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 8,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 10,
+      "gas:candidate-vibid:2042000322437": 19,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 560,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 115,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 5,
-      "Казитов Тимур Борисович": 43,
-      "Князев Урмат Алексеевич": 41,
-      "Ромашкин Виктор Васильевич": 119,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 560,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 115,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 5,
+      "gas:candidate-vibid:2042000321032": 43,
+      "gas:candidate-vibid:2042000322448": 41,
+      "gas:candidate-vibid:2042000322437": 119,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 500,
-      "Груздев Александр Анатольевич": 14,
-      "Демина Мария Фоминична": 123,
-      "Думнов Дмитрий Александрович": 6,
-      "Зверяко Ирина Владимировна": 5,
-      "Казитов Тимур Борисович": 77,
-      "Князев Урмат Алексеевич": 40,
-      "Ромашкин Виктор Васильевич": 138,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 500,
+      "gas:candidate-vibid:2042000321784": 14,
+      "gas:candidate-vibid:2042000322805": 123,
+      "gas:candidate-vibid:2042000323263": 6,
+      "gas:candidate-vibid:2042000323305": 5,
+      "gas:candidate-vibid:2042000321032": 77,
+      "gas:candidate-vibid:2042000322448": 40,
+      "gas:candidate-vibid:2042000322437": 138,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 223,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 27,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 42,
-      "Ромашкин Виктор Васильевич": 17,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 223,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 27,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 42,
+      "gas:candidate-vibid:2042000322437": 17,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 159,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 12,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 30,
-      "Ромашкин Виктор Васильевич": 18,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 159,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 12,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 30,
+      "gas:candidate-vibid:2042000322437": 18,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 186,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 52,
-      "Думнов Дмитрий Александрович": 5,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 14,
-      "Князев Урмат Алексеевич": 41,
-      "Ромашкин Виктор Васильевич": 17,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 186,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 52,
+      "gas:candidate-vibid:2042000323263": 5,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 14,
+      "gas:candidate-vibid:2042000322448": 41,
+      "gas:candidate-vibid:2042000322437": 17,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 95,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 17,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 95,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 17,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 90,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 15,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 26,
-      "Ромашкин Виктор Васильевич": 3,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 90,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 15,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 26,
+      "gas:candidate-vibid:2042000322437": 3,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 196,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 19,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 15,
-      "Князев Урмат Алексеевич": 33,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 196,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 19,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 15,
+      "gas:candidate-vibid:2042000322448": 33,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 44,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 40,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 15,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 44,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 40,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 15,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 12,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 12,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 36,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 13,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 36,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 13,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 70,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 33,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 29,
-      "Ромашкин Виктор Васильевич": 9,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 70,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 33,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 29,
+      "gas:candidate-vibid:2042000322437": 9,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 161,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 53,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 6,
-      "Князев Урмат Алексеевич": 10,
-      "Ромашкин Виктор Васильевич": 17,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 161,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 53,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 6,
+      "gas:candidate-vibid:2042000322448": 10,
+      "gas:candidate-vibid:2042000322437": 17,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 101,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 16,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 5,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 101,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 16,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 5,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 96,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 8,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 10,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 96,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 8,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 10,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 169,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 17,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 51,
-      "Князев Урмат Алексеевич": 48,
-      "Ромашкин Виктор Васильевич": 35,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 169,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 17,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 51,
+      "gas:candidate-vibid:2042000322448": 48,
+      "gas:candidate-vibid:2042000322437": 35,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 92,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 7,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 5,
-      "Князев Урмат Алексеевич": 19,
-      "Ромашкин Виктор Васильевич": 2,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 92,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 7,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 5,
+      "gas:candidate-vibid:2042000322448": 19,
+      "gas:candidate-vibid:2042000322437": 2,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314664&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314664&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 43,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 59,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 5,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 36,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 43,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 59,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 5,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 36,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 57,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 13,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 57,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 13,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 34,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 26,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 1,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 6,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 34,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 26,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 1,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 6,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 33,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 27,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 13,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 33,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 27,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 13,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 21,
-      "Груздев Александр Анатольевич": 0,
-      "Демина Мария Фоминична": 16,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 11,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 21,
+      "gas:candidate-vibid:2042000321784": 0,
+      "gas:candidate-vibid:2042000322805": 16,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 11,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 13,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 24,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 13,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 24,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 59,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 39,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 2,
-      "Казитов Тимур Борисович": 10,
-      "Князев Урмат Алексеевич": 3,
-      "Ромашкин Виктор Васильевич": 69,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 59,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 39,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 2,
+      "gas:candidate-vibid:2042000321032": 10,
+      "gas:candidate-vibid:2042000322448": 3,
+      "gas:candidate-vibid:2042000322437": 69,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 57,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 35,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 7,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 50,
-      "Червов Александр Юрьевич": 3
+      "gas:candidate-vibid:2042000322834": 57,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 35,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 7,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 50,
+      "gas:candidate-vibid:2042000323106": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 81,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 66,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 13,
-      "Князев Урмат Алексеевич": 7,
-      "Ромашкин Виктор Васильевич": 60,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 81,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 66,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 13,
+      "gas:candidate-vibid:2042000322448": 7,
+      "gas:candidate-vibid:2042000322437": 60,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 74,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 38,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 1,
-      "Казитов Тимур Борисович": 14,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 34,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 74,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 38,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 1,
+      "gas:candidate-vibid:2042000321032": 14,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 34,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 112,
-      "Груздев Александр Анатольевич": 9,
-      "Демина Мария Фоминична": 41,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 3,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 74,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 112,
+      "gas:candidate-vibid:2042000321784": 9,
+      "gas:candidate-vibid:2042000322805": 41,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 3,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 74,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 110,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 55,
-      "Думнов Дмитрий Александрович": 3,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 21,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 44,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 110,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 55,
+      "gas:candidate-vibid:2042000323263": 3,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 21,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 44,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 110,
-      "Груздев Александр Анатольевич": 7,
-      "Демина Мария Фоминична": 24,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 17,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 78,
-      "Червов Александр Юрьевич": 2
+      "gas:candidate-vibid:2042000322834": 110,
+      "gas:candidate-vibid:2042000321784": 7,
+      "gas:candidate-vibid:2042000322805": 24,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 17,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 78,
+      "gas:candidate-vibid:2042000323106": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 60,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 14,
-      "Думнов Дмитрий Александрович": 4,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 21,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 58,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 60,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 14,
+      "gas:candidate-vibid:2042000323263": 4,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 21,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 58,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 48,
-      "Груздев Александр Анатольевич": 4,
-      "Демина Мария Фоминична": 13,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 9,
-      "Князев Урмат Алексеевич": 4,
-      "Ромашкин Виктор Васильевич": 44,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 48,
+      "gas:candidate-vibid:2042000321784": 4,
+      "gas:candidate-vibid:2042000322805": 13,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 9,
+      "gas:candidate-vibid:2042000322448": 4,
+      "gas:candidate-vibid:2042000322437": 44,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 49,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 26,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 2,
-      "Ромашкин Виктор Васильевич": 26,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 49,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 26,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 2,
+      "gas:candidate-vibid:2042000322437": 26,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 80,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 21,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 3,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 54,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 80,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 21,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 3,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 54,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 83,
-      "Груздев Александр Анатольевич": 3,
-      "Демина Мария Фоминична": 23,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 12,
-      "Князев Урмат Алексеевич": 5,
-      "Ромашкин Виктор Васильевич": 44,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 83,
+      "gas:candidate-vibid:2042000321784": 3,
+      "gas:candidate-vibid:2042000322805": 23,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 12,
+      "gas:candidate-vibid:2042000322448": 5,
+      "gas:candidate-vibid:2042000322437": 44,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 35,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 20,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 2,
-      "Князев Урмат Алексеевич": 1,
-      "Ромашкин Виктор Васильевич": 10,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 35,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 20,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 2,
+      "gas:candidate-vibid:2042000322448": 1,
+      "gas:candidate-vibid:2042000322437": 10,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 23,
-      "Груздев Александр Анатольевич": 2,
-      "Демина Мария Фоминична": 9,
-      "Думнов Дмитрий Александрович": 0,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 0,
-      "Ромашкин Виктор Васильевич": 6,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 23,
+      "gas:candidate-vibid:2042000321784": 2,
+      "gas:candidate-vibid:2042000322805": 9,
+      "gas:candidate-vibid:2042000323263": 0,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 0,
+      "gas:candidate-vibid:2042000322437": 6,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 152,
-      "Груздев Александр Анатольевич": 1,
-      "Демина Мария Фоминична": 31,
-      "Думнов Дмитрий Александрович": 1,
-      "Зверяко Ирина Владимировна": 0,
-      "Казитов Тимур Борисович": 4,
-      "Князев Урмат Алексеевич": 6,
-      "Ромашкин Виктор Васильевич": 34,
-      "Червов Александр Юрьевич": 0
+      "gas:candidate-vibid:2042000322834": 152,
+      "gas:candidate-vibid:2042000321784": 1,
+      "gas:candidate-vibid:2042000322805": 31,
+      "gas:candidate-vibid:2042000323263": 1,
+      "gas:candidate-vibid:2042000323305": 0,
+      "gas:candidate-vibid:2042000321032": 4,
+      "gas:candidate-vibid:2042000322448": 6,
+      "gas:candidate-vibid:2042000322437": 34,
+      "gas:candidate-vibid:2042000323106": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_2_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Букачаков Родион Борисович": 129,
-      "Груздев Александр Анатольевич": 8,
-      "Демина Мария Фоминична": 21,
-      "Думнов Дмитрий Александрович": 2,
-      "Зверяко Ирина Владимировна": 6,
-      "Казитов Тимур Борисович": 25,
-      "Князев Урмат Алексеевич": 9,
-      "Ромашкин Виктор Васильевич": 45,
-      "Червов Александр Юрьевич": 1
+      "gas:candidate-vibid:2042000322834": 129,
+      "gas:candidate-vibid:2042000321784": 8,
+      "gas:candidate-vibid:2042000322805": 21,
+      "gas:candidate-vibid:2042000323263": 2,
+      "gas:candidate-vibid:2042000323305": 6,
+      "gas:candidate-vibid:2042000321032": 25,
+      "gas:candidate-vibid:2042000322448": 9,
+      "gas:candidate-vibid:2042000322437": 45,
+      "gas:candidate-vibid:2042000323106": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-rep?action=show&root=1000004&tvd=2042000314665&vrn=100100067795849&region=2&global=&sub_region=2&prver=0&pronetvd=null&vibid=2042000314665&type=464",

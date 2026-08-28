@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 257,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 43,
-      "Ермаков Иван Федосович": 20,
-      "Журавлев Илья Григорьевич": 60,
-      "Комоедов Владимир Петрович": 116,
-      "Николаев Олег Александрович": 262,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 257,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 43,
+      "gas:candidate-vibid:2942000119904": 20,
+      "gas:candidate-vibid:2942000112860": 60,
+      "gas:candidate-vibid:2942000119829": 116,
+      "gas:candidate-vibid:2942000120676": 262,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 141,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 18,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 60,
-      "Комоедов Владимир Петрович": 58,
-      "Николаев Олег Александрович": 139,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 141,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 18,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 60,
+      "gas:candidate-vibid:2942000119829": 58,
+      "gas:candidate-vibid:2942000120676": 139,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 510,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 56,
-      "Ермаков Иван Федосович": 25,
-      "Журавлев Илья Григорьевич": 108,
-      "Комоедов Владимир Петрович": 158,
-      "Николаев Олег Александрович": 302,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 510,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 56,
+      "gas:candidate-vibid:2942000119904": 25,
+      "gas:candidate-vibid:2942000112860": 108,
+      "gas:candidate-vibid:2942000119829": 158,
+      "gas:candidate-vibid:2942000120676": 302,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 313,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 45,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 118,
-      "Комоедов Владимир Петрович": 158,
-      "Николаев Олег Александрович": 237,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 313,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 45,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 118,
+      "gas:candidate-vibid:2942000119829": 158,
+      "gas:candidate-vibid:2942000120676": 237,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 345,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 65,
-      "Ермаков Иван Федосович": 15,
-      "Журавлев Илья Григорьевич": 120,
-      "Комоедов Владимир Петрович": 150,
-      "Николаев Олег Александрович": 303,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 345,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 65,
+      "gas:candidate-vibid:2942000119904": 15,
+      "gas:candidate-vibid:2942000112860": 120,
+      "gas:candidate-vibid:2942000119829": 150,
+      "gas:candidate-vibid:2942000120676": 303,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 293,
-      "Брежнев Андрей Юрьевич": 23,
-      "Брячак Михаил Васильевич": 57,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 100,
-      "Комоедов Владимир Петрович": 185,
-      "Николаев Олег Александрович": 225,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 293,
+      "gas:candidate-vibid:2942000120061": 23,
+      "gas:candidate-vibid:2942000119919": 57,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 100,
+      "gas:candidate-vibid:2942000119829": 185,
+      "gas:candidate-vibid:2942000120676": 225,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 181,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 35,
-      "Ермаков Иван Федосович": 6,
-      "Журавлев Илья Григорьевич": 53,
-      "Комоедов Владимир Петрович": 88,
-      "Николаев Олег Александрович": 155,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 181,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 35,
+      "gas:candidate-vibid:2942000119904": 6,
+      "gas:candidate-vibid:2942000112860": 53,
+      "gas:candidate-vibid:2942000119829": 88,
+      "gas:candidate-vibid:2942000120676": 155,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 289,
-      "Брежнев Андрей Юрьевич": 21,
-      "Брячак Михаил Васильевич": 71,
-      "Ермаков Иван Федосович": 28,
-      "Журавлев Илья Григорьевич": 92,
-      "Комоедов Владимир Петрович": 171,
-      "Николаев Олег Александрович": 234,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 289,
+      "gas:candidate-vibid:2942000120061": 21,
+      "gas:candidate-vibid:2942000119919": 71,
+      "gas:candidate-vibid:2942000119904": 28,
+      "gas:candidate-vibid:2942000112860": 92,
+      "gas:candidate-vibid:2942000119829": 171,
+      "gas:candidate-vibid:2942000120676": 234,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 182,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 19,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 53,
-      "Комоедов Владимир Петрович": 82,
-      "Николаев Олег Александрович": 167,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 182,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 19,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 53,
+      "gas:candidate-vibid:2942000119829": 82,
+      "gas:candidate-vibid:2942000120676": 167,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 492,
-      "Брежнев Андрей Юрьевич": 35,
-      "Брячак Михаил Васильевич": 53,
-      "Ермаков Иван Федосович": 29,
-      "Журавлев Илья Григорьевич": 151,
-      "Комоедов Владимир Петрович": 214,
-      "Николаев Олег Александрович": 285,
-      "Третьяков Михаил Владимирович": 32,
-      "Штыков Никита Гениевич": 22
+      "gas:candidate-vibid:2942000120628": 492,
+      "gas:candidate-vibid:2942000120061": 35,
+      "gas:candidate-vibid:2942000119919": 53,
+      "gas:candidate-vibid:2942000119904": 29,
+      "gas:candidate-vibid:2942000112860": 151,
+      "gas:candidate-vibid:2942000119829": 214,
+      "gas:candidate-vibid:2942000120676": 285,
+      "gas:candidate-vibid:2942000119984": 32,
+      "gas:candidate-vibid:2942000120052": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 424,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 34,
-      "Ермаков Иван Федосович": 25,
-      "Журавлев Илья Григорьевич": 151,
-      "Комоедов Владимир Петрович": 235,
-      "Николаев Олег Александрович": 239,
-      "Третьяков Михаил Владимирович": 23,
-      "Штыков Никита Гениевич": 24
+      "gas:candidate-vibid:2942000120628": 424,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 34,
+      "gas:candidate-vibid:2942000119904": 25,
+      "gas:candidate-vibid:2942000112860": 151,
+      "gas:candidate-vibid:2942000119829": 235,
+      "gas:candidate-vibid:2942000120676": 239,
+      "gas:candidate-vibid:2942000119984": 23,
+      "gas:candidate-vibid:2942000120052": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 208,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 25,
-      "Ермаков Иван Федосович": 7,
-      "Журавлев Илья Григорьевич": 65,
-      "Комоедов Владимир Петрович": 81,
-      "Николаев Олег Александрович": 110,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 208,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 25,
+      "gas:candidate-vibid:2942000119904": 7,
+      "gas:candidate-vibid:2942000112860": 65,
+      "gas:candidate-vibid:2942000119829": 81,
+      "gas:candidate-vibid:2942000120676": 110,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 181,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 35,
-      "Комоедов Владимир Петрович": 82,
-      "Николаев Олег Александрович": 116,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 181,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 35,
+      "gas:candidate-vibid:2942000119829": 82,
+      "gas:candidate-vibid:2942000120676": 116,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 164,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 18,
-      "Ермаков Иван Федосович": 7,
-      "Журавлев Илья Григорьевич": 50,
-      "Комоедов Владимир Петрович": 58,
-      "Николаев Олег Александрович": 104,
-      "Третьяков Михаил Владимирович": 2,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 164,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 18,
+      "gas:candidate-vibid:2942000119904": 7,
+      "gas:candidate-vibid:2942000112860": 50,
+      "gas:candidate-vibid:2942000119829": 58,
+      "gas:candidate-vibid:2942000120676": 104,
+      "gas:candidate-vibid:2942000119984": 2,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 342,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 68,
-      "Ермаков Иван Федосович": 26,
-      "Журавлев Илья Григорьевич": 109,
-      "Комоедов Владимир Петрович": 153,
-      "Николаев Олег Александрович": 233,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 342,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 68,
+      "gas:candidate-vibid:2942000119904": 26,
+      "gas:candidate-vibid:2942000112860": 109,
+      "gas:candidate-vibid:2942000119829": 153,
+      "gas:candidate-vibid:2942000120676": 233,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 366,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 46,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 64,
-      "Комоедов Владимир Петрович": 131,
-      "Николаев Олег Александрович": 147,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 366,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 46,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 64,
+      "gas:candidate-vibid:2942000119829": 131,
+      "gas:candidate-vibid:2942000120676": 147,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 408,
-      "Брежнев Андрей Юрьевич": 20,
-      "Брячак Михаил Васильевич": 49,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 84,
-      "Комоедов Владимир Петрович": 126,
-      "Николаев Олег Александрович": 202,
-      "Третьяков Михаил Владимирович": 24,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 408,
+      "gas:candidate-vibid:2942000120061": 20,
+      "gas:candidate-vibid:2942000119919": 49,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 84,
+      "gas:candidate-vibid:2942000119829": 126,
+      "gas:candidate-vibid:2942000120676": 202,
+      "gas:candidate-vibid:2942000119984": 24,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 370,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 62,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 106,
-      "Комоедов Владимир Петрович": 158,
-      "Николаев Олег Александрович": 269,
-      "Третьяков Михаил Владимирович": 27,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 370,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 62,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 106,
+      "gas:candidate-vibid:2942000119829": 158,
+      "gas:candidate-vibid:2942000120676": 269,
+      "gas:candidate-vibid:2942000119984": 27,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 358,
-      "Брежнев Андрей Юрьевич": 30,
-      "Брячак Михаил Васильевич": 84,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 116,
-      "Комоедов Владимир Петрович": 181,
-      "Николаев Олег Александрович": 229,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 358,
+      "gas:candidate-vibid:2942000120061": 30,
+      "gas:candidate-vibid:2942000119919": 84,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 116,
+      "gas:candidate-vibid:2942000119829": 181,
+      "gas:candidate-vibid:2942000120676": 229,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 188,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 25,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 34,
-      "Комоедов Владимир Петрович": 60,
-      "Николаев Олег Александрович": 99,
-      "Третьяков Михаил Владимирович": 4,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 188,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 25,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 34,
+      "gas:candidate-vibid:2942000119829": 60,
+      "gas:candidate-vibid:2942000120676": 99,
+      "gas:candidate-vibid:2942000119984": 4,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 404,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 38,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 122,
-      "Комоедов Владимир Петрович": 164,
-      "Николаев Олег Александрович": 245,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 404,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 38,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 122,
+      "gas:candidate-vibid:2942000119829": 164,
+      "gas:candidate-vibid:2942000120676": 245,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 390,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 41,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 102,
-      "Комоедов Владимир Петрович": 146,
-      "Николаев Олег Александрович": 251,
-      "Третьяков Михаил Владимирович": 22,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 390,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 41,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 102,
+      "gas:candidate-vibid:2942000119829": 146,
+      "gas:candidate-vibid:2942000120676": 251,
+      "gas:candidate-vibid:2942000119984": 22,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 251,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 50,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 88,
-      "Комоедов Владимир Петрович": 122,
-      "Николаев Олег Александрович": 183,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 251,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 50,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 88,
+      "gas:candidate-vibid:2942000119829": 122,
+      "gas:candidate-vibid:2942000120676": 183,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 238,
-      "Брежнев Андрей Юрьевич": 22,
-      "Брячак Михаил Васильевич": 33,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 70,
-      "Комоедов Владимир Петрович": 129,
-      "Николаев Олег Александрович": 226,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 238,
+      "gas:candidate-vibid:2942000120061": 22,
+      "gas:candidate-vibid:2942000119919": 33,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 70,
+      "gas:candidate-vibid:2942000119829": 129,
+      "gas:candidate-vibid:2942000120676": 226,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 162,
-      "Брежнев Андрей Юрьевич": 6,
-      "Брячак Михаил Васильевич": 15,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 43,
-      "Комоедов Владимир Петрович": 42,
-      "Николаев Олег Александрович": 83,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 162,
+      "gas:candidate-vibid:2942000120061": 6,
+      "gas:candidate-vibid:2942000119919": 15,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 43,
+      "gas:candidate-vibid:2942000119829": 42,
+      "gas:candidate-vibid:2942000120676": 83,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 198,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 80,
-      "Комоедов Владимир Петрович": 95,
-      "Николаев Олег Александрович": 75,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 198,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 80,
+      "gas:candidate-vibid:2942000119829": 95,
+      "gas:candidate-vibid:2942000120676": 75,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 218,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 17,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 66,
-      "Комоедов Владимир Петрович": 89,
-      "Николаев Олег Александрович": 159,
-      "Третьяков Михаил Владимирович": 17,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 218,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 17,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 66,
+      "gas:candidate-vibid:2942000119829": 89,
+      "gas:candidate-vibid:2942000120676": 159,
+      "gas:candidate-vibid:2942000119984": 17,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 428,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 43,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 114,
-      "Комоедов Владимир Петрович": 203,
-      "Николаев Олег Александрович": 231,
-      "Третьяков Михаил Владимирович": 22,
-      "Штыков Никита Гениевич": 19
+      "gas:candidate-vibid:2942000120628": 428,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 43,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 114,
+      "gas:candidate-vibid:2942000119829": 203,
+      "gas:candidate-vibid:2942000120676": 231,
+      "gas:candidate-vibid:2942000119984": 22,
+      "gas:candidate-vibid:2942000120052": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 358,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 34,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 75,
-      "Комоедов Владимир Петрович": 161,
-      "Николаев Олег Александрович": 190,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 358,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 34,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 75,
+      "gas:candidate-vibid:2942000119829": 161,
+      "gas:candidate-vibid:2942000120676": 190,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 278,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 32,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 90,
-      "Комоедов Владимир Петрович": 130,
-      "Николаев Олег Александрович": 179,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 278,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 32,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 90,
+      "gas:candidate-vibid:2942000119829": 130,
+      "gas:candidate-vibid:2942000120676": 179,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 354,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 82,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 89,
-      "Комоедов Владимир Петрович": 132,
-      "Николаев Олег Александрович": 184,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 354,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 82,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 89,
+      "gas:candidate-vibid:2942000119829": 132,
+      "gas:candidate-vibid:2942000120676": 184,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 450,
-      "Брежнев Андрей Юрьевич": 20,
-      "Брячак Михаил Васильевич": 51,
-      "Ермаков Иван Федосович": 37,
-      "Журавлев Илья Григорьевич": 160,
-      "Комоедов Владимир Петрович": 254,
-      "Николаев Олег Александрович": 257,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 18
+      "gas:candidate-vibid:2942000120628": 450,
+      "gas:candidate-vibid:2942000120061": 20,
+      "gas:candidate-vibid:2942000119919": 51,
+      "gas:candidate-vibid:2942000119904": 37,
+      "gas:candidate-vibid:2942000112860": 160,
+      "gas:candidate-vibid:2942000119829": 254,
+      "gas:candidate-vibid:2942000120676": 257,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 283,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 44,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 93,
-      "Комоедов Владимир Петрович": 131,
-      "Николаев Олег Александрович": 188,
-      "Третьяков Михаил Владимирович": 23,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 283,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 44,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 93,
+      "gas:candidate-vibid:2942000119829": 131,
+      "gas:candidate-vibid:2942000120676": 188,
+      "gas:candidate-vibid:2942000119984": 23,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 287,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 30,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 74,
-      "Комоедов Владимир Петрович": 154,
-      "Николаев Олег Александрович": 196,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 287,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 30,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 74,
+      "gas:candidate-vibid:2942000119829": 154,
+      "gas:candidate-vibid:2942000120676": 196,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 322,
-      "Брежнев Андрей Юрьевич": 7,
-      "Брячак Михаил Васильевич": 27,
-      "Ермаков Иван Федосович": 10,
-      "Журавлев Илья Григорьевич": 65,
-      "Комоедов Владимир Петрович": 91,
-      "Николаев Олег Александрович": 166,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 322,
+      "gas:candidate-vibid:2942000120061": 7,
+      "gas:candidate-vibid:2942000119919": 27,
+      "gas:candidate-vibid:2942000119904": 10,
+      "gas:candidate-vibid:2942000112860": 65,
+      "gas:candidate-vibid:2942000119829": 91,
+      "gas:candidate-vibid:2942000120676": 166,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 704,
-      "Брежнев Андрей Юрьевич": 34,
-      "Брячак Михаил Васильевич": 55,
-      "Ермаков Иван Федосович": 26,
-      "Журавлев Илья Григорьевич": 168,
-      "Комоедов Владимир Петрович": 179,
-      "Николаев Олег Александрович": 202,
-      "Третьяков Михаил Владимирович": 47,
-      "Штыков Никита Гениевич": 31
+      "gas:candidate-vibid:2942000120628": 704,
+      "gas:candidate-vibid:2942000120061": 34,
+      "gas:candidate-vibid:2942000119919": 55,
+      "gas:candidate-vibid:2942000119904": 26,
+      "gas:candidate-vibid:2942000112860": 168,
+      "gas:candidate-vibid:2942000119829": 179,
+      "gas:candidate-vibid:2942000120676": 202,
+      "gas:candidate-vibid:2942000119984": 47,
+      "gas:candidate-vibid:2942000120052": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 99,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 40,
-      "Ермаков Иван Федосович": 3,
-      "Журавлев Илья Григорьевич": 16,
-      "Комоедов Владимир Петрович": 12,
-      "Николаев Олег Александрович": 44,
-      "Третьяков Михаил Владимирович": 2,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 99,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 40,
+      "gas:candidate-vibid:2942000119904": 3,
+      "gas:candidate-vibid:2942000112860": 16,
+      "gas:candidate-vibid:2942000119829": 12,
+      "gas:candidate-vibid:2942000120676": 44,
+      "gas:candidate-vibid:2942000119984": 2,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 341,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 54,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 58,
-      "Комоедов Владимир Петрович": 134,
-      "Николаев Олег Александрович": 162,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 341,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 54,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 58,
+      "gas:candidate-vibid:2942000119829": 134,
+      "gas:candidate-vibid:2942000120676": 162,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 143,
-      "Брежнев Андрей Юрьевич": 4,
-      "Брячак Михаил Васильевич": 11,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 15,
-      "Комоедов Владимир Петрович": 30,
-      "Николаев Олег Александрович": 67,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 143,
+      "gas:candidate-vibid:2942000120061": 4,
+      "gas:candidate-vibid:2942000119919": 11,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 15,
+      "gas:candidate-vibid:2942000119829": 30,
+      "gas:candidate-vibid:2942000120676": 67,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 127,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 58,
-      "Ермаков Иван Федосович": 3,
-      "Журавлев Илья Григорьевич": 11,
-      "Комоедов Владимир Петрович": 25,
-      "Николаев Олег Александрович": 11,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 127,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 58,
+      "gas:candidate-vibid:2942000119904": 3,
+      "gas:candidate-vibid:2942000112860": 11,
+      "gas:candidate-vibid:2942000119829": 25,
+      "gas:candidate-vibid:2942000120676": 11,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 339,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 63,
-      "Ермаков Иван Федосович": 15,
-      "Журавлев Илья Григорьевич": 57,
-      "Комоедов Владимир Петрович": 79,
-      "Николаев Олег Александрович": 116,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 339,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 63,
+      "gas:candidate-vibid:2942000119904": 15,
+      "gas:candidate-vibid:2942000112860": 57,
+      "gas:candidate-vibid:2942000119829": 79,
+      "gas:candidate-vibid:2942000120676": 116,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 215,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 63,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 43,
-      "Комоедов Владимир Петрович": 61,
-      "Николаев Олег Александрович": 107,
-      "Третьяков Михаил Владимирович": 4,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 215,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 63,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 43,
+      "gas:candidate-vibid:2942000119829": 61,
+      "gas:candidate-vibid:2942000120676": 107,
+      "gas:candidate-vibid:2942000119984": 4,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 504,
-      "Брежнев Андрей Юрьевич": 25,
-      "Брячак Михаил Васильевич": 47,
-      "Ермаков Иван Федосович": 27,
-      "Журавлев Илья Григорьевич": 122,
-      "Комоедов Владимир Петрович": 320,
-      "Николаев Олег Александрович": 337,
-      "Третьяков Михаил Владимирович": 27,
-      "Штыков Никита Гениевич": 18
+      "gas:candidate-vibid:2942000120628": 504,
+      "gas:candidate-vibid:2942000120061": 25,
+      "gas:candidate-vibid:2942000119919": 47,
+      "gas:candidate-vibid:2942000119904": 27,
+      "gas:candidate-vibid:2942000112860": 122,
+      "gas:candidate-vibid:2942000119829": 320,
+      "gas:candidate-vibid:2942000120676": 337,
+      "gas:candidate-vibid:2942000119984": 27,
+      "gas:candidate-vibid:2942000120052": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 387,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 28,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 50,
-      "Комоедов Владимир Петрович": 142,
-      "Николаев Олег Александрович": 170,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 387,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 28,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 50,
+      "gas:candidate-vibid:2942000119829": 142,
+      "gas:candidate-vibid:2942000120676": 170,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 311,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 52,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 48,
-      "Комоедов Владимир Петрович": 73,
-      "Николаев Олег Александрович": 131,
-      "Третьяков Михаил Владимирович": 24,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 311,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 52,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 48,
+      "gas:candidate-vibid:2942000119829": 73,
+      "gas:candidate-vibid:2942000120676": 131,
+      "gas:candidate-vibid:2942000119984": 24,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 292,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 63,
-      "Ермаков Иван Федосович": 22,
-      "Журавлев Илья Григорьевич": 48,
-      "Комоедов Владимир Петрович": 85,
-      "Николаев Олег Александрович": 118,
-      "Третьяков Михаил Владимирович": 24,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 292,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 63,
+      "gas:candidate-vibid:2942000119904": 22,
+      "gas:candidate-vibid:2942000112860": 48,
+      "gas:candidate-vibid:2942000119829": 85,
+      "gas:candidate-vibid:2942000120676": 118,
+      "gas:candidate-vibid:2942000119984": 24,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 15,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 3,
-      "Ермаков Иван Федосович": 2,
-      "Журавлев Илья Григорьевич": 3,
-      "Комоедов Владимир Петрович": 6,
-      "Николаев Олег Александрович": 7,
-      "Третьяков Михаил Владимирович": 0,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 15,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 3,
+      "gas:candidate-vibid:2942000119904": 2,
+      "gas:candidate-vibid:2942000112860": 3,
+      "gas:candidate-vibid:2942000119829": 6,
+      "gas:candidate-vibid:2942000120676": 7,
+      "gas:candidate-vibid:2942000119984": 0,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 11,
-      "Брежнев Андрей Юрьевич": 1,
-      "Брячак Михаил Васильевич": 1,
-      "Ермаков Иван Федосович": 2,
-      "Журавлев Илья Григорьевич": 2,
-      "Комоедов Владимир Петрович": 1,
-      "Николаев Олег Александрович": 3,
-      "Третьяков Михаил Владимирович": 1,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 11,
+      "gas:candidate-vibid:2942000120061": 1,
+      "gas:candidate-vibid:2942000119919": 1,
+      "gas:candidate-vibid:2942000119904": 2,
+      "gas:candidate-vibid:2942000112860": 2,
+      "gas:candidate-vibid:2942000119829": 1,
+      "gas:candidate-vibid:2942000120676": 3,
+      "gas:candidate-vibid:2942000119984": 1,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 203,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 18,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 64,
-      "Комоедов Владимир Петрович": 76,
-      "Николаев Олег Александрович": 65,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 203,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 18,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 64,
+      "gas:candidate-vibid:2942000119829": 76,
+      "gas:candidate-vibid:2942000120676": 65,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 16,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 1,
-      "Ермаков Иван Федосович": 1,
-      "Журавлев Илья Григорьевич": 26,
-      "Комоедов Владимир Петрович": 13,
-      "Николаев Олег Александрович": 11,
-      "Третьяков Михаил Владимирович": 1,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 16,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 1,
+      "gas:candidate-vibid:2942000119904": 1,
+      "gas:candidate-vibid:2942000112860": 26,
+      "gas:candidate-vibid:2942000119829": 13,
+      "gas:candidate-vibid:2942000120676": 11,
+      "gas:candidate-vibid:2942000119984": 1,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105290&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105290&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 167,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 8,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 50,
-      "Комоедов Владимир Петрович": 77,
-      "Николаев Олег Александрович": 99,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 167,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 8,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 50,
+      "gas:candidate-vibid:2942000119829": 77,
+      "gas:candidate-vibid:2942000120676": 99,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 151,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 19,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 57,
-      "Комоедов Владимир Петрович": 98,
-      "Николаев Олег Александрович": 143,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 151,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 19,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 57,
+      "gas:candidate-vibid:2942000119829": 98,
+      "gas:candidate-vibid:2942000120676": 143,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 219,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 13,
-      "Ермаков Иван Федосович": 3,
-      "Журавлев Илья Григорьевич": 46,
-      "Комоедов Владимир Петрович": 84,
-      "Николаев Олег Александрович": 92,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 219,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 13,
+      "gas:candidate-vibid:2942000119904": 3,
+      "gas:candidate-vibid:2942000112860": 46,
+      "gas:candidate-vibid:2942000119829": 84,
+      "gas:candidate-vibid:2942000120676": 92,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 147,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 19,
-      "Ермаков Иван Федосович": 10,
-      "Журавлев Илья Григорьевич": 55,
-      "Комоедов Владимир Петрович": 96,
-      "Николаев Олег Александрович": 111,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 147,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 19,
+      "gas:candidate-vibid:2942000119904": 10,
+      "gas:candidate-vibid:2942000112860": 55,
+      "gas:candidate-vibid:2942000119829": 96,
+      "gas:candidate-vibid:2942000120676": 111,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 145,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 39,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 67,
-      "Комоедов Владимир Петрович": 100,
-      "Николаев Олег Александрович": 132,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 145,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 39,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 67,
+      "gas:candidate-vibid:2942000119829": 100,
+      "gas:candidate-vibid:2942000120676": 132,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 76,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 7,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 32,
-      "Комоедов Владимир Петрович": 103,
-      "Николаев Олег Александрович": 102,
-      "Третьяков Михаил Владимирович": 9,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 76,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 7,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 32,
+      "gas:candidate-vibid:2942000119829": 103,
+      "gas:candidate-vibid:2942000120676": 102,
+      "gas:candidate-vibid:2942000119984": 9,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 175,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 14,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 61,
-      "Комоедов Владимир Петрович": 145,
-      "Николаев Олег Александрович": 181,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 175,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 14,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 61,
+      "gas:candidate-vibid:2942000119829": 145,
+      "gas:candidate-vibid:2942000120676": 181,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 98,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 7,
-      "Ермаков Иван Федосович": 7,
-      "Журавлев Илья Григорьевич": 29,
-      "Комоедов Владимир Петрович": 103,
-      "Николаев Олег Александрович": 116,
-      "Третьяков Михаил Владимирович": 2,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 98,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 7,
+      "gas:candidate-vibid:2942000119904": 7,
+      "gas:candidate-vibid:2942000112860": 29,
+      "gas:candidate-vibid:2942000119829": 103,
+      "gas:candidate-vibid:2942000120676": 116,
+      "gas:candidate-vibid:2942000119984": 2,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 123,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 14,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 31,
-      "Комоедов Владимир Петрович": 104,
-      "Николаев Олег Александрович": 124,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 123,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 14,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 31,
+      "gas:candidate-vibid:2942000119829": 104,
+      "gas:candidate-vibid:2942000120676": 124,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 94,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 19,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 24,
-      "Комоедов Владимир Петрович": 76,
-      "Николаев Олег Александрович": 103,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 94,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 19,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 24,
+      "gas:candidate-vibid:2942000119829": 76,
+      "gas:candidate-vibid:2942000120676": 103,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 468,
-      "Брежнев Андрей Юрьевич": 23,
-      "Брячак Михаил Васильевич": 69,
-      "Ермаков Иван Федосович": 29,
-      "Журавлев Илья Григорьевич": 134,
-      "Комоедов Владимир Петрович": 348,
-      "Николаев Олег Александрович": 355,
-      "Третьяков Михаил Владимирович": 40,
-      "Штыков Никита Гениевич": 29
+      "gas:candidate-vibid:2942000120628": 468,
+      "gas:candidate-vibid:2942000120061": 23,
+      "gas:candidate-vibid:2942000119919": 69,
+      "gas:candidate-vibid:2942000119904": 29,
+      "gas:candidate-vibid:2942000112860": 134,
+      "gas:candidate-vibid:2942000119829": 348,
+      "gas:candidate-vibid:2942000120676": 355,
+      "gas:candidate-vibid:2942000119984": 40,
+      "gas:candidate-vibid:2942000120052": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 253,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 16,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 93,
-      "Комоедов Владимир Петрович": 122,
-      "Николаев Олег Александрович": 189,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 253,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 16,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 93,
+      "gas:candidate-vibid:2942000119829": 122,
+      "gas:candidate-vibid:2942000120676": 189,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 172,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 12,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 42,
-      "Комоедов Владимир Петрович": 109,
-      "Николаев Олег Александрович": 127,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 172,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 12,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 42,
+      "gas:candidate-vibid:2942000119829": 109,
+      "gas:candidate-vibid:2942000120676": 127,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 114,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 15,
-      "Ермаков Иван Федосович": 6,
-      "Журавлев Илья Григорьевич": 50,
-      "Комоедов Владимир Петрович": 73,
-      "Николаев Олег Александрович": 70,
-      "Третьяков Михаил Владимирович": 9,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 114,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 15,
+      "gas:candidate-vibid:2942000119904": 6,
+      "gas:candidate-vibid:2942000112860": 50,
+      "gas:candidate-vibid:2942000119829": 73,
+      "gas:candidate-vibid:2942000120676": 70,
+      "gas:candidate-vibid:2942000119984": 9,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 76,
-      "Брежнев Андрей Юрьевич": 3,
-      "Брячак Михаил Васильевич": 9,
-      "Ермаков Иван Федосович": 1,
-      "Журавлев Илья Григорьевич": 29,
-      "Комоедов Владимир Петрович": 75,
-      "Николаев Олег Александрович": 56,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 76,
+      "gas:candidate-vibid:2942000120061": 3,
+      "gas:candidate-vibid:2942000119919": 9,
+      "gas:candidate-vibid:2942000119904": 1,
+      "gas:candidate-vibid:2942000112860": 29,
+      "gas:candidate-vibid:2942000119829": 75,
+      "gas:candidate-vibid:2942000120676": 56,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 137,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 28,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 61,
-      "Комоедов Владимир Петрович": 105,
-      "Николаев Олег Александрович": 104,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 137,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 28,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 61,
+      "gas:candidate-vibid:2942000119829": 105,
+      "gas:candidate-vibid:2942000120676": 104,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 203,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 37,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 73,
-      "Комоедов Владимир Петрович": 119,
-      "Николаев Олег Александрович": 175,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 203,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 37,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 73,
+      "gas:candidate-vibid:2942000119829": 119,
+      "gas:candidate-vibid:2942000120676": 175,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 291,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 57,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 110,
-      "Комоедов Владимир Петрович": 148,
-      "Николаев Олег Александрович": 264,
-      "Третьяков Михаил Владимирович": 24,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 291,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 57,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 110,
+      "gas:candidate-vibid:2942000119829": 148,
+      "gas:candidate-vibid:2942000120676": 264,
+      "gas:candidate-vibid:2942000119984": 24,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 317,
-      "Брежнев Андрей Юрьевич": 22,
-      "Брячак Михаил Васильевич": 46,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 91,
-      "Комоедов Владимир Петрович": 130,
-      "Николаев Олег Александрович": 268,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 317,
+      "gas:candidate-vibid:2942000120061": 22,
+      "gas:candidate-vibid:2942000119919": 46,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 91,
+      "gas:candidate-vibid:2942000119829": 130,
+      "gas:candidate-vibid:2942000120676": 268,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 127,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 15,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 43,
-      "Комоедов Владимир Петрович": 42,
-      "Николаев Олег Александрович": 128,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 127,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 15,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 43,
+      "gas:candidate-vibid:2942000119829": 42,
+      "gas:candidate-vibid:2942000120676": 128,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 167,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 14,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 50,
-      "Комоедов Владимир Петрович": 83,
-      "Николаев Олег Александрович": 101,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 167,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 14,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 50,
+      "gas:candidate-vibid:2942000119829": 83,
+      "gas:candidate-vibid:2942000120676": 101,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 260,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 35,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 93,
-      "Комоедов Владимир Петрович": 127,
-      "Николаев Олег Александрович": 165,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 260,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 35,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 93,
+      "gas:candidate-vibid:2942000119829": 127,
+      "gas:candidate-vibid:2942000120676": 165,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 188,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 42,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 58,
-      "Комоедов Владимир Петрович": 108,
-      "Николаев Олег Александрович": 177,
-      "Третьяков Михаил Владимирович": 9,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 188,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 42,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 58,
+      "gas:candidate-vibid:2942000119829": 108,
+      "gas:candidate-vibid:2942000120676": 177,
+      "gas:candidate-vibid:2942000119984": 9,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 317,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 53,
-      "Ермаков Иван Федосович": 10,
-      "Журавлев Илья Григорьевич": 76,
-      "Комоедов Владимир Петрович": 121,
-      "Николаев Олег Александрович": 233,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 317,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 53,
+      "gas:candidate-vibid:2942000119904": 10,
+      "gas:candidate-vibid:2942000112860": 76,
+      "gas:candidate-vibid:2942000119829": 121,
+      "gas:candidate-vibid:2942000120676": 233,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 201,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 52,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 60,
-      "Комоедов Владимир Петрович": 158,
-      "Николаев Олег Александрович": 159,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 201,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 52,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 60,
+      "gas:candidate-vibid:2942000119829": 158,
+      "gas:candidate-vibid:2942000120676": 159,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 223,
-      "Брежнев Андрей Юрьевич": 19,
-      "Брячак Михаил Васильевич": 32,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 93,
-      "Комоедов Владимир Петрович": 99,
-      "Николаев Олег Александрович": 131,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 223,
+      "gas:candidate-vibid:2942000120061": 19,
+      "gas:candidate-vibid:2942000119919": 32,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 93,
+      "gas:candidate-vibid:2942000119829": 99,
+      "gas:candidate-vibid:2942000120676": 131,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 215,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 39,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 71,
-      "Комоедов Владимир Петрович": 113,
-      "Николаев Олег Александрович": 149,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 215,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 39,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 71,
+      "gas:candidate-vibid:2942000119829": 113,
+      "gas:candidate-vibid:2942000120676": 149,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 241,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 81,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 117,
-      "Комоедов Владимир Петрович": 193,
-      "Николаев Олег Александрович": 237,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 241,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 81,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 117,
+      "gas:candidate-vibid:2942000119829": 193,
+      "gas:candidate-vibid:2942000120676": 237,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 420,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 56,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 98,
-      "Комоедов Владимир Петрович": 237,
-      "Николаев Олег Александрович": 232,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 19
+      "gas:candidate-vibid:2942000120628": 420,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 56,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 98,
+      "gas:candidate-vibid:2942000119829": 237,
+      "gas:candidate-vibid:2942000120676": 232,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 362,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 49,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 113,
-      "Комоедов Владимир Петрович": 256,
-      "Николаев Олег Александрович": 263,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 362,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 49,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 113,
+      "gas:candidate-vibid:2942000119829": 256,
+      "gas:candidate-vibid:2942000120676": 263,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 317,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 47,
-      "Ермаков Иван Федосович": 22,
-      "Журавлев Илья Григорьевич": 106,
-      "Комоедов Владимир Петрович": 190,
-      "Николаев Олег Александрович": 202,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 317,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 47,
+      "gas:candidate-vibid:2942000119904": 22,
+      "gas:candidate-vibid:2942000112860": 106,
+      "gas:candidate-vibid:2942000119829": 190,
+      "gas:candidate-vibid:2942000120676": 202,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 235,
-      "Брежнев Андрей Юрьевич": 35,
-      "Брячак Михаил Васильевич": 24,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 84,
-      "Комоедов Владимир Петрович": 210,
-      "Николаев Олег Александрович": 196,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 235,
+      "gas:candidate-vibid:2942000120061": 35,
+      "gas:candidate-vibid:2942000119919": 24,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 84,
+      "gas:candidate-vibid:2942000119829": 210,
+      "gas:candidate-vibid:2942000120676": 196,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 207,
-      "Брежнев Андрей Юрьевич": 25,
-      "Брячак Михаил Васильевич": 27,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 79,
-      "Комоедов Владимир Петрович": 149,
-      "Николаев Олег Александрович": 180,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 207,
+      "gas:candidate-vibid:2942000120061": 25,
+      "gas:candidate-vibid:2942000119919": 27,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 79,
+      "gas:candidate-vibid:2942000119829": 149,
+      "gas:candidate-vibid:2942000120676": 180,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 236,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 70,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 78,
-      "Комоедов Владимир Петрович": 159,
-      "Николаев Олег Александрович": 190,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 236,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 70,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 78,
+      "gas:candidate-vibid:2942000119829": 159,
+      "gas:candidate-vibid:2942000120676": 190,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 239,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 44,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 81,
-      "Комоедов Владимир Петрович": 156,
-      "Николаев Олег Александрович": 228,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 239,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 44,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 81,
+      "gas:candidate-vibid:2942000119829": 156,
+      "gas:candidate-vibid:2942000120676": 228,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 60,
-      "Брежнев Андрей Юрьевич": 7,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 3,
-      "Журавлев Илья Григорьевич": 26,
-      "Комоедов Владимир Петрович": 40,
-      "Николаев Олег Александрович": 67,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 60,
+      "gas:candidate-vibid:2942000120061": 7,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 3,
+      "gas:candidate-vibid:2942000112860": 26,
+      "gas:candidate-vibid:2942000119829": 40,
+      "gas:candidate-vibid:2942000120676": 67,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 234,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 37,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 65,
-      "Комоедов Владимир Петрович": 109,
-      "Николаев Олег Александрович": 136,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 234,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 37,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 65,
+      "gas:candidate-vibid:2942000119829": 109,
+      "gas:candidate-vibid:2942000120676": 136,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 304,
-      "Брежнев Андрей Юрьевич": 22,
-      "Брячак Михаил Васильевич": 33,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 118,
-      "Комоедов Владимир Петрович": 157,
-      "Николаев Олег Александрович": 232,
-      "Третьяков Михаил Владимирович": 24,
-      "Штыков Никита Гениевич": 19
+      "gas:candidate-vibid:2942000120628": 304,
+      "gas:candidate-vibid:2942000120061": 22,
+      "gas:candidate-vibid:2942000119919": 33,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 118,
+      "gas:candidate-vibid:2942000119829": 157,
+      "gas:candidate-vibid:2942000120676": 232,
+      "gas:candidate-vibid:2942000119984": 24,
+      "gas:candidate-vibid:2942000120052": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 108,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 4,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 38,
-      "Комоедов Владимир Петрович": 41,
-      "Николаев Олег Александрович": 71,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 108,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 4,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 38,
+      "gas:candidate-vibid:2942000119829": 41,
+      "gas:candidate-vibid:2942000120676": 71,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 192,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 25,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 70,
-      "Комоедов Владимир Петрович": 98,
-      "Николаев Олег Александрович": 162,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 192,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 25,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 70,
+      "gas:candidate-vibid:2942000119829": 98,
+      "gas:candidate-vibid:2942000120676": 162,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 246,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 24,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 89,
-      "Комоедов Владимир Петрович": 135,
-      "Николаев Олег Александрович": 240,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 246,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 24,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 89,
+      "gas:candidate-vibid:2942000119829": 135,
+      "gas:candidate-vibid:2942000120676": 240,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 275,
-      "Брежнев Андрей Юрьевич": 26,
-      "Брячак Михаил Васильевич": 21,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 100,
-      "Комоедов Владимир Петрович": 188,
-      "Николаев Олег Александрович": 253,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 275,
+      "gas:candidate-vibid:2942000120061": 26,
+      "gas:candidate-vibid:2942000119919": 21,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 100,
+      "gas:candidate-vibid:2942000119829": 188,
+      "gas:candidate-vibid:2942000120676": 253,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 124,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 29,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 42,
-      "Комоедов Владимир Петрович": 95,
-      "Николаев Олег Александрович": 119,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 124,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 29,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 42,
+      "gas:candidate-vibid:2942000119829": 95,
+      "gas:candidate-vibid:2942000120676": 119,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 289,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 47,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 124,
-      "Комоедов Владимир Петрович": 140,
-      "Николаев Олег Александрович": 282,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 289,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 47,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 124,
+      "gas:candidate-vibid:2942000119829": 140,
+      "gas:candidate-vibid:2942000120676": 282,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 249,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 38,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 87,
-      "Комоедов Владимир Петрович": 107,
-      "Николаев Олег Александрович": 208,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 249,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 38,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 87,
+      "gas:candidate-vibid:2942000119829": 107,
+      "gas:candidate-vibid:2942000120676": 208,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 275,
-      "Брежнев Андрей Юрьевич": 21,
-      "Брячак Михаил Васильевич": 67,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 121,
-      "Комоедов Владимир Петрович": 137,
-      "Николаев Олег Александрович": 305,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 275,
+      "gas:candidate-vibid:2942000120061": 21,
+      "gas:candidate-vibid:2942000119919": 67,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 121,
+      "gas:candidate-vibid:2942000119829": 137,
+      "gas:candidate-vibid:2942000120676": 305,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 266,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 31,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 86,
-      "Комоедов Владимир Петрович": 134,
-      "Николаев Олег Александрович": 211,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 266,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 31,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 86,
+      "gas:candidate-vibid:2942000119829": 134,
+      "gas:candidate-vibid:2942000120676": 211,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 182,
-      "Брежнев Андрей Юрьевич": 10,
-      "Брячак Михаил Васильевич": 34,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 80,
-      "Комоедов Владимир Петрович": 89,
-      "Николаев Олег Александрович": 241,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 182,
+      "gas:candidate-vibid:2942000120061": 10,
+      "gas:candidate-vibid:2942000119919": 34,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 80,
+      "gas:candidate-vibid:2942000119829": 89,
+      "gas:candidate-vibid:2942000120676": 241,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 306,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 35,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 127,
-      "Комоедов Владимир Петрович": 236,
-      "Николаев Олег Александрович": 289,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 20
+      "gas:candidate-vibid:2942000120628": 306,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 35,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 127,
+      "gas:candidate-vibid:2942000119829": 236,
+      "gas:candidate-vibid:2942000120676": 289,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 191,
-      "Брежнев Андрей Юрьевич": 7,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 6,
-      "Журавлев Илья Григорьевич": 80,
-      "Комоедов Владимир Петрович": 198,
-      "Николаев Олег Александрович": 167,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 191,
+      "gas:candidate-vibid:2942000120061": 7,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 6,
+      "gas:candidate-vibid:2942000112860": 80,
+      "gas:candidate-vibid:2942000119829": 198,
+      "gas:candidate-vibid:2942000120676": 167,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 313,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 46,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 122,
-      "Комоедов Владимир Петрович": 241,
-      "Николаев Олег Александрович": 285,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 18
+      "gas:candidate-vibid:2942000120628": 313,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 46,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 122,
+      "gas:candidate-vibid:2942000119829": 241,
+      "gas:candidate-vibid:2942000120676": 285,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 300,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 36,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 114,
-      "Комоедов Владимир Петрович": 238,
-      "Николаев Олег Александрович": 257,
-      "Третьяков Михаил Владимирович": 17,
-      "Штыков Никита Гениевич": 21
+      "gas:candidate-vibid:2942000120628": 300,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 36,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 114,
+      "gas:candidate-vibid:2942000119829": 238,
+      "gas:candidate-vibid:2942000120676": 257,
+      "gas:candidate-vibid:2942000119984": 17,
+      "gas:candidate-vibid:2942000120052": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 59,
-      "Брежнев Андрей Юрьевич": 3,
-      "Брячак Михаил Васильевич": 9,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 26,
-      "Комоедов Владимир Петрович": 30,
-      "Николаев Олег Александрович": 46,
-      "Третьяков Михаил Владимирович": 1,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 59,
+      "gas:candidate-vibid:2942000120061": 3,
+      "gas:candidate-vibid:2942000119919": 9,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 26,
+      "gas:candidate-vibid:2942000119829": 30,
+      "gas:candidate-vibid:2942000120676": 46,
+      "gas:candidate-vibid:2942000119984": 1,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 327,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 48,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 113,
-      "Комоедов Владимир Петрович": 260,
-      "Николаев Олег Александрович": 263,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 327,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 48,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 113,
+      "gas:candidate-vibid:2942000119829": 260,
+      "gas:candidate-vibid:2942000120676": 263,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 56,
-      "Брежнев Андрей Юрьевич": 2,
-      "Брячак Михаил Васильевич": 10,
-      "Ермаков Иван Федосович": 2,
-      "Журавлев Илья Григорьевич": 14,
-      "Комоедов Владимир Петрович": 27,
-      "Николаев Олег Александрович": 22,
-      "Третьяков Михаил Владимирович": 3,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 56,
+      "gas:candidate-vibid:2942000120061": 2,
+      "gas:candidate-vibid:2942000119919": 10,
+      "gas:candidate-vibid:2942000119904": 2,
+      "gas:candidate-vibid:2942000112860": 14,
+      "gas:candidate-vibid:2942000119829": 27,
+      "gas:candidate-vibid:2942000120676": 22,
+      "gas:candidate-vibid:2942000119984": 3,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 10,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 2,
-      "Ермаков Иван Федосович": 1,
-      "Журавлев Илья Григорьевич": 2,
-      "Комоедов Владимир Петрович": 1,
-      "Николаев Олег Александрович": 6,
-      "Третьяков Михаил Владимирович": 1,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 10,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 2,
+      "gas:candidate-vibid:2942000119904": 1,
+      "gas:candidate-vibid:2942000112860": 2,
+      "gas:candidate-vibid:2942000119829": 1,
+      "gas:candidate-vibid:2942000120676": 6,
+      "gas:candidate-vibid:2942000119984": 1,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 21,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 1,
-      "Ермаков Иван Федосович": 0,
-      "Журавлев Илья Григорьевич": 4,
-      "Комоедов Владимир Петрович": 4,
-      "Николаев Олег Александрович": 7,
-      "Третьяков Михаил Владимирович": 2,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 21,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 1,
+      "gas:candidate-vibid:2942000119904": 0,
+      "gas:candidate-vibid:2942000112860": 4,
+      "gas:candidate-vibid:2942000119829": 4,
+      "gas:candidate-vibid:2942000120676": 7,
+      "gas:candidate-vibid:2942000119984": 2,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105291&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105291&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 286,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 20,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 90,
-      "Комоедов Владимир Петрович": 124,
-      "Николаев Олег Александрович": 99,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 20
+      "gas:candidate-vibid:2942000120628": 286,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 20,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 90,
+      "gas:candidate-vibid:2942000119829": 124,
+      "gas:candidate-vibid:2942000120676": 99,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 192,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 18,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 49,
-      "Комоедов Владимир Петрович": 98,
-      "Николаев Олег Александрович": 123,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 192,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 18,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 49,
+      "gas:candidate-vibid:2942000119829": 98,
+      "gas:candidate-vibid:2942000120676": 123,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 242,
-      "Брежнев Андрей Юрьевич": 31,
-      "Брячак Михаил Васильевич": 36,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 87,
-      "Комоедов Владимир Петрович": 169,
-      "Николаев Олег Александрович": 144,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 242,
+      "gas:candidate-vibid:2942000120061": 31,
+      "gas:candidate-vibid:2942000119919": 36,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 87,
+      "gas:candidate-vibid:2942000119829": 169,
+      "gas:candidate-vibid:2942000120676": 144,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 317,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 42,
-      "Ермаков Иван Федосович": 20,
-      "Журавлев Илья Григорьевич": 105,
-      "Комоедов Владимир Петрович": 177,
-      "Николаев Олег Александрович": 159,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 317,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 42,
+      "gas:candidate-vibid:2942000119904": 20,
+      "gas:candidate-vibid:2942000112860": 105,
+      "gas:candidate-vibid:2942000119829": 177,
+      "gas:candidate-vibid:2942000120676": 159,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 228,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 20,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 71,
-      "Комоедов Владимир Петрович": 156,
-      "Николаев Олег Александрович": 129,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 228,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 20,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 71,
+      "gas:candidate-vibid:2942000119829": 156,
+      "gas:candidate-vibid:2942000120676": 129,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 313,
-      "Брежнев Андрей Юрьевич": 29,
-      "Брячак Михаил Васильевич": 51,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 82,
-      "Комоедов Владимир Петрович": 177,
-      "Николаев Олег Александрович": 150,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 313,
+      "gas:candidate-vibid:2942000120061": 29,
+      "gas:candidate-vibid:2942000119919": 51,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 82,
+      "gas:candidate-vibid:2942000119829": 177,
+      "gas:candidate-vibid:2942000120676": 150,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 174,
-      "Брежнев Андрей Юрьевич": 3,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 6,
-      "Журавлев Илья Григорьевич": 43,
-      "Комоедов Владимир Петрович": 105,
-      "Николаев Олег Александрович": 81,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 174,
+      "gas:candidate-vibid:2942000120061": 3,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 6,
+      "gas:candidate-vibid:2942000112860": 43,
+      "gas:candidate-vibid:2942000119829": 105,
+      "gas:candidate-vibid:2942000120676": 81,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 113,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 15,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 22,
-      "Комоедов Владимир Петрович": 59,
-      "Николаев Олег Александрович": 48,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 113,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 15,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 22,
+      "gas:candidate-vibid:2942000119829": 59,
+      "gas:candidate-vibid:2942000120676": 48,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 223,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 22,
-      "Журавлев Илья Григорьевич": 79,
-      "Комоедов Владимир Петрович": 185,
-      "Николаев Олег Александрович": 127,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 223,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 22,
+      "gas:candidate-vibid:2942000112860": 79,
+      "gas:candidate-vibid:2942000119829": 185,
+      "gas:candidate-vibid:2942000120676": 127,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 96,
-      "Брежнев Андрей Юрьевич": 4,
-      "Брячак Михаил Васильевич": 4,
-      "Ермаков Иван Федосович": 4,
-      "Журавлев Илья Григорьевич": 24,
-      "Комоедов Владимир Петрович": 39,
-      "Николаев Олег Александрович": 49,
-      "Третьяков Михаил Владимирович": 8,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 96,
+      "gas:candidate-vibid:2942000120061": 4,
+      "gas:candidate-vibid:2942000119919": 4,
+      "gas:candidate-vibid:2942000119904": 4,
+      "gas:candidate-vibid:2942000112860": 24,
+      "gas:candidate-vibid:2942000119829": 39,
+      "gas:candidate-vibid:2942000120676": 49,
+      "gas:candidate-vibid:2942000119984": 8,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 91,
-      "Брежнев Андрей Юрьевич": 2,
-      "Брячак Михаил Васильевич": 13,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 33,
-      "Комоедов Владимир Петрович": 34,
-      "Николаев Олег Александрович": 50,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 91,
+      "gas:candidate-vibid:2942000120061": 2,
+      "gas:candidate-vibid:2942000119919": 13,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 33,
+      "gas:candidate-vibid:2942000119829": 34,
+      "gas:candidate-vibid:2942000120676": 50,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 82,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 24,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 38,
-      "Комоедов Владимир Петрович": 62,
-      "Николаев Олег Александрович": 51,
-      "Третьяков Михаил Владимирович": 9,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 82,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 24,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 38,
+      "gas:candidate-vibid:2942000119829": 62,
+      "gas:candidate-vibid:2942000120676": 51,
+      "gas:candidate-vibid:2942000119984": 9,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 419,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 27,
-      "Ермаков Иван Федосович": 23,
-      "Журавлев Илья Григорьевич": 125,
-      "Комоедов Владимир Петрович": 147,
-      "Николаев Олег Александрович": 169,
-      "Третьяков Михаил Владимирович": 27,
-      "Штыков Никита Гениевич": 27
+      "gas:candidate-vibid:2942000120628": 419,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 27,
+      "gas:candidate-vibid:2942000119904": 23,
+      "gas:candidate-vibid:2942000112860": 125,
+      "gas:candidate-vibid:2942000119829": 147,
+      "gas:candidate-vibid:2942000120676": 169,
+      "gas:candidate-vibid:2942000119984": 27,
+      "gas:candidate-vibid:2942000120052": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 253,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 21,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 49,
-      "Комоедов Владимир Петрович": 70,
-      "Николаев Олег Александрович": 175,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 253,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 21,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 49,
+      "gas:candidate-vibid:2942000119829": 70,
+      "gas:candidate-vibid:2942000120676": 175,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 146,
-      "Брежнев Андрей Юрьевич": 4,
-      "Брячак Михаил Васильевич": 16,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 37,
-      "Комоедов Владимир Петрович": 57,
-      "Николаев Олег Александрович": 108,
-      "Третьяков Михаил Владимирович": 4,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 146,
+      "gas:candidate-vibid:2942000120061": 4,
+      "gas:candidate-vibid:2942000119919": 16,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 37,
+      "gas:candidate-vibid:2942000119829": 57,
+      "gas:candidate-vibid:2942000120676": 108,
+      "gas:candidate-vibid:2942000119984": 4,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 190,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 31,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 35,
-      "Комоедов Владимир Петрович": 36,
-      "Николаев Олег Александрович": 70,
-      "Третьяков Михаил Владимирович": 17,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 190,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 31,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 35,
+      "gas:candidate-vibid:2942000119829": 36,
+      "gas:candidate-vibid:2942000120676": 70,
+      "gas:candidate-vibid:2942000119984": 17,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 186,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 32,
-      "Ермаков Иван Федосович": 10,
-      "Журавлев Илья Григорьевич": 42,
-      "Комоедов Владимир Петрович": 57,
-      "Николаев Олег Александрович": 108,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 186,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 32,
+      "gas:candidate-vibid:2942000119904": 10,
+      "gas:candidate-vibid:2942000112860": 42,
+      "gas:candidate-vibid:2942000119829": 57,
+      "gas:candidate-vibid:2942000120676": 108,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 174,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 42,
-      "Ермаков Иван Федосович": 4,
-      "Журавлев Илья Григорьевич": 65,
-      "Комоедов Владимир Петрович": 36,
-      "Николаев Олег Александрович": 102,
-      "Третьяков Михаил Владимирович": 9,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 174,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 42,
+      "gas:candidate-vibid:2942000119904": 4,
+      "gas:candidate-vibid:2942000112860": 65,
+      "gas:candidate-vibid:2942000119829": 36,
+      "gas:candidate-vibid:2942000120676": 102,
+      "gas:candidate-vibid:2942000119984": 9,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 308,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 44,
-      "Ермаков Иван Федосович": 11,
-      "Журавлев Илья Григорьевич": 58,
-      "Комоедов Владимир Петрович": 80,
-      "Николаев Олег Александрович": 151,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 308,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 44,
+      "gas:candidate-vibid:2942000119904": 11,
+      "gas:candidate-vibid:2942000112860": 58,
+      "gas:candidate-vibid:2942000119829": 80,
+      "gas:candidate-vibid:2942000120676": 151,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 310,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 41,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 64,
-      "Комоедов Владимир Петрович": 102,
-      "Николаев Олег Александрович": 120,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 310,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 41,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 64,
+      "gas:candidate-vibid:2942000119829": 102,
+      "gas:candidate-vibid:2942000120676": 120,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 238,
-      "Брежнев Андрей Юрьевич": 13,
-      "Брячак Михаил Васильевич": 60,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 56,
-      "Комоедов Владимир Петрович": 109,
-      "Николаев Олег Александрович": 125,
-      "Третьяков Михаил Владимирович": 10,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 238,
+      "gas:candidate-vibid:2942000120061": 13,
+      "gas:candidate-vibid:2942000119919": 60,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 56,
+      "gas:candidate-vibid:2942000119829": 109,
+      "gas:candidate-vibid:2942000120676": 125,
+      "gas:candidate-vibid:2942000119984": 10,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 183,
-      "Брежнев Андрей Юрьевич": 3,
-      "Брячак Михаил Васильевич": 16,
-      "Ермаков Иван Федосович": 2,
-      "Журавлев Илья Григорьевич": 32,
-      "Комоедов Владимир Петрович": 46,
-      "Николаев Олег Александрович": 69,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 4
+      "gas:candidate-vibid:2942000120628": 183,
+      "gas:candidate-vibid:2942000120061": 3,
+      "gas:candidate-vibid:2942000119919": 16,
+      "gas:candidate-vibid:2942000119904": 2,
+      "gas:candidate-vibid:2942000112860": 32,
+      "gas:candidate-vibid:2942000119829": 46,
+      "gas:candidate-vibid:2942000120676": 69,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 109,
-      "Брежнев Андрей Юрьевич": 3,
-      "Брячак Михаил Васильевич": 17,
-      "Ермаков Иван Федосович": 4,
-      "Журавлев Илья Григорьевич": 22,
-      "Комоедов Владимир Петрович": 48,
-      "Николаев Олег Александрович": 68,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 109,
+      "gas:candidate-vibid:2942000120061": 3,
+      "gas:candidate-vibid:2942000119919": 17,
+      "gas:candidate-vibid:2942000119904": 4,
+      "gas:candidate-vibid:2942000112860": 22,
+      "gas:candidate-vibid:2942000119829": 48,
+      "gas:candidate-vibid:2942000120676": 68,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 362,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 197,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 33,
-      "Комоедов Владимир Петрович": 112,
-      "Николаев Олег Александрович": 142,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 362,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 197,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 33,
+      "gas:candidate-vibid:2942000119829": 112,
+      "gas:candidate-vibid:2942000120676": 142,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 81,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 41,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 6,
-      "Комоедов Владимир Петрович": 24,
-      "Николаев Олег Александрович": 32,
-      "Третьяков Михаил Владимирович": 2,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 81,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 41,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 6,
+      "gas:candidate-vibid:2942000119829": 24,
+      "gas:candidate-vibid:2942000120676": 32,
+      "gas:candidate-vibid:2942000119984": 2,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 154,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 16,
-      "Ермаков Иван Федосович": 6,
-      "Журавлев Илья Григорьевич": 22,
-      "Комоедов Владимир Петрович": 45,
-      "Николаев Олег Александрович": 78,
-      "Третьяков Михаил Владимирович": 4,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 154,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 16,
+      "gas:candidate-vibid:2942000119904": 6,
+      "gas:candidate-vibid:2942000112860": 22,
+      "gas:candidate-vibid:2942000119829": 45,
+      "gas:candidate-vibid:2942000120676": 78,
+      "gas:candidate-vibid:2942000119984": 4,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 156,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 40,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 15,
-      "Комоедов Владимир Петрович": 31,
-      "Николаев Олег Александрович": 72,
-      "Третьяков Михаил Владимирович": 4,
-      "Штыков Никита Гениевич": 1
+      "gas:candidate-vibid:2942000120628": 156,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 40,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 15,
+      "gas:candidate-vibid:2942000119829": 31,
+      "gas:candidate-vibid:2942000120676": 72,
+      "gas:candidate-vibid:2942000119984": 4,
+      "gas:candidate-vibid:2942000120052": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 112,
-      "Брежнев Андрей Юрьевич": 1,
-      "Брячак Михаил Васильевич": 30,
-      "Ермаков Иван Федосович": 7,
-      "Журавлев Илья Григорьевич": 17,
-      "Комоедов Владимир Петрович": 50,
-      "Николаев Олег Александрович": 116,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 112,
+      "gas:candidate-vibid:2942000120061": 1,
+      "gas:candidate-vibid:2942000119919": 30,
+      "gas:candidate-vibid:2942000119904": 7,
+      "gas:candidate-vibid:2942000112860": 17,
+      "gas:candidate-vibid:2942000119829": 50,
+      "gas:candidate-vibid:2942000120676": 116,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 86,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 4,
-      "Журавлев Илья Григорьевич": 15,
-      "Комоедов Владимир Петрович": 38,
-      "Николаев Олег Александрович": 84,
-      "Третьяков Михаил Владимирович": 1,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 86,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 4,
+      "gas:candidate-vibid:2942000112860": 15,
+      "gas:candidate-vibid:2942000119829": 38,
+      "gas:candidate-vibid:2942000120676": 84,
+      "gas:candidate-vibid:2942000119984": 1,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 293,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 44,
-      "Ермаков Иван Федосович": 15,
-      "Журавлев Илья Григорьевич": 74,
-      "Комоедов Владимир Петрович": 180,
-      "Николаев Олег Александрович": 135,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 293,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 44,
+      "gas:candidate-vibid:2942000119904": 15,
+      "gas:candidate-vibid:2942000112860": 74,
+      "gas:candidate-vibid:2942000119829": 180,
+      "gas:candidate-vibid:2942000120676": 135,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 104,
-      "Брежнев Андрей Юрьевич": 4,
-      "Брячак Михаил Васильевич": 13,
-      "Ермаков Иван Федосович": 4,
-      "Журавлев Илья Григорьевич": 18,
-      "Комоедов Владимир Петрович": 44,
-      "Николаев Олег Александрович": 84,
-      "Третьяков Михаил Владимирович": 3,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 104,
+      "gas:candidate-vibid:2942000120061": 4,
+      "gas:candidate-vibid:2942000119919": 13,
+      "gas:candidate-vibid:2942000119904": 4,
+      "gas:candidate-vibid:2942000112860": 18,
+      "gas:candidate-vibid:2942000119829": 44,
+      "gas:candidate-vibid:2942000120676": 84,
+      "gas:candidate-vibid:2942000119984": 3,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 314,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 35,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 64,
-      "Комоедов Владимир Петрович": 98,
-      "Николаев Олег Александрович": 138,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 314,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 35,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 64,
+      "gas:candidate-vibid:2942000119829": 98,
+      "gas:candidate-vibid:2942000120676": 138,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 20,
-      "Брежнев Андрей Юрьевич": 1,
-      "Брячак Михаил Васильевич": 3,
-      "Ермаков Иван Федосович": 1,
-      "Журавлев Илья Григорьевич": 6,
-      "Комоедов Владимир Петрович": 6,
-      "Николаев Олег Александрович": 18,
-      "Третьяков Михаил Владимирович": 3,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 20,
+      "gas:candidate-vibid:2942000120061": 1,
+      "gas:candidate-vibid:2942000119919": 3,
+      "gas:candidate-vibid:2942000119904": 1,
+      "gas:candidate-vibid:2942000112860": 6,
+      "gas:candidate-vibid:2942000119829": 6,
+      "gas:candidate-vibid:2942000120676": 18,
+      "gas:candidate-vibid:2942000119984": 3,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105292&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105292&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 202,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 30,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 88,
-      "Комоедов Владимир Петрович": 152,
-      "Николаев Олег Александрович": 244,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 202,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 30,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 88,
+      "gas:candidate-vibid:2942000119829": 152,
+      "gas:candidate-vibid:2942000120676": 244,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 193,
-      "Брежнев Андрей Юрьевич": 6,
-      "Брячак Михаил Васильевич": 10,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 32,
-      "Комоедов Владимир Петрович": 101,
-      "Николаев Олег Александрович": 127,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 193,
+      "gas:candidate-vibid:2942000120061": 6,
+      "gas:candidate-vibid:2942000119919": 10,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 32,
+      "gas:candidate-vibid:2942000119829": 101,
+      "gas:candidate-vibid:2942000120676": 127,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 377,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 32,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 139,
-      "Комоедов Владимир Петрович": 212,
-      "Николаев Олег Александрович": 286,
-      "Третьяков Михаил Владимирович": 15,
-      "Штыков Никита Гениевич": 19
+      "gas:candidate-vibid:2942000120628": 377,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 32,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 139,
+      "gas:candidate-vibid:2942000119829": 212,
+      "gas:candidate-vibid:2942000120676": 286,
+      "gas:candidate-vibid:2942000119984": 15,
+      "gas:candidate-vibid:2942000120052": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 326,
-      "Брежнев Андрей Юрьевич": 8,
-      "Брячак Михаил Васильевич": 81,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 115,
-      "Комоедов Владимир Петрович": 169,
-      "Николаев Олег Александрович": 312,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 326,
+      "gas:candidate-vibid:2942000120061": 8,
+      "gas:candidate-vibid:2942000119919": 81,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 115,
+      "gas:candidate-vibid:2942000119829": 169,
+      "gas:candidate-vibid:2942000120676": 312,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 263,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 70,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 94,
-      "Комоедов Владимир Петрович": 162,
-      "Николаев Олег Александрович": 232,
-      "Третьяков Михаил Владимирович": 22,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 263,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 70,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 94,
+      "gas:candidate-vibid:2942000119829": 162,
+      "gas:candidate-vibid:2942000120676": 232,
+      "gas:candidate-vibid:2942000119984": 22,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 221,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 27,
-      "Ермаков Иван Федосович": 13,
-      "Журавлев Илья Григорьевич": 109,
-      "Комоедов Владимир Петрович": 156,
-      "Николаев Олег Александрович": 279,
-      "Третьяков Михаил Владимирович": 17,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 221,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 27,
+      "gas:candidate-vibid:2942000119904": 13,
+      "gas:candidate-vibid:2942000112860": 109,
+      "gas:candidate-vibid:2942000119829": 156,
+      "gas:candidate-vibid:2942000120676": 279,
+      "gas:candidate-vibid:2942000119984": 17,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 230,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 15,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 58,
-      "Комоедов Владимир Петрович": 84,
-      "Николаев Олег Александрович": 155,
-      "Третьяков Михаил Владимирович": 7,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 230,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 15,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 58,
+      "gas:candidate-vibid:2942000119829": 84,
+      "gas:candidate-vibid:2942000120676": 155,
+      "gas:candidate-vibid:2942000119984": 7,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 307,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 46,
-      "Ермаков Иван Федосович": 23,
-      "Журавлев Илья Григорьевич": 93,
-      "Комоедов Владимир Петрович": 159,
-      "Николаев Олег Александрович": 324,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 307,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 46,
+      "gas:candidate-vibid:2942000119904": 23,
+      "gas:candidate-vibid:2942000112860": 93,
+      "gas:candidate-vibid:2942000119829": 159,
+      "gas:candidate-vibid:2942000120676": 324,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 136,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 31,
-      "Ермаков Иван Федосович": 9,
-      "Журавлев Илья Григорьевич": 77,
-      "Комоедов Владимир Петрович": 111,
-      "Николаев Олег Александрович": 173,
-      "Третьяков Михаил Владимирович": 15,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 136,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 31,
+      "gas:candidate-vibid:2942000119904": 9,
+      "gas:candidate-vibid:2942000112860": 77,
+      "gas:candidate-vibid:2942000119829": 111,
+      "gas:candidate-vibid:2942000120676": 173,
+      "gas:candidate-vibid:2942000119984": 15,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 256,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 53,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 100,
-      "Комоедов Владимир Петрович": 167,
-      "Николаев Олег Александрович": 215,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 256,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 53,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 100,
+      "gas:candidate-vibid:2942000119829": 167,
+      "gas:candidate-vibid:2942000120676": 215,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 339,
-      "Брежнев Андрей Юрьевич": 19,
-      "Брячак Михаил Васильевич": 50,
-      "Ермаков Иван Федосович": 15,
-      "Журавлев Илья Григорьевич": 109,
-      "Комоедов Владимир Петрович": 229,
-      "Николаев Олег Александрович": 262,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 19
+      "gas:candidate-vibid:2942000120628": 339,
+      "gas:candidate-vibid:2942000120061": 19,
+      "gas:candidate-vibid:2942000119919": 50,
+      "gas:candidate-vibid:2942000119904": 15,
+      "gas:candidate-vibid:2942000112860": 109,
+      "gas:candidate-vibid:2942000119829": 229,
+      "gas:candidate-vibid:2942000120676": 262,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 378,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 65,
-      "Ермаков Иван Федосович": 15,
-      "Журавлев Илья Григорьевич": 112,
-      "Комоедов Владимир Петрович": 194,
-      "Николаев Олег Александрович": 253,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 18
+      "gas:candidate-vibid:2942000120628": 378,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 65,
+      "gas:candidate-vibid:2942000119904": 15,
+      "gas:candidate-vibid:2942000112860": 112,
+      "gas:candidate-vibid:2942000119829": 194,
+      "gas:candidate-vibid:2942000120676": 253,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 219,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 60,
-      "Ермаков Иван Федосович": 8,
-      "Журавлев Илья Григорьевич": 102,
-      "Комоедов Владимир Петрович": 166,
-      "Николаев Олег Александрович": 261,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 219,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 60,
+      "gas:candidate-vibid:2942000119904": 8,
+      "gas:candidate-vibid:2942000112860": 102,
+      "gas:candidate-vibid:2942000119829": 166,
+      "gas:candidate-vibid:2942000120676": 261,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 321,
-      "Брежнев Андрей Юрьевич": 19,
-      "Брячак Михаил Васильевич": 77,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 123,
-      "Комоедов Владимир Петрович": 167,
-      "Николаев Олег Александрович": 240,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 6
+      "gas:candidate-vibid:2942000120628": 321,
+      "gas:candidate-vibid:2942000120061": 19,
+      "gas:candidate-vibid:2942000119919": 77,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 123,
+      "gas:candidate-vibid:2942000119829": 167,
+      "gas:candidate-vibid:2942000120676": 240,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 307,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 48,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 99,
-      "Комоедов Владимир Петрович": 142,
-      "Николаев Олег Александрович": 281,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 10
+      "gas:candidate-vibid:2942000120628": 307,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 48,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 99,
+      "gas:candidate-vibid:2942000119829": 142,
+      "gas:candidate-vibid:2942000120676": 281,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 309,
-      "Брежнев Андрей Юрьевич": 27,
-      "Брячак Михаил Васильевич": 52,
-      "Ермаков Иван Федосович": 18,
-      "Журавлев Илья Григорьевич": 135,
-      "Комоедов Владимир Петрович": 227,
-      "Николаев Олег Александрович": 257,
-      "Третьяков Михаил Владимирович": 24,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 309,
+      "gas:candidate-vibid:2942000120061": 27,
+      "gas:candidate-vibid:2942000119919": 52,
+      "gas:candidate-vibid:2942000119904": 18,
+      "gas:candidate-vibid:2942000112860": 135,
+      "gas:candidate-vibid:2942000119829": 227,
+      "gas:candidate-vibid:2942000120676": 257,
+      "gas:candidate-vibid:2942000119984": 24,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 336,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 42,
-      "Ермаков Иван Федосович": 25,
-      "Журавлев Илья Григорьевич": 142,
-      "Комоедов Владимир Петрович": 230,
-      "Николаев Олег Александрович": 257,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 22
+      "gas:candidate-vibid:2942000120628": 336,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 42,
+      "gas:candidate-vibid:2942000119904": 25,
+      "gas:candidate-vibid:2942000112860": 142,
+      "gas:candidate-vibid:2942000119829": 230,
+      "gas:candidate-vibid:2942000120676": 257,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 481,
-      "Брежнев Андрей Юрьевич": 12,
-      "Брячак Михаил Васильевич": 31,
-      "Ермаков Иван Федосович": 33,
-      "Журавлев Илья Григорьевич": 108,
-      "Комоедов Владимир Петрович": 177,
-      "Николаев Олег Александрович": 267,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 481,
+      "gas:candidate-vibid:2942000120061": 12,
+      "gas:candidate-vibid:2942000119919": 31,
+      "gas:candidate-vibid:2942000119904": 33,
+      "gas:candidate-vibid:2942000112860": 108,
+      "gas:candidate-vibid:2942000119829": 177,
+      "gas:candidate-vibid:2942000120676": 267,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 310,
-      "Брежнев Андрей Юрьевич": 40,
-      "Брячак Михаил Васильевич": 36,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 109,
-      "Комоедов Владимир Петрович": 192,
-      "Николаев Олег Александрович": 237,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 310,
+      "gas:candidate-vibid:2942000120061": 40,
+      "gas:candidate-vibid:2942000119919": 36,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 109,
+      "gas:candidate-vibid:2942000119829": 192,
+      "gas:candidate-vibid:2942000120676": 237,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 406,
-      "Брежнев Андрей Юрьевич": 20,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 24,
-      "Журавлев Илья Григорьевич": 118,
-      "Комоедов Владимир Петрович": 166,
-      "Николаев Олег Александрович": 291,
-      "Третьяков Михаил Владимирович": 26,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 406,
+      "gas:candidate-vibid:2942000120061": 20,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 24,
+      "gas:candidate-vibid:2942000112860": 118,
+      "gas:candidate-vibid:2942000119829": 166,
+      "gas:candidate-vibid:2942000120676": 291,
+      "gas:candidate-vibid:2942000119984": 26,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 423,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 37,
-      "Ермаков Иван Федосович": 20,
-      "Журавлев Илья Григорьевич": 75,
-      "Комоедов Владимир Петрович": 247,
-      "Николаев Олег Александрович": 244,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 423,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 37,
+      "gas:candidate-vibid:2942000119904": 20,
+      "gas:candidate-vibid:2942000112860": 75,
+      "gas:candidate-vibid:2942000119829": 247,
+      "gas:candidate-vibid:2942000120676": 244,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 288,
-      "Брежнев Андрей Юрьевич": 21,
-      "Брячак Михаил Васильевич": 23,
-      "Ермаков Иван Федосович": 16,
-      "Журавлев Илья Григорьевич": 55,
-      "Комоедов Владимир Петрович": 120,
-      "Николаев Олег Александрович": 179,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 288,
+      "gas:candidate-vibid:2942000120061": 21,
+      "gas:candidate-vibid:2942000119919": 23,
+      "gas:candidate-vibid:2942000119904": 16,
+      "gas:candidate-vibid:2942000112860": 55,
+      "gas:candidate-vibid:2942000119829": 120,
+      "gas:candidate-vibid:2942000120676": 179,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 495,
-      "Брежнев Андрей Юрьевич": 19,
-      "Брячак Михаил Васильевич": 22,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 121,
-      "Комоедов Владимир Петрович": 192,
-      "Николаев Олег Александрович": 271,
-      "Третьяков Михаил Владимирович": 20,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 495,
+      "gas:candidate-vibid:2942000120061": 19,
+      "gas:candidate-vibid:2942000119919": 22,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 121,
+      "gas:candidate-vibid:2942000119829": 192,
+      "gas:candidate-vibid:2942000120676": 271,
+      "gas:candidate-vibid:2942000119984": 20,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 271,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 36,
-      "Ермаков Иван Федосович": 20,
-      "Журавлев Илья Григорьевич": 86,
-      "Комоедов Владимир Петрович": 200,
-      "Николаев Олег Александрович": 236,
-      "Третьяков Михаил Владимирович": 6,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 271,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 36,
+      "gas:candidate-vibid:2942000119904": 20,
+      "gas:candidate-vibid:2942000112860": 86,
+      "gas:candidate-vibid:2942000119829": 200,
+      "gas:candidate-vibid:2942000120676": 236,
+      "gas:candidate-vibid:2942000119984": 6,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 351,
-      "Брежнев Андрей Юрьевич": 41,
-      "Брячак Михаил Васильевич": 29,
-      "Ермаков Иван Федосович": 24,
-      "Журавлев Илья Григорьевич": 113,
-      "Комоедов Владимир Петрович": 227,
-      "Николаев Олег Александрович": 306,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 351,
+      "gas:candidate-vibid:2942000120061": 41,
+      "gas:candidate-vibid:2942000119919": 29,
+      "gas:candidate-vibid:2942000119904": 24,
+      "gas:candidate-vibid:2942000112860": 113,
+      "gas:candidate-vibid:2942000119829": 227,
+      "gas:candidate-vibid:2942000120676": 306,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 344,
-      "Брежнев Андрей Юрьевич": 25,
-      "Брячак Михаил Васильевич": 31,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 155,
-      "Комоедов Владимир Петрович": 195,
-      "Николаев Олег Александрович": 334,
-      "Третьяков Михаил Владимирович": 18,
-      "Штыков Никита Гениевич": 15
+      "gas:candidate-vibid:2942000120628": 344,
+      "gas:candidate-vibid:2942000120061": 25,
+      "gas:candidate-vibid:2942000119919": 31,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 155,
+      "gas:candidate-vibid:2942000119829": 195,
+      "gas:candidate-vibid:2942000120676": 334,
+      "gas:candidate-vibid:2942000119984": 18,
+      "gas:candidate-vibid:2942000120052": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 304,
-      "Брежнев Андрей Юрьевич": 22,
-      "Брячак Михаил Васильевич": 40,
-      "Ермаков Иван Федосович": 24,
-      "Журавлев Илья Григорьевич": 109,
-      "Комоедов Владимир Петрович": 163,
-      "Николаев Олег Александрович": 289,
-      "Третьяков Михаил Владимирович": 25,
-      "Штыков Никита Гениевич": 12
+      "gas:candidate-vibid:2942000120628": 304,
+      "gas:candidate-vibid:2942000120061": 22,
+      "gas:candidate-vibid:2942000119919": 40,
+      "gas:candidate-vibid:2942000119904": 24,
+      "gas:candidate-vibid:2942000112860": 109,
+      "gas:candidate-vibid:2942000119829": 163,
+      "gas:candidate-vibid:2942000120676": 289,
+      "gas:candidate-vibid:2942000119984": 25,
+      "gas:candidate-vibid:2942000120052": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 380,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 50,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 152,
-      "Комоедов Владимир Петрович": 230,
-      "Николаев Олег Александрович": 377,
-      "Третьяков Михаил Владимирович": 22,
-      "Штыков Никита Гениевич": 24
+      "gas:candidate-vibid:2942000120628": 380,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 50,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 152,
+      "gas:candidate-vibid:2942000119829": 230,
+      "gas:candidate-vibid:2942000120676": 377,
+      "gas:candidate-vibid:2942000119984": 22,
+      "gas:candidate-vibid:2942000120052": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 352,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 54,
-      "Ермаков Иван Федосович": 29,
-      "Журавлев Илья Григорьевич": 132,
-      "Комоедов Владимир Петрович": 191,
-      "Николаев Олег Александрович": 270,
-      "Третьяков Михаил Владимирович": 21,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 352,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 54,
+      "gas:candidate-vibid:2942000119904": 29,
+      "gas:candidate-vibid:2942000112860": 132,
+      "gas:candidate-vibid:2942000119829": 191,
+      "gas:candidate-vibid:2942000120676": 270,
+      "gas:candidate-vibid:2942000119984": 21,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 322,
-      "Брежнев Андрей Юрьевич": 19,
-      "Брячак Михаил Васильевич": 45,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 138,
-      "Комоедов Владимир Петрович": 146,
-      "Николаев Олег Александрович": 298,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 322,
+      "gas:candidate-vibid:2942000120061": 19,
+      "gas:candidate-vibid:2942000119919": 45,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 138,
+      "gas:candidate-vibid:2942000119829": 146,
+      "gas:candidate-vibid:2942000120676": 298,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 354,
-      "Брежнев Андрей Юрьевич": 25,
-      "Брячак Михаил Васильевич": 37,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 111,
-      "Комоедов Владимир Петрович": 219,
-      "Николаев Олег Александрович": 307,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 354,
+      "gas:candidate-vibid:2942000120061": 25,
+      "gas:candidate-vibid:2942000119919": 37,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 111,
+      "gas:candidate-vibid:2942000119829": 219,
+      "gas:candidate-vibid:2942000120676": 307,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 313,
-      "Брежнев Андрей Юрьевич": 24,
-      "Брячак Михаил Васильевич": 48,
-      "Ермаков Иван Федосович": 30,
-      "Журавлев Илья Григорьевич": 138,
-      "Комоедов Владимир Петрович": 180,
-      "Николаев Олег Александрович": 350,
-      "Третьяков Михаил Владимирович": 25,
-      "Штыков Никита Гениевич": 18
+      "gas:candidate-vibid:2942000120628": 313,
+      "gas:candidate-vibid:2942000120061": 24,
+      "gas:candidate-vibid:2942000119919": 48,
+      "gas:candidate-vibid:2942000119904": 30,
+      "gas:candidate-vibid:2942000112860": 138,
+      "gas:candidate-vibid:2942000119829": 180,
+      "gas:candidate-vibid:2942000120676": 350,
+      "gas:candidate-vibid:2942000119984": 25,
+      "gas:candidate-vibid:2942000120052": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 323,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 67,
-      "Ермаков Иван Федосович": 45,
-      "Журавлев Илья Григорьевич": 131,
-      "Комоедов Владимир Петрович": 177,
-      "Николаев Олег Александрович": 416,
-      "Третьяков Михаил Владимирович": 25,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 323,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 67,
+      "gas:candidate-vibid:2942000119904": 45,
+      "gas:candidate-vibid:2942000112860": 131,
+      "gas:candidate-vibid:2942000119829": 177,
+      "gas:candidate-vibid:2942000120676": 416,
+      "gas:candidate-vibid:2942000119984": 25,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 272,
-      "Брежнев Андрей Юрьевич": 19,
-      "Брячак Михаил Васильевич": 26,
-      "Ермаков Иван Федосович": 37,
-      "Журавлев Илья Григорьевич": 111,
-      "Комоедов Владимир Петрович": 157,
-      "Николаев Олег Александрович": 289,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 18
+      "gas:candidate-vibid:2942000120628": 272,
+      "gas:candidate-vibid:2942000120061": 19,
+      "gas:candidate-vibid:2942000119919": 26,
+      "gas:candidate-vibid:2942000119904": 37,
+      "gas:candidate-vibid:2942000112860": 111,
+      "gas:candidate-vibid:2942000119829": 157,
+      "gas:candidate-vibid:2942000120676": 289,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 350,
-      "Брежнев Андрей Юрьевич": 18,
-      "Брячак Михаил Васильевич": 56,
-      "Ермаков Иван Федосович": 27,
-      "Журавлев Илья Григорьевич": 124,
-      "Комоедов Владимир Петрович": 140,
-      "Николаев Олег Александрович": 346,
-      "Третьяков Михаил Владимирович": 19,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 350,
+      "gas:candidate-vibid:2942000120061": 18,
+      "gas:candidate-vibid:2942000119919": 56,
+      "gas:candidate-vibid:2942000119904": 27,
+      "gas:candidate-vibid:2942000112860": 124,
+      "gas:candidate-vibid:2942000119829": 140,
+      "gas:candidate-vibid:2942000120676": 346,
+      "gas:candidate-vibid:2942000119984": 19,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 269,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 44,
-      "Ермаков Иван Федосович": 15,
-      "Журавлев Илья Григорьевич": 103,
-      "Комоедов Владимир Петрович": 129,
-      "Николаев Олег Александрович": 264,
-      "Третьяков Михаил Владимирович": 9,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 269,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 44,
+      "gas:candidate-vibid:2942000119904": 15,
+      "gas:candidate-vibid:2942000112860": 103,
+      "gas:candidate-vibid:2942000119829": 129,
+      "gas:candidate-vibid:2942000120676": 264,
+      "gas:candidate-vibid:2942000119984": 9,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 194,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 31,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 93,
-      "Комоедов Владимир Петрович": 183,
-      "Николаев Олег Александрович": 258,
-      "Третьяков Михаил Владимирович": 17,
-      "Штыков Никита Гениевич": 16
+      "gas:candidate-vibid:2942000120628": 194,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 31,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 93,
+      "gas:candidate-vibid:2942000119829": 183,
+      "gas:candidate-vibid:2942000120676": 258,
+      "gas:candidate-vibid:2942000119984": 17,
+      "gas:candidate-vibid:2942000120052": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 273,
-      "Брежнев Андрей Юрьевич": 9,
-      "Брячак Михаил Васильевич": 57,
-      "Ермаков Иван Федосович": 25,
-      "Журавлев Илья Григорьевич": 137,
-      "Комоедов Владимир Петрович": 237,
-      "Николаев Олег Александрович": 282,
-      "Третьяков Михаил Владимирович": 22,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 273,
+      "gas:candidate-vibid:2942000120061": 9,
+      "gas:candidate-vibid:2942000119919": 57,
+      "gas:candidate-vibid:2942000119904": 25,
+      "gas:candidate-vibid:2942000112860": 137,
+      "gas:candidate-vibid:2942000119829": 237,
+      "gas:candidate-vibid:2942000120676": 282,
+      "gas:candidate-vibid:2942000119984": 22,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 301,
-      "Брежнев Андрей Юрьевич": 14,
-      "Брячак Михаил Васильевич": 37,
-      "Ермаков Иван Федосович": 21,
-      "Журавлев Илья Григорьевич": 117,
-      "Комоедов Владимир Петрович": 210,
-      "Николаев Олег Александрович": 297,
-      "Третьяков Михаил Владимирович": 11,
-      "Штыков Никита Гениевич": 14
+      "gas:candidate-vibid:2942000120628": 301,
+      "gas:candidate-vibid:2942000120061": 14,
+      "gas:candidate-vibid:2942000119919": 37,
+      "gas:candidate-vibid:2942000119904": 21,
+      "gas:candidate-vibid:2942000112860": 117,
+      "gas:candidate-vibid:2942000119829": 210,
+      "gas:candidate-vibid:2942000120676": 297,
+      "gas:candidate-vibid:2942000119984": 11,
+      "gas:candidate-vibid:2942000120052": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 249,
-      "Брежнев Андрей Юрьевич": 16,
-      "Брячак Михаил Васильевич": 34,
-      "Ермаков Иван Федосович": 22,
-      "Журавлев Илья Григорьевич": 99,
-      "Комоедов Владимир Петрович": 216,
-      "Николаев Олег Александрович": 233,
-      "Третьяков Михаил Владимирович": 12,
-      "Штыков Никита Гениевич": 9
+      "gas:candidate-vibid:2942000120628": 249,
+      "gas:candidate-vibid:2942000120061": 16,
+      "gas:candidate-vibid:2942000119919": 34,
+      "gas:candidate-vibid:2942000119904": 22,
+      "gas:candidate-vibid:2942000112860": 99,
+      "gas:candidate-vibid:2942000119829": 216,
+      "gas:candidate-vibid:2942000120676": 233,
+      "gas:candidate-vibid:2942000119984": 12,
+      "gas:candidate-vibid:2942000120052": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 199,
-      "Брежнев Андрей Юрьевич": 11,
-      "Брячак Михаил Васильевич": 15,
-      "Ермаков Иван Федосович": 12,
-      "Журавлев Илья Григорьевич": 61,
-      "Комоедов Владимир Петрович": 169,
-      "Николаев Олег Александрович": 214,
-      "Третьяков Михаил Владимирович": 16,
-      "Штыков Никита Гениевич": 8
+      "gas:candidate-vibid:2942000120628": 199,
+      "gas:candidate-vibid:2942000120061": 11,
+      "gas:candidate-vibid:2942000119919": 15,
+      "gas:candidate-vibid:2942000119904": 12,
+      "gas:candidate-vibid:2942000112860": 61,
+      "gas:candidate-vibid:2942000119829": 169,
+      "gas:candidate-vibid:2942000120676": 214,
+      "gas:candidate-vibid:2942000119984": 16,
+      "gas:candidate-vibid:2942000120052": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 268,
-      "Брежнев Андрей Юрьевич": 20,
-      "Брячак Михаил Васильевич": 36,
-      "Ермаков Иван Федосович": 23,
-      "Журавлев Илья Григорьевич": 110,
-      "Комоедов Владимир Петрович": 208,
-      "Николаев Олег Александрович": 276,
-      "Третьяков Михаил Владимирович": 13,
-      "Штыков Никита Гениевич": 5
+      "gas:candidate-vibid:2942000120628": 268,
+      "gas:candidate-vibid:2942000120061": 20,
+      "gas:candidate-vibid:2942000119919": 36,
+      "gas:candidate-vibid:2942000119904": 23,
+      "gas:candidate-vibid:2942000112860": 110,
+      "gas:candidate-vibid:2942000119829": 208,
+      "gas:candidate-vibid:2942000120676": 276,
+      "gas:candidate-vibid:2942000119984": 13,
+      "gas:candidate-vibid:2942000120052": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 301,
-      "Брежнев Андрей Юрьевич": 17,
-      "Брячак Михаил Васильевич": 70,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 108,
-      "Комоедов Владимир Петрович": 335,
-      "Николаев Олег Александрович": 306,
-      "Третьяков Михаил Владимирович": 15,
-      "Штыков Никита Гениевич": 7
+      "gas:candidate-vibid:2942000120628": 301,
+      "gas:candidate-vibid:2942000120061": 17,
+      "gas:candidate-vibid:2942000119919": 70,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 108,
+      "gas:candidate-vibid:2942000119829": 335,
+      "gas:candidate-vibid:2942000120676": 306,
+      "gas:candidate-vibid:2942000119984": 15,
+      "gas:candidate-vibid:2942000120052": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 20,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 10,
-      "Ермаков Иван Федосович": 5,
-      "Журавлев Илья Григорьевич": 9,
-      "Комоедов Владимир Петрович": 14,
-      "Николаев Олег Александрович": 23,
-      "Третьяков Михаил Владимирович": 5,
-      "Штыков Никита Гениевич": 3
+      "gas:candidate-vibid:2942000120628": 20,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 10,
+      "gas:candidate-vibid:2942000119904": 5,
+      "gas:candidate-vibid:2942000112860": 9,
+      "gas:candidate-vibid:2942000119829": 14,
+      "gas:candidate-vibid:2942000120676": 23,
+      "gas:candidate-vibid:2942000119984": 5,
+      "gas:candidate-vibid:2942000120052": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 582,
-      "Брежнев Андрей Юрьевич": 37,
-      "Брячак Михаил Васильевич": 51,
-      "Ермаков Иван Федосович": 19,
-      "Журавлев Илья Григорьевич": 133,
-      "Комоедов Владимир Петрович": 285,
-      "Николаев Олег Александрович": 273,
-      "Третьяков Михаил Владимирович": 17,
-      "Штыков Никита Гениевич": 27
+      "gas:candidate-vibid:2942000120628": 582,
+      "gas:candidate-vibid:2942000120061": 37,
+      "gas:candidate-vibid:2942000119919": 51,
+      "gas:candidate-vibid:2942000119904": 19,
+      "gas:candidate-vibid:2942000112860": 133,
+      "gas:candidate-vibid:2942000119829": 285,
+      "gas:candidate-vibid:2942000120676": 273,
+      "gas:candidate-vibid:2942000119984": 17,
+      "gas:candidate-vibid:2942000120052": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 306,
-      "Брежнев Андрей Юрьевич": 26,
-      "Брячак Михаил Васильевич": 36,
-      "Ермаков Иван Федосович": 17,
-      "Журавлев Илья Григорьевич": 97,
-      "Комоедов Владимир Петрович": 164,
-      "Николаев Олег Александрович": 204,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 13
+      "gas:candidate-vibid:2942000120628": 306,
+      "gas:candidate-vibid:2942000120061": 26,
+      "gas:candidate-vibid:2942000119919": 36,
+      "gas:candidate-vibid:2942000119904": 17,
+      "gas:candidate-vibid:2942000112860": 97,
+      "gas:candidate-vibid:2942000119829": 164,
+      "gas:candidate-vibid:2942000120676": 204,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 172,
-      "Брежнев Андрей Юрьевич": 15,
-      "Брячак Михаил Васильевич": 33,
-      "Ермаков Иван Федосович": 14,
-      "Журавлев Илья Григорьевич": 83,
-      "Комоедов Владимир Петрович": 137,
-      "Николаев Олег Александрович": 187,
-      "Третьяков Михаил Владимирович": 14,
-      "Штыков Никита Гениевич": 11
+      "gas:candidate-vibid:2942000120628": 172,
+      "gas:candidate-vibid:2942000120061": 15,
+      "gas:candidate-vibid:2942000119919": 33,
+      "gas:candidate-vibid:2942000119904": 14,
+      "gas:candidate-vibid:2942000112860": 83,
+      "gas:candidate-vibid:2942000119829": 137,
+      "gas:candidate-vibid:2942000120676": 187,
+      "gas:candidate-vibid:2942000119984": 14,
+      "gas:candidate-vibid:2942000120052": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 72,
-      "Брежнев Андрей Юрьевич": 5,
-      "Брячак Михаил Васильевич": 11,
-      "Ермаков Иван Федосович": 3,
-      "Журавлев Илья Григорьевич": 17,
-      "Комоедов Владимир Петрович": 9,
-      "Николаев Олег Александрович": 46,
-      "Третьяков Михаил Владимирович": 3,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 72,
+      "gas:candidate-vibid:2942000120061": 5,
+      "gas:candidate-vibid:2942000119919": 11,
+      "gas:candidate-vibid:2942000119904": 3,
+      "gas:candidate-vibid:2942000112860": 17,
+      "gas:candidate-vibid:2942000119829": 9,
+      "gas:candidate-vibid:2942000120676": 46,
+      "gas:candidate-vibid:2942000119984": 3,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 9,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 3,
-      "Ермаков Иван Федосович": 3,
-      "Журавлев Илья Григорьевич": 2,
-      "Комоедов Владимир Петрович": 3,
-      "Николаев Олег Александрович": 3,
-      "Третьяков Михаил Владимирович": 1,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 9,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 3,
+      "gas:candidate-vibid:2942000119904": 3,
+      "gas:candidate-vibid:2942000112860": 2,
+      "gas:candidate-vibid:2942000119829": 3,
+      "gas:candidate-vibid:2942000120676": 3,
+      "gas:candidate-vibid:2942000119984": 1,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 8,
-      "Брежнев Андрей Юрьевич": 0,
-      "Брячак Михаил Васильевич": 1,
-      "Ермаков Иван Федосович": 2,
-      "Журавлев Илья Григорьевич": 6,
-      "Комоедов Владимир Петрович": 4,
-      "Николаев Олег Александрович": 5,
-      "Третьяков Михаил Владимирович": 0,
-      "Штыков Никита Гениевич": 2
+      "gas:candidate-vibid:2942000120628": 8,
+      "gas:candidate-vibid:2942000120061": 0,
+      "gas:candidate-vibid:2942000119919": 1,
+      "gas:candidate-vibid:2942000119904": 2,
+      "gas:candidate-vibid:2942000112860": 6,
+      "gas:candidate-vibid:2942000119829": 4,
+      "gas:candidate-vibid:2942000120676": 5,
+      "gas:candidate-vibid:2942000119984": 0,
+      "gas:candidate-vibid:2942000120052": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_94_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белик Дмитрий Анатольевич": 15,
-      "Брежнев Андрей Юрьевич": 1,
-      "Брячак Михаил Васильевич": 2,
-      "Ермаков Иван Федосович": 0,
-      "Журавлев Илья Григорьевич": 3,
-      "Комоедов Владимир Петрович": 8,
-      "Николаев Олег Александрович": 9,
-      "Третьяков Михаил Владимирович": 0,
-      "Штыков Никита Гениевич": 0
+      "gas:candidate-vibid:2942000120628": 15,
+      "gas:candidate-vibid:2942000120061": 1,
+      "gas:candidate-vibid:2942000119919": 2,
+      "gas:candidate-vibid:2942000119904": 0,
+      "gas:candidate-vibid:2942000112860": 3,
+      "gas:candidate-vibid:2942000119829": 8,
+      "gas:candidate-vibid:2942000120676": 9,
+      "gas:candidate-vibid:2942000119984": 0,
+      "gas:candidate-vibid:2942000120052": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sevastopol?action=show&root=1000310&tvd=2942000105293&vrn=100100067795849&region=94&global=&sub_region=94&prver=0&pronetvd=null&vibid=2942000105293&type=464",

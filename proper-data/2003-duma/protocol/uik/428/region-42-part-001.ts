@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 10,
-      "Приставка Анатолий Григорьевич": 1065,
-      "Сагара Дмитрий Степанович": 4,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 14,
-      "Фральцова Тамара Анатольевна": 113,
-      "Против всех": 49
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 10,
+      "gas:candidate-vibid:342300167133": 1065,
+      "gas:candidate-vibid:1001000113936": 4,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 14,
+      "gas:candidate-vibid:1001000225941": 113,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 17,
-      "Приставка Анатолий Григорьевич": 1257,
-      "Сагара Дмитрий Степанович": 13,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 30,
-      "Фральцова Тамара Анатольевна": 164,
-      "Против всех": 79
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 17,
+      "gas:candidate-vibid:342300167133": 1257,
+      "gas:candidate-vibid:1001000113936": 13,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 30,
+      "gas:candidate-vibid:1001000225941": 164,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 7,
-      "Приставка Анатолий Григорьевич": 1457,
-      "Сагара Дмитрий Степанович": 6,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 16,
-      "Фральцова Тамара Анатольевна": 96,
-      "Против всех": 50
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 7,
+      "gas:candidate-vibid:342300167133": 1457,
+      "gas:candidate-vibid:1001000113936": 6,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 16,
+      "gas:candidate-vibid:1001000225941": 96,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 1299,
-      "Сагара Дмитрий Степанович": 17,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 31,
-      "Фральцова Тамара Анатольевна": 167,
-      "Против всех": 52
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 1299,
+      "gas:candidate-vibid:1001000113936": 17,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 31,
+      "gas:candidate-vibid:1001000225941": 167,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 17,
-      "Приставка Анатолий Григорьевич": 1287,
-      "Сагара Дмитрий Степанович": 5,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 33,
-      "Фральцова Тамара Анатольевна": 158,
-      "Против всех": 58
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 17,
+      "gas:candidate-vibid:342300167133": 1287,
+      "gas:candidate-vibid:1001000113936": 5,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 33,
+      "gas:candidate-vibid:1001000225941": 158,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 435,
-      "Сагара Дмитрий Степанович": 20,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 54,
-      "Фральцова Тамара Анатольевна": 492,
-      "Против всех": 114
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 435,
+      "gas:candidate-vibid:1001000113936": 20,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 54,
+      "gas:candidate-vibid:1001000225941": 492,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 13,
-      "Приставка Анатолий Григорьевич": 113,
-      "Сагара Дмитрий Степанович": 8,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 23,
-      "Фральцова Тамара Анатольевна": 221,
-      "Против всех": 32
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 13,
+      "gas:candidate-vibid:342300167133": 113,
+      "gas:candidate-vibid:1001000113936": 8,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 23,
+      "gas:candidate-vibid:1001000225941": 221,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 5,
-      "Приставка Анатолий Григорьевич": 67,
-      "Сагара Дмитрий Степанович": 6,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 114,
-      "Против всех": 25
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 5,
+      "gas:candidate-vibid:342300167133": 67,
+      "gas:candidate-vibid:1001000113936": 6,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 114,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167379&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 15,
-      "Приставка Анатолий Григорьевич": 79,
-      "Сагара Дмитрий Степанович": 50,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 16,
-      "Фральцова Тамара Анатольевна": 266,
-      "Против всех": 51
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 15,
+      "gas:candidate-vibid:342300167133": 79,
+      "gas:candidate-vibid:1001000113936": 50,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 16,
+      "gas:candidate-vibid:1001000225941": 266,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 26,
-      "Сагара Дмитрий Степанович": 13,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 22,
-      "Фральцова Тамара Анатольевна": 290,
-      "Против всех": 23
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 26,
+      "gas:candidate-vibid:1001000113936": 13,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 22,
+      "gas:candidate-vibid:1001000225941": 290,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 50,
-      "Сагара Дмитрий Степанович": 35,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 14,
-      "Фральцова Тамара Анатольевна": 480,
-      "Против всех": 52
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 50,
+      "gas:candidate-vibid:1001000113936": 35,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 14,
+      "gas:candidate-vibid:1001000225941": 480,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 20,
-      "Приставка Анатолий Григорьевич": 25,
-      "Сагара Дмитрий Степанович": 6,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 23,
-      "Фральцова Тамара Анатольевна": 334,
-      "Против всех": 36
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 20,
+      "gas:candidate-vibid:342300167133": 25,
+      "gas:candidate-vibid:1001000113936": 6,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 23,
+      "gas:candidate-vibid:1001000225941": 334,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 16,
-      "Приставка Анатолий Григорьевич": 54,
-      "Сагара Дмитрий Степанович": 12,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 35,
-      "Фральцова Тамара Анатольевна": 322,
-      "Против всех": 59
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 16,
+      "gas:candidate-vibid:342300167133": 54,
+      "gas:candidate-vibid:1001000113936": 12,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 35,
+      "gas:candidate-vibid:1001000225941": 322,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 66,
-      "Сагара Дмитрий Степанович": 14,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 39,
-      "Фральцова Тамара Анатольевна": 480,
-      "Против всех": 53
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 66,
+      "gas:candidate-vibid:1001000113936": 14,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 39,
+      "gas:candidate-vibid:1001000225941": 480,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 88,
-      "Сагара Дмитрий Степанович": 26,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 64,
-      "Фральцова Тамара Анатольевна": 652,
-      "Против всех": 71
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 88,
+      "gas:candidate-vibid:1001000113936": 26,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 64,
+      "gas:candidate-vibid:1001000225941": 652,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 51,
-      "Сагара Дмитрий Степанович": 25,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 27,
-      "Фральцова Тамара Анатольевна": 494,
-      "Против всех": 58
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 51,
+      "gas:candidate-vibid:1001000113936": 25,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 27,
+      "gas:candidate-vibid:1001000225941": 494,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 46,
-      "Сагара Дмитрий Степанович": 22,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 23,
-      "Фральцова Тамара Анатольевна": 359,
-      "Против всех": 44
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 46,
+      "gas:candidate-vibid:1001000113936": 22,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 23,
+      "gas:candidate-vibid:1001000225941": 359,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 29,
-      "Приставка Анатолий Григорьевич": 98,
-      "Сагара Дмитрий Степанович": 30,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 36,
-      "Фральцова Тамара Анатольевна": 549,
-      "Против всех": 108
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 29,
+      "gas:candidate-vibid:342300167133": 98,
+      "gas:candidate-vibid:1001000113936": 30,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 36,
+      "gas:candidate-vibid:1001000225941": 549,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 71,
-      "Сагара Дмитрий Степанович": 17,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 41,
-      "Фральцова Тамара Анатольевна": 383,
-      "Против всех": 78
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 71,
+      "gas:candidate-vibid:1001000113936": 17,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 41,
+      "gas:candidate-vibid:1001000225941": 383,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 91,
-      "Сагара Дмитрий Степанович": 53,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 40,
-      "Фральцова Тамара Анатольевна": 513,
-      "Против всех": 100
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 91,
+      "gas:candidate-vibid:1001000113936": 53,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 40,
+      "gas:candidate-vibid:1001000225941": 513,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 73,
-      "Сагара Дмитрий Степанович": 40,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 12,
-      "Фральцова Тамара Анатольевна": 317,
-      "Против всех": 63
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 73,
+      "gas:candidate-vibid:1001000113936": 40,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 12,
+      "gas:candidate-vibid:1001000225941": 317,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 16,
-      "Приставка Анатолий Григорьевич": 43,
-      "Сагара Дмитрий Степанович": 23,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 19,
-      "Фральцова Тамара Анатольевна": 276,
-      "Против всех": 52
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 16,
+      "gas:candidate-vibid:342300167133": 43,
+      "gas:candidate-vibid:1001000113936": 23,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 19,
+      "gas:candidate-vibid:1001000225941": 276,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 24,
-      "Приставка Анатолий Григорьевич": 56,
-      "Сагара Дмитрий Степанович": 53,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 22,
-      "Фральцова Тамара Анатольевна": 368,
-      "Против всех": 37
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 24,
+      "gas:candidate-vibid:342300167133": 56,
+      "gas:candidate-vibid:1001000113936": 53,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 22,
+      "gas:candidate-vibid:1001000225941": 368,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 14,
-      "Приставка Анатолий Григорьевич": 74,
-      "Сагара Дмитрий Степанович": 23,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 26,
-      "Фральцова Тамара Анатольевна": 399,
-      "Против всех": 74
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 14,
+      "gas:candidate-vibid:342300167133": 74,
+      "gas:candidate-vibid:1001000113936": 23,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 26,
+      "gas:candidate-vibid:1001000225941": 399,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 9,
-      "Приставка Анатолий Григорьевич": 38,
-      "Сагара Дмитрий Степанович": 18,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 7,
-      "Фральцова Тамара Анатольевна": 260,
-      "Против всех": 36
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 9,
+      "gas:candidate-vibid:342300167133": 38,
+      "gas:candidate-vibid:1001000113936": 18,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 7,
+      "gas:candidate-vibid:1001000225941": 260,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 16,
-      "Приставка Анатолий Григорьевич": 57,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 16,
-      "Фральцова Тамара Анатольевна": 309,
-      "Против всех": 49
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 16,
+      "gas:candidate-vibid:342300167133": 57,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 16,
+      "gas:candidate-vibid:1001000225941": 309,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 74,
-      "Сагара Дмитрий Степанович": 12,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 7,
-      "Фральцова Тамара Анатольевна": 448,
-      "Против всех": 50
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 74,
+      "gas:candidate-vibid:1001000113936": 12,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 7,
+      "gas:candidate-vibid:1001000225941": 448,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 89,
-      "Сагара Дмитрий Степанович": 21,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 641,
-      "Против всех": 94
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 89,
+      "gas:candidate-vibid:1001000113936": 21,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 641,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 63,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 21,
-      "Фральцова Тамара Анатольевна": 346,
-      "Против всех": 50
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 63,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 21,
+      "gas:candidate-vibid:1001000225941": 346,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 86,
-      "Сагара Дмитрий Степанович": 18,
-      "Синицын Владимир Алексеевич": 30,
-      "Скворцов Юрий Петрович": 23,
-      "Фральцова Тамара Анатольевна": 456,
-      "Против всех": 68
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 86,
+      "gas:candidate-vibid:1001000113936": 18,
+      "gas:candidate-vibid:1001000190352": 30,
+      "gas:candidate-vibid:1001000121852": 23,
+      "gas:candidate-vibid:1001000225941": 456,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 123,
-      "Сагара Дмитрий Степанович": 38,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 44,
-      "Фральцова Тамара Анатольевна": 429,
-      "Против всех": 95
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 123,
+      "gas:candidate-vibid:1001000113936": 38,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 44,
+      "gas:candidate-vibid:1001000225941": 429,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 126,
-      "Сагара Дмитрий Степанович": 17,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 35,
-      "Фральцова Тамара Анатольевна": 597,
-      "Против всех": 132
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 126,
+      "gas:candidate-vibid:1001000113936": 17,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 35,
+      "gas:candidate-vibid:1001000225941": 597,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 80,
-      "Сагара Дмитрий Степанович": 20,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 33,
-      "Фральцова Тамара Анатольевна": 440,
-      "Против всех": 95
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 80,
+      "gas:candidate-vibid:1001000113936": 20,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 33,
+      "gas:candidate-vibid:1001000225941": 440,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 61,
-      "Сагара Дмитрий Степанович": 29,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 12,
-      "Фральцова Тамара Анатольевна": 311,
-      "Против всех": 46
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 61,
+      "gas:candidate-vibid:1001000113936": 29,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 12,
+      "gas:candidate-vibid:1001000225941": 311,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 12,
-      "Приставка Анатолий Григорьевич": 36,
-      "Сагара Дмитрий Степанович": 9,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 10,
-      "Фральцова Тамара Анатольевна": 304,
-      "Против всех": 34
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 12,
+      "gas:candidate-vibid:342300167133": 36,
+      "gas:candidate-vibid:1001000113936": 9,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 10,
+      "gas:candidate-vibid:1001000225941": 304,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 86,
-      "Сагара Дмитрий Степанович": 23,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 14,
-      "Фральцова Тамара Анатольевна": 530,
-      "Против всех": 65
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 86,
+      "gas:candidate-vibid:1001000113936": 23,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 14,
+      "gas:candidate-vibid:1001000225941": 530,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 6,
-      "Приставка Анатолий Григорьевич": 18,
-      "Сагара Дмитрий Степанович": 5,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 4,
-      "Фральцова Тамара Анатольевна": 118,
-      "Против всех": 18
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 6,
+      "gas:candidate-vibid:342300167133": 18,
+      "gas:candidate-vibid:1001000113936": 5,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 4,
+      "gas:candidate-vibid:1001000225941": 118,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 9,
-      "Приставка Анатолий Григорьевич": 45,
-      "Сагара Дмитрий Степанович": 17,
-      "Синицын Владимир Алексеевич": 0,
-      "Скворцов Юрий Петрович": 10,
-      "Фральцова Тамара Анатольевна": 217,
-      "Против всех": 29
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 9,
+      "gas:candidate-vibid:342300167133": 45,
+      "gas:candidate-vibid:1001000113936": 17,
+      "gas:candidate-vibid:1001000190352": 0,
+      "gas:candidate-vibid:1001000121852": 10,
+      "gas:candidate-vibid:1001000225941": 217,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 53,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 14,
-      "Фральцова Тамара Анатольевна": 252,
-      "Против всех": 50
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 53,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 14,
+      "gas:candidate-vibid:1001000225941": 252,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 24,
-      "Приставка Анатолий Григорьевич": 64,
-      "Сагара Дмитрий Степанович": 9,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 12,
-      "Фральцова Тамара Анатольевна": 248,
-      "Против всех": 44
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 24,
+      "gas:candidate-vibid:342300167133": 64,
+      "gas:candidate-vibid:1001000113936": 9,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 12,
+      "gas:candidate-vibid:1001000225941": 248,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 35,
-      "Сагара Дмитрий Степанович": 5,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 13,
-      "Фральцова Тамара Анатольевна": 298,
-      "Против всех": 30
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 35,
+      "gas:candidate-vibid:1001000113936": 5,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 13,
+      "gas:candidate-vibid:1001000225941": 298,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 24,
-      "Приставка Анатолий Григорьевич": 69,
-      "Сагара Дмитрий Степанович": 29,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 24,
-      "Фральцова Тамара Анатольевна": 435,
-      "Против всех": 76
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 24,
+      "gas:candidate-vibid:342300167133": 69,
+      "gas:candidate-vibid:1001000113936": 29,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 24,
+      "gas:candidate-vibid:1001000225941": 435,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 13,
-      "Приставка Анатолий Григорьевич": 39,
-      "Сагара Дмитрий Степанович": 18,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 345,
-      "Против всех": 46
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 13,
+      "gas:candidate-vibid:342300167133": 39,
+      "gas:candidate-vibid:1001000113936": 18,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 345,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 16,
-      "Приставка Анатолий Григорьевич": 84,
-      "Сагара Дмитрий Степанович": 10,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 40,
-      "Фральцова Тамара Анатольевна": 403,
-      "Против всех": 108
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 16,
+      "gas:candidate-vibid:342300167133": 84,
+      "gas:candidate-vibid:1001000113936": 10,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 40,
+      "gas:candidate-vibid:1001000225941": 403,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 47,
-      "Сагара Дмитрий Степанович": 32,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 34,
-      "Фральцова Тамара Анатольевна": 334,
-      "Против всех": 74
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 47,
+      "gas:candidate-vibid:1001000113936": 32,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 34,
+      "gas:candidate-vibid:1001000225941": 334,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 31,
-      "Сагара Дмитрий Степанович": 21,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 16,
-      "Фральцова Тамара Анатольевна": 268,
-      "Против всех": 39
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 31,
+      "gas:candidate-vibid:1001000113936": 21,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 16,
+      "gas:candidate-vibid:1001000225941": 268,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 17,
-      "Приставка Анатолий Григорьевич": 34,
-      "Сагара Дмитрий Степанович": 14,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 9,
-      "Фральцова Тамара Анатольевна": 247,
-      "Против всех": 33
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 17,
+      "gas:candidate-vibid:342300167133": 34,
+      "gas:candidate-vibid:1001000113936": 14,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 9,
+      "gas:candidate-vibid:1001000225941": 247,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 13,
-      "Приставка Анатолий Григорьевич": 29,
-      "Сагара Дмитрий Степанович": 4,
-      "Синицын Владимир Алексеевич": 0,
-      "Скворцов Юрий Петрович": 6,
-      "Фральцова Тамара Анатольевна": 181,
-      "Против всех": 16
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 13,
+      "gas:candidate-vibid:342300167133": 29,
+      "gas:candidate-vibid:1001000113936": 4,
+      "gas:candidate-vibid:1001000190352": 0,
+      "gas:candidate-vibid:1001000121852": 6,
+      "gas:candidate-vibid:1001000225941": 181,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 75,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 16,
-      "Фральцова Тамара Анатольевна": 325,
-      "Против всех": 45
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 75,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 16,
+      "gas:candidate-vibid:1001000225941": 325,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 14,
-      "Приставка Анатолий Григорьевич": 42,
-      "Сагара Дмитрий Степанович": 12,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 22,
-      "Фральцова Тамара Анатольевна": 265,
-      "Против всех": 46
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 14,
+      "gas:candidate-vibid:342300167133": 42,
+      "gas:candidate-vibid:1001000113936": 12,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 22,
+      "gas:candidate-vibid:1001000225941": 265,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 33,
-      "Сагара Дмитрий Степанович": 22,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 19,
-      "Фральцова Тамара Анатольевна": 344,
-      "Против всех": 59
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 33,
+      "gas:candidate-vibid:1001000113936": 22,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 19,
+      "gas:candidate-vibid:1001000225941": 344,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 49,
-      "Сагара Дмитрий Степанович": 49,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 39,
-      "Фральцова Тамара Анатольевна": 327,
-      "Против всех": 59
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 49,
+      "gas:candidate-vibid:1001000113936": 49,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 39,
+      "gas:candidate-vibid:1001000225941": 327,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 14,
-      "Сагара Дмитрий Степанович": 7,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 1,
-      "Фральцова Тамара Анатольевна": 117,
-      "Против всех": 15
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 14,
+      "gas:candidate-vibid:1001000113936": 7,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 1,
+      "gas:candidate-vibid:1001000225941": 117,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 20,
-      "Приставка Анатолий Григорьевич": 69,
-      "Сагара Дмитрий Степанович": 17,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 20,
-      "Фральцова Тамара Анатольевна": 336,
-      "Против всех": 48
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 20,
+      "gas:candidate-vibid:342300167133": 69,
+      "gas:candidate-vibid:1001000113936": 17,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 20,
+      "gas:candidate-vibid:1001000225941": 336,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 71,
-      "Сагара Дмитрий Степанович": 11,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 21,
-      "Фральцова Тамара Анатольевна": 336,
-      "Против всех": 88
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 71,
+      "gas:candidate-vibid:1001000113936": 11,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 21,
+      "gas:candidate-vibid:1001000225941": 336,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 22,
-      "Приставка Анатолий Григорьевич": 405,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 380,
-      "Против всех": 49
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 22,
+      "gas:candidate-vibid:342300167133": 405,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 380,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 56,
-      "Сагара Дмитрий Степанович": 7,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 13,
-      "Фральцова Тамара Анатольевна": 223,
-      "Против всех": 41
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 56,
+      "gas:candidate-vibid:1001000113936": 7,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 13,
+      "gas:candidate-vibid:1001000225941": 223,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 9,
-      "Приставка Анатолий Григорьевич": 39,
-      "Сагара Дмитрий Степанович": 4,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 12,
-      "Фральцова Тамара Анатольевна": 149,
-      "Против всех": 29
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 9,
+      "gas:candidate-vibid:342300167133": 39,
+      "gas:candidate-vibid:1001000113936": 4,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 12,
+      "gas:candidate-vibid:1001000225941": 149,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 195,
-      "Сагара Дмитрий Степанович": 23,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 46,
-      "Фральцова Тамара Анатольевна": 554,
-      "Против всех": 103
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 195,
+      "gas:candidate-vibid:1001000113936": 23,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 46,
+      "gas:candidate-vibid:1001000225941": 554,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 15,
-      "Приставка Анатолий Григорьевич": 143,
-      "Сагара Дмитрий Степанович": 48,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 37,
-      "Фральцова Тамара Анатольевна": 437,
-      "Против всех": 102
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 15,
+      "gas:candidate-vibid:342300167133": 143,
+      "gas:candidate-vibid:1001000113936": 48,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 37,
+      "gas:candidate-vibid:1001000225941": 437,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 17,
-      "Приставка Анатолий Григорьевич": 129,
-      "Сагара Дмитрий Степанович": 28,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 35,
-      "Фральцова Тамара Анатольевна": 475,
-      "Против всех": 108
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 17,
+      "gas:candidate-vibid:342300167133": 129,
+      "gas:candidate-vibid:1001000113936": 28,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 35,
+      "gas:candidate-vibid:1001000225941": 475,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 103,
-      "Сагара Дмитрий Степанович": 39,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 30,
-      "Фральцова Тамара Анатольевна": 606,
-      "Против всех": 105
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 103,
+      "gas:candidate-vibid:1001000113936": 39,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 30,
+      "gas:candidate-vibid:1001000225941": 606,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 27,
-      "Приставка Анатолий Григорьевич": 94,
-      "Сагара Дмитрий Степанович": 22,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 19,
-      "Фральцова Тамара Анатольевна": 374,
-      "Против всех": 58
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 27,
+      "gas:candidate-vibid:342300167133": 94,
+      "gas:candidate-vibid:1001000113936": 22,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 19,
+      "gas:candidate-vibid:1001000225941": 374,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 498,
-      "Сагара Дмитрий Степанович": 23,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 21,
-      "Фральцова Тамара Анатольевна": 373,
-      "Против всех": 103
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 498,
+      "gas:candidate-vibid:1001000113936": 23,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 21,
+      "gas:candidate-vibid:1001000225941": 373,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 41,
-      "Приставка Анатолий Григорьевич": 109,
-      "Сагара Дмитрий Степанович": 39,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 35,
-      "Фральцова Тамара Анатольевна": 552,
-      "Против всех": 129
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 41,
+      "gas:candidate-vibid:342300167133": 109,
+      "gas:candidate-vibid:1001000113936": 39,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 35,
+      "gas:candidate-vibid:1001000225941": 552,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 11,
-      "Приставка Анатолий Григорьевич": 45,
-      "Сагара Дмитрий Степанович": 17,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 8,
-      "Фральцова Тамара Анатольевна": 180,
-      "Против всех": 26
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 11,
+      "gas:candidate-vibid:342300167133": 45,
+      "gas:candidate-vibid:1001000113936": 17,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 8,
+      "gas:candidate-vibid:1001000225941": 180,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 27,
-      "Приставка Анатолий Григорьевич": 50,
-      "Сагара Дмитрий Степанович": 9,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 20,
-      "Фральцова Тамара Анатольевна": 464,
-      "Против всех": 81
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 27,
+      "gas:candidate-vibid:342300167133": 50,
+      "gas:candidate-vibid:1001000113936": 9,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 20,
+      "gas:candidate-vibid:1001000225941": 464,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 60,
-      "Сагара Дмитрий Степанович": 20,
-      "Синицын Владимир Алексеевич": 13,
-      "Скворцов Юрий Петрович": 26,
-      "Фральцова Тамара Анатольевна": 432,
-      "Против всех": 55
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 60,
+      "gas:candidate-vibid:1001000113936": 20,
+      "gas:candidate-vibid:1001000190352": 13,
+      "gas:candidate-vibid:1001000121852": 26,
+      "gas:candidate-vibid:1001000225941": 432,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167380&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 187,
-      "Сагара Дмитрий Степанович": 5,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 38,
-      "Фральцова Тамара Анатольевна": 442,
-      "Против всех": 67
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 187,
+      "gas:candidate-vibid:1001000113936": 5,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 38,
+      "gas:candidate-vibid:1001000225941": 442,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 130,
-      "Сагара Дмитрий Степанович": 6,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 49,
-      "Фральцова Тамара Анатольевна": 375,
-      "Против всех": 50
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 130,
+      "gas:candidate-vibid:1001000113936": 6,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 49,
+      "gas:candidate-vibid:1001000225941": 375,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 16,
-      "Приставка Анатолий Григорьевич": 75,
-      "Сагара Дмитрий Степанович": 13,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 17,
-      "Фральцова Тамара Анатольевна": 294,
-      "Против всех": 39
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 16,
+      "gas:candidate-vibid:342300167133": 75,
+      "gas:candidate-vibid:1001000113936": 13,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 17,
+      "gas:candidate-vibid:1001000225941": 294,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 106,
-      "Сагара Дмитрий Степанович": 2,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 17,
-      "Фральцова Тамара Анатольевна": 323,
-      "Против всех": 45
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 106,
+      "gas:candidate-vibid:1001000113936": 2,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 17,
+      "gas:candidate-vibid:1001000225941": 323,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 6,
-      "Приставка Анатолий Григорьевич": 39,
-      "Сагара Дмитрий Степанович": 0,
-      "Синицын Владимир Алексеевич": 0,
-      "Скворцов Юрий Петрович": 17,
-      "Фральцова Тамара Анатольевна": 173,
-      "Против всех": 18
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 6,
+      "gas:candidate-vibid:342300167133": 39,
+      "gas:candidate-vibid:1001000113936": 0,
+      "gas:candidate-vibid:1001000190352": 0,
+      "gas:candidate-vibid:1001000121852": 17,
+      "gas:candidate-vibid:1001000225941": 173,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 80,
-      "Сагара Дмитрий Степанович": 13,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 17,
-      "Фральцова Тамара Анатольевна": 354,
-      "Против всех": 43
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 80,
+      "gas:candidate-vibid:1001000113936": 13,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 17,
+      "gas:candidate-vibid:1001000225941": 354,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 15,
-      "Петрик Иван Павлович": 44,
-      "Приставка Анатолий Григорьевич": 304,
-      "Сагара Дмитрий Степанович": 26,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 60,
-      "Фральцова Тамара Анатольевна": 791,
-      "Против всех": 149
+      "gas:candidate-vibid:342300167276": 15,
+      "gas:candidate-vibid:1001000136060": 44,
+      "gas:candidate-vibid:342300167133": 304,
+      "gas:candidate-vibid:1001000113936": 26,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 60,
+      "gas:candidate-vibid:1001000225941": 791,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 45,
-      "Приставка Анатолий Григорьевич": 266,
-      "Сагара Дмитрий Степанович": 36,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 68,
-      "Фральцова Тамара Анатольевна": 647,
-      "Против всех": 138
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 45,
+      "gas:candidate-vibid:342300167133": 266,
+      "gas:candidate-vibid:1001000113936": 36,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 68,
+      "gas:candidate-vibid:1001000225941": 647,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 8,
-      "Приставка Анатолий Григорьевич": 26,
-      "Сагара Дмитрий Степанович": 4,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 9,
-      "Фральцова Тамара Анатольевна": 165,
-      "Против всех": 37
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 8,
+      "gas:candidate-vibid:342300167133": 26,
+      "gas:candidate-vibid:1001000113936": 4,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 9,
+      "gas:candidate-vibid:1001000225941": 165,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 202,
-      "Сагара Дмитрий Степанович": 14,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 52,
-      "Фральцова Тамара Анатольевна": 736,
-      "Против всех": 131
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 202,
+      "gas:candidate-vibid:1001000113936": 14,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 52,
+      "gas:candidate-vibid:1001000225941": 736,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 87,
-      "Сагара Дмитрий Степанович": 7,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 15,
-      "Фральцова Тамара Анатольевна": 386,
-      "Против всех": 60
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 87,
+      "gas:candidate-vibid:1001000113936": 7,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 15,
+      "gas:candidate-vibid:1001000225941": 386,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 27,
-      "Приставка Анатолий Григорьевич": 284,
-      "Сагара Дмитрий Степанович": 28,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 31,
-      "Фральцова Тамара Анатольевна": 598,
-      "Против всех": 164
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 27,
+      "gas:candidate-vibid:342300167133": 284,
+      "gas:candidate-vibid:1001000113936": 28,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 31,
+      "gas:candidate-vibid:1001000225941": 598,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 16,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 295,
-      "Сагара Дмитрий Степанович": 19,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 53,
-      "Фральцова Тамара Анатольевна": 673,
-      "Против всех": 150
+      "gas:candidate-vibid:342300167276": 16,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 295,
+      "gas:candidate-vibid:1001000113936": 19,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 53,
+      "gas:candidate-vibid:1001000225941": 673,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 17,
-      "Приставка Анатолий Григорьевич": 141,
-      "Сагара Дмитрий Степанович": 6,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 40,
-      "Фральцова Тамара Анатольевна": 462,
-      "Против всех": 92
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 17,
+      "gas:candidate-vibid:342300167133": 141,
+      "gas:candidate-vibid:1001000113936": 6,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 40,
+      "gas:candidate-vibid:1001000225941": 462,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 25,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 267,
-      "Сагара Дмитрий Степанович": 20,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 67,
-      "Фральцова Тамара Анатольевна": 715,
-      "Против всех": 156
+      "gas:candidate-vibid:342300167276": 25,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 267,
+      "gas:candidate-vibid:1001000113936": 20,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 67,
+      "gas:candidate-vibid:1001000225941": 715,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 18,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 246,
-      "Сагара Дмитрий Степанович": 18,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 84,
-      "Фральцова Тамара Анатольевна": 813,
-      "Против всех": 174
+      "gas:candidate-vibid:342300167276": 18,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 246,
+      "gas:candidate-vibid:1001000113936": 18,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 84,
+      "gas:candidate-vibid:1001000225941": 813,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 143,
-      "Сагара Дмитрий Степанович": 35,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 35,
-      "Фральцова Тамара Анатольевна": 546,
-      "Против всех": 135
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 143,
+      "gas:candidate-vibid:1001000113936": 35,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 35,
+      "gas:candidate-vibid:1001000225941": 546,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 19,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 307,
-      "Сагара Дмитрий Степанович": 37,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 44,
-      "Фральцова Тамара Анатольевна": 616,
-      "Против всех": 111
+      "gas:candidate-vibid:342300167276": 19,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 307,
+      "gas:candidate-vibid:1001000113936": 37,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 44,
+      "gas:candidate-vibid:1001000225941": 616,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 209,
-      "Сагара Дмитрий Степанович": 14,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 35,
-      "Фральцова Тамара Анатольевна": 759,
-      "Против всех": 130
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 209,
+      "gas:candidate-vibid:1001000113936": 14,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 35,
+      "gas:candidate-vibid:1001000225941": 759,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 203,
-      "Сагара Дмитрий Степанович": 24,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 33,
-      "Фральцова Тамара Анатольевна": 568,
-      "Против всех": 122
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 203,
+      "gas:candidate-vibid:1001000113936": 24,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 33,
+      "gas:candidate-vibid:1001000225941": 568,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 187,
-      "Сагара Дмитрий Степанович": 18,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 43,
-      "Фральцова Тамара Анатольевна": 576,
-      "Против всех": 93
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 187,
+      "gas:candidate-vibid:1001000113936": 18,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 43,
+      "gas:candidate-vibid:1001000225941": 576,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 207,
-      "Сагара Дмитрий Степанович": 19,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 23,
-      "Фральцова Тамара Анатольевна": 460,
-      "Против всех": 92
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 207,
+      "gas:candidate-vibid:1001000113936": 19,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 23,
+      "gas:candidate-vibid:1001000225941": 460,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 12,
-      "Приставка Анатолий Григорьевич": 45,
-      "Сагара Дмитрий Степанович": 35,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 198,
-      "Против всех": 32
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 12,
+      "gas:candidate-vibid:342300167133": 45,
+      "gas:candidate-vibid:1001000113936": 35,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 198,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 9,
-      "Приставка Анатолий Григорьевич": 5,
-      "Сагара Дмитрий Степанович": 9,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 12,
-      "Фральцова Тамара Анатольевна": 107,
-      "Против всех": 10
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 9,
+      "gas:candidate-vibid:342300167133": 5,
+      "gas:candidate-vibid:1001000113936": 9,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 12,
+      "gas:candidate-vibid:1001000225941": 107,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 4,
-      "Приставка Анатолий Григорьевич": 12,
-      "Сагара Дмитрий Степанович": 11,
-      "Синицын Владимир Алексеевич": 1,
-      "Скворцов Юрий Петрович": 7,
-      "Фральцова Тамара Анатольевна": 83,
-      "Против всех": 10
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 4,
+      "gas:candidate-vibid:342300167133": 12,
+      "gas:candidate-vibid:1001000113936": 11,
+      "gas:candidate-vibid:1001000190352": 1,
+      "gas:candidate-vibid:1001000121852": 7,
+      "gas:candidate-vibid:1001000225941": 83,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 9,
-      "Приставка Анатолий Григорьевич": 85,
-      "Сагара Дмитрий Степанович": 4,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 22,
-      "Фральцова Тамара Анатольевна": 296,
-      "Против всех": 30
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 9,
+      "gas:candidate-vibid:342300167133": 85,
+      "gas:candidate-vibid:1001000113936": 4,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 22,
+      "gas:candidate-vibid:1001000225941": 296,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 7,
-      "Приставка Анатолий Григорьевич": 65,
-      "Сагара Дмитрий Степанович": 1,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 26,
-      "Фральцова Тамара Анатольевна": 252,
-      "Против всех": 38
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 7,
+      "gas:candidate-vibid:342300167133": 65,
+      "gas:candidate-vibid:1001000113936": 1,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 26,
+      "gas:candidate-vibid:1001000225941": 252,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 5,
-      "Приставка Анатолий Григорьевич": 29,
-      "Сагара Дмитрий Степанович": 2,
-      "Синицын Владимир Алексеевич": 0,
-      "Скворцов Юрий Петрович": 4,
-      "Фральцова Тамара Анатольевна": 110,
-      "Против всех": 17
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 5,
+      "gas:candidate-vibid:342300167133": 29,
+      "gas:candidate-vibid:1001000113936": 2,
+      "gas:candidate-vibid:1001000190352": 0,
+      "gas:candidate-vibid:1001000121852": 4,
+      "gas:candidate-vibid:1001000225941": 110,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 1,
-      "Приставка Анатолий Григорьевич": 2,
-      "Сагара Дмитрий Степанович": 1,
-      "Синицын Владимир Алексеевич": 2,
-      "Скворцов Юрий Петрович": 3,
-      "Фральцова Тамара Анатольевна": 46,
-      "Против всех": 6
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 1,
+      "gas:candidate-vibid:342300167133": 2,
+      "gas:candidate-vibid:1001000113936": 1,
+      "gas:candidate-vibid:1001000190352": 2,
+      "gas:candidate-vibid:1001000121852": 3,
+      "gas:candidate-vibid:1001000225941": 46,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 7,
-      "Приставка Анатолий Григорьевич": 12,
-      "Сагара Дмитрий Степанович": 0,
-      "Синицын Владимир Алексеевич": 0,
-      "Скворцов Юрий Петрович": 0,
-      "Фральцова Тамара Анатольевна": 64,
-      "Против всех": 12
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 7,
+      "gas:candidate-vibid:342300167133": 12,
+      "gas:candidate-vibid:1001000113936": 0,
+      "gas:candidate-vibid:1001000190352": 0,
+      "gas:candidate-vibid:1001000121852": 0,
+      "gas:candidate-vibid:1001000225941": 64,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167381&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 6,
-      "Приставка Анатолий Григорьевич": 8,
-      "Сагара Дмитрий Степанович": 3,
-      "Синицын Владимир Алексеевич": 3,
-      "Скворцов Юрий Петрович": 12,
-      "Фральцова Тамара Анатольевна": 317,
-      "Против всех": 10
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 6,
+      "gas:candidate-vibid:342300167133": 8,
+      "gas:candidate-vibid:1001000113936": 3,
+      "gas:candidate-vibid:1001000190352": 3,
+      "gas:candidate-vibid:1001000121852": 12,
+      "gas:candidate-vibid:1001000225941": 317,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 83,
-      "Сагара Дмитрий Степанович": 26,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 75,
-      "Фральцова Тамара Анатольевна": 423,
-      "Против всех": 66
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 83,
+      "gas:candidate-vibid:1001000113936": 26,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 75,
+      "gas:candidate-vibid:1001000225941": 423,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 22,
-      "Приставка Анатолий Григорьевич": 54,
-      "Сагара Дмитрий Степанович": 28,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 33,
-      "Фральцова Тамара Анатольевна": 358,
-      "Против всех": 58
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 22,
+      "gas:candidate-vibid:342300167133": 54,
+      "gas:candidate-vibid:1001000113936": 28,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 33,
+      "gas:candidate-vibid:1001000225941": 358,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 80,
-      "Сагара Дмитрий Степанович": 24,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 51,
-      "Фральцова Тамара Анатольевна": 394,
-      "Против всех": 63
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 80,
+      "gas:candidate-vibid:1001000113936": 24,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 51,
+      "gas:candidate-vibid:1001000225941": 394,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 29,
-      "Приставка Анатолий Григорьевич": 80,
-      "Сагара Дмитрий Степанович": 37,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 57,
-      "Фральцова Тамара Анатольевна": 544,
-      "Против всех": 74
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 29,
+      "gas:candidate-vibid:342300167133": 80,
+      "gas:candidate-vibid:1001000113936": 37,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 57,
+      "gas:candidate-vibid:1001000225941": 544,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 56,
-      "Приставка Анатолий Григорьевич": 162,
-      "Сагара Дмитрий Степанович": 44,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 79,
-      "Фральцова Тамара Анатольевна": 529,
-      "Против всех": 142
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 56,
+      "gas:candidate-vibid:342300167133": 162,
+      "gas:candidate-vibid:1001000113936": 44,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 79,
+      "gas:candidate-vibid:1001000225941": 529,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 46,
-      "Приставка Анатолий Григорьевич": 184,
-      "Сагара Дмитрий Степанович": 66,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 68,
-      "Фральцова Тамара Анатольевна": 551,
-      "Против всех": 164
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 46,
+      "gas:candidate-vibid:342300167133": 184,
+      "gas:candidate-vibid:1001000113936": 66,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 68,
+      "gas:candidate-vibid:1001000225941": 551,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 49,
-      "Приставка Анатолий Григорьевич": 228,
-      "Сагара Дмитрий Степанович": 68,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 107,
-      "Фральцова Тамара Анатольевна": 692,
-      "Против всех": 171
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 49,
+      "gas:candidate-vibid:342300167133": 228,
+      "gas:candidate-vibid:1001000113936": 68,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 107,
+      "gas:candidate-vibid:1001000225941": 692,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 61,
-      "Приставка Анатолий Григорьевич": 234,
-      "Сагара Дмитрий Степанович": 76,
-      "Синицын Владимир Алексеевич": 31,
-      "Скворцов Юрий Петрович": 80,
-      "Фральцова Тамара Анатольевна": 592,
-      "Против всех": 187
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 61,
+      "gas:candidate-vibid:342300167133": 234,
+      "gas:candidate-vibid:1001000113936": 76,
+      "gas:candidate-vibid:1001000190352": 31,
+      "gas:candidate-vibid:1001000121852": 80,
+      "gas:candidate-vibid:1001000225941": 592,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 40,
-      "Приставка Анатолий Григорьевич": 210,
-      "Сагара Дмитрий Степанович": 67,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 70,
-      "Фральцова Тамара Анатольевна": 603,
-      "Против всех": 164
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 40,
+      "gas:candidate-vibid:342300167133": 210,
+      "gas:candidate-vibid:1001000113936": 67,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 70,
+      "gas:candidate-vibid:1001000225941": 603,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 36,
-      "Приставка Анатолий Григорьевич": 140,
-      "Сагара Дмитрий Степанович": 77,
-      "Синицын Владимир Алексеевич": 14,
-      "Скворцов Юрий Петрович": 81,
-      "Фральцова Тамара Анатольевна": 527,
-      "Против всех": 116
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 36,
+      "gas:candidate-vibid:342300167133": 140,
+      "gas:candidate-vibid:1001000113936": 77,
+      "gas:candidate-vibid:1001000190352": 14,
+      "gas:candidate-vibid:1001000121852": 81,
+      "gas:candidate-vibid:1001000225941": 527,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 68,
-      "Приставка Анатолий Григорьевич": 253,
-      "Сагара Дмитрий Степанович": 69,
-      "Синицын Владимир Алексеевич": 29,
-      "Скворцов Юрий Петрович": 104,
-      "Фральцова Тамара Анатольевна": 705,
-      "Против всех": 172
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 68,
+      "gas:candidate-vibid:342300167133": 253,
+      "gas:candidate-vibid:1001000113936": 69,
+      "gas:candidate-vibid:1001000190352": 29,
+      "gas:candidate-vibid:1001000121852": 104,
+      "gas:candidate-vibid:1001000225941": 705,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 208,
-      "Сагара Дмитрий Степанович": 71,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 88,
-      "Фральцова Тамара Анатольевна": 645,
-      "Против всех": 157
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 208,
+      "gas:candidate-vibid:1001000113936": 71,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 88,
+      "gas:candidate-vibid:1001000225941": 645,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 214,
-      "Сагара Дмитрий Степанович": 88,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 125,
-      "Фральцова Тамара Анатольевна": 436,
-      "Против всех": 120
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 214,
+      "gas:candidate-vibid:1001000113936": 88,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 125,
+      "gas:candidate-vibid:1001000225941": 436,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 28,
-      "Приставка Анатолий Григорьевич": 192,
-      "Сагара Дмитрий Степанович": 76,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 96,
-      "Фральцова Тамара Анатольевна": 410,
-      "Против всех": 129
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 28,
+      "gas:candidate-vibid:342300167133": 192,
+      "gas:candidate-vibid:1001000113936": 76,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 96,
+      "gas:candidate-vibid:1001000225941": 410,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 46,
-      "Приставка Анатолий Григорьевич": 264,
-      "Сагара Дмитрий Степанович": 97,
-      "Синицын Владимир Алексеевич": 26,
-      "Скворцов Юрий Петрович": 157,
-      "Фральцова Тамара Анатольевна": 606,
-      "Против всех": 149
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 46,
+      "gas:candidate-vibid:342300167133": 264,
+      "gas:candidate-vibid:1001000113936": 97,
+      "gas:candidate-vibid:1001000190352": 26,
+      "gas:candidate-vibid:1001000121852": 157,
+      "gas:candidate-vibid:1001000225941": 606,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 49,
-      "Приставка Анатолий Григорьевич": 226,
-      "Сагара Дмитрий Степанович": 111,
-      "Синицын Владимир Алексеевич": 22,
-      "Скворцов Юрий Петрович": 150,
-      "Фральцова Тамара Анатольевна": 697,
-      "Против всех": 193
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 49,
+      "gas:candidate-vibid:342300167133": 226,
+      "gas:candidate-vibid:1001000113936": 111,
+      "gas:candidate-vibid:1001000190352": 22,
+      "gas:candidate-vibid:1001000121852": 150,
+      "gas:candidate-vibid:1001000225941": 697,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 292,
-      "Сагара Дмитрий Степанович": 56,
-      "Синицын Владимир Алексеевич": 13,
-      "Скворцов Юрий Петрович": 112,
-      "Фральцова Тамара Анатольевна": 429,
-      "Против всех": 141
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 292,
+      "gas:candidate-vibid:1001000113936": 56,
+      "gas:candidate-vibid:1001000190352": 13,
+      "gas:candidate-vibid:1001000121852": 112,
+      "gas:candidate-vibid:1001000225941": 429,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 49,
-      "Приставка Анатолий Григорьевич": 249,
-      "Сагара Дмитрий Степанович": 61,
-      "Синицын Владимир Алексеевич": 23,
-      "Скворцов Юрий Петрович": 63,
-      "Фральцова Тамара Анатольевна": 421,
-      "Против всех": 132
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 49,
+      "gas:candidate-vibid:342300167133": 249,
+      "gas:candidate-vibid:1001000113936": 61,
+      "gas:candidate-vibid:1001000190352": 23,
+      "gas:candidate-vibid:1001000121852": 63,
+      "gas:candidate-vibid:1001000225941": 421,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 81,
-      "Приставка Анатолий Григорьевич": 181,
-      "Сагара Дмитрий Степанович": 56,
-      "Синицын Владимир Алексеевич": 23,
-      "Скворцов Юрий Петрович": 94,
-      "Фральцова Тамара Анатольевна": 545,
-      "Против всех": 145
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 81,
+      "gas:candidate-vibid:342300167133": 181,
+      "gas:candidate-vibid:1001000113936": 56,
+      "gas:candidate-vibid:1001000190352": 23,
+      "gas:candidate-vibid:1001000121852": 94,
+      "gas:candidate-vibid:1001000225941": 545,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 51,
-      "Приставка Анатолий Григорьевич": 205,
-      "Сагара Дмитрий Степанович": 80,
-      "Синицын Владимир Алексеевич": 23,
-      "Скворцов Юрий Петрович": 85,
-      "Фральцова Тамара Анатольевна": 497,
-      "Против всех": 179
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 51,
+      "gas:candidate-vibid:342300167133": 205,
+      "gas:candidate-vibid:1001000113936": 80,
+      "gas:candidate-vibid:1001000190352": 23,
+      "gas:candidate-vibid:1001000121852": 85,
+      "gas:candidate-vibid:1001000225941": 497,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 202,
-      "Сагара Дмитрий Степанович": 98,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 133,
-      "Фральцова Тамара Анатольевна": 470,
-      "Против всех": 104
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 202,
+      "gas:candidate-vibid:1001000113936": 98,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 133,
+      "gas:candidate-vibid:1001000225941": 470,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 46,
-      "Приставка Анатолий Григорьевич": 242,
-      "Сагара Дмитрий Степанович": 72,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 77,
-      "Фральцова Тамара Анатольевна": 581,
-      "Против всех": 163
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 46,
+      "gas:candidate-vibid:342300167133": 242,
+      "gas:candidate-vibid:1001000113936": 72,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 77,
+      "gas:candidate-vibid:1001000225941": 581,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 116,
-      "Сагара Дмитрий Степанович": 60,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 87,
-      "Фральцова Тамара Анатольевна": 478,
-      "Против всех": 100
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 116,
+      "gas:candidate-vibid:1001000113936": 60,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 87,
+      "gas:candidate-vibid:1001000225941": 478,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 41,
-      "Приставка Анатолий Григорьевич": 122,
-      "Сагара Дмитрий Степанович": 54,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 87,
-      "Фральцова Тамара Анатольевна": 661,
-      "Против всех": 150
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 41,
+      "gas:candidate-vibid:342300167133": 122,
+      "gas:candidate-vibid:1001000113936": 54,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 87,
+      "gas:candidate-vibid:1001000225941": 661,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 512,
-      "Петрик Иван Павлович": 341,
-      "Приставка Анатолий Григорьевич": 110,
-      "Сагара Дмитрий Степанович": 84,
-      "Синицын Владимир Алексеевич": 20,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 14,
-      "Против всех": 178
+      "gas:candidate-vibid:342300167276": 512,
+      "gas:candidate-vibid:1001000136060": 341,
+      "gas:candidate-vibid:342300167133": 110,
+      "gas:candidate-vibid:1001000113936": 84,
+      "gas:candidate-vibid:1001000190352": 20,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 14,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 347,
-      "Сагара Дмитрий Степанович": 88,
-      "Синицын Владимир Алексеевич": 35,
-      "Скворцов Юрий Петрович": 91,
-      "Фральцова Тамара Анатольевна": 439,
-      "Против всех": 179
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 347,
+      "gas:candidate-vibid:1001000113936": 88,
+      "gas:candidate-vibid:1001000190352": 35,
+      "gas:candidate-vibid:1001000121852": 91,
+      "gas:candidate-vibid:1001000225941": 439,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 48,
-      "Приставка Анатолий Григорьевич": 309,
-      "Сагара Дмитрий Степанович": 83,
-      "Синицын Владимир Алексеевич": 24,
-      "Скворцов Юрий Петрович": 84,
-      "Фральцова Тамара Анатольевна": 492,
-      "Против всех": 165
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 48,
+      "gas:candidate-vibid:342300167133": 309,
+      "gas:candidate-vibid:1001000113936": 83,
+      "gas:candidate-vibid:1001000190352": 24,
+      "gas:candidate-vibid:1001000121852": 84,
+      "gas:candidate-vibid:1001000225941": 492,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 341,
-      "Сагара Дмитрий Степанович": 127,
-      "Синицын Владимир Алексеевич": 26,
-      "Скворцов Юрий Петрович": 85,
-      "Фральцова Тамара Анатольевна": 474,
-      "Против всех": 196
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 341,
+      "gas:candidate-vibid:1001000113936": 127,
+      "gas:candidate-vibid:1001000190352": 26,
+      "gas:candidate-vibid:1001000121852": 85,
+      "gas:candidate-vibid:1001000225941": 474,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 36,
-      "Приставка Анатолий Григорьевич": 371,
-      "Сагара Дмитрий Степанович": 115,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 102,
-      "Фральцова Тамара Анатольевна": 554,
-      "Против всех": 204
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 36,
+      "gas:candidate-vibid:342300167133": 371,
+      "gas:candidate-vibid:1001000113936": 115,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 102,
+      "gas:candidate-vibid:1001000225941": 554,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 47,
-      "Приставка Анатолий Григорьевич": 441,
-      "Сагара Дмитрий Степанович": 151,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 97,
-      "Фральцова Тамара Анатольевна": 681,
-      "Против всех": 244
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 47,
+      "gas:candidate-vibid:342300167133": 441,
+      "gas:candidate-vibid:1001000113936": 151,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 97,
+      "gas:candidate-vibid:1001000225941": 681,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 14,
-      "Петрик Иван Павлович": 45,
-      "Приставка Анатолий Григорьевич": 311,
-      "Сагара Дмитрий Степанович": 109,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 63,
-      "Фральцова Тамара Анатольевна": 580,
-      "Против всех": 175
+      "gas:candidate-vibid:342300167276": 14,
+      "gas:candidate-vibid:1001000136060": 45,
+      "gas:candidate-vibid:342300167133": 311,
+      "gas:candidate-vibid:1001000113936": 109,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 63,
+      "gas:candidate-vibid:1001000225941": 580,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 18,
-      "Приставка Анатолий Григорьевич": 15,
-      "Сагара Дмитрий Степанович": 5,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 11,
-      "Фральцова Тамара Анатольевна": 130,
-      "Против всех": 21
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 18,
+      "gas:candidate-vibid:342300167133": 15,
+      "gas:candidate-vibid:1001000113936": 5,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 11,
+      "gas:candidate-vibid:1001000225941": 130,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 33,
-      "Сагара Дмитрий Степанович": 11,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 10,
-      "Фральцова Тамара Анатольевна": 752,
-      "Против всех": 44
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 33,
+      "gas:candidate-vibid:1001000113936": 11,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 10,
+      "gas:candidate-vibid:1001000225941": 752,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 4,
-      "Приставка Анатолий Григорьевич": 14,
-      "Сагара Дмитрий Степанович": 2,
-      "Синицын Владимир Алексеевич": 0,
-      "Скворцов Юрий Петрович": 6,
-      "Фральцова Тамара Анатольевна": 25,
-      "Против всех": 10
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 4,
+      "gas:candidate-vibid:342300167133": 14,
+      "gas:candidate-vibid:1001000113936": 2,
+      "gas:candidate-vibid:1001000190352": 0,
+      "gas:candidate-vibid:1001000121852": 6,
+      "gas:candidate-vibid:1001000225941": 25,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 48,
-      "Приставка Анатолий Григорьевич": 73,
-      "Сагара Дмитрий Степанович": 22,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 49,
-      "Фральцова Тамара Анатольевна": 820,
-      "Против всех": 95
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 48,
+      "gas:candidate-vibid:342300167133": 73,
+      "gas:candidate-vibid:1001000113936": 22,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 49,
+      "gas:candidate-vibid:1001000225941": 820,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 8,
-      "Приставка Анатолий Григорьевич": 35,
-      "Сагара Дмитрий Степанович": 12,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 32,
-      "Фральцова Тамара Анатольевна": 214,
-      "Против всех": 34
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 8,
+      "gas:candidate-vibid:342300167133": 35,
+      "gas:candidate-vibid:1001000113936": 12,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 32,
+      "gas:candidate-vibid:1001000225941": 214,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 67,
-      "Сагара Дмитрий Степанович": 37,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 98,
-      "Фральцова Тамара Анатольевна": 510,
-      "Против всех": 82
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 67,
+      "gas:candidate-vibid:1001000113936": 37,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 98,
+      "gas:candidate-vibid:1001000225941": 510,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 51,
-      "Приставка Анатолий Григорьевич": 115,
-      "Сагара Дмитрий Степанович": 65,
-      "Синицын Владимир Алексеевич": 23,
-      "Скворцов Юрий Петрович": 101,
-      "Фральцова Тамара Анатольевна": 685,
-      "Против всех": 192
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 51,
+      "gas:candidate-vibid:342300167133": 115,
+      "gas:candidate-vibid:1001000113936": 65,
+      "gas:candidate-vibid:1001000190352": 23,
+      "gas:candidate-vibid:1001000121852": 101,
+      "gas:candidate-vibid:1001000225941": 685,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 16,
-      "Приставка Анатолий Григорьевич": 53,
-      "Сагара Дмитрий Степанович": 24,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 64,
-      "Фральцова Тамара Анатольевна": 292,
-      "Против всех": 48
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 16,
+      "gas:candidate-vibid:342300167133": 53,
+      "gas:candidate-vibid:1001000113936": 24,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 64,
+      "gas:candidate-vibid:1001000225941": 292,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 47,
-      "Приставка Анатолий Григорьевич": 88,
-      "Сагара Дмитрий Степанович": 51,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 101,
-      "Фральцова Тамара Анатольевна": 532,
-      "Против всех": 90
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 47,
+      "gas:candidate-vibid:342300167133": 88,
+      "gas:candidate-vibid:1001000113936": 51,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 101,
+      "gas:candidate-vibid:1001000225941": 532,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 29,
-      "Приставка Анатолий Григорьевич": 87,
-      "Сагара Дмитрий Степанович": 28,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 59,
-      "Фральцова Тамара Анатольевна": 645,
-      "Против всех": 75
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 29,
+      "gas:candidate-vibid:342300167133": 87,
+      "gas:candidate-vibid:1001000113936": 28,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 59,
+      "gas:candidate-vibid:1001000225941": 645,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 36,
-      "Приставка Анатолий Григорьевич": 74,
-      "Сагара Дмитрий Степанович": 76,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 65,
-      "Фральцова Тамара Анатольевна": 398,
-      "Против всех": 54
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 36,
+      "gas:candidate-vibid:342300167133": 74,
+      "gas:candidate-vibid:1001000113936": 76,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 65,
+      "gas:candidate-vibid:1001000225941": 398,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 27,
-      "Приставка Анатолий Григорьевич": 46,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 44,
-      "Фральцова Тамара Анатольевна": 369,
-      "Против всех": 38
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 27,
+      "gas:candidate-vibid:342300167133": 46,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 44,
+      "gas:candidate-vibid:1001000225941": 369,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 48,
-      "Сагара Дмитрий Степанович": 16,
-      "Синицын Владимир Алексеевич": 7,
-      "Скворцов Юрий Петрович": 26,
-      "Фральцова Тамара Анатольевна": 417,
-      "Против всех": 66
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 48,
+      "gas:candidate-vibid:1001000113936": 16,
+      "gas:candidate-vibid:1001000190352": 7,
+      "gas:candidate-vibid:1001000121852": 26,
+      "gas:candidate-vibid:1001000225941": 417,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 39,
-      "Приставка Анатолий Григорьевич": 56,
-      "Сагара Дмитрий Степанович": 30,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 51,
-      "Фральцова Тамара Анатольевна": 491,
-      "Против всех": 81
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 39,
+      "gas:candidate-vibid:342300167133": 56,
+      "gas:candidate-vibid:1001000113936": 30,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 51,
+      "gas:candidate-vibid:1001000225941": 491,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 22,
-      "Приставка Анатолий Григорьевич": 104,
-      "Сагара Дмитрий Степанович": 15,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 58,
-      "Фральцова Тамара Анатольевна": 382,
-      "Против всех": 73
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 22,
+      "gas:candidate-vibid:342300167133": 104,
+      "gas:candidate-vibid:1001000113936": 15,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 58,
+      "gas:candidate-vibid:1001000225941": 382,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 34,
-      "Приставка Анатолий Григорьевич": 192,
-      "Сагара Дмитрий Степанович": 31,
-      "Синицын Владимир Алексеевич": 13,
-      "Скворцов Юрий Петрович": 126,
-      "Фральцова Тамара Анатольевна": 573,
-      "Против всех": 105
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 34,
+      "gas:candidate-vibid:342300167133": 192,
+      "gas:candidate-vibid:1001000113936": 31,
+      "gas:candidate-vibid:1001000190352": 13,
+      "gas:candidate-vibid:1001000121852": 126,
+      "gas:candidate-vibid:1001000225941": 573,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 61,
-      "Сагара Дмитрий Степанович": 19,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 75,
-      "Фральцова Тамара Анатольевна": 298,
-      "Против всех": 62
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 61,
+      "gas:candidate-vibid:1001000113936": 19,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 75,
+      "gas:candidate-vibid:1001000225941": 298,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167382&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 63,
-      "Приставка Анатолий Григорьевич": 322,
-      "Сагара Дмитрий Степанович": 57,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 115,
-      "Фральцова Тамара Анатольевна": 520,
-      "Против всех": 182
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 63,
+      "gas:candidate-vibid:342300167133": 322,
+      "gas:candidate-vibid:1001000113936": 57,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 115,
+      "gas:candidate-vibid:1001000225941": 520,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 45,
-      "Приставка Анатолий Григорьевич": 205,
-      "Сагара Дмитрий Степанович": 93,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 134,
-      "Фральцова Тамара Анатольевна": 661,
-      "Против всех": 133
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 45,
+      "gas:candidate-vibid:342300167133": 205,
+      "gas:candidate-vibid:1001000113936": 93,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 134,
+      "gas:candidate-vibid:1001000225941": 661,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 48,
-      "Приставка Анатолий Григорьевич": 182,
-      "Сагара Дмитрий Степанович": 91,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 113,
-      "Фральцова Тамара Анатольевна": 668,
-      "Против всех": 132
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 48,
+      "gas:candidate-vibid:342300167133": 182,
+      "gas:candidate-vibid:1001000113936": 91,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 113,
+      "gas:candidate-vibid:1001000225941": 668,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 44,
-      "Приставка Анатолий Григорьевич": 351,
-      "Сагара Дмитрий Степанович": 57,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 88,
-      "Фральцова Тамара Анатольевна": 553,
-      "Против всех": 151
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 44,
+      "gas:candidate-vibid:342300167133": 351,
+      "gas:candidate-vibid:1001000113936": 57,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 88,
+      "gas:candidate-vibid:1001000225941": 553,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 55,
-      "Приставка Анатолий Григорьевич": 211,
-      "Сагара Дмитрий Степанович": 83,
-      "Синицын Владимир Алексеевич": 22,
-      "Скворцов Юрий Петрович": 117,
-      "Фральцова Тамара Анатольевна": 661,
-      "Против всех": 215
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 55,
+      "gas:candidate-vibid:342300167133": 211,
+      "gas:candidate-vibid:1001000113936": 83,
+      "gas:candidate-vibid:1001000190352": 22,
+      "gas:candidate-vibid:1001000121852": 117,
+      "gas:candidate-vibid:1001000225941": 661,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 63,
-      "Приставка Анатолий Григорьевич": 186,
-      "Сагара Дмитрий Степанович": 50,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 121,
-      "Фральцова Тамара Анатольевна": 656,
-      "Против всех": 164
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 63,
+      "gas:candidate-vibid:342300167133": 186,
+      "gas:candidate-vibid:1001000113936": 50,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 121,
+      "gas:candidate-vibid:1001000225941": 656,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 50,
-      "Приставка Анатолий Григорьевич": 218,
-      "Сагара Дмитрий Степанович": 59,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 148,
-      "Фральцова Тамара Анатольевна": 609,
-      "Против всех": 163
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 50,
+      "gas:candidate-vibid:342300167133": 218,
+      "gas:candidate-vibid:1001000113936": 59,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 148,
+      "gas:candidate-vibid:1001000225941": 609,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 54,
-      "Приставка Анатолий Григорьевич": 175,
-      "Сагара Дмитрий Степанович": 49,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 123,
-      "Фральцова Тамара Анатольевна": 707,
-      "Против всех": 148
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 54,
+      "gas:candidate-vibid:342300167133": 175,
+      "gas:candidate-vibid:1001000113936": 49,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 123,
+      "gas:candidate-vibid:1001000225941": 707,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 39,
-      "Приставка Анатолий Григорьевич": 199,
-      "Сагара Дмитрий Степанович": 104,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 153,
-      "Фральцова Тамара Анатольевна": 716,
-      "Против всех": 199
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 39,
+      "gas:candidate-vibid:342300167133": 199,
+      "gas:candidate-vibid:1001000113936": 104,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 153,
+      "gas:candidate-vibid:1001000225941": 716,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 158,
-      "Сагара Дмитрий Степанович": 25,
-      "Синицын Владимир Алексеевич": 22,
-      "Скворцов Юрий Петрович": 114,
-      "Фральцова Тамара Анатольевна": 596,
-      "Против всех": 115
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 158,
+      "gas:candidate-vibid:1001000113936": 25,
+      "gas:candidate-vibid:1001000190352": 22,
+      "gas:candidate-vibid:1001000121852": 114,
+      "gas:candidate-vibid:1001000225941": 596,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 109,
-      "Сагара Дмитрий Степанович": 71,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 81,
-      "Фральцова Тамара Анатольевна": 553,
-      "Против всех": 83
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 109,
+      "gas:candidate-vibid:1001000113936": 71,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 81,
+      "gas:candidate-vibid:1001000225941": 553,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 49,
-      "Приставка Анатолий Григорьевич": 137,
-      "Сагара Дмитрий Степанович": 44,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 95,
-      "Фральцова Тамара Анатольевна": 640,
-      "Против всех": 124
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 49,
+      "gas:candidate-vibid:342300167133": 137,
+      "gas:candidate-vibid:1001000113936": 44,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 95,
+      "gas:candidate-vibid:1001000225941": 640,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 114,
-      "Сагара Дмитрий Степанович": 51,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 81,
-      "Фральцова Тамара Анатольевна": 522,
-      "Против всех": 134
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 114,
+      "gas:candidate-vibid:1001000113936": 51,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 81,
+      "gas:candidate-vibid:1001000225941": 522,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 192,
-      "Сагара Дмитрий Степанович": 59,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 99,
-      "Фральцова Тамара Анатольевна": 672,
-      "Против всех": 160
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 192,
+      "gas:candidate-vibid:1001000113936": 59,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 99,
+      "gas:candidate-vibid:1001000225941": 672,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 51,
-      "Приставка Анатолий Григорьевич": 186,
-      "Сагара Дмитрий Степанович": 64,
-      "Синицын Владимир Алексеевич": 20,
-      "Скворцов Юрий Петрович": 115,
-      "Фральцова Тамара Анатольевна": 749,
-      "Против всех": 159
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 51,
+      "gas:candidate-vibid:342300167133": 186,
+      "gas:candidate-vibid:1001000113936": 64,
+      "gas:candidate-vibid:1001000190352": 20,
+      "gas:candidate-vibid:1001000121852": 115,
+      "gas:candidate-vibid:1001000225941": 749,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 40,
-      "Приставка Анатолий Григорьевич": 200,
-      "Сагара Дмитрий Степанович": 79,
-      "Синицын Владимир Алексеевич": 14,
-      "Скворцов Юрий Петрович": 75,
-      "Фральцова Тамара Анатольевна": 697,
-      "Против всех": 200
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 40,
+      "gas:candidate-vibid:342300167133": 200,
+      "gas:candidate-vibid:1001000113936": 79,
+      "gas:candidate-vibid:1001000190352": 14,
+      "gas:candidate-vibid:1001000121852": 75,
+      "gas:candidate-vibid:1001000225941": 697,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 0,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 360,
-      "Сагара Дмитрий Степанович": 82,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 150,
-      "Фральцова Тамара Анатольевна": 602,
-      "Против всех": 185
+      "gas:candidate-vibid:342300167276": 0,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 360,
+      "gas:candidate-vibid:1001000113936": 82,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 150,
+      "gas:candidate-vibid:1001000225941": 602,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 154,
-      "Сагара Дмитрий Степанович": 28,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 91,
-      "Фральцова Тамара Анатольевна": 526,
-      "Против всех": 87
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 154,
+      "gas:candidate-vibid:1001000113936": 28,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 91,
+      "gas:candidate-vibid:1001000225941": 526,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167383&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 315,
-      "Сагара Дмитрий Степанович": 106,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 65,
-      "Фральцова Тамара Анатольевна": 489,
-      "Против всех": 149
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 315,
+      "gas:candidate-vibid:1001000113936": 106,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 65,
+      "gas:candidate-vibid:1001000225941": 489,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 41,
-      "Приставка Анатолий Григорьевич": 237,
-      "Сагара Дмитрий Степанович": 189,
-      "Синицын Владимир Алексеевич": 27,
-      "Скворцов Юрий Петрович": 133,
-      "Фральцова Тамара Анатольевна": 634,
-      "Против всех": 170
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 41,
+      "gas:candidate-vibid:342300167133": 237,
+      "gas:candidate-vibid:1001000113936": 189,
+      "gas:candidate-vibid:1001000190352": 27,
+      "gas:candidate-vibid:1001000121852": 133,
+      "gas:candidate-vibid:1001000225941": 634,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 209,
-      "Сагара Дмитрий Степанович": 110,
-      "Синицын Владимир Алексеевич": 29,
-      "Скворцов Юрий Петрович": 107,
-      "Фральцова Тамара Анатольевна": 603,
-      "Против всех": 189
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 209,
+      "gas:candidate-vibid:1001000113936": 110,
+      "gas:candidate-vibid:1001000190352": 29,
+      "gas:candidate-vibid:1001000121852": 107,
+      "gas:candidate-vibid:1001000225941": 603,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 166,
-      "Сагара Дмитрий Степанович": 78,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 65,
-      "Фральцова Тамара Анатольевна": 426,
-      "Против всех": 155
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 166,
+      "gas:candidate-vibid:1001000113936": 78,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 65,
+      "gas:candidate-vibid:1001000225941": 426,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 14,
-      "Петрик Иван Павлович": 47,
-      "Приставка Анатолий Григорьевич": 282,
-      "Сагара Дмитрий Степанович": 118,
-      "Синицын Владимир Алексеевич": 23,
-      "Скворцов Юрий Петрович": 102,
-      "Фральцова Тамара Анатольевна": 562,
-      "Против всех": 179
+      "gas:candidate-vibid:342300167276": 14,
+      "gas:candidate-vibid:1001000136060": 47,
+      "gas:candidate-vibid:342300167133": 282,
+      "gas:candidate-vibid:1001000113936": 118,
+      "gas:candidate-vibid:1001000190352": 23,
+      "gas:candidate-vibid:1001000121852": 102,
+      "gas:candidate-vibid:1001000225941": 562,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 48,
-      "Приставка Анатолий Григорьевич": 133,
-      "Сагара Дмитрий Степанович": 93,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 58,
-      "Фральцова Тамара Анатольевна": 619,
-      "Против всех": 195
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 48,
+      "gas:candidate-vibid:342300167133": 133,
+      "gas:candidate-vibid:1001000113936": 93,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 58,
+      "gas:candidate-vibid:1001000225941": 619,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 16,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 343,
-      "Сагара Дмитрий Степанович": 164,
-      "Синицын Владимир Алексеевич": 26,
-      "Скворцов Юрий Петрович": 86,
-      "Фральцова Тамара Анатольевна": 558,
-      "Против всех": 185
+      "gas:candidate-vibid:342300167276": 16,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 343,
+      "gas:candidate-vibid:1001000113936": 164,
+      "gas:candidate-vibid:1001000190352": 26,
+      "gas:candidate-vibid:1001000121852": 86,
+      "gas:candidate-vibid:1001000225941": 558,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 46,
-      "Приставка Анатолий Григорьевич": 306,
-      "Сагара Дмитрий Степанович": 167,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 90,
-      "Фральцова Тамара Анатольевна": 612,
-      "Против всех": 197
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 46,
+      "gas:candidate-vibid:342300167133": 306,
+      "gas:candidate-vibid:1001000113936": 167,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 90,
+      "gas:candidate-vibid:1001000225941": 612,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 223,
-      "Сагара Дмитрий Степанович": 149,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 71,
-      "Фральцова Тамара Анатольевна": 503,
-      "Против всех": 160
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 223,
+      "gas:candidate-vibid:1001000113936": 149,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 71,
+      "gas:candidate-vibid:1001000225941": 503,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 14,
-      "Петрик Иван Павлович": 67,
-      "Приставка Анатолий Григорьевич": 314,
-      "Сагара Дмитрий Степанович": 192,
-      "Синицын Владимир Алексеевич": 21,
-      "Скворцов Юрий Петрович": 95,
-      "Фральцова Тамара Анатольевна": 525,
-      "Против всех": 179
+      "gas:candidate-vibid:342300167276": 14,
+      "gas:candidate-vibid:1001000136060": 67,
+      "gas:candidate-vibid:342300167133": 314,
+      "gas:candidate-vibid:1001000113936": 192,
+      "gas:candidate-vibid:1001000190352": 21,
+      "gas:candidate-vibid:1001000121852": 95,
+      "gas:candidate-vibid:1001000225941": 525,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 311,
-      "Сагара Дмитрий Степанович": 190,
-      "Синицын Владимир Алексеевич": 28,
-      "Скворцов Юрий Петрович": 120,
-      "Фральцова Тамара Анатольевна": 564,
-      "Против всех": 191
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 311,
+      "gas:candidate-vibid:1001000113936": 190,
+      "gas:candidate-vibid:1001000190352": 28,
+      "gas:candidate-vibid:1001000121852": 120,
+      "gas:candidate-vibid:1001000225941": 564,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 39,
-      "Приставка Анатолий Григорьевич": 186,
-      "Сагара Дмитрий Степанович": 112,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 106,
-      "Фральцова Тамара Анатольевна": 484,
-      "Против всех": 180
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 39,
+      "gas:candidate-vibid:342300167133": 186,
+      "gas:candidate-vibid:1001000113936": 112,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 106,
+      "gas:candidate-vibid:1001000225941": 484,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 246,
-      "Сагара Дмитрий Степанович": 112,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 99,
-      "Фральцова Тамара Анатольевна": 562,
-      "Против всех": 155
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 246,
+      "gas:candidate-vibid:1001000113936": 112,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 99,
+      "gas:candidate-vibid:1001000225941": 562,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 58,
-      "Приставка Анатолий Григорьевич": 214,
-      "Сагара Дмитрий Степанович": 100,
-      "Синицын Владимир Алексеевич": 14,
-      "Скворцов Юрий Петрович": 90,
-      "Фральцова Тамара Анатольевна": 509,
-      "Против всех": 152
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 58,
+      "gas:candidate-vibid:342300167133": 214,
+      "gas:candidate-vibid:1001000113936": 100,
+      "gas:candidate-vibid:1001000190352": 14,
+      "gas:candidate-vibid:1001000121852": 90,
+      "gas:candidate-vibid:1001000225941": 509,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 100,
-      "Сагара Дмитрий Степанович": 95,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 62,
-      "Фральцова Тамара Анатольевна": 408,
-      "Против всех": 125
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 100,
+      "gas:candidate-vibid:1001000113936": 95,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 62,
+      "gas:candidate-vibid:1001000225941": 408,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 44,
-      "Приставка Анатолий Григорьевич": 292,
-      "Сагара Дмитрий Степанович": 172,
-      "Синицын Владимир Алексеевич": 21,
-      "Скворцов Юрий Петрович": 81,
-      "Фральцова Тамара Анатольевна": 507,
-      "Против всех": 189
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 44,
+      "gas:candidate-vibid:342300167133": 292,
+      "gas:candidate-vibid:1001000113936": 172,
+      "gas:candidate-vibid:1001000190352": 21,
+      "gas:candidate-vibid:1001000121852": 81,
+      "gas:candidate-vibid:1001000225941": 507,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 262,
-      "Сагара Дмитрий Степанович": 193,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 111,
-      "Фральцова Тамара Анатольевна": 480,
-      "Против всех": 151
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 262,
+      "gas:candidate-vibid:1001000113936": 193,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 111,
+      "gas:candidate-vibid:1001000225941": 480,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 39,
-      "Приставка Анатолий Григорьевич": 273,
-      "Сагара Дмитрий Степанович": 295,
-      "Синицын Владимир Алексеевич": 22,
-      "Скворцов Юрий Петрович": 108,
-      "Фральцова Тамара Анатольевна": 516,
-      "Против всех": 169
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 39,
+      "gas:candidate-vibid:342300167133": 273,
+      "gas:candidate-vibid:1001000113936": 295,
+      "gas:candidate-vibid:1001000190352": 22,
+      "gas:candidate-vibid:1001000121852": 108,
+      "gas:candidate-vibid:1001000225941": 516,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 244,
-      "Сагара Дмитрий Степанович": 149,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 86,
-      "Фральцова Тамара Анатольевна": 422,
-      "Против всех": 185
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 244,
+      "gas:candidate-vibid:1001000113936": 149,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 86,
+      "gas:candidate-vibid:1001000225941": 422,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 266,
-      "Сагара Дмитрий Степанович": 125,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 79,
-      "Фральцова Тамара Анатольевна": 446,
-      "Против всех": 168
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 266,
+      "gas:candidate-vibid:1001000113936": 125,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 79,
+      "gas:candidate-vibid:1001000225941": 446,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 40,
-      "Приставка Анатолий Григорьевич": 213,
-      "Сагара Дмитрий Степанович": 92,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 64,
-      "Фральцова Тамара Анатольевна": 376,
-      "Против всех": 141
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 40,
+      "gas:candidate-vibid:342300167133": 213,
+      "gas:candidate-vibid:1001000113936": 92,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 64,
+      "gas:candidate-vibid:1001000225941": 376,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 197,
-      "Сагара Дмитрий Степанович": 139,
-      "Синицын Владимир Алексеевич": 14,
-      "Скворцов Юрий Петрович": 113,
-      "Фральцова Тамара Анатольевна": 531,
-      "Против всех": 140
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 197,
+      "gas:candidate-vibid:1001000113936": 139,
+      "gas:candidate-vibid:1001000190352": 14,
+      "gas:candidate-vibid:1001000121852": 113,
+      "gas:candidate-vibid:1001000225941": 531,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 152,
-      "Сагара Дмитрий Степанович": 117,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 101,
-      "Фральцова Тамара Анатольевна": 491,
-      "Против всех": 132
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 152,
+      "gas:candidate-vibid:1001000113936": 117,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 101,
+      "gas:candidate-vibid:1001000225941": 491,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 27,
-      "Приставка Анатолий Григорьевич": 258,
-      "Сагара Дмитрий Степанович": 159,
-      "Синицын Владимир Алексеевич": 22,
-      "Скворцов Юрий Петрович": 101,
-      "Фральцова Тамара Анатольевна": 565,
-      "Против всех": 143
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 27,
+      "gas:candidate-vibid:342300167133": 258,
+      "gas:candidate-vibid:1001000113936": 159,
+      "gas:candidate-vibid:1001000190352": 22,
+      "gas:candidate-vibid:1001000121852": 101,
+      "gas:candidate-vibid:1001000225941": 565,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 50,
-      "Приставка Анатолий Григорьевич": 195,
-      "Сагара Дмитрий Степанович": 128,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 92,
-      "Фральцова Тамара Анатольевна": 597,
-      "Против всех": 145
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 50,
+      "gas:candidate-vibid:342300167133": 195,
+      "gas:candidate-vibid:1001000113936": 128,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 92,
+      "gas:candidate-vibid:1001000225941": 597,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 40,
-      "Приставка Анатолий Григорьевич": 161,
-      "Сагара Дмитрий Степанович": 102,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 102,
-      "Фральцова Тамара Анатольевна": 548,
-      "Против всех": 181
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 40,
+      "gas:candidate-vibid:342300167133": 161,
+      "gas:candidate-vibid:1001000113936": 102,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 102,
+      "gas:candidate-vibid:1001000225941": 548,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 35,
-      "Приставка Анатолий Григорьевич": 164,
-      "Сагара Дмитрий Степанович": 125,
-      "Синицын Владимир Алексеевич": 14,
-      "Скворцов Юрий Петрович": 89,
-      "Фральцова Тамара Анатольевна": 532,
-      "Против всех": 194
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 35,
+      "gas:candidate-vibid:342300167133": 164,
+      "gas:candidate-vibid:1001000113936": 125,
+      "gas:candidate-vibid:1001000190352": 14,
+      "gas:candidate-vibid:1001000121852": 89,
+      "gas:candidate-vibid:1001000225941": 532,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 18,
-      "Петрик Иван Павлович": 52,
-      "Приставка Анатолий Григорьевич": 186,
-      "Сагара Дмитрий Степанович": 93,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 66,
-      "Фральцова Тамара Анатольевна": 491,
-      "Против всех": 193
+      "gas:candidate-vibid:342300167276": 18,
+      "gas:candidate-vibid:1001000136060": 52,
+      "gas:candidate-vibid:342300167133": 186,
+      "gas:candidate-vibid:1001000113936": 93,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 66,
+      "gas:candidate-vibid:1001000225941": 491,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 58,
-      "Приставка Анатолий Григорьевич": 233,
-      "Сагара Дмитрий Степанович": 131,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 125,
-      "Фральцова Тамара Анатольевна": 620,
-      "Против всех": 181
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 58,
+      "gas:candidate-vibid:342300167133": 233,
+      "gas:candidate-vibid:1001000113936": 131,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 125,
+      "gas:candidate-vibid:1001000225941": 620,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 39,
-      "Приставка Анатолий Григорьевич": 115,
-      "Сагара Дмитрий Степанович": 85,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 77,
-      "Фральцова Тамара Анатольевна": 407,
-      "Против всех": 119
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 39,
+      "gas:candidate-vibid:342300167133": 115,
+      "gas:candidate-vibid:1001000113936": 85,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 77,
+      "gas:candidate-vibid:1001000225941": 407,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 185,
-      "Сагара Дмитрий Степанович": 107,
-      "Синицын Владимир Алексеевич": 24,
-      "Скворцов Юрий Петрович": 90,
-      "Фральцова Тамара Анатольевна": 666,
-      "Против всех": 169
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 185,
+      "gas:candidate-vibid:1001000113936": 107,
+      "gas:candidate-vibid:1001000190352": 24,
+      "gas:candidate-vibid:1001000121852": 90,
+      "gas:candidate-vibid:1001000225941": 666,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 370,
-      "Сагара Дмитрий Степанович": 182,
-      "Синицын Владимир Алексеевич": 13,
-      "Скворцов Юрий Петрович": 102,
-      "Фральцова Тамара Анатольевна": 421,
-      "Против всех": 165
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 370,
+      "gas:candidate-vibid:1001000113936": 182,
+      "gas:candidate-vibid:1001000190352": 13,
+      "gas:candidate-vibid:1001000121852": 102,
+      "gas:candidate-vibid:1001000225941": 421,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 357,
-      "Сагара Дмитрий Степанович": 145,
-      "Синицын Владимир Алексеевич": 20,
-      "Скворцов Юрий Петрович": 108,
-      "Фральцова Тамара Анатольевна": 463,
-      "Против всех": 193
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 357,
+      "gas:candidate-vibid:1001000113936": 145,
+      "gas:candidate-vibid:1001000190352": 20,
+      "gas:candidate-vibid:1001000121852": 108,
+      "gas:candidate-vibid:1001000225941": 463,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 32,
-      "Приставка Анатолий Григорьевич": 82,
-      "Сагара Дмитрий Степанович": 42,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 33,
-      "Фральцова Тамара Анатольевна": 303,
-      "Против всех": 101
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 32,
+      "gas:candidate-vibid:342300167133": 82,
+      "gas:candidate-vibid:1001000113936": 42,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 33,
+      "gas:candidate-vibid:1001000225941": 303,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 13,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 190,
-      "Сагара Дмитрий Степанович": 127,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 79,
-      "Фральцова Тамара Анатольевна": 499,
-      "Против всех": 157
+      "gas:candidate-vibid:342300167276": 13,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 190,
+      "gas:candidate-vibid:1001000113936": 127,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 79,
+      "gas:candidate-vibid:1001000225941": 499,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 20,
-      "Приставка Анатолий Григорьевич": 109,
-      "Сагара Дмитрий Степанович": 187,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 41,
-      "Фральцова Тамара Анатольевна": 313,
-      "Против всех": 115
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 20,
+      "gas:candidate-vibid:342300167133": 109,
+      "gas:candidate-vibid:1001000113936": 187,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 41,
+      "gas:candidate-vibid:1001000225941": 313,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 47,
-      "Приставка Анатолий Григорьевич": 203,
-      "Сагара Дмитрий Степанович": 132,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 94,
-      "Фральцова Тамара Анатольевна": 489,
-      "Против всех": 155
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 47,
+      "gas:candidate-vibid:342300167133": 203,
+      "gas:candidate-vibid:1001000113936": 132,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 94,
+      "gas:candidate-vibid:1001000225941": 489,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 37,
-      "Приставка Анатолий Григорьевич": 110,
-      "Сагара Дмитрий Степанович": 75,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 51,
-      "Фральцова Тамара Анатольевна": 406,
-      "Против всех": 112
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 37,
+      "gas:candidate-vibid:342300167133": 110,
+      "gas:candidate-vibid:1001000113936": 75,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 51,
+      "gas:candidate-vibid:1001000225941": 406,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 21,
-      "Приставка Анатолий Григорьевич": 104,
-      "Сагара Дмитрий Степанович": 77,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 31,
-      "Фральцова Тамара Анатольевна": 381,
-      "Против всех": 121
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 21,
+      "gas:candidate-vibid:342300167133": 104,
+      "gas:candidate-vibid:1001000113936": 77,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 31,
+      "gas:candidate-vibid:1001000225941": 381,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 23,
-      "Приставка Анатолий Григорьевич": 108,
-      "Сагара Дмитрий Степанович": 43,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 21,
-      "Фральцова Тамара Анатольевна": 368,
-      "Против всех": 114
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 23,
+      "gas:candidate-vibid:342300167133": 108,
+      "gas:candidate-vibid:1001000113936": 43,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 21,
+      "gas:candidate-vibid:1001000225941": 368,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 11,
-      "Петрик Иван Павлович": 54,
-      "Приставка Анатолий Григорьевич": 363,
-      "Сагара Дмитрий Степанович": 81,
-      "Синицын Владимир Алексеевич": 33,
-      "Скворцов Юрий Петрович": 71,
-      "Фральцова Тамара Анатольевна": 613,
-      "Против всех": 242
+      "gas:candidate-vibid:342300167276": 11,
+      "gas:candidate-vibid:1001000136060": 54,
+      "gas:candidate-vibid:342300167133": 363,
+      "gas:candidate-vibid:1001000113936": 81,
+      "gas:candidate-vibid:1001000190352": 33,
+      "gas:candidate-vibid:1001000121852": 71,
+      "gas:candidate-vibid:1001000225941": 613,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 53,
-      "Приставка Анатолий Григорьевич": 298,
-      "Сагара Дмитрий Степанович": 126,
-      "Синицын Владимир Алексеевич": 22,
-      "Скворцов Юрий Петрович": 116,
-      "Фральцова Тамара Анатольевна": 580,
-      "Против всех": 209
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 53,
+      "gas:candidate-vibid:342300167133": 298,
+      "gas:candidate-vibid:1001000113936": 126,
+      "gas:candidate-vibid:1001000190352": 22,
+      "gas:candidate-vibid:1001000121852": 116,
+      "gas:candidate-vibid:1001000225941": 580,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 48,
-      "Приставка Анатолий Григорьевич": 215,
-      "Сагара Дмитрий Степанович": 123,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 109,
-      "Фральцова Тамара Анатольевна": 630,
-      "Против всех": 185
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 48,
+      "gas:candidate-vibid:342300167133": 215,
+      "gas:candidate-vibid:1001000113936": 123,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 109,
+      "gas:candidate-vibid:1001000225941": 630,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 28,
-      "Приставка Анатолий Григорьевич": 186,
-      "Сагара Дмитрий Степанович": 86,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 63,
-      "Фральцова Тамара Анатольевна": 448,
-      "Против всех": 152
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 28,
+      "gas:candidate-vibid:342300167133": 186,
+      "gas:candidate-vibid:1001000113936": 86,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 63,
+      "gas:candidate-vibid:1001000225941": 448,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 150,
-      "Сагара Дмитрий Степанович": 82,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 79,
-      "Фральцова Тамара Анатольевна": 428,
-      "Против всех": 135
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 150,
+      "gas:candidate-vibid:1001000113936": 82,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 79,
+      "gas:candidate-vibid:1001000225941": 428,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167384&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 15,
-      "Петрик Иван Павлович": 28,
-      "Приставка Анатолий Григорьевич": 309,
-      "Сагара Дмитрий Степанович": 62,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 95,
-      "Фральцова Тамара Анатольевна": 452,
-      "Против всех": 120
+      "gas:candidate-vibid:342300167276": 15,
+      "gas:candidate-vibid:1001000136060": 28,
+      "gas:candidate-vibid:342300167133": 309,
+      "gas:candidate-vibid:1001000113936": 62,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 95,
+      "gas:candidate-vibid:1001000225941": 452,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 302,
-      "Сагара Дмитрий Степанович": 66,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 61,
-      "Фральцова Тамара Анатольевна": 417,
-      "Против всех": 97
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 302,
+      "gas:candidate-vibid:1001000113936": 66,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 61,
+      "gas:candidate-vibid:1001000225941": 417,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 255,
-      "Сагара Дмитрий Степанович": 61,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 69,
-      "Фральцова Тамара Анатольевна": 445,
-      "Против всех": 96
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 255,
+      "gas:candidate-vibid:1001000113936": 61,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 69,
+      "gas:candidate-vibid:1001000225941": 445,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 362,
-      "Сагара Дмитрий Степанович": 75,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 80,
-      "Фральцова Тамара Анатольевна": 454,
-      "Против всех": 137
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 362,
+      "gas:candidate-vibid:1001000113936": 75,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 80,
+      "gas:candidate-vibid:1001000225941": 454,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 11,
-      "Приставка Анатолий Григорьевич": 65,
-      "Сагара Дмитрий Степанович": 18,
-      "Синицын Владимир Алексеевич": 9,
-      "Скворцов Юрий Петрович": 19,
-      "Фральцова Тамара Анатольевна": 270,
-      "Против всех": 37
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 11,
+      "gas:candidate-vibid:342300167133": 65,
+      "gas:candidate-vibid:1001000113936": 18,
+      "gas:candidate-vibid:1001000190352": 9,
+      "gas:candidate-vibid:1001000121852": 19,
+      "gas:candidate-vibid:1001000225941": 270,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 22,
-      "Приставка Анатолий Григорьевич": 122,
-      "Сагара Дмитрий Степанович": 30,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 55,
-      "Фральцова Тамара Анатольевна": 377,
-      "Против всех": 58
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 22,
+      "gas:candidate-vibid:342300167133": 122,
+      "gas:candidate-vibid:1001000113936": 30,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 55,
+      "gas:candidate-vibid:1001000225941": 377,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 203,
-      "Сагара Дмитрий Степанович": 19,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 61,
-      "Фральцова Тамара Анатольевна": 542,
-      "Против всех": 78
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 203,
+      "gas:candidate-vibid:1001000113936": 19,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 61,
+      "gas:candidate-vibid:1001000225941": 542,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 20,
-      "Приставка Анатолий Григорьевич": 141,
-      "Сагара Дмитрий Степанович": 12,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 65,
-      "Фральцова Тамара Анатольевна": 507,
-      "Против всех": 62
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 20,
+      "gas:candidate-vibid:342300167133": 141,
+      "gas:candidate-vibid:1001000113936": 12,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 65,
+      "gas:candidate-vibid:1001000225941": 507,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 174,
-      "Сагара Дмитрий Степанович": 56,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 82,
-      "Фральцова Тамара Анатольевна": 637,
-      "Против всех": 102
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 174,
+      "gas:candidate-vibid:1001000113936": 56,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 82,
+      "gas:candidate-vibid:1001000225941": 637,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 13,
-      "Приставка Анатолий Григорьевич": 68,
-      "Сагара Дмитрий Степанович": 6,
-      "Синицын Владимир Алексеевич": 4,
-      "Скворцов Юрий Петрович": 25,
-      "Фральцова Тамара Анатольевна": 421,
-      "Против всех": 48
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 13,
+      "gas:candidate-vibid:342300167133": 68,
+      "gas:candidate-vibid:1001000113936": 6,
+      "gas:candidate-vibid:1001000190352": 4,
+      "gas:candidate-vibid:1001000121852": 25,
+      "gas:candidate-vibid:1001000225941": 421,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 36,
-      "Приставка Анатолий Григорьевич": 267,
-      "Сагара Дмитрий Степанович": 65,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 106,
-      "Фральцова Тамара Анатольевна": 471,
-      "Против всех": 121
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 36,
+      "gas:candidate-vibid:342300167133": 267,
+      "gas:candidate-vibid:1001000113936": 65,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 106,
+      "gas:candidate-vibid:1001000225941": 471,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 388,
-      "Сагара Дмитрий Степанович": 82,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 75,
-      "Фральцова Тамара Анатольевна": 449,
-      "Против всех": 155
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 388,
+      "gas:candidate-vibid:1001000113936": 82,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 75,
+      "gas:candidate-vibid:1001000225941": 449,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 44,
-      "Приставка Анатолий Григорьевич": 111,
-      "Сагара Дмитрий Степанович": 29,
-      "Синицын Владимир Алексеевич": 6,
-      "Скворцов Юрий Петрович": 116,
-      "Фральцова Тамара Анатольевна": 588,
-      "Против всех": 61
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 44,
+      "gas:candidate-vibid:342300167133": 111,
+      "gas:candidate-vibid:1001000113936": 29,
+      "gas:candidate-vibid:1001000190352": 6,
+      "gas:candidate-vibid:1001000121852": 116,
+      "gas:candidate-vibid:1001000225941": 588,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 34,
-      "Приставка Анатолий Григорьевич": 214,
-      "Сагара Дмитрий Степанович": 32,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 64,
-      "Фральцова Тамара Анатольевна": 465,
-      "Против всех": 90
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 34,
+      "gas:candidate-vibid:342300167133": 214,
+      "gas:candidate-vibid:1001000113936": 32,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 64,
+      "gas:candidate-vibid:1001000225941": 465,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 2,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 92,
-      "Сагара Дмитрий Степанович": 20,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 41,
-      "Фральцова Тамара Анатольевна": 407,
-      "Против всех": 53
+      "gas:candidate-vibid:342300167276": 2,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 92,
+      "gas:candidate-vibid:1001000113936": 20,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 41,
+      "gas:candidate-vibid:1001000225941": 407,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 92,
-      "Сагара Дмитрий Степанович": 23,
-      "Синицын Владимир Алексеевич": 13,
-      "Скворцов Юрий Петрович": 59,
-      "Фральцова Тамара Анатольевна": 494,
-      "Против всех": 49
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 92,
+      "gas:candidate-vibid:1001000113936": 23,
+      "gas:candidate-vibid:1001000190352": 13,
+      "gas:candidate-vibid:1001000121852": 59,
+      "gas:candidate-vibid:1001000225941": 494,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 3,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 293,
-      "Сагара Дмитрий Степанович": 38,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 79,
-      "Фральцова Тамара Анатольевна": 437,
-      "Против всех": 73
+      "gas:candidate-vibid:342300167276": 3,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 293,
+      "gas:candidate-vibid:1001000113936": 38,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 79,
+      "gas:candidate-vibid:1001000225941": 437,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 51,
-      "Приставка Анатолий Григорьевич": 400,
-      "Сагара Дмитрий Степанович": 145,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 114,
-      "Фральцова Тамара Анатольевна": 462,
-      "Против всех": 130
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 51,
+      "gas:candidate-vibid:342300167133": 400,
+      "gas:candidate-vibid:1001000113936": 145,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 114,
+      "gas:candidate-vibid:1001000225941": 462,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 14,
-      "Петрик Иван Павлович": 40,
-      "Приставка Анатолий Григорьевич": 390,
-      "Сагара Дмитрий Степанович": 86,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 192,
-      "Фральцова Тамара Анатольевна": 499,
-      "Против всех": 114
+      "gas:candidate-vibid:342300167276": 14,
+      "gas:candidate-vibid:1001000136060": 40,
+      "gas:candidate-vibid:342300167133": 390,
+      "gas:candidate-vibid:1001000113936": 86,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 192,
+      "gas:candidate-vibid:1001000225941": 499,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167385&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 100,
-      "Сагара Дмитрий Степанович": 47,
-      "Синицын Владимир Алексеевич": 5,
-      "Скворцов Юрий Петрович": 120,
-      "Фральцова Тамара Анатольевна": 242,
-      "Против всех": 58
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 100,
+      "gas:candidate-vibid:1001000113936": 47,
+      "gas:candidate-vibid:1001000190352": 5,
+      "gas:candidate-vibid:1001000121852": 120,
+      "gas:candidate-vibid:1001000225941": 242,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 43,
-      "Приставка Анатолий Григорьевич": 174,
-      "Сагара Дмитрий Степанович": 67,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 171,
-      "Фральцова Тамара Анатольевна": 399,
-      "Против всех": 101
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 43,
+      "gas:candidate-vibid:342300167133": 174,
+      "gas:candidate-vibid:1001000113936": 67,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 171,
+      "gas:candidate-vibid:1001000225941": 399,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 161,
-      "Сагара Дмитрий Степанович": 77,
-      "Синицын Владимир Алексеевич": 18,
-      "Скворцов Юрий Петрович": 170,
-      "Фральцова Тамара Анатольевна": 417,
-      "Против всех": 87
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 161,
+      "gas:candidate-vibid:1001000113936": 77,
+      "gas:candidate-vibid:1001000190352": 18,
+      "gas:candidate-vibid:1001000121852": 170,
+      "gas:candidate-vibid:1001000225941": 417,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 15,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 227,
-      "Сагара Дмитрий Степанович": 124,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 158,
-      "Фральцова Тамара Анатольевна": 397,
-      "Против всех": 130
+      "gas:candidate-vibid:342300167276": 15,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 227,
+      "gas:candidate-vibid:1001000113936": 124,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 158,
+      "gas:candidate-vibid:1001000225941": 397,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 24,
-      "Приставка Анатолий Григорьевич": 220,
-      "Сагара Дмитрий Степанович": 92,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 112,
-      "Фральцова Тамара Анатольевна": 354,
-      "Против всех": 143
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 24,
+      "gas:candidate-vibid:342300167133": 220,
+      "gas:candidate-vibid:1001000113936": 92,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 112,
+      "gas:candidate-vibid:1001000225941": 354,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 38,
-      "Приставка Анатолий Григорьевич": 254,
-      "Сагара Дмитрий Степанович": 106,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 108,
-      "Фральцова Тамара Анатольевна": 388,
-      "Против всех": 123
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 38,
+      "gas:candidate-vibid:342300167133": 254,
+      "gas:candidate-vibid:1001000113936": 106,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 108,
+      "gas:candidate-vibid:1001000225941": 388,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 14,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 265,
-      "Сагара Дмитрий Степанович": 109,
-      "Синицын Владимир Алексеевич": 23,
-      "Скворцов Юрий Петрович": 88,
-      "Фральцова Тамара Анатольевна": 502,
-      "Против всех": 214
+      "gas:candidate-vibid:342300167276": 14,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 265,
+      "gas:candidate-vibid:1001000113936": 109,
+      "gas:candidate-vibid:1001000190352": 23,
+      "gas:candidate-vibid:1001000121852": 88,
+      "gas:candidate-vibid:1001000225941": 502,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 28,
-      "Приставка Анатолий Григорьевич": 329,
-      "Сагара Дмитрий Степанович": 129,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 121,
-      "Фральцова Тамара Анатольевна": 461,
-      "Против всех": 161
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 28,
+      "gas:candidate-vibid:342300167133": 329,
+      "gas:candidate-vibid:1001000113936": 129,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 121,
+      "gas:candidate-vibid:1001000225941": 461,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 42,
-      "Приставка Анатолий Григорьевич": 393,
-      "Сагара Дмитрий Степанович": 147,
-      "Синицын Владимир Алексеевич": 52,
-      "Скворцов Юрий Петрович": 139,
-      "Фральцова Тамара Анатольевна": 516,
-      "Против всех": 175
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 42,
+      "gas:candidate-vibid:342300167133": 393,
+      "gas:candidate-vibid:1001000113936": 147,
+      "gas:candidate-vibid:1001000190352": 52,
+      "gas:candidate-vibid:1001000121852": 139,
+      "gas:candidate-vibid:1001000225941": 516,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 19,
-      "Приставка Анатолий Григорьевич": 188,
-      "Сагара Дмитрий Степанович": 50,
-      "Синицын Владимир Алексеевич": 8,
-      "Скворцов Юрий Петрович": 61,
-      "Фральцова Тамара Анатольевна": 365,
-      "Против всех": 106
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 19,
+      "gas:candidate-vibid:342300167133": 188,
+      "gas:candidate-vibid:1001000113936": 50,
+      "gas:candidate-vibid:1001000190352": 8,
+      "gas:candidate-vibid:1001000121852": 61,
+      "gas:candidate-vibid:1001000225941": 365,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 233,
-      "Сагара Дмитрий Степанович": 110,
-      "Синицын Владимир Алексеевич": 21,
-      "Скворцов Юрий Петрович": 96,
-      "Фральцова Тамара Анатольевна": 397,
-      "Против всех": 122
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 233,
+      "gas:candidate-vibid:1001000113936": 110,
+      "gas:candidate-vibid:1001000190352": 21,
+      "gas:candidate-vibid:1001000121852": 96,
+      "gas:candidate-vibid:1001000225941": 397,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 34,
-      "Приставка Анатолий Григорьевич": 164,
-      "Сагара Дмитрий Степанович": 96,
-      "Синицын Владимир Алексеевич": 15,
-      "Скворцов Юрий Петрович": 98,
-      "Фральцова Тамара Анатольевна": 427,
-      "Против всех": 106
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 34,
+      "gas:candidate-vibid:342300167133": 164,
+      "gas:candidate-vibid:1001000113936": 96,
+      "gas:candidate-vibid:1001000190352": 15,
+      "gas:candidate-vibid:1001000121852": 98,
+      "gas:candidate-vibid:1001000225941": 427,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 5,
-      "Петрик Иван Павлович": 37,
-      "Приставка Анатолий Григорьевич": 253,
-      "Сагара Дмитрий Степанович": 108,
-      "Синицын Владимир Алексеевич": 19,
-      "Скворцов Юрий Петрович": 88,
-      "Фральцова Тамара Анатольевна": 476,
-      "Против всех": 157
+      "gas:candidate-vibid:342300167276": 5,
+      "gas:candidate-vibid:1001000136060": 37,
+      "gas:candidate-vibid:342300167133": 253,
+      "gas:candidate-vibid:1001000113936": 108,
+      "gas:candidate-vibid:1001000190352": 19,
+      "gas:candidate-vibid:1001000121852": 88,
+      "gas:candidate-vibid:1001000225941": 476,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 6,
-      "Петрик Иван Павлович": 30,
-      "Приставка Анатолий Григорьевич": 180,
-      "Сагара Дмитрий Степанович": 92,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 84,
-      "Фральцова Тамара Анатольевна": 419,
-      "Против всех": 140
+      "gas:candidate-vibid:342300167276": 6,
+      "gas:candidate-vibid:1001000136060": 30,
+      "gas:candidate-vibid:342300167133": 180,
+      "gas:candidate-vibid:1001000113936": 92,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 84,
+      "gas:candidate-vibid:1001000225941": 419,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 1,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 143,
-      "Сагара Дмитрий Степанович": 111,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 115,
-      "Фральцова Тамара Анатольевна": 375,
-      "Против всех": 90
+      "gas:candidate-vibid:342300167276": 1,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 143,
+      "gas:candidate-vibid:1001000113936": 111,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 115,
+      "gas:candidate-vibid:1001000225941": 375,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 10,
-      "Петрик Иван Павлович": 31,
-      "Приставка Анатолий Григорьевич": 197,
-      "Сагара Дмитрий Степанович": 132,
-      "Синицын Владимир Алексеевич": 17,
-      "Скворцов Юрий Петрович": 111,
-      "Фральцова Тамара Анатольевна": 619,
-      "Против всех": 136
+      "gas:candidate-vibid:342300167276": 10,
+      "gas:candidate-vibid:1001000136060": 31,
+      "gas:candidate-vibid:342300167133": 197,
+      "gas:candidate-vibid:1001000113936": 132,
+      "gas:candidate-vibid:1001000190352": 17,
+      "gas:candidate-vibid:1001000121852": 111,
+      "gas:candidate-vibid:1001000225941": 619,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 12,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 224,
-      "Сагара Дмитрий Степанович": 128,
-      "Синицын Владимир Алексеевич": 29,
-      "Скворцов Юрий Петрович": 116,
-      "Фральцова Тамара Анатольевна": 552,
-      "Против всех": 118
+      "gas:candidate-vibid:342300167276": 12,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 224,
+      "gas:candidate-vibid:1001000113936": 128,
+      "gas:candidate-vibid:1001000190352": 29,
+      "gas:candidate-vibid:1001000121852": 116,
+      "gas:candidate-vibid:1001000225941": 552,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 7,
-      "Петрик Иван Павлович": 25,
-      "Приставка Анатолий Григорьевич": 97,
-      "Сагара Дмитрий Степанович": 46,
-      "Синицын Владимир Алексеевич": 10,
-      "Скворцов Юрий Петрович": 105,
-      "Фральцова Тамара Анатольевна": 455,
-      "Против всех": 100
+      "gas:candidate-vibid:342300167276": 7,
+      "gas:candidate-vibid:1001000136060": 25,
+      "gas:candidate-vibid:342300167133": 97,
+      "gas:candidate-vibid:1001000113936": 46,
+      "gas:candidate-vibid:1001000190352": 10,
+      "gas:candidate-vibid:1001000121852": 105,
+      "gas:candidate-vibid:1001000225941": 455,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 9,
-      "Петрик Иван Павлович": 26,
-      "Приставка Анатолий Григорьевич": 147,
-      "Сагара Дмитрий Степанович": 74,
-      "Синицын Владимир Алексеевич": 11,
-      "Скворцов Юрий Петрович": 72,
-      "Фральцова Тамара Анатольевна": 328,
-      "Против всех": 77
+      "gas:candidate-vibid:342300167276": 9,
+      "gas:candidate-vibid:1001000136060": 26,
+      "gas:candidate-vibid:342300167133": 147,
+      "gas:candidate-vibid:1001000113936": 74,
+      "gas:candidate-vibid:1001000190352": 11,
+      "gas:candidate-vibid:1001000121852": 72,
+      "gas:candidate-vibid:1001000225941": 328,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 4,
-      "Петрик Иван Павлович": 24,
-      "Приставка Анатолий Григорьевич": 121,
-      "Сагара Дмитрий Степанович": 85,
-      "Синицын Владимир Алексеевич": 16,
-      "Скворцов Юрий Петрович": 88,
-      "Фральцова Тамара Анатольевна": 395,
-      "Против всех": 115
+      "gas:candidate-vibid:342300167276": 4,
+      "gas:candidate-vibid:1001000136060": 24,
+      "gas:candidate-vibid:342300167133": 121,
+      "gas:candidate-vibid:1001000113936": 85,
+      "gas:candidate-vibid:1001000190352": 16,
+      "gas:candidate-vibid:1001000121852": 88,
+      "gas:candidate-vibid:1001000225941": 395,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_42_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Достовалов Виктор Петрович": 8,
-      "Петрик Иван Павлович": 33,
-      "Приставка Анатолий Григорьевич": 91,
-      "Сагара Дмитрий Степанович": 36,
-      "Синицын Владимир Алексеевич": 12,
-      "Скворцов Юрий Петрович": 41,
-      "Фральцова Тамара Анатольевна": 393,
-      "Против всех": 85
+      "gas:candidate-vibid:342300167276": 8,
+      "gas:candidate-vibid:1001000136060": 33,
+      "gas:candidate-vibid:342300167133": 91,
+      "gas:candidate-vibid:1001000113936": 36,
+      "gas:candidate-vibid:1001000190352": 12,
+      "gas:candidate-vibid:1001000121852": 41,
+      "gas:candidate-vibid:1001000225941": 393,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300167386&region=0&sub_region=0&type=429",

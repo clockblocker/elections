@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "4494001924700",
+    "uikName": "УИК №1",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3072,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2880,
@@ -28,11 +32,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 1342,
-      "Гахраманова Снежана Вячеславовна": 51,
-      "Давыденко Юрий Борисович": 46,
-      "Исаев Роман Вадимович": 60,
-      "Попов Алексей Леонидович": 167
+      "2492000380798": 1342,
+      "2492000380698": 51,
+      "2492000381181": 46,
+      "2492000380073": 60,
+      "2492000380995": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -42,6 +46,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -51,8 +59,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "4494001924701",
+    "uikName": "УИК №2",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1522,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1260,
@@ -68,11 +80,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 219,
-      "Гахраманова Снежана Вячеславовна": 40,
-      "Давыденко Юрий Борисович": 43,
-      "Исаев Роман Вадимович": 40,
-      "Попов Алексей Леонидович": 139
+      "2492000380798": 219,
+      "2492000380698": 40,
+      "2492000381181": 43,
+      "2492000380073": 40,
+      "2492000380995": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -82,6 +94,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -91,8 +107,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "4494001924702",
+    "uikName": "УИК №3",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1922,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -108,11 +128,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 274,
-      "Гахраманова Снежана Вячеславовна": 48,
-      "Давыденко Юрий Борисович": 51,
-      "Исаев Роман Вадимович": 50,
-      "Попов Алексей Леонидович": 174
+      "2492000380798": 274,
+      "2492000380698": 48,
+      "2492000381181": 51,
+      "2492000380073": 50,
+      "2492000380995": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -122,6 +142,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -131,8 +155,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "4494001924703",
+    "uikName": "УИК №4",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2738,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2270,
@@ -148,11 +176,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 281,
-      "Гахраманова Снежана Вячеславовна": 53,
-      "Давыденко Юрий Борисович": 52,
-      "Исаев Роман Вадимович": 86,
-      "Попов Алексей Леонидович": 231
+      "2492000380798": 281,
+      "2492000380698": 53,
+      "2492000381181": 52,
+      "2492000380073": 86,
+      "2492000380995": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -162,6 +190,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -171,8 +203,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "4494001924704",
+    "uikName": "УИК №5",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1197,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 940,
@@ -188,11 +224,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 151,
-      "Гахраманова Снежана Вячеславовна": 49,
-      "Давыденко Юрий Борисович": 30,
-      "Исаев Роман Вадимович": 46,
-      "Попов Алексей Леонидович": 115
+      "2492000380798": 151,
+      "2492000380698": 49,
+      "2492000381181": 30,
+      "2492000380073": 46,
+      "2492000380995": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -202,6 +238,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -211,8 +251,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "4494001924705",
+    "uikName": "УИК №6",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 745,
@@ -228,11 +272,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 160,
-      "Гахраманова Снежана Вячеславовна": 10,
-      "Давыденко Юрий Борисович": 19,
-      "Исаев Роман Вадимович": 15,
-      "Попов Алексей Леонидович": 46
+      "2492000380798": 160,
+      "2492000380698": 10,
+      "2492000381181": 19,
+      "2492000380073": 15,
+      "2492000380995": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -242,6 +286,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -251,8 +299,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4494001924706",
+    "uikName": "УИК №7",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 694,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 610,
@@ -268,11 +320,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 61,
-      "Гахраманова Снежана Вячеславовна": 7,
-      "Давыденко Юрий Борисович": 20,
-      "Исаев Роман Вадимович": 17,
-      "Попов Алексей Леонидович": 58
+      "2492000380798": 61,
+      "2492000380698": 7,
+      "2492000381181": 20,
+      "2492000380073": 17,
+      "2492000380995": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -282,6 +334,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -291,8 +347,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "4494001924707",
+    "uikName": "УИК №8",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -308,11 +368,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 232,
-      "Гахраманова Снежана Вячеславовна": 49,
-      "Давыденко Юрий Борисович": 37,
-      "Исаев Роман Вадимович": 51,
-      "Попов Алексей Леонидович": 136
+      "2492000380798": 232,
+      "2492000380698": 49,
+      "2492000381181": 37,
+      "2492000380073": 51,
+      "2492000380995": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -322,6 +382,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -331,8 +395,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4494001924708",
+    "uikName": "УИК №9",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2008,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1670,
@@ -348,11 +416,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 241,
-      "Гахраманова Снежана Вячеславовна": 54,
-      "Давыденко Юрий Борисович": 50,
-      "Исаев Роман Вадимович": 58,
-      "Попов Алексей Леонидович": 150
+      "2492000380798": 241,
+      "2492000380698": 54,
+      "2492000381181": 50,
+      "2492000380073": 58,
+      "2492000380995": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -362,6 +430,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -371,8 +443,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4494001924709",
+    "uikName": "УИК №10",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1828,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1570,
@@ -388,11 +464,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 207,
-      "Гахраманова Снежана Вячеславовна": 54,
-      "Давыденко Юрий Борисович": 42,
-      "Исаев Роман Вадимович": 42,
-      "Попов Алексей Леонидович": 138
+      "2492000380798": 207,
+      "2492000380698": 54,
+      "2492000381181": 42,
+      "2492000380073": 42,
+      "2492000380995": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -402,6 +478,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -411,8 +491,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4494001924710",
+    "uikName": "УИК №11",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2835,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2290,
@@ -428,11 +512,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 419,
-      "Гахраманова Снежана Вячеславовна": 88,
-      "Давыденко Юрий Борисович": 69,
-      "Исаев Роман Вадимович": 98,
-      "Попов Алексей Леонидович": 272
+      "2492000380798": 419,
+      "2492000380698": 88,
+      "2492000381181": 69,
+      "2492000380073": 98,
+      "2492000380995": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -442,6 +526,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -451,8 +539,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4494001924711",
+    "uikName": "УИК №12",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1802,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1420,
@@ -468,11 +560,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 240,
-      "Гахраманова Снежана Вячеславовна": 61,
-      "Давыденко Юрий Борисович": 52,
-      "Исаев Роман Вадимович": 71,
-      "Попов Алексей Леонидович": 155
+      "2492000380798": 240,
+      "2492000380698": 61,
+      "2492000381181": 52,
+      "2492000380073": 71,
+      "2492000380995": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -482,6 +574,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -491,8 +587,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4494001924712",
+    "uikName": "УИК №13",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1700,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1420,
@@ -508,11 +608,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 234,
-      "Гахраманова Снежана Вячеславовна": 49,
-      "Давыденко Юрий Борисович": 53,
-      "Исаев Роман Вадимович": 57,
-      "Попов Алексей Леонидович": 153
+      "2492000380798": 234,
+      "2492000380698": 49,
+      "2492000381181": 53,
+      "2492000380073": 57,
+      "2492000380995": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -522,6 +622,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -531,8 +635,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4494001924713",
+    "uikName": "УИК №14",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1444,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -548,11 +656,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 177,
-      "Гахраманова Снежана Вячеславовна": 39,
-      "Давыденко Юрий Борисович": 31,
-      "Исаев Роман Вадимович": 49,
-      "Попов Алексей Леонидович": 107
+      "2492000380798": 177,
+      "2492000380698": 39,
+      "2492000381181": 31,
+      "2492000380073": 49,
+      "2492000380995": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -562,6 +670,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -571,8 +683,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4494001924714",
+    "uikName": "УИК №15",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1492,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1280,
@@ -588,11 +704,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 196,
-      "Гахраманова Снежана Вячеславовна": 47,
-      "Давыденко Юрий Борисович": 39,
-      "Исаев Роман Вадимович": 37,
-      "Попов Алексей Леонидович": 147
+      "2492000380798": 196,
+      "2492000380698": 47,
+      "2492000381181": 39,
+      "2492000380073": 37,
+      "2492000380995": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -602,6 +718,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -611,8 +731,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4494001924715",
+    "uikName": "УИК №16",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2784,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -628,11 +752,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 399,
-      "Гахраманова Снежана Вячеславовна": 93,
-      "Давыденко Юрий Борисович": 59,
-      "Исаев Роман Вадимович": 77,
-      "Попов Алексей Леонидович": 232
+      "2492000380798": 399,
+      "2492000380698": 93,
+      "2492000381181": 59,
+      "2492000380073": 77,
+      "2492000380995": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -642,6 +766,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -651,8 +779,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4494001924716",
+    "uikName": "УИК №17",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1440,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1230,
@@ -668,11 +800,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 234,
-      "Гахраманова Снежана Вячеславовна": 37,
-      "Давыденко Юрий Борисович": 19,
-      "Исаев Роман Вадимович": 39,
-      "Попов Алексей Леонидович": 121
+      "2492000380798": 234,
+      "2492000380698": 37,
+      "2492000381181": 19,
+      "2492000380073": 39,
+      "2492000380995": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -682,6 +814,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -691,8 +827,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4494001924717",
+    "uikName": "УИК №18",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1663,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1490,
@@ -708,11 +848,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 200,
-      "Гахраманова Снежана Вячеславовна": 37,
-      "Давыденко Юрий Борисович": 33,
-      "Исаев Роман Вадимович": 47,
-      "Попов Алексей Леонидович": 130
+      "2492000380798": 200,
+      "2492000380698": 37,
+      "2492000381181": 33,
+      "2492000380073": 47,
+      "2492000380995": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -722,6 +862,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -731,8 +875,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4494001924718",
+    "uikName": "УИК №19",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2414,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2080,
@@ -748,11 +896,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 392,
-      "Гахраманова Снежана Вячеславовна": 55,
-      "Давыденко Юрий Борисович": 40,
-      "Исаев Роман Вадимович": 51,
-      "Попов Алексей Леонидович": 174
+      "2492000380798": 392,
+      "2492000380698": 55,
+      "2492000381181": 40,
+      "2492000380073": 51,
+      "2492000380995": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -762,6 +910,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -771,8 +923,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4494001924719",
+    "uikName": "УИК №20",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1620,
@@ -788,11 +944,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 241,
-      "Гахраманова Снежана Вячеславовна": 47,
-      "Давыденко Юрий Борисович": 47,
-      "Исаев Роман Вадимович": 69,
-      "Попов Алексей Леонидович": 197
+      "2492000380798": 241,
+      "2492000380698": 47,
+      "2492000381181": 47,
+      "2492000380073": 69,
+      "2492000380995": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -802,6 +958,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -811,8 +971,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4494001924720",
+    "uikName": "УИК №21",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1563,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1280,
@@ -828,11 +992,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 181,
-      "Гахраманова Снежана Вячеславовна": 38,
-      "Давыденко Юрий Борисович": 40,
-      "Исаев Роман Вадимович": 53,
-      "Попов Алексей Леонидович": 126
+      "2492000380798": 181,
+      "2492000380698": 38,
+      "2492000381181": 40,
+      "2492000380073": 53,
+      "2492000380995": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -842,6 +1006,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -851,8 +1019,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4494001924721",
+    "uikName": "УИК №22",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1544,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -868,11 +1040,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 141,
-      "Гахраманова Снежана Вячеславовна": 24,
-      "Давыденко Юрий Борисович": 40,
-      "Исаев Роман Вадимович": 43,
-      "Попов Алексей Леонидович": 119
+      "2492000380798": 141,
+      "2492000380698": 24,
+      "2492000381181": 40,
+      "2492000380073": 43,
+      "2492000380995": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -882,6 +1054,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -891,8 +1067,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "4494001924722",
+    "uikName": "УИК №23",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1192,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -908,11 +1088,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 157,
-      "Гахраманова Снежана Вячеславовна": 19,
-      "Давыденко Юрий Борисович": 25,
-      "Исаев Роман Вадимович": 42,
-      "Попов Алексей Леонидович": 82
+      "2492000380798": 157,
+      "2492000380698": 19,
+      "2492000381181": 25,
+      "2492000380073": 42,
+      "2492000380995": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -922,6 +1102,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -931,8 +1115,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "4494001924723",
+    "uikName": "УИК №24",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2015,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1710,
@@ -948,11 +1136,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 255,
-      "Гахраманова Снежана Вячеславовна": 53,
-      "Давыденко Юрий Борисович": 51,
-      "Исаев Роман Вадимович": 72,
-      "Попов Алексей Леонидович": 176
+      "2492000380798": 255,
+      "2492000380698": 53,
+      "2492000381181": 51,
+      "2492000380073": 72,
+      "2492000380995": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -962,6 +1150,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -971,8 +1163,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "4494001924724",
+    "uikName": "УИК №25",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2179,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1840,
@@ -988,11 +1184,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 255,
-      "Гахраманова Снежана Вячеславовна": 56,
-      "Давыденко Юрий Борисович": 47,
-      "Исаев Роман Вадимович": 82,
-      "Попов Алексей Леонидович": 155
+      "2492000380798": 255,
+      "2492000380698": 56,
+      "2492000381181": 47,
+      "2492000380073": 82,
+      "2492000380995": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1002,6 +1198,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1011,8 +1211,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "4494001924725",
+    "uikName": "УИК №26",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 623,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -1028,11 +1232,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 73,
-      "Гахраманова Снежана Вячеславовна": 13,
-      "Давыденко Юрий Борисович": 11,
-      "Исаев Роман Вадимович": 20,
-      "Попов Алексей Леонидович": 20
+      "2492000380798": 73,
+      "2492000380698": 13,
+      "2492000381181": 11,
+      "2492000380073": 20,
+      "2492000380995": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1042,6 +1246,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1051,8 +1259,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "4494001924726",
+    "uikName": "УИК №27",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2203,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -1068,11 +1280,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 508,
-      "Гахраманова Снежана Вячеславовна": 68,
-      "Давыденко Юрий Борисович": 65,
-      "Исаев Роман Вадимович": 72,
-      "Попов Алексей Леонидович": 180
+      "2492000380798": 508,
+      "2492000380698": 68,
+      "2492000381181": 65,
+      "2492000380073": 72,
+      "2492000380995": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1082,6 +1294,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1091,8 +1307,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "4494001924727",
+    "uikName": "УИК №28",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1059,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 920,
@@ -1108,11 +1328,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 141,
-      "Гахраманова Снежана Вячеславовна": 33,
-      "Давыденко Юрий Борисович": 28,
-      "Исаев Роман Вадимович": 39,
-      "Попов Алексей Леонидович": 103
+      "2492000380798": 141,
+      "2492000380698": 33,
+      "2492000381181": 28,
+      "2492000380073": 39,
+      "2492000380995": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1122,6 +1342,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1131,8 +1355,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "4494001924728",
+    "uikName": "УИК №29",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2060,
@@ -1148,11 +1376,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 347,
-      "Гахраманова Снежана Вячеславовна": 55,
-      "Давыденко Юрий Борисович": 56,
-      "Исаев Роман Вадимович": 75,
-      "Попов Алексей Леонидович": 186
+      "2492000380798": 347,
+      "2492000380698": 55,
+      "2492000381181": 56,
+      "2492000380073": 75,
+      "2492000380995": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1162,6 +1390,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1171,8 +1403,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "4494001924729",
+    "uikName": "УИК №30",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1891,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1630,
@@ -1188,11 +1424,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 183,
-      "Гахраманова Снежана Вячеславовна": 39,
-      "Давыденко Юрий Борисович": 28,
-      "Исаев Роман Вадимович": 50,
-      "Попов Алексей Леонидович": 122
+      "2492000380798": 183,
+      "2492000380698": 39,
+      "2492000381181": 28,
+      "2492000380073": 50,
+      "2492000380995": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1202,6 +1438,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1211,8 +1451,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4494001924730",
+    "uikName": "УИК №31",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 818,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -1228,11 +1472,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 93,
-      "Гахраманова Снежана Вячеславовна": 18,
-      "Давыденко Юрий Борисович": 21,
-      "Исаев Роман Вадимович": 25,
-      "Попов Алексей Леонидович": 65
+      "2492000380798": 93,
+      "2492000380698": 18,
+      "2492000381181": 21,
+      "2492000380073": 25,
+      "2492000380995": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1242,6 +1486,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1251,8 +1499,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4494001924731",
+    "uikName": "УИК №32",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 832,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 710,
@@ -1268,11 +1520,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 77,
-      "Гахраманова Снежана Вячеславовна": 17,
-      "Давыденко Юрий Борисович": 13,
-      "Исаев Роман Вадимович": 14,
-      "Попов Алексей Леонидович": 62
+      "2492000380798": 77,
+      "2492000380698": 17,
+      "2492000381181": 13,
+      "2492000380073": 14,
+      "2492000380995": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1282,6 +1534,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1291,8 +1547,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4494001924732",
+    "uikName": "УИК №33",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 918,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 790,
@@ -1308,11 +1568,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 102,
-      "Гахраманова Снежана Вячеславовна": 16,
-      "Давыденко Юрий Борисович": 19,
-      "Исаев Роман Вадимович": 25,
-      "Попов Алексей Леонидович": 64
+      "2492000380798": 102,
+      "2492000380698": 16,
+      "2492000381181": 19,
+      "2492000380073": 25,
+      "2492000380995": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1322,6 +1582,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1331,8 +1595,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4494001924733",
+    "uikName": "УИК №34",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 292,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -1348,11 +1616,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 59,
-      "Гахраманова Снежана Вячеславовна": 7,
-      "Давыденко Юрий Борисович": 16,
-      "Исаев Роман Вадимович": 9,
-      "Попов Алексей Леонидович": 27
+      "2492000380798": 59,
+      "2492000380698": 7,
+      "2492000381181": 16,
+      "2492000380073": 9,
+      "2492000380995": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1362,6 +1630,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1371,8 +1643,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4494001924734",
+    "uikName": "УИК №35",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 927,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 770,
@@ -1388,11 +1664,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 132,
-      "Гахраманова Снежана Вячеславовна": 19,
-      "Давыденко Юрий Борисович": 19,
-      "Исаев Роман Вадимович": 29,
-      "Попов Алексей Леонидович": 63
+      "2492000380798": 132,
+      "2492000380698": 19,
+      "2492000381181": 19,
+      "2492000380073": 29,
+      "2492000380995": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1402,6 +1678,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1411,8 +1691,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4494001924735",
+    "uikName": "УИК №36",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1284,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -1428,11 +1712,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 198,
-      "Гахраманова Снежана Вячеславовна": 36,
-      "Давыденко Юрий Борисович": 32,
-      "Исаев Роман Вадимович": 53,
-      "Попов Алексей Леонидович": 101
+      "2492000380798": 198,
+      "2492000380698": 36,
+      "2492000381181": 32,
+      "2492000380073": 53,
+      "2492000380995": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1442,6 +1726,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1451,8 +1739,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4494001924736",
+    "uikName": "УИК №37",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1700,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -1468,11 +1760,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 235,
-      "Гахраманова Снежана Вячеславовна": 42,
-      "Давыденко Юрий Борисович": 46,
-      "Исаев Роман Вадимович": 61,
-      "Попов Алексей Леонидович": 128
+      "2492000380798": 235,
+      "2492000380698": 42,
+      "2492000381181": 46,
+      "2492000380073": 61,
+      "2492000380995": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1482,6 +1774,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1491,8 +1787,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4494001924737",
+    "uikName": "УИК №38",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 165,
@@ -1508,11 +1808,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 124,
-      "Гахраманова Снежана Вячеславовна": 7,
-      "Давыденко Юрий Борисович": 7,
-      "Исаев Роман Вадимович": 15,
-      "Попов Алексей Леонидович": 7
+      "2492000380798": 124,
+      "2492000380698": 7,
+      "2492000381181": 7,
+      "2492000380073": 15,
+      "2492000380995": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1522,6 +1822,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1531,8 +1835,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4494001946998",
+    "uikName": "УИК №39",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -1548,11 +1856,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 66,
-      "Гахраманова Снежана Вячеславовна": 5,
-      "Давыденко Юрий Борисович": 7,
-      "Исаев Роман Вадимович": 19,
-      "Попов Алексей Леонидович": 24
+      "2492000380798": 66,
+      "2492000380698": 5,
+      "2492000381181": 7,
+      "2492000380073": 19,
+      "2492000380995": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1562,6 +1870,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1571,8 +1883,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "4494001924739",
+    "uikName": "УИК №89",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1236,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1310,
@@ -1588,11 +1904,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 131,
-      "Гахраманова Снежана Вячеславовна": 35,
-      "Давыденко Юрий Борисович": 27,
-      "Исаев Роман Вадимович": 22,
-      "Попов Алексей Леонидович": 76
+      "2492000380798": 131,
+      "2492000380698": 35,
+      "2492000381181": 27,
+      "2492000380073": 22,
+      "2492000380995": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1602,6 +1918,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1611,8 +1931,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "4494001924740",
+    "uikName": "УИК №90",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1643,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1920,
@@ -1628,11 +1952,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 446,
-      "Гахраманова Снежана Вячеславовна": 88,
-      "Давыденко Юрий Борисович": 66,
-      "Исаев Роман Вадимович": 88,
-      "Попов Алексей Леонидович": 212
+      "2492000380798": 446,
+      "2492000380698": 88,
+      "2492000381181": 66,
+      "2492000380073": 88,
+      "2492000380995": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1642,6 +1966,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1651,8 +1979,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "4494001924741",
+    "uikName": "УИК №91",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1264,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -1668,11 +2000,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 157,
-      "Гахраманова Снежана Вячеславовна": 27,
-      "Давыденко Юрий Борисович": 34,
-      "Исаев Роман Вадимович": 40,
-      "Попов Алексей Леонидович": 86
+      "2492000380798": 157,
+      "2492000380698": 27,
+      "2492000381181": 34,
+      "2492000380073": 40,
+      "2492000380995": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1682,6 +2014,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1691,8 +2027,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "4494001924742",
+    "uikName": "УИК №92",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1196,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1040,
@@ -1708,11 +2048,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 134,
-      "Гахраманова Снежана Вячеславовна": 16,
-      "Давыденко Юрий Борисович": 28,
-      "Исаев Роман Вадимович": 39,
-      "Попов Алексей Леонидович": 90
+      "2492000380798": 134,
+      "2492000380698": 16,
+      "2492000381181": 28,
+      "2492000380073": 39,
+      "2492000380995": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1722,6 +2062,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1731,8 +2075,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "4494001924743",
+    "uikName": "УИК №93",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1605,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -1748,11 +2096,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 181,
-      "Гахраманова Снежана Вячеславовна": 37,
-      "Давыденко Юрий Борисович": 35,
-      "Исаев Роман Вадимович": 52,
-      "Попов Алексей Леонидович": 113
+      "2492000380798": 181,
+      "2492000380698": 37,
+      "2492000381181": 35,
+      "2492000380073": 52,
+      "2492000380995": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1762,6 +2110,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1771,8 +2123,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "44940011033857",
+    "uikName": "УИК №94",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 64,
@@ -1788,11 +2144,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 51,
-      "Гахраманова Снежана Вячеславовна": 3,
-      "Давыденко Юрий Борисович": 2,
-      "Исаев Роман Вадимович": 6,
-      "Попов Алексей Леонидович": 2
+      "2492000380798": 51,
+      "2492000380698": 3,
+      "2492000381181": 2,
+      "2492000380073": 6,
+      "2492000380995": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1802,6 +2158,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1811,8 +2171,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "44940011033858",
+    "uikName": "УИК №95",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 43,
@@ -1828,11 +2192,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 34,
-      "Гахраманова Снежана Вячеславовна": 6,
-      "Давыденко Юрий Борисович": 1,
-      "Исаев Роман Вадимович": 1,
-      "Попов Алексей Леонидович": 1
+      "2492000380798": 34,
+      "2492000380698": 6,
+      "2492000381181": 1,
+      "2492000380073": 1,
+      "2492000380995": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1842,6 +2206,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1851,8 +2219,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "44940011033859",
+    "uikName": "УИК №96",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 34,
@@ -1868,11 +2240,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 26,
-      "Гахраманова Снежана Вячеславовна": 2,
-      "Давыденко Юрий Борисович": 1,
-      "Исаев Роман Вадимович": 3,
-      "Попов Алексей Леонидович": 2
+      "2492000380798": 26,
+      "2492000380698": 2,
+      "2492000381181": 1,
+      "2492000380073": 3,
+      "2492000380995": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1882,6 +2254,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1891,8 +2267,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "44940011033860",
+    "uikName": "УИК №97",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 29,
@@ -1908,11 +2288,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 22,
-      "Гахраманова Снежана Вячеславовна": 2,
-      "Давыденко Юрий Борисович": 2,
-      "Исаев Роман Вадимович": 1,
-      "Попов Алексей Леонидович": 2
+      "2492000380798": 22,
+      "2492000380698": 2,
+      "2492000381181": 2,
+      "2492000380073": 1,
+      "2492000380995": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1922,6 +2302,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1931,8 +2315,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "44940011033861",
+    "uikName": "УИК №98",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 24,
@@ -1948,11 +2336,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 19,
-      "Гахраманова Снежана Вячеславовна": 2,
-      "Давыденко Юрий Борисович": 0,
-      "Исаев Роман Вадимович": 2,
-      "Попов Алексей Леонидович": 1
+      "2492000380798": 19,
+      "2492000380698": 2,
+      "2492000381181": 0,
+      "2492000380073": 2,
+      "2492000380995": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -1962,6 +2350,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -1971,8 +2363,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "44940011033862",
+    "uikName": "УИК №99",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 26,
@@ -1988,11 +2384,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 20,
-      "Гахраманова Снежана Вячеславовна": 2,
-      "Давыденко Юрий Борисович": 1,
-      "Исаев Роман Вадимович": 1,
-      "Попов Алексей Леонидович": 2
+      "2492000380798": 20,
+      "2492000380698": 2,
+      "2492000381181": 1,
+      "2492000380073": 1,
+      "2492000380995": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2002,6 +2398,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2011,8 +2411,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "44940011033863",
+    "uikName": "УИК №100",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 32,
@@ -2028,11 +2432,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 25,
-      "Гахраманова Снежана Вячеславовна": 1,
-      "Давыденко Юрий Борисович": 1,
-      "Исаев Роман Вадимович": 3,
-      "Попов Алексей Леонидович": 2
+      "2492000380798": 25,
+      "2492000380698": 1,
+      "2492000381181": 1,
+      "2492000380073": 3,
+      "2492000380995": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2042,6 +2446,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2051,8 +2459,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "44940011033864",
+    "uikName": "УИК №101",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 31,
@@ -2068,11 +2480,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 24,
-      "Гахраманова Снежана Вячеславовна": 3,
-      "Давыденко Юрий Борисович": 0,
-      "Исаев Роман Вадимович": 2,
-      "Попов Алексей Леонидович": 2
+      "2492000380798": 24,
+      "2492000380698": 3,
+      "2492000381181": 0,
+      "2492000380073": 2,
+      "2492000380995": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2082,6 +2494,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2091,8 +2507,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "44940011033865",
+    "uikName": "УИК №102",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 28,
@@ -2108,11 +2528,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 22,
-      "Гахраманова Снежана Вячеславовна": 1,
-      "Давыденко Юрий Борисович": 0,
-      "Исаев Роман Вадимович": 2,
-      "Попов Алексей Леонидович": 3
+      "2492000380798": 22,
+      "2492000380698": 1,
+      "2492000381181": 0,
+      "2492000380073": 2,
+      "2492000380995": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2122,6 +2542,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2131,8 +2555,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "44940011033866",
+    "uikName": "УИК №103",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 56,
@@ -2148,11 +2576,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 11,
-      "Гахраманова Снежана Вячеславовна": 12,
-      "Давыденко Юрий Борисович": 10,
-      "Исаев Роман Вадимович": 14,
-      "Попов Алексей Леонидович": 9
+      "2492000380798": 11,
+      "2492000380698": 12,
+      "2492000381181": 10,
+      "2492000380073": 14,
+      "2492000380995": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2162,6 +2590,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2171,8 +2603,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "44940011033867",
+    "uikName": "УИК №104",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 24,
@@ -2188,11 +2624,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 5,
-      "Гахраманова Снежана Вячеславовна": 3,
-      "Давыденко Юрий Борисович": 1,
-      "Исаев Роман Вадимович": 1,
-      "Попов Алексей Леонидович": 14
+      "2492000380798": 5,
+      "2492000380698": 3,
+      "2492000381181": 1,
+      "2492000380073": 1,
+      "2492000380995": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2202,6 +2638,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2211,8 +2651,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "44940011033868",
+    "uikName": "УИК №105",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 23,
@@ -2228,11 +2672,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 0,
-      "Гахраманова Снежана Вячеславовна": 0,
-      "Давыденко Юрий Борисович": 11,
-      "Исаев Роман Вадимович": 3,
-      "Попов Алексей Леонидович": 6
+      "2492000380798": 0,
+      "2492000380698": 0,
+      "2492000381181": 11,
+      "2492000380073": 3,
+      "2492000380995": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2242,6 +2686,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2251,8 +2699,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "44940011033869",
+    "uikName": "УИК №106",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 28,
@@ -2268,11 +2720,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 1,
-      "Гахраманова Снежана Вячеславовна": 12,
-      "Давыденко Юрий Борисович": 5,
-      "Исаев Роман Вадимович": 2,
-      "Попов Алексей Леонидович": 8
+      "2492000380798": 1,
+      "2492000380698": 12,
+      "2492000381181": 5,
+      "2492000380073": 2,
+      "2492000380995": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2282,6 +2734,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2291,8 +2747,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "44940011033870",
+    "uikName": "УИК №107",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 43,
@@ -2308,11 +2768,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 7,
-      "Гахраманова Снежана Вячеславовна": 10,
-      "Давыденко Юрий Борисович": 7,
-      "Исаев Роман Вадимович": 12,
-      "Попов Алексей Леонидович": 7
+      "2492000380798": 7,
+      "2492000380698": 10,
+      "2492000381181": 7,
+      "2492000380073": 12,
+      "2492000380995": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2322,6 +2782,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2331,8 +2795,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "44940011033874",
+    "uikName": "УИК №108",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 22,
@@ -2348,11 +2816,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 4,
-      "Гахраманова Снежана Вячеславовна": 1,
-      "Давыденко Юрий Борисович": 8,
-      "Исаев Роман Вадимович": 2,
-      "Попов Алексей Леонидович": 7
+      "2492000380798": 4,
+      "2492000380698": 1,
+      "2492000381181": 8,
+      "2492000380073": 2,
+      "2492000380995": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2362,6 +2830,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2371,8 +2843,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "44940011043294",
+    "uikName": "УИК №109",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -2388,11 +2864,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 4,
-      "Гахраманова Снежана Вячеславовна": 0,
-      "Давыденко Юрий Борисович": 2,
-      "Исаев Роман Вадимович": 0,
-      "Попов Алексей Леонидович": 0
+      "2492000380798": 4,
+      "2492000380698": 0,
+      "2492000381181": 2,
+      "2492000380073": 0,
+      "2492000380995": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2402,6 +2878,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2411,8 +2891,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8183,
     "uikTvd": "44940011033496",
+    "uikName": "УИК №8183",
     "tikTvd": "2492000377539",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1480,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 5500,
@@ -2428,11 +2912,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 865,
-      "Гахраманова Снежана Вячеславовна": 211,
-      "Давыденко Юрий Борисович": 102,
-      "Исаев Роман Вадимович": 121,
-      "Попов Алексей Леонидович": 148
+      "2492000380798": 865,
+      "2492000380698": 211,
+      "2492000381181": 102,
+      "2492000380073": 121,
+      "2492000380995": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
@@ -2442,6 +2926,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.758274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377539&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377539&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2451,8 +2939,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4494002151422",
+    "uikName": "УИК №40",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -2468,11 +2960,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 86,
-      "Гахраманова Снежана Вячеславовна": 4,
-      "Давыденко Юрий Борисович": 5,
-      "Исаев Роман Вадимович": 10,
-      "Попов Алексей Леонидович": 6
+      "2492000380798": 86,
+      "2492000380698": 4,
+      "2492000381181": 5,
+      "2492000380073": 10,
+      "2492000380995": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2482,6 +2974,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2491,8 +2987,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4494002151424",
+    "uikName": "УИК №41",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -2508,11 +3008,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 34,
-      "Гахраманова Снежана Вячеславовна": 9,
-      "Давыденко Юрий Борисович": 5,
-      "Исаев Роман Вадимович": 6,
-      "Попов Алексей Леонидович": 5
+      "2492000380798": 34,
+      "2492000380698": 9,
+      "2492000381181": 5,
+      "2492000380073": 6,
+      "2492000380995": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2522,6 +3022,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2531,8 +3035,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4494002151426",
+    "uikName": "УИК №42",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 348,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 435,
@@ -2548,11 +3056,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 127,
-      "Гахраманова Снежана Вячеславовна": 16,
-      "Давыденко Юрий Борисович": 6,
-      "Исаев Роман Вадимович": 12,
-      "Попов Алексей Леонидович": 32
+      "2492000380798": 127,
+      "2492000380698": 16,
+      "2492000381181": 6,
+      "2492000380073": 12,
+      "2492000380995": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2562,6 +3070,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2571,8 +3083,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4494002151427",
+    "uikName": "УИК №43",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -2588,11 +3104,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 110,
-      "Гахраманова Снежана Вячеславовна": 10,
-      "Давыденко Юрий Борисович": 11,
-      "Исаев Роман Вадимович": 8,
-      "Попов Алексей Леонидович": 22
+      "2492000380798": 110,
+      "2492000380698": 10,
+      "2492000381181": 11,
+      "2492000380073": 8,
+      "2492000380995": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2602,6 +3118,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2611,8 +3131,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4494002151428",
+    "uikName": "УИК №44",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 945,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1115,
@@ -2628,11 +3152,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 270,
-      "Гахраманова Снежана Вячеславовна": 33,
-      "Давыденко Юрий Борисович": 28,
-      "Исаев Роман Вадимович": 42,
-      "Попов Алексей Леонидович": 63
+      "2492000380798": 270,
+      "2492000380698": 33,
+      "2492000381181": 28,
+      "2492000380073": 42,
+      "2492000380995": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2642,6 +3166,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2651,8 +3179,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4494002151429",
+    "uikName": "УИК №45",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2245,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2490,
@@ -2668,11 +3200,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 506,
-      "Гахраманова Снежана Вячеславовна": 53,
-      "Давыденко Юрий Борисович": 54,
-      "Исаев Роман Вадимович": 82,
-      "Попов Алексей Леонидович": 197
+      "2492000380798": 506,
+      "2492000380698": 53,
+      "2492000381181": 54,
+      "2492000380073": 82,
+      "2492000380995": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2682,6 +3214,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2691,8 +3227,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4494002151430",
+    "uikName": "УИК №46",
     "tikTvd": "2492000377547",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 906,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -2708,11 +3248,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 217,
-      "Гахраманова Снежана Вячеславовна": 12,
-      "Давыденко Юрий Борисович": 21,
-      "Исаев Роман Вадимович": 29,
-      "Попов Алексей Леонидович": 57
+      "2492000380798": 217,
+      "2492000380698": 12,
+      "2492000381181": 21,
+      "2492000380073": 29,
+      "2492000380995": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
@@ -2722,6 +3262,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.757691+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377547&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377547&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2731,8 +3275,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4494003130656",
+    "uikName": "УИК №51",
     "tikTvd": "2492000377548",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1070,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -2748,11 +3296,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 180,
-      "Гахраманова Снежана Вячеславовна": 49,
-      "Давыденко Юрий Борисович": 26,
-      "Исаев Роман Вадимович": 31,
-      "Попов Алексей Леонидович": 60
+      "2492000380798": 180,
+      "2492000380698": 49,
+      "2492000381181": 26,
+      "2492000380073": 31,
+      "2492000380995": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377548&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377548&type=464",
@@ -2762,6 +3310,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.896032+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377548&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377548&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2771,8 +3323,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4494003130658",
+    "uikName": "УИК №52",
     "tikTvd": "2492000377548",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1262,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2788,11 +3344,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 302,
-      "Гахраманова Снежана Вячеславовна": 46,
-      "Давыденко Юрий Борисович": 27,
-      "Исаев Роман Вадимович": 32,
-      "Попов Алексей Леонидович": 73
+      "2492000380798": 302,
+      "2492000380698": 46,
+      "2492000381181": 27,
+      "2492000380073": 32,
+      "2492000380995": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377548&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377548&type=464",
@@ -2802,6 +3358,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.896032+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377548&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377548&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2811,8 +3371,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4494003130660",
+    "uikName": "УИК №53",
     "tikTvd": "2492000377548",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 334,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 610,
@@ -2828,11 +3392,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 83,
-      "Гахраманова Снежана Вячеславовна": 7,
-      "Давыденко Юрий Борисович": 9,
-      "Исаев Роман Вадимович": 14,
-      "Попов Алексей Леонидович": 30
+      "2492000380798": 83,
+      "2492000380698": 7,
+      "2492000381181": 9,
+      "2492000380073": 14,
+      "2492000380995": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377548&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377548&type=464",
@@ -2842,6 +3406,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:36.896032+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377548&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377548&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2851,8 +3419,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4494004134953",
+    "uikName": "УИК №54",
     "tikTvd": "2492000377549",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 405,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1076,
@@ -2868,11 +3440,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 166,
-      "Гахраманова Снежана Вячеславовна": 22,
-      "Давыденко Юрий Борисович": 12,
-      "Исаев Роман Вадимович": 27,
-      "Попов Алексей Леонидович": 35
+      "2492000380798": 166,
+      "2492000380698": 22,
+      "2492000381181": 12,
+      "2492000380073": 27,
+      "2492000380995": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
@@ -2882,6 +3454,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.550690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2891,8 +3467,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4494004134954",
+    "uikName": "УИК №55",
     "tikTvd": "2492000377549",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 744,
@@ -2908,11 +3488,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 196,
-      "Гахраманова Снежана Вячеславовна": 20,
-      "Давыденко Юрий Борисович": 28,
-      "Исаев Роман Вадимович": 30,
-      "Попов Алексей Леонидович": 22
+      "2492000380798": 196,
+      "2492000380698": 20,
+      "2492000381181": 28,
+      "2492000380073": 30,
+      "2492000380995": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
@@ -2922,6 +3502,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.550690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2931,8 +3515,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4494004134955",
+    "uikName": "УИК №56",
     "tikTvd": "2492000377549",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 439,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 947,
@@ -2948,11 +3536,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 149,
-      "Гахраманова Снежана Вячеславовна": 11,
-      "Давыденко Юрий Борисович": 18,
-      "Исаев Роман Вадимович": 26,
-      "Попов Алексей Леонидович": 22
+      "2492000380798": 149,
+      "2492000380698": 11,
+      "2492000381181": 18,
+      "2492000380073": 26,
+      "2492000380995": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
@@ -2962,6 +3550,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.550690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -2971,8 +3563,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4494004134956",
+    "uikName": "УИК №57",
     "tikTvd": "2492000377549",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 103,
@@ -2988,11 +3584,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 24,
-      "Гахраманова Снежана Вячеславовна": 1,
-      "Давыденко Юрий Борисович": 0,
-      "Исаев Роман Вадимович": 7,
-      "Попов Алексей Леонидович": 5
+      "2492000380798": 24,
+      "2492000380698": 1,
+      "2492000381181": 0,
+      "2492000380073": 7,
+      "2492000380995": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
@@ -3002,6 +3598,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.550690+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377549&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377549&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3011,8 +3611,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "4494005140203",
+    "uikName": "УИК №59",
     "tikTvd": "2492000377552",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2414,
@@ -3028,11 +3632,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 259,
-      "Гахраманова Снежана Вячеславовна": 28,
-      "Давыденко Юрий Борисович": 27,
-      "Исаев Роман Вадимович": 35,
-      "Попов Алексей Леонидович": 65
+      "2492000380798": 259,
+      "2492000380698": 28,
+      "2492000381181": 27,
+      "2492000380073": 35,
+      "2492000380995": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377552&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377552&type=464",
@@ -3042,6 +3646,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.827497+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377552&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377552&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3051,8 +3659,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4494005140204",
+    "uikName": "УИК №60",
     "tikTvd": "2492000377552",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1054,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 877,
@@ -3068,11 +3680,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 174,
-      "Гахраманова Снежана Вячеславовна": 10,
-      "Давыденко Юрий Борисович": 24,
-      "Исаев Роман Вадимович": 29,
-      "Попов Алексей Леонидович": 55
+      "2492000380798": 174,
+      "2492000380698": 10,
+      "2492000381181": 24,
+      "2492000380073": 29,
+      "2492000380995": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377552&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377552&type=464",
@@ -3082,6 +3694,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.827497+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377552&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377552&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3091,8 +3707,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4494005140205",
+    "uikName": "УИК №61",
     "tikTvd": "2492000377552",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 91,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 159,
@@ -3108,11 +3728,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 42,
-      "Гахраманова Снежана Вячеславовна": 2,
-      "Давыденко Юрий Борисович": 3,
-      "Исаев Роман Вадимович": 1,
-      "Попов Алексей Леонидович": 9
+      "2492000380798": 42,
+      "2492000380698": 2,
+      "2492000381181": 3,
+      "2492000380073": 1,
+      "2492000380995": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377552&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377552&type=464",
@@ -3122,6 +3742,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.827497+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377552&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377552&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3131,8 +3755,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "4494006150972",
+    "uikName": "УИК №62",
     "tikTvd": "2492000377553",
     "tikName": "Cусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3148,11 +3776,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 351,
-      "Гахраманова Снежана Вячеславовна": 32,
-      "Давыденко Юрий Борисович": 40,
-      "Исаев Роман Вадимович": 40,
-      "Попов Алексей Леонидович": 100
+      "2492000380798": 351,
+      "2492000380698": 32,
+      "2492000381181": 40,
+      "2492000380073": 40,
+      "2492000380995": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
@@ -3162,6 +3790,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.986878+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3171,8 +3803,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4494006150973",
+    "uikName": "УИК №63",
     "tikTvd": "2492000377553",
     "tikName": "Cусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1118,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2008,
@@ -3188,11 +3824,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 300,
-      "Гахраманова Снежана Вячеславовна": 30,
-      "Давыденко Юрий Борисович": 27,
-      "Исаев Роман Вадимович": 34,
-      "Попов Алексей Леонидович": 86
+      "2492000380798": 300,
+      "2492000380698": 30,
+      "2492000381181": 27,
+      "2492000380073": 34,
+      "2492000380995": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
@@ -3202,6 +3838,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.986878+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3211,8 +3851,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "4494006150974",
+    "uikName": "УИК №64",
     "tikTvd": "2492000377553",
     "tikName": "Cусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 296,
@@ -3228,11 +3872,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 62,
-      "Гахраманова Снежана Вячеславовна": 8,
-      "Давыденко Юрий Борисович": 5,
-      "Исаев Роман Вадимович": 5,
-      "Попов Алексей Леонидович": 7
+      "2492000380798": 62,
+      "2492000380698": 8,
+      "2492000381181": 5,
+      "2492000380073": 5,
+      "2492000380995": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
@@ -3242,6 +3886,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.986878+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3251,8 +3899,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "4494006150975",
+    "uikName": "УИК №65",
     "tikTvd": "2492000377553",
     "tikName": "Cусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 556,
@@ -3268,11 +3920,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 9,
-      "Гахраманова Снежана Вячеславовна": 3,
-      "Давыденко Юрий Борисович": 1,
-      "Исаев Роман Вадимович": 3,
-      "Попов Алексей Леонидович": 6
+      "2492000380798": 9,
+      "2492000380698": 3,
+      "2492000381181": 1,
+      "2492000380073": 3,
+      "2492000380995": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
@@ -3282,6 +3934,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.986878+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3291,8 +3947,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "4494006150976",
+    "uikName": "УИК №66",
     "tikTvd": "2492000377553",
     "tikName": "Cусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 273,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 527,
@@ -3308,11 +3968,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 142,
-      "Гахраманова Снежана Вячеславовна": 11,
-      "Давыденко Юрий Борисович": 9,
-      "Исаев Роман Вадимович": 10,
-      "Попов Алексей Леонидович": 31
+      "2492000380798": 142,
+      "2492000380698": 11,
+      "2492000381181": 9,
+      "2492000380073": 10,
+      "2492000380995": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
@@ -3322,6 +3982,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.986878+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3331,8 +3995,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "4494006150977",
+    "uikName": "УИК №67",
     "tikTvd": "2492000377553",
     "tikName": "Cусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1503,
@@ -3348,11 +4016,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 258,
-      "Гахраманова Снежана Вячеславовна": 21,
-      "Давыденко Юрий Борисович": 41,
-      "Исаев Роман Вадимович": 28,
-      "Попов Алексей Леонидович": 91
+      "2492000380798": 258,
+      "2492000380698": 21,
+      "2492000381181": 41,
+      "2492000380073": 28,
+      "2492000380995": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
@@ -3362,6 +4030,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:38.986878+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377553&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377553&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3371,8 +4043,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "9509007153514",
+    "uikName": "УИК №68",
     "tikTvd": "2492000377554",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 66,
@@ -3388,11 +4064,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 17,
-      "Гахраманова Снежана Вячеславовна": 2,
-      "Давыденко Юрий Борисович": 3,
-      "Исаев Роман Вадимович": 2,
-      "Попов Алексей Леонидович": 10
+      "2492000380798": 17,
+      "2492000380698": 2,
+      "2492000381181": 3,
+      "2492000380073": 2,
+      "2492000380995": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
@@ -3402,6 +4078,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.335921+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3411,8 +4091,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "9509007153515",
+    "uikName": "УИК №69",
     "tikTvd": "2492000377554",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 945,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3428,11 +4112,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 199,
-      "Гахраманова Снежана Вячеславовна": 24,
-      "Давыденко Юрий Борисович": 18,
-      "Исаев Роман Вадимович": 35,
-      "Попов Алексей Леонидович": 72
+      "2492000380798": 199,
+      "2492000380698": 24,
+      "2492000381181": 18,
+      "2492000380073": 35,
+      "2492000380995": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
@@ -3442,6 +4126,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.335921+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3451,8 +4139,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "9509007153516",
+    "uikName": "УИК №70",
     "tikTvd": "2492000377554",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1013,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -3468,11 +4160,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 183,
-      "Гахраманова Снежана Вячеславовна": 39,
-      "Давыденко Юрий Борисович": 28,
-      "Исаев Роман Вадимович": 42,
-      "Попов Алексей Леонидович": 114
+      "2492000380798": 183,
+      "2492000380698": 39,
+      "2492000381181": 28,
+      "2492000380073": 42,
+      "2492000380995": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
@@ -3482,6 +4174,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.335921+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3491,8 +4187,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "9509007153517",
+    "uikName": "УИК №71",
     "tikTvd": "2492000377554",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 113,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1170,
@@ -3508,11 +4208,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 70,
-      "Гахраманова Снежана Вячеславовна": 3,
-      "Давыденко Юрий Борисович": 4,
-      "Исаев Роман Вадимович": 4,
-      "Попов Алексей Леонидович": 7
+      "2492000380798": 70,
+      "2492000380698": 3,
+      "2492000381181": 4,
+      "2492000380073": 4,
+      "2492000380995": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
@@ -3522,6 +4222,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.335921+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3531,8 +4235,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "9509007153518",
+    "uikName": "УИК №73",
     "tikTvd": "2492000377554",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 455,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -3548,11 +4256,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 236,
-      "Гахраманова Снежана Вячеславовна": 11,
-      "Давыденко Юрий Борисович": 6,
-      "Исаев Роман Вадимович": 30,
-      "Попов Алексей Леонидович": 25
+      "2492000380798": 236,
+      "2492000380698": 11,
+      "2492000381181": 6,
+      "2492000380073": 30,
+      "2492000380995": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
@@ -3562,6 +4270,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.335921+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3571,8 +4283,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "9509007153519",
+    "uikName": "УИК №74",
     "tikTvd": "2492000377554",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 234,
@@ -3588,11 +4304,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 86,
-      "Гахраманова Снежана Вячеславовна": 5,
-      "Давыденко Юрий Борисович": 5,
-      "Исаев Роман Вадимович": 0,
-      "Попов Алексей Леонидович": 6
+      "2492000380798": 86,
+      "2492000380698": 5,
+      "2492000381181": 5,
+      "2492000380073": 0,
+      "2492000380995": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
@@ -3602,6 +4318,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.335921+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377554&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377554&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3611,8 +4331,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "4494008143217",
+    "uikName": "УИК №75",
     "tikTvd": "2492000377555",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1069,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1380,
@@ -3628,11 +4352,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 562,
-      "Гахраманова Снежана Вячеславовна": 36,
-      "Давыденко Юрий Борисович": 49,
-      "Исаев Роман Вадимович": 63,
-      "Попов Алексей Леонидович": 123
+      "2492000380798": 562,
+      "2492000380698": 36,
+      "2492000381181": 49,
+      "2492000380073": 63,
+      "2492000380995": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
@@ -3642,6 +4366,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.477469+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3651,8 +4379,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "4494008143218",
+    "uikName": "УИК №76",
     "tikTvd": "2492000377555",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -3668,11 +4400,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 107,
-      "Гахраманова Снежана Вячеславовна": 0,
-      "Давыденко Юрий Борисович": 0,
-      "Исаев Роман Вадимович": 0,
-      "Попов Алексей Леонидович": 50
+      "2492000380798": 107,
+      "2492000380698": 0,
+      "2492000381181": 0,
+      "2492000380073": 0,
+      "2492000380995": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
@@ -3682,6 +4414,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.477469+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3691,8 +4427,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "4494008143219",
+    "uikName": "УИК №77",
     "tikTvd": "2492000377555",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 878,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1020,
@@ -3708,11 +4448,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 748,
-      "Гахраманова Снежана Вячеславовна": 14,
-      "Давыденко Юрий Борисович": 11,
-      "Исаев Роман Вадимович": 26,
-      "Попов Алексей Леонидович": 26
+      "2492000380798": 748,
+      "2492000380698": 14,
+      "2492000381181": 11,
+      "2492000380073": 26,
+      "2492000380995": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
@@ -3722,6 +4462,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.477469+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3731,8 +4475,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "4494008143220",
+    "uikName": "УИК №78",
     "tikTvd": "2492000377555",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 915,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1080,
@@ -3748,11 +4496,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 752,
-      "Гахраманова Снежана Вячеславовна": 34,
-      "Давыденко Юрий Борисович": 21,
-      "Исаев Роман Вадимович": 27,
-      "Попов Алексей Леонидович": 34
+      "2492000380798": 752,
+      "2492000380698": 34,
+      "2492000381181": 21,
+      "2492000380073": 27,
+      "2492000380995": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
@@ -3762,6 +4510,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.477469+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3771,8 +4523,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "4494008143221",
+    "uikName": "УИК №79",
     "tikTvd": "2492000377555",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1390,
@@ -3788,11 +4544,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 710,
-      "Гахраманова Снежана Вячеславовна": 39,
-      "Давыденко Юрий Борисович": 29,
-      "Исаев Роман Вадимович": 52,
-      "Попов Алексей Леонидович": 112
+      "2492000380798": 710,
+      "2492000380698": 39,
+      "2492000381181": 29,
+      "2492000380073": 52,
+      "2492000380995": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
@@ -3802,6 +4558,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.477469+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3811,8 +4571,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "4494008143222",
+    "uikName": "УИК №81",
     "tikTvd": "2492000377555",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 225,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -3828,11 +4592,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 183,
-      "Гахраманова Снежана Вячеславовна": 5,
-      "Давыденко Юрий Борисович": 3,
-      "Исаев Роман Вадимович": 4,
-      "Попов Алексей Леонидович": 9
+      "2492000380798": 183,
+      "2492000380698": 5,
+      "2492000381181": 3,
+      "2492000380073": 4,
+      "2492000380995": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
@@ -3842,6 +4606,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.477469+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377555&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377555&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3851,8 +4619,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "4494009161072",
+    "uikName": "УИК №82",
     "tikTvd": "2492000377556",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -3868,11 +4640,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 60,
-      "Гахраманова Снежана Вячеславовна": 3,
-      "Давыденко Юрий Борисович": 0,
-      "Исаев Роман Вадимович": 5,
-      "Попов Алексей Леонидович": 10
+      "2492000380798": 60,
+      "2492000380698": 3,
+      "2492000381181": 0,
+      "2492000380073": 5,
+      "2492000380995": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
@@ -3882,6 +4654,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.634622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3891,8 +4667,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "4494009161074",
+    "uikName": "УИК №83",
     "tikTvd": "2492000377556",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1283,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3908,11 +4688,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 164,
-      "Гахраманова Снежана Вячеславовна": 38,
-      "Давыденко Юрий Борисович": 46,
-      "Исаев Роман Вадимович": 24,
-      "Попов Алексей Леонидович": 80
+      "2492000380798": 164,
+      "2492000380698": 38,
+      "2492000381181": 46,
+      "2492000380073": 24,
+      "2492000380995": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
@@ -3922,6 +4702,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.634622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3931,8 +4715,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "4494009161076",
+    "uikName": "УИК №84",
     "tikTvd": "2492000377556",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1430,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3948,11 +4736,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 307,
-      "Гахраманова Снежана Вячеславовна": 38,
-      "Давыденко Юрий Борисович": 29,
-      "Исаев Роман Вадимович": 39,
-      "Попов Алексей Леонидович": 107
+      "2492000380798": 307,
+      "2492000380698": 38,
+      "2492000381181": 29,
+      "2492000380073": 39,
+      "2492000380995": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
@@ -3962,6 +4750,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.634622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -3971,8 +4763,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "4494009161078",
+    "uikName": "УИК №86",
     "tikTvd": "2492000377556",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -3988,11 +4784,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 105,
-      "Гахраманова Снежана Вячеславовна": 15,
-      "Давыденко Юрий Борисович": 20,
-      "Исаев Роман Вадимович": 24,
-      "Попов Алексей Леонидович": 30
+      "2492000380798": 105,
+      "2492000380698": 15,
+      "2492000381181": 20,
+      "2492000380073": 24,
+      "2492000380995": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
@@ -4002,6 +4798,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.634622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -4011,8 +4811,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "4494009161080",
+    "uikName": "УИК №87",
     "tikTvd": "2492000377556",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1487,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1570,
@@ -4028,11 +4832,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 722,
-      "Гахраманова Снежана Вячеславовна": 30,
-      "Давыденко Юрий Борисович": 23,
-      "Исаев Роман Вадимович": 29,
-      "Попов Алексей Леонидович": 68
+      "2492000380798": 722,
+      "2492000380698": 30,
+      "2492000381181": 23,
+      "2492000380073": 29,
+      "2492000380995": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
@@ -4042,6 +4846,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.634622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -4051,8 +4859,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "4494009161082",
+    "uikName": "УИК №88",
     "tikTvd": "2492000377556",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 724,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -4068,11 +4880,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 247,
-      "Гахраманова Снежана Вячеславовна": 29,
-      "Давыденко Юрий Борисович": 27,
-      "Исаев Роман Вадимович": 18,
-      "Попов Алексей Леонидович": 45
+      "2492000380798": 247,
+      "2492000380698": 29,
+      "2492000381181": 27,
+      "2492000380073": 18,
+      "2492000380995": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
@@ -4082,6 +4894,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:40.634622+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377556&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377556&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -4091,8 +4907,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4494010129332",
+    "uikName": "УИК №47",
     "tikTvd": "2492000377557",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 778,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 875,
@@ -4108,11 +4928,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 242,
-      "Гахраманова Снежана Вячеславовна": 22,
-      "Давыденко Юрий Борисович": 31,
-      "Исаев Роман Вадимович": 54,
-      "Попов Алексей Леонидович": 59
+      "2492000380798": 242,
+      "2492000380698": 22,
+      "2492000381181": 31,
+      "2492000380073": 54,
+      "2492000380995": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
@@ -4122,6 +4942,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:42.243588+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -4131,8 +4955,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4494010129333",
+    "uikName": "УИК №48",
     "tikTvd": "2492000377557",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 317,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 375,
@@ -4148,11 +4976,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 144,
-      "Гахраманова Снежана Вячеславовна": 17,
-      "Давыденко Юрий Борисович": 9,
-      "Исаев Роман Вадимович": 15,
-      "Попов Алексей Леонидович": 20
+      "2492000380798": 144,
+      "2492000380698": 17,
+      "2492000381181": 9,
+      "2492000380073": 15,
+      "2492000380995": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
@@ -4162,6 +4990,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:42.243588+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -4171,8 +5003,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4494010129334",
+    "uikName": "УИК №49",
     "tikTvd": "2492000377557",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 171,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -4188,11 +5024,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 64,
-      "Гахраманова Снежана Вячеславовна": 4,
-      "Давыденко Юрий Борисович": 7,
-      "Исаев Роман Вадимович": 10,
-      "Попов Алексей Леонидович": 15
+      "2492000380798": 64,
+      "2492000380698": 4,
+      "2492000381181": 7,
+      "2492000380073": 10,
+      "2492000380995": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
@@ -4202,6 +5038,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:42.243588+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   },
   {
@@ -4211,8 +5051,12 @@ export const duma_2021_uik_463_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4494010129335",
+    "uikName": "УИК №50",
     "tikTvd": "2492000377557",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100225883570",
+    "regionName": "Магаданская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 249,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 270,
@@ -4228,11 +5072,11 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Басанский Антон Александрович": 116,
-      "Гахраманова Снежана Вячеславовна": 7,
-      "Давыденко Юрий Борисович": 9,
-      "Исаев Роман Вадимович": 13,
-      "Попов Алексей Леонидович": 24
+      "2492000380798": 116,
+      "2492000380698": 7,
+      "2492000381181": 9,
+      "2492000380073": 13,
+      "2492000380995": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
@@ -4242,6 +5086,10 @@ export const duma_2021_uik_463_region_49_part_001 = [
       "retrievedAt": "2026-08-26T07:58:42.243588+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000377557&vrn=100100225883172&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000377557&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100225883571"
     }
   }
 ] satisfies readonly UikProtocol[];

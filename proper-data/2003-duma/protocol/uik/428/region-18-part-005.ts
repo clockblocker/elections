@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 11,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 421,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121804": 7,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 11,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 421,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 23,
-      "Смирнова Светлана Константиновна": 326,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121804": 7,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 23,
+      "gas:candidate-vibid:1001000225909": 326,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 13,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 183,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121804": 13,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 183,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 21,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 336,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121804": 21,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 336,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 14,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 25,
-      "Смирнова Светлана Константиновна": 362,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121804": 14,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 25,
+      "gas:candidate-vibid:1001000225909": 362,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 11,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 295,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121804": 11,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 295,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 23,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 6,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 47,
-      "Смирнова Светлана Константиновна": 501,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121804": 23,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 6,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 47,
+      "gas:candidate-vibid:1001000225909": 501,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 78,
-      "Бородулин Сергей Евгеньевич": 9,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 18,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 56,
-      "Смирнова Светлана Константиновна": 441,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121804": 78,
+      "gas:candidate-vibid:1001000187989": 9,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 18,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 56,
+      "gas:candidate-vibid:1001000225909": 441,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бородулин Сергей Евгеньевич": 4,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 11,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 3,
-      "Смирнова Светлана Константиновна": 185,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121804": 15,
+      "gas:candidate-vibid:1001000187989": 4,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 11,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 3,
+      "gas:candidate-vibid:1001000225909": 185,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 9,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 24,
-      "Смирнова Светлана Константиновна": 280,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121804": 9,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 24,
+      "gas:candidate-vibid:1001000225909": 280,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 204,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121804": 7,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 204,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 1,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 0,
-      "Смирнова Светлана Константиновна": 104,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121804": 1,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 0,
+      "gas:candidate-vibid:1001000225909": 104,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 7,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 419,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121804": 15,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 7,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 419,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 1,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 3,
-      "Смирнова Светлана Константиновна": 166,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121804": 1,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 3,
+      "gas:candidate-vibid:1001000225909": 166,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 5,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 494,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121804": 5,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 494,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066656&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бородулин Сергей Евгеньевич": 6,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 6,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 367,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121804": 24,
+      "gas:candidate-vibid:1001000187989": 6,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 6,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 367,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 30,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 125,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121804": 30,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 125,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бородулин Сергей Евгеньевич": 4,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 20,
-      "Смирнова Светлана Константиновна": 281,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121804": 15,
+      "gas:candidate-vibid:1001000187989": 4,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 20,
+      "gas:candidate-vibid:1001000225909": 281,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 3,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 32,
-      "Смирнова Светлана Константиновна": 101,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121804": 3,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 32,
+      "gas:candidate-vibid:1001000225909": 101,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 196,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121804": 7,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 196,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 82,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 15,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 315,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121804": 82,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 15,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 315,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 9,
-      "Смирнова Светлана Константиновна": 221,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121804": 36,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 9,
+      "gas:candidate-vibid:1001000225909": 221,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 48,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 6,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 371,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121804": 48,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 6,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 371,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 13,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 13,
-      "Смирнова Светлана Константиновна": 287,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121804": 36,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 13,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 13,
+      "gas:candidate-vibid:1001000225909": 287,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 7,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 0,
-      "Смирнова Светлана Константиновна": 178,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121804": 6,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 7,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 0,
+      "gas:candidate-vibid:1001000225909": 178,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 74,
-      "Бородулин Сергей Евгеньевич": 11,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 28,
-      "Едигарев Андрей Борисович": 7,
-      "Красильников Владимир Анатольевич": 32,
-      "Смирнова Светлана Константиновна": 446,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121804": 74,
+      "gas:candidate-vibid:1001000187989": 11,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 28,
+      "gas:candidate-vibid:1001000118553": 7,
+      "gas:candidate-vibid:1001000217880": 32,
+      "gas:candidate-vibid:1001000225909": 446,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 65,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 6,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 29,
-      "Смирнова Светлана Константиновна": 241,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121804": 65,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 6,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 29,
+      "gas:candidate-vibid:1001000225909": 241,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 12,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 170,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121804": 12,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 170,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 11,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 0,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 2,
-      "Смирнова Светлана Константиновна": 79,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 11,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 0,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 2,
+      "gas:candidate-vibid:1001000225909": 79,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 55,
-      "Бородулин Сергей Евгеньевич": 11,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 22,
-      "Едигарев Андрей Борисович": 7,
-      "Красильников Владимир Анатольевич": 31,
-      "Смирнова Светлана Константиновна": 426,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121804": 55,
+      "gas:candidate-vibid:1001000187989": 11,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 22,
+      "gas:candidate-vibid:1001000118553": 7,
+      "gas:candidate-vibid:1001000217880": 31,
+      "gas:candidate-vibid:1001000225909": 426,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 12,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 4,
-      "Смирнова Светлана Константиновна": 84,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121804": 12,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 4,
+      "gas:candidate-vibid:1001000225909": 84,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 241,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121804": 15,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 241,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 69,
-      "Бородулин Сергей Евгеньевич": 9,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 16,
-      "Едигарев Андрей Борисович": 8,
-      "Красильников Владимир Анатольевич": 33,
-      "Смирнова Светлана Константиновна": 554,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121804": 69,
+      "gas:candidate-vibid:1001000187989": 9,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 16,
+      "gas:candidate-vibid:1001000118553": 8,
+      "gas:candidate-vibid:1001000217880": 33,
+      "gas:candidate-vibid:1001000225909": 554,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066657&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 73,
-      "Бородулин Сергей Евгеньевич": 22,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 36,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 652,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121804": 73,
+      "gas:candidate-vibid:1001000187989": 22,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 36,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 652,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 80,
-      "Бородулин Сергей Евгеньевич": 22,
-      "Вербицкий Анатолий Денисович": 10,
-      "Данилов Владимир Серафимович": 26,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 557,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121804": 80,
+      "gas:candidate-vibid:1001000187989": 22,
+      "gas:candidate-vibid:318300266737": 10,
+      "gas:candidate-vibid:1001000289804": 26,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 557,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 54,
-      "Бородулин Сергей Евгеньевич": 8,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 27,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 11,
-      "Смирнова Светлана Константиновна": 272,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121804": 54,
+      "gas:candidate-vibid:1001000187989": 8,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 27,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 11,
+      "gas:candidate-vibid:1001000225909": 272,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 64,
-      "Бородулин Сергей Евгеньевич": 17,
-      "Вербицкий Анатолий Денисович": 9,
-      "Данилов Владимир Серафимович": 51,
-      "Едигарев Андрей Борисович": 10,
-      "Красильников Владимир Анатольевич": 22,
-      "Смирнова Светлана Константиновна": 601,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121804": 64,
+      "gas:candidate-vibid:1001000187989": 17,
+      "gas:candidate-vibid:318300266737": 9,
+      "gas:candidate-vibid:1001000289804": 51,
+      "gas:candidate-vibid:1001000118553": 10,
+      "gas:candidate-vibid:1001000217880": 22,
+      "gas:candidate-vibid:1001000225909": 601,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 43,
-      "Бородулин Сергей Евгеньевич": 23,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 37,
-      "Едигарев Андрей Борисович": 9,
-      "Красильников Владимир Анатольевич": 10,
-      "Смирнова Светлана Константиновна": 281,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121804": 43,
+      "gas:candidate-vibid:1001000187989": 23,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 37,
+      "gas:candidate-vibid:1001000118553": 9,
+      "gas:candidate-vibid:1001000217880": 10,
+      "gas:candidate-vibid:1001000225909": 281,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 51,
-      "Бородулин Сергей Евгеньевич": 13,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 23,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 9,
-      "Смирнова Светлана Константиновна": 337,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121804": 51,
+      "gas:candidate-vibid:1001000187989": 13,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 23,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 9,
+      "gas:candidate-vibid:1001000225909": 337,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 57,
-      "Бородулин Сергей Евгеньевич": 26,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 48,
-      "Едигарев Андрей Борисович": 9,
-      "Красильников Владимир Анатольевич": 13,
-      "Смирнова Светлана Константиновна": 428,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121804": 57,
+      "gas:candidate-vibid:1001000187989": 26,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 48,
+      "gas:candidate-vibid:1001000118553": 9,
+      "gas:candidate-vibid:1001000217880": 13,
+      "gas:candidate-vibid:1001000225909": 428,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 122,
-      "Бородулин Сергей Евгеньевич": 28,
-      "Вербицкий Анатолий Денисович": 12,
-      "Данилов Владимир Серафимович": 55,
-      "Едигарев Андрей Борисович": 21,
-      "Красильников Владимир Анатольевич": 45,
-      "Смирнова Светлана Константиновна": 457,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121804": 122,
+      "gas:candidate-vibid:1001000187989": 28,
+      "gas:candidate-vibid:318300266737": 12,
+      "gas:candidate-vibid:1001000289804": 55,
+      "gas:candidate-vibid:1001000118553": 21,
+      "gas:candidate-vibid:1001000217880": 45,
+      "gas:candidate-vibid:1001000225909": 457,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 108,
-      "Бородулин Сергей Евгеньевич": 44,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 39,
-      "Едигарев Андрей Борисович": 12,
-      "Красильников Владимир Анатольевич": 30,
-      "Смирнова Светлана Константиновна": 460,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121804": 108,
+      "gas:candidate-vibid:1001000187989": 44,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 39,
+      "gas:candidate-vibid:1001000118553": 12,
+      "gas:candidate-vibid:1001000217880": 30,
+      "gas:candidate-vibid:1001000225909": 460,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 67,
-      "Бородулин Сергей Евгеньевич": 19,
-      "Вербицкий Анатолий Денисович": 9,
-      "Данилов Владимир Серафимович": 33,
-      "Едигарев Андрей Борисович": 12,
-      "Красильников Владимир Анатольевич": 10,
-      "Смирнова Светлана Константиновна": 310,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121804": 67,
+      "gas:candidate-vibid:1001000187989": 19,
+      "gas:candidate-vibid:318300266737": 9,
+      "gas:candidate-vibid:1001000289804": 33,
+      "gas:candidate-vibid:1001000118553": 12,
+      "gas:candidate-vibid:1001000217880": 10,
+      "gas:candidate-vibid:1001000225909": 310,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 44,
-      "Бородулин Сергей Евгеньевич": 9,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 45,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 11,
-      "Смирнова Светлана Константиновна": 381,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121804": 44,
+      "gas:candidate-vibid:1001000187989": 9,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 45,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 11,
+      "gas:candidate-vibid:1001000225909": 381,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 113,
-      "Бородулин Сергей Евгеньевич": 57,
-      "Вербицкий Анатолий Денисович": 8,
-      "Данилов Владимир Серафимович": 46,
-      "Едигарев Андрей Борисович": 8,
-      "Красильников Владимир Анатольевич": 24,
-      "Смирнова Светлана Константиновна": 538,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121804": 113,
+      "gas:candidate-vibid:1001000187989": 57,
+      "gas:candidate-vibid:318300266737": 8,
+      "gas:candidate-vibid:1001000289804": 46,
+      "gas:candidate-vibid:1001000118553": 8,
+      "gas:candidate-vibid:1001000217880": 24,
+      "gas:candidate-vibid:1001000225909": 538,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 105,
-      "Бородулин Сергей Евгеньевич": 30,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 36,
-      "Едигарев Андрей Борисович": 13,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 543,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121804": 105,
+      "gas:candidate-vibid:1001000187989": 30,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 36,
+      "gas:candidate-vibid:1001000118553": 13,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 543,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 70,
-      "Бородулин Сергей Евгеньевич": 27,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 26,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 20,
-      "Смирнова Светлана Константиновна": 539,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000121804": 70,
+      "gas:candidate-vibid:1001000187989": 27,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 26,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 20,
+      "gas:candidate-vibid:1001000225909": 539,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 134,
-      "Бородулин Сергей Евгеньевич": 29,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 47,
-      "Едигарев Андрей Борисович": 10,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 564,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000121804": 134,
+      "gas:candidate-vibid:1001000187989": 29,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 47,
+      "gas:candidate-vibid:1001000118553": 10,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 564,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 80,
-      "Бородулин Сергей Евгеньевич": 29,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 47,
-      "Едигарев Андрей Борисович": 25,
-      "Красильников Владимир Анатольевич": 27,
-      "Смирнова Светлана Константиновна": 535,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121804": 80,
+      "gas:candidate-vibid:1001000187989": 29,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 47,
+      "gas:candidate-vibid:1001000118553": 25,
+      "gas:candidate-vibid:1001000217880": 27,
+      "gas:candidate-vibid:1001000225909": 535,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 76,
-      "Бородулин Сергей Евгеньевич": 19,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 40,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 479,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121804": 76,
+      "gas:candidate-vibid:1001000187989": 19,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 40,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 479,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 137,
-      "Бородулин Сергей Евгеньевич": 31,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 45,
-      "Едигарев Андрей Борисович": 13,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 617,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121804": 137,
+      "gas:candidate-vibid:1001000187989": 31,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 45,
+      "gas:candidate-vibid:1001000118553": 13,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 617,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 74,
-      "Бородулин Сергей Евгеньевич": 28,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 30,
-      "Едигарев Андрей Борисович": 9,
-      "Красильников Владимир Анатольевич": 23,
-      "Смирнова Светлана Константиновна": 458,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121804": 74,
+      "gas:candidate-vibid:1001000187989": 28,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 30,
+      "gas:candidate-vibid:1001000118553": 9,
+      "gas:candidate-vibid:1001000217880": 23,
+      "gas:candidate-vibid:1001000225909": 458,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 129,
-      "Бородулин Сергей Евгеньевич": 47,
-      "Вербицкий Анатолий Денисович": 8,
-      "Данилов Владимир Серафимович": 40,
-      "Едигарев Андрей Борисович": 11,
-      "Красильников Владимир Анатольевич": 25,
-      "Смирнова Светлана Константиновна": 566,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121804": 129,
+      "gas:candidate-vibid:1001000187989": 47,
+      "gas:candidate-vibid:318300266737": 8,
+      "gas:candidate-vibid:1001000289804": 40,
+      "gas:candidate-vibid:1001000118553": 11,
+      "gas:candidate-vibid:1001000217880": 25,
+      "gas:candidate-vibid:1001000225909": 566,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 93,
-      "Бородулин Сергей Евгеньевич": 34,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 45,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 481,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121804": 93,
+      "gas:candidate-vibid:1001000187989": 34,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 45,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 481,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 66,
-      "Бородулин Сергей Евгеньевич": 28,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 31,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 15,
-      "Смирнова Светлана Константиновна": 360,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121804": 66,
+      "gas:candidate-vibid:1001000187989": 28,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 31,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 15,
+      "gas:candidate-vibid:1001000225909": 360,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 25,
-      "Бородулин Сергей Евгеньевич": 8,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 22,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 210,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121804": 25,
+      "gas:candidate-vibid:1001000187989": 8,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 22,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 210,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 100,
-      "Бородулин Сергей Евгеньевич": 26,
-      "Вербицкий Анатолий Денисович": 8,
-      "Данилов Владимир Серафимович": 33,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 17,
-      "Смирнова Светлана Константиновна": 440,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121804": 100,
+      "gas:candidate-vibid:1001000187989": 26,
+      "gas:candidate-vibid:318300266737": 8,
+      "gas:candidate-vibid:1001000289804": 33,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 17,
+      "gas:candidate-vibid:1001000225909": 440,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 59,
-      "Бородулин Сергей Евгеньевич": 15,
-      "Вербицкий Анатолий Денисович": 10,
-      "Данилов Владимир Серафимович": 24,
-      "Едигарев Андрей Борисович": 7,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 471,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121804": 59,
+      "gas:candidate-vibid:1001000187989": 15,
+      "gas:candidate-vibid:318300266737": 10,
+      "gas:candidate-vibid:1001000289804": 24,
+      "gas:candidate-vibid:1001000118553": 7,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 471,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 82,
-      "Бородулин Сергей Евгеньевич": 19,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 21,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 487,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121804": 82,
+      "gas:candidate-vibid:1001000187989": 19,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 21,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 487,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 157,
-      "Бородулин Сергей Евгеньевич": 25,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 23,
-      "Едигарев Андрей Борисович": 10,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 510,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121804": 157,
+      "gas:candidate-vibid:1001000187989": 25,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 23,
+      "gas:candidate-vibid:1001000118553": 10,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 510,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 75,
-      "Бородулин Сергей Евгеньевич": 26,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 44,
-      "Едигарев Андрей Борисович": 5,
-      "Красильников Владимир Анатольевич": 16,
-      "Смирнова Светлана Константиновна": 425,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121804": 75,
+      "gas:candidate-vibid:1001000187989": 26,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 44,
+      "gas:candidate-vibid:1001000118553": 5,
+      "gas:candidate-vibid:1001000217880": 16,
+      "gas:candidate-vibid:1001000225909": 425,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 133,
-      "Бородулин Сергей Евгеньевич": 26,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 26,
-      "Едигарев Андрей Борисович": 8,
-      "Красильников Владимир Анатольевич": 22,
-      "Смирнова Светлана Константиновна": 502,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121804": 133,
+      "gas:candidate-vibid:1001000187989": 26,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 26,
+      "gas:candidate-vibid:1001000118553": 8,
+      "gas:candidate-vibid:1001000217880": 22,
+      "gas:candidate-vibid:1001000225909": 502,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 42,
-      "Бородулин Сергей Евгеньевич": 5,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 19,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 281,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121804": 42,
+      "gas:candidate-vibid:1001000187989": 5,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 19,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 281,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 54,
-      "Бородулин Сергей Евгеньевич": 11,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 21,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 4,
-      "Смирнова Светлана Константиновна": 325,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121804": 54,
+      "gas:candidate-vibid:1001000187989": 11,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 21,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 4,
+      "gas:candidate-vibid:1001000225909": 325,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 49,
-      "Бородулин Сергей Евгеньевич": 17,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 16,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 11,
-      "Смирнова Светлана Константиновна": 279,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121804": 49,
+      "gas:candidate-vibid:1001000187989": 17,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 16,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 11,
+      "gas:candidate-vibid:1001000225909": 279,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 126,
-      "Бородулин Сергей Евгеньевич": 33,
-      "Вербицкий Анатолий Денисович": 10,
-      "Данилов Владимир Серафимович": 43,
-      "Едигарев Андрей Борисович": 11,
-      "Красильников Владимир Анатольевич": 25,
-      "Смирнова Светлана Константиновна": 532,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121804": 126,
+      "gas:candidate-vibid:1001000187989": 33,
+      "gas:candidate-vibid:318300266737": 10,
+      "gas:candidate-vibid:1001000289804": 43,
+      "gas:candidate-vibid:1001000118553": 11,
+      "gas:candidate-vibid:1001000217880": 25,
+      "gas:candidate-vibid:1001000225909": 532,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 85,
-      "Бородулин Сергей Евгеньевич": 23,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 57,
-      "Едигарев Андрей Борисович": 12,
-      "Красильников Владимир Анатольевич": 17,
-      "Смирнова Светлана Константиновна": 428,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121804": 85,
+      "gas:candidate-vibid:1001000187989": 23,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 57,
+      "gas:candidate-vibid:1001000118553": 12,
+      "gas:candidate-vibid:1001000217880": 17,
+      "gas:candidate-vibid:1001000225909": 428,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 155,
-      "Бородулин Сергей Евгеньевич": 41,
-      "Вербицкий Анатолий Денисович": 12,
-      "Данилов Владимир Серафимович": 47,
-      "Едигарев Андрей Борисович": 8,
-      "Красильников Владимир Анатольевич": 33,
-      "Смирнова Светлана Константиновна": 536,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121804": 155,
+      "gas:candidate-vibid:1001000187989": 41,
+      "gas:candidate-vibid:318300266737": 12,
+      "gas:candidate-vibid:1001000289804": 47,
+      "gas:candidate-vibid:1001000118553": 8,
+      "gas:candidate-vibid:1001000217880": 33,
+      "gas:candidate-vibid:1001000225909": 536,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 76,
-      "Бородулин Сергей Евгеньевич": 17,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 35,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 19,
-      "Смирнова Светлана Константиновна": 339,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121804": 76,
+      "gas:candidate-vibid:1001000187989": 17,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 35,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 19,
+      "gas:candidate-vibid:1001000225909": 339,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 168,
-      "Бородулин Сергей Евгеньевич": 49,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 49,
-      "Едигарев Андрей Борисович": 13,
-      "Красильников Владимир Анатольевич": 24,
-      "Смирнова Светлана Константиновна": 602,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121804": 168,
+      "gas:candidate-vibid:1001000187989": 49,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 49,
+      "gas:candidate-vibid:1001000118553": 13,
+      "gas:candidate-vibid:1001000217880": 24,
+      "gas:candidate-vibid:1001000225909": 602,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 196,
-      "Бородулин Сергей Евгеньевич": 21,
-      "Вербицкий Анатолий Денисович": 10,
-      "Данилов Владимир Серафимович": 33,
-      "Едигарев Андрей Борисович": 12,
-      "Красильников Владимир Анатольевич": 19,
-      "Смирнова Светлана Константиновна": 500,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121804": 196,
+      "gas:candidate-vibid:1001000187989": 21,
+      "gas:candidate-vibid:318300266737": 10,
+      "gas:candidate-vibid:1001000289804": 33,
+      "gas:candidate-vibid:1001000118553": 12,
+      "gas:candidate-vibid:1001000217880": 19,
+      "gas:candidate-vibid:1001000225909": 500,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 211,
-      "Бородулин Сергей Евгеньевич": 26,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 33,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 32,
-      "Смирнова Светлана Константиновна": 524,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121804": 211,
+      "gas:candidate-vibid:1001000187989": 26,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 33,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 32,
+      "gas:candidate-vibid:1001000225909": 524,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 185,
-      "Бородулин Сергей Евгеньевич": 22,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 30,
-      "Едигарев Андрей Борисович": 15,
-      "Красильников Владимир Анатольевич": 24,
-      "Смирнова Светлана Константиновна": 474,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121804": 185,
+      "gas:candidate-vibid:1001000187989": 22,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 30,
+      "gas:candidate-vibid:1001000118553": 15,
+      "gas:candidate-vibid:1001000217880": 24,
+      "gas:candidate-vibid:1001000225909": 474,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 198,
-      "Бородулин Сергей Евгеньевич": 38,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 39,
-      "Едигарев Андрей Борисович": 14,
-      "Красильников Владимир Анатольевич": 30,
-      "Смирнова Светлана Константиновна": 559,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000121804": 198,
+      "gas:candidate-vibid:1001000187989": 38,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 39,
+      "gas:candidate-vibid:1001000118553": 14,
+      "gas:candidate-vibid:1001000217880": 30,
+      "gas:candidate-vibid:1001000225909": 559,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 95,
-      "Бородулин Сергей Евгеньевич": 28,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 31,
-      "Едигарев Андрей Борисович": 8,
-      "Красильников Владимир Анатольевич": 20,
-      "Смирнова Светлана Константиновна": 417,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121804": 95,
+      "gas:candidate-vibid:1001000187989": 28,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 31,
+      "gas:candidate-vibid:1001000118553": 8,
+      "gas:candidate-vibid:1001000217880": 20,
+      "gas:candidate-vibid:1001000225909": 417,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 121,
-      "Бородулин Сергей Евгеньевич": 17,
-      "Вербицкий Анатолий Денисович": 14,
-      "Данилов Владимир Серафимович": 49,
-      "Едигарев Андрей Борисович": 14,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 518,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121804": 121,
+      "gas:candidate-vibid:1001000187989": 17,
+      "gas:candidate-vibid:318300266737": 14,
+      "gas:candidate-vibid:1001000289804": 49,
+      "gas:candidate-vibid:1001000118553": 14,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 518,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 165,
-      "Бородулин Сергей Евгеньевич": 25,
-      "Вербицкий Анатолий Денисович": 10,
-      "Данилов Владимир Серафимович": 45,
-      "Едигарев Андрей Борисович": 8,
-      "Красильников Владимир Анатольевич": 25,
-      "Смирнова Светлана Константиновна": 614,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121804": 165,
+      "gas:candidate-vibid:1001000187989": 25,
+      "gas:candidate-vibid:318300266737": 10,
+      "gas:candidate-vibid:1001000289804": 45,
+      "gas:candidate-vibid:1001000118553": 8,
+      "gas:candidate-vibid:1001000217880": 25,
+      "gas:candidate-vibid:1001000225909": 614,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 152,
-      "Бородулин Сергей Евгеньевич": 39,
-      "Вербицкий Анатолий Денисович": 12,
-      "Данилов Владимир Серафимович": 43,
-      "Едигарев Андрей Борисович": 15,
-      "Красильников Владимир Анатольевич": 25,
-      "Смирнова Светлана Константиновна": 757,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121804": 152,
+      "gas:candidate-vibid:1001000187989": 39,
+      "gas:candidate-vibid:318300266737": 12,
+      "gas:candidate-vibid:1001000289804": 43,
+      "gas:candidate-vibid:1001000118553": 15,
+      "gas:candidate-vibid:1001000217880": 25,
+      "gas:candidate-vibid:1001000225909": 757,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 114,
-      "Бородулин Сергей Евгеньевич": 40,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 48,
-      "Едигарев Андрей Борисович": 12,
-      "Красильников Владимир Анатольевич": 28,
-      "Смирнова Светлана Константиновна": 691,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000121804": 114,
+      "gas:candidate-vibid:1001000187989": 40,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 48,
+      "gas:candidate-vibid:1001000118553": 12,
+      "gas:candidate-vibid:1001000217880": 28,
+      "gas:candidate-vibid:1001000225909": 691,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 120,
-      "Бородулин Сергей Евгеньевич": 31,
-      "Вербицкий Анатолий Денисович": 9,
-      "Данилов Владимир Серафимович": 43,
-      "Едигарев Андрей Борисович": 10,
-      "Красильников Владимир Анатольевич": 16,
-      "Смирнова Светлана Константиновна": 668,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000121804": 120,
+      "gas:candidate-vibid:1001000187989": 31,
+      "gas:candidate-vibid:318300266737": 9,
+      "gas:candidate-vibid:1001000289804": 43,
+      "gas:candidate-vibid:1001000118553": 10,
+      "gas:candidate-vibid:1001000217880": 16,
+      "gas:candidate-vibid:1001000225909": 668,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 97,
-      "Бородулин Сергей Евгеньевич": 19,
-      "Вербицкий Анатолий Денисович": 10,
-      "Данилов Владимир Серафимович": 33,
-      "Едигарев Андрей Борисович": 10,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 374,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121804": 97,
+      "gas:candidate-vibid:1001000187989": 19,
+      "gas:candidate-vibid:318300266737": 10,
+      "gas:candidate-vibid:1001000289804": 33,
+      "gas:candidate-vibid:1001000118553": 10,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 374,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 103,
-      "Бородулин Сергей Евгеньевич": 28,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 40,
-      "Едигарев Андрей Борисович": 12,
-      "Красильников Владимир Анатольевич": 13,
-      "Смирнова Светлана Константиновна": 505,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121804": 103,
+      "gas:candidate-vibid:1001000187989": 28,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 40,
+      "gas:candidate-vibid:1001000118553": 12,
+      "gas:candidate-vibid:1001000217880": 13,
+      "gas:candidate-vibid:1001000225909": 505,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 82,
-      "Бородулин Сергей Евгеньевич": 18,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 32,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 404,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121804": 82,
+      "gas:candidate-vibid:1001000187989": 18,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 32,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 404,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 39,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 17,
-      "Едигарев Андрей Борисович": 7,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 232,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121804": 39,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 17,
+      "gas:candidate-vibid:1001000118553": 7,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 232,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 67,
-      "Бородулин Сергей Евгеньевич": 6,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 37,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 10,
-      "Смирнова Светлана Константиновна": 488,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121804": 67,
+      "gas:candidate-vibid:1001000187989": 6,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 37,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 10,
+      "gas:candidate-vibid:1001000225909": 488,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 2,
-      "Смирнова Светлана Константиновна": 207,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121804": 6,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 2,
+      "gas:candidate-vibid:1001000225909": 207,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 9,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 1,
-      "Смирнова Светлана Константиновна": 31,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121804": 9,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 1,
+      "gas:candidate-vibid:1001000225909": 31,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066658&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 22,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 10,
-      "Смирнова Светлана Константиновна": 267,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121804": 22,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 10,
+      "gas:candidate-vibid:1001000225909": 267,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 44,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 100,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 44,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 100,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 9,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 0,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 0,
-      "Смирнова Светлана Константиновна": 19,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121804": 9,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 0,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 0,
+      "gas:candidate-vibid:1001000225909": 19,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 139,
-      "Бородулин Сергей Евгеньевич": 9,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 11,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 31,
-      "Смирнова Светлана Константиновна": 471,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121804": 139,
+      "gas:candidate-vibid:1001000187989": 9,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 11,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 31,
+      "gas:candidate-vibid:1001000225909": 471,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 21,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 8,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 250,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 21,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 8,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 250,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 52,
-      "Бородулин Сергей Евгеньевич": 4,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 10,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 4,
-      "Смирнова Светлана Константиновна": 201,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121804": 52,
+      "gas:candidate-vibid:1001000187989": 4,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 10,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 4,
+      "gas:candidate-vibid:1001000225909": 201,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 23,
-      "Бородулин Сергей Евгеньевич": 5,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 1,
-      "Смирнова Светлана Константиновна": 66,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121804": 23,
+      "gas:candidate-vibid:1001000187989": 5,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 1,
+      "gas:candidate-vibid:1001000225909": 66,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 158,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121804": 16,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 158,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 113,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121804": 16,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 113,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 23,
-      "Смирнова Светлана Константиновна": 176,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121804": 16,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 23,
+      "gas:candidate-vibid:1001000225909": 176,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 43,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 12,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 24,
-      "Смирнова Светлана Константиновна": 185,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121804": 43,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 12,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 24,
+      "gas:candidate-vibid:1001000225909": 185,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 66,
-      "Бородулин Сергей Евгеньевич": 8,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 7,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 13,
-      "Смирнова Светлана Константиновна": 301,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121804": 66,
+      "gas:candidate-vibid:1001000187989": 8,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 7,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 13,
+      "gas:candidate-vibid:1001000225909": 301,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 21,
-      "Бородулин Сергей Евгеньевич": 6,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 6,
-      "Смирнова Светлана Константиновна": 127,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 21,
+      "gas:candidate-vibid:1001000187989": 6,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 6,
+      "gas:candidate-vibid:1001000225909": 127,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 11,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 140,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 11,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 140,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 59,
-      "Бородулин Сергей Евгеньевич": 6,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 11,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 6,
-      "Смирнова Светлана Константиновна": 241,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121804": 59,
+      "gas:candidate-vibid:1001000187989": 6,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 11,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 6,
+      "gas:candidate-vibid:1001000225909": 241,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 19,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 9,
-      "Смирнова Светлана Константиновна": 77,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 19,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 9,
+      "gas:candidate-vibid:1001000225909": 77,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 187,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 10,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 187,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 14,
-      "Бородулин Сергей Евгеньевич": 4,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 4,
-      "Смирнова Светлана Константиновна": 93,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 14,
+      "gas:candidate-vibid:1001000187989": 4,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 4,
+      "gas:candidate-vibid:1001000225909": 93,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 9,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 0,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 0,
-      "Смирнова Светлана Константиновна": 43,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121804": 9,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 0,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 0,
+      "gas:candidate-vibid:1001000225909": 43,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 47,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 19,
-      "Едигарев Андрей Борисович": 6,
-      "Красильников Владимир Анатольевич": 2,
-      "Смирнова Светлана Константиновна": 256,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121804": 47,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 19,
+      "gas:candidate-vibid:1001000118553": 6,
+      "gas:candidate-vibid:1001000217880": 2,
+      "gas:candidate-vibid:1001000225909": 256,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 205,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121804": 15,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 205,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 1,
-      "Смирнова Светлана Константиновна": 105,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121804": 7,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 1,
+      "gas:candidate-vibid:1001000225909": 105,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 30,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 156,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121804": 30,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 156,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 11,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 4,
-      "Смирнова Светлана Константиновна": 76,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121804": 11,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 4,
+      "gas:candidate-vibid:1001000225909": 76,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 14,
-      "Бородулин Сергей Евгеньевич": 5,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 278,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121804": 14,
+      "gas:candidate-vibid:1001000187989": 5,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 278,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 38,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 6,
-      "Смирнова Светлана Константиновна": 192,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121804": 38,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 6,
+      "gas:candidate-vibid:1001000225909": 192,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 35,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 36,
-      "Смирнова Светлана Константиновна": 122,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121804": 35,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 36,
+      "gas:candidate-vibid:1001000225909": 122,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 8,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 14,
-      "Смирнова Светлана Константиновна": 180,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121804": 24,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 8,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 14,
+      "gas:candidate-vibid:1001000225909": 180,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 6,
-      "Смирнова Светлана Константиновна": 156,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121804": 10,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 6,
+      "gas:candidate-vibid:1001000225909": 156,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 137,
-      "Бородулин Сергей Евгеньевич": 6,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 16,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 9,
-      "Смирнова Светлана Константиновна": 353,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121804": 137,
+      "gas:candidate-vibid:1001000187989": 6,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 16,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 9,
+      "gas:candidate-vibid:1001000225909": 353,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 98,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 21,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 249,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121804": 98,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 21,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 249,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 2,
-      "Смирнова Светлана Константиновна": 74,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 16,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 2,
+      "gas:candidate-vibid:1001000225909": 74,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 132,
-      "Бородулин Сергей Евгеньевич": 22,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 26,
-      "Едигарев Андрей Борисович": 9,
-      "Красильников Владимир Анатольевич": 30,
-      "Смирнова Светлана Константиновна": 462,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121804": 132,
+      "gas:candidate-vibid:1001000187989": 22,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 26,
+      "gas:candidate-vibid:1001000118553": 9,
+      "gas:candidate-vibid:1001000217880": 30,
+      "gas:candidate-vibid:1001000225909": 462,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 43,
-      "Бородулин Сергей Евгеньевич": 7,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 7,
-      "Смирнова Светлана Константиновна": 250,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121804": 43,
+      "gas:candidate-vibid:1001000187989": 7,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 7,
+      "gas:candidate-vibid:1001000225909": 250,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 138,
-      "Бородулин Сергей Евгеньевич": 5,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 33,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 29,
-      "Смирнова Светлана Константиновна": 534,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121804": 138,
+      "gas:candidate-vibid:1001000187989": 5,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 33,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 29,
+      "gas:candidate-vibid:1001000225909": 534,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 101,
-      "Бородулин Сергей Евгеньевич": 10,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 23,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 28,
-      "Смирнова Светлана Константиновна": 452,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121804": 101,
+      "gas:candidate-vibid:1001000187989": 10,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 23,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 28,
+      "gas:candidate-vibid:1001000225909": 452,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 109,
-      "Бородулин Сергей Евгеньевич": 18,
-      "Вербицкий Анатолий Денисович": 6,
-      "Данилов Владимир Серафимович": 40,
-      "Едигарев Андрей Борисович": 7,
-      "Красильников Владимир Анатольевич": 48,
-      "Смирнова Светлана Константиновна": 558,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121804": 109,
+      "gas:candidate-vibid:1001000187989": 18,
+      "gas:candidate-vibid:318300266737": 6,
+      "gas:candidate-vibid:1001000289804": 40,
+      "gas:candidate-vibid:1001000118553": 7,
+      "gas:candidate-vibid:1001000217880": 48,
+      "gas:candidate-vibid:1001000225909": 558,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 58,
-      "Бородулин Сергей Евгеньевич": 5,
-      "Вербицкий Анатолий Денисович": 3,
-      "Данилов Владимир Серафимович": 15,
-      "Едигарев Андрей Борисович": 3,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 355,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121804": 58,
+      "gas:candidate-vibid:1001000187989": 5,
+      "gas:candidate-vibid:318300266737": 3,
+      "gas:candidate-vibid:1001000289804": 15,
+      "gas:candidate-vibid:1001000118553": 3,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 355,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 74,
-      "Бородулин Сергей Евгеньевич": 4,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 21,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 34,
-      "Смирнова Светлана Константиновна": 386,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121804": 74,
+      "gas:candidate-vibid:1001000187989": 4,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 21,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 34,
+      "gas:candidate-vibid:1001000225909": 386,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066659&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 94,
-      "Бородулин Сергей Евгеньевич": 12,
-      "Вербицкий Анатолий Денисович": 7,
-      "Данилов Владимир Серафимович": 51,
-      "Едигарев Андрей Борисович": 9,
-      "Красильников Владимир Анатольевич": 77,
-      "Смирнова Светлана Константиновна": 1236,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000121804": 94,
+      "gas:candidate-vibid:1001000187989": 12,
+      "gas:candidate-vibid:318300266737": 7,
+      "gas:candidate-vibid:1001000289804": 51,
+      "gas:candidate-vibid:1001000118553": 9,
+      "gas:candidate-vibid:1001000217880": 77,
+      "gas:candidate-vibid:1001000225909": 1236,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 66,
-      "Бородулин Сергей Евгеньевич": 9,
-      "Вербицкий Анатолий Денисович": 5,
-      "Данилов Владимир Серафимович": 15,
-      "Едигарев Андрей Борисович": 4,
-      "Красильников Владимир Анатольевич": 41,
-      "Смирнова Светлана Константиновна": 535,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121804": 66,
+      "gas:candidate-vibid:1001000187989": 9,
+      "gas:candidate-vibid:318300266737": 5,
+      "gas:candidate-vibid:1001000289804": 15,
+      "gas:candidate-vibid:1001000118553": 4,
+      "gas:candidate-vibid:1001000217880": 41,
+      "gas:candidate-vibid:1001000225909": 535,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 7,
-      "Едигарев Андрей Борисович": 2,
-      "Красильников Владимир Анатольевич": 8,
-      "Смирнова Светлана Константиновна": 227,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121804": 6,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 7,
+      "gas:candidate-vibid:1001000118553": 2,
+      "gas:candidate-vibid:1001000217880": 8,
+      "gas:candidate-vibid:1001000225909": 227,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 7,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 13,
-      "Смирнова Светлана Константиновна": 355,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121804": 16,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 7,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 13,
+      "gas:candidate-vibid:1001000225909": 355,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 4,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 6,
-      "Смирнова Светлана Константиновна": 56,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121804": 6,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 4,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 6,
+      "gas:candidate-vibid:1001000225909": 56,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 0,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 2,
-      "Смирнова Светлана Константиновна": 63,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121804": 0,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 2,
+      "gas:candidate-vibid:1001000225909": 63,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 1,
-      "Смирнова Светлана Константиновна": 87,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 10,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 1,
+      "gas:candidate-vibid:1001000225909": 87,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 9,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 19,
-      "Смирнова Светлана Константиновна": 114,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121804": 9,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 19,
+      "gas:candidate-vibid:1001000225909": 114,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 0,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 36,
-      "Смирнова Светлана Константиновна": 135,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121804": 10,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 0,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 36,
+      "gas:candidate-vibid:1001000225909": 135,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 1,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 1,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 6,
-      "Смирнова Светлана Константиновна": 125,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121804": 1,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 1,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 6,
+      "gas:candidate-vibid:1001000225909": 125,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 4,
-      "Данилов Владимир Серафимович": 5,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 193,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121804": 10,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 4,
+      "gas:candidate-vibid:1001000289804": 5,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 193,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 0,
-      "Бородулин Сергей Евгеньевич": 3,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 4,
-      "Смирнова Светлана Константиновна": 89,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121804": 0,
+      "gas:candidate-vibid:1001000187989": 3,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 4,
+      "gas:candidate-vibid:1001000225909": 89,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бородулин Сергей Евгеньевич": 5,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 7,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 20,
-      "Смирнова Светлана Константиновна": 357,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121804": 16,
+      "gas:candidate-vibid:1001000187989": 5,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 7,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 20,
+      "gas:candidate-vibid:1001000225909": 357,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 5,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 0,
-      "Едигарев Андрей Борисович": 1,
-      "Красильников Владимир Анатольевич": 0,
-      "Смирнова Светлана Константиновна": 109,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121804": 5,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 0,
+      "gas:candidate-vibid:1001000118553": 1,
+      "gas:candidate-vibid:1001000217880": 0,
+      "gas:candidate-vibid:1001000225909": 109,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 279,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 10,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 279,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 19,
-      "Бородулин Сергей Евгеньевич": 2,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 9,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 14,
-      "Смирнова Светлана Константиновна": 141,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121804": 19,
+      "gas:candidate-vibid:1001000187989": 2,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 9,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 14,
+      "gas:candidate-vibid:1001000225909": 141,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 0,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 10,
-      "Смирнова Светлана Константиновна": 114,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121804": 0,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 10,
+      "gas:candidate-vibid:1001000225909": 114,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 1,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 93,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121804": 1,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 93,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бородулин Сергей Евгеньевич": 0,
-      "Вербицкий Анатолий Денисович": 0,
-      "Данилов Владимир Серафимович": 3,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 12,
-      "Смирнова Светлана Константиновна": 90,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 7,
+      "gas:candidate-vibid:1001000187989": 0,
+      "gas:candidate-vibid:318300266737": 0,
+      "gas:candidate-vibid:1001000289804": 3,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 12,
+      "gas:candidate-vibid:1001000225909": 90,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 1,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 1,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 5,
-      "Смирнова Светлана Константиновна": 51,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121804": 1,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 1,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 5,
+      "gas:candidate-vibid:1001000225909": 51,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_18_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 28,
-      "Бородулин Сергей Евгеньевич": 1,
-      "Вербицкий Анатолий Денисович": 2,
-      "Данилов Владимир Серафимович": 2,
-      "Едигарев Андрей Борисович": 0,
-      "Красильников Владимир Анатольевич": 18,
-      "Смирнова Светлана Константиновна": 242,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121804": 28,
+      "gas:candidate-vibid:1001000187989": 1,
+      "gas:candidate-vibid:318300266737": 2,
+      "gas:candidate-vibid:1001000289804": 2,
+      "gas:candidate-vibid:1001000118553": 0,
+      "gas:candidate-vibid:1001000217880": 18,
+      "gas:candidate-vibid:1001000225909": 242,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=182000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=218200066660&region=0&sub_region=0&type=429",

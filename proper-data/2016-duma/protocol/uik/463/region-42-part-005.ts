@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 5,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 79
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 5,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 69,
-      "Мишенин Евгений Николаевич": 38,
-      "Украинцев Игорь Сергеевич": 5,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 492
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 69,
+      "gas:candidate-vibid:2422000975998": 38,
+      "gas:candidate-vibid:2422000974701": 5,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 492
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 11,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 76
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 11,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 20,
-      "Украинцев Игорь Сергеевич": 31,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 400
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 20,
+      "gas:candidate-vibid:2422000974701": 31,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 115,
-      "Мишенин Евгений Николаевич": 39,
-      "Украинцев Игорь Сергеевич": 59,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 828
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 115,
+      "gas:candidate-vibid:2422000975998": 39,
+      "gas:candidate-vibid:2422000974701": 59,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 828
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 25,
-      "Украинцев Игорь Сергеевич": 31,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 401
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 25,
+      "gas:candidate-vibid:2422000974701": 31,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 29,
-      "Мишенин Евгений Николаевич": 9,
-      "Украинцев Игорь Сергеевич": 14,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 183
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 29,
+      "gas:candidate-vibid:2422000975998": 9,
+      "gas:candidate-vibid:2422000974701": 14,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 2,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 2,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 94
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 2,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 2,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 61,
-      "Мишенин Евгений Николаевич": 23,
-      "Украинцев Игорь Сергеевич": 33,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 410
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 61,
+      "gas:candidate-vibid:2422000975998": 23,
+      "gas:candidate-vibid:2422000974701": 33,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 20,
-      "Мишенин Евгений Николаевич": 6,
-      "Украинцев Игорь Сергеевич": 9,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 125
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 20,
+      "gas:candidate-vibid:2422000975998": 6,
+      "gas:candidate-vibid:2422000974701": 9,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 63,
-      "Мишенин Евгений Николаевич": 22,
-      "Украинцев Игорь Сергеевич": 33,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 442
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 63,
+      "gas:candidate-vibid:2422000975998": 22,
+      "gas:candidate-vibid:2422000974701": 33,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 29,
-      "Мишенин Евгений Николаевич": 11,
-      "Украинцев Игорь Сергеевич": 17,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 200
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 29,
+      "gas:candidate-vibid:2422000975998": 11,
+      "gas:candidate-vibid:2422000974701": 17,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 47,
-      "Мишенин Евгений Николаевич": 17,
-      "Украинцев Игорь Сергеевич": 25,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 330
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 47,
+      "gas:candidate-vibid:2422000975998": 17,
+      "gas:candidate-vibid:2422000974701": 25,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 13,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 94
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 13,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 26,
-      "Мишенин Евгений Николаевич": 9,
-      "Украинцев Игорь Сергеевич": 14,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 180
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 26,
+      "gas:candidate-vibid:2422000975998": 9,
+      "gas:candidate-vibid:2422000974701": 14,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 19,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 10,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 131
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 19,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 10,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909160&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909160&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 6,
-      "Украинцев Игорь Сергеевич": 9,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 732
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 6,
+      "gas:candidate-vibid:2422000974701": 9,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 732
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 12,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 19,
-      "Усольцева Ирина Сергеевна": 12,
-      "Федяев Павел Михайлович": 673
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 12,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 19,
+      "gas:candidate-vibid:2422000976511": 12,
+      "gas:candidate-vibid:2422000977235": 673
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 9,
-      "Мишенин Евгений Николаевич": 2,
-      "Украинцев Игорь Сергеевич": 14,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 754
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 9,
+      "gas:candidate-vibid:2422000975998": 2,
+      "gas:candidate-vibid:2422000974701": 14,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 754
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 13,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 17,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 841
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 13,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 17,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 841
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 9,
-      "Федяев Павел Михайлович": 713
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 9,
+      "gas:candidate-vibid:2422000977235": 713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 9,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 9,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 743
+      "gas:candidate-vibid:2422000977736": 9,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 9,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 743
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 15,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 15,
-      "Федяев Павел Михайлович": 731
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 15,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 15,
+      "gas:candidate-vibid:2422000977235": 731
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 21,
-      "Мишенин Евгений Николаевич": 6,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 823
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 21,
+      "gas:candidate-vibid:2422000975998": 6,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 823
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 26,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 1,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 946
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 26,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 1,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 946
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 6,
-      "Украинцев Игорь Сергеевич": 4,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 260
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 6,
+      "gas:candidate-vibid:2422000974701": 4,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 11,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 679
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 11,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 679
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 19,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 2,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 431
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 19,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 2,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 4,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 7,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 124
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 4,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 7,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 127
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 3,
-      "Мишенин Евгений Николаевич": 2,
-      "Украинцев Игорь Сергеевич": 7,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 163
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 3,
+      "gas:candidate-vibid:2422000975998": 2,
+      "gas:candidate-vibid:2422000974701": 7,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 4,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 5,
-      "Усольцева Ирина Сергеевна": 6,
-      "Федяев Павел Михайлович": 506
+      "gas:candidate-vibid:2422000977736": 4,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 5,
+      "gas:candidate-vibid:2422000976511": 6,
+      "gas:candidate-vibid:2422000977235": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 4,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 459
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 4,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 2,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 7,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 473
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 2,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 7,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 473
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 7,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 968
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 7,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 968
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 2,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 57
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 2,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 11,
-      "Усольцева Ирина Сергеевна": 12,
-      "Федяев Павел Михайлович": 591
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 11,
+      "gas:candidate-vibid:2422000976511": 12,
+      "gas:candidate-vibid:2422000977235": 591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 5,
-      "Федяев Павел Михайлович": 642
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 5,
+      "gas:candidate-vibid:2422000977235": 642
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 10,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 753
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 10,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 753
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 4,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 2,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 326
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 4,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 2,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 2,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 5,
-      "Усольцева Ирина Сергеевна": 5,
-      "Федяев Павел Михайлович": 333
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 2,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 5,
+      "gas:candidate-vibid:2422000976511": 5,
+      "gas:candidate-vibid:2422000977235": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 2,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 74
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 2,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 495
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 8,
-      "Федяев Павел Михайлович": 465
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 8,
+      "gas:candidate-vibid:2422000977235": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 8,
-      "Украинцев Игорь Сергеевич": 12,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 721
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 8,
+      "gas:candidate-vibid:2422000974701": 12,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 721
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 402
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 15,
-      "Украинцев Игорь Сергеевич": 13,
-      "Усольцева Ирина Сергеевна": 13,
-      "Федяев Павел Михайлович": 711
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 15,
+      "gas:candidate-vibid:2422000974701": 13,
+      "gas:candidate-vibid:2422000976511": 13,
+      "gas:candidate-vibid:2422000977235": 711
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 10,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 20,
-      "Усольцева Ирина Сергеевна": 13,
-      "Федяев Павел Михайлович": 1056
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 10,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 20,
+      "gas:candidate-vibid:2422000976511": 13,
+      "gas:candidate-vibid:2422000977235": 1056
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 16,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 18,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 1105
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 16,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 18,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 1105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 25,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 822
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 25,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 822
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 3,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 118
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 3,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2899,12 +2899,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 4,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 141
+      "gas:candidate-vibid:2422000977736": 4,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -2955,12 +2955,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 7,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 5,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 518
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 7,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 5,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 518
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3011,12 +3011,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 6,
-      "Федяев Павел Михайлович": 198
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 6,
+      "gas:candidate-vibid:2422000977235": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3067,12 +3067,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 1,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 70
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 1,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3123,12 +3123,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 1,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 305
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 1,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3179,12 +3179,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 1,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 1,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 304
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 1,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 1,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3235,12 +3235,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 2,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 296
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 2,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3291,12 +3291,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 3,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 288
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 3,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3347,12 +3347,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 0,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 290
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 0,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3403,12 +3403,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 17,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 541
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 17,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 541
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3459,12 +3459,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 7,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 293
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 7,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3515,12 +3515,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 1,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 289
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 1,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3571,12 +3571,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 1,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 61
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 1,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3627,12 +3627,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 3,
-      "Мишенин Евгений Николаевич": 2,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 273
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 3,
+      "gas:candidate-vibid:2422000975998": 2,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3683,12 +3683,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 598
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3739,12 +3739,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 2,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 317
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 2,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3795,12 +3795,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 4,
-      "Мишенин Евгений Николаевич": 2,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 395
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 4,
+      "gas:candidate-vibid:2422000975998": 2,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3851,12 +3851,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 12,
-      "Мишенин Евгений Николаевич": 2,
-      "Украинцев Игорь Сергеевич": 18,
-      "Усольцева Ирина Сергеевна": 5,
-      "Федяев Павел Михайлович": 690
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 12,
+      "gas:candidate-vibid:2422000975998": 2,
+      "gas:candidate-vibid:2422000974701": 18,
+      "gas:candidate-vibid:2422000976511": 5,
+      "gas:candidate-vibid:2422000977235": 690
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3907,12 +3907,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 15,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 23,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 722
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 15,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 23,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 722
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -3963,12 +3963,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 778
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 778
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -4019,12 +4019,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 19,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 809
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 19,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 809
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -4075,12 +4075,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 12,
-      "Мишенин Евгений Николаевич": 9,
-      "Украинцев Игорь Сергеевич": 14,
-      "Усольцева Ирина Сергеевна": 9,
-      "Федяев Павел Михайлович": 831
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 12,
+      "gas:candidate-vibid:2422000975998": 9,
+      "gas:candidate-vibid:2422000974701": 14,
+      "gas:candidate-vibid:2422000976511": 9,
+      "gas:candidate-vibid:2422000977235": 831
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -4131,12 +4131,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 15,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 23,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 731
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 15,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 23,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 731
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -4187,12 +4187,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 12,
-      "Витковский Юрий Николаевич": 7,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 800
+      "gas:candidate-vibid:2422000977736": 12,
+      "gas:candidate-vibid:2422000976405": 7,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 800
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -4243,12 +4243,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 10,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 26,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 821
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 10,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 26,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 821
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909161&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909161&type=464",
@@ -4299,12 +4299,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 28,
-      "Витковский Юрий Николаевич": 102,
-      "Мишенин Евгений Николаевич": 72,
-      "Украинцев Игорь Сергеевич": 80,
-      "Усольцева Ирина Сергеевна": 81,
-      "Федяев Павел Михайлович": 847
+      "gas:candidate-vibid:2422000977736": 28,
+      "gas:candidate-vibid:2422000976405": 102,
+      "gas:candidate-vibid:2422000975998": 72,
+      "gas:candidate-vibid:2422000974701": 80,
+      "gas:candidate-vibid:2422000976511": 81,
+      "gas:candidate-vibid:2422000977235": 847
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4355,12 +4355,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 27,
-      "Витковский Юрий Николаевич": 89,
-      "Мишенин Евгений Николаевич": 59,
-      "Украинцев Игорь Сергеевич": 35,
-      "Усольцева Ирина Сергеевна": 36,
-      "Федяев Павел Михайлович": 586
+      "gas:candidate-vibid:2422000977736": 27,
+      "gas:candidate-vibid:2422000976405": 89,
+      "gas:candidate-vibid:2422000975998": 59,
+      "gas:candidate-vibid:2422000974701": 35,
+      "gas:candidate-vibid:2422000976511": 36,
+      "gas:candidate-vibid:2422000977235": 586
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4411,12 +4411,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 27,
-      "Витковский Юрий Николаевич": 71,
-      "Мишенин Евгений Николаевич": 33,
-      "Украинцев Игорь Сергеевич": 56,
-      "Усольцева Ирина Сергеевна": 57,
-      "Федяев Павел Михайлович": 612
+      "gas:candidate-vibid:2422000977736": 27,
+      "gas:candidate-vibid:2422000976405": 71,
+      "gas:candidate-vibid:2422000975998": 33,
+      "gas:candidate-vibid:2422000974701": 56,
+      "gas:candidate-vibid:2422000976511": 57,
+      "gas:candidate-vibid:2422000977235": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4467,12 +4467,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 44,
-      "Витковский Юрий Николаевич": 106,
-      "Мишенин Евгений Николаевич": 84,
-      "Украинцев Игорь Сергеевич": 90,
-      "Усольцева Ирина Сергеевна": 89,
-      "Федяев Павел Михайлович": 995
+      "gas:candidate-vibid:2422000977736": 44,
+      "gas:candidate-vibid:2422000976405": 106,
+      "gas:candidate-vibid:2422000975998": 84,
+      "gas:candidate-vibid:2422000974701": 90,
+      "gas:candidate-vibid:2422000976511": 89,
+      "gas:candidate-vibid:2422000977235": 995
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4523,12 +4523,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 34,
-      "Витковский Юрий Николаевич": 88,
-      "Мишенин Евгений Николаевич": 58,
-      "Украинцев Игорь Сергеевич": 78,
-      "Усольцева Ирина Сергеевна": 76,
-      "Федяев Павел Михайлович": 816
+      "gas:candidate-vibid:2422000977736": 34,
+      "gas:candidate-vibid:2422000976405": 88,
+      "gas:candidate-vibid:2422000975998": 58,
+      "gas:candidate-vibid:2422000974701": 78,
+      "gas:candidate-vibid:2422000976511": 76,
+      "gas:candidate-vibid:2422000977235": 816
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4579,12 +4579,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 29,
-      "Витковский Юрий Николаевич": 76,
-      "Мишенин Евгений Николаевич": 43,
-      "Украинцев Игорь Сергеевич": 63,
-      "Усольцева Ирина Сергеевна": 63,
-      "Федяев Павел Михайлович": 668
+      "gas:candidate-vibid:2422000977736": 29,
+      "gas:candidate-vibid:2422000976405": 76,
+      "gas:candidate-vibid:2422000975998": 43,
+      "gas:candidate-vibid:2422000974701": 63,
+      "gas:candidate-vibid:2422000976511": 63,
+      "gas:candidate-vibid:2422000977235": 668
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4635,12 +4635,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 32,
-      "Витковский Юрий Николаевич": 78,
-      "Мишенин Евгений Николаевич": 59,
-      "Украинцев Игорь Сергеевич": 67,
-      "Усольцева Ирина Сергеевна": 66,
-      "Федяев Павел Михайлович": 672
+      "gas:candidate-vibid:2422000977736": 32,
+      "gas:candidate-vibid:2422000976405": 78,
+      "gas:candidate-vibid:2422000975998": 59,
+      "gas:candidate-vibid:2422000974701": 67,
+      "gas:candidate-vibid:2422000976511": 66,
+      "gas:candidate-vibid:2422000977235": 672
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4691,12 +4691,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 28,
-      "Витковский Юрий Николаевич": 92,
-      "Мишенин Евгений Николаевич": 52,
-      "Украинцев Игорь Сергеевич": 81,
-      "Усольцева Ирина Сергеевна": 78,
-      "Федяев Павел Михайлович": 807
+      "gas:candidate-vibid:2422000977736": 28,
+      "gas:candidate-vibid:2422000976405": 92,
+      "gas:candidate-vibid:2422000975998": 52,
+      "gas:candidate-vibid:2422000974701": 81,
+      "gas:candidate-vibid:2422000976511": 78,
+      "gas:candidate-vibid:2422000977235": 807
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4747,12 +4747,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 33,
-      "Витковский Юрий Николаевич": 88,
-      "Мишенин Евгений Николаевич": 63,
-      "Украинцев Игорь Сергеевич": 72,
-      "Усольцева Ирина Сергеевна": 74,
-      "Федяев Павел Михайлович": 752
+      "gas:candidate-vibid:2422000977736": 33,
+      "gas:candidate-vibid:2422000976405": 88,
+      "gas:candidate-vibid:2422000975998": 63,
+      "gas:candidate-vibid:2422000974701": 72,
+      "gas:candidate-vibid:2422000976511": 74,
+      "gas:candidate-vibid:2422000977235": 752
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4803,12 +4803,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 26,
-      "Витковский Юрий Николаевич": 58,
-      "Мишенин Евгений Николаевич": 39,
-      "Украинцев Игорь Сергеевич": 47,
-      "Усольцева Ирина Сергеевна": 46,
-      "Федяев Павел Михайлович": 528
+      "gas:candidate-vibid:2422000977736": 26,
+      "gas:candidate-vibid:2422000976405": 58,
+      "gas:candidate-vibid:2422000975998": 39,
+      "gas:candidate-vibid:2422000974701": 47,
+      "gas:candidate-vibid:2422000976511": 46,
+      "gas:candidate-vibid:2422000977235": 528
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4859,12 +4859,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 27,
-      "Витковский Юрий Николаевич": 66,
-      "Мишенин Евгений Николаевич": 42,
-      "Украинцев Игорь Сергеевич": 68,
-      "Усольцева Ирина Сергеевна": 57,
-      "Федяев Павел Михайлович": 608
+      "gas:candidate-vibid:2422000977736": 27,
+      "gas:candidate-vibid:2422000976405": 66,
+      "gas:candidate-vibid:2422000975998": 42,
+      "gas:candidate-vibid:2422000974701": 68,
+      "gas:candidate-vibid:2422000976511": 57,
+      "gas:candidate-vibid:2422000977235": 608
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4915,12 +4915,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 31,
-      "Витковский Юрий Николаевич": 63,
-      "Мишенин Евгений Николаевич": 32,
-      "Украинцев Игорь Сергеевич": 50,
-      "Усольцева Ирина Сергеевна": 51,
-      "Федяев Павел Михайлович": 553
+      "gas:candidate-vibid:2422000977736": 31,
+      "gas:candidate-vibid:2422000976405": 63,
+      "gas:candidate-vibid:2422000975998": 32,
+      "gas:candidate-vibid:2422000974701": 50,
+      "gas:candidate-vibid:2422000976511": 51,
+      "gas:candidate-vibid:2422000977235": 553
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -4971,12 +4971,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 28,
-      "Витковский Юрий Николаевич": 88,
-      "Мишенин Евгений Николаевич": 29,
-      "Украинцев Игорь Сергеевич": 75,
-      "Усольцева Ирина Сергеевна": 76,
-      "Федяев Павел Михайлович": 722
+      "gas:candidate-vibid:2422000977736": 28,
+      "gas:candidate-vibid:2422000976405": 88,
+      "gas:candidate-vibid:2422000975998": 29,
+      "gas:candidate-vibid:2422000974701": 75,
+      "gas:candidate-vibid:2422000976511": 76,
+      "gas:candidate-vibid:2422000977235": 722
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5027,12 +5027,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 26,
-      "Витковский Юрий Николаевич": 50,
-      "Мишенин Евгений Николаевич": 31,
-      "Украинцев Игорь Сергеевич": 37,
-      "Усольцева Ирина Сергеевна": 39,
-      "Федяев Павел Михайлович": 469
+      "gas:candidate-vibid:2422000977736": 26,
+      "gas:candidate-vibid:2422000976405": 50,
+      "gas:candidate-vibid:2422000975998": 31,
+      "gas:candidate-vibid:2422000974701": 37,
+      "gas:candidate-vibid:2422000976511": 39,
+      "gas:candidate-vibid:2422000977235": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5083,12 +5083,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 26,
-      "Витковский Юрий Николаевич": 42,
-      "Мишенин Евгений Николаевич": 24,
-      "Украинцев Игорь Сергеевич": 31,
-      "Усольцева Ирина Сергеевна": 34,
-      "Федяев Павел Михайлович": 383
+      "gas:candidate-vibid:2422000977736": 26,
+      "gas:candidate-vibid:2422000976405": 42,
+      "gas:candidate-vibid:2422000975998": 24,
+      "gas:candidate-vibid:2422000974701": 31,
+      "gas:candidate-vibid:2422000976511": 34,
+      "gas:candidate-vibid:2422000977235": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5139,12 +5139,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 33,
-      "Витковский Юрий Николаевич": 90,
-      "Мишенин Евгений Николаевич": 66,
-      "Украинцев Игорь Сергеевич": 80,
-      "Усольцева Ирина Сергеевна": 82,
-      "Федяев Павел Михайлович": 817
+      "gas:candidate-vibid:2422000977736": 33,
+      "gas:candidate-vibid:2422000976405": 90,
+      "gas:candidate-vibid:2422000975998": 66,
+      "gas:candidate-vibid:2422000974701": 80,
+      "gas:candidate-vibid:2422000976511": 82,
+      "gas:candidate-vibid:2422000977235": 817
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5195,12 +5195,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 26,
-      "Витковский Юрий Николаевич": 62,
-      "Мишенин Евгений Николаевич": 38,
-      "Украинцев Игорь Сергеевич": 47,
-      "Усольцева Ирина Сергеевна": 48,
-      "Федяев Павел Михайлович": 540
+      "gas:candidate-vibid:2422000977736": 26,
+      "gas:candidate-vibid:2422000976405": 62,
+      "gas:candidate-vibid:2422000975998": 38,
+      "gas:candidate-vibid:2422000974701": 47,
+      "gas:candidate-vibid:2422000976511": 48,
+      "gas:candidate-vibid:2422000977235": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5251,12 +5251,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 34,
-      "Витковский Юрий Николаевич": 73,
-      "Мишенин Евгений Николаевич": 75,
-      "Украинцев Игорь Сергеевич": 38,
-      "Усольцева Ирина Сергеевна": 43,
-      "Федяев Павел Михайлович": 649
+      "gas:candidate-vibid:2422000977736": 34,
+      "gas:candidate-vibid:2422000976405": 73,
+      "gas:candidate-vibid:2422000975998": 75,
+      "gas:candidate-vibid:2422000974701": 38,
+      "gas:candidate-vibid:2422000976511": 43,
+      "gas:candidate-vibid:2422000977235": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5307,12 +5307,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 35,
-      "Витковский Юрий Николаевич": 69,
-      "Мишенин Евгений Николаевич": 73,
-      "Украинцев Игорь Сергеевич": 36,
-      "Усольцева Ирина Сергеевна": 37,
-      "Федяев Павел Михайлович": 614
+      "gas:candidate-vibid:2422000977736": 35,
+      "gas:candidate-vibid:2422000976405": 69,
+      "gas:candidate-vibid:2422000975998": 73,
+      "gas:candidate-vibid:2422000974701": 36,
+      "gas:candidate-vibid:2422000976511": 37,
+      "gas:candidate-vibid:2422000977235": 614
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5363,12 +5363,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 24,
-      "Витковский Юрий Николаевич": 77,
-      "Мишенин Евгений Николаевич": 45,
-      "Украинцев Игорь Сергеевич": 62,
-      "Усольцева Ирина Сергеевна": 66,
-      "Федяев Павел Михайлович": 668
+      "gas:candidate-vibid:2422000977736": 24,
+      "gas:candidate-vibid:2422000976405": 77,
+      "gas:candidate-vibid:2422000975998": 45,
+      "gas:candidate-vibid:2422000974701": 62,
+      "gas:candidate-vibid:2422000976511": 66,
+      "gas:candidate-vibid:2422000977235": 668
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909162&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909162&type=464",
@@ -5419,12 +5419,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 224,
-      "Мишенин Евгений Николаевич": 15,
-      "Украинцев Игорь Сергеевич": 180,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 1650
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 224,
+      "gas:candidate-vibid:2422000975998": 15,
+      "gas:candidate-vibid:2422000974701": 180,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 1650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5475,12 +5475,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 63,
-      "Витковский Юрий Николаевич": 94,
-      "Мишенин Евгений Николаевич": 83,
-      "Украинцев Игорь Сергеевич": 84,
-      "Усольцева Ирина Сергеевна": 76,
-      "Федяев Павел Михайлович": 1549
+      "gas:candidate-vibid:2422000977736": 63,
+      "gas:candidate-vibid:2422000976405": 94,
+      "gas:candidate-vibid:2422000975998": 83,
+      "gas:candidate-vibid:2422000974701": 84,
+      "gas:candidate-vibid:2422000976511": 76,
+      "gas:candidate-vibid:2422000977235": 1549
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5531,12 +5531,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 97,
-      "Мишенин Евгений Николаевич": 16,
-      "Украинцев Игорь Сергеевич": 213,
-      "Усольцева Ирина Сергеевна": 7,
-      "Федяев Павел Михайлович": 951
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 97,
+      "gas:candidate-vibid:2422000975998": 16,
+      "gas:candidate-vibid:2422000974701": 213,
+      "gas:candidate-vibid:2422000976511": 7,
+      "gas:candidate-vibid:2422000977235": 951
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5587,12 +5587,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 84,
-      "Витковский Юрий Николаевич": 49,
-      "Мишенин Евгений Николаевич": 46,
-      "Украинцев Игорь Сергеевич": 28,
-      "Усольцева Ирина Сергеевна": 54,
-      "Федяев Павел Михайлович": 822
+      "gas:candidate-vibid:2422000977736": 84,
+      "gas:candidate-vibid:2422000976405": 49,
+      "gas:candidate-vibid:2422000975998": 46,
+      "gas:candidate-vibid:2422000974701": 28,
+      "gas:candidate-vibid:2422000976511": 54,
+      "gas:candidate-vibid:2422000977235": 822
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5643,12 +5643,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 75,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 179
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 75,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5699,12 +5699,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 103,
-      "Витковский Юрий Николаевич": 175,
-      "Мишенин Евгений Николаевич": 97,
-      "Украинцев Игорь Сергеевич": 180,
-      "Усольцева Ирина Сергеевна": 57,
-      "Федяев Павел Михайлович": 1564
+      "gas:candidate-vibid:2422000977736": 103,
+      "gas:candidate-vibid:2422000976405": 175,
+      "gas:candidate-vibid:2422000975998": 97,
+      "gas:candidate-vibid:2422000974701": 180,
+      "gas:candidate-vibid:2422000976511": 57,
+      "gas:candidate-vibid:2422000977235": 1564
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5755,12 +5755,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 77,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 50,
-      "Украинцев Игорь Сергеевич": 95,
-      "Усольцева Ирина Сергеевна": 100,
-      "Федяев Павел Михайлович": 860
+      "gas:candidate-vibid:2422000977736": 77,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 50,
+      "gas:candidate-vibid:2422000974701": 95,
+      "gas:candidate-vibid:2422000976511": 100,
+      "gas:candidate-vibid:2422000977235": 860
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5811,12 +5811,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 51,
-      "Витковский Юрий Николаевич": 62,
-      "Мишенин Евгений Николаевич": 50,
-      "Украинцев Игорь Сергеевич": 63,
-      "Усольцева Ирина Сергеевна": 70,
-      "Федяев Павел Михайлович": 757
+      "gas:candidate-vibid:2422000977736": 51,
+      "gas:candidate-vibid:2422000976405": 62,
+      "gas:candidate-vibid:2422000975998": 50,
+      "gas:candidate-vibid:2422000974701": 63,
+      "gas:candidate-vibid:2422000976511": 70,
+      "gas:candidate-vibid:2422000977235": 757
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5867,12 +5867,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 81,
-      "Мишенин Евгений Николаевич": 50,
-      "Украинцев Игорь Сергеевич": 136,
-      "Усольцева Ирина Сергеевна": 56,
-      "Федяев Павел Михайлович": 696
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 81,
+      "gas:candidate-vibid:2422000975998": 50,
+      "gas:candidate-vibid:2422000974701": 136,
+      "gas:candidate-vibid:2422000976511": 56,
+      "gas:candidate-vibid:2422000977235": 696
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5923,12 +5923,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 10,
-      "Усольцева Ирина Сергеевна": 7,
-      "Федяев Павел Михайлович": 147
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 10,
+      "gas:candidate-vibid:2422000976511": 7,
+      "gas:candidate-vibid:2422000977235": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -5979,12 +5979,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 21,
-      "Витковский Юрий Николаевич": 127,
-      "Мишенин Евгений Николаевич": 13,
-      "Украинцев Игорь Сергеевич": 263,
-      "Усольцева Ирина Сергеевна": 19,
-      "Федяев Павел Михайлович": 835
+      "gas:candidate-vibid:2422000977736": 21,
+      "gas:candidate-vibid:2422000976405": 127,
+      "gas:candidate-vibid:2422000975998": 13,
+      "gas:candidate-vibid:2422000974701": 263,
+      "gas:candidate-vibid:2422000976511": 19,
+      "gas:candidate-vibid:2422000977235": 835
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6035,12 +6035,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 95,
-      "Витковский Юрий Николаевич": 203,
-      "Мишенин Евгений Николаевич": 147,
-      "Украинцев Игорь Сергеевич": 99,
-      "Усольцева Ирина Сергеевна": 97,
-      "Федяев Павел Михайлович": 1758
+      "gas:candidate-vibid:2422000977736": 95,
+      "gas:candidate-vibid:2422000976405": 203,
+      "gas:candidate-vibid:2422000975998": 147,
+      "gas:candidate-vibid:2422000974701": 99,
+      "gas:candidate-vibid:2422000976511": 97,
+      "gas:candidate-vibid:2422000977235": 1758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6091,12 +6091,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 150,
-      "Витковский Юрий Николаевич": 112,
-      "Мишенин Евгений Николаевич": 189,
-      "Украинцев Игорь Сергеевич": 102,
-      "Усольцева Ирина Сергеевна": 116,
-      "Федяев Павел Михайлович": 1808
+      "gas:candidate-vibid:2422000977736": 150,
+      "gas:candidate-vibid:2422000976405": 112,
+      "gas:candidate-vibid:2422000975998": 189,
+      "gas:candidate-vibid:2422000974701": 102,
+      "gas:candidate-vibid:2422000976511": 116,
+      "gas:candidate-vibid:2422000977235": 1808
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6147,12 +6147,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 20,
-      "Витковский Юрий Николаевич": 89,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 82,
-      "Усольцева Ирина Сергеевна": 41,
-      "Федяев Павел Михайлович": 641
+      "gas:candidate-vibid:2422000977736": 20,
+      "gas:candidate-vibid:2422000976405": 89,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 82,
+      "gas:candidate-vibid:2422000976511": 41,
+      "gas:candidate-vibid:2422000977235": 641
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6203,12 +6203,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 88,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 62,
-      "Усольцева Ирина Сергеевна": 64,
-      "Федяев Павел Михайлович": 780
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 88,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 62,
+      "gas:candidate-vibid:2422000976511": 64,
+      "gas:candidate-vibid:2422000977235": 780
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6259,12 +6259,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 24,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 45,
-      "Украинцев Игорь Сергеевич": 84,
-      "Усольцева Ирина Сергеевна": 64,
-      "Федяев Павел Михайлович": 700
+      "gas:candidate-vibid:2422000977736": 24,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 45,
+      "gas:candidate-vibid:2422000974701": 84,
+      "gas:candidate-vibid:2422000976511": 64,
+      "gas:candidate-vibid:2422000977235": 700
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6315,12 +6315,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 24,
-      "Витковский Юрий Николаевич": 105,
-      "Мишенин Евгений Николаевич": 99,
-      "Украинцев Игорь Сергеевич": 156,
-      "Усольцева Ирина Сергеевна": 151,
-      "Федяев Павел Михайлович": 1039
+      "gas:candidate-vibid:2422000977736": 24,
+      "gas:candidate-vibid:2422000976405": 105,
+      "gas:candidate-vibid:2422000975998": 99,
+      "gas:candidate-vibid:2422000974701": 156,
+      "gas:candidate-vibid:2422000976511": 151,
+      "gas:candidate-vibid:2422000977235": 1039
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6371,12 +6371,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 90,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 77,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 570
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 90,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 77,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6427,12 +6427,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 74,
-      "Мишенин Евгений Николаевич": 17,
-      "Украинцев Игорь Сергеевич": 111,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 833
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 74,
+      "gas:candidate-vibid:2422000975998": 17,
+      "gas:candidate-vibid:2422000974701": 111,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 833
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6483,12 +6483,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 53,
-      "Витковский Юрий Николаевич": 147,
-      "Мишенин Евгений Николаевич": 28,
-      "Украинцев Игорь Сергеевич": 163,
-      "Усольцева Ирина Сергеевна": 135,
-      "Федяев Павел Михайлович": 1348
+      "gas:candidate-vibid:2422000977736": 53,
+      "gas:candidate-vibid:2422000976405": 147,
+      "gas:candidate-vibid:2422000975998": 28,
+      "gas:candidate-vibid:2422000974701": 163,
+      "gas:candidate-vibid:2422000976511": 135,
+      "gas:candidate-vibid:2422000977235": 1348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6539,12 +6539,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 21,
-      "Витковский Юрий Николаевич": 106,
-      "Мишенин Евгений Николаевич": 40,
-      "Украинцев Игорь Сергеевич": 98,
-      "Усольцева Ирина Сергеевна": 52,
-      "Федяев Павел Михайлович": 872
+      "gas:candidate-vibid:2422000977736": 21,
+      "gas:candidate-vibid:2422000976405": 106,
+      "gas:candidate-vibid:2422000975998": 40,
+      "gas:candidate-vibid:2422000974701": 98,
+      "gas:candidate-vibid:2422000976511": 52,
+      "gas:candidate-vibid:2422000977235": 872
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6595,12 +6595,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 87,
-      "Витковский Юрий Николаевич": 90,
-      "Мишенин Евгений Николаевич": 92,
-      "Украинцев Игорь Сергеевич": 80,
-      "Усольцева Ирина Сергеевна": 90,
-      "Федяев Павел Михайлович": 1012
+      "gas:candidate-vibid:2422000977736": 87,
+      "gas:candidate-vibid:2422000976405": 90,
+      "gas:candidate-vibid:2422000975998": 92,
+      "gas:candidate-vibid:2422000974701": 80,
+      "gas:candidate-vibid:2422000976511": 90,
+      "gas:candidate-vibid:2422000977235": 1012
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6651,12 +6651,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 9,
-      "Витковский Юрий Николаевич": 37,
-      "Мишенин Евгений Николаевич": 82,
-      "Украинцев Игорь Сергеевич": 106,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 527
+      "gas:candidate-vibid:2422000977736": 9,
+      "gas:candidate-vibid:2422000976405": 37,
+      "gas:candidate-vibid:2422000975998": 82,
+      "gas:candidate-vibid:2422000974701": 106,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 527
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6707,12 +6707,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 14,
-      "Витковский Юрий Николаевич": 94,
-      "Мишенин Евгений Николаевич": 39,
-      "Украинцев Игорь Сергеевич": 129,
-      "Усольцева Ирина Сергеевна": 45,
-      "Федяев Павел Михайлович": 623
+      "gas:candidate-vibid:2422000977736": 14,
+      "gas:candidate-vibid:2422000976405": 94,
+      "gas:candidate-vibid:2422000975998": 39,
+      "gas:candidate-vibid:2422000974701": 129,
+      "gas:candidate-vibid:2422000976511": 45,
+      "gas:candidate-vibid:2422000977235": 623
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6763,12 +6763,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 41,
-      "Витковский Юрий Николаевич": 40,
-      "Мишенин Евгений Николаевич": 30,
-      "Украинцев Игорь Сергеевич": 38,
-      "Усольцева Ирина Сергеевна": 32,
-      "Федяев Павел Михайлович": 710
+      "gas:candidate-vibid:2422000977736": 41,
+      "gas:candidate-vibid:2422000976405": 40,
+      "gas:candidate-vibid:2422000975998": 30,
+      "gas:candidate-vibid:2422000974701": 38,
+      "gas:candidate-vibid:2422000976511": 32,
+      "gas:candidate-vibid:2422000977235": 710
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6819,12 +6819,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 42,
-      "Витковский Юрий Николаевич": 162,
-      "Мишенин Евгений Николаевич": 49,
-      "Украинцев Игорь Сергеевич": 54,
-      "Усольцева Ирина Сергеевна": 74,
-      "Федяев Павел Михайлович": 884
+      "gas:candidate-vibid:2422000977736": 42,
+      "gas:candidate-vibid:2422000976405": 162,
+      "gas:candidate-vibid:2422000975998": 49,
+      "gas:candidate-vibid:2422000974701": 54,
+      "gas:candidate-vibid:2422000976511": 74,
+      "gas:candidate-vibid:2422000977235": 884
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6875,12 +6875,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 18,
-      "Витковский Юрий Николаевич": 83,
-      "Мишенин Евгений Николаевич": 72,
-      "Украинцев Игорь Сергеевич": 153,
-      "Усольцева Ирина Сергеевна": 79,
-      "Федяев Павел Михайлович": 918
+      "gas:candidate-vibid:2422000977736": 18,
+      "gas:candidate-vibid:2422000976405": 83,
+      "gas:candidate-vibid:2422000975998": 72,
+      "gas:candidate-vibid:2422000974701": 153,
+      "gas:candidate-vibid:2422000976511": 79,
+      "gas:candidate-vibid:2422000977235": 918
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6931,12 +6931,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 107,
-      "Мишенин Евгений Николаевич": 50,
-      "Украинцев Игорь Сергеевич": 159,
-      "Усольцева Ирина Сергеевна": 90,
-      "Федяев Павел Михайлович": 1071
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 107,
+      "gas:candidate-vibid:2422000975998": 50,
+      "gas:candidate-vibid:2422000974701": 159,
+      "gas:candidate-vibid:2422000976511": 90,
+      "gas:candidate-vibid:2422000977235": 1071
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -6987,12 +6987,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 29,
-      "Мишенин Евгений Николаевич": 37,
-      "Украинцев Игорь Сергеевич": 65,
-      "Усольцева Ирина Сергеевна": 89,
-      "Федяев Павел Михайлович": 1140
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 29,
+      "gas:candidate-vibid:2422000975998": 37,
+      "gas:candidate-vibid:2422000974701": 65,
+      "gas:candidate-vibid:2422000976511": 89,
+      "gas:candidate-vibid:2422000977235": 1140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7043,12 +7043,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 66,
-      "Витковский Юрий Николаевич": 68,
-      "Мишенин Евгений Николаевич": 44,
-      "Украинцев Игорь Сергеевич": 69,
-      "Усольцева Ирина Сергеевна": 35,
-      "Федяев Павел Михайлович": 693
+      "gas:candidate-vibid:2422000977736": 66,
+      "gas:candidate-vibid:2422000976405": 68,
+      "gas:candidate-vibid:2422000975998": 44,
+      "gas:candidate-vibid:2422000974701": 69,
+      "gas:candidate-vibid:2422000976511": 35,
+      "gas:candidate-vibid:2422000977235": 693
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7099,12 +7099,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 26,
-      "Мишенин Евгений Николаевич": 11,
-      "Украинцев Игорь Сергеевич": 39,
-      "Усольцева Ирина Сергеевна": 31,
-      "Федяев Павел Михайлович": 534
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 26,
+      "gas:candidate-vibid:2422000975998": 11,
+      "gas:candidate-vibid:2422000974701": 39,
+      "gas:candidate-vibid:2422000976511": 31,
+      "gas:candidate-vibid:2422000977235": 534
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7155,12 +7155,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 121,
-      "Мишенин Евгений Николаевич": 26,
-      "Украинцев Игорь Сергеевич": 161,
-      "Усольцева Ирина Сергеевна": 68,
-      "Федяев Павел Михайлович": 999
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 121,
+      "gas:candidate-vibid:2422000975998": 26,
+      "gas:candidate-vibid:2422000974701": 161,
+      "gas:candidate-vibid:2422000976511": 68,
+      "gas:candidate-vibid:2422000977235": 999
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7211,12 +7211,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 84,
-      "Витковский Юрий Николаевич": 79,
-      "Мишенин Евгений Николаевич": 86,
-      "Украинцев Игорь Сергеевич": 140,
-      "Усольцева Ирина Сергеевна": 20,
-      "Федяев Павел Михайлович": 861
+      "gas:candidate-vibid:2422000977736": 84,
+      "gas:candidate-vibid:2422000976405": 79,
+      "gas:candidate-vibid:2422000975998": 86,
+      "gas:candidate-vibid:2422000974701": 140,
+      "gas:candidate-vibid:2422000976511": 20,
+      "gas:candidate-vibid:2422000977235": 861
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7267,12 +7267,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 2,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 4,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 192
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 2,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 4,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7323,12 +7323,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 25,
-      "Витковский Юрий Николаевич": 41,
-      "Мишенин Евгений Николаевич": 103,
-      "Украинцев Игорь Сергеевич": 92,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 574
+      "gas:candidate-vibid:2422000977736": 25,
+      "gas:candidate-vibid:2422000976405": 41,
+      "gas:candidate-vibid:2422000975998": 103,
+      "gas:candidate-vibid:2422000974701": 92,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 574
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7379,12 +7379,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 20,
-      "Витковский Юрий Николаевич": 68,
-      "Мишенин Евгений Николаевич": 51,
-      "Украинцев Игорь Сергеевич": 138,
-      "Усольцева Ирина Сергеевна": 71,
-      "Федяев Павел Михайлович": 920
+      "gas:candidate-vibid:2422000977736": 20,
+      "gas:candidate-vibid:2422000976405": 68,
+      "gas:candidate-vibid:2422000975998": 51,
+      "gas:candidate-vibid:2422000974701": 138,
+      "gas:candidate-vibid:2422000976511": 71,
+      "gas:candidate-vibid:2422000977235": 920
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7435,12 +7435,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 41,
-      "Витковский Юрий Николаевич": 24,
-      "Мишенин Евгений Николаевич": 70,
-      "Украинцев Игорь Сергеевич": 68,
-      "Усольцева Ирина Сергеевна": 37,
-      "Федяев Павел Михайлович": 511
+      "gas:candidate-vibid:2422000977736": 41,
+      "gas:candidate-vibid:2422000976405": 24,
+      "gas:candidate-vibid:2422000975998": 70,
+      "gas:candidate-vibid:2422000974701": 68,
+      "gas:candidate-vibid:2422000976511": 37,
+      "gas:candidate-vibid:2422000977235": 511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7491,12 +7491,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 18,
-      "Витковский Юрий Николаевич": 82,
-      "Мишенин Евгений Николаевич": 64,
-      "Украинцев Игорь Сергеевич": 103,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 633
+      "gas:candidate-vibid:2422000977736": 18,
+      "gas:candidate-vibid:2422000976405": 82,
+      "gas:candidate-vibid:2422000975998": 64,
+      "gas:candidate-vibid:2422000974701": 103,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 633
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7547,12 +7547,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 20,
-      "Мишенин Евгений Николаевич": 13,
-      "Украинцев Игорь Сергеевич": 45,
-      "Усольцева Ирина Сергеевна": 8,
-      "Федяев Павел Михайлович": 446
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 20,
+      "gas:candidate-vibid:2422000975998": 13,
+      "gas:candidate-vibid:2422000974701": 45,
+      "gas:candidate-vibid:2422000976511": 8,
+      "gas:candidate-vibid:2422000977235": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7603,12 +7603,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 16,
-      "Витковский Юрий Николаевич": 71,
-      "Мишенин Евгений Николаевич": 47,
-      "Украинцев Игорь Сергеевич": 135,
-      "Усольцева Ирина Сергеевна": 59,
-      "Федяев Павел Михайлович": 716
+      "gas:candidate-vibid:2422000977736": 16,
+      "gas:candidate-vibid:2422000976405": 71,
+      "gas:candidate-vibid:2422000975998": 47,
+      "gas:candidate-vibid:2422000974701": 135,
+      "gas:candidate-vibid:2422000976511": 59,
+      "gas:candidate-vibid:2422000977235": 716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7659,12 +7659,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 57,
-      "Мишенин Евгений Николаевич": 28,
-      "Украинцев Игорь Сергеевич": 32,
-      "Усольцева Ирина Сергеевна": 19,
-      "Федяев Павел Михайлович": 419
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 57,
+      "gas:candidate-vibid:2422000975998": 28,
+      "gas:candidate-vibid:2422000974701": 32,
+      "gas:candidate-vibid:2422000976511": 19,
+      "gas:candidate-vibid:2422000977235": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7715,12 +7715,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 73,
-      "Витковский Юрий Николаевич": 74,
-      "Мишенин Евгений Николаевич": 74,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 8,
-      "Федяев Павел Михайлович": 513
+      "gas:candidate-vibid:2422000977736": 73,
+      "gas:candidate-vibid:2422000976405": 74,
+      "gas:candidate-vibid:2422000975998": 74,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 8,
+      "gas:candidate-vibid:2422000977235": 513
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7771,12 +7771,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 62,
-      "Витковский Юрий Николаевич": 102,
-      "Мишенин Евгений Николаевич": 170,
-      "Украинцев Игорь Сергеевич": 117,
-      "Усольцева Ирина Сергеевна": 13,
-      "Федяев Павел Михайлович": 927
+      "gas:candidate-vibid:2422000977736": 62,
+      "gas:candidate-vibid:2422000976405": 102,
+      "gas:candidate-vibid:2422000975998": 170,
+      "gas:candidate-vibid:2422000974701": 117,
+      "gas:candidate-vibid:2422000976511": 13,
+      "gas:candidate-vibid:2422000977235": 927
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7827,12 +7827,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 11,
-      "Мишенин Евгений Николаевич": 6,
-      "Украинцев Игорь Сергеевич": 15,
-      "Усольцева Ирина Сергеевна": 7,
-      "Федяев Павел Михайлович": 207
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 11,
+      "gas:candidate-vibid:2422000975998": 6,
+      "gas:candidate-vibid:2422000974701": 15,
+      "gas:candidate-vibid:2422000976511": 7,
+      "gas:candidate-vibid:2422000977235": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7883,12 +7883,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 24,
-      "Витковский Юрий Николаевич": 81,
-      "Мишенин Евгений Николаевич": 66,
-      "Украинцев Игорь Сергеевич": 179,
-      "Усольцева Ирина Сергеевна": 64,
-      "Федяев Павел Михайлович": 1636
+      "gas:candidate-vibid:2422000977736": 24,
+      "gas:candidate-vibid:2422000976405": 81,
+      "gas:candidate-vibid:2422000975998": 66,
+      "gas:candidate-vibid:2422000974701": 179,
+      "gas:candidate-vibid:2422000976511": 64,
+      "gas:candidate-vibid:2422000977235": 1636
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7939,12 +7939,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 107,
-      "Витковский Юрий Николаевич": 59,
-      "Мишенин Евгений Николаевич": 131,
-      "Украинцев Игорь Сергеевич": 110,
-      "Усольцева Ирина Сергеевна": 128,
-      "Федяев Павел Михайлович": 1351
+      "gas:candidate-vibid:2422000977736": 107,
+      "gas:candidate-vibid:2422000976405": 59,
+      "gas:candidate-vibid:2422000975998": 131,
+      "gas:candidate-vibid:2422000974701": 110,
+      "gas:candidate-vibid:2422000976511": 128,
+      "gas:candidate-vibid:2422000977235": 1351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -7995,12 +7995,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 32,
-      "Витковский Юрий Николаевич": 19,
-      "Мишенин Евгений Николаевич": 19,
-      "Украинцев Игорь Сергеевич": 110,
-      "Усольцева Ирина Сергеевна": 83,
-      "Федяев Павел Михайлович": 360
+      "gas:candidate-vibid:2422000977736": 32,
+      "gas:candidate-vibid:2422000976405": 19,
+      "gas:candidate-vibid:2422000975998": 19,
+      "gas:candidate-vibid:2422000974701": 110,
+      "gas:candidate-vibid:2422000976511": 83,
+      "gas:candidate-vibid:2422000977235": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8051,12 +8051,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 23,
-      "Витковский Юрий Николаевич": 69,
-      "Мишенин Евгений Николаевич": 59,
-      "Украинцев Игорь Сергеевич": 32,
-      "Усольцева Ирина Сергеевна": 85,
-      "Федяев Павел Михайлович": 874
+      "gas:candidate-vibid:2422000977736": 23,
+      "gas:candidate-vibid:2422000976405": 69,
+      "gas:candidate-vibid:2422000975998": 59,
+      "gas:candidate-vibid:2422000974701": 32,
+      "gas:candidate-vibid:2422000976511": 85,
+      "gas:candidate-vibid:2422000977235": 874
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8107,12 +8107,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 21,
-      "Витковский Юрий Николаевич": 154,
-      "Мишенин Евгений Николаевич": 141,
-      "Украинцев Игорь Сергеевич": 167,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 994
+      "gas:candidate-vibid:2422000977736": 21,
+      "gas:candidate-vibid:2422000976405": 154,
+      "gas:candidate-vibid:2422000975998": 141,
+      "gas:candidate-vibid:2422000974701": 167,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 994
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8163,12 +8163,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 2,
-      "Мишенин Евгений Николаевич": 1,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 7,
-      "Федяев Павел Михайлович": 125
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 2,
+      "gas:candidate-vibid:2422000975998": 1,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 7,
+      "gas:candidate-vibid:2422000977235": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8219,12 +8219,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 39,
-      "Витковский Юрий Николаевич": 81,
-      "Мишенин Евгений Николаевич": 61,
-      "Украинцев Игорь Сергеевич": 166,
-      "Усольцева Ирина Сергеевна": 19,
-      "Федяев Павел Михайлович": 936
+      "gas:candidate-vibid:2422000977736": 39,
+      "gas:candidate-vibid:2422000976405": 81,
+      "gas:candidate-vibid:2422000975998": 61,
+      "gas:candidate-vibid:2422000974701": 166,
+      "gas:candidate-vibid:2422000976511": 19,
+      "gas:candidate-vibid:2422000977235": 936
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8275,12 +8275,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 194,
-      "Мишенин Евгений Николаевич": 63,
-      "Украинцев Игорь Сергеевич": 158,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 1000
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 194,
+      "gas:candidate-vibid:2422000975998": 63,
+      "gas:candidate-vibid:2422000974701": 158,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 1000
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8331,12 +8331,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 103,
-      "Мишенин Евгений Николаевич": 40,
-      "Украинцев Игорь Сергеевич": 80,
-      "Усольцева Ирина Сергеевна": 150,
-      "Федяев Павел Михайлович": 808
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 103,
+      "gas:candidate-vibid:2422000975998": 40,
+      "gas:candidate-vibid:2422000974701": 80,
+      "gas:candidate-vibid:2422000976511": 150,
+      "gas:candidate-vibid:2422000977235": 808
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8387,12 +8387,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 101,
-      "Мишенин Евгений Николаевич": 274,
-      "Украинцев Игорь Сергеевич": 120,
-      "Усольцева Ирина Сергеевна": 1,
-      "Федяев Павел Михайлович": 1164
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 101,
+      "gas:candidate-vibid:2422000975998": 274,
+      "gas:candidate-vibid:2422000974701": 120,
+      "gas:candidate-vibid:2422000976511": 1,
+      "gas:candidate-vibid:2422000977235": 1164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8443,12 +8443,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 11,
-      "Витковский Юрий Николаевич": 62,
-      "Мишенин Евгений Николаевич": 30,
-      "Украинцев Игорь Сергеевич": 82,
-      "Усольцева Ирина Сергеевна": 52,
-      "Федяев Павел Михайлович": 1247
+      "gas:candidate-vibid:2422000977736": 11,
+      "gas:candidate-vibid:2422000976405": 62,
+      "gas:candidate-vibid:2422000975998": 30,
+      "gas:candidate-vibid:2422000974701": 82,
+      "gas:candidate-vibid:2422000976511": 52,
+      "gas:candidate-vibid:2422000977235": 1247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8499,12 +8499,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 132,
-      "Мишенин Евгений Николаевич": 99,
-      "Украинцев Игорь Сергеевич": 198,
-      "Усольцева Ирина Сергеевна": 64,
-      "Федяев Павел Михайлович": 1178
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 132,
+      "gas:candidate-vibid:2422000975998": 99,
+      "gas:candidate-vibid:2422000974701": 198,
+      "gas:candidate-vibid:2422000976511": 64,
+      "gas:candidate-vibid:2422000977235": 1178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8555,12 +8555,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 54,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 50,
-      "Украинцев Игорь Сергеевич": 13,
-      "Усольцева Ирина Сергеевна": 15,
-      "Федяев Павел Михайлович": 986
+      "gas:candidate-vibid:2422000977736": 54,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 50,
+      "gas:candidate-vibid:2422000974701": 13,
+      "gas:candidate-vibid:2422000976511": 15,
+      "gas:candidate-vibid:2422000977235": 986
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8611,12 +8611,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 4,
-      "Витковский Юрий Николаевич": 137,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 188,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 946
+      "gas:candidate-vibid:2422000977736": 4,
+      "gas:candidate-vibid:2422000976405": 137,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 188,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 946
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909163&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909163&type=464",
@@ -8667,12 +8667,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 33,
-      "Мишенин Евгений Николаевич": 27,
-      "Украинцев Игорь Сергеевич": 39,
-      "Усольцева Ирина Сергеевна": 28,
-      "Федяев Павел Михайлович": 631
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 33,
+      "gas:candidate-vibid:2422000975998": 27,
+      "gas:candidate-vibid:2422000974701": 39,
+      "gas:candidate-vibid:2422000976511": 28,
+      "gas:candidate-vibid:2422000977235": 631
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -8723,12 +8723,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 13,
-      "Мишенин Евгений Николаевич": 14,
-      "Украинцев Игорь Сергеевич": 12,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 205
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 13,
+      "gas:candidate-vibid:2422000975998": 14,
+      "gas:candidate-vibid:2422000974701": 12,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -8779,12 +8779,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 14,
-      "Мишенин Евгений Николаевич": 13,
-      "Украинцев Игорь Сергеевич": 33,
-      "Усольцева Ирина Сергеевна": 27,
-      "Федяев Павел Михайлович": 554
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 14,
+      "gas:candidate-vibid:2422000975998": 13,
+      "gas:candidate-vibid:2422000974701": 33,
+      "gas:candidate-vibid:2422000976511": 27,
+      "gas:candidate-vibid:2422000977235": 554
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -8835,12 +8835,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 15,
-      "Мишенин Евгений Николаевич": 19,
-      "Украинцев Игорь Сергеевич": 18,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 230
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 15,
+      "gas:candidate-vibid:2422000975998": 19,
+      "gas:candidate-vibid:2422000974701": 18,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -8891,12 +8891,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 35,
-      "Мишенин Евгений Николаевич": 14,
-      "Украинцев Игорь Сергеевич": 52,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 889
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 35,
+      "gas:candidate-vibid:2422000975998": 14,
+      "gas:candidate-vibid:2422000974701": 52,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 889
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -8947,12 +8947,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 24,
-      "Мишенин Евгений Николаевич": 11,
-      "Украинцев Игорь Сергеевич": 12,
-      "Усольцева Ирина Сергеевна": 18,
-      "Федяев Павел Михайлович": 266
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 24,
+      "gas:candidate-vibid:2422000975998": 11,
+      "gas:candidate-vibid:2422000974701": 12,
+      "gas:candidate-vibid:2422000976511": 18,
+      "gas:candidate-vibid:2422000977235": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9003,12 +9003,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 4,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 3,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 102
+      "gas:candidate-vibid:2422000977736": 4,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 3,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9059,12 +9059,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 27,
-      "Мишенин Евгений Николаевич": 17,
-      "Украинцев Игорь Сергеевич": 17,
-      "Усольцева Ирина Сергеевна": 28,
-      "Федяев Павел Михайлович": 456
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 27,
+      "gas:candidate-vibid:2422000975998": 17,
+      "gas:candidate-vibid:2422000974701": 17,
+      "gas:candidate-vibid:2422000976511": 28,
+      "gas:candidate-vibid:2422000977235": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9115,12 +9115,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 25,
-      "Мишенин Евгений Николаевич": 8,
-      "Украинцев Игорь Сергеевич": 13,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 157
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 25,
+      "gas:candidate-vibid:2422000975998": 8,
+      "gas:candidate-vibid:2422000974701": 13,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9171,12 +9171,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 15,
-      "Витковский Юрий Николаевич": 34,
-      "Мишенин Евгений Николаевич": 29,
-      "Украинцев Игорь Сергеевич": 55,
-      "Усольцева Ирина Сергеевна": 39,
-      "Федяев Павел Михайлович": 364
+      "gas:candidate-vibid:2422000977736": 15,
+      "gas:candidate-vibid:2422000976405": 34,
+      "gas:candidate-vibid:2422000975998": 29,
+      "gas:candidate-vibid:2422000974701": 55,
+      "gas:candidate-vibid:2422000976511": 39,
+      "gas:candidate-vibid:2422000977235": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9227,12 +9227,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 16,
-      "Мишенин Евгений Николаевич": 9,
-      "Украинцев Игорь Сергеевич": 8,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 86
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 16,
+      "gas:candidate-vibid:2422000975998": 9,
+      "gas:candidate-vibid:2422000974701": 8,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9283,12 +9283,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 40,
-      "Мишенин Евгений Николаевич": 24,
-      "Украинцев Игорь Сергеевич": 88,
-      "Усольцева Ирина Сергеевна": 44,
-      "Федяев Павел Михайлович": 601
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 40,
+      "gas:candidate-vibid:2422000975998": 24,
+      "gas:candidate-vibid:2422000974701": 88,
+      "gas:candidate-vibid:2422000976511": 44,
+      "gas:candidate-vibid:2422000977235": 601
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9339,12 +9339,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 25,
-      "Мишенин Евгений Николаевич": 10,
-      "Украинцев Игорь Сергеевич": 15,
-      "Усольцева Ирина Сергеевна": 3,
-      "Федяев Павел Михайлович": 211
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 25,
+      "gas:candidate-vibid:2422000975998": 10,
+      "gas:candidate-vibid:2422000974701": 15,
+      "gas:candidate-vibid:2422000976511": 3,
+      "gas:candidate-vibid:2422000977235": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9395,12 +9395,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 15,
-      "Мишенин Евгений Николаевич": 7,
-      "Украинцев Игорь Сергеевич": 16,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 186
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 15,
+      "gas:candidate-vibid:2422000975998": 7,
+      "gas:candidate-vibid:2422000974701": 16,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9451,12 +9451,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 10,
-      "Мишенин Евгений Николаевич": 6,
-      "Украинцев Игорь Сергеевич": 14,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 75
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 10,
+      "gas:candidate-vibid:2422000975998": 6,
+      "gas:candidate-vibid:2422000974701": 14,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9507,12 +9507,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 22,
-      "Витковский Юрий Николаевич": 46,
-      "Мишенин Евгений Николаевич": 34,
-      "Украинцев Игорь Сергеевич": 106,
-      "Усольцева Ирина Сергеевна": 57,
-      "Федяев Павел Михайлович": 280
+      "gas:candidate-vibid:2422000977736": 22,
+      "gas:candidate-vibid:2422000976405": 46,
+      "gas:candidate-vibid:2422000975998": 34,
+      "gas:candidate-vibid:2422000974701": 106,
+      "gas:candidate-vibid:2422000976511": 57,
+      "gas:candidate-vibid:2422000977235": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9563,12 +9563,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 53,
-      "Мишенин Евгений Николаевич": 22,
-      "Украинцев Игорь Сергеевич": 100,
-      "Усольцева Ирина Сергеевна": 55,
-      "Федяев Павел Михайлович": 744
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 53,
+      "gas:candidate-vibid:2422000975998": 22,
+      "gas:candidate-vibid:2422000974701": 100,
+      "gas:candidate-vibid:2422000976511": 55,
+      "gas:candidate-vibid:2422000977235": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9619,12 +9619,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 17,
-      "Витковский Юрий Николаевич": 26,
-      "Мишенин Евгений Николаевич": 20,
-      "Украинцев Игорь Сергеевич": 42,
-      "Усольцева Ирина Сергеевна": 23,
-      "Федяев Павел Михайлович": 270
+      "gas:candidate-vibid:2422000977736": 17,
+      "gas:candidate-vibid:2422000976405": 26,
+      "gas:candidate-vibid:2422000975998": 20,
+      "gas:candidate-vibid:2422000974701": 42,
+      "gas:candidate-vibid:2422000976511": 23,
+      "gas:candidate-vibid:2422000977235": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9675,12 +9675,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 6,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 8,
-      "Федяев Павел Михайлович": 119
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 6,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 8,
+      "gas:candidate-vibid:2422000977235": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9731,12 +9731,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 0,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 13,
-      "Усольцева Ирина Сергеевна": 13,
-      "Федяев Павел Михайлович": 107
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 0,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 13,
+      "gas:candidate-vibid:2422000976511": 13,
+      "gas:candidate-vibid:2422000977235": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9787,12 +9787,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 18,
-      "Витковский Юрий Николаевич": 106,
-      "Мишенин Евгений Николаевич": 46,
-      "Украинцев Игорь Сергеевич": 87,
-      "Усольцева Ирина Сергеевна": 14,
-      "Федяев Павел Михайлович": 603
+      "gas:candidate-vibid:2422000977736": 18,
+      "gas:candidate-vibid:2422000976405": 106,
+      "gas:candidate-vibid:2422000975998": 46,
+      "gas:candidate-vibid:2422000974701": 87,
+      "gas:candidate-vibid:2422000976511": 14,
+      "gas:candidate-vibid:2422000977235": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9843,12 +9843,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 22,
-      "Мишенин Евгений Николаевич": 0,
-      "Украинцев Игорь Сергеевич": 18,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 171
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 22,
+      "gas:candidate-vibid:2422000975998": 0,
+      "gas:candidate-vibid:2422000974701": 18,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9899,12 +9899,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 16,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 9,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 115
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 16,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 9,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -9955,12 +9955,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 11,
-      "Витковский Юрий Николаевич": 28,
-      "Мишенин Евгений Николаевич": 14,
-      "Украинцев Игорь Сергеевич": 48,
-      "Усольцева Ирина Сергеевна": 28,
-      "Федяев Павел Михайлович": 385
+      "gas:candidate-vibid:2422000977736": 11,
+      "gas:candidate-vibid:2422000976405": 28,
+      "gas:candidate-vibid:2422000975998": 14,
+      "gas:candidate-vibid:2422000974701": 48,
+      "gas:candidate-vibid:2422000976511": 28,
+      "gas:candidate-vibid:2422000977235": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10011,12 +10011,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 11,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 132
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 11,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10067,12 +10067,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 16,
-      "Витковский Юрий Николаевич": 26,
-      "Мишенин Евгений Николаевич": 16,
-      "Украинцев Игорь Сергеевич": 61,
-      "Усольцева Ирина Сергеевна": 33,
-      "Федяев Павел Михайлович": 313
+      "gas:candidate-vibid:2422000977736": 16,
+      "gas:candidate-vibid:2422000976405": 26,
+      "gas:candidate-vibid:2422000975998": 16,
+      "gas:candidate-vibid:2422000974701": 61,
+      "gas:candidate-vibid:2422000976511": 33,
+      "gas:candidate-vibid:2422000977235": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10123,12 +10123,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 8,
-      "Мишенин Евгений Николаевич": 3,
-      "Украинцев Игорь Сергеевич": 22,
-      "Усольцева Ирина Сергеевна": 9,
-      "Федяев Павел Михайлович": 32
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 8,
+      "gas:candidate-vibid:2422000975998": 3,
+      "gas:candidate-vibid:2422000974701": 22,
+      "gas:candidate-vibid:2422000976511": 9,
+      "gas:candidate-vibid:2422000977235": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10179,12 +10179,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 5,
-      "Витковский Юрий Николаевич": 13,
-      "Мишенин Евгений Николаевич": 10,
-      "Украинцев Игорь Сергеевич": 21,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 69
+      "gas:candidate-vibid:2422000977736": 5,
+      "gas:candidate-vibid:2422000976405": 13,
+      "gas:candidate-vibid:2422000975998": 10,
+      "gas:candidate-vibid:2422000974701": 21,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10235,12 +10235,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 31,
-      "Мишенин Евгений Николаевич": 17,
-      "Украинцев Игорь Сергеевич": 81,
-      "Усольцева Ирина Сергеевна": 46,
-      "Федяев Павел Михайлович": 270
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 31,
+      "gas:candidate-vibid:2422000975998": 17,
+      "gas:candidate-vibid:2422000974701": 81,
+      "gas:candidate-vibid:2422000976511": 46,
+      "gas:candidate-vibid:2422000977235": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10291,12 +10291,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 16,
-      "Мишенин Евгений Николаевич": 13,
-      "Украинцев Игорь Сергеевич": 37,
-      "Усольцева Ирина Сергеевна": 18,
-      "Федяев Павел Михайлович": 153
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 16,
+      "gas:candidate-vibid:2422000975998": 13,
+      "gas:candidate-vibid:2422000974701": 37,
+      "gas:candidate-vibid:2422000976511": 18,
+      "gas:candidate-vibid:2422000977235": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10347,12 +10347,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 12,
-      "Мишенин Евгений Николаевич": 12,
-      "Украинцев Игорь Сергеевич": 46,
-      "Усольцева Ирина Сергеевна": 14,
-      "Федяев Павел Михайлович": 92
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 12,
+      "gas:candidate-vibid:2422000975998": 12,
+      "gas:candidate-vibid:2422000974701": 46,
+      "gas:candidate-vibid:2422000976511": 14,
+      "gas:candidate-vibid:2422000977235": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10403,12 +10403,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 31,
-      "Мишенин Евгений Николаевич": 17,
-      "Украинцев Игорь Сергеевич": 56,
-      "Усольцева Ирина Сергеевна": 27,
-      "Федяев Павел Михайлович": 769
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 31,
+      "gas:candidate-vibid:2422000975998": 17,
+      "gas:candidate-vibid:2422000974701": 56,
+      "gas:candidate-vibid:2422000976511": 27,
+      "gas:candidate-vibid:2422000977235": 769
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10459,12 +10459,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 9,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 9,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 73
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 9,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 9,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10515,12 +10515,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 9,
-      "Витковский Юрий Николаевич": 43,
-      "Мишенин Евгений Николаевич": 34,
-      "Украинцев Игорь Сергеевич": 89,
-      "Усольцева Ирина Сергеевна": 46,
-      "Федяев Павел Михайлович": 846
+      "gas:candidate-vibid:2422000977736": 9,
+      "gas:candidate-vibid:2422000976405": 43,
+      "gas:candidate-vibid:2422000975998": 34,
+      "gas:candidate-vibid:2422000974701": 89,
+      "gas:candidate-vibid:2422000976511": 46,
+      "gas:candidate-vibid:2422000977235": 846
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10571,12 +10571,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 34,
-      "Мишенин Евгений Николаевич": 8,
-      "Украинцев Игорь Сергеевич": 31,
-      "Усольцева Ирина Сергеевна": 19,
-      "Федяев Павел Михайлович": 340
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 34,
+      "gas:candidate-vibid:2422000975998": 8,
+      "gas:candidate-vibid:2422000974701": 31,
+      "gas:candidate-vibid:2422000976511": 19,
+      "gas:candidate-vibid:2422000977235": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10627,12 +10627,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 141,
-      "Мишенин Евгений Николаевич": 21,
-      "Украинцев Игорь Сергеевич": 37,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 880
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 141,
+      "gas:candidate-vibid:2422000975998": 21,
+      "gas:candidate-vibid:2422000974701": 37,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 880
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10683,12 +10683,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 5,
-      "Украинцев Игорь Сергеевич": 7,
-      "Усольцева Ирина Сергеевна": 5,
-      "Федяев Павел Михайлович": 149
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 5,
+      "gas:candidate-vibid:2422000974701": 7,
+      "gas:candidate-vibid:2422000976511": 5,
+      "gas:candidate-vibid:2422000977235": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10739,12 +10739,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 13,
-      "Мишенин Евгений Николаевич": 9,
-      "Украинцев Игорь Сергеевич": 51,
-      "Усольцева Ирина Сергеевна": 22,
-      "Федяев Павел Михайлович": 347
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 13,
+      "gas:candidate-vibid:2422000975998": 9,
+      "gas:candidate-vibid:2422000974701": 51,
+      "gas:candidate-vibid:2422000976511": 22,
+      "gas:candidate-vibid:2422000977235": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10795,12 +10795,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 14,
-      "Мишенин Евгений Николаевич": 11,
-      "Украинцев Игорь Сергеевич": 6,
-      "Усольцева Ирина Сергеевна": 2,
-      "Федяев Павел Михайлович": 119
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 14,
+      "gas:candidate-vibid:2422000975998": 11,
+      "gas:candidate-vibid:2422000974701": 6,
+      "gas:candidate-vibid:2422000976511": 2,
+      "gas:candidate-vibid:2422000977235": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10851,12 +10851,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 22,
-      "Мишенин Евгений Николаевич": 17,
-      "Украинцев Игорь Сергеевич": 32,
-      "Усольцева Ирина Сергеевна": 15,
-      "Федяев Павел Михайлович": 130
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 22,
+      "gas:candidate-vibid:2422000975998": 17,
+      "gas:candidate-vibid:2422000974701": 32,
+      "gas:candidate-vibid:2422000976511": 15,
+      "gas:candidate-vibid:2422000977235": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10907,12 +10907,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 1,
-      "Витковский Юрий Николаевич": 3,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 5,
-      "Усольцева Ирина Сергеевна": 4,
-      "Федяев Павел Михайлович": 83
+      "gas:candidate-vibid:2422000977736": 1,
+      "gas:candidate-vibid:2422000976405": 3,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 5,
+      "gas:candidate-vibid:2422000976511": 4,
+      "gas:candidate-vibid:2422000977235": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -10963,12 +10963,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 3,
-      "Мишенин Евгений Николаевич": 4,
-      "Украинцев Игорь Сергеевич": 13,
-      "Усольцева Ирина Сергеевна": 7,
-      "Федяев Павел Михайлович": 98
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 3,
+      "gas:candidate-vibid:2422000975998": 4,
+      "gas:candidate-vibid:2422000974701": 13,
+      "gas:candidate-vibid:2422000976511": 7,
+      "gas:candidate-vibid:2422000977235": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909164&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909164&type=464",
@@ -11019,12 +11019,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 9,
-      "Витковский Юрий Николаевич": 226,
-      "Мишенин Евгений Николаевич": 33,
-      "Украинцев Игорь Сергеевич": 46,
-      "Усольцева Ирина Сергеевна": 17,
-      "Федяев Павел Михайлович": 1779
+      "gas:candidate-vibid:2422000977736": 9,
+      "gas:candidate-vibid:2422000976405": 226,
+      "gas:candidate-vibid:2422000975998": 33,
+      "gas:candidate-vibid:2422000974701": 46,
+      "gas:candidate-vibid:2422000976511": 17,
+      "gas:candidate-vibid:2422000977235": 1779
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11075,12 +11075,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 28,
-      "Витковский Юрий Николаевич": 103,
-      "Мишенин Евгений Николаевич": 59,
-      "Украинцев Игорь Сергеевич": 227,
-      "Усольцева Ирина Сергеевна": 68,
-      "Федяев Павел Михайлович": 1708
+      "gas:candidate-vibid:2422000977736": 28,
+      "gas:candidate-vibid:2422000976405": 103,
+      "gas:candidate-vibid:2422000975998": 59,
+      "gas:candidate-vibid:2422000974701": 227,
+      "gas:candidate-vibid:2422000976511": 68,
+      "gas:candidate-vibid:2422000977235": 1708
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11131,12 +11131,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 110,
-      "Витковский Юрий Николаевич": 128,
-      "Мишенин Евгений Николаевич": 73,
-      "Украинцев Игорь Сергеевич": 129,
-      "Усольцева Ирина Сергеевна": 37,
-      "Федяев Павел Михайлович": 1338
+      "gas:candidate-vibid:2422000977736": 110,
+      "gas:candidate-vibid:2422000976405": 128,
+      "gas:candidate-vibid:2422000975998": 73,
+      "gas:candidate-vibid:2422000974701": 129,
+      "gas:candidate-vibid:2422000976511": 37,
+      "gas:candidate-vibid:2422000977235": 1338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11187,12 +11187,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 81,
-      "Витковский Юрий Николаевич": 95,
-      "Мишенин Евгений Николаевич": 92,
-      "Украинцев Игорь Сергеевич": 90,
-      "Усольцева Ирина Сергеевна": 90,
-      "Федяев Павел Михайлович": 1413
+      "gas:candidate-vibid:2422000977736": 81,
+      "gas:candidate-vibid:2422000976405": 95,
+      "gas:candidate-vibid:2422000975998": 92,
+      "gas:candidate-vibid:2422000974701": 90,
+      "gas:candidate-vibid:2422000976511": 90,
+      "gas:candidate-vibid:2422000977235": 1413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11243,12 +11243,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 0,
-      "Витковский Юрий Николаевич": 108,
-      "Мишенин Евгений Николаевич": 10,
-      "Украинцев Игорь Сергеевич": 56,
-      "Усольцева Ирина Сергеевна": 0,
-      "Федяев Павел Михайлович": 502
+      "gas:candidate-vibid:2422000977736": 0,
+      "gas:candidate-vibid:2422000976405": 108,
+      "gas:candidate-vibid:2422000975998": 10,
+      "gas:candidate-vibid:2422000974701": 56,
+      "gas:candidate-vibid:2422000976511": 0,
+      "gas:candidate-vibid:2422000977235": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11299,12 +11299,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 28,
-      "Мишенин Евгений Николаевич": 31,
-      "Украинцев Игорь Сергеевич": 83,
-      "Усольцева Ирина Сергеевна": 30,
-      "Федяев Павел Михайлович": 538
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 28,
+      "gas:candidate-vibid:2422000975998": 31,
+      "gas:candidate-vibid:2422000974701": 83,
+      "gas:candidate-vibid:2422000976511": 30,
+      "gas:candidate-vibid:2422000977235": 538
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11355,12 +11355,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 28,
-      "Мишенин Евгений Николаевич": 23,
-      "Украинцев Игорь Сергеевич": 44,
-      "Усольцева Ирина Сергеевна": 20,
-      "Федяев Павел Михайлович": 416
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 28,
+      "gas:candidate-vibid:2422000975998": 23,
+      "gas:candidate-vibid:2422000974701": 44,
+      "gas:candidate-vibid:2422000976511": 20,
+      "gas:candidate-vibid:2422000977235": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909165&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909165&type=464",
@@ -11411,12 +11411,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 9,
-      "Витковский Юрий Николаевич": 80,
-      "Мишенин Евгений Николаевич": 61,
-      "Украинцев Игорь Сергеевич": 62,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 1730
+      "gas:candidate-vibid:2422000977736": 9,
+      "gas:candidate-vibid:2422000976405": 80,
+      "gas:candidate-vibid:2422000975998": 61,
+      "gas:candidate-vibid:2422000974701": 62,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 1730
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11467,12 +11467,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 22,
-      "Витковский Юрий Николаевич": 81,
-      "Мишенин Евгений Николаевич": 92,
-      "Украинцев Игорь Сергеевич": 94,
-      "Усольцева Ирина Сергеевна": 45,
-      "Федяев Павел Михайлович": 1200
+      "gas:candidate-vibid:2422000977736": 22,
+      "gas:candidate-vibid:2422000976405": 81,
+      "gas:candidate-vibid:2422000975998": 92,
+      "gas:candidate-vibid:2422000974701": 94,
+      "gas:candidate-vibid:2422000976511": 45,
+      "gas:candidate-vibid:2422000977235": 1200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11523,12 +11523,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 20,
-      "Витковский Юрий Николаевич": 98,
-      "Мишенин Евгений Николаевич": 71,
-      "Украинцев Игорь Сергеевич": 133,
-      "Усольцева Ирина Сергеевна": 47,
-      "Федяев Павел Михайлович": 780
+      "gas:candidate-vibid:2422000977736": 20,
+      "gas:candidate-vibid:2422000976405": 98,
+      "gas:candidate-vibid:2422000975998": 71,
+      "gas:candidate-vibid:2422000974701": 133,
+      "gas:candidate-vibid:2422000976511": 47,
+      "gas:candidate-vibid:2422000977235": 780
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11579,12 +11579,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 11,
-      "Витковский Юрий Николаевич": 95,
-      "Мишенин Евгений Николаевич": 105,
-      "Украинцев Игорь Сергеевич": 259,
-      "Усольцева Ирина Сергеевна": 15,
-      "Федяев Павел Михайлович": 1884
+      "gas:candidate-vibid:2422000977736": 11,
+      "gas:candidate-vibid:2422000976405": 95,
+      "gas:candidate-vibid:2422000975998": 105,
+      "gas:candidate-vibid:2422000974701": 259,
+      "gas:candidate-vibid:2422000976511": 15,
+      "gas:candidate-vibid:2422000977235": 1884
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11635,12 +11635,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 97,
-      "Мишенин Евгений Николаевич": 95,
-      "Украинцев Игорь Сергеевич": 189,
-      "Усольцева Ирина Сергеевна": 9,
-      "Федяев Павел Михайлович": 1767
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 97,
+      "gas:candidate-vibid:2422000975998": 95,
+      "gas:candidate-vibid:2422000974701": 189,
+      "gas:candidate-vibid:2422000976511": 9,
+      "gas:candidate-vibid:2422000977235": 1767
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11691,12 +11691,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 21,
-      "Витковский Юрий Николаевич": 90,
-      "Мишенин Евгений Николаевич": 64,
-      "Украинцев Игорь Сергеевич": 117,
-      "Усольцева Ирина Сергеевна": 23,
-      "Федяев Павел Михайлович": 1445
+      "gas:candidate-vibid:2422000977736": 21,
+      "gas:candidate-vibid:2422000976405": 90,
+      "gas:candidate-vibid:2422000975998": 64,
+      "gas:candidate-vibid:2422000974701": 117,
+      "gas:candidate-vibid:2422000976511": 23,
+      "gas:candidate-vibid:2422000977235": 1445
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11747,12 +11747,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 12,
-      "Витковский Юрий Николаевич": 95,
-      "Мишенин Евгений Николаевич": 55,
-      "Украинцев Игорь Сергеевич": 90,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 1583
+      "gas:candidate-vibid:2422000977736": 12,
+      "gas:candidate-vibid:2422000976405": 95,
+      "gas:candidate-vibid:2422000975998": 55,
+      "gas:candidate-vibid:2422000974701": 90,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 1583
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11803,12 +11803,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 4,
-      "Витковский Юрий Николаевич": 27,
-      "Мишенин Евгений Николаевич": 14,
-      "Украинцев Игорь Сергеевич": 36,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 347
+      "gas:candidate-vibid:2422000977736": 4,
+      "gas:candidate-vibid:2422000976405": 27,
+      "gas:candidate-vibid:2422000975998": 14,
+      "gas:candidate-vibid:2422000974701": 36,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11859,12 +11859,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 22,
-      "Витковский Юрий Николаевич": 43,
-      "Мишенин Евгений Николаевич": 80,
-      "Украинцев Игорь Сергеевич": 133,
-      "Усольцева Ирина Сергеевна": 34,
-      "Федяев Павел Михайлович": 858
+      "gas:candidate-vibid:2422000977736": 22,
+      "gas:candidate-vibid:2422000976405": 43,
+      "gas:candidate-vibid:2422000975998": 80,
+      "gas:candidate-vibid:2422000974701": 133,
+      "gas:candidate-vibid:2422000976511": 34,
+      "gas:candidate-vibid:2422000977235": 858
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11915,12 +11915,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 32,
-      "Витковский Юрий Николаевич": 56,
-      "Мишенин Евгений Николаевич": 36,
-      "Украинцев Игорь Сергеевич": 82,
-      "Усольцева Ирина Сергеевна": 58,
-      "Федяев Павел Михайлович": 793
+      "gas:candidate-vibid:2422000977736": 32,
+      "gas:candidate-vibid:2422000976405": 56,
+      "gas:candidate-vibid:2422000975998": 36,
+      "gas:candidate-vibid:2422000974701": 82,
+      "gas:candidate-vibid:2422000976511": 58,
+      "gas:candidate-vibid:2422000977235": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -11971,12 +11971,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 12,
-      "Витковский Юрий Николаевич": 46,
-      "Мишенин Евгений Николаевич": 58,
-      "Украинцев Игорь Сергеевич": 117,
-      "Усольцева Ирина Сергеевна": 32,
-      "Федяев Павел Михайлович": 695
+      "gas:candidate-vibid:2422000977736": 12,
+      "gas:candidate-vibid:2422000976405": 46,
+      "gas:candidate-vibid:2422000975998": 58,
+      "gas:candidate-vibid:2422000974701": 117,
+      "gas:candidate-vibid:2422000976511": 32,
+      "gas:candidate-vibid:2422000977235": 695
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12027,12 +12027,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 25,
-      "Витковский Юрий Николаевич": 59,
-      "Мишенин Евгений Николаевич": 66,
-      "Украинцев Игорь Сергеевич": 124,
-      "Усольцева Ирина Сергеевна": 36,
-      "Федяев Павел Михайлович": 1642
+      "gas:candidate-vibid:2422000977736": 25,
+      "gas:candidate-vibid:2422000976405": 59,
+      "gas:candidate-vibid:2422000975998": 66,
+      "gas:candidate-vibid:2422000974701": 124,
+      "gas:candidate-vibid:2422000976511": 36,
+      "gas:candidate-vibid:2422000977235": 1642
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12083,12 +12083,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 17,
-      "Витковский Юрий Николаевич": 90,
-      "Мишенин Евгений Николаевич": 78,
-      "Украинцев Игорь Сергеевич": 166,
-      "Усольцева Ирина Сергеевна": 47,
-      "Федяев Павел Михайлович": 1059
+      "gas:candidate-vibid:2422000977736": 17,
+      "gas:candidate-vibid:2422000976405": 90,
+      "gas:candidate-vibid:2422000975998": 78,
+      "gas:candidate-vibid:2422000974701": 166,
+      "gas:candidate-vibid:2422000976511": 47,
+      "gas:candidate-vibid:2422000977235": 1059
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12139,12 +12139,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 37,
-      "Мишенин Евгений Николаевич": 33,
-      "Украинцев Игорь Сергеевич": 65,
-      "Усольцева Ирина Сергеевна": 17,
-      "Федяев Павел Михайлович": 697
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 37,
+      "gas:candidate-vibid:2422000975998": 33,
+      "gas:candidate-vibid:2422000974701": 65,
+      "gas:candidate-vibid:2422000976511": 17,
+      "gas:candidate-vibid:2422000977235": 697
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12195,12 +12195,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 45,
-      "Витковский Юрий Николаевич": 38,
-      "Мишенин Евгений Николаевич": 26,
-      "Украинцев Игорь Сергеевич": 219,
-      "Усольцева Ирина Сергеевна": 36,
-      "Федяев Павел Михайлович": 1282
+      "gas:candidate-vibid:2422000977736": 45,
+      "gas:candidate-vibid:2422000976405": 38,
+      "gas:candidate-vibid:2422000975998": 26,
+      "gas:candidate-vibid:2422000974701": 219,
+      "gas:candidate-vibid:2422000976511": 36,
+      "gas:candidate-vibid:2422000977235": 1282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12251,12 +12251,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 2,
-      "Витковский Юрий Николаевич": 72,
-      "Мишенин Евгений Николаевич": 37,
-      "Украинцев Игорь Сергеевич": 115,
-      "Усольцева Ирина Сергеевна": 7,
-      "Федяев Павел Михайлович": 1255
+      "gas:candidate-vibid:2422000977736": 2,
+      "gas:candidate-vibid:2422000976405": 72,
+      "gas:candidate-vibid:2422000975998": 37,
+      "gas:candidate-vibid:2422000974701": 115,
+      "gas:candidate-vibid:2422000976511": 7,
+      "gas:candidate-vibid:2422000977235": 1255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12307,12 +12307,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 3,
-      "Витковский Юрий Николаевич": 28,
-      "Мишенин Евгений Николаевич": 35,
-      "Украинцев Игорь Сергеевич": 124,
-      "Усольцева Ирина Сергеевна": 6,
-      "Федяев Павел Михайлович": 1298
+      "gas:candidate-vibid:2422000977736": 3,
+      "gas:candidate-vibid:2422000976405": 28,
+      "gas:candidate-vibid:2422000975998": 35,
+      "gas:candidate-vibid:2422000974701": 124,
+      "gas:candidate-vibid:2422000976511": 6,
+      "gas:candidate-vibid:2422000977235": 1298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12363,12 +12363,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 11,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 40,
-      "Украинцев Игорь Сергеевич": 155,
-      "Усольцева Ирина Сергеевна": 27,
-      "Федяев Павел Михайлович": 968
+      "gas:candidate-vibid:2422000977736": 11,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 40,
+      "gas:candidate-vibid:2422000974701": 155,
+      "gas:candidate-vibid:2422000976511": 27,
+      "gas:candidate-vibid:2422000977235": 968
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12419,12 +12419,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 17,
-      "Витковский Юрий Николаевич": 69,
-      "Мишенин Евгений Николаевич": 58,
-      "Украинцев Игорь Сергеевич": 179,
-      "Усольцева Ирина Сергеевна": 61,
-      "Федяев Павел Михайлович": 1099
+      "gas:candidate-vibid:2422000977736": 17,
+      "gas:candidate-vibid:2422000976405": 69,
+      "gas:candidate-vibid:2422000975998": 58,
+      "gas:candidate-vibid:2422000974701": 179,
+      "gas:candidate-vibid:2422000976511": 61,
+      "gas:candidate-vibid:2422000977235": 1099
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12475,12 +12475,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 14,
-      "Витковский Юрий Николаевич": 112,
-      "Мишенин Евгений Николаевич": 118,
-      "Украинцев Игорь Сергеевич": 198,
-      "Усольцева Ирина Сергеевна": 25,
-      "Федяев Павел Михайлович": 1570
+      "gas:candidate-vibid:2422000977736": 14,
+      "gas:candidate-vibid:2422000976405": 112,
+      "gas:candidate-vibid:2422000975998": 118,
+      "gas:candidate-vibid:2422000974701": 198,
+      "gas:candidate-vibid:2422000976511": 25,
+      "gas:candidate-vibid:2422000977235": 1570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12531,12 +12531,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 23,
-      "Витковский Юрий Николаевич": 15,
-      "Мишенин Евгений Николаевич": 19,
-      "Украинцев Игорь Сергеевич": 40,
-      "Усольцева Ирина Сергеевна": 24,
-      "Федяев Павел Михайлович": 694
+      "gas:candidate-vibid:2422000977736": 23,
+      "gas:candidate-vibid:2422000976405": 15,
+      "gas:candidate-vibid:2422000975998": 19,
+      "gas:candidate-vibid:2422000974701": 40,
+      "gas:candidate-vibid:2422000976511": 24,
+      "gas:candidate-vibid:2422000977235": 694
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12587,12 +12587,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 28,
-      "Витковский Юрий Николаевич": 108,
-      "Мишенин Евгений Николаевич": 107,
-      "Украинцев Игорь Сергеевич": 142,
-      "Усольцева Ирина Сергеевна": 53,
-      "Федяев Павел Михайлович": 1081
+      "gas:candidate-vibid:2422000977736": 28,
+      "gas:candidate-vibid:2422000976405": 108,
+      "gas:candidate-vibid:2422000975998": 107,
+      "gas:candidate-vibid:2422000974701": 142,
+      "gas:candidate-vibid:2422000976511": 53,
+      "gas:candidate-vibid:2422000977235": 1081
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12643,12 +12643,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 60,
-      "Мишенин Евгений Николаевич": 25,
-      "Украинцев Игорь Сергеевич": 93,
-      "Усольцева Ирина Сергеевна": 17,
-      "Федяев Павел Михайлович": 375
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 60,
+      "gas:candidate-vibid:2422000975998": 25,
+      "gas:candidate-vibid:2422000974701": 93,
+      "gas:candidate-vibid:2422000976511": 17,
+      "gas:candidate-vibid:2422000977235": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12699,12 +12699,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 28,
-      "Витковский Юрий Николаевич": 82,
-      "Мишенин Евгений Николаевич": 53,
-      "Украинцев Игорь Сергеевич": 235,
-      "Усольцева Ирина Сергеевна": 77,
-      "Федяев Павел Михайлович": 1385
+      "gas:candidate-vibid:2422000977736": 28,
+      "gas:candidate-vibid:2422000976405": 82,
+      "gas:candidate-vibid:2422000975998": 53,
+      "gas:candidate-vibid:2422000974701": 235,
+      "gas:candidate-vibid:2422000976511": 77,
+      "gas:candidate-vibid:2422000977235": 1385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12755,12 +12755,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 10,
-      "Витковский Юрий Николаевич": 5,
-      "Мишенин Евгений Николаевич": 25,
-      "Украинцев Игорь Сергеевич": 87,
-      "Усольцева Ирина Сергеевна": 5,
-      "Федяев Павел Михайлович": 1227
+      "gas:candidate-vibid:2422000977736": 10,
+      "gas:candidate-vibid:2422000976405": 5,
+      "gas:candidate-vibid:2422000975998": 25,
+      "gas:candidate-vibid:2422000974701": 87,
+      "gas:candidate-vibid:2422000976511": 5,
+      "gas:candidate-vibid:2422000977235": 1227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12811,12 +12811,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 16,
-      "Витковский Юрий Николаевич": 42,
-      "Мишенин Евгений Николаевич": 35,
-      "Украинцев Игорь Сергеевич": 160,
-      "Усольцева Ирина Сергеевна": 41,
-      "Федяев Павел Михайлович": 787
+      "gas:candidate-vibid:2422000977736": 16,
+      "gas:candidate-vibid:2422000976405": 42,
+      "gas:candidate-vibid:2422000975998": 35,
+      "gas:candidate-vibid:2422000974701": 160,
+      "gas:candidate-vibid:2422000976511": 41,
+      "gas:candidate-vibid:2422000977235": 787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12867,12 +12867,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 12,
-      "Витковский Юрий Николаевич": 88,
-      "Мишенин Евгений Николаевич": 88,
-      "Украинцев Игорь Сергеевич": 185,
-      "Усольцева Ирина Сергеевна": 13,
-      "Федяев Павел Михайлович": 1785
+      "gas:candidate-vibid:2422000977736": 12,
+      "gas:candidate-vibid:2422000976405": 88,
+      "gas:candidate-vibid:2422000975998": 88,
+      "gas:candidate-vibid:2422000974701": 185,
+      "gas:candidate-vibid:2422000976511": 13,
+      "gas:candidate-vibid:2422000977235": 1785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12923,12 +12923,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 6,
-      "Витковский Юрий Николаевич": 37,
-      "Мишенин Евгений Николаевич": 10,
-      "Украинцев Игорь Сергеевич": 126,
-      "Усольцева Ирина Сергеевна": 6,
-      "Федяев Павел Михайлович": 1101
+      "gas:candidate-vibid:2422000977736": 6,
+      "gas:candidate-vibid:2422000976405": 37,
+      "gas:candidate-vibid:2422000975998": 10,
+      "gas:candidate-vibid:2422000974701": 126,
+      "gas:candidate-vibid:2422000976511": 6,
+      "gas:candidate-vibid:2422000977235": 1101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -12979,12 +12979,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 18,
-      "Витковский Юрий Николаевич": 92,
-      "Мишенин Евгений Николаевич": 92,
-      "Украинцев Игорь Сергеевич": 143,
-      "Усольцева Ирина Сергеевна": 19,
-      "Федяев Павел Михайлович": 1001
+      "gas:candidate-vibid:2422000977736": 18,
+      "gas:candidate-vibid:2422000976405": 92,
+      "gas:candidate-vibid:2422000975998": 92,
+      "gas:candidate-vibid:2422000974701": 143,
+      "gas:candidate-vibid:2422000976511": 19,
+      "gas:candidate-vibid:2422000977235": 1001
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13035,12 +13035,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 18,
-      "Витковский Юрий Николаевич": 103,
-      "Мишенин Евгений Николаевич": 101,
-      "Украинцев Игорь Сергеевич": 218,
-      "Усольцева Ирина Сергеевна": 17,
-      "Федяев Павел Михайлович": 1204
+      "gas:candidate-vibid:2422000977736": 18,
+      "gas:candidate-vibid:2422000976405": 103,
+      "gas:candidate-vibid:2422000975998": 101,
+      "gas:candidate-vibid:2422000974701": 218,
+      "gas:candidate-vibid:2422000976511": 17,
+      "gas:candidate-vibid:2422000977235": 1204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13091,12 +13091,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 21,
-      "Витковский Юрий Николаевич": 229,
-      "Мишенин Евгений Николаевич": 100,
-      "Украинцев Игорь Сергеевич": 99,
-      "Усольцева Ирина Сергеевна": 21,
-      "Федяев Павел Михайлович": 1450
+      "gas:candidate-vibid:2422000977736": 21,
+      "gas:candidate-vibid:2422000976405": 229,
+      "gas:candidate-vibid:2422000975998": 100,
+      "gas:candidate-vibid:2422000974701": 99,
+      "gas:candidate-vibid:2422000976511": 21,
+      "gas:candidate-vibid:2422000977235": 1450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13147,12 +13147,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 35,
-      "Витковский Юрий Николаевич": 59,
-      "Мишенин Евгений Николаевич": 50,
-      "Украинцев Игорь Сергеевич": 126,
-      "Усольцева Ирина Сергеевна": 44,
-      "Федяев Павел Михайлович": 1154
+      "gas:candidate-vibid:2422000977736": 35,
+      "gas:candidate-vibid:2422000976405": 59,
+      "gas:candidate-vibid:2422000975998": 50,
+      "gas:candidate-vibid:2422000974701": 126,
+      "gas:candidate-vibid:2422000976511": 44,
+      "gas:candidate-vibid:2422000977235": 1154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13203,12 +13203,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 23,
-      "Витковский Юрий Николаевич": 110,
-      "Мишенин Евгений Николаевич": 112,
-      "Украинцев Игорь Сергеевич": 115,
-      "Усольцева Ирина Сергеевна": 29,
-      "Федяев Павел Михайлович": 1607
+      "gas:candidate-vibid:2422000977736": 23,
+      "gas:candidate-vibid:2422000976405": 110,
+      "gas:candidate-vibid:2422000975998": 112,
+      "gas:candidate-vibid:2422000974701": 115,
+      "gas:candidate-vibid:2422000976511": 29,
+      "gas:candidate-vibid:2422000977235": 1607
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13259,12 +13259,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 8,
-      "Витковский Юрий Николаевич": 40,
-      "Мишенин Евгений Николаевич": 46,
-      "Украинцев Игорь Сергеевич": 39,
-      "Усольцева Ирина Сергеевна": 32,
-      "Федяев Павел Михайлович": 309
+      "gas:candidate-vibid:2422000977736": 8,
+      "gas:candidate-vibid:2422000976405": 40,
+      "gas:candidate-vibid:2422000975998": 46,
+      "gas:candidate-vibid:2422000974701": 39,
+      "gas:candidate-vibid:2422000976511": 32,
+      "gas:candidate-vibid:2422000977235": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13315,12 +13315,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 56,
-      "Витковский Юрий Николаевич": 107,
-      "Мишенин Евгений Николаевич": 115,
-      "Украинцев Игорь Сергеевич": 231,
-      "Усольцева Ирина Сергеевна": 72,
-      "Федяев Павел Михайлович": 1756
+      "gas:candidate-vibid:2422000977736": 56,
+      "gas:candidate-vibid:2422000976405": 107,
+      "gas:candidate-vibid:2422000975998": 115,
+      "gas:candidate-vibid:2422000974701": 231,
+      "gas:candidate-vibid:2422000976511": 72,
+      "gas:candidate-vibid:2422000977235": 1756
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13371,12 +13371,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 7,
-      "Витковский Юрий Николаевич": 2,
-      "Мишенин Евгений Николаевич": 12,
-      "Украинцев Игорь Сергеевич": 23,
-      "Усольцева Ирина Сергеевна": 9,
-      "Федяев Павел Михайлович": 203
+      "gas:candidate-vibid:2422000977736": 7,
+      "gas:candidate-vibid:2422000976405": 2,
+      "gas:candidate-vibid:2422000975998": 12,
+      "gas:candidate-vibid:2422000974701": 23,
+      "gas:candidate-vibid:2422000976511": 9,
+      "gas:candidate-vibid:2422000977235": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13427,12 +13427,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 13,
-      "Витковский Юрий Николаевич": 76,
-      "Мишенин Евгений Николаевич": 55,
-      "Украинцев Игорь Сергеевич": 109,
-      "Усольцева Ирина Сергеевна": 17,
-      "Федяев Павел Михайлович": 1925
+      "gas:candidate-vibid:2422000977736": 13,
+      "gas:candidate-vibid:2422000976405": 76,
+      "gas:candidate-vibid:2422000975998": 55,
+      "gas:candidate-vibid:2422000974701": 109,
+      "gas:candidate-vibid:2422000976511": 17,
+      "gas:candidate-vibid:2422000977235": 1925
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13483,12 +13483,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 19,
-      "Витковский Юрий Николаевич": 77,
-      "Мишенин Евгений Николаевич": 73,
-      "Украинцев Игорь Сергеевич": 105,
-      "Усольцева Ирина Сергеевна": 11,
-      "Федяев Павел Михайлович": 2104
+      "gas:candidate-vibid:2422000977736": 19,
+      "gas:candidate-vibid:2422000976405": 77,
+      "gas:candidate-vibid:2422000975998": 73,
+      "gas:candidate-vibid:2422000974701": 105,
+      "gas:candidate-vibid:2422000976511": 11,
+      "gas:candidate-vibid:2422000977235": 2104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13539,12 +13539,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 20,
-      "Витковский Юрий Николаевич": 108,
-      "Мишенин Евгений Николаевич": 125,
-      "Украинцев Игорь Сергеевич": 335,
-      "Усольцева Ирина Сергеевна": 20,
-      "Федяев Павел Михайлович": 1685
+      "gas:candidate-vibid:2422000977736": 20,
+      "gas:candidate-vibid:2422000976405": 108,
+      "gas:candidate-vibid:2422000975998": 125,
+      "gas:candidate-vibid:2422000974701": 335,
+      "gas:candidate-vibid:2422000976511": 20,
+      "gas:candidate-vibid:2422000977235": 1685
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13595,12 +13595,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 14,
-      "Витковский Юрий Николаевич": 90,
-      "Мишенин Евгений Николаевич": 87,
-      "Украинцев Игорь Сергеевич": 192,
-      "Усольцева Ирина Сергеевна": 14,
-      "Федяев Павел Михайлович": 1648
+      "gas:candidate-vibid:2422000977736": 14,
+      "gas:candidate-vibid:2422000976405": 90,
+      "gas:candidate-vibid:2422000975998": 87,
+      "gas:candidate-vibid:2422000974701": 192,
+      "gas:candidate-vibid:2422000976511": 14,
+      "gas:candidate-vibid:2422000977235": 1648
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13651,12 +13651,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 66,
-      "Витковский Юрий Николаевич": 166,
-      "Мишенин Евгений Николаевич": 145,
-      "Украинцев Игорь Сергеевич": 225,
-      "Усольцева Ирина Сергеевна": 75,
-      "Федяев Павел Михайлович": 2035
+      "gas:candidate-vibid:2422000977736": 66,
+      "gas:candidate-vibid:2422000976405": 166,
+      "gas:candidate-vibid:2422000975998": 145,
+      "gas:candidate-vibid:2422000974701": 225,
+      "gas:candidate-vibid:2422000976511": 75,
+      "gas:candidate-vibid:2422000977235": 2035
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13707,12 +13707,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 73,
-      "Витковский Юрий Николаевич": 91,
-      "Мишенин Евгений Николаевич": 107,
-      "Украинцев Игорь Сергеевич": 165,
-      "Усольцева Ирина Сергеевна": 50,
-      "Федяев Павел Михайлович": 1218
+      "gas:candidate-vibid:2422000977736": 73,
+      "gas:candidate-vibid:2422000976405": 91,
+      "gas:candidate-vibid:2422000975998": 107,
+      "gas:candidate-vibid:2422000974701": 165,
+      "gas:candidate-vibid:2422000976511": 50,
+      "gas:candidate-vibid:2422000977235": 1218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13763,12 +13763,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 24,
-      "Витковский Юрий Николаевич": 98,
-      "Мишенин Евгений Николаевич": 88,
-      "Украинцев Игорь Сергеевич": 156,
-      "Усольцева Ирина Сергеевна": 10,
-      "Федяев Павел Михайлович": 1246
+      "gas:candidate-vibid:2422000977736": 24,
+      "gas:candidate-vibid:2422000976405": 98,
+      "gas:candidate-vibid:2422000975998": 88,
+      "gas:candidate-vibid:2422000974701": 156,
+      "gas:candidate-vibid:2422000976511": 10,
+      "gas:candidate-vibid:2422000977235": 1246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13819,12 +13819,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 60,
-      "Витковский Юрий Николаевич": 156,
-      "Мишенин Евгений Николаевич": 130,
-      "Украинцев Игорь Сергеевич": 220,
-      "Усольцева Ирина Сергеевна": 83,
-      "Федяев Павел Михайлович": 1623
+      "gas:candidate-vibid:2422000977736": 60,
+      "gas:candidate-vibid:2422000976405": 156,
+      "gas:candidate-vibid:2422000975998": 130,
+      "gas:candidate-vibid:2422000974701": 220,
+      "gas:candidate-vibid:2422000976511": 83,
+      "gas:candidate-vibid:2422000977235": 1623
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13875,12 +13875,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 16,
-      "Витковский Юрий Николаевич": 127,
-      "Мишенин Евгений Николаевич": 70,
-      "Украинцев Игорь Сергеевич": 257,
-      "Усольцева Ирина Сергеевна": 14,
-      "Федяев Павел Михайлович": 1922
+      "gas:candidate-vibid:2422000977736": 16,
+      "gas:candidate-vibid:2422000976405": 127,
+      "gas:candidate-vibid:2422000975998": 70,
+      "gas:candidate-vibid:2422000974701": 257,
+      "gas:candidate-vibid:2422000976511": 14,
+      "gas:candidate-vibid:2422000977235": 1922
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13931,12 +13931,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 48,
-      "Витковский Юрий Николаевич": 130,
-      "Мишенин Евгений Николаевич": 100,
-      "Украинцев Игорь Сергеевич": 196,
-      "Усольцева Ирина Сергеевна": 75,
-      "Федяев Павел Михайлович": 1395
+      "gas:candidate-vibid:2422000977736": 48,
+      "gas:candidate-vibid:2422000976405": 130,
+      "gas:candidate-vibid:2422000975998": 100,
+      "gas:candidate-vibid:2422000974701": 196,
+      "gas:candidate-vibid:2422000976511": 75,
+      "gas:candidate-vibid:2422000977235": 1395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",
@@ -13987,12 +13987,12 @@ export const duma_2016_uik_463_region_42_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевич Глеб Сергеевич": 15,
-      "Витковский Юрий Николаевич": 76,
-      "Мишенин Евгений Николаевич": 75,
-      "Украинцев Игорь Сергеевич": 147,
-      "Усольцева Ирина Сергеевна": 12,
-      "Федяев Павел Михайлович": 1217
+      "gas:candidate-vibid:2422000977736": 15,
+      "gas:candidate-vibid:2422000976405": 76,
+      "gas:candidate-vibid:2422000975998": 75,
+      "gas:candidate-vibid:2422000974701": 147,
+      "gas:candidate-vibid:2422000976511": 12,
+      "gas:candidate-vibid:2422000977235": 1217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000134&tvd=2422000909166&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909166&type=464",

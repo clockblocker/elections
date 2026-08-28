@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 386,
-      "Мингалимов Рузиль Галиевич": 11,
-      "Нурутдинов Рафаил Фаттахович": 6
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 386,
+      "gas:candidate-vibid:4164037183509": 11,
+      "gas:candidate-vibid:4164037183477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 333,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 333,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 307,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 6
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 307,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 81,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 81,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 97,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 97,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 292,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 292,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 3,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 197,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 3,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 197,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 2,
-      "Когогина Альфия Гумаровна": 190,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 2,
+      "gas:candidate-vibid:4164037183563": 190,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 8,
-      "Байрамов Рафаэль Рахматуллович": 3,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 677,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 8,
+      "gas:candidate-vibid:4164037183344": 3,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 677,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 271,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 271,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 179,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 179,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 312,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 312,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 101,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 101,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 3,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 884,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 3,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 884,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 3,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 261,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 3,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 261,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 8,
-      "Гарифуллин Мансур Зайдуллович": 10,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 1164,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 9
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 8,
+      "gas:candidate-vibid:4164037183574": 10,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 1164,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 202,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 202,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 366,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 366,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 123,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 123,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 6,
-      "Байрамов Рафаэль Рахматуллович": 7,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 2,
-      "Когогина Альфия Гумаровна": 652,
-      "Мингалимов Рузиль Галиевич": 4,
-      "Нурутдинов Рафаил Фаттахович": 5
+      "gas:candidate-vibid:4164037183400": 6,
+      "gas:candidate-vibid:4164037183344": 7,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 2,
+      "gas:candidate-vibid:4164037183563": 652,
+      "gas:candidate-vibid:4164037183509": 4,
+      "gas:candidate-vibid:4164037183477": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 705,
-      "Мингалимов Рузиль Галиевич": 5,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 705,
+      "gas:candidate-vibid:4164037183509": 5,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 2,
-      "Когогина Альфия Гумаровна": 567,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 2,
+      "gas:candidate-vibid:4164037183563": 567,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 5,
-      "Гарифуллин Мансур Зайдуллович": 21,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 686,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 5,
+      "gas:candidate-vibid:4164037183574": 21,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 686,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 129,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 129,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 14,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 10,
-      "Гурьева Татьяна Ивановна": 4,
-      "Когогина Альфия Гумаровна": 671,
-      "Мингалимов Рузиль Галиевич": 7,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 14,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 10,
+      "gas:candidate-vibid:4164037183325": 4,
+      "gas:candidate-vibid:4164037183563": 671,
+      "gas:candidate-vibid:4164037183509": 7,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 19,
-      "Байрамов Рафаэль Рахматуллович": 23,
-      "Гарифуллин Мансур Зайдуллович": 17,
-      "Гурьева Татьяна Ивановна": 15,
-      "Когогина Альфия Гумаровна": 503,
-      "Мингалимов Рузиль Галиевич": 11,
-      "Нурутдинов Рафаил Фаттахович": 9
+      "gas:candidate-vibid:4164037183400": 19,
+      "gas:candidate-vibid:4164037183344": 23,
+      "gas:candidate-vibid:4164037183574": 17,
+      "gas:candidate-vibid:4164037183325": 15,
+      "gas:candidate-vibid:4164037183563": 503,
+      "gas:candidate-vibid:4164037183509": 11,
+      "gas:candidate-vibid:4164037183477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 2,
-      "Когогина Альфия Гумаровна": 616,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 2,
+      "gas:candidate-vibid:4164037183563": 616,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 9,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 403,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 9,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 403,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 5,
-      "Гарифуллин Мансур Зайдуллович": 5,
-      "Гурьева Татьяна Ивановна": 6,
-      "Когогина Альфия Гумаровна": 190,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 5,
+      "gas:candidate-vibid:4164037183574": 5,
+      "gas:candidate-vibid:4164037183325": 6,
+      "gas:candidate-vibid:4164037183563": 190,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 2,
-      "Когогина Альфия Гумаровна": 505,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 2,
+      "gas:candidate-vibid:4164037183563": 505,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 219,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 219,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 11,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 335,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 11,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 335,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 9,
-      "Когогина Альфия Гумаровна": 208,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 9,
+      "gas:candidate-vibid:4164037183563": 208,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 350,
-      "Мингалимов Рузиль Галиевич": 5,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 350,
+      "gas:candidate-vibid:4164037183509": 5,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 120,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 120,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 276,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 276,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 332,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 332,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 4,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 186,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 4,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 186,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 13,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 805,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 3
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 13,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 805,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562311&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562311&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 6,
-      "Байрамов Рафаэль Рахматуллович": 6,
-      "Гарифуллин Мансур Зайдуллович": 4,
-      "Гурьева Татьяна Ивановна": 8,
-      "Когогина Альфия Гумаровна": 829,
-      "Мингалимов Рузиль Галиевич": 9,
-      "Нурутдинов Рафаил Фаттахович": 20
+      "gas:candidate-vibid:4164037183400": 6,
+      "gas:candidate-vibid:4164037183344": 6,
+      "gas:candidate-vibid:4164037183574": 4,
+      "gas:candidate-vibid:4164037183325": 8,
+      "gas:candidate-vibid:4164037183563": 829,
+      "gas:candidate-vibid:4164037183509": 9,
+      "gas:candidate-vibid:4164037183477": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 10,
-      "Байрамов Рафаэль Рахматуллович": 11,
-      "Гарифуллин Мансур Зайдуллович": 8,
-      "Гурьева Татьяна Ивановна": 12,
-      "Когогина Альфия Гумаровна": 571,
-      "Мингалимов Рузиль Галиевич": 16,
-      "Нурутдинов Рафаил Фаттахович": 6
+      "gas:candidate-vibid:4164037183400": 10,
+      "gas:candidate-vibid:4164037183344": 11,
+      "gas:candidate-vibid:4164037183574": 8,
+      "gas:candidate-vibid:4164037183325": 12,
+      "gas:candidate-vibid:4164037183563": 571,
+      "gas:candidate-vibid:4164037183509": 16,
+      "gas:candidate-vibid:4164037183477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 17,
-      "Байрамов Рафаэль Рахматуллович": 15,
-      "Гарифуллин Мансур Зайдуллович": 30,
-      "Гурьева Татьяна Ивановна": 9,
-      "Когогина Альфия Гумаровна": 625,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 17,
+      "gas:candidate-vibid:4164037183344": 15,
+      "gas:candidate-vibid:4164037183574": 30,
+      "gas:candidate-vibid:4164037183325": 9,
+      "gas:candidate-vibid:4164037183563": 625,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 15,
-      "Байрамов Рафаэль Рахматуллович": 20,
-      "Гарифуллин Мансур Зайдуллович": 18,
-      "Гурьева Татьяна Ивановна": 13,
-      "Когогина Альфия Гумаровна": 819,
-      "Мингалимов Рузиль Галиевич": 13,
-      "Нурутдинов Рафаил Фаттахович": 12
+      "gas:candidate-vibid:4164037183400": 15,
+      "gas:candidate-vibid:4164037183344": 20,
+      "gas:candidate-vibid:4164037183574": 18,
+      "gas:candidate-vibid:4164037183325": 13,
+      "gas:candidate-vibid:4164037183563": 819,
+      "gas:candidate-vibid:4164037183509": 13,
+      "gas:candidate-vibid:4164037183477": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 4,
-      "Байрамов Рафаэль Рахматуллович": 7,
-      "Гарифуллин Мансур Зайдуллович": 8,
-      "Гурьева Татьяна Ивановна": 5,
-      "Когогина Альфия Гумаровна": 674,
-      "Мингалимов Рузиль Галиевич": 4,
-      "Нурутдинов Рафаил Фаттахович": 4
+      "gas:candidate-vibid:4164037183400": 4,
+      "gas:candidate-vibid:4164037183344": 7,
+      "gas:candidate-vibid:4164037183574": 8,
+      "gas:candidate-vibid:4164037183325": 5,
+      "gas:candidate-vibid:4164037183563": 674,
+      "gas:candidate-vibid:4164037183509": 4,
+      "gas:candidate-vibid:4164037183477": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 6,
-      "Байрамов Рафаэль Рахматуллович": 16,
-      "Гарифуллин Мансур Зайдуллович": 19,
-      "Гурьева Татьяна Ивановна": 11,
-      "Когогина Альфия Гумаровна": 824,
-      "Мингалимов Рузиль Галиевич": 7,
-      "Нурутдинов Рафаил Фаттахович": 6
+      "gas:candidate-vibid:4164037183400": 6,
+      "gas:candidate-vibid:4164037183344": 16,
+      "gas:candidate-vibid:4164037183574": 19,
+      "gas:candidate-vibid:4164037183325": 11,
+      "gas:candidate-vibid:4164037183563": 824,
+      "gas:candidate-vibid:4164037183509": 7,
+      "gas:candidate-vibid:4164037183477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 10,
-      "Байрамов Рафаэль Рахматуллович": 15,
-      "Гарифуллин Мансур Зайдуллович": 20,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 637,
-      "Мингалимов Рузиль Галиевич": 5,
-      "Нурутдинов Рафаил Фаттахович": 12
+      "gas:candidate-vibid:4164037183400": 10,
+      "gas:candidate-vibid:4164037183344": 15,
+      "gas:candidate-vibid:4164037183574": 20,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 637,
+      "gas:candidate-vibid:4164037183509": 5,
+      "gas:candidate-vibid:4164037183477": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 15,
-      "Байрамов Рафаэль Рахматуллович": 10,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 8,
-      "Когогина Альфия Гумаровна": 1025,
-      "Мингалимов Рузиль Галиевич": 15,
-      "Нурутдинов Рафаил Фаттахович": 6
+      "gas:candidate-vibid:4164037183400": 15,
+      "gas:candidate-vibid:4164037183344": 10,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 8,
+      "gas:candidate-vibid:4164037183563": 1025,
+      "gas:candidate-vibid:4164037183509": 15,
+      "gas:candidate-vibid:4164037183477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 25,
-      "Байрамов Рафаэль Рахматуллович": 27,
-      "Гарифуллин Мансур Зайдуллович": 8,
-      "Гурьева Татьяна Ивановна": 5,
-      "Когогина Альфия Гумаровна": 816,
-      "Мингалимов Рузиль Галиевич": 12,
-      "Нурутдинов Рафаил Фаттахович": 13
+      "gas:candidate-vibid:4164037183400": 25,
+      "gas:candidate-vibid:4164037183344": 27,
+      "gas:candidate-vibid:4164037183574": 8,
+      "gas:candidate-vibid:4164037183325": 5,
+      "gas:candidate-vibid:4164037183563": 816,
+      "gas:candidate-vibid:4164037183509": 12,
+      "gas:candidate-vibid:4164037183477": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 10,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 15,
-      "Гурьева Татьяна Ивановна": 40,
-      "Когогина Альфия Гумаровна": 890,
-      "Мингалимов Рузиль Галиевич": 11,
-      "Нурутдинов Рафаил Фаттахович": 9
+      "gas:candidate-vibid:4164037183400": 10,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 15,
+      "gas:candidate-vibid:4164037183325": 40,
+      "gas:candidate-vibid:4164037183563": 890,
+      "gas:candidate-vibid:4164037183509": 11,
+      "gas:candidate-vibid:4164037183477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 9,
-      "Байрамов Рафаэль Рахматуллович": 6,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 10,
-      "Когогина Альфия Гумаровна": 745,
-      "Мингалимов Рузиль Галиевич": 7,
-      "Нурутдинов Рафаил Фаттахович": 6
+      "gas:candidate-vibid:4164037183400": 9,
+      "gas:candidate-vibid:4164037183344": 6,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 10,
+      "gas:candidate-vibid:4164037183563": 745,
+      "gas:candidate-vibid:4164037183509": 7,
+      "gas:candidate-vibid:4164037183477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 29,
-      "Байрамов Рафаэль Рахматуллович": 23,
-      "Гарифуллин Мансур Зайдуллович": 35,
-      "Гурьева Татьяна Ивановна": 15,
-      "Когогина Альфия Гумаровна": 1053,
-      "Мингалимов Рузиль Галиевич": 4,
-      "Нурутдинов Рафаил Фаттахович": 10
+      "gas:candidate-vibid:4164037183400": 29,
+      "gas:candidate-vibid:4164037183344": 23,
+      "gas:candidate-vibid:4164037183574": 35,
+      "gas:candidate-vibid:4164037183325": 15,
+      "gas:candidate-vibid:4164037183563": 1053,
+      "gas:candidate-vibid:4164037183509": 4,
+      "gas:candidate-vibid:4164037183477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 31,
-      "Байрамов Рафаэль Рахматуллович": 22,
-      "Гарифуллин Мансур Зайдуллович": 26,
-      "Гурьева Татьяна Ивановна": 8,
-      "Когогина Альфия Гумаровна": 892,
-      "Мингалимов Рузиль Галиевич": 4,
-      "Нурутдинов Рафаил Фаттахович": 7
+      "gas:candidate-vibid:4164037183400": 31,
+      "gas:candidate-vibid:4164037183344": 22,
+      "gas:candidate-vibid:4164037183574": 26,
+      "gas:candidate-vibid:4164037183325": 8,
+      "gas:candidate-vibid:4164037183563": 892,
+      "gas:candidate-vibid:4164037183509": 4,
+      "gas:candidate-vibid:4164037183477": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 13,
-      "Байрамов Рафаэль Рахматуллович": 12,
-      "Гарифуллин Мансур Зайдуллович": 12,
-      "Гурьева Татьяна Ивановна": 10,
-      "Когогина Альфия Гумаровна": 779,
-      "Мингалимов Рузиль Галиевич": 18,
-      "Нурутдинов Рафаил Фаттахович": 15
+      "gas:candidate-vibid:4164037183400": 13,
+      "gas:candidate-vibid:4164037183344": 12,
+      "gas:candidate-vibid:4164037183574": 12,
+      "gas:candidate-vibid:4164037183325": 10,
+      "gas:candidate-vibid:4164037183563": 779,
+      "gas:candidate-vibid:4164037183509": 18,
+      "gas:candidate-vibid:4164037183477": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 21,
-      "Байрамов Рафаэль Рахматуллович": 25,
-      "Гарифуллин Мансур Зайдуллович": 28,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 939,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 25
+      "gas:candidate-vibid:4164037183400": 21,
+      "gas:candidate-vibid:4164037183344": 25,
+      "gas:candidate-vibid:4164037183574": 28,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 939,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 9,
-      "Байрамов Рафаэль Рахматуллович": 11,
-      "Гарифуллин Мансур Зайдуллович": 7,
-      "Гурьева Татьяна Ивановна": 4,
-      "Когогина Альфия Гумаровна": 461,
-      "Мингалимов Рузиль Галиевич": 6,
-      "Нурутдинов Рафаил Фаттахович": 4
+      "gas:candidate-vibid:4164037183400": 9,
+      "gas:candidate-vibid:4164037183344": 11,
+      "gas:candidate-vibid:4164037183574": 7,
+      "gas:candidate-vibid:4164037183325": 4,
+      "gas:candidate-vibid:4164037183563": 461,
+      "gas:candidate-vibid:4164037183509": 6,
+      "gas:candidate-vibid:4164037183477": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 140,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 140,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 136,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 136,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 208,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 208,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 30,
-      "Байрамов Рафаэль Рахматуллович": 17,
-      "Гарифуллин Мансур Зайдуллович": 4,
-      "Гурьева Татьяна Ивановна": 10,
-      "Когогина Альфия Гумаровна": 589,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 30,
+      "gas:candidate-vibid:4164037183344": 17,
+      "gas:candidate-vibid:4164037183574": 4,
+      "gas:candidate-vibid:4164037183325": 10,
+      "gas:candidate-vibid:4164037183563": 589,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 14,
-      "Байрамов Рафаэль Рахматуллович": 11,
-      "Гарифуллин Мансур Зайдуллович": 16,
-      "Гурьева Татьяна Ивановна": 25,
-      "Когогина Альфия Гумаровна": 660,
-      "Мингалимов Рузиль Галиевич": 6,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 14,
+      "gas:candidate-vibid:4164037183344": 11,
+      "gas:candidate-vibid:4164037183574": 16,
+      "gas:candidate-vibid:4164037183325": 25,
+      "gas:candidate-vibid:4164037183563": 660,
+      "gas:candidate-vibid:4164037183509": 6,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 3,
-      "Байрамов Рафаэль Рахматуллович": 8,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 5,
-      "Когогина Альфия Гумаровна": 428,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 3,
+      "gas:candidate-vibid:4164037183344": 8,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 5,
+      "gas:candidate-vibid:4164037183563": 428,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 3,
-      "Гарифуллин Мансур Зайдуллович": 4,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 166,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 3,
+      "gas:candidate-vibid:4164037183574": 4,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 166,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 4,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 173,
-      "Мингалимов Рузиль Галиевич": 6,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 4,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 173,
+      "gas:candidate-vibid:4164037183509": 6,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 5,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 6,
-      "Гурьева Татьяна Ивановна": 2,
-      "Когогина Альфия Гумаровна": 117,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 4
+      "gas:candidate-vibid:4164037183400": 5,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 6,
+      "gas:candidate-vibid:4164037183325": 2,
+      "gas:candidate-vibid:4164037183563": 117,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 8,
-      "Гурьева Татьяна Ивановна": 4,
-      "Когогина Альфия Гумаровна": 342,
-      "Мингалимов Рузиль Галиевич": 5,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 8,
+      "gas:candidate-vibid:4164037183325": 4,
+      "gas:candidate-vibid:4164037183563": 342,
+      "gas:candidate-vibid:4164037183509": 5,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 10,
-      "Гурьева Татьяна Ивановна": 4,
-      "Когогина Альфия Гумаровна": 484,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 10,
+      "gas:candidate-vibid:4164037183325": 4,
+      "gas:candidate-vibid:4164037183563": 484,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 3,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 5,
-      "Когогина Альфия Гумаровна": 223,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 3,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 5,
+      "gas:candidate-vibid:4164037183563": 223,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 7,
-      "Гарифуллин Мансур Зайдуллович": 21,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 502,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 7,
+      "gas:candidate-vibid:4164037183574": 21,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 502,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 4,
-      "Байрамов Рафаэль Рахматуллович": 5,
-      "Гарифуллин Мансур Зайдуллович": 22,
-      "Гурьева Татьяна Ивановна": 5,
-      "Когогина Альфия Гумаровна": 596,
-      "Мингалимов Рузиль Галиевич": 6,
-      "Нурутдинов Рафаил Фаттахович": 4
+      "gas:candidate-vibid:4164037183400": 4,
+      "gas:candidate-vibid:4164037183344": 5,
+      "gas:candidate-vibid:4164037183574": 22,
+      "gas:candidate-vibid:4164037183325": 5,
+      "gas:candidate-vibid:4164037183563": 596,
+      "gas:candidate-vibid:4164037183509": 6,
+      "gas:candidate-vibid:4164037183477": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 5,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 234,
-      "Мингалимов Рузиль Галиевич": 13,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 5,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 234,
+      "gas:candidate-vibid:4164037183509": 13,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 5,
-      "Байрамов Рафаэль Рахматуллович": 8,
-      "Гарифуллин Мансур Зайдуллович": 23,
-      "Гурьева Татьяна Ивановна": 14,
-      "Когогина Альфия Гумаровна": 312,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 3
+      "gas:candidate-vibid:4164037183400": 5,
+      "gas:candidate-vibid:4164037183344": 8,
+      "gas:candidate-vibid:4164037183574": 23,
+      "gas:candidate-vibid:4164037183325": 14,
+      "gas:candidate-vibid:4164037183563": 312,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 5,
-      "Когогина Альфия Гумаровна": 207,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 5,
+      "gas:candidate-vibid:4164037183563": 207,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 4,
-      "Гарифуллин Мансур Зайдуллович": 8,
-      "Гурьева Татьяна Ивановна": 4,
-      "Когогина Альфия Гумаровна": 123,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 4,
+      "gas:candidate-vibid:4164037183574": 8,
+      "gas:candidate-vibid:4164037183325": 4,
+      "gas:candidate-vibid:4164037183563": 123,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 3,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 164,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 3,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 164,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 4,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 365,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 4,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 365,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 3,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 217,
-      "Мингалимов Рузиль Галиевич": 0,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 3,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 217,
+      "gas:candidate-vibid:4164037183509": 0,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 4,
-      "Гарифуллин Мансур Зайдуллович": 1,
-      "Гурьева Татьяна Ивановна": 9,
-      "Когогина Альфия Гумаровна": 161,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 4,
+      "gas:candidate-vibid:4164037183574": 1,
+      "gas:candidate-vibid:4164037183325": 9,
+      "gas:candidate-vibid:4164037183563": 161,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 4,
-      "Гарифуллин Мансур Зайдуллович": 8,
-      "Гурьева Татьяна Ивановна": 13,
-      "Когогина Альфия Гумаровна": 282,
-      "Мингалимов Рузиль Галиевич": 19,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 4,
+      "gas:candidate-vibid:4164037183574": 8,
+      "gas:candidate-vibid:4164037183325": 13,
+      "gas:candidate-vibid:4164037183563": 282,
+      "gas:candidate-vibid:4164037183509": 19,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 9,
-      "Байрамов Рафаэль Рахматуллович": 6,
-      "Гарифуллин Мансур Зайдуллович": 4,
-      "Гурьева Татьяна Ивановна": 10,
-      "Когогина Альфия Гумаровна": 1011,
-      "Мингалимов Рузиль Галиевич": 12,
-      "Нурутдинов Рафаил Фаттахович": 12
+      "gas:candidate-vibid:4164037183400": 9,
+      "gas:candidate-vibid:4164037183344": 6,
+      "gas:candidate-vibid:4164037183574": 4,
+      "gas:candidate-vibid:4164037183325": 10,
+      "gas:candidate-vibid:4164037183563": 1011,
+      "gas:candidate-vibid:4164037183509": 12,
+      "gas:candidate-vibid:4164037183477": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 265,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 265,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 2,
-      "Байрамов Рафаэль Рахматуллович": 2,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 455,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 1
+      "gas:candidate-vibid:4164037183400": 2,
+      "gas:candidate-vibid:4164037183344": 2,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 455,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 13,
-      "Байрамов Рафаэль Рахматуллович": 5,
-      "Гарифуллин Мансур Зайдуллович": 9,
-      "Гурьева Татьяна Ивановна": 8,
-      "Когогина Альфия Гумаровна": 610,
-      "Мингалимов Рузиль Галиевич": 11,
-      "Нурутдинов Рафаил Фаттахович": 3
+      "gas:candidate-vibid:4164037183400": 13,
+      "gas:candidate-vibid:4164037183344": 5,
+      "gas:candidate-vibid:4164037183574": 9,
+      "gas:candidate-vibid:4164037183325": 8,
+      "gas:candidate-vibid:4164037183563": 610,
+      "gas:candidate-vibid:4164037183509": 11,
+      "gas:candidate-vibid:4164037183477": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 1,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 2,
-      "Гурьева Татьяна Ивановна": 1,
-      "Когогина Альфия Гумаровна": 364,
-      "Мингалимов Рузиль Галиевич": 3,
-      "Нурутдинов Рафаил Фаттахович": 2
+      "gas:candidate-vibid:4164037183400": 1,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 2,
+      "gas:candidate-vibid:4164037183325": 1,
+      "gas:candidate-vibid:4164037183563": 364,
+      "gas:candidate-vibid:4164037183509": 3,
+      "gas:candidate-vibid:4164037183477": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 12,
-      "Гурьева Татьяна Ивановна": 3,
-      "Когогина Альфия Гумаровна": 206,
-      "Мингалимов Рузиль Галиевич": 5,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 12,
+      "gas:candidate-vibid:4164037183325": 3,
+      "gas:candidate-vibid:4164037183563": 206,
+      "gas:candidate-vibid:4164037183509": 5,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 176,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 176,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 0,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 124,
-      "Мингалимов Рузиль Галиевич": 1,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 0,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 124,
+      "gas:candidate-vibid:4164037183509": 1,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулов Рамиль Эминович": 0,
-      "Байрамов Рафаэль Рахматуллович": 1,
-      "Гарифуллин Мансур Зайдуллович": 0,
-      "Гурьева Татьяна Ивановна": 0,
-      "Когогина Альфия Гумаровна": 329,
-      "Мингалимов Рузиль Галиевич": 2,
-      "Нурутдинов Рафаил Фаттахович": 0
+      "gas:candidate-vibid:4164037183400": 0,
+      "gas:candidate-vibid:4164037183344": 1,
+      "gas:candidate-vibid:4164037183574": 0,
+      "gas:candidate-vibid:4164037183325": 0,
+      "gas:candidate-vibid:4164037183563": 329,
+      "gas:candidate-vibid:4164037183509": 2,
+      "gas:candidate-vibid:4164037183477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000042&tvd=21620001562312&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562312&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 28,
-      "Алейников Валерий Вячеславович": 27,
-      "Курбанов Марат Асгатович": 25,
-      "Мингазов Закарий Ильясович": 34,
-      "Мухаметшин Эдуард Закирович": 26,
-      "Хайров Ринат Шамильевич": 468,
-      "Ханипов Айрат Раисович": 24
+      "gas:candidate-vibid:4164007182364": 28,
+      "gas:candidate-vibid:4164007181332": 27,
+      "gas:candidate-vibid:4164007182264": 25,
+      "gas:candidate-vibid:4164007182131": 34,
+      "gas:candidate-vibid:4164007182013": 26,
+      "gas:candidate-vibid:4164007182091": 468,
+      "gas:candidate-vibid:4164007182199": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 25,
-      "Алейников Валерий Вячеславович": 13,
-      "Курбанов Марат Асгатович": 21,
-      "Мингазов Закарий Ильясович": 14,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 264,
-      "Ханипов Айрат Раисович": 25
+      "gas:candidate-vibid:4164007182364": 25,
+      "gas:candidate-vibid:4164007181332": 13,
+      "gas:candidate-vibid:4164007182264": 21,
+      "gas:candidate-vibid:4164007182131": 14,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 264,
+      "gas:candidate-vibid:4164007182199": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 21,
-      "Алейников Валерий Вячеславович": 19,
-      "Курбанов Марат Асгатович": 16,
-      "Мингазов Закарий Ильясович": 11,
-      "Мухаметшин Эдуард Закирович": 25,
-      "Хайров Ринат Шамильевич": 294,
-      "Ханипов Айрат Раисович": 22
+      "gas:candidate-vibid:4164007182364": 21,
+      "gas:candidate-vibid:4164007181332": 19,
+      "gas:candidate-vibid:4164007182264": 16,
+      "gas:candidate-vibid:4164007182131": 11,
+      "gas:candidate-vibid:4164007182013": 25,
+      "gas:candidate-vibid:4164007182091": 294,
+      "gas:candidate-vibid:4164007182199": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 14,
-      "Алейников Валерий Вячеславович": 12,
-      "Курбанов Марат Асгатович": 13,
-      "Мингазов Закарий Ильясович": 10,
-      "Мухаметшин Эдуард Закирович": 12,
-      "Хайров Ринат Шамильевич": 205,
-      "Ханипов Айрат Раисович": 15
+      "gas:candidate-vibid:4164007182364": 14,
+      "gas:candidate-vibid:4164007181332": 12,
+      "gas:candidate-vibid:4164007182264": 13,
+      "gas:candidate-vibid:4164007182131": 10,
+      "gas:candidate-vibid:4164007182013": 12,
+      "gas:candidate-vibid:4164007182091": 205,
+      "gas:candidate-vibid:4164007182199": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 8,
-      "Алейников Валерий Вячеславович": 7,
-      "Курбанов Марат Асгатович": 6,
-      "Мингазов Закарий Ильясович": 10,
-      "Мухаметшин Эдуард Закирович": 8,
-      "Хайров Ринат Шамильевич": 194,
-      "Ханипов Айрат Раисович": 10
+      "gas:candidate-vibid:4164007182364": 8,
+      "gas:candidate-vibid:4164007181332": 7,
+      "gas:candidate-vibid:4164007182264": 6,
+      "gas:candidate-vibid:4164007182131": 10,
+      "gas:candidate-vibid:4164007182013": 8,
+      "gas:candidate-vibid:4164007182091": 194,
+      "gas:candidate-vibid:4164007182199": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 15,
-      "Алейников Валерий Вячеславович": 43,
-      "Курбанов Марат Асгатович": 51,
-      "Мингазов Закарий Ильясович": 38,
-      "Мухаметшин Эдуард Закирович": 27,
-      "Хайров Ринат Шамильевич": 795,
-      "Ханипов Айрат Раисович": 40
+      "gas:candidate-vibid:4164007182364": 15,
+      "gas:candidate-vibid:4164007181332": 43,
+      "gas:candidate-vibid:4164007182264": 51,
+      "gas:candidate-vibid:4164007182131": 38,
+      "gas:candidate-vibid:4164007182013": 27,
+      "gas:candidate-vibid:4164007182091": 795,
+      "gas:candidate-vibid:4164007182199": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 17,
-      "Алейников Валерий Вячеславович": 30,
-      "Курбанов Марат Асгатович": 15,
-      "Мингазов Закарий Ильясович": 30,
-      "Мухаметшин Эдуард Закирович": 15,
-      "Хайров Ринат Шамильевич": 248,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 17,
+      "gas:candidate-vibid:4164007181332": 30,
+      "gas:candidate-vibid:4164007182264": 15,
+      "gas:candidate-vibid:4164007182131": 30,
+      "gas:candidate-vibid:4164007182013": 15,
+      "gas:candidate-vibid:4164007182091": 248,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 6,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 15,
-      "Мингазов Закарий Ильясович": 21,
-      "Мухаметшин Эдуард Закирович": 40,
-      "Хайров Ринат Шамильевич": 254,
-      "Ханипов Айрат Раисович": 20
+      "gas:candidate-vibid:4164007182364": 6,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 15,
+      "gas:candidate-vibid:4164007182131": 21,
+      "gas:candidate-vibid:4164007182013": 40,
+      "gas:candidate-vibid:4164007182091": 254,
+      "gas:candidate-vibid:4164007182199": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 35,
-      "Алейников Валерий Вячеславович": 98,
-      "Курбанов Марат Асгатович": 51,
-      "Мингазов Закарий Ильясович": 28,
-      "Мухаметшин Эдуард Закирович": 31,
-      "Хайров Ринат Шамильевич": 436,
-      "Ханипов Айрат Раисович": 22
+      "gas:candidate-vibid:4164007182364": 35,
+      "gas:candidate-vibid:4164007181332": 98,
+      "gas:candidate-vibid:4164007182264": 51,
+      "gas:candidate-vibid:4164007182131": 28,
+      "gas:candidate-vibid:4164007182013": 31,
+      "gas:candidate-vibid:4164007182091": 436,
+      "gas:candidate-vibid:4164007182199": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 5,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 9,
-      "Мухаметшин Эдуард Закирович": 10,
-      "Хайров Ринат Шамильевич": 114,
-      "Ханипов Айрат Раисович": 11
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 5,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 9,
+      "gas:candidate-vibid:4164007182013": 10,
+      "gas:candidate-vibid:4164007182091": 114,
+      "gas:candidate-vibid:4164007182199": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 30,
-      "Алейников Валерий Вячеславович": 35,
-      "Курбанов Марат Асгатович": 45,
-      "Мингазов Закарий Ильясович": 30,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 396,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 30,
+      "gas:candidate-vibid:4164007181332": 35,
+      "gas:candidate-vibid:4164007182264": 45,
+      "gas:candidate-vibid:4164007182131": 30,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 396,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 20,
-      "Алейников Валерий Вячеславович": 15,
-      "Курбанов Марат Асгатович": 31,
-      "Мингазов Закарий Ильясович": 31,
-      "Мухаметшин Эдуард Закирович": 20,
-      "Хайров Ринат Шамильевич": 441,
-      "Ханипов Айрат Раисович": 21
+      "gas:candidate-vibid:4164007182364": 20,
+      "gas:candidate-vibid:4164007181332": 15,
+      "gas:candidate-vibid:4164007182264": 31,
+      "gas:candidate-vibid:4164007182131": 31,
+      "gas:candidate-vibid:4164007182013": 20,
+      "gas:candidate-vibid:4164007182091": 441,
+      "gas:candidate-vibid:4164007182199": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 10,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 18,
-      "Мингазов Закарий Ильясович": 13,
-      "Мухаметшин Эдуард Закирович": 35,
-      "Хайров Ринат Шамильевич": 325,
-      "Ханипов Айрат Раисович": 29
+      "gas:candidate-vibid:4164007182364": 10,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 18,
+      "gas:candidate-vibid:4164007182131": 13,
+      "gas:candidate-vibid:4164007182013": 35,
+      "gas:candidate-vibid:4164007182091": 325,
+      "gas:candidate-vibid:4164007182199": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 24,
-      "Алейников Валерий Вячеславович": 25,
-      "Курбанов Марат Асгатович": 23,
-      "Мингазов Закарий Ильясович": 21,
-      "Мухаметшин Эдуард Закирович": 25,
-      "Хайров Ринат Шамильевич": 373,
-      "Ханипов Айрат Раисович": 24
+      "gas:candidate-vibid:4164007182364": 24,
+      "gas:candidate-vibid:4164007181332": 25,
+      "gas:candidate-vibid:4164007182264": 23,
+      "gas:candidate-vibid:4164007182131": 21,
+      "gas:candidate-vibid:4164007182013": 25,
+      "gas:candidate-vibid:4164007182091": 373,
+      "gas:candidate-vibid:4164007182199": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 124,
-      "Мингазов Закарий Ильясович": 50,
-      "Мухаметшин Эдуард Закирович": 105,
-      "Хайров Ринат Шамильевич": 856,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 124,
+      "gas:candidate-vibid:4164007182131": 50,
+      "gas:candidate-vibid:4164007182013": 105,
+      "gas:candidate-vibid:4164007182091": 856,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 35,
-      "Алейников Валерий Вячеславович": 47,
-      "Курбанов Марат Асгатович": 15,
-      "Мингазов Закарий Ильясович": 26,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 489,
-      "Ханипов Айрат Раисович": 9
+      "gas:candidate-vibid:4164007182364": 35,
+      "gas:candidate-vibid:4164007181332": 47,
+      "gas:candidate-vibid:4164007182264": 15,
+      "gas:candidate-vibid:4164007182131": 26,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 489,
+      "gas:candidate-vibid:4164007182199": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 8,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 85,
-      "Ханипов Айрат Раисович": 5
+      "gas:candidate-vibid:4164007182364": 8,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 85,
+      "gas:candidate-vibid:4164007182199": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 20,
-      "Алейников Валерий Вячеславович": 33,
-      "Курбанов Марат Асгатович": 72,
-      "Мингазов Закарий Ильясович": 51,
-      "Мухаметшин Эдуард Закирович": 75,
-      "Хайров Ринат Шамильевич": 904,
-      "Ханипов Айрат Раисович": 20
+      "gas:candidate-vibid:4164007182364": 20,
+      "gas:candidate-vibid:4164007181332": 33,
+      "gas:candidate-vibid:4164007182264": 72,
+      "gas:candidate-vibid:4164007182131": 51,
+      "gas:candidate-vibid:4164007182013": 75,
+      "gas:candidate-vibid:4164007182091": 904,
+      "gas:candidate-vibid:4164007182199": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 88,
-      "Алейников Валерий Вячеславович": 13,
-      "Курбанов Марат Асгатович": 5,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 81,
-      "Хайров Ринат Шамильевич": 707,
-      "Ханипов Айрат Раисович": 38
+      "gas:candidate-vibid:4164007182364": 88,
+      "gas:candidate-vibid:4164007181332": 13,
+      "gas:candidate-vibid:4164007182264": 5,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 81,
+      "gas:candidate-vibid:4164007182091": 707,
+      "gas:candidate-vibid:4164007182199": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 78,
-      "Алейников Валерий Вячеславович": 49,
-      "Курбанов Марат Асгатович": 12,
-      "Мингазов Закарий Ильясович": 18,
-      "Мухаметшин Эдуард Закирович": 52,
-      "Хайров Ринат Шамильевич": 712,
-      "Ханипов Айрат Раисович": 33
+      "gas:candidate-vibid:4164007182364": 78,
+      "gas:candidate-vibid:4164007181332": 49,
+      "gas:candidate-vibid:4164007182264": 12,
+      "gas:candidate-vibid:4164007182131": 18,
+      "gas:candidate-vibid:4164007182013": 52,
+      "gas:candidate-vibid:4164007182091": 712,
+      "gas:candidate-vibid:4164007182199": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 70,
-      "Алейников Валерий Вячеславович": 36,
-      "Курбанов Марат Асгатович": 23,
-      "Мингазов Закарий Ильясович": 17,
-      "Мухаметшин Эдуард Закирович": 15,
-      "Хайров Ринат Шамильевич": 575,
-      "Ханипов Айрат Раисович": 16
+      "gas:candidate-vibid:4164007182364": 70,
+      "gas:candidate-vibid:4164007181332": 36,
+      "gas:candidate-vibid:4164007182264": 23,
+      "gas:candidate-vibid:4164007182131": 17,
+      "gas:candidate-vibid:4164007182013": 15,
+      "gas:candidate-vibid:4164007182091": 575,
+      "gas:candidate-vibid:4164007182199": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 30,
-      "Алейников Валерий Вячеславович": 35,
-      "Курбанов Марат Асгатович": 41,
-      "Мингазов Закарий Ильясович": 28,
-      "Мухаметшин Эдуард Закирович": 36,
-      "Хайров Ринат Шамильевич": 618,
-      "Ханипов Айрат Раисович": 40
+      "gas:candidate-vibid:4164007182364": 30,
+      "gas:candidate-vibid:4164007181332": 35,
+      "gas:candidate-vibid:4164007182264": 41,
+      "gas:candidate-vibid:4164007182131": 28,
+      "gas:candidate-vibid:4164007182013": 36,
+      "gas:candidate-vibid:4164007182091": 618,
+      "gas:candidate-vibid:4164007182199": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 81,
-      "Алейников Валерий Вячеславович": 25,
-      "Курбанов Марат Асгатович": 37,
-      "Мингазов Закарий Ильясович": 34,
-      "Мухаметшин Эдуард Закирович": 56,
-      "Хайров Ринат Шамильевич": 932,
-      "Ханипов Айрат Раисович": 48
+      "gas:candidate-vibid:4164007182364": 81,
+      "gas:candidate-vibid:4164007181332": 25,
+      "gas:candidate-vibid:4164007182264": 37,
+      "gas:candidate-vibid:4164007182131": 34,
+      "gas:candidate-vibid:4164007182013": 56,
+      "gas:candidate-vibid:4164007182091": 932,
+      "gas:candidate-vibid:4164007182199": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 52,
-      "Алейников Валерий Вячеславович": 56,
-      "Курбанов Марат Асгатович": 29,
-      "Мингазов Закарий Ильясович": 24,
-      "Мухаметшин Эдуард Закирович": 21,
-      "Хайров Ринат Шамильевич": 623,
-      "Ханипов Айрат Раисович": 45
+      "gas:candidate-vibid:4164007182364": 52,
+      "gas:candidate-vibid:4164007181332": 56,
+      "gas:candidate-vibid:4164007182264": 29,
+      "gas:candidate-vibid:4164007182131": 24,
+      "gas:candidate-vibid:4164007182013": 21,
+      "gas:candidate-vibid:4164007182091": 623,
+      "gas:candidate-vibid:4164007182199": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 65,
-      "Алейников Валерий Вячеславович": 58,
-      "Курбанов Марат Асгатович": 69,
-      "Мингазов Закарий Ильясович": 71,
-      "Мухаметшин Эдуард Закирович": 45,
-      "Хайров Ринат Шамильевич": 986,
-      "Ханипов Айрат Раисович": 18
+      "gas:candidate-vibid:4164007182364": 65,
+      "gas:candidate-vibid:4164007181332": 58,
+      "gas:candidate-vibid:4164007182264": 69,
+      "gas:candidate-vibid:4164007182131": 71,
+      "gas:candidate-vibid:4164007182013": 45,
+      "gas:candidate-vibid:4164007182091": 986,
+      "gas:candidate-vibid:4164007182199": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562313&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562313&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 4,
-      "Мухаметшин Эдуард Закирович": 4,
-      "Хайров Ринат Шамильевич": 345,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 4,
+      "gas:candidate-vibid:4164007182013": 4,
+      "gas:candidate-vibid:4164007182091": 345,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 348,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 348,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 5,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 696,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 5,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 696,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 339,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 339,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 354,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 354,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 215,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 215,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 5,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 453,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 5,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 453,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 425,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 425,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 392,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 392,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 222,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 222,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 201,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 201,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 7,
-      "Хайров Ринат Шамильевич": 293,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 7,
+      "gas:candidate-vibid:4164007182091": 293,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 4,
-      "Хайров Ринат Шамильевич": 467,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 4,
+      "gas:candidate-vibid:4164007182091": 467,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 5,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 431,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 5,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 431,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 409,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 409,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 367,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 367,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 20,
-      "Алейников Валерий Вячеславович": 20,
-      "Курбанов Марат Асгатович": 16,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 17,
-      "Хайров Ринат Шамильевич": 862,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 20,
+      "gas:candidate-vibid:4164007181332": 20,
+      "gas:candidate-vibid:4164007182264": 16,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 17,
+      "gas:candidate-vibid:4164007182091": 862,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 179,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 179,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 288,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 288,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 121,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 121,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 5,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 472,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 5,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 472,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 171,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 171,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 329,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 329,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 175,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 175,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 420,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 420,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 10,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 10,
-      "Хайров Ринат Шамильевич": 626,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 10,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 10,
+      "gas:candidate-vibid:4164007182091": 626,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 335,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 335,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 6,
-      "Хайров Ринат Шамильевич": 249,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 6,
+      "gas:candidate-vibid:4164007182091": 249,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 279,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 279,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 5,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 12,
-      "Мингазов Закарий Ильясович": 10,
-      "Мухаметшин Эдуард Закирович": 8,
-      "Хайров Ринат Шамильевич": 492,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 5,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 12,
+      "gas:candidate-vibid:4164007182131": 10,
+      "gas:candidate-vibid:4164007182013": 8,
+      "gas:candidate-vibid:4164007182091": 492,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 81,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 22,
-      "Хайров Ринат Шамильевич": 1206,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 81,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 22,
+      "gas:candidate-vibid:4164007182091": 1206,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 1096,
-      "Ханипов Айрат Раисович": 7
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 1096,
+      "gas:candidate-vibid:4164007182199": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 30,
-      "Алейников Валерий Вячеславович": 20,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 885,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 30,
+      "gas:candidate-vibid:4164007181332": 20,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 885,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 33,
-      "Алейников Валерий Вячеславович": 9,
-      "Курбанов Марат Асгатович": 15,
-      "Мингазов Закарий Ильясович": 7,
-      "Мухаметшин Эдуард Закирович": 16,
-      "Хайров Ринат Шамильевич": 1275,
-      "Ханипов Айрат Раисович": 20
+      "gas:candidate-vibid:4164007182364": 33,
+      "gas:candidate-vibid:4164007181332": 9,
+      "gas:candidate-vibid:4164007182264": 15,
+      "gas:candidate-vibid:4164007182131": 7,
+      "gas:candidate-vibid:4164007182013": 16,
+      "gas:candidate-vibid:4164007182091": 1275,
+      "gas:candidate-vibid:4164007182199": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 181,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 181,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 106,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 1163,
-      "Ханипов Айрат Раисович": 89
+      "gas:candidate-vibid:4164007182364": 106,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 1163,
+      "gas:candidate-vibid:4164007182199": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 27,
-      "Алейников Валерий Вячеславович": 5,
-      "Курбанов Марат Асгатович": 80,
-      "Мингазов Закарий Ильясович": 18,
-      "Мухаметшин Эдуард Закирович": 22,
-      "Хайров Ринат Шамильевич": 1324,
-      "Ханипов Айрат Раисович": 40
+      "gas:candidate-vibid:4164007182364": 27,
+      "gas:candidate-vibid:4164007181332": 5,
+      "gas:candidate-vibid:4164007182264": 80,
+      "gas:candidate-vibid:4164007182131": 18,
+      "gas:candidate-vibid:4164007182013": 22,
+      "gas:candidate-vibid:4164007182091": 1324,
+      "gas:candidate-vibid:4164007182199": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 9,
-      "Алейников Валерий Вячеславович": 25,
-      "Курбанов Марат Асгатович": 8,
-      "Мингазов Закарий Ильясович": 17,
-      "Мухаметшин Эдуард Закирович": 10,
-      "Хайров Ринат Шамильевич": 1356,
-      "Ханипов Айрат Раисович": 53
+      "gas:candidate-vibid:4164007182364": 9,
+      "gas:candidate-vibid:4164007181332": 25,
+      "gas:candidate-vibid:4164007182264": 8,
+      "gas:candidate-vibid:4164007182131": 17,
+      "gas:candidate-vibid:4164007182013": 10,
+      "gas:candidate-vibid:4164007182091": 1356,
+      "gas:candidate-vibid:4164007182199": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 92,
-      "Алейников Валерий Вячеславович": 10,
-      "Курбанов Марат Асгатович": 15,
-      "Мингазов Закарий Ильясович": 21,
-      "Мухаметшин Эдуард Закирович": 13,
-      "Хайров Ринат Шамильевич": 1265,
-      "Ханипов Айрат Раисович": 14
+      "gas:candidate-vibid:4164007182364": 92,
+      "gas:candidate-vibid:4164007181332": 10,
+      "gas:candidate-vibid:4164007182264": 15,
+      "gas:candidate-vibid:4164007182131": 21,
+      "gas:candidate-vibid:4164007182013": 13,
+      "gas:candidate-vibid:4164007182091": 1265,
+      "gas:candidate-vibid:4164007182199": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 16,
-      "Алейников Валерий Вячеславович": 34,
-      "Курбанов Марат Асгатович": 8,
-      "Мингазов Закарий Ильясович": 12,
-      "Мухаметшин Эдуард Закирович": 14,
-      "Хайров Ринат Шамильевич": 643,
-      "Ханипов Айрат Раисович": 10
+      "gas:candidate-vibid:4164007182364": 16,
+      "gas:candidate-vibid:4164007181332": 34,
+      "gas:candidate-vibid:4164007182264": 8,
+      "gas:candidate-vibid:4164007182131": 12,
+      "gas:candidate-vibid:4164007182013": 14,
+      "gas:candidate-vibid:4164007182091": 643,
+      "gas:candidate-vibid:4164007182199": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 47,
-      "Алейников Валерий Вячеславович": 34,
-      "Курбанов Марат Асгатович": 34,
-      "Мингазов Закарий Ильясович": 28,
-      "Мухаметшин Эдуард Закирович": 49,
-      "Хайров Ринат Шамильевич": 1354,
-      "Ханипов Айрат Раисович": 13
+      "gas:candidate-vibid:4164007182364": 47,
+      "gas:candidate-vibid:4164007181332": 34,
+      "gas:candidate-vibid:4164007182264": 34,
+      "gas:candidate-vibid:4164007182131": 28,
+      "gas:candidate-vibid:4164007182013": 49,
+      "gas:candidate-vibid:4164007182091": 1354,
+      "gas:candidate-vibid:4164007182199": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 17,
-      "Алейников Валерий Вячеславович": 13,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 26,
-      "Мухаметшин Эдуард Закирович": 71,
-      "Хайров Ринат Шамильевич": 1108,
-      "Ханипов Айрат Раисович": 48
+      "gas:candidate-vibid:4164007182364": 17,
+      "gas:candidate-vibid:4164007181332": 13,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 26,
+      "gas:candidate-vibid:4164007182013": 71,
+      "gas:candidate-vibid:4164007182091": 1108,
+      "gas:candidate-vibid:4164007182199": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 61,
-      "Алейников Валерий Вячеславович": 31,
-      "Курбанов Марат Асгатович": 31,
-      "Мингазов Закарий Ильясович": 13,
-      "Мухаметшин Эдуард Закирович": 4,
-      "Хайров Ринат Шамильевич": 1273,
-      "Ханипов Айрат Раисович": 56
+      "gas:candidate-vibid:4164007182364": 61,
+      "gas:candidate-vibid:4164007181332": 31,
+      "gas:candidate-vibid:4164007182264": 31,
+      "gas:candidate-vibid:4164007182131": 13,
+      "gas:candidate-vibid:4164007182013": 4,
+      "gas:candidate-vibid:4164007182091": 1273,
+      "gas:candidate-vibid:4164007182199": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562314&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562314&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 100,
-      "Алейников Валерий Вячеславович": 15,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 34,
-      "Мухаметшин Эдуард Закирович": 7,
-      "Хайров Ринат Шамильевич": 1041,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 100,
+      "gas:candidate-vibid:4164007181332": 15,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 34,
+      "gas:candidate-vibid:4164007182013": 7,
+      "gas:candidate-vibid:4164007182091": 1041,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 29,
-      "Алейников Валерий Вячеславович": 17,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 27,
-      "Мухаметшин Эдуард Закирович": 20,
-      "Хайров Ринат Шамильевич": 1059,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 29,
+      "gas:candidate-vibid:4164007181332": 17,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 27,
+      "gas:candidate-vibid:4164007182013": 20,
+      "gas:candidate-vibid:4164007182091": 1059,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 115,
-      "Алейников Валерий Вячеславович": 13,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 32,
-      "Мухаметшин Эдуард Закирович": 7,
-      "Хайров Ринат Шамильевич": 1059,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 115,
+      "gas:candidate-vibid:4164007181332": 13,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 32,
+      "gas:candidate-vibid:4164007182013": 7,
+      "gas:candidate-vibid:4164007182091": 1059,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 118,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 31,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 1089,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 118,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 31,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 1089,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 119,
-      "Алейников Валерий Вячеславович": 13,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 26,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 1160,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 119,
+      "gas:candidate-vibid:4164007181332": 13,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 26,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 1160,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 31,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 338,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 31,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 338,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 226,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 226,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 21,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 272,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 21,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 272,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 16,
-      "Алейников Валерий Вячеславович": 7,
-      "Курбанов Марат Асгатович": 6,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 11,
-      "Хайров Ринат Шамильевич": 440,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 16,
+      "gas:candidate-vibid:4164007181332": 7,
+      "gas:candidate-vibid:4164007182264": 6,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 11,
+      "gas:candidate-vibid:4164007182091": 440,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 350,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 350,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 205,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 205,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 19,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 250,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 19,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 250,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 36,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 445,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 36,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 445,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 26,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 341,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 26,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 341,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 347,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 347,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 37,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 487,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 37,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 487,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 33,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 457,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 33,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 457,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 8,
-      "Алейников Валерий Вячеславович": 8,
-      "Курбанов Марат Асгатович": 6,
-      "Мингазов Закарий Ильясович": 8,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 351,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 8,
+      "gas:candidate-vibid:4164007181332": 8,
+      "gas:candidate-vibid:4164007182264": 6,
+      "gas:candidate-vibid:4164007182131": 8,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 351,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 41,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 9,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 454,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 41,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 9,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 454,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 25,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 266,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 25,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 266,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 34,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 455,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 34,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 455,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 27,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 8,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 296,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 27,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 8,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 296,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 363,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 363,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 280,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 280,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 208,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 208,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 11,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 12,
-      "Мухаметшин Эдуард Закирович": 39,
-      "Хайров Ринат Шамильевич": 739,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 11,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 12,
+      "gas:candidate-vibid:4164007182013": 39,
+      "gas:candidate-vibid:4164007182091": 739,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 52,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 22,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 545,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 52,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 22,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 545,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 311,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 311,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 27,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 292,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 27,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 292,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 477,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 477,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562315&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562315&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 53,
-      "Алейников Валерий Вячеславович": 50,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 47,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 1046,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 53,
+      "gas:candidate-vibid:4164007181332": 50,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 47,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 1046,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 49,
-      "Алейников Валерий Вячеславович": 44,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 37,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 860,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 49,
+      "gas:candidate-vibid:4164007181332": 44,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 37,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 860,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 70,
-      "Алейников Валерий Вячеславович": 47,
-      "Курбанов Марат Асгатович": 14,
-      "Мингазов Закарий Ильясович": 12,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 959,
-      "Ханипов Айрат Раисович": 7
+      "gas:candidate-vibid:4164007182364": 70,
+      "gas:candidate-vibid:4164007181332": 47,
+      "gas:candidate-vibid:4164007182264": 14,
+      "gas:candidate-vibid:4164007182131": 12,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 959,
+      "gas:candidate-vibid:4164007182199": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 43,
-      "Алейников Валерий Вячеславович": 31,
-      "Курбанов Марат Асгатович": 8,
-      "Мингазов Закарий Ильясович": 12,
-      "Мухаметшин Эдуард Закирович": 23,
-      "Хайров Ринат Шамильевич": 947,
-      "Ханипов Айрат Раисович": 8
+      "gas:candidate-vibid:4164007182364": 43,
+      "gas:candidate-vibid:4164007181332": 31,
+      "gas:candidate-vibid:4164007182264": 8,
+      "gas:candidate-vibid:4164007182131": 12,
+      "gas:candidate-vibid:4164007182013": 23,
+      "gas:candidate-vibid:4164007182091": 947,
+      "gas:candidate-vibid:4164007182199": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 41,
-      "Алейников Валерий Вячеславович": 38,
-      "Курбанов Марат Асгатович": 6,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 11,
-      "Хайров Ринат Шамильевич": 695,
-      "Ханипов Айрат Раисович": 11
+      "gas:candidate-vibid:4164007182364": 41,
+      "gas:candidate-vibid:4164007181332": 38,
+      "gas:candidate-vibid:4164007182264": 6,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 11,
+      "gas:candidate-vibid:4164007182091": 695,
+      "gas:candidate-vibid:4164007182199": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 59,
-      "Алейников Валерий Вячеславович": 44,
-      "Курбанов Марат Асгатович": 17,
-      "Мингазов Закарий Ильясович": 33,
-      "Мухаметшин Эдуард Закирович": 22,
-      "Хайров Ринат Шамильевич": 1206,
-      "Ханипов Айрат Раисович": 6
+      "gas:candidate-vibid:4164007182364": 59,
+      "gas:candidate-vibid:4164007181332": 44,
+      "gas:candidate-vibid:4164007182264": 17,
+      "gas:candidate-vibid:4164007182131": 33,
+      "gas:candidate-vibid:4164007182013": 22,
+      "gas:candidate-vibid:4164007182091": 1206,
+      "gas:candidate-vibid:4164007182199": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 104,
-      "Алейников Валерий Вячеславович": 50,
-      "Курбанов Марат Асгатович": 31,
-      "Мингазов Закарий Ильясович": 27,
-      "Мухаметшин Эдуард Закирович": 27,
-      "Хайров Ринат Шамильевич": 1741,
-      "Ханипов Айрат Раисович": 21
+      "gas:candidate-vibid:4164007182364": 104,
+      "gas:candidate-vibid:4164007181332": 50,
+      "gas:candidate-vibid:4164007182264": 31,
+      "gas:candidate-vibid:4164007182131": 27,
+      "gas:candidate-vibid:4164007182013": 27,
+      "gas:candidate-vibid:4164007182091": 1741,
+      "gas:candidate-vibid:4164007182199": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 78,
-      "Алейников Валерий Вячеславович": 89,
-      "Курбанов Марат Асгатович": 5,
-      "Мингазов Закарий Ильясович": 71,
-      "Мухаметшин Эдуард Закирович": 8,
-      "Хайров Ринат Шамильевич": 1834,
-      "Ханипов Айрат Раисович": 5
+      "gas:candidate-vibid:4164007182364": 78,
+      "gas:candidate-vibid:4164007181332": 89,
+      "gas:candidate-vibid:4164007182264": 5,
+      "gas:candidate-vibid:4164007182131": 71,
+      "gas:candidate-vibid:4164007182013": 8,
+      "gas:candidate-vibid:4164007182091": 1834,
+      "gas:candidate-vibid:4164007182199": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 79,
-      "Алейников Валерий Вячеславович": 56,
-      "Курбанов Марат Асгатович": 9,
-      "Мингазов Закарий Ильясович": 42,
-      "Мухаметшин Эдуард Закирович": 8,
-      "Хайров Ринат Шамильевич": 1627,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 79,
+      "gas:candidate-vibid:4164007181332": 56,
+      "gas:candidate-vibid:4164007182264": 9,
+      "gas:candidate-vibid:4164007182131": 42,
+      "gas:candidate-vibid:4164007182013": 8,
+      "gas:candidate-vibid:4164007182091": 1627,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 48,
-      "Алейников Валерий Вячеславович": 34,
-      "Курбанов Марат Асгатович": 32,
-      "Мингазов Закарий Ильясович": 39,
-      "Мухаметшин Эдуард Закирович": 41,
-      "Хайров Ринат Шамильевич": 1576,
-      "Ханипов Айрат Раисович": 40
+      "gas:candidate-vibid:4164007182364": 48,
+      "gas:candidate-vibid:4164007181332": 34,
+      "gas:candidate-vibid:4164007182264": 32,
+      "gas:candidate-vibid:4164007182131": 39,
+      "gas:candidate-vibid:4164007182013": 41,
+      "gas:candidate-vibid:4164007182091": 1576,
+      "gas:candidate-vibid:4164007182199": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 82,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 163,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 1718,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 82,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 163,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 1718,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 62,
-      "Алейников Валерий Вячеславович": 60,
-      "Курбанов Марат Асгатович": 22,
-      "Мингазов Закарий Ильясович": 51,
-      "Мухаметшин Эдуард Закирович": 17,
-      "Хайров Ринат Шамильевич": 1520,
-      "Ханипов Айрат Раисович": 15
+      "gas:candidate-vibid:4164007182364": 62,
+      "gas:candidate-vibid:4164007181332": 60,
+      "gas:candidate-vibid:4164007182264": 22,
+      "gas:candidate-vibid:4164007182131": 51,
+      "gas:candidate-vibid:4164007182013": 17,
+      "gas:candidate-vibid:4164007182091": 1520,
+      "gas:candidate-vibid:4164007182199": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 154,
-      "Алейников Валерий Вячеславович": 118,
-      "Курбанов Марат Асгатович": 25,
-      "Мингазов Закарий Ильясович": 27,
-      "Мухаметшин Эдуард Закирович": 18,
-      "Хайров Ринат Шамильевич": 1445,
-      "Ханипов Айрат Раисович": 12
+      "gas:candidate-vibid:4164007182364": 154,
+      "gas:candidate-vibid:4164007181332": 118,
+      "gas:candidate-vibid:4164007182264": 25,
+      "gas:candidate-vibid:4164007182131": 27,
+      "gas:candidate-vibid:4164007182013": 18,
+      "gas:candidate-vibid:4164007182091": 1445,
+      "gas:candidate-vibid:4164007182199": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 86,
-      "Алейников Валерий Вячеславович": 52,
-      "Курбанов Марат Асгатович": 17,
-      "Мингазов Закарий Ильясович": 24,
-      "Мухаметшин Эдуард Закирович": 40,
-      "Хайров Ринат Шамильевич": 1520,
-      "Ханипов Айрат Раисович": 6
+      "gas:candidate-vibid:4164007182364": 86,
+      "gas:candidate-vibid:4164007181332": 52,
+      "gas:candidate-vibid:4164007182264": 17,
+      "gas:candidate-vibid:4164007182131": 24,
+      "gas:candidate-vibid:4164007182013": 40,
+      "gas:candidate-vibid:4164007182091": 1520,
+      "gas:candidate-vibid:4164007182199": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 84,
-      "Алейников Валерий Вячеславович": 119,
-      "Курбанов Марат Асгатович": 7,
-      "Мингазов Закарий Ильясович": 21,
-      "Мухаметшин Эдуард Закирович": 6,
-      "Хайров Ринат Шамильевич": 1622,
-      "Ханипов Айрат Раисович": 5
+      "gas:candidate-vibid:4164007182364": 84,
+      "gas:candidate-vibid:4164007181332": 119,
+      "gas:candidate-vibid:4164007182264": 7,
+      "gas:candidate-vibid:4164007182131": 21,
+      "gas:candidate-vibid:4164007182013": 6,
+      "gas:candidate-vibid:4164007182091": 1622,
+      "gas:candidate-vibid:4164007182199": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 47,
-      "Алейников Валерий Вячеславович": 49,
-      "Курбанов Марат Асгатович": 62,
-      "Мингазов Закарий Ильясович": 50,
-      "Мухаметшин Эдуард Закирович": 38,
-      "Хайров Ринат Шамильевич": 2022,
-      "Ханипов Айрат Раисович": 43
+      "gas:candidate-vibid:4164007182364": 47,
+      "gas:candidate-vibid:4164007181332": 49,
+      "gas:candidate-vibid:4164007182264": 62,
+      "gas:candidate-vibid:4164007182131": 50,
+      "gas:candidate-vibid:4164007182013": 38,
+      "gas:candidate-vibid:4164007182091": 2022,
+      "gas:candidate-vibid:4164007182199": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 540,
-      "Алейников Валерий Вячеславович": 50,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 1568,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 540,
+      "gas:candidate-vibid:4164007181332": 50,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 1568,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 118,
-      "Алейников Валерий Вячеславович": 61,
-      "Курбанов Марат Асгатович": 22,
-      "Мингазов Закарий Ильясович": 57,
-      "Мухаметшин Эдуард Закирович": 11,
-      "Хайров Ринат Шамильевич": 1926,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 118,
+      "gas:candidate-vibid:4164007181332": 61,
+      "gas:candidate-vibid:4164007182264": 22,
+      "gas:candidate-vibid:4164007182131": 57,
+      "gas:candidate-vibid:4164007182013": 11,
+      "gas:candidate-vibid:4164007182091": 1926,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 53,
-      "Алейников Валерий Вячеславович": 17,
-      "Курбанов Марат Асгатович": 69,
-      "Мингазов Закарий Ильясович": 24,
-      "Мухаметшин Эдуард Закирович": 82,
-      "Хайров Ринат Шамильевич": 1807,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 53,
+      "gas:candidate-vibid:4164007181332": 17,
+      "gas:candidate-vibid:4164007182264": 69,
+      "gas:candidate-vibid:4164007182131": 24,
+      "gas:candidate-vibid:4164007182013": 82,
+      "gas:candidate-vibid:4164007182091": 1807,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 60,
-      "Алейников Валерий Вячеславович": 41,
-      "Курбанов Марат Асгатович": 73,
-      "Мингазов Закарий Ильясович": 63,
-      "Мухаметшин Эдуард Закирович": 18,
-      "Хайров Ринат Шамильевич": 1831,
-      "Ханипов Айрат Раисович": 19
+      "gas:candidate-vibid:4164007182364": 60,
+      "gas:candidate-vibid:4164007181332": 41,
+      "gas:candidate-vibid:4164007182264": 73,
+      "gas:candidate-vibid:4164007182131": 63,
+      "gas:candidate-vibid:4164007182013": 18,
+      "gas:candidate-vibid:4164007182091": 1831,
+      "gas:candidate-vibid:4164007182199": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 133,
-      "Алейников Валерий Вячеславович": 38,
-      "Курбанов Марат Асгатович": 19,
-      "Мингазов Закарий Ильясович": 21,
-      "Мухаметшин Эдуард Закирович": 52,
-      "Хайров Ринат Шамильевич": 1959,
-      "Ханипов Айрат Раисович": 30
+      "gas:candidate-vibid:4164007182364": 133,
+      "gas:candidate-vibid:4164007181332": 38,
+      "gas:candidate-vibid:4164007182264": 19,
+      "gas:candidate-vibid:4164007182131": 21,
+      "gas:candidate-vibid:4164007182013": 52,
+      "gas:candidate-vibid:4164007182091": 1959,
+      "gas:candidate-vibid:4164007182199": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 63,
-      "Алейников Валерий Вячеславович": 16,
-      "Курбанов Марат Асгатович": 23,
-      "Мингазов Закарий Ильясович": 14,
-      "Мухаметшин Эдуард Закирович": 69,
-      "Хайров Ринат Шамильевич": 1816,
-      "Ханипов Айрат Раисович": 86
+      "gas:candidate-vibid:4164007182364": 63,
+      "gas:candidate-vibid:4164007181332": 16,
+      "gas:candidate-vibid:4164007182264": 23,
+      "gas:candidate-vibid:4164007182131": 14,
+      "gas:candidate-vibid:4164007182013": 69,
+      "gas:candidate-vibid:4164007182091": 1816,
+      "gas:candidate-vibid:4164007182199": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 142,
-      "Алейников Валерий Вячеславович": 71,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 118,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 2045,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 142,
+      "gas:candidate-vibid:4164007181332": 71,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 118,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 2045,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 21,
-      "Алейников Валерий Вячеславович": 10,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 311,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 21,
+      "gas:candidate-vibid:4164007181332": 10,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 311,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562316&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562316&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 266,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 266,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 25,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 9,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 766,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 25,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 9,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 766,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 6,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 8,
-      "Хайров Ринат Шамильевич": 495,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 6,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 8,
+      "gas:candidate-vibid:4164007182091": 495,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 121,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 121,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 5,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 10,
-      "Мингазов Закарий Ильясович": 8,
-      "Мухаметшин Эдуард Закирович": 11,
-      "Хайров Ринат Шамильевич": 485,
-      "Ханипов Айрат Раисович": 10
+      "gas:candidate-vibid:4164007182364": 5,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 10,
+      "gas:candidate-vibid:4164007182131": 8,
+      "gas:candidate-vibid:4164007182013": 11,
+      "gas:candidate-vibid:4164007182091": 485,
+      "gas:candidate-vibid:4164007182199": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 99,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 99,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 4,
-      "Хайров Ринат Шамильевич": 588,
-      "Ханипов Айрат Раисович": 2
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 4,
+      "gas:candidate-vibid:4164007182091": 588,
+      "gas:candidate-vibid:4164007182199": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 5,
-      "Алейников Валерий Вячеславович": 5,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 4,
-      "Хайров Ринат Шамильевич": 300,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 5,
+      "gas:candidate-vibid:4164007181332": 5,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 4,
+      "gas:candidate-vibid:4164007182091": 300,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 6,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 304,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 6,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 304,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 5,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 5,
-      "Мухаметшин Эдуард Закирович": 12,
-      "Хайров Ринат Шамильевич": 651,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 5,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 5,
+      "gas:candidate-vibid:4164007182013": 12,
+      "gas:candidate-vibid:4164007182091": 651,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 201,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 201,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 253,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 253,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 216,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 216,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 10,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 4,
-      "Хайров Ринат Шамильевич": 669,
-      "Ханипов Айрат Раисович": 1
+      "gas:candidate-vibid:4164007182364": 10,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 4,
+      "gas:candidate-vibid:4164007182091": 669,
+      "gas:candidate-vibid:4164007182199": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 5,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 14,
-      "Хайров Ринат Шамильевич": 449,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 5,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 14,
+      "gas:candidate-vibid:4164007182091": 449,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 1,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 2,
-      "Хайров Ринат Шамильевич": 445,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 1,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 2,
+      "gas:candidate-vibid:4164007182091": 445,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 8,
-      "Алейников Валерий Вячеславович": 31,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 787,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 8,
+      "gas:candidate-vibid:4164007181332": 31,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 787,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 26,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 5,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 10,
-      "Хайров Ринат Шамильевич": 455,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 26,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 5,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 10,
+      "gas:candidate-vibid:4164007182091": 455,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 6,
-      "Алейников Валерий Вячеславович": 5,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 412,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 6,
+      "gas:candidate-vibid:4164007181332": 5,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 412,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 13,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 1,
-      "Мухаметшин Эдуард Закирович": 10,
-      "Хайров Ринат Шамильевич": 929,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 13,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 1,
+      "gas:candidate-vibid:4164007182013": 10,
+      "gas:candidate-vibid:4164007182091": 929,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 1,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 11,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 1,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 11,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 10,
-      "Алейников Валерий Вячеславович": 9,
-      "Курбанов Марат Асгатович": 6,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 7,
-      "Хайров Ринат Шамильевич": 586,
-      "Ханипов Айрат Раисович": 6
+      "gas:candidate-vibid:4164007182364": 10,
+      "gas:candidate-vibid:4164007181332": 9,
+      "gas:candidate-vibid:4164007182264": 6,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 7,
+      "gas:candidate-vibid:4164007182091": 586,
+      "gas:candidate-vibid:4164007182199": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 23,
-      "Алейников Валерий Вячеславович": 16,
-      "Курбанов Марат Асгатович": 13,
-      "Мингазов Закарий Ильясович": 14,
-      "Мухаметшин Эдуард Закирович": 16,
-      "Хайров Ринат Шамильевич": 695,
-      "Ханипов Айрат Раисович": 10
+      "gas:candidate-vibid:4164007182364": 23,
+      "gas:candidate-vibid:4164007181332": 16,
+      "gas:candidate-vibid:4164007182264": 13,
+      "gas:candidate-vibid:4164007182131": 14,
+      "gas:candidate-vibid:4164007182013": 16,
+      "gas:candidate-vibid:4164007182091": 695,
+      "gas:candidate-vibid:4164007182199": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 0,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 2,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 350,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 0,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 2,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 350,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 4,
-      "Алейников Валерий Вячеславович": 4,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 4,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 220,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 4,
+      "gas:candidate-vibid:4164007181332": 4,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 4,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 220,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 18,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 9,
-      "Мухаметшин Эдуард Закирович": 7,
-      "Хайров Ринат Шамильевич": 813,
-      "Ханипов Айрат Раисович": 5
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 18,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 9,
+      "gas:candidate-vibid:4164007182013": 7,
+      "gas:candidate-vibid:4164007182091": 813,
+      "gas:candidate-vibid:4164007182199": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 30,
-      "Алейников Валерий Вячеславович": 9,
-      "Курбанов Марат Асгатович": 10,
-      "Мингазов Закарий Ильясович": 10,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 1113,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 30,
+      "gas:candidate-vibid:4164007181332": 9,
+      "gas:candidate-vibid:4164007182264": 10,
+      "gas:candidate-vibid:4164007182131": 10,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 1113,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 3,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 4,
-      "Мингазов Закарий Ильясович": 4,
-      "Мухаметшин Эдуард Закирович": 1,
-      "Хайров Ринат Шамильевич": 469,
-      "Ханипов Айрат Раисович": 3
+      "gas:candidate-vibid:4164007182364": 3,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 4,
+      "gas:candidate-vibid:4164007182131": 4,
+      "gas:candidate-vibid:4164007182013": 1,
+      "gas:candidate-vibid:4164007182091": 469,
+      "gas:candidate-vibid:4164007182199": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 9,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 3,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 3,
-      "Хайров Ринат Шамильевич": 385,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 9,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 3,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 3,
+      "gas:candidate-vibid:4164007182091": 385,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 0,
-      "Алейников Валерий Вячеславович": 2,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 299,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 0,
+      "gas:candidate-vibid:4164007181332": 2,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 299,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 1,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 0,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 84,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 1,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 0,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 84,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 17,
-      "Алейников Валерий Вячеславович": 9,
-      "Курбанов Марат Асгатович": 0,
-      "Мингазов Закарий Ильясович": 6,
-      "Мухаметшин Эдуард Закирович": 0,
-      "Хайров Ринат Шамильевич": 769,
-      "Ханипов Айрат Раисович": 0
+      "gas:candidate-vibid:4164007182364": 17,
+      "gas:candidate-vibid:4164007181332": 9,
+      "gas:candidate-vibid:4164007182264": 0,
+      "gas:candidate-vibid:4164007182131": 6,
+      "gas:candidate-vibid:4164007182013": 0,
+      "gas:candidate-vibid:4164007182091": 769,
+      "gas:candidate-vibid:4164007182199": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 2,
-      "Алейников Валерий Вячеславович": 3,
-      "Курбанов Марат Асгатович": 2,
-      "Мингазов Закарий Ильясович": 3,
-      "Мухаметшин Эдуард Закирович": 5,
-      "Хайров Ринат Шамильевич": 785,
-      "Ханипов Айрат Раисович": 4
+      "gas:candidate-vibid:4164007182364": 2,
+      "gas:candidate-vibid:4164007181332": 3,
+      "gas:candidate-vibid:4164007182264": 2,
+      "gas:candidate-vibid:4164007182131": 3,
+      "gas:candidate-vibid:4164007182013": 5,
+      "gas:candidate-vibid:4164007182091": 785,
+      "gas:candidate-vibid:4164007182199": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562317&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562317&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 159,
-      "Алейников Валерий Вячеславович": 46,
-      "Курбанов Марат Асгатович": 47,
-      "Мингазов Закарий Ильясович": 39,
-      "Мухаметшин Эдуард Закирович": 68,
-      "Хайров Ринат Шамильевич": 934,
-      "Ханипов Айрат Раисович": 33
+      "gas:candidate-vibid:4164007182364": 159,
+      "gas:candidate-vibid:4164007181332": 46,
+      "gas:candidate-vibid:4164007182264": 47,
+      "gas:candidate-vibid:4164007182131": 39,
+      "gas:candidate-vibid:4164007182013": 68,
+      "gas:candidate-vibid:4164007182091": 934,
+      "gas:candidate-vibid:4164007182199": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 141,
-      "Алейников Валерий Вячеславович": 39,
-      "Курбанов Марат Асгатович": 36,
-      "Мингазов Закарий Ильясович": 34,
-      "Мухаметшин Эдуард Закирович": 56,
-      "Хайров Ринат Шамильевич": 798,
-      "Ханипов Айрат Раисович": 16
+      "gas:candidate-vibid:4164007182364": 141,
+      "gas:candidate-vibid:4164007181332": 39,
+      "gas:candidate-vibid:4164007182264": 36,
+      "gas:candidate-vibid:4164007182131": 34,
+      "gas:candidate-vibid:4164007182013": 56,
+      "gas:candidate-vibid:4164007182091": 798,
+      "gas:candidate-vibid:4164007182199": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 147,
-      "Алейников Валерий Вячеславович": 43,
-      "Курбанов Марат Асгатович": 36,
-      "Мингазов Закарий Ильясович": 37,
-      "Мухаметшин Эдуард Закирович": 61,
-      "Хайров Ринат Шамильевич": 875,
-      "Ханипов Айрат Раисович": 31
+      "gas:candidate-vibid:4164007182364": 147,
+      "gas:candidate-vibid:4164007181332": 43,
+      "gas:candidate-vibid:4164007182264": 36,
+      "gas:candidate-vibid:4164007182131": 37,
+      "gas:candidate-vibid:4164007182013": 61,
+      "gas:candidate-vibid:4164007182091": 875,
+      "gas:candidate-vibid:4164007182199": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 159,
-      "Алейников Валерий Вячеславович": 29,
-      "Курбанов Марат Асгатович": 40,
-      "Мингазов Закарий Ильясович": 39,
-      "Мухаметшин Эдуард Закирович": 76,
-      "Хайров Ринат Шамильевич": 949,
-      "Ханипов Айрат Раисович": 33
+      "gas:candidate-vibid:4164007182364": 159,
+      "gas:candidate-vibid:4164007181332": 29,
+      "gas:candidate-vibid:4164007182264": 40,
+      "gas:candidate-vibid:4164007182131": 39,
+      "gas:candidate-vibid:4164007182013": 76,
+      "gas:candidate-vibid:4164007182091": 949,
+      "gas:candidate-vibid:4164007182199": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 164,
-      "Алейников Валерий Вячеславович": 11,
-      "Курбанов Марат Асгатович": 47,
-      "Мингазов Закарий Ильясович": 32,
-      "Мухаметшин Эдуард Закирович": 64,
-      "Хайров Ринат Шамильевич": 842,
-      "Ханипов Айрат Раисович": 10
+      "gas:candidate-vibid:4164007182364": 164,
+      "gas:candidate-vibid:4164007181332": 11,
+      "gas:candidate-vibid:4164007182264": 47,
+      "gas:candidate-vibid:4164007182131": 32,
+      "gas:candidate-vibid:4164007182013": 64,
+      "gas:candidate-vibid:4164007182091": 842,
+      "gas:candidate-vibid:4164007182199": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 85,
-      "Алейников Валерий Вячеславович": 18,
-      "Курбанов Марат Асгатович": 28,
-      "Мингазов Закарий Ильясович": 20,
-      "Мухаметшин Эдуард Закирович": 35,
-      "Хайров Ринат Шамильевич": 501,
-      "Ханипов Айрат Раисович": 18
+      "gas:candidate-vibid:4164007182364": 85,
+      "gas:candidate-vibid:4164007181332": 18,
+      "gas:candidate-vibid:4164007182264": 28,
+      "gas:candidate-vibid:4164007182131": 20,
+      "gas:candidate-vibid:4164007182013": 35,
+      "gas:candidate-vibid:4164007182091": 501,
+      "gas:candidate-vibid:4164007182199": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 167,
-      "Алейников Валерий Вячеславович": 47,
-      "Курбанов Марат Асгатович": 56,
-      "Мингазов Закарий Ильясович": 42,
-      "Мухаметшин Эдуард Закирович": 70,
-      "Хайров Ринат Шамильевич": 977,
-      "Ханипов Айрат Раисович": 35
+      "gas:candidate-vibid:4164007182364": 167,
+      "gas:candidate-vibid:4164007181332": 47,
+      "gas:candidate-vibid:4164007182264": 56,
+      "gas:candidate-vibid:4164007182131": 42,
+      "gas:candidate-vibid:4164007182013": 70,
+      "gas:candidate-vibid:4164007182091": 977,
+      "gas:candidate-vibid:4164007182199": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_16_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агафонов Александр Федорович": 116,
-      "Алейников Валерий Вячеславович": 33,
-      "Курбанов Марат Асгатович": 36,
-      "Мингазов Закарий Ильясович": 27,
-      "Мухаметшин Эдуард Закирович": 47,
-      "Хайров Ринат Шамильевич": 701,
-      "Ханипов Айрат Раисович": 24
+      "gas:candidate-vibid:4164007182364": 116,
+      "gas:candidate-vibid:4164007181332": 33,
+      "gas:candidate-vibid:4164007182264": 36,
+      "gas:candidate-vibid:4164007182131": 27,
+      "gas:candidate-vibid:4164007182013": 47,
+      "gas:candidate-vibid:4164007182091": 701,
+      "gas:candidate-vibid:4164007182199": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000043&tvd=21620001562318&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562318&type=464",

@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 61,
-      "Каменских Александр Аркадьевич": 225,
-      "Плотников Олег Степанович": 31,
-      "Савостьянова Валентина Борисовна": 474,
-      "Токарев Алексей Иванович": 70,
-      "Против всех": 311
+      "gas:candidate-vibid:359300166698": 61,
+      "gas:candidate-vibid:359300166664": 225,
+      "gas:candidate-vibid:1001000136099": 31,
+      "gas:candidate-vibid:1001000190397": 474,
+      "gas:candidate-vibid:359300166762": 70,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 50,
-      "Каменских Александр Аркадьевич": 305,
-      "Плотников Олег Степанович": 63,
-      "Савостьянова Валентина Борисовна": 419,
-      "Токарев Алексей Иванович": 63,
-      "Против всех": 275
+      "gas:candidate-vibid:359300166698": 50,
+      "gas:candidate-vibid:359300166664": 305,
+      "gas:candidate-vibid:1001000136099": 63,
+      "gas:candidate-vibid:1001000190397": 419,
+      "gas:candidate-vibid:359300166762": 63,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 10,
-      "Каменских Александр Аркадьевич": 48,
-      "Плотников Олег Степанович": 16,
-      "Савостьянова Валентина Борисовна": 179,
-      "Токарев Алексей Иванович": 13,
-      "Против всех": 76
+      "gas:candidate-vibid:359300166698": 10,
+      "gas:candidate-vibid:359300166664": 48,
+      "gas:candidate-vibid:1001000136099": 16,
+      "gas:candidate-vibid:1001000190397": 179,
+      "gas:candidate-vibid:359300166762": 13,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 43,
-      "Каменских Александр Аркадьевич": 150,
-      "Плотников Олег Степанович": 32,
-      "Савостьянова Валентина Борисовна": 332,
-      "Токарев Алексей Иванович": 51,
-      "Против всех": 156
+      "gas:candidate-vibid:359300166698": 43,
+      "gas:candidate-vibid:359300166664": 150,
+      "gas:candidate-vibid:1001000136099": 32,
+      "gas:candidate-vibid:1001000190397": 332,
+      "gas:candidate-vibid:359300166762": 51,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 25,
-      "Каменских Александр Аркадьевич": 197,
-      "Плотников Олег Степанович": 49,
-      "Савостьянова Валентина Борисовна": 222,
-      "Токарев Алексей Иванович": 113,
-      "Против всех": 83
+      "gas:candidate-vibid:359300166698": 25,
+      "gas:candidate-vibid:359300166664": 197,
+      "gas:candidate-vibid:1001000136099": 49,
+      "gas:candidate-vibid:1001000190397": 222,
+      "gas:candidate-vibid:359300166762": 113,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 26,
-      "Каменских Александр Аркадьевич": 180,
-      "Плотников Олег Степанович": 31,
-      "Савостьянова Валентина Борисовна": 440,
-      "Токарев Алексей Иванович": 56,
-      "Против всех": 151
+      "gas:candidate-vibid:359300166698": 26,
+      "gas:candidate-vibid:359300166664": 180,
+      "gas:candidate-vibid:1001000136099": 31,
+      "gas:candidate-vibid:1001000190397": 440,
+      "gas:candidate-vibid:359300166762": 56,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 4,
-      "Каменских Александр Аркадьевич": 81,
-      "Плотников Олег Степанович": 29,
-      "Савостьянова Валентина Борисовна": 181,
-      "Токарев Алексей Иванович": 19,
-      "Против всех": 49
+      "gas:candidate-vibid:359300166698": 4,
+      "gas:candidate-vibid:359300166664": 81,
+      "gas:candidate-vibid:1001000136099": 29,
+      "gas:candidate-vibid:1001000190397": 181,
+      "gas:candidate-vibid:359300166762": 19,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 25,
-      "Каменских Александр Аркадьевич": 120,
-      "Плотников Олег Степанович": 44,
-      "Савостьянова Валентина Борисовна": 255,
-      "Токарев Алексей Иванович": 21,
-      "Против всех": 108
+      "gas:candidate-vibid:359300166698": 25,
+      "gas:candidate-vibid:359300166664": 120,
+      "gas:candidate-vibid:1001000136099": 44,
+      "gas:candidate-vibid:1001000190397": 255,
+      "gas:candidate-vibid:359300166762": 21,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 35,
-      "Каменских Александр Аркадьевич": 239,
-      "Плотников Олег Степанович": 45,
-      "Савостьянова Валентина Борисовна": 371,
-      "Токарев Алексей Иванович": 38,
-      "Против всех": 165
+      "gas:candidate-vibid:359300166698": 35,
+      "gas:candidate-vibid:359300166664": 239,
+      "gas:candidate-vibid:1001000136099": 45,
+      "gas:candidate-vibid:1001000190397": 371,
+      "gas:candidate-vibid:359300166762": 38,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 34,
-      "Каменских Александр Аркадьевич": 322,
-      "Плотников Олег Степанович": 61,
-      "Савостьянова Валентина Борисовна": 302,
-      "Токарев Алексей Иванович": 27,
-      "Против всех": 157
+      "gas:candidate-vibid:359300166698": 34,
+      "gas:candidate-vibid:359300166664": 322,
+      "gas:candidate-vibid:1001000136099": 61,
+      "gas:candidate-vibid:1001000190397": 302,
+      "gas:candidate-vibid:359300166762": 27,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 50,
-      "Каменских Александр Аркадьевич": 293,
-      "Плотников Олег Степанович": 64,
-      "Савостьянова Валентина Борисовна": 460,
-      "Токарев Алексей Иванович": 72,
-      "Против всех": 248
+      "gas:candidate-vibid:359300166698": 50,
+      "gas:candidate-vibid:359300166664": 293,
+      "gas:candidate-vibid:1001000136099": 64,
+      "gas:candidate-vibid:1001000190397": 460,
+      "gas:candidate-vibid:359300166762": 72,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 83,
-      "Каменских Александр Аркадьевич": 303,
-      "Плотников Олег Степанович": 68,
-      "Савостьянова Валентина Борисовна": 418,
-      "Токарев Алексей Иванович": 113,
-      "Против всех": 318
+      "gas:candidate-vibid:359300166698": 83,
+      "gas:candidate-vibid:359300166664": 303,
+      "gas:candidate-vibid:1001000136099": 68,
+      "gas:candidate-vibid:1001000190397": 418,
+      "gas:candidate-vibid:359300166762": 113,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 35,
-      "Каменских Александр Аркадьевич": 100,
-      "Плотников Олег Степанович": 29,
-      "Савостьянова Валентина Борисовна": 236,
-      "Токарев Алексей Иванович": 20,
-      "Против всех": 109
+      "gas:candidate-vibid:359300166698": 35,
+      "gas:candidate-vibid:359300166664": 100,
+      "gas:candidate-vibid:1001000136099": 29,
+      "gas:candidate-vibid:1001000190397": 236,
+      "gas:candidate-vibid:359300166762": 20,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 28,
-      "Каменских Александр Аркадьевич": 84,
-      "Плотников Олег Степанович": 29,
-      "Савостьянова Валентина Борисовна": 234,
-      "Токарев Алексей Иванович": 37,
-      "Против всех": 104
+      "gas:candidate-vibid:359300166698": 28,
+      "gas:candidate-vibid:359300166664": 84,
+      "gas:candidate-vibid:1001000136099": 29,
+      "gas:candidate-vibid:1001000190397": 234,
+      "gas:candidate-vibid:359300166762": 37,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 5,
-      "Каменских Александр Аркадьевич": 20,
-      "Плотников Олег Степанович": 3,
-      "Савостьянова Валентина Борисовна": 113,
-      "Токарев Алексей Иванович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:359300166698": 5,
+      "gas:candidate-vibid:359300166664": 20,
+      "gas:candidate-vibid:1001000136099": 3,
+      "gas:candidate-vibid:1001000190397": 113,
+      "gas:candidate-vibid:359300166762": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 8,
-      "Каменских Александр Аркадьевич": 9,
-      "Плотников Олег Степанович": 5,
-      "Савостьянова Валентина Борисовна": 88,
-      "Токарев Алексей Иванович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:359300166698": 8,
+      "gas:candidate-vibid:359300166664": 9,
+      "gas:candidate-vibid:1001000136099": 5,
+      "gas:candidate-vibid:1001000190397": 88,
+      "gas:candidate-vibid:359300166762": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 9,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 77,
-      "Токарев Алексей Иванович": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 9,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 77,
+      "gas:candidate-vibid:359300166762": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 6,
-      "Каменских Александр Аркадьевич": 13,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 97,
-      "Токарев Алексей Иванович": 30,
-      "Против всех": 40
+      "gas:candidate-vibid:359300166698": 6,
+      "gas:candidate-vibid:359300166664": 13,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 97,
+      "gas:candidate-vibid:359300166762": 30,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 35,
-      "Каменских Александр Аркадьевич": 17,
-      "Плотников Олег Степанович": 20,
-      "Савостьянова Валентина Борисовна": 151,
-      "Токарев Алексей Иванович": 18,
-      "Против всех": 79
+      "gas:candidate-vibid:359300166698": 35,
+      "gas:candidate-vibid:359300166664": 17,
+      "gas:candidate-vibid:1001000136099": 20,
+      "gas:candidate-vibid:1001000190397": 151,
+      "gas:candidate-vibid:359300166762": 18,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 0,
-      "Каменских Александр Аркадьевич": 5,
-      "Плотников Олег Степанович": 0,
-      "Савостьянова Валентина Борисовна": 32,
-      "Токарев Алексей Иванович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:359300166698": 0,
+      "gas:candidate-vibid:359300166664": 5,
+      "gas:candidate-vibid:1001000136099": 0,
+      "gas:candidate-vibid:1001000190397": 32,
+      "gas:candidate-vibid:359300166762": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 15,
-      "Каменских Александр Аркадьевич": 46,
-      "Плотников Олег Степанович": 6,
-      "Савостьянова Валентина Борисовна": 95,
-      "Токарев Алексей Иванович": 14,
-      "Против всех": 47
+      "gas:candidate-vibid:359300166698": 15,
+      "gas:candidate-vibid:359300166664": 46,
+      "gas:candidate-vibid:1001000136099": 6,
+      "gas:candidate-vibid:1001000190397": 95,
+      "gas:candidate-vibid:359300166762": 14,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 13,
-      "Плотников Олег Степанович": 1,
-      "Савостьянова Валентина Борисовна": 29,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 13,
+      "gas:candidate-vibid:1001000136099": 1,
+      "gas:candidate-vibid:1001000190397": 29,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 17,
-      "Плотников Олег Степанович": 1,
-      "Савостьянова Валентина Борисовна": 131,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 17,
+      "gas:candidate-vibid:1001000136099": 1,
+      "gas:candidate-vibid:1001000190397": 131,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 2,
-      "Каменских Александр Аркадьевич": 7,
-      "Плотников Олег Степанович": 6,
-      "Савостьянова Валентина Борисовна": 105,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:359300166698": 2,
+      "gas:candidate-vibid:359300166664": 7,
+      "gas:candidate-vibid:1001000136099": 6,
+      "gas:candidate-vibid:1001000190397": 105,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 22,
-      "Каменских Александр Аркадьевич": 44,
-      "Плотников Олег Степанович": 33,
-      "Савостьянова Валентина Борисовна": 463,
-      "Токарев Алексей Иванович": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:359300166698": 22,
+      "gas:candidate-vibid:359300166664": 44,
+      "gas:candidate-vibid:1001000136099": 33,
+      "gas:candidate-vibid:1001000190397": 463,
+      "gas:candidate-vibid:359300166762": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 7,
-      "Плотников Олег Степанович": 3,
-      "Савостьянова Валентина Борисовна": 55,
-      "Токарев Алексей Иванович": 15,
-      "Против всех": 10
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 7,
+      "gas:candidate-vibid:1001000136099": 3,
+      "gas:candidate-vibid:1001000190397": 55,
+      "gas:candidate-vibid:359300166762": 15,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 14,
-      "Каменских Александр Аркадьевич": 118,
-      "Плотников Олег Степанович": 9,
-      "Савостьянова Валентина Борисовна": 145,
-      "Токарев Алексей Иванович": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:359300166698": 14,
+      "gas:candidate-vibid:359300166664": 118,
+      "gas:candidate-vibid:1001000136099": 9,
+      "gas:candidate-vibid:1001000190397": 145,
+      "gas:candidate-vibid:359300166762": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 2,
-      "Каменских Александр Аркадьевич": 28,
-      "Плотников Олег Степанович": 9,
-      "Савостьянова Валентина Борисовна": 111,
-      "Токарев Алексей Иванович": 14,
-      "Против всех": 20
+      "gas:candidate-vibid:359300166698": 2,
+      "gas:candidate-vibid:359300166664": 28,
+      "gas:candidate-vibid:1001000136099": 9,
+      "gas:candidate-vibid:1001000190397": 111,
+      "gas:candidate-vibid:359300166762": 14,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 11,
-      "Каменских Александр Аркадьевич": 6,
-      "Плотников Олег Степанович": 15,
-      "Савостьянова Валентина Борисовна": 95,
-      "Токарев Алексей Иванович": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:359300166698": 11,
+      "gas:candidate-vibid:359300166664": 6,
+      "gas:candidate-vibid:1001000136099": 15,
+      "gas:candidate-vibid:1001000190397": 95,
+      "gas:candidate-vibid:359300166762": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 10,
-      "Каменских Александр Аркадьевич": 24,
-      "Плотников Олег Степанович": 7,
-      "Савостьянова Валентина Борисовна": 47,
-      "Токарев Алексей Иванович": 16,
-      "Против всех": 12
+      "gas:candidate-vibid:359300166698": 10,
+      "gas:candidate-vibid:359300166664": 24,
+      "gas:candidate-vibid:1001000136099": 7,
+      "gas:candidate-vibid:1001000190397": 47,
+      "gas:candidate-vibid:359300166762": 16,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 14,
-      "Каменских Александр Аркадьевич": 35,
-      "Плотников Олег Степанович": 24,
-      "Савостьянова Валентина Борисовна": 195,
-      "Токарев Алексей Иванович": 15,
-      "Против всех": 38
+      "gas:candidate-vibid:359300166698": 14,
+      "gas:candidate-vibid:359300166664": 35,
+      "gas:candidate-vibid:1001000136099": 24,
+      "gas:candidate-vibid:1001000190397": 195,
+      "gas:candidate-vibid:359300166762": 15,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 29,
-      "Плотников Олег Степанович": 11,
-      "Савостьянова Валентина Борисовна": 157,
-      "Токарев Алексей Иванович": 13,
-      "Против всех": 10
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 29,
+      "gas:candidate-vibid:1001000136099": 11,
+      "gas:candidate-vibid:1001000190397": 157,
+      "gas:candidate-vibid:359300166762": 13,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 1,
-      "Каменских Александр Аркадьевич": 5,
-      "Плотников Олег Степанович": 13,
-      "Савостьянова Валентина Борисовна": 101,
-      "Токарев Алексей Иванович": 17,
-      "Против всех": 24
+      "gas:candidate-vibid:359300166698": 1,
+      "gas:candidate-vibid:359300166664": 5,
+      "gas:candidate-vibid:1001000136099": 13,
+      "gas:candidate-vibid:1001000190397": 101,
+      "gas:candidate-vibid:359300166762": 17,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 10,
-      "Плотников Олег Степанович": 9,
-      "Савостьянова Валентина Борисовна": 161,
-      "Токарев Алексей Иванович": 15,
-      "Против всех": 29
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 10,
+      "gas:candidate-vibid:1001000136099": 9,
+      "gas:candidate-vibid:1001000190397": 161,
+      "gas:candidate-vibid:359300166762": 15,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 11,
-      "Каменских Александр Аркадьевич": 6,
-      "Плотников Олег Степанович": 14,
-      "Савостьянова Валентина Борисовна": 139,
-      "Токарев Алексей Иванович": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:359300166698": 11,
+      "gas:candidate-vibid:359300166664": 6,
+      "gas:candidate-vibid:1001000136099": 14,
+      "gas:candidate-vibid:1001000190397": 139,
+      "gas:candidate-vibid:359300166762": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 13,
-      "Каменских Александр Аркадьевич": 22,
-      "Плотников Олег Степанович": 16,
-      "Савостьянова Валентина Борисовна": 189,
-      "Токарев Алексей Иванович": 9,
-      "Против всех": 27
+      "gas:candidate-vibid:359300166698": 13,
+      "gas:candidate-vibid:359300166664": 22,
+      "gas:candidate-vibid:1001000136099": 16,
+      "gas:candidate-vibid:1001000190397": 189,
+      "gas:candidate-vibid:359300166762": 9,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 10,
-      "Каменских Александр Аркадьевич": 24,
-      "Плотников Олег Степанович": 25,
-      "Савостьянова Валентина Борисовна": 175,
-      "Токарев Алексей Иванович": 18,
-      "Против всех": 55
+      "gas:candidate-vibid:359300166698": 10,
+      "gas:candidate-vibid:359300166664": 24,
+      "gas:candidate-vibid:1001000136099": 25,
+      "gas:candidate-vibid:1001000190397": 175,
+      "gas:candidate-vibid:359300166762": 18,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072731&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 41,
-      "Каменских Александр Аркадьевич": 364,
-      "Плотников Олег Степанович": 36,
-      "Савостьянова Валентина Борисовна": 299,
-      "Токарев Алексей Иванович": 39,
-      "Против всех": 189
+      "gas:candidate-vibid:359300166698": 41,
+      "gas:candidate-vibid:359300166664": 364,
+      "gas:candidate-vibid:1001000136099": 36,
+      "gas:candidate-vibid:1001000190397": 299,
+      "gas:candidate-vibid:359300166762": 39,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 33,
-      "Каменских Александр Аркадьевич": 579,
-      "Плотников Олег Степанович": 34,
-      "Савостьянова Валентина Борисовна": 400,
-      "Токарев Алексей Иванович": 26,
-      "Против всех": 180
+      "gas:candidate-vibid:359300166698": 33,
+      "gas:candidate-vibid:359300166664": 579,
+      "gas:candidate-vibid:1001000136099": 34,
+      "gas:candidate-vibid:1001000190397": 400,
+      "gas:candidate-vibid:359300166762": 26,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 13,
-      "Каменских Александр Аркадьевич": 317,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 202,
-      "Токарев Алексей Иванович": 18,
-      "Против всех": 138
+      "gas:candidate-vibid:359300166698": 13,
+      "gas:candidate-vibid:359300166664": 317,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 202,
+      "gas:candidate-vibid:359300166762": 18,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 164,
-      "Плотников Олег Степанович": 1,
-      "Савостьянова Валентина Борисовна": 48,
-      "Токарев Алексей Иванович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 164,
+      "gas:candidate-vibid:1001000136099": 1,
+      "gas:candidate-vibid:1001000190397": 48,
+      "gas:candidate-vibid:359300166762": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 23,
-      "Каменских Александр Аркадьевич": 357,
-      "Плотников Олег Степанович": 27,
-      "Савостьянова Валентина Борисовна": 271,
-      "Токарев Алексей Иванович": 23,
-      "Против всех": 125
+      "gas:candidate-vibid:359300166698": 23,
+      "gas:candidate-vibid:359300166664": 357,
+      "gas:candidate-vibid:1001000136099": 27,
+      "gas:candidate-vibid:1001000190397": 271,
+      "gas:candidate-vibid:359300166762": 23,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 27,
-      "Каменских Александр Аркадьевич": 401,
-      "Плотников Олег Степанович": 25,
-      "Савостьянова Валентина Борисовна": 349,
-      "Токарев Алексей Иванович": 30,
-      "Против всех": 150
+      "gas:candidate-vibid:359300166698": 27,
+      "gas:candidate-vibid:359300166664": 401,
+      "gas:candidate-vibid:1001000136099": 25,
+      "gas:candidate-vibid:1001000190397": 349,
+      "gas:candidate-vibid:359300166762": 30,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 43,
-      "Каменских Александр Аркадьевич": 458,
-      "Плотников Олег Степанович": 29,
-      "Савостьянова Валентина Борисовна": 360,
-      "Токарев Алексей Иванович": 21,
-      "Против всех": 193
+      "gas:candidate-vibid:359300166698": 43,
+      "gas:candidate-vibid:359300166664": 458,
+      "gas:candidate-vibid:1001000136099": 29,
+      "gas:candidate-vibid:1001000190397": 360,
+      "gas:candidate-vibid:359300166762": 21,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 53,
-      "Каменских Александр Аркадьевич": 535,
-      "Плотников Олег Степанович": 40,
-      "Савостьянова Валентина Борисовна": 396,
-      "Токарев Алексей Иванович": 67,
-      "Против всех": 208
+      "gas:candidate-vibid:359300166698": 53,
+      "gas:candidate-vibid:359300166664": 535,
+      "gas:candidate-vibid:1001000136099": 40,
+      "gas:candidate-vibid:1001000190397": 396,
+      "gas:candidate-vibid:359300166762": 67,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 45,
-      "Каменских Александр Аркадьевич": 615,
-      "Плотников Олег Степанович": 34,
-      "Савостьянова Валентина Борисовна": 306,
-      "Токарев Алексей Иванович": 38,
-      "Против всех": 237
+      "gas:candidate-vibid:359300166698": 45,
+      "gas:candidate-vibid:359300166664": 615,
+      "gas:candidate-vibid:1001000136099": 34,
+      "gas:candidate-vibid:1001000190397": 306,
+      "gas:candidate-vibid:359300166762": 38,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 45,
-      "Каменских Александр Аркадьевич": 766,
-      "Плотников Олег Степанович": 46,
-      "Савостьянова Валентина Борисовна": 315,
-      "Токарев Алексей Иванович": 36,
-      "Против всех": 112
+      "gas:candidate-vibid:359300166698": 45,
+      "gas:candidate-vibid:359300166664": 766,
+      "gas:candidate-vibid:1001000136099": 46,
+      "gas:candidate-vibid:1001000190397": 315,
+      "gas:candidate-vibid:359300166762": 36,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 56,
-      "Каменских Александр Аркадьевич": 620,
-      "Плотников Олег Степанович": 43,
-      "Савостьянова Валентина Борисовна": 446,
-      "Токарев Алексей Иванович": 56,
-      "Против всех": 257
+      "gas:candidate-vibid:359300166698": 56,
+      "gas:candidate-vibid:359300166664": 620,
+      "gas:candidate-vibid:1001000136099": 43,
+      "gas:candidate-vibid:1001000190397": 446,
+      "gas:candidate-vibid:359300166762": 56,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 11,
-      "Каменских Александр Аркадьевич": 155,
-      "Плотников Олег Степанович": 9,
-      "Савостьянова Валентина Борисовна": 67,
-      "Токарев Алексей Иванович": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:359300166698": 11,
+      "gas:candidate-vibid:359300166664": 155,
+      "gas:candidate-vibid:1001000136099": 9,
+      "gas:candidate-vibid:1001000190397": 67,
+      "gas:candidate-vibid:359300166762": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 51,
-      "Каменских Александр Аркадьевич": 339,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 309,
-      "Токарев Алексей Иванович": 50,
-      "Против всех": 199
+      "gas:candidate-vibid:359300166698": 51,
+      "gas:candidate-vibid:359300166664": 339,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 309,
+      "gas:candidate-vibid:359300166762": 50,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 46,
-      "Каменских Александр Аркадьевич": 581,
-      "Плотников Олег Степанович": 58,
-      "Савостьянова Валентина Борисовна": 389,
-      "Токарев Алексей Иванович": 72,
-      "Против всех": 241
+      "gas:candidate-vibid:359300166698": 46,
+      "gas:candidate-vibid:359300166664": 581,
+      "gas:candidate-vibid:1001000136099": 58,
+      "gas:candidate-vibid:1001000190397": 389,
+      "gas:candidate-vibid:359300166762": 72,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 33,
-      "Каменских Александр Аркадьевич": 834,
-      "Плотников Олег Степанович": 42,
-      "Савостьянова Валентина Борисовна": 319,
-      "Токарев Алексей Иванович": 72,
-      "Против всех": 256
+      "gas:candidate-vibid:359300166698": 33,
+      "gas:candidate-vibid:359300166664": 834,
+      "gas:candidate-vibid:1001000136099": 42,
+      "gas:candidate-vibid:1001000190397": 319,
+      "gas:candidate-vibid:359300166762": 72,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 14,
-      "Каменских Александр Аркадьевич": 206,
-      "Плотников Олег Степанович": 19,
-      "Савостьянова Валентина Борисовна": 153,
-      "Токарев Алексей Иванович": 13,
-      "Против всех": 50
+      "gas:candidate-vibid:359300166698": 14,
+      "gas:candidate-vibid:359300166664": 206,
+      "gas:candidate-vibid:1001000136099": 19,
+      "gas:candidate-vibid:1001000190397": 153,
+      "gas:candidate-vibid:359300166762": 13,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 17,
-      "Каменских Александр Аркадьевич": 270,
-      "Плотников Олег Степанович": 16,
-      "Савостьянова Валентина Борисовна": 225,
-      "Токарев Алексей Иванович": 16,
-      "Против всех": 80
+      "gas:candidate-vibid:359300166698": 17,
+      "gas:candidate-vibid:359300166664": 270,
+      "gas:candidate-vibid:1001000136099": 16,
+      "gas:candidate-vibid:1001000190397": 225,
+      "gas:candidate-vibid:359300166762": 16,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 44,
-      "Каменских Александр Аркадьевич": 520,
-      "Плотников Олег Степанович": 36,
-      "Савостьянова Валентина Борисовна": 466,
-      "Токарев Алексей Иванович": 41,
-      "Против всех": 161
+      "gas:candidate-vibid:359300166698": 44,
+      "gas:candidate-vibid:359300166664": 520,
+      "gas:candidate-vibid:1001000136099": 36,
+      "gas:candidate-vibid:1001000190397": 466,
+      "gas:candidate-vibid:359300166762": 41,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 130,
-      "Плотников Олег Степанович": 5,
-      "Савостьянова Валентина Борисовна": 91,
-      "Токарев Алексей Иванович": 10,
-      "Против всех": 30
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 130,
+      "gas:candidate-vibid:1001000136099": 5,
+      "gas:candidate-vibid:1001000190397": 91,
+      "gas:candidate-vibid:359300166762": 10,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 43,
-      "Каменских Александр Аркадьевич": 270,
-      "Плотников Олег Степанович": 14,
-      "Савостьянова Валентина Борисовна": 252,
-      "Токарев Алексей Иванович": 9,
-      "Против всех": 76
+      "gas:candidate-vibid:359300166698": 43,
+      "gas:candidate-vibid:359300166664": 270,
+      "gas:candidate-vibid:1001000136099": 14,
+      "gas:candidate-vibid:1001000190397": 252,
+      "gas:candidate-vibid:359300166762": 9,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 124,
-      "Плотников Олег Степанович": 8,
-      "Савостьянова Валентина Борисовна": 49,
-      "Токарев Алексей Иванович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 124,
+      "gas:candidate-vibid:1001000136099": 8,
+      "gas:candidate-vibid:1001000190397": 49,
+      "gas:candidate-vibid:359300166762": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 83,
-      "Плотников Олег Степанович": 9,
-      "Савостьянова Валентина Борисовна": 18,
-      "Токарев Алексей Иванович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 83,
+      "gas:candidate-vibid:1001000136099": 9,
+      "gas:candidate-vibid:1001000190397": 18,
+      "gas:candidate-vibid:359300166762": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 21,
-      "Каменских Александр Аркадьевич": 120,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 92,
-      "Токарев Алексей Иванович": 34,
-      "Против всех": 66
+      "gas:candidate-vibid:359300166698": 21,
+      "gas:candidate-vibid:359300166664": 120,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 92,
+      "gas:candidate-vibid:359300166762": 34,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 20,
-      "Каменских Александр Аркадьевич": 228,
-      "Плотников Олег Степанович": 27,
-      "Савостьянова Валентина Борисовна": 176,
-      "Токарев Алексей Иванович": 10,
-      "Против всех": 120
+      "gas:candidate-vibid:359300166698": 20,
+      "gas:candidate-vibid:359300166664": 228,
+      "gas:candidate-vibid:1001000136099": 27,
+      "gas:candidate-vibid:1001000190397": 176,
+      "gas:candidate-vibid:359300166762": 10,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 6,
-      "Каменских Александр Аркадьевич": 136,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 38,
-      "Токарев Алексей Иванович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:359300166698": 6,
+      "gas:candidate-vibid:359300166664": 136,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 38,
+      "gas:candidate-vibid:359300166762": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 1,
-      "Каменских Александр Аркадьевич": 44,
-      "Плотников Олег Степанович": 0,
-      "Савостьянова Валентина Борисовна": 8,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:359300166698": 1,
+      "gas:candidate-vibid:359300166664": 44,
+      "gas:candidate-vibid:1001000136099": 0,
+      "gas:candidate-vibid:1001000190397": 8,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072732&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 37,
-      "Каменских Александр Аркадьевич": 519,
-      "Плотников Олег Степанович": 27,
-      "Савостьянова Валентина Борисовна": 546,
-      "Токарев Алексей Иванович": 26,
-      "Против всех": 188
+      "gas:candidate-vibid:359300166698": 37,
+      "gas:candidate-vibid:359300166664": 519,
+      "gas:candidate-vibid:1001000136099": 27,
+      "gas:candidate-vibid:1001000190397": 546,
+      "gas:candidate-vibid:359300166762": 26,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 10,
-      "Каменских Александр Аркадьевич": 126,
-      "Плотников Олег Степанович": 11,
-      "Савостьянова Валентина Борисовна": 116,
-      "Токарев Алексей Иванович": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:359300166698": 10,
+      "gas:candidate-vibid:359300166664": 126,
+      "gas:candidate-vibid:1001000136099": 11,
+      "gas:candidate-vibid:1001000190397": 116,
+      "gas:candidate-vibid:359300166762": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 25,
-      "Каменских Александр Аркадьевич": 458,
-      "Плотников Олег Степанович": 36,
-      "Савостьянова Валентина Борисовна": 666,
-      "Токарев Алексей Иванович": 35,
-      "Против всех": 203
+      "gas:candidate-vibid:359300166698": 25,
+      "gas:candidate-vibid:359300166664": 458,
+      "gas:candidate-vibid:1001000136099": 36,
+      "gas:candidate-vibid:1001000190397": 666,
+      "gas:candidate-vibid:359300166762": 35,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 38,
-      "Каменских Александр Аркадьевич": 475,
-      "Плотников Олег Степанович": 22,
-      "Савостьянова Валентина Борисовна": 434,
-      "Токарев Алексей Иванович": 27,
-      "Против всех": 163
+      "gas:candidate-vibid:359300166698": 38,
+      "gas:candidate-vibid:359300166664": 475,
+      "gas:candidate-vibid:1001000136099": 22,
+      "gas:candidate-vibid:1001000190397": 434,
+      "gas:candidate-vibid:359300166762": 27,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 31,
-      "Каменских Александр Аркадьевич": 286,
-      "Плотников Олег Степанович": 15,
-      "Савостьянова Валентина Борисовна": 216,
-      "Токарев Алексей Иванович": 8,
-      "Против всех": 110
+      "gas:candidate-vibid:359300166698": 31,
+      "gas:candidate-vibid:359300166664": 286,
+      "gas:candidate-vibid:1001000136099": 15,
+      "gas:candidate-vibid:1001000190397": 216,
+      "gas:candidate-vibid:359300166762": 8,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 265,
-      "Плотников Олег Степанович": 11,
-      "Савостьянова Валентина Борисовна": 149,
-      "Токарев Алексей Иванович": 5,
-      "Против всех": 44
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 265,
+      "gas:candidate-vibid:1001000136099": 11,
+      "gas:candidate-vibid:1001000190397": 149,
+      "gas:candidate-vibid:359300166762": 5,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 247,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 169,
-      "Токарев Алексей Иванович": 3,
-      "Против всех": 51
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 247,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 169,
+      "gas:candidate-vibid:359300166762": 3,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 79,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 112,
-      "Токарев Алексей Иванович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 79,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 112,
+      "gas:candidate-vibid:359300166762": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 11,
-      "Каменских Александр Аркадьевич": 41,
-      "Плотников Олег Степанович": 3,
-      "Савостьянова Валентина Борисовна": 92,
-      "Токарев Алексей Иванович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:359300166698": 11,
+      "gas:candidate-vibid:359300166664": 41,
+      "gas:candidate-vibid:1001000136099": 3,
+      "gas:candidate-vibid:1001000190397": 92,
+      "gas:candidate-vibid:359300166762": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 8,
-      "Каменских Александр Аркадьевич": 84,
-      "Плотников Олег Степанович": 4,
-      "Савостьянова Валентина Борисовна": 158,
-      "Токарев Алексей Иванович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:359300166698": 8,
+      "gas:candidate-vibid:359300166664": 84,
+      "gas:candidate-vibid:1001000136099": 4,
+      "gas:candidate-vibid:1001000190397": 158,
+      "gas:candidate-vibid:359300166762": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 201,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 198,
-      "Токарев Алексей Иванович": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 201,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 198,
+      "gas:candidate-vibid:359300166762": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 25,
-      "Каменских Александр Аркадьевич": 566,
-      "Плотников Олег Степанович": 29,
-      "Савостьянова Валентина Борисовна": 377,
-      "Токарев Алексей Иванович": 18,
-      "Против всех": 111
+      "gas:candidate-vibid:359300166698": 25,
+      "gas:candidate-vibid:359300166664": 566,
+      "gas:candidate-vibid:1001000136099": 29,
+      "gas:candidate-vibid:1001000190397": 377,
+      "gas:candidate-vibid:359300166762": 18,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 17,
-      "Каменских Александр Аркадьевич": 360,
-      "Плотников Олег Степанович": 20,
-      "Савостьянова Валентина Борисовна": 255,
-      "Токарев Алексей Иванович": 11,
-      "Против всех": 90
+      "gas:candidate-vibid:359300166698": 17,
+      "gas:candidate-vibid:359300166664": 360,
+      "gas:candidate-vibid:1001000136099": 20,
+      "gas:candidate-vibid:1001000190397": 255,
+      "gas:candidate-vibid:359300166762": 11,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 0,
-      "Каменских Александр Аркадьевич": 32,
-      "Плотников Олег Степанович": 1,
-      "Савостьянова Валентина Борисовна": 28,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:359300166698": 0,
+      "gas:candidate-vibid:359300166664": 32,
+      "gas:candidate-vibid:1001000136099": 1,
+      "gas:candidate-vibid:1001000190397": 28,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 24,
-      "Плотников Олег Степанович": 2,
-      "Савостьянова Валентина Борисовна": 52,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 24,
+      "gas:candidate-vibid:1001000136099": 2,
+      "gas:candidate-vibid:1001000190397": 52,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072733&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 59,
-      "Каменских Александр Аркадьевич": 503,
-      "Плотников Олег Степанович": 41,
-      "Савостьянова Валентина Борисовна": 652,
-      "Токарев Алексей Иванович": 44,
-      "Против всех": 203
+      "gas:candidate-vibid:359300166698": 59,
+      "gas:candidate-vibid:359300166664": 503,
+      "gas:candidate-vibid:1001000136099": 41,
+      "gas:candidate-vibid:1001000190397": 652,
+      "gas:candidate-vibid:359300166762": 44,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 55,
-      "Каменских Александр Аркадьевич": 456,
-      "Плотников Олег Степанович": 36,
-      "Савостьянова Валентина Борисовна": 681,
-      "Токарев Алексей Иванович": 51,
-      "Против всех": 194
+      "gas:candidate-vibid:359300166698": 55,
+      "gas:candidate-vibid:359300166664": 456,
+      "gas:candidate-vibid:1001000136099": 36,
+      "gas:candidate-vibid:1001000190397": 681,
+      "gas:candidate-vibid:359300166762": 51,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 55,
-      "Каменских Александр Аркадьевич": 469,
-      "Плотников Олег Степанович": 39,
-      "Савостьянова Валентина Борисовна": 619,
-      "Токарев Алексей Иванович": 72,
-      "Против всех": 219
+      "gas:candidate-vibid:359300166698": 55,
+      "gas:candidate-vibid:359300166664": 469,
+      "gas:candidate-vibid:1001000136099": 39,
+      "gas:candidate-vibid:1001000190397": 619,
+      "gas:candidate-vibid:359300166762": 72,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 58,
-      "Каменских Александр Аркадьевич": 537,
-      "Плотников Олег Степанович": 27,
-      "Савостьянова Валентина Борисовна": 602,
-      "Токарев Алексей Иванович": 42,
-      "Против всех": 234
+      "gas:candidate-vibid:359300166698": 58,
+      "gas:candidate-vibid:359300166664": 537,
+      "gas:candidate-vibid:1001000136099": 27,
+      "gas:candidate-vibid:1001000190397": 602,
+      "gas:candidate-vibid:359300166762": 42,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 2,
-      "Каменских Александр Аркадьевич": 85,
-      "Плотников Олег Степанович": 10,
-      "Савостьянова Валентина Борисовна": 47,
-      "Токарев Алексей Иванович": 13,
-      "Против всех": 21
+      "gas:candidate-vibid:359300166698": 2,
+      "gas:candidate-vibid:359300166664": 85,
+      "gas:candidate-vibid:1001000136099": 10,
+      "gas:candidate-vibid:1001000190397": 47,
+      "gas:candidate-vibid:359300166762": 13,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 5,
-      "Каменских Александр Аркадьевич": 67,
-      "Плотников Олег Степанович": 3,
-      "Савостьянова Валентина Борисовна": 101,
-      "Токарев Алексей Иванович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:359300166698": 5,
+      "gas:candidate-vibid:359300166664": 67,
+      "gas:candidate-vibid:1001000136099": 3,
+      "gas:candidate-vibid:1001000190397": 101,
+      "gas:candidate-vibid:359300166762": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 19,
-      "Каменских Александр Аркадьевич": 201,
-      "Плотников Олег Степанович": 18,
-      "Савостьянова Валентина Борисовна": 309,
-      "Токарев Алексей Иванович": 25,
-      "Против всех": 75
+      "gas:candidate-vibid:359300166698": 19,
+      "gas:candidate-vibid:359300166664": 201,
+      "gas:candidate-vibid:1001000136099": 18,
+      "gas:candidate-vibid:1001000190397": 309,
+      "gas:candidate-vibid:359300166762": 25,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 31,
-      "Каменских Александр Аркадьевич": 335,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 438,
-      "Токарев Алексей Иванович": 16,
-      "Против всех": 136
+      "gas:candidate-vibid:359300166698": 31,
+      "gas:candidate-vibid:359300166664": 335,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 438,
+      "gas:candidate-vibid:359300166762": 16,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 16,
-      "Каменских Александр Аркадьевич": 140,
-      "Плотников Олег Степанович": 12,
-      "Савостьянова Валентина Борисовна": 200,
-      "Токарев Алексей Иванович": 15,
-      "Против всех": 54
+      "gas:candidate-vibid:359300166698": 16,
+      "gas:candidate-vibid:359300166664": 140,
+      "gas:candidate-vibid:1001000136099": 12,
+      "gas:candidate-vibid:1001000190397": 200,
+      "gas:candidate-vibid:359300166762": 15,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 106,
-      "Плотников Олег Степанович": 4,
-      "Савостьянова Валентина Борисовна": 107,
-      "Токарев Алексей Иванович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 106,
+      "gas:candidate-vibid:1001000136099": 4,
+      "gas:candidate-vibid:1001000190397": 107,
+      "gas:candidate-vibid:359300166762": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 21,
-      "Каменских Александр Аркадьевич": 290,
-      "Плотников Олег Степанович": 11,
-      "Савостьянова Валентина Борисовна": 377,
-      "Токарев Алексей Иванович": 29,
-      "Против всех": 95
+      "gas:candidate-vibid:359300166698": 21,
+      "gas:candidate-vibid:359300166664": 290,
+      "gas:candidate-vibid:1001000136099": 11,
+      "gas:candidate-vibid:1001000190397": 377,
+      "gas:candidate-vibid:359300166762": 29,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 21,
-      "Плотников Олег Степанович": 1,
-      "Савостьянова Валентина Борисовна": 27,
-      "Токарев Алексей Иванович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 21,
+      "gas:candidate-vibid:1001000136099": 1,
+      "gas:candidate-vibid:1001000190397": 27,
+      "gas:candidate-vibid:359300166762": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 15,
-      "Каменских Александр Аркадьевич": 189,
-      "Плотников Олег Степанович": 21,
-      "Савостьянова Валентина Борисовна": 165,
-      "Токарев Алексей Иванович": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:359300166698": 15,
+      "gas:candidate-vibid:359300166664": 189,
+      "gas:candidate-vibid:1001000136099": 21,
+      "gas:candidate-vibid:1001000190397": 165,
+      "gas:candidate-vibid:359300166762": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 28,
-      "Каменских Александр Аркадьевич": 402,
-      "Плотников Олег Степанович": 14,
-      "Савостьянова Валентина Борисовна": 457,
-      "Токарев Алексей Иванович": 59,
-      "Против всех": 144
+      "gas:candidate-vibid:359300166698": 28,
+      "gas:candidate-vibid:359300166664": 402,
+      "gas:candidate-vibid:1001000136099": 14,
+      "gas:candidate-vibid:1001000190397": 457,
+      "gas:candidate-vibid:359300166762": 59,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 27,
-      "Каменских Александр Аркадьевич": 314,
-      "Плотников Олег Степанович": 13,
-      "Савостьянова Валентина Борисовна": 146,
-      "Токарев Алексей Иванович": 4,
-      "Против всех": 82
+      "gas:candidate-vibid:359300166698": 27,
+      "gas:candidate-vibid:359300166664": 314,
+      "gas:candidate-vibid:1001000136099": 13,
+      "gas:candidate-vibid:1001000190397": 146,
+      "gas:candidate-vibid:359300166762": 4,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 14,
-      "Каменских Александр Аркадьевич": 135,
-      "Плотников Олег Степанович": 2,
-      "Савостьянова Валентина Борисовна": 139,
-      "Токарев Алексей Иванович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:359300166698": 14,
+      "gas:candidate-vibid:359300166664": 135,
+      "gas:candidate-vibid:1001000136099": 2,
+      "gas:candidate-vibid:1001000190397": 139,
+      "gas:candidate-vibid:359300166762": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 7,
-      "Каменских Александр Аркадьевич": 121,
-      "Плотников Олег Степанович": 12,
-      "Савостьянова Валентина Борисовна": 255,
-      "Токарев Алексей Иванович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:359300166698": 7,
+      "gas:candidate-vibid:359300166664": 121,
+      "gas:candidate-vibid:1001000136099": 12,
+      "gas:candidate-vibid:1001000190397": 255,
+      "gas:candidate-vibid:359300166762": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 9,
-      "Каменских Александр Аркадьевич": 108,
-      "Плотников Олег Степанович": 7,
-      "Савостьянова Валентина Борисовна": 155,
-      "Токарев Алексей Иванович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:359300166698": 9,
+      "gas:candidate-vibid:359300166664": 108,
+      "gas:candidate-vibid:1001000136099": 7,
+      "gas:candidate-vibid:1001000190397": 155,
+      "gas:candidate-vibid:359300166762": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 92,
-      "Плотников Олег Степанович": 3,
-      "Савостьянова Валентина Борисовна": 107,
-      "Токарев Алексей Иванович": 8,
-      "Против всех": 25
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 92,
+      "gas:candidate-vibid:1001000136099": 3,
+      "gas:candidate-vibid:1001000190397": 107,
+      "gas:candidate-vibid:359300166762": 8,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 6,
-      "Каменских Александр Аркадьевич": 75,
-      "Плотников Олег Степанович": 4,
-      "Савостьянова Валентина Борисовна": 136,
-      "Токарев Алексей Иванович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:359300166698": 6,
+      "gas:candidate-vibid:359300166664": 75,
+      "gas:candidate-vibid:1001000136099": 4,
+      "gas:candidate-vibid:1001000190397": 136,
+      "gas:candidate-vibid:359300166762": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 6,
-      "Каменских Александр Аркадьевич": 103,
-      "Плотников Олег Степанович": 12,
-      "Савостьянова Валентина Борисовна": 144,
-      "Токарев Алексей Иванович": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:359300166698": 6,
+      "gas:candidate-vibid:359300166664": 103,
+      "gas:candidate-vibid:1001000136099": 12,
+      "gas:candidate-vibid:1001000190397": 144,
+      "gas:candidate-vibid:359300166762": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072734&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 57,
-      "Каменских Александр Аркадьевич": 466,
-      "Плотников Олег Степанович": 68,
-      "Савостьянова Валентина Борисовна": 549,
-      "Токарев Алексей Иванович": 210,
-      "Против всех": 327
+      "gas:candidate-vibid:359300166698": 57,
+      "gas:candidate-vibid:359300166664": 466,
+      "gas:candidate-vibid:1001000136099": 68,
+      "gas:candidate-vibid:1001000190397": 549,
+      "gas:candidate-vibid:359300166762": 210,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 54,
-      "Каменских Александр Аркадьевич": 270,
-      "Плотников Олег Степанович": 55,
-      "Савостьянова Валентина Борисовна": 480,
-      "Токарев Алексей Иванович": 170,
-      "Против всех": 228
+      "gas:candidate-vibid:359300166698": 54,
+      "gas:candidate-vibid:359300166664": 270,
+      "gas:candidate-vibid:1001000136099": 55,
+      "gas:candidate-vibid:1001000190397": 480,
+      "gas:candidate-vibid:359300166762": 170,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 56,
-      "Каменских Александр Аркадьевич": 364,
-      "Плотников Олег Степанович": 75,
-      "Савостьянова Валентина Борисовна": 383,
-      "Токарев Алексей Иванович": 207,
-      "Против всех": 273
+      "gas:candidate-vibid:359300166698": 56,
+      "gas:candidate-vibid:359300166664": 364,
+      "gas:candidate-vibid:1001000136099": 75,
+      "gas:candidate-vibid:1001000190397": 383,
+      "gas:candidate-vibid:359300166762": 207,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 6,
-      "Каменских Александр Аркадьевич": 58,
-      "Плотников Олег Степанович": 6,
-      "Савостьянова Валентина Борисовна": 31,
-      "Токарев Алексей Иванович": 17,
-      "Против всех": 30
+      "gas:candidate-vibid:359300166698": 6,
+      "gas:candidate-vibid:359300166664": 58,
+      "gas:candidate-vibid:1001000136099": 6,
+      "gas:candidate-vibid:1001000190397": 31,
+      "gas:candidate-vibid:359300166762": 17,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 18,
-      "Каменских Александр Аркадьевич": 90,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 266,
-      "Токарев Алексей Иванович": 67,
-      "Против всех": 92
+      "gas:candidate-vibid:359300166698": 18,
+      "gas:candidate-vibid:359300166664": 90,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 266,
+      "gas:candidate-vibid:359300166762": 67,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 0,
-      "Каменских Александр Аркадьевич": 85,
-      "Плотников Олег Степанович": 4,
-      "Савостьянова Валентина Борисовна": 58,
-      "Токарев Алексей Иванович": 19,
-      "Против всех": 9
+      "gas:candidate-vibid:359300166698": 0,
+      "gas:candidate-vibid:359300166664": 85,
+      "gas:candidate-vibid:1001000136099": 4,
+      "gas:candidate-vibid:1001000190397": 58,
+      "gas:candidate-vibid:359300166762": 19,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 45,
-      "Каменских Александр Аркадьевич": 297,
-      "Плотников Олег Степанович": 40,
-      "Савостьянова Валентина Борисовна": 370,
-      "Токарев Алексей Иванович": 186,
-      "Против всех": 229
+      "gas:candidate-vibid:359300166698": 45,
+      "gas:candidate-vibid:359300166664": 297,
+      "gas:candidate-vibid:1001000136099": 40,
+      "gas:candidate-vibid:1001000190397": 370,
+      "gas:candidate-vibid:359300166762": 186,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 51,
-      "Каменских Александр Аркадьевич": 266,
-      "Плотников Олег Степанович": 55,
-      "Савостьянова Валентина Борисовна": 416,
-      "Токарев Алексей Иванович": 182,
-      "Против всех": 234
+      "gas:candidate-vibid:359300166698": 51,
+      "gas:candidate-vibid:359300166664": 266,
+      "gas:candidate-vibid:1001000136099": 55,
+      "gas:candidate-vibid:1001000190397": 416,
+      "gas:candidate-vibid:359300166762": 182,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 53,
-      "Каменских Александр Аркадьевич": 346,
-      "Плотников Олег Степанович": 39,
-      "Савостьянова Валентина Борисовна": 565,
-      "Токарев Алексей Иванович": 237,
-      "Против всех": 340
+      "gas:candidate-vibid:359300166698": 53,
+      "gas:candidate-vibid:359300166664": 346,
+      "gas:candidate-vibid:1001000136099": 39,
+      "gas:candidate-vibid:1001000190397": 565,
+      "gas:candidate-vibid:359300166762": 237,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 54,
-      "Каменских Александр Аркадьевич": 320,
-      "Плотников Олег Степанович": 42,
-      "Савостьянова Валентина Борисовна": 439,
-      "Токарев Алексей Иванович": 146,
-      "Против всех": 262
+      "gas:candidate-vibid:359300166698": 54,
+      "gas:candidate-vibid:359300166664": 320,
+      "gas:candidate-vibid:1001000136099": 42,
+      "gas:candidate-vibid:1001000190397": 439,
+      "gas:candidate-vibid:359300166762": 146,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 3,
-      "Каменских Александр Аркадьевич": 43,
-      "Плотников Олег Степанович": 4,
-      "Савостьянова Валентина Борисовна": 24,
-      "Токарев Алексей Иванович": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:359300166698": 3,
+      "gas:candidate-vibid:359300166664": 43,
+      "gas:candidate-vibid:1001000136099": 4,
+      "gas:candidate-vibid:1001000190397": 24,
+      "gas:candidate-vibid:359300166762": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 25,
-      "Каменских Александр Аркадьевич": 97,
-      "Плотников Олег Степанович": 17,
-      "Савостьянова Валентина Борисовна": 226,
-      "Токарев Алексей Иванович": 87,
-      "Против всех": 102
+      "gas:candidate-vibid:359300166698": 25,
+      "gas:candidate-vibid:359300166664": 97,
+      "gas:candidate-vibid:1001000136099": 17,
+      "gas:candidate-vibid:1001000190397": 226,
+      "gas:candidate-vibid:359300166762": 87,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 46,
-      "Каменских Александр Аркадьевич": 304,
-      "Плотников Олег Степанович": 35,
-      "Савостьянова Валентина Борисовна": 446,
-      "Токарев Алексей Иванович": 207,
-      "Против всех": 229
+      "gas:candidate-vibid:359300166698": 46,
+      "gas:candidate-vibid:359300166664": 304,
+      "gas:candidate-vibid:1001000136099": 35,
+      "gas:candidate-vibid:1001000190397": 446,
+      "gas:candidate-vibid:359300166762": 207,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 41,
-      "Каменских Александр Аркадьевич": 423,
-      "Плотников Олег Степанович": 40,
-      "Савостьянова Валентина Борисовна": 458,
-      "Токарев Алексей Иванович": 164,
-      "Против всех": 236
+      "gas:candidate-vibid:359300166698": 41,
+      "gas:candidate-vibid:359300166664": 423,
+      "gas:candidate-vibid:1001000136099": 40,
+      "gas:candidate-vibid:1001000190397": 458,
+      "gas:candidate-vibid:359300166762": 164,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 69,
-      "Каменских Александр Аркадьевич": 441,
-      "Плотников Олег Степанович": 65,
-      "Савостьянова Валентина Борисовна": 616,
-      "Токарев Алексей Иванович": 293,
-      "Против всех": 340
+      "gas:candidate-vibid:359300166698": 69,
+      "gas:candidate-vibid:359300166664": 441,
+      "gas:candidate-vibid:1001000136099": 65,
+      "gas:candidate-vibid:1001000190397": 616,
+      "gas:candidate-vibid:359300166762": 293,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 22,
-      "Каменских Александр Аркадьевич": 147,
-      "Плотников Олег Степанович": 16,
-      "Савостьянова Валентина Борисовна": 260,
-      "Токарев Алексей Иванович": 109,
-      "Против всех": 134
+      "gas:candidate-vibid:359300166698": 22,
+      "gas:candidate-vibid:359300166664": 147,
+      "gas:candidate-vibid:1001000136099": 16,
+      "gas:candidate-vibid:1001000190397": 260,
+      "gas:candidate-vibid:359300166762": 109,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 46,
-      "Каменских Александр Аркадьевич": 338,
-      "Плотников Олег Степанович": 44,
-      "Савостьянова Валентина Борисовна": 407,
-      "Токарев Алексей Иванович": 149,
-      "Против всех": 231
+      "gas:candidate-vibid:359300166698": 46,
+      "gas:candidate-vibid:359300166664": 338,
+      "gas:candidate-vibid:1001000136099": 44,
+      "gas:candidate-vibid:1001000190397": 407,
+      "gas:candidate-vibid:359300166762": 149,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 40,
-      "Каменских Александр Аркадьевич": 342,
-      "Плотников Олег Степанович": 43,
-      "Савостьянова Валентина Борисовна": 370,
-      "Токарев Алексей Иванович": 200,
-      "Против всех": 229
+      "gas:candidate-vibid:359300166698": 40,
+      "gas:candidate-vibid:359300166664": 342,
+      "gas:candidate-vibid:1001000136099": 43,
+      "gas:candidate-vibid:1001000190397": 370,
+      "gas:candidate-vibid:359300166762": 200,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 31,
-      "Каменских Александр Аркадьевич": 178,
-      "Плотников Олег Степанович": 20,
-      "Савостьянова Валентина Борисовна": 215,
-      "Токарев Алексей Иванович": 96,
-      "Против всех": 106
+      "gas:candidate-vibid:359300166698": 31,
+      "gas:candidate-vibid:359300166664": 178,
+      "gas:candidate-vibid:1001000136099": 20,
+      "gas:candidate-vibid:1001000190397": 215,
+      "gas:candidate-vibid:359300166762": 96,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 54,
-      "Каменских Александр Аркадьевич": 392,
-      "Плотников Олег Степанович": 34,
-      "Савостьянова Валентина Борисовна": 596,
-      "Токарев Алексей Иванович": 185,
-      "Против всех": 293
+      "gas:candidate-vibid:359300166698": 54,
+      "gas:candidate-vibid:359300166664": 392,
+      "gas:candidate-vibid:1001000136099": 34,
+      "gas:candidate-vibid:1001000190397": 596,
+      "gas:candidate-vibid:359300166762": 185,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 60,
-      "Каменских Александр Аркадьевич": 371,
-      "Плотников Олег Степанович": 43,
-      "Савостьянова Валентина Борисовна": 583,
-      "Токарев Алексей Иванович": 196,
-      "Против всех": 236
+      "gas:candidate-vibid:359300166698": 60,
+      "gas:candidate-vibid:359300166664": 371,
+      "gas:candidate-vibid:1001000136099": 43,
+      "gas:candidate-vibid:1001000190397": 583,
+      "gas:candidate-vibid:359300166762": 196,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 40,
-      "Каменских Александр Аркадьевич": 509,
-      "Плотников Олег Степанович": 43,
-      "Савостьянова Валентина Борисовна": 455,
-      "Токарев Алексей Иванович": 169,
-      "Против всех": 220
+      "gas:candidate-vibid:359300166698": 40,
+      "gas:candidate-vibid:359300166664": 509,
+      "gas:candidate-vibid:1001000136099": 43,
+      "gas:candidate-vibid:1001000190397": 455,
+      "gas:candidate-vibid:359300166762": 169,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 26,
-      "Каменских Александр Аркадьевич": 362,
-      "Плотников Олег Степанович": 35,
-      "Савостьянова Валентина Борисовна": 380,
-      "Токарев Алексей Иванович": 163,
-      "Против всех": 183
+      "gas:candidate-vibid:359300166698": 26,
+      "gas:candidate-vibid:359300166664": 362,
+      "gas:candidate-vibid:1001000136099": 35,
+      "gas:candidate-vibid:1001000190397": 380,
+      "gas:candidate-vibid:359300166762": 163,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 31,
-      "Каменских Александр Аркадьевич": 266,
-      "Плотников Олег Степанович": 42,
-      "Савостьянова Валентина Борисовна": 339,
-      "Токарев Алексей Иванович": 169,
-      "Против всех": 180
+      "gas:candidate-vibid:359300166698": 31,
+      "gas:candidate-vibid:359300166664": 266,
+      "gas:candidate-vibid:1001000136099": 42,
+      "gas:candidate-vibid:1001000190397": 339,
+      "gas:candidate-vibid:359300166762": 169,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 33,
-      "Каменских Александр Аркадьевич": 241,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 318,
-      "Токарев Алексей Иванович": 112,
-      "Против всех": 127
+      "gas:candidate-vibid:359300166698": 33,
+      "gas:candidate-vibid:359300166664": 241,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 318,
+      "gas:candidate-vibid:359300166762": 112,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 34,
-      "Каменских Александр Аркадьевич": 331,
-      "Плотников Олег Степанович": 57,
-      "Савостьянова Валентина Борисовна": 428,
-      "Токарев Алексей Иванович": 175,
-      "Против всех": 228
+      "gas:candidate-vibid:359300166698": 34,
+      "gas:candidate-vibid:359300166664": 331,
+      "gas:candidate-vibid:1001000136099": 57,
+      "gas:candidate-vibid:1001000190397": 428,
+      "gas:candidate-vibid:359300166762": 175,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 42,
-      "Каменских Александр Аркадьевич": 305,
-      "Плотников Олег Степанович": 55,
-      "Савостьянова Валентина Борисовна": 407,
-      "Токарев Алексей Иванович": 231,
-      "Против всех": 203
+      "gas:candidate-vibid:359300166698": 42,
+      "gas:candidate-vibid:359300166664": 305,
+      "gas:candidate-vibid:1001000136099": 55,
+      "gas:candidate-vibid:1001000190397": 407,
+      "gas:candidate-vibid:359300166762": 231,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 49,
-      "Каменских Александр Аркадьевич": 371,
-      "Плотников Олег Степанович": 45,
-      "Савостьянова Валентина Борисовна": 551,
-      "Токарев Алексей Иванович": 234,
-      "Против всех": 291
+      "gas:candidate-vibid:359300166698": 49,
+      "gas:candidate-vibid:359300166664": 371,
+      "gas:candidate-vibid:1001000136099": 45,
+      "gas:candidate-vibid:1001000190397": 551,
+      "gas:candidate-vibid:359300166762": 234,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 53,
-      "Каменских Александр Аркадьевич": 366,
-      "Плотников Олег Степанович": 35,
-      "Савостьянова Валентина Борисовна": 358,
-      "Токарев Алексей Иванович": 173,
-      "Против всех": 307
+      "gas:candidate-vibid:359300166698": 53,
+      "gas:candidate-vibid:359300166664": 366,
+      "gas:candidate-vibid:1001000136099": 35,
+      "gas:candidate-vibid:1001000190397": 358,
+      "gas:candidate-vibid:359300166762": 173,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 58,
-      "Каменских Александр Аркадьевич": 393,
-      "Плотников Олег Степанович": 55,
-      "Савостьянова Валентина Борисовна": 423,
-      "Токарев Алексей Иванович": 153,
-      "Против всех": 305
+      "gas:candidate-vibid:359300166698": 58,
+      "gas:candidate-vibid:359300166664": 393,
+      "gas:candidate-vibid:1001000136099": 55,
+      "gas:candidate-vibid:1001000190397": 423,
+      "gas:candidate-vibid:359300166762": 153,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 53,
-      "Каменских Александр Аркадьевич": 449,
-      "Плотников Олег Степанович": 66,
-      "Савостьянова Валентина Борисовна": 563,
-      "Токарев Алексей Иванович": 209,
-      "Против всех": 396
+      "gas:candidate-vibid:359300166698": 53,
+      "gas:candidate-vibid:359300166664": 449,
+      "gas:candidate-vibid:1001000136099": 66,
+      "gas:candidate-vibid:1001000190397": 563,
+      "gas:candidate-vibid:359300166762": 209,
+      "special:against-all": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 59,
-      "Каменских Александр Аркадьевич": 339,
-      "Плотников Олег Степанович": 62,
-      "Савостьянова Валентина Борисовна": 585,
-      "Токарев Алексей Иванович": 230,
-      "Против всех": 223
+      "gas:candidate-vibid:359300166698": 59,
+      "gas:candidate-vibid:359300166664": 339,
+      "gas:candidate-vibid:1001000136099": 62,
+      "gas:candidate-vibid:1001000190397": 585,
+      "gas:candidate-vibid:359300166762": 230,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 47,
-      "Каменских Александр Аркадьевич": 415,
-      "Плотников Олег Степанович": 44,
-      "Савостьянова Валентина Борисовна": 556,
-      "Токарев Алексей Иванович": 265,
-      "Против всех": 315
+      "gas:candidate-vibid:359300166698": 47,
+      "gas:candidate-vibid:359300166664": 415,
+      "gas:candidate-vibid:1001000136099": 44,
+      "gas:candidate-vibid:1001000190397": 556,
+      "gas:candidate-vibid:359300166762": 265,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 55,
-      "Каменских Александр Аркадьевич": 438,
-      "Плотников Олег Степанович": 48,
-      "Савостьянова Валентина Борисовна": 472,
-      "Токарев Алексей Иванович": 200,
-      "Против всех": 282
+      "gas:candidate-vibid:359300166698": 55,
+      "gas:candidate-vibid:359300166664": 438,
+      "gas:candidate-vibid:1001000136099": 48,
+      "gas:candidate-vibid:1001000190397": 472,
+      "gas:candidate-vibid:359300166762": 200,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 47,
-      "Каменских Александр Аркадьевич": 432,
-      "Плотников Олег Степанович": 50,
-      "Савостьянова Валентина Борисовна": 524,
-      "Токарев Алексей Иванович": 215,
-      "Против всех": 278
+      "gas:candidate-vibid:359300166698": 47,
+      "gas:candidate-vibid:359300166664": 432,
+      "gas:candidate-vibid:1001000136099": 50,
+      "gas:candidate-vibid:1001000190397": 524,
+      "gas:candidate-vibid:359300166762": 215,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 44,
-      "Каменских Александр Аркадьевич": 292,
-      "Плотников Олег Степанович": 42,
-      "Савостьянова Валентина Борисовна": 581,
-      "Токарев Алексей Иванович": 158,
-      "Против всех": 208
+      "gas:candidate-vibid:359300166698": 44,
+      "gas:candidate-vibid:359300166664": 292,
+      "gas:candidate-vibid:1001000136099": 42,
+      "gas:candidate-vibid:1001000190397": 581,
+      "gas:candidate-vibid:359300166762": 158,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 55,
-      "Каменских Александр Аркадьевич": 391,
-      "Плотников Олег Степанович": 41,
-      "Савостьянова Валентина Борисовна": 493,
-      "Токарев Алексей Иванович": 163,
-      "Против всех": 253
+      "gas:candidate-vibid:359300166698": 55,
+      "gas:candidate-vibid:359300166664": 391,
+      "gas:candidate-vibid:1001000136099": 41,
+      "gas:candidate-vibid:1001000190397": 493,
+      "gas:candidate-vibid:359300166762": 163,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 52,
-      "Каменских Александр Аркадьевич": 271,
-      "Плотников Олег Степанович": 51,
-      "Савостьянова Валентина Борисовна": 366,
-      "Токарев Алексей Иванович": 152,
-      "Против всех": 201
+      "gas:candidate-vibid:359300166698": 52,
+      "gas:candidate-vibid:359300166664": 271,
+      "gas:candidate-vibid:1001000136099": 51,
+      "gas:candidate-vibid:1001000190397": 366,
+      "gas:candidate-vibid:359300166762": 152,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 46,
-      "Каменских Александр Аркадьевич": 389,
-      "Плотников Олег Степанович": 42,
-      "Савостьянова Валентина Борисовна": 368,
-      "Токарев Алексей Иванович": 150,
-      "Против всех": 200
+      "gas:candidate-vibid:359300166698": 46,
+      "gas:candidate-vibid:359300166664": 389,
+      "gas:candidate-vibid:1001000136099": 42,
+      "gas:candidate-vibid:1001000190397": 368,
+      "gas:candidate-vibid:359300166762": 150,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 57,
-      "Каменских Александр Аркадьевич": 376,
-      "Плотников Олег Степанович": 64,
-      "Савостьянова Валентина Борисовна": 587,
-      "Токарев Алексей Иванович": 165,
-      "Против всех": 303
+      "gas:candidate-vibid:359300166698": 57,
+      "gas:candidate-vibid:359300166664": 376,
+      "gas:candidate-vibid:1001000136099": 64,
+      "gas:candidate-vibid:1001000190397": 587,
+      "gas:candidate-vibid:359300166762": 165,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 51,
-      "Каменских Александр Аркадьевич": 397,
-      "Плотников Олег Степанович": 62,
-      "Савостьянова Валентина Борисовна": 465,
-      "Токарев Алексей Иванович": 229,
-      "Против всех": 246
+      "gas:candidate-vibid:359300166698": 51,
+      "gas:candidate-vibid:359300166664": 397,
+      "gas:candidate-vibid:1001000136099": 62,
+      "gas:candidate-vibid:1001000190397": 465,
+      "gas:candidate-vibid:359300166762": 229,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 39,
-      "Каменских Александр Аркадьевич": 403,
-      "Плотников Олег Степанович": 64,
-      "Савостьянова Валентина Борисовна": 515,
-      "Токарев Алексей Иванович": 243,
-      "Против всех": 334
+      "gas:candidate-vibid:359300166698": 39,
+      "gas:candidate-vibid:359300166664": 403,
+      "gas:candidate-vibid:1001000136099": 64,
+      "gas:candidate-vibid:1001000190397": 515,
+      "gas:candidate-vibid:359300166762": 243,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 57,
-      "Каменских Александр Аркадьевич": 256,
-      "Плотников Олег Степанович": 44,
-      "Савостьянова Валентина Борисовна": 318,
-      "Токарев Алексей Иванович": 163,
-      "Против всех": 233
+      "gas:candidate-vibid:359300166698": 57,
+      "gas:candidate-vibid:359300166664": 256,
+      "gas:candidate-vibid:1001000136099": 44,
+      "gas:candidate-vibid:1001000190397": 318,
+      "gas:candidate-vibid:359300166762": 163,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 35,
-      "Каменских Александр Аркадьевич": 251,
-      "Плотников Олег Степанович": 28,
-      "Савостьянова Валентина Борисовна": 259,
-      "Токарев Алексей Иванович": 94,
-      "Против всех": 142
+      "gas:candidate-vibid:359300166698": 35,
+      "gas:candidate-vibid:359300166664": 251,
+      "gas:candidate-vibid:1001000136099": 28,
+      "gas:candidate-vibid:1001000190397": 259,
+      "gas:candidate-vibid:359300166762": 94,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 29,
-      "Каменских Александр Аркадьевич": 358,
-      "Плотников Олег Степанович": 39,
-      "Савостьянова Валентина Борисовна": 406,
-      "Токарев Алексей Иванович": 194,
-      "Против всех": 250
+      "gas:candidate-vibid:359300166698": 29,
+      "gas:candidate-vibid:359300166664": 358,
+      "gas:candidate-vibid:1001000136099": 39,
+      "gas:candidate-vibid:1001000190397": 406,
+      "gas:candidate-vibid:359300166762": 194,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 61,
-      "Каменских Александр Аркадьевич": 383,
-      "Плотников Олег Степанович": 59,
-      "Савостьянова Валентина Борисовна": 587,
-      "Токарев Алексей Иванович": 201,
-      "Против всех": 333
+      "gas:candidate-vibid:359300166698": 61,
+      "gas:candidate-vibid:359300166664": 383,
+      "gas:candidate-vibid:1001000136099": 59,
+      "gas:candidate-vibid:1001000190397": 587,
+      "gas:candidate-vibid:359300166762": 201,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 55,
-      "Каменских Александр Аркадьевич": 292,
-      "Плотников Олег Степанович": 36,
-      "Савостьянова Валентина Борисовна": 399,
-      "Токарев Алексей Иванович": 151,
-      "Против всех": 231
+      "gas:candidate-vibid:359300166698": 55,
+      "gas:candidate-vibid:359300166664": 292,
+      "gas:candidate-vibid:1001000136099": 36,
+      "gas:candidate-vibid:1001000190397": 399,
+      "gas:candidate-vibid:359300166762": 151,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 66,
-      "Каменских Александр Аркадьевич": 335,
-      "Плотников Олег Степанович": 58,
-      "Савостьянова Валентина Борисовна": 497,
-      "Токарев Алексей Иванович": 258,
-      "Против всех": 219
+      "gas:candidate-vibid:359300166698": 66,
+      "gas:candidate-vibid:359300166664": 335,
+      "gas:candidate-vibid:1001000136099": 58,
+      "gas:candidate-vibid:1001000190397": 497,
+      "gas:candidate-vibid:359300166762": 258,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 30,
-      "Каменских Александр Аркадьевич": 246,
-      "Плотников Олег Степанович": 38,
-      "Савостьянова Валентина Борисовна": 409,
-      "Токарев Алексей Иванович": 156,
-      "Против всех": 178
+      "gas:candidate-vibid:359300166698": 30,
+      "gas:candidate-vibid:359300166664": 246,
+      "gas:candidate-vibid:1001000136099": 38,
+      "gas:candidate-vibid:1001000190397": 409,
+      "gas:candidate-vibid:359300166762": 156,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 48,
-      "Каменских Александр Аркадьевич": 307,
-      "Плотников Олег Степанович": 44,
-      "Савостьянова Валентина Борисовна": 478,
-      "Токарев Алексей Иванович": 190,
-      "Против всех": 250
+      "gas:candidate-vibid:359300166698": 48,
+      "gas:candidate-vibid:359300166664": 307,
+      "gas:candidate-vibid:1001000136099": 44,
+      "gas:candidate-vibid:1001000190397": 478,
+      "gas:candidate-vibid:359300166762": 190,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 35,
-      "Каменских Александр Аркадьевич": 358,
-      "Плотников Олег Степанович": 42,
-      "Савостьянова Валентина Борисовна": 305,
-      "Токарев Алексей Иванович": 180,
-      "Против всех": 229
+      "gas:candidate-vibid:359300166698": 35,
+      "gas:candidate-vibid:359300166664": 358,
+      "gas:candidate-vibid:1001000136099": 42,
+      "gas:candidate-vibid:1001000190397": 305,
+      "gas:candidate-vibid:359300166762": 180,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 63,
-      "Каменских Александр Аркадьевич": 405,
-      "Плотников Олег Степанович": 68,
-      "Савостьянова Валентина Борисовна": 608,
-      "Токарев Алексей Иванович": 181,
-      "Против всех": 292
+      "gas:candidate-vibid:359300166698": 63,
+      "gas:candidate-vibid:359300166664": 405,
+      "gas:candidate-vibid:1001000136099": 68,
+      "gas:candidate-vibid:1001000190397": 608,
+      "gas:candidate-vibid:359300166762": 181,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 60,
-      "Каменских Александр Аркадьевич": 420,
-      "Плотников Олег Степанович": 52,
-      "Савостьянова Валентина Борисовна": 527,
-      "Токарев Алексей Иванович": 182,
-      "Против всех": 290
+      "gas:candidate-vibid:359300166698": 60,
+      "gas:candidate-vibid:359300166664": 420,
+      "gas:candidate-vibid:1001000136099": 52,
+      "gas:candidate-vibid:1001000190397": 527,
+      "gas:candidate-vibid:359300166762": 182,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 80,
-      "Каменских Александр Аркадьевич": 493,
-      "Плотников Олег Степанович": 68,
-      "Савостьянова Валентина Борисовна": 565,
-      "Токарев Алексей Иванович": 260,
-      "Против всех": 375
+      "gas:candidate-vibid:359300166698": 80,
+      "gas:candidate-vibid:359300166664": 493,
+      "gas:candidate-vibid:1001000136099": 68,
+      "gas:candidate-vibid:1001000190397": 565,
+      "gas:candidate-vibid:359300166762": 260,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 54,
-      "Каменских Александр Аркадьевич": 388,
-      "Плотников Олег Степанович": 32,
-      "Савостьянова Валентина Борисовна": 612,
-      "Токарев Алексей Иванович": 233,
-      "Против всех": 345
+      "gas:candidate-vibid:359300166698": 54,
+      "gas:candidate-vibid:359300166664": 388,
+      "gas:candidate-vibid:1001000136099": 32,
+      "gas:candidate-vibid:1001000190397": 612,
+      "gas:candidate-vibid:359300166762": 233,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 40,
-      "Каменских Александр Аркадьевич": 280,
-      "Плотников Олег Степанович": 34,
-      "Савостьянова Валентина Борисовна": 358,
-      "Токарев Алексей Иванович": 170,
-      "Против всех": 244
+      "gas:candidate-vibid:359300166698": 40,
+      "gas:candidate-vibid:359300166664": 280,
+      "gas:candidate-vibid:1001000136099": 34,
+      "gas:candidate-vibid:1001000190397": 358,
+      "gas:candidate-vibid:359300166762": 170,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 39,
-      "Каменских Александр Аркадьевич": 421,
-      "Плотников Олег Степанович": 37,
-      "Савостьянова Валентина Борисовна": 472,
-      "Токарев Алексей Иванович": 175,
-      "Против всех": 280
+      "gas:candidate-vibid:359300166698": 39,
+      "gas:candidate-vibid:359300166664": 421,
+      "gas:candidate-vibid:1001000136099": 37,
+      "gas:candidate-vibid:1001000190397": 472,
+      "gas:candidate-vibid:359300166762": 175,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 42,
-      "Каменских Александр Аркадьевич": 304,
-      "Плотников Олег Степанович": 34,
-      "Савостьянова Валентина Борисовна": 443,
-      "Токарев Алексей Иванович": 133,
-      "Против всех": 223
+      "gas:candidate-vibid:359300166698": 42,
+      "gas:candidate-vibid:359300166664": 304,
+      "gas:candidate-vibid:1001000136099": 34,
+      "gas:candidate-vibid:1001000190397": 443,
+      "gas:candidate-vibid:359300166762": 133,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 37,
-      "Каменских Александр Аркадьевич": 238,
-      "Плотников Олег Степанович": 43,
-      "Савостьянова Валентина Борисовна": 377,
-      "Токарев Алексей Иванович": 221,
-      "Против всех": 202
+      "gas:candidate-vibid:359300166698": 37,
+      "gas:candidate-vibid:359300166664": 238,
+      "gas:candidate-vibid:1001000136099": 43,
+      "gas:candidate-vibid:1001000190397": 377,
+      "gas:candidate-vibid:359300166762": 221,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 81,
-      "Каменских Александр Аркадьевич": 477,
-      "Плотников Олег Степанович": 57,
-      "Савостьянова Валентина Борисовна": 651,
-      "Токарев Алексей Иванович": 246,
-      "Против всех": 332
+      "gas:candidate-vibid:359300166698": 81,
+      "gas:candidate-vibid:359300166664": 477,
+      "gas:candidate-vibid:1001000136099": 57,
+      "gas:candidate-vibid:1001000190397": 651,
+      "gas:candidate-vibid:359300166762": 246,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 46,
-      "Каменских Александр Аркадьевич": 236,
-      "Плотников Олег Степанович": 60,
-      "Савостьянова Валентина Борисовна": 681,
-      "Токарев Алексей Иванович": 155,
-      "Против всех": 210
+      "gas:candidate-vibid:359300166698": 46,
+      "gas:candidate-vibid:359300166664": 236,
+      "gas:candidate-vibid:1001000136099": 60,
+      "gas:candidate-vibid:1001000190397": 681,
+      "gas:candidate-vibid:359300166762": 155,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 28,
-      "Каменских Александр Аркадьевич": 195,
-      "Плотников Олег Степанович": 32,
-      "Савостьянова Валентина Борисовна": 352,
-      "Токарев Алексей Иванович": 102,
-      "Против всех": 140
+      "gas:candidate-vibid:359300166698": 28,
+      "gas:candidate-vibid:359300166664": 195,
+      "gas:candidate-vibid:1001000136099": 32,
+      "gas:candidate-vibid:1001000190397": 352,
+      "gas:candidate-vibid:359300166762": 102,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 34,
-      "Каменских Александр Аркадьевич": 226,
-      "Плотников Олег Степанович": 39,
-      "Савостьянова Валентина Борисовна": 296,
-      "Токарев Алексей Иванович": 84,
-      "Против всех": 175
+      "gas:candidate-vibid:359300166698": 34,
+      "gas:candidate-vibid:359300166664": 226,
+      "gas:candidate-vibid:1001000136099": 39,
+      "gas:candidate-vibid:1001000190397": 296,
+      "gas:candidate-vibid:359300166762": 84,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 2,
-      "Каменских Александр Аркадьевич": 26,
-      "Плотников Олег Степанович": 2,
-      "Савостьянова Валентина Борисовна": 14,
-      "Токарев Алексей Иванович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:359300166698": 2,
+      "gas:candidate-vibid:359300166664": 26,
+      "gas:candidate-vibid:1001000136099": 2,
+      "gas:candidate-vibid:1001000190397": 14,
+      "gas:candidate-vibid:359300166762": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 14,
-      "Каменских Александр Аркадьевич": 81,
-      "Плотников Олег Степанович": 14,
-      "Савостьянова Валентина Борисовна": 128,
-      "Токарев Алексей Иванович": 53,
-      "Против всех": 62
+      "gas:candidate-vibid:359300166698": 14,
+      "gas:candidate-vibid:359300166664": 81,
+      "gas:candidate-vibid:1001000136099": 14,
+      "gas:candidate-vibid:1001000190397": 128,
+      "gas:candidate-vibid:359300166762": 53,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 22,
-      "Каменских Александр Аркадьевич": 211,
-      "Плотников Олег Степанович": 25,
-      "Савостьянова Валентина Борисовна": 243,
-      "Токарев Алексей Иванович": 104,
-      "Против всех": 134
+      "gas:candidate-vibid:359300166698": 22,
+      "gas:candidate-vibid:359300166664": 211,
+      "gas:candidate-vibid:1001000136099": 25,
+      "gas:candidate-vibid:1001000190397": 243,
+      "gas:candidate-vibid:359300166762": 104,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Грибова Любовь Николаевна": 4,
-      "Каменских Александр Аркадьевич": 33,
-      "Плотников Олег Степанович": 3,
-      "Савостьянова Валентина Борисовна": 52,
-      "Токарев Алексей Иванович": 27,
-      "Против всех": 51
+      "gas:candidate-vibid:359300166698": 4,
+      "gas:candidate-vibid:359300166664": 33,
+      "gas:candidate-vibid:1001000136099": 3,
+      "gas:candidate-vibid:1001000190397": 52,
+      "gas:candidate-vibid:359300166762": 27,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072735&region=0&sub_region=0&type=429",
@@ -9172,17 +9172,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 435,
-      "Вахрин Вячеслав Михайлович": 41,
-      "Корсун Владимир Кузьмич": 28,
-      "Мубаракшин Александр Вазирович": 6,
-      "Неворотов Игорь Владимирович": 8,
-      "Неустроев Илья Григорьевич": 45,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 435,
+      "gas:candidate-vibid:359300366644": 41,
+      "gas:candidate-vibid:1001000121892": 28,
+      "gas:candidate-vibid:1001000217948": 6,
+      "gas:candidate-vibid:1001000136101": 8,
+      "gas:candidate-vibid:1001000113966": 45,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072744&region=0&sub_region=0&type=429",
@@ -9232,17 +9232,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 523,
-      "Вахрин Вячеслав Михайлович": 41,
-      "Корсун Владимир Кузьмич": 13,
-      "Мубаракшин Александр Вазирович": 3,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 33,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 7,
-      "Против всех": 81
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 523,
+      "gas:candidate-vibid:359300366644": 41,
+      "gas:candidate-vibid:1001000121892": 13,
+      "gas:candidate-vibid:1001000217948": 3,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 33,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 7,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072744&region=0&sub_region=0&type=429",
@@ -9292,17 +9292,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 443,
-      "Вахрин Вячеслав Михайлович": 72,
-      "Корсун Владимир Кузьмич": 30,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 44,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 11,
-      "Черных Алексей Васильевич": 7,
-      "Против всех": 82
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 443,
+      "gas:candidate-vibid:359300366644": 72,
+      "gas:candidate-vibid:1001000121892": 30,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 44,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 11,
+      "gas:candidate-vibid:1001000188017": 7,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072744&region=0&sub_region=0&type=429",
@@ -9352,17 +9352,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 439,
-      "Вахрин Вячеслав Михайлович": 49,
-      "Корсун Владимир Кузьмич": 27,
-      "Мубаракшин Александр Вазирович": 7,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 35,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 11,
-      "Черных Алексей Васильевич": 13,
-      "Против всех": 71
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 439,
+      "gas:candidate-vibid:359300366644": 49,
+      "gas:candidate-vibid:1001000121892": 27,
+      "gas:candidate-vibid:1001000217948": 7,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 35,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 11,
+      "gas:candidate-vibid:1001000188017": 13,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072744&region=0&sub_region=0&type=429",
@@ -9412,17 +9412,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 498,
-      "Вахрин Вячеслав Михайлович": 100,
-      "Корсун Владимир Кузьмич": 28,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 61,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 16,
-      "Против всех": 102
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 498,
+      "gas:candidate-vibid:359300366644": 100,
+      "gas:candidate-vibid:1001000121892": 28,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 61,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 16,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072744&region=0&sub_region=0&type=429",
@@ -9472,17 +9472,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 34,
-      "Анохин Павел Викторович": 820,
-      "Вахрин Вячеслав Михайлович": 107,
-      "Корсун Владимир Кузьмич": 11,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 19,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 21,
-      "Черных Алексей Васильевич": 15,
-      "Против всех": 178
+      "gas:candidate-vibid:359300366626": 34,
+      "gas:candidate-vibid:359300366617": 820,
+      "gas:candidate-vibid:359300366644": 107,
+      "gas:candidate-vibid:1001000121892": 11,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 19,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 21,
+      "gas:candidate-vibid:1001000188017": 15,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072744&region=0&sub_region=0&type=429",
@@ -9532,17 +9532,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 340,
-      "Вахрин Вячеслав Михайлович": 80,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 40,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 221,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 39,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 241
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 340,
+      "gas:candidate-vibid:359300366644": 80,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 40,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 221,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 39,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9592,17 +9592,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 320,
-      "Вахрин Вячеслав Михайлович": 62,
-      "Корсун Владимир Кузьмич": 53,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 201,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 29,
-      "Черных Алексей Васильевич": 35,
-      "Против всех": 262
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 320,
+      "gas:candidate-vibid:359300366644": 62,
+      "gas:candidate-vibid:1001000121892": 53,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 201,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 29,
+      "gas:candidate-vibid:1001000188017": 35,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9652,17 +9652,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 442,
-      "Вахрин Вячеслав Михайлович": 59,
-      "Корсун Владимир Кузьмич": 57,
-      "Мубаракшин Александр Вазирович": 22,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 184,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 42,
-      "Черных Алексей Васильевич": 54,
-      "Против всех": 258
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 442,
+      "gas:candidate-vibid:359300366644": 59,
+      "gas:candidate-vibid:1001000121892": 57,
+      "gas:candidate-vibid:1001000217948": 22,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 184,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 42,
+      "gas:candidate-vibid:1001000188017": 54,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9712,17 +9712,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 307,
-      "Вахрин Вячеслав Михайлович": 73,
-      "Корсун Владимир Кузьмич": 55,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 200,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 24,
-      "Черных Алексей Васильевич": 50,
-      "Против всех": 205
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 307,
+      "gas:candidate-vibid:359300366644": 73,
+      "gas:candidate-vibid:1001000121892": 55,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 200,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 24,
+      "gas:candidate-vibid:1001000188017": 50,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9772,17 +9772,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 313,
-      "Вахрин Вячеслав Михайлович": 80,
-      "Корсун Владимир Кузьмич": 70,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 223,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 52,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 222
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 313,
+      "gas:candidate-vibid:359300366644": 80,
+      "gas:candidate-vibid:1001000121892": 70,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 223,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 52,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9832,17 +9832,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 284,
-      "Вахрин Вячеслав Михайлович": 42,
-      "Корсун Владимир Кузьмич": 44,
-      "Мубаракшин Александр Вазирович": 33,
-      "Неворотов Игорь Владимирович": 29,
-      "Неустроев Илья Григорьевич": 188,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 44,
-      "Против всех": 185
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 284,
+      "gas:candidate-vibid:359300366644": 42,
+      "gas:candidate-vibid:1001000121892": 44,
+      "gas:candidate-vibid:1001000217948": 33,
+      "gas:candidate-vibid:1001000136101": 29,
+      "gas:candidate-vibid:1001000113966": 188,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 44,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9892,17 +9892,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 21,
-      "Анохин Павел Викторович": 305,
-      "Вахрин Вячеслав Михайлович": 78,
-      "Корсун Владимир Кузьмич": 63,
-      "Мубаракшин Александр Вазирович": 38,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 200,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 217
+      "gas:candidate-vibid:359300366626": 21,
+      "gas:candidate-vibid:359300366617": 305,
+      "gas:candidate-vibid:359300366644": 78,
+      "gas:candidate-vibid:1001000121892": 63,
+      "gas:candidate-vibid:1001000217948": 38,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 200,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -9952,17 +9952,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 235,
-      "Вахрин Вячеслав Михайлович": 66,
-      "Корсун Владимир Кузьмич": 42,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 12,
-      "Неустроев Илья Григорьевич": 208,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 42,
-      "Против всех": 165
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 235,
+      "gas:candidate-vibid:359300366644": 66,
+      "gas:candidate-vibid:1001000121892": 42,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 12,
+      "gas:candidate-vibid:1001000113966": 208,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 42,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10012,17 +10012,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 15,
-      "Анохин Павел Викторович": 405,
-      "Вахрин Вячеслав Михайлович": 70,
-      "Корсун Владимир Кузьмич": 73,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 293,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 53,
-      "Черных Алексей Васильевич": 67,
-      "Против всех": 243
+      "gas:candidate-vibid:359300366626": 15,
+      "gas:candidate-vibid:359300366617": 405,
+      "gas:candidate-vibid:359300366644": 70,
+      "gas:candidate-vibid:1001000121892": 73,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 293,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 53,
+      "gas:candidate-vibid:1001000188017": 67,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10072,17 +10072,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 311,
-      "Вахрин Вячеслав Михайлович": 81,
-      "Корсун Владимир Кузьмич": 101,
-      "Мубаракшин Александр Вазирович": 36,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 213,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 39,
-      "Черных Алексей Васильевич": 69,
-      "Против всех": 242
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 311,
+      "gas:candidate-vibid:359300366644": 81,
+      "gas:candidate-vibid:1001000121892": 101,
+      "gas:candidate-vibid:1001000217948": 36,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 213,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 39,
+      "gas:candidate-vibid:1001000188017": 69,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10132,17 +10132,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 267,
-      "Вахрин Вячеслав Михайлович": 79,
-      "Корсун Владимир Кузьмич": 38,
-      "Мубаракшин Александр Вазирович": 10,
-      "Неворотов Игорь Владимирович": 25,
-      "Неустроев Илья Григорьевич": 216,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 22,
-      "Черных Алексей Васильевич": 38,
-      "Против всех": 172
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 267,
+      "gas:candidate-vibid:359300366644": 79,
+      "gas:candidate-vibid:1001000121892": 38,
+      "gas:candidate-vibid:1001000217948": 10,
+      "gas:candidate-vibid:1001000136101": 25,
+      "gas:candidate-vibid:1001000113966": 216,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 22,
+      "gas:candidate-vibid:1001000188017": 38,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10192,17 +10192,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 240,
-      "Вахрин Вячеслав Михайлович": 246,
-      "Корсун Владимир Кузьмич": 39,
-      "Мубаракшин Александр Вазирович": 16,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 149,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 26,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 227
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 240,
+      "gas:candidate-vibid:359300366644": 246,
+      "gas:candidate-vibid:1001000121892": 39,
+      "gas:candidate-vibid:1001000217948": 16,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 149,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 26,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10252,17 +10252,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 19,
-      "Анохин Павел Викторович": 223,
-      "Вахрин Вячеслав Михайлович": 76,
-      "Корсун Владимир Кузьмич": 43,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 257,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 36,
-      "Против всех": 234
+      "gas:candidate-vibid:359300366626": 19,
+      "gas:candidate-vibid:359300366617": 223,
+      "gas:candidate-vibid:359300366644": 76,
+      "gas:candidate-vibid:1001000121892": 43,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 257,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 36,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10312,17 +10312,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 245,
-      "Вахрин Вячеслав Михайлович": 85,
-      "Корсун Владимир Кузьмич": 56,
-      "Мубаракшин Александр Вазирович": 21,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 241,
-      "Семенов Сергей Геннадьевич": 20,
-      "Черепанова Ирина Юрьевна": 27,
-      "Черных Алексей Васильевич": 45,
-      "Против всех": 264
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 245,
+      "gas:candidate-vibid:359300366644": 85,
+      "gas:candidate-vibid:1001000121892": 56,
+      "gas:candidate-vibid:1001000217948": 21,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 241,
+      "gas:candidate-vibid:359300367042": 20,
+      "gas:candidate-vibid:359300366650": 27,
+      "gas:candidate-vibid:1001000188017": 45,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10372,17 +10372,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 323,
-      "Вахрин Вячеслав Михайлович": 134,
-      "Корсун Владимир Кузьмич": 66,
-      "Мубаракшин Александр Вазирович": 39,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 219,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 44,
-      "Черных Алексей Васильевич": 37,
-      "Против всех": 214
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 323,
+      "gas:candidate-vibid:359300366644": 134,
+      "gas:candidate-vibid:1001000121892": 66,
+      "gas:candidate-vibid:1001000217948": 39,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 219,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 44,
+      "gas:candidate-vibid:1001000188017": 37,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10432,17 +10432,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 17,
-      "Анохин Павел Викторович": 298,
-      "Вахрин Вячеслав Михайлович": 101,
-      "Корсун Владимир Кузьмич": 63,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 228,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 30,
-      "Черных Алексей Васильевич": 60,
-      "Против всех": 231
+      "gas:candidate-vibid:359300366626": 17,
+      "gas:candidate-vibid:359300366617": 298,
+      "gas:candidate-vibid:359300366644": 101,
+      "gas:candidate-vibid:1001000121892": 63,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 228,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 30,
+      "gas:candidate-vibid:1001000188017": 60,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10492,17 +10492,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 20,
-      "Анохин Павел Викторович": 371,
-      "Вахрин Вячеслав Михайлович": 75,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 276,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 48,
-      "Против всех": 275
+      "gas:candidate-vibid:359300366626": 20,
+      "gas:candidate-vibid:359300366617": 371,
+      "gas:candidate-vibid:359300366644": 75,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 276,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 48,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10552,17 +10552,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 277,
-      "Вахрин Вячеслав Михайлович": 96,
-      "Корсун Владимир Кузьмич": 74,
-      "Мубаракшин Александр Вазирович": 38,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 264,
-      "Семенов Сергей Геннадьевич": 18,
-      "Черепанова Ирина Юрьевна": 48,
-      "Черных Алексей Васильевич": 52,
-      "Против всех": 256
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 277,
+      "gas:candidate-vibid:359300366644": 96,
+      "gas:candidate-vibid:1001000121892": 74,
+      "gas:candidate-vibid:1001000217948": 38,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 264,
+      "gas:candidate-vibid:359300367042": 18,
+      "gas:candidate-vibid:359300366650": 48,
+      "gas:candidate-vibid:1001000188017": 52,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10612,17 +10612,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 397,
-      "Вахрин Вячеслав Михайлович": 84,
-      "Корсун Владимир Кузьмич": 56,
-      "Мубаракшин Александр Вазирович": 26,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 248,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 28,
-      "Против всех": 199
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 397,
+      "gas:candidate-vibid:359300366644": 84,
+      "gas:candidate-vibid:1001000121892": 56,
+      "gas:candidate-vibid:1001000217948": 26,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 248,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 28,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10672,17 +10672,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 18,
-      "Анохин Павел Викторович": 320,
-      "Вахрин Вячеслав Михайлович": 48,
-      "Корсун Владимир Кузьмич": 62,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 221,
-      "Семенов Сергей Геннадьевич": 19,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 153
+      "gas:candidate-vibid:359300366626": 18,
+      "gas:candidate-vibid:359300366617": 320,
+      "gas:candidate-vibid:359300366644": 48,
+      "gas:candidate-vibid:1001000121892": 62,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 221,
+      "gas:candidate-vibid:359300367042": 19,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10732,17 +10732,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 402,
-      "Вахрин Вячеслав Михайлович": 54,
-      "Корсун Владимир Кузьмич": 112,
-      "Мубаракшин Александр Вазирович": 34,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 312,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 49,
-      "Черных Алексей Васильевич": 34,
-      "Против всех": 195
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 402,
+      "gas:candidate-vibid:359300366644": 54,
+      "gas:candidate-vibid:1001000121892": 112,
+      "gas:candidate-vibid:1001000217948": 34,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 312,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 49,
+      "gas:candidate-vibid:1001000188017": 34,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10792,17 +10792,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 221,
-      "Вахрин Вячеслав Михайлович": 47,
-      "Корсун Владимир Кузьмич": 16,
-      "Мубаракшин Александр Вазирович": 5,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 73,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 16,
-      "Черных Алексей Васильевич": 11,
-      "Против всех": 107
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 221,
+      "gas:candidate-vibid:359300366644": 47,
+      "gas:candidate-vibid:1001000121892": 16,
+      "gas:candidate-vibid:1001000217948": 5,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 73,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 16,
+      "gas:candidate-vibid:1001000188017": 11,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10852,17 +10852,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 228,
-      "Вахрин Вячеслав Михайлович": 80,
-      "Корсун Владимир Кузьмич": 44,
-      "Мубаракшин Александр Вазирович": 28,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 316,
-      "Семенов Сергей Геннадьевич": 14,
-      "Черепанова Ирина Юрьевна": 64,
-      "Черных Алексей Васильевич": 79,
-      "Против всех": 275
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 228,
+      "gas:candidate-vibid:359300366644": 80,
+      "gas:candidate-vibid:1001000121892": 44,
+      "gas:candidate-vibid:1001000217948": 28,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 316,
+      "gas:candidate-vibid:359300367042": 14,
+      "gas:candidate-vibid:359300366650": 64,
+      "gas:candidate-vibid:1001000188017": 79,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10912,17 +10912,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 154,
-      "Вахрин Вячеслав Михайлович": 63,
-      "Корсун Владимир Кузьмич": 15,
-      "Мубаракшин Александр Вазирович": 9,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 222,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 37,
-      "Против всех": 231
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 154,
+      "gas:candidate-vibid:359300366644": 63,
+      "gas:candidate-vibid:1001000121892": 15,
+      "gas:candidate-vibid:1001000217948": 9,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 222,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 37,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -10972,17 +10972,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 76,
-      "Вахрин Вячеслав Михайлович": 11,
-      "Корсун Владимир Кузьмич": 3,
-      "Мубаракшин Александр Вазирович": 1,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 19,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 44
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 76,
+      "gas:candidate-vibid:359300366644": 11,
+      "gas:candidate-vibid:1001000121892": 3,
+      "gas:candidate-vibid:1001000217948": 1,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 19,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -11032,17 +11032,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 79,
-      "Вахрин Вячеслав Михайлович": 18,
-      "Корсун Владимир Кузьмич": 2,
-      "Мубаракшин Александр Вазирович": 3,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 13,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 9,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 53
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 79,
+      "gas:candidate-vibid:359300366644": 18,
+      "gas:candidate-vibid:1001000121892": 2,
+      "gas:candidate-vibid:1001000217948": 3,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 13,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 9,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -11092,17 +11092,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 89,
-      "Вахрин Вячеслав Михайлович": 39,
-      "Корсун Владимир Кузьмич": 6,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 32,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 5,
-      "Черных Алексей Васильевич": 9,
-      "Против всех": 68
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 89,
+      "gas:candidate-vibid:359300366644": 39,
+      "gas:candidate-vibid:1001000121892": 6,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 32,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 5,
+      "gas:candidate-vibid:1001000188017": 9,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -11152,17 +11152,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 24,
-      "Вахрин Вячеслав Михайлович": 3,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 1,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 7,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 24,
+      "gas:candidate-vibid:359300366644": 3,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 1,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 7,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -11212,17 +11212,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 263,
-      "Вахрин Вячеслав Михайлович": 158,
-      "Корсун Владимир Кузьмич": 16,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 231,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 23,
-      "Черных Алексей Васильевич": 28,
-      "Против всех": 198
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 263,
+      "gas:candidate-vibid:359300366644": 158,
+      "gas:candidate-vibid:1001000121892": 16,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 231,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 23,
+      "gas:candidate-vibid:1001000188017": 28,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072746&region=0&sub_region=0&type=429",
@@ -11272,17 +11272,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 10,
-      "Анохин Павел Викторович": 537,
-      "Вахрин Вячеслав Михайлович": 382,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 88,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 145,
-      "Семенов Сергей Геннадьевич": 12,
-      "Черепанова Ирина Юрьевна": 33,
-      "Черных Алексей Васильевич": 30,
-      "Против всех": 189
+      "gas:candidate-vibid:359300366626": 10,
+      "gas:candidate-vibid:359300366617": 537,
+      "gas:candidate-vibid:359300366644": 382,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 88,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 145,
+      "gas:candidate-vibid:359300367042": 12,
+      "gas:candidate-vibid:359300366650": 33,
+      "gas:candidate-vibid:1001000188017": 30,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11332,17 +11332,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 100,
-      "Вахрин Вячеслав Михайлович": 76,
-      "Корсун Владимир Кузьмич": 3,
-      "Мубаракшин Александр Вазирович": 4,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 12,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 100,
+      "gas:candidate-vibid:359300366644": 76,
+      "gas:candidate-vibid:1001000121892": 3,
+      "gas:candidate-vibid:1001000217948": 4,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 12,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11392,17 +11392,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 71,
-      "Вахрин Вячеслав Михайлович": 41,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 4,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 5,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 71,
+      "gas:candidate-vibid:359300366644": 41,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 4,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 5,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11452,17 +11452,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 43,
-      "Вахрин Вячеслав Михайлович": 65,
-      "Корсун Владимир Кузьмич": 1,
-      "Мубаракшин Александр Вазирович": 0,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 8,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 43,
+      "gas:candidate-vibid:359300366644": 65,
+      "gas:candidate-vibid:1001000121892": 1,
+      "gas:candidate-vibid:1001000217948": 0,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 8,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11512,17 +11512,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 196,
-      "Вахрин Вячеслав Михайлович": 256,
-      "Корсун Владимир Кузьмич": 16,
-      "Мубаракшин Александр Вазирович": 65,
-      "Неворотов Игорь Владимирович": 22,
-      "Неустроев Илья Григорьевич": 212,
-      "Семенов Сергей Геннадьевич": 15,
-      "Черепанова Ирина Юрьевна": 14,
-      "Черных Алексей Васильевич": 10,
-      "Против всех": 125
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 196,
+      "gas:candidate-vibid:359300366644": 256,
+      "gas:candidate-vibid:1001000121892": 16,
+      "gas:candidate-vibid:1001000217948": 65,
+      "gas:candidate-vibid:1001000136101": 22,
+      "gas:candidate-vibid:1001000113966": 212,
+      "gas:candidate-vibid:359300367042": 15,
+      "gas:candidate-vibid:359300366650": 14,
+      "gas:candidate-vibid:1001000188017": 10,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11572,17 +11572,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 18,
-      "Анохин Павел Викторович": 128,
-      "Вахрин Вячеслав Михайлович": 204,
-      "Корсун Владимир Кузьмич": 16,
-      "Мубаракшин Александр Вазирович": 29,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 171,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 17,
-      "Против всех": 184
+      "gas:candidate-vibid:359300366626": 18,
+      "gas:candidate-vibid:359300366617": 128,
+      "gas:candidate-vibid:359300366644": 204,
+      "gas:candidate-vibid:1001000121892": 16,
+      "gas:candidate-vibid:1001000217948": 29,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 171,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 17,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11632,17 +11632,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 21,
-      "Анохин Павел Викторович": 439,
-      "Вахрин Вячеслав Михайлович": 454,
-      "Корсун Владимир Кузьмич": 28,
-      "Мубаракшин Александр Вазирович": 48,
-      "Неворотов Игорь Владимирович": 38,
-      "Неустроев Илья Григорьевич": 168,
-      "Семенов Сергей Геннадьевич": 18,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 27,
-      "Против всех": 310
+      "gas:candidate-vibid:359300366626": 21,
+      "gas:candidate-vibid:359300366617": 439,
+      "gas:candidate-vibid:359300366644": 454,
+      "gas:candidate-vibid:1001000121892": 28,
+      "gas:candidate-vibid:1001000217948": 48,
+      "gas:candidate-vibid:1001000136101": 38,
+      "gas:candidate-vibid:1001000113966": 168,
+      "gas:candidate-vibid:359300367042": 18,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 27,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11692,17 +11692,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 96,
-      "Вахрин Вячеслав Михайлович": 142,
-      "Корсун Владимир Кузьмич": 9,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 39,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 65
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 96,
+      "gas:candidate-vibid:359300366644": 142,
+      "gas:candidate-vibid:1001000121892": 9,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 39,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11752,17 +11752,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 136,
-      "Вахрин Вячеслав Михайлович": 118,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 6,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 81,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 12,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 65
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 136,
+      "gas:candidate-vibid:359300366644": 118,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 6,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 81,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 12,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11812,17 +11812,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 49,
-      "Вахрин Вячеслав Михайлович": 108,
-      "Корсун Владимир Кузьмич": 3,
-      "Мубаракшин Александр Вазирович": 14,
-      "Неворотов Игорь Владимирович": 5,
-      "Неустроев Илья Григорьевич": 13,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 5,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 49,
+      "gas:candidate-vibid:359300366644": 108,
+      "gas:candidate-vibid:1001000121892": 3,
+      "gas:candidate-vibid:1001000217948": 14,
+      "gas:candidate-vibid:1001000136101": 5,
+      "gas:candidate-vibid:1001000113966": 13,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 5,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11872,17 +11872,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 83,
-      "Вахрин Вячеслав Михайлович": 77,
-      "Корсун Владимир Кузьмич": 11,
-      "Мубаракшин Александр Вазирович": 19,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 55,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 11,
-      "Против всех": 35
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 83,
+      "gas:candidate-vibid:359300366644": 77,
+      "gas:candidate-vibid:1001000121892": 11,
+      "gas:candidate-vibid:1001000217948": 19,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 55,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 11,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11932,17 +11932,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 39,
-      "Вахрин Вячеслав Михайлович": 22,
-      "Корсун Владимир Кузьмич": 2,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 4,
-      "Неустроев Илья Григорьевич": 27,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 4,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 39,
+      "gas:candidate-vibid:359300366644": 22,
+      "gas:candidate-vibid:1001000121892": 2,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 4,
+      "gas:candidate-vibid:1001000113966": 27,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 4,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -11992,17 +11992,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 20,
-      "Вахрин Вячеслав Михайлович": 40,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 2,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 11,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 20,
+      "gas:candidate-vibid:359300366644": 40,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 2,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 11,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12052,17 +12052,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 12,
-      "Анохин Павел Викторович": 123,
-      "Вахрин Вячеслав Михайлович": 175,
-      "Корсун Владимир Кузьмич": 25,
-      "Мубаракшин Александр Вазирович": 31,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 217,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 17,
-      "Против всех": 113
+      "gas:candidate-vibid:359300366626": 12,
+      "gas:candidate-vibid:359300366617": 123,
+      "gas:candidate-vibid:359300366644": 175,
+      "gas:candidate-vibid:1001000121892": 25,
+      "gas:candidate-vibid:1001000217948": 31,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 217,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 17,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12112,17 +12112,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 25,
-      "Анохин Павел Викторович": 362,
-      "Вахрин Вячеслав Михайлович": 398,
-      "Корсун Владимир Кузьмич": 39,
-      "Мубаракшин Александр Вазирович": 72,
-      "Неворотов Игорь Владимирович": 42,
-      "Неустроев Илья Григорьевич": 313,
-      "Семенов Сергей Геннадьевич": 41,
-      "Черепанова Ирина Юрьевна": 43,
-      "Черных Алексей Васильевич": 20,
-      "Против всех": 427
+      "gas:candidate-vibid:359300366626": 25,
+      "gas:candidate-vibid:359300366617": 362,
+      "gas:candidate-vibid:359300366644": 398,
+      "gas:candidate-vibid:1001000121892": 39,
+      "gas:candidate-vibid:1001000217948": 72,
+      "gas:candidate-vibid:1001000136101": 42,
+      "gas:candidate-vibid:1001000113966": 313,
+      "gas:candidate-vibid:359300367042": 41,
+      "gas:candidate-vibid:359300366650": 43,
+      "gas:candidate-vibid:1001000188017": 20,
+      "special:against-all": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12172,17 +12172,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 14,
-      "Анохин Павел Викторович": 72,
-      "Вахрин Вячеслав Михайлович": 252,
-      "Корсун Владимир Кузьмич": 7,
-      "Мубаракшин Александр Вазирович": 27,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 86,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:359300366626": 14,
+      "gas:candidate-vibid:359300366617": 72,
+      "gas:candidate-vibid:359300366644": 252,
+      "gas:candidate-vibid:1001000121892": 7,
+      "gas:candidate-vibid:1001000217948": 27,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 86,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12232,17 +12232,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 202,
-      "Вахрин Вячеслав Михайлович": 242,
-      "Корсун Владимир Кузьмич": 21,
-      "Мубаракшин Александр Вазирович": 23,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 57,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 14,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 202,
+      "gas:candidate-vibid:359300366644": 242,
+      "gas:candidate-vibid:1001000121892": 21,
+      "gas:candidate-vibid:1001000217948": 23,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 57,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 14,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12292,17 +12292,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 177,
-      "Вахрин Вячеслав Михайлович": 176,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 157,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 14,
-      "Черных Алексей Васильевич": 14,
-      "Против всех": 83
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 177,
+      "gas:candidate-vibid:359300366644": 176,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 157,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 14,
+      "gas:candidate-vibid:1001000188017": 14,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12352,17 +12352,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 212,
-      "Вахрин Вячеслав Михайлович": 291,
-      "Корсун Владимир Кузьмич": 15,
-      "Мубаракшин Александр Вазирович": 39,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 125,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 37,
-      "Черных Алексей Васильевич": 9,
-      "Против всех": 88
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 212,
+      "gas:candidate-vibid:359300366644": 291,
+      "gas:candidate-vibid:1001000121892": 15,
+      "gas:candidate-vibid:1001000217948": 39,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 125,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 37,
+      "gas:candidate-vibid:1001000188017": 9,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12412,17 +12412,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 122,
-      "Вахрин Вячеслав Михайлович": 99,
-      "Корсун Владимир Кузьмич": 8,
-      "Мубаракшин Александр Вазирович": 10,
-      "Неворотов Игорь Владимирович": 9,
-      "Неустроев Илья Григорьевич": 9,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 13,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 122,
+      "gas:candidate-vibid:359300366644": 99,
+      "gas:candidate-vibid:1001000121892": 8,
+      "gas:candidate-vibid:1001000217948": 10,
+      "gas:candidate-vibid:1001000136101": 9,
+      "gas:candidate-vibid:1001000113966": 9,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 13,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12472,17 +12472,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 48,
-      "Вахрин Вячеслав Михайлович": 36,
-      "Корсун Владимир Кузьмич": 5,
-      "Мубаракшин Александр Вазирович": 2,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 4,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 48,
+      "gas:candidate-vibid:359300366644": 36,
+      "gas:candidate-vibid:1001000121892": 5,
+      "gas:candidate-vibid:1001000217948": 2,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 4,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12532,17 +12532,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 175,
-      "Вахрин Вячеслав Михайлович": 244,
-      "Корсун Владимир Кузьмич": 11,
-      "Мубаракшин Александр Вазирович": 74,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 192,
-      "Семенов Сергей Геннадьевич": 18,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 15,
-      "Против всех": 155
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 175,
+      "gas:candidate-vibid:359300366644": 244,
+      "gas:candidate-vibid:1001000121892": 11,
+      "gas:candidate-vibid:1001000217948": 74,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 192,
+      "gas:candidate-vibid:359300367042": 18,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 15,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12592,17 +12592,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 208,
-      "Вахрин Вячеслав Михайлович": 225,
-      "Корсун Владимир Кузьмич": 23,
-      "Мубаракшин Александр Вазирович": 60,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 163,
-      "Семенов Сергей Геннадьевич": 26,
-      "Черепанова Ирина Юрьевна": 21,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 169
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 208,
+      "gas:candidate-vibid:359300366644": 225,
+      "gas:candidate-vibid:1001000121892": 23,
+      "gas:candidate-vibid:1001000217948": 60,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 163,
+      "gas:candidate-vibid:359300367042": 26,
+      "gas:candidate-vibid:359300366650": 21,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12652,17 +12652,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 13,
-      "Анохин Павел Викторович": 56,
-      "Вахрин Вячеслав Михайлович": 95,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 65,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 2,
-      "Черных Алексей Васильевич": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:359300366626": 13,
+      "gas:candidate-vibid:359300366617": 56,
+      "gas:candidate-vibid:359300366644": 95,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 65,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 2,
+      "gas:candidate-vibid:1001000188017": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12712,17 +12712,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 34,
-      "Вахрин Вячеслав Михайлович": 63,
-      "Корсун Владимир Кузьмич": 4,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 24,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 6,
-      "Черных Алексей Васильевич": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 34,
+      "gas:candidate-vibid:359300366644": 63,
+      "gas:candidate-vibid:1001000121892": 4,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 24,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 6,
+      "gas:candidate-vibid:1001000188017": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12772,17 +12772,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 56,
-      "Вахрин Вячеслав Михайлович": 121,
-      "Корсун Владимир Кузьмич": 9,
-      "Мубаракшин Александр Вазирович": 12,
-      "Неворотов Игорь Владимирович": 5,
-      "Неустроев Илья Григорьевич": 40,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 8,
-      "Черных Алексей Васильевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 56,
+      "gas:candidate-vibid:359300366644": 121,
+      "gas:candidate-vibid:1001000121892": 9,
+      "gas:candidate-vibid:1001000217948": 12,
+      "gas:candidate-vibid:1001000136101": 5,
+      "gas:candidate-vibid:1001000113966": 40,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 8,
+      "gas:candidate-vibid:1001000188017": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12832,17 +12832,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 22,
-      "Вахрин Вячеслав Михайлович": 62,
-      "Корсун Владимир Кузьмич": 1,
-      "Мубаракшин Александр Вазирович": 7,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 19,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 22,
+      "gas:candidate-vibid:359300366644": 62,
+      "gas:candidate-vibid:1001000121892": 1,
+      "gas:candidate-vibid:1001000217948": 7,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 19,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12892,17 +12892,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 22,
-      "Вахрин Вячеслав Михайлович": 47,
-      "Корсун Владимир Кузьмич": 8,
-      "Мубаракшин Александр Вазирович": 25,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 16,
-      "Семенов Сергей Геннадьевич": 4,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 22,
+      "gas:candidate-vibid:359300366644": 47,
+      "gas:candidate-vibid:1001000121892": 8,
+      "gas:candidate-vibid:1001000217948": 25,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 16,
+      "gas:candidate-vibid:359300367042": 4,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -12952,17 +12952,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 230,
-      "Вахрин Вячеслав Михайлович": 434,
-      "Корсун Владимир Кузьмич": 42,
-      "Мубаракшин Александр Вазирович": 123,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 114,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 38,
-      "Черных Алексей Васильевич": 6,
-      "Против всех": 125
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 230,
+      "gas:candidate-vibid:359300366644": 434,
+      "gas:candidate-vibid:1001000121892": 42,
+      "gas:candidate-vibid:1001000217948": 123,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 114,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 38,
+      "gas:candidate-vibid:1001000188017": 6,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13012,17 +13012,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 272,
-      "Вахрин Вячеслав Михайлович": 498,
-      "Корсун Владимир Кузьмич": 37,
-      "Мубаракшин Александр Вазирович": 106,
-      "Неворотов Игорь Владимирович": 18,
-      "Неустроев Илья Григорьевич": 240,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 25,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 192
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 272,
+      "gas:candidate-vibid:359300366644": 498,
+      "gas:candidate-vibid:1001000121892": 37,
+      "gas:candidate-vibid:1001000217948": 106,
+      "gas:candidate-vibid:1001000136101": 18,
+      "gas:candidate-vibid:1001000113966": 240,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 25,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13072,17 +13072,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 24,
-      "Вахрин Вячеслав Михайлович": 68,
-      "Корсун Владимир Кузьмич": 3,
-      "Мубаракшин Александр Вазирович": 11,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 17,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 24,
+      "gas:candidate-vibid:359300366644": 68,
+      "gas:candidate-vibid:1001000121892": 3,
+      "gas:candidate-vibid:1001000217948": 11,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 17,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13132,17 +13132,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 289,
-      "Вахрин Вячеслав Михайлович": 153,
-      "Корсун Владимир Кузьмич": 17,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 14,
-      "Неустроев Илья Григорьевич": 83,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 19,
-      "Черных Алексей Васильевич": 13,
-      "Против всех": 113
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 289,
+      "gas:candidate-vibid:359300366644": 153,
+      "gas:candidate-vibid:1001000121892": 17,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 14,
+      "gas:candidate-vibid:1001000113966": 83,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 19,
+      "gas:candidate-vibid:1001000188017": 13,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13192,17 +13192,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 171,
-      "Вахрин Вячеслав Михайлович": 231,
-      "Корсун Владимир Кузьмич": 15,
-      "Мубаракшин Александр Вазирович": 9,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 27,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 8,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 171,
+      "gas:candidate-vibid:359300366644": 231,
+      "gas:candidate-vibid:1001000121892": 15,
+      "gas:candidate-vibid:1001000217948": 9,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 27,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 8,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13252,17 +13252,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 345,
-      "Вахрин Вячеслав Михайлович": 299,
-      "Корсун Владимир Кузьмич": 26,
-      "Мубаракшин Александр Вазирович": 36,
-      "Неворотов Игорь Владимирович": 11,
-      "Неустроев Илья Григорьевич": 86,
-      "Семенов Сергей Геннадьевич": 5,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 167
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 345,
+      "gas:candidate-vibid:359300366644": 299,
+      "gas:candidate-vibid:1001000121892": 26,
+      "gas:candidate-vibid:1001000217948": 36,
+      "gas:candidate-vibid:1001000136101": 11,
+      "gas:candidate-vibid:1001000113966": 86,
+      "gas:candidate-vibid:359300367042": 5,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13312,17 +13312,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 238,
-      "Вахрин Вячеслав Михайлович": 328,
-      "Корсун Владимир Кузьмич": 22,
-      "Мубаракшин Александр Вазирович": 60,
-      "Неворотов Игорь Владимирович": 23,
-      "Неустроев Илья Григорьевич": 236,
-      "Семенов Сергей Геннадьевич": 11,
-      "Черепанова Ирина Юрьевна": 18,
-      "Черных Алексей Васильевич": 13,
-      "Против всех": 148
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 238,
+      "gas:candidate-vibid:359300366644": 328,
+      "gas:candidate-vibid:1001000121892": 22,
+      "gas:candidate-vibid:1001000217948": 60,
+      "gas:candidate-vibid:1001000136101": 23,
+      "gas:candidate-vibid:1001000113966": 236,
+      "gas:candidate-vibid:359300367042": 11,
+      "gas:candidate-vibid:359300366650": 18,
+      "gas:candidate-vibid:1001000188017": 13,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13372,17 +13372,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 35,
-      "Вахрин Вячеслав Михайлович": 49,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 3,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 20,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 35,
+      "gas:candidate-vibid:359300366644": 49,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 3,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 20,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13432,17 +13432,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 183,
-      "Вахрин Вячеслав Михайлович": 71,
-      "Корсун Владимир Кузьмич": 23,
-      "Мубаракшин Александр Вазирович": 59,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 7,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 4,
-      "Черных Алексей Васильевич": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 183,
+      "gas:candidate-vibid:359300366644": 71,
+      "gas:candidate-vibid:1001000121892": 23,
+      "gas:candidate-vibid:1001000217948": 59,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 7,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 4,
+      "gas:candidate-vibid:1001000188017": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13492,17 +13492,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 241,
-      "Вахрин Вячеслав Михайлович": 379,
-      "Корсун Владимир Кузьмич": 62,
-      "Мубаракшин Александр Вазирович": 134,
-      "Неворотов Игорь Владимирович": 27,
-      "Неустроев Илья Григорьевич": 180,
-      "Семенов Сергей Геннадьевич": 13,
-      "Черепанова Ирина Юрьевна": 46,
-      "Черных Алексей Васильевич": 8,
-      "Против всех": 151
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 241,
+      "gas:candidate-vibid:359300366644": 379,
+      "gas:candidate-vibid:1001000121892": 62,
+      "gas:candidate-vibid:1001000217948": 134,
+      "gas:candidate-vibid:1001000136101": 27,
+      "gas:candidate-vibid:1001000113966": 180,
+      "gas:candidate-vibid:359300367042": 13,
+      "gas:candidate-vibid:359300366650": 46,
+      "gas:candidate-vibid:1001000188017": 8,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13552,17 +13552,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 152,
-      "Вахрин Вячеслав Михайлович": 190,
-      "Корсун Владимир Кузьмич": 8,
-      "Мубаракшин Александр Вазирович": 16,
-      "Неворотов Игорь Владимирович": 7,
-      "Неустроев Илья Григорьевич": 42,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 11,
-      "Черных Алексей Васильевич": 3,
-      "Против всех": 45
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 152,
+      "gas:candidate-vibid:359300366644": 190,
+      "gas:candidate-vibid:1001000121892": 8,
+      "gas:candidate-vibid:1001000217948": 16,
+      "gas:candidate-vibid:1001000136101": 7,
+      "gas:candidate-vibid:1001000113966": 42,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 11,
+      "gas:candidate-vibid:1001000188017": 3,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13612,17 +13612,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 56,
-      "Вахрин Вячеслав Михайлович": 41,
-      "Корсун Владимир Кузьмич": 0,
-      "Мубаракшин Александр Вазирович": 4,
-      "Неворотов Игорь Владимирович": 0,
-      "Неустроев Илья Григорьевич": 3,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 3,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 56,
+      "gas:candidate-vibid:359300366644": 41,
+      "gas:candidate-vibid:1001000121892": 0,
+      "gas:candidate-vibid:1001000217948": 4,
+      "gas:candidate-vibid:1001000136101": 0,
+      "gas:candidate-vibid:1001000113966": 3,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 3,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13672,17 +13672,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 0,
-      "Анохин Павел Викторович": 18,
-      "Вахрин Вячеслав Михайлович": 26,
-      "Корсун Владимир Кузьмич": 1,
-      "Мубаракшин Александр Вазирович": 1,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 3,
-      "Семенов Сергей Геннадьевич": 1,
-      "Черепанова Ирина Юрьевна": 1,
-      "Черных Алексей Васильевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:359300366626": 0,
+      "gas:candidate-vibid:359300366617": 18,
+      "gas:candidate-vibid:359300366644": 26,
+      "gas:candidate-vibid:1001000121892": 1,
+      "gas:candidate-vibid:1001000217948": 1,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 3,
+      "gas:candidate-vibid:359300367042": 1,
+      "gas:candidate-vibid:359300366650": 1,
+      "gas:candidate-vibid:1001000188017": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13732,17 +13732,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 296,
-      "Вахрин Вячеслав Михайлович": 212,
-      "Корсун Владимир Кузьмич": 32,
-      "Мубаракшин Александр Вазирович": 24,
-      "Неворотов Игорь Владимирович": 19,
-      "Неустроев Илья Григорьевич": 227,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 32,
-      "Против всех": 246
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 296,
+      "gas:candidate-vibid:359300366644": 212,
+      "gas:candidate-vibid:1001000121892": 32,
+      "gas:candidate-vibid:1001000217948": 24,
+      "gas:candidate-vibid:1001000136101": 19,
+      "gas:candidate-vibid:1001000113966": 227,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 32,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13792,17 +13792,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 152,
-      "Вахрин Вячеслав Михайлович": 56,
-      "Корсун Владимир Кузьмич": 12,
-      "Мубаракшин Александр Вазирович": 10,
-      "Неворотов Игорь Владимирович": 5,
-      "Неустроев Илья Григорьевич": 101,
-      "Семенов Сергей Геннадьевич": 2,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 8,
-      "Против всех": 62
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 152,
+      "gas:candidate-vibid:359300366644": 56,
+      "gas:candidate-vibid:1001000121892": 12,
+      "gas:candidate-vibid:1001000217948": 10,
+      "gas:candidate-vibid:1001000136101": 5,
+      "gas:candidate-vibid:1001000113966": 101,
+      "gas:candidate-vibid:359300367042": 2,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 8,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13852,17 +13852,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 117,
-      "Вахрин Вячеслав Михайлович": 98,
-      "Корсун Владимир Кузьмич": 10,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 7,
-      "Неустроев Илья Григорьевич": 132,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 10,
-      "Черных Алексей Васильевич": 11,
-      "Против всех": 84
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 117,
+      "gas:candidate-vibid:359300366644": 98,
+      "gas:candidate-vibid:1001000121892": 10,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 7,
+      "gas:candidate-vibid:1001000113966": 132,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 10,
+      "gas:candidate-vibid:1001000188017": 11,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13912,17 +13912,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 51,
-      "Вахрин Вячеслав Михайлович": 104,
-      "Корсун Владимир Кузьмич": 6,
-      "Мубаракшин Александр Вазирович": 8,
-      "Неворотов Игорь Владимирович": 2,
-      "Неустроев Илья Григорьевич": 11,
-      "Семенов Сергей Геннадьевич": 0,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 51,
+      "gas:candidate-vibid:359300366644": 104,
+      "gas:candidate-vibid:1001000121892": 6,
+      "gas:candidate-vibid:1001000217948": 8,
+      "gas:candidate-vibid:1001000136101": 2,
+      "gas:candidate-vibid:1001000113966": 11,
+      "gas:candidate-vibid:359300367042": 0,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -13972,17 +13972,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 3,
-      "Анохин Павел Викторович": 236,
-      "Вахрин Вячеслав Михайлович": 180,
-      "Корсун Владимир Кузьмич": 33,
-      "Мубаракшин Александр Вазирович": 9,
-      "Неворотов Игорь Владимирович": 28,
-      "Неустроев Илья Григорьевич": 119,
-      "Семенов Сергей Геннадьевич": 9,
-      "Черепанова Ирина Юрьевна": 19,
-      "Черных Алексей Васильевич": 22,
-      "Против всех": 192
+      "gas:candidate-vibid:359300366626": 3,
+      "gas:candidate-vibid:359300366617": 236,
+      "gas:candidate-vibid:359300366644": 180,
+      "gas:candidate-vibid:1001000121892": 33,
+      "gas:candidate-vibid:1001000217948": 9,
+      "gas:candidate-vibid:1001000136101": 28,
+      "gas:candidate-vibid:1001000113966": 119,
+      "gas:candidate-vibid:359300367042": 9,
+      "gas:candidate-vibid:359300366650": 19,
+      "gas:candidate-vibid:1001000188017": 22,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -14032,17 +14032,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 1,
-      "Анохин Павел Викторович": 27,
-      "Вахрин Вячеслав Михайлович": 49,
-      "Корсун Владимир Кузьмич": 8,
-      "Мубаракшин Александр Вазирович": 14,
-      "Неворотов Игорь Владимирович": 1,
-      "Неустроев Илья Григорьевич": 56,
-      "Семенов Сергей Геннадьевич": 3,
-      "Черепанова Ирина Юрьевна": 4,
-      "Черных Алексей Васильевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:359300366626": 1,
+      "gas:candidate-vibid:359300366617": 27,
+      "gas:candidate-vibid:359300366644": 49,
+      "gas:candidate-vibid:1001000121892": 8,
+      "gas:candidate-vibid:1001000217948": 14,
+      "gas:candidate-vibid:1001000136101": 1,
+      "gas:candidate-vibid:1001000113966": 56,
+      "gas:candidate-vibid:359300367042": 3,
+      "gas:candidate-vibid:359300366650": 4,
+      "gas:candidate-vibid:1001000188017": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -14092,17 +14092,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 170,
-      "Вахрин Вячеслав Михайлович": 308,
-      "Корсун Владимир Кузьмич": 53,
-      "Мубаракшин Александр Вазирович": 38,
-      "Неворотов Игорь Владимирович": 15,
-      "Неустроев Илья Григорьевич": 238,
-      "Семенов Сергей Геннадьевич": 22,
-      "Черепанова Ирина Юрьевна": 51,
-      "Черных Алексей Васильевич": 29,
-      "Против всех": 206
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 170,
+      "gas:candidate-vibid:359300366644": 308,
+      "gas:candidate-vibid:1001000121892": 53,
+      "gas:candidate-vibid:1001000217948": 38,
+      "gas:candidate-vibid:1001000136101": 15,
+      "gas:candidate-vibid:1001000113966": 238,
+      "gas:candidate-vibid:359300367042": 22,
+      "gas:candidate-vibid:359300366650": 51,
+      "gas:candidate-vibid:1001000188017": 29,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -14152,17 +14152,17 @@ export const duma_2003_uik_428_region_59_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 119,
-      "Вахрин Вячеслав Михайлович": 298,
-      "Корсун Владимир Кузьмич": 24,
-      "Мубаракшин Александр Вазирович": 40,
-      "Неворотов Игорь Владимирович": 16,
-      "Неустроев Илья Григорьевич": 216,
-      "Семенов Сергей Геннадьевич": 6,
-      "Черепанова Ирина Юрьевна": 39,
-      "Черных Алексей Васильевич": 26,
-      "Против всех": 235
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 119,
+      "gas:candidate-vibid:359300366644": 298,
+      "gas:candidate-vibid:1001000121892": 24,
+      "gas:candidate-vibid:1001000217948": 40,
+      "gas:candidate-vibid:1001000136101": 16,
+      "gas:candidate-vibid:1001000113966": 216,
+      "gas:candidate-vibid:359300367042": 6,
+      "gas:candidate-vibid:359300366650": 39,
+      "gas:candidate-vibid:1001000188017": 26,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",

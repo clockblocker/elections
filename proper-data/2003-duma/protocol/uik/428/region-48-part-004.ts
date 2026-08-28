@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 237,
-      "Бирюков Николай Иванович": 140,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 29,
-      "Купцов Геннадий Васильевич": 21,
-      "Минаков Виктор Михайлович": 152,
-      "Полосин Игорь Васильевич": 195,
-      "Свиридов Валентин Валентинович": 57,
-      "Против всех": 196
+      "gas:candidate-vibid:348300270683": 237,
+      "gas:candidate-vibid:348300270686": 140,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 29,
+      "gas:candidate-vibid:348300270444": 21,
+      "gas:candidate-vibid:1001000121862": 152,
+      "gas:candidate-vibid:1001000190361": 195,
+      "gas:candidate-vibid:1001000136074": 57,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 274,
-      "Бирюков Николай Иванович": 105,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 59,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 165,
-      "Полосин Игорь Васильевич": 127,
-      "Свиридов Валентин Валентинович": 56,
-      "Против всех": 248
+      "gas:candidate-vibid:348300270683": 274,
+      "gas:candidate-vibid:348300270686": 105,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 59,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 165,
+      "gas:candidate-vibid:1001000190361": 127,
+      "gas:candidate-vibid:1001000136074": 56,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 69,
-      "Бирюков Николай Иванович": 10,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 1,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 24,
-      "Полосин Игорь Васильевич": 9,
-      "Свиридов Валентин Валентинович": 14,
-      "Против всех": 46
+      "gas:candidate-vibid:348300270683": 69,
+      "gas:candidate-vibid:348300270686": 10,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 1,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 24,
+      "gas:candidate-vibid:1001000190361": 9,
+      "gas:candidate-vibid:1001000136074": 14,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 297,
-      "Бирюков Николай Иванович": 92,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 39,
-      "Купцов Геннадий Васильевич": 7,
-      "Минаков Виктор Михайлович": 148,
-      "Полосин Игорь Васильевич": 111,
-      "Свиридов Валентин Валентинович": 66,
-      "Против всех": 203
+      "gas:candidate-vibid:348300270683": 297,
+      "gas:candidate-vibid:348300270686": 92,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 39,
+      "gas:candidate-vibid:348300270444": 7,
+      "gas:candidate-vibid:1001000121862": 148,
+      "gas:candidate-vibid:1001000190361": 111,
+      "gas:candidate-vibid:1001000136074": 66,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 350,
-      "Бирюков Николай Иванович": 117,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 57,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 154,
-      "Полосин Игорь Васильевич": 173,
-      "Свиридов Валентин Валентинович": 62,
-      "Против всех": 271
+      "gas:candidate-vibid:348300270683": 350,
+      "gas:candidate-vibid:348300270686": 117,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 57,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 154,
+      "gas:candidate-vibid:1001000190361": 173,
+      "gas:candidate-vibid:1001000136074": 62,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 290,
-      "Бирюков Николай Иванович": 103,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 78,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 116,
-      "Полосин Игорь Васильевич": 143,
-      "Свиридов Валентин Валентинович": 84,
-      "Против всех": 196
+      "gas:candidate-vibid:348300270683": 290,
+      "gas:candidate-vibid:348300270686": 103,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 78,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 116,
+      "gas:candidate-vibid:1001000190361": 143,
+      "gas:candidate-vibid:1001000136074": 84,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 338,
-      "Бирюков Николай Иванович": 113,
-      "Казаров Сергей Азатович": 17,
-      "Колчев Михаил Иванович": 56,
-      "Купцов Геннадий Васильевич": 37,
-      "Минаков Виктор Михайлович": 171,
-      "Полосин Игорь Васильевич": 137,
-      "Свиридов Валентин Валентинович": 56,
-      "Против всех": 228
+      "gas:candidate-vibid:348300270683": 338,
+      "gas:candidate-vibid:348300270686": 113,
+      "gas:candidate-vibid:1001000258401": 17,
+      "gas:candidate-vibid:1001000277359": 56,
+      "gas:candidate-vibid:348300270444": 37,
+      "gas:candidate-vibid:1001000121862": 171,
+      "gas:candidate-vibid:1001000190361": 137,
+      "gas:candidate-vibid:1001000136074": 56,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 376,
-      "Бирюков Николай Иванович": 111,
-      "Казаров Сергей Азатович": 18,
-      "Колчев Михаил Иванович": 61,
-      "Купцов Геннадий Васильевич": 32,
-      "Минаков Виктор Михайлович": 175,
-      "Полосин Игорь Васильевич": 185,
-      "Свиридов Валентин Валентинович": 55,
-      "Против всех": 276
+      "gas:candidate-vibid:348300270683": 376,
+      "gas:candidate-vibid:348300270686": 111,
+      "gas:candidate-vibid:1001000258401": 18,
+      "gas:candidate-vibid:1001000277359": 61,
+      "gas:candidate-vibid:348300270444": 32,
+      "gas:candidate-vibid:1001000121862": 175,
+      "gas:candidate-vibid:1001000190361": 185,
+      "gas:candidate-vibid:1001000136074": 55,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 302,
-      "Бирюков Николай Иванович": 88,
-      "Казаров Сергей Азатович": 15,
-      "Колчев Михаил Иванович": 72,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 142,
-      "Полосин Игорь Васильевич": 154,
-      "Свиридов Валентин Валентинович": 69,
-      "Против всех": 262
+      "gas:candidate-vibid:348300270683": 302,
+      "gas:candidate-vibid:348300270686": 88,
+      "gas:candidate-vibid:1001000258401": 15,
+      "gas:candidate-vibid:1001000277359": 72,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 142,
+      "gas:candidate-vibid:1001000190361": 154,
+      "gas:candidate-vibid:1001000136074": 69,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 372,
-      "Бирюков Николай Иванович": 122,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 66,
-      "Купцов Геннадий Васильевич": 31,
-      "Минаков Виктор Михайлович": 181,
-      "Полосин Игорь Васильевич": 173,
-      "Свиридов Валентин Валентинович": 66,
-      "Против всех": 332
+      "gas:candidate-vibid:348300270683": 372,
+      "gas:candidate-vibid:348300270686": 122,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 66,
+      "gas:candidate-vibid:348300270444": 31,
+      "gas:candidate-vibid:1001000121862": 181,
+      "gas:candidate-vibid:1001000190361": 173,
+      "gas:candidate-vibid:1001000136074": 66,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 462,
-      "Бирюков Николай Иванович": 106,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 66,
-      "Купцов Геннадий Васильевич": 47,
-      "Минаков Виктор Михайлович": 197,
-      "Полосин Игорь Васильевич": 198,
-      "Свиридов Валентин Валентинович": 65,
-      "Против всех": 301
+      "gas:candidate-vibid:348300270683": 462,
+      "gas:candidate-vibid:348300270686": 106,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 66,
+      "gas:candidate-vibid:348300270444": 47,
+      "gas:candidate-vibid:1001000121862": 197,
+      "gas:candidate-vibid:1001000190361": 198,
+      "gas:candidate-vibid:1001000136074": 65,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 214,
-      "Бирюков Николай Иванович": 57,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 34,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 138,
-      "Полосин Игорь Васильевич": 93,
-      "Свиридов Валентин Валентинович": 30,
-      "Против всех": 128
+      "gas:candidate-vibid:348300270683": 214,
+      "gas:candidate-vibid:348300270686": 57,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 34,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 138,
+      "gas:candidate-vibid:1001000190361": 93,
+      "gas:candidate-vibid:1001000136074": 30,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 334,
-      "Бирюков Николай Иванович": 89,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 59,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 190,
-      "Полосин Игорь Васильевич": 158,
-      "Свиридов Валентин Валентинович": 44,
-      "Против всех": 258
+      "gas:candidate-vibid:348300270683": 334,
+      "gas:candidate-vibid:348300270686": 89,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 59,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 190,
+      "gas:candidate-vibid:1001000190361": 158,
+      "gas:candidate-vibid:1001000136074": 44,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 334,
-      "Бирюков Николай Иванович": 105,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 59,
-      "Купцов Геннадий Васильевич": 26,
-      "Минаков Виктор Михайлович": 196,
-      "Полосин Игорь Васильевич": 144,
-      "Свиридов Валентин Валентинович": 59,
-      "Против всех": 231
+      "gas:candidate-vibid:348300270683": 334,
+      "gas:candidate-vibid:348300270686": 105,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 59,
+      "gas:candidate-vibid:348300270444": 26,
+      "gas:candidate-vibid:1001000121862": 196,
+      "gas:candidate-vibid:1001000190361": 144,
+      "gas:candidate-vibid:1001000136074": 59,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 355,
-      "Бирюков Николай Иванович": 85,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 44,
-      "Купцов Геннадий Васильевич": 36,
-      "Минаков Виктор Михайлович": 134,
-      "Полосин Игорь Васильевич": 148,
-      "Свиридов Валентин Валентинович": 53,
-      "Против всех": 219
+      "gas:candidate-vibid:348300270683": 355,
+      "gas:candidate-vibid:348300270686": 85,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 44,
+      "gas:candidate-vibid:348300270444": 36,
+      "gas:candidate-vibid:1001000121862": 134,
+      "gas:candidate-vibid:1001000190361": 148,
+      "gas:candidate-vibid:1001000136074": 53,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 436,
-      "Бирюков Николай Иванович": 95,
-      "Казаров Сергей Азатович": 15,
-      "Колчев Михаил Иванович": 41,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 111,
-      "Полосин Игорь Васильевич": 188,
-      "Свиридов Валентин Валентинович": 52,
-      "Против всех": 320
+      "gas:candidate-vibid:348300270683": 436,
+      "gas:candidate-vibid:348300270686": 95,
+      "gas:candidate-vibid:1001000258401": 15,
+      "gas:candidate-vibid:1001000277359": 41,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 111,
+      "gas:candidate-vibid:1001000190361": 188,
+      "gas:candidate-vibid:1001000136074": 52,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 446,
-      "Бирюков Николай Иванович": 112,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 72,
-      "Купцов Геннадий Васильевич": 63,
-      "Минаков Виктор Михайлович": 185,
-      "Полосин Игорь Васильевич": 181,
-      "Свиридов Валентин Валентинович": 57,
-      "Против всех": 335
+      "gas:candidate-vibid:348300270683": 446,
+      "gas:candidate-vibid:348300270686": 112,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 72,
+      "gas:candidate-vibid:348300270444": 63,
+      "gas:candidate-vibid:1001000121862": 185,
+      "gas:candidate-vibid:1001000190361": 181,
+      "gas:candidate-vibid:1001000136074": 57,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 407,
-      "Бирюков Николай Иванович": 80,
-      "Казаров Сергей Азатович": 19,
-      "Колчев Михаил Иванович": 47,
-      "Купцов Геннадий Васильевич": 41,
-      "Минаков Виктор Михайлович": 171,
-      "Полосин Игорь Васильевич": 181,
-      "Свиридов Валентин Валентинович": 63,
-      "Против всех": 318
+      "gas:candidate-vibid:348300270683": 407,
+      "gas:candidate-vibid:348300270686": 80,
+      "gas:candidate-vibid:1001000258401": 19,
+      "gas:candidate-vibid:1001000277359": 47,
+      "gas:candidate-vibid:348300270444": 41,
+      "gas:candidate-vibid:1001000121862": 171,
+      "gas:candidate-vibid:1001000190361": 181,
+      "gas:candidate-vibid:1001000136074": 63,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 471,
-      "Бирюков Николай Иванович": 109,
-      "Казаров Сергей Азатович": 15,
-      "Колчев Михаил Иванович": 57,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 98,
-      "Полосин Игорь Васильевич": 107,
-      "Свиридов Валентин Валентинович": 74,
-      "Против всех": 458
+      "gas:candidate-vibid:348300270683": 471,
+      "gas:candidate-vibid:348300270686": 109,
+      "gas:candidate-vibid:1001000258401": 15,
+      "gas:candidate-vibid:1001000277359": 57,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 98,
+      "gas:candidate-vibid:1001000190361": 107,
+      "gas:candidate-vibid:1001000136074": 74,
+      "special:against-all": 458
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 335,
-      "Бирюков Николай Иванович": 78,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 43,
-      "Купцов Геннадий Васильевич": 41,
-      "Минаков Виктор Михайлович": 165,
-      "Полосин Игорь Васильевич": 142,
-      "Свиридов Валентин Валентинович": 51,
-      "Против всех": 286
+      "gas:candidate-vibid:348300270683": 335,
+      "gas:candidate-vibid:348300270686": 78,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 43,
+      "gas:candidate-vibid:348300270444": 41,
+      "gas:candidate-vibid:1001000121862": 165,
+      "gas:candidate-vibid:1001000190361": 142,
+      "gas:candidate-vibid:1001000136074": 51,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 119,
-      "Бирюков Николай Иванович": 32,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 16,
-      "Купцов Геннадий Васильевич": 8,
-      "Минаков Виктор Михайлович": 56,
-      "Полосин Игорь Васильевич": 28,
-      "Свиридов Валентин Валентинович": 25,
-      "Против всех": 72
+      "gas:candidate-vibid:348300270683": 119,
+      "gas:candidate-vibid:348300270686": 32,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 16,
+      "gas:candidate-vibid:348300270444": 8,
+      "gas:candidate-vibid:1001000121862": 56,
+      "gas:candidate-vibid:1001000190361": 28,
+      "gas:candidate-vibid:1001000136074": 25,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070751&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 217,
-      "Бирюков Николай Иванович": 151,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 35,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 142,
-      "Полосин Игорь Васильевич": 83,
-      "Свиридов Валентин Валентинович": 35,
-      "Против всех": 138
+      "gas:candidate-vibid:348300270683": 217,
+      "gas:candidate-vibid:348300270686": 151,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 35,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 142,
+      "gas:candidate-vibid:1001000190361": 83,
+      "gas:candidate-vibid:1001000136074": 35,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 202,
-      "Бирюков Николай Иванович": 223,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 20,
-      "Купцов Геннадий Васильевич": 7,
-      "Минаков Виктор Михайлович": 168,
-      "Полосин Игорь Васильевич": 65,
-      "Свиридов Валентин Валентинович": 44,
-      "Против всех": 131
+      "gas:candidate-vibid:348300270683": 202,
+      "gas:candidate-vibid:348300270686": 223,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 20,
+      "gas:candidate-vibid:348300270444": 7,
+      "gas:candidate-vibid:1001000121862": 168,
+      "gas:candidate-vibid:1001000190361": 65,
+      "gas:candidate-vibid:1001000136074": 44,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 271,
-      "Бирюков Николай Иванович": 291,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 40,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 143,
-      "Полосин Игорь Васильевич": 96,
-      "Свиридов Валентин Валентинович": 44,
-      "Против всех": 226
+      "gas:candidate-vibid:348300270683": 271,
+      "gas:candidate-vibid:348300270686": 291,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 40,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 143,
+      "gas:candidate-vibid:1001000190361": 96,
+      "gas:candidate-vibid:1001000136074": 44,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 103,
-      "Бирюков Николай Иванович": 50,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 9,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 53,
-      "Полосин Игорь Васильевич": 39,
-      "Свиридов Валентин Валентинович": 26,
-      "Против всех": 77
+      "gas:candidate-vibid:348300270683": 103,
+      "gas:candidate-vibid:348300270686": 50,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 9,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 53,
+      "gas:candidate-vibid:1001000190361": 39,
+      "gas:candidate-vibid:1001000136074": 26,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 46,
-      "Бирюков Николай Иванович": 29,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 4,
-      "Минаков Виктор Михайлович": 15,
-      "Полосин Игорь Васильевич": 20,
-      "Свиридов Валентин Валентинович": 12,
-      "Против всех": 44
+      "gas:candidate-vibid:348300270683": 46,
+      "gas:candidate-vibid:348300270686": 29,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 4,
+      "gas:candidate-vibid:1001000121862": 15,
+      "gas:candidate-vibid:1001000190361": 20,
+      "gas:candidate-vibid:1001000136074": 12,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 12,
-      "Бирюков Николай Иванович": 4,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 1,
-      "Купцов Геннадий Васильевич": 0,
-      "Минаков Виктор Михайлович": 4,
-      "Полосин Игорь Васильевич": 7,
-      "Свиридов Валентин Валентинович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:348300270683": 12,
+      "gas:candidate-vibid:348300270686": 4,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 1,
+      "gas:candidate-vibid:348300270444": 0,
+      "gas:candidate-vibid:1001000121862": 4,
+      "gas:candidate-vibid:1001000190361": 7,
+      "gas:candidate-vibid:1001000136074": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 256,
-      "Бирюков Николай Иванович": 166,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 40,
-      "Купцов Геннадий Васильевич": 24,
-      "Минаков Виктор Михайлович": 156,
-      "Полосин Игорь Васильевич": 123,
-      "Свиридов Валентин Валентинович": 46,
-      "Против всех": 221
+      "gas:candidate-vibid:348300270683": 256,
+      "gas:candidate-vibid:348300270686": 166,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 40,
+      "gas:candidate-vibid:348300270444": 24,
+      "gas:candidate-vibid:1001000121862": 156,
+      "gas:candidate-vibid:1001000190361": 123,
+      "gas:candidate-vibid:1001000136074": 46,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 187,
-      "Бирюков Николай Иванович": 95,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 23,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 109,
-      "Полосин Игорь Васильевич": 89,
-      "Свиридов Валентин Валентинович": 25,
-      "Против всех": 135
+      "gas:candidate-vibid:348300270683": 187,
+      "gas:candidate-vibid:348300270686": 95,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 23,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 109,
+      "gas:candidate-vibid:1001000190361": 89,
+      "gas:candidate-vibid:1001000136074": 25,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 327,
-      "Бирюков Николай Иванович": 253,
-      "Казаров Сергей Азатович": 15,
-      "Колчев Михаил Иванович": 69,
-      "Купцов Геннадий Васильевич": 31,
-      "Минаков Виктор Михайлович": 283,
-      "Полосин Игорь Васильевич": 134,
-      "Свиридов Валентин Валентинович": 85,
-      "Против всех": 278
+      "gas:candidate-vibid:348300270683": 327,
+      "gas:candidate-vibid:348300270686": 253,
+      "gas:candidate-vibid:1001000258401": 15,
+      "gas:candidate-vibid:1001000277359": 69,
+      "gas:candidate-vibid:348300270444": 31,
+      "gas:candidate-vibid:1001000121862": 283,
+      "gas:candidate-vibid:1001000190361": 134,
+      "gas:candidate-vibid:1001000136074": 85,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 251,
-      "Бирюков Николай Иванович": 227,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 57,
-      "Купцов Геннадий Васильевич": 30,
-      "Минаков Виктор Михайлович": 203,
-      "Полосин Игорь Васильевич": 156,
-      "Свиридов Валентин Валентинович": 50,
-      "Против всех": 241
+      "gas:candidate-vibid:348300270683": 251,
+      "gas:candidate-vibid:348300270686": 227,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 57,
+      "gas:candidate-vibid:348300270444": 30,
+      "gas:candidate-vibid:1001000121862": 203,
+      "gas:candidate-vibid:1001000190361": 156,
+      "gas:candidate-vibid:1001000136074": 50,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 225,
-      "Бирюков Николай Иванович": 200,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 51,
-      "Купцов Геннадий Васильевич": 22,
-      "Минаков Виктор Михайлович": 140,
-      "Полосин Игорь Васильевич": 94,
-      "Свиридов Валентин Валентинович": 45,
-      "Против всех": 151
+      "gas:candidate-vibid:348300270683": 225,
+      "gas:candidate-vibid:348300270686": 200,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 51,
+      "gas:candidate-vibid:348300270444": 22,
+      "gas:candidate-vibid:1001000121862": 140,
+      "gas:candidate-vibid:1001000190361": 94,
+      "gas:candidate-vibid:1001000136074": 45,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 210,
-      "Бирюков Николай Иванович": 105,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 43,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 193,
-      "Полосин Игорь Васильевич": 145,
-      "Свиридов Валентин Валентинович": 37,
-      "Против всех": 209
+      "gas:candidate-vibid:348300270683": 210,
+      "gas:candidate-vibid:348300270686": 105,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 43,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 193,
+      "gas:candidate-vibid:1001000190361": 145,
+      "gas:candidate-vibid:1001000136074": 37,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 227,
-      "Бирюков Николай Иванович": 94,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 32,
-      "Купцов Геннадий Васильевич": 28,
-      "Минаков Виктор Михайлович": 146,
-      "Полосин Игорь Васильевич": 126,
-      "Свиридов Валентин Валентинович": 28,
-      "Против всех": 175
+      "gas:candidate-vibid:348300270683": 227,
+      "gas:candidate-vibid:348300270686": 94,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 32,
+      "gas:candidate-vibid:348300270444": 28,
+      "gas:candidate-vibid:1001000121862": 146,
+      "gas:candidate-vibid:1001000190361": 126,
+      "gas:candidate-vibid:1001000136074": 28,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 183,
-      "Бирюков Николай Иванович": 85,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 36,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 198,
-      "Полосин Игорь Васильевич": 156,
-      "Свиридов Валентин Валентинович": 33,
-      "Против всех": 176
+      "gas:candidate-vibid:348300270683": 183,
+      "gas:candidate-vibid:348300270686": 85,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 36,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 198,
+      "gas:candidate-vibid:1001000190361": 156,
+      "gas:candidate-vibid:1001000136074": 33,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 250,
-      "Бирюков Николай Иванович": 87,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 36,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 177,
-      "Полосин Игорь Васильевич": 148,
-      "Свиридов Валентин Валентинович": 41,
-      "Против всех": 191
+      "gas:candidate-vibid:348300270683": 250,
+      "gas:candidate-vibid:348300270686": 87,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 36,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 177,
+      "gas:candidate-vibid:1001000190361": 148,
+      "gas:candidate-vibid:1001000136074": 41,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 195,
-      "Бирюков Николай Иванович": 109,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 35,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 147,
-      "Полосин Игорь Васильевич": 162,
-      "Свиридов Валентин Валентинович": 31,
-      "Против всех": 172
+      "gas:candidate-vibid:348300270683": 195,
+      "gas:candidate-vibid:348300270686": 109,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 35,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 147,
+      "gas:candidate-vibid:1001000190361": 162,
+      "gas:candidate-vibid:1001000136074": 31,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 203,
-      "Бирюков Николай Иванович": 76,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 132,
-      "Полосин Игорь Васильевич": 127,
-      "Свиридов Валентин Валентинович": 32,
-      "Против всех": 143
+      "gas:candidate-vibid:348300270683": 203,
+      "gas:candidate-vibid:348300270686": 76,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 132,
+      "gas:candidate-vibid:1001000190361": 127,
+      "gas:candidate-vibid:1001000136074": 32,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 156,
-      "Бирюков Николай Иванович": 55,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 21,
-      "Купцов Геннадий Васильевич": 12,
-      "Минаков Виктор Михайлович": 70,
-      "Полосин Игорь Васильевич": 66,
-      "Свиридов Валентин Валентинович": 46,
-      "Против всех": 80
+      "gas:candidate-vibid:348300270683": 156,
+      "gas:candidate-vibid:348300270686": 55,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 21,
+      "gas:candidate-vibid:348300270444": 12,
+      "gas:candidate-vibid:1001000121862": 70,
+      "gas:candidate-vibid:1001000190361": 66,
+      "gas:candidate-vibid:1001000136074": 46,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 154,
-      "Бирюков Николай Иванович": 61,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 23,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 62,
-      "Полосин Игорь Васильевич": 53,
-      "Свиридов Валентин Валентинович": 18,
-      "Против всех": 95
+      "gas:candidate-vibid:348300270683": 154,
+      "gas:candidate-vibid:348300270686": 61,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 23,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 62,
+      "gas:candidate-vibid:1001000190361": 53,
+      "gas:candidate-vibid:1001000136074": 18,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 268,
-      "Бирюков Николай Иванович": 125,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 54,
-      "Купцов Геннадий Васильевич": 22,
-      "Минаков Виктор Михайлович": 128,
-      "Полосин Игорь Васильевич": 107,
-      "Свиридов Валентин Валентинович": 42,
-      "Против всех": 188
+      "gas:candidate-vibid:348300270683": 268,
+      "gas:candidate-vibid:348300270686": 125,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 54,
+      "gas:candidate-vibid:348300270444": 22,
+      "gas:candidate-vibid:1001000121862": 128,
+      "gas:candidate-vibid:1001000190361": 107,
+      "gas:candidate-vibid:1001000136074": 42,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 173,
-      "Бирюков Николай Иванович": 146,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 33,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 99,
-      "Полосин Игорь Васильевич": 56,
-      "Свиридов Валентин Валентинович": 39,
-      "Против всех": 139
+      "gas:candidate-vibid:348300270683": 173,
+      "gas:candidate-vibid:348300270686": 146,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 33,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 99,
+      "gas:candidate-vibid:1001000190361": 56,
+      "gas:candidate-vibid:1001000136074": 39,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 212,
-      "Бирюков Николай Иванович": 128,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 37,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 125,
-      "Полосин Игорь Васильевич": 65,
-      "Свиридов Валентин Валентинович": 61,
-      "Против всех": 146
+      "gas:candidate-vibid:348300270683": 212,
+      "gas:candidate-vibid:348300270686": 128,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 37,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 125,
+      "gas:candidate-vibid:1001000190361": 65,
+      "gas:candidate-vibid:1001000136074": 61,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 207,
-      "Бирюков Николай Иванович": 63,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 34,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 171,
-      "Полосин Игорь Васильевич": 72,
-      "Свиридов Валентин Валентинович": 47,
-      "Против всех": 116
+      "gas:candidate-vibid:348300270683": 207,
+      "gas:candidate-vibid:348300270686": 63,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 34,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 171,
+      "gas:candidate-vibid:1001000190361": 72,
+      "gas:candidate-vibid:1001000136074": 47,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 204,
-      "Бирюков Николай Иванович": 73,
-      "Казаров Сергей Азатович": 15,
-      "Колчев Михаил Иванович": 43,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 141,
-      "Полосин Игорь Васильевич": 91,
-      "Свиридов Валентин Валентинович": 28,
-      "Против всех": 156
+      "gas:candidate-vibid:348300270683": 204,
+      "gas:candidate-vibid:348300270686": 73,
+      "gas:candidate-vibid:1001000258401": 15,
+      "gas:candidate-vibid:1001000277359": 43,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 141,
+      "gas:candidate-vibid:1001000190361": 91,
+      "gas:candidate-vibid:1001000136074": 28,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 230,
-      "Бирюков Николай Иванович": 88,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 22,
-      "Минаков Виктор Михайлович": 197,
-      "Полосин Игорь Васильевич": 152,
-      "Свиридов Валентин Валентинович": 44,
-      "Против всех": 214
+      "gas:candidate-vibid:348300270683": 230,
+      "gas:candidate-vibid:348300270686": 88,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 22,
+      "gas:candidate-vibid:1001000121862": 197,
+      "gas:candidate-vibid:1001000190361": 152,
+      "gas:candidate-vibid:1001000136074": 44,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 231,
-      "Бирюков Николай Иванович": 68,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 33,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 72,
-      "Полосин Игорь Васильевич": 86,
-      "Свиридов Валентин Валентинович": 48,
-      "Против всех": 168
+      "gas:candidate-vibid:348300270683": 231,
+      "gas:candidate-vibid:348300270686": 68,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 33,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 72,
+      "gas:candidate-vibid:1001000190361": 86,
+      "gas:candidate-vibid:1001000136074": 48,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 282,
-      "Бирюков Николай Иванович": 98,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 66,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 209,
-      "Полосин Игорь Васильевич": 117,
-      "Свиридов Валентин Валентинович": 66,
-      "Против всех": 227
+      "gas:candidate-vibid:348300270683": 282,
+      "gas:candidate-vibid:348300270686": 98,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 66,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 209,
+      "gas:candidate-vibid:1001000190361": 117,
+      "gas:candidate-vibid:1001000136074": 66,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 8,
-      "Бирюков Николай Иванович": 1,
-      "Казаров Сергей Азатович": 0,
-      "Колчев Михаил Иванович": 1,
-      "Купцов Геннадий Васильевич": 0,
-      "Минаков Виктор Михайлович": 0,
-      "Полосин Игорь Васильевич": 1,
-      "Свиридов Валентин Валентинович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:348300270683": 8,
+      "gas:candidate-vibid:348300270686": 1,
+      "gas:candidate-vibid:1001000258401": 0,
+      "gas:candidate-vibid:1001000277359": 1,
+      "gas:candidate-vibid:348300270444": 0,
+      "gas:candidate-vibid:1001000121862": 0,
+      "gas:candidate-vibid:1001000190361": 1,
+      "gas:candidate-vibid:1001000136074": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 210,
-      "Бирюков Николай Иванович": 73,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 30,
-      "Купцов Геннадий Васильевич": 19,
-      "Минаков Виктор Михайлович": 144,
-      "Полосин Игорь Васильевич": 132,
-      "Свиридов Валентин Валентинович": 47,
-      "Против всех": 188
+      "gas:candidate-vibid:348300270683": 210,
+      "gas:candidate-vibid:348300270686": 73,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 30,
+      "gas:candidate-vibid:348300270444": 19,
+      "gas:candidate-vibid:1001000121862": 144,
+      "gas:candidate-vibid:1001000190361": 132,
+      "gas:candidate-vibid:1001000136074": 47,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 208,
-      "Бирюков Николай Иванович": 63,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 39,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 109,
-      "Полосин Игорь Васильевич": 61,
-      "Свиридов Валентин Валентинович": 39,
-      "Против всех": 135
+      "gas:candidate-vibid:348300270683": 208,
+      "gas:candidate-vibid:348300270686": 63,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 39,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 109,
+      "gas:candidate-vibid:1001000190361": 61,
+      "gas:candidate-vibid:1001000136074": 39,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 273,
-      "Бирюков Николай Иванович": 82,
-      "Казаров Сергей Азатович": 21,
-      "Колчев Михаил Иванович": 54,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 151,
-      "Полосин Игорь Васильевич": 82,
-      "Свиридов Валентин Валентинович": 38,
-      "Против всех": 167
+      "gas:candidate-vibid:348300270683": 273,
+      "gas:candidate-vibid:348300270686": 82,
+      "gas:candidate-vibid:1001000258401": 21,
+      "gas:candidate-vibid:1001000277359": 54,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 151,
+      "gas:candidate-vibid:1001000190361": 82,
+      "gas:candidate-vibid:1001000136074": 38,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 301,
-      "Бирюков Николай Иванович": 133,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 37,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 234,
-      "Полосин Игорь Васильевич": 112,
-      "Свиридов Валентин Валентинович": 62,
-      "Против всех": 214
+      "gas:candidate-vibid:348300270683": 301,
+      "gas:candidate-vibid:348300270686": 133,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 37,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 234,
+      "gas:candidate-vibid:1001000190361": 112,
+      "gas:candidate-vibid:1001000136074": 62,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 318,
-      "Бирюков Николай Иванович": 78,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 38,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 121,
-      "Полосин Игорь Васильевич": 91,
-      "Свиридов Валентин Валентинович": 48,
-      "Против всех": 166
+      "gas:candidate-vibid:348300270683": 318,
+      "gas:candidate-vibid:348300270686": 78,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 38,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 121,
+      "gas:candidate-vibid:1001000190361": 91,
+      "gas:candidate-vibid:1001000136074": 48,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 83,
-      "Бирюков Николай Иванович": 30,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 11,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 49,
-      "Полосин Игорь Васильевич": 29,
-      "Свиридов Валентин Валентинович": 19,
-      "Против всех": 44
+      "gas:candidate-vibid:348300270683": 83,
+      "gas:candidate-vibid:348300270686": 30,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 11,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 49,
+      "gas:candidate-vibid:1001000190361": 29,
+      "gas:candidate-vibid:1001000136074": 19,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=482000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=248200070753&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 518,
-      "Бирюков Николай Иванович": 67,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 28,
-      "Купцов Геннадий Васильевич": 30,
-      "Минаков Виктор Михайлович": 189,
-      "Полосин Игорь Васильевич": 153,
-      "Свиридов Валентин Валентинович": 41,
-      "Против всех": 185
+      "gas:candidate-vibid:348300270683": 518,
+      "gas:candidate-vibid:348300270686": 67,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 28,
+      "gas:candidate-vibid:348300270444": 30,
+      "gas:candidate-vibid:1001000121862": 189,
+      "gas:candidate-vibid:1001000190361": 153,
+      "gas:candidate-vibid:1001000136074": 41,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 273,
-      "Бирюков Николай Иванович": 47,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 19,
-      "Купцов Геннадий Васильевич": 26,
-      "Минаков Виктор Михайлович": 132,
-      "Полосин Игорь Васильевич": 149,
-      "Свиридов Валентин Валентинович": 32,
-      "Против всех": 120
+      "gas:candidate-vibid:348300270683": 273,
+      "gas:candidate-vibid:348300270686": 47,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 19,
+      "gas:candidate-vibid:348300270444": 26,
+      "gas:candidate-vibid:1001000121862": 132,
+      "gas:candidate-vibid:1001000190361": 149,
+      "gas:candidate-vibid:1001000136074": 32,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 114,
-      "Бирюков Николай Иванович": 25,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 12,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 39,
-      "Полосин Игорь Васильевич": 30,
-      "Свиридов Валентин Валентинович": 13,
-      "Против всех": 22
+      "gas:candidate-vibid:348300270683": 114,
+      "gas:candidate-vibid:348300270686": 25,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 12,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 39,
+      "gas:candidate-vibid:1001000190361": 30,
+      "gas:candidate-vibid:1001000136074": 13,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 74,
-      "Бирюков Николай Иванович": 18,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 14,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 73,
-      "Полосин Игорь Васильевич": 49,
-      "Свиридов Валентин Валентинович": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:348300270683": 74,
+      "gas:candidate-vibid:348300270686": 18,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 14,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 73,
+      "gas:candidate-vibid:1001000190361": 49,
+      "gas:candidate-vibid:1001000136074": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 44,
-      "Бирюков Николай Иванович": 8,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 5,
-      "Купцов Геннадий Васильевич": 7,
-      "Минаков Виктор Михайлович": 20,
-      "Полосин Игорь Васильевич": 28,
-      "Свиридов Валентин Валентинович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:348300270683": 44,
+      "gas:candidate-vibid:348300270686": 8,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 5,
+      "gas:candidate-vibid:348300270444": 7,
+      "gas:candidate-vibid:1001000121862": 20,
+      "gas:candidate-vibid:1001000190361": 28,
+      "gas:candidate-vibid:1001000136074": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 303,
-      "Бирюков Николай Иванович": 32,
-      "Казаров Сергей Азатович": 0,
-      "Колчев Михаил Иванович": 18,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 113,
-      "Полосин Игорь Васильевич": 99,
-      "Свиридов Валентин Валентинович": 20,
-      "Против всех": 113
+      "gas:candidate-vibid:348300270683": 303,
+      "gas:candidate-vibid:348300270686": 32,
+      "gas:candidate-vibid:1001000258401": 0,
+      "gas:candidate-vibid:1001000277359": 18,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 113,
+      "gas:candidate-vibid:1001000190361": 99,
+      "gas:candidate-vibid:1001000136074": 20,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 114,
-      "Бирюков Николай Иванович": 12,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 8,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 33,
-      "Полосин Игорь Васильевич": 27,
-      "Свиридов Валентин Валентинович": 17,
-      "Против всех": 42
+      "gas:candidate-vibid:348300270683": 114,
+      "gas:candidate-vibid:348300270686": 12,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 8,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 33,
+      "gas:candidate-vibid:1001000190361": 27,
+      "gas:candidate-vibid:1001000136074": 17,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 165,
-      "Бирюков Николай Иванович": 36,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 6,
-      "Минаков Виктор Михайлович": 31,
-      "Полосин Игорь Васильевич": 50,
-      "Свиридов Валентин Валентинович": 18,
-      "Против всех": 66
+      "gas:candidate-vibid:348300270683": 165,
+      "gas:candidate-vibid:348300270686": 36,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 6,
+      "gas:candidate-vibid:1001000121862": 31,
+      "gas:candidate-vibid:1001000190361": 50,
+      "gas:candidate-vibid:1001000136074": 18,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 233,
-      "Бирюков Николай Иванович": 45,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 7,
-      "Минаков Виктор Михайлович": 27,
-      "Полосин Игорь Васильевич": 24,
-      "Свиридов Валентин Валентинович": 14,
-      "Против всех": 62
+      "gas:candidate-vibid:348300270683": 233,
+      "gas:candidate-vibid:348300270686": 45,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 7,
+      "gas:candidate-vibid:1001000121862": 27,
+      "gas:candidate-vibid:1001000190361": 24,
+      "gas:candidate-vibid:1001000136074": 14,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 79,
-      "Бирюков Николай Иванович": 24,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 4,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 52,
-      "Полосин Игорь Васильевич": 28,
-      "Свиридов Валентин Валентинович": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:348300270683": 79,
+      "gas:candidate-vibid:348300270686": 24,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 4,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 52,
+      "gas:candidate-vibid:1001000190361": 28,
+      "gas:candidate-vibid:1001000136074": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 145,
-      "Бирюков Николай Иванович": 33,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 3,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 35,
-      "Полосин Игорь Васильевич": 27,
-      "Свиридов Валентин Валентинович": 16,
-      "Против всех": 30
+      "gas:candidate-vibid:348300270683": 145,
+      "gas:candidate-vibid:348300270686": 33,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 3,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 35,
+      "gas:candidate-vibid:1001000190361": 27,
+      "gas:candidate-vibid:1001000136074": 16,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 121,
-      "Бирюков Николай Иванович": 47,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 9,
-      "Купцов Геннадий Васильевич": 12,
-      "Минаков Виктор Михайлович": 51,
-      "Полосин Игорь Васильевич": 46,
-      "Свиридов Валентин Валентинович": 22,
-      "Против всех": 38
+      "gas:candidate-vibid:348300270683": 121,
+      "gas:candidate-vibid:348300270686": 47,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 9,
+      "gas:candidate-vibid:348300270444": 12,
+      "gas:candidate-vibid:1001000121862": 51,
+      "gas:candidate-vibid:1001000190361": 46,
+      "gas:candidate-vibid:1001000136074": 22,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 42,
-      "Бирюков Николай Иванович": 11,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 3,
-      "Купцов Геннадий Васильевич": 1,
-      "Минаков Виктор Михайлович": 8,
-      "Полосин Игорь Васильевич": 24,
-      "Свиридов Валентин Валентинович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:348300270683": 42,
+      "gas:candidate-vibid:348300270686": 11,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 3,
+      "gas:candidate-vibid:348300270444": 1,
+      "gas:candidate-vibid:1001000121862": 8,
+      "gas:candidate-vibid:1001000190361": 24,
+      "gas:candidate-vibid:1001000136074": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 77,
-      "Бирюков Николай Иванович": 21,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 5,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 24,
-      "Полосин Игорь Васильевич": 30,
-      "Свиридов Валентин Валентинович": 7,
-      "Против всех": 35
+      "gas:candidate-vibid:348300270683": 77,
+      "gas:candidate-vibid:348300270686": 21,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 5,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 24,
+      "gas:candidate-vibid:1001000190361": 30,
+      "gas:candidate-vibid:1001000136074": 7,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 129,
-      "Бирюков Николай Иванович": 24,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 8,
-      "Минаков Виктор Михайлович": 59,
-      "Полосин Игорь Васильевич": 73,
-      "Свиридов Валентин Валентинович": 11,
-      "Против всех": 56
+      "gas:candidate-vibid:348300270683": 129,
+      "gas:candidate-vibid:348300270686": 24,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 8,
+      "gas:candidate-vibid:1001000121862": 59,
+      "gas:candidate-vibid:1001000190361": 73,
+      "gas:candidate-vibid:1001000136074": 11,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 47,
-      "Бирюков Николай Иванович": 13,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 6,
-      "Купцов Геннадий Васильевич": 2,
-      "Минаков Виктор Михайлович": 13,
-      "Полосин Игорь Васильевич": 32,
-      "Свиридов Валентин Валентинович": 15,
-      "Против всех": 12
+      "gas:candidate-vibid:348300270683": 47,
+      "gas:candidate-vibid:348300270686": 13,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 6,
+      "gas:candidate-vibid:348300270444": 2,
+      "gas:candidate-vibid:1001000121862": 13,
+      "gas:candidate-vibid:1001000190361": 32,
+      "gas:candidate-vibid:1001000136074": 15,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 245,
-      "Бирюков Николай Иванович": 31,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 6,
-      "Минаков Виктор Михайлович": 67,
-      "Полосин Игорь Васильевич": 48,
-      "Свиридов Валентин Валентинович": 9,
-      "Против всех": 70
+      "gas:candidate-vibid:348300270683": 245,
+      "gas:candidate-vibid:348300270686": 31,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 6,
+      "gas:candidate-vibid:1001000121862": 67,
+      "gas:candidate-vibid:1001000190361": 48,
+      "gas:candidate-vibid:1001000136074": 9,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 346,
-      "Бирюков Николай Иванович": 51,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 15,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 88,
-      "Полосин Игорь Васильевич": 56,
-      "Свиридов Валентин Валентинович": 20,
-      "Против всех": 122
+      "gas:candidate-vibid:348300270683": 346,
+      "gas:candidate-vibid:348300270686": 51,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 15,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 88,
+      "gas:candidate-vibid:1001000190361": 56,
+      "gas:candidate-vibid:1001000136074": 20,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 98,
-      "Бирюков Николай Иванович": 20,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 3,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 24,
-      "Полосин Игорь Васильевич": 36,
-      "Свиридов Валентин Валентинович": 14,
-      "Против всех": 53
+      "gas:candidate-vibid:348300270683": 98,
+      "gas:candidate-vibid:348300270686": 20,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 3,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 24,
+      "gas:candidate-vibid:1001000190361": 36,
+      "gas:candidate-vibid:1001000136074": 14,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 165,
-      "Бирюков Николай Иванович": 19,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 3,
-      "Купцов Геннадий Васильевич": 4,
-      "Минаков Виктор Михайлович": 71,
-      "Полосин Игорь Васильевич": 31,
-      "Свиридов Валентин Валентинович": 4,
-      "Против всех": 49
+      "gas:candidate-vibid:348300270683": 165,
+      "gas:candidate-vibid:348300270686": 19,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 3,
+      "gas:candidate-vibid:348300270444": 4,
+      "gas:candidate-vibid:1001000121862": 71,
+      "gas:candidate-vibid:1001000190361": 31,
+      "gas:candidate-vibid:1001000136074": 4,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 226,
-      "Бирюков Николай Иванович": 46,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 20,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 48,
-      "Полосин Игорь Васильевич": 61,
-      "Свиридов Валентин Валентинович": 21,
-      "Против всех": 80
+      "gas:candidate-vibid:348300270683": 226,
+      "gas:candidate-vibid:348300270686": 46,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 20,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 48,
+      "gas:candidate-vibid:1001000190361": 61,
+      "gas:candidate-vibid:1001000136074": 21,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 96,
-      "Бирюков Николай Иванович": 19,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 10,
-      "Купцов Геннадий Васильевич": 1,
-      "Минаков Виктор Михайлович": 18,
-      "Полосин Игорь Васильевич": 26,
-      "Свиридов Валентин Валентинович": 15,
-      "Против всех": 29
+      "gas:candidate-vibid:348300270683": 96,
+      "gas:candidate-vibid:348300270686": 19,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 10,
+      "gas:candidate-vibid:348300270444": 1,
+      "gas:candidate-vibid:1001000121862": 18,
+      "gas:candidate-vibid:1001000190361": 26,
+      "gas:candidate-vibid:1001000136074": 15,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 196,
-      "Бирюков Николай Иванович": 58,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 12,
-      "Купцов Геннадий Васильевич": 22,
-      "Минаков Виктор Михайлович": 79,
-      "Полосин Игорь Васильевич": 61,
-      "Свиридов Валентин Валентинович": 13,
-      "Против всех": 95
+      "gas:candidate-vibid:348300270683": 196,
+      "gas:candidate-vibid:348300270686": 58,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 12,
+      "gas:candidate-vibid:348300270444": 22,
+      "gas:candidate-vibid:1001000121862": 79,
+      "gas:candidate-vibid:1001000190361": 61,
+      "gas:candidate-vibid:1001000136074": 13,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 82,
-      "Бирюков Николай Иванович": 25,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 8,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 34,
-      "Полосин Игорь Васильевич": 14,
-      "Свиридов Валентин Валентинович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:348300270683": 82,
+      "gas:candidate-vibid:348300270686": 25,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 8,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 34,
+      "gas:candidate-vibid:1001000190361": 14,
+      "gas:candidate-vibid:1001000136074": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 248,
-      "Бирюков Николай Иванович": 17,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 8,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 56,
-      "Полосин Игорь Васильевич": 29,
-      "Свиридов Валентин Валентинович": 18,
-      "Против всех": 38
+      "gas:candidate-vibid:348300270683": 248,
+      "gas:candidate-vibid:348300270686": 17,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 8,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 56,
+      "gas:candidate-vibid:1001000190361": 29,
+      "gas:candidate-vibid:1001000136074": 18,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 69,
-      "Бирюков Николай Иванович": 4,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 2,
-      "Купцов Геннадий Васильевич": 1,
-      "Минаков Виктор Михайлович": 1,
-      "Полосин Игорь Васильевич": 6,
-      "Свиридов Валентин Валентинович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:348300270683": 69,
+      "gas:candidate-vibid:348300270686": 4,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 2,
+      "gas:candidate-vibid:348300270444": 1,
+      "gas:candidate-vibid:1001000121862": 1,
+      "gas:candidate-vibid:1001000190361": 6,
+      "gas:candidate-vibid:1001000136074": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 32,
-      "Бирюков Николай Иванович": 6,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 1,
-      "Купцов Геннадий Васильевич": 1,
-      "Минаков Виктор Михайлович": 18,
-      "Полосин Игорь Васильевич": 6,
-      "Свиридов Валентин Валентинович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:348300270683": 32,
+      "gas:candidate-vibid:348300270686": 6,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 1,
+      "gas:candidate-vibid:348300270444": 1,
+      "gas:candidate-vibid:1001000121862": 18,
+      "gas:candidate-vibid:1001000190361": 6,
+      "gas:candidate-vibid:1001000136074": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 303,
-      "Бирюков Николай Иванович": 72,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 27,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 83,
-      "Полосин Игорь Васильевич": 62,
-      "Свиридов Валентин Валентинович": 28,
-      "Против всех": 125
+      "gas:candidate-vibid:348300270683": 303,
+      "gas:candidate-vibid:348300270686": 72,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 27,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 83,
+      "gas:candidate-vibid:1001000190361": 62,
+      "gas:candidate-vibid:1001000136074": 28,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 123,
-      "Бирюков Николай Иванович": 18,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 5,
-      "Купцов Геннадий Васильевич": 7,
-      "Минаков Виктор Михайлович": 15,
-      "Полосин Игорь Васильевич": 21,
-      "Свиридов Валентин Валентинович": 9,
-      "Против всех": 29
+      "gas:candidate-vibid:348300270683": 123,
+      "gas:candidate-vibid:348300270686": 18,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 5,
+      "gas:candidate-vibid:348300270444": 7,
+      "gas:candidate-vibid:1001000121862": 15,
+      "gas:candidate-vibid:1001000190361": 21,
+      "gas:candidate-vibid:1001000136074": 9,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 169,
-      "Бирюков Николай Иванович": 39,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 11,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 24,
-      "Полосин Игорь Васильевич": 56,
-      "Свиридов Валентин Валентинович": 8,
-      "Против всех": 40
+      "gas:candidate-vibid:348300270683": 169,
+      "gas:candidate-vibid:348300270686": 39,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 11,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 24,
+      "gas:candidate-vibid:1001000190361": 56,
+      "gas:candidate-vibid:1001000136074": 8,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 62,
-      "Бирюков Николай Иванович": 11,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 11,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 36,
-      "Полосин Игорь Васильевич": 26,
-      "Свиридов Валентин Валентинович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:348300270683": 62,
+      "gas:candidate-vibid:348300270686": 11,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 11,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 36,
+      "gas:candidate-vibid:1001000190361": 26,
+      "gas:candidate-vibid:1001000136074": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 77,
-      "Бирюков Николай Иванович": 13,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 27,
-      "Полосин Игорь Васильевич": 41,
-      "Свиридов Валентин Валентинович": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:348300270683": 77,
+      "gas:candidate-vibid:348300270686": 13,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 27,
+      "gas:candidate-vibid:1001000190361": 41,
+      "gas:candidate-vibid:1001000136074": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 81,
-      "Бирюков Николай Иванович": 25,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 6,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 22,
-      "Полосин Игорь Васильевич": 48,
-      "Свиридов Валентин Валентинович": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:348300270683": 81,
+      "gas:candidate-vibid:348300270686": 25,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 6,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 22,
+      "gas:candidate-vibid:1001000190361": 48,
+      "gas:candidate-vibid:1001000136074": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 174,
-      "Бирюков Николай Иванович": 29,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 9,
-      "Купцов Геннадий Васильевич": 10,
-      "Минаков Виктор Михайлович": 34,
-      "Полосин Игорь Васильевич": 38,
-      "Свиридов Валентин Валентинович": 24,
-      "Против всех": 33
+      "gas:candidate-vibid:348300270683": 174,
+      "gas:candidate-vibid:348300270686": 29,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 9,
+      "gas:candidate-vibid:348300270444": 10,
+      "gas:candidate-vibid:1001000121862": 34,
+      "gas:candidate-vibid:1001000190361": 38,
+      "gas:candidate-vibid:1001000136074": 24,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 283,
-      "Бирюков Николай Иванович": 68,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 19,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 123,
-      "Полосин Игорь Васильевич": 54,
-      "Свиридов Валентин Валентинович": 19,
-      "Против всех": 107
+      "gas:candidate-vibid:348300270683": 283,
+      "gas:candidate-vibid:348300270686": 68,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 19,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 123,
+      "gas:candidate-vibid:1001000190361": 54,
+      "gas:candidate-vibid:1001000136074": 19,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 23,
-      "Бирюков Николай Иванович": 4,
-      "Казаров Сергей Азатович": 0,
-      "Колчев Михаил Иванович": 1,
-      "Купцов Геннадий Васильевич": 0,
-      "Минаков Виктор Михайлович": 13,
-      "Полосин Игорь Васильевич": 7,
-      "Свиридов Валентин Валентинович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:348300270683": 23,
+      "gas:candidate-vibid:348300270686": 4,
+      "gas:candidate-vibid:1001000258401": 0,
+      "gas:candidate-vibid:1001000277359": 1,
+      "gas:candidate-vibid:348300270444": 0,
+      "gas:candidate-vibid:1001000121862": 13,
+      "gas:candidate-vibid:1001000190361": 7,
+      "gas:candidate-vibid:1001000136074": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 60,
-      "Бирюков Николай Иванович": 7,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 9,
-      "Купцов Геннадий Васильевич": 5,
-      "Минаков Виктор Михайлович": 8,
-      "Полосин Игорь Васильевич": 11,
-      "Свиридов Валентин Валентинович": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:348300270683": 60,
+      "gas:candidate-vibid:348300270686": 7,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 9,
+      "gas:candidate-vibid:348300270444": 5,
+      "gas:candidate-vibid:1001000121862": 8,
+      "gas:candidate-vibid:1001000190361": 11,
+      "gas:candidate-vibid:1001000136074": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 38,
-      "Бирюков Николай Иванович": 16,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 1,
-      "Купцов Геннадий Васильевич": 2,
-      "Минаков Виктор Михайлович": 4,
-      "Полосин Игорь Васильевич": 17,
-      "Свиридов Валентин Валентинович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:348300270683": 38,
+      "gas:candidate-vibid:348300270686": 16,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 1,
+      "gas:candidate-vibid:348300270444": 2,
+      "gas:candidate-vibid:1001000121862": 4,
+      "gas:candidate-vibid:1001000190361": 17,
+      "gas:candidate-vibid:1001000136074": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 41,
-      "Бирюков Николай Иванович": 10,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 3,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 8,
-      "Полосин Игорь Васильевич": 30,
-      "Свиридов Валентин Валентинович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:348300270683": 41,
+      "gas:candidate-vibid:348300270686": 10,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 3,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 8,
+      "gas:candidate-vibid:1001000190361": 30,
+      "gas:candidate-vibid:1001000136074": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 31,
-      "Бирюков Николай Иванович": 15,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 2,
-      "Купцов Геннадий Васильевич": 2,
-      "Минаков Виктор Михайлович": 14,
-      "Полосин Игорь Васильевич": 15,
-      "Свиридов Валентин Валентинович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:348300270683": 31,
+      "gas:candidate-vibid:348300270686": 15,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 2,
+      "gas:candidate-vibid:348300270444": 2,
+      "gas:candidate-vibid:1001000121862": 14,
+      "gas:candidate-vibid:1001000190361": 15,
+      "gas:candidate-vibid:1001000136074": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 25,
-      "Бирюков Николай Иванович": 7,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 2,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 7,
-      "Полосин Игорь Васильевич": 45,
-      "Свиридов Валентин Валентинович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:348300270683": 25,
+      "gas:candidate-vibid:348300270686": 7,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 2,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 7,
+      "gas:candidate-vibid:1001000190361": 45,
+      "gas:candidate-vibid:1001000136074": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 158,
-      "Бирюков Николай Иванович": 46,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 25,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 38,
-      "Полосин Игорь Васильевич": 61,
-      "Свиридов Валентин Валентинович": 16,
-      "Против всех": 82
+      "gas:candidate-vibid:348300270683": 158,
+      "gas:candidate-vibid:348300270686": 46,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 25,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 38,
+      "gas:candidate-vibid:1001000190361": 61,
+      "gas:candidate-vibid:1001000136074": 16,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 153,
-      "Бирюков Николай Иванович": 49,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 18,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 40,
-      "Полосин Игорь Васильевич": 61,
-      "Свиридов Валентин Валентинович": 35,
-      "Против всех": 94
+      "gas:candidate-vibid:348300270683": 153,
+      "gas:candidate-vibid:348300270686": 49,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 18,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 40,
+      "gas:candidate-vibid:1001000190361": 61,
+      "gas:candidate-vibid:1001000136074": 35,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 177,
-      "Бирюков Николай Иванович": 36,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 16,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 69,
-      "Полосин Игорь Васильевич": 62,
-      "Свиридов Валентин Валентинович": 21,
-      "Против всех": 90
+      "gas:candidate-vibid:348300270683": 177,
+      "gas:candidate-vibid:348300270686": 36,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 16,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 69,
+      "gas:candidate-vibid:1001000190361": 62,
+      "gas:candidate-vibid:1001000136074": 21,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 191,
-      "Бирюков Николай Иванович": 41,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 11,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 54,
-      "Полосин Игорь Васильевич": 56,
-      "Свиридов Валентин Валентинович": 15,
-      "Против всех": 71
+      "gas:candidate-vibid:348300270683": 191,
+      "gas:candidate-vibid:348300270686": 41,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 11,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 54,
+      "gas:candidate-vibid:1001000190361": 56,
+      "gas:candidate-vibid:1001000136074": 15,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 128,
-      "Бирюков Николай Иванович": 24,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 4,
-      "Купцов Геннадий Васильевич": 7,
-      "Минаков Виктор Михайлович": 38,
-      "Полосин Игорь Васильевич": 33,
-      "Свиридов Валентин Валентинович": 9,
-      "Против всех": 45
+      "gas:candidate-vibid:348300270683": 128,
+      "gas:candidate-vibid:348300270686": 24,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 4,
+      "gas:candidate-vibid:348300270444": 7,
+      "gas:candidate-vibid:1001000121862": 38,
+      "gas:candidate-vibid:1001000190361": 33,
+      "gas:candidate-vibid:1001000136074": 9,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 94,
-      "Бирюков Николай Иванович": 26,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 10,
-      "Купцов Геннадий Васильевич": 1,
-      "Минаков Виктор Михайлович": 22,
-      "Полосин Игорь Васильевич": 32,
-      "Свиридов Валентин Валентинович": 7,
-      "Против всех": 35
+      "gas:candidate-vibid:348300270683": 94,
+      "gas:candidate-vibid:348300270686": 26,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 10,
+      "gas:candidate-vibid:348300270444": 1,
+      "gas:candidate-vibid:1001000121862": 22,
+      "gas:candidate-vibid:1001000190361": 32,
+      "gas:candidate-vibid:1001000136074": 7,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 176,
-      "Бирюков Николай Иванович": 14,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 0,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 14,
-      "Полосин Игорь Васильевич": 12,
-      "Свиридов Валентин Валентинович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:348300270683": 176,
+      "gas:candidate-vibid:348300270686": 14,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 0,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 14,
+      "gas:candidate-vibid:1001000190361": 12,
+      "gas:candidate-vibid:1001000136074": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 55,
-      "Бирюков Николай Иванович": 9,
-      "Казаров Сергей Азатович": 0,
-      "Колчев Михаил Иванович": 4,
-      "Купцов Геннадий Васильевич": 3,
-      "Минаков Виктор Михайлович": 0,
-      "Полосин Игорь Васильевич": 1,
-      "Свиридов Валентин Валентинович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:348300270683": 55,
+      "gas:candidate-vibid:348300270686": 9,
+      "gas:candidate-vibid:1001000258401": 0,
+      "gas:candidate-vibid:1001000277359": 4,
+      "gas:candidate-vibid:348300270444": 3,
+      "gas:candidate-vibid:1001000121862": 0,
+      "gas:candidate-vibid:1001000190361": 1,
+      "gas:candidate-vibid:1001000136074": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 314,
-      "Бирюков Николай Иванович": 46,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 20,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 201,
-      "Полосин Игорь Васильевич": 86,
-      "Свиридов Валентин Валентинович": 28,
-      "Против всех": 213
+      "gas:candidate-vibid:348300270683": 314,
+      "gas:candidate-vibid:348300270686": 46,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 20,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 201,
+      "gas:candidate-vibid:1001000190361": 86,
+      "gas:candidate-vibid:1001000136074": 28,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 38,
-      "Бирюков Николай Иванович": 9,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 4,
-      "Купцов Геннадий Васильевич": 2,
-      "Минаков Виктор Михайлович": 11,
-      "Полосин Игорь Васильевич": 17,
-      "Свиридов Валентин Валентинович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:348300270683": 38,
+      "gas:candidate-vibid:348300270686": 9,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 4,
+      "gas:candidate-vibid:348300270444": 2,
+      "gas:candidate-vibid:1001000121862": 11,
+      "gas:candidate-vibid:1001000190361": 17,
+      "gas:candidate-vibid:1001000136074": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270481&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 172,
-      "Бирюков Николай Иванович": 57,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 25,
-      "Купцов Геннадий Васильевич": 25,
-      "Минаков Виктор Михайлович": 163,
-      "Полосин Игорь Васильевич": 128,
-      "Свиридов Валентин Валентинович": 26,
-      "Против всех": 153
+      "gas:candidate-vibid:348300270683": 172,
+      "gas:candidate-vibid:348300270686": 57,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 25,
+      "gas:candidate-vibid:348300270444": 25,
+      "gas:candidate-vibid:1001000121862": 163,
+      "gas:candidate-vibid:1001000190361": 128,
+      "gas:candidate-vibid:1001000136074": 26,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 188,
-      "Бирюков Николай Иванович": 96,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 28,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 148,
-      "Полосин Игорь Васильевич": 105,
-      "Свиридов Валентин Валентинович": 44,
-      "Против всех": 153
+      "gas:candidate-vibid:348300270683": 188,
+      "gas:candidate-vibid:348300270686": 96,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 28,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 148,
+      "gas:candidate-vibid:1001000190361": 105,
+      "gas:candidate-vibid:1001000136074": 44,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 180,
-      "Бирюков Николай Иванович": 66,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 26,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 219,
-      "Полосин Игорь Васильевич": 106,
-      "Свиридов Валентин Валентинович": 25,
-      "Против всех": 157
+      "gas:candidate-vibid:348300270683": 180,
+      "gas:candidate-vibid:348300270686": 66,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 26,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 219,
+      "gas:candidate-vibid:1001000190361": 106,
+      "gas:candidate-vibid:1001000136074": 25,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 140,
-      "Бирюков Николай Иванович": 46,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 21,
-      "Купцов Геннадий Васильевич": 10,
-      "Минаков Виктор Михайлович": 114,
-      "Полосин Игорь Васильевич": 76,
-      "Свиридов Валентин Валентинович": 20,
-      "Против всех": 86
+      "gas:candidate-vibid:348300270683": 140,
+      "gas:candidate-vibid:348300270686": 46,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 21,
+      "gas:candidate-vibid:348300270444": 10,
+      "gas:candidate-vibid:1001000121862": 114,
+      "gas:candidate-vibid:1001000190361": 76,
+      "gas:candidate-vibid:1001000136074": 20,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 222,
-      "Бирюков Николай Иванович": 67,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 34,
-      "Купцов Геннадий Васильевич": 82,
-      "Минаков Виктор Михайлович": 227,
-      "Полосин Игорь Васильевич": 133,
-      "Свиридов Валентин Валентинович": 39,
-      "Против всех": 155
+      "gas:candidate-vibid:348300270683": 222,
+      "gas:candidate-vibid:348300270686": 67,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 34,
+      "gas:candidate-vibid:348300270444": 82,
+      "gas:candidate-vibid:1001000121862": 227,
+      "gas:candidate-vibid:1001000190361": 133,
+      "gas:candidate-vibid:1001000136074": 39,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 325,
-      "Бирюков Николай Иванович": 82,
-      "Казаров Сергей Азатович": 19,
-      "Колчев Михаил Иванович": 47,
-      "Купцов Геннадий Васильевич": 51,
-      "Минаков Виктор Михайлович": 231,
-      "Полосин Игорь Васильевич": 193,
-      "Свиридов Валентин Валентинович": 37,
-      "Против всех": 226
+      "gas:candidate-vibid:348300270683": 325,
+      "gas:candidate-vibid:348300270686": 82,
+      "gas:candidate-vibid:1001000258401": 19,
+      "gas:candidate-vibid:1001000277359": 47,
+      "gas:candidate-vibid:348300270444": 51,
+      "gas:candidate-vibid:1001000121862": 231,
+      "gas:candidate-vibid:1001000190361": 193,
+      "gas:candidate-vibid:1001000136074": 37,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 335,
-      "Бирюков Николай Иванович": 98,
-      "Казаров Сергей Азатович": 23,
-      "Колчев Михаил Иванович": 80,
-      "Купцов Геннадий Васильевич": 48,
-      "Минаков Виктор Михайлович": 300,
-      "Полосин Игорь Васильевич": 251,
-      "Свиридов Валентин Валентинович": 68,
-      "Против всех": 214
+      "gas:candidate-vibid:348300270683": 335,
+      "gas:candidate-vibid:348300270686": 98,
+      "gas:candidate-vibid:1001000258401": 23,
+      "gas:candidate-vibid:1001000277359": 80,
+      "gas:candidate-vibid:348300270444": 48,
+      "gas:candidate-vibid:1001000121862": 300,
+      "gas:candidate-vibid:1001000190361": 251,
+      "gas:candidate-vibid:1001000136074": 68,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 326,
-      "Бирюков Николай Иванович": 81,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 50,
-      "Купцов Геннадий Васильевич": 39,
-      "Минаков Виктор Михайлович": 234,
-      "Полосин Игорь Васильевич": 191,
-      "Свиридов Валентин Валентинович": 34,
-      "Против всех": 197
+      "gas:candidate-vibid:348300270683": 326,
+      "gas:candidate-vibid:348300270686": 81,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 50,
+      "gas:candidate-vibid:348300270444": 39,
+      "gas:candidate-vibid:1001000121862": 234,
+      "gas:candidate-vibid:1001000190361": 191,
+      "gas:candidate-vibid:1001000136074": 34,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 304,
-      "Бирюков Николай Иванович": 72,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 48,
-      "Купцов Геннадий Васильевич": 26,
-      "Минаков Виктор Михайлович": 94,
-      "Полосин Игорь Васильевич": 130,
-      "Свиридов Валентин Валентинович": 56,
-      "Против всех": 236
+      "gas:candidate-vibid:348300270683": 304,
+      "gas:candidate-vibid:348300270686": 72,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 48,
+      "gas:candidate-vibid:348300270444": 26,
+      "gas:candidate-vibid:1001000121862": 94,
+      "gas:candidate-vibid:1001000190361": 130,
+      "gas:candidate-vibid:1001000136074": 56,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 387,
-      "Бирюков Николай Иванович": 91,
-      "Казаров Сергей Азатович": 39,
-      "Колчев Михаил Иванович": 49,
-      "Купцов Геннадий Васильевич": 30,
-      "Минаков Виктор Михайлович": 169,
-      "Полосин Игорь Васильевич": 174,
-      "Свиридов Валентин Валентинович": 35,
-      "Против всех": 208
+      "gas:candidate-vibid:348300270683": 387,
+      "gas:candidate-vibid:348300270686": 91,
+      "gas:candidate-vibid:1001000258401": 39,
+      "gas:candidate-vibid:1001000277359": 49,
+      "gas:candidate-vibid:348300270444": 30,
+      "gas:candidate-vibid:1001000121862": 169,
+      "gas:candidate-vibid:1001000190361": 174,
+      "gas:candidate-vibid:1001000136074": 35,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 265,
-      "Бирюков Николай Иванович": 88,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 42,
-      "Купцов Геннадий Васильевич": 27,
-      "Минаков Виктор Михайлович": 253,
-      "Полосин Игорь Васильевич": 130,
-      "Свиридов Валентин Валентинович": 66,
-      "Против всех": 195
+      "gas:candidate-vibid:348300270683": 265,
+      "gas:candidate-vibid:348300270686": 88,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 42,
+      "gas:candidate-vibid:348300270444": 27,
+      "gas:candidate-vibid:1001000121862": 253,
+      "gas:candidate-vibid:1001000190361": 130,
+      "gas:candidate-vibid:1001000136074": 66,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 283,
-      "Бирюков Николай Иванович": 119,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 50,
-      "Купцов Геннадий Васильевич": 26,
-      "Минаков Виктор Михайлович": 202,
-      "Полосин Игорь Васильевич": 168,
-      "Свиридов Валентин Валентинович": 61,
-      "Против всех": 240
+      "gas:candidate-vibid:348300270683": 283,
+      "gas:candidate-vibid:348300270686": 119,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 50,
+      "gas:candidate-vibid:348300270444": 26,
+      "gas:candidate-vibid:1001000121862": 202,
+      "gas:candidate-vibid:1001000190361": 168,
+      "gas:candidate-vibid:1001000136074": 61,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 322,
-      "Бирюков Николай Иванович": 102,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 79,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 220,
-      "Полосин Игорь Васильевич": 272,
-      "Свиридов Валентин Валентинович": 59,
-      "Против всех": 265
+      "gas:candidate-vibid:348300270683": 322,
+      "gas:candidate-vibid:348300270686": 102,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 79,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 220,
+      "gas:candidate-vibid:1001000190361": 272,
+      "gas:candidate-vibid:1001000136074": 59,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 288,
-      "Бирюков Николай Иванович": 74,
-      "Казаров Сергей Азатович": 20,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 32,
-      "Минаков Виктор Михайлович": 215,
-      "Полосин Игорь Васильевич": 196,
-      "Свиридов Валентин Валентинович": 37,
-      "Против всех": 215
+      "gas:candidate-vibid:348300270683": 288,
+      "gas:candidate-vibid:348300270686": 74,
+      "gas:candidate-vibid:1001000258401": 20,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 32,
+      "gas:candidate-vibid:1001000121862": 215,
+      "gas:candidate-vibid:1001000190361": 196,
+      "gas:candidate-vibid:1001000136074": 37,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 242,
-      "Бирюков Николай Иванович": 66,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 52,
-      "Купцов Геннадий Васильевич": 25,
-      "Минаков Виктор Михайлович": 172,
-      "Полосин Игорь Васильевич": 216,
-      "Свиридов Валентин Валентинович": 40,
-      "Против всех": 223
+      "gas:candidate-vibid:348300270683": 242,
+      "gas:candidate-vibid:348300270686": 66,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 52,
+      "gas:candidate-vibid:348300270444": 25,
+      "gas:candidate-vibid:1001000121862": 172,
+      "gas:candidate-vibid:1001000190361": 216,
+      "gas:candidate-vibid:1001000136074": 40,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 224,
-      "Бирюков Николай Иванович": 84,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 70,
-      "Купцов Геннадий Васильевич": 10,
-      "Минаков Виктор Михайлович": 102,
-      "Полосин Игорь Васильевич": 141,
-      "Свиридов Валентин Валентинович": 84,
-      "Против всех": 305
+      "gas:candidate-vibid:348300270683": 224,
+      "gas:candidate-vibid:348300270686": 84,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 70,
+      "gas:candidate-vibid:348300270444": 10,
+      "gas:candidate-vibid:1001000121862": 102,
+      "gas:candidate-vibid:1001000190361": 141,
+      "gas:candidate-vibid:1001000136074": 84,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 211,
-      "Бирюков Николай Иванович": 81,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 88,
-      "Купцов Геннадий Васильевич": 9,
-      "Минаков Виктор Михайлович": 304,
-      "Полосин Игорь Васильевич": 288,
-      "Свиридов Валентин Валентинович": 36,
-      "Против всех": 251
+      "gas:candidate-vibid:348300270683": 211,
+      "gas:candidate-vibid:348300270686": 81,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 88,
+      "gas:candidate-vibid:348300270444": 9,
+      "gas:candidate-vibid:1001000121862": 304,
+      "gas:candidate-vibid:1001000190361": 288,
+      "gas:candidate-vibid:1001000136074": 36,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 237,
-      "Бирюков Николай Иванович": 84,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 55,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 195,
-      "Полосин Игорь Васильевич": 139,
-      "Свиридов Валентин Валентинович": 46,
-      "Против всех": 231
+      "gas:candidate-vibid:348300270683": 237,
+      "gas:candidate-vibid:348300270686": 84,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 55,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 195,
+      "gas:candidate-vibid:1001000190361": 139,
+      "gas:candidate-vibid:1001000136074": 46,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 238,
-      "Бирюков Николай Иванович": 79,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 24,
-      "Минаков Виктор Михайлович": 246,
-      "Полосин Игорь Васильевич": 175,
-      "Свиридов Валентин Валентинович": 54,
-      "Против всех": 220
+      "gas:candidate-vibid:348300270683": 238,
+      "gas:candidate-vibid:348300270686": 79,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 24,
+      "gas:candidate-vibid:1001000121862": 246,
+      "gas:candidate-vibid:1001000190361": 175,
+      "gas:candidate-vibid:1001000136074": 54,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 183,
-      "Бирюков Николай Иванович": 64,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 31,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 194,
-      "Полосин Игорь Васильевич": 121,
-      "Свиридов Валентин Валентинович": 36,
-      "Против всех": 135
+      "gas:candidate-vibid:348300270683": 183,
+      "gas:candidate-vibid:348300270686": 64,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 31,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 194,
+      "gas:candidate-vibid:1001000190361": 121,
+      "gas:candidate-vibid:1001000136074": 36,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 297,
-      "Бирюков Николай Иванович": 90,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 48,
-      "Купцов Геннадий Васильевич": 27,
-      "Минаков Виктор Михайлович": 140,
-      "Полосин Игорь Васильевич": 201,
-      "Свиридов Валентин Валентинович": 49,
-      "Против всех": 230
+      "gas:candidate-vibid:348300270683": 297,
+      "gas:candidate-vibid:348300270686": 90,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 48,
+      "gas:candidate-vibid:348300270444": 27,
+      "gas:candidate-vibid:1001000121862": 140,
+      "gas:candidate-vibid:1001000190361": 201,
+      "gas:candidate-vibid:1001000136074": 49,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 350,
-      "Бирюков Николай Иванович": 97,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 47,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 210,
-      "Полосин Игорь Васильевич": 176,
-      "Свиридов Валентин Валентинович": 49,
-      "Против всех": 284
+      "gas:candidate-vibid:348300270683": 350,
+      "gas:candidate-vibid:348300270686": 97,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 47,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 210,
+      "gas:candidate-vibid:1001000190361": 176,
+      "gas:candidate-vibid:1001000136074": 49,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 259,
-      "Бирюков Николай Иванович": 65,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 44,
-      "Купцов Геннадий Васильевич": 21,
-      "Минаков Виктор Михайлович": 165,
-      "Полосин Игорь Васильевич": 136,
-      "Свиридов Валентин Валентинович": 45,
-      "Против всех": 198
+      "gas:candidate-vibid:348300270683": 259,
+      "gas:candidate-vibid:348300270686": 65,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 44,
+      "gas:candidate-vibid:348300270444": 21,
+      "gas:candidate-vibid:1001000121862": 165,
+      "gas:candidate-vibid:1001000190361": 136,
+      "gas:candidate-vibid:1001000136074": 45,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 255,
-      "Бирюков Николай Иванович": 108,
-      "Казаров Сергей Азатович": 2,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 10,
-      "Минаков Виктор Михайлович": 159,
-      "Полосин Игорь Васильевич": 128,
-      "Свиридов Валентин Валентинович": 54,
-      "Против всех": 182
+      "gas:candidate-vibid:348300270683": 255,
+      "gas:candidate-vibid:348300270686": 108,
+      "gas:candidate-vibid:1001000258401": 2,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 10,
+      "gas:candidate-vibid:1001000121862": 159,
+      "gas:candidate-vibid:1001000190361": 128,
+      "gas:candidate-vibid:1001000136074": 54,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 279,
-      "Бирюков Николай Иванович": 93,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 30,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 153,
-      "Полосин Игорь Васильевич": 116,
-      "Свиридов Валентин Валентинович": 40,
-      "Против всех": 197
+      "gas:candidate-vibid:348300270683": 279,
+      "gas:candidate-vibid:348300270686": 93,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 30,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 153,
+      "gas:candidate-vibid:1001000190361": 116,
+      "gas:candidate-vibid:1001000136074": 40,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 283,
-      "Бирюков Николай Иванович": 115,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 38,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 143,
-      "Полосин Игорь Васильевич": 124,
-      "Свиридов Валентин Валентинович": 28,
-      "Против всех": 175
+      "gas:candidate-vibid:348300270683": 283,
+      "gas:candidate-vibid:348300270686": 115,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 38,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 143,
+      "gas:candidate-vibid:1001000190361": 124,
+      "gas:candidate-vibid:1001000136074": 28,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 230,
-      "Бирюков Николай Иванович": 85,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 23,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 160,
-      "Полосин Игорь Васильевич": 118,
-      "Свиридов Валентин Валентинович": 41,
-      "Против всех": 162
+      "gas:candidate-vibid:348300270683": 230,
+      "gas:candidate-vibid:348300270686": 85,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 23,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 160,
+      "gas:candidate-vibid:1001000190361": 118,
+      "gas:candidate-vibid:1001000136074": 41,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 345,
-      "Бирюков Николай Иванович": 117,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 39,
-      "Купцов Геннадий Васильевич": 30,
-      "Минаков Виктор Михайлович": 180,
-      "Полосин Игорь Васильевич": 134,
-      "Свиридов Валентин Валентинович": 47,
-      "Против всех": 267
+      "gas:candidate-vibid:348300270683": 345,
+      "gas:candidate-vibid:348300270686": 117,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 39,
+      "gas:candidate-vibid:348300270444": 30,
+      "gas:candidate-vibid:1001000121862": 180,
+      "gas:candidate-vibid:1001000190361": 134,
+      "gas:candidate-vibid:1001000136074": 47,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 253,
-      "Бирюков Николай Иванович": 85,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 41,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 164,
-      "Полосин Игорь Васильевич": 134,
-      "Свиридов Валентин Валентинович": 47,
-      "Против всех": 208
+      "gas:candidate-vibid:348300270683": 253,
+      "gas:candidate-vibid:348300270686": 85,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 41,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 164,
+      "gas:candidate-vibid:1001000190361": 134,
+      "gas:candidate-vibid:1001000136074": 47,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 251,
-      "Бирюков Николай Иванович": 134,
-      "Казаров Сергей Азатович": 18,
-      "Колчев Михаил Иванович": 52,
-      "Купцов Геннадий Васильевич": 25,
-      "Минаков Виктор Михайлович": 225,
-      "Полосин Игорь Васильевич": 164,
-      "Свиридов Валентин Валентинович": 59,
-      "Против всех": 257
+      "gas:candidate-vibid:348300270683": 251,
+      "gas:candidate-vibid:348300270686": 134,
+      "gas:candidate-vibid:1001000258401": 18,
+      "gas:candidate-vibid:1001000277359": 52,
+      "gas:candidate-vibid:348300270444": 25,
+      "gas:candidate-vibid:1001000121862": 225,
+      "gas:candidate-vibid:1001000190361": 164,
+      "gas:candidate-vibid:1001000136074": 59,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 356,
-      "Бирюков Николай Иванович": 97,
-      "Казаров Сергей Азатович": 8,
-      "Колчев Михаил Иванович": 49,
-      "Купцов Геннадий Васильевич": 33,
-      "Минаков Виктор Михайлович": 169,
-      "Полосин Игорь Васильевич": 118,
-      "Свиридов Валентин Валентинович": 66,
-      "Против всех": 244
+      "gas:candidate-vibid:348300270683": 356,
+      "gas:candidate-vibid:348300270686": 97,
+      "gas:candidate-vibid:1001000258401": 8,
+      "gas:candidate-vibid:1001000277359": 49,
+      "gas:candidate-vibid:348300270444": 33,
+      "gas:candidate-vibid:1001000121862": 169,
+      "gas:candidate-vibid:1001000190361": 118,
+      "gas:candidate-vibid:1001000136074": 66,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 301,
-      "Бирюков Николай Иванович": 80,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 53,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 177,
-      "Полосин Игорь Васильевич": 137,
-      "Свиридов Валентин Валентинович": 58,
-      "Против всех": 193
+      "gas:candidate-vibid:348300270683": 301,
+      "gas:candidate-vibid:348300270686": 80,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 53,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 177,
+      "gas:candidate-vibid:1001000190361": 137,
+      "gas:candidate-vibid:1001000136074": 58,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 341,
-      "Бирюков Николай Иванович": 97,
-      "Казаров Сергей Азатович": 16,
-      "Колчев Михаил Иванович": 71,
-      "Купцов Геннадий Васильевич": 25,
-      "Минаков Виктор Михайлович": 171,
-      "Полосин Игорь Васильевич": 141,
-      "Свиридов Валентин Валентинович": 40,
-      "Против всех": 218
+      "gas:candidate-vibid:348300270683": 341,
+      "gas:candidate-vibid:348300270686": 97,
+      "gas:candidate-vibid:1001000258401": 16,
+      "gas:candidate-vibid:1001000277359": 71,
+      "gas:candidate-vibid:348300270444": 25,
+      "gas:candidate-vibid:1001000121862": 171,
+      "gas:candidate-vibid:1001000190361": 141,
+      "gas:candidate-vibid:1001000136074": 40,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 317,
-      "Бирюков Николай Иванович": 99,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 51,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 178,
-      "Полосин Игорь Васильевич": 148,
-      "Свиридов Валентин Валентинович": 30,
-      "Против всех": 201
+      "gas:candidate-vibid:348300270683": 317,
+      "gas:candidate-vibid:348300270686": 99,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 51,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 178,
+      "gas:candidate-vibid:1001000190361": 148,
+      "gas:candidate-vibid:1001000136074": 30,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 343,
-      "Бирюков Николай Иванович": 57,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 135,
-      "Полосин Игорь Васильевич": 147,
-      "Свиридов Валентин Валентинович": 50,
-      "Против всех": 244
+      "gas:candidate-vibid:348300270683": 343,
+      "gas:candidate-vibid:348300270686": 57,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 135,
+      "gas:candidate-vibid:1001000190361": 147,
+      "gas:candidate-vibid:1001000136074": 50,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 433,
-      "Бирюков Николай Иванович": 114,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 47,
-      "Купцов Геннадий Васильевич": 31,
-      "Минаков Виктор Михайлович": 225,
-      "Полосин Игорь Васильевич": 151,
-      "Свиридов Валентин Валентинович": 61,
-      "Против всех": 327
+      "gas:candidate-vibid:348300270683": 433,
+      "gas:candidate-vibid:348300270686": 114,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 47,
+      "gas:candidate-vibid:348300270444": 31,
+      "gas:candidate-vibid:1001000121862": 225,
+      "gas:candidate-vibid:1001000190361": 151,
+      "gas:candidate-vibid:1001000136074": 61,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 188,
-      "Бирюков Николай Иванович": 21,
-      "Казаров Сергей Азатович": 3,
-      "Колчев Михаил Иванович": 7,
-      "Купцов Геннадий Васильевич": 2,
-      "Минаков Виктор Михайлович": 18,
-      "Полосин Игорь Васильевич": 11,
-      "Свиридов Валентин Валентинович": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:348300270683": 188,
+      "gas:candidate-vibid:348300270686": 21,
+      "gas:candidate-vibid:1001000258401": 3,
+      "gas:candidate-vibid:1001000277359": 7,
+      "gas:candidate-vibid:348300270444": 2,
+      "gas:candidate-vibid:1001000121862": 18,
+      "gas:candidate-vibid:1001000190361": 11,
+      "gas:candidate-vibid:1001000136074": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 241,
-      "Бирюков Николай Иванович": 77,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 58,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 181,
-      "Полосин Игорь Васильевич": 170,
-      "Свиридов Валентин Валентинович": 34,
-      "Против всех": 203
+      "gas:candidate-vibid:348300270683": 241,
+      "gas:candidate-vibid:348300270686": 77,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 58,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 181,
+      "gas:candidate-vibid:1001000190361": 170,
+      "gas:candidate-vibid:1001000136074": 34,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 242,
-      "Бирюков Николай Иванович": 133,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 56,
-      "Купцов Геннадий Васильевич": 19,
-      "Минаков Виктор Михайлович": 180,
-      "Полосин Игорь Васильевич": 187,
-      "Свиридов Валентин Валентинович": 44,
-      "Против всех": 215
+      "gas:candidate-vibid:348300270683": 242,
+      "gas:candidate-vibid:348300270686": 133,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 56,
+      "gas:candidate-vibid:348300270444": 19,
+      "gas:candidate-vibid:1001000121862": 180,
+      "gas:candidate-vibid:1001000190361": 187,
+      "gas:candidate-vibid:1001000136074": 44,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 178,
-      "Бирюков Николай Иванович": 103,
-      "Казаров Сергей Азатович": 9,
-      "Колчев Михаил Иванович": 47,
-      "Купцов Геннадий Васильевич": 18,
-      "Минаков Виктор Михайлович": 115,
-      "Полосин Игорь Васильевич": 131,
-      "Свиридов Валентин Валентинович": 26,
-      "Против всех": 152
+      "gas:candidate-vibid:348300270683": 178,
+      "gas:candidate-vibid:348300270686": 103,
+      "gas:candidate-vibid:1001000258401": 9,
+      "gas:candidate-vibid:1001000277359": 47,
+      "gas:candidate-vibid:348300270444": 18,
+      "gas:candidate-vibid:1001000121862": 115,
+      "gas:candidate-vibid:1001000190361": 131,
+      "gas:candidate-vibid:1001000136074": 26,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 253,
-      "Бирюков Николай Иванович": 84,
-      "Казаров Сергей Азатович": 18,
-      "Колчев Михаил Иванович": 41,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 150,
-      "Полосин Игорь Васильевич": 111,
-      "Свиридов Валентин Валентинович": 59,
-      "Против всех": 206
+      "gas:candidate-vibid:348300270683": 253,
+      "gas:candidate-vibid:348300270686": 84,
+      "gas:candidate-vibid:1001000258401": 18,
+      "gas:candidate-vibid:1001000277359": 41,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 150,
+      "gas:candidate-vibid:1001000190361": 111,
+      "gas:candidate-vibid:1001000136074": 59,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 254,
-      "Бирюков Николай Иванович": 100,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 28,
-      "Купцов Геннадий Васильевич": 20,
-      "Минаков Виктор Михайлович": 146,
-      "Полосин Игорь Васильевич": 116,
-      "Свиридов Валентин Валентинович": 49,
-      "Против всех": 196
+      "gas:candidate-vibid:348300270683": 254,
+      "gas:candidate-vibid:348300270686": 100,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 28,
+      "gas:candidate-vibid:348300270444": 20,
+      "gas:candidate-vibid:1001000121862": 146,
+      "gas:candidate-vibid:1001000190361": 116,
+      "gas:candidate-vibid:1001000136074": 49,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 238,
-      "Бирюков Николай Иванович": 51,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 47,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 118,
-      "Полосин Игорь Васильевич": 111,
-      "Свиридов Валентин Валентинович": 38,
-      "Против всех": 169
+      "gas:candidate-vibid:348300270683": 238,
+      "gas:candidate-vibid:348300270686": 51,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 47,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 118,
+      "gas:candidate-vibid:1001000190361": 111,
+      "gas:candidate-vibid:1001000136074": 38,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 379,
-      "Бирюков Николай Иванович": 141,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 59,
-      "Купцов Геннадий Васильевич": 21,
-      "Минаков Виктор Михайлович": 212,
-      "Полосин Игорь Васильевич": 240,
-      "Свиридов Валентин Валентинович": 55,
-      "Против всех": 372
+      "gas:candidate-vibid:348300270683": 379,
+      "gas:candidate-vibid:348300270686": 141,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 59,
+      "gas:candidate-vibid:348300270444": 21,
+      "gas:candidate-vibid:1001000121862": 212,
+      "gas:candidate-vibid:1001000190361": 240,
+      "gas:candidate-vibid:1001000136074": 55,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 320,
-      "Бирюков Николай Иванович": 117,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 69,
-      "Купцов Геннадий Васильевич": 19,
-      "Минаков Виктор Михайлович": 181,
-      "Полосин Игорь Васильевич": 249,
-      "Свиридов Валентин Валентинович": 49,
-      "Против всех": 281
+      "gas:candidate-vibid:348300270683": 320,
+      "gas:candidate-vibid:348300270686": 117,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 69,
+      "gas:candidate-vibid:348300270444": 19,
+      "gas:candidate-vibid:1001000121862": 181,
+      "gas:candidate-vibid:1001000190361": 249,
+      "gas:candidate-vibid:1001000136074": 49,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 258,
-      "Бирюков Николай Иванович": 113,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 68,
-      "Купцов Геннадий Васильевич": 18,
-      "Минаков Виктор Михайлович": 201,
-      "Полосин Игорь Васильевич": 193,
-      "Свиридов Валентин Валентинович": 61,
-      "Против всех": 236
+      "gas:candidate-vibid:348300270683": 258,
+      "gas:candidate-vibid:348300270686": 113,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 68,
+      "gas:candidate-vibid:348300270444": 18,
+      "gas:candidate-vibid:1001000121862": 201,
+      "gas:candidate-vibid:1001000190361": 193,
+      "gas:candidate-vibid:1001000136074": 61,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 135,
-      "Бирюков Николай Иванович": 64,
-      "Казаров Сергей Азатович": 1,
-      "Колчев Михаил Иванович": 29,
-      "Купцов Геннадий Васильевич": 11,
-      "Минаков Виктор Михайлович": 84,
-      "Полосин Игорь Васильевич": 127,
-      "Свиридов Валентин Валентинович": 29,
-      "Против всех": 117
+      "gas:candidate-vibid:348300270683": 135,
+      "gas:candidate-vibid:348300270686": 64,
+      "gas:candidate-vibid:1001000258401": 1,
+      "gas:candidate-vibid:1001000277359": 29,
+      "gas:candidate-vibid:348300270444": 11,
+      "gas:candidate-vibid:1001000121862": 84,
+      "gas:candidate-vibid:1001000190361": 127,
+      "gas:candidate-vibid:1001000136074": 29,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 169,
-      "Бирюков Николай Иванович": 67,
-      "Казаров Сергей Азатович": 15,
-      "Колчев Михаил Иванович": 52,
-      "Купцов Геннадий Васильевич": 18,
-      "Минаков Виктор Михайлович": 180,
-      "Полосин Игорь Васильевич": 286,
-      "Свиридов Валентин Валентинович": 61,
-      "Против всех": 237
+      "gas:candidate-vibid:348300270683": 169,
+      "gas:candidate-vibid:348300270686": 67,
+      "gas:candidate-vibid:1001000258401": 15,
+      "gas:candidate-vibid:1001000277359": 52,
+      "gas:candidate-vibid:348300270444": 18,
+      "gas:candidate-vibid:1001000121862": 180,
+      "gas:candidate-vibid:1001000190361": 286,
+      "gas:candidate-vibid:1001000136074": 61,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 282,
-      "Бирюков Николай Иванович": 99,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 12,
-      "Минаков Виктор Михайлович": 142,
-      "Полосин Игорь Васильевич": 146,
-      "Свиридов Валентин Валентинович": 43,
-      "Против всех": 213
+      "gas:candidate-vibid:348300270683": 282,
+      "gas:candidate-vibid:348300270686": 99,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 12,
+      "gas:candidate-vibid:1001000121862": 142,
+      "gas:candidate-vibid:1001000190361": 146,
+      "gas:candidate-vibid:1001000136074": 43,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 208,
-      "Бирюков Николай Иванович": 73,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 39,
-      "Купцов Геннадий Васильевич": 25,
-      "Минаков Виктор Михайлович": 156,
-      "Полосин Игорь Васильевич": 176,
-      "Свиридов Валентин Валентинович": 45,
-      "Против всех": 204
+      "gas:candidate-vibid:348300270683": 208,
+      "gas:candidate-vibid:348300270686": 73,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 39,
+      "gas:candidate-vibid:348300270444": 25,
+      "gas:candidate-vibid:1001000121862": 156,
+      "gas:candidate-vibid:1001000190361": 176,
+      "gas:candidate-vibid:1001000136074": 45,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 347,
-      "Бирюков Николай Иванович": 103,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 63,
-      "Купцов Геннадий Васильевич": 23,
-      "Минаков Виктор Михайлович": 167,
-      "Полосин Игорь Васильевич": 275,
-      "Свиридов Валентин Валентинович": 49,
-      "Против всех": 267
+      "gas:candidate-vibid:348300270683": 347,
+      "gas:candidate-vibid:348300270686": 103,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 63,
+      "gas:candidate-vibid:348300270444": 23,
+      "gas:candidate-vibid:1001000121862": 167,
+      "gas:candidate-vibid:1001000190361": 275,
+      "gas:candidate-vibid:1001000136074": 49,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 303,
-      "Бирюков Николай Иванович": 98,
-      "Казаров Сергей Азатович": 11,
-      "Колчев Михаил Иванович": 34,
-      "Купцов Геннадий Васильевич": 18,
-      "Минаков Виктор Михайлович": 126,
-      "Полосин Игорь Васильевич": 250,
-      "Свиридов Валентин Валентинович": 49,
-      "Против всех": 242
+      "gas:candidate-vibid:348300270683": 303,
+      "gas:candidate-vibid:348300270686": 98,
+      "gas:candidate-vibid:1001000258401": 11,
+      "gas:candidate-vibid:1001000277359": 34,
+      "gas:candidate-vibid:348300270444": 18,
+      "gas:candidate-vibid:1001000121862": 126,
+      "gas:candidate-vibid:1001000190361": 250,
+      "gas:candidate-vibid:1001000136074": 49,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 351,
-      "Бирюков Николай Иванович": 119,
-      "Казаров Сергей Азатович": 5,
-      "Колчев Михаил Иванович": 70,
-      "Купцов Геннадий Васильевич": 29,
-      "Минаков Виктор Михайлович": 203,
-      "Полосин Игорь Васильевич": 255,
-      "Свиридов Валентин Валентинович": 76,
-      "Против всех": 238
+      "gas:candidate-vibid:348300270683": 351,
+      "gas:candidate-vibid:348300270686": 119,
+      "gas:candidate-vibid:1001000258401": 5,
+      "gas:candidate-vibid:1001000277359": 70,
+      "gas:candidate-vibid:348300270444": 29,
+      "gas:candidate-vibid:1001000121862": 203,
+      "gas:candidate-vibid:1001000190361": 255,
+      "gas:candidate-vibid:1001000136074": 76,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 270,
-      "Бирюков Николай Иванович": 78,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 20,
-      "Купцов Геннадий Васильевич": 13,
-      "Минаков Виктор Михайлович": 90,
-      "Полосин Игорь Васильевич": 226,
-      "Свиридов Валентин Валентинович": 40,
-      "Против всех": 216
+      "gas:candidate-vibid:348300270683": 270,
+      "gas:candidate-vibid:348300270686": 78,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 20,
+      "gas:candidate-vibid:348300270444": 13,
+      "gas:candidate-vibid:1001000121862": 90,
+      "gas:candidate-vibid:1001000190361": 226,
+      "gas:candidate-vibid:1001000136074": 40,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 273,
-      "Бирюков Николай Иванович": 67,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 30,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 111,
-      "Полосин Игорь Васильевич": 251,
-      "Свиридов Валентин Валентинович": 54,
-      "Против всех": 201
+      "gas:candidate-vibid:348300270683": 273,
+      "gas:candidate-vibid:348300270686": 67,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 30,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 111,
+      "gas:candidate-vibid:1001000190361": 251,
+      "gas:candidate-vibid:1001000136074": 54,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 277,
-      "Бирюков Николай Иванович": 96,
-      "Казаров Сергей Азатович": 12,
-      "Колчев Михаил Иванович": 42,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 182,
-      "Полосин Игорь Васильевич": 287,
-      "Свиридов Валентин Валентинович": 42,
-      "Против всех": 221
+      "gas:candidate-vibid:348300270683": 277,
+      "gas:candidate-vibid:348300270686": 96,
+      "gas:candidate-vibid:1001000258401": 12,
+      "gas:candidate-vibid:1001000277359": 42,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 182,
+      "gas:candidate-vibid:1001000190361": 287,
+      "gas:candidate-vibid:1001000136074": 42,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 252,
-      "Бирюков Николай Иванович": 60,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 65,
-      "Купцов Геннадий Васильевич": 14,
-      "Минаков Виктор Михайлович": 160,
-      "Полосин Игорь Васильевич": 142,
-      "Свиридов Валентин Валентинович": 32,
-      "Против всех": 171
+      "gas:candidate-vibid:348300270683": 252,
+      "gas:candidate-vibid:348300270686": 60,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 65,
+      "gas:candidate-vibid:348300270444": 14,
+      "gas:candidate-vibid:1001000121862": 160,
+      "gas:candidate-vibid:1001000190361": 142,
+      "gas:candidate-vibid:1001000136074": 32,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 309,
-      "Бирюков Николай Иванович": 124,
-      "Казаров Сергей Азатович": 14,
-      "Колчев Михаил Иванович": 84,
-      "Купцов Геннадий Васильевич": 18,
-      "Минаков Виктор Михайлович": 124,
-      "Полосин Игорь Васильевич": 122,
-      "Свиридов Валентин Валентинович": 60,
-      "Против всех": 264
+      "gas:candidate-vibid:348300270683": 309,
+      "gas:candidate-vibid:348300270686": 124,
+      "gas:candidate-vibid:1001000258401": 14,
+      "gas:candidate-vibid:1001000277359": 84,
+      "gas:candidate-vibid:348300270444": 18,
+      "gas:candidate-vibid:1001000121862": 124,
+      "gas:candidate-vibid:1001000190361": 122,
+      "gas:candidate-vibid:1001000136074": 60,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 251,
-      "Бирюков Николай Иванович": 70,
-      "Казаров Сергей Азатович": 13,
-      "Колчев Михаил Иванович": 58,
-      "Купцов Геннадий Васильевич": 15,
-      "Минаков Виктор Михайлович": 168,
-      "Полосин Игорь Васильевич": 155,
-      "Свиридов Валентин Валентинович": 39,
-      "Против всех": 210
+      "gas:candidate-vibid:348300270683": 251,
+      "gas:candidate-vibid:348300270686": 70,
+      "gas:candidate-vibid:1001000258401": 13,
+      "gas:candidate-vibid:1001000277359": 58,
+      "gas:candidate-vibid:348300270444": 15,
+      "gas:candidate-vibid:1001000121862": 168,
+      "gas:candidate-vibid:1001000190361": 155,
+      "gas:candidate-vibid:1001000136074": 39,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 311,
-      "Бирюков Николай Иванович": 183,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 64,
-      "Купцов Геннадий Васильевич": 21,
-      "Минаков Виктор Михайлович": 158,
-      "Полосин Игорь Васильевич": 190,
-      "Свиридов Валентин Валентинович": 58,
-      "Против всех": 260
+      "gas:candidate-vibid:348300270683": 311,
+      "gas:candidate-vibid:348300270686": 183,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 64,
+      "gas:candidate-vibid:348300270444": 21,
+      "gas:candidate-vibid:1001000121862": 158,
+      "gas:candidate-vibid:1001000190361": 190,
+      "gas:candidate-vibid:1001000136074": 58,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 268,
-      "Бирюков Николай Иванович": 115,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 46,
-      "Купцов Геннадий Васильевич": 24,
-      "Минаков Виктор Михайлович": 146,
-      "Полосин Игорь Васильевич": 172,
-      "Свиридов Валентин Валентинович": 56,
-      "Против всех": 240
+      "gas:candidate-vibid:348300270683": 268,
+      "gas:candidate-vibid:348300270686": 115,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 46,
+      "gas:candidate-vibid:348300270444": 24,
+      "gas:candidate-vibid:1001000121862": 146,
+      "gas:candidate-vibid:1001000190361": 172,
+      "gas:candidate-vibid:1001000136074": 56,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 210,
-      "Бирюков Николай Иванович": 100,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 23,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 175,
-      "Полосин Игорь Васильевич": 200,
-      "Свиридов Валентин Валентинович": 51,
-      "Против всех": 221
+      "gas:candidate-vibid:348300270683": 210,
+      "gas:candidate-vibid:348300270686": 100,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 23,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 175,
+      "gas:candidate-vibid:1001000190361": 200,
+      "gas:candidate-vibid:1001000136074": 51,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 201,
-      "Бирюков Николай Иванович": 90,
-      "Казаров Сергей Азатович": 6,
-      "Колчев Михаил Иванович": 36,
-      "Купцов Геннадий Васильевич": 25,
-      "Минаков Виктор Михайлович": 146,
-      "Полосин Игорь Васильевич": 202,
-      "Свиридов Валентин Валентинович": 42,
-      "Против всех": 223
+      "gas:candidate-vibid:348300270683": 201,
+      "gas:candidate-vibid:348300270686": 90,
+      "gas:candidate-vibid:1001000258401": 6,
+      "gas:candidate-vibid:1001000277359": 36,
+      "gas:candidate-vibid:348300270444": 25,
+      "gas:candidate-vibid:1001000121862": 146,
+      "gas:candidate-vibid:1001000190361": 202,
+      "gas:candidate-vibid:1001000136074": 42,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 224,
-      "Бирюков Николай Иванович": 83,
-      "Казаров Сергей Азатович": 10,
-      "Колчев Михаил Иванович": 28,
-      "Купцов Геннадий Васильевич": 16,
-      "Минаков Виктор Михайлович": 104,
-      "Полосин Игорь Васильевич": 155,
-      "Свиридов Валентин Валентинович": 52,
-      "Против всех": 206
+      "gas:candidate-vibid:348300270683": 224,
+      "gas:candidate-vibid:348300270686": 83,
+      "gas:candidate-vibid:1001000258401": 10,
+      "gas:candidate-vibid:1001000277359": 28,
+      "gas:candidate-vibid:348300270444": 16,
+      "gas:candidate-vibid:1001000121862": 104,
+      "gas:candidate-vibid:1001000190361": 155,
+      "gas:candidate-vibid:1001000136074": 52,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 238,
-      "Бирюков Николай Иванович": 108,
-      "Казаров Сергей Азатович": 7,
-      "Колчев Михаил Иванович": 27,
-      "Купцов Геннадий Васильевич": 8,
-      "Минаков Виктор Михайлович": 119,
-      "Полосин Игорь Васильевич": 138,
-      "Свиридов Валентин Валентинович": 59,
-      "Против всех": 205
+      "gas:candidate-vibid:348300270683": 238,
+      "gas:candidate-vibid:348300270686": 108,
+      "gas:candidate-vibid:1001000258401": 7,
+      "gas:candidate-vibid:1001000277359": 27,
+      "gas:candidate-vibid:348300270444": 8,
+      "gas:candidate-vibid:1001000121862": 119,
+      "gas:candidate-vibid:1001000190361": 138,
+      "gas:candidate-vibid:1001000136074": 59,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_48_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афендулов Сергей Алексеевич": 310,
-      "Бирюков Николай Иванович": 117,
-      "Казаров Сергей Азатович": 4,
-      "Колчев Михаил Иванович": 25,
-      "Купцов Геннадий Васильевич": 17,
-      "Минаков Виктор Михайлович": 200,
-      "Полосин Игорь Васильевич": 149,
-      "Свиридов Валентин Валентинович": 47,
-      "Против всех": 190
+      "gas:candidate-vibid:348300270683": 310,
+      "gas:candidate-vibid:348300270686": 117,
+      "gas:candidate-vibid:1001000258401": 4,
+      "gas:candidate-vibid:1001000277359": 25,
+      "gas:candidate-vibid:348300270444": 17,
+      "gas:candidate-vibid:1001000121862": 200,
+      "gas:candidate-vibid:1001000190361": 149,
+      "gas:candidate-vibid:1001000136074": 47,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=483002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=348300270641&region=0&sub_region=0&type=429",

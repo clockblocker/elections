@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 99,
-      "Волынец Ирина Владимировна": 26,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 99,
+      "gas:candidate-vibid:25920001391198": 26,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 129,
-      "Волынец Ирина Владимировна": 22,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 19,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 6
+      "gas:candidate-vibid:25920001388604": 129,
+      "gas:candidate-vibid:25920001391198": 22,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 19,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 25,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 25,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 131,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 13,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 32
+      "gas:candidate-vibid:25920001388604": 131,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 13,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 124,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 14,
-      "Сивцев Евгений Викторович": 22,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 19
+      "gas:candidate-vibid:25920001388604": 124,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 14,
+      "gas:candidate-vibid:25920001364699": 22,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 46,
-      "Волынец Ирина Владимировна": 16,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 13,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 46,
+      "gas:candidate-vibid:25920001391198": 16,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 13,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 85,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 17,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 18
+      "gas:candidate-vibid:25920001388604": 85,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 17,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 20,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 7,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 20,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 7,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 124,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 32,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 14
+      "gas:candidate-vibid:25920001388604": 124,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 32,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 221,
-      "Волынец Ирина Владимировна": 65,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 39,
-      "Симонова Раиса Наурдыевна": 18,
-      "Сторожев Геннадий Алексеевич": 34
+      "gas:candidate-vibid:25920001388604": 221,
+      "gas:candidate-vibid:25920001391198": 65,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 39,
+      "gas:candidate-vibid:25920001385238": 18,
+      "gas:candidate-vibid:25920001389271": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 37,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 0
+      "gas:candidate-vibid:25920001388604": 37,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 59,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 59,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 48,
-      "Волынец Ирина Владимировна": 13,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 20,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 48,
+      "gas:candidate-vibid:25920001391198": 13,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 20,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 236,
-      "Волынец Ирина Владимировна": 41,
-      "Пимкин Юрий Александрович": 34,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 64,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 44
+      "gas:candidate-vibid:25920001388604": 236,
+      "gas:candidate-vibid:25920001391198": 41,
+      "gas:candidate-vibid:25920001385656": 34,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 64,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 88,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 22,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 14
+      "gas:candidate-vibid:25920001388604": 88,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 22,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 142,
-      "Волынец Ирина Владимировна": 28,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 13,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 41,
-      "Симонова Раиса Наурдыевна": 19,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 142,
+      "gas:candidate-vibid:25920001391198": 28,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 13,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 41,
+      "gas:candidate-vibid:25920001385238": 19,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 30,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 14,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 30,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 14,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 125,
-      "Волынец Ирина Владимировна": 25,
-      "Пимкин Юрий Александрович": 26,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 14,
-      "Сивцев Евгений Викторович": 43,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 24
+      "gas:candidate-vibid:25920001388604": 125,
+      "gas:candidate-vibid:25920001391198": 25,
+      "gas:candidate-vibid:25920001385656": 26,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 14,
+      "gas:candidate-vibid:25920001364699": 43,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 27,
-      "Волынец Ирина Владимировна": 15,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 15,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 27,
+      "gas:candidate-vibid:25920001391198": 15,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 15,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 39,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 18,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 8
+      "gas:candidate-vibid:25920001388604": 39,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 18,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 33,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 6
+      "gas:candidate-vibid:25920001388604": 33,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 49,
-      "Гребенюк Владимир Алексеевич": 56,
-      "Злобин Сергей Васильевич": 59,
-      "Золотарев Алексей Владимирович": 51,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 4,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 216,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 49,
+      "gas:candidate-vibid:25920001389320": 56,
+      "gas:candidate-vibid:25920001387625": 59,
+      "gas:candidate-vibid:25920001362918": 51,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 4,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 216,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 30,
-      "Гребенюк Владимир Алексеевич": 65,
-      "Злобин Сергей Васильевич": 72,
-      "Золотарев Алексей Владимирович": 48,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 10,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 178,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 30,
+      "gas:candidate-vibid:25920001389320": 65,
+      "gas:candidate-vibid:25920001387625": 72,
+      "gas:candidate-vibid:25920001362918": 48,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 10,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 178,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 56,
-      "Гребенюк Владимир Алексеевич": 95,
-      "Злобин Сергей Васильевич": 95,
-      "Золотарев Алексей Владимирович": 73,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 25,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 270,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 56,
+      "gas:candidate-vibid:25920001389320": 95,
+      "gas:candidate-vibid:25920001387625": 95,
+      "gas:candidate-vibid:25920001362918": 73,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 25,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 270,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 43,
-      "Гребенюк Владимир Алексеевич": 51,
-      "Злобин Сергей Васильевич": 53,
-      "Золотарев Алексей Владимирович": 43,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 11,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 189,
-      "Созинов Александр Васильевич": 17
+      "gas:candidate-vibid:25920001389332": 43,
+      "gas:candidate-vibid:25920001389320": 51,
+      "gas:candidate-vibid:25920001387625": 53,
+      "gas:candidate-vibid:25920001362918": 43,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 11,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 189,
+      "gas:candidate-vibid:25920001385676": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 36,
-      "Гребенюк Владимир Алексеевич": 74,
-      "Злобин Сергей Васильевич": 74,
-      "Золотарев Алексей Владимирович": 61,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 14,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 242,
-      "Созинов Александр Васильевич": 12
+      "gas:candidate-vibid:25920001389332": 36,
+      "gas:candidate-vibid:25920001389320": 74,
+      "gas:candidate-vibid:25920001387625": 74,
+      "gas:candidate-vibid:25920001362918": 61,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 14,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 242,
+      "gas:candidate-vibid:25920001385676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 70,
-      "Гребенюк Владимир Алексеевич": 93,
-      "Злобин Сергей Васильевич": 104,
-      "Золотарев Алексей Владимирович": 91,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 9,
-      "Скриванов Дмитрий Станиславович": 308,
-      "Созинов Александр Васильевич": 33
+      "gas:candidate-vibid:25920001389332": 70,
+      "gas:candidate-vibid:25920001389320": 93,
+      "gas:candidate-vibid:25920001387625": 104,
+      "gas:candidate-vibid:25920001362918": 91,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 9,
+      "gas:candidate-vibid:25920001390096": 308,
+      "gas:candidate-vibid:25920001385676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 78,
-      "Злобин Сергей Васильевич": 71,
-      "Золотарев Алексей Владимирович": 73,
-      "Зубов Евгений Владиславович": 16,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 274,
-      "Созинов Александр Васильевич": 24
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 78,
+      "gas:candidate-vibid:25920001387625": 71,
+      "gas:candidate-vibid:25920001362918": 73,
+      "gas:candidate-vibid:25920001388590": 16,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 274,
+      "gas:candidate-vibid:25920001385676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 34,
-      "Гребенюк Владимир Алексеевич": 64,
-      "Злобин Сергей Васильевич": 75,
-      "Золотарев Алексей Владимирович": 54,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 11,
-      "Скриванов Дмитрий Станиславович": 239,
-      "Созинов Александр Васильевич": 11
+      "gas:candidate-vibid:25920001389332": 34,
+      "gas:candidate-vibid:25920001389320": 64,
+      "gas:candidate-vibid:25920001387625": 75,
+      "gas:candidate-vibid:25920001362918": 54,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 11,
+      "gas:candidate-vibid:25920001390096": 239,
+      "gas:candidate-vibid:25920001385676": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 56,
-      "Гребенюк Владимир Алексеевич": 112,
-      "Злобин Сергей Васильевич": 110,
-      "Золотарев Алексей Владимирович": 100,
-      "Зубов Евгений Владиславович": 16,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 362,
-      "Созинов Александр Васильевич": 36
+      "gas:candidate-vibid:25920001389332": 56,
+      "gas:candidate-vibid:25920001389320": 112,
+      "gas:candidate-vibid:25920001387625": 110,
+      "gas:candidate-vibid:25920001362918": 100,
+      "gas:candidate-vibid:25920001388590": 16,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 362,
+      "gas:candidate-vibid:25920001385676": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 57,
-      "Гребенюк Владимир Алексеевич": 86,
-      "Злобин Сергей Васильевич": 97,
-      "Золотарев Алексей Владимирович": 77,
-      "Зубов Евгений Владиславович": 19,
-      "Любич Антон Андреевич": 24,
-      "Мищенков Александр Сергеевич": 18,
-      "Скриванов Дмитрий Станиславович": 285,
-      "Созинов Александр Васильевич": 34
+      "gas:candidate-vibid:25920001389332": 57,
+      "gas:candidate-vibid:25920001389320": 86,
+      "gas:candidate-vibid:25920001387625": 97,
+      "gas:candidate-vibid:25920001362918": 77,
+      "gas:candidate-vibid:25920001388590": 19,
+      "gas:candidate-vibid:25920001388174": 24,
+      "gas:candidate-vibid:25920001390928": 18,
+      "gas:candidate-vibid:25920001390096": 285,
+      "gas:candidate-vibid:25920001385676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 49,
-      "Гребенюк Владимир Алексеевич": 72,
-      "Злобин Сергей Васильевич": 82,
-      "Золотарев Алексей Владимирович": 76,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 20,
-      "Мищенков Александр Сергеевич": 11,
-      "Скриванов Дмитрий Станиславович": 262,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 49,
+      "gas:candidate-vibid:25920001389320": 72,
+      "gas:candidate-vibid:25920001387625": 82,
+      "gas:candidate-vibid:25920001362918": 76,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 20,
+      "gas:candidate-vibid:25920001390928": 11,
+      "gas:candidate-vibid:25920001390096": 262,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 90,
-      "Гребенюк Владимир Алексеевич": 114,
-      "Злобин Сергей Васильевич": 111,
-      "Золотарев Алексей Владимирович": 88,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 23,
-      "Мищенков Александр Сергеевич": 26,
-      "Скриванов Дмитрий Станиславович": 437,
-      "Созинов Александр Васильевич": 30
+      "gas:candidate-vibid:25920001389332": 90,
+      "gas:candidate-vibid:25920001389320": 114,
+      "gas:candidate-vibid:25920001387625": 111,
+      "gas:candidate-vibid:25920001362918": 88,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 23,
+      "gas:candidate-vibid:25920001390928": 26,
+      "gas:candidate-vibid:25920001390096": 437,
+      "gas:candidate-vibid:25920001385676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 61,
-      "Гребенюк Владимир Алексеевич": 103,
-      "Злобин Сергей Васильевич": 75,
-      "Золотарев Алексей Владимирович": 75,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 279,
-      "Созинов Александр Васильевич": 16
+      "gas:candidate-vibid:25920001389332": 61,
+      "gas:candidate-vibid:25920001389320": 103,
+      "gas:candidate-vibid:25920001387625": 75,
+      "gas:candidate-vibid:25920001362918": 75,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 279,
+      "gas:candidate-vibid:25920001385676": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 63,
-      "Гребенюк Владимир Алексеевич": 70,
-      "Злобин Сергей Васильевич": 105,
-      "Золотарев Алексей Владимирович": 80,
-      "Зубов Евгений Владиславович": 23,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 24,
-      "Скриванов Дмитрий Станиславович": 327,
-      "Созинов Александр Васильевич": 40
+      "gas:candidate-vibid:25920001389332": 63,
+      "gas:candidate-vibid:25920001389320": 70,
+      "gas:candidate-vibid:25920001387625": 105,
+      "gas:candidate-vibid:25920001362918": 80,
+      "gas:candidate-vibid:25920001388590": 23,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 24,
+      "gas:candidate-vibid:25920001390096": 327,
+      "gas:candidate-vibid:25920001385676": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 70,
-      "Гребенюк Владимир Алексеевич": 90,
-      "Злобин Сергей Васильевич": 85,
-      "Золотарев Алексей Владимирович": 86,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 327,
-      "Созинов Александр Васильевич": 38
+      "gas:candidate-vibid:25920001389332": 70,
+      "gas:candidate-vibid:25920001389320": 90,
+      "gas:candidate-vibid:25920001387625": 85,
+      "gas:candidate-vibid:25920001362918": 86,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 327,
+      "gas:candidate-vibid:25920001385676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 100,
-      "Гребенюк Владимир Алексеевич": 75,
-      "Злобин Сергей Васильевич": 96,
-      "Золотарев Алексей Владимирович": 111,
-      "Зубов Евгений Владиславович": 26,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 26,
-      "Скриванов Дмитрий Станиславович": 387,
-      "Созинов Александр Васильевич": 52
+      "gas:candidate-vibid:25920001389332": 100,
+      "gas:candidate-vibid:25920001389320": 75,
+      "gas:candidate-vibid:25920001387625": 96,
+      "gas:candidate-vibid:25920001362918": 111,
+      "gas:candidate-vibid:25920001388590": 26,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 26,
+      "gas:candidate-vibid:25920001390096": 387,
+      "gas:candidate-vibid:25920001385676": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 38,
-      "Гребенюк Владимир Алексеевич": 63,
-      "Злобин Сергей Васильевич": 71,
-      "Золотарев Алексей Владимирович": 66,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 10,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 230,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 38,
+      "gas:candidate-vibid:25920001389320": 63,
+      "gas:candidate-vibid:25920001387625": 71,
+      "gas:candidate-vibid:25920001362918": 66,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 10,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 230,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 95,
-      "Гребенюк Владимир Алексеевич": 88,
-      "Злобин Сергей Васильевич": 87,
-      "Золотарев Алексей Владимирович": 87,
-      "Зубов Евгений Владиславович": 23,
-      "Любич Антон Андреевич": 38,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 371,
-      "Созинов Александр Васильевич": 33
+      "gas:candidate-vibid:25920001389332": 95,
+      "gas:candidate-vibid:25920001389320": 88,
+      "gas:candidate-vibid:25920001387625": 87,
+      "gas:candidate-vibid:25920001362918": 87,
+      "gas:candidate-vibid:25920001388590": 23,
+      "gas:candidate-vibid:25920001388174": 38,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 371,
+      "gas:candidate-vibid:25920001385676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 28,
-      "Гребенюк Владимир Алексеевич": 29,
-      "Злобин Сергей Васильевич": 30,
-      "Золотарев Алексей Владимирович": 25,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 2,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 157,
-      "Созинов Александр Васильевич": 5
+      "gas:candidate-vibid:25920001389332": 28,
+      "gas:candidate-vibid:25920001389320": 29,
+      "gas:candidate-vibid:25920001387625": 30,
+      "gas:candidate-vibid:25920001362918": 25,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 2,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 157,
+      "gas:candidate-vibid:25920001385676": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 60,
-      "Злобин Сергей Васильевич": 72,
-      "Золотарев Алексей Владимирович": 42,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 241,
-      "Созинов Александр Васильевич": 20
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 60,
+      "gas:candidate-vibid:25920001387625": 72,
+      "gas:candidate-vibid:25920001362918": 42,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 241,
+      "gas:candidate-vibid:25920001385676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 100,
-      "Злобин Сергей Васильевич": 75,
-      "Золотарев Алексей Владимирович": 79,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 306,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 100,
+      "gas:candidate-vibid:25920001387625": 75,
+      "gas:candidate-vibid:25920001362918": 79,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 306,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 79,
-      "Гребенюк Владимир Алексеевич": 103,
-      "Злобин Сергей Васильевич": 88,
-      "Золотарев Алексей Владимирович": 79,
-      "Зубов Евгений Владиславович": 20,
-      "Любич Антон Андреевич": 26,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 358,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 79,
+      "gas:candidate-vibid:25920001389320": 103,
+      "gas:candidate-vibid:25920001387625": 88,
+      "gas:candidate-vibid:25920001362918": 79,
+      "gas:candidate-vibid:25920001388590": 20,
+      "gas:candidate-vibid:25920001388174": 26,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 358,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 65,
-      "Гребенюк Владимир Алексеевич": 94,
-      "Злобин Сергей Васильевич": 80,
-      "Золотарев Алексей Владимирович": 70,
-      "Зубов Евгений Владиславович": 18,
-      "Любич Антон Андреевич": 26,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 319,
-      "Созинов Александр Васильевич": 42
+      "gas:candidate-vibid:25920001389332": 65,
+      "gas:candidate-vibid:25920001389320": 94,
+      "gas:candidate-vibid:25920001387625": 80,
+      "gas:candidate-vibid:25920001362918": 70,
+      "gas:candidate-vibid:25920001388590": 18,
+      "gas:candidate-vibid:25920001388174": 26,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 319,
+      "gas:candidate-vibid:25920001385676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 57,
-      "Гребенюк Владимир Алексеевич": 76,
-      "Злобин Сергей Васильевич": 65,
-      "Золотарев Алексей Владимирович": 71,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 15,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 307,
-      "Созинов Александр Васильевич": 39
+      "gas:candidate-vibid:25920001389332": 57,
+      "gas:candidate-vibid:25920001389320": 76,
+      "gas:candidate-vibid:25920001387625": 65,
+      "gas:candidate-vibid:25920001362918": 71,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 15,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 307,
+      "gas:candidate-vibid:25920001385676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 38,
-      "Гребенюк Владимир Алексеевич": 57,
-      "Злобин Сергей Васильевич": 57,
-      "Золотарев Алексей Владимирович": 64,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 199,
-      "Созинов Александр Васильевич": 12
+      "gas:candidate-vibid:25920001389332": 38,
+      "gas:candidate-vibid:25920001389320": 57,
+      "gas:candidate-vibid:25920001387625": 57,
+      "gas:candidate-vibid:25920001362918": 64,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 199,
+      "gas:candidate-vibid:25920001385676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 89,
-      "Гребенюк Владимир Алексеевич": 92,
-      "Злобин Сергей Васильевич": 86,
-      "Золотарев Алексей Владимирович": 76,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 308,
-      "Созинов Александр Васильевич": 28
+      "gas:candidate-vibid:25920001389332": 89,
+      "gas:candidate-vibid:25920001389320": 92,
+      "gas:candidate-vibid:25920001387625": 86,
+      "gas:candidate-vibid:25920001362918": 76,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 308,
+      "gas:candidate-vibid:25920001385676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 35,
-      "Гребенюк Владимир Алексеевич": 51,
-      "Злобин Сергей Васильевич": 85,
-      "Золотарев Алексей Владимирович": 61,
-      "Зубов Евгений Владиславович": 6,
-      "Любич Антон Андреевич": 5,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 229,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 35,
+      "gas:candidate-vibid:25920001389320": 51,
+      "gas:candidate-vibid:25920001387625": 85,
+      "gas:candidate-vibid:25920001362918": 61,
+      "gas:candidate-vibid:25920001388590": 6,
+      "gas:candidate-vibid:25920001388174": 5,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 229,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 53,
-      "Гребенюк Владимир Алексеевич": 82,
-      "Злобин Сергей Васильевич": 66,
-      "Золотарев Алексей Владимирович": 47,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 11,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 257,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 53,
+      "gas:candidate-vibid:25920001389320": 82,
+      "gas:candidate-vibid:25920001387625": 66,
+      "gas:candidate-vibid:25920001362918": 47,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 11,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 257,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 47,
-      "Гребенюк Владимир Алексеевич": 59,
-      "Злобин Сергей Васильевич": 60,
-      "Золотарев Алексей Владимирович": 77,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 15,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 225,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 47,
+      "gas:candidate-vibid:25920001389320": 59,
+      "gas:candidate-vibid:25920001387625": 60,
+      "gas:candidate-vibid:25920001362918": 77,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 15,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 225,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 28,
-      "Гребенюк Владимир Алексеевич": 38,
-      "Злобин Сергей Васильевич": 63,
-      "Золотарев Алексей Владимирович": 38,
-      "Зубов Евгений Владиславович": 6,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 174,
-      "Созинов Александр Васильевич": 20
+      "gas:candidate-vibid:25920001389332": 28,
+      "gas:candidate-vibid:25920001389320": 38,
+      "gas:candidate-vibid:25920001387625": 63,
+      "gas:candidate-vibid:25920001362918": 38,
+      "gas:candidate-vibid:25920001388590": 6,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 174,
+      "gas:candidate-vibid:25920001385676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 35,
-      "Гребенюк Владимир Алексеевич": 43,
-      "Злобин Сергей Васильевич": 68,
-      "Золотарев Алексей Владимирович": 50,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 162,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 35,
+      "gas:candidate-vibid:25920001389320": 43,
+      "gas:candidate-vibid:25920001387625": 68,
+      "gas:candidate-vibid:25920001362918": 50,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 162,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 48,
-      "Гребенюк Владимир Алексеевич": 50,
-      "Злобин Сергей Васильевич": 48,
-      "Золотарев Алексей Владимирович": 48,
-      "Зубов Евгений Владиславович": 3,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 198,
-      "Созинов Александр Васильевич": 20
+      "gas:candidate-vibid:25920001389332": 48,
+      "gas:candidate-vibid:25920001389320": 50,
+      "gas:candidate-vibid:25920001387625": 48,
+      "gas:candidate-vibid:25920001362918": 48,
+      "gas:candidate-vibid:25920001388590": 3,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 198,
+      "gas:candidate-vibid:25920001385676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 24,
-      "Гребенюк Владимир Алексеевич": 46,
-      "Злобин Сергей Васильевич": 34,
-      "Золотарев Алексей Владимирович": 32,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 146,
-      "Созинов Александр Васильевич": 12
+      "gas:candidate-vibid:25920001389332": 24,
+      "gas:candidate-vibid:25920001389320": 46,
+      "gas:candidate-vibid:25920001387625": 34,
+      "gas:candidate-vibid:25920001362918": 32,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 146,
+      "gas:candidate-vibid:25920001385676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 59,
-      "Гребенюк Владимир Алексеевич": 53,
-      "Злобин Сергей Васильевич": 92,
-      "Золотарев Алексей Владимирович": 56,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 234,
-      "Созинов Александр Васильевич": 24
+      "gas:candidate-vibid:25920001389332": 59,
+      "gas:candidate-vibid:25920001389320": 53,
+      "gas:candidate-vibid:25920001387625": 92,
+      "gas:candidate-vibid:25920001362918": 56,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 234,
+      "gas:candidate-vibid:25920001385676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 35,
-      "Гребенюк Владимир Алексеевич": 63,
-      "Злобин Сергей Васильевич": 41,
-      "Золотарев Алексей Владимирович": 41,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 9,
-      "Скриванов Дмитрий Станиславович": 163,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 35,
+      "gas:candidate-vibid:25920001389320": 63,
+      "gas:candidate-vibid:25920001387625": 41,
+      "gas:candidate-vibid:25920001362918": 41,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 9,
+      "gas:candidate-vibid:25920001390096": 163,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 30,
-      "Гребенюк Владимир Алексеевич": 46,
-      "Злобин Сергей Васильевич": 39,
-      "Золотарев Алексей Владимирович": 29,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 4,
-      "Мищенков Александр Сергеевич": 6,
-      "Скриванов Дмитрий Станиславович": 196,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 30,
+      "gas:candidate-vibid:25920001389320": 46,
+      "gas:candidate-vibid:25920001387625": 39,
+      "gas:candidate-vibid:25920001362918": 29,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 4,
+      "gas:candidate-vibid:25920001390928": 6,
+      "gas:candidate-vibid:25920001390096": 196,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 95,
-      "Гребенюк Владимир Алексеевич": 101,
-      "Злобин Сергей Васильевич": 101,
-      "Золотарев Алексей Владимирович": 120,
-      "Зубов Евгений Владиславович": 16,
-      "Любич Антон Андреевич": 28,
-      "Мищенков Александр Сергеевич": 19,
-      "Скриванов Дмитрий Станиславович": 380,
-      "Созинов Александр Васильевич": 43
+      "gas:candidate-vibid:25920001389332": 95,
+      "gas:candidate-vibid:25920001389320": 101,
+      "gas:candidate-vibid:25920001387625": 101,
+      "gas:candidate-vibid:25920001362918": 120,
+      "gas:candidate-vibid:25920001388590": 16,
+      "gas:candidate-vibid:25920001388174": 28,
+      "gas:candidate-vibid:25920001390928": 19,
+      "gas:candidate-vibid:25920001390096": 380,
+      "gas:candidate-vibid:25920001385676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 69,
-      "Гребенюк Владимир Алексеевич": 165,
-      "Злобин Сергей Васильевич": 123,
-      "Золотарев Алексей Владимирович": 119,
-      "Зубов Евгений Владиславович": 30,
-      "Любич Антон Андреевич": 31,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 449,
-      "Созинов Александр Васильевич": 62
+      "gas:candidate-vibid:25920001389332": 69,
+      "gas:candidate-vibid:25920001389320": 165,
+      "gas:candidate-vibid:25920001387625": 123,
+      "gas:candidate-vibid:25920001362918": 119,
+      "gas:candidate-vibid:25920001388590": 30,
+      "gas:candidate-vibid:25920001388174": 31,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 449,
+      "gas:candidate-vibid:25920001385676": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 55,
-      "Гребенюк Владимир Алексеевич": 116,
-      "Злобин Сергей Васильевич": 118,
-      "Золотарев Алексей Владимирович": 118,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 26,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 442,
-      "Созинов Александр Васильевич": 36
+      "gas:candidate-vibid:25920001389332": 55,
+      "gas:candidate-vibid:25920001389320": 116,
+      "gas:candidate-vibid:25920001387625": 118,
+      "gas:candidate-vibid:25920001362918": 118,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 26,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 442,
+      "gas:candidate-vibid:25920001385676": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 55,
-      "Гребенюк Владимир Алексеевич": 122,
-      "Злобин Сергей Васильевич": 87,
-      "Золотарев Алексей Владимирович": 101,
-      "Зубов Евгений Владиславович": 22,
-      "Любич Антон Андреевич": 23,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 397,
-      "Созинов Александр Васильевич": 48
+      "gas:candidate-vibid:25920001389332": 55,
+      "gas:candidate-vibid:25920001389320": 122,
+      "gas:candidate-vibid:25920001387625": 87,
+      "gas:candidate-vibid:25920001362918": 101,
+      "gas:candidate-vibid:25920001388590": 22,
+      "gas:candidate-vibid:25920001388174": 23,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 397,
+      "gas:candidate-vibid:25920001385676": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 57,
-      "Гребенюк Владимир Алексеевич": 95,
-      "Злобин Сергей Васильевич": 129,
-      "Золотарев Алексей Владимирович": 88,
-      "Зубов Евгений Владиславович": 19,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 305,
-      "Созинов Александр Васильевич": 29
+      "gas:candidate-vibid:25920001389332": 57,
+      "gas:candidate-vibid:25920001389320": 95,
+      "gas:candidate-vibid:25920001387625": 129,
+      "gas:candidate-vibid:25920001362918": 88,
+      "gas:candidate-vibid:25920001388590": 19,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 305,
+      "gas:candidate-vibid:25920001385676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 41,
-      "Гребенюк Владимир Алексеевич": 114,
-      "Злобин Сергей Васильевич": 107,
-      "Золотарев Алексей Владимирович": 89,
-      "Зубов Евгений Владиславович": 16,
-      "Любич Антон Андреевич": 14,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 312,
-      "Созинов Александр Васильевич": 32
+      "gas:candidate-vibid:25920001389332": 41,
+      "gas:candidate-vibid:25920001389320": 114,
+      "gas:candidate-vibid:25920001387625": 107,
+      "gas:candidate-vibid:25920001362918": 89,
+      "gas:candidate-vibid:25920001388590": 16,
+      "gas:candidate-vibid:25920001388174": 14,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 312,
+      "gas:candidate-vibid:25920001385676": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 58,
-      "Гребенюк Владимир Алексеевич": 102,
-      "Злобин Сергей Васильевич": 100,
-      "Золотарев Алексей Владимирович": 80,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 375,
-      "Созинов Александр Васильевич": 43
+      "gas:candidate-vibid:25920001389332": 58,
+      "gas:candidate-vibid:25920001389320": 102,
+      "gas:candidate-vibid:25920001387625": 100,
+      "gas:candidate-vibid:25920001362918": 80,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 375,
+      "gas:candidate-vibid:25920001385676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 66,
-      "Гребенюк Владимир Алексеевич": 98,
-      "Злобин Сергей Васильевич": 109,
-      "Золотарев Алексей Владимирович": 97,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 402,
-      "Созинов Александр Васильевич": 38
+      "gas:candidate-vibid:25920001389332": 66,
+      "gas:candidate-vibid:25920001389320": 98,
+      "gas:candidate-vibid:25920001387625": 109,
+      "gas:candidate-vibid:25920001362918": 97,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 402,
+      "gas:candidate-vibid:25920001385676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 37,
-      "Гребенюк Владимир Алексеевич": 79,
-      "Злобин Сергей Васильевич": 80,
-      "Золотарев Алексей Владимирович": 68,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 297,
-      "Созинов Александр Васильевич": 29
+      "gas:candidate-vibid:25920001389332": 37,
+      "gas:candidate-vibid:25920001389320": 79,
+      "gas:candidate-vibid:25920001387625": 80,
+      "gas:candidate-vibid:25920001362918": 68,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 297,
+      "gas:candidate-vibid:25920001385676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 42,
-      "Гребенюк Владимир Алексеевич": 90,
-      "Злобин Сергей Васильевич": 88,
-      "Золотарев Алексей Владимирович": 60,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 284,
-      "Созинов Александр Васильевич": 42
+      "gas:candidate-vibid:25920001389332": 42,
+      "gas:candidate-vibid:25920001389320": 90,
+      "gas:candidate-vibid:25920001387625": 88,
+      "gas:candidate-vibid:25920001362918": 60,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 284,
+      "gas:candidate-vibid:25920001385676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 63,
-      "Гребенюк Владимир Алексеевич": 97,
-      "Злобин Сергей Васильевич": 83,
-      "Золотарев Алексей Владимирович": 60,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 15,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 311,
-      "Созинов Александр Васильевич": 30
+      "gas:candidate-vibid:25920001389332": 63,
+      "gas:candidate-vibid:25920001389320": 97,
+      "gas:candidate-vibid:25920001387625": 83,
+      "gas:candidate-vibid:25920001362918": 60,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 15,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 311,
+      "gas:candidate-vibid:25920001385676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 55,
-      "Гребенюк Владимир Алексеевич": 77,
-      "Злобин Сергей Васильевич": 93,
-      "Золотарев Алексей Владимирович": 69,
-      "Зубов Евгений Владиславович": 19,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 9,
-      "Скриванов Дмитрий Станиславович": 255,
-      "Созинов Александр Васильевич": 40
+      "gas:candidate-vibid:25920001389332": 55,
+      "gas:candidate-vibid:25920001389320": 77,
+      "gas:candidate-vibid:25920001387625": 93,
+      "gas:candidate-vibid:25920001362918": 69,
+      "gas:candidate-vibid:25920001388590": 19,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 9,
+      "gas:candidate-vibid:25920001390096": 255,
+      "gas:candidate-vibid:25920001385676": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 76,
-      "Злобин Сергей Васильевич": 51,
-      "Золотарев Алексей Владимирович": 60,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 209,
-      "Созинов Александр Васильевич": 29
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 76,
+      "gas:candidate-vibid:25920001387625": 51,
+      "gas:candidate-vibid:25920001362918": 60,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 209,
+      "gas:candidate-vibid:25920001385676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 51,
-      "Гребенюк Владимир Алексеевич": 72,
-      "Злобин Сергей Васильевич": 96,
-      "Золотарев Алексей Владимирович": 58,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 254,
-      "Созинов Александр Васильевич": 31
+      "gas:candidate-vibid:25920001389332": 51,
+      "gas:candidate-vibid:25920001389320": 72,
+      "gas:candidate-vibid:25920001387625": 96,
+      "gas:candidate-vibid:25920001362918": 58,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 254,
+      "gas:candidate-vibid:25920001385676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 101,
-      "Гребенюк Владимир Алексеевич": 103,
-      "Злобин Сергей Васильевич": 82,
-      "Золотарев Алексей Владимирович": 83,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 10,
-      "Мищенков Александр Сергеевич": 23,
-      "Скриванов Дмитрий Станиславович": 368,
-      "Созинов Александр Васильевич": 37
+      "gas:candidate-vibid:25920001389332": 101,
+      "gas:candidate-vibid:25920001389320": 103,
+      "gas:candidate-vibid:25920001387625": 82,
+      "gas:candidate-vibid:25920001362918": 83,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 10,
+      "gas:candidate-vibid:25920001390928": 23,
+      "gas:candidate-vibid:25920001390096": 368,
+      "gas:candidate-vibid:25920001385676": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 59,
-      "Гребенюк Владимир Алексеевич": 111,
-      "Злобин Сергей Васильевич": 87,
-      "Золотарев Алексей Владимирович": 83,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 346,
-      "Созинов Александр Васильевич": 48
+      "gas:candidate-vibid:25920001389332": 59,
+      "gas:candidate-vibid:25920001389320": 111,
+      "gas:candidate-vibid:25920001387625": 87,
+      "gas:candidate-vibid:25920001362918": 83,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 346,
+      "gas:candidate-vibid:25920001385676": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 25,
-      "Гребенюк Владимир Алексеевич": 64,
-      "Злобин Сергей Васильевич": 37,
-      "Золотарев Алексей Владимирович": 43,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 152,
-      "Созинов Александр Васильевич": 31
+      "gas:candidate-vibid:25920001389332": 25,
+      "gas:candidate-vibid:25920001389320": 64,
+      "gas:candidate-vibid:25920001387625": 37,
+      "gas:candidate-vibid:25920001362918": 43,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 152,
+      "gas:candidate-vibid:25920001385676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 61,
-      "Гребенюк Владимир Алексеевич": 80,
-      "Злобин Сергей Васильевич": 65,
-      "Золотарев Алексей Владимирович": 71,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 20,
-      "Мищенков Александр Сергеевич": 21,
-      "Скриванов Дмитрий Станиславович": 281,
-      "Созинов Александр Васильевич": 35
+      "gas:candidate-vibid:25920001389332": 61,
+      "gas:candidate-vibid:25920001389320": 80,
+      "gas:candidate-vibid:25920001387625": 65,
+      "gas:candidate-vibid:25920001362918": 71,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 20,
+      "gas:candidate-vibid:25920001390928": 21,
+      "gas:candidate-vibid:25920001390096": 281,
+      "gas:candidate-vibid:25920001385676": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 54,
-      "Гребенюк Владимир Алексеевич": 71,
-      "Злобин Сергей Васильевич": 75,
-      "Золотарев Алексей Владимирович": 77,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 319,
-      "Созинов Александр Васильевич": 28
+      "gas:candidate-vibid:25920001389332": 54,
+      "gas:candidate-vibid:25920001389320": 71,
+      "gas:candidate-vibid:25920001387625": 75,
+      "gas:candidate-vibid:25920001362918": 77,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 319,
+      "gas:candidate-vibid:25920001385676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 57,
-      "Гребенюк Владимир Алексеевич": 98,
-      "Злобин Сергей Васильевич": 80,
-      "Золотарев Алексей Владимирович": 93,
-      "Зубов Евгений Владиславович": 18,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 330,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 57,
+      "gas:candidate-vibid:25920001389320": 98,
+      "gas:candidate-vibid:25920001387625": 80,
+      "gas:candidate-vibid:25920001362918": 93,
+      "gas:candidate-vibid:25920001388590": 18,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 330,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 31,
-      "Гребенюк Владимир Алексеевич": 44,
-      "Злобин Сергей Васильевич": 38,
-      "Золотарев Алексей Владимирович": 61,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 9,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 189,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 31,
+      "gas:candidate-vibid:25920001389320": 44,
+      "gas:candidate-vibid:25920001387625": 38,
+      "gas:candidate-vibid:25920001362918": 61,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 9,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 189,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 75,
-      "Гребенюк Владимир Алексеевич": 86,
-      "Злобин Сергей Васильевич": 71,
-      "Золотарев Алексей Владимирович": 79,
-      "Зубов Евгений Владиславович": 22,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 23,
-      "Скриванов Дмитрий Станиславович": 340,
-      "Созинов Александр Васильевич": 36
+      "gas:candidate-vibid:25920001389332": 75,
+      "gas:candidate-vibid:25920001389320": 86,
+      "gas:candidate-vibid:25920001387625": 71,
+      "gas:candidate-vibid:25920001362918": 79,
+      "gas:candidate-vibid:25920001388590": 22,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 23,
+      "gas:candidate-vibid:25920001390096": 340,
+      "gas:candidate-vibid:25920001385676": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 25,
-      "Гребенюк Владимир Алексеевич": 32,
-      "Злобин Сергей Васильевич": 31,
-      "Золотарев Алексей Владимирович": 49,
-      "Зубов Евгений Владиславович": 4,
-      "Любич Антон Андреевич": 2,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 170,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 25,
+      "gas:candidate-vibid:25920001389320": 32,
+      "gas:candidate-vibid:25920001387625": 31,
+      "gas:candidate-vibid:25920001362918": 49,
+      "gas:candidate-vibid:25920001388590": 4,
+      "gas:candidate-vibid:25920001388174": 2,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 170,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 14,
-      "Гребенюк Владимир Алексеевич": 21,
-      "Злобин Сергей Васильевич": 8,
-      "Золотарев Алексей Владимирович": 20,
-      "Зубов Евгений Владиславович": 2,
-      "Любич Антон Андреевич": 6,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 75,
-      "Созинов Александр Васильевич": 8
+      "gas:candidate-vibid:25920001389332": 14,
+      "gas:candidate-vibid:25920001389320": 21,
+      "gas:candidate-vibid:25920001387625": 8,
+      "gas:candidate-vibid:25920001362918": 20,
+      "gas:candidate-vibid:25920001388590": 2,
+      "gas:candidate-vibid:25920001388174": 6,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 75,
+      "gas:candidate-vibid:25920001385676": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 72,
-      "Гребенюк Владимир Алексеевич": 78,
-      "Злобин Сергей Васильевич": 100,
-      "Золотарев Алексей Владимирович": 67,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 317,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 72,
+      "gas:candidate-vibid:25920001389320": 78,
+      "gas:candidate-vibid:25920001387625": 100,
+      "gas:candidate-vibid:25920001362918": 67,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 317,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 44,
-      "Гребенюк Владимир Алексеевич": 61,
-      "Злобин Сергей Васильевич": 89,
-      "Золотарев Алексей Владимирович": 50,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 233,
-      "Созинов Александр Васильевич": 30
+      "gas:candidate-vibid:25920001389332": 44,
+      "gas:candidate-vibid:25920001389320": 61,
+      "gas:candidate-vibid:25920001387625": 89,
+      "gas:candidate-vibid:25920001362918": 50,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 233,
+      "gas:candidate-vibid:25920001385676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 4,
-      "Гребенюк Владимир Алексеевич": 6,
-      "Злобин Сергей Васильевич": 7,
-      "Золотарев Алексей Владимирович": 8,
-      "Зубов Евгений Владиславович": 1,
-      "Любич Антон Андреевич": 1,
-      "Мищенков Александр Сергеевич": 0,
-      "Скриванов Дмитрий Станиславович": 12,
-      "Созинов Александр Васильевич": 1
+      "gas:candidate-vibid:25920001389332": 4,
+      "gas:candidate-vibid:25920001389320": 6,
+      "gas:candidate-vibid:25920001387625": 7,
+      "gas:candidate-vibid:25920001362918": 8,
+      "gas:candidate-vibid:25920001388590": 1,
+      "gas:candidate-vibid:25920001388174": 1,
+      "gas:candidate-vibid:25920001390928": 0,
+      "gas:candidate-vibid:25920001390096": 12,
+      "gas:candidate-vibid:25920001385676": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 1,
-      "Гребенюк Владимир Алексеевич": 1,
-      "Злобин Сергей Васильевич": 6,
-      "Золотарев Алексей Владимирович": 1,
-      "Зубов Евгений Владиславович": 0,
-      "Любич Антон Андреевич": 2,
-      "Мищенков Александр Сергеевич": 1,
-      "Скриванов Дмитрий Станиславович": 25,
-      "Созинов Александр Васильевич": 1
+      "gas:candidate-vibid:25920001389332": 1,
+      "gas:candidate-vibid:25920001389320": 1,
+      "gas:candidate-vibid:25920001387625": 6,
+      "gas:candidate-vibid:25920001362918": 1,
+      "gas:candidate-vibid:25920001388590": 0,
+      "gas:candidate-vibid:25920001388174": 2,
+      "gas:candidate-vibid:25920001390928": 1,
+      "gas:candidate-vibid:25920001390096": 25,
+      "gas:candidate-vibid:25920001385676": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 10,
-      "Гребенюк Владимир Алексеевич": 13,
-      "Злобин Сергей Васильевич": 14,
-      "Золотарев Алексей Владимирович": 16,
-      "Зубов Евгений Владиславович": 1,
-      "Любич Антон Андреевич": 4,
-      "Мищенков Александр Сергеевич": 2,
-      "Скриванов Дмитрий Станиславович": 62,
-      "Созинов Александр Васильевич": 8
+      "gas:candidate-vibid:25920001389332": 10,
+      "gas:candidate-vibid:25920001389320": 13,
+      "gas:candidate-vibid:25920001387625": 14,
+      "gas:candidate-vibid:25920001362918": 16,
+      "gas:candidate-vibid:25920001388590": 1,
+      "gas:candidate-vibid:25920001388174": 4,
+      "gas:candidate-vibid:25920001390928": 2,
+      "gas:candidate-vibid:25920001390096": 62,
+      "gas:candidate-vibid:25920001385676": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 22,
-      "Гребенюк Владимир Алексеевич": 48,
-      "Злобин Сергей Васильевич": 54,
-      "Золотарев Алексей Владимирович": 40,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 4,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 200,
-      "Созинов Александр Васильевич": 17
+      "gas:candidate-vibid:25920001389332": 22,
+      "gas:candidate-vibid:25920001389320": 48,
+      "gas:candidate-vibid:25920001387625": 54,
+      "gas:candidate-vibid:25920001362918": 40,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 4,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 200,
+      "gas:candidate-vibid:25920001385676": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184796&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184796&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 256,
-      "Волынец Ирина Владимировна": 17,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 39
+      "gas:candidate-vibid:25920001388604": 256,
+      "gas:candidate-vibid:25920001391198": 17,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 308,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 23,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 35,
-      "Симонова Раиса Наурдыевна": 19,
-      "Сторожев Геннадий Алексеевич": 32
+      "gas:candidate-vibid:25920001388604": 308,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 23,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 35,
+      "gas:candidate-vibid:25920001385238": 19,
+      "gas:candidate-vibid:25920001389271": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 294,
-      "Волынец Ирина Владимировна": 53,
-      "Пимкин Юрий Александрович": 20,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 34,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 34
+      "gas:candidate-vibid:25920001388604": 294,
+      "gas:candidate-vibid:25920001391198": 53,
+      "gas:candidate-vibid:25920001385656": 20,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 34,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 42,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 1,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 0
+      "gas:candidate-vibid:25920001388604": 42,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 1,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 369,
-      "Волынец Ирина Владимировна": 47,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 27,
-      "Сивцев Евгений Викторович": 53,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 38
+      "gas:candidate-vibid:25920001388604": 369,
+      "gas:candidate-vibid:25920001391198": 47,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 27,
+      "gas:candidate-vibid:25920001364699": 53,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 426,
-      "Волынец Ирина Владимировна": 75,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 40,
-      "Сивцев Евгений Викторович": 60,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 44
+      "gas:candidate-vibid:25920001388604": 426,
+      "gas:candidate-vibid:25920001391198": 75,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 40,
+      "gas:candidate-vibid:25920001364699": 60,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 337,
-      "Волынец Ирина Владимировна": 59,
-      "Пимкин Юрий Александрович": 31,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 23,
-      "Сивцев Евгений Викторович": 44,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 41
+      "gas:candidate-vibid:25920001388604": 337,
+      "gas:candidate-vibid:25920001391198": 59,
+      "gas:candidate-vibid:25920001385656": 31,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 23,
+      "gas:candidate-vibid:25920001364699": 44,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 333,
-      "Волынец Ирина Владимировна": 49,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 44,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 333,
+      "gas:candidate-vibid:25920001391198": 49,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 44,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 393,
-      "Волынец Ирина Владимировна": 73,
-      "Пимкин Юрий Александрович": 34,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 41,
-      "Сивцев Евгений Викторович": 40,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 53
+      "gas:candidate-vibid:25920001388604": 393,
+      "gas:candidate-vibid:25920001391198": 73,
+      "gas:candidate-vibid:25920001385656": 34,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 41,
+      "gas:candidate-vibid:25920001364699": 40,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 398,
-      "Волынец Ирина Владимировна": 55,
-      "Пимкин Юрий Александрович": 32,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 34,
-      "Сивцев Евгений Викторович": 42,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 49
+      "gas:candidate-vibid:25920001388604": 398,
+      "gas:candidate-vibid:25920001391198": 55,
+      "gas:candidate-vibid:25920001385656": 32,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 34,
+      "gas:candidate-vibid:25920001364699": 42,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 485,
-      "Волынец Ирина Владимировна": 83,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 15,
-      "Садилова Ирина Владимировна": 41,
-      "Сивцев Евгений Викторович": 65,
-      "Симонова Раиса Наурдыевна": 19,
-      "Сторожев Геннадий Алексеевич": 54
+      "gas:candidate-vibid:25920001388604": 485,
+      "gas:candidate-vibid:25920001391198": 83,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 15,
+      "gas:candidate-vibid:25920001388338": 41,
+      "gas:candidate-vibid:25920001364699": 65,
+      "gas:candidate-vibid:25920001385238": 19,
+      "gas:candidate-vibid:25920001389271": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 746,
-      "Волынец Ирина Владимировна": 131,
-      "Пимкин Юрий Александрович": 74,
-      "Подаруев Степан Владимирович": 32,
-      "Рубан Алексей Викторович": 30,
-      "Садилова Ирина Владимировна": 54,
-      "Сивцев Евгений Викторович": 120,
-      "Симонова Раиса Наурдыевна": 25,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 746,
+      "gas:candidate-vibid:25920001391198": 131,
+      "gas:candidate-vibid:25920001385656": 74,
+      "gas:candidate-vibid:25920001389008": 32,
+      "gas:candidate-vibid:25920001388525": 30,
+      "gas:candidate-vibid:25920001388338": 54,
+      "gas:candidate-vibid:25920001364699": 120,
+      "gas:candidate-vibid:25920001385238": 25,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 250,
-      "Волынец Ирина Владимировна": 41,
-      "Пимкин Юрий Александрович": 28,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 29
+      "gas:candidate-vibid:25920001388604": 250,
+      "gas:candidate-vibid:25920001391198": 41,
+      "gas:candidate-vibid:25920001385656": 28,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 290,
-      "Волынец Ирина Владимировна": 38,
-      "Пимкин Юрий Александрович": 33,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 32,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 30
+      "gas:candidate-vibid:25920001388604": 290,
+      "gas:candidate-vibid:25920001391198": 38,
+      "gas:candidate-vibid:25920001385656": 33,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 32,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 299,
-      "Волынец Ирина Владимировна": 55,
-      "Пимкин Юрий Александрович": 27,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 38,
-      "Симонова Раиса Наурдыевна": 16,
-      "Сторожев Геннадий Алексеевич": 39
+      "gas:candidate-vibid:25920001388604": 299,
+      "gas:candidate-vibid:25920001391198": 55,
+      "gas:candidate-vibid:25920001385656": 27,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 38,
+      "gas:candidate-vibid:25920001385238": 16,
+      "gas:candidate-vibid:25920001389271": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 458,
-      "Волынец Ирина Владимировна": 92,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 15,
-      "Садилова Ирина Владимировна": 32,
-      "Сивцев Евгений Викторович": 52,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 60
+      "gas:candidate-vibid:25920001388604": 458,
+      "gas:candidate-vibid:25920001391198": 92,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 15,
+      "gas:candidate-vibid:25920001388338": 32,
+      "gas:candidate-vibid:25920001364699": 52,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 315,
-      "Волынец Ирина Владимировна": 41,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 42,
-      "Симонова Раиса Наурдыевна": 16,
-      "Сторожев Геннадий Алексеевич": 38
+      "gas:candidate-vibid:25920001388604": 315,
+      "gas:candidate-vibid:25920001391198": 41,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 42,
+      "gas:candidate-vibid:25920001385238": 16,
+      "gas:candidate-vibid:25920001389271": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 298,
-      "Волынец Ирина Владимировна": 54,
-      "Пимкин Юрий Александрович": 20,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 33,
-      "Сивцев Евгений Викторович": 37,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 38
+      "gas:candidate-vibid:25920001388604": 298,
+      "gas:candidate-vibid:25920001391198": 54,
+      "gas:candidate-vibid:25920001385656": 20,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 33,
+      "gas:candidate-vibid:25920001364699": 37,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 191,
-      "Волынец Ирина Владимировна": 42,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 35,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 29
+      "gas:candidate-vibid:25920001388604": 191,
+      "gas:candidate-vibid:25920001391198": 42,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 35,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 345,
-      "Волынец Ирина Владимировна": 83,
-      "Пимкин Юрий Александрович": 32,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 13,
-      "Садилова Ирина Владимировна": 33,
-      "Сивцев Евгений Викторович": 50,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 54
+      "gas:candidate-vibid:25920001388604": 345,
+      "gas:candidate-vibid:25920001391198": 83,
+      "gas:candidate-vibid:25920001385656": 32,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 13,
+      "gas:candidate-vibid:25920001388338": 33,
+      "gas:candidate-vibid:25920001364699": 50,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 383,
-      "Волынец Ирина Владимировна": 73,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 41,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 60
+      "gas:candidate-vibid:25920001388604": 383,
+      "gas:candidate-vibid:25920001391198": 73,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 41,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 466,
-      "Волынец Ирина Владимировна": 77,
-      "Пимкин Юрий Александрович": 26,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 19,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 44,
-      "Симонова Раиса Наурдыевна": 22,
-      "Сторожев Геннадий Алексеевич": 65
+      "gas:candidate-vibid:25920001388604": 466,
+      "gas:candidate-vibid:25920001391198": 77,
+      "gas:candidate-vibid:25920001385656": 26,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 19,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 44,
+      "gas:candidate-vibid:25920001385238": 22,
+      "gas:candidate-vibid:25920001389271": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 284,
-      "Волынец Ирина Владимировна": 37,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 32,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 30
+      "gas:candidate-vibid:25920001388604": 284,
+      "gas:candidate-vibid:25920001391198": 37,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 32,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 28,
-      "Волынец Ирина Владимировна": 8,
-      "Пимкин Юрий Александрович": 1,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 28,
+      "gas:candidate-vibid:25920001391198": 8,
+      "gas:candidate-vibid:25920001385656": 1,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 403,
-      "Волынец Ирина Владимировна": 89,
-      "Пимкин Юрий Александрович": 38,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 33,
-      "Сивцев Евгений Викторович": 46,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 59
+      "gas:candidate-vibid:25920001388604": 403,
+      "gas:candidate-vibid:25920001391198": 89,
+      "gas:candidate-vibid:25920001385656": 38,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 33,
+      "gas:candidate-vibid:25920001364699": 46,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 504,
-      "Волынец Ирина Владимировна": 114,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 40,
-      "Сивцев Евгений Викторович": 61,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 76
+      "gas:candidate-vibid:25920001388604": 504,
+      "gas:candidate-vibid:25920001391198": 114,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 40,
+      "gas:candidate-vibid:25920001364699": 61,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 332,
-      "Волынец Ирина Владимировна": 81,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 55,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 69
+      "gas:candidate-vibid:25920001388604": 332,
+      "gas:candidate-vibid:25920001391198": 81,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 55,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 188,
-      "Волынец Ирина Владимировна": 62,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 17,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 188,
+      "gas:candidate-vibid:25920001391198": 62,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 17,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 257,
-      "Волынец Ирина Владимировна": 85,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 18,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 26
+      "gas:candidate-vibid:25920001388604": 257,
+      "gas:candidate-vibid:25920001391198": 85,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 18,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 364,
-      "Волынец Ирина Владимировна": 96,
-      "Пимкин Юрий Александрович": 19,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 31,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 49
+      "gas:candidate-vibid:25920001388604": 364,
+      "gas:candidate-vibid:25920001391198": 96,
+      "gas:candidate-vibid:25920001385656": 19,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 31,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 316,
-      "Волынец Ирина Владимировна": 76,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 29,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 26
+      "gas:candidate-vibid:25920001388604": 316,
+      "gas:candidate-vibid:25920001391198": 76,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 29,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 287,
-      "Волынец Ирина Владимировна": 93,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 21,
-      "Сивцев Евгений Викторович": 43,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 49
+      "gas:candidate-vibid:25920001388604": 287,
+      "gas:candidate-vibid:25920001391198": 93,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 21,
+      "gas:candidate-vibid:25920001364699": 43,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 195,
-      "Волынец Ирина Владимировна": 93,
-      "Пимкин Юрий Александрович": 19,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 40,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 33
+      "gas:candidate-vibid:25920001388604": 195,
+      "gas:candidate-vibid:25920001391198": 93,
+      "gas:candidate-vibid:25920001385656": 19,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 40,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 246,
-      "Волынец Ирина Владимировна": 53,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 30
+      "gas:candidate-vibid:25920001388604": 246,
+      "gas:candidate-vibid:25920001391198": 53,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 312,
-      "Волынец Ирина Владимировна": 75,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 29,
-      "Сивцев Евгений Викторович": 44,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 49
+      "gas:candidate-vibid:25920001388604": 312,
+      "gas:candidate-vibid:25920001391198": 75,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 29,
+      "gas:candidate-vibid:25920001364699": 44,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 408,
-      "Волынец Ирина Владимировна": 92,
-      "Пимкин Юрий Александрович": 33,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 50,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 46
+      "gas:candidate-vibid:25920001388604": 408,
+      "gas:candidate-vibid:25920001391198": 92,
+      "gas:candidate-vibid:25920001385656": 33,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 50,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 396,
-      "Волынец Ирина Владимировна": 123,
-      "Пимкин Юрий Александрович": 48,
-      "Подаруев Степан Владимирович": 13,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 66,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 62
+      "gas:candidate-vibid:25920001388604": 396,
+      "gas:candidate-vibid:25920001391198": 123,
+      "gas:candidate-vibid:25920001385656": 48,
+      "gas:candidate-vibid:25920001389008": 13,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 66,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 298,
-      "Волынец Ирина Владимировна": 84,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 34,
-      "Сивцев Евгений Викторович": 36,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 34
+      "gas:candidate-vibid:25920001388604": 298,
+      "gas:candidate-vibid:25920001391198": 84,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 34,
+      "gas:candidate-vibid:25920001364699": 36,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 396,
-      "Волынец Ирина Владимировна": 59,
-      "Пимкин Юрий Александрович": 23,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 65,
-      "Сивцев Евгений Викторович": 36,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 68
+      "gas:candidate-vibid:25920001388604": 396,
+      "gas:candidate-vibid:25920001391198": 59,
+      "gas:candidate-vibid:25920001385656": 23,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 65,
+      "gas:candidate-vibid:25920001364699": 36,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 389,
-      "Волынец Ирина Владимировна": 74,
-      "Пимкин Юрий Александрович": 24,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 43,
-      "Сивцев Евгений Викторович": 43,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 47
+      "gas:candidate-vibid:25920001388604": 389,
+      "gas:candidate-vibid:25920001391198": 74,
+      "gas:candidate-vibid:25920001385656": 24,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 43,
+      "gas:candidate-vibid:25920001364699": 43,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 268,
-      "Волынец Ирина Владимировна": 71,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 41,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 268,
+      "gas:candidate-vibid:25920001391198": 71,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 41,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 397,
-      "Волынец Ирина Владимировна": 77,
-      "Пимкин Юрий Александрович": 29,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 29,
-      "Сивцев Евгений Викторович": 34,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 60
+      "gas:candidate-vibid:25920001388604": 397,
+      "gas:candidate-vibid:25920001391198": 77,
+      "gas:candidate-vibid:25920001385656": 29,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 29,
+      "gas:candidate-vibid:25920001364699": 34,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 409,
-      "Волынец Ирина Владимировна": 72,
-      "Пимкин Юрий Александрович": 29,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 33,
-      "Сивцев Евгений Викторович": 62,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 78
+      "gas:candidate-vibid:25920001388604": 409,
+      "gas:candidate-vibid:25920001391198": 72,
+      "gas:candidate-vibid:25920001385656": 29,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 33,
+      "gas:candidate-vibid:25920001364699": 62,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 321,
-      "Волынец Ирина Владимировна": 72,
-      "Пимкин Юрий Александрович": 32,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 37,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 46
+      "gas:candidate-vibid:25920001388604": 321,
+      "gas:candidate-vibid:25920001391198": 72,
+      "gas:candidate-vibid:25920001385656": 32,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 37,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 114,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 10,
-      "Симонова Раиса Наурдыевна": 16,
-      "Сторожев Геннадий Алексеевич": 28
+      "gas:candidate-vibid:25920001388604": 114,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 10,
+      "gas:candidate-vibid:25920001385238": 16,
+      "gas:candidate-vibid:25920001389271": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 235,
-      "Волынец Ирина Владимировна": 51,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 37,
-      "Сивцев Евгений Викторович": 29,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 38
+      "gas:candidate-vibid:25920001388604": 235,
+      "gas:candidate-vibid:25920001391198": 51,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 37,
+      "gas:candidate-vibid:25920001364699": 29,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 171,
-      "Волынец Ирина Владимировна": 56,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 40,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 30
+      "gas:candidate-vibid:25920001388604": 171,
+      "gas:candidate-vibid:25920001391198": 56,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 40,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 331,
-      "Волынец Ирина Владимировна": 81,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 35,
-      "Сивцев Евгений Викторович": 43,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 51
+      "gas:candidate-vibid:25920001388604": 331,
+      "gas:candidate-vibid:25920001391198": 81,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 35,
+      "gas:candidate-vibid:25920001364699": 43,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 322,
-      "Волынец Ирина Владимировна": 86,
-      "Пимкин Юрий Александрович": 42,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 23,
-      "Сивцев Евгений Викторович": 49,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 64
+      "gas:candidate-vibid:25920001388604": 322,
+      "gas:candidate-vibid:25920001391198": 86,
+      "gas:candidate-vibid:25920001385656": 42,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 23,
+      "gas:candidate-vibid:25920001364699": 49,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 351,
-      "Волынец Ирина Владимировна": 67,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 44,
-      "Сивцев Евгений Викторович": 53,
-      "Симонова Раиса Наурдыевна": 16,
-      "Сторожев Геннадий Алексеевич": 55
+      "gas:candidate-vibid:25920001388604": 351,
+      "gas:candidate-vibid:25920001391198": 67,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 44,
+      "gas:candidate-vibid:25920001364699": 53,
+      "gas:candidate-vibid:25920001385238": 16,
+      "gas:candidate-vibid:25920001389271": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 435,
-      "Волынец Ирина Владимировна": 118,
-      "Пимкин Юрий Александрович": 40,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 39,
-      "Сивцев Евгений Викторович": 63,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 67
+      "gas:candidate-vibid:25920001388604": 435,
+      "gas:candidate-vibid:25920001391198": 118,
+      "gas:candidate-vibid:25920001385656": 40,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 39,
+      "gas:candidate-vibid:25920001364699": 63,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 287,
-      "Волынец Ирина Владимировна": 90,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 35,
-      "Сивцев Евгений Викторович": 45,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 53
+      "gas:candidate-vibid:25920001388604": 287,
+      "gas:candidate-vibid:25920001391198": 90,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 35,
+      "gas:candidate-vibid:25920001364699": 45,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 337,
-      "Волынец Ирина Владимировна": 45,
-      "Пимкин Юрий Александрович": 22,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 57,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 33
+      "gas:candidate-vibid:25920001388604": 337,
+      "gas:candidate-vibid:25920001391198": 45,
+      "gas:candidate-vibid:25920001385656": 22,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 57,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 70,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 70,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 111,
-      "Волынец Ирина Владимировна": 15,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 21,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 111,
+      "gas:candidate-vibid:25920001391198": 15,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 21,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 93,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 13,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 12
+      "gas:candidate-vibid:25920001388604": 93,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 13,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184797&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184797&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 83,
-      "Гребенюк Владимир Алексеевич": 133,
-      "Злобин Сергей Васильевич": 87,
-      "Золотарев Алексей Владимирович": 83,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 35,
-      "Мищенков Александр Сергеевич": 26,
-      "Скриванов Дмитрий Станиславович": 259,
-      "Созинов Александр Васильевич": 42
+      "gas:candidate-vibid:25920001389332": 83,
+      "gas:candidate-vibid:25920001389320": 133,
+      "gas:candidate-vibid:25920001387625": 87,
+      "gas:candidate-vibid:25920001362918": 83,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 35,
+      "gas:candidate-vibid:25920001390928": 26,
+      "gas:candidate-vibid:25920001390096": 259,
+      "gas:candidate-vibid:25920001385676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 101,
-      "Гребенюк Владимир Алексеевич": 101,
-      "Злобин Сергей Васильевич": 77,
-      "Золотарев Алексей Владимирович": 92,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 33,
-      "Мищенков Александр Сергеевич": 22,
-      "Скриванов Дмитрий Станиславович": 279,
-      "Созинов Александр Васильевич": 34
+      "gas:candidate-vibid:25920001389332": 101,
+      "gas:candidate-vibid:25920001389320": 101,
+      "gas:candidate-vibid:25920001387625": 77,
+      "gas:candidate-vibid:25920001362918": 92,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 33,
+      "gas:candidate-vibid:25920001390928": 22,
+      "gas:candidate-vibid:25920001390096": 279,
+      "gas:candidate-vibid:25920001385676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 108,
-      "Гребенюк Владимир Алексеевич": 135,
-      "Злобин Сергей Васильевич": 92,
-      "Золотарев Алексей Владимирович": 101,
-      "Зубов Евгений Владиславович": 20,
-      "Любич Антон Андреевич": 29,
-      "Мищенков Александр Сергеевич": 25,
-      "Скриванов Дмитрий Станиславович": 300,
-      "Созинов Александр Васильевич": 30
+      "gas:candidate-vibid:25920001389332": 108,
+      "gas:candidate-vibid:25920001389320": 135,
+      "gas:candidate-vibid:25920001387625": 92,
+      "gas:candidate-vibid:25920001362918": 101,
+      "gas:candidate-vibid:25920001388590": 20,
+      "gas:candidate-vibid:25920001388174": 29,
+      "gas:candidate-vibid:25920001390928": 25,
+      "gas:candidate-vibid:25920001390096": 300,
+      "gas:candidate-vibid:25920001385676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 175,
-      "Гребенюк Владимир Алексеевич": 117,
-      "Злобин Сергей Васильевич": 75,
-      "Золотарев Алексей Владимирович": 121,
-      "Зубов Евгений Владиславович": 24,
-      "Любич Антон Андреевич": 58,
-      "Мищенков Александр Сергеевич": 45,
-      "Скриванов Дмитрий Станиславович": 336,
-      "Созинов Александр Васильевич": 37
+      "gas:candidate-vibid:25920001389332": 175,
+      "gas:candidate-vibid:25920001389320": 117,
+      "gas:candidate-vibid:25920001387625": 75,
+      "gas:candidate-vibid:25920001362918": 121,
+      "gas:candidate-vibid:25920001388590": 24,
+      "gas:candidate-vibid:25920001388174": 58,
+      "gas:candidate-vibid:25920001390928": 45,
+      "gas:candidate-vibid:25920001390096": 336,
+      "gas:candidate-vibid:25920001385676": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 113,
-      "Гребенюк Владимир Алексеевич": 109,
-      "Злобин Сергей Васильевич": 67,
-      "Золотарев Алексей Владимирович": 100,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 40,
-      "Мищенков Александр Сергеевич": 26,
-      "Скриванов Дмитрий Станиславович": 284,
-      "Созинов Александр Васильевич": 48
+      "gas:candidate-vibid:25920001389332": 113,
+      "gas:candidate-vibid:25920001389320": 109,
+      "gas:candidate-vibid:25920001387625": 67,
+      "gas:candidate-vibid:25920001362918": 100,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 40,
+      "gas:candidate-vibid:25920001390928": 26,
+      "gas:candidate-vibid:25920001390096": 284,
+      "gas:candidate-vibid:25920001385676": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 94,
-      "Гребенюк Владимир Алексеевич": 111,
-      "Злобин Сергей Васильевич": 82,
-      "Золотарев Алексей Владимирович": 87,
-      "Зубов Евгений Владиславович": 16,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 275,
-      "Созинов Александр Васильевич": 20
+      "gas:candidate-vibid:25920001389332": 94,
+      "gas:candidate-vibid:25920001389320": 111,
+      "gas:candidate-vibid:25920001387625": 82,
+      "gas:candidate-vibid:25920001362918": 87,
+      "gas:candidate-vibid:25920001388590": 16,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 275,
+      "gas:candidate-vibid:25920001385676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 115,
-      "Гребенюк Владимир Алексеевич": 154,
-      "Злобин Сергей Васильевич": 97,
-      "Золотарев Алексей Владимирович": 103,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 34,
-      "Мищенков Александр Сергеевич": 25,
-      "Скриванов Дмитрий Станиславович": 303,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 115,
+      "gas:candidate-vibid:25920001389320": 154,
+      "gas:candidate-vibid:25920001387625": 97,
+      "gas:candidate-vibid:25920001362918": 103,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 34,
+      "gas:candidate-vibid:25920001390928": 25,
+      "gas:candidate-vibid:25920001390096": 303,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 93,
-      "Гребенюк Владимир Алексеевич": 86,
-      "Злобин Сергей Васильевич": 55,
-      "Золотарев Алексей Владимирович": 55,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 26,
-      "Скриванов Дмитрий Станиславович": 168,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 93,
+      "gas:candidate-vibid:25920001389320": 86,
+      "gas:candidate-vibid:25920001387625": 55,
+      "gas:candidate-vibid:25920001362918": 55,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 26,
+      "gas:candidate-vibid:25920001390096": 168,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 100,
-      "Гребенюк Владимир Алексеевич": 134,
-      "Злобин Сергей Васильевич": 70,
-      "Золотарев Алексей Владимирович": 65,
-      "Зубов Евгений Владиславович": 20,
-      "Любич Антон Андреевич": 22,
-      "Мищенков Александр Сергеевич": 21,
-      "Скриванов Дмитрий Станиславович": 201,
-      "Созинов Александр Васильевич": 30
+      "gas:candidate-vibid:25920001389332": 100,
+      "gas:candidate-vibid:25920001389320": 134,
+      "gas:candidate-vibid:25920001387625": 70,
+      "gas:candidate-vibid:25920001362918": 65,
+      "gas:candidate-vibid:25920001388590": 20,
+      "gas:candidate-vibid:25920001388174": 22,
+      "gas:candidate-vibid:25920001390928": 21,
+      "gas:candidate-vibid:25920001390096": 201,
+      "gas:candidate-vibid:25920001385676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 90,
-      "Гребенюк Владимир Алексеевич": 116,
-      "Злобин Сергей Васильевич": 78,
-      "Золотарев Алексей Владимирович": 90,
-      "Зубов Евгений Владиславович": 20,
-      "Любич Антон Андреевич": 54,
-      "Мищенков Александр Сергеевич": 36,
-      "Скриванов Дмитрий Станиславович": 264,
-      "Созинов Александр Васильевич": 33
+      "gas:candidate-vibid:25920001389332": 90,
+      "gas:candidate-vibid:25920001389320": 116,
+      "gas:candidate-vibid:25920001387625": 78,
+      "gas:candidate-vibid:25920001362918": 90,
+      "gas:candidate-vibid:25920001388590": 20,
+      "gas:candidate-vibid:25920001388174": 54,
+      "gas:candidate-vibid:25920001390928": 36,
+      "gas:candidate-vibid:25920001390096": 264,
+      "gas:candidate-vibid:25920001385676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 63,
-      "Гребенюк Владимир Алексеевич": 86,
-      "Злобин Сергей Васильевич": 45,
-      "Золотарев Алексей Владимирович": 50,
-      "Зубов Евгений Владиславович": 6,
-      "Любич Антон Андреевич": 23,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 155,
-      "Созинов Александр Васильевич": 27
+      "gas:candidate-vibid:25920001389332": 63,
+      "gas:candidate-vibid:25920001389320": 86,
+      "gas:candidate-vibid:25920001387625": 45,
+      "gas:candidate-vibid:25920001362918": 50,
+      "gas:candidate-vibid:25920001388590": 6,
+      "gas:candidate-vibid:25920001388174": 23,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 155,
+      "gas:candidate-vibid:25920001385676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 134,
-      "Гребенюк Владимир Алексеевич": 106,
-      "Злобин Сергей Васильевич": 58,
-      "Золотарев Алексей Владимирович": 83,
-      "Зубов Евгений Владиславович": 25,
-      "Любич Антон Андреевич": 34,
-      "Мищенков Александр Сергеевич": 30,
-      "Скриванов Дмитрий Станиславович": 314,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 134,
+      "gas:candidate-vibid:25920001389320": 106,
+      "gas:candidate-vibid:25920001387625": 58,
+      "gas:candidate-vibid:25920001362918": 83,
+      "gas:candidate-vibid:25920001388590": 25,
+      "gas:candidate-vibid:25920001388174": 34,
+      "gas:candidate-vibid:25920001390928": 30,
+      "gas:candidate-vibid:25920001390096": 314,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 80,
-      "Гребенюк Владимир Алексеевич": 107,
-      "Злобин Сергей Васильевич": 64,
-      "Золотарев Алексей Владимирович": 60,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 218,
-      "Созинов Александр Васильевич": 31
+      "gas:candidate-vibid:25920001389332": 80,
+      "gas:candidate-vibid:25920001389320": 107,
+      "gas:candidate-vibid:25920001387625": 64,
+      "gas:candidate-vibid:25920001362918": 60,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 218,
+      "gas:candidate-vibid:25920001385676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 93,
-      "Гребенюк Владимир Алексеевич": 111,
-      "Злобин Сергей Васильевич": 86,
-      "Золотарев Алексей Владимирович": 81,
-      "Зубов Евгений Владиславович": 26,
-      "Любич Антон Андреевич": 26,
-      "Мищенков Александр Сергеевич": 19,
-      "Скриванов Дмитрий Станиславович": 244,
-      "Созинов Александр Васильевич": 36
+      "gas:candidate-vibid:25920001389332": 93,
+      "gas:candidate-vibid:25920001389320": 111,
+      "gas:candidate-vibid:25920001387625": 86,
+      "gas:candidate-vibid:25920001362918": 81,
+      "gas:candidate-vibid:25920001388590": 26,
+      "gas:candidate-vibid:25920001388174": 26,
+      "gas:candidate-vibid:25920001390928": 19,
+      "gas:candidate-vibid:25920001390096": 244,
+      "gas:candidate-vibid:25920001385676": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 66,
-      "Гребенюк Владимир Алексеевич": 73,
-      "Злобин Сергей Васильевич": 55,
-      "Золотарев Алексей Владимирович": 56,
-      "Зубов Евгений Владиславович": 18,
-      "Любич Антон Андреевич": 25,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 182,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 66,
+      "gas:candidate-vibid:25920001389320": 73,
+      "gas:candidate-vibid:25920001387625": 55,
+      "gas:candidate-vibid:25920001362918": 56,
+      "gas:candidate-vibid:25920001388590": 18,
+      "gas:candidate-vibid:25920001388174": 25,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 182,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 90,
-      "Гребенюк Владимир Алексеевич": 119,
-      "Злобин Сергей Васильевич": 59,
-      "Золотарев Алексей Владимирович": 59,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 32,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 195,
-      "Созинов Александр Васильевич": 30
+      "gas:candidate-vibid:25920001389332": 90,
+      "gas:candidate-vibid:25920001389320": 119,
+      "gas:candidate-vibid:25920001387625": 59,
+      "gas:candidate-vibid:25920001362918": 59,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 32,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 195,
+      "gas:candidate-vibid:25920001385676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 86,
-      "Гребенюк Владимир Алексеевич": 53,
-      "Злобин Сергей Васильевич": 54,
-      "Золотарев Алексей Владимирович": 47,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 22,
-      "Скриванов Дмитрий Станиславович": 150,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 86,
+      "gas:candidate-vibid:25920001389320": 53,
+      "gas:candidate-vibid:25920001387625": 54,
+      "gas:candidate-vibid:25920001362918": 47,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 22,
+      "gas:candidate-vibid:25920001390096": 150,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 99,
-      "Гребенюк Владимир Алексеевич": 86,
-      "Злобин Сергей Васильевич": 59,
-      "Золотарев Алексей Владимирович": 76,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 31,
-      "Мищенков Александр Сергеевич": 27,
-      "Скриванов Дмитрий Станиславович": 239,
-      "Созинов Александр Васильевич": 29
+      "gas:candidate-vibid:25920001389332": 99,
+      "gas:candidate-vibid:25920001389320": 86,
+      "gas:candidate-vibid:25920001387625": 59,
+      "gas:candidate-vibid:25920001362918": 76,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 31,
+      "gas:candidate-vibid:25920001390928": 27,
+      "gas:candidate-vibid:25920001390096": 239,
+      "gas:candidate-vibid:25920001385676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 45,
-      "Гребенюк Владимир Алексеевич": 54,
-      "Злобин Сергей Васильевич": 67,
-      "Золотарев Алексей Владимирович": 42,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 11,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 127,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 45,
+      "gas:candidate-vibid:25920001389320": 54,
+      "gas:candidate-vibid:25920001387625": 67,
+      "gas:candidate-vibid:25920001362918": 42,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 11,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 127,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 53,
-      "Злобин Сергей Васильевич": 39,
-      "Золотарев Алексей Владимирович": 45,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 167,
-      "Созинов Александр Васильевич": 13
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 53,
+      "gas:candidate-vibid:25920001387625": 39,
+      "gas:candidate-vibid:25920001362918": 45,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 167,
+      "gas:candidate-vibid:25920001385676": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 56,
-      "Гребенюк Владимир Алексеевич": 58,
-      "Злобин Сергей Васильевич": 30,
-      "Золотарев Алексей Владимирович": 39,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 20,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 115,
-      "Созинов Александр Васильевич": 12
+      "gas:candidate-vibid:25920001389332": 56,
+      "gas:candidate-vibid:25920001389320": 58,
+      "gas:candidate-vibid:25920001387625": 30,
+      "gas:candidate-vibid:25920001362918": 39,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 20,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 115,
+      "gas:candidate-vibid:25920001385676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 121,
-      "Гребенюк Владимир Алексеевич": 112,
-      "Злобин Сергей Васильевич": 87,
-      "Золотарев Алексей Владимирович": 74,
-      "Зубов Евгений Владиславович": 16,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 201,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 121,
+      "gas:candidate-vibid:25920001389320": 112,
+      "gas:candidate-vibid:25920001387625": 87,
+      "gas:candidate-vibid:25920001362918": 74,
+      "gas:candidate-vibid:25920001388590": 16,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 201,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 78,
-      "Гребенюк Владимир Алексеевич": 108,
-      "Злобин Сергей Васильевич": 54,
-      "Золотарев Алексей Владимирович": 82,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 252,
-      "Созинов Александр Васильевич": 27
+      "gas:candidate-vibid:25920001389332": 78,
+      "gas:candidate-vibid:25920001389320": 108,
+      "gas:candidate-vibid:25920001387625": 54,
+      "gas:candidate-vibid:25920001362918": 82,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 252,
+      "gas:candidate-vibid:25920001385676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 59,
-      "Гребенюк Владимир Алексеевич": 89,
-      "Злобин Сергей Васильевич": 64,
-      "Золотарев Алексей Владимирович": 67,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 234,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 59,
+      "gas:candidate-vibid:25920001389320": 89,
+      "gas:candidate-vibid:25920001387625": 64,
+      "gas:candidate-vibid:25920001362918": 67,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 234,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 73,
-      "Злобин Сергей Васильевич": 42,
-      "Золотарев Алексей Владимирович": 49,
-      "Зубов Евгений Владиславович": 18,
-      "Любич Антон Андреевич": 14,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 180,
-      "Созинов Александр Васильевич": 16
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 73,
+      "gas:candidate-vibid:25920001387625": 42,
+      "gas:candidate-vibid:25920001362918": 49,
+      "gas:candidate-vibid:25920001388590": 18,
+      "gas:candidate-vibid:25920001388174": 14,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 180,
+      "gas:candidate-vibid:25920001385676": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 72,
-      "Гребенюк Владимир Алексеевич": 74,
-      "Злобин Сергей Васильевич": 53,
-      "Золотарев Алексей Владимирович": 52,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 25,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 179,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 72,
+      "gas:candidate-vibid:25920001389320": 74,
+      "gas:candidate-vibid:25920001387625": 53,
+      "gas:candidate-vibid:25920001362918": 52,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 25,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 179,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 65,
-      "Гребенюк Владимир Алексеевич": 75,
-      "Злобин Сергей Васильевич": 42,
-      "Золотарев Алексей Владимирович": 63,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 6,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 153,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 65,
+      "gas:candidate-vibid:25920001389320": 75,
+      "gas:candidate-vibid:25920001387625": 42,
+      "gas:candidate-vibid:25920001362918": 63,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 6,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 153,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 97,
-      "Гребенюк Владимир Алексеевич": 81,
-      "Злобин Сергей Васильевич": 53,
-      "Золотарев Алексей Владимирович": 76,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 32,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 305,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 97,
+      "gas:candidate-vibid:25920001389320": 81,
+      "gas:candidate-vibid:25920001387625": 53,
+      "gas:candidate-vibid:25920001362918": 76,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 32,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 305,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 77,
-      "Гребенюк Владимир Алексеевич": 83,
-      "Злобин Сергей Васильевич": 65,
-      "Золотарев Алексей Владимирович": 48,
-      "Зубов Евгений Владиславович": 19,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 203,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 77,
+      "gas:candidate-vibid:25920001389320": 83,
+      "gas:candidate-vibid:25920001387625": 65,
+      "gas:candidate-vibid:25920001362918": 48,
+      "gas:candidate-vibid:25920001388590": 19,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 203,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 53,
-      "Гребенюк Владимир Алексеевич": 83,
-      "Злобин Сергей Васильевич": 49,
-      "Золотарев Алексей Владимирович": 58,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 182,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 53,
+      "gas:candidate-vibid:25920001389320": 83,
+      "gas:candidate-vibid:25920001387625": 49,
+      "gas:candidate-vibid:25920001362918": 58,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 182,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 39,
-      "Гребенюк Владимир Алексеевич": 101,
-      "Злобин Сергей Васильевич": 50,
-      "Золотарев Алексей Владимирович": 55,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 164,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 39,
+      "gas:candidate-vibid:25920001389320": 101,
+      "gas:candidate-vibid:25920001387625": 50,
+      "gas:candidate-vibid:25920001362918": 55,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 164,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 29,
-      "Гребенюк Владимир Алексеевич": 68,
-      "Злобин Сергей Васильевич": 55,
-      "Золотарев Алексей Владимирович": 58,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 9,
-      "Мищенков Александр Сергеевич": 9,
-      "Скриванов Дмитрий Станиславович": 213,
-      "Созинов Александр Васильевич": 13
+      "gas:candidate-vibid:25920001389332": 29,
+      "gas:candidate-vibid:25920001389320": 68,
+      "gas:candidate-vibid:25920001387625": 55,
+      "gas:candidate-vibid:25920001362918": 58,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 9,
+      "gas:candidate-vibid:25920001390928": 9,
+      "gas:candidate-vibid:25920001390096": 213,
+      "gas:candidate-vibid:25920001385676": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 64,
-      "Гребенюк Владимир Алексеевич": 93,
-      "Злобин Сергей Васильевич": 78,
-      "Золотарев Алексей Владимирович": 85,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 14,
-      "Мищенков Александр Сергеевич": 15,
-      "Скриванов Дмитрий Станиславович": 332,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 64,
+      "gas:candidate-vibid:25920001389320": 93,
+      "gas:candidate-vibid:25920001387625": 78,
+      "gas:candidate-vibid:25920001362918": 85,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 14,
+      "gas:candidate-vibid:25920001390928": 15,
+      "gas:candidate-vibid:25920001390096": 332,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 73,
-      "Гребенюк Владимир Алексеевич": 98,
-      "Злобин Сергей Васильевич": 68,
-      "Золотарев Алексей Владимирович": 79,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 25,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 299,
-      "Созинов Александр Васильевич": 24
+      "gas:candidate-vibid:25920001389332": 73,
+      "gas:candidate-vibid:25920001389320": 98,
+      "gas:candidate-vibid:25920001387625": 68,
+      "gas:candidate-vibid:25920001362918": 79,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 25,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 299,
+      "gas:candidate-vibid:25920001385676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 60,
-      "Гребенюк Владимир Алексеевич": 103,
-      "Злобин Сергей Васильевич": 71,
-      "Золотарев Алексей Владимирович": 62,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 23,
-      "Мищенков Александр Сергеевич": 18,
-      "Скриванов Дмитрий Станиславович": 242,
-      "Созинов Александр Васильевич": 43
+      "gas:candidate-vibid:25920001389332": 60,
+      "gas:candidate-vibid:25920001389320": 103,
+      "gas:candidate-vibid:25920001387625": 71,
+      "gas:candidate-vibid:25920001362918": 62,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 23,
+      "gas:candidate-vibid:25920001390928": 18,
+      "gas:candidate-vibid:25920001390096": 242,
+      "gas:candidate-vibid:25920001385676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 59,
-      "Гребенюк Владимир Алексеевич": 91,
-      "Злобин Сергей Васильевич": 89,
-      "Золотарев Алексей Владимирович": 77,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 18,
-      "Скриванов Дмитрий Станиславович": 240,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 59,
+      "gas:candidate-vibid:25920001389320": 91,
+      "gas:candidate-vibid:25920001387625": 89,
+      "gas:candidate-vibid:25920001362918": 77,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 18,
+      "gas:candidate-vibid:25920001390096": 240,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 62,
-      "Гребенюк Владимир Алексеевич": 115,
-      "Злобин Сергей Васильевич": 87,
-      "Золотарев Алексей Владимирович": 87,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 246,
-      "Созинов Александр Васильевич": 33
+      "gas:candidate-vibid:25920001389332": 62,
+      "gas:candidate-vibid:25920001389320": 115,
+      "gas:candidate-vibid:25920001387625": 87,
+      "gas:candidate-vibid:25920001362918": 87,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 246,
+      "gas:candidate-vibid:25920001385676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 56,
-      "Гребенюк Владимир Алексеевич": 77,
-      "Злобин Сергей Васильевич": 83,
-      "Золотарев Алексей Владимирович": 66,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 22,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 265,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 56,
+      "gas:candidate-vibid:25920001389320": 77,
+      "gas:candidate-vibid:25920001387625": 83,
+      "gas:candidate-vibid:25920001362918": 66,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 22,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 265,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 55,
-      "Гребенюк Владимир Алексеевич": 64,
-      "Злобин Сергей Васильевич": 59,
-      "Золотарев Алексей Владимирович": 44,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 214,
-      "Созинов Александр Васильевич": 17
+      "gas:candidate-vibid:25920001389332": 55,
+      "gas:candidate-vibid:25920001389320": 64,
+      "gas:candidate-vibid:25920001387625": 59,
+      "gas:candidate-vibid:25920001362918": 44,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 214,
+      "gas:candidate-vibid:25920001385676": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 51,
-      "Гребенюк Владимир Алексеевич": 90,
-      "Злобин Сергей Васильевич": 73,
-      "Золотарев Алексей Владимирович": 59,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 207,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 51,
+      "gas:candidate-vibid:25920001389320": 90,
+      "gas:candidate-vibid:25920001387625": 73,
+      "gas:candidate-vibid:25920001362918": 59,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 207,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 47,
-      "Гребенюк Владимир Алексеевич": 63,
-      "Злобин Сергей Васильевич": 79,
-      "Золотарев Алексей Владимирович": 64,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 216,
-      "Созинов Александр Васильевич": 34
+      "gas:candidate-vibid:25920001389332": 47,
+      "gas:candidate-vibid:25920001389320": 63,
+      "gas:candidate-vibid:25920001387625": 79,
+      "gas:candidate-vibid:25920001362918": 64,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 216,
+      "gas:candidate-vibid:25920001385676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 34,
-      "Гребенюк Владимир Алексеевич": 49,
-      "Злобин Сергей Васильевич": 57,
-      "Золотарев Алексей Владимирович": 46,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 167,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 34,
+      "gas:candidate-vibid:25920001389320": 49,
+      "gas:candidate-vibid:25920001387625": 57,
+      "gas:candidate-vibid:25920001362918": 46,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 167,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 46,
-      "Гребенюк Владимир Алексеевич": 76,
-      "Злобин Сергей Васильевич": 80,
-      "Золотарев Алексей Владимирович": 61,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 235,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 46,
+      "gas:candidate-vibid:25920001389320": 76,
+      "gas:candidate-vibid:25920001387625": 80,
+      "gas:candidate-vibid:25920001362918": 61,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 235,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 35,
-      "Гребенюк Владимир Алексеевич": 71,
-      "Злобин Сергей Васильевич": 69,
-      "Золотарев Алексей Владимирович": 51,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 9,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 197,
-      "Созинов Александр Васильевич": 14
+      "gas:candidate-vibid:25920001389332": 35,
+      "gas:candidate-vibid:25920001389320": 71,
+      "gas:candidate-vibid:25920001387625": 69,
+      "gas:candidate-vibid:25920001362918": 51,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 9,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 197,
+      "gas:candidate-vibid:25920001385676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 75,
-      "Гребенюк Владимир Алексеевич": 112,
-      "Злобин Сергей Васильевич": 89,
-      "Золотарев Алексей Владимирович": 85,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 28,
-      "Мищенков Александр Сергеевич": 27,
-      "Скриванов Дмитрий Станиславович": 294,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 75,
+      "gas:candidate-vibid:25920001389320": 112,
+      "gas:candidate-vibid:25920001387625": 89,
+      "gas:candidate-vibid:25920001362918": 85,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 28,
+      "gas:candidate-vibid:25920001390928": 27,
+      "gas:candidate-vibid:25920001390096": 294,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 42,
-      "Гребенюк Владимир Алексеевич": 58,
-      "Злобин Сергей Васильевич": 89,
-      "Золотарев Алексей Владимирович": 78,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 203,
-      "Созинов Александр Васильевич": 20
+      "gas:candidate-vibid:25920001389332": 42,
+      "gas:candidate-vibid:25920001389320": 58,
+      "gas:candidate-vibid:25920001387625": 89,
+      "gas:candidate-vibid:25920001362918": 78,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 203,
+      "gas:candidate-vibid:25920001385676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 39,
-      "Гребенюк Владимир Алексеевич": 86,
-      "Злобин Сергей Васильевич": 78,
-      "Золотарев Алексей Владимирович": 65,
-      "Зубов Евгений Владиславович": 20,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 223,
-      "Созинов Александр Васильевич": 19
+      "gas:candidate-vibid:25920001389332": 39,
+      "gas:candidate-vibid:25920001389320": 86,
+      "gas:candidate-vibid:25920001387625": 78,
+      "gas:candidate-vibid:25920001362918": 65,
+      "gas:candidate-vibid:25920001388590": 20,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 223,
+      "gas:candidate-vibid:25920001385676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 39,
-      "Гребенюк Владимир Алексеевич": 113,
-      "Злобин Сергей Васильевич": 70,
-      "Золотарев Алексей Владимирович": 75,
-      "Зубов Евгений Владиславович": 21,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 17,
-      "Скриванов Дмитрий Станиславович": 244,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 39,
+      "gas:candidate-vibid:25920001389320": 113,
+      "gas:candidate-vibid:25920001387625": 70,
+      "gas:candidate-vibid:25920001362918": 75,
+      "gas:candidate-vibid:25920001388590": 21,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 17,
+      "gas:candidate-vibid:25920001390096": 244,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 48,
-      "Гребенюк Владимир Алексеевич": 118,
-      "Злобин Сергей Васильевич": 77,
-      "Золотарев Алексей Владимирович": 69,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 239,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 48,
+      "gas:candidate-vibid:25920001389320": 118,
+      "gas:candidate-vibid:25920001387625": 77,
+      "gas:candidate-vibid:25920001362918": 69,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 239,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 67,
-      "Гребенюк Владимир Алексеевич": 109,
-      "Злобин Сергей Васильевич": 84,
-      "Золотарев Алексей Владимирович": 82,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 284,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 67,
+      "gas:candidate-vibid:25920001389320": 109,
+      "gas:candidate-vibid:25920001387625": 84,
+      "gas:candidate-vibid:25920001362918": 82,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 284,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 43,
-      "Гребенюк Владимир Алексеевич": 74,
-      "Злобин Сергей Васильевич": 52,
-      "Золотарев Алексей Владимирович": 72,
-      "Зубов Евгений Владиславович": 3,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 211,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 43,
+      "gas:candidate-vibid:25920001389320": 74,
+      "gas:candidate-vibid:25920001387625": 52,
+      "gas:candidate-vibid:25920001362918": 72,
+      "gas:candidate-vibid:25920001388590": 3,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 211,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 23,
-      "Гребенюк Владимир Алексеевич": 63,
-      "Злобин Сергей Васильевич": 57,
-      "Золотарев Алексей Владимирович": 61,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 5,
-      "Мищенков Александр Сергеевич": 9,
-      "Скриванов Дмитрий Станиславович": 188,
-      "Созинов Александр Васильевич": 9
+      "gas:candidate-vibid:25920001389332": 23,
+      "gas:candidate-vibid:25920001389320": 63,
+      "gas:candidate-vibid:25920001387625": 57,
+      "gas:candidate-vibid:25920001362918": 61,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 5,
+      "gas:candidate-vibid:25920001390928": 9,
+      "gas:candidate-vibid:25920001390096": 188,
+      "gas:candidate-vibid:25920001385676": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 58,
-      "Гребенюк Владимир Алексеевич": 91,
-      "Злобин Сергей Васильевич": 85,
-      "Золотарев Алексей Владимирович": 77,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 251,
-      "Созинов Александр Васильевич": 25
+      "gas:candidate-vibid:25920001389332": 58,
+      "gas:candidate-vibid:25920001389320": 91,
+      "gas:candidate-vibid:25920001387625": 85,
+      "gas:candidate-vibid:25920001362918": 77,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 251,
+      "gas:candidate-vibid:25920001385676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 34,
-      "Гребенюк Владимир Алексеевич": 63,
-      "Злобин Сергей Васильевич": 76,
-      "Золотарев Алексей Владимирович": 56,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 9,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 202,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 34,
+      "gas:candidate-vibid:25920001389320": 63,
+      "gas:candidate-vibid:25920001387625": 76,
+      "gas:candidate-vibid:25920001362918": 56,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 9,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 202,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 42,
-      "Гребенюк Владимир Алексеевич": 94,
-      "Злобин Сергей Васильевич": 85,
-      "Золотарев Алексей Владимирович": 80,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 269,
-      "Созинов Александр Васильевич": 27
+      "gas:candidate-vibid:25920001389332": 42,
+      "gas:candidate-vibid:25920001389320": 94,
+      "gas:candidate-vibid:25920001387625": 85,
+      "gas:candidate-vibid:25920001362918": 80,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 269,
+      "gas:candidate-vibid:25920001385676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 35,
-      "Гребенюк Владимир Алексеевич": 72,
-      "Злобин Сергей Васильевич": 50,
-      "Золотарев Алексей Владимирович": 55,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 181,
-      "Созинов Александр Васильевич": 19
+      "gas:candidate-vibid:25920001389332": 35,
+      "gas:candidate-vibid:25920001389320": 72,
+      "gas:candidate-vibid:25920001387625": 50,
+      "gas:candidate-vibid:25920001362918": 55,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 181,
+      "gas:candidate-vibid:25920001385676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 49,
-      "Гребенюк Владимир Алексеевич": 118,
-      "Злобин Сергей Васильевич": 108,
-      "Золотарев Алексей Владимирович": 86,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 11,
-      "Мищенков Александр Сергеевич": 11,
-      "Скриванов Дмитрий Станиславович": 253,
-      "Созинов Александр Васильевич": 34
+      "gas:candidate-vibid:25920001389332": 49,
+      "gas:candidate-vibid:25920001389320": 118,
+      "gas:candidate-vibid:25920001387625": 108,
+      "gas:candidate-vibid:25920001362918": 86,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 11,
+      "gas:candidate-vibid:25920001390928": 11,
+      "gas:candidate-vibid:25920001390096": 253,
+      "gas:candidate-vibid:25920001385676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 13,
-      "Гребенюк Владимир Алексеевич": 39,
-      "Злобин Сергей Васильевич": 26,
-      "Золотарев Алексей Владимирович": 29,
-      "Зубов Евгений Владиславович": 3,
-      "Любич Антон Андреевич": 3,
-      "Мищенков Александр Сергеевич": 2,
-      "Скриванов Дмитрий Станиславович": 116,
-      "Созинов Александр Васильевич": 9
+      "gas:candidate-vibid:25920001389332": 13,
+      "gas:candidate-vibid:25920001389320": 39,
+      "gas:candidate-vibid:25920001387625": 26,
+      "gas:candidate-vibid:25920001362918": 29,
+      "gas:candidate-vibid:25920001388590": 3,
+      "gas:candidate-vibid:25920001388174": 3,
+      "gas:candidate-vibid:25920001390928": 2,
+      "gas:candidate-vibid:25920001390096": 116,
+      "gas:candidate-vibid:25920001385676": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 65,
-      "Гребенюк Владимир Алексеевич": 124,
-      "Злобин Сергей Васильевич": 95,
-      "Золотарев Алексей Владимирович": 69,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 15,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 234,
-      "Созинов Александр Васильевич": 34
+      "gas:candidate-vibid:25920001389332": 65,
+      "gas:candidate-vibid:25920001389320": 124,
+      "gas:candidate-vibid:25920001387625": 95,
+      "gas:candidate-vibid:25920001362918": 69,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 15,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 234,
+      "gas:candidate-vibid:25920001385676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 37,
-      "Гребенюк Владимир Алексеевич": 55,
-      "Злобин Сергей Васильевич": 44,
-      "Золотарев Алексей Владимирович": 53,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 193,
-      "Созинов Александр Васильевич": 23
+      "gas:candidate-vibid:25920001389332": 37,
+      "gas:candidate-vibid:25920001389320": 55,
+      "gas:candidate-vibid:25920001387625": 44,
+      "gas:candidate-vibid:25920001362918": 53,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 193,
+      "gas:candidate-vibid:25920001385676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 29,
-      "Гребенюк Владимир Алексеевич": 60,
-      "Злобин Сергей Васильевич": 61,
-      "Золотарев Алексей Владимирович": 50,
-      "Зубов Евгений Владиславович": 4,
-      "Любич Антон Андреевич": 6,
-      "Мищенков Александр Сергеевич": 6,
-      "Скриванов Дмитрий Станиславович": 171,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 29,
+      "gas:candidate-vibid:25920001389320": 60,
+      "gas:candidate-vibid:25920001387625": 61,
+      "gas:candidate-vibid:25920001362918": 50,
+      "gas:candidate-vibid:25920001388590": 4,
+      "gas:candidate-vibid:25920001388174": 6,
+      "gas:candidate-vibid:25920001390928": 6,
+      "gas:candidate-vibid:25920001390096": 171,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 28,
-      "Гребенюк Владимир Алексеевич": 50,
-      "Злобин Сергей Васильевич": 38,
-      "Золотарев Алексей Владимирович": 52,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 129,
-      "Созинов Александр Васильевич": 12
+      "gas:candidate-vibid:25920001389332": 28,
+      "gas:candidate-vibid:25920001389320": 50,
+      "gas:candidate-vibid:25920001387625": 38,
+      "gas:candidate-vibid:25920001362918": 52,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 129,
+      "gas:candidate-vibid:25920001385676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 43,
-      "Гребенюк Владимир Алексеевич": 83,
-      "Злобин Сергей Васильевич": 63,
-      "Золотарев Алексей Владимирович": 66,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 13,
-      "Скриванов Дмитрий Станиславович": 193,
-      "Созинов Александр Васильевич": 19
+      "gas:candidate-vibid:25920001389332": 43,
+      "gas:candidate-vibid:25920001389320": 83,
+      "gas:candidate-vibid:25920001387625": 63,
+      "gas:candidate-vibid:25920001362918": 66,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 13,
+      "gas:candidate-vibid:25920001390096": 193,
+      "gas:candidate-vibid:25920001385676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 41,
-      "Гребенюк Владимир Алексеевич": 102,
-      "Злобин Сергей Васильевич": 83,
-      "Золотарев Алексей Владимирович": 73,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 220,
-      "Созинов Александр Васильевич": 37
+      "gas:candidate-vibid:25920001389332": 41,
+      "gas:candidate-vibid:25920001389320": 102,
+      "gas:candidate-vibid:25920001387625": 83,
+      "gas:candidate-vibid:25920001362918": 73,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 220,
+      "gas:candidate-vibid:25920001385676": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 9,
-      "Гребенюк Владимир Алексеевич": 26,
-      "Злобин Сергей Васильевич": 19,
-      "Золотарев Алексей Владимирович": 22,
-      "Зубов Евгений Владиславович": 3,
-      "Любич Антон Андреевич": 3,
-      "Мищенков Александр Сергеевич": 6,
-      "Скриванов Дмитрий Станиславович": 85,
-      "Созинов Александр Васильевич": 10
+      "gas:candidate-vibid:25920001389332": 9,
+      "gas:candidate-vibid:25920001389320": 26,
+      "gas:candidate-vibid:25920001387625": 19,
+      "gas:candidate-vibid:25920001362918": 22,
+      "gas:candidate-vibid:25920001388590": 3,
+      "gas:candidate-vibid:25920001388174": 3,
+      "gas:candidate-vibid:25920001390928": 6,
+      "gas:candidate-vibid:25920001390096": 85,
+      "gas:candidate-vibid:25920001385676": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 66,
-      "Гребенюк Владимир Алексеевич": 100,
-      "Злобин Сергей Васильевич": 81,
-      "Золотарев Алексей Владимирович": 70,
-      "Зубов Евгений Владиславович": 18,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 293,
-      "Созинов Александр Васильевич": 41
+      "gas:candidate-vibid:25920001389332": 66,
+      "gas:candidate-vibid:25920001389320": 100,
+      "gas:candidate-vibid:25920001387625": 81,
+      "gas:candidate-vibid:25920001362918": 70,
+      "gas:candidate-vibid:25920001388590": 18,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 293,
+      "gas:candidate-vibid:25920001385676": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 54,
-      "Гребенюк Владимир Алексеевич": 114,
-      "Злобин Сергей Васильевич": 94,
-      "Золотарев Алексей Владимирович": 99,
-      "Зубов Евгений Владиславович": 27,
-      "Любич Антон Андреевич": 11,
-      "Мищенков Александр Сергеевич": 11,
-      "Скриванов Дмитрий Станиславович": 326,
-      "Созинов Александр Васильевич": 42
+      "gas:candidate-vibid:25920001389332": 54,
+      "gas:candidate-vibid:25920001389320": 114,
+      "gas:candidate-vibid:25920001387625": 94,
+      "gas:candidate-vibid:25920001362918": 99,
+      "gas:candidate-vibid:25920001388590": 27,
+      "gas:candidate-vibid:25920001388174": 11,
+      "gas:candidate-vibid:25920001390928": 11,
+      "gas:candidate-vibid:25920001390096": 326,
+      "gas:candidate-vibid:25920001385676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 40,
-      "Гребенюк Владимир Алексеевич": 80,
-      "Злобин Сергей Васильевич": 79,
-      "Золотарев Алексей Владимирович": 52,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 11,
-      "Скриванов Дмитрий Станиславович": 235,
-      "Созинов Александр Васильевич": 38
+      "gas:candidate-vibid:25920001389332": 40,
+      "gas:candidate-vibid:25920001389320": 80,
+      "gas:candidate-vibid:25920001387625": 79,
+      "gas:candidate-vibid:25920001362918": 52,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 11,
+      "gas:candidate-vibid:25920001390096": 235,
+      "gas:candidate-vibid:25920001385676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 44,
-      "Гребенюк Владимир Алексеевич": 92,
-      "Злобин Сергей Васильевич": 73,
-      "Золотарев Алексей Владимирович": 78,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 10,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 206,
-      "Созинов Александр Васильевич": 29
+      "gas:candidate-vibid:25920001389332": 44,
+      "gas:candidate-vibid:25920001389320": 92,
+      "gas:candidate-vibid:25920001387625": 73,
+      "gas:candidate-vibid:25920001362918": 78,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 10,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 206,
+      "gas:candidate-vibid:25920001385676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 49,
-      "Гребенюк Владимир Алексеевич": 90,
-      "Злобин Сергей Васильевич": 92,
-      "Золотарев Алексей Владимирович": 81,
-      "Зубов Евгений Владиславович": 14,
-      "Любич Антон Андреевич": 13,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 190,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 49,
+      "gas:candidate-vibid:25920001389320": 90,
+      "gas:candidate-vibid:25920001387625": 92,
+      "gas:candidate-vibid:25920001362918": 81,
+      "gas:candidate-vibid:25920001388590": 14,
+      "gas:candidate-vibid:25920001388174": 13,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 190,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 58,
-      "Гребенюк Владимир Алексеевич": 110,
-      "Злобин Сергей Васильевич": 83,
-      "Золотарев Алексей Владимирович": 87,
-      "Зубов Евгений Владиславович": 15,
-      "Любич Антон Андреевич": 19,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 293,
-      "Созинов Александр Васильевич": 18
+      "gas:candidate-vibid:25920001389332": 58,
+      "gas:candidate-vibid:25920001389320": 110,
+      "gas:candidate-vibid:25920001387625": 83,
+      "gas:candidate-vibid:25920001362918": 87,
+      "gas:candidate-vibid:25920001388590": 15,
+      "gas:candidate-vibid:25920001388174": 19,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 293,
+      "gas:candidate-vibid:25920001385676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 34,
-      "Гребенюк Владимир Алексеевич": 87,
-      "Злобин Сергей Васильевич": 69,
-      "Золотарев Алексей Владимирович": 88,
-      "Зубов Евгений Владиславович": 12,
-      "Любич Антон Андреевич": 9,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 195,
-      "Созинов Александр Васильевич": 27
+      "gas:candidate-vibid:25920001389332": 34,
+      "gas:candidate-vibid:25920001389320": 87,
+      "gas:candidate-vibid:25920001387625": 69,
+      "gas:candidate-vibid:25920001362918": 88,
+      "gas:candidate-vibid:25920001388590": 12,
+      "gas:candidate-vibid:25920001388174": 9,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 195,
+      "gas:candidate-vibid:25920001385676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 65,
-      "Гребенюк Владимир Алексеевич": 139,
-      "Злобин Сергей Васильевич": 116,
-      "Золотарев Алексей Владимирович": 118,
-      "Зубов Евгений Владиславович": 33,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 18,
-      "Скриванов Дмитрий Станиславович": 311,
-      "Созинов Александр Васильевич": 41
+      "gas:candidate-vibid:25920001389332": 65,
+      "gas:candidate-vibid:25920001389320": 139,
+      "gas:candidate-vibid:25920001387625": 116,
+      "gas:candidate-vibid:25920001362918": 118,
+      "gas:candidate-vibid:25920001388590": 33,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 18,
+      "gas:candidate-vibid:25920001390096": 311,
+      "gas:candidate-vibid:25920001385676": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 60,
-      "Гребенюк Владимир Алексеевич": 98,
-      "Злобин Сергей Васильевич": 113,
-      "Золотарев Алексей Владимирович": 71,
-      "Зубов Евгений Владиславович": 24,
-      "Любич Антон Андреевич": 20,
-      "Мищенков Александр Сергеевич": 21,
-      "Скриванов Дмитрий Станиславович": 354,
-      "Созинов Александр Васильевич": 52
+      "gas:candidate-vibid:25920001389332": 60,
+      "gas:candidate-vibid:25920001389320": 98,
+      "gas:candidate-vibid:25920001387625": 113,
+      "gas:candidate-vibid:25920001362918": 71,
+      "gas:candidate-vibid:25920001388590": 24,
+      "gas:candidate-vibid:25920001388174": 20,
+      "gas:candidate-vibid:25920001390928": 21,
+      "gas:candidate-vibid:25920001390096": 354,
+      "gas:candidate-vibid:25920001385676": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 69,
-      "Гребенюк Владимир Алексеевич": 152,
-      "Злобин Сергей Васильевич": 139,
-      "Золотарев Алексей Владимирович": 89,
-      "Зубов Евгений Владиславович": 29,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 23,
-      "Скриванов Дмитрий Станиславович": 355,
-      "Созинов Александр Васильевич": 42
+      "gas:candidate-vibid:25920001389332": 69,
+      "gas:candidate-vibid:25920001389320": 152,
+      "gas:candidate-vibid:25920001387625": 139,
+      "gas:candidate-vibid:25920001362918": 89,
+      "gas:candidate-vibid:25920001388590": 29,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 23,
+      "gas:candidate-vibid:25920001390096": 355,
+      "gas:candidate-vibid:25920001385676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 99,
-      "Гребенюк Владимир Алексеевич": 100,
-      "Злобин Сергей Васильевич": 108,
-      "Золотарев Алексей Владимирович": 109,
-      "Зубов Евгений Владиславович": 25,
-      "Любич Антон Андреевич": 21,
-      "Мищенков Александр Сергеевич": 22,
-      "Скриванов Дмитрий Станиславович": 333,
-      "Созинов Александр Васильевич": 45
+      "gas:candidate-vibid:25920001389332": 99,
+      "gas:candidate-vibid:25920001389320": 100,
+      "gas:candidate-vibid:25920001387625": 108,
+      "gas:candidate-vibid:25920001362918": 109,
+      "gas:candidate-vibid:25920001388590": 25,
+      "gas:candidate-vibid:25920001388174": 21,
+      "gas:candidate-vibid:25920001390928": 22,
+      "gas:candidate-vibid:25920001390096": 333,
+      "gas:candidate-vibid:25920001385676": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 59,
-      "Гребенюк Владимир Алексеевич": 87,
-      "Злобин Сергей Васильевич": 51,
-      "Золотарев Алексей Владимирович": 60,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 14,
-      "Скриванов Дмитрий Станиславович": 216,
-      "Созинов Александр Васильевич": 19
+      "gas:candidate-vibid:25920001389332": 59,
+      "gas:candidate-vibid:25920001389320": 87,
+      "gas:candidate-vibid:25920001387625": 51,
+      "gas:candidate-vibid:25920001362918": 60,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 14,
+      "gas:candidate-vibid:25920001390096": 216,
+      "gas:candidate-vibid:25920001385676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 68,
-      "Гребенюк Владимир Алексеевич": 92,
-      "Злобин Сергей Васильевич": 50,
-      "Золотарев Алексей Владимирович": 84,
-      "Зубов Евгений Владиславович": 31,
-      "Любич Антон Андреевич": 18,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 255,
-      "Созинов Александр Васильевич": 31
+      "gas:candidate-vibid:25920001389332": 68,
+      "gas:candidate-vibid:25920001389320": 92,
+      "gas:candidate-vibid:25920001387625": 50,
+      "gas:candidate-vibid:25920001362918": 84,
+      "gas:candidate-vibid:25920001388590": 31,
+      "gas:candidate-vibid:25920001388174": 18,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 255,
+      "gas:candidate-vibid:25920001385676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 30,
-      "Гребенюк Владимир Алексеевич": 44,
-      "Злобин Сергей Васильевич": 42,
-      "Золотарев Алексей Владимирович": 54,
-      "Зубов Евгений Владиславович": 13,
-      "Любич Антон Андреевич": 16,
-      "Мищенков Александр Сергеевич": 16,
-      "Скриванов Дмитрий Станиславович": 145,
-      "Созинов Александр Васильевич": 13
+      "gas:candidate-vibid:25920001389332": 30,
+      "gas:candidate-vibid:25920001389320": 44,
+      "gas:candidate-vibid:25920001387625": 42,
+      "gas:candidate-vibid:25920001362918": 54,
+      "gas:candidate-vibid:25920001388590": 13,
+      "gas:candidate-vibid:25920001388174": 16,
+      "gas:candidate-vibid:25920001390928": 16,
+      "gas:candidate-vibid:25920001390096": 145,
+      "gas:candidate-vibid:25920001385676": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 21,
-      "Гребенюк Владимир Алексеевич": 28,
-      "Злобин Сергей Васильевич": 30,
-      "Золотарев Алексей Владимирович": 24,
-      "Зубов Евгений Владиславович": 3,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 78,
-      "Созинов Александр Васильевич": 7
+      "gas:candidate-vibid:25920001389332": 21,
+      "gas:candidate-vibid:25920001389320": 28,
+      "gas:candidate-vibid:25920001387625": 30,
+      "gas:candidate-vibid:25920001362918": 24,
+      "gas:candidate-vibid:25920001388590": 3,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 78,
+      "gas:candidate-vibid:25920001385676": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 33,
-      "Гребенюк Владимир Алексеевич": 56,
-      "Злобин Сергей Васильевич": 41,
-      "Золотарев Алексей Владимирович": 52,
-      "Зубов Евгений Владиславович": 17,
-      "Любич Антон Андреевич": 17,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 154,
-      "Созинов Александр Васильевич": 14
+      "gas:candidate-vibid:25920001389332": 33,
+      "gas:candidate-vibid:25920001389320": 56,
+      "gas:candidate-vibid:25920001387625": 41,
+      "gas:candidate-vibid:25920001362918": 52,
+      "gas:candidate-vibid:25920001388590": 17,
+      "gas:candidate-vibid:25920001388174": 17,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 154,
+      "gas:candidate-vibid:25920001385676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 37,
-      "Гребенюк Владимир Алексеевич": 93,
-      "Злобин Сергей Васильевич": 61,
-      "Золотарев Алексей Владимирович": 71,
-      "Зубов Евгений Владиславович": 25,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 304,
-      "Созинов Александр Васильевич": 26
+      "gas:candidate-vibid:25920001389332": 37,
+      "gas:candidate-vibid:25920001389320": 93,
+      "gas:candidate-vibid:25920001387625": 61,
+      "gas:candidate-vibid:25920001362918": 71,
+      "gas:candidate-vibid:25920001388590": 25,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 304,
+      "gas:candidate-vibid:25920001385676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 48,
-      "Гребенюк Владимир Алексеевич": 129,
-      "Злобин Сергей Васильевич": 85,
-      "Золотарев Алексей Владимирович": 111,
-      "Зубов Евгений Владиславович": 27,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 338,
-      "Созинов Александр Васильевич": 39
+      "gas:candidate-vibid:25920001389332": 48,
+      "gas:candidate-vibid:25920001389320": 129,
+      "gas:candidate-vibid:25920001387625": 85,
+      "gas:candidate-vibid:25920001362918": 111,
+      "gas:candidate-vibid:25920001388590": 27,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 338,
+      "gas:candidate-vibid:25920001385676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 34,
-      "Гребенюк Владимир Алексеевич": 112,
-      "Злобин Сергей Васильевич": 88,
-      "Золотарев Алексей Владимирович": 80,
-      "Зубов Евгений Владиславович": 24,
-      "Любич Антон Андреевич": 15,
-      "Мищенков Александр Сергеевич": 10,
-      "Скриванов Дмитрий Станиславович": 353,
-      "Созинов Александр Васильевич": 53
+      "gas:candidate-vibid:25920001389332": 34,
+      "gas:candidate-vibid:25920001389320": 112,
+      "gas:candidate-vibid:25920001387625": 88,
+      "gas:candidate-vibid:25920001362918": 80,
+      "gas:candidate-vibid:25920001388590": 24,
+      "gas:candidate-vibid:25920001388174": 15,
+      "gas:candidate-vibid:25920001390928": 10,
+      "gas:candidate-vibid:25920001390096": 353,
+      "gas:candidate-vibid:25920001385676": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 6,
-      "Гребенюк Владимир Алексеевич": 5,
-      "Злобин Сергей Васильевич": 7,
-      "Золотарев Алексей Владимирович": 7,
-      "Зубов Евгений Владиславович": 3,
-      "Любич Антон Андреевич": 2,
-      "Мищенков Александр Сергеевич": 6,
-      "Скриванов Дмитрий Станиславович": 20,
-      "Созинов Александр Васильевич": 4
+      "gas:candidate-vibid:25920001389332": 6,
+      "gas:candidate-vibid:25920001389320": 5,
+      "gas:candidate-vibid:25920001387625": 7,
+      "gas:candidate-vibid:25920001362918": 7,
+      "gas:candidate-vibid:25920001388590": 3,
+      "gas:candidate-vibid:25920001388174": 2,
+      "gas:candidate-vibid:25920001390928": 6,
+      "gas:candidate-vibid:25920001390096": 20,
+      "gas:candidate-vibid:25920001385676": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 4,
-      "Гребенюк Владимир Алексеевич": 8,
-      "Злобин Сергей Васильевич": 5,
-      "Золотарев Алексей Владимирович": 6,
-      "Зубов Евгений Владиславович": 1,
-      "Любич Антон Андреевич": 4,
-      "Мищенков Александр Сергеевич": 0,
-      "Скриванов Дмитрий Станиславович": 22,
-      "Созинов Александр Васильевич": 4
+      "gas:candidate-vibid:25920001389332": 4,
+      "gas:candidate-vibid:25920001389320": 8,
+      "gas:candidate-vibid:25920001387625": 5,
+      "gas:candidate-vibid:25920001362918": 6,
+      "gas:candidate-vibid:25920001388590": 1,
+      "gas:candidate-vibid:25920001388174": 4,
+      "gas:candidate-vibid:25920001390928": 0,
+      "gas:candidate-vibid:25920001390096": 22,
+      "gas:candidate-vibid:25920001385676": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 4,
-      "Гребенюк Владимир Алексеевич": 11,
-      "Злобин Сергей Васильевич": 3,
-      "Золотарев Алексей Владимирович": 19,
-      "Зубов Евгений Владиславович": 0,
-      "Любич Антон Андреевич": 4,
-      "Мищенков Александр Сергеевич": 0,
-      "Скриванов Дмитрий Станиславович": 19,
-      "Созинов Александр Васильевич": 1
+      "gas:candidate-vibid:25920001389332": 4,
+      "gas:candidate-vibid:25920001389320": 11,
+      "gas:candidate-vibid:25920001387625": 3,
+      "gas:candidate-vibid:25920001362918": 19,
+      "gas:candidate-vibid:25920001388590": 0,
+      "gas:candidate-vibid:25920001388174": 4,
+      "gas:candidate-vibid:25920001390928": 0,
+      "gas:candidate-vibid:25920001390096": 19,
+      "gas:candidate-vibid:25920001385676": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 3,
-      "Гребенюк Владимир Алексеевич": 3,
-      "Злобин Сергей Васильевич": 2,
-      "Золотарев Алексей Владимирович": 2,
-      "Зубов Евгений Владиславович": 1,
-      "Любич Антон Андреевич": 1,
-      "Мищенков Александр Сергеевич": 0,
-      "Скриванов Дмитрий Станиславович": 4,
-      "Созинов Александр Васильевич": 3
+      "gas:candidate-vibid:25920001389332": 3,
+      "gas:candidate-vibid:25920001389320": 3,
+      "gas:candidate-vibid:25920001387625": 2,
+      "gas:candidate-vibid:25920001362918": 2,
+      "gas:candidate-vibid:25920001388590": 1,
+      "gas:candidate-vibid:25920001388174": 1,
+      "gas:candidate-vibid:25920001390928": 0,
+      "gas:candidate-vibid:25920001390096": 4,
+      "gas:candidate-vibid:25920001385676": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 6,
-      "Гребенюк Владимир Алексеевич": 7,
-      "Злобин Сергей Васильевич": 4,
-      "Золотарев Алексей Владимирович": 6,
-      "Зубов Евгений Владиславович": 0,
-      "Любич Антон Андреевич": 0,
-      "Мищенков Александр Сергеевич": 1,
-      "Скриванов Дмитрий Станиславович": 17,
-      "Созинов Александр Васильевич": 6
+      "gas:candidate-vibid:25920001389332": 6,
+      "gas:candidate-vibid:25920001389320": 7,
+      "gas:candidate-vibid:25920001387625": 4,
+      "gas:candidate-vibid:25920001362918": 6,
+      "gas:candidate-vibid:25920001388590": 0,
+      "gas:candidate-vibid:25920001388174": 0,
+      "gas:candidate-vibid:25920001390928": 1,
+      "gas:candidate-vibid:25920001390096": 17,
+      "gas:candidate-vibid:25920001385676": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 2,
-      "Гребенюк Владимир Алексеевич": 4,
-      "Злобин Сергей Васильевич": 7,
-      "Золотарев Алексей Владимирович": 7,
-      "Зубов Евгений Владиславович": 0,
-      "Любич Антон Андреевич": 0,
-      "Мищенков Александр Сергеевич": 1,
-      "Скриванов Дмитрий Станиславович": 16,
-      "Созинов Александр Васильевич": 5
+      "gas:candidate-vibid:25920001389332": 2,
+      "gas:candidate-vibid:25920001389320": 4,
+      "gas:candidate-vibid:25920001387625": 7,
+      "gas:candidate-vibid:25920001362918": 7,
+      "gas:candidate-vibid:25920001388590": 0,
+      "gas:candidate-vibid:25920001388174": 0,
+      "gas:candidate-vibid:25920001390928": 1,
+      "gas:candidate-vibid:25920001390096": 16,
+      "gas:candidate-vibid:25920001385676": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184798&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184798&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 38,
-      "Гребенюк Владимир Алексеевич": 57,
-      "Злобин Сергей Васильевич": 98,
-      "Золотарев Алексей Владимирович": 164,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 3,
-      "Мищенков Александр Сергеевич": 8,
-      "Скриванов Дмитрий Станиславович": 207,
-      "Созинов Александр Васильевич": 28
+      "gas:candidate-vibid:25920001389332": 38,
+      "gas:candidate-vibid:25920001389320": 57,
+      "gas:candidate-vibid:25920001387625": 98,
+      "gas:candidate-vibid:25920001362918": 164,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 3,
+      "gas:candidate-vibid:25920001390928": 8,
+      "gas:candidate-vibid:25920001390096": 207,
+      "gas:candidate-vibid:25920001385676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 27,
-      "Гребенюк Владимир Алексеевич": 49,
-      "Злобин Сергей Васильевич": 52,
-      "Золотарев Алексей Владимирович": 142,
-      "Зубов Евгений Владиславович": 4,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 223,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 27,
+      "gas:candidate-vibid:25920001389320": 49,
+      "gas:candidate-vibid:25920001387625": 52,
+      "gas:candidate-vibid:25920001362918": 142,
+      "gas:candidate-vibid:25920001388590": 4,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 223,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 24,
-      "Гребенюк Владимир Алексеевич": 38,
-      "Злобин Сергей Васильевич": 59,
-      "Золотарев Алексей Владимирович": 134,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 10,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 148,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 24,
+      "gas:candidate-vibid:25920001389320": 38,
+      "gas:candidate-vibid:25920001387625": 59,
+      "gas:candidate-vibid:25920001362918": 134,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 10,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 148,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 3,
-      "Гребенюк Владимир Алексеевич": 5,
-      "Злобин Сергей Васильевич": 16,
-      "Золотарев Алексей Владимирович": 30,
-      "Зубов Евгений Владиславович": 2,
-      "Любич Антон Андреевич": 2,
-      "Мищенков Александр Сергеевич": 2,
-      "Скриванов Дмитрий Станиславович": 29,
-      "Созинов Александр Васильевич": 3
+      "gas:candidate-vibid:25920001389332": 3,
+      "gas:candidate-vibid:25920001389320": 5,
+      "gas:candidate-vibid:25920001387625": 16,
+      "gas:candidate-vibid:25920001362918": 30,
+      "gas:candidate-vibid:25920001388590": 2,
+      "gas:candidate-vibid:25920001388174": 2,
+      "gas:candidate-vibid:25920001390928": 2,
+      "gas:candidate-vibid:25920001390096": 29,
+      "gas:candidate-vibid:25920001385676": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 14,
-      "Гребенюк Владимир Алексеевич": 45,
-      "Злобин Сергей Васильевич": 57,
-      "Золотарев Алексей Владимирович": 175,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 227,
-      "Созинов Александр Васильевич": 12
+      "gas:candidate-vibid:25920001389332": 14,
+      "gas:candidate-vibid:25920001389320": 45,
+      "gas:candidate-vibid:25920001387625": 57,
+      "gas:candidate-vibid:25920001362918": 175,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 227,
+      "gas:candidate-vibid:25920001385676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 35,
-      "Гребенюк Владимир Алексеевич": 83,
-      "Злобин Сергей Васильевич": 69,
-      "Золотарев Алексей Владимирович": 274,
-      "Зубов Евгений Владиславович": 11,
-      "Любич Антон Андреевич": 15,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 309,
-      "Созинов Александр Васильевич": 28
+      "gas:candidate-vibid:25920001389332": 35,
+      "gas:candidate-vibid:25920001389320": 83,
+      "gas:candidate-vibid:25920001387625": 69,
+      "gas:candidate-vibid:25920001362918": 274,
+      "gas:candidate-vibid:25920001388590": 11,
+      "gas:candidate-vibid:25920001388174": 15,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 309,
+      "gas:candidate-vibid:25920001385676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 15,
-      "Гребенюк Владимир Алексеевич": 26,
-      "Злобин Сергей Васильевич": 32,
-      "Золотарев Алексей Владимирович": 121,
-      "Зубов Евгений Владиславович": 6,
-      "Любич Антон Андреевич": 3,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 140,
-      "Созинов Александр Васильевич": 11
+      "gas:candidate-vibid:25920001389332": 15,
+      "gas:candidate-vibid:25920001389320": 26,
+      "gas:candidate-vibid:25920001387625": 32,
+      "gas:candidate-vibid:25920001362918": 121,
+      "gas:candidate-vibid:25920001388590": 6,
+      "gas:candidate-vibid:25920001388174": 3,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 140,
+      "gas:candidate-vibid:25920001385676": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 13,
-      "Гребенюк Владимир Алексеевич": 33,
-      "Злобин Сергей Васильевич": 43,
-      "Золотарев Алексей Владимирович": 149,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 185,
-      "Созинов Александр Васильевич": 8
+      "gas:candidate-vibid:25920001389332": 13,
+      "gas:candidate-vibid:25920001389320": 33,
+      "gas:candidate-vibid:25920001387625": 43,
+      "gas:candidate-vibid:25920001362918": 149,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 185,
+      "gas:candidate-vibid:25920001385676": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 18,
-      "Гребенюк Владимир Алексеевич": 39,
-      "Злобин Сергей Васильевич": 39,
-      "Золотарев Алексей Владимирович": 179,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 7,
-      "Мищенков Александр Сергеевич": 6,
-      "Скриванов Дмитрий Станиславович": 201,
-      "Созинов Александр Васильевич": 10
+      "gas:candidate-vibid:25920001389332": 18,
+      "gas:candidate-vibid:25920001389320": 39,
+      "gas:candidate-vibid:25920001387625": 39,
+      "gas:candidate-vibid:25920001362918": 179,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 7,
+      "gas:candidate-vibid:25920001390928": 6,
+      "gas:candidate-vibid:25920001390096": 201,
+      "gas:candidate-vibid:25920001385676": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 43,
-      "Гребенюк Владимир Алексеевич": 125,
-      "Злобин Сергей Васильевич": 130,
-      "Золотарев Алексей Владимирович": 300,
-      "Зубов Евгений Владиславович": 9,
-      "Любич Антон Андреевич": 22,
-      "Мищенков Александр Сергеевич": 12,
-      "Скриванов Дмитрий Станиславович": 406,
-      "Созинов Александр Васильевич": 34
+      "gas:candidate-vibid:25920001389332": 43,
+      "gas:candidate-vibid:25920001389320": 125,
+      "gas:candidate-vibid:25920001387625": 130,
+      "gas:candidate-vibid:25920001362918": 300,
+      "gas:candidate-vibid:25920001388590": 9,
+      "gas:candidate-vibid:25920001388174": 22,
+      "gas:candidate-vibid:25920001390928": 12,
+      "gas:candidate-vibid:25920001390096": 406,
+      "gas:candidate-vibid:25920001385676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 31,
-      "Гребенюк Владимир Алексеевич": 73,
-      "Злобин Сергей Васильевич": 82,
-      "Золотарев Алексей Владимирович": 211,
-      "Зубов Евгений Владиславович": 7,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 5,
-      "Скриванов Дмитрий Станиславович": 312,
-      "Созинов Александр Васильевич": 20
+      "gas:candidate-vibid:25920001389332": 31,
+      "gas:candidate-vibid:25920001389320": 73,
+      "gas:candidate-vibid:25920001387625": 82,
+      "gas:candidate-vibid:25920001362918": 211,
+      "gas:candidate-vibid:25920001388590": 7,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 5,
+      "gas:candidate-vibid:25920001390096": 312,
+      "gas:candidate-vibid:25920001385676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 28,
-      "Гребенюк Владимир Алексеевич": 47,
-      "Злобин Сергей Васильевич": 68,
-      "Золотарев Алексей Владимирович": 216,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 12,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 225,
-      "Созинов Александр Васильевич": 15
+      "gas:candidate-vibid:25920001389332": 28,
+      "gas:candidate-vibid:25920001389320": 47,
+      "gas:candidate-vibid:25920001387625": 68,
+      "gas:candidate-vibid:25920001362918": 216,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 12,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 225,
+      "gas:candidate-vibid:25920001385676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 22,
-      "Гребенюк Владимир Алексеевич": 53,
-      "Злобин Сергей Васильевич": 60,
-      "Золотарев Алексей Владимирович": 177,
-      "Зубов Евгений Владиславович": 10,
-      "Любич Антон Андреевич": 10,
-      "Мищенков Александр Сергеевич": 7,
-      "Скриванов Дмитрий Станиславович": 223,
-      "Созинов Александр Васильевич": 29
+      "gas:candidate-vibid:25920001389332": 22,
+      "gas:candidate-vibid:25920001389320": 53,
+      "gas:candidate-vibid:25920001387625": 60,
+      "gas:candidate-vibid:25920001362918": 177,
+      "gas:candidate-vibid:25920001388590": 10,
+      "gas:candidate-vibid:25920001388174": 10,
+      "gas:candidate-vibid:25920001390928": 7,
+      "gas:candidate-vibid:25920001390096": 223,
+      "gas:candidate-vibid:25920001385676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 15,
-      "Гребенюк Владимир Алексеевич": 43,
-      "Злобин Сергей Васильевич": 61,
-      "Золотарев Алексей Владимирович": 155,
-      "Зубов Евгений Владиславович": 2,
-      "Любич Антон Андреевич": 8,
-      "Мищенков Александр Сергеевич": 3,
-      "Скриванов Дмитрий Станиславович": 175,
-      "Созинов Александр Васильевич": 9
+      "gas:candidate-vibid:25920001389332": 15,
+      "gas:candidate-vibid:25920001389320": 43,
+      "gas:candidate-vibid:25920001387625": 61,
+      "gas:candidate-vibid:25920001362918": 155,
+      "gas:candidate-vibid:25920001388590": 2,
+      "gas:candidate-vibid:25920001388174": 8,
+      "gas:candidate-vibid:25920001390928": 3,
+      "gas:candidate-vibid:25920001390096": 175,
+      "gas:candidate-vibid:25920001385676": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 9,
-      "Гребенюк Владимир Алексеевич": 39,
-      "Злобин Сергей Васильевич": 63,
-      "Золотарев Алексей Владимирович": 125,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 5,
-      "Мищенков Александр Сергеевич": 4,
-      "Скриванов Дмитрий Станиславович": 165,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 9,
+      "gas:candidate-vibid:25920001389320": 39,
+      "gas:candidate-vibid:25920001387625": 63,
+      "gas:candidate-vibid:25920001362918": 125,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 5,
+      "gas:candidate-vibid:25920001390928": 4,
+      "gas:candidate-vibid:25920001390096": 165,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 14,
-      "Гребенюк Владимир Алексеевич": 53,
-      "Злобин Сергей Васильевич": 50,
-      "Золотарев Алексей Владимирович": 106,
-      "Зубов Евгений Владиславович": 5,
-      "Любич Антон Андреевич": 6,
-      "Мищенков Александр Сергеевич": 2,
-      "Скриванов Дмитрий Станиславович": 171,
-      "Созинов Александр Васильевич": 22
+      "gas:candidate-vibid:25920001389332": 14,
+      "gas:candidate-vibid:25920001389320": 53,
+      "gas:candidate-vibid:25920001387625": 50,
+      "gas:candidate-vibid:25920001362918": 106,
+      "gas:candidate-vibid:25920001388590": 5,
+      "gas:candidate-vibid:25920001388174": 6,
+      "gas:candidate-vibid:25920001390928": 2,
+      "gas:candidate-vibid:25920001390096": 171,
+      "gas:candidate-vibid:25920001385676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_90_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агишева Надежда Владимировна": 15,
-      "Гребенюк Владимир Алексеевич": 37,
-      "Злобин Сергей Васильевич": 42,
-      "Золотарев Алексей Владимирович": 149,
-      "Зубов Евгений Владиславович": 8,
-      "Любич Антон Андреевич": 2,
-      "Мищенков Александр Сергеевич": 9,
-      "Скриванов Дмитрий Станиславович": 155,
-      "Созинов Александр Васильевич": 21
+      "gas:candidate-vibid:25920001389332": 15,
+      "gas:candidate-vibid:25920001389320": 37,
+      "gas:candidate-vibid:25920001387625": 42,
+      "gas:candidate-vibid:25920001362918": 149,
+      "gas:candidate-vibid:25920001388590": 8,
+      "gas:candidate-vibid:25920001388174": 2,
+      "gas:candidate-vibid:25920001390928": 9,
+      "gas:candidate-vibid:25920001390096": 155,
+      "gas:candidate-vibid:25920001385676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000298&tvd=25920001184799&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184799&type=464",

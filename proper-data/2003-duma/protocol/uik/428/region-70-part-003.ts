@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 320,
-      "Костюкова Татьяна Анатольевна": 24,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 93,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 320,
+      "gas:candidate-vibid:1001000190424": 24,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 93,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 48,
-      "Жидких Владимир Александрович": 420,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 241,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136133": 48,
+      "gas:candidate-vibid:1001000225994": 420,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 241,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 32,
-      "Жидких Владимир Александрович": 303,
-      "Костюкова Татьяна Анатольевна": 23,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 10,
-      "Лигачев Егор Кузьмич": 174,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136133": 32,
+      "gas:candidate-vibid:1001000225994": 303,
+      "gas:candidate-vibid:1001000190424": 23,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 10,
+      "gas:candidate-vibid:1001000121920": 174,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 4,
-      "Жидких Владимир Александрович": 87,
-      "Костюкова Татьяна Анатольевна": 1,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 7,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136133": 4,
+      "gas:candidate-vibid:1001000225994": 87,
+      "gas:candidate-vibid:1001000190424": 1,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 7,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 21,
-      "Жидких Владимир Александрович": 422,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 242,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136133": 21,
+      "gas:candidate-vibid:1001000225994": 422,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 242,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 32,
-      "Жидких Владимир Александрович": 245,
-      "Костюкова Татьяна Анатольевна": 20,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 107,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136133": 32,
+      "gas:candidate-vibid:1001000225994": 245,
+      "gas:candidate-vibid:1001000190424": 20,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 107,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 21,
-      "Жидких Владимир Александрович": 164,
-      "Костюкова Татьяна Анатольевна": 12,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 93,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136133": 21,
+      "gas:candidate-vibid:1001000225994": 164,
+      "gas:candidate-vibid:1001000190424": 12,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 93,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 13,
-      "Жидких Владимир Александрович": 107,
-      "Костюкова Татьяна Анатольевна": 9,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 82,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136133": 13,
+      "gas:candidate-vibid:1001000225994": 107,
+      "gas:candidate-vibid:1001000190424": 9,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 82,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 5,
-      "Жидких Владимир Александрович": 93,
-      "Костюкова Татьяна Анатольевна": 3,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 55,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136133": 5,
+      "gas:candidate-vibid:1001000225994": 93,
+      "gas:candidate-vibid:1001000190424": 3,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 55,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 3,
-      "Жидких Владимир Александрович": 161,
-      "Костюкова Татьяна Анатольевна": 2,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 26,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136133": 3,
+      "gas:candidate-vibid:1001000225994": 161,
+      "gas:candidate-vibid:1001000190424": 2,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 26,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 10,
-      "Жидких Владимир Александрович": 105,
-      "Костюкова Татьяна Анатольевна": 11,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 56,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136133": 10,
+      "gas:candidate-vibid:1001000225994": 105,
+      "gas:candidate-vibid:1001000190424": 11,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 56,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 35,
-      "Жидких Владимир Александрович": 450,
-      "Костюкова Татьяна Анатольевна": 24,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 15,
-      "Лигачев Егор Кузьмич": 195,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136133": 35,
+      "gas:candidate-vibid:1001000225994": 450,
+      "gas:candidate-vibid:1001000190424": 24,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 15,
+      "gas:candidate-vibid:1001000121920": 195,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 4,
-      "Жидких Владимир Александрович": 44,
-      "Костюкова Татьяна Анатольевна": 0,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 35,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136133": 4,
+      "gas:candidate-vibid:1001000225994": 44,
+      "gas:candidate-vibid:1001000190424": 0,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 35,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 2,
-      "Жидких Владимир Александрович": 67,
-      "Костюкова Татьяна Анатольевна": 1,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 1,
-      "Лигачев Егор Кузьмич": 32,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136133": 2,
+      "gas:candidate-vibid:1001000225994": 67,
+      "gas:candidate-vibid:1001000190424": 1,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 1,
+      "gas:candidate-vibid:1001000121920": 32,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 1,
-      "Жидких Владимир Александрович": 102,
-      "Костюкова Татьяна Анатольевна": 1,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 1,
-      "Лигачев Егор Кузьмич": 17,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136133": 1,
+      "gas:candidate-vibid:1001000225994": 102,
+      "gas:candidate-vibid:1001000190424": 1,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 1,
+      "gas:candidate-vibid:1001000121920": 17,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 28,
-      "Жидких Владимир Александрович": 244,
-      "Костюкова Татьяна Анатольевна": 16,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 149,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136133": 28,
+      "gas:candidate-vibid:1001000225994": 244,
+      "gas:candidate-vibid:1001000190424": 16,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 149,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 5,
-      "Жидких Владимир Александрович": 252,
-      "Костюкова Татьяна Анатольевна": 7,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 23,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136133": 5,
+      "gas:candidate-vibid:1001000225994": 252,
+      "gas:candidate-vibid:1001000190424": 7,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 23,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 10,
-      "Жидких Владимир Александрович": 81,
-      "Костюкова Татьяна Анатольевна": 4,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 19,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136133": 10,
+      "gas:candidate-vibid:1001000225994": 81,
+      "gas:candidate-vibid:1001000190424": 4,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 19,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 314,
-      "Костюкова Татьяна Анатольевна": 16,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 115,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 314,
+      "gas:candidate-vibid:1001000190424": 16,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 115,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 26,
-      "Жидких Владимир Александрович": 422,
-      "Костюкова Татьяна Анатольевна": 24,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 10,
-      "Лигачев Егор Кузьмич": 207,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136133": 26,
+      "gas:candidate-vibid:1001000225994": 422,
+      "gas:candidate-vibid:1001000190424": 24,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 10,
+      "gas:candidate-vibid:1001000121920": 207,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 35,
-      "Жидких Владимир Александрович": 485,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 173,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136133": 35,
+      "gas:candidate-vibid:1001000225994": 485,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 173,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 7,
-      "Жидких Владимир Александрович": 45,
-      "Костюкова Татьяна Анатольевна": 2,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 23,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136133": 7,
+      "gas:candidate-vibid:1001000225994": 45,
+      "gas:candidate-vibid:1001000190424": 2,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 23,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 14,
-      "Жидких Владимир Александрович": 284,
-      "Костюкова Татьяна Анатольевна": 5,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 48,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136133": 14,
+      "gas:candidate-vibid:1001000225994": 284,
+      "gas:candidate-vibid:1001000190424": 5,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 48,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 440,
-      "Костюкова Татьяна Анатольевна": 17,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 7,
-      "Лигачев Егор Кузьмич": 55,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 440,
+      "gas:candidate-vibid:1001000190424": 17,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 7,
+      "gas:candidate-vibid:1001000121920": 55,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 16,
-      "Жидких Владимир Александрович": 179,
-      "Костюкова Татьяна Анатольевна": 11,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 1,
-      "Лигачев Егор Кузьмич": 66,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136133": 16,
+      "gas:candidate-vibid:1001000225994": 179,
+      "gas:candidate-vibid:1001000190424": 11,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 1,
+      "gas:candidate-vibid:1001000121920": 66,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 29,
-      "Жидких Владимир Александрович": 377,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 7,
-      "Лигачев Егор Кузьмич": 83,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136133": 29,
+      "gas:candidate-vibid:1001000225994": 377,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 7,
+      "gas:candidate-vibid:1001000121920": 83,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 13,
-      "Жидких Владимир Александрович": 94,
-      "Костюкова Татьяна Анатольевна": 6,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 43,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136133": 13,
+      "gas:candidate-vibid:1001000225994": 94,
+      "gas:candidate-vibid:1001000190424": 6,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 43,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 8,
-      "Жидких Владимир Александрович": 85,
-      "Костюкова Татьяна Анатольевна": 3,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 39,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136133": 8,
+      "gas:candidate-vibid:1001000225994": 85,
+      "gas:candidate-vibid:1001000190424": 3,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 39,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 5,
-      "Жидких Владимир Александрович": 130,
-      "Костюкова Татьяна Анатольевна": 2,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 64,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136133": 5,
+      "gas:candidate-vibid:1001000225994": 130,
+      "gas:candidate-vibid:1001000190424": 2,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 64,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 331,
-      "Костюкова Татьяна Анатольевна": 29,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 285,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 331,
+      "gas:candidate-vibid:1001000190424": 29,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 285,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 257,
-      "Костюкова Татьяна Анатольевна": 35,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 157,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 257,
+      "gas:candidate-vibid:1001000190424": 35,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 157,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 60,
-      "Жидких Владимир Александрович": 591,
-      "Костюкова Татьяна Анатольевна": 62,
-      "Кошелев Анатолий Васильевич": 15,
-      "Кротов Евгений Геннадьевич": 37,
-      "Лигачев Егор Кузьмич": 360,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136133": 60,
+      "gas:candidate-vibid:1001000225994": 591,
+      "gas:candidate-vibid:1001000190424": 62,
+      "gas:candidate-vibid:1001000195151": 15,
+      "gas:candidate-vibid:1001000202339": 37,
+      "gas:candidate-vibid:1001000121920": 360,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 19,
-      "Жидких Владимир Александрович": 253,
-      "Костюкова Татьяна Анатольевна": 14,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 83,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136133": 19,
+      "gas:candidate-vibid:1001000225994": 253,
+      "gas:candidate-vibid:1001000190424": 14,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 83,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 55,
-      "Жидких Владимир Александрович": 600,
-      "Костюкова Татьяна Анатольевна": 83,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 44,
-      "Лигачев Егор Кузьмич": 340,
-      "Маркелов Борис Владимирович": 19,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136133": 55,
+      "gas:candidate-vibid:1001000225994": 600,
+      "gas:candidate-vibid:1001000190424": 83,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 44,
+      "gas:candidate-vibid:1001000121920": 340,
+      "gas:candidate-vibid:270200066830": 19,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 239,
-      "Костюкова Татьяна Анатольевна": 29,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 221,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 239,
+      "gas:candidate-vibid:1001000190424": 29,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 221,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 11,
-      "Жидких Владимир Александрович": 65,
-      "Костюкова Татьяна Анатольевна": 6,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 22,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136133": 11,
+      "gas:candidate-vibid:1001000225994": 65,
+      "gas:candidate-vibid:1001000190424": 6,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 22,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 17,
-      "Жидких Владимир Александрович": 205,
-      "Костюкова Татьяна Анатольевна": 6,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 72,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136133": 17,
+      "gas:candidate-vibid:1001000225994": 205,
+      "gas:candidate-vibid:1001000190424": 6,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 72,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 10,
-      "Жидких Владимир Александрович": 207,
-      "Костюкова Татьяна Анатольевна": 7,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 86,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136133": 10,
+      "gas:candidate-vibid:1001000225994": 207,
+      "gas:candidate-vibid:1001000190424": 7,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 86,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 7,
-      "Жидких Владимир Александрович": 107,
-      "Костюкова Татьяна Анатольевна": 3,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 50,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136133": 7,
+      "gas:candidate-vibid:1001000225994": 107,
+      "gas:candidate-vibid:1001000190424": 3,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 50,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 39,
-      "Жидких Владимир Александрович": 477,
-      "Костюкова Татьяна Анатольевна": 30,
-      "Кошелев Анатолий Васильевич": 17,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 182,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136133": 39,
+      "gas:candidate-vibid:1001000225994": 477,
+      "gas:candidate-vibid:1001000190424": 30,
+      "gas:candidate-vibid:1001000195151": 17,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 182,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067040&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 16,
-      "Жидких Владимир Александрович": 225,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 10,
-      "Лигачев Егор Кузьмич": 158,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136133": 16,
+      "gas:candidate-vibid:1001000225994": 225,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 10,
+      "gas:candidate-vibid:1001000121920": 158,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 51,
-      "Жидких Владимир Александрович": 393,
-      "Костюкова Татьяна Анатольевна": 47,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 33,
-      "Лигачев Егор Кузьмич": 345,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136133": 51,
+      "gas:candidate-vibid:1001000225994": 393,
+      "gas:candidate-vibid:1001000190424": 47,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 33,
+      "gas:candidate-vibid:1001000121920": 345,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 10,
-      "Жидких Владимир Александрович": 41,
-      "Костюкова Татьяна Анатольевна": 10,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 32,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136133": 10,
+      "gas:candidate-vibid:1001000225994": 41,
+      "gas:candidate-vibid:1001000190424": 10,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 32,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 7,
-      "Жидких Владимир Александрович": 102,
-      "Костюкова Татьяна Анатольевна": 5,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 5,
-      "Лигачев Егор Кузьмич": 39,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136133": 7,
+      "gas:candidate-vibid:1001000225994": 102,
+      "gas:candidate-vibid:1001000190424": 5,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 5,
+      "gas:candidate-vibid:1001000121920": 39,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 55,
-      "Жидких Владимир Александрович": 523,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 41,
-      "Лигачев Егор Кузьмич": 515,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136133": 55,
+      "gas:candidate-vibid:1001000225994": 523,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 41,
+      "gas:candidate-vibid:1001000121920": 515,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 12,
-      "Жидких Владимир Александрович": 42,
-      "Костюкова Татьяна Анатольевна": 9,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 39,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136133": 12,
+      "gas:candidate-vibid:1001000225994": 42,
+      "gas:candidate-vibid:1001000190424": 9,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 39,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 22,
-      "Жидких Владимир Александрович": 159,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 8,
-      "Лигачев Егор Кузьмич": 133,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136133": 22,
+      "gas:candidate-vibid:1001000225994": 159,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 8,
+      "gas:candidate-vibid:1001000121920": 133,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 208,
-      "Костюкова Татьяна Анатольевна": 16,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 25,
-      "Лигачев Егор Кузьмич": 140,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 208,
+      "gas:candidate-vibid:1001000190424": 16,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 25,
+      "gas:candidate-vibid:1001000121920": 140,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 320,
-      "Костюкова Татьяна Анатольевна": 31,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 135,
-      "Маркелов Борис Владимирович": 7,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 320,
+      "gas:candidate-vibid:1001000190424": 31,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 135,
+      "gas:candidate-vibid:270200066830": 7,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 38,
-      "Жидких Владимир Александрович": 310,
-      "Костюкова Татьяна Анатольевна": 36,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 292,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136133": 38,
+      "gas:candidate-vibid:1001000225994": 310,
+      "gas:candidate-vibid:1001000190424": 36,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 292,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 29,
-      "Жидких Владимир Александрович": 217,
-      "Костюкова Татьяна Анатольевна": 32,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 186,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136133": 29,
+      "gas:candidate-vibid:1001000225994": 217,
+      "gas:candidate-vibid:1001000190424": 32,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 186,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 26,
-      "Жидких Владимир Александрович": 205,
-      "Костюкова Татьяна Анатольевна": 25,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 154,
-      "Маркелов Борис Владимирович": 7,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136133": 26,
+      "gas:candidate-vibid:1001000225994": 205,
+      "gas:candidate-vibid:1001000190424": 25,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 154,
+      "gas:candidate-vibid:270200066830": 7,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 62,
-      "Жидких Владимир Александрович": 429,
-      "Костюкова Татьяна Анатольевна": 48,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 306,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136133": 62,
+      "gas:candidate-vibid:1001000225994": 429,
+      "gas:candidate-vibid:1001000190424": 48,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 306,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 498,
-      "Костюкова Татьяна Анатольевна": 70,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 251,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 498,
+      "gas:candidate-vibid:1001000190424": 70,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 251,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 55,
-      "Жидких Владимир Александрович": 519,
-      "Костюкова Татьяна Анатольевна": 53,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 28,
-      "Лигачев Егор Кузьмич": 417,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136133": 55,
+      "gas:candidate-vibid:1001000225994": 519,
+      "gas:candidate-vibid:1001000190424": 53,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 28,
+      "gas:candidate-vibid:1001000121920": 417,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 43,
-      "Жидких Владимир Александрович": 465,
-      "Костюкова Татьяна Анатольевна": 79,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 33,
-      "Лигачев Егор Кузьмич": 297,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136133": 43,
+      "gas:candidate-vibid:1001000225994": 465,
+      "gas:candidate-vibid:1001000190424": 79,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 33,
+      "gas:candidate-vibid:1001000121920": 297,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 46,
-      "Жидких Владимир Александрович": 478,
-      "Костюкова Татьяна Анатольевна": 79,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 300,
-      "Маркелов Борис Владимирович": 16,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136133": 46,
+      "gas:candidate-vibid:1001000225994": 478,
+      "gas:candidate-vibid:1001000190424": 79,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 300,
+      "gas:candidate-vibid:270200066830": 16,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 50,
-      "Жидких Владимир Александрович": 580,
-      "Костюкова Татьяна Анатольевна": 70,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 32,
-      "Лигачев Егор Кузьмич": 378,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136133": 50,
+      "gas:candidate-vibid:1001000225994": 580,
+      "gas:candidate-vibid:1001000190424": 70,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 32,
+      "gas:candidate-vibid:1001000121920": 378,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 85,
-      "Жидких Владимир Александрович": 580,
-      "Костюкова Татьяна Анатольевна": 83,
-      "Кошелев Анатолий Васильевич": 16,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 305,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136133": 85,
+      "gas:candidate-vibid:1001000225994": 580,
+      "gas:candidate-vibid:1001000190424": 83,
+      "gas:candidate-vibid:1001000195151": 16,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 305,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 51,
-      "Жидких Владимир Александрович": 447,
-      "Костюкова Татьяна Анатольевна": 40,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 28,
-      "Лигачев Егор Кузьмич": 338,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136133": 51,
+      "gas:candidate-vibid:1001000225994": 447,
+      "gas:candidate-vibid:1001000190424": 40,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 28,
+      "gas:candidate-vibid:1001000121920": 338,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 46,
-      "Жидких Владимир Александрович": 432,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 348,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136133": 46,
+      "gas:candidate-vibid:1001000225994": 432,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 348,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 580,
-      "Костюкова Татьяна Анатольевна": 84,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 25,
-      "Лигачев Егор Кузьмич": 404,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 580,
+      "gas:candidate-vibid:1001000190424": 84,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 25,
+      "gas:candidate-vibid:1001000121920": 404,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 44,
-      "Жидких Владимир Александрович": 409,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 19,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 393,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136133": 44,
+      "gas:candidate-vibid:1001000225994": 409,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 19,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 393,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 55,
-      "Жидких Владимир Александрович": 549,
-      "Костюкова Татьяна Анатольевна": 65,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 35,
-      "Лигачев Егор Кузьмич": 451,
-      "Маркелов Борис Владимирович": 22,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136133": 55,
+      "gas:candidate-vibid:1001000225994": 549,
+      "gas:candidate-vibid:1001000190424": 65,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 35,
+      "gas:candidate-vibid:1001000121920": 451,
+      "gas:candidate-vibid:270200066830": 22,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 60,
-      "Жидких Владимир Александрович": 452,
-      "Костюкова Татьяна Анатольевна": 53,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 500,
-      "Маркелов Борис Владимирович": 16,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136133": 60,
+      "gas:candidate-vibid:1001000225994": 452,
+      "gas:candidate-vibid:1001000190424": 53,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 500,
+      "gas:candidate-vibid:270200066830": 16,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 47,
-      "Жидких Владимир Александрович": 494,
-      "Костюкова Татьяна Анатольевна": 70,
-      "Кошелев Анатолий Васильевич": 13,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 541,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136133": 47,
+      "gas:candidate-vibid:1001000225994": 494,
+      "gas:candidate-vibid:1001000190424": 70,
+      "gas:candidate-vibid:1001000195151": 13,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 541,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 62,
-      "Жидких Владимир Александрович": 426,
-      "Костюкова Татьяна Анатольевна": 47,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 29,
-      "Лигачев Егор Кузьмич": 465,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136133": 62,
+      "gas:candidate-vibid:1001000225994": 426,
+      "gas:candidate-vibid:1001000190424": 47,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 29,
+      "gas:candidate-vibid:1001000121920": 465,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 47,
-      "Жидких Владимир Александрович": 428,
-      "Костюкова Татьяна Анатольевна": 62,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 30,
-      "Лигачев Егор Кузьмич": 488,
-      "Маркелов Борис Владимирович": 21,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000136133": 47,
+      "gas:candidate-vibid:1001000225994": 428,
+      "gas:candidate-vibid:1001000190424": 62,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 30,
+      "gas:candidate-vibid:1001000121920": 488,
+      "gas:candidate-vibid:270200066830": 21,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 20,
-      "Жидких Владимир Александрович": 215,
-      "Костюкова Татьяна Анатольевна": 17,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 154,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136133": 20,
+      "gas:candidate-vibid:1001000225994": 215,
+      "gas:candidate-vibid:1001000190424": 17,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 154,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 22,
-      "Жидких Владимир Александрович": 337,
-      "Костюкова Татьяна Анатольевна": 42,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 420,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136133": 22,
+      "gas:candidate-vibid:1001000225994": 337,
+      "gas:candidate-vibid:1001000190424": 42,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 420,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 23,
-      "Жидких Владимир Александрович": 173,
-      "Костюкова Татьяна Анатольевна": 23,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 120,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136133": 23,
+      "gas:candidate-vibid:1001000225994": 173,
+      "gas:candidate-vibid:1001000190424": 23,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 120,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 43,
-      "Жидких Владимир Александрович": 445,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 362,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136133": 43,
+      "gas:candidate-vibid:1001000225994": 445,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 362,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 23,
-      "Жидких Владимир Александрович": 208,
-      "Костюкова Татьяна Анатольевна": 30,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 11,
-      "Лигачев Егор Кузьмич": 100,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136133": 23,
+      "gas:candidate-vibid:1001000225994": 208,
+      "gas:candidate-vibid:1001000190424": 30,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 11,
+      "gas:candidate-vibid:1001000121920": 100,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 16,
-      "Жидких Владимир Александрович": 146,
-      "Костюкова Татьяна Анатольевна": 28,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 10,
-      "Лигачев Егор Кузьмич": 74,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136133": 16,
+      "gas:candidate-vibid:1001000225994": 146,
+      "gas:candidate-vibid:1001000190424": 28,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 10,
+      "gas:candidate-vibid:1001000121920": 74,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 37,
-      "Жидких Владимир Александрович": 443,
-      "Костюкова Татьяна Анатольевна": 61,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 326,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136133": 37,
+      "gas:candidate-vibid:1001000225994": 443,
+      "gas:candidate-vibid:1001000190424": 61,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 326,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 407,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 359,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 407,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 359,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 39,
-      "Жидких Владимир Александрович": 467,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 13,
-      "Кротов Евгений Геннадьевич": 28,
-      "Лигачев Егор Кузьмич": 405,
-      "Маркелов Борис Владимирович": 12,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136133": 39,
+      "gas:candidate-vibid:1001000225994": 467,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 13,
+      "gas:candidate-vibid:1001000202339": 28,
+      "gas:candidate-vibid:1001000121920": 405,
+      "gas:candidate-vibid:270200066830": 12,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 53,
-      "Жидких Владимир Александрович": 365,
-      "Костюкова Татьяна Анатольевна": 55,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 41,
-      "Лигачев Егор Кузьмич": 476,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136133": 53,
+      "gas:candidate-vibid:1001000225994": 365,
+      "gas:candidate-vibid:1001000190424": 55,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 41,
+      "gas:candidate-vibid:1001000121920": 476,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 29,
-      "Жидких Владимир Александрович": 317,
-      "Костюкова Татьяна Анатольевна": 31,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 32,
-      "Лигачев Егор Кузьмич": 416,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136133": 29,
+      "gas:candidate-vibid:1001000225994": 317,
+      "gas:candidate-vibid:1001000190424": 31,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 32,
+      "gas:candidate-vibid:1001000121920": 416,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 45,
-      "Жидких Владимир Александрович": 260,
-      "Костюкова Татьяна Анатольевна": 43,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 271,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136133": 45,
+      "gas:candidate-vibid:1001000225994": 260,
+      "gas:candidate-vibid:1001000190424": 43,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 271,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067041&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 44,
-      "Жидких Владимир Александрович": 444,
-      "Костюкова Татьяна Анатольевна": 49,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 196,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136133": 44,
+      "gas:candidate-vibid:1001000225994": 444,
+      "gas:candidate-vibid:1001000190424": 49,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 196,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 37,
-      "Жидких Владимир Александрович": 473,
-      "Костюкова Татьяна Анатольевна": 56,
-      "Кошелев Анатолий Васильевич": 17,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 227,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136133": 37,
+      "gas:candidate-vibid:1001000225994": 473,
+      "gas:candidate-vibid:1001000190424": 56,
+      "gas:candidate-vibid:1001000195151": 17,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 227,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 48,
-      "Жидких Владимир Александрович": 375,
-      "Костюкова Татьяна Анатольевна": 54,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 190,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136133": 48,
+      "gas:candidate-vibid:1001000225994": 375,
+      "gas:candidate-vibid:1001000190424": 54,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 190,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 44,
-      "Жидких Владимир Александрович": 312,
-      "Костюкова Татьяна Анатольевна": 36,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 240,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136133": 44,
+      "gas:candidate-vibid:1001000225994": 312,
+      "gas:candidate-vibid:1001000190424": 36,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 240,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 14,
-      "Жидких Владимир Александрович": 93,
-      "Костюкова Татьяна Анатольевна": 15,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 101,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136133": 14,
+      "gas:candidate-vibid:1001000225994": 93,
+      "gas:candidate-vibid:1001000190424": 15,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 101,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 13,
-      "Жидких Владимир Александрович": 235,
-      "Костюкова Татьяна Анатольевна": 34,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 28,
-      "Лигачев Егор Кузьмич": 174,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136133": 13,
+      "gas:candidate-vibid:1001000225994": 235,
+      "gas:candidate-vibid:1001000190424": 34,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 28,
+      "gas:candidate-vibid:1001000121920": 174,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 17,
-      "Жидких Владимир Александрович": 256,
-      "Костюкова Татьяна Анатольевна": 24,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 165,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136133": 17,
+      "gas:candidate-vibid:1001000225994": 256,
+      "gas:candidate-vibid:1001000190424": 24,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 165,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 449,
-      "Костюкова Татьяна Анатольевна": 41,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 16,
-      "Лигачев Егор Кузьмич": 202,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 449,
+      "gas:candidate-vibid:1001000190424": 41,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 16,
+      "gas:candidate-vibid:1001000121920": 202,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 26,
-      "Жидких Владимир Александрович": 280,
-      "Костюкова Татьяна Анатольевна": 24,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 154,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136133": 26,
+      "gas:candidate-vibid:1001000225994": 280,
+      "gas:candidate-vibid:1001000190424": 24,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 154,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 18,
-      "Жидких Владимир Александрович": 243,
-      "Костюкова Татьяна Анатольевна": 22,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 180,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136133": 18,
+      "gas:candidate-vibid:1001000225994": 243,
+      "gas:candidate-vibid:1001000190424": 22,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 180,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 14,
-      "Жидких Владимир Александрович": 138,
-      "Костюкова Татьяна Анатольевна": 21,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 85,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136133": 14,
+      "gas:candidate-vibid:1001000225994": 138,
+      "gas:candidate-vibid:1001000190424": 21,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 85,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 28,
-      "Жидких Владимир Александрович": 606,
-      "Костюкова Татьяна Анатольевна": 45,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 10,
-      "Лигачев Егор Кузьмич": 183,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136133": 28,
+      "gas:candidate-vibid:1001000225994": 606,
+      "gas:candidate-vibid:1001000190424": 45,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 10,
+      "gas:candidate-vibid:1001000121920": 183,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 15,
-      "Жидких Владимир Александрович": 251,
-      "Костюкова Татьяна Анатольевна": 33,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 198,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136133": 15,
+      "gas:candidate-vibid:1001000225994": 251,
+      "gas:candidate-vibid:1001000190424": 33,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 198,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 233,
-      "Костюкова Татьяна Анатольевна": 27,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 15,
-      "Лигачев Егор Кузьмич": 122,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 233,
+      "gas:candidate-vibid:1001000190424": 27,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 15,
+      "gas:candidate-vibid:1001000121920": 122,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 13,
-      "Жидких Владимир Александрович": 157,
-      "Костюкова Татьяна Анатольевна": 16,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 107,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136133": 13,
+      "gas:candidate-vibid:1001000225994": 157,
+      "gas:candidate-vibid:1001000190424": 16,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 107,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 29,
-      "Жидких Владимир Александрович": 327,
-      "Костюкова Татьяна Анатольевна": 32,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 35,
-      "Лигачев Егор Кузьмич": 217,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136133": 29,
+      "gas:candidate-vibid:1001000225994": 327,
+      "gas:candidate-vibid:1001000190424": 32,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 35,
+      "gas:candidate-vibid:1001000121920": 217,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 20,
-      "Жидких Владимир Александрович": 208,
-      "Костюкова Татьяна Анатольевна": 27,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 117,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136133": 20,
+      "gas:candidate-vibid:1001000225994": 208,
+      "gas:candidate-vibid:1001000190424": 27,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 117,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 43,
-      "Жидких Владимир Александрович": 299,
-      "Костюкова Татьяна Анатольевна": 37,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 186,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136133": 43,
+      "gas:candidate-vibid:1001000225994": 299,
+      "gas:candidate-vibid:1001000190424": 37,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 186,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 23,
-      "Жидких Владимир Александрович": 181,
-      "Костюкова Татьяна Анатольевна": 18,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 10,
-      "Лигачев Егор Кузьмич": 114,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136133": 23,
+      "gas:candidate-vibid:1001000225994": 181,
+      "gas:candidate-vibid:1001000190424": 18,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 10,
+      "gas:candidate-vibid:1001000121920": 114,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 13,
-      "Жидких Владимир Александрович": 163,
-      "Костюкова Татьяна Анатольевна": 13,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 85,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136133": 13,
+      "gas:candidate-vibid:1001000225994": 163,
+      "gas:candidate-vibid:1001000190424": 13,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 85,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 34,
-      "Жидких Владимир Александрович": 393,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 15,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 292,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136133": 34,
+      "gas:candidate-vibid:1001000225994": 393,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 15,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 292,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 367,
-      "Костюкова Татьяна Анатольевна": 45,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 325,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 367,
+      "gas:candidate-vibid:1001000190424": 45,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 325,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 55,
-      "Жидких Владимир Александрович": 419,
-      "Костюкова Татьяна Анатольевна": 66,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 41,
-      "Лигачев Егор Кузьмич": 260,
-      "Маркелов Борис Владимирович": 12,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136133": 55,
+      "gas:candidate-vibid:1001000225994": 419,
+      "gas:candidate-vibid:1001000190424": 66,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 41,
+      "gas:candidate-vibid:1001000121920": 260,
+      "gas:candidate-vibid:270200066830": 12,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 32,
-      "Жидких Владимир Александрович": 449,
-      "Костюкова Татьяна Анатольевна": 50,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 34,
-      "Лигачев Егор Кузьмич": 223,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136133": 32,
+      "gas:candidate-vibid:1001000225994": 449,
+      "gas:candidate-vibid:1001000190424": 50,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 34,
+      "gas:candidate-vibid:1001000121920": 223,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 304,
-      "Костюкова Татьяна Анатольевна": 32,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 194,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 304,
+      "gas:candidate-vibid:1001000190424": 32,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 194,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 26,
-      "Жидких Владимир Александрович": 293,
-      "Костюкова Татьяна Анатольевна": 22,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 205,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136133": 26,
+      "gas:candidate-vibid:1001000225994": 293,
+      "gas:candidate-vibid:1001000190424": 22,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 205,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 45,
-      "Жидких Владимир Александрович": 346,
-      "Костюкова Татьяна Анатольевна": 37,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 15,
-      "Лигачев Егор Кузьмич": 263,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136133": 45,
+      "gas:candidate-vibid:1001000225994": 346,
+      "gas:candidate-vibid:1001000190424": 37,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 15,
+      "gas:candidate-vibid:1001000121920": 263,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 61,
-      "Жидких Владимир Александрович": 523,
-      "Костюкова Татьяна Анатольевна": 59,
-      "Кошелев Анатолий Васильевич": 13,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 261,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136133": 61,
+      "gas:candidate-vibid:1001000225994": 523,
+      "gas:candidate-vibid:1001000190424": 59,
+      "gas:candidate-vibid:1001000195151": 13,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 261,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 58,
-      "Жидких Владимир Александрович": 490,
-      "Костюкова Татьяна Анатольевна": 74,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 330,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136133": 58,
+      "gas:candidate-vibid:1001000225994": 490,
+      "gas:candidate-vibid:1001000190424": 74,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 330,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 53,
-      "Жидких Владимир Александрович": 379,
-      "Костюкова Татьяна Анатольевна": 56,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 196,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136133": 53,
+      "gas:candidate-vibid:1001000225994": 379,
+      "gas:candidate-vibid:1001000190424": 56,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 196,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 44,
-      "Жидких Владимир Александрович": 463,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 36,
-      "Лигачев Егор Кузьмич": 323,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136133": 44,
+      "gas:candidate-vibid:1001000225994": 463,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 36,
+      "gas:candidate-vibid:1001000121920": 323,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 53,
-      "Жидких Владимир Александрович": 342,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 263,
-      "Маркелов Борис Владимирович": 7,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136133": 53,
+      "gas:candidate-vibid:1001000225994": 342,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 263,
+      "gas:candidate-vibid:270200066830": 7,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 32,
-      "Жидких Владимир Александрович": 336,
-      "Костюкова Татьяна Анатольевна": 39,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 238,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136133": 32,
+      "gas:candidate-vibid:1001000225994": 336,
+      "gas:candidate-vibid:1001000190424": 39,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 238,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 422,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 365,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 422,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 365,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 37,
-      "Жидких Владимир Александрович": 325,
-      "Костюкова Татьяна Анатольевна": 39,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 193,
-      "Маркелов Борис Владимирович": 17,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136133": 37,
+      "gas:candidate-vibid:1001000225994": 325,
+      "gas:candidate-vibid:1001000190424": 39,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 193,
+      "gas:candidate-vibid:270200066830": 17,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 27,
-      "Жидких Владимир Александрович": 304,
-      "Костюкова Татьяна Анатольевна": 36,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 259,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136133": 27,
+      "gas:candidate-vibid:1001000225994": 304,
+      "gas:candidate-vibid:1001000190424": 36,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 259,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 50,
-      "Жидких Владимир Александрович": 456,
-      "Костюкова Татьяна Анатольевна": 44,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 344,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136133": 50,
+      "gas:candidate-vibid:1001000225994": 456,
+      "gas:candidate-vibid:1001000190424": 44,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 344,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 42,
-      "Жидких Владимир Александрович": 479,
-      "Костюкова Татьяна Анатольевна": 63,
-      "Кошелев Анатолий Васильевич": 15,
-      "Кротов Евгений Геннадьевич": 35,
-      "Лигачев Егор Кузьмич": 406,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136133": 42,
+      "gas:candidate-vibid:1001000225994": 479,
+      "gas:candidate-vibid:1001000190424": 63,
+      "gas:candidate-vibid:1001000195151": 15,
+      "gas:candidate-vibid:1001000202339": 35,
+      "gas:candidate-vibid:1001000121920": 406,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 34,
-      "Жидких Владимир Александрович": 507,
-      "Костюкова Татьяна Анатольевна": 66,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 30,
-      "Лигачев Егор Кузьмич": 282,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136133": 34,
+      "gas:candidate-vibid:1001000225994": 507,
+      "gas:candidate-vibid:1001000190424": 66,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 30,
+      "gas:candidate-vibid:1001000121920": 282,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 33,
-      "Жидких Владимир Александрович": 404,
-      "Костюкова Татьяна Анатольевна": 31,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 253,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136133": 33,
+      "gas:candidate-vibid:1001000225994": 404,
+      "gas:candidate-vibid:1001000190424": 31,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 253,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 480,
-      "Костюкова Татьяна Анатольевна": 74,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 11,
-      "Лигачев Егор Кузьмич": 242,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 480,
+      "gas:candidate-vibid:1001000190424": 74,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 11,
+      "gas:candidate-vibid:1001000121920": 242,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 473,
-      "Костюкова Татьяна Анатольевна": 53,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 11,
-      "Лигачев Егор Кузьмич": 286,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 473,
+      "gas:candidate-vibid:1001000190424": 53,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 11,
+      "gas:candidate-vibid:1001000121920": 286,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 37,
-      "Жидких Владимир Александрович": 423,
-      "Костюкова Татьяна Анатольевна": 63,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 15,
-      "Лигачев Егор Кузьмич": 244,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000136133": 37,
+      "gas:candidate-vibid:1001000225994": 423,
+      "gas:candidate-vibid:1001000190424": 63,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 15,
+      "gas:candidate-vibid:1001000121920": 244,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 37,
-      "Жидких Владимир Александрович": 418,
-      "Костюкова Татьяна Анатольевна": 45,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 242,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136133": 37,
+      "gas:candidate-vibid:1001000225994": 418,
+      "gas:candidate-vibid:1001000190424": 45,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 242,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 47,
-      "Жидких Владимир Александрович": 596,
-      "Костюкова Татьяна Анатольевна": 58,
-      "Кошелев Анатолий Васильевич": 13,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 304,
-      "Маркелов Борис Владимирович": 12,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136133": 47,
+      "gas:candidate-vibid:1001000225994": 596,
+      "gas:candidate-vibid:1001000190424": 58,
+      "gas:candidate-vibid:1001000195151": 13,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 304,
+      "gas:candidate-vibid:270200066830": 12,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 52,
-      "Жидких Владимир Александрович": 483,
-      "Костюкова Татьяна Анатольевна": 45,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 30,
-      "Лигачев Егор Кузьмич": 413,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136133": 52,
+      "gas:candidate-vibid:1001000225994": 483,
+      "gas:candidate-vibid:1001000190424": 45,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 30,
+      "gas:candidate-vibid:1001000121920": 413,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 42,
-      "Жидких Владимир Александрович": 470,
-      "Костюкова Татьяна Анатольевна": 48,
-      "Кошелев Анатолий Васильевич": 19,
-      "Кротов Евгений Геннадьевич": 16,
-      "Лигачев Егор Кузьмич": 295,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136133": 42,
+      "gas:candidate-vibid:1001000225994": 470,
+      "gas:candidate-vibid:1001000190424": 48,
+      "gas:candidate-vibid:1001000195151": 19,
+      "gas:candidate-vibid:1001000202339": 16,
+      "gas:candidate-vibid:1001000121920": 295,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 294,
-      "Костюкова Татьяна Анатольевна": 18,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 176,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 294,
+      "gas:candidate-vibid:1001000190424": 18,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 176,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 32,
-      "Жидких Владимир Александрович": 325,
-      "Костюкова Татьяна Анатольевна": 45,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 224,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136133": 32,
+      "gas:candidate-vibid:1001000225994": 325,
+      "gas:candidate-vibid:1001000190424": 45,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 224,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 37,
-      "Жидких Владимир Александрович": 312,
-      "Костюкова Татьяна Анатольевна": 39,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 273,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136133": 37,
+      "gas:candidate-vibid:1001000225994": 312,
+      "gas:candidate-vibid:1001000190424": 39,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 273,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 359,
-      "Костюкова Татьяна Анатольевна": 68,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 27,
-      "Лигачев Егор Кузьмич": 226,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 359,
+      "gas:candidate-vibid:1001000190424": 68,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 27,
+      "gas:candidate-vibid:1001000121920": 226,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 48,
-      "Жидких Владимир Александрович": 356,
-      "Костюкова Татьяна Анатольевна": 40,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 192,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136133": 48,
+      "gas:candidate-vibid:1001000225994": 356,
+      "gas:candidate-vibid:1001000190424": 40,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 192,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 15,
-      "Жидких Владимир Александрович": 223,
-      "Костюкова Татьяна Анатольевна": 20,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 129,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136133": 15,
+      "gas:candidate-vibid:1001000225994": 223,
+      "gas:candidate-vibid:1001000190424": 20,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 129,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 7,
-      "Жидких Владимир Александрович": 85,
-      "Костюкова Татьяна Анатольевна": 13,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 61,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000136133": 7,
+      "gas:candidate-vibid:1001000225994": 85,
+      "gas:candidate-vibid:1001000190424": 13,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 61,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 405,
-      "Костюкова Татьяна Анатольевна": 40,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 28,
-      "Лигачев Егор Кузьмич": 254,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 405,
+      "gas:candidate-vibid:1001000190424": 40,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 28,
+      "gas:candidate-vibid:1001000121920": 254,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 59,
-      "Жидких Владимир Александрович": 339,
-      "Костюкова Татьяна Анатольевна": 31,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 9,
-      "Лигачев Егор Кузьмич": 214,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136133": 59,
+      "gas:candidate-vibid:1001000225994": 339,
+      "gas:candidate-vibid:1001000190424": 31,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 9,
+      "gas:candidate-vibid:1001000121920": 214,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 52,
-      "Жидких Владимир Александрович": 433,
-      "Костюкова Татьяна Анатольевна": 49,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 25,
-      "Лигачев Егор Кузьмич": 362,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136133": 52,
+      "gas:candidate-vibid:1001000225994": 433,
+      "gas:candidate-vibid:1001000190424": 49,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 25,
+      "gas:candidate-vibid:1001000121920": 362,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 447,
-      "Костюкова Татьяна Анатольевна": 45,
-      "Кошелев Анатолий Васильевич": 13,
-      "Кротов Евгений Геннадьевич": 27,
-      "Лигачев Егор Кузьмич": 221,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 447,
+      "gas:candidate-vibid:1001000190424": 45,
+      "gas:candidate-vibid:1001000195151": 13,
+      "gas:candidate-vibid:1001000202339": 27,
+      "gas:candidate-vibid:1001000121920": 221,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 35,
-      "Жидких Владимир Александрович": 436,
-      "Костюкова Татьяна Анатольевна": 60,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 171,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136133": 35,
+      "gas:candidate-vibid:1001000225994": 436,
+      "gas:candidate-vibid:1001000190424": 60,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 171,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 108,
-      "Жидких Владимир Александрович": 229,
-      "Костюкова Татьяна Анатольевна": 48,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 58,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000136133": 108,
+      "gas:candidate-vibid:1001000225994": 229,
+      "gas:candidate-vibid:1001000190424": 48,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 58,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 293,
-      "Костюкова Татьяна Анатольевна": 20,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 13,
-      "Лигачев Егор Кузьмич": 197,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 293,
+      "gas:candidate-vibid:1001000190424": 20,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 13,
+      "gas:candidate-vibid:1001000121920": 197,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 26,
-      "Жидких Владимир Александрович": 162,
-      "Костюкова Татьяна Анатольевна": 28,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 153,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136133": 26,
+      "gas:candidate-vibid:1001000225994": 162,
+      "gas:candidate-vibid:1001000190424": 28,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 153,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 34,
-      "Жидких Владимир Александрович": 433,
-      "Костюкова Татьяна Анатольевна": 49,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 32,
-      "Лигачев Егор Кузьмич": 307,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136133": 34,
+      "gas:candidate-vibid:1001000225994": 433,
+      "gas:candidate-vibid:1001000190424": 49,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 32,
+      "gas:candidate-vibid:1001000121920": 307,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 43,
-      "Жидких Владимир Александрович": 384,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 194,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136133": 43,
+      "gas:candidate-vibid:1001000225994": 384,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 194,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 17,
-      "Жидких Владимир Александрович": 263,
-      "Костюкова Татьяна Анатольевна": 21,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 222,
-      "Маркелов Борис Владимирович": 7,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136133": 17,
+      "gas:candidate-vibid:1001000225994": 263,
+      "gas:candidate-vibid:1001000190424": 21,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 222,
+      "gas:candidate-vibid:270200066830": 7,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 58,
-      "Жидких Владимир Александрович": 373,
-      "Костюкова Татьяна Анатольевна": 40,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 273,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136133": 58,
+      "gas:candidate-vibid:1001000225994": 373,
+      "gas:candidate-vibid:1001000190424": 40,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 273,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067042&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 35,
-      "Жидких Владимир Александрович": 441,
-      "Костюкова Татьяна Анатольевна": 78,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 35,
-      "Лигачев Егор Кузьмич": 352,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000136133": 35,
+      "gas:candidate-vibid:1001000225994": 441,
+      "gas:candidate-vibid:1001000190424": 78,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 35,
+      "gas:candidate-vibid:1001000121920": 352,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 39,
-      "Жидких Владимир Александрович": 579,
-      "Костюкова Татьяна Анатольевна": 89,
-      "Кошелев Анатолий Васильевич": 13,
-      "Кротов Евгений Геннадьевич": 39,
-      "Лигачев Егор Кузьмич": 467,
-      "Маркелов Борис Владимирович": 19,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000136133": 39,
+      "gas:candidate-vibid:1001000225994": 579,
+      "gas:candidate-vibid:1001000190424": 89,
+      "gas:candidate-vibid:1001000195151": 13,
+      "gas:candidate-vibid:1001000202339": 39,
+      "gas:candidate-vibid:1001000121920": 467,
+      "gas:candidate-vibid:270200066830": 19,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 62,
-      "Жидких Владимир Александрович": 518,
-      "Костюкова Татьяна Анатольевна": 77,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 16,
-      "Лигачев Егор Кузьмич": 349,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136133": 62,
+      "gas:candidate-vibid:1001000225994": 518,
+      "gas:candidate-vibid:1001000190424": 77,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 16,
+      "gas:candidate-vibid:1001000121920": 349,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 463,
-      "Костюкова Татьяна Анатольевна": 57,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 372,
-      "Маркелов Борис Владимирович": 20,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 463,
+      "gas:candidate-vibid:1001000190424": 57,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 372,
+      "gas:candidate-vibid:270200066830": 20,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 39,
-      "Жидких Владимир Александрович": 312,
-      "Костюкова Татьяна Анатольевна": 21,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 276,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136133": 39,
+      "gas:candidate-vibid:1001000225994": 312,
+      "gas:candidate-vibid:1001000190424": 21,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 276,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 43,
-      "Жидких Владимир Александрович": 341,
-      "Костюкова Татьяна Анатольевна": 37,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 27,
-      "Лигачев Егор Кузьмич": 247,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136133": 43,
+      "gas:candidate-vibid:1001000225994": 341,
+      "gas:candidate-vibid:1001000190424": 37,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 27,
+      "gas:candidate-vibid:1001000121920": 247,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 16,
-      "Жидких Владимир Александрович": 145,
-      "Костюкова Татьяна Анатольевна": 11,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 126,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136133": 16,
+      "gas:candidate-vibid:1001000225994": 145,
+      "gas:candidate-vibid:1001000190424": 11,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 126,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 54,
-      "Жидких Владимир Александрович": 493,
-      "Костюкова Татьяна Анатольевна": 67,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 33,
-      "Лигачев Егор Кузьмич": 389,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136133": 54,
+      "gas:candidate-vibid:1001000225994": 493,
+      "gas:candidate-vibid:1001000190424": 67,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 33,
+      "gas:candidate-vibid:1001000121920": 389,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 57,
-      "Жидких Владимир Александрович": 432,
-      "Костюкова Татьяна Анатольевна": 58,
-      "Кошелев Анатолий Васильевич": 18,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 205,
-      "Маркелов Борис Владимирович": 22,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136133": 57,
+      "gas:candidate-vibid:1001000225994": 432,
+      "gas:candidate-vibid:1001000190424": 58,
+      "gas:candidate-vibid:1001000195151": 18,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 205,
+      "gas:candidate-vibid:270200066830": 22,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 70,
-      "Жидких Владимир Александрович": 402,
-      "Костюкова Татьяна Анатольевна": 69,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 383,
-      "Маркелов Борис Владимирович": 12,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136133": 70,
+      "gas:candidate-vibid:1001000225994": 402,
+      "gas:candidate-vibid:1001000190424": 69,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 383,
+      "gas:candidate-vibid:270200066830": 12,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 60,
-      "Жидких Владимир Александрович": 501,
-      "Костюкова Татьяна Анатольевна": 65,
-      "Кошелев Анатолий Васильевич": 15,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 408,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136133": 60,
+      "gas:candidate-vibid:1001000225994": 501,
+      "gas:candidate-vibid:1001000190424": 65,
+      "gas:candidate-vibid:1001000195151": 15,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 408,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 17,
-      "Жидких Владимир Александрович": 292,
-      "Костюкова Татьяна Анатольевна": 32,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 185,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136133": 17,
+      "gas:candidate-vibid:1001000225994": 292,
+      "gas:candidate-vibid:1001000190424": 32,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 185,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 35,
-      "Жидких Владимир Александрович": 317,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 17,
-      "Кротов Евгений Геннадьевич": 31,
-      "Лигачев Егор Кузьмич": 353,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136133": 35,
+      "gas:candidate-vibid:1001000225994": 317,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 17,
+      "gas:candidate-vibid:1001000202339": 31,
+      "gas:candidate-vibid:1001000121920": 353,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 79,
-      "Жидких Владимир Александрович": 580,
-      "Костюкова Татьяна Анатольевна": 88,
-      "Кошелев Анатолий Васильевич": 25,
-      "Кротов Евгений Геннадьевич": 35,
-      "Лигачев Егор Кузьмич": 384,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136133": 79,
+      "gas:candidate-vibid:1001000225994": 580,
+      "gas:candidate-vibid:1001000190424": 88,
+      "gas:candidate-vibid:1001000195151": 25,
+      "gas:candidate-vibid:1001000202339": 35,
+      "gas:candidate-vibid:1001000121920": 384,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 27,
-      "Жидких Владимир Александрович": 506,
-      "Костюкова Татьяна Анатольевна": 56,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 34,
-      "Лигачев Егор Кузьмич": 397,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136133": 27,
+      "gas:candidate-vibid:1001000225994": 506,
+      "gas:candidate-vibid:1001000190424": 56,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 34,
+      "gas:candidate-vibid:1001000121920": 397,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 23,
-      "Жидких Владимир Александрович": 371,
-      "Костюкова Татьяна Анатольевна": 44,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 265,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136133": 23,
+      "gas:candidate-vibid:1001000225994": 371,
+      "gas:candidate-vibid:1001000190424": 44,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 265,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 23,
-      "Жидких Владимир Александрович": 137,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 136,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136133": 23,
+      "gas:candidate-vibid:1001000225994": 137,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 136,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 57,
-      "Жидких Владимир Александрович": 378,
-      "Костюкова Татьяна Анатольевна": 57,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 373,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136133": 57,
+      "gas:candidate-vibid:1001000225994": 378,
+      "gas:candidate-vibid:1001000190424": 57,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 373,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 17,
-      "Жидких Владимир Александрович": 372,
-      "Костюкова Татьяна Анатольевна": 27,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 32,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136133": 17,
+      "gas:candidate-vibid:1001000225994": 372,
+      "gas:candidate-vibid:1001000190424": 27,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 32,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 19,
-      "Жидких Владимир Александрович": 223,
-      "Костюкова Татьяна Анатольевна": 30,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 11,
-      "Лигачев Егор Кузьмич": 171,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136133": 19,
+      "gas:candidate-vibid:1001000225994": 223,
+      "gas:candidate-vibid:1001000190424": 30,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 11,
+      "gas:candidate-vibid:1001000121920": 171,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 510,
-      "Костюкова Татьяна Анатольевна": 41,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 193,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 510,
+      "gas:candidate-vibid:1001000190424": 41,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 193,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 46,
-      "Жидких Владимир Александрович": 375,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 322,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000136133": 46,
+      "gas:candidate-vibid:1001000225994": 375,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 322,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 49,
-      "Жидких Владимир Александрович": 422,
-      "Костюкова Татьяна Анатольевна": 64,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 312,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136133": 49,
+      "gas:candidate-vibid:1001000225994": 422,
+      "gas:candidate-vibid:1001000190424": 64,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 312,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 47,
-      "Жидких Владимир Александрович": 532,
-      "Костюкова Татьяна Анатольевна": 87,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 29,
-      "Лигачев Егор Кузьмич": 412,
-      "Маркелов Борис Владимирович": 27,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136133": 47,
+      "gas:candidate-vibid:1001000225994": 532,
+      "gas:candidate-vibid:1001000190424": 87,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 29,
+      "gas:candidate-vibid:1001000121920": 412,
+      "gas:candidate-vibid:270200066830": 27,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 505,
-      "Костюкова Татьяна Анатольевна": 87,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 27,
-      "Лигачев Егор Кузьмич": 396,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 505,
+      "gas:candidate-vibid:1001000190424": 87,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 27,
+      "gas:candidate-vibid:1001000121920": 396,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 71,
-      "Жидких Владимир Александрович": 549,
-      "Костюкова Татьяна Анатольевна": 69,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 377,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136133": 71,
+      "gas:candidate-vibid:1001000225994": 549,
+      "gas:candidate-vibid:1001000190424": 69,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 377,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 555,
-      "Костюкова Татьяна Анатольевна": 73,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 34,
-      "Лигачев Егор Кузьмич": 442,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 555,
+      "gas:candidate-vibid:1001000190424": 73,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 34,
+      "gas:candidate-vibid:1001000121920": 442,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 205,
-      "Костюкова Татьяна Анатольевна": 18,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 158,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 205,
+      "gas:candidate-vibid:1001000190424": 18,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 158,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 393,
-      "Костюкова Татьяна Анатольевна": 53,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 22,
-      "Лигачев Егор Кузьмич": 288,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 393,
+      "gas:candidate-vibid:1001000190424": 53,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 22,
+      "gas:candidate-vibid:1001000121920": 288,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 38,
-      "Жидких Владимир Александрович": 430,
-      "Костюкова Татьяна Анатольевна": 61,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 378,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136133": 38,
+      "gas:candidate-vibid:1001000225994": 430,
+      "gas:candidate-vibid:1001000190424": 61,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 378,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 491,
-      "Костюкова Татьяна Анатольевна": 66,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 383,
-      "Маркелов Борис Владимирович": 7,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 491,
+      "gas:candidate-vibid:1001000190424": 66,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 383,
+      "gas:candidate-vibid:270200066830": 7,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 76,
-      "Жидких Владимир Александрович": 579,
-      "Костюкова Татьяна Анатольевна": 57,
-      "Кошелев Анатолий Васильевич": 21,
-      "Кротов Евгений Геннадьевич": 53,
-      "Лигачев Егор Кузьмич": 335,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136133": 76,
+      "gas:candidate-vibid:1001000225994": 579,
+      "gas:candidate-vibid:1001000190424": 57,
+      "gas:candidate-vibid:1001000195151": 21,
+      "gas:candidate-vibid:1001000202339": 53,
+      "gas:candidate-vibid:1001000121920": 335,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 322,
-      "Костюкова Татьяна Анатольевна": 81,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 380,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 322,
+      "gas:candidate-vibid:1001000190424": 81,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 380,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 239,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 265,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 239,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 265,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 43,
-      "Жидких Владимир Александрович": 370,
-      "Костюкова Татьяна Анатольевна": 27,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 16,
-      "Лигачев Егор Кузьмич": 214,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136133": 43,
+      "gas:candidate-vibid:1001000225994": 370,
+      "gas:candidate-vibid:1001000190424": 27,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 16,
+      "gas:candidate-vibid:1001000121920": 214,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 55,
-      "Жидких Владимир Александрович": 573,
-      "Костюкова Татьяна Анатольевна": 69,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 270,
-      "Маркелов Борис Владимирович": 20,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000136133": 55,
+      "gas:candidate-vibid:1001000225994": 573,
+      "gas:candidate-vibid:1001000190424": 69,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 270,
+      "gas:candidate-vibid:270200066830": 20,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067043&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 28,
-      "Жидких Владимир Александрович": 276,
-      "Костюкова Татьяна Анатольевна": 48,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 15,
-      "Лигачев Егор Кузьмич": 222,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136133": 28,
+      "gas:candidate-vibid:1001000225994": 276,
+      "gas:candidate-vibid:1001000190424": 48,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 15,
+      "gas:candidate-vibid:1001000121920": 222,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 22,
-      "Жидких Владимир Александрович": 264,
-      "Костюкова Татьяна Анатольевна": 30,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 34,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136133": 22,
+      "gas:candidate-vibid:1001000225994": 264,
+      "gas:candidate-vibid:1001000190424": 30,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 34,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 21,
-      "Жидких Владимир Александрович": 310,
-      "Костюкова Татьяна Анатольевна": 46,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 16,
-      "Лигачев Егор Кузьмич": 271,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136133": 21,
+      "gas:candidate-vibid:1001000225994": 310,
+      "gas:candidate-vibid:1001000190424": 46,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 16,
+      "gas:candidate-vibid:1001000121920": 271,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 39,
-      "Жидких Владимир Александрович": 442,
-      "Костюкова Татьяна Анатольевна": 64,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 217,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136133": 39,
+      "gas:candidate-vibid:1001000225994": 442,
+      "gas:candidate-vibid:1001000190424": 64,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 217,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 111,
-      "Жидких Владимир Александрович": 838,
-      "Костюкова Татьяна Анатольевна": 55,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 72,
-      "Маркелов Борис Владимирович": 20,
-      "Против всех": 469
+      "gas:candidate-vibid:1001000136133": 111,
+      "gas:candidate-vibid:1001000225994": 838,
+      "gas:candidate-vibid:1001000190424": 55,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 72,
+      "gas:candidate-vibid:270200066830": 20,
+      "special:against-all": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 8,
-      "Жидких Владимир Александрович": 74,
-      "Костюкова Татьяна Анатольевна": 8,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 90,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136133": 8,
+      "gas:candidate-vibid:1001000225994": 74,
+      "gas:candidate-vibid:1001000190424": 8,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 90,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 45,
-      "Жидких Владимир Александрович": 381,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 18,
-      "Лигачев Егор Кузьмич": 294,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136133": 45,
+      "gas:candidate-vibid:1001000225994": 381,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 18,
+      "gas:candidate-vibid:1001000121920": 294,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 522,
-      "Костюкова Татьяна Анатольевна": 77,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 31,
-      "Лигачев Егор Кузьмич": 314,
-      "Маркелов Борис Владимирович": 20,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 522,
+      "gas:candidate-vibid:1001000190424": 77,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 31,
+      "gas:candidate-vibid:1001000121920": 314,
+      "gas:candidate-vibid:270200066830": 20,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 341,
-      "Костюкова Татьяна Анатольевна": 44,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 268,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 341,
+      "gas:candidate-vibid:1001000190424": 44,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 268,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 33,
-      "Жидких Владимир Александрович": 308,
-      "Костюкова Татьяна Анатольевна": 43,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 26,
-      "Лигачев Егор Кузьмич": 186,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136133": 33,
+      "gas:candidate-vibid:1001000225994": 308,
+      "gas:candidate-vibid:1001000190424": 43,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 26,
+      "gas:candidate-vibid:1001000121920": 186,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 24,
-      "Жидких Владимир Александрович": 211,
-      "Костюкова Татьяна Анатольевна": 30,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 11,
-      "Лигачев Егор Кузьмич": 134,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136133": 24,
+      "gas:candidate-vibid:1001000225994": 211,
+      "gas:candidate-vibid:1001000190424": 30,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 11,
+      "gas:candidate-vibid:1001000121920": 134,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 35,
-      "Жидких Владимир Александрович": 406,
-      "Костюкова Татьяна Анатольевна": 60,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 330,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136133": 35,
+      "gas:candidate-vibid:1001000225994": 406,
+      "gas:candidate-vibid:1001000190424": 60,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 330,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 44,
-      "Жидких Владимир Александрович": 398,
-      "Костюкова Татьяна Анатольевна": 58,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 30,
-      "Лигачев Егор Кузьмич": 342,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136133": 44,
+      "gas:candidate-vibid:1001000225994": 398,
+      "gas:candidate-vibid:1001000190424": 58,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 30,
+      "gas:candidate-vibid:1001000121920": 342,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 57,
-      "Жидких Владимир Александрович": 453,
-      "Костюкова Татьяна Анатольевна": 63,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 28,
-      "Лигачев Егор Кузьмич": 261,
-      "Маркелов Борис Владимирович": 14,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136133": 57,
+      "gas:candidate-vibid:1001000225994": 453,
+      "gas:candidate-vibid:1001000190424": 63,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 28,
+      "gas:candidate-vibid:1001000121920": 261,
+      "gas:candidate-vibid:270200066830": 14,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 63,
-      "Жидких Владимир Александрович": 595,
-      "Костюкова Татьяна Анатольевна": 81,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 24,
-      "Лигачев Егор Кузьмич": 166,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000136133": 63,
+      "gas:candidate-vibid:1001000225994": 595,
+      "gas:candidate-vibid:1001000190424": 81,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 24,
+      "gas:candidate-vibid:1001000121920": 166,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 219,
-      "Костюкова Татьяна Анатольевна": 35,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 128,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 219,
+      "gas:candidate-vibid:1001000190424": 35,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 128,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 418,
-      "Костюкова Татьяна Анатольевна": 66,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 47,
-      "Лигачев Егор Кузьмич": 359,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 418,
+      "gas:candidate-vibid:1001000190424": 66,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 47,
+      "gas:candidate-vibid:1001000121920": 359,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 396,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 313,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 396,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 313,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 325,
-      "Костюкова Татьяна Анатольевна": 36,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 25,
-      "Лигачев Егор Кузьмич": 177,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 325,
+      "gas:candidate-vibid:1001000190424": 36,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 25,
+      "gas:candidate-vibid:1001000121920": 177,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 41,
-      "Жидких Владимир Александрович": 432,
-      "Костюкова Татьяна Анатольевна": 76,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 35,
-      "Лигачев Егор Кузьмич": 167,
-      "Маркелов Борис Владимирович": 13,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000136133": 41,
+      "gas:candidate-vibid:1001000225994": 432,
+      "gas:candidate-vibid:1001000190424": 76,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 35,
+      "gas:candidate-vibid:1001000121920": 167,
+      "gas:candidate-vibid:270200066830": 13,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 70,
-      "Жидких Владимир Александрович": 554,
-      "Костюкова Татьяна Анатольевна": 58,
-      "Кошелев Анатолий Васильевич": 12,
-      "Кротов Евгений Геннадьевич": 27,
-      "Лигачев Егор Кузьмич": 168,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000136133": 70,
+      "gas:candidate-vibid:1001000225994": 554,
+      "gas:candidate-vibid:1001000190424": 58,
+      "gas:candidate-vibid:1001000195151": 12,
+      "gas:candidate-vibid:1001000202339": 27,
+      "gas:candidate-vibid:1001000121920": 168,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 42,
-      "Жидких Владимир Александрович": 295,
-      "Костюкова Татьяна Анатольевна": 40,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 21,
-      "Лигачев Егор Кузьмич": 275,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136133": 42,
+      "gas:candidate-vibid:1001000225994": 295,
+      "gas:candidate-vibid:1001000190424": 40,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 21,
+      "gas:candidate-vibid:1001000121920": 275,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 350,
-      "Костюкова Татьяна Анатольевна": 69,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 38,
-      "Лигачев Егор Кузьмич": 449,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 350,
+      "gas:candidate-vibid:1001000190424": 69,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 38,
+      "gas:candidate-vibid:1001000121920": 449,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 12,
-      "Жидких Владимир Александрович": 111,
-      "Костюкова Татьяна Анатольевна": 12,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 4,
-      "Лигачев Егор Кузьмич": 86,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136133": 12,
+      "gas:candidate-vibid:1001000225994": 111,
+      "gas:candidate-vibid:1001000190424": 12,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 4,
+      "gas:candidate-vibid:1001000121920": 86,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 16,
-      "Жидких Владимир Александрович": 304,
-      "Костюкова Татьяна Анатольевна": 32,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 8,
-      "Лигачев Егор Кузьмич": 212,
-      "Маркелов Борис Владимирович": 12,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136133": 16,
+      "gas:candidate-vibid:1001000225994": 304,
+      "gas:candidate-vibid:1001000190424": 32,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 8,
+      "gas:candidate-vibid:1001000121920": 212,
+      "gas:candidate-vibid:270200066830": 12,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 308,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 23,
-      "Лигачев Егор Кузьмич": 349,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 308,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 23,
+      "gas:candidate-vibid:1001000121920": 349,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 39,
-      "Жидких Владимир Александрович": 301,
-      "Костюкова Татьяна Анатольевна": 37,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 25,
-      "Лигачев Егор Кузьмич": 307,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136133": 39,
+      "gas:candidate-vibid:1001000225994": 301,
+      "gas:candidate-vibid:1001000190424": 37,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 25,
+      "gas:candidate-vibid:1001000121920": 307,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 30,
-      "Жидких Владимир Александрович": 321,
-      "Костюкова Татьяна Анатольевна": 44,
-      "Кошелев Анатолий Васильевич": 8,
-      "Кротов Евгений Геннадьевич": 15,
-      "Лигачев Егор Кузьмич": 295,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136133": 30,
+      "gas:candidate-vibid:1001000225994": 321,
+      "gas:candidate-vibid:1001000190424": 44,
+      "gas:candidate-vibid:1001000195151": 8,
+      "gas:candidate-vibid:1001000202339": 15,
+      "gas:candidate-vibid:1001000121920": 295,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 34,
-      "Жидких Владимир Александрович": 205,
-      "Костюкова Татьяна Анатольевна": 19,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 246,
-      "Маркелов Борис Владимирович": 8,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136133": 34,
+      "gas:candidate-vibid:1001000225994": 205,
+      "gas:candidate-vibid:1001000190424": 19,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 246,
+      "gas:candidate-vibid:270200066830": 8,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 42,
-      "Жидких Владимир Александрович": 434,
-      "Костюкова Татьяна Анатольевна": 76,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 30,
-      "Лигачев Егор Кузьмич": 467,
-      "Маркелов Борис Владимирович": 18,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136133": 42,
+      "gas:candidate-vibid:1001000225994": 434,
+      "gas:candidate-vibid:1001000190424": 76,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 30,
+      "gas:candidate-vibid:1001000121920": 467,
+      "gas:candidate-vibid:270200066830": 18,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 46,
-      "Жидких Владимир Александрович": 430,
-      "Костюкова Татьяна Анатольевна": 52,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 33,
-      "Лигачев Егор Кузьмич": 374,
-      "Маркелов Борис Владимирович": 17,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136133": 46,
+      "gas:candidate-vibid:1001000225994": 430,
+      "gas:candidate-vibid:1001000190424": 52,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 33,
+      "gas:candidate-vibid:1001000121920": 374,
+      "gas:candidate-vibid:270200066830": 17,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 27,
-      "Жидких Владимир Александрович": 484,
-      "Костюкова Татьяна Анатольевна": 61,
-      "Кошелев Анатолий Васильевич": 9,
-      "Кротов Евгений Геннадьевич": 43,
-      "Лигачев Егор Кузьмич": 324,
-      "Маркелов Борис Владимирович": 16,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136133": 27,
+      "gas:candidate-vibid:1001000225994": 484,
+      "gas:candidate-vibid:1001000190424": 61,
+      "gas:candidate-vibid:1001000195151": 9,
+      "gas:candidate-vibid:1001000202339": 43,
+      "gas:candidate-vibid:1001000121920": 324,
+      "gas:candidate-vibid:270200066830": 16,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 34,
-      "Жидких Владимир Александрович": 328,
-      "Костюкова Татьяна Анатольевна": 49,
-      "Кошелев Анатолий Васильевич": 10,
-      "Кротов Евгений Геннадьевич": 29,
-      "Лигачев Егор Кузьмич": 295,
-      "Маркелов Борис Владимирович": 12,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136133": 34,
+      "gas:candidate-vibid:1001000225994": 328,
+      "gas:candidate-vibid:1001000190424": 49,
+      "gas:candidate-vibid:1001000195151": 10,
+      "gas:candidate-vibid:1001000202339": 29,
+      "gas:candidate-vibid:1001000121920": 295,
+      "gas:candidate-vibid:270200066830": 12,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 19,
-      "Жидких Владимир Александрович": 322,
-      "Костюкова Татьяна Анатольевна": 51,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 352,
-      "Маркелов Борис Владимирович": 10,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136133": 19,
+      "gas:candidate-vibid:1001000225994": 322,
+      "gas:candidate-vibid:1001000190424": 51,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 352,
+      "gas:candidate-vibid:270200066830": 10,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 292,
-      "Костюкова Татьяна Анатольевна": 40,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 14,
-      "Лигачев Егор Кузьмич": 285,
-      "Маркелов Борис Владимирович": 4,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 292,
+      "gas:candidate-vibid:1001000190424": 40,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 14,
+      "gas:candidate-vibid:1001000121920": 285,
+      "gas:candidate-vibid:270200066830": 4,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 18,
-      "Жидких Владимир Александрович": 189,
-      "Костюкова Татьяна Анатольевна": 31,
-      "Кошелев Анатолий Васильевич": 5,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 137,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136133": 18,
+      "gas:candidate-vibid:1001000225994": 189,
+      "gas:candidate-vibid:1001000190424": 31,
+      "gas:candidate-vibid:1001000195151": 5,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 137,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 19,
-      "Жидких Владимир Александрович": 272,
-      "Костюкова Татьяна Анатольевна": 29,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 217,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136133": 19,
+      "gas:candidate-vibid:1001000225994": 272,
+      "gas:candidate-vibid:1001000190424": 29,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 217,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 38,
-      "Жидких Владимир Александрович": 561,
-      "Костюкова Татьяна Анатольевна": 64,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 31,
-      "Лигачев Егор Кузьмич": 445,
-      "Маркелов Борис Владимирович": 16,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000136133": 38,
+      "gas:candidate-vibid:1001000225994": 561,
+      "gas:candidate-vibid:1001000190424": 64,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 31,
+      "gas:candidate-vibid:1001000121920": 445,
+      "gas:candidate-vibid:270200066830": 16,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 25,
-      "Жидких Владимир Александрович": 459,
-      "Костюкова Татьяна Анатольевна": 73,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 20,
-      "Лигачев Егор Кузьмич": 377,
-      "Маркелов Борис Владимирович": 15,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136133": 25,
+      "gas:candidate-vibid:1001000225994": 459,
+      "gas:candidate-vibid:1001000190424": 73,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 20,
+      "gas:candidate-vibid:1001000121920": 377,
+      "gas:candidate-vibid:270200066830": 15,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 33,
-      "Жидких Владимир Александрович": 421,
-      "Костюкова Татьяна Анатольевна": 55,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 363,
-      "Маркелов Борис Владимирович": 11,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136133": 33,
+      "gas:candidate-vibid:1001000225994": 421,
+      "gas:candidate-vibid:1001000190424": 55,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 363,
+      "gas:candidate-vibid:270200066830": 11,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 36,
-      "Жидких Владимир Александрович": 271,
-      "Костюкова Татьяна Анатольевна": 30,
-      "Кошелев Анатолий Васильевич": 6,
-      "Кротов Евгений Геннадьевич": 17,
-      "Лигачев Егор Кузьмич": 195,
-      "Маркелов Борис Владимирович": 5,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136133": 36,
+      "gas:candidate-vibid:1001000225994": 271,
+      "gas:candidate-vibid:1001000190424": 30,
+      "gas:candidate-vibid:1001000195151": 6,
+      "gas:candidate-vibid:1001000202339": 17,
+      "gas:candidate-vibid:1001000121920": 195,
+      "gas:candidate-vibid:270200066830": 5,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 73,
-      "Жидких Владимир Александрович": 315,
-      "Костюкова Татьяна Анатольевна": 33,
-      "Кошелев Анатолий Васильевич": 11,
-      "Кротов Евгений Геннадьевич": 27,
-      "Лигачев Егор Кузьмич": 203,
-      "Маркелов Борис Владимирович": 6,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136133": 73,
+      "gas:candidate-vibid:1001000225994": 315,
+      "gas:candidate-vibid:1001000190424": 33,
+      "gas:candidate-vibid:1001000195151": 11,
+      "gas:candidate-vibid:1001000202339": 27,
+      "gas:candidate-vibid:1001000121920": 203,
+      "gas:candidate-vibid:270200066830": 6,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 102,
-      "Жидких Владимир Александрович": 524,
-      "Костюкова Татьяна Анатольевна": 74,
-      "Кошелев Анатолий Васильевич": 14,
-      "Кротов Евгений Геннадьевич": 55,
-      "Лигачев Егор Кузьмич": 426,
-      "Маркелов Борис Владимирович": 22,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136133": 102,
+      "gas:candidate-vibid:1001000225994": 524,
+      "gas:candidate-vibid:1001000190424": 74,
+      "gas:candidate-vibid:1001000195151": 14,
+      "gas:candidate-vibid:1001000202339": 55,
+      "gas:candidate-vibid:1001000121920": 426,
+      "gas:candidate-vibid:270200066830": 22,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 10,
-      "Жидких Владимир Александрович": 107,
-      "Костюкова Татьяна Анатольевна": 11,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 5,
-      "Лигачев Егор Кузьмич": 55,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136133": 10,
+      "gas:candidate-vibid:1001000225994": 107,
+      "gas:candidate-vibid:1001000190424": 11,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 5,
+      "gas:candidate-vibid:1001000121920": 55,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 31,
-      "Жидких Владимир Александрович": 420,
-      "Костюкова Татьяна Анатольевна": 35,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 19,
-      "Лигачев Егор Кузьмич": 141,
-      "Маркелов Борис Владимирович": 9,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136133": 31,
+      "gas:candidate-vibid:1001000225994": 420,
+      "gas:candidate-vibid:1001000190424": 35,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 19,
+      "gas:candidate-vibid:1001000121920": 141,
+      "gas:candidate-vibid:270200066830": 9,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067044&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 3,
-      "Жидких Владимир Александрович": 37,
-      "Костюкова Татьяна Анатольевна": 0,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 2,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136133": 3,
+      "gas:candidate-vibid:1001000225994": 37,
+      "gas:candidate-vibid:1001000190424": 0,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 2,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 0,
-      "Жидких Владимир Александрович": 40,
-      "Костюкова Татьяна Анатольевна": 0,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 1,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136133": 0,
+      "gas:candidate-vibid:1001000225994": 40,
+      "gas:candidate-vibid:1001000190424": 0,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 1,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 1,
-      "Жидких Владимир Александрович": 12,
-      "Костюкова Татьяна Анатольевна": 0,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 6,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136133": 1,
+      "gas:candidate-vibid:1001000225994": 12,
+      "gas:candidate-vibid:1001000190424": 0,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 6,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 3,
-      "Жидких Владимир Александрович": 36,
-      "Костюкова Татьяна Анатольевна": 2,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 3,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136133": 3,
+      "gas:candidate-vibid:1001000225994": 36,
+      "gas:candidate-vibid:1001000190424": 2,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 3,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 16,
-      "Жидких Владимир Александрович": 303,
-      "Костюкова Татьяна Анатольевна": 12,
-      "Кошелев Анатолий Васильевич": 4,
-      "Кротов Евгений Геннадьевич": 8,
-      "Лигачев Егор Кузьмич": 62,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136133": 16,
+      "gas:candidate-vibid:1001000225994": 303,
+      "gas:candidate-vibid:1001000190424": 12,
+      "gas:candidate-vibid:1001000195151": 4,
+      "gas:candidate-vibid:1001000202339": 8,
+      "gas:candidate-vibid:1001000121920": 62,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 34,
-      "Жидких Владимир Александрович": 550,
-      "Костюкова Татьяна Анатольевна": 24,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 12,
-      "Лигачев Егор Кузьмич": 115,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136133": 34,
+      "gas:candidate-vibid:1001000225994": 550,
+      "gas:candidate-vibid:1001000190424": 24,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 12,
+      "gas:candidate-vibid:1001000121920": 115,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 40,
-      "Жидких Владимир Александрович": 655,
-      "Костюкова Татьяна Анатольевна": 25,
-      "Кошелев Анатолий Васильевич": 7,
-      "Кротов Евгений Геннадьевич": 6,
-      "Лигачев Егор Кузьмич": 97,
-      "Маркелов Борис Владимирович": 7,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136133": 40,
+      "gas:candidate-vibid:1001000225994": 655,
+      "gas:candidate-vibid:1001000190424": 25,
+      "gas:candidate-vibid:1001000195151": 7,
+      "gas:candidate-vibid:1001000202339": 6,
+      "gas:candidate-vibid:1001000121920": 97,
+      "gas:candidate-vibid:270200066830": 7,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 20,
-      "Жидких Владимир Александрович": 395,
-      "Костюкова Татьяна Анатольевна": 7,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 64,
-      "Маркелов Борис Владимирович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136133": 20,
+      "gas:candidate-vibid:1001000225994": 395,
+      "gas:candidate-vibid:1001000190424": 7,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 64,
+      "gas:candidate-vibid:270200066830": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 5,
-      "Жидких Владимир Александрович": 143,
-      "Костюкова Татьяна Анатольевна": 3,
-      "Кошелев Анатолий Васильевич": 3,
-      "Кротов Евгений Геннадьевич": 4,
-      "Лигачев Егор Кузьмич": 13,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136133": 5,
+      "gas:candidate-vibid:1001000225994": 143,
+      "gas:candidate-vibid:1001000190424": 3,
+      "gas:candidate-vibid:1001000195151": 3,
+      "gas:candidate-vibid:1001000202339": 4,
+      "gas:candidate-vibid:1001000121920": 13,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 5,
-      "Жидких Владимир Александрович": 242,
-      "Костюкова Татьяна Анатольевна": 6,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 31,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136133": 5,
+      "gas:candidate-vibid:1001000225994": 242,
+      "gas:candidate-vibid:1001000190424": 6,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 31,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 9,
-      "Жидких Владимир Александрович": 87,
-      "Костюкова Татьяна Анатольевна": 1,
-      "Кошелев Анатолий Васильевич": 1,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 4,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136133": 9,
+      "gas:candidate-vibid:1001000225994": 87,
+      "gas:candidate-vibid:1001000190424": 1,
+      "gas:candidate-vibid:1001000195151": 1,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 4,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 4,
-      "Жидких Владимир Александрович": 55,
-      "Костюкова Татьяна Анатольевна": 0,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Лигачев Егор Кузьмич": 3,
-      "Маркелов Борис Владимирович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136133": 4,
+      "gas:candidate-vibid:1001000225994": 55,
+      "gas:candidate-vibid:1001000190424": 0,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 0,
+      "gas:candidate-vibid:1001000121920": 3,
+      "gas:candidate-vibid:270200066830": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 5,
-      "Жидких Владимир Александрович": 238,
-      "Костюкова Татьяна Анатольевна": 3,
-      "Кошелев Анатолий Васильевич": 2,
-      "Кротов Евгений Геннадьевич": 3,
-      "Лигачев Егор Кузьмич": 26,
-      "Маркелов Борис Владимирович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136133": 5,
+      "gas:candidate-vibid:1001000225994": 238,
+      "gas:candidate-vibid:1001000190424": 3,
+      "gas:candidate-vibid:1001000195151": 2,
+      "gas:candidate-vibid:1001000202339": 3,
+      "gas:candidate-vibid:1001000121920": 26,
+      "gas:candidate-vibid:270200066830": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_70_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бирюков Алексей Михайлович": 4,
-      "Жидких Владимир Александрович": 37,
-      "Костюкова Татьяна Анатольевна": 2,
-      "Кошелев Анатолий Васильевич": 0,
-      "Кротов Евгений Геннадьевич": 2,
-      "Лигачев Егор Кузьмич": 3,
-      "Маркелов Борис Владимирович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136133": 4,
+      "gas:candidate-vibid:1001000225994": 37,
+      "gas:candidate-vibid:1001000190424": 2,
+      "gas:candidate-vibid:1001000195151": 0,
+      "gas:candidate-vibid:1001000202339": 2,
+      "gas:candidate-vibid:1001000121920": 3,
+      "gas:candidate-vibid:270200066830": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=702000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=270200067045&region=0&sub_region=0&type=429",

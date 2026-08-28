@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 9,
-      "Казаков Владимир Евгеньевич": 22,
-      "Магдеев Марат Фаикович": 201,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 9,
+      "gas:candidate-vibid:1001000121797": 22,
+      "gas:candidate-vibid:1001000225902": 201,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 11,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 323,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 11,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 323,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 116,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 116,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 28,
-      "Магдеев Марат Фаикович": 237,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 28,
+      "gas:candidate-vibid:1001000225902": 237,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 159,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 159,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 298,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 298,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 489,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 489,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 477,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 477,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 6,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 17,
-      "Магдеев Марат Фаикович": 172,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 6,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 17,
+      "gas:candidate-vibid:1001000225902": 172,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 10,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 12,
-      "Магдеев Марат Фаикович": 334,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 10,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 12,
+      "gas:candidate-vibid:1001000225902": 334,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 286,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 286,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 7,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 10,
-      "Магдеев Марат Фаикович": 278,
-      "Сафиуллин Фандас Шакирович": 16,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131378": 7,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 10,
+      "gas:candidate-vibid:1001000225902": 278,
+      "gas:candidate-vibid:1001000187987": 16,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 583,
-      "Сафиуллин Фандас Шакирович": 25,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 583,
+      "gas:candidate-vibid:1001000187987": 25,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 269,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 269,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 10,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 19,
-      "Магдеев Марат Фаикович": 612,
-      "Сафиуллин Фандас Шакирович": 21,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 10,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 19,
+      "gas:candidate-vibid:1001000225902": 612,
+      "gas:candidate-vibid:1001000187987": 21,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 264,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 264,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 146,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 146,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 5,
-      "Гибадуллин Ринат Фаритович": 8,
-      "Казаков Владимир Евгеньевич": 14,
-      "Магдеев Марат Фаикович": 386,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 5,
+      "gas:candidate-vibid:1001000289803": 8,
+      "gas:candidate-vibid:1001000121797": 14,
+      "gas:candidate-vibid:1001000225902": 386,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 13,
-      "Брусов Сергей Анатольевич": 18,
-      "Веренцов Александр Петрович": 13,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 45,
-      "Магдеев Марат Фаикович": 206,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 13,
+      "gas:candidate-vibid:1001000201800": 18,
+      "gas:candidate-vibid:1001000190290": 13,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 45,
+      "gas:candidate-vibid:1001000225902": 206,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 12,
-      "Веренцов Александр Петрович": 34,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 31,
-      "Магдеев Марат Фаикович": 489,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 12,
+      "gas:candidate-vibid:1001000190290": 34,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 31,
+      "gas:candidate-vibid:1001000225902": 489,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 48,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 9,
-      "Магдеев Марат Фаикович": 405,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 48,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 9,
+      "gas:candidate-vibid:1001000225902": 405,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 55,
-      "Магдеев Марат Фаикович": 419,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 55,
+      "gas:candidate-vibid:1001000225902": 419,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 11,
-      "Магдеев Марат Фаикович": 322,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 11,
+      "gas:candidate-vibid:1001000225902": 322,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 14,
-      "Магдеев Марат Фаикович": 933,
-      "Сафиуллин Фандас Шакирович": 24,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 14,
+      "gas:candidate-vibid:1001000225902": 933,
+      "gas:candidate-vibid:1001000187987": 24,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 9,
-      "Магдеев Марат Фаикович": 545,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 9,
+      "gas:candidate-vibid:1001000225902": 545,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 7,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 29,
-      "Магдеев Марат Фаикович": 578,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 7,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 29,
+      "gas:candidate-vibid:1001000225902": 578,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 26,
-      "Гибадуллин Ринат Фаритович": 8,
-      "Казаков Владимир Евгеньевич": 63,
-      "Магдеев Марат Фаикович": 288,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 26,
+      "gas:candidate-vibid:1001000289803": 8,
+      "gas:candidate-vibid:1001000121797": 63,
+      "gas:candidate-vibid:1001000225902": 288,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 11,
-      "Брусов Сергей Анатольевич": 43,
-      "Веренцов Александр Петрович": 22,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 56,
-      "Магдеев Марат Фаикович": 656,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 52,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131378": 11,
+      "gas:candidate-vibid:1001000201800": 43,
+      "gas:candidate-vibid:1001000190290": 22,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 56,
+      "gas:candidate-vibid:1001000225902": 656,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 52,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 10,
-      "Веренцов Александр Петрович": 6,
-      "Гибадуллин Ринат Фаритович": 15,
-      "Казаков Владимир Евгеньевич": 55,
-      "Магдеев Марат Фаикович": 665,
-      "Сафиуллин Фандас Шакирович": 23,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 10,
+      "gas:candidate-vibid:1001000190290": 6,
+      "gas:candidate-vibid:1001000289803": 15,
+      "gas:candidate-vibid:1001000121797": 55,
+      "gas:candidate-vibid:1001000225902": 665,
+      "gas:candidate-vibid:1001000187987": 23,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 447,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 447,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 434,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 434,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 322,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 322,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 179,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 179,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 143,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 143,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 520,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 520,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 549,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 549,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 426,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 426,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 127,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 127,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 19,
-      "Магдеев Марат Фаикович": 162,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 19,
+      "gas:candidate-vibid:1001000225902": 162,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 9,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 14,
-      "Магдеев Марат Фаикович": 373,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 9,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 14,
+      "gas:candidate-vibid:1001000225902": 373,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 261,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 261,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170535&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 359,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 359,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 208,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 208,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 137,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 137,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 362,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 362,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 220,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 220,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 108,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 108,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 338,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 338,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 16,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 284,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131378": 16,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 284,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 82,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 82,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 190,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 190,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 482,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 482,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 240,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 240,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 214,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 214,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 148,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 148,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 9,
-      "Магдеев Марат Фаикович": 162,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 9,
+      "gas:candidate-vibid:1001000225902": 162,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 101,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 101,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 223,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 223,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 258,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 258,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 380,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 380,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 359,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 359,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 109,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 109,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 69,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 69,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 231,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 231,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 125,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 125,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 445,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 445,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 162,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 162,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 281,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 281,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 212,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 4,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 8,
-      "Магдеев Марат Фаикович": 499,
-      "Сафиуллин Фандас Шакирович": 16,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000131378": 212,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 4,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 8,
+      "gas:candidate-vibid:1001000225902": 499,
+      "gas:candidate-vibid:1001000187987": 16,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 159,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 159,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 105,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 105,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 300,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 300,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 127,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 127,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 21,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 412,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 21,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 412,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 194,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 194,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 189,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 189,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 160,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 160,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 210,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 210,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 15,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 297,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 15,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 297,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 78,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 78,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 143,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 143,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 8,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 405,
-      "Сафиуллин Фандас Шакирович": 28,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131378": 8,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 405,
+      "gas:candidate-vibid:1001000187987": 28,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 331,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 331,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 233,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 233,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 9,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 253,
-      "Сафиуллин Фандас Шакирович": 12,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 9,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 253,
+      "gas:candidate-vibid:1001000187987": 12,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 56,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 6,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 352,
-      "Сафиуллин Фандас Шакирович": 67,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131378": 56,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 6,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 352,
+      "gas:candidate-vibid:1001000187987": 67,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 68,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 4,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 12,
-      "Магдеев Марат Фаикович": 489,
-      "Сафиуллин Фандас Шакирович": 44,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000131378": 68,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 4,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 12,
+      "gas:candidate-vibid:1001000225902": 489,
+      "gas:candidate-vibid:1001000187987": 44,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 73,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 5,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 482,
-      "Сафиуллин Фандас Шакирович": 41,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131378": 73,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 5,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 482,
+      "gas:candidate-vibid:1001000187987": 41,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 38,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 9,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 485,
-      "Сафиуллин Фандас Шакирович": 41,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 38,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 9,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 485,
+      "gas:candidate-vibid:1001000187987": 41,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 103,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 15,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 16,
-      "Магдеев Марат Фаикович": 509,
-      "Сафиуллин Фандас Шакирович": 70,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000131378": 103,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 15,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 16,
+      "gas:candidate-vibid:1001000225902": 509,
+      "gas:candidate-vibid:1001000187987": 70,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 638,
-      "Сафиуллин Фандас Шакирович": 16,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 638,
+      "gas:candidate-vibid:1001000187987": 16,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 35,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 12,
-      "Магдеев Марат Фаикович": 387,
-      "Сафиуллин Фандас Шакирович": 36,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131378": 35,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 12,
+      "gas:candidate-vibid:1001000225902": 387,
+      "gas:candidate-vibid:1001000187987": 36,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 150,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 150,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 137,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 137,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 55,
-      "Брусов Сергей Анатольевич": 22,
-      "Веренцов Александр Петрович": 24,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 43,
-      "Магдеев Марат Фаикович": 804,
-      "Сафиуллин Фандас Шакирович": 49,
-      "Сафиуллин Хикматулла Гатиятович": 15,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000131378": 55,
+      "gas:candidate-vibid:1001000201800": 22,
+      "gas:candidate-vibid:1001000190290": 24,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 43,
+      "gas:candidate-vibid:1001000225902": 804,
+      "gas:candidate-vibid:1001000187987": 49,
+      "gas:candidate-vibid:316300170578": 15,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 91,
-      "Брусов Сергей Анатольевич": 23,
-      "Веренцов Александр Петрович": 42,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 36,
-      "Магдеев Марат Фаикович": 1046,
-      "Сафиуллин Фандас Шакирович": 125,
-      "Сафиуллин Хикматулла Гатиятович": 26,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131378": 91,
+      "gas:candidate-vibid:1001000201800": 23,
+      "gas:candidate-vibid:1001000190290": 42,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 36,
+      "gas:candidate-vibid:1001000225902": 1046,
+      "gas:candidate-vibid:1001000187987": 125,
+      "gas:candidate-vibid:316300170578": 26,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 118,
-      "Брусов Сергей Анатольевич": 27,
-      "Веренцов Александр Петрович": 33,
-      "Гибадуллин Ринат Фаритович": 14,
-      "Казаков Владимир Евгеньевич": 59,
-      "Магдеев Марат Фаикович": 982,
-      "Сафиуллин Фандас Шакирович": 129,
-      "Сафиуллин Хикматулла Гатиятович": 23,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000131378": 118,
+      "gas:candidate-vibid:1001000201800": 27,
+      "gas:candidate-vibid:1001000190290": 33,
+      "gas:candidate-vibid:1001000289803": 14,
+      "gas:candidate-vibid:1001000121797": 59,
+      "gas:candidate-vibid:1001000225902": 982,
+      "gas:candidate-vibid:1001000187987": 129,
+      "gas:candidate-vibid:316300170578": 23,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 53,
-      "Брусов Сергей Анатольевич": 29,
-      "Веренцов Александр Петрович": 24,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 47,
-      "Магдеев Марат Фаикович": 749,
-      "Сафиуллин Фандас Шакирович": 98,
-      "Сафиуллин Хикматулла Гатиятович": 21,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000131378": 53,
+      "gas:candidate-vibid:1001000201800": 29,
+      "gas:candidate-vibid:1001000190290": 24,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 47,
+      "gas:candidate-vibid:1001000225902": 749,
+      "gas:candidate-vibid:1001000187987": 98,
+      "gas:candidate-vibid:316300170578": 21,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 77,
-      "Брусов Сергей Анатольевич": 35,
-      "Веренцов Александр Петрович": 23,
-      "Гибадуллин Ринат Фаритович": 21,
-      "Казаков Владимир Евгеньевич": 48,
-      "Магдеев Марат Фаикович": 770,
-      "Сафиуллин Фандас Шакирович": 80,
-      "Сафиуллин Хикматулла Гатиятович": 18,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000131378": 77,
+      "gas:candidate-vibid:1001000201800": 35,
+      "gas:candidate-vibid:1001000190290": 23,
+      "gas:candidate-vibid:1001000289803": 21,
+      "gas:candidate-vibid:1001000121797": 48,
+      "gas:candidate-vibid:1001000225902": 770,
+      "gas:candidate-vibid:1001000187987": 80,
+      "gas:candidate-vibid:316300170578": 18,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 84,
-      "Брусов Сергей Анатольевич": 21,
-      "Веренцов Александр Петрович": 27,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 37,
-      "Магдеев Марат Фаикович": 818,
-      "Сафиуллин Фандас Шакирович": 118,
-      "Сафиуллин Хикматулла Гатиятович": 32,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000131378": 84,
+      "gas:candidate-vibid:1001000201800": 21,
+      "gas:candidate-vibid:1001000190290": 27,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 37,
+      "gas:candidate-vibid:1001000225902": 818,
+      "gas:candidate-vibid:1001000187987": 118,
+      "gas:candidate-vibid:316300170578": 32,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 73,
-      "Брусов Сергей Анатольевич": 15,
-      "Веренцов Александр Петрович": 33,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 45,
-      "Магдеев Марат Фаикович": 823,
-      "Сафиуллин Фандас Шакирович": 145,
-      "Сафиуллин Хикматулла Гатиятович": 14,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131378": 73,
+      "gas:candidate-vibid:1001000201800": 15,
+      "gas:candidate-vibid:1001000190290": 33,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 45,
+      "gas:candidate-vibid:1001000225902": 823,
+      "gas:candidate-vibid:1001000187987": 145,
+      "gas:candidate-vibid:316300170578": 14,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 60,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 47,
-      "Гибадуллин Ринат Фаритович": 26,
-      "Казаков Владимир Евгеньевич": 52,
-      "Магдеев Марат Фаикович": 725,
-      "Сафиуллин Фандас Шакирович": 100,
-      "Сафиуллин Хикматулла Гатиятович": 22,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000131378": 60,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 47,
+      "gas:candidate-vibid:1001000289803": 26,
+      "gas:candidate-vibid:1001000121797": 52,
+      "gas:candidate-vibid:1001000225902": 725,
+      "gas:candidate-vibid:1001000187987": 100,
+      "gas:candidate-vibid:316300170578": 22,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170536&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 6,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 8,
-      "Магдеев Марат Фаикович": 426,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 6,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 8,
+      "gas:candidate-vibid:1001000225902": 426,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 225,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 225,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 108,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 108,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 20,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 565,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 20,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 565,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 503,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 503,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 18,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 97,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 18,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 97,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 181,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 181,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 394,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 394,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 124,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 124,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 339,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 339,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 385,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 385,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 246,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 246,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 7,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 8,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 8,
-      "Магдеев Марат Фаикович": 849,
-      "Сафиуллин Фандас Шакирович": 39,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131378": 7,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 8,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 8,
+      "gas:candidate-vibid:1001000225902": 849,
+      "gas:candidate-vibid:1001000187987": 39,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 198,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 198,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 357,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 357,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 26,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 7,
-      "Магдеев Марат Фаикович": 154,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 26,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 7,
+      "gas:candidate-vibid:1001000225902": 154,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 200,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 200,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 12,
-      "Веренцов Александр Петрович": 11,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 9,
-      "Магдеев Марат Фаикович": 301,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 12,
+      "gas:candidate-vibid:1001000190290": 11,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 9,
+      "gas:candidate-vibid:1001000225902": 301,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 486,
-      "Сафиуллин Фандас Шакирович": 10,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 486,
+      "gas:candidate-vibid:1001000187987": 10,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 179,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 179,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 4,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 10,
-      "Магдеев Марат Фаикович": 378,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 4,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 10,
+      "gas:candidate-vibid:1001000225902": 378,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 4,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 700,
-      "Сафиуллин Фандас Шакирович": 26,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 4,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 700,
+      "gas:candidate-vibid:1001000187987": 26,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 22,
-      "Магдеев Марат Фаикович": 457,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 22,
+      "gas:candidate-vibid:1001000225902": 457,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 415,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 415,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 421,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 421,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 487,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 487,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 14,
-      "Брусов Сергей Анатольевич": 30,
-      "Веренцов Александр Петрович": 69,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 33,
-      "Магдеев Марат Фаикович": 537,
-      "Сафиуллин Фандас Шакирович": 29,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131378": 14,
+      "gas:candidate-vibid:1001000201800": 30,
+      "gas:candidate-vibid:1001000190290": 69,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 33,
+      "gas:candidate-vibid:1001000225902": 537,
+      "gas:candidate-vibid:1001000187987": 29,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 9,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 60,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 16,
-      "Магдеев Марат Фаикович": 661,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131378": 9,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 60,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 16,
+      "gas:candidate-vibid:1001000225902": 661,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 37,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 17,
-      "Магдеев Марат Фаикович": 939,
-      "Сафиуллин Фандас Шакирович": 25,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 37,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 17,
+      "gas:candidate-vibid:1001000225902": 939,
+      "gas:candidate-vibid:1001000187987": 25,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 16,
-      "Брусов Сергей Анатольевич": 22,
-      "Веренцов Александр Петрович": 35,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 18,
-      "Магдеев Марат Фаикович": 354,
-      "Сафиуллин Фандас Шакирович": 24,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131378": 16,
+      "gas:candidate-vibid:1001000201800": 22,
+      "gas:candidate-vibid:1001000190290": 35,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 18,
+      "gas:candidate-vibid:1001000225902": 354,
+      "gas:candidate-vibid:1001000187987": 24,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 8,
-      "Брусов Сергей Анатольевич": 10,
-      "Веренцов Александр Петрович": 11,
-      "Гибадуллин Ринат Фаритович": 8,
-      "Казаков Владимир Евгеньевич": 17,
-      "Магдеев Марат Фаикович": 386,
-      "Сафиуллин Фандас Шакирович": 12,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131378": 8,
+      "gas:candidate-vibid:1001000201800": 10,
+      "gas:candidate-vibid:1001000190290": 11,
+      "gas:candidate-vibid:1001000289803": 8,
+      "gas:candidate-vibid:1001000121797": 17,
+      "gas:candidate-vibid:1001000225902": 386,
+      "gas:candidate-vibid:1001000187987": 12,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 402,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 402,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 309,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 309,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 5,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 99,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 5,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 99,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170538&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 14,
-      "Брусов Сергей Анатольевич": 9,
-      "Веренцов Александр Петрович": 18,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 30,
-      "Магдеев Марат Фаикович": 554,
-      "Сафиуллин Фандас Шакирович": 29,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131378": 14,
+      "gas:candidate-vibid:1001000201800": 9,
+      "gas:candidate-vibid:1001000190290": 18,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 30,
+      "gas:candidate-vibid:1001000225902": 554,
+      "gas:candidate-vibid:1001000187987": 29,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 610,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 610,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 49,
-      "Веренцов Александр Петрович": 64,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 109,
-      "Магдеев Марат Фаикович": 296,
-      "Сафиуллин Фандас Шакирович": 61,
-      "Сафиуллин Хикматулла Гатиятович": 38,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 49,
+      "gas:candidate-vibid:1001000190290": 64,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 109,
+      "gas:candidate-vibid:1001000225902": 296,
+      "gas:candidate-vibid:1001000187987": 61,
+      "gas:candidate-vibid:316300170578": 38,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 8,
-      "Брусов Сергей Анатольевич": 10,
-      "Веренцов Александр Петрович": 11,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 28,
-      "Магдеев Марат Фаикович": 510,
-      "Сафиуллин Фандас Шакирович": 13,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131378": 8,
+      "gas:candidate-vibid:1001000201800": 10,
+      "gas:candidate-vibid:1001000190290": 11,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 28,
+      "gas:candidate-vibid:1001000225902": 510,
+      "gas:candidate-vibid:1001000187987": 13,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 9,
-      "Брусов Сергей Анатольевич": 28,
-      "Веренцов Александр Петрович": 28,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 62,
-      "Магдеев Марат Фаикович": 434,
-      "Сафиуллин Фандас Шакирович": 35,
-      "Сафиуллин Хикматулла Гатиятович": 20,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131378": 9,
+      "gas:candidate-vibid:1001000201800": 28,
+      "gas:candidate-vibid:1001000190290": 28,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 62,
+      "gas:candidate-vibid:1001000225902": 434,
+      "gas:candidate-vibid:1001000187987": 35,
+      "gas:candidate-vibid:316300170578": 20,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 10,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 25,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 40,
-      "Магдеев Марат Фаикович": 601,
-      "Сафиуллин Фандас Шакирович": 25,
-      "Сафиуллин Хикматулла Гатиятович": 25,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131378": 10,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 25,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 40,
+      "gas:candidate-vibid:1001000225902": 601,
+      "gas:candidate-vibid:1001000187987": 25,
+      "gas:candidate-vibid:316300170578": 25,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 22,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 55,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 63,
-      "Магдеев Марат Фаикович": 279,
-      "Сафиуллин Фандас Шакирович": 41,
-      "Сафиуллин Хикматулла Гатиятович": 21,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131378": 22,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 55,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 63,
+      "gas:candidate-vibid:1001000225902": 279,
+      "gas:candidate-vibid:1001000187987": 41,
+      "gas:candidate-vibid:316300170578": 21,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 8,
-      "Веренцов Александр Петрович": 24,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 17,
-      "Магдеев Марат Фаикович": 478,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 8,
+      "gas:candidate-vibid:1001000190290": 24,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 17,
+      "gas:candidate-vibid:1001000225902": 478,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 11,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 8,
-      "Гибадуллин Ринат Фаритович": 9,
-      "Казаков Владимир Евгеньевич": 8,
-      "Магдеев Марат Фаикович": 578,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 11,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 8,
+      "gas:candidate-vibid:1001000289803": 9,
+      "gas:candidate-vibid:1001000121797": 8,
+      "gas:candidate-vibid:1001000225902": 578,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 15,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 37,
-      "Магдеев Марат Фаикович": 359,
-      "Сафиуллин Фандас Шакирович": 24,
-      "Сафиуллин Хикматулла Гатиятович": 19,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 15,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 37,
+      "gas:candidate-vibid:1001000225902": 359,
+      "gas:candidate-vibid:1001000187987": 24,
+      "gas:candidate-vibid:316300170578": 19,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 20,
-      "Веренцов Александр Петрович": 20,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 36,
-      "Магдеев Марат Фаикович": 544,
-      "Сафиуллин Фандас Шакирович": 30,
-      "Сафиуллин Хикматулла Гатиятович": 25,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 20,
+      "gas:candidate-vibid:1001000190290": 20,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 36,
+      "gas:candidate-vibid:1001000225902": 544,
+      "gas:candidate-vibid:1001000187987": 30,
+      "gas:candidate-vibid:316300170578": 25,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 794,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 794,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 648,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 648,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 374,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 374,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 11,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 8,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 12,
-      "Магдеев Марат Фаикович": 316,
-      "Сафиуллин Фандас Шакирович": 33,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 11,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 8,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 12,
+      "gas:candidate-vibid:1001000225902": 316,
+      "gas:candidate-vibid:1001000187987": 33,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 1100,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 1100,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 388,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 388,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 4,
-      "Сафиуллин Фандас Шакирович": 377,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 4,
+      "gas:candidate-vibid:1001000187987": 377,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 776,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 776,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 253,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 253,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 501,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 501,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 321,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 321,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 530,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 530,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 574,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 574,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 145,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 145,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 553,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 553,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 25,
-      "Брусов Сергей Анатольевич": 31,
-      "Веренцов Александр Петрович": 27,
-      "Гибадуллин Ринат Фаритович": 19,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 927,
-      "Сафиуллин Фандас Шакирович": 33,
-      "Сафиуллин Хикматулла Гатиятович": 20,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131378": 25,
+      "gas:candidate-vibid:1001000201800": 31,
+      "gas:candidate-vibid:1001000190290": 27,
+      "gas:candidate-vibid:1001000289803": 19,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 927,
+      "gas:candidate-vibid:1001000187987": 33,
+      "gas:candidate-vibid:316300170578": 20,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 257,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 257,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 100,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 100,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170539&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 20,
-      "Брусов Сергей Анатольевич": 10,
-      "Веренцов Александр Петрович": 10,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 25,
-      "Магдеев Марат Фаикович": 483,
-      "Сафиуллин Фандас Шакирович": 68,
-      "Сафиуллин Хикматулла Гатиятович": 95,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131378": 20,
+      "gas:candidate-vibid:1001000201800": 10,
+      "gas:candidate-vibid:1001000190290": 10,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 25,
+      "gas:candidate-vibid:1001000225902": 483,
+      "gas:candidate-vibid:1001000187987": 68,
+      "gas:candidate-vibid:316300170578": 95,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 36,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 7,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 26,
-      "Магдеев Марат Фаикович": 632,
-      "Сафиуллин Фандас Шакирович": 191,
-      "Сафиуллин Хикматулла Гатиятович": 162,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000131378": 36,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 7,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 26,
+      "gas:candidate-vibid:1001000225902": 632,
+      "gas:candidate-vibid:1001000187987": 191,
+      "gas:candidate-vibid:316300170578": 162,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 40,
-      "Брусов Сергей Анатольевич": 20,
-      "Веренцов Александр Петрович": 28,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 45,
-      "Магдеев Марат Фаикович": 844,
-      "Сафиуллин Фандас Шакирович": 166,
-      "Сафиуллин Хикматулла Гатиятович": 187,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131378": 40,
+      "gas:candidate-vibid:1001000201800": 20,
+      "gas:candidate-vibid:1001000190290": 28,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 45,
+      "gas:candidate-vibid:1001000225902": 844,
+      "gas:candidate-vibid:1001000187987": 166,
+      "gas:candidate-vibid:316300170578": 187,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 15,
-      "Веренцов Александр Петрович": 16,
-      "Гибадуллин Ринат Фаритович": 11,
-      "Казаков Владимир Евгеньевич": 22,
-      "Магдеев Марат Фаикович": 487,
-      "Сафиуллин Фандас Шакирович": 71,
-      "Сафиуллин Хикматулла Гатиятович": 102,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 15,
+      "gas:candidate-vibid:1001000190290": 16,
+      "gas:candidate-vibid:1001000289803": 11,
+      "gas:candidate-vibid:1001000121797": 22,
+      "gas:candidate-vibid:1001000225902": 487,
+      "gas:candidate-vibid:1001000187987": 71,
+      "gas:candidate-vibid:316300170578": 102,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 27,
-      "Брусов Сергей Анатольевич": 18,
-      "Веренцов Александр Петрович": 26,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 30,
-      "Магдеев Марат Фаикович": 681,
-      "Сафиуллин Фандас Шакирович": 118,
-      "Сафиуллин Хикматулла Гатиятович": 188,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000131378": 27,
+      "gas:candidate-vibid:1001000201800": 18,
+      "gas:candidate-vibid:1001000190290": 26,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 30,
+      "gas:candidate-vibid:1001000225902": 681,
+      "gas:candidate-vibid:1001000187987": 118,
+      "gas:candidate-vibid:316300170578": 188,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 28,
-      "Брусов Сергей Анатольевич": 23,
-      "Веренцов Александр Петрович": 40,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 54,
-      "Магдеев Марат Фаикович": 1022,
-      "Сафиуллин Фандас Шакирович": 126,
-      "Сафиуллин Хикматулла Гатиятович": 148,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131378": 28,
+      "gas:candidate-vibid:1001000201800": 23,
+      "gas:candidate-vibid:1001000190290": 40,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 54,
+      "gas:candidate-vibid:1001000225902": 1022,
+      "gas:candidate-vibid:1001000187987": 126,
+      "gas:candidate-vibid:316300170578": 148,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 37,
-      "Брусов Сергей Анатольевич": 15,
-      "Веренцов Александр Петрович": 13,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 38,
-      "Магдеев Марат Фаикович": 705,
-      "Сафиуллин Фандас Шакирович": 179,
-      "Сафиуллин Хикматулла Гатиятович": 114,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131378": 37,
+      "gas:candidate-vibid:1001000201800": 15,
+      "gas:candidate-vibid:1001000190290": 13,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 38,
+      "gas:candidate-vibid:1001000225902": 705,
+      "gas:candidate-vibid:1001000187987": 179,
+      "gas:candidate-vibid:316300170578": 114,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 38,
-      "Брусов Сергей Анатольевич": 15,
-      "Веренцов Александр Петрович": 27,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 33,
-      "Магдеев Марат Фаикович": 779,
-      "Сафиуллин Фандас Шакирович": 111,
-      "Сафиуллин Хикматулла Гатиятович": 179,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000131378": 38,
+      "gas:candidate-vibid:1001000201800": 15,
+      "gas:candidate-vibid:1001000190290": 27,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 33,
+      "gas:candidate-vibid:1001000225902": 779,
+      "gas:candidate-vibid:1001000187987": 111,
+      "gas:candidate-vibid:316300170578": 179,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 26,
-      "Брусов Сергей Анатольевич": 30,
-      "Веренцов Александр Петрович": 22,
-      "Гибадуллин Ринат Фаритович": 19,
-      "Казаков Владимир Евгеньевич": 48,
-      "Магдеев Марат Фаикович": 803,
-      "Сафиуллин Фандас Шакирович": 170,
-      "Сафиуллин Хикматулла Гатиятович": 164,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000131378": 26,
+      "gas:candidate-vibid:1001000201800": 30,
+      "gas:candidate-vibid:1001000190290": 22,
+      "gas:candidate-vibid:1001000289803": 19,
+      "gas:candidate-vibid:1001000121797": 48,
+      "gas:candidate-vibid:1001000225902": 803,
+      "gas:candidate-vibid:1001000187987": 170,
+      "gas:candidate-vibid:316300170578": 164,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 35,
-      "Брусов Сергей Анатольевич": 18,
-      "Веренцов Александр Петрович": 18,
-      "Гибадуллин Ринат Фаритович": 14,
-      "Казаков Владимир Евгеньевич": 51,
-      "Магдеев Марат Фаикович": 791,
-      "Сафиуллин Фандас Шакирович": 181,
-      "Сафиуллин Хикматулла Гатиятович": 251,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000131378": 35,
+      "gas:candidate-vibid:1001000201800": 18,
+      "gas:candidate-vibid:1001000190290": 18,
+      "gas:candidate-vibid:1001000289803": 14,
+      "gas:candidate-vibid:1001000121797": 51,
+      "gas:candidate-vibid:1001000225902": 791,
+      "gas:candidate-vibid:1001000187987": 181,
+      "gas:candidate-vibid:316300170578": 251,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 67,
-      "Брусов Сергей Анатольевич": 34,
-      "Веренцов Александр Петрович": 42,
-      "Гибадуллин Ринат Фаритович": 22,
-      "Казаков Владимир Евгеньевич": 77,
-      "Магдеев Марат Фаикович": 1312,
-      "Сафиуллин Фандас Шакирович": 185,
-      "Сафиуллин Хикматулла Гатиятович": 321,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000131378": 67,
+      "gas:candidate-vibid:1001000201800": 34,
+      "gas:candidate-vibid:1001000190290": 42,
+      "gas:candidate-vibid:1001000289803": 22,
+      "gas:candidate-vibid:1001000121797": 77,
+      "gas:candidate-vibid:1001000225902": 1312,
+      "gas:candidate-vibid:1001000187987": 185,
+      "gas:candidate-vibid:316300170578": 321,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 39,
-      "Брусов Сергей Анатольевич": 27,
-      "Веренцов Александр Петрович": 22,
-      "Гибадуллин Ринат Фаритович": 27,
-      "Казаков Владимир Евгеньевич": 61,
-      "Магдеев Марат Фаикович": 929,
-      "Сафиуллин Фандас Шакирович": 177,
-      "Сафиуллин Хикматулла Гатиятович": 263,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131378": 39,
+      "gas:candidate-vibid:1001000201800": 27,
+      "gas:candidate-vibid:1001000190290": 22,
+      "gas:candidate-vibid:1001000289803": 27,
+      "gas:candidate-vibid:1001000121797": 61,
+      "gas:candidate-vibid:1001000225902": 929,
+      "gas:candidate-vibid:1001000187987": 177,
+      "gas:candidate-vibid:316300170578": 263,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 34,
-      "Брусов Сергей Анатольевич": 22,
-      "Веренцов Александр Петрович": 19,
-      "Гибадуллин Ринат Фаритович": 28,
-      "Казаков Владимир Евгеньевич": 67,
-      "Магдеев Марат Фаикович": 827,
-      "Сафиуллин Фандас Шакирович": 155,
-      "Сафиуллин Хикматулла Гатиятович": 220,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000131378": 34,
+      "gas:candidate-vibid:1001000201800": 22,
+      "gas:candidate-vibid:1001000190290": 19,
+      "gas:candidate-vibid:1001000289803": 28,
+      "gas:candidate-vibid:1001000121797": 67,
+      "gas:candidate-vibid:1001000225902": 827,
+      "gas:candidate-vibid:1001000187987": 155,
+      "gas:candidate-vibid:316300170578": 220,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 26,
-      "Брусов Сергей Анатольевич": 17,
-      "Веренцов Александр Петрович": 16,
-      "Гибадуллин Ринат Фаритович": 14,
-      "Казаков Владимир Евгеньевич": 48,
-      "Магдеев Марат Фаикович": 869,
-      "Сафиуллин Фандас Шакирович": 145,
-      "Сафиуллин Хикматулла Гатиятович": 207,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131378": 26,
+      "gas:candidate-vibid:1001000201800": 17,
+      "gas:candidate-vibid:1001000190290": 16,
+      "gas:candidate-vibid:1001000289803": 14,
+      "gas:candidate-vibid:1001000121797": 48,
+      "gas:candidate-vibid:1001000225902": 869,
+      "gas:candidate-vibid:1001000187987": 145,
+      "gas:candidate-vibid:316300170578": 207,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 32,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 14,
-      "Гибадуллин Ринат Фаритович": 14,
-      "Казаков Владимир Евгеньевич": 21,
-      "Магдеев Марат Фаикович": 837,
-      "Сафиуллин Фандас Шакирович": 143,
-      "Сафиуллин Хикматулла Гатиятович": 120,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000131378": 32,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 14,
+      "gas:candidate-vibid:1001000289803": 14,
+      "gas:candidate-vibid:1001000121797": 21,
+      "gas:candidate-vibid:1001000225902": 837,
+      "gas:candidate-vibid:1001000187987": 143,
+      "gas:candidate-vibid:316300170578": 120,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300170540&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 28,
-      "Брусов Сергей Анатольевич": 32,
-      "Веренцов Александр Петрович": 124,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 52,
-      "Магдеев Марат Фаикович": 555,
-      "Сафиуллин Фандас Шакирович": 28,
-      "Сафиуллин Хикматулла Гатиятович": 14,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000131378": 28,
+      "gas:candidate-vibid:1001000201800": 32,
+      "gas:candidate-vibid:1001000190290": 124,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 52,
+      "gas:candidate-vibid:1001000225902": 555,
+      "gas:candidate-vibid:1001000187987": 28,
+      "gas:candidate-vibid:316300170578": 14,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 42,
-      "Брусов Сергей Анатольевич": 54,
-      "Веренцов Александр Петрович": 177,
-      "Гибадуллин Ринат Фаритович": 40,
-      "Казаков Владимир Евгеньевич": 124,
-      "Магдеев Марат Фаикович": 502,
-      "Сафиуллин Фандас Шакирович": 34,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000131378": 42,
+      "gas:candidate-vibid:1001000201800": 54,
+      "gas:candidate-vibid:1001000190290": 177,
+      "gas:candidate-vibid:1001000289803": 40,
+      "gas:candidate-vibid:1001000121797": 124,
+      "gas:candidate-vibid:1001000225902": 502,
+      "gas:candidate-vibid:1001000187987": 34,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 40,
-      "Брусов Сергей Анатольевич": 40,
-      "Веренцов Александр Петрович": 111,
-      "Гибадуллин Ринат Фаритович": 23,
-      "Казаков Владимир Евгеньевич": 75,
-      "Магдеев Марат Фаикович": 610,
-      "Сафиуллин Фандас Шакирович": 28,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000131378": 40,
+      "gas:candidate-vibid:1001000201800": 40,
+      "gas:candidate-vibid:1001000190290": 111,
+      "gas:candidate-vibid:1001000289803": 23,
+      "gas:candidate-vibid:1001000121797": 75,
+      "gas:candidate-vibid:1001000225902": 610,
+      "gas:candidate-vibid:1001000187987": 28,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 42,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 139,
-      "Гибадуллин Ринат Фаритович": 21,
-      "Казаков Владимир Евгеньевич": 111,
-      "Магдеев Марат Фаикович": 583,
-      "Сафиуллин Фандас Шакирович": 32,
-      "Сафиуллин Хикматулла Гатиятович": 16,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131378": 42,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 139,
+      "gas:candidate-vibid:1001000289803": 21,
+      "gas:candidate-vibid:1001000121797": 111,
+      "gas:candidate-vibid:1001000225902": 583,
+      "gas:candidate-vibid:1001000187987": 32,
+      "gas:candidate-vibid:316300170578": 16,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 14,
-      "Брусов Сергей Анатольевич": 14,
-      "Веренцов Александр Петрович": 32,
-      "Гибадуллин Ринат Фаритович": 9,
-      "Казаков Владимир Евгеньевич": 41,
-      "Магдеев Марат Фаикович": 173,
-      "Сафиуллин Фандас Шакирович": 16,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131378": 14,
+      "gas:candidate-vibid:1001000201800": 14,
+      "gas:candidate-vibid:1001000190290": 32,
+      "gas:candidate-vibid:1001000289803": 9,
+      "gas:candidate-vibid:1001000121797": 41,
+      "gas:candidate-vibid:1001000225902": 173,
+      "gas:candidate-vibid:1001000187987": 16,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 27,
-      "Брусов Сергей Анатольевич": 46,
-      "Веренцов Александр Петрович": 207,
-      "Гибадуллин Ринат Фаритович": 28,
-      "Казаков Владимир Евгеньевич": 94,
-      "Магдеев Марат Фаикович": 419,
-      "Сафиуллин Фандас Шакирович": 34,
-      "Сафиуллин Хикматулла Гатиятович": 20,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000131378": 27,
+      "gas:candidate-vibid:1001000201800": 46,
+      "gas:candidate-vibid:1001000190290": 207,
+      "gas:candidate-vibid:1001000289803": 28,
+      "gas:candidate-vibid:1001000121797": 94,
+      "gas:candidate-vibid:1001000225902": 419,
+      "gas:candidate-vibid:1001000187987": 34,
+      "gas:candidate-vibid:316300170578": 20,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 49,
-      "Брусов Сергей Анатольевич": 55,
-      "Веренцов Александр Петрович": 302,
-      "Гибадуллин Ринат Фаритович": 49,
-      "Казаков Владимир Евгеньевич": 120,
-      "Магдеев Марат Фаикович": 633,
-      "Сафиуллин Фандас Шакирович": 41,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000131378": 49,
+      "gas:candidate-vibid:1001000201800": 55,
+      "gas:candidate-vibid:1001000190290": 302,
+      "gas:candidate-vibid:1001000289803": 49,
+      "gas:candidate-vibid:1001000121797": 120,
+      "gas:candidate-vibid:1001000225902": 633,
+      "gas:candidate-vibid:1001000187987": 41,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 39,
-      "Брусов Сергей Анатольевич": 51,
-      "Веренцов Александр Петрович": 181,
-      "Гибадуллин Ринат Фаритович": 34,
-      "Казаков Владимир Евгеньевич": 120,
-      "Магдеев Марат Фаикович": 454,
-      "Сафиуллин Фандас Шакирович": 72,
-      "Сафиуллин Хикматулла Гатиятович": 9,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000131378": 39,
+      "gas:candidate-vibid:1001000201800": 51,
+      "gas:candidate-vibid:1001000190290": 181,
+      "gas:candidate-vibid:1001000289803": 34,
+      "gas:candidate-vibid:1001000121797": 120,
+      "gas:candidate-vibid:1001000225902": 454,
+      "gas:candidate-vibid:1001000187987": 72,
+      "gas:candidate-vibid:316300170578": 9,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 38,
-      "Брусов Сергей Анатольевич": 30,
-      "Веренцов Александр Петрович": 111,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 72,
-      "Магдеев Марат Фаикович": 427,
-      "Сафиуллин Фандас Шакирович": 37,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000131378": 38,
+      "gas:candidate-vibid:1001000201800": 30,
+      "gas:candidate-vibid:1001000190290": 111,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 72,
+      "gas:candidate-vibid:1001000225902": 427,
+      "gas:candidate-vibid:1001000187987": 37,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 41,
-      "Брусов Сергей Анатольевич": 41,
-      "Веренцов Александр Петрович": 207,
-      "Гибадуллин Ринат Фаритович": 33,
-      "Казаков Владимир Евгеньевич": 97,
-      "Магдеев Марат Фаикович": 521,
-      "Сафиуллин Фандас Шакирович": 39,
-      "Сафиуллин Хикматулла Гатиятович": 18,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000131378": 41,
+      "gas:candidate-vibid:1001000201800": 41,
+      "gas:candidate-vibid:1001000190290": 207,
+      "gas:candidate-vibid:1001000289803": 33,
+      "gas:candidate-vibid:1001000121797": 97,
+      "gas:candidate-vibid:1001000225902": 521,
+      "gas:candidate-vibid:1001000187987": 39,
+      "gas:candidate-vibid:316300170578": 18,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 36,
-      "Брусов Сергей Анатольевич": 39,
-      "Веренцов Александр Петрович": 153,
-      "Гибадуллин Ринат Фаритович": 34,
-      "Казаков Владимир Евгеньевич": 105,
-      "Магдеев Марат Фаикович": 469,
-      "Сафиуллин Фандас Шакирович": 44,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131378": 36,
+      "gas:candidate-vibid:1001000201800": 39,
+      "gas:candidate-vibid:1001000190290": 153,
+      "gas:candidate-vibid:1001000289803": 34,
+      "gas:candidate-vibid:1001000121797": 105,
+      "gas:candidate-vibid:1001000225902": 469,
+      "gas:candidate-vibid:1001000187987": 44,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 69,
-      "Брусов Сергей Анатольевич": 49,
-      "Веренцов Александр Петрович": 217,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 118,
-      "Магдеев Марат Фаикович": 727,
-      "Сафиуллин Фандас Шакирович": 59,
-      "Сафиуллин Хикматулла Гатиятович": 26,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000131378": 69,
+      "gas:candidate-vibid:1001000201800": 49,
+      "gas:candidate-vibid:1001000190290": 217,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 118,
+      "gas:candidate-vibid:1001000225902": 727,
+      "gas:candidate-vibid:1001000187987": 59,
+      "gas:candidate-vibid:316300170578": 26,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 29,
-      "Брусов Сергей Анатольевич": 22,
-      "Веренцов Александр Петрович": 136,
-      "Гибадуллин Ринат Фаритович": 24,
-      "Казаков Владимир Евгеньевич": 46,
-      "Магдеев Марат Фаикович": 427,
-      "Сафиуллин Фандас Шакирович": 42,
-      "Сафиуллин Хикматулла Гатиятович": 8,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000131378": 29,
+      "gas:candidate-vibid:1001000201800": 22,
+      "gas:candidate-vibid:1001000190290": 136,
+      "gas:candidate-vibid:1001000289803": 24,
+      "gas:candidate-vibid:1001000121797": 46,
+      "gas:candidate-vibid:1001000225902": 427,
+      "gas:candidate-vibid:1001000187987": 42,
+      "gas:candidate-vibid:316300170578": 8,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 30,
-      "Брусов Сергей Анатольевич": 34,
-      "Веренцов Александр Петрович": 138,
-      "Гибадуллин Ринат Фаритович": 20,
-      "Казаков Владимир Евгеньевич": 47,
-      "Магдеев Марат Фаикович": 402,
-      "Сафиуллин Фандас Шакирович": 82,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000131378": 30,
+      "gas:candidate-vibid:1001000201800": 34,
+      "gas:candidate-vibid:1001000190290": 138,
+      "gas:candidate-vibid:1001000289803": 20,
+      "gas:candidate-vibid:1001000121797": 47,
+      "gas:candidate-vibid:1001000225902": 402,
+      "gas:candidate-vibid:1001000187987": 82,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 41,
-      "Брусов Сергей Анатольевич": 69,
-      "Веренцов Александр Петрович": 166,
-      "Гибадуллин Ринат Фаритович": 30,
-      "Казаков Владимир Евгеньевич": 120,
-      "Магдеев Марат Фаикович": 531,
-      "Сафиуллин Фандас Шакирович": 72,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000131378": 41,
+      "gas:candidate-vibid:1001000201800": 69,
+      "gas:candidate-vibid:1001000190290": 166,
+      "gas:candidate-vibid:1001000289803": 30,
+      "gas:candidate-vibid:1001000121797": 120,
+      "gas:candidate-vibid:1001000225902": 531,
+      "gas:candidate-vibid:1001000187987": 72,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 31,
-      "Брусов Сергей Анатольевич": 46,
-      "Веренцов Александр Петрович": 117,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 88,
-      "Магдеев Марат Фаикович": 390,
-      "Сафиуллин Фандас Шакирович": 46,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131378": 31,
+      "gas:candidate-vibid:1001000201800": 46,
+      "gas:candidate-vibid:1001000190290": 117,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 88,
+      "gas:candidate-vibid:1001000225902": 390,
+      "gas:candidate-vibid:1001000187987": 46,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 51,
-      "Брусов Сергей Анатольевич": 59,
-      "Веренцов Александр Петрович": 226,
-      "Гибадуллин Ринат Фаритович": 32,
-      "Казаков Владимир Евгеньевич": 131,
-      "Магдеев Марат Фаикович": 684,
-      "Сафиуллин Фандас Шакирович": 55,
-      "Сафиуллин Хикматулла Гатиятович": 27,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000131378": 51,
+      "gas:candidate-vibid:1001000201800": 59,
+      "gas:candidate-vibid:1001000190290": 226,
+      "gas:candidate-vibid:1001000289803": 32,
+      "gas:candidate-vibid:1001000121797": 131,
+      "gas:candidate-vibid:1001000225902": 684,
+      "gas:candidate-vibid:1001000187987": 55,
+      "gas:candidate-vibid:316300170578": 27,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 44,
-      "Брусов Сергей Анатольевич": 34,
-      "Веренцов Александр Петрович": 145,
-      "Гибадуллин Ринат Фаритович": 21,
-      "Казаков Владимир Евгеньевич": 53,
-      "Магдеев Марат Фаикович": 616,
-      "Сафиуллин Фандас Шакирович": 40,
-      "Сафиуллин Хикматулла Гатиятович": 15,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131378": 44,
+      "gas:candidate-vibid:1001000201800": 34,
+      "gas:candidate-vibid:1001000190290": 145,
+      "gas:candidate-vibid:1001000289803": 21,
+      "gas:candidate-vibid:1001000121797": 53,
+      "gas:candidate-vibid:1001000225902": 616,
+      "gas:candidate-vibid:1001000187987": 40,
+      "gas:candidate-vibid:316300170578": 15,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 32,
-      "Брусов Сергей Анатольевич": 59,
-      "Веренцов Александр Петрович": 131,
-      "Гибадуллин Ринат Фаритович": 24,
-      "Казаков Владимир Евгеньевич": 80,
-      "Магдеев Марат Фаикович": 529,
-      "Сафиуллин Фандас Шакирович": 62,
-      "Сафиуллин Хикматулла Гатиятович": 9,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000131378": 32,
+      "gas:candidate-vibid:1001000201800": 59,
+      "gas:candidate-vibid:1001000190290": 131,
+      "gas:candidate-vibid:1001000289803": 24,
+      "gas:candidate-vibid:1001000121797": 80,
+      "gas:candidate-vibid:1001000225902": 529,
+      "gas:candidate-vibid:1001000187987": 62,
+      "gas:candidate-vibid:316300170578": 9,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 38,
-      "Брусов Сергей Анатольевич": 59,
-      "Веренцов Александр Петрович": 121,
-      "Гибадуллин Ринат Фаритович": 33,
-      "Казаков Владимир Евгеньевич": 101,
-      "Магдеев Марат Фаикович": 794,
-      "Сафиуллин Фандас Шакирович": 45,
-      "Сафиуллин Хикматулла Гатиятович": 13,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000131378": 38,
+      "gas:candidate-vibid:1001000201800": 59,
+      "gas:candidate-vibid:1001000190290": 121,
+      "gas:candidate-vibid:1001000289803": 33,
+      "gas:candidate-vibid:1001000121797": 101,
+      "gas:candidate-vibid:1001000225902": 794,
+      "gas:candidate-vibid:1001000187987": 45,
+      "gas:candidate-vibid:316300170578": 13,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 25,
-      "Брусов Сергей Анатольевич": 45,
-      "Веренцов Александр Петрович": 131,
-      "Гибадуллин Ринат Фаритович": 24,
-      "Казаков Владимир Евгеньевич": 90,
-      "Магдеев Марат Фаикович": 490,
-      "Сафиуллин Фандас Шакирович": 49,
-      "Сафиуллин Хикматулла Гатиятович": 9,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131378": 25,
+      "gas:candidate-vibid:1001000201800": 45,
+      "gas:candidate-vibid:1001000190290": 131,
+      "gas:candidate-vibid:1001000289803": 24,
+      "gas:candidate-vibid:1001000121797": 90,
+      "gas:candidate-vibid:1001000225902": 490,
+      "gas:candidate-vibid:1001000187987": 49,
+      "gas:candidate-vibid:316300170578": 9,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 24,
-      "Брусов Сергей Анатольевич": 27,
-      "Веренцов Александр Петрович": 139,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 110,
-      "Магдеев Марат Фаикович": 435,
-      "Сафиуллин Фандас Шакирович": 56,
-      "Сафиуллин Хикматулла Гатиятович": 14,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000131378": 24,
+      "gas:candidate-vibid:1001000201800": 27,
+      "gas:candidate-vibid:1001000190290": 139,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 110,
+      "gas:candidate-vibid:1001000225902": 435,
+      "gas:candidate-vibid:1001000187987": 56,
+      "gas:candidate-vibid:316300170578": 14,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 31,
-      "Брусов Сергей Анатольевич": 33,
-      "Веренцов Александр Петрович": 178,
-      "Гибадуллин Ринат Фаритович": 20,
-      "Казаков Владимир Евгеньевич": 99,
-      "Магдеев Марат Фаикович": 333,
-      "Сафиуллин Фандас Шакирович": 48,
-      "Сафиуллин Хикматулла Гатиятович": 8,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000131378": 31,
+      "gas:candidate-vibid:1001000201800": 33,
+      "gas:candidate-vibid:1001000190290": 178,
+      "gas:candidate-vibid:1001000289803": 20,
+      "gas:candidate-vibid:1001000121797": 99,
+      "gas:candidate-vibid:1001000225902": 333,
+      "gas:candidate-vibid:1001000187987": 48,
+      "gas:candidate-vibid:316300170578": 8,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 34,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 179,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 61,
-      "Магдеев Марат Фаикович": 346,
-      "Сафиуллин Фандас Шакирович": 31,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131378": 34,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 179,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 61,
+      "gas:candidate-vibid:1001000225902": 346,
+      "gas:candidate-vibid:1001000187987": 31,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 20,
-      "Брусов Сергей Анатольевич": 43,
-      "Веренцов Александр Петрович": 191,
-      "Гибадуллин Ринат Фаритович": 18,
-      "Казаков Владимир Евгеньевич": 74,
-      "Магдеев Марат Фаикович": 357,
-      "Сафиуллин Фандас Шакирович": 56,
-      "Сафиуллин Хикматулла Гатиятович": 9,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000131378": 20,
+      "gas:candidate-vibid:1001000201800": 43,
+      "gas:candidate-vibid:1001000190290": 191,
+      "gas:candidate-vibid:1001000289803": 18,
+      "gas:candidate-vibid:1001000121797": 74,
+      "gas:candidate-vibid:1001000225902": 357,
+      "gas:candidate-vibid:1001000187987": 56,
+      "gas:candidate-vibid:316300170578": 9,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 37,
-      "Брусов Сергей Анатольевич": 55,
-      "Веренцов Александр Петрович": 166,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 98,
-      "Магдеев Марат Фаикович": 355,
-      "Сафиуллин Фандас Шакирович": 47,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000131378": 37,
+      "gas:candidate-vibid:1001000201800": 55,
+      "gas:candidate-vibid:1001000190290": 166,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 98,
+      "gas:candidate-vibid:1001000225902": 355,
+      "gas:candidate-vibid:1001000187987": 47,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 34,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 116,
-      "Гибадуллин Ринат Фаритович": 26,
-      "Казаков Владимир Евгеньевич": 73,
-      "Магдеев Марат Фаикович": 375,
-      "Сафиуллин Фандас Шакирович": 30,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000131378": 34,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 116,
+      "gas:candidate-vibid:1001000289803": 26,
+      "gas:candidate-vibid:1001000121797": 73,
+      "gas:candidate-vibid:1001000225902": 375,
+      "gas:candidate-vibid:1001000187987": 30,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 38,
-      "Брусов Сергей Анатольевич": 44,
-      "Веренцов Александр Петрович": 166,
-      "Гибадуллин Ринат Фаритович": 24,
-      "Казаков Владимир Евгеньевич": 71,
-      "Магдеев Марат Фаикович": 414,
-      "Сафиуллин Фандас Шакирович": 35,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000131378": 38,
+      "gas:candidate-vibid:1001000201800": 44,
+      "gas:candidate-vibid:1001000190290": 166,
+      "gas:candidate-vibid:1001000289803": 24,
+      "gas:candidate-vibid:1001000121797": 71,
+      "gas:candidate-vibid:1001000225902": 414,
+      "gas:candidate-vibid:1001000187987": 35,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 40,
-      "Брусов Сергей Анатольевич": 26,
-      "Веренцов Александр Петрович": 173,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 92,
-      "Магдеев Марат Фаикович": 422,
-      "Сафиуллин Фандас Шакирович": 46,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000131378": 40,
+      "gas:candidate-vibid:1001000201800": 26,
+      "gas:candidate-vibid:1001000190290": 173,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 92,
+      "gas:candidate-vibid:1001000225902": 422,
+      "gas:candidate-vibid:1001000187987": 46,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 25,
-      "Брусов Сергей Анатольевич": 36,
-      "Веренцов Александр Петрович": 152,
-      "Гибадуллин Ринат Фаритович": 29,
-      "Казаков Владимир Евгеньевич": 104,
-      "Магдеев Марат Фаикович": 369,
-      "Сафиуллин Фандас Шакирович": 37,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000131378": 25,
+      "gas:candidate-vibid:1001000201800": 36,
+      "gas:candidate-vibid:1001000190290": 152,
+      "gas:candidate-vibid:1001000289803": 29,
+      "gas:candidate-vibid:1001000121797": 104,
+      "gas:candidate-vibid:1001000225902": 369,
+      "gas:candidate-vibid:1001000187987": 37,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 29,
-      "Брусов Сергей Анатольевич": 35,
-      "Веренцов Александр Петрович": 109,
-      "Гибадуллин Ринат Фаритович": 28,
-      "Казаков Владимир Евгеньевич": 52,
-      "Магдеев Марат Фаикович": 322,
-      "Сафиуллин Фандас Шакирович": 47,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000131378": 29,
+      "gas:candidate-vibid:1001000201800": 35,
+      "gas:candidate-vibid:1001000190290": 109,
+      "gas:candidate-vibid:1001000289803": 28,
+      "gas:candidate-vibid:1001000121797": 52,
+      "gas:candidate-vibid:1001000225902": 322,
+      "gas:candidate-vibid:1001000187987": 47,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 28,
-      "Брусов Сергей Анатольевич": 31,
-      "Веренцов Александр Петрович": 134,
-      "Гибадуллин Ринат Фаритович": 21,
-      "Казаков Владимир Евгеньевич": 64,
-      "Магдеев Марат Фаикович": 365,
-      "Сафиуллин Фандас Шакирович": 45,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131378": 28,
+      "gas:candidate-vibid:1001000201800": 31,
+      "gas:candidate-vibid:1001000190290": 134,
+      "gas:candidate-vibid:1001000289803": 21,
+      "gas:candidate-vibid:1001000121797": 64,
+      "gas:candidate-vibid:1001000225902": 365,
+      "gas:candidate-vibid:1001000187987": 45,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 41,
-      "Брусов Сергей Анатольевич": 46,
-      "Веренцов Александр Петрович": 149,
-      "Гибадуллин Ринат Фаритович": 33,
-      "Казаков Владимир Евгеньевич": 112,
-      "Магдеев Марат Фаикович": 481,
-      "Сафиуллин Фандас Шакирович": 48,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131378": 41,
+      "gas:candidate-vibid:1001000201800": 46,
+      "gas:candidate-vibid:1001000190290": 149,
+      "gas:candidate-vibid:1001000289803": 33,
+      "gas:candidate-vibid:1001000121797": 112,
+      "gas:candidate-vibid:1001000225902": 481,
+      "gas:candidate-vibid:1001000187987": 48,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 40,
-      "Брусов Сергей Анатольевич": 39,
-      "Веренцов Александр Петрович": 111,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 76,
-      "Магдеев Марат Фаикович": 375,
-      "Сафиуллин Фандас Шакирович": 45,
-      "Сафиуллин Хикматулла Гатиятович": 15,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131378": 40,
+      "gas:candidate-vibid:1001000201800": 39,
+      "gas:candidate-vibid:1001000190290": 111,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 76,
+      "gas:candidate-vibid:1001000225902": 375,
+      "gas:candidate-vibid:1001000187987": 45,
+      "gas:candidate-vibid:316300170578": 15,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 34,
-      "Брусов Сергей Анатольевич": 30,
-      "Веренцов Александр Петрович": 101,
-      "Гибадуллин Ринат Фаритович": 22,
-      "Казаков Владимир Евгеньевич": 104,
-      "Магдеев Марат Фаикович": 409,
-      "Сафиуллин Фандас Шакирович": 99,
-      "Сафиуллин Хикматулла Гатиятович": 20,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000131378": 34,
+      "gas:candidate-vibid:1001000201800": 30,
+      "gas:candidate-vibid:1001000190290": 101,
+      "gas:candidate-vibid:1001000289803": 22,
+      "gas:candidate-vibid:1001000121797": 104,
+      "gas:candidate-vibid:1001000225902": 409,
+      "gas:candidate-vibid:1001000187987": 99,
+      "gas:candidate-vibid:316300170578": 20,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 41,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 63,
-      "Гибадуллин Ринат Фаритович": 19,
-      "Казаков Владимир Евгеньевич": 134,
-      "Магдеев Марат Фаикович": 400,
-      "Сафиуллин Фандас Шакирович": 75,
-      "Сафиуллин Хикматулла Гатиятович": 17,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000131378": 41,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 63,
+      "gas:candidate-vibid:1001000289803": 19,
+      "gas:candidate-vibid:1001000121797": 134,
+      "gas:candidate-vibid:1001000225902": 400,
+      "gas:candidate-vibid:1001000187987": 75,
+      "gas:candidate-vibid:316300170578": 17,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 44,
-      "Брусов Сергей Анатольевич": 46,
-      "Веренцов Александр Петрович": 168,
-      "Гибадуллин Ринат Фаритович": 28,
-      "Казаков Владимир Евгеньевич": 118,
-      "Магдеев Марат Фаикович": 629,
-      "Сафиуллин Фандас Шакирович": 86,
-      "Сафиуллин Хикматулла Гатиятович": 17,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000131378": 44,
+      "gas:candidate-vibid:1001000201800": 46,
+      "gas:candidate-vibid:1001000190290": 168,
+      "gas:candidate-vibid:1001000289803": 28,
+      "gas:candidate-vibid:1001000121797": 118,
+      "gas:candidate-vibid:1001000225902": 629,
+      "gas:candidate-vibid:1001000187987": 86,
+      "gas:candidate-vibid:316300170578": 17,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 51,
-      "Брусов Сергей Анатольевич": 48,
-      "Веренцов Александр Петрович": 188,
-      "Гибадуллин Ринат Фаритович": 24,
-      "Казаков Владимир Евгеньевич": 111,
-      "Магдеев Марат Фаикович": 418,
-      "Сафиуллин Фандас Шакирович": 59,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000131378": 51,
+      "gas:candidate-vibid:1001000201800": 48,
+      "gas:candidate-vibid:1001000190290": 188,
+      "gas:candidate-vibid:1001000289803": 24,
+      "gas:candidate-vibid:1001000121797": 111,
+      "gas:candidate-vibid:1001000225902": 418,
+      "gas:candidate-vibid:1001000187987": 59,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 48,
-      "Брусов Сергей Анатольевич": 23,
-      "Веренцов Александр Петрович": 221,
-      "Гибадуллин Ринат Фаритович": 28,
-      "Казаков Владимир Евгеньевич": 76,
-      "Магдеев Марат Фаикович": 372,
-      "Сафиуллин Фандас Шакирович": 43,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131378": 48,
+      "gas:candidate-vibid:1001000201800": 23,
+      "gas:candidate-vibid:1001000190290": 221,
+      "gas:candidate-vibid:1001000289803": 28,
+      "gas:candidate-vibid:1001000121797": 76,
+      "gas:candidate-vibid:1001000225902": 372,
+      "gas:candidate-vibid:1001000187987": 43,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 31,
-      "Брусов Сергей Анатольевич": 30,
-      "Веренцов Александр Петрович": 179,
-      "Гибадуллин Ринат Фаритович": 24,
-      "Казаков Владимир Евгеньевич": 85,
-      "Магдеев Марат Фаикович": 359,
-      "Сафиуллин Фандас Шакирович": 54,
-      "Сафиуллин Хикматулла Гатиятович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 31,
+      "gas:candidate-vibid:1001000201800": 30,
+      "gas:candidate-vibid:1001000190290": 179,
+      "gas:candidate-vibid:1001000289803": 24,
+      "gas:candidate-vibid:1001000121797": 85,
+      "gas:candidate-vibid:1001000225902": 359,
+      "gas:candidate-vibid:1001000187987": 54,
+      "gas:candidate-vibid:316300170578": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 44,
-      "Брусов Сергей Анатольевич": 48,
-      "Веренцов Александр Петрович": 176,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 91,
-      "Магдеев Марат Фаикович": 392,
-      "Сафиуллин Фандас Шакирович": 67,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000131378": 44,
+      "gas:candidate-vibid:1001000201800": 48,
+      "gas:candidate-vibid:1001000190290": 176,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 91,
+      "gas:candidate-vibid:1001000225902": 392,
+      "gas:candidate-vibid:1001000187987": 67,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 32,
-      "Брусов Сергей Анатольевич": 35,
-      "Веренцов Александр Петрович": 173,
-      "Гибадуллин Ринат Фаритович": 34,
-      "Казаков Владимир Евгеньевич": 86,
-      "Магдеев Марат Фаикович": 412,
-      "Сафиуллин Фандас Шакирович": 45,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000131378": 32,
+      "gas:candidate-vibid:1001000201800": 35,
+      "gas:candidate-vibid:1001000190290": 173,
+      "gas:candidate-vibid:1001000289803": 34,
+      "gas:candidate-vibid:1001000121797": 86,
+      "gas:candidate-vibid:1001000225902": 412,
+      "gas:candidate-vibid:1001000187987": 45,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 50,
-      "Брусов Сергей Анатольевич": 32,
-      "Веренцов Александр Петрович": 129,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 85,
-      "Магдеев Марат Фаикович": 282,
-      "Сафиуллин Фандас Шакирович": 35,
-      "Сафиуллин Хикматулла Гатиятович": 11,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131378": 50,
+      "gas:candidate-vibid:1001000201800": 32,
+      "gas:candidate-vibid:1001000190290": 129,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 85,
+      "gas:candidate-vibid:1001000225902": 282,
+      "gas:candidate-vibid:1001000187987": 35,
+      "gas:candidate-vibid:316300170578": 11,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 36,
-      "Брусов Сергей Анатольевич": 26,
-      "Веренцов Александр Петрович": 138,
-      "Гибадуллин Ринат Фаритович": 19,
-      "Казаков Владимир Евгеньевич": 58,
-      "Магдеев Марат Фаикович": 358,
-      "Сафиуллин Фандас Шакирович": 26,
-      "Сафиуллин Хикматулла Гатиятович": 13,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000131378": 36,
+      "gas:candidate-vibid:1001000201800": 26,
+      "gas:candidate-vibid:1001000190290": 138,
+      "gas:candidate-vibid:1001000289803": 19,
+      "gas:candidate-vibid:1001000121797": 58,
+      "gas:candidate-vibid:1001000225902": 358,
+      "gas:candidate-vibid:1001000187987": 26,
+      "gas:candidate-vibid:316300170578": 13,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 52,
-      "Брусов Сергей Анатольевич": 47,
-      "Веренцов Александр Петрович": 188,
-      "Гибадуллин Ринат Фаритович": 37,
-      "Казаков Владимир Евгеньевич": 135,
-      "Магдеев Марат Фаикович": 492,
-      "Сафиуллин Фандас Шакирович": 57,
-      "Сафиуллин Хикматулла Гатиятович": 17,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000131378": 52,
+      "gas:candidate-vibid:1001000201800": 47,
+      "gas:candidate-vibid:1001000190290": 188,
+      "gas:candidate-vibid:1001000289803": 37,
+      "gas:candidate-vibid:1001000121797": 135,
+      "gas:candidate-vibid:1001000225902": 492,
+      "gas:candidate-vibid:1001000187987": 57,
+      "gas:candidate-vibid:316300170578": 17,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 42,
-      "Брусов Сергей Анатольевич": 57,
-      "Веренцов Александр Петрович": 201,
-      "Гибадуллин Ринат Фаритович": 39,
-      "Казаков Владимир Евгеньевич": 104,
-      "Магдеев Марат Фаикович": 465,
-      "Сафиуллин Фандас Шакирович": 41,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000131378": 42,
+      "gas:candidate-vibid:1001000201800": 57,
+      "gas:candidate-vibid:1001000190290": 201,
+      "gas:candidate-vibid:1001000289803": 39,
+      "gas:candidate-vibid:1001000121797": 104,
+      "gas:candidate-vibid:1001000225902": 465,
+      "gas:candidate-vibid:1001000187987": 41,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 20,
-      "Брусов Сергей Анатольевич": 33,
-      "Веренцов Александр Петрович": 77,
-      "Гибадуллин Ринат Фаритович": 16,
-      "Казаков Владимир Евгеньевич": 50,
-      "Магдеев Марат Фаикович": 356,
-      "Сафиуллин Фандас Шакирович": 36,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000131378": 20,
+      "gas:candidate-vibid:1001000201800": 33,
+      "gas:candidate-vibid:1001000190290": 77,
+      "gas:candidate-vibid:1001000289803": 16,
+      "gas:candidate-vibid:1001000121797": 50,
+      "gas:candidate-vibid:1001000225902": 356,
+      "gas:candidate-vibid:1001000187987": 36,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 41,
-      "Брусов Сергей Анатольевич": 59,
-      "Веренцов Александр Петрович": 151,
-      "Гибадуллин Ринат Фаритович": 33,
-      "Казаков Владимир Евгеньевич": 74,
-      "Магдеев Марат Фаикович": 469,
-      "Сафиуллин Фандас Шакирович": 54,
-      "Сафиуллин Хикматулла Гатиятович": 15,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131378": 41,
+      "gas:candidate-vibid:1001000201800": 59,
+      "gas:candidate-vibid:1001000190290": 151,
+      "gas:candidate-vibid:1001000289803": 33,
+      "gas:candidate-vibid:1001000121797": 74,
+      "gas:candidate-vibid:1001000225902": 469,
+      "gas:candidate-vibid:1001000187987": 54,
+      "gas:candidate-vibid:316300170578": 15,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 72,
-      "Брусов Сергей Анатольевич": 80,
-      "Веренцов Александр Петрович": 242,
-      "Гибадуллин Ринат Фаритович": 53,
-      "Казаков Владимир Евгеньевич": 160,
-      "Магдеев Марат Фаикович": 719,
-      "Сафиуллин Фандас Шакирович": 82,
-      "Сафиуллин Хикматулла Гатиятович": 20,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000131378": 72,
+      "gas:candidate-vibid:1001000201800": 80,
+      "gas:candidate-vibid:1001000190290": 242,
+      "gas:candidate-vibid:1001000289803": 53,
+      "gas:candidate-vibid:1001000121797": 160,
+      "gas:candidate-vibid:1001000225902": 719,
+      "gas:candidate-vibid:1001000187987": 82,
+      "gas:candidate-vibid:316300170578": 20,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 50,
-      "Брусов Сергей Анатольевич": 51,
-      "Веренцов Александр Петрович": 200,
-      "Гибадуллин Ринат Фаритович": 53,
-      "Казаков Владимир Евгеньевич": 126,
-      "Магдеев Марат Фаикович": 629,
-      "Сафиуллин Фандас Шакирович": 57,
-      "Сафиуллин Хикматулла Гатиятович": 13,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000131378": 50,
+      "gas:candidate-vibid:1001000201800": 51,
+      "gas:candidate-vibid:1001000190290": 200,
+      "gas:candidate-vibid:1001000289803": 53,
+      "gas:candidate-vibid:1001000121797": 126,
+      "gas:candidate-vibid:1001000225902": 629,
+      "gas:candidate-vibid:1001000187987": 57,
+      "gas:candidate-vibid:316300170578": 13,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 42,
-      "Брусов Сергей Анатольевич": 41,
-      "Веренцов Александр Петрович": 200,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 78,
-      "Магдеев Марат Фаикович": 417,
-      "Сафиуллин Фандас Шакирович": 62,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000131378": 42,
+      "gas:candidate-vibid:1001000201800": 41,
+      "gas:candidate-vibid:1001000190290": 200,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 78,
+      "gas:candidate-vibid:1001000225902": 417,
+      "gas:candidate-vibid:1001000187987": 62,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 168,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 168,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 11,
-      "Веренцов Александр Петрович": 46,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 37,
-      "Магдеев Марат Фаикович": 176,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 11,
+      "gas:candidate-vibid:1001000190290": 46,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 37,
+      "gas:candidate-vibid:1001000225902": 176,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171244&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 15,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 9,
-      "Магдеев Марат Фаикович": 105,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 15,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 9,
+      "gas:candidate-vibid:1001000225902": 105,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 12,
-      "Брусов Сергей Анатольевич": 11,
-      "Веренцов Александр Петрович": 25,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 32,
-      "Магдеев Марат Фаикович": 264,
-      "Сафиуллин Фандас Шакирович": 18,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131378": 12,
+      "gas:candidate-vibid:1001000201800": 11,
+      "gas:candidate-vibid:1001000190290": 25,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 32,
+      "gas:candidate-vibid:1001000225902": 264,
+      "gas:candidate-vibid:1001000187987": 18,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 39,
-      "Брусов Сергей Анатольевич": 15,
-      "Веренцов Александр Петрович": 65,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 65,
-      "Магдеев Марат Фаикович": 344,
-      "Сафиуллин Фандас Шакирович": 44,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000131378": 39,
+      "gas:candidate-vibid:1001000201800": 15,
+      "gas:candidate-vibid:1001000190290": 65,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 65,
+      "gas:candidate-vibid:1001000225902": 344,
+      "gas:candidate-vibid:1001000187987": 44,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 5,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 8,
-      "Магдеев Марат Фаикович": 137,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 5,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 8,
+      "gas:candidate-vibid:1001000225902": 137,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 21,
-      "Брусов Сергей Анатольевич": 11,
-      "Веренцов Александр Петрович": 51,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 25,
-      "Магдеев Марат Фаикович": 287,
-      "Сафиуллин Фандас Шакирович": 25,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131378": 21,
+      "gas:candidate-vibid:1001000201800": 11,
+      "gas:candidate-vibid:1001000190290": 51,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 25,
+      "gas:candidate-vibid:1001000225902": 287,
+      "gas:candidate-vibid:1001000187987": 25,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 19,
-      "Брусов Сергей Анатольевич": 20,
-      "Веренцов Александр Петрович": 57,
-      "Гибадуллин Ринат Фаритович": 22,
-      "Казаков Владимир Евгеньевич": 45,
-      "Магдеев Марат Фаикович": 380,
-      "Сафиуллин Фандас Шакирович": 23,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000131378": 19,
+      "gas:candidate-vibid:1001000201800": 20,
+      "gas:candidate-vibid:1001000190290": 57,
+      "gas:candidate-vibid:1001000289803": 22,
+      "gas:candidate-vibid:1001000121797": 45,
+      "gas:candidate-vibid:1001000225902": 380,
+      "gas:candidate-vibid:1001000187987": 23,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 7,
-      "Веренцов Александр Петрович": 11,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 20,
-      "Магдеев Марат Фаикович": 89,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 7,
+      "gas:candidate-vibid:1001000190290": 11,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 20,
+      "gas:candidate-vibid:1001000225902": 89,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 9,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 21,
-      "Гибадуллин Ринат Фаритович": 9,
-      "Казаков Владимир Евгеньевич": 23,
-      "Магдеев Марат Фаикович": 289,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131378": 9,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 21,
+      "gas:candidate-vibid:1001000289803": 9,
+      "gas:candidate-vibid:1001000121797": 23,
+      "gas:candidate-vibid:1001000225902": 289,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 26,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 32,
-      "Магдеев Марат Фаикович": 213,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 9,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 26,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 32,
+      "gas:candidate-vibid:1001000225902": 213,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 9,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 12,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 10,
-      "Магдеев Марат Фаикович": 110,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 12,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 10,
+      "gas:candidate-vibid:1001000225902": 110,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 462,
-      "Сафиуллин Фандас Шакирович": 20,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 462,
+      "gas:candidate-vibid:1001000187987": 20,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 7,
-      "Брусов Сергей Анатольевич": 31,
-      "Веренцов Александр Петрович": 46,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 50,
-      "Магдеев Марат Фаикович": 367,
-      "Сафиуллин Фандас Шакирович": 18,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000131378": 7,
+      "gas:candidate-vibid:1001000201800": 31,
+      "gas:candidate-vibid:1001000190290": 46,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 50,
+      "gas:candidate-vibid:1001000225902": 367,
+      "gas:candidate-vibid:1001000187987": 18,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 8,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 18,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 14,
-      "Магдеев Марат Фаикович": 146,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131378": 8,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 18,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 14,
+      "gas:candidate-vibid:1001000225902": 146,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 18,
-      "Веренцов Александр Петрович": 31,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 25,
-      "Магдеев Марат Фаикович": 203,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 18,
+      "gas:candidate-vibid:1001000190290": 31,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 25,
+      "gas:candidate-vibid:1001000225902": 203,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 12,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 28,
-      "Гибадуллин Ринат Фаритович": 10,
-      "Казаков Владимир Евгеньевич": 16,
-      "Магдеев Марат Фаикович": 379,
-      "Сафиуллин Фандас Шакирович": 9,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131378": 12,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 28,
+      "gas:candidate-vibid:1001000289803": 10,
+      "gas:candidate-vibid:1001000121797": 16,
+      "gas:candidate-vibid:1001000225902": 379,
+      "gas:candidate-vibid:1001000187987": 9,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 13,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 20,
-      "Магдеев Марат Фаикович": 190,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 13,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 20,
+      "gas:candidate-vibid:1001000225902": 190,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_16_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 97,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 97,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",

@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 21,
-      "Завальный Павел Николаевич": 134,
-      "Ирдуганова Татьяна Александровна": 24,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 54,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 39,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 21,
+      "gas:candidate-vibid:2862000591935": 134,
+      "gas:candidate-vibid:2862000591284": 24,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 54,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 39,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 37,
-      "Завальный Павел Николаевич": 196,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 97,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 37,
+      "gas:candidate-vibid:2862000591935": 196,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 97,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 38,
-      "Завальный Павел Николаевич": 203,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 111,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 41,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 38,
+      "gas:candidate-vibid:2862000591935": 203,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 111,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 41,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 26,
-      "Завальный Павел Николаевич": 190,
-      "Ирдуганова Татьяна Александровна": 27,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 83,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 35,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 26,
+      "gas:candidate-vibid:2862000591935": 190,
+      "gas:candidate-vibid:2862000591284": 27,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 83,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 35,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 119,
-      "Ирдуганова Татьяна Александровна": 18,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 48,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 119,
+      "gas:candidate-vibid:2862000591284": 18,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 48,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 63,
-      "Завальный Павел Николаевич": 221,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 93,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 36
+      "gas:candidate-vibid:2862000590606": 63,
+      "gas:candidate-vibid:2862000591935": 221,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 93,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 61,
-      "Завальный Павел Николаевич": 230,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 96,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 40,
-      "Столяров Гарри Иванович": 35
+      "gas:candidate-vibid:2862000590606": 61,
+      "gas:candidate-vibid:2862000591935": 230,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 96,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 40,
+      "gas:candidate-vibid:2862000629135": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 202,
-      "Ирдуганова Татьяна Александровна": 39,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 105,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 202,
+      "gas:candidate-vibid:2862000591284": 39,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 105,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 254,
-      "Ирдуганова Татьяна Александровна": 64,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 88,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 50,
-      "Столяров Гарри Иванович": 43
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 254,
+      "gas:candidate-vibid:2862000591284": 64,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 88,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 50,
+      "gas:candidate-vibid:2862000629135": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 60,
-      "Завальный Павел Николаевич": 224,
-      "Ирдуганова Татьяна Александровна": 37,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 90,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 60,
+      "gas:candidate-vibid:2862000591935": 224,
+      "gas:candidate-vibid:2862000591284": 37,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 90,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 202,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 110,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 56,
-      "Столяров Гарри Иванович": 35
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 202,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 110,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 56,
+      "gas:candidate-vibid:2862000629135": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 252,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 102,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 252,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 102,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 65,
-      "Завальный Павел Николаевич": 199,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 107,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 39,
-      "Столяров Гарри Иванович": 31
+      "gas:candidate-vibid:2862000590606": 65,
+      "gas:candidate-vibid:2862000591935": 199,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 107,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 39,
+      "gas:candidate-vibid:2862000629135": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 55,
-      "Завальный Павел Николаевич": 250,
-      "Ирдуганова Татьяна Александровна": 47,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 116,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 70,
-      "Столяров Гарри Иванович": 45
+      "gas:candidate-vibid:2862000590606": 55,
+      "gas:candidate-vibid:2862000591935": 250,
+      "gas:candidate-vibid:2862000591284": 47,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 116,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 70,
+      "gas:candidate-vibid:2862000629135": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 232,
-      "Ирдуганова Татьяна Александровна": 53,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 122,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 35
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 232,
+      "gas:candidate-vibid:2862000591284": 53,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 122,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 56,
-      "Завальный Павел Николаевич": 251,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 111,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 31
+      "gas:candidate-vibid:2862000590606": 56,
+      "gas:candidate-vibid:2862000591935": 251,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 111,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 54,
-      "Завальный Павел Николаевич": 246,
-      "Ирдуганова Татьяна Александровна": 47,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 90,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 54,
+      "gas:candidate-vibid:2862000591935": 246,
+      "gas:candidate-vibid:2862000591284": 47,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 90,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 44,
-      "Завальный Павел Николаевич": 240,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 107,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 33,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 44,
+      "gas:candidate-vibid:2862000591935": 240,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 107,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 33,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 47,
-      "Завальный Павел Николаевич": 199,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 111,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 51,
-      "Столяров Гарри Иванович": 40
+      "gas:candidate-vibid:2862000590606": 47,
+      "gas:candidate-vibid:2862000591935": 199,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 111,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 51,
+      "gas:candidate-vibid:2862000629135": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 63,
-      "Завальный Павел Николаевич": 257,
-      "Ирдуганова Татьяна Александровна": 66,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 129,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 43
+      "gas:candidate-vibid:2862000590606": 63,
+      "gas:candidate-vibid:2862000591935": 257,
+      "gas:candidate-vibid:2862000591284": 66,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 129,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 200,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 71,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 39,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 200,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 71,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 39,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 227,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 112,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 62,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 227,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 112,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 62,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 49,
-      "Завальный Павел Николаевич": 208,
-      "Ирдуганова Татьяна Александровна": 47,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 116,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 29
+      "gas:candidate-vibid:2862000590606": 49,
+      "gas:candidate-vibid:2862000591935": 208,
+      "gas:candidate-vibid:2862000591284": 47,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 116,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 40,
-      "Завальный Павел Николаевич": 232,
-      "Ирдуганова Татьяна Александровна": 36,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 118,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 32
+      "gas:candidate-vibid:2862000590606": 40,
+      "gas:candidate-vibid:2862000591935": 232,
+      "gas:candidate-vibid:2862000591284": 36,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 118,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 247,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 130,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 41,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 247,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 130,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 41,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 15,
-      "Завальный Павел Николаевич": 200,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 13,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 3,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 15,
+      "gas:candidate-vibid:2862000591935": 200,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 13,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 3,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 17,
-      "Завальный Павел Николаевич": 453,
-      "Ирдуганова Татьяна Александровна": 12,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 78,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 17,
+      "gas:candidate-vibid:2862000591935": 453,
+      "gas:candidate-vibid:2862000591284": 12,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 78,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 923,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 21,
-      "Марков Евгений Владимирович": 108,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 42,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 923,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 21,
+      "gas:candidate-vibid:2862000581356": 108,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 42,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 61,
-      "Завальный Павел Николаевич": 986,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 82,
-      "Марков Евгений Владимирович": 58,
-      "Ровин Олег Юрьевич": 73,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 47
+      "gas:candidate-vibid:2862000590606": 61,
+      "gas:candidate-vibid:2862000591935": 986,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 82,
+      "gas:candidate-vibid:2862000581356": 58,
+      "gas:candidate-vibid:2862000632859": 73,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 33,
-      "Завальный Павел Николаевич": 1160,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 220,
-      "Ровин Олег Юрьевич": 41,
-      "Савинцев Алексей Владимирович": 121,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 33,
+      "gas:candidate-vibid:2862000591935": 1160,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 220,
+      "gas:candidate-vibid:2862000632859": 41,
+      "gas:candidate-vibid:2862000629163": 121,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 63,
-      "Завальный Павел Николаевич": 1326,
-      "Ирдуганова Татьяна Александровна": 96,
-      "Ломакин Александр Николаевич": 41,
-      "Марков Евгений Владимирович": 213,
-      "Ровин Олег Юрьевич": 21,
-      "Савинцев Алексей Владимирович": 76,
-      "Столяров Гарри Иванович": 51
+      "gas:candidate-vibid:2862000590606": 63,
+      "gas:candidate-vibid:2862000591935": 1326,
+      "gas:candidate-vibid:2862000591284": 96,
+      "gas:candidate-vibid:2862000631936": 41,
+      "gas:candidate-vibid:2862000581356": 213,
+      "gas:candidate-vibid:2862000632859": 21,
+      "gas:candidate-vibid:2862000629163": 76,
+      "gas:candidate-vibid:2862000629135": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 35,
-      "Завальный Павел Николаевич": 731,
-      "Ирдуганова Татьяна Александровна": 40,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 94,
-      "Ровин Олег Юрьевич": 25,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 57
+      "gas:candidate-vibid:2862000590606": 35,
+      "gas:candidate-vibid:2862000591935": 731,
+      "gas:candidate-vibid:2862000591284": 40,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 94,
+      "gas:candidate-vibid:2862000632859": 25,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 32,
-      "Завальный Павел Николаевич": 1057,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 68,
-      "Марков Евгений Владимирович": 101,
-      "Ровин Олег Юрьевич": 58,
-      "Савинцев Алексей Владимирович": 116,
-      "Столяров Гарри Иванович": 65
+      "gas:candidate-vibid:2862000590606": 32,
+      "gas:candidate-vibid:2862000591935": 1057,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 68,
+      "gas:candidate-vibid:2862000581356": 101,
+      "gas:candidate-vibid:2862000632859": 58,
+      "gas:candidate-vibid:2862000629163": 116,
+      "gas:candidate-vibid:2862000629135": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 1445,
-      "Ирдуганова Татьяна Александровна": 24,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 45,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 1445,
+      "gas:candidate-vibid:2862000591284": 24,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 45,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 20,
-      "Завальный Павел Николаевич": 759,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 101,
-      "Ровин Олег Юрьевич": 25,
-      "Савинцев Алексей Владимирович": 71,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 20,
+      "gas:candidate-vibid:2862000591935": 759,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 101,
+      "gas:candidate-vibid:2862000632859": 25,
+      "gas:candidate-vibid:2862000629163": 71,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 25,
-      "Завальный Павел Николаевич": 368,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 20,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 22,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 25,
+      "gas:candidate-vibid:2862000591935": 368,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 20,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 22,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 30,
-      "Завальный Павел Николаевич": 719,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 58,
-      "Марков Евгений Владимирович": 14,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 143
+      "gas:candidate-vibid:2862000590606": 30,
+      "gas:candidate-vibid:2862000591935": 719,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 58,
+      "gas:candidate-vibid:2862000581356": 14,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 2,
-      "Завальный Павел Николаевич": 210,
-      "Ирдуганова Татьяна Александровна": 0,
-      "Ломакин Александр Николаевич": 0,
-      "Марков Евгений Владимирович": 0,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 2,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 2,
+      "gas:candidate-vibid:2862000591935": 210,
+      "gas:candidate-vibid:2862000591284": 0,
+      "gas:candidate-vibid:2862000631936": 0,
+      "gas:candidate-vibid:2862000581356": 0,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 2,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 3,
-      "Завальный Павел Николаевич": 221,
-      "Ирдуганова Татьяна Александровна": 1,
-      "Ломакин Александр Николаевич": 1,
-      "Марков Евгений Владимирович": 1,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 1,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 3,
+      "gas:candidate-vibid:2862000591935": 221,
+      "gas:candidate-vibid:2862000591284": 1,
+      "gas:candidate-vibid:2862000631936": 1,
+      "gas:candidate-vibid:2862000581356": 1,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 1,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 0,
-      "Завальный Павел Николаевич": 698,
-      "Ирдуганова Татьяна Александровна": 0,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 77,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 0,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 0,
+      "gas:candidate-vibid:2862000591935": 698,
+      "gas:candidate-vibid:2862000591284": 0,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 77,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 0,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 16,
-      "Завальный Павел Николаевич": 680,
-      "Ирдуганова Татьяна Александровна": 22,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 84,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 25,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 16,
+      "gas:candidate-vibid:2862000591935": 680,
+      "gas:candidate-vibid:2862000591284": 22,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 84,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 25,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 1,
-      "Завальный Павел Николаевич": 58,
-      "Ирдуганова Татьяна Александровна": 3,
-      "Ломакин Александр Николаевич": 0,
-      "Марков Евгений Владимирович": 2,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 2
+      "gas:candidate-vibid:2862000590606": 1,
+      "gas:candidate-vibid:2862000591935": 58,
+      "gas:candidate-vibid:2862000591284": 3,
+      "gas:candidate-vibid:2862000631936": 0,
+      "gas:candidate-vibid:2862000581356": 2,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 40,
-      "Завальный Павел Николаевич": 639,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 34,
-      "Марков Евгений Владимирович": 63,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 28,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 40,
+      "gas:candidate-vibid:2862000591935": 639,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 34,
+      "gas:candidate-vibid:2862000581356": 63,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 28,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 109,
-      "Завальный Павел Николаевич": 1226,
-      "Ирдуганова Татьяна Александровна": 79,
-      "Ломакин Александр Николаевич": 32,
-      "Марков Евгений Владимирович": 161,
-      "Ровин Олег Юрьевич": 29,
-      "Савинцев Алексей Владимирович": 69,
-      "Столяров Гарри Иванович": 48
+      "gas:candidate-vibid:2862000590606": 109,
+      "gas:candidate-vibid:2862000591935": 1226,
+      "gas:candidate-vibid:2862000591284": 79,
+      "gas:candidate-vibid:2862000631936": 32,
+      "gas:candidate-vibid:2862000581356": 161,
+      "gas:candidate-vibid:2862000632859": 29,
+      "gas:candidate-vibid:2862000629163": 69,
+      "gas:candidate-vibid:2862000629135": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 661,
-      "Ирдуганова Татьяна Александровна": 42,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 105,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 31,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 661,
+      "gas:candidate-vibid:2862000591284": 42,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 105,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 31,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 24,
-      "Завальный Павел Николаевич": 1053,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 124,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 23,
-      "Столяров Гарри Иванович": 165
+      "gas:candidate-vibid:2862000590606": 24,
+      "gas:candidate-vibid:2862000591935": 1053,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 124,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 23,
+      "gas:candidate-vibid:2862000629135": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 1244,
-      "Ирдуганова Татьяна Александровна": 26,
-      "Ломакин Александр Николаевич": 48,
-      "Марков Евгений Владимирович": 13,
-      "Ровин Олег Юрьевич": 67,
-      "Савинцев Алексей Владимирович": 52,
-      "Столяров Гарри Иванович": 253
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 1244,
+      "gas:candidate-vibid:2862000591284": 26,
+      "gas:candidate-vibid:2862000631936": 48,
+      "gas:candidate-vibid:2862000581356": 13,
+      "gas:candidate-vibid:2862000632859": 67,
+      "gas:candidate-vibid:2862000629163": 52,
+      "gas:candidate-vibid:2862000629135": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 105,
-      "Ирдуганова Татьяна Александровна": 10,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 25,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 105,
+      "gas:candidate-vibid:2862000591284": 10,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 25,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 449,
-      "Ирдуганова Татьяна Александровна": 28,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 63,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 9,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 449,
+      "gas:candidate-vibid:2862000591284": 28,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 63,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 9,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 1,
-      "Завальный Павел Николаевич": 490,
-      "Ирдуганова Татьяна Александровна": 1,
-      "Ломакин Александр Николаевич": 2,
-      "Марков Евгений Владимирович": 24,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 1,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 1,
+      "gas:candidate-vibid:2862000591935": 490,
+      "gas:candidate-vibid:2862000591284": 1,
+      "gas:candidate-vibid:2862000631936": 2,
+      "gas:candidate-vibid:2862000581356": 24,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 1,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501587&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501587&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 7,
-      "Завальный Павел Николаевич": 71,
-      "Ирдуганова Татьяна Александровна": 10,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 29,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 7,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 7,
+      "gas:candidate-vibid:2862000591935": 71,
+      "gas:candidate-vibid:2862000591284": 10,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 29,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 7,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 58,
-      "Ирдуганова Татьяна Александровна": 11,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 24,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 58,
+      "gas:candidate-vibid:2862000591284": 11,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 24,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 37,
-      "Завальный Павел Николаевич": 215,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 40,
-      "Марков Евгений Владимирович": 165,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 71,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 37,
+      "gas:candidate-vibid:2862000591935": 215,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 40,
+      "gas:candidate-vibid:2862000581356": 165,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 71,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 194,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 37,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 6
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 194,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 37,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 27,
-      "Завальный Павел Николаевич": 286,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 143,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 27,
+      "gas:candidate-vibid:2862000591935": 286,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 143,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 297,
-      "Ирдуганова Татьяна Александровна": 30,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 166,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 297,
+      "gas:candidate-vibid:2862000591284": 30,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 166,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 8,
-      "Завальный Павел Николаевич": 108,
-      "Ирдуганова Татьяна Александровна": 6,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 53,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 15,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 8,
+      "gas:candidate-vibid:2862000591935": 108,
+      "gas:candidate-vibid:2862000591284": 6,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 53,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 15,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 5,
-      "Завальный Павел Николаевич": 74,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 55,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 30,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 5,
+      "gas:candidate-vibid:2862000591935": 74,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 55,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 30,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 24,
-      "Завальный Павел Николаевич": 285,
-      "Ирдуганова Татьяна Александровна": 36,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 228,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 60,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 24,
+      "gas:candidate-vibid:2862000591935": 285,
+      "gas:candidate-vibid:2862000591284": 36,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 228,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 60,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 44,
-      "Завальный Павел Николаевич": 380,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 32,
-      "Марков Евгений Владимирович": 274,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 84,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 44,
+      "gas:candidate-vibid:2862000591935": 380,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 32,
+      "gas:candidate-vibid:2862000581356": 274,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 84,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 37,
-      "Завальный Павел Николаевич": 311,
-      "Ирдуганова Татьяна Александровна": 47,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 264,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 68,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 37,
+      "gas:candidate-vibid:2862000591935": 311,
+      "gas:candidate-vibid:2862000591284": 47,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 264,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 68,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 45,
-      "Завальный Павел Николаевич": 256,
-      "Ирдуганова Татьяна Александровна": 37,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 221,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 69,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 45,
+      "gas:candidate-vibid:2862000591935": 256,
+      "gas:candidate-vibid:2862000591284": 37,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 221,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 69,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 29,
-      "Завальный Павел Николаевич": 283,
-      "Ирдуганова Татьяна Александровна": 28,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 195,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 29,
+      "gas:candidate-vibid:2862000591935": 283,
+      "gas:candidate-vibid:2862000591284": 28,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 195,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 19,
-      "Завальный Павел Николаевич": 119,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 122,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 15,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 19,
+      "gas:candidate-vibid:2862000591935": 119,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 122,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 15,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 248,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 33,
-      "Марков Евгений Владимирович": 263,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 63,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 248,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 33,
+      "gas:candidate-vibid:2862000581356": 263,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 63,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 33,
-      "Завальный Павел Николаевич": 265,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 37,
-      "Марков Евгений Владимирович": 287,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 79,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 33,
+      "gas:candidate-vibid:2862000591935": 265,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 37,
+      "gas:candidate-vibid:2862000581356": 287,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 79,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 180,
-      "Ирдуганова Татьяна Александровна": 25,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 127,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 40,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 180,
+      "gas:candidate-vibid:2862000591284": 25,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 127,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 40,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 227,
-      "Ирдуганова Татьяна Александровна": 28,
-      "Ломакин Александр Николаевич": 46,
-      "Марков Евгений Владимирович": 170,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 227,
+      "gas:candidate-vibid:2862000591284": 28,
+      "gas:candidate-vibid:2862000631936": 46,
+      "gas:candidate-vibid:2862000581356": 170,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 8,
-      "Завальный Павел Николаевич": 160,
-      "Ирдуганова Татьяна Александровна": 22,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 160,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 37,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 8,
+      "gas:candidate-vibid:2862000591935": 160,
+      "gas:candidate-vibid:2862000591284": 22,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 160,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 37,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 11,
-      "Завальный Павел Николаевич": 96,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 116,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 20,
-      "Столяров Гарри Иванович": 5
+      "gas:candidate-vibid:2862000590606": 11,
+      "gas:candidate-vibid:2862000591935": 96,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 116,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 20,
+      "gas:candidate-vibid:2862000629135": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 124,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 93,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 2
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 124,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 93,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 9,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 1,
-      "Марков Евгений Владимирович": 24,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 9,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 1,
+      "gas:candidate-vibid:2862000581356": 24,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 248,
-      "Ирдуганова Татьяна Александровна": 20,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 168,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 21,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 248,
+      "gas:candidate-vibid:2862000591284": 20,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 168,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 21,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 31,
-      "Завальный Павел Николаевич": 265,
-      "Ирдуганова Татьяна Александровна": 35,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 140,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 52,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 31,
+      "gas:candidate-vibid:2862000591935": 265,
+      "gas:candidate-vibid:2862000591284": 35,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 140,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 52,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 10,
-      "Завальный Павел Николаевич": 234,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 119,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 19,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 10,
+      "gas:candidate-vibid:2862000591935": 234,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 119,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 19,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 58,
-      "Ирдуганова Татьяна Александровна": 9,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 46,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 58,
+      "gas:candidate-vibid:2862000591284": 9,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 46,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 117,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 51,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 26,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 117,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 51,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 26,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 15,
-      "Завальный Павел Николаевич": 125,
-      "Ирдуганова Татьяна Александровна": 27,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 62,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 23,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 15,
+      "gas:candidate-vibid:2862000591935": 125,
+      "gas:candidate-vibid:2862000591284": 27,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 62,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 23,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501588&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501588&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 290,
-      "Ирдуганова Татьяна Александровна": 18,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 177,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 42,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 290,
+      "gas:candidate-vibid:2862000591284": 18,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 177,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 42,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 16,
-      "Завальный Павел Николаевич": 245,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 145,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 35,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 16,
+      "gas:candidate-vibid:2862000591935": 245,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 145,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 35,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 84,
-      "Ирдуганова Татьяна Александровна": 8,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 20,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 7,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 84,
+      "gas:candidate-vibid:2862000591284": 8,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 20,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 7,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 10,
-      "Завальный Павел Николаевич": 266,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 83,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 39,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 10,
+      "gas:candidate-vibid:2862000591935": 266,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 83,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 39,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 25,
-      "Завальный Павел Николаевич": 308,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 133,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 25,
+      "gas:candidate-vibid:2862000591935": 308,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 133,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 19,
-      "Завальный Павел Николаевич": 280,
-      "Ирдуганова Татьяна Александровна": 25,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 77,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 38,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 19,
+      "gas:candidate-vibid:2862000591935": 280,
+      "gas:candidate-vibid:2862000591284": 25,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 77,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 38,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 292,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 94,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 292,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 94,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 7,
-      "Завальный Павел Николаевич": 189,
-      "Ирдуганова Татьяна Александровна": 8,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 57,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 20,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 7,
+      "gas:candidate-vibid:2862000591935": 189,
+      "gas:candidate-vibid:2862000591284": 8,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 57,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 20,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 200,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 55,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 30,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 200,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 55,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 30,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 187,
-      "Ирдуганова Татьяна Александровна": 18,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 40,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 17,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 187,
+      "gas:candidate-vibid:2862000591284": 18,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 40,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 17,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 17,
-      "Завальный Павел Николаевич": 187,
-      "Ирдуганова Татьяна Александровна": 6,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 51,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 17,
+      "gas:candidate-vibid:2862000591935": 187,
+      "gas:candidate-vibid:2862000591284": 6,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 51,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 3,
-      "Завальный Павел Николаевич": 148,
-      "Ирдуганова Татьяна Александровна": 11,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 10,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 2
+      "gas:candidate-vibid:2862000590606": 3,
+      "gas:candidate-vibid:2862000591935": 148,
+      "gas:candidate-vibid:2862000591284": 11,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 10,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 555,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 89,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 39,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 555,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 89,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 39,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 15,
-      "Завальный Павел Николаевич": 194,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 26,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 8,
-      "Столяров Гарри Иванович": 6
+      "gas:candidate-vibid:2862000590606": 15,
+      "gas:candidate-vibid:2862000591935": 194,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 26,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 8,
+      "gas:candidate-vibid:2862000629135": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 482,
-      "Ирдуганова Татьяна Александровна": 40,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 106,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 49,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 482,
+      "gas:candidate-vibid:2862000591284": 40,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 106,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 49,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 30,
-      "Завальный Павел Николаевич": 391,
-      "Ирдуганова Татьяна Александровна": 25,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 56,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 36,
-      "Столяров Гарри Иванович": 16
+      "gas:candidate-vibid:2862000590606": 30,
+      "gas:candidate-vibid:2862000591935": 391,
+      "gas:candidate-vibid:2862000591284": 25,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 56,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 36,
+      "gas:candidate-vibid:2862000629135": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 278,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 44,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 27,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 278,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 44,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 27,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 16,
-      "Завальный Павел Николаевич": 321,
-      "Ирдуганова Татьяна Александровна": 22,
-      "Ломакин Александр Николаевич": 34,
-      "Марков Евгений Владимирович": 51,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 20,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 16,
+      "gas:candidate-vibid:2862000591935": 321,
+      "gas:candidate-vibid:2862000591284": 22,
+      "gas:candidate-vibid:2862000631936": 34,
+      "gas:candidate-vibid:2862000581356": 51,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 20,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 253,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 52,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 19,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 253,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 52,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 19,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 179,
-      "Ирдуганова Татьяна Александровна": 11,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 59,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 24,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 179,
+      "gas:candidate-vibid:2862000591284": 11,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 59,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 24,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501589&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501589&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 65,
-      "Завальный Павел Николаевич": 498,
-      "Ирдуганова Татьяна Александровна": 56,
-      "Ломакин Александр Николаевич": 33,
-      "Марков Евгений Владимирович": 133,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 65,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 65,
+      "gas:candidate-vibid:2862000591935": 498,
+      "gas:candidate-vibid:2862000591284": 56,
+      "gas:candidate-vibid:2862000631936": 33,
+      "gas:candidate-vibid:2862000581356": 133,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 65,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 37,
-      "Завальный Павел Николаевич": 447,
-      "Ирдуганова Татьяна Александровна": 37,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 120,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 42,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 37,
+      "gas:candidate-vibid:2862000591935": 447,
+      "gas:candidate-vibid:2862000591284": 37,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 120,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 42,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 482,
-      "Ирдуганова Татьяна Александровна": 36,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 109,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 482,
+      "gas:candidate-vibid:2862000591284": 36,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 109,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 36,
-      "Завальный Павел Николаевич": 586,
-      "Ирдуганова Татьяна Александровна": 35,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 177,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 50,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 36,
+      "gas:candidate-vibid:2862000591935": 586,
+      "gas:candidate-vibid:2862000591284": 35,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 177,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 50,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 45,
-      "Завальный Павел Николаевич": 530,
-      "Ирдуганова Татьяна Александровна": 20,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 104,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 30,
-      "Столяров Гарри Иванович": 16
+      "gas:candidate-vibid:2862000590606": 45,
+      "gas:candidate-vibid:2862000591935": 530,
+      "gas:candidate-vibid:2862000591284": 20,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 104,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 30,
+      "gas:candidate-vibid:2862000629135": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 60,
-      "Завальный Павел Николаевич": 636,
-      "Ирдуганова Татьяна Александровна": 47,
-      "Ломакин Александр Николаевич": 21,
-      "Марков Евгений Владимирович": 149,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 53,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 60,
+      "gas:candidate-vibid:2862000591935": 636,
+      "gas:candidate-vibid:2862000591284": 47,
+      "gas:candidate-vibid:2862000631936": 21,
+      "gas:candidate-vibid:2862000581356": 149,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 53,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 66,
-      "Завальный Павел Николаевич": 539,
-      "Ирдуганова Татьяна Александровна": 31,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 78,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 32,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 66,
+      "gas:candidate-vibid:2862000591935": 539,
+      "gas:candidate-vibid:2862000591284": 31,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 78,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 32,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 612,
-      "Ирдуганова Татьяна Александровна": 30,
-      "Ломакин Александр Николаевич": 34,
-      "Марков Евгений Владимирович": 117,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 35,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 612,
+      "gas:candidate-vibid:2862000591284": 30,
+      "gas:candidate-vibid:2862000631936": 34,
+      "gas:candidate-vibid:2862000581356": 117,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 35,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 57,
-      "Завальный Павел Николаевич": 632,
-      "Ирдуганова Татьяна Александровна": 54,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 135,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 31,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 57,
+      "gas:candidate-vibid:2862000591935": 632,
+      "gas:candidate-vibid:2862000591284": 54,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 135,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 31,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 23,
-      "Завальный Павел Николаевич": 230,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 45,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 13,
-      "Столяров Гарри Иванович": 5
+      "gas:candidate-vibid:2862000590606": 23,
+      "gas:candidate-vibid:2862000591935": 230,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 45,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 13,
+      "gas:candidate-vibid:2862000629135": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 188,
-      "Ирдуганова Татьяна Александровна": 6,
-      "Ломакин Александр Николаевич": 1,
-      "Марков Евгений Владимирович": 22,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 7,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 188,
+      "gas:candidate-vibid:2862000591284": 6,
+      "gas:candidate-vibid:2862000631936": 1,
+      "gas:candidate-vibid:2862000581356": 22,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 7,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 678,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 46,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 20,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 678,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 46,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 20,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 859,
-      "Ирдуганова Татьяна Александровна": 12,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 22,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 12,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 859,
+      "gas:candidate-vibid:2862000591284": 12,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 22,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 12,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 565,
-      "Ирдуганова Татьяна Александровна": 18,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 54,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 24,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 565,
+      "gas:candidate-vibid:2862000591284": 18,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 54,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 24,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 32,
-      "Завальный Павел Николаевич": 645,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 60,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 25,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 32,
+      "gas:candidate-vibid:2862000591935": 645,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 60,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 25,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 660,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 38,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 12,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 660,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 38,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 12,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 28,
-      "Завальный Павел Николаевич": 705,
-      "Ирдуганова Татьяна Александровна": 23,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 27,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 22,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 28,
+      "gas:candidate-vibid:2862000591935": 705,
+      "gas:candidate-vibid:2862000591284": 23,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 27,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 22,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501590&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501590&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 60,
-      "Завальный Павел Николаевич": 337,
-      "Ирдуганова Татьяна Александровна": 65,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 124,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 60,
+      "gas:candidate-vibid:2862000591935": 337,
+      "gas:candidate-vibid:2862000591284": 65,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 124,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 84,
-      "Завальный Павел Николаевич": 279,
-      "Ирдуганова Татьяна Александровна": 81,
-      "Ломакин Александр Николаевич": 41,
-      "Марков Евгений Владимирович": 118,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 56,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 84,
+      "gas:candidate-vibid:2862000591935": 279,
+      "gas:candidate-vibid:2862000591284": 81,
+      "gas:candidate-vibid:2862000631936": 41,
+      "gas:candidate-vibid:2862000581356": 118,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 56,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 63,
-      "Завальный Павел Николаевич": 302,
-      "Ирдуганова Татьяна Александровна": 77,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 139,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 63,
+      "gas:candidate-vibid:2862000591935": 302,
+      "gas:candidate-vibid:2862000591284": 77,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 139,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 64,
-      "Завальный Павел Николаевич": 307,
-      "Ирдуганова Татьяна Александровна": 67,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 154,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 69,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 64,
+      "gas:candidate-vibid:2862000591935": 307,
+      "gas:candidate-vibid:2862000591284": 67,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 154,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 69,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 64,
-      "Завальный Павел Николаевич": 284,
-      "Ирдуганова Татьяна Александровна": 65,
-      "Ломакин Александр Николаевич": 33,
-      "Марков Евгений Владимирович": 132,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 58,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 64,
+      "gas:candidate-vibid:2862000591935": 284,
+      "gas:candidate-vibid:2862000591284": 65,
+      "gas:candidate-vibid:2862000631936": 33,
+      "gas:candidate-vibid:2862000581356": 132,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 58,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 74,
-      "Завальный Павел Николаевич": 322,
-      "Ирдуганова Татьяна Александровна": 92,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 180,
-      "Ровин Олег Юрьевич": 23,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 74,
+      "gas:candidate-vibid:2862000591935": 322,
+      "gas:candidate-vibid:2862000591284": 92,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 180,
+      "gas:candidate-vibid:2862000632859": 23,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 91,
-      "Завальный Павел Николаевич": 448,
-      "Ирдуганова Татьяна Александровна": 110,
-      "Ломакин Александр Николаевич": 31,
-      "Марков Евгений Владимирович": 160,
-      "Ровин Олег Юрьевич": 20,
-      "Савинцев Алексей Владимирович": 70,
-      "Столяров Гарри Иванович": 32
+      "gas:candidate-vibid:2862000590606": 91,
+      "gas:candidate-vibid:2862000591935": 448,
+      "gas:candidate-vibid:2862000591284": 110,
+      "gas:candidate-vibid:2862000631936": 31,
+      "gas:candidate-vibid:2862000581356": 160,
+      "gas:candidate-vibid:2862000632859": 20,
+      "gas:candidate-vibid:2862000629163": 70,
+      "gas:candidate-vibid:2862000629135": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 63,
-      "Завальный Павел Николаевич": 398,
-      "Ирдуганова Татьяна Александровна": 92,
-      "Ломакин Александр Николаевич": 39,
-      "Марков Евгений Владимирович": 157,
-      "Ровин Олег Юрьевич": 25,
-      "Савинцев Алексей Владимирович": 78,
-      "Столяров Гарри Иванович": 37
+      "gas:candidate-vibid:2862000590606": 63,
+      "gas:candidate-vibid:2862000591935": 398,
+      "gas:candidate-vibid:2862000591284": 92,
+      "gas:candidate-vibid:2862000631936": 39,
+      "gas:candidate-vibid:2862000581356": 157,
+      "gas:candidate-vibid:2862000632859": 25,
+      "gas:candidate-vibid:2862000629163": 78,
+      "gas:candidate-vibid:2862000629135": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 65,
-      "Завальный Павел Николаевич": 313,
-      "Ирдуганова Татьяна Александровна": 68,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 133,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 41,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 65,
+      "gas:candidate-vibid:2862000591935": 313,
+      "gas:candidate-vibid:2862000591284": 68,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 133,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 41,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 71,
-      "Завальный Павел Николаевич": 342,
-      "Ирдуганова Татьяна Александровна": 89,
-      "Ломакин Александр Николаевич": 35,
-      "Марков Евгений Владимирович": 164,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 52,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 71,
+      "gas:candidate-vibid:2862000591935": 342,
+      "gas:candidate-vibid:2862000591284": 89,
+      "gas:candidate-vibid:2862000631936": 35,
+      "gas:candidate-vibid:2862000581356": 164,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 52,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 64,
-      "Завальный Павел Николаевич": 294,
-      "Ирдуганова Татьяна Александровна": 80,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 161,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 62,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 64,
+      "gas:candidate-vibid:2862000591935": 294,
+      "gas:candidate-vibid:2862000591284": 80,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 161,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 62,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 60,
-      "Завальный Павел Николаевич": 296,
-      "Ирдуганова Татьяна Александровна": 73,
-      "Ломакин Александр Николаевич": 40,
-      "Марков Евгений Владимирович": 154,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 84,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 60,
+      "gas:candidate-vibid:2862000591935": 296,
+      "gas:candidate-vibid:2862000591284": 73,
+      "gas:candidate-vibid:2862000631936": 40,
+      "gas:candidate-vibid:2862000581356": 154,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 84,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 80,
-      "Завальный Павел Николаевич": 294,
-      "Ирдуганова Татьяна Александровна": 87,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 120,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 63,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 80,
+      "gas:candidate-vibid:2862000591935": 294,
+      "gas:candidate-vibid:2862000591284": 87,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 120,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 63,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 74,
-      "Завальный Павел Николаевич": 249,
-      "Ирдуганова Татьяна Александровна": 91,
-      "Ломакин Александр Николаевич": 37,
-      "Марков Евгений Владимирович": 111,
-      "Ровин Олег Юрьевич": 21,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 74,
+      "gas:candidate-vibid:2862000591935": 249,
+      "gas:candidate-vibid:2862000591284": 91,
+      "gas:candidate-vibid:2862000631936": 37,
+      "gas:candidate-vibid:2862000581356": 111,
+      "gas:candidate-vibid:2862000632859": 21,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 78,
-      "Завальный Павел Николаевич": 291,
-      "Ирдуганова Татьяна Александровна": 69,
-      "Ломакин Александр Николаевич": 21,
-      "Марков Евгений Владимирович": 137,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 35,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 78,
+      "gas:candidate-vibid:2862000591935": 291,
+      "gas:candidate-vibid:2862000591284": 69,
+      "gas:candidate-vibid:2862000631936": 21,
+      "gas:candidate-vibid:2862000581356": 137,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 35,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 85,
-      "Завальный Павел Николаевич": 288,
-      "Ирдуганова Татьяна Александровна": 101,
-      "Ломакин Александр Николаевич": 39,
-      "Марков Евгений Владимирович": 123,
-      "Ровин Олег Юрьевич": 20,
-      "Савинцев Алексей Владимирович": 58,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 85,
+      "gas:candidate-vibid:2862000591935": 288,
+      "gas:candidate-vibid:2862000591284": 101,
+      "gas:candidate-vibid:2862000631936": 39,
+      "gas:candidate-vibid:2862000581356": 123,
+      "gas:candidate-vibid:2862000632859": 20,
+      "gas:candidate-vibid:2862000629163": 58,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 74,
-      "Завальный Павел Николаевич": 405,
-      "Ирдуганова Татьяна Александровна": 68,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 151,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 64,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 74,
+      "gas:candidate-vibid:2862000591935": 405,
+      "gas:candidate-vibid:2862000591284": 68,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 151,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 64,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 68,
-      "Завальный Павел Николаевич": 247,
-      "Ирдуганова Татьяна Александровна": 77,
-      "Ломакин Александр Николаевич": 38,
-      "Марков Евгений Владимирович": 134,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 50,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 68,
+      "gas:candidate-vibid:2862000591935": 247,
+      "gas:candidate-vibid:2862000591284": 77,
+      "gas:candidate-vibid:2862000631936": 38,
+      "gas:candidate-vibid:2862000581356": 134,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 50,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 60,
-      "Завальный Павел Николаевич": 232,
-      "Ирдуганова Татьяна Александровна": 97,
-      "Ломакин Александр Николаевич": 45,
-      "Марков Евгений Владимирович": 129,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 62,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 60,
+      "gas:candidate-vibid:2862000591935": 232,
+      "gas:candidate-vibid:2862000591284": 97,
+      "gas:candidate-vibid:2862000631936": 45,
+      "gas:candidate-vibid:2862000581356": 129,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 62,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 213,
-      "Ирдуганова Татьяна Александровна": 73,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 115,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 213,
+      "gas:candidate-vibid:2862000591284": 73,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 115,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 63,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 42,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 17,
-      "Столяров Гарри Иванович": 2
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 63,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 42,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 17,
+      "gas:candidate-vibid:2862000629135": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 75,
-      "Завальный Павел Николаевич": 256,
-      "Ирдуганова Татьяна Александровна": 96,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 148,
-      "Ровин Олег Юрьевич": 28,
-      "Савинцев Алексей Владимирович": 77,
-      "Столяров Гарри Иванович": 37
+      "gas:candidate-vibid:2862000590606": 75,
+      "gas:candidate-vibid:2862000591935": 256,
+      "gas:candidate-vibid:2862000591284": 96,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 148,
+      "gas:candidate-vibid:2862000632859": 28,
+      "gas:candidate-vibid:2862000629163": 77,
+      "gas:candidate-vibid:2862000629135": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501591&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501591&type=464",
@@ -7989,16 +7989,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 30,
-      "Воробьёв Сергей Витальевич": 4,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 11,
-      "Сердюк Михаил Иванович": 26,
-      "Сидоров Александр Леонидович": 247,
-      "Сысоев Владимир Владимирович": 55,
-      "Тетекин Вячеслав Николаевич": 40,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 30,
+      "gas:candidate-vibid:2862000629190": 4,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 11,
+      "gas:candidate-vibid:2862000631875": 26,
+      "gas:candidate-vibid:2862000629252": 247,
+      "gas:candidate-vibid:2862000581397": 55,
+      "gas:candidate-vibid:2862000590626": 40,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501592&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501592&type=464",
@@ -8049,16 +8049,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 25,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 14,
-      "Сердюк Михаил Иванович": 109,
-      "Сидоров Александр Леонидович": 245,
-      "Сысоев Владимир Владимирович": 51,
-      "Тетекин Вячеслав Николаевич": 46,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 25,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 14,
+      "gas:candidate-vibid:2862000631875": 109,
+      "gas:candidate-vibid:2862000629252": 245,
+      "gas:candidate-vibid:2862000581397": 51,
+      "gas:candidate-vibid:2862000590626": 46,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8109,16 +8109,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 35,
-      "Воробьёв Сергей Витальевич": 19,
-      "Зарипова Айгуль Азватовна": 30,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 27,
-      "Сердюк Михаил Иванович": 119,
-      "Сидоров Александр Леонидович": 405,
-      "Сысоев Владимир Владимирович": 95,
-      "Тетекин Вячеслав Николаевич": 60,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 35,
+      "gas:candidate-vibid:2862000629190": 19,
+      "gas:candidate-vibid:2862000631859": 30,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 27,
+      "gas:candidate-vibid:2862000631875": 119,
+      "gas:candidate-vibid:2862000629252": 405,
+      "gas:candidate-vibid:2862000581397": 95,
+      "gas:candidate-vibid:2862000590626": 60,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8169,16 +8169,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 26,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 29,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 23,
-      "Сердюк Михаил Иванович": 106,
-      "Сидоров Александр Леонидович": 307,
-      "Сысоев Владимир Владимирович": 74,
-      "Тетекин Вячеслав Николаевич": 47,
-      "Титова Светлана Викторовна": 21
+      "gas:candidate-vibid:2862000591273": 26,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 29,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 23,
+      "gas:candidate-vibid:2862000631875": 106,
+      "gas:candidate-vibid:2862000629252": 307,
+      "gas:candidate-vibid:2862000581397": 74,
+      "gas:candidate-vibid:2862000590626": 47,
+      "gas:candidate-vibid:2862000629210": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8229,16 +8229,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 21,
-      "Воробьёв Сергей Витальевич": 18,
-      "Зарипова Айгуль Азватовна": 23,
-      "Зиновьев Владимир Николаевич": 9,
-      "Петерман Александр Анатольевич": 24,
-      "Сердюк Михаил Иванович": 169,
-      "Сидоров Александр Леонидович": 408,
-      "Сысоев Владимир Владимирович": 105,
-      "Тетекин Вячеслав Николаевич": 48,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 21,
+      "gas:candidate-vibid:2862000629190": 18,
+      "gas:candidate-vibid:2862000631859": 23,
+      "gas:candidate-vibid:2862000631832": 9,
+      "gas:candidate-vibid:2862000630018": 24,
+      "gas:candidate-vibid:2862000631875": 169,
+      "gas:candidate-vibid:2862000629252": 408,
+      "gas:candidate-vibid:2862000581397": 105,
+      "gas:candidate-vibid:2862000590626": 48,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8289,16 +8289,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 36,
-      "Воробьёв Сергей Витальевич": 7,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 2,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 95,
-      "Сидоров Александр Леонидович": 284,
-      "Сысоев Владимир Владимирович": 86,
-      "Тетекин Вячеслав Николаевич": 34,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 36,
+      "gas:candidate-vibid:2862000629190": 7,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 2,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 95,
+      "gas:candidate-vibid:2862000629252": 284,
+      "gas:candidate-vibid:2862000581397": 86,
+      "gas:candidate-vibid:2862000590626": 34,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8349,16 +8349,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 34,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 22,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 97,
-      "Сидоров Александр Леонидович": 320,
-      "Сысоев Владимир Владимирович": 83,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 34,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 22,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 97,
+      "gas:candidate-vibid:2862000629252": 320,
+      "gas:candidate-vibid:2862000581397": 83,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8409,16 +8409,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 8,
-      "Сердюк Михаил Иванович": 63,
-      "Сидоров Александр Леонидович": 248,
-      "Сысоев Владимир Владимирович": 60,
-      "Тетекин Вячеслав Николаевич": 29,
-      "Титова Светлана Викторовна": 13
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 8,
+      "gas:candidate-vibid:2862000631875": 63,
+      "gas:candidate-vibid:2862000629252": 248,
+      "gas:candidate-vibid:2862000581397": 60,
+      "gas:candidate-vibid:2862000590626": 29,
+      "gas:candidate-vibid:2862000629210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8469,16 +8469,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 21,
-      "Воробьёв Сергей Витальевич": 19,
-      "Зарипова Айгуль Азватовна": 20,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 103,
-      "Сидоров Александр Леонидович": 339,
-      "Сысоев Владимир Владимирович": 87,
-      "Тетекин Вячеслав Николаевич": 38,
-      "Титова Светлана Викторовна": 27
+      "gas:candidate-vibid:2862000591273": 21,
+      "gas:candidate-vibid:2862000629190": 19,
+      "gas:candidate-vibid:2862000631859": 20,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 103,
+      "gas:candidate-vibid:2862000629252": 339,
+      "gas:candidate-vibid:2862000581397": 87,
+      "gas:candidate-vibid:2862000590626": 38,
+      "gas:candidate-vibid:2862000629210": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8529,16 +8529,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 19,
-      "Воробьёв Сергей Витальевич": 9,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 20,
-      "Сердюк Михаил Иванович": 65,
-      "Сидоров Александр Леонидович": 249,
-      "Сысоев Владимир Владимирович": 62,
-      "Тетекин Вячеслав Николаевич": 18,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 19,
+      "gas:candidate-vibid:2862000629190": 9,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 20,
+      "gas:candidate-vibid:2862000631875": 65,
+      "gas:candidate-vibid:2862000629252": 249,
+      "gas:candidate-vibid:2862000581397": 62,
+      "gas:candidate-vibid:2862000590626": 18,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8589,16 +8589,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 9,
-      "Зарипова Айгуль Азватовна": 31,
-      "Зиновьев Владимир Николаевич": 14,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 97,
-      "Сидоров Александр Леонидович": 364,
-      "Сысоев Владимир Владимирович": 76,
-      "Тетекин Вячеслав Николаевич": 64,
-      "Титова Светлана Викторовна": 25
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 9,
+      "gas:candidate-vibid:2862000631859": 31,
+      "gas:candidate-vibid:2862000631832": 14,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 97,
+      "gas:candidate-vibid:2862000629252": 364,
+      "gas:candidate-vibid:2862000581397": 76,
+      "gas:candidate-vibid:2862000590626": 64,
+      "gas:candidate-vibid:2862000629210": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8649,16 +8649,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 6,
-      "Зарипова Айгуль Азватовна": 21,
-      "Зиновьев Владимир Николаевич": 9,
-      "Петерман Александр Анатольевич": 24,
-      "Сердюк Михаил Иванович": 90,
-      "Сидоров Александр Леонидович": 297,
-      "Сысоев Владимир Владимирович": 88,
-      "Тетекин Вячеслав Николаевич": 35,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 6,
+      "gas:candidate-vibid:2862000631859": 21,
+      "gas:candidate-vibid:2862000631832": 9,
+      "gas:candidate-vibid:2862000630018": 24,
+      "gas:candidate-vibid:2862000631875": 90,
+      "gas:candidate-vibid:2862000629252": 297,
+      "gas:candidate-vibid:2862000581397": 88,
+      "gas:candidate-vibid:2862000590626": 35,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8709,16 +8709,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 21,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 66,
-      "Сидоров Александр Леонидович": 271,
-      "Сысоев Владимир Владимирович": 45,
-      "Тетекин Вячеслав Николаевич": 38,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 21,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 66,
+      "gas:candidate-vibid:2862000629252": 271,
+      "gas:candidate-vibid:2862000581397": 45,
+      "gas:candidate-vibid:2862000590626": 38,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8769,16 +8769,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 19,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 14,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 24,
-      "Сердюк Михаил Иванович": 72,
-      "Сидоров Александр Леонидович": 264,
-      "Сысоев Владимир Владимирович": 65,
-      "Тетекин Вячеслав Николаевич": 33,
-      "Титова Светлана Викторовна": 10
+      "gas:candidate-vibid:2862000591273": 19,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 14,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 24,
+      "gas:candidate-vibid:2862000631875": 72,
+      "gas:candidate-vibid:2862000629252": 264,
+      "gas:candidate-vibid:2862000581397": 65,
+      "gas:candidate-vibid:2862000590626": 33,
+      "gas:candidate-vibid:2862000629210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8829,16 +8829,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 18,
-      "Сердюк Михаил Иванович": 121,
-      "Сидоров Александр Леонидович": 407,
-      "Сысоев Владимир Владимирович": 80,
-      "Тетекин Вячеслав Николаевич": 53,
-      "Титова Светлана Викторовна": 23
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 18,
+      "gas:candidate-vibid:2862000631875": 121,
+      "gas:candidate-vibid:2862000629252": 407,
+      "gas:candidate-vibid:2862000581397": 80,
+      "gas:candidate-vibid:2862000590626": 53,
+      "gas:candidate-vibid:2862000629210": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8889,16 +8889,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 31,
-      "Воробьёв Сергей Витальевич": 17,
-      "Зарипова Айгуль Азватовна": 22,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 18,
-      "Сердюк Михаил Иванович": 70,
-      "Сидоров Александр Леонидович": 209,
-      "Сысоев Владимир Владимирович": 78,
-      "Тетекин Вячеслав Николаевич": 22,
-      "Титова Светлана Викторовна": 7
+      "gas:candidate-vibid:2862000591273": 31,
+      "gas:candidate-vibid:2862000629190": 17,
+      "gas:candidate-vibid:2862000631859": 22,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 18,
+      "gas:candidate-vibid:2862000631875": 70,
+      "gas:candidate-vibid:2862000629252": 209,
+      "gas:candidate-vibid:2862000581397": 78,
+      "gas:candidate-vibid:2862000590626": 22,
+      "gas:candidate-vibid:2862000629210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -8949,16 +8949,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 33,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 29,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 35,
-      "Сердюк Михаил Иванович": 131,
-      "Сидоров Александр Леонидович": 387,
-      "Сысоев Владимир Владимирович": 85,
-      "Тетекин Вячеслав Николаевич": 44,
-      "Титова Светлана Викторовна": 25
+      "gas:candidate-vibid:2862000591273": 33,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 29,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 35,
+      "gas:candidate-vibid:2862000631875": 131,
+      "gas:candidate-vibid:2862000629252": 387,
+      "gas:candidate-vibid:2862000581397": 85,
+      "gas:candidate-vibid:2862000590626": 44,
+      "gas:candidate-vibid:2862000629210": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9009,16 +9009,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 15,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 10,
-      "Сердюк Михаил Иванович": 137,
-      "Сидоров Александр Леонидович": 361,
-      "Сысоев Владимир Владимирович": 87,
-      "Тетекин Вячеслав Николаевич": 39,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 15,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 10,
+      "gas:candidate-vibid:2862000631875": 137,
+      "gas:candidate-vibid:2862000629252": 361,
+      "gas:candidate-vibid:2862000581397": 87,
+      "gas:candidate-vibid:2862000590626": 39,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9069,16 +9069,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 21,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 24,
-      "Сердюк Михаил Иванович": 141,
-      "Сидоров Александр Леонидович": 404,
-      "Сысоев Владимир Владимирович": 77,
-      "Тетекин Вячеслав Николаевич": 49,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 21,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 24,
+      "gas:candidate-vibid:2862000631875": 141,
+      "gas:candidate-vibid:2862000629252": 404,
+      "gas:candidate-vibid:2862000581397": 77,
+      "gas:candidate-vibid:2862000590626": 49,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9129,16 +9129,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 29,
-      "Воробьёв Сергей Витальевич": 18,
-      "Зарипова Айгуль Азватовна": 31,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 28,
-      "Сердюк Михаил Иванович": 154,
-      "Сидоров Александр Леонидович": 400,
-      "Сысоев Владимир Владимирович": 104,
-      "Тетекин Вячеслав Николаевич": 49,
-      "Титова Светлана Викторовна": 23
+      "gas:candidate-vibid:2862000591273": 29,
+      "gas:candidate-vibid:2862000629190": 18,
+      "gas:candidate-vibid:2862000631859": 31,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 28,
+      "gas:candidate-vibid:2862000631875": 154,
+      "gas:candidate-vibid:2862000629252": 400,
+      "gas:candidate-vibid:2862000581397": 104,
+      "gas:candidate-vibid:2862000590626": 49,
+      "gas:candidate-vibid:2862000629210": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9189,16 +9189,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 15,
-      "Воробьёв Сергей Витальевич": 4,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 15,
-      "Сердюк Михаил Иванович": 126,
-      "Сидоров Александр Леонидович": 370,
-      "Сысоев Владимир Владимирович": 82,
-      "Тетекин Вячеслав Николаевич": 45,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 15,
+      "gas:candidate-vibid:2862000629190": 4,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 15,
+      "gas:candidate-vibid:2862000631875": 126,
+      "gas:candidate-vibid:2862000629252": 370,
+      "gas:candidate-vibid:2862000581397": 82,
+      "gas:candidate-vibid:2862000590626": 45,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9249,16 +9249,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 26,
-      "Воробьёв Сергей Витальевич": 17,
-      "Зарипова Айгуль Азватовна": 23,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 23,
-      "Сердюк Михаил Иванович": 125,
-      "Сидоров Александр Леонидович": 357,
-      "Сысоев Владимир Владимирович": 104,
-      "Тетекин Вячеслав Николаевич": 45,
-      "Титова Светлана Викторовна": 33
+      "gas:candidate-vibid:2862000591273": 26,
+      "gas:candidate-vibid:2862000629190": 17,
+      "gas:candidate-vibid:2862000631859": 23,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 23,
+      "gas:candidate-vibid:2862000631875": 125,
+      "gas:candidate-vibid:2862000629252": 357,
+      "gas:candidate-vibid:2862000581397": 104,
+      "gas:candidate-vibid:2862000590626": 45,
+      "gas:candidate-vibid:2862000629210": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9309,16 +9309,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 15,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 16,
-      "Сердюк Михаил Иванович": 73,
-      "Сидоров Александр Леонидович": 293,
-      "Сысоев Владимир Владимирович": 58,
-      "Тетекин Вячеслав Николаевич": 27,
-      "Титова Светлана Викторовна": 10
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 15,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 16,
+      "gas:candidate-vibid:2862000631875": 73,
+      "gas:candidate-vibid:2862000629252": 293,
+      "gas:candidate-vibid:2862000581397": 58,
+      "gas:candidate-vibid:2862000590626": 27,
+      "gas:candidate-vibid:2862000629210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9369,16 +9369,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 20,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 136,
-      "Сидоров Александр Леонидович": 321,
-      "Сысоев Владимир Владимирович": 59,
-      "Тетекин Вячеслав Николаевич": 34,
-      "Титова Светлана Викторовна": 12
+      "gas:candidate-vibid:2862000591273": 20,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 136,
+      "gas:candidate-vibid:2862000629252": 321,
+      "gas:candidate-vibid:2862000581397": 59,
+      "gas:candidate-vibid:2862000590626": 34,
+      "gas:candidate-vibid:2862000629210": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9429,16 +9429,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 21,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 17,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 24,
-      "Сердюк Михаил Иванович": 123,
-      "Сидоров Александр Леонидович": 405,
-      "Сысоев Владимир Владимирович": 86,
-      "Тетекин Вячеслав Николаевич": 58,
-      "Титова Светлана Викторовна": 25
+      "gas:candidate-vibid:2862000591273": 21,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 17,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 24,
+      "gas:candidate-vibid:2862000631875": 123,
+      "gas:candidate-vibid:2862000629252": 405,
+      "gas:candidate-vibid:2862000581397": 86,
+      "gas:candidate-vibid:2862000590626": 58,
+      "gas:candidate-vibid:2862000629210": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9489,16 +9489,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 14,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 12,
-      "Сердюк Михаил Иванович": 100,
-      "Сидоров Александр Леонидович": 334,
-      "Сысоев Владимир Владимирович": 78,
-      "Тетекин Вячеслав Николаевич": 33,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 14,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 12,
+      "gas:candidate-vibid:2862000631875": 100,
+      "gas:candidate-vibid:2862000629252": 334,
+      "gas:candidate-vibid:2862000581397": 78,
+      "gas:candidate-vibid:2862000590626": 33,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9549,16 +9549,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 107,
-      "Сидоров Александр Леонидович": 348,
-      "Сысоев Владимир Владимирович": 73,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 10
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 107,
+      "gas:candidate-vibid:2862000629252": 348,
+      "gas:candidate-vibid:2862000581397": 73,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9609,16 +9609,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 25,
-      "Воробьёв Сергей Витальевич": 9,
-      "Зарипова Айгуль Азватовна": 17,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 20,
-      "Сердюк Михаил Иванович": 131,
-      "Сидоров Александр Леонидович": 312,
-      "Сысоев Владимир Владимирович": 88,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 13
+      "gas:candidate-vibid:2862000591273": 25,
+      "gas:candidate-vibid:2862000629190": 9,
+      "gas:candidate-vibid:2862000631859": 17,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 20,
+      "gas:candidate-vibid:2862000631875": 131,
+      "gas:candidate-vibid:2862000629252": 312,
+      "gas:candidate-vibid:2862000581397": 88,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9669,16 +9669,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 31,
-      "Воробьёв Сергей Витальевич": 17,
-      "Зарипова Айгуль Азватовна": 24,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 11,
-      "Сердюк Михаил Иванович": 130,
-      "Сидоров Александр Леонидович": 327,
-      "Сысоев Владимир Владимирович": 80,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 27
+      "gas:candidate-vibid:2862000591273": 31,
+      "gas:candidate-vibid:2862000629190": 17,
+      "gas:candidate-vibid:2862000631859": 24,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 11,
+      "gas:candidate-vibid:2862000631875": 130,
+      "gas:candidate-vibid:2862000629252": 327,
+      "gas:candidate-vibid:2862000581397": 80,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9729,16 +9729,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 33,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 25,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 171,
-      "Сидоров Александр Леонидович": 420,
-      "Сысоев Владимир Владимирович": 65,
-      "Тетекин Вячеслав Николаевич": 50,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 33,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 25,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 171,
+      "gas:candidate-vibid:2862000629252": 420,
+      "gas:candidate-vibid:2862000581397": 65,
+      "gas:candidate-vibid:2862000590626": 50,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9789,16 +9789,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 27,
-      "Сердюк Михаил Иванович": 164,
-      "Сидоров Александр Леонидович": 441,
-      "Сысоев Владимир Владимирович": 120,
-      "Тетекин Вячеслав Николаевич": 55,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 27,
+      "gas:candidate-vibid:2862000631875": 164,
+      "gas:candidate-vibid:2862000629252": 441,
+      "gas:candidate-vibid:2862000581397": 120,
+      "gas:candidate-vibid:2862000590626": 55,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9849,16 +9849,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 25,
-      "Воробьёв Сергей Витальевич": 6,
-      "Зарипова Айгуль Азватовна": 17,
-      "Зиновьев Владимир Николаевич": 9,
-      "Петерман Александр Анатольевич": 18,
-      "Сердюк Михаил Иванович": 112,
-      "Сидоров Александр Леонидович": 410,
-      "Сысоев Владимир Владимирович": 65,
-      "Тетекин Вячеслав Николаевич": 46,
-      "Титова Светлана Викторовна": 12
+      "gas:candidate-vibid:2862000591273": 25,
+      "gas:candidate-vibid:2862000629190": 6,
+      "gas:candidate-vibid:2862000631859": 17,
+      "gas:candidate-vibid:2862000631832": 9,
+      "gas:candidate-vibid:2862000630018": 18,
+      "gas:candidate-vibid:2862000631875": 112,
+      "gas:candidate-vibid:2862000629252": 410,
+      "gas:candidate-vibid:2862000581397": 65,
+      "gas:candidate-vibid:2862000590626": 46,
+      "gas:candidate-vibid:2862000629210": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9909,16 +9909,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 9,
-      "Зарипова Айгуль Азватовна": 22,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 21,
-      "Сердюк Михаил Иванович": 172,
-      "Сидоров Александр Леонидович": 380,
-      "Сысоев Владимир Владимирович": 65,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 9,
+      "gas:candidate-vibid:2862000631859": 22,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 21,
+      "gas:candidate-vibid:2862000631875": 172,
+      "gas:candidate-vibid:2862000629252": 380,
+      "gas:candidate-vibid:2862000581397": 65,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -9969,16 +9969,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 21,
-      "Зарипова Айгуль Азватовна": 22,
-      "Зиновьев Владимир Николаевич": 13,
-      "Петерман Александр Анатольевич": 30,
-      "Сердюк Михаил Иванович": 178,
-      "Сидоров Александр Леонидович": 453,
-      "Сысоев Владимир Владимирович": 89,
-      "Тетекин Вячеслав Николаевич": 53,
-      "Титова Светлана Викторовна": 27
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 21,
+      "gas:candidate-vibid:2862000631859": 22,
+      "gas:candidate-vibid:2862000631832": 13,
+      "gas:candidate-vibid:2862000630018": 30,
+      "gas:candidate-vibid:2862000631875": 178,
+      "gas:candidate-vibid:2862000629252": 453,
+      "gas:candidate-vibid:2862000581397": 89,
+      "gas:candidate-vibid:2862000590626": 53,
+      "gas:candidate-vibid:2862000629210": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10029,16 +10029,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 27,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 35,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 208,
-      "Сидоров Александр Леонидович": 446,
-      "Сысоев Владимир Владимирович": 94,
-      "Тетекин Вячеслав Николаевич": 59,
-      "Титова Светлана Викторовна": 27
+      "gas:candidate-vibid:2862000591273": 27,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 35,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 208,
+      "gas:candidate-vibid:2862000629252": 446,
+      "gas:candidate-vibid:2862000581397": 94,
+      "gas:candidate-vibid:2862000590626": 59,
+      "gas:candidate-vibid:2862000629210": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10089,16 +10089,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 4,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 21,
-      "Сердюк Михаил Иванович": 112,
-      "Сидоров Александр Леонидович": 315,
-      "Сысоев Владимир Владимирович": 71,
-      "Тетекин Вячеслав Николаевич": 44,
-      "Титова Светлана Викторовна": 17
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 4,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 21,
+      "gas:candidate-vibid:2862000631875": 112,
+      "gas:candidate-vibid:2862000629252": 315,
+      "gas:candidate-vibid:2862000581397": 71,
+      "gas:candidate-vibid:2862000590626": 44,
+      "gas:candidate-vibid:2862000629210": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10149,16 +10149,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 21,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 141,
-      "Сидоров Александр Леонидович": 392,
-      "Сысоев Владимир Владимирович": 110,
-      "Тетекин Вячеслав Николаевич": 56,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 21,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 141,
+      "gas:candidate-vibid:2862000629252": 392,
+      "gas:candidate-vibid:2862000581397": 110,
+      "gas:candidate-vibid:2862000590626": 56,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10209,16 +10209,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 24,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 161,
-      "Сидоров Александр Леонидович": 402,
-      "Сысоев Владимир Владимирович": 89,
-      "Тетекин Вячеслав Николаевич": 50,
-      "Титова Светлана Викторовна": 19
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 24,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 161,
+      "gas:candidate-vibid:2862000629252": 402,
+      "gas:candidate-vibid:2862000581397": 89,
+      "gas:candidate-vibid:2862000590626": 50,
+      "gas:candidate-vibid:2862000629210": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10269,16 +10269,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 21,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 26,
-      "Сердюк Михаил Иванович": 95,
-      "Сидоров Александр Леонидович": 331,
-      "Сысоев Владимир Владимирович": 59,
-      "Тетекин Вячеслав Николаевич": 40,
-      "Титова Светлана Викторовна": 26
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 21,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 26,
+      "gas:candidate-vibid:2862000631875": 95,
+      "gas:candidate-vibid:2862000629252": 331,
+      "gas:candidate-vibid:2862000581397": 59,
+      "gas:candidate-vibid:2862000590626": 40,
+      "gas:candidate-vibid:2862000629210": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10329,16 +10329,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 16,
-      "Воробьёв Сергей Витальевич": 7,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 10,
-      "Сердюк Михаил Иванович": 77,
-      "Сидоров Александр Леонидович": 281,
-      "Сысоев Владимир Владимирович": 78,
-      "Тетекин Вячеслав Николаевич": 35,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 16,
+      "gas:candidate-vibid:2862000629190": 7,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 10,
+      "gas:candidate-vibid:2862000631875": 77,
+      "gas:candidate-vibid:2862000629252": 281,
+      "gas:candidate-vibid:2862000581397": 78,
+      "gas:candidate-vibid:2862000590626": 35,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10389,16 +10389,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 25,
-      "Воробьёв Сергей Витальевич": 5,
-      "Зарипова Айгуль Азватовна": 14,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 27,
-      "Сердюк Михаил Иванович": 135,
-      "Сидоров Александр Леонидович": 453,
-      "Сысоев Владимир Владимирович": 82,
-      "Тетекин Вячеслав Николаевич": 35,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 25,
+      "gas:candidate-vibid:2862000629190": 5,
+      "gas:candidate-vibid:2862000631859": 14,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 27,
+      "gas:candidate-vibid:2862000631875": 135,
+      "gas:candidate-vibid:2862000629252": 453,
+      "gas:candidate-vibid:2862000581397": 82,
+      "gas:candidate-vibid:2862000590626": 35,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10449,16 +10449,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 30,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 9,
-      "Петерман Александр Анатольевич": 26,
-      "Сердюк Михаил Иванович": 96,
-      "Сидоров Александр Леонидович": 342,
-      "Сысоев Владимир Владимирович": 102,
-      "Тетекин Вячеслав Николаевич": 48,
-      "Титова Светлана Викторовна": 19
+      "gas:candidate-vibid:2862000591273": 30,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 9,
+      "gas:candidate-vibid:2862000630018": 26,
+      "gas:candidate-vibid:2862000631875": 96,
+      "gas:candidate-vibid:2862000629252": 342,
+      "gas:candidate-vibid:2862000581397": 102,
+      "gas:candidate-vibid:2862000590626": 48,
+      "gas:candidate-vibid:2862000629210": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10509,16 +10509,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 80,
-      "Сидоров Александр Леонидович": 273,
-      "Сысоев Владимир Владимирович": 78,
-      "Тетекин Вячеслав Николаевич": 34,
-      "Титова Светлана Викторовна": 7
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 80,
+      "gas:candidate-vibid:2862000629252": 273,
+      "gas:candidate-vibid:2862000581397": 78,
+      "gas:candidate-vibid:2862000590626": 34,
+      "gas:candidate-vibid:2862000629210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10569,16 +10569,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 16,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 21,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 34,
-      "Сердюк Михаил Иванович": 139,
-      "Сидоров Александр Леонидович": 349,
-      "Сысоев Владимир Владимирович": 76,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 16,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 21,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 34,
+      "gas:candidate-vibid:2862000631875": 139,
+      "gas:candidate-vibid:2862000629252": 349,
+      "gas:candidate-vibid:2862000581397": 76,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10629,16 +10629,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 143,
-      "Сидоров Александр Леонидович": 328,
-      "Сысоев Владимир Владимирович": 84,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 9
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 143,
+      "gas:candidate-vibid:2862000629252": 328,
+      "gas:candidate-vibid:2862000581397": 84,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10689,16 +10689,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 19,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 26,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 107,
-      "Сидоров Александр Леонидович": 294,
-      "Сысоев Владимир Владимирович": 118,
-      "Тетекин Вячеслав Николаевич": 34,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 19,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 26,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 107,
+      "gas:candidate-vibid:2862000629252": 294,
+      "gas:candidate-vibid:2862000581397": 118,
+      "gas:candidate-vibid:2862000590626": 34,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10749,16 +10749,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 31,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 40,
-      "Сердюк Михаил Иванович": 135,
-      "Сидоров Александр Леонидович": 364,
-      "Сысоев Владимир Владимирович": 130,
-      "Тетекин Вячеслав Николаевич": 46,
-      "Титова Светлана Викторовна": 10
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 31,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 40,
+      "gas:candidate-vibid:2862000631875": 135,
+      "gas:candidate-vibid:2862000629252": 364,
+      "gas:candidate-vibid:2862000581397": 130,
+      "gas:candidate-vibid:2862000590626": 46,
+      "gas:candidate-vibid:2862000629210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10809,16 +10809,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 16,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 119,
-      "Сидоров Александр Леонидович": 330,
-      "Сысоев Владимир Владимирович": 63,
-      "Тетекин Вячеслав Николаевич": 45,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 16,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 119,
+      "gas:candidate-vibid:2862000629252": 330,
+      "gas:candidate-vibid:2862000581397": 63,
+      "gas:candidate-vibid:2862000590626": 45,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10869,16 +10869,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 11,
-      "Воробьёв Сергей Витальевич": 0,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 16,
-      "Сердюк Михаил Иванович": 93,
-      "Сидоров Александр Леонидович": 194,
-      "Сысоев Владимир Владимирович": 49,
-      "Тетекин Вячеслав Николаевич": 18,
-      "Титова Светлана Викторовна": 12
+      "gas:candidate-vibid:2862000591273": 11,
+      "gas:candidate-vibid:2862000629190": 0,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 16,
+      "gas:candidate-vibid:2862000631875": 93,
+      "gas:candidate-vibid:2862000629252": 194,
+      "gas:candidate-vibid:2862000581397": 49,
+      "gas:candidate-vibid:2862000590626": 18,
+      "gas:candidate-vibid:2862000629210": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10929,16 +10929,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 26,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 102,
-      "Сидоров Александр Леонидович": 319,
-      "Сысоев Владимир Владимирович": 107,
-      "Тетекин Вячеслав Николаевич": 29,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 26,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 102,
+      "gas:candidate-vibid:2862000629252": 319,
+      "gas:candidate-vibid:2862000581397": 107,
+      "gas:candidate-vibid:2862000590626": 29,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -10989,16 +10989,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 33,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 14,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 16,
-      "Сердюк Михаил Иванович": 115,
-      "Сидоров Александр Леонидович": 339,
-      "Сысоев Владимир Владимирович": 66,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 33,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 14,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 16,
+      "gas:candidate-vibid:2862000631875": 115,
+      "gas:candidate-vibid:2862000629252": 339,
+      "gas:candidate-vibid:2862000581397": 66,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11049,16 +11049,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 34,
-      "Воробьёв Сергей Витальевич": 17,
-      "Зарипова Айгуль Азватовна": 24,
-      "Зиновьев Владимир Николаевич": 12,
-      "Петерман Александр Анатольевич": 38,
-      "Сердюк Михаил Иванович": 164,
-      "Сидоров Александр Леонидович": 439,
-      "Сысоев Владимир Владимирович": 104,
-      "Тетекин Вячеслав Николаевич": 56,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 34,
+      "gas:candidate-vibid:2862000629190": 17,
+      "gas:candidate-vibid:2862000631859": 24,
+      "gas:candidate-vibid:2862000631832": 12,
+      "gas:candidate-vibid:2862000630018": 38,
+      "gas:candidate-vibid:2862000631875": 164,
+      "gas:candidate-vibid:2862000629252": 439,
+      "gas:candidate-vibid:2862000581397": 104,
+      "gas:candidate-vibid:2862000590626": 56,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11109,16 +11109,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 25,
-      "Воробьёв Сергей Витальевич": 16,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 20,
-      "Сердюк Михаил Иванович": 135,
-      "Сидоров Александр Леонидович": 362,
-      "Сысоев Владимир Владимирович": 78,
-      "Тетекин Вячеслав Николаевич": 63,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 25,
+      "gas:candidate-vibid:2862000629190": 16,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 20,
+      "gas:candidate-vibid:2862000631875": 135,
+      "gas:candidate-vibid:2862000629252": 362,
+      "gas:candidate-vibid:2862000581397": 78,
+      "gas:candidate-vibid:2862000590626": 63,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11169,16 +11169,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 40,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 39,
-      "Сердюк Михаил Иванович": 133,
-      "Сидоров Александр Леонидович": 444,
-      "Сысоев Владимир Владимирович": 80,
-      "Тетекин Вячеслав Николаевич": 56,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 40,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 39,
+      "gas:candidate-vibid:2862000631875": 133,
+      "gas:candidate-vibid:2862000629252": 444,
+      "gas:candidate-vibid:2862000581397": 80,
+      "gas:candidate-vibid:2862000590626": 56,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11229,16 +11229,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 14,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 27,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 33,
-      "Сердюк Михаил Иванович": 116,
-      "Сидоров Александр Леонидович": 370,
-      "Сысоев Владимир Владимирович": 70,
-      "Тетекин Вячеслав Николаевич": 26,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 14,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 27,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 33,
+      "gas:candidate-vibid:2862000631875": 116,
+      "gas:candidate-vibid:2862000629252": 370,
+      "gas:candidate-vibid:2862000581397": 70,
+      "gas:candidate-vibid:2862000590626": 26,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11289,16 +11289,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 16,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 23,
-      "Зиновьев Владимир Николаевич": 12,
-      "Петерман Александр Анатольевич": 38,
-      "Сердюк Михаил Иванович": 130,
-      "Сидоров Александр Леонидович": 551,
-      "Сысоев Владимир Владимирович": 101,
-      "Тетекин Вячеслав Николаевич": 52,
-      "Титова Светлана Викторовна": 21
+      "gas:candidate-vibid:2862000591273": 16,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 23,
+      "gas:candidate-vibid:2862000631832": 12,
+      "gas:candidate-vibid:2862000630018": 38,
+      "gas:candidate-vibid:2862000631875": 130,
+      "gas:candidate-vibid:2862000629252": 551,
+      "gas:candidate-vibid:2862000581397": 101,
+      "gas:candidate-vibid:2862000590626": 52,
+      "gas:candidate-vibid:2862000629210": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11349,16 +11349,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 4,
-      "Зарипова Айгуль Азватовна": 23,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 21,
-      "Сердюк Михаил Иванович": 134,
-      "Сидоров Александр Леонидович": 404,
-      "Сысоев Владимир Владимирович": 84,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 23
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 4,
+      "gas:candidate-vibid:2862000631859": 23,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 21,
+      "gas:candidate-vibid:2862000631875": 134,
+      "gas:candidate-vibid:2862000629252": 404,
+      "gas:candidate-vibid:2862000581397": 84,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11409,16 +11409,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 13,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 17,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 129,
-      "Сидоров Александр Леонидович": 351,
-      "Сысоев Владимир Владимирович": 90,
-      "Тетекин Вячеслав Николаевич": 32,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 13,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 17,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 129,
+      "gas:candidate-vibid:2862000629252": 351,
+      "gas:candidate-vibid:2862000581397": 90,
+      "gas:candidate-vibid:2862000590626": 32,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11469,16 +11469,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 10,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 33,
-      "Сердюк Михаил Иванович": 148,
-      "Сидоров Александр Леонидович": 405,
-      "Сысоев Владимир Владимирович": 103,
-      "Тетекин Вячеслав Николаевич": 53,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 10,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 33,
+      "gas:candidate-vibid:2862000631875": 148,
+      "gas:candidate-vibid:2862000629252": 405,
+      "gas:candidate-vibid:2862000581397": 103,
+      "gas:candidate-vibid:2862000590626": 53,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11529,16 +11529,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 110,
-      "Сидоров Александр Леонидович": 381,
-      "Сысоев Владимир Владимирович": 77,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 110,
+      "gas:candidate-vibid:2862000629252": 381,
+      "gas:candidate-vibid:2862000581397": 77,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11589,16 +11589,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 16,
-      "Сердюк Михаил Иванович": 106,
-      "Сидоров Александр Леонидович": 321,
-      "Сысоев Владимир Владимирович": 71,
-      "Тетекин Вячеслав Николаевич": 33,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 16,
+      "gas:candidate-vibid:2862000631875": 106,
+      "gas:candidate-vibid:2862000629252": 321,
+      "gas:candidate-vibid:2862000581397": 71,
+      "gas:candidate-vibid:2862000590626": 33,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11649,16 +11649,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 8,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 119,
-      "Сидоров Александр Леонидович": 393,
-      "Сысоев Владимир Владимирович": 78,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 8,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 119,
+      "gas:candidate-vibid:2862000629252": 393,
+      "gas:candidate-vibid:2862000581397": 78,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11709,16 +11709,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 16,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 25,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 33,
-      "Сердюк Михаил Иванович": 171,
-      "Сидоров Александр Леонидович": 529,
-      "Сысоев Владимир Владимирович": 70,
-      "Тетекин Вячеслав Николаевич": 33,
-      "Титова Светлана Викторовна": 26
+      "gas:candidate-vibid:2862000591273": 16,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 25,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 33,
+      "gas:candidate-vibid:2862000631875": 171,
+      "gas:candidate-vibid:2862000629252": 529,
+      "gas:candidate-vibid:2862000581397": 70,
+      "gas:candidate-vibid:2862000590626": 33,
+      "gas:candidate-vibid:2862000629210": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11769,16 +11769,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 20,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 22,
-      "Сердюк Михаил Иванович": 141,
-      "Сидоров Александр Леонидович": 424,
-      "Сысоев Владимир Владимирович": 58,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 12
+      "gas:candidate-vibid:2862000591273": 20,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 22,
+      "gas:candidate-vibid:2862000631875": 141,
+      "gas:candidate-vibid:2862000629252": 424,
+      "gas:candidate-vibid:2862000581397": 58,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11829,16 +11829,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 23,
-      "Зиновьев Владимир Николаевич": 3,
-      "Петерман Александр Анатольевич": 27,
-      "Сердюк Михаил Иванович": 98,
-      "Сидоров Александр Леонидович": 349,
-      "Сысоев Владимир Владимирович": 71,
-      "Тетекин Вячеслав Николаевич": 49,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 23,
+      "gas:candidate-vibid:2862000631832": 3,
+      "gas:candidate-vibid:2862000630018": 27,
+      "gas:candidate-vibid:2862000631875": 98,
+      "gas:candidate-vibid:2862000629252": 349,
+      "gas:candidate-vibid:2862000581397": 71,
+      "gas:candidate-vibid:2862000590626": 49,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11889,16 +11889,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 17,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 33,
-      "Сердюк Михаил Иванович": 116,
-      "Сидоров Александр Леонидович": 470,
-      "Сысоев Владимир Владимирович": 128,
-      "Тетекин Вячеслав Николаевич": 52,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 17,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 33,
+      "gas:candidate-vibid:2862000631875": 116,
+      "gas:candidate-vibid:2862000629252": 470,
+      "gas:candidate-vibid:2862000581397": 128,
+      "gas:candidate-vibid:2862000590626": 52,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -11949,16 +11949,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 26,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 20,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 26,
-      "Сердюк Михаил Иванович": 129,
-      "Сидоров Александр Леонидович": 471,
-      "Сысоев Владимир Владимирович": 94,
-      "Тетекин Вячеслав Николаевич": 46,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 26,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 20,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 26,
+      "gas:candidate-vibid:2862000631875": 129,
+      "gas:candidate-vibid:2862000629252": 471,
+      "gas:candidate-vibid:2862000581397": 94,
+      "gas:candidate-vibid:2862000590626": 46,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12009,16 +12009,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 32,
-      "Воробьёв Сергей Витальевич": 16,
-      "Зарипова Айгуль Азватовна": 24,
-      "Зиновьев Владимир Николаевич": 12,
-      "Петерман Александр Анатольевич": 38,
-      "Сердюк Михаил Иванович": 177,
-      "Сидоров Александр Леонидович": 537,
-      "Сысоев Владимир Владимирович": 137,
-      "Тетекин Вячеслав Николаевич": 89,
-      "Титова Светлана Викторовна": 33
+      "gas:candidate-vibid:2862000591273": 32,
+      "gas:candidate-vibid:2862000629190": 16,
+      "gas:candidate-vibid:2862000631859": 24,
+      "gas:candidate-vibid:2862000631832": 12,
+      "gas:candidate-vibid:2862000630018": 38,
+      "gas:candidate-vibid:2862000631875": 177,
+      "gas:candidate-vibid:2862000629252": 537,
+      "gas:candidate-vibid:2862000581397": 137,
+      "gas:candidate-vibid:2862000590626": 89,
+      "gas:candidate-vibid:2862000629210": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12069,16 +12069,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 21,
-      "Зарипова Айгуль Азватовна": 22,
-      "Зиновьев Владимир Николаевич": 11,
-      "Петерман Александр Анатольевич": 27,
-      "Сердюк Михаил Иванович": 170,
-      "Сидоров Александр Леонидович": 486,
-      "Сысоев Владимир Владимирович": 90,
-      "Тетекин Вячеслав Николаевич": 63,
-      "Титова Светлана Викторовна": 25
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 21,
+      "gas:candidate-vibid:2862000631859": 22,
+      "gas:candidate-vibid:2862000631832": 11,
+      "gas:candidate-vibid:2862000630018": 27,
+      "gas:candidate-vibid:2862000631875": 170,
+      "gas:candidate-vibid:2862000629252": 486,
+      "gas:candidate-vibid:2862000581397": 90,
+      "gas:candidate-vibid:2862000590626": 63,
+      "gas:candidate-vibid:2862000629210": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12129,16 +12129,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 30,
-      "Зиновьев Владимир Николаевич": 12,
-      "Петерман Александр Анатольевич": 40,
-      "Сердюк Михаил Иванович": 158,
-      "Сидоров Александр Леонидович": 478,
-      "Сысоев Владимир Владимирович": 99,
-      "Тетекин Вячеслав Николаевич": 45,
-      "Титова Светлана Викторовна": 24
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 30,
+      "gas:candidate-vibid:2862000631832": 12,
+      "gas:candidate-vibid:2862000630018": 40,
+      "gas:candidate-vibid:2862000631875": 158,
+      "gas:candidate-vibid:2862000629252": 478,
+      "gas:candidate-vibid:2862000581397": 99,
+      "gas:candidate-vibid:2862000590626": 45,
+      "gas:candidate-vibid:2862000629210": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12189,16 +12189,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 30,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 18,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 35,
-      "Сердюк Михаил Иванович": 143,
-      "Сидоров Александр Леонидович": 473,
-      "Сысоев Владимир Владимирович": 119,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 24
+      "gas:candidate-vibid:2862000591273": 30,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 18,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 35,
+      "gas:candidate-vibid:2862000631875": 143,
+      "gas:candidate-vibid:2862000629252": 473,
+      "gas:candidate-vibid:2862000581397": 119,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12249,16 +12249,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 16,
-      "Зарипова Айгуль Азватовна": 3,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 23,
-      "Сердюк Михаил Иванович": 79,
-      "Сидоров Александр Леонидович": 324,
-      "Сысоев Владимир Владимирович": 85,
-      "Тетекин Вячеслав Николаевич": 30,
-      "Титова Светлана Викторовна": 13
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 16,
+      "gas:candidate-vibid:2862000631859": 3,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 23,
+      "gas:candidate-vibid:2862000631875": 79,
+      "gas:candidate-vibid:2862000629252": 324,
+      "gas:candidate-vibid:2862000581397": 85,
+      "gas:candidate-vibid:2862000590626": 30,
+      "gas:candidate-vibid:2862000629210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12309,16 +12309,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 15,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 24,
-      "Сердюк Михаил Иванович": 107,
-      "Сидоров Александр Леонидович": 308,
-      "Сысоев Владимир Владимирович": 87,
-      "Тетекин Вячеслав Николаевич": 42,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 15,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 24,
+      "gas:candidate-vibid:2862000631875": 107,
+      "gas:candidate-vibid:2862000629252": 308,
+      "gas:candidate-vibid:2862000581397": 87,
+      "gas:candidate-vibid:2862000590626": 42,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12369,16 +12369,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 7,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 13,
-      "Сердюк Михаил Иванович": 91,
-      "Сидоров Александр Леонидович": 297,
-      "Сысоев Владимир Владимирович": 85,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 7,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 13,
+      "gas:candidate-vibid:2862000631875": 91,
+      "gas:candidate-vibid:2862000629252": 297,
+      "gas:candidate-vibid:2862000581397": 85,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12429,16 +12429,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 18,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 9,
-      "Сердюк Михаил Иванович": 110,
-      "Сидоров Александр Леонидович": 316,
-      "Сысоев Владимир Владимирович": 83,
-      "Тетекин Вячеслав Николаевич": 39,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 18,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 9,
+      "gas:candidate-vibid:2862000631875": 110,
+      "gas:candidate-vibid:2862000629252": 316,
+      "gas:candidate-vibid:2862000581397": 83,
+      "gas:candidate-vibid:2862000590626": 39,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12489,16 +12489,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 15,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 12,
-      "Сердюк Михаил Иванович": 80,
-      "Сидоров Александр Леонидович": 247,
-      "Сысоев Владимир Владимирович": 74,
-      "Тетекин Вячеслав Николаевич": 28,
-      "Титова Светлана Викторовна": 18
+      "gas:candidate-vibid:2862000591273": 15,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 12,
+      "gas:candidate-vibid:2862000631875": 80,
+      "gas:candidate-vibid:2862000629252": 247,
+      "gas:candidate-vibid:2862000581397": 74,
+      "gas:candidate-vibid:2862000590626": 28,
+      "gas:candidate-vibid:2862000629210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12549,16 +12549,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 31,
-      "Воробьёв Сергей Витальевич": 9,
-      "Зарипова Айгуль Азватовна": 19,
-      "Зиновьев Владимир Николаевич": 3,
-      "Петерман Александр Анатольевич": 14,
-      "Сердюк Михаил Иванович": 148,
-      "Сидоров Александр Леонидович": 444,
-      "Сысоев Владимир Владимирович": 104,
-      "Тетекин Вячеслав Николаевич": 48,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 31,
+      "gas:candidate-vibid:2862000629190": 9,
+      "gas:candidate-vibid:2862000631859": 19,
+      "gas:candidate-vibid:2862000631832": 3,
+      "gas:candidate-vibid:2862000630018": 14,
+      "gas:candidate-vibid:2862000631875": 148,
+      "gas:candidate-vibid:2862000629252": 444,
+      "gas:candidate-vibid:2862000581397": 104,
+      "gas:candidate-vibid:2862000590626": 48,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12609,16 +12609,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 20,
-      "Воробьёв Сергей Витальевич": 9,
-      "Зарипова Айгуль Азватовна": 22,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 22,
-      "Сердюк Михаил Иванович": 116,
-      "Сидоров Александр Леонидович": 336,
-      "Сысоев Владимир Владимирович": 85,
-      "Тетекин Вячеслав Николаевич": 52,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 20,
+      "gas:candidate-vibid:2862000629190": 9,
+      "gas:candidate-vibid:2862000631859": 22,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 22,
+      "gas:candidate-vibid:2862000631875": 116,
+      "gas:candidate-vibid:2862000629252": 336,
+      "gas:candidate-vibid:2862000581397": 85,
+      "gas:candidate-vibid:2862000590626": 52,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12669,16 +12669,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 7,
-      "Воробьёв Сергей Витальевич": 2,
-      "Зарипова Айгуль Азватовна": 9,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 11,
-      "Сердюк Михаил Иванович": 50,
-      "Сидоров Александр Леонидович": 119,
-      "Сысоев Владимир Владимирович": 45,
-      "Тетекин Вячеслав Николаевич": 20,
-      "Титова Светлана Викторовна": 9
+      "gas:candidate-vibid:2862000591273": 7,
+      "gas:candidate-vibid:2862000629190": 2,
+      "gas:candidate-vibid:2862000631859": 9,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 11,
+      "gas:candidate-vibid:2862000631875": 50,
+      "gas:candidate-vibid:2862000629252": 119,
+      "gas:candidate-vibid:2862000581397": 45,
+      "gas:candidate-vibid:2862000590626": 20,
+      "gas:candidate-vibid:2862000629210": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12729,16 +12729,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 24,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 18,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 30,
-      "Сердюк Михаил Иванович": 120,
-      "Сидоров Александр Леонидович": 319,
-      "Сысоев Владимир Владимирович": 109,
-      "Тетекин Вячеслав Николаевич": 30,
-      "Титова Светлана Викторовна": 13
+      "gas:candidate-vibid:2862000591273": 24,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 18,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 30,
+      "gas:candidate-vibid:2862000631875": 120,
+      "gas:candidate-vibid:2862000629252": 319,
+      "gas:candidate-vibid:2862000581397": 109,
+      "gas:candidate-vibid:2862000590626": 30,
+      "gas:candidate-vibid:2862000629210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12789,16 +12789,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 8,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 26,
-      "Сердюк Михаил Иванович": 112,
-      "Сидоров Александр Леонидович": 321,
-      "Сысоев Владимир Владимирович": 103,
-      "Тетекин Вячеслав Николаевич": 31,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 8,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 26,
+      "gas:candidate-vibid:2862000631875": 112,
+      "gas:candidate-vibid:2862000629252": 321,
+      "gas:candidate-vibid:2862000581397": 103,
+      "gas:candidate-vibid:2862000590626": 31,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12849,16 +12849,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 23,
-      "Воробьёв Сергей Витальевич": 6,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 21,
-      "Сердюк Михаил Иванович": 71,
-      "Сидоров Александр Леонидович": 270,
-      "Сысоев Владимир Владимирович": 73,
-      "Тетекин Вячеслав Николаевич": 41,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 23,
+      "gas:candidate-vibid:2862000629190": 6,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 21,
+      "gas:candidate-vibid:2862000631875": 71,
+      "gas:candidate-vibid:2862000629252": 270,
+      "gas:candidate-vibid:2862000581397": 73,
+      "gas:candidate-vibid:2862000590626": 41,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12909,16 +12909,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 29,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 11,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 25,
-      "Сердюк Михаил Иванович": 118,
-      "Сидоров Александр Леонидович": 373,
-      "Сысоев Владимир Владимирович": 124,
-      "Тетекин Вячеслав Николаевич": 56,
-      "Титова Светлана Викторовна": 24
+      "gas:candidate-vibid:2862000591273": 29,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 11,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 25,
+      "gas:candidate-vibid:2862000631875": 118,
+      "gas:candidate-vibid:2862000629252": 373,
+      "gas:candidate-vibid:2862000581397": 124,
+      "gas:candidate-vibid:2862000590626": 56,
+      "gas:candidate-vibid:2862000629210": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -12969,16 +12969,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 20,
-      "Сердюк Михаил Иванович": 115,
-      "Сидоров Александр Леонидович": 335,
-      "Сысоев Владимир Владимирович": 96,
-      "Тетекин Вячеслав Николаевич": 39,
-      "Титова Светлана Викторовна": 10
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 20,
+      "gas:candidate-vibid:2862000631875": 115,
+      "gas:candidate-vibid:2862000629252": 335,
+      "gas:candidate-vibid:2862000581397": 96,
+      "gas:candidate-vibid:2862000590626": 39,
+      "gas:candidate-vibid:2862000629210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13029,16 +13029,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 25,
-      "Воробьёв Сергей Витальевич": 17,
-      "Зарипова Айгуль Азватовна": 18,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 14,
-      "Сердюк Михаил Иванович": 90,
-      "Сидоров Александр Леонидович": 397,
-      "Сысоев Владимир Владимирович": 110,
-      "Тетекин Вячеслав Николаевич": 35,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 25,
+      "gas:candidate-vibid:2862000629190": 17,
+      "gas:candidate-vibid:2862000631859": 18,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 14,
+      "gas:candidate-vibid:2862000631875": 90,
+      "gas:candidate-vibid:2862000629252": 397,
+      "gas:candidate-vibid:2862000581397": 110,
+      "gas:candidate-vibid:2862000590626": 35,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13089,16 +13089,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 31,
-      "Воробьёв Сергей Витальевич": 18,
-      "Зарипова Айгуль Азватовна": 29,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 37,
-      "Сердюк Михаил Иванович": 109,
-      "Сидоров Александр Леонидович": 419,
-      "Сысоев Владимир Владимирович": 135,
-      "Тетекин Вячеслав Николаевич": 43,
-      "Титова Светлана Викторовна": 22
+      "gas:candidate-vibid:2862000591273": 31,
+      "gas:candidate-vibid:2862000629190": 18,
+      "gas:candidate-vibid:2862000631859": 29,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 37,
+      "gas:candidate-vibid:2862000631875": 109,
+      "gas:candidate-vibid:2862000629252": 419,
+      "gas:candidate-vibid:2862000581397": 135,
+      "gas:candidate-vibid:2862000590626": 43,
+      "gas:candidate-vibid:2862000629210": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13149,16 +13149,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 27,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 27,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 22,
-      "Сердюк Михаил Иванович": 94,
-      "Сидоров Александр Леонидович": 354,
-      "Сысоев Владимир Владимирович": 69,
-      "Тетекин Вячеслав Николаевич": 40,
-      "Титова Светлана Викторовна": 27
+      "gas:candidate-vibid:2862000591273": 27,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 27,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 22,
+      "gas:candidate-vibid:2862000631875": 94,
+      "gas:candidate-vibid:2862000629252": 354,
+      "gas:candidate-vibid:2862000581397": 69,
+      "gas:candidate-vibid:2862000590626": 40,
+      "gas:candidate-vibid:2862000629210": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13209,16 +13209,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 13,
-      "Зарипова Айгуль Азватовна": 15,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 127,
-      "Сидоров Александр Леонидович": 407,
-      "Сысоев Владимир Владимирович": 105,
-      "Тетекин Вячеслав Николаевич": 69,
-      "Титова Светлана Викторовна": 22
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 13,
+      "gas:candidate-vibid:2862000631859": 15,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 127,
+      "gas:candidate-vibid:2862000629252": 407,
+      "gas:candidate-vibid:2862000581397": 105,
+      "gas:candidate-vibid:2862000590626": 69,
+      "gas:candidate-vibid:2862000629210": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13269,16 +13269,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 21,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 6,
-      "Сердюк Михаил Иванович": 79,
-      "Сидоров Александр Леонидович": 264,
-      "Сысоев Владимир Владимирович": 79,
-      "Тетекин Вячеслав Николаевич": 43,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 21,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 6,
+      "gas:candidate-vibid:2862000631875": 79,
+      "gas:candidate-vibid:2862000629252": 264,
+      "gas:candidate-vibid:2862000581397": 79,
+      "gas:candidate-vibid:2862000590626": 43,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13329,16 +13329,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 17,
-      "Зарипова Айгуль Азватовна": 17,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 21,
-      "Сердюк Михаил Иванович": 128,
-      "Сидоров Александр Леонидович": 346,
-      "Сысоев Владимир Владимирович": 101,
-      "Тетекин Вячеслав Николаевич": 34,
-      "Титова Светлана Викторовна": 17
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 17,
+      "gas:candidate-vibid:2862000631859": 17,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 21,
+      "gas:candidate-vibid:2862000631875": 128,
+      "gas:candidate-vibid:2862000629252": 346,
+      "gas:candidate-vibid:2862000581397": 101,
+      "gas:candidate-vibid:2862000590626": 34,
+      "gas:candidate-vibid:2862000629210": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13389,16 +13389,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 11,
-      "Воробьёв Сергей Витальевич": 2,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 8,
-      "Сердюк Михаил Иванович": 46,
-      "Сидоров Александр Леонидович": 157,
-      "Сысоев Владимир Владимирович": 59,
-      "Тетекин Вячеслав Николаевич": 26,
-      "Титова Светлана Викторовна": 6
+      "gas:candidate-vibid:2862000591273": 11,
+      "gas:candidate-vibid:2862000629190": 2,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 8,
+      "gas:candidate-vibid:2862000631875": 46,
+      "gas:candidate-vibid:2862000629252": 157,
+      "gas:candidate-vibid:2862000581397": 59,
+      "gas:candidate-vibid:2862000590626": 26,
+      "gas:candidate-vibid:2862000629210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13449,16 +13449,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 10,
-      "Зиновьев Владимир Николаевич": 3,
-      "Петерман Александр Анатольевич": 11,
-      "Сердюк Михаил Иванович": 53,
-      "Сидоров Александр Леонидович": 217,
-      "Сысоев Владимир Владимирович": 66,
-      "Тетекин Вячеслав Николаевич": 26,
-      "Титова Светлана Викторовна": 8
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 10,
+      "gas:candidate-vibid:2862000631832": 3,
+      "gas:candidate-vibid:2862000630018": 11,
+      "gas:candidate-vibid:2862000631875": 53,
+      "gas:candidate-vibid:2862000629252": 217,
+      "gas:candidate-vibid:2862000581397": 66,
+      "gas:candidate-vibid:2862000590626": 26,
+      "gas:candidate-vibid:2862000629210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13509,16 +13509,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 4,
-      "Воробьёв Сергей Витальевич": 0,
-      "Зарипова Айгуль Азватовна": 5,
-      "Зиновьев Владимир Николаевич": 2,
-      "Петерман Александр Анатольевич": 3,
-      "Сердюк Михаил Иванович": 11,
-      "Сидоров Александр Леонидович": 44,
-      "Сысоев Владимир Владимирович": 21,
-      "Тетекин Вячеслав Николаевич": 5,
-      "Титова Светлана Викторовна": 3
+      "gas:candidate-vibid:2862000591273": 4,
+      "gas:candidate-vibid:2862000629190": 0,
+      "gas:candidate-vibid:2862000631859": 5,
+      "gas:candidate-vibid:2862000631832": 2,
+      "gas:candidate-vibid:2862000630018": 3,
+      "gas:candidate-vibid:2862000631875": 11,
+      "gas:candidate-vibid:2862000629252": 44,
+      "gas:candidate-vibid:2862000581397": 21,
+      "gas:candidate-vibid:2862000590626": 5,
+      "gas:candidate-vibid:2862000629210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13569,16 +13569,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 6,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 14,
-      "Сердюк Михаил Иванович": 51,
-      "Сидоров Александр Леонидович": 157,
-      "Сысоев Владимир Владимирович": 65,
-      "Тетекин Вячеслав Николаевич": 27,
-      "Титова Светлана Викторовна": 9
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 6,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 14,
+      "gas:candidate-vibid:2862000631875": 51,
+      "gas:candidate-vibid:2862000629252": 157,
+      "gas:candidate-vibid:2862000581397": 65,
+      "gas:candidate-vibid:2862000590626": 27,
+      "gas:candidate-vibid:2862000629210": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13629,16 +13629,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 12,
-      "Воробьёв Сергей Витальевич": 2,
-      "Зарипова Айгуль Азватовна": 7,
-      "Зиновьев Владимир Николаевич": 1,
-      "Петерман Александр Анатольевич": 6,
-      "Сердюк Михаил Иванович": 19,
-      "Сидоров Александр Леонидович": 60,
-      "Сысоев Владимир Владимирович": 34,
-      "Тетекин Вячеслав Николаевич": 8,
-      "Титова Светлана Викторовна": 4
+      "gas:candidate-vibid:2862000591273": 12,
+      "gas:candidate-vibid:2862000629190": 2,
+      "gas:candidate-vibid:2862000631859": 7,
+      "gas:candidate-vibid:2862000631832": 1,
+      "gas:candidate-vibid:2862000630018": 6,
+      "gas:candidate-vibid:2862000631875": 19,
+      "gas:candidate-vibid:2862000629252": 60,
+      "gas:candidate-vibid:2862000581397": 34,
+      "gas:candidate-vibid:2862000590626": 8,
+      "gas:candidate-vibid:2862000629210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13689,16 +13689,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 11,
-      "Воробьёв Сергей Витальевич": 2,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 4,
-      "Сердюк Михаил Иванович": 43,
-      "Сидоров Александр Леонидович": 134,
-      "Сысоев Владимир Владимирович": 44,
-      "Тетекин Вячеслав Николаевич": 14,
-      "Титова Светлана Викторовна": 4
+      "gas:candidate-vibid:2862000591273": 11,
+      "gas:candidate-vibid:2862000629190": 2,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 4,
+      "gas:candidate-vibid:2862000631875": 43,
+      "gas:candidate-vibid:2862000629252": 134,
+      "gas:candidate-vibid:2862000581397": 44,
+      "gas:candidate-vibid:2862000590626": 14,
+      "gas:candidate-vibid:2862000629210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13749,16 +13749,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 18,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 12,
-      "Зиновьев Владимир Николаевич": 3,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 51,
-      "Сидоров Александр Леонидович": 188,
-      "Сысоев Владимир Владимирович": 53,
-      "Тетекин Вячеслав Николаевич": 29,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 18,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 12,
+      "gas:candidate-vibid:2862000631832": 3,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 51,
+      "gas:candidate-vibid:2862000629252": 188,
+      "gas:candidate-vibid:2862000581397": 53,
+      "gas:candidate-vibid:2862000590626": 29,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13809,16 +13809,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 7,
-      "Зарипова Айгуль Азватовна": 6,
-      "Зиновьев Владимир Николаевич": 3,
-      "Петерман Александр Анатольевич": 11,
-      "Сердюк Михаил Иванович": 53,
-      "Сидоров Александр Леонидович": 145,
-      "Сысоев Владимир Владимирович": 52,
-      "Тетекин Вячеслав Николаевич": 19,
-      "Титова Светлана Викторовна": 3
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 7,
+      "gas:candidate-vibid:2862000631859": 6,
+      "gas:candidate-vibid:2862000631832": 3,
+      "gas:candidate-vibid:2862000630018": 11,
+      "gas:candidate-vibid:2862000631875": 53,
+      "gas:candidate-vibid:2862000629252": 145,
+      "gas:candidate-vibid:2862000581397": 52,
+      "gas:candidate-vibid:2862000590626": 19,
+      "gas:candidate-vibid:2862000629210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13869,16 +13869,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 26,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 26,
-      "Зиновьев Владимир Николаевич": 10,
-      "Петерман Александр Анатольевич": 21,
-      "Сердюк Михаил Иванович": 133,
-      "Сидоров Александр Леонидович": 465,
-      "Сысоев Владимир Владимирович": 97,
-      "Тетекин Вячеслав Николаевич": 52,
-      "Титова Светлана Викторовна": 21
+      "gas:candidate-vibid:2862000591273": 26,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 26,
+      "gas:candidate-vibid:2862000631832": 10,
+      "gas:candidate-vibid:2862000630018": 21,
+      "gas:candidate-vibid:2862000631875": 133,
+      "gas:candidate-vibid:2862000629252": 465,
+      "gas:candidate-vibid:2862000581397": 97,
+      "gas:candidate-vibid:2862000590626": 52,
+      "gas:candidate-vibid:2862000629210": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13929,16 +13929,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 27,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 16,
-      "Зиновьев Владимир Николаевич": 9,
-      "Петерман Александр Анатольевич": 16,
-      "Сердюк Михаил Иванович": 108,
-      "Сидоров Александр Леонидович": 365,
-      "Сысоев Владимир Владимирович": 64,
-      "Тетекин Вячеслав Николаевич": 39,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 27,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 16,
+      "gas:candidate-vibid:2862000631832": 9,
+      "gas:candidate-vibid:2862000630018": 16,
+      "gas:candidate-vibid:2862000631875": 108,
+      "gas:candidate-vibid:2862000629252": 365,
+      "gas:candidate-vibid:2862000581397": 64,
+      "gas:candidate-vibid:2862000590626": 39,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -13989,16 +13989,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 22,
-      "Воробьёв Сергей Витальевич": 12,
-      "Зарипова Айгуль Азватовна": 25,
-      "Зиновьев Владимир Николаевич": 12,
-      "Петерман Александр Анатольевич": 22,
-      "Сердюк Михаил Иванович": 95,
-      "Сидоров Александр Леонидович": 344,
-      "Сысоев Владимир Владимирович": 87,
-      "Тетекин Вячеслав Николаевич": 38,
-      "Титова Светлана Викторовна": 11
+      "gas:candidate-vibid:2862000591273": 22,
+      "gas:candidate-vibid:2862000629190": 12,
+      "gas:candidate-vibid:2862000631859": 25,
+      "gas:candidate-vibid:2862000631832": 12,
+      "gas:candidate-vibid:2862000630018": 22,
+      "gas:candidate-vibid:2862000631875": 95,
+      "gas:candidate-vibid:2862000629252": 344,
+      "gas:candidate-vibid:2862000581397": 87,
+      "gas:candidate-vibid:2862000590626": 38,
+      "gas:candidate-vibid:2862000629210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14049,16 +14049,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 31,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 26,
-      "Зиновьев Владимир Николаевич": 14,
-      "Петерман Александр Анатольевич": 29,
-      "Сердюк Михаил Иванович": 114,
-      "Сидоров Александр Леонидович": 422,
-      "Сысоев Владимир Владимирович": 77,
-      "Тетекин Вячеслав Николаевич": 32,
-      "Титова Светлана Викторовна": 20
+      "gas:candidate-vibid:2862000591273": 31,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 26,
+      "gas:candidate-vibid:2862000631832": 14,
+      "gas:candidate-vibid:2862000630018": 29,
+      "gas:candidate-vibid:2862000631875": 114,
+      "gas:candidate-vibid:2862000629252": 422,
+      "gas:candidate-vibid:2862000581397": 77,
+      "gas:candidate-vibid:2862000590626": 32,
+      "gas:candidate-vibid:2862000629210": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14109,16 +14109,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 27,
-      "Воробьёв Сергей Витальевич": 18,
-      "Зарипова Айгуль Азватовна": 14,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 82,
-      "Сидоров Александр Леонидович": 332,
-      "Сысоев Владимир Владимирович": 75,
-      "Тетекин Вячеслав Николаевич": 21,
-      "Титова Светлана Викторовна": 14
+      "gas:candidate-vibid:2862000591273": 27,
+      "gas:candidate-vibid:2862000629190": 18,
+      "gas:candidate-vibid:2862000631859": 14,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 82,
+      "gas:candidate-vibid:2862000629252": 332,
+      "gas:candidate-vibid:2862000581397": 75,
+      "gas:candidate-vibid:2862000590626": 21,
+      "gas:candidate-vibid:2862000629210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14169,16 +14169,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 33,
-      "Воробьёв Сергей Витальевич": 11,
-      "Зарипова Айгуль Азватовна": 14,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 19,
-      "Сердюк Михаил Иванович": 94,
-      "Сидоров Александр Леонидович": 371,
-      "Сысоев Владимир Владимирович": 71,
-      "Тетекин Вячеслав Николаевич": 31,
-      "Титова Светлана Викторовна": 16
+      "gas:candidate-vibid:2862000591273": 33,
+      "gas:candidate-vibid:2862000629190": 11,
+      "gas:candidate-vibid:2862000631859": 14,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 19,
+      "gas:candidate-vibid:2862000631875": 94,
+      "gas:candidate-vibid:2862000629252": 371,
+      "gas:candidate-vibid:2862000581397": 71,
+      "gas:candidate-vibid:2862000590626": 31,
+      "gas:candidate-vibid:2862000629210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14229,16 +14229,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 19,
-      "Воробьёв Сергей Витальевич": 14,
-      "Зарипова Айгуль Азватовна": 14,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 10,
-      "Сердюк Михаил Иванович": 102,
-      "Сидоров Александр Леонидович": 353,
-      "Сысоев Владимир Владимирович": 57,
-      "Тетекин Вячеслав Николаевич": 28,
-      "Титова Светлана Викторовна": 19
+      "gas:candidate-vibid:2862000591273": 19,
+      "gas:candidate-vibid:2862000629190": 14,
+      "gas:candidate-vibid:2862000631859": 14,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 10,
+      "gas:candidate-vibid:2862000631875": 102,
+      "gas:candidate-vibid:2862000629252": 353,
+      "gas:candidate-vibid:2862000581397": 57,
+      "gas:candidate-vibid:2862000590626": 28,
+      "gas:candidate-vibid:2862000629210": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14289,16 +14289,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 28,
-      "Воробьёв Сергей Витальевич": 16,
-      "Зарипова Айгуль Азватовна": 29,
-      "Зиновьев Владимир Николаевич": 5,
-      "Петерман Александр Анатольевич": 38,
-      "Сердюк Михаил Иванович": 117,
-      "Сидоров Александр Леонидович": 362,
-      "Сысоев Владимир Владимирович": 81,
-      "Тетекин Вячеслав Николаевич": 34,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 28,
+      "gas:candidate-vibid:2862000629190": 16,
+      "gas:candidate-vibid:2862000631859": 29,
+      "gas:candidate-vibid:2862000631832": 5,
+      "gas:candidate-vibid:2862000630018": 38,
+      "gas:candidate-vibid:2862000631875": 117,
+      "gas:candidate-vibid:2862000629252": 362,
+      "gas:candidate-vibid:2862000581397": 81,
+      "gas:candidate-vibid:2862000590626": 34,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14349,16 +14349,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 4,
-      "Зарипова Айгуль Азватовна": 8,
-      "Зиновьев Владимир Николаевич": 2,
-      "Петерман Александр Анатольевич": 9,
-      "Сердюк Михаил Иванович": 34,
-      "Сидоров Александр Леонидович": 194,
-      "Сысоев Владимир Владимирович": 49,
-      "Тетекин Вячеслав Николаевич": 31,
-      "Титова Светлана Викторовна": 6
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 4,
+      "gas:candidate-vibid:2862000631859": 8,
+      "gas:candidate-vibid:2862000631832": 2,
+      "gas:candidate-vibid:2862000630018": 9,
+      "gas:candidate-vibid:2862000631875": 34,
+      "gas:candidate-vibid:2862000629252": 194,
+      "gas:candidate-vibid:2862000581397": 49,
+      "gas:candidate-vibid:2862000590626": 31,
+      "gas:candidate-vibid:2862000629210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14409,16 +14409,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 5,
-      "Зарипова Айгуль Азватовна": 10,
-      "Зиновьев Владимир Николаевич": 8,
-      "Петерман Александр Анатольевич": 13,
-      "Сердюк Михаил Иванович": 33,
-      "Сидоров Александр Леонидович": 169,
-      "Сысоев Владимир Владимирович": 48,
-      "Тетекин Вячеслав Николаевич": 24,
-      "Титова Светлана Викторовна": 8
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 5,
+      "gas:candidate-vibid:2862000631859": 10,
+      "gas:candidate-vibid:2862000631832": 8,
+      "gas:candidate-vibid:2862000630018": 13,
+      "gas:candidate-vibid:2862000631875": 33,
+      "gas:candidate-vibid:2862000629252": 169,
+      "gas:candidate-vibid:2862000581397": 48,
+      "gas:candidate-vibid:2862000590626": 24,
+      "gas:candidate-vibid:2862000629210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14469,16 +14469,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 15,
-      "Зарипова Айгуль Азватовна": 30,
-      "Зиновьев Владимир Николаевич": 7,
-      "Петерман Александр Анатольевич": 32,
-      "Сердюк Михаил Иванович": 90,
-      "Сидоров Александр Леонидович": 305,
-      "Сысоев Владимир Владимирович": 111,
-      "Тетекин Вячеслав Николаевич": 35,
-      "Титова Светлана Викторовна": 13
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 15,
+      "gas:candidate-vibid:2862000631859": 30,
+      "gas:candidate-vibid:2862000631832": 7,
+      "gas:candidate-vibid:2862000630018": 32,
+      "gas:candidate-vibid:2862000631875": 90,
+      "gas:candidate-vibid:2862000629252": 305,
+      "gas:candidate-vibid:2862000581397": 111,
+      "gas:candidate-vibid:2862000590626": 35,
+      "gas:candidate-vibid:2862000629210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14529,16 +14529,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 14,
-      "Воробьёв Сергей Витальевич": 10,
-      "Зарипова Айгуль Азватовна": 6,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 5,
-      "Сердюк Михаил Иванович": 79,
-      "Сидоров Александр Леонидович": 180,
-      "Сысоев Владимир Владимирович": 56,
-      "Тетекин Вячеслав Николаевич": 15,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 14,
+      "gas:candidate-vibid:2862000629190": 10,
+      "gas:candidate-vibid:2862000631859": 6,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 5,
+      "gas:candidate-vibid:2862000631875": 79,
+      "gas:candidate-vibid:2862000629252": 180,
+      "gas:candidate-vibid:2862000581397": 56,
+      "gas:candidate-vibid:2862000590626": 15,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14589,16 +14589,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 17,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 7,
-      "Зиновьев Владимир Николаевич": 4,
-      "Петерман Александр Анатольевич": 17,
-      "Сердюк Михаил Иванович": 104,
-      "Сидоров Александр Леонидович": 304,
-      "Сысоев Владимир Владимирович": 63,
-      "Тетекин Вячеслав Николаевич": 49,
-      "Титова Светлана Викторовна": 13
+      "gas:candidate-vibid:2862000591273": 17,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 7,
+      "gas:candidate-vibid:2862000631832": 4,
+      "gas:candidate-vibid:2862000630018": 17,
+      "gas:candidate-vibid:2862000631875": 104,
+      "gas:candidate-vibid:2862000629252": 304,
+      "gas:candidate-vibid:2862000581397": 63,
+      "gas:candidate-vibid:2862000590626": 49,
+      "gas:candidate-vibid:2862000629210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14649,16 +14649,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 29,
-      "Воробьёв Сергей Витальевич": 6,
-      "Зарипова Айгуль Азватовна": 26,
-      "Зиновьев Владимир Николаевич": 2,
-      "Петерман Александр Анатольевич": 27,
-      "Сердюк Михаил Иванович": 85,
-      "Сидоров Александр Леонидович": 228,
-      "Сысоев Владимир Владимирович": 59,
-      "Тетекин Вячеслав Николаевич": 24,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 29,
+      "gas:candidate-vibid:2862000629190": 6,
+      "gas:candidate-vibid:2862000631859": 26,
+      "gas:candidate-vibid:2862000631832": 2,
+      "gas:candidate-vibid:2862000630018": 27,
+      "gas:candidate-vibid:2862000631875": 85,
+      "gas:candidate-vibid:2862000629252": 228,
+      "gas:candidate-vibid:2862000581397": 59,
+      "gas:candidate-vibid:2862000590626": 24,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",
@@ -14709,16 +14709,16 @@ export const duma_2016_uik_463_region_86_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуррахманов Вадим Анверович": 30,
-      "Воробьёв Сергей Витальевич": 8,
-      "Зарипова Айгуль Азватовна": 13,
-      "Зиновьев Владимир Николаевич": 6,
-      "Петерман Александр Анатольевич": 22,
-      "Сердюк Михаил Иванович": 88,
-      "Сидоров Александр Леонидович": 347,
-      "Сысоев Владимир Владимирович": 49,
-      "Тетекин Вячеслав Николаевич": 24,
-      "Титова Светлана Викторовна": 15
+      "gas:candidate-vibid:2862000591273": 30,
+      "gas:candidate-vibid:2862000629190": 8,
+      "gas:candidate-vibid:2862000631859": 13,
+      "gas:candidate-vibid:2862000631832": 6,
+      "gas:candidate-vibid:2862000630018": 22,
+      "gas:candidate-vibid:2862000631875": 88,
+      "gas:candidate-vibid:2862000629252": 347,
+      "gas:candidate-vibid:2862000581397": 49,
+      "gas:candidate-vibid:2862000590626": 24,
+      "gas:candidate-vibid:2862000629210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000290&tvd=2862000501593&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501593&type=464",

@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 65,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 15,
-      "Смыченков Андрей Владимирович": 2,
-      "Солуянова Наталия Валерьевна": 4,
-      "Шустров Виктор Николаевич": 4
+      "gas:candidate-vibid:2832000229196": 65,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 15,
+      "gas:candidate-vibid:2832000227186": 2,
+      "gas:candidate-vibid:2832000229477": 4,
+      "gas:candidate-vibid:2832000229163": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 26,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 2,
-      "Смыченков Андрей Владимирович": 2,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 26,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 2,
+      "gas:candidate-vibid:2832000227186": 2,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 15,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 8,
-      "Смыченков Андрей Владимирович": 9,
-      "Солуянова Наталия Валерьевна": 3,
-      "Шустров Виктор Николаевич": 7
+      "gas:candidate-vibid:2832000229196": 15,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 8,
+      "gas:candidate-vibid:2832000227186": 9,
+      "gas:candidate-vibid:2832000229477": 3,
+      "gas:candidate-vibid:2832000229163": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 268,
-      "Лебедев Алексей Олегович": 4,
-      "Саблин Александр Иванович": 55,
-      "Смыченков Андрей Владимирович": 31,
-      "Солуянова Наталия Валерьевна": 21,
-      "Шустров Виктор Николаевич": 13
+      "gas:candidate-vibid:2832000229196": 268,
+      "gas:candidate-vibid:2832000228134": 4,
+      "gas:candidate-vibid:2832000228026": 55,
+      "gas:candidate-vibid:2832000227186": 31,
+      "gas:candidate-vibid:2832000229477": 21,
+      "gas:candidate-vibid:2832000229163": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 53,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 16,
-      "Смыченков Андрей Владимирович": 11,
-      "Солуянова Наталия Валерьевна": 2,
-      "Шустров Виктор Николаевич": 4
+      "gas:candidate-vibid:2832000229196": 53,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 16,
+      "gas:candidate-vibid:2832000227186": 11,
+      "gas:candidate-vibid:2832000229477": 2,
+      "gas:candidate-vibid:2832000229163": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 33,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 10,
-      "Смыченков Андрей Владимирович": 3,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 1
+      "gas:candidate-vibid:2832000229196": 33,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 10,
+      "gas:candidate-vibid:2832000227186": 3,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 144,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 56,
-      "Смыченков Андрей Владимирович": 13,
-      "Солуянова Наталия Валерьевна": 4,
-      "Шустров Виктор Николаевич": 9
+      "gas:candidate-vibid:2832000229196": 144,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 56,
+      "gas:candidate-vibid:2832000227186": 13,
+      "gas:candidate-vibid:2832000229477": 4,
+      "gas:candidate-vibid:2832000229163": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 37,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 1,
-      "Смыченков Андрей Владимирович": 0,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 1
+      "gas:candidate-vibid:2832000229196": 37,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 1,
+      "gas:candidate-vibid:2832000227186": 0,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 126,
-      "Лебедев Алексей Олегович": 8,
-      "Саблин Александр Иванович": 31,
-      "Смыченков Андрей Владимирович": 24,
-      "Солуянова Наталия Валерьевна": 8,
-      "Шустров Виктор Николаевич": 5
+      "gas:candidate-vibid:2832000229196": 126,
+      "gas:candidate-vibid:2832000228134": 8,
+      "gas:candidate-vibid:2832000228026": 31,
+      "gas:candidate-vibid:2832000227186": 24,
+      "gas:candidate-vibid:2832000229477": 8,
+      "gas:candidate-vibid:2832000229163": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 28,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 16,
-      "Смыченков Андрей Владимирович": 8,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 3
+      "gas:candidate-vibid:2832000229196": 28,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 16,
+      "gas:candidate-vibid:2832000227186": 8,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 33,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 2,
-      "Смыченков Андрей Владимирович": 1,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 2
+      "gas:candidate-vibid:2832000229196": 33,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 2,
+      "gas:candidate-vibid:2832000227186": 1,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 16,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 1,
-      "Смыченков Андрей Владимирович": 0,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 16,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 1,
+      "gas:candidate-vibid:2832000227186": 0,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 14,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 1,
-      "Смыченков Андрей Владимирович": 0,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 14,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 1,
+      "gas:candidate-vibid:2832000227186": 0,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 114,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 38,
-      "Смыченков Андрей Владимирович": 15,
-      "Солуянова Наталия Валерьевна": 8,
-      "Шустров Виктор Николаевич": 6
+      "gas:candidate-vibid:2832000229196": 114,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 38,
+      "gas:candidate-vibid:2832000227186": 15,
+      "gas:candidate-vibid:2832000229477": 8,
+      "gas:candidate-vibid:2832000229163": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 28,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 17,
-      "Смыченков Андрей Владимирович": 5,
-      "Солуянова Наталия Валерьевна": 4,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 28,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 17,
+      "gas:candidate-vibid:2832000227186": 5,
+      "gas:candidate-vibid:2832000229477": 4,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 54,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 61,
-      "Смыченков Андрей Владимирович": 2,
-      "Солуянова Наталия Валерьевна": 1,
-      "Шустров Виктор Николаевич": 4
+      "gas:candidate-vibid:2832000229196": 54,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 61,
+      "gas:candidate-vibid:2832000227186": 2,
+      "gas:candidate-vibid:2832000229477": 1,
+      "gas:candidate-vibid:2832000229163": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 90,
-      "Лебедев Алексей Олегович": 3,
-      "Саблин Александр Иванович": 37,
-      "Смыченков Андрей Владимирович": 12,
-      "Солуянова Наталия Валерьевна": 2,
-      "Шустров Виктор Николаевич": 8
+      "gas:candidate-vibid:2832000229196": 90,
+      "gas:candidate-vibid:2832000228134": 3,
+      "gas:candidate-vibid:2832000228026": 37,
+      "gas:candidate-vibid:2832000227186": 12,
+      "gas:candidate-vibid:2832000229477": 2,
+      "gas:candidate-vibid:2832000229163": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 14,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 3,
-      "Смыченков Андрей Владимирович": 9,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 14,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 3,
+      "gas:candidate-vibid:2832000227186": 9,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 23,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 7,
-      "Смыченков Андрей Владимирович": 6,
-      "Солуянова Наталия Валерьевна": 4,
-      "Шустров Виктор Николаевич": 4
+      "gas:candidate-vibid:2832000229196": 23,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 7,
+      "gas:candidate-vibid:2832000227186": 6,
+      "gas:candidate-vibid:2832000229477": 4,
+      "gas:candidate-vibid:2832000229163": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 25,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 22,
-      "Смыченков Андрей Владимирович": 8,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 3
+      "gas:candidate-vibid:2832000229196": 25,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 22,
+      "gas:candidate-vibid:2832000227186": 8,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 15,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 7,
-      "Смыченков Андрей Владимирович": 5,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 1
+      "gas:candidate-vibid:2832000229196": 15,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 7,
+      "gas:candidate-vibid:2832000227186": 5,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 29,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 22,
-      "Смыченков Андрей Владимирович": 7,
-      "Солуянова Наталия Валерьевна": 2,
-      "Шустров Виктор Николаевич": 11
+      "gas:candidate-vibid:2832000229196": 29,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 22,
+      "gas:candidate-vibid:2832000227186": 7,
+      "gas:candidate-vibid:2832000229477": 2,
+      "gas:candidate-vibid:2832000229163": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 25,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 13,
-      "Смыченков Андрей Владимирович": 8,
-      "Солуянова Наталия Валерьевна": 3,
-      "Шустров Виктор Николаевич": 5
+      "gas:candidate-vibid:2832000229196": 25,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 13,
+      "gas:candidate-vibid:2832000227186": 8,
+      "gas:candidate-vibid:2832000229477": 3,
+      "gas:candidate-vibid:2832000229163": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 56,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 43,
-      "Смыченков Андрей Владимирович": 14,
-      "Солуянова Наталия Валерьевна": 2,
-      "Шустров Виктор Николаевич": 7
+      "gas:candidate-vibid:2832000229196": 56,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 43,
+      "gas:candidate-vibid:2832000227186": 14,
+      "gas:candidate-vibid:2832000229477": 2,
+      "gas:candidate-vibid:2832000229163": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 114,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 37,
-      "Смыченков Андрей Владимирович": 12,
-      "Солуянова Наталия Валерьевна": 3,
-      "Шустров Виктор Николаевич": 37
+      "gas:candidate-vibid:2832000229196": 114,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 37,
+      "gas:candidate-vibid:2832000227186": 12,
+      "gas:candidate-vibid:2832000229477": 3,
+      "gas:candidate-vibid:2832000229163": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 35,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 13,
-      "Смыченков Андрей Владимирович": 4,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 5
+      "gas:candidate-vibid:2832000229196": 35,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 13,
+      "gas:candidate-vibid:2832000227186": 4,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 19,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 9,
-      "Смыченков Андрей Владимирович": 2,
-      "Солуянова Наталия Валерьевна": 0,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 19,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 9,
+      "gas:candidate-vibid:2832000227186": 2,
+      "gas:candidate-vibid:2832000229477": 0,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 254,
-      "Лебедев Алексей Олегович": 14,
-      "Саблин Александр Иванович": 117,
-      "Смыченков Андрей Владимирович": 37,
-      "Солуянова Наталия Валерьевна": 13,
-      "Шустров Виктор Николаевич": 30
+      "gas:candidate-vibid:2832000229196": 254,
+      "gas:candidate-vibid:2832000228134": 14,
+      "gas:candidate-vibid:2832000228026": 117,
+      "gas:candidate-vibid:2832000227186": 37,
+      "gas:candidate-vibid:2832000229477": 13,
+      "gas:candidate-vibid:2832000229163": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 261,
-      "Лебедев Алексей Олегович": 7,
-      "Саблин Александр Иванович": 84,
-      "Смыченков Андрей Владимирович": 21,
-      "Солуянова Наталия Валерьевна": 10,
-      "Шустров Виктор Николаевич": 18
+      "gas:candidate-vibid:2832000229196": 261,
+      "gas:candidate-vibid:2832000228134": 7,
+      "gas:candidate-vibid:2832000228026": 84,
+      "gas:candidate-vibid:2832000227186": 21,
+      "gas:candidate-vibid:2832000229477": 10,
+      "gas:candidate-vibid:2832000229163": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 30,
-      "Лебедев Алексей Олегович": 0,
-      "Саблин Александр Иванович": 14,
-      "Смыченков Андрей Владимирович": 6,
-      "Солуянова Наталия Валерьевна": 5,
-      "Шустров Виктор Николаевич": 0
+      "gas:candidate-vibid:2832000229196": 30,
+      "gas:candidate-vibid:2832000228134": 0,
+      "gas:candidate-vibid:2832000228026": 14,
+      "gas:candidate-vibid:2832000227186": 6,
+      "gas:candidate-vibid:2832000229477": 5,
+      "gas:candidate-vibid:2832000229163": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 83,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 23,
-      "Смыченков Андрей Владимирович": 15,
-      "Солуянова Наталия Валерьевна": 5,
-      "Шустров Виктор Николаевич": 4
+      "gas:candidate-vibid:2832000229196": 83,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 23,
+      "gas:candidate-vibid:2832000227186": 15,
+      "gas:candidate-vibid:2832000229477": 5,
+      "gas:candidate-vibid:2832000229163": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 141,
-      "Лебедев Алексей Олегович": 5,
-      "Саблин Александр Иванович": 33,
-      "Смыченков Андрей Владимирович": 12,
-      "Солуянова Наталия Валерьевна": 1,
-      "Шустров Виктор Николаевич": 3
+      "gas:candidate-vibid:2832000229196": 141,
+      "gas:candidate-vibid:2832000228134": 5,
+      "gas:candidate-vibid:2832000228026": 33,
+      "gas:candidate-vibid:2832000227186": 12,
+      "gas:candidate-vibid:2832000229477": 1,
+      "gas:candidate-vibid:2832000229163": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 126,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 22,
-      "Смыченков Андрей Владимирович": 12,
-      "Солуянова Наталия Валерьевна": 3,
-      "Шустров Виктор Николаевич": 5
+      "gas:candidate-vibid:2832000229196": 126,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 22,
+      "gas:candidate-vibid:2832000227186": 12,
+      "gas:candidate-vibid:2832000229477": 3,
+      "gas:candidate-vibid:2832000229163": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 92,
-      "Лебедев Алексей Олегович": 1,
-      "Саблин Александр Иванович": 25,
-      "Смыченков Андрей Владимирович": 10,
-      "Солуянова Наталия Валерьевна": 6,
-      "Шустров Виктор Николаевич": 46
+      "gas:candidate-vibid:2832000229196": 92,
+      "gas:candidate-vibid:2832000228134": 1,
+      "gas:candidate-vibid:2832000228026": 25,
+      "gas:candidate-vibid:2832000227186": 10,
+      "gas:candidate-vibid:2832000229477": 6,
+      "gas:candidate-vibid:2832000229163": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 179,
-      "Лебедев Алексей Олегович": 4,
-      "Саблин Александр Иванович": 14,
-      "Смыченков Андрей Владимирович": 15,
-      "Солуянова Наталия Валерьевна": 3,
-      "Шустров Виктор Николаевич": 3
+      "gas:candidate-vibid:2832000229196": 179,
+      "gas:candidate-vibid:2832000228134": 4,
+      "gas:candidate-vibid:2832000228026": 14,
+      "gas:candidate-vibid:2832000227186": 15,
+      "gas:candidate-vibid:2832000229477": 3,
+      "gas:candidate-vibid:2832000229163": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 76,
-      "Лебедев Алексей Олегович": 13,
-      "Саблин Александр Иванович": 69,
-      "Смыченков Андрей Владимирович": 31,
-      "Солуянова Наталия Валерьевна": 21,
-      "Шустров Виктор Николаевич": 15
+      "gas:candidate-vibid:2832000229196": 76,
+      "gas:candidate-vibid:2832000228134": 13,
+      "gas:candidate-vibid:2832000228026": 69,
+      "gas:candidate-vibid:2832000227186": 31,
+      "gas:candidate-vibid:2832000229477": 21,
+      "gas:candidate-vibid:2832000229163": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 144,
-      "Лебедев Алексей Олегович": 7,
-      "Саблин Александр Иванович": 103,
-      "Смыченков Андрей Владимирович": 57,
-      "Солуянова Наталия Валерьевна": 28,
-      "Шустров Виктор Николаевич": 35
+      "gas:candidate-vibid:2832000229196": 144,
+      "gas:candidate-vibid:2832000228134": 7,
+      "gas:candidate-vibid:2832000228026": 103,
+      "gas:candidate-vibid:2832000227186": 57,
+      "gas:candidate-vibid:2832000229477": 28,
+      "gas:candidate-vibid:2832000229163": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 129,
-      "Лебедев Алексей Олегович": 9,
-      "Саблин Александр Иванович": 90,
-      "Смыченков Андрей Владимирович": 39,
-      "Солуянова Наталия Валерьевна": 19,
-      "Шустров Виктор Николаевич": 28
+      "gas:candidate-vibid:2832000229196": 129,
+      "gas:candidate-vibid:2832000228134": 9,
+      "gas:candidate-vibid:2832000228026": 90,
+      "gas:candidate-vibid:2832000227186": 39,
+      "gas:candidate-vibid:2832000229477": 19,
+      "gas:candidate-vibid:2832000229163": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 158,
-      "Лебедев Алексей Олегович": 11,
-      "Саблин Александр Иванович": 130,
-      "Смыченков Андрей Владимирович": 54,
-      "Солуянова Наталия Валерьевна": 21,
-      "Шустров Виктор Николаевич": 32
+      "gas:candidate-vibid:2832000229196": 158,
+      "gas:candidate-vibid:2832000228134": 11,
+      "gas:candidate-vibid:2832000228026": 130,
+      "gas:candidate-vibid:2832000227186": 54,
+      "gas:candidate-vibid:2832000229477": 21,
+      "gas:candidate-vibid:2832000229163": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 120,
-      "Лебедев Алексей Олегович": 12,
-      "Саблин Александр Иванович": 97,
-      "Смыченков Андрей Владимирович": 58,
-      "Солуянова Наталия Валерьевна": 15,
-      "Шустров Виктор Николаевич": 32
+      "gas:candidate-vibid:2832000229196": 120,
+      "gas:candidate-vibid:2832000228134": 12,
+      "gas:candidate-vibid:2832000228026": 97,
+      "gas:candidate-vibid:2832000227186": 58,
+      "gas:candidate-vibid:2832000229477": 15,
+      "gas:candidate-vibid:2832000229163": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224957&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224957&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 87,
-      "Лебедев Алексей Олегович": 8,
-      "Саблин Александр Иванович": 107,
-      "Смыченков Андрей Владимирович": 46,
-      "Солуянова Наталия Валерьевна": 16,
-      "Шустров Виктор Николаевич": 24
+      "gas:candidate-vibid:2832000229196": 87,
+      "gas:candidate-vibid:2832000228134": 8,
+      "gas:candidate-vibid:2832000228026": 107,
+      "gas:candidate-vibid:2832000227186": 46,
+      "gas:candidate-vibid:2832000229477": 16,
+      "gas:candidate-vibid:2832000229163": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 114,
-      "Лебедев Алексей Олегович": 8,
-      "Саблин Александр Иванович": 130,
-      "Смыченков Андрей Владимирович": 47,
-      "Солуянова Наталия Валерьевна": 12,
-      "Шустров Виктор Николаевич": 34
+      "gas:candidate-vibid:2832000229196": 114,
+      "gas:candidate-vibid:2832000228134": 8,
+      "gas:candidate-vibid:2832000228026": 130,
+      "gas:candidate-vibid:2832000227186": 47,
+      "gas:candidate-vibid:2832000229477": 12,
+      "gas:candidate-vibid:2832000229163": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 285,
-      "Лебедев Алексей Олегович": 8,
-      "Саблин Александр Иванович": 251,
-      "Смыченков Андрей Владимирович": 72,
-      "Солуянова Наталия Валерьевна": 21,
-      "Шустров Виктор Николаевич": 97
+      "gas:candidate-vibid:2832000229196": 285,
+      "gas:candidate-vibid:2832000228134": 8,
+      "gas:candidate-vibid:2832000228026": 251,
+      "gas:candidate-vibid:2832000227186": 72,
+      "gas:candidate-vibid:2832000229477": 21,
+      "gas:candidate-vibid:2832000229163": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 127,
-      "Лебедев Алексей Олегович": 2,
-      "Саблин Александр Иванович": 107,
-      "Смыченков Андрей Владимирович": 40,
-      "Солуянова Наталия Валерьевна": 11,
-      "Шустров Виктор Николаевич": 35
+      "gas:candidate-vibid:2832000229196": 127,
+      "gas:candidate-vibid:2832000228134": 2,
+      "gas:candidate-vibid:2832000228026": 107,
+      "gas:candidate-vibid:2832000227186": 40,
+      "gas:candidate-vibid:2832000229477": 11,
+      "gas:candidate-vibid:2832000229163": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 324,
-      "Лебедев Алексей Олегович": 18,
-      "Саблин Александр Иванович": 239,
-      "Смыченков Андрей Владимирович": 117,
-      "Солуянова Наталия Валерьевна": 27,
-      "Шустров Виктор Николаевич": 77
+      "gas:candidate-vibid:2832000229196": 324,
+      "gas:candidate-vibid:2832000228134": 18,
+      "gas:candidate-vibid:2832000228026": 239,
+      "gas:candidate-vibid:2832000227186": 117,
+      "gas:candidate-vibid:2832000229477": 27,
+      "gas:candidate-vibid:2832000229163": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 214,
-      "Лебедев Алексей Олегович": 8,
-      "Саблин Александр Иванович": 118,
-      "Смыченков Андрей Владимирович": 66,
-      "Солуянова Наталия Валерьевна": 13,
-      "Шустров Виктор Николаевич": 36
+      "gas:candidate-vibid:2832000229196": 214,
+      "gas:candidate-vibid:2832000228134": 8,
+      "gas:candidate-vibid:2832000228026": 118,
+      "gas:candidate-vibid:2832000227186": 66,
+      "gas:candidate-vibid:2832000229477": 13,
+      "gas:candidate-vibid:2832000229163": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 366,
-      "Лебедев Алексей Олегович": 16,
-      "Саблин Александр Иванович": 249,
-      "Смыченков Андрей Владимирович": 105,
-      "Солуянова Наталия Валерьевна": 26,
-      "Шустров Виктор Николаевич": 63
+      "gas:candidate-vibid:2832000229196": 366,
+      "gas:candidate-vibid:2832000228134": 16,
+      "gas:candidate-vibid:2832000228026": 249,
+      "gas:candidate-vibid:2832000227186": 105,
+      "gas:candidate-vibid:2832000229477": 26,
+      "gas:candidate-vibid:2832000229163": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 351,
-      "Лебедев Алексей Олегович": 5,
-      "Саблин Александр Иванович": 271,
-      "Смыченков Андрей Владимирович": 97,
-      "Солуянова Наталия Валерьевна": 40,
-      "Шустров Виктор Николаевич": 95
+      "gas:candidate-vibid:2832000229196": 351,
+      "gas:candidate-vibid:2832000228134": 5,
+      "gas:candidate-vibid:2832000228026": 271,
+      "gas:candidate-vibid:2832000227186": 97,
+      "gas:candidate-vibid:2832000229477": 40,
+      "gas:candidate-vibid:2832000229163": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 270,
-      "Лебедев Алексей Олегович": 12,
-      "Саблин Александр Иванович": 270,
-      "Смыченков Андрей Владимирович": 109,
-      "Солуянова Наталия Валерьевна": 34,
-      "Шустров Виктор Николаевич": 87
+      "gas:candidate-vibid:2832000229196": 270,
+      "gas:candidate-vibid:2832000228134": 12,
+      "gas:candidate-vibid:2832000228026": 270,
+      "gas:candidate-vibid:2832000227186": 109,
+      "gas:candidate-vibid:2832000229477": 34,
+      "gas:candidate-vibid:2832000229163": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 312,
-      "Лебедев Алексей Олегович": 6,
-      "Саблин Александр Иванович": 266,
-      "Смыченков Андрей Владимирович": 105,
-      "Солуянова Наталия Валерьевна": 29,
-      "Шустров Виктор Николаевич": 80
+      "gas:candidate-vibid:2832000229196": 312,
+      "gas:candidate-vibid:2832000228134": 6,
+      "gas:candidate-vibid:2832000228026": 266,
+      "gas:candidate-vibid:2832000227186": 105,
+      "gas:candidate-vibid:2832000229477": 29,
+      "gas:candidate-vibid:2832000229163": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Коткин Сергей Николаевич": 120,
-      "Лебедев Алексей Олегович": 3,
-      "Саблин Александр Иванович": 119,
-      "Смыченков Андрей Владимирович": 52,
-      "Солуянова Наталия Валерьевна": 2,
-      "Шустров Виктор Николаевич": 26
+      "gas:candidate-vibid:2832000229196": 120,
+      "gas:candidate-vibid:2832000228134": 3,
+      "gas:candidate-vibid:2832000228026": 119,
+      "gas:candidate-vibid:2832000227186": 52,
+      "gas:candidate-vibid:2832000229477": 2,
+      "gas:candidate-vibid:2832000229163": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000224958&vrn=100100067795849&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000224958&type=464",

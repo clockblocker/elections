@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 53,
-      "Гринблат Борислав Ефимович": 84,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 402,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 112,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 239,
-      "Чунгуров Владимир Ильич": 102,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136116": 53,
+      "gas:candidate-vibid:1001000113975": 84,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 402,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 112,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 239,
+      "gas:candidate-vibid:363300570733": 102,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 128,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 282,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 99,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 197,
-      "Чунгуров Владимир Ильич": 88,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 128,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 282,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 99,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 197,
+      "gas:candidate-vibid:363300570733": 88,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 69,
-      "Гринблат Борислав Ефимович": 161,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 329,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 176,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 254,
-      "Чунгуров Владимир Ильич": 145,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136116": 69,
+      "gas:candidate-vibid:1001000113975": 161,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 329,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 176,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 254,
+      "gas:candidate-vibid:363300570733": 145,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 42,
-      "Гринблат Борислав Ефимович": 103,
-      "Жигалев Борис Николаевич": 26,
-      "Иванов Анатолий Семенович": 269,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 150,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 217,
-      "Чунгуров Владимир Ильич": 126,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136116": 42,
+      "gas:candidate-vibid:1001000113975": 103,
+      "gas:candidate-vibid:1001000217953": 26,
+      "gas:candidate-vibid:1001000131409": 269,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 150,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 217,
+      "gas:candidate-vibid:363300570733": 126,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 46,
-      "Гринблат Борислав Ефимович": 154,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 306,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 137,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 215,
-      "Чунгуров Владимир Ильич": 116,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136116": 46,
+      "gas:candidate-vibid:1001000113975": 154,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 306,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 137,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 215,
+      "gas:candidate-vibid:363300570733": 116,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 137,
-      "Жигалев Борис Николаевич": 29,
-      "Иванов Анатолий Семенович": 274,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 134,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 270,
-      "Чунгуров Владимир Ильич": 139,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 137,
+      "gas:candidate-vibid:1001000217953": 29,
+      "gas:candidate-vibid:1001000131409": 274,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 134,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 270,
+      "gas:candidate-vibid:363300570733": 139,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 68,
-      "Гринблат Борислав Ефимович": 124,
-      "Жигалев Борис Николаевич": 27,
-      "Иванов Анатолий Семенович": 253,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 159,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 238,
-      "Чунгуров Владимир Ильич": 117,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136116": 68,
+      "gas:candidate-vibid:1001000113975": 124,
+      "gas:candidate-vibid:1001000217953": 27,
+      "gas:candidate-vibid:1001000131409": 253,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 159,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 238,
+      "gas:candidate-vibid:363300570733": 117,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 65,
-      "Гринблат Борислав Ефимович": 183,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 280,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 133,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 223,
-      "Чунгуров Владимир Ильич": 123,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136116": 65,
+      "gas:candidate-vibid:1001000113975": 183,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 280,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 133,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 223,
+      "gas:candidate-vibid:363300570733": 123,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 69,
-      "Гринблат Борислав Ефимович": 184,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 317,
-      "Колосов Роман Олегович": 20,
-      "Коновалов Владимир Григорьевич": 18,
-      "Пеунова Светлана Михайловна": 156,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 273,
-      "Чунгуров Владимир Ильич": 131,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136116": 69,
+      "gas:candidate-vibid:1001000113975": 184,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 317,
+      "gas:candidate-vibid:1001000195137": 20,
+      "gas:candidate-vibid:1001000250455": 18,
+      "gas:candidate-vibid:363300570748": 156,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 273,
+      "gas:candidate-vibid:363300570733": 131,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 57,
-      "Гринблат Борислав Ефимович": 174,
-      "Жигалев Борис Николаевич": 27,
-      "Иванов Анатолий Семенович": 331,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 138,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 207,
-      "Чунгуров Владимир Ильич": 120,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136116": 57,
+      "gas:candidate-vibid:1001000113975": 174,
+      "gas:candidate-vibid:1001000217953": 27,
+      "gas:candidate-vibid:1001000131409": 331,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 138,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 207,
+      "gas:candidate-vibid:363300570733": 120,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 70,
-      "Гринблат Борислав Ефимович": 128,
-      "Жигалев Борис Николаевич": 26,
-      "Иванов Анатолий Семенович": 292,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 92,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 210,
-      "Чунгуров Владимир Ильич": 84,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136116": 70,
+      "gas:candidate-vibid:1001000113975": 128,
+      "gas:candidate-vibid:1001000217953": 26,
+      "gas:candidate-vibid:1001000131409": 292,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 92,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 210,
+      "gas:candidate-vibid:363300570733": 84,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 66,
-      "Гринблат Борислав Ефимович": 101,
-      "Жигалев Борис Николаевич": 25,
-      "Иванов Анатолий Семенович": 272,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 164,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 197,
-      "Чунгуров Владимир Ильич": 93,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136116": 66,
+      "gas:candidate-vibid:1001000113975": 101,
+      "gas:candidate-vibid:1001000217953": 25,
+      "gas:candidate-vibid:1001000131409": 272,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 164,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 197,
+      "gas:candidate-vibid:363300570733": 93,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 109,
-      "Жигалев Борис Николаевич": 27,
-      "Иванов Анатолий Семенович": 251,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 122,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 238,
-      "Чунгуров Владимир Ильич": 83,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 109,
+      "gas:candidate-vibid:1001000217953": 27,
+      "gas:candidate-vibid:1001000131409": 251,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 122,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 238,
+      "gas:candidate-vibid:363300570733": 83,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 83,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 109,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 14,
-      "Пеунова Светлана Михайловна": 185,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 202,
-      "Чунгуров Владимир Ильич": 39,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 83,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 109,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 14,
+      "gas:candidate-vibid:363300570748": 185,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 202,
+      "gas:candidate-vibid:363300570733": 39,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 46,
-      "Гринблат Борислав Ефимович": 119,
-      "Жигалев Борис Николаевич": 27,
-      "Иванов Анатолий Семенович": 298,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 124,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 215,
-      "Чунгуров Владимир Ильич": 126,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136116": 46,
+      "gas:candidate-vibid:1001000113975": 119,
+      "gas:candidate-vibid:1001000217953": 27,
+      "gas:candidate-vibid:1001000131409": 298,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 124,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 215,
+      "gas:candidate-vibid:363300570733": 126,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 150,
-      "Жигалев Борис Николаевич": 25,
-      "Иванов Анатолий Семенович": 286,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 121,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 259,
-      "Чунгуров Владимир Ильич": 109,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 150,
+      "gas:candidate-vibid:1001000217953": 25,
+      "gas:candidate-vibid:1001000131409": 286,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 121,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 259,
+      "gas:candidate-vibid:363300570733": 109,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 66,
-      "Гринблат Борислав Ефимович": 110,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 257,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 138,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 231,
-      "Чунгуров Владимир Ильич": 93,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 66,
+      "gas:candidate-vibid:1001000113975": 110,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 257,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 138,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 231,
+      "gas:candidate-vibid:363300570733": 93,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 82,
-      "Гринблат Борислав Ефимович": 107,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 247,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 106,
-      "Сафонов Игорь Иванович": 25,
-      "Таратынов Александр Михайлович": 214,
-      "Чунгуров Владимир Ильич": 99,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136116": 82,
+      "gas:candidate-vibid:1001000113975": 107,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 247,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 106,
+      "gas:candidate-vibid:363300570739": 25,
+      "gas:candidate-vibid:1001000225981": 214,
+      "gas:candidate-vibid:363300570733": 99,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 52,
-      "Гринблат Борислав Ефимович": 81,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 228,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 113,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 137,
-      "Чунгуров Владимир Ильич": 94,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136116": 52,
+      "gas:candidate-vibid:1001000113975": 81,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 228,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 113,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 137,
+      "gas:candidate-vibid:363300570733": 94,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 67,
-      "Гринблат Борислав Ефимович": 84,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 370,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 128,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 277,
-      "Чунгуров Владимир Ильич": 153,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 67,
+      "gas:candidate-vibid:1001000113975": 84,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 370,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 128,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 277,
+      "gas:candidate-vibid:363300570733": 153,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 48,
-      "Гринблат Борислав Ефимович": 104,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 336,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 180,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 231,
-      "Чунгуров Владимир Ильич": 129,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136116": 48,
+      "gas:candidate-vibid:1001000113975": 104,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 336,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 180,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 231,
+      "gas:candidate-vibid:363300570733": 129,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 92,
-      "Жигалев Борис Николаевич": 24,
-      "Иванов Анатолий Семенович": 255,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 144,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 246,
-      "Чунгуров Владимир Ильич": 128,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 92,
+      "gas:candidate-vibid:1001000217953": 24,
+      "gas:candidate-vibid:1001000131409": 255,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 144,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 246,
+      "gas:candidate-vibid:363300570733": 128,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 103,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 310,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 183,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 234,
-      "Чунгуров Владимир Ильич": 111,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 103,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 310,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 183,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 234,
+      "gas:candidate-vibid:363300570733": 111,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 58,
-      "Гринблат Борислав Ефимович": 102,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 286,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 14,
-      "Пеунова Светлана Михайловна": 186,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 274,
-      "Чунгуров Владимир Ильич": 108,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136116": 58,
+      "gas:candidate-vibid:1001000113975": 102,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 286,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 14,
+      "gas:candidate-vibid:363300570748": 186,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 274,
+      "gas:candidate-vibid:363300570733": 108,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 58,
-      "Гринблат Борислав Ефимович": 82,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 228,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 141,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 197,
-      "Чунгуров Владимир Ильич": 113,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136116": 58,
+      "gas:candidate-vibid:1001000113975": 82,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 228,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 141,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 197,
+      "gas:candidate-vibid:363300570733": 113,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 99,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 320,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 172,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 244,
-      "Чунгуров Владимир Ильич": 143,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 99,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 320,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 172,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 244,
+      "gas:candidate-vibid:363300570733": 143,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 119,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 333,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 166,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 202,
-      "Чунгуров Владимир Ильич": 106,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 119,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 333,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 166,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 202,
+      "gas:candidate-vibid:363300570733": 106,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 137,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 287,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 14,
-      "Пеунова Светлана Михайловна": 156,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 246,
-      "Чунгуров Владимир Ильич": 98,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 137,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 287,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 14,
+      "gas:candidate-vibid:363300570748": 156,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 246,
+      "gas:candidate-vibid:363300570733": 98,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 63,
-      "Гринблат Борислав Ефимович": 65,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 243,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 130,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 265,
-      "Чунгуров Владимир Ильич": 114,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 63,
+      "gas:candidate-vibid:1001000113975": 65,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 243,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 130,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 265,
+      "gas:candidate-vibid:363300570733": 114,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 85,
-      "Гринблат Борислав Ефимович": 103,
-      "Жигалев Борис Николаевич": 29,
-      "Иванов Анатолий Семенович": 282,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 167,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 251,
-      "Чунгуров Владимир Ильич": 113,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136116": 85,
+      "gas:candidate-vibid:1001000113975": 103,
+      "gas:candidate-vibid:1001000217953": 29,
+      "gas:candidate-vibid:1001000131409": 282,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 167,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 251,
+      "gas:candidate-vibid:363300570733": 113,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 76,
-      "Гринблат Борислав Ефимович": 85,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 242,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 118,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 213,
-      "Чунгуров Владимир Ильич": 108,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136116": 76,
+      "gas:candidate-vibid:1001000113975": 85,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 242,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 118,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 213,
+      "gas:candidate-vibid:363300570733": 108,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 67,
-      "Гринблат Борислав Ефимович": 113,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 237,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 120,
-      "Сафонов Игорь Иванович": 35,
-      "Таратынов Александр Михайлович": 202,
-      "Чунгуров Владимир Ильич": 87,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136116": 67,
+      "gas:candidate-vibid:1001000113975": 113,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 237,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 120,
+      "gas:candidate-vibid:363300570739": 35,
+      "gas:candidate-vibid:1001000225981": 202,
+      "gas:candidate-vibid:363300570733": 87,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 81,
-      "Гринблат Борислав Ефимович": 125,
-      "Жигалев Борис Николаевич": 27,
-      "Иванов Анатолий Семенович": 283,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 136,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 237,
-      "Чунгуров Владимир Ильич": 122,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136116": 81,
+      "gas:candidate-vibid:1001000113975": 125,
+      "gas:candidate-vibid:1001000217953": 27,
+      "gas:candidate-vibid:1001000131409": 283,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 136,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 237,
+      "gas:candidate-vibid:363300570733": 122,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 87,
-      "Гринблат Борислав Ефимович": 94,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 302,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 146,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 305,
-      "Чунгуров Владимир Ильич": 109,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 87,
+      "gas:candidate-vibid:1001000113975": 94,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 302,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 146,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 305,
+      "gas:candidate-vibid:363300570733": 109,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 49,
-      "Гринблат Борислав Ефимович": 109,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 288,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 18,
-      "Пеунова Светлана Михайловна": 140,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 212,
-      "Чунгуров Владимир Ильич": 102,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136116": 49,
+      "gas:candidate-vibid:1001000113975": 109,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 288,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 18,
+      "gas:candidate-vibid:363300570748": 140,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 212,
+      "gas:candidate-vibid:363300570733": 102,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 103,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 137,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 115,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 181,
-      "Чунгуров Владимир Ильич": 77,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 103,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 137,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 115,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 181,
+      "gas:candidate-vibid:363300570733": 77,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 58,
-      "Гринблат Борислав Ефимович": 66,
-      "Жигалев Борис Николаевич": 4,
-      "Иванов Анатолий Семенович": 142,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 88,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 144,
-      "Чунгуров Владимир Ильич": 43,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136116": 58,
+      "gas:candidate-vibid:1001000113975": 66,
+      "gas:candidate-vibid:1001000217953": 4,
+      "gas:candidate-vibid:1001000131409": 142,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 88,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 144,
+      "gas:candidate-vibid:363300570733": 43,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 69,
-      "Гринблат Борислав Ефимович": 65,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 165,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 122,
-      "Сафонов Игорь Иванович": 26,
-      "Таратынов Александр Михайлович": 203,
-      "Чунгуров Владимир Ильич": 95,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136116": 69,
+      "gas:candidate-vibid:1001000113975": 65,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 165,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 122,
+      "gas:candidate-vibid:363300570739": 26,
+      "gas:candidate-vibid:1001000225981": 203,
+      "gas:candidate-vibid:363300570733": 95,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 76,
-      "Гринблат Борислав Ефимович": 81,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 212,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 85,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 258,
-      "Чунгуров Владимир Ильич": 95,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136116": 76,
+      "gas:candidate-vibid:1001000113975": 81,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 212,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 85,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 258,
+      "gas:candidate-vibid:363300570733": 95,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 114,
-      "Гринблат Борислав Ефимович": 148,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 205,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 88,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 303,
-      "Чунгуров Владимир Ильич": 85,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136116": 114,
+      "gas:candidate-vibid:1001000113975": 148,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 205,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 88,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 303,
+      "gas:candidate-vibid:363300570733": 85,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 113,
-      "Гринблат Борислав Ефимович": 120,
-      "Жигалев Борис Николаевич": 37,
-      "Иванов Анатолий Семенович": 250,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 17,
-      "Пеунова Светлана Михайловна": 127,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 321,
-      "Чунгуров Владимир Ильич": 111,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136116": 113,
+      "gas:candidate-vibid:1001000113975": 120,
+      "gas:candidate-vibid:1001000217953": 37,
+      "gas:candidate-vibid:1001000131409": 250,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 17,
+      "gas:candidate-vibid:363300570748": 127,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 321,
+      "gas:candidate-vibid:363300570733": 111,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 45,
-      "Гринблат Борислав Ефимович": 55,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 163,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 137,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 154,
-      "Чунгуров Владимир Ильич": 60,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136116": 45,
+      "gas:candidate-vibid:1001000113975": 55,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 163,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 137,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 154,
+      "gas:candidate-vibid:363300570733": 60,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 153,
-      "Жигалев Борис Николаевич": 28,
-      "Иванов Анатолий Семенович": 243,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 192,
-      "Сафонов Игорь Иванович": 26,
-      "Таратынов Александр Михайлович": 236,
-      "Чунгуров Владимир Ильич": 101,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 153,
+      "gas:candidate-vibid:1001000217953": 28,
+      "gas:candidate-vibid:1001000131409": 243,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 192,
+      "gas:candidate-vibid:363300570739": 26,
+      "gas:candidate-vibid:1001000225981": 236,
+      "gas:candidate-vibid:363300570733": 101,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 76,
-      "Гринблат Борислав Ефимович": 88,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 233,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 116,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 272,
-      "Чунгуров Владимир Ильич": 100,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136116": 76,
+      "gas:candidate-vibid:1001000113975": 88,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 233,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 116,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 272,
+      "gas:candidate-vibid:363300570733": 100,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 61,
-      "Гринблат Борислав Ефимович": 102,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 250,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 104,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 190,
-      "Чунгуров Владимир Ильич": 74,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136116": 61,
+      "gas:candidate-vibid:1001000113975": 102,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 250,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 104,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 190,
+      "gas:candidate-vibid:363300570733": 74,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 79,
-      "Гринблат Борислав Ефимович": 87,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 222,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 160,
-      "Сафонов Игорь Иванович": 48,
-      "Таратынов Александр Михайлович": 317,
-      "Чунгуров Владимир Ильич": 75,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136116": 79,
+      "gas:candidate-vibid:1001000113975": 87,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 222,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 160,
+      "gas:candidate-vibid:363300570739": 48,
+      "gas:candidate-vibid:1001000225981": 317,
+      "gas:candidate-vibid:363300570733": 75,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 125,
-      "Гринблат Борислав Ефимович": 128,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 266,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 233,
-      "Сафонов Игорь Иванович": 42,
-      "Таратынов Александр Михайлович": 295,
-      "Чунгуров Владимир Ильич": 143,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136116": 125,
+      "gas:candidate-vibid:1001000113975": 128,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 266,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 233,
+      "gas:candidate-vibid:363300570739": 42,
+      "gas:candidate-vibid:1001000225981": 295,
+      "gas:candidate-vibid:363300570733": 143,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 29,
-      "Гринблат Борислав Ефимович": 100,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 186,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 62,
-      "Сафонов Игорь Иванович": 7,
-      "Таратынов Александр Михайлович": 131,
-      "Чунгуров Владимир Ильич": 86,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136116": 29,
+      "gas:candidate-vibid:1001000113975": 100,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 186,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 62,
+      "gas:candidate-vibid:363300570739": 7,
+      "gas:candidate-vibid:1001000225981": 131,
+      "gas:candidate-vibid:363300570733": 86,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 9,
-      "Гринблат Борислав Ефимович": 13,
-      "Жигалев Борис Николаевич": 2,
-      "Иванов Анатолий Семенович": 17,
-      "Колосов Роман Олегович": 0,
-      "Коновалов Владимир Григорьевич": 1,
-      "Пеунова Светлана Михайловна": 6,
-      "Сафонов Игорь Иванович": 1,
-      "Таратынов Александр Михайлович": 12,
-      "Чунгуров Владимир Ильич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136116": 9,
+      "gas:candidate-vibid:1001000113975": 13,
+      "gas:candidate-vibid:1001000217953": 2,
+      "gas:candidate-vibid:1001000131409": 17,
+      "gas:candidate-vibid:1001000195137": 0,
+      "gas:candidate-vibid:1001000250455": 1,
+      "gas:candidate-vibid:363300570748": 6,
+      "gas:candidate-vibid:363300570739": 1,
+      "gas:candidate-vibid:1001000225981": 12,
+      "gas:candidate-vibid:363300570733": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 10,
-      "Гринблат Борислав Ефимович": 6,
-      "Жигалев Борис Николаевич": 5,
-      "Иванов Анатолий Семенович": 63,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 0,
-      "Пеунова Светлана Михайловна": 3,
-      "Сафонов Игорь Иванович": 2,
-      "Таратынов Александр Михайлович": 40,
-      "Чунгуров Владимир Ильич": 27,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136116": 10,
+      "gas:candidate-vibid:1001000113975": 6,
+      "gas:candidate-vibid:1001000217953": 5,
+      "gas:candidate-vibid:1001000131409": 63,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 0,
+      "gas:candidate-vibid:363300570748": 3,
+      "gas:candidate-vibid:363300570739": 2,
+      "gas:candidate-vibid:1001000225981": 40,
+      "gas:candidate-vibid:363300570733": 27,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 4,
-      "Гринблат Борислав Ефимович": 7,
-      "Жигалев Борис Николаевич": 3,
-      "Иванов Анатолий Семенович": 17,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 0,
-      "Пеунова Светлана Михайловна": 9,
-      "Сафонов Игорь Иванович": 2,
-      "Таратынов Александр Михайлович": 23,
-      "Чунгуров Владимир Ильич": 13,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136116": 4,
+      "gas:candidate-vibid:1001000113975": 7,
+      "gas:candidate-vibid:1001000217953": 3,
+      "gas:candidate-vibid:1001000131409": 17,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 0,
+      "gas:candidate-vibid:363300570748": 9,
+      "gas:candidate-vibid:363300570739": 2,
+      "gas:candidate-vibid:1001000225981": 23,
+      "gas:candidate-vibid:363300570733": 13,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 6,
-      "Гринблат Борислав Ефимович": 6,
-      "Жигалев Борис Николаевич": 4,
-      "Иванов Анатолий Семенович": 20,
-      "Колосов Роман Олегович": 0,
-      "Коновалов Владимир Григорьевич": 0,
-      "Пеунова Светлана Михайловна": 6,
-      "Сафонов Игорь Иванович": 3,
-      "Таратынов Александр Михайлович": 11,
-      "Чунгуров Владимир Ильич": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136116": 6,
+      "gas:candidate-vibid:1001000113975": 6,
+      "gas:candidate-vibid:1001000217953": 4,
+      "gas:candidate-vibid:1001000131409": 20,
+      "gas:candidate-vibid:1001000195137": 0,
+      "gas:candidate-vibid:1001000250455": 0,
+      "gas:candidate-vibid:363300570748": 6,
+      "gas:candidate-vibid:363300570739": 3,
+      "gas:candidate-vibid:1001000225981": 11,
+      "gas:candidate-vibid:363300570733": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 73,
-      "Гринблат Борислав Ефимович": 164,
-      "Жигалев Борис Николаевич": 33,
-      "Иванов Анатолий Семенович": 283,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 222,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 213,
-      "Чунгуров Владимир Ильич": 123,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136116": 73,
+      "gas:candidate-vibid:1001000113975": 164,
+      "gas:candidate-vibid:1001000217953": 33,
+      "gas:candidate-vibid:1001000131409": 283,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 222,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 213,
+      "gas:candidate-vibid:363300570733": 123,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 80,
-      "Гринблат Борислав Ефимович": 127,
-      "Жигалев Борис Николаевич": 41,
-      "Иванов Анатолий Семенович": 305,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 198,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 255,
-      "Чунгуров Владимир Ильич": 126,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136116": 80,
+      "gas:candidate-vibid:1001000113975": 127,
+      "gas:candidate-vibid:1001000217953": 41,
+      "gas:candidate-vibid:1001000131409": 305,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 198,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 255,
+      "gas:candidate-vibid:363300570733": 126,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 187,
-      "Жигалев Борис Николаевич": 32,
-      "Иванов Анатолий Семенович": 242,
-      "Колосов Роман Олегович": 20,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 187,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 191,
-      "Чунгуров Владимир Ильич": 109,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 187,
+      "gas:candidate-vibid:1001000217953": 32,
+      "gas:candidate-vibid:1001000131409": 242,
+      "gas:candidate-vibid:1001000195137": 20,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 187,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 191,
+      "gas:candidate-vibid:363300570733": 109,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 34,
-      "Гринблат Борислав Ефимович": 136,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 250,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 185,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 198,
-      "Чунгуров Владимир Ильич": 142,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136116": 34,
+      "gas:candidate-vibid:1001000113975": 136,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 250,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 185,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 198,
+      "gas:candidate-vibid:363300570733": 142,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 40,
-      "Гринблат Борислав Ефимович": 176,
-      "Жигалев Борис Николаевич": 25,
-      "Иванов Анатолий Семенович": 263,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 159,
-      "Сафонов Игорь Иванович": 32,
-      "Таратынов Александр Михайлович": 214,
-      "Чунгуров Владимир Ильич": 108,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136116": 40,
+      "gas:candidate-vibid:1001000113975": 176,
+      "gas:candidate-vibid:1001000217953": 25,
+      "gas:candidate-vibid:1001000131409": 263,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 159,
+      "gas:candidate-vibid:363300570739": 32,
+      "gas:candidate-vibid:1001000225981": 214,
+      "gas:candidate-vibid:363300570733": 108,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 157,
-      "Жигалев Борис Николаевич": 29,
-      "Иванов Анатолий Семенович": 281,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 178,
-      "Сафонов Игорь Иванович": 32,
-      "Таратынов Александр Михайлович": 213,
-      "Чунгуров Владимир Ильич": 110,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 157,
+      "gas:candidate-vibid:1001000217953": 29,
+      "gas:candidate-vibid:1001000131409": 281,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 178,
+      "gas:candidate-vibid:363300570739": 32,
+      "gas:candidate-vibid:1001000225981": 213,
+      "gas:candidate-vibid:363300570733": 110,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 65,
-      "Гринблат Борислав Ефимович": 169,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 299,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 181,
-      "Сафонов Игорь Иванович": 29,
-      "Таратынов Александр Михайлович": 192,
-      "Чунгуров Владимир Ильич": 134,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136116": 65,
+      "gas:candidate-vibid:1001000113975": 169,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 299,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 181,
+      "gas:candidate-vibid:363300570739": 29,
+      "gas:candidate-vibid:1001000225981": 192,
+      "gas:candidate-vibid:363300570733": 134,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 48,
-      "Гринблат Борислав Ефимович": 157,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 232,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 123,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 192,
-      "Чунгуров Владимир Ильич": 94,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136116": 48,
+      "gas:candidate-vibid:1001000113975": 157,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 232,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 123,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 192,
+      "gas:candidate-vibid:363300570733": 94,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 38,
-      "Гринблат Борислав Ефимович": 167,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 242,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 117,
-      "Сафонов Игорь Иванович": 32,
-      "Таратынов Александр Михайлович": 172,
-      "Чунгуров Владимир Ильич": 120,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136116": 38,
+      "gas:candidate-vibid:1001000113975": 167,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 242,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 117,
+      "gas:candidate-vibid:363300570739": 32,
+      "gas:candidate-vibid:1001000225981": 172,
+      "gas:candidate-vibid:363300570733": 120,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 247,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 218,
-      "Колосов Роман Олегович": 13,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 148,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 193,
-      "Чунгуров Владимир Ильич": 114,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 247,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 218,
+      "gas:candidate-vibid:1001000195137": 13,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 148,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 193,
+      "gas:candidate-vibid:363300570733": 114,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 53,
-      "Гринблат Борислав Ефимович": 346,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 250,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 130,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 173,
-      "Чунгуров Владимир Ильич": 92,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 53,
+      "gas:candidate-vibid:1001000113975": 346,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 250,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 130,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 173,
+      "gas:candidate-vibid:363300570733": 92,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 194,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 234,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 153,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 188,
-      "Чунгуров Владимир Ильич": 105,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 194,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 234,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 153,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 188,
+      "gas:candidate-vibid:363300570733": 105,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 74,
-      "Гринблат Борислав Ефимович": 222,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 226,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 14,
-      "Пеунова Светлана Михайловна": 187,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 203,
-      "Чунгуров Владимир Ильич": 108,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136116": 74,
+      "gas:candidate-vibid:1001000113975": 222,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 226,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 14,
+      "gas:candidate-vibid:363300570748": 187,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 203,
+      "gas:candidate-vibid:363300570733": 108,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 71,
-      "Гринблат Борислав Ефимович": 153,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 211,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 186,
-      "Сафонов Игорь Иванович": 26,
-      "Таратынов Александр Михайлович": 169,
-      "Чунгуров Владимир Ильич": 82,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136116": 71,
+      "gas:candidate-vibid:1001000113975": 153,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 211,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 186,
+      "gas:candidate-vibid:363300570739": 26,
+      "gas:candidate-vibid:1001000225981": 169,
+      "gas:candidate-vibid:363300570733": 82,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 174,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 219,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 134,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 156,
-      "Чунгуров Владимир Ильич": 81,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 174,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 219,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 134,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 156,
+      "gas:candidate-vibid:363300570733": 81,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 188,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 244,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 146,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 192,
-      "Чунгуров Владимир Ильич": 91,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 188,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 244,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 146,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 192,
+      "gas:candidate-vibid:363300570733": 91,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 226,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 228,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 136,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 143,
-      "Чунгуров Владимир Ильич": 101,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 226,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 228,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 136,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 143,
+      "gas:candidate-vibid:363300570733": 101,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 54,
-      "Гринблат Борислав Ефимович": 215,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 212,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 151,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 184,
-      "Чунгуров Владимир Ильич": 87,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136116": 54,
+      "gas:candidate-vibid:1001000113975": 215,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 212,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 151,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 184,
+      "gas:candidate-vibid:363300570733": 87,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 57,
-      "Гринблат Борислав Ефимович": 198,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 234,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 177,
-      "Сафонов Игорь Иванович": 29,
-      "Таратынов Александр Михайлович": 207,
-      "Чунгуров Владимир Ильич": 172,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136116": 57,
+      "gas:candidate-vibid:1001000113975": 198,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 234,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 177,
+      "gas:candidate-vibid:363300570739": 29,
+      "gas:candidate-vibid:1001000225981": 207,
+      "gas:candidate-vibid:363300570733": 172,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 74,
-      "Гринблат Борислав Ефимович": 173,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 263,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 146,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 212,
-      "Чунгуров Владимир Ильич": 118,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136116": 74,
+      "gas:candidate-vibid:1001000113975": 173,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 263,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 146,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 212,
+      "gas:candidate-vibid:363300570733": 118,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 61,
-      "Гринблат Борислав Ефимович": 129,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 228,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 148,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 153,
-      "Чунгуров Владимир Ильич": 114,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136116": 61,
+      "gas:candidate-vibid:1001000113975": 129,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 228,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 148,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 153,
+      "gas:candidate-vibid:363300570733": 114,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 61,
-      "Гринблат Борислав Ефимович": 167,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 222,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 154,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 226,
-      "Чунгуров Владимир Ильич": 124,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136116": 61,
+      "gas:candidate-vibid:1001000113975": 167,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 222,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 154,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 226,
+      "gas:candidate-vibid:363300570733": 124,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 178,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 232,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 153,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 146,
-      "Чунгуров Владимир Ильич": 97,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 178,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 232,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 153,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 146,
+      "gas:candidate-vibid:363300570733": 97,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 94,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 110,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 65,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 139,
-      "Чунгуров Владимир Ильич": 77,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 94,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 110,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 65,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 139,
+      "gas:candidate-vibid:363300570733": 77,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 73,
-      "Гринблат Борислав Ефимович": 145,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 148,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 191,
-      "Сафонов Игорь Иванович": 26,
-      "Таратынов Александр Михайлович": 170,
-      "Чунгуров Владимир Ильич": 92,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136116": 73,
+      "gas:candidate-vibid:1001000113975": 145,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 148,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 191,
+      "gas:candidate-vibid:363300570739": 26,
+      "gas:candidate-vibid:1001000225981": 170,
+      "gas:candidate-vibid:363300570733": 92,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 81,
-      "Гринблат Борислав Ефимович": 127,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 118,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 180,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 166,
-      "Чунгуров Владимир Ильич": 93,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136116": 81,
+      "gas:candidate-vibid:1001000113975": 127,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 118,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 180,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 166,
+      "gas:candidate-vibid:363300570733": 93,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 54,
-      "Гринблат Борислав Ефимович": 145,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 90,
-      "Колосов Роман Олегович": 13,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 98,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 153,
-      "Чунгуров Владимир Ильич": 80,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 54,
+      "gas:candidate-vibid:1001000113975": 145,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 90,
+      "gas:candidate-vibid:1001000195137": 13,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 98,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 153,
+      "gas:candidate-vibid:363300570733": 80,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 88,
-      "Гринблат Борислав Ефимович": 135,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 142,
-      "Колосов Роман Олегович": 17,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 103,
-      "Сафонов Игорь Иванович": 202,
-      "Таратынов Александр Михайлович": 150,
-      "Чунгуров Владимир Ильич": 89,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000136116": 88,
+      "gas:candidate-vibid:1001000113975": 135,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 142,
+      "gas:candidate-vibid:1001000195137": 17,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 103,
+      "gas:candidate-vibid:363300570739": 202,
+      "gas:candidate-vibid:1001000225981": 150,
+      "gas:candidate-vibid:363300570733": 89,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 73,
-      "Гринблат Борислав Ефимович": 117,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 145,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 115,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 189,
-      "Чунгуров Владимир Ильич": 76,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136116": 73,
+      "gas:candidate-vibid:1001000113975": 117,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 145,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 115,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 189,
+      "gas:candidate-vibid:363300570733": 76,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 82,
-      "Гринблат Борислав Ефимович": 149,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 173,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 201,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 205,
-      "Чунгуров Владимир Ильич": 78,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136116": 82,
+      "gas:candidate-vibid:1001000113975": 149,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 173,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 201,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 205,
+      "gas:candidate-vibid:363300570733": 78,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 81,
-      "Гринблат Борислав Ефимович": 182,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 168,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 181,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 205,
-      "Чунгуров Владимир Ильич": 106,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136116": 81,
+      "gas:candidate-vibid:1001000113975": 182,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 168,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 181,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 205,
+      "gas:candidate-vibid:363300570733": 106,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 97,
-      "Гринблат Борислав Ефимович": 180,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 217,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 199,
-      "Сафонов Игорь Иванович": 53,
-      "Таратынов Александр Михайлович": 194,
-      "Чунгуров Владимир Ильич": 124,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136116": 97,
+      "gas:candidate-vibid:1001000113975": 180,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 217,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 199,
+      "gas:candidate-vibid:363300570739": 53,
+      "gas:candidate-vibid:1001000225981": 194,
+      "gas:candidate-vibid:363300570733": 124,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 82,
-      "Гринблат Борислав Ефимович": 157,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 195,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 205,
-      "Сафонов Игорь Иванович": 46,
-      "Таратынов Александр Михайлович": 271,
-      "Чунгуров Владимир Ильич": 138,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136116": 82,
+      "gas:candidate-vibid:1001000113975": 157,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 195,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 205,
+      "gas:candidate-vibid:363300570739": 46,
+      "gas:candidate-vibid:1001000225981": 271,
+      "gas:candidate-vibid:363300570733": 138,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 69,
-      "Гринблат Борислав Ефимович": 166,
-      "Жигалев Борис Николаевич": 28,
-      "Иванов Анатолий Семенович": 180,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 218,
-      "Сафонов Игорь Иванович": 39,
-      "Таратынов Александр Михайлович": 185,
-      "Чунгуров Владимир Ильич": 101,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136116": 69,
+      "gas:candidate-vibid:1001000113975": 166,
+      "gas:candidate-vibid:1001000217953": 28,
+      "gas:candidate-vibid:1001000131409": 180,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 218,
+      "gas:candidate-vibid:363300570739": 39,
+      "gas:candidate-vibid:1001000225981": 185,
+      "gas:candidate-vibid:363300570733": 101,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 112,
-      "Жигалев Борис Николаевич": 6,
-      "Иванов Анатолий Семенович": 123,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 115,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 121,
-      "Чунгуров Владимир Ильич": 58,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 112,
+      "gas:candidate-vibid:1001000217953": 6,
+      "gas:candidate-vibid:1001000131409": 123,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 115,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 121,
+      "gas:candidate-vibid:363300570733": 58,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 161,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 124,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 169,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 154,
-      "Чунгуров Владимир Ильич": 79,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 161,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 124,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 169,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 154,
+      "gas:candidate-vibid:363300570733": 79,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 146,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 162,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 165,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 170,
-      "Чунгуров Владимир Ильич": 124,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 146,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 162,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 165,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 170,
+      "gas:candidate-vibid:363300570733": 124,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 78,
-      "Гринблат Борислав Ефимович": 187,
-      "Жигалев Борис Николаевич": 30,
-      "Иванов Анатолий Семенович": 209,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 159,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 225,
-      "Чунгуров Владимир Ильич": 187,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136116": 78,
+      "gas:candidate-vibid:1001000113975": 187,
+      "gas:candidate-vibid:1001000217953": 30,
+      "gas:candidate-vibid:1001000131409": 209,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 159,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 225,
+      "gas:candidate-vibid:363300570733": 187,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 89,
-      "Гринблат Борислав Ефимович": 168,
-      "Жигалев Борис Николаевич": 26,
-      "Иванов Анатолий Семенович": 243,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 139,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 176,
-      "Чунгуров Владимир Ильич": 166,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136116": 89,
+      "gas:candidate-vibid:1001000113975": 168,
+      "gas:candidate-vibid:1001000217953": 26,
+      "gas:candidate-vibid:1001000131409": 243,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 139,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 176,
+      "gas:candidate-vibid:363300570733": 166,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 37,
-      "Гринблат Борислав Ефимович": 75,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 84,
-      "Колосов Роман Олегович": 0,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 53,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 106,
-      "Чунгуров Владимир Ильич": 55,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136116": 37,
+      "gas:candidate-vibid:1001000113975": 75,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 84,
+      "gas:candidate-vibid:1001000195137": 0,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 53,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 106,
+      "gas:candidate-vibid:363300570733": 55,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 52,
-      "Гринблат Борислав Ефимович": 121,
-      "Жигалев Борис Николаевич": 9,
-      "Иванов Анатолий Семенович": 120,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 64,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 122,
-      "Чунгуров Владимир Ильич": 73,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136116": 52,
+      "gas:candidate-vibid:1001000113975": 121,
+      "gas:candidate-vibid:1001000217953": 9,
+      "gas:candidate-vibid:1001000131409": 120,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 64,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 122,
+      "gas:candidate-vibid:363300570733": 73,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 73,
-      "Гринблат Борислав Ефимович": 98,
-      "Жигалев Борис Николаевич": 25,
-      "Иванов Анатолий Семенович": 115,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 274,
-      "Сафонов Игорь Иванович": 10,
-      "Таратынов Александр Михайлович": 233,
-      "Чунгуров Владимир Ильич": 95,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136116": 73,
+      "gas:candidate-vibid:1001000113975": 98,
+      "gas:candidate-vibid:1001000217953": 25,
+      "gas:candidate-vibid:1001000131409": 115,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 274,
+      "gas:candidate-vibid:363300570739": 10,
+      "gas:candidate-vibid:1001000225981": 233,
+      "gas:candidate-vibid:363300570733": 95,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 81,
-      "Гринблат Борислав Ефимович": 96,
-      "Жигалев Борис Николаевич": 41,
-      "Иванов Анатолий Семенович": 101,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 262,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 214,
-      "Чунгуров Владимир Ильич": 95,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136116": 81,
+      "gas:candidate-vibid:1001000113975": 96,
+      "gas:candidate-vibid:1001000217953": 41,
+      "gas:candidate-vibid:1001000131409": 101,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 262,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 214,
+      "gas:candidate-vibid:363300570733": 95,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 76,
-      "Гринблат Борислав Ефимович": 75,
-      "Жигалев Борис Николаевич": 29,
-      "Иванов Анатолий Семенович": 118,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 252,
-      "Сафонов Игорь Иванович": 33,
-      "Таратынов Александр Михайлович": 221,
-      "Чунгуров Владимир Ильич": 118,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136116": 76,
+      "gas:candidate-vibid:1001000113975": 75,
+      "gas:candidate-vibid:1001000217953": 29,
+      "gas:candidate-vibid:1001000131409": 118,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 252,
+      "gas:candidate-vibid:363300570739": 33,
+      "gas:candidate-vibid:1001000225981": 221,
+      "gas:candidate-vibid:363300570733": 118,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071429&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 71,
-      "Гринблат Борислав Ефимович": 85,
-      "Жигалев Борис Николаевич": 26,
-      "Иванов Анатолий Семенович": 495,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 91,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 354,
-      "Чунгуров Владимир Ильич": 79,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136116": 71,
+      "gas:candidate-vibid:1001000113975": 85,
+      "gas:candidate-vibid:1001000217953": 26,
+      "gas:candidate-vibid:1001000131409": 495,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 91,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 354,
+      "gas:candidate-vibid:363300570733": 79,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 53,
-      "Гринблат Борислав Ефимович": 120,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 543,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 111,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 341,
-      "Чунгуров Владимир Ильич": 64,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136116": 53,
+      "gas:candidate-vibid:1001000113975": 120,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 543,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 111,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 341,
+      "gas:candidate-vibid:363300570733": 64,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 70,
-      "Гринблат Борислав Ефимович": 86,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 338,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 120,
-      "Сафонов Игорь Иванович": 32,
-      "Таратынов Александр Михайлович": 293,
-      "Чунгуров Владимир Ильич": 72,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136116": 70,
+      "gas:candidate-vibid:1001000113975": 86,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 338,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 120,
+      "gas:candidate-vibid:363300570739": 32,
+      "gas:candidate-vibid:1001000225981": 293,
+      "gas:candidate-vibid:363300570733": 72,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 109,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 453,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 136,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 302,
-      "Чунгуров Владимир Ильич": 69,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 109,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 453,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 136,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 302,
+      "gas:candidate-vibid:363300570733": 69,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 79,
-      "Гринблат Борислав Ефимович": 96,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 420,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 121,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 301,
-      "Чунгуров Владимир Ильич": 54,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136116": 79,
+      "gas:candidate-vibid:1001000113975": 96,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 420,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 121,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 301,
+      "gas:candidate-vibid:363300570733": 54,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 90,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 486,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 1,
-      "Пеунова Светлана Михайловна": 109,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 323,
-      "Чунгуров Владимир Ильич": 65,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 90,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 486,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 1,
+      "gas:candidate-vibid:363300570748": 109,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 323,
+      "gas:candidate-vibid:363300570733": 65,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 48,
-      "Гринблат Борислав Ефимович": 87,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 445,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 119,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 254,
-      "Чунгуров Владимир Ильич": 50,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136116": 48,
+      "gas:candidate-vibid:1001000113975": 87,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 445,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 119,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 254,
+      "gas:candidate-vibid:363300570733": 50,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 64,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 504,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 131,
-      "Сафонов Игорь Иванович": 29,
-      "Таратынов Александр Михайлович": 269,
-      "Чунгуров Владимир Ильич": 78,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 64,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 504,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 131,
+      "gas:candidate-vibid:363300570739": 29,
+      "gas:candidate-vibid:1001000225981": 269,
+      "gas:candidate-vibid:363300570733": 78,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 143,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 546,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 157,
-      "Сафонов Игорь Иванович": 25,
-      "Таратынов Александр Михайлович": 260,
-      "Чунгуров Владимир Ильич": 66,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 143,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 546,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 157,
+      "gas:candidate-vibid:363300570739": 25,
+      "gas:candidate-vibid:1001000225981": 260,
+      "gas:candidate-vibid:363300570733": 66,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 65,
-      "Гринблат Борислав Ефимович": 100,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 450,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 102,
-      "Сафонов Игорь Иванович": 37,
-      "Таратынов Александр Михайлович": 252,
-      "Чунгуров Владимир Ильич": 56,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136116": 65,
+      "gas:candidate-vibid:1001000113975": 100,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 450,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 102,
+      "gas:candidate-vibid:363300570739": 37,
+      "gas:candidate-vibid:1001000225981": 252,
+      "gas:candidate-vibid:363300570733": 56,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 110,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 485,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 113,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 265,
-      "Чунгуров Владимир Ильич": 70,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 110,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 485,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 113,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 265,
+      "gas:candidate-vibid:363300570733": 70,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 45,
-      "Гринблат Борислав Ефимович": 131,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 406,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 100,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 271,
-      "Чунгуров Владимир Ильич": 35,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136116": 45,
+      "gas:candidate-vibid:1001000113975": 131,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 406,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 100,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 271,
+      "gas:candidate-vibid:363300570733": 35,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 44,
-      "Гринблат Борислав Ефимович": 133,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 484,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 85,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 256,
-      "Чунгуров Владимир Ильич": 77,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136116": 44,
+      "gas:candidate-vibid:1001000113975": 133,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 484,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 85,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 256,
+      "gas:candidate-vibid:363300570733": 77,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 36,
-      "Гринблат Борислав Ефимович": 104,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 365,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 90,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 208,
-      "Чунгуров Владимир Ильич": 33,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136116": 36,
+      "gas:candidate-vibid:1001000113975": 104,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 365,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 90,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 208,
+      "gas:candidate-vibid:363300570733": 33,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 52,
-      "Гринблат Борислав Ефимович": 129,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 451,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 117,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 240,
-      "Чунгуров Владимир Ильич": 53,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136116": 52,
+      "gas:candidate-vibid:1001000113975": 129,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 451,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 117,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 240,
+      "gas:candidate-vibid:363300570733": 53,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 31,
-      "Гринблат Борислав Ефимович": 89,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 440,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 102,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 299,
-      "Чунгуров Владимир Ильич": 65,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136116": 31,
+      "gas:candidate-vibid:1001000113975": 89,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 440,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 102,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 299,
+      "gas:candidate-vibid:363300570733": 65,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 42,
-      "Гринблат Борислав Ефимович": 154,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 598,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 129,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 336,
-      "Чунгуров Владимир Ильич": 64,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136116": 42,
+      "gas:candidate-vibid:1001000113975": 154,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 598,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 129,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 336,
+      "gas:candidate-vibid:363300570733": 64,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 115,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 653,
-      "Колосов Роман Олегович": 15,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 158,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 314,
-      "Чунгуров Владимир Ильич": 65,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 115,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 653,
+      "gas:candidate-vibid:1001000195137": 15,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 158,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 314,
+      "gas:candidate-vibid:363300570733": 65,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 42,
-      "Гринблат Борислав Ефимович": 78,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 605,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 137,
-      "Сафонов Игорь Иванович": 35,
-      "Таратынов Александр Михайлович": 280,
-      "Чунгуров Владимир Ильич": 39,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136116": 42,
+      "gas:candidate-vibid:1001000113975": 78,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 605,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 137,
+      "gas:candidate-vibid:363300570739": 35,
+      "gas:candidate-vibid:1001000225981": 280,
+      "gas:candidate-vibid:363300570733": 39,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 36,
-      "Гринблат Борислав Ефимович": 116,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 393,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 104,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 320,
-      "Чунгуров Владимир Ильич": 60,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136116": 36,
+      "gas:candidate-vibid:1001000113975": 116,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 393,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 104,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 320,
+      "gas:candidate-vibid:363300570733": 60,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 97,
-      "Жигалев Борис Николаевич": 9,
-      "Иванов Анатолий Семенович": 438,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 84,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 249,
-      "Чунгуров Владимир Ильич": 66,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 97,
+      "gas:candidate-vibid:1001000217953": 9,
+      "gas:candidate-vibid:1001000131409": 438,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 84,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 249,
+      "gas:candidate-vibid:363300570733": 66,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 44,
-      "Гринблат Борислав Ефимович": 100,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 497,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 14,
-      "Пеунова Светлана Михайловна": 88,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 257,
-      "Чунгуров Владимир Ильич": 56,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136116": 44,
+      "gas:candidate-vibid:1001000113975": 100,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 497,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 14,
+      "gas:candidate-vibid:363300570748": 88,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 257,
+      "gas:candidate-vibid:363300570733": 56,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 63,
-      "Гринблат Борислав Ефимович": 170,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 471,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 1,
-      "Пеунова Светлана Михайловна": 111,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 295,
-      "Чунгуров Владимир Ильич": 76,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136116": 63,
+      "gas:candidate-vibid:1001000113975": 170,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 471,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 1,
+      "gas:candidate-vibid:363300570748": 111,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 295,
+      "gas:candidate-vibid:363300570733": 76,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 27,
-      "Гринблат Борислав Ефимович": 17,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 223,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 84,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 124,
-      "Чунгуров Владимир Ильич": 26,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136116": 27,
+      "gas:candidate-vibid:1001000113975": 17,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 223,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 84,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 124,
+      "gas:candidate-vibid:363300570733": 26,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 43,
-      "Гринблат Борислав Ефимович": 9,
-      "Жигалев Борис Николаевич": 6,
-      "Иванов Анатолий Семенович": 251,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 88,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 146,
-      "Чунгуров Владимир Ильич": 14,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136116": 43,
+      "gas:candidate-vibid:1001000113975": 9,
+      "gas:candidate-vibid:1001000217953": 6,
+      "gas:candidate-vibid:1001000131409": 251,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 88,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 146,
+      "gas:candidate-vibid:363300570733": 14,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 46,
-      "Гринблат Борислав Ефимович": 30,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 185,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 71,
-      "Сафонов Игорь Иванович": 9,
-      "Таратынов Александр Михайлович": 150,
-      "Чунгуров Владимир Ильич": 19,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136116": 46,
+      "gas:candidate-vibid:1001000113975": 30,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 185,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 71,
+      "gas:candidate-vibid:363300570739": 9,
+      "gas:candidate-vibid:1001000225981": 150,
+      "gas:candidate-vibid:363300570733": 19,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 47,
-      "Гринблат Борислав Ефимович": 17,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 151,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 72,
-      "Сафонов Игорь Иванович": 8,
-      "Таратынов Александр Михайлович": 134,
-      "Чунгуров Владимир Ильич": 8,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136116": 47,
+      "gas:candidate-vibid:1001000113975": 17,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 151,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 72,
+      "gas:candidate-vibid:363300570739": 8,
+      "gas:candidate-vibid:1001000225981": 134,
+      "gas:candidate-vibid:363300570733": 8,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 31,
-      "Гринблат Борислав Ефимович": 47,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 196,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 72,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 123,
-      "Чунгуров Владимир Ильич": 21,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136116": 31,
+      "gas:candidate-vibid:1001000113975": 47,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 196,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 72,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 123,
+      "gas:candidate-vibid:363300570733": 21,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 12,
-      "Гринблат Борислав Ефимович": 62,
-      "Жигалев Борис Николаевич": 1,
-      "Иванов Анатолий Семенович": 58,
-      "Колосов Роман Олегович": 0,
-      "Коновалов Владимир Григорьевич": 1,
-      "Пеунова Светлана Михайловна": 31,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 61,
-      "Чунгуров Владимир Ильич": 5,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136116": 12,
+      "gas:candidate-vibid:1001000113975": 62,
+      "gas:candidate-vibid:1001000217953": 1,
+      "gas:candidate-vibid:1001000131409": 58,
+      "gas:candidate-vibid:1001000195137": 0,
+      "gas:candidate-vibid:1001000250455": 1,
+      "gas:candidate-vibid:363300570748": 31,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 61,
+      "gas:candidate-vibid:363300570733": 5,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 69,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 545,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 135,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 245,
-      "Чунгуров Владимир Ильич": 49,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 69,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 545,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 135,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 245,
+      "gas:candidate-vibid:363300570733": 49,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 46,
-      "Гринблат Борислав Ефимович": 134,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 461,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 129,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 299,
-      "Чунгуров Владимир Ильич": 104,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136116": 46,
+      "gas:candidate-vibid:1001000113975": 134,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 461,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 129,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 299,
+      "gas:candidate-vibid:363300570733": 104,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 28,
-      "Гринблат Борислав Ефимович": 74,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 382,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 72,
-      "Сафонов Игорь Иванович": 8,
-      "Таратынов Александр Михайлович": 231,
-      "Чунгуров Владимир Ильич": 43,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136116": 28,
+      "gas:candidate-vibid:1001000113975": 74,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 382,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 72,
+      "gas:candidate-vibid:363300570739": 8,
+      "gas:candidate-vibid:1001000225981": 231,
+      "gas:candidate-vibid:363300570733": 43,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 26,
-      "Гринблат Борислав Ефимович": 43,
-      "Жигалев Борис Николаевич": 5,
-      "Иванов Анатолий Семенович": 301,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 55,
-      "Сафонов Игорь Иванович": 9,
-      "Таратынов Александр Михайлович": 135,
-      "Чунгуров Владимир Ильич": 45,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136116": 26,
+      "gas:candidate-vibid:1001000113975": 43,
+      "gas:candidate-vibid:1001000217953": 5,
+      "gas:candidate-vibid:1001000131409": 301,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 55,
+      "gas:candidate-vibid:363300570739": 9,
+      "gas:candidate-vibid:1001000225981": 135,
+      "gas:candidate-vibid:363300570733": 45,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 63,
-      "Гринблат Борислав Ефимович": 86,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 517,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 139,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 240,
-      "Чунгуров Владимир Ильич": 62,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136116": 63,
+      "gas:candidate-vibid:1001000113975": 86,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 517,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 139,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 240,
+      "gas:candidate-vibid:363300570733": 62,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 78,
-      "Гринблат Борислав Ефимович": 113,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 572,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 151,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 349,
-      "Чунгуров Владимир Ильич": 89,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136116": 78,
+      "gas:candidate-vibid:1001000113975": 113,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 572,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 151,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 349,
+      "gas:candidate-vibid:363300570733": 89,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 61,
-      "Гринблат Борислав Ефимович": 102,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 426,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 128,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 301,
-      "Чунгуров Владимир Ильич": 72,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136116": 61,
+      "gas:candidate-vibid:1001000113975": 102,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 426,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 128,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 301,
+      "gas:candidate-vibid:363300570733": 72,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 58,
-      "Гринблат Борислав Ефимович": 86,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 380,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 153,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 260,
-      "Чунгуров Владимир Ильич": 59,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136116": 58,
+      "gas:candidate-vibid:1001000113975": 86,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 380,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 153,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 260,
+      "gas:candidate-vibid:363300570733": 59,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 46,
-      "Гринблат Борислав Ефимович": 109,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 423,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 89,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 357,
-      "Чунгуров Владимир Ильич": 48,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136116": 46,
+      "gas:candidate-vibid:1001000113975": 109,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 423,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 89,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 357,
+      "gas:candidate-vibid:363300570733": 48,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 45,
-      "Гринблат Борислав Ефимович": 90,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 444,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 132,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 267,
-      "Чунгуров Владимир Ильич": 87,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136116": 45,
+      "gas:candidate-vibid:1001000113975": 90,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 444,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 132,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 267,
+      "gas:candidate-vibid:363300570733": 87,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 44,
-      "Гринблат Борислав Ефимович": 74,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 471,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 108,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 291,
-      "Чунгуров Владимир Ильич": 56,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136116": 44,
+      "gas:candidate-vibid:1001000113975": 74,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 471,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 108,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 291,
+      "gas:candidate-vibid:363300570733": 56,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 41,
-      "Гринблат Борислав Ефимович": 73,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 433,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 94,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 344,
-      "Чунгуров Владимир Ильич": 72,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136116": 41,
+      "gas:candidate-vibid:1001000113975": 73,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 433,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 94,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 344,
+      "gas:candidate-vibid:363300570733": 72,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 105,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 446,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 79,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 286,
-      "Чунгуров Владимир Ильич": 47,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 105,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 446,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 79,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 286,
+      "gas:candidate-vibid:363300570733": 47,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 43,
-      "Гринблат Борислав Ефимович": 81,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 429,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 74,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 278,
-      "Чунгуров Владимир Ильич": 68,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136116": 43,
+      "gas:candidate-vibid:1001000113975": 81,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 429,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 74,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 278,
+      "gas:candidate-vibid:363300570733": 68,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 39,
-      "Гринблат Борислав Ефимович": 77,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 414,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 91,
-      "Сафонов Игорь Иванович": 9,
-      "Таратынов Александр Михайлович": 269,
-      "Чунгуров Владимир Ильич": 48,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136116": 39,
+      "gas:candidate-vibid:1001000113975": 77,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 414,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 91,
+      "gas:candidate-vibid:363300570739": 9,
+      "gas:candidate-vibid:1001000225981": 269,
+      "gas:candidate-vibid:363300570733": 48,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 38,
-      "Гринблат Борислав Ефимович": 114,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 466,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 93,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 310,
-      "Чунгуров Владимир Ильич": 62,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136116": 38,
+      "gas:candidate-vibid:1001000113975": 114,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 466,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 93,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 310,
+      "gas:candidate-vibid:363300570733": 62,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 70,
-      "Гринблат Борислав Ефимович": 163,
-      "Жигалев Борис Николаевич": 21,
-      "Иванов Анатолий Семенович": 528,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 136,
-      "Сафонов Игорь Иванович": 41,
-      "Таратынов Александр Михайлович": 326,
-      "Чунгуров Владимир Ильич": 68,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136116": 70,
+      "gas:candidate-vibid:1001000113975": 163,
+      "gas:candidate-vibid:1001000217953": 21,
+      "gas:candidate-vibid:1001000131409": 528,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 136,
+      "gas:candidate-vibid:363300570739": 41,
+      "gas:candidate-vibid:1001000225981": 326,
+      "gas:candidate-vibid:363300570733": 68,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 68,
-      "Гринблат Борислав Ефимович": 127,
-      "Жигалев Борис Николаевич": 25,
-      "Иванов Анатолий Семенович": 512,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 108,
-      "Сафонов Игорь Иванович": 37,
-      "Таратынов Александр Михайлович": 329,
-      "Чунгуров Владимир Ильич": 81,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136116": 68,
+      "gas:candidate-vibid:1001000113975": 127,
+      "gas:candidate-vibid:1001000217953": 25,
+      "gas:candidate-vibid:1001000131409": 512,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 108,
+      "gas:candidate-vibid:363300570739": 37,
+      "gas:candidate-vibid:1001000225981": 329,
+      "gas:candidate-vibid:363300570733": 81,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 67,
-      "Гринблат Борислав Ефимович": 135,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 549,
-      "Колосов Роман Олегович": 12,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 115,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 303,
-      "Чунгуров Владимир Ильич": 69,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136116": 67,
+      "gas:candidate-vibid:1001000113975": 135,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 549,
+      "gas:candidate-vibid:1001000195137": 12,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 115,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 303,
+      "gas:candidate-vibid:363300570733": 69,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 74,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 362,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 103,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 194,
-      "Чунгуров Владимир Ильич": 44,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 74,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 362,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 103,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 194,
+      "gas:candidate-vibid:363300570733": 44,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 139,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 408,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 125,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 256,
-      "Чунгуров Владимир Ильич": 60,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 139,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 408,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 125,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 256,
+      "gas:candidate-vibid:363300570733": 60,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 136,
-      "Жигалев Борис Николаевич": 25,
-      "Иванов Анатолий Семенович": 476,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 117,
-      "Сафонов Игорь Иванович": 36,
-      "Таратынов Александр Михайлович": 257,
-      "Чунгуров Владимир Ильич": 79,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 136,
+      "gas:candidate-vibid:1001000217953": 25,
+      "gas:candidate-vibid:1001000131409": 476,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 117,
+      "gas:candidate-vibid:363300570739": 36,
+      "gas:candidate-vibid:1001000225981": 257,
+      "gas:candidate-vibid:363300570733": 79,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 46,
-      "Гринблат Борислав Ефимович": 105,
-      "Жигалев Борис Николаевич": 23,
-      "Иванов Анатолий Семенович": 451,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 119,
-      "Сафонов Игорь Иванович": 35,
-      "Таратынов Александр Михайлович": 291,
-      "Чунгуров Владимир Ильич": 113,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136116": 46,
+      "gas:candidate-vibid:1001000113975": 105,
+      "gas:candidate-vibid:1001000217953": 23,
+      "gas:candidate-vibid:1001000131409": 451,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 119,
+      "gas:candidate-vibid:363300570739": 35,
+      "gas:candidate-vibid:1001000225981": 291,
+      "gas:candidate-vibid:363300570733": 113,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 49,
-      "Гринблат Борислав Ефимович": 101,
-      "Жигалев Борис Николаевич": 6,
-      "Иванов Анатолий Семенович": 376,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 86,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 228,
-      "Чунгуров Владимир Ильич": 45,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136116": 49,
+      "gas:candidate-vibid:1001000113975": 101,
+      "gas:candidate-vibid:1001000217953": 6,
+      "gas:candidate-vibid:1001000131409": 376,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 86,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 228,
+      "gas:candidate-vibid:363300570733": 45,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 170,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 463,
-      "Колосов Роман Олегович": 12,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 146,
-      "Сафонов Игорь Иванович": 29,
-      "Таратынов Александр Михайлович": 388,
-      "Чунгуров Владимир Ильич": 70,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 170,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 463,
+      "gas:candidate-vibid:1001000195137": 12,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 146,
+      "gas:candidate-vibid:363300570739": 29,
+      "gas:candidate-vibid:1001000225981": 388,
+      "gas:candidate-vibid:363300570733": 70,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 49,
-      "Гринблат Борислав Ефимович": 132,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 495,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 123,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 349,
-      "Чунгуров Владимир Ильич": 55,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136116": 49,
+      "gas:candidate-vibid:1001000113975": 132,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 495,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 123,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 349,
+      "gas:candidate-vibid:363300570733": 55,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 122,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 562,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 162,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 411,
-      "Чунгуров Владимир Ильич": 48,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 122,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 562,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 162,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 411,
+      "gas:candidate-vibid:363300570733": 48,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 70,
-      "Гринблат Борислав Ефимович": 197,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 588,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 130,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 342,
-      "Чунгуров Владимир Ильич": 74,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136116": 70,
+      "gas:candidate-vibid:1001000113975": 197,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 588,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 130,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 342,
+      "gas:candidate-vibid:363300570733": 74,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 101,
-      "Жигалев Борис Николаевич": 9,
-      "Иванов Анатолий Семенович": 431,
-      "Колосов Роман Олегович": 14,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 134,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 249,
-      "Чунгуров Владимир Ильич": 102,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 101,
+      "gas:candidate-vibid:1001000217953": 9,
+      "gas:candidate-vibid:1001000131409": 431,
+      "gas:candidate-vibid:1001000195137": 14,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 134,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 249,
+      "gas:candidate-vibid:363300570733": 102,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 87,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 516,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 133,
-      "Сафонов Игорь Иванович": 26,
-      "Таратынов Александр Михайлович": 303,
-      "Чунгуров Владимир Ильич": 53,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 87,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 516,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 133,
+      "gas:candidate-vibid:363300570739": 26,
+      "gas:candidate-vibid:1001000225981": 303,
+      "gas:candidate-vibid:363300570733": 53,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 43,
-      "Гринблат Борислав Ефимович": 152,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 506,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 102,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 260,
-      "Чунгуров Владимир Ильич": 62,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136116": 43,
+      "gas:candidate-vibid:1001000113975": 152,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 506,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 102,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 260,
+      "gas:candidate-vibid:363300570733": 62,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 117,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 493,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 109,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 276,
-      "Чунгуров Владимир Ильич": 50,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 117,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 493,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 109,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 276,
+      "gas:candidate-vibid:363300570733": 50,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 38,
-      "Гринблат Борислав Ефимович": 110,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 435,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 125,
-      "Сафонов Игорь Иванович": 25,
-      "Таратынов Александр Михайлович": 330,
-      "Чунгуров Владимир Ильич": 55,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136116": 38,
+      "gas:candidate-vibid:1001000113975": 110,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 435,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 125,
+      "gas:candidate-vibid:363300570739": 25,
+      "gas:candidate-vibid:1001000225981": 330,
+      "gas:candidate-vibid:363300570733": 55,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 98,
-      "Гринблат Борислав Ефимович": 103,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 432,
-      "Колосов Роман Олегович": 29,
-      "Коновалов Владимир Григорьевич": 28,
-      "Пеунова Светлана Михайловна": 102,
-      "Сафонов Игорь Иванович": 72,
-      "Таратынов Александр Михайлович": 587,
-      "Чунгуров Владимир Ильич": 55,
-      "Против всех": 421
+      "gas:candidate-vibid:1001000136116": 98,
+      "gas:candidate-vibid:1001000113975": 103,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 432,
+      "gas:candidate-vibid:1001000195137": 29,
+      "gas:candidate-vibid:1001000250455": 28,
+      "gas:candidate-vibid:363300570748": 102,
+      "gas:candidate-vibid:363300570739": 72,
+      "gas:candidate-vibid:1001000225981": 587,
+      "gas:candidate-vibid:363300570733": 55,
+      "special:against-all": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 67,
-      "Гринблат Борислав Ефимович": 116,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 516,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 153,
-      "Сафонов Игорь Иванович": 43,
-      "Таратынов Александр Михайлович": 309,
-      "Чунгуров Владимир Ильич": 56,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136116": 67,
+      "gas:candidate-vibid:1001000113975": 116,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 516,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 153,
+      "gas:candidate-vibid:363300570739": 43,
+      "gas:candidate-vibid:1001000225981": 309,
+      "gas:candidate-vibid:363300570733": 56,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 85,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 539,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 127,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 268,
-      "Чунгуров Владимир Ильич": 36,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 85,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 539,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 127,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 268,
+      "gas:candidate-vibid:363300570733": 36,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 65,
-      "Гринблат Борислав Ефимович": 100,
-      "Жигалев Борис Николаевич": 6,
-      "Иванов Анатолий Семенович": 537,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 17,
-      "Пеунова Светлана Михайловна": 133,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 276,
-      "Чунгуров Владимир Ильич": 74,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136116": 65,
+      "gas:candidate-vibid:1001000113975": 100,
+      "gas:candidate-vibid:1001000217953": 6,
+      "gas:candidate-vibid:1001000131409": 537,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 17,
+      "gas:candidate-vibid:363300570748": 133,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 276,
+      "gas:candidate-vibid:363300570733": 74,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 98,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 545,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 141,
-      "Сафонов Игорь Иванович": 37,
-      "Таратынов Александр Михайлович": 356,
-      "Чунгуров Владимир Ильич": 81,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 98,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 545,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 141,
+      "gas:candidate-vibid:363300570739": 37,
+      "gas:candidate-vibid:1001000225981": 356,
+      "gas:candidate-vibid:363300570733": 81,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 73,
-      "Гринблат Борислав Ефимович": 104,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 490,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 158,
-      "Сафонов Игорь Иванович": 42,
-      "Таратынов Александр Михайлович": 321,
-      "Чунгуров Владимир Ильич": 77,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136116": 73,
+      "gas:candidate-vibid:1001000113975": 104,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 490,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 158,
+      "gas:candidate-vibid:363300570739": 42,
+      "gas:candidate-vibid:1001000225981": 321,
+      "gas:candidate-vibid:363300570733": 77,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 31,
-      "Гринблат Борислав Ефимович": 80,
-      "Жигалев Борис Николаевич": 6,
-      "Иванов Анатолий Семенович": 225,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 134,
-      "Сафонов Игорь Иванович": 8,
-      "Таратынов Александр Михайлович": 181,
-      "Чунгуров Владимир Ильич": 48,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136116": 31,
+      "gas:candidate-vibid:1001000113975": 80,
+      "gas:candidate-vibid:1001000217953": 6,
+      "gas:candidate-vibid:1001000131409": 225,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 134,
+      "gas:candidate-vibid:363300570739": 8,
+      "gas:candidate-vibid:1001000225981": 181,
+      "gas:candidate-vibid:363300570733": 48,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 38,
-      "Гринблат Борислав Ефимович": 82,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 467,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 134,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 308,
-      "Чунгуров Владимир Ильич": 40,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136116": 38,
+      "gas:candidate-vibid:1001000113975": 82,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 467,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 134,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 308,
+      "gas:candidate-vibid:363300570733": 40,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 61,
-      "Гринблат Борислав Ефимович": 122,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 422,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 91,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 277,
-      "Чунгуров Владимир Ильич": 54,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136116": 61,
+      "gas:candidate-vibid:1001000113975": 122,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 422,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 91,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 277,
+      "gas:candidate-vibid:363300570733": 54,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 57,
-      "Гринблат Борислав Ефимович": 108,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 473,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 94,
-      "Сафонов Игорь Иванович": 25,
-      "Таратынов Александр Михайлович": 256,
-      "Чунгуров Владимир Ильич": 45,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136116": 57,
+      "gas:candidate-vibid:1001000113975": 108,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 473,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 94,
+      "gas:candidate-vibid:363300570739": 25,
+      "gas:candidate-vibid:1001000225981": 256,
+      "gas:candidate-vibid:363300570733": 45,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 109,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 488,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 111,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 332,
-      "Чунгуров Владимир Ильич": 52,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 109,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 488,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 111,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 332,
+      "gas:candidate-vibid:363300570733": 52,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 36,
-      "Гринблат Борислав Ефимович": 75,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 334,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 74,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 266,
-      "Чунгуров Владимир Ильич": 54,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136116": 36,
+      "gas:candidate-vibid:1001000113975": 75,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 334,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 74,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 266,
+      "gas:candidate-vibid:363300570733": 54,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 40,
-      "Гринблат Борислав Ефимович": 147,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 359,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 99,
-      "Сафонов Игорь Иванович": 26,
-      "Таратынов Александр Михайлович": 406,
-      "Чунгуров Владимир Ильич": 92,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136116": 40,
+      "gas:candidate-vibid:1001000113975": 147,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 359,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 99,
+      "gas:candidate-vibid:363300570739": 26,
+      "gas:candidate-vibid:1001000225981": 406,
+      "gas:candidate-vibid:363300570733": 92,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 44,
-      "Гринблат Борислав Ефимович": 141,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 375,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 82,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 338,
-      "Чунгуров Владимир Ильич": 69,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136116": 44,
+      "gas:candidate-vibid:1001000113975": 141,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 375,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 82,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 338,
+      "gas:candidate-vibid:363300570733": 69,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 107,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 354,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 150,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 266,
-      "Чунгуров Владимир Ильич": 70,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 107,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 354,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 150,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 266,
+      "gas:candidate-vibid:363300570733": 70,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 37,
-      "Гринблат Борислав Ефимович": 94,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 390,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 120,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 244,
-      "Чунгуров Владимир Ильич": 64,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136116": 37,
+      "gas:candidate-vibid:1001000113975": 94,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 390,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 120,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 244,
+      "gas:candidate-vibid:363300570733": 64,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 38,
-      "Гринблат Борислав Ефимович": 120,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 429,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 75,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 330,
-      "Чунгуров Владимир Ильич": 74,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136116": 38,
+      "gas:candidate-vibid:1001000113975": 120,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 429,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 75,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 330,
+      "gas:candidate-vibid:363300570733": 74,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 53,
-      "Гринблат Борислав Ефимович": 141,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 469,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 143,
-      "Сафонов Игорь Иванович": 15,
-      "Таратынов Александр Михайлович": 335,
-      "Чунгуров Владимир Ильич": 84,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136116": 53,
+      "gas:candidate-vibid:1001000113975": 141,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 469,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 143,
+      "gas:candidate-vibid:363300570739": 15,
+      "gas:candidate-vibid:1001000225981": 335,
+      "gas:candidate-vibid:363300570733": 84,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 110,
-      "Жигалев Борис Николаевич": 29,
-      "Иванов Анатолий Семенович": 414,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 126,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 321,
-      "Чунгуров Владимир Ильич": 81,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 110,
+      "gas:candidate-vibid:1001000217953": 29,
+      "gas:candidate-vibid:1001000131409": 414,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 126,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 321,
+      "gas:candidate-vibid:363300570733": 81,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 41,
-      "Гринблат Борислав Ефимович": 78,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 463,
-      "Колосов Роман Олегович": 14,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 135,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 318,
-      "Чунгуров Владимир Ильич": 74,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136116": 41,
+      "gas:candidate-vibid:1001000113975": 78,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 463,
+      "gas:candidate-vibid:1001000195137": 14,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 135,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 318,
+      "gas:candidate-vibid:363300570733": 74,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 110,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 473,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 119,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 302,
-      "Чунгуров Владимир Ильич": 61,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 110,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 473,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 119,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 302,
+      "gas:candidate-vibid:363300570733": 61,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 62,
-      "Гринблат Борислав Ефимович": 137,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 616,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 157,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 283,
-      "Чунгуров Владимир Ильич": 85,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136116": 62,
+      "gas:candidate-vibid:1001000113975": 137,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 616,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 157,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 283,
+      "gas:candidate-vibid:363300570733": 85,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 99,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 602,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 135,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 318,
-      "Чунгуров Владимир Ильич": 81,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 99,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 602,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 135,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 318,
+      "gas:candidate-vibid:363300570733": 81,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 58,
-      "Гринблат Борислав Ефимович": 68,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 387,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 19,
-      "Пеунова Светлана Михайловна": 126,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 238,
-      "Чунгуров Владимир Ильич": 77,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136116": 58,
+      "gas:candidate-vibid:1001000113975": 68,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 387,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 19,
+      "gas:candidate-vibid:363300570748": 126,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 238,
+      "gas:candidate-vibid:363300570733": 77,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 58,
-      "Гринблат Борислав Ефимович": 106,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 550,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 119,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 284,
-      "Чунгуров Владимир Ильич": 58,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136116": 58,
+      "gas:candidate-vibid:1001000113975": 106,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 550,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 119,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 284,
+      "gas:candidate-vibid:363300570733": 58,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 68,
-      "Гринблат Борислав Ефимович": 96,
-      "Жигалев Борис Николаевич": 6,
-      "Иванов Анатолий Семенович": 518,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 131,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 255,
-      "Чунгуров Владимир Ильич": 62,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136116": 68,
+      "gas:candidate-vibid:1001000113975": 96,
+      "gas:candidate-vibid:1001000217953": 6,
+      "gas:candidate-vibid:1001000131409": 518,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 131,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 255,
+      "gas:candidate-vibid:363300570733": 62,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 107,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 477,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 132,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 208,
-      "Чунгуров Владимир Ильич": 65,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 107,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 477,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 132,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 208,
+      "gas:candidate-vibid:363300570733": 65,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 65,
-      "Гринблат Борислав Ефимович": 104,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 525,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 137,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 253,
-      "Чунгуров Владимир Ильич": 66,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136116": 65,
+      "gas:candidate-vibid:1001000113975": 104,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 525,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 137,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 253,
+      "gas:candidate-vibid:363300570733": 66,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 72,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 491,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 143,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 299,
-      "Чунгуров Владимир Ильич": 59,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 72,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 491,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 143,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 299,
+      "gas:candidate-vibid:363300570733": 59,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 75,
-      "Гринблат Борислав Ефимович": 95,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 584,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 166,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 348,
-      "Чунгуров Владимир Ильич": 51,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136116": 75,
+      "gas:candidate-vibid:1001000113975": 95,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 584,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 166,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 348,
+      "gas:candidate-vibid:363300570733": 51,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 67,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 471,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 130,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 305,
-      "Чунгуров Владимир Ильич": 57,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 67,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 471,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 130,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 305,
+      "gas:candidate-vibid:363300570733": 57,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 58,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 456,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 4,
-      "Пеунова Светлана Михайловна": 77,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 314,
-      "Чунгуров Владимир Ильич": 41,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 58,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 456,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 4,
+      "gas:candidate-vibid:363300570748": 77,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 314,
+      "gas:candidate-vibid:363300570733": 41,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 106,
-      "Гринблат Борислав Ефимович": 88,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 584,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 142,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 356,
-      "Чунгуров Владимир Ильич": 57,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136116": 106,
+      "gas:candidate-vibid:1001000113975": 88,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 584,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 142,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 356,
+      "gas:candidate-vibid:363300570733": 57,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 69,
-      "Гринблат Борислав Ефимович": 84,
-      "Жигалев Борис Николаевич": 24,
-      "Иванов Анатолий Семенович": 458,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 170,
-      "Сафонов Игорь Иванович": 13,
-      "Таратынов Александр Михайлович": 329,
-      "Чунгуров Владимир Ильич": 67,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136116": 69,
+      "gas:candidate-vibid:1001000113975": 84,
+      "gas:candidate-vibid:1001000217953": 24,
+      "gas:candidate-vibid:1001000131409": 458,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 170,
+      "gas:candidate-vibid:363300570739": 13,
+      "gas:candidate-vibid:1001000225981": 329,
+      "gas:candidate-vibid:363300570733": 67,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 94,
-      "Жигалев Борис Николаевич": 9,
-      "Иванов Анатолий Семенович": 485,
-      "Колосов Роман Олегович": 14,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 161,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 299,
-      "Чунгуров Владимир Ильич": 79,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 94,
+      "gas:candidate-vibid:1001000217953": 9,
+      "gas:candidate-vibid:1001000131409": 485,
+      "gas:candidate-vibid:1001000195137": 14,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 161,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 299,
+      "gas:candidate-vibid:363300570733": 79,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 76,
-      "Гринблат Борислав Ефимович": 122,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 539,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 173,
-      "Сафонов Игорь Иванович": 17,
-      "Таратынов Александр Михайлович": 340,
-      "Чунгуров Владимир Ильич": 68,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136116": 76,
+      "gas:candidate-vibid:1001000113975": 122,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 539,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 173,
+      "gas:candidate-vibid:363300570739": 17,
+      "gas:candidate-vibid:1001000225981": 340,
+      "gas:candidate-vibid:363300570733": 68,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 75,
-      "Гринблат Борислав Ефимович": 115,
-      "Жигалев Борис Николаевич": 13,
-      "Иванов Анатолий Семенович": 586,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 101,
-      "Сафонов Игорь Иванович": 40,
-      "Таратынов Александр Михайлович": 254,
-      "Чунгуров Владимир Ильич": 40,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000136116": 75,
+      "gas:candidate-vibid:1001000113975": 115,
+      "gas:candidate-vibid:1001000217953": 13,
+      "gas:candidate-vibid:1001000131409": 586,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 101,
+      "gas:candidate-vibid:363300570739": 40,
+      "gas:candidate-vibid:1001000225981": 254,
+      "gas:candidate-vibid:363300570733": 40,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 63,
-      "Гринблат Борислав Ефимович": 90,
-      "Жигалев Борис Николаевич": 10,
-      "Иванов Анатолий Семенович": 488,
-      "Колосов Роман Олегович": 15,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 102,
-      "Сафонов Игорь Иванович": 44,
-      "Таратынов Александр Михайлович": 261,
-      "Чунгуров Владимир Ильич": 54,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136116": 63,
+      "gas:candidate-vibid:1001000113975": 90,
+      "gas:candidate-vibid:1001000217953": 10,
+      "gas:candidate-vibid:1001000131409": 488,
+      "gas:candidate-vibid:1001000195137": 15,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 102,
+      "gas:candidate-vibid:363300570739": 44,
+      "gas:candidate-vibid:1001000225981": 261,
+      "gas:candidate-vibid:363300570733": 54,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 55,
-      "Гринблат Борислав Ефимович": 99,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 484,
-      "Колосов Роман Олегович": 0,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 139,
-      "Сафонов Игорь Иванович": 43,
-      "Таратынов Александр Михайлович": 291,
-      "Чунгуров Владимир Ильич": 81,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136116": 55,
+      "gas:candidate-vibid:1001000113975": 99,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 484,
+      "gas:candidate-vibid:1001000195137": 0,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 139,
+      "gas:candidate-vibid:363300570739": 43,
+      "gas:candidate-vibid:1001000225981": 291,
+      "gas:candidate-vibid:363300570733": 81,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 89,
-      "Гринблат Борислав Ефимович": 69,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 527,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 117,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 312,
-      "Чунгуров Владимир Ильич": 64,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136116": 89,
+      "gas:candidate-vibid:1001000113975": 69,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 527,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 117,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 312,
+      "gas:candidate-vibid:363300570733": 64,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 65,
-      "Гринблат Борислав Ефимович": 115,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 511,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 148,
-      "Сафонов Игорь Иванович": 35,
-      "Таратынов Александр Михайлович": 283,
-      "Чунгуров Владимир Ильич": 45,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000136116": 65,
+      "gas:candidate-vibid:1001000113975": 115,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 511,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 148,
+      "gas:candidate-vibid:363300570739": 35,
+      "gas:candidate-vibid:1001000225981": 283,
+      "gas:candidate-vibid:363300570733": 45,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 68,
-      "Гринблат Борислав Ефимович": 69,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 552,
-      "Колосов Роман Олегович": 12,
-      "Коновалов Владимир Григорьевич": 14,
-      "Пеунова Светлана Михайловна": 143,
-      "Сафонов Игорь Иванович": 25,
-      "Таратынов Александр Михайлович": 365,
-      "Чунгуров Владимир Ильич": 54,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136116": 68,
+      "gas:candidate-vibid:1001000113975": 69,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 552,
+      "gas:candidate-vibid:1001000195137": 12,
+      "gas:candidate-vibid:1001000250455": 14,
+      "gas:candidate-vibid:363300570748": 143,
+      "gas:candidate-vibid:363300570739": 25,
+      "gas:candidate-vibid:1001000225981": 365,
+      "gas:candidate-vibid:363300570733": 54,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 111,
-      "Жигалев Борис Николаевич": 5,
-      "Иванов Анатолий Семенович": 491,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 143,
-      "Сафонов Игорь Иванович": 38,
-      "Таратынов Александр Михайлович": 334,
-      "Чунгуров Владимир Ильич": 66,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 111,
+      "gas:candidate-vibid:1001000217953": 5,
+      "gas:candidate-vibid:1001000131409": 491,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 143,
+      "gas:candidate-vibid:363300570739": 38,
+      "gas:candidate-vibid:1001000225981": 334,
+      "gas:candidate-vibid:363300570733": 66,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 66,
-      "Гринблат Борислав Ефимович": 86,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 339,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 123,
-      "Сафонов Игорь Иванович": 28,
-      "Таратынов Александр Михайлович": 259,
-      "Чунгуров Владимир Ильич": 57,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136116": 66,
+      "gas:candidate-vibid:1001000113975": 86,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 339,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 123,
+      "gas:candidate-vibid:363300570739": 28,
+      "gas:candidate-vibid:1001000225981": 259,
+      "gas:candidate-vibid:363300570733": 57,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 53,
-      "Гринблат Борислав Ефимович": 95,
-      "Жигалев Борис Николаевич": 20,
-      "Иванов Анатолий Семенович": 535,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 119,
-      "Сафонов Игорь Иванович": 11,
-      "Таратынов Александр Михайлович": 320,
-      "Чунгуров Владимир Ильич": 63,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136116": 53,
+      "gas:candidate-vibid:1001000113975": 95,
+      "gas:candidate-vibid:1001000217953": 20,
+      "gas:candidate-vibid:1001000131409": 535,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 119,
+      "gas:candidate-vibid:363300570739": 11,
+      "gas:candidate-vibid:1001000225981": 320,
+      "gas:candidate-vibid:363300570733": 63,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 51,
-      "Гринблат Борислав Ефимович": 82,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 439,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 129,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 296,
-      "Чунгуров Владимир Ильич": 51,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136116": 51,
+      "gas:candidate-vibid:1001000113975": 82,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 439,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 129,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 296,
+      "gas:candidate-vibid:363300570733": 51,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 56,
-      "Гринблат Борислав Ефимович": 87,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 378,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 105,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 209,
-      "Чунгуров Владимир Ильич": 53,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136116": 56,
+      "gas:candidate-vibid:1001000113975": 87,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 378,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 105,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 209,
+      "gas:candidate-vibid:363300570733": 53,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 42,
-      "Гринблат Борислав Ефимович": 77,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 363,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 110,
-      "Сафонов Игорь Иванович": 8,
-      "Таратынов Александр Михайлович": 229,
-      "Чунгуров Владимир Ильич": 41,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136116": 42,
+      "gas:candidate-vibid:1001000113975": 77,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 363,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 110,
+      "gas:candidate-vibid:363300570739": 8,
+      "gas:candidate-vibid:1001000225981": 229,
+      "gas:candidate-vibid:363300570733": 41,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 98,
-      "Гринблат Борислав Ефимович": 118,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 522,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 152,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 340,
-      "Чунгуров Владимир Ильич": 56,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136116": 98,
+      "gas:candidate-vibid:1001000113975": 118,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 522,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 152,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 340,
+      "gas:candidate-vibid:363300570733": 56,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 79,
-      "Гринблат Борислав Ефимович": 102,
-      "Жигалев Борис Николаевич": 26,
-      "Иванов Анатолий Семенович": 476,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 127,
-      "Сафонов Игорь Иванович": 16,
-      "Таратынов Александр Михайлович": 320,
-      "Чунгуров Владимир Ильич": 54,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136116": 79,
+      "gas:candidate-vibid:1001000113975": 102,
+      "gas:candidate-vibid:1001000217953": 26,
+      "gas:candidate-vibid:1001000131409": 476,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 127,
+      "gas:candidate-vibid:363300570739": 16,
+      "gas:candidate-vibid:1001000225981": 320,
+      "gas:candidate-vibid:363300570733": 54,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 136,
-      "Жигалев Борис Николаевич": 24,
-      "Иванов Анатолий Семенович": 478,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 100,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 295,
-      "Чунгуров Владимир Ильич": 59,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 136,
+      "gas:candidate-vibid:1001000217953": 24,
+      "gas:candidate-vibid:1001000131409": 478,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 100,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 295,
+      "gas:candidate-vibid:363300570733": 59,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 48,
-      "Гринблат Борислав Ефимович": 72,
-      "Жигалев Борис Николаевич": 5,
-      "Иванов Анатолий Семенович": 257,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 120,
-      "Сафонов Игорь Иванович": 12,
-      "Таратынов Александр Михайлович": 241,
-      "Чунгуров Владимир Ильич": 39,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136116": 48,
+      "gas:candidate-vibid:1001000113975": 72,
+      "gas:candidate-vibid:1001000217953": 5,
+      "gas:candidate-vibid:1001000131409": 257,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 120,
+      "gas:candidate-vibid:363300570739": 12,
+      "gas:candidate-vibid:1001000225981": 241,
+      "gas:candidate-vibid:363300570733": 39,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 53,
-      "Гринблат Борислав Ефимович": 119,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 399,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 5,
-      "Пеунова Светлана Михайловна": 167,
-      "Сафонов Игорь Иванович": 34,
-      "Таратынов Александр Михайлович": 322,
-      "Чунгуров Владимир Ильич": 36,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136116": 53,
+      "gas:candidate-vibid:1001000113975": 119,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 399,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 5,
+      "gas:candidate-vibid:363300570748": 167,
+      "gas:candidate-vibid:363300570739": 34,
+      "gas:candidate-vibid:1001000225981": 322,
+      "gas:candidate-vibid:363300570733": 36,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 60,
-      "Гринблат Борислав Ефимович": 147,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 476,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 107,
-      "Сафонов Игорь Иванович": 19,
-      "Таратынов Александр Михайлович": 383,
-      "Чунгуров Владимир Ильич": 59,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136116": 60,
+      "gas:candidate-vibid:1001000113975": 147,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 476,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 107,
+      "gas:candidate-vibid:363300570739": 19,
+      "gas:candidate-vibid:1001000225981": 383,
+      "gas:candidate-vibid:363300570733": 59,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 72,
-      "Гринблат Борислав Ефимович": 128,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 497,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 12,
-      "Пеунова Светлана Михайловна": 149,
-      "Сафонов Игорь Иванович": 20,
-      "Таратынов Александр Михайлович": 372,
-      "Чунгуров Владимир Ильич": 58,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136116": 72,
+      "gas:candidate-vibid:1001000113975": 128,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 497,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 12,
+      "gas:candidate-vibid:363300570748": 149,
+      "gas:candidate-vibid:363300570739": 20,
+      "gas:candidate-vibid:1001000225981": 372,
+      "gas:candidate-vibid:363300570733": 58,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 42,
-      "Гринблат Борислав Ефимович": 111,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 348,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 133,
-      "Сафонов Игорь Иванович": 50,
-      "Таратынов Александр Михайлович": 286,
-      "Чунгуров Владимир Ильич": 41,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136116": 42,
+      "gas:candidate-vibid:1001000113975": 111,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 348,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 133,
+      "gas:candidate-vibid:363300570739": 50,
+      "gas:candidate-vibid:1001000225981": 286,
+      "gas:candidate-vibid:363300570733": 41,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 104,
-      "Гринблат Борислав Ефимович": 142,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 453,
-      "Колосов Роман Олегович": 11,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 203,
-      "Сафонов Игорь Иванович": 32,
-      "Таратынов Александр Михайлович": 342,
-      "Чунгуров Владимир Ильич": 87,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136116": 104,
+      "gas:candidate-vibid:1001000113975": 142,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 453,
+      "gas:candidate-vibid:1001000195137": 11,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 203,
+      "gas:candidate-vibid:363300570739": 32,
+      "gas:candidate-vibid:1001000225981": 342,
+      "gas:candidate-vibid:363300570733": 87,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 68,
-      "Гринблат Борислав Ефимович": 139,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 373,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 16,
-      "Пеунова Светлана Михайловна": 121,
-      "Сафонов Игорь Иванович": 37,
-      "Таратынов Александр Михайлович": 302,
-      "Чунгуров Владимир Ильич": 40,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136116": 68,
+      "gas:candidate-vibid:1001000113975": 139,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 373,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 16,
+      "gas:candidate-vibid:363300570748": 121,
+      "gas:candidate-vibid:363300570739": 37,
+      "gas:candidate-vibid:1001000225981": 302,
+      "gas:candidate-vibid:363300570733": 40,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 79,
-      "Гринблат Борислав Ефимович": 97,
-      "Жигалев Борис Николаевич": 18,
-      "Иванов Анатолий Семенович": 293,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 125,
-      "Сафонов Игорь Иванович": 31,
-      "Таратынов Александр Михайлович": 290,
-      "Чунгуров Владимир Ильич": 69,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136116": 79,
+      "gas:candidate-vibid:1001000113975": 97,
+      "gas:candidate-vibid:1001000217953": 18,
+      "gas:candidate-vibid:1001000131409": 293,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 125,
+      "gas:candidate-vibid:363300570739": 31,
+      "gas:candidate-vibid:1001000225981": 290,
+      "gas:candidate-vibid:363300570733": 69,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 59,
-      "Гринблат Борислав Ефимович": 123,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 307,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 18,
-      "Пеунова Светлана Михайловна": 137,
-      "Сафонов Игорь Иванович": 24,
-      "Таратынов Александр Михайлович": 229,
-      "Чунгуров Владимир Ильич": 61,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136116": 59,
+      "gas:candidate-vibid:1001000113975": 123,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 307,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 18,
+      "gas:candidate-vibid:363300570748": 137,
+      "gas:candidate-vibid:363300570739": 24,
+      "gas:candidate-vibid:1001000225981": 229,
+      "gas:candidate-vibid:363300570733": 61,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 66,
-      "Гринблат Борислав Ефимович": 174,
-      "Жигалев Борис Николаевич": 12,
-      "Иванов Анатолий Семенович": 247,
-      "Колосов Роман Олегович": 10,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 126,
-      "Сафонов Игорь Иванович": 51,
-      "Таратынов Александр Михайлович": 272,
-      "Чунгуров Владимир Ильич": 65,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136116": 66,
+      "gas:candidate-vibid:1001000113975": 174,
+      "gas:candidate-vibid:1001000217953": 12,
+      "gas:candidate-vibid:1001000131409": 247,
+      "gas:candidate-vibid:1001000195137": 10,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 126,
+      "gas:candidate-vibid:363300570739": 51,
+      "gas:candidate-vibid:1001000225981": 272,
+      "gas:candidate-vibid:363300570733": 65,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 97,
-      "Гринблат Борислав Ефимович": 130,
-      "Жигалев Борис Николаевич": 8,
-      "Иванов Анатолий Семенович": 579,
-      "Колосов Роман Олегович": 9,
-      "Коновалов Владимир Григорьевич": 15,
-      "Пеунова Светлана Михайловна": 192,
-      "Сафонов Игорь Иванович": 27,
-      "Таратынов Александр Михайлович": 354,
-      "Чунгуров Владимир Ильич": 69,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000136116": 97,
+      "gas:candidate-vibid:1001000113975": 130,
+      "gas:candidate-vibid:1001000217953": 8,
+      "gas:candidate-vibid:1001000131409": 579,
+      "gas:candidate-vibid:1001000195137": 9,
+      "gas:candidate-vibid:1001000250455": 15,
+      "gas:candidate-vibid:363300570748": 192,
+      "gas:candidate-vibid:363300570739": 27,
+      "gas:candidate-vibid:1001000225981": 354,
+      "gas:candidate-vibid:363300570733": 69,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 83,
-      "Гринблат Борислав Ефимович": 87,
-      "Жигалев Борис Николаевич": 14,
-      "Иванов Анатолий Семенович": 546,
-      "Колосов Роман Олегович": 8,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 114,
-      "Сафонов Игорь Иванович": 42,
-      "Таратынов Александр Михайлович": 339,
-      "Чунгуров Владимир Ильич": 72,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136116": 83,
+      "gas:candidate-vibid:1001000113975": 87,
+      "gas:candidate-vibid:1001000217953": 14,
+      "gas:candidate-vibid:1001000131409": 546,
+      "gas:candidate-vibid:1001000195137": 8,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 114,
+      "gas:candidate-vibid:363300570739": 42,
+      "gas:candidate-vibid:1001000225981": 339,
+      "gas:candidate-vibid:363300570733": 72,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 87,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 533,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 11,
-      "Пеунова Светлана Михайловна": 155,
-      "Сафонов Игорь Иванович": 8,
-      "Таратынов Александр Михайлович": 343,
-      "Чунгуров Владимир Ильич": 65,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 87,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 533,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 11,
+      "gas:candidate-vibid:363300570748": 155,
+      "gas:candidate-vibid:363300570739": 8,
+      "gas:candidate-vibid:1001000225981": 343,
+      "gas:candidate-vibid:363300570733": 65,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 76,
-      "Гринблат Борислав Ефимович": 130,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 496,
-      "Колосов Роман Олегович": 7,
-      "Коновалов Владимир Григорьевич": 8,
-      "Пеунова Светлана Михайловна": 170,
-      "Сафонов Игорь Иванович": 38,
-      "Таратынов Александр Михайлович": 311,
-      "Чунгуров Владимир Ильич": 49,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136116": 76,
+      "gas:candidate-vibid:1001000113975": 130,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 496,
+      "gas:candidate-vibid:1001000195137": 7,
+      "gas:candidate-vibid:1001000250455": 8,
+      "gas:candidate-vibid:363300570748": 170,
+      "gas:candidate-vibid:363300570739": 38,
+      "gas:candidate-vibid:1001000225981": 311,
+      "gas:candidate-vibid:363300570733": 49,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 116,
-      "Жигалев Борис Николаевич": 16,
-      "Иванов Анатолий Семенович": 484,
-      "Колосов Роман Олегович": 5,
-      "Коновалов Владимир Григорьевич": 13,
-      "Пеунова Светлана Михайловна": 159,
-      "Сафонов Игорь Иванович": 30,
-      "Таратынов Александр Михайлович": 285,
-      "Чунгуров Владимир Ильич": 51,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 116,
+      "gas:candidate-vibid:1001000217953": 16,
+      "gas:candidate-vibid:1001000131409": 484,
+      "gas:candidate-vibid:1001000195137": 5,
+      "gas:candidate-vibid:1001000250455": 13,
+      "gas:candidate-vibid:363300570748": 159,
+      "gas:candidate-vibid:363300570739": 30,
+      "gas:candidate-vibid:1001000225981": 285,
+      "gas:candidate-vibid:363300570733": 51,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 48,
-      "Гринблат Борислав Ефимович": 104,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 399,
-      "Колосов Роман Олегович": 3,
-      "Коновалов Владимир Григорьевич": 9,
-      "Пеунова Светлана Михайловна": 104,
-      "Сафонов Игорь Иванович": 14,
-      "Таратынов Александр Михайлович": 244,
-      "Чунгуров Владимир Ильич": 40,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136116": 48,
+      "gas:candidate-vibid:1001000113975": 104,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 399,
+      "gas:candidate-vibid:1001000195137": 3,
+      "gas:candidate-vibid:1001000250455": 9,
+      "gas:candidate-vibid:363300570748": 104,
+      "gas:candidate-vibid:363300570739": 14,
+      "gas:candidate-vibid:1001000225981": 244,
+      "gas:candidate-vibid:363300570733": 40,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 15,
-      "Гринблат Борислав Ефимович": 15,
-      "Жигалев Борис Николаевич": 4,
-      "Иванов Анатолий Семенович": 44,
-      "Колосов Роман Олегович": 2,
-      "Коновалов Владимир Григорьевич": 2,
-      "Пеунова Светлана Михайловна": 12,
-      "Сафонов Игорь Иванович": 4,
-      "Таратынов Александр Михайлович": 59,
-      "Чунгуров Владимир Ильич": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136116": 15,
+      "gas:candidate-vibid:1001000113975": 15,
+      "gas:candidate-vibid:1001000217953": 4,
+      "gas:candidate-vibid:1001000131409": 44,
+      "gas:candidate-vibid:1001000195137": 2,
+      "gas:candidate-vibid:1001000250455": 2,
+      "gas:candidate-vibid:363300570748": 12,
+      "gas:candidate-vibid:363300570739": 4,
+      "gas:candidate-vibid:1001000225981": 59,
+      "gas:candidate-vibid:363300570733": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 6,
-      "Гринблат Борислав Ефимович": 6,
-      "Жигалев Борис Николаевич": 0,
-      "Иванов Анатолий Семенович": 13,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 0,
-      "Пеунова Светлана Михайловна": 15,
-      "Сафонов Игорь Иванович": 1,
-      "Таратынов Александр Михайлович": 22,
-      "Чунгуров Владимир Ильич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136116": 6,
+      "gas:candidate-vibid:1001000113975": 6,
+      "gas:candidate-vibid:1001000217953": 0,
+      "gas:candidate-vibid:1001000131409": 13,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 0,
+      "gas:candidate-vibid:363300570748": 15,
+      "gas:candidate-vibid:363300570739": 1,
+      "gas:candidate-vibid:1001000225981": 22,
+      "gas:candidate-vibid:363300570733": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 16,
-      "Гринблат Борислав Ефимович": 15,
-      "Жигалев Борис Николаевич": 5,
-      "Иванов Анатолий Семенович": 90,
-      "Колосов Роман Олегович": 0,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 24,
-      "Сафонов Игорь Иванович": 4,
-      "Таратынов Александр Михайлович": 74,
-      "Чунгуров Владимир Ильич": 18,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136116": 16,
+      "gas:candidate-vibid:1001000113975": 15,
+      "gas:candidate-vibid:1001000217953": 5,
+      "gas:candidate-vibid:1001000131409": 90,
+      "gas:candidate-vibid:1001000195137": 0,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 24,
+      "gas:candidate-vibid:363300570739": 4,
+      "gas:candidate-vibid:1001000225981": 74,
+      "gas:candidate-vibid:363300570733": 18,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 50,
-      "Гринблат Борислав Ефимович": 80,
-      "Жигалев Борис Николаевич": 11,
-      "Иванов Анатолий Семенович": 305,
-      "Колосов Роман Олегович": 1,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 129,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 248,
-      "Чунгуров Владимир Ильич": 32,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136116": 50,
+      "gas:candidate-vibid:1001000113975": 80,
+      "gas:candidate-vibid:1001000217953": 11,
+      "gas:candidate-vibid:1001000131409": 305,
+      "gas:candidate-vibid:1001000195137": 1,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 129,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 248,
+      "gas:candidate-vibid:363300570733": 32,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 34,
-      "Гринблат Борислав Ефимович": 89,
-      "Жигалев Борис Николаевич": 7,
-      "Иванов Анатолий Семенович": 288,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 7,
-      "Пеунова Светлана Михайловна": 108,
-      "Сафонов Игорь Иванович": 22,
-      "Таратынов Александр Михайлович": 169,
-      "Чунгуров Владимир Ильич": 37,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136116": 34,
+      "gas:candidate-vibid:1001000113975": 89,
+      "gas:candidate-vibid:1001000217953": 7,
+      "gas:candidate-vibid:1001000131409": 288,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 7,
+      "gas:candidate-vibid:363300570748": 108,
+      "gas:candidate-vibid:363300570739": 22,
+      "gas:candidate-vibid:1001000225981": 169,
+      "gas:candidate-vibid:363300570733": 37,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071430&region=0&sub_region=0&type=429",

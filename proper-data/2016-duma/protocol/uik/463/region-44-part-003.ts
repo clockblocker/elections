@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 71,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 30,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 50,
-      "Трепов Евгений Александрович": 0,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 71,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 30,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 50,
+      "gas:candidate-vibid:2442000763293": 0,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 20,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 16,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 30,
-      "Трепов Евгений Александрович": 0,
-      "Федоров Руслан Владимирович": 8
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 20,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 16,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 30,
+      "gas:candidate-vibid:2442000763293": 0,
+      "gas:candidate-vibid:2442000734683": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 61,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 62,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 203,
-      "Трепов Евгений Александрович": 16,
-      "Федоров Руслан Владимирович": 41
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 61,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 62,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 203,
+      "gas:candidate-vibid:2442000763293": 16,
+      "gas:candidate-vibid:2442000734683": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 19,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 54,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 35,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 9
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 19,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 54,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 35,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 25,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 61,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 53,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 25,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 61,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 53,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 18,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 16,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 18,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 18,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 16,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 18,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 44,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 43,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 61,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 44,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 43,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 61,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 20,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 16,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 36,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 20,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 16,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 36,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 13,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 22,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 38,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 13,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 22,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 38,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 52,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 60,
-      "Постников Алексей Максимович": 5,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 127,
-      "Трепов Евгений Александрович": 8,
-      "Федоров Руслан Владимирович": 25
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 52,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 60,
+      "gas:candidate-vibid:2442000764334": 5,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 127,
+      "gas:candidate-vibid:2442000763293": 8,
+      "gas:candidate-vibid:2442000734683": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 28,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 84,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 89,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 20
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 28,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 84,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 89,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 72,
-      "Михайлов Владимир Викторович": 6,
-      "Плюснин Александр Николаевич": 85,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 6,
-      "Ситников Алексей Владимирович": 99,
-      "Трепов Евгений Александрович": 7,
-      "Федоров Руслан Владимирович": 27
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 72,
+      "gas:candidate-vibid:2442000763660": 6,
+      "gas:candidate-vibid:2442000748939": 85,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 6,
+      "gas:candidate-vibid:2442000764104": 99,
+      "gas:candidate-vibid:2442000763293": 7,
+      "gas:candidate-vibid:2442000734683": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 20,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 49,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 5,
-      "Ситников Алексей Владимирович": 76,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 31
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 20,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 49,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 5,
+      "gas:candidate-vibid:2442000764104": 76,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 18,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 36,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 6,
-      "Ситников Алексей Владимирович": 76,
-      "Трепов Евгений Александрович": 5,
-      "Федоров Руслан Владимирович": 13
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 18,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 36,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 6,
+      "gas:candidate-vibid:2442000764104": 76,
+      "gas:candidate-vibid:2442000763293": 5,
+      "gas:candidate-vibid:2442000734683": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 11,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 20,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 33,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 11,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 20,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 33,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 16,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 19,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 58,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 12
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 16,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 19,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 58,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 45,
-      "Михайлов Владимир Викторович": 5,
-      "Плюснин Александр Николаевич": 94,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 7,
-      "Ситников Алексей Владимирович": 87,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 27
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 45,
+      "gas:candidate-vibid:2442000763660": 5,
+      "gas:candidate-vibid:2442000748939": 94,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 7,
+      "gas:candidate-vibid:2442000764104": 87,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 22,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 43,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 31,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 11
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 22,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 43,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 31,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 30,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 38,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 35,
-      "Трепов Евгений Александрович": 3,
-      "Федоров Руслан Владимирович": 11
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 30,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 38,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 35,
+      "gas:candidate-vibid:2442000763293": 3,
+      "gas:candidate-vibid:2442000734683": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 10,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 40,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 16,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 10,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 40,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 16,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725635&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725635&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 24,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 40,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 13
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 24,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 40,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 18,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 57,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 12
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 18,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 57,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 83,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 5,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 60,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 13
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 83,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 5,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 60,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 34,
-      "Михайлов Владимир Викторович": 4,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 6,
-      "Ситников Алексей Владимирович": 105,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 19
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 34,
+      "gas:candidate-vibid:2442000763660": 4,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 6,
+      "gas:candidate-vibid:2442000764104": 105,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 30,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 3,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 80,
-      "Трепов Евгений Александрович": 5,
-      "Федоров Руслан Владимирович": 19
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 30,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 3,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 80,
+      "gas:candidate-vibid:2442000763293": 5,
+      "gas:candidate-vibid:2442000734683": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 21,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 22,
-      "Трепов Евгений Александрович": 0,
-      "Федоров Руслан Владимирович": 3
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 21,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 22,
+      "gas:candidate-vibid:2442000763293": 0,
+      "gas:candidate-vibid:2442000734683": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 18,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 37,
-      "Трепов Евгений Александрович": 3,
-      "Федоров Руслан Владимирович": 13
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 18,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 37,
+      "gas:candidate-vibid:2442000763293": 3,
+      "gas:candidate-vibid:2442000734683": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 9,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 1,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 18,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 9
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 9,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 1,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 18,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 21,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 9,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 45,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 14
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 21,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 9,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 45,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 17,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 65,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 17,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 65,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 21,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 0,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 22,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 10
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 21,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 0,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 22,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 18,
-      "Михайлов Владимир Викторович": 7,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 38,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 18,
+      "gas:candidate-vibid:2442000763660": 7,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 38,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 29,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 54,
-      "Трепов Евгений Александрович": 22,
-      "Федоров Руслан Владимирович": 18
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 29,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 54,
+      "gas:candidate-vibid:2442000763293": 22,
+      "gas:candidate-vibid:2442000734683": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 32,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 5,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 48,
-      "Трепов Евгений Александрович": 13,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 32,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 5,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 48,
+      "gas:candidate-vibid:2442000763293": 13,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 4,
-      "Ижицкий Валерий Петрович": 31,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 6,
-      "Ситников Алексей Владимирович": 63,
-      "Трепов Евгений Александрович": 9,
-      "Федоров Руслан Владимирович": 14
+      "gas:candidate-vibid:2442000763612": 4,
+      "gas:candidate-vibid:2442000763304": 31,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 6,
+      "gas:candidate-vibid:2442000764104": 63,
+      "gas:candidate-vibid:2442000763293": 9,
+      "gas:candidate-vibid:2442000734683": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 33,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 1,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 33,
-      "Трепов Евгений Александрович": 5,
-      "Федоров Руслан Владимирович": 4
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 33,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 1,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 33,
+      "gas:candidate-vibid:2442000763293": 5,
+      "gas:candidate-vibid:2442000734683": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 5,
-      "Ижицкий Валерий Петрович": 88,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 10,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 9,
-      "Ситников Алексей Владимирович": 77,
-      "Трепов Евгений Александрович": 19,
-      "Федоров Руслан Владимирович": 22
+      "gas:candidate-vibid:2442000763612": 5,
+      "gas:candidate-vibid:2442000763304": 88,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 10,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 9,
+      "gas:candidate-vibid:2442000764104": 77,
+      "gas:candidate-vibid:2442000763293": 19,
+      "gas:candidate-vibid:2442000734683": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 25,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 9,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 12,
-      "Ситников Алексей Владимирович": 62,
-      "Трепов Евгений Александрович": 31,
-      "Федоров Руслан Владимирович": 7
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 25,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 9,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 12,
+      "gas:candidate-vibid:2442000764104": 62,
+      "gas:candidate-vibid:2442000763293": 31,
+      "gas:candidate-vibid:2442000734683": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 24,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 9,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 50,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 14
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 24,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 9,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 50,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 20,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 29,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 5
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 20,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 29,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 28,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 10,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 68,
-      "Трепов Евгений Александрович": 7,
-      "Федоров Руслан Владимирович": 18
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 28,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 10,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 68,
+      "gas:candidate-vibid:2442000763293": 7,
+      "gas:candidate-vibid:2442000734683": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 217,
-      "Михайлов Владимир Викторович": 27,
-      "Плюснин Александр Николаевич": 28,
-      "Постников Алексей Максимович": 7,
-      "Сабельников Владимир Анатольевич": 19,
-      "Ситников Алексей Владимирович": 336,
-      "Трепов Евгений Александрович": 51,
-      "Федоров Руслан Владимирович": 82
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 217,
+      "gas:candidate-vibid:2442000763660": 27,
+      "gas:candidate-vibid:2442000748939": 28,
+      "gas:candidate-vibid:2442000764334": 7,
+      "gas:candidate-vibid:2442000749447": 19,
+      "gas:candidate-vibid:2442000764104": 336,
+      "gas:candidate-vibid:2442000763293": 51,
+      "gas:candidate-vibid:2442000734683": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 6,
-      "Ижицкий Валерий Петрович": 213,
-      "Михайлов Владимир Викторович": 12,
-      "Плюснин Александр Николаевич": 26,
-      "Постников Алексей Максимович": 5,
-      "Сабельников Владимир Анатольевич": 16,
-      "Ситников Алексей Владимирович": 329,
-      "Трепов Евгений Александрович": 58,
-      "Федоров Руслан Владимирович": 76
+      "gas:candidate-vibid:2442000763612": 6,
+      "gas:candidate-vibid:2442000763304": 213,
+      "gas:candidate-vibid:2442000763660": 12,
+      "gas:candidate-vibid:2442000748939": 26,
+      "gas:candidate-vibid:2442000764334": 5,
+      "gas:candidate-vibid:2442000749447": 16,
+      "gas:candidate-vibid:2442000764104": 329,
+      "gas:candidate-vibid:2442000763293": 58,
+      "gas:candidate-vibid:2442000734683": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725636&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725636&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 14,
-      "Ижицкий Валерий Петрович": 244,
-      "Михайлов Владимир Викторович": 35,
-      "Плюснин Александр Николаевич": 142,
-      "Постников Алексей Максимович": 19,
-      "Сабельников Владимир Анатольевич": 24,
-      "Ситников Алексей Владимирович": 380,
-      "Трепов Евгений Александрович": 90,
-      "Федоров Руслан Владимирович": 138
+      "gas:candidate-vibid:2442000763612": 14,
+      "gas:candidate-vibid:2442000763304": 244,
+      "gas:candidate-vibid:2442000763660": 35,
+      "gas:candidate-vibid:2442000748939": 142,
+      "gas:candidate-vibid:2442000764334": 19,
+      "gas:candidate-vibid:2442000749447": 24,
+      "gas:candidate-vibid:2442000764104": 380,
+      "gas:candidate-vibid:2442000763293": 90,
+      "gas:candidate-vibid:2442000734683": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725637&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725637&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 14,
-      "Ижицкий Валерий Петрович": 236,
-      "Михайлов Владимир Викторович": 29,
-      "Плюснин Александр Николаевич": 138,
-      "Постников Алексей Максимович": 17,
-      "Сабельников Владимир Анатольевич": 32,
-      "Ситников Алексей Владимирович": 353,
-      "Трепов Евгений Александрович": 74,
-      "Федоров Руслан Владимирович": 113
+      "gas:candidate-vibid:2442000763612": 14,
+      "gas:candidate-vibid:2442000763304": 236,
+      "gas:candidate-vibid:2442000763660": 29,
+      "gas:candidate-vibid:2442000748939": 138,
+      "gas:candidate-vibid:2442000764334": 17,
+      "gas:candidate-vibid:2442000749447": 32,
+      "gas:candidate-vibid:2442000764104": 353,
+      "gas:candidate-vibid:2442000763293": 74,
+      "gas:candidate-vibid:2442000734683": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725637&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725637&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 11,
-      "Ижицкий Валерий Петрович": 355,
-      "Михайлов Владимир Викторович": 33,
-      "Плюснин Александр Николаевич": 137,
-      "Постников Алексей Максимович": 21,
-      "Сабельников Владимир Анатольевич": 30,
-      "Ситников Алексей Владимирович": 357,
-      "Трепов Евгений Александрович": 94,
-      "Федоров Руслан Владимирович": 135
+      "gas:candidate-vibid:2442000763612": 11,
+      "gas:candidate-vibid:2442000763304": 355,
+      "gas:candidate-vibid:2442000763660": 33,
+      "gas:candidate-vibid:2442000748939": 137,
+      "gas:candidate-vibid:2442000764334": 21,
+      "gas:candidate-vibid:2442000749447": 30,
+      "gas:candidate-vibid:2442000764104": 357,
+      "gas:candidate-vibid:2442000763293": 94,
+      "gas:candidate-vibid:2442000734683": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725637&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725637&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 20,
-      "Ижицкий Валерий Петрович": 279,
-      "Михайлов Владимир Викторович": 52,
-      "Плюснин Александр Николаевич": 134,
-      "Постников Алексей Максимович": 23,
-      "Сабельников Владимир Анатольевич": 28,
-      "Ситников Алексей Владимирович": 370,
-      "Трепов Евгений Александрович": 90,
-      "Федоров Руслан Владимирович": 134
+      "gas:candidate-vibid:2442000763612": 20,
+      "gas:candidate-vibid:2442000763304": 279,
+      "gas:candidate-vibid:2442000763660": 52,
+      "gas:candidate-vibid:2442000748939": 134,
+      "gas:candidate-vibid:2442000764334": 23,
+      "gas:candidate-vibid:2442000749447": 28,
+      "gas:candidate-vibid:2442000764104": 370,
+      "gas:candidate-vibid:2442000763293": 90,
+      "gas:candidate-vibid:2442000734683": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725637&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725637&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 14,
-      "Ижицкий Валерий Петрович": 386,
-      "Михайлов Владимир Викторович": 59,
-      "Плюснин Александр Николаевич": 153,
-      "Постников Алексей Максимович": 35,
-      "Сабельников Владимир Анатольевич": 27,
-      "Ситников Алексей Владимирович": 362,
-      "Трепов Евгений Александрович": 91,
-      "Федоров Руслан Владимирович": 140
+      "gas:candidate-vibid:2442000763612": 14,
+      "gas:candidate-vibid:2442000763304": 386,
+      "gas:candidate-vibid:2442000763660": 59,
+      "gas:candidate-vibid:2442000748939": 153,
+      "gas:candidate-vibid:2442000764334": 35,
+      "gas:candidate-vibid:2442000749447": 27,
+      "gas:candidate-vibid:2442000764104": 362,
+      "gas:candidate-vibid:2442000763293": 91,
+      "gas:candidate-vibid:2442000734683": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725637&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725637&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 8,
-      "Ижицкий Валерий Петрович": 139,
-      "Михайлов Владимир Викторович": 38,
-      "Плюснин Александр Николаевич": 64,
-      "Постников Алексей Максимович": 8,
-      "Сабельников Владимир Анатольевич": 8,
-      "Ситников Алексей Владимирович": 158,
-      "Трепов Евгений Александрович": 31,
-      "Федоров Руслан Владимирович": 45
+      "gas:candidate-vibid:2442000763612": 8,
+      "gas:candidate-vibid:2442000763304": 139,
+      "gas:candidate-vibid:2442000763660": 38,
+      "gas:candidate-vibid:2442000748939": 64,
+      "gas:candidate-vibid:2442000764334": 8,
+      "gas:candidate-vibid:2442000749447": 8,
+      "gas:candidate-vibid:2442000764104": 158,
+      "gas:candidate-vibid:2442000763293": 31,
+      "gas:candidate-vibid:2442000734683": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 5,
-      "Ижицкий Валерий Петрович": 132,
-      "Михайлов Владимир Викторович": 10,
-      "Плюснин Александр Николаевич": 52,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 11,
-      "Ситников Алексей Владимирович": 125,
-      "Трепов Евгений Александрович": 64,
-      "Федоров Руслан Владимирович": 46
+      "gas:candidate-vibid:2442000763612": 5,
+      "gas:candidate-vibid:2442000763304": 132,
+      "gas:candidate-vibid:2442000763660": 10,
+      "gas:candidate-vibid:2442000748939": 52,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 11,
+      "gas:candidate-vibid:2442000764104": 125,
+      "gas:candidate-vibid:2442000763293": 64,
+      "gas:candidate-vibid:2442000734683": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 4,
-      "Ижицкий Валерий Петрович": 126,
-      "Михайлов Владимир Викторович": 15,
-      "Плюснин Александр Николаевич": 50,
-      "Постников Алексей Максимович": 6,
-      "Сабельников Владимир Анатольевич": 15,
-      "Ситников Алексей Владимирович": 204,
-      "Трепов Евгений Александрович": 44,
-      "Федоров Руслан Владимирович": 69
+      "gas:candidate-vibid:2442000763612": 4,
+      "gas:candidate-vibid:2442000763304": 126,
+      "gas:candidate-vibid:2442000763660": 15,
+      "gas:candidate-vibid:2442000748939": 50,
+      "gas:candidate-vibid:2442000764334": 6,
+      "gas:candidate-vibid:2442000749447": 15,
+      "gas:candidate-vibid:2442000764104": 204,
+      "gas:candidate-vibid:2442000763293": 44,
+      "gas:candidate-vibid:2442000734683": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 150,
-      "Михайлов Владимир Викторович": 15,
-      "Плюснин Александр Николаевич": 61,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 9,
-      "Ситников Алексей Владимирович": 140,
-      "Трепов Евгений Александрович": 64,
-      "Федоров Руслан Владимирович": 53
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 150,
+      "gas:candidate-vibid:2442000763660": 15,
+      "gas:candidate-vibid:2442000748939": 61,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 9,
+      "gas:candidate-vibid:2442000764104": 140,
+      "gas:candidate-vibid:2442000763293": 64,
+      "gas:candidate-vibid:2442000734683": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 8,
-      "Ижицкий Валерий Петрович": 150,
-      "Михайлов Владимир Викторович": 11,
-      "Плюснин Александр Николаевич": 101,
-      "Постников Алексей Максимович": 6,
-      "Сабельников Владимир Анатольевич": 13,
-      "Ситников Алексей Владимирович": 210,
-      "Трепов Евгений Александрович": 51,
-      "Федоров Руслан Владимирович": 64
+      "gas:candidate-vibid:2442000763612": 8,
+      "gas:candidate-vibid:2442000763304": 150,
+      "gas:candidate-vibid:2442000763660": 11,
+      "gas:candidate-vibid:2442000748939": 101,
+      "gas:candidate-vibid:2442000764334": 6,
+      "gas:candidate-vibid:2442000749447": 13,
+      "gas:candidate-vibid:2442000764104": 210,
+      "gas:candidate-vibid:2442000763293": 51,
+      "gas:candidate-vibid:2442000734683": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 7,
-      "Ижицкий Валерий Петрович": 116,
-      "Михайлов Владимир Викторович": 20,
-      "Плюснин Александр Николаевич": 35,
-      "Постников Алексей Максимович": 11,
-      "Сабельников Владимир Анатольевич": 13,
-      "Ситников Алексей Владимирович": 155,
-      "Трепов Евгений Александрович": 63,
-      "Федоров Руслан Владимирович": 69
+      "gas:candidate-vibid:2442000763612": 7,
+      "gas:candidate-vibid:2442000763304": 116,
+      "gas:candidate-vibid:2442000763660": 20,
+      "gas:candidate-vibid:2442000748939": 35,
+      "gas:candidate-vibid:2442000764334": 11,
+      "gas:candidate-vibid:2442000749447": 13,
+      "gas:candidate-vibid:2442000764104": 155,
+      "gas:candidate-vibid:2442000763293": 63,
+      "gas:candidate-vibid:2442000734683": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 5,
-      "Ижицкий Валерий Петрович": 174,
-      "Михайлов Владимир Викторович": 24,
-      "Плюснин Александр Николаевич": 86,
-      "Постников Алексей Максимович": 15,
-      "Сабельников Владимир Анатольевич": 16,
-      "Ситников Алексей Владимирович": 200,
-      "Трепов Евгений Александрович": 56,
-      "Федоров Руслан Владимирович": 62
+      "gas:candidate-vibid:2442000763612": 5,
+      "gas:candidate-vibid:2442000763304": 174,
+      "gas:candidate-vibid:2442000763660": 24,
+      "gas:candidate-vibid:2442000748939": 86,
+      "gas:candidate-vibid:2442000764334": 15,
+      "gas:candidate-vibid:2442000749447": 16,
+      "gas:candidate-vibid:2442000764104": 200,
+      "gas:candidate-vibid:2442000763293": 56,
+      "gas:candidate-vibid:2442000734683": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 4,
-      "Ижицкий Валерий Петрович": 141,
-      "Михайлов Владимир Викторович": 11,
-      "Плюснин Александр Николаевич": 75,
-      "Постников Алексей Максимович": 9,
-      "Сабельников Владимир Анатольевич": 14,
-      "Ситников Алексей Владимирович": 188,
-      "Трепов Евгений Александрович": 66,
-      "Федоров Руслан Владимирович": 72
+      "gas:candidate-vibid:2442000763612": 4,
+      "gas:candidate-vibid:2442000763304": 141,
+      "gas:candidate-vibid:2442000763660": 11,
+      "gas:candidate-vibid:2442000748939": 75,
+      "gas:candidate-vibid:2442000764334": 9,
+      "gas:candidate-vibid:2442000749447": 14,
+      "gas:candidate-vibid:2442000764104": 188,
+      "gas:candidate-vibid:2442000763293": 66,
+      "gas:candidate-vibid:2442000734683": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 6,
-      "Ижицкий Валерий Петрович": 84,
-      "Михайлов Владимир Викторович": 10,
-      "Плюснин Александр Николаевич": 63,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 9,
-      "Ситников Алексей Владимирович": 131,
-      "Трепов Евгений Александрович": 52,
-      "Федоров Руслан Владимирович": 64
+      "gas:candidate-vibid:2442000763612": 6,
+      "gas:candidate-vibid:2442000763304": 84,
+      "gas:candidate-vibid:2442000763660": 10,
+      "gas:candidate-vibid:2442000748939": 63,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 9,
+      "gas:candidate-vibid:2442000764104": 131,
+      "gas:candidate-vibid:2442000763293": 52,
+      "gas:candidate-vibid:2442000734683": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 93,
-      "Михайлов Владимир Викторович": 12,
-      "Плюснин Александр Николаевич": 46,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 14,
-      "Ситников Алексей Владимирович": 114,
-      "Трепов Евгений Александрович": 43,
-      "Федоров Руслан Владимирович": 78
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 93,
+      "gas:candidate-vibid:2442000763660": 12,
+      "gas:candidate-vibid:2442000748939": 46,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 14,
+      "gas:candidate-vibid:2442000764104": 114,
+      "gas:candidate-vibid:2442000763293": 43,
+      "gas:candidate-vibid:2442000734683": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 116,
-      "Михайлов Владимир Викторович": 13,
-      "Плюснин Александр Николаевич": 72,
-      "Постников Алексей Максимович": 7,
-      "Сабельников Владимир Анатольевич": 16,
-      "Ситников Алексей Владимирович": 174,
-      "Трепов Евгений Александрович": 59,
-      "Федоров Руслан Владимирович": 58
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 116,
+      "gas:candidate-vibid:2442000763660": 13,
+      "gas:candidate-vibid:2442000748939": 72,
+      "gas:candidate-vibid:2442000764334": 7,
+      "gas:candidate-vibid:2442000749447": 16,
+      "gas:candidate-vibid:2442000764104": 174,
+      "gas:candidate-vibid:2442000763293": 59,
+      "gas:candidate-vibid:2442000734683": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 63,
-      "Михайлов Владимир Викторович": 9,
-      "Плюснин Александр Николаевич": 31,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 10,
-      "Ситников Алексей Владимирович": 121,
-      "Трепов Евгений Александрович": 39,
-      "Федоров Руслан Владимирович": 63
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 63,
+      "gas:candidate-vibid:2442000763660": 9,
+      "gas:candidate-vibid:2442000748939": 31,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 10,
+      "gas:candidate-vibid:2442000764104": 121,
+      "gas:candidate-vibid:2442000763293": 39,
+      "gas:candidate-vibid:2442000734683": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 4,
-      "Ижицкий Валерий Петрович": 82,
-      "Михайлов Владимир Викторович": 10,
-      "Плюснин Александр Николаевич": 32,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 13,
-      "Ситников Алексей Владимирович": 107,
-      "Трепов Евгений Александрович": 46,
-      "Федоров Руслан Владимирович": 62
+      "gas:candidate-vibid:2442000763612": 4,
+      "gas:candidate-vibid:2442000763304": 82,
+      "gas:candidate-vibid:2442000763660": 10,
+      "gas:candidate-vibid:2442000748939": 32,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 13,
+      "gas:candidate-vibid:2442000764104": 107,
+      "gas:candidate-vibid:2442000763293": 46,
+      "gas:candidate-vibid:2442000734683": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 9,
-      "Ижицкий Валерий Петрович": 86,
-      "Михайлов Владимир Викторович": 15,
-      "Плюснин Александр Николаевич": 44,
-      "Постников Алексей Максимович": 5,
-      "Сабельников Владимир Анатольевич": 19,
-      "Ситников Алексей Владимирович": 185,
-      "Трепов Евгений Александрович": 46,
-      "Федоров Руслан Владимирович": 97
+      "gas:candidate-vibid:2442000763612": 9,
+      "gas:candidate-vibid:2442000763304": 86,
+      "gas:candidate-vibid:2442000763660": 15,
+      "gas:candidate-vibid:2442000748939": 44,
+      "gas:candidate-vibid:2442000764334": 5,
+      "gas:candidate-vibid:2442000749447": 19,
+      "gas:candidate-vibid:2442000764104": 185,
+      "gas:candidate-vibid:2442000763293": 46,
+      "gas:candidate-vibid:2442000734683": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 53,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 19,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 9,
-      "Ситников Алексей Владимирович": 91,
-      "Трепов Евгений Александрович": 34,
-      "Федоров Руслан Владимирович": 32
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 53,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 19,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 9,
+      "gas:candidate-vibid:2442000764104": 91,
+      "gas:candidate-vibid:2442000763293": 34,
+      "gas:candidate-vibid:2442000734683": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 8,
-      "Ижицкий Валерий Петрович": 24,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 8,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 64,
-      "Трепов Евгений Александрович": 20,
-      "Федоров Руслан Владимирович": 51
+      "gas:candidate-vibid:2442000763612": 8,
+      "gas:candidate-vibid:2442000763304": 24,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 8,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 64,
+      "gas:candidate-vibid:2442000763293": 20,
+      "gas:candidate-vibid:2442000734683": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725638&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725638&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 22,
-      "Михайлов Владимир Викторович": 14,
-      "Плюснин Александр Николаевич": 22,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 128,
-      "Трепов Евгений Александрович": 14,
-      "Федоров Руслан Владимирович": 21
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 22,
+      "gas:candidate-vibid:2442000763660": 14,
+      "gas:candidate-vibid:2442000748939": 22,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 128,
+      "gas:candidate-vibid:2442000763293": 14,
+      "gas:candidate-vibid:2442000734683": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 25,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 9,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 5,
-      "Ситников Алексей Владимирович": 57,
-      "Трепов Евгений Александрович": 8,
-      "Федоров Руслан Владимирович": 10
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 25,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 9,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 5,
+      "gas:candidate-vibid:2442000764104": 57,
+      "gas:candidate-vibid:2442000763293": 8,
+      "gas:candidate-vibid:2442000734683": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 20,
-      "Михайлов Владимир Викторович": 5,
-      "Плюснин Александр Николаевич": 8,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 9,
-      "Ситников Алексей Владимирович": 132,
-      "Трепов Евгений Александрович": 18,
-      "Федоров Руслан Владимирович": 15
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 20,
+      "gas:candidate-vibid:2442000763660": 5,
+      "gas:candidate-vibid:2442000748939": 8,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 9,
+      "gas:candidate-vibid:2442000764104": 132,
+      "gas:candidate-vibid:2442000763293": 18,
+      "gas:candidate-vibid:2442000734683": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 18,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 1,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 18,
-      "Трепов Евгений Александрович": 3,
-      "Федоров Руслан Владимирович": 4
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 18,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 1,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 18,
+      "gas:candidate-vibid:2442000763293": 3,
+      "gas:candidate-vibid:2442000734683": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 5,
-      "Ижицкий Валерий Петрович": 185,
-      "Михайлов Владимир Викторович": 33,
-      "Плюснин Александр Николаевич": 115,
-      "Постников Алексей Максимович": 11,
-      "Сабельников Владимир Анатольевич": 24,
-      "Ситников Алексей Владимирович": 236,
-      "Трепов Евгений Александрович": 47,
-      "Федоров Руслан Владимирович": 83
+      "gas:candidate-vibid:2442000763612": 5,
+      "gas:candidate-vibid:2442000763304": 185,
+      "gas:candidate-vibid:2442000763660": 33,
+      "gas:candidate-vibid:2442000748939": 115,
+      "gas:candidate-vibid:2442000764334": 11,
+      "gas:candidate-vibid:2442000749447": 24,
+      "gas:candidate-vibid:2442000764104": 236,
+      "gas:candidate-vibid:2442000763293": 47,
+      "gas:candidate-vibid:2442000734683": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 95,
-      "Михайлов Владимир Викторович": 40,
-      "Плюснин Александр Николаевич": 92,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 17,
-      "Ситников Алексей Владимирович": 188,
-      "Трепов Евгений Александрович": 25,
-      "Федоров Руслан Владимирович": 69
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 95,
+      "gas:candidate-vibid:2442000763660": 40,
+      "gas:candidate-vibid:2442000748939": 92,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 17,
+      "gas:candidate-vibid:2442000764104": 188,
+      "gas:candidate-vibid:2442000763293": 25,
+      "gas:candidate-vibid:2442000734683": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 11,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 8,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 5,
-      "Ситников Алексей Владимирович": 66,
-      "Трепов Евгений Александрович": 17,
-      "Федоров Руслан Владимирович": 12
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 11,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 8,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 5,
+      "gas:candidate-vibid:2442000764104": 66,
+      "gas:candidate-vibid:2442000763293": 17,
+      "gas:candidate-vibid:2442000734683": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 20,
-      "Михайлов Владимир Викторович": 7,
-      "Плюснин Александр Николаевич": 3,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 6,
-      "Ситников Алексей Владимирович": 65,
-      "Трепов Евгений Александрович": 32,
-      "Федоров Руслан Владимирович": 10
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 20,
+      "gas:candidate-vibid:2442000763660": 7,
+      "gas:candidate-vibid:2442000748939": 3,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 6,
+      "gas:candidate-vibid:2442000764104": 65,
+      "gas:candidate-vibid:2442000763293": 32,
+      "gas:candidate-vibid:2442000734683": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 17,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 31,
-      "Трепов Евгений Александрович": 3,
-      "Федоров Руслан Владимирович": 7
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 17,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 31,
+      "gas:candidate-vibid:2442000763293": 3,
+      "gas:candidate-vibid:2442000734683": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 48,
-      "Михайлов Владимир Викторович": 9,
-      "Плюснин Александр Николаевич": 8,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 91,
-      "Трепов Евгений Александрович": 10,
-      "Федоров Руслан Владимирович": 23
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 48,
+      "gas:candidate-vibid:2442000763660": 9,
+      "gas:candidate-vibid:2442000748939": 8,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 91,
+      "gas:candidate-vibid:2442000763293": 10,
+      "gas:candidate-vibid:2442000734683": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 4,
-      "Ижицкий Валерий Петрович": 17,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 47,
-      "Трепов Евгений Александрович": 9,
-      "Федоров Руслан Владимирович": 8
+      "gas:candidate-vibid:2442000763612": 4,
+      "gas:candidate-vibid:2442000763304": 17,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 47,
+      "gas:candidate-vibid:2442000763293": 9,
+      "gas:candidate-vibid:2442000734683": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 11,
-      "Михайлов Владимир Викторович": 4,
-      "Плюснин Александр Николаевич": 6,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 5,
-      "Ситников Алексей Владимирович": 61,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 8
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 11,
+      "gas:candidate-vibid:2442000763660": 4,
+      "gas:candidate-vibid:2442000748939": 6,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 5,
+      "gas:candidate-vibid:2442000764104": 61,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 12,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 51,
-      "Трепов Евгений Александрович": 7,
-      "Федоров Руслан Владимирович": 9
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 12,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 51,
+      "gas:candidate-vibid:2442000763293": 7,
+      "gas:candidate-vibid:2442000734683": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 7,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 71,
-      "Трепов Евгений Александрович": 0,
-      "Федоров Руслан Владимирович": 7
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 7,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 71,
+      "gas:candidate-vibid:2442000763293": 0,
+      "gas:candidate-vibid:2442000734683": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 10,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 3,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 48,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 9
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 10,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 3,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 48,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 32,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 8,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 68,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 17
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 32,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 8,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 68,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 70,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 5,
-      "Постников Алексей Максимович": 5,
-      "Сабельников Владимир Анатольевич": 5,
-      "Ситников Алексей Владимирович": 82,
-      "Трепов Евгений Александрович": 19,
-      "Федоров Руслан Владимирович": 11
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 70,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 5,
+      "gas:candidate-vibid:2442000764334": 5,
+      "gas:candidate-vibid:2442000749447": 5,
+      "gas:candidate-vibid:2442000764104": 82,
+      "gas:candidate-vibid:2442000763293": 19,
+      "gas:candidate-vibid:2442000734683": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 9,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 3,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 4,
-      "Ситников Алексей Владимирович": 41,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 7
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 9,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 3,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 4,
+      "gas:candidate-vibid:2442000764104": 41,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 2,
-      "Ижицкий Валерий Петрович": 15,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 3,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 55,
-      "Трепов Евгений Александрович": 8,
-      "Федоров Руслан Владимирович": 4
+      "gas:candidate-vibid:2442000763612": 2,
+      "gas:candidate-vibid:2442000763304": 15,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 3,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 55,
+      "gas:candidate-vibid:2442000763293": 8,
+      "gas:candidate-vibid:2442000734683": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 9,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 6,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 57,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 4
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 9,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 6,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 57,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 37,
-      "Михайлов Владимир Викторович": 5,
-      "Плюснин Александр Николаевич": 5,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 114,
-      "Трепов Евгений Александрович": 14,
-      "Федоров Руслан Владимирович": 24
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 37,
+      "gas:candidate-vibid:2442000763660": 5,
+      "gas:candidate-vibid:2442000748939": 5,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 114,
+      "gas:candidate-vibid:2442000763293": 14,
+      "gas:candidate-vibid:2442000734683": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 4,
-      "Ижицкий Валерий Петрович": 50,
-      "Михайлов Владимир Викторович": 4,
-      "Плюснин Александр Николаевич": 8,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 8,
-      "Ситников Алексей Владимирович": 163,
-      "Трепов Евгений Александрович": 27,
-      "Федоров Руслан Владимирович": 32
+      "gas:candidate-vibid:2442000763612": 4,
+      "gas:candidate-vibid:2442000763304": 50,
+      "gas:candidate-vibid:2442000763660": 4,
+      "gas:candidate-vibid:2442000748939": 8,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 8,
+      "gas:candidate-vibid:2442000764104": 163,
+      "gas:candidate-vibid:2442000763293": 27,
+      "gas:candidate-vibid:2442000734683": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725639&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725639&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 8,
-      "Ижицкий Валерий Петрович": 206,
-      "Михайлов Владимир Викторович": 7,
-      "Плюснин Александр Николаевич": 65,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 7,
-      "Ситников Алексей Владимирович": 212,
-      "Трепов Евгений Александрович": 21,
-      "Федоров Руслан Владимирович": 64
+      "gas:candidate-vibid:2442000763612": 8,
+      "gas:candidate-vibid:2442000763304": 206,
+      "gas:candidate-vibid:2442000763660": 7,
+      "gas:candidate-vibid:2442000748939": 65,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 7,
+      "gas:candidate-vibid:2442000764104": 212,
+      "gas:candidate-vibid:2442000763293": 21,
+      "gas:candidate-vibid:2442000734683": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 7,
-      "Ижицкий Валерий Петрович": 169,
-      "Михайлов Владимир Викторович": 11,
-      "Плюснин Александр Николаевич": 49,
-      "Постников Алексей Максимович": 4,
-      "Сабельников Владимир Анатольевич": 8,
-      "Ситников Алексей Владимирович": 122,
-      "Трепов Евгений Александрович": 15,
-      "Федоров Руслан Владимирович": 41
+      "gas:candidate-vibid:2442000763612": 7,
+      "gas:candidate-vibid:2442000763304": 169,
+      "gas:candidate-vibid:2442000763660": 11,
+      "gas:candidate-vibid:2442000748939": 49,
+      "gas:candidate-vibid:2442000764334": 4,
+      "gas:candidate-vibid:2442000749447": 8,
+      "gas:candidate-vibid:2442000764104": 122,
+      "gas:candidate-vibid:2442000763293": 15,
+      "gas:candidate-vibid:2442000734683": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 76,
-      "Михайлов Владимир Викторович": 8,
-      "Плюснин Александр Николаевич": 33,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 120,
-      "Трепов Евгений Александрович": 10,
-      "Федоров Руслан Владимирович": 42
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 76,
+      "gas:candidate-vibid:2442000763660": 8,
+      "gas:candidate-vibid:2442000748939": 33,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 120,
+      "gas:candidate-vibid:2442000763293": 10,
+      "gas:candidate-vibid:2442000734683": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 55,
-      "Михайлов Владимир Викторович": 5,
-      "Плюснин Александр Николаевич": 9,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 50,
-      "Трепов Евгений Александрович": 6,
-      "Федоров Руслан Владимирович": 20
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 55,
+      "gas:candidate-vibid:2442000763660": 5,
+      "gas:candidate-vibid:2442000748939": 9,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 50,
+      "gas:candidate-vibid:2442000763293": 6,
+      "gas:candidate-vibid:2442000734683": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 44,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 7,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 65,
-      "Трепов Евгений Александрович": 5,
-      "Федоров Руслан Владимирович": 13
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 44,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 7,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 65,
+      "gas:candidate-vibid:2442000763293": 5,
+      "gas:candidate-vibid:2442000734683": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 7,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 35,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 10
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 7,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 35,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 40,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 5,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 39,
-      "Трепов Евгений Александрович": 3,
-      "Федоров Руслан Владимирович": 11
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 40,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 5,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 39,
+      "gas:candidate-vibid:2442000763293": 3,
+      "gas:candidate-vibid:2442000734683": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 29,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 65,
-      "Трепов Евгений Александрович": 4,
-      "Федоров Руслан Владимирович": 8
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 29,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 65,
+      "gas:candidate-vibid:2442000763293": 4,
+      "gas:candidate-vibid:2442000734683": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 0,
-      "Ижицкий Валерий Петрович": 15,
-      "Михайлов Владимир Викторович": 2,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 2,
-      "Сабельников Владимир Анатольевич": 3,
-      "Ситников Алексей Владимирович": 30,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 12
+      "gas:candidate-vibid:2442000763612": 0,
+      "gas:candidate-vibid:2442000763304": 15,
+      "gas:candidate-vibid:2442000763660": 2,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 2,
+      "gas:candidate-vibid:2442000749447": 3,
+      "gas:candidate-vibid:2442000764104": 30,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 21,
-      "Михайлов Владимир Викторович": 1,
-      "Плюснин Александр Николаевич": 2,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 0,
-      "Ситников Алексей Владимирович": 28,
-      "Трепов Евгений Александрович": 2,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 21,
+      "gas:candidate-vibid:2442000763660": 1,
+      "gas:candidate-vibid:2442000748939": 2,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 0,
+      "gas:candidate-vibid:2442000764104": 28,
+      "gas:candidate-vibid:2442000763293": 2,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 32,
-      "Михайлов Владимир Викторович": 0,
-      "Плюснин Александр Николаевич": 6,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 2,
-      "Ситников Алексей Владимирович": 47,
-      "Трепов Евгений Александрович": 5,
-      "Федоров Руслан Владимирович": 18
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 32,
+      "gas:candidate-vibid:2442000763660": 0,
+      "gas:candidate-vibid:2442000748939": 6,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 2,
+      "gas:candidate-vibid:2442000764104": 47,
+      "gas:candidate-vibid:2442000763293": 5,
+      "gas:candidate-vibid:2442000734683": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 3,
-      "Ижицкий Валерий Петрович": 96,
-      "Михайлов Владимир Викторович": 12,
-      "Плюснин Александр Николаевич": 9,
-      "Постников Алексей Максимович": 3,
-      "Сабельников Владимир Анатольевич": 6,
-      "Ситников Алексей Владимирович": 142,
-      "Трепов Евгений Александрович": 14,
-      "Федоров Руслан Владимирович": 37
+      "gas:candidate-vibid:2442000763612": 3,
+      "gas:candidate-vibid:2442000763304": 96,
+      "gas:candidate-vibid:2442000763660": 12,
+      "gas:candidate-vibid:2442000748939": 9,
+      "gas:candidate-vibid:2442000764334": 3,
+      "gas:candidate-vibid:2442000749447": 6,
+      "gas:candidate-vibid:2442000764104": 142,
+      "gas:candidate-vibid:2442000763293": 14,
+      "gas:candidate-vibid:2442000734683": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 29,
-      "Михайлов Владимир Викторович": 3,
-      "Плюснин Александр Николаевич": 0,
-      "Постников Алексей Максимович": 1,
-      "Сабельников Владимир Анатольевич": 1,
-      "Ситников Алексей Владимирович": 35,
-      "Трепов Евгений Александрович": 1,
-      "Федоров Руслан Владимирович": 6
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 29,
+      "gas:candidate-vibid:2442000763660": 3,
+      "gas:candidate-vibid:2442000748939": 0,
+      "gas:candidate-vibid:2442000764334": 1,
+      "gas:candidate-vibid:2442000749447": 1,
+      "gas:candidate-vibid:2442000764104": 35,
+      "gas:candidate-vibid:2442000763293": 1,
+      "gas:candidate-vibid:2442000734683": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_44_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баканов Александр Николаевич": 1,
-      "Ижицкий Валерий Петрович": 37,
-      "Михайлов Владимир Викторович": 7,
-      "Плюснин Александр Николаевич": 4,
-      "Постников Алексей Максимович": 0,
-      "Сабельников Владимир Анатольевич": 7,
-      "Ситников Алексей Владимирович": 49,
-      "Трепов Евгений Александрович": 3,
-      "Федоров Руслан Владимирович": 12
+      "gas:candidate-vibid:2442000763612": 1,
+      "gas:candidate-vibid:2442000763304": 37,
+      "gas:candidate-vibid:2442000763660": 7,
+      "gas:candidate-vibid:2442000748939": 4,
+      "gas:candidate-vibid:2442000764334": 0,
+      "gas:candidate-vibid:2442000749447": 7,
+      "gas:candidate-vibid:2442000764104": 49,
+      "gas:candidate-vibid:2442000763293": 3,
+      "gas:candidate-vibid:2442000734683": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000140&tvd=2442000725640&vrn=100100067795849&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000725640&type=464",

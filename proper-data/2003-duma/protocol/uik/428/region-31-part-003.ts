@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 57,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 67,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121833": 57,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 67,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 77,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 133,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121833": 77,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 133,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 121,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 330,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121833": 121,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 330,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 231,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 344,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121833": 231,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 344,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 126,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 38,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121833": 126,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 38,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 128,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 46,
-      "Зайцев Евгений Николаевич": 5,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121833": 128,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 46,
+      "gas:candidate-vibid:1001000195059": 5,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 85,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 136,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121833": 85,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 136,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 46,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 42,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121833": 46,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 42,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 213,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 174,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121833": 213,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 174,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 502,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 519,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121833": 502,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 519,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 325,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 527,
-      "Зайцев Евгений Николаевич": 12,
-      "Литюк Александр Иванович": 15,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121833": 325,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 527,
+      "gas:candidate-vibid:1001000195059": 12,
+      "gas:candidate-vibid:1001000136037": 15,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 168,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 188,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121833": 168,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 188,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 259,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 297,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121833": 259,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 297,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 285,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 337,
-      "Зайцев Евгений Николаевич": 16,
-      "Литюк Александр Иванович": 30,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121833": 285,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 337,
+      "gas:candidate-vibid:1001000195059": 16,
+      "gas:candidate-vibid:1001000136037": 30,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 101,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 274,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121833": 101,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 274,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 189,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 460,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121833": 189,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 460,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 100,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 366,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 7,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121833": 100,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 366,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 7,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 248,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 260,
-      "Зайцев Евгений Николаевич": 10,
-      "Литюк Александр Иванович": 24,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121833": 248,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 260,
+      "gas:candidate-vibid:1001000195059": 10,
+      "gas:candidate-vibid:1001000136037": 24,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 207,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 133,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 27,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121833": 207,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 133,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 27,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 176,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 198,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 25,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121833": 176,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 198,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 25,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171034&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 396,
-      "Белогуров Борис Сергеевич": 30,
-      "Голиков Георгий Георгиевич": 1000,
-      "Зайцев Евгений Николаевич": 50,
-      "Литюк Александр Иванович": 49,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000121833": 396,
+      "gas:candidate-vibid:331300171122": 30,
+      "gas:candidate-vibid:331300171152": 1000,
+      "gas:candidate-vibid:1001000195059": 50,
+      "gas:candidate-vibid:1001000136037": 49,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 129,
-      "Белогуров Борис Сергеевич": 24,
-      "Голиков Георгий Георгиевич": 464,
-      "Зайцев Евгений Николаевич": 35,
-      "Литюк Александр Иванович": 30,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000121833": 129,
+      "gas:candidate-vibid:331300171122": 24,
+      "gas:candidate-vibid:331300171152": 464,
+      "gas:candidate-vibid:1001000195059": 35,
+      "gas:candidate-vibid:1001000136037": 30,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 386,
-      "Белогуров Борис Сергеевич": 23,
-      "Голиков Георгий Георгиевич": 729,
-      "Зайцев Евгений Николаевич": 38,
-      "Литюк Александр Иванович": 41,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121833": 386,
+      "gas:candidate-vibid:331300171122": 23,
+      "gas:candidate-vibid:331300171152": 729,
+      "gas:candidate-vibid:1001000195059": 38,
+      "gas:candidate-vibid:1001000136037": 41,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 288,
-      "Белогуров Борис Сергеевич": 23,
-      "Голиков Георгий Георгиевич": 819,
-      "Зайцев Евгений Николаевич": 66,
-      "Литюк Александр Иванович": 37,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000121833": 288,
+      "gas:candidate-vibid:331300171122": 23,
+      "gas:candidate-vibid:331300171152": 819,
+      "gas:candidate-vibid:1001000195059": 66,
+      "gas:candidate-vibid:1001000136037": 37,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 312,
-      "Белогуров Борис Сергеевич": 32,
-      "Голиков Георгий Георгиевич": 870,
-      "Зайцев Евгений Николаевич": 70,
-      "Литюк Александр Иванович": 59,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121833": 312,
+      "gas:candidate-vibid:331300171122": 32,
+      "gas:candidate-vibid:331300171152": 870,
+      "gas:candidate-vibid:1001000195059": 70,
+      "gas:candidate-vibid:1001000136037": 59,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 175,
-      "Белогуров Борис Сергеевич": 7,
-      "Голиков Георгий Георгиевич": 526,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 33,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121833": 175,
+      "gas:candidate-vibid:331300171122": 7,
+      "gas:candidate-vibid:331300171152": 526,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 33,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 162,
-      "Белогуров Борис Сергеевич": 24,
-      "Голиков Георгий Георгиевич": 808,
-      "Зайцев Евгений Николаевич": 42,
-      "Литюк Александр Иванович": 0,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000121833": 162,
+      "gas:candidate-vibid:331300171122": 24,
+      "gas:candidate-vibid:331300171152": 808,
+      "gas:candidate-vibid:1001000195059": 42,
+      "gas:candidate-vibid:1001000136037": 0,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 89,
-      "Белогуров Борис Сергеевич": 11,
-      "Голиков Георгий Георгиевич": 479,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 37,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121833": 89,
+      "gas:candidate-vibid:331300171122": 11,
+      "gas:candidate-vibid:331300171152": 479,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 37,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 165,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 462,
-      "Зайцев Евгений Николаевич": 14,
-      "Литюк Александр Иванович": 22,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121833": 165,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 462,
+      "gas:candidate-vibid:1001000195059": 14,
+      "gas:candidate-vibid:1001000136037": 22,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 101,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 301,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121833": 101,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 301,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 190,
-      "Белогуров Борис Сергеевич": 15,
-      "Голиков Георгий Георгиевич": 632,
-      "Зайцев Евгений Николаевич": 27,
-      "Литюк Александр Иванович": 35,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000121833": 190,
+      "gas:candidate-vibid:331300171122": 15,
+      "gas:candidate-vibid:331300171152": 632,
+      "gas:candidate-vibid:1001000195059": 27,
+      "gas:candidate-vibid:1001000136037": 35,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 97,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 338,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 11,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121833": 97,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 338,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 11,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 160,
-      "Белогуров Борис Сергеевич": 20,
-      "Голиков Георгий Георгиевич": 509,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 13,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121833": 160,
+      "gas:candidate-vibid:331300171122": 20,
+      "gas:candidate-vibid:331300171152": 509,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 13,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 196,
-      "Белогуров Борис Сергеевич": 17,
-      "Голиков Георгий Георгиевич": 911,
-      "Зайцев Евгений Николаевич": 26,
-      "Литюк Александр Иванович": 35,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121833": 196,
+      "gas:candidate-vibid:331300171122": 17,
+      "gas:candidate-vibid:331300171152": 911,
+      "gas:candidate-vibid:1001000195059": 26,
+      "gas:candidate-vibid:1001000136037": 35,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 45,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 266,
-      "Зайцев Евгений Николаевич": 15,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121833": 45,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 266,
+      "gas:candidate-vibid:1001000195059": 15,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 63,
-      "Белогуров Борис Сергеевич": 18,
-      "Голиков Георгий Георгиевич": 551,
-      "Зайцев Евгений Николаевич": 26,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121833": 63,
+      "gas:candidate-vibid:331300171122": 18,
+      "gas:candidate-vibid:331300171152": 551,
+      "gas:candidate-vibid:1001000195059": 26,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 20,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 101,
-      "Зайцев Евгений Николаевич": 8,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121833": 20,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 101,
+      "gas:candidate-vibid:1001000195059": 8,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 57,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 436,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121833": 57,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 436,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 4,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 54,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121833": 4,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 54,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 104,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 163,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121833": 104,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 163,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 118,
-      "Белогуров Борис Сергеевич": 10,
-      "Голиков Георгий Георгиевич": 563,
-      "Зайцев Евгений Николаевич": 22,
-      "Литюк Александр Иванович": 17,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121833": 118,
+      "gas:candidate-vibid:331300171122": 10,
+      "gas:candidate-vibid:331300171152": 563,
+      "gas:candidate-vibid:1001000195059": 22,
+      "gas:candidate-vibid:1001000136037": 17,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 5,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 56,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121833": 5,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 56,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 80,
-      "Белогуров Борис Сергеевич": 14,
-      "Голиков Георгий Георгиевич": 403,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121833": 80,
+      "gas:candidate-vibid:331300171122": 14,
+      "gas:candidate-vibid:331300171152": 403,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 91,
-      "Белогуров Борис Сергеевич": 9,
-      "Голиков Георгий Георгиевич": 576,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 19,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121833": 91,
+      "gas:candidate-vibid:331300171122": 9,
+      "gas:candidate-vibid:331300171152": 576,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 19,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 4,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 78,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121833": 4,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 78,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 52,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 225,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121833": 52,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 225,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 97,
-      "Белогуров Борис Сергеевич": 13,
-      "Голиков Георгий Георгиевич": 384,
-      "Зайцев Евгений Николаевич": 18,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121833": 97,
+      "gas:candidate-vibid:331300171122": 13,
+      "gas:candidate-vibid:331300171152": 384,
+      "gas:candidate-vibid:1001000195059": 18,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 73,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 251,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 9,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121833": 73,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 251,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 9,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 13,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 96,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121833": 13,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 96,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 129,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 172,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121833": 129,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 172,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 96,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 59,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 18,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121833": 96,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 59,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 18,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 68,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 329,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 6,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121833": 68,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 329,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 6,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 23,
-      "Белогуров Борис Сергеевич": 0,
-      "Голиков Георгий Георгиевич": 185,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121833": 23,
+      "gas:candidate-vibid:331300171122": 0,
+      "gas:candidate-vibid:331300171152": 185,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 16,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 103,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121833": 16,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 103,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 34,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 45,
-      "Зайцев Евгений Николаевич": 0,
-      "Литюк Александр Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121833": 34,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 45,
+      "gas:candidate-vibid:1001000195059": 0,
+      "gas:candidate-vibid:1001000136037": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 192,
-      "Белогуров Борис Сергеевич": 20,
-      "Голиков Георгий Георгиевич": 701,
-      "Зайцев Евгений Николаевич": 32,
-      "Литюк Александр Иванович": 34,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000121833": 192,
+      "gas:candidate-vibid:331300171122": 20,
+      "gas:candidate-vibid:331300171152": 701,
+      "gas:candidate-vibid:1001000195059": 32,
+      "gas:candidate-vibid:1001000136037": 34,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 100,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 439,
-      "Зайцев Евгений Николаевич": 20,
-      "Литюк Александр Иванович": 30,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000121833": 100,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 439,
+      "gas:candidate-vibid:1001000195059": 20,
+      "gas:candidate-vibid:1001000136037": 30,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 59,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 239,
-      "Зайцев Евгений Николаевич": 6,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121833": 59,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 239,
+      "gas:candidate-vibid:1001000195059": 6,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 3,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 80,
-      "Зайцев Евгений Николаевич": 1,
-      "Литюк Александр Иванович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121833": 3,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 80,
+      "gas:candidate-vibid:1001000195059": 1,
+      "gas:candidate-vibid:1001000136037": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 26,
-      "Белогуров Борис Сергеевич": 8,
-      "Голиков Георгий Георгиевич": 345,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 8,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121833": 26,
+      "gas:candidate-vibid:331300171122": 8,
+      "gas:candidate-vibid:331300171152": 345,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 8,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 21,
-      "Белогуров Борис Сергеевич": 1,
-      "Голиков Георгий Георгиевич": 99,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121833": 21,
+      "gas:candidate-vibid:331300171122": 1,
+      "gas:candidate-vibid:331300171152": 99,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 38,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 117,
-      "Зайцев Евгений Николаевич": 4,
-      "Литюк Александр Иванович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121833": 38,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 117,
+      "gas:candidate-vibid:1001000195059": 4,
+      "gas:candidate-vibid:1001000136037": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 35,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 275,
-      "Зайцев Евгений Николаевич": 7,
-      "Литюк Александр Иванович": 12,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121833": 35,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 275,
+      "gas:candidate-vibid:1001000195059": 7,
+      "gas:candidate-vibid:1001000136037": 12,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 58,
-      "Белогуров Борис Сергеевич": 2,
-      "Голиков Георгий Георгиевич": 168,
-      "Зайцев Евгений Николаевич": 2,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121833": 58,
+      "gas:candidate-vibid:331300171122": 2,
+      "gas:candidate-vibid:331300171152": 168,
+      "gas:candidate-vibid:1001000195059": 2,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 37,
-      "Белогуров Борис Сергеевич": 4,
-      "Голиков Георгий Георгиевич": 129,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121833": 37,
+      "gas:candidate-vibid:331300171122": 4,
+      "gas:candidate-vibid:331300171152": 129,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 64,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 232,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121833": 64,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 232,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 94,
-      "Белогуров Борис Сергеевич": 12,
-      "Голиков Георгий Георгиевич": 321,
-      "Зайцев Евгений Николаевич": 11,
-      "Литюк Александр Иванович": 10,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121833": 94,
+      "gas:candidate-vibid:331300171122": 12,
+      "gas:candidate-vibid:331300171152": 321,
+      "gas:candidate-vibid:1001000195059": 11,
+      "gas:candidate-vibid:1001000136037": 10,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 25,
-      "Белогуров Борис Сергеевич": 3,
-      "Голиков Георгий Георгиевич": 103,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121833": 25,
+      "gas:candidate-vibid:331300171122": 3,
+      "gas:candidate-vibid:331300171152": 103,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 88,
-      "Белогуров Борис Сергеевич": 5,
-      "Голиков Георгий Георгиевич": 592,
-      "Зайцев Евгений Николаевич": 9,
-      "Литюк Александр Иванович": 16,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121833": 88,
+      "gas:candidate-vibid:331300171122": 5,
+      "gas:candidate-vibid:331300171152": 592,
+      "gas:candidate-vibid:1001000195059": 9,
+      "gas:candidate-vibid:1001000136037": 16,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алтухов Василий Петрович": 98,
-      "Белогуров Борис Сергеевич": 6,
-      "Голиков Георгий Георгиевич": 237,
-      "Зайцев Евгений Николаевич": 3,
-      "Литюк Александр Иванович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121833": 98,
+      "gas:candidate-vibid:331300171122": 6,
+      "gas:candidate-vibid:331300171152": 237,
+      "gas:candidate-vibid:1001000195059": 3,
+      "gas:candidate-vibid:1001000136037": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300171035&region=0&sub_region=0&type=429",
@@ -3892,13 +3892,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 165,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 1163,
-      "Усачев Владимир Семенович": 29,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121834": 165,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 1163,
+      "gas:candidate-vibid:1001000136038": 29,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -3948,13 +3948,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 156,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 17,
-      "Скоч Андрей Владимирович": 1295,
-      "Усачев Владимир Семенович": 15,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121834": 156,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 17,
+      "gas:candidate-vibid:331300270630": 1295,
+      "gas:candidate-vibid:1001000136038": 15,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4004,13 +4004,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 112,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 659,
-      "Усачев Владимир Семенович": 19,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121834": 112,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 659,
+      "gas:candidate-vibid:1001000136038": 19,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4060,13 +4060,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 169,
-      "Найденов Николай Федорович": 14,
-      "Панов Вячеслав Викторович": 14,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 1482,
-      "Усачев Владимир Семенович": 13,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121834": 169,
+      "gas:candidate-vibid:331300270636": 14,
+      "gas:candidate-vibid:1001000195060": 14,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 1482,
+      "gas:candidate-vibid:1001000136038": 13,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4116,13 +4116,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 106,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 8,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 1197,
-      "Усачев Владимир Семенович": 17,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121834": 106,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 8,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 1197,
+      "gas:candidate-vibid:1001000136038": 17,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4172,13 +4172,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 163,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 1291,
-      "Усачев Владимир Семенович": 32,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121834": 163,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 1291,
+      "gas:candidate-vibid:1001000136038": 32,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4228,13 +4228,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 192,
-      "Найденов Николай Федорович": 14,
-      "Панов Вячеслав Викторович": 21,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 1221,
-      "Усачев Владимир Семенович": 26,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121834": 192,
+      "gas:candidate-vibid:331300270636": 14,
+      "gas:candidate-vibid:1001000195060": 21,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 1221,
+      "gas:candidate-vibid:1001000136038": 26,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4284,13 +4284,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 217,
-      "Найденов Николай Федорович": 10,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 10,
-      "Скоч Андрей Владимирович": 1734,
-      "Усачев Владимир Семенович": 28,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121834": 217,
+      "gas:candidate-vibid:331300270636": 10,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 10,
+      "gas:candidate-vibid:331300270630": 1734,
+      "gas:candidate-vibid:1001000136038": 28,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4340,13 +4340,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 104,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 780,
-      "Усачев Владимир Семенович": 25,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121834": 104,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 780,
+      "gas:candidate-vibid:1001000136038": 25,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4396,13 +4396,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 144,
-      "Найденов Николай Федорович": 16,
-      "Панов Вячеслав Викторович": 14,
-      "Руда Юрий Михайлович": 10,
-      "Скоч Андрей Владимирович": 1370,
-      "Усачев Владимир Семенович": 25,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121834": 144,
+      "gas:candidate-vibid:331300270636": 16,
+      "gas:candidate-vibid:1001000195060": 14,
+      "gas:candidate-vibid:331300270386": 10,
+      "gas:candidate-vibid:331300270630": 1370,
+      "gas:candidate-vibid:1001000136038": 25,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4452,13 +4452,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 170,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 903,
-      "Усачев Владимир Семенович": 17,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121834": 170,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 903,
+      "gas:candidate-vibid:1001000136038": 17,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4508,13 +4508,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 50,
-      "Найденов Николай Федорович": 5,
-      "Панов Вячеслав Викторович": 8,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 573,
-      "Усачев Владимир Семенович": 12,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121834": 50,
+      "gas:candidate-vibid:331300270636": 5,
+      "gas:candidate-vibid:1001000195060": 8,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 573,
+      "gas:candidate-vibid:1001000136038": 12,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4564,13 +4564,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 43,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 390,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121834": 43,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 390,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4620,13 +4620,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 47,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 260,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121834": 47,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 260,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4676,13 +4676,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 49,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 308,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 49,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 308,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4732,13 +4732,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 17,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 322,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121834": 17,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 322,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4788,13 +4788,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 15,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 173,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 15,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 173,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4844,13 +4844,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 12,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 926,
-      "Усачев Владимир Семенович": 10,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121834": 12,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 926,
+      "gas:candidate-vibid:1001000136038": 10,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4900,13 +4900,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 41,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 360,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121834": 41,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 360,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -4956,13 +4956,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 63,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 581,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121834": 63,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 581,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5012,13 +5012,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 68,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 285,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 68,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 285,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5068,13 +5068,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 44,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 252,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121834": 44,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 252,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5124,13 +5124,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 199,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 201,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121834": 199,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 201,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5180,13 +5180,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 148,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 170,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121834": 148,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 170,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5236,13 +5236,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 32,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 597,
-      "Усачев Владимир Семенович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 32,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 597,
+      "gas:candidate-vibid:1001000136038": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5292,13 +5292,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 15,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 273,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121834": 15,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 273,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5348,13 +5348,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 33,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 297,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121834": 33,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 297,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5404,13 +5404,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 30,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 430,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 30,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 430,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5460,13 +5460,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 15,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 143,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121834": 15,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 143,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5516,13 +5516,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 96,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 1152,
-      "Усачев Владимир Семенович": 7,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121834": 96,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 1152,
+      "gas:candidate-vibid:1001000136038": 7,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5572,13 +5572,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 66,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 11,
-      "Скоч Андрей Владимирович": 966,
-      "Усачев Владимир Семенович": 14,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121834": 66,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 11,
+      "gas:candidate-vibid:331300270630": 966,
+      "gas:candidate-vibid:1001000136038": 14,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5628,13 +5628,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 70,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 918,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121834": 70,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 918,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5684,13 +5684,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 5,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 101,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121834": 5,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 101,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5740,13 +5740,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 22,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 427,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121834": 22,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 427,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5796,13 +5796,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 24,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 433,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121834": 24,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 433,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5852,13 +5852,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 6,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 135,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121834": 6,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 135,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5908,13 +5908,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 17,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 489,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121834": 17,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 489,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -5964,13 +5964,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 5,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 138,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121834": 5,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 138,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6020,13 +6020,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 55,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 530,
-      "Усачев Владимир Семенович": 20,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121834": 55,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 530,
+      "gas:candidate-vibid:1001000136038": 20,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6076,13 +6076,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 8,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 202,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 8,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 202,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6132,13 +6132,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 16,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 362,
-      "Усачев Владимир Семенович": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121834": 16,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 362,
+      "gas:candidate-vibid:1001000136038": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6188,13 +6188,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 8,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 229,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121834": 8,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 229,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6244,13 +6244,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 30,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 230,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121834": 30,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 230,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6300,13 +6300,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 75,
-      "Найденов Николай Федорович": 5,
-      "Панов Вячеслав Викторович": 13,
-      "Руда Юрий Михайлович": 11,
-      "Скоч Андрей Владимирович": 806,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121834": 75,
+      "gas:candidate-vibid:331300270636": 5,
+      "gas:candidate-vibid:1001000195060": 13,
+      "gas:candidate-vibid:331300270386": 11,
+      "gas:candidate-vibid:331300270630": 806,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6356,13 +6356,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 66,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 877,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121834": 66,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 877,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6412,13 +6412,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 27,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 403,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121834": 27,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 403,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6468,13 +6468,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 6,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 187,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121834": 6,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 187,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6524,13 +6524,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 22,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 132,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121834": 22,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 132,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6580,13 +6580,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 88,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 764,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121834": 88,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 764,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6636,13 +6636,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 33,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 313,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121834": 33,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 313,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6692,13 +6692,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 9,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 458,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121834": 9,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 458,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6748,13 +6748,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 43,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 609,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 43,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 609,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6804,13 +6804,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 9,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 147,
-      "Усачев Владимир Семенович": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 9,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 147,
+      "gas:candidate-vibid:1001000136038": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6860,13 +6860,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 53,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 765,
-      "Усачев Владимир Семенович": 10,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121834": 53,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 765,
+      "gas:candidate-vibid:1001000136038": 10,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270568&region=0&sub_region=0&type=429",
@@ -6916,13 +6916,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 140,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 686,
-      "Усачев Владимир Семенович": 24,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121834": 140,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 686,
+      "gas:candidate-vibid:1001000136038": 24,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -6972,13 +6972,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 78,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 8,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 376,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121834": 78,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 8,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 376,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7028,13 +7028,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 194,
-      "Найденов Николай Федорович": 11,
-      "Панов Вячеслав Викторович": 11,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 746,
-      "Усачев Владимир Семенович": 15,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121834": 194,
+      "gas:candidate-vibid:331300270636": 11,
+      "gas:candidate-vibid:1001000195060": 11,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 746,
+      "gas:candidate-vibid:1001000136038": 15,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7084,13 +7084,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 292,
-      "Найденов Николай Федорович": 19,
-      "Панов Вячеслав Викторович": 17,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 893,
-      "Усачев Владимир Семенович": 22,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121834": 292,
+      "gas:candidate-vibid:331300270636": 19,
+      "gas:candidate-vibid:1001000195060": 17,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 893,
+      "gas:candidate-vibid:1001000136038": 22,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7140,13 +7140,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 6,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 29,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121834": 6,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 29,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7196,13 +7196,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 136,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 11,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 533,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121834": 136,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 11,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 533,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7252,13 +7252,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 142,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 12,
-      "Скоч Андрей Владимирович": 552,
-      "Усачев Владимир Семенович": 20,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121834": 142,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 12,
+      "gas:candidate-vibid:331300270630": 552,
+      "gas:candidate-vibid:1001000136038": 20,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7308,13 +7308,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 73,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 371,
-      "Усачев Владимир Семенович": 8,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121834": 73,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 371,
+      "gas:candidate-vibid:1001000136038": 8,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7364,13 +7364,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 111,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 371,
-      "Усачев Владимир Семенович": 12,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121834": 111,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 371,
+      "gas:candidate-vibid:1001000136038": 12,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7420,13 +7420,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 132,
-      "Найденов Николай Федорович": 11,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 388,
-      "Усачев Владимир Семенович": 15,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121834": 132,
+      "gas:candidate-vibid:331300270636": 11,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 388,
+      "gas:candidate-vibid:1001000136038": 15,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7476,13 +7476,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 78,
-      "Найденов Николай Федорович": 11,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 454,
-      "Усачев Владимир Семенович": 13,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121834": 78,
+      "gas:candidate-vibid:331300270636": 11,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 454,
+      "gas:candidate-vibid:1001000136038": 13,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7532,13 +7532,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 132,
-      "Найденов Николай Федорович": 17,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 10,
-      "Скоч Андрей Владимирович": 680,
-      "Усачев Владимир Семенович": 26,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121834": 132,
+      "gas:candidate-vibid:331300270636": 17,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 10,
+      "gas:candidate-vibid:331300270630": 680,
+      "gas:candidate-vibid:1001000136038": 26,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7588,13 +7588,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 227,
-      "Найденов Николай Федорович": 20,
-      "Панов Вячеслав Викторович": 21,
-      "Руда Юрий Михайлович": 16,
-      "Скоч Андрей Владимирович": 896,
-      "Усачев Владимир Семенович": 36,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121834": 227,
+      "gas:candidate-vibid:331300270636": 20,
+      "gas:candidate-vibid:1001000195060": 21,
+      "gas:candidate-vibid:331300270386": 16,
+      "gas:candidate-vibid:331300270630": 896,
+      "gas:candidate-vibid:1001000136038": 36,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7644,13 +7644,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 161,
-      "Найденов Николай Федорович": 23,
-      "Панов Вячеслав Викторович": 16,
-      "Руда Юрий Михайлович": 18,
-      "Скоч Андрей Владимирович": 849,
-      "Усачев Владимир Семенович": 37,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121834": 161,
+      "gas:candidate-vibid:331300270636": 23,
+      "gas:candidate-vibid:1001000195060": 16,
+      "gas:candidate-vibid:331300270386": 18,
+      "gas:candidate-vibid:331300270630": 849,
+      "gas:candidate-vibid:1001000136038": 37,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7700,13 +7700,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 182,
-      "Найденов Николай Федорович": 15,
-      "Панов Вячеслав Викторович": 16,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 677,
-      "Усачев Владимир Семенович": 22,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121834": 182,
+      "gas:candidate-vibid:331300270636": 15,
+      "gas:candidate-vibid:1001000195060": 16,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 677,
+      "gas:candidate-vibid:1001000136038": 22,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7756,13 +7756,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 35,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 170,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121834": 35,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 170,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7812,13 +7812,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 45,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 134,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121834": 45,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 134,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7868,13 +7868,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 144,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 224,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121834": 144,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 224,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7924,13 +7924,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 58,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 130,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 58,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 130,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -7980,13 +7980,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 44,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 112,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 44,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 112,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8036,13 +8036,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 73,
-      "Найденов Николай Федорович": 8,
-      "Панов Вячеслав Викторович": 16,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 329,
-      "Усачев Владимир Семенович": 13,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121834": 73,
+      "gas:candidate-vibid:331300270636": 8,
+      "gas:candidate-vibid:1001000195060": 16,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 329,
+      "gas:candidate-vibid:1001000136038": 13,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8092,13 +8092,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 205,
-      "Найденов Николай Федорович": 11,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 457,
-      "Усачев Владимир Семенович": 17,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121834": 205,
+      "gas:candidate-vibid:331300270636": 11,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 457,
+      "gas:candidate-vibid:1001000136038": 17,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8148,13 +8148,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 101,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 101,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121834": 101,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 101,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8204,13 +8204,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 135,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 356,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121834": 135,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 356,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8260,13 +8260,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 38,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 69,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 38,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 69,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8316,13 +8316,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 43,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 117,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121834": 43,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 117,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8372,13 +8372,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 15,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 38,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121834": 15,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 38,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8428,13 +8428,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 19,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 128,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121834": 19,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 128,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8484,13 +8484,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 16,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 143,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121834": 16,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 143,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8540,13 +8540,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 48,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 172,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121834": 48,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 172,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8596,13 +8596,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 24,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 173,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 24,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 173,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8652,13 +8652,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 9,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 223,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121834": 9,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 223,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8708,13 +8708,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 21,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 290,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 21,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 290,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8764,13 +8764,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 19,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 125,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121834": 19,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 125,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8820,13 +8820,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 24,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 419,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121834": 24,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 419,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8876,13 +8876,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 43,
-      "Найденов Николай Федорович": 8,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 511,
-      "Усачев Владимир Семенович": 14,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121834": 43,
+      "gas:candidate-vibid:331300270636": 8,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 511,
+      "gas:candidate-vibid:1001000136038": 14,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8932,13 +8932,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 80,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 10,
-      "Скоч Андрей Владимирович": 758,
-      "Усачев Владимир Семенович": 15,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121834": 80,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 10,
+      "gas:candidate-vibid:331300270630": 758,
+      "gas:candidate-vibid:1001000136038": 15,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -8988,13 +8988,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 1,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 46,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121834": 1,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 46,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9044,13 +9044,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 8,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 121,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 8,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 121,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9100,13 +9100,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 71,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 254,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121834": 71,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 254,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9156,13 +9156,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 24,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 148,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121834": 24,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 148,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9212,13 +9212,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 73,
-      "Найденов Николай Федорович": 10,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 374,
-      "Усачев Владимир Семенович": 13,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121834": 73,
+      "gas:candidate-vibid:331300270636": 10,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 374,
+      "gas:candidate-vibid:1001000136038": 13,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9268,13 +9268,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 5,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 51,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121834": 5,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 51,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9324,13 +9324,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 9,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 188,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121834": 9,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 188,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9380,13 +9380,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 14,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 285,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 14,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 285,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9436,13 +9436,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 181,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 466,
-      "Усачев Владимир Семенович": 19,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121834": 181,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 466,
+      "gas:candidate-vibid:1001000136038": 19,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9492,13 +9492,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 26,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 134,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121834": 26,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 134,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9548,13 +9548,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 28,
-      "Найденов Николай Федорович": 8,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 255,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121834": 28,
+      "gas:candidate-vibid:331300270636": 8,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 255,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9604,13 +9604,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 8,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 88,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121834": 8,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 88,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9660,13 +9660,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 13,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 90,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121834": 13,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 90,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9716,13 +9716,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 58,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 390,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121834": 58,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 390,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9772,13 +9772,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 24,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 321,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121834": 24,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 321,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9828,13 +9828,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 4,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 166,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121834": 4,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 166,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9884,13 +9884,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 16,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 232,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121834": 16,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 232,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9940,13 +9940,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 19,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 271,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 19,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 271,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -9996,13 +9996,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 96,
-      "Найденов Николай Федорович": 15,
-      "Панов Вячеслав Викторович": 9,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 704,
-      "Усачев Владимир Семенович": 23,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121834": 96,
+      "gas:candidate-vibid:331300270636": 15,
+      "gas:candidate-vibid:1001000195060": 9,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 704,
+      "gas:candidate-vibid:1001000136038": 23,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10052,13 +10052,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 34,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 271,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121834": 34,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 271,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10108,13 +10108,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 12,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 255,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 12,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 255,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10164,13 +10164,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 41,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 153,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121834": 41,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 153,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10220,13 +10220,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 12,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 98,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 12,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 98,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10276,13 +10276,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 16,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 207,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121834": 16,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 207,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10332,13 +10332,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 16,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 132,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121834": 16,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 132,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10388,13 +10388,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 13,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 218,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121834": 13,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 218,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10444,13 +10444,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 113,
-      "Найденов Николай Федорович": 8,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 539,
-      "Усачев Владимир Семенович": 16,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121834": 113,
+      "gas:candidate-vibid:331300270636": 8,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 539,
+      "gas:candidate-vibid:1001000136038": 16,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10500,13 +10500,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 96,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 9,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 397,
-      "Усачев Владимир Семенович": 9,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121834": 96,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 9,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 397,
+      "gas:candidate-vibid:1001000136038": 9,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10556,13 +10556,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 130,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 16,
-      "Руда Юрий Михайлович": 5,
-      "Скоч Андрей Владимирович": 509,
-      "Усачев Владимир Семенович": 22,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121834": 130,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 16,
+      "gas:candidate-vibid:331300270386": 5,
+      "gas:candidate-vibid:331300270630": 509,
+      "gas:candidate-vibid:1001000136038": 22,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10612,13 +10612,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 107,
-      "Найденов Николай Федорович": 13,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 548,
-      "Усачев Владимир Семенович": 16,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121834": 107,
+      "gas:candidate-vibid:331300270636": 13,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 548,
+      "gas:candidate-vibid:1001000136038": 16,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10668,13 +10668,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 57,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 156,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121834": 57,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 156,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10724,13 +10724,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 65,
-      "Найденов Николай Федорович": 11,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 360,
-      "Усачев Владимир Семенович": 18,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121834": 65,
+      "gas:candidate-vibid:331300270636": 11,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 360,
+      "gas:candidate-vibid:1001000136038": 18,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270569&region=0&sub_region=0&type=429",
@@ -10780,13 +10780,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 112,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 11,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 671,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121834": 112,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 11,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 671,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -10836,13 +10836,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 16,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 120,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 16,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 120,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -10892,13 +10892,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 29,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 500,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 29,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 500,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -10948,13 +10948,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 157,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 9,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 433,
-      "Усачев Владимир Семенович": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121834": 157,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 9,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 433,
+      "gas:candidate-vibid:1001000136038": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11004,13 +11004,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 144,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 468,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121834": 144,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 468,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11060,13 +11060,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 140,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 499,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121834": 140,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 499,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11116,13 +11116,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 113,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 12,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 465,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121834": 113,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 12,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 465,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11172,13 +11172,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 121,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 238,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121834": 121,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 238,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11228,13 +11228,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 50,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 286,
-      "Усачев Владимир Семенович": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121834": 50,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 286,
+      "gas:candidate-vibid:1001000136038": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11284,13 +11284,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 67,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 211,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121834": 67,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 211,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11340,13 +11340,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 178,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 552,
-      "Усачев Владимир Семенович": 11,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121834": 178,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 552,
+      "gas:candidate-vibid:1001000136038": 11,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11396,13 +11396,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 37,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 173,
-      "Усачев Владимир Семенович": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121834": 37,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 173,
+      "gas:candidate-vibid:1001000136038": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11452,13 +11452,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 33,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 9,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 153,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 33,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 9,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 153,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11508,13 +11508,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 101,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 699,
-      "Усачев Владимир Семенович": 22,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121834": 101,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 699,
+      "gas:candidate-vibid:1001000136038": 22,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11564,13 +11564,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 34,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 234,
-      "Усачев Владимир Семенович": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 34,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 234,
+      "gas:candidate-vibid:1001000136038": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11620,13 +11620,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 40,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 211,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121834": 40,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 211,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11676,13 +11676,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 69,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 14,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 600,
-      "Усачев Владимир Семенович": 13,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121834": 69,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 14,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 600,
+      "gas:candidate-vibid:1001000136038": 13,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11732,13 +11732,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 17,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 222,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121834": 17,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 222,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11788,13 +11788,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 65,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 10,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 306,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121834": 65,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 10,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 306,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11844,13 +11844,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 73,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 9,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 152,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121834": 73,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 9,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 152,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11900,13 +11900,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 107,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 8,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 551,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121834": 107,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 8,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 551,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -11956,13 +11956,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 70,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 268,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121834": 70,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 268,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12012,13 +12012,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 18,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 4,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 176,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121834": 18,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 4,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 176,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12068,13 +12068,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 15,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 248,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121834": 15,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 248,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12124,13 +12124,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 94,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 13,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 468,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121834": 94,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 13,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 468,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12180,13 +12180,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 127,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 329,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121834": 127,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 329,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12236,13 +12236,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 190,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 299,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 190,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 299,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12292,13 +12292,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 85,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 127,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 85,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 127,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12348,13 +12348,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 25,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 188,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121834": 25,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 188,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12404,13 +12404,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 39,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 128,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121834": 39,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 128,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12460,13 +12460,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 80,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 6,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 146,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121834": 80,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 6,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 146,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12516,13 +12516,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 51,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 277,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121834": 51,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 277,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270570&region=0&sub_region=0&type=429",
@@ -12572,13 +12572,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 253,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 8,
-      "Скоч Андрей Владимирович": 929,
-      "Усачев Владимир Семенович": 29,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121834": 253,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 8,
+      "gas:candidate-vibid:331300270630": 929,
+      "gas:candidate-vibid:1001000136038": 29,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12628,13 +12628,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 276,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 766,
-      "Усачев Владимир Семенович": 24,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121834": 276,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 766,
+      "gas:candidate-vibid:1001000136038": 24,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12684,13 +12684,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 318,
-      "Найденов Николай Федорович": 9,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 907,
-      "Усачев Владимир Семенович": 26,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121834": 318,
+      "gas:candidate-vibid:331300270636": 9,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 907,
+      "gas:candidate-vibid:1001000136038": 26,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12740,13 +12740,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 142,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 9,
-      "Скоч Андрей Владимирович": 620,
-      "Усачев Владимир Семенович": 28,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121834": 142,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 9,
+      "gas:candidate-vibid:331300270630": 620,
+      "gas:candidate-vibid:1001000136038": 28,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12796,13 +12796,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 186,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 8,
-      "Руда Юрий Михайлович": 11,
-      "Скоч Андрей Владимирович": 872,
-      "Усачев Владимир Семенович": 28,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121834": 186,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 8,
+      "gas:candidate-vibid:331300270386": 11,
+      "gas:candidate-vibid:331300270630": 872,
+      "gas:candidate-vibid:1001000136038": 28,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12852,13 +12852,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 135,
-      "Найденов Николай Федорович": 7,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 480,
-      "Усачев Владимир Семенович": 17,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121834": 135,
+      "gas:candidate-vibid:331300270636": 7,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 480,
+      "gas:candidate-vibid:1001000136038": 17,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12908,13 +12908,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 126,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 7,
-      "Скоч Андрей Владимирович": 675,
-      "Усачев Владимир Семенович": 21,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121834": 126,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 7,
+      "gas:candidate-vibid:331300270630": 675,
+      "gas:candidate-vibid:1001000136038": 21,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -12964,13 +12964,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 221,
-      "Найденов Николай Федорович": 12,
-      "Панов Вячеслав Викторович": 7,
-      "Руда Юрий Михайлович": 11,
-      "Скоч Андрей Владимирович": 961,
-      "Усачев Владимир Семенович": 51,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121834": 221,
+      "gas:candidate-vibid:331300270636": 12,
+      "gas:candidate-vibid:1001000195060": 7,
+      "gas:candidate-vibid:331300270386": 11,
+      "gas:candidate-vibid:331300270630": 961,
+      "gas:candidate-vibid:1001000136038": 51,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13020,13 +13020,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 247,
-      "Найденов Николай Федорович": 11,
-      "Панов Вячеслав Викторович": 8,
-      "Руда Юрий Михайлович": 11,
-      "Скоч Андрей Владимирович": 949,
-      "Усачев Владимир Семенович": 41,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121834": 247,
+      "gas:candidate-vibid:331300270636": 11,
+      "gas:candidate-vibid:1001000195060": 8,
+      "gas:candidate-vibid:331300270386": 11,
+      "gas:candidate-vibid:331300270630": 949,
+      "gas:candidate-vibid:1001000136038": 41,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13076,13 +13076,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 90,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 424,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121834": 90,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 424,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13132,13 +13132,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 137,
-      "Найденов Николай Федорович": 5,
-      "Панов Вячеслав Викторович": 3,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 361,
-      "Усачев Владимир Семенович": 13,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121834": 137,
+      "gas:candidate-vibid:331300270636": 5,
+      "gas:candidate-vibid:1001000195060": 3,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 361,
+      "gas:candidate-vibid:1001000136038": 13,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13188,13 +13188,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 47,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 3,
-      "Скоч Андрей Владимирович": 222,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121834": 47,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 3,
+      "gas:candidate-vibid:331300270630": 222,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13244,13 +13244,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 56,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 220,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121834": 56,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 220,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13300,13 +13300,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 14,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 85,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121834": 14,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 85,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13356,13 +13356,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 47,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 4,
-      "Скоч Андрей Владимирович": 158,
-      "Усачев Владимир Семенович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121834": 47,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 4,
+      "gas:candidate-vibid:331300270630": 158,
+      "gas:candidate-vibid:1001000136038": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13412,13 +13412,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 36,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 1,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 388,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121834": 36,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 1,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 388,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13468,13 +13468,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 14,
-      "Найденов Николай Федорович": 2,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 144,
-      "Усачев Владимир Семенович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121834": 14,
+      "gas:candidate-vibid:331300270636": 2,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 144,
+      "gas:candidate-vibid:1001000136038": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13524,13 +13524,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 70,
-      "Найденов Николай Федорович": 3,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 343,
-      "Усачев Владимир Семенович": 14,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121834": 70,
+      "gas:candidate-vibid:331300270636": 3,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 343,
+      "gas:candidate-vibid:1001000136038": 14,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13580,13 +13580,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 132,
-      "Найденов Николай Федорович": 6,
-      "Панов Вячеслав Викторович": 5,
-      "Руда Юрий Михайлович": 6,
-      "Скоч Андрей Владимирович": 457,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121834": 132,
+      "gas:candidate-vibid:331300270636": 6,
+      "gas:candidate-vibid:1001000195060": 5,
+      "gas:candidate-vibid:331300270386": 6,
+      "gas:candidate-vibid:331300270630": 457,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13636,13 +13636,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 39,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 108,
-      "Усачев Владимир Семенович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121834": 39,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 108,
+      "gas:candidate-vibid:1001000136038": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13692,13 +13692,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 20,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 131,
-      "Усачев Владимир Семенович": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121834": 20,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 131,
+      "gas:candidate-vibid:1001000136038": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13748,13 +13748,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 210,
-      "Найденов Николай Федорович": 4,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 356,
-      "Усачев Владимир Семенович": 17,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121834": 210,
+      "gas:candidate-vibid:331300270636": 4,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 356,
+      "gas:candidate-vibid:1001000136038": 17,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13804,13 +13804,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 45,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 2,
-      "Скоч Андрей Владимирович": 164,
-      "Усачев Владимир Семенович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121834": 45,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 2,
+      "gas:candidate-vibid:331300270630": 164,
+      "gas:candidate-vibid:1001000136038": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13860,13 +13860,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 77,
-      "Найденов Николай Федорович": 1,
-      "Панов Вячеслав Викторович": 2,
-      "Руда Юрий Михайлович": 0,
-      "Скоч Андрей Владимирович": 256,
-      "Усачев Владимир Семенович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121834": 77,
+      "gas:candidate-vibid:331300270636": 1,
+      "gas:candidate-vibid:1001000195060": 2,
+      "gas:candidate-vibid:331300270386": 0,
+      "gas:candidate-vibid:331300270630": 256,
+      "gas:candidate-vibid:1001000136038": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",
@@ -13916,13 +13916,13 @@ export const duma_2003_uik_428_region_31_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кулишов Олег Степанович": 18,
-      "Найденов Николай Федорович": 0,
-      "Панов Вячеслав Викторович": 0,
-      "Руда Юрий Михайлович": 1,
-      "Скоч Андрей Владимирович": 151,
-      "Усачев Владимир Семенович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121834": 18,
+      "gas:candidate-vibid:331300270636": 0,
+      "gas:candidate-vibid:1001000195060": 0,
+      "gas:candidate-vibid:331300270386": 1,
+      "gas:candidate-vibid:331300270630": 151,
+      "gas:candidate-vibid:1001000136038": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=313002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=331300270571&region=0&sub_region=0&type=429",

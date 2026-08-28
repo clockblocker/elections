@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 70,
-      "Иванов Валентин Борисович": 150,
-      "Насыров Равиль Хусаинович": 29,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 70,
+      "gas:candidate-vibid:1001000225998": 150,
+      "gas:candidate-vibid:1001000121924": 29,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 145,
-      "Иванов Валентин Борисович": 126,
-      "Насыров Равиль Хусаинович": 24,
-      "Никонов Владимир Васильевич": 23,
-      "Рамазанов Ханяфи Валиевич": 27,
-      "Харитонова Тамара Анатольевна": 48,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000188021": 145,
+      "gas:candidate-vibid:1001000225998": 126,
+      "gas:candidate-vibid:1001000121924": 24,
+      "gas:candidate-vibid:1001000217962": 23,
+      "gas:candidate-vibid:373300166642": 27,
+      "gas:candidate-vibid:1001000289813": 48,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 132,
-      "Иванов Валентин Борисович": 110,
-      "Насыров Равиль Хусаинович": 27,
-      "Никонов Владимир Васильевич": 26,
-      "Рамазанов Ханяфи Валиевич": 14,
-      "Харитонова Тамара Анатольевна": 19,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000188021": 132,
+      "gas:candidate-vibid:1001000225998": 110,
+      "gas:candidate-vibid:1001000121924": 27,
+      "gas:candidate-vibid:1001000217962": 26,
+      "gas:candidate-vibid:373300166642": 14,
+      "gas:candidate-vibid:1001000289813": 19,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 150,
-      "Иванов Валентин Борисович": 196,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 18,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000188021": 150,
+      "gas:candidate-vibid:1001000225998": 196,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 18,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 85,
-      "Иванов Валентин Борисович": 57,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 12,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000188021": 85,
+      "gas:candidate-vibid:1001000225998": 57,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 12,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 120,
-      "Иванов Валентин Борисович": 72,
-      "Насыров Равиль Хусаинович": 5,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000188021": 120,
+      "gas:candidate-vibid:1001000225998": 72,
+      "gas:candidate-vibid:1001000121924": 5,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 117,
-      "Иванов Валентин Борисович": 59,
-      "Насыров Равиль Хусаинович": 67,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 114,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000188021": 117,
+      "gas:candidate-vibid:1001000225998": 59,
+      "gas:candidate-vibid:1001000121924": 67,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 114,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 87,
-      "Иванов Валентин Борисович": 52,
-      "Насыров Равиль Хусаинович": 28,
-      "Никонов Владимир Васильевич": 21,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 28,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000188021": 87,
+      "gas:candidate-vibid:1001000225998": 52,
+      "gas:candidate-vibid:1001000121924": 28,
+      "gas:candidate-vibid:1001000217962": 21,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 28,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 110,
-      "Иванов Валентин Борисович": 201,
-      "Насыров Равиль Хусаинович": 69,
-      "Никонов Владимир Васильевич": 20,
-      "Рамазанов Ханяфи Валиевич": 32,
-      "Харитонова Тамара Анатольевна": 28,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000188021": 110,
+      "gas:candidate-vibid:1001000225998": 201,
+      "gas:candidate-vibid:1001000121924": 69,
+      "gas:candidate-vibid:1001000217962": 20,
+      "gas:candidate-vibid:373300166642": 32,
+      "gas:candidate-vibid:1001000289813": 28,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 172,
-      "Иванов Валентин Борисович": 183,
-      "Насыров Равиль Хусаинович": 52,
-      "Никонов Владимир Васильевич": 57,
-      "Рамазанов Ханяфи Валиевич": 22,
-      "Харитонова Тамара Анатольевна": 74,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000188021": 172,
+      "gas:candidate-vibid:1001000225998": 183,
+      "gas:candidate-vibid:1001000121924": 52,
+      "gas:candidate-vibid:1001000217962": 57,
+      "gas:candidate-vibid:373300166642": 22,
+      "gas:candidate-vibid:1001000289813": 74,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 47,
-      "Иванов Валентин Борисович": 74,
-      "Насыров Равиль Хусаинович": 41,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 15,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000188021": 47,
+      "gas:candidate-vibid:1001000225998": 74,
+      "gas:candidate-vibid:1001000121924": 41,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 15,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 74,
-      "Иванов Валентин Борисович": 29,
-      "Насыров Равиль Хусаинович": 43,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 14,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 74,
+      "gas:candidate-vibid:1001000225998": 29,
+      "gas:candidate-vibid:1001000121924": 43,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 14,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 387,
-      "Иванов Валентин Борисович": 271,
-      "Насыров Равиль Хусаинович": 109,
-      "Никонов Владимир Васильевич": 79,
-      "Рамазанов Ханяфи Валиевич": 92,
-      "Харитонова Тамара Анатольевна": 96,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000188021": 387,
+      "gas:candidate-vibid:1001000225998": 271,
+      "gas:candidate-vibid:1001000121924": 109,
+      "gas:candidate-vibid:1001000217962": 79,
+      "gas:candidate-vibid:373300166642": 92,
+      "gas:candidate-vibid:1001000289813": 96,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 73,
-      "Иванов Валентин Борисович": 52,
-      "Насыров Равиль Хусаинович": 15,
-      "Никонов Владимир Васильевич": 28,
-      "Рамазанов Ханяфи Валиевич": 23,
-      "Харитонова Тамара Анатольевна": 56,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000188021": 73,
+      "gas:candidate-vibid:1001000225998": 52,
+      "gas:candidate-vibid:1001000121924": 15,
+      "gas:candidate-vibid:1001000217962": 28,
+      "gas:candidate-vibid:373300166642": 23,
+      "gas:candidate-vibid:1001000289813": 56,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 197,
-      "Иванов Валентин Борисович": 338,
-      "Насыров Равиль Хусаинович": 63,
-      "Никонов Владимир Васильевич": 53,
-      "Рамазанов Ханяфи Валиевич": 23,
-      "Харитонова Тамара Анатольевна": 32,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000188021": 197,
+      "gas:candidate-vibid:1001000225998": 338,
+      "gas:candidate-vibid:1001000121924": 63,
+      "gas:candidate-vibid:1001000217962": 53,
+      "gas:candidate-vibid:373300166642": 23,
+      "gas:candidate-vibid:1001000289813": 32,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 228,
-      "Иванов Валентин Борисович": 266,
-      "Насыров Равиль Хусаинович": 200,
-      "Никонов Владимир Васильевич": 95,
-      "Рамазанов Ханяфи Валиевич": 93,
-      "Харитонова Тамара Анатольевна": 105,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000188021": 228,
+      "gas:candidate-vibid:1001000225998": 266,
+      "gas:candidate-vibid:1001000121924": 200,
+      "gas:candidate-vibid:1001000217962": 95,
+      "gas:candidate-vibid:373300166642": 93,
+      "gas:candidate-vibid:1001000289813": 105,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 302,
-      "Иванов Валентин Борисович": 305,
-      "Насыров Равиль Хусаинович": 266,
-      "Никонов Владимир Васильевич": 167,
-      "Рамазанов Ханяфи Валиевич": 106,
-      "Харитонова Тамара Анатольевна": 82,
-      "Против всех": 439
+      "gas:candidate-vibid:1001000188021": 302,
+      "gas:candidate-vibid:1001000225998": 305,
+      "gas:candidate-vibid:1001000121924": 266,
+      "gas:candidate-vibid:1001000217962": 167,
+      "gas:candidate-vibid:373300166642": 106,
+      "gas:candidate-vibid:1001000289813": 82,
+      "special:against-all": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 101,
-      "Иванов Валентин Борисович": 98,
-      "Насыров Равиль Хусаинович": 74,
-      "Никонов Владимир Васильевич": 45,
-      "Рамазанов Ханяфи Валиевич": 38,
-      "Харитонова Тамара Анатольевна": 39,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000188021": 101,
+      "gas:candidate-vibid:1001000225998": 98,
+      "gas:candidate-vibid:1001000121924": 74,
+      "gas:candidate-vibid:1001000217962": 45,
+      "gas:candidate-vibid:373300166642": 38,
+      "gas:candidate-vibid:1001000289813": 39,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 116,
-      "Иванов Валентин Борисович": 41,
-      "Насыров Равиль Хусаинович": 54,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000188021": 116,
+      "gas:candidate-vibid:1001000225998": 41,
+      "gas:candidate-vibid:1001000121924": 54,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 70,
-      "Иванов Валентин Борисович": 69,
-      "Насыров Равиль Хусаинович": 10,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000188021": 70,
+      "gas:candidate-vibid:1001000225998": 69,
+      "gas:candidate-vibid:1001000121924": 10,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 131,
-      "Иванов Валентин Борисович": 119,
-      "Насыров Равиль Хусаинович": 88,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 37,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 131,
+      "gas:candidate-vibid:1001000225998": 119,
+      "gas:candidate-vibid:1001000121924": 88,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 37,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 127,
-      "Иванов Валентин Борисович": 108,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 127,
+      "gas:candidate-vibid:1001000225998": 108,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 145,
-      "Иванов Валентин Борисович": 172,
-      "Насыров Равиль Хусаинович": 12,
-      "Никонов Владимир Васильевич": 13,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 27,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000188021": 145,
+      "gas:candidate-vibid:1001000225998": 172,
+      "gas:candidate-vibid:1001000121924": 12,
+      "gas:candidate-vibid:1001000217962": 13,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 27,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 82,
-      "Иванов Валентин Борисович": 87,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 16,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188021": 82,
+      "gas:candidate-vibid:1001000225998": 87,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 16,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 115,
-      "Иванов Валентин Борисович": 32,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 6,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000188021": 115,
+      "gas:candidate-vibid:1001000225998": 32,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 6,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 139,
-      "Иванов Валентин Борисович": 98,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 21,
-      "Рамазанов Ханяфи Валиевич": 13,
-      "Харитонова Тамара Анатольевна": 27,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188021": 139,
+      "gas:candidate-vibid:1001000225998": 98,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 21,
+      "gas:candidate-vibid:373300166642": 13,
+      "gas:candidate-vibid:1001000289813": 27,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 129,
-      "Иванов Валентин Борисович": 238,
-      "Насыров Равиль Хусаинович": 43,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 54,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188021": 129,
+      "gas:candidate-vibid:1001000225998": 238,
+      "gas:candidate-vibid:1001000121924": 43,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 54,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 139,
-      "Иванов Валентин Борисович": 102,
-      "Насыров Равиль Хусаинович": 46,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 27,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000188021": 139,
+      "gas:candidate-vibid:1001000225998": 102,
+      "gas:candidate-vibid:1001000121924": 46,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 27,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 187,
-      "Иванов Валентин Борисович": 194,
-      "Насыров Равиль Хусаинович": 121,
-      "Никонов Владимир Васильевич": 27,
-      "Рамазанов Ханяфи Валиевич": 83,
-      "Харитонова Тамара Анатольевна": 54,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000188021": 187,
+      "gas:candidate-vibid:1001000225998": 194,
+      "gas:candidate-vibid:1001000121924": 121,
+      "gas:candidate-vibid:1001000217962": 27,
+      "gas:candidate-vibid:373300166642": 83,
+      "gas:candidate-vibid:1001000289813": 54,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 248,
-      "Иванов Валентин Борисович": 234,
-      "Насыров Равиль Хусаинович": 183,
-      "Никонов Владимир Васильевич": 45,
-      "Рамазанов Ханяфи Валиевич": 125,
-      "Харитонова Тамара Анатольевна": 69,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000188021": 248,
+      "gas:candidate-vibid:1001000225998": 234,
+      "gas:candidate-vibid:1001000121924": 183,
+      "gas:candidate-vibid:1001000217962": 45,
+      "gas:candidate-vibid:373300166642": 125,
+      "gas:candidate-vibid:1001000289813": 69,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 209,
-      "Иванов Валентин Борисович": 197,
-      "Насыров Равиль Хусаинович": 163,
-      "Никонов Владимир Васильевич": 38,
-      "Рамазанов Ханяфи Валиевич": 135,
-      "Харитонова Тамара Анатольевна": 78,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000188021": 209,
+      "gas:candidate-vibid:1001000225998": 197,
+      "gas:candidate-vibid:1001000121924": 163,
+      "gas:candidate-vibid:1001000217962": 38,
+      "gas:candidate-vibid:373300166642": 135,
+      "gas:candidate-vibid:1001000289813": 78,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 252,
-      "Иванов Валентин Борисович": 261,
-      "Насыров Равиль Хусаинович": 165,
-      "Никонов Владимир Васильевич": 55,
-      "Рамазанов Ханяфи Валиевич": 87,
-      "Харитонова Тамара Анатольевна": 65,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000188021": 252,
+      "gas:candidate-vibid:1001000225998": 261,
+      "gas:candidate-vibid:1001000121924": 165,
+      "gas:candidate-vibid:1001000217962": 55,
+      "gas:candidate-vibid:373300166642": 87,
+      "gas:candidate-vibid:1001000289813": 65,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070503&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 51,
-      "Иванов Валентин Борисович": 5,
-      "Насыров Равиль Хусаинович": 14,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 198,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 51,
+      "gas:candidate-vibid:1001000225998": 5,
+      "gas:candidate-vibid:1001000121924": 14,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 198,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 77,
-      "Иванов Валентин Борисович": 16,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 337,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 77,
+      "gas:candidate-vibid:1001000225998": 16,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 337,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 173,
-      "Иванов Валентин Борисович": 138,
-      "Насыров Равиль Хусаинович": 154,
-      "Никонов Владимир Васильевич": 45,
-      "Рамазанов Ханяфи Валиевич": 1014,
-      "Харитонова Тамара Анатольевна": 61,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000188021": 173,
+      "gas:candidate-vibid:1001000225998": 138,
+      "gas:candidate-vibid:1001000121924": 154,
+      "gas:candidate-vibid:1001000217962": 45,
+      "gas:candidate-vibid:373300166642": 1014,
+      "gas:candidate-vibid:1001000289813": 61,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 125,
-      "Иванов Валентин Борисович": 52,
-      "Насыров Равиль Хусаинович": 91,
-      "Никонов Владимир Васильевич": 21,
-      "Рамазанов Ханяфи Валиевич": 493,
-      "Харитонова Тамара Анатольевна": 23,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000188021": 125,
+      "gas:candidate-vibid:1001000225998": 52,
+      "gas:candidate-vibid:1001000121924": 91,
+      "gas:candidate-vibid:1001000217962": 21,
+      "gas:candidate-vibid:373300166642": 493,
+      "gas:candidate-vibid:1001000289813": 23,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 26,
-      "Иванов Валентин Борисович": 1,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 73,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 26,
+      "gas:candidate-vibid:1001000225998": 1,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 73,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 31,
-      "Иванов Валентин Борисович": 0,
-      "Насыров Равиль Хусаинович": 4,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 34,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188021": 31,
+      "gas:candidate-vibid:1001000225998": 0,
+      "gas:candidate-vibid:1001000121924": 4,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 34,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 39,
-      "Иванов Валентин Борисович": 40,
-      "Насыров Равиль Хусаинович": 43,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 314,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000188021": 39,
+      "gas:candidate-vibid:1001000225998": 40,
+      "gas:candidate-vibid:1001000121924": 43,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 314,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 48,
-      "Иванов Валентин Борисович": 9,
-      "Насыров Равиль Хусаинович": 57,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 332,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188021": 48,
+      "gas:candidate-vibid:1001000225998": 9,
+      "gas:candidate-vibid:1001000121924": 57,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 332,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 39,
-      "Иванов Валентин Борисович": 20,
-      "Насыров Равиль Хусаинович": 24,
-      "Никонов Владимир Васильевич": 12,
-      "Рамазанов Ханяфи Валиевич": 91,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188021": 39,
+      "gas:candidate-vibid:1001000225998": 20,
+      "gas:candidate-vibid:1001000121924": 24,
+      "gas:candidate-vibid:1001000217962": 12,
+      "gas:candidate-vibid:373300166642": 91,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 97,
-      "Иванов Валентин Борисович": 27,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 12,
-      "Рамазанов Ханяфи Валиевич": 162,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000188021": 97,
+      "gas:candidate-vibid:1001000225998": 27,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 12,
+      "gas:candidate-vibid:373300166642": 162,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 32,
-      "Иванов Валентин Борисович": 4,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 4,
-      "Рамазанов Ханяфи Валиевич": 83,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 32,
+      "gas:candidate-vibid:1001000225998": 4,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 4,
+      "gas:candidate-vibid:373300166642": 83,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 85,
-      "Иванов Валентин Борисович": 20,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 162,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000188021": 85,
+      "gas:candidate-vibid:1001000225998": 20,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 162,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 28,
-      "Иванов Валентин Борисович": 23,
-      "Насыров Равиль Хусаинович": 15,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 199,
-      "Харитонова Тамара Анатольевна": 14,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188021": 28,
+      "gas:candidate-vibid:1001000225998": 23,
+      "gas:candidate-vibid:1001000121924": 15,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 199,
+      "gas:candidate-vibid:1001000289813": 14,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 30,
-      "Иванов Валентин Борисович": 3,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 137,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 30,
+      "gas:candidate-vibid:1001000225998": 3,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 137,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 23,
-      "Иванов Валентин Борисович": 2,
-      "Насыров Равиль Хусаинович": 5,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 140,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 23,
+      "gas:candidate-vibid:1001000225998": 2,
+      "gas:candidate-vibid:1001000121924": 5,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 140,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 1,
-      "Иванов Валентин Борисович": 0,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 45,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 1,
+      "gas:candidate-vibid:1001000225998": 0,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 45,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 54,
-      "Иванов Валентин Борисович": 2,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 164,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 54,
+      "gas:candidate-vibid:1001000225998": 2,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 164,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 3,
-      "Иванов Валентин Борисович": 0,
-      "Насыров Равиль Хусаинович": 4,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 60,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188021": 3,
+      "gas:candidate-vibid:1001000225998": 0,
+      "gas:candidate-vibid:1001000121924": 4,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 60,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 56,
-      "Иванов Валентин Борисович": 26,
-      "Насыров Равиль Хусаинович": 14,
-      "Никонов Владимир Васильевич": 44,
-      "Рамазанов Ханяфи Валиевич": 271,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000188021": 56,
+      "gas:candidate-vibid:1001000225998": 26,
+      "gas:candidate-vibid:1001000121924": 14,
+      "gas:candidate-vibid:1001000217962": 44,
+      "gas:candidate-vibid:373300166642": 271,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 34,
-      "Иванов Валентин Борисович": 13,
-      "Насыров Равиль Хусаинович": 22,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 203,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000188021": 34,
+      "gas:candidate-vibid:1001000225998": 13,
+      "gas:candidate-vibid:1001000121924": 22,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 203,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 36,
-      "Иванов Валентин Борисович": 10,
-      "Насыров Равиль Хусаинович": 28,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 115,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 36,
+      "gas:candidate-vibid:1001000225998": 10,
+      "gas:candidate-vibid:1001000121924": 28,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 115,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 219,
-      "Иванов Валентин Борисович": 19,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 90,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000188021": 219,
+      "gas:candidate-vibid:1001000225998": 19,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 90,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 23,
-      "Иванов Валентин Борисович": 3,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 21,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188021": 23,
+      "gas:candidate-vibid:1001000225998": 3,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 21,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 54,
-      "Иванов Валентин Борисович": 2,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 24,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188021": 54,
+      "gas:candidate-vibid:1001000225998": 2,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 24,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 46,
-      "Иванов Валентин Борисович": 0,
-      "Насыров Равиль Хусаинович": 25,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 385,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 46,
+      "gas:candidate-vibid:1001000225998": 0,
+      "gas:candidate-vibid:1001000121924": 25,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 385,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 93,
-      "Иванов Валентин Борисович": 11,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 13,
-      "Рамазанов Ханяфи Валиевич": 199,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 93,
+      "gas:candidate-vibid:1001000225998": 11,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 13,
+      "gas:candidate-vibid:373300166642": 199,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 59,
-      "Иванов Валентин Борисович": 8,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 119,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188021": 59,
+      "gas:candidate-vibid:1001000225998": 8,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 119,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 49,
-      "Иванов Валентин Борисович": 30,
-      "Насыров Равиль Хусаинович": 17,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 149,
-      "Харитонова Тамара Анатольевна": 18,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000188021": 49,
+      "gas:candidate-vibid:1001000225998": 30,
+      "gas:candidate-vibid:1001000121924": 17,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 149,
+      "gas:candidate-vibid:1001000289813": 18,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 39,
-      "Иванов Валентин Борисович": 4,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 89,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 39,
+      "gas:candidate-vibid:1001000225998": 4,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 89,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 20,
-      "Иванов Валентин Борисович": 4,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 47,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 20,
+      "gas:candidate-vibid:1001000225998": 4,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 47,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 53,
-      "Иванов Валентин Борисович": 2,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 88,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 53,
+      "gas:candidate-vibid:1001000225998": 2,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 88,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 56,
-      "Иванов Валентин Борисович": 14,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 203,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000188021": 56,
+      "gas:candidate-vibid:1001000225998": 14,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 203,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 61,
-      "Иванов Валентин Борисович": 22,
-      "Насыров Равиль Хусаинович": 35,
-      "Никонов Владимир Васильевич": 30,
-      "Рамазанов Ханяфи Валиевич": 494,
-      "Харитонова Тамара Анатольевна": 21,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000188021": 61,
+      "gas:candidate-vibid:1001000225998": 22,
+      "gas:candidate-vibid:1001000121924": 35,
+      "gas:candidate-vibid:1001000217962": 30,
+      "gas:candidate-vibid:373300166642": 494,
+      "gas:candidate-vibid:1001000289813": 21,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 42,
-      "Иванов Валентин Борисович": 24,
-      "Насыров Равиль Хусаинович": 12,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 173,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000188021": 42,
+      "gas:candidate-vibid:1001000225998": 24,
+      "gas:candidate-vibid:1001000121924": 12,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 173,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 15,
-      "Иванов Валентин Борисович": 2,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 33,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188021": 15,
+      "gas:candidate-vibid:1001000225998": 2,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 33,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 29,
-      "Иванов Валентин Борисович": 3,
-      "Насыров Равиль Хусаинович": 19,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 94,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188021": 29,
+      "gas:candidate-vibid:1001000225998": 3,
+      "gas:candidate-vibid:1001000121924": 19,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 94,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 238,
-      "Иванов Валентин Борисович": 111,
-      "Насыров Равиль Хусаинович": 181,
-      "Никонов Владимир Васильевич": 36,
-      "Рамазанов Ханяфи Валиевич": 847,
-      "Харитонова Тамара Анатольевна": 60,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000188021": 238,
+      "gas:candidate-vibid:1001000225998": 111,
+      "gas:candidate-vibid:1001000121924": 181,
+      "gas:candidate-vibid:1001000217962": 36,
+      "gas:candidate-vibid:373300166642": 847,
+      "gas:candidate-vibid:1001000289813": 60,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 80,
-      "Иванов Валентин Борисович": 28,
-      "Насыров Равиль Хусаинович": 59,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 228,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000188021": 80,
+      "gas:candidate-vibid:1001000225998": 28,
+      "gas:candidate-vibid:1001000121924": 59,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 228,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070504&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 94,
-      "Иванов Валентин Борисович": 265,
-      "Насыров Равиль Хусаинович": 77,
-      "Никонов Владимир Васильевич": 37,
-      "Рамазанов Ханяфи Валиевич": 37,
-      "Харитонова Тамара Анатольевна": 44,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000188021": 94,
+      "gas:candidate-vibid:1001000225998": 265,
+      "gas:candidate-vibid:1001000121924": 77,
+      "gas:candidate-vibid:1001000217962": 37,
+      "gas:candidate-vibid:373300166642": 37,
+      "gas:candidate-vibid:1001000289813": 44,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 119,
-      "Иванов Валентин Борисович": 322,
-      "Насыров Равиль Хусаинович": 62,
-      "Никонов Владимир Васильевич": 40,
-      "Рамазанов Ханяфи Валиевич": 53,
-      "Харитонова Тамара Анатольевна": 56,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000188021": 119,
+      "gas:candidate-vibid:1001000225998": 322,
+      "gas:candidate-vibid:1001000121924": 62,
+      "gas:candidate-vibid:1001000217962": 40,
+      "gas:candidate-vibid:373300166642": 53,
+      "gas:candidate-vibid:1001000289813": 56,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 119,
-      "Иванов Валентин Борисович": 252,
-      "Насыров Равиль Хусаинович": 96,
-      "Никонов Владимир Васильевич": 61,
-      "Рамазанов Ханяфи Валиевич": 41,
-      "Харитонова Тамара Анатольевна": 62,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000188021": 119,
+      "gas:candidate-vibid:1001000225998": 252,
+      "gas:candidate-vibid:1001000121924": 96,
+      "gas:candidate-vibid:1001000217962": 61,
+      "gas:candidate-vibid:373300166642": 41,
+      "gas:candidate-vibid:1001000289813": 62,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 102,
-      "Иванов Валентин Борисович": 146,
-      "Насыров Равиль Хусаинович": 36,
-      "Никонов Владимир Васильевич": 23,
-      "Рамазанов Ханяфи Валиевич": 18,
-      "Харитонова Тамара Анатольевна": 34,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000188021": 102,
+      "gas:candidate-vibid:1001000225998": 146,
+      "gas:candidate-vibid:1001000121924": 36,
+      "gas:candidate-vibid:1001000217962": 23,
+      "gas:candidate-vibid:373300166642": 18,
+      "gas:candidate-vibid:1001000289813": 34,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 71,
-      "Иванов Валентин Борисович": 52,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 28,
-      "Рамазанов Ханяфи Валиевич": 12,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000188021": 71,
+      "gas:candidate-vibid:1001000225998": 52,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 28,
+      "gas:candidate-vibid:373300166642": 12,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 36,
-      "Иванов Валентин Борисович": 29,
-      "Насыров Равиль Хусаинович": 10,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188021": 36,
+      "gas:candidate-vibid:1001000225998": 29,
+      "gas:candidate-vibid:1001000121924": 10,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 66,
-      "Иванов Валентин Борисович": 96,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 14,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 18,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000188021": 66,
+      "gas:candidate-vibid:1001000225998": 96,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 14,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 18,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 36,
-      "Иванов Валентин Борисович": 151,
-      "Насыров Равиль Хусаинович": 19,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 23,
-      "Харитонова Тамара Анатольевна": 15,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000188021": 36,
+      "gas:candidate-vibid:1001000225998": 151,
+      "gas:candidate-vibid:1001000121924": 19,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 23,
+      "gas:candidate-vibid:1001000289813": 15,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 10,
-      "Иванов Валентин Борисович": 55,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 11,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 10,
+      "gas:candidate-vibid:1001000225998": 55,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 11,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 37,
-      "Иванов Валентин Борисович": 34,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 16,
-      "Рамазанов Ханяфи Валиевич": 10,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000188021": 37,
+      "gas:candidate-vibid:1001000225998": 34,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 16,
+      "gas:candidate-vibid:373300166642": 10,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 94,
-      "Иванов Валентин Борисович": 94,
-      "Насыров Равиль Хусаинович": 17,
-      "Никонов Владимир Васильевич": 65,
-      "Рамазанов Ханяфи Валиевич": 10,
-      "Харитонова Тамара Анатольевна": 34,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000188021": 94,
+      "gas:candidate-vibid:1001000225998": 94,
+      "gas:candidate-vibid:1001000121924": 17,
+      "gas:candidate-vibid:1001000217962": 65,
+      "gas:candidate-vibid:373300166642": 10,
+      "gas:candidate-vibid:1001000289813": 34,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 134,
-      "Иванов Валентин Борисович": 100,
-      "Насыров Равиль Хусаинович": 33,
-      "Никонов Владимир Васильевич": 32,
-      "Рамазанов Ханяфи Валиевич": 17,
-      "Харитонова Тамара Анатольевна": 39,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000188021": 134,
+      "gas:candidate-vibid:1001000225998": 100,
+      "gas:candidate-vibid:1001000121924": 33,
+      "gas:candidate-vibid:1001000217962": 32,
+      "gas:candidate-vibid:373300166642": 17,
+      "gas:candidate-vibid:1001000289813": 39,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 22,
-      "Иванов Валентин Борисович": 11,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 17,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188021": 22,
+      "gas:candidate-vibid:1001000225998": 11,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 17,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 38,
-      "Иванов Валентин Борисович": 44,
-      "Насыров Равиль Хусаинович": 35,
-      "Никонов Владимир Васильевич": 16,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 23,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 38,
+      "gas:candidate-vibid:1001000225998": 44,
+      "gas:candidate-vibid:1001000121924": 35,
+      "gas:candidate-vibid:1001000217962": 16,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 23,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 52,
-      "Иванов Валентин Борисович": 56,
-      "Насыров Равиль Хусаинович": 24,
-      "Никонов Владимир Васильевич": 19,
-      "Рамазанов Ханяфи Валиевич": 21,
-      "Харитонова Тамара Анатольевна": 20,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000188021": 52,
+      "gas:candidate-vibid:1001000225998": 56,
+      "gas:candidate-vibid:1001000121924": 24,
+      "gas:candidate-vibid:1001000217962": 19,
+      "gas:candidate-vibid:373300166642": 21,
+      "gas:candidate-vibid:1001000289813": 20,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 46,
-      "Иванов Валентин Борисович": 42,
-      "Насыров Равиль Хусаинович": 37,
-      "Никонов Владимир Васильевич": 13,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 22,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000188021": 46,
+      "gas:candidate-vibid:1001000225998": 42,
+      "gas:candidate-vibid:1001000121924": 37,
+      "gas:candidate-vibid:1001000217962": 13,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 22,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 16,
-      "Иванов Валентин Борисович": 61,
-      "Насыров Равиль Хусаинович": 12,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188021": 16,
+      "gas:candidate-vibid:1001000225998": 61,
+      "gas:candidate-vibid:1001000121924": 12,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 62,
-      "Иванов Валентин Борисович": 93,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 24,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000188021": 62,
+      "gas:candidate-vibid:1001000225998": 93,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 24,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 97,
-      "Иванов Валентин Борисович": 121,
-      "Насыров Равиль Хусаинович": 20,
-      "Никонов Владимир Васильевич": 26,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 23,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000188021": 97,
+      "gas:candidate-vibid:1001000225998": 121,
+      "gas:candidate-vibid:1001000121924": 20,
+      "gas:candidate-vibid:1001000217962": 26,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 23,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 71,
-      "Иванов Валентин Борисович": 70,
-      "Насыров Равиль Хусаинович": 69,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 18,
-      "Харитонова Тамара Анатольевна": 18,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000188021": 71,
+      "gas:candidate-vibid:1001000225998": 70,
+      "gas:candidate-vibid:1001000121924": 69,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 18,
+      "gas:candidate-vibid:1001000289813": 18,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 31,
-      "Иванов Валентин Борисович": 70,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 6,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188021": 31,
+      "gas:candidate-vibid:1001000225998": 70,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 6,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 103,
-      "Иванов Валентин Борисович": 247,
-      "Насыров Равиль Хусаинович": 19,
-      "Никонов Владимир Васильевич": 24,
-      "Рамазанов Ханяфи Валиевич": 15,
-      "Харитонова Тамара Анатольевна": 19,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000188021": 103,
+      "gas:candidate-vibid:1001000225998": 247,
+      "gas:candidate-vibid:1001000121924": 19,
+      "gas:candidate-vibid:1001000217962": 24,
+      "gas:candidate-vibid:373300166642": 15,
+      "gas:candidate-vibid:1001000289813": 19,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 75,
-      "Иванов Валентин Борисович": 128,
-      "Насыров Равиль Хусаинович": 25,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 10,
-      "Харитонова Тамара Анатольевна": 28,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188021": 75,
+      "gas:candidate-vibid:1001000225998": 128,
+      "gas:candidate-vibid:1001000121924": 25,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 10,
+      "gas:candidate-vibid:1001000289813": 28,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 4,
-      "Иванов Валентин Борисович": 32,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188021": 4,
+      "gas:candidate-vibid:1001000225998": 32,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 45,
-      "Иванов Валентин Борисович": 46,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 19,
-      "Рамазанов Ханяфи Валиевич": 12,
-      "Харитонова Тамара Анатольевна": 65,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000188021": 45,
+      "gas:candidate-vibid:1001000225998": 46,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 19,
+      "gas:candidate-vibid:373300166642": 12,
+      "gas:candidate-vibid:1001000289813": 65,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 43,
-      "Иванов Валентин Борисович": 29,
-      "Насыров Равиль Хусаинович": 28,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 11,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188021": 43,
+      "gas:candidate-vibid:1001000225998": 29,
+      "gas:candidate-vibid:1001000121924": 28,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 11,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 147,
-      "Иванов Валентин Борисович": 96,
-      "Насыров Равиль Хусаинович": 57,
-      "Никонов Владимир Васильевич": 24,
-      "Рамазанов Ханяфи Валиевич": 42,
-      "Харитонова Тамара Анатольевна": 34,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000188021": 147,
+      "gas:candidate-vibid:1001000225998": 96,
+      "gas:candidate-vibid:1001000121924": 57,
+      "gas:candidate-vibid:1001000217962": 24,
+      "gas:candidate-vibid:373300166642": 42,
+      "gas:candidate-vibid:1001000289813": 34,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 21,
-      "Иванов Валентин Борисович": 23,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 21,
+      "gas:candidate-vibid:1001000225998": 23,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 40,
-      "Иванов Валентин Борисович": 199,
-      "Насыров Равиль Хусаинович": 36,
-      "Никонов Владимир Васильевич": 29,
-      "Рамазанов Ханяфи Валиевич": 32,
-      "Харитонова Тамара Анатольевна": 107,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000188021": 40,
+      "gas:candidate-vibid:1001000225998": 199,
+      "gas:candidate-vibid:1001000121924": 36,
+      "gas:candidate-vibid:1001000217962": 29,
+      "gas:candidate-vibid:373300166642": 32,
+      "gas:candidate-vibid:1001000289813": 107,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070505&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 56,
-      "Иванов Валентин Борисович": 55,
-      "Насыров Равиль Хусаинович": 5,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000188021": 56,
+      "gas:candidate-vibid:1001000225998": 55,
+      "gas:candidate-vibid:1001000121924": 5,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 40,
-      "Иванов Валентин Борисович": 19,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 40,
+      "gas:candidate-vibid:1001000225998": 19,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 12,
-      "Иванов Валентин Борисович": 22,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 12,
+      "gas:candidate-vibid:1001000225998": 22,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 136,
-      "Иванов Валентин Борисович": 27,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 136,
+      "gas:candidate-vibid:1001000225998": 27,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 280,
-      "Иванов Валентин Борисович": 131,
-      "Насыров Равиль Хусаинович": 77,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 13,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000188021": 280,
+      "gas:candidate-vibid:1001000225998": 131,
+      "gas:candidate-vibid:1001000121924": 77,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 13,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 97,
-      "Иванов Валентин Борисович": 17,
-      "Насыров Равиль Хусаинович": 22,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 97,
+      "gas:candidate-vibid:1001000225998": 17,
+      "gas:candidate-vibid:1001000121924": 22,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 30,
-      "Иванов Валентин Борисович": 5,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 30,
+      "gas:candidate-vibid:1001000225998": 5,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 72,
-      "Иванов Валентин Борисович": 33,
-      "Насыров Равиль Хусаинович": 21,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188021": 72,
+      "gas:candidate-vibid:1001000225998": 33,
+      "gas:candidate-vibid:1001000121924": 21,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 75,
-      "Иванов Валентин Борисович": 146,
-      "Насыров Равиль Хусаинович": 32,
-      "Никонов Владимир Васильевич": 12,
-      "Рамазанов Ханяфи Валиевич": 60,
-      "Харитонова Тамара Анатольевна": 11,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000188021": 75,
+      "gas:candidate-vibid:1001000225998": 146,
+      "gas:candidate-vibid:1001000121924": 32,
+      "gas:candidate-vibid:1001000217962": 12,
+      "gas:candidate-vibid:373300166642": 60,
+      "gas:candidate-vibid:1001000289813": 11,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 32,
-      "Иванов Валентин Борисович": 14,
-      "Насыров Равиль Хусаинович": 38,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 31,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 32,
+      "gas:candidate-vibid:1001000225998": 14,
+      "gas:candidate-vibid:1001000121924": 38,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 31,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 76,
-      "Иванов Валентин Борисович": 69,
-      "Насыров Равиль Хусаинович": 41,
-      "Никонов Владимир Васильевич": 23,
-      "Рамазанов Ханяфи Валиевич": 17,
-      "Харитонова Тамара Анатольевна": 23,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000188021": 76,
+      "gas:candidate-vibid:1001000225998": 69,
+      "gas:candidate-vibid:1001000121924": 41,
+      "gas:candidate-vibid:1001000217962": 23,
+      "gas:candidate-vibid:373300166642": 17,
+      "gas:candidate-vibid:1001000289813": 23,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 11,
-      "Иванов Валентин Борисович": 14,
-      "Насыров Равиль Хусаинович": 5,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 11,
+      "gas:candidate-vibid:1001000225998": 14,
+      "gas:candidate-vibid:1001000121924": 5,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 4,
-      "Иванов Валентин Борисович": 28,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 15,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 4,
+      "gas:candidate-vibid:1001000225998": 28,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 15,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 137,
-      "Иванов Валентин Борисович": 58,
-      "Насыров Равиль Хусаинович": 57,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 137,
+      "gas:candidate-vibid:1001000225998": 58,
+      "gas:candidate-vibid:1001000121924": 57,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 83,
-      "Иванов Валентин Борисович": 26,
-      "Насыров Равиль Хусаинович": 14,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 83,
+      "gas:candidate-vibid:1001000225998": 26,
+      "gas:candidate-vibid:1001000121924": 14,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 81,
-      "Иванов Валентин Борисович": 88,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 25,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000188021": 81,
+      "gas:candidate-vibid:1001000225998": 88,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 25,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 23,
-      "Иванов Валентин Борисович": 20,
-      "Насыров Равиль Хусаинович": 4,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 23,
+      "gas:candidate-vibid:1001000225998": 20,
+      "gas:candidate-vibid:1001000121924": 4,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 98,
-      "Иванов Валентин Борисович": 55,
-      "Насыров Равиль Хусаинович": 24,
-      "Никонов Владимир Васильевич": 48,
-      "Рамазанов Ханяфи Валиевич": 16,
-      "Харитонова Тамара Анатольевна": 15,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000188021": 98,
+      "gas:candidate-vibid:1001000225998": 55,
+      "gas:candidate-vibid:1001000121924": 24,
+      "gas:candidate-vibid:1001000217962": 48,
+      "gas:candidate-vibid:373300166642": 16,
+      "gas:candidate-vibid:1001000289813": 15,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 72,
-      "Иванов Валентин Борисович": 42,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 18,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188021": 72,
+      "gas:candidate-vibid:1001000225998": 42,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 18,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 79,
-      "Иванов Валентин Борисович": 27,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188021": 79,
+      "gas:candidate-vibid:1001000225998": 27,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 20,
-      "Иванов Валентин Борисович": 85,
-      "Насыров Равиль Хусаинович": 1,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 20,
+      "gas:candidate-vibid:1001000225998": 85,
+      "gas:candidate-vibid:1001000121924": 1,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 236,
-      "Иванов Валентин Борисович": 48,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000188021": 236,
+      "gas:candidate-vibid:1001000225998": 48,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 77,
-      "Иванов Валентин Борисович": 7,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 77,
+      "gas:candidate-vibid:1001000225998": 7,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 52,
-      "Иванов Валентин Борисович": 67,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 14,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000188021": 52,
+      "gas:candidate-vibid:1001000225998": 67,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 14,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 17,
-      "Иванов Валентин Борисович": 54,
-      "Насыров Равиль Хусаинович": 1,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188021": 17,
+      "gas:candidate-vibid:1001000225998": 54,
+      "gas:candidate-vibid:1001000121924": 1,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 55,
-      "Иванов Валентин Борисович": 68,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188021": 55,
+      "gas:candidate-vibid:1001000225998": 68,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 50,
-      "Иванов Валентин Борисович": 159,
-      "Насыров Равиль Хусаинович": 4,
-      "Никонов Владимир Васильевич": 16,
-      "Рамазанов Ханяфи Валиевич": 16,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000188021": 50,
+      "gas:candidate-vibid:1001000225998": 159,
+      "gas:candidate-vibid:1001000121924": 4,
+      "gas:candidate-vibid:1001000217962": 16,
+      "gas:candidate-vibid:373300166642": 16,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 30,
-      "Иванов Валентин Борисович": 34,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188021": 30,
+      "gas:candidate-vibid:1001000225998": 34,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 80,
-      "Иванов Валентин Борисович": 295,
-      "Насыров Равиль Хусаинович": 16,
-      "Никонов Владимир Васильевич": 26,
-      "Рамазанов Ханяфи Валиевич": 8,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000188021": 80,
+      "gas:candidate-vibid:1001000225998": 295,
+      "gas:candidate-vibid:1001000121924": 16,
+      "gas:candidate-vibid:1001000217962": 26,
+      "gas:candidate-vibid:373300166642": 8,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 114,
-      "Иванов Валентин Борисович": 58,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188021": 114,
+      "gas:candidate-vibid:1001000225998": 58,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 44,
-      "Иванов Валентин Борисович": 40,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 44,
+      "gas:candidate-vibid:1001000225998": 40,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 21,
-      "Иванов Валентин Борисович": 50,
-      "Насыров Равиль Хусаинович": 1,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188021": 21,
+      "gas:candidate-vibid:1001000225998": 50,
+      "gas:candidate-vibid:1001000121924": 1,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 266,
-      "Иванов Валентин Борисович": 143,
-      "Насыров Равиль Хусаинович": 79,
-      "Никонов Владимир Васильевич": 53,
-      "Рамазанов Ханяфи Валиевич": 17,
-      "Харитонова Тамара Анатольевна": 35,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000188021": 266,
+      "gas:candidate-vibid:1001000225998": 143,
+      "gas:candidate-vibid:1001000121924": 79,
+      "gas:candidate-vibid:1001000217962": 53,
+      "gas:candidate-vibid:373300166642": 17,
+      "gas:candidate-vibid:1001000289813": 35,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 24,
-      "Иванов Валентин Борисович": 45,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188021": 24,
+      "gas:candidate-vibid:1001000225998": 45,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 407,
-      "Иванов Валентин Борисович": 235,
-      "Насыров Равиль Хусаинович": 134,
-      "Никонов Владимир Васильевич": 91,
-      "Рамазанов Ханяфи Валиевич": 35,
-      "Харитонова Тамара Анатольевна": 54,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000188021": 407,
+      "gas:candidate-vibid:1001000225998": 235,
+      "gas:candidate-vibid:1001000121924": 134,
+      "gas:candidate-vibid:1001000217962": 91,
+      "gas:candidate-vibid:373300166642": 35,
+      "gas:candidate-vibid:1001000289813": 54,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 330,
-      "Иванов Валентин Борисович": 291,
-      "Насыров Равиль Хусаинович": 138,
-      "Никонов Владимир Васильевич": 94,
-      "Рамазанов Ханяфи Валиевич": 43,
-      "Харитонова Тамара Анатольевна": 71,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000188021": 330,
+      "gas:candidate-vibid:1001000225998": 291,
+      "gas:candidate-vibid:1001000121924": 138,
+      "gas:candidate-vibid:1001000217962": 94,
+      "gas:candidate-vibid:373300166642": 43,
+      "gas:candidate-vibid:1001000289813": 71,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 253,
-      "Иванов Валентин Борисович": 176,
-      "Насыров Равиль Хусаинович": 82,
-      "Никонов Владимир Васильевич": 81,
-      "Рамазанов Ханяфи Валиевич": 24,
-      "Харитонова Тамара Анатольевна": 49,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000188021": 253,
+      "gas:candidate-vibid:1001000225998": 176,
+      "gas:candidate-vibid:1001000121924": 82,
+      "gas:candidate-vibid:1001000217962": 81,
+      "gas:candidate-vibid:373300166642": 24,
+      "gas:candidate-vibid:1001000289813": 49,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 57,
-      "Иванов Валентин Борисович": 27,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188021": 57,
+      "gas:candidate-vibid:1001000225998": 27,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 58,
-      "Иванов Валентин Борисович": 19,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 13,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000188021": 58,
+      "gas:candidate-vibid:1001000225998": 19,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 13,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 38,
-      "Иванов Валентин Борисович": 262,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188021": 38,
+      "gas:candidate-vibid:1001000225998": 262,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 30,
-      "Иванов Валентин Борисович": 70,
-      "Насыров Равиль Хусаинович": 2,
-      "Никонов Владимир Васильевич": 4,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188021": 30,
+      "gas:candidate-vibid:1001000225998": 70,
+      "gas:candidate-vibid:1001000121924": 2,
+      "gas:candidate-vibid:1001000217962": 4,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 7,
-      "Иванов Валентин Борисович": 44,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188021": 7,
+      "gas:candidate-vibid:1001000225998": 44,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 55,
-      "Иванов Валентин Борисович": 93,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 55,
+      "gas:candidate-vibid:1001000225998": 93,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 47,
-      "Иванов Валентин Борисович": 18,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 47,
+      "gas:candidate-vibid:1001000225998": 18,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 57,
-      "Иванов Валентин Борисович": 72,
-      "Насыров Равиль Хусаинович": 18,
-      "Никонов Владимир Васильевич": 20,
-      "Рамазанов Ханяфи Валиевич": 25,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000188021": 57,
+      "gas:candidate-vibid:1001000225998": 72,
+      "gas:candidate-vibid:1001000121924": 18,
+      "gas:candidate-vibid:1001000217962": 20,
+      "gas:candidate-vibid:373300166642": 25,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 66,
-      "Иванов Валентин Борисович": 47,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 40,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000188021": 66,
+      "gas:candidate-vibid:1001000225998": 47,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 40,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070506&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 216,
-      "Иванов Валентин Борисович": 190,
-      "Насыров Равиль Хусаинович": 98,
-      "Никонов Владимир Васильевич": 77,
-      "Рамазанов Ханяфи Валиевич": 92,
-      "Харитонова Тамара Анатольевна": 79,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000188021": 216,
+      "gas:candidate-vibid:1001000225998": 190,
+      "gas:candidate-vibid:1001000121924": 98,
+      "gas:candidate-vibid:1001000217962": 77,
+      "gas:candidate-vibid:373300166642": 92,
+      "gas:candidate-vibid:1001000289813": 79,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 196,
-      "Иванов Валентин Борисович": 181,
-      "Насыров Равиль Хусаинович": 108,
-      "Никонов Владимир Васильевич": 45,
-      "Рамазанов Ханяфи Валиевич": 75,
-      "Харитонова Тамара Анатольевна": 95,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000188021": 196,
+      "gas:candidate-vibid:1001000225998": 181,
+      "gas:candidate-vibid:1001000121924": 108,
+      "gas:candidate-vibid:1001000217962": 45,
+      "gas:candidate-vibid:373300166642": 75,
+      "gas:candidate-vibid:1001000289813": 95,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 161,
-      "Иванов Валентин Борисович": 182,
-      "Насыров Равиль Хусаинович": 94,
-      "Никонов Владимир Васильевич": 48,
-      "Рамазанов Ханяфи Валиевич": 59,
-      "Харитонова Тамара Анатольевна": 97,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000188021": 161,
+      "gas:candidate-vibid:1001000225998": 182,
+      "gas:candidate-vibid:1001000121924": 94,
+      "gas:candidate-vibid:1001000217962": 48,
+      "gas:candidate-vibid:373300166642": 59,
+      "gas:candidate-vibid:1001000289813": 97,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 79,
-      "Иванов Валентин Борисович": 87,
-      "Насыров Равиль Хусаинович": 34,
-      "Никонов Владимир Васильевич": 187,
-      "Рамазанов Ханяфи Валиевич": 12,
-      "Харитонова Тамара Анатольевна": 46,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000188021": 79,
+      "gas:candidate-vibid:1001000225998": 87,
+      "gas:candidate-vibid:1001000121924": 34,
+      "gas:candidate-vibid:1001000217962": 187,
+      "gas:candidate-vibid:373300166642": 12,
+      "gas:candidate-vibid:1001000289813": 46,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 23,
-      "Иванов Валентин Борисович": 16,
-      "Насыров Равиль Хусаинович": 1,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 23,
+      "gas:candidate-vibid:1001000225998": 16,
+      "gas:candidate-vibid:1001000121924": 1,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 28,
-      "Иванов Валентин Борисович": 11,
-      "Насыров Равиль Хусаинович": 1,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000188021": 28,
+      "gas:candidate-vibid:1001000225998": 11,
+      "gas:candidate-vibid:1001000121924": 1,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 11,
-      "Иванов Валентин Борисович": 5,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 10,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188021": 11,
+      "gas:candidate-vibid:1001000225998": 5,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 10,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 103,
-      "Иванов Валентин Борисович": 21,
-      "Насыров Равиль Хусаинович": 30,
-      "Никонов Владимир Васильевич": 16,
-      "Рамазанов Ханяфи Валиевич": 8,
-      "Харитонова Тамара Анатольевна": 23,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188021": 103,
+      "gas:candidate-vibid:1001000225998": 21,
+      "gas:candidate-vibid:1001000121924": 30,
+      "gas:candidate-vibid:1001000217962": 16,
+      "gas:candidate-vibid:373300166642": 8,
+      "gas:candidate-vibid:1001000289813": 23,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 9,
-      "Иванов Валентин Борисович": 27,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 9,
+      "gas:candidate-vibid:1001000225998": 27,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 66,
-      "Иванов Валентин Борисович": 53,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 35,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 23,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000188021": 66,
+      "gas:candidate-vibid:1001000225998": 53,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 35,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 23,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 7,
-      "Иванов Валентин Борисович": 49,
-      "Насыров Равиль Хусаинович": 4,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188021": 7,
+      "gas:candidate-vibid:1001000225998": 49,
+      "gas:candidate-vibid:1001000121924": 4,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 55,
-      "Иванов Валентин Борисович": 43,
-      "Насыров Равиль Хусаинович": 36,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 6,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188021": 55,
+      "gas:candidate-vibid:1001000225998": 43,
+      "gas:candidate-vibid:1001000121924": 36,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 6,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 49,
-      "Иванов Валентин Борисович": 70,
-      "Насыров Равиль Хусаинович": 12,
-      "Никонов Владимир Васильевич": 12,
-      "Рамазанов Ханяфи Валиевич": 8,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188021": 49,
+      "gas:candidate-vibid:1001000225998": 70,
+      "gas:candidate-vibid:1001000121924": 12,
+      "gas:candidate-vibid:1001000217962": 12,
+      "gas:candidate-vibid:373300166642": 8,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 140,
-      "Иванов Валентин Борисович": 71,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 20,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 140,
+      "gas:candidate-vibid:1001000225998": 71,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 20,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 88,
-      "Иванов Валентин Борисович": 11,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 88,
+      "gas:candidate-vibid:1001000225998": 11,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 92,
-      "Иванов Валентин Борисович": 84,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 35,
-      "Рамазанов Ханяфи Валиевич": 14,
-      "Харитонова Тамара Анатольевна": 24,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000188021": 92,
+      "gas:candidate-vibid:1001000225998": 84,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 35,
+      "gas:candidate-vibid:373300166642": 14,
+      "gas:candidate-vibid:1001000289813": 24,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 113,
-      "Иванов Валентин Борисович": 62,
-      "Насыров Равиль Хусаинович": 63,
-      "Никонов Владимир Васильевич": 50,
-      "Рамазанов Ханяфи Валиевич": 23,
-      "Харитонова Тамара Анатольевна": 28,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000188021": 113,
+      "gas:candidate-vibid:1001000225998": 62,
+      "gas:candidate-vibid:1001000121924": 63,
+      "gas:candidate-vibid:1001000217962": 50,
+      "gas:candidate-vibid:373300166642": 23,
+      "gas:candidate-vibid:1001000289813": 28,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 18,
-      "Иванов Валентин Борисович": 58,
-      "Насыров Равиль Хусаинович": 18,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 19,
-      "Харитонова Тамара Анатольевна": 18,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000188021": 18,
+      "gas:candidate-vibid:1001000225998": 58,
+      "gas:candidate-vibid:1001000121924": 18,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 19,
+      "gas:candidate-vibid:1001000289813": 18,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 66,
-      "Иванов Валентин Борисович": 6,
-      "Насыров Равиль Хусаинович": 60,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 20,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 66,
+      "gas:candidate-vibid:1001000225998": 6,
+      "gas:candidate-vibid:1001000121924": 60,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 20,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 126,
-      "Иванов Валентин Борисович": 49,
-      "Насыров Равиль Хусаинович": 42,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 16,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000188021": 126,
+      "gas:candidate-vibid:1001000225998": 49,
+      "gas:candidate-vibid:1001000121924": 42,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 16,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 56,
-      "Иванов Валентин Борисович": 67,
-      "Насыров Равиль Хусаинович": 59,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 56,
+      "gas:candidate-vibid:1001000225998": 67,
+      "gas:candidate-vibid:1001000121924": 59,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 69,
-      "Иванов Валентин Борисович": 68,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 23,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 14,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000188021": 69,
+      "gas:candidate-vibid:1001000225998": 68,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 23,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 14,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 144,
-      "Иванов Валентин Борисович": 14,
-      "Насыров Равиль Хусаинович": 184,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 68,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 144,
+      "gas:candidate-vibid:1001000225998": 14,
+      "gas:candidate-vibid:1001000121924": 184,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 68,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 71,
-      "Иванов Валентин Борисович": 42,
-      "Насыров Равиль Хусаинович": 10,
-      "Никонов Владимир Васильевич": 17,
-      "Рамазанов Ханяфи Валиевич": 10,
-      "Харитонова Тамара Анатольевна": 20,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000188021": 71,
+      "gas:candidate-vibid:1001000225998": 42,
+      "gas:candidate-vibid:1001000121924": 10,
+      "gas:candidate-vibid:1001000217962": 17,
+      "gas:candidate-vibid:373300166642": 10,
+      "gas:candidate-vibid:1001000289813": 20,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 44,
-      "Иванов Валентин Борисович": 34,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 23,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188021": 44,
+      "gas:candidate-vibid:1001000225998": 34,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 23,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 118,
-      "Иванов Валентин Борисович": 107,
-      "Насыров Равиль Хусаинович": 47,
-      "Никонов Владимир Васильевич": 39,
-      "Рамазанов Ханяфи Валиевич": 17,
-      "Харитонова Тамара Анатольевна": 31,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000188021": 118,
+      "gas:candidate-vibid:1001000225998": 107,
+      "gas:candidate-vibid:1001000121924": 47,
+      "gas:candidate-vibid:1001000217962": 39,
+      "gas:candidate-vibid:373300166642": 17,
+      "gas:candidate-vibid:1001000289813": 31,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 33,
-      "Иванов Валентин Борисович": 33,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 25,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000188021": 33,
+      "gas:candidate-vibid:1001000225998": 33,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 25,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 79,
-      "Иванов Валентин Борисович": 33,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 18,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000188021": 79,
+      "gas:candidate-vibid:1001000225998": 33,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 18,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 142,
-      "Иванов Валентин Борисович": 84,
-      "Насыров Равиль Хусаинович": 33,
-      "Никонов Владимир Васильевич": 33,
-      "Рамазанов Ханяфи Валиевич": 31,
-      "Харитонова Тамара Анатольевна": 32,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000188021": 142,
+      "gas:candidate-vibid:1001000225998": 84,
+      "gas:candidate-vibid:1001000121924": 33,
+      "gas:candidate-vibid:1001000217962": 33,
+      "gas:candidate-vibid:373300166642": 31,
+      "gas:candidate-vibid:1001000289813": 32,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070507&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 136,
-      "Иванов Валентин Борисович": 316,
-      "Насыров Равиль Хусаинович": 964,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 67,
-      "Харитонова Тамара Анатольевна": 7,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000188021": 136,
+      "gas:candidate-vibid:1001000225998": 316,
+      "gas:candidate-vibid:1001000121924": 964,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 67,
+      "gas:candidate-vibid:1001000289813": 7,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 66,
-      "Иванов Валентин Борисович": 135,
-      "Насыров Равиль Хусаинович": 514,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 32,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000188021": 66,
+      "gas:candidate-vibid:1001000225998": 135,
+      "gas:candidate-vibid:1001000121924": 514,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 32,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 142,
-      "Иванов Валентин Борисович": 127,
-      "Насыров Равиль Хусаинович": 235,
-      "Никонов Владимир Васильевич": 32,
-      "Рамазанов Ханяфи Валиевич": 32,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188021": 142,
+      "gas:candidate-vibid:1001000225998": 127,
+      "gas:candidate-vibid:1001000121924": 235,
+      "gas:candidate-vibid:1001000217962": 32,
+      "gas:candidate-vibid:373300166642": 32,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 14,
-      "Иванов Валентин Борисович": 112,
-      "Насыров Равиль Хусаинович": 223,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 11,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 14,
+      "gas:candidate-vibid:1001000225998": 112,
+      "gas:candidate-vibid:1001000121924": 223,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 11,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 52,
-      "Иванов Валентин Борисович": 87,
-      "Насыров Равиль Хусаинович": 116,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 17,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 52,
+      "gas:candidate-vibid:1001000225998": 87,
+      "gas:candidate-vibid:1001000121924": 116,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 17,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 32,
-      "Иванов Валентин Борисович": 139,
-      "Насыров Равиль Хусаинович": 26,
-      "Никонов Владимир Васильевич": 4,
-      "Рамазанов Ханяфи Валиевич": 8,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 32,
+      "gas:candidate-vibid:1001000225998": 139,
+      "gas:candidate-vibid:1001000121924": 26,
+      "gas:candidate-vibid:1001000217962": 4,
+      "gas:candidate-vibid:373300166642": 8,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 9,
-      "Иванов Валентин Борисович": 177,
-      "Насыров Равиль Хусаинович": 62,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 9,
+      "gas:candidate-vibid:1001000225998": 177,
+      "gas:candidate-vibid:1001000121924": 62,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 23,
-      "Иванов Валентин Борисович": 130,
-      "Насыров Равиль Хусаинович": 141,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 17,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000188021": 23,
+      "gas:candidate-vibid:1001000225998": 130,
+      "gas:candidate-vibid:1001000121924": 141,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 17,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 44,
-      "Иванов Валентин Борисович": 169,
-      "Насыров Равиль Хусаинович": 104,
-      "Никонов Владимир Васильевич": 4,
-      "Рамазанов Ханяфи Валиевич": 33,
-      "Харитонова Тамара Анатольевна": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188021": 44,
+      "gas:candidate-vibid:1001000225998": 169,
+      "gas:candidate-vibid:1001000121924": 104,
+      "gas:candidate-vibid:1001000217962": 4,
+      "gas:candidate-vibid:373300166642": 33,
+      "gas:candidate-vibid:1001000289813": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 10,
-      "Иванов Валентин Борисович": 124,
-      "Насыров Равиль Хусаинович": 16,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188021": 10,
+      "gas:candidate-vibid:1001000225998": 124,
+      "gas:candidate-vibid:1001000121924": 16,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 4,
-      "Иванов Валентин Борисович": 303,
-      "Насыров Равиль Хусаинович": 170,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 24,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 4,
+      "gas:candidate-vibid:1001000225998": 303,
+      "gas:candidate-vibid:1001000121924": 170,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 24,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 17,
-      "Иванов Валентин Борисович": 26,
-      "Насыров Равиль Хусаинович": 239,
-      "Никонов Владимир Васильевич": 4,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 17,
+      "gas:candidate-vibid:1001000225998": 26,
+      "gas:candidate-vibid:1001000121924": 239,
+      "gas:candidate-vibid:1001000217962": 4,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 10,
-      "Иванов Валентин Борисович": 35,
-      "Насыров Равиль Хусаинович": 159,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 10,
+      "gas:candidate-vibid:1001000225998": 35,
+      "gas:candidate-vibid:1001000121924": 159,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 119,
-      "Иванов Валентин Борисович": 63,
-      "Насыров Равиль Хусаинович": 154,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 29,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 119,
+      "gas:candidate-vibid:1001000225998": 63,
+      "gas:candidate-vibid:1001000121924": 154,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 29,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 1,
-      "Иванов Валентин Борисович": 58,
-      "Насыров Равиль Хусаинович": 48,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000188021": 1,
+      "gas:candidate-vibid:1001000225998": 58,
+      "gas:candidate-vibid:1001000121924": 48,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 62,
-      "Иванов Валентин Борисович": 60,
-      "Насыров Равиль Хусаинович": 356,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 47,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 62,
+      "gas:candidate-vibid:1001000225998": 60,
+      "gas:candidate-vibid:1001000121924": 356,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 47,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 100,
-      "Иванов Валентин Борисович": 184,
-      "Насыров Равиль Хусаинович": 259,
-      "Никонов Владимир Васильевич": 27,
-      "Рамазанов Ханяфи Валиевич": 34,
-      "Харитонова Тамара Анатольевна": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188021": 100,
+      "gas:candidate-vibid:1001000225998": 184,
+      "gas:candidate-vibid:1001000121924": 259,
+      "gas:candidate-vibid:1001000217962": 27,
+      "gas:candidate-vibid:373300166642": 34,
+      "gas:candidate-vibid:1001000289813": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 51,
-      "Иванов Валентин Борисович": 75,
-      "Насыров Равиль Хусаинович": 355,
-      "Никонов Владимир Васильевич": 22,
-      "Рамазанов Ханяфи Валиевич": 60,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000188021": 51,
+      "gas:candidate-vibid:1001000225998": 75,
+      "gas:candidate-vibid:1001000121924": 355,
+      "gas:candidate-vibid:1001000217962": 22,
+      "gas:candidate-vibid:373300166642": 60,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 60,
-      "Иванов Валентин Борисович": 478,
-      "Насыров Равиль Хусаинович": 232,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 22,
-      "Харитонова Тамара Анатольевна": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 60,
+      "gas:candidate-vibid:1001000225998": 478,
+      "gas:candidate-vibid:1001000121924": 232,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 22,
+      "gas:candidate-vibid:1001000289813": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 7,
-      "Иванов Валентин Борисович": 118,
-      "Насыров Равиль Хусаинович": 22,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 7,
+      "gas:candidate-vibid:1001000225998": 118,
+      "gas:candidate-vibid:1001000121924": 22,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 14,
-      "Иванов Валентин Борисович": 16,
-      "Насыров Равиль Хусаинович": 302,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000188021": 14,
+      "gas:candidate-vibid:1001000225998": 16,
+      "gas:candidate-vibid:1001000121924": 302,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070508&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 79,
-      "Иванов Валентин Борисович": 88,
-      "Насыров Равиль Хусаинович": 29,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 17,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000188021": 79,
+      "gas:candidate-vibid:1001000225998": 88,
+      "gas:candidate-vibid:1001000121924": 29,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 17,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 94,
-      "Иванов Валентин Борисович": 162,
-      "Насыров Равиль Хусаинович": 68,
-      "Никонов Владимир Васильевич": 25,
-      "Рамазанов Ханяфи Валиевич": 12,
-      "Харитонова Тамара Анатольевна": 29,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000188021": 94,
+      "gas:candidate-vibid:1001000225998": 162,
+      "gas:candidate-vibid:1001000121924": 68,
+      "gas:candidate-vibid:1001000217962": 25,
+      "gas:candidate-vibid:373300166642": 12,
+      "gas:candidate-vibid:1001000289813": 29,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 167,
-      "Иванов Валентин Борисович": 242,
-      "Насыров Равиль Хусаинович": 94,
-      "Никонов Владимир Васильевич": 58,
-      "Рамазанов Ханяфи Валиевич": 19,
-      "Харитонова Тамара Анатольевна": 58,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000188021": 167,
+      "gas:candidate-vibid:1001000225998": 242,
+      "gas:candidate-vibid:1001000121924": 94,
+      "gas:candidate-vibid:1001000217962": 58,
+      "gas:candidate-vibid:373300166642": 19,
+      "gas:candidate-vibid:1001000289813": 58,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 150,
-      "Иванов Валентин Борисович": 184,
-      "Насыров Равиль Хусаинович": 35,
-      "Никонов Владимир Васильевич": 59,
-      "Рамазанов Ханяфи Валиевич": 21,
-      "Харитонова Тамара Анатольевна": 46,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000188021": 150,
+      "gas:candidate-vibid:1001000225998": 184,
+      "gas:candidate-vibid:1001000121924": 35,
+      "gas:candidate-vibid:1001000217962": 59,
+      "gas:candidate-vibid:373300166642": 21,
+      "gas:candidate-vibid:1001000289813": 46,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 170,
-      "Иванов Валентин Борисович": 192,
-      "Насыров Равиль Хусаинович": 52,
-      "Никонов Владимир Васильевич": 38,
-      "Рамазанов Ханяфи Валиевич": 24,
-      "Харитонова Тамара Анатольевна": 59,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000188021": 170,
+      "gas:candidate-vibid:1001000225998": 192,
+      "gas:candidate-vibid:1001000121924": 52,
+      "gas:candidate-vibid:1001000217962": 38,
+      "gas:candidate-vibid:373300166642": 24,
+      "gas:candidate-vibid:1001000289813": 59,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 120,
-      "Иванов Валентин Борисович": 196,
-      "Насыров Равиль Хусаинович": 59,
-      "Никонов Владимир Васильевич": 46,
-      "Рамазанов Ханяфи Валиевич": 23,
-      "Харитонова Тамара Анатольевна": 63,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000188021": 120,
+      "gas:candidate-vibid:1001000225998": 196,
+      "gas:candidate-vibid:1001000121924": 59,
+      "gas:candidate-vibid:1001000217962": 46,
+      "gas:candidate-vibid:373300166642": 23,
+      "gas:candidate-vibid:1001000289813": 63,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 8,
-      "Иванов Валентин Борисович": 30,
-      "Насыров Равиль Хусаинович": 5,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000188021": 8,
+      "gas:candidate-vibid:1001000225998": 30,
+      "gas:candidate-vibid:1001000121924": 5,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 323,
-      "Иванов Валентин Борисович": 189,
-      "Насыров Равиль Хусаинович": 60,
-      "Никонов Владимир Васильевич": 28,
-      "Рамазанов Ханяфи Валиевич": 31,
-      "Харитонова Тамара Анатольевна": 65,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000188021": 323,
+      "gas:candidate-vibid:1001000225998": 189,
+      "gas:candidate-vibid:1001000121924": 60,
+      "gas:candidate-vibid:1001000217962": 28,
+      "gas:candidate-vibid:373300166642": 31,
+      "gas:candidate-vibid:1001000289813": 65,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 352,
-      "Иванов Валентин Борисович": 237,
-      "Насыров Равиль Хусаинович": 61,
-      "Никонов Владимир Васильевич": 19,
-      "Рамазанов Ханяфи Валиевич": 33,
-      "Харитонова Тамара Анатольевна": 70,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000188021": 352,
+      "gas:candidate-vibid:1001000225998": 237,
+      "gas:candidate-vibid:1001000121924": 61,
+      "gas:candidate-vibid:1001000217962": 19,
+      "gas:candidate-vibid:373300166642": 33,
+      "gas:candidate-vibid:1001000289813": 70,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 538,
-      "Иванов Валентин Борисович": 271,
-      "Насыров Равиль Хусаинович": 150,
-      "Никонов Владимир Васильевич": 33,
-      "Рамазанов Ханяфи Валиевич": 71,
-      "Харитонова Тамара Анатольевна": 106,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000188021": 538,
+      "gas:candidate-vibid:1001000225998": 271,
+      "gas:candidate-vibid:1001000121924": 150,
+      "gas:candidate-vibid:1001000217962": 33,
+      "gas:candidate-vibid:373300166642": 71,
+      "gas:candidate-vibid:1001000289813": 106,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 198,
-      "Иванов Валентин Борисович": 382,
-      "Насыров Равиль Хусаинович": 19,
-      "Никонов Владимир Васильевич": 11,
-      "Рамазанов Ханяфи Валиевич": 12,
-      "Харитонова Тамара Анатольевна": 18,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000188021": 198,
+      "gas:candidate-vibid:1001000225998": 382,
+      "gas:candidate-vibid:1001000121924": 19,
+      "gas:candidate-vibid:1001000217962": 11,
+      "gas:candidate-vibid:373300166642": 12,
+      "gas:candidate-vibid:1001000289813": 18,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 45,
-      "Иванов Валентин Борисович": 270,
-      "Насыров Равиль Хусаинович": 11,
-      "Никонов Владимир Васильевич": 22,
-      "Рамазанов Ханяфи Валиевич": 6,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 45,
+      "gas:candidate-vibid:1001000225998": 270,
+      "gas:candidate-vibid:1001000121924": 11,
+      "gas:candidate-vibid:1001000217962": 22,
+      "gas:candidate-vibid:373300166642": 6,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 27,
-      "Иванов Валентин Борисович": 145,
-      "Насыров Равиль Хусаинович": 21,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 27,
+      "gas:candidate-vibid:1001000225998": 145,
+      "gas:candidate-vibid:1001000121924": 21,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 117,
-      "Иванов Валентин Борисович": 320,
-      "Насыров Равиль Хусаинович": 15,
-      "Никонов Владимир Васильевич": 14,
-      "Рамазанов Ханяфи Валиевич": 6,
-      "Харитонова Тамара Анатольевна": 15,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000188021": 117,
+      "gas:candidate-vibid:1001000225998": 320,
+      "gas:candidate-vibid:1001000121924": 15,
+      "gas:candidate-vibid:1001000217962": 14,
+      "gas:candidate-vibid:373300166642": 6,
+      "gas:candidate-vibid:1001000289813": 15,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 91,
-      "Иванов Валентин Борисович": 171,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 22,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 22,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000188021": 91,
+      "gas:candidate-vibid:1001000225998": 171,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 22,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 22,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 115,
-      "Иванов Валентин Борисович": 194,
-      "Насыров Равиль Хусаинович": 42,
-      "Никонов Владимир Васильевич": 35,
-      "Рамазанов Ханяфи Валиевич": 45,
-      "Харитонова Тамара Анатольевна": 52,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000188021": 115,
+      "gas:candidate-vibid:1001000225998": 194,
+      "gas:candidate-vibid:1001000121924": 42,
+      "gas:candidate-vibid:1001000217962": 35,
+      "gas:candidate-vibid:373300166642": 45,
+      "gas:candidate-vibid:1001000289813": 52,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 90,
-      "Иванов Валентин Борисович": 153,
-      "Насыров Равиль Хусаинович": 16,
-      "Никонов Владимир Васильевич": 14,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 13,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188021": 90,
+      "gas:candidate-vibid:1001000225998": 153,
+      "gas:candidate-vibid:1001000121924": 16,
+      "gas:candidate-vibid:1001000217962": 14,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 13,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 14,
-      "Иванов Валентин Борисович": 37,
-      "Насыров Равиль Хусаинович": 7,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188021": 14,
+      "gas:candidate-vibid:1001000225998": 37,
+      "gas:candidate-vibid:1001000121924": 7,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 71,
-      "Иванов Валентин Борисович": 209,
-      "Насыров Равиль Хусаинович": 23,
-      "Никонов Владимир Васильевич": 25,
-      "Рамазанов Ханяфи Валиевич": 12,
-      "Харитонова Тамара Анатольевна": 27,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000188021": 71,
+      "gas:candidate-vibid:1001000225998": 209,
+      "gas:candidate-vibid:1001000121924": 23,
+      "gas:candidate-vibid:1001000217962": 25,
+      "gas:candidate-vibid:373300166642": 12,
+      "gas:candidate-vibid:1001000289813": 27,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 34,
-      "Иванов Валентин Борисович": 42,
-      "Насыров Равиль Хусаинович": 8,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 12,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188021": 34,
+      "gas:candidate-vibid:1001000225998": 42,
+      "gas:candidate-vibid:1001000121924": 8,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 12,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 195,
-      "Иванов Валентин Борисович": 73,
-      "Насыров Равиль Хусаинович": 21,
-      "Никонов Владимир Васильевич": 21,
-      "Рамазанов Ханяфи Валиевич": 13,
-      "Харитонова Тамара Анатольевна": 28,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000188021": 195,
+      "gas:candidate-vibid:1001000225998": 73,
+      "gas:candidate-vibid:1001000121924": 21,
+      "gas:candidate-vibid:1001000217962": 21,
+      "gas:candidate-vibid:373300166642": 13,
+      "gas:candidate-vibid:1001000289813": 28,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 43,
-      "Иванов Валентин Борисович": 60,
-      "Насыров Равиль Хусаинович": 14,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 17,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000188021": 43,
+      "gas:candidate-vibid:1001000225998": 60,
+      "gas:candidate-vibid:1001000121924": 14,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 17,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 117,
-      "Иванов Валентин Борисович": 161,
-      "Насыров Равиль Хусаинович": 42,
-      "Никонов Владимир Васильевич": 47,
-      "Рамазанов Ханяфи Валиевич": 28,
-      "Харитонова Тамара Анатольевна": 60,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000188021": 117,
+      "gas:candidate-vibid:1001000225998": 161,
+      "gas:candidate-vibid:1001000121924": 42,
+      "gas:candidate-vibid:1001000217962": 47,
+      "gas:candidate-vibid:373300166642": 28,
+      "gas:candidate-vibid:1001000289813": 60,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 89,
-      "Иванов Валентин Борисович": 76,
-      "Насыров Равиль Хусаинович": 14,
-      "Никонов Владимир Васильевич": 17,
-      "Рамазанов Ханяфи Валиевич": 10,
-      "Харитонова Тамара Анатольевна": 34,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000188021": 89,
+      "gas:candidate-vibid:1001000225998": 76,
+      "gas:candidate-vibid:1001000121924": 14,
+      "gas:candidate-vibid:1001000217962": 17,
+      "gas:candidate-vibid:373300166642": 10,
+      "gas:candidate-vibid:1001000289813": 34,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 143,
-      "Иванов Валентин Борисович": 140,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 46,
-      "Рамазанов Ханяфи Валиевич": 15,
-      "Харитонова Тамара Анатольевна": 32,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000188021": 143,
+      "gas:candidate-vibid:1001000225998": 140,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 46,
+      "gas:candidate-vibid:373300166642": 15,
+      "gas:candidate-vibid:1001000289813": 32,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070509&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 120,
-      "Иванов Валентин Борисович": 338,
-      "Насыров Равиль Хусаинович": 112,
-      "Никонов Владимир Васильевич": 45,
-      "Рамазанов Ханяфи Валиевич": 112,
-      "Харитонова Тамара Анатольевна": 54,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000188021": 120,
+      "gas:candidate-vibid:1001000225998": 338,
+      "gas:candidate-vibid:1001000121924": 112,
+      "gas:candidate-vibid:1001000217962": 45,
+      "gas:candidate-vibid:373300166642": 112,
+      "gas:candidate-vibid:1001000289813": 54,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 107,
-      "Иванов Валентин Борисович": 352,
-      "Насыров Равиль Хусаинович": 111,
-      "Никонов Владимир Васильевич": 59,
-      "Рамазанов Ханяфи Валиевич": 87,
-      "Харитонова Тамара Анатольевна": 67,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000188021": 107,
+      "gas:candidate-vibid:1001000225998": 352,
+      "gas:candidate-vibid:1001000121924": 111,
+      "gas:candidate-vibid:1001000217962": 59,
+      "gas:candidate-vibid:373300166642": 87,
+      "gas:candidate-vibid:1001000289813": 67,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 151,
-      "Иванов Валентин Борисович": 294,
-      "Насыров Равиль Хусаинович": 146,
-      "Никонов Владимир Васильевич": 42,
-      "Рамазанов Ханяфи Валиевич": 99,
-      "Харитонова Тамара Анатольевна": 41,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000188021": 151,
+      "gas:candidate-vibid:1001000225998": 294,
+      "gas:candidate-vibid:1001000121924": 146,
+      "gas:candidate-vibid:1001000217962": 42,
+      "gas:candidate-vibid:373300166642": 99,
+      "gas:candidate-vibid:1001000289813": 41,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 169,
-      "Иванов Валентин Борисович": 131,
-      "Насыров Равиль Хусаинович": 41,
-      "Никонов Владимир Васильевич": 36,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 14,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188021": 169,
+      "gas:candidate-vibid:1001000225998": 131,
+      "gas:candidate-vibid:1001000121924": 41,
+      "gas:candidate-vibid:1001000217962": 36,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 14,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 12,
-      "Иванов Валентин Борисович": 29,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 1,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000188021": 12,
+      "gas:candidate-vibid:1001000225998": 29,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 1,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 99,
-      "Иванов Валентин Борисович": 150,
-      "Насыров Равиль Хусаинович": 44,
-      "Никонов Владимир Васильевич": 30,
-      "Рамазанов Ханяфи Валиевич": 31,
-      "Харитонова Тамара Анатольевна": 49,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000188021": 99,
+      "gas:candidate-vibid:1001000225998": 150,
+      "gas:candidate-vibid:1001000121924": 44,
+      "gas:candidate-vibid:1001000217962": 30,
+      "gas:candidate-vibid:373300166642": 31,
+      "gas:candidate-vibid:1001000289813": 49,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 25,
-      "Иванов Валентин Борисович": 160,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 10,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000188021": 25,
+      "gas:candidate-vibid:1001000225998": 160,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 10,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 53,
-      "Иванов Валентин Борисович": 139,
-      "Насыров Равиль Хусаинович": 13,
-      "Никонов Владимир Васильевич": 17,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188021": 53,
+      "gas:candidate-vibid:1001000225998": 139,
+      "gas:candidate-vibid:1001000121924": 13,
+      "gas:candidate-vibid:1001000217962": 17,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 97,
-      "Иванов Валентин Борисович": 82,
-      "Насыров Равиль Хусаинович": 45,
-      "Никонов Владимир Васильевич": 36,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 8,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000188021": 97,
+      "gas:candidate-vibid:1001000225998": 82,
+      "gas:candidate-vibid:1001000121924": 45,
+      "gas:candidate-vibid:1001000217962": 36,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 8,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 60,
-      "Иванов Валентин Борисович": 135,
-      "Насыров Равиль Хусаинович": 24,
-      "Никонов Владимир Васильевич": 16,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000188021": 60,
+      "gas:candidate-vibid:1001000225998": 135,
+      "gas:candidate-vibid:1001000121924": 24,
+      "gas:candidate-vibid:1001000217962": 16,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 31,
-      "Иванов Валентин Борисович": 50,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188021": 31,
+      "gas:candidate-vibid:1001000225998": 50,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 43,
-      "Иванов Валентин Борисович": 193,
-      "Насыров Равиль Хусаинович": 35,
-      "Никонов Владимир Васильевич": 20,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188021": 43,
+      "gas:candidate-vibid:1001000225998": 193,
+      "gas:candidate-vibid:1001000121924": 35,
+      "gas:candidate-vibid:1001000217962": 20,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 37,
-      "Иванов Валентин Борисович": 36,
-      "Насыров Равиль Хусаинович": 0,
-      "Никонов Владимир Васильевич": 0,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000188021": 37,
+      "gas:candidate-vibid:1001000225998": 36,
+      "gas:candidate-vibid:1001000121924": 0,
+      "gas:candidate-vibid:1001000217962": 0,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 45,
-      "Иванов Валентин Борисович": 109,
-      "Насыров Равиль Хусаинович": 20,
-      "Никонов Владимир Васильевич": 8,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 15,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000188021": 45,
+      "gas:candidate-vibid:1001000225998": 109,
+      "gas:candidate-vibid:1001000121924": 20,
+      "gas:candidate-vibid:1001000217962": 8,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 15,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 23,
-      "Иванов Валентин Борисович": 41,
-      "Насыров Равиль Хусаинович": 6,
-      "Никонов Владимир Васильевич": 3,
-      "Рамазанов Ханяфи Валиевич": 3,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188021": 23,
+      "gas:candidate-vibid:1001000225998": 41,
+      "gas:candidate-vibid:1001000121924": 6,
+      "gas:candidate-vibid:1001000217962": 3,
+      "gas:candidate-vibid:373300166642": 3,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 13,
-      "Иванов Валентин Борисович": 64,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 4,
-      "Харитонова Тамара Анатольевна": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000188021": 13,
+      "gas:candidate-vibid:1001000225998": 64,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 4,
+      "gas:candidate-vibid:1001000289813": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 56,
-      "Иванов Валентин Борисович": 123,
-      "Насыров Равиль Хусаинович": 16,
-      "Никонов Владимир Васильевич": 29,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 16,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000188021": 56,
+      "gas:candidate-vibid:1001000225998": 123,
+      "gas:candidate-vibid:1001000121924": 16,
+      "gas:candidate-vibid:1001000217962": 29,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 16,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 25,
-      "Иванов Валентин Борисович": 30,
-      "Насыров Равиль Хусаинович": 3,
-      "Никонов Владимир Васильевич": 17,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000188021": 25,
+      "gas:candidate-vibid:1001000225998": 30,
+      "gas:candidate-vibid:1001000121924": 3,
+      "gas:candidate-vibid:1001000217962": 17,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 73,
-      "Иванов Валентин Борисович": 171,
-      "Насыров Равиль Хусаинович": 56,
-      "Никонов Владимир Васильевич": 20,
-      "Рамазанов Ханяфи Валиевич": 2,
-      "Харитонова Тамара Анатольевна": 28,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000188021": 73,
+      "gas:candidate-vibid:1001000225998": 171,
+      "gas:candidate-vibid:1001000121924": 56,
+      "gas:candidate-vibid:1001000217962": 20,
+      "gas:candidate-vibid:373300166642": 2,
+      "gas:candidate-vibid:1001000289813": 28,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 147,
-      "Иванов Валентин Борисович": 227,
-      "Насыров Равиль Хусаинович": 209,
-      "Никонов Владимир Васильевич": 81,
-      "Рамазанов Ханяфи Валиевич": 44,
-      "Харитонова Тамара Анатольевна": 106,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000188021": 147,
+      "gas:candidate-vibid:1001000225998": 227,
+      "gas:candidate-vibid:1001000121924": 209,
+      "gas:candidate-vibid:1001000217962": 81,
+      "gas:candidate-vibid:373300166642": 44,
+      "gas:candidate-vibid:1001000289813": 106,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 55,
-      "Иванов Валентин Борисович": 53,
-      "Насыров Равиль Хусаинович": 21,
-      "Никонов Владимир Васильевич": 5,
-      "Рамазанов Ханяфи Валиевич": 21,
-      "Харитонова Тамара Анатольевна": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000188021": 55,
+      "gas:candidate-vibid:1001000225998": 53,
+      "gas:candidate-vibid:1001000121924": 21,
+      "gas:candidate-vibid:1001000217962": 5,
+      "gas:candidate-vibid:373300166642": 21,
+      "gas:candidate-vibid:1001000289813": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 80,
-      "Иванов Валентин Борисович": 106,
-      "Насыров Равиль Хусаинович": 43,
-      "Никонов Владимир Васильевич": 13,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 20,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000188021": 80,
+      "gas:candidate-vibid:1001000225998": 106,
+      "gas:candidate-vibid:1001000121924": 43,
+      "gas:candidate-vibid:1001000217962": 13,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 20,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 34,
-      "Иванов Валентин Борисович": 46,
-      "Насыров Равиль Хусаинович": 5,
-      "Никонов Владимир Васильевич": 2,
-      "Рамазанов Ханяфи Валиевич": 0,
-      "Харитонова Тамара Анатольевна": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000188021": 34,
+      "gas:candidate-vibid:1001000225998": 46,
+      "gas:candidate-vibid:1001000121924": 5,
+      "gas:candidate-vibid:1001000217962": 2,
+      "gas:candidate-vibid:373300166642": 0,
+      "gas:candidate-vibid:1001000289813": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 21,
-      "Иванов Валентин Борисович": 81,
-      "Насыров Равиль Хусаинович": 35,
-      "Никонов Владимир Васильевич": 9,
-      "Рамазанов Ханяфи Валиевич": 7,
-      "Харитонова Тамара Анатольевна": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000188021": 21,
+      "gas:candidate-vibid:1001000225998": 81,
+      "gas:candidate-vibid:1001000121924": 35,
+      "gas:candidate-vibid:1001000217962": 9,
+      "gas:candidate-vibid:373300166642": 7,
+      "gas:candidate-vibid:1001000289813": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 3,
-      "Иванов Валентин Борисович": 32,
-      "Насыров Равиль Хусаинович": 17,
-      "Никонов Владимир Васильевич": 6,
-      "Рамазанов Ханяфи Валиевич": 1,
-      "Харитонова Тамара Анатольевна": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000188021": 3,
+      "gas:candidate-vibid:1001000225998": 32,
+      "gas:candidate-vibid:1001000121924": 17,
+      "gas:candidate-vibid:1001000217962": 6,
+      "gas:candidate-vibid:373300166642": 1,
+      "gas:candidate-vibid:1001000289813": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070510&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 96,
-      "Иванов Валентин Борисович": 414,
-      "Насыров Равиль Хусаинович": 49,
-      "Никонов Владимир Васильевич": 32,
-      "Рамазанов Ханяфи Валиевич": 9,
-      "Харитонова Тамара Анатольевна": 25,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000188021": 96,
+      "gas:candidate-vibid:1001000225998": 414,
+      "gas:candidate-vibid:1001000121924": 49,
+      "gas:candidate-vibid:1001000217962": 32,
+      "gas:candidate-vibid:373300166642": 9,
+      "gas:candidate-vibid:1001000289813": 25,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070511&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 141,
-      "Иванов Валентин Борисович": 422,
-      "Насыров Равиль Хусаинович": 60,
-      "Никонов Владимир Васильевич": 31,
-      "Рамазанов Ханяфи Валиевич": 15,
-      "Харитонова Тамара Анатольевна": 39,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000188021": 141,
+      "gas:candidate-vibid:1001000225998": 422,
+      "gas:candidate-vibid:1001000121924": 60,
+      "gas:candidate-vibid:1001000217962": 31,
+      "gas:candidate-vibid:373300166642": 15,
+      "gas:candidate-vibid:1001000289813": 39,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070511&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 119,
-      "Иванов Валентин Борисович": 450,
-      "Насыров Равиль Хусаинович": 92,
-      "Никонов Владимир Васильевич": 41,
-      "Рамазанов Ханяфи Валиевич": 14,
-      "Харитонова Тамара Анатольевна": 37,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000188021": 119,
+      "gas:candidate-vibid:1001000225998": 450,
+      "gas:candidate-vibid:1001000121924": 92,
+      "gas:candidate-vibid:1001000217962": 41,
+      "gas:candidate-vibid:373300166642": 14,
+      "gas:candidate-vibid:1001000289813": 37,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070511&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 77,
-      "Иванов Валентин Борисович": 395,
-      "Насыров Равиль Хусаинович": 55,
-      "Никонов Владимир Васильевич": 17,
-      "Рамазанов Ханяфи Валиевич": 8,
-      "Харитонова Тамара Анатольевна": 17,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000188021": 77,
+      "gas:candidate-vibid:1001000225998": 395,
+      "gas:candidate-vibid:1001000121924": 55,
+      "gas:candidate-vibid:1001000217962": 17,
+      "gas:candidate-vibid:373300166642": 8,
+      "gas:candidate-vibid:1001000289813": 17,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070511&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_73_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горячев Юрий Фролович": 50,
-      "Иванов Валентин Борисович": 108,
-      "Насыров Равиль Хусаинович": 9,
-      "Никонов Владимир Васильевич": 7,
-      "Рамазанов Ханяфи Валиевич": 5,
-      "Харитонова Тамара Анатольевна": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000188021": 50,
+      "gas:candidate-vibid:1001000225998": 108,
+      "gas:candidate-vibid:1001000121924": 9,
+      "gas:candidate-vibid:1001000217962": 7,
+      "gas:candidate-vibid:373300166642": 5,
+      "gas:candidate-vibid:1001000289813": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=732000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=273200070511&region=0&sub_region=0&type=429",

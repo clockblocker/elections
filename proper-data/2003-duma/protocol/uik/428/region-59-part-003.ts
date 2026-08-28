@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 4,
-      "Анохин Павел Викторович": 125,
-      "Вахрин Вячеслав Михайлович": 243,
-      "Корсун Владимир Кузьмич": 15,
-      "Мубаракшин Александр Вазирович": 79,
-      "Неворотов Игорь Владимирович": 6,
-      "Неустроев Илья Григорьевич": 256,
-      "Семенов Сергей Геннадьевич": 7,
-      "Черепанова Ирина Юрьевна": 13,
-      "Черных Алексей Васильевич": 18,
-      "Против всех": 117
+      "gas:candidate-vibid:359300366626": 4,
+      "gas:candidate-vibid:359300366617": 125,
+      "gas:candidate-vibid:359300366644": 243,
+      "gas:candidate-vibid:1001000121892": 15,
+      "gas:candidate-vibid:1001000217948": 79,
+      "gas:candidate-vibid:1001000136101": 6,
+      "gas:candidate-vibid:1001000113966": 256,
+      "gas:candidate-vibid:359300367042": 7,
+      "gas:candidate-vibid:359300366650": 13,
+      "gas:candidate-vibid:1001000188017": 18,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 2,
-      "Анохин Павел Викторович": 318,
-      "Вахрин Вячеслав Михайлович": 378,
-      "Корсун Владимир Кузьмич": 24,
-      "Мубаракшин Александр Вазирович": 14,
-      "Неворотов Игорь Владимирович": 9,
-      "Неустроев Илья Григорьевич": 83,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 18,
-      "Черных Алексей Васильевич": 6,
-      "Против всех": 131
+      "gas:candidate-vibid:359300366626": 2,
+      "gas:candidate-vibid:359300366617": 318,
+      "gas:candidate-vibid:359300366644": 378,
+      "gas:candidate-vibid:1001000121892": 24,
+      "gas:candidate-vibid:1001000217948": 14,
+      "gas:candidate-vibid:1001000136101": 9,
+      "gas:candidate-vibid:1001000113966": 83,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 18,
+      "gas:candidate-vibid:1001000188017": 6,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 23,
-      "Анохин Павел Викторович": 98,
-      "Вахрин Вячеслав Михайлович": 255,
-      "Корсун Владимир Кузьмич": 8,
-      "Мубаракшин Александр Вазирович": 30,
-      "Неворотов Игорь Владимирович": 7,
-      "Неустроев Илья Григорьевич": 43,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 7,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 77
+      "gas:candidate-vibid:359300366626": 23,
+      "gas:candidate-vibid:359300366617": 98,
+      "gas:candidate-vibid:359300366644": 255,
+      "gas:candidate-vibid:1001000121892": 8,
+      "gas:candidate-vibid:1001000217948": 30,
+      "gas:candidate-vibid:1001000136101": 7,
+      "gas:candidate-vibid:1001000113966": 43,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 7,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 6,
-      "Анохин Павел Викторович": 198,
-      "Вахрин Вячеслав Михайлович": 362,
-      "Корсун Владимир Кузьмич": 27,
-      "Мубаракшин Александр Вазирович": 82,
-      "Неворотов Игорь Владимирович": 5,
-      "Неустроев Илья Григорьевич": 70,
-      "Семенов Сергей Геннадьевич": 29,
-      "Черепанова Ирина Юрьевна": 32,
-      "Черных Алексей Васильевич": 13,
-      "Против всех": 126
+      "gas:candidate-vibid:359300366626": 6,
+      "gas:candidate-vibid:359300366617": 198,
+      "gas:candidate-vibid:359300366644": 362,
+      "gas:candidate-vibid:1001000121892": 27,
+      "gas:candidate-vibid:1001000217948": 82,
+      "gas:candidate-vibid:1001000136101": 5,
+      "gas:candidate-vibid:1001000113966": 70,
+      "gas:candidate-vibid:359300367042": 29,
+      "gas:candidate-vibid:359300366650": 32,
+      "gas:candidate-vibid:1001000188017": 13,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 11,
-      "Анохин Павел Викторович": 390,
-      "Вахрин Вячеслав Михайлович": 433,
-      "Корсун Владимир Кузьмич": 47,
-      "Мубаракшин Александр Вазирович": 111,
-      "Неворотов Игорь Владимирович": 41,
-      "Неустроев Илья Григорьевич": 187,
-      "Семенов Сергей Геннадьевич": 62,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 33,
-      "Против всех": 290
+      "gas:candidate-vibid:359300366626": 11,
+      "gas:candidate-vibid:359300366617": 390,
+      "gas:candidate-vibid:359300366644": 433,
+      "gas:candidate-vibid:1001000121892": 47,
+      "gas:candidate-vibid:1001000217948": 111,
+      "gas:candidate-vibid:1001000136101": 41,
+      "gas:candidate-vibid:1001000113966": 187,
+      "gas:candidate-vibid:359300367042": 62,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 33,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 16,
-      "Анохин Павел Викторович": 321,
-      "Вахрин Вячеслав Михайлович": 474,
-      "Корсун Владимир Кузьмич": 36,
-      "Мубаракшин Александр Вазирович": 101,
-      "Неворотов Игорь Владимирович": 35,
-      "Неустроев Илья Григорьевич": 201,
-      "Семенов Сергей Геннадьевич": 34,
-      "Черепанова Ирина Юрьевна": 26,
-      "Черных Алексей Васильевич": 24,
-      "Против всех": 318
+      "gas:candidate-vibid:359300366626": 16,
+      "gas:candidate-vibid:359300366617": 321,
+      "gas:candidate-vibid:359300366644": 474,
+      "gas:candidate-vibid:1001000121892": 36,
+      "gas:candidate-vibid:1001000217948": 101,
+      "gas:candidate-vibid:1001000136101": 35,
+      "gas:candidate-vibid:1001000113966": 201,
+      "gas:candidate-vibid:359300367042": 34,
+      "gas:candidate-vibid:359300366650": 26,
+      "gas:candidate-vibid:1001000188017": 24,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 230,
-      "Вахрин Вячеслав Михайлович": 217,
-      "Корсун Владимир Кузьмич": 31,
-      "Мубаракшин Александр Вазирович": 20,
-      "Неворотов Игорь Владимирович": 13,
-      "Неустроев Илья Григорьевич": 60,
-      "Семенов Сергей Геннадьевич": 33,
-      "Черепанова Ирина Юрьевна": 11,
-      "Черных Алексей Васильевич": 9,
-      "Против всех": 130
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 230,
+      "gas:candidate-vibid:359300366644": 217,
+      "gas:candidate-vibid:1001000121892": 31,
+      "gas:candidate-vibid:1001000217948": 20,
+      "gas:candidate-vibid:1001000136101": 13,
+      "gas:candidate-vibid:1001000113966": 60,
+      "gas:candidate-vibid:359300367042": 33,
+      "gas:candidate-vibid:359300366650": 11,
+      "gas:candidate-vibid:1001000188017": 9,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 8,
-      "Анохин Павел Викторович": 239,
-      "Вахрин Вячеслав Михайлович": 246,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 37,
-      "Неворотов Игорь Владимирович": 26,
-      "Неустроев Илья Григорьевич": 83,
-      "Семенов Сергей Геннадьевич": 16,
-      "Черепанова Ирина Юрьевна": 35,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 89
+      "gas:candidate-vibid:359300366626": 8,
+      "gas:candidate-vibid:359300366617": 239,
+      "gas:candidate-vibid:359300366644": 246,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 37,
+      "gas:candidate-vibid:1001000136101": 26,
+      "gas:candidate-vibid:1001000113966": 83,
+      "gas:candidate-vibid:359300367042": 16,
+      "gas:candidate-vibid:359300366650": 35,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 187,
-      "Вахрин Вячеслав Михайлович": 193,
-      "Корсун Владимир Кузьмич": 35,
-      "Мубаракшин Александр Вазирович": 61,
-      "Неворотов Игорь Владимирович": 24,
-      "Неустроев Илья Григорьевич": 97,
-      "Семенов Сергей Геннадьевич": 25,
-      "Черепанова Ирина Юрьевна": 50,
-      "Черных Алексей Васильевич": 14,
-      "Против всех": 104
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 187,
+      "gas:candidate-vibid:359300366644": 193,
+      "gas:candidate-vibid:1001000121892": 35,
+      "gas:candidate-vibid:1001000217948": 61,
+      "gas:candidate-vibid:1001000136101": 24,
+      "gas:candidate-vibid:1001000113966": 97,
+      "gas:candidate-vibid:359300367042": 25,
+      "gas:candidate-vibid:359300366650": 50,
+      "gas:candidate-vibid:1001000188017": 14,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 9,
-      "Анохин Павел Викторович": 280,
-      "Вахрин Вячеслав Михайлович": 192,
-      "Корсун Владимир Кузьмич": 37,
-      "Мубаракшин Александр Вазирович": 55,
-      "Неворотов Игорь Владимирович": 17,
-      "Неустроев Илья Григорьевич": 111,
-      "Семенов Сергей Геннадьевич": 32,
-      "Черепанова Ирина Юрьевна": 56,
-      "Черных Алексей Васильевич": 15,
-      "Против всех": 99
+      "gas:candidate-vibid:359300366626": 9,
+      "gas:candidate-vibid:359300366617": 280,
+      "gas:candidate-vibid:359300366644": 192,
+      "gas:candidate-vibid:1001000121892": 37,
+      "gas:candidate-vibid:1001000217948": 55,
+      "gas:candidate-vibid:1001000136101": 17,
+      "gas:candidate-vibid:1001000113966": 111,
+      "gas:candidate-vibid:359300367042": 32,
+      "gas:candidate-vibid:359300366650": 56,
+      "gas:candidate-vibid:1001000188017": 15,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 133,
-      "Вахрин Вячеслав Михайлович": 114,
-      "Корсун Владимир Кузьмич": 15,
-      "Мубаракшин Александр Вазирович": 36,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 80,
-      "Семенов Сергей Геннадьевич": 17,
-      "Черепанова Ирина Юрьевна": 17,
-      "Черных Алексей Васильевич": 0,
-      "Против всех": 68
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 133,
+      "gas:candidate-vibid:359300366644": 114,
+      "gas:candidate-vibid:1001000121892": 15,
+      "gas:candidate-vibid:1001000217948": 36,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 80,
+      "gas:candidate-vibid:359300367042": 17,
+      "gas:candidate-vibid:359300366650": 17,
+      "gas:candidate-vibid:1001000188017": 0,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 7,
-      "Анохин Павел Викторович": 134,
-      "Вахрин Вячеслав Михайлович": 199,
-      "Корсун Владимир Кузьмич": 8,
-      "Мубаракшин Александр Вазирович": 18,
-      "Неворотов Игорь Владимирович": 10,
-      "Неустроев Илья Григорьевич": 55,
-      "Семенов Сергей Геннадьевич": 10,
-      "Черепанова Ирина Юрьевна": 28,
-      "Черных Алексей Васильевич": 5,
-      "Против всех": 62
+      "gas:candidate-vibid:359300366626": 7,
+      "gas:candidate-vibid:359300366617": 134,
+      "gas:candidate-vibid:359300366644": 199,
+      "gas:candidate-vibid:1001000121892": 8,
+      "gas:candidate-vibid:1001000217948": 18,
+      "gas:candidate-vibid:1001000136101": 10,
+      "gas:candidate-vibid:1001000113966": 55,
+      "gas:candidate-vibid:359300367042": 10,
+      "gas:candidate-vibid:359300366650": 28,
+      "gas:candidate-vibid:1001000188017": 5,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдрашитов Халил Робертович": 5,
-      "Анохин Павел Викторович": 93,
-      "Вахрин Вячеслав Михайлович": 91,
-      "Корсун Владимир Кузьмич": 10,
-      "Мубаракшин Александр Вазирович": 17,
-      "Неворотов Игорь Владимирович": 3,
-      "Неустроев Илья Григорьевич": 29,
-      "Семенов Сергей Геннадьевич": 8,
-      "Черепанова Ирина Юрьевна": 4,
-      "Черных Алексей Васильевич": 12,
-      "Против всех": 27
+      "gas:candidate-vibid:359300366626": 5,
+      "gas:candidate-vibid:359300366617": 93,
+      "gas:candidate-vibid:359300366644": 91,
+      "gas:candidate-vibid:1001000121892": 10,
+      "gas:candidate-vibid:1001000217948": 17,
+      "gas:candidate-vibid:1001000136101": 3,
+      "gas:candidate-vibid:1001000113966": 29,
+      "gas:candidate-vibid:359300367042": 8,
+      "gas:candidate-vibid:359300366650": 4,
+      "gas:candidate-vibid:1001000188017": 12,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072749&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 96,
-      "Касимов Михаил Борисович": 71,
-      "Левитан Сергей Владимирович": 55,
-      "Лежнев Константин Михайлович": 20,
-      "Мальцева Анастасия Анатольевна": 91,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 228,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 222,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000131405": 96,
+      "gas:candidate-vibid:1001000112243": 71,
+      "gas:candidate-vibid:359300467646": 55,
+      "gas:candidate-vibid:359300467151": 20,
+      "gas:candidate-vibid:359300467265": 91,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 228,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 222,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 117,
-      "Касимов Михаил Борисович": 130,
-      "Левитан Сергей Владимирович": 98,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 124,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 319,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 298,
-      "Чумаченко Дмитрий Валерьевич": 37,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000131405": 117,
+      "gas:candidate-vibid:1001000112243": 130,
+      "gas:candidate-vibid:359300467646": 98,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 124,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 319,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 298,
+      "gas:candidate-vibid:359300467742": 37,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 100,
-      "Касимов Михаил Борисович": 139,
-      "Левитан Сергей Владимирович": 121,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 154,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 261,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 194,
-      "Чумаченко Дмитрий Валерьевич": 35,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000131405": 100,
+      "gas:candidate-vibid:1001000112243": 139,
+      "gas:candidate-vibid:359300467646": 121,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 154,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 261,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 194,
+      "gas:candidate-vibid:359300467742": 35,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 141,
-      "Касимов Михаил Борисович": 124,
-      "Левитан Сергей Владимирович": 92,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 143,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 354,
-      "Холоимов Анатолий Анатольевич": 30,
-      "Чернов Алексей Анатольевич": 249,
-      "Чумаченко Дмитрий Валерьевич": 41,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000131405": 141,
+      "gas:candidate-vibid:1001000112243": 124,
+      "gas:candidate-vibid:359300467646": 92,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 143,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 354,
+      "gas:candidate-vibid:1001000136102": 30,
+      "gas:candidate-vibid:1001000113967": 249,
+      "gas:candidate-vibid:359300467742": 41,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 124,
-      "Касимов Михаил Борисович": 87,
-      "Левитан Сергей Владимирович": 85,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 147,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 320,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 291,
-      "Чумаченко Дмитрий Валерьевич": 37,
-      "Против всех": 441
+      "gas:candidate-vibid:1001000131405": 124,
+      "gas:candidate-vibid:1001000112243": 87,
+      "gas:candidate-vibid:359300467646": 85,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 147,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 320,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 291,
+      "gas:candidate-vibid:359300467742": 37,
+      "special:against-all": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 117,
-      "Касимов Михаил Борисович": 118,
-      "Левитан Сергей Владимирович": 111,
-      "Лежнев Константин Михайлович": 21,
-      "Мальцева Анастасия Анатольевна": 129,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 306,
-      "Холоимов Анатолий Анатольевич": 57,
-      "Чернов Алексей Анатольевич": 265,
-      "Чумаченко Дмитрий Валерьевич": 44,
-      "Против всех": 425
+      "gas:candidate-vibid:1001000131405": 117,
+      "gas:candidate-vibid:1001000112243": 118,
+      "gas:candidate-vibid:359300467646": 111,
+      "gas:candidate-vibid:359300467151": 21,
+      "gas:candidate-vibid:359300467265": 129,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 306,
+      "gas:candidate-vibid:1001000136102": 57,
+      "gas:candidate-vibid:1001000113967": 265,
+      "gas:candidate-vibid:359300467742": 44,
+      "special:against-all": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 128,
-      "Касимов Михаил Борисович": 140,
-      "Левитан Сергей Владимирович": 100,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 143,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 281,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 221,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000131405": 128,
+      "gas:candidate-vibid:1001000112243": 140,
+      "gas:candidate-vibid:359300467646": 100,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 143,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 281,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 221,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 87,
-      "Касимов Михаил Борисович": 82,
-      "Левитан Сергей Владимирович": 56,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 78,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 240,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 275,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000131405": 87,
+      "gas:candidate-vibid:1001000112243": 82,
+      "gas:candidate-vibid:359300467646": 56,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 78,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 240,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 275,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 94,
-      "Касимов Михаил Борисович": 101,
-      "Левитан Сергей Владимирович": 59,
-      "Лежнев Константин Михайлович": 45,
-      "Мальцева Анастасия Анатольевна": 104,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 248,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 206,
-      "Чумаченко Дмитрий Валерьевич": 50,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000131405": 94,
+      "gas:candidate-vibid:1001000112243": 101,
+      "gas:candidate-vibid:359300467646": 59,
+      "gas:candidate-vibid:359300467151": 45,
+      "gas:candidate-vibid:359300467265": 104,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 248,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 206,
+      "gas:candidate-vibid:359300467742": 50,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 57,
-      "Касимов Михаил Борисович": 123,
-      "Левитан Сергей Владимирович": 67,
-      "Лежнев Константин Михайлович": 26,
-      "Мальцева Анастасия Анатольевна": 133,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 347,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 304,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 429
+      "gas:candidate-vibid:1001000131405": 57,
+      "gas:candidate-vibid:1001000112243": 123,
+      "gas:candidate-vibid:359300467646": 67,
+      "gas:candidate-vibid:359300467151": 26,
+      "gas:candidate-vibid:359300467265": 133,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 347,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 304,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 429
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 83,
-      "Касимов Михаил Борисович": 93,
-      "Левитан Сергей Владимирович": 101,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 96,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 232,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 281,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000131405": 83,
+      "gas:candidate-vibid:1001000112243": 93,
+      "gas:candidate-vibid:359300467646": 101,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 96,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 232,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 281,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 205,
-      "Касимов Михаил Борисович": 110,
-      "Левитан Сергей Владимирович": 116,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 140,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 370,
-      "Холоимов Анатолий Анатольевич": 40,
-      "Чернов Алексей Анатольевич": 289,
-      "Чумаченко Дмитрий Валерьевич": 50,
-      "Против всех": 438
+      "gas:candidate-vibid:1001000131405": 205,
+      "gas:candidate-vibid:1001000112243": 110,
+      "gas:candidate-vibid:359300467646": 116,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 140,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 370,
+      "gas:candidate-vibid:1001000136102": 40,
+      "gas:candidate-vibid:1001000113967": 289,
+      "gas:candidate-vibid:359300467742": 50,
+      "special:against-all": 438
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 94,
-      "Касимов Михаил Борисович": 96,
-      "Левитан Сергей Владимирович": 83,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 78,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 147,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 191,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000131405": 94,
+      "gas:candidate-vibid:1001000112243": 96,
+      "gas:candidate-vibid:359300467646": 83,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 78,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 147,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 191,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 63,
-      "Касимов Михаил Борисович": 66,
-      "Левитан Сергей Владимирович": 67,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 93,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 181,
-      "Холоимов Анатолий Анатольевич": 12,
-      "Чернов Алексей Анатольевич": 241,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000131405": 63,
+      "gas:candidate-vibid:1001000112243": 66,
+      "gas:candidate-vibid:359300467646": 67,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 93,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 181,
+      "gas:candidate-vibid:1001000136102": 12,
+      "gas:candidate-vibid:1001000113967": 241,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 113,
-      "Касимов Михаил Борисович": 98,
-      "Левитан Сергей Владимирович": 120,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 101,
-      "Отмахов Станислав Борисович": 39,
-      "Похмелкин Виктор Валерьевич": 278,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 275,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000131405": 113,
+      "gas:candidate-vibid:1001000112243": 98,
+      "gas:candidate-vibid:359300467646": 120,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 101,
+      "gas:candidate-vibid:359300467270": 39,
+      "gas:candidate-vibid:1001000118561": 278,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 275,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 77,
-      "Касимов Михаил Борисович": 99,
-      "Левитан Сергей Владимирович": 88,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 96,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 167,
-      "Холоимов Анатолий Анатольевич": 10,
-      "Чернов Алексей Анатольевич": 171,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000131405": 77,
+      "gas:candidate-vibid:1001000112243": 99,
+      "gas:candidate-vibid:359300467646": 88,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 96,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 167,
+      "gas:candidate-vibid:1001000136102": 10,
+      "gas:candidate-vibid:1001000113967": 171,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 40,
-      "Касимов Михаил Борисович": 44,
-      "Левитан Сергей Владимирович": 62,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 49,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 138,
-      "Холоимов Анатолий Анатольевич": 17,
-      "Чернов Алексей Анатольевич": 156,
-      "Чумаченко Дмитрий Валерьевич": 15,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000131405": 40,
+      "gas:candidate-vibid:1001000112243": 44,
+      "gas:candidate-vibid:359300467646": 62,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 49,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 138,
+      "gas:candidate-vibid:1001000136102": 17,
+      "gas:candidate-vibid:1001000113967": 156,
+      "gas:candidate-vibid:359300467742": 15,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 55,
-      "Касимов Михаил Борисович": 39,
-      "Левитан Сергей Владимирович": 45,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 45,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 139,
-      "Холоимов Анатолий Анатольевич": 17,
-      "Чернов Алексей Анатольевич": 150,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000131405": 55,
+      "gas:candidate-vibid:1001000112243": 39,
+      "gas:candidate-vibid:359300467646": 45,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 45,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 139,
+      "gas:candidate-vibid:1001000136102": 17,
+      "gas:candidate-vibid:1001000113967": 150,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 76,
-      "Касимов Михаил Борисович": 61,
-      "Левитан Сергей Владимирович": 61,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 66,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 193,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 169,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131405": 76,
+      "gas:candidate-vibid:1001000112243": 61,
+      "gas:candidate-vibid:359300467646": 61,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 66,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 193,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 169,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 70,
-      "Касимов Михаил Борисович": 70,
-      "Левитан Сергей Владимирович": 64,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 63,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 185,
-      "Холоимов Анатолий Анатольевич": 21,
-      "Чернов Алексей Анатольевич": 153,
-      "Чумаченко Дмитрий Валерьевич": 12,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000131405": 70,
+      "gas:candidate-vibid:1001000112243": 70,
+      "gas:candidate-vibid:359300467646": 64,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 63,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 185,
+      "gas:candidate-vibid:1001000136102": 21,
+      "gas:candidate-vibid:1001000113967": 153,
+      "gas:candidate-vibid:359300467742": 12,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 65,
-      "Касимов Михаил Борисович": 47,
-      "Левитан Сергей Владимирович": 79,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 55,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 156,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 103,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000131405": 65,
+      "gas:candidate-vibid:1001000112243": 47,
+      "gas:candidate-vibid:359300467646": 79,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 55,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 156,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 103,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 87,
-      "Касимов Михаил Борисович": 75,
-      "Левитан Сергей Владимирович": 85,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 93,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 252,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 128,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000131405": 87,
+      "gas:candidate-vibid:1001000112243": 75,
+      "gas:candidate-vibid:359300467646": 85,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 93,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 252,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 128,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 83,
-      "Касимов Михаил Борисович": 77,
-      "Левитан Сергей Владимирович": 70,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 104,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 237,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 246,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000131405": 83,
+      "gas:candidate-vibid:1001000112243": 77,
+      "gas:candidate-vibid:359300467646": 70,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 104,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 237,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 246,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 100,
-      "Касимов Михаил Борисович": 78,
-      "Левитан Сергей Владимирович": 55,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 65,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 235,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 187,
-      "Чумаченко Дмитрий Валерьевич": 21,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000131405": 100,
+      "gas:candidate-vibid:1001000112243": 78,
+      "gas:candidate-vibid:359300467646": 55,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 65,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 235,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 187,
+      "gas:candidate-vibid:359300467742": 21,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 64,
-      "Касимов Михаил Борисович": 76,
-      "Левитан Сергей Владимирович": 43,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 82,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 167,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 256,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000131405": 64,
+      "gas:candidate-vibid:1001000112243": 76,
+      "gas:candidate-vibid:359300467646": 43,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 82,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 167,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 256,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 78,
-      "Касимов Михаил Борисович": 76,
-      "Левитан Сергей Владимирович": 74,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 89,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 209,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 138,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000131405": 78,
+      "gas:candidate-vibid:1001000112243": 76,
+      "gas:candidate-vibid:359300467646": 74,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 89,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 209,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 138,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 67,
-      "Касимов Михаил Борисович": 86,
-      "Левитан Сергей Владимирович": 81,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 63,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 224,
-      "Холоимов Анатолий Анатольевич": 18,
-      "Чернов Алексей Анатольевич": 176,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000131405": 67,
+      "gas:candidate-vibid:1001000112243": 86,
+      "gas:candidate-vibid:359300467646": 81,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 63,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 224,
+      "gas:candidate-vibid:1001000136102": 18,
+      "gas:candidate-vibid:1001000113967": 176,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 93,
-      "Касимов Михаил Борисович": 75,
-      "Левитан Сергей Владимирович": 86,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 90,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 283,
-      "Холоимов Анатолий Анатольевич": 35,
-      "Чернов Алексей Анатольевич": 293,
-      "Чумаченко Дмитрий Валерьевич": 33,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000131405": 93,
+      "gas:candidate-vibid:1001000112243": 75,
+      "gas:candidate-vibid:359300467646": 86,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 90,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 283,
+      "gas:candidate-vibid:1001000136102": 35,
+      "gas:candidate-vibid:1001000113967": 293,
+      "gas:candidate-vibid:359300467742": 33,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 88,
-      "Касимов Михаил Борисович": 85,
-      "Левитан Сергей Владимирович": 62,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 107,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 249,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 226,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000131405": 88,
+      "gas:candidate-vibid:1001000112243": 85,
+      "gas:candidate-vibid:359300467646": 62,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 107,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 249,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 226,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 92,
-      "Касимов Михаил Борисович": 80,
-      "Левитан Сергей Владимирович": 81,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 78,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 267,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 236,
-      "Чумаченко Дмитрий Валерьевич": 27,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000131405": 92,
+      "gas:candidate-vibid:1001000112243": 80,
+      "gas:candidate-vibid:359300467646": 81,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 78,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 267,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 236,
+      "gas:candidate-vibid:359300467742": 27,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 101,
-      "Касимов Михаил Борисович": 61,
-      "Левитан Сергей Владимирович": 114,
-      "Лежнев Константин Михайлович": 13,
-      "Мальцева Анастасия Анатольевна": 99,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 258,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 161,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000131405": 101,
+      "gas:candidate-vibid:1001000112243": 61,
+      "gas:candidate-vibid:359300467646": 114,
+      "gas:candidate-vibid:359300467151": 13,
+      "gas:candidate-vibid:359300467265": 99,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 258,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 161,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 48,
-      "Левитан Сергей Владимирович": 77,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 68,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 209,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 124,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 48,
+      "gas:candidate-vibid:359300467646": 77,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 68,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 209,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 124,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 215,
-      "Касимов Михаил Борисович": 94,
-      "Левитан Сергей Владимирович": 63,
-      "Лежнев Константин Михайлович": 23,
-      "Мальцева Анастасия Анатольевна": 102,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 318,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 182,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000131405": 215,
+      "gas:candidate-vibid:1001000112243": 94,
+      "gas:candidate-vibid:359300467646": 63,
+      "gas:candidate-vibid:359300467151": 23,
+      "gas:candidate-vibid:359300467265": 102,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 318,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 182,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 101,
-      "Касимов Михаил Борисович": 102,
-      "Левитан Сергей Владимирович": 75,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 119,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 292,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 305,
-      "Чумаченко Дмитрий Валерьевич": 36,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000131405": 101,
+      "gas:candidate-vibid:1001000112243": 102,
+      "gas:candidate-vibid:359300467646": 75,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 119,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 292,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 305,
+      "gas:candidate-vibid:359300467742": 36,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 112,
-      "Касимов Михаил Борисович": 89,
-      "Левитан Сергей Владимирович": 90,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 117,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 311,
-      "Холоимов Анатолий Анатольевич": 21,
-      "Чернов Алексей Анатольевич": 266,
-      "Чумаченко Дмитрий Валерьевич": 30,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000131405": 112,
+      "gas:candidate-vibid:1001000112243": 89,
+      "gas:candidate-vibid:359300467646": 90,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 117,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 311,
+      "gas:candidate-vibid:1001000136102": 21,
+      "gas:candidate-vibid:1001000113967": 266,
+      "gas:candidate-vibid:359300467742": 30,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 94,
-      "Касимов Михаил Борисович": 77,
-      "Левитан Сергей Владимирович": 65,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 98,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 340,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 241,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000131405": 94,
+      "gas:candidate-vibid:1001000112243": 77,
+      "gas:candidate-vibid:359300467646": 65,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 98,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 340,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 241,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 109,
-      "Касимов Михаил Борисович": 96,
-      "Левитан Сергей Владимирович": 82,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 104,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 284,
-      "Холоимов Анатолий Анатольевич": 29,
-      "Чернов Алексей Анатольевич": 246,
-      "Чумаченко Дмитрий Валерьевич": 40,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000131405": 109,
+      "gas:candidate-vibid:1001000112243": 96,
+      "gas:candidate-vibid:359300467646": 82,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 104,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 284,
+      "gas:candidate-vibid:1001000136102": 29,
+      "gas:candidate-vibid:1001000113967": 246,
+      "gas:candidate-vibid:359300467742": 40,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 107,
-      "Касимов Михаил Борисович": 85,
-      "Левитан Сергей Владимирович": 102,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 106,
-      "Отмахов Станислав Борисович": 13,
-      "Похмелкин Виктор Валерьевич": 301,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 278,
-      "Чумаченко Дмитрий Валерьевич": 29,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000131405": 107,
+      "gas:candidate-vibid:1001000112243": 85,
+      "gas:candidate-vibid:359300467646": 102,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 106,
+      "gas:candidate-vibid:359300467270": 13,
+      "gas:candidate-vibid:1001000118561": 301,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 278,
+      "gas:candidate-vibid:359300467742": 29,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 93,
-      "Касимов Михаил Борисович": 60,
-      "Левитан Сергей Владимирович": 97,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 73,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 237,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 285,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000131405": 93,
+      "gas:candidate-vibid:1001000112243": 60,
+      "gas:candidate-vibid:359300467646": 97,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 73,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 237,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 285,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 110,
-      "Касимов Михаил Борисович": 85,
-      "Левитан Сергей Владимирович": 96,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 85,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 275,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 264,
-      "Чумаченко Дмитрий Валерьевич": 25,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000131405": 110,
+      "gas:candidate-vibid:1001000112243": 85,
+      "gas:candidate-vibid:359300467646": 96,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 85,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 275,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 264,
+      "gas:candidate-vibid:359300467742": 25,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 123,
-      "Касимов Михаил Борисович": 66,
-      "Левитан Сергей Владимирович": 116,
-      "Лежнев Константин Михайлович": 13,
-      "Мальцева Анастасия Анатольевна": 102,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 327,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 169,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000131405": 123,
+      "gas:candidate-vibid:1001000112243": 66,
+      "gas:candidate-vibid:359300467646": 116,
+      "gas:candidate-vibid:359300467151": 13,
+      "gas:candidate-vibid:359300467265": 102,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 327,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 169,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 86,
-      "Касимов Михаил Борисович": 51,
-      "Левитан Сергей Владимирович": 72,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 67,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 264,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 214,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000131405": 86,
+      "gas:candidate-vibid:1001000112243": 51,
+      "gas:candidate-vibid:359300467646": 72,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 67,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 264,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 214,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 126,
-      "Касимов Михаил Борисович": 72,
-      "Левитан Сергей Владимирович": 111,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 97,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 373,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 257,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000131405": 126,
+      "gas:candidate-vibid:1001000112243": 72,
+      "gas:candidate-vibid:359300467646": 111,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 97,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 373,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 257,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 82,
-      "Касимов Михаил Борисович": 66,
-      "Левитан Сергей Владимирович": 63,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 45,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 213,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 174,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000131405": 82,
+      "gas:candidate-vibid:1001000112243": 66,
+      "gas:candidate-vibid:359300467646": 63,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 45,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 213,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 174,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 102,
-      "Касимов Михаил Борисович": 61,
-      "Левитан Сергей Владимирович": 118,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 98,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 315,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 205,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000131405": 102,
+      "gas:candidate-vibid:1001000112243": 61,
+      "gas:candidate-vibid:359300467646": 118,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 98,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 315,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 205,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 113,
-      "Касимов Михаил Борисович": 67,
-      "Левитан Сергей Владимирович": 122,
-      "Лежнев Константин Михайлович": 13,
-      "Мальцева Анастасия Анатольевна": 83,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 324,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 197,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000131405": 113,
+      "gas:candidate-vibid:1001000112243": 67,
+      "gas:candidate-vibid:359300467646": 122,
+      "gas:candidate-vibid:359300467151": 13,
+      "gas:candidate-vibid:359300467265": 83,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 324,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 197,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 110,
-      "Касимов Михаил Борисович": 79,
-      "Левитан Сергей Владимирович": 83,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 80,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 289,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 184,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000131405": 110,
+      "gas:candidate-vibid:1001000112243": 79,
+      "gas:candidate-vibid:359300467646": 83,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 80,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 289,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 184,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 111,
-      "Касимов Михаил Борисович": 83,
-      "Левитан Сергей Владимирович": 116,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 92,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 284,
-      "Холоимов Анатолий Анатольевич": 21,
-      "Чернов Алексей Анатольевич": 222,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000131405": 111,
+      "gas:candidate-vibid:1001000112243": 83,
+      "gas:candidate-vibid:359300467646": 116,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 92,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 284,
+      "gas:candidate-vibid:1001000136102": 21,
+      "gas:candidate-vibid:1001000113967": 222,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 69,
-      "Левитан Сергей Владимирович": 95,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 78,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 291,
-      "Холоимов Анатолий Анатольевич": 32,
-      "Чернов Алексей Анатольевич": 267,
-      "Чумаченко Дмитрий Валерьевич": 32,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 69,
+      "gas:candidate-vibid:359300467646": 95,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 78,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 291,
+      "gas:candidate-vibid:1001000136102": 32,
+      "gas:candidate-vibid:1001000113967": 267,
+      "gas:candidate-vibid:359300467742": 32,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 119,
-      "Касимов Михаил Борисович": 66,
-      "Левитан Сергей Владимирович": 101,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 86,
-      "Отмахов Станислав Борисович": 12,
-      "Похмелкин Виктор Валерьевич": 320,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 290,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000131405": 119,
+      "gas:candidate-vibid:1001000112243": 66,
+      "gas:candidate-vibid:359300467646": 101,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 86,
+      "gas:candidate-vibid:359300467270": 12,
+      "gas:candidate-vibid:1001000118561": 320,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 290,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 52,
-      "Левитан Сергей Владимирович": 90,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 276,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 147,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 52,
+      "gas:candidate-vibid:359300467646": 90,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 276,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 147,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 123,
-      "Касимов Михаил Борисович": 33,
-      "Левитан Сергей Владимирович": 48,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 46,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 219,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 155,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000131405": 123,
+      "gas:candidate-vibid:1001000112243": 33,
+      "gas:candidate-vibid:359300467646": 48,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 46,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 219,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 155,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 99,
-      "Касимов Михаил Борисович": 42,
-      "Левитан Сергей Владимирович": 84,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 92,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 259,
-      "Холоимов Анатолий Анатольевич": 38,
-      "Чернов Алексей Анатольевич": 197,
-      "Чумаченко Дмитрий Валерьевич": 14,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000131405": 99,
+      "gas:candidate-vibid:1001000112243": 42,
+      "gas:candidate-vibid:359300467646": 84,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 92,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 259,
+      "gas:candidate-vibid:1001000136102": 38,
+      "gas:candidate-vibid:1001000113967": 197,
+      "gas:candidate-vibid:359300467742": 14,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 96,
-      "Касимов Михаил Борисович": 47,
-      "Левитан Сергей Владимирович": 87,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 69,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 272,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 236,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000131405": 96,
+      "gas:candidate-vibid:1001000112243": 47,
+      "gas:candidate-vibid:359300467646": 87,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 69,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 272,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 236,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 92,
-      "Касимов Михаил Борисович": 44,
-      "Левитан Сергей Владимирович": 49,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 70,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 197,
-      "Холоимов Анатолий Анатольевич": 30,
-      "Чернов Алексей Анатольевич": 161,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000131405": 92,
+      "gas:candidate-vibid:1001000112243": 44,
+      "gas:candidate-vibid:359300467646": 49,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 70,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 197,
+      "gas:candidate-vibid:1001000136102": 30,
+      "gas:candidate-vibid:1001000113967": 161,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 90,
-      "Касимов Михаил Борисович": 51,
-      "Левитан Сергей Владимирович": 63,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 59,
-      "Отмахов Станислав Борисович": 13,
-      "Похмелкин Виктор Валерьевич": 182,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 206,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000131405": 90,
+      "gas:candidate-vibid:1001000112243": 51,
+      "gas:candidate-vibid:359300467646": 63,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 59,
+      "gas:candidate-vibid:359300467270": 13,
+      "gas:candidate-vibid:1001000118561": 182,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 206,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 135,
-      "Касимов Михаил Борисович": 64,
-      "Левитан Сергей Владимирович": 78,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 109,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 292,
-      "Холоимов Анатолий Анатольевич": 38,
-      "Чернов Алексей Анатольевич": 281,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000131405": 135,
+      "gas:candidate-vibid:1001000112243": 64,
+      "gas:candidate-vibid:359300467646": 78,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 109,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 292,
+      "gas:candidate-vibid:1001000136102": 38,
+      "gas:candidate-vibid:1001000113967": 281,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 76,
-      "Касимов Михаил Борисович": 27,
-      "Левитан Сергей Владимирович": 36,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 54,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 162,
-      "Холоимов Анатолий Анатольевич": 32,
-      "Чернов Алексей Анатольевич": 176,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000131405": 76,
+      "gas:candidate-vibid:1001000112243": 27,
+      "gas:candidate-vibid:359300467646": 36,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 54,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 162,
+      "gas:candidate-vibid:1001000136102": 32,
+      "gas:candidate-vibid:1001000113967": 176,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 79,
-      "Касимов Михаил Борисович": 78,
-      "Левитан Сергей Владимирович": 143,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 103,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 277,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 255,
-      "Чумаченко Дмитрий Валерьевич": 47,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000131405": 79,
+      "gas:candidate-vibid:1001000112243": 78,
+      "gas:candidate-vibid:359300467646": 143,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 103,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 277,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 255,
+      "gas:candidate-vibid:359300467742": 47,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 88,
-      "Касимов Михаил Борисович": 63,
-      "Левитан Сергей Владимирович": 100,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 265,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 126,
-      "Чумаченко Дмитрий Валерьевич": 14,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000131405": 88,
+      "gas:candidate-vibid:1001000112243": 63,
+      "gas:candidate-vibid:359300467646": 100,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 265,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 126,
+      "gas:candidate-vibid:359300467742": 14,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 83,
-      "Касимов Михаил Борисович": 51,
-      "Левитан Сергей Владимирович": 131,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 56,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 234,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 135,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000131405": 83,
+      "gas:candidate-vibid:1001000112243": 51,
+      "gas:candidate-vibid:359300467646": 131,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 56,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 234,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 135,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 61,
-      "Касимов Михаил Борисович": 47,
-      "Левитан Сергей Владимирович": 79,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 50,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 189,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 167,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000131405": 61,
+      "gas:candidate-vibid:1001000112243": 47,
+      "gas:candidate-vibid:359300467646": 79,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 50,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 189,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 167,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 54,
-      "Касимов Михаил Борисович": 88,
-      "Левитан Сергей Владимирович": 90,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 82,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 270,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 214,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000131405": 54,
+      "gas:candidate-vibid:1001000112243": 88,
+      "gas:candidate-vibid:359300467646": 90,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 82,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 270,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 214,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 89,
-      "Касимов Михаил Борисович": 67,
-      "Левитан Сергей Владимирович": 84,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 117,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 349,
-      "Холоимов Анатолий Анатольевич": 53,
-      "Чернов Алексей Анатольевич": 235,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000131405": 89,
+      "gas:candidate-vibid:1001000112243": 67,
+      "gas:candidate-vibid:359300467646": 84,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 117,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 349,
+      "gas:candidate-vibid:1001000136102": 53,
+      "gas:candidate-vibid:1001000113967": 235,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 65,
-      "Касимов Михаил Борисович": 28,
-      "Левитан Сергей Владимирович": 39,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 40,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 146,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 171,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000131405": 65,
+      "gas:candidate-vibid:1001000112243": 28,
+      "gas:candidate-vibid:359300467646": 39,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 40,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 146,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 171,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 87,
-      "Касимов Михаил Борисович": 48,
-      "Левитан Сергей Владимирович": 62,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 107,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 216,
-      "Холоимов Анатолий Анатольевич": 38,
-      "Чернов Алексей Анатольевич": 236,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000131405": 87,
+      "gas:candidate-vibid:1001000112243": 48,
+      "gas:candidate-vibid:359300467646": 62,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 107,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 216,
+      "gas:candidate-vibid:1001000136102": 38,
+      "gas:candidate-vibid:1001000113967": 236,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 121,
-      "Касимов Михаил Борисович": 81,
-      "Левитан Сергей Владимирович": 119,
-      "Лежнев Константин Михайлович": 21,
-      "Мальцева Анастасия Анатольевна": 118,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 365,
-      "Холоимов Анатолий Анатольевич": 49,
-      "Чернов Алексей Анатольевич": 240,
-      "Чумаченко Дмитрий Валерьевич": 37,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000131405": 121,
+      "gas:candidate-vibid:1001000112243": 81,
+      "gas:candidate-vibid:359300467646": 119,
+      "gas:candidate-vibid:359300467151": 21,
+      "gas:candidate-vibid:359300467265": 118,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 365,
+      "gas:candidate-vibid:1001000136102": 49,
+      "gas:candidate-vibid:1001000113967": 240,
+      "gas:candidate-vibid:359300467742": 37,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 95,
-      "Касимов Михаил Борисович": 79,
-      "Левитан Сергей Владимирович": 88,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 86,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 283,
-      "Холоимов Анатолий Анатольевич": 40,
-      "Чернов Алексей Анатольевич": 162,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000131405": 95,
+      "gas:candidate-vibid:1001000112243": 79,
+      "gas:candidate-vibid:359300467646": 88,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 86,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 283,
+      "gas:candidate-vibid:1001000136102": 40,
+      "gas:candidate-vibid:1001000113967": 162,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 125,
-      "Касимов Михаил Борисович": 66,
-      "Левитан Сергей Владимирович": 110,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 139,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 352,
-      "Холоимов Анатолий Анатольевич": 45,
-      "Чернов Алексей Анатольевич": 149,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000131405": 125,
+      "gas:candidate-vibid:1001000112243": 66,
+      "gas:candidate-vibid:359300467646": 110,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 139,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 352,
+      "gas:candidate-vibid:1001000136102": 45,
+      "gas:candidate-vibid:1001000113967": 149,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 97,
-      "Касимов Михаил Борисович": 94,
-      "Левитан Сергей Владимирович": 125,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 126,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 317,
-      "Холоимов Анатолий Анатольевич": 44,
-      "Чернов Алексей Анатольевич": 211,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000131405": 97,
+      "gas:candidate-vibid:1001000112243": 94,
+      "gas:candidate-vibid:359300467646": 125,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 126,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 317,
+      "gas:candidate-vibid:1001000136102": 44,
+      "gas:candidate-vibid:1001000113967": 211,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 76,
-      "Касимов Михаил Борисович": 71,
-      "Левитан Сергей Владимирович": 86,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 108,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 347,
-      "Холоимов Анатолий Анатольевич": 43,
-      "Чернов Алексей Анатольевич": 208,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000131405": 76,
+      "gas:candidate-vibid:1001000112243": 71,
+      "gas:candidate-vibid:359300467646": 86,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 108,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 347,
+      "gas:candidate-vibid:1001000136102": 43,
+      "gas:candidate-vibid:1001000113967": 208,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 54,
-      "Касимов Михаил Борисович": 33,
-      "Левитан Сергей Владимирович": 49,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 55,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 172,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 144,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000131405": 54,
+      "gas:candidate-vibid:1001000112243": 33,
+      "gas:candidate-vibid:359300467646": 49,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 55,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 172,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 144,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 155,
-      "Касимов Михаил Борисович": 86,
-      "Левитан Сергей Владимирович": 112,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 90,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 419,
-      "Холоимов Анатолий Анатольевич": 43,
-      "Чернов Алексей Анатольевич": 191,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000131405": 155,
+      "gas:candidate-vibid:1001000112243": 86,
+      "gas:candidate-vibid:359300467646": 112,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 90,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 419,
+      "gas:candidate-vibid:1001000136102": 43,
+      "gas:candidate-vibid:1001000113967": 191,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 158,
-      "Касимов Михаил Борисович": 88,
-      "Левитан Сергей Владимирович": 128,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 101,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 350,
-      "Холоимов Анатолий Анатольевич": 30,
-      "Чернов Алексей Анатольевич": 250,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000131405": 158,
+      "gas:candidate-vibid:1001000112243": 88,
+      "gas:candidate-vibid:359300467646": 128,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 101,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 350,
+      "gas:candidate-vibid:1001000136102": 30,
+      "gas:candidate-vibid:1001000113967": 250,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 150,
-      "Касимов Михаил Борисович": 84,
-      "Левитан Сергей Владимирович": 71,
-      "Лежнев Константин Михайлович": 19,
-      "Мальцева Анастасия Анатольевна": 126,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 370,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 242,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000131405": 150,
+      "gas:candidate-vibid:1001000112243": 84,
+      "gas:candidate-vibid:359300467646": 71,
+      "gas:candidate-vibid:359300467151": 19,
+      "gas:candidate-vibid:359300467265": 126,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 370,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 242,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 122,
-      "Касимов Михаил Борисович": 83,
-      "Левитан Сергей Владимирович": 87,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 126,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 350,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 170,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000131405": 122,
+      "gas:candidate-vibid:1001000112243": 83,
+      "gas:candidate-vibid:359300467646": 87,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 126,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 350,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 170,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 118,
-      "Касимов Михаил Борисович": 60,
-      "Левитан Сергей Владимирович": 102,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 56,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 231,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 88,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131405": 118,
+      "gas:candidate-vibid:1001000112243": 60,
+      "gas:candidate-vibid:359300467646": 102,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 56,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 231,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 88,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 85,
-      "Касимов Михаил Борисович": 75,
-      "Левитан Сергей Владимирович": 100,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 77,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 252,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 100,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131405": 85,
+      "gas:candidate-vibid:1001000112243": 75,
+      "gas:candidate-vibid:359300467646": 100,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 77,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 252,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 100,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 47,
-      "Касимов Михаил Борисович": 34,
-      "Левитан Сергей Владимирович": 68,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 54,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 177,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 63,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131405": 47,
+      "gas:candidate-vibid:1001000112243": 34,
+      "gas:candidate-vibid:359300467646": 68,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 54,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 177,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 63,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 25,
-      "Касимов Михаил Борисович": 28,
-      "Левитан Сергей Владимирович": 59,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 45,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 100,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 131,
-      "Чумаченко Дмитрий Валерьевич": 15,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000131405": 25,
+      "gas:candidate-vibid:1001000112243": 28,
+      "gas:candidate-vibid:359300467646": 59,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 45,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 100,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 131,
+      "gas:candidate-vibid:359300467742": 15,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 22,
-      "Касимов Михаил Борисович": 12,
-      "Левитан Сергей Владимирович": 19,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 22,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 68,
-      "Холоимов Анатолий Анатольевич": 7,
-      "Чернов Алексей Анатольевич": 21,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000131405": 22,
+      "gas:candidate-vibid:1001000112243": 12,
+      "gas:candidate-vibid:359300467646": 19,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 22,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 68,
+      "gas:candidate-vibid:1001000136102": 7,
+      "gas:candidate-vibid:1001000113967": 21,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 139,
-      "Касимов Михаил Борисович": 41,
-      "Левитан Сергей Владимирович": 114,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 304,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 232,
-      "Чумаченко Дмитрий Валерьевич": 12,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000131405": 139,
+      "gas:candidate-vibid:1001000112243": 41,
+      "gas:candidate-vibid:359300467646": 114,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 304,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 232,
+      "gas:candidate-vibid:359300467742": 12,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 163,
-      "Касимов Михаил Борисович": 61,
-      "Левитан Сергей Владимирович": 133,
-      "Лежнев Константин Михайлович": 20,
-      "Мальцева Анастасия Анатольевна": 108,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 344,
-      "Холоимов Анатолий Анатольевич": 43,
-      "Чернов Алексей Анатольевич": 215,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000131405": 163,
+      "gas:candidate-vibid:1001000112243": 61,
+      "gas:candidate-vibid:359300467646": 133,
+      "gas:candidate-vibid:359300467151": 20,
+      "gas:candidate-vibid:359300467265": 108,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 344,
+      "gas:candidate-vibid:1001000136102": 43,
+      "gas:candidate-vibid:1001000113967": 215,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 166,
-      "Касимов Михаил Борисович": 67,
-      "Левитан Сергей Владимирович": 122,
-      "Лежнев Константин Михайлович": 23,
-      "Мальцева Анастасия Анатольевна": 138,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 365,
-      "Холоимов Анатолий Анатольевич": 40,
-      "Чернов Алексей Анатольевич": 287,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 378
+      "gas:candidate-vibid:1001000131405": 166,
+      "gas:candidate-vibid:1001000112243": 67,
+      "gas:candidate-vibid:359300467646": 122,
+      "gas:candidate-vibid:359300467151": 23,
+      "gas:candidate-vibid:359300467265": 138,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 365,
+      "gas:candidate-vibid:1001000136102": 40,
+      "gas:candidate-vibid:1001000113967": 287,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 3,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 5,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 9,
-      "Холоимов Анатолий Анатольевич": 1,
-      "Чернов Алексей Анатольевич": 14,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131405": 3,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 5,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 9,
+      "gas:candidate-vibid:1001000136102": 1,
+      "gas:candidate-vibid:1001000113967": 14,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 22,
-      "Касимов Михаил Борисович": 23,
-      "Левитан Сергей Владимирович": 19,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 17,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 46,
-      "Холоимов Анатолий Анатольевич": 2,
-      "Чернов Алексей Анатольевич": 41,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000131405": 22,
+      "gas:candidate-vibid:1001000112243": 23,
+      "gas:candidate-vibid:359300467646": 19,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 17,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 46,
+      "gas:candidate-vibid:1001000136102": 2,
+      "gas:candidate-vibid:1001000113967": 41,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 39,
-      "Касимов Михаил Борисович": 23,
-      "Левитан Сергей Владимирович": 21,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 27,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 104,
-      "Холоимов Анатолий Анатольевич": 7,
-      "Чернов Алексей Анатольевич": 42,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000131405": 39,
+      "gas:candidate-vibid:1001000112243": 23,
+      "gas:candidate-vibid:359300467646": 21,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 27,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 104,
+      "gas:candidate-vibid:1001000136102": 7,
+      "gas:candidate-vibid:1001000113967": 42,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 5,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 4,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 5,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 7,
-      "Холоимов Анатолий Анатольевич": 3,
-      "Чернов Алексей Анатольевич": 15,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131405": 5,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 4,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 5,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 7,
+      "gas:candidate-vibid:1001000136102": 3,
+      "gas:candidate-vibid:1001000113967": 15,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 26,
-      "Касимов Михаил Борисович": 15,
-      "Левитан Сергей Владимирович": 26,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 18,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 43,
-      "Холоимов Анатолий Анатольевич": 8,
-      "Чернов Алексей Анатольевич": 27,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000131405": 26,
+      "gas:candidate-vibid:1001000112243": 15,
+      "gas:candidate-vibid:359300467646": 26,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 18,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 43,
+      "gas:candidate-vibid:1001000136102": 8,
+      "gas:candidate-vibid:1001000113967": 27,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 16,
-      "Касимов Михаил Борисович": 11,
-      "Левитан Сергей Владимирович": 12,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 14,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 36,
-      "Холоимов Анатолий Анатольевич": 6,
-      "Чернов Алексей Анатольевич": 26,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131405": 16,
+      "gas:candidate-vibid:1001000112243": 11,
+      "gas:candidate-vibid:359300467646": 12,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 14,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 36,
+      "gas:candidate-vibid:1001000136102": 6,
+      "gas:candidate-vibid:1001000113967": 26,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 12,
-      "Касимов Михаил Борисович": 11,
-      "Левитан Сергей Владимирович": 10,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 8,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 126,
-      "Холоимов Анатолий Анатольевич": 7,
-      "Чернов Алексей Анатольевич": 23,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131405": 12,
+      "gas:candidate-vibid:1001000112243": 11,
+      "gas:candidate-vibid:359300467646": 10,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 8,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 126,
+      "gas:candidate-vibid:1001000136102": 7,
+      "gas:candidate-vibid:1001000113967": 23,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072752&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 64,
-      "Касимов Михаил Борисович": 29,
-      "Левитан Сергей Владимирович": 52,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 68,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 189,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 47,
-      "Чумаченко Дмитрий Валерьевич": 27,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131405": 64,
+      "gas:candidate-vibid:1001000112243": 29,
+      "gas:candidate-vibid:359300467646": 52,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 68,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 189,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 47,
+      "gas:candidate-vibid:359300467742": 27,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 65,
-      "Касимов Михаил Борисович": 21,
-      "Левитан Сергей Владимирович": 61,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 70,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 232,
-      "Холоимов Анатолий Анатольевич": 18,
-      "Чернов Алексей Анатольевич": 67,
-      "Чумаченко Дмитрий Валерьевич": 34,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000131405": 65,
+      "gas:candidate-vibid:1001000112243": 21,
+      "gas:candidate-vibid:359300467646": 61,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 70,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 232,
+      "gas:candidate-vibid:1001000136102": 18,
+      "gas:candidate-vibid:1001000113967": 67,
+      "gas:candidate-vibid:359300467742": 34,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 246,
-      "Касимов Михаил Борисович": 37,
-      "Левитан Сергей Владимирович": 99,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 86,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 371,
-      "Холоимов Анатолий Анатольевич": 63,
-      "Чернов Алексей Анатольевич": 192,
-      "Чумаченко Дмитрий Валерьевич": 139,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000131405": 246,
+      "gas:candidate-vibid:1001000112243": 37,
+      "gas:candidate-vibid:359300467646": 99,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 86,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 371,
+      "gas:candidate-vibid:1001000136102": 63,
+      "gas:candidate-vibid:1001000113967": 192,
+      "gas:candidate-vibid:359300467742": 139,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 117,
-      "Касимов Михаил Борисович": 13,
-      "Левитан Сергей Владимирович": 47,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 33,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 126,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 78,
-      "Чумаченко Дмитрий Валерьевич": 35,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000131405": 117,
+      "gas:candidate-vibid:1001000112243": 13,
+      "gas:candidate-vibid:359300467646": 47,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 33,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 126,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 78,
+      "gas:candidate-vibid:359300467742": 35,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 3,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 8,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 58,
-      "Холоимов Анатолий Анатольевич": 0,
-      "Чернов Алексей Анатольевич": 2,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131405": 3,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 8,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 58,
+      "gas:candidate-vibid:1001000136102": 0,
+      "gas:candidate-vibid:1001000113967": 2,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 158,
-      "Касимов Михаил Борисович": 40,
-      "Левитан Сергей Владимирович": 76,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 50,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 284,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 209,
-      "Чумаченко Дмитрий Валерьевич": 76,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000131405": 158,
+      "gas:candidate-vibid:1001000112243": 40,
+      "gas:candidate-vibid:359300467646": 76,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 50,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 284,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 209,
+      "gas:candidate-vibid:359300467742": 76,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 195,
-      "Касимов Михаил Борисович": 50,
-      "Левитан Сергей Владимирович": 98,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 95,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 330,
-      "Холоимов Анатолий Анатольевич": 50,
-      "Чернов Алексей Анатольевич": 130,
-      "Чумаченко Дмитрий Валерьевич": 122,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000131405": 195,
+      "gas:candidate-vibid:1001000112243": 50,
+      "gas:candidate-vibid:359300467646": 98,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 95,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 330,
+      "gas:candidate-vibid:1001000136102": 50,
+      "gas:candidate-vibid:1001000113967": 130,
+      "gas:candidate-vibid:359300467742": 122,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 95,
-      "Касимов Михаил Борисович": 26,
-      "Левитан Сергей Владимирович": 61,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 78,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 206,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 94,
-      "Чумаченко Дмитрий Валерьевич": 97,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000131405": 95,
+      "gas:candidate-vibid:1001000112243": 26,
+      "gas:candidate-vibid:359300467646": 61,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 78,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 206,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 94,
+      "gas:candidate-vibid:359300467742": 97,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 151,
-      "Касимов Михаил Борисович": 27,
-      "Левитан Сергей Владимирович": 71,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 71,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 224,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 166,
-      "Чумаченко Дмитрий Валерьевич": 128,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000131405": 151,
+      "gas:candidate-vibid:1001000112243": 27,
+      "gas:candidate-vibid:359300467646": 71,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 71,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 224,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 166,
+      "gas:candidate-vibid:359300467742": 128,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 168,
-      "Касимов Михаил Борисович": 50,
-      "Левитан Сергей Владимирович": 100,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 88,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 248,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 161,
-      "Чумаченко Дмитрий Валерьевич": 116,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131405": 168,
+      "gas:candidate-vibid:1001000112243": 50,
+      "gas:candidate-vibid:359300467646": 100,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 88,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 248,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 161,
+      "gas:candidate-vibid:359300467742": 116,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 143,
-      "Касимов Михаил Борисович": 44,
-      "Левитан Сергей Владимирович": 60,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 77,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 279,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 110,
-      "Чумаченко Дмитрий Валерьевич": 116,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000131405": 143,
+      "gas:candidate-vibid:1001000112243": 44,
+      "gas:candidate-vibid:359300467646": 60,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 77,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 279,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 110,
+      "gas:candidate-vibid:359300467742": 116,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 343,
-      "Касимов Михаил Борисович": 48,
-      "Левитан Сергей Владимирович": 30,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 112,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 231,
-      "Холоимов Анатолий Анатольевич": 67,
-      "Чернов Алексей Анатольевич": 156,
-      "Чумаченко Дмитрий Валерьевич": 55,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000131405": 343,
+      "gas:candidate-vibid:1001000112243": 48,
+      "gas:candidate-vibid:359300467646": 30,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 112,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 231,
+      "gas:candidate-vibid:1001000136102": 67,
+      "gas:candidate-vibid:1001000113967": 156,
+      "gas:candidate-vibid:359300467742": 55,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 202,
-      "Касимов Михаил Борисович": 40,
-      "Левитан Сергей Владимирович": 59,
-      "Лежнев Константин Михайлович": 13,
-      "Мальцева Анастасия Анатольевна": 70,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 226,
-      "Холоимов Анатолий Анатольевич": 57,
-      "Чернов Алексей Анатольевич": 132,
-      "Чумаченко Дмитрий Валерьевич": 65,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000131405": 202,
+      "gas:candidate-vibid:1001000112243": 40,
+      "gas:candidate-vibid:359300467646": 59,
+      "gas:candidate-vibid:359300467151": 13,
+      "gas:candidate-vibid:359300467265": 70,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 226,
+      "gas:candidate-vibid:1001000136102": 57,
+      "gas:candidate-vibid:1001000113967": 132,
+      "gas:candidate-vibid:359300467742": 65,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 133,
-      "Касимов Михаил Борисович": 32,
-      "Левитан Сергей Владимирович": 59,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 57,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 203,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 190,
-      "Чумаченко Дмитрий Валерьевич": 77,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131405": 133,
+      "gas:candidate-vibid:1001000112243": 32,
+      "gas:candidate-vibid:359300467646": 59,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 57,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 203,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 190,
+      "gas:candidate-vibid:359300467742": 77,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 204,
-      "Касимов Михаил Борисович": 45,
-      "Левитан Сергей Владимирович": 54,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 92,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 348,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 171,
-      "Чумаченко Дмитрий Валерьевич": 172,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000131405": 204,
+      "gas:candidate-vibid:1001000112243": 45,
+      "gas:candidate-vibid:359300467646": 54,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 92,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 348,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 171,
+      "gas:candidate-vibid:359300467742": 172,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 79,
-      "Касимов Михаил Борисович": 17,
-      "Левитан Сергей Владимирович": 50,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 48,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 127,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 160,
-      "Чумаченко Дмитрий Валерьевич": 80,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000131405": 79,
+      "gas:candidate-vibid:1001000112243": 17,
+      "gas:candidate-vibid:359300467646": 50,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 48,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 127,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 160,
+      "gas:candidate-vibid:359300467742": 80,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 151,
-      "Касимов Михаил Борисович": 37,
-      "Левитан Сергей Владимирович": 40,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 58,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 243,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 149,
-      "Чумаченко Дмитрий Валерьевич": 103,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000131405": 151,
+      "gas:candidate-vibid:1001000112243": 37,
+      "gas:candidate-vibid:359300467646": 40,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 58,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 243,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 149,
+      "gas:candidate-vibid:359300467742": 103,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 88,
-      "Касимов Михаил Борисович": 4,
-      "Левитан Сергей Владимирович": 7,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 31,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 70,
-      "Холоимов Анатолий Анатольевич": 2,
-      "Чернов Алексей Анатольевич": 8,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131405": 88,
+      "gas:candidate-vibid:1001000112243": 4,
+      "gas:candidate-vibid:359300467646": 7,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 31,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 70,
+      "gas:candidate-vibid:1001000136102": 2,
+      "gas:candidate-vibid:1001000113967": 8,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 94,
-      "Касимов Михаил Борисович": 17,
-      "Левитан Сергей Владимирович": 25,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 33,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 126,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 52,
-      "Чумаченко Дмитрий Валерьевич": 55,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000131405": 94,
+      "gas:candidate-vibid:1001000112243": 17,
+      "gas:candidate-vibid:359300467646": 25,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 33,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 126,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 52,
+      "gas:candidate-vibid:359300467742": 55,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 130,
-      "Касимов Михаил Борисович": 20,
-      "Левитан Сергей Владимирович": 32,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 60,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 175,
-      "Холоимов Анатолий Анатольевич": 21,
-      "Чернов Алексей Анатольевич": 108,
-      "Чумаченко Дмитрий Валерьевич": 83,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131405": 130,
+      "gas:candidate-vibid:1001000112243": 20,
+      "gas:candidate-vibid:359300467646": 32,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 60,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 175,
+      "gas:candidate-vibid:1001000136102": 21,
+      "gas:candidate-vibid:1001000113967": 108,
+      "gas:candidate-vibid:359300467742": 83,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 263,
-      "Касимов Михаил Борисович": 50,
-      "Левитан Сергей Владимирович": 46,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 76,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 372,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 225,
-      "Чумаченко Дмитрий Валерьевич": 130,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000131405": 263,
+      "gas:candidate-vibid:1001000112243": 50,
+      "gas:candidate-vibid:359300467646": 46,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 76,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 372,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 225,
+      "gas:candidate-vibid:359300467742": 130,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 305,
-      "Касимов Михаил Борисович": 35,
-      "Левитан Сергей Владимирович": 58,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 87,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 273,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 160,
-      "Чумаченко Дмитрий Валерьевич": 158,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000131405": 305,
+      "gas:candidate-vibid:1001000112243": 35,
+      "gas:candidate-vibid:359300467646": 58,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 87,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 273,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 160,
+      "gas:candidate-vibid:359300467742": 158,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 143,
-      "Касимов Михаил Борисович": 26,
-      "Левитан Сергей Владимирович": 126,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 64,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 254,
-      "Холоимов Анатолий Анатольевич": 45,
-      "Чернов Алексей Анатольевич": 138,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000131405": 143,
+      "gas:candidate-vibid:1001000112243": 26,
+      "gas:candidate-vibid:359300467646": 126,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 64,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 254,
+      "gas:candidate-vibid:1001000136102": 45,
+      "gas:candidate-vibid:1001000113967": 138,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 140,
-      "Касимов Михаил Борисович": 40,
-      "Левитан Сергей Владимирович": 111,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 90,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 308,
-      "Холоимов Анатолий Анатольевич": 45,
-      "Чернов Алексей Анатольевич": 158,
-      "Чумаченко Дмитрий Валерьевич": 29,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000131405": 140,
+      "gas:candidate-vibid:1001000112243": 40,
+      "gas:candidate-vibid:359300467646": 111,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 90,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 308,
+      "gas:candidate-vibid:1001000136102": 45,
+      "gas:candidate-vibid:1001000113967": 158,
+      "gas:candidate-vibid:359300467742": 29,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 95,
-      "Касимов Михаил Борисович": 24,
-      "Левитан Сергей Владимирович": 103,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 64,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 222,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 142,
-      "Чумаченко Дмитрий Валерьевич": 15,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000131405": 95,
+      "gas:candidate-vibid:1001000112243": 24,
+      "gas:candidate-vibid:359300467646": 103,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 64,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 222,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 142,
+      "gas:candidate-vibid:359300467742": 15,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 37,
-      "Касимов Михаил Борисович": 18,
-      "Левитан Сергей Владимирович": 40,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 29,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 184,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 75,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000131405": 37,
+      "gas:candidate-vibid:1001000112243": 18,
+      "gas:candidate-vibid:359300467646": 40,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 29,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 184,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 75,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 112,
-      "Касимов Михаил Борисович": 22,
-      "Левитан Сергей Владимирович": 50,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 37,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 311,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 48,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000131405": 112,
+      "gas:candidate-vibid:1001000112243": 22,
+      "gas:candidate-vibid:359300467646": 50,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 37,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 311,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 48,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 138,
-      "Касимов Михаил Борисович": 46,
-      "Левитан Сергей Владимирович": 109,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 113,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 293,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 113,
-      "Чумаченко Дмитрий Валерьевич": 26,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000131405": 138,
+      "gas:candidate-vibid:1001000112243": 46,
+      "gas:candidate-vibid:359300467646": 109,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 113,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 293,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 113,
+      "gas:candidate-vibid:359300467742": 26,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 156,
-      "Касимов Михаил Борисович": 56,
-      "Левитан Сергей Владимирович": 93,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 102,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 341,
-      "Холоимов Анатолий Анатольевич": 44,
-      "Чернов Алексей Анатольевич": 127,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000131405": 156,
+      "gas:candidate-vibid:1001000112243": 56,
+      "gas:candidate-vibid:359300467646": 93,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 102,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 341,
+      "gas:candidate-vibid:1001000136102": 44,
+      "gas:candidate-vibid:1001000113967": 127,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 94,
-      "Касимов Михаил Борисович": 46,
-      "Левитан Сергей Владимирович": 59,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 57,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 204,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 87,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000131405": 94,
+      "gas:candidate-vibid:1001000112243": 46,
+      "gas:candidate-vibid:359300467646": 59,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 57,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 204,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 87,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 202,
-      "Касимов Михаил Борисович": 30,
-      "Левитан Сергей Владимирович": 101,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 63,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 264,
-      "Холоимов Анатолий Анатольевич": 43,
-      "Чернов Алексей Анатольевич": 107,
-      "Чумаченко Дмитрий Валерьевич": 43,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000131405": 202,
+      "gas:candidate-vibid:1001000112243": 30,
+      "gas:candidate-vibid:359300467646": 101,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 63,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 264,
+      "gas:candidate-vibid:1001000136102": 43,
+      "gas:candidate-vibid:1001000113967": 107,
+      "gas:candidate-vibid:359300467742": 43,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 203,
-      "Касимов Михаил Борисович": 51,
-      "Левитан Сергей Владимирович": 68,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 249,
-      "Холоимов Анатолий Анатольевич": 68,
-      "Чернов Алексей Анатольевич": 80,
-      "Чумаченко Дмитрий Валерьевич": 32,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000131405": 203,
+      "gas:candidate-vibid:1001000112243": 51,
+      "gas:candidate-vibid:359300467646": 68,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 249,
+      "gas:candidate-vibid:1001000136102": 68,
+      "gas:candidate-vibid:1001000113967": 80,
+      "gas:candidate-vibid:359300467742": 32,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 89,
-      "Касимов Михаил Борисович": 30,
-      "Левитан Сергей Владимирович": 55,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 45,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 195,
-      "Холоимов Анатолий Анатольевич": 47,
-      "Чернов Алексей Анатольевич": 112,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000131405": 89,
+      "gas:candidate-vibid:1001000112243": 30,
+      "gas:candidate-vibid:359300467646": 55,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 45,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 195,
+      "gas:candidate-vibid:1001000136102": 47,
+      "gas:candidate-vibid:1001000113967": 112,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 106,
-      "Касимов Михаил Борисович": 30,
-      "Левитан Сергей Владимирович": 41,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 50,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 256,
-      "Холоимов Анатолий Анатольевич": 48,
-      "Чернов Алексей Анатольевич": 66,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000131405": 106,
+      "gas:candidate-vibid:1001000112243": 30,
+      "gas:candidate-vibid:359300467646": 41,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 50,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 256,
+      "gas:candidate-vibid:1001000136102": 48,
+      "gas:candidate-vibid:1001000113967": 66,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 99,
-      "Касимов Михаил Борисович": 47,
-      "Левитан Сергей Владимирович": 58,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 87,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 237,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 188,
-      "Чумаченко Дмитрий Валерьевич": 27,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000131405": 99,
+      "gas:candidate-vibid:1001000112243": 47,
+      "gas:candidate-vibid:359300467646": 58,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 87,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 237,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 188,
+      "gas:candidate-vibid:359300467742": 27,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 123,
-      "Касимов Михаил Борисович": 108,
-      "Левитан Сергей Владимирович": 141,
-      "Лежнев Константин Михайлович": 30,
-      "Мальцева Анастасия Анатольевна": 104,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 403,
-      "Холоимов Анатолий Анатольевич": 59,
-      "Чернов Алексей Анатольевич": 205,
-      "Чумаченко Дмитрий Валерьевич": 63,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000131405": 123,
+      "gas:candidate-vibid:1001000112243": 108,
+      "gas:candidate-vibid:359300467646": 141,
+      "gas:candidate-vibid:359300467151": 30,
+      "gas:candidate-vibid:359300467265": 104,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 403,
+      "gas:candidate-vibid:1001000136102": 59,
+      "gas:candidate-vibid:1001000113967": 205,
+      "gas:candidate-vibid:359300467742": 63,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 148,
-      "Касимов Михаил Борисович": 80,
-      "Левитан Сергей Владимирович": 86,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 82,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 331,
-      "Холоимов Анатолий Анатольевич": 60,
-      "Чернов Алексей Анатольевич": 162,
-      "Чумаченко Дмитрий Валерьевич": 45,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000131405": 148,
+      "gas:candidate-vibid:1001000112243": 80,
+      "gas:candidate-vibid:359300467646": 86,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 82,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 331,
+      "gas:candidate-vibid:1001000136102": 60,
+      "gas:candidate-vibid:1001000113967": 162,
+      "gas:candidate-vibid:359300467742": 45,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 178,
-      "Касимов Михаил Борисович": 83,
-      "Левитан Сергей Владимирович": 106,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 106,
-      "Отмахов Станислав Борисович": 12,
-      "Похмелкин Виктор Валерьевич": 319,
-      "Холоимов Анатолий Анатольевич": 49,
-      "Чернов Алексей Анатольевич": 173,
-      "Чумаченко Дмитрий Валерьевич": 36,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000131405": 178,
+      "gas:candidate-vibid:1001000112243": 83,
+      "gas:candidate-vibid:359300467646": 106,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 106,
+      "gas:candidate-vibid:359300467270": 12,
+      "gas:candidate-vibid:1001000118561": 319,
+      "gas:candidate-vibid:1001000136102": 49,
+      "gas:candidate-vibid:1001000113967": 173,
+      "gas:candidate-vibid:359300467742": 36,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 131,
-      "Касимов Михаил Борисович": 54,
-      "Левитан Сергей Владимирович": 107,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 97,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 242,
-      "Холоимов Анатолий Анатольевич": 30,
-      "Чернов Алексей Анатольевич": 98,
-      "Чумаченко Дмитрий Валерьевич": 47,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000131405": 131,
+      "gas:candidate-vibid:1001000112243": 54,
+      "gas:candidate-vibid:359300467646": 107,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 97,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 242,
+      "gas:candidate-vibid:1001000136102": 30,
+      "gas:candidate-vibid:1001000113967": 98,
+      "gas:candidate-vibid:359300467742": 47,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 32,
-      "Касимов Михаил Борисович": 8,
-      "Левитан Сергей Владимирович": 29,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 16,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 88,
-      "Холоимов Анатолий Анатольевич": 7,
-      "Чернов Алексей Анатольевич": 38,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131405": 32,
+      "gas:candidate-vibid:1001000112243": 8,
+      "gas:candidate-vibid:359300467646": 29,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 16,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 88,
+      "gas:candidate-vibid:1001000136102": 7,
+      "gas:candidate-vibid:1001000113967": 38,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 82,
-      "Касимов Михаил Борисович": 35,
-      "Левитан Сергей Владимирович": 58,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 50,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 226,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 113,
-      "Чумаченко Дмитрий Валерьевич": 27,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000131405": 82,
+      "gas:candidate-vibid:1001000112243": 35,
+      "gas:candidate-vibid:359300467646": 58,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 50,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 226,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 113,
+      "gas:candidate-vibid:359300467742": 27,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 69,
-      "Касимов Михаил Борисович": 60,
-      "Левитан Сергей Владимирович": 78,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 40,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 154,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 126,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000131405": 69,
+      "gas:candidate-vibid:1001000112243": 60,
+      "gas:candidate-vibid:359300467646": 78,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 40,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 154,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 126,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 83,
-      "Касимов Михаил Борисович": 49,
-      "Левитан Сергей Владимирович": 81,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 68,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 246,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 132,
-      "Чумаченко Дмитрий Валерьевич": 25,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000131405": 83,
+      "gas:candidate-vibid:1001000112243": 49,
+      "gas:candidate-vibid:359300467646": 81,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 68,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 246,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 132,
+      "gas:candidate-vibid:359300467742": 25,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 95,
-      "Касимов Михаил Борисович": 52,
-      "Левитан Сергей Владимирович": 90,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 116,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 228,
-      "Холоимов Анатолий Анатольевич": 53,
-      "Чернов Алексей Анатольевич": 136,
-      "Чумаченко Дмитрий Валерьевич": 34,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000131405": 95,
+      "gas:candidate-vibid:1001000112243": 52,
+      "gas:candidate-vibid:359300467646": 90,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 116,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 228,
+      "gas:candidate-vibid:1001000136102": 53,
+      "gas:candidate-vibid:1001000113967": 136,
+      "gas:candidate-vibid:359300467742": 34,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 40,
-      "Касимов Михаил Борисович": 22,
-      "Левитан Сергей Владимирович": 59,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 38,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 164,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 62,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000131405": 40,
+      "gas:candidate-vibid:1001000112243": 22,
+      "gas:candidate-vibid:359300467646": 59,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 38,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 164,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 62,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 120,
-      "Касимов Михаил Борисович": 40,
-      "Левитан Сергей Владимирович": 104,
-      "Лежнев Константин Михайлович": 20,
-      "Мальцева Анастасия Анатольевна": 88,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 261,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 149,
-      "Чумаченко Дмитрий Валерьевич": 44,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000131405": 120,
+      "gas:candidate-vibid:1001000112243": 40,
+      "gas:candidate-vibid:359300467646": 104,
+      "gas:candidate-vibid:359300467151": 20,
+      "gas:candidate-vibid:359300467265": 88,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 261,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 149,
+      "gas:candidate-vibid:359300467742": 44,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 108,
-      "Касимов Михаил Борисович": 39,
-      "Левитан Сергей Владимирович": 58,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 58,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 238,
-      "Холоимов Анатолий Анатольевич": 29,
-      "Чернов Алексей Анатольевич": 77,
-      "Чумаченко Дмитрий Валерьевич": 14,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000131405": 108,
+      "gas:candidate-vibid:1001000112243": 39,
+      "gas:candidate-vibid:359300467646": 58,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 58,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 238,
+      "gas:candidate-vibid:1001000136102": 29,
+      "gas:candidate-vibid:1001000113967": 77,
+      "gas:candidate-vibid:359300467742": 14,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 29,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 6,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 14,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 49,
-      "Холоимов Анатолий Анатольевич": 3,
-      "Чернов Алексей Анатольевич": 25,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000131405": 29,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 6,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 14,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 49,
+      "gas:candidate-vibid:1001000136102": 3,
+      "gas:candidate-vibid:1001000113967": 25,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 19,
-      "Касимов Михаил Борисович": 17,
-      "Левитан Сергей Владимирович": 25,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 37,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 34,
-      "Холоимов Анатолий Анатольевич": 2,
-      "Чернов Алексей Анатольевич": 6,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131405": 19,
+      "gas:candidate-vibid:1001000112243": 17,
+      "gas:candidate-vibid:359300467646": 25,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 37,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 34,
+      "gas:candidate-vibid:1001000136102": 2,
+      "gas:candidate-vibid:1001000113967": 6,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 87,
-      "Касимов Михаил Борисович": 42,
-      "Левитан Сергей Владимирович": 80,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 66,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 183,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 159,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000131405": 87,
+      "gas:candidate-vibid:1001000112243": 42,
+      "gas:candidate-vibid:359300467646": 80,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 66,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 183,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 159,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072753&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 99,
-      "Касимов Михаил Борисович": 152,
-      "Левитан Сергей Владимирович": 90,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 84,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 272,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 185,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000131405": 99,
+      "gas:candidate-vibid:1001000112243": 152,
+      "gas:candidate-vibid:359300467646": 90,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 84,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 272,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 185,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 185,
-      "Левитан Сергей Владимирович": 110,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 108,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 276,
-      "Холоимов Анатолий Анатольевич": 32,
-      "Чернов Алексей Анатольевич": 281,
-      "Чумаченко Дмитрий Валерьевич": 32,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 185,
+      "gas:candidate-vibid:359300467646": 110,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 108,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 276,
+      "gas:candidate-vibid:1001000136102": 32,
+      "gas:candidate-vibid:1001000113967": 281,
+      "gas:candidate-vibid:359300467742": 32,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 32,
-      "Касимов Михаил Борисович": 72,
-      "Левитан Сергей Владимирович": 48,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 46,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 163,
-      "Холоимов Анатолий Анатольевич": 9,
-      "Чернов Алексей Анатольевич": 107,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000131405": 32,
+      "gas:candidate-vibid:1001000112243": 72,
+      "gas:candidate-vibid:359300467646": 48,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 46,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 163,
+      "gas:candidate-vibid:1001000136102": 9,
+      "gas:candidate-vibid:1001000113967": 107,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 74,
-      "Касимов Михаил Борисович": 118,
-      "Левитан Сергей Владимирович": 73,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 71,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 196,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 186,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000131405": 74,
+      "gas:candidate-vibid:1001000112243": 118,
+      "gas:candidate-vibid:359300467646": 73,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 71,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 196,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 186,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 89,
-      "Касимов Михаил Борисович": 150,
-      "Левитан Сергей Владимирович": 89,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 73,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 258,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 158,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000131405": 89,
+      "gas:candidate-vibid:1001000112243": 150,
+      "gas:candidate-vibid:359300467646": 89,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 73,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 258,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 158,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 71,
-      "Касимов Михаил Борисович": 123,
-      "Левитан Сергей Владимирович": 67,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 61,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 142,
-      "Холоимов Анатолий Анатольевич": 21,
-      "Чернов Алексей Анатольевич": 145,
-      "Чумаченко Дмитрий Валерьевич": 21,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000131405": 71,
+      "gas:candidate-vibid:1001000112243": 123,
+      "gas:candidate-vibid:359300467646": 67,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 61,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 142,
+      "gas:candidate-vibid:1001000136102": 21,
+      "gas:candidate-vibid:1001000113967": 145,
+      "gas:candidate-vibid:359300467742": 21,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 53,
-      "Касимов Михаил Борисович": 86,
-      "Левитан Сергей Владимирович": 48,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 44,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 117,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 130,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000131405": 53,
+      "gas:candidate-vibid:1001000112243": 86,
+      "gas:candidate-vibid:359300467646": 48,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 44,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 117,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 130,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 151,
-      "Касимов Михаил Борисович": 170,
-      "Левитан Сергей Владимирович": 95,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 70,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 187,
-      "Холоимов Анатолий Анатольевич": 29,
-      "Чернов Алексей Анатольевич": 185,
-      "Чумаченко Дмитрий Валерьевич": 25,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000131405": 151,
+      "gas:candidate-vibid:1001000112243": 170,
+      "gas:candidate-vibid:359300467646": 95,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 70,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 187,
+      "gas:candidate-vibid:1001000136102": 29,
+      "gas:candidate-vibid:1001000113967": 185,
+      "gas:candidate-vibid:359300467742": 25,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 110,
-      "Касимов Михаил Борисович": 122,
-      "Левитан Сергей Владимирович": 20,
-      "Лежнев Константин Михайлович": 13,
-      "Мальцева Анастасия Анатольевна": 59,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 139,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 150,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000131405": 110,
+      "gas:candidate-vibid:1001000112243": 122,
+      "gas:candidate-vibid:359300467646": 20,
+      "gas:candidate-vibid:359300467151": 13,
+      "gas:candidate-vibid:359300467265": 59,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 139,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 150,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 82,
-      "Левитан Сергей Владимирович": 60,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 32,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 135,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 103,
-      "Чумаченко Дмитрий Валерьевич": 12,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 82,
+      "gas:candidate-vibid:359300467646": 60,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 32,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 135,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 103,
+      "gas:candidate-vibid:359300467742": 12,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 90,
-      "Касимов Михаил Борисович": 136,
-      "Левитан Сергей Владимирович": 80,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 64,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 171,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 163,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000131405": 90,
+      "gas:candidate-vibid:1001000112243": 136,
+      "gas:candidate-vibid:359300467646": 80,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 64,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 171,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 163,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 66,
-      "Касимов Михаил Борисович": 132,
-      "Левитан Сергей Владимирович": 71,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 82,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 213,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 156,
-      "Чумаченко Дмитрий Валерьевич": 28,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000131405": 66,
+      "gas:candidate-vibid:1001000112243": 132,
+      "gas:candidate-vibid:359300467646": 71,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 82,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 213,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 156,
+      "gas:candidate-vibid:359300467742": 28,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 76,
-      "Касимов Михаил Борисович": 149,
-      "Левитан Сергей Владимирович": 76,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 198,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 257,
-      "Чумаченко Дмитрий Валерьевич": 26,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000131405": 76,
+      "gas:candidate-vibid:1001000112243": 149,
+      "gas:candidate-vibid:359300467646": 76,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 198,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 257,
+      "gas:candidate-vibid:359300467742": 26,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 116,
-      "Касимов Михаил Борисович": 263,
-      "Левитан Сергей Владимирович": 58,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 83,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 174,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 175,
-      "Чумаченко Дмитрий Валерьевич": 27,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000131405": 116,
+      "gas:candidate-vibid:1001000112243": 263,
+      "gas:candidate-vibid:359300467646": 58,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 83,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 174,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 175,
+      "gas:candidate-vibid:359300467742": 27,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 61,
-      "Касимов Михаил Борисович": 160,
-      "Левитан Сергей Владимирович": 38,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 51,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 147,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 144,
-      "Чумаченко Дмитрий Валерьевич": 15,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000131405": 61,
+      "gas:candidate-vibid:1001000112243": 160,
+      "gas:candidate-vibid:359300467646": 38,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 51,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 147,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 144,
+      "gas:candidate-vibid:359300467742": 15,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 51,
-      "Касимов Михаил Борисович": 225,
-      "Левитан Сергей Владимирович": 76,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 40,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 137,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 175,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131405": 51,
+      "gas:candidate-vibid:1001000112243": 225,
+      "gas:candidate-vibid:359300467646": 76,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 40,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 137,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 175,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 71,
-      "Касимов Михаил Борисович": 293,
-      "Левитан Сергей Владимирович": 73,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 89,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 212,
-      "Холоимов Анатолий Анатольевич": 35,
-      "Чернов Алексей Анатольевич": 175,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000131405": 71,
+      "gas:candidate-vibid:1001000112243": 293,
+      "gas:candidate-vibid:359300467646": 73,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 89,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 212,
+      "gas:candidate-vibid:1001000136102": 35,
+      "gas:candidate-vibid:1001000113967": 175,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 290,
-      "Левитан Сергей Владимирович": 61,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 60,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 196,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 195,
-      "Чумаченко Дмитрий Валерьевич": 21,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 290,
+      "gas:candidate-vibid:359300467646": 61,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 60,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 196,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 195,
+      "gas:candidate-vibid:359300467742": 21,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 70,
-      "Касимов Михаил Борисович": 336,
-      "Левитан Сергей Владимирович": 110,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 66,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 236,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 201,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000131405": 70,
+      "gas:candidate-vibid:1001000112243": 336,
+      "gas:candidate-vibid:359300467646": 110,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 66,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 236,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 201,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 84,
-      "Касимов Михаил Борисович": 332,
-      "Левитан Сергей Владимирович": 88,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 72,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 235,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 178,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000131405": 84,
+      "gas:candidate-vibid:1001000112243": 332,
+      "gas:candidate-vibid:359300467646": 88,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 72,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 235,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 178,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 114,
-      "Касимов Михаил Борисович": 403,
-      "Левитан Сергей Владимирович": 112,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 99,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 328,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 203,
-      "Чумаченко Дмитрий Валерьевич": 29,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000131405": 114,
+      "gas:candidate-vibid:1001000112243": 403,
+      "gas:candidate-vibid:359300467646": 112,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 99,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 328,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 203,
+      "gas:candidate-vibid:359300467742": 29,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 101,
-      "Касимов Михаил Борисович": 374,
-      "Левитан Сергей Владимирович": 92,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 94,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 235,
-      "Холоимов Анатолий Анатольевич": 18,
-      "Чернов Алексей Анатольевич": 211,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000131405": 101,
+      "gas:candidate-vibid:1001000112243": 374,
+      "gas:candidate-vibid:359300467646": 92,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 94,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 235,
+      "gas:candidate-vibid:1001000136102": 18,
+      "gas:candidate-vibid:1001000113967": 211,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 65,
-      "Касимов Михаил Борисович": 306,
-      "Левитан Сергей Владимирович": 116,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 55,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 178,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 118,
-      "Чумаченко Дмитрий Валерьевич": 23,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000131405": 65,
+      "gas:candidate-vibid:1001000112243": 306,
+      "gas:candidate-vibid:359300467646": 116,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 55,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 178,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 118,
+      "gas:candidate-vibid:359300467742": 23,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 72,
-      "Касимов Михаил Борисович": 322,
-      "Левитан Сергей Владимирович": 83,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 74,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 226,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 141,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000131405": 72,
+      "gas:candidate-vibid:1001000112243": 322,
+      "gas:candidate-vibid:359300467646": 83,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 74,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 226,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 141,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 93,
-      "Касимов Михаил Борисович": 340,
-      "Левитан Сергей Владимирович": 107,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 96,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 253,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 242,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000131405": 93,
+      "gas:candidate-vibid:1001000112243": 340,
+      "gas:candidate-vibid:359300467646": 107,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 96,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 253,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 242,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 67,
-      "Касимов Михаил Борисович": 242,
-      "Левитан Сергей Владимирович": 50,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 93,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 226,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 164,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000131405": 67,
+      "gas:candidate-vibid:1001000112243": 242,
+      "gas:candidate-vibid:359300467646": 50,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 93,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 226,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 164,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 111,
-      "Касимов Михаил Борисович": 243,
-      "Левитан Сергей Владимирович": 53,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 131,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 338,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 280,
-      "Чумаченко Дмитрий Валерьевич": 44,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000131405": 111,
+      "gas:candidate-vibid:1001000112243": 243,
+      "gas:candidate-vibid:359300467646": 53,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 131,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 338,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 280,
+      "gas:candidate-vibid:359300467742": 44,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 90,
-      "Касимов Михаил Борисович": 262,
-      "Левитан Сергей Владимирович": 83,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 107,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 304,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 234,
-      "Чумаченко Дмитрий Валерьевич": 25,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000131405": 90,
+      "gas:candidate-vibid:1001000112243": 262,
+      "gas:candidate-vibid:359300467646": 83,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 107,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 304,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 234,
+      "gas:candidate-vibid:359300467742": 25,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 93,
-      "Касимов Михаил Борисович": 179,
-      "Левитан Сергей Владимирович": 108,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 91,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 250,
-      "Холоимов Анатолий Анатольевич": 29,
-      "Чернов Алексей Анатольевич": 265,
-      "Чумаченко Дмитрий Валерьевич": 14,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000131405": 93,
+      "gas:candidate-vibid:1001000112243": 179,
+      "gas:candidate-vibid:359300467646": 108,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 91,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 250,
+      "gas:candidate-vibid:1001000136102": 29,
+      "gas:candidate-vibid:1001000113967": 265,
+      "gas:candidate-vibid:359300467742": 14,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 92,
-      "Касимов Михаил Борисович": 200,
-      "Левитан Сергей Владимирович": 96,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 108,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 333,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 257,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000131405": 92,
+      "gas:candidate-vibid:1001000112243": 200,
+      "gas:candidate-vibid:359300467646": 96,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 108,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 333,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 257,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 110,
-      "Касимов Михаил Борисович": 162,
-      "Левитан Сергей Владимирович": 52,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 77,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 292,
-      "Холоимов Анатолий Анатольевич": 37,
-      "Чернов Алексей Анатольевич": 239,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000131405": 110,
+      "gas:candidate-vibid:1001000112243": 162,
+      "gas:candidate-vibid:359300467646": 52,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 77,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 292,
+      "gas:candidate-vibid:1001000136102": 37,
+      "gas:candidate-vibid:1001000113967": 239,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 103,
-      "Касимов Михаил Борисович": 278,
-      "Левитан Сергей Владимирович": 84,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 121,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 351,
-      "Холоимов Анатолий Анатольевич": 41,
-      "Чернов Алексей Анатольевич": 273,
-      "Чумаченко Дмитрий Валерьевич": 40,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000131405": 103,
+      "gas:candidate-vibid:1001000112243": 278,
+      "gas:candidate-vibid:359300467646": 84,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 121,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 351,
+      "gas:candidate-vibid:1001000136102": 41,
+      "gas:candidate-vibid:1001000113967": 273,
+      "gas:candidate-vibid:359300467742": 40,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 113,
-      "Касимов Михаил Борисович": 204,
-      "Левитан Сергей Владимирович": 80,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 95,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 324,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 290,
-      "Чумаченко Дмитрий Валерьевич": 37,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000131405": 113,
+      "gas:candidate-vibid:1001000112243": 204,
+      "gas:candidate-vibid:359300467646": 80,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 95,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 324,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 290,
+      "gas:candidate-vibid:359300467742": 37,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 88,
-      "Касимов Михаил Борисович": 218,
-      "Левитан Сергей Владимирович": 55,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 101,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 259,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 261,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000131405": 88,
+      "gas:candidate-vibid:1001000112243": 218,
+      "gas:candidate-vibid:359300467646": 55,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 101,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 259,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 261,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 89,
-      "Касимов Михаил Борисович": 264,
-      "Левитан Сергей Владимирович": 90,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 110,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 291,
-      "Холоимов Анатолий Анатольевич": 45,
-      "Чернов Алексей Анатольевич": 309,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000131405": 89,
+      "gas:candidate-vibid:1001000112243": 264,
+      "gas:candidate-vibid:359300467646": 90,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 110,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 291,
+      "gas:candidate-vibid:1001000136102": 45,
+      "gas:candidate-vibid:1001000113967": 309,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 74,
-      "Касимов Михаил Борисович": 130,
-      "Левитан Сергей Владимирович": 75,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 54,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 148,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 138,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131405": 74,
+      "gas:candidate-vibid:1001000112243": 130,
+      "gas:candidate-vibid:359300467646": 75,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 54,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 148,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 138,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 85,
-      "Касимов Михаил Борисович": 233,
-      "Левитан Сергей Владимирович": 77,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 72,
-      "Отмахов Станислав Борисович": 12,
-      "Похмелкин Виктор Валерьевич": 228,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 209,
-      "Чумаченко Дмитрий Валерьевич": 26,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000131405": 85,
+      "gas:candidate-vibid:1001000112243": 233,
+      "gas:candidate-vibid:359300467646": 77,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 72,
+      "gas:candidate-vibid:359300467270": 12,
+      "gas:candidate-vibid:1001000118561": 228,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 209,
+      "gas:candidate-vibid:359300467742": 26,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 27,
-      "Касимов Михаил Борисович": 15,
-      "Левитан Сергей Владимирович": 8,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 16,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 45,
-      "Холоимов Анатолий Анатольевич": 10,
-      "Чернов Алексей Анатольевич": 17,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131405": 27,
+      "gas:candidate-vibid:1001000112243": 15,
+      "gas:candidate-vibid:359300467646": 8,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 16,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 45,
+      "gas:candidate-vibid:1001000136102": 10,
+      "gas:candidate-vibid:1001000113967": 17,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 51,
-      "Касимов Михаил Борисович": 25,
-      "Левитан Сергей Владимирович": 36,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 34,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 65,
-      "Холоимов Анатолий Анатольевич": 10,
-      "Чернов Алексей Анатольевич": 33,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131405": 51,
+      "gas:candidate-vibid:1001000112243": 25,
+      "gas:candidate-vibid:359300467646": 36,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 34,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 65,
+      "gas:candidate-vibid:1001000136102": 10,
+      "gas:candidate-vibid:1001000113967": 33,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 68,
-      "Касимов Михаил Борисович": 59,
-      "Левитан Сергей Владимирович": 61,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 44,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 118,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 73,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000131405": 68,
+      "gas:candidate-vibid:1001000112243": 59,
+      "gas:candidate-vibid:359300467646": 61,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 44,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 118,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 73,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 68,
-      "Касимов Михаил Борисович": 75,
-      "Левитан Сергей Владимирович": 72,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 65,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 240,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 119,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000131405": 68,
+      "gas:candidate-vibid:1001000112243": 75,
+      "gas:candidate-vibid:359300467646": 72,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 65,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 240,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 119,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 60,
-      "Касимов Михаил Борисович": 54,
-      "Левитан Сергей Владимирович": 63,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 57,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 142,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 151,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000131405": 60,
+      "gas:candidate-vibid:1001000112243": 54,
+      "gas:candidate-vibid:359300467646": 63,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 57,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 142,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 151,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 93,
-      "Касимов Михаил Борисович": 40,
-      "Левитан Сергей Владимирович": 51,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 51,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 124,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 95,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000131405": 93,
+      "gas:candidate-vibid:1001000112243": 40,
+      "gas:candidate-vibid:359300467646": 51,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 51,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 124,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 95,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 54,
-      "Касимов Михаил Борисович": 52,
-      "Левитан Сергей Владимирович": 48,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 55,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 136,
-      "Холоимов Анатолий Анатольевич": 17,
-      "Чернов Алексей Анатольевич": 100,
-      "Чумаченко Дмитрий Валерьевич": 15,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000131405": 54,
+      "gas:candidate-vibid:1001000112243": 52,
+      "gas:candidate-vibid:359300467646": 48,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 55,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 136,
+      "gas:candidate-vibid:1001000136102": 17,
+      "gas:candidate-vibid:1001000113967": 100,
+      "gas:candidate-vibid:359300467742": 15,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 127,
-      "Касимов Михаил Борисович": 143,
-      "Левитан Сергей Владимирович": 112,
-      "Лежнев Константин Михайлович": 17,
-      "Мальцева Анастасия Анатольевна": 103,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 155,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 237,
-      "Чумаченко Дмитрий Валерьевич": 30,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000131405": 127,
+      "gas:candidate-vibid:1001000112243": 143,
+      "gas:candidate-vibid:359300467646": 112,
+      "gas:candidate-vibid:359300467151": 17,
+      "gas:candidate-vibid:359300467265": 103,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 155,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 237,
+      "gas:candidate-vibid:359300467742": 30,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 142,
-      "Касимов Михаил Борисович": 120,
-      "Левитан Сергей Владимирович": 111,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 148,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 231,
-      "Холоимов Анатолий Анатольевич": 41,
-      "Чернов Алексей Анатольевич": 188,
-      "Чумаченко Дмитрий Валерьевич": 35,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000131405": 142,
+      "gas:candidate-vibid:1001000112243": 120,
+      "gas:candidate-vibid:359300467646": 111,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 148,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 231,
+      "gas:candidate-vibid:1001000136102": 41,
+      "gas:candidate-vibid:1001000113967": 188,
+      "gas:candidate-vibid:359300467742": 35,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 123,
-      "Касимов Михаил Борисович": 141,
-      "Левитан Сергей Владимирович": 85,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 104,
-      "Отмахов Станислав Борисович": 12,
-      "Похмелкин Виктор Валерьевич": 195,
-      "Холоимов Анатолий Анатольевич": 26,
-      "Чернов Алексей Анатольевич": 145,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000131405": 123,
+      "gas:candidate-vibid:1001000112243": 141,
+      "gas:candidate-vibid:359300467646": 85,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 104,
+      "gas:candidate-vibid:359300467270": 12,
+      "gas:candidate-vibid:1001000118561": 195,
+      "gas:candidate-vibid:1001000136102": 26,
+      "gas:candidate-vibid:1001000113967": 145,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 105,
-      "Касимов Михаил Борисович": 100,
-      "Левитан Сергей Владимирович": 101,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 93,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 229,
-      "Холоимов Анатолий Анатольевич": 45,
-      "Чернов Алексей Анатольевич": 199,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000131405": 105,
+      "gas:candidate-vibid:1001000112243": 100,
+      "gas:candidate-vibid:359300467646": 101,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 93,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 229,
+      "gas:candidate-vibid:1001000136102": 45,
+      "gas:candidate-vibid:1001000113967": 199,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 142,
-      "Касимов Михаил Борисович": 128,
-      "Левитан Сергей Владимирович": 103,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 115,
-      "Отмахов Станислав Борисович": 12,
-      "Похмелкин Виктор Валерьевич": 279,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 204,
-      "Чумаченко Дмитрий Валерьевич": 31,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000131405": 142,
+      "gas:candidate-vibid:1001000112243": 128,
+      "gas:candidate-vibid:359300467646": 103,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 115,
+      "gas:candidate-vibid:359300467270": 12,
+      "gas:candidate-vibid:1001000118561": 279,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 204,
+      "gas:candidate-vibid:359300467742": 31,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 145,
-      "Касимов Михаил Борисович": 125,
-      "Левитан Сергей Владимирович": 104,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 137,
-      "Отмахов Станислав Борисович": 10,
-      "Похмелкин Виктор Валерьевич": 257,
-      "Холоимов Анатолий Анатольевич": 50,
-      "Чернов Алексей Анатольевич": 155,
-      "Чумаченко Дмитрий Валерьевич": 29,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000131405": 145,
+      "gas:candidate-vibid:1001000112243": 125,
+      "gas:candidate-vibid:359300467646": 104,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 137,
+      "gas:candidate-vibid:359300467270": 10,
+      "gas:candidate-vibid:1001000118561": 257,
+      "gas:candidate-vibid:1001000136102": 50,
+      "gas:candidate-vibid:1001000113967": 155,
+      "gas:candidate-vibid:359300467742": 29,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 53,
-      "Касимов Михаил Борисович": 21,
-      "Левитан Сергей Владимирович": 60,
-      "Лежнев Константин Михайлович": 13,
-      "Мальцева Анастасия Анатольевна": 33,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 195,
-      "Холоимов Анатолий Анатольевич": 12,
-      "Чернов Алексей Анатольевич": 51,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131405": 53,
+      "gas:candidate-vibid:1001000112243": 21,
+      "gas:candidate-vibid:359300467646": 60,
+      "gas:candidate-vibid:359300467151": 13,
+      "gas:candidate-vibid:359300467265": 33,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 195,
+      "gas:candidate-vibid:1001000136102": 12,
+      "gas:candidate-vibid:1001000113967": 51,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 45,
-      "Касимов Михаил Борисович": 29,
-      "Левитан Сергей Владимирович": 42,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 47,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 277,
-      "Холоимов Анатолий Анатольевич": 18,
-      "Чернов Алексей Анатольевич": 73,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000131405": 45,
+      "gas:candidate-vibid:1001000112243": 29,
+      "gas:candidate-vibid:359300467646": 42,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 47,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 277,
+      "gas:candidate-vibid:1001000136102": 18,
+      "gas:candidate-vibid:1001000113967": 73,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 40,
-      "Касимов Михаил Борисович": 21,
-      "Левитан Сергей Владимирович": 17,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 29,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 92,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 25,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000131405": 40,
+      "gas:candidate-vibid:1001000112243": 21,
+      "gas:candidate-vibid:359300467646": 17,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 29,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 92,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 25,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 120,
-      "Касимов Михаил Борисович": 83,
-      "Левитан Сергей Владимирович": 117,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 89,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 294,
-      "Холоимов Анатолий Анатольевич": 35,
-      "Чернов Алексей Анатольевич": 148,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000131405": 120,
+      "gas:candidate-vibid:1001000112243": 83,
+      "gas:candidate-vibid:359300467646": 117,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 89,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 294,
+      "gas:candidate-vibid:1001000136102": 35,
+      "gas:candidate-vibid:1001000113967": 148,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 111,
-      "Касимов Михаил Борисович": 112,
-      "Левитан Сергей Владимирович": 112,
-      "Лежнев Константин Михайлович": 16,
-      "Мальцева Анастасия Анатольевна": 111,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 267,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 223,
-      "Чумаченко Дмитрий Валерьевич": 29,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000131405": 111,
+      "gas:candidate-vibid:1001000112243": 112,
+      "gas:candidate-vibid:359300467646": 112,
+      "gas:candidate-vibid:359300467151": 16,
+      "gas:candidate-vibid:359300467265": 111,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 267,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 223,
+      "gas:candidate-vibid:359300467742": 29,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 84,
-      "Касимов Михаил Борисович": 86,
-      "Левитан Сергей Владимирович": 104,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 114,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 268,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 211,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000131405": 84,
+      "gas:candidate-vibid:1001000112243": 86,
+      "gas:candidate-vibid:359300467646": 104,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 114,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 268,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 211,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 98,
-      "Касимов Михаил Борисович": 34,
-      "Левитан Сергей Владимирович": 64,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 93,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 200,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 80,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000131405": 98,
+      "gas:candidate-vibid:1001000112243": 34,
+      "gas:candidate-vibid:359300467646": 64,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 93,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 200,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 80,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 119,
-      "Касимов Михаил Борисович": 39,
-      "Левитан Сергей Владимирович": 62,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 64,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 169,
-      "Холоимов Анатолий Анатольевич": 24,
-      "Чернов Алексей Анатольевич": 59,
-      "Чумаченко Дмитрий Валерьевич": 18,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131405": 119,
+      "gas:candidate-vibid:1001000112243": 39,
+      "gas:candidate-vibid:359300467646": 62,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 64,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 169,
+      "gas:candidate-vibid:1001000136102": 24,
+      "gas:candidate-vibid:1001000113967": 59,
+      "gas:candidate-vibid:359300467742": 18,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 48,
-      "Касимов Михаил Борисович": 41,
-      "Левитан Сергей Владимирович": 44,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 40,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 144,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 32,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000131405": 48,
+      "gas:candidate-vibid:1001000112243": 41,
+      "gas:candidate-vibid:359300467646": 44,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 40,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 144,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 32,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 153,
-      "Касимов Михаил Борисович": 117,
-      "Левитан Сергей Владимирович": 95,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 67,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 251,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 136,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000131405": 153,
+      "gas:candidate-vibid:1001000112243": 117,
+      "gas:candidate-vibid:359300467646": 95,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 67,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 251,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 136,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 103,
-      "Касимов Михаил Борисович": 72,
-      "Левитан Сергей Владимирович": 53,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 56,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 212,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 101,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000131405": 103,
+      "gas:candidate-vibid:1001000112243": 72,
+      "gas:candidate-vibid:359300467646": 53,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 56,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 212,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 101,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 160,
-      "Касимов Михаил Борисович": 27,
-      "Левитан Сергей Владимирович": 39,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 26,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 100,
-      "Холоимов Анатолий Анатольевич": 17,
-      "Чернов Алексей Анатольевич": 46,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131405": 160,
+      "gas:candidate-vibid:1001000112243": 27,
+      "gas:candidate-vibid:359300467646": 39,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 26,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 100,
+      "gas:candidate-vibid:1001000136102": 17,
+      "gas:candidate-vibid:1001000113967": 46,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 56,
-      "Касимов Михаил Борисович": 14,
-      "Левитан Сергей Владимирович": 19,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 20,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 65,
-      "Холоимов Анатолий Анатольевич": 14,
-      "Чернов Алексей Анатольевич": 73,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131405": 56,
+      "gas:candidate-vibid:1001000112243": 14,
+      "gas:candidate-vibid:359300467646": 19,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 20,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 65,
+      "gas:candidate-vibid:1001000136102": 14,
+      "gas:candidate-vibid:1001000113967": 73,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 173,
-      "Касимов Михаил Борисович": 124,
-      "Левитан Сергей Владимирович": 120,
-      "Лежнев Константин Михайлович": 28,
-      "Мальцева Анастасия Анатольевна": 112,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 323,
-      "Холоимов Анатолий Анатольевич": 77,
-      "Чернов Алексей Анатольевич": 268,
-      "Чумаченко Дмитрий Валерьевич": 39,
-      "Против всех": 446
+      "gas:candidate-vibid:1001000131405": 173,
+      "gas:candidate-vibid:1001000112243": 124,
+      "gas:candidate-vibid:359300467646": 120,
+      "gas:candidate-vibid:359300467151": 28,
+      "gas:candidate-vibid:359300467265": 112,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 323,
+      "gas:candidate-vibid:1001000136102": 77,
+      "gas:candidate-vibid:1001000113967": 268,
+      "gas:candidate-vibid:359300467742": 39,
+      "special:against-all": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 197,
-      "Касимов Михаил Борисович": 112,
-      "Левитан Сергей Владимирович": 122,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 159,
-      "Отмахов Станислав Борисович": 11,
-      "Похмелкин Виктор Валерьевич": 442,
-      "Холоимов Анатолий Анатольевич": 54,
-      "Чернов Алексей Анатольевич": 367,
-      "Чумаченко Дмитрий Валерьевич": 44,
-      "Против всех": 459
+      "gas:candidate-vibid:1001000131405": 197,
+      "gas:candidate-vibid:1001000112243": 112,
+      "gas:candidate-vibid:359300467646": 122,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 159,
+      "gas:candidate-vibid:359300467270": 11,
+      "gas:candidate-vibid:1001000118561": 442,
+      "gas:candidate-vibid:1001000136102": 54,
+      "gas:candidate-vibid:1001000113967": 367,
+      "gas:candidate-vibid:359300467742": 44,
+      "special:against-all": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 195,
-      "Касимов Михаил Борисович": 83,
-      "Левитан Сергей Владимирович": 118,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 127,
-      "Отмахов Станислав Борисович": 9,
-      "Похмелкин Виктор Валерьевич": 317,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 282,
-      "Чумаченко Дмитрий Валерьевич": 30,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000131405": 195,
+      "gas:candidate-vibid:1001000112243": 83,
+      "gas:candidate-vibid:359300467646": 118,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 127,
+      "gas:candidate-vibid:359300467270": 9,
+      "gas:candidate-vibid:1001000118561": 317,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 282,
+      "gas:candidate-vibid:359300467742": 30,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 191,
-      "Касимов Михаил Борисович": 103,
-      "Левитан Сергей Владимирович": 105,
-      "Лежнев Константин Михайлович": 18,
-      "Мальцева Анастасия Анатольевна": 117,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 291,
-      "Холоимов Анатолий Анатольевич": 35,
-      "Чернов Алексей Анатольевич": 227,
-      "Чумаченко Дмитрий Валерьевич": 30,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000131405": 191,
+      "gas:candidate-vibid:1001000112243": 103,
+      "gas:candidate-vibid:359300467646": 105,
+      "gas:candidate-vibid:359300467151": 18,
+      "gas:candidate-vibid:359300467265": 117,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 291,
+      "gas:candidate-vibid:1001000136102": 35,
+      "gas:candidate-vibid:1001000113967": 227,
+      "gas:candidate-vibid:359300467742": 30,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 283,
-      "Касимов Михаил Борисович": 77,
-      "Левитан Сергей Владимирович": 87,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 85,
-      "Отмахов Станислав Борисович": 14,
-      "Похмелкин Виктор Валерьевич": 280,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 154,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000131405": 283,
+      "gas:candidate-vibid:1001000112243": 77,
+      "gas:candidate-vibid:359300467646": 87,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 85,
+      "gas:candidate-vibid:359300467270": 14,
+      "gas:candidate-vibid:1001000118561": 280,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 154,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 142,
-      "Касимов Михаил Борисович": 50,
-      "Левитан Сергей Владимирович": 94,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 238,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 171,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000131405": 142,
+      "gas:candidate-vibid:1001000112243": 50,
+      "gas:candidate-vibid:359300467646": 94,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 238,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 171,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 206,
-      "Касимов Михаил Борисович": 85,
-      "Левитан Сергей Владимирович": 125,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 108,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 315,
-      "Холоимов Анатолий Анатольевич": 31,
-      "Чернов Алексей Анатольевич": 230,
-      "Чумаченко Дмитрий Валерьевич": 22,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000131405": 206,
+      "gas:candidate-vibid:1001000112243": 85,
+      "gas:candidate-vibid:359300467646": 125,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 108,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 315,
+      "gas:candidate-vibid:1001000136102": 31,
+      "gas:candidate-vibid:1001000113967": 230,
+      "gas:candidate-vibid:359300467742": 22,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 159,
-      "Касимов Михаил Борисович": 36,
-      "Левитан Сергей Владимирович": 76,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 57,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 244,
-      "Холоимов Анатолий Анатольевич": 30,
-      "Чернов Алексей Анатольевич": 164,
-      "Чумаченко Дмитрий Валерьевич": 20,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000131405": 159,
+      "gas:candidate-vibid:1001000112243": 36,
+      "gas:candidate-vibid:359300467646": 76,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 57,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 244,
+      "gas:candidate-vibid:1001000136102": 30,
+      "gas:candidate-vibid:1001000113967": 164,
+      "gas:candidate-vibid:359300467742": 20,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 27,
-      "Касимов Михаил Борисович": 30,
-      "Левитан Сергей Владимирович": 35,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 22,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 138,
-      "Холоимов Анатолий Анатольевич": 8,
-      "Чернов Алексей Анатольевич": 62,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000131405": 27,
+      "gas:candidate-vibid:1001000112243": 30,
+      "gas:candidate-vibid:359300467646": 35,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 22,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 138,
+      "gas:candidate-vibid:1001000136102": 8,
+      "gas:candidate-vibid:1001000113967": 62,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 14,
-      "Касимов Михаил Борисович": 31,
-      "Левитан Сергей Владимирович": 8,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 22,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 56,
-      "Холоимов Анатолий Анатольевич": 5,
-      "Чернов Алексей Анатольевич": 34,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131405": 14,
+      "gas:candidate-vibid:1001000112243": 31,
+      "gas:candidate-vibid:359300467646": 8,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 22,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 56,
+      "gas:candidate-vibid:1001000136102": 5,
+      "gas:candidate-vibid:1001000113967": 34,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 16,
-      "Касимов Михаил Борисович": 9,
-      "Левитан Сергей Владимирович": 20,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 12,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 37,
-      "Холоимов Анатолий Анатольевич": 0,
-      "Чернов Алексей Анатольевич": 15,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131405": 16,
+      "gas:candidate-vibid:1001000112243": 9,
+      "gas:candidate-vibid:359300467646": 20,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 12,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 37,
+      "gas:candidate-vibid:1001000136102": 0,
+      "gas:candidate-vibid:1001000113967": 15,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072754&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 29,
-      "Касимов Михаил Борисович": 10,
-      "Левитан Сергей Владимирович": 12,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 43,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 54,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 103,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131405": 29,
+      "gas:candidate-vibid:1001000112243": 10,
+      "gas:candidate-vibid:359300467646": 12,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 43,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 54,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 103,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 75,
-      "Касимов Михаил Борисович": 37,
-      "Левитан Сергей Владимирович": 60,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 64,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 256,
-      "Холоимов Анатолий Анатольевич": 55,
-      "Чернов Алексей Анатольевич": 367,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000131405": 75,
+      "gas:candidate-vibid:1001000112243": 37,
+      "gas:candidate-vibid:359300467646": 60,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 64,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 256,
+      "gas:candidate-vibid:1001000136102": 55,
+      "gas:candidate-vibid:1001000113967": 367,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 66,
-      "Касимов Михаил Борисович": 39,
-      "Левитан Сергей Владимирович": 61,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 81,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 276,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 401,
-      "Чумаченко Дмитрий Валерьевич": 12,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131405": 66,
+      "gas:candidate-vibid:1001000112243": 39,
+      "gas:candidate-vibid:359300467646": 61,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 81,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 276,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 401,
+      "gas:candidate-vibid:359300467742": 12,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 48,
-      "Касимов Михаил Борисович": 37,
-      "Левитан Сергей Владимирович": 66,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 74,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 243,
-      "Холоимов Анатолий Анатольевич": 30,
-      "Чернов Алексей Анатольевич": 427,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000131405": 48,
+      "gas:candidate-vibid:1001000112243": 37,
+      "gas:candidate-vibid:359300467646": 66,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 74,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 243,
+      "gas:candidate-vibid:1001000136102": 30,
+      "gas:candidate-vibid:1001000113967": 427,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 47,
-      "Касимов Михаил Борисович": 29,
-      "Левитан Сергей Владимирович": 43,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 87,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 186,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 342,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131405": 47,
+      "gas:candidate-vibid:1001000112243": 29,
+      "gas:candidate-vibid:359300467646": 43,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 87,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 186,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 342,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 68,
-      "Касимов Михаил Борисович": 54,
-      "Левитан Сергей Владимирович": 84,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 85,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 283,
-      "Холоимов Анатолий Анатольевич": 23,
-      "Чернов Алексей Анатольевич": 323,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000131405": 68,
+      "gas:candidate-vibid:1001000112243": 54,
+      "gas:candidate-vibid:359300467646": 84,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 85,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 283,
+      "gas:candidate-vibid:1001000136102": 23,
+      "gas:candidate-vibid:1001000113967": 323,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 45,
-      "Касимов Михаил Борисович": 40,
-      "Левитан Сергей Владимирович": 62,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 68,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 279,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 295,
-      "Чумаченко Дмитрий Валерьевич": 21,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000131405": 45,
+      "gas:candidate-vibid:1001000112243": 40,
+      "gas:candidate-vibid:359300467646": 62,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 68,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 279,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 295,
+      "gas:candidate-vibid:359300467742": 21,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 53,
-      "Касимов Михаил Борисович": 47,
-      "Левитан Сергей Владимирович": 106,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 118,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 375,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 277,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000131405": 53,
+      "gas:candidate-vibid:1001000112243": 47,
+      "gas:candidate-vibid:359300467646": 106,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 118,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 375,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 277,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 49,
-      "Касимов Михаил Борисович": 31,
-      "Левитан Сергей Владимирович": 83,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 99,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 276,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 383,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000131405": 49,
+      "gas:candidate-vibid:1001000112243": 31,
+      "gas:candidate-vibid:359300467646": 83,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 99,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 276,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 383,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 62,
-      "Касимов Михаил Борисович": 30,
-      "Левитан Сергей Владимирович": 70,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 81,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 221,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 277,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000131405": 62,
+      "gas:candidate-vibid:1001000112243": 30,
+      "gas:candidate-vibid:359300467646": 70,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 81,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 221,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 277,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 50,
-      "Касимов Михаил Борисович": 55,
-      "Левитан Сергей Владимирович": 113,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 117,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 179,
-      "Холоимов Анатолий Анатольевич": 40,
-      "Чернов Алексей Анатольевич": 451,
-      "Чумаченко Дмитрий Валерьевич": 21,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131405": 50,
+      "gas:candidate-vibid:1001000112243": 55,
+      "gas:candidate-vibid:359300467646": 113,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 117,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 179,
+      "gas:candidate-vibid:1001000136102": 40,
+      "gas:candidate-vibid:1001000113967": 451,
+      "gas:candidate-vibid:359300467742": 21,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 57,
-      "Касимов Михаил Борисович": 32,
-      "Левитан Сергей Владимирович": 53,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 73,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 303,
-      "Холоимов Анатолий Анатольевич": 36,
-      "Чернов Алексей Анатольевич": 259,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000131405": 57,
+      "gas:candidate-vibid:1001000112243": 32,
+      "gas:candidate-vibid:359300467646": 53,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 73,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 303,
+      "gas:candidate-vibid:1001000136102": 36,
+      "gas:candidate-vibid:1001000113967": 259,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 66,
-      "Касимов Михаил Борисович": 25,
-      "Левитан Сергей Владимирович": 63,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 111,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 231,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 359,
-      "Чумаченко Дмитрий Валерьевич": 21,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000131405": 66,
+      "gas:candidate-vibid:1001000112243": 25,
+      "gas:candidate-vibid:359300467646": 63,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 111,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 231,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 359,
+      "gas:candidate-vibid:359300467742": 21,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 51,
-      "Касимов Михаил Борисович": 35,
-      "Левитан Сергей Владимирович": 58,
-      "Лежнев Константин Михайлович": 7,
-      "Мальцева Анастасия Анатольевна": 98,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 236,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 381,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000131405": 51,
+      "gas:candidate-vibid:1001000112243": 35,
+      "gas:candidate-vibid:359300467646": 58,
+      "gas:candidate-vibid:359300467151": 7,
+      "gas:candidate-vibid:359300467265": 98,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 236,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 381,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 59,
-      "Касимов Михаил Борисович": 30,
-      "Левитан Сергей Владимирович": 106,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 122,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 248,
-      "Холоимов Анатолий Анатольевич": 25,
-      "Чернов Алексей Анатольевич": 430,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000131405": 59,
+      "gas:candidate-vibid:1001000112243": 30,
+      "gas:candidate-vibid:359300467646": 106,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 122,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 248,
+      "gas:candidate-vibid:1001000136102": 25,
+      "gas:candidate-vibid:1001000113967": 430,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 33,
-      "Касимов Михаил Борисович": 27,
-      "Левитан Сергей Владимирович": 44,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 63,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 165,
-      "Холоимов Анатолий Анатольевич": 19,
-      "Чернов Алексей Анатольевич": 251,
-      "Чумаченко Дмитрий Валерьевич": 11,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000131405": 33,
+      "gas:candidate-vibid:1001000112243": 27,
+      "gas:candidate-vibid:359300467646": 44,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 63,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 165,
+      "gas:candidate-vibid:1001000136102": 19,
+      "gas:candidate-vibid:1001000113967": 251,
+      "gas:candidate-vibid:359300467742": 11,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 28,
-      "Касимов Михаил Борисович": 13,
-      "Левитан Сергей Владимирович": 29,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 70,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 106,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 156,
-      "Чумаченко Дмитрий Валерьевич": 0,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131405": 28,
+      "gas:candidate-vibid:1001000112243": 13,
+      "gas:candidate-vibid:359300467646": 29,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 70,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 106,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 156,
+      "gas:candidate-vibid:359300467742": 0,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 43,
-      "Касимов Михаил Борисович": 22,
-      "Левитан Сергей Владимирович": 52,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 75,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 178,
-      "Холоимов Анатолий Анатольевич": 22,
-      "Чернов Алексей Анатольевич": 276,
-      "Чумаченко Дмитрий Валерьевич": 6,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000131405": 43,
+      "gas:candidate-vibid:1001000112243": 22,
+      "gas:candidate-vibid:359300467646": 52,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 75,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 178,
+      "gas:candidate-vibid:1001000136102": 22,
+      "gas:candidate-vibid:1001000113967": 276,
+      "gas:candidate-vibid:359300467742": 6,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 63,
-      "Касимов Михаил Борисович": 44,
-      "Левитан Сергей Владимирович": 52,
-      "Лежнев Константин Михайлович": 9,
-      "Мальцева Анастасия Анатольевна": 106,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 267,
-      "Холоимов Анатолий Анатольевич": 29,
-      "Чернов Алексей Анатольевич": 335,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000131405": 63,
+      "gas:candidate-vibid:1001000112243": 44,
+      "gas:candidate-vibid:359300467646": 52,
+      "gas:candidate-vibid:359300467151": 9,
+      "gas:candidate-vibid:359300467265": 106,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 267,
+      "gas:candidate-vibid:1001000136102": 29,
+      "gas:candidate-vibid:1001000113967": 335,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 55,
-      "Касимов Михаил Борисович": 42,
-      "Левитан Сергей Владимирович": 93,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 87,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 195,
-      "Холоимов Анатолий Анатольевич": 33,
-      "Чернов Алексей Анатольевич": 331,
-      "Чумаченко Дмитрий Валерьевич": 6,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131405": 55,
+      "gas:candidate-vibid:1001000112243": 42,
+      "gas:candidate-vibid:359300467646": 93,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 87,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 195,
+      "gas:candidate-vibid:1001000136102": 33,
+      "gas:candidate-vibid:1001000113967": 331,
+      "gas:candidate-vibid:359300467742": 6,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 34,
-      "Касимов Михаил Борисович": 37,
-      "Левитан Сергей Владимирович": 93,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 93,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 168,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 266,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000131405": 34,
+      "gas:candidate-vibid:1001000112243": 37,
+      "gas:candidate-vibid:359300467646": 93,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 93,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 168,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 266,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 41,
-      "Касимов Михаил Борисович": 26,
-      "Левитан Сергей Владимирович": 50,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 79,
-      "Отмахов Станислав Борисович": 5,
-      "Похмелкин Виктор Валерьевич": 228,
-      "Холоимов Анатолий Анатольевич": 32,
-      "Чернов Алексей Анатольевич": 136,
-      "Чумаченко Дмитрий Валерьевич": 10,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000131405": 41,
+      "gas:candidate-vibid:1001000112243": 26,
+      "gas:candidate-vibid:359300467646": 50,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 79,
+      "gas:candidate-vibid:359300467270": 5,
+      "gas:candidate-vibid:1001000118561": 228,
+      "gas:candidate-vibid:1001000136102": 32,
+      "gas:candidate-vibid:1001000113967": 136,
+      "gas:candidate-vibid:359300467742": 10,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",

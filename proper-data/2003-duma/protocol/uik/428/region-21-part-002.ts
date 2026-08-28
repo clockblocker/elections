@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 97,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 97,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 94,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 94,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 109,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 105,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 109,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 105,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 46,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 61,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 46,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 61,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 144,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 59,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 144,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 59,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 42,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 42,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 138,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 84,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 138,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 84,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 117,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 16,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 117,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 16,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 116,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 49,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 116,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 49,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 113,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 22,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 113,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 22,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 138,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 16,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 138,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 16,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 6,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 94,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 61,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 6,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 94,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 61,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 311,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 38,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 311,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 38,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 110,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 44,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 110,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 44,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 134,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 22,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 134,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 22,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 101,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 47,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 101,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 47,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 139,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 139,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 413,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 49,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 413,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 49,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 21,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 354,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 47,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 21,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 354,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 47,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 95,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 11,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 95,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 11,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 499,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 73,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 499,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 73,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 231,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 38,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 231,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 38,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 150,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 150,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 477,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 120,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 477,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 120,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 186,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 32,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 186,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 32,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 120,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 137,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 120,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 137,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 92,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 21,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 92,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 21,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 201,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 163,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 201,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 163,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 10,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 153,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 82,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 10,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 153,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 82,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 445,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 65,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 445,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 65,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 198,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 34,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 198,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 34,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 127,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 26,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 127,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 26,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 235,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 17,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 235,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 17,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 148,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 19,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 148,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 19,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 229,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 38,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 229,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 38,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 112,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 25,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 112,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 25,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 335,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 68,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 335,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 68,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 104,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 104,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 259,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 56,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 259,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 56,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 114,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 16,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 114,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 16,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 224,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 25,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 224,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 25,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 175,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 22,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 175,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 22,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 307,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 46,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 307,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 46,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 96,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 21,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 96,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 21,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 250,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 121,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 250,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 121,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166937&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 723,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 137,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 723,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 137,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 339,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 98,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 339,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 98,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 480,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 71,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 480,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 71,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 6,
-      "Семенов Павел Владимирович": 336,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 55,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 6,
+      "gas:candidate-vibid:1001000225910": 336,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 55,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 15,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 548,
-      "Чуркин Роберт Алексеевич": 6,
-      "Шурчанов Валентин Сергеевич": 129,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000112183": 15,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 548,
+      "gas:candidate-vibid:1001000339428": 6,
+      "gas:candidate-vibid:1001000121806": 129,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 555,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 116,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 555,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 116,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 130,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 25,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 130,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 25,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 10,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 886,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 221,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 10,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 886,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 221,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 16,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 1074,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 186,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000112183": 16,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 1074,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 186,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 431,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 81,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 431,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 81,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 484,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 126,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 484,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 126,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 576,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 153,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 576,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 153,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 14,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 516,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 170,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 14,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 516,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 170,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 341,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 106,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 341,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 106,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 10,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 545,
-      "Чуркин Роберт Алексеевич": 7,
-      "Шурчанов Валентин Сергеевич": 161,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112183": 10,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 545,
+      "gas:candidate-vibid:1001000339428": 7,
+      "gas:candidate-vibid:1001000121806": 161,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 534,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 145,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 534,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 145,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 6,
-      "Ижедеров Владимир Ильич": 11,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 636,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 118,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112183": 6,
+      "gas:candidate-vibid:221200070927": 11,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 636,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 118,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 9,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 317,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 65,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112183": 9,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 317,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 65,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 564,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 93,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 564,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 93,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 392,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 83,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 392,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 83,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 9,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 8,
-      "Семенов Павел Владимирович": 679,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 113,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112183": 9,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 8,
+      "gas:candidate-vibid:1001000225910": 679,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 113,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 661,
-      "Чуркин Роберт Алексеевич": 6,
-      "Шурчанов Валентин Сергеевич": 131,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 661,
+      "gas:candidate-vibid:1001000339428": 6,
+      "gas:candidate-vibid:1001000121806": 131,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 530,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 79,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 530,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 79,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 157,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 24,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 157,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 24,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 484,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 128,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 484,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 128,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 451,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 126,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 451,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 126,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 13,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 802,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 129,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 13,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 802,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 129,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 492,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 135,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 492,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 135,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 386,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 77,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 386,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 77,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 409,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 37,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 409,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 37,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 14,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 634,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 115,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112183": 14,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 634,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 115,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166938&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 9,
-      "Ижедеров Владимир Ильич": 11,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 438,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 268,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112183": 9,
+      "gas:candidate-vibid:221200070927": 11,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 438,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 268,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 12,
-      "Ильин Константин Николаевич": 9,
-      "Семенов Павел Владимирович": 418,
-      "Чуркин Роберт Алексеевич": 6,
-      "Шурчанов Валентин Сергеевич": 308,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 12,
+      "gas:candidate-vibid:1001000202285": 9,
+      "gas:candidate-vibid:1001000225910": 418,
+      "gas:candidate-vibid:1001000339428": 6,
+      "gas:candidate-vibid:1001000121806": 308,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 203,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 118,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 203,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 118,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 69,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 55,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 69,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 55,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 6,
-      "Семенов Павел Владимирович": 197,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 121,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 6,
+      "gas:candidate-vibid:1001000225910": 197,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 121,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 50,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 50,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 78,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 30,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 78,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 30,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 48,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 19,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 48,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 19,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 6,
-      "Ижедеров Владимир Ильич": 9,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 195,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 75,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 6,
+      "gas:candidate-vibid:221200070927": 9,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 195,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 75,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 11,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 118,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 48,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 11,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 118,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 48,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 200,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 22,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 200,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 22,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 13,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 100,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 13,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 100,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 87,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 45,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 87,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 45,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 129,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 59,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 129,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 59,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 103,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 36,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 103,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 36,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 135,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 86,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 135,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 86,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 188,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 59,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 188,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 59,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 340,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 40,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 340,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 40,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 11,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 102,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 87,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 11,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 102,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 87,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 156,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 80,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 156,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 80,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 197,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 85,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 197,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 85,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 113,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 32,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 113,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 32,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 246,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 109,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 246,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 109,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 129,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 35,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 129,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 35,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 50,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 42,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 50,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 42,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 6,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 11,
-      "Семенов Павел Владимирович": 317,
-      "Чуркин Роберт Алексеевич": 12,
-      "Шурчанов Валентин Сергеевич": 282,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112183": 6,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 11,
+      "gas:candidate-vibid:1001000225910": 317,
+      "gas:candidate-vibid:1001000339428": 12,
+      "gas:candidate-vibid:1001000121806": 282,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 171,
-      "Чуркин Роберт Алексеевич": 6,
-      "Шурчанов Валентин Сергеевич": 150,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 171,
+      "gas:candidate-vibid:1001000339428": 6,
+      "gas:candidate-vibid:1001000121806": 150,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 314,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 170,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 314,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 170,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 252,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 75,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 252,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 75,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 223,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 101,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 223,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 101,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 266,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 75,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 266,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 75,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 165,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 65,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 165,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 65,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 116,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 28,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 116,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 28,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 166,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 34,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 166,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 34,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 84,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 84,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 7,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 115,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 43,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 7,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 115,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 43,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 278,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 67,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 278,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 67,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 67,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 36,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 67,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 36,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 250,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 59,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 250,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 59,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 219,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 34,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 219,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 34,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 343,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 122,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 343,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 122,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 128,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 52,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 128,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 52,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 131,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 73,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 131,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 73,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166939&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 33,
-      "Ижедеров Владимир Ильич": 14,
-      "Ильин Константин Николаевич": 8,
-      "Семенов Павел Владимирович": 895,
-      "Чуркин Роберт Алексеевич": 16,
-      "Шурчанов Валентин Сергеевич": 243,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112183": 33,
+      "gas:candidate-vibid:221200070927": 14,
+      "gas:candidate-vibid:1001000202285": 8,
+      "gas:candidate-vibid:1001000225910": 895,
+      "gas:candidate-vibid:1001000339428": 16,
+      "gas:candidate-vibid:1001000121806": 243,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 9,
-      "Семенов Павел Владимирович": 510,
-      "Чуркин Роберт Алексеевич": 12,
-      "Шурчанов Валентин Сергеевич": 254,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 9,
+      "gas:candidate-vibid:1001000225910": 510,
+      "gas:candidate-vibid:1001000339428": 12,
+      "gas:candidate-vibid:1001000121806": 254,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 117,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 17,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 117,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 17,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 257,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 38,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 257,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 38,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 296,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 75,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 296,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 75,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 55,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 24,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 55,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 24,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 172,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 89,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 172,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 89,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 165,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 97,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 165,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 97,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 152,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 38,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 152,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 38,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 163,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 62,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 163,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 62,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 65,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 65,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 184,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 46,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 184,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 46,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 84,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 28,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 84,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 28,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 186,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 21,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 186,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 21,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 6,
-      "Семенов Павел Владимирович": 240,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 70,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 6,
+      "gas:candidate-vibid:1001000225910": 240,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 70,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 97,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 97,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 287,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 63,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 287,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 63,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 279,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 63,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 279,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 63,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 281,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 30,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 281,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 30,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 373,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 76,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 373,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 76,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 320,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 196,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 320,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 196,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 91,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 24,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 91,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 24,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 104,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 75,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 104,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 75,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 238,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 63,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 238,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 63,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 251,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 114,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 251,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 114,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166940&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 133,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 74,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 133,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 74,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 210,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 56,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 210,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 56,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 201,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 80,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 201,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 80,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 66,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 48,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 66,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 48,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 137,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 36,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 137,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 36,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 119,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 33,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 119,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 33,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 223,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 91,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 223,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 91,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 316,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 94,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 316,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 94,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 79,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 27,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 79,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 27,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 124,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 124,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 81,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 81,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 163,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 40,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 163,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 40,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 156,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 52,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 156,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 52,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 221,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 221,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 173,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 65,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 173,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 65,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 96,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 13,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 96,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 13,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 118,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 26,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 118,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 26,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 152,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 57,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 152,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 57,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 444,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 196,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 444,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 196,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 6,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 389,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 223,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 6,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 389,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 223,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 301,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 137,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 301,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 137,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 122,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 76,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 122,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 76,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 122,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 122,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 237,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 106,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 237,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 106,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 105,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 105,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 127,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 33,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 127,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 33,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 304,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 90,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 304,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 90,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 189,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 189,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 156,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 90,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 156,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 90,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 136,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 56,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 136,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 56,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 112,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 39,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 112,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 39,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 95,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 45,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 95,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 45,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 182,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 49,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 182,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 49,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 124,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 124,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 181,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 43,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 181,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 43,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 132,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 43,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 132,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 43,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 84,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 42,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 84,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 42,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 66,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 24,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 66,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 24,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 275,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 70,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 275,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 70,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 105,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 105,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 27,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 27,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166941&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 11,
-      "Ижедеров Владимир Ильич": 26,
-      "Ильин Константин Николаевич": 13,
-      "Семенов Павел Владимирович": 738,
-      "Чуркин Роберт Алексеевич": 7,
-      "Шурчанов Валентин Сергеевич": 292,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000112183": 11,
+      "gas:candidate-vibid:221200070927": 26,
+      "gas:candidate-vibid:1001000202285": 13,
+      "gas:candidate-vibid:1001000225910": 738,
+      "gas:candidate-vibid:1001000339428": 7,
+      "gas:candidate-vibid:1001000121806": 292,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 393,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 109,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 393,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 109,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 193,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 71,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 193,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 71,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 6,
-      "Семенов Павел Владимирович": 356,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 58,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 6,
+      "gas:candidate-vibid:1001000225910": 356,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 58,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 259,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 88,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 259,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 88,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 11,
-      "Ижедеров Владимир Ильич": 12,
-      "Ильин Константин Николаевич": 9,
-      "Семенов Павел Владимирович": 306,
-      "Чуркин Роберт Алексеевич": 11,
-      "Шурчанов Валентин Сергеевич": 349,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000112183": 11,
+      "gas:candidate-vibid:221200070927": 12,
+      "gas:candidate-vibid:1001000202285": 9,
+      "gas:candidate-vibid:1001000225910": 306,
+      "gas:candidate-vibid:1001000339428": 11,
+      "gas:candidate-vibid:1001000121806": 349,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 88,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 78,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 88,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 78,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 131,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 29,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 131,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 29,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 84,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 39,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 84,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 39,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 233,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 97,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 233,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 97,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 117,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 60,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 117,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 60,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 161,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 59,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 161,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 59,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 6,
-      "Семенов Павел Владимирович": 249,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 73,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 6,
+      "gas:candidate-vibid:1001000225910": 249,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 73,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 191,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 40,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 191,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 40,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 9,
-      "Семенов Павел Владимирович": 125,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 105,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 9,
+      "gas:candidate-vibid:1001000225910": 125,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 105,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 14,
-      "Ижедеров Владимир Ильич": 8,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 427,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 111,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000112183": 14,
+      "gas:candidate-vibid:221200070927": 8,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 427,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 111,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 103,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 27,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 103,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 27,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 127,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 38,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 127,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 38,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 206,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 117,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 206,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 117,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 163,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 101,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 163,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 101,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 118,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 62,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 118,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 62,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 177,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 58,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 177,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 58,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 11,
-      "Семенов Павел Владимирович": 138,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 157,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 11,
+      "gas:candidate-vibid:1001000225910": 138,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 157,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 164,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 174,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 164,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 174,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 143,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 43,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 143,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 43,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 127,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 98,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 127,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 98,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 154,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 103,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 154,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 103,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 157,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 37,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 157,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 37,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 68,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 33,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 68,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 33,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 146,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 142,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 146,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 142,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 81,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 65,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 81,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 65,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 7,
-      "Семенов Павел Владимирович": 280,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 48,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 7,
+      "gas:candidate-vibid:1001000225910": 280,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 48,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 204,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 63,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 204,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 63,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 12,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 9,
-      "Семенов Павел Владимирович": 366,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 104,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 12,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 9,
+      "gas:candidate-vibid:1001000225910": 366,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 104,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 169,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 27,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 169,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 27,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 161,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 52,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 161,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 52,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 144,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 29,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 144,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 29,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 7,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 270,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 58,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112183": 7,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 270,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 58,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 5,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 164,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 40,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112183": 5,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 164,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 40,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 8,
-      "Ижедеров Владимир Ильич": 12,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 418,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 122,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112183": 8,
+      "gas:candidate-vibid:221200070927": 12,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 418,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 122,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 286,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 46,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 286,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 46,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 354,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 74,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 354,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 74,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 275,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 33,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 275,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 33,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 167,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 37,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 167,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 37,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 3,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 207,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 51,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 3,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 207,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 51,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 323,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 69,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 323,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 69,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 180,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 82,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 180,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 82,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 10,
-      "Ильин Константин Николаевич": 6,
-      "Семенов Павел Владимирович": 359,
-      "Чуркин Роберт Алексеевич": 5,
-      "Шурчанов Валентин Сергеевич": 117,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 10,
+      "gas:candidate-vibid:1001000202285": 6,
+      "gas:candidate-vibid:1001000225910": 359,
+      "gas:candidate-vibid:1001000339428": 5,
+      "gas:candidate-vibid:1001000121806": 117,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 4,
-      "Семенов Павел Владимирович": 203,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 88,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 4,
+      "gas:candidate-vibid:1001000225910": 203,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 88,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166942&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 353,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 53,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 353,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 53,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 5,
-      "Ильин Константин Николаевич": 2,
-      "Семенов Павел Владимирович": 183,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 68,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 5,
+      "gas:candidate-vibid:1001000202285": 2,
+      "gas:candidate-vibid:1001000225910": 183,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 68,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 195,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 195,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 281,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 281,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 1,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 71,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 1,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 71,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 5,
-      "Семенов Павел Владимирович": 363,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 61,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 5,
+      "gas:candidate-vibid:1001000225910": 363,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 61,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 80,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 80,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 225,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 31,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 225,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 31,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 132,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 29,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 132,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 29,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 9,
-      "Ижедеров Владимир Ильич": 2,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 889,
-      "Чуркин Роберт Алексеевич": 4,
-      "Шурчанов Валентин Сергеевич": 45,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112183": 9,
+      "gas:candidate-vibid:221200070927": 2,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 889,
+      "gas:candidate-vibid:1001000339428": 4,
+      "gas:candidate-vibid:1001000121806": 45,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 56,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 56,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 33,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 33,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 4,
-      "Ижедеров Владимир Ильич": 4,
-      "Ильин Константин Николаевич": 3,
-      "Семенов Павел Владимирович": 180,
-      "Чуркин Роберт Алексеевич": 3,
-      "Шурчанов Валентин Сергеевич": 17,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 4,
+      "gas:candidate-vibid:221200070927": 4,
+      "gas:candidate-vibid:1001000202285": 3,
+      "gas:candidate-vibid:1001000225910": 180,
+      "gas:candidate-vibid:1001000339428": 3,
+      "gas:candidate-vibid:1001000121806": 17,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 2,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 68,
-      "Чуркин Роберт Алексеевич": 1,
-      "Шурчанов Валентин Сергеевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112183": 2,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 68,
+      "gas:candidate-vibid:1001000339428": 1,
+      "gas:candidate-vibid:1001000121806": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 0,
-      "Ижедеров Владимир Ильич": 0,
-      "Ильин Константин Николаевич": 1,
-      "Семенов Павел Владимирович": 74,
-      "Чуркин Роберт Алексеевич": 0,
-      "Шурчанов Валентин Сергеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112183": 0,
+      "gas:candidate-vibid:221200070927": 0,
+      "gas:candidate-vibid:1001000202285": 1,
+      "gas:candidate-vibid:1001000225910": 74,
+      "gas:candidate-vibid:1001000339428": 0,
+      "gas:candidate-vibid:1001000121806": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_21_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Владимиров Николай Николаевич": 3,
-      "Ижедеров Владимир Ильич": 1,
-      "Ильин Константин Николаевич": 0,
-      "Семенов Павел Владимирович": 507,
-      "Чуркин Роберт Алексеевич": 2,
-      "Шурчанов Валентин Сергеевич": 33,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112183": 3,
+      "gas:candidate-vibid:221200070927": 1,
+      "gas:candidate-vibid:1001000202285": 0,
+      "gas:candidate-vibid:1001000225910": 507,
+      "gas:candidate-vibid:1001000339428": 2,
+      "gas:candidate-vibid:1001000121806": 33,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300166943&region=0&sub_region=0&type=429",

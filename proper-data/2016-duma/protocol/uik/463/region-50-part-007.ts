@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 554,
-      "Балабанов Виктор Васильевич": 23,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 56,
-      "Лактюшин Владимир Алексеевич": 0,
-      "Ожерельев Виталий Васильевич": 25,
-      "Сольский Олег Петрович": 0,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 89,
-      "Чистюхин Игорь Васильевич": 20
+      "gas:candidate-vibid:4504071115725": 554,
+      "gas:candidate-vibid:4504071115739": 23,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 56,
+      "gas:candidate-vibid:4504071140331": 0,
+      "gas:candidate-vibid:4504071115713": 25,
+      "gas:candidate-vibid:4504071115698": 0,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 89,
+      "gas:candidate-vibid:4504071115602": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 724,
-      "Балабанов Виктор Васильевич": 8,
-      "Банов Виктор Васильевич": 11,
-      "Грудинин Павел Николаевич": 44,
-      "Лактюшин Владимир Алексеевич": 2,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 6,
-      "Хромов Андрей Анатольевич": 143,
-      "Чистюхин Игорь Васильевич": 38
+      "gas:candidate-vibid:4504071115725": 724,
+      "gas:candidate-vibid:4504071115739": 8,
+      "gas:candidate-vibid:4504071115820": 11,
+      "gas:candidate-vibid:4504071115807": 44,
+      "gas:candidate-vibid:4504071140331": 2,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 6,
+      "gas:candidate-vibid:4504071115515": 143,
+      "gas:candidate-vibid:4504071115602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 670,
-      "Балабанов Виктор Васильевич": 41,
-      "Банов Виктор Васильевич": 0,
-      "Грудинин Павел Николаевич": 19,
-      "Лактюшин Владимир Алексеевич": 0,
-      "Ожерельев Виталий Васильевич": 24,
-      "Сольский Олег Петрович": 0,
-      "Тропина Людмила Ивановна": 0,
-      "Хромов Андрей Анатольевич": 130,
-      "Чистюхин Игорь Васильевич": 45
+      "gas:candidate-vibid:4504071115725": 670,
+      "gas:candidate-vibid:4504071115739": 41,
+      "gas:candidate-vibid:4504071115820": 0,
+      "gas:candidate-vibid:4504071115807": 19,
+      "gas:candidate-vibid:4504071140331": 0,
+      "gas:candidate-vibid:4504071115713": 24,
+      "gas:candidate-vibid:4504071115698": 0,
+      "gas:candidate-vibid:4504071115755": 0,
+      "gas:candidate-vibid:4504071115515": 130,
+      "gas:candidate-vibid:4504071115602": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 724,
-      "Балабанов Виктор Васильевич": 3,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 160,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 29,
-      "Чистюхин Игорь Васильевич": 19
+      "gas:candidate-vibid:4504071115725": 724,
+      "gas:candidate-vibid:4504071115739": 3,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 160,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 29,
+      "gas:candidate-vibid:4504071115602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 415,
-      "Балабанов Виктор Васильевич": 5,
-      "Банов Виктор Васильевич": 5,
-      "Грудинин Павел Николаевич": 37,
-      "Лактюшин Владимир Алексеевич": 3,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 78,
-      "Чистюхин Игорь Васильевич": 33
+      "gas:candidate-vibid:4504071115725": 415,
+      "gas:candidate-vibid:4504071115739": 5,
+      "gas:candidate-vibid:4504071115820": 5,
+      "gas:candidate-vibid:4504071115807": 37,
+      "gas:candidate-vibid:4504071140331": 3,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 78,
+      "gas:candidate-vibid:4504071115602": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 533,
-      "Балабанов Виктор Васильевич": 65,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 91,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 43,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 34
+      "gas:candidate-vibid:4504071115725": 533,
+      "gas:candidate-vibid:4504071115739": 65,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 91,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 43,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 353,
-      "Балабанов Виктор Васильевич": 4,
-      "Банов Виктор Васильевич": 5,
-      "Грудинин Павел Николаевич": 42,
-      "Лактюшин Владимир Алексеевич": 3,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 0,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 55,
-      "Чистюхин Игорь Васильевич": 26
+      "gas:candidate-vibid:4504071115725": 353,
+      "gas:candidate-vibid:4504071115739": 4,
+      "gas:candidate-vibid:4504071115820": 5,
+      "gas:candidate-vibid:4504071115807": 42,
+      "gas:candidate-vibid:4504071140331": 3,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 0,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 55,
+      "gas:candidate-vibid:4504071115602": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 322,
-      "Балабанов Виктор Васильевич": 17,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 105,
-      "Лактюшин Владимир Алексеевич": 0,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 105,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 322,
+      "gas:candidate-vibid:4504071115739": 17,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 105,
+      "gas:candidate-vibid:4504071140331": 0,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 105,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 577,
-      "Балабанов Виктор Васильевич": 27,
-      "Банов Виктор Васильевич": 21,
-      "Грудинин Павел Николаевич": 71,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 25,
-      "Хромов Андрей Анатольевич": 65,
-      "Чистюхин Игорь Васильевич": 25
+      "gas:candidate-vibid:4504071115725": 577,
+      "gas:candidate-vibid:4504071115739": 27,
+      "gas:candidate-vibid:4504071115820": 21,
+      "gas:candidate-vibid:4504071115807": 71,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 25,
+      "gas:candidate-vibid:4504071115515": 65,
+      "gas:candidate-vibid:4504071115602": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 385,
-      "Балабанов Виктор Васильевич": 20,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 60,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 29,
-      "Хромов Андрей Анатольевич": 81,
-      "Чистюхин Игорь Васильевич": 22
+      "gas:candidate-vibid:4504071115725": 385,
+      "gas:candidate-vibid:4504071115739": 20,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 60,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 29,
+      "gas:candidate-vibid:4504071115515": 81,
+      "gas:candidate-vibid:4504071115602": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 230,
-      "Балабанов Виктор Васильевич": 35,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 96,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 35,
-      "Хромов Андрей Анатольевич": 44,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 230,
+      "gas:candidate-vibid:4504071115739": 35,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 96,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 35,
+      "gas:candidate-vibid:4504071115515": 44,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 655,
-      "Балабанов Виктор Васильевич": 39,
-      "Банов Виктор Васильевич": 21,
-      "Грудинин Павел Николаевич": 93,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 36,
-      "Хромов Андрей Анатольевич": 117,
-      "Чистюхин Игорь Васильевич": 43
+      "gas:candidate-vibid:4504071115725": 655,
+      "gas:candidate-vibid:4504071115739": 39,
+      "gas:candidate-vibid:4504071115820": 21,
+      "gas:candidate-vibid:4504071115807": 93,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 36,
+      "gas:candidate-vibid:4504071115515": 117,
+      "gas:candidate-vibid:4504071115602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 751,
-      "Балабанов Виктор Васильевич": 51,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 102,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 17,
-      "Тропина Людмила Ивановна": 32,
-      "Хромов Андрей Анатольевич": 78,
-      "Чистюхин Игорь Васильевич": 43
+      "gas:candidate-vibid:4504071115725": 751,
+      "gas:candidate-vibid:4504071115739": 51,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 102,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 17,
+      "gas:candidate-vibid:4504071115755": 32,
+      "gas:candidate-vibid:4504071115515": 78,
+      "gas:candidate-vibid:4504071115602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 572,
-      "Балабанов Виктор Васильевич": 40,
-      "Банов Виктор Васильевич": 30,
-      "Грудинин Павел Николаевич": 108,
-      "Лактюшин Владимир Алексеевич": 26,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 24,
-      "Тропина Людмила Ивановна": 42,
-      "Хромов Андрей Анатольевич": 130,
-      "Чистюхин Игорь Васильевич": 43
+      "gas:candidate-vibid:4504071115725": 572,
+      "gas:candidate-vibid:4504071115739": 40,
+      "gas:candidate-vibid:4504071115820": 30,
+      "gas:candidate-vibid:4504071115807": 108,
+      "gas:candidate-vibid:4504071140331": 26,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 24,
+      "gas:candidate-vibid:4504071115755": 42,
+      "gas:candidate-vibid:4504071115515": 130,
+      "gas:candidate-vibid:4504071115602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 857,
-      "Балабанов Виктор Васильевич": 36,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 95,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 29,
-      "Хромов Андрей Анатольевич": 72,
-      "Чистюхин Игорь Васильевич": 37
+      "gas:candidate-vibid:4504071115725": 857,
+      "gas:candidate-vibid:4504071115739": 36,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 95,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 29,
+      "gas:candidate-vibid:4504071115515": 72,
+      "gas:candidate-vibid:4504071115602": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 726,
-      "Балабанов Виктор Васильевич": 4,
-      "Банов Виктор Васильевич": 5,
-      "Грудинин Павел Николаевич": 15,
-      "Лактюшин Владимир Алексеевич": 29,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 21,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 363,
-      "Чистюхин Игорь Васильевич": 22
+      "gas:candidate-vibid:4504071115725": 726,
+      "gas:candidate-vibid:4504071115739": 4,
+      "gas:candidate-vibid:4504071115820": 5,
+      "gas:candidate-vibid:4504071115807": 15,
+      "gas:candidate-vibid:4504071140331": 29,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 21,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 363,
+      "gas:candidate-vibid:4504071115602": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 562,
-      "Балабанов Виктор Васильевич": 7,
-      "Банов Виктор Васильевич": 11,
-      "Грудинин Павел Николаевич": 23,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 1,
-      "Тропина Людмила Ивановна": 8,
-      "Хромов Андрей Анатольевич": 201,
-      "Чистюхин Игорь Васильевич": 7
+      "gas:candidate-vibid:4504071115725": 562,
+      "gas:candidate-vibid:4504071115739": 7,
+      "gas:candidate-vibid:4504071115820": 11,
+      "gas:candidate-vibid:4504071115807": 23,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 1,
+      "gas:candidate-vibid:4504071115755": 8,
+      "gas:candidate-vibid:4504071115515": 201,
+      "gas:candidate-vibid:4504071115602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 501,
-      "Балабанов Виктор Васильевич": 27,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 96,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 39,
-      "Хромов Андрей Анатольевич": 116,
-      "Чистюхин Игорь Васильевич": 69
+      "gas:candidate-vibid:4504071115725": 501,
+      "gas:candidate-vibid:4504071115739": 27,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 96,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 39,
+      "gas:candidate-vibid:4504071115515": 116,
+      "gas:candidate-vibid:4504071115602": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 481,
-      "Балабанов Виктор Васильевич": 51,
-      "Банов Виктор Васильевич": 34,
-      "Грудинин Павел Николаевич": 130,
-      "Лактюшин Владимир Алексеевич": 22,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 47,
-      "Хромов Андрей Анатольевич": 68,
-      "Чистюхин Игорь Васильевич": 35
+      "gas:candidate-vibid:4504071115725": 481,
+      "gas:candidate-vibid:4504071115739": 51,
+      "gas:candidate-vibid:4504071115820": 34,
+      "gas:candidate-vibid:4504071115807": 130,
+      "gas:candidate-vibid:4504071140331": 22,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 47,
+      "gas:candidate-vibid:4504071115515": 68,
+      "gas:candidate-vibid:4504071115602": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 548,
-      "Балабанов Виктор Васильевич": 43,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 77,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 29,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 0,
-      "Хромов Андрей Анатольевич": 152,
-      "Чистюхин Игорь Васильевич": 25
+      "gas:candidate-vibid:4504071115725": 548,
+      "gas:candidate-vibid:4504071115739": 43,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 77,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 29,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 0,
+      "gas:candidate-vibid:4504071115515": 152,
+      "gas:candidate-vibid:4504071115602": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 293,
-      "Балабанов Виктор Васильевич": 28,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 130,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 28,
-      "Тропина Людмила Ивановна": 51,
-      "Хромов Андрей Анатольевич": 64,
-      "Чистюхин Игорь Васильевич": 30
+      "gas:candidate-vibid:4504071115725": 293,
+      "gas:candidate-vibid:4504071115739": 28,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 130,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 28,
+      "gas:candidate-vibid:4504071115755": 51,
+      "gas:candidate-vibid:4504071115515": 64,
+      "gas:candidate-vibid:4504071115602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 524,
-      "Балабанов Виктор Васильевич": 35,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 43,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 122,
-      "Хромов Андрей Анатольевич": 73,
-      "Чистюхин Игорь Васильевич": 9
+      "gas:candidate-vibid:4504071115725": 524,
+      "gas:candidate-vibid:4504071115739": 35,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 43,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 122,
+      "gas:candidate-vibid:4504071115515": 73,
+      "gas:candidate-vibid:4504071115602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 536,
-      "Балабанов Виктор Васильевич": 10,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 126,
-      "Лактюшин Владимир Алексеевич": 21,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 6,
-      "Хромов Андрей Анатольевич": 53,
-      "Чистюхин Игорь Васильевич": 61
+      "gas:candidate-vibid:4504071115725": 536,
+      "gas:candidate-vibid:4504071115739": 10,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 126,
+      "gas:candidate-vibid:4504071140331": 21,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 6,
+      "gas:candidate-vibid:4504071115515": 53,
+      "gas:candidate-vibid:4504071115602": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 513,
-      "Балабанов Виктор Васильевич": 16,
-      "Банов Виктор Васильевич": 16,
-      "Грудинин Павел Николаевич": 41,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 115,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 513,
+      "gas:candidate-vibid:4504071115739": 16,
+      "gas:candidate-vibid:4504071115820": 16,
+      "gas:candidate-vibid:4504071115807": 41,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 115,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 569,
-      "Балабанов Виктор Васильевич": 44,
-      "Банов Виктор Васильевич": 20,
-      "Грудинин Павел Николаевич": 66,
-      "Лактюшин Владимир Алексеевич": 0,
-      "Ожерельев Виталий Васильевич": 18,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 122,
-      "Чистюхин Игорь Васильевич": 75
+      "gas:candidate-vibid:4504071115725": 569,
+      "gas:candidate-vibid:4504071115739": 44,
+      "gas:candidate-vibid:4504071115820": 20,
+      "gas:candidate-vibid:4504071115807": 66,
+      "gas:candidate-vibid:4504071140331": 0,
+      "gas:candidate-vibid:4504071115713": 18,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 122,
+      "gas:candidate-vibid:4504071115602": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 547,
-      "Балабанов Виктор Васильевич": 45,
-      "Банов Виктор Васильевич": 35,
-      "Грудинин Павел Николаевич": 106,
-      "Лактюшин Владимир Алексеевич": 22,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 25,
-      "Тропина Людмила Ивановна": 32,
-      "Хромов Андрей Анатольевич": 73,
-      "Чистюхин Игорь Васильевич": 43
+      "gas:candidate-vibid:4504071115725": 547,
+      "gas:candidate-vibid:4504071115739": 45,
+      "gas:candidate-vibid:4504071115820": 35,
+      "gas:candidate-vibid:4504071115807": 106,
+      "gas:candidate-vibid:4504071140331": 22,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 25,
+      "gas:candidate-vibid:4504071115755": 32,
+      "gas:candidate-vibid:4504071115515": 73,
+      "gas:candidate-vibid:4504071115602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 555,
-      "Балабанов Виктор Васильевич": 36,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 60,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 0,
-      "Хромов Андрей Анатольевич": 140,
-      "Чистюхин Игорь Васильевич": 45
+      "gas:candidate-vibid:4504071115725": 555,
+      "gas:candidate-vibid:4504071115739": 36,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 60,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 0,
+      "gas:candidate-vibid:4504071115515": 140,
+      "gas:candidate-vibid:4504071115602": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 355,
-      "Балабанов Виктор Васильевич": 20,
-      "Банов Виктор Васильевич": 27,
-      "Грудинин Павел Николаевич": 66,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 24,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 355,
+      "gas:candidate-vibid:4504071115739": 20,
+      "gas:candidate-vibid:4504071115820": 27,
+      "gas:candidate-vibid:4504071115807": 66,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 24,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 394,
-      "Балабанов Виктор Васильевич": 19,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 94,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 31,
-      "Хромов Андрей Анатольевич": 59,
-      "Чистюхин Игорь Васильевич": 28
+      "gas:candidate-vibid:4504071115725": 394,
+      "gas:candidate-vibid:4504071115739": 19,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 94,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 31,
+      "gas:candidate-vibid:4504071115515": 59,
+      "gas:candidate-vibid:4504071115602": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 371,
-      "Балабанов Виктор Васильевич": 8,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 61,
-      "Лактюшин Владимир Алексеевич": 1,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 20,
-      "Чистюхин Игорь Васильевич": 5
+      "gas:candidate-vibid:4504071115725": 371,
+      "gas:candidate-vibid:4504071115739": 8,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 61,
+      "gas:candidate-vibid:4504071140331": 1,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 20,
+      "gas:candidate-vibid:4504071115602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 284,
-      "Балабанов Виктор Васильевич": 19,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 94,
-      "Лактюшин Владимир Алексеевич": 21,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 43,
-      "Хромов Андрей Анатольевич": 72,
-      "Чистюхин Игорь Васильевич": 30
+      "gas:candidate-vibid:4504071115725": 284,
+      "gas:candidate-vibid:4504071115739": 19,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 94,
+      "gas:candidate-vibid:4504071140331": 21,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 43,
+      "gas:candidate-vibid:4504071115515": 72,
+      "gas:candidate-vibid:4504071115602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 505,
-      "Балабанов Виктор Васильевич": 17,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 68,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 13,
-      "Тропина Людмила Ивановна": 8,
-      "Хромов Андрей Анатольевич": 72,
-      "Чистюхин Игорь Васильевич": 13
+      "gas:candidate-vibid:4504071115725": 505,
+      "gas:candidate-vibid:4504071115739": 17,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 68,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 13,
+      "gas:candidate-vibid:4504071115755": 8,
+      "gas:candidate-vibid:4504071115515": 72,
+      "gas:candidate-vibid:4504071115602": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 579,
-      "Балабанов Виктор Васильевич": 29,
-      "Банов Виктор Васильевич": 31,
-      "Грудинин Павел Николаевич": 91,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 20,
-      "Хромов Андрей Анатольевич": 62,
-      "Чистюхин Игорь Васильевич": 25
+      "gas:candidate-vibid:4504071115725": 579,
+      "gas:candidate-vibid:4504071115739": 29,
+      "gas:candidate-vibid:4504071115820": 31,
+      "gas:candidate-vibid:4504071115807": 91,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 20,
+      "gas:candidate-vibid:4504071115515": 62,
+      "gas:candidate-vibid:4504071115602": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 508,
-      "Балабанов Виктор Васильевич": 28,
-      "Банов Виктор Васильевич": 20,
-      "Грудинин Павел Николаевич": 66,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 31,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 30
+      "gas:candidate-vibid:4504071115725": 508,
+      "gas:candidate-vibid:4504071115739": 28,
+      "gas:candidate-vibid:4504071115820": 20,
+      "gas:candidate-vibid:4504071115807": 66,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 31,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 340,
-      "Балабанов Виктор Васильевич": 31,
-      "Банов Виктор Васильевич": 21,
-      "Грудинин Павел Николаевич": 43,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 23,
-      "Хромов Андрей Анатольевич": 35,
-      "Чистюхин Игорь Васильевич": 20
+      "gas:candidate-vibid:4504071115725": 340,
+      "gas:candidate-vibid:4504071115739": 31,
+      "gas:candidate-vibid:4504071115820": 21,
+      "gas:candidate-vibid:4504071115807": 43,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 23,
+      "gas:candidate-vibid:4504071115515": 35,
+      "gas:candidate-vibid:4504071115602": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 497,
-      "Балабанов Виктор Васильевич": 18,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 44,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 32,
-      "Чистюхин Игорь Васильевич": 22
+      "gas:candidate-vibid:4504071115725": 497,
+      "gas:candidate-vibid:4504071115739": 18,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 44,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 32,
+      "gas:candidate-vibid:4504071115602": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 248,
-      "Балабанов Виктор Васильевич": 23,
-      "Банов Виктор Васильевич": 10,
-      "Грудинин Павел Николаевич": 29,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 11,
-      "Хромов Андрей Анатольевич": 23,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 248,
+      "gas:candidate-vibid:4504071115739": 23,
+      "gas:candidate-vibid:4504071115820": 10,
+      "gas:candidate-vibid:4504071115807": 29,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 11,
+      "gas:candidate-vibid:4504071115515": 23,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 289,
-      "Балабанов Виктор Васильевич": 23,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 63,
-      "Лактюшин Владимир Алексеевич": 14,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 58,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 289,
+      "gas:candidate-vibid:4504071115739": 23,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 63,
+      "gas:candidate-vibid:4504071140331": 14,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 58,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 317,
-      "Балабанов Виктор Васильевич": 11,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 16,
-      "Лактюшин Владимир Алексеевич": 3,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 2,
-      "Тропина Людмила Ивановна": 2,
-      "Хромов Андрей Анатольевич": 99,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 317,
+      "gas:candidate-vibid:4504071115739": 11,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 16,
+      "gas:candidate-vibid:4504071140331": 3,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 2,
+      "gas:candidate-vibid:4504071115755": 2,
+      "gas:candidate-vibid:4504071115515": 99,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 634,
-      "Балабанов Виктор Васильевич": 11,
-      "Банов Виктор Васильевич": 8,
-      "Грудинин Павел Николаевич": 69,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 193,
-      "Чистюхин Игорь Васильевич": 7
+      "gas:candidate-vibid:4504071115725": 634,
+      "gas:candidate-vibid:4504071115739": 11,
+      "gas:candidate-vibid:4504071115820": 8,
+      "gas:candidate-vibid:4504071115807": 69,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 193,
+      "gas:candidate-vibid:4504071115602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 587,
-      "Балабанов Виктор Васильевич": 32,
-      "Банов Виктор Васильевич": 15,
-      "Грудинин Павел Николаевич": 43,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 19,
-      "Сольский Олег Петрович": 27,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 179,
-      "Чистюхин Игорь Васильевич": 51
+      "gas:candidate-vibid:4504071115725": 587,
+      "gas:candidate-vibid:4504071115739": 32,
+      "gas:candidate-vibid:4504071115820": 15,
+      "gas:candidate-vibid:4504071115807": 43,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 19,
+      "gas:candidate-vibid:4504071115698": 27,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 179,
+      "gas:candidate-vibid:4504071115602": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 380,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 0,
-      "Грудинин Павел Николаевич": 53,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 0,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 52,
-      "Чистюхин Игорь Васильевич": 26
+      "gas:candidate-vibid:4504071115725": 380,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 0,
+      "gas:candidate-vibid:4504071115807": 53,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 0,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 52,
+      "gas:candidate-vibid:4504071115602": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 511,
-      "Балабанов Виктор Васильевич": 14,
-      "Банов Виктор Васильевич": 14,
-      "Грудинин Павел Николаевич": 41,
-      "Лактюшин Владимир Алексеевич": 5,
-      "Ожерельев Виталий Васильевич": 3,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 24,
-      "Чистюхин Игорь Васильевич": 14
+      "gas:candidate-vibid:4504071115725": 511,
+      "gas:candidate-vibid:4504071115739": 14,
+      "gas:candidate-vibid:4504071115820": 14,
+      "gas:candidate-vibid:4504071115807": 41,
+      "gas:candidate-vibid:4504071140331": 5,
+      "gas:candidate-vibid:4504071115713": 3,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 24,
+      "gas:candidate-vibid:4504071115602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 115,
-      "Балабанов Виктор Васильевич": 3,
-      "Банов Виктор Васильевич": 2,
-      "Грудинин Павел Николаевич": 16,
-      "Лактюшин Владимир Алексеевич": 1,
-      "Ожерельев Виталий Васильевич": 1,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 4,
-      "Хромов Андрей Анатольевич": 3,
-      "Чистюхин Игорь Васильевич": 7
+      "gas:candidate-vibid:4504071115725": 115,
+      "gas:candidate-vibid:4504071115739": 3,
+      "gas:candidate-vibid:4504071115820": 2,
+      "gas:candidate-vibid:4504071115807": 16,
+      "gas:candidate-vibid:4504071140331": 1,
+      "gas:candidate-vibid:4504071115713": 1,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 4,
+      "gas:candidate-vibid:4504071115515": 3,
+      "gas:candidate-vibid:4504071115602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 732,
-      "Балабанов Виктор Васильевич": 29,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 94,
-      "Лактюшин Владимир Алексеевич": 11,
-      "Ожерельев Виталий Васильевич": 23,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 177,
-      "Чистюхин Игорь Васильевич": 79
+      "gas:candidate-vibid:4504071115725": 732,
+      "gas:candidate-vibid:4504071115739": 29,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 94,
+      "gas:candidate-vibid:4504071140331": 11,
+      "gas:candidate-vibid:4504071115713": 23,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 177,
+      "gas:candidate-vibid:4504071115602": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 703,
-      "Балабанов Виктор Васильевич": 43,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 80,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 27,
-      "Хромов Андрей Анатольевич": 62,
-      "Чистюхин Игорь Васильевич": 43
+      "gas:candidate-vibid:4504071115725": 703,
+      "gas:candidate-vibid:4504071115739": 43,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 80,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 27,
+      "gas:candidate-vibid:4504071115515": 62,
+      "gas:candidate-vibid:4504071115602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 603,
-      "Балабанов Виктор Васильевич": 10,
-      "Банов Виктор Васильевич": 5,
-      "Грудинин Павел Николаевич": 117,
-      "Лактюшин Владимир Алексеевич": 7,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 6,
-      "Хромов Андрей Анатольевич": 124,
-      "Чистюхин Игорь Васильевич": 10
+      "gas:candidate-vibid:4504071115725": 603,
+      "gas:candidate-vibid:4504071115739": 10,
+      "gas:candidate-vibid:4504071115820": 5,
+      "gas:candidate-vibid:4504071115807": 117,
+      "gas:candidate-vibid:4504071140331": 7,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 6,
+      "gas:candidate-vibid:4504071115515": 124,
+      "gas:candidate-vibid:4504071115602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 721,
-      "Балабанов Виктор Васильевич": 10,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 81,
-      "Лактюшин Владимир Алексеевич": 0,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 154,
-      "Чистюхин Игорь Васильевич": 10
+      "gas:candidate-vibid:4504071115725": 721,
+      "gas:candidate-vibid:4504071115739": 10,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 81,
+      "gas:candidate-vibid:4504071140331": 0,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 154,
+      "gas:candidate-vibid:4504071115602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 395,
-      "Балабанов Виктор Васильевич": 26,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 98,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 29,
-      "Чистюхин Игорь Васильевич": 16
+      "gas:candidate-vibid:4504071115725": 395,
+      "gas:candidate-vibid:4504071115739": 26,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 98,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 29,
+      "gas:candidate-vibid:4504071115602": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 382,
-      "Балабанов Виктор Васильевич": 3,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 58,
-      "Лактюшин Владимир Алексеевич": 1,
-      "Ожерельев Виталий Васильевич": 1,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 109,
-      "Чистюхин Игорь Васильевич": 19
+      "gas:candidate-vibid:4504071115725": 382,
+      "gas:candidate-vibid:4504071115739": 3,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 58,
+      "gas:candidate-vibid:4504071140331": 1,
+      "gas:candidate-vibid:4504071115713": 1,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 109,
+      "gas:candidate-vibid:4504071115602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 606,
-      "Балабанов Виктор Васильевич": 24,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 47,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 17,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 43,
-      "Хромов Андрей Анатольевич": 176,
-      "Чистюхин Игорь Васильевич": 43
+      "gas:candidate-vibid:4504071115725": 606,
+      "gas:candidate-vibid:4504071115739": 24,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 47,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 17,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 43,
+      "gas:candidate-vibid:4504071115515": 176,
+      "gas:candidate-vibid:4504071115602": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 617,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 96,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 3,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 36,
-      "Хромов Андрей Анатольевич": 59,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 617,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 96,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 3,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 36,
+      "gas:candidate-vibid:4504071115515": 59,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 489,
-      "Балабанов Виктор Васильевич": 9,
-      "Банов Виктор Васильевич": 2,
-      "Грудинин Павел Николаевич": 57,
-      "Лактюшин Владимир Алексеевич": 2,
-      "Ожерельев Виталий Васильевич": 1,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 7,
-      "Хромов Андрей Анатольевич": 147,
-      "Чистюхин Игорь Васильевич": 6
+      "gas:candidate-vibid:4504071115725": 489,
+      "gas:candidate-vibid:4504071115739": 9,
+      "gas:candidate-vibid:4504071115820": 2,
+      "gas:candidate-vibid:4504071115807": 57,
+      "gas:candidate-vibid:4504071140331": 2,
+      "gas:candidate-vibid:4504071115713": 1,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 7,
+      "gas:candidate-vibid:4504071115515": 147,
+      "gas:candidate-vibid:4504071115602": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 610,
-      "Балабанов Виктор Васильевич": 9,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 42,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 13,
-      "Тропина Людмила Ивановна": 38,
-      "Хромов Андрей Анатольевич": 188,
-      "Чистюхин Игорь Васильевич": 7
+      "gas:candidate-vibid:4504071115725": 610,
+      "gas:candidate-vibid:4504071115739": 9,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 42,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 13,
+      "gas:candidate-vibid:4504071115755": 38,
+      "gas:candidate-vibid:4504071115515": 188,
+      "gas:candidate-vibid:4504071115602": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 781,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 33,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 13,
-      "Тропина Людмила Ивановна": 29,
-      "Хромов Андрей Анатольевич": 202,
-      "Чистюхин Игорь Васильевич": 38
+      "gas:candidate-vibid:4504071115725": 781,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 33,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 13,
+      "gas:candidate-vibid:4504071115755": 29,
+      "gas:candidate-vibid:4504071115515": 202,
+      "gas:candidate-vibid:4504071115602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 513,
-      "Балабанов Виктор Васильевич": 17,
-      "Банов Виктор Васильевич": 4,
-      "Грудинин Павел Николаевич": 71,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 25,
-      "Хромов Андрей Анатольевич": 121,
-      "Чистюхин Игорь Васильевич": 23
+      "gas:candidate-vibid:4504071115725": 513,
+      "gas:candidate-vibid:4504071115739": 17,
+      "gas:candidate-vibid:4504071115820": 4,
+      "gas:candidate-vibid:4504071115807": 71,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 25,
+      "gas:candidate-vibid:4504071115515": 121,
+      "gas:candidate-vibid:4504071115602": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 253,
-      "Балабанов Виктор Васильевич": 40,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 85,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 22,
-      "Тропина Людмила Ивановна": 34,
-      "Хромов Андрей Анатольевич": 66,
-      "Чистюхин Игорь Васильевич": 39
+      "gas:candidate-vibid:4504071115725": 253,
+      "gas:candidate-vibid:4504071115739": 40,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 85,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 22,
+      "gas:candidate-vibid:4504071115755": 34,
+      "gas:candidate-vibid:4504071115515": 66,
+      "gas:candidate-vibid:4504071115602": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 366,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 15,
-      "Грудинин Павел Николаевич": 123,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 76,
-      "Чистюхин Игорь Васильевич": 46
+      "gas:candidate-vibid:4504071115725": 366,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 15,
+      "gas:candidate-vibid:4504071115807": 123,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 76,
+      "gas:candidate-vibid:4504071115602": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 357,
-      "Балабанов Виктор Васильевич": 37,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 112,
-      "Лактюшин Владимир Алексеевич": 22,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 48,
-      "Хромов Андрей Анатольевич": 73,
-      "Чистюхин Игорь Васильевич": 33
+      "gas:candidate-vibid:4504071115725": 357,
+      "gas:candidate-vibid:4504071115739": 37,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 112,
+      "gas:candidate-vibid:4504071140331": 22,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 48,
+      "gas:candidate-vibid:4504071115515": 73,
+      "gas:candidate-vibid:4504071115602": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 302,
-      "Балабанов Виктор Васильевич": 6,
-      "Банов Виктор Васильевич": 25,
-      "Грудинин Павел Николаевич": 39,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 11,
-      "Хромов Андрей Анатольевич": 52,
-      "Чистюхин Игорь Васильевич": 11
+      "gas:candidate-vibid:4504071115725": 302,
+      "gas:candidate-vibid:4504071115739": 6,
+      "gas:candidate-vibid:4504071115820": 25,
+      "gas:candidate-vibid:4504071115807": 39,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 11,
+      "gas:candidate-vibid:4504071115515": 52,
+      "gas:candidate-vibid:4504071115602": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 901,
-      "Балабанов Виктор Васильевич": 33,
-      "Банов Виктор Васильевич": 32,
-      "Грудинин Павел Николаевич": 104,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 19,
-      "Тропина Людмила Ивановна": 31,
-      "Хромов Андрей Анатольевич": 71,
-      "Чистюхин Игорь Васильевич": 30
+      "gas:candidate-vibid:4504071115725": 901,
+      "gas:candidate-vibid:4504071115739": 33,
+      "gas:candidate-vibid:4504071115820": 32,
+      "gas:candidate-vibid:4504071115807": 104,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 19,
+      "gas:candidate-vibid:4504071115755": 31,
+      "gas:candidate-vibid:4504071115515": 71,
+      "gas:candidate-vibid:4504071115602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 292,
-      "Балабанов Виктор Васильевич": 36,
-      "Банов Виктор Васильевич": 16,
-      "Грудинин Павел Николаевич": 91,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 33,
-      "Хромов Андрей Анатольевич": 80,
-      "Чистюхин Игорь Васильевич": 32
+      "gas:candidate-vibid:4504071115725": 292,
+      "gas:candidate-vibid:4504071115739": 36,
+      "gas:candidate-vibid:4504071115820": 16,
+      "gas:candidate-vibid:4504071115807": 91,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 33,
+      "gas:candidate-vibid:4504071115515": 80,
+      "gas:candidate-vibid:4504071115602": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 246,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 5,
-      "Грудинин Павел Николаевич": 61,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 29,
-      "Хромов Андрей Анатольевич": 74,
-      "Чистюхин Игорь Васильевич": 27
+      "gas:candidate-vibid:4504071115725": 246,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 5,
+      "gas:candidate-vibid:4504071115807": 61,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 29,
+      "gas:candidate-vibid:4504071115515": 74,
+      "gas:candidate-vibid:4504071115602": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 225,
-      "Балабанов Виктор Васильевич": 38,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 97,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 20,
-      "Хромов Андрей Анатольевич": 64,
-      "Чистюхин Игорь Васильевич": 44
+      "gas:candidate-vibid:4504071115725": 225,
+      "gas:candidate-vibid:4504071115739": 38,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 97,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 20,
+      "gas:candidate-vibid:4504071115515": 64,
+      "gas:candidate-vibid:4504071115602": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 192,
-      "Балабанов Виктор Васильевич": 44,
-      "Банов Виктор Васильевич": 16,
-      "Грудинин Павел Николаевич": 82,
-      "Лактюшин Владимир Алексеевич": 14,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 25,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 61,
-      "Чистюхин Игорь Васильевич": 41
+      "gas:candidate-vibid:4504071115725": 192,
+      "gas:candidate-vibid:4504071115739": 44,
+      "gas:candidate-vibid:4504071115820": 16,
+      "gas:candidate-vibid:4504071115807": 82,
+      "gas:candidate-vibid:4504071140331": 14,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 25,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 61,
+      "gas:candidate-vibid:4504071115602": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 269,
-      "Балабанов Виктор Васильевич": 24,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 38,
-      "Лактюшин Владимир Алексеевич": 3,
-      "Ожерельев Виталий Васильевич": 3,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 65,
-      "Чистюхин Игорь Васильевич": 11
+      "gas:candidate-vibid:4504071115725": 269,
+      "gas:candidate-vibid:4504071115739": 24,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 38,
+      "gas:candidate-vibid:4504071140331": 3,
+      "gas:candidate-vibid:4504071115713": 3,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 65,
+      "gas:candidate-vibid:4504071115602": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 426,
-      "Балабанов Виктор Васильевич": 10,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 80,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 17,
-      "Тропина Людмила Ивановна": 45,
-      "Хромов Андрей Анатольевич": 70,
-      "Чистюхин Игорь Васильевич": 15
+      "gas:candidate-vibid:4504071115725": 426,
+      "gas:candidate-vibid:4504071115739": 10,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 80,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 17,
+      "gas:candidate-vibid:4504071115755": 45,
+      "gas:candidate-vibid:4504071115515": 70,
+      "gas:candidate-vibid:4504071115602": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 431,
-      "Балабанов Виктор Васильевич": 45,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 86,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 66,
-      "Чистюхин Игорь Васильевич": 41
+      "gas:candidate-vibid:4504071115725": 431,
+      "gas:candidate-vibid:4504071115739": 45,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 86,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 66,
+      "gas:candidate-vibid:4504071115602": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 936,
-      "Балабанов Виктор Васильевич": 56,
-      "Банов Виктор Васильевич": 27,
-      "Грудинин Павел Николаевич": 76,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 30,
-      "Хромов Андрей Анатольевич": 75,
-      "Чистюхин Игорь Васильевич": 27
+      "gas:candidate-vibid:4504071115725": 936,
+      "gas:candidate-vibid:4504071115739": 56,
+      "gas:candidate-vibid:4504071115820": 27,
+      "gas:candidate-vibid:4504071115807": 76,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 30,
+      "gas:candidate-vibid:4504071115515": 75,
+      "gas:candidate-vibid:4504071115602": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 937,
-      "Балабанов Виктор Васильевич": 53,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 80,
-      "Лактюшин Владимир Алексеевич": 31,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 28,
-      "Тропина Людмила Ивановна": 33,
-      "Хромов Андрей Анатольевич": 168,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 937,
+      "gas:candidate-vibid:4504071115739": 53,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 80,
+      "gas:candidate-vibid:4504071140331": 31,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 28,
+      "gas:candidate-vibid:4504071115755": 33,
+      "gas:candidate-vibid:4504071115515": 168,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 366,
-      "Балабанов Виктор Васильевич": 61,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 78,
-      "Лактюшин Владимир Алексеевич": 48,
-      "Ожерельев Виталий Васильевич": 30,
-      "Сольский Олег Петрович": 31,
-      "Тропина Людмила Ивановна": 50,
-      "Хромов Андрей Анатольевич": 153,
-      "Чистюхин Игорь Васильевич": 46
+      "gas:candidate-vibid:4504071115725": 366,
+      "gas:candidate-vibid:4504071115739": 61,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 78,
+      "gas:candidate-vibid:4504071140331": 48,
+      "gas:candidate-vibid:4504071115713": 30,
+      "gas:candidate-vibid:4504071115698": 31,
+      "gas:candidate-vibid:4504071115755": 50,
+      "gas:candidate-vibid:4504071115515": 153,
+      "gas:candidate-vibid:4504071115602": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 811,
-      "Балабанов Виктор Васильевич": 15,
-      "Банов Виктор Васильевич": 25,
-      "Грудинин Павел Николаевич": 61,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 82,
-      "Тропина Людмила Ивановна": 65,
-      "Хромов Андрей Анатольевич": 79,
-      "Чистюхин Игорь Васильевич": 71
+      "gas:candidate-vibid:4504071115725": 811,
+      "gas:candidate-vibid:4504071115739": 15,
+      "gas:candidate-vibid:4504071115820": 25,
+      "gas:candidate-vibid:4504071115807": 61,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 82,
+      "gas:candidate-vibid:4504071115755": 65,
+      "gas:candidate-vibid:4504071115515": 79,
+      "gas:candidate-vibid:4504071115602": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 493,
-      "Балабанов Виктор Васильевич": 15,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 86,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 21,
-      "Хромов Андрей Анатольевич": 96,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 493,
+      "gas:candidate-vibid:4504071115739": 15,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 86,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 21,
+      "gas:candidate-vibid:4504071115515": 96,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 299,
-      "Балабанов Виктор Васильевич": 13,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 55,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 204,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 299,
+      "gas:candidate-vibid:4504071115739": 13,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 55,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 204,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 541,
-      "Балабанов Виктор Васильевич": 26,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 67,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 29,
-      "Хромов Андрей Анатольевич": 83,
-      "Чистюхин Игорь Васильевич": 16
+      "gas:candidate-vibid:4504071115725": 541,
+      "gas:candidate-vibid:4504071115739": 26,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 67,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 29,
+      "gas:candidate-vibid:4504071115515": 83,
+      "gas:candidate-vibid:4504071115602": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 584,
-      "Балабанов Виктор Васильевич": 23,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 80,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 93,
-      "Чистюхин Игорь Васильевич": 29
+      "gas:candidate-vibid:4504071115725": 584,
+      "gas:candidate-vibid:4504071115739": 23,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 80,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 93,
+      "gas:candidate-vibid:4504071115602": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 207,
-      "Балабанов Виктор Васильевич": 26,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 69,
-      "Лактюшин Владимир Алексеевич": 21,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 73,
-      "Чистюхин Игорь Васильевич": 35
+      "gas:candidate-vibid:4504071115725": 207,
+      "gas:candidate-vibid:4504071115739": 26,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 69,
+      "gas:candidate-vibid:4504071140331": 21,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 73,
+      "gas:candidate-vibid:4504071115602": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 95,
-      "Балабанов Виктор Васильевич": 6,
-      "Банов Виктор Васильевич": 3,
-      "Грудинин Павел Николаевич": 19,
-      "Лактюшин Владимир Алексеевич": 1,
-      "Ожерельев Виталий Васильевич": 1,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 17,
-      "Хромов Андрей Анатольевич": 25,
-      "Чистюхин Игорь Васильевич": 8
+      "gas:candidate-vibid:4504071115725": 95,
+      "gas:candidate-vibid:4504071115739": 6,
+      "gas:candidate-vibid:4504071115820": 3,
+      "gas:candidate-vibid:4504071115807": 19,
+      "gas:candidate-vibid:4504071140331": 1,
+      "gas:candidate-vibid:4504071115713": 1,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 17,
+      "gas:candidate-vibid:4504071115515": 25,
+      "gas:candidate-vibid:4504071115602": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 116,
-      "Балабанов Виктор Васильевич": 7,
-      "Банов Виктор Васильевич": 10,
-      "Грудинин Павел Николаевич": 20,
-      "Лактюшин Владимир Алексеевич": 5,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 7,
-      "Хромов Андрей Анатольевич": 27,
-      "Чистюхин Игорь Васильевич": 8
+      "gas:candidate-vibid:4504071115725": 116,
+      "gas:candidate-vibid:4504071115739": 7,
+      "gas:candidate-vibid:4504071115820": 10,
+      "gas:candidate-vibid:4504071115807": 20,
+      "gas:candidate-vibid:4504071140331": 5,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 7,
+      "gas:candidate-vibid:4504071115515": 27,
+      "gas:candidate-vibid:4504071115602": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 158,
-      "Балабанов Виктор Васильевич": 18,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 62,
-      "Лактюшин Владимир Алексеевич": 7,
-      "Ожерельев Виталий Васильевич": 3,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 23,
-      "Хромов Андрей Анатольевич": 29,
-      "Чистюхин Игорь Васильевич": 14
+      "gas:candidate-vibid:4504071115725": 158,
+      "gas:candidate-vibid:4504071115739": 18,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 62,
+      "gas:candidate-vibid:4504071140331": 7,
+      "gas:candidate-vibid:4504071115713": 3,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 23,
+      "gas:candidate-vibid:4504071115515": 29,
+      "gas:candidate-vibid:4504071115602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 138,
-      "Балабанов Виктор Васильевич": 17,
-      "Банов Виктор Васильевич": 14,
-      "Грудинин Павел Николаевич": 52,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 2,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 29,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 138,
+      "gas:candidate-vibid:4504071115739": 17,
+      "gas:candidate-vibid:4504071115820": 14,
+      "gas:candidate-vibid:4504071115807": 52,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 2,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 29,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 133,
-      "Балабанов Виктор Васильевич": 13,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 46,
-      "Лактюшин Владимир Алексеевич": 7,
-      "Ожерельев Виталий Васильевич": 3,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 27,
-      "Хромов Андрей Анатольевич": 40,
-      "Чистюхин Игорь Васильевич": 12
+      "gas:candidate-vibid:4504071115725": 133,
+      "gas:candidate-vibid:4504071115739": 13,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 46,
+      "gas:candidate-vibid:4504071140331": 7,
+      "gas:candidate-vibid:4504071115713": 3,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 27,
+      "gas:candidate-vibid:4504071115515": 40,
+      "gas:candidate-vibid:4504071115602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 216,
-      "Балабанов Виктор Васильевич": 18,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 23,
-      "Лактюшин Владимир Алексеевич": 14,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 2,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 5,
-      "Чистюхин Игорь Васильевич": 14
+      "gas:candidate-vibid:4504071115725": 216,
+      "gas:candidate-vibid:4504071115739": 18,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 23,
+      "gas:candidate-vibid:4504071140331": 14,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 2,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 5,
+      "gas:candidate-vibid:4504071115602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 168,
-      "Балабанов Виктор Васильевич": 11,
-      "Банов Виктор Васильевич": 6,
-      "Грудинин Павел Николаевич": 26,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 8,
-      "Хромов Андрей Анатольевич": 22,
-      "Чистюхин Игорь Васильевич": 10
+      "gas:candidate-vibid:4504071115725": 168,
+      "gas:candidate-vibid:4504071115739": 11,
+      "gas:candidate-vibid:4504071115820": 6,
+      "gas:candidate-vibid:4504071115807": 26,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 8,
+      "gas:candidate-vibid:4504071115515": 22,
+      "gas:candidate-vibid:4504071115602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 148,
-      "Балабанов Виктор Васильевич": 22,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 47,
-      "Лактюшин Владимир Алексеевич": 5,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 37,
-      "Чистюхин Игорь Васильевич": 10
+      "gas:candidate-vibid:4504071115725": 148,
+      "gas:candidate-vibid:4504071115739": 22,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 47,
+      "gas:candidate-vibid:4504071140331": 5,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 37,
+      "gas:candidate-vibid:4504071115602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 95,
-      "Балабанов Виктор Васильевич": 29,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 43,
-      "Лактюшин Владимир Алексеевич": 11,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 20,
-      "Чистюхин Игорь Васильевич": 16
+      "gas:candidate-vibid:4504071115725": 95,
+      "gas:candidate-vibid:4504071115739": 29,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 43,
+      "gas:candidate-vibid:4504071140331": 11,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 20,
+      "gas:candidate-vibid:4504071115602": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 129,
-      "Балабанов Виктор Васильевич": 33,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 66,
-      "Лактюшин Владимир Алексеевич": 20,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 44,
-      "Чистюхин Игорь Васильевич": 12
+      "gas:candidate-vibid:4504071115725": 129,
+      "gas:candidate-vibid:4504071115739": 33,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 66,
+      "gas:candidate-vibid:4504071140331": 20,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 44,
+      "gas:candidate-vibid:4504071115602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 113,
-      "Балабанов Виктор Васильевич": 22,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 32,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 24,
-      "Чистюхин Игорь Васильевич": 8
+      "gas:candidate-vibid:4504071115725": 113,
+      "gas:candidate-vibid:4504071115739": 22,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 32,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 24,
+      "gas:candidate-vibid:4504071115602": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 188,
-      "Балабанов Виктор Васильевич": 14,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 35,
-      "Лактюшин Владимир Алексеевич": 11,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 38,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 188,
+      "gas:candidate-vibid:4504071115739": 14,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 35,
+      "gas:candidate-vibid:4504071140331": 11,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 38,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 152,
-      "Балабанов Виктор Васильевич": 26,
-      "Банов Виктор Васильевич": 5,
-      "Грудинин Павел Николаевич": 29,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 36,
-      "Чистюхин Игорь Васильевич": 11
+      "gas:candidate-vibid:4504071115725": 152,
+      "gas:candidate-vibid:4504071115739": 26,
+      "gas:candidate-vibid:4504071115820": 5,
+      "gas:candidate-vibid:4504071115807": 29,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 36,
+      "gas:candidate-vibid:4504071115602": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 155,
-      "Балабанов Виктор Васильевич": 20,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 46,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 3,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 3,
-      "Хромов Андрей Анатольевич": 21,
-      "Чистюхин Игорь Васильевич": 14
+      "gas:candidate-vibid:4504071115725": 155,
+      "gas:candidate-vibid:4504071115739": 20,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 46,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 3,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 3,
+      "gas:candidate-vibid:4504071115515": 21,
+      "gas:candidate-vibid:4504071115602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 185,
-      "Балабанов Виктор Васильевич": 19,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 38,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 11,
-      "Хромов Андрей Анатольевич": 32,
-      "Чистюхин Игорь Васильевич": 19
+      "gas:candidate-vibid:4504071115725": 185,
+      "gas:candidate-vibid:4504071115739": 19,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 38,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 11,
+      "gas:candidate-vibid:4504071115515": 32,
+      "gas:candidate-vibid:4504071115602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 190,
-      "Балабанов Виктор Васильевич": 9,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 14,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 24,
-      "Чистюхин Игорь Васильевич": 1
+      "gas:candidate-vibid:4504071115725": 190,
+      "gas:candidate-vibid:4504071115739": 9,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 14,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 24,
+      "gas:candidate-vibid:4504071115602": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 174,
-      "Балабанов Виктор Васильевич": 28,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 65,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 20
+      "gas:candidate-vibid:4504071115725": 174,
+      "gas:candidate-vibid:4504071115739": 28,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 65,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 176,
-      "Балабанов Виктор Васильевич": 19,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 54,
-      "Лактюшин Владимир Алексеевич": 11,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 38,
-      "Чистюхин Игорь Васильевич": 27
+      "gas:candidate-vibid:4504071115725": 176,
+      "gas:candidate-vibid:4504071115739": 19,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 54,
+      "gas:candidate-vibid:4504071140331": 11,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 38,
+      "gas:candidate-vibid:4504071115602": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 208,
-      "Балабанов Виктор Васильевич": 8,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 41,
-      "Лактюшин Владимир Алексеевич": 5,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 37,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 208,
+      "gas:candidate-vibid:4504071115739": 8,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 41,
+      "gas:candidate-vibid:4504071140331": 5,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 37,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 113,
-      "Балабанов Виктор Васильевич": 13,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 39,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 28,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 113,
+      "gas:candidate-vibid:4504071115739": 13,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 39,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 28,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 159,
-      "Балабанов Виктор Васильевич": 17,
-      "Банов Виктор Васильевич": 10,
-      "Грудинин Павел Николаевич": 49,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 2,
-      "Тропина Людмила Ивановна": 21,
-      "Хромов Андрей Анатольевич": 32,
-      "Чистюхин Игорь Васильевич": 24
+      "gas:candidate-vibid:4504071115725": 159,
+      "gas:candidate-vibid:4504071115739": 17,
+      "gas:candidate-vibid:4504071115820": 10,
+      "gas:candidate-vibid:4504071115807": 49,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 2,
+      "gas:candidate-vibid:4504071115755": 21,
+      "gas:candidate-vibid:4504071115515": 32,
+      "gas:candidate-vibid:4504071115602": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 149,
-      "Балабанов Виктор Васильевич": 6,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 12,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 6,
-      "Хромов Андрей Анатольевич": 21,
-      "Чистюхин Игорь Васильевич": 8
+      "gas:candidate-vibid:4504071115725": 149,
+      "gas:candidate-vibid:4504071115739": 6,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 12,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 6,
+      "gas:candidate-vibid:4504071115515": 21,
+      "gas:candidate-vibid:4504071115602": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 335,
-      "Балабанов Виктор Васильевич": 13,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 35,
-      "Лактюшин Владимир Алексеевич": 5,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 7,
-      "Хромов Андрей Анатольевич": 13,
-      "Чистюхин Игорь Васильевич": 5
+      "gas:candidate-vibid:4504071115725": 335,
+      "gas:candidate-vibid:4504071115739": 13,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 35,
+      "gas:candidate-vibid:4504071140331": 5,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 7,
+      "gas:candidate-vibid:4504071115515": 13,
+      "gas:candidate-vibid:4504071115602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 170,
-      "Балабанов Виктор Васильевич": 9,
-      "Банов Виктор Васильевич": 11,
-      "Грудинин Павел Николаевич": 5,
-      "Лактюшин Владимир Алексеевич": 3,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 18,
-      "Чистюхин Игорь Васильевич": 5
+      "gas:candidate-vibid:4504071115725": 170,
+      "gas:candidate-vibid:4504071115739": 9,
+      "gas:candidate-vibid:4504071115820": 11,
+      "gas:candidate-vibid:4504071115807": 5,
+      "gas:candidate-vibid:4504071140331": 3,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 18,
+      "gas:candidate-vibid:4504071115602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 167,
-      "Балабанов Виктор Васильевич": 12,
-      "Банов Виктор Васильевич": 3,
-      "Грудинин Павел Николаевич": 10,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 10,
-      "Чистюхин Игорь Васильевич": 12
+      "gas:candidate-vibid:4504071115725": 167,
+      "gas:candidate-vibid:4504071115739": 12,
+      "gas:candidate-vibid:4504071115820": 3,
+      "gas:candidate-vibid:4504071115807": 10,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 10,
+      "gas:candidate-vibid:4504071115602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 122,
-      "Балабанов Виктор Васильевич": 7,
-      "Банов Виктор Васильевич": 2,
-      "Грудинин Павел Николаевич": 12,
-      "Лактюшин Владимир Алексеевич": 1,
-      "Ожерельев Виталий Васильевич": 1,
-      "Сольский Олег Петрович": 2,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 7,
-      "Чистюхин Игорь Васильевич": 5
+      "gas:candidate-vibid:4504071115725": 122,
+      "gas:candidate-vibid:4504071115739": 7,
+      "gas:candidate-vibid:4504071115820": 2,
+      "gas:candidate-vibid:4504071115807": 12,
+      "gas:candidate-vibid:4504071140331": 1,
+      "gas:candidate-vibid:4504071115713": 1,
+      "gas:candidate-vibid:4504071115698": 2,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 7,
+      "gas:candidate-vibid:4504071115602": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 198,
-      "Балабанов Виктор Васильевич": 7,
-      "Банов Виктор Васильевич": 6,
-      "Грудинин Павел Николаевич": 31,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 3,
-      "Хромов Андрей Анатольевич": 14,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 198,
+      "gas:candidate-vibid:4504071115739": 7,
+      "gas:candidate-vibid:4504071115820": 6,
+      "gas:candidate-vibid:4504071115807": 31,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 3,
+      "gas:candidate-vibid:4504071115515": 14,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 106,
-      "Балабанов Виктор Васильевич": 6,
-      "Банов Виктор Васильевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Лактюшин Владимир Алексеевич": 2,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 1,
-      "Тропина Людмила Ивановна": 1,
-      "Хромов Андрей Анатольевич": 14,
-      "Чистюхин Игорь Васильевич": 1
+      "gas:candidate-vibid:4504071115725": 106,
+      "gas:candidate-vibid:4504071115739": 6,
+      "gas:candidate-vibid:4504071115820": 1,
+      "gas:candidate-vibid:4504071115807": 15,
+      "gas:candidate-vibid:4504071140331": 2,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 1,
+      "gas:candidate-vibid:4504071115755": 1,
+      "gas:candidate-vibid:4504071115515": 14,
+      "gas:candidate-vibid:4504071115602": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 173,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 58,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 7,
-      "Хромов Андрей Анатольевич": 17,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 173,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 58,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 7,
+      "gas:candidate-vibid:4504071115515": 17,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 196,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 10,
-      "Грудинин Павел Николаевич": 80,
-      "Лактюшин Владимир Алексеевич": 2,
-      "Ожерельев Виталий Васильевич": 1,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 17,
-      "Чистюхин Игорь Васильевич": 21
+      "gas:candidate-vibid:4504071115725": 196,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 10,
+      "gas:candidate-vibid:4504071115807": 80,
+      "gas:candidate-vibid:4504071140331": 2,
+      "gas:candidate-vibid:4504071115713": 1,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 17,
+      "gas:candidate-vibid:4504071115602": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 336,
-      "Балабанов Виктор Васильевич": 11,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 24,
-      "Лактюшин Владимир Алексеевич": 6,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 25,
-      "Чистюхин Игорь Васильевич": 9
+      "gas:candidate-vibid:4504071115725": 336,
+      "gas:candidate-vibid:4504071115739": 11,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 24,
+      "gas:candidate-vibid:4504071140331": 6,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 25,
+      "gas:candidate-vibid:4504071115602": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 229,
-      "Балабанов Виктор Васильевич": 29,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 45,
-      "Лактюшин Владимир Алексеевич": 8,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 7,
-      "Хромов Андрей Анатольевич": 23,
-      "Чистюхин Игорь Васильевич": 12
+      "gas:candidate-vibid:4504071115725": 229,
+      "gas:candidate-vibid:4504071115739": 29,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 45,
+      "gas:candidate-vibid:4504071140331": 8,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 7,
+      "gas:candidate-vibid:4504071115515": 23,
+      "gas:candidate-vibid:4504071115602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 216,
-      "Балабанов Виктор Васильевич": 15,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 69,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 18,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 13,
-      "Чистюхин Игорь Васильевич": 29
+      "gas:candidate-vibid:4504071115725": 216,
+      "gas:candidate-vibid:4504071115739": 15,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 69,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 18,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 13,
+      "gas:candidate-vibid:4504071115602": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 185,
-      "Балабанов Виктор Васильевич": 9,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 36,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 2,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 8,
-      "Хромов Андрей Анатольевич": 19,
-      "Чистюхин Игорь Васильевич": 15
+      "gas:candidate-vibid:4504071115725": 185,
+      "gas:candidate-vibid:4504071115739": 9,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 36,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 2,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 8,
+      "gas:candidate-vibid:4504071115515": 19,
+      "gas:candidate-vibid:4504071115602": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 397,
-      "Балабанов Виктор Васильевич": 22,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 79,
-      "Лактюшин Владимир Алексеевич": 28,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 49,
-      "Чистюхин Игорь Васильевич": 26
+      "gas:candidate-vibid:4504071115725": 397,
+      "gas:candidate-vibid:4504071115739": 22,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 79,
+      "gas:candidate-vibid:4504071140331": 28,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 49,
+      "gas:candidate-vibid:4504071115602": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 290,
-      "Балабанов Виктор Васильевич": 25,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 55,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 2,
-      "Тропина Людмила Ивановна": 5,
-      "Хромов Андрей Анатольевич": 20,
-      "Чистюхин Игорь Васильевич": 13
+      "gas:candidate-vibid:4504071115725": 290,
+      "gas:candidate-vibid:4504071115739": 25,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 55,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 2,
+      "gas:candidate-vibid:4504071115755": 5,
+      "gas:candidate-vibid:4504071115515": 20,
+      "gas:candidate-vibid:4504071115602": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 309,
-      "Балабанов Виктор Васильевич": 24,
-      "Банов Виктор Васильевич": 16,
-      "Грудинин Павел Николаевич": 48,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 34,
-      "Чистюхин Игорь Васильевич": 14
+      "gas:candidate-vibid:4504071115725": 309,
+      "gas:candidate-vibid:4504071115739": 24,
+      "gas:candidate-vibid:4504071115820": 16,
+      "gas:candidate-vibid:4504071115807": 48,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 34,
+      "gas:candidate-vibid:4504071115602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 259,
-      "Балабанов Виктор Васильевич": 23,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 73,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 4,
-      "Тропина Людмила Ивановна": 6,
-      "Хромов Андрей Анатольевич": 25,
-      "Чистюхин Игорь Васильевич": 13
+      "gas:candidate-vibid:4504071115725": 259,
+      "gas:candidate-vibid:4504071115739": 23,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 73,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 4,
+      "gas:candidate-vibid:4504071115755": 6,
+      "gas:candidate-vibid:4504071115515": 25,
+      "gas:candidate-vibid:4504071115602": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 252,
-      "Балабанов Виктор Васильевич": 15,
-      "Банов Виктор Васильевич": 16,
-      "Грудинин Павел Николаевич": 81,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 28,
-      "Чистюхин Игорь Васильевич": 22
+      "gas:candidate-vibid:4504071115725": 252,
+      "gas:candidate-vibid:4504071115739": 15,
+      "gas:candidate-vibid:4504071115820": 16,
+      "gas:candidate-vibid:4504071115807": 81,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 28,
+      "gas:candidate-vibid:4504071115602": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 311,
-      "Балабанов Виктор Васильевич": 26,
-      "Банов Виктор Васильевич": 36,
-      "Грудинин Павел Николаевич": 95,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 31,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 33
+      "gas:candidate-vibid:4504071115725": 311,
+      "gas:candidate-vibid:4504071115739": 26,
+      "gas:candidate-vibid:4504071115820": 36,
+      "gas:candidate-vibid:4504071115807": 95,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 31,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 336,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 79,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 18,
-      "Хромов Андрей Анатольевич": 37,
-      "Чистюхин Игорь Васильевич": 25
+      "gas:candidate-vibid:4504071115725": 336,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 79,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 18,
+      "gas:candidate-vibid:4504071115515": 37,
+      "gas:candidate-vibid:4504071115602": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 546,
-      "Балабанов Виктор Васильевич": 25,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 82,
-      "Лактюшин Владимир Алексеевич": 20,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 20,
-      "Хромов Андрей Анатольевич": 57,
-      "Чистюхин Игорь Васильевич": 31
+      "gas:candidate-vibid:4504071115725": 546,
+      "gas:candidate-vibid:4504071115739": 25,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 82,
+      "gas:candidate-vibid:4504071140331": 20,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 20,
+      "gas:candidate-vibid:4504071115515": 57,
+      "gas:candidate-vibid:4504071115602": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 547,
-      "Балабанов Виктор Васильевич": 22,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 72,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 21,
-      "Хромов Андрей Анатольевич": 50,
-      "Чистюхин Игорь Васильевич": 24
+      "gas:candidate-vibid:4504071115725": 547,
+      "gas:candidate-vibid:4504071115739": 22,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 72,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 21,
+      "gas:candidate-vibid:4504071115515": 50,
+      "gas:candidate-vibid:4504071115602": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 329,
-      "Балабанов Виктор Васильевич": 37,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 114,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 18,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 67,
-      "Чистюхин Игорь Васильевич": 35
+      "gas:candidate-vibid:4504071115725": 329,
+      "gas:candidate-vibid:4504071115739": 37,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 114,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 18,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 67,
+      "gas:candidate-vibid:4504071115602": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 458,
-      "Балабанов Виктор Васильевич": 45,
-      "Банов Виктор Васильевич": 7,
-      "Грудинин Павел Николаевич": 108,
-      "Лактюшин Владимир Алексеевич": 14,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 55,
-      "Чистюхин Игорь Васильевич": 32
+      "gas:candidate-vibid:4504071115725": 458,
+      "gas:candidate-vibid:4504071115739": 45,
+      "gas:candidate-vibid:4504071115820": 7,
+      "gas:candidate-vibid:4504071115807": 108,
+      "gas:candidate-vibid:4504071140331": 14,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 55,
+      "gas:candidate-vibid:4504071115602": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 269,
-      "Балабанов Виктор Васильевич": 32,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 97,
-      "Лактюшин Владимир Алексеевич": 14,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 23,
-      "Хромов Андрей Анатольевич": 58,
-      "Чистюхин Игорь Васильевич": 25
+      "gas:candidate-vibid:4504071115725": 269,
+      "gas:candidate-vibid:4504071115739": 32,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 97,
+      "gas:candidate-vibid:4504071140331": 14,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 23,
+      "gas:candidate-vibid:4504071115515": 58,
+      "gas:candidate-vibid:4504071115602": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 337,
-      "Балабанов Виктор Васильевич": 41,
-      "Банов Виктор Васильевич": 39,
-      "Грудинин Павел Николаевич": 207,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 18,
-      "Тропина Людмила Ивановна": 30,
-      "Хромов Андрей Анатольевич": 72,
-      "Чистюхин Игорь Васильевич": 40
+      "gas:candidate-vibid:4504071115725": 337,
+      "gas:candidate-vibid:4504071115739": 41,
+      "gas:candidate-vibid:4504071115820": 39,
+      "gas:candidate-vibid:4504071115807": 207,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 18,
+      "gas:candidate-vibid:4504071115755": 30,
+      "gas:candidate-vibid:4504071115515": 72,
+      "gas:candidate-vibid:4504071115602": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 451,
-      "Балабанов Виктор Васильевич": 45,
-      "Банов Виктор Васильевич": 42,
-      "Грудинин Павел Николаевич": 173,
-      "Лактюшин Владимир Алексеевич": 30,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 18,
-      "Тропина Людмила Ивановна": 32,
-      "Хромов Андрей Анатольевич": 78,
-      "Чистюхин Игорь Васильевич": 31
+      "gas:candidate-vibid:4504071115725": 451,
+      "gas:candidate-vibid:4504071115739": 45,
+      "gas:candidate-vibid:4504071115820": 42,
+      "gas:candidate-vibid:4504071115807": 173,
+      "gas:candidate-vibid:4504071140331": 30,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 18,
+      "gas:candidate-vibid:4504071115755": 32,
+      "gas:candidate-vibid:4504071115515": 78,
+      "gas:candidate-vibid:4504071115602": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 286,
-      "Балабанов Виктор Васильевич": 43,
-      "Банов Виктор Васильевич": 15,
-      "Грудинин Павел Николаевич": 54,
-      "Лактюшин Владимир Алексеевич": 26,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 99,
-      "Чистюхин Игорь Васильевич": 26
+      "gas:candidate-vibid:4504071115725": 286,
+      "gas:candidate-vibid:4504071115739": 43,
+      "gas:candidate-vibid:4504071115820": 15,
+      "gas:candidate-vibid:4504071115807": 54,
+      "gas:candidate-vibid:4504071140331": 26,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 99,
+      "gas:candidate-vibid:4504071115602": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 896,
-      "Балабанов Виктор Васильевич": 57,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 81,
-      "Лактюшин Владимир Алексеевич": 11,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 22,
-      "Тропина Людмила Ивановна": 36,
-      "Хромов Андрей Анатольевич": 127,
-      "Чистюхин Игорь Васильевич": 22
+      "gas:candidate-vibid:4504071115725": 896,
+      "gas:candidate-vibid:4504071115739": 57,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 81,
+      "gas:candidate-vibid:4504071140331": 11,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 22,
+      "gas:candidate-vibid:4504071115755": 36,
+      "gas:candidate-vibid:4504071115515": 127,
+      "gas:candidate-vibid:4504071115602": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 727,
-      "Балабанов Виктор Васильевич": 54,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 94,
-      "Лактюшин Владимир Алексеевич": 29,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 38,
-      "Тропина Людмила Ивановна": 55,
-      "Хромов Андрей Анатольевич": 71,
-      "Чистюхин Игорь Васильевич": 32
+      "gas:candidate-vibid:4504071115725": 727,
+      "gas:candidate-vibid:4504071115739": 54,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 94,
+      "gas:candidate-vibid:4504071140331": 29,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 38,
+      "gas:candidate-vibid:4504071115755": 55,
+      "gas:candidate-vibid:4504071115515": 71,
+      "gas:candidate-vibid:4504071115602": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 118,
-      "Балабанов Виктор Васильевич": 18,
-      "Банов Виктор Васильевич": 4,
-      "Грудинин Павел Николаевич": 20,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 8,
-      "Хромов Андрей Анатольевич": 37,
-      "Чистюхин Игорь Васильевич": 10
+      "gas:candidate-vibid:4504071115725": 118,
+      "gas:candidate-vibid:4504071115739": 18,
+      "gas:candidate-vibid:4504071115820": 4,
+      "gas:candidate-vibid:4504071115807": 20,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 8,
+      "gas:candidate-vibid:4504071115515": 37,
+      "gas:candidate-vibid:4504071115602": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005547&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005547&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 321,
-      "Балабанов Виктор Васильевич": 36,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 136,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 24,
-      "Сольский Олег Петрович": 29,
-      "Тропина Людмила Ивановна": 27,
-      "Хромов Андрей Анатольевич": 74,
-      "Чистюхин Игорь Васильевич": 45
+      "gas:candidate-vibid:4504071115725": 321,
+      "gas:candidate-vibid:4504071115739": 36,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 136,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 24,
+      "gas:candidate-vibid:4504071115698": 29,
+      "gas:candidate-vibid:4504071115755": 27,
+      "gas:candidate-vibid:4504071115515": 74,
+      "gas:candidate-vibid:4504071115602": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 256,
-      "Балабанов Виктор Васильевич": 26,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 135,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 28,
-      "Хромов Андрей Анатольевич": 64,
-      "Чистюхин Игорь Васильевич": 40
+      "gas:candidate-vibid:4504071115725": 256,
+      "gas:candidate-vibid:4504071115739": 26,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 135,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 28,
+      "gas:candidate-vibid:4504071115515": 64,
+      "gas:candidate-vibid:4504071115602": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 296,
-      "Балабанов Виктор Васильевич": 29,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 122,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 18,
-      "Тропина Людмила Ивановна": 27,
-      "Хромов Андрей Анатольевич": 61,
-      "Чистюхин Игорь Васильевич": 27
+      "gas:candidate-vibid:4504071115725": 296,
+      "gas:candidate-vibid:4504071115739": 29,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 122,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 18,
+      "gas:candidate-vibid:4504071115755": 27,
+      "gas:candidate-vibid:4504071115515": 61,
+      "gas:candidate-vibid:4504071115602": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 365,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 28,
-      "Грудинин Павел Николаевич": 158,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 25,
-      "Хромов Андрей Анатольевич": 87,
-      "Чистюхин Игорь Васильевич": 32
+      "gas:candidate-vibid:4504071115725": 365,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 28,
+      "gas:candidate-vibid:4504071115807": 158,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 25,
+      "gas:candidate-vibid:4504071115515": 87,
+      "gas:candidate-vibid:4504071115602": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 347,
-      "Балабанов Виктор Васильевич": 121,
-      "Банов Виктор Васильевич": 44,
-      "Грудинин Павел Николаевич": 57,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 20,
-      "Сольский Олег Петрович": 34,
-      "Тропина Людмила Ивановна": 17,
-      "Хромов Андрей Анатольевич": 15,
-      "Чистюхин Игорь Васильевич": 12
+      "gas:candidate-vibid:4504071115725": 347,
+      "gas:candidate-vibid:4504071115739": 121,
+      "gas:candidate-vibid:4504071115820": 44,
+      "gas:candidate-vibid:4504071115807": 57,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 20,
+      "gas:candidate-vibid:4504071115698": 34,
+      "gas:candidate-vibid:4504071115755": 17,
+      "gas:candidate-vibid:4504071115515": 15,
+      "gas:candidate-vibid:4504071115602": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 346,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 27,
-      "Грудинин Павел Николаевич": 137,
-      "Лактюшин Владимир Алексеевич": 22,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 49,
-      "Чистюхин Игорь Васильевич": 30
+      "gas:candidate-vibid:4504071115725": 346,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 27,
+      "gas:candidate-vibid:4504071115807": 137,
+      "gas:candidate-vibid:4504071140331": 22,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 49,
+      "gas:candidate-vibid:4504071115602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 377,
-      "Балабанов Виктор Васильевич": 45,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 82,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 21,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 24
+      "gas:candidate-vibid:4504071115725": 377,
+      "gas:candidate-vibid:4504071115739": 45,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 82,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 21,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 361,
-      "Балабанов Виктор Васильевич": 29,
-      "Банов Виктор Васильевич": 32,
-      "Грудинин Павел Николаевич": 171,
-      "Лактюшин Владимир Алексеевич": 34,
-      "Ожерельев Виталий Васильевич": 19,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 33,
-      "Хромов Андрей Анатольевич": 75,
-      "Чистюхин Игорь Васильевич": 50
+      "gas:candidate-vibid:4504071115725": 361,
+      "gas:candidate-vibid:4504071115739": 29,
+      "gas:candidate-vibid:4504071115820": 32,
+      "gas:candidate-vibid:4504071115807": 171,
+      "gas:candidate-vibid:4504071140331": 34,
+      "gas:candidate-vibid:4504071115713": 19,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 33,
+      "gas:candidate-vibid:4504071115515": 75,
+      "gas:candidate-vibid:4504071115602": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 340,
-      "Балабанов Виктор Васильевич": 55,
-      "Банов Виктор Васильевич": 11,
-      "Грудинин Павел Николаевич": 116,
-      "Лактюшин Владимир Алексеевич": 38,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 34,
-      "Тропина Людмила Ивановна": 34,
-      "Хромов Андрей Анатольевич": 64,
-      "Чистюхин Игорь Васильевич": 54
+      "gas:candidate-vibid:4504071115725": 340,
+      "gas:candidate-vibid:4504071115739": 55,
+      "gas:candidate-vibid:4504071115820": 11,
+      "gas:candidate-vibid:4504071115807": 116,
+      "gas:candidate-vibid:4504071140331": 38,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 34,
+      "gas:candidate-vibid:4504071115755": 34,
+      "gas:candidate-vibid:4504071115515": 64,
+      "gas:candidate-vibid:4504071115602": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 693,
-      "Балабанов Виктор Васильевич": 25,
-      "Банов Виктор Васильевич": 25,
-      "Грудинин Павел Николаевич": 133,
-      "Лактюшин Владимир Алексеевич": 20,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 13,
-      "Тропина Людмила Ивановна": 28,
-      "Хромов Андрей Анатольевич": 65,
-      "Чистюхин Игорь Васильевич": 38
+      "gas:candidate-vibid:4504071115725": 693,
+      "gas:candidate-vibid:4504071115739": 25,
+      "gas:candidate-vibid:4504071115820": 25,
+      "gas:candidate-vibid:4504071115807": 133,
+      "gas:candidate-vibid:4504071140331": 20,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 13,
+      "gas:candidate-vibid:4504071115755": 28,
+      "gas:candidate-vibid:4504071115515": 65,
+      "gas:candidate-vibid:4504071115602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005548&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005548&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 153,
-      "Балабанов Виктор Васильевич": 45,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 101,
-      "Лактюшин Владимир Алексеевич": 18,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 33,
-      "Чистюхин Игорь Васильевич": 113
+      "gas:candidate-vibid:4504071115725": 153,
+      "gas:candidate-vibid:4504071115739": 45,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 101,
+      "gas:candidate-vibid:4504071140331": 18,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 33,
+      "gas:candidate-vibid:4504071115602": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 236,
-      "Балабанов Виктор Васильевич": 77,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 159,
-      "Лактюшин Владимир Алексеевич": 29,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 21,
-      "Тропина Людмила Ивановна": 20,
-      "Хромов Андрей Анатольевич": 30,
-      "Чистюхин Игорь Васильевич": 139
+      "gas:candidate-vibid:4504071115725": 236,
+      "gas:candidate-vibid:4504071115739": 77,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 159,
+      "gas:candidate-vibid:4504071140331": 29,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 21,
+      "gas:candidate-vibid:4504071115755": 20,
+      "gas:candidate-vibid:4504071115515": 30,
+      "gas:candidate-vibid:4504071115602": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 250,
-      "Балабанов Виктор Васильевич": 44,
-      "Банов Виктор Васильевич": 21,
-      "Грудинин Павел Николаевич": 100,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 21,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 51,
-      "Чистюхин Игорь Васильевич": 146
+      "gas:candidate-vibid:4504071115725": 250,
+      "gas:candidate-vibid:4504071115739": 44,
+      "gas:candidate-vibid:4504071115820": 21,
+      "gas:candidate-vibid:4504071115807": 100,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 21,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 51,
+      "gas:candidate-vibid:4504071115602": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 209,
-      "Балабанов Виктор Васильевич": 46,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 152,
-      "Лактюшин Владимир Алексеевич": 27,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 20,
-      "Тропина Людмила Ивановна": 18,
-      "Хромов Андрей Анатольевич": 49,
-      "Чистюхин Игорь Васильевич": 109
+      "gas:candidate-vibid:4504071115725": 209,
+      "gas:candidate-vibid:4504071115739": 46,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 152,
+      "gas:candidate-vibid:4504071140331": 27,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 20,
+      "gas:candidate-vibid:4504071115755": 18,
+      "gas:candidate-vibid:4504071115515": 49,
+      "gas:candidate-vibid:4504071115602": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 228,
-      "Балабанов Виктор Васильевич": 49,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 132,
-      "Лактюшин Владимир Алексеевич": 32,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 55,
-      "Чистюхин Игорь Васильевич": 138
+      "gas:candidate-vibid:4504071115725": 228,
+      "gas:candidate-vibid:4504071115739": 49,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 132,
+      "gas:candidate-vibid:4504071140331": 32,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 55,
+      "gas:candidate-vibid:4504071115602": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 230,
-      "Балабанов Виктор Васильевич": 42,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 134,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 56,
-      "Чистюхин Игорь Васильевич": 174
+      "gas:candidate-vibid:4504071115725": 230,
+      "gas:candidate-vibid:4504071115739": 42,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 134,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 56,
+      "gas:candidate-vibid:4504071115602": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 197,
-      "Балабанов Виктор Васильевич": 76,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 126,
-      "Лактюшин Владимир Алексеевич": 25,
-      "Ожерельев Виталий Васильевич": 20,
-      "Сольский Олег Петрович": 20,
-      "Тропина Людмила Ивановна": 23,
-      "Хромов Андрей Анатольевич": 62,
-      "Чистюхин Игорь Васильевич": 133
+      "gas:candidate-vibid:4504071115725": 197,
+      "gas:candidate-vibid:4504071115739": 76,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 126,
+      "gas:candidate-vibid:4504071140331": 25,
+      "gas:candidate-vibid:4504071115713": 20,
+      "gas:candidate-vibid:4504071115698": 20,
+      "gas:candidate-vibid:4504071115755": 23,
+      "gas:candidate-vibid:4504071115515": 62,
+      "gas:candidate-vibid:4504071115602": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 183,
-      "Балабанов Виктор Васильевич": 48,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 126,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 13,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 41,
-      "Чистюхин Игорь Васильевич": 145
+      "gas:candidate-vibid:4504071115725": 183,
+      "gas:candidate-vibid:4504071115739": 48,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 126,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 13,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 41,
+      "gas:candidate-vibid:4504071115602": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 218,
-      "Балабанов Виктор Васильевич": 76,
-      "Банов Виктор Васильевич": 34,
-      "Грудинин Павел Николаевич": 170,
-      "Лактюшин Владимир Алексеевич": 33,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 22,
-      "Тропина Людмила Ивановна": 18,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 148
+      "gas:candidate-vibid:4504071115725": 218,
+      "gas:candidate-vibid:4504071115739": 76,
+      "gas:candidate-vibid:4504071115820": 34,
+      "gas:candidate-vibid:4504071115807": 170,
+      "gas:candidate-vibid:4504071140331": 33,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 22,
+      "gas:candidate-vibid:4504071115755": 18,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 184,
-      "Балабанов Виктор Васильевич": 84,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 159,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 20,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 52,
-      "Чистюхин Игорь Васильевич": 144
+      "gas:candidate-vibid:4504071115725": 184,
+      "gas:candidate-vibid:4504071115739": 84,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 159,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 20,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 52,
+      "gas:candidate-vibid:4504071115602": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 206,
-      "Балабанов Виктор Васильевич": 27,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 134,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 39,
-      "Чистюхин Игорь Васильевич": 120
+      "gas:candidate-vibid:4504071115725": 206,
+      "gas:candidate-vibid:4504071115739": 27,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 134,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 39,
+      "gas:candidate-vibid:4504071115602": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 247,
-      "Балабанов Виктор Васильевич": 48,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 144,
-      "Лактюшин Владимир Алексеевич": 38,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 22,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 52,
-      "Чистюхин Игорь Васильевич": 155
+      "gas:candidate-vibid:4504071115725": 247,
+      "gas:candidate-vibid:4504071115739": 48,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 144,
+      "gas:candidate-vibid:4504071140331": 38,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 22,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 52,
+      "gas:candidate-vibid:4504071115602": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 248,
-      "Балабанов Виктор Васильевич": 75,
-      "Банов Виктор Васильевич": 31,
-      "Грудинин Павел Николаевич": 137,
-      "Лактюшин Владимир Алексеевич": 32,
-      "Ожерельев Виталий Васильевич": 17,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 19,
-      "Хромов Андрей Анатольевич": 42,
-      "Чистюхин Игорь Васильевич": 107
+      "gas:candidate-vibid:4504071115725": 248,
+      "gas:candidate-vibid:4504071115739": 75,
+      "gas:candidate-vibid:4504071115820": 31,
+      "gas:candidate-vibid:4504071115807": 137,
+      "gas:candidate-vibid:4504071140331": 32,
+      "gas:candidate-vibid:4504071115713": 17,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 19,
+      "gas:candidate-vibid:4504071115515": 42,
+      "gas:candidate-vibid:4504071115602": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 251,
-      "Балабанов Виктор Васильевич": 55,
-      "Банов Виктор Васильевич": 37,
-      "Грудинин Павел Николаевич": 137,
-      "Лактюшин Владимир Алексеевич": 30,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 57,
-      "Чистюхин Игорь Васильевич": 122
+      "gas:candidate-vibid:4504071115725": 251,
+      "gas:candidate-vibid:4504071115739": 55,
+      "gas:candidate-vibid:4504071115820": 37,
+      "gas:candidate-vibid:4504071115807": 137,
+      "gas:candidate-vibid:4504071140331": 30,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 57,
+      "gas:candidate-vibid:4504071115602": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 184,
-      "Балабанов Виктор Васильевич": 63,
-      "Банов Виктор Васильевич": 28,
-      "Грудинин Павел Николаевич": 129,
-      "Лактюшин Владимир Алексеевич": 31,
-      "Ожерельев Виталий Васильевич": 17,
-      "Сольский Олег Петрович": 30,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 43,
-      "Чистюхин Игорь Васильевич": 107
+      "gas:candidate-vibid:4504071115725": 184,
+      "gas:candidate-vibid:4504071115739": 63,
+      "gas:candidate-vibid:4504071115820": 28,
+      "gas:candidate-vibid:4504071115807": 129,
+      "gas:candidate-vibid:4504071140331": 31,
+      "gas:candidate-vibid:4504071115713": 17,
+      "gas:candidate-vibid:4504071115698": 30,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 43,
+      "gas:candidate-vibid:4504071115602": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 273,
-      "Балабанов Виктор Васильевич": 55,
-      "Банов Виктор Васильевич": 30,
-      "Грудинин Павел Николаевич": 166,
-      "Лактюшин Владимир Алексеевич": 25,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 21,
-      "Хромов Андрей Анатольевич": 73,
-      "Чистюхин Игорь Васильевич": 151
+      "gas:candidate-vibid:4504071115725": 273,
+      "gas:candidate-vibid:4504071115739": 55,
+      "gas:candidate-vibid:4504071115820": 30,
+      "gas:candidate-vibid:4504071115807": 166,
+      "gas:candidate-vibid:4504071140331": 25,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 21,
+      "gas:candidate-vibid:4504071115515": 73,
+      "gas:candidate-vibid:4504071115602": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 215,
-      "Балабанов Виктор Васильевич": 89,
-      "Банов Виктор Васильевич": 31,
-      "Грудинин Павел Николаевич": 166,
-      "Лактюшин Владимир Алексеевич": 28,
-      "Ожерельев Виталий Васильевич": 19,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 24,
-      "Хромов Андрей Анатольевич": 47,
-      "Чистюхин Игорь Васильевич": 128
+      "gas:candidate-vibid:4504071115725": 215,
+      "gas:candidate-vibid:4504071115739": 89,
+      "gas:candidate-vibid:4504071115820": 31,
+      "gas:candidate-vibid:4504071115807": 166,
+      "gas:candidate-vibid:4504071140331": 28,
+      "gas:candidate-vibid:4504071115713": 19,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 24,
+      "gas:candidate-vibid:4504071115515": 47,
+      "gas:candidate-vibid:4504071115602": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 229,
-      "Балабанов Виктор Васильевич": 54,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 131,
-      "Лактюшин Владимир Алексеевич": 24,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 15,
-      "Хромов Андрей Анатольевич": 52,
-      "Чистюхин Игорь Васильевич": 124
+      "gas:candidate-vibid:4504071115725": 229,
+      "gas:candidate-vibid:4504071115739": 54,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 131,
+      "gas:candidate-vibid:4504071140331": 24,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 15,
+      "gas:candidate-vibid:4504071115515": 52,
+      "gas:candidate-vibid:4504071115602": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 262,
-      "Балабанов Виктор Васильевич": 44,
-      "Банов Виктор Васильевич": 32,
-      "Грудинин Павел Николаевич": 147,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 18,
-      "Сольский Олег Петрович": 20,
-      "Тропина Людмила Ивановна": 20,
-      "Хромов Андрей Анатольевич": 55,
-      "Чистюхин Игорь Васильевич": 154
+      "gas:candidate-vibid:4504071115725": 262,
+      "gas:candidate-vibid:4504071115739": 44,
+      "gas:candidate-vibid:4504071115820": 32,
+      "gas:candidate-vibid:4504071115807": 147,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 18,
+      "gas:candidate-vibid:4504071115698": 20,
+      "gas:candidate-vibid:4504071115755": 20,
+      "gas:candidate-vibid:4504071115515": 55,
+      "gas:candidate-vibid:4504071115602": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 292,
-      "Балабанов Виктор Васильевич": 42,
-      "Банов Виктор Васильевич": 27,
-      "Грудинин Павел Николаевич": 140,
-      "Лактюшин Владимир Алексеевич": 28,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 36,
-      "Чистюхин Игорь Васильевич": 160
+      "gas:candidate-vibid:4504071115725": 292,
+      "gas:candidate-vibid:4504071115739": 42,
+      "gas:candidate-vibid:4504071115820": 27,
+      "gas:candidate-vibid:4504071115807": 140,
+      "gas:candidate-vibid:4504071140331": 28,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 36,
+      "gas:candidate-vibid:4504071115602": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 196,
-      "Балабанов Виктор Васильевич": 27,
-      "Банов Виктор Васильевич": 26,
-      "Грудинин Павел Николаевич": 95,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 7,
-      "Сольский Олег Петрович": 3,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 48,
-      "Чистюхин Игорь Васильевич": 139
+      "gas:candidate-vibid:4504071115725": 196,
+      "gas:candidate-vibid:4504071115739": 27,
+      "gas:candidate-vibid:4504071115820": 26,
+      "gas:candidate-vibid:4504071115807": 95,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 7,
+      "gas:candidate-vibid:4504071115698": 3,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 48,
+      "gas:candidate-vibid:4504071115602": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 161,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 73,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 61,
-      "Чистюхин Игорь Васильевич": 164
+      "gas:candidate-vibid:4504071115725": 161,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 73,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 61,
+      "gas:candidate-vibid:4504071115602": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 235,
-      "Балабанов Виктор Васильевич": 38,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 85,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 17,
-      "Сольский Олег Петрович": 21,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 63,
-      "Чистюхин Игорь Васильевич": 167
+      "gas:candidate-vibid:4504071115725": 235,
+      "gas:candidate-vibid:4504071115739": 38,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 85,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 17,
+      "gas:candidate-vibid:4504071115698": 21,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 63,
+      "gas:candidate-vibid:4504071115602": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 256,
-      "Балабанов Виктор Васильевич": 56,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 108,
-      "Лактюшин Владимир Алексеевич": 27,
-      "Ожерельев Виталий Васильевич": 24,
-      "Сольский Олег Петрович": 27,
-      "Тропина Людмила Ивановна": 25,
-      "Хромов Андрей Анатольевич": 48,
-      "Чистюхин Игорь Васильевич": 155
+      "gas:candidate-vibid:4504071115725": 256,
+      "gas:candidate-vibid:4504071115739": 56,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 108,
+      "gas:candidate-vibid:4504071140331": 27,
+      "gas:candidate-vibid:4504071115713": 24,
+      "gas:candidate-vibid:4504071115698": 27,
+      "gas:candidate-vibid:4504071115755": 25,
+      "gas:candidate-vibid:4504071115515": 48,
+      "gas:candidate-vibid:4504071115602": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 248,
-      "Балабанов Виктор Васильевич": 44,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 107,
-      "Лактюшин Владимир Алексеевич": 25,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 23,
-      "Хромов Андрей Анатольевич": 50,
-      "Чистюхин Игорь Васильевич": 129
+      "gas:candidate-vibid:4504071115725": 248,
+      "gas:candidate-vibid:4504071115739": 44,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 107,
+      "gas:candidate-vibid:4504071140331": 25,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 23,
+      "gas:candidate-vibid:4504071115515": 50,
+      "gas:candidate-vibid:4504071115602": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 154,
-      "Балабанов Виктор Васильевич": 33,
-      "Банов Виктор Васильевич": 24,
-      "Грудинин Павел Николаевич": 113,
-      "Лактюшин Владимир Алексеевич": 24,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 47,
-      "Чистюхин Игорь Васильевич": 104
+      "gas:candidate-vibid:4504071115725": 154,
+      "gas:candidate-vibid:4504071115739": 33,
+      "gas:candidate-vibid:4504071115820": 24,
+      "gas:candidate-vibid:4504071115807": 113,
+      "gas:candidate-vibid:4504071140331": 24,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 47,
+      "gas:candidate-vibid:4504071115602": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 320,
-      "Балабанов Виктор Васильевич": 86,
-      "Банов Виктор Васильевич": 27,
-      "Грудинин Павел Николаевич": 138,
-      "Лактюшин Владимир Алексеевич": 33,
-      "Ожерельев Виталий Васильевич": 18,
-      "Сольский Олег Петрович": 30,
-      "Тропина Людмила Ивановна": 28,
-      "Хромов Андрей Анатольевич": 86,
-      "Чистюхин Игорь Васильевич": 161
+      "gas:candidate-vibid:4504071115725": 320,
+      "gas:candidate-vibid:4504071115739": 86,
+      "gas:candidate-vibid:4504071115820": 27,
+      "gas:candidate-vibid:4504071115807": 138,
+      "gas:candidate-vibid:4504071140331": 33,
+      "gas:candidate-vibid:4504071115713": 18,
+      "gas:candidate-vibid:4504071115698": 30,
+      "gas:candidate-vibid:4504071115755": 28,
+      "gas:candidate-vibid:4504071115515": 86,
+      "gas:candidate-vibid:4504071115602": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 199,
-      "Балабанов Виктор Васильевич": 31,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 128,
-      "Лактюшин Владимир Алексеевич": 29,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 19,
-      "Хромов Андрей Анатольевич": 47,
-      "Чистюхин Игорь Васильевич": 114
+      "gas:candidate-vibid:4504071115725": 199,
+      "gas:candidate-vibid:4504071115739": 31,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 128,
+      "gas:candidate-vibid:4504071140331": 29,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 19,
+      "gas:candidate-vibid:4504071115515": 47,
+      "gas:candidate-vibid:4504071115602": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 274,
-      "Балабанов Виктор Васильевич": 71,
-      "Банов Виктор Васильевич": 37,
-      "Грудинин Павел Николаевич": 143,
-      "Лактюшин Владимир Алексеевич": 35,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 31,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 61,
-      "Чистюхин Игорь Васильевич": 158
+      "gas:candidate-vibid:4504071115725": 274,
+      "gas:candidate-vibid:4504071115739": 71,
+      "gas:candidate-vibid:4504071115820": 37,
+      "gas:candidate-vibid:4504071115807": 143,
+      "gas:candidate-vibid:4504071140331": 35,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 31,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 61,
+      "gas:candidate-vibid:4504071115602": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 250,
-      "Балабанов Виктор Васильевич": 46,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 143,
-      "Лактюшин Владимир Алексеевич": 29,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 21,
-      "Тропина Людмила Ивановна": 17,
-      "Хромов Андрей Анатольевич": 69,
-      "Чистюхин Игорь Васильевич": 160
+      "gas:candidate-vibid:4504071115725": 250,
+      "gas:candidate-vibid:4504071115739": 46,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 143,
+      "gas:candidate-vibid:4504071140331": 29,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 21,
+      "gas:candidate-vibid:4504071115755": 17,
+      "gas:candidate-vibid:4504071115515": 69,
+      "gas:candidate-vibid:4504071115602": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 196,
-      "Балабанов Виктор Васильевич": 40,
-      "Банов Виктор Васильевич": 21,
-      "Грудинин Павел Николаевич": 84,
-      "Лактюшин Владимир Алексеевич": 24,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 23,
-      "Тропина Людмила Ивановна": 17,
-      "Хромов Андрей Анатольевич": 48,
-      "Чистюхин Игорь Васильевич": 121
+      "gas:candidate-vibid:4504071115725": 196,
+      "gas:candidate-vibid:4504071115739": 40,
+      "gas:candidate-vibid:4504071115820": 21,
+      "gas:candidate-vibid:4504071115807": 84,
+      "gas:candidate-vibid:4504071140331": 24,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 23,
+      "gas:candidate-vibid:4504071115755": 17,
+      "gas:candidate-vibid:4504071115515": 48,
+      "gas:candidate-vibid:4504071115602": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 216,
-      "Балабанов Виктор Васильевич": 44,
-      "Банов Виктор Васильевич": 20,
-      "Грудинин Павел Николаевич": 84,
-      "Лактюшин Владимир Алексеевич": 29,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 51,
-      "Чистюхин Игорь Васильевич": 148
+      "gas:candidate-vibid:4504071115725": 216,
+      "gas:candidate-vibid:4504071115739": 44,
+      "gas:candidate-vibid:4504071115820": 20,
+      "gas:candidate-vibid:4504071115807": 84,
+      "gas:candidate-vibid:4504071140331": 29,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 51,
+      "gas:candidate-vibid:4504071115602": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 186,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 33,
-      "Грудинин Павел Николаевич": 112,
-      "Лактюшин Владимир Алексеевич": 23,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 46,
-      "Чистюхин Игорь Васильевич": 147
+      "gas:candidate-vibid:4504071115725": 186,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 33,
+      "gas:candidate-vibid:4504071115807": 112,
+      "gas:candidate-vibid:4504071140331": 23,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 46,
+      "gas:candidate-vibid:4504071115602": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 223,
-      "Балабанов Виктор Васильевич": 36,
-      "Банов Виктор Васильевич": 23,
-      "Грудинин Павел Николаевич": 99,
-      "Лактюшин Владимир Алексеевич": 27,
-      "Ожерельев Виталий Васильевич": 10,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 8,
-      "Хромов Андрей Анатольевич": 56,
-      "Чистюхин Игорь Васильевич": 168
+      "gas:candidate-vibid:4504071115725": 223,
+      "gas:candidate-vibid:4504071115739": 36,
+      "gas:candidate-vibid:4504071115820": 23,
+      "gas:candidate-vibid:4504071115807": 99,
+      "gas:candidate-vibid:4504071140331": 27,
+      "gas:candidate-vibid:4504071115713": 10,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 8,
+      "gas:candidate-vibid:4504071115515": 56,
+      "gas:candidate-vibid:4504071115602": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 250,
-      "Балабанов Виктор Васильевич": 55,
-      "Банов Виктор Васильевич": 29,
-      "Грудинин Павел Николаевич": 114,
-      "Лактюшин Владимир Алексеевич": 27,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 23,
-      "Тропина Людмила Ивановна": 16,
-      "Хромов Андрей Анатольевич": 53,
-      "Чистюхин Игорь Васильевич": 145
+      "gas:candidate-vibid:4504071115725": 250,
+      "gas:candidate-vibid:4504071115739": 55,
+      "gas:candidate-vibid:4504071115820": 29,
+      "gas:candidate-vibid:4504071115807": 114,
+      "gas:candidate-vibid:4504071140331": 27,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 23,
+      "gas:candidate-vibid:4504071115755": 16,
+      "gas:candidate-vibid:4504071115515": 53,
+      "gas:candidate-vibid:4504071115602": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 228,
-      "Балабанов Виктор Васильевич": 39,
-      "Банов Виктор Васильевич": 36,
-      "Грудинин Павел Николаевич": 103,
-      "Лактюшин Владимир Алексеевич": 20,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 17,
-      "Хромов Андрей Анатольевич": 36,
-      "Чистюхин Игорь Васильевич": 183
+      "gas:candidate-vibid:4504071115725": 228,
+      "gas:candidate-vibid:4504071115739": 39,
+      "gas:candidate-vibid:4504071115820": 36,
+      "gas:candidate-vibid:4504071115807": 103,
+      "gas:candidate-vibid:4504071140331": 20,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 17,
+      "gas:candidate-vibid:4504071115515": 36,
+      "gas:candidate-vibid:4504071115602": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005549&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005549&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 286,
-      "Балабанов Виктор Васильевич": 38,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 146,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 54,
-      "Чистюхин Игорь Васильевич": 31
+      "gas:candidate-vibid:4504071115725": 286,
+      "gas:candidate-vibid:4504071115739": 38,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 146,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 54,
+      "gas:candidate-vibid:4504071115602": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 216,
-      "Балабанов Виктор Васильевич": 20,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 122,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 41,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 216,
+      "gas:candidate-vibid:4504071115739": 20,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 122,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 41,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 194,
-      "Балабанов Виктор Васильевич": 25,
-      "Банов Виктор Васильевич": 10,
-      "Грудинин Павел Николаевич": 180,
-      "Лактюшин Владимир Алексеевич": 12,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 36,
-      "Чистюхин Игорь Васильевич": 30
+      "gas:candidate-vibid:4504071115725": 194,
+      "gas:candidate-vibid:4504071115739": 25,
+      "gas:candidate-vibid:4504071115820": 10,
+      "gas:candidate-vibid:4504071115807": 180,
+      "gas:candidate-vibid:4504071140331": 12,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 36,
+      "gas:candidate-vibid:4504071115602": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 250,
-      "Балабанов Виктор Васильевич": 17,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 130,
-      "Лактюшин Владимир Алексеевич": 17,
-      "Ожерельев Виталий Васильевич": 12,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 19,
-      "Хромов Андрей Анатольевич": 52,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 250,
+      "gas:candidate-vibid:4504071115739": 17,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 130,
+      "gas:candidate-vibid:4504071140331": 17,
+      "gas:candidate-vibid:4504071115713": 12,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 19,
+      "gas:candidate-vibid:4504071115515": 52,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 220,
-      "Балабанов Виктор Васильевич": 33,
-      "Банов Виктор Васильевич": 25,
-      "Грудинин Павел Николаевич": 174,
-      "Лактюшин Владимир Алексеевич": 24,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 13,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 48,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 220,
+      "gas:candidate-vibid:4504071115739": 33,
+      "gas:candidate-vibid:4504071115820": 25,
+      "gas:candidate-vibid:4504071115807": 174,
+      "gas:candidate-vibid:4504071140331": 24,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 13,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 48,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 250,
-      "Балабанов Виктор Васильевич": 37,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 215,
-      "Лактюшин Владимир Алексеевич": 22,
-      "Ожерельев Виталий Васильевич": 19,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 51,
-      "Чистюхин Игорь Васильевич": 31
+      "gas:candidate-vibid:4504071115725": 250,
+      "gas:candidate-vibid:4504071115739": 37,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 215,
+      "gas:candidate-vibid:4504071140331": 22,
+      "gas:candidate-vibid:4504071115713": 19,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 51,
+      "gas:candidate-vibid:4504071115602": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 252,
-      "Балабанов Виктор Васильевич": 14,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 162,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 35,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 252,
+      "gas:candidate-vibid:4504071115739": 14,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 162,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 35,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 258,
-      "Балабанов Виктор Васильевич": 52,
-      "Банов Виктор Васильевич": 13,
-      "Грудинин Павел Николаевич": 192,
-      "Лактюшин Владимир Алексеевич": 15,
-      "Ожерельев Виталий Васильевич": 11,
-      "Сольский Олег Петрович": 22,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 56,
-      "Чистюхин Игорь Васильевич": 25
+      "gas:candidate-vibid:4504071115725": 258,
+      "gas:candidate-vibid:4504071115739": 52,
+      "gas:candidate-vibid:4504071115820": 13,
+      "gas:candidate-vibid:4504071115807": 192,
+      "gas:candidate-vibid:4504071140331": 15,
+      "gas:candidate-vibid:4504071115713": 11,
+      "gas:candidate-vibid:4504071115698": 22,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 56,
+      "gas:candidate-vibid:4504071115602": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 287,
-      "Балабанов Виктор Васильевич": 61,
-      "Банов Виктор Васильевич": 14,
-      "Грудинин Павел Николаевич": 226,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 16,
-      "Сольский Олег Петрович": 24,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 67,
-      "Чистюхин Игорь Васильевич": 39
+      "gas:candidate-vibid:4504071115725": 287,
+      "gas:candidate-vibid:4504071115739": 61,
+      "gas:candidate-vibid:4504071115820": 14,
+      "gas:candidate-vibid:4504071115807": 226,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 16,
+      "gas:candidate-vibid:4504071115698": 24,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 67,
+      "gas:candidate-vibid:4504071115602": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 218,
-      "Балабанов Виктор Васильевич": 34,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 159,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 22,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 35,
-      "Чистюхин Игорь Васильевич": 37
+      "gas:candidate-vibid:4504071115725": 218,
+      "gas:candidate-vibid:4504071115739": 34,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 159,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 22,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 35,
+      "gas:candidate-vibid:4504071115602": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 212,
-      "Балабанов Виктор Васильевич": 21,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 152,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 11,
-      "Хромов Андрей Анатольевич": 50,
-      "Чистюхин Игорь Васильевич": 14
+      "gas:candidate-vibid:4504071115725": 212,
+      "gas:candidate-vibid:4504071115739": 21,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 152,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 11,
+      "gas:candidate-vibid:4504071115515": 50,
+      "gas:candidate-vibid:4504071115602": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 249,
-      "Балабанов Виктор Васильевич": 28,
-      "Банов Виктор Васильевич": 11,
-      "Грудинин Павел Николаевич": 193,
-      "Лактюшин Владимир Алексеевич": 21,
-      "Ожерельев Виталий Васильевич": 14,
-      "Сольский Олег Петрович": 7,
-      "Тропина Людмила Ивановна": 22,
-      "Хромов Андрей Анатольевич": 45,
-      "Чистюхин Игорь Васильевич": 22
+      "gas:candidate-vibid:4504071115725": 249,
+      "gas:candidate-vibid:4504071115739": 28,
+      "gas:candidate-vibid:4504071115820": 11,
+      "gas:candidate-vibid:4504071115807": 193,
+      "gas:candidate-vibid:4504071140331": 21,
+      "gas:candidate-vibid:4504071115713": 14,
+      "gas:candidate-vibid:4504071115698": 7,
+      "gas:candidate-vibid:4504071115755": 22,
+      "gas:candidate-vibid:4504071115515": 45,
+      "gas:candidate-vibid:4504071115602": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 275,
-      "Балабанов Виктор Васильевич": 30,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 202,
-      "Лактюшин Владимир Алексеевич": 20,
-      "Ожерельев Виталий Васильевич": 6,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 44,
-      "Чистюхин Игорь Васильевич": 24
+      "gas:candidate-vibid:4504071115725": 275,
+      "gas:candidate-vibid:4504071115739": 30,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 202,
+      "gas:candidate-vibid:4504071140331": 20,
+      "gas:candidate-vibid:4504071115713": 6,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 44,
+      "gas:candidate-vibid:4504071115602": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 227,
-      "Балабанов Виктор Васильевич": 36,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 164,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 17,
-      "Хромов Андрей Анатольевич": 53,
-      "Чистюхин Игорь Васильевич": 27
+      "gas:candidate-vibid:4504071115725": 227,
+      "gas:candidate-vibid:4504071115739": 36,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 164,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 17,
+      "gas:candidate-vibid:4504071115515": 53,
+      "gas:candidate-vibid:4504071115602": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 231,
-      "Балабанов Виктор Васильевич": 22,
-      "Банов Виктор Васильевич": 17,
-      "Грудинин Павел Николаевич": 187,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 7,
-      "Хромов Андрей Анатольевич": 30,
-      "Чистюхин Игорь Васильевич": 19
+      "gas:candidate-vibid:4504071115725": 231,
+      "gas:candidate-vibid:4504071115739": 22,
+      "gas:candidate-vibid:4504071115820": 17,
+      "gas:candidate-vibid:4504071115807": 187,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 7,
+      "gas:candidate-vibid:4504071115515": 30,
+      "gas:candidate-vibid:4504071115602": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 206,
-      "Балабанов Виктор Васильевич": 31,
-      "Банов Виктор Васильевич": 18,
-      "Грудинин Павел Николаевич": 185,
-      "Лактюшин Владимир Алексеевич": 21,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 28,
-      "Чистюхин Игорь Васильевич": 15
+      "gas:candidate-vibid:4504071115725": 206,
+      "gas:candidate-vibid:4504071115739": 31,
+      "gas:candidate-vibid:4504071115820": 18,
+      "gas:candidate-vibid:4504071115807": 185,
+      "gas:candidate-vibid:4504071140331": 21,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 28,
+      "gas:candidate-vibid:4504071115602": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 216,
-      "Балабанов Виктор Васильевич": 21,
-      "Банов Виктор Васильевич": 15,
-      "Грудинин Павел Николаевич": 158,
-      "Лактюшин Владимир Алексеевич": 10,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 46,
-      "Чистюхин Игорь Васильевич": 15
+      "gas:candidate-vibid:4504071115725": 216,
+      "gas:candidate-vibid:4504071115739": 21,
+      "gas:candidate-vibid:4504071115820": 15,
+      "gas:candidate-vibid:4504071115807": 158,
+      "gas:candidate-vibid:4504071140331": 10,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 46,
+      "gas:candidate-vibid:4504071115602": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 225,
-      "Балабанов Виктор Васильевич": 31,
-      "Банов Виктор Васильевич": 15,
-      "Грудинин Павел Николаевич": 159,
-      "Лактюшин Владимир Алексеевич": 9,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 5,
-      "Тропина Людмила Ивановна": 10,
-      "Хромов Андрей Анатольевич": 53,
-      "Чистюхин Игорь Васильевич": 17
+      "gas:candidate-vibid:4504071115725": 225,
+      "gas:candidate-vibid:4504071115739": 31,
+      "gas:candidate-vibid:4504071115820": 15,
+      "gas:candidate-vibid:4504071115807": 159,
+      "gas:candidate-vibid:4504071140331": 9,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 5,
+      "gas:candidate-vibid:4504071115755": 10,
+      "gas:candidate-vibid:4504071115515": 53,
+      "gas:candidate-vibid:4504071115602": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 201,
-      "Балабанов Виктор Васильевич": 16,
-      "Банов Виктор Васильевич": 9,
-      "Грудинин Павел Николаевич": 132,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 5,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 37,
-      "Чистюхин Игорь Васильевич": 18
+      "gas:candidate-vibid:4504071115725": 201,
+      "gas:candidate-vibid:4504071115739": 16,
+      "gas:candidate-vibid:4504071115820": 9,
+      "gas:candidate-vibid:4504071115807": 132,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 5,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 37,
+      "gas:candidate-vibid:4504071115602": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 192,
-      "Балабанов Виктор Васильевич": 19,
-      "Банов Виктор Васильевич": 12,
-      "Грудинин Павел Николаевич": 165,
-      "Лактюшин Владимир Алексеевич": 13,
-      "Ожерельев Виталий Васильевич": 4,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 14,
-      "Хромов Андрей Анатольевич": 39,
-      "Чистюхин Игорь Васильевич": 20
+      "gas:candidate-vibid:4504071115725": 192,
+      "gas:candidate-vibid:4504071115739": 19,
+      "gas:candidate-vibid:4504071115820": 12,
+      "gas:candidate-vibid:4504071115807": 165,
+      "gas:candidate-vibid:4504071140331": 13,
+      "gas:candidate-vibid:4504071115713": 4,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 14,
+      "gas:candidate-vibid:4504071115515": 39,
+      "gas:candidate-vibid:4504071115602": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005550&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005550&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 355,
-      "Балабанов Виктор Васильевич": 24,
-      "Банов Виктор Васильевич": 37,
-      "Грудинин Павел Николаевич": 107,
-      "Лактюшин Владимир Алексеевич": 20,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 14,
-      "Тропина Людмила Ивановна": 19,
-      "Хромов Андрей Анатольевич": 74,
-      "Чистюхин Игорь Васильевич": 57
+      "gas:candidate-vibid:4504071115725": 355,
+      "gas:candidate-vibid:4504071115739": 24,
+      "gas:candidate-vibid:4504071115820": 37,
+      "gas:candidate-vibid:4504071115807": 107,
+      "gas:candidate-vibid:4504071140331": 20,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 14,
+      "gas:candidate-vibid:4504071115755": 19,
+      "gas:candidate-vibid:4504071115515": 74,
+      "gas:candidate-vibid:4504071115602": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 273,
-      "Балабанов Виктор Васильевич": 13,
-      "Банов Виктор Васильевич": 22,
-      "Грудинин Павел Николаевич": 77,
-      "Лактюшин Владимир Алексеевич": 16,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 9,
-      "Тропина Людмила Ивановна": 13,
-      "Хромов Андрей Анатольевич": 48,
-      "Чистюхин Игорь Васильевич": 38
+      "gas:candidate-vibid:4504071115725": 273,
+      "gas:candidate-vibid:4504071115739": 13,
+      "gas:candidate-vibid:4504071115820": 22,
+      "gas:candidate-vibid:4504071115807": 77,
+      "gas:candidate-vibid:4504071140331": 16,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 9,
+      "gas:candidate-vibid:4504071115755": 13,
+      "gas:candidate-vibid:4504071115515": 48,
+      "gas:candidate-vibid:4504071115602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 357,
-      "Балабанов Виктор Васильевич": 18,
-      "Банов Виктор Васильевич": 26,
-      "Грудинин Павел Николаевич": 97,
-      "Лактюшин Владимир Алексеевич": 14,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 6,
-      "Тропина Людмила Ивановна": 9,
-      "Хромов Андрей Анатольевич": 50,
-      "Чистюхин Игорь Васильевич": 48
+      "gas:candidate-vibid:4504071115725": 357,
+      "gas:candidate-vibid:4504071115739": 18,
+      "gas:candidate-vibid:4504071115820": 26,
+      "gas:candidate-vibid:4504071115807": 97,
+      "gas:candidate-vibid:4504071140331": 14,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 6,
+      "gas:candidate-vibid:4504071115755": 9,
+      "gas:candidate-vibid:4504071115515": 50,
+      "gas:candidate-vibid:4504071115602": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 252,
-      "Балабанов Виктор Васильевич": 16,
-      "Банов Виктор Васильевич": 19,
-      "Грудинин Павел Николаевич": 79,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 8,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 42,
-      "Чистюхин Игорь Васильевич": 38
+      "gas:candidate-vibid:4504071115725": 252,
+      "gas:candidate-vibid:4504071115739": 16,
+      "gas:candidate-vibid:4504071115820": 19,
+      "gas:candidate-vibid:4504071115807": 79,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 8,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 42,
+      "gas:candidate-vibid:4504071115602": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 406,
-      "Балабанов Виктор Васильевич": 13,
-      "Банов Виктор Васильевич": 50,
-      "Грудинин Павел Николаевич": 116,
-      "Лактюшин Владимир Алексеевич": 27,
-      "Ожерельев Виталий Васильевич": 8,
-      "Сольский Олег Петрович": 11,
-      "Тропина Людмила Ивановна": 29,
-      "Хромов Андрей Анатольевич": 66,
-      "Чистюхин Игорь Васильевич": 63
+      "gas:candidate-vibid:4504071115725": 406,
+      "gas:candidate-vibid:4504071115739": 13,
+      "gas:candidate-vibid:4504071115820": 50,
+      "gas:candidate-vibid:4504071115807": 116,
+      "gas:candidate-vibid:4504071140331": 27,
+      "gas:candidate-vibid:4504071115713": 8,
+      "gas:candidate-vibid:4504071115698": 11,
+      "gas:candidate-vibid:4504071115755": 29,
+      "gas:candidate-vibid:4504071115515": 66,
+      "gas:candidate-vibid:4504071115602": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 437,
-      "Балабанов Виктор Васильевич": 33,
-      "Банов Виктор Васильевич": 25,
-      "Грудинин Павел Николаевич": 161,
-      "Лактюшин Владимир Алексеевич": 31,
-      "Ожерельев Виталий Васильевич": 13,
-      "Сольский Олег Петрович": 12,
-      "Тропина Людмила Ивановна": 20,
-      "Хромов Андрей Анатольевич": 60,
-      "Чистюхин Игорь Васильевич": 58
+      "gas:candidate-vibid:4504071115725": 437,
+      "gas:candidate-vibid:4504071115739": 33,
+      "gas:candidate-vibid:4504071115820": 25,
+      "gas:candidate-vibid:4504071115807": 161,
+      "gas:candidate-vibid:4504071140331": 31,
+      "gas:candidate-vibid:4504071115713": 13,
+      "gas:candidate-vibid:4504071115698": 12,
+      "gas:candidate-vibid:4504071115755": 20,
+      "gas:candidate-vibid:4504071115515": 60,
+      "gas:candidate-vibid:4504071115602": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 457,
-      "Балабанов Виктор Васильевич": 22,
-      "Банов Виктор Васильевич": 25,
-      "Грудинин Павел Николаевич": 121,
-      "Лактюшин Владимир Алексеевич": 24,
-      "Ожерельев Виталий Васильевич": 17,
-      "Сольский Олег Петрович": 16,
-      "Тропина Людмила Ивановна": 19,
-      "Хромов Андрей Анатольевич": 71,
-      "Чистюхин Игорь Васильевич": 60
+      "gas:candidate-vibid:4504071115725": 457,
+      "gas:candidate-vibid:4504071115739": 22,
+      "gas:candidate-vibid:4504071115820": 25,
+      "gas:candidate-vibid:4504071115807": 121,
+      "gas:candidate-vibid:4504071140331": 24,
+      "gas:candidate-vibid:4504071115713": 17,
+      "gas:candidate-vibid:4504071115698": 16,
+      "gas:candidate-vibid:4504071115755": 19,
+      "gas:candidate-vibid:4504071115515": 71,
+      "gas:candidate-vibid:4504071115602": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 416,
-      "Балабанов Виктор Васильевич": 25,
-      "Банов Виктор Васильевич": 28,
-      "Грудинин Павел Николаевич": 105,
-      "Лактюшин Владимир Алексеевич": 35,
-      "Ожерельев Виталий Васильевич": 9,
-      "Сольский Олег Петрович": 15,
-      "Тропина Людмила Ивановна": 18,
-      "Хромов Андрей Анатольевич": 90,
-      "Чистюхин Игорь Васильевич": 60
+      "gas:candidate-vibid:4504071115725": 416,
+      "gas:candidate-vibid:4504071115739": 25,
+      "gas:candidate-vibid:4504071115820": 28,
+      "gas:candidate-vibid:4504071115807": 105,
+      "gas:candidate-vibid:4504071140331": 35,
+      "gas:candidate-vibid:4504071115713": 9,
+      "gas:candidate-vibid:4504071115698": 15,
+      "gas:candidate-vibid:4504071115755": 18,
+      "gas:candidate-vibid:4504071115515": 90,
+      "gas:candidate-vibid:4504071115602": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Антонова Лидия Николаевна": 237,
-      "Балабанов Виктор Васильевич": 6,
-      "Банов Виктор Васильевич": 27,
-      "Грудинин Павел Николаевич": 102,
-      "Лактюшин Владимир Алексеевич": 19,
-      "Ожерельев Виталий Васильевич": 15,
-      "Сольский Олег Петрович": 10,
-      "Тропина Людмила Ивановна": 12,
-      "Хромов Андрей Анатольевич": 28,
-      "Чистюхин Игорь Васильевич": 33
+      "gas:candidate-vibid:4504071115725": 237,
+      "gas:candidate-vibid:4504071115739": 6,
+      "gas:candidate-vibid:4504071115820": 27,
+      "gas:candidate-vibid:4504071115807": 102,
+      "gas:candidate-vibid:4504071140331": 19,
+      "gas:candidate-vibid:4504071115713": 15,
+      "gas:candidate-vibid:4504071115698": 10,
+      "gas:candidate-vibid:4504071115755": 12,
+      "gas:candidate-vibid:4504071115515": 28,
+      "gas:candidate-vibid:4504071115602": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000160&tvd=25020002005551&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005551&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 62,
-      "Артемов Сергей Александрович": 55,
-      "Асташов Сергей Сергеевич": 41,
-      "Королев Алексей Евгеньевич": 16,
-      "Пушкина Оксана Викторовна": 272,
-      "Савинов Вячеслав Николаевич": 6,
-      "Святославский Ярослав Александрович": 6,
-      "Спирин Юрий Леонидович": 58,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 70
+      "gas:candidate-vibid:4504034302520": 62,
+      "gas:candidate-vibid:4504034302509": 55,
+      "gas:candidate-vibid:4504034302976": 41,
+      "gas:candidate-vibid:4504034303160": 16,
+      "gas:candidate-vibid:4504034302672": 272,
+      "gas:candidate-vibid:4504034302730": 6,
+      "gas:candidate-vibid:4504034302684": 6,
+      "gas:candidate-vibid:4504034302235": 58,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 97,
-      "Артемов Сергей Александрович": 99,
-      "Асташов Сергей Сергеевич": 74,
-      "Королев Алексей Евгеньевич": 11,
-      "Пушкина Оксана Викторовна": 418,
-      "Савинов Вячеслав Николаевич": 13,
-      "Святославский Ярослав Александрович": 22,
-      "Спирин Юрий Леонидович": 82,
-      "Цехмистренко Федор Сергеевич": 3,
-      "Чувилин Владимир Анатольевич": 87
+      "gas:candidate-vibid:4504034302520": 97,
+      "gas:candidate-vibid:4504034302509": 99,
+      "gas:candidate-vibid:4504034302976": 74,
+      "gas:candidate-vibid:4504034303160": 11,
+      "gas:candidate-vibid:4504034302672": 418,
+      "gas:candidate-vibid:4504034302730": 13,
+      "gas:candidate-vibid:4504034302684": 22,
+      "gas:candidate-vibid:4504034302235": 82,
+      "gas:candidate-vibid:4504034303172": 3,
+      "gas:candidate-vibid:4504034302696": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 114,
-      "Артемов Сергей Александрович": 86,
-      "Асташов Сергей Сергеевич": 73,
-      "Королев Алексей Евгеньевич": 21,
-      "Пушкина Оксана Викторовна": 338,
-      "Савинов Вячеслав Николаевич": 14,
-      "Святославский Ярослав Александрович": 10,
-      "Спирин Юрий Леонидович": 77,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 95
+      "gas:candidate-vibid:4504034302520": 114,
+      "gas:candidate-vibid:4504034302509": 86,
+      "gas:candidate-vibid:4504034302976": 73,
+      "gas:candidate-vibid:4504034303160": 21,
+      "gas:candidate-vibid:4504034302672": 338,
+      "gas:candidate-vibid:4504034302730": 14,
+      "gas:candidate-vibid:4504034302684": 10,
+      "gas:candidate-vibid:4504034302235": 77,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 54,
-      "Артемов Сергей Александрович": 43,
-      "Асташов Сергей Сергеевич": 37,
-      "Королев Алексей Евгеньевич": 10,
-      "Пушкина Оксана Викторовна": 152,
-      "Савинов Вячеслав Николаевич": 8,
-      "Святославский Ярослав Александрович": 6,
-      "Спирин Юрий Леонидович": 38,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 43
+      "gas:candidate-vibid:4504034302520": 54,
+      "gas:candidate-vibid:4504034302509": 43,
+      "gas:candidate-vibid:4504034302976": 37,
+      "gas:candidate-vibid:4504034303160": 10,
+      "gas:candidate-vibid:4504034302672": 152,
+      "gas:candidate-vibid:4504034302730": 8,
+      "gas:candidate-vibid:4504034302684": 6,
+      "gas:candidate-vibid:4504034302235": 38,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 54,
-      "Артемов Сергей Александрович": 59,
-      "Асташов Сергей Сергеевич": 39,
-      "Королев Алексей Евгеньевич": 16,
-      "Пушкина Оксана Викторовна": 270,
-      "Савинов Вячеслав Николаевич": 9,
-      "Святославский Ярослав Александрович": 5,
-      "Спирин Юрий Леонидович": 34,
-      "Цехмистренко Федор Сергеевич": 3,
-      "Чувилин Владимир Анатольевич": 53
+      "gas:candidate-vibid:4504034302520": 54,
+      "gas:candidate-vibid:4504034302509": 59,
+      "gas:candidate-vibid:4504034302976": 39,
+      "gas:candidate-vibid:4504034303160": 16,
+      "gas:candidate-vibid:4504034302672": 270,
+      "gas:candidate-vibid:4504034302730": 9,
+      "gas:candidate-vibid:4504034302684": 5,
+      "gas:candidate-vibid:4504034302235": 34,
+      "gas:candidate-vibid:4504034303172": 3,
+      "gas:candidate-vibid:4504034302696": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 73,
-      "Артемов Сергей Александрович": 82,
-      "Асташов Сергей Сергеевич": 55,
-      "Королев Алексей Евгеньевич": 8,
-      "Пушкина Оксана Викторовна": 220,
-      "Савинов Вячеслав Николаевич": 6,
-      "Святославский Ярослав Александрович": 9,
-      "Спирин Юрий Леонидович": 46,
-      "Цехмистренко Федор Сергеевич": 4,
-      "Чувилин Владимир Анатольевич": 81
+      "gas:candidate-vibid:4504034302520": 73,
+      "gas:candidate-vibid:4504034302509": 82,
+      "gas:candidate-vibid:4504034302976": 55,
+      "gas:candidate-vibid:4504034303160": 8,
+      "gas:candidate-vibid:4504034302672": 220,
+      "gas:candidate-vibid:4504034302730": 6,
+      "gas:candidate-vibid:4504034302684": 9,
+      "gas:candidate-vibid:4504034302235": 46,
+      "gas:candidate-vibid:4504034303172": 4,
+      "gas:candidate-vibid:4504034302696": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 17,
-      "Артемов Сергей Александрович": 16,
-      "Асташов Сергей Сергеевич": 10,
-      "Королев Алексей Евгеньевич": 5,
-      "Пушкина Оксана Викторовна": 54,
-      "Савинов Вячеслав Николаевич": 1,
-      "Святославский Ярослав Александрович": 3,
-      "Спирин Юрий Леонидович": 24,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 13
+      "gas:candidate-vibid:4504034302520": 17,
+      "gas:candidate-vibid:4504034302509": 16,
+      "gas:candidate-vibid:4504034302976": 10,
+      "gas:candidate-vibid:4504034303160": 5,
+      "gas:candidate-vibid:4504034302672": 54,
+      "gas:candidate-vibid:4504034302730": 1,
+      "gas:candidate-vibid:4504034302684": 3,
+      "gas:candidate-vibid:4504034302235": 24,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 172,
-      "Артемов Сергей Александрович": 58,
-      "Асташов Сергей Сергеевич": 45,
-      "Королев Алексей Евгеньевич": 14,
-      "Пушкина Оксана Викторовна": 315,
-      "Савинов Вячеслав Николаевич": 14,
-      "Святославский Ярослав Александрович": 22,
-      "Спирин Юрий Леонидович": 64,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 98
+      "gas:candidate-vibid:4504034302520": 172,
+      "gas:candidate-vibid:4504034302509": 58,
+      "gas:candidate-vibid:4504034302976": 45,
+      "gas:candidate-vibid:4504034303160": 14,
+      "gas:candidate-vibid:4504034302672": 315,
+      "gas:candidate-vibid:4504034302730": 14,
+      "gas:candidate-vibid:4504034302684": 22,
+      "gas:candidate-vibid:4504034302235": 64,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 171,
-      "Артемов Сергей Александрович": 60,
-      "Асташов Сергей Сергеевич": 56,
-      "Королев Алексей Евгеньевич": 22,
-      "Пушкина Оксана Викторовна": 318,
-      "Савинов Вячеслав Николаевич": 17,
-      "Святославский Ярослав Александрович": 14,
-      "Спирин Юрий Леонидович": 78,
-      "Цехмистренко Федор Сергеевич": 2,
-      "Чувилин Владимир Анатольевич": 77
+      "gas:candidate-vibid:4504034302520": 171,
+      "gas:candidate-vibid:4504034302509": 60,
+      "gas:candidate-vibid:4504034302976": 56,
+      "gas:candidate-vibid:4504034303160": 22,
+      "gas:candidate-vibid:4504034302672": 318,
+      "gas:candidate-vibid:4504034302730": 17,
+      "gas:candidate-vibid:4504034302684": 14,
+      "gas:candidate-vibid:4504034302235": 78,
+      "gas:candidate-vibid:4504034303172": 2,
+      "gas:candidate-vibid:4504034302696": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 74,
-      "Артемов Сергей Александрович": 23,
-      "Асташов Сергей Сергеевич": 33,
-      "Королев Алексей Евгеньевич": 6,
-      "Пушкина Оксана Викторовна": 130,
-      "Савинов Вячеслав Николаевич": 11,
-      "Святославский Ярослав Александрович": 12,
-      "Спирин Юрий Леонидович": 26,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 37
+      "gas:candidate-vibid:4504034302520": 74,
+      "gas:candidate-vibid:4504034302509": 23,
+      "gas:candidate-vibid:4504034302976": 33,
+      "gas:candidate-vibid:4504034303160": 6,
+      "gas:candidate-vibid:4504034302672": 130,
+      "gas:candidate-vibid:4504034302730": 11,
+      "gas:candidate-vibid:4504034302684": 12,
+      "gas:candidate-vibid:4504034302235": 26,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 126,
-      "Артемов Сергей Александрович": 56,
-      "Асташов Сергей Сергеевич": 48,
-      "Королев Алексей Евгеньевич": 22,
-      "Пушкина Оксана Викторовна": 363,
-      "Савинов Вячеслав Николаевич": 18,
-      "Святославский Ярослав Александрович": 12,
-      "Спирин Юрий Леонидович": 74,
-      "Цехмистренко Федор Сергеевич": 5,
-      "Чувилин Владимир Анатольевич": 77
+      "gas:candidate-vibid:4504034302520": 126,
+      "gas:candidate-vibid:4504034302509": 56,
+      "gas:candidate-vibid:4504034302976": 48,
+      "gas:candidate-vibid:4504034303160": 22,
+      "gas:candidate-vibid:4504034302672": 363,
+      "gas:candidate-vibid:4504034302730": 18,
+      "gas:candidate-vibid:4504034302684": 12,
+      "gas:candidate-vibid:4504034302235": 74,
+      "gas:candidate-vibid:4504034303172": 5,
+      "gas:candidate-vibid:4504034302696": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 128,
-      "Артемов Сергей Александрович": 33,
-      "Асташов Сергей Сергеевич": 66,
-      "Королев Алексей Евгеньевич": 20,
-      "Пушкина Оксана Викторовна": 278,
-      "Савинов Вячеслав Николаевич": 10,
-      "Святославский Ярослав Александрович": 10,
-      "Спирин Юрий Леонидович": 46,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 52
+      "gas:candidate-vibid:4504034302520": 128,
+      "gas:candidate-vibid:4504034302509": 33,
+      "gas:candidate-vibid:4504034302976": 66,
+      "gas:candidate-vibid:4504034303160": 20,
+      "gas:candidate-vibid:4504034302672": 278,
+      "gas:candidate-vibid:4504034302730": 10,
+      "gas:candidate-vibid:4504034302684": 10,
+      "gas:candidate-vibid:4504034302235": 46,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 142,
-      "Артемов Сергей Александрович": 37,
-      "Асташов Сергей Сергеевич": 31,
-      "Королев Алексей Евгеньевич": 11,
-      "Пушкина Оксана Викторовна": 160,
-      "Савинов Вячеслав Николаевич": 12,
-      "Святославский Ярослав Александрович": 8,
-      "Спирин Юрий Леонидович": 33,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 36
+      "gas:candidate-vibid:4504034302520": 142,
+      "gas:candidate-vibid:4504034302509": 37,
+      "gas:candidate-vibid:4504034302976": 31,
+      "gas:candidate-vibid:4504034303160": 11,
+      "gas:candidate-vibid:4504034302672": 160,
+      "gas:candidate-vibid:4504034302730": 12,
+      "gas:candidate-vibid:4504034302684": 8,
+      "gas:candidate-vibid:4504034302235": 33,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 96,
-      "Артемов Сергей Александрович": 28,
-      "Асташов Сергей Сергеевич": 20,
-      "Королев Алексей Евгеньевич": 8,
-      "Пушкина Оксана Викторовна": 224,
-      "Савинов Вячеслав Николаевич": 11,
-      "Святославский Ярослав Александрович": 7,
-      "Спирин Юрий Леонидович": 27,
-      "Цехмистренко Федор Сергеевич": 2,
-      "Чувилин Владимир Анатольевич": 43
+      "gas:candidate-vibid:4504034302520": 96,
+      "gas:candidate-vibid:4504034302509": 28,
+      "gas:candidate-vibid:4504034302976": 20,
+      "gas:candidate-vibid:4504034303160": 8,
+      "gas:candidate-vibid:4504034302672": 224,
+      "gas:candidate-vibid:4504034302730": 11,
+      "gas:candidate-vibid:4504034302684": 7,
+      "gas:candidate-vibid:4504034302235": 27,
+      "gas:candidate-vibid:4504034303172": 2,
+      "gas:candidate-vibid:4504034302696": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 28,
-      "Артемов Сергей Александрович": 53,
-      "Асташов Сергей Сергеевич": 25,
-      "Королев Алексей Евгеньевич": 4,
-      "Пушкина Оксана Викторовна": 230,
-      "Савинов Вячеслав Николаевич": 5,
-      "Святославский Ярослав Александрович": 7,
-      "Спирин Юрий Леонидович": 40,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 23
+      "gas:candidate-vibid:4504034302520": 28,
+      "gas:candidate-vibid:4504034302509": 53,
+      "gas:candidate-vibid:4504034302976": 25,
+      "gas:candidate-vibid:4504034303160": 4,
+      "gas:candidate-vibid:4504034302672": 230,
+      "gas:candidate-vibid:4504034302730": 5,
+      "gas:candidate-vibid:4504034302684": 7,
+      "gas:candidate-vibid:4504034302235": 40,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 62,
-      "Артемов Сергей Александрович": 36,
-      "Асташов Сергей Сергеевич": 38,
-      "Королев Алексей Евгеньевич": 11,
-      "Пушкина Оксана Викторовна": 230,
-      "Савинов Вячеслав Николаевич": 3,
-      "Святославский Ярослав Александрович": 7,
-      "Спирин Юрий Леонидович": 56,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 61
+      "gas:candidate-vibid:4504034302520": 62,
+      "gas:candidate-vibid:4504034302509": 36,
+      "gas:candidate-vibid:4504034302976": 38,
+      "gas:candidate-vibid:4504034303160": 11,
+      "gas:candidate-vibid:4504034302672": 230,
+      "gas:candidate-vibid:4504034302730": 3,
+      "gas:candidate-vibid:4504034302684": 7,
+      "gas:candidate-vibid:4504034302235": 56,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 16,
-      "Артемов Сергей Александрович": 16,
-      "Асташов Сергей Сергеевич": 21,
-      "Королев Алексей Евгеньевич": 1,
-      "Пушкина Оксана Викторовна": 73,
-      "Савинов Вячеслав Николаевич": 1,
-      "Святославский Ярослав Александрович": 1,
-      "Спирин Юрий Леонидович": 21,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 10
+      "gas:candidate-vibid:4504034302520": 16,
+      "gas:candidate-vibid:4504034302509": 16,
+      "gas:candidate-vibid:4504034302976": 21,
+      "gas:candidate-vibid:4504034303160": 1,
+      "gas:candidate-vibid:4504034302672": 73,
+      "gas:candidate-vibid:4504034302730": 1,
+      "gas:candidate-vibid:4504034302684": 1,
+      "gas:candidate-vibid:4504034302235": 21,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 16,
-      "Артемов Сергей Александрович": 28,
-      "Асташов Сергей Сергеевич": 14,
-      "Королев Алексей Евгеньевич": 3,
-      "Пушкина Оксана Викторовна": 151,
-      "Савинов Вячеслав Николаевич": 4,
-      "Святославский Ярослав Александрович": 4,
-      "Спирин Юрий Леонидович": 20,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 17
+      "gas:candidate-vibid:4504034302520": 16,
+      "gas:candidate-vibid:4504034302509": 28,
+      "gas:candidate-vibid:4504034302976": 14,
+      "gas:candidate-vibid:4504034303160": 3,
+      "gas:candidate-vibid:4504034302672": 151,
+      "gas:candidate-vibid:4504034302730": 4,
+      "gas:candidate-vibid:4504034302684": 4,
+      "gas:candidate-vibid:4504034302235": 20,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 39,
-      "Артемов Сергей Александрович": 25,
-      "Асташов Сергей Сергеевич": 21,
-      "Королев Алексей Евгеньевич": 6,
-      "Пушкина Оксана Викторовна": 132,
-      "Савинов Вячеслав Николаевич": 2,
-      "Святославский Ярослав Александрович": 3,
-      "Спирин Юрий Леонидович": 31,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 21
+      "gas:candidate-vibid:4504034302520": 39,
+      "gas:candidate-vibid:4504034302509": 25,
+      "gas:candidate-vibid:4504034302976": 21,
+      "gas:candidate-vibid:4504034303160": 6,
+      "gas:candidate-vibid:4504034302672": 132,
+      "gas:candidate-vibid:4504034302730": 2,
+      "gas:candidate-vibid:4504034302684": 3,
+      "gas:candidate-vibid:4504034302235": 31,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 8,
-      "Артемов Сергей Александрович": 3,
-      "Асташов Сергей Сергеевич": 3,
-      "Королев Алексей Евгеньевич": 4,
-      "Пушкина Оксана Викторовна": 82,
-      "Савинов Вячеслав Николаевич": 1,
-      "Святославский Ярослав Александрович": 1,
-      "Спирин Юрий Леонидович": 16,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 6
+      "gas:candidate-vibid:4504034302520": 8,
+      "gas:candidate-vibid:4504034302509": 3,
+      "gas:candidate-vibid:4504034302976": 3,
+      "gas:candidate-vibid:4504034303160": 4,
+      "gas:candidate-vibid:4504034302672": 82,
+      "gas:candidate-vibid:4504034302730": 1,
+      "gas:candidate-vibid:4504034302684": 1,
+      "gas:candidate-vibid:4504034302235": 16,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 43,
-      "Артемов Сергей Александрович": 42,
-      "Асташов Сергей Сергеевич": 45,
-      "Королев Алексей Евгеньевич": 12,
-      "Пушкина Оксана Викторовна": 178,
-      "Савинов Вячеслав Николаевич": 5,
-      "Святославский Ярослав Александрович": 8,
-      "Спирин Юрий Леонидович": 47,
-      "Цехмистренко Федор Сергеевич": 4,
-      "Чувилин Владимир Анатольевич": 60
+      "gas:candidate-vibid:4504034302520": 43,
+      "gas:candidate-vibid:4504034302509": 42,
+      "gas:candidate-vibid:4504034302976": 45,
+      "gas:candidate-vibid:4504034303160": 12,
+      "gas:candidate-vibid:4504034302672": 178,
+      "gas:candidate-vibid:4504034302730": 5,
+      "gas:candidate-vibid:4504034302684": 8,
+      "gas:candidate-vibid:4504034302235": 47,
+      "gas:candidate-vibid:4504034303172": 4,
+      "gas:candidate-vibid:4504034302696": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 33,
-      "Артемов Сергей Александрович": 26,
-      "Асташов Сергей Сергеевич": 21,
-      "Королев Алексей Евгеньевич": 5,
-      "Пушкина Оксана Викторовна": 190,
-      "Савинов Вячеслав Николаевич": 3,
-      "Святославский Ярослав Александрович": 2,
-      "Спирин Юрий Леонидович": 30,
-      "Цехмистренко Федор Сергеевич": 2,
-      "Чувилин Владимир Анатольевич": 20
+      "gas:candidate-vibid:4504034302520": 33,
+      "gas:candidate-vibid:4504034302509": 26,
+      "gas:candidate-vibid:4504034302976": 21,
+      "gas:candidate-vibid:4504034303160": 5,
+      "gas:candidate-vibid:4504034302672": 190,
+      "gas:candidate-vibid:4504034302730": 3,
+      "gas:candidate-vibid:4504034302684": 2,
+      "gas:candidate-vibid:4504034302235": 30,
+      "gas:candidate-vibid:4504034303172": 2,
+      "gas:candidate-vibid:4504034302696": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 17,
-      "Артемов Сергей Александрович": 9,
-      "Асташов Сергей Сергеевич": 9,
-      "Королев Алексей Евгеньевич": 5,
-      "Пушкина Оксана Викторовна": 70,
-      "Савинов Вячеслав Николаевич": 2,
-      "Святославский Ярослав Александрович": 0,
-      "Спирин Юрий Леонидович": 11,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 12
+      "gas:candidate-vibid:4504034302520": 17,
+      "gas:candidate-vibid:4504034302509": 9,
+      "gas:candidate-vibid:4504034302976": 9,
+      "gas:candidate-vibid:4504034303160": 5,
+      "gas:candidate-vibid:4504034302672": 70,
+      "gas:candidate-vibid:4504034302730": 2,
+      "gas:candidate-vibid:4504034302684": 0,
+      "gas:candidate-vibid:4504034302235": 11,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 43,
-      "Артемов Сергей Александрович": 27,
-      "Асташов Сергей Сергеевич": 7,
-      "Королев Алексей Евгеньевич": 9,
-      "Пушкина Оксана Викторовна": 140,
-      "Савинов Вячеслав Николаевич": 5,
-      "Святославский Ярослав Александрович": 6,
-      "Спирин Юрий Леонидович": 34,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 30
+      "gas:candidate-vibid:4504034302520": 43,
+      "gas:candidate-vibid:4504034302509": 27,
+      "gas:candidate-vibid:4504034302976": 7,
+      "gas:candidate-vibid:4504034303160": 9,
+      "gas:candidate-vibid:4504034302672": 140,
+      "gas:candidate-vibid:4504034302730": 5,
+      "gas:candidate-vibid:4504034302684": 6,
+      "gas:candidate-vibid:4504034302235": 34,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 32,
-      "Артемов Сергей Александрович": 18,
-      "Асташов Сергей Сергеевич": 26,
-      "Королев Алексей Евгеньевич": 9,
-      "Пушкина Оксана Викторовна": 130,
-      "Савинов Вячеслав Николаевич": 4,
-      "Святославский Ярослав Александрович": 5,
-      "Спирин Юрий Леонидович": 36,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 34
+      "gas:candidate-vibid:4504034302520": 32,
+      "gas:candidate-vibid:4504034302509": 18,
+      "gas:candidate-vibid:4504034302976": 26,
+      "gas:candidate-vibid:4504034303160": 9,
+      "gas:candidate-vibid:4504034302672": 130,
+      "gas:candidate-vibid:4504034302730": 4,
+      "gas:candidate-vibid:4504034302684": 5,
+      "gas:candidate-vibid:4504034302235": 36,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 40,
-      "Артемов Сергей Александрович": 27,
-      "Асташов Сергей Сергеевич": 32,
-      "Королев Алексей Евгеньевич": 7,
-      "Пушкина Оксана Викторовна": 175,
-      "Савинов Вячеслав Николаевич": 6,
-      "Святославский Ярослав Александрович": 6,
-      "Спирин Юрий Леонидович": 36,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 43
+      "gas:candidate-vibid:4504034302520": 40,
+      "gas:candidate-vibid:4504034302509": 27,
+      "gas:candidate-vibid:4504034302976": 32,
+      "gas:candidate-vibid:4504034303160": 7,
+      "gas:candidate-vibid:4504034302672": 175,
+      "gas:candidate-vibid:4504034302730": 6,
+      "gas:candidate-vibid:4504034302684": 6,
+      "gas:candidate-vibid:4504034302235": 36,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 55,
-      "Артемов Сергей Александрович": 21,
-      "Асташов Сергей Сергеевич": 20,
-      "Королев Алексей Евгеньевич": 13,
-      "Пушкина Оксана Викторовна": 149,
-      "Савинов Вячеслав Николаевич": 4,
-      "Святославский Ярослав Александрович": 4,
-      "Спирин Юрий Леонидович": 31,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 42
+      "gas:candidate-vibid:4504034302520": 55,
+      "gas:candidate-vibid:4504034302509": 21,
+      "gas:candidate-vibid:4504034302976": 20,
+      "gas:candidate-vibid:4504034303160": 13,
+      "gas:candidate-vibid:4504034302672": 149,
+      "gas:candidate-vibid:4504034302730": 4,
+      "gas:candidate-vibid:4504034302684": 4,
+      "gas:candidate-vibid:4504034302235": 31,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 14,
-      "Артемов Сергей Александрович": 5,
-      "Асташов Сергей Сергеевич": 10,
-      "Королев Алексей Евгеньевич": 4,
-      "Пушкина Оксана Викторовна": 29,
-      "Савинов Вячеслав Николаевич": 3,
-      "Святославский Ярослав Александрович": 1,
-      "Спирин Юрий Леонидович": 16,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 6
+      "gas:candidate-vibid:4504034302520": 14,
+      "gas:candidate-vibid:4504034302509": 5,
+      "gas:candidate-vibid:4504034302976": 10,
+      "gas:candidate-vibid:4504034303160": 4,
+      "gas:candidate-vibid:4504034302672": 29,
+      "gas:candidate-vibid:4504034302730": 3,
+      "gas:candidate-vibid:4504034302684": 1,
+      "gas:candidate-vibid:4504034302235": 16,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 58,
-      "Артемов Сергей Александрович": 24,
-      "Асташов Сергей Сергеевич": 32,
-      "Королев Алексей Евгеньевич": 8,
-      "Пушкина Оксана Викторовна": 121,
-      "Савинов Вячеслав Николаевич": 7,
-      "Святославский Ярослав Александрович": 7,
-      "Спирин Юрий Леонидович": 39,
-      "Цехмистренко Федор Сергеевич": 3,
-      "Чувилин Владимир Анатольевич": 36
+      "gas:candidate-vibid:4504034302520": 58,
+      "gas:candidate-vibid:4504034302509": 24,
+      "gas:candidate-vibid:4504034302976": 32,
+      "gas:candidate-vibid:4504034303160": 8,
+      "gas:candidate-vibid:4504034302672": 121,
+      "gas:candidate-vibid:4504034302730": 7,
+      "gas:candidate-vibid:4504034302684": 7,
+      "gas:candidate-vibid:4504034302235": 39,
+      "gas:candidate-vibid:4504034303172": 3,
+      "gas:candidate-vibid:4504034302696": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 129,
-      "Артемов Сергей Александрович": 81,
-      "Асташов Сергей Сергеевич": 61,
-      "Королев Алексей Евгеньевич": 24,
-      "Пушкина Оксана Викторовна": 434,
-      "Савинов Вячеслав Николаевич": 28,
-      "Святославский Ярослав Александрович": 32,
-      "Спирин Юрий Леонидович": 79,
-      "Цехмистренко Федор Сергеевич": 8,
-      "Чувилин Владимир Анатольевич": 81
+      "gas:candidate-vibid:4504034302520": 129,
+      "gas:candidate-vibid:4504034302509": 81,
+      "gas:candidate-vibid:4504034302976": 61,
+      "gas:candidate-vibid:4504034303160": 24,
+      "gas:candidate-vibid:4504034302672": 434,
+      "gas:candidate-vibid:4504034302730": 28,
+      "gas:candidate-vibid:4504034302684": 32,
+      "gas:candidate-vibid:4504034302235": 79,
+      "gas:candidate-vibid:4504034303172": 8,
+      "gas:candidate-vibid:4504034302696": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 26,
-      "Артемов Сергей Александрович": 19,
-      "Асташов Сергей Сергеевич": 12,
-      "Королев Алексей Евгеньевич": 3,
-      "Пушкина Оксана Викторовна": 103,
-      "Савинов Вячеслав Николаевич": 10,
-      "Святославский Ярослав Александрович": 5,
-      "Спирин Юрий Леонидович": 20,
-      "Цехмистренко Федор Сергеевич": 2,
-      "Чувилин Владимир Анатольевич": 25
+      "gas:candidate-vibid:4504034302520": 26,
+      "gas:candidate-vibid:4504034302509": 19,
+      "gas:candidate-vibid:4504034302976": 12,
+      "gas:candidate-vibid:4504034303160": 3,
+      "gas:candidate-vibid:4504034302672": 103,
+      "gas:candidate-vibid:4504034302730": 10,
+      "gas:candidate-vibid:4504034302684": 5,
+      "gas:candidate-vibid:4504034302235": 20,
+      "gas:candidate-vibid:4504034303172": 2,
+      "gas:candidate-vibid:4504034302696": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 42,
-      "Артемов Сергей Александрович": 31,
-      "Асташов Сергей Сергеевич": 29,
-      "Королев Алексей Евгеньевич": 17,
-      "Пушкина Оксана Викторовна": 192,
-      "Савинов Вячеслав Николаевич": 11,
-      "Святославский Ярослав Александрович": 13,
-      "Спирин Юрий Леонидович": 46,
-      "Цехмистренко Федор Сергеевич": 3,
-      "Чувилин Владимир Анатольевич": 24
+      "gas:candidate-vibid:4504034302520": 42,
+      "gas:candidate-vibid:4504034302509": 31,
+      "gas:candidate-vibid:4504034302976": 29,
+      "gas:candidate-vibid:4504034303160": 17,
+      "gas:candidate-vibid:4504034302672": 192,
+      "gas:candidate-vibid:4504034302730": 11,
+      "gas:candidate-vibid:4504034302684": 13,
+      "gas:candidate-vibid:4504034302235": 46,
+      "gas:candidate-vibid:4504034303172": 3,
+      "gas:candidate-vibid:4504034302696": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 51,
-      "Артемов Сергей Александрович": 46,
-      "Асташов Сергей Сергеевич": 21,
-      "Королев Алексей Евгеньевич": 10,
-      "Пушкина Оксана Викторовна": 244,
-      "Савинов Вячеслав Николаевич": 5,
-      "Святославский Ярослав Александрович": 3,
-      "Спирин Юрий Леонидович": 36,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 36
+      "gas:candidate-vibid:4504034302520": 51,
+      "gas:candidate-vibid:4504034302509": 46,
+      "gas:candidate-vibid:4504034302976": 21,
+      "gas:candidate-vibid:4504034303160": 10,
+      "gas:candidate-vibid:4504034302672": 244,
+      "gas:candidate-vibid:4504034302730": 5,
+      "gas:candidate-vibid:4504034302684": 3,
+      "gas:candidate-vibid:4504034302235": 36,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 45,
-      "Артемов Сергей Александрович": 35,
-      "Асташов Сергей Сергеевич": 23,
-      "Королев Алексей Евгеньевич": 13,
-      "Пушкина Оксана Викторовна": 239,
-      "Савинов Вячеслав Николаевич": 12,
-      "Святославский Ярослав Александрович": 5,
-      "Спирин Юрий Леонидович": 35,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 39
+      "gas:candidate-vibid:4504034302520": 45,
+      "gas:candidate-vibid:4504034302509": 35,
+      "gas:candidate-vibid:4504034302976": 23,
+      "gas:candidate-vibid:4504034303160": 13,
+      "gas:candidate-vibid:4504034302672": 239,
+      "gas:candidate-vibid:4504034302730": 12,
+      "gas:candidate-vibid:4504034302684": 5,
+      "gas:candidate-vibid:4504034302235": 35,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 29,
-      "Артемов Сергей Александрович": 21,
-      "Асташов Сергей Сергеевич": 38,
-      "Королев Алексей Евгеньевич": 10,
-      "Пушкина Оксана Викторовна": 160,
-      "Савинов Вячеслав Николаевич": 6,
-      "Святославский Ярослав Александрович": 7,
-      "Спирин Юрий Леонидович": 18,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 23
+      "gas:candidate-vibid:4504034302520": 29,
+      "gas:candidate-vibid:4504034302509": 21,
+      "gas:candidate-vibid:4504034302976": 38,
+      "gas:candidate-vibid:4504034303160": 10,
+      "gas:candidate-vibid:4504034302672": 160,
+      "gas:candidate-vibid:4504034302730": 6,
+      "gas:candidate-vibid:4504034302684": 7,
+      "gas:candidate-vibid:4504034302235": 18,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 19,
-      "Артемов Сергей Александрович": 24,
-      "Асташов Сергей Сергеевич": 42,
-      "Королев Алексей Евгеньевич": 13,
-      "Пушкина Оксана Викторовна": 105,
-      "Савинов Вячеслав Николаевич": 3,
-      "Святославский Ярослав Александрович": 3,
-      "Спирин Юрий Леонидович": 25,
-      "Цехмистренко Федор Сергеевич": 1,
-      "Чувилин Владимир Анатольевич": 27
+      "gas:candidate-vibid:4504034302520": 19,
+      "gas:candidate-vibid:4504034302509": 24,
+      "gas:candidate-vibid:4504034302976": 42,
+      "gas:candidate-vibid:4504034303160": 13,
+      "gas:candidate-vibid:4504034302672": 105,
+      "gas:candidate-vibid:4504034302730": 3,
+      "gas:candidate-vibid:4504034302684": 3,
+      "gas:candidate-vibid:4504034302235": 25,
+      "gas:candidate-vibid:4504034303172": 1,
+      "gas:candidate-vibid:4504034302696": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 68,
-      "Артемов Сергей Александрович": 28,
-      "Асташов Сергей Сергеевич": 25,
-      "Королев Алексей Евгеньевич": 12,
-      "Пушкина Оксана Викторовна": 166,
-      "Савинов Вячеслав Николаевич": 11,
-      "Святославский Ярослав Александрович": 7,
-      "Спирин Юрий Леонидович": 32,
-      "Цехмистренко Федор Сергеевич": 3,
-      "Чувилин Владимир Анатольевич": 41
+      "gas:candidate-vibid:4504034302520": 68,
+      "gas:candidate-vibid:4504034302509": 28,
+      "gas:candidate-vibid:4504034302976": 25,
+      "gas:candidate-vibid:4504034303160": 12,
+      "gas:candidate-vibid:4504034302672": 166,
+      "gas:candidate-vibid:4504034302730": 11,
+      "gas:candidate-vibid:4504034302684": 7,
+      "gas:candidate-vibid:4504034302235": 32,
+      "gas:candidate-vibid:4504034303172": 3,
+      "gas:candidate-vibid:4504034302696": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 80,
-      "Артемов Сергей Александрович": 45,
-      "Асташов Сергей Сергеевич": 64,
-      "Королев Алексей Евгеньевич": 10,
-      "Пушкина Оксана Викторовна": 308,
-      "Савинов Вячеслав Николаевич": 11,
-      "Святославский Ярослав Александрович": 2,
-      "Спирин Юрий Леонидович": 38,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 45
+      "gas:candidate-vibid:4504034302520": 80,
+      "gas:candidate-vibid:4504034302509": 45,
+      "gas:candidate-vibid:4504034302976": 64,
+      "gas:candidate-vibid:4504034303160": 10,
+      "gas:candidate-vibid:4504034302672": 308,
+      "gas:candidate-vibid:4504034302730": 11,
+      "gas:candidate-vibid:4504034302684": 2,
+      "gas:candidate-vibid:4504034302235": 38,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005552&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005552&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 124,
-      "Артемов Сергей Александрович": 38,
-      "Асташов Сергей Сергеевич": 36,
-      "Королев Алексей Евгеньевич": 33,
-      "Пушкина Оксана Викторовна": 369,
-      "Савинов Вячеслав Николаевич": 17,
-      "Святославский Ярослав Александрович": 31,
-      "Спирин Юрий Леонидович": 74,
-      "Цехмистренко Федор Сергеевич": 4,
-      "Чувилин Владимир Анатольевич": 84
+      "gas:candidate-vibid:4504034302520": 124,
+      "gas:candidate-vibid:4504034302509": 38,
+      "gas:candidate-vibid:4504034302976": 36,
+      "gas:candidate-vibid:4504034303160": 33,
+      "gas:candidate-vibid:4504034302672": 369,
+      "gas:candidate-vibid:4504034302730": 17,
+      "gas:candidate-vibid:4504034302684": 31,
+      "gas:candidate-vibid:4504034302235": 74,
+      "gas:candidate-vibid:4504034303172": 4,
+      "gas:candidate-vibid:4504034302696": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 84,
-      "Артемов Сергей Александрович": 26,
-      "Асташов Сергей Сергеевич": 29,
-      "Королев Алексей Евгеньевич": 18,
-      "Пушкина Оксана Викторовна": 326,
-      "Савинов Вячеслав Николаевич": 18,
-      "Святославский Ярослав Александрович": 23,
-      "Спирин Юрий Леонидович": 93,
-      "Цехмистренко Федор Сергеевич": 3,
-      "Чувилин Владимир Анатольевич": 74
+      "gas:candidate-vibid:4504034302520": 84,
+      "gas:candidate-vibid:4504034302509": 26,
+      "gas:candidate-vibid:4504034302976": 29,
+      "gas:candidate-vibid:4504034303160": 18,
+      "gas:candidate-vibid:4504034302672": 326,
+      "gas:candidate-vibid:4504034302730": 18,
+      "gas:candidate-vibid:4504034302684": 23,
+      "gas:candidate-vibid:4504034302235": 93,
+      "gas:candidate-vibid:4504034303172": 3,
+      "gas:candidate-vibid:4504034302696": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 96,
-      "Артемов Сергей Александрович": 22,
-      "Асташов Сергей Сергеевич": 30,
-      "Королев Алексей Евгеньевич": 32,
-      "Пушкина Оксана Викторовна": 261,
-      "Савинов Вячеслав Николаевич": 7,
-      "Святославский Ярослав Александрович": 16,
-      "Спирин Юрий Леонидович": 69,
-      "Цехмистренко Федор Сергеевич": 0,
-      "Чувилин Владимир Анатольевич": 57
+      "gas:candidate-vibid:4504034302520": 96,
+      "gas:candidate-vibid:4504034302509": 22,
+      "gas:candidate-vibid:4504034302976": 30,
+      "gas:candidate-vibid:4504034303160": 32,
+      "gas:candidate-vibid:4504034302672": 261,
+      "gas:candidate-vibid:4504034302730": 7,
+      "gas:candidate-vibid:4504034302684": 16,
+      "gas:candidate-vibid:4504034302235": 69,
+      "gas:candidate-vibid:4504034303172": 0,
+      "gas:candidate-vibid:4504034302696": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 112,
-      "Артемов Сергей Александрович": 32,
-      "Асташов Сергей Сергеевич": 32,
-      "Королев Алексей Евгеньевич": 28,
-      "Пушкина Оксана Викторовна": 357,
-      "Савинов Вячеслав Николаевич": 17,
-      "Святославский Ярослав Александрович": 33,
-      "Спирин Юрий Леонидович": 107,
-      "Цехмистренко Федор Сергеевич": 4,
-      "Чувилин Владимир Анатольевич": 78
+      "gas:candidate-vibid:4504034302520": 112,
+      "gas:candidate-vibid:4504034302509": 32,
+      "gas:candidate-vibid:4504034302976": 32,
+      "gas:candidate-vibid:4504034303160": 28,
+      "gas:candidate-vibid:4504034302672": 357,
+      "gas:candidate-vibid:4504034302730": 17,
+      "gas:candidate-vibid:4504034302684": 33,
+      "gas:candidate-vibid:4504034302235": 107,
+      "gas:candidate-vibid:4504034303172": 4,
+      "gas:candidate-vibid:4504034302696": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 63,
-      "Артемов Сергей Александрович": 33,
-      "Асташов Сергей Сергеевич": 20,
-      "Королев Алексей Евгеньевич": 37,
-      "Пушкина Оксана Викторовна": 272,
-      "Савинов Вячеслав Николаевич": 14,
-      "Святославский Ярослав Александрович": 31,
-      "Спирин Юрий Леонидович": 105,
-      "Цехмистренко Федор Сергеевич": 5,
-      "Чувилин Владимир Анатольевич": 63
+      "gas:candidate-vibid:4504034302520": 63,
+      "gas:candidate-vibid:4504034302509": 33,
+      "gas:candidate-vibid:4504034302976": 20,
+      "gas:candidate-vibid:4504034303160": 37,
+      "gas:candidate-vibid:4504034302672": 272,
+      "gas:candidate-vibid:4504034302730": 14,
+      "gas:candidate-vibid:4504034302684": 31,
+      "gas:candidate-vibid:4504034302235": 105,
+      "gas:candidate-vibid:4504034303172": 5,
+      "gas:candidate-vibid:4504034302696": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 129,
-      "Артемов Сергей Александрович": 42,
-      "Асташов Сергей Сергеевич": 21,
-      "Королев Алексей Евгеньевич": 23,
-      "Пушкина Оксана Викторовна": 323,
-      "Савинов Вячеслав Николаевич": 19,
-      "Святославский Ярослав Александрович": 36,
-      "Спирин Юрий Леонидович": 91,
-      "Цехмистренко Федор Сергеевич": 4,
-      "Чувилин Владимир Анатольевич": 83
+      "gas:candidate-vibid:4504034302520": 129,
+      "gas:candidate-vibid:4504034302509": 42,
+      "gas:candidate-vibid:4504034302976": 21,
+      "gas:candidate-vibid:4504034303160": 23,
+      "gas:candidate-vibid:4504034302672": 323,
+      "gas:candidate-vibid:4504034302730": 19,
+      "gas:candidate-vibid:4504034302684": 36,
+      "gas:candidate-vibid:4504034302235": 91,
+      "gas:candidate-vibid:4504034303172": 4,
+      "gas:candidate-vibid:4504034302696": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 186,
-      "Артемов Сергей Александрович": 44,
-      "Асташов Сергей Сергеевич": 33,
-      "Королев Алексей Евгеньевич": 40,
-      "Пушкина Оксана Викторовна": 402,
-      "Савинов Вячеслав Николаевич": 32,
-      "Святославский Ярослав Александрович": 47,
-      "Спирин Юрий Леонидович": 96,
-      "Цехмистренко Федор Сергеевич": 6,
-      "Чувилин Владимир Анатольевич": 151
+      "gas:candidate-vibid:4504034302520": 186,
+      "gas:candidate-vibid:4504034302509": 44,
+      "gas:candidate-vibid:4504034302976": 33,
+      "gas:candidate-vibid:4504034303160": 40,
+      "gas:candidate-vibid:4504034302672": 402,
+      "gas:candidate-vibid:4504034302730": 32,
+      "gas:candidate-vibid:4504034302684": 47,
+      "gas:candidate-vibid:4504034302235": 96,
+      "gas:candidate-vibid:4504034303172": 6,
+      "gas:candidate-vibid:4504034302696": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_50_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алкснис Виктор Имантович": 125,
-      "Артемов Сергей Александрович": 35,
-      "Асташов Сергей Сергеевич": 49,
-      "Королев Алексей Евгеньевич": 31,
-      "Пушкина Оксана Викторовна": 512,
-      "Савинов Вячеслав Николаевич": 21,
-      "Святославский Ярослав Александрович": 50,
-      "Спирин Юрий Леонидович": 110,
-      "Цехмистренко Федор Сергеевич": 6,
-      "Чувилин Владимир Анатольевич": 88
+      "gas:candidate-vibid:4504034302520": 125,
+      "gas:candidate-vibid:4504034302509": 35,
+      "gas:candidate-vibid:4504034302976": 49,
+      "gas:candidate-vibid:4504034303160": 31,
+      "gas:candidate-vibid:4504034302672": 512,
+      "gas:candidate-vibid:4504034302730": 21,
+      "gas:candidate-vibid:4504034302684": 50,
+      "gas:candidate-vibid:4504034302235": 110,
+      "gas:candidate-vibid:4504034303172": 6,
+      "gas:candidate-vibid:4504034302696": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000161&tvd=25020002005553&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005553&type=464",

@@ -851,7 +851,12 @@ def validate(args: argparse.Namespace) -> int:
     observations = list(crawl_report["observations"])
     for path in args.additional_crawl_report or []:
         observations.extend(_load(path)["observations"])
-    report = coverage_report(hierarchy["nodes"], observations)
+    protocol_observations = [
+        item
+        for item in observations
+        if str(item.get("report_type")) in {"233", "242", "463", "464"}
+    ]
+    report = coverage_report(hierarchy["nodes"], protocol_observations)
     if args.protocols:
         protocols = _load(args.protocols)
         failed_tiks = {
@@ -1161,6 +1166,7 @@ def build(args: argparse.Namespace) -> int:
                 {
                     "uik_number": record["uik_number"],
                     "uik_tvd": str(record["uik_tvd"]),
+                    "uik_name": str(relation.get("uik_name") or ""),
                     "tik_tvd": tik_tvd,
                     "tik_name": tik_names.get(tik_tvd, ""),
                     "region": str(relation.get("region", "")),

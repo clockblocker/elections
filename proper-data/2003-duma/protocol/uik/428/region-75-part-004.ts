@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 226,
-      "Глазырина Ирина Петровна": 70,
-      "Григорьев Виктор Иванович": 30,
-      "Жидков Андрей Алексеевич": 65,
-      "Никонов Юрий Иннокентьевич": 92,
-      "Останин Виктор Алексеевич": 207,
-      "Палкин Владимир Дмитриевич": 40,
-      "Романов Анатолий Павлович": 725,
-      "Против всех": 383
+      "gas:candidate-vibid:1001000131423": 226,
+      "gas:candidate-vibid:1001000112273": 70,
+      "gas:candidate-vibid:375300266651": 30,
+      "gas:candidate-vibid:375300266785": 65,
+      "gas:candidate-vibid:1001000136143": 92,
+      "gas:candidate-vibid:375300266648": 207,
+      "gas:candidate-vibid:1001000203792": 40,
+      "gas:candidate-vibid:1001000226001": 725,
+      "special:against-all": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 273,
-      "Глазырина Ирина Петровна": 79,
-      "Григорьев Виктор Иванович": 27,
-      "Жидков Андрей Алексеевич": 56,
-      "Никонов Юрий Иннокентьевич": 123,
-      "Останин Виктор Алексеевич": 114,
-      "Палкин Владимир Дмитриевич": 42,
-      "Романов Анатолий Павлович": 307,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000131423": 273,
+      "gas:candidate-vibid:1001000112273": 79,
+      "gas:candidate-vibid:375300266651": 27,
+      "gas:candidate-vibid:375300266785": 56,
+      "gas:candidate-vibid:1001000136143": 123,
+      "gas:candidate-vibid:375300266648": 114,
+      "gas:candidate-vibid:1001000203792": 42,
+      "gas:candidate-vibid:1001000226001": 307,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 217,
-      "Глазырина Ирина Петровна": 40,
-      "Григорьев Виктор Иванович": 8,
-      "Жидков Андрей Алексеевич": 32,
-      "Никонов Юрий Иннокентьевич": 157,
-      "Останин Виктор Алексеевич": 169,
-      "Палкин Владимир Дмитриевич": 16,
-      "Романов Анатолий Павлович": 193,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131423": 217,
+      "gas:candidate-vibid:1001000112273": 40,
+      "gas:candidate-vibid:375300266651": 8,
+      "gas:candidate-vibid:375300266785": 32,
+      "gas:candidate-vibid:1001000136143": 157,
+      "gas:candidate-vibid:375300266648": 169,
+      "gas:candidate-vibid:1001000203792": 16,
+      "gas:candidate-vibid:1001000226001": 193,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 175,
-      "Глазырина Ирина Петровна": 46,
-      "Григорьев Виктор Иванович": 14,
-      "Жидков Андрей Алексеевич": 28,
-      "Никонов Юрий Иннокентьевич": 109,
-      "Останин Виктор Алексеевич": 84,
-      "Палкин Владимир Дмитриевич": 16,
-      "Романов Анатолий Павлович": 235,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000131423": 175,
+      "gas:candidate-vibid:1001000112273": 46,
+      "gas:candidate-vibid:375300266651": 14,
+      "gas:candidate-vibid:375300266785": 28,
+      "gas:candidate-vibid:1001000136143": 109,
+      "gas:candidate-vibid:375300266648": 84,
+      "gas:candidate-vibid:1001000203792": 16,
+      "gas:candidate-vibid:1001000226001": 235,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 362,
-      "Глазырина Ирина Петровна": 41,
-      "Григорьев Виктор Иванович": 17,
-      "Жидков Андрей Алексеевич": 58,
-      "Никонов Юрий Иннокентьевич": 98,
-      "Останин Виктор Алексеевич": 290,
-      "Палкин Владимир Дмитриевич": 17,
-      "Романов Анатолий Павлович": 335,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000131423": 362,
+      "gas:candidate-vibid:1001000112273": 41,
+      "gas:candidate-vibid:375300266651": 17,
+      "gas:candidate-vibid:375300266785": 58,
+      "gas:candidate-vibid:1001000136143": 98,
+      "gas:candidate-vibid:375300266648": 290,
+      "gas:candidate-vibid:1001000203792": 17,
+      "gas:candidate-vibid:1001000226001": 335,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 244,
-      "Глазырина Ирина Петровна": 45,
-      "Григорьев Виктор Иванович": 22,
-      "Жидков Андрей Алексеевич": 47,
-      "Никонов Юрий Иннокентьевич": 106,
-      "Останин Виктор Алексеевич": 299,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 276,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000131423": 244,
+      "gas:candidate-vibid:1001000112273": 45,
+      "gas:candidate-vibid:375300266651": 22,
+      "gas:candidate-vibid:375300266785": 47,
+      "gas:candidate-vibid:1001000136143": 106,
+      "gas:candidate-vibid:375300266648": 299,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 276,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 224,
-      "Глазырина Ирина Петровна": 49,
-      "Григорьев Виктор Иванович": 12,
-      "Жидков Андрей Алексеевич": 50,
-      "Никонов Юрий Иннокентьевич": 93,
-      "Останин Виктор Алексеевич": 287,
-      "Палкин Владимир Дмитриевич": 32,
-      "Романов Анатолий Павлович": 235,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000131423": 224,
+      "gas:candidate-vibid:1001000112273": 49,
+      "gas:candidate-vibid:375300266651": 12,
+      "gas:candidate-vibid:375300266785": 50,
+      "gas:candidate-vibid:1001000136143": 93,
+      "gas:candidate-vibid:375300266648": 287,
+      "gas:candidate-vibid:1001000203792": 32,
+      "gas:candidate-vibid:1001000226001": 235,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 140,
-      "Глазырина Ирина Петровна": 63,
-      "Григорьев Виктор Иванович": 18,
-      "Жидков Андрей Алексеевич": 28,
-      "Никонов Юрий Иннокентьевич": 46,
-      "Останин Виктор Алексеевич": 250,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 192,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131423": 140,
+      "gas:candidate-vibid:1001000112273": 63,
+      "gas:candidate-vibid:375300266651": 18,
+      "gas:candidate-vibid:375300266785": 28,
+      "gas:candidate-vibid:1001000136143": 46,
+      "gas:candidate-vibid:375300266648": 250,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 192,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 159,
-      "Глазырина Ирина Петровна": 64,
-      "Григорьев Виктор Иванович": 23,
-      "Жидков Андрей Алексеевич": 50,
-      "Никонов Юрий Иннокентьевич": 78,
-      "Останин Виктор Алексеевич": 135,
-      "Палкин Владимир Дмитриевич": 11,
-      "Романов Анатолий Павлович": 266,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000131423": 159,
+      "gas:candidate-vibid:1001000112273": 64,
+      "gas:candidate-vibid:375300266651": 23,
+      "gas:candidate-vibid:375300266785": 50,
+      "gas:candidate-vibid:1001000136143": 78,
+      "gas:candidate-vibid:375300266648": 135,
+      "gas:candidate-vibid:1001000203792": 11,
+      "gas:candidate-vibid:1001000226001": 266,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 250,
-      "Глазырина Ирина Петровна": 55,
-      "Григорьев Виктор Иванович": 23,
-      "Жидков Андрей Алексеевич": 64,
-      "Никонов Юрий Иннокентьевич": 60,
-      "Останин Виктор Алексеевич": 288,
-      "Палкин Владимир Дмитриевич": 23,
-      "Романов Анатолий Павлович": 280,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000131423": 250,
+      "gas:candidate-vibid:1001000112273": 55,
+      "gas:candidate-vibid:375300266651": 23,
+      "gas:candidate-vibid:375300266785": 64,
+      "gas:candidate-vibid:1001000136143": 60,
+      "gas:candidate-vibid:375300266648": 288,
+      "gas:candidate-vibid:1001000203792": 23,
+      "gas:candidate-vibid:1001000226001": 280,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 219,
-      "Глазырина Ирина Петровна": 40,
-      "Григорьев Виктор Иванович": 18,
-      "Жидков Андрей Алексеевич": 50,
-      "Никонов Юрий Иннокентьевич": 49,
-      "Останин Виктор Алексеевич": 345,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 219,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131423": 219,
+      "gas:candidate-vibid:1001000112273": 40,
+      "gas:candidate-vibid:375300266651": 18,
+      "gas:candidate-vibid:375300266785": 50,
+      "gas:candidate-vibid:1001000136143": 49,
+      "gas:candidate-vibid:375300266648": 345,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 219,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 101,
-      "Глазырина Ирина Петровна": 24,
-      "Григорьев Виктор Иванович": 13,
-      "Жидков Андрей Алексеевич": 31,
-      "Никонов Юрий Иннокентьевич": 35,
-      "Останин Виктор Алексеевич": 120,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 136,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000131423": 101,
+      "gas:candidate-vibid:1001000112273": 24,
+      "gas:candidate-vibid:375300266651": 13,
+      "gas:candidate-vibid:375300266785": 31,
+      "gas:candidate-vibid:1001000136143": 35,
+      "gas:candidate-vibid:375300266648": 120,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 136,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 134,
-      "Глазырина Ирина Петровна": 28,
-      "Григорьев Виктор Иванович": 8,
-      "Жидков Андрей Алексеевич": 19,
-      "Никонов Юрий Иннокентьевич": 44,
-      "Останин Виктор Алексеевич": 145,
-      "Палкин Владимир Дмитриевич": 18,
-      "Романов Анатолий Павлович": 109,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000131423": 134,
+      "gas:candidate-vibid:1001000112273": 28,
+      "gas:candidate-vibid:375300266651": 8,
+      "gas:candidate-vibid:375300266785": 19,
+      "gas:candidate-vibid:1001000136143": 44,
+      "gas:candidate-vibid:375300266648": 145,
+      "gas:candidate-vibid:1001000203792": 18,
+      "gas:candidate-vibid:1001000226001": 109,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 229,
-      "Глазырина Ирина Петровна": 61,
-      "Григорьев Виктор Иванович": 21,
-      "Жидков Андрей Алексеевич": 38,
-      "Никонов Юрий Иннокентьевич": 64,
-      "Останин Виктор Алексеевич": 357,
-      "Палкин Владимир Дмитриевич": 23,
-      "Романов Анатолий Павлович": 246,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000131423": 229,
+      "gas:candidate-vibid:1001000112273": 61,
+      "gas:candidate-vibid:375300266651": 21,
+      "gas:candidate-vibid:375300266785": 38,
+      "gas:candidate-vibid:1001000136143": 64,
+      "gas:candidate-vibid:375300266648": 357,
+      "gas:candidate-vibid:1001000203792": 23,
+      "gas:candidate-vibid:1001000226001": 246,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 276,
-      "Глазырина Ирина Петровна": 71,
-      "Григорьев Виктор Иванович": 20,
-      "Жидков Андрей Алексеевич": 58,
-      "Никонов Юрий Иннокентьевич": 66,
-      "Останин Виктор Алексеевич": 417,
-      "Палкин Владимир Дмитриевич": 22,
-      "Романов Анатолий Павлович": 275,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131423": 276,
+      "gas:candidate-vibid:1001000112273": 71,
+      "gas:candidate-vibid:375300266651": 20,
+      "gas:candidate-vibid:375300266785": 58,
+      "gas:candidate-vibid:1001000136143": 66,
+      "gas:candidate-vibid:375300266648": 417,
+      "gas:candidate-vibid:1001000203792": 22,
+      "gas:candidate-vibid:1001000226001": 275,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 153,
-      "Глазырина Ирина Петровна": 31,
-      "Григорьев Виктор Иванович": 12,
-      "Жидков Андрей Алексеевич": 30,
-      "Никонов Юрий Иннокентьевич": 42,
-      "Останин Виктор Алексеевич": 150,
-      "Палкин Владимир Дмитриевич": 15,
-      "Романов Анатолий Павлович": 235,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000131423": 153,
+      "gas:candidate-vibid:1001000112273": 31,
+      "gas:candidate-vibid:375300266651": 12,
+      "gas:candidate-vibid:375300266785": 30,
+      "gas:candidate-vibid:1001000136143": 42,
+      "gas:candidate-vibid:375300266648": 150,
+      "gas:candidate-vibid:1001000203792": 15,
+      "gas:candidate-vibid:1001000226001": 235,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 139,
-      "Глазырина Ирина Петровна": 24,
-      "Григорьев Виктор Иванович": 11,
-      "Жидков Андрей Алексеевич": 38,
-      "Никонов Юрий Иннокентьевич": 51,
-      "Останин Виктор Алексеевич": 124,
-      "Палкин Владимир Дмитриевич": 15,
-      "Романов Анатолий Павлович": 205,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000131423": 139,
+      "gas:candidate-vibid:1001000112273": 24,
+      "gas:candidate-vibid:375300266651": 11,
+      "gas:candidate-vibid:375300266785": 38,
+      "gas:candidate-vibid:1001000136143": 51,
+      "gas:candidate-vibid:375300266648": 124,
+      "gas:candidate-vibid:1001000203792": 15,
+      "gas:candidate-vibid:1001000226001": 205,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 174,
-      "Глазырина Ирина Петровна": 41,
-      "Григорьев Виктор Иванович": 12,
-      "Жидков Андрей Алексеевич": 25,
-      "Никонов Юрий Иннокентьевич": 67,
-      "Останин Виктор Алексеевич": 185,
-      "Палкин Владимир Дмитриевич": 16,
-      "Романов Анатолий Павлович": 213,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000131423": 174,
+      "gas:candidate-vibid:1001000112273": 41,
+      "gas:candidate-vibid:375300266651": 12,
+      "gas:candidate-vibid:375300266785": 25,
+      "gas:candidate-vibid:1001000136143": 67,
+      "gas:candidate-vibid:375300266648": 185,
+      "gas:candidate-vibid:1001000203792": 16,
+      "gas:candidate-vibid:1001000226001": 213,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 216,
-      "Глазырина Ирина Петровна": 57,
-      "Григорьев Виктор Иванович": 14,
-      "Жидков Андрей Алексеевич": 88,
-      "Никонов Юрий Иннокентьевич": 66,
-      "Останин Виктор Алексеевич": 292,
-      "Палкин Владимир Дмитриевич": 22,
-      "Романов Анатолий Павлович": 301,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000131423": 216,
+      "gas:candidate-vibid:1001000112273": 57,
+      "gas:candidate-vibid:375300266651": 14,
+      "gas:candidate-vibid:375300266785": 88,
+      "gas:candidate-vibid:1001000136143": 66,
+      "gas:candidate-vibid:375300266648": 292,
+      "gas:candidate-vibid:1001000203792": 22,
+      "gas:candidate-vibid:1001000226001": 301,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 204,
-      "Глазырина Ирина Петровна": 39,
-      "Григорьев Виктор Иванович": 22,
-      "Жидков Андрей Алексеевич": 80,
-      "Никонов Юрий Иннокентьевич": 75,
-      "Останин Виктор Алексеевич": 343,
-      "Палкин Владимир Дмитриевич": 20,
-      "Романов Анатолий Павлович": 324,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000131423": 204,
+      "gas:candidate-vibid:1001000112273": 39,
+      "gas:candidate-vibid:375300266651": 22,
+      "gas:candidate-vibid:375300266785": 80,
+      "gas:candidate-vibid:1001000136143": 75,
+      "gas:candidate-vibid:375300266648": 343,
+      "gas:candidate-vibid:1001000203792": 20,
+      "gas:candidate-vibid:1001000226001": 324,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 153,
-      "Глазырина Ирина Петровна": 32,
-      "Григорьев Виктор Иванович": 7,
-      "Жидков Андрей Алексеевич": 30,
-      "Никонов Юрий Иннокентьевич": 42,
-      "Останин Виктор Алексеевич": 134,
-      "Палкин Владимир Дмитриевич": 5,
-      "Романов Анатолий Павлович": 231,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000131423": 153,
+      "gas:candidate-vibid:1001000112273": 32,
+      "gas:candidate-vibid:375300266651": 7,
+      "gas:candidate-vibid:375300266785": 30,
+      "gas:candidate-vibid:1001000136143": 42,
+      "gas:candidate-vibid:375300266648": 134,
+      "gas:candidate-vibid:1001000203792": 5,
+      "gas:candidate-vibid:1001000226001": 231,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 54,
-      "Глазырина Ирина Петровна": 7,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 15,
-      "Останин Виктор Алексеевич": 53,
-      "Палкин Владимир Дмитриевич": 5,
-      "Романов Анатолий Павлович": 51,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131423": 54,
+      "gas:candidate-vibid:1001000112273": 7,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 15,
+      "gas:candidate-vibid:375300266648": 53,
+      "gas:candidate-vibid:1001000203792": 5,
+      "gas:candidate-vibid:1001000226001": 51,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 207,
-      "Глазырина Ирина Петровна": 61,
-      "Григорьев Виктор Иванович": 9,
-      "Жидков Андрей Алексеевич": 26,
-      "Никонов Юрий Иннокентьевич": 76,
-      "Останин Виктор Алексеевич": 176,
-      "Палкин Владимир Дмитриевич": 17,
-      "Романов Анатолий Павлович": 187,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131423": 207,
+      "gas:candidate-vibid:1001000112273": 61,
+      "gas:candidate-vibid:375300266651": 9,
+      "gas:candidate-vibid:375300266785": 26,
+      "gas:candidate-vibid:1001000136143": 76,
+      "gas:candidate-vibid:375300266648": 176,
+      "gas:candidate-vibid:1001000203792": 17,
+      "gas:candidate-vibid:1001000226001": 187,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 56,
-      "Глазырина Ирина Петровна": 10,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 3,
-      "Никонов Юрий Иннокентьевич": 5,
-      "Останин Виктор Алексеевич": 6,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 102,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131423": 56,
+      "gas:candidate-vibid:1001000112273": 10,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 3,
+      "gas:candidate-vibid:1001000136143": 5,
+      "gas:candidate-vibid:375300266648": 6,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 102,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 137,
-      "Глазырина Ирина Петровна": 19,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 13,
-      "Никонов Юрий Иннокентьевич": 22,
-      "Останин Виктор Алексеевич": 19,
-      "Палкин Владимир Дмитриевич": 6,
-      "Романов Анатолий Павлович": 24,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000131423": 137,
+      "gas:candidate-vibid:1001000112273": 19,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 13,
+      "gas:candidate-vibid:1001000136143": 22,
+      "gas:candidate-vibid:375300266648": 19,
+      "gas:candidate-vibid:1001000203792": 6,
+      "gas:candidate-vibid:1001000226001": 24,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067493&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 261,
-      "Глазырина Ирина Петровна": 50,
-      "Григорьев Виктор Иванович": 16,
-      "Жидков Андрей Алексеевич": 72,
-      "Никонов Юрий Иннокентьевич": 82,
-      "Останин Виктор Алексеевич": 223,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 417,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000131423": 261,
+      "gas:candidate-vibid:1001000112273": 50,
+      "gas:candidate-vibid:375300266651": 16,
+      "gas:candidate-vibid:375300266785": 72,
+      "gas:candidate-vibid:1001000136143": 82,
+      "gas:candidate-vibid:375300266648": 223,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 417,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 290,
-      "Глазырина Ирина Петровна": 46,
-      "Григорьев Виктор Иванович": 14,
-      "Жидков Андрей Алексеевич": 75,
-      "Никонов Юрий Иннокентьевич": 73,
-      "Останин Виктор Алексеевич": 464,
-      "Палкин Владимир Дмитриевич": 22,
-      "Романов Анатолий Павлович": 259,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000131423": 290,
+      "gas:candidate-vibid:1001000112273": 46,
+      "gas:candidate-vibid:375300266651": 14,
+      "gas:candidate-vibid:375300266785": 75,
+      "gas:candidate-vibid:1001000136143": 73,
+      "gas:candidate-vibid:375300266648": 464,
+      "gas:candidate-vibid:1001000203792": 22,
+      "gas:candidate-vibid:1001000226001": 259,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 304,
-      "Глазырина Ирина Петровна": 85,
-      "Григорьев Виктор Иванович": 13,
-      "Жидков Андрей Алексеевич": 80,
-      "Никонов Юрий Иннокентьевич": 98,
-      "Останин Виктор Алексеевич": 359,
-      "Палкин Владимир Дмитриевич": 24,
-      "Романов Анатолий Павлович": 341,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000131423": 304,
+      "gas:candidate-vibid:1001000112273": 85,
+      "gas:candidate-vibid:375300266651": 13,
+      "gas:candidate-vibid:375300266785": 80,
+      "gas:candidate-vibid:1001000136143": 98,
+      "gas:candidate-vibid:375300266648": 359,
+      "gas:candidate-vibid:1001000203792": 24,
+      "gas:candidate-vibid:1001000226001": 341,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 253,
-      "Глазырина Ирина Петровна": 64,
-      "Григорьев Виктор Иванович": 18,
-      "Жидков Андрей Алексеевич": 72,
-      "Никонов Юрий Иннокентьевич": 61,
-      "Останин Виктор Алексеевич": 376,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 250,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000131423": 253,
+      "gas:candidate-vibid:1001000112273": 64,
+      "gas:candidate-vibid:375300266651": 18,
+      "gas:candidate-vibid:375300266785": 72,
+      "gas:candidate-vibid:1001000136143": 61,
+      "gas:candidate-vibid:375300266648": 376,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 250,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 248,
-      "Глазырина Ирина Петровна": 91,
-      "Григорьев Виктор Иванович": 22,
-      "Жидков Андрей Алексеевич": 71,
-      "Никонов Юрий Иннокентьевич": 64,
-      "Останин Виктор Алексеевич": 335,
-      "Палкин Владимир Дмитриевич": 29,
-      "Романов Анатолий Павлович": 356,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000131423": 248,
+      "gas:candidate-vibid:1001000112273": 91,
+      "gas:candidate-vibid:375300266651": 22,
+      "gas:candidate-vibid:375300266785": 71,
+      "gas:candidate-vibid:1001000136143": 64,
+      "gas:candidate-vibid:375300266648": 335,
+      "gas:candidate-vibid:1001000203792": 29,
+      "gas:candidate-vibid:1001000226001": 356,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 190,
-      "Глазырина Ирина Петровна": 63,
-      "Григорьев Виктор Иванович": 13,
-      "Жидков Андрей Алексеевич": 89,
-      "Никонов Юрий Иннокентьевич": 85,
-      "Останин Виктор Алексеевич": 159,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 286,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131423": 190,
+      "gas:candidate-vibid:1001000112273": 63,
+      "gas:candidate-vibid:375300266651": 13,
+      "gas:candidate-vibid:375300266785": 89,
+      "gas:candidate-vibid:1001000136143": 85,
+      "gas:candidate-vibid:375300266648": 159,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 286,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 261,
-      "Глазырина Ирина Петровна": 70,
-      "Григорьев Виктор Иванович": 16,
-      "Жидков Андрей Алексеевич": 55,
-      "Никонов Юрий Иннокентьевич": 92,
-      "Останин Виктор Алексеевич": 210,
-      "Палкин Владимир Дмитриевич": 33,
-      "Романов Анатолий Павлович": 340,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000131423": 261,
+      "gas:candidate-vibid:1001000112273": 70,
+      "gas:candidate-vibid:375300266651": 16,
+      "gas:candidate-vibid:375300266785": 55,
+      "gas:candidate-vibid:1001000136143": 92,
+      "gas:candidate-vibid:375300266648": 210,
+      "gas:candidate-vibid:1001000203792": 33,
+      "gas:candidate-vibid:1001000226001": 340,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 256,
-      "Глазырина Ирина Петровна": 72,
-      "Григорьев Виктор Иванович": 23,
-      "Жидков Андрей Алексеевич": 98,
-      "Никонов Юрий Иннокентьевич": 94,
-      "Останин Виктор Алексеевич": 288,
-      "Палкин Владимир Дмитриевич": 27,
-      "Романов Анатолий Павлович": 291,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000131423": 256,
+      "gas:candidate-vibid:1001000112273": 72,
+      "gas:candidate-vibid:375300266651": 23,
+      "gas:candidate-vibid:375300266785": 98,
+      "gas:candidate-vibid:1001000136143": 94,
+      "gas:candidate-vibid:375300266648": 288,
+      "gas:candidate-vibid:1001000203792": 27,
+      "gas:candidate-vibid:1001000226001": 291,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 251,
-      "Глазырина Ирина Петровна": 79,
-      "Григорьев Виктор Иванович": 14,
-      "Жидков Андрей Алексеевич": 61,
-      "Никонов Юрий Иннокентьевич": 68,
-      "Останин Виктор Алексеевич": 286,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 293,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000131423": 251,
+      "gas:candidate-vibid:1001000112273": 79,
+      "gas:candidate-vibid:375300266651": 14,
+      "gas:candidate-vibid:375300266785": 61,
+      "gas:candidate-vibid:1001000136143": 68,
+      "gas:candidate-vibid:375300266648": 286,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 293,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 264,
-      "Глазырина Ирина Петровна": 55,
-      "Григорьев Виктор Иванович": 11,
-      "Жидков Андрей Алексеевич": 60,
-      "Никонов Юрий Иннокентьевич": 78,
-      "Останин Виктор Алексеевич": 294,
-      "Палкин Владимир Дмитриевич": 16,
-      "Романов Анатолий Павлович": 329,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000131423": 264,
+      "gas:candidate-vibid:1001000112273": 55,
+      "gas:candidate-vibid:375300266651": 11,
+      "gas:candidate-vibid:375300266785": 60,
+      "gas:candidate-vibid:1001000136143": 78,
+      "gas:candidate-vibid:375300266648": 294,
+      "gas:candidate-vibid:1001000203792": 16,
+      "gas:candidate-vibid:1001000226001": 329,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 246,
-      "Глазырина Ирина Петровна": 66,
-      "Григорьев Виктор Иванович": 9,
-      "Жидков Андрей Алексеевич": 104,
-      "Никонов Юрий Иннокентьевич": 67,
-      "Останин Виктор Алексеевич": 482,
-      "Палкин Владимир Дмитриевич": 30,
-      "Романов Анатолий Павлович": 246,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000131423": 246,
+      "gas:candidate-vibid:1001000112273": 66,
+      "gas:candidate-vibid:375300266651": 9,
+      "gas:candidate-vibid:375300266785": 104,
+      "gas:candidate-vibid:1001000136143": 67,
+      "gas:candidate-vibid:375300266648": 482,
+      "gas:candidate-vibid:1001000203792": 30,
+      "gas:candidate-vibid:1001000226001": 246,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 176,
-      "Глазырина Ирина Петровна": 14,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 39,
-      "Никонов Юрий Иннокентьевич": 39,
-      "Останин Виктор Алексеевич": 111,
-      "Палкин Владимир Дмитриевич": 23,
-      "Романов Анатолий Павлович": 258,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000131423": 176,
+      "gas:candidate-vibid:1001000112273": 14,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 39,
+      "gas:candidate-vibid:1001000136143": 39,
+      "gas:candidate-vibid:375300266648": 111,
+      "gas:candidate-vibid:1001000203792": 23,
+      "gas:candidate-vibid:1001000226001": 258,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 249,
-      "Глазырина Ирина Петровна": 54,
-      "Григорьев Виктор Иванович": 19,
-      "Жидков Андрей Алексеевич": 60,
-      "Никонов Юрий Иннокентьевич": 58,
-      "Останин Виктор Алексеевич": 290,
-      "Палкин Владимир Дмитриевич": 15,
-      "Романов Анатолий Павлович": 262,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000131423": 249,
+      "gas:candidate-vibid:1001000112273": 54,
+      "gas:candidate-vibid:375300266651": 19,
+      "gas:candidate-vibid:375300266785": 60,
+      "gas:candidate-vibid:1001000136143": 58,
+      "gas:candidate-vibid:375300266648": 290,
+      "gas:candidate-vibid:1001000203792": 15,
+      "gas:candidate-vibid:1001000226001": 262,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 210,
-      "Глазырина Ирина Петровна": 60,
-      "Григорьев Виктор Иванович": 8,
-      "Жидков Андрей Алексеевич": 76,
-      "Никонов Юрий Иннокентьевич": 48,
-      "Останин Виктор Алексеевич": 223,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 202,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000131423": 210,
+      "gas:candidate-vibid:1001000112273": 60,
+      "gas:candidate-vibid:375300266651": 8,
+      "gas:candidate-vibid:375300266785": 76,
+      "gas:candidate-vibid:1001000136143": 48,
+      "gas:candidate-vibid:375300266648": 223,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 202,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 190,
-      "Глазырина Ирина Петровна": 57,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 61,
-      "Никонов Юрий Иннокентьевич": 67,
-      "Останин Виктор Алексеевич": 303,
-      "Палкин Владимир Дмитриевич": 18,
-      "Романов Анатолий Павлович": 232,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000131423": 190,
+      "gas:candidate-vibid:1001000112273": 57,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 61,
+      "gas:candidate-vibid:1001000136143": 67,
+      "gas:candidate-vibid:375300266648": 303,
+      "gas:candidate-vibid:1001000203792": 18,
+      "gas:candidate-vibid:1001000226001": 232,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 201,
-      "Глазырина Ирина Петровна": 34,
-      "Григорьев Виктор Иванович": 14,
-      "Жидков Андрей Алексеевич": 70,
-      "Никонов Юрий Иннокентьевич": 57,
-      "Останин Виктор Алексеевич": 331,
-      "Палкин Владимир Дмитриевич": 16,
-      "Романов Анатолий Павлович": 206,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000131423": 201,
+      "gas:candidate-vibid:1001000112273": 34,
+      "gas:candidate-vibid:375300266651": 14,
+      "gas:candidate-vibid:375300266785": 70,
+      "gas:candidate-vibid:1001000136143": 57,
+      "gas:candidate-vibid:375300266648": 331,
+      "gas:candidate-vibid:1001000203792": 16,
+      "gas:candidate-vibid:1001000226001": 206,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 282,
-      "Глазырина Ирина Петровна": 65,
-      "Григорьев Виктор Иванович": 21,
-      "Жидков Андрей Алексеевич": 117,
-      "Никонов Юрий Иннокентьевич": 69,
-      "Останин Виктор Алексеевич": 299,
-      "Палкин Владимир Дмитриевич": 22,
-      "Романов Анатолий Павлович": 271,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000131423": 282,
+      "gas:candidate-vibid:1001000112273": 65,
+      "gas:candidate-vibid:375300266651": 21,
+      "gas:candidate-vibid:375300266785": 117,
+      "gas:candidate-vibid:1001000136143": 69,
+      "gas:candidate-vibid:375300266648": 299,
+      "gas:candidate-vibid:1001000203792": 22,
+      "gas:candidate-vibid:1001000226001": 271,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 232,
-      "Глазырина Ирина Петровна": 80,
-      "Григорьев Виктор Иванович": 17,
-      "Жидков Андрей Алексеевич": 57,
-      "Никонов Юрий Иннокентьевич": 58,
-      "Останин Виктор Алексеевич": 410,
-      "Палкин Владимир Дмитриевич": 17,
-      "Романов Анатолий Павлович": 283,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000131423": 232,
+      "gas:candidate-vibid:1001000112273": 80,
+      "gas:candidate-vibid:375300266651": 17,
+      "gas:candidate-vibid:375300266785": 57,
+      "gas:candidate-vibid:1001000136143": 58,
+      "gas:candidate-vibid:375300266648": 410,
+      "gas:candidate-vibid:1001000203792": 17,
+      "gas:candidate-vibid:1001000226001": 283,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 240,
-      "Глазырина Ирина Петровна": 53,
-      "Григорьев Виктор Иванович": 32,
-      "Жидков Андрей Алексеевич": 62,
-      "Никонов Юрий Иннокентьевич": 44,
-      "Останин Виктор Алексеевич": 324,
-      "Палкин Владимир Дмитриевич": 23,
-      "Романов Анатолий Павлович": 309,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000131423": 240,
+      "gas:candidate-vibid:1001000112273": 53,
+      "gas:candidate-vibid:375300266651": 32,
+      "gas:candidate-vibid:375300266785": 62,
+      "gas:candidate-vibid:1001000136143": 44,
+      "gas:candidate-vibid:375300266648": 324,
+      "gas:candidate-vibid:1001000203792": 23,
+      "gas:candidate-vibid:1001000226001": 309,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 187,
-      "Глазырина Ирина Петровна": 45,
-      "Григорьев Виктор Иванович": 16,
-      "Жидков Андрей Алексеевич": 76,
-      "Никонов Юрий Иннокентьевич": 45,
-      "Останин Виктор Алексеевич": 286,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 210,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131423": 187,
+      "gas:candidate-vibid:1001000112273": 45,
+      "gas:candidate-vibid:375300266651": 16,
+      "gas:candidate-vibid:375300266785": 76,
+      "gas:candidate-vibid:1001000136143": 45,
+      "gas:candidate-vibid:375300266648": 286,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 210,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 227,
-      "Глазырина Ирина Петровна": 87,
-      "Григорьев Виктор Иванович": 33,
-      "Жидков Андрей Алексеевич": 47,
-      "Никонов Юрий Иннокентьевич": 46,
-      "Останин Виктор Алексеевич": 250,
-      "Палкин Владимир Дмитриевич": 21,
-      "Романов Анатолий Павлович": 263,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000131423": 227,
+      "gas:candidate-vibid:1001000112273": 87,
+      "gas:candidate-vibid:375300266651": 33,
+      "gas:candidate-vibid:375300266785": 47,
+      "gas:candidate-vibid:1001000136143": 46,
+      "gas:candidate-vibid:375300266648": 250,
+      "gas:candidate-vibid:1001000203792": 21,
+      "gas:candidate-vibid:1001000226001": 263,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 140,
-      "Глазырина Ирина Петровна": 42,
-      "Григорьев Виктор Иванович": 24,
-      "Жидков Андрей Алексеевич": 62,
-      "Никонов Юрий Иннокентьевич": 43,
-      "Останин Виктор Алексеевич": 202,
-      "Палкин Владимир Дмитриевич": 11,
-      "Романов Анатолий Павлович": 192,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131423": 140,
+      "gas:candidate-vibid:1001000112273": 42,
+      "gas:candidate-vibid:375300266651": 24,
+      "gas:candidate-vibid:375300266785": 62,
+      "gas:candidate-vibid:1001000136143": 43,
+      "gas:candidate-vibid:375300266648": 202,
+      "gas:candidate-vibid:1001000203792": 11,
+      "gas:candidate-vibid:1001000226001": 192,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 224,
-      "Глазырина Ирина Петровна": 41,
-      "Григорьев Виктор Иванович": 30,
-      "Жидков Андрей Алексеевич": 49,
-      "Никонов Юрий Иннокентьевич": 39,
-      "Останин Виктор Алексеевич": 337,
-      "Палкин Владимир Дмитриевич": 16,
-      "Романов Анатолий Павлович": 212,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000131423": 224,
+      "gas:candidate-vibid:1001000112273": 41,
+      "gas:candidate-vibid:375300266651": 30,
+      "gas:candidate-vibid:375300266785": 49,
+      "gas:candidate-vibid:1001000136143": 39,
+      "gas:candidate-vibid:375300266648": 337,
+      "gas:candidate-vibid:1001000203792": 16,
+      "gas:candidate-vibid:1001000226001": 212,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 234,
-      "Глазырина Ирина Петровна": 67,
-      "Григорьев Виктор Иванович": 15,
-      "Жидков Андрей Алексеевич": 53,
-      "Никонов Юрий Иннокентьевич": 80,
-      "Останин Виктор Алексеевич": 414,
-      "Палкин Владимир Дмитриевич": 13,
-      "Романов Анатолий Павлович": 263,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000131423": 234,
+      "gas:candidate-vibid:1001000112273": 67,
+      "gas:candidate-vibid:375300266651": 15,
+      "gas:candidate-vibid:375300266785": 53,
+      "gas:candidate-vibid:1001000136143": 80,
+      "gas:candidate-vibid:375300266648": 414,
+      "gas:candidate-vibid:1001000203792": 13,
+      "gas:candidate-vibid:1001000226001": 263,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 209,
-      "Глазырина Ирина Петровна": 73,
-      "Григорьев Виктор Иванович": 22,
-      "Жидков Андрей Алексеевич": 54,
-      "Никонов Юрий Иннокентьевич": 56,
-      "Останин Виктор Алексеевич": 305,
-      "Палкин Владимир Дмитриевич": 33,
-      "Романов Анатолий Павлович": 360,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131423": 209,
+      "gas:candidate-vibid:1001000112273": 73,
+      "gas:candidate-vibid:375300266651": 22,
+      "gas:candidate-vibid:375300266785": 54,
+      "gas:candidate-vibid:1001000136143": 56,
+      "gas:candidate-vibid:375300266648": 305,
+      "gas:candidate-vibid:1001000203792": 33,
+      "gas:candidate-vibid:1001000226001": 360,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 276,
-      "Глазырина Ирина Петровна": 66,
-      "Григорьев Виктор Иванович": 24,
-      "Жидков Андрей Алексеевич": 64,
-      "Никонов Юрий Иннокентьевич": 82,
-      "Останин Виктор Алексеевич": 361,
-      "Палкин Владимир Дмитриевич": 21,
-      "Романов Анатолий Павлович": 270,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000131423": 276,
+      "gas:candidate-vibid:1001000112273": 66,
+      "gas:candidate-vibid:375300266651": 24,
+      "gas:candidate-vibid:375300266785": 64,
+      "gas:candidate-vibid:1001000136143": 82,
+      "gas:candidate-vibid:375300266648": 361,
+      "gas:candidate-vibid:1001000203792": 21,
+      "gas:candidate-vibid:1001000226001": 270,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 201,
-      "Глазырина Ирина Петровна": 76,
-      "Григорьев Виктор Иванович": 25,
-      "Жидков Андрей Алексеевич": 103,
-      "Никонов Юрий Иннокентьевич": 78,
-      "Останин Виктор Алексеевич": 212,
-      "Палкин Владимир Дмитриевич": 26,
-      "Романов Анатолий Павлович": 415,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000131423": 201,
+      "gas:candidate-vibid:1001000112273": 76,
+      "gas:candidate-vibid:375300266651": 25,
+      "gas:candidate-vibid:375300266785": 103,
+      "gas:candidate-vibid:1001000136143": 78,
+      "gas:candidate-vibid:375300266648": 212,
+      "gas:candidate-vibid:1001000203792": 26,
+      "gas:candidate-vibid:1001000226001": 415,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 216,
-      "Глазырина Ирина Петровна": 64,
-      "Григорьев Виктор Иванович": 20,
-      "Жидков Андрей Алексеевич": 67,
-      "Никонов Юрий Иннокентьевич": 80,
-      "Останин Виктор Алексеевич": 351,
-      "Палкин Владимир Дмитриевич": 28,
-      "Романов Анатолий Павлович": 297,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000131423": 216,
+      "gas:candidate-vibid:1001000112273": 64,
+      "gas:candidate-vibid:375300266651": 20,
+      "gas:candidate-vibid:375300266785": 67,
+      "gas:candidate-vibid:1001000136143": 80,
+      "gas:candidate-vibid:375300266648": 351,
+      "gas:candidate-vibid:1001000203792": 28,
+      "gas:candidate-vibid:1001000226001": 297,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 136,
-      "Глазырина Ирина Петровна": 17,
-      "Григорьев Виктор Иванович": 15,
-      "Жидков Андрей Алексеевич": 24,
-      "Никонов Юрий Иннокентьевич": 60,
-      "Останин Виктор Алексеевич": 176,
-      "Палкин Владимир Дмитриевич": 27,
-      "Романов Анатолий Павлович": 187,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000131423": 136,
+      "gas:candidate-vibid:1001000112273": 17,
+      "gas:candidate-vibid:375300266651": 15,
+      "gas:candidate-vibid:375300266785": 24,
+      "gas:candidate-vibid:1001000136143": 60,
+      "gas:candidate-vibid:375300266648": 176,
+      "gas:candidate-vibid:1001000203792": 27,
+      "gas:candidate-vibid:1001000226001": 187,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 232,
-      "Глазырина Ирина Петровна": 65,
-      "Григорьев Виктор Иванович": 28,
-      "Жидков Андрей Алексеевич": 72,
-      "Никонов Юрий Иннокентьевич": 54,
-      "Останин Виктор Алексеевич": 354,
-      "Палкин Владимир Дмитриевич": 24,
-      "Романов Анатолий Павлович": 274,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000131423": 232,
+      "gas:candidate-vibid:1001000112273": 65,
+      "gas:candidate-vibid:375300266651": 28,
+      "gas:candidate-vibid:375300266785": 72,
+      "gas:candidate-vibid:1001000136143": 54,
+      "gas:candidate-vibid:375300266648": 354,
+      "gas:candidate-vibid:1001000203792": 24,
+      "gas:candidate-vibid:1001000226001": 274,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 185,
-      "Глазырина Ирина Петровна": 55,
-      "Григорьев Виктор Иванович": 15,
-      "Жидков Андрей Алексеевич": 44,
-      "Никонов Юрий Иннокентьевич": 64,
-      "Останин Виктор Алексеевич": 301,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 208,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000131423": 185,
+      "gas:candidate-vibid:1001000112273": 55,
+      "gas:candidate-vibid:375300266651": 15,
+      "gas:candidate-vibid:375300266785": 44,
+      "gas:candidate-vibid:1001000136143": 64,
+      "gas:candidate-vibid:375300266648": 301,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 208,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 204,
-      "Глазырина Ирина Петровна": 44,
-      "Григорьев Виктор Иванович": 43,
-      "Жидков Андрей Алексеевич": 53,
-      "Никонов Юрий Иннокентьевич": 34,
-      "Останин Виктор Алексеевич": 355,
-      "Палкин Владимир Дмитриевич": 11,
-      "Романов Анатолий Павлович": 207,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000131423": 204,
+      "gas:candidate-vibid:1001000112273": 44,
+      "gas:candidate-vibid:375300266651": 43,
+      "gas:candidate-vibid:375300266785": 53,
+      "gas:candidate-vibid:1001000136143": 34,
+      "gas:candidate-vibid:375300266648": 355,
+      "gas:candidate-vibid:1001000203792": 11,
+      "gas:candidate-vibid:1001000226001": 207,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 234,
-      "Глазырина Ирина Петровна": 51,
-      "Григорьев Виктор Иванович": 13,
-      "Жидков Андрей Алексеевич": 58,
-      "Никонов Юрий Иннокентьевич": 47,
-      "Останин Виктор Алексеевич": 324,
-      "Палкин Владимир Дмитриевич": 28,
-      "Романов Анатолий Павлович": 209,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131423": 234,
+      "gas:candidate-vibid:1001000112273": 51,
+      "gas:candidate-vibid:375300266651": 13,
+      "gas:candidate-vibid:375300266785": 58,
+      "gas:candidate-vibid:1001000136143": 47,
+      "gas:candidate-vibid:375300266648": 324,
+      "gas:candidate-vibid:1001000203792": 28,
+      "gas:candidate-vibid:1001000226001": 209,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 250,
-      "Глазырина Ирина Петровна": 49,
-      "Григорьев Виктор Иванович": 18,
-      "Жидков Андрей Алексеевич": 51,
-      "Никонов Юрий Иннокентьевич": 53,
-      "Останин Виктор Алексеевич": 270,
-      "Палкин Владимир Дмитриевич": 18,
-      "Романов Анатолий Павлович": 206,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000131423": 250,
+      "gas:candidate-vibid:1001000112273": 49,
+      "gas:candidate-vibid:375300266651": 18,
+      "gas:candidate-vibid:375300266785": 51,
+      "gas:candidate-vibid:1001000136143": 53,
+      "gas:candidate-vibid:375300266648": 270,
+      "gas:candidate-vibid:1001000203792": 18,
+      "gas:candidate-vibid:1001000226001": 206,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 188,
-      "Глазырина Ирина Петровна": 81,
-      "Григорьев Виктор Иванович": 33,
-      "Жидков Андрей Алексеевич": 41,
-      "Никонов Юрий Иннокентьевич": 94,
-      "Останин Виктор Алексеевич": 505,
-      "Палкин Владимир Дмитриевич": 24,
-      "Романов Анатолий Павлович": 483,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000131423": 188,
+      "gas:candidate-vibid:1001000112273": 81,
+      "gas:candidate-vibid:375300266651": 33,
+      "gas:candidate-vibid:375300266785": 41,
+      "gas:candidate-vibid:1001000136143": 94,
+      "gas:candidate-vibid:375300266648": 505,
+      "gas:candidate-vibid:1001000203792": 24,
+      "gas:candidate-vibid:1001000226001": 483,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067495&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 249,
-      "Глазырина Ирина Петровна": 62,
-      "Григорьев Виктор Иванович": 11,
-      "Жидков Андрей Алексеевич": 67,
-      "Никонов Юрий Иннокентьевич": 79,
-      "Останин Виктор Алексеевич": 226,
-      "Палкин Владимир Дмитриевич": 23,
-      "Романов Анатолий Павлович": 496,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000131423": 249,
+      "gas:candidate-vibid:1001000112273": 62,
+      "gas:candidate-vibid:375300266651": 11,
+      "gas:candidate-vibid:375300266785": 67,
+      "gas:candidate-vibid:1001000136143": 79,
+      "gas:candidate-vibid:375300266648": 226,
+      "gas:candidate-vibid:1001000203792": 23,
+      "gas:candidate-vibid:1001000226001": 496,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 249,
-      "Глазырина Ирина Петровна": 51,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 42,
-      "Никонов Юрий Иннокентьевич": 59,
-      "Останин Виктор Алексеевич": 213,
-      "Палкин Владимир Дмитриевич": 20,
-      "Романов Анатолий Павлович": 400,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000131423": 249,
+      "gas:candidate-vibid:1001000112273": 51,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 42,
+      "gas:candidate-vibid:1001000136143": 59,
+      "gas:candidate-vibid:375300266648": 213,
+      "gas:candidate-vibid:1001000203792": 20,
+      "gas:candidate-vibid:1001000226001": 400,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 271,
-      "Глазырина Ирина Петровна": 55,
-      "Григорьев Виктор Иванович": 5,
-      "Жидков Андрей Алексеевич": 71,
-      "Никонов Юрий Иннокентьевич": 63,
-      "Останин Виктор Алексеевич": 193,
-      "Палкин Владимир Дмитриевич": 17,
-      "Романов Анатолий Павлович": 508,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000131423": 271,
+      "gas:candidate-vibid:1001000112273": 55,
+      "gas:candidate-vibid:375300266651": 5,
+      "gas:candidate-vibid:375300266785": 71,
+      "gas:candidate-vibid:1001000136143": 63,
+      "gas:candidate-vibid:375300266648": 193,
+      "gas:candidate-vibid:1001000203792": 17,
+      "gas:candidate-vibid:1001000226001": 508,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 174,
-      "Глазырина Ирина Петровна": 44,
-      "Григорьев Виктор Иванович": 18,
-      "Жидков Андрей Алексеевич": 47,
-      "Никонов Юрий Иннокентьевич": 48,
-      "Останин Виктор Алексеевич": 194,
-      "Палкин Владимир Дмитриевич": 15,
-      "Романов Анатолий Павлович": 456,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000131423": 174,
+      "gas:candidate-vibid:1001000112273": 44,
+      "gas:candidate-vibid:375300266651": 18,
+      "gas:candidate-vibid:375300266785": 47,
+      "gas:candidate-vibid:1001000136143": 48,
+      "gas:candidate-vibid:375300266648": 194,
+      "gas:candidate-vibid:1001000203792": 15,
+      "gas:candidate-vibid:1001000226001": 456,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 230,
-      "Глазырина Ирина Петровна": 49,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 44,
-      "Никонов Юрий Иннокентьевич": 62,
-      "Останин Виктор Алексеевич": 155,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 528,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000131423": 230,
+      "gas:candidate-vibid:1001000112273": 49,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 44,
+      "gas:candidate-vibid:1001000136143": 62,
+      "gas:candidate-vibid:375300266648": 155,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 528,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 233,
-      "Глазырина Ирина Петровна": 50,
-      "Григорьев Виктор Иванович": 16,
-      "Жидков Андрей Алексеевич": 34,
-      "Никонов Юрий Иннокентьевич": 97,
-      "Останин Виктор Алексеевич": 158,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 454,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000131423": 233,
+      "gas:candidate-vibid:1001000112273": 50,
+      "gas:candidate-vibid:375300266651": 16,
+      "gas:candidate-vibid:375300266785": 34,
+      "gas:candidate-vibid:1001000136143": 97,
+      "gas:candidate-vibid:375300266648": 158,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 454,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 202,
-      "Глазырина Ирина Петровна": 26,
-      "Григорьев Виктор Иванович": 8,
-      "Жидков Андрей Алексеевич": 33,
-      "Никонов Юрий Иннокентьевич": 58,
-      "Останин Виктор Алексеевич": 200,
-      "Палкин Владимир Дмитриевич": 9,
-      "Романов Анатолий Павлович": 362,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000131423": 202,
+      "gas:candidate-vibid:1001000112273": 26,
+      "gas:candidate-vibid:375300266651": 8,
+      "gas:candidate-vibid:375300266785": 33,
+      "gas:candidate-vibid:1001000136143": 58,
+      "gas:candidate-vibid:375300266648": 200,
+      "gas:candidate-vibid:1001000203792": 9,
+      "gas:candidate-vibid:1001000226001": 362,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 258,
-      "Глазырина Ирина Петровна": 52,
-      "Григорьев Виктор Иванович": 7,
-      "Жидков Андрей Алексеевич": 41,
-      "Никонов Юрий Иннокентьевич": 71,
-      "Останин Виктор Алексеевич": 179,
-      "Палкин Владимир Дмитриевич": 11,
-      "Романов Анатолий Павлович": 322,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000131423": 258,
+      "gas:candidate-vibid:1001000112273": 52,
+      "gas:candidate-vibid:375300266651": 7,
+      "gas:candidate-vibid:375300266785": 41,
+      "gas:candidate-vibid:1001000136143": 71,
+      "gas:candidate-vibid:375300266648": 179,
+      "gas:candidate-vibid:1001000203792": 11,
+      "gas:candidate-vibid:1001000226001": 322,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 98,
-      "Глазырина Ирина Петровна": 11,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 13,
-      "Никонов Юрий Иннокентьевич": 29,
-      "Останин Виктор Алексеевич": 51,
-      "Палкин Владимир Дмитриевич": 7,
-      "Романов Анатолий Павлович": 390,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131423": 98,
+      "gas:candidate-vibid:1001000112273": 11,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 13,
+      "gas:candidate-vibid:1001000136143": 29,
+      "gas:candidate-vibid:375300266648": 51,
+      "gas:candidate-vibid:1001000203792": 7,
+      "gas:candidate-vibid:1001000226001": 390,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 195,
-      "Глазырина Ирина Петровна": 34,
-      "Григорьев Виктор Иванович": 11,
-      "Жидков Андрей Алексеевич": 38,
-      "Никонов Юрий Иннокентьевич": 65,
-      "Останин Виктор Алексеевич": 108,
-      "Палкин Владимир Дмитриевич": 15,
-      "Романов Анатолий Павлович": 430,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000131423": 195,
+      "gas:candidate-vibid:1001000112273": 34,
+      "gas:candidate-vibid:375300266651": 11,
+      "gas:candidate-vibid:375300266785": 38,
+      "gas:candidate-vibid:1001000136143": 65,
+      "gas:candidate-vibid:375300266648": 108,
+      "gas:candidate-vibid:1001000203792": 15,
+      "gas:candidate-vibid:1001000226001": 430,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 186,
-      "Глазырина Ирина Петровна": 71,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 51,
-      "Никонов Юрий Иннокентьевич": 67,
-      "Останин Виктор Алексеевич": 218,
-      "Палкин Владимир Дмитриевич": 8,
-      "Романов Анатолий Павлович": 278,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000131423": 186,
+      "gas:candidate-vibid:1001000112273": 71,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 51,
+      "gas:candidate-vibid:1001000136143": 67,
+      "gas:candidate-vibid:375300266648": 218,
+      "gas:candidate-vibid:1001000203792": 8,
+      "gas:candidate-vibid:1001000226001": 278,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 134,
-      "Глазырина Ирина Петровна": 26,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 22,
-      "Никонов Юрий Иннокентьевич": 43,
-      "Останин Виктор Алексеевич": 135,
-      "Палкин Владимир Дмитриевич": 11,
-      "Романов Анатолий Павлович": 390,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000131423": 134,
+      "gas:candidate-vibid:1001000112273": 26,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 22,
+      "gas:candidate-vibid:1001000136143": 43,
+      "gas:candidate-vibid:375300266648": 135,
+      "gas:candidate-vibid:1001000203792": 11,
+      "gas:candidate-vibid:1001000226001": 390,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 247,
-      "Глазырина Ирина Петровна": 53,
-      "Григорьев Виктор Иванович": 6,
-      "Жидков Андрей Алексеевич": 60,
-      "Никонов Юрий Иннокентьевич": 77,
-      "Останин Виктор Алексеевич": 198,
-      "Палкин Владимир Дмитриевич": 25,
-      "Романов Анатолий Павлович": 436,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000131423": 247,
+      "gas:candidate-vibid:1001000112273": 53,
+      "gas:candidate-vibid:375300266651": 6,
+      "gas:candidate-vibid:375300266785": 60,
+      "gas:candidate-vibid:1001000136143": 77,
+      "gas:candidate-vibid:375300266648": 198,
+      "gas:candidate-vibid:1001000203792": 25,
+      "gas:candidate-vibid:1001000226001": 436,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 268,
-      "Глазырина Ирина Петровна": 52,
-      "Григорьев Виктор Иванович": 14,
-      "Жидков Андрей Алексеевич": 42,
-      "Никонов Юрий Иннокентьевич": 112,
-      "Останин Виктор Алексеевич": 239,
-      "Палкин Владимир Дмитриевич": 28,
-      "Романов Анатолий Павлович": 460,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000131423": 268,
+      "gas:candidate-vibid:1001000112273": 52,
+      "gas:candidate-vibid:375300266651": 14,
+      "gas:candidate-vibid:375300266785": 42,
+      "gas:candidate-vibid:1001000136143": 112,
+      "gas:candidate-vibid:375300266648": 239,
+      "gas:candidate-vibid:1001000203792": 28,
+      "gas:candidate-vibid:1001000226001": 460,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 187,
-      "Глазырина Ирина Петровна": 40,
-      "Григорьев Виктор Иванович": 9,
-      "Жидков Андрей Алексеевич": 27,
-      "Никонов Юрий Иннокентьевич": 56,
-      "Останин Виктор Алексеевич": 181,
-      "Палкин Владимир Дмитриевич": 18,
-      "Романов Анатолий Павлович": 311,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000131423": 187,
+      "gas:candidate-vibid:1001000112273": 40,
+      "gas:candidate-vibid:375300266651": 9,
+      "gas:candidate-vibid:375300266785": 27,
+      "gas:candidate-vibid:1001000136143": 56,
+      "gas:candidate-vibid:375300266648": 181,
+      "gas:candidate-vibid:1001000203792": 18,
+      "gas:candidate-vibid:1001000226001": 311,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 198,
-      "Глазырина Ирина Петровна": 58,
-      "Григорьев Виктор Иванович": 8,
-      "Жидков Андрей Алексеевич": 33,
-      "Никонов Юрий Иннокентьевич": 63,
-      "Останин Виктор Алексеевич": 173,
-      "Палкин Владимир Дмитриевич": 19,
-      "Романов Анатолий Павлович": 269,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000131423": 198,
+      "gas:candidate-vibid:1001000112273": 58,
+      "gas:candidate-vibid:375300266651": 8,
+      "gas:candidate-vibid:375300266785": 33,
+      "gas:candidate-vibid:1001000136143": 63,
+      "gas:candidate-vibid:375300266648": 173,
+      "gas:candidate-vibid:1001000203792": 19,
+      "gas:candidate-vibid:1001000226001": 269,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 187,
-      "Глазырина Ирина Петровна": 41,
-      "Григорьев Виктор Иванович": 11,
-      "Жидков Андрей Алексеевич": 45,
-      "Никонов Юрий Иннокентьевич": 51,
-      "Останин Виктор Алексеевич": 183,
-      "Палкин Владимир Дмитриевич": 9,
-      "Романов Анатолий Павлович": 266,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000131423": 187,
+      "gas:candidate-vibid:1001000112273": 41,
+      "gas:candidate-vibid:375300266651": 11,
+      "gas:candidate-vibid:375300266785": 45,
+      "gas:candidate-vibid:1001000136143": 51,
+      "gas:candidate-vibid:375300266648": 183,
+      "gas:candidate-vibid:1001000203792": 9,
+      "gas:candidate-vibid:1001000226001": 266,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 264,
-      "Глазырина Ирина Петровна": 30,
-      "Григорьев Виктор Иванович": 12,
-      "Жидков Андрей Алексеевич": 62,
-      "Никонов Юрий Иннокентьевич": 84,
-      "Останин Виктор Алексеевич": 194,
-      "Палкин Владимир Дмитриевич": 25,
-      "Романов Анатолий Павлович": 306,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000131423": 264,
+      "gas:candidate-vibid:1001000112273": 30,
+      "gas:candidate-vibid:375300266651": 12,
+      "gas:candidate-vibid:375300266785": 62,
+      "gas:candidate-vibid:1001000136143": 84,
+      "gas:candidate-vibid:375300266648": 194,
+      "gas:candidate-vibid:1001000203792": 25,
+      "gas:candidate-vibid:1001000226001": 306,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 81,
-      "Глазырина Ирина Петровна": 10,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 12,
-      "Никонов Юрий Иннокентьевич": 21,
-      "Останин Виктор Алексеевич": 52,
-      "Палкин Владимир Дмитриевич": 4,
-      "Романов Анатолий Павлович": 184,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000131423": 81,
+      "gas:candidate-vibid:1001000112273": 10,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 12,
+      "gas:candidate-vibid:1001000136143": 21,
+      "gas:candidate-vibid:375300266648": 52,
+      "gas:candidate-vibid:1001000203792": 4,
+      "gas:candidate-vibid:1001000226001": 184,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 96,
-      "Глазырина Ирина Петровна": 27,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 13,
-      "Никонов Юрий Иннокентьевич": 19,
-      "Останин Виктор Алексеевич": 22,
-      "Палкин Владимир Дмитриевич": 13,
-      "Романов Анатолий Павлович": 85,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000131423": 96,
+      "gas:candidate-vibid:1001000112273": 27,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 13,
+      "gas:candidate-vibid:1001000136143": 19,
+      "gas:candidate-vibid:375300266648": 22,
+      "gas:candidate-vibid:1001000203792": 13,
+      "gas:candidate-vibid:1001000226001": 85,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 283,
-      "Глазырина Ирина Петровна": 63,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 37,
-      "Никонов Юрий Иннокентьевич": 60,
-      "Останин Виктор Алексеевич": 155,
-      "Палкин Владимир Дмитриевич": 18,
-      "Романов Анатолий Павлович": 278,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000131423": 283,
+      "gas:candidate-vibid:1001000112273": 63,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 37,
+      "gas:candidate-vibid:1001000136143": 60,
+      "gas:candidate-vibid:375300266648": 155,
+      "gas:candidate-vibid:1001000203792": 18,
+      "gas:candidate-vibid:1001000226001": 278,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 233,
-      "Глазырина Ирина Петровна": 44,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 23,
-      "Никонов Юрий Иннокентьевич": 56,
-      "Останин Виктор Алексеевич": 124,
-      "Палкин Владимир Дмитриевич": 20,
-      "Романов Анатолий Павлович": 193,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131423": 233,
+      "gas:candidate-vibid:1001000112273": 44,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 23,
+      "gas:candidate-vibid:1001000136143": 56,
+      "gas:candidate-vibid:375300266648": 124,
+      "gas:candidate-vibid:1001000203792": 20,
+      "gas:candidate-vibid:1001000226001": 193,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 236,
-      "Глазырина Ирина Петровна": 47,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 32,
-      "Никонов Юрий Иннокентьевич": 62,
-      "Останин Виктор Алексеевич": 107,
-      "Палкин Владимир Дмитриевич": 32,
-      "Романов Анатолий Павлович": 228,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000131423": 236,
+      "gas:candidate-vibid:1001000112273": 47,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 32,
+      "gas:candidate-vibid:1001000136143": 62,
+      "gas:candidate-vibid:375300266648": 107,
+      "gas:candidate-vibid:1001000203792": 32,
+      "gas:candidate-vibid:1001000226001": 228,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 96,
-      "Глазырина Ирина Петровна": 21,
-      "Григорьев Виктор Иванович": 7,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 29,
-      "Останин Виктор Алексеевич": 64,
-      "Палкин Владимир Дмитриевич": 4,
-      "Романов Анатолий Павлович": 80,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131423": 96,
+      "gas:candidate-vibid:1001000112273": 21,
+      "gas:candidate-vibid:375300266651": 7,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 29,
+      "gas:candidate-vibid:375300266648": 64,
+      "gas:candidate-vibid:1001000203792": 4,
+      "gas:candidate-vibid:1001000226001": 80,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 213,
-      "Глазырина Ирина Петровна": 32,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 28,
-      "Никонов Юрий Иннокентьевич": 36,
-      "Останин Виктор Алексеевич": 142,
-      "Палкин Владимир Дмитриевич": 8,
-      "Романов Анатолий Павлович": 147,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000131423": 213,
+      "gas:candidate-vibid:1001000112273": 32,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 28,
+      "gas:candidate-vibid:1001000136143": 36,
+      "gas:candidate-vibid:375300266648": 142,
+      "gas:candidate-vibid:1001000203792": 8,
+      "gas:candidate-vibid:1001000226001": 147,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 108,
-      "Глазырина Ирина Петровна": 12,
-      "Григорьев Виктор Иванович": 5,
-      "Жидков Андрей Алексеевич": 11,
-      "Никонов Юрий Иннокентьевич": 16,
-      "Останин Виктор Алексеевич": 53,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 64,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131423": 108,
+      "gas:candidate-vibid:1001000112273": 12,
+      "gas:candidate-vibid:375300266651": 5,
+      "gas:candidate-vibid:375300266785": 11,
+      "gas:candidate-vibid:1001000136143": 16,
+      "gas:candidate-vibid:375300266648": 53,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 64,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 117,
-      "Глазырина Ирина Петровна": 30,
-      "Григорьев Виктор Иванович": 5,
-      "Жидков Андрей Алексеевич": 11,
-      "Никонов Юрий Иннокентьевич": 30,
-      "Останин Виктор Алексеевич": 45,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 138,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000131423": 117,
+      "gas:candidate-vibid:1001000112273": 30,
+      "gas:candidate-vibid:375300266651": 5,
+      "gas:candidate-vibid:375300266785": 11,
+      "gas:candidate-vibid:1001000136143": 30,
+      "gas:candidate-vibid:375300266648": 45,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 138,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 206,
-      "Глазырина Ирина Петровна": 30,
-      "Григорьев Виктор Иванович": 7,
-      "Жидков Андрей Алексеевич": 19,
-      "Никонов Юрий Иннокентьевич": 35,
-      "Останин Виктор Алексеевич": 83,
-      "Палкин Владимир Дмитриевич": 10,
-      "Романов Анатолий Павлович": 202,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000131423": 206,
+      "gas:candidate-vibid:1001000112273": 30,
+      "gas:candidate-vibid:375300266651": 7,
+      "gas:candidate-vibid:375300266785": 19,
+      "gas:candidate-vibid:1001000136143": 35,
+      "gas:candidate-vibid:375300266648": 83,
+      "gas:candidate-vibid:1001000203792": 10,
+      "gas:candidate-vibid:1001000226001": 202,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 73,
-      "Глазырина Ирина Петровна": 4,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 4,
-      "Никонов Юрий Иннокентьевич": 16,
-      "Останин Виктор Алексеевич": 31,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 34,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131423": 73,
+      "gas:candidate-vibid:1001000112273": 4,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 4,
+      "gas:candidate-vibid:1001000136143": 16,
+      "gas:candidate-vibid:375300266648": 31,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 34,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 77,
-      "Глазырина Ирина Петровна": 17,
-      "Григорьев Виктор Иванович": 5,
-      "Жидков Андрей Алексеевич": 12,
-      "Никонов Юрий Иннокентьевич": 19,
-      "Останин Виктор Алексеевич": 31,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 130,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131423": 77,
+      "gas:candidate-vibid:1001000112273": 17,
+      "gas:candidate-vibid:375300266651": 5,
+      "gas:candidate-vibid:375300266785": 12,
+      "gas:candidate-vibid:1001000136143": 19,
+      "gas:candidate-vibid:375300266648": 31,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 130,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 81,
-      "Глазырина Ирина Петровна": 16,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 8,
-      "Останин Виктор Алексеевич": 27,
-      "Палкин Владимир Дмитриевич": 5,
-      "Романов Анатолий Павлович": 83,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000131423": 81,
+      "gas:candidate-vibid:1001000112273": 16,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 8,
+      "gas:candidate-vibid:375300266648": 27,
+      "gas:candidate-vibid:1001000203792": 5,
+      "gas:candidate-vibid:1001000226001": 83,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 73,
-      "Глазырина Ирина Петровна": 11,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 4,
-      "Никонов Юрий Иннокентьевич": 9,
-      "Останин Виктор Алексеевич": 28,
-      "Палкин Владимир Дмитриевич": 6,
-      "Романов Анатолий Павлович": 59,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131423": 73,
+      "gas:candidate-vibid:1001000112273": 11,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 4,
+      "gas:candidate-vibid:1001000136143": 9,
+      "gas:candidate-vibid:375300266648": 28,
+      "gas:candidate-vibid:1001000203792": 6,
+      "gas:candidate-vibid:1001000226001": 59,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067497&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 94,
-      "Глазырина Ирина Петровна": 2,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 14,
-      "Останин Виктор Алексеевич": 57,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 52,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131423": 94,
+      "gas:candidate-vibid:1001000112273": 2,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 14,
+      "gas:candidate-vibid:375300266648": 57,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 52,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 14,
-      "Глазырина Ирина Петровна": 0,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 23,
-      "Останин Виктор Алексеевич": 28,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131423": 14,
+      "gas:candidate-vibid:1001000112273": 0,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 23,
+      "gas:candidate-vibid:375300266648": 28,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 17,
-      "Глазырина Ирина Петровна": 3,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 0,
-      "Останин Виктор Алексеевич": 8,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 15,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131423": 17,
+      "gas:candidate-vibid:1001000112273": 3,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 0,
+      "gas:candidate-vibid:375300266648": 8,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 15,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 149,
-      "Глазырина Ирина Петровна": 12,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 8,
-      "Никонов Юрий Иннокентьевич": 25,
-      "Останин Виктор Алексеевич": 132,
-      "Палкин Владимир Дмитриевич": 7,
-      "Романов Анатолий Павлович": 157,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131423": 149,
+      "gas:candidate-vibid:1001000112273": 12,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 8,
+      "gas:candidate-vibid:1001000136143": 25,
+      "gas:candidate-vibid:375300266648": 132,
+      "gas:candidate-vibid:1001000203792": 7,
+      "gas:candidate-vibid:1001000226001": 157,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 96,
-      "Глазырина Ирина Петровна": 31,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 25,
-      "Останин Виктор Алексеевич": 112,
-      "Палкин Владимир Дмитриевич": 3,
-      "Романов Анатолий Павлович": 213,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000131423": 96,
+      "gas:candidate-vibid:1001000112273": 31,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 25,
+      "gas:candidate-vibid:375300266648": 112,
+      "gas:candidate-vibid:1001000203792": 3,
+      "gas:candidate-vibid:1001000226001": 213,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 59,
-      "Глазырина Ирина Петровна": 6,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 3,
-      "Никонов Юрий Иннокентьевич": 7,
-      "Останин Виктор Алексеевич": 22,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 144,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131423": 59,
+      "gas:candidate-vibid:1001000112273": 6,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 3,
+      "gas:candidate-vibid:1001000136143": 7,
+      "gas:candidate-vibid:375300266648": 22,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 144,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 342,
-      "Глазырина Ирина Петровна": 55,
-      "Григорьев Виктор Иванович": 23,
-      "Жидков Андрей Алексеевич": 41,
-      "Никонов Юрий Иннокентьевич": 85,
-      "Останин Виктор Алексеевич": 148,
-      "Палкин Владимир Дмитриевич": 33,
-      "Романов Анатолий Павлович": 326,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000131423": 342,
+      "gas:candidate-vibid:1001000112273": 55,
+      "gas:candidate-vibid:375300266651": 23,
+      "gas:candidate-vibid:375300266785": 41,
+      "gas:candidate-vibid:1001000136143": 85,
+      "gas:candidate-vibid:375300266648": 148,
+      "gas:candidate-vibid:1001000203792": 33,
+      "gas:candidate-vibid:1001000226001": 326,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 43,
-      "Глазырина Ирина Петровна": 6,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 5,
-      "Никонов Юрий Иннокентьевич": 9,
-      "Останин Виктор Алексеевич": 21,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 31,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131423": 43,
+      "gas:candidate-vibid:1001000112273": 6,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 5,
+      "gas:candidate-vibid:1001000136143": 9,
+      "gas:candidate-vibid:375300266648": 21,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 31,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 31,
-      "Глазырина Ирина Петровна": 0,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 3,
-      "Останин Виктор Алексеевич": 28,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131423": 31,
+      "gas:candidate-vibid:1001000112273": 0,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 3,
+      "gas:candidate-vibid:375300266648": 28,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 6,
-      "Глазырина Ирина Петровна": 0,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 4,
-      "Останин Виктор Алексеевич": 24,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 18,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131423": 6,
+      "gas:candidate-vibid:1001000112273": 0,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 4,
+      "gas:candidate-vibid:375300266648": 24,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 18,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 10,
-      "Глазырина Ирина Петровна": 2,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 2,
-      "Останин Виктор Алексеевич": 44,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 23,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131423": 10,
+      "gas:candidate-vibid:1001000112273": 2,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 2,
+      "gas:candidate-vibid:375300266648": 44,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 23,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 27,
-      "Глазырина Ирина Петровна": 1,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 4,
-      "Останин Виктор Алексеевич": 63,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 59,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131423": 27,
+      "gas:candidate-vibid:1001000112273": 1,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 4,
+      "gas:candidate-vibid:375300266648": 63,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 59,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 61,
-      "Глазырина Ирина Петровна": 8,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 5,
-      "Останин Виктор Алексеевич": 133,
-      "Палкин Владимир Дмитриевич": 4,
-      "Романов Анатолий Павлович": 218,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131423": 61,
+      "gas:candidate-vibid:1001000112273": 8,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 5,
+      "gas:candidate-vibid:375300266648": 133,
+      "gas:candidate-vibid:1001000203792": 4,
+      "gas:candidate-vibid:1001000226001": 218,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 63,
-      "Глазырина Ирина Петровна": 1,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 3,
-      "Останин Виктор Алексеевич": 65,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 66,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131423": 63,
+      "gas:candidate-vibid:1001000112273": 1,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 3,
+      "gas:candidate-vibid:375300266648": 65,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 66,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 100,
-      "Глазырина Ирина Петровна": 23,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 14,
-      "Никонов Юрий Иннокентьевич": 33,
-      "Останин Виктор Алексеевич": 30,
-      "Палкин Владимир Дмитриевич": 10,
-      "Романов Анатолий Павлович": 49,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000131423": 100,
+      "gas:candidate-vibid:1001000112273": 23,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 14,
+      "gas:candidate-vibid:1001000136143": 33,
+      "gas:candidate-vibid:375300266648": 30,
+      "gas:candidate-vibid:1001000203792": 10,
+      "gas:candidate-vibid:1001000226001": 49,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 149,
-      "Глазырина Ирина Петровна": 13,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 20,
-      "Останин Виктор Алексеевич": 16,
-      "Палкин Владимир Дмитриевич": 5,
-      "Романов Анатолий Павлович": 108,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131423": 149,
+      "gas:candidate-vibid:1001000112273": 13,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 20,
+      "gas:candidate-vibid:375300266648": 16,
+      "gas:candidate-vibid:1001000203792": 5,
+      "gas:candidate-vibid:1001000226001": 108,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 106,
-      "Глазырина Ирина Петровна": 3,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 3,
-      "Никонов Юрий Иннокентьевич": 4,
-      "Останин Виктор Алексеевич": 7,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 67,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131423": 106,
+      "gas:candidate-vibid:1001000112273": 3,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 3,
+      "gas:candidate-vibid:1001000136143": 4,
+      "gas:candidate-vibid:375300266648": 7,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 67,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 86,
-      "Глазырина Ирина Петровна": 6,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 27,
-      "Останин Виктор Алексеевич": 23,
-      "Палкин Владимир Дмитриевич": 8,
-      "Романов Анатолий Павлович": 109,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131423": 86,
+      "gas:candidate-vibid:1001000112273": 6,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 27,
+      "gas:candidate-vibid:375300266648": 23,
+      "gas:candidate-vibid:1001000203792": 8,
+      "gas:candidate-vibid:1001000226001": 109,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 46,
-      "Глазырина Ирина Петровна": 5,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 3,
-      "Никонов Юрий Иннокентьевич": 4,
-      "Останин Виктор Алексеевич": 11,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 37,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131423": 46,
+      "gas:candidate-vibid:1001000112273": 5,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 3,
+      "gas:candidate-vibid:1001000136143": 4,
+      "gas:candidate-vibid:375300266648": 11,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 37,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 56,
-      "Глазырина Ирина Петровна": 3,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 2,
-      "Никонов Юрий Иннокентьевич": 9,
-      "Останин Виктор Алексеевич": 21,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 24,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131423": 56,
+      "gas:candidate-vibid:1001000112273": 3,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 2,
+      "gas:candidate-vibid:1001000136143": 9,
+      "gas:candidate-vibid:375300266648": 21,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 24,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 161,
-      "Глазырина Ирина Петровна": 22,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 9,
-      "Никонов Юрий Иннокентьевич": 47,
-      "Останин Виктор Алексеевич": 33,
-      "Палкин Владимир Дмитриевич": 9,
-      "Романов Анатолий Павлович": 260,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000131423": 161,
+      "gas:candidate-vibid:1001000112273": 22,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 9,
+      "gas:candidate-vibid:1001000136143": 47,
+      "gas:candidate-vibid:375300266648": 33,
+      "gas:candidate-vibid:1001000203792": 9,
+      "gas:candidate-vibid:1001000226001": 260,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 104,
-      "Глазырина Ирина Петровна": 10,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 10,
-      "Никонов Юрий Иннокентьевич": 27,
-      "Останин Виктор Алексеевич": 51,
-      "Палкин Владимир Дмитриевич": 10,
-      "Романов Анатолий Павлович": 85,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131423": 104,
+      "gas:candidate-vibid:1001000112273": 10,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 10,
+      "gas:candidate-vibid:1001000136143": 27,
+      "gas:candidate-vibid:375300266648": 51,
+      "gas:candidate-vibid:1001000203792": 10,
+      "gas:candidate-vibid:1001000226001": 85,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 114,
-      "Глазырина Ирина Петровна": 25,
-      "Григорьев Виктор Иванович": 4,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 53,
-      "Останин Виктор Алексеевич": 68,
-      "Палкин Владимир Дмитриевич": 3,
-      "Романов Анатолий Павлович": 312,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131423": 114,
+      "gas:candidate-vibid:1001000112273": 25,
+      "gas:candidate-vibid:375300266651": 4,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 53,
+      "gas:candidate-vibid:375300266648": 68,
+      "gas:candidate-vibid:1001000203792": 3,
+      "gas:candidate-vibid:1001000226001": 312,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 79,
-      "Глазырина Ирина Петровна": 5,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 12,
-      "Никонов Юрий Иннокентьевич": 10,
-      "Останин Виктор Алексеевич": 9,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 77,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131423": 79,
+      "gas:candidate-vibid:1001000112273": 5,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 12,
+      "gas:candidate-vibid:1001000136143": 10,
+      "gas:candidate-vibid:375300266648": 9,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 77,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 94,
-      "Глазырина Ирина Петровна": 16,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 8,
-      "Никонов Юрий Иннокентьевич": 33,
-      "Останин Виктор Алексеевич": 41,
-      "Палкин Владимир Дмитриевич": 3,
-      "Романов Анатолий Павлович": 139,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131423": 94,
+      "gas:candidate-vibid:1001000112273": 16,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 8,
+      "gas:candidate-vibid:1001000136143": 33,
+      "gas:candidate-vibid:375300266648": 41,
+      "gas:candidate-vibid:1001000203792": 3,
+      "gas:candidate-vibid:1001000226001": 139,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 45,
-      "Глазырина Ирина Петровна": 8,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 18,
-      "Останин Виктор Алексеевич": 23,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 46,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131423": 45,
+      "gas:candidate-vibid:1001000112273": 8,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 18,
+      "gas:candidate-vibid:375300266648": 23,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 46,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 284,
-      "Глазырина Ирина Петровна": 40,
-      "Григорьев Виктор Иванович": 16,
-      "Жидков Андрей Алексеевич": 21,
-      "Никонов Юрий Иннокентьевич": 48,
-      "Останин Виктор Алексеевич": 104,
-      "Палкин Владимир Дмитриевич": 6,
-      "Романов Анатолий Павлович": 349,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000131423": 284,
+      "gas:candidate-vibid:1001000112273": 40,
+      "gas:candidate-vibid:375300266651": 16,
+      "gas:candidate-vibid:375300266785": 21,
+      "gas:candidate-vibid:1001000136143": 48,
+      "gas:candidate-vibid:375300266648": 104,
+      "gas:candidate-vibid:1001000203792": 6,
+      "gas:candidate-vibid:1001000226001": 349,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 286,
-      "Глазырина Ирина Петровна": 36,
-      "Григорьев Виктор Иванович": 9,
-      "Жидков Андрей Алексеевич": 57,
-      "Никонов Юрий Иннокентьевич": 89,
-      "Останин Виктор Алексеевич": 60,
-      "Палкин Владимир Дмитриевич": 23,
-      "Романов Анатолий Павлович": 295,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000131423": 286,
+      "gas:candidate-vibid:1001000112273": 36,
+      "gas:candidate-vibid:375300266651": 9,
+      "gas:candidate-vibid:375300266785": 57,
+      "gas:candidate-vibid:1001000136143": 89,
+      "gas:candidate-vibid:375300266648": 60,
+      "gas:candidate-vibid:1001000203792": 23,
+      "gas:candidate-vibid:1001000226001": 295,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 150,
-      "Глазырина Ирина Петровна": 5,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 2,
-      "Никонов Юрий Иннокентьевич": 13,
-      "Останин Виктор Алексеевич": 9,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 116,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131423": 150,
+      "gas:candidate-vibid:1001000112273": 5,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 2,
+      "gas:candidate-vibid:1001000136143": 13,
+      "gas:candidate-vibid:375300266648": 9,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 116,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 37,
-      "Глазырина Ирина Петровна": 3,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 7,
-      "Никонов Юрий Иннокентьевич": 2,
-      "Останин Виктор Алексеевич": 10,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 13,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131423": 37,
+      "gas:candidate-vibid:1001000112273": 3,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 7,
+      "gas:candidate-vibid:1001000136143": 2,
+      "gas:candidate-vibid:375300266648": 10,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 13,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 73,
-      "Глазырина Ирина Петровна": 5,
-      "Григорьев Виктор Иванович": 29,
-      "Жидков Андрей Алексеевич": 3,
-      "Никонов Юрий Иннокентьевич": 9,
-      "Останин Виктор Алексеевич": 44,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 66,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131423": 73,
+      "gas:candidate-vibid:1001000112273": 5,
+      "gas:candidate-vibid:375300266651": 29,
+      "gas:candidate-vibid:375300266785": 3,
+      "gas:candidate-vibid:1001000136143": 9,
+      "gas:candidate-vibid:375300266648": 44,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 66,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 48,
-      "Глазырина Ирина Петровна": 0,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 4,
-      "Останин Виктор Алексеевич": 23,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 39,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131423": 48,
+      "gas:candidate-vibid:1001000112273": 0,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 4,
+      "gas:candidate-vibid:375300266648": 23,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 39,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 96,
-      "Глазырина Ирина Петровна": 19,
-      "Григорьев Виктор Иванович": 10,
-      "Жидков Андрей Алексеевич": 16,
-      "Никонов Юрий Иннокентьевич": 29,
-      "Останин Виктор Алексеевич": 54,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 230,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000131423": 96,
+      "gas:candidate-vibid:1001000112273": 19,
+      "gas:candidate-vibid:375300266651": 10,
+      "gas:candidate-vibid:375300266785": 16,
+      "gas:candidate-vibid:1001000136143": 29,
+      "gas:candidate-vibid:375300266648": 54,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 230,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 79,
-      "Глазырина Ирина Петровна": 2,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 5,
-      "Останин Виктор Алексеевич": 40,
-      "Палкин Владимир Дмитриевич": 3,
-      "Романов Анатолий Павлович": 26,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131423": 79,
+      "gas:candidate-vibid:1001000112273": 2,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 5,
+      "gas:candidate-vibid:375300266648": 40,
+      "gas:candidate-vibid:1001000203792": 3,
+      "gas:candidate-vibid:1001000226001": 26,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 68,
-      "Глазырина Ирина Петровна": 8,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 4,
-      "Никонов Юрий Иннокентьевич": 8,
-      "Останин Виктор Алексеевич": 15,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 98,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131423": 68,
+      "gas:candidate-vibid:1001000112273": 8,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 4,
+      "gas:candidate-vibid:1001000136143": 8,
+      "gas:candidate-vibid:375300266648": 15,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 98,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 48,
-      "Глазырина Ирина Петровна": 5,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 2,
-      "Никонов Юрий Иннокентьевич": 8,
-      "Останин Виктор Алексеевич": 6,
-      "Палкин Владимир Дмитриевич": 0,
-      "Романов Анатолий Павлович": 69,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131423": 48,
+      "gas:candidate-vibid:1001000112273": 5,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 2,
+      "gas:candidate-vibid:1001000136143": 8,
+      "gas:candidate-vibid:375300266648": 6,
+      "gas:candidate-vibid:1001000203792": 0,
+      "gas:candidate-vibid:1001000226001": 69,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 143,
-      "Глазырина Ирина Петровна": 18,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 17,
-      "Никонов Юрий Иннокентьевич": 26,
-      "Останин Виктор Алексеевич": 86,
-      "Палкин Владимир Дмитриевич": 4,
-      "Романов Анатолий Павлович": 95,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131423": 143,
+      "gas:candidate-vibid:1001000112273": 18,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 17,
+      "gas:candidate-vibid:1001000136143": 26,
+      "gas:candidate-vibid:375300266648": 86,
+      "gas:candidate-vibid:1001000203792": 4,
+      "gas:candidate-vibid:1001000226001": 95,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 343,
-      "Глазырина Ирина Петровна": 55,
-      "Григорьев Виктор Иванович": 13,
-      "Жидков Андрей Алексеевич": 66,
-      "Никонов Юрий Иннокентьевич": 87,
-      "Останин Виктор Алексеевич": 117,
-      "Палкин Владимир Дмитриевич": 22,
-      "Романов Анатолий Павлович": 530,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000131423": 343,
+      "gas:candidate-vibid:1001000112273": 55,
+      "gas:candidate-vibid:375300266651": 13,
+      "gas:candidate-vibid:375300266785": 66,
+      "gas:candidate-vibid:1001000136143": 87,
+      "gas:candidate-vibid:375300266648": 117,
+      "gas:candidate-vibid:1001000203792": 22,
+      "gas:candidate-vibid:1001000226001": 530,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 392,
-      "Глазырина Ирина Петровна": 35,
-      "Григорьев Виктор Иванович": 11,
-      "Жидков Андрей Алексеевич": 32,
-      "Никонов Юрий Иннокентьевич": 111,
-      "Останин Виктор Алексеевич": 151,
-      "Палкин Владимир Дмитриевич": 13,
-      "Романов Анатолий Павлович": 192,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000131423": 392,
+      "gas:candidate-vibid:1001000112273": 35,
+      "gas:candidate-vibid:375300266651": 11,
+      "gas:candidate-vibid:375300266785": 32,
+      "gas:candidate-vibid:1001000136143": 111,
+      "gas:candidate-vibid:375300266648": 151,
+      "gas:candidate-vibid:1001000203792": 13,
+      "gas:candidate-vibid:1001000226001": 192,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 51,
-      "Глазырина Ирина Петровна": 11,
-      "Григорьев Виктор Иванович": 24,
-      "Жидков Андрей Алексеевич": 4,
-      "Никонов Юрий Иннокентьевич": 11,
-      "Останин Виктор Алексеевич": 50,
-      "Палкин Владимир Дмитриевич": 4,
-      "Романов Анатолий Павлович": 19,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000131423": 51,
+      "gas:candidate-vibid:1001000112273": 11,
+      "gas:candidate-vibid:375300266651": 24,
+      "gas:candidate-vibid:375300266785": 4,
+      "gas:candidate-vibid:1001000136143": 11,
+      "gas:candidate-vibid:375300266648": 50,
+      "gas:candidate-vibid:1001000203792": 4,
+      "gas:candidate-vibid:1001000226001": 19,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 89,
-      "Глазырина Ирина Петровна": 8,
-      "Григорьев Виктор Иванович": 46,
-      "Жидков Андрей Алексеевич": 1,
-      "Никонов Юрий Иннокентьевич": 6,
-      "Останин Виктор Алексеевич": 24,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 78,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131423": 89,
+      "gas:candidate-vibid:1001000112273": 8,
+      "gas:candidate-vibid:375300266651": 46,
+      "gas:candidate-vibid:375300266785": 1,
+      "gas:candidate-vibid:1001000136143": 6,
+      "gas:candidate-vibid:375300266648": 24,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 78,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 154,
-      "Глазырина Ирина Петровна": 9,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 14,
-      "Никонов Юрий Иннокентьевич": 35,
-      "Останин Виктор Алексеевич": 41,
-      "Палкин Владимир Дмитриевич": 6,
-      "Романов Анатолий Павлович": 183,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000131423": 154,
+      "gas:candidate-vibid:1001000112273": 9,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 14,
+      "gas:candidate-vibid:1001000136143": 35,
+      "gas:candidate-vibid:375300266648": 41,
+      "gas:candidate-vibid:1001000203792": 6,
+      "gas:candidate-vibid:1001000226001": 183,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 253,
-      "Глазырина Ирина Петровна": 23,
-      "Григорьев Виктор Иванович": 12,
-      "Жидков Андрей Алексеевич": 17,
-      "Никонов Юрий Иннокентьевич": 38,
-      "Останин Виктор Алексеевич": 81,
-      "Палкин Владимир Дмитриевич": 12,
-      "Романов Анатолий Павлович": 241,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000131423": 253,
+      "gas:candidate-vibid:1001000112273": 23,
+      "gas:candidate-vibid:375300266651": 12,
+      "gas:candidate-vibid:375300266785": 17,
+      "gas:candidate-vibid:1001000136143": 38,
+      "gas:candidate-vibid:375300266648": 81,
+      "gas:candidate-vibid:1001000203792": 12,
+      "gas:candidate-vibid:1001000226001": 241,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 241,
-      "Глазырина Ирина Петровна": 25,
-      "Григорьев Виктор Иванович": 12,
-      "Жидков Андрей Алексеевич": 6,
-      "Никонов Юрий Иннокентьевич": 37,
-      "Останин Виктор Алексеевич": 111,
-      "Палкин Владимир Дмитриевич": 7,
-      "Романов Анатолий Павлович": 221,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000131423": 241,
+      "gas:candidate-vibid:1001000112273": 25,
+      "gas:candidate-vibid:375300266651": 12,
+      "gas:candidate-vibid:375300266785": 6,
+      "gas:candidate-vibid:1001000136143": 37,
+      "gas:candidate-vibid:375300266648": 111,
+      "gas:candidate-vibid:1001000203792": 7,
+      "gas:candidate-vibid:1001000226001": 221,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 134,
-      "Глазырина Ирина Петровна": 20,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 13,
-      "Никонов Юрий Иннокентьевич": 17,
-      "Останин Виктор Алексеевич": 33,
-      "Палкин Владимир Дмитриевич": 8,
-      "Романов Анатолий Павлович": 74,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131423": 134,
+      "gas:candidate-vibid:1001000112273": 20,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 13,
+      "gas:candidate-vibid:1001000136143": 17,
+      "gas:candidate-vibid:375300266648": 33,
+      "gas:candidate-vibid:1001000203792": 8,
+      "gas:candidate-vibid:1001000226001": 74,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 221,
-      "Глазырина Ирина Петровна": 28,
-      "Григорьев Виктор Иванович": 7,
-      "Жидков Андрей Алексеевич": 13,
-      "Никонов Юрий Иннокентьевич": 29,
-      "Останин Виктор Алексеевич": 48,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 188,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131423": 221,
+      "gas:candidate-vibid:1001000112273": 28,
+      "gas:candidate-vibid:375300266651": 7,
+      "gas:candidate-vibid:375300266785": 13,
+      "gas:candidate-vibid:1001000136143": 29,
+      "gas:candidate-vibid:375300266648": 48,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 188,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 89,
-      "Глазырина Ирина Петровна": 9,
-      "Григорьев Виктор Иванович": 8,
-      "Жидков Андрей Алексеевич": 3,
-      "Никонов Юрий Иннокентьевич": 13,
-      "Останин Виктор Алексеевич": 73,
-      "Палкин Владимир Дмитриевич": 11,
-      "Романов Анатолий Павлович": 83,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131423": 89,
+      "gas:candidate-vibid:1001000112273": 9,
+      "gas:candidate-vibid:375300266651": 8,
+      "gas:candidate-vibid:375300266785": 3,
+      "gas:candidate-vibid:1001000136143": 13,
+      "gas:candidate-vibid:375300266648": 73,
+      "gas:candidate-vibid:1001000203792": 11,
+      "gas:candidate-vibid:1001000226001": 83,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 98,
-      "Глазырина Ирина Петровна": 15,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 10,
-      "Никонов Юрий Иннокентьевич": 18,
-      "Останин Виктор Алексеевич": 64,
-      "Палкин Владимир Дмитриевич": 5,
-      "Романов Анатолий Павлович": 137,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131423": 98,
+      "gas:candidate-vibid:1001000112273": 15,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 10,
+      "gas:candidate-vibid:1001000136143": 18,
+      "gas:candidate-vibid:375300266648": 64,
+      "gas:candidate-vibid:1001000203792": 5,
+      "gas:candidate-vibid:1001000226001": 137,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 57,
-      "Глазырина Ирина Петровна": 1,
-      "Григорьев Виктор Иванович": 1,
-      "Жидков Андрей Алексеевич": 2,
-      "Никонов Юрий Иннокентьевич": 1,
-      "Останин Виктор Алексеевич": 14,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 83,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131423": 57,
+      "gas:candidate-vibid:1001000112273": 1,
+      "gas:candidate-vibid:375300266651": 1,
+      "gas:candidate-vibid:375300266785": 2,
+      "gas:candidate-vibid:1001000136143": 1,
+      "gas:candidate-vibid:375300266648": 14,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 83,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 80,
-      "Глазырина Ирина Петровна": 2,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 3,
-      "Останин Виктор Алексеевич": 15,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 39,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131423": 80,
+      "gas:candidate-vibid:1001000112273": 2,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 3,
+      "gas:candidate-vibid:375300266648": 15,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 39,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 77,
-      "Глазырина Ирина Петровна": 4,
-      "Григорьев Виктор Иванович": 2,
-      "Жидков Андрей Алексеевич": 0,
-      "Никонов Юрий Иннокентьевич": 0,
-      "Останин Виктор Алексеевич": 10,
-      "Палкин Владимир Дмитриевич": 1,
-      "Романов Анатолий Павлович": 43,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131423": 77,
+      "gas:candidate-vibid:1001000112273": 4,
+      "gas:candidate-vibid:375300266651": 2,
+      "gas:candidate-vibid:375300266785": 0,
+      "gas:candidate-vibid:1001000136143": 0,
+      "gas:candidate-vibid:375300266648": 10,
+      "gas:candidate-vibid:1001000203792": 1,
+      "gas:candidate-vibid:1001000226001": 43,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 59,
-      "Глазырина Ирина Петровна": 5,
-      "Григорьев Виктор Иванович": 0,
-      "Жидков Андрей Алексеевич": 2,
-      "Никонов Юрий Иннокентьевич": 4,
-      "Останин Виктор Алексеевич": 22,
-      "Палкин Владимир Дмитриевич": 2,
-      "Романов Анатолий Павлович": 72,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131423": 59,
+      "gas:candidate-vibid:1001000112273": 5,
+      "gas:candidate-vibid:375300266651": 0,
+      "gas:candidate-vibid:375300266785": 2,
+      "gas:candidate-vibid:1001000136143": 4,
+      "gas:candidate-vibid:375300266648": 22,
+      "gas:candidate-vibid:1001000203792": 2,
+      "gas:candidate-vibid:1001000226001": 72,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 186,
-      "Глазырина Ирина Петровна": 13,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 11,
-      "Никонов Юрий Иннокентьевич": 21,
-      "Останин Виктор Алексеевич": 59,
-      "Палкин Владимир Дмитриевич": 5,
-      "Романов Анатолий Павлович": 79,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131423": 186,
+      "gas:candidate-vibid:1001000112273": 13,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 11,
+      "gas:candidate-vibid:1001000136143": 21,
+      "gas:candidate-vibid:375300266648": 59,
+      "gas:candidate-vibid:1001000203792": 5,
+      "gas:candidate-vibid:1001000226001": 79,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 262,
-      "Глазырина Ирина Петровна": 21,
-      "Григорьев Виктор Иванович": 3,
-      "Жидков Андрей Алексеевич": 10,
-      "Никонов Юрий Иннокентьевич": 31,
-      "Останин Виктор Алексеевич": 166,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 89,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131423": 262,
+      "gas:candidate-vibid:1001000112273": 21,
+      "gas:candidate-vibid:375300266651": 3,
+      "gas:candidate-vibid:375300266785": 10,
+      "gas:candidate-vibid:1001000136143": 31,
+      "gas:candidate-vibid:375300266648": 166,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 89,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067499&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 440,
-      "Глазырина Ирина Петровна": 63,
-      "Григорьев Виктор Иванович": 32,
-      "Жидков Андрей Алексеевич": 92,
-      "Никонов Юрий Иннокентьевич": 123,
-      "Останин Виктор Алексеевич": 70,
-      "Палкин Владимир Дмитриевич": 29,
-      "Романов Анатолий Павлович": 979,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000131423": 440,
+      "gas:candidate-vibid:1001000112273": 63,
+      "gas:candidate-vibid:375300266651": 32,
+      "gas:candidate-vibid:375300266785": 92,
+      "gas:candidate-vibid:1001000136143": 123,
+      "gas:candidate-vibid:375300266648": 70,
+      "gas:candidate-vibid:1001000203792": 29,
+      "gas:candidate-vibid:1001000226001": 979,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067501&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 416,
-      "Глазырина Ирина Петровна": 41,
-      "Григорьев Виктор Иванович": 22,
-      "Жидков Андрей Алексеевич": 56,
-      "Никонов Юрий Иннокентьевич": 94,
-      "Останин Виктор Алексеевич": 44,
-      "Палкин Владимир Дмитриевич": 24,
-      "Романов Анатолий Павлович": 450,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000131423": 416,
+      "gas:candidate-vibid:1001000112273": 41,
+      "gas:candidate-vibid:375300266651": 22,
+      "gas:candidate-vibid:375300266785": 56,
+      "gas:candidate-vibid:1001000136143": 94,
+      "gas:candidate-vibid:375300266648": 44,
+      "gas:candidate-vibid:1001000203792": 24,
+      "gas:candidate-vibid:1001000226001": 450,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067501&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_75_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Виктор Петрович": 138,
-      "Глазырина Ирина Петровна": 28,
-      "Григорьев Виктор Иванович": 13,
-      "Жидков Андрей Алексеевич": 26,
-      "Никонов Юрий Иннокентьевич": 60,
-      "Останин Виктор Алексеевич": 41,
-      "Палкин Владимир Дмитриевич": 14,
-      "Романов Анатолий Павлович": 412,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131423": 138,
+      "gas:candidate-vibid:1001000112273": 28,
+      "gas:candidate-vibid:375300266651": 13,
+      "gas:candidate-vibid:375300266785": 26,
+      "gas:candidate-vibid:1001000136143": 60,
+      "gas:candidate-vibid:375300266648": 41,
+      "gas:candidate-vibid:1001000203792": 14,
+      "gas:candidate-vibid:1001000226001": 412,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=752000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=275200067501&region=0&sub_region=0&type=429",

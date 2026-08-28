@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 280,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 30,
-      "Медведев Павел Алексеевич": 663,
-      "Орехов Андрей Васильевич": 62,
-      "Пономарев Юрий Анатольевич": 72,
-      "Черковец Олег Викторович": 162,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000250033": 280,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 30,
+      "gas:candidate-vibid:1001000226014": 663,
+      "gas:candidate-vibid:377301370786": 62,
+      "gas:candidate-vibid:1001000136157": 72,
+      "gas:candidate-vibid:1001000121942": 162,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 272,
-      "Лексаков Владимир Павлович": 13,
-      "Лутковский Александр Сергеевич": 12,
-      "Медведев Павел Алексеевич": 574,
-      "Орехов Андрей Васильевич": 36,
-      "Пономарев Юрий Анатольевич": 70,
-      "Черковец Олег Викторович": 97,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000250033": 272,
+      "gas:candidate-vibid:1001000190457": 13,
+      "gas:candidate-vibid:1001000195172": 12,
+      "gas:candidate-vibid:1001000226014": 574,
+      "gas:candidate-vibid:377301370786": 36,
+      "gas:candidate-vibid:1001000136157": 70,
+      "gas:candidate-vibid:1001000121942": 97,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 221,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 10,
-      "Медведев Павел Алексеевич": 474,
-      "Орехов Андрей Васильевич": 40,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 73,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000250033": 221,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 10,
+      "gas:candidate-vibid:1001000226014": 474,
+      "gas:candidate-vibid:377301370786": 40,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 73,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 168,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 13,
-      "Медведев Павел Алексеевич": 465,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 21,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000250033": 168,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 13,
+      "gas:candidate-vibid:1001000226014": 465,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 21,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 237,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 391,
-      "Орехов Андрей Васильевич": 30,
-      "Пономарев Юрий Анатольевич": 31,
-      "Черковец Олег Викторович": 50,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000250033": 237,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 391,
+      "gas:candidate-vibid:377301370786": 30,
+      "gas:candidate-vibid:1001000136157": 31,
+      "gas:candidate-vibid:1001000121942": 50,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 309,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 560,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 103,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000250033": 309,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 560,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 103,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 241,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 317,
-      "Орехов Андрей Васильевич": 33,
-      "Пономарев Юрий Анатольевич": 36,
-      "Черковец Олег Викторович": 78,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000250033": 241,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 317,
+      "gas:candidate-vibid:377301370786": 33,
+      "gas:candidate-vibid:1001000136157": 36,
+      "gas:candidate-vibid:1001000121942": 78,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 395,
-      "Лексаков Владимир Павлович": 13,
-      "Лутковский Александр Сергеевич": 10,
-      "Медведев Павел Алексеевич": 519,
-      "Орехов Андрей Васильевич": 52,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 78,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000250033": 395,
+      "gas:candidate-vibid:1001000190457": 13,
+      "gas:candidate-vibid:1001000195172": 10,
+      "gas:candidate-vibid:1001000226014": 519,
+      "gas:candidate-vibid:377301370786": 52,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 78,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 292,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 412,
-      "Орехов Андрей Васильевич": 29,
-      "Пономарев Юрий Анатольевич": 27,
-      "Черковец Олег Викторович": 93,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000250033": 292,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 412,
+      "gas:candidate-vibid:377301370786": 29,
+      "gas:candidate-vibid:1001000136157": 27,
+      "gas:candidate-vibid:1001000121942": 93,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 235,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 587,
-      "Орехов Андрей Васильевич": 36,
-      "Пономарев Юрий Анатольевич": 41,
-      "Черковец Олег Викторович": 115,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000250033": 235,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 587,
+      "gas:candidate-vibid:377301370786": 36,
+      "gas:candidate-vibid:1001000136157": 41,
+      "gas:candidate-vibid:1001000121942": 115,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 332,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 576,
-      "Орехов Андрей Васильевич": 25,
-      "Пономарев Юрий Анатольевич": 46,
-      "Черковец Олег Викторович": 85,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000250033": 332,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 576,
+      "gas:candidate-vibid:377301370786": 25,
+      "gas:candidate-vibid:1001000136157": 46,
+      "gas:candidate-vibid:1001000121942": 85,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 309,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 618,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 36,
-      "Черковец Олег Викторович": 93,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000250033": 309,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 618,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 36,
+      "gas:candidate-vibid:1001000121942": 93,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 284,
-      "Лексаков Владимир Павлович": 12,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 485,
-      "Орехов Андрей Васильевич": 28,
-      "Пономарев Юрий Анатольевич": 46,
-      "Черковец Олег Викторович": 98,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000250033": 284,
+      "gas:candidate-vibid:1001000190457": 12,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 485,
+      "gas:candidate-vibid:377301370786": 28,
+      "gas:candidate-vibid:1001000136157": 46,
+      "gas:candidate-vibid:1001000121942": 98,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 248,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 10,
-      "Медведев Павел Алексеевич": 501,
-      "Орехов Андрей Васильевич": 61,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 116,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000250033": 248,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 10,
+      "gas:candidate-vibid:1001000226014": 501,
+      "gas:candidate-vibid:377301370786": 61,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 116,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 325,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 29,
-      "Медведев Павел Алексеевич": 567,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 64,
-      "Черковец Олег Викторович": 126,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000250033": 325,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 29,
+      "gas:candidate-vibid:1001000226014": 567,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 64,
+      "gas:candidate-vibid:1001000121942": 126,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 188,
-      "Лексаков Владимир Павлович": 9,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 632,
-      "Орехов Андрей Васильевич": 31,
-      "Пономарев Юрий Анатольевич": 40,
-      "Черковец Олег Викторович": 75,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000250033": 188,
+      "gas:candidate-vibid:1001000190457": 9,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 632,
+      "gas:candidate-vibid:377301370786": 31,
+      "gas:candidate-vibid:1001000136157": 40,
+      "gas:candidate-vibid:1001000121942": 75,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 221,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 31,
-      "Медведев Павел Алексеевич": 553,
-      "Орехов Андрей Васильевич": 39,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 115,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000250033": 221,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 31,
+      "gas:candidate-vibid:1001000226014": 553,
+      "gas:candidate-vibid:377301370786": 39,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 115,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 92,
-      "Лексаков Владимир Павлович": 7,
-      "Лутковский Александр Сергеевич": 7,
-      "Медведев Павел Алексеевич": 475,
-      "Орехов Андрей Васильевич": 26,
-      "Пономарев Юрий Анатольевич": 16,
-      "Черковец Олег Викторович": 37,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000250033": 92,
+      "gas:candidate-vibid:1001000190457": 7,
+      "gas:candidate-vibid:1001000195172": 7,
+      "gas:candidate-vibid:1001000226014": 475,
+      "gas:candidate-vibid:377301370786": 26,
+      "gas:candidate-vibid:1001000136157": 16,
+      "gas:candidate-vibid:1001000121942": 37,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 224,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 513,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 48,
-      "Черковец Олег Викторович": 111,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000250033": 224,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 513,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 48,
+      "gas:candidate-vibid:1001000121942": 111,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 295,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 25,
-      "Медведев Павел Алексеевич": 492,
-      "Орехов Андрей Васильевич": 25,
-      "Пономарев Юрий Анатольевич": 66,
-      "Черковец Олег Викторович": 107,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000250033": 295,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 25,
+      "gas:candidate-vibid:1001000226014": 492,
+      "gas:candidate-vibid:377301370786": 25,
+      "gas:candidate-vibid:1001000136157": 66,
+      "gas:candidate-vibid:1001000121942": 107,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 172,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 5,
-      "Медведев Павел Алексеевич": 497,
-      "Орехов Андрей Васильевич": 33,
-      "Пономарев Юрий Анатольевич": 72,
-      "Черковец Олег Викторович": 84,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000250033": 172,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 5,
+      "gas:candidate-vibid:1001000226014": 497,
+      "gas:candidate-vibid:377301370786": 33,
+      "gas:candidate-vibid:1001000136157": 72,
+      "gas:candidate-vibid:1001000121942": 84,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 239,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 28,
-      "Медведев Павел Алексеевич": 509,
-      "Орехов Андрей Васильевич": 24,
-      "Пономарев Юрий Анатольевич": 63,
-      "Черковец Олег Викторович": 176,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000250033": 239,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 28,
+      "gas:candidate-vibid:1001000226014": 509,
+      "gas:candidate-vibid:377301370786": 24,
+      "gas:candidate-vibid:1001000136157": 63,
+      "gas:candidate-vibid:1001000121942": 176,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 25,
-      "Лексаков Владимир Павлович": 6,
-      "Лутковский Александр Сергеевич": 4,
-      "Медведев Павел Алексеевич": 20,
-      "Орехов Андрей Васильевич": 6,
-      "Пономарев Юрий Анатольевич": 3,
-      "Черковец Олег Викторович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250033": 25,
+      "gas:candidate-vibid:1001000190457": 6,
+      "gas:candidate-vibid:1001000195172": 4,
+      "gas:candidate-vibid:1001000226014": 20,
+      "gas:candidate-vibid:377301370786": 6,
+      "gas:candidate-vibid:1001000136157": 3,
+      "gas:candidate-vibid:1001000121942": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 4,
-      "Лексаков Владимир Павлович": 1,
-      "Лутковский Александр Сергеевич": 0,
-      "Медведев Павел Алексеевич": 18,
-      "Орехов Андрей Васильевич": 2,
-      "Пономарев Юрий Анатольевич": 2,
-      "Черковец Олег Викторович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250033": 4,
+      "gas:candidate-vibid:1001000190457": 1,
+      "gas:candidate-vibid:1001000195172": 0,
+      "gas:candidate-vibid:1001000226014": 18,
+      "gas:candidate-vibid:377301370786": 2,
+      "gas:candidate-vibid:1001000136157": 2,
+      "gas:candidate-vibid:1001000121942": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 4,
-      "Лексаков Владимир Павлович": 0,
-      "Лутковский Александр Сергеевич": 0,
-      "Медведев Павел Алексеевич": 12,
-      "Орехов Андрей Васильевич": 1,
-      "Пономарев Юрий Анатольевич": 3,
-      "Черковец Олег Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250033": 4,
+      "gas:candidate-vibid:1001000190457": 0,
+      "gas:candidate-vibid:1001000195172": 0,
+      "gas:candidate-vibid:1001000226014": 12,
+      "gas:candidate-vibid:377301370786": 1,
+      "gas:candidate-vibid:1001000136157": 3,
+      "gas:candidate-vibid:1001000121942": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370529&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 150,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 683,
-      "Орехов Андрей Васильевич": 41,
-      "Пономарев Юрий Анатольевич": 45,
-      "Черковец Олег Викторович": 90,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000250033": 150,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 683,
+      "gas:candidate-vibid:377301370786": 41,
+      "gas:candidate-vibid:1001000136157": 45,
+      "gas:candidate-vibid:1001000121942": 90,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 156,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 572,
-      "Орехов Андрей Васильевич": 36,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 144,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000250033": 156,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 572,
+      "gas:candidate-vibid:377301370786": 36,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 144,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 107,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 510,
-      "Орехов Андрей Васильевич": 21,
-      "Пономарев Юрий Анатольевич": 37,
-      "Черковец Олег Викторович": 87,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000250033": 107,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 510,
+      "gas:candidate-vibid:377301370786": 21,
+      "gas:candidate-vibid:1001000136157": 37,
+      "gas:candidate-vibid:1001000121942": 87,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 100,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 558,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 27,
-      "Черковец Олег Викторович": 96,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000250033": 100,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 558,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 27,
+      "gas:candidate-vibid:1001000121942": 96,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 107,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 604,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 39,
-      "Черковец Олег Викторович": 83,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000250033": 107,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 604,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 39,
+      "gas:candidate-vibid:1001000121942": 83,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 156,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 28,
-      "Медведев Павел Алексеевич": 395,
-      "Орехов Андрей Васильевич": 59,
-      "Пономарев Юрий Анатольевич": 55,
-      "Черковец Олег Викторович": 84,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000250033": 156,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 28,
+      "gas:candidate-vibid:1001000226014": 395,
+      "gas:candidate-vibid:377301370786": 59,
+      "gas:candidate-vibid:1001000136157": 55,
+      "gas:candidate-vibid:1001000121942": 84,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 139,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 653,
-      "Орехов Андрей Васильевич": 29,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 72,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000250033": 139,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 653,
+      "gas:candidate-vibid:377301370786": 29,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 72,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 120,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 640,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 64,
-      "Черковец Олег Викторович": 80,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000250033": 120,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 640,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 64,
+      "gas:candidate-vibid:1001000121942": 80,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 122,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 521,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 103,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000250033": 122,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 521,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 103,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 130,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 558,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 90,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000250033": 130,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 558,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 90,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 100,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 508,
-      "Орехов Андрей Васильевич": 47,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 98,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000250033": 100,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 508,
+      "gas:candidate-vibid:377301370786": 47,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 98,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 119,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 626,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 112,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000250033": 119,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 626,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 112,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 138,
-      "Лексаков Владимир Павлович": 30,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 474,
-      "Орехов Андрей Васильевич": 64,
-      "Пономарев Юрий Анатольевич": 63,
-      "Черковец Олег Викторович": 268,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000250033": 138,
+      "gas:candidate-vibid:1001000190457": 30,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 474,
+      "gas:candidate-vibid:377301370786": 64,
+      "gas:candidate-vibid:1001000136157": 63,
+      "gas:candidate-vibid:1001000121942": 268,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 140,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 541,
-      "Орехов Андрей Васильевич": 51,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 378,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000250033": 140,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 541,
+      "gas:candidate-vibid:377301370786": 51,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 378,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 110,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 12,
-      "Медведев Павел Алексеевич": 429,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 207,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000250033": 110,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 12,
+      "gas:candidate-vibid:1001000226014": 429,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 207,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 175,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 456,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 91,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000250033": 175,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 456,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 91,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 176,
-      "Лексаков Владимир Павлович": 32,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 546,
-      "Орехов Андрей Васильевич": 61,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 113,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000250033": 176,
+      "gas:candidate-vibid:1001000190457": 32,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 546,
+      "gas:candidate-vibid:377301370786": 61,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 113,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 142,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 710,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 32,
-      "Черковец Олег Викторович": 130,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000250033": 142,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 710,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 32,
+      "gas:candidate-vibid:1001000121942": 130,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 147,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 600,
-      "Орехов Андрей Васильевич": 57,
-      "Пономарев Юрий Анатольевич": 73,
-      "Черковец Олег Викторович": 162,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000250033": 147,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 600,
+      "gas:candidate-vibid:377301370786": 57,
+      "gas:candidate-vibid:1001000136157": 73,
+      "gas:candidate-vibid:1001000121942": 162,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 201,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 599,
-      "Орехов Андрей Васильевич": 41,
-      "Пономарев Юрий Анатольевич": 40,
-      "Черковец Олег Викторович": 85,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000250033": 201,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 599,
+      "gas:candidate-vibid:377301370786": 41,
+      "gas:candidate-vibid:1001000136157": 40,
+      "gas:candidate-vibid:1001000121942": 85,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 125,
-      "Лексаков Владимир Павлович": 8,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 533,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 38,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000250033": 125,
+      "gas:candidate-vibid:1001000190457": 8,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 533,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 38,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 153,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 735,
-      "Орехов Андрей Васильевич": 32,
-      "Пономарев Юрий Анатольевич": 55,
-      "Черковец Олег Викторович": 99,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000250033": 153,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 735,
+      "gas:candidate-vibid:377301370786": 32,
+      "gas:candidate-vibid:1001000136157": 55,
+      "gas:candidate-vibid:1001000121942": 99,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 159,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 592,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 81,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000250033": 159,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 592,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 81,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 169,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 25,
-      "Медведев Павел Алексеевич": 604,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 58,
-      "Черковец Олег Викторович": 98,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000250033": 169,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 25,
+      "gas:candidate-vibid:1001000226014": 604,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 58,
+      "gas:candidate-vibid:1001000121942": 98,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 197,
-      "Лексаков Владимир Павлович": 13,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 538,
-      "Орехов Андрей Васильевич": 45,
-      "Пономарев Юрий Анатольевич": 48,
-      "Черковец Олег Викторович": 88,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000250033": 197,
+      "gas:candidate-vibid:1001000190457": 13,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 538,
+      "gas:candidate-vibid:377301370786": 45,
+      "gas:candidate-vibid:1001000136157": 48,
+      "gas:candidate-vibid:1001000121942": 88,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 181,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 720,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 133,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000250033": 181,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 720,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 133,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 208,
-      "Лексаков Владимир Павлович": 12,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 739,
-      "Орехов Андрей Васильевич": 36,
-      "Пономарев Юрий Анатольевич": 58,
-      "Черковец Олег Викторович": 151,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000250033": 208,
+      "gas:candidate-vibid:1001000190457": 12,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 739,
+      "gas:candidate-vibid:377301370786": 36,
+      "gas:candidate-vibid:1001000136157": 58,
+      "gas:candidate-vibid:1001000121942": 151,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 1,
-      "Лексаков Владимир Павлович": 0,
-      "Лутковский Александр Сергеевич": 0,
-      "Медведев Павел Алексеевич": 10,
-      "Орехов Андрей Васильевич": 1,
-      "Пономарев Юрий Анатольевич": 2,
-      "Черковец Олег Викторович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250033": 1,
+      "gas:candidate-vibid:1001000190457": 0,
+      "gas:candidate-vibid:1001000195172": 0,
+      "gas:candidate-vibid:1001000226014": 10,
+      "gas:candidate-vibid:377301370786": 1,
+      "gas:candidate-vibid:1001000136157": 2,
+      "gas:candidate-vibid:1001000121942": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370530&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 361,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 25,
-      "Медведев Павел Алексеевич": 697,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 40,
-      "Черковец Олег Викторович": 159,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000250033": 361,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 25,
+      "gas:candidate-vibid:1001000226014": 697,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 40,
+      "gas:candidate-vibid:1001000121942": 159,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 242,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 710,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 119,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000250033": 242,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 710,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 119,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 289,
-      "Лексаков Владимир Павлович": 24,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 652,
-      "Орехов Андрей Васильевич": 44,
-      "Пономарев Юрий Анатольевич": 69,
-      "Черковец Олег Викторович": 154,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000250033": 289,
+      "gas:candidate-vibid:1001000190457": 24,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 652,
+      "gas:candidate-vibid:377301370786": 44,
+      "gas:candidate-vibid:1001000136157": 69,
+      "gas:candidate-vibid:1001000121942": 154,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 339,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 634,
-      "Орехов Андрей Васильевич": 32,
-      "Пономарев Юрий Анатольевич": 63,
-      "Черковец Олег Викторович": 107,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000250033": 339,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 634,
+      "gas:candidate-vibid:377301370786": 32,
+      "gas:candidate-vibid:1001000136157": 63,
+      "gas:candidate-vibid:1001000121942": 107,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 255,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 645,
-      "Орехов Андрей Васильевич": 48,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 145,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000250033": 255,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 645,
+      "gas:candidate-vibid:377301370786": 48,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 145,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 312,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 593,
-      "Орехов Андрей Васильевич": 45,
-      "Пономарев Юрий Анатольевич": 49,
-      "Черковец Олег Викторович": 105,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000250033": 312,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 593,
+      "gas:candidate-vibid:377301370786": 45,
+      "gas:candidate-vibid:1001000136157": 49,
+      "gas:candidate-vibid:1001000121942": 105,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 415,
-      "Лексаков Владимир Павлович": 31,
-      "Лутковский Александр Сергеевич": 25,
-      "Медведев Павел Алексеевич": 536,
-      "Орехов Андрей Васильевич": 53,
-      "Пономарев Юрий Анатольевич": 65,
-      "Черковец Олег Викторович": 128,
-      "Против всех": 386
+      "gas:candidate-vibid:1001000250033": 415,
+      "gas:candidate-vibid:1001000190457": 31,
+      "gas:candidate-vibid:1001000195172": 25,
+      "gas:candidate-vibid:1001000226014": 536,
+      "gas:candidate-vibid:377301370786": 53,
+      "gas:candidate-vibid:1001000136157": 65,
+      "gas:candidate-vibid:1001000121942": 128,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 348,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 573,
-      "Орехов Андрей Васильевич": 60,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 133,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000250033": 348,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 573,
+      "gas:candidate-vibid:377301370786": 60,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 133,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 229,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 9,
-      "Медведев Павел Алексеевич": 498,
-      "Орехов Андрей Васильевич": 28,
-      "Пономарев Юрий Анатольевич": 39,
-      "Черковец Олег Викторович": 86,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000250033": 229,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 9,
+      "gas:candidate-vibid:1001000226014": 498,
+      "gas:candidate-vibid:377301370786": 28,
+      "gas:candidate-vibid:1001000136157": 39,
+      "gas:candidate-vibid:1001000121942": 86,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 240,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 11,
-      "Медведев Павел Алексеевич": 553,
-      "Орехов Андрей Васильевич": 40,
-      "Пономарев Юрий Анатольевич": 36,
-      "Черковец Олег Викторович": 75,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000250033": 240,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 11,
+      "gas:candidate-vibid:1001000226014": 553,
+      "gas:candidate-vibid:377301370786": 40,
+      "gas:candidate-vibid:1001000136157": 36,
+      "gas:candidate-vibid:1001000121942": 75,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 246,
-      "Лексаков Владимир Павлович": 9,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 485,
-      "Орехов Андрей Васильевич": 23,
-      "Пономарев Юрий Анатольевич": 36,
-      "Черковец Олег Викторович": 53,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000250033": 246,
+      "gas:candidate-vibid:1001000190457": 9,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 485,
+      "gas:candidate-vibid:377301370786": 23,
+      "gas:candidate-vibid:1001000136157": 36,
+      "gas:candidate-vibid:1001000121942": 53,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 415,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 597,
-      "Орехов Андрей Васильевич": 50,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 117,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000250033": 415,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 597,
+      "gas:candidate-vibid:377301370786": 50,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 117,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 313,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 581,
-      "Орехов Андрей Васильевич": 27,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 81,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000250033": 313,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 581,
+      "gas:candidate-vibid:377301370786": 27,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 81,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 259,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 12,
-      "Медведев Павел Алексеевич": 543,
-      "Орехов Андрей Васильевич": 41,
-      "Пономарев Юрий Анатольевич": 41,
-      "Черковец Олег Викторович": 92,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000250033": 259,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 12,
+      "gas:candidate-vibid:1001000226014": 543,
+      "gas:candidate-vibid:377301370786": 41,
+      "gas:candidate-vibid:1001000136157": 41,
+      "gas:candidate-vibid:1001000121942": 92,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 275,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 28,
-      "Медведев Павел Алексеевич": 524,
-      "Орехов Андрей Васильевич": 52,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 96,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000250033": 275,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 28,
+      "gas:candidate-vibid:1001000226014": 524,
+      "gas:candidate-vibid:377301370786": 52,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 96,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 312,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 623,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 105,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000250033": 312,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 623,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 105,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 305,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 633,
-      "Орехов Андрей Васильевич": 59,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 177,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000250033": 305,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 633,
+      "gas:candidate-vibid:377301370786": 59,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 177,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 277,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 635,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 159,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000250033": 277,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 635,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 159,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 280,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 585,
-      "Орехов Андрей Васильевич": 44,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 122,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000250033": 280,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 585,
+      "gas:candidate-vibid:377301370786": 44,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 122,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 304,
-      "Лексаков Владимир Павлович": 36,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 530,
-      "Орехов Андрей Васильевич": 33,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000250033": 304,
+      "gas:candidate-vibid:1001000190457": 36,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 530,
+      "gas:candidate-vibid:377301370786": 33,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 290,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 565,
-      "Орехов Андрей Васильевич": 45,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 100,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000250033": 290,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 565,
+      "gas:candidate-vibid:377301370786": 45,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 100,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 261,
-      "Лексаков Владимир Павлович": 74,
-      "Лутковский Александр Сергеевич": 13,
-      "Медведев Павел Алексеевич": 535,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 48,
-      "Черковец Олег Викторович": 97,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000250033": 261,
+      "gas:candidate-vibid:1001000190457": 74,
+      "gas:candidate-vibid:1001000195172": 13,
+      "gas:candidate-vibid:1001000226014": 535,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 48,
+      "gas:candidate-vibid:1001000121942": 97,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 297,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 613,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 128,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000250033": 297,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 613,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 128,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 324,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 514,
-      "Орехов Андрей Васильевич": 39,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 127,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000250033": 324,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 514,
+      "gas:candidate-vibid:377301370786": 39,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 127,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 229,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 456,
-      "Орехов Андрей Васильевич": 48,
-      "Пономарев Юрий Анатольевич": 65,
-      "Черковец Олег Викторович": 98,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000250033": 229,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 456,
+      "gas:candidate-vibid:377301370786": 48,
+      "gas:candidate-vibid:1001000136157": 65,
+      "gas:candidate-vibid:1001000121942": 98,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 298,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 633,
-      "Орехов Андрей Васильевич": 69,
-      "Пономарев Юрий Анатольевич": 63,
-      "Черковец Олег Викторович": 124,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000250033": 298,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 633,
+      "gas:candidate-vibid:377301370786": 69,
+      "gas:candidate-vibid:1001000136157": 63,
+      "gas:candidate-vibid:1001000121942": 124,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 217,
-      "Лексаков Владимир Павлович": 8,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 616,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 29,
-      "Черковец Олег Викторович": 107,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000250033": 217,
+      "gas:candidate-vibid:1001000190457": 8,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 616,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 29,
+      "gas:candidate-vibid:1001000121942": 107,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 194,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 9,
-      "Медведев Павел Алексеевич": 610,
-      "Орехов Андрей Васильевич": 34,
-      "Пономарев Юрий Анатольевич": 37,
-      "Черковец Олег Викторович": 74,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000250033": 194,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 9,
+      "gas:candidate-vibid:1001000226014": 610,
+      "gas:candidate-vibid:377301370786": 34,
+      "gas:candidate-vibid:1001000136157": 37,
+      "gas:candidate-vibid:1001000121942": 74,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 283,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 592,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 81,
-      "Черковец Олег Викторович": 194,
-      "Против всех": 394
+      "gas:candidate-vibid:1001000250033": 283,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 592,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 81,
+      "gas:candidate-vibid:1001000121942": 194,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 390,
-      "Лексаков Владимир Павлович": 33,
-      "Лутковский Александр Сергеевич": 30,
-      "Медведев Павел Алексеевич": 638,
-      "Орехов Андрей Васильевич": 73,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 181,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000250033": 390,
+      "gas:candidate-vibid:1001000190457": 33,
+      "gas:candidate-vibid:1001000195172": 30,
+      "gas:candidate-vibid:1001000226014": 638,
+      "gas:candidate-vibid:377301370786": 73,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 181,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 400,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 630,
-      "Орехов Андрей Васильевич": 58,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 154,
-      "Против всех": 370
+      "gas:candidate-vibid:1001000250033": 400,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 630,
+      "gas:candidate-vibid:377301370786": 58,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 154,
+      "special:against-all": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 139,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 297,
-      "Орехов Андрей Васильевич": 21,
-      "Пономарев Юрий Анатольевич": 31,
-      "Черковец Олег Викторович": 62,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000250033": 139,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 297,
+      "gas:candidate-vibid:377301370786": 21,
+      "gas:candidate-vibid:1001000136157": 31,
+      "gas:candidate-vibid:1001000121942": 62,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 205,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 421,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 155,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000250033": 205,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 421,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 155,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 269,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 33,
-      "Медведев Павел Алексеевич": 482,
-      "Орехов Андрей Васильевич": 61,
-      "Пономарев Юрий Анатольевич": 58,
-      "Черковец Олег Викторович": 170,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000250033": 269,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 33,
+      "gas:candidate-vibid:1001000226014": 482,
+      "gas:candidate-vibid:377301370786": 61,
+      "gas:candidate-vibid:1001000136157": 58,
+      "gas:candidate-vibid:1001000121942": 170,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 127,
-      "Лексаков Владимир Павлович": 3,
-      "Лутковский Александр Сергеевич": 4,
-      "Медведев Павел Алексеевич": 175,
-      "Орехов Андрей Васильевич": 6,
-      "Пономарев Юрий Анатольевич": 2,
-      "Черковец Олег Викторович": 19,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000250033": 127,
+      "gas:candidate-vibid:1001000190457": 3,
+      "gas:candidate-vibid:1001000195172": 4,
+      "gas:candidate-vibid:1001000226014": 175,
+      "gas:candidate-vibid:377301370786": 6,
+      "gas:candidate-vibid:1001000136157": 2,
+      "gas:candidate-vibid:1001000121942": 19,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 64,
-      "Лексаков Владимир Павлович": 4,
-      "Лутковский Александр Сергеевич": 6,
-      "Медведев Павел Алексеевич": 287,
-      "Орехов Андрей Васильевич": 8,
-      "Пономарев Юрий Анатольевич": 7,
-      "Черковец Олег Викторович": 10,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000250033": 64,
+      "gas:candidate-vibid:1001000190457": 4,
+      "gas:candidate-vibid:1001000195172": 6,
+      "gas:candidate-vibid:1001000226014": 287,
+      "gas:candidate-vibid:377301370786": 8,
+      "gas:candidate-vibid:1001000136157": 7,
+      "gas:candidate-vibid:1001000121942": 10,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 9,
-      "Лексаков Владимир Павлович": 1,
-      "Лутковский Александр Сергеевич": 2,
-      "Медведев Павел Алексеевич": 70,
-      "Орехов Андрей Васильевич": 2,
-      "Пономарев Юрий Анатольевич": 4,
-      "Черковец Олег Викторович": 18,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250033": 9,
+      "gas:candidate-vibid:1001000190457": 1,
+      "gas:candidate-vibid:1001000195172": 2,
+      "gas:candidate-vibid:1001000226014": 70,
+      "gas:candidate-vibid:377301370786": 2,
+      "gas:candidate-vibid:1001000136157": 4,
+      "gas:candidate-vibid:1001000121942": 18,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370531&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 360,
-      "Лексаков Владимир Павлович": 30,
-      "Лутковский Александр Сергеевич": 30,
-      "Медведев Павел Алексеевич": 446,
-      "Орехов Андрей Васильевич": 34,
-      "Пономарев Юрий Анатольевич": 97,
-      "Черковец Олег Викторович": 62,
-      "Против всех": 568
+      "gas:candidate-vibid:1001000250033": 360,
+      "gas:candidate-vibid:1001000190457": 30,
+      "gas:candidate-vibid:1001000195172": 30,
+      "gas:candidate-vibid:1001000226014": 446,
+      "gas:candidate-vibid:377301370786": 34,
+      "gas:candidate-vibid:1001000136157": 97,
+      "gas:candidate-vibid:1001000121942": 62,
+      "special:against-all": 568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 315,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 714,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 130,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000250033": 315,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 714,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 130,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 349,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 741,
-      "Орехов Андрей Васильевич": 53,
-      "Пономарев Юрий Анатольевич": 44,
-      "Черковец Олег Викторович": 112,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000250033": 349,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 741,
+      "gas:candidate-vibid:377301370786": 53,
+      "gas:candidate-vibid:1001000136157": 44,
+      "gas:candidate-vibid:1001000121942": 112,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 284,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 643,
-      "Орехов Андрей Васильевич": 32,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 112,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000250033": 284,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 643,
+      "gas:candidate-vibid:377301370786": 32,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 112,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 273,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 672,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 98,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000250033": 273,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 672,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 98,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 254,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 626,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 60,
-      "Черковец Олег Викторович": 157,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000250033": 254,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 626,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 60,
+      "gas:candidate-vibid:1001000121942": 157,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 342,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 777,
-      "Орехов Андрей Васильевич": 44,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 143,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000250033": 342,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 777,
+      "gas:candidate-vibid:377301370786": 44,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 143,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 258,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 522,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 70,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000250033": 258,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 522,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 70,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 324,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 548,
-      "Орехов Андрей Васильевич": 51,
-      "Пономарев Юрий Анатольевич": 37,
-      "Черковец Олег Викторович": 111,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000250033": 324,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 548,
+      "gas:candidate-vibid:377301370786": 51,
+      "gas:candidate-vibid:1001000136157": 37,
+      "gas:candidate-vibid:1001000121942": 111,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 294,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 532,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 61,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000250033": 294,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 532,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 61,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 295,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 448,
-      "Орехов Андрей Васильевич": 50,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000250033": 295,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 448,
+      "gas:candidate-vibid:377301370786": 50,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 250,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 510,
-      "Орехов Андрей Васильевич": 37,
-      "Пономарев Юрий Анатольевич": 78,
-      "Черковец Олег Викторович": 95,
-      "Против всех": 420
+      "gas:candidate-vibid:1001000250033": 250,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 510,
+      "gas:candidate-vibid:377301370786": 37,
+      "gas:candidate-vibid:1001000136157": 78,
+      "gas:candidate-vibid:1001000121942": 95,
+      "special:against-all": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 236,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 616,
-      "Орехов Андрей Васильевич": 45,
-      "Пономарев Юрий Анатольевич": 55,
-      "Черковец Олег Викторович": 177,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000250033": 236,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 616,
+      "gas:candidate-vibid:377301370786": 45,
+      "gas:candidate-vibid:1001000136157": 55,
+      "gas:candidate-vibid:1001000121942": 177,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 259,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 718,
-      "Орехов Андрей Васильевич": 51,
-      "Пономарев Юрий Анатольевич": 55,
-      "Черковец Олег Викторович": 123,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000250033": 259,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 718,
+      "gas:candidate-vibid:377301370786": 51,
+      "gas:candidate-vibid:1001000136157": 55,
+      "gas:candidate-vibid:1001000121942": 123,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 291,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 28,
-      "Медведев Павел Алексеевич": 612,
-      "Орехов Андрей Васильевич": 48,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 120,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000250033": 291,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 28,
+      "gas:candidate-vibid:1001000226014": 612,
+      "gas:candidate-vibid:377301370786": 48,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 120,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 262,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 13,
-      "Медведев Павел Алексеевич": 444,
-      "Орехов Андрей Васильевич": 28,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 77,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000250033": 262,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 13,
+      "gas:candidate-vibid:1001000226014": 444,
+      "gas:candidate-vibid:377301370786": 28,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 77,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 179,
-      "Лексаков Владимир Павлович": 12,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 463,
-      "Орехов Андрей Васильевич": 40,
-      "Пономарев Юрий Анатольевич": 46,
-      "Черковец Олег Викторович": 65,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000250033": 179,
+      "gas:candidate-vibid:1001000190457": 12,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 463,
+      "gas:candidate-vibid:377301370786": 40,
+      "gas:candidate-vibid:1001000136157": 46,
+      "gas:candidate-vibid:1001000121942": 65,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 283,
-      "Лексаков Владимир Павлович": 13,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 432,
-      "Орехов Андрей Васильевич": 33,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 89,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000250033": 283,
+      "gas:candidate-vibid:1001000190457": 13,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 432,
+      "gas:candidate-vibid:377301370786": 33,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 89,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 254,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 551,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 91,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000250033": 254,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 551,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 91,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 469,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 542,
-      "Орехов Андрей Васильевич": 48,
-      "Пономарев Юрий Анатольевич": 73,
-      "Черковец Олег Викторович": 118,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000250033": 469,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 542,
+      "gas:candidate-vibid:377301370786": 48,
+      "gas:candidate-vibid:1001000136157": 73,
+      "gas:candidate-vibid:1001000121942": 118,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 485,
-      "Лексаков Владимир Павлович": 12,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 504,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 136,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000250033": 485,
+      "gas:candidate-vibid:1001000190457": 12,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 504,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 136,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 255,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 575,
-      "Орехов Андрей Васильевич": 66,
-      "Пономарев Юрий Анатольевич": 62,
-      "Черковец Олег Викторович": 121,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000250033": 255,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 575,
+      "gas:candidate-vibid:377301370786": 66,
+      "gas:candidate-vibid:1001000136157": 62,
+      "gas:candidate-vibid:1001000121942": 121,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 272,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 644,
-      "Орехов Андрей Васильевич": 62,
-      "Пономарев Юрий Анатольевич": 81,
-      "Черковец Олег Викторович": 132,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000250033": 272,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 644,
+      "gas:candidate-vibid:377301370786": 62,
+      "gas:candidate-vibid:1001000136157": 81,
+      "gas:candidate-vibid:1001000121942": 132,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 307,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 674,
-      "Орехов Андрей Васильевич": 66,
-      "Пономарев Юрий Анатольевич": 77,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000250033": 307,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 674,
+      "gas:candidate-vibid:377301370786": 66,
+      "gas:candidate-vibid:1001000136157": 77,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 278,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 644,
-      "Орехов Андрей Васильевич": 47,
-      "Пономарев Юрий Анатольевич": 77,
-      "Черковец Олег Викторович": 178,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000250033": 278,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 644,
+      "gas:candidate-vibid:377301370786": 47,
+      "gas:candidate-vibid:1001000136157": 77,
+      "gas:candidate-vibid:1001000121942": 178,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 266,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 15,
-      "Медведев Павел Алексеевич": 580,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 93,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000250033": 266,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 15,
+      "gas:candidate-vibid:1001000226014": 580,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 93,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 352,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 628,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 151,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000250033": 352,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 628,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 151,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 329,
-      "Лексаков Владимир Павлович": 12,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 640,
-      "Орехов Андрей Васильевич": 75,
-      "Пономарев Юрий Анатольевич": 55,
-      "Черковец Олег Викторович": 137,
-      "Против всех": 413
+      "gas:candidate-vibid:1001000250033": 329,
+      "gas:candidate-vibid:1001000190457": 12,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 640,
+      "gas:candidate-vibid:377301370786": 75,
+      "gas:candidate-vibid:1001000136157": 55,
+      "gas:candidate-vibid:1001000121942": 137,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 290,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 14,
-      "Медведев Павел Алексеевич": 760,
-      "Орехов Андрей Васильевич": 61,
-      "Пономарев Юрий Анатольевич": 48,
-      "Черковец Олег Викторович": 99,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000250033": 290,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 14,
+      "gas:candidate-vibid:1001000226014": 760,
+      "gas:candidate-vibid:377301370786": 61,
+      "gas:candidate-vibid:1001000136157": 48,
+      "gas:candidate-vibid:1001000121942": 99,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 282,
-      "Лексаков Владимир Павлович": 7,
-      "Лутковский Александр Сергеевич": 31,
-      "Медведев Павел Алексеевич": 834,
-      "Орехов Андрей Васильевич": 45,
-      "Пономарев Юрий Анатольевич": 66,
-      "Черковец Олег Викторович": 101,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000250033": 282,
+      "gas:candidate-vibid:1001000190457": 7,
+      "gas:candidate-vibid:1001000195172": 31,
+      "gas:candidate-vibid:1001000226014": 834,
+      "gas:candidate-vibid:377301370786": 45,
+      "gas:candidate-vibid:1001000136157": 66,
+      "gas:candidate-vibid:1001000121942": 101,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 216,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 300,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 63,
-      "Черковец Олег Викторович": 103,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000250033": 216,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 300,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 63,
+      "gas:candidate-vibid:1001000121942": 103,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 296,
-      "Лексаков Владимир Павлович": 13,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 606,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 61,
-      "Черковец Олег Викторович": 132,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000250033": 296,
+      "gas:candidate-vibid:1001000190457": 13,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 606,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 61,
+      "gas:candidate-vibid:1001000121942": 132,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 243,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 577,
-      "Орехов Андрей Васильевич": 40,
-      "Пономарев Юрий Анатольевич": 56,
-      "Черковец Олег Викторович": 100,
-      "Против всех": 410
+      "gas:candidate-vibid:1001000250033": 243,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 577,
+      "gas:candidate-vibid:377301370786": 40,
+      "gas:candidate-vibid:1001000136157": 56,
+      "gas:candidate-vibid:1001000121942": 100,
+      "special:against-all": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 283,
-      "Лексаков Владимир Павлович": 12,
-      "Лутковский Александр Сергеевич": 31,
-      "Медведев Павел Алексеевич": 640,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 73,
-      "Черковец Олег Викторович": 85,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000250033": 283,
+      "gas:candidate-vibid:1001000190457": 12,
+      "gas:candidate-vibid:1001000195172": 31,
+      "gas:candidate-vibid:1001000226014": 640,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 73,
+      "gas:candidate-vibid:1001000121942": 85,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 279,
-      "Лексаков Владимир Павлович": 28,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 600,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 61,
-      "Черковец Олег Викторович": 162,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000250033": 279,
+      "gas:candidate-vibid:1001000190457": 28,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 600,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 61,
+      "gas:candidate-vibid:1001000121942": 162,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 324,
-      "Лексаков Владимир Павлович": 34,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 571,
-      "Орехов Андрей Васильевич": 50,
-      "Пономарев Юрий Анатольевич": 38,
-      "Черковец Олег Викторович": 118,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000250033": 324,
+      "gas:candidate-vibid:1001000190457": 34,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 571,
+      "gas:candidate-vibid:377301370786": 50,
+      "gas:candidate-vibid:1001000136157": 38,
+      "gas:candidate-vibid:1001000121942": 118,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 365,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 480,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 61,
-      "Черковец Олег Викторович": 112,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000250033": 365,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 480,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 61,
+      "gas:candidate-vibid:1001000121942": 112,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 325,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 25,
-      "Медведев Павел Алексеевич": 631,
-      "Орехов Андрей Васильевич": 48,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000250033": 325,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 25,
+      "gas:candidate-vibid:1001000226014": 631,
+      "gas:candidate-vibid:377301370786": 48,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 360,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 490,
-      "Орехов Андрей Васильевич": 65,
-      "Пономарев Юрий Анатольевич": 55,
-      "Черковец Олег Викторович": 7,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000250033": 360,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 490,
+      "gas:candidate-vibid:377301370786": 65,
+      "gas:candidate-vibid:1001000136157": 55,
+      "gas:candidate-vibid:1001000121942": 7,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 2,
-      "Лексаков Владимир Павлович": 0,
-      "Лутковский Александр Сергеевич": 0,
-      "Медведев Павел Алексеевич": 5,
-      "Орехов Андрей Васильевич": 1,
-      "Пономарев Юрий Анатольевич": 0,
-      "Черковец Олег Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250033": 2,
+      "gas:candidate-vibid:1001000190457": 0,
+      "gas:candidate-vibid:1001000195172": 0,
+      "gas:candidate-vibid:1001000226014": 5,
+      "gas:candidate-vibid:377301370786": 1,
+      "gas:candidate-vibid:1001000136157": 0,
+      "gas:candidate-vibid:1001000121942": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370532&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 209,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 577,
-      "Орехов Андрей Васильевич": 54,
-      "Пономарев Юрий Анатольевич": 65,
-      "Черковец Олег Викторович": 109,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000250033": 209,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 577,
+      "gas:candidate-vibid:377301370786": 54,
+      "gas:candidate-vibid:1001000136157": 65,
+      "gas:candidate-vibid:1001000121942": 109,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 189,
-      "Лексаков Владимир Павлович": 27,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 513,
-      "Орехов Андрей Васильевич": 30,
-      "Пономарев Юрий Анатольевич": 77,
-      "Черковец Олег Викторович": 121,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000250033": 189,
+      "gas:candidate-vibid:1001000190457": 27,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 513,
+      "gas:candidate-vibid:377301370786": 30,
+      "gas:candidate-vibid:1001000136157": 77,
+      "gas:candidate-vibid:1001000121942": 121,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 157,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 517,
-      "Орехов Андрей Васильевич": 37,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 86,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000250033": 157,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 517,
+      "gas:candidate-vibid:377301370786": 37,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 86,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 147,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 29,
-      "Медведев Павел Алексеевич": 480,
-      "Орехов Андрей Васильевич": 56,
-      "Пономарев Юрий Анатольевич": 62,
-      "Черковец Олег Викторович": 100,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000250033": 147,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 29,
+      "gas:candidate-vibid:1001000226014": 480,
+      "gas:candidate-vibid:377301370786": 56,
+      "gas:candidate-vibid:1001000136157": 62,
+      "gas:candidate-vibid:1001000121942": 100,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 137,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 588,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 88,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000250033": 137,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 588,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 88,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 125,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 27,
-      "Медведев Павел Алексеевич": 811,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 79,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000250033": 125,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 27,
+      "gas:candidate-vibid:1001000226014": 811,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 79,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 179,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 633,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 110,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000250033": 179,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 633,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 110,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 217,
-      "Лексаков Владимир Павлович": 32,
-      "Лутковский Александр Сергеевич": 33,
-      "Медведев Павел Алексеевич": 597,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 61,
-      "Черковец Олег Викторович": 134,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000250033": 217,
+      "gas:candidate-vibid:1001000190457": 32,
+      "gas:candidate-vibid:1001000195172": 33,
+      "gas:candidate-vibid:1001000226014": 597,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 61,
+      "gas:candidate-vibid:1001000121942": 134,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 192,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 29,
-      "Медведев Павел Алексеевич": 583,
-      "Орехов Андрей Васильевич": 44,
-      "Пономарев Юрий Анатольевич": 64,
-      "Черковец Олег Викторович": 103,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000250033": 192,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 29,
+      "gas:candidate-vibid:1001000226014": 583,
+      "gas:candidate-vibid:377301370786": 44,
+      "gas:candidate-vibid:1001000136157": 64,
+      "gas:candidate-vibid:1001000121942": 103,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 210,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 607,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 60,
-      "Черковец Олег Викторович": 129,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000250033": 210,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 607,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 60,
+      "gas:candidate-vibid:1001000121942": 129,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 242,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 506,
-      "Орехов Андрей Васильевич": 67,
-      "Пономарев Юрий Анатольевич": 48,
-      "Черковец Олег Викторович": 149,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000250033": 242,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 506,
+      "gas:candidate-vibid:377301370786": 67,
+      "gas:candidate-vibid:1001000136157": 48,
+      "gas:candidate-vibid:1001000121942": 149,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 258,
-      "Лексаков Владимир Павлович": 33,
-      "Лутковский Александр Сергеевич": 37,
-      "Медведев Павел Алексеевич": 523,
-      "Орехов Андрей Васильевич": 45,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 129,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000250033": 258,
+      "gas:candidate-vibid:1001000190457": 33,
+      "gas:candidate-vibid:1001000195172": 37,
+      "gas:candidate-vibid:1001000226014": 523,
+      "gas:candidate-vibid:377301370786": 45,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 129,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 255,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 29,
-      "Медведев Павел Алексеевич": 663,
-      "Орехов Андрей Васильевич": 74,
-      "Пономарев Юрий Анатольевич": 67,
-      "Черковец Олег Викторович": 121,
-      "Против всех": 407
+      "gas:candidate-vibid:1001000250033": 255,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 29,
+      "gas:candidate-vibid:1001000226014": 663,
+      "gas:candidate-vibid:377301370786": 74,
+      "gas:candidate-vibid:1001000136157": 67,
+      "gas:candidate-vibid:1001000121942": 121,
+      "special:against-all": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 193,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 28,
-      "Медведев Павел Алексеевич": 421,
-      "Орехов Андрей Васильевич": 50,
-      "Пономарев Юрий Анатольевич": 70,
-      "Черковец Олег Викторович": 81,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000250033": 193,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 28,
+      "gas:candidate-vibid:1001000226014": 421,
+      "gas:candidate-vibid:377301370786": 50,
+      "gas:candidate-vibid:1001000136157": 70,
+      "gas:candidate-vibid:1001000121942": 81,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 132,
-      "Лексаков Владимир Павлович": 31,
-      "Лутковский Александр Сергеевич": 38,
-      "Медведев Павел Алексеевич": 491,
-      "Орехов Андрей Васильевич": 60,
-      "Пономарев Юрий Анатольевич": 81,
-      "Черковец Олег Викторович": 102,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000250033": 132,
+      "gas:candidate-vibid:1001000190457": 31,
+      "gas:candidate-vibid:1001000195172": 38,
+      "gas:candidate-vibid:1001000226014": 491,
+      "gas:candidate-vibid:377301370786": 60,
+      "gas:candidate-vibid:1001000136157": 81,
+      "gas:candidate-vibid:1001000121942": 102,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 140,
-      "Лексаков Владимир Павлович": 28,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 493,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 64,
-      "Черковец Олег Викторович": 106,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000250033": 140,
+      "gas:candidate-vibid:1001000190457": 28,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 493,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 64,
+      "gas:candidate-vibid:1001000121942": 106,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 116,
-      "Лексаков Владимир Павлович": 34,
-      "Лутковский Александр Сергеевич": 36,
-      "Медведев Павел Алексеевич": 523,
-      "Орехов Андрей Васильевич": 58,
-      "Пономарев Юрий Анатольевич": 69,
-      "Черковец Олег Викторович": 105,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000250033": 116,
+      "gas:candidate-vibid:1001000190457": 34,
+      "gas:candidate-vibid:1001000195172": 36,
+      "gas:candidate-vibid:1001000226014": 523,
+      "gas:candidate-vibid:377301370786": 58,
+      "gas:candidate-vibid:1001000136157": 69,
+      "gas:candidate-vibid:1001000121942": 105,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 189,
-      "Лексаков Владимир Павлович": 38,
-      "Лутковский Александр Сергеевич": 30,
-      "Медведев Павел Алексеевич": 420,
-      "Орехов Андрей Васильевич": 60,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 138,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000250033": 189,
+      "gas:candidate-vibid:1001000190457": 38,
+      "gas:candidate-vibid:1001000195172": 30,
+      "gas:candidate-vibid:1001000226014": 420,
+      "gas:candidate-vibid:377301370786": 60,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 138,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 168,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 472,
-      "Орехов Андрей Васильевич": 64,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 177,
-      "Против всех": 377
+      "gas:candidate-vibid:1001000250033": 168,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 472,
+      "gas:candidate-vibid:377301370786": 64,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 177,
+      "special:against-all": 377
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 238,
-      "Лексаков Владимир Павлович": 34,
-      "Лутковский Александр Сергеевич": 47,
-      "Медведев Павел Алексеевич": 592,
-      "Орехов Андрей Васильевич": 61,
-      "Пономарев Юрий Анатольевич": 69,
-      "Черковец Олег Викторович": 144,
-      "Против всех": 412
+      "gas:candidate-vibid:1001000250033": 238,
+      "gas:candidate-vibid:1001000190457": 34,
+      "gas:candidate-vibid:1001000195172": 47,
+      "gas:candidate-vibid:1001000226014": 592,
+      "gas:candidate-vibid:377301370786": 61,
+      "gas:candidate-vibid:1001000136157": 69,
+      "gas:candidate-vibid:1001000121942": 144,
+      "special:against-all": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 154,
-      "Лексаков Владимир Павлович": 27,
-      "Лутковский Александр Сергеевич": 34,
-      "Медведев Павел Алексеевич": 505,
-      "Орехов Андрей Васильевич": 57,
-      "Пономарев Юрий Анатольевич": 75,
-      "Черковец Олег Викторович": 108,
-      "Против всех": 403
+      "gas:candidate-vibid:1001000250033": 154,
+      "gas:candidate-vibid:1001000190457": 27,
+      "gas:candidate-vibid:1001000195172": 34,
+      "gas:candidate-vibid:1001000226014": 505,
+      "gas:candidate-vibid:377301370786": 57,
+      "gas:candidate-vibid:1001000136157": 75,
+      "gas:candidate-vibid:1001000121942": 108,
+      "special:against-all": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 116,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 475,
-      "Орехов Андрей Васильевич": 38,
-      "Пономарев Юрий Анатольевич": 60,
-      "Черковец Олег Викторович": 64,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000250033": 116,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 475,
+      "gas:candidate-vibid:377301370786": 38,
+      "gas:candidate-vibid:1001000136157": 60,
+      "gas:candidate-vibid:1001000121942": 64,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 76,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 566,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 65,
-      "Черковец Олег Викторович": 73,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000250033": 76,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 566,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 65,
+      "gas:candidate-vibid:1001000121942": 73,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 131,
-      "Лексаков Владимир Павлович": 24,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 568,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 104,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000250033": 131,
+      "gas:candidate-vibid:1001000190457": 24,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 568,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 104,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 90,
-      "Лексаков Владимир Павлович": 16,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 498,
-      "Орехов Андрей Васильевич": 23,
-      "Пономарев Юрий Анатольевич": 46,
-      "Черковец Олег Викторович": 83,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000250033": 90,
+      "gas:candidate-vibid:1001000190457": 16,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 498,
+      "gas:candidate-vibid:377301370786": 23,
+      "gas:candidate-vibid:1001000136157": 46,
+      "gas:candidate-vibid:1001000121942": 83,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 111,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 21,
-      "Медведев Павел Алексеевич": 438,
-      "Орехов Андрей Васильевич": 37,
-      "Пономарев Юрий Анатольевич": 38,
-      "Черковец Олег Викторович": 61,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000250033": 111,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 21,
+      "gas:candidate-vibid:1001000226014": 438,
+      "gas:candidate-vibid:377301370786": 37,
+      "gas:candidate-vibid:1001000136157": 38,
+      "gas:candidate-vibid:1001000121942": 61,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 218,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 29,
-      "Медведев Павел Алексеевич": 489,
-      "Орехов Андрей Васильевич": 70,
-      "Пономарев Юрий Анатольевич": 85,
-      "Черковец Олег Викторович": 168,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000250033": 218,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 29,
+      "gas:candidate-vibid:1001000226014": 489,
+      "gas:candidate-vibid:377301370786": 70,
+      "gas:candidate-vibid:1001000136157": 85,
+      "gas:candidate-vibid:1001000121942": 168,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 147,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 24,
-      "Медведев Павел Алексеевич": 399,
-      "Орехов Андрей Васильевич": 32,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 72,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000250033": 147,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 24,
+      "gas:candidate-vibid:1001000226014": 399,
+      "gas:candidate-vibid:377301370786": 32,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 72,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 164,
-      "Лексаков Владимир Павлович": 27,
-      "Лутковский Александр Сергеевич": 33,
-      "Медведев Павел Алексеевич": 596,
-      "Орехов Андрей Васильевич": 91,
-      "Пономарев Юрий Анатольевич": 72,
-      "Черковец Олег Викторович": 144,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000250033": 164,
+      "gas:candidate-vibid:1001000190457": 27,
+      "gas:candidate-vibid:1001000195172": 33,
+      "gas:candidate-vibid:1001000226014": 596,
+      "gas:candidate-vibid:377301370786": 91,
+      "gas:candidate-vibid:1001000136157": 72,
+      "gas:candidate-vibid:1001000121942": 144,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 142,
-      "Лексаков Владимир Павлович": 24,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 480,
-      "Орехов Андрей Васильевич": 46,
-      "Пономарев Юрий Анатольевич": 70,
-      "Черковец Олег Викторович": 101,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000250033": 142,
+      "gas:candidate-vibid:1001000190457": 24,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 480,
+      "gas:candidate-vibid:377301370786": 46,
+      "gas:candidate-vibid:1001000136157": 70,
+      "gas:candidate-vibid:1001000121942": 101,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 10,
-      "Лексаков Владимир Павлович": 3,
-      "Лутковский Александр Сергеевич": 3,
-      "Медведев Павел Алексеевич": 19,
-      "Орехов Андрей Васильевич": 3,
-      "Пономарев Юрий Анатольевич": 9,
-      "Черковец Олег Викторович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000250033": 10,
+      "gas:candidate-vibid:1001000190457": 3,
+      "gas:candidate-vibid:1001000195172": 3,
+      "gas:candidate-vibid:1001000226014": 19,
+      "gas:candidate-vibid:377301370786": 3,
+      "gas:candidate-vibid:1001000136157": 9,
+      "gas:candidate-vibid:1001000121942": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 5,
-      "Лексаков Владимир Павлович": 0,
-      "Лутковский Александр Сергеевич": 0,
-      "Медведев Павел Алексеевич": 4,
-      "Орехов Андрей Васильевич": 0,
-      "Пономарев Юрий Анатольевич": 2,
-      "Черковец Олег Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250033": 5,
+      "gas:candidate-vibid:1001000190457": 0,
+      "gas:candidate-vibid:1001000195172": 0,
+      "gas:candidate-vibid:1001000226014": 4,
+      "gas:candidate-vibid:377301370786": 0,
+      "gas:candidate-vibid:1001000136157": 2,
+      "gas:candidate-vibid:1001000121942": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370533&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 96,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 378,
-      "Орехов Андрей Васильевич": 35,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 45,
-      "Против всех": 406
+      "gas:candidate-vibid:1001000250033": 96,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 378,
+      "gas:candidate-vibid:377301370786": 35,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 45,
+      "special:against-all": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 213,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 23,
-      "Медведев Павел Алексеевич": 513,
-      "Орехов Андрей Васильевич": 62,
-      "Пономарев Юрий Анатольевич": 67,
-      "Черковец Олег Викторович": 113,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000250033": 213,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 23,
+      "gas:candidate-vibid:1001000226014": 513,
+      "gas:candidate-vibid:377301370786": 62,
+      "gas:candidate-vibid:1001000136157": 67,
+      "gas:candidate-vibid:1001000121942": 113,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 162,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 764,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 57,
-      "Черковец Олег Викторович": 128,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000250033": 162,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 764,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 57,
+      "gas:candidate-vibid:1001000121942": 128,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 137,
-      "Лексаков Владимир Павлович": 28,
-      "Лутковский Александр Сергеевич": 28,
-      "Медведев Павел Алексеевич": 577,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 68,
-      "Черковец Олег Викторович": 178,
-      "Против всех": 442
+      "gas:candidate-vibid:1001000250033": 137,
+      "gas:candidate-vibid:1001000190457": 28,
+      "gas:candidate-vibid:1001000195172": 28,
+      "gas:candidate-vibid:1001000226014": 577,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 68,
+      "gas:candidate-vibid:1001000121942": 178,
+      "special:against-all": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 186,
-      "Лексаков Владимир Павлович": 21,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 722,
-      "Орехов Андрей Васильевич": 63,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 113,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000250033": 186,
+      "gas:candidate-vibid:1001000190457": 21,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 722,
+      "gas:candidate-vibid:377301370786": 63,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 113,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 172,
-      "Лексаков Владимир Павлович": 22,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 722,
-      "Орехов Андрей Васильевич": 52,
-      "Пономарев Юрий Анатольевич": 43,
-      "Черковец Олег Викторович": 93,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000250033": 172,
+      "gas:candidate-vibid:1001000190457": 22,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 722,
+      "gas:candidate-vibid:377301370786": 52,
+      "gas:candidate-vibid:1001000136157": 43,
+      "gas:candidate-vibid:1001000121942": 93,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 132,
-      "Лексаков Владимир Павлович": 30,
-      "Лутковский Александр Сергеевич": 38,
-      "Медведев Павел Алексеевич": 851,
-      "Орехов Андрей Васильевич": 66,
-      "Пономарев Юрий Анатольевич": 54,
-      "Черковец Олег Викторович": 106,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000250033": 132,
+      "gas:candidate-vibid:1001000190457": 30,
+      "gas:candidate-vibid:1001000195172": 38,
+      "gas:candidate-vibid:1001000226014": 851,
+      "gas:candidate-vibid:377301370786": 66,
+      "gas:candidate-vibid:1001000136157": 54,
+      "gas:candidate-vibid:1001000121942": 106,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 113,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 19,
-      "Медведев Павел Алексеевич": 542,
-      "Орехов Андрей Васильевич": 33,
-      "Пономарев Юрий Анатольевич": 51,
-      "Черковец Олег Викторович": 71,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000250033": 113,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 19,
+      "gas:candidate-vibid:1001000226014": 542,
+      "gas:candidate-vibid:377301370786": 33,
+      "gas:candidate-vibid:1001000136157": 51,
+      "gas:candidate-vibid:1001000121942": 71,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 87,
-      "Лексаков Владимир Павлович": 17,
-      "Лутковский Александр Сергеевич": 12,
-      "Медведев Павел Алексеевич": 598,
-      "Орехов Андрей Васильевич": 47,
-      "Пономарев Юрий Анатольевич": 34,
-      "Черковец Олег Викторович": 65,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000250033": 87,
+      "gas:candidate-vibid:1001000190457": 17,
+      "gas:candidate-vibid:1001000195172": 12,
+      "gas:candidate-vibid:1001000226014": 598,
+      "gas:candidate-vibid:377301370786": 47,
+      "gas:candidate-vibid:1001000136157": 34,
+      "gas:candidate-vibid:1001000121942": 65,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 195,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 732,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 102,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000250033": 195,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 732,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 102,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 148,
-      "Лексаков Владимир Павлович": 23,
-      "Лутковский Александр Сергеевич": 22,
-      "Медведев Павел Алексеевич": 771,
-      "Орехов Андрей Васильевич": 79,
-      "Пономарев Юрий Анатольевич": 63,
-      "Черковец Олег Викторович": 128,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000250033": 148,
+      "gas:candidate-vibid:1001000190457": 23,
+      "gas:candidate-vibid:1001000195172": 22,
+      "gas:candidate-vibid:1001000226014": 771,
+      "gas:candidate-vibid:377301370786": 79,
+      "gas:candidate-vibid:1001000136157": 63,
+      "gas:candidate-vibid:1001000121942": 128,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 123,
-      "Лексаков Владимир Павлович": 19,
-      "Лутковский Александр Сергеевич": 18,
-      "Медведев Павел Алексеевич": 397,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 53,
-      "Черковец Олег Викторович": 66,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000250033": 123,
+      "gas:candidate-vibid:1001000190457": 19,
+      "gas:candidate-vibid:1001000195172": 18,
+      "gas:candidate-vibid:1001000226014": 397,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 53,
+      "gas:candidate-vibid:1001000121942": 66,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 235,
-      "Лексаков Владимир Павлович": 36,
-      "Лутковский Александр Сергеевич": 32,
-      "Медведев Павел Алексеевич": 546,
-      "Орехов Андрей Васильевич": 94,
-      "Пономарев Юрий Анатольевич": 91,
-      "Черковец Олег Викторович": 240,
-      "Против всех": 404
+      "gas:candidate-vibid:1001000250033": 235,
+      "gas:candidate-vibid:1001000190457": 36,
+      "gas:candidate-vibid:1001000195172": 32,
+      "gas:candidate-vibid:1001000226014": 546,
+      "gas:candidate-vibid:377301370786": 94,
+      "gas:candidate-vibid:1001000136157": 91,
+      "gas:candidate-vibid:1001000121942": 240,
+      "special:against-all": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 209,
-      "Лексаков Владимир Павлович": 28,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 609,
-      "Орехов Андрей Васильевич": 55,
-      "Пономарев Юрий Анатольевич": 74,
-      "Черковец Олег Викторович": 198,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000250033": 209,
+      "gas:candidate-vibid:1001000190457": 28,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 609,
+      "gas:candidate-vibid:377301370786": 55,
+      "gas:candidate-vibid:1001000136157": 74,
+      "gas:candidate-vibid:1001000121942": 198,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 255,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 32,
-      "Медведев Павел Алексеевич": 586,
-      "Орехов Андрей Васильевич": 94,
-      "Пономарев Юрий Анатольевич": 83,
-      "Черковец Олег Викторович": 114,
-      "Против всех": 421
+      "gas:candidate-vibid:1001000250033": 255,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 32,
+      "gas:candidate-vibid:1001000226014": 586,
+      "gas:candidate-vibid:377301370786": 94,
+      "gas:candidate-vibid:1001000136157": 83,
+      "gas:candidate-vibid:1001000121942": 114,
+      "special:against-all": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 97,
-      "Лексаков Владимир Павлович": 29,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 771,
-      "Орехов Андрей Васильевич": 31,
-      "Пономарев Юрий Анатольевич": 52,
-      "Черковец Олег Викторович": 102,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000250033": 97,
+      "gas:candidate-vibid:1001000190457": 29,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 771,
+      "gas:candidate-vibid:377301370786": 31,
+      "gas:candidate-vibid:1001000136157": 52,
+      "gas:candidate-vibid:1001000121942": 102,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 75,
-      "Лексаков Владимир Павлович": 18,
-      "Лутковский Александр Сергеевич": 16,
-      "Медведев Павел Алексеевич": 458,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 49,
-      "Черковец Олег Викторович": 85,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000250033": 75,
+      "gas:candidate-vibid:1001000190457": 18,
+      "gas:candidate-vibid:1001000195172": 16,
+      "gas:candidate-vibid:1001000226014": 458,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 49,
+      "gas:candidate-vibid:1001000121942": 85,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 130,
-      "Лексаков Владимир Павлович": 14,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 578,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 58,
-      "Черковец Олег Викторович": 114,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000250033": 130,
+      "gas:candidate-vibid:1001000190457": 14,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 578,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 58,
+      "gas:candidate-vibid:1001000121942": 114,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 97,
-      "Лексаков Владимир Павлович": 15,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 678,
-      "Орехов Андрей Васильевич": 64,
-      "Пономарев Юрий Анатольевич": 40,
-      "Черковец Олег Викторович": 99,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000250033": 97,
+      "gas:candidate-vibid:1001000190457": 15,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 678,
+      "gas:candidate-vibid:377301370786": 64,
+      "gas:candidate-vibid:1001000136157": 40,
+      "gas:candidate-vibid:1001000121942": 99,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 87,
-      "Лексаков Владимир Павлович": 20,
-      "Лутковский Александр Сергеевич": 17,
-      "Медведев Павел Алексеевич": 584,
-      "Орехов Андрей Васильевич": 48,
-      "Пономарев Юрий Анатольевич": 76,
-      "Черковец Олег Викторович": 94,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000250033": 87,
+      "gas:candidate-vibid:1001000190457": 20,
+      "gas:candidate-vibid:1001000195172": 17,
+      "gas:candidate-vibid:1001000226014": 584,
+      "gas:candidate-vibid:377301370786": 48,
+      "gas:candidate-vibid:1001000136157": 76,
+      "gas:candidate-vibid:1001000121942": 94,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 106,
-      "Лексаков Владимир Павлович": 11,
-      "Лутковский Александр Сергеевич": 11,
-      "Медведев Павел Алексеевич": 500,
-      "Орехов Андрей Васильевич": 72,
-      "Пономарев Юрий Анатольевич": 50,
-      "Черковец Олег Викторович": 86,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000250033": 106,
+      "gas:candidate-vibid:1001000190457": 11,
+      "gas:candidate-vibid:1001000195172": 11,
+      "gas:candidate-vibid:1001000226014": 500,
+      "gas:candidate-vibid:377301370786": 72,
+      "gas:candidate-vibid:1001000136157": 50,
+      "gas:candidate-vibid:1001000121942": 86,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 151,
-      "Лексаков Владимир Павлович": 26,
-      "Лутковский Александр Сергеевич": 40,
-      "Медведев Павел Алексеевич": 598,
-      "Орехов Андрей Васильевич": 80,
-      "Пономарев Юрий Анатольевич": 49,
-      "Черковец Олег Викторович": 158,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000250033": 151,
+      "gas:candidate-vibid:1001000190457": 26,
+      "gas:candidate-vibid:1001000195172": 40,
+      "gas:candidate-vibid:1001000226014": 598,
+      "gas:candidate-vibid:377301370786": 80,
+      "gas:candidate-vibid:1001000136157": 49,
+      "gas:candidate-vibid:1001000121942": 158,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 177,
-      "Лексаков Владимир Павлович": 25,
-      "Лутковский Александр Сергеевич": 40,
-      "Медведев Павел Алексеевич": 616,
-      "Орехов Андрей Васильевич": 57,
-      "Пономарев Юрий Анатольевич": 59,
-      "Черковец Олег Викторович": 198,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000250033": 177,
+      "gas:candidate-vibid:1001000190457": 25,
+      "gas:candidate-vibid:1001000195172": 40,
+      "gas:candidate-vibid:1001000226014": 616,
+      "gas:candidate-vibid:377301370786": 57,
+      "gas:candidate-vibid:1001000136157": 59,
+      "gas:candidate-vibid:1001000121942": 198,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 92,
-      "Лексаков Владимир Павлович": 9,
-      "Лутковский Александр Сергеевич": 20,
-      "Медведев Павел Алексеевич": 578,
-      "Орехов Андрей Васильевич": 49,
-      "Пономарев Юрий Анатольевич": 36,
-      "Черковец Олег Викторович": 97,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000250033": 92,
+      "gas:candidate-vibid:1001000190457": 9,
+      "gas:candidate-vibid:1001000195172": 20,
+      "gas:candidate-vibid:1001000226014": 578,
+      "gas:candidate-vibid:377301370786": 49,
+      "gas:candidate-vibid:1001000136157": 36,
+      "gas:candidate-vibid:1001000121942": 97,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 128,
-      "Лексаков Владимир Павлович": 9,
-      "Лутковский Александр Сергеевич": 26,
-      "Медведев Павел Алексеевич": 539,
-      "Орехов Андрей Васильевич": 42,
-      "Пономарев Юрий Анатольевич": 42,
-      "Черковец Олег Викторович": 62,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000250033": 128,
+      "gas:candidate-vibid:1001000190457": 9,
+      "gas:candidate-vibid:1001000195172": 26,
+      "gas:candidate-vibid:1001000226014": 539,
+      "gas:candidate-vibid:377301370786": 42,
+      "gas:candidate-vibid:1001000136157": 42,
+      "gas:candidate-vibid:1001000121942": 62,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 72,
-      "Лексаков Владимир Павлович": 9,
-      "Лутковский Александр Сергеевич": 10,
-      "Медведев Павел Алексеевич": 639,
-      "Орехов Андрей Васильевич": 43,
-      "Пономарев Юрий Анатольевич": 39,
-      "Черковец Олег Викторович": 93,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000250033": 72,
+      "gas:candidate-vibid:1001000190457": 9,
+      "gas:candidate-vibid:1001000195172": 10,
+      "gas:candidate-vibid:1001000226014": 639,
+      "gas:candidate-vibid:377301370786": 43,
+      "gas:candidate-vibid:1001000136157": 39,
+      "gas:candidate-vibid:1001000121942": 93,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 35,
-      "Лексаков Владимир Павлович": 6,
-      "Лутковский Александр Сергеевич": 3,
-      "Медведев Павел Алексеевич": 94,
-      "Орехов Андрей Васильевич": 8,
-      "Пономарев Юрий Анатольевич": 6,
-      "Черковец Олег Викторович": 7,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000250033": 35,
+      "gas:candidate-vibid:1001000190457": 6,
+      "gas:candidate-vibid:1001000195172": 3,
+      "gas:candidate-vibid:1001000226014": 94,
+      "gas:candidate-vibid:377301370786": 8,
+      "gas:candidate-vibid:1001000136157": 6,
+      "gas:candidate-vibid:1001000121942": 7,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ковалев Вячеслав Валерьевич": 0,
-      "Лексаков Владимир Павлович": 0,
-      "Лутковский Александр Сергеевич": 0,
-      "Медведев Павел Алексеевич": 1,
-      "Орехов Андрей Васильевич": 0,
-      "Пономарев Юрий Анатольевич": 0,
-      "Черковец Олег Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250033": 0,
+      "gas:candidate-vibid:1001000190457": 0,
+      "gas:candidate-vibid:1001000195172": 0,
+      "gas:candidate-vibid:1001000226014": 1,
+      "gas:candidate-vibid:377301370786": 0,
+      "gas:candidate-vibid:1001000136157": 0,
+      "gas:candidate-vibid:1001000121942": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773013006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301370534&region=0&sub_region=0&type=429",
@@ -10872,17 +10872,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 652,
-      "Кара-Мурза Владимир Владимирович": 70,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 86,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000226015": 652,
+      "gas:candidate-vibid:1001000113999": 70,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 86,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -10932,17 +10932,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 757,
-      "Кара-Мурза Владимир Владимирович": 105,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 99,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 12,
-      "Швец Евгений Сильвестрович": 24,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000226015": 757,
+      "gas:candidate-vibid:1001000113999": 105,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 99,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 12,
+      "gas:candidate-vibid:377301470741": 24,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -10992,17 +10992,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 657,
-      "Кара-Мурза Владимир Владимирович": 130,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 97,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 21,
-      "Швец Евгений Сильвестрович": 7,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000226015": 657,
+      "gas:candidate-vibid:1001000113999": 130,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 97,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 21,
+      "gas:candidate-vibid:377301470741": 7,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11052,17 +11052,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 343,
-      "Кара-Мурза Владимир Владимирович": 72,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 46,
-      "Соколов Николай Николаевич": 13,
-      "Тимофеев Юрий Константинович": 10,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 29,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000226015": 343,
+      "gas:candidate-vibid:1001000113999": 72,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 46,
+      "gas:candidate-vibid:1001000136158": 13,
+      "gas:candidate-vibid:1001000190458": 10,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 29,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11112,17 +11112,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 556,
-      "Кара-Мурза Владимир Владимирович": 131,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 87,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 4,
-      "Яковлева Елена Юрьевна": 50,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000226015": 556,
+      "gas:candidate-vibid:1001000113999": 131,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 87,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 4,
+      "gas:candidate-vibid:377301470421": 50,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11172,17 +11172,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 615,
-      "Кара-Мурза Владимир Владимирович": 179,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 124,
-      "Соколов Николай Николаевич": 54,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 73,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000226015": 615,
+      "gas:candidate-vibid:1001000113999": 179,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 124,
+      "gas:candidate-vibid:1001000136158": 54,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 73,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11232,17 +11232,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 584,
-      "Кара-Мурза Владимир Владимирович": 130,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 137,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 36,
-      "Швец Евгений Сильвестрович": 12,
-      "Яковлева Елена Юрьевна": 55,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000226015": 584,
+      "gas:candidate-vibid:1001000113999": 130,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 137,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 36,
+      "gas:candidate-vibid:377301470741": 12,
+      "gas:candidate-vibid:377301470421": 55,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11292,17 +11292,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 602,
-      "Кара-Мурза Владимир Владимирович": 135,
-      "Красиков Максим Валентинович": 22,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 97,
-      "Соколов Николай Николаевич": 34,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 36,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000226015": 602,
+      "gas:candidate-vibid:1001000113999": 135,
+      "gas:candidate-vibid:377301470430": 22,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 97,
+      "gas:candidate-vibid:1001000136158": 34,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 36,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11352,17 +11352,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 638,
-      "Кара-Мурза Владимир Владимирович": 107,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 87,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 18,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000226015": 638,
+      "gas:candidate-vibid:1001000113999": 107,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 87,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 18,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11412,17 +11412,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 621,
-      "Кара-Мурза Владимир Владимирович": 197,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 79,
-      "Соколов Николай Николаевич": 42,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 3,
-      "Яковлева Елена Юрьевна": 66,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000226015": 621,
+      "gas:candidate-vibid:1001000113999": 197,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 79,
+      "gas:candidate-vibid:1001000136158": 42,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 3,
+      "gas:candidate-vibid:377301470421": 66,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11472,17 +11472,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 670,
-      "Кара-Мурза Владимир Владимирович": 155,
-      "Красиков Максим Валентинович": 28,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 31,
-      "Серегин Сергей Иванович": 112,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 38,
-      "Швец Евгений Сильвестрович": 16,
-      "Яковлева Елена Юрьевна": 56,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000226015": 670,
+      "gas:candidate-vibid:1001000113999": 155,
+      "gas:candidate-vibid:377301470430": 28,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 31,
+      "gas:candidate-vibid:1001000121943": 112,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 38,
+      "gas:candidate-vibid:377301470741": 16,
+      "gas:candidate-vibid:377301470421": 56,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11532,17 +11532,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 389,
-      "Кара-Мурза Владимир Владимирович": 159,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 83,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 27,
-      "Швец Евгений Сильвестрович": 7,
-      "Яковлева Елена Юрьевна": 33,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000226015": 389,
+      "gas:candidate-vibid:1001000113999": 159,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 83,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 27,
+      "gas:candidate-vibid:377301470741": 7,
+      "gas:candidate-vibid:377301470421": 33,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11592,17 +11592,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 561,
-      "Кара-Мурза Владимир Владимирович": 160,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 35,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 45,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 8,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000226015": 561,
+      "gas:candidate-vibid:1001000113999": 160,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 35,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 45,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 8,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11652,17 +11652,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 607,
-      "Кара-Мурза Владимир Владимирович": 136,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 95,
-      "Соколов Николай Николаевич": 34,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 54,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000226015": 607,
+      "gas:candidate-vibid:1001000113999": 136,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 95,
+      "gas:candidate-vibid:1001000136158": 34,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 54,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11712,17 +11712,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 662,
-      "Кара-Мурза Владимир Владимирович": 176,
-      "Красиков Максим Валентинович": 23,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 29,
-      "Серегин Сергей Иванович": 133,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 35,
-      "Швец Евгений Сильвестрович": 17,
-      "Яковлева Елена Юрьевна": 63,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000226015": 662,
+      "gas:candidate-vibid:1001000113999": 176,
+      "gas:candidate-vibid:377301470430": 23,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 29,
+      "gas:candidate-vibid:1001000121943": 133,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 35,
+      "gas:candidate-vibid:377301470741": 17,
+      "gas:candidate-vibid:377301470421": 63,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11772,17 +11772,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 609,
-      "Кара-Мурза Владимир Владимирович": 145,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 40,
-      "Серегин Сергей Иванович": 95,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 62,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000226015": 609,
+      "gas:candidate-vibid:1001000113999": 145,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 40,
+      "gas:candidate-vibid:1001000121943": 95,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 62,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11832,17 +11832,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 577,
-      "Кара-Мурза Владимир Владимирович": 188,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 91,
-      "Соколов Николай Николаевич": 38,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000226015": 577,
+      "gas:candidate-vibid:1001000113999": 188,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 91,
+      "gas:candidate-vibid:1001000136158": 38,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11892,17 +11892,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 605,
-      "Кара-Мурза Владимир Владимирович": 96,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 123,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 29,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000226015": 605,
+      "gas:candidate-vibid:1001000113999": 96,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 123,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 29,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -11952,17 +11952,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 779,
-      "Кара-Мурза Владимир Владимирович": 123,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 36,
-      "Серегин Сергей Иванович": 114,
-      "Соколов Николай Николаевич": 53,
-      "Тимофеев Юрий Константинович": 8,
-      "Швец Евгений Сильвестрович": 12,
-      "Яковлева Елена Юрьевна": 50,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000226015": 779,
+      "gas:candidate-vibid:1001000113999": 123,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 36,
+      "gas:candidate-vibid:1001000121943": 114,
+      "gas:candidate-vibid:1001000136158": 53,
+      "gas:candidate-vibid:1001000190458": 8,
+      "gas:candidate-vibid:377301470741": 12,
+      "gas:candidate-vibid:377301470421": 50,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -12012,17 +12012,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 548,
-      "Кара-Мурза Владимир Владимирович": 212,
-      "Красиков Максим Валентинович": 24,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 35,
-      "Серегин Сергей Иванович": 83,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 27,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000226015": 548,
+      "gas:candidate-vibid:1001000113999": 212,
+      "gas:candidate-vibid:377301470430": 24,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 35,
+      "gas:candidate-vibid:1001000121943": 83,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 27,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470453&region=0&sub_region=0&type=429",
@@ -12072,17 +12072,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 652,
-      "Кара-Мурза Владимир Владимирович": 371,
-      "Красиков Максим Валентинович": 35,
-      "Палащенко Вячеслав Кириллович": 14,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 93,
-      "Соколов Николай Николаевич": 55,
-      "Тимофеев Юрий Константинович": 45,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 67,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000226015": 652,
+      "gas:candidate-vibid:1001000113999": 371,
+      "gas:candidate-vibid:377301470430": 35,
+      "gas:candidate-vibid:1001000195173": 14,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 93,
+      "gas:candidate-vibid:1001000136158": 55,
+      "gas:candidate-vibid:1001000190458": 45,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 67,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12132,17 +12132,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 780,
-      "Кара-Мурза Владимир Владимирович": 232,
-      "Красиков Максим Валентинович": 26,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 34,
-      "Серегин Сергей Иванович": 148,
-      "Соколов Николай Николаевич": 50,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 50,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000226015": 780,
+      "gas:candidate-vibid:1001000113999": 232,
+      "gas:candidate-vibid:377301470430": 26,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 34,
+      "gas:candidate-vibid:1001000121943": 148,
+      "gas:candidate-vibid:1001000136158": 50,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 50,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12192,17 +12192,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 656,
-      "Кара-Мурза Владимир Владимирович": 127,
-      "Красиков Максим Валентинович": 22,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 129,
-      "Соколов Николай Николаевич": 32,
-      "Тимофеев Юрий Константинович": 37,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 58,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000226015": 656,
+      "gas:candidate-vibid:1001000113999": 127,
+      "gas:candidate-vibid:377301470430": 22,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 129,
+      "gas:candidate-vibid:1001000136158": 32,
+      "gas:candidate-vibid:1001000190458": 37,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 58,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12252,17 +12252,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 691,
-      "Кара-Мурза Владимир Владимирович": 227,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 33,
-      "Серегин Сергей Иванович": 165,
-      "Соколов Николай Николаевич": 38,
-      "Тимофеев Юрий Константинович": 48,
-      "Швец Евгений Сильвестрович": 30,
-      "Яковлева Елена Юрьевна": 46,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000226015": 691,
+      "gas:candidate-vibid:1001000113999": 227,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 33,
+      "gas:candidate-vibid:1001000121943": 165,
+      "gas:candidate-vibid:1001000136158": 38,
+      "gas:candidate-vibid:1001000190458": 48,
+      "gas:candidate-vibid:377301470741": 30,
+      "gas:candidate-vibid:377301470421": 46,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12312,17 +12312,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 794,
-      "Кара-Мурза Владимир Владимирович": 131,
-      "Красиков Максим Валентинович": 29,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 78,
-      "Соколов Николай Николаевич": 36,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000226015": 794,
+      "gas:candidate-vibid:1001000113999": 131,
+      "gas:candidate-vibid:377301470430": 29,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 78,
+      "gas:candidate-vibid:1001000136158": 36,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12372,17 +12372,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 569,
-      "Кара-Мурза Владимир Владимирович": 171,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 19,
-      "Серегин Сергей Иванович": 119,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 24,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000226015": 569,
+      "gas:candidate-vibid:1001000113999": 171,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 19,
+      "gas:candidate-vibid:1001000121943": 119,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 24,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12432,17 +12432,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 496,
-      "Кара-Мурза Владимир Владимирович": 147,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 109,
-      "Соколов Николай Николаевич": 13,
-      "Тимофеев Юрий Константинович": 29,
-      "Швец Евгений Сильвестрович": 44,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000226015": 496,
+      "gas:candidate-vibid:1001000113999": 147,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 109,
+      "gas:candidate-vibid:1001000136158": 13,
+      "gas:candidate-vibid:1001000190458": 29,
+      "gas:candidate-vibid:377301470741": 44,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12492,17 +12492,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 768,
-      "Кара-Мурза Владимир Владимирович": 118,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 41,
-      "Серегин Сергей Иванович": 150,
-      "Соколов Николай Николаевич": 46,
-      "Тимофеев Юрий Константинович": 46,
-      "Швец Евгений Сильвестрович": 83,
-      "Яковлева Елена Юрьевна": 60,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000226015": 768,
+      "gas:candidate-vibid:1001000113999": 118,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 41,
+      "gas:candidate-vibid:1001000121943": 150,
+      "gas:candidate-vibid:1001000136158": 46,
+      "gas:candidate-vibid:1001000190458": 46,
+      "gas:candidate-vibid:377301470741": 83,
+      "gas:candidate-vibid:377301470421": 60,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12552,17 +12552,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 555,
-      "Кара-Мурза Владимир Владимирович": 164,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 18,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 107,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 54,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000226015": 555,
+      "gas:candidate-vibid:1001000113999": 164,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 18,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 107,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 54,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12612,17 +12612,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 592,
-      "Кара-Мурза Владимир Владимирович": 136,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 5,
-      "Серегин Сергей Иванович": 70,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 23,
-      "Швец Евгений Сильвестрович": 35,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000226015": 592,
+      "gas:candidate-vibid:1001000113999": 136,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 5,
+      "gas:candidate-vibid:1001000121943": 70,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 23,
+      "gas:candidate-vibid:377301470741": 35,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12672,17 +12672,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 557,
-      "Кара-Мурза Владимир Владимирович": 116,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 64,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 14,
-      "Швец Евгений Сильвестрович": 22,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000226015": 557,
+      "gas:candidate-vibid:1001000113999": 116,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 64,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 14,
+      "gas:candidate-vibid:377301470741": 22,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12732,17 +12732,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 766,
-      "Кара-Мурза Владимир Владимирович": 157,
-      "Красиков Максим Валентинович": 40,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 77,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000226015": 766,
+      "gas:candidate-vibid:1001000113999": 157,
+      "gas:candidate-vibid:377301470430": 40,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 77,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12792,17 +12792,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 655,
-      "Кара-Мурза Владимир Владимирович": 127,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 112,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226015": 655,
+      "gas:candidate-vibid:1001000113999": 127,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 112,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12852,17 +12852,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 524,
-      "Кара-Мурза Владимир Владимирович": 154,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 104,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 30,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000226015": 524,
+      "gas:candidate-vibid:1001000113999": 154,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 104,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 30,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12912,17 +12912,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 939,
-      "Кара-Мурза Владимир Владимирович": 157,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 32,
-      "Серегин Сергей Иванович": 114,
-      "Соколов Николай Николаевич": 37,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 62,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000226015": 939,
+      "gas:candidate-vibid:1001000113999": 157,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 32,
+      "gas:candidate-vibid:1001000121943": 114,
+      "gas:candidate-vibid:1001000136158": 37,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 62,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -12972,17 +12972,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 656,
-      "Кара-Мурза Владимир Владимирович": 175,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 121,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 34,
-      "Швец Евгений Сильвестрович": 41,
-      "Яковлева Елена Юрьевна": 43,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000226015": 656,
+      "gas:candidate-vibid:1001000113999": 175,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 121,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 34,
+      "gas:candidate-vibid:377301470741": 41,
+      "gas:candidate-vibid:377301470421": 43,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13032,17 +13032,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 649,
-      "Кара-Мурза Владимир Владимирович": 152,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 87,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 29,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000226015": 649,
+      "gas:candidate-vibid:1001000113999": 152,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 87,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 29,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13092,17 +13092,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 702,
-      "Кара-Мурза Владимир Владимирович": 124,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 114,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 40,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000226015": 702,
+      "gas:candidate-vibid:1001000113999": 124,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 114,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 40,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13152,17 +13152,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 656,
-      "Кара-Мурза Владимир Владимирович": 82,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 73,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 23,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000226015": 656,
+      "gas:candidate-vibid:1001000113999": 82,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 73,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 23,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13212,17 +13212,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 640,
-      "Кара-Мурза Владимир Владимирович": 99,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 64,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 38,
-      "Яковлева Елена Юрьевна": 33,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000226015": 640,
+      "gas:candidate-vibid:1001000113999": 99,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 64,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 38,
+      "gas:candidate-vibid:377301470421": 33,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13272,17 +13272,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 620,
-      "Кара-Мурза Владимир Владимирович": 125,
-      "Красиков Максим Валентинович": 24,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 8,
-      "Серегин Сергей Иванович": 85,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 23,
-      "Швец Евгений Сильвестрович": 38,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000226015": 620,
+      "gas:candidate-vibid:1001000113999": 125,
+      "gas:candidate-vibid:377301470430": 24,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 8,
+      "gas:candidate-vibid:1001000121943": 85,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 23,
+      "gas:candidate-vibid:377301470741": 38,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13332,17 +13332,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 550,
-      "Кара-Мурза Владимир Владимирович": 140,
-      "Красиков Максим Валентинович": 27,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 19,
-      "Серегин Сергей Иванович": 117,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 44,
-      "Яковлева Елена Юрьевна": 30,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000226015": 550,
+      "gas:candidate-vibid:1001000113999": 140,
+      "gas:candidate-vibid:377301470430": 27,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 19,
+      "gas:candidate-vibid:1001000121943": 117,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 44,
+      "gas:candidate-vibid:377301470421": 30,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13392,17 +13392,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 526,
-      "Кара-Мурза Владимир Владимирович": 94,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 79,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 47,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000226015": 526,
+      "gas:candidate-vibid:1001000113999": 94,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 79,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 47,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13452,17 +13452,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 625,
-      "Кара-Мурза Владимир Владимирович": 167,
-      "Красиков Максим Валентинович": 26,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 48,
-      "Серегин Сергей Иванович": 194,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 15,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000226015": 625,
+      "gas:candidate-vibid:1001000113999": 167,
+      "gas:candidate-vibid:377301470430": 26,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 48,
+      "gas:candidate-vibid:1001000121943": 194,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 15,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13512,17 +13512,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 599,
-      "Кара-Мурза Владимир Владимирович": 215,
-      "Красиков Максим Валентинович": 25,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 31,
-      "Серегин Сергей Иванович": 271,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 39,
-      "Швец Евгений Сильвестрович": 24,
-      "Яковлева Елена Юрьевна": 55,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000226015": 599,
+      "gas:candidate-vibid:1001000113999": 215,
+      "gas:candidate-vibid:377301470430": 25,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 31,
+      "gas:candidate-vibid:1001000121943": 271,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 39,
+      "gas:candidate-vibid:377301470741": 24,
+      "gas:candidate-vibid:377301470421": 55,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13572,17 +13572,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 681,
-      "Кара-Мурза Владимир Владимирович": 198,
-      "Красиков Максим Валентинович": 36,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 60,
-      "Серегин Сергей Иванович": 194,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000226015": 681,
+      "gas:candidate-vibid:1001000113999": 198,
+      "gas:candidate-vibid:377301470430": 36,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 60,
+      "gas:candidate-vibid:1001000121943": 194,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13632,17 +13632,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 520,
-      "Кара-Мурза Владимир Владимирович": 191,
-      "Красиков Максим Валентинович": 37,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 47,
-      "Серегин Сергей Иванович": 206,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000226015": 520,
+      "gas:candidate-vibid:1001000113999": 191,
+      "gas:candidate-vibid:377301470430": 37,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 47,
+      "gas:candidate-vibid:1001000121943": 206,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13692,17 +13692,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 739,
-      "Кара-Мурза Владимир Владимирович": 197,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 15,
-      "Ребриков Владимир Андреевич": 44,
-      "Серегин Сергей Иванович": 229,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 34,
-      "Швец Евгений Сильвестрович": 44,
-      "Яковлева Елена Юрьевна": 48,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000226015": 739,
+      "gas:candidate-vibid:1001000113999": 197,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 15,
+      "gas:candidate-vibid:1001000258422": 44,
+      "gas:candidate-vibid:1001000121943": 229,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 34,
+      "gas:candidate-vibid:377301470741": 44,
+      "gas:candidate-vibid:377301470421": 48,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470454&region=0&sub_region=0&type=429",
@@ -13752,17 +13752,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 763,
-      "Кара-Мурза Владимир Владимирович": 89,
-      "Красиков Максим Валентинович": 25,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 29,
-      "Серегин Сергей Иванович": 94,
-      "Соколов Николай Николаевич": 39,
-      "Тимофеев Юрий Константинович": 37,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 65,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000226015": 763,
+      "gas:candidate-vibid:1001000113999": 89,
+      "gas:candidate-vibid:377301470430": 25,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 29,
+      "gas:candidate-vibid:1001000121943": 94,
+      "gas:candidate-vibid:1001000136158": 39,
+      "gas:candidate-vibid:1001000190458": 37,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 65,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -13812,17 +13812,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 618,
-      "Кара-Мурза Владимир Владимирович": 97,
-      "Красиков Максим Валентинович": 34,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 124,
-      "Соколов Николай Николаевич": 55,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000226015": 618,
+      "gas:candidate-vibid:1001000113999": 97,
+      "gas:candidate-vibid:377301470430": 34,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 124,
+      "gas:candidate-vibid:1001000136158": 55,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -13872,17 +13872,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 728,
-      "Кара-Мурза Владимир Владимирович": 78,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 45,
-      "Серегин Сергей Иванович": 78,
-      "Соколов Николай Николаевич": 41,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000226015": 728,
+      "gas:candidate-vibid:1001000113999": 78,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 45,
+      "gas:candidate-vibid:1001000121943": 78,
+      "gas:candidate-vibid:1001000136158": 41,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -13932,17 +13932,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 577,
-      "Кара-Мурза Владимир Владимирович": 61,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 28,
-      "Серегин Сергей Иванович": 77,
-      "Соколов Николай Николаевич": 37,
-      "Тимофеев Юрий Константинович": 35,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 58,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000226015": 577,
+      "gas:candidate-vibid:1001000113999": 61,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 28,
+      "gas:candidate-vibid:1001000121943": 77,
+      "gas:candidate-vibid:1001000136158": 37,
+      "gas:candidate-vibid:1001000190458": 35,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 58,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -13992,17 +13992,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 611,
-      "Кара-Мурза Владимир Владимирович": 82,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 41,
-      "Серегин Сергей Иванович": 110,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 3,
-      "Яковлева Елена Юрьевна": 65,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000226015": 611,
+      "gas:candidate-vibid:1001000113999": 82,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 41,
+      "gas:candidate-vibid:1001000121943": 110,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 3,
+      "gas:candidate-vibid:377301470421": 65,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14052,17 +14052,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 691,
-      "Кара-Мурза Владимир Владимирович": 100,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 139,
-      "Соколов Николай Николаевич": 41,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 64,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000226015": 691,
+      "gas:candidate-vibid:1001000113999": 100,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 139,
+      "gas:candidate-vibid:1001000136158": 41,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 64,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14112,17 +14112,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 551,
-      "Кара-Мурза Владимир Владимирович": 69,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 19,
-      "Серегин Сергей Иванович": 63,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 14,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000226015": 551,
+      "gas:candidate-vibid:1001000113999": 69,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 19,
+      "gas:candidate-vibid:1001000121943": 63,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 14,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14172,17 +14172,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 584,
-      "Кара-Мурза Владимир Владимирович": 90,
-      "Красиков Максим Валентинович": 25,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 28,
-      "Серегин Сергей Иванович": 85,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 76,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000226015": 584,
+      "gas:candidate-vibid:1001000113999": 90,
+      "gas:candidate-vibid:377301470430": 25,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 28,
+      "gas:candidate-vibid:1001000121943": 85,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 76,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14232,17 +14232,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 472,
-      "Кара-Мурза Владимир Владимирович": 87,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 24,
-      "Швец Евгений Сильвестрович": 17,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000226015": 472,
+      "gas:candidate-vibid:1001000113999": 87,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 24,
+      "gas:candidate-vibid:377301470741": 17,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14292,17 +14292,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 621,
-      "Кара-Мурза Владимир Владимирович": 111,
-      "Красиков Максим Валентинович": 28,
-      "Палащенко Вячеслав Кириллович": 12,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 94,
-      "Соколов Николай Николаевич": 45,
-      "Тимофеев Юрий Константинович": 35,
-      "Швец Евгений Сильвестрович": 30,
-      "Яковлева Елена Юрьевна": 59,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000226015": 621,
+      "gas:candidate-vibid:1001000113999": 111,
+      "gas:candidate-vibid:377301470430": 28,
+      "gas:candidate-vibid:1001000195173": 12,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 94,
+      "gas:candidate-vibid:1001000136158": 45,
+      "gas:candidate-vibid:1001000190458": 35,
+      "gas:candidate-vibid:377301470741": 30,
+      "gas:candidate-vibid:377301470421": 59,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14352,17 +14352,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 604,
-      "Кара-Мурза Владимир Владимирович": 95,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 82,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 28,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000226015": 604,
+      "gas:candidate-vibid:1001000113999": 95,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 82,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 28,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -14412,17 +14412,17 @@ export const duma_2003_uik_428_region_77_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 614,
-      "Кара-Мурза Владимир Владимирович": 72,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 64,
-      "Соколов Николай Николаевич": 36,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 62,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000226015": 614,
+      "gas:candidate-vibid:1001000113999": 72,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 64,
+      "gas:candidate-vibid:1001000136158": 36,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 62,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",

@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 18,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 156,
-      "Измайлов Владимир Закирович": 131,
-      "Казаков Борис Анушеванович": 133,
-      "Каракай Михаил Сергеевич": 264,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 90,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 110
+      "gas:candidate-vibid:323300370365": 18,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 156,
+      "gas:candidate-vibid:323300370648": 131,
+      "gas:candidate-vibid:323300370368": 133,
+      "gas:candidate-vibid:1001000225915": 264,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 90,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 22,
-      "Глотов Сергей Александрович": 47,
-      "Измайлов Владимир Закирович": 150,
-      "Казаков Борис Анушеванович": 92,
-      "Каракай Михаил Сергеевич": 128,
-      "Кряжева Юлия Евгеньевна": 24,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 84,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 101
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 22,
+      "gas:candidate-vibid:1001000277360": 47,
+      "gas:candidate-vibid:323300370648": 150,
+      "gas:candidate-vibid:323300370368": 92,
+      "gas:candidate-vibid:1001000225915": 128,
+      "gas:candidate-vibid:1001000136018": 24,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 84,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 143,
-      "Измайлов Владимир Закирович": 175,
-      "Казаков Борис Анушеванович": 235,
-      "Каракай Михаил Сергеевич": 190,
-      "Кряжева Юлия Евгеньевна": 56,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 262,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 218
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 143,
+      "gas:candidate-vibid:323300370648": 175,
+      "gas:candidate-vibid:323300370368": 235,
+      "gas:candidate-vibid:1001000225915": 190,
+      "gas:candidate-vibid:1001000136018": 56,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 262,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 15,
-      "Бабин Станислав Иванович": 56,
-      "Глотов Сергей Александрович": 138,
-      "Измайлов Владимир Закирович": 134,
-      "Казаков Борис Анушеванович": 203,
-      "Каракай Михаил Сергеевич": 204,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 144,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 196
+      "gas:candidate-vibid:323300370365": 15,
+      "gas:candidate-vibid:1001000113910": 56,
+      "gas:candidate-vibid:1001000277360": 138,
+      "gas:candidate-vibid:323300370648": 134,
+      "gas:candidate-vibid:323300370368": 203,
+      "gas:candidate-vibid:1001000225915": 204,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 144,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 56,
-      "Глотов Сергей Александрович": 151,
-      "Измайлов Владимир Закирович": 126,
-      "Казаков Борис Анушеванович": 193,
-      "Каракай Михаил Сергеевич": 188,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 151,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 189
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 56,
+      "gas:candidate-vibid:1001000277360": 151,
+      "gas:candidate-vibid:323300370648": 126,
+      "gas:candidate-vibid:323300370368": 193,
+      "gas:candidate-vibid:1001000225915": 188,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 151,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 52,
-      "Глотов Сергей Александрович": 116,
-      "Измайлов Владимир Закирович": 101,
-      "Казаков Борис Анушеванович": 198,
-      "Каракай Михаил Сергеевич": 225,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 152,
-      "Макаров Сергей Андреевич": 23,
-      "Против всех": 149
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 52,
+      "gas:candidate-vibid:1001000277360": 116,
+      "gas:candidate-vibid:323300370648": 101,
+      "gas:candidate-vibid:323300370368": 198,
+      "gas:candidate-vibid:1001000225915": 225,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 152,
+      "gas:candidate-vibid:1001000250439": 23,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 55,
-      "Глотов Сергей Александрович": 159,
-      "Измайлов Владимир Закирович": 94,
-      "Казаков Борис Анушеванович": 222,
-      "Каракай Михаил Сергеевич": 209,
-      "Кряжева Юлия Евгеньевна": 39,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 176,
-      "Макаров Сергей Андреевич": 24,
-      "Против всех": 156
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 55,
+      "gas:candidate-vibid:1001000277360": 159,
+      "gas:candidate-vibid:323300370648": 94,
+      "gas:candidate-vibid:323300370368": 222,
+      "gas:candidate-vibid:1001000225915": 209,
+      "gas:candidate-vibid:1001000136018": 39,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 176,
+      "gas:candidate-vibid:1001000250439": 24,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 22,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 105,
-      "Измайлов Владимир Закирович": 132,
-      "Казаков Борис Анушеванович": 194,
-      "Каракай Михаил Сергеевич": 157,
-      "Кряжева Юлия Евгеньевна": 106,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 101,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 261
+      "gas:candidate-vibid:323300370365": 22,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 105,
+      "gas:candidate-vibid:323300370648": 132,
+      "gas:candidate-vibid:323300370368": 194,
+      "gas:candidate-vibid:1001000225915": 157,
+      "gas:candidate-vibid:1001000136018": 106,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 101,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 18,
-      "Бабин Станислав Иванович": 22,
-      "Глотов Сергей Александрович": 82,
-      "Измайлов Владимир Закирович": 117,
-      "Казаков Борис Анушеванович": 144,
-      "Каракай Михаил Сергеевич": 101,
-      "Кряжева Юлия Евгеньевна": 47,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 90,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 122
+      "gas:candidate-vibid:323300370365": 18,
+      "gas:candidate-vibid:1001000113910": 22,
+      "gas:candidate-vibid:1001000277360": 82,
+      "gas:candidate-vibid:323300370648": 117,
+      "gas:candidate-vibid:323300370368": 144,
+      "gas:candidate-vibid:1001000225915": 101,
+      "gas:candidate-vibid:1001000136018": 47,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 90,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 25,
-      "Глотов Сергей Александрович": 87,
-      "Измайлов Владимир Закирович": 158,
-      "Казаков Борис Анушеванович": 123,
-      "Каракай Михаил Сергеевич": 120,
-      "Кряжева Юлия Евгеньевна": 41,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 80,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 107
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 25,
+      "gas:candidate-vibid:1001000277360": 87,
+      "gas:candidate-vibid:323300370648": 158,
+      "gas:candidate-vibid:323300370368": 123,
+      "gas:candidate-vibid:1001000225915": 120,
+      "gas:candidate-vibid:1001000136018": 41,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 80,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 71,
-      "Измайлов Владимир Закирович": 115,
-      "Казаков Борис Анушеванович": 146,
-      "Каракай Михаил Сергеевич": 115,
-      "Кряжева Юлия Евгеньевна": 47,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 69,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 152
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 71,
+      "gas:candidate-vibid:323300370648": 115,
+      "gas:candidate-vibid:323300370368": 146,
+      "gas:candidate-vibid:1001000225915": 115,
+      "gas:candidate-vibid:1001000136018": 47,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 69,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 19,
-      "Бабин Станислав Иванович": 50,
-      "Глотов Сергей Александрович": 94,
-      "Измайлов Владимир Закирович": 149,
-      "Казаков Борис Анушеванович": 166,
-      "Каракай Михаил Сергеевич": 160,
-      "Кряжева Юлия Евгеньевна": 44,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 88,
-      "Макаров Сергей Андреевич": 20,
-      "Против всех": 161
+      "gas:candidate-vibid:323300370365": 19,
+      "gas:candidate-vibid:1001000113910": 50,
+      "gas:candidate-vibid:1001000277360": 94,
+      "gas:candidate-vibid:323300370648": 149,
+      "gas:candidate-vibid:323300370368": 166,
+      "gas:candidate-vibid:1001000225915": 160,
+      "gas:candidate-vibid:1001000136018": 44,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 88,
+      "gas:candidate-vibid:1001000250439": 20,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 21,
-      "Бабин Станислав Иванович": 68,
-      "Глотов Сергей Александрович": 158,
-      "Измайлов Владимир Закирович": 150,
-      "Казаков Борис Анушеванович": 198,
-      "Каракай Михаил Сергеевич": 194,
-      "Кряжева Юлия Евгеньевна": 43,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 157,
-      "Макаров Сергей Андреевич": 16,
-      "Против всех": 190
+      "gas:candidate-vibid:323300370365": 21,
+      "gas:candidate-vibid:1001000113910": 68,
+      "gas:candidate-vibid:1001000277360": 158,
+      "gas:candidate-vibid:323300370648": 150,
+      "gas:candidate-vibid:323300370368": 198,
+      "gas:candidate-vibid:1001000225915": 194,
+      "gas:candidate-vibid:1001000136018": 43,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 157,
+      "gas:candidate-vibid:1001000250439": 16,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 38,
-      "Глотов Сергей Александрович": 140,
-      "Измайлов Владимир Закирович": 141,
-      "Казаков Борис Анушеванович": 178,
-      "Каракай Михаил Сергеевич": 204,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 130,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 175
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 38,
+      "gas:candidate-vibid:1001000277360": 140,
+      "gas:candidate-vibid:323300370648": 141,
+      "gas:candidate-vibid:323300370368": 178,
+      "gas:candidate-vibid:1001000225915": 204,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 130,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 51,
-      "Глотов Сергей Александрович": 187,
-      "Измайлов Владимир Закирович": 127,
-      "Казаков Борис Анушеванович": 214,
-      "Каракай Михаил Сергеевич": 198,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 140,
-      "Макаров Сергей Андреевич": 24,
-      "Против всех": 188
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 51,
+      "gas:candidate-vibid:1001000277360": 187,
+      "gas:candidate-vibid:323300370648": 127,
+      "gas:candidate-vibid:323300370368": 214,
+      "gas:candidate-vibid:1001000225915": 198,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 140,
+      "gas:candidate-vibid:1001000250439": 24,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 51,
-      "Глотов Сергей Александрович": 185,
-      "Измайлов Владимир Закирович": 81,
-      "Казаков Борис Анушеванович": 272,
-      "Каракай Михаил Сергеевич": 178,
-      "Кряжева Юлия Евгеньевна": 47,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 232,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 174
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 51,
+      "gas:candidate-vibid:1001000277360": 185,
+      "gas:candidate-vibid:323300370648": 81,
+      "gas:candidate-vibid:323300370368": 272,
+      "gas:candidate-vibid:1001000225915": 178,
+      "gas:candidate-vibid:1001000136018": 47,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 232,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 49,
-      "Глотов Сергей Александрович": 148,
-      "Измайлов Владимир Закирович": 85,
-      "Казаков Борис Анушеванович": 212,
-      "Каракай Михаил Сергеевич": 173,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 190,
-      "Макаров Сергей Андреевич": 6,
-      "Против всех": 200
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 49,
+      "gas:candidate-vibid:1001000277360": 148,
+      "gas:candidate-vibid:323300370648": 85,
+      "gas:candidate-vibid:323300370368": 212,
+      "gas:candidate-vibid:1001000225915": 173,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 190,
+      "gas:candidate-vibid:1001000250439": 6,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 71,
-      "Глотов Сергей Александрович": 214,
-      "Измайлов Владимир Закирович": 107,
-      "Казаков Борис Анушеванович": 215,
-      "Каракай Михаил Сергеевич": 151,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 137,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 162
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 71,
+      "gas:candidate-vibid:1001000277360": 214,
+      "gas:candidate-vibid:323300370648": 107,
+      "gas:candidate-vibid:323300370368": 215,
+      "gas:candidate-vibid:1001000225915": 151,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 137,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 26,
-      "Глотов Сергей Александрович": 154,
-      "Измайлов Владимир Закирович": 180,
-      "Казаков Борис Анушеванович": 153,
-      "Каракай Михаил Сергеевич": 134,
-      "Кряжева Юлия Евгеньевна": 41,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 122,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 151
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 26,
+      "gas:candidate-vibid:1001000277360": 154,
+      "gas:candidate-vibid:323300370648": 180,
+      "gas:candidate-vibid:323300370368": 153,
+      "gas:candidate-vibid:1001000225915": 134,
+      "gas:candidate-vibid:1001000136018": 41,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 122,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 33,
-      "Глотов Сергей Александрович": 136,
-      "Измайлов Владимир Закирович": 126,
-      "Казаков Борис Анушеванович": 179,
-      "Каракай Михаил Сергеевич": 112,
-      "Кряжева Юлия Евгеньевна": 32,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 105,
-      "Макаров Сергей Андреевич": 9,
-      "Против всех": 136
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 33,
+      "gas:candidate-vibid:1001000277360": 136,
+      "gas:candidate-vibid:323300370648": 126,
+      "gas:candidate-vibid:323300370368": 179,
+      "gas:candidate-vibid:1001000225915": 112,
+      "gas:candidate-vibid:1001000136018": 32,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 105,
+      "gas:candidate-vibid:1001000250439": 9,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 47,
-      "Глотов Сергей Александрович": 90,
-      "Измайлов Владимир Закирович": 42,
-      "Казаков Борис Анушеванович": 122,
-      "Каракай Михаил Сергеевич": 162,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 51,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 179
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 47,
+      "gas:candidate-vibid:1001000277360": 90,
+      "gas:candidate-vibid:323300370648": 42,
+      "gas:candidate-vibid:323300370368": 122,
+      "gas:candidate-vibid:1001000225915": 162,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 51,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 225,
-      "Измайлов Владимир Закирович": 96,
-      "Казаков Борис Анушеванович": 284,
-      "Каракай Михаил Сергеевич": 190,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 159,
-      "Макаров Сергей Андреевич": 38,
-      "Против всех": 203
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 225,
+      "gas:candidate-vibid:323300370648": 96,
+      "gas:candidate-vibid:323300370368": 284,
+      "gas:candidate-vibid:1001000225915": 190,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 159,
+      "gas:candidate-vibid:1001000250439": 38,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 39,
-      "Глотов Сергей Александрович": 197,
-      "Измайлов Владимир Закирович": 207,
-      "Казаков Борис Анушеванович": 228,
-      "Каракай Михаил Сергеевич": 144,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 165,
-      "Макаров Сергей Андреевич": 26,
-      "Против всех": 176
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 39,
+      "gas:candidate-vibid:1001000277360": 197,
+      "gas:candidate-vibid:323300370648": 207,
+      "gas:candidate-vibid:323300370368": 228,
+      "gas:candidate-vibid:1001000225915": 144,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 165,
+      "gas:candidate-vibid:1001000250439": 26,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 12,
-      "Глотов Сергей Александрович": 148,
-      "Измайлов Владимир Закирович": 149,
-      "Казаков Борис Анушеванович": 224,
-      "Каракай Михаил Сергеевич": 135,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 159,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 186
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 12,
+      "gas:candidate-vibid:1001000277360": 148,
+      "gas:candidate-vibid:323300370648": 149,
+      "gas:candidate-vibid:323300370368": 224,
+      "gas:candidate-vibid:1001000225915": 135,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 159,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 18,
-      "Глотов Сергей Александрович": 196,
-      "Измайлов Владимир Закирович": 97,
-      "Казаков Борис Анушеванович": 149,
-      "Каракай Михаил Сергеевич": 130,
-      "Кряжева Юлия Евгеньевна": 41,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 101,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 167
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 18,
+      "gas:candidate-vibid:1001000277360": 196,
+      "gas:candidate-vibid:323300370648": 97,
+      "gas:candidate-vibid:323300370368": 149,
+      "gas:candidate-vibid:1001000225915": 130,
+      "gas:candidate-vibid:1001000136018": 41,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 101,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 180,
-      "Измайлов Владимир Закирович": 130,
-      "Казаков Борис Анушеванович": 226,
-      "Каракай Михаил Сергеевич": 171,
-      "Кряжева Юлия Евгеньевна": 76,
-      "Куркин Станислав Гаврилович": 15,
-      "Лошкарев Геннадий Леонидович": 131,
-      "Макаров Сергей Андреевич": 23,
-      "Против всех": 236
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 180,
+      "gas:candidate-vibid:323300370648": 130,
+      "gas:candidate-vibid:323300370368": 226,
+      "gas:candidate-vibid:1001000225915": 171,
+      "gas:candidate-vibid:1001000136018": 76,
+      "gas:candidate-vibid:1001000254930": 15,
+      "gas:candidate-vibid:1001000121815": 131,
+      "gas:candidate-vibid:1001000250439": 23,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 32,
-      "Бабин Станислав Иванович": 36,
-      "Глотов Сергей Александрович": 196,
-      "Измайлов Владимир Закирович": 270,
-      "Казаков Борис Анушеванович": 174,
-      "Каракай Михаил Сергеевич": 157,
-      "Кряжева Юлия Евгеньевна": 65,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 95,
-      "Макаров Сергей Андреевич": 14,
-      "Против всех": 247
+      "gas:candidate-vibid:323300370365": 32,
+      "gas:candidate-vibid:1001000113910": 36,
+      "gas:candidate-vibid:1001000277360": 196,
+      "gas:candidate-vibid:323300370648": 270,
+      "gas:candidate-vibid:323300370368": 174,
+      "gas:candidate-vibid:1001000225915": 157,
+      "gas:candidate-vibid:1001000136018": 65,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 95,
+      "gas:candidate-vibid:1001000250439": 14,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 19,
-      "Бабин Станислав Иванович": 48,
-      "Глотов Сергей Александрович": 141,
-      "Измайлов Владимир Закирович": 258,
-      "Казаков Борис Анушеванович": 181,
-      "Каракай Михаил Сергеевич": 133,
-      "Кряжева Юлия Евгеньевна": 71,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 102,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 186
+      "gas:candidate-vibid:323300370365": 19,
+      "gas:candidate-vibid:1001000113910": 48,
+      "gas:candidate-vibid:1001000277360": 141,
+      "gas:candidate-vibid:323300370648": 258,
+      "gas:candidate-vibid:323300370368": 181,
+      "gas:candidate-vibid:1001000225915": 133,
+      "gas:candidate-vibid:1001000136018": 71,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 102,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 19,
-      "Бабин Станислав Иванович": 38,
-      "Глотов Сергей Александрович": 179,
-      "Измайлов Владимир Закирович": 145,
-      "Казаков Борис Анушеванович": 199,
-      "Каракай Михаил Сергеевич": 169,
-      "Кряжева Юлия Евгеньевна": 62,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 145,
-      "Макаров Сергей Андреевич": 25,
-      "Против всех": 175
+      "gas:candidate-vibid:323300370365": 19,
+      "gas:candidate-vibid:1001000113910": 38,
+      "gas:candidate-vibid:1001000277360": 179,
+      "gas:candidate-vibid:323300370648": 145,
+      "gas:candidate-vibid:323300370368": 199,
+      "gas:candidate-vibid:1001000225915": 169,
+      "gas:candidate-vibid:1001000136018": 62,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 145,
+      "gas:candidate-vibid:1001000250439": 25,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 22,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 115,
-      "Измайлов Владимир Закирович": 161,
-      "Казаков Борис Анушеванович": 183,
-      "Каракай Михаил Сергеевич": 157,
-      "Кряжева Юлия Евгеньевна": 56,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 147,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 175
+      "gas:candidate-vibid:323300370365": 22,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 115,
+      "gas:candidate-vibid:323300370648": 161,
+      "gas:candidate-vibid:323300370368": 183,
+      "gas:candidate-vibid:1001000225915": 157,
+      "gas:candidate-vibid:1001000136018": 56,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 147,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 17,
-      "Бабин Станислав Иванович": 40,
-      "Глотов Сергей Александрович": 92,
-      "Измайлов Владимир Закирович": 138,
-      "Казаков Борис Анушеванович": 179,
-      "Каракай Михаил Сергеевич": 184,
-      "Кряжева Юлия Евгеньевна": 66,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 153,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 171
+      "gas:candidate-vibid:323300370365": 17,
+      "gas:candidate-vibid:1001000113910": 40,
+      "gas:candidate-vibid:1001000277360": 92,
+      "gas:candidate-vibid:323300370648": 138,
+      "gas:candidate-vibid:323300370368": 179,
+      "gas:candidate-vibid:1001000225915": 184,
+      "gas:candidate-vibid:1001000136018": 66,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 153,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 63,
-      "Глотов Сергей Александрович": 136,
-      "Измайлов Владимир Закирович": 152,
-      "Казаков Борис Анушеванович": 201,
-      "Каракай Михаил Сергеевич": 206,
-      "Кряжева Юлия Евгеньевна": 58,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 143,
-      "Макаров Сергей Андреевич": 25,
-      "Против всех": 214
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 63,
+      "gas:candidate-vibid:1001000277360": 136,
+      "gas:candidate-vibid:323300370648": 152,
+      "gas:candidate-vibid:323300370368": 201,
+      "gas:candidate-vibid:1001000225915": 206,
+      "gas:candidate-vibid:1001000136018": 58,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 143,
+      "gas:candidate-vibid:1001000250439": 25,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 42,
-      "Глотов Сергей Александрович": 259,
-      "Измайлов Владимир Закирович": 249,
-      "Казаков Борис Анушеванович": 163,
-      "Каракай Михаил Сергеевич": 179,
-      "Кряжева Юлия Евгеньевна": 47,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 121,
-      "Макаров Сергей Андреевич": 26,
-      "Против всех": 233
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 42,
+      "gas:candidate-vibid:1001000277360": 259,
+      "gas:candidate-vibid:323300370648": 249,
+      "gas:candidate-vibid:323300370368": 163,
+      "gas:candidate-vibid:1001000225915": 179,
+      "gas:candidate-vibid:1001000136018": 47,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 121,
+      "gas:candidate-vibid:1001000250439": 26,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 31,
-      "Бабин Станислав Иванович": 48,
-      "Глотов Сергей Александрович": 262,
-      "Измайлов Владимир Закирович": 285,
-      "Казаков Борис Анушеванович": 207,
-      "Каракай Михаил Сергеевич": 153,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 120,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 181
+      "gas:candidate-vibid:323300370365": 31,
+      "gas:candidate-vibid:1001000113910": 48,
+      "gas:candidate-vibid:1001000277360": 262,
+      "gas:candidate-vibid:323300370648": 285,
+      "gas:candidate-vibid:323300370368": 207,
+      "gas:candidate-vibid:1001000225915": 153,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 120,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 10,
-      "Глотов Сергей Александрович": 72,
-      "Измайлов Владимир Закирович": 22,
-      "Казаков Борис Анушеванович": 41,
-      "Каракай Михаил Сергеевич": 34,
-      "Кряжева Юлия Евгеньевна": 11,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 27,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 31
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 10,
+      "gas:candidate-vibid:1001000277360": 72,
+      "gas:candidate-vibid:323300370648": 22,
+      "gas:candidate-vibid:323300370368": 41,
+      "gas:candidate-vibid:1001000225915": 34,
+      "gas:candidate-vibid:1001000136018": 11,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 27,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 7,
-      "Глотов Сергей Александрович": 5,
-      "Измайлов Владимир Закирович": 7,
-      "Казаков Борис Анушеванович": 127,
-      "Каракай Михаил Сергеевич": 3,
-      "Кряжева Юлия Евгеньевна": 8,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 1,
-      "Макаров Сергей Андреевич": 4,
-      "Против всех": 87
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 7,
+      "gas:candidate-vibid:1001000277360": 5,
+      "gas:candidate-vibid:323300370648": 7,
+      "gas:candidate-vibid:323300370368": 127,
+      "gas:candidate-vibid:1001000225915": 3,
+      "gas:candidate-vibid:1001000136018": 8,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 1,
+      "gas:candidate-vibid:1001000250439": 4,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 3,
-      "Глотов Сергей Александрович": 3,
-      "Измайлов Владимир Закирович": 3,
-      "Казаков Борис Анушеванович": 9,
-      "Каракай Михаил Сергеевич": 8,
-      "Кряжева Юлия Евгеньевна": 2,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 5,
-      "Макаров Сергей Андреевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 3,
+      "gas:candidate-vibid:1001000277360": 3,
+      "gas:candidate-vibid:323300370648": 3,
+      "gas:candidate-vibid:323300370368": 9,
+      "gas:candidate-vibid:1001000225915": 8,
+      "gas:candidate-vibid:1001000136018": 2,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 5,
+      "gas:candidate-vibid:1001000250439": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 1,
-      "Глотов Сергей Александрович": 3,
-      "Измайлов Владимир Закирович": 2,
-      "Казаков Борис Анушеванович": 17,
-      "Каракай Михаил Сергеевич": 5,
-      "Кряжева Юлия Евгеньевна": 1,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 2,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 1,
+      "gas:candidate-vibid:1001000277360": 3,
+      "gas:candidate-vibid:323300370648": 2,
+      "gas:candidate-vibid:323300370368": 17,
+      "gas:candidate-vibid:1001000225915": 5,
+      "gas:candidate-vibid:1001000136018": 1,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 2,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 2,
-      "Глотов Сергей Александрович": 5,
-      "Измайлов Владимир Закирович": 4,
-      "Казаков Борис Анушеванович": 24,
-      "Каракай Михаил Сергеевич": 2,
-      "Кряжева Юлия Евгеньевна": 1,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 5,
-      "Макаров Сергей Андреевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 2,
+      "gas:candidate-vibid:1001000277360": 5,
+      "gas:candidate-vibid:323300370648": 4,
+      "gas:candidate-vibid:323300370368": 24,
+      "gas:candidate-vibid:1001000225915": 2,
+      "gas:candidate-vibid:1001000136018": 1,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 5,
+      "gas:candidate-vibid:1001000250439": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 1,
-      "Глотов Сергей Александрович": 1,
-      "Измайлов Владимир Закирович": 2,
-      "Казаков Борис Анушеванович": 18,
-      "Каракай Михаил Сергеевич": 1,
-      "Кряжева Юлия Евгеньевна": 0,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 2,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 1,
+      "gas:candidate-vibid:1001000277360": 1,
+      "gas:candidate-vibid:323300370648": 2,
+      "gas:candidate-vibid:323300370368": 18,
+      "gas:candidate-vibid:1001000225915": 1,
+      "gas:candidate-vibid:1001000136018": 0,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 2,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 0,
-      "Глотов Сергей Александрович": 1,
-      "Измайлов Владимир Закирович": 1,
-      "Казаков Борис Анушеванович": 2,
-      "Каракай Михаил Сергеевич": 1,
-      "Кряжева Юлия Евгеньевна": 1,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 0,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 0,
+      "gas:candidate-vibid:1001000277360": 1,
+      "gas:candidate-vibid:323300370648": 1,
+      "gas:candidate-vibid:323300370368": 2,
+      "gas:candidate-vibid:1001000225915": 1,
+      "gas:candidate-vibid:1001000136018": 1,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 0,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 1,
-      "Глотов Сергей Александрович": 10,
-      "Измайлов Владимир Закирович": 10,
-      "Казаков Борис Анушеванович": 68,
-      "Каракай Михаил Сергеевич": 6,
-      "Кряжева Юлия Евгеньевна": 5,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 13,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 1,
+      "gas:candidate-vibid:1001000277360": 10,
+      "gas:candidate-vibid:323300370648": 10,
+      "gas:candidate-vibid:323300370368": 68,
+      "gas:candidate-vibid:1001000225915": 6,
+      "gas:candidate-vibid:1001000136018": 5,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 13,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070394&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 20,
-      "Бабин Станислав Иванович": 85,
-      "Глотов Сергей Александрович": 159,
-      "Измайлов Владимир Закирович": 165,
-      "Казаков Борис Анушеванович": 304,
-      "Каракай Михаил Сергеевич": 215,
-      "Кряжева Юлия Евгеньевна": 96,
-      "Куркин Станислав Гаврилович": 16,
-      "Лошкарев Геннадий Леонидович": 246,
-      "Макаров Сергей Андреевич": 31,
-      "Против всех": 270
+      "gas:candidate-vibid:323300370365": 20,
+      "gas:candidate-vibid:1001000113910": 85,
+      "gas:candidate-vibid:1001000277360": 159,
+      "gas:candidate-vibid:323300370648": 165,
+      "gas:candidate-vibid:323300370368": 304,
+      "gas:candidate-vibid:1001000225915": 215,
+      "gas:candidate-vibid:1001000136018": 96,
+      "gas:candidate-vibid:1001000254930": 16,
+      "gas:candidate-vibid:1001000121815": 246,
+      "gas:candidate-vibid:1001000250439": 31,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 120,
-      "Глотов Сергей Александрович": 147,
-      "Измайлов Владимир Закирович": 184,
-      "Казаков Борис Анушеванович": 275,
-      "Каракай Михаил Сергеевич": 209,
-      "Кряжева Юлия Евгеньевна": 77,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 224,
-      "Макаров Сергей Андреевич": 32,
-      "Против всех": 244
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 120,
+      "gas:candidate-vibid:1001000277360": 147,
+      "gas:candidate-vibid:323300370648": 184,
+      "gas:candidate-vibid:323300370368": 275,
+      "gas:candidate-vibid:1001000225915": 209,
+      "gas:candidate-vibid:1001000136018": 77,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 224,
+      "gas:candidate-vibid:1001000250439": 32,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 3,
-      "Глотов Сергей Александрович": 17,
-      "Измайлов Владимир Закирович": 38,
-      "Казаков Борис Анушеванович": 12,
-      "Каракай Михаил Сергеевич": 17,
-      "Кряжева Юлия Евгеньевна": 8,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 39,
-      "Макаров Сергей Андреевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 3,
+      "gas:candidate-vibid:1001000277360": 17,
+      "gas:candidate-vibid:323300370648": 38,
+      "gas:candidate-vibid:323300370368": 12,
+      "gas:candidate-vibid:1001000225915": 17,
+      "gas:candidate-vibid:1001000136018": 8,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 39,
+      "gas:candidate-vibid:1001000250439": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 29,
-      "Бабин Станислав Иванович": 28,
-      "Глотов Сергей Александрович": 85,
-      "Измайлов Владимир Закирович": 71,
-      "Казаков Борис Анушеванович": 194,
-      "Каракай Михаил Сергеевич": 146,
-      "Кряжева Юлия Евгеньевна": 45,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 112,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 106
+      "gas:candidate-vibid:323300370365": 29,
+      "gas:candidate-vibid:1001000113910": 28,
+      "gas:candidate-vibid:1001000277360": 85,
+      "gas:candidate-vibid:323300370648": 71,
+      "gas:candidate-vibid:323300370368": 194,
+      "gas:candidate-vibid:1001000225915": 146,
+      "gas:candidate-vibid:1001000136018": 45,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 112,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 66,
-      "Глотов Сергей Александрович": 162,
-      "Измайлов Владимир Закирович": 116,
-      "Казаков Борис Анушеванович": 239,
-      "Каракай Михаил Сергеевич": 224,
-      "Кряжева Юлия Евгеньевна": 74,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 184,
-      "Макаров Сергей Андреевич": 33,
-      "Против всех": 213
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 66,
+      "gas:candidate-vibid:1001000277360": 162,
+      "gas:candidate-vibid:323300370648": 116,
+      "gas:candidate-vibid:323300370368": 239,
+      "gas:candidate-vibid:1001000225915": 224,
+      "gas:candidate-vibid:1001000136018": 74,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 184,
+      "gas:candidate-vibid:1001000250439": 33,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 103,
-      "Измайлов Владимир Закирович": 69,
-      "Казаков Борис Анушеванович": 184,
-      "Каракай Михаил Сергеевич": 154,
-      "Кряжева Юлия Евгеньевна": 52,
-      "Куркин Станислав Гаврилович": 15,
-      "Лошкарев Геннадий Леонидович": 104,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 134
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 103,
+      "gas:candidate-vibid:323300370648": 69,
+      "gas:candidate-vibid:323300370368": 184,
+      "gas:candidate-vibid:1001000225915": 154,
+      "gas:candidate-vibid:1001000136018": 52,
+      "gas:candidate-vibid:1001000254930": 15,
+      "gas:candidate-vibid:1001000121815": 104,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 84,
-      "Глотов Сергей Александрович": 130,
-      "Измайлов Владимир Закирович": 188,
-      "Казаков Борис Анушеванович": 211,
-      "Каракай Михаил Сергеевич": 223,
-      "Кряжева Юлия Евгеньевна": 63,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 239,
-      "Макаров Сергей Андреевич": 24,
-      "Против всех": 243
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 84,
+      "gas:candidate-vibid:1001000277360": 130,
+      "gas:candidate-vibid:323300370648": 188,
+      "gas:candidate-vibid:323300370368": 211,
+      "gas:candidate-vibid:1001000225915": 223,
+      "gas:candidate-vibid:1001000136018": 63,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 239,
+      "gas:candidate-vibid:1001000250439": 24,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 33,
-      "Бабин Станислав Иванович": 53,
-      "Глотов Сергей Александрович": 67,
-      "Измайлов Владимир Закирович": 104,
-      "Казаков Борис Анушеванович": 202,
-      "Каракай Михаил Сергеевич": 215,
-      "Кряжева Юлия Евгеньевна": 77,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 230,
-      "Макаров Сергей Андреевич": 9,
-      "Против всех": 138
+      "gas:candidate-vibid:323300370365": 33,
+      "gas:candidate-vibid:1001000113910": 53,
+      "gas:candidate-vibid:1001000277360": 67,
+      "gas:candidate-vibid:323300370648": 104,
+      "gas:candidate-vibid:323300370368": 202,
+      "gas:candidate-vibid:1001000225915": 215,
+      "gas:candidate-vibid:1001000136018": 77,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 230,
+      "gas:candidate-vibid:1001000250439": 9,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 57,
-      "Глотов Сергей Александрович": 123,
-      "Измайлов Владимир Закирович": 112,
-      "Казаков Борис Анушеванович": 270,
-      "Каракай Михаил Сергеевич": 236,
-      "Кряжева Юлия Евгеньевна": 91,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 121,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 249
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 57,
+      "gas:candidate-vibid:1001000277360": 123,
+      "gas:candidate-vibid:323300370648": 112,
+      "gas:candidate-vibid:323300370368": 270,
+      "gas:candidate-vibid:1001000225915": 236,
+      "gas:candidate-vibid:1001000136018": 91,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 121,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 64,
-      "Глотов Сергей Александрович": 183,
-      "Измайлов Владимир Закирович": 175,
-      "Казаков Борис Анушеванович": 254,
-      "Каракай Михаил Сергеевич": 183,
-      "Кряжева Юлия Евгеньевна": 81,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 162,
-      "Макаров Сергей Андреевич": 16,
-      "Против всех": 316
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 64,
+      "gas:candidate-vibid:1001000277360": 183,
+      "gas:candidate-vibid:323300370648": 175,
+      "gas:candidate-vibid:323300370368": 254,
+      "gas:candidate-vibid:1001000225915": 183,
+      "gas:candidate-vibid:1001000136018": 81,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 162,
+      "gas:candidate-vibid:1001000250439": 16,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 71,
-      "Глотов Сергей Александрович": 156,
-      "Измайлов Владимир Закирович": 96,
-      "Казаков Борис Анушеванович": 218,
-      "Каракай Михаил Сергеевич": 308,
-      "Кряжева Юлия Евгеньевна": 67,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 144,
-      "Макаров Сергей Андреевич": 34,
-      "Против всех": 289
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 71,
+      "gas:candidate-vibid:1001000277360": 156,
+      "gas:candidate-vibid:323300370648": 96,
+      "gas:candidate-vibid:323300370368": 218,
+      "gas:candidate-vibid:1001000225915": 308,
+      "gas:candidate-vibid:1001000136018": 67,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 144,
+      "gas:candidate-vibid:1001000250439": 34,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 102,
-      "Измайлов Владимир Закирович": 72,
-      "Казаков Борис Анушеванович": 138,
-      "Каракай Михаил Сергеевич": 105,
-      "Кряжева Юлия Евгеньевна": 32,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 111,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 115
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 102,
+      "gas:candidate-vibid:323300370648": 72,
+      "gas:candidate-vibid:323300370368": 138,
+      "gas:candidate-vibid:1001000225915": 105,
+      "gas:candidate-vibid:1001000136018": 32,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 111,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 23,
-      "Бабин Станислав Иванович": 62,
-      "Глотов Сергей Александрович": 149,
-      "Измайлов Владимир Закирович": 214,
-      "Казаков Борис Анушеванович": 533,
-      "Каракай Михаил Сергеевич": 266,
-      "Кряжева Юлия Евгеньевна": 128,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 244,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 321
+      "gas:candidate-vibid:323300370365": 23,
+      "gas:candidate-vibid:1001000113910": 62,
+      "gas:candidate-vibid:1001000277360": 149,
+      "gas:candidate-vibid:323300370648": 214,
+      "gas:candidate-vibid:323300370368": 533,
+      "gas:candidate-vibid:1001000225915": 266,
+      "gas:candidate-vibid:1001000136018": 128,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 244,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 29,
-      "Бабин Станислав Иванович": 109,
-      "Глотов Сергей Александрович": 95,
-      "Измайлов Владимир Закирович": 147,
-      "Казаков Борис Анушеванович": 287,
-      "Каракай Михаил Сергеевич": 235,
-      "Кряжева Юлия Евгеньевна": 73,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 176,
-      "Макаров Сергей Андреевич": 31,
-      "Против всех": 219
+      "gas:candidate-vibid:323300370365": 29,
+      "gas:candidate-vibid:1001000113910": 109,
+      "gas:candidate-vibid:1001000277360": 95,
+      "gas:candidate-vibid:323300370648": 147,
+      "gas:candidate-vibid:323300370368": 287,
+      "gas:candidate-vibid:1001000225915": 235,
+      "gas:candidate-vibid:1001000136018": 73,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 176,
+      "gas:candidate-vibid:1001000250439": 31,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 98,
-      "Измайлов Владимир Закирович": 175,
-      "Казаков Борис Анушеванович": 181,
-      "Каракай Михаил Сергеевич": 233,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 129,
-      "Макаров Сергей Андреевич": 23,
-      "Против всех": 227
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 98,
+      "gas:candidate-vibid:323300370648": 175,
+      "gas:candidate-vibid:323300370368": 181,
+      "gas:candidate-vibid:1001000225915": 233,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 129,
+      "gas:candidate-vibid:1001000250439": 23,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 29,
-      "Бабин Станислав Иванович": 73,
-      "Глотов Сергей Александрович": 165,
-      "Измайлов Владимир Закирович": 142,
-      "Казаков Борис Анушеванович": 304,
-      "Каракай Михаил Сергеевич": 313,
-      "Кряжева Юлия Евгеньевна": 95,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 229,
-      "Макаров Сергей Андреевич": 39,
-      "Против всех": 169
+      "gas:candidate-vibid:323300370365": 29,
+      "gas:candidate-vibid:1001000113910": 73,
+      "gas:candidate-vibid:1001000277360": 165,
+      "gas:candidate-vibid:323300370648": 142,
+      "gas:candidate-vibid:323300370368": 304,
+      "gas:candidate-vibid:1001000225915": 313,
+      "gas:candidate-vibid:1001000136018": 95,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 229,
+      "gas:candidate-vibid:1001000250439": 39,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 17,
-      "Бабин Станислав Иванович": 378,
-      "Глотов Сергей Александрович": 116,
-      "Измайлов Владимир Закирович": 212,
-      "Казаков Борис Анушеванович": 167,
-      "Каракай Михаил Сергеевич": 208,
-      "Кряжева Юлия Евгеньевна": 43,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 243,
-      "Макаров Сергей Андреевич": 6,
-      "Против всех": 185
+      "gas:candidate-vibid:323300370365": 17,
+      "gas:candidate-vibid:1001000113910": 378,
+      "gas:candidate-vibid:1001000277360": 116,
+      "gas:candidate-vibid:323300370648": 212,
+      "gas:candidate-vibid:323300370368": 167,
+      "gas:candidate-vibid:1001000225915": 208,
+      "gas:candidate-vibid:1001000136018": 43,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 243,
+      "gas:candidate-vibid:1001000250439": 6,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 46,
-      "Глотов Сергей Александрович": 129,
-      "Измайлов Владимир Закирович": 45,
-      "Казаков Борис Анушеванович": 100,
-      "Каракай Михаил Сергеевич": 152,
-      "Кряжева Юлия Евгеньевна": 49,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 232,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 168
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 46,
+      "gas:candidate-vibid:1001000277360": 129,
+      "gas:candidate-vibid:323300370648": 45,
+      "gas:candidate-vibid:323300370368": 100,
+      "gas:candidate-vibid:1001000225915": 152,
+      "gas:candidate-vibid:1001000136018": 49,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 232,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 93,
-      "Глотов Сергей Александрович": 179,
-      "Измайлов Владимир Закирович": 119,
-      "Казаков Борис Анушеванович": 353,
-      "Каракай Михаил Сергеевич": 233,
-      "Кряжева Юлия Евгеньевна": 100,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 184,
-      "Макаров Сергей Андреевич": 41,
-      "Против всех": 324
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 93,
+      "gas:candidate-vibid:1001000277360": 179,
+      "gas:candidate-vibid:323300370648": 119,
+      "gas:candidate-vibid:323300370368": 353,
+      "gas:candidate-vibid:1001000225915": 233,
+      "gas:candidate-vibid:1001000136018": 100,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 184,
+      "gas:candidate-vibid:1001000250439": 41,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 60,
-      "Глотов Сергей Александрович": 192,
-      "Измайлов Владимир Закирович": 159,
-      "Казаков Борис Анушеванович": 288,
-      "Каракай Михаил Сергеевич": 240,
-      "Кряжева Юлия Евгеньевна": 68,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 208,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 219
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 60,
+      "gas:candidate-vibid:1001000277360": 192,
+      "gas:candidate-vibid:323300370648": 159,
+      "gas:candidate-vibid:323300370368": 288,
+      "gas:candidate-vibid:1001000225915": 240,
+      "gas:candidate-vibid:1001000136018": 68,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 208,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 70,
-      "Глотов Сергей Александрович": 161,
-      "Измайлов Владимир Закирович": 164,
-      "Казаков Борис Анушеванович": 305,
-      "Каракай Михаил Сергеевич": 241,
-      "Кряжева Юлия Евгеньевна": 63,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 250,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 233
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 70,
+      "gas:candidate-vibid:1001000277360": 161,
+      "gas:candidate-vibid:323300370648": 164,
+      "gas:candidate-vibid:323300370368": 305,
+      "gas:candidate-vibid:1001000225915": 241,
+      "gas:candidate-vibid:1001000136018": 63,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 250,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 33,
-      "Глотов Сергей Александрович": 60,
-      "Измайлов Владимир Закирович": 109,
-      "Казаков Борис Анушеванович": 115,
-      "Каракай Михаил Сергеевич": 96,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 79,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 153
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 33,
+      "gas:candidate-vibid:1001000277360": 60,
+      "gas:candidate-vibid:323300370648": 109,
+      "gas:candidate-vibid:323300370368": 115,
+      "gas:candidate-vibid:1001000225915": 96,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 79,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 10,
-      "Глотов Сергей Александрович": 71,
-      "Измайлов Владимир Закирович": 122,
-      "Казаков Борис Анушеванович": 58,
-      "Каракай Михаил Сергеевич": 40,
-      "Кряжева Юлия Евгеньевна": 16,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 43,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 62
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 10,
+      "gas:candidate-vibid:1001000277360": 71,
+      "gas:candidate-vibid:323300370648": 122,
+      "gas:candidate-vibid:323300370368": 58,
+      "gas:candidate-vibid:1001000225915": 40,
+      "gas:candidate-vibid:1001000136018": 16,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 43,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 115,
-      "Измайлов Владимир Закирович": 304,
-      "Казаков Борис Анушеванович": 186,
-      "Каракай Михаил Сергеевич": 159,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 170,
-      "Макаров Сергей Андреевич": 25,
-      "Против всех": 141
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 115,
+      "gas:candidate-vibid:323300370648": 304,
+      "gas:candidate-vibid:323300370368": 186,
+      "gas:candidate-vibid:1001000225915": 159,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 170,
+      "gas:candidate-vibid:1001000250439": 25,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 33,
-      "Глотов Сергей Александрович": 151,
-      "Измайлов Владимир Закирович": 131,
-      "Казаков Борис Анушеванович": 191,
-      "Каракай Михаил Сергеевич": 137,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 88,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 197
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 33,
+      "gas:candidate-vibid:1001000277360": 151,
+      "gas:candidate-vibid:323300370648": 131,
+      "gas:candidate-vibid:323300370368": 191,
+      "gas:candidate-vibid:1001000225915": 137,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 88,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 41,
-      "Бабин Станислав Иванович": 50,
-      "Глотов Сергей Александрович": 91,
-      "Измайлов Владимир Закирович": 104,
-      "Казаков Борис Анушеванович": 151,
-      "Каракай Михаил Сергеевич": 130,
-      "Кряжева Юлия Евгеньевна": 103,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 113,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 160
+      "gas:candidate-vibid:323300370365": 41,
+      "gas:candidate-vibid:1001000113910": 50,
+      "gas:candidate-vibid:1001000277360": 91,
+      "gas:candidate-vibid:323300370648": 104,
+      "gas:candidate-vibid:323300370368": 151,
+      "gas:candidate-vibid:1001000225915": 130,
+      "gas:candidate-vibid:1001000136018": 103,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 113,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 32,
-      "Бабин Станислав Иванович": 48,
-      "Глотов Сергей Александрович": 122,
-      "Измайлов Владимир Закирович": 213,
-      "Казаков Борис Анушеванович": 190,
-      "Каракай Михаил Сергеевич": 197,
-      "Кряжева Юлия Евгеньевна": 70,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 238,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 166
+      "gas:candidate-vibid:323300370365": 32,
+      "gas:candidate-vibid:1001000113910": 48,
+      "gas:candidate-vibid:1001000277360": 122,
+      "gas:candidate-vibid:323300370648": 213,
+      "gas:candidate-vibid:323300370368": 190,
+      "gas:candidate-vibid:1001000225915": 197,
+      "gas:candidate-vibid:1001000136018": 70,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 238,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 40,
-      "Глотов Сергей Александрович": 52,
-      "Измайлов Владимир Закирович": 46,
-      "Казаков Борис Анушеванович": 83,
-      "Каракай Михаил Сергеевич": 72,
-      "Кряжева Юлия Евгеньевна": 44,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 106,
-      "Макаров Сергей Андреевич": 4,
-      "Против всех": 86
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 40,
+      "gas:candidate-vibid:1001000277360": 52,
+      "gas:candidate-vibid:323300370648": 46,
+      "gas:candidate-vibid:323300370368": 83,
+      "gas:candidate-vibid:1001000225915": 72,
+      "gas:candidate-vibid:1001000136018": 44,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 106,
+      "gas:candidate-vibid:1001000250439": 4,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 10,
-      "Глотов Сергей Александрович": 84,
-      "Измайлов Владимир Закирович": 135,
-      "Казаков Борис Анушеванович": 144,
-      "Каракай Михаил Сергеевич": 103,
-      "Кряжева Юлия Евгеньевна": 27,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 123,
-      "Макаров Сергей Андреевич": 19,
-      "Против всех": 136
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 10,
+      "gas:candidate-vibid:1001000277360": 84,
+      "gas:candidate-vibid:323300370648": 135,
+      "gas:candidate-vibid:323300370368": 144,
+      "gas:candidate-vibid:1001000225915": 103,
+      "gas:candidate-vibid:1001000136018": 27,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 123,
+      "gas:candidate-vibid:1001000250439": 19,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 46,
-      "Глотов Сергей Александрович": 228,
-      "Измайлов Владимир Закирович": 80,
-      "Казаков Борис Анушеванович": 210,
-      "Каракай Михаил Сергеевич": 182,
-      "Кряжева Юлия Евгеньевна": 75,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 130,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 319
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 46,
+      "gas:candidate-vibid:1001000277360": 228,
+      "gas:candidate-vibid:323300370648": 80,
+      "gas:candidate-vibid:323300370368": 210,
+      "gas:candidate-vibid:1001000225915": 182,
+      "gas:candidate-vibid:1001000136018": 75,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 130,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 24,
-      "Бабин Станислав Иванович": 109,
-      "Глотов Сергей Александрович": 237,
-      "Измайлов Владимир Закирович": 100,
-      "Казаков Борис Анушеванович": 293,
-      "Каракай Михаил Сергеевич": 235,
-      "Кряжева Юлия Евгеньевна": 131,
-      "Куркин Станислав Гаврилович": 27,
-      "Лошкарев Геннадий Леонидович": 178,
-      "Макаров Сергей Андреевич": 50,
-      "Против всех": 458
+      "gas:candidate-vibid:323300370365": 24,
+      "gas:candidate-vibid:1001000113910": 109,
+      "gas:candidate-vibid:1001000277360": 237,
+      "gas:candidate-vibid:323300370648": 100,
+      "gas:candidate-vibid:323300370368": 293,
+      "gas:candidate-vibid:1001000225915": 235,
+      "gas:candidate-vibid:1001000136018": 131,
+      "gas:candidate-vibid:1001000254930": 27,
+      "gas:candidate-vibid:1001000121815": 178,
+      "gas:candidate-vibid:1001000250439": 50,
+      "special:against-all": 458
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 31,
-      "Бабин Станислав Иванович": 51,
-      "Глотов Сергей Александрович": 156,
-      "Измайлов Владимир Закирович": 142,
-      "Казаков Борис Анушеванович": 253,
-      "Каракай Михаил Сергеевич": 205,
-      "Кряжева Юлия Евгеньевна": 105,
-      "Куркин Станислав Гаврилович": 14,
-      "Лошкарев Геннадий Леонидович": 269,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 244
+      "gas:candidate-vibid:323300370365": 31,
+      "gas:candidate-vibid:1001000113910": 51,
+      "gas:candidate-vibid:1001000277360": 156,
+      "gas:candidate-vibid:323300370648": 142,
+      "gas:candidate-vibid:323300370368": 253,
+      "gas:candidate-vibid:1001000225915": 205,
+      "gas:candidate-vibid:1001000136018": 105,
+      "gas:candidate-vibid:1001000254930": 14,
+      "gas:candidate-vibid:1001000121815": 269,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 40,
-      "Глотов Сергей Александрович": 136,
-      "Измайлов Владимир Закирович": 122,
-      "Казаков Борис Анушеванович": 193,
-      "Каракай Михаил Сергеевич": 205,
-      "Кряжева Юлия Евгеньевна": 71,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 253,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 155
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 40,
+      "gas:candidate-vibid:1001000277360": 136,
+      "gas:candidate-vibid:323300370648": 122,
+      "gas:candidate-vibid:323300370368": 193,
+      "gas:candidate-vibid:1001000225915": 205,
+      "gas:candidate-vibid:1001000136018": 71,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 253,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 52,
-      "Бабин Станислав Иванович": 76,
-      "Глотов Сергей Александрович": 170,
-      "Измайлов Владимир Закирович": 368,
-      "Казаков Борис Анушеванович": 231,
-      "Каракай Михаил Сергеевич": 263,
-      "Кряжева Юлия Евгеньевна": 179,
-      "Куркин Станислав Гаврилович": 27,
-      "Лошкарев Геннадий Леонидович": 154,
-      "Макаров Сергей Андреевич": 43,
-      "Против всех": 496
+      "gas:candidate-vibid:323300370365": 52,
+      "gas:candidate-vibid:1001000113910": 76,
+      "gas:candidate-vibid:1001000277360": 170,
+      "gas:candidate-vibid:323300370648": 368,
+      "gas:candidate-vibid:323300370368": 231,
+      "gas:candidate-vibid:1001000225915": 263,
+      "gas:candidate-vibid:1001000136018": 179,
+      "gas:candidate-vibid:1001000254930": 27,
+      "gas:candidate-vibid:1001000121815": 154,
+      "gas:candidate-vibid:1001000250439": 43,
+      "special:against-all": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 53,
-      "Глотов Сергей Александрович": 201,
-      "Измайлов Владимир Закирович": 124,
-      "Казаков Борис Анушеванович": 162,
-      "Каракай Михаил Сергеевич": 193,
-      "Кряжева Юлия Евгеньевна": 53,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 266,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 215
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 53,
+      "gas:candidate-vibid:1001000277360": 201,
+      "gas:candidate-vibid:323300370648": 124,
+      "gas:candidate-vibid:323300370368": 162,
+      "gas:candidate-vibid:1001000225915": 193,
+      "gas:candidate-vibid:1001000136018": 53,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 266,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 42,
-      "Глотов Сергей Александрович": 181,
-      "Измайлов Владимир Закирович": 122,
-      "Казаков Борис Анушеванович": 218,
-      "Каракай Михаил Сергеевич": 216,
-      "Кряжева Юлия Евгеньевна": 91,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 235,
-      "Макаров Сергей Андреевич": 36,
-      "Против всех": 245
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 42,
+      "gas:candidate-vibid:1001000277360": 181,
+      "gas:candidate-vibid:323300370648": 122,
+      "gas:candidate-vibid:323300370368": 218,
+      "gas:candidate-vibid:1001000225915": 216,
+      "gas:candidate-vibid:1001000136018": 91,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 235,
+      "gas:candidate-vibid:1001000250439": 36,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 72,
-      "Глотов Сергей Александрович": 217,
-      "Измайлов Владимир Закирович": 69,
-      "Казаков Борис Анушеванович": 207,
-      "Каракай Михаил Сергеевич": 231,
-      "Кряжева Юлия Евгеньевна": 62,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 182,
-      "Макаров Сергей Андреевич": 33,
-      "Против всех": 214
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 72,
+      "gas:candidate-vibid:1001000277360": 217,
+      "gas:candidate-vibid:323300370648": 69,
+      "gas:candidate-vibid:323300370368": 207,
+      "gas:candidate-vibid:1001000225915": 231,
+      "gas:candidate-vibid:1001000136018": 62,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 182,
+      "gas:candidate-vibid:1001000250439": 33,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 80,
-      "Глотов Сергей Александрович": 181,
-      "Измайлов Владимир Закирович": 114,
-      "Казаков Борис Анушеванович": 308,
-      "Каракай Михаил Сергеевич": 252,
-      "Кряжева Юлия Евгеньевна": 73,
-      "Куркин Станислав Гаврилович": 18,
-      "Лошкарев Геннадий Леонидович": 161,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 284
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 80,
+      "gas:candidate-vibid:1001000277360": 181,
+      "gas:candidate-vibid:323300370648": 114,
+      "gas:candidate-vibid:323300370368": 308,
+      "gas:candidate-vibid:1001000225915": 252,
+      "gas:candidate-vibid:1001000136018": 73,
+      "gas:candidate-vibid:1001000254930": 18,
+      "gas:candidate-vibid:1001000121815": 161,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 15,
-      "Бабин Станислав Иванович": 56,
-      "Глотов Сергей Александрович": 153,
-      "Измайлов Владимир Закирович": 111,
-      "Казаков Борис Анушеванович": 197,
-      "Каракай Михаил Сергеевич": 210,
-      "Кряжева Юлия Евгеньевна": 58,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 280,
-      "Макаров Сергей Андреевич": 52,
-      "Против всех": 184
+      "gas:candidate-vibid:323300370365": 15,
+      "gas:candidate-vibid:1001000113910": 56,
+      "gas:candidate-vibid:1001000277360": 153,
+      "gas:candidate-vibid:323300370648": 111,
+      "gas:candidate-vibid:323300370368": 197,
+      "gas:candidate-vibid:1001000225915": 210,
+      "gas:candidate-vibid:1001000136018": 58,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 280,
+      "gas:candidate-vibid:1001000250439": 52,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 52,
-      "Глотов Сергей Александрович": 131,
-      "Измайлов Владимир Закирович": 116,
-      "Казаков Борис Анушеванович": 206,
-      "Каракай Михаил Сергеевич": 171,
-      "Кряжева Юлия Евгеньевна": 43,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 197,
-      "Макаров Сергей Андреевич": 42,
-      "Против всех": 187
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 52,
+      "gas:candidate-vibid:1001000277360": 131,
+      "gas:candidate-vibid:323300370648": 116,
+      "gas:candidate-vibid:323300370368": 206,
+      "gas:candidate-vibid:1001000225915": 171,
+      "gas:candidate-vibid:1001000136018": 43,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 197,
+      "gas:candidate-vibid:1001000250439": 42,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 53,
-      "Глотов Сергей Александрович": 169,
-      "Измайлов Владимир Закирович": 106,
-      "Казаков Борис Анушеванович": 203,
-      "Каракай Михаил Сергеевич": 216,
-      "Кряжева Юлия Евгеньевна": 55,
-      "Куркин Станислав Гаврилович": 11,
-      "Лошкарев Геннадий Леонидович": 278,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 181
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 53,
+      "gas:candidate-vibid:1001000277360": 169,
+      "gas:candidate-vibid:323300370648": 106,
+      "gas:candidate-vibid:323300370368": 203,
+      "gas:candidate-vibid:1001000225915": 216,
+      "gas:candidate-vibid:1001000136018": 55,
+      "gas:candidate-vibid:1001000254930": 11,
+      "gas:candidate-vibid:1001000121815": 278,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 38,
-      "Глотов Сергей Александрович": 208,
-      "Измайлов Владимир Закирович": 114,
-      "Казаков Борис Анушеванович": 200,
-      "Каракай Михаил Сергеевич": 232,
-      "Кряжева Юлия Евгеньевна": 64,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 224,
-      "Макаров Сергей Андреевич": 26,
-      "Против всех": 174
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 38,
+      "gas:candidate-vibid:1001000277360": 208,
+      "gas:candidate-vibid:323300370648": 114,
+      "gas:candidate-vibid:323300370368": 200,
+      "gas:candidate-vibid:1001000225915": 232,
+      "gas:candidate-vibid:1001000136018": 64,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 224,
+      "gas:candidate-vibid:1001000250439": 26,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 15,
-      "Бабин Станислав Иванович": 70,
-      "Глотов Сергей Александрович": 226,
-      "Измайлов Владимир Закирович": 115,
-      "Казаков Борис Анушеванович": 215,
-      "Каракай Михаил Сергеевич": 218,
-      "Кряжева Юлия Евгеньевна": 44,
-      "Куркин Станислав Гаврилович": 14,
-      "Лошкарев Геннадий Леонидович": 248,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 257
+      "gas:candidate-vibid:323300370365": 15,
+      "gas:candidate-vibid:1001000113910": 70,
+      "gas:candidate-vibid:1001000277360": 226,
+      "gas:candidate-vibid:323300370648": 115,
+      "gas:candidate-vibid:323300370368": 215,
+      "gas:candidate-vibid:1001000225915": 218,
+      "gas:candidate-vibid:1001000136018": 44,
+      "gas:candidate-vibid:1001000254930": 14,
+      "gas:candidate-vibid:1001000121815": 248,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 62,
-      "Глотов Сергей Александрович": 145,
-      "Измайлов Владимир Закирович": 150,
-      "Казаков Борис Анушеванович": 176,
-      "Каракай Михаил Сергеевич": 171,
-      "Кряжева Юлия Евгеньевна": 47,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 188,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 184
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 62,
+      "gas:candidate-vibid:1001000277360": 145,
+      "gas:candidate-vibid:323300370648": 150,
+      "gas:candidate-vibid:323300370368": 176,
+      "gas:candidate-vibid:1001000225915": 171,
+      "gas:candidate-vibid:1001000136018": 47,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 188,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 53,
-      "Глотов Сергей Александрович": 141,
-      "Измайлов Владимир Закирович": 129,
-      "Казаков Борис Анушеванович": 218,
-      "Каракай Михаил Сергеевич": 203,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 121,
-      "Макаров Сергей Андреевич": 26,
-      "Против всех": 211
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 53,
+      "gas:candidate-vibid:1001000277360": 141,
+      "gas:candidate-vibid:323300370648": 129,
+      "gas:candidate-vibid:323300370368": 218,
+      "gas:candidate-vibid:1001000225915": 203,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 121,
+      "gas:candidate-vibid:1001000250439": 26,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 42,
-      "Глотов Сергей Александрович": 138,
-      "Измайлов Владимир Закирович": 166,
-      "Казаков Борис Анушеванович": 183,
-      "Каракай Михаил Сергеевич": 196,
-      "Кряжева Юлия Евгеньевна": 49,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 153,
-      "Макаров Сергей Андреевич": 36,
-      "Против всех": 191
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 42,
+      "gas:candidate-vibid:1001000277360": 138,
+      "gas:candidate-vibid:323300370648": 166,
+      "gas:candidate-vibid:323300370368": 183,
+      "gas:candidate-vibid:1001000225915": 196,
+      "gas:candidate-vibid:1001000136018": 49,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 153,
+      "gas:candidate-vibid:1001000250439": 36,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 55,
-      "Глотов Сергей Александрович": 169,
-      "Измайлов Владимир Закирович": 118,
-      "Казаков Борис Анушеванович": 226,
-      "Каракай Михаил Сергеевич": 220,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 185,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 171
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 55,
+      "gas:candidate-vibid:1001000277360": 169,
+      "gas:candidate-vibid:323300370648": 118,
+      "gas:candidate-vibid:323300370368": 226,
+      "gas:candidate-vibid:1001000225915": 220,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 185,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 201,
-      "Измайлов Владимир Закирович": 132,
-      "Казаков Борис Анушеванович": 199,
-      "Каракай Михаил Сергеевич": 179,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 211,
-      "Макаров Сергей Андреевич": 28,
-      "Против всех": 170
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 201,
+      "gas:candidate-vibid:323300370648": 132,
+      "gas:candidate-vibid:323300370368": 199,
+      "gas:candidate-vibid:1001000225915": 179,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 211,
+      "gas:candidate-vibid:1001000250439": 28,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 27,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 87,
-      "Измайлов Владимир Закирович": 124,
-      "Казаков Борис Анушеванович": 194,
-      "Каракай Михаил Сергеевич": 173,
-      "Кряжева Юлия Евгеньевна": 49,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 139,
-      "Макаров Сергей Андреевич": 20,
-      "Против всех": 192
+      "gas:candidate-vibid:323300370365": 27,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 87,
+      "gas:candidate-vibid:323300370648": 124,
+      "gas:candidate-vibid:323300370368": 194,
+      "gas:candidate-vibid:1001000225915": 173,
+      "gas:candidate-vibid:1001000136018": 49,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 139,
+      "gas:candidate-vibid:1001000250439": 20,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 39,
-      "Глотов Сергей Александрович": 163,
-      "Измайлов Владимир Закирович": 101,
-      "Казаков Борис Анушеванович": 194,
-      "Каракай Михаил Сергеевич": 178,
-      "Кряжева Юлия Евгеньевна": 64,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 161,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 187
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 39,
+      "gas:candidate-vibid:1001000277360": 163,
+      "gas:candidate-vibid:323300370648": 101,
+      "gas:candidate-vibid:323300370368": 194,
+      "gas:candidate-vibid:1001000225915": 178,
+      "gas:candidate-vibid:1001000136018": 64,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 161,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 47,
-      "Глотов Сергей Александрович": 121,
-      "Измайлов Владимир Закирович": 70,
-      "Казаков Борис Анушеванович": 111,
-      "Каракай Михаил Сергеевич": 129,
-      "Кряжева Юлия Евгеньевна": 39,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 137,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 128
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 47,
+      "gas:candidate-vibid:1001000277360": 121,
+      "gas:candidate-vibid:323300370648": 70,
+      "gas:candidate-vibid:323300370368": 111,
+      "gas:candidate-vibid:1001000225915": 129,
+      "gas:candidate-vibid:1001000136018": 39,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 137,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 40,
-      "Глотов Сергей Александрович": 135,
-      "Измайлов Владимир Закирович": 190,
-      "Казаков Борис Анушеванович": 122,
-      "Каракай Михаил Сергеевич": 211,
-      "Кряжева Юлия Евгеньевна": 56,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 218,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 170
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 40,
+      "gas:candidate-vibid:1001000277360": 135,
+      "gas:candidate-vibid:323300370648": 190,
+      "gas:candidate-vibid:323300370368": 122,
+      "gas:candidate-vibid:1001000225915": 211,
+      "gas:candidate-vibid:1001000136018": 56,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 218,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 21,
-      "Бабин Станислав Иванович": 58,
-      "Глотов Сергей Александрович": 146,
-      "Измайлов Владимир Закирович": 125,
-      "Казаков Борис Анушеванович": 220,
-      "Каракай Михаил Сергеевич": 205,
-      "Кряжева Юлия Евгеньевна": 71,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 218,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 185
+      "gas:candidate-vibid:323300370365": 21,
+      "gas:candidate-vibid:1001000113910": 58,
+      "gas:candidate-vibid:1001000277360": 146,
+      "gas:candidate-vibid:323300370648": 125,
+      "gas:candidate-vibid:323300370368": 220,
+      "gas:candidate-vibid:1001000225915": 205,
+      "gas:candidate-vibid:1001000136018": 71,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 218,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 133,
-      "Измайлов Владимир Закирович": 150,
-      "Казаков Борис Анушеванович": 167,
-      "Каракай Михаил Сергеевич": 225,
-      "Кряжева Юлия Евгеньевна": 81,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 260,
-      "Макаров Сергей Андреевич": 24,
-      "Против всех": 139
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 133,
+      "gas:candidate-vibid:323300370648": 150,
+      "gas:candidate-vibid:323300370368": 167,
+      "gas:candidate-vibid:1001000225915": 225,
+      "gas:candidate-vibid:1001000136018": 81,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 260,
+      "gas:candidate-vibid:1001000250439": 24,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 47,
-      "Глотов Сергей Александрович": 181,
-      "Измайлов Владимир Закирович": 102,
-      "Казаков Борис Анушеванович": 259,
-      "Каракай Михаил Сергеевич": 204,
-      "Кряжева Юлия Евгеньевна": 73,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 219,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 273
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 47,
+      "gas:candidate-vibid:1001000277360": 181,
+      "gas:candidate-vibid:323300370648": 102,
+      "gas:candidate-vibid:323300370368": 259,
+      "gas:candidate-vibid:1001000225915": 204,
+      "gas:candidate-vibid:1001000136018": 73,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 219,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 166,
-      "Измайлов Владимир Закирович": 145,
-      "Казаков Борис Анушеванович": 251,
-      "Каракай Михаил Сергеевич": 188,
-      "Кряжева Юлия Евгеньевна": 69,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 190,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 201
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 166,
+      "gas:candidate-vibid:323300370648": 145,
+      "gas:candidate-vibid:323300370368": 251,
+      "gas:candidate-vibid:1001000225915": 188,
+      "gas:candidate-vibid:1001000136018": 69,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 190,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 21,
-      "Бабин Станислав Иванович": 60,
-      "Глотов Сергей Александрович": 223,
-      "Измайлов Владимир Закирович": 111,
-      "Казаков Борис Анушеванович": 310,
-      "Каракай Михаил Сергеевич": 322,
-      "Кряжева Юлия Евгеньевна": 195,
-      "Куркин Станислав Гаврилович": 15,
-      "Лошкарев Геннадий Леонидович": 109,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 793
+      "gas:candidate-vibid:323300370365": 21,
+      "gas:candidate-vibid:1001000113910": 60,
+      "gas:candidate-vibid:1001000277360": 223,
+      "gas:candidate-vibid:323300370648": 111,
+      "gas:candidate-vibid:323300370368": 310,
+      "gas:candidate-vibid:1001000225915": 322,
+      "gas:candidate-vibid:1001000136018": 195,
+      "gas:candidate-vibid:1001000254930": 15,
+      "gas:candidate-vibid:1001000121815": 109,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 90,
-      "Глотов Сергей Александрович": 257,
-      "Измайлов Владимир Закирович": 111,
-      "Казаков Борис Анушеванович": 307,
-      "Каракай Михаил Сергеевич": 304,
-      "Кряжева Юлия Евгеньевна": 91,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 249,
-      "Макаров Сергей Андреевич": 56,
-      "Против всех": 482
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 90,
+      "gas:candidate-vibid:1001000277360": 257,
+      "gas:candidate-vibid:323300370648": 111,
+      "gas:candidate-vibid:323300370368": 307,
+      "gas:candidate-vibid:1001000225915": 304,
+      "gas:candidate-vibid:1001000136018": 91,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 249,
+      "gas:candidate-vibid:1001000250439": 56,
+      "special:against-all": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 81,
-      "Глотов Сергей Александрович": 251,
-      "Измайлов Владимир Закирович": 142,
-      "Казаков Борис Анушеванович": 269,
-      "Каракай Михаил Сергеевич": 257,
-      "Кряжева Юлия Евгеньевна": 97,
-      "Куркин Станислав Гаврилович": 20,
-      "Лошкарев Геннадий Леонидович": 221,
-      "Макаров Сергей Андреевич": 42,
-      "Против всех": 277
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 81,
+      "gas:candidate-vibid:1001000277360": 251,
+      "gas:candidate-vibid:323300370648": 142,
+      "gas:candidate-vibid:323300370368": 269,
+      "gas:candidate-vibid:1001000225915": 257,
+      "gas:candidate-vibid:1001000136018": 97,
+      "gas:candidate-vibid:1001000254930": 20,
+      "gas:candidate-vibid:1001000121815": 221,
+      "gas:candidate-vibid:1001000250439": 42,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 39,
-      "Глотов Сергей Александрович": 159,
-      "Измайлов Владимир Закирович": 161,
-      "Казаков Борис Анушеванович": 239,
-      "Каракай Михаил Сергеевич": 184,
-      "Кряжева Юлия Евгеньевна": 40,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 260,
-      "Макаров Сергей Андреевич": 35,
-      "Против всех": 205
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 39,
+      "gas:candidate-vibid:1001000277360": 159,
+      "gas:candidate-vibid:323300370648": 161,
+      "gas:candidate-vibid:323300370368": 239,
+      "gas:candidate-vibid:1001000225915": 184,
+      "gas:candidate-vibid:1001000136018": 40,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 260,
+      "gas:candidate-vibid:1001000250439": 35,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 105,
-      "Измайлов Владимир Закирович": 144,
-      "Казаков Борис Анушеванович": 180,
-      "Каракай Михаил Сергеевич": 195,
-      "Кряжева Юлия Евгеньевна": 64,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 243,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 139
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 105,
+      "gas:candidate-vibid:323300370648": 144,
+      "gas:candidate-vibid:323300370368": 180,
+      "gas:candidate-vibid:1001000225915": 195,
+      "gas:candidate-vibid:1001000136018": 64,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 243,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 9,
-      "Бабин Станислав Иванович": 23,
-      "Глотов Сергей Александрович": 129,
-      "Измайлов Владимир Закирович": 75,
-      "Казаков Борис Анушеванович": 243,
-      "Каракай Михаил Сергеевич": 181,
-      "Кряжева Юлия Евгеньевна": 62,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 264,
-      "Макаров Сергей Андреевич": 43,
-      "Против всех": 182
+      "gas:candidate-vibid:323300370365": 9,
+      "gas:candidate-vibid:1001000113910": 23,
+      "gas:candidate-vibid:1001000277360": 129,
+      "gas:candidate-vibid:323300370648": 75,
+      "gas:candidate-vibid:323300370368": 243,
+      "gas:candidate-vibid:1001000225915": 181,
+      "gas:candidate-vibid:1001000136018": 62,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 264,
+      "gas:candidate-vibid:1001000250439": 43,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 34,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 101,
-      "Измайлов Владимир Закирович": 197,
-      "Казаков Борис Анушеванович": 244,
-      "Каракай Михаил Сергеевич": 192,
-      "Кряжева Юлия Евгеньевна": 62,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 230,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 187
+      "gas:candidate-vibid:323300370365": 34,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 101,
+      "gas:candidate-vibid:323300370648": 197,
+      "gas:candidate-vibid:323300370368": 244,
+      "gas:candidate-vibid:1001000225915": 192,
+      "gas:candidate-vibid:1001000136018": 62,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 230,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 36,
-      "Бабин Станислав Иванович": 17,
-      "Глотов Сергей Александрович": 78,
-      "Измайлов Владимир Закирович": 145,
-      "Казаков Борис Анушеванович": 189,
-      "Каракай Михаил Сергеевич": 192,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 250,
-      "Макаров Сергей Андреевич": 14,
-      "Против всех": 109
+      "gas:candidate-vibid:323300370365": 36,
+      "gas:candidate-vibid:1001000113910": 17,
+      "gas:candidate-vibid:1001000277360": 78,
+      "gas:candidate-vibid:323300370648": 145,
+      "gas:candidate-vibid:323300370368": 189,
+      "gas:candidate-vibid:1001000225915": 192,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 250,
+      "gas:candidate-vibid:1001000250439": 14,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 18,
-      "Бабин Станислав Иванович": 17,
-      "Глотов Сергей Александрович": 92,
-      "Измайлов Владимир Закирович": 178,
-      "Казаков Борис Анушеванович": 163,
-      "Каракай Михаил Сергеевич": 127,
-      "Кряжева Юлия Евгеньевна": 31,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 157,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 111
+      "gas:candidate-vibid:323300370365": 18,
+      "gas:candidate-vibid:1001000113910": 17,
+      "gas:candidate-vibid:1001000277360": 92,
+      "gas:candidate-vibid:323300370648": 178,
+      "gas:candidate-vibid:323300370368": 163,
+      "gas:candidate-vibid:1001000225915": 127,
+      "gas:candidate-vibid:1001000136018": 31,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 157,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 25,
-      "Глотов Сергей Александрович": 120,
-      "Измайлов Владимир Закирович": 123,
-      "Казаков Борис Анушеванович": 157,
-      "Каракай Михаил Сергеевич": 168,
-      "Кряжева Юлия Евгеньевна": 51,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 340,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 171
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 25,
+      "gas:candidate-vibid:1001000277360": 120,
+      "gas:candidate-vibid:323300370648": 123,
+      "gas:candidate-vibid:323300370368": 157,
+      "gas:candidate-vibid:1001000225915": 168,
+      "gas:candidate-vibid:1001000136018": 51,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 340,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 33,
-      "Глотов Сергей Александрович": 112,
-      "Измайлов Владимир Закирович": 145,
-      "Казаков Борис Анушеванович": 181,
-      "Каракай Михаил Сергеевич": 275,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 445,
-      "Макаров Сергей Андреевич": 28,
-      "Против всех": 164
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 33,
+      "gas:candidate-vibid:1001000277360": 112,
+      "gas:candidate-vibid:323300370648": 145,
+      "gas:candidate-vibid:323300370368": 181,
+      "gas:candidate-vibid:1001000225915": 275,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 445,
+      "gas:candidate-vibid:1001000250439": 28,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 25,
-      "Бабин Станислав Иванович": 36,
-      "Глотов Сергей Александрович": 78,
-      "Измайлов Владимир Закирович": 232,
-      "Казаков Борис Анушеванович": 210,
-      "Каракай Михаил Сергеевич": 207,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 19,
-      "Лошкарев Геннадий Леонидович": 312,
-      "Макаров Сергей Андреевич": 20,
-      "Против всех": 160
+      "gas:candidate-vibid:323300370365": 25,
+      "gas:candidate-vibid:1001000113910": 36,
+      "gas:candidate-vibid:1001000277360": 78,
+      "gas:candidate-vibid:323300370648": 232,
+      "gas:candidate-vibid:323300370368": 210,
+      "gas:candidate-vibid:1001000225915": 207,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 19,
+      "gas:candidate-vibid:1001000121815": 312,
+      "gas:candidate-vibid:1001000250439": 20,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 236,
-      "Измайлов Владимир Закирович": 257,
-      "Казаков Борис Анушеванович": 144,
-      "Каракай Михаил Сергеевич": 122,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 199,
-      "Макаров Сергей Андреевич": 25,
-      "Против всех": 187
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 236,
+      "gas:candidate-vibid:323300370648": 257,
+      "gas:candidate-vibid:323300370368": 144,
+      "gas:candidate-vibid:1001000225915": 122,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 199,
+      "gas:candidate-vibid:1001000250439": 25,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 16,
-      "Глотов Сергей Александрович": 113,
-      "Измайлов Владимир Закирович": 189,
-      "Казаков Борис Анушеванович": 102,
-      "Каракай Михаил Сергеевич": 97,
-      "Кряжева Юлия Евгеньевна": 33,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 103,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 127
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 16,
+      "gas:candidate-vibid:1001000277360": 113,
+      "gas:candidate-vibid:323300370648": 189,
+      "gas:candidate-vibid:323300370368": 102,
+      "gas:candidate-vibid:1001000225915": 97,
+      "gas:candidate-vibid:1001000136018": 33,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 103,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 19,
-      "Бабин Станислав Иванович": 25,
-      "Глотов Сергей Александрович": 94,
-      "Измайлов Владимир Закирович": 133,
-      "Казаков Борис Анушеванович": 139,
-      "Каракай Михаил Сергеевич": 141,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 172,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 102
+      "gas:candidate-vibid:323300370365": 19,
+      "gas:candidate-vibid:1001000113910": 25,
+      "gas:candidate-vibid:1001000277360": 94,
+      "gas:candidate-vibid:323300370648": 133,
+      "gas:candidate-vibid:323300370368": 139,
+      "gas:candidate-vibid:1001000225915": 141,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 172,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 1,
-      "Глотов Сергей Александрович": 22,
-      "Измайлов Владимир Закирович": 14,
-      "Казаков Борис Анушеванович": 43,
-      "Каракай Михаил Сергеевич": 16,
-      "Кряжева Юлия Евгеньевна": 6,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 6,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 1,
+      "gas:candidate-vibid:1001000277360": 22,
+      "gas:candidate-vibid:323300370648": 14,
+      "gas:candidate-vibid:323300370368": 43,
+      "gas:candidate-vibid:1001000225915": 16,
+      "gas:candidate-vibid:1001000136018": 6,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 6,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 3,
-      "Глотов Сергей Александрович": 14,
-      "Измайлов Владимир Закирович": 4,
-      "Казаков Борис Анушеванович": 13,
-      "Каракай Михаил Сергеевич": 5,
-      "Кряжева Юлия Евгеньевна": 1,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 4,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 3,
+      "gas:candidate-vibid:1001000277360": 14,
+      "gas:candidate-vibid:323300370648": 4,
+      "gas:candidate-vibid:323300370368": 13,
+      "gas:candidate-vibid:1001000225915": 5,
+      "gas:candidate-vibid:1001000136018": 1,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 4,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 12,
-      "Глотов Сергей Александрович": 5,
-      "Измайлов Владимир Закирович": 25,
-      "Казаков Борис Анушеванович": 95,
-      "Каракай Михаил Сергеевич": 14,
-      "Кряжева Юлия Евгеньевна": 8,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 5,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 12,
+      "gas:candidate-vibid:1001000277360": 5,
+      "gas:candidate-vibid:323300370648": 25,
+      "gas:candidate-vibid:323300370368": 95,
+      "gas:candidate-vibid:1001000225915": 14,
+      "gas:candidate-vibid:1001000136018": 8,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 5,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 5,
-      "Глотов Сергей Александрович": 1,
-      "Измайлов Владимир Закирович": 2,
-      "Казаков Борис Анушеванович": 18,
-      "Каракай Михаил Сергеевич": 6,
-      "Кряжева Юлия Евгеньевна": 2,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 6,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 5,
+      "gas:candidate-vibid:1001000277360": 1,
+      "gas:candidate-vibid:323300370648": 2,
+      "gas:candidate-vibid:323300370368": 18,
+      "gas:candidate-vibid:1001000225915": 6,
+      "gas:candidate-vibid:1001000136018": 2,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 6,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070395&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 40,
-      "Глотов Сергей Александрович": 52,
-      "Измайлов Владимир Закирович": 147,
-      "Казаков Борис Анушеванович": 97,
-      "Каракай Михаил Сергеевич": 143,
-      "Кряжева Юлия Евгеньевна": 22,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 166,
-      "Макаров Сергей Андреевич": 20,
-      "Против всех": 116
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 40,
+      "gas:candidate-vibid:1001000277360": 52,
+      "gas:candidate-vibid:323300370648": 147,
+      "gas:candidate-vibid:323300370368": 97,
+      "gas:candidate-vibid:1001000225915": 143,
+      "gas:candidate-vibid:1001000136018": 22,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 166,
+      "gas:candidate-vibid:1001000250439": 20,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 44,
-      "Глотов Сергей Александрович": 132,
-      "Измайлов Владимир Закирович": 218,
-      "Казаков Борис Анушеванович": 176,
-      "Каракай Михаил Сергеевич": 168,
-      "Кряжева Юлия Евгеньевна": 47,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 181,
-      "Макаров Сергей Андреевич": 34,
-      "Против всех": 180
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 44,
+      "gas:candidate-vibid:1001000277360": 132,
+      "gas:candidate-vibid:323300370648": 218,
+      "gas:candidate-vibid:323300370368": 176,
+      "gas:candidate-vibid:1001000225915": 168,
+      "gas:candidate-vibid:1001000136018": 47,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 181,
+      "gas:candidate-vibid:1001000250439": 34,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 33,
-      "Бабин Станислав Иванович": 125,
-      "Глотов Сергей Александрович": 192,
-      "Измайлов Владимир Закирович": 204,
-      "Казаков Борис Анушеванович": 245,
-      "Каракай Михаил Сергеевич": 325,
-      "Кряжева Юлия Евгеньевна": 142,
-      "Куркин Станислав Гаврилович": 15,
-      "Лошкарев Геннадий Леонидович": 209,
-      "Макаров Сергей Андреевич": 85,
-      "Против всех": 369
+      "gas:candidate-vibid:323300370365": 33,
+      "gas:candidate-vibid:1001000113910": 125,
+      "gas:candidate-vibid:1001000277360": 192,
+      "gas:candidate-vibid:323300370648": 204,
+      "gas:candidate-vibid:323300370368": 245,
+      "gas:candidate-vibid:1001000225915": 325,
+      "gas:candidate-vibid:1001000136018": 142,
+      "gas:candidate-vibid:1001000254930": 15,
+      "gas:candidate-vibid:1001000121815": 209,
+      "gas:candidate-vibid:1001000250439": 85,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 189,
-      "Измайлов Владимир Закирович": 119,
-      "Казаков Борис Анушеванович": 200,
-      "Каракай Михаил Сергеевич": 241,
-      "Кряжева Юлия Евгеньевна": 53,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 247,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 204
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 189,
+      "gas:candidate-vibid:323300370648": 119,
+      "gas:candidate-vibid:323300370368": 200,
+      "gas:candidate-vibid:1001000225915": 241,
+      "gas:candidate-vibid:1001000136018": 53,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 247,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 57,
-      "Глотов Сергей Александрович": 134,
-      "Измайлов Владимир Закирович": 194,
-      "Казаков Борис Анушеванович": 205,
-      "Каракай Михаил Сергеевич": 152,
-      "Кряжева Юлия Евгеньевна": 48,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 239,
-      "Макаров Сергей Андреевич": 24,
-      "Против всех": 194
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 57,
+      "gas:candidate-vibid:1001000277360": 134,
+      "gas:candidate-vibid:323300370648": 194,
+      "gas:candidate-vibid:323300370368": 205,
+      "gas:candidate-vibid:1001000225915": 152,
+      "gas:candidate-vibid:1001000136018": 48,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 239,
+      "gas:candidate-vibid:1001000250439": 24,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 59,
-      "Глотов Сергей Александрович": 186,
-      "Измайлов Владимир Закирович": 118,
-      "Казаков Борис Анушеванович": 177,
-      "Каракай Михаил Сергеевич": 163,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 201,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 196
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 59,
+      "gas:candidate-vibid:1001000277360": 186,
+      "gas:candidate-vibid:323300370648": 118,
+      "gas:candidate-vibid:323300370368": 177,
+      "gas:candidate-vibid:1001000225915": 163,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 201,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 154,
-      "Измайлов Владимир Закирович": 183,
-      "Казаков Борис Анушеванович": 249,
-      "Каракай Михаил Сергеевич": 168,
-      "Кряжева Юлия Евгеньевна": 38,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 156,
-      "Макаров Сергей Андреевич": 20,
-      "Против всех": 202
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 154,
+      "gas:candidate-vibid:323300370648": 183,
+      "gas:candidate-vibid:323300370368": 249,
+      "gas:candidate-vibid:1001000225915": 168,
+      "gas:candidate-vibid:1001000136018": 38,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 156,
+      "gas:candidate-vibid:1001000250439": 20,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 26,
-      "Бабин Станислав Иванович": 34,
-      "Глотов Сергей Александрович": 128,
-      "Измайлов Владимир Закирович": 142,
-      "Казаков Борис Анушеванович": 205,
-      "Каракай Михаил Сергеевич": 153,
-      "Кряжева Юлия Евгеньевна": 48,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 141,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 217
+      "gas:candidate-vibid:323300370365": 26,
+      "gas:candidate-vibid:1001000113910": 34,
+      "gas:candidate-vibid:1001000277360": 128,
+      "gas:candidate-vibid:323300370648": 142,
+      "gas:candidate-vibid:323300370368": 205,
+      "gas:candidate-vibid:1001000225915": 153,
+      "gas:candidate-vibid:1001000136018": 48,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 141,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 29,
-      "Глотов Сергей Александрович": 104,
-      "Измайлов Владимир Закирович": 65,
-      "Казаков Борис Анушеванович": 121,
-      "Каракай Михаил Сергеевич": 118,
-      "Кряжева Юлия Евгеньевна": 32,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 75,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 119
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 29,
+      "gas:candidate-vibid:1001000277360": 104,
+      "gas:candidate-vibid:323300370648": 65,
+      "gas:candidate-vibid:323300370368": 121,
+      "gas:candidate-vibid:1001000225915": 118,
+      "gas:candidate-vibid:1001000136018": 32,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 75,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 149,
-      "Измайлов Владимир Закирович": 102,
-      "Казаков Борис Анушеванович": 195,
-      "Каракай Михаил Сергеевич": 168,
-      "Кряжева Юлия Евгеньевна": 48,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 139,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 170
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 149,
+      "gas:candidate-vibid:323300370648": 102,
+      "gas:candidate-vibid:323300370368": 195,
+      "gas:candidate-vibid:1001000225915": 168,
+      "gas:candidate-vibid:1001000136018": 48,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 139,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 29,
-      "Бабин Станислав Иванович": 70,
-      "Глотов Сергей Александрович": 198,
-      "Измайлов Владимир Закирович": 177,
-      "Казаков Борис Анушеванович": 149,
-      "Каракай Михаил Сергеевич": 180,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 178,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 153
+      "gas:candidate-vibid:323300370365": 29,
+      "gas:candidate-vibid:1001000113910": 70,
+      "gas:candidate-vibid:1001000277360": 198,
+      "gas:candidate-vibid:323300370648": 177,
+      "gas:candidate-vibid:323300370368": 149,
+      "gas:candidate-vibid:1001000225915": 180,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 178,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 25,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 154,
-      "Измайлов Владимир Закирович": 158,
-      "Казаков Борис Анушеванович": 193,
-      "Каракай Михаил Сергеевич": 162,
-      "Кряжева Юлия Евгеньевна": 63,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 100,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 175
+      "gas:candidate-vibid:323300370365": 25,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 154,
+      "gas:candidate-vibid:323300370648": 158,
+      "gas:candidate-vibid:323300370368": 193,
+      "gas:candidate-vibid:1001000225915": 162,
+      "gas:candidate-vibid:1001000136018": 63,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 100,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 37,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 123,
-      "Измайлов Владимир Закирович": 208,
-      "Казаков Борис Анушеванович": 171,
-      "Каракай Михаил Сергеевич": 165,
-      "Кряжева Юлия Евгеньевна": 55,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 122,
-      "Макаров Сергей Андреевич": 24,
-      "Против всех": 211
+      "gas:candidate-vibid:323300370365": 37,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 123,
+      "gas:candidate-vibid:323300370648": 208,
+      "gas:candidate-vibid:323300370368": 171,
+      "gas:candidate-vibid:1001000225915": 165,
+      "gas:candidate-vibid:1001000136018": 55,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 122,
+      "gas:candidate-vibid:1001000250439": 24,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 21,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 94,
-      "Измайлов Владимир Закирович": 195,
-      "Казаков Борис Анушеванович": 119,
-      "Каракай Михаил Сергеевич": 130,
-      "Кряжева Юлия Евгеньевна": 13,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 97,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 130
+      "gas:candidate-vibid:323300370365": 21,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 94,
+      "gas:candidate-vibid:323300370648": 195,
+      "gas:candidate-vibid:323300370368": 119,
+      "gas:candidate-vibid:1001000225915": 130,
+      "gas:candidate-vibid:1001000136018": 13,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 97,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 35,
-      "Бабин Станислав Иванович": 60,
-      "Глотов Сергей Александрович": 164,
-      "Измайлов Владимир Закирович": 103,
-      "Казаков Борис Анушеванович": 161,
-      "Каракай Михаил Сергеевич": 261,
-      "Кряжева Юлия Евгеньевна": 63,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 108,
-      "Макаров Сергей Андреевич": 35,
-      "Против всех": 232
+      "gas:candidate-vibid:323300370365": 35,
+      "gas:candidate-vibid:1001000113910": 60,
+      "gas:candidate-vibid:1001000277360": 164,
+      "gas:candidate-vibid:323300370648": 103,
+      "gas:candidate-vibid:323300370368": 161,
+      "gas:candidate-vibid:1001000225915": 261,
+      "gas:candidate-vibid:1001000136018": 63,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 108,
+      "gas:candidate-vibid:1001000250439": 35,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 17,
-      "Бабин Станислав Иванович": 45,
-      "Глотов Сергей Александрович": 176,
-      "Измайлов Владимир Закирович": 104,
-      "Казаков Борис Анушеванович": 206,
-      "Каракай Михаил Сергеевич": 206,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 11,
-      "Лошкарев Геннадий Леонидович": 165,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 234
+      "gas:candidate-vibid:323300370365": 17,
+      "gas:candidate-vibid:1001000113910": 45,
+      "gas:candidate-vibid:1001000277360": 176,
+      "gas:candidate-vibid:323300370648": 104,
+      "gas:candidate-vibid:323300370368": 206,
+      "gas:candidate-vibid:1001000225915": 206,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 11,
+      "gas:candidate-vibid:1001000121815": 165,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 36,
-      "Глотов Сергей Александрович": 265,
-      "Измайлов Владимир Закирович": 57,
-      "Казаков Борис Анушеванович": 148,
-      "Каракай Михаил Сергеевич": 189,
-      "Кряжева Юлия Евгеньевна": 36,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 172,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 234
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 36,
+      "gas:candidate-vibid:1001000277360": 265,
+      "gas:candidate-vibid:323300370648": 57,
+      "gas:candidate-vibid:323300370368": 148,
+      "gas:candidate-vibid:1001000225915": 189,
+      "gas:candidate-vibid:1001000136018": 36,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 172,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 40,
-      "Бабин Станислав Иванович": 57,
-      "Глотов Сергей Александрович": 237,
-      "Измайлов Владимир Закирович": 74,
-      "Казаков Борис Анушеванович": 155,
-      "Каракай Михаил Сергеевич": 467,
-      "Кряжева Юлия Евгеньевна": 116,
-      "Куркин Станислав Гаврилович": 32,
-      "Лошкарев Геннадий Леонидович": 151,
-      "Макаров Сергей Андреевич": 59,
-      "Против всех": 300
+      "gas:candidate-vibid:323300370365": 40,
+      "gas:candidate-vibid:1001000113910": 57,
+      "gas:candidate-vibid:1001000277360": 237,
+      "gas:candidate-vibid:323300370648": 74,
+      "gas:candidate-vibid:323300370368": 155,
+      "gas:candidate-vibid:1001000225915": 467,
+      "gas:candidate-vibid:1001000136018": 116,
+      "gas:candidate-vibid:1001000254930": 32,
+      "gas:candidate-vibid:1001000121815": 151,
+      "gas:candidate-vibid:1001000250439": 59,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 59,
-      "Глотов Сергей Александрович": 194,
-      "Измайлов Владимир Закирович": 78,
-      "Казаков Борис Анушеванович": 209,
-      "Каракай Михаил Сергеевич": 238,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 207,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 201
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 59,
+      "gas:candidate-vibid:1001000277360": 194,
+      "gas:candidate-vibid:323300370648": 78,
+      "gas:candidate-vibid:323300370368": 209,
+      "gas:candidate-vibid:1001000225915": 238,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 207,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 22,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 217,
-      "Измайлов Владимир Закирович": 118,
-      "Казаков Борис Анушеванович": 195,
-      "Каракай Михаил Сергеевич": 164,
-      "Кряжева Юлия Евгеньевна": 37,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 135,
-      "Макаров Сергей Андреевич": 20,
-      "Против всех": 203
+      "gas:candidate-vibid:323300370365": 22,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 217,
+      "gas:candidate-vibid:323300370648": 118,
+      "gas:candidate-vibid:323300370368": 195,
+      "gas:candidate-vibid:1001000225915": 164,
+      "gas:candidate-vibid:1001000136018": 37,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 135,
+      "gas:candidate-vibid:1001000250439": 20,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 45,
-      "Глотов Сергей Александрович": 163,
-      "Измайлов Владимир Закирович": 115,
-      "Казаков Борис Анушеванович": 201,
-      "Каракай Михаил Сергеевич": 198,
-      "Кряжева Юлия Евгеньевна": 55,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 161,
-      "Макаров Сергей Андреевич": 33,
-      "Против всех": 181
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 45,
+      "gas:candidate-vibid:1001000277360": 163,
+      "gas:candidate-vibid:323300370648": 115,
+      "gas:candidate-vibid:323300370368": 201,
+      "gas:candidate-vibid:1001000225915": 198,
+      "gas:candidate-vibid:1001000136018": 55,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 161,
+      "gas:candidate-vibid:1001000250439": 33,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 8,
-      "Бабин Станислав Иванович": 60,
-      "Глотов Сергей Александрович": 200,
-      "Измайлов Владимир Закирович": 120,
-      "Казаков Борис Анушеванович": 316,
-      "Каракай Михаил Сергеевич": 186,
-      "Кряжева Юлия Евгеньевна": 60,
-      "Куркин Станислав Гаврилович": 17,
-      "Лошкарев Геннадий Леонидович": 241,
-      "Макаров Сергей Андреевич": 31,
-      "Против всех": 207
+      "gas:candidate-vibid:323300370365": 8,
+      "gas:candidate-vibid:1001000113910": 60,
+      "gas:candidate-vibid:1001000277360": 200,
+      "gas:candidate-vibid:323300370648": 120,
+      "gas:candidate-vibid:323300370368": 316,
+      "gas:candidate-vibid:1001000225915": 186,
+      "gas:candidate-vibid:1001000136018": 60,
+      "gas:candidate-vibid:1001000254930": 17,
+      "gas:candidate-vibid:1001000121815": 241,
+      "gas:candidate-vibid:1001000250439": 31,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 27,
-      "Бабин Станислав Иванович": 29,
-      "Глотов Сергей Александрович": 61,
-      "Измайлов Владимир Закирович": 74,
-      "Казаков Борис Анушеванович": 132,
-      "Каракай Михаил Сергеевич": 128,
-      "Кряжева Юлия Евгеньевна": 41,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 92,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 128
+      "gas:candidate-vibid:323300370365": 27,
+      "gas:candidate-vibid:1001000113910": 29,
+      "gas:candidate-vibid:1001000277360": 61,
+      "gas:candidate-vibid:323300370648": 74,
+      "gas:candidate-vibid:323300370368": 132,
+      "gas:candidate-vibid:1001000225915": 128,
+      "gas:candidate-vibid:1001000136018": 41,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 92,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 58,
-      "Глотов Сергей Александрович": 177,
-      "Измайлов Владимир Закирович": 104,
-      "Казаков Борис Анушеванович": 257,
-      "Каракай Михаил Сергеевич": 221,
-      "Кряжева Юлия Евгеньевна": 68,
-      "Куркин Станислав Гаврилович": 11,
-      "Лошкарев Геннадий Леонидович": 159,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 232
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 58,
+      "gas:candidate-vibid:1001000277360": 177,
+      "gas:candidate-vibid:323300370648": 104,
+      "gas:candidate-vibid:323300370368": 257,
+      "gas:candidate-vibid:1001000225915": 221,
+      "gas:candidate-vibid:1001000136018": 68,
+      "gas:candidate-vibid:1001000254930": 11,
+      "gas:candidate-vibid:1001000121815": 159,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 22,
-      "Бабин Станислав Иванович": 41,
-      "Глотов Сергей Александрович": 136,
-      "Измайлов Владимир Закирович": 72,
-      "Казаков Борис Анушеванович": 188,
-      "Каракай Михаил Сергеевич": 191,
-      "Кряжева Юлия Евгеньевна": 46,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 118,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 179
+      "gas:candidate-vibid:323300370365": 22,
+      "gas:candidate-vibid:1001000113910": 41,
+      "gas:candidate-vibid:1001000277360": 136,
+      "gas:candidate-vibid:323300370648": 72,
+      "gas:candidate-vibid:323300370368": 188,
+      "gas:candidate-vibid:1001000225915": 191,
+      "gas:candidate-vibid:1001000136018": 46,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 118,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 53,
-      "Глотов Сергей Александрович": 92,
-      "Измайлов Владимир Закирович": 61,
-      "Казаков Борис Анушеванович": 132,
-      "Каракай Михаил Сергеевич": 149,
-      "Кряжева Юлия Евгеньевна": 33,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 161,
-      "Макаров Сергей Андреевич": 19,
-      "Против всех": 118
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 53,
+      "gas:candidate-vibid:1001000277360": 92,
+      "gas:candidate-vibid:323300370648": 61,
+      "gas:candidate-vibid:323300370368": 132,
+      "gas:candidate-vibid:1001000225915": 149,
+      "gas:candidate-vibid:1001000136018": 33,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 161,
+      "gas:candidate-vibid:1001000250439": 19,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 114,
-      "Измайлов Владимир Закирович": 142,
-      "Казаков Борис Анушеванович": 183,
-      "Каракай Михаил Сергеевич": 181,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 177,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 156
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 114,
+      "gas:candidate-vibid:323300370648": 142,
+      "gas:candidate-vibid:323300370368": 183,
+      "gas:candidate-vibid:1001000225915": 181,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 177,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 244,
-      "Измайлов Владимир Закирович": 138,
-      "Казаков Борис Анушеванович": 276,
-      "Каракай Михаил Сергеевич": 202,
-      "Кряжева Юлия Евгеньевна": 56,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 235,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 231
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 244,
+      "gas:candidate-vibid:323300370648": 138,
+      "gas:candidate-vibid:323300370368": 276,
+      "gas:candidate-vibid:1001000225915": 202,
+      "gas:candidate-vibid:1001000136018": 56,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 235,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 51,
-      "Глотов Сергей Александрович": 248,
-      "Измайлов Владимир Закирович": 119,
-      "Казаков Борис Анушеванович": 319,
-      "Каракай Михаил Сергеевич": 211,
-      "Кряжева Юлия Евгеньевна": 64,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 172,
-      "Макаров Сергей Андреевич": 37,
-      "Против всех": 235
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 51,
+      "gas:candidate-vibid:1001000277360": 248,
+      "gas:candidate-vibid:323300370648": 119,
+      "gas:candidate-vibid:323300370368": 319,
+      "gas:candidate-vibid:1001000225915": 211,
+      "gas:candidate-vibid:1001000136018": 64,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 172,
+      "gas:candidate-vibid:1001000250439": 37,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 57,
-      "Глотов Сергей Александрович": 187,
-      "Измайлов Владимир Закирович": 259,
-      "Казаков Борис Анушеванович": 201,
-      "Каракай Михаил Сергеевич": 194,
-      "Кряжева Юлия Евгеньевна": 71,
-      "Куркин Станислав Гаврилович": 14,
-      "Лошкарев Геннадий Леонидович": 215,
-      "Макаров Сергей Андреевич": 31,
-      "Против всех": 233
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 57,
+      "gas:candidate-vibid:1001000277360": 187,
+      "gas:candidate-vibid:323300370648": 259,
+      "gas:candidate-vibid:323300370368": 201,
+      "gas:candidate-vibid:1001000225915": 194,
+      "gas:candidate-vibid:1001000136018": 71,
+      "gas:candidate-vibid:1001000254930": 14,
+      "gas:candidate-vibid:1001000121815": 215,
+      "gas:candidate-vibid:1001000250439": 31,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 28,
-      "Глотов Сергей Александрович": 89,
-      "Измайлов Владимир Закирович": 116,
-      "Казаков Борис Анушеванович": 113,
-      "Каракай Михаил Сергеевич": 105,
-      "Кряжева Юлия Евгеньевна": 36,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 152,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 151
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 28,
+      "gas:candidate-vibid:1001000277360": 89,
+      "gas:candidate-vibid:323300370648": 116,
+      "gas:candidate-vibid:323300370368": 113,
+      "gas:candidate-vibid:1001000225915": 105,
+      "gas:candidate-vibid:1001000136018": 36,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 152,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 181,
-      "Измайлов Владимир Закирович": 140,
-      "Казаков Борис Анушеванович": 166,
-      "Каракай Михаил Сергеевич": 171,
-      "Кряжева Юлия Евгеньевна": 55,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 152,
-      "Макаров Сергей Андреевич": 17,
-      "Против всех": 242
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 181,
+      "gas:candidate-vibid:323300370648": 140,
+      "gas:candidate-vibid:323300370368": 166,
+      "gas:candidate-vibid:1001000225915": 171,
+      "gas:candidate-vibid:1001000136018": 55,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 152,
+      "gas:candidate-vibid:1001000250439": 17,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 175,
-      "Измайлов Владимир Закирович": 145,
-      "Казаков Борис Анушеванович": 180,
-      "Каракай Михаил Сергеевич": 219,
-      "Кряжева Юлия Евгеньевна": 63,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 179,
-      "Макаров Сергей Андреевич": 37,
-      "Против всех": 205
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 175,
+      "gas:candidate-vibid:323300370648": 145,
+      "gas:candidate-vibid:323300370368": 180,
+      "gas:candidate-vibid:1001000225915": 219,
+      "gas:candidate-vibid:1001000136018": 63,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 179,
+      "gas:candidate-vibid:1001000250439": 37,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 29,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 171,
-      "Измайлов Владимир Закирович": 88,
-      "Казаков Борис Анушеванович": 146,
-      "Каракай Михаил Сергеевич": 130,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 92,
-      "Макаров Сергей Андреевич": 25,
-      "Против всех": 133
+      "gas:candidate-vibid:323300370365": 29,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 171,
+      "gas:candidate-vibid:323300370648": 88,
+      "gas:candidate-vibid:323300370368": 146,
+      "gas:candidate-vibid:1001000225915": 130,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 92,
+      "gas:candidate-vibid:1001000250439": 25,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 12,
-      "Бабин Станислав Иванович": 50,
-      "Глотов Сергей Александрович": 198,
-      "Измайлов Владимир Закирович": 185,
-      "Казаков Борис Анушеванович": 212,
-      "Каракай Михаил Сергеевич": 264,
-      "Кряжева Юлия Евгеньевна": 87,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 210,
-      "Макаров Сергей Андреевич": 38,
-      "Против всех": 297
+      "gas:candidate-vibid:323300370365": 12,
+      "gas:candidate-vibid:1001000113910": 50,
+      "gas:candidate-vibid:1001000277360": 198,
+      "gas:candidate-vibid:323300370648": 185,
+      "gas:candidate-vibid:323300370368": 212,
+      "gas:candidate-vibid:1001000225915": 264,
+      "gas:candidate-vibid:1001000136018": 87,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 210,
+      "gas:candidate-vibid:1001000250439": 38,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 120,
-      "Измайлов Владимир Закирович": 117,
-      "Казаков Борис Анушеванович": 172,
-      "Каракай Михаил Сергеевич": 189,
-      "Кряжева Юлия Евгеньевна": 49,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 150,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 191
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 120,
+      "gas:candidate-vibid:323300370648": 117,
+      "gas:candidate-vibid:323300370368": 172,
+      "gas:candidate-vibid:1001000225915": 189,
+      "gas:candidate-vibid:1001000136018": 49,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 150,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 46,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 135,
-      "Измайлов Владимир Закирович": 95,
-      "Казаков Борис Анушеванович": 202,
-      "Каракай Михаил Сергеевич": 145,
-      "Кряжева Юлия Евгеньевна": 54,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 117,
-      "Макаров Сергей Андреевич": 14,
-      "Против всех": 157
+      "gas:candidate-vibid:323300370365": 46,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 135,
+      "gas:candidate-vibid:323300370648": 95,
+      "gas:candidate-vibid:323300370368": 202,
+      "gas:candidate-vibid:1001000225915": 145,
+      "gas:candidate-vibid:1001000136018": 54,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 117,
+      "gas:candidate-vibid:1001000250439": 14,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 55,
-      "Бабин Станислав Иванович": 40,
-      "Глотов Сергей Александрович": 149,
-      "Измайлов Владимир Закирович": 135,
-      "Казаков Борис Анушеванович": 244,
-      "Каракай Михаил Сергеевич": 137,
-      "Кряжева Юлия Евгеньевна": 57,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 122,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 159
+      "gas:candidate-vibid:323300370365": 55,
+      "gas:candidate-vibid:1001000113910": 40,
+      "gas:candidate-vibid:1001000277360": 149,
+      "gas:candidate-vibid:323300370648": 135,
+      "gas:candidate-vibid:323300370368": 244,
+      "gas:candidate-vibid:1001000225915": 137,
+      "gas:candidate-vibid:1001000136018": 57,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 122,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 38,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 154,
-      "Измайлов Владимир Закирович": 152,
-      "Казаков Борис Анушеванович": 219,
-      "Каракай Михаил Сергеевич": 205,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 151,
-      "Макаров Сергей Андреевич": 19,
-      "Против всех": 224
+      "gas:candidate-vibid:323300370365": 38,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 154,
+      "gas:candidate-vibid:323300370648": 152,
+      "gas:candidate-vibid:323300370368": 219,
+      "gas:candidate-vibid:1001000225915": 205,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 151,
+      "gas:candidate-vibid:1001000250439": 19,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 34,
-      "Бабин Станислав Иванович": 18,
-      "Глотов Сергей Александрович": 83,
-      "Измайлов Владимир Закирович": 81,
-      "Казаков Борис Анушеванович": 104,
-      "Каракай Михаил Сергеевич": 96,
-      "Кряжева Юлия Евгеньевна": 34,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 75,
-      "Макаров Сергей Андреевич": 14,
-      "Против всех": 89
+      "gas:candidate-vibid:323300370365": 34,
+      "gas:candidate-vibid:1001000113910": 18,
+      "gas:candidate-vibid:1001000277360": 83,
+      "gas:candidate-vibid:323300370648": 81,
+      "gas:candidate-vibid:323300370368": 104,
+      "gas:candidate-vibid:1001000225915": 96,
+      "gas:candidate-vibid:1001000136018": 34,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 75,
+      "gas:candidate-vibid:1001000250439": 14,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 42,
-      "Бабин Станислав Иванович": 18,
-      "Глотов Сергей Александрович": 123,
-      "Измайлов Владимир Закирович": 74,
-      "Казаков Борис Анушеванович": 132,
-      "Каракай Михаил Сергеевич": 174,
-      "Кряжева Юлия Евгеньевна": 36,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 123,
-      "Макаров Сергей Андреевич": 16,
-      "Против всех": 142
+      "gas:candidate-vibid:323300370365": 42,
+      "gas:candidate-vibid:1001000113910": 18,
+      "gas:candidate-vibid:1001000277360": 123,
+      "gas:candidate-vibid:323300370648": 74,
+      "gas:candidate-vibid:323300370368": 132,
+      "gas:candidate-vibid:1001000225915": 174,
+      "gas:candidate-vibid:1001000136018": 36,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 123,
+      "gas:candidate-vibid:1001000250439": 16,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 73,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 130,
-      "Измайлов Владимир Закирович": 94,
-      "Казаков Борис Анушеванович": 230,
-      "Каракай Михаил Сергеевич": 187,
-      "Кряжева Юлия Евгеньевна": 43,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 160,
-      "Макаров Сергей Андреевич": 34,
-      "Против всех": 198
+      "gas:candidate-vibid:323300370365": 73,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 130,
+      "gas:candidate-vibid:323300370648": 94,
+      "gas:candidate-vibid:323300370368": 230,
+      "gas:candidate-vibid:1001000225915": 187,
+      "gas:candidate-vibid:1001000136018": 43,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 160,
+      "gas:candidate-vibid:1001000250439": 34,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 32,
-      "Бабин Станислав Иванович": 36,
-      "Глотов Сергей Александрович": 194,
-      "Измайлов Владимир Закирович": 174,
-      "Казаков Борис Анушеванович": 256,
-      "Каракай Михаил Сергеевич": 171,
-      "Кряжева Юлия Евгеньевна": 77,
-      "Куркин Станислав Гаврилович": 10,
-      "Лошкарев Геннадий Леонидович": 147,
-      "Макаров Сергей Андреевич": 26,
-      "Против всех": 265
+      "gas:candidate-vibid:323300370365": 32,
+      "gas:candidate-vibid:1001000113910": 36,
+      "gas:candidate-vibid:1001000277360": 194,
+      "gas:candidate-vibid:323300370648": 174,
+      "gas:candidate-vibid:323300370368": 256,
+      "gas:candidate-vibid:1001000225915": 171,
+      "gas:candidate-vibid:1001000136018": 77,
+      "gas:candidate-vibid:1001000254930": 10,
+      "gas:candidate-vibid:1001000121815": 147,
+      "gas:candidate-vibid:1001000250439": 26,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 25,
-      "Бабин Станислав Иванович": 17,
-      "Глотов Сергей Александрович": 64,
-      "Измайлов Владимир Закирович": 136,
-      "Казаков Борис Анушеванович": 91,
-      "Каракай Михаил Сергеевич": 98,
-      "Кряжева Юлия Евгеньевна": 29,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 77,
-      "Макаров Сергей Андреевич": 11,
-      "Против всех": 148
+      "gas:candidate-vibid:323300370365": 25,
+      "gas:candidate-vibid:1001000113910": 17,
+      "gas:candidate-vibid:1001000277360": 64,
+      "gas:candidate-vibid:323300370648": 136,
+      "gas:candidate-vibid:323300370368": 91,
+      "gas:candidate-vibid:1001000225915": 98,
+      "gas:candidate-vibid:1001000136018": 29,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 77,
+      "gas:candidate-vibid:1001000250439": 11,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 70,
-      "Глотов Сергей Александрович": 182,
-      "Измайлов Владимир Закирович": 155,
-      "Казаков Борис Анушеванович": 213,
-      "Каракай Михаил Сергеевич": 209,
-      "Кряжева Юлия Евгеньевна": 53,
-      "Куркин Станислав Гаврилович": 12,
-      "Лошкарев Геннадий Леонидович": 160,
-      "Макаров Сергей Андреевич": 38,
-      "Против всех": 252
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 70,
+      "gas:candidate-vibid:1001000277360": 182,
+      "gas:candidate-vibid:323300370648": 155,
+      "gas:candidate-vibid:323300370368": 213,
+      "gas:candidate-vibid:1001000225915": 209,
+      "gas:candidate-vibid:1001000136018": 53,
+      "gas:candidate-vibid:1001000254930": 12,
+      "gas:candidate-vibid:1001000121815": 160,
+      "gas:candidate-vibid:1001000250439": 38,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 74,
-      "Глотов Сергей Александрович": 208,
-      "Измайлов Владимир Закирович": 139,
-      "Казаков Борис Анушеванович": 201,
-      "Каракай Михаил Сергеевич": 260,
-      "Кряжева Юлия Евгеньевна": 90,
-      "Куркин Станислав Гаврилович": 15,
-      "Лошкарев Геннадий Леонидович": 180,
-      "Макаров Сергей Андреевич": 36,
-      "Против всех": 262
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 74,
+      "gas:candidate-vibid:1001000277360": 208,
+      "gas:candidate-vibid:323300370648": 139,
+      "gas:candidate-vibid:323300370368": 201,
+      "gas:candidate-vibid:1001000225915": 260,
+      "gas:candidate-vibid:1001000136018": 90,
+      "gas:candidate-vibid:1001000254930": 15,
+      "gas:candidate-vibid:1001000121815": 180,
+      "gas:candidate-vibid:1001000250439": 36,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 56,
-      "Глотов Сергей Александрович": 194,
-      "Измайлов Владимир Закирович": 211,
-      "Казаков Борис Анушеванович": 174,
-      "Каракай Михаил Сергеевич": 195,
-      "Кряжева Юлия Евгеньевна": 83,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 107,
-      "Макаров Сергей Андреевич": 30,
-      "Против всех": 289
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 56,
+      "gas:candidate-vibid:1001000277360": 194,
+      "gas:candidate-vibid:323300370648": 211,
+      "gas:candidate-vibid:323300370368": 174,
+      "gas:candidate-vibid:1001000225915": 195,
+      "gas:candidate-vibid:1001000136018": 83,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 107,
+      "gas:candidate-vibid:1001000250439": 30,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 11,
-      "Бабин Станислав Иванович": 52,
-      "Глотов Сергей Александрович": 198,
-      "Измайлов Владимир Закирович": 232,
-      "Казаков Борис Анушеванович": 162,
-      "Каракай Михаил Сергеевич": 217,
-      "Кряжева Юлия Евгеньевна": 65,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 139,
-      "Макаров Сергей Андреевич": 43,
-      "Против всех": 256
+      "gas:candidate-vibid:323300370365": 11,
+      "gas:candidate-vibid:1001000113910": 52,
+      "gas:candidate-vibid:1001000277360": 198,
+      "gas:candidate-vibid:323300370648": 232,
+      "gas:candidate-vibid:323300370368": 162,
+      "gas:candidate-vibid:1001000225915": 217,
+      "gas:candidate-vibid:1001000136018": 65,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 139,
+      "gas:candidate-vibid:1001000250439": 43,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 222,
-      "Измайлов Владимир Закирович": 202,
-      "Казаков Борис Анушеванович": 192,
-      "Каракай Михаил Сергеевич": 209,
-      "Кряжева Юлия Евгеньевна": 75,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 166,
-      "Макаров Сергей Андреевич": 37,
-      "Против всех": 237
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 222,
+      "gas:candidate-vibid:323300370648": 202,
+      "gas:candidate-vibid:323300370368": 192,
+      "gas:candidate-vibid:1001000225915": 209,
+      "gas:candidate-vibid:1001000136018": 75,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 166,
+      "gas:candidate-vibid:1001000250439": 37,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 51,
-      "Глотов Сергей Александрович": 288,
-      "Измайлов Владимир Закирович": 240,
-      "Казаков Борис Анушеванович": 199,
-      "Каракай Михаил Сергеевич": 223,
-      "Кряжева Юлия Евгеньевна": 57,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 143,
-      "Макаров Сергей Андреевич": 39,
-      "Против всех": 231
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 51,
+      "gas:candidate-vibid:1001000277360": 288,
+      "gas:candidate-vibid:323300370648": 240,
+      "gas:candidate-vibid:323300370368": 199,
+      "gas:candidate-vibid:1001000225915": 223,
+      "gas:candidate-vibid:1001000136018": 57,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 143,
+      "gas:candidate-vibid:1001000250439": 39,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 45,
-      "Глотов Сергей Александрович": 172,
-      "Измайлов Владимир Закирович": 97,
-      "Казаков Борис Анушеванович": 116,
-      "Каракай Михаил Сергеевич": 148,
-      "Кряжева Юлия Евгеньевна": 51,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 95,
-      "Макаров Сергей Андреевич": 34,
-      "Против всех": 181
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 45,
+      "gas:candidate-vibid:1001000277360": 172,
+      "gas:candidate-vibid:323300370648": 97,
+      "gas:candidate-vibid:323300370368": 116,
+      "gas:candidate-vibid:1001000225915": 148,
+      "gas:candidate-vibid:1001000136018": 51,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 95,
+      "gas:candidate-vibid:1001000250439": 34,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 13,
-      "Бабин Станислав Иванович": 42,
-      "Глотов Сергей Александрович": 167,
-      "Измайлов Владимир Закирович": 136,
-      "Казаков Борис Анушеванович": 156,
-      "Каракай Михаил Сергеевич": 170,
-      "Кряжева Юлия Евгеньевна": 81,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 112,
-      "Макаров Сергей Андреевич": 18,
-      "Против всех": 248
+      "gas:candidate-vibid:323300370365": 13,
+      "gas:candidate-vibid:1001000113910": 42,
+      "gas:candidate-vibid:1001000277360": 167,
+      "gas:candidate-vibid:323300370648": 136,
+      "gas:candidate-vibid:323300370368": 156,
+      "gas:candidate-vibid:1001000225915": 170,
+      "gas:candidate-vibid:1001000136018": 81,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 112,
+      "gas:candidate-vibid:1001000250439": 18,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 38,
-      "Глотов Сергей Александрович": 194,
-      "Измайлов Владимир Закирович": 132,
-      "Казаков Борис Анушеванович": 130,
-      "Каракай Михаил Сергеевич": 230,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 105,
-      "Макаров Сергей Андреевич": 27,
-      "Против всех": 229
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 38,
+      "gas:candidate-vibid:1001000277360": 194,
+      "gas:candidate-vibid:323300370648": 132,
+      "gas:candidate-vibid:323300370368": 130,
+      "gas:candidate-vibid:1001000225915": 230,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 105,
+      "gas:candidate-vibid:1001000250439": 27,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 69,
-      "Глотов Сергей Александрович": 172,
-      "Измайлов Владимир Закирович": 148,
-      "Казаков Борис Анушеванович": 117,
-      "Каракай Михаил Сергеевич": 185,
-      "Кряжева Юлия Евгеньевна": 87,
-      "Куркин Станислав Гаврилович": 11,
-      "Лошкарев Геннадий Леонидович": 89,
-      "Макаров Сергей Андреевич": 29,
-      "Против всех": 224
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 69,
+      "gas:candidate-vibid:1001000277360": 172,
+      "gas:candidate-vibid:323300370648": 148,
+      "gas:candidate-vibid:323300370368": 117,
+      "gas:candidate-vibid:1001000225915": 185,
+      "gas:candidate-vibid:1001000136018": 87,
+      "gas:candidate-vibid:1001000254930": 11,
+      "gas:candidate-vibid:1001000121815": 89,
+      "gas:candidate-vibid:1001000250439": 29,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 8,
-      "Глотов Сергей Александрович": 6,
-      "Измайлов Владимир Закирович": 2,
-      "Казаков Борис Анушеванович": 13,
-      "Каракай Михаил Сергеевич": 6,
-      "Кряжева Юлия Евгеньевна": 16,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 4,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 56
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 8,
+      "gas:candidate-vibid:1001000277360": 6,
+      "gas:candidate-vibid:323300370648": 2,
+      "gas:candidate-vibid:323300370368": 13,
+      "gas:candidate-vibid:1001000225915": 6,
+      "gas:candidate-vibid:1001000136018": 16,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 4,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 0,
-      "Глотов Сергей Александрович": 0,
-      "Измайлов Владимир Закирович": 1,
-      "Казаков Борис Анушеванович": 3,
-      "Каракай Михаил Сергеевич": 3,
-      "Кряжева Юлия Евгеньевна": 2,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 0,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 0,
+      "gas:candidate-vibid:1001000277360": 0,
+      "gas:candidate-vibid:323300370648": 1,
+      "gas:candidate-vibid:323300370368": 3,
+      "gas:candidate-vibid:1001000225915": 3,
+      "gas:candidate-vibid:1001000136018": 2,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 0,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 2,
-      "Глотов Сергей Александрович": 3,
-      "Измайлов Владимир Закирович": 0,
-      "Казаков Борис Анушеванович": 6,
-      "Каракай Михаил Сергеевич": 3,
-      "Кряжева Юлия Евгеньевна": 4,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 5,
-      "Макаров Сергей Андреевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 2,
+      "gas:candidate-vibid:1001000277360": 3,
+      "gas:candidate-vibid:323300370648": 0,
+      "gas:candidate-vibid:323300370368": 6,
+      "gas:candidate-vibid:1001000225915": 3,
+      "gas:candidate-vibid:1001000136018": 4,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 5,
+      "gas:candidate-vibid:1001000250439": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 0,
-      "Глотов Сергей Александрович": 2,
-      "Измайлов Владимир Закирович": 1,
-      "Казаков Борис Анушеванович": 2,
-      "Каракай Михаил Сергеевич": 3,
-      "Кряжева Юлия Евгеньевна": 0,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 0,
-      "Макаров Сергей Андреевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 0,
+      "gas:candidate-vibid:1001000277360": 2,
+      "gas:candidate-vibid:323300370648": 1,
+      "gas:candidate-vibid:323300370368": 2,
+      "gas:candidate-vibid:1001000225915": 3,
+      "gas:candidate-vibid:1001000136018": 0,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 0,
+      "gas:candidate-vibid:1001000250439": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 3,
-      "Глотов Сергей Александрович": 20,
-      "Измайлов Владимир Закирович": 7,
-      "Казаков Борис Анушеванович": 12,
-      "Каракай Михаил Сергеевич": 6,
-      "Кряжева Юлия Евгеньевна": 1,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 26,
-      "Макаров Сергей Андреевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 3,
+      "gas:candidate-vibid:1001000277360": 20,
+      "gas:candidate-vibid:323300370648": 7,
+      "gas:candidate-vibid:323300370368": 12,
+      "gas:candidate-vibid:1001000225915": 6,
+      "gas:candidate-vibid:1001000136018": 1,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 26,
+      "gas:candidate-vibid:1001000250439": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 0,
-      "Глотов Сергей Александрович": 7,
-      "Измайлов Владимир Закирович": 3,
-      "Казаков Борис Анушеванович": 11,
-      "Каракай Михаил Сергеевич": 2,
-      "Кряжева Юлия Евгеньевна": 3,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 0,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 0,
+      "gas:candidate-vibid:1001000277360": 7,
+      "gas:candidate-vibid:323300370648": 3,
+      "gas:candidate-vibid:323300370368": 11,
+      "gas:candidate-vibid:1001000225915": 2,
+      "gas:candidate-vibid:1001000136018": 3,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 0,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070396&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 46,
-      "Глотов Сергей Александрович": 68,
-      "Измайлов Владимир Закирович": 209,
-      "Казаков Борис Анушеванович": 204,
-      "Каракай Михаил Сергеевич": 77,
-      "Кряжева Юлия Евгеньевна": 32,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 102,
-      "Макаров Сергей Андреевич": 4,
-      "Против всех": 94
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 46,
+      "gas:candidate-vibid:1001000277360": 68,
+      "gas:candidate-vibid:323300370648": 209,
+      "gas:candidate-vibid:323300370368": 204,
+      "gas:candidate-vibid:1001000225915": 77,
+      "gas:candidate-vibid:1001000136018": 32,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 102,
+      "gas:candidate-vibid:1001000250439": 4,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 68,
-      "Глотов Сергей Александрович": 158,
-      "Измайлов Владимир Закирович": 273,
-      "Казаков Борис Анушеванович": 359,
-      "Каракай Михаил Сергеевич": 183,
-      "Кряжева Юлия Евгеньевна": 77,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 165,
-      "Макаров Сергей Андреевич": 22,
-      "Против всех": 161
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 68,
+      "gas:candidate-vibid:1001000277360": 158,
+      "gas:candidate-vibid:323300370648": 273,
+      "gas:candidate-vibid:323300370368": 359,
+      "gas:candidate-vibid:1001000225915": 183,
+      "gas:candidate-vibid:1001000136018": 77,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 165,
+      "gas:candidate-vibid:1001000250439": 22,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 71,
-      "Глотов Сергей Александрович": 99,
-      "Измайлов Владимир Закирович": 202,
-      "Казаков Борис Анушеванович": 283,
-      "Каракай Михаил Сергеевич": 148,
-      "Кряжева Юлия Евгеньевна": 67,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 143,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 137
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 71,
+      "gas:candidate-vibid:1001000277360": 99,
+      "gas:candidate-vibid:323300370648": 202,
+      "gas:candidate-vibid:323300370368": 283,
+      "gas:candidate-vibid:1001000225915": 148,
+      "gas:candidate-vibid:1001000136018": 67,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 143,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 42,
-      "Глотов Сергей Александрович": 56,
-      "Измайлов Владимир Закирович": 130,
-      "Казаков Борис Анушеванович": 132,
-      "Каракай Михаил Сергеевич": 51,
-      "Кряжева Юлия Евгеньевна": 28,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 69,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 73
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 42,
+      "gas:candidate-vibid:1001000277360": 56,
+      "gas:candidate-vibid:323300370648": 130,
+      "gas:candidate-vibid:323300370368": 132,
+      "gas:candidate-vibid:1001000225915": 51,
+      "gas:candidate-vibid:1001000136018": 28,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 69,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 55,
-      "Глотов Сергей Александрович": 35,
-      "Измайлов Владимир Закирович": 125,
-      "Казаков Борис Анушеванович": 160,
-      "Каракай Михаил Сергеевич": 106,
-      "Кряжева Юлия Евгеньевна": 30,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 100,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 82
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 55,
+      "gas:candidate-vibid:1001000277360": 35,
+      "gas:candidate-vibid:323300370648": 125,
+      "gas:candidate-vibid:323300370368": 160,
+      "gas:candidate-vibid:1001000225915": 106,
+      "gas:candidate-vibid:1001000136018": 30,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 100,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 39,
-      "Измайлов Владимир Закирович": 96,
-      "Казаков Борис Анушеванович": 206,
-      "Каракай Михаил Сергеевич": 112,
-      "Кряжева Юлия Евгеньевна": 40,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 91,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 39,
+      "gas:candidate-vibid:323300370648": 96,
+      "gas:candidate-vibid:323300370368": 206,
+      "gas:candidate-vibid:1001000225915": 112,
+      "gas:candidate-vibid:1001000136018": 40,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 91,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 37,
-      "Глотов Сергей Александрович": 39,
-      "Измайлов Владимир Закирович": 91,
-      "Казаков Борис Анушеванович": 119,
-      "Каракай Михаил Сергеевич": 81,
-      "Кряжева Юлия Евгеньевна": 24,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 71,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 37,
+      "gas:candidate-vibid:1001000277360": 39,
+      "gas:candidate-vibid:323300370648": 91,
+      "gas:candidate-vibid:323300370368": 119,
+      "gas:candidate-vibid:1001000225915": 81,
+      "gas:candidate-vibid:1001000136018": 24,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 71,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 69,
-      "Глотов Сергей Александрович": 131,
-      "Измайлов Владимир Закирович": 194,
-      "Казаков Борис Анушеванович": 370,
-      "Каракай Михаил Сергеевич": 166,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 14,
-      "Лошкарев Геннадий Леонидович": 145,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 127
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 69,
+      "gas:candidate-vibid:1001000277360": 131,
+      "gas:candidate-vibid:323300370648": 194,
+      "gas:candidate-vibid:323300370368": 370,
+      "gas:candidate-vibid:1001000225915": 166,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 14,
+      "gas:candidate-vibid:1001000121815": 145,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 75,
-      "Глотов Сергей Александрович": 60,
-      "Измайлов Владимир Закирович": 85,
-      "Казаков Борис Анушеванович": 216,
-      "Каракай Михаил Сергеевич": 97,
-      "Кряжева Юлия Евгеньевна": 39,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 119,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 74
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 75,
+      "gas:candidate-vibid:1001000277360": 60,
+      "gas:candidate-vibid:323300370648": 85,
+      "gas:candidate-vibid:323300370368": 216,
+      "gas:candidate-vibid:1001000225915": 97,
+      "gas:candidate-vibid:1001000136018": 39,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 119,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 74,
-      "Глотов Сергей Александрович": 115,
-      "Измайлов Владимир Закирович": 164,
-      "Казаков Борис Анушеванович": 263,
-      "Каракай Михаил Сергеевич": 182,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 145,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 149
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 74,
+      "gas:candidate-vibid:1001000277360": 115,
+      "gas:candidate-vibid:323300370648": 164,
+      "gas:candidate-vibid:323300370368": 263,
+      "gas:candidate-vibid:1001000225915": 182,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 145,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 28,
-      "Глотов Сергей Александрович": 83,
-      "Измайлов Владимир Закирович": 76,
-      "Казаков Борис Анушеванович": 140,
-      "Каракай Михаил Сергеевич": 85,
-      "Кряжева Юлия Евгеньевна": 20,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 85,
-      "Макаров Сергей Андреевич": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 28,
+      "gas:candidate-vibid:1001000277360": 83,
+      "gas:candidate-vibid:323300370648": 76,
+      "gas:candidate-vibid:323300370368": 140,
+      "gas:candidate-vibid:1001000225915": 85,
+      "gas:candidate-vibid:1001000136018": 20,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 85,
+      "gas:candidate-vibid:1001000250439": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 23,
-      "Глотов Сергей Александрович": 27,
-      "Измайлов Владимир Закирович": 44,
-      "Казаков Борис Анушеванович": 86,
-      "Каракай Михаил Сергеевич": 57,
-      "Кряжева Юлия Евгеньевна": 16,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 39,
-      "Макаров Сергей Андреевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 23,
+      "gas:candidate-vibid:1001000277360": 27,
+      "gas:candidate-vibid:323300370648": 44,
+      "gas:candidate-vibid:323300370368": 86,
+      "gas:candidate-vibid:1001000225915": 57,
+      "gas:candidate-vibid:1001000136018": 16,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 39,
+      "gas:candidate-vibid:1001000250439": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 19,
-      "Глотов Сергей Александрович": 61,
-      "Измайлов Владимир Закирович": 49,
-      "Казаков Борис Анушеванович": 103,
-      "Каракай Михаил Сергеевич": 54,
-      "Кряжева Юлия Евгеньевна": 10,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 68,
-      "Макаров Сергей Андреевич": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 19,
+      "gas:candidate-vibid:1001000277360": 61,
+      "gas:candidate-vibid:323300370648": 49,
+      "gas:candidate-vibid:323300370368": 103,
+      "gas:candidate-vibid:1001000225915": 54,
+      "gas:candidate-vibid:1001000136018": 10,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 68,
+      "gas:candidate-vibid:1001000250439": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 104,
-      "Измайлов Владимир Закирович": 44,
-      "Казаков Борис Анушеванович": 520,
-      "Каракай Михаил Сергеевич": 118,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 13,
-      "Лошкарев Геннадий Леонидович": 53,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 114
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 104,
+      "gas:candidate-vibid:323300370648": 44,
+      "gas:candidate-vibid:323300370368": 520,
+      "gas:candidate-vibid:1001000225915": 118,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 13,
+      "gas:candidate-vibid:1001000121815": 53,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 138,
-      "Измайлов Владимир Закирович": 65,
-      "Казаков Борис Анушеванович": 632,
-      "Каракай Михаил Сергеевич": 107,
-      "Кряжева Юлия Евгеньевна": 50,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 66,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 48
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 138,
+      "gas:candidate-vibid:323300370648": 65,
+      "gas:candidate-vibid:323300370368": 632,
+      "gas:candidate-vibid:1001000225915": 107,
+      "gas:candidate-vibid:1001000136018": 50,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 66,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 30,
-      "Глотов Сергей Александрович": 41,
-      "Измайлов Владимир Закирович": 26,
-      "Казаков Борис Анушеванович": 477,
-      "Каракай Михаил Сергеевич": 58,
-      "Кряжева Юлия Евгеньевна": 58,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 54,
-      "Макаров Сергей Андреевич": 6,
-      "Против всех": 99
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 30,
+      "gas:candidate-vibid:1001000277360": 41,
+      "gas:candidate-vibid:323300370648": 26,
+      "gas:candidate-vibid:323300370368": 477,
+      "gas:candidate-vibid:1001000225915": 58,
+      "gas:candidate-vibid:1001000136018": 58,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 54,
+      "gas:candidate-vibid:1001000250439": 6,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 28,
-      "Глотов Сергей Александрович": 40,
-      "Измайлов Владимир Закирович": 30,
-      "Казаков Борис Анушеванович": 423,
-      "Каракай Михаил Сергеевич": 73,
-      "Кряжева Юлия Евгеньевна": 42,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 67,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 95
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 28,
+      "gas:candidate-vibid:1001000277360": 40,
+      "gas:candidate-vibid:323300370648": 30,
+      "gas:candidate-vibid:323300370368": 423,
+      "gas:candidate-vibid:1001000225915": 73,
+      "gas:candidate-vibid:1001000136018": 42,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 67,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 25,
-      "Глотов Сергей Александрович": 61,
-      "Измайлов Владимир Закирович": 3,
-      "Казаков Борис Анушеванович": 27,
-      "Каракай Михаил Сергеевич": 22,
-      "Кряжева Юлия Евгеньевна": 16,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 21,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 34
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 25,
+      "gas:candidate-vibid:1001000277360": 61,
+      "gas:candidate-vibid:323300370648": 3,
+      "gas:candidate-vibid:323300370368": 27,
+      "gas:candidate-vibid:1001000225915": 22,
+      "gas:candidate-vibid:1001000136018": 16,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 21,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 17,
-      "Глотов Сергей Александрович": 30,
-      "Измайлов Владимир Закирович": 13,
-      "Казаков Борис Анушеванович": 177,
-      "Каракай Михаил Сергеевич": 85,
-      "Кряжева Юлия Евгеньевна": 29,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 51,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 76
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 17,
+      "gas:candidate-vibid:1001000277360": 30,
+      "gas:candidate-vibid:323300370648": 13,
+      "gas:candidate-vibid:323300370368": 177,
+      "gas:candidate-vibid:1001000225915": 85,
+      "gas:candidate-vibid:1001000136018": 29,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 51,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 17,
-      "Глотов Сергей Александрович": 23,
-      "Измайлов Владимир Закирович": 7,
-      "Казаков Борис Анушеванович": 70,
-      "Каракай Михаил Сергеевич": 43,
-      "Кряжева Юлия Евгеньевна": 10,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 50,
-      "Макаров Сергей Андреевич": 3,
-      "Против всех": 43
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 17,
+      "gas:candidate-vibid:1001000277360": 23,
+      "gas:candidate-vibid:323300370648": 7,
+      "gas:candidate-vibid:323300370368": 70,
+      "gas:candidate-vibid:1001000225915": 43,
+      "gas:candidate-vibid:1001000136018": 10,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 50,
+      "gas:candidate-vibid:1001000250439": 3,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 10,
-      "Глотов Сергей Александрович": 58,
-      "Измайлов Владимир Закирович": 6,
-      "Казаков Борис Анушеванович": 50,
-      "Каракай Михаил Сергеевич": 26,
-      "Кряжева Юлия Евгеньевна": 13,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 23,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 10,
+      "gas:candidate-vibid:1001000277360": 58,
+      "gas:candidate-vibid:323300370648": 6,
+      "gas:candidate-vibid:323300370368": 50,
+      "gas:candidate-vibid:1001000225915": 26,
+      "gas:candidate-vibid:1001000136018": 13,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 23,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 22,
-      "Глотов Сергей Александрович": 46,
-      "Измайлов Владимир Закирович": 4,
-      "Казаков Борис Анушеванович": 80,
-      "Каракай Михаил Сергеевич": 46,
-      "Кряжева Юлия Евгеньевна": 22,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 23,
-      "Макаров Сергей Андреевич": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 22,
+      "gas:candidate-vibid:1001000277360": 46,
+      "gas:candidate-vibid:323300370648": 4,
+      "gas:candidate-vibid:323300370368": 80,
+      "gas:candidate-vibid:1001000225915": 46,
+      "gas:candidate-vibid:1001000136018": 22,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 23,
+      "gas:candidate-vibid:1001000250439": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 11,
-      "Глотов Сергей Александрович": 43,
-      "Измайлов Владимир Закирович": 10,
-      "Казаков Борис Анушеванович": 92,
-      "Каракай Михаил Сергеевич": 59,
-      "Кряжева Юлия Евгеньевна": 28,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 65,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 38
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 11,
+      "gas:candidate-vibid:1001000277360": 43,
+      "gas:candidate-vibid:323300370648": 10,
+      "gas:candidate-vibid:323300370368": 92,
+      "gas:candidate-vibid:1001000225915": 59,
+      "gas:candidate-vibid:1001000136018": 28,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 65,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 34,
-      "Глотов Сергей Александрович": 105,
-      "Измайлов Владимир Закирович": 31,
-      "Казаков Борис Анушеванович": 488,
-      "Каракай Михаил Сергеевич": 206,
-      "Кряжева Юлия Евгеньевна": 69,
-      "Куркин Станислав Гаврилович": 8,
-      "Лошкарев Геннадий Леонидович": 254,
-      "Макаров Сергей Андреевич": 11,
-      "Против всех": 164
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 34,
+      "gas:candidate-vibid:1001000277360": 105,
+      "gas:candidate-vibid:323300370648": 31,
+      "gas:candidate-vibid:323300370368": 488,
+      "gas:candidate-vibid:1001000225915": 206,
+      "gas:candidate-vibid:1001000136018": 69,
+      "gas:candidate-vibid:1001000254930": 8,
+      "gas:candidate-vibid:1001000121815": 254,
+      "gas:candidate-vibid:1001000250439": 11,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 13,
-      "Глотов Сергей Александрович": 35,
-      "Измайлов Владимир Закирович": 9,
-      "Казаков Борис Анушеванович": 296,
-      "Каракай Михаил Сергеевич": 57,
-      "Кряжева Юлия Евгеньевна": 19,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 118,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 46
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 13,
+      "gas:candidate-vibid:1001000277360": 35,
+      "gas:candidate-vibid:323300370648": 9,
+      "gas:candidate-vibid:323300370368": 296,
+      "gas:candidate-vibid:1001000225915": 57,
+      "gas:candidate-vibid:1001000136018": 19,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 118,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 33,
-      "Глотов Сергей Александрович": 57,
-      "Измайлов Владимир Закирович": 13,
-      "Казаков Борис Анушеванович": 205,
-      "Каракай Михаил Сергеевич": 72,
-      "Кряжева Юлия Евгеньевна": 53,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 138,
-      "Макаров Сергей Андреевич": 6,
-      "Против всех": 55
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 33,
+      "gas:candidate-vibid:1001000277360": 57,
+      "gas:candidate-vibid:323300370648": 13,
+      "gas:candidate-vibid:323300370368": 205,
+      "gas:candidate-vibid:1001000225915": 72,
+      "gas:candidate-vibid:1001000136018": 53,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 138,
+      "gas:candidate-vibid:1001000250439": 6,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 26,
-      "Глотов Сергей Александрович": 11,
-      "Измайлов Владимир Закирович": 14,
-      "Казаков Борис Анушеванович": 100,
-      "Каракай Михаил Сергеевич": 37,
-      "Кряжева Юлия Евгеньевна": 17,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 18,
-      "Макаров Сергей Андреевич": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 26,
+      "gas:candidate-vibid:1001000277360": 11,
+      "gas:candidate-vibid:323300370648": 14,
+      "gas:candidate-vibid:323300370368": 100,
+      "gas:candidate-vibid:1001000225915": 37,
+      "gas:candidate-vibid:1001000136018": 17,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 18,
+      "gas:candidate-vibid:1001000250439": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 1,
-      "Глотов Сергей Александрович": 9,
-      "Измайлов Владимир Закирович": 1,
-      "Казаков Борис Анушеванович": 28,
-      "Каракай Михаил Сергеевич": 19,
-      "Кряжева Юлия Евгеньевна": 6,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 12,
-      "Макаров Сергей Андреевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 1,
+      "gas:candidate-vibid:1001000277360": 9,
+      "gas:candidate-vibid:323300370648": 1,
+      "gas:candidate-vibid:323300370368": 28,
+      "gas:candidate-vibid:1001000225915": 19,
+      "gas:candidate-vibid:1001000136018": 6,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 12,
+      "gas:candidate-vibid:1001000250439": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 3,
-      "Глотов Сергей Александрович": 4,
-      "Измайлов Владимир Закирович": 5,
-      "Казаков Борис Анушеванович": 21,
-      "Каракай Михаил Сергеевич": 17,
-      "Кряжева Юлия Евгеньевна": 5,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 50,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 3,
+      "gas:candidate-vibid:1001000277360": 4,
+      "gas:candidate-vibid:323300370648": 5,
+      "gas:candidate-vibid:323300370368": 21,
+      "gas:candidate-vibid:1001000225915": 17,
+      "gas:candidate-vibid:1001000136018": 5,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 50,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 65,
-      "Глотов Сергей Александрович": 97,
-      "Измайлов Владимир Закирович": 79,
-      "Казаков Борис Анушеванович": 183,
-      "Каракай Михаил Сергеевич": 78,
-      "Кряжева Юлия Евгеньевна": 59,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 95,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 128
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 65,
+      "gas:candidate-vibid:1001000277360": 97,
+      "gas:candidate-vibid:323300370648": 79,
+      "gas:candidate-vibid:323300370368": 183,
+      "gas:candidate-vibid:1001000225915": 78,
+      "gas:candidate-vibid:1001000136018": 59,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 95,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 26,
-      "Бабин Станислав Иванович": 48,
-      "Глотов Сергей Александрович": 110,
-      "Измайлов Владимир Закирович": 23,
-      "Казаков Борис Анушеванович": 245,
-      "Каракай Михаил Сергеевич": 147,
-      "Кряжева Юлия Евгеньевна": 57,
-      "Куркин Станислав Гаврилович": 9,
-      "Лошкарев Геннадий Леонидович": 199,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 114
+      "gas:candidate-vibid:323300370365": 26,
+      "gas:candidate-vibid:1001000113910": 48,
+      "gas:candidate-vibid:1001000277360": 110,
+      "gas:candidate-vibid:323300370648": 23,
+      "gas:candidate-vibid:323300370368": 245,
+      "gas:candidate-vibid:1001000225915": 147,
+      "gas:candidate-vibid:1001000136018": 57,
+      "gas:candidate-vibid:1001000254930": 9,
+      "gas:candidate-vibid:1001000121815": 199,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 22,
-      "Бабин Станислав Иванович": 70,
-      "Глотов Сергей Александрович": 187,
-      "Измайлов Владимир Закирович": 55,
-      "Казаков Борис Анушеванович": 354,
-      "Каракай Михаил Сергеевич": 128,
-      "Кряжева Юлия Евгеньевна": 64,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 171,
-      "Макаров Сергей Андреевич": 12,
-      "Против всех": 167
+      "gas:candidate-vibid:323300370365": 22,
+      "gas:candidate-vibid:1001000113910": 70,
+      "gas:candidate-vibid:1001000277360": 187,
+      "gas:candidate-vibid:323300370648": 55,
+      "gas:candidate-vibid:323300370368": 354,
+      "gas:candidate-vibid:1001000225915": 128,
+      "gas:candidate-vibid:1001000136018": 64,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 171,
+      "gas:candidate-vibid:1001000250439": 12,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 6,
-      "Бабин Станислав Иванович": 29,
-      "Глотов Сергей Александрович": 37,
-      "Измайлов Владимир Закирович": 22,
-      "Казаков Борис Анушеванович": 173,
-      "Каракай Михаил Сергеевич": 61,
-      "Кряжева Юлия Евгеньевна": 34,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 77,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 54
+      "gas:candidate-vibid:323300370365": 6,
+      "gas:candidate-vibid:1001000113910": 29,
+      "gas:candidate-vibid:1001000277360": 37,
+      "gas:candidate-vibid:323300370648": 22,
+      "gas:candidate-vibid:323300370368": 173,
+      "gas:candidate-vibid:1001000225915": 61,
+      "gas:candidate-vibid:1001000136018": 34,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 77,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 16,
-      "Глотов Сергей Александрович": 6,
-      "Измайлов Владимир Закирович": 12,
-      "Казаков Борис Анушеванович": 136,
-      "Каракай Михаил Сергеевич": 35,
-      "Кряжева Юлия Евгеньевна": 17,
-      "Куркин Станислав Гаврилович": 5,
-      "Лошкарев Геннадий Леонидович": 49,
-      "Макаров Сергей Андреевич": 9,
-      "Против всех": 30
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 16,
+      "gas:candidate-vibid:1001000277360": 6,
+      "gas:candidate-vibid:323300370648": 12,
+      "gas:candidate-vibid:323300370368": 136,
+      "gas:candidate-vibid:1001000225915": 35,
+      "gas:candidate-vibid:1001000136018": 17,
+      "gas:candidate-vibid:1001000254930": 5,
+      "gas:candidate-vibid:1001000121815": 49,
+      "gas:candidate-vibid:1001000250439": 9,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 43,
-      "Глотов Сергей Александрович": 59,
-      "Измайлов Владимир Закирович": 24,
-      "Казаков Борис Анушеванович": 190,
-      "Каракай Михаил Сергеевич": 50,
-      "Кряжева Юлия Евгеньевна": 30,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 94,
-      "Макаров Сергей Андреевич": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 43,
+      "gas:candidate-vibid:1001000277360": 59,
+      "gas:candidate-vibid:323300370648": 24,
+      "gas:candidate-vibid:323300370368": 190,
+      "gas:candidate-vibid:1001000225915": 50,
+      "gas:candidate-vibid:1001000136018": 30,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 94,
+      "gas:candidate-vibid:1001000250439": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 29,
-      "Глотов Сергей Александрович": 62,
-      "Измайлов Владимир Закирович": 17,
-      "Казаков Борис Анушеванович": 220,
-      "Каракай Михаил Сергеевич": 41,
-      "Кряжева Юлия Евгеньевна": 44,
-      "Куркин Станислав Гаврилович": 1,
-      "Лошкарев Геннадий Леонидович": 124,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 51
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 29,
+      "gas:candidate-vibid:1001000277360": 62,
+      "gas:candidate-vibid:323300370648": 17,
+      "gas:candidate-vibid:323300370368": 220,
+      "gas:candidate-vibid:1001000225915": 41,
+      "gas:candidate-vibid:1001000136018": 44,
+      "gas:candidate-vibid:1001000254930": 1,
+      "gas:candidate-vibid:1001000121815": 124,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 104,
-      "Измайлов Владимир Закирович": 7,
-      "Казаков Борис Анушеванович": 284,
-      "Каракай Михаил Сергеевич": 40,
-      "Кряжева Юлия Евгеньевна": 40,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 50,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 39
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 104,
+      "gas:candidate-vibid:323300370648": 7,
+      "gas:candidate-vibid:323300370368": 284,
+      "gas:candidate-vibid:1001000225915": 40,
+      "gas:candidate-vibid:1001000136018": 40,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 50,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 35,
-      "Глотов Сергей Александрович": 73,
-      "Измайлов Владимир Закирович": 19,
-      "Казаков Борис Анушеванович": 217,
-      "Каракай Михаил Сергеевич": 80,
-      "Кряжева Юлия Евгеньевна": 31,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 97,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 65
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 35,
+      "gas:candidate-vibid:1001000277360": 73,
+      "gas:candidate-vibid:323300370648": 19,
+      "gas:candidate-vibid:323300370368": 217,
+      "gas:candidate-vibid:1001000225915": 80,
+      "gas:candidate-vibid:1001000136018": 31,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 97,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 31,
-      "Глотов Сергей Александрович": 131,
-      "Измайлов Владимир Закирович": 32,
-      "Казаков Борис Анушеванович": 273,
-      "Каракай Михаил Сергеевич": 93,
-      "Кряжева Юлия Евгеньевна": 39,
-      "Куркин Станислав Гаврилович": 3,
-      "Лошкарев Геннадий Леонидович": 89,
-      "Макаров Сергей Андреевич": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 31,
+      "gas:candidate-vibid:1001000277360": 131,
+      "gas:candidate-vibid:323300370648": 32,
+      "gas:candidate-vibid:323300370368": 273,
+      "gas:candidate-vibid:1001000225915": 93,
+      "gas:candidate-vibid:1001000136018": 39,
+      "gas:candidate-vibid:1001000254930": 3,
+      "gas:candidate-vibid:1001000121815": 89,
+      "gas:candidate-vibid:1001000250439": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 4,
-      "Бабин Станислав Иванович": 64,
-      "Глотов Сергей Александрович": 91,
-      "Измайлов Владимир Закирович": 37,
-      "Казаков Борис Анушеванович": 402,
-      "Каракай Михаил Сергеевич": 32,
-      "Кряжева Юлия Евгеньевна": 49,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 63,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:323300370365": 4,
+      "gas:candidate-vibid:1001000113910": 64,
+      "gas:candidate-vibid:1001000277360": 91,
+      "gas:candidate-vibid:323300370648": 37,
+      "gas:candidate-vibid:323300370368": 402,
+      "gas:candidate-vibid:1001000225915": 32,
+      "gas:candidate-vibid:1001000136018": 49,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 63,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 59,
-      "Глотов Сергей Александрович": 87,
-      "Измайлов Владимир Закирович": 24,
-      "Казаков Борис Анушеванович": 254,
-      "Каракай Михаил Сергеевич": 52,
-      "Кряжева Юлия Евгеньевна": 31,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 88,
-      "Макаров Сергей Андреевич": 15,
-      "Против всех": 70
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 59,
+      "gas:candidate-vibid:1001000277360": 87,
+      "gas:candidate-vibid:323300370648": 24,
+      "gas:candidate-vibid:323300370368": 254,
+      "gas:candidate-vibid:1001000225915": 52,
+      "gas:candidate-vibid:1001000136018": 31,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 88,
+      "gas:candidate-vibid:1001000250439": 15,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 39,
-      "Глотов Сергей Александрович": 90,
-      "Измайлов Владимир Закирович": 56,
-      "Казаков Борис Анушеванович": 385,
-      "Каракай Михаил Сергеевич": 133,
-      "Кряжева Юлия Евгеньевна": 64,
-      "Куркин Станислав Гаврилович": 59,
-      "Лошкарев Геннадий Леонидович": 114,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 94
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 39,
+      "gas:candidate-vibid:1001000277360": 90,
+      "gas:candidate-vibid:323300370648": 56,
+      "gas:candidate-vibid:323300370368": 385,
+      "gas:candidate-vibid:1001000225915": 133,
+      "gas:candidate-vibid:1001000136018": 64,
+      "gas:candidate-vibid:1001000254930": 59,
+      "gas:candidate-vibid:1001000121815": 114,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 14,
-      "Бабин Станислав Иванович": 54,
-      "Глотов Сергей Александрович": 186,
-      "Измайлов Владимир Закирович": 73,
-      "Казаков Борис Анушеванович": 360,
-      "Каракай Михаил Сергеевич": 168,
-      "Кряжева Юлия Евгеньевна": 56,
-      "Куркин Станислав Гаврилович": 223,
-      "Лошкарев Геннадий Леонидович": 168,
-      "Макаров Сергей Андреевич": 16,
-      "Против всех": 143
+      "gas:candidate-vibid:323300370365": 14,
+      "gas:candidate-vibid:1001000113910": 54,
+      "gas:candidate-vibid:1001000277360": 186,
+      "gas:candidate-vibid:323300370648": 73,
+      "gas:candidate-vibid:323300370368": 360,
+      "gas:candidate-vibid:1001000225915": 168,
+      "gas:candidate-vibid:1001000136018": 56,
+      "gas:candidate-vibid:1001000254930": 223,
+      "gas:candidate-vibid:1001000121815": 168,
+      "gas:candidate-vibid:1001000250439": 16,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 16,
-      "Бабин Станислав Иванович": 61,
-      "Глотов Сергей Александрович": 100,
-      "Измайлов Владимир Закирович": 35,
-      "Казаков Борис Анушеванович": 523,
-      "Каракай Михаил Сергеевич": 178,
-      "Кряжева Юлия Евгеньевна": 58,
-      "Куркин Станислав Гаврилович": 238,
-      "Лошкарев Геннадий Леонидович": 133,
-      "Макаров Сергей Андреевич": 21,
-      "Против всех": 126
+      "gas:candidate-vibid:323300370365": 16,
+      "gas:candidate-vibid:1001000113910": 61,
+      "gas:candidate-vibid:1001000277360": 100,
+      "gas:candidate-vibid:323300370648": 35,
+      "gas:candidate-vibid:323300370368": 523,
+      "gas:candidate-vibid:1001000225915": 178,
+      "gas:candidate-vibid:1001000136018": 58,
+      "gas:candidate-vibid:1001000254930": 238,
+      "gas:candidate-vibid:1001000121815": 133,
+      "gas:candidate-vibid:1001000250439": 21,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 10,
-      "Бабин Станислав Иванович": 32,
-      "Глотов Сергей Александрович": 115,
-      "Измайлов Владимир Закирович": 37,
-      "Казаков Борис Анушеванович": 458,
-      "Каракай Михаил Сергеевич": 82,
-      "Кряжева Юлия Евгеньевна": 68,
-      "Куркин Станислав Гаврилович": 11,
-      "Лошкарев Геннадий Леонидович": 100,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 140
+      "gas:candidate-vibid:323300370365": 10,
+      "gas:candidate-vibid:1001000113910": 32,
+      "gas:candidate-vibid:1001000277360": 115,
+      "gas:candidate-vibid:323300370648": 37,
+      "gas:candidate-vibid:323300370368": 458,
+      "gas:candidate-vibid:1001000225915": 82,
+      "gas:candidate-vibid:1001000136018": 68,
+      "gas:candidate-vibid:1001000254930": 11,
+      "gas:candidate-vibid:1001000121815": 100,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 39,
-      "Глотов Сергей Александрович": 38,
-      "Измайлов Владимир Закирович": 28,
-      "Казаков Борис Анушеванович": 149,
-      "Каракай Михаил Сергеевич": 46,
-      "Кряжева Юлия Евгеньевна": 34,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 56,
-      "Макаров Сергей Андреевич": 4,
-      "Против всех": 69
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 39,
+      "gas:candidate-vibid:1001000277360": 38,
+      "gas:candidate-vibid:323300370648": 28,
+      "gas:candidate-vibid:323300370368": 149,
+      "gas:candidate-vibid:1001000225915": 46,
+      "gas:candidate-vibid:1001000136018": 34,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 56,
+      "gas:candidate-vibid:1001000250439": 4,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 66,
-      "Глотов Сергей Александрович": 80,
-      "Измайлов Владимир Закирович": 94,
-      "Казаков Борис Анушеванович": 330,
-      "Каракай Михаил Сергеевич": 221,
-      "Кряжева Юлия Евгеньевна": 49,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 158,
-      "Макаров Сергей Андреевич": 11,
-      "Против всех": 162
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 66,
+      "gas:candidate-vibid:1001000277360": 80,
+      "gas:candidate-vibid:323300370648": 94,
+      "gas:candidate-vibid:323300370368": 330,
+      "gas:candidate-vibid:1001000225915": 221,
+      "gas:candidate-vibid:1001000136018": 49,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 158,
+      "gas:candidate-vibid:1001000250439": 11,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 25,
-      "Глотов Сергей Александрович": 94,
-      "Измайлов Владимир Закирович": 24,
-      "Казаков Борис Анушеванович": 149,
-      "Каракай Михаил Сергеевич": 35,
-      "Кряжева Юлия Евгеньевна": 25,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 60,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 49
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 25,
+      "gas:candidate-vibid:1001000277360": 94,
+      "gas:candidate-vibid:323300370648": 24,
+      "gas:candidate-vibid:323300370368": 149,
+      "gas:candidate-vibid:1001000225915": 35,
+      "gas:candidate-vibid:1001000136018": 25,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 60,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 82,
-      "Глотов Сергей Александрович": 114,
-      "Измайлов Владимир Закирович": 72,
-      "Казаков Борис Анушеванович": 341,
-      "Каракай Михаил Сергеевич": 117,
-      "Кряжева Юлия Евгеньевна": 52,
-      "Куркин Станислав Гаврилович": 4,
-      "Лошкарев Геннадий Леонидович": 144,
-      "Макаров Сергей Андреевич": 7,
-      "Против всех": 134
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 82,
+      "gas:candidate-vibid:1001000277360": 114,
+      "gas:candidate-vibid:323300370648": 72,
+      "gas:candidate-vibid:323300370368": 341,
+      "gas:candidate-vibid:1001000225915": 117,
+      "gas:candidate-vibid:1001000136018": 52,
+      "gas:candidate-vibid:1001000254930": 4,
+      "gas:candidate-vibid:1001000121815": 144,
+      "gas:candidate-vibid:1001000250439": 7,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 1,
-      "Бабин Станислав Иванович": 36,
-      "Глотов Сергей Александрович": 4,
-      "Измайлов Владимир Закирович": 6,
-      "Казаков Борис Анушеванович": 39,
-      "Каракай Михаил Сергеевич": 13,
-      "Кряжева Юлия Евгеньевна": 8,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 18,
-      "Макаров Сергей Андреевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:323300370365": 1,
+      "gas:candidate-vibid:1001000113910": 36,
+      "gas:candidate-vibid:1001000277360": 4,
+      "gas:candidate-vibid:323300370648": 6,
+      "gas:candidate-vibid:323300370368": 39,
+      "gas:candidate-vibid:1001000225915": 13,
+      "gas:candidate-vibid:1001000136018": 8,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 18,
+      "gas:candidate-vibid:1001000250439": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 13,
-      "Глотов Сергей Александрович": 2,
-      "Измайлов Владимир Закирович": 11,
-      "Казаков Борис Анушеванович": 60,
-      "Каракай Михаил Сергеевич": 23,
-      "Кряжева Юлия Евгеньевна": 1,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 4,
-      "Макаров Сергей Андреевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 13,
+      "gas:candidate-vibid:1001000277360": 2,
+      "gas:candidate-vibid:323300370648": 11,
+      "gas:candidate-vibid:323300370368": 60,
+      "gas:candidate-vibid:1001000225915": 23,
+      "gas:candidate-vibid:1001000136018": 1,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 4,
+      "gas:candidate-vibid:1001000250439": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 5,
-      "Бабин Станислав Иванович": 28,
-      "Глотов Сергей Александрович": 68,
-      "Измайлов Владимир Закирович": 54,
-      "Казаков Борис Анушеванович": 83,
-      "Каракай Михаил Сергеевич": 58,
-      "Кряжева Юлия Евгеньевна": 22,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 49,
-      "Макаров Сергей Андреевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:323300370365": 5,
+      "gas:candidate-vibid:1001000113910": 28,
+      "gas:candidate-vibid:1001000277360": 68,
+      "gas:candidate-vibid:323300370648": 54,
+      "gas:candidate-vibid:323300370368": 83,
+      "gas:candidate-vibid:1001000225915": 58,
+      "gas:candidate-vibid:1001000136018": 22,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 49,
+      "gas:candidate-vibid:1001000250439": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 0,
-      "Бабин Станислав Иванович": 57,
-      "Глотов Сергей Александрович": 68,
-      "Измайлов Владимир Закирович": 58,
-      "Казаков Борис Анушеванович": 385,
-      "Каракай Михаил Сергеевич": 72,
-      "Кряжева Юлия Евгеньевна": 52,
-      "Куркин Станислав Гаврилович": 11,
-      "Лошкарев Геннадий Леонидович": 149,
-      "Макаров Сергей Андреевич": 5,
-      "Против всех": 88
+      "gas:candidate-vibid:323300370365": 0,
+      "gas:candidate-vibid:1001000113910": 57,
+      "gas:candidate-vibid:1001000277360": 68,
+      "gas:candidate-vibid:323300370648": 58,
+      "gas:candidate-vibid:323300370368": 385,
+      "gas:candidate-vibid:1001000225915": 72,
+      "gas:candidate-vibid:1001000136018": 52,
+      "gas:candidate-vibid:1001000254930": 11,
+      "gas:candidate-vibid:1001000121815": 149,
+      "gas:candidate-vibid:1001000250439": 5,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 2,
-      "Бабин Станислав Иванович": 39,
-      "Глотов Сергей Александрович": 63,
-      "Измайлов Владимир Закирович": 57,
-      "Казаков Борис Анушеванович": 228,
-      "Каракай Михаил Сергеевич": 78,
-      "Кряжева Юлия Евгеньевна": 39,
-      "Куркин Станислав Гаврилович": 2,
-      "Лошкарев Геннадий Леонидович": 99,
-      "Макаров Сергей Андреевич": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:323300370365": 2,
+      "gas:candidate-vibid:1001000113910": 39,
+      "gas:candidate-vibid:1001000277360": 63,
+      "gas:candidate-vibid:323300370648": 57,
+      "gas:candidate-vibid:323300370368": 228,
+      "gas:candidate-vibid:1001000225915": 78,
+      "gas:candidate-vibid:1001000136018": 39,
+      "gas:candidate-vibid:1001000254930": 2,
+      "gas:candidate-vibid:1001000121815": 99,
+      "gas:candidate-vibid:1001000250439": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 7,
-      "Бабин Станислав Иванович": 24,
-      "Глотов Сергей Александрович": 125,
-      "Измайлов Владимир Закирович": 97,
-      "Казаков Борис Анушеванович": 293,
-      "Каракай Михаил Сергеевич": 103,
-      "Кряжева Юлия Евгеньевна": 66,
-      "Куркин Станислав Гаврилович": 6,
-      "Лошкарев Геннадий Леонидович": 110,
-      "Макаров Сергей Андреевич": 10,
-      "Против всех": 101
+      "gas:candidate-vibid:323300370365": 7,
+      "gas:candidate-vibid:1001000113910": 24,
+      "gas:candidate-vibid:1001000277360": 125,
+      "gas:candidate-vibid:323300370648": 97,
+      "gas:candidate-vibid:323300370368": 293,
+      "gas:candidate-vibid:1001000225915": 103,
+      "gas:candidate-vibid:1001000136018": 66,
+      "gas:candidate-vibid:1001000254930": 6,
+      "gas:candidate-vibid:1001000121815": 110,
+      "gas:candidate-vibid:1001000250439": 10,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 17,
-      "Глотов Сергей Александрович": 51,
-      "Измайлов Владимир Закирович": 57,
-      "Казаков Борис Анушеванович": 185,
-      "Каракай Михаил Сергеевич": 59,
-      "Кряжева Юлия Евгеньевна": 35,
-      "Куркин Станислав Гаврилович": 0,
-      "Лошкарев Геннадий Леонидович": 68,
-      "Макаров Сергей Андреевич": 8,
-      "Против всех": 66
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 17,
+      "gas:candidate-vibid:1001000277360": 51,
+      "gas:candidate-vibid:323300370648": 57,
+      "gas:candidate-vibid:323300370368": 185,
+      "gas:candidate-vibid:1001000225915": 59,
+      "gas:candidate-vibid:1001000136018": 35,
+      "gas:candidate-vibid:1001000254930": 0,
+      "gas:candidate-vibid:1001000121815": 68,
+      "gas:candidate-vibid:1001000250439": 8,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Айрапетян Мамикон Сергеевич": 3,
-      "Бабин Станислав Иванович": 25,
-      "Глотов Сергей Александрович": 50,
-      "Измайлов Владимир Закирович": 79,
-      "Казаков Борис Анушеванович": 292,
-      "Каракай Михаил Сергеевич": 64,
-      "Кряжева Юлия Евгеньевна": 39,
-      "Куркин Станислав Гаврилович": 7,
-      "Лошкарев Геннадий Леонидович": 85,
-      "Макаров Сергей Андреевич": 13,
-      "Против всех": 68
+      "gas:candidate-vibid:323300370365": 3,
+      "gas:candidate-vibid:1001000113910": 25,
+      "gas:candidate-vibid:1001000277360": 50,
+      "gas:candidate-vibid:323300370648": 79,
+      "gas:candidate-vibid:323300370368": 292,
+      "gas:candidate-vibid:1001000225915": 64,
+      "gas:candidate-vibid:1001000136018": 39,
+      "gas:candidate-vibid:1001000254930": 7,
+      "gas:candidate-vibid:1001000121815": 85,
+      "gas:candidate-vibid:1001000250439": 13,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070397&region=0&sub_region=0&type=429",
@@ -14082,14 +14082,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 17,
-      "Земцова Маргарита Ивановна": 59,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 9,
-      "Харченко Иван Николаевич": 225,
-      "Шаплов Анатолий Анатольевич": 53,
-      "Против всех": 128
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 17,
+      "gas:candidate-vibid:1001000136019": 59,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 9,
+      "gas:candidate-vibid:1001000187995": 225,
+      "gas:candidate-vibid:323300470775": 53,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14139,14 +14139,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 22,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 32,
-      "Ракуленко Андрей Георгиевич": 11,
-      "Харченко Иван Николаевич": 111,
-      "Шаплов Анатолий Анатольевич": 40,
-      "Против всех": 108
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 22,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 32,
+      "gas:candidate-vibid:1001000112194": 11,
+      "gas:candidate-vibid:1001000187995": 111,
+      "gas:candidate-vibid:323300470775": 40,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14196,14 +14196,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 16,
-      "Денисенко Галина Алексеевна": 43,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 147,
-      "Ракуленко Андрей Георгиевич": 46,
-      "Харченко Иван Николаевич": 395,
-      "Шаплов Анатолий Анатольевич": 101,
-      "Против всех": 165
+      "gas:candidate-vibid:323300470746": 16,
+      "gas:candidate-vibid:1001000195048": 43,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 147,
+      "gas:candidate-vibid:1001000112194": 46,
+      "gas:candidate-vibid:1001000187995": 395,
+      "gas:candidate-vibid:323300470775": 101,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14253,14 +14253,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 25,
-      "Земцова Маргарита Ивановна": 49,
-      "Меркачев Владимир Васильевич": 150,
-      "Ракуленко Андрей Георгиевич": 41,
-      "Харченко Иван Николаевич": 469,
-      "Шаплов Анатолий Анатольевич": 124,
-      "Против всех": 188
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 25,
+      "gas:candidate-vibid:1001000136019": 49,
+      "gas:candidate-vibid:1001000121816": 150,
+      "gas:candidate-vibid:1001000112194": 41,
+      "gas:candidate-vibid:1001000187995": 469,
+      "gas:candidate-vibid:323300470775": 124,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14310,14 +14310,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 32,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 87,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 266,
-      "Шаплов Анатолий Анатольевич": 62,
-      "Против всех": 102
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 32,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 87,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 266,
+      "gas:candidate-vibid:323300470775": 62,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14367,14 +14367,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 54,
-      "Земцова Маргарита Ивановна": 74,
-      "Меркачев Владимир Васильевич": 232,
-      "Ракуленко Андрей Георгиевич": 53,
-      "Харченко Иван Николаевич": 510,
-      "Шаплов Анатолий Анатольевич": 165,
-      "Против всех": 250
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 54,
+      "gas:candidate-vibid:1001000136019": 74,
+      "gas:candidate-vibid:1001000121816": 232,
+      "gas:candidate-vibid:1001000112194": 53,
+      "gas:candidate-vibid:1001000187995": 510,
+      "gas:candidate-vibid:323300470775": 165,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14424,14 +14424,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 21,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 74,
-      "Меркачев Владимир Васильевич": 192,
-      "Ракуленко Андрей Георгиевич": 67,
-      "Харченко Иван Николаевич": 509,
-      "Шаплов Анатолий Анатольевич": 124,
-      "Против всех": 225
+      "gas:candidate-vibid:323300470746": 21,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 74,
+      "gas:candidate-vibid:1001000121816": 192,
+      "gas:candidate-vibid:1001000112194": 67,
+      "gas:candidate-vibid:1001000187995": 509,
+      "gas:candidate-vibid:323300470775": 124,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14481,14 +14481,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 51,
-      "Земцова Маргарита Ивановна": 43,
-      "Меркачев Владимир Васильевич": 233,
-      "Ракуленко Андрей Георгиевич": 48,
-      "Харченко Иван Николаевич": 460,
-      "Шаплов Анатолий Анатольевич": 116,
-      "Против всех": 225
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 51,
+      "gas:candidate-vibid:1001000136019": 43,
+      "gas:candidate-vibid:1001000121816": 233,
+      "gas:candidate-vibid:1001000112194": 48,
+      "gas:candidate-vibid:1001000187995": 460,
+      "gas:candidate-vibid:323300470775": 116,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14538,14 +14538,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 58,
-      "Земцова Маргарита Ивановна": 81,
-      "Меркачев Владимир Васильевич": 175,
-      "Ракуленко Андрей Георгиевич": 56,
-      "Харченко Иван Николаевич": 518,
-      "Шаплов Анатолий Анатольевич": 135,
-      "Против всех": 197
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 58,
+      "gas:candidate-vibid:1001000136019": 81,
+      "gas:candidate-vibid:1001000121816": 175,
+      "gas:candidate-vibid:1001000112194": 56,
+      "gas:candidate-vibid:1001000187995": 518,
+      "gas:candidate-vibid:323300470775": 135,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14595,14 +14595,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 57,
-      "Земцова Маргарита Ивановна": 75,
-      "Меркачев Владимир Васильевич": 187,
-      "Ракуленко Андрей Георгиевич": 71,
-      "Харченко Иван Николаевич": 554,
-      "Шаплов Анатолий Анатольевич": 182,
-      "Против всех": 274
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 57,
+      "gas:candidate-vibid:1001000136019": 75,
+      "gas:candidate-vibid:1001000121816": 187,
+      "gas:candidate-vibid:1001000112194": 71,
+      "gas:candidate-vibid:1001000187995": 554,
+      "gas:candidate-vibid:323300470775": 182,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14652,14 +14652,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 32,
-      "Земцова Маргарита Ивановна": 46,
-      "Меркачев Владимир Васильевич": 183,
-      "Ракуленко Андрей Георгиевич": 36,
-      "Харченко Иван Николаевич": 363,
-      "Шаплов Анатолий Анатольевич": 91,
-      "Против всех": 131
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 32,
+      "gas:candidate-vibid:1001000136019": 46,
+      "gas:candidate-vibid:1001000121816": 183,
+      "gas:candidate-vibid:1001000112194": 36,
+      "gas:candidate-vibid:1001000187995": 363,
+      "gas:candidate-vibid:323300470775": 91,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14709,14 +14709,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 24,
-      "Земцова Маргарита Ивановна": 43,
-      "Меркачев Владимир Васильевич": 133,
-      "Ракуленко Андрей Георгиевич": 30,
-      "Харченко Иван Николаевич": 364,
-      "Шаплов Анатолий Анатольевич": 58,
-      "Против всех": 154
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 24,
+      "gas:candidate-vibid:1001000136019": 43,
+      "gas:candidate-vibid:1001000121816": 133,
+      "gas:candidate-vibid:1001000112194": 30,
+      "gas:candidate-vibid:1001000187995": 364,
+      "gas:candidate-vibid:323300470775": 58,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14766,14 +14766,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 19,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 119,
-      "Ракуленко Андрей Георгиевич": 31,
-      "Харченко Иван Николаевич": 319,
-      "Шаплов Анатолий Анатольевич": 103,
-      "Против всех": 137
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 19,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 119,
+      "gas:candidate-vibid:1001000112194": 31,
+      "gas:candidate-vibid:1001000187995": 319,
+      "gas:candidate-vibid:323300470775": 103,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14823,14 +14823,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 23,
-      "Земцова Маргарита Ивановна": 37,
-      "Меркачев Владимир Васильевич": 111,
-      "Ракуленко Андрей Георгиевич": 34,
-      "Харченко Иван Николаевич": 339,
-      "Шаплов Анатолий Анатольевич": 80,
-      "Против всех": 104
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 23,
+      "gas:candidate-vibid:1001000136019": 37,
+      "gas:candidate-vibid:1001000121816": 111,
+      "gas:candidate-vibid:1001000112194": 34,
+      "gas:candidate-vibid:1001000187995": 339,
+      "gas:candidate-vibid:323300470775": 80,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14880,14 +14880,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 29,
-      "Земцова Маргарита Ивановна": 47,
-      "Меркачев Владимир Васильевич": 61,
-      "Ракуленко Андрей Георгиевич": 31,
-      "Харченко Иван Николаевич": 364,
-      "Шаплов Анатолий Анатольевич": 94,
-      "Против всех": 163
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 29,
+      "gas:candidate-vibid:1001000136019": 47,
+      "gas:candidate-vibid:1001000121816": 61,
+      "gas:candidate-vibid:1001000112194": 31,
+      "gas:candidate-vibid:1001000187995": 364,
+      "gas:candidate-vibid:323300470775": 94,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -14937,14 +14937,14 @@ export const duma_2003_uik_428_region_23_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 25,
-      "Земцова Маргарита Ивановна": 92,
-      "Меркачев Владимир Васильевич": 51,
-      "Ракуленко Андрей Георгиевич": 28,
-      "Харченко Иван Николаевич": 431,
-      "Шаплов Анатолий Анатольевич": 111,
-      "Против всех": 182
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 25,
+      "gas:candidate-vibid:1001000136019": 92,
+      "gas:candidate-vibid:1001000121816": 51,
+      "gas:candidate-vibid:1001000112194": 28,
+      "gas:candidate-vibid:1001000187995": 431,
+      "gas:candidate-vibid:323300470775": 111,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",

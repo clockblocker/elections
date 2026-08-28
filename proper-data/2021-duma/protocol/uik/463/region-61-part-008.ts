@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "4614007396430",
+    "uikName": "УИК №365",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 85,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 53,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 7,
+      "26120002449529": 2,
+      "26120002449586": 53,
+      "26120002447583": 1,
+      "26120002445631": 0,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "4614007396431",
+    "uikName": "УИК №366",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 122,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 115,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 10,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 59,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 10,
+      "26120002449529": 5,
+      "26120002449586": 59,
+      "26120002447583": 3,
+      "26120002445631": 1,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "4614006430422",
+    "uikName": "УИК №268",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1891,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 215,
-      "Гогу Марина Александровна": 40,
-      "Гончаров Николай Александрович": 341,
-      "Климов Андрей Анатольевич": 36,
-      "Цапенко Артур Дмитриевич": 42,
-      "Чеботарев Денис Евгеньевич": 50
+      "26120002444600": 215,
+      "26120002449529": 40,
+      "26120002449586": 341,
+      "26120002447583": 36,
+      "26120002445631": 42,
+      "26120002444564": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "4614006430423",
+    "uikName": "УИК №269",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1850,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1950,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 224,
-      "Гогу Марина Александровна": 46,
-      "Гончаров Николай Александрович": 180,
-      "Климов Андрей Анатольевич": 55,
-      "Цапенко Артур Дмитриевич": 84,
-      "Чеботарев Денис Евгеньевич": 76
+      "26120002444600": 224,
+      "26120002449529": 46,
+      "26120002449586": 180,
+      "26120002447583": 55,
+      "26120002445631": 84,
+      "26120002444564": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "4614006430424",
+    "uikName": "УИК №270",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2225,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 219,
-      "Гогу Марина Александровна": 57,
-      "Гончаров Николай Александрович": 301,
-      "Климов Андрей Анатольевич": 41,
-      "Цапенко Артур Дмитриевич": 80,
-      "Чеботарев Денис Евгеньевич": 59
+      "26120002444600": 219,
+      "26120002449529": 57,
+      "26120002449586": 301,
+      "26120002447583": 41,
+      "26120002445631": 80,
+      "26120002444564": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "4614006430425",
+    "uikName": "УИК №271",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 774,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 91,
-      "Гогу Марина Александровна": 18,
-      "Гончаров Николай Александрович": 352,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 75,
-      "Чеботарев Денис Евгеньевич": 42
+      "26120002444600": 91,
+      "26120002449529": 18,
+      "26120002449586": 352,
+      "26120002447583": 5,
+      "26120002445631": 75,
+      "26120002444564": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "4614006430426",
+    "uikName": "УИК №272",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 178,
-      "Гогу Марина Александровна": 82,
-      "Гончаров Николай Александрович": 810,
-      "Климов Андрей Анатольевич": 59,
-      "Цапенко Артур Дмитриевич": 108,
-      "Чеботарев Денис Евгеньевич": 87
+      "26120002444600": 178,
+      "26120002449529": 82,
+      "26120002449586": 810,
+      "26120002447583": 59,
+      "26120002445631": 108,
+      "26120002444564": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "4614006430427",
+    "uikName": "УИК №273",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1166,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 110,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 146,
-      "Климов Андрей Анатольевич": 21,
-      "Цапенко Артур Дмитриевич": 58,
-      "Чеботарев Денис Евгеньевич": 35
+      "26120002444600": 110,
+      "26120002449529": 26,
+      "26120002449586": 146,
+      "26120002447583": 21,
+      "26120002445631": 58,
+      "26120002444564": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "4614006430428",
+    "uikName": "УИК №274",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 238,
-      "Гогу Марина Александровна": 178,
-      "Гончаров Николай Александрович": 438,
-      "Климов Андрей Анатольевич": 83,
-      "Цапенко Артур Дмитриевич": 146,
-      "Чеботарев Денис Евгеньевич": 96
+      "26120002444600": 238,
+      "26120002449529": 178,
+      "26120002449586": 438,
+      "26120002447583": 83,
+      "26120002445631": 146,
+      "26120002444564": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "4614006430429",
+    "uikName": "УИК №275",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2285,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 314,
-      "Гогу Марина Александровна": 83,
-      "Гончаров Николай Александрович": 400,
-      "Климов Андрей Анатольевич": 57,
-      "Цапенко Артур Дмитриевич": 107,
-      "Чеботарев Денис Евгеньевич": 120
+      "26120002444600": 314,
+      "26120002449529": 83,
+      "26120002449586": 400,
+      "26120002447583": 57,
+      "26120002445631": 107,
+      "26120002444564": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "4614006430430",
+    "uikName": "УИК №276",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1720,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 210,
-      "Гогу Марина Александровна": 56,
-      "Гончаров Николай Александрович": 484,
-      "Климов Андрей Анатольевич": 41,
-      "Цапенко Артур Дмитриевич": 72,
-      "Чеботарев Денис Евгеньевич": 120
+      "26120002444600": 210,
+      "26120002449529": 56,
+      "26120002449586": 484,
+      "26120002447583": 41,
+      "26120002445631": 72,
+      "26120002444564": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "4614006430431",
+    "uikName": "УИК №277",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 209,
-      "Гогу Марина Александровна": 51,
-      "Гончаров Николай Александрович": 285,
-      "Климов Андрей Анатольевич": 37,
-      "Цапенко Артур Дмитриевич": 58,
-      "Чеботарев Денис Евгеньевич": 69
+      "26120002444600": 209,
+      "26120002449529": 51,
+      "26120002449586": 285,
+      "26120002447583": 37,
+      "26120002445631": 58,
+      "26120002444564": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "4614006430432",
+    "uikName": "УИК №278",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1543,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 201,
-      "Гогу Марина Александровна": 61,
-      "Гончаров Николай Александрович": 217,
-      "Климов Андрей Анатольевич": 49,
-      "Цапенко Артур Дмитриевич": 65,
-      "Чеботарев Денис Евгеньевич": 78
+      "26120002444600": 201,
+      "26120002449529": 61,
+      "26120002449586": 217,
+      "26120002447583": 49,
+      "26120002445631": 65,
+      "26120002444564": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "4614006430433",
+    "uikName": "УИК №279",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1409,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 185,
-      "Гогу Марина Александровна": 61,
-      "Гончаров Николай Александрович": 351,
-      "Климов Андрей Анатольевич": 31,
-      "Цапенко Артур Дмитриевич": 94,
-      "Чеботарев Денис Евгеньевич": 83
+      "26120002444600": 185,
+      "26120002449529": 61,
+      "26120002449586": 351,
+      "26120002447583": 31,
+      "26120002445631": 94,
+      "26120002444564": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "4614006430434",
+    "uikName": "УИК №280",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1409,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 183,
-      "Гогу Марина Александровна": 45,
-      "Гончаров Николай Александрович": 304,
-      "Климов Андрей Анатольевич": 41,
-      "Цапенко Артур Дмитриевич": 38,
-      "Чеботарев Денис Евгеньевич": 54
+      "26120002444600": 183,
+      "26120002449529": 45,
+      "26120002449586": 304,
+      "26120002447583": 41,
+      "26120002445631": 38,
+      "26120002444564": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "4614006430435",
+    "uikName": "УИК №281",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1300,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 181,
-      "Гогу Марина Александровна": 51,
-      "Гончаров Николай Александрович": 169,
-      "Климов Андрей Анатольевич": 42,
-      "Цапенко Артур Дмитриевич": 58,
-      "Чеботарев Денис Евгеньевич": 65
+      "26120002444600": 181,
+      "26120002449529": 51,
+      "26120002449586": 169,
+      "26120002447583": 42,
+      "26120002445631": 58,
+      "26120002444564": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "4614006430436",
+    "uikName": "УИК №282",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2472,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 245,
-      "Гогу Марина Александровна": 73,
-      "Гончаров Николай Александрович": 416,
-      "Климов Андрей Анатольевич": 33,
-      "Цапенко Артур Дмитриевич": 84,
-      "Чеботарев Денис Евгеньевич": 109
+      "26120002444600": 245,
+      "26120002449529": 73,
+      "26120002449586": 416,
+      "26120002447583": 33,
+      "26120002445631": 84,
+      "26120002444564": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "4614006430437",
+    "uikName": "УИК №283",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 194,
-      "Гогу Марина Александровна": 48,
-      "Гончаров Николай Александрович": 322,
-      "Климов Андрей Анатольевич": 48,
-      "Цапенко Артур Дмитриевич": 58,
-      "Чеботарев Денис Евгеньевич": 66
+      "26120002444600": 194,
+      "26120002449529": 48,
+      "26120002449586": 322,
+      "26120002447583": 48,
+      "26120002445631": 58,
+      "26120002444564": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "4614006430438",
+    "uikName": "УИК №284",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1615,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 241,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 630,
-      "Климов Андрей Анатольевич": 44,
-      "Цапенко Артур Дмитриевич": 45,
-      "Чеботарев Денис Евгеньевич": 26
+      "26120002444600": 241,
+      "26120002449529": 22,
+      "26120002449586": 630,
+      "26120002447583": 44,
+      "26120002445631": 45,
+      "26120002444564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "4614006430439",
+    "uikName": "УИК №285",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1721,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1850,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 296,
-      "Гогу Марина Александровна": 33,
-      "Гончаров Николай Александрович": 471,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 67,
-      "Чеботарев Денис Евгеньевич": 66
+      "26120002444600": 296,
+      "26120002449529": 33,
+      "26120002449586": 471,
+      "26120002447583": 32,
+      "26120002445631": 67,
+      "26120002444564": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "4614006430440",
+    "uikName": "УИК №286",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2017,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 234,
-      "Гогу Марина Александровна": 45,
-      "Гончаров Николай Александрович": 284,
-      "Климов Андрей Анатольевич": 49,
-      "Цапенко Артур Дмитриевич": 59,
-      "Чеботарев Денис Евгеньевич": 113
+      "26120002444600": 234,
+      "26120002449529": 45,
+      "26120002449586": 284,
+      "26120002447583": 49,
+      "26120002445631": 59,
+      "26120002444564": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "4614006430441",
+    "uikName": "УИК №287",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 628,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 68,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 179,
-      "Климов Андрей Анатольевич": 15,
-      "Цапенко Артур Дмитриевич": 62,
-      "Чеботарев Денис Евгеньевич": 20
+      "26120002444600": 68,
+      "26120002449529": 26,
+      "26120002449586": 179,
+      "26120002447583": 15,
+      "26120002445631": 62,
+      "26120002444564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "4614006430442",
+    "uikName": "УИК №288",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 53,
-      "Гогу Марина Александровна": 11,
-      "Гончаров Николай Александрович": 175,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 23,
-      "Чеботарев Денис Евгеньевич": 12
+      "26120002444600": 53,
+      "26120002449529": 11,
+      "26120002449586": 175,
+      "26120002447583": 7,
+      "26120002445631": 23,
+      "26120002444564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "4614006430443",
+    "uikName": "УИК №289",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 293,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 32,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 126,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 19,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 32,
+      "26120002449529": 6,
+      "26120002449586": 126,
+      "26120002447583": 3,
+      "26120002445631": 19,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "4614006430444",
+    "uikName": "УИК №290",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 627,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 47,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 198,
-      "Климов Андрей Анатольевич": 34,
-      "Цапенко Артур Дмитриевич": 20,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 47,
+      "26120002449529": 22,
+      "26120002449586": 198,
+      "26120002447583": 34,
+      "26120002445631": 20,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "4614006430445",
+    "uikName": "УИК №291",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 53,
-      "Гогу Марина Александровна": 31,
-      "Гончаров Николай Александрович": 492,
-      "Климов Андрей Анатольевич": 36,
-      "Цапенко Артур Дмитриевич": 34,
-      "Чеботарев Денис Евгеньевич": 25
+      "26120002444600": 53,
+      "26120002449529": 31,
+      "26120002449586": 492,
+      "26120002447583": 36,
+      "26120002445631": 34,
+      "26120002444564": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "4614006430446",
+    "uikName": "УИК №292",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1051,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 128,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 459,
-      "Климов Андрей Анатольевич": 19,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 21
+      "26120002444600": 128,
+      "26120002449529": 22,
+      "26120002449586": 459,
+      "26120002447583": 19,
+      "26120002445631": 14,
+      "26120002444564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "4614006430447",
+    "uikName": "УИК №293",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1050,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 25,
-      "Гогу Марина Александровна": 25,
-      "Гончаров Николай Александрович": 486,
-      "Климов Андрей Анатольевич": 22,
-      "Цапенко Артур Дмитриевич": 21,
-      "Чеботарев Денис Евгеньевич": 16
+      "26120002444600": 25,
+      "26120002449529": 25,
+      "26120002449586": 486,
+      "26120002447583": 22,
+      "26120002445631": 21,
+      "26120002444564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "4614006430448",
+    "uikName": "УИК №294",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 312,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 23,
-      "Гогу Марина Александровна": 13,
-      "Гончаров Николай Александрович": 65,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 15,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 23,
+      "26120002449529": 13,
+      "26120002449586": 65,
+      "26120002447583": 26,
+      "26120002445631": 15,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "4614006430449",
+    "uikName": "УИК №295",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 40,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 2,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 18,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 2,
+      "26120002449529": 4,
+      "26120002449586": 18,
+      "26120002447583": 1,
+      "26120002445631": 0,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "4614006430450",
+    "uikName": "УИК №296",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 92,
-      "Климов Андрей Анатольевич": 11,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 20,
+      "26120002449529": 1,
+      "26120002449586": 92,
+      "26120002447583": 11,
+      "26120002445631": 14,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "4614006430451",
+    "uikName": "УИК №297",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 99,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 53,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 4,
+      "26120002449529": 2,
+      "26120002449586": 53,
+      "26120002447583": 4,
+      "26120002445631": 5,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "4614006430452",
+    "uikName": "УИК №299",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1396,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 166,
-      "Гогу Марина Александровна": 47,
-      "Гончаров Николай Александрович": 193,
-      "Климов Андрей Анатольевич": 18,
-      "Цапенко Артур Дмитриевич": 64,
-      "Чеботарев Денис Евгеньевич": 58
+      "26120002444600": 166,
+      "26120002449529": 47,
+      "26120002449586": 193,
+      "26120002447583": 18,
+      "26120002445631": 64,
+      "26120002444564": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "4614006430453",
+    "uikName": "УИК №300",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1114,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 108,
-      "Гогу Марина Александровна": 32,
-      "Гончаров Николай Александрович": 196,
-      "Климов Андрей Анатольевич": 16,
-      "Цапенко Артур Дмитриевич": 80,
-      "Чеботарев Денис Евгеньевич": 53
+      "26120002444600": 108,
+      "26120002449529": 32,
+      "26120002449586": 196,
+      "26120002447583": 16,
+      "26120002445631": 80,
+      "26120002444564": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "4614006430454",
+    "uikName": "УИК №301",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 122,
-      "Гогу Марина Александровна": 24,
-      "Гончаров Николай Александрович": 219,
-      "Климов Андрей Анатольевич": 23,
-      "Цапенко Артур Дмитриевич": 113,
-      "Чеботарев Денис Евгеньевич": 24
+      "26120002444600": 122,
+      "26120002449529": 24,
+      "26120002449586": 219,
+      "26120002447583": 23,
+      "26120002445631": 113,
+      "26120002444564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "4614006430455",
+    "uikName": "УИК №302",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 546,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 96,
-      "Гогу Марина Александровна": 19,
-      "Гончаров Николай Александрович": 161,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 29,
-      "Чеботарев Денис Евгеньевич": 24
+      "26120002444600": 96,
+      "26120002449529": 19,
+      "26120002449586": 161,
+      "26120002447583": 12,
+      "26120002445631": 29,
+      "26120002444564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "4614006430456",
+    "uikName": "УИК №303",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 391,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 57,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 100,
-      "Климов Андрей Анатольевич": 11,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 24
+      "26120002444600": 57,
+      "26120002449529": 12,
+      "26120002449586": 100,
+      "26120002447583": 11,
+      "26120002445631": 17,
+      "26120002444564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "4614006430457",
+    "uikName": "УИК №304",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 57,
-      "Гогу Марина Александровна": 20,
-      "Гончаров Николай Александрович": 104,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 32,
-      "Чеботарев Денис Евгеньевич": 37
+      "26120002444600": 57,
+      "26120002449529": 20,
+      "26120002449586": 104,
+      "26120002447583": 12,
+      "26120002445631": 32,
+      "26120002444564": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "4614006430458",
+    "uikName": "УИК №305",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 172,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 22,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 92,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 13,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 22,
+      "26120002449529": 9,
+      "26120002449586": 92,
+      "26120002447583": 5,
+      "26120002445631": 13,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "4614006430459",
+    "uikName": "УИК №306",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1898,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 157,
-      "Гогу Марина Александровна": 72,
-      "Гончаров Николай Александрович": 648,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 79,
-      "Чеботарев Денис Евгеньевич": 75
+      "26120002444600": 157,
+      "26120002449529": 72,
+      "26120002449586": 648,
+      "26120002447583": 32,
+      "26120002445631": 79,
+      "26120002444564": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "4614006430460",
+    "uikName": "УИК №307",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1763,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 144,
-      "Гогу Марина Александровна": 34,
-      "Гончаров Николай Александрович": 744,
-      "Климов Андрей Анатольевич": 33,
-      "Цапенко Артур Дмитриевич": 63,
-      "Чеботарев Денис Евгеньевич": 78
+      "26120002444600": 144,
+      "26120002449529": 34,
+      "26120002449586": 744,
+      "26120002447583": 33,
+      "26120002445631": 63,
+      "26120002444564": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "4614006430461",
+    "uikName": "УИК №308",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1589,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 138,
-      "Гогу Марина Александровна": 30,
-      "Гончаров Николай Александрович": 624,
-      "Климов Андрей Анатольевич": 44,
-      "Цапенко Артур Дмитриевич": 60,
-      "Чеботарев Денис Евгеньевич": 42
+      "26120002444600": 138,
+      "26120002449529": 30,
+      "26120002449586": 624,
+      "26120002447583": 44,
+      "26120002445631": 60,
+      "26120002444564": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "4614006430462",
+    "uikName": "УИК №309",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 561,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 70,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 218,
-      "Климов Андрей Анатольевич": 15,
-      "Цапенко Артур Дмитриевич": 42,
-      "Чеботарев Денис Евгеньевич": 21
+      "26120002444600": 70,
+      "26120002449529": 14,
+      "26120002449586": 218,
+      "26120002447583": 15,
+      "26120002445631": 42,
+      "26120002444564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "4614006430463",
+    "uikName": "УИК №310",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 311,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 32,
-      "Гогу Марина Александровна": 16,
-      "Гончаров Николай Александрович": 81,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 12
+      "26120002444600": 32,
+      "26120002449529": 16,
+      "26120002449586": 81,
+      "26120002447583": 4,
+      "26120002445631": 22,
+      "26120002444564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "4614006430464",
+    "uikName": "УИК №311",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1300,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 140,
-      "Гогу Марина Александровна": 45,
-      "Гончаров Николай Александрович": 444,
-      "Климов Андрей Анатольевич": 40,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 39
+      "26120002444600": 140,
+      "26120002449529": 45,
+      "26120002449586": 444,
+      "26120002447583": 40,
+      "26120002445631": 30,
+      "26120002444564": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "4614006430465",
+    "uikName": "УИК №312",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1253,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 166,
-      "Гогу Марина Александровна": 62,
-      "Гончаров Николай Александрович": 289,
-      "Климов Андрей Анатольевич": 44,
-      "Цапенко Артур Дмитриевич": 38,
-      "Чеботарев Денис Евгеньевич": 57
+      "26120002444600": 166,
+      "26120002449529": 62,
+      "26120002449586": 289,
+      "26120002447583": 44,
+      "26120002445631": 38,
+      "26120002444564": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "4614006430466",
+    "uikName": "УИК №313",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1376,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 148,
-      "Гогу Марина Александровна": 46,
-      "Гончаров Николай Александрович": 443,
-      "Климов Андрей Анатольевич": 24,
-      "Цапенко Артур Дмитриевич": 47,
-      "Чеботарев Денис Евгеньевич": 53
+      "26120002444600": 148,
+      "26120002449529": 46,
+      "26120002449586": 443,
+      "26120002447583": 24,
+      "26120002445631": 47,
+      "26120002444564": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "4614006430467",
+    "uikName": "УИК №314",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1884,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 215,
-      "Гогу Марина Александровна": 71,
-      "Гончаров Николай Александрович": 613,
-      "Климов Андрей Анатольевич": 44,
-      "Цапенко Артур Дмитриевич": 50,
-      "Чеботарев Денис Евгеньевич": 84
+      "26120002444600": 215,
+      "26120002449529": 71,
+      "26120002449586": 613,
+      "26120002447583": 44,
+      "26120002445631": 50,
+      "26120002444564": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "4614006430468",
+    "uikName": "УИК №315",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 853,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 107,
-      "Гогу Марина Александровна": 28,
-      "Гончаров Николай Александрович": 217,
-      "Климов Андрей Анатольевич": 28,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 31
+      "26120002444600": 107,
+      "26120002449529": 28,
+      "26120002449586": 217,
+      "26120002447583": 28,
+      "26120002445631": 30,
+      "26120002444564": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "4614006430469",
+    "uikName": "УИК №316",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 468,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 53,
-      "Гогу Марина Александровна": 19,
-      "Гончаров Николай Александрович": 192,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 27
+      "26120002444600": 53,
+      "26120002449529": 19,
+      "26120002449586": 192,
+      "26120002447583": 6,
+      "26120002445631": 22,
+      "26120002444564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "4614006430470",
+    "uikName": "УИК №317",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 806,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 88,
-      "Гогу Марина Александровна": 27,
-      "Гончаров Николай Александрович": 284,
-      "Климов Андрей Анатольевич": 21,
-      "Цапенко Артур Дмитриевич": 29,
-      "Чеботарев Денис Евгеньевич": 32
+      "26120002444600": 88,
+      "26120002449529": 27,
+      "26120002449586": 284,
+      "26120002447583": 21,
+      "26120002445631": 29,
+      "26120002444564": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "4614006430471",
+    "uikName": "УИК №318",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 347,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 25,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 125,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 27
+      "26120002444600": 25,
+      "26120002449529": 8,
+      "26120002449586": 125,
+      "26120002447583": 1,
+      "26120002445631": 17,
+      "26120002444564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "4614006430472",
+    "uikName": "УИК №319",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 15,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 84,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 7
+      "26120002444600": 15,
+      "26120002449529": 4,
+      "26120002449586": 84,
+      "26120002447583": 3,
+      "26120002445631": 2,
+      "26120002444564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "4614006430473",
+    "uikName": "УИК №320",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 513,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 68,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 176,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 15,
-      "Чеботарев Денис Евгеньевич": 31
+      "26120002444600": 68,
+      "26120002449529": 12,
+      "26120002449586": 176,
+      "26120002447583": 12,
+      "26120002445631": 15,
+      "26120002444564": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "4614006430474",
+    "uikName": "УИК №321",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 124,
-      "Гогу Марина Александровна": 27,
-      "Гончаров Николай Александрович": 398,
-      "Климов Андрей Анатольевич": 38,
-      "Цапенко Артур Дмитриевич": 65,
-      "Чеботарев Денис Евгеньевич": 74
+      "26120002444600": 124,
+      "26120002449529": 27,
+      "26120002449586": 398,
+      "26120002447583": 38,
+      "26120002445631": 65,
+      "26120002444564": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "4614006430475",
+    "uikName": "УИК №322",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1338,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 121,
-      "Гогу Марина Александровна": 40,
-      "Гончаров Николай Александрович": 505,
-      "Климов Андрей Анатольевич": 23,
-      "Цапенко Артур Дмитриевич": 34,
-      "Чеботарев Денис Евгеньевич": 45
+      "26120002444600": 121,
+      "26120002449529": 40,
+      "26120002449586": 505,
+      "26120002447583": 23,
+      "26120002445631": 34,
+      "26120002444564": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "4614006430476",
+    "uikName": "УИК №323",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 345,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 33,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 118,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 28,
-      "Чеботарев Денис Евгеньевич": 13
+      "26120002444600": 33,
+      "26120002449529": 12,
+      "26120002449586": 118,
+      "26120002447583": 12,
+      "26120002445631": 28,
+      "26120002444564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "4614006430477",
+    "uikName": "УИК №324",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 710,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 94,
-      "Гогу Марина Александровна": 17,
-      "Гончаров Николай Александрович": 171,
-      "Климов Андрей Анатольевич": 20,
-      "Цапенко Артур Дмитриевич": 44,
-      "Чеботарев Денис Евгеньевич": 31
+      "26120002444600": 94,
+      "26120002449529": 17,
+      "26120002449586": 171,
+      "26120002447583": 20,
+      "26120002445631": 44,
+      "26120002444564": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "4614006430478",
+    "uikName": "УИК №325",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1863,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1950,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 301,
-      "Гогу Марина Александровна": 51,
-      "Гончаров Николай Александрович": 573,
-      "Климов Андрей Анатольевич": 40,
-      "Цапенко Артур Дмитриевич": 79,
-      "Чеботарев Денис Евгеньевич": 52
+      "26120002444600": 301,
+      "26120002449529": 51,
+      "26120002449586": 573,
+      "26120002447583": 40,
+      "26120002445631": 79,
+      "26120002444564": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "4614006430479",
+    "uikName": "УИК №326",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 637,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 51,
-      "Гогу Марина Александровна": 18,
-      "Гончаров Николай Александрович": 360,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 25
+      "26120002444600": 51,
+      "26120002449529": 18,
+      "26120002449586": 360,
+      "26120002447583": 8,
+      "26120002445631": 17,
+      "26120002444564": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "4614006430480",
+    "uikName": "УИК №327",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 180,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 16,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 85,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 18,
-      "Чеботарев Денис Евгеньевич": 12
+      "26120002444600": 16,
+      "26120002449529": 6,
+      "26120002449586": 85,
+      "26120002447583": 2,
+      "26120002445631": 18,
+      "26120002444564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "4614006430481",
+    "uikName": "УИК №328",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 140,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 11,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 66,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 14
+      "26120002444600": 11,
+      "26120002449529": 4,
+      "26120002449586": 66,
+      "26120002447583": 2,
+      "26120002445631": 4,
+      "26120002444564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "4614006430482",
+    "uikName": "УИК №329",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 307,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 40,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 95,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 13
+      "26120002444600": 40,
+      "26120002449529": 9,
+      "26120002449586": 95,
+      "26120002447583": 8,
+      "26120002445631": 10,
+      "26120002444564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "4614006430483",
+    "uikName": "УИК №330",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 27,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 62,
-      "Климов Андрей Анатольевич": 21,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 23
+      "26120002444600": 27,
+      "26120002449529": 10,
+      "26120002449586": 62,
+      "26120002447583": 21,
+      "26120002445631": 17,
+      "26120002444564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "4614006430484",
+    "uikName": "УИК №331",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 405,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 51,
-      "Гогу Марина Александровна": 15,
-      "Гончаров Николай Александрович": 78,
-      "Климов Андрей Анатольевич": 16,
-      "Цапенко Артур Дмитриевич": 38,
-      "Чеботарев Денис Евгеньевич": 20
+      "26120002444600": 51,
+      "26120002449529": 15,
+      "26120002449586": 78,
+      "26120002447583": 16,
+      "26120002445631": 38,
+      "26120002444564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "4614006430485",
+    "uikName": "УИК №332",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 798,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 62,
-      "Гогу Марина Александровна": 21,
-      "Гончаров Николай Александрович": 321,
-      "Климов Андрей Анатольевич": 18,
-      "Цапенко Артур Дмитриевич": 24,
-      "Чеботарев Денис Евгеньевич": 32
+      "26120002444600": 62,
+      "26120002449529": 21,
+      "26120002449586": 321,
+      "26120002447583": 18,
+      "26120002445631": 24,
+      "26120002444564": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "4614006430486",
+    "uikName": "УИК №333",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 775,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 102,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 359,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 29,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 102,
+      "26120002449529": 26,
+      "26120002449586": 359,
+      "26120002447583": 26,
+      "26120002445631": 29,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "4614006430487",
+    "uikName": "УИК №334",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 308,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 65,
-      "Гогу Марина Александровна": 7,
-      "Гончаров Николай Александрович": 96,
-      "Климов Андрей Анатольевич": 11,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 65,
+      "26120002449529": 7,
+      "26120002449586": 96,
+      "26120002447583": 11,
+      "26120002445631": 14,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "4614006430488",
+    "uikName": "УИК №335",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 523,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 66,
-      "Гогу Марина Александровна": 19,
-      "Гончаров Николай Александрович": 150,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 26,
-      "Чеботарев Денис Евгеньевич": 24
+      "26120002444600": 66,
+      "26120002449529": 19,
+      "26120002449586": 150,
+      "26120002447583": 17,
+      "26120002445631": 26,
+      "26120002444564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "4614006430489",
+    "uikName": "УИК №336",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 857,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 98,
-      "Гогу Марина Александровна": 30,
-      "Гончаров Николай Александрович": 305,
-      "Климов Андрей Анатольевич": 16,
-      "Цапенко Артур Дмитриевич": 33,
-      "Чеботарев Денис Евгеньевич": 32
+      "26120002444600": 98,
+      "26120002449529": 30,
+      "26120002449586": 305,
+      "26120002447583": 16,
+      "26120002445631": 33,
+      "26120002444564": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "4614006430490",
+    "uikName": "УИК №337",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 792,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 101,
-      "Гогу Марина Александровна": 34,
-      "Гончаров Николай Александрович": 389,
-      "Климов Андрей Анатольевич": 28,
-      "Цапенко Артур Дмитриевич": 42,
-      "Чеботарев Денис Евгеньевич": 23
+      "26120002444600": 101,
+      "26120002449529": 34,
+      "26120002449586": 389,
+      "26120002447583": 28,
+      "26120002445631": 42,
+      "26120002444564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "4614006430491",
+    "uikName": "УИК №338",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 46,
-      "Гогу Марина Александровна": 18,
-      "Гончаров Николай Александрович": 174,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 23,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 46,
+      "26120002449529": 18,
+      "26120002449586": 174,
+      "26120002447583": 8,
+      "26120002445631": 23,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "4614006430492",
+    "uikName": "УИК №339",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 678,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 64,
-      "Гогу Марина Александровна": 15,
-      "Гончаров Николай Александрович": 303,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 19,
-      "Чеботарев Денис Евгеньевич": 11
+      "26120002444600": 64,
+      "26120002449529": 15,
+      "26120002449586": 303,
+      "26120002447583": 9,
+      "26120002445631": 19,
+      "26120002444564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "4614006430493",
+    "uikName": "УИК №340",
     "tikTvd": "26120002435615",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 59,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 7,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 4,
+      "26120002449529": 3,
+      "26120002449586": 59,
+      "26120002447583": 2,
+      "26120002445631": 7,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:05.905688+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435615&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435615&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2477,
     "uikTvd": "4614061686605",
+    "uikName": "УИК №2477",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2308,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3062,14 +3658,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 89,
-      "Кошляков Константин Алексеевич": 45,
-      "Кулешов Александр Алексеевич": 38,
-      "Мезинов Юрий Геннадьевич": 83,
-      "Птушкин Илья Игоревич": 33,
-      "Стенякина Екатерина Петровна": 178,
-      "Шаповалов Сергей Александрович": 138
+      "26120002448601": 20,
+      "26120002448682": 89,
+      "26120002448886": 45,
+      "26120002447533": 38,
+      "26120002446287": 83,
+      "26120002445822": 33,
+      "26120002445767": 178,
+      "26120002444691": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3079,6 +3675,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3088,8 +3688,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2478,
     "uikTvd": "4614061686606",
+    "uikName": "УИК №2478",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2065,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -3105,14 +3709,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 54,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 40,
-      "Мезинов Юрий Геннадьевич": 95,
-      "Птушкин Илья Игоревич": 30,
-      "Стенякина Екатерина Петровна": 148,
-      "Шаповалов Сергей Александрович": 107
+      "26120002448601": 20,
+      "26120002448682": 54,
+      "26120002448886": 26,
+      "26120002447533": 40,
+      "26120002446287": 95,
+      "26120002445822": 30,
+      "26120002445767": 148,
+      "26120002444691": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3122,6 +3726,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3131,8 +3739,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2479,
     "uikTvd": "4614061686607",
+    "uikName": "УИК №2479",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1968,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -3148,14 +3760,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 152,
-      "Кошляков Константин Алексеевич": 28,
-      "Кулешов Александр Алексеевич": 24,
-      "Мезинов Юрий Геннадьевич": 56,
-      "Птушкин Илья Игоревич": 25,
-      "Стенякина Екатерина Петровна": 120,
-      "Шаповалов Сергей Александрович": 123
+      "26120002448601": 16,
+      "26120002448682": 152,
+      "26120002448886": 28,
+      "26120002447533": 24,
+      "26120002446287": 56,
+      "26120002445822": 25,
+      "26120002445767": 120,
+      "26120002444691": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3165,6 +3777,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3174,8 +3790,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2480,
     "uikTvd": "4614061686608",
+    "uikName": "УИК №2480",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1616,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3191,14 +3811,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 70,
-      "Кошляков Константин Алексеевич": 29,
-      "Кулешов Александр Алексеевич": 22,
-      "Мезинов Юрий Геннадьевич": 44,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 96,
-      "Шаповалов Сергей Александрович": 93
+      "26120002448601": 17,
+      "26120002448682": 70,
+      "26120002448886": 29,
+      "26120002447533": 22,
+      "26120002446287": 44,
+      "26120002445822": 21,
+      "26120002445767": 96,
+      "26120002444691": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3208,6 +3828,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3217,8 +3841,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2481,
     "uikTvd": "4614061686609",
+    "uikName": "УИК №2481",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1381,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3234,14 +3862,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 85,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 17,
-      "Мезинов Юрий Геннадьевич": 63,
-      "Птушкин Илья Игоревич": 23,
-      "Стенякина Екатерина Петровна": 87,
-      "Шаповалов Сергей Александрович": 93
+      "26120002448601": 13,
+      "26120002448682": 85,
+      "26120002448886": 33,
+      "26120002447533": 17,
+      "26120002446287": 63,
+      "26120002445822": 23,
+      "26120002445767": 87,
+      "26120002444691": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3251,6 +3879,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3260,8 +3892,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2482,
     "uikTvd": "4614061686610",
+    "uikName": "УИК №2482",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1238,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -3277,14 +3913,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 14,
-      "Калинин Владимир Андреевич": 12,
-      "Кошляков Константин Алексеевич": 15,
-      "Кулешов Александр Алексеевич": 17,
-      "Мезинов Юрий Геннадьевич": 42,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 132,
-      "Шаповалов Сергей Александрович": 59
+      "26120002448601": 14,
+      "26120002448682": 12,
+      "26120002448886": 15,
+      "26120002447533": 17,
+      "26120002446287": 42,
+      "26120002445822": 19,
+      "26120002445767": 132,
+      "26120002444691": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3294,6 +3930,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3303,8 +3943,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2483,
     "uikTvd": "4614061686611",
+    "uikName": "УИК №2483",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1680,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -3320,14 +3964,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 63,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 27,
-      "Мезинов Юрий Геннадьевич": 62,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 105,
-      "Шаповалов Сергей Александрович": 122
+      "26120002448601": 18,
+      "26120002448682": 63,
+      "26120002448886": 33,
+      "26120002447533": 27,
+      "26120002446287": 62,
+      "26120002445822": 26,
+      "26120002445767": 105,
+      "26120002444691": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3337,6 +3981,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3346,8 +3994,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2484,
     "uikTvd": "4614061686612",
+    "uikName": "УИК №2484",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1501,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -3363,14 +4015,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 21,
-      "Калинин Владимир Андреевич": 53,
-      "Кошляков Константин Алексеевич": 29,
-      "Кулешов Александр Алексеевич": 32,
-      "Мезинов Юрий Геннадьевич": 62,
-      "Птушкин Илья Игоревич": 18,
-      "Стенякина Екатерина Петровна": 172,
-      "Шаповалов Сергей Александрович": 110
+      "26120002448601": 21,
+      "26120002448682": 53,
+      "26120002448886": 29,
+      "26120002447533": 32,
+      "26120002446287": 62,
+      "26120002445822": 18,
+      "26120002445767": 172,
+      "26120002444691": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3380,6 +4032,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3389,8 +4045,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2485,
     "uikTvd": "4614061686613",
+    "uikName": "УИК №2485",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1992,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -3406,14 +4066,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 24,
-      "Калинин Владимир Андреевич": 34,
-      "Кошляков Константин Алексеевич": 39,
-      "Кулешов Александр Алексеевич": 56,
-      "Мезинов Юрий Геннадьевич": 68,
-      "Птушкин Илья Игоревич": 35,
-      "Стенякина Екатерина Петровна": 217,
-      "Шаповалов Сергей Александрович": 129
+      "26120002448601": 24,
+      "26120002448682": 34,
+      "26120002448886": 39,
+      "26120002447533": 56,
+      "26120002446287": 68,
+      "26120002445822": 35,
+      "26120002445767": 217,
+      "26120002444691": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3423,6 +4083,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3432,8 +4096,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2486,
     "uikTvd": "4614061686614",
+    "uikName": "УИК №2486",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -3449,14 +4117,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 21,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 36,
-      "Мезинов Юрий Геннадьевич": 56,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 108,
-      "Шаповалов Сергей Александрович": 130
+      "26120002448601": 21,
+      "26120002448682": 21,
+      "26120002448886": 33,
+      "26120002447533": 36,
+      "26120002446287": 56,
+      "26120002445822": 19,
+      "26120002445767": 108,
+      "26120002444691": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3466,6 +4134,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3475,8 +4147,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2487,
     "uikTvd": "4614061686615",
+    "uikName": "УИК №2487",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1842,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -3492,14 +4168,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 24,
-      "Калинин Владимир Андреевич": 50,
-      "Кошляков Константин Алексеевич": 56,
-      "Кулешов Александр Алексеевич": 65,
-      "Мезинов Юрий Геннадьевич": 110,
-      "Птушкин Илья Игоревич": 28,
-      "Стенякина Екатерина Петровна": 162,
-      "Шаповалов Сергей Александрович": 162
+      "26120002448601": 24,
+      "26120002448682": 50,
+      "26120002448886": 56,
+      "26120002447533": 65,
+      "26120002446287": 110,
+      "26120002445822": 28,
+      "26120002445767": 162,
+      "26120002444691": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3509,6 +4185,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3518,8 +4198,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2488,
     "uikTvd": "4614061686616",
+    "uikName": "УИК №2488",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1594,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -3535,14 +4219,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 23,
-      "Калинин Владимир Андреевич": 34,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 49,
-      "Мезинов Юрий Геннадьевич": 93,
-      "Птушкин Илья Игоревич": 29,
-      "Стенякина Екатерина Петровна": 151,
-      "Шаповалов Сергей Александрович": 126
+      "26120002448601": 23,
+      "26120002448682": 34,
+      "26120002448886": 37,
+      "26120002447533": 49,
+      "26120002446287": 93,
+      "26120002445822": 29,
+      "26120002445767": 151,
+      "26120002444691": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3552,6 +4236,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3561,8 +4249,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2489,
     "uikTvd": "4614061686617",
+    "uikName": "УИК №2489",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1239,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -3578,14 +4270,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 35,
-      "Кошляков Константин Алексеевич": 25,
-      "Кулешов Александр Алексеевич": 27,
-      "Мезинов Юрий Геннадьевич": 59,
-      "Птушкин Илья Игоревич": 18,
-      "Стенякина Екатерина Петровна": 110,
-      "Шаповалов Сергей Александрович": 85
+      "26120002448601": 13,
+      "26120002448682": 35,
+      "26120002448886": 25,
+      "26120002447533": 27,
+      "26120002446287": 59,
+      "26120002445822": 18,
+      "26120002445767": 110,
+      "26120002444691": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3595,6 +4287,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3604,8 +4300,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2490,
     "uikTvd": "4614061686618",
+    "uikName": "УИК №2490",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1060,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -3621,14 +4321,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 16,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 29,
-      "Мезинов Юрий Геннадьевич": 55,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 101,
-      "Шаповалов Сергей Александрович": 91
+      "26120002448601": 15,
+      "26120002448682": 16,
+      "26120002448886": 26,
+      "26120002447533": 29,
+      "26120002446287": 55,
+      "26120002445822": 12,
+      "26120002445767": 101,
+      "26120002444691": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3638,6 +4338,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3647,8 +4351,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2491,
     "uikTvd": "4614061686619",
+    "uikName": "УИК №2491",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1208,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -3664,14 +4372,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 34,
-      "Кулешов Александр Алексеевич": 43,
-      "Мезинов Юрий Геннадьевич": 44,
-      "Птушкин Илья Игоревич": 24,
-      "Стенякина Екатерина Петровна": 100,
-      "Шаповалов Сергей Александрович": 131
+      "26120002448601": 19,
+      "26120002448682": 18,
+      "26120002448886": 34,
+      "26120002447533": 43,
+      "26120002446287": 44,
+      "26120002445822": 24,
+      "26120002445767": 100,
+      "26120002444691": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3681,6 +4389,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3690,8 +4402,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2492,
     "uikTvd": "4614061686620",
+    "uikName": "УИК №2492",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1232,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -3707,14 +4423,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 28,
-      "Калинин Владимир Андреевич": 31,
-      "Кошляков Константин Алексеевич": 39,
-      "Кулешов Александр Алексеевич": 24,
-      "Мезинов Юрий Геннадьевич": 52,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 148,
-      "Шаповалов Сергей Александрович": 110
+      "26120002448601": 28,
+      "26120002448682": 31,
+      "26120002448886": 39,
+      "26120002447533": 24,
+      "26120002446287": 52,
+      "26120002445822": 20,
+      "26120002445767": 148,
+      "26120002444691": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3724,6 +4440,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3733,8 +4453,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2493,
     "uikTvd": "4614061686621",
+    "uikName": "УИК №2493",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1474,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -3750,14 +4474,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 22,
-      "Калинин Владимир Андреевич": 39,
-      "Кошляков Константин Алексеевич": 56,
-      "Кулешов Александр Алексеевич": 49,
-      "Мезинов Юрий Геннадьевич": 73,
-      "Птушкин Илья Игоревич": 27,
-      "Стенякина Екатерина Петровна": 146,
-      "Шаповалов Сергей Александрович": 146
+      "26120002448601": 22,
+      "26120002448682": 39,
+      "26120002448886": 56,
+      "26120002447533": 49,
+      "26120002446287": 73,
+      "26120002445822": 27,
+      "26120002445767": 146,
+      "26120002444691": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3767,6 +4491,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3776,8 +4504,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2494,
     "uikTvd": "4614061686622",
+    "uikName": "УИК №2494",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2027,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -3793,14 +4525,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 24,
-      "Калинин Владимир Андреевич": 38,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 37,
-      "Мезинов Юрий Геннадьевич": 84,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 138,
-      "Шаповалов Сергей Александрович": 125
+      "26120002448601": 24,
+      "26120002448682": 38,
+      "26120002448886": 33,
+      "26120002447533": 37,
+      "26120002446287": 84,
+      "26120002445822": 21,
+      "26120002445767": 138,
+      "26120002444691": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3810,6 +4542,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3819,8 +4555,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2495,
     "uikTvd": "4614061686623",
+    "uikName": "УИК №2495",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1451,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3836,14 +4576,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 23,
-      "Кошляков Константин Алексеевич": 22,
-      "Кулешов Александр Алексеевич": 27,
-      "Мезинов Юрий Геннадьевич": 68,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 104,
-      "Шаповалов Сергей Александрович": 126
+      "26120002448601": 17,
+      "26120002448682": 23,
+      "26120002448886": 22,
+      "26120002447533": 27,
+      "26120002446287": 68,
+      "26120002445822": 16,
+      "26120002445767": 104,
+      "26120002444691": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3853,6 +4593,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3862,8 +4606,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2496,
     "uikTvd": "4614061686624",
+    "uikName": "УИК №2496",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -3879,14 +4627,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 20,
-      "Кулешов Александр Алексеевич": 23,
-      "Мезинов Юрий Геннадьевич": 47,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 153,
-      "Шаповалов Сергей Александрович": 75
+      "26120002448601": 13,
+      "26120002448682": 18,
+      "26120002448886": 20,
+      "26120002447533": 23,
+      "26120002446287": 47,
+      "26120002445822": 19,
+      "26120002445767": 153,
+      "26120002444691": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3896,6 +4644,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3905,8 +4657,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2497,
     "uikTvd": "4614061686625",
+    "uikName": "УИК №2497",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 995,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -3922,14 +4678,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 25,
-      "Кошляков Константин Алексеевич": 12,
-      "Кулешов Александр Алексеевич": 16,
-      "Мезинов Юрий Геннадьевич": 31,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 139,
-      "Шаповалов Сергей Александрович": 43
+      "26120002448601": 6,
+      "26120002448682": 25,
+      "26120002448886": 12,
+      "26120002447533": 16,
+      "26120002446287": 31,
+      "26120002445822": 16,
+      "26120002445767": 139,
+      "26120002444691": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3939,6 +4695,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3948,8 +4708,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2498,
     "uikTvd": "4614061686626",
+    "uikName": "УИК №2498",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1396,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -3965,14 +4729,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 44,
-      "Кошляков Константин Алексеевич": 29,
-      "Кулешов Александр Алексеевич": 29,
-      "Мезинов Юрий Геннадьевич": 63,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 112,
-      "Шаповалов Сергей Александрович": 102
+      "26120002448601": 11,
+      "26120002448682": 44,
+      "26120002448886": 29,
+      "26120002447533": 29,
+      "26120002446287": 63,
+      "26120002445822": 17,
+      "26120002445767": 112,
+      "26120002444691": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -3982,6 +4746,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -3991,8 +4759,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2499,
     "uikTvd": "4614061686627",
+    "uikName": "УИК №2499",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -4008,14 +4780,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 23,
-      "Кошляков Константин Алексеевич": 19,
-      "Кулешов Александр Алексеевич": 27,
-      "Мезинов Юрий Геннадьевич": 47,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 90,
-      "Шаповалов Сергей Александрович": 88
+      "26120002448601": 15,
+      "26120002448682": 23,
+      "26120002448886": 19,
+      "26120002447533": 27,
+      "26120002446287": 47,
+      "26120002445822": 17,
+      "26120002445767": 90,
+      "26120002444691": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4025,6 +4797,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4034,8 +4810,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2500,
     "uikTvd": "4614061686628",
+    "uikName": "УИК №2500",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -4051,14 +4831,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 14,
-      "Калинин Владимир Андреевич": 20,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 16,
-      "Мезинов Юрий Геннадьевич": 57,
-      "Птушкин Илья Игоревич": 27,
-      "Стенякина Екатерина Петровна": 88,
-      "Шаповалов Сергей Александрович": 72
+      "26120002448601": 14,
+      "26120002448682": 20,
+      "26120002448886": 17,
+      "26120002447533": 16,
+      "26120002446287": 57,
+      "26120002445822": 27,
+      "26120002445767": 88,
+      "26120002444691": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4068,6 +4848,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4077,8 +4861,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2501,
     "uikTvd": "4614061686629",
+    "uikName": "УИК №2501",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2016,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -4094,14 +4882,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 29,
-      "Калинин Владимир Андреевич": 48,
-      "Кошляков Константин Алексеевич": 35,
-      "Кулешов Александр Алексеевич": 48,
-      "Мезинов Юрий Геннадьевич": 74,
-      "Птушкин Илья Игоревич": 35,
-      "Стенякина Екатерина Петровна": 125,
-      "Шаповалов Сергей Александрович": 193
+      "26120002448601": 29,
+      "26120002448682": 48,
+      "26120002448886": 35,
+      "26120002447533": 48,
+      "26120002446287": 74,
+      "26120002445822": 35,
+      "26120002445767": 125,
+      "26120002444691": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4111,6 +4899,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4120,8 +4912,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2502,
     "uikTvd": "4614061686630",
+    "uikName": "УИК №2502",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1334,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4137,14 +4933,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 27,
-      "Кошляков Константин Алексеевич": 23,
-      "Кулешов Александр Алексеевич": 26,
-      "Мезинов Юрий Геннадьевич": 61,
-      "Птушкин Илья Игоревич": 11,
-      "Стенякина Екатерина Петровна": 122,
-      "Шаповалов Сергей Александрович": 108
+      "26120002448601": 15,
+      "26120002448682": 27,
+      "26120002448886": 23,
+      "26120002447533": 26,
+      "26120002446287": 61,
+      "26120002445822": 11,
+      "26120002445767": 122,
+      "26120002444691": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4154,6 +4950,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4163,8 +4963,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2503,
     "uikTvd": "4614061686631",
+    "uikName": "УИК №2503",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1169,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -4180,14 +4984,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 27,
-      "Кошляков Константин Алексеевич": 35,
-      "Кулешов Александр Алексеевич": 20,
-      "Мезинов Юрий Геннадьевич": 46,
-      "Птушкин Илья Игоревич": 22,
-      "Стенякина Екатерина Петровна": 113,
-      "Шаповалов Сергей Александрович": 87
+      "26120002448601": 15,
+      "26120002448682": 27,
+      "26120002448886": 35,
+      "26120002447533": 20,
+      "26120002446287": 46,
+      "26120002445822": 22,
+      "26120002445767": 113,
+      "26120002444691": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4197,6 +5001,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4206,8 +5014,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2504,
     "uikTvd": "4614061686632",
+    "uikName": "УИК №2504",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2204,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4223,14 +5035,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 22,
-      "Калинин Владимир Андреевич": 57,
-      "Кошляков Константин Алексеевич": 40,
-      "Кулешов Александр Алексеевич": 35,
-      "Мезинов Юрий Геннадьевич": 85,
-      "Птушкин Илья Игоревич": 35,
-      "Стенякина Екатерина Петровна": 144,
-      "Шаповалов Сергей Александрович": 114
+      "26120002448601": 22,
+      "26120002448682": 57,
+      "26120002448886": 40,
+      "26120002447533": 35,
+      "26120002446287": 85,
+      "26120002445822": 35,
+      "26120002445767": 144,
+      "26120002444691": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4240,6 +5052,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4249,8 +5065,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2505,
     "uikTvd": "4614061686633",
+    "uikName": "УИК №2505",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2186,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4266,14 +5086,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 25,
-      "Калинин Владимир Андреевич": 47,
-      "Кошляков Константин Алексеевич": 57,
-      "Кулешов Александр Алексеевич": 34,
-      "Мезинов Юрий Геннадьевич": 90,
-      "Птушкин Илья Игоревич": 43,
-      "Стенякина Екатерина Петровна": 290,
-      "Шаповалов Сергей Александрович": 145
+      "26120002448601": 25,
+      "26120002448682": 47,
+      "26120002448886": 57,
+      "26120002447533": 34,
+      "26120002446287": 90,
+      "26120002445822": 43,
+      "26120002445767": 290,
+      "26120002444691": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4283,6 +5103,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4292,8 +5116,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2506,
     "uikTvd": "4614061686634",
+    "uikName": "УИК №2506",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1683,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -4309,14 +5137,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 32,
-      "Кошляков Константин Алексеевич": 38,
-      "Кулешов Александр Алексеевич": 39,
-      "Мезинов Юрий Геннадьевич": 71,
-      "Птушкин Илья Игоревич": 24,
-      "Стенякина Екатерина Петровна": 136,
-      "Шаповалов Сергей Александрович": 167
+      "26120002448601": 16,
+      "26120002448682": 32,
+      "26120002448886": 38,
+      "26120002447533": 39,
+      "26120002446287": 71,
+      "26120002445822": 24,
+      "26120002445767": 136,
+      "26120002444691": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4326,6 +5154,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4335,8 +5167,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2507,
     "uikTvd": "4614061686635",
+    "uikName": "УИК №2507",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 954,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -4352,14 +5188,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 12,
-      "Кошляков Константин Алексеевич": 15,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 21,
-      "Птушкин Илья Игоревич": 7,
-      "Стенякина Екатерина Петровна": 248,
-      "Шаповалов Сергей Александрович": 24
+      "26120002448601": 7,
+      "26120002448682": 12,
+      "26120002448886": 15,
+      "26120002447533": 13,
+      "26120002446287": 21,
+      "26120002445822": 7,
+      "26120002445767": 248,
+      "26120002444691": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4369,6 +5205,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4378,8 +5218,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2508,
     "uikTvd": "4614061686636",
+    "uikName": "УИК №2508",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1258,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -4395,14 +5239,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 14,
-      "Кошляков Константин Алексеевич": 28,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 35,
-      "Птушкин Илья Игоревич": 18,
-      "Стенякина Екатерина Петровна": 78,
-      "Шаповалов Сергей Александрович": 72
+      "26120002448601": 13,
+      "26120002448682": 14,
+      "26120002448886": 28,
+      "26120002447533": 11,
+      "26120002446287": 35,
+      "26120002445822": 18,
+      "26120002445767": 78,
+      "26120002444691": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4412,6 +5256,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4421,8 +5269,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2509,
     "uikTvd": "4614061686637",
+    "uikName": "УИК №2509",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1424,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4438,14 +5290,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 24,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 14,
-      "Мезинов Юрий Геннадьевич": 44,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 98,
-      "Шаповалов Сергей Александрович": 80
+      "26120002448601": 16,
+      "26120002448682": 24,
+      "26120002448886": 30,
+      "26120002447533": 14,
+      "26120002446287": 44,
+      "26120002445822": 16,
+      "26120002445767": 98,
+      "26120002444691": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4455,6 +5307,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4464,8 +5320,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2510,
     "uikTvd": "4614061686638",
+    "uikName": "УИК №2510",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2128,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -4481,14 +5341,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 17,
-      "Кошляков Константин Алексеевич": 6,
-      "Кулешов Александр Алексеевич": 21,
-      "Мезинов Юрий Геннадьевич": 28,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 678,
-      "Шаповалов Сергей Александрович": 59
+      "26120002448601": 11,
+      "26120002448682": 17,
+      "26120002448886": 6,
+      "26120002447533": 21,
+      "26120002446287": 28,
+      "26120002445822": 9,
+      "26120002445767": 678,
+      "26120002444691": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4498,6 +5358,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4507,8 +5371,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2511,
     "uikTvd": "4614061686639",
+    "uikName": "УИК №2511",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1756,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -4524,14 +5392,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 22,
-      "Калинин Владимир Андреевич": 32,
-      "Кошляков Константин Алексеевич": 35,
-      "Кулешов Александр Алексеевич": 21,
-      "Мезинов Юрий Геннадьевич": 62,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 178,
-      "Шаповалов Сергей Александрович": 87
+      "26120002448601": 22,
+      "26120002448682": 32,
+      "26120002448886": 35,
+      "26120002447533": 21,
+      "26120002446287": 62,
+      "26120002445822": 12,
+      "26120002445767": 178,
+      "26120002444691": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4541,6 +5409,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4550,8 +5422,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2512,
     "uikTvd": "4614061686640",
+    "uikName": "УИК №2512",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1787,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -4567,14 +5443,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 65,
-      "Кошляков Константин Алексеевич": 24,
-      "Кулешов Александр Алексеевич": 33,
-      "Мезинов Юрий Геннадьевич": 70,
-      "Птушкин Илья Игоревич": 28,
-      "Стенякина Екатерина Петровна": 442,
-      "Шаповалов Сергей Александрович": 124
+      "26120002448601": 16,
+      "26120002448682": 65,
+      "26120002448886": 24,
+      "26120002447533": 33,
+      "26120002446287": 70,
+      "26120002445822": 28,
+      "26120002445767": 442,
+      "26120002444691": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4584,6 +5460,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4593,8 +5473,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2513,
     "uikTvd": "4614061686641",
+    "uikName": "УИК №2513",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1944,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -4610,14 +5494,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 8,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 9,
-      "Кулешов Александр Алексеевич": 16,
-      "Мезинов Юрий Геннадьевич": 24,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 599,
-      "Шаповалов Сергей Александрович": 44
+      "26120002448601": 8,
+      "26120002448682": 21,
+      "26120002448886": 9,
+      "26120002447533": 16,
+      "26120002446287": 24,
+      "26120002445822": 9,
+      "26120002445767": 599,
+      "26120002444691": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4627,6 +5511,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4636,8 +5524,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2514,
     "uikTvd": "4614061686642",
+    "uikName": "УИК №2514",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -4653,14 +5545,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 50,
-      "Кошляков Константин Алексеевич": 27,
-      "Кулешов Александр Алексеевич": 25,
-      "Мезинов Юрий Геннадьевич": 33,
-      "Птушкин Илья Игоревич": 13,
-      "Стенякина Екатерина Петровна": 106,
-      "Шаповалов Сергей Александрович": 144
+      "26120002448601": 11,
+      "26120002448682": 50,
+      "26120002448886": 27,
+      "26120002447533": 25,
+      "26120002446287": 33,
+      "26120002445822": 13,
+      "26120002445767": 106,
+      "26120002444691": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4670,6 +5562,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4679,8 +5575,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2515,
     "uikTvd": "4614061686643",
+    "uikName": "УИК №2515",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1389,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4696,14 +5596,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 14,
-      "Калинин Владимир Андреевич": 48,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 23,
-      "Мезинов Юрий Геннадьевич": 51,
-      "Птушкин Илья Игоревич": 29,
-      "Стенякина Екатерина Петровна": 136,
-      "Шаповалов Сергей Александрович": 121
+      "26120002448601": 14,
+      "26120002448682": 48,
+      "26120002448886": 30,
+      "26120002447533": 23,
+      "26120002446287": 51,
+      "26120002445822": 29,
+      "26120002445767": 136,
+      "26120002444691": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4713,6 +5613,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4722,8 +5626,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2516,
     "uikTvd": "4614061686644",
+    "uikName": "УИК №2516",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1662,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -4739,14 +5647,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 52,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 29,
-      "Мезинов Юрий Геннадьевич": 34,
-      "Птушкин Илья Игоревич": 15,
-      "Стенякина Екатерина Петровна": 142,
-      "Шаповалов Сергей Александрович": 130
+      "26120002448601": 18,
+      "26120002448682": 52,
+      "26120002448886": 30,
+      "26120002447533": 29,
+      "26120002446287": 34,
+      "26120002445822": 15,
+      "26120002445767": 142,
+      "26120002444691": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4756,6 +5664,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4765,8 +5677,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2517,
     "uikTvd": "4614061686645",
+    "uikName": "УИК №2517",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 912,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -4782,14 +5698,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 8,
-      "Мезинов Юрий Геннадьевич": 25,
-      "Птушкин Илья Игоревич": 10,
-      "Стенякина Екатерина Петровна": 155,
-      "Шаповалов Сергей Александрович": 80
+      "26120002448601": 3,
+      "26120002448682": 6,
+      "26120002448886": 3,
+      "26120002447533": 8,
+      "26120002446287": 25,
+      "26120002445822": 10,
+      "26120002445767": 155,
+      "26120002444691": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4799,6 +5715,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4808,8 +5728,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2518,
     "uikTvd": "4614061686646",
+    "uikName": "УИК №2518",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1266,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -4825,14 +5749,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 19,
-      "Кошляков Константин Алексеевич": 14,
-      "Кулешов Александр Алексеевич": 12,
-      "Мезинов Юрий Геннадьевич": 33,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 88,
-      "Шаповалов Сергей Александрович": 100
+      "26120002448601": 12,
+      "26120002448682": 19,
+      "26120002448886": 14,
+      "26120002447533": 12,
+      "26120002446287": 33,
+      "26120002445822": 17,
+      "26120002445767": 88,
+      "26120002444691": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4842,6 +5766,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4851,8 +5779,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2519,
     "uikTvd": "4614061686647",
+    "uikName": "УИК №2519",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1794,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -4868,14 +5800,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 26,
-      "Калинин Владимир Андреевич": 46,
-      "Кошляков Константин Алексеевич": 47,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 64,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 139,
-      "Шаповалов Сергей Александрович": 131
+      "26120002448601": 26,
+      "26120002448682": 46,
+      "26120002448886": 47,
+      "26120002447533": 30,
+      "26120002446287": 64,
+      "26120002445822": 26,
+      "26120002445767": 139,
+      "26120002444691": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4885,6 +5817,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4894,8 +5830,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2520,
     "uikTvd": "4614061686648",
+    "uikName": "УИК №2520",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1687,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -4911,14 +5851,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 24,
-      "Кошляков Константин Алексеевич": 23,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 56,
-      "Птушкин Илья Игоревич": 14,
-      "Стенякина Екатерина Петровна": 277,
-      "Шаповалов Сергей Александрович": 99
+      "26120002448601": 13,
+      "26120002448682": 24,
+      "26120002448886": 23,
+      "26120002447533": 30,
+      "26120002446287": 56,
+      "26120002445822": 14,
+      "26120002445767": 277,
+      "26120002444691": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4928,6 +5868,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4937,8 +5881,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2521,
     "uikTvd": "4614061686649",
+    "uikName": "УИК №2521",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1986,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4954,14 +5902,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 19,
-      "Кошляков Константин Алексеевич": 16,
-      "Кулешов Александр Алексеевич": 12,
-      "Мезинов Юрий Геннадьевич": 34,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 609,
-      "Шаповалов Сергей Александрович": 88
+      "26120002448601": 12,
+      "26120002448682": 19,
+      "26120002448886": 16,
+      "26120002447533": 12,
+      "26120002446287": 34,
+      "26120002445822": 20,
+      "26120002445767": 609,
+      "26120002444691": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -4971,6 +5919,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -4980,8 +5932,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2522,
     "uikTvd": "4614061686650",
+    "uikName": "УИК №2522",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1329,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -4997,14 +5953,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 42,
-      "Кошляков Константин Алексеевич": 20,
-      "Кулешов Александр Алексеевич": 17,
-      "Мезинов Юрий Геннадьевич": 60,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 75,
-      "Шаповалов Сергей Александрович": 95
+      "26120002448601": 19,
+      "26120002448682": 42,
+      "26120002448886": 20,
+      "26120002447533": 17,
+      "26120002446287": 60,
+      "26120002445822": 19,
+      "26120002445767": 75,
+      "26120002444691": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5014,6 +5970,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5023,8 +5983,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2523,
     "uikTvd": "4614061686651",
+    "uikName": "УИК №2523",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2039,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5040,14 +6004,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 69,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 54,
-      "Мезинов Юрий Геннадьевич": 75,
-      "Птушкин Илья Игоревич": 29,
-      "Стенякина Екатерина Петровна": 522,
-      "Шаповалов Сергей Александрович": 134
+      "26120002448601": 20,
+      "26120002448682": 69,
+      "26120002448886": 37,
+      "26120002447533": 54,
+      "26120002446287": 75,
+      "26120002445822": 29,
+      "26120002445767": 522,
+      "26120002444691": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5057,6 +6021,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5066,8 +6034,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2524,
     "uikTvd": "4614061686652",
+    "uikName": "УИК №2524",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1803,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -5083,14 +6055,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 34,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 35,
-      "Мезинов Юрий Геннадьевич": 64,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 303,
-      "Шаповалов Сергей Александрович": 109
+      "26120002448601": 20,
+      "26120002448682": 34,
+      "26120002448886": 37,
+      "26120002447533": 35,
+      "26120002446287": 64,
+      "26120002445822": 20,
+      "26120002445767": 303,
+      "26120002444691": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5100,6 +6072,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5109,8 +6085,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2525,
     "uikTvd": "4614061686653",
+    "uikName": "УИК №2525",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1118,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -5126,14 +6106,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 9,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 37,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 78,
-      "Шаповалов Сергей Александрович": 68
+      "26120002448601": 9,
+      "26120002448682": 18,
+      "26120002448886": 26,
+      "26120002447533": 19,
+      "26120002446287": 37,
+      "26120002445822": 19,
+      "26120002445767": 78,
+      "26120002444691": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5143,6 +6123,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5152,8 +6136,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2526,
     "uikTvd": "4614061686654",
+    "uikName": "УИК №2526",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1538,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -5169,14 +6157,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 34,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 21,
-      "Мезинов Юрий Геннадьевич": 47,
-      "Птушкин Илья Игоревич": 23,
-      "Стенякина Екатерина Петровна": 86,
-      "Шаповалов Сергей Александрович": 74
+      "26120002448601": 16,
+      "26120002448682": 34,
+      "26120002448886": 17,
+      "26120002447533": 21,
+      "26120002446287": 47,
+      "26120002445822": 23,
+      "26120002445767": 86,
+      "26120002444691": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5186,6 +6174,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5195,8 +6187,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2527,
     "uikTvd": "4614061686655",
+    "uikName": "УИК №2527",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1274,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -5212,14 +6208,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 13,
-      "Кошляков Константин Алексеевич": 36,
-      "Кулешов Александр Алексеевич": 23,
-      "Мезинов Юрий Геннадьевич": 58,
-      "Птушкин Илья Игоревич": 25,
-      "Стенякина Екатерина Петровна": 114,
-      "Шаповалов Сергей Александрович": 95
+      "26120002448601": 19,
+      "26120002448682": 13,
+      "26120002448886": 36,
+      "26120002447533": 23,
+      "26120002446287": 58,
+      "26120002445822": 25,
+      "26120002445767": 114,
+      "26120002444691": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5229,6 +6225,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5238,8 +6238,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2528,
     "uikTvd": "4614061686656",
+    "uikName": "УИК №2528",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1706,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -5255,14 +6259,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 38,
-      "Кошляков Константин Алексеевич": 45,
-      "Кулешов Александр Алексеевич": 70,
-      "Мезинов Юрий Геннадьевич": 83,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 228,
-      "Шаповалов Сергей Александрович": 151
+      "26120002448601": 20,
+      "26120002448682": 38,
+      "26120002448886": 45,
+      "26120002447533": 70,
+      "26120002446287": 83,
+      "26120002445822": 19,
+      "26120002445767": 228,
+      "26120002444691": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5272,6 +6276,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5281,8 +6289,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2529,
     "uikTvd": "4614061686657",
+    "uikName": "УИК №2529",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1120,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -5298,14 +6310,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 16,
-      "Кошляков Константин Алексеевич": 28,
-      "Кулешов Александр Алексеевич": 31,
-      "Мезинов Юрий Геннадьевич": 40,
-      "Птушкин Илья Игоревич": 25,
-      "Стенякина Екатерина Петровна": 185,
-      "Шаповалов Сергей Александрович": 80
+      "26120002448601": 17,
+      "26120002448682": 16,
+      "26120002448886": 28,
+      "26120002447533": 31,
+      "26120002446287": 40,
+      "26120002445822": 25,
+      "26120002445767": 185,
+      "26120002444691": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5315,6 +6327,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5324,8 +6340,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2530,
     "uikTvd": "4614061686658",
+    "uikName": "УИК №2530",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1404,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -5341,14 +6361,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 28,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 39,
-      "Мезинов Юрий Геннадьевич": 73,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 139,
-      "Шаповалов Сергей Александрович": 120
+      "26120002448601": 16,
+      "26120002448682": 28,
+      "26120002448886": 33,
+      "26120002447533": 39,
+      "26120002446287": 73,
+      "26120002445822": 20,
+      "26120002445767": 139,
+      "26120002444691": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5358,6 +6378,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5367,8 +6391,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2531,
     "uikTvd": "4614061686659",
+    "uikName": "УИК №2531",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 916,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -5384,14 +6412,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 15,
-      "Мезинов Юрий Геннадьевич": 23,
-      "Птушкин Илья Игоревич": 8,
-      "Стенякина Екатерина Петровна": 295,
-      "Шаповалов Сергей Александрович": 42
+      "26120002448601": 15,
+      "26120002448682": 21,
+      "26120002448886": 17,
+      "26120002447533": 15,
+      "26120002446287": 23,
+      "26120002445822": 8,
+      "26120002445767": 295,
+      "26120002444691": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5401,6 +6429,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5410,8 +6442,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2532,
     "uikTvd": "4614061686660",
+    "uikName": "УИК №2532",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1687,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -5427,14 +6463,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 8,
-      "Калинин Владимир Андреевич": 23,
-      "Кошляков Константин Алексеевич": 31,
-      "Кулешов Александр Алексеевич": 28,
-      "Мезинов Юрий Геннадьевич": 57,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 256,
-      "Шаповалов Сергей Александрович": 101
+      "26120002448601": 8,
+      "26120002448682": 23,
+      "26120002448886": 31,
+      "26120002447533": 28,
+      "26120002446287": 57,
+      "26120002445822": 26,
+      "26120002445767": 256,
+      "26120002444691": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5444,6 +6480,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5453,8 +6493,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2533,
     "uikTvd": "4614061686661",
+    "uikName": "УИК №2533",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1257,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -5470,14 +6514,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 22,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 22,
-      "Мезинов Юрий Геннадьевич": 58,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 148,
-      "Шаповалов Сергей Александрович": 120
+      "26120002448601": 18,
+      "26120002448682": 22,
+      "26120002448886": 30,
+      "26120002447533": 22,
+      "26120002446287": 58,
+      "26120002445822": 17,
+      "26120002445767": 148,
+      "26120002444691": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5487,6 +6531,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5496,8 +6544,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2534,
     "uikTvd": "4614061686662",
+    "uikName": "УИК №2534",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -5513,14 +6565,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 17,
-      "Кошляков Константин Алексеевич": 15,
-      "Кулешов Александр Алексеевич": 17,
-      "Мезинов Юрий Геннадьевич": 51,
-      "Птушкин Илья Игоревич": 15,
-      "Стенякина Екатерина Петровна": 305,
-      "Шаповалов Сергей Александрович": 129
+      "26120002448601": 15,
+      "26120002448682": 17,
+      "26120002448886": 15,
+      "26120002447533": 17,
+      "26120002446287": 51,
+      "26120002445822": 15,
+      "26120002445767": 305,
+      "26120002444691": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5530,6 +6582,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5539,8 +6595,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2535,
     "uikTvd": "4614061686663",
+    "uikName": "УИК №2535",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1568,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -5556,14 +6616,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 32,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 36,
-      "Мезинов Юрий Геннадьевич": 44,
-      "Птушкин Илья Игоревич": 14,
-      "Стенякина Екатерина Петровна": 270,
-      "Шаповалов Сергей Александрович": 84
+      "26120002448601": 12,
+      "26120002448682": 32,
+      "26120002448886": 26,
+      "26120002447533": 36,
+      "26120002446287": 44,
+      "26120002445822": 14,
+      "26120002445767": 270,
+      "26120002444691": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5573,6 +6633,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5582,8 +6646,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2536,
     "uikTvd": "4614061686664",
+    "uikName": "УИК №2536",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1209,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -5599,14 +6667,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 16,
-      "Кошляков Константин Алексеевич": 15,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 65,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 76,
-      "Шаповалов Сергей Александрович": 66
+      "26120002448601": 15,
+      "26120002448682": 16,
+      "26120002448886": 15,
+      "26120002447533": 19,
+      "26120002446287": 65,
+      "26120002445822": 19,
+      "26120002445767": 76,
+      "26120002444691": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5616,6 +6684,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5625,8 +6697,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2537,
     "uikTvd": "4614061686665",
+    "uikName": "УИК №2537",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1985,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5642,14 +6718,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 25,
-      "Калинин Владимир Андреевич": 42,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 64,
-      "Птушкин Илья Игоревич": 23,
-      "Стенякина Екатерина Петровна": 286,
-      "Шаповалов Сергей Александрович": 122
+      "26120002448601": 25,
+      "26120002448682": 42,
+      "26120002448886": 26,
+      "26120002447533": 30,
+      "26120002446287": 64,
+      "26120002445822": 23,
+      "26120002445767": 286,
+      "26120002444691": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5659,6 +6735,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5668,8 +6748,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2538,
     "uikTvd": "4614061686666",
+    "uikName": "УИК №2538",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1544,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -5685,14 +6769,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 25,
-      "Кошляков Константин Алексеевич": 36,
-      "Кулешов Александр Алексеевич": 22,
-      "Мезинов Юрий Геннадьевич": 69,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 210,
-      "Шаповалов Сергей Александрович": 84
+      "26120002448601": 17,
+      "26120002448682": 25,
+      "26120002448886": 36,
+      "26120002447533": 22,
+      "26120002446287": 69,
+      "26120002445822": 16,
+      "26120002445767": 210,
+      "26120002444691": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5702,6 +6786,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5711,8 +6799,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2539,
     "uikTvd": "4614061686667",
+    "uikName": "УИК №2539",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -5728,14 +6820,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 8,
-      "Калинин Владимир Андреевич": 32,
-      "Кошляков Константин Алексеевич": 32,
-      "Кулешов Александр Алексеевич": 46,
-      "Мезинов Юрий Геннадьевич": 73,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 288,
-      "Шаповалов Сергей Александрович": 85
+      "26120002448601": 8,
+      "26120002448682": 32,
+      "26120002448886": 32,
+      "26120002447533": 46,
+      "26120002446287": 73,
+      "26120002445822": 16,
+      "26120002445767": 288,
+      "26120002444691": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5745,6 +6837,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5754,8 +6850,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2540,
     "uikTvd": "4614061686668",
+    "uikName": "УИК №2540",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1548,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -5771,14 +6871,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 26,
-      "Калинин Владимир Андреевич": 41,
-      "Кошляков Константин Алексеевич": 38,
-      "Кулешов Александр Алексеевич": 40,
-      "Мезинов Юрий Геннадьевич": 68,
-      "Птушкин Илья Игоревич": 24,
-      "Стенякина Екатерина Петровна": 113,
-      "Шаповалов Сергей Александрович": 116
+      "26120002448601": 26,
+      "26120002448682": 41,
+      "26120002448886": 38,
+      "26120002447533": 40,
+      "26120002446287": 68,
+      "26120002445822": 24,
+      "26120002445767": 113,
+      "26120002444691": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5788,6 +6888,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5797,8 +6901,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2541,
     "uikTvd": "4614061686669",
+    "uikName": "УИК №2541",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1291,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -5814,14 +6922,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 10,
-      "Кошляков Константин Алексеевич": 32,
-      "Кулешов Александр Алексеевич": 25,
-      "Мезинов Юрий Геннадьевич": 71,
-      "Птушкин Илья Игоревич": 15,
-      "Стенякина Екатерина Петровна": 149,
-      "Шаповалов Сергей Александрович": 93
+      "26120002448601": 20,
+      "26120002448682": 10,
+      "26120002448886": 32,
+      "26120002447533": 25,
+      "26120002446287": 71,
+      "26120002445822": 15,
+      "26120002445767": 149,
+      "26120002444691": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5831,6 +6939,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5840,8 +6952,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2542,
     "uikTvd": "4614061686670",
+    "uikName": "УИК №2542",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1481,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -5857,14 +6973,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 28,
-      "Кошляков Константин Алексеевич": 29,
-      "Кулешов Александр Алексеевич": 35,
-      "Мезинов Юрий Геннадьевич": 52,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 115,
-      "Шаповалов Сергей Александрович": 108
+      "26120002448601": 17,
+      "26120002448682": 28,
+      "26120002448886": 29,
+      "26120002447533": 35,
+      "26120002446287": 52,
+      "26120002445822": 19,
+      "26120002445767": 115,
+      "26120002444691": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5874,6 +6990,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5883,8 +7003,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2543,
     "uikTvd": "4614061686671",
+    "uikName": "УИК №2543",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1877,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -5900,14 +7024,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 10,
-      "Кошляков Константин Алексеевич": 24,
-      "Кулешов Александр Алексеевич": 35,
-      "Мезинов Юрий Геннадьевич": 51,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 188,
-      "Шаповалов Сергей Александрович": 99
+      "26120002448601": 10,
+      "26120002448682": 10,
+      "26120002448886": 24,
+      "26120002447533": 35,
+      "26120002446287": 51,
+      "26120002445822": 20,
+      "26120002445767": 188,
+      "26120002444691": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5917,6 +7041,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5926,8 +7054,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2544,
     "uikTvd": "4614061686672",
+    "uikName": "УИК №2544",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1201,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -5943,14 +7075,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 8,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 5,
-      "Мезинов Юрий Геннадьевич": 25,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 133,
-      "Шаповалов Сергей Александрович": 58
+      "26120002448601": 7,
+      "26120002448682": 8,
+      "26120002448886": 5,
+      "26120002447533": 5,
+      "26120002446287": 25,
+      "26120002445822": 9,
+      "26120002445767": 133,
+      "26120002444691": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -5960,6 +7092,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -5969,8 +7105,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2545,
     "uikTvd": "4614061686673",
+    "uikName": "УИК №2545",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1264,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -5986,14 +7126,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 14,
-      "Калинин Владимир Андреевич": 34,
-      "Кошляков Константин Алексеевич": 39,
-      "Кулешов Александр Алексеевич": 42,
-      "Мезинов Юрий Геннадьевич": 50,
-      "Птушкин Илья Игоревич": 27,
-      "Стенякина Екатерина Петровна": 125,
-      "Шаповалов Сергей Александрович": 105
+      "26120002448601": 14,
+      "26120002448682": 34,
+      "26120002448886": 39,
+      "26120002447533": 42,
+      "26120002446287": 50,
+      "26120002445822": 27,
+      "26120002445767": 125,
+      "26120002444691": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6003,6 +7143,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6012,8 +7156,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2546,
     "uikTvd": "4614061686674",
+    "uikName": "УИК №2546",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1512,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6029,14 +7177,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 38,
-      "Кошляков Константин Алексеевич": 22,
-      "Кулешов Александр Алексеевич": 28,
-      "Мезинов Юрий Геннадьевич": 52,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 117,
-      "Шаповалов Сергей Александрович": 107
+      "26120002448601": 19,
+      "26120002448682": 38,
+      "26120002448886": 22,
+      "26120002447533": 28,
+      "26120002446287": 52,
+      "26120002445822": 17,
+      "26120002445767": 117,
+      "26120002444691": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6046,6 +7194,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6055,8 +7207,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2547,
     "uikTvd": "4614061686675",
+    "uikName": "УИК №2547",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1531,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -6072,14 +7228,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 35,
-      "Кошляков Константин Алексеевич": 32,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 59,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 155,
-      "Шаповалов Сергей Александрович": 65
+      "26120002448601": 15,
+      "26120002448682": 35,
+      "26120002448886": 32,
+      "26120002447533": 19,
+      "26120002446287": 59,
+      "26120002445822": 20,
+      "26120002445767": 155,
+      "26120002444691": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6089,6 +7245,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6098,8 +7258,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2548,
     "uikTvd": "4614061686676",
+    "uikName": "УИК №2548",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1470,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6115,14 +7279,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 33,
-      "Кошляков Константин Алексеевич": 36,
-      "Кулешов Александр Алексеевич": 45,
-      "Мезинов Юрий Геннадьевич": 64,
-      "Птушкин Илья Игоревич": 24,
-      "Стенякина Екатерина Петровна": 128,
-      "Шаповалов Сергей Александрович": 77
+      "26120002448601": 16,
+      "26120002448682": 33,
+      "26120002448886": 36,
+      "26120002447533": 45,
+      "26120002446287": 64,
+      "26120002445822": 24,
+      "26120002445767": 128,
+      "26120002444691": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6132,6 +7296,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6141,8 +7309,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2549,
     "uikTvd": "4614061686677",
+    "uikName": "УИК №2549",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1797,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -6158,14 +7330,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 31,
-      "Кошляков Константин Алексеевич": 35,
-      "Кулешов Александр Алексеевич": 31,
-      "Мезинов Юрий Геннадьевич": 41,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 151,
-      "Шаповалов Сергей Александрович": 96
+      "26120002448601": 17,
+      "26120002448682": 31,
+      "26120002448886": 35,
+      "26120002447533": 31,
+      "26120002446287": 41,
+      "26120002445822": 26,
+      "26120002445767": 151,
+      "26120002444691": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6175,6 +7347,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6184,8 +7360,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2550,
     "uikTvd": "4614061686678",
+    "uikName": "УИК №2550",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -6201,14 +7381,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 17,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 15,
-      "Мезинов Юрий Геннадьевич": 49,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 152,
-      "Шаповалов Сергей Александрович": 97
+      "26120002448601": 10,
+      "26120002448682": 17,
+      "26120002448886": 30,
+      "26120002447533": 15,
+      "26120002446287": 49,
+      "26120002445822": 26,
+      "26120002445767": 152,
+      "26120002444691": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6218,6 +7398,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6227,8 +7411,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2551,
     "uikTvd": "4614061686679",
+    "uikName": "УИК №2551",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1244,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6244,14 +7432,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 5,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 22,
-      "Мезинов Юрий Геннадьевич": 44,
-      "Птушкин Илья Игоревич": 10,
-      "Стенякина Екатерина Петровна": 120,
-      "Шаповалов Сергей Александрович": 110
+      "26120002448601": 5,
+      "26120002448682": 18,
+      "26120002448886": 30,
+      "26120002447533": 22,
+      "26120002446287": 44,
+      "26120002445822": 10,
+      "26120002445767": 120,
+      "26120002444691": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6261,6 +7449,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6270,8 +7462,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2552,
     "uikTvd": "4614061686680",
+    "uikName": "УИК №2552",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1786,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -6287,14 +7483,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 22,
-      "Кошляков Константин Алексеевич": 23,
-      "Кулешов Александр Алексеевич": 18,
-      "Мезинов Юрий Геннадьевич": 54,
-      "Птушкин Илья Игоревич": 24,
-      "Стенякина Екатерина Петровна": 178,
-      "Шаповалов Сергей Александрович": 125
+      "26120002448601": 10,
+      "26120002448682": 22,
+      "26120002448886": 23,
+      "26120002447533": 18,
+      "26120002446287": 54,
+      "26120002445822": 24,
+      "26120002445767": 178,
+      "26120002444691": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6304,6 +7500,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6313,8 +7513,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2553,
     "uikTvd": "4614061686681",
+    "uikName": "УИК №2553",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 931,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -6330,14 +7534,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 16,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 34,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 62,
-      "Шаповалов Сергей Александрович": 46
+      "26120002448601": 7,
+      "26120002448682": 18,
+      "26120002448886": 16,
+      "26120002447533": 19,
+      "26120002446287": 34,
+      "26120002445822": 9,
+      "26120002445767": 62,
+      "26120002444691": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6347,6 +7551,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6356,8 +7564,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2554,
     "uikTvd": "4614061686682",
+    "uikName": "УИК №2554",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1058,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -6373,14 +7585,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 14,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 23,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 83,
-      "Шаповалов Сергей Александрович": 65
+      "26120002448601": 10,
+      "26120002448682": 6,
+      "26120002448886": 14,
+      "26120002447533": 11,
+      "26120002446287": 23,
+      "26120002445822": 12,
+      "26120002445767": 83,
+      "26120002444691": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6390,6 +7602,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6399,8 +7615,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2555,
     "uikTvd": "4614061686683",
+    "uikName": "УИК №2555",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 729,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -6416,14 +7636,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 11,
-      "Кошляков Константин Алексеевич": 8,
-      "Кулешов Александр Алексеевич": 8,
-      "Мезинов Юрий Геннадьевич": 31,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 51,
-      "Шаповалов Сергей Александрович": 58
+      "26120002448601": 6,
+      "26120002448682": 11,
+      "26120002448886": 8,
+      "26120002447533": 8,
+      "26120002446287": 31,
+      "26120002445822": 12,
+      "26120002445767": 51,
+      "26120002444691": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6433,6 +7653,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6442,8 +7666,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2556,
     "uikTvd": "4614061686684",
+    "uikName": "УИК №2556",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1247,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6459,14 +7687,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 17,
-      "Мезинов Юрий Геннадьевич": 41,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 91,
-      "Шаповалов Сергей Александрович": 95
+      "26120002448601": 13,
+      "26120002448682": 21,
+      "26120002448886": 37,
+      "26120002447533": 17,
+      "26120002446287": 41,
+      "26120002445822": 16,
+      "26120002445767": 91,
+      "26120002444691": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6476,6 +7704,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6485,8 +7717,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2557,
     "uikTvd": "4614061686685",
+    "uikName": "УИК №2557",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1706,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -6502,14 +7738,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 13,
-      "Кошляков Константин Алексеевич": 32,
-      "Кулешов Александр Алексеевич": 9,
-      "Мезинов Юрий Геннадьевич": 47,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 89,
-      "Шаповалов Сергей Александрович": 107
+      "26120002448601": 6,
+      "26120002448682": 13,
+      "26120002448886": 32,
+      "26120002447533": 9,
+      "26120002446287": 47,
+      "26120002445822": 17,
+      "26120002445767": 89,
+      "26120002444691": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6519,6 +7755,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6528,8 +7768,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2558,
     "uikTvd": "4614061686686",
+    "uikName": "УИК №2558",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1678,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -6545,14 +7789,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 26,
-      "Калинин Владимир Андреевич": 34,
-      "Кошляков Константин Алексеевич": 38,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 65,
-      "Птушкин Илья Игоревич": 23,
-      "Стенякина Екатерина Петровна": 119,
-      "Шаповалов Сергей Александрович": 150
+      "26120002448601": 26,
+      "26120002448682": 34,
+      "26120002448886": 38,
+      "26120002447533": 30,
+      "26120002446287": 65,
+      "26120002445822": 23,
+      "26120002445767": 119,
+      "26120002444691": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6562,6 +7806,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6571,8 +7819,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2559,
     "uikTvd": "4614061686687",
+    "uikName": "УИК №2559",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 821,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -6588,14 +7840,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 17,
-      "Кошляков Константин Алексеевич": 6,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 40,
-      "Птушкин Илья Игоревич": 14,
-      "Стенякина Екатерина Петровна": 71,
-      "Шаповалов Сергей Александрович": 63
+      "26120002448601": 3,
+      "26120002448682": 17,
+      "26120002448886": 6,
+      "26120002447533": 19,
+      "26120002446287": 40,
+      "26120002445822": 14,
+      "26120002445767": 71,
+      "26120002444691": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6605,6 +7857,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6614,8 +7870,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2560,
     "uikTvd": "4614061686688",
+    "uikName": "УИК №2560",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2404,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6631,14 +7891,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 39,
-      "Калинин Владимир Андреевич": 46,
-      "Кошляков Константин Алексеевич": 51,
-      "Кулешов Александр Алексеевич": 45,
-      "Мезинов Юрий Геннадьевич": 105,
-      "Птушкин Илья Игоревич": 38,
-      "Стенякина Екатерина Петровна": 190,
-      "Шаповалов Сергей Александрович": 201
+      "26120002448601": 39,
+      "26120002448682": 46,
+      "26120002448886": 51,
+      "26120002447533": 45,
+      "26120002446287": 105,
+      "26120002445822": 38,
+      "26120002445767": 190,
+      "26120002444691": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6648,6 +7908,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6657,8 +7921,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2561,
     "uikTvd": "4614061686689",
+    "uikName": "УИК №2561",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1950,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -6674,14 +7942,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 21,
-      "Калинин Владимир Андреевич": 31,
-      "Кошляков Константин Алексеевич": 34,
-      "Кулешов Александр Алексеевич": 42,
-      "Мезинов Юрий Геннадьевич": 96,
-      "Птушкин Илья Игоревич": 18,
-      "Стенякина Екатерина Петровна": 157,
-      "Шаповалов Сергей Александрович": 137
+      "26120002448601": 21,
+      "26120002448682": 31,
+      "26120002448886": 34,
+      "26120002447533": 42,
+      "26120002446287": 96,
+      "26120002445822": 18,
+      "26120002445767": 157,
+      "26120002444691": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6691,6 +7959,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6700,8 +7972,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2562,
     "uikTvd": "4614061686690",
+    "uikName": "УИК №2562",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1432,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6717,14 +7993,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 23,
-      "Калинин Владимир Андреевич": 23,
-      "Кошляков Константин Алексеевич": 29,
-      "Кулешов Александр Алексеевич": 31,
-      "Мезинов Юрий Геннадьевич": 70,
-      "Птушкин Илья Игоревич": 23,
-      "Стенякина Екатерина Петровна": 151,
-      "Шаповалов Сергей Александрович": 107
+      "26120002448601": 23,
+      "26120002448682": 23,
+      "26120002448886": 29,
+      "26120002447533": 31,
+      "26120002446287": 70,
+      "26120002445822": 23,
+      "26120002445767": 151,
+      "26120002444691": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6734,6 +8010,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6743,8 +8023,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2563,
     "uikTvd": "4614061686691",
+    "uikName": "УИК №2563",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1518,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -6760,14 +8044,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 27,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 81,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 201,
-      "Шаповалов Сергей Александрович": 109
+      "26120002448601": 16,
+      "26120002448682": 27,
+      "26120002448886": 26,
+      "26120002447533": 30,
+      "26120002446287": 81,
+      "26120002445822": 21,
+      "26120002445767": 201,
+      "26120002444691": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6777,6 +8061,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6786,8 +8074,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2564,
     "uikTvd": "4614061686692",
+    "uikName": "УИК №2564",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -6803,14 +8095,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 23,
-      "Калинин Владимир Андреевич": 46,
-      "Кошляков Константин Алексеевич": 48,
-      "Кулешов Александр Алексеевич": 49,
-      "Мезинов Юрий Геннадьевич": 83,
-      "Птушкин Илья Игоревич": 39,
-      "Стенякина Екатерина Петровна": 222,
-      "Шаповалов Сергей Александрович": 175
+      "26120002448601": 23,
+      "26120002448682": 46,
+      "26120002448886": 48,
+      "26120002447533": 49,
+      "26120002446287": 83,
+      "26120002445822": 39,
+      "26120002445767": 222,
+      "26120002444691": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6820,6 +8112,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6829,8 +8125,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2565,
     "uikTvd": "4614061686693",
+    "uikName": "УИК №2565",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1292,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6846,14 +8146,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 14,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 26,
-      "Мезинов Юрий Геннадьевич": 41,
-      "Птушкин Илья Игоревич": 27,
-      "Стенякина Екатерина Петровна": 76,
-      "Шаповалов Сергей Александрович": 97
+      "26120002448601": 14,
+      "26120002448682": 21,
+      "26120002448886": 33,
+      "26120002447533": 26,
+      "26120002446287": 41,
+      "26120002445822": 27,
+      "26120002445767": 76,
+      "26120002444691": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6863,6 +8163,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6872,8 +8176,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2566,
     "uikTvd": "4614061686694",
+    "uikName": "УИК №2566",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1137,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6889,14 +8197,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 5,
-      "Калинин Владимир Андреевич": 14,
-      "Кошляков Константин Алексеевич": 19,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 42,
-      "Птушкин Илья Игоревич": 18,
-      "Стенякина Екатерина Петровна": 130,
-      "Шаповалов Сергей Александрович": 55
+      "26120002448601": 5,
+      "26120002448682": 14,
+      "26120002448886": 19,
+      "26120002447533": 19,
+      "26120002446287": 42,
+      "26120002445822": 18,
+      "26120002445767": 130,
+      "26120002444691": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6906,6 +8214,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6915,8 +8227,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2567,
     "uikTvd": "4614061686695",
+    "uikName": "УИК №2567",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1796,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -6932,14 +8248,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 15,
-      "Калинин Владимир Андреевич": 32,
-      "Кошляков Константин Алексеевич": 26,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 71,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 96,
-      "Шаповалов Сергей Александрович": 109
+      "26120002448601": 15,
+      "26120002448682": 32,
+      "26120002448886": 26,
+      "26120002447533": 30,
+      "26120002446287": 71,
+      "26120002445822": 26,
+      "26120002445767": 96,
+      "26120002444691": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6949,6 +8265,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -6958,8 +8278,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2568,
     "uikTvd": "4614061686696",
+    "uikName": "УИК №2568",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 941,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -6975,14 +8299,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 20,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 43,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 122,
-      "Шаповалов Сергей Александрович": 84
+      "26120002448601": 12,
+      "26120002448682": 6,
+      "26120002448886": 20,
+      "26120002447533": 11,
+      "26120002446287": 43,
+      "26120002445822": 9,
+      "26120002445767": 122,
+      "26120002444691": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -6992,6 +8316,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7001,8 +8329,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2569,
     "uikTvd": "4614061686697",
+    "uikName": "УИК №2569",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -7018,14 +8350,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 13,
-      "Кошляков Константин Алексеевич": 20,
-      "Кулешов Александр Алексеевич": 22,
-      "Мезинов Юрий Геннадьевич": 58,
-      "Птушкин Илья Игоревич": 25,
-      "Стенякина Екатерина Петровна": 127,
-      "Шаповалов Сергей Александрович": 124
+      "26120002448601": 20,
+      "26120002448682": 13,
+      "26120002448886": 20,
+      "26120002447533": 22,
+      "26120002446287": 58,
+      "26120002445822": 25,
+      "26120002445767": 127,
+      "26120002444691": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7035,6 +8367,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7044,8 +8380,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2570,
     "uikTvd": "4614061686698",
+    "uikName": "УИК №2570",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 934,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -7061,14 +8401,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 28,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 34,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 96,
-      "Шаповалов Сергей Александрович": 89
+      "26120002448601": 16,
+      "26120002448682": 21,
+      "26120002448886": 28,
+      "26120002447533": 13,
+      "26120002446287": 34,
+      "26120002445822": 19,
+      "26120002445767": 96,
+      "26120002444691": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7078,6 +8418,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7087,8 +8431,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2571,
     "uikTvd": "4614061686699",
+    "uikName": "УИК №2571",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1803,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -7104,14 +8452,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 35,
-      "Калинин Владимир Андреевич": 56,
-      "Кошляков Константин Алексеевич": 51,
-      "Кулешов Александр Алексеевич": 45,
-      "Мезинов Юрий Геннадьевич": 69,
-      "Птушкин Илья Игоревич": 32,
-      "Стенякина Екатерина Петровна": 156,
-      "Шаповалов Сергей Александрович": 164
+      "26120002448601": 35,
+      "26120002448682": 56,
+      "26120002448886": 51,
+      "26120002447533": 45,
+      "26120002446287": 69,
+      "26120002445822": 32,
+      "26120002445767": 156,
+      "26120002444691": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7121,6 +8469,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7130,8 +8482,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2572,
     "uikTvd": "4614061686700",
+    "uikName": "УИК №2572",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2248,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -7147,14 +8503,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 27,
-      "Калинин Владимир Андреевич": 44,
-      "Кошляков Константин Алексеевич": 47,
-      "Кулешов Александр Алексеевич": 38,
-      "Мезинов Юрий Геннадьевич": 98,
-      "Птушкин Илья Игоревич": 46,
-      "Стенякина Екатерина Петровна": 222,
-      "Шаповалов Сергей Александрович": 160
+      "26120002448601": 27,
+      "26120002448682": 44,
+      "26120002448886": 47,
+      "26120002447533": 38,
+      "26120002446287": 98,
+      "26120002445822": 46,
+      "26120002445767": 222,
+      "26120002444691": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7164,6 +8520,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7173,8 +8533,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2573,
     "uikTvd": "4614061686701",
+    "uikName": "УИК №2573",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1792,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -7190,14 +8554,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 21,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 17,
-      "Мезинов Юрий Геннадьевич": 60,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 359,
-      "Шаповалов Сергей Александрович": 97
+      "26120002448601": 18,
+      "26120002448682": 21,
+      "26120002448886": 17,
+      "26120002447533": 17,
+      "26120002446287": 60,
+      "26120002445822": 12,
+      "26120002445767": 359,
+      "26120002444691": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7207,6 +8571,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7216,8 +8584,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2574,
     "uikTvd": "4614061686702",
+    "uikName": "УИК №2574",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1735,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -7233,14 +8605,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 21,
-      "Калинин Владимир Андреевич": 20,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 26,
-      "Мезинов Юрий Геннадьевич": 60,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 283,
-      "Шаповалов Сергей Александрович": 96
+      "26120002448601": 21,
+      "26120002448682": 20,
+      "26120002448886": 37,
+      "26120002447533": 26,
+      "26120002446287": 60,
+      "26120002445822": 21,
+      "26120002445767": 283,
+      "26120002444691": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7250,6 +8622,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7259,8 +8635,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2575,
     "uikTvd": "4614061686703",
+    "uikName": "УИК №2575",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1698,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -7276,14 +8656,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 17,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 34,
-      "Кулешов Александр Алексеевич": 29,
-      "Мезинов Юрий Геннадьевич": 82,
-      "Птушкин Илья Игоревич": 13,
-      "Стенякина Екатерина Петровна": 242,
-      "Шаповалов Сергей Александрович": 127
+      "26120002448601": 17,
+      "26120002448682": 18,
+      "26120002448886": 34,
+      "26120002447533": 29,
+      "26120002446287": 82,
+      "26120002445822": 13,
+      "26120002445767": 242,
+      "26120002444691": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7293,6 +8673,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7302,8 +8686,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2576,
     "uikTvd": "4614061686704",
+    "uikName": "УИК №2576",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1666,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -7319,14 +8707,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 21,
-      "Калинин Владимир Андреевич": 31,
-      "Кошляков Константин Алексеевич": 40,
-      "Кулешов Александр Алексеевич": 44,
-      "Мезинов Юрий Геннадьевич": 97,
-      "Птушкин Илья Игоревич": 27,
-      "Стенякина Екатерина Петровна": 168,
-      "Шаповалов Сергей Александрович": 135
+      "26120002448601": 21,
+      "26120002448682": 31,
+      "26120002448886": 40,
+      "26120002447533": 44,
+      "26120002446287": 97,
+      "26120002445822": 27,
+      "26120002445767": 168,
+      "26120002444691": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7336,6 +8724,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7345,8 +8737,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2577,
     "uikTvd": "4614061686705",
+    "uikName": "УИК №2577",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1338,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7362,14 +8758,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 33,
-      "Кошляков Константин Алексеевич": 35,
-      "Кулешов Александр Алексеевич": 32,
-      "Мезинов Юрий Геннадьевич": 93,
-      "Птушкин Илья Игоревич": 19,
-      "Стенякина Екатерина Петровна": 125,
-      "Шаповалов Сергей Александрович": 125
+      "26120002448601": 10,
+      "26120002448682": 33,
+      "26120002448886": 35,
+      "26120002447533": 32,
+      "26120002446287": 93,
+      "26120002445822": 19,
+      "26120002445767": 125,
+      "26120002444691": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7379,6 +8775,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7388,8 +8788,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2578,
     "uikTvd": "4614061695596",
+    "uikName": "УИК №2578",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 83,
@@ -7405,14 +8809,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 7,
-      "Мезинов Юрий Геннадьевич": 12,
-      "Птушкин Илья Игоревич": 5,
-      "Стенякина Екатерина Петровна": 28,
-      "Шаповалов Сергей Александрович": 13
+      "26120002448601": 3,
+      "26120002448682": 3,
+      "26120002448886": 5,
+      "26120002447533": 7,
+      "26120002446287": 12,
+      "26120002445822": 5,
+      "26120002445767": 28,
+      "26120002444691": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7422,6 +8826,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7431,8 +8839,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2579,
     "uikTvd": "4614061695598",
+    "uikName": "УИК №2579",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 64,
@@ -7448,14 +8860,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 8,
-      "Кулешов Александр Алексеевич": 3,
-      "Мезинов Юрий Геннадьевич": 4,
-      "Птушкин Илья Игоревич": 3,
-      "Стенякина Екатерина Петровна": 16,
-      "Шаповалов Сергей Александрович": 16
+      "26120002448601": 3,
+      "26120002448682": 2,
+      "26120002448886": 8,
+      "26120002447533": 3,
+      "26120002446287": 4,
+      "26120002445822": 3,
+      "26120002445767": 16,
+      "26120002444691": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7465,6 +8877,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7474,8 +8890,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2580,
     "uikTvd": "4614061695600",
+    "uikName": "УИК №2580",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 51,
@@ -7491,14 +8911,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 1,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 2,
-      "Кулешов Александр Алексеевич": 2,
-      "Мезинов Юрий Геннадьевич": 2,
-      "Птушкин Илья Игоревич": 1,
-      "Стенякина Екатерина Петровна": 28,
-      "Шаповалов Сергей Александрович": 2
+      "26120002448601": 1,
+      "26120002448682": 5,
+      "26120002448886": 2,
+      "26120002447533": 2,
+      "26120002446287": 2,
+      "26120002445822": 1,
+      "26120002445767": 28,
+      "26120002444691": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7508,6 +8928,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7517,8 +8941,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2582,
     "uikTvd": "4614061695602",
+    "uikName": "УИК №2582",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 128,
@@ -7534,14 +8962,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 8,
-      "Кошляков Константин Алексеевич": 8,
-      "Кулешов Александр Алексеевич": 5,
-      "Мезинов Юрий Геннадьевич": 4,
-      "Птушкин Илья Игоревич": 8,
-      "Стенякина Екатерина Петровна": 78,
-      "Шаповалов Сергей Александрович": 7
+      "26120002448601": 10,
+      "26120002448682": 8,
+      "26120002448886": 8,
+      "26120002447533": 5,
+      "26120002446287": 4,
+      "26120002445822": 8,
+      "26120002445767": 78,
+      "26120002444691": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7551,6 +8979,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7560,8 +8992,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2616,
     "uikTvd": "4614061686710",
+    "uikName": "УИК №2616",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -7577,14 +9013,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 28,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 16,
-      "Мезинов Юрий Геннадьевич": 43,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 102,
-      "Шаповалов Сергей Александрович": 66
+      "26120002448601": 13,
+      "26120002448682": 28,
+      "26120002448886": 17,
+      "26120002447533": 16,
+      "26120002446287": 43,
+      "26120002445822": 17,
+      "26120002445767": 102,
+      "26120002444691": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7594,6 +9030,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7603,8 +9043,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 8092,
     "uikTvd": "4614061695537",
+    "uikName": "УИК №8092",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -7620,14 +9064,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 2,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 0,
-      "Кулешов Александр Алексеевич": 1,
-      "Мезинов Юрий Геннадьевич": 27,
-      "Птушкин Илья Игоревич": 1,
-      "Стенякина Екатерина Петровна": 8,
-      "Шаповалов Сергей Александрович": 4
+      "26120002448601": 2,
+      "26120002448682": 9,
+      "26120002448886": 0,
+      "26120002447533": 1,
+      "26120002446287": 27,
+      "26120002445822": 1,
+      "26120002445767": 8,
+      "26120002444691": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7637,6 +9081,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7646,8 +9094,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 8094,
     "uikTvd": "4614061695539",
+    "uikName": "УИК №8094",
     "tikTvd": "26120002435622",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 346,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2575,
@@ -7663,14 +9115,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 29,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 12,
-      "Мезинов Юрий Геннадьевич": 198,
-      "Птушкин Илья Игоревич": 10,
-      "Стенякина Екатерина Петровна": 52,
-      "Шаповалов Сергей Александрович": 29
+      "26120002448601": 3,
+      "26120002448682": 29,
+      "26120002448886": 5,
+      "26120002447533": 12,
+      "26120002446287": 198,
+      "26120002445822": 10,
+      "26120002445767": 52,
+      "26120002444691": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
@@ -7680,6 +9132,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.830560+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435622&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435622&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7689,8 +9145,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "4614042248858",
+    "uikName": "УИК №1657",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 800,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -7706,14 +9166,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 11,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 27,
-      "Птушкин Илья Игоревич": 11,
-      "Стенякина Екатерина Петровна": 399,
-      "Шаповалов Сергей Александрович": 34
+      "26120002448601": 11,
+      "26120002448682": 2,
+      "26120002448886": 11,
+      "26120002447533": 13,
+      "26120002446287": 27,
+      "26120002445822": 11,
+      "26120002445767": 399,
+      "26120002444691": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7723,6 +9183,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7732,8 +9196,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "4614042248859",
+    "uikName": "УИК №1658",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 405,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -7749,14 +9217,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 0,
-      "Кулешов Александр Алексеевич": 3,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 14,
-      "Стенякина Екатерина Петровна": 185,
-      "Шаповалов Сергей Александрович": 26
+      "26120002448601": 7,
+      "26120002448682": 3,
+      "26120002448886": 0,
+      "26120002447533": 3,
+      "26120002446287": 6,
+      "26120002445822": 14,
+      "26120002445767": 185,
+      "26120002444691": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7766,6 +9234,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7775,8 +9247,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1659,
     "uikTvd": "4614042248860",
+    "uikName": "УИК №1659",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 852,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -7792,14 +9268,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 18,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 28,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 303,
-      "Шаповалов Сергей Александрович": 63
+      "26120002448601": 12,
+      "26120002448682": 6,
+      "26120002448886": 18,
+      "26120002447533": 13,
+      "26120002446287": 28,
+      "26120002445822": 17,
+      "26120002445767": 303,
+      "26120002444691": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7809,6 +9285,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7818,8 +9298,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1660,
     "uikTvd": "4614042248861",
+    "uikName": "УИК №1660",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 215,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -7835,14 +9319,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 8,
-      "Кошляков Константин Алексеевич": 4,
-      "Кулешов Александр Алексеевич": 8,
-      "Мезинов Юрий Геннадьевич": 9,
-      "Птушкин Илья Игоревич": 8,
-      "Стенякина Екатерина Петровна": 93,
-      "Шаповалов Сергей Александрович": 21
+      "26120002448601": 3,
+      "26120002448682": 8,
+      "26120002448886": 4,
+      "26120002447533": 8,
+      "26120002446287": 9,
+      "26120002445822": 8,
+      "26120002445767": 93,
+      "26120002444691": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7852,6 +9336,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7861,8 +9349,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1661,
     "uikTvd": "4614042248862",
+    "uikName": "УИК №1661",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 381,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -7878,14 +9370,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 8,
-      "Калинин Владимир Андреевич": 8,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 8,
-      "Мезинов Юрий Геннадьевич": 14,
-      "Птушкин Илья Игоревич": 10,
-      "Стенякина Екатерина Петровна": 128,
-      "Шаповалов Сергей Александрович": 20
+      "26120002448601": 8,
+      "26120002448682": 8,
+      "26120002448886": 5,
+      "26120002447533": 8,
+      "26120002446287": 14,
+      "26120002445822": 10,
+      "26120002445767": 128,
+      "26120002444691": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7895,6 +9387,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7904,8 +9400,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1662,
     "uikTvd": "4614042248863",
+    "uikName": "УИК №1662",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 683,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -7921,14 +9421,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 7,
-      "Кошляков Константин Алексеевич": 16,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 9,
-      "Птушкин Илья Игоревич": 6,
-      "Стенякина Екатерина Петровна": 374,
-      "Шаповалов Сергей Александрович": 79
+      "26120002448601": 10,
+      "26120002448682": 7,
+      "26120002448886": 16,
+      "26120002447533": 11,
+      "26120002446287": 9,
+      "26120002445822": 6,
+      "26120002445767": 374,
+      "26120002444691": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7938,6 +9438,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7947,8 +9451,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1663,
     "uikTvd": "4614042248864",
+    "uikName": "УИК №1663",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 997,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -7964,14 +9472,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 25,
-      "Мезинов Юрий Геннадьевич": 28,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 136,
-      "Шаповалов Сергей Александрович": 93
+      "26120002448601": 16,
+      "26120002448682": 9,
+      "26120002448886": 17,
+      "26120002447533": 25,
+      "26120002446287": 28,
+      "26120002445822": 21,
+      "26120002445767": 136,
+      "26120002444691": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -7981,6 +9489,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -7990,8 +9502,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1664,
     "uikTvd": "4614042248865",
+    "uikName": "УИК №1664",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 674,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8007,14 +9523,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 8,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 16,
-      "Кулешов Александр Алексеевич": 8,
-      "Мезинов Юрий Геннадьевич": 27,
-      "Птушкин Илья Игоревич": 8,
-      "Стенякина Екатерина Петровна": 239,
-      "Шаповалов Сергей Александрович": 88
+      "26120002448601": 8,
+      "26120002448682": 3,
+      "26120002448886": 16,
+      "26120002447533": 8,
+      "26120002446287": 27,
+      "26120002445822": 8,
+      "26120002445767": 239,
+      "26120002444691": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8024,6 +9540,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8033,8 +9553,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1665,
     "uikTvd": "4614042248866",
+    "uikName": "УИК №1665",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 685,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8050,14 +9574,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 13,
-      "Птушкин Илья Игоревич": 13,
-      "Стенякина Екатерина Петровна": 96,
-      "Шаповалов Сергей Александрович": 48
+      "26120002448601": 6,
+      "26120002448682": 3,
+      "26120002448886": 17,
+      "26120002447533": 11,
+      "26120002446287": 13,
+      "26120002445822": 13,
+      "26120002445767": 96,
+      "26120002444691": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8067,6 +9591,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8076,8 +9604,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1666,
     "uikTvd": "4614042248867",
+    "uikName": "УИК №1666",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 805,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8093,14 +9625,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 9,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 19,
-      "Мезинов Юрий Геннадьевич": 18,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 105,
-      "Шаповалов Сергей Александрович": 46
+      "26120002448601": 9,
+      "26120002448682": 6,
+      "26120002448886": 5,
+      "26120002447533": 19,
+      "26120002446287": 18,
+      "26120002445822": 20,
+      "26120002445767": 105,
+      "26120002444691": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8110,6 +9642,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8119,8 +9655,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1667,
     "uikTvd": "4614042248868",
+    "uikName": "УИК №1667",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 641,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8136,14 +9676,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 10,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 27,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 74,
-      "Шаповалов Сергей Александрович": 48
+      "26120002448601": 11,
+      "26120002448682": 5,
+      "26120002448886": 10,
+      "26120002447533": 11,
+      "26120002446287": 27,
+      "26120002445822": 12,
+      "26120002445767": 74,
+      "26120002444691": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8153,6 +9693,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8162,8 +9706,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1668,
     "uikTvd": "4614042248869",
+    "uikName": "УИК №1668",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -8179,14 +9727,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 5,
-      "Мезинов Юрий Геннадьевич": 9,
-      "Птушкин Илья Игоревич": 3,
-      "Стенякина Екатерина Петровна": 82,
-      "Шаповалов Сергей Александрович": 20
+      "26120002448601": 3,
+      "26120002448682": 3,
+      "26120002448886": 5,
+      "26120002447533": 5,
+      "26120002446287": 9,
+      "26120002445822": 3,
+      "26120002445767": 82,
+      "26120002444691": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8196,6 +9744,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8205,8 +9757,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1669,
     "uikTvd": "4614042248870",
+    "uikName": "УИК №1669",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 479,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -8222,14 +9778,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 7,
-      "Кошляков Константин Алексеевич": 14,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 23,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 129,
-      "Шаповалов Сергей Александрович": 18
+      "26120002448601": 11,
+      "26120002448682": 7,
+      "26120002448886": 14,
+      "26120002447533": 11,
+      "26120002446287": 23,
+      "26120002445822": 9,
+      "26120002445767": 129,
+      "26120002444691": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8239,6 +9795,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8248,8 +9808,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1670,
     "uikTvd": "4614042248871",
+    "uikName": "УИК №1670",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 527,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8265,14 +9829,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 8,
-      "Кошляков Константин Алексеевич": 14,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 17,
-      "Птушкин Илья Игоревич": 7,
-      "Стенякина Екатерина Петровна": 134,
-      "Шаповалов Сергей Александрович": 60
+      "26120002448601": 18,
+      "26120002448682": 8,
+      "26120002448886": 14,
+      "26120002447533": 13,
+      "26120002446287": 17,
+      "26120002445822": 7,
+      "26120002445767": 134,
+      "26120002444691": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8282,6 +9846,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8291,8 +9859,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1671,
     "uikTvd": "4614042248872",
+    "uikName": "УИК №1671",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 660,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -8308,14 +9880,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 14,
-      "Кулешов Александр Алексеевич": 15,
-      "Мезинов Юрий Геннадьевич": 14,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 64,
-      "Шаповалов Сергей Александрович": 76
+      "26120002448601": 19,
+      "26120002448682": 6,
+      "26120002448886": 14,
+      "26120002447533": 15,
+      "26120002446287": 14,
+      "26120002445822": 21,
+      "26120002445767": 64,
+      "26120002444691": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8325,6 +9897,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8334,8 +9910,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1672,
     "uikTvd": "4614042248873",
+    "uikName": "УИК №1672",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 726,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8351,14 +9931,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 7,
-      "Кошляков Константин Алексеевич": 11,
-      "Кулешов Александр Алексеевич": 15,
-      "Мезинов Юрий Геннадьевич": 29,
-      "Птушкин Илья Игоревич": 20,
-      "Стенякина Екатерина Петровна": 290,
-      "Шаповалов Сергей Александрович": 75
+      "26120002448601": 7,
+      "26120002448682": 7,
+      "26120002448886": 11,
+      "26120002447533": 15,
+      "26120002446287": 29,
+      "26120002445822": 20,
+      "26120002445767": 290,
+      "26120002444691": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8368,6 +9948,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8377,8 +9961,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1673,
     "uikTvd": "4614042248874",
+    "uikName": "УИК №1673",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 731,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -8394,14 +9982,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 9,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 18,
-      "Кулешов Александр Алексеевич": 20,
-      "Мезинов Юрий Геннадьевич": 23,
-      "Птушкин Илья Игоревич": 17,
-      "Стенякина Екатерина Петровна": 243,
-      "Шаповалов Сергей Александрович": 71
+      "26120002448601": 9,
+      "26120002448682": 6,
+      "26120002448886": 18,
+      "26120002447533": 20,
+      "26120002446287": 23,
+      "26120002445822": 17,
+      "26120002445767": 243,
+      "26120002444691": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8411,6 +9999,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8420,8 +10012,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1674,
     "uikTvd": "4614042248875",
+    "uikName": "УИК №1674",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 670,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -8437,14 +10033,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 15,
-      "Кошляков Константин Алексеевич": 13,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 15,
-      "Птушкин Илья Игоревич": 8,
-      "Стенякина Екатерина Петровна": 71,
-      "Шаповалов Сергей Александрович": 57
+      "26120002448601": 6,
+      "26120002448682": 15,
+      "26120002448886": 13,
+      "26120002447533": 13,
+      "26120002446287": 15,
+      "26120002445822": 8,
+      "26120002445767": 71,
+      "26120002444691": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8454,6 +10050,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8463,8 +10063,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1675,
     "uikTvd": "4614042248876",
+    "uikName": "УИК №1675",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 247,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -8480,14 +10084,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 2,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 16,
-      "Кулешов Александр Алексеевич": 10,
-      "Мезинов Юрий Геннадьевич": 12,
-      "Птушкин Илья Игоревич": 6,
-      "Стенякина Екатерина Петровна": 35,
-      "Шаповалов Сергей Александрович": 28
+      "26120002448601": 2,
+      "26120002448682": 5,
+      "26120002448886": 16,
+      "26120002447533": 10,
+      "26120002446287": 12,
+      "26120002445822": 6,
+      "26120002445767": 35,
+      "26120002444691": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8497,6 +10101,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8506,8 +10114,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1676,
     "uikTvd": "4614042248877",
+    "uikName": "УИК №1676",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 583,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -8523,14 +10135,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 14,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 17,
-      "Кулешов Александр Алексеевич": 14,
-      "Мезинов Юрий Геннадьевич": 12,
-      "Птушкин Илья Игоревич": 14,
-      "Стенякина Екатерина Петровна": 142,
-      "Шаповалов Сергей Александрович": 66
+      "26120002448601": 14,
+      "26120002448682": 9,
+      "26120002448886": 17,
+      "26120002447533": 14,
+      "26120002446287": 12,
+      "26120002445822": 14,
+      "26120002445767": 142,
+      "26120002444691": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8540,6 +10152,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8549,8 +10165,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1677,
     "uikTvd": "4614042248878",
+    "uikName": "УИК №1677",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1518,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1697,
@@ -8566,14 +10186,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 20,
-      "Кошляков Константин Алексеевич": 25,
-      "Кулешов Александр Алексеевич": 37,
-      "Мезинов Юрий Геннадьевич": 66,
-      "Птушкин Илья Игоревич": 28,
-      "Стенякина Екатерина Петровна": 224,
-      "Шаповалов Сергей Александрович": 127
+      "26120002448601": 20,
+      "26120002448682": 20,
+      "26120002448886": 25,
+      "26120002447533": 37,
+      "26120002446287": 66,
+      "26120002445822": 28,
+      "26120002445767": 224,
+      "26120002444691": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8583,6 +10203,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8592,8 +10216,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1678,
     "uikTvd": "4614042248879",
+    "uikName": "УИК №1678",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1449,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8609,14 +10237,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 22,
-      "Калинин Владимир Андреевич": 14,
-      "Кошляков Константин Алексеевич": 23,
-      "Кулешов Александр Алексеевич": 21,
-      "Мезинов Юрий Геннадьевич": 62,
-      "Птушкин Илья Игоревич": 12,
-      "Стенякина Екатерина Петровна": 191,
-      "Шаповалов Сергей Александрович": 110
+      "26120002448601": 22,
+      "26120002448682": 14,
+      "26120002448886": 23,
+      "26120002447533": 21,
+      "26120002446287": 62,
+      "26120002445822": 12,
+      "26120002445767": 191,
+      "26120002444691": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8626,6 +10254,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8635,8 +10267,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1679,
     "uikTvd": "4614042248880",
+    "uikName": "УИК №1679",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1231,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8652,14 +10288,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 23,
-      "Калинин Владимир Андреевич": 25,
-      "Кошляков Константин Алексеевич": 24,
-      "Кулешов Александр Алексеевич": 22,
-      "Мезинов Юрий Геннадьевич": 50,
-      "Птушкин Илья Игоревич": 27,
-      "Стенякина Екатерина Петровна": 156,
-      "Шаповалов Сергей Александрович": 120
+      "26120002448601": 23,
+      "26120002448682": 25,
+      "26120002448886": 24,
+      "26120002447533": 22,
+      "26120002446287": 50,
+      "26120002445822": 27,
+      "26120002445767": 156,
+      "26120002444691": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8669,6 +10305,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8678,8 +10318,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1680,
     "uikTvd": "4614042248881",
+    "uikName": "УИК №1680",
     "tikTvd": "26120002435623",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 541,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8695,14 +10339,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 5,
-      "Калинин Владимир Андреевич": 7,
-      "Кошляков Константин Алексеевич": 12,
-      "Кулешов Александр Алексеевич": 9,
-      "Мезинов Юрий Геннадьевич": 7,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 227,
-      "Шаповалов Сергей Александрович": 32
+      "26120002448601": 5,
+      "26120002448682": 7,
+      "26120002448886": 12,
+      "26120002447533": 9,
+      "26120002446287": 7,
+      "26120002445822": 9,
+      "26120002445767": 227,
+      "26120002444691": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
@@ -8712,6 +10356,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.333543+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435623&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435623&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8721,8 +10369,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "4614037356430",
+    "uikName": "УИК №1504",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 803,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 825,
@@ -8738,14 +10390,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 13,
-      "Калинин Владимир Андреевич": 11,
-      "Кошляков Константин Алексеевич": 7,
-      "Кулешов Александр Алексеевич": 13,
-      "Мезинов Юрий Геннадьевич": 10,
-      "Птушкин Илья Игоревич": 11,
-      "Стенякина Екатерина Петровна": 388,
-      "Шаповалов Сергей Александрович": 22
+      "26120002448601": 13,
+      "26120002448682": 11,
+      "26120002448886": 7,
+      "26120002447533": 13,
+      "26120002446287": 10,
+      "26120002445822": 11,
+      "26120002445767": 388,
+      "26120002444691": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -8755,6 +10407,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8764,8 +10420,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "4614037356431",
+    "uikName": "УИК №1505",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 994,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8781,14 +10441,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 0,
-      "Калинин Владимир Андреевич": 0,
-      "Кошляков Константин Алексеевич": 13,
-      "Кулешов Александр Алексеевич": 4,
-      "Мезинов Юрий Геннадьевич": 35,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 782,
-      "Шаповалов Сергей Александрович": 60
+      "26120002448601": 0,
+      "26120002448682": 0,
+      "26120002448886": 13,
+      "26120002447533": 4,
+      "26120002446287": 35,
+      "26120002445822": 26,
+      "26120002445767": 782,
+      "26120002444691": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -8798,6 +10458,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8807,8 +10471,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "4614037356432",
+    "uikName": "УИК №1506",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 729,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 725,
@@ -8824,14 +10492,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 10,
-      "Мезинов Юрий Геннадьевич": 9,
-      "Птушкин Илья Игоревич": 34,
-      "Стенякина Екатерина Петровна": 536,
-      "Шаповалов Сергей Александрович": 54
+      "26120002448601": 7,
+      "26120002448682": 5,
+      "26120002448886": 5,
+      "26120002447533": 10,
+      "26120002446287": 9,
+      "26120002445822": 34,
+      "26120002445767": 536,
+      "26120002444691": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -8841,6 +10509,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8850,8 +10522,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "4614037356433",
+    "uikName": "УИК №1507",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 967,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -8867,14 +10543,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 7,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 7,
-      "Кулешов Александр Алексеевич": 16,
-      "Мезинов Юрий Геннадьевич": 47,
-      "Птушкин Илья Игоревич": 22,
-      "Стенякина Екатерина Петровна": 640,
-      "Шаповалов Сергей Александрович": 73
+      "26120002448601": 7,
+      "26120002448682": 9,
+      "26120002448886": 7,
+      "26120002447533": 16,
+      "26120002446287": 47,
+      "26120002445822": 22,
+      "26120002445767": 640,
+      "26120002444691": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -8884,6 +10560,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8893,8 +10573,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "4614037356434",
+    "uikName": "УИК №1508",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 323,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 325,
@@ -8910,14 +10594,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 4,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 7,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 219,
-      "Шаповалов Сергей Александрович": 21
+      "26120002448601": 4,
+      "26120002448682": 6,
+      "26120002448886": 3,
+      "26120002447533": 7,
+      "26120002446287": 6,
+      "26120002445822": 9,
+      "26120002445767": 219,
+      "26120002444691": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -8927,6 +10611,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8936,8 +10624,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "4614037356435",
+    "uikName": "УИК №1509",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 416,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8953,14 +10645,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 5,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 4,
-      "Кулешов Александр Алексеевич": 5,
-      "Мезинов Юрий Геннадьевич": 4,
-      "Птушкин Илья Игоревич": 18,
-      "Стенякина Екатерина Петровна": 302,
-      "Шаповалов Сергей Александрович": 28
+      "26120002448601": 5,
+      "26120002448682": 9,
+      "26120002448886": 4,
+      "26120002447533": 5,
+      "26120002446287": 4,
+      "26120002445822": 18,
+      "26120002445767": 302,
+      "26120002444691": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -8970,6 +10662,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -8979,8 +10675,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "4614037356436",
+    "uikName": "УИК №1510",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 205,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -8996,14 +10696,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 2,
-      "Кулешов Александр Алексеевич": 3,
-      "Мезинов Юрий Геннадьевич": 2,
-      "Птушкин Илья Игоревич": 5,
-      "Стенякина Екатерина Петровна": 148,
-      "Шаповалов Сергей Александрович": 20
+      "26120002448601": 3,
+      "26120002448682": 2,
+      "26120002448886": 2,
+      "26120002447533": 3,
+      "26120002446287": 2,
+      "26120002445822": 5,
+      "26120002445767": 148,
+      "26120002444691": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9013,6 +10713,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9022,8 +10726,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "4614037356437",
+    "uikName": "УИК №1511",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1791,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1850,
@@ -9039,14 +10747,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 53,
-      "Калинин Владимир Андреевич": 41,
-      "Кошляков Константин Алексеевич": 79,
-      "Кулешов Александр Алексеевич": 61,
-      "Мезинов Юрий Геннадьевич": 60,
-      "Птушкин Илья Игоревич": 49,
-      "Стенякина Екатерина Петровна": 883,
-      "Шаповалов Сергей Александрович": 190
+      "26120002448601": 53,
+      "26120002448682": 41,
+      "26120002448886": 79,
+      "26120002447533": 61,
+      "26120002446287": 60,
+      "26120002445822": 49,
+      "26120002445767": 883,
+      "26120002444691": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9056,6 +10764,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9065,8 +10777,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "4614037356438",
+    "uikName": "УИК №1512",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1282,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9082,14 +10798,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 24,
-      "Калинин Владимир Андреевич": 18,
-      "Кошляков Константин Алексеевич": 35,
-      "Кулешов Александр Алексеевич": 25,
-      "Мезинов Юрий Геннадьевич": 48,
-      "Птушкин Илья Игоревич": 21,
-      "Стенякина Екатерина Петровна": 738,
-      "Шаповалов Сергей Александрович": 122
+      "26120002448601": 24,
+      "26120002448682": 18,
+      "26120002448886": 35,
+      "26120002447533": 25,
+      "26120002446287": 48,
+      "26120002445822": 21,
+      "26120002445767": 738,
+      "26120002444691": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9099,6 +10815,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9108,8 +10828,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "4614037356439",
+    "uikName": "УИК №1513",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 268,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 275,
@@ -9125,14 +10849,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 4,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 8,
-      "Кулешов Александр Алексеевич": 7,
-      "Мезинов Юрий Геннадьевич": 10,
-      "Птушкин Илья Игоревич": 6,
-      "Стенякина Екатерина Петровна": 181,
-      "Шаповалов Сергей Александрович": 19
+      "26120002448601": 4,
+      "26120002448682": 5,
+      "26120002448886": 8,
+      "26120002447533": 7,
+      "26120002446287": 10,
+      "26120002445822": 6,
+      "26120002445767": 181,
+      "26120002444691": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9142,6 +10866,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9151,8 +10879,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "4614037356440",
+    "uikName": "УИК №1514",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 662,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 705,
@@ -9168,14 +10900,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 10,
-      "Кошляков Константин Алексеевич": 15,
-      "Кулешов Александр Алексеевич": 6,
-      "Мезинов Юрий Геннадьевич": 12,
-      "Птушкин Илья Игоревич": 8,
-      "Стенякина Екатерина Петровна": 511,
-      "Шаповалов Сергей Александрович": 52
+      "26120002448601": 6,
+      "26120002448682": 10,
+      "26120002448886": 15,
+      "26120002447533": 6,
+      "26120002446287": 12,
+      "26120002445822": 8,
+      "26120002445767": 511,
+      "26120002444691": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9185,6 +10917,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9194,8 +10930,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "4614037356441",
+    "uikName": "УИК №1515",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 175,
@@ -9211,14 +10951,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 2,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 4,
-      "Кулешов Александр Алексеевич": 2,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 6,
-      "Стенякина Екатерина Петровна": 135,
-      "Шаповалов Сергей Александрович": 11
+      "26120002448601": 2,
+      "26120002448682": 2,
+      "26120002448886": 4,
+      "26120002447533": 2,
+      "26120002446287": 6,
+      "26120002445822": 6,
+      "26120002445767": 135,
+      "26120002444691": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9228,6 +10968,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9237,8 +10981,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "4614037356442",
+    "uikName": "УИК №1516",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 244,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -9254,14 +11002,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 2,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 2,
-      "Мезинов Юрий Геннадьевич": 3,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 192,
-      "Шаповалов Сергей Александрович": 19
+      "26120002448601": 2,
+      "26120002448682": 2,
+      "26120002448886": 3,
+      "26120002447533": 2,
+      "26120002446287": 3,
+      "26120002445822": 9,
+      "26120002445767": 192,
+      "26120002444691": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9271,6 +11019,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9280,8 +11032,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "4614037356443",
+    "uikName": "УИК №1517",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9297,14 +11053,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 7,
-      "Кулешов Александр Алексеевич": 10,
-      "Мезинов Юрий Геннадьевич": 56,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 498,
-      "Шаповалов Сергей Александрович": 30
+      "26120002448601": 6,
+      "26120002448682": 5,
+      "26120002448886": 7,
+      "26120002447533": 10,
+      "26120002446287": 56,
+      "26120002445822": 16,
+      "26120002445767": 498,
+      "26120002444691": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9314,6 +11070,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9323,8 +11083,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "4614037356444",
+    "uikName": "УИК №1518",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 196,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -9340,14 +11104,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 1,
-      "Калинин Владимир Андреевич": 1,
-      "Кошляков Константин Алексеевич": 1,
-      "Кулешов Александр Алексеевич": 4,
-      "Мезинов Юрий Геннадьевич": 5,
-      "Птушкин Илья Игоревич": 6,
-      "Стенякина Екатерина Петровна": 148,
-      "Шаповалов Сергей Александрович": 9
+      "26120002448601": 1,
+      "26120002448682": 1,
+      "26120002448886": 1,
+      "26120002447533": 4,
+      "26120002446287": 5,
+      "26120002445822": 6,
+      "26120002445767": 148,
+      "26120002444691": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9357,6 +11121,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9366,8 +11134,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "4614037356445",
+    "uikName": "УИК №1519",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1291,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9383,14 +11155,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 28,
-      "Калинин Владимир Андреевич": 20,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 52,
-      "Мезинов Юрий Геннадьевич": 43,
-      "Птушкин Илья Игоревич": 34,
-      "Стенякина Екатерина Петровна": 290,
-      "Шаповалов Сергей Александрович": 132
+      "26120002448601": 28,
+      "26120002448682": 20,
+      "26120002448886": 30,
+      "26120002447533": 52,
+      "26120002446287": 43,
+      "26120002445822": 34,
+      "26120002445767": 290,
+      "26120002444691": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9400,6 +11172,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9409,8 +11185,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "4614037356446",
+    "uikName": "УИК №1520",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9426,14 +11206,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 29,
-      "Калинин Владимир Андреевич": 23,
-      "Кошляков Константин Алексеевич": 28,
-      "Кулешов Александр Алексеевич": 43,
-      "Мезинов Юрий Геннадьевич": 37,
-      "Птушкин Илья Игоревич": 26,
-      "Стенякина Екатерина Петровна": 509,
-      "Шаповалов Сергей Александрович": 104
+      "26120002448601": 29,
+      "26120002448682": 23,
+      "26120002448886": 28,
+      "26120002447533": 43,
+      "26120002446287": 37,
+      "26120002445822": 26,
+      "26120002445767": 509,
+      "26120002444691": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9443,6 +11223,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9452,8 +11236,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "4614037356447",
+    "uikName": "УИК №1521",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -9469,14 +11257,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 61,
-      "Кошляков Константин Алексеевич": 30,
-      "Кулешов Александр Алексеевич": 44,
-      "Мезинов Юрий Геннадьевич": 33,
-      "Птушкин Илья Игоревич": 31,
-      "Стенякина Екатерина Петровна": 162,
-      "Шаповалов Сергей Александрович": 158
+      "26120002448601": 19,
+      "26120002448682": 61,
+      "26120002448886": 30,
+      "26120002447533": 44,
+      "26120002446287": 33,
+      "26120002445822": 31,
+      "26120002445767": 162,
+      "26120002444691": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9486,6 +11274,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9495,8 +11287,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "4614037356448",
+    "uikName": "УИК №1522",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 231,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -9512,14 +11308,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 9,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 13,
-      "Кулешов Александр Алексеевич": 11,
-      "Мезинов Юрий Геннадьевич": 20,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 43,
-      "Шаповалов Сергей Александрович": 31
+      "26120002448601": 9,
+      "26120002448682": 9,
+      "26120002448886": 13,
+      "26120002447533": 11,
+      "26120002446287": 20,
+      "26120002445822": 9,
+      "26120002445767": 43,
+      "26120002444691": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9529,6 +11325,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9538,8 +11338,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "4614037356449",
+    "uikName": "УИК №1523",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1003,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -9555,14 +11359,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 36,
-      "Кошляков Константин Алексеевич": 28,
-      "Кулешов Александр Алексеевич": 26,
-      "Мезинов Юрий Геннадьевич": 32,
-      "Птушкин Илья Игоревич": 30,
-      "Стенякина Екатерина Петровна": 94,
-      "Шаповалов Сергей Александрович": 106
+      "26120002448601": 11,
+      "26120002448682": 36,
+      "26120002448886": 28,
+      "26120002447533": 26,
+      "26120002446287": 32,
+      "26120002445822": 30,
+      "26120002445767": 94,
+      "26120002444691": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9572,6 +11376,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9581,8 +11389,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "4614037356450",
+    "uikName": "УИК №1524",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 212,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -9598,14 +11410,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 11,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 7,
-      "Мезинов Юрий Геннадьевич": 7,
-      "Птушкин Илья Игоревич": 7,
-      "Стенякина Екатерина Петровна": 41,
-      "Шаповалов Сергей Александрович": 17
+      "26120002448601": 11,
+      "26120002448682": 5,
+      "26120002448886": 3,
+      "26120002447533": 7,
+      "26120002446287": 7,
+      "26120002445822": 7,
+      "26120002445767": 41,
+      "26120002444691": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9615,6 +11427,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9624,8 +11440,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "4614037356451",
+    "uikName": "УИК №1525",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 250,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -9641,14 +11461,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 6,
-      "Калинин Владимир Андреевич": 6,
-      "Кошляков Константин Алексеевич": 13,
-      "Кулешов Александр Алексеевич": 0,
-      "Мезинов Юрий Геннадьевич": 8,
-      "Птушкин Илья Игоревич": 9,
-      "Стенякина Екатерина Петровна": 80,
-      "Шаповалов Сергей Александрович": 24
+      "26120002448601": 6,
+      "26120002448682": 6,
+      "26120002448886": 13,
+      "26120002447533": 0,
+      "26120002446287": 8,
+      "26120002445822": 9,
+      "26120002445767": 80,
+      "26120002444691": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9658,6 +11478,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9667,8 +11491,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "4614037356452",
+    "uikName": "УИК №1526",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 744,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -9684,14 +11512,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 9,
-      "Кошляков Константин Алексеевич": 13,
-      "Кулешов Александр Алексеевич": 9,
-      "Мезинов Юрий Геннадьевич": 15,
-      "Птушкин Илья Игоревич": 13,
-      "Стенякина Екатерина Петровна": 515,
-      "Шаповалов Сергей Александрович": 55
+      "26120002448601": 12,
+      "26120002448682": 9,
+      "26120002448886": 13,
+      "26120002447533": 9,
+      "26120002446287": 15,
+      "26120002445822": 13,
+      "26120002445767": 515,
+      "26120002444691": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9701,6 +11529,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9710,8 +11542,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "4614037356453",
+    "uikName": "УИК №1527",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1156,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -9727,14 +11563,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 8,
-      "Калинин Владимир Андреевич": 12,
-      "Кошляков Константин Алексеевич": 6,
-      "Кулешов Александр Алексеевич": 9,
-      "Мезинов Юрий Геннадьевич": 13,
-      "Птушкин Илья Игоревич": 35,
-      "Стенякина Екатерина Петровна": 833,
-      "Шаповалов Сергей Александрович": 77
+      "26120002448601": 8,
+      "26120002448682": 12,
+      "26120002448886": 6,
+      "26120002447533": 9,
+      "26120002446287": 13,
+      "26120002445822": 35,
+      "26120002445767": 833,
+      "26120002444691": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9744,6 +11580,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9753,8 +11593,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "4614037356454",
+    "uikName": "УИК №1528",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2137,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -9770,14 +11614,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 32,
-      "Калинин Владимир Андреевич": 25,
-      "Кошляков Константин Алексеевич": 57,
-      "Кулешов Александр Алексеевич": 49,
-      "Мезинов Юрий Геннадьевич": 52,
-      "Птушкин Илья Игоревич": 58,
-      "Стенякина Екатерина Петровна": 273,
-      "Шаповалов Сергей Александрович": 196
+      "26120002448601": 32,
+      "26120002448682": 25,
+      "26120002448886": 57,
+      "26120002447533": 49,
+      "26120002446287": 52,
+      "26120002445822": 58,
+      "26120002445767": 273,
+      "26120002444691": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9787,6 +11631,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9796,8 +11644,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "4614037356455",
+    "uikName": "УИК №1529",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1099,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -9813,14 +11665,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 28,
-      "Калинин Владимир Андреевич": 20,
-      "Кошляков Константин Алексеевич": 41,
-      "Кулешов Александр Алексеевич": 27,
-      "Мезинов Юрий Геннадьевич": 23,
-      "Птушкин Илья Игоревич": 37,
-      "Стенякина Екатерина Петровна": 126,
-      "Шаповалов Сергей Александрович": 101
+      "26120002448601": 28,
+      "26120002448682": 20,
+      "26120002448886": 41,
+      "26120002447533": 27,
+      "26120002446287": 23,
+      "26120002445822": 37,
+      "26120002445767": 126,
+      "26120002444691": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9830,6 +11682,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9839,8 +11695,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "4614037356456",
+    "uikName": "УИК №1530",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 105,
@@ -9856,14 +11716,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 0,
-      "Калинин Владимир Андреевич": 1,
-      "Кошляков Константин Алексеевич": 1,
-      "Кулешов Александр Алексеевич": 2,
-      "Мезинов Юрий Геннадьевич": 1,
-      "Птушкин Илья Игоревич": 1,
-      "Стенякина Екатерина Петровна": 69,
-      "Шаповалов Сергей Александрович": 8
+      "26120002448601": 0,
+      "26120002448682": 1,
+      "26120002448886": 1,
+      "26120002447533": 2,
+      "26120002446287": 1,
+      "26120002445822": 1,
+      "26120002445767": 69,
+      "26120002444691": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9873,6 +11733,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9882,8 +11746,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "4614037356457",
+    "uikName": "УИК №1531",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1081,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1075,
@@ -9899,14 +11767,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 12,
-      "Калинин Владимир Андреевич": 19,
-      "Кошляков Константин Алексеевич": 11,
-      "Кулешов Александр Алексеевич": 8,
-      "Мезинов Юрий Геннадьевич": 14,
-      "Птушкин Илья Игоревич": 34,
-      "Стенякина Екатерина Петровна": 749,
-      "Шаповалов Сергей Александрович": 82
+      "26120002448601": 12,
+      "26120002448682": 19,
+      "26120002448886": 11,
+      "26120002447533": 8,
+      "26120002446287": 14,
+      "26120002445822": 34,
+      "26120002445767": 749,
+      "26120002444691": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9916,6 +11784,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9925,8 +11797,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "4614037356458",
+    "uikName": "УИК №1532",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 436,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 425,
@@ -9942,14 +11818,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 6,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 11,
-      "Стенякина Екатерина Петровна": 308,
-      "Шаповалов Сергей Александрович": 35
+      "26120002448601": 3,
+      "26120002448682": 3,
+      "26120002448886": 3,
+      "26120002447533": 6,
+      "26120002446287": 6,
+      "26120002445822": 11,
+      "26120002445767": 308,
+      "26120002444691": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -9959,6 +11835,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -9968,8 +11848,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "4614037356459",
+    "uikName": "УИК №1533",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 291,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 295,
@@ -9985,14 +11869,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 2,
-      "Калинин Владимир Андреевич": 1,
-      "Кошляков Константин Алексеевич": 1,
-      "Кулешов Александр Алексеевич": 3,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 5,
-      "Стенякина Екатерина Петровна": 233,
-      "Шаповалов Сергей Александрович": 1
+      "26120002448601": 2,
+      "26120002448682": 1,
+      "26120002448886": 1,
+      "26120002447533": 3,
+      "26120002446287": 6,
+      "26120002445822": 5,
+      "26120002445767": 233,
+      "26120002444691": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10002,6 +11886,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10011,8 +11899,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "4614037356460",
+    "uikName": "УИК №1534",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2703,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -10028,14 +11920,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 21,
-      "Калинин Владимир Андреевич": 24,
-      "Кошляков Константин Алексеевич": 22,
-      "Кулешов Александр Алексеевич": 23,
-      "Мезинов Юрий Геннадьевич": 23,
-      "Птушкин Илья Игоревич": 43,
-      "Стенякина Екатерина Петровна": 743,
-      "Шаповалов Сергей Александрович": 136
+      "26120002448601": 21,
+      "26120002448682": 24,
+      "26120002448886": 22,
+      "26120002447533": 23,
+      "26120002446287": 23,
+      "26120002445822": 43,
+      "26120002445767": 743,
+      "26120002444691": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10045,6 +11937,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10054,8 +11950,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "4614037356461",
+    "uikName": "УИК №1535",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1075,
@@ -10071,14 +11971,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 20,
-      "Калинин Владимир Андреевич": 30,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 41,
-      "Мезинов Юрий Геннадьевич": 32,
-      "Птушкин Илья Игоревич": 10,
-      "Стенякина Екатерина Петровна": 212,
-      "Шаповалов Сергей Александрович": 104
+      "26120002448601": 20,
+      "26120002448682": 30,
+      "26120002448886": 37,
+      "26120002447533": 41,
+      "26120002446287": 32,
+      "26120002445822": 10,
+      "26120002445767": 212,
+      "26120002444691": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10088,6 +11988,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10097,8 +12001,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "4614037356462",
+    "uikName": "УИК №1536",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2410,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -10114,14 +12022,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 25,
-      "Калинин Владимир Андреевич": 19,
-      "Кошляков Константин Алексеевич": 20,
-      "Кулешов Александр Алексеевич": 25,
-      "Мезинов Юрий Геннадьевич": 27,
-      "Птушкин Илья Игоревич": 40,
-      "Стенякина Екатерина Петровна": 674,
-      "Шаповалов Сергей Александрович": 104
+      "26120002448601": 25,
+      "26120002448682": 19,
+      "26120002448886": 20,
+      "26120002447533": 25,
+      "26120002446287": 27,
+      "26120002445822": 40,
+      "26120002445767": 674,
+      "26120002444691": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10131,6 +12039,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10140,8 +12052,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "4614037356463",
+    "uikName": "УИК №1537",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -10157,14 +12073,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 5,
-      "Кулешов Александр Алексеевич": 4,
-      "Мезинов Юрий Геннадьевич": 4,
-      "Птушкин Илья Игоревич": 7,
-      "Стенякина Екатерина Петровна": 962,
-      "Шаповалов Сергей Александрович": 29
+      "26120002448601": 3,
+      "26120002448682": 2,
+      "26120002448886": 5,
+      "26120002447533": 4,
+      "26120002446287": 4,
+      "26120002445822": 7,
+      "26120002445767": 962,
+      "26120002444691": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10174,6 +12090,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10183,8 +12103,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "4614037356464",
+    "uikName": "УИК №1538",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 284,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 295,
@@ -10200,14 +12124,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 16,
-      "Калинин Владимир Андреевич": 5,
-      "Кошляков Константин Алексеевич": 6,
-      "Кулешов Александр Алексеевич": 6,
-      "Мезинов Юрий Геннадьевич": 16,
-      "Птушкин Илья Игоревич": 10,
-      "Стенякина Екатерина Петровна": 191,
-      "Шаповалов Сергей Александрович": 20
+      "26120002448601": 16,
+      "26120002448682": 5,
+      "26120002448886": 6,
+      "26120002447533": 6,
+      "26120002446287": 16,
+      "26120002445822": 10,
+      "26120002445767": 191,
+      "26120002444691": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10217,6 +12141,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10226,8 +12154,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "4614037356465",
+    "uikName": "УИК №1539",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 670,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 715,
@@ -10243,14 +12175,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 75,
-      "Калинин Владимир Андреевич": 1,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 3,
-      "Мезинов Юрий Геннадьевич": 11,
-      "Птушкин Илья Игоревич": 5,
-      "Стенякина Екатерина Петровна": 75,
-      "Шаповалов Сергей Александрович": 19
+      "26120002448601": 75,
+      "26120002448682": 1,
+      "26120002448886": 3,
+      "26120002447533": 3,
+      "26120002446287": 11,
+      "26120002445822": 5,
+      "26120002445767": 75,
+      "26120002444691": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10260,6 +12192,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10269,8 +12205,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "4614037356466",
+    "uikName": "УИК №1540",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 846,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -10286,14 +12226,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 16,
-      "Кошляков Константин Алексеевич": 27,
-      "Кулешов Александр Алексеевич": 30,
-      "Мезинов Юрий Геннадьевич": 20,
-      "Птушкин Илья Игоревич": 11,
-      "Стенякина Екатерина Петровна": 219,
-      "Шаповалов Сергей Александрович": 103
+      "26120002448601": 19,
+      "26120002448682": 16,
+      "26120002448886": 27,
+      "26120002447533": 30,
+      "26120002446287": 20,
+      "26120002445822": 11,
+      "26120002445767": 219,
+      "26120002444691": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10303,6 +12243,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10312,8 +12256,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "4614037356467",
+    "uikName": "УИК №1541",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 413,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -10329,14 +12277,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 3,
-      "Калинин Владимир Андреевич": 2,
-      "Кошляков Константин Алексеевич": 3,
-      "Кулешов Александр Алексеевич": 3,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 7,
-      "Стенякина Екатерина Петровна": 207,
-      "Шаповалов Сергей Александрович": 29
+      "26120002448601": 3,
+      "26120002448682": 2,
+      "26120002448886": 3,
+      "26120002447533": 3,
+      "26120002446287": 6,
+      "26120002445822": 7,
+      "26120002445767": 207,
+      "26120002444691": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10346,6 +12294,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10355,8 +12307,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "4614037356468",
+    "uikName": "УИК №1542",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -10372,14 +12328,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 10,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 8,
-      "Кулешов Александр Алексеевич": 16,
-      "Мезинов Юрий Геннадьевич": 34,
-      "Птушкин Илья Игоревич": 43,
-      "Стенякина Екатерина Петровна": 515,
-      "Шаповалов Сергей Александрович": 76
+      "26120002448601": 10,
+      "26120002448682": 3,
+      "26120002448886": 8,
+      "26120002447533": 16,
+      "26120002446287": 34,
+      "26120002445822": 43,
+      "26120002445767": 515,
+      "26120002444691": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10389,6 +12345,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10398,8 +12358,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "4614037356469",
+    "uikName": "УИК №1543",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2066,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -10415,14 +12379,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 17,
-      "Кошляков Константин Алексеевич": 33,
-      "Кулешов Александр Алексеевич": 36,
-      "Мезинов Юрий Геннадьевич": 17,
-      "Птушкин Илья Игоревич": 63,
-      "Стенякина Екатерина Петровна": 307,
-      "Шаповалов Сергей Александрович": 200
+      "26120002448601": 18,
+      "26120002448682": 17,
+      "26120002448886": 33,
+      "26120002447533": 36,
+      "26120002446287": 17,
+      "26120002445822": 63,
+      "26120002445767": 307,
+      "26120002444691": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10432,6 +12396,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10441,8 +12409,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "4614037356470",
+    "uikName": "УИК №1544",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1345,
@@ -10458,14 +12430,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 2,
-      "Калинин Владимир Андреевич": 3,
-      "Кошляков Константин Алексеевич": 4,
-      "Кулешов Александр Алексеевич": 4,
-      "Мезинов Юрий Геннадьевич": 6,
-      "Птушкин Илья Игоревич": 23,
-      "Стенякина Екатерина Петровна": 1095,
-      "Шаповалов Сергей Александрович": 68
+      "26120002448601": 2,
+      "26120002448682": 3,
+      "26120002448886": 4,
+      "26120002447533": 4,
+      "26120002446287": 6,
+      "26120002445822": 23,
+      "26120002445767": 1095,
+      "26120002444691": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10475,6 +12447,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10484,8 +12460,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "4614037356471",
+    "uikName": "УИК №1545",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -10501,14 +12481,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 18,
-      "Калинин Владимир Андреевич": 14,
-      "Кошляков Константин Алексеевич": 22,
-      "Кулешов Александр Алексеевич": 38,
-      "Мезинов Юрий Геннадьевич": 31,
-      "Птушкин Илья Игоревич": 34,
-      "Стенякина Екатерина Петровна": 502,
-      "Шаповалов Сергей Александрович": 76
+      "26120002448601": 18,
+      "26120002448682": 14,
+      "26120002448886": 22,
+      "26120002447533": 38,
+      "26120002446287": 31,
+      "26120002445822": 34,
+      "26120002445767": 502,
+      "26120002444691": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10518,6 +12498,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10527,8 +12511,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "4614037356472",
+    "uikName": "УИК №1546",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2345,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2060,
@@ -10544,14 +12532,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 130,
-      "Калинин Владимир Андреевич": 135,
-      "Кошляков Константин Алексеевич": 109,
-      "Кулешов Александр Алексеевич": 104,
-      "Мезинов Юрий Геннадьевич": 120,
-      "Птушкин Илья Игоревич": 207,
-      "Стенякина Екатерина Петровна": 353,
-      "Шаповалов Сергей Александрович": 341
+      "26120002448601": 130,
+      "26120002448682": 135,
+      "26120002448886": 109,
+      "26120002447533": 104,
+      "26120002446287": 120,
+      "26120002445822": 207,
+      "26120002445767": 353,
+      "26120002444691": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10561,6 +12549,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   },
   {
@@ -10570,8 +12562,12 @@ export const duma_2021_uik_463_region_61_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "4614037356473",
+    "uikName": "УИК №1547",
     "tikTvd": "26120002435624",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 870,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -10587,14 +12583,14 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Башмаков Владимир Дмитриевич": 19,
-      "Калинин Владимир Андреевич": 10,
-      "Кошляков Константин Алексеевич": 37,
-      "Кулешов Александр Алексеевич": 28,
-      "Мезинов Юрий Геннадьевич": 34,
-      "Птушкин Илья Игоревич": 16,
-      "Стенякина Екатерина Петровна": 85,
-      "Шаповалов Сергей Александрович": 71
+      "26120002448601": 19,
+      "26120002448682": 10,
+      "26120002448886": 37,
+      "26120002447533": 28,
+      "26120002446287": 34,
+      "26120002445822": 16,
+      "26120002445767": 85,
+      "26120002444691": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
@@ -10604,6 +12600,10 @@ export const duma_2021_uik_463_region_61_part_008 = [
       "retrievedAt": "2026-08-26T08:04:07.683569+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120002435624&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435624&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100225883640"
     }
   }
 ] satisfies readonly UikProtocol[];

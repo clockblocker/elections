@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 34,
-      "Головков Виталий Федорович": 20,
-      "Калайда Василий Владимирович": 33,
-      "Кудасов Александр Викторович": 64,
-      "Куруч Римма Дмитриевна": 52,
-      "Лебедев Игорь Александрович": 45,
-      "Чернышенко Игорь Константинович": 541,
-      "Против всех": 263
+      "gas:candidate-vibid:251200069938": 34,
+      "gas:candidate-vibid:1001000195104": 20,
+      "gas:candidate-vibid:1001000121871": 33,
+      "gas:candidate-vibid:1001000136081": 64,
+      "gas:candidate-vibid:1001000220824": 52,
+      "gas:candidate-vibid:1001000112230": 45,
+      "gas:candidate-vibid:1001000225960": 541,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068356&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 27,
-      "Головков Виталий Федорович": 23,
-      "Калайда Василий Владимирович": 39,
-      "Кудасов Александр Викторович": 90,
-      "Куруч Римма Дмитриевна": 64,
-      "Лебедев Игорь Александрович": 42,
-      "Чернышенко Игорь Константинович": 496,
-      "Против всех": 346
+      "gas:candidate-vibid:251200069938": 27,
+      "gas:candidate-vibid:1001000195104": 23,
+      "gas:candidate-vibid:1001000121871": 39,
+      "gas:candidate-vibid:1001000136081": 90,
+      "gas:candidate-vibid:1001000220824": 64,
+      "gas:candidate-vibid:1001000112230": 42,
+      "gas:candidate-vibid:1001000225960": 496,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068356&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 22,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 29,
-      "Кудасов Александр Викторович": 42,
-      "Куруч Римма Дмитриевна": 57,
-      "Лебедев Игорь Александрович": 31,
-      "Чернышенко Игорь Константинович": 416,
-      "Против всех": 217
+      "gas:candidate-vibid:251200069938": 22,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 29,
+      "gas:candidate-vibid:1001000136081": 42,
+      "gas:candidate-vibid:1001000220824": 57,
+      "gas:candidate-vibid:1001000112230": 31,
+      "gas:candidate-vibid:1001000225960": 416,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068356&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 27,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 38,
-      "Кудасов Александр Викторович": 141,
-      "Куруч Римма Дмитриевна": 73,
-      "Лебедев Игорь Александрович": 44,
-      "Чернышенко Игорь Константинович": 513,
-      "Против всех": 181
+      "gas:candidate-vibid:251200069938": 27,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 38,
+      "gas:candidate-vibid:1001000136081": 141,
+      "gas:candidate-vibid:1001000220824": 73,
+      "gas:candidate-vibid:1001000112230": 44,
+      "gas:candidate-vibid:1001000225960": 513,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068357&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 56,
-      "Головков Виталий Федорович": 55,
-      "Калайда Василий Владимирович": 66,
-      "Кудасов Александр Викторович": 253,
-      "Куруч Римма Дмитриевна": 79,
-      "Лебедев Игорь Александрович": 117,
-      "Чернышенко Игорь Константинович": 662,
-      "Против всех": 335
+      "gas:candidate-vibid:251200069938": 56,
+      "gas:candidate-vibid:1001000195104": 55,
+      "gas:candidate-vibid:1001000121871": 66,
+      "gas:candidate-vibid:1001000136081": 253,
+      "gas:candidate-vibid:1001000220824": 79,
+      "gas:candidate-vibid:1001000112230": 117,
+      "gas:candidate-vibid:1001000225960": 662,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068357&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 26,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 47,
-      "Кудасов Александр Викторович": 155,
-      "Куруч Римма Дмитриевна": 85,
-      "Лебедев Игорь Александрович": 42,
-      "Чернышенко Игорь Константинович": 489,
-      "Против всех": 181
+      "gas:candidate-vibid:251200069938": 26,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 47,
+      "gas:candidate-vibid:1001000136081": 155,
+      "gas:candidate-vibid:1001000220824": 85,
+      "gas:candidate-vibid:1001000112230": 42,
+      "gas:candidate-vibid:1001000225960": 489,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068357&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 29,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 35,
-      "Кудасов Александр Викторович": 144,
-      "Куруч Римма Дмитриевна": 63,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 536,
-      "Против всех": 153
+      "gas:candidate-vibid:251200069938": 29,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 35,
+      "gas:candidate-vibid:1001000136081": 144,
+      "gas:candidate-vibid:1001000220824": 63,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 536,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068357&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 25,
-      "Головков Виталий Федорович": 16,
-      "Калайда Василий Владимирович": 72,
-      "Кудасов Александр Викторович": 121,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 79,
-      "Чернышенко Игорь Константинович": 832,
-      "Против всех": 209
+      "gas:candidate-vibid:251200069938": 25,
+      "gas:candidate-vibid:1001000195104": 16,
+      "gas:candidate-vibid:1001000121871": 72,
+      "gas:candidate-vibid:1001000136081": 121,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 79,
+      "gas:candidate-vibid:1001000225960": 832,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 23,
-      "Кудасов Александр Викторович": 37,
-      "Куруч Римма Дмитриевна": 32,
-      "Лебедев Игорь Александрович": 16,
-      "Чернышенко Игорь Константинович": 344,
-      "Против всех": 82
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 23,
+      "gas:candidate-vibid:1001000136081": 37,
+      "gas:candidate-vibid:1001000220824": 32,
+      "gas:candidate-vibid:1001000112230": 16,
+      "gas:candidate-vibid:1001000225960": 344,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 4,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 25,
-      "Кудасов Александр Викторович": 23,
-      "Куруч Римма Дмитриевна": 33,
-      "Лебедев Игорь Александрович": 19,
-      "Чернышенко Игорь Константинович": 278,
-      "Против всех": 42
+      "gas:candidate-vibid:251200069938": 4,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 25,
+      "gas:candidate-vibid:1001000136081": 23,
+      "gas:candidate-vibid:1001000220824": 33,
+      "gas:candidate-vibid:1001000112230": 19,
+      "gas:candidate-vibid:1001000225960": 278,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 20,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 56,
-      "Кудасов Александр Викторович": 76,
-      "Куруч Римма Дмитриевна": 48,
-      "Лебедев Игорь Александрович": 25,
-      "Чернышенко Игорь Константинович": 614,
-      "Против всех": 107
+      "gas:candidate-vibid:251200069938": 20,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 56,
+      "gas:candidate-vibid:1001000136081": 76,
+      "gas:candidate-vibid:1001000220824": 48,
+      "gas:candidate-vibid:1001000112230": 25,
+      "gas:candidate-vibid:1001000225960": 614,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 31,
-      "Головков Виталий Федорович": 21,
-      "Калайда Василий Владимирович": 54,
-      "Кудасов Александр Викторович": 89,
-      "Куруч Римма Дмитриевна": 58,
-      "Лебедев Игорь Александрович": 47,
-      "Чернышенко Игорь Константинович": 564,
-      "Против всех": 133
+      "gas:candidate-vibid:251200069938": 31,
+      "gas:candidate-vibid:1001000195104": 21,
+      "gas:candidate-vibid:1001000121871": 54,
+      "gas:candidate-vibid:1001000136081": 89,
+      "gas:candidate-vibid:1001000220824": 58,
+      "gas:candidate-vibid:1001000112230": 47,
+      "gas:candidate-vibid:1001000225960": 564,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 48,
-      "Кудасов Александр Викторович": 44,
-      "Куруч Римма Дмитриевна": 34,
-      "Лебедев Игорь Александрович": 33,
-      "Чернышенко Игорь Константинович": 521,
-      "Против всех": 84
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 48,
+      "gas:candidate-vibid:1001000136081": 44,
+      "gas:candidate-vibid:1001000220824": 34,
+      "gas:candidate-vibid:1001000112230": 33,
+      "gas:candidate-vibid:1001000225960": 521,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 3,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 18,
-      "Кудасов Александр Викторович": 17,
-      "Куруч Римма Дмитриевна": 10,
-      "Лебедев Игорь Александрович": 7,
-      "Чернышенко Игорь Константинович": 159,
-      "Против всех": 29
+      "gas:candidate-vibid:251200069938": 3,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 18,
+      "gas:candidate-vibid:1001000136081": 17,
+      "gas:candidate-vibid:1001000220824": 10,
+      "gas:candidate-vibid:1001000112230": 7,
+      "gas:candidate-vibid:1001000225960": 159,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 54,
-      "Кудасов Александр Викторович": 33,
-      "Куруч Римма Дмитриевна": 37,
-      "Лебедев Игорь Александрович": 26,
-      "Чернышенко Игорь Константинович": 368,
-      "Против всех": 56
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 54,
+      "gas:candidate-vibid:1001000136081": 33,
+      "gas:candidate-vibid:1001000220824": 37,
+      "gas:candidate-vibid:1001000112230": 26,
+      "gas:candidate-vibid:1001000225960": 368,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 3,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 25,
-      "Кудасов Александр Викторович": 22,
-      "Куруч Римма Дмитриевна": 24,
-      "Лебедев Игорь Александрович": 9,
-      "Чернышенко Игорь Константинович": 222,
-      "Против всех": 29
+      "gas:candidate-vibid:251200069938": 3,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 25,
+      "gas:candidate-vibid:1001000136081": 22,
+      "gas:candidate-vibid:1001000220824": 24,
+      "gas:candidate-vibid:1001000112230": 9,
+      "gas:candidate-vibid:1001000225960": 222,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 38,
-      "Кудасов Александр Викторович": 77,
-      "Куруч Римма Дмитриевна": 38,
-      "Лебедев Игорь Александрович": 14,
-      "Чернышенко Игорь Константинович": 462,
-      "Против всех": 95
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 38,
+      "gas:candidate-vibid:1001000136081": 77,
+      "gas:candidate-vibid:1001000220824": 38,
+      "gas:candidate-vibid:1001000112230": 14,
+      "gas:candidate-vibid:1001000225960": 462,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 54,
-      "Кудасов Александр Викторович": 82,
-      "Куруч Римма Дмитриевна": 70,
-      "Лебедев Игорь Александрович": 29,
-      "Чернышенко Игорь Константинович": 778,
-      "Против всех": 149
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 54,
+      "gas:candidate-vibid:1001000136081": 82,
+      "gas:candidate-vibid:1001000220824": 70,
+      "gas:candidate-vibid:1001000112230": 29,
+      "gas:candidate-vibid:1001000225960": 778,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 6,
-      "Кудасов Александр Викторович": 0,
-      "Куруч Римма Дмитриевна": 3,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 37,
-      "Против всех": 13
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 6,
+      "gas:candidate-vibid:1001000136081": 0,
+      "gas:candidate-vibid:1001000220824": 3,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 37,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 3,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 8,
-      "Кудасов Александр Викторович": 5,
-      "Куруч Римма Дмитриевна": 5,
-      "Лебедев Игорь Александрович": 1,
-      "Чернышенко Игорь Константинович": 61,
-      "Против всех": 7
+      "gas:candidate-vibid:251200069938": 3,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 8,
+      "gas:candidate-vibid:1001000136081": 5,
+      "gas:candidate-vibid:1001000220824": 5,
+      "gas:candidate-vibid:1001000112230": 1,
+      "gas:candidate-vibid:1001000225960": 61,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068358&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 16,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 94,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 122,
-      "Лебедев Игорь Александрович": 36,
-      "Чернышенко Игорь Константинович": 524,
-      "Против всех": 135
+      "gas:candidate-vibid:251200069938": 16,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 94,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 122,
+      "gas:candidate-vibid:1001000112230": 36,
+      "gas:candidate-vibid:1001000225960": 524,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 22,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 52,
-      "Кудасов Александр Викторович": 36,
-      "Куруч Римма Дмитриевна": 71,
-      "Лебедев Игорь Александрович": 21,
-      "Чернышенко Игорь Константинович": 367,
-      "Против всех": 90
+      "gas:candidate-vibid:251200069938": 22,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 52,
+      "gas:candidate-vibid:1001000136081": 36,
+      "gas:candidate-vibid:1001000220824": 71,
+      "gas:candidate-vibid:1001000112230": 21,
+      "gas:candidate-vibid:1001000225960": 367,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 34,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 89,
-      "Кудасов Александр Викторович": 72,
-      "Куруч Римма Дмитриевна": 115,
-      "Лебедев Игорь Александрович": 39,
-      "Чернышенко Игорь Константинович": 596,
-      "Против всех": 116
+      "gas:candidate-vibid:251200069938": 34,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 89,
+      "gas:candidate-vibid:1001000136081": 72,
+      "gas:candidate-vibid:1001000220824": 115,
+      "gas:candidate-vibid:1001000112230": 39,
+      "gas:candidate-vibid:1001000225960": 596,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 21,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 68,
-      "Кудасов Александр Викторович": 48,
-      "Куруч Римма Дмитриевна": 72,
-      "Лебедев Игорь Александрович": 23,
-      "Чернышенко Игорь Константинович": 508,
-      "Против всех": 98
+      "gas:candidate-vibid:251200069938": 21,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 68,
+      "gas:candidate-vibid:1001000136081": 48,
+      "gas:candidate-vibid:1001000220824": 72,
+      "gas:candidate-vibid:1001000112230": 23,
+      "gas:candidate-vibid:1001000225960": 508,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 25,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 75,
-      "Кудасов Александр Викторович": 48,
-      "Куруч Римма Дмитриевна": 111,
-      "Лебедев Игорь Александрович": 35,
-      "Чернышенко Игорь Константинович": 480,
-      "Против всех": 114
+      "gas:candidate-vibid:251200069938": 25,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 75,
+      "gas:candidate-vibid:1001000136081": 48,
+      "gas:candidate-vibid:1001000220824": 111,
+      "gas:candidate-vibid:1001000112230": 35,
+      "gas:candidate-vibid:1001000225960": 480,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 29,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 74,
-      "Кудасов Александр Викторович": 54,
-      "Куруч Римма Дмитриевна": 84,
-      "Лебедев Игорь Александрович": 38,
-      "Чернышенко Игорь Константинович": 485,
-      "Против всех": 117
+      "gas:candidate-vibid:251200069938": 29,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 74,
+      "gas:candidate-vibid:1001000136081": 54,
+      "gas:candidate-vibid:1001000220824": 84,
+      "gas:candidate-vibid:1001000112230": 38,
+      "gas:candidate-vibid:1001000225960": 485,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 24,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 93,
-      "Кудасов Александр Викторович": 38,
-      "Куруч Римма Дмитриевна": 66,
-      "Лебедев Игорь Александрович": 38,
-      "Чернышенко Игорь Константинович": 383,
-      "Против всех": 94
+      "gas:candidate-vibid:251200069938": 24,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 93,
+      "gas:candidate-vibid:1001000136081": 38,
+      "gas:candidate-vibid:1001000220824": 66,
+      "gas:candidate-vibid:1001000112230": 38,
+      "gas:candidate-vibid:1001000225960": 383,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 21,
-      "Головков Виталий Федорович": 37,
-      "Калайда Василий Владимирович": 21,
-      "Кудасов Александр Викторович": 83,
-      "Куруч Римма Дмитриевна": 37,
-      "Лебедев Игорь Александрович": 56,
-      "Чернышенко Игорь Константинович": 153,
-      "Против всех": 196
+      "gas:candidate-vibid:251200069938": 21,
+      "gas:candidate-vibid:1001000195104": 37,
+      "gas:candidate-vibid:1001000121871": 21,
+      "gas:candidate-vibid:1001000136081": 83,
+      "gas:candidate-vibid:1001000220824": 37,
+      "gas:candidate-vibid:1001000112230": 56,
+      "gas:candidate-vibid:1001000225960": 153,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 10,
-      "Кудасов Александр Викторович": 6,
-      "Куруч Римма Дмитриевна": 8,
-      "Лебедев Игорь Александрович": 4,
-      "Чернышенко Игорь Константинович": 24,
-      "Против всех": 6
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 10,
+      "gas:candidate-vibid:1001000136081": 6,
+      "gas:candidate-vibid:1001000220824": 8,
+      "gas:candidate-vibid:1001000112230": 4,
+      "gas:candidate-vibid:1001000225960": 24,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 35,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 77,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 64,
-      "Лебедев Игорь Александрович": 41,
-      "Чернышенко Игорь Константинович": 385,
-      "Против всех": 107
+      "gas:candidate-vibid:251200069938": 35,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 77,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 64,
+      "gas:candidate-vibid:1001000112230": 41,
+      "gas:candidate-vibid:1001000225960": 385,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 32,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 72,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 60,
-      "Лебедев Игорь Александрович": 20,
-      "Чернышенко Игорь Константинович": 313,
-      "Против всех": 74
+      "gas:candidate-vibid:251200069938": 32,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 72,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 60,
+      "gas:candidate-vibid:1001000112230": 20,
+      "gas:candidate-vibid:1001000225960": 313,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 34,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 54,
-      "Кудасов Александр Викторович": 55,
-      "Куруч Римма Дмитриевна": 69,
-      "Лебедев Игорь Александрович": 54,
-      "Чернышенко Игорь Константинович": 444,
-      "Против всех": 114
+      "gas:candidate-vibid:251200069938": 34,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 54,
+      "gas:candidate-vibid:1001000136081": 55,
+      "gas:candidate-vibid:1001000220824": 69,
+      "gas:candidate-vibid:1001000112230": 54,
+      "gas:candidate-vibid:1001000225960": 444,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 55,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 134,
-      "Кудасов Александр Викторович": 71,
-      "Куруч Римма Дмитриевна": 108,
-      "Лебедев Игорь Александрович": 50,
-      "Чернышенко Игорь Константинович": 519,
-      "Против всех": 144
+      "gas:candidate-vibid:251200069938": 55,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 134,
+      "gas:candidate-vibid:1001000136081": 71,
+      "gas:candidate-vibid:1001000220824": 108,
+      "gas:candidate-vibid:1001000112230": 50,
+      "gas:candidate-vibid:1001000225960": 519,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 64,
-      "Головков Виталий Федорович": 14,
-      "Калайда Василий Владимирович": 120,
-      "Кудасов Александр Викторович": 105,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 47,
-      "Чернышенко Игорь Константинович": 575,
-      "Против всех": 179
+      "gas:candidate-vibid:251200069938": 64,
+      "gas:candidate-vibid:1001000195104": 14,
+      "gas:candidate-vibid:1001000121871": 120,
+      "gas:candidate-vibid:1001000136081": 105,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 47,
+      "gas:candidate-vibid:1001000225960": 575,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 31,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 52,
-      "Кудасов Александр Викторович": 57,
-      "Куруч Римма Дмитриевна": 46,
-      "Лебедев Игорь Александрович": 42,
-      "Чернышенко Игорь Константинович": 390,
-      "Против всех": 120
+      "gas:candidate-vibid:251200069938": 31,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 52,
+      "gas:candidate-vibid:1001000136081": 57,
+      "gas:candidate-vibid:1001000220824": 46,
+      "gas:candidate-vibid:1001000112230": 42,
+      "gas:candidate-vibid:1001000225960": 390,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 21,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 90,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 96,
-      "Лебедев Игорь Александрович": 35,
-      "Чернышенко Игорь Константинович": 364,
-      "Против всех": 76
+      "gas:candidate-vibid:251200069938": 21,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 90,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 96,
+      "gas:candidate-vibid:1001000112230": 35,
+      "gas:candidate-vibid:1001000225960": 364,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 42,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 85,
-      "Кудасов Александр Викторович": 52,
-      "Куруч Римма Дмитриевна": 75,
-      "Лебедев Игорь Александрович": 30,
-      "Чернышенко Игорь Константинович": 416,
-      "Против всех": 93
+      "gas:candidate-vibid:251200069938": 42,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 85,
+      "gas:candidate-vibid:1001000136081": 52,
+      "gas:candidate-vibid:1001000220824": 75,
+      "gas:candidate-vibid:1001000112230": 30,
+      "gas:candidate-vibid:1001000225960": 416,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 37,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 120,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 58,
-      "Лебедев Игорь Александрович": 36,
-      "Чернышенко Игорь Константинович": 383,
-      "Против всех": 114
+      "gas:candidate-vibid:251200069938": 37,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 120,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 58,
+      "gas:candidate-vibid:1001000112230": 36,
+      "gas:candidate-vibid:1001000225960": 383,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 10,
-      "Кудасов Александр Викторович": 0,
-      "Куруч Римма Дмитриевна": 3,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 19,
-      "Против всех": 2
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 10,
+      "gas:candidate-vibid:1001000136081": 0,
+      "gas:candidate-vibid:1001000220824": 3,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 19,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 16,
-      "Калайда Василий Владимирович": 11,
-      "Кудасов Александр Викторович": 36,
-      "Куруч Римма Дмитриевна": 27,
-      "Лебедев Игорь Александрович": 28,
-      "Чернышенко Игорь Константинович": 110,
-      "Против всех": 99
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 16,
+      "gas:candidate-vibid:1001000121871": 11,
+      "gas:candidate-vibid:1001000136081": 36,
+      "gas:candidate-vibid:1001000220824": 27,
+      "gas:candidate-vibid:1001000112230": 28,
+      "gas:candidate-vibid:1001000225960": 110,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 18,
-      "Калайда Василий Владимирович": 17,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 8,
-      "Лебедев Игорь Александрович": 41,
-      "Чернышенко Игорь Константинович": 255,
-      "Против всех": 138
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 18,
+      "gas:candidate-vibid:1001000121871": 17,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 8,
+      "gas:candidate-vibid:1001000112230": 41,
+      "gas:candidate-vibid:1001000225960": 255,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 9,
-      "Кудасов Александр Викторович": 11,
-      "Куруч Римма Дмитриевна": 33,
-      "Лебедев Игорь Александрович": 10,
-      "Чернышенко Игорь Константинович": 71,
-      "Против всех": 21
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 9,
+      "gas:candidate-vibid:1001000136081": 11,
+      "gas:candidate-vibid:1001000220824": 33,
+      "gas:candidate-vibid:1001000112230": 10,
+      "gas:candidate-vibid:1001000225960": 71,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 34,
-      "Головков Виталий Федорович": 37,
-      "Калайда Василий Владимирович": 29,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 59,
-      "Лебедев Игорь Александрович": 39,
-      "Чернышенко Игорь Константинович": 347,
-      "Против всех": 147
+      "gas:candidate-vibid:251200069938": 34,
+      "gas:candidate-vibid:1001000195104": 37,
+      "gas:candidate-vibid:1001000121871": 29,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 59,
+      "gas:candidate-vibid:1001000112230": 39,
+      "gas:candidate-vibid:1001000225960": 347,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 15,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 27,
-      "Лебедев Игорь Александрович": 26,
-      "Чернышенко Игорь Константинович": 396,
-      "Против всех": 123
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 15,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 27,
+      "gas:candidate-vibid:1001000112230": 26,
+      "gas:candidate-vibid:1001000225960": 396,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 36,
-      "Головков Виталий Федорович": 29,
-      "Калайда Василий Владимирович": 16,
-      "Кудасов Александр Викторович": 84,
-      "Куруч Римма Дмитриевна": 43,
-      "Лебедев Игорь Александрович": 65,
-      "Чернышенко Игорь Константинович": 634,
-      "Против всех": 214
+      "gas:candidate-vibid:251200069938": 36,
+      "gas:candidate-vibid:1001000195104": 29,
+      "gas:candidate-vibid:1001000121871": 16,
+      "gas:candidate-vibid:1001000136081": 84,
+      "gas:candidate-vibid:1001000220824": 43,
+      "gas:candidate-vibid:1001000112230": 65,
+      "gas:candidate-vibid:1001000225960": 634,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 42,
-      "Головков Виталий Федорович": 41,
-      "Калайда Василий Владимирович": 24,
-      "Кудасов Александр Викторович": 105,
-      "Куруч Римма Дмитриевна": 49,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 553,
-      "Против всех": 300
+      "gas:candidate-vibid:251200069938": 42,
+      "gas:candidate-vibid:1001000195104": 41,
+      "gas:candidate-vibid:1001000121871": 24,
+      "gas:candidate-vibid:1001000136081": 105,
+      "gas:candidate-vibid:1001000220824": 49,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 553,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 50,
-      "Головков Виталий Федорович": 48,
-      "Калайда Василий Владимирович": 39,
-      "Кудасов Александр Викторович": 170,
-      "Куруч Римма Дмитриевна": 85,
-      "Лебедев Игорь Александрович": 111,
-      "Чернышенко Игорь Константинович": 760,
-      "Против всех": 302
+      "gas:candidate-vibid:251200069938": 50,
+      "gas:candidate-vibid:1001000195104": 48,
+      "gas:candidate-vibid:1001000121871": 39,
+      "gas:candidate-vibid:1001000136081": 170,
+      "gas:candidate-vibid:1001000220824": 85,
+      "gas:candidate-vibid:1001000112230": 111,
+      "gas:candidate-vibid:1001000225960": 760,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 21,
-      "Калайда Василий Владимирович": 13,
-      "Кудасов Александр Викторович": 42,
-      "Куруч Римма Дмитриевна": 26,
-      "Лебедев Игорь Александрович": 20,
-      "Чернышенко Игорь Константинович": 301,
-      "Против всех": 135
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 21,
+      "gas:candidate-vibid:1001000121871": 13,
+      "gas:candidate-vibid:1001000136081": 42,
+      "gas:candidate-vibid:1001000220824": 26,
+      "gas:candidate-vibid:1001000112230": 20,
+      "gas:candidate-vibid:1001000225960": 301,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 2,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 6,
-      "Кудасов Александр Викторович": 0,
-      "Куруч Римма Дмитриевна": 2,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 44,
-      "Против всех": 9
+      "gas:candidate-vibid:251200069938": 2,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 6,
+      "gas:candidate-vibid:1001000136081": 0,
+      "gas:candidate-vibid:1001000220824": 2,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 44,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 4,
-      "Кудасов Александр Викторович": 18,
-      "Куруч Римма Дмитриевна": 5,
-      "Лебедев Игорь Александрович": 10,
-      "Чернышенко Игорь Константинович": 33,
-      "Против всех": 32
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 4,
+      "gas:candidate-vibid:1001000136081": 18,
+      "gas:candidate-vibid:1001000220824": 5,
+      "gas:candidate-vibid:1001000112230": 10,
+      "gas:candidate-vibid:1001000225960": 33,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068359&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 88,
-      "Кудасов Александр Викторович": 53,
-      "Куруч Римма Дмитриевна": 52,
-      "Лебедев Игорь Александрович": 26,
-      "Чернышенко Игорь Константинович": 479,
-      "Против всех": 105
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 88,
+      "gas:candidate-vibid:1001000136081": 53,
+      "gas:candidate-vibid:1001000220824": 52,
+      "gas:candidate-vibid:1001000112230": 26,
+      "gas:candidate-vibid:1001000225960": 479,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 153,
-      "Кудасов Александр Викторович": 52,
-      "Куруч Римма Дмитриевна": 88,
-      "Лебедев Игорь Александрович": 37,
-      "Чернышенко Игорь Константинович": 457,
-      "Против всех": 87
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 153,
+      "gas:candidate-vibid:1001000136081": 52,
+      "gas:candidate-vibid:1001000220824": 88,
+      "gas:candidate-vibid:1001000112230": 37,
+      "gas:candidate-vibid:1001000225960": 457,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 143,
-      "Кудасов Александр Викторович": 54,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 27,
-      "Чернышенко Игорь Константинович": 507,
-      "Против всех": 134
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 143,
+      "gas:candidate-vibid:1001000136081": 54,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 27,
+      "gas:candidate-vibid:1001000225960": 507,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 244,
-      "Кудасов Александр Викторович": 46,
-      "Куруч Римма Дмитриевна": 78,
-      "Лебедев Игорь Александрович": 45,
-      "Чернышенко Игорь Константинович": 644,
-      "Против всех": 152
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 244,
+      "gas:candidate-vibid:1001000136081": 46,
+      "gas:candidate-vibid:1001000220824": 78,
+      "gas:candidate-vibid:1001000112230": 45,
+      "gas:candidate-vibid:1001000225960": 644,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 15,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 208,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 88,
-      "Лебедев Игорь Александрович": 81,
-      "Чернышенко Игорь Константинович": 647,
-      "Против всех": 158
+      "gas:candidate-vibid:251200069938": 15,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 208,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 88,
+      "gas:candidate-vibid:1001000112230": 81,
+      "gas:candidate-vibid:1001000225960": 647,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 178,
-      "Кудасов Александр Викторович": 46,
-      "Куруч Римма Дмитриевна": 84,
-      "Лебедев Игорь Александрович": 35,
-      "Чернышенко Игорь Константинович": 671,
-      "Против всех": 137
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 178,
+      "gas:candidate-vibid:1001000136081": 46,
+      "gas:candidate-vibid:1001000220824": 84,
+      "gas:candidate-vibid:1001000112230": 35,
+      "gas:candidate-vibid:1001000225960": 671,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 15,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 135,
-      "Кудасов Александр Викторович": 34,
-      "Куруч Римма Дмитриевна": 53,
-      "Лебедев Игорь Александрович": 63,
-      "Чернышенко Игорь Константинович": 674,
-      "Против всех": 115
+      "gas:candidate-vibid:251200069938": 15,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 135,
+      "gas:candidate-vibid:1001000136081": 34,
+      "gas:candidate-vibid:1001000220824": 53,
+      "gas:candidate-vibid:1001000112230": 63,
+      "gas:candidate-vibid:1001000225960": 674,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 180,
-      "Кудасов Александр Викторович": 62,
-      "Куруч Римма Дмитриевна": 70,
-      "Лебедев Игорь Александрович": 44,
-      "Чернышенко Игорь Константинович": 697,
-      "Против всех": 127
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 180,
+      "gas:candidate-vibid:1001000136081": 62,
+      "gas:candidate-vibid:1001000220824": 70,
+      "gas:candidate-vibid:1001000112230": 44,
+      "gas:candidate-vibid:1001000225960": 697,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 236,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 65,
-      "Чернышенко Игорь Константинович": 697,
-      "Против всех": 141
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 236,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 65,
+      "gas:candidate-vibid:1001000225960": 697,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 13,
-      "Калайда Василий Владимирович": 190,
-      "Кудасов Александр Викторович": 64,
-      "Куруч Римма Дмитриевна": 107,
-      "Лебедев Игорь Александрович": 57,
-      "Чернышенко Игорь Константинович": 599,
-      "Против всех": 150
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 13,
+      "gas:candidate-vibid:1001000121871": 190,
+      "gas:candidate-vibid:1001000136081": 64,
+      "gas:candidate-vibid:1001000220824": 107,
+      "gas:candidate-vibid:1001000112230": 57,
+      "gas:candidate-vibid:1001000225960": 599,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 28,
-      "Кудасов Александр Викторович": 7,
-      "Куруч Римма Дмитриевна": 5,
-      "Лебедев Игорь Александрович": 3,
-      "Чернышенко Игорь Константинович": 107,
-      "Против всех": 27
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 28,
+      "gas:candidate-vibid:1001000136081": 7,
+      "gas:candidate-vibid:1001000220824": 5,
+      "gas:candidate-vibid:1001000112230": 3,
+      "gas:candidate-vibid:1001000225960": 107,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 214,
-      "Кудасов Александр Викторович": 61,
-      "Куруч Римма Дмитриевна": 103,
-      "Лебедев Игорь Александрович": 44,
-      "Чернышенко Игорь Константинович": 684,
-      "Против всех": 131
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 214,
+      "gas:candidate-vibid:1001000136081": 61,
+      "gas:candidate-vibid:1001000220824": 103,
+      "gas:candidate-vibid:1001000112230": 44,
+      "gas:candidate-vibid:1001000225960": 684,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 7,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 222,
-      "Кудасов Александр Викторович": 52,
-      "Куруч Римма Дмитриевна": 82,
-      "Лебедев Игорь Александрович": 58,
-      "Чернышенко Игорь Константинович": 605,
-      "Против всех": 136
+      "gas:candidate-vibid:251200069938": 7,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 222,
+      "gas:candidate-vibid:1001000136081": 52,
+      "gas:candidate-vibid:1001000220824": 82,
+      "gas:candidate-vibid:1001000112230": 58,
+      "gas:candidate-vibid:1001000225960": 605,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 212,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 96,
-      "Лебедев Игорь Александрович": 55,
-      "Чернышенко Игорь Константинович": 623,
-      "Против всех": 155
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 212,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 96,
+      "gas:candidate-vibid:1001000112230": 55,
+      "gas:candidate-vibid:1001000225960": 623,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 71,
-      "Кудасов Александр Викторович": 32,
-      "Куруч Римма Дмитриевна": 49,
-      "Лебедев Игорь Александрович": 16,
-      "Чернышенко Игорь Константинович": 440,
-      "Против всех": 99
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 71,
+      "gas:candidate-vibid:1001000136081": 32,
+      "gas:candidate-vibid:1001000220824": 49,
+      "gas:candidate-vibid:1001000112230": 16,
+      "gas:candidate-vibid:1001000225960": 440,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 19,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 48,
-      "Кудасов Александр Викторович": 49,
-      "Куруч Римма Дмитриевна": 34,
-      "Лебедев Игорь Александрович": 17,
-      "Чернышенко Игорь Константинович": 371,
-      "Против всех": 145
+      "gas:candidate-vibid:251200069938": 19,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 48,
+      "gas:candidate-vibid:1001000136081": 49,
+      "gas:candidate-vibid:1001000220824": 34,
+      "gas:candidate-vibid:1001000112230": 17,
+      "gas:candidate-vibid:1001000225960": 371,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068360&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 29,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 41,
-      "Кудасов Александр Викторович": 33,
-      "Куруч Римма Дмитриевна": 42,
-      "Лебедев Игорь Александрович": 40,
-      "Чернышенко Игорь Константинович": 462,
-      "Против всех": 107
+      "gas:candidate-vibid:251200069938": 29,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 41,
+      "gas:candidate-vibid:1001000136081": 33,
+      "gas:candidate-vibid:1001000220824": 42,
+      "gas:candidate-vibid:1001000112230": 40,
+      "gas:candidate-vibid:1001000225960": 462,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068361&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 26,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 46,
-      "Кудасов Александр Викторович": 54,
-      "Куруч Римма Дмитриевна": 44,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 438,
-      "Против всех": 110
+      "gas:candidate-vibid:251200069938": 26,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 46,
+      "gas:candidate-vibid:1001000136081": 54,
+      "gas:candidate-vibid:1001000220824": 44,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 438,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068361&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 35,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 54,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 51,
-      "Лебедев Игорь Александрович": 43,
-      "Чернышенко Игорь Константинович": 364,
-      "Против всех": 124
+      "gas:candidate-vibid:251200069938": 35,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 54,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 51,
+      "gas:candidate-vibid:1001000112230": 43,
+      "gas:candidate-vibid:1001000225960": 364,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068361&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 37,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 59,
-      "Кудасов Александр Викторович": 83,
-      "Куруч Римма Дмитриевна": 69,
-      "Лебедев Игорь Александрович": 82,
-      "Чернышенко Игорь Константинович": 609,
-      "Против всех": 160
+      "gas:candidate-vibid:251200069938": 37,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 59,
+      "gas:candidate-vibid:1001000136081": 83,
+      "gas:candidate-vibid:1001000220824": 69,
+      "gas:candidate-vibid:1001000112230": 82,
+      "gas:candidate-vibid:1001000225960": 609,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068361&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 35,
-      "Головков Виталий Федорович": 15,
-      "Калайда Василий Владимирович": 60,
-      "Кудасов Александр Викторович": 69,
-      "Куруч Римма Дмитриевна": 71,
-      "Лебедев Игорь Александрович": 88,
-      "Чернышенко Игорь Константинович": 599,
-      "Против всех": 157
+      "gas:candidate-vibid:251200069938": 35,
+      "gas:candidate-vibid:1001000195104": 15,
+      "gas:candidate-vibid:1001000121871": 60,
+      "gas:candidate-vibid:1001000136081": 69,
+      "gas:candidate-vibid:1001000220824": 71,
+      "gas:candidate-vibid:1001000112230": 88,
+      "gas:candidate-vibid:1001000225960": 599,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068361&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 45,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 68,
-      "Кудасов Александр Викторович": 99,
-      "Куруч Римма Дмитриевна": 83,
-      "Лебедев Игорь Александрович": 99,
-      "Чернышенко Игорь Константинович": 683,
-      "Против всех": 184
+      "gas:candidate-vibid:251200069938": 45,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 68,
+      "gas:candidate-vibid:1001000136081": 99,
+      "gas:candidate-vibid:1001000220824": 83,
+      "gas:candidate-vibid:1001000112230": 99,
+      "gas:candidate-vibid:1001000225960": 683,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068361&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 43,
-      "Головков Виталий Федорович": 28,
-      "Калайда Василий Владимирович": 212,
-      "Кудасов Александр Викторович": 141,
-      "Куруч Римма Дмитриевна": 120,
-      "Лебедев Игорь Александрович": 104,
-      "Чернышенко Игорь Константинович": 544,
-      "Против всех": 329
+      "gas:candidate-vibid:251200069938": 43,
+      "gas:candidate-vibid:1001000195104": 28,
+      "gas:candidate-vibid:1001000121871": 212,
+      "gas:candidate-vibid:1001000136081": 141,
+      "gas:candidate-vibid:1001000220824": 120,
+      "gas:candidate-vibid:1001000112230": 104,
+      "gas:candidate-vibid:1001000225960": 544,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 38,
-      "Головков Виталий Федорович": 24,
-      "Калайда Василий Владимирович": 224,
-      "Кудасов Александр Викторович": 115,
-      "Куруч Римма Дмитриевна": 169,
-      "Лебедев Игорь Александрович": 166,
-      "Чернышенко Игорь Константинович": 573,
-      "Против всех": 256
+      "gas:candidate-vibid:251200069938": 38,
+      "gas:candidate-vibid:1001000195104": 24,
+      "gas:candidate-vibid:1001000121871": 224,
+      "gas:candidate-vibid:1001000136081": 115,
+      "gas:candidate-vibid:1001000220824": 169,
+      "gas:candidate-vibid:1001000112230": 166,
+      "gas:candidate-vibid:1001000225960": 573,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 54,
-      "Головков Виталий Федорович": 49,
-      "Калайда Василий Владимирович": 212,
-      "Кудасов Александр Викторович": 140,
-      "Куруч Римма Дмитриевна": 149,
-      "Лебедев Игорь Александрович": 193,
-      "Чернышенко Игорь Константинович": 743,
-      "Против всех": 442
+      "gas:candidate-vibid:251200069938": 54,
+      "gas:candidate-vibid:1001000195104": 49,
+      "gas:candidate-vibid:1001000121871": 212,
+      "gas:candidate-vibid:1001000136081": 140,
+      "gas:candidate-vibid:1001000220824": 149,
+      "gas:candidate-vibid:1001000112230": 193,
+      "gas:candidate-vibid:1001000225960": 743,
+      "special:against-all": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 73,
-      "Головков Виталий Федорович": 87,
-      "Калайда Василий Владимирович": 153,
-      "Кудасов Александр Викторович": 220,
-      "Куруч Римма Дмитриевна": 153,
-      "Лебедев Игорь Александрович": 182,
-      "Чернышенко Игорь Константинович": 712,
-      "Против всех": 467
+      "gas:candidate-vibid:251200069938": 73,
+      "gas:candidate-vibid:1001000195104": 87,
+      "gas:candidate-vibid:1001000121871": 153,
+      "gas:candidate-vibid:1001000136081": 220,
+      "gas:candidate-vibid:1001000220824": 153,
+      "gas:candidate-vibid:1001000112230": 182,
+      "gas:candidate-vibid:1001000225960": 712,
+      "special:against-all": 467
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 89,
-      "Головков Виталий Федорович": 94,
-      "Калайда Василий Владимирович": 161,
-      "Кудасов Александр Викторович": 190,
-      "Куруч Римма Дмитриевна": 143,
-      "Лебедев Игорь Александрович": 195,
-      "Чернышенко Игорь Константинович": 769,
-      "Против всех": 427
+      "gas:candidate-vibid:251200069938": 89,
+      "gas:candidate-vibid:1001000195104": 94,
+      "gas:candidate-vibid:1001000121871": 161,
+      "gas:candidate-vibid:1001000136081": 190,
+      "gas:candidate-vibid:1001000220824": 143,
+      "gas:candidate-vibid:1001000112230": 195,
+      "gas:candidate-vibid:1001000225960": 769,
+      "special:against-all": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 50,
-      "Головков Виталий Федорович": 51,
-      "Калайда Василий Владимирович": 166,
-      "Кудасов Александр Викторович": 132,
-      "Куруч Римма Дмитриевна": 136,
-      "Лебедев Игорь Александрович": 123,
-      "Чернышенко Игорь Константинович": 469,
-      "Против всех": 332
+      "gas:candidate-vibid:251200069938": 50,
+      "gas:candidate-vibid:1001000195104": 51,
+      "gas:candidate-vibid:1001000121871": 166,
+      "gas:candidate-vibid:1001000136081": 132,
+      "gas:candidate-vibid:1001000220824": 136,
+      "gas:candidate-vibid:1001000112230": 123,
+      "gas:candidate-vibid:1001000225960": 469,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 47,
-      "Головков Виталий Федорович": 49,
-      "Калайда Василий Владимирович": 148,
-      "Кудасов Александр Викторович": 132,
-      "Куруч Римма Дмитриевна": 114,
-      "Лебедев Игорь Александрович": 135,
-      "Чернышенко Игорь Константинович": 414,
-      "Против всех": 385
+      "gas:candidate-vibid:251200069938": 47,
+      "gas:candidate-vibid:1001000195104": 49,
+      "gas:candidate-vibid:1001000121871": 148,
+      "gas:candidate-vibid:1001000136081": 132,
+      "gas:candidate-vibid:1001000220824": 114,
+      "gas:candidate-vibid:1001000112230": 135,
+      "gas:candidate-vibid:1001000225960": 414,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 27,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 186,
-      "Кудасов Александр Викторович": 73,
-      "Куруч Римма Дмитриевна": 124,
-      "Лебедев Игорь Александрович": 97,
-      "Чернышенко Игорь Константинович": 385,
-      "Против всех": 174
+      "gas:candidate-vibid:251200069938": 27,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 186,
+      "gas:candidate-vibid:1001000136081": 73,
+      "gas:candidate-vibid:1001000220824": 124,
+      "gas:candidate-vibid:1001000112230": 97,
+      "gas:candidate-vibid:1001000225960": 385,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 99,
-      "Кудасов Александр Викторович": 43,
-      "Куруч Римма Дмитриевна": 67,
-      "Лебедев Игорь Александрович": 44,
-      "Чернышенко Игорь Константинович": 317,
-      "Против всех": 114
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 99,
+      "gas:candidate-vibid:1001000136081": 43,
+      "gas:candidate-vibid:1001000220824": 67,
+      "gas:candidate-vibid:1001000112230": 44,
+      "gas:candidate-vibid:1001000225960": 317,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 27,
-      "Головков Виталий Федорович": 19,
-      "Калайда Василий Владимирович": 237,
-      "Кудасов Александр Викторович": 119,
-      "Куруч Римма Дмитриевна": 137,
-      "Лебедев Игорь Александрович": 122,
-      "Чернышенко Игорь Константинович": 625,
-      "Против всех": 244
+      "gas:candidate-vibid:251200069938": 27,
+      "gas:candidate-vibid:1001000195104": 19,
+      "gas:candidate-vibid:1001000121871": 237,
+      "gas:candidate-vibid:1001000136081": 119,
+      "gas:candidate-vibid:1001000220824": 137,
+      "gas:candidate-vibid:1001000112230": 122,
+      "gas:candidate-vibid:1001000225960": 625,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 36,
-      "Головков Виталий Федорович": 19,
-      "Калайда Василий Владимирович": 217,
-      "Кудасов Александр Викторович": 122,
-      "Куруч Римма Дмитриевна": 161,
-      "Лебедев Игорь Александрович": 153,
-      "Чернышенко Игорь Константинович": 578,
-      "Против всех": 224
+      "gas:candidate-vibid:251200069938": 36,
+      "gas:candidate-vibid:1001000195104": 19,
+      "gas:candidate-vibid:1001000121871": 217,
+      "gas:candidate-vibid:1001000136081": 122,
+      "gas:candidate-vibid:1001000220824": 161,
+      "gas:candidate-vibid:1001000112230": 153,
+      "gas:candidate-vibid:1001000225960": 578,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 34,
-      "Головков Виталий Федорович": 36,
-      "Калайда Василий Владимирович": 180,
-      "Кудасов Александр Викторович": 122,
-      "Куруч Римма Дмитриевна": 115,
-      "Лебедев Игорь Александрович": 136,
-      "Чернышенко Игорь Константинович": 482,
-      "Против всех": 314
+      "gas:candidate-vibid:251200069938": 34,
+      "gas:candidate-vibid:1001000195104": 36,
+      "gas:candidate-vibid:1001000121871": 180,
+      "gas:candidate-vibid:1001000136081": 122,
+      "gas:candidate-vibid:1001000220824": 115,
+      "gas:candidate-vibid:1001000112230": 136,
+      "gas:candidate-vibid:1001000225960": 482,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 31,
-      "Головков Виталий Федорович": 24,
-      "Калайда Василий Владимирович": 232,
-      "Кудасов Александр Викторович": 134,
-      "Куруч Римма Дмитриевна": 133,
-      "Лебедев Игорь Александрович": 113,
-      "Чернышенко Игорь Константинович": 493,
-      "Против всех": 239
+      "gas:candidate-vibid:251200069938": 31,
+      "gas:candidate-vibid:1001000195104": 24,
+      "gas:candidate-vibid:1001000121871": 232,
+      "gas:candidate-vibid:1001000136081": 134,
+      "gas:candidate-vibid:1001000220824": 133,
+      "gas:candidate-vibid:1001000112230": 113,
+      "gas:candidate-vibid:1001000225960": 493,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 27,
-      "Головков Виталий Федорович": 27,
-      "Калайда Василий Владимирович": 259,
-      "Кудасов Александр Викторович": 127,
-      "Куруч Римма Дмитриевна": 134,
-      "Лебедев Игорь Александрович": 136,
-      "Чернышенко Игорь Константинович": 505,
-      "Против всех": 308
+      "gas:candidate-vibid:251200069938": 27,
+      "gas:candidate-vibid:1001000195104": 27,
+      "gas:candidate-vibid:1001000121871": 259,
+      "gas:candidate-vibid:1001000136081": 127,
+      "gas:candidate-vibid:1001000220824": 134,
+      "gas:candidate-vibid:1001000112230": 136,
+      "gas:candidate-vibid:1001000225960": 505,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 23,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 341,
-      "Кудасов Александр Викторович": 81,
-      "Куруч Римма Дмитриевна": 110,
-      "Лебедев Игорь Александрович": 69,
-      "Чернышенко Игорь Константинович": 305,
-      "Против всех": 145
+      "gas:candidate-vibid:251200069938": 23,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 341,
+      "gas:candidate-vibid:1001000136081": 81,
+      "gas:candidate-vibid:1001000220824": 110,
+      "gas:candidate-vibid:1001000112230": 69,
+      "gas:candidate-vibid:1001000225960": 305,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 190,
-      "Кудасов Александр Викторович": 53,
-      "Куруч Римма Дмитриевна": 56,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 271,
-      "Против всех": 123
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 190,
+      "gas:candidate-vibid:1001000136081": 53,
+      "gas:candidate-vibid:1001000220824": 56,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 271,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 26,
-      "Головков Виталий Федорович": 17,
-      "Калайда Василий Владимирович": 147,
-      "Кудасов Александр Викторович": 75,
-      "Куруч Римма Дмитриевна": 137,
-      "Лебедев Игорь Александрович": 48,
-      "Чернышенко Игорь Константинович": 338,
-      "Против всех": 139
+      "gas:candidate-vibid:251200069938": 26,
+      "gas:candidate-vibid:1001000195104": 17,
+      "gas:candidate-vibid:1001000121871": 147,
+      "gas:candidate-vibid:1001000136081": 75,
+      "gas:candidate-vibid:1001000220824": 137,
+      "gas:candidate-vibid:1001000112230": 48,
+      "gas:candidate-vibid:1001000225960": 338,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 46,
-      "Головков Виталий Федорович": 43,
-      "Калайда Василий Владимирович": 224,
-      "Кудасов Александр Викторович": 164,
-      "Куруч Римма Дмитриевна": 155,
-      "Лебедев Игорь Александрович": 139,
-      "Чернышенко Игорь Константинович": 549,
-      "Против всех": 325
+      "gas:candidate-vibid:251200069938": 46,
+      "gas:candidate-vibid:1001000195104": 43,
+      "gas:candidate-vibid:1001000121871": 224,
+      "gas:candidate-vibid:1001000136081": 164,
+      "gas:candidate-vibid:1001000220824": 155,
+      "gas:candidate-vibid:1001000112230": 139,
+      "gas:candidate-vibid:1001000225960": 549,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 28,
-      "Кудасов Александр Викторович": 39,
-      "Куруч Римма Дмитриевна": 24,
-      "Лебедев Игорь Александрович": 33,
-      "Чернышенко Игорь Константинович": 117,
-      "Против всех": 67
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 28,
+      "gas:candidate-vibid:1001000136081": 39,
+      "gas:candidate-vibid:1001000220824": 24,
+      "gas:candidate-vibid:1001000112230": 33,
+      "gas:candidate-vibid:1001000225960": 117,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 37,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 123,
-      "Кудасов Александр Викторович": 83,
-      "Куруч Римма Дмитриевна": 77,
-      "Лебедев Игорь Александрович": 35,
-      "Чернышенко Игорь Константинович": 500,
-      "Против всех": 128
+      "gas:candidate-vibid:251200069938": 37,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 123,
+      "gas:candidate-vibid:1001000136081": 83,
+      "gas:candidate-vibid:1001000220824": 77,
+      "gas:candidate-vibid:1001000112230": 35,
+      "gas:candidate-vibid:1001000225960": 500,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 48,
-      "Головков Виталий Федорович": 21,
-      "Калайда Василий Владимирович": 137,
-      "Кудасов Александр Викторович": 122,
-      "Куруч Римма Дмитриевна": 132,
-      "Лебедев Игорь Александрович": 50,
-      "Чернышенко Игорь Константинович": 545,
-      "Против всех": 197
+      "gas:candidate-vibid:251200069938": 48,
+      "gas:candidate-vibid:1001000195104": 21,
+      "gas:candidate-vibid:1001000121871": 137,
+      "gas:candidate-vibid:1001000136081": 122,
+      "gas:candidate-vibid:1001000220824": 132,
+      "gas:candidate-vibid:1001000112230": 50,
+      "gas:candidate-vibid:1001000225960": 545,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 139,
-      "Кудасов Александр Викторович": 101,
-      "Куруч Римма Дмитриевна": 108,
-      "Лебедев Игорь Александрович": 53,
-      "Чернышенко Игорь Константинович": 287,
-      "Против всех": 203
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 139,
+      "gas:candidate-vibid:1001000136081": 101,
+      "gas:candidate-vibid:1001000220824": 108,
+      "gas:candidate-vibid:1001000112230": 53,
+      "gas:candidate-vibid:1001000225960": 287,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 24,
-      "Головков Виталий Федорович": 14,
-      "Калайда Василий Владимирович": 173,
-      "Кудасов Александр Викторович": 90,
-      "Куруч Римма Дмитриевна": 132,
-      "Лебедев Игорь Александрович": 80,
-      "Чернышенко Игорь Константинович": 454,
-      "Против всех": 195
+      "gas:candidate-vibid:251200069938": 24,
+      "gas:candidate-vibid:1001000195104": 14,
+      "gas:candidate-vibid:1001000121871": 173,
+      "gas:candidate-vibid:1001000136081": 90,
+      "gas:candidate-vibid:1001000220824": 132,
+      "gas:candidate-vibid:1001000112230": 80,
+      "gas:candidate-vibid:1001000225960": 454,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 36,
-      "Головков Виталий Федорович": 20,
-      "Калайда Василий Владимирович": 145,
-      "Кудасов Александр Викторович": 121,
-      "Куруч Римма Дмитриевна": 142,
-      "Лебедев Игорь Александрович": 90,
-      "Чернышенко Игорь Константинович": 533,
-      "Против всех": 262
+      "gas:candidate-vibid:251200069938": 36,
+      "gas:candidate-vibid:1001000195104": 20,
+      "gas:candidate-vibid:1001000121871": 145,
+      "gas:candidate-vibid:1001000136081": 121,
+      "gas:candidate-vibid:1001000220824": 142,
+      "gas:candidate-vibid:1001000112230": 90,
+      "gas:candidate-vibid:1001000225960": 533,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 58,
-      "Кудасов Александр Викторович": 37,
-      "Куруч Римма Дмитриевна": 57,
-      "Лебедев Игорь Александрович": 17,
-      "Чернышенко Игорь Константинович": 200,
-      "Против всех": 65
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 58,
+      "gas:candidate-vibid:1001000136081": 37,
+      "gas:candidate-vibid:1001000220824": 57,
+      "gas:candidate-vibid:1001000112230": 17,
+      "gas:candidate-vibid:1001000225960": 200,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 31,
-      "Головков Виталий Федорович": 37,
-      "Калайда Василий Владимирович": 42,
-      "Кудасов Александр Викторович": 70,
-      "Куруч Римма Дмитриевна": 53,
-      "Лебедев Игорь Александрович": 54,
-      "Чернышенко Игорь Константинович": 241,
-      "Против всех": 162
+      "gas:candidate-vibid:251200069938": 31,
+      "gas:candidate-vibid:1001000195104": 37,
+      "gas:candidate-vibid:1001000121871": 42,
+      "gas:candidate-vibid:1001000136081": 70,
+      "gas:candidate-vibid:1001000220824": 53,
+      "gas:candidate-vibid:1001000112230": 54,
+      "gas:candidate-vibid:1001000225960": 241,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 67,
-      "Головков Виталий Федорович": 22,
-      "Калайда Василий Владимирович": 106,
-      "Кудасов Александр Викторович": 145,
-      "Куруч Римма Дмитриевна": 118,
-      "Лебедев Игорь Александрович": 65,
-      "Чернышенко Игорь Константинович": 663,
-      "Против всех": 331
+      "gas:candidate-vibid:251200069938": 67,
+      "gas:candidate-vibid:1001000195104": 22,
+      "gas:candidate-vibid:1001000121871": 106,
+      "gas:candidate-vibid:1001000136081": 145,
+      "gas:candidate-vibid:1001000220824": 118,
+      "gas:candidate-vibid:1001000112230": 65,
+      "gas:candidate-vibid:1001000225960": 663,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 25,
-      "Кудасов Александр Викторович": 11,
-      "Куруч Римма Дмитриевна": 21,
-      "Лебедев Игорь Александрович": 12,
-      "Чернышенко Игорь Константинович": 87,
-      "Против всех": 39
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 25,
+      "gas:candidate-vibid:1001000136081": 11,
+      "gas:candidate-vibid:1001000220824": 21,
+      "gas:candidate-vibid:1001000112230": 12,
+      "gas:candidate-vibid:1001000225960": 87,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 97,
-      "Кудасов Александр Викторович": 30,
-      "Куруч Римма Дмитриевна": 52,
-      "Лебедев Игорь Александрович": 27,
-      "Чернышенко Игорь Константинович": 139,
-      "Против всех": 103
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 97,
+      "gas:candidate-vibid:1001000136081": 30,
+      "gas:candidate-vibid:1001000220824": 52,
+      "gas:candidate-vibid:1001000112230": 27,
+      "gas:candidate-vibid:1001000225960": 139,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 35,
-      "Кудасов Александр Викторович": 6,
-      "Куруч Римма Дмитриевна": 12,
-      "Лебедев Игорь Александрович": 9,
-      "Чернышенко Игорь Константинович": 24,
-      "Против всех": 12
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 35,
+      "gas:candidate-vibid:1001000136081": 6,
+      "gas:candidate-vibid:1001000220824": 12,
+      "gas:candidate-vibid:1001000112230": 9,
+      "gas:candidate-vibid:1001000225960": 24,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 34,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 18,
-      "Лебедев Игорь Александрович": 26,
-      "Чернышенко Игорь Константинович": 101,
-      "Против всех": 103
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 34,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 18,
+      "gas:candidate-vibid:1001000112230": 26,
+      "gas:candidate-vibid:1001000225960": 101,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 3,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 4,
-      "Кудасов Александр Викторович": 5,
-      "Куруч Римма Дмитриевна": 3,
-      "Лебедев Игорь Александрович": 5,
-      "Чернышенко Игорь Константинович": 34,
-      "Против всех": 10
+      "gas:candidate-vibid:251200069938": 3,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 4,
+      "gas:candidate-vibid:1001000136081": 5,
+      "gas:candidate-vibid:1001000220824": 3,
+      "gas:candidate-vibid:1001000112230": 5,
+      "gas:candidate-vibid:1001000225960": 34,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068363&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 71,
-      "Кудасов Александр Викторович": 24,
-      "Куруч Римма Дмитриевна": 47,
-      "Лебедев Игорь Александрович": 66,
-      "Чернышенко Игорь Константинович": 496,
-      "Против всех": 90
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 71,
+      "gas:candidate-vibid:1001000136081": 24,
+      "gas:candidate-vibid:1001000220824": 47,
+      "gas:candidate-vibid:1001000112230": 66,
+      "gas:candidate-vibid:1001000225960": 496,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 108,
-      "Кудасов Александр Викторович": 23,
-      "Куруч Римма Дмитриевна": 54,
-      "Лебедев Игорь Александрович": 45,
-      "Чернышенко Игорь Константинович": 418,
-      "Против всех": 92
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 108,
+      "gas:candidate-vibid:1001000136081": 23,
+      "gas:candidate-vibid:1001000220824": 54,
+      "gas:candidate-vibid:1001000112230": 45,
+      "gas:candidate-vibid:1001000225960": 418,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 116,
-      "Кудасов Александр Викторович": 14,
-      "Куруч Римма Дмитриевна": 50,
-      "Лебедев Игорь Александрович": 38,
-      "Чернышенко Игорь Константинович": 436,
-      "Против всех": 81
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 116,
+      "gas:candidate-vibid:1001000136081": 14,
+      "gas:candidate-vibid:1001000220824": 50,
+      "gas:candidate-vibid:1001000112230": 38,
+      "gas:candidate-vibid:1001000225960": 436,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 112,
-      "Кудасов Александр Викторович": 24,
-      "Куруч Римма Дмитриевна": 46,
-      "Лебедев Игорь Александрович": 36,
-      "Чернышенко Игорь Константинович": 368,
-      "Против всех": 81
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 112,
+      "gas:candidate-vibid:1001000136081": 24,
+      "gas:candidate-vibid:1001000220824": 46,
+      "gas:candidate-vibid:1001000112230": 36,
+      "gas:candidate-vibid:1001000225960": 368,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 108,
-      "Кудасов Александр Викторович": 27,
-      "Куруч Римма Дмитриевна": 65,
-      "Лебедев Игорь Александрович": 39,
-      "Чернышенко Игорь Константинович": 354,
-      "Против всех": 82
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 108,
+      "gas:candidate-vibid:1001000136081": 27,
+      "gas:candidate-vibid:1001000220824": 65,
+      "gas:candidate-vibid:1001000112230": 39,
+      "gas:candidate-vibid:1001000225960": 354,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 109,
-      "Кудасов Александр Викторович": 35,
-      "Куруч Римма Дмитриевна": 77,
-      "Лебедев Игорь Александрович": 50,
-      "Чернышенко Игорь Константинович": 423,
-      "Против всех": 95
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 109,
+      "gas:candidate-vibid:1001000136081": 35,
+      "gas:candidate-vibid:1001000220824": 77,
+      "gas:candidate-vibid:1001000112230": 50,
+      "gas:candidate-vibid:1001000225960": 423,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 131,
-      "Кудасов Александр Викторович": 28,
-      "Куруч Римма Дмитриевна": 80,
-      "Лебедев Игорь Александрович": 41,
-      "Чернышенко Игорь Константинович": 443,
-      "Против всех": 84
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 131,
+      "gas:candidate-vibid:1001000136081": 28,
+      "gas:candidate-vibid:1001000220824": 80,
+      "gas:candidate-vibid:1001000112230": 41,
+      "gas:candidate-vibid:1001000225960": 443,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 94,
-      "Кудасов Александр Викторович": 23,
-      "Куруч Римма Дмитриевна": 54,
-      "Лебедев Игорь Александрович": 47,
-      "Чернышенко Игорь Константинович": 535,
-      "Против всех": 113
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 94,
+      "gas:candidate-vibid:1001000136081": 23,
+      "gas:candidate-vibid:1001000220824": 54,
+      "gas:candidate-vibid:1001000112230": 47,
+      "gas:candidate-vibid:1001000225960": 535,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 111,
-      "Кудасов Александр Викторович": 18,
-      "Куруч Римма Дмитриевна": 68,
-      "Лебедев Игорь Александрович": 65,
-      "Чернышенко Игорь Константинович": 458,
-      "Против всех": 94
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 111,
+      "gas:candidate-vibid:1001000136081": 18,
+      "gas:candidate-vibid:1001000220824": 68,
+      "gas:candidate-vibid:1001000112230": 65,
+      "gas:candidate-vibid:1001000225960": 458,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 2,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 76,
-      "Кудасов Александр Викторович": 28,
-      "Куруч Римма Дмитриевна": 44,
-      "Лебедев Игорь Александрович": 10,
-      "Чернышенко Игорь Константинович": 253,
-      "Против всех": 43
+      "gas:candidate-vibid:251200069938": 2,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 76,
+      "gas:candidate-vibid:1001000136081": 28,
+      "gas:candidate-vibid:1001000220824": 44,
+      "gas:candidate-vibid:1001000112230": 10,
+      "gas:candidate-vibid:1001000225960": 253,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 2,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 19,
-      "Кудасов Александр Викторович": 12,
-      "Куруч Римма Дмитриевна": 29,
-      "Лебедев Игорь Александрович": 5,
-      "Чернышенко Игорь Константинович": 120,
-      "Против всех": 20
+      "gas:candidate-vibid:251200069938": 2,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 19,
+      "gas:candidate-vibid:1001000136081": 12,
+      "gas:candidate-vibid:1001000220824": 29,
+      "gas:candidate-vibid:1001000112230": 5,
+      "gas:candidate-vibid:1001000225960": 120,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 76,
-      "Кудасов Александр Викторович": 21,
-      "Куруч Римма Дмитриевна": 66,
-      "Лебедев Игорь Александрович": 20,
-      "Чернышенко Игорь Константинович": 322,
-      "Против всех": 49
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 76,
+      "gas:candidate-vibid:1001000136081": 21,
+      "gas:candidate-vibid:1001000220824": 66,
+      "gas:candidate-vibid:1001000112230": 20,
+      "gas:candidate-vibid:1001000225960": 322,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068364&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 207,
-      "Кудасов Александр Викторович": 46,
-      "Куруч Римма Дмитриевна": 101,
-      "Лебедев Игорь Александрович": 68,
-      "Чернышенко Игорь Константинович": 528,
-      "Против всех": 136
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 207,
+      "gas:candidate-vibid:1001000136081": 46,
+      "gas:candidate-vibid:1001000220824": 101,
+      "gas:candidate-vibid:1001000112230": 68,
+      "gas:candidate-vibid:1001000225960": 528,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 165,
-      "Кудасов Александр Викторович": 38,
-      "Куруч Римма Дмитриевна": 79,
-      "Лебедев Игорь Александрович": 59,
-      "Чернышенко Игорь Константинович": 457,
-      "Против всех": 110
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 165,
+      "gas:candidate-vibid:1001000136081": 38,
+      "gas:candidate-vibid:1001000220824": 79,
+      "gas:candidate-vibid:1001000112230": 59,
+      "gas:candidate-vibid:1001000225960": 457,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 184,
-      "Кудасов Александр Викторович": 63,
-      "Куруч Римма Дмитриевна": 95,
-      "Лебедев Игорь Александрович": 113,
-      "Чернышенко Игорь Константинович": 523,
-      "Против всех": 110
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 184,
+      "gas:candidate-vibid:1001000136081": 63,
+      "gas:candidate-vibid:1001000220824": 95,
+      "gas:candidate-vibid:1001000112230": 113,
+      "gas:candidate-vibid:1001000225960": 523,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 140,
-      "Кудасов Александр Викторович": 50,
-      "Куруч Римма Дмитриевна": 80,
-      "Лебедев Игорь Александрович": 50,
-      "Чернышенко Игорь Константинович": 477,
-      "Против всех": 88
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 140,
+      "gas:candidate-vibid:1001000136081": 50,
+      "gas:candidate-vibid:1001000220824": 80,
+      "gas:candidate-vibid:1001000112230": 50,
+      "gas:candidate-vibid:1001000225960": 477,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 129,
-      "Кудасов Александр Викторович": 34,
-      "Куруч Римма Дмитриевна": 53,
-      "Лебедев Игорь Александрович": 40,
-      "Чернышенко Игорь Константинович": 430,
-      "Против всех": 85
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 129,
+      "gas:candidate-vibid:1001000136081": 34,
+      "gas:candidate-vibid:1001000220824": 53,
+      "gas:candidate-vibid:1001000112230": 40,
+      "gas:candidate-vibid:1001000225960": 430,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 155,
-      "Кудасов Александр Викторович": 57,
-      "Куруч Римма Дмитриевна": 76,
-      "Лебедев Игорь Александрович": 55,
-      "Чернышенко Игорь Константинович": 620,
-      "Против всех": 127
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 155,
+      "gas:candidate-vibid:1001000136081": 57,
+      "gas:candidate-vibid:1001000220824": 76,
+      "gas:candidate-vibid:1001000112230": 55,
+      "gas:candidate-vibid:1001000225960": 620,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 15,
-      "Головков Виталий Федорович": 13,
-      "Калайда Василий Владимирович": 189,
-      "Кудасов Александр Викторович": 59,
-      "Куруч Римма Дмитриевна": 124,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 694,
-      "Против всех": 116
+      "gas:candidate-vibid:251200069938": 15,
+      "gas:candidate-vibid:1001000195104": 13,
+      "gas:candidate-vibid:1001000121871": 189,
+      "gas:candidate-vibid:1001000136081": 59,
+      "gas:candidate-vibid:1001000220824": 124,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 694,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 24,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 226,
-      "Кудасов Александр Викторович": 86,
-      "Куруч Римма Дмитриевна": 96,
-      "Лебедев Игорь Александрович": 95,
-      "Чернышенко Игорь Константинович": 824,
-      "Против всех": 177
+      "gas:candidate-vibid:251200069938": 24,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 226,
+      "gas:candidate-vibid:1001000136081": 86,
+      "gas:candidate-vibid:1001000220824": 96,
+      "gas:candidate-vibid:1001000112230": 95,
+      "gas:candidate-vibid:1001000225960": 824,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 202,
-      "Кудасов Александр Викторович": 63,
-      "Куруч Римма Дмитриевна": 106,
-      "Лебедев Игорь Александрович": 105,
-      "Чернышенко Игорь Константинович": 662,
-      "Против всех": 178
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 202,
+      "gas:candidate-vibid:1001000136081": 63,
+      "gas:candidate-vibid:1001000220824": 106,
+      "gas:candidate-vibid:1001000112230": 105,
+      "gas:candidate-vibid:1001000225960": 662,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 7,
-      "Головков Виталий Федорович": 14,
-      "Калайда Василий Владимирович": 187,
-      "Кудасов Александр Викторович": 67,
-      "Куруч Римма Дмитриевна": 85,
-      "Лебедев Игорь Александрович": 71,
-      "Чернышенко Игорь Константинович": 679,
-      "Против всех": 122
+      "gas:candidate-vibid:251200069938": 7,
+      "gas:candidate-vibid:1001000195104": 14,
+      "gas:candidate-vibid:1001000121871": 187,
+      "gas:candidate-vibid:1001000136081": 67,
+      "gas:candidate-vibid:1001000220824": 85,
+      "gas:candidate-vibid:1001000112230": 71,
+      "gas:candidate-vibid:1001000225960": 679,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 13,
-      "Калайда Василий Владимирович": 181,
-      "Кудасов Александр Викторович": 52,
-      "Куруч Римма Дмитриевна": 102,
-      "Лебедев Игорь Александрович": 52,
-      "Чернышенко Игорь Константинович": 604,
-      "Против всех": 130
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 13,
+      "gas:candidate-vibid:1001000121871": 181,
+      "gas:candidate-vibid:1001000136081": 52,
+      "gas:candidate-vibid:1001000220824": 102,
+      "gas:candidate-vibid:1001000112230": 52,
+      "gas:candidate-vibid:1001000225960": 604,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 119,
-      "Кудасов Александр Викторович": 39,
-      "Куруч Римма Дмитриевна": 64,
-      "Лебедев Игорь Александрович": 59,
-      "Чернышенко Игорь Константинович": 382,
-      "Против всех": 112
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 119,
+      "gas:candidate-vibid:1001000136081": 39,
+      "gas:candidate-vibid:1001000220824": 64,
+      "gas:candidate-vibid:1001000112230": 59,
+      "gas:candidate-vibid:1001000225960": 382,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 19,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 196,
-      "Кудасов Александр Викторович": 70,
-      "Куруч Римма Дмитриевна": 131,
-      "Лебедев Игорь Александрович": 74,
-      "Чернышенко Игорь Константинович": 659,
-      "Против всех": 153
+      "gas:candidate-vibid:251200069938": 19,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 196,
+      "gas:candidate-vibid:1001000136081": 70,
+      "gas:candidate-vibid:1001000220824": 131,
+      "gas:candidate-vibid:1001000112230": 74,
+      "gas:candidate-vibid:1001000225960": 659,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 17,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 240,
-      "Кудасов Александр Викторович": 75,
-      "Куруч Римма Дмитриевна": 122,
-      "Лебедев Игорь Александрович": 87,
-      "Чернышенко Игорь Константинович": 776,
-      "Против всех": 175
+      "gas:candidate-vibid:251200069938": 17,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 240,
+      "gas:candidate-vibid:1001000136081": 75,
+      "gas:candidate-vibid:1001000220824": 122,
+      "gas:candidate-vibid:1001000112230": 87,
+      "gas:candidate-vibid:1001000225960": 776,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 163,
-      "Кудасов Александр Викторович": 65,
-      "Куруч Римма Дмитриевна": 88,
-      "Лебедев Игорь Александрович": 60,
-      "Чернышенко Игорь Константинович": 653,
-      "Против всех": 134
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 163,
+      "gas:candidate-vibid:1001000136081": 65,
+      "gas:candidate-vibid:1001000220824": 88,
+      "gas:candidate-vibid:1001000112230": 60,
+      "gas:candidate-vibid:1001000225960": 653,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 20,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 247,
-      "Кудасов Александр Викторович": 71,
-      "Куруч Римма Дмитриевна": 89,
-      "Лебедев Игорь Александрович": 96,
-      "Чернышенко Игорь Константинович": 708,
-      "Против всех": 140
+      "gas:candidate-vibid:251200069938": 20,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 247,
+      "gas:candidate-vibid:1001000136081": 71,
+      "gas:candidate-vibid:1001000220824": 89,
+      "gas:candidate-vibid:1001000112230": 96,
+      "gas:candidate-vibid:1001000225960": 708,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 185,
-      "Кудасов Александр Викторович": 52,
-      "Куруч Римма Дмитриевна": 71,
-      "Лебедев Игорь Александрович": 51,
-      "Чернышенко Игорь Константинович": 474,
-      "Против всех": 84
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 185,
+      "gas:candidate-vibid:1001000136081": 52,
+      "gas:candidate-vibid:1001000220824": 71,
+      "gas:candidate-vibid:1001000112230": 51,
+      "gas:candidate-vibid:1001000225960": 474,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 17,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 33,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 23,
-      "Лебедев Игорь Александрович": 21,
-      "Чернышенко Игорь Константинович": 109,
-      "Против всех": 86
+      "gas:candidate-vibid:251200069938": 17,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 33,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 23,
+      "gas:candidate-vibid:1001000112230": 21,
+      "gas:candidate-vibid:1001000225960": 109,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 24,
-      "Головков Виталий Федорович": 16,
-      "Калайда Василий Владимирович": 162,
-      "Кудасов Александр Викторович": 95,
-      "Куруч Римма Дмитриевна": 124,
-      "Лебедев Игорь Александрович": 63,
-      "Чернышенко Игорь Константинович": 894,
-      "Против всех": 158
+      "gas:candidate-vibid:251200069938": 24,
+      "gas:candidate-vibid:1001000195104": 16,
+      "gas:candidate-vibid:1001000121871": 162,
+      "gas:candidate-vibid:1001000136081": 95,
+      "gas:candidate-vibid:1001000220824": 124,
+      "gas:candidate-vibid:1001000112230": 63,
+      "gas:candidate-vibid:1001000225960": 894,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 214,
-      "Кудасов Александр Викторович": 65,
-      "Куруч Римма Дмитриевна": 108,
-      "Лебедев Игорь Александрович": 110,
-      "Чернышенко Игорь Константинович": 751,
-      "Против всех": 186
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 214,
+      "gas:candidate-vibid:1001000136081": 65,
+      "gas:candidate-vibid:1001000220824": 108,
+      "gas:candidate-vibid:1001000112230": 110,
+      "gas:candidate-vibid:1001000225960": 751,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 19,
-      "Головков Виталий Федорович": 15,
-      "Калайда Василий Владимирович": 253,
-      "Кудасов Александр Викторович": 84,
-      "Куруч Римма Дмитриевна": 136,
-      "Лебедев Игорь Александрович": 129,
-      "Чернышенко Игорь Константинович": 929,
-      "Против всех": 230
+      "gas:candidate-vibid:251200069938": 19,
+      "gas:candidate-vibid:1001000195104": 15,
+      "gas:candidate-vibid:1001000121871": 253,
+      "gas:candidate-vibid:1001000136081": 84,
+      "gas:candidate-vibid:1001000220824": 136,
+      "gas:candidate-vibid:1001000112230": 129,
+      "gas:candidate-vibid:1001000225960": 929,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 42,
-      "Кудасов Александр Викторович": 57,
-      "Куруч Римма Дмитриевна": 33,
-      "Лебедев Игорь Александрович": 24,
-      "Чернышенко Игорь Константинович": 223,
-      "Против всех": 61
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 42,
+      "gas:candidate-vibid:1001000136081": 57,
+      "gas:candidate-vibid:1001000220824": 33,
+      "gas:candidate-vibid:1001000112230": 24,
+      "gas:candidate-vibid:1001000225960": 223,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 15,
-      "Калайда Василий Владимирович": 183,
-      "Кудасов Александр Викторович": 67,
-      "Куруч Римма Дмитриевна": 78,
-      "Лебедев Игорь Александрович": 90,
-      "Чернышенко Игорь Константинович": 587,
-      "Против всех": 119
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 15,
+      "gas:candidate-vibid:1001000121871": 183,
+      "gas:candidate-vibid:1001000136081": 67,
+      "gas:candidate-vibid:1001000220824": 78,
+      "gas:candidate-vibid:1001000112230": 90,
+      "gas:candidate-vibid:1001000225960": 587,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 199,
-      "Кудасов Александр Викторович": 41,
-      "Куруч Римма Дмитриевна": 93,
-      "Лебедев Игорь Александрович": 88,
-      "Чернышенко Игорь Константинович": 575,
-      "Против всех": 127
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 199,
+      "gas:candidate-vibid:1001000136081": 41,
+      "gas:candidate-vibid:1001000220824": 93,
+      "gas:candidate-vibid:1001000112230": 88,
+      "gas:candidate-vibid:1001000225960": 575,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 96,
-      "Кудасов Александр Викторович": 50,
-      "Куруч Римма Дмитриевна": 80,
-      "Лебедев Игорь Александрович": 54,
-      "Чернышенко Игорь Константинович": 559,
-      "Против всех": 108
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 96,
+      "gas:candidate-vibid:1001000136081": 50,
+      "gas:candidate-vibid:1001000220824": 80,
+      "gas:candidate-vibid:1001000112230": 54,
+      "gas:candidate-vibid:1001000225960": 559,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 33,
-      "Головков Виталий Федорович": 14,
-      "Калайда Василий Владимирович": 210,
-      "Кудасов Александр Викторович": 98,
-      "Куруч Римма Дмитриевна": 133,
-      "Лебедев Игорь Александрович": 90,
-      "Чернышенко Игорь Константинович": 833,
-      "Против всех": 195
+      "gas:candidate-vibid:251200069938": 33,
+      "gas:candidate-vibid:1001000195104": 14,
+      "gas:candidate-vibid:1001000121871": 210,
+      "gas:candidate-vibid:1001000136081": 98,
+      "gas:candidate-vibid:1001000220824": 133,
+      "gas:candidate-vibid:1001000112230": 90,
+      "gas:candidate-vibid:1001000225960": 833,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068365&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 162,
-      "Кудасов Александр Викторович": 39,
-      "Куруч Римма Дмитриевна": 74,
-      "Лебедев Игорь Александрович": 35,
-      "Чернышенко Игорь Константинович": 541,
-      "Против всех": 80
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 162,
+      "gas:candidate-vibid:1001000136081": 39,
+      "gas:candidate-vibid:1001000220824": 74,
+      "gas:candidate-vibid:1001000112230": 35,
+      "gas:candidate-vibid:1001000225960": 541,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 198,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 128,
-      "Лебедев Игорь Александрович": 43,
-      "Чернышенко Игорь Константинович": 717,
-      "Против всех": 138
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 198,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 128,
+      "gas:candidate-vibid:1001000112230": 43,
+      "gas:candidate-vibid:1001000225960": 717,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 25,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 205,
-      "Кудасов Александр Викторович": 44,
-      "Куруч Римма Дмитриевна": 106,
-      "Лебедев Игорь Александрович": 36,
-      "Чернышенко Игорь Константинович": 827,
-      "Против всех": 130
+      "gas:candidate-vibid:251200069938": 25,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 205,
+      "gas:candidate-vibid:1001000136081": 44,
+      "gas:candidate-vibid:1001000220824": 106,
+      "gas:candidate-vibid:1001000112230": 36,
+      "gas:candidate-vibid:1001000225960": 827,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 155,
-      "Кудасов Александр Викторович": 43,
-      "Куруч Римма Дмитриевна": 73,
-      "Лебедев Игорь Александрович": 45,
-      "Чернышенко Игорь Константинович": 655,
-      "Против всех": 143
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 155,
+      "gas:candidate-vibid:1001000136081": 43,
+      "gas:candidate-vibid:1001000220824": 73,
+      "gas:candidate-vibid:1001000112230": 45,
+      "gas:candidate-vibid:1001000225960": 655,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 104,
-      "Кудасов Александр Викторович": 32,
-      "Куруч Римма Дмитриевна": 53,
-      "Лебедев Игорь Александрович": 37,
-      "Чернышенко Игорь Константинович": 377,
-      "Против всех": 73
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 104,
+      "gas:candidate-vibid:1001000136081": 32,
+      "gas:candidate-vibid:1001000220824": 53,
+      "gas:candidate-vibid:1001000112230": 37,
+      "gas:candidate-vibid:1001000225960": 377,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 68,
-      "Кудасов Александр Викторович": 20,
-      "Куруч Римма Дмитриевна": 36,
-      "Лебедев Игорь Александрович": 16,
-      "Чернышенко Игорь Константинович": 367,
-      "Против всех": 54
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 68,
+      "gas:candidate-vibid:1001000136081": 20,
+      "gas:candidate-vibid:1001000220824": 36,
+      "gas:candidate-vibid:1001000112230": 16,
+      "gas:candidate-vibid:1001000225960": 367,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 177,
-      "Кудасов Александр Викторович": 54,
-      "Куруч Римма Дмитриевна": 103,
-      "Лебедев Игорь Александрович": 56,
-      "Чернышенко Игорь Константинович": 762,
-      "Против всех": 182
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 177,
+      "gas:candidate-vibid:1001000136081": 54,
+      "gas:candidate-vibid:1001000220824": 103,
+      "gas:candidate-vibid:1001000112230": 56,
+      "gas:candidate-vibid:1001000225960": 762,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 113,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 81,
-      "Лебедев Игорь Александрович": 34,
-      "Чернышенко Игорь Константинович": 865,
-      "Против всех": 120
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 113,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 81,
+      "gas:candidate-vibid:1001000112230": 34,
+      "gas:candidate-vibid:1001000225960": 865,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 17,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 61,
-      "Кудасов Александр Викторович": 32,
-      "Куруч Римма Дмитриевна": 73,
-      "Лебедев Игорь Александрович": 40,
-      "Чернышенко Игорь Константинович": 556,
-      "Против всех": 96
+      "gas:candidate-vibid:251200069938": 17,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 61,
+      "gas:candidate-vibid:1001000136081": 32,
+      "gas:candidate-vibid:1001000220824": 73,
+      "gas:candidate-vibid:1001000112230": 40,
+      "gas:candidate-vibid:1001000225960": 556,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 120,
-      "Кудасов Александр Викторович": 54,
-      "Куруч Римма Дмитриевна": 117,
-      "Лебедев Игорь Александрович": 52,
-      "Чернышенко Игорь Константинович": 665,
-      "Против всех": 122
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 120,
+      "gas:candidate-vibid:1001000136081": 54,
+      "gas:candidate-vibid:1001000220824": 117,
+      "gas:candidate-vibid:1001000112230": 52,
+      "gas:candidate-vibid:1001000225960": 665,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 1,
-      "Кудасов Александр Викторович": 1,
-      "Куруч Римма Дмитриевна": 1,
-      "Лебедев Игорь Александрович": 1,
-      "Чернышенко Игорь Константинович": 19,
-      "Против всех": 1
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 1,
+      "gas:candidate-vibid:1001000136081": 1,
+      "gas:candidate-vibid:1001000220824": 1,
+      "gas:candidate-vibid:1001000112230": 1,
+      "gas:candidate-vibid:1001000225960": 19,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 17,
-      "Кудасов Александр Викторович": 13,
-      "Куруч Римма Дмитриевна": 12,
-      "Лебедев Игорь Александрович": 3,
-      "Чернышенко Игорь Константинович": 182,
-      "Против всех": 21
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 17,
+      "gas:candidate-vibid:1001000136081": 13,
+      "gas:candidate-vibid:1001000220824": 12,
+      "gas:candidate-vibid:1001000112230": 3,
+      "gas:candidate-vibid:1001000225960": 182,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 111,
-      "Кудасов Александр Викторович": 39,
-      "Куруч Римма Дмитриевна": 75,
-      "Лебедев Игорь Александрович": 27,
-      "Чернышенко Игорь Константинович": 572,
-      "Против всех": 96
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 111,
+      "gas:candidate-vibid:1001000136081": 39,
+      "gas:candidate-vibid:1001000220824": 75,
+      "gas:candidate-vibid:1001000112230": 27,
+      "gas:candidate-vibid:1001000225960": 572,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 99,
-      "Кудасов Александр Викторович": 30,
-      "Куруч Римма Дмитриевна": 99,
-      "Лебедев Игорь Александрович": 22,
-      "Чернышенко Игорь Константинович": 750,
-      "Против всех": 103
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 99,
+      "gas:candidate-vibid:1001000136081": 30,
+      "gas:candidate-vibid:1001000220824": 99,
+      "gas:candidate-vibid:1001000112230": 22,
+      "gas:candidate-vibid:1001000225960": 750,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 95,
-      "Кудасов Александр Викторович": 49,
-      "Куруч Римма Дмитриевна": 58,
-      "Лебедев Игорь Александрович": 28,
-      "Чернышенко Игорь Константинович": 735,
-      "Против всех": 118
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 95,
+      "gas:candidate-vibid:1001000136081": 49,
+      "gas:candidate-vibid:1001000220824": 58,
+      "gas:candidate-vibid:1001000112230": 28,
+      "gas:candidate-vibid:1001000225960": 735,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 2,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 6,
-      "Кудасов Александр Викторович": 4,
-      "Куруч Римма Дмитриевна": 17,
-      "Лебедев Игорь Александрович": 4,
-      "Чернышенко Игорь Константинович": 248,
-      "Против всех": 8
+      "gas:candidate-vibid:251200069938": 2,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 6,
+      "gas:candidate-vibid:1001000136081": 4,
+      "gas:candidate-vibid:1001000220824": 17,
+      "gas:candidate-vibid:1001000112230": 4,
+      "gas:candidate-vibid:1001000225960": 248,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 4,
-      "Кудасов Александр Викторович": 13,
-      "Куруч Римма Дмитриевна": 17,
-      "Лебедев Игорь Александрович": 6,
-      "Чернышенко Игорь Константинович": 150,
-      "Против всех": 30
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 4,
+      "gas:candidate-vibid:1001000136081": 13,
+      "gas:candidate-vibid:1001000220824": 17,
+      "gas:candidate-vibid:1001000112230": 6,
+      "gas:candidate-vibid:1001000225960": 150,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 4,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 47,
-      "Кудасов Александр Викторович": 20,
-      "Куруч Римма Дмитриевна": 42,
-      "Лебедев Игорь Александрович": 12,
-      "Чернышенко Игорь Константинович": 421,
-      "Против всех": 79
+      "gas:candidate-vibid:251200069938": 4,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 47,
+      "gas:candidate-vibid:1001000136081": 20,
+      "gas:candidate-vibid:1001000220824": 42,
+      "gas:candidate-vibid:1001000112230": 12,
+      "gas:candidate-vibid:1001000225960": 421,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 17,
-      "Кудасов Александр Викторович": 15,
-      "Куруч Римма Дмитриевна": 21,
-      "Лебедев Игорь Александрович": 21,
-      "Чернышенко Игорь Константинович": 233,
-      "Против всех": 58
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 17,
+      "gas:candidate-vibid:1001000136081": 15,
+      "gas:candidate-vibid:1001000220824": 21,
+      "gas:candidate-vibid:1001000112230": 21,
+      "gas:candidate-vibid:1001000225960": 233,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 15,
-      "Кудасов Александр Викторович": 15,
-      "Куруч Римма Дмитриевна": 10,
-      "Лебедев Игорь Александрович": 12,
-      "Чернышенко Игорь Константинович": 193,
-      "Против всех": 33
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 15,
+      "gas:candidate-vibid:1001000136081": 15,
+      "gas:candidate-vibid:1001000220824": 10,
+      "gas:candidate-vibid:1001000112230": 12,
+      "gas:candidate-vibid:1001000225960": 193,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 0,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 19,
-      "Кудасов Александр Викторович": 5,
-      "Куруч Римма Дмитриевна": 7,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 43,
-      "Против всех": 4
+      "gas:candidate-vibid:251200069938": 0,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 19,
+      "gas:candidate-vibid:1001000136081": 5,
+      "gas:candidate-vibid:1001000220824": 7,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 43,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 13,
-      "Калайда Василий Владимирович": 384,
-      "Кудасов Александр Викторович": 53,
-      "Куруч Римма Дмитриевна": 131,
-      "Лебедев Игорь Александрович": 28,
-      "Чернышенко Игорь Константинович": 535,
-      "Против всех": 124
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 13,
+      "gas:candidate-vibid:1001000121871": 384,
+      "gas:candidate-vibid:1001000136081": 53,
+      "gas:candidate-vibid:1001000220824": 131,
+      "gas:candidate-vibid:1001000112230": 28,
+      "gas:candidate-vibid:1001000225960": 535,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 18,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 308,
-      "Кудасов Александр Викторович": 53,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 27,
-      "Чернышенко Игорь Константинович": 370,
-      "Против всех": 75
+      "gas:candidate-vibid:251200069938": 18,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 308,
+      "gas:candidate-vibid:1001000136081": 53,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 27,
+      "gas:candidate-vibid:1001000225960": 370,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 3,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 129,
-      "Кудасов Александр Викторович": 29,
-      "Куруч Римма Дмитриевна": 109,
-      "Лебедев Игорь Александрович": 14,
-      "Чернышенко Игорь Константинович": 389,
-      "Против всех": 79
+      "gas:candidate-vibid:251200069938": 3,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 129,
+      "gas:candidate-vibid:1001000136081": 29,
+      "gas:candidate-vibid:1001000220824": 109,
+      "gas:candidate-vibid:1001000112230": 14,
+      "gas:candidate-vibid:1001000225960": 389,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 0,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 0,
-      "Кудасов Александр Викторович": 3,
-      "Куруч Римма Дмитриевна": 3,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 20,
-      "Против всех": 7
+      "gas:candidate-vibid:251200069938": 0,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 0,
+      "gas:candidate-vibid:1001000136081": 3,
+      "gas:candidate-vibid:1001000220824": 3,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 20,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 2,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 10,
-      "Кудасов Александр Викторович": 3,
-      "Куруч Римма Дмитриевна": 11,
-      "Лебедев Игорь Александрович": 8,
-      "Чернышенко Игорь Константинович": 229,
-      "Против всех": 21
+      "gas:candidate-vibid:251200069938": 2,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 10,
+      "gas:candidate-vibid:1001000136081": 3,
+      "gas:candidate-vibid:1001000220824": 11,
+      "gas:candidate-vibid:1001000112230": 8,
+      "gas:candidate-vibid:1001000225960": 229,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 20,
-      "Кудасов Александр Викторович": 19,
-      "Куруч Римма Дмитриевна": 44,
-      "Лебедев Игорь Александрович": 24,
-      "Чернышенко Игорь Константинович": 229,
-      "Против всех": 42
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 20,
+      "gas:candidate-vibid:1001000136081": 19,
+      "gas:candidate-vibid:1001000220824": 44,
+      "gas:candidate-vibid:1001000112230": 24,
+      "gas:candidate-vibid:1001000225960": 229,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 6,
-      "Кудасов Александр Викторович": 3,
-      "Куруч Римма Дмитриевна": 4,
-      "Лебедев Игорь Александрович": 3,
-      "Чернышенко Игорь Константинович": 87,
-      "Против всех": 13
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 6,
+      "gas:candidate-vibid:1001000136081": 3,
+      "gas:candidate-vibid:1001000220824": 4,
+      "gas:candidate-vibid:1001000112230": 3,
+      "gas:candidate-vibid:1001000225960": 87,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 8,
-      "Кудасов Александр Викторович": 48,
-      "Куруч Римма Дмитриевна": 25,
-      "Лебедев Игорь Александрович": 15,
-      "Чернышенко Игорь Константинович": 224,
-      "Против всех": 47
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 8,
+      "gas:candidate-vibid:1001000136081": 48,
+      "gas:candidate-vibid:1001000220824": 25,
+      "gas:candidate-vibid:1001000112230": 15,
+      "gas:candidate-vibid:1001000225960": 224,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 34,
-      "Головков Виталий Федорович": 55,
-      "Калайда Василий Владимирович": 20,
-      "Кудасов Александр Викторович": 72,
-      "Куруч Римма Дмитриевна": 23,
-      "Лебедев Игорь Александрович": 39,
-      "Чернышенко Игорь Константинович": 207,
-      "Против всех": 161
+      "gas:candidate-vibid:251200069938": 34,
+      "gas:candidate-vibid:1001000195104": 55,
+      "gas:candidate-vibid:1001000121871": 20,
+      "gas:candidate-vibid:1001000136081": 72,
+      "gas:candidate-vibid:1001000220824": 23,
+      "gas:candidate-vibid:1001000112230": 39,
+      "gas:candidate-vibid:1001000225960": 207,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 21,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 13,
-      "Кудасов Александр Викторович": 83,
-      "Куруч Римма Дмитриевна": 34,
-      "Лебедев Игорь Александрович": 21,
-      "Чернышенко Игорь Константинович": 317,
-      "Против всех": 137
+      "gas:candidate-vibid:251200069938": 21,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 13,
+      "gas:candidate-vibid:1001000136081": 83,
+      "gas:candidate-vibid:1001000220824": 34,
+      "gas:candidate-vibid:1001000112230": 21,
+      "gas:candidate-vibid:1001000225960": 317,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 19,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 5,
-      "Кудасов Александр Викторович": 34,
-      "Куруч Римма Дмитриевна": 33,
-      "Лебедев Игорь Александрович": 19,
-      "Чернышенко Игорь Константинович": 251,
-      "Против всех": 62
+      "gas:candidate-vibid:251200069938": 19,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 5,
+      "gas:candidate-vibid:1001000136081": 34,
+      "gas:candidate-vibid:1001000220824": 33,
+      "gas:candidate-vibid:1001000112230": 19,
+      "gas:candidate-vibid:1001000225960": 251,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 10,
-      "Калайда Василий Владимирович": 87,
-      "Кудасов Александр Викторович": 50,
-      "Куруч Римма Дмитриевна": 68,
-      "Лебедев Игорь Александрович": 40,
-      "Чернышенко Игорь Константинович": 574,
-      "Против всех": 121
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 10,
+      "gas:candidate-vibid:1001000121871": 87,
+      "gas:candidate-vibid:1001000136081": 50,
+      "gas:candidate-vibid:1001000220824": 68,
+      "gas:candidate-vibid:1001000112230": 40,
+      "gas:candidate-vibid:1001000225960": 574,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 83,
-      "Кудасов Александр Викторович": 47,
-      "Куруч Римма Дмитриевна": 59,
-      "Лебедев Игорь Александрович": 26,
-      "Чернышенко Игорь Константинович": 656,
-      "Против всех": 81
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 83,
+      "gas:candidate-vibid:1001000136081": 47,
+      "gas:candidate-vibid:1001000220824": 59,
+      "gas:candidate-vibid:1001000112230": 26,
+      "gas:candidate-vibid:1001000225960": 656,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 11,
-      "Кудасов Александр Викторович": 22,
-      "Куруч Римма Дмитриевна": 15,
-      "Лебедев Игорь Александрович": 7,
-      "Чернышенко Игорь Константинович": 98,
-      "Против всех": 44
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 11,
+      "gas:candidate-vibid:1001000136081": 22,
+      "gas:candidate-vibid:1001000220824": 15,
+      "gas:candidate-vibid:1001000112230": 7,
+      "gas:candidate-vibid:1001000225960": 98,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 3,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 8,
-      "Кудасов Александр Викторович": 14,
-      "Куруч Римма Дмитриевна": 17,
-      "Лебедев Игорь Александрович": 6,
-      "Чернышенко Игорь Константинович": 97,
-      "Против всех": 23
+      "gas:candidate-vibid:251200069938": 3,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 8,
+      "gas:candidate-vibid:1001000136081": 14,
+      "gas:candidate-vibid:1001000220824": 17,
+      "gas:candidate-vibid:1001000112230": 6,
+      "gas:candidate-vibid:1001000225960": 97,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 28,
-      "Калайда Василий Владимирович": 14,
-      "Кудасов Александр Викторович": 31,
-      "Куруч Римма Дмитриевна": 21,
-      "Лебедев Игорь Александрович": 38,
-      "Чернышенко Игорь Константинович": 343,
-      "Против всех": 105
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 28,
+      "gas:candidate-vibid:1001000121871": 14,
+      "gas:candidate-vibid:1001000136081": 31,
+      "gas:candidate-vibid:1001000220824": 21,
+      "gas:candidate-vibid:1001000112230": 38,
+      "gas:candidate-vibid:1001000225960": 343,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 17,
-      "Калайда Василий Владимирович": 9,
-      "Кудасов Александр Викторович": 47,
-      "Куруч Римма Дмитриевна": 14,
-      "Лебедев Игорь Александрович": 29,
-      "Чернышенко Игорь Константинович": 47,
-      "Против всех": 105
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 17,
+      "gas:candidate-vibid:1001000121871": 9,
+      "gas:candidate-vibid:1001000136081": 47,
+      "gas:candidate-vibid:1001000220824": 14,
+      "gas:candidate-vibid:1001000112230": 29,
+      "gas:candidate-vibid:1001000225960": 47,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 0,
-      "Головков Виталий Федорович": 0,
-      "Калайда Василий Владимирович": 0,
-      "Кудасов Александр Викторович": 8,
-      "Куруч Римма Дмитриевна": 4,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 38,
-      "Против всех": 4
+      "gas:candidate-vibid:251200069938": 0,
+      "gas:candidate-vibid:1001000195104": 0,
+      "gas:candidate-vibid:1001000121871": 0,
+      "gas:candidate-vibid:1001000136081": 8,
+      "gas:candidate-vibid:1001000220824": 4,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 38,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 13,
-      "Кудасов Александр Викторович": 7,
-      "Куруч Римма Дмитриевна": 4,
-      "Лебедев Игорь Александрович": 6,
-      "Чернышенко Игорь Константинович": 57,
-      "Против всех": 14
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 13,
+      "gas:candidate-vibid:1001000136081": 7,
+      "gas:candidate-vibid:1001000220824": 4,
+      "gas:candidate-vibid:1001000112230": 6,
+      "gas:candidate-vibid:1001000225960": 57,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 1,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 13,
-      "Кудасов Александр Викторович": 0,
-      "Куруч Римма Дмитриевна": 6,
-      "Лебедев Игорь Александрович": 6,
-      "Чернышенко Игорь Константинович": 101,
-      "Против всех": 16
+      "gas:candidate-vibid:251200069938": 1,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 13,
+      "gas:candidate-vibid:1001000136081": 0,
+      "gas:candidate-vibid:1001000220824": 6,
+      "gas:candidate-vibid:1001000112230": 6,
+      "gas:candidate-vibid:1001000225960": 101,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 14,
-      "Кудасов Александр Викторович": 6,
-      "Куруч Римма Дмитриевна": 12,
-      "Лебедев Игорь Александрович": 15,
-      "Чернышенко Игорь Константинович": 257,
-      "Против всех": 39
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 14,
+      "gas:candidate-vibid:1001000136081": 6,
+      "gas:candidate-vibid:1001000220824": 12,
+      "gas:candidate-vibid:1001000112230": 15,
+      "gas:candidate-vibid:1001000225960": 257,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068366&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 62,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 157,
-      "Кудасов Александр Викторович": 63,
-      "Куруч Римма Дмитриевна": 127,
-      "Лебедев Игорь Александрович": 70,
-      "Чернышенко Игорь Константинович": 654,
-      "Против всех": 169
+      "gas:candidate-vibid:251200069938": 62,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 157,
+      "gas:candidate-vibid:1001000136081": 63,
+      "gas:candidate-vibid:1001000220824": 127,
+      "gas:candidate-vibid:1001000112230": 70,
+      "gas:candidate-vibid:1001000225960": 654,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 52,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 73,
-      "Кудасов Александр Викторович": 55,
-      "Куруч Римма Дмитриевна": 92,
-      "Лебедев Игорь Александрович": 51,
-      "Чернышенко Игорь Константинович": 754,
-      "Против всех": 150
+      "gas:candidate-vibid:251200069938": 52,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 73,
+      "gas:candidate-vibid:1001000136081": 55,
+      "gas:candidate-vibid:1001000220824": 92,
+      "gas:candidate-vibid:1001000112230": 51,
+      "gas:candidate-vibid:1001000225960": 754,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 42,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 106,
-      "Кудасов Александр Викторович": 59,
-      "Куруч Римма Дмитриевна": 123,
-      "Лебедев Игорь Александрович": 73,
-      "Чернышенко Игорь Константинович": 763,
-      "Против всех": 156
+      "gas:candidate-vibid:251200069938": 42,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 106,
+      "gas:candidate-vibid:1001000136081": 59,
+      "gas:candidate-vibid:1001000220824": 123,
+      "gas:candidate-vibid:1001000112230": 73,
+      "gas:candidate-vibid:1001000225960": 763,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 41,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 67,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 106,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 657,
-      "Против всех": 147
+      "gas:candidate-vibid:251200069938": 41,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 67,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 106,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 657,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 44,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 100,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 124,
-      "Лебедев Игорь Александрович": 59,
-      "Чернышенко Игорь Константинович": 824,
-      "Против всех": 121
+      "gas:candidate-vibid:251200069938": 44,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 100,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 124,
+      "gas:candidate-vibid:1001000112230": 59,
+      "gas:candidate-vibid:1001000225960": 824,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 63,
-      "Кудасов Александр Викторович": 23,
-      "Куруч Римма Дмитриевна": 65,
-      "Лебедев Игорь Александрович": 25,
-      "Чернышенко Игорь Константинович": 340,
-      "Против всех": 36
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 63,
+      "gas:candidate-vibid:1001000136081": 23,
+      "gas:candidate-vibid:1001000220824": 65,
+      "gas:candidate-vibid:1001000112230": 25,
+      "gas:candidate-vibid:1001000225960": 340,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 38,
-      "Кудасов Александр Викторович": 15,
-      "Куруч Римма Дмитриевна": 59,
-      "Лебедев Игорь Александрович": 20,
-      "Чернышенко Игорь Константинович": 312,
-      "Против всех": 60
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 38,
+      "gas:candidate-vibid:1001000136081": 15,
+      "gas:candidate-vibid:1001000220824": 59,
+      "gas:candidate-vibid:1001000112230": 20,
+      "gas:candidate-vibid:1001000225960": 312,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 23,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 114,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 65,
-      "Лебедев Игорь Александрович": 37,
-      "Чернышенко Игорь Константинович": 441,
-      "Против всех": 89
+      "gas:candidate-vibid:251200069938": 23,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 114,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 65,
+      "gas:candidate-vibid:1001000112230": 37,
+      "gas:candidate-vibid:1001000225960": 441,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 16,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 50,
-      "Кудасов Александр Викторович": 19,
-      "Куруч Римма Дмитриевна": 72,
-      "Лебедев Игорь Александрович": 26,
-      "Чернышенко Игорь Константинович": 438,
-      "Против всех": 68
+      "gas:candidate-vibid:251200069938": 16,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 50,
+      "gas:candidate-vibid:1001000136081": 19,
+      "gas:candidate-vibid:1001000220824": 72,
+      "gas:candidate-vibid:1001000112230": 26,
+      "gas:candidate-vibid:1001000225960": 438,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 30,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 90,
-      "Кудасов Александр Викторович": 35,
-      "Куруч Римма Дмитриевна": 88,
-      "Лебедев Игорь Александрович": 28,
-      "Чернышенко Игорь Константинович": 653,
-      "Против всех": 84
+      "gas:candidate-vibid:251200069938": 30,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 90,
+      "gas:candidate-vibid:1001000136081": 35,
+      "gas:candidate-vibid:1001000220824": 88,
+      "gas:candidate-vibid:1001000112230": 28,
+      "gas:candidate-vibid:1001000225960": 653,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 32,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 88,
-      "Кудасов Александр Викторович": 54,
-      "Куруч Римма Дмитриевна": 81,
-      "Лебедев Игорь Александрович": 50,
-      "Чернышенко Игорь Константинович": 784,
-      "Против всех": 106
+      "gas:candidate-vibid:251200069938": 32,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 88,
+      "gas:candidate-vibid:1001000136081": 54,
+      "gas:candidate-vibid:1001000220824": 81,
+      "gas:candidate-vibid:1001000112230": 50,
+      "gas:candidate-vibid:1001000225960": 784,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 31,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 148,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 112,
-      "Лебедев Игорь Александрович": 48,
-      "Чернышенко Игорь Константинович": 757,
-      "Против всех": 131
+      "gas:candidate-vibid:251200069938": 31,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 148,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 112,
+      "gas:candidate-vibid:1001000112230": 48,
+      "gas:candidate-vibid:1001000225960": 757,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 33,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 180,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 141,
-      "Лебедев Игорь Александрович": 61,
-      "Чернышенко Игорь Константинович": 715,
-      "Против всех": 128
+      "gas:candidate-vibid:251200069938": 33,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 180,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 141,
+      "gas:candidate-vibid:1001000112230": 61,
+      "gas:candidate-vibid:1001000225960": 715,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 32,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 106,
-      "Кудасов Александр Викторович": 43,
-      "Куруч Римма Дмитриевна": 109,
-      "Лебедев Игорь Александрович": 51,
-      "Чернышенко Игорь Константинович": 657,
-      "Против всех": 98
+      "gas:candidate-vibid:251200069938": 32,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 106,
+      "gas:candidate-vibid:1001000136081": 43,
+      "gas:candidate-vibid:1001000220824": 109,
+      "gas:candidate-vibid:1001000112230": 51,
+      "gas:candidate-vibid:1001000225960": 657,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 27,
-      "Кудасов Александр Викторович": 10,
-      "Куруч Римма Дмитриевна": 14,
-      "Лебедев Игорь Александрович": 10,
-      "Чернышенко Игорь Константинович": 107,
-      "Против всех": 39
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 27,
+      "gas:candidate-vibid:1001000136081": 10,
+      "gas:candidate-vibid:1001000220824": 14,
+      "gas:candidate-vibid:1001000112230": 10,
+      "gas:candidate-vibid:1001000225960": 107,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 50,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 114,
-      "Кудасов Александр Викторович": 42,
-      "Куруч Римма Дмитриевна": 135,
-      "Лебедев Игорь Александрович": 66,
-      "Чернышенко Игорь Константинович": 714,
-      "Против всех": 110
+      "gas:candidate-vibid:251200069938": 50,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 114,
+      "gas:candidate-vibid:1001000136081": 42,
+      "gas:candidate-vibid:1001000220824": 135,
+      "gas:candidate-vibid:1001000112230": 66,
+      "gas:candidate-vibid:1001000225960": 714,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 28,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 101,
-      "Кудасов Александр Викторович": 44,
-      "Куруч Римма Дмитриевна": 84,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 636,
-      "Против всех": 126
+      "gas:candidate-vibid:251200069938": 28,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 101,
+      "gas:candidate-vibid:1001000136081": 44,
+      "gas:candidate-vibid:1001000220824": 84,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 636,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 19,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 70,
-      "Кудасов Александр Викторович": 26,
-      "Куруч Римма Дмитриевна": 60,
-      "Лебедев Игорь Александрович": 16,
-      "Чернышенко Игорь Константинович": 246,
-      "Против всех": 62
+      "gas:candidate-vibid:251200069938": 19,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 70,
+      "gas:candidate-vibid:1001000136081": 26,
+      "gas:candidate-vibid:1001000220824": 60,
+      "gas:candidate-vibid:1001000112230": 16,
+      "gas:candidate-vibid:1001000225960": 246,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 28,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 79,
-      "Кудасов Александр Викторович": 26,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 54,
-      "Чернышенко Игорь Константинович": 449,
-      "Против всех": 80
+      "gas:candidate-vibid:251200069938": 28,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 79,
+      "gas:candidate-vibid:1001000136081": 26,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 54,
+      "gas:candidate-vibid:1001000225960": 449,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 41,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 144,
-      "Кудасов Александр Викторович": 62,
-      "Куруч Римма Дмитриевна": 157,
-      "Лебедев Игорь Александрович": 64,
-      "Чернышенко Игорь Константинович": 685,
-      "Против всех": 169
+      "gas:candidate-vibid:251200069938": 41,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 144,
+      "gas:candidate-vibid:1001000136081": 62,
+      "gas:candidate-vibid:1001000220824": 157,
+      "gas:candidate-vibid:1001000112230": 64,
+      "gas:candidate-vibid:1001000225960": 685,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 47,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 65,
-      "Кудасов Александр Викторович": 46,
-      "Куруч Римма Дмитриевна": 88,
-      "Лебедев Игорь Александрович": 35,
-      "Чернышенко Игорь Константинович": 472,
-      "Против всех": 130
+      "gas:candidate-vibid:251200069938": 47,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 65,
+      "gas:candidate-vibid:1001000136081": 46,
+      "gas:candidate-vibid:1001000220824": 88,
+      "gas:candidate-vibid:1001000112230": 35,
+      "gas:candidate-vibid:1001000225960": 472,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 23,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 69,
-      "Кудасов Александр Викторович": 30,
-      "Куруч Римма Дмитриевна": 37,
-      "Лебедев Игорь Александрович": 31,
-      "Чернышенко Игорь Константинович": 385,
-      "Против всех": 73
+      "gas:candidate-vibid:251200069938": 23,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 69,
+      "gas:candidate-vibid:1001000136081": 30,
+      "gas:candidate-vibid:1001000220824": 37,
+      "gas:candidate-vibid:1001000112230": 31,
+      "gas:candidate-vibid:1001000225960": 385,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 55,
-      "Кудасов Александр Викторович": 25,
-      "Куруч Римма Дмитриевна": 45,
-      "Лебедев Игорь Александрович": 19,
-      "Чернышенко Игорь Константинович": 175,
-      "Против всех": 34
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 55,
+      "gas:candidate-vibid:1001000136081": 25,
+      "gas:candidate-vibid:1001000220824": 45,
+      "gas:candidate-vibid:1001000112230": 19,
+      "gas:candidate-vibid:1001000225960": 175,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 0,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 1,
-      "Кудасов Александр Викторович": 0,
-      "Куруч Римма Дмитриевна": 4,
-      "Лебедев Игорь Александрович": 0,
-      "Чернышенко Игорь Константинович": 14,
-      "Против всех": 8
+      "gas:candidate-vibid:251200069938": 0,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 1,
+      "gas:candidate-vibid:1001000136081": 0,
+      "gas:candidate-vibid:1001000220824": 4,
+      "gas:candidate-vibid:1001000112230": 0,
+      "gas:candidate-vibid:1001000225960": 14,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 2,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 16,
-      "Кудасов Александр Викторович": 7,
-      "Куруч Римма Дмитриевна": 3,
-      "Лебедев Игорь Александрович": 2,
-      "Чернышенко Игорь Константинович": 84,
-      "Против всех": 9
+      "gas:candidate-vibid:251200069938": 2,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 16,
+      "gas:candidate-vibid:1001000136081": 7,
+      "gas:candidate-vibid:1001000220824": 3,
+      "gas:candidate-vibid:1001000112230": 2,
+      "gas:candidate-vibid:1001000225960": 84,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 66,
-      "Головков Виталий Федорович": 31,
-      "Калайда Василий Владимирович": 80,
-      "Кудасов Александр Викторович": 98,
-      "Куруч Римма Дмитриевна": 107,
-      "Лебедев Игорь Александрович": 68,
-      "Чернышенко Игорь Константинович": 545,
-      "Против всех": 217
+      "gas:candidate-vibid:251200069938": 66,
+      "gas:candidate-vibid:1001000195104": 31,
+      "gas:candidate-vibid:1001000121871": 80,
+      "gas:candidate-vibid:1001000136081": 98,
+      "gas:candidate-vibid:1001000220824": 107,
+      "gas:candidate-vibid:1001000112230": 68,
+      "gas:candidate-vibid:1001000225960": 545,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068367&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 27,
-      "Головков Виталий Федорович": 22,
-      "Калайда Василий Владимирович": 32,
-      "Кудасов Александр Викторович": 63,
-      "Куруч Римма Дмитриевна": 49,
-      "Лебедев Игорь Александрович": 45,
-      "Чернышенко Игорь Константинович": 322,
-      "Против всех": 167
+      "gas:candidate-vibid:251200069938": 27,
+      "gas:candidate-vibid:1001000195104": 22,
+      "gas:candidate-vibid:1001000121871": 32,
+      "gas:candidate-vibid:1001000136081": 63,
+      "gas:candidate-vibid:1001000220824": 49,
+      "gas:candidate-vibid:1001000112230": 45,
+      "gas:candidate-vibid:1001000225960": 322,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068368&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 44,
-      "Головков Виталий Федорович": 31,
-      "Калайда Василий Владимирович": 62,
-      "Кудасов Александр Викторович": 135,
-      "Куруч Римма Дмитриевна": 122,
-      "Лебедев Игорь Александрович": 77,
-      "Чернышенко Игорь Константинович": 429,
-      "Против всех": 224
+      "gas:candidate-vibid:251200069938": 44,
+      "gas:candidate-vibid:1001000195104": 31,
+      "gas:candidate-vibid:1001000121871": 62,
+      "gas:candidate-vibid:1001000136081": 135,
+      "gas:candidate-vibid:1001000220824": 122,
+      "gas:candidate-vibid:1001000112230": 77,
+      "gas:candidate-vibid:1001000225960": 429,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068368&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 40,
-      "Головков Виталий Федорович": 40,
-      "Калайда Василий Владимирович": 168,
-      "Кудасов Александр Викторович": 109,
-      "Куруч Римма Дмитриевна": 84,
-      "Лебедев Игорь Александрович": 120,
-      "Чернышенко Игорь Константинович": 375,
-      "Против всех": 189
+      "gas:candidate-vibid:251200069938": 40,
+      "gas:candidate-vibid:1001000195104": 40,
+      "gas:candidate-vibid:1001000121871": 168,
+      "gas:candidate-vibid:1001000136081": 109,
+      "gas:candidate-vibid:1001000220824": 84,
+      "gas:candidate-vibid:1001000112230": 120,
+      "gas:candidate-vibid:1001000225960": 375,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 12,
-      "Калайда Василий Владимирович": 167,
-      "Кудасов Александр Викторович": 78,
-      "Куруч Римма Дмитриевна": 54,
-      "Лебедев Игорь Александрович": 51,
-      "Чернышенко Игорь Константинович": 261,
-      "Против всех": 134
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 12,
+      "gas:candidate-vibid:1001000121871": 167,
+      "gas:candidate-vibid:1001000136081": 78,
+      "gas:candidate-vibid:1001000220824": 54,
+      "gas:candidate-vibid:1001000112230": 51,
+      "gas:candidate-vibid:1001000225960": 261,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 39,
-      "Головков Виталий Федорович": 54,
-      "Калайда Василий Владимирович": 140,
-      "Кудасов Александр Викторович": 148,
-      "Куруч Римма Дмитриевна": 82,
-      "Лебедев Игорь Александрович": 157,
-      "Чернышенко Игорь Константинович": 400,
-      "Против всех": 243
+      "gas:candidate-vibid:251200069938": 39,
+      "gas:candidate-vibid:1001000195104": 54,
+      "gas:candidate-vibid:1001000121871": 140,
+      "gas:candidate-vibid:1001000136081": 148,
+      "gas:candidate-vibid:1001000220824": 82,
+      "gas:candidate-vibid:1001000112230": 157,
+      "gas:candidate-vibid:1001000225960": 400,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 231,
-      "Кудасов Александр Викторович": 64,
-      "Куруч Римма Дмитриевна": 112,
-      "Лебедев Игорь Александрович": 82,
-      "Чернышенко Игорь Константинович": 402,
-      "Против всех": 148
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 231,
+      "gas:candidate-vibid:1001000136081": 64,
+      "gas:candidate-vibid:1001000220824": 112,
+      "gas:candidate-vibid:1001000112230": 82,
+      "gas:candidate-vibid:1001000225960": 402,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 159,
-      "Кудасов Александр Викторович": 69,
-      "Куруч Римма Дмитриевна": 74,
-      "Лебедев Игорь Александрович": 76,
-      "Чернышенко Игорь Константинович": 279,
-      "Против всех": 131
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 159,
+      "gas:candidate-vibid:1001000136081": 69,
+      "gas:candidate-vibid:1001000220824": 74,
+      "gas:candidate-vibid:1001000112230": 76,
+      "gas:candidate-vibid:1001000225960": 279,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 8,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 198,
-      "Кудасов Александр Викторович": 39,
-      "Куруч Римма Дмитриевна": 75,
-      "Лебедев Игорь Александрович": 79,
-      "Чернышенко Игорь Константинович": 341,
-      "Против всех": 123
+      "gas:candidate-vibid:251200069938": 8,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 198,
+      "gas:candidate-vibid:1001000136081": 39,
+      "gas:candidate-vibid:1001000220824": 75,
+      "gas:candidate-vibid:1001000112230": 79,
+      "gas:candidate-vibid:1001000225960": 341,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 187,
-      "Кудасов Александр Викторович": 81,
-      "Куруч Римма Дмитриевна": 95,
-      "Лебедев Игорь Александрович": 100,
-      "Чернышенко Игорь Константинович": 398,
-      "Против всех": 134
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 187,
+      "gas:candidate-vibid:1001000136081": 81,
+      "gas:candidate-vibid:1001000220824": 95,
+      "gas:candidate-vibid:1001000112230": 100,
+      "gas:candidate-vibid:1001000225960": 398,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 19,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 191,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 93,
-      "Лебедев Игорь Александрович": 91,
-      "Чернышенко Игорь Константинович": 360,
-      "Против всех": 132
+      "gas:candidate-vibid:251200069938": 19,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 191,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 93,
+      "gas:candidate-vibid:1001000112230": 91,
+      "gas:candidate-vibid:1001000225960": 360,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 172,
-      "Кудасов Александр Викторович": 44,
-      "Куруч Римма Дмитриевна": 109,
-      "Лебедев Игорь Александрович": 72,
-      "Чернышенко Игорь Константинович": 457,
-      "Против всех": 134
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 172,
+      "gas:candidate-vibid:1001000136081": 44,
+      "gas:candidate-vibid:1001000220824": 109,
+      "gas:candidate-vibid:1001000112230": 72,
+      "gas:candidate-vibid:1001000225960": 457,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 201,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 89,
-      "Лебедев Игорь Александрович": 87,
-      "Чернышенко Игорь Константинович": 356,
-      "Против всех": 155
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 201,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 89,
+      "gas:candidate-vibid:1001000112230": 87,
+      "gas:candidate-vibid:1001000225960": 356,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 241,
-      "Кудасов Александр Викторович": 48,
-      "Куруч Римма Дмитриевна": 74,
-      "Лебедев Игорь Александрович": 71,
-      "Чернышенко Игорь Константинович": 267,
-      "Против всех": 93
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 241,
+      "gas:candidate-vibid:1001000136081": 48,
+      "gas:candidate-vibid:1001000220824": 74,
+      "gas:candidate-vibid:1001000112230": 71,
+      "gas:candidate-vibid:1001000225960": 267,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 7,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 191,
-      "Кудасов Александр Викторович": 50,
-      "Куруч Римма Дмитриевна": 82,
-      "Лебедев Игорь Александрович": 68,
-      "Чернышенко Игорь Константинович": 323,
-      "Против всех": 76
+      "gas:candidate-vibid:251200069938": 7,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 191,
+      "gas:candidate-vibid:1001000136081": 50,
+      "gas:candidate-vibid:1001000220824": 82,
+      "gas:candidate-vibid:1001000112230": 68,
+      "gas:candidate-vibid:1001000225960": 323,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 189,
-      "Кудасов Александр Викторович": 42,
-      "Куруч Римма Дмитриевна": 63,
-      "Лебедев Игорь Александрович": 57,
-      "Чернышенко Игорь Константинович": 303,
-      "Против всех": 103
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 189,
+      "gas:candidate-vibid:1001000136081": 42,
+      "gas:candidate-vibid:1001000220824": 63,
+      "gas:candidate-vibid:1001000112230": 57,
+      "gas:candidate-vibid:1001000225960": 303,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 155,
-      "Кудасов Александр Викторович": 48,
-      "Куруч Римма Дмитриевна": 76,
-      "Лебедев Игорь Александрович": 86,
-      "Чернышенко Игорь Константинович": 340,
-      "Против всех": 131
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 155,
+      "gas:candidate-vibid:1001000136081": 48,
+      "gas:candidate-vibid:1001000220824": 76,
+      "gas:candidate-vibid:1001000112230": 86,
+      "gas:candidate-vibid:1001000225960": 340,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 141,
-      "Кудасов Александр Викторович": 60,
-      "Куруч Римма Дмитриевна": 72,
-      "Лебедев Игорь Александрович": 47,
-      "Чернышенко Игорь Константинович": 390,
-      "Против всех": 113
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 141,
+      "gas:candidate-vibid:1001000136081": 60,
+      "gas:candidate-vibid:1001000220824": 72,
+      "gas:candidate-vibid:1001000112230": 47,
+      "gas:candidate-vibid:1001000225960": 390,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 7,
-      "Калайда Василий Владимирович": 176,
-      "Кудасов Александр Викторович": 44,
-      "Куруч Римма Дмитриевна": 63,
-      "Лебедев Игорь Александрович": 63,
-      "Чернышенко Игорь Константинович": 366,
-      "Против всех": 124
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 7,
+      "gas:candidate-vibid:1001000121871": 176,
+      "gas:candidate-vibid:1001000136081": 44,
+      "gas:candidate-vibid:1001000220824": 63,
+      "gas:candidate-vibid:1001000112230": 63,
+      "gas:candidate-vibid:1001000225960": 366,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 137,
-      "Кудасов Александр Викторович": 56,
-      "Куруч Римма Дмитриевна": 86,
-      "Лебедев Игорь Александрович": 51,
-      "Чернышенко Игорь Константинович": 505,
-      "Против всех": 114
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 137,
+      "gas:candidate-vibid:1001000136081": 56,
+      "gas:candidate-vibid:1001000220824": 86,
+      "gas:candidate-vibid:1001000112230": 51,
+      "gas:candidate-vibid:1001000225960": 505,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 17,
-      "Головков Виталий Федорович": 16,
-      "Калайда Василий Владимирович": 137,
-      "Кудасов Александр Викторович": 63,
-      "Куруч Римма Дмитриевна": 98,
-      "Лебедев Игорь Александрович": 73,
-      "Чернышенко Игорь Константинович": 550,
-      "Против всех": 116
+      "gas:candidate-vibid:251200069938": 17,
+      "gas:candidate-vibid:1001000195104": 16,
+      "gas:candidate-vibid:1001000121871": 137,
+      "gas:candidate-vibid:1001000136081": 63,
+      "gas:candidate-vibid:1001000220824": 98,
+      "gas:candidate-vibid:1001000112230": 73,
+      "gas:candidate-vibid:1001000225960": 550,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 6,
-      "Калайда Василий Владимирович": 199,
-      "Кудасов Александр Викторович": 36,
-      "Куруч Римма Дмитриевна": 78,
-      "Лебедев Игорь Александрович": 70,
-      "Чернышенко Игорь Константинович": 437,
-      "Против всех": 112
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 6,
+      "gas:candidate-vibid:1001000121871": 199,
+      "gas:candidate-vibid:1001000136081": 36,
+      "gas:candidate-vibid:1001000220824": 78,
+      "gas:candidate-vibid:1001000112230": 70,
+      "gas:candidate-vibid:1001000225960": 437,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 201,
-      "Кудасов Александр Викторович": 46,
-      "Куруч Римма Дмитриевна": 104,
-      "Лебедев Игорь Александрович": 55,
-      "Чернышенко Игорь Константинович": 363,
-      "Против всех": 110
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 201,
+      "gas:candidate-vibid:1001000136081": 46,
+      "gas:candidate-vibid:1001000220824": 104,
+      "gas:candidate-vibid:1001000112230": 55,
+      "gas:candidate-vibid:1001000225960": 363,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 5,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 122,
-      "Кудасов Александр Викторович": 35,
-      "Куруч Римма Дмитриевна": 42,
-      "Лебедев Игорь Александрович": 41,
-      "Чернышенко Игорь Константинович": 263,
-      "Против всех": 60
+      "gas:candidate-vibid:251200069938": 5,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 122,
+      "gas:candidate-vibid:1001000136081": 35,
+      "gas:candidate-vibid:1001000220824": 42,
+      "gas:candidate-vibid:1001000112230": 41,
+      "gas:candidate-vibid:1001000225960": 263,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 162,
-      "Кудасов Александр Викторович": 55,
-      "Куруч Римма Дмитриевна": 47,
-      "Лебедев Игорь Александрович": 54,
-      "Чернышенко Игорь Константинович": 314,
-      "Против всех": 64
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 162,
+      "gas:candidate-vibid:1001000136081": 55,
+      "gas:candidate-vibid:1001000220824": 47,
+      "gas:candidate-vibid:1001000112230": 54,
+      "gas:candidate-vibid:1001000225960": 314,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 140,
-      "Кудасов Александр Викторович": 38,
-      "Куруч Римма Дмитриевна": 56,
-      "Лебедев Игорь Александрович": 59,
-      "Чернышенко Игорь Константинович": 300,
-      "Против всех": 80
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 140,
+      "gas:candidate-vibid:1001000136081": 38,
+      "gas:candidate-vibid:1001000220824": 56,
+      "gas:candidate-vibid:1001000112230": 59,
+      "gas:candidate-vibid:1001000225960": 300,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 9,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 172,
-      "Кудасов Александр Викторович": 64,
-      "Куруч Римма Дмитриевна": 62,
-      "Лебедев Игорь Александрович": 55,
-      "Чернышенко Игорь Константинович": 426,
-      "Против всех": 108
+      "gas:candidate-vibid:251200069938": 9,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 172,
+      "gas:candidate-vibid:1001000136081": 64,
+      "gas:candidate-vibid:1001000220824": 62,
+      "gas:candidate-vibid:1001000112230": 55,
+      "gas:candidate-vibid:1001000225960": 426,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 3,
-      "Калайда Василий Владимирович": 223,
-      "Кудасов Александр Викторович": 45,
-      "Куруч Римма Дмитриевна": 87,
-      "Лебедев Игорь Александрович": 89,
-      "Чернышенко Игорь Константинович": 363,
-      "Против всех": 127
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 3,
+      "gas:candidate-vibid:1001000121871": 223,
+      "gas:candidate-vibid:1001000136081": 45,
+      "gas:candidate-vibid:1001000220824": 87,
+      "gas:candidate-vibid:1001000112230": 89,
+      "gas:candidate-vibid:1001000225960": 363,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 16,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 285,
-      "Кудасов Александр Викторович": 66,
-      "Куруч Римма Дмитриевна": 103,
-      "Лебедев Игорь Александрович": 92,
-      "Чернышенко Игорь Константинович": 500,
-      "Против всех": 182
+      "gas:candidate-vibid:251200069938": 16,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 285,
+      "gas:candidate-vibid:1001000136081": 66,
+      "gas:candidate-vibid:1001000220824": 103,
+      "gas:candidate-vibid:1001000112230": 92,
+      "gas:candidate-vibid:1001000225960": 500,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 21,
-      "Головков Виталий Федорович": 13,
-      "Калайда Василий Владимирович": 162,
-      "Кудасов Александр Викторович": 83,
-      "Куруч Римма Дмитриевна": 67,
-      "Лебедев Игорь Александрович": 68,
-      "Чернышенко Игорь Константинович": 386,
-      "Против всех": 135
+      "gas:candidate-vibid:251200069938": 21,
+      "gas:candidate-vibid:1001000195104": 13,
+      "gas:candidate-vibid:1001000121871": 162,
+      "gas:candidate-vibid:1001000136081": 83,
+      "gas:candidate-vibid:1001000220824": 67,
+      "gas:candidate-vibid:1001000112230": 68,
+      "gas:candidate-vibid:1001000225960": 386,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 2,
-      "Калайда Василий Владимирович": 177,
-      "Кудасов Александр Викторович": 35,
-      "Куруч Римма Дмитриевна": 66,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 269,
-      "Против всех": 98
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 2,
+      "gas:candidate-vibid:1001000121871": 177,
+      "gas:candidate-vibid:1001000136081": 35,
+      "gas:candidate-vibid:1001000220824": 66,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 269,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 93,
-      "Кудасов Александр Викторович": 55,
-      "Куруч Римма Дмитриевна": 58,
-      "Лебедев Игорь Александрович": 65,
-      "Чернышенко Игорь Константинович": 488,
-      "Против всех": 116
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 93,
+      "gas:candidate-vibid:1001000136081": 55,
+      "gas:candidate-vibid:1001000220824": 58,
+      "gas:candidate-vibid:1001000112230": 65,
+      "gas:candidate-vibid:1001000225960": 488,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 6,
-      "Головков Виталий Федорович": 9,
-      "Калайда Василий Владимирович": 133,
-      "Кудасов Александр Викторович": 73,
-      "Куруч Римма Дмитриевна": 58,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 396,
-      "Против всех": 120
+      "gas:candidate-vibid:251200069938": 6,
+      "gas:candidate-vibid:1001000195104": 9,
+      "gas:candidate-vibid:1001000121871": 133,
+      "gas:candidate-vibid:1001000136081": 73,
+      "gas:candidate-vibid:1001000220824": 58,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 396,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 190,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 103,
-      "Лебедев Игорь Александрович": 83,
-      "Чернышенко Игорь Константинович": 410,
-      "Против всех": 131
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 190,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 103,
+      "gas:candidate-vibid:1001000112230": 83,
+      "gas:candidate-vibid:1001000225960": 410,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 14,
-      "Головков Виталий Федорович": 5,
-      "Калайда Василий Владимирович": 168,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 100,
-      "Лебедев Игорь Александрович": 74,
-      "Чернышенко Игорь Константинович": 369,
-      "Против всех": 114
+      "gas:candidate-vibid:251200069938": 14,
+      "gas:candidate-vibid:1001000195104": 5,
+      "gas:candidate-vibid:1001000121871": 168,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 100,
+      "gas:candidate-vibid:1001000112230": 74,
+      "gas:candidate-vibid:1001000225960": 369,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 211,
-      "Кудасов Александр Викторович": 72,
-      "Куруч Римма Дмитриевна": 78,
-      "Лебедев Игорь Александрович": 81,
-      "Чернышенко Игорь Константинович": 507,
-      "Против всех": 124
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 211,
+      "gas:candidate-vibid:1001000136081": 72,
+      "gas:candidate-vibid:1001000220824": 78,
+      "gas:candidate-vibid:1001000112230": 81,
+      "gas:candidate-vibid:1001000225960": 507,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 105,
-      "Кудасов Александр Викторович": 46,
-      "Куруч Римма Дмитриевна": 41,
-      "Лебедев Игорь Александрович": 42,
-      "Чернышенко Игорь Константинович": 240,
-      "Против всех": 82
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 105,
+      "gas:candidate-vibid:1001000136081": 46,
+      "gas:candidate-vibid:1001000220824": 41,
+      "gas:candidate-vibid:1001000112230": 42,
+      "gas:candidate-vibid:1001000225960": 240,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 13,
-      "Головков Виталий Федорович": 1,
-      "Калайда Василий Владимирович": 151,
-      "Кудасов Александр Викторович": 55,
-      "Куруч Римма Дмитриевна": 65,
-      "Лебедев Игорь Александрович": 47,
-      "Чернышенко Игорь Константинович": 319,
-      "Против всех": 54
+      "gas:candidate-vibid:251200069938": 13,
+      "gas:candidate-vibid:1001000195104": 1,
+      "gas:candidate-vibid:1001000121871": 151,
+      "gas:candidate-vibid:1001000136081": 55,
+      "gas:candidate-vibid:1001000220824": 65,
+      "gas:candidate-vibid:1001000112230": 47,
+      "gas:candidate-vibid:1001000225960": 319,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 11,
-      "Головков Виталий Федорович": 4,
-      "Калайда Василий Владимирович": 177,
-      "Кудасов Александр Викторович": 58,
-      "Куруч Римма Дмитриевна": 80,
-      "Лебедев Игорь Александрович": 63,
-      "Чернышенко Игорь Константинович": 390,
-      "Против всех": 97
+      "gas:candidate-vibid:251200069938": 11,
+      "gas:candidate-vibid:1001000195104": 4,
+      "gas:candidate-vibid:1001000121871": 177,
+      "gas:candidate-vibid:1001000136081": 58,
+      "gas:candidate-vibid:1001000220824": 80,
+      "gas:candidate-vibid:1001000112230": 63,
+      "gas:candidate-vibid:1001000225960": 390,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 10,
-      "Головков Виталий Федорович": 11,
-      "Калайда Василий Владимирович": 129,
-      "Кудасов Александр Викторович": 51,
-      "Куруч Римма Дмитриевна": 58,
-      "Лебедев Игорь Александрович": 49,
-      "Чернышенко Игорь Константинович": 374,
-      "Против всех": 117
+      "gas:candidate-vibid:251200069938": 10,
+      "gas:candidate-vibid:1001000195104": 11,
+      "gas:candidate-vibid:1001000121871": 129,
+      "gas:candidate-vibid:1001000136081": 51,
+      "gas:candidate-vibid:1001000220824": 58,
+      "gas:candidate-vibid:1001000112230": 49,
+      "gas:candidate-vibid:1001000225960": 374,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_51_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Войтенко Александр Васильевич": 12,
-      "Головков Виталий Федорович": 8,
-      "Калайда Василий Владимирович": 140,
-      "Кудасов Александр Викторович": 62,
-      "Куруч Римма Дмитриевна": 69,
-      "Лебедев Игорь Александрович": 42,
-      "Чернышенко Игорь Константинович": 288,
-      "Против всех": 83
+      "gas:candidate-vibid:251200069938": 12,
+      "gas:candidate-vibid:1001000195104": 8,
+      "gas:candidate-vibid:1001000121871": 140,
+      "gas:candidate-vibid:1001000136081": 62,
+      "gas:candidate-vibid:1001000220824": 69,
+      "gas:candidate-vibid:1001000112230": 42,
+      "gas:candidate-vibid:1001000225960": 288,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=251200068369&region=0&sub_region=0&type=429",

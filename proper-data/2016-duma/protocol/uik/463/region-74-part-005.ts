@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 377,
-      "Горбачёв Дмитрий Юрьевич": 20,
-      "Гриценко Константин Владимирович": 13,
-      "Литовченко Анатолий Григорьевич": 415,
-      "Приходкина Валерия Юрьевна": 28,
-      "Самохвалов Андрей Юрьевич": 105,
-      "Шаргунов Сергей Александрович": 115,
-      "Щербаков Ярослав Евгеньевич": 27,
-      "Яровой Николай Афанасьевич": 32
+      "gas:candidate-vibid:4744045257023": 377,
+      "gas:candidate-vibid:4744045258069": 20,
+      "gas:candidate-vibid:4744045258046": 13,
+      "gas:candidate-vibid:4744045258216": 415,
+      "gas:candidate-vibid:4744045257901": 28,
+      "gas:candidate-vibid:4744045257012": 105,
+      "gas:candidate-vibid:4744045258129": 115,
+      "gas:candidate-vibid:4744045258156": 27,
+      "gas:candidate-vibid:4744045257832": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 438,
-      "Горбачёв Дмитрий Юрьевич": 17,
-      "Гриценко Константин Владимирович": 13,
-      "Литовченко Анатолий Григорьевич": 367,
-      "Приходкина Валерия Юрьевна": 32,
-      "Самохвалов Андрей Юрьевич": 69,
-      "Шаргунов Сергей Александрович": 128,
-      "Щербаков Ярослав Евгеньевич": 39,
-      "Яровой Николай Афанасьевич": 39
+      "gas:candidate-vibid:4744045257023": 438,
+      "gas:candidate-vibid:4744045258069": 17,
+      "gas:candidate-vibid:4744045258046": 13,
+      "gas:candidate-vibid:4744045258216": 367,
+      "gas:candidate-vibid:4744045257901": 32,
+      "gas:candidate-vibid:4744045257012": 69,
+      "gas:candidate-vibid:4744045258129": 128,
+      "gas:candidate-vibid:4744045258156": 39,
+      "gas:candidate-vibid:4744045257832": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 370,
-      "Горбачёв Дмитрий Юрьевич": 13,
-      "Гриценко Константин Владимирович": 12,
-      "Литовченко Анатолий Григорьевич": 360,
-      "Приходкина Валерия Юрьевна": 25,
-      "Самохвалов Андрей Юрьевич": 89,
-      "Шаргунов Сергей Александрович": 157,
-      "Щербаков Ярослав Евгеньевич": 38,
-      "Яровой Николай Афанасьевич": 44
+      "gas:candidate-vibid:4744045257023": 370,
+      "gas:candidate-vibid:4744045258069": 13,
+      "gas:candidate-vibid:4744045258046": 12,
+      "gas:candidate-vibid:4744045258216": 360,
+      "gas:candidate-vibid:4744045257901": 25,
+      "gas:candidate-vibid:4744045257012": 89,
+      "gas:candidate-vibid:4744045258129": 157,
+      "gas:candidate-vibid:4744045258156": 38,
+      "gas:candidate-vibid:4744045257832": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 207,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 178,
-      "Приходкина Валерия Юрьевна": 17,
-      "Самохвалов Андрей Юрьевич": 61,
-      "Шаргунов Сергей Александрович": 53,
-      "Щербаков Ярослав Евгеньевич": 17,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 207,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 178,
+      "gas:candidate-vibid:4744045257901": 17,
+      "gas:candidate-vibid:4744045257012": 61,
+      "gas:candidate-vibid:4744045258129": 53,
+      "gas:candidate-vibid:4744045258156": 17,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 174,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 177,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 42,
-      "Шаргунов Сергей Александрович": 44,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 174,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 177,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 42,
+      "gas:candidate-vibid:4744045258129": 44,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 209,
-      "Горбачёв Дмитрий Юрьевич": 13,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 255,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 43,
-      "Шаргунов Сергей Александрович": 39,
-      "Щербаков Ярослав Евгеньевич": 22,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 209,
+      "gas:candidate-vibid:4744045258069": 13,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 255,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 43,
+      "gas:candidate-vibid:4744045258129": 39,
+      "gas:candidate-vibid:4744045258156": 22,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 251,
-      "Горбачёв Дмитрий Юрьевич": 14,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 272,
-      "Приходкина Валерия Юрьевна": 18,
-      "Самохвалов Андрей Юрьевич": 68,
-      "Шаргунов Сергей Александрович": 67,
-      "Щербаков Ярослав Евгеньевич": 26,
-      "Яровой Николай Афанасьевич": 23
+      "gas:candidate-vibid:4744045257023": 251,
+      "gas:candidate-vibid:4744045258069": 14,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 272,
+      "gas:candidate-vibid:4744045257901": 18,
+      "gas:candidate-vibid:4744045257012": 68,
+      "gas:candidate-vibid:4744045258129": 67,
+      "gas:candidate-vibid:4744045258156": 26,
+      "gas:candidate-vibid:4744045257832": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 323,
-      "Горбачёв Дмитрий Юрьевич": 11,
-      "Гриценко Константин Владимирович": 11,
-      "Литовченко Анатолий Григорьевич": 306,
-      "Приходкина Валерия Юрьевна": 23,
-      "Самохвалов Андрей Юрьевич": 84,
-      "Шаргунов Сергей Александрович": 80,
-      "Щербаков Ярослав Евгеньевич": 22,
-      "Яровой Николай Афанасьевич": 27
+      "gas:candidate-vibid:4744045257023": 323,
+      "gas:candidate-vibid:4744045258069": 11,
+      "gas:candidate-vibid:4744045258046": 11,
+      "gas:candidate-vibid:4744045258216": 306,
+      "gas:candidate-vibid:4744045257901": 23,
+      "gas:candidate-vibid:4744045257012": 84,
+      "gas:candidate-vibid:4744045258129": 80,
+      "gas:candidate-vibid:4744045258156": 22,
+      "gas:candidate-vibid:4744045257832": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 333,
-      "Горбачёв Дмитрий Юрьевич": 13,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 280,
-      "Приходкина Валерия Юрьевна": 17,
-      "Самохвалов Андрей Юрьевич": 73,
-      "Шаргунов Сергей Александрович": 93,
-      "Щербаков Ярослав Евгеньевич": 19,
-      "Яровой Николай Афанасьевич": 30
+      "gas:candidate-vibid:4744045257023": 333,
+      "gas:candidate-vibid:4744045258069": 13,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 280,
+      "gas:candidate-vibid:4744045257901": 17,
+      "gas:candidate-vibid:4744045257012": 73,
+      "gas:candidate-vibid:4744045258129": 93,
+      "gas:candidate-vibid:4744045258156": 19,
+      "gas:candidate-vibid:4744045257832": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 343,
-      "Горбачёв Дмитрий Юрьевич": 11,
-      "Гриценко Константин Владимирович": 11,
-      "Литовченко Анатолий Григорьевич": 273,
-      "Приходкина Валерия Юрьевна": 23,
-      "Самохвалов Андрей Юрьевич": 74,
-      "Шаргунов Сергей Александрович": 90,
-      "Щербаков Ярослав Евгеньевич": 35,
-      "Яровой Николай Афанасьевич": 26
+      "gas:candidate-vibid:4744045257023": 343,
+      "gas:candidate-vibid:4744045258069": 11,
+      "gas:candidate-vibid:4744045258046": 11,
+      "gas:candidate-vibid:4744045258216": 273,
+      "gas:candidate-vibid:4744045257901": 23,
+      "gas:candidate-vibid:4744045257012": 74,
+      "gas:candidate-vibid:4744045258129": 90,
+      "gas:candidate-vibid:4744045258156": 35,
+      "gas:candidate-vibid:4744045257832": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 386,
-      "Горбачёв Дмитрий Юрьевич": 21,
-      "Гриценко Константин Владимирович": 15,
-      "Литовченко Анатолий Григорьевич": 261,
-      "Приходкина Валерия Юрьевна": 20,
-      "Самохвалов Андрей Юрьевич": 70,
-      "Шаргунов Сергей Александрович": 92,
-      "Щербаков Ярослав Евгеньевич": 21,
-      "Яровой Николай Афанасьевич": 32
+      "gas:candidate-vibid:4744045257023": 386,
+      "gas:candidate-vibid:4744045258069": 21,
+      "gas:candidate-vibid:4744045258046": 15,
+      "gas:candidate-vibid:4744045258216": 261,
+      "gas:candidate-vibid:4744045257901": 20,
+      "gas:candidate-vibid:4744045257012": 70,
+      "gas:candidate-vibid:4744045258129": 92,
+      "gas:candidate-vibid:4744045258156": 21,
+      "gas:candidate-vibid:4744045257832": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 466,
-      "Горбачёв Дмитрий Юрьевич": 13,
-      "Гриценко Константин Владимирович": 14,
-      "Литовченко Анатолий Григорьевич": 298,
-      "Приходкина Валерия Юрьевна": 23,
-      "Самохвалов Андрей Юрьевич": 78,
-      "Шаргунов Сергей Александрович": 94,
-      "Щербаков Ярослав Евгеньевич": 26,
-      "Яровой Николай Афанасьевич": 33
+      "gas:candidate-vibid:4744045257023": 466,
+      "gas:candidate-vibid:4744045258069": 13,
+      "gas:candidate-vibid:4744045258046": 14,
+      "gas:candidate-vibid:4744045258216": 298,
+      "gas:candidate-vibid:4744045257901": 23,
+      "gas:candidate-vibid:4744045257012": 78,
+      "gas:candidate-vibid:4744045258129": 94,
+      "gas:candidate-vibid:4744045258156": 26,
+      "gas:candidate-vibid:4744045257832": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 408,
-      "Горбачёв Дмитрий Юрьевич": 16,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 255,
-      "Приходкина Валерия Юрьевна": 28,
-      "Самохвалов Андрей Юрьевич": 66,
-      "Шаргунов Сергей Александрович": 72,
-      "Щербаков Ярослав Евгеньевич": 17,
-      "Яровой Николай Афанасьевич": 16
+      "gas:candidate-vibid:4744045257023": 408,
+      "gas:candidate-vibid:4744045258069": 16,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 255,
+      "gas:candidate-vibid:4744045257901": 28,
+      "gas:candidate-vibid:4744045257012": 66,
+      "gas:candidate-vibid:4744045258129": 72,
+      "gas:candidate-vibid:4744045258156": 17,
+      "gas:candidate-vibid:4744045257832": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 415,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 204,
-      "Приходкина Валерия Юрьевна": 15,
-      "Самохвалов Андрей Юрьевич": 69,
-      "Шаргунов Сергей Александрович": 58,
-      "Щербаков Ярослав Евгеньевич": 18,
-      "Яровой Николай Афанасьевич": 29
+      "gas:candidate-vibid:4744045257023": 415,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 204,
+      "gas:candidate-vibid:4744045257901": 15,
+      "gas:candidate-vibid:4744045257012": 69,
+      "gas:candidate-vibid:4744045258129": 58,
+      "gas:candidate-vibid:4744045258156": 18,
+      "gas:candidate-vibid:4744045257832": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 551,
-      "Горбачёв Дмитрий Юрьевич": 16,
-      "Гриценко Константин Владимирович": 11,
-      "Литовченко Анатолий Григорьевич": 373,
-      "Приходкина Валерия Юрьевна": 25,
-      "Самохвалов Андрей Юрьевич": 91,
-      "Шаргунов Сергей Александрович": 109,
-      "Щербаков Ярослав Евгеньевич": 24,
-      "Яровой Николай Афанасьевич": 41
+      "gas:candidate-vibid:4744045257023": 551,
+      "gas:candidate-vibid:4744045258069": 16,
+      "gas:candidate-vibid:4744045258046": 11,
+      "gas:candidate-vibid:4744045258216": 373,
+      "gas:candidate-vibid:4744045257901": 25,
+      "gas:candidate-vibid:4744045257012": 91,
+      "gas:candidate-vibid:4744045258129": 109,
+      "gas:candidate-vibid:4744045258156": 24,
+      "gas:candidate-vibid:4744045257832": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 498,
-      "Горбачёв Дмитрий Юрьевич": 23,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 401,
-      "Приходкина Валерия Юрьевна": 33,
-      "Самохвалов Андрей Юрьевич": 102,
-      "Шаргунов Сергей Александрович": 107,
-      "Щербаков Ярослав Евгеньевич": 39,
-      "Яровой Николай Афанасьевич": 29
+      "gas:candidate-vibid:4744045257023": 498,
+      "gas:candidate-vibid:4744045258069": 23,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 401,
+      "gas:candidate-vibid:4744045257901": 33,
+      "gas:candidate-vibid:4744045257012": 102,
+      "gas:candidate-vibid:4744045258129": 107,
+      "gas:candidate-vibid:4744045258156": 39,
+      "gas:candidate-vibid:4744045257832": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 371,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 244,
-      "Приходкина Валерия Юрьевна": 24,
-      "Самохвалов Андрей Юрьевич": 85,
-      "Шаргунов Сергей Александрович": 83,
-      "Щербаков Ярослав Евгеньевич": 19,
-      "Яровой Николай Афанасьевич": 18
+      "gas:candidate-vibid:4744045257023": 371,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 244,
+      "gas:candidate-vibid:4744045257901": 24,
+      "gas:candidate-vibid:4744045257012": 85,
+      "gas:candidate-vibid:4744045258129": 83,
+      "gas:candidate-vibid:4744045258156": 19,
+      "gas:candidate-vibid:4744045257832": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 235,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 143,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 58,
-      "Шаргунов Сергей Александрович": 53,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 16
+      "gas:candidate-vibid:4744045257023": 235,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 143,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 58,
+      "gas:candidate-vibid:4744045258129": 53,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 289,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 196,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 43,
-      "Шаргунов Сергей Александрович": 50,
-      "Щербаков Ярослав Евгеньевич": 13,
-      "Яровой Николай Афанасьевич": 18
+      "gas:candidate-vibid:4744045257023": 289,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 196,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 43,
+      "gas:candidate-vibid:4744045258129": 50,
+      "gas:candidate-vibid:4744045258156": 13,
+      "gas:candidate-vibid:4744045257832": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 334,
-      "Горбачёв Дмитрий Юрьевич": 14,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 201,
-      "Приходкина Валерия Юрьевна": 20,
-      "Самохвалов Андрей Юрьевич": 59,
-      "Шаргунов Сергей Александрович": 73,
-      "Щербаков Ярослав Евгеньевич": 22,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 334,
+      "gas:candidate-vibid:4744045258069": 14,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 201,
+      "gas:candidate-vibid:4744045257901": 20,
+      "gas:candidate-vibid:4744045257012": 59,
+      "gas:candidate-vibid:4744045258129": 73,
+      "gas:candidate-vibid:4744045258156": 22,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 336,
-      "Горбачёв Дмитрий Юрьевич": 24,
-      "Гриценко Константин Владимирович": 11,
-      "Литовченко Анатолий Григорьевич": 524,
-      "Приходкина Валерия Юрьевна": 24,
-      "Самохвалов Андрей Юрьевич": 127,
-      "Шаргунов Сергей Александрович": 82,
-      "Щербаков Ярослав Евгеньевич": 26,
-      "Яровой Николай Афанасьевич": 27
+      "gas:candidate-vibid:4744045257023": 336,
+      "gas:candidate-vibid:4744045258069": 24,
+      "gas:candidate-vibid:4744045258046": 11,
+      "gas:candidate-vibid:4744045258216": 524,
+      "gas:candidate-vibid:4744045257901": 24,
+      "gas:candidate-vibid:4744045257012": 127,
+      "gas:candidate-vibid:4744045258129": 82,
+      "gas:candidate-vibid:4744045258156": 26,
+      "gas:candidate-vibid:4744045257832": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 347,
-      "Горбачёв Дмитрий Юрьевич": 24,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 250,
-      "Приходкина Валерия Юрьевна": 21,
-      "Самохвалов Андрей Юрьевич": 48,
-      "Шаргунов Сергей Александрович": 66,
-      "Щербаков Ярослав Евгеньевич": 25,
-      "Яровой Николай Афанасьевич": 21
+      "gas:candidate-vibid:4744045257023": 347,
+      "gas:candidate-vibid:4744045258069": 24,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 250,
+      "gas:candidate-vibid:4744045257901": 21,
+      "gas:candidate-vibid:4744045257012": 48,
+      "gas:candidate-vibid:4744045258129": 66,
+      "gas:candidate-vibid:4744045258156": 25,
+      "gas:candidate-vibid:4744045257832": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 355,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 247,
-      "Приходкина Валерия Юрьевна": 23,
-      "Самохвалов Андрей Юрьевич": 68,
-      "Шаргунов Сергей Александрович": 85,
-      "Щербаков Ярослав Евгеньевич": 21,
-      "Яровой Николай Афанасьевич": 27
+      "gas:candidate-vibid:4744045257023": 355,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 247,
+      "gas:candidate-vibid:4744045257901": 23,
+      "gas:candidate-vibid:4744045257012": 68,
+      "gas:candidate-vibid:4744045258129": 85,
+      "gas:candidate-vibid:4744045258156": 21,
+      "gas:candidate-vibid:4744045257832": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 300,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 328,
-      "Приходкина Валерия Юрьевна": 27,
-      "Самохвалов Андрей Юрьевич": 79,
-      "Шаргунов Сергей Александрович": 68,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 32
+      "gas:candidate-vibid:4744045257023": 300,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 328,
+      "gas:candidate-vibid:4744045257901": 27,
+      "gas:candidate-vibid:4744045257012": 79,
+      "gas:candidate-vibid:4744045258129": 68,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 216,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 273,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 55,
-      "Шаргунов Сергей Александрович": 48,
-      "Щербаков Ярослав Евгеньевич": 19,
-      "Яровой Николай Афанасьевич": 20
+      "gas:candidate-vibid:4744045257023": 216,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 273,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 55,
+      "gas:candidate-vibid:4744045258129": 48,
+      "gas:candidate-vibid:4744045258156": 19,
+      "gas:candidate-vibid:4744045257832": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 266,
-      "Горбачёв Дмитрий Юрьевич": 20,
-      "Гриценко Константин Владимирович": 13,
-      "Литовченко Анатолий Григорьевич": 288,
-      "Приходкина Валерия Юрьевна": 22,
-      "Самохвалов Андрей Юрьевич": 69,
-      "Шаргунов Сергей Александрович": 108,
-      "Щербаков Ярослав Евгеньевич": 18,
-      "Яровой Николай Афанасьевич": 32
+      "gas:candidate-vibid:4744045257023": 266,
+      "gas:candidate-vibid:4744045258069": 20,
+      "gas:candidate-vibid:4744045258046": 13,
+      "gas:candidate-vibid:4744045258216": 288,
+      "gas:candidate-vibid:4744045257901": 22,
+      "gas:candidate-vibid:4744045257012": 69,
+      "gas:candidate-vibid:4744045258129": 108,
+      "gas:candidate-vibid:4744045258156": 18,
+      "gas:candidate-vibid:4744045257832": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 451,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 186,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 43,
-      "Шаргунов Сергей Александрович": 44,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 12
+      "gas:candidate-vibid:4744045257023": 451,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 186,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 43,
+      "gas:candidate-vibid:4744045258129": 44,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 364,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 234,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 53,
-      "Шаргунов Сергей Александрович": 67,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 21
+      "gas:candidate-vibid:4744045257023": 364,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 234,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 53,
+      "gas:candidate-vibid:4744045258129": 67,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 224,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 199,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 34,
-      "Шаргунов Сергей Александрович": 30,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 224,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 199,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 34,
+      "gas:candidate-vibid:4744045258129": 30,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 675,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 281,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 61,
-      "Шаргунов Сергей Александрович": 68,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 23
+      "gas:candidate-vibid:4744045257023": 675,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 281,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 61,
+      "gas:candidate-vibid:4744045258129": 68,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 407,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 239,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 39,
-      "Шаргунов Сергей Александрович": 50,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 407,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 239,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 39,
+      "gas:candidate-vibid:4744045258129": 50,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143156&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143156&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 135,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 413,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 58,
-      "Шаргунов Сергей Александрович": 39,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 135,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 413,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 58,
+      "gas:candidate-vibid:4744045258129": 39,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 156,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 427,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 61,
-      "Шаргунов Сергей Александрович": 43,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 22
+      "gas:candidate-vibid:4744045257023": 156,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 427,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 61,
+      "gas:candidate-vibid:4744045258129": 43,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 148,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 498,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 58,
-      "Шаргунов Сергей Александрович": 49,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 148,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 498,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 58,
+      "gas:candidate-vibid:4744045258129": 49,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 137,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 404,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 47,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 137,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 404,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 47,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 154,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 462,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 36,
-      "Шаргунов Сергей Александрович": 20,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 154,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 462,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 36,
+      "gas:candidate-vibid:4744045258129": 20,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 65,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 244,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 18,
-      "Шаргунов Сергей Александрович": 16,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 65,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 244,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 18,
+      "gas:candidate-vibid:4744045258129": 16,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 82,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 284,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 41,
-      "Шаргунов Сергей Александрович": 33,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 82,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 284,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 41,
+      "gas:candidate-vibid:4744045258129": 33,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 11,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 96,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 11,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 96,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 62,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 246,
-      "Приходкина Валерия Юрьевна": 19,
-      "Самохвалов Андрей Юрьевич": 55,
-      "Шаргунов Сергей Александрович": 14,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 62,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 246,
+      "gas:candidate-vibid:4744045257901": 19,
+      "gas:candidate-vibid:4744045257012": 55,
+      "gas:candidate-vibid:4744045258129": 14,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 17,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 56,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 2,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 17,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 56,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 2,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 83,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 469,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 41,
-      "Шаргунов Сергей Александрович": 39,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 83,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 469,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 41,
+      "gas:candidate-vibid:4744045258129": 39,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 17,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 102,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 3,
-      "Шаргунов Сергей Александрович": 2,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 17,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 102,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 3,
+      "gas:candidate-vibid:4744045258129": 2,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 42,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 252,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 26,
-      "Шаргунов Сергей Александрович": 12,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 42,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 252,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 26,
+      "gas:candidate-vibid:4744045258129": 12,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 122,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 377,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 69,
-      "Шаргунов Сергей Александрович": 47,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 122,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 377,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 69,
+      "gas:candidate-vibid:4744045258129": 47,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 54,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 186,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 35,
-      "Шаргунов Сергей Александрович": 12,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 54,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 186,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 35,
+      "gas:candidate-vibid:4744045258129": 12,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 123,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 264,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 40,
-      "Шаргунов Сергей Александрович": 28,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 16
+      "gas:candidate-vibid:4744045257023": 123,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 264,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 40,
+      "gas:candidate-vibid:4744045258129": 28,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 102,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 137,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 32,
-      "Шаргунов Сергей Александрович": 25,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 102,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 137,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 32,
+      "gas:candidate-vibid:4744045258129": 25,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 11,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 65,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 13,
-      "Шаргунов Сергей Александрович": 10,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 11,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 65,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 13,
+      "gas:candidate-vibid:4744045258129": 10,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 164,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 412,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 44,
-      "Шаргунов Сергей Александрович": 32,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 18
+      "gas:candidate-vibid:4744045257023": 164,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 412,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 44,
+      "gas:candidate-vibid:4744045258129": 32,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 54,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 263,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 20,
-      "Шаргунов Сергей Александрович": 22,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 54,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 263,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 20,
+      "gas:candidate-vibid:4744045258129": 22,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 43,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 320,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 14,
-      "Шаргунов Сергей Александрович": 14,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 43,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 320,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 14,
+      "gas:candidate-vibid:4744045258129": 14,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 102,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 531,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 43,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 102,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 531,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 43,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 17,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 92,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 17,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 92,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 12,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 143,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 15,
-      "Шаргунов Сергей Александрович": 18,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 20
+      "gas:candidate-vibid:4744045257023": 12,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 143,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 15,
+      "gas:candidate-vibid:4744045258129": 18,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 26,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 216,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 5,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 26,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 216,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 5,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 158,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 296,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 58,
-      "Шаргунов Сергей Александрович": 52,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 158,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 296,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 58,
+      "gas:candidate-vibid:4744045258129": 52,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 9,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 66,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 9,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 66,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 23,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 283,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 14,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 23,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 283,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 14,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 27,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 162,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 17,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 27,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 162,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 17,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 13,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 201,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 13,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 201,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 38,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 293,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 23,
-      "Шаргунов Сергей Александрович": 11,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 38,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 293,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 23,
+      "gas:candidate-vibid:4744045258129": 11,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 97,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 210,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 48,
-      "Шаргунов Сергей Александрович": 20,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 97,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 210,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 48,
+      "gas:candidate-vibid:4744045258129": 20,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 21,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 72,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 16,
-      "Шаргунов Сергей Александрович": 5,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 21,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 72,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 16,
+      "gas:candidate-vibid:4744045258129": 5,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 11,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 45,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 11,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 45,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 4,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 116,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 4,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 116,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 4,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 80,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 3,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 4,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 80,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 3,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 6,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 82,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 6,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 82,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143157&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143157&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 47,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 52,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 13,
-      "Шаргунов Сергей Александрович": 9,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 8
+      "gas:candidate-vibid:4744045257023": 47,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 52,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 13,
+      "gas:candidate-vibid:4744045258129": 9,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 14,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 30,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 14,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 30,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 30,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 125,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 6,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 30,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 125,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 6,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 36,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 15,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 6,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 36,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 15,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 6,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 10,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 20,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 10,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 20,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 165,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 123,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 21,
-      "Шаргунов Сергей Александрович": 24,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 165,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 123,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 21,
+      "gas:candidate-vibid:4744045258129": 24,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 8,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 28,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 8,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 28,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 16,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 14,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 16,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 14,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 15,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 32,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 15,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 32,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 21,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 36,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 21,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 36,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 16,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 24,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 16,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 24,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 111,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 285,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 49,
-      "Шаргунов Сергей Александрович": 27,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 111,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 285,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 49,
+      "gas:candidate-vibid:4744045258129": 27,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 23,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 126,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 23,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 126,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 17,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 56,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 14,
-      "Шаргунов Сергей Александрович": 2,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 17,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 56,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 14,
+      "gas:candidate-vibid:4744045258129": 2,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 117,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 393,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 35,
-      "Шаргунов Сергей Александрович": 15,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 21
+      "gas:candidate-vibid:4744045257023": 117,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 393,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 35,
+      "gas:candidate-vibid:4744045258129": 15,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 21,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 108,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 21,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 108,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 54,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 126,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 17,
-      "Шаргунов Сергей Александрович": 8,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 54,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 126,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 17,
+      "gas:candidate-vibid:4744045258129": 8,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 8,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 22,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 8,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 22,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 8,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 36,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 8,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 36,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 74,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 121,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 8,
-      "Шаргунов Сергей Александрович": 9,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 74,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 121,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 8,
+      "gas:candidate-vibid:4744045258129": 9,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 39,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 93,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 6,
-      "Шаргунов Сергей Александрович": 13,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 39,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 93,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 6,
+      "gas:candidate-vibid:4744045258129": 13,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 41,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 36,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 41,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 36,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 58,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 67,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 8,
-      "Шаргунов Сергей Александрович": 9,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 58,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 67,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 8,
+      "gas:candidate-vibid:4744045258129": 9,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 23,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 100,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 3,
-      "Шаргунов Сергей Александрович": 15,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 23,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 100,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 3,
+      "gas:candidate-vibid:4744045258129": 15,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 15,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 112,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 15,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 112,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 31,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 63,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 8,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 31,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 63,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 8,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 39,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 129,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 10,
-      "Шаргунов Сергей Александрович": 12,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 39,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 129,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 10,
+      "gas:candidate-vibid:4744045258129": 12,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 19,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 65,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 0,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 19,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 65,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 0,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 48,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 129,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 13,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 48,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 129,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 13,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 188,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 257,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 27,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 8
+      "gas:candidate-vibid:4744045257023": 188,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 257,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 27,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 227,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 242,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 55,
-      "Шаргунов Сергей Александрович": 40,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 12
+      "gas:candidate-vibid:4744045257023": 227,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 242,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 55,
+      "gas:candidate-vibid:4744045258129": 40,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 140,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 189,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 36,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 140,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 189,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 36,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 151,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 222,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 56,
-      "Шаргунов Сергей Александрович": 51,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 151,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 222,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 56,
+      "gas:candidate-vibid:4744045258129": 51,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 229,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 251,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 47,
-      "Шаргунов Сергей Александрович": 49,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 18
+      "gas:candidate-vibid:4744045257023": 229,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 251,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 47,
+      "gas:candidate-vibid:4744045258129": 49,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 17,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 15,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 17,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 15,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 15,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 17,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 2,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 15,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 17,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 2,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 29,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 96,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 6,
-      "Шаргунов Сергей Александрович": 11,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 29,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 96,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 6,
+      "gas:candidate-vibid:4744045258129": 11,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 20,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 20,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 20,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 20,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 52,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 95,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 15,
-      "Шаргунов Сергей Александрович": 9,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 52,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 95,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 15,
+      "gas:candidate-vibid:4744045258129": 9,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 163,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 225,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 44,
-      "Шаргунов Сергей Александрович": 65,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 16
+      "gas:candidate-vibid:4744045257023": 163,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 225,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 44,
+      "gas:candidate-vibid:4744045258129": 65,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 22,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 65,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 19,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 22,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 65,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 19,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 41,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 83,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 41,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 83,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 27,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 89,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 0,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 27,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 89,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 0,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 38,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 11,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 38,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 11,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 44,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 99,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 17,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 44,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 99,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 17,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 31,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 45,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 12,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 31,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 45,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 12,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 14,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 29,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 14,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 29,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 29,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 306,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 22,
-      "Шаргунов Сергей Александрович": 16,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 29,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 306,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 22,
+      "gas:candidate-vibid:4744045258129": 16,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 34,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 210,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 6,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 34,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 210,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 6,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 27,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 127,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 10,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 27,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 127,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 10,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 67,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 232,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 19,
-      "Шаргунов Сергей Александрович": 8,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 67,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 232,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 19,
+      "gas:candidate-vibid:4744045258129": 8,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143158&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143158&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 309,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 181,
-      "Приходкина Валерия Юрьевна": 13,
-      "Самохвалов Андрей Юрьевич": 29,
-      "Шаргунов Сергей Александрович": 44,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 309,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 181,
+      "gas:candidate-vibid:4744045257901": 13,
+      "gas:candidate-vibid:4744045257012": 29,
+      "gas:candidate-vibid:4744045258129": 44,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 71,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 78,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 26,
-      "Шаргунов Сергей Александрович": 14,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 71,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 78,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 26,
+      "gas:candidate-vibid:4744045258129": 14,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 180,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 192,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 26,
-      "Шаргунов Сергей Александрович": 26,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 180,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 192,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 26,
+      "gas:candidate-vibid:4744045258129": 26,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 263,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 301,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 74,
-      "Шаргунов Сергей Александрович": 75,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 263,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 301,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 74,
+      "gas:candidate-vibid:4744045258129": 75,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 118,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 108,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 18,
-      "Шаргунов Сергей Александрович": 18,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 8
+      "gas:candidate-vibid:4744045257023": 118,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 108,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 18,
+      "gas:candidate-vibid:4744045258129": 18,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 330,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 201,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 24,
-      "Шаргунов Сергей Александрович": 46,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 330,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 201,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 24,
+      "gas:candidate-vibid:4744045258129": 46,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 143,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 224,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 34,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 143,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 224,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 34,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 57,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 41,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 14,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 8
+      "gas:candidate-vibid:4744045257023": 57,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 41,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 14,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 216,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 11,
-      "Литовченко Анатолий Григорьевич": 196,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 60,
-      "Шаргунов Сергей Александрович": 67,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 22
+      "gas:candidate-vibid:4744045257023": 216,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 11,
+      "gas:candidate-vibid:4744045258216": 196,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 60,
+      "gas:candidate-vibid:4744045258129": 67,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 274,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 225,
-      "Приходкина Валерия Юрьевна": 13,
-      "Самохвалов Андрей Юрьевич": 57,
-      "Шаргунов Сергей Александрович": 66,
-      "Щербаков Ярослав Евгеньевич": 11,
-      "Яровой Николай Афанасьевич": 18
+      "gas:candidate-vibid:4744045257023": 274,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 225,
+      "gas:candidate-vibid:4744045257901": 13,
+      "gas:candidate-vibid:4744045257012": 57,
+      "gas:candidate-vibid:4744045258129": 66,
+      "gas:candidate-vibid:4744045258156": 11,
+      "gas:candidate-vibid:4744045257832": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 317,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 203,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 49,
-      "Шаргунов Сергей Александрович": 81,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 20
+      "gas:candidate-vibid:4744045257023": 317,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 203,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 49,
+      "gas:candidate-vibid:4744045258129": 81,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 235,
-      "Горбачёв Дмитрий Юрьевич": 12,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 237,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 59,
-      "Шаргунов Сергей Александрович": 93,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 235,
+      "gas:candidate-vibid:4744045258069": 12,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 237,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 59,
+      "gas:candidate-vibid:4744045258129": 93,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 334,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 275,
-      "Приходкина Валерия Юрьевна": 13,
-      "Самохвалов Андрей Юрьевич": 60,
-      "Шаргунов Сергей Александрович": 80,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 41
+      "gas:candidate-vibid:4744045257023": 334,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 275,
+      "gas:candidate-vibid:4744045257901": 13,
+      "gas:candidate-vibid:4744045257012": 60,
+      "gas:candidate-vibid:4744045258129": 80,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 268,
-      "Горбачёв Дмитрий Юрьевич": 11,
-      "Гриценко Константин Владимирович": 17,
-      "Литовченко Анатолий Григорьевич": 257,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 92,
-      "Шаргунов Сергей Александрович": 62,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 268,
+      "gas:candidate-vibid:4744045258069": 11,
+      "gas:candidate-vibid:4744045258046": 17,
+      "gas:candidate-vibid:4744045258216": 257,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 92,
+      "gas:candidate-vibid:4744045258129": 62,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 213,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 180,
-      "Приходкина Валерия Юрьевна": 13,
-      "Самохвалов Андрей Юрьевич": 63,
-      "Шаргунов Сергей Александрович": 67,
-      "Щербаков Ярослав Евгеньевич": 11,
-      "Яровой Николай Афанасьевич": 22
+      "gas:candidate-vibid:4744045257023": 213,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 180,
+      "gas:candidate-vibid:4744045257901": 13,
+      "gas:candidate-vibid:4744045257012": 63,
+      "gas:candidate-vibid:4744045258129": 67,
+      "gas:candidate-vibid:4744045258156": 11,
+      "gas:candidate-vibid:4744045257832": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 255,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 261,
-      "Приходкина Валерия Юрьевна": 18,
-      "Самохвалов Андрей Юрьевич": 66,
-      "Шаргунов Сергей Александрович": 71,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 25
+      "gas:candidate-vibid:4744045257023": 255,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 261,
+      "gas:candidate-vibid:4744045257901": 18,
+      "gas:candidate-vibid:4744045257012": 66,
+      "gas:candidate-vibid:4744045258129": 71,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 295,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 297,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 65,
-      "Шаргунов Сергей Александрович": 98,
-      "Щербаков Ярослав Евгеньевич": 11,
-      "Яровой Николай Афанасьевич": 25
+      "gas:candidate-vibid:4744045257023": 295,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 297,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 65,
+      "gas:candidate-vibid:4744045258129": 98,
+      "gas:candidate-vibid:4744045258156": 11,
+      "gas:candidate-vibid:4744045257832": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 301,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 8,
-      "Литовченко Анатолий Григорьевич": 209,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 47,
-      "Шаргунов Сергей Александрович": 89,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 25
+      "gas:candidate-vibid:4744045257023": 301,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 8,
+      "gas:candidate-vibid:4744045258216": 209,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 47,
+      "gas:candidate-vibid:4744045258129": 89,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 308,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 211,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 60,
-      "Шаргунов Сергей Александрович": 77,
-      "Щербаков Ярослав Евгеньевич": 14,
-      "Яровой Николай Афанасьевич": 20
+      "gas:candidate-vibid:4744045257023": 308,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 211,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 60,
+      "gas:candidate-vibid:4744045258129": 77,
+      "gas:candidate-vibid:4744045258156": 14,
+      "gas:candidate-vibid:4744045257832": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 295,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 231,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 59,
-      "Шаргунов Сергей Александрович": 65,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 27
+      "gas:candidate-vibid:4744045257023": 295,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 231,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 59,
+      "gas:candidate-vibid:4744045258129": 65,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 250,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 250,
-      "Приходкина Валерия Юрьевна": 15,
-      "Самохвалов Андрей Юрьевич": 57,
-      "Шаргунов Сергей Александрович": 70,
-      "Щербаков Ярослав Евгеньевич": 16,
-      "Яровой Николай Афанасьевич": 30
+      "gas:candidate-vibid:4744045257023": 250,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 250,
+      "gas:candidate-vibid:4744045257901": 15,
+      "gas:candidate-vibid:4744045257012": 57,
+      "gas:candidate-vibid:4744045258129": 70,
+      "gas:candidate-vibid:4744045258156": 16,
+      "gas:candidate-vibid:4744045257832": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 264,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 10,
-      "Литовченко Анатолий Григорьевич": 299,
-      "Приходкина Валерия Юрьевна": 15,
-      "Самохвалов Андрей Юрьевич": 52,
-      "Шаргунов Сергей Александрович": 80,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 39
+      "gas:candidate-vibid:4744045257023": 264,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 10,
+      "gas:candidate-vibid:4744045258216": 299,
+      "gas:candidate-vibid:4744045257901": 15,
+      "gas:candidate-vibid:4744045257012": 52,
+      "gas:candidate-vibid:4744045258129": 80,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 111,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 155,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 39,
-      "Шаргунов Сергей Александрович": 38,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 111,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 155,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 39,
+      "gas:candidate-vibid:4744045258129": 38,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 107,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 105,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 28,
-      "Шаргунов Сергей Александрович": 25,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 12
+      "gas:candidate-vibid:4744045257023": 107,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 105,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 28,
+      "gas:candidate-vibid:4744045258129": 25,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 120,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 143,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 43,
-      "Шаргунов Сергей Александрович": 22,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 120,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 143,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 43,
+      "gas:candidate-vibid:4744045258129": 22,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 185,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 181,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 55,
-      "Шаргунов Сергей Александрович": 60,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 24
+      "gas:candidate-vibid:4744045257023": 185,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 181,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 55,
+      "gas:candidate-vibid:4744045258129": 60,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 169,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 10,
-      "Литовченко Анатолий Григорьевич": 221,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 48,
-      "Шаргунов Сергей Александрович": 42,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 21
+      "gas:candidate-vibid:4744045257023": 169,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 10,
+      "gas:candidate-vibid:4744045258216": 221,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 48,
+      "gas:candidate-vibid:4744045258129": 42,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 54,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 96,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 15,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 54,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 96,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 15,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 107,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 123,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 31,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 107,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 123,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 31,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 143,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 186,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 47,
-      "Шаргунов Сергей Александрович": 36,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 18
+      "gas:candidate-vibid:4744045257023": 143,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 186,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 47,
+      "gas:candidate-vibid:4744045258129": 36,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 62,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 98,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 12,
-      "Шаргунов Сергей Александрович": 19,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 13
+      "gas:candidate-vibid:4744045257023": 62,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 98,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 12,
+      "gas:candidate-vibid:4744045258129": 19,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 76,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 87,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 13,
-      "Шаргунов Сергей Александрович": 12,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 76,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 87,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 13,
+      "gas:candidate-vibid:4744045258129": 12,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 261,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 192,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 53,
-      "Шаргунов Сергей Александрович": 31,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 13
+      "gas:candidate-vibid:4744045257023": 261,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 192,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 53,
+      "gas:candidate-vibid:4744045258129": 31,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 392,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 249,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 54,
-      "Шаргунов Сергей Александрович": 44,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 392,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 249,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 54,
+      "gas:candidate-vibid:4744045258129": 44,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 328,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 229,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 57,
-      "Шаргунов Сергей Александрович": 29,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 13
+      "gas:candidate-vibid:4744045257023": 328,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 229,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 57,
+      "gas:candidate-vibid:4744045258129": 29,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 310,
-      "Горбачёв Дмитрий Юрьевич": 16,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 286,
-      "Приходкина Валерия Юрьевна": 17,
-      "Самохвалов Андрей Юрьевич": 62,
-      "Шаргунов Сергей Александрович": 58,
-      "Щербаков Ярослав Евгеньевич": 17,
-      "Яровой Николай Афанасьевич": 27
+      "gas:candidate-vibid:4744045257023": 310,
+      "gas:candidate-vibid:4744045258069": 16,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 286,
+      "gas:candidate-vibid:4744045257901": 17,
+      "gas:candidate-vibid:4744045257012": 62,
+      "gas:candidate-vibid:4744045258129": 58,
+      "gas:candidate-vibid:4744045258156": 17,
+      "gas:candidate-vibid:4744045257832": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 308,
-      "Горбачёв Дмитрий Юрьевич": 14,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 251,
-      "Приходкина Валерия Юрьевна": 19,
-      "Самохвалов Андрей Юрьевич": 63,
-      "Шаргунов Сергей Александрович": 52,
-      "Щербаков Ярослав Евгеньевич": 11,
-      "Яровой Николай Афанасьевич": 22
+      "gas:candidate-vibid:4744045257023": 308,
+      "gas:candidate-vibid:4744045258069": 14,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 251,
+      "gas:candidate-vibid:4744045257901": 19,
+      "gas:candidate-vibid:4744045257012": 63,
+      "gas:candidate-vibid:4744045258129": 52,
+      "gas:candidate-vibid:4744045258156": 11,
+      "gas:candidate-vibid:4744045257832": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143159&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143159&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 347,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 325,
-      "Приходкина Валерия Юрьевна": 13,
-      "Самохвалов Андрей Юрьевич": 52,
-      "Шаргунов Сергей Александрович": 50,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 347,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 325,
+      "gas:candidate-vibid:4744045257901": 13,
+      "gas:candidate-vibid:4744045257012": 52,
+      "gas:candidate-vibid:4744045258129": 50,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 167,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 207,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 20,
-      "Шаргунов Сергей Александрович": 26,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 167,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 207,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 20,
+      "gas:candidate-vibid:4744045258129": 26,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 90,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 185,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 21,
-      "Шаргунов Сергей Александрович": 15,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 8
+      "gas:candidate-vibid:4744045257023": 90,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 185,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 21,
+      "gas:candidate-vibid:4744045258129": 15,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 169,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 463,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 14,
-      "Шаргунов Сергей Александрович": 70,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 169,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 463,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 14,
+      "gas:candidate-vibid:4744045258129": 70,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 457,
-      "Горбачёв Дмитрий Юрьевич": 11,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 400,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 104,
-      "Шаргунов Сергей Александрович": 47,
-      "Щербаков Ярослав Евгеньевич": 17,
-      "Яровой Николай Афанасьевич": 24
+      "gas:candidate-vibid:4744045257023": 457,
+      "gas:candidate-vibid:4744045258069": 11,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 400,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 104,
+      "gas:candidate-vibid:4744045258129": 47,
+      "gas:candidate-vibid:4744045258156": 17,
+      "gas:candidate-vibid:4744045257832": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 325,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 428,
-      "Приходкина Валерия Юрьевна": 20,
-      "Самохвалов Андрей Юрьевич": 60,
-      "Шаргунов Сергей Александрович": 64,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 325,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 428,
+      "gas:candidate-vibid:4744045257901": 20,
+      "gas:candidate-vibid:4744045257012": 60,
+      "gas:candidate-vibid:4744045258129": 64,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 382,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 381,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 70,
-      "Шаргунов Сергей Александрович": 74,
-      "Щербаков Ярослав Евгеньевич": 13,
-      "Яровой Николай Афанасьевич": 25
+      "gas:candidate-vibid:4744045257023": 382,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 381,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 70,
+      "gas:candidate-vibid:4744045258129": 74,
+      "gas:candidate-vibid:4744045258156": 13,
+      "gas:candidate-vibid:4744045257832": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 81,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 76,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 13,
-      "Шаргунов Сергей Александрович": 7,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 81,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 76,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 13,
+      "gas:candidate-vibid:4744045258129": 7,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 443,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 8,
-      "Литовченко Анатолий Григорьевич": 352,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 76,
-      "Шаргунов Сергей Александрович": 64,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 24
+      "gas:candidate-vibid:4744045257023": 443,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 8,
+      "gas:candidate-vibid:4744045258216": 352,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 76,
+      "gas:candidate-vibid:4744045258129": 64,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 396,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 333,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 61,
-      "Шаргунов Сергей Александрович": 33,
-      "Щербаков Ярослав Евгеньевич": 13,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 396,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 333,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 61,
+      "gas:candidate-vibid:4744045258129": 33,
+      "gas:candidate-vibid:4744045258156": 13,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 334,
-      "Горбачёв Дмитрий Юрьевич": 21,
-      "Гриценко Константин Владимирович": 8,
-      "Литовченко Анатолий Григорьевич": 417,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 81,
-      "Шаргунов Сергей Александрович": 66,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 34
+      "gas:candidate-vibid:4744045257023": 334,
+      "gas:candidate-vibid:4744045258069": 21,
+      "gas:candidate-vibid:4744045258046": 8,
+      "gas:candidate-vibid:4744045258216": 417,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 81,
+      "gas:candidate-vibid:4744045258129": 66,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 248,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 294,
-      "Приходкина Валерия Юрьевна": 17,
-      "Самохвалов Андрей Юрьевич": 57,
-      "Шаргунов Сергей Александрович": 45,
-      "Щербаков Ярослав Евгеньевич": 13,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 248,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 294,
+      "gas:candidate-vibid:4744045257901": 17,
+      "gas:candidate-vibid:4744045257012": 57,
+      "gas:candidate-vibid:4744045258129": 45,
+      "gas:candidate-vibid:4744045258156": 13,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 118,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 109,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 22,
-      "Шаргунов Сергей Александрович": 22,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 118,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 109,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 22,
+      "gas:candidate-vibid:4744045258129": 22,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 545,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 530,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 74,
-      "Шаргунов Сергей Александрович": 65,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 24
+      "gas:candidate-vibid:4744045257023": 545,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 530,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 74,
+      "gas:candidate-vibid:4744045258129": 65,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 494,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 305,
-      "Приходкина Валерия Юрьевна": 25,
-      "Самохвалов Андрей Юрьевич": 73,
-      "Шаргунов Сергей Александрович": 114,
-      "Щербаков Ярослав Евгеньевич": 23,
-      "Яровой Николай Афанасьевич": 25
+      "gas:candidate-vibid:4744045257023": 494,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 305,
+      "gas:candidate-vibid:4744045257901": 25,
+      "gas:candidate-vibid:4744045257012": 73,
+      "gas:candidate-vibid:4744045258129": 114,
+      "gas:candidate-vibid:4744045258156": 23,
+      "gas:candidate-vibid:4744045257832": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 395,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 198,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 40,
-      "Шаргунов Сергей Александрович": 45,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 13
+      "gas:candidate-vibid:4744045257023": 395,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 198,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 40,
+      "gas:candidate-vibid:4744045258129": 45,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 323,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 184,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 37,
-      "Шаргунов Сергей Александрович": 36,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 16
+      "gas:candidate-vibid:4744045257023": 323,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 184,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 37,
+      "gas:candidate-vibid:4744045258129": 36,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 216,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 132,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 33,
-      "Шаргунов Сергей Александрович": 26,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 216,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 132,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 33,
+      "gas:candidate-vibid:4744045258129": 26,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 246,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 257,
-      "Приходкина Валерия Юрьевна": 19,
-      "Самохвалов Андрей Юрьевич": 54,
-      "Шаргунов Сергей Александрович": 49,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 246,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 257,
+      "gas:candidate-vibid:4744045257901": 19,
+      "gas:candidate-vibid:4744045257012": 54,
+      "gas:candidate-vibid:4744045258129": 49,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 145,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 156,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 36,
-      "Шаргунов Сергей Александрович": 22,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 145,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 156,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 36,
+      "gas:candidate-vibid:4744045258129": 22,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 240,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 202,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 44,
-      "Шаргунов Сергей Александрович": 18,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 240,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 202,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 44,
+      "gas:candidate-vibid:4744045258129": 18,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 297,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 278,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 52,
-      "Шаргунов Сергей Александрович": 39,
-      "Щербаков Ярослав Евгеньевич": 15,
-      "Яровой Николай Афанасьевич": 12
+      "gas:candidate-vibid:4744045257023": 297,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 278,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 52,
+      "gas:candidate-vibid:4744045258129": 39,
+      "gas:candidate-vibid:4744045258156": 15,
+      "gas:candidate-vibid:4744045257832": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 250,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 170,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 41,
-      "Шаргунов Сергей Александрович": 25,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 12
+      "gas:candidate-vibid:4744045257023": 250,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 170,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 41,
+      "gas:candidate-vibid:4744045258129": 25,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 116,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 78,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 18,
-      "Шаргунов Сергей Александрович": 20,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 116,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 78,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 18,
+      "gas:candidate-vibid:4744045258129": 20,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 174,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 285,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 36,
-      "Шаргунов Сергей Александрович": 29,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 174,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 285,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 36,
+      "gas:candidate-vibid:4744045258129": 29,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 197,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 181,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 31,
-      "Шаргунов Сергей Александрович": 35,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 197,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 181,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 31,
+      "gas:candidate-vibid:4744045258129": 35,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 511,
-      "Горбачёв Дмитрий Юрьевич": 13,
-      "Гриценко Константин Владимирович": 12,
-      "Литовченко Анатолий Григорьевич": 396,
-      "Приходкина Валерия Юрьевна": 21,
-      "Самохвалов Андрей Юрьевич": 86,
-      "Шаргунов Сергей Александрович": 94,
-      "Щербаков Ярослав Евгеньевич": 26,
-      "Яровой Николай Афанасьевич": 37
+      "gas:candidate-vibid:4744045257023": 511,
+      "gas:candidate-vibid:4744045258069": 13,
+      "gas:candidate-vibid:4744045258046": 12,
+      "gas:candidate-vibid:4744045258216": 396,
+      "gas:candidate-vibid:4744045257901": 21,
+      "gas:candidate-vibid:4744045257012": 86,
+      "gas:candidate-vibid:4744045258129": 94,
+      "gas:candidate-vibid:4744045258156": 26,
+      "gas:candidate-vibid:4744045257832": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 479,
-      "Горбачёв Дмитрий Юрьевич": 14,
-      "Гриценко Константин Владимирович": 13,
-      "Литовченко Анатолий Григорьевич": 297,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 73,
-      "Шаргунов Сергей Александрович": 71,
-      "Щербаков Ярослав Евгеньевич": 18,
-      "Яровой Николай Афанасьевич": 33
+      "gas:candidate-vibid:4744045257023": 479,
+      "gas:candidate-vibid:4744045258069": 14,
+      "gas:candidate-vibid:4744045258046": 13,
+      "gas:candidate-vibid:4744045258216": 297,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 73,
+      "gas:candidate-vibid:4744045258129": 71,
+      "gas:candidate-vibid:4744045258156": 18,
+      "gas:candidate-vibid:4744045257832": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 407,
-      "Горбачёв Дмитрий Юрьевич": 14,
-      "Гриценко Константин Владимирович": 13,
-      "Литовченко Анатолий Григорьевич": 321,
-      "Приходкина Валерия Юрьевна": 26,
-      "Самохвалов Андрей Юрьевич": 90,
-      "Шаргунов Сергей Александрович": 74,
-      "Щербаков Ярослав Евгеньевич": 22,
-      "Яровой Николай Афанасьевич": 36
+      "gas:candidate-vibid:4744045257023": 407,
+      "gas:candidate-vibid:4744045258069": 14,
+      "gas:candidate-vibid:4744045258046": 13,
+      "gas:candidate-vibid:4744045258216": 321,
+      "gas:candidate-vibid:4744045257901": 26,
+      "gas:candidate-vibid:4744045257012": 90,
+      "gas:candidate-vibid:4744045258129": 74,
+      "gas:candidate-vibid:4744045258156": 22,
+      "gas:candidate-vibid:4744045257832": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 367,
-      "Горбачёв Дмитрий Юрьевич": 21,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 414,
-      "Приходкина Валерия Юрьевна": 19,
-      "Самохвалов Андрей Юрьевич": 77,
-      "Шаргунов Сергей Александрович": 70,
-      "Щербаков Ярослав Евгеньевич": 27,
-      "Яровой Николай Афанасьевич": 31
+      "gas:candidate-vibid:4744045257023": 367,
+      "gas:candidate-vibid:4744045258069": 21,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 414,
+      "gas:candidate-vibid:4744045257901": 19,
+      "gas:candidate-vibid:4744045257012": 77,
+      "gas:candidate-vibid:4744045258129": 70,
+      "gas:candidate-vibid:4744045258156": 27,
+      "gas:candidate-vibid:4744045257832": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 338,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 337,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 70,
-      "Шаргунов Сергей Александрович": 88,
-      "Щербаков Ярослав Евгеньевич": 15,
-      "Яровой Николай Афанасьевич": 30
+      "gas:candidate-vibid:4744045257023": 338,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 337,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 70,
+      "gas:candidate-vibid:4744045258129": 88,
+      "gas:candidate-vibid:4744045258156": 15,
+      "gas:candidate-vibid:4744045257832": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 490,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 8,
-      "Литовченко Анатолий Григорьевич": 409,
-      "Приходкина Валерия Юрьевна": 22,
-      "Самохвалов Андрей Юрьевич": 88,
-      "Шаргунов Сергей Александрович": 106,
-      "Щербаков Ярослав Евгеньевич": 19,
-      "Яровой Николай Афанасьевич": 44
+      "gas:candidate-vibid:4744045257023": 490,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 8,
+      "gas:candidate-vibid:4744045258216": 409,
+      "gas:candidate-vibid:4744045257901": 22,
+      "gas:candidate-vibid:4744045257012": 88,
+      "gas:candidate-vibid:4744045258129": 106,
+      "gas:candidate-vibid:4744045258156": 19,
+      "gas:candidate-vibid:4744045257832": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 265,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 8,
-      "Литовченко Анатолий Григорьевич": 227,
-      "Приходкина Валерия Юрьевна": 19,
-      "Самохвалов Андрей Юрьевич": 33,
-      "Шаргунов Сергей Александрович": 39,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 20
+      "gas:candidate-vibid:4744045257023": 265,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 8,
+      "gas:candidate-vibid:4744045258216": 227,
+      "gas:candidate-vibid:4744045257901": 19,
+      "gas:candidate-vibid:4744045257012": 33,
+      "gas:candidate-vibid:4744045258129": 39,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 388,
-      "Горбачёв Дмитрий Юрьевич": 18,
-      "Гриценко Константин Владимирович": 14,
-      "Литовченко Анатолий Григорьевич": 406,
-      "Приходкина Валерия Юрьевна": 18,
-      "Самохвалов Андрей Юрьевич": 81,
-      "Шаргунов Сергей Александрович": 118,
-      "Щербаков Ярослав Евгеньевич": 31,
-      "Яровой Николай Афанасьевич": 42
+      "gas:candidate-vibid:4744045257023": 388,
+      "gas:candidate-vibid:4744045258069": 18,
+      "gas:candidate-vibid:4744045258046": 14,
+      "gas:candidate-vibid:4744045258216": 406,
+      "gas:candidate-vibid:4744045257901": 18,
+      "gas:candidate-vibid:4744045257012": 81,
+      "gas:candidate-vibid:4744045258129": 118,
+      "gas:candidate-vibid:4744045258156": 31,
+      "gas:candidate-vibid:4744045257832": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 359,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 259,
-      "Приходкина Валерия Юрьевна": 23,
-      "Самохвалов Андрей Юрьевич": 72,
-      "Шаргунов Сергей Александрович": 38,
-      "Щербаков Ярослав Евгеньевич": 17,
-      "Яровой Николай Афанасьевич": 21
+      "gas:candidate-vibid:4744045257023": 359,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 259,
+      "gas:candidate-vibid:4744045257901": 23,
+      "gas:candidate-vibid:4744045257012": 72,
+      "gas:candidate-vibid:4744045258129": 38,
+      "gas:candidate-vibid:4744045258156": 17,
+      "gas:candidate-vibid:4744045257832": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 209,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 147,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 29,
-      "Шаргунов Сергей Александрович": 24,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 209,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 147,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 29,
+      "gas:candidate-vibid:4744045258129": 24,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 296,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 226,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 40,
-      "Шаргунов Сергей Александрович": 42,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 296,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 226,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 40,
+      "gas:candidate-vibid:4744045258129": 42,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 411,
-      "Горбачёв Дмитрий Юрьевич": 14,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 352,
-      "Приходкина Валерия Юрьевна": 24,
-      "Самохвалов Андрей Юрьевич": 70,
-      "Шаргунов Сергей Александрович": 97,
-      "Щербаков Ярослав Евгеньевич": 18,
-      "Яровой Николай Афанасьевич": 37
+      "gas:candidate-vibid:4744045257023": 411,
+      "gas:candidate-vibid:4744045258069": 14,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 352,
+      "gas:candidate-vibid:4744045257901": 24,
+      "gas:candidate-vibid:4744045257012": 70,
+      "gas:candidate-vibid:4744045258129": 97,
+      "gas:candidate-vibid:4744045258156": 18,
+      "gas:candidate-vibid:4744045257832": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 357,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 276,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 75,
-      "Шаргунов Сергей Александрович": 62,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 357,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 276,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 75,
+      "gas:candidate-vibid:4744045258129": 62,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 315,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 297,
-      "Приходкина Валерия Юрьевна": 14,
-      "Самохвалов Андрей Юрьевич": 71,
-      "Шаргунов Сергей Александрович": 67,
-      "Щербаков Ярослав Евгеньевич": 11,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 315,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 297,
+      "gas:candidate-vibid:4744045257901": 14,
+      "gas:candidate-vibid:4744045257012": 71,
+      "gas:candidate-vibid:4744045258129": 67,
+      "gas:candidate-vibid:4744045258156": 11,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 249,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 272,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 68,
-      "Шаргунов Сергей Александрович": 37,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 249,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 272,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 68,
+      "gas:candidate-vibid:4744045258129": 37,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 83,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 113,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 33,
-      "Шаргунов Сергей Александрович": 17,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 83,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 113,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 33,
+      "gas:candidate-vibid:4744045258129": 17,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 323,
-      "Горбачёв Дмитрий Юрьевич": 11,
-      "Гриценко Константин Владимирович": 7,
-      "Литовченко Анатолий Григорьевич": 256,
-      "Приходкина Валерия Юрьевна": 17,
-      "Самохвалов Андрей Юрьевич": 74,
-      "Шаргунов Сергей Александрович": 39,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 27
+      "gas:candidate-vibid:4744045257023": 323,
+      "gas:candidate-vibid:4744045258069": 11,
+      "gas:candidate-vibid:4744045258046": 7,
+      "gas:candidate-vibid:4744045258216": 256,
+      "gas:candidate-vibid:4744045257901": 17,
+      "gas:candidate-vibid:4744045257012": 74,
+      "gas:candidate-vibid:4744045258129": 39,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 192,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 152,
-      "Приходкина Валерия Юрьевна": 11,
-      "Самохвалов Андрей Юрьевич": 36,
-      "Шаргунов Сергей Александрович": 19,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 192,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 152,
+      "gas:candidate-vibid:4744045257901": 11,
+      "gas:candidate-vibid:4744045257012": 36,
+      "gas:candidate-vibid:4744045258129": 19,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 382,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 267,
-      "Приходкина Валерия Юрьевна": 13,
-      "Самохвалов Андрей Юрьевич": 65,
-      "Шаргунов Сергей Александрович": 47,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 382,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 267,
+      "gas:candidate-vibid:4744045257901": 13,
+      "gas:candidate-vibid:4744045257012": 65,
+      "gas:candidate-vibid:4744045258129": 47,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 230,
-      "Горбачёв Дмитрий Юрьевич": 8,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 223,
-      "Приходкина Валерия Юрьевна": 10,
-      "Самохвалов Андрей Юрьевич": 24,
-      "Шаргунов Сергей Александрович": 29,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 12
+      "gas:candidate-vibid:4744045257023": 230,
+      "gas:candidate-vibid:4744045258069": 8,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 223,
+      "gas:candidate-vibid:4744045257901": 10,
+      "gas:candidate-vibid:4744045257012": 24,
+      "gas:candidate-vibid:4744045258129": 29,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 496,
-      "Горбачёв Дмитрий Юрьевич": 12,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 209,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 54,
-      "Шаргунов Сергей Александрович": 48,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 16
+      "gas:candidate-vibid:4744045257023": 496,
+      "gas:candidate-vibid:4744045258069": 12,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 209,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 54,
+      "gas:candidate-vibid:4744045258129": 48,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 538,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 172,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 52,
-      "Шаргунов Сергей Александрович": 41,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 538,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 172,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 52,
+      "gas:candidate-vibid:4744045258129": 41,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 289,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 108,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 31,
-      "Шаргунов Сергей Александрович": 22,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 289,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 108,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 31,
+      "gas:candidate-vibid:4744045258129": 22,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 498,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 9,
-      "Литовченко Анатолий Григорьевич": 273,
-      "Приходкина Валерия Юрьевна": 16,
-      "Самохвалов Андрей Юрьевич": 75,
-      "Шаргунов Сергей Александрович": 48,
-      "Щербаков Ярослав Евгеньевич": 12,
-      "Яровой Николай Афанасьевич": 24
+      "gas:candidate-vibid:4744045257023": 498,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 9,
+      "gas:candidate-vibid:4744045258216": 273,
+      "gas:candidate-vibid:4744045257901": 16,
+      "gas:candidate-vibid:4744045257012": 75,
+      "gas:candidate-vibid:4744045258129": 48,
+      "gas:candidate-vibid:4744045258156": 12,
+      "gas:candidate-vibid:4744045257832": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 171,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 124,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 24,
-      "Шаргунов Сергей Александрович": 34,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 171,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 124,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 24,
+      "gas:candidate-vibid:4744045258129": 34,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 28,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 107,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 6,
-      "Шаргунов Сергей Александрович": 6,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 28,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 107,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 6,
+      "gas:candidate-vibid:4744045258129": 6,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 380,
-      "Горбачёв Дмитрий Юрьевич": 9,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 984,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 47,
-      "Шаргунов Сергей Александрович": 26,
-      "Щербаков Ярослав Евгеньевич": 13,
-      "Яровой Николай Афанасьевич": 11
+      "gas:candidate-vibid:4744045257023": 380,
+      "gas:candidate-vibid:4744045258069": 9,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 984,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 47,
+      "gas:candidate-vibid:4744045258129": 26,
+      "gas:candidate-vibid:4744045258156": 13,
+      "gas:candidate-vibid:4744045257832": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 258,
-      "Горбачёв Дмитрий Юрьевич": 10,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 193,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 53,
-      "Шаргунов Сергей Александрович": 26,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 15
+      "gas:candidate-vibid:4744045257023": 258,
+      "gas:candidate-vibid:4744045258069": 10,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 193,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 53,
+      "gas:candidate-vibid:4744045258129": 26,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 229,
-      "Горбачёв Дмитрий Юрьевич": 11,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 187,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 65,
-      "Шаргунов Сергей Александрович": 45,
-      "Щербаков Ярослав Евгеньевич": 16,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 229,
+      "gas:candidate-vibid:4744045258069": 11,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 187,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 65,
+      "gas:candidate-vibid:4744045258129": 45,
+      "gas:candidate-vibid:4744045258156": 16,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 403,
-      "Горбачёв Дмитрий Юрьевич": 13,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 368,
-      "Приходкина Валерия Юрьевна": 9,
-      "Самохвалов Андрей Юрьевич": 73,
-      "Шаргунов Сергей Александрович": 72,
-      "Щербаков Ярослав Евгеньевич": 24,
-      "Яровой Николай Афанасьевич": 33
+      "gas:candidate-vibid:4744045257023": 403,
+      "gas:candidate-vibid:4744045258069": 13,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 368,
+      "gas:candidate-vibid:4744045257901": 9,
+      "gas:candidate-vibid:4744045257012": 73,
+      "gas:candidate-vibid:4744045258129": 72,
+      "gas:candidate-vibid:4744045258156": 24,
+      "gas:candidate-vibid:4744045257832": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 405,
-      "Горбачёв Дмитрий Юрьевич": 7,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 263,
-      "Приходкина Валерия Юрьевна": 7,
-      "Самохвалов Андрей Юрьевич": 58,
-      "Шаргунов Сергей Александрович": 58,
-      "Щербаков Ярослав Евгеньевич": 11,
-      "Яровой Николай Афанасьевич": 20
+      "gas:candidate-vibid:4744045257023": 405,
+      "gas:candidate-vibid:4744045258069": 7,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 263,
+      "gas:candidate-vibid:4744045257901": 7,
+      "gas:candidate-vibid:4744045257012": 58,
+      "gas:candidate-vibid:4744045258129": 58,
+      "gas:candidate-vibid:4744045258156": 11,
+      "gas:candidate-vibid:4744045257832": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 382,
-      "Горбачёв Дмитрий Юрьевич": 16,
-      "Гриценко Константин Владимирович": 10,
-      "Литовченко Анатолий Григорьевич": 377,
-      "Приходкина Валерия Юрьевна": 27,
-      "Самохвалов Андрей Юрьевич": 82,
-      "Шаргунов Сергей Александрович": 80,
-      "Щербаков Ярослав Евгеньевич": 32,
-      "Яровой Николай Афанасьевич": 26
+      "gas:candidate-vibid:4744045257023": 382,
+      "gas:candidate-vibid:4744045258069": 16,
+      "gas:candidate-vibid:4744045258046": 10,
+      "gas:candidate-vibid:4744045258216": 377,
+      "gas:candidate-vibid:4744045257901": 27,
+      "gas:candidate-vibid:4744045257012": 82,
+      "gas:candidate-vibid:4744045258129": 80,
+      "gas:candidate-vibid:4744045258156": 32,
+      "gas:candidate-vibid:4744045257832": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 52,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 100,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 52,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 100,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 441,
-      "Горбачёв Дмитрий Юрьевич": 15,
-      "Гриценко Константин Владимирович": 10,
-      "Литовченко Анатолий Григорьевич": 437,
-      "Приходкина Валерия Юрьевна": 31,
-      "Самохвалов Андрей Юрьевич": 124,
-      "Шаргунов Сергей Александрович": 108,
-      "Щербаков Ярослав Евгеньевич": 17,
-      "Яровой Николай Афанасьевич": 43
+      "gas:candidate-vibid:4744045257023": 441,
+      "gas:candidate-vibid:4744045258069": 15,
+      "gas:candidate-vibid:4744045258046": 10,
+      "gas:candidate-vibid:4744045258216": 437,
+      "gas:candidate-vibid:4744045257901": 31,
+      "gas:candidate-vibid:4744045257012": 124,
+      "gas:candidate-vibid:4744045258129": 108,
+      "gas:candidate-vibid:4744045258156": 17,
+      "gas:candidate-vibid:4744045257832": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 35,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 64,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 7,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 35,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 64,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 7,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 133,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 6,
-      "Литовченко Анатолий Григорьевич": 305,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 46,
-      "Шаргунов Сергей Александрович": 34,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 9
+      "gas:candidate-vibid:4744045257023": 133,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 6,
+      "gas:candidate-vibid:4744045258216": 305,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 46,
+      "gas:candidate-vibid:4744045258129": 34,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 168,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 130,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 26,
-      "Шаргунов Сергей Александрович": 22,
-      "Щербаков Ярослав Евгеньевич": 5,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 168,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 130,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 26,
+      "gas:candidate-vibid:4744045258129": 22,
+      "gas:candidate-vibid:4744045258156": 5,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 401,
-      "Горбачёв Дмитрий Юрьевич": 17,
-      "Гриценко Константин Владимирович": 8,
-      "Литовченко Анатолий Григорьевич": 302,
-      "Приходкина Валерия Юрьевна": 12,
-      "Самохвалов Андрей Юрьевич": 80,
-      "Шаргунов Сергей Александрович": 70,
-      "Щербаков Ярослав Евгеньевич": 10,
-      "Яровой Николай Афанасьевич": 23
+      "gas:candidate-vibid:4744045257023": 401,
+      "gas:candidate-vibid:4744045258069": 17,
+      "gas:candidate-vibid:4744045258046": 8,
+      "gas:candidate-vibid:4744045258216": 302,
+      "gas:candidate-vibid:4744045257901": 12,
+      "gas:candidate-vibid:4744045257012": 80,
+      "gas:candidate-vibid:4744045258129": 70,
+      "gas:candidate-vibid:4744045258156": 10,
+      "gas:candidate-vibid:4744045257832": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 178,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 169,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 33,
-      "Шаргунов Сергей Александрович": 10,
-      "Щербаков Ярослав Евгеньевич": 6,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 178,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 169,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 33,
+      "gas:candidate-vibid:4744045258129": 10,
+      "gas:candidate-vibid:4744045258156": 6,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143160&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143160&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 68,
-      "Горбачёв Дмитрий Юрьевич": 5,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 159,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 23,
-      "Шаргунов Сергей Александрович": 18,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 68,
+      "gas:candidate-vibid:4744045258069": 5,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 159,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 23,
+      "gas:candidate-vibid:4744045258129": 18,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 28,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 96,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 9,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 28,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 96,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 9,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 149,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 179,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 29,
-      "Шаргунов Сергей Александрович": 21,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 149,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 179,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 29,
+      "gas:candidate-vibid:4744045258129": 21,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 33,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 44,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 2,
-      "Шаргунов Сергей Александрович": 6,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 33,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 44,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 2,
+      "gas:candidate-vibid:4744045258129": 6,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 18,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 42,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 5,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 18,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 42,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 5,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 11,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 32,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 11,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 32,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 60,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 109,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 8,
-      "Шаргунов Сергей Александрович": 8,
-      "Щербаков Ярослав Евгеньевич": 3,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 60,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 109,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 8,
+      "gas:candidate-vibid:4744045258129": 8,
+      "gas:candidate-vibid:4744045258156": 3,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 19,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 50,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 11,
-      "Шаргунов Сергей Александрович": 11,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 3
+      "gas:candidate-vibid:4744045257023": 19,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 50,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 11,
+      "gas:candidate-vibid:4744045258129": 11,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 27,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 36,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 2,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 27,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 36,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 2,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 23,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 28,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 23,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 28,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 40,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 61,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 5,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 40,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 61,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 5,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 201,
-      "Горбачёв Дмитрий Юрьевич": 2,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 223,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 40,
-      "Шаргунов Сергей Александрович": 42,
-      "Щербаков Ярослав Евгеньевич": 9,
-      "Яровой Николай Афанасьевич": 17
+      "gas:candidate-vibid:4744045257023": 201,
+      "gas:candidate-vibid:4744045258069": 2,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 223,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 40,
+      "gas:candidate-vibid:4744045258129": 42,
+      "gas:candidate-vibid:4744045258156": 9,
+      "gas:candidate-vibid:4744045257832": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 108,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 121,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 23,
-      "Шаргунов Сергей Александрович": 23,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 108,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 121,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 23,
+      "gas:candidate-vibid:4744045258129": 23,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 48,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 65,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 48,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 65,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 259,
-      "Горбачёв Дмитрий Юрьевич": 4,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 219,
-      "Приходкина Валерия Юрьевна": 5,
-      "Самохвалов Андрей Юрьевич": 24,
-      "Шаргунов Сергей Александрович": 30,
-      "Щербаков Ярослав Евгеньевич": 4,
-      "Яровой Николай Афанасьевич": 14
+      "gas:candidate-vibid:4744045257023": 259,
+      "gas:candidate-vibid:4744045258069": 4,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 219,
+      "gas:candidate-vibid:4744045257901": 5,
+      "gas:candidate-vibid:4744045257012": 24,
+      "gas:candidate-vibid:4744045258129": 30,
+      "gas:candidate-vibid:4744045258156": 4,
+      "gas:candidate-vibid:4744045257832": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 293,
-      "Горбачёв Дмитрий Юрьевич": 6,
-      "Гриценко Константин Владимирович": 5,
-      "Литовченко Анатолий Григорьевич": 269,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 46,
-      "Шаргунов Сергей Александрович": 41,
-      "Щербаков Ярослав Евгеньевич": 7,
-      "Яровой Николай Афанасьевич": 19
+      "gas:candidate-vibid:4744045257023": 293,
+      "gas:candidate-vibid:4744045258069": 6,
+      "gas:candidate-vibid:4744045258046": 5,
+      "gas:candidate-vibid:4744045258216": 269,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 46,
+      "gas:candidate-vibid:4744045258129": 41,
+      "gas:candidate-vibid:4744045258156": 7,
+      "gas:candidate-vibid:4744045257832": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 10,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 45,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 1,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 10,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 45,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 1,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 36,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 162,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 7,
-      "Шаргунов Сергей Александрович": 9,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 5
+      "gas:candidate-vibid:4744045257023": 36,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 162,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 7,
+      "gas:candidate-vibid:4744045258129": 9,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 15,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 64,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 2,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 15,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 64,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 2,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 15,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 63,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 3,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 15,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 63,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 3,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 44,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 0,
-      "Литовченко Анатолий Григорьевич": 69,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 6,
-      "Шаргунов Сергей Александрович": 3,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 44,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 0,
+      "gas:candidate-vibid:4744045258216": 69,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 6,
+      "gas:candidate-vibid:4744045258129": 3,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 67,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 47,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 7,
-      "Шаргунов Сергей Александрович": 4,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 67,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 47,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 7,
+      "gas:candidate-vibid:4744045258129": 4,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 199,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 3,
-      "Литовченко Анатолий Григорьевич": 167,
-      "Приходкина Валерия Юрьевна": 8,
-      "Самохвалов Андрей Юрьевич": 27,
-      "Шаргунов Сергей Александрович": 18,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 7
+      "gas:candidate-vibid:4744045257023": 199,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 3,
+      "gas:candidate-vibid:4744045258216": 167,
+      "gas:candidate-vibid:4744045257901": 8,
+      "gas:candidate-vibid:4744045257012": 27,
+      "gas:candidate-vibid:4744045258129": 18,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 67,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 48,
-      "Приходкина Валерия Юрьевна": 2,
-      "Самохвалов Андрей Юрьевич": 9,
-      "Шаргунов Сергей Александрович": 2,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 2
+      "gas:candidate-vibid:4744045257023": 67,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 48,
+      "gas:candidate-vibid:4744045257901": 2,
+      "gas:candidate-vibid:4744045257012": 9,
+      "gas:candidate-vibid:4744045258129": 2,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 46,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 108,
-      "Приходкина Валерия Юрьевна": 1,
-      "Самохвалов Андрей Юрьевич": 8,
-      "Шаргунов Сергей Александрович": 5,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 4
+      "gas:candidate-vibid:4744045257023": 46,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 108,
+      "gas:candidate-vibid:4744045257901": 1,
+      "gas:candidate-vibid:4744045257012": 8,
+      "gas:candidate-vibid:4744045258129": 5,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 24,
-      "Горбачёв Дмитрий Юрьевич": 1,
-      "Гриценко Константин Владимирович": 1,
-      "Литовченко Анатолий Григорьевич": 14,
-      "Приходкина Валерия Юрьевна": 0,
-      "Самохвалов Андрей Юрьевич": 3,
-      "Шаргунов Сергей Александрович": 1,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 1
+      "gas:candidate-vibid:4744045257023": 24,
+      "gas:candidate-vibid:4744045258069": 1,
+      "gas:candidate-vibid:4744045258046": 1,
+      "gas:candidate-vibid:4744045258216": 14,
+      "gas:candidate-vibid:4744045257901": 0,
+      "gas:candidate-vibid:4744045257012": 3,
+      "gas:candidate-vibid:4744045258129": 1,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 119,
-      "Горбачёв Дмитрий Юрьевич": 3,
-      "Гриценко Константин Владимирович": 4,
-      "Литовченко Анатолий Григорьевич": 123,
-      "Приходкина Валерия Юрьевна": 4,
-      "Самохвалов Андрей Юрьевич": 26,
-      "Шаргунов Сергей Александрович": 21,
-      "Щербаков Ярослав Евгеньевич": 8,
-      "Яровой Николай Афанасьевич": 10
+      "gas:candidate-vibid:4744045257023": 119,
+      "gas:candidate-vibid:4744045258069": 3,
+      "gas:candidate-vibid:4744045258046": 4,
+      "gas:candidate-vibid:4744045258216": 123,
+      "gas:candidate-vibid:4744045257901": 4,
+      "gas:candidate-vibid:4744045257012": 26,
+      "gas:candidate-vibid:4744045258129": 21,
+      "gas:candidate-vibid:4744045258156": 8,
+      "gas:candidate-vibid:4744045257832": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 20,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 71,
-      "Приходкина Валерия Юрьевна": 3,
-      "Самохвалов Андрей Юрьевич": 4,
-      "Шаргунов Сергей Александрович": 0,
-      "Щербаков Ярослав Евгеньевич": 0,
-      "Яровой Николай Афанасьевич": 0
+      "gas:candidate-vibid:4744045257023": 20,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 71,
+      "gas:candidate-vibid:4744045257901": 3,
+      "gas:candidate-vibid:4744045257012": 4,
+      "gas:candidate-vibid:4744045258129": 0,
+      "gas:candidate-vibid:4744045258156": 0,
+      "gas:candidate-vibid:4744045257832": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_74_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гартунг Валерий Карлович": 96,
-      "Горбачёв Дмитрий Юрьевич": 0,
-      "Гриценко Константин Владимирович": 2,
-      "Литовченко Анатолий Григорьевич": 91,
-      "Приходкина Валерия Юрьевна": 6,
-      "Самохвалов Андрей Юрьевич": 8,
-      "Шаргунов Сергей Александрович": 10,
-      "Щербаков Ярослав Евгеньевич": 1,
-      "Яровой Николай Афанасьевич": 6
+      "gas:candidate-vibid:4744045257023": 96,
+      "gas:candidate-vibid:4744045258069": 0,
+      "gas:candidate-vibid:4744045258046": 2,
+      "gas:candidate-vibid:4744045258216": 91,
+      "gas:candidate-vibid:4744045257901": 6,
+      "gas:candidate-vibid:4744045257012": 8,
+      "gas:candidate-vibid:4744045258129": 10,
+      "gas:candidate-vibid:4744045258156": 1,
+      "gas:candidate-vibid:4744045257832": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000253&tvd=27420001143161&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143161&type=464",

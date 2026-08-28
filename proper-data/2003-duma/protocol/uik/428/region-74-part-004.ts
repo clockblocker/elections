@@ -42,19 +42,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 131,
-      "Берко Владимир Маркович": 5,
-      "Бобиренко Нина Семеновна": 29,
-      "Груздев Владимир Владимирович": 10,
-      "Давыдов Сергей Викторович": 144,
-      "Иванов Анатолий Ильич": 27,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 20,
-      "Субботин Илья Сергеевич": 34,
-      "Филичкин Владимир Васильевич": 38,
-      "Юревич Даниил Михайлович": 35,
-      "Юревич Михаил Валериевич": 346,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000188022": 131,
+      "gas:candidate-vibid:1001000195158": 5,
+      "gas:candidate-vibid:1001000220851": 29,
+      "gas:candidate-vibid:1001000136140": 10,
+      "gas:candidate-vibid:374300267282": 144,
+      "gas:candidate-vibid:1001000121927": 27,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 20,
+      "gas:candidate-vibid:1001000112270": 34,
+      "gas:candidate-vibid:374300267375": 38,
+      "gas:candidate-vibid:374300267362": 35,
+      "gas:candidate-vibid:1001000131422": 346,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -104,19 +104,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 139,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 37,
-      "Груздев Владимир Владимирович": 13,
-      "Давыдов Сергей Викторович": 243,
-      "Иванов Анатолий Ильич": 35,
-      "Костромин Сергей Владимирович": 0,
-      "Патракова Любовь Ивановна": 21,
-      "Субботин Илья Сергеевич": 17,
-      "Филичкин Владимир Васильевич": 36,
-      "Юревич Даниил Михайлович": 10,
-      "Юревич Михаил Валериевич": 286,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000188022": 139,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 37,
+      "gas:candidate-vibid:1001000136140": 13,
+      "gas:candidate-vibid:374300267282": 243,
+      "gas:candidate-vibid:1001000121927": 35,
+      "gas:candidate-vibid:1001000250457": 0,
+      "gas:candidate-vibid:374300267255": 21,
+      "gas:candidate-vibid:1001000112270": 17,
+      "gas:candidate-vibid:374300267375": 36,
+      "gas:candidate-vibid:374300267362": 10,
+      "gas:candidate-vibid:1001000131422": 286,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -166,19 +166,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 117,
-      "Берко Владимир Маркович": 5,
-      "Бобиренко Нина Семеновна": 53,
-      "Груздев Владимир Владимирович": 14,
-      "Давыдов Сергей Викторович": 180,
-      "Иванов Анатолий Ильич": 57,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 21,
-      "Субботин Илья Сергеевич": 19,
-      "Филичкин Владимир Васильевич": 32,
-      "Юревич Даниил Михайлович": 31,
-      "Юревич Михаил Валериевич": 254,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000188022": 117,
+      "gas:candidate-vibid:1001000195158": 5,
+      "gas:candidate-vibid:1001000220851": 53,
+      "gas:candidate-vibid:1001000136140": 14,
+      "gas:candidate-vibid:374300267282": 180,
+      "gas:candidate-vibid:1001000121927": 57,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 21,
+      "gas:candidate-vibid:1001000112270": 19,
+      "gas:candidate-vibid:374300267375": 32,
+      "gas:candidate-vibid:374300267362": 31,
+      "gas:candidate-vibid:1001000131422": 254,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -228,19 +228,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 126,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 38,
-      "Груздев Владимир Владимирович": 11,
-      "Давыдов Сергей Викторович": 148,
-      "Иванов Анатолий Ильич": 26,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 17,
-      "Субботин Илья Сергеевич": 33,
-      "Филичкин Владимир Васильевич": 29,
-      "Юревич Даниил Михайлович": 16,
-      "Юревич Михаил Валериевич": 272,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000188022": 126,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 38,
+      "gas:candidate-vibid:1001000136140": 11,
+      "gas:candidate-vibid:374300267282": 148,
+      "gas:candidate-vibid:1001000121927": 26,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 17,
+      "gas:candidate-vibid:1001000112270": 33,
+      "gas:candidate-vibid:374300267375": 29,
+      "gas:candidate-vibid:374300267362": 16,
+      "gas:candidate-vibid:1001000131422": 272,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -290,19 +290,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 117,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 46,
-      "Груздев Владимир Владимирович": 11,
-      "Давыдов Сергей Викторович": 192,
-      "Иванов Анатолий Ильич": 35,
-      "Костромин Сергей Владимирович": 6,
-      "Патракова Любовь Ивановна": 21,
-      "Субботин Илья Сергеевич": 17,
-      "Филичкин Владимир Васильевич": 24,
-      "Юревич Даниил Михайлович": 25,
-      "Юревич Михаил Валериевич": 309,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000188022": 117,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 46,
+      "gas:candidate-vibid:1001000136140": 11,
+      "gas:candidate-vibid:374300267282": 192,
+      "gas:candidate-vibid:1001000121927": 35,
+      "gas:candidate-vibid:1001000250457": 6,
+      "gas:candidate-vibid:374300267255": 21,
+      "gas:candidate-vibid:1001000112270": 17,
+      "gas:candidate-vibid:374300267375": 24,
+      "gas:candidate-vibid:374300267362": 25,
+      "gas:candidate-vibid:1001000131422": 309,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -352,19 +352,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 189,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 48,
-      "Груздев Владимир Владимирович": 12,
-      "Давыдов Сергей Викторович": 168,
-      "Иванов Анатолий Ильич": 39,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 15,
-      "Субботин Илья Сергеевич": 20,
-      "Филичкин Владимир Васильевич": 44,
-      "Юревич Даниил Михайлович": 35,
-      "Юревич Михаил Валериевич": 328,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000188022": 189,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 48,
+      "gas:candidate-vibid:1001000136140": 12,
+      "gas:candidate-vibid:374300267282": 168,
+      "gas:candidate-vibid:1001000121927": 39,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 15,
+      "gas:candidate-vibid:1001000112270": 20,
+      "gas:candidate-vibid:374300267375": 44,
+      "gas:candidate-vibid:374300267362": 35,
+      "gas:candidate-vibid:1001000131422": 328,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -414,19 +414,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 93,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 32,
-      "Груздев Владимир Владимирович": 9,
-      "Давыдов Сергей Викторович": 131,
-      "Иванов Анатолий Ильич": 20,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 8,
-      "Субботин Илья Сергеевич": 16,
-      "Филичкин Владимир Васильевич": 42,
-      "Юревич Даниил Михайлович": 21,
-      "Юревич Михаил Валериевич": 332,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000188022": 93,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 32,
+      "gas:candidate-vibid:1001000136140": 9,
+      "gas:candidate-vibid:374300267282": 131,
+      "gas:candidate-vibid:1001000121927": 20,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 8,
+      "gas:candidate-vibid:1001000112270": 16,
+      "gas:candidate-vibid:374300267375": 42,
+      "gas:candidate-vibid:374300267362": 21,
+      "gas:candidate-vibid:1001000131422": 332,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -476,19 +476,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 102,
-      "Берко Владимир Маркович": 3,
-      "Бобиренко Нина Семеновна": 28,
-      "Груздев Владимир Владимирович": 5,
-      "Давыдов Сергей Викторович": 120,
-      "Иванов Анатолий Ильич": 40,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 12,
-      "Субботин Илья Сергеевич": 13,
-      "Филичкин Владимир Васильевич": 25,
-      "Юревич Даниил Михайлович": 17,
-      "Юревич Михаил Валериевич": 228,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000188022": 102,
+      "gas:candidate-vibid:1001000195158": 3,
+      "gas:candidate-vibid:1001000220851": 28,
+      "gas:candidate-vibid:1001000136140": 5,
+      "gas:candidate-vibid:374300267282": 120,
+      "gas:candidate-vibid:1001000121927": 40,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 12,
+      "gas:candidate-vibid:1001000112270": 13,
+      "gas:candidate-vibid:374300267375": 25,
+      "gas:candidate-vibid:374300267362": 17,
+      "gas:candidate-vibid:1001000131422": 228,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -538,19 +538,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 94,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 128,
-      "Груздев Владимир Владимирович": 13,
-      "Давыдов Сергей Викторович": 56,
-      "Иванов Анатолий Ильич": 28,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 13,
-      "Субботин Илья Сергеевич": 8,
-      "Филичкин Владимир Васильевич": 9,
-      "Юревич Даниил Михайлович": 31,
-      "Юревич Михаил Валериевич": 293,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000188022": 94,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 128,
+      "gas:candidate-vibid:1001000136140": 13,
+      "gas:candidate-vibid:374300267282": 56,
+      "gas:candidate-vibid:1001000121927": 28,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 13,
+      "gas:candidate-vibid:1001000112270": 8,
+      "gas:candidate-vibid:374300267375": 9,
+      "gas:candidate-vibid:374300267362": 31,
+      "gas:candidate-vibid:1001000131422": 293,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -600,19 +600,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 56,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 11,
-      "Груздев Владимир Владимирович": 0,
-      "Давыдов Сергей Викторович": 34,
-      "Иванов Анатолий Ильич": 7,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 1,
-      "Субботин Илья Сергеевич": 5,
-      "Филичкин Владимир Васильевич": 3,
-      "Юревич Даниил Михайлович": 15,
-      "Юревич Михаил Валериевич": 102,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000188022": 56,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 11,
+      "gas:candidate-vibid:1001000136140": 0,
+      "gas:candidate-vibid:374300267282": 34,
+      "gas:candidate-vibid:1001000121927": 7,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 1,
+      "gas:candidate-vibid:1001000112270": 5,
+      "gas:candidate-vibid:374300267375": 3,
+      "gas:candidate-vibid:374300267362": 15,
+      "gas:candidate-vibid:1001000131422": 102,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -662,19 +662,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 78,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 8,
-      "Груздев Владимир Владимирович": 5,
-      "Давыдов Сергей Викторович": 36,
-      "Иванов Анатолий Ильич": 10,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 3,
-      "Субботин Илья Сергеевич": 3,
-      "Филичкин Владимир Васильевич": 9,
-      "Юревич Даниил Михайлович": 13,
-      "Юревич Михаил Валериевич": 99,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000188022": 78,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 8,
+      "gas:candidate-vibid:1001000136140": 5,
+      "gas:candidate-vibid:374300267282": 36,
+      "gas:candidate-vibid:1001000121927": 10,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 3,
+      "gas:candidate-vibid:1001000112270": 3,
+      "gas:candidate-vibid:374300267375": 9,
+      "gas:candidate-vibid:374300267362": 13,
+      "gas:candidate-vibid:1001000131422": 99,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -724,19 +724,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 217,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 61,
-      "Груздев Владимир Владимирович": 29,
-      "Давыдов Сергей Викторович": 176,
-      "Иванов Анатолий Ильич": 61,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 21,
-      "Субботин Илья Сергеевич": 19,
-      "Филичкин Владимир Васильевич": 27,
-      "Юревич Даниил Михайлович": 63,
-      "Юревич Михаил Валериевич": 449,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000188022": 217,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 61,
+      "gas:candidate-vibid:1001000136140": 29,
+      "gas:candidate-vibid:374300267282": 176,
+      "gas:candidate-vibid:1001000121927": 61,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 21,
+      "gas:candidate-vibid:1001000112270": 19,
+      "gas:candidate-vibid:374300267375": 27,
+      "gas:candidate-vibid:374300267362": 63,
+      "gas:candidate-vibid:1001000131422": 449,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -786,19 +786,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 191,
-      "Берко Владимир Маркович": 5,
-      "Бобиренко Нина Семеновна": 110,
-      "Груздев Владимир Владимирович": 17,
-      "Давыдов Сергей Викторович": 160,
-      "Иванов Анатолий Ильич": 88,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 17,
-      "Субботин Илья Сергеевич": 14,
-      "Филичкин Владимир Васильевич": 41,
-      "Юревич Даниил Михайлович": 59,
-      "Юревич Михаил Валериевич": 569,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000188022": 191,
+      "gas:candidate-vibid:1001000195158": 5,
+      "gas:candidate-vibid:1001000220851": 110,
+      "gas:candidate-vibid:1001000136140": 17,
+      "gas:candidate-vibid:374300267282": 160,
+      "gas:candidate-vibid:1001000121927": 88,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 17,
+      "gas:candidate-vibid:1001000112270": 14,
+      "gas:candidate-vibid:374300267375": 41,
+      "gas:candidate-vibid:374300267362": 59,
+      "gas:candidate-vibid:1001000131422": 569,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -848,19 +848,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 151,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 28,
-      "Груздев Владимир Владимирович": 9,
-      "Давыдов Сергей Викторович": 150,
-      "Иванов Анатолий Ильич": 37,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 13,
-      "Субботин Илья Сергеевич": 17,
-      "Филичкин Владимир Васильевич": 23,
-      "Юревич Даниил Михайлович": 30,
-      "Юревич Михаил Валериевич": 345,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000188022": 151,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 28,
+      "gas:candidate-vibid:1001000136140": 9,
+      "gas:candidate-vibid:374300267282": 150,
+      "gas:candidate-vibid:1001000121927": 37,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 13,
+      "gas:candidate-vibid:1001000112270": 17,
+      "gas:candidate-vibid:374300267375": 23,
+      "gas:candidate-vibid:374300267362": 30,
+      "gas:candidate-vibid:1001000131422": 345,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -910,19 +910,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 158,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 31,
-      "Груздев Владимир Владимирович": 12,
-      "Давыдов Сергей Викторович": 188,
-      "Иванов Анатолий Ильич": 18,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 10,
-      "Субботин Илья Сергеевич": 20,
-      "Филичкин Владимир Васильевич": 27,
-      "Юревич Даниил Михайлович": 41,
-      "Юревич Михаил Валериевич": 358,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000188022": 158,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 31,
+      "gas:candidate-vibid:1001000136140": 12,
+      "gas:candidate-vibid:374300267282": 188,
+      "gas:candidate-vibid:1001000121927": 18,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 10,
+      "gas:candidate-vibid:1001000112270": 20,
+      "gas:candidate-vibid:374300267375": 27,
+      "gas:candidate-vibid:374300267362": 41,
+      "gas:candidate-vibid:1001000131422": 358,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -972,19 +972,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 143,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 23,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 167,
-      "Иванов Анатолий Ильич": 15,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 19,
-      "Субботин Илья Сергеевич": 12,
-      "Филичкин Владимир Васильевич": 31,
-      "Юревич Даниил Михайлович": 34,
-      "Юревич Михаил Валериевич": 338,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000188022": 143,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 23,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 167,
+      "gas:candidate-vibid:1001000121927": 15,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 19,
+      "gas:candidate-vibid:1001000112270": 12,
+      "gas:candidate-vibid:374300267375": 31,
+      "gas:candidate-vibid:374300267362": 34,
+      "gas:candidate-vibid:1001000131422": 338,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -1034,19 +1034,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 175,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 39,
-      "Груздев Владимир Владимирович": 14,
-      "Давыдов Сергей Викторович": 186,
-      "Иванов Анатолий Ильич": 32,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 29,
-      "Субботин Илья Сергеевич": 20,
-      "Филичкин Владимир Васильевич": 27,
-      "Юревич Даниил Михайлович": 27,
-      "Юревич Михаил Валериевич": 384,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000188022": 175,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 39,
+      "gas:candidate-vibid:1001000136140": 14,
+      "gas:candidate-vibid:374300267282": 186,
+      "gas:candidate-vibid:1001000121927": 32,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 29,
+      "gas:candidate-vibid:1001000112270": 20,
+      "gas:candidate-vibid:374300267375": 27,
+      "gas:candidate-vibid:374300267362": 27,
+      "gas:candidate-vibid:1001000131422": 384,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -1096,19 +1096,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 166,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 28,
-      "Груздев Владимир Владимирович": 10,
-      "Давыдов Сергей Викторович": 134,
-      "Иванов Анатолий Ильич": 28,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 16,
-      "Субботин Илья Сергеевич": 19,
-      "Филичкин Владимир Васильевич": 36,
-      "Юревич Даниил Михайлович": 27,
-      "Юревич Михаил Валериевич": 296,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000188022": 166,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 28,
+      "gas:candidate-vibid:1001000136140": 10,
+      "gas:candidate-vibid:374300267282": 134,
+      "gas:candidate-vibid:1001000121927": 28,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 16,
+      "gas:candidate-vibid:1001000112270": 19,
+      "gas:candidate-vibid:374300267375": 36,
+      "gas:candidate-vibid:374300267362": 27,
+      "gas:candidate-vibid:1001000131422": 296,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -1158,19 +1158,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 167,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 24,
-      "Груздев Владимир Владимирович": 19,
-      "Давыдов Сергей Викторович": 138,
-      "Иванов Анатолий Ильич": 25,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 13,
-      "Субботин Илья Сергеевич": 19,
-      "Филичкин Владимир Васильевич": 27,
-      "Юревич Даниил Михайлович": 24,
-      "Юревич Михаил Валериевич": 284,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000188022": 167,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 24,
+      "gas:candidate-vibid:1001000136140": 19,
+      "gas:candidate-vibid:374300267282": 138,
+      "gas:candidate-vibid:1001000121927": 25,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 13,
+      "gas:candidate-vibid:1001000112270": 19,
+      "gas:candidate-vibid:374300267375": 27,
+      "gas:candidate-vibid:374300267362": 24,
+      "gas:candidate-vibid:1001000131422": 284,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -1220,19 +1220,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 35,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 6,
-      "Груздев Владимир Владимирович": 2,
-      "Давыдов Сергей Викторович": 15,
-      "Иванов Анатолий Ильич": 6,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 1,
-      "Субботин Илья Сергеевич": 1,
-      "Филичкин Владимир Васильевич": 6,
-      "Юревич Даниил Михайлович": 19,
-      "Юревич Михаил Валериевич": 82,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000188022": 35,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 6,
+      "gas:candidate-vibid:1001000136140": 2,
+      "gas:candidate-vibid:374300267282": 15,
+      "gas:candidate-vibid:1001000121927": 6,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 1,
+      "gas:candidate-vibid:1001000112270": 1,
+      "gas:candidate-vibid:374300267375": 6,
+      "gas:candidate-vibid:374300267362": 19,
+      "gas:candidate-vibid:1001000131422": 82,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -1282,19 +1282,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 182,
-      "Берко Владимир Маркович": 7,
-      "Бобиренко Нина Семеновна": 35,
-      "Груздев Владимир Владимирович": 18,
-      "Давыдов Сергей Викторович": 112,
-      "Иванов Анатолий Ильич": 54,
-      "Костромин Сергей Владимирович": 10,
-      "Патракова Любовь Ивановна": 17,
-      "Субботин Илья Сергеевич": 13,
-      "Филичкин Владимир Васильевич": 9,
-      "Юревич Даниил Михайлович": 60,
-      "Юревич Михаил Валериевич": 549,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000188022": 182,
+      "gas:candidate-vibid:1001000195158": 7,
+      "gas:candidate-vibid:1001000220851": 35,
+      "gas:candidate-vibid:1001000136140": 18,
+      "gas:candidate-vibid:374300267282": 112,
+      "gas:candidate-vibid:1001000121927": 54,
+      "gas:candidate-vibid:1001000250457": 10,
+      "gas:candidate-vibid:374300267255": 17,
+      "gas:candidate-vibid:1001000112270": 13,
+      "gas:candidate-vibid:374300267375": 9,
+      "gas:candidate-vibid:374300267362": 60,
+      "gas:candidate-vibid:1001000131422": 549,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267864&region=0&sub_region=0&type=429",
@@ -1344,19 +1344,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 232,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 51,
-      "Груздев Владимир Владимирович": 6,
-      "Давыдов Сергей Викторович": 125,
-      "Иванов Анатолий Ильич": 68,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 14,
-      "Субботин Илья Сергеевич": 23,
-      "Филичкин Владимир Васильевич": 38,
-      "Юревич Даниил Михайлович": 30,
-      "Юревич Михаил Валериевич": 496,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000188022": 232,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 51,
+      "gas:candidate-vibid:1001000136140": 6,
+      "gas:candidate-vibid:374300267282": 125,
+      "gas:candidate-vibid:1001000121927": 68,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 14,
+      "gas:candidate-vibid:1001000112270": 23,
+      "gas:candidate-vibid:374300267375": 38,
+      "gas:candidate-vibid:374300267362": 30,
+      "gas:candidate-vibid:1001000131422": 496,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1406,19 +1406,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 265,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 40,
-      "Груздев Владимир Владимирович": 10,
-      "Давыдов Сергей Викторович": 175,
-      "Иванов Анатолий Ильич": 48,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 17,
-      "Субботин Илья Сергеевич": 35,
-      "Филичкин Владимир Васильевич": 40,
-      "Юревич Даниил Михайлович": 36,
-      "Юревич Михаил Валериевич": 508,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000188022": 265,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 40,
+      "gas:candidate-vibid:1001000136140": 10,
+      "gas:candidate-vibid:374300267282": 175,
+      "gas:candidate-vibid:1001000121927": 48,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 17,
+      "gas:candidate-vibid:1001000112270": 35,
+      "gas:candidate-vibid:374300267375": 40,
+      "gas:candidate-vibid:374300267362": 36,
+      "gas:candidate-vibid:1001000131422": 508,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1468,19 +1468,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 253,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 56,
-      "Груздев Владимир Владимирович": 21,
-      "Давыдов Сергей Викторович": 154,
-      "Иванов Анатолий Ильич": 61,
-      "Костромин Сергей Владимирович": 7,
-      "Патракова Любовь Ивановна": 20,
-      "Субботин Илья Сергеевич": 50,
-      "Филичкин Владимир Васильевич": 47,
-      "Юревич Даниил Михайлович": 40,
-      "Юревич Михаил Валериевич": 506,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000188022": 253,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 56,
+      "gas:candidate-vibid:1001000136140": 21,
+      "gas:candidate-vibid:374300267282": 154,
+      "gas:candidate-vibid:1001000121927": 61,
+      "gas:candidate-vibid:1001000250457": 7,
+      "gas:candidate-vibid:374300267255": 20,
+      "gas:candidate-vibid:1001000112270": 50,
+      "gas:candidate-vibid:374300267375": 47,
+      "gas:candidate-vibid:374300267362": 40,
+      "gas:candidate-vibid:1001000131422": 506,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1530,19 +1530,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 90,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 20,
-      "Груздев Владимир Владимирович": 4,
-      "Давыдов Сергей Викторович": 57,
-      "Иванов Анатолий Ильич": 23,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 10,
-      "Субботин Илья Сергеевич": 12,
-      "Филичкин Владимир Васильевич": 25,
-      "Юревич Даниил Михайлович": 14,
-      "Юревич Михаил Валериевич": 175,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000188022": 90,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 20,
+      "gas:candidate-vibid:1001000136140": 4,
+      "gas:candidate-vibid:374300267282": 57,
+      "gas:candidate-vibid:1001000121927": 23,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 10,
+      "gas:candidate-vibid:1001000112270": 12,
+      "gas:candidate-vibid:374300267375": 25,
+      "gas:candidate-vibid:374300267362": 14,
+      "gas:candidate-vibid:1001000131422": 175,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1592,19 +1592,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 123,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 7,
-      "Груздев Владимир Владимирович": 1,
-      "Давыдов Сергей Викторович": 63,
-      "Иванов Анатолий Ильич": 28,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 8,
-      "Субботин Илья Сергеевич": 12,
-      "Филичкин Владимир Васильевич": 26,
-      "Юревич Даниил Михайлович": 24,
-      "Юревич Михаил Валериевич": 223,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000188022": 123,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 7,
+      "gas:candidate-vibid:1001000136140": 1,
+      "gas:candidate-vibid:374300267282": 63,
+      "gas:candidate-vibid:1001000121927": 28,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 8,
+      "gas:candidate-vibid:1001000112270": 12,
+      "gas:candidate-vibid:374300267375": 26,
+      "gas:candidate-vibid:374300267362": 24,
+      "gas:candidate-vibid:1001000131422": 223,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1654,19 +1654,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 123,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 27,
-      "Груздев Владимир Владимирович": 5,
-      "Давыдов Сергей Викторович": 97,
-      "Иванов Анатолий Ильич": 35,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 10,
-      "Субботин Илья Сергеевич": 21,
-      "Филичкин Владимир Васильевич": 39,
-      "Юревич Даниил Михайлович": 47,
-      "Юревич Михаил Валериевич": 347,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000188022": 123,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 27,
+      "gas:candidate-vibid:1001000136140": 5,
+      "gas:candidate-vibid:374300267282": 97,
+      "gas:candidate-vibid:1001000121927": 35,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 10,
+      "gas:candidate-vibid:1001000112270": 21,
+      "gas:candidate-vibid:374300267375": 39,
+      "gas:candidate-vibid:374300267362": 47,
+      "gas:candidate-vibid:1001000131422": 347,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1716,19 +1716,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 181,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 30,
-      "Груздев Владимир Владимирович": 18,
-      "Давыдов Сергей Викторович": 143,
-      "Иванов Анатолий Ильич": 52,
-      "Костромин Сергей Владимирович": 7,
-      "Патракова Любовь Ивановна": 15,
-      "Субботин Илья Сергеевич": 41,
-      "Филичкин Владимир Васильевич": 54,
-      "Юревич Даниил Михайлович": 31,
-      "Юревич Михаил Валериевич": 421,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000188022": 181,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 30,
+      "gas:candidate-vibid:1001000136140": 18,
+      "gas:candidate-vibid:374300267282": 143,
+      "gas:candidate-vibid:1001000121927": 52,
+      "gas:candidate-vibid:1001000250457": 7,
+      "gas:candidate-vibid:374300267255": 15,
+      "gas:candidate-vibid:1001000112270": 41,
+      "gas:candidate-vibid:374300267375": 54,
+      "gas:candidate-vibid:374300267362": 31,
+      "gas:candidate-vibid:1001000131422": 421,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1778,19 +1778,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 244,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 36,
-      "Груздев Владимир Владимирович": 17,
-      "Давыдов Сергей Викторович": 240,
-      "Иванов Анатолий Ильич": 73,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 23,
-      "Субботин Илья Сергеевич": 41,
-      "Филичкин Владимир Васильевич": 83,
-      "Юревич Даниил Михайлович": 24,
-      "Юревич Михаил Валериевич": 416,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000188022": 244,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 36,
+      "gas:candidate-vibid:1001000136140": 17,
+      "gas:candidate-vibid:374300267282": 240,
+      "gas:candidate-vibid:1001000121927": 73,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 23,
+      "gas:candidate-vibid:1001000112270": 41,
+      "gas:candidate-vibid:374300267375": 83,
+      "gas:candidate-vibid:374300267362": 24,
+      "gas:candidate-vibid:1001000131422": 416,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1840,19 +1840,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 331,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 22,
-      "Груздев Владимир Владимирович": 11,
-      "Давыдов Сергей Викторович": 290,
-      "Иванов Анатолий Ильич": 82,
-      "Костромин Сергей Владимирович": 8,
-      "Патракова Любовь Ивановна": 21,
-      "Субботин Илья Сергеевич": 48,
-      "Филичкин Владимир Васильевич": 68,
-      "Юревич Даниил Михайлович": 24,
-      "Юревич Михаил Валериевич": 346,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000188022": 331,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 22,
+      "gas:candidate-vibid:1001000136140": 11,
+      "gas:candidate-vibid:374300267282": 290,
+      "gas:candidate-vibid:1001000121927": 82,
+      "gas:candidate-vibid:1001000250457": 8,
+      "gas:candidate-vibid:374300267255": 21,
+      "gas:candidate-vibid:1001000112270": 48,
+      "gas:candidate-vibid:374300267375": 68,
+      "gas:candidate-vibid:374300267362": 24,
+      "gas:candidate-vibid:1001000131422": 346,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1902,19 +1902,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 220,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 25,
-      "Груздев Владимир Владимирович": 9,
-      "Давыдов Сергей Викторович": 241,
-      "Иванов Анатолий Ильич": 57,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 22,
-      "Субботин Илья Сергеевич": 30,
-      "Филичкин Владимир Васильевич": 38,
-      "Юревич Даниил Михайлович": 21,
-      "Юревич Михаил Валериевич": 264,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000188022": 220,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 25,
+      "gas:candidate-vibid:1001000136140": 9,
+      "gas:candidate-vibid:374300267282": 241,
+      "gas:candidate-vibid:1001000121927": 57,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 22,
+      "gas:candidate-vibid:1001000112270": 30,
+      "gas:candidate-vibid:374300267375": 38,
+      "gas:candidate-vibid:374300267362": 21,
+      "gas:candidate-vibid:1001000131422": 264,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -1964,19 +1964,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 246,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 24,
-      "Груздев Владимир Владимирович": 3,
-      "Давыдов Сергей Викторович": 86,
-      "Иванов Анатолий Ильич": 31,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 7,
-      "Субботин Илья Сергеевич": 20,
-      "Филичкин Владимир Васильевич": 19,
-      "Юревич Даниил Михайлович": 17,
-      "Юревич Михаил Валериевич": 182,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000188022": 246,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 24,
+      "gas:candidate-vibid:1001000136140": 3,
+      "gas:candidate-vibid:374300267282": 86,
+      "gas:candidate-vibid:1001000121927": 31,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 7,
+      "gas:candidate-vibid:1001000112270": 20,
+      "gas:candidate-vibid:374300267375": 19,
+      "gas:candidate-vibid:374300267362": 17,
+      "gas:candidate-vibid:1001000131422": 182,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2026,19 +2026,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 7
     },
     "votes": {
-      "Берестов Александр Павлович": 186,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 22,
-      "Груздев Владимир Владимирович": 6,
-      "Давыдов Сергей Викторович": 139,
-      "Иванов Анатолий Ильич": 33,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 18,
-      "Субботин Илья Сергеевич": 25,
-      "Филичкин Владимир Васильевич": 22,
-      "Юревич Даниил Михайлович": 27,
-      "Юревич Михаил Валериевич": 285,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000188022": 186,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 22,
+      "gas:candidate-vibid:1001000136140": 6,
+      "gas:candidate-vibid:374300267282": 139,
+      "gas:candidate-vibid:1001000121927": 33,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 18,
+      "gas:candidate-vibid:1001000112270": 25,
+      "gas:candidate-vibid:374300267375": 22,
+      "gas:candidate-vibid:374300267362": 27,
+      "gas:candidate-vibid:1001000131422": 285,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2088,19 +2088,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 232,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 29,
-      "Груздев Владимир Владимирович": 7,
-      "Давыдов Сергей Викторович": 198,
-      "Иванов Анатолий Ильич": 37,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 12,
-      "Субботин Илья Сергеевич": 26,
-      "Филичкин Владимир Васильевич": 48,
-      "Юревич Даниил Михайлович": 22,
-      "Юревич Михаил Валериевич": 313,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000188022": 232,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 29,
+      "gas:candidate-vibid:1001000136140": 7,
+      "gas:candidate-vibid:374300267282": 198,
+      "gas:candidate-vibid:1001000121927": 37,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 12,
+      "gas:candidate-vibid:1001000112270": 26,
+      "gas:candidate-vibid:374300267375": 48,
+      "gas:candidate-vibid:374300267362": 22,
+      "gas:candidate-vibid:1001000131422": 313,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2150,19 +2150,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 227,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 28,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 176,
-      "Иванов Анатолий Ильич": 56,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 15,
-      "Субботин Илья Сергеевич": 25,
-      "Филичкин Владимир Васильевич": 43,
-      "Юревич Даниил Михайлович": 24,
-      "Юревич Михаил Валериевич": 333,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000188022": 227,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 28,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 176,
+      "gas:candidate-vibid:1001000121927": 56,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 15,
+      "gas:candidate-vibid:1001000112270": 25,
+      "gas:candidate-vibid:374300267375": 43,
+      "gas:candidate-vibid:374300267362": 24,
+      "gas:candidate-vibid:1001000131422": 333,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2212,19 +2212,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 250,
-      "Берко Владимир Маркович": 3,
-      "Бобиренко Нина Семеновна": 12,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 126,
-      "Иванов Анатолий Ильич": 56,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 9,
-      "Субботин Илья Сергеевич": 24,
-      "Филичкин Владимир Васильевич": 35,
-      "Юревич Даниил Михайлович": 23,
-      "Юревич Михаил Валериевич": 228,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000188022": 250,
+      "gas:candidate-vibid:1001000195158": 3,
+      "gas:candidate-vibid:1001000220851": 12,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 126,
+      "gas:candidate-vibid:1001000121927": 56,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 9,
+      "gas:candidate-vibid:1001000112270": 24,
+      "gas:candidate-vibid:374300267375": 35,
+      "gas:candidate-vibid:374300267362": 23,
+      "gas:candidate-vibid:1001000131422": 228,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2274,19 +2274,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 223,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 13,
-      "Груздев Владимир Владимирович": 2,
-      "Давыдов Сергей Викторович": 76,
-      "Иванов Анатолий Ильич": 18,
-      "Костромин Сергей Владимирович": 7,
-      "Патракова Любовь Ивановна": 7,
-      "Субботин Илья Сергеевич": 26,
-      "Филичкин Владимир Васильевич": 14,
-      "Юревич Даниил Михайлович": 34,
-      "Юревич Михаил Валериевич": 170,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000188022": 223,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 13,
+      "gas:candidate-vibid:1001000136140": 2,
+      "gas:candidate-vibid:374300267282": 76,
+      "gas:candidate-vibid:1001000121927": 18,
+      "gas:candidate-vibid:1001000250457": 7,
+      "gas:candidate-vibid:374300267255": 7,
+      "gas:candidate-vibid:1001000112270": 26,
+      "gas:candidate-vibid:374300267375": 14,
+      "gas:candidate-vibid:374300267362": 34,
+      "gas:candidate-vibid:1001000131422": 170,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2336,19 +2336,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 389,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 4,
-      "Груздев Владимир Владимирович": 2,
-      "Давыдов Сергей Викторович": 25,
-      "Иванов Анатолий Ильич": 13,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 2,
-      "Субботин Илья Сергеевич": 3,
-      "Филичкин Владимир Васильевич": 11,
-      "Юревич Даниил Михайлович": 15,
-      "Юревич Михаил Валериевич": 151,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000188022": 389,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 4,
+      "gas:candidate-vibid:1001000136140": 2,
+      "gas:candidate-vibid:374300267282": 25,
+      "gas:candidate-vibid:1001000121927": 13,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 2,
+      "gas:candidate-vibid:1001000112270": 3,
+      "gas:candidate-vibid:374300267375": 11,
+      "gas:candidate-vibid:374300267362": 15,
+      "gas:candidate-vibid:1001000131422": 151,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2398,19 +2398,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 239,
-      "Берко Владимир Маркович": 5,
-      "Бобиренко Нина Семеновна": 8,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 90,
-      "Иванов Анатолий Ильич": 19,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 9,
-      "Субботин Илья Сергеевич": 27,
-      "Филичкин Владимир Васильевич": 12,
-      "Юревич Даниил Михайлович": 27,
-      "Юревич Михаил Валериевич": 160,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000188022": 239,
+      "gas:candidate-vibid:1001000195158": 5,
+      "gas:candidate-vibid:1001000220851": 8,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 90,
+      "gas:candidate-vibid:1001000121927": 19,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 9,
+      "gas:candidate-vibid:1001000112270": 27,
+      "gas:candidate-vibid:374300267375": 12,
+      "gas:candidate-vibid:374300267362": 27,
+      "gas:candidate-vibid:1001000131422": 160,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2460,19 +2460,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 270,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 24,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 100,
-      "Иванов Анатолий Ильич": 52,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 20,
-      "Субботин Илья Сергеевич": 25,
-      "Филичкин Владимир Васильевич": 43,
-      "Юревич Даниил Михайлович": 32,
-      "Юревич Михаил Валериевич": 263,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000188022": 270,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 24,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 100,
+      "gas:candidate-vibid:1001000121927": 52,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 20,
+      "gas:candidate-vibid:1001000112270": 25,
+      "gas:candidate-vibid:374300267375": 43,
+      "gas:candidate-vibid:374300267362": 32,
+      "gas:candidate-vibid:1001000131422": 263,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2522,19 +2522,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 280,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 26,
-      "Груздев Владимир Владимирович": 6,
-      "Давыдов Сергей Викторович": 175,
-      "Иванов Анатолий Ильич": 88,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 10,
-      "Субботин Илья Сергеевич": 49,
-      "Филичкин Владимир Васильевич": 39,
-      "Юревич Даниил Михайлович": 18,
-      "Юревич Михаил Валериевич": 216,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000188022": 280,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 26,
+      "gas:candidate-vibid:1001000136140": 6,
+      "gas:candidate-vibid:374300267282": 175,
+      "gas:candidate-vibid:1001000121927": 88,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 10,
+      "gas:candidate-vibid:1001000112270": 49,
+      "gas:candidate-vibid:374300267375": 39,
+      "gas:candidate-vibid:374300267362": 18,
+      "gas:candidate-vibid:1001000131422": 216,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2584,19 +2584,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 202,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 19,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 173,
-      "Иванов Анатолий Ильич": 32,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 5,
-      "Субботин Илья Сергеевич": 27,
-      "Филичкин Владимир Васильевич": 25,
-      "Юревич Даниил Михайлович": 14,
-      "Юревич Михаил Валериевич": 172,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000188022": 202,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 19,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 173,
+      "gas:candidate-vibid:1001000121927": 32,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 5,
+      "gas:candidate-vibid:1001000112270": 27,
+      "gas:candidate-vibid:374300267375": 25,
+      "gas:candidate-vibid:374300267362": 14,
+      "gas:candidate-vibid:1001000131422": 172,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2646,19 +2646,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 235,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 19,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 111,
-      "Иванов Анатолий Ильич": 37,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 13,
-      "Субботин Илья Сергеевич": 26,
-      "Филичкин Владимир Васильевич": 32,
-      "Юревич Даниил Михайлович": 33,
-      "Юревич Михаил Валериевич": 237,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000188022": 235,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 19,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 111,
+      "gas:candidate-vibid:1001000121927": 37,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 13,
+      "gas:candidate-vibid:1001000112270": 26,
+      "gas:candidate-vibid:374300267375": 32,
+      "gas:candidate-vibid:374300267362": 33,
+      "gas:candidate-vibid:1001000131422": 237,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2708,19 +2708,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 202,
-      "Берко Владимир Маркович": 4,
-      "Бобиренко Нина Семеновна": 34,
-      "Груздев Владимир Владимирович": 6,
-      "Давыдов Сергей Викторович": 127,
-      "Иванов Анатолий Ильич": 39,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 12,
-      "Субботин Илья Сергеевич": 19,
-      "Филичкин Владимир Васильевич": 30,
-      "Юревич Даниил Михайлович": 15,
-      "Юревич Михаил Валериевич": 247,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000188022": 202,
+      "gas:candidate-vibid:1001000195158": 4,
+      "gas:candidate-vibid:1001000220851": 34,
+      "gas:candidate-vibid:1001000136140": 6,
+      "gas:candidate-vibid:374300267282": 127,
+      "gas:candidate-vibid:1001000121927": 39,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 12,
+      "gas:candidate-vibid:1001000112270": 19,
+      "gas:candidate-vibid:374300267375": 30,
+      "gas:candidate-vibid:374300267362": 15,
+      "gas:candidate-vibid:1001000131422": 247,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2770,19 +2770,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 271,
-      "Берко Владимир Маркович": 3,
-      "Бобиренко Нина Семеновна": 19,
-      "Груздев Владимир Владимирович": 14,
-      "Давыдов Сергей Викторович": 155,
-      "Иванов Анатолий Ильич": 34,
-      "Костромин Сергей Владимирович": 5,
-      "Патракова Любовь Ивановна": 12,
-      "Субботин Илья Сергеевич": 20,
-      "Филичкин Владимир Васильевич": 38,
-      "Юревич Даниил Михайлович": 23,
-      "Юревич Михаил Валериевич": 269,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000188022": 271,
+      "gas:candidate-vibid:1001000195158": 3,
+      "gas:candidate-vibid:1001000220851": 19,
+      "gas:candidate-vibid:1001000136140": 14,
+      "gas:candidate-vibid:374300267282": 155,
+      "gas:candidate-vibid:1001000121927": 34,
+      "gas:candidate-vibid:1001000250457": 5,
+      "gas:candidate-vibid:374300267255": 12,
+      "gas:candidate-vibid:1001000112270": 20,
+      "gas:candidate-vibid:374300267375": 38,
+      "gas:candidate-vibid:374300267362": 23,
+      "gas:candidate-vibid:1001000131422": 269,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2832,19 +2832,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 324,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 28,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 152,
-      "Иванов Анатолий Ильич": 65,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 17,
-      "Субботин Илья Сергеевич": 33,
-      "Филичкин Владимир Васильевич": 46,
-      "Юревич Даниил Михайлович": 33,
-      "Юревич Михаил Валериевич": 379,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000188022": 324,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 28,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 152,
+      "gas:candidate-vibid:1001000121927": 65,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 17,
+      "gas:candidate-vibid:1001000112270": 33,
+      "gas:candidate-vibid:374300267375": 46,
+      "gas:candidate-vibid:374300267362": 33,
+      "gas:candidate-vibid:1001000131422": 379,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2894,19 +2894,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 256,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 30,
-      "Груздев Владимир Владимирович": 13,
-      "Давыдов Сергей Викторович": 208,
-      "Иванов Анатолий Ильич": 76,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 31,
-      "Субботин Илья Сергеевич": 51,
-      "Филичкин Владимир Васильевич": 41,
-      "Юревич Даниил Михайлович": 32,
-      "Юревич Михаил Валериевич": 380,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000188022": 256,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 30,
+      "gas:candidate-vibid:1001000136140": 13,
+      "gas:candidate-vibid:374300267282": 208,
+      "gas:candidate-vibid:1001000121927": 76,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 31,
+      "gas:candidate-vibid:1001000112270": 51,
+      "gas:candidate-vibid:374300267375": 41,
+      "gas:candidate-vibid:374300267362": 32,
+      "gas:candidate-vibid:1001000131422": 380,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -2956,19 +2956,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 306,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 38,
-      "Груздев Владимир Владимирович": 19,
-      "Давыдов Сергей Викторович": 151,
-      "Иванов Анатолий Ильич": 55,
-      "Костромин Сергей Владимирович": 6,
-      "Патракова Любовь Ивановна": 16,
-      "Субботин Илья Сергеевич": 38,
-      "Филичкин Владимир Васильевич": 40,
-      "Юревич Даниил Михайлович": 22,
-      "Юревич Михаил Валериевич": 301,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000188022": 306,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 38,
+      "gas:candidate-vibid:1001000136140": 19,
+      "gas:candidate-vibid:374300267282": 151,
+      "gas:candidate-vibid:1001000121927": 55,
+      "gas:candidate-vibid:1001000250457": 6,
+      "gas:candidate-vibid:374300267255": 16,
+      "gas:candidate-vibid:1001000112270": 38,
+      "gas:candidate-vibid:374300267375": 40,
+      "gas:candidate-vibid:374300267362": 22,
+      "gas:candidate-vibid:1001000131422": 301,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3018,19 +3018,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 282,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 51,
-      "Груздев Владимир Владимирович": 7,
-      "Давыдов Сергей Викторович": 161,
-      "Иванов Анатолий Ильич": 54,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 34,
-      "Субботин Илья Сергеевич": 41,
-      "Филичкин Владимир Васильевич": 48,
-      "Юревич Даниил Михайлович": 27,
-      "Юревич Михаил Валериевич": 435,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000188022": 282,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 51,
+      "gas:candidate-vibid:1001000136140": 7,
+      "gas:candidate-vibid:374300267282": 161,
+      "gas:candidate-vibid:1001000121927": 54,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 34,
+      "gas:candidate-vibid:1001000112270": 41,
+      "gas:candidate-vibid:374300267375": 48,
+      "gas:candidate-vibid:374300267362": 27,
+      "gas:candidate-vibid:1001000131422": 435,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3080,19 +3080,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 263,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 24,
-      "Груздев Владимир Владимирович": 12,
-      "Давыдов Сергей Викторович": 175,
-      "Иванов Анатолий Ильич": 61,
-      "Костромин Сергей Владимирович": 7,
-      "Патракова Любовь Ивановна": 16,
-      "Субботин Илья Сергеевич": 32,
-      "Филичкин Владимир Васильевич": 29,
-      "Юревич Даниил Михайлович": 27,
-      "Юревич Михаил Валериевич": 330,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000188022": 263,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 24,
+      "gas:candidate-vibid:1001000136140": 12,
+      "gas:candidate-vibid:374300267282": 175,
+      "gas:candidate-vibid:1001000121927": 61,
+      "gas:candidate-vibid:1001000250457": 7,
+      "gas:candidate-vibid:374300267255": 16,
+      "gas:candidate-vibid:1001000112270": 32,
+      "gas:candidate-vibid:374300267375": 29,
+      "gas:candidate-vibid:374300267362": 27,
+      "gas:candidate-vibid:1001000131422": 330,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3142,19 +3142,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 206,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 14,
-      "Груздев Владимир Владимирович": 2,
-      "Давыдов Сергей Викторович": 145,
-      "Иванов Анатолий Ильич": 45,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 8,
-      "Субботин Илья Сергеевич": 18,
-      "Филичкин Владимир Васильевич": 38,
-      "Юревич Даниил Михайлович": 20,
-      "Юревич Михаил Валериевич": 294,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000188022": 206,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 14,
+      "gas:candidate-vibid:1001000136140": 2,
+      "gas:candidate-vibid:374300267282": 145,
+      "gas:candidate-vibid:1001000121927": 45,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 8,
+      "gas:candidate-vibid:1001000112270": 18,
+      "gas:candidate-vibid:374300267375": 38,
+      "gas:candidate-vibid:374300267362": 20,
+      "gas:candidate-vibid:1001000131422": 294,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3204,19 +3204,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 163,
-      "Берко Владимир Маркович": 3,
-      "Бобиренко Нина Семеновна": 17,
-      "Груздев Владимир Владимирович": 6,
-      "Давыдов Сергей Викторович": 68,
-      "Иванов Анатолий Ильич": 6,
-      "Костромин Сергей Владимирович": 0,
-      "Патракова Любовь Ивановна": 9,
-      "Субботин Илья Сергеевич": 22,
-      "Филичкин Владимир Васильевич": 11,
-      "Юревич Даниил Михайлович": 13,
-      "Юревич Михаил Валериевич": 140,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000188022": 163,
+      "gas:candidate-vibid:1001000195158": 3,
+      "gas:candidate-vibid:1001000220851": 17,
+      "gas:candidate-vibid:1001000136140": 6,
+      "gas:candidate-vibid:374300267282": 68,
+      "gas:candidate-vibid:1001000121927": 6,
+      "gas:candidate-vibid:1001000250457": 0,
+      "gas:candidate-vibid:374300267255": 9,
+      "gas:candidate-vibid:1001000112270": 22,
+      "gas:candidate-vibid:374300267375": 11,
+      "gas:candidate-vibid:374300267362": 13,
+      "gas:candidate-vibid:1001000131422": 140,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3266,19 +3266,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 294,
-      "Берко Владимир Маркович": 4,
-      "Бобиренко Нина Семеновна": 41,
-      "Груздев Владимир Владимирович": 14,
-      "Давыдов Сергей Викторович": 199,
-      "Иванов Анатолий Ильич": 42,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 21,
-      "Субботин Илья Сергеевич": 50,
-      "Филичкин Владимир Васильевич": 50,
-      "Юревич Даниил Михайлович": 24,
-      "Юревич Михаил Валериевич": 363,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000188022": 294,
+      "gas:candidate-vibid:1001000195158": 4,
+      "gas:candidate-vibid:1001000220851": 41,
+      "gas:candidate-vibid:1001000136140": 14,
+      "gas:candidate-vibid:374300267282": 199,
+      "gas:candidate-vibid:1001000121927": 42,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 21,
+      "gas:candidate-vibid:1001000112270": 50,
+      "gas:candidate-vibid:374300267375": 50,
+      "gas:candidate-vibid:374300267362": 24,
+      "gas:candidate-vibid:1001000131422": 363,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3328,19 +3328,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 354,
-      "Берко Владимир Маркович": 3,
-      "Бобиренко Нина Семеновна": 49,
-      "Груздев Владимир Владимирович": 8,
-      "Давыдов Сергей Викторович": 159,
-      "Иванов Анатолий Ильич": 77,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 17,
-      "Субботин Илья Сергеевич": 39,
-      "Филичкин Владимир Васильевич": 59,
-      "Юревич Даниил Михайлович": 36,
-      "Юревич Михаил Валериевич": 274,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000188022": 354,
+      "gas:candidate-vibid:1001000195158": 3,
+      "gas:candidate-vibid:1001000220851": 49,
+      "gas:candidate-vibid:1001000136140": 8,
+      "gas:candidate-vibid:374300267282": 159,
+      "gas:candidate-vibid:1001000121927": 77,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 17,
+      "gas:candidate-vibid:1001000112270": 39,
+      "gas:candidate-vibid:374300267375": 59,
+      "gas:candidate-vibid:374300267362": 36,
+      "gas:candidate-vibid:1001000131422": 274,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3390,19 +3390,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 242,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 11,
-      "Груздев Владимир Владимирович": 5,
-      "Давыдов Сергей Викторович": 102,
-      "Иванов Анатолий Ильич": 23,
-      "Костромин Сергей Владимирович": 2,
-      "Патракова Любовь Ивановна": 7,
-      "Субботин Илья Сергеевич": 9,
-      "Филичкин Владимир Васильевич": 23,
-      "Юревич Даниил Михайлович": 49,
-      "Юревич Михаил Валериевич": 406,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000188022": 242,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 11,
+      "gas:candidate-vibid:1001000136140": 5,
+      "gas:candidate-vibid:374300267282": 102,
+      "gas:candidate-vibid:1001000121927": 23,
+      "gas:candidate-vibid:1001000250457": 2,
+      "gas:candidate-vibid:374300267255": 7,
+      "gas:candidate-vibid:1001000112270": 9,
+      "gas:candidate-vibid:374300267375": 23,
+      "gas:candidate-vibid:374300267362": 49,
+      "gas:candidate-vibid:1001000131422": 406,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3452,19 +3452,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 260,
-      "Берко Владимир Маркович": 5,
-      "Бобиренко Нина Семеновна": 12,
-      "Груздев Владимир Владимирович": 5,
-      "Давыдов Сергей Викторович": 76,
-      "Иванов Анатолий Ильич": 39,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 12,
-      "Субботин Илья Сергеевич": 20,
-      "Филичкин Владимир Васильевич": 40,
-      "Юревич Даниил Михайлович": 13,
-      "Юревич Михаил Валериевич": 216,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000188022": 260,
+      "gas:candidate-vibid:1001000195158": 5,
+      "gas:candidate-vibid:1001000220851": 12,
+      "gas:candidate-vibid:1001000136140": 5,
+      "gas:candidate-vibid:374300267282": 76,
+      "gas:candidate-vibid:1001000121927": 39,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 12,
+      "gas:candidate-vibid:1001000112270": 20,
+      "gas:candidate-vibid:374300267375": 40,
+      "gas:candidate-vibid:374300267362": 13,
+      "gas:candidate-vibid:1001000131422": 216,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3514,19 +3514,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 281,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 24,
-      "Груздев Владимир Владимирович": 5,
-      "Давыдов Сергей Викторович": 96,
-      "Иванов Анатолий Ильич": 30,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 14,
-      "Субботин Илья Сергеевич": 26,
-      "Филичкин Владимир Васильевич": 39,
-      "Юревич Даниил Михайлович": 16,
-      "Юревич Михаил Валериевич": 196,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000188022": 281,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 24,
+      "gas:candidate-vibid:1001000136140": 5,
+      "gas:candidate-vibid:374300267282": 96,
+      "gas:candidate-vibid:1001000121927": 30,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 14,
+      "gas:candidate-vibid:1001000112270": 26,
+      "gas:candidate-vibid:374300267375": 39,
+      "gas:candidate-vibid:374300267362": 16,
+      "gas:candidate-vibid:1001000131422": 196,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3576,19 +3576,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 163,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 24,
-      "Груздев Владимир Владимирович": 6,
-      "Давыдов Сергей Викторович": 100,
-      "Иванов Анатолий Ильич": 25,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 11,
-      "Субботин Илья Сергеевич": 16,
-      "Филичкин Владимир Васильевич": 27,
-      "Юревич Даниил Михайлович": 13,
-      "Юревич Михаил Валериевич": 189,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000188022": 163,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 24,
+      "gas:candidate-vibid:1001000136140": 6,
+      "gas:candidate-vibid:374300267282": 100,
+      "gas:candidate-vibid:1001000121927": 25,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 11,
+      "gas:candidate-vibid:1001000112270": 16,
+      "gas:candidate-vibid:374300267375": 27,
+      "gas:candidate-vibid:374300267362": 13,
+      "gas:candidate-vibid:1001000131422": 189,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3638,19 +3638,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 204,
-      "Берко Владимир Маркович": 0,
-      "Бобиренко Нина Семеновна": 41,
-      "Груздев Владимир Владимирович": 7,
-      "Давыдов Сергей Викторович": 67,
-      "Иванов Анатолий Ильич": 36,
-      "Костромин Сергей Владимирович": 3,
-      "Патракова Любовь Ивановна": 6,
-      "Субботин Илья Сергеевич": 19,
-      "Филичкин Владимир Васильевич": 15,
-      "Юревич Даниил Михайлович": 19,
-      "Юревич Михаил Валериевич": 160,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000188022": 204,
+      "gas:candidate-vibid:1001000195158": 0,
+      "gas:candidate-vibid:1001000220851": 41,
+      "gas:candidate-vibid:1001000136140": 7,
+      "gas:candidate-vibid:374300267282": 67,
+      "gas:candidate-vibid:1001000121927": 36,
+      "gas:candidate-vibid:1001000250457": 3,
+      "gas:candidate-vibid:374300267255": 6,
+      "gas:candidate-vibid:1001000112270": 19,
+      "gas:candidate-vibid:374300267375": 15,
+      "gas:candidate-vibid:374300267362": 19,
+      "gas:candidate-vibid:1001000131422": 160,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3700,19 +3700,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 167,
-      "Берко Владимир Маркович": 3,
-      "Бобиренко Нина Семеновна": 30,
-      "Груздев Владимир Владимирович": 18,
-      "Давыдов Сергей Викторович": 121,
-      "Иванов Анатолий Ильич": 15,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 15,
-      "Субботин Илья Сергеевич": 30,
-      "Филичкин Владимир Васильевич": 39,
-      "Юревич Даниил Михайлович": 29,
-      "Юревич Михаил Валериевич": 349,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000188022": 167,
+      "gas:candidate-vibid:1001000195158": 3,
+      "gas:candidate-vibid:1001000220851": 30,
+      "gas:candidate-vibid:1001000136140": 18,
+      "gas:candidate-vibid:374300267282": 121,
+      "gas:candidate-vibid:1001000121927": 15,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 15,
+      "gas:candidate-vibid:1001000112270": 30,
+      "gas:candidate-vibid:374300267375": 39,
+      "gas:candidate-vibid:374300267362": 29,
+      "gas:candidate-vibid:1001000131422": 349,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3762,19 +3762,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 199,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 5,
-      "Груздев Владимир Владимирович": 14,
-      "Давыдов Сергей Викторович": 75,
-      "Иванов Анатолий Ильич": 10,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 10,
-      "Субботин Илья Сергеевич": 5,
-      "Филичкин Владимир Васильевич": 22,
-      "Юревич Даниил Михайлович": 39,
-      "Юревич Михаил Валериевич": 267,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000188022": 199,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 5,
+      "gas:candidate-vibid:1001000136140": 14,
+      "gas:candidate-vibid:374300267282": 75,
+      "gas:candidate-vibid:1001000121927": 10,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 10,
+      "gas:candidate-vibid:1001000112270": 5,
+      "gas:candidate-vibid:374300267375": 22,
+      "gas:candidate-vibid:374300267362": 39,
+      "gas:candidate-vibid:1001000131422": 267,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3824,19 +3824,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 83,
-      "Берко Владимир Маркович": 1,
-      "Бобиренко Нина Семеновна": 10,
-      "Груздев Владимир Владимирович": 2,
-      "Давыдов Сергей Викторович": 31,
-      "Иванов Анатолий Ильич": 14,
-      "Костромин Сергей Владимирович": 4,
-      "Патракова Любовь Ивановна": 11,
-      "Субботин Илья Сергеевич": 3,
-      "Филичкин Владимир Васильевич": 10,
-      "Юревич Даниил Михайлович": 8,
-      "Юревич Михаил Валериевич": 70,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000188022": 83,
+      "gas:candidate-vibid:1001000195158": 1,
+      "gas:candidate-vibid:1001000220851": 10,
+      "gas:candidate-vibid:1001000136140": 2,
+      "gas:candidate-vibid:374300267282": 31,
+      "gas:candidate-vibid:1001000121927": 14,
+      "gas:candidate-vibid:1001000250457": 4,
+      "gas:candidate-vibid:374300267255": 11,
+      "gas:candidate-vibid:1001000112270": 3,
+      "gas:candidate-vibid:374300267375": 10,
+      "gas:candidate-vibid:374300267362": 8,
+      "gas:candidate-vibid:1001000131422": 70,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3886,19 +3886,19 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Берестов Александр Павлович": 27,
-      "Берко Владимир Маркович": 2,
-      "Бобиренко Нина Семеновна": 5,
-      "Груздев Владимир Владимирович": 1,
-      "Давыдов Сергей Викторович": 12,
-      "Иванов Анатолий Ильич": 12,
-      "Костромин Сергей Владимирович": 1,
-      "Патракова Любовь Ивановна": 2,
-      "Субботин Илья Сергеевич": 3,
-      "Филичкин Владимир Васильевич": 8,
-      "Юревич Даниил Михайлович": 9,
-      "Юревич Михаил Валериевич": 37,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000188022": 27,
+      "gas:candidate-vibid:1001000195158": 2,
+      "gas:candidate-vibid:1001000220851": 5,
+      "gas:candidate-vibid:1001000136140": 1,
+      "gas:candidate-vibid:374300267282": 12,
+      "gas:candidate-vibid:1001000121927": 12,
+      "gas:candidate-vibid:1001000250457": 1,
+      "gas:candidate-vibid:374300267255": 2,
+      "gas:candidate-vibid:1001000112270": 3,
+      "gas:candidate-vibid:374300267375": 8,
+      "gas:candidate-vibid:374300267362": 9,
+      "gas:candidate-vibid:1001000131422": 37,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300267865&region=0&sub_region=0&type=429",
@@ -3948,14 +3948,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 601,
-      "Емелин Александр Сергеевич": 29,
-      "Живолук Александр Юрьевич": 57,
-      "Звягинцев Василий Петрович": 10,
-      "Кобжасарова Фатима Гумаровна": 18,
-      "Комков Сергей Константинович": 29,
-      "Мицуков Александр Федорович": 206,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000225999": 601,
+      "gas:candidate-vibid:1001000289815": 29,
+      "gas:candidate-vibid:1001000126651": 57,
+      "gas:candidate-vibid:374300366874": 10,
+      "gas:candidate-vibid:1001000112271": 18,
+      "gas:candidate-vibid:1001000217964": 29,
+      "gas:candidate-vibid:1001000220852": 206,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4005,14 +4005,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 931,
-      "Емелин Александр Сергеевич": 43,
-      "Живолук Александр Юрьевич": 48,
-      "Звягинцев Василий Петрович": 9,
-      "Кобжасарова Фатима Гумаровна": 16,
-      "Комков Сергей Константинович": 43,
-      "Мицуков Александр Федорович": 184,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000225999": 931,
+      "gas:candidate-vibid:1001000289815": 43,
+      "gas:candidate-vibid:1001000126651": 48,
+      "gas:candidate-vibid:374300366874": 9,
+      "gas:candidate-vibid:1001000112271": 16,
+      "gas:candidate-vibid:1001000217964": 43,
+      "gas:candidate-vibid:1001000220852": 184,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4062,14 +4062,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 706,
-      "Емелин Александр Сергеевич": 39,
-      "Живолук Александр Юрьевич": 65,
-      "Звягинцев Василий Петрович": 10,
-      "Кобжасарова Фатима Гумаровна": 18,
-      "Комков Сергей Константинович": 43,
-      "Мицуков Александр Федорович": 160,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000225999": 706,
+      "gas:candidate-vibid:1001000289815": 39,
+      "gas:candidate-vibid:1001000126651": 65,
+      "gas:candidate-vibid:374300366874": 10,
+      "gas:candidate-vibid:1001000112271": 18,
+      "gas:candidate-vibid:1001000217964": 43,
+      "gas:candidate-vibid:1001000220852": 160,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4119,14 +4119,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 329,
-      "Емелин Александр Сергеевич": 28,
-      "Живолук Александр Юрьевич": 19,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 13,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 110,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000225999": 329,
+      "gas:candidate-vibid:1001000289815": 28,
+      "gas:candidate-vibid:1001000126651": 19,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 13,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 110,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4176,14 +4176,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 212,
-      "Емелин Александр Сергеевич": 15,
-      "Живолук Александр Юрьевич": 18,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 12,
-      "Комков Сергей Константинович": 14,
-      "Мицуков Александр Федорович": 39,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225999": 212,
+      "gas:candidate-vibid:1001000289815": 15,
+      "gas:candidate-vibid:1001000126651": 18,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 12,
+      "gas:candidate-vibid:1001000217964": 14,
+      "gas:candidate-vibid:1001000220852": 39,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4233,14 +4233,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 50,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225999": 50,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4290,14 +4290,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 86,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 14,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225999": 86,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 14,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4347,14 +4347,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 56,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 50,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225999": 56,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 50,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4404,14 +4404,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 729,
-      "Емелин Александр Сергеевич": 36,
-      "Живолук Александр Юрьевич": 56,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 17,
-      "Комков Сергей Константинович": 48,
-      "Мицуков Александр Федорович": 133,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000225999": 729,
+      "gas:candidate-vibid:1001000289815": 36,
+      "gas:candidate-vibid:1001000126651": 56,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 17,
+      "gas:candidate-vibid:1001000217964": 48,
+      "gas:candidate-vibid:1001000220852": 133,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4461,14 +4461,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 691,
-      "Емелин Александр Сергеевич": 24,
-      "Живолук Александр Юрьевич": 69,
-      "Звягинцев Василий Петрович": 12,
-      "Кобжасарова Фатима Гумаровна": 24,
-      "Комков Сергей Константинович": 43,
-      "Мицуков Александр Федорович": 214,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000225999": 691,
+      "gas:candidate-vibid:1001000289815": 24,
+      "gas:candidate-vibid:1001000126651": 69,
+      "gas:candidate-vibid:374300366874": 12,
+      "gas:candidate-vibid:1001000112271": 24,
+      "gas:candidate-vibid:1001000217964": 43,
+      "gas:candidate-vibid:1001000220852": 214,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4518,14 +4518,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 778,
-      "Емелин Александр Сергеевич": 43,
-      "Живолук Александр Юрьевич": 39,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 33,
-      "Комков Сергей Константинович": 49,
-      "Мицуков Александр Федорович": 150,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000225999": 778,
+      "gas:candidate-vibid:1001000289815": 43,
+      "gas:candidate-vibid:1001000126651": 39,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 33,
+      "gas:candidate-vibid:1001000217964": 49,
+      "gas:candidate-vibid:1001000220852": 150,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4575,14 +4575,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 733,
-      "Емелин Александр Сергеевич": 52,
-      "Живолук Александр Юрьевич": 52,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 22,
-      "Комков Сергей Константинович": 40,
-      "Мицуков Александр Федорович": 171,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000225999": 733,
+      "gas:candidate-vibid:1001000289815": 52,
+      "gas:candidate-vibid:1001000126651": 52,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 22,
+      "gas:candidate-vibid:1001000217964": 40,
+      "gas:candidate-vibid:1001000220852": 171,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4632,14 +4632,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 606,
-      "Емелин Александр Сергеевич": 27,
-      "Живолук Александр Юрьевич": 33,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 21,
-      "Комков Сергей Константинович": 22,
-      "Мицуков Александр Федорович": 108,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000225999": 606,
+      "gas:candidate-vibid:1001000289815": 27,
+      "gas:candidate-vibid:1001000126651": 33,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 21,
+      "gas:candidate-vibid:1001000217964": 22,
+      "gas:candidate-vibid:1001000220852": 108,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4689,14 +4689,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 93,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 10,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 84,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225999": 93,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 10,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 84,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4746,14 +4746,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 764,
-      "Емелин Александр Сергеевич": 38,
-      "Живолук Александр Юрьевич": 70,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 28,
-      "Комков Сергей Константинович": 51,
-      "Мицуков Александр Федорович": 192,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000225999": 764,
+      "gas:candidate-vibid:1001000289815": 38,
+      "gas:candidate-vibid:1001000126651": 70,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 28,
+      "gas:candidate-vibid:1001000217964": 51,
+      "gas:candidate-vibid:1001000220852": 192,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4803,14 +4803,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 857,
-      "Емелин Александр Сергеевич": 24,
-      "Живолук Александр Юрьевич": 69,
-      "Звягинцев Василий Петрович": 7,
-      "Кобжасарова Фатима Гумаровна": 33,
-      "Комков Сергей Константинович": 60,
-      "Мицуков Александр Федорович": 229,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000225999": 857,
+      "gas:candidate-vibid:1001000289815": 24,
+      "gas:candidate-vibid:1001000126651": 69,
+      "gas:candidate-vibid:374300366874": 7,
+      "gas:candidate-vibid:1001000112271": 33,
+      "gas:candidate-vibid:1001000217964": 60,
+      "gas:candidate-vibid:1001000220852": 229,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4860,14 +4860,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 768,
-      "Емелин Александр Сергеевич": 28,
-      "Живолук Александр Юрьевич": 64,
-      "Звягинцев Василий Петрович": 7,
-      "Кобжасарова Фатима Гумаровна": 39,
-      "Комков Сергей Константинович": 55,
-      "Мицуков Александр Федорович": 198,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000225999": 768,
+      "gas:candidate-vibid:1001000289815": 28,
+      "gas:candidate-vibid:1001000126651": 64,
+      "gas:candidate-vibid:374300366874": 7,
+      "gas:candidate-vibid:1001000112271": 39,
+      "gas:candidate-vibid:1001000217964": 55,
+      "gas:candidate-vibid:1001000220852": 198,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4917,14 +4917,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 363,
-      "Емелин Александр Сергеевич": 26,
-      "Живолук Александр Юрьевич": 18,
-      "Звягинцев Василий Петрович": 9,
-      "Кобжасарова Фатима Гумаровна": 10,
-      "Комков Сергей Константинович": 22,
-      "Мицуков Александр Федорович": 91,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000225999": 363,
+      "gas:candidate-vibid:1001000289815": 26,
+      "gas:candidate-vibid:1001000126651": 18,
+      "gas:candidate-vibid:374300366874": 9,
+      "gas:candidate-vibid:1001000112271": 10,
+      "gas:candidate-vibid:1001000217964": 22,
+      "gas:candidate-vibid:1001000220852": 91,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -4974,14 +4974,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 314,
-      "Емелин Александр Сергеевич": 16,
-      "Живолук Александр Юрьевич": 103,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 11,
-      "Комков Сергей Константинович": 21,
-      "Мицуков Александр Федорович": 143,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000225999": 314,
+      "gas:candidate-vibid:1001000289815": 16,
+      "gas:candidate-vibid:1001000126651": 103,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 11,
+      "gas:candidate-vibid:1001000217964": 21,
+      "gas:candidate-vibid:1001000220852": 143,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367180&region=0&sub_region=0&type=429",
@@ -5031,14 +5031,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 360,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 26,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 31,
-      "Мицуков Александр Федорович": 136,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000225999": 360,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 26,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 31,
+      "gas:candidate-vibid:1001000220852": 136,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5088,14 +5088,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 330,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 28,
-      "Мицуков Александр Федорович": 153,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225999": 330,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 28,
+      "gas:candidate-vibid:1001000220852": 153,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5145,14 +5145,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 496,
-      "Емелин Александр Сергеевич": 7,
-      "Живолук Александр Юрьевич": 27,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 43,
-      "Мицуков Александр Федорович": 245,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000225999": 496,
+      "gas:candidate-vibid:1001000289815": 7,
+      "gas:candidate-vibid:1001000126651": 27,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 43,
+      "gas:candidate-vibid:1001000220852": 245,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5202,14 +5202,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 524,
-      "Емелин Александр Сергеевич": 15,
-      "Живолук Александр Юрьевич": 21,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 11,
-      "Комков Сергей Константинович": 41,
-      "Мицуков Александр Федорович": 264,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000225999": 524,
+      "gas:candidate-vibid:1001000289815": 15,
+      "gas:candidate-vibid:1001000126651": 21,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 11,
+      "gas:candidate-vibid:1001000217964": 41,
+      "gas:candidate-vibid:1001000220852": 264,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5259,14 +5259,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 586,
-      "Емелин Александр Сергеевич": 11,
-      "Живолук Александр Юрьевич": 17,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 12,
-      "Комков Сергей Константинович": 38,
-      "Мицуков Александр Федорович": 237,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000225999": 586,
+      "gas:candidate-vibid:1001000289815": 11,
+      "gas:candidate-vibid:1001000126651": 17,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 12,
+      "gas:candidate-vibid:1001000217964": 38,
+      "gas:candidate-vibid:1001000220852": 237,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5316,14 +5316,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 139,
-      "Емелин Александр Сергеевич": 7,
-      "Живолук Александр Юрьевич": 8,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 17,
-      "Мицуков Александр Федорович": 138,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000225999": 139,
+      "gas:candidate-vibid:1001000289815": 7,
+      "gas:candidate-vibid:1001000126651": 8,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 17,
+      "gas:candidate-vibid:1001000220852": 138,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5373,14 +5373,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 266,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 10,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 13,
-      "Мицуков Александр Федорович": 97,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225999": 266,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 10,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 13,
+      "gas:candidate-vibid:1001000220852": 97,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5430,14 +5430,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 233,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 9,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 26,
-      "Мицуков Александр Федорович": 101,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000225999": 233,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 9,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 26,
+      "gas:candidate-vibid:1001000220852": 101,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5487,14 +5487,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 370,
-      "Емелин Александр Сергеевич": 16,
-      "Живолук Александр Юрьевич": 9,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 32,
-      "Мицуков Александр Федорович": 122,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225999": 370,
+      "gas:candidate-vibid:1001000289815": 16,
+      "gas:candidate-vibid:1001000126651": 9,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 32,
+      "gas:candidate-vibid:1001000220852": 122,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5544,14 +5544,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 165,
-      "Емелин Александр Сергеевич": 12,
-      "Живолук Александр Юрьевич": 8,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 6,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 76,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225999": 165,
+      "gas:candidate-vibid:1001000289815": 12,
+      "gas:candidate-vibid:1001000126651": 8,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 6,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 76,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5601,14 +5601,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 134,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 19,
-      "Мицуков Александр Федорович": 40,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225999": 134,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 19,
+      "gas:candidate-vibid:1001000220852": 40,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5658,14 +5658,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 233,
-      "Емелин Александр Сергеевич": 13,
-      "Живолук Александр Юрьевич": 13,
-      "Звягинцев Василий Петрович": 7,
-      "Кобжасарова Фатима Гумаровна": 13,
-      "Комков Сергей Константинович": 28,
-      "Мицуков Александр Федорович": 114,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225999": 233,
+      "gas:candidate-vibid:1001000289815": 13,
+      "gas:candidate-vibid:1001000126651": 13,
+      "gas:candidate-vibid:374300366874": 7,
+      "gas:candidate-vibid:1001000112271": 13,
+      "gas:candidate-vibid:1001000217964": 28,
+      "gas:candidate-vibid:1001000220852": 114,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5715,14 +5715,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 34,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 11,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225999": 34,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 11,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5772,14 +5772,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 334,
-      "Емелин Александр Сергеевич": 12,
-      "Живолук Александр Юрьевич": 20,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 10,
-      "Комков Сергей Константинович": 25,
-      "Мицуков Александр Федорович": 171,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225999": 334,
+      "gas:candidate-vibid:1001000289815": 12,
+      "gas:candidate-vibid:1001000126651": 20,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 10,
+      "gas:candidate-vibid:1001000217964": 25,
+      "gas:candidate-vibid:1001000220852": 171,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5829,14 +5829,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 223,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 17,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 8,
-      "Комков Сергей Константинович": 10,
-      "Мицуков Александр Федорович": 82,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225999": 223,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 17,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 8,
+      "gas:candidate-vibid:1001000217964": 10,
+      "gas:candidate-vibid:1001000220852": 82,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5886,14 +5886,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 593,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 34,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 18,
-      "Комков Сергей Константинович": 36,
-      "Мицуков Александр Федорович": 260,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000225999": 593,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 34,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 18,
+      "gas:candidate-vibid:1001000217964": 36,
+      "gas:candidate-vibid:1001000220852": 260,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -5943,14 +5943,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 18,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 25,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225999": 18,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 25,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6000,14 +6000,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 147,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 0,
-      "Мицуков Александр Федорович": 51,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225999": 147,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 0,
+      "gas:candidate-vibid:1001000220852": 51,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6057,14 +6057,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 46,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 30,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225999": 46,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 30,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6114,14 +6114,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 97,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 14,
-      "Мицуков Александр Федорович": 208,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225999": 97,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 14,
+      "gas:candidate-vibid:1001000220852": 208,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6171,14 +6171,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 237,
-      "Емелин Александр Сергеевич": 7,
-      "Живолук Александр Юрьевич": 10,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 18,
-      "Мицуков Александр Федорович": 31,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225999": 237,
+      "gas:candidate-vibid:1001000289815": 7,
+      "gas:candidate-vibid:1001000126651": 10,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 18,
+      "gas:candidate-vibid:1001000220852": 31,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6228,14 +6228,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 219,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 10,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 32,
-      "Мицуков Александр Федорович": 55,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225999": 219,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 10,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 32,
+      "gas:candidate-vibid:1001000220852": 55,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6285,14 +6285,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 252,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 9,
-      "Мицуков Александр Федорович": 71,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225999": 252,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 9,
+      "gas:candidate-vibid:1001000220852": 71,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6342,14 +6342,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 118,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 5,
-      "Мицуков Александр Федорович": 22,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225999": 118,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 5,
+      "gas:candidate-vibid:1001000220852": 22,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6399,14 +6399,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 50,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 25,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225999": 50,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 25,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6456,14 +6456,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 33,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 19,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225999": 33,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 19,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6513,14 +6513,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 208,
-      "Емелин Александр Сергеевич": 7,
-      "Живолук Александр Юрьевич": 14,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 12,
-      "Комков Сергей Константинович": 31,
-      "Мицуков Александр Федорович": 94,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225999": 208,
+      "gas:candidate-vibid:1001000289815": 7,
+      "gas:candidate-vibid:1001000126651": 14,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 12,
+      "gas:candidate-vibid:1001000217964": 31,
+      "gas:candidate-vibid:1001000220852": 94,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6570,14 +6570,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 286,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 32,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 16,
-      "Комков Сергей Константинович": 54,
-      "Мицуков Александр Федорович": 141,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225999": 286,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 32,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 16,
+      "gas:candidate-vibid:1001000217964": 54,
+      "gas:candidate-vibid:1001000220852": 141,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6627,14 +6627,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 69,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 35,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225999": 69,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 35,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6684,14 +6684,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 16,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 30,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225999": 16,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 30,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6741,14 +6741,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 64,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 63,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225999": 64,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 63,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6798,14 +6798,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 52,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 17,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225999": 52,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 17,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6855,14 +6855,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 218,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 13,
-      "Мицуков Александр Федорович": 179,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225999": 218,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 13,
+      "gas:candidate-vibid:1001000220852": 179,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6912,14 +6912,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 87,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 9,
-      "Мицуков Александр Федорович": 73,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225999": 87,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 9,
+      "gas:candidate-vibid:1001000220852": 73,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -6969,14 +6969,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 56,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 0,
-      "Мицуков Александр Федорович": 21,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225999": 56,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 0,
+      "gas:candidate-vibid:1001000220852": 21,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7026,14 +7026,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 33,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 53,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225999": 33,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 53,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7083,14 +7083,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 300,
-      "Емелин Александр Сергеевич": 16,
-      "Живолук Александр Юрьевич": 16,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 19,
-      "Комков Сергей Константинович": 34,
-      "Мицуков Александр Федорович": 176,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000225999": 300,
+      "gas:candidate-vibid:1001000289815": 16,
+      "gas:candidate-vibid:1001000126651": 16,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 19,
+      "gas:candidate-vibid:1001000217964": 34,
+      "gas:candidate-vibid:1001000220852": 176,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7140,14 +7140,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 383,
-      "Емелин Александр Сергеевич": 11,
-      "Живолук Александр Юрьевич": 12,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 42,
-      "Мицуков Александр Федорович": 141,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000225999": 383,
+      "gas:candidate-vibid:1001000289815": 11,
+      "gas:candidate-vibid:1001000126651": 12,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 42,
+      "gas:candidate-vibid:1001000220852": 141,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7197,14 +7197,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 86,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 5,
-      "Мицуков Александр Федорович": 69,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225999": 86,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 5,
+      "gas:candidate-vibid:1001000220852": 69,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7254,14 +7254,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 42,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 87,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225999": 42,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 87,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7311,14 +7311,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 52,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 40,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225999": 52,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 40,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7368,14 +7368,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 232,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 21,
-      "Мицуков Александр Федорович": 77,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225999": 232,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 21,
+      "gas:candidate-vibid:1001000220852": 77,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7425,14 +7425,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 68,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 44,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225999": 68,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 44,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7482,14 +7482,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 88,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 7,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 17,
-      "Мицуков Александр Федорович": 34,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225999": 88,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 7,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 17,
+      "gas:candidate-vibid:1001000220852": 34,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367184&region=0&sub_region=0&type=429",
@@ -7539,14 +7539,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 619,
-      "Емелин Александр Сергеевич": 20,
-      "Живолук Александр Юрьевич": 67,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 19,
-      "Комков Сергей Константинович": 29,
-      "Мицуков Александр Федорович": 184,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000225999": 619,
+      "gas:candidate-vibid:1001000289815": 20,
+      "gas:candidate-vibid:1001000126651": 67,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 19,
+      "gas:candidate-vibid:1001000217964": 29,
+      "gas:candidate-vibid:1001000220852": 184,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7596,14 +7596,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 962,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 80,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 33,
-      "Комков Сергей Константинович": 19,
-      "Мицуков Александр Федорович": 271,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000225999": 962,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 80,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 33,
+      "gas:candidate-vibid:1001000217964": 19,
+      "gas:candidate-vibid:1001000220852": 271,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7653,14 +7653,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 565,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 52,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 12,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 148,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000225999": 565,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 52,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 12,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 148,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7710,14 +7710,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 611,
-      "Емелин Александр Сергеевич": 11,
-      "Живолук Александр Юрьевич": 58,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 16,
-      "Комков Сергей Константинович": 13,
-      "Мицуков Александр Федорович": 246,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000225999": 611,
+      "gas:candidate-vibid:1001000289815": 11,
+      "gas:candidate-vibid:1001000126651": 58,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 16,
+      "gas:candidate-vibid:1001000217964": 13,
+      "gas:candidate-vibid:1001000220852": 246,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7767,14 +7767,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1025,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 69,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 20,
-      "Комков Сергей Константинович": 18,
-      "Мицуков Александр Федорович": 255,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000225999": 1025,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 69,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 20,
+      "gas:candidate-vibid:1001000217964": 18,
+      "gas:candidate-vibid:1001000220852": 255,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7824,14 +7824,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 647,
-      "Емелин Александр Сергеевич": 22,
-      "Живолук Александр Юрьевич": 46,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 9,
-      "Комков Сергей Константинович": 11,
-      "Мицуков Александр Федорович": 145,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000225999": 647,
+      "gas:candidate-vibid:1001000289815": 22,
+      "gas:candidate-vibid:1001000126651": 46,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 9,
+      "gas:candidate-vibid:1001000217964": 11,
+      "gas:candidate-vibid:1001000220852": 145,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7881,14 +7881,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1074,
-      "Емелин Александр Сергеевич": 24,
-      "Живолук Александр Юрьевич": 83,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 29,
-      "Комков Сергей Константинович": 22,
-      "Мицуков Александр Федорович": 233,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000225999": 1074,
+      "gas:candidate-vibid:1001000289815": 24,
+      "gas:candidate-vibid:1001000126651": 83,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 29,
+      "gas:candidate-vibid:1001000217964": 22,
+      "gas:candidate-vibid:1001000220852": 233,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7938,14 +7938,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 922,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 59,
-      "Звягинцев Василий Петрович": 10,
-      "Кобжасарова Фатима Гумаровна": 18,
-      "Комков Сергей Константинович": 25,
-      "Мицуков Александр Федорович": 214,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000225999": 922,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 59,
+      "gas:candidate-vibid:374300366874": 10,
+      "gas:candidate-vibid:1001000112271": 18,
+      "gas:candidate-vibid:1001000217964": 25,
+      "gas:candidate-vibid:1001000220852": 214,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -7995,14 +7995,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1183,
-      "Емелин Александр Сергеевич": 30,
-      "Живолук Александр Юрьевич": 81,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 28,
-      "Комков Сергей Константинович": 18,
-      "Мицуков Александр Федорович": 316,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000225999": 1183,
+      "gas:candidate-vibid:1001000289815": 30,
+      "gas:candidate-vibid:1001000126651": 81,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 28,
+      "gas:candidate-vibid:1001000217964": 18,
+      "gas:candidate-vibid:1001000220852": 316,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8052,14 +8052,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1151,
-      "Емелин Александр Сергеевич": 23,
-      "Живолук Александр Юрьевич": 56,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 29,
-      "Комков Сергей Константинович": 22,
-      "Мицуков Александр Федорович": 360,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000225999": 1151,
+      "gas:candidate-vibid:1001000289815": 23,
+      "gas:candidate-vibid:1001000126651": 56,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 29,
+      "gas:candidate-vibid:1001000217964": 22,
+      "gas:candidate-vibid:1001000220852": 360,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8109,14 +8109,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 999,
-      "Емелин Александр Сергеевич": 24,
-      "Живолук Александр Юрьевич": 71,
-      "Звягинцев Василий Петрович": 10,
-      "Кобжасарова Фатима Гумаровна": 25,
-      "Комков Сергей Константинович": 33,
-      "Мицуков Александр Федорович": 270,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000225999": 999,
+      "gas:candidate-vibid:1001000289815": 24,
+      "gas:candidate-vibid:1001000126651": 71,
+      "gas:candidate-vibid:374300366874": 10,
+      "gas:candidate-vibid:1001000112271": 25,
+      "gas:candidate-vibid:1001000217964": 33,
+      "gas:candidate-vibid:1001000220852": 270,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8166,14 +8166,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 972,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 51,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 21,
-      "Комков Сергей Константинович": 24,
-      "Мицуков Александр Федорович": 224,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000225999": 972,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 51,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 21,
+      "gas:candidate-vibid:1001000217964": 24,
+      "gas:candidate-vibid:1001000220852": 224,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8223,14 +8223,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1046,
-      "Емелин Александр Сергеевич": 24,
-      "Живолук Александр Юрьевич": 76,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 24,
-      "Комков Сергей Константинович": 30,
-      "Мицуков Александр Федорович": 245,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000225999": 1046,
+      "gas:candidate-vibid:1001000289815": 24,
+      "gas:candidate-vibid:1001000126651": 76,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 24,
+      "gas:candidate-vibid:1001000217964": 30,
+      "gas:candidate-vibid:1001000220852": 245,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8280,14 +8280,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1111,
-      "Емелин Александр Сергеевич": 29,
-      "Живолук Александр Юрьевич": 56,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 31,
-      "Комков Сергей Константинович": 34,
-      "Мицуков Александр Федорович": 287,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000225999": 1111,
+      "gas:candidate-vibid:1001000289815": 29,
+      "gas:candidate-vibid:1001000126651": 56,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 31,
+      "gas:candidate-vibid:1001000217964": 34,
+      "gas:candidate-vibid:1001000220852": 287,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8337,14 +8337,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1157,
-      "Емелин Александр Сергеевич": 77,
-      "Живолук Александр Юрьевич": 66,
-      "Звягинцев Василий Петрович": 22,
-      "Кобжасарова Фатима Гумаровна": 42,
-      "Комков Сергей Константинович": 36,
-      "Мицуков Александр Федорович": 289,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000225999": 1157,
+      "gas:candidate-vibid:1001000289815": 77,
+      "gas:candidate-vibid:1001000126651": 66,
+      "gas:candidate-vibid:374300366874": 22,
+      "gas:candidate-vibid:1001000112271": 42,
+      "gas:candidate-vibid:1001000217964": 36,
+      "gas:candidate-vibid:1001000220852": 289,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8394,14 +8394,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 430,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 12,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 128,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225999": 430,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 12,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 128,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8451,14 +8451,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 208,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 7,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 37,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225999": 208,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 7,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 37,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8508,14 +8508,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 42,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 5,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 45,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225999": 42,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 5,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 45,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367186&region=0&sub_region=0&type=429",
@@ -8565,14 +8565,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 366,
-      "Емелин Александр Сергеевич": 22,
-      "Живолук Александр Юрьевич": 26,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 17,
-      "Комков Сергей Константинович": 26,
-      "Мицуков Александр Федорович": 255,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000225999": 366,
+      "gas:candidate-vibid:1001000289815": 22,
+      "gas:candidate-vibid:1001000126651": 26,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 17,
+      "gas:candidate-vibid:1001000217964": 26,
+      "gas:candidate-vibid:1001000220852": 255,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8622,14 +8622,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 409,
-      "Емелин Александр Сергеевич": 36,
-      "Живолук Александр Юрьевич": 29,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 19,
-      "Комков Сергей Константинович": 34,
-      "Мицуков Александр Федорович": 306,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000225999": 409,
+      "gas:candidate-vibid:1001000289815": 36,
+      "gas:candidate-vibid:1001000126651": 29,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 19,
+      "gas:candidate-vibid:1001000217964": 34,
+      "gas:candidate-vibid:1001000220852": 306,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8679,14 +8679,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 206,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 6,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 99,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225999": 206,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 6,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 99,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8736,14 +8736,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 197,
-      "Емелин Александр Сергеевич": 11,
-      "Живолук Александр Юрьевич": 11,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 9,
-      "Мицуков Александр Федорович": 110,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000225999": 197,
+      "gas:candidate-vibid:1001000289815": 11,
+      "gas:candidate-vibid:1001000126651": 11,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 9,
+      "gas:candidate-vibid:1001000220852": 110,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8793,14 +8793,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 363,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 39,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 14,
-      "Комков Сергей Константинович": 24,
-      "Мицуков Александр Федорович": 221,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000225999": 363,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 39,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 14,
+      "gas:candidate-vibid:1001000217964": 24,
+      "gas:candidate-vibid:1001000220852": 221,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8850,14 +8850,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 399,
-      "Емелин Александр Сергеевич": 12,
-      "Живолук Александр Юрьевич": 42,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 28,
-      "Комков Сергей Константинович": 28,
-      "Мицуков Александр Федорович": 363,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000225999": 399,
+      "gas:candidate-vibid:1001000289815": 12,
+      "gas:candidate-vibid:1001000126651": 42,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 28,
+      "gas:candidate-vibid:1001000217964": 28,
+      "gas:candidate-vibid:1001000220852": 363,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8907,14 +8907,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 400,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 20,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 14,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 275,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000225999": 400,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 20,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 14,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 275,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -8964,14 +8964,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 448,
-      "Емелин Александр Сергеевич": 18,
-      "Живолук Александр Юрьевич": 32,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 19,
-      "Мицуков Александр Федорович": 248,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000225999": 448,
+      "gas:candidate-vibid:1001000289815": 18,
+      "gas:candidate-vibid:1001000126651": 32,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 19,
+      "gas:candidate-vibid:1001000220852": 248,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9021,14 +9021,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 521,
-      "Емелин Александр Сергеевич": 35,
-      "Живолук Александр Юрьевич": 48,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 27,
-      "Комков Сергей Константинович": 31,
-      "Мицуков Александр Федорович": 294,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000225999": 521,
+      "gas:candidate-vibid:1001000289815": 35,
+      "gas:candidate-vibid:1001000126651": 48,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 27,
+      "gas:candidate-vibid:1001000217964": 31,
+      "gas:candidate-vibid:1001000220852": 294,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9078,14 +9078,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 420,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 29,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 14,
-      "Комков Сергей Константинович": 24,
-      "Мицуков Александр Федорович": 231,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000225999": 420,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 29,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 14,
+      "gas:candidate-vibid:1001000217964": 24,
+      "gas:candidate-vibid:1001000220852": 231,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9135,14 +9135,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 443,
-      "Емелин Александр Сергеевич": 25,
-      "Живолук Александр Юрьевич": 31,
-      "Звягинцев Василий Петрович": 11,
-      "Кобжасарова Фатима Гумаровна": 10,
-      "Комков Сергей Константинович": 23,
-      "Мицуков Александр Федорович": 231,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000225999": 443,
+      "gas:candidate-vibid:1001000289815": 25,
+      "gas:candidate-vibid:1001000126651": 31,
+      "gas:candidate-vibid:374300366874": 11,
+      "gas:candidate-vibid:1001000112271": 10,
+      "gas:candidate-vibid:1001000217964": 23,
+      "gas:candidate-vibid:1001000220852": 231,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9192,14 +9192,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 249,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 8,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 21,
-      "Комков Сергей Константинович": 17,
-      "Мицуков Александр Федорович": 137,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000225999": 249,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 8,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 21,
+      "gas:candidate-vibid:1001000217964": 17,
+      "gas:candidate-vibid:1001000220852": 137,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9249,14 +9249,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 127,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 8,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 18,
-      "Мицуков Александр Федорович": 109,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225999": 127,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 8,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 18,
+      "gas:candidate-vibid:1001000220852": 109,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9306,14 +9306,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 235,
-      "Емелин Александр Сергеевич": 15,
-      "Живолук Александр Юрьевич": 13,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 16,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 117,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225999": 235,
+      "gas:candidate-vibid:1001000289815": 15,
+      "gas:candidate-vibid:1001000126651": 13,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 16,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 117,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9363,14 +9363,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 143,
-      "Емелин Александр Сергеевич": 11,
-      "Живолук Александр Юрьевич": 11,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 61,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225999": 143,
+      "gas:candidate-vibid:1001000289815": 11,
+      "gas:candidate-vibid:1001000126651": 11,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 61,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9420,14 +9420,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 167,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 85,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225999": 167,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 85,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9477,14 +9477,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 280,
-      "Емелин Александр Сергеевич": 22,
-      "Живолук Александр Юрьевич": 23,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 14,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 143,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225999": 280,
+      "gas:candidate-vibid:1001000289815": 22,
+      "gas:candidate-vibid:1001000126651": 23,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 14,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 143,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9534,14 +9534,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 517,
-      "Емелин Александр Сергеевич": 37,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 11,
-      "Кобжасарова Фатима Гумаровна": 28,
-      "Комков Сергей Константинович": 15,
-      "Мицуков Александр Федорович": 237,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000225999": 517,
+      "gas:candidate-vibid:1001000289815": 37,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 11,
+      "gas:candidate-vibid:1001000112271": 28,
+      "gas:candidate-vibid:1001000217964": 15,
+      "gas:candidate-vibid:1001000220852": 237,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9591,14 +9591,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 298,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 17,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 20,
-      "Комков Сергей Константинович": 30,
-      "Мицуков Александр Федорович": 175,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000225999": 298,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 17,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 20,
+      "gas:candidate-vibid:1001000217964": 30,
+      "gas:candidate-vibid:1001000220852": 175,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9648,14 +9648,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 56,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 9,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 9,
-      "Мицуков Александр Федорович": 32,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225999": 56,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 9,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 9,
+      "gas:candidate-vibid:1001000220852": 32,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9705,14 +9705,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 122,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 5,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 13,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 73,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225999": 122,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 5,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 13,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 73,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9762,14 +9762,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 45,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 36,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225999": 45,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 36,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9819,14 +9819,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 331,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 12,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 248,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225999": 331,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 12,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 248,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9876,14 +9876,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 294,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 19,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 10,
-      "Мицуков Александр Федорович": 166,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225999": 294,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 19,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 10,
+      "gas:candidate-vibid:1001000220852": 166,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9933,14 +9933,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 76,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 44,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225999": 76,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 44,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -9990,14 +9990,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 81,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 36,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225999": 81,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 36,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -10047,14 +10047,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 355,
-      "Емелин Александр Сергеевич": 20,
-      "Живолук Александр Юрьевич": 21,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 14,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 155,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000225999": 355,
+      "gas:candidate-vibid:1001000289815": 20,
+      "gas:candidate-vibid:1001000126651": 21,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 14,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 155,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -10104,14 +10104,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 71,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225999": 71,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -10161,14 +10161,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 85,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 28,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225999": 85,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 28,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -10218,14 +10218,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 142,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 22,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225999": 142,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 22,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367190&region=0&sub_region=0&type=429",
@@ -10275,14 +10275,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 350,
-      "Емелин Александр Сергеевич": 12,
-      "Живолук Александр Юрьевич": 31,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 20,
-      "Мицуков Александр Федорович": 138,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000225999": 350,
+      "gas:candidate-vibid:1001000289815": 12,
+      "gas:candidate-vibid:1001000126651": 31,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 20,
+      "gas:candidate-vibid:1001000220852": 138,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10332,14 +10332,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 368,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 23,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 22,
-      "Комков Сергей Константинович": 28,
-      "Мицуков Александр Федорович": 121,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000225999": 368,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 23,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 22,
+      "gas:candidate-vibid:1001000217964": 28,
+      "gas:candidate-vibid:1001000220852": 121,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10389,14 +10389,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 305,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 21,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 8,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 157,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225999": 305,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 21,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 8,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 157,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10446,14 +10446,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 455,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 34,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 8,
-      "Комков Сергей Константинович": 28,
-      "Мицуков Александр Федорович": 146,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000225999": 455,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 34,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 8,
+      "gas:candidate-vibid:1001000217964": 28,
+      "gas:candidate-vibid:1001000220852": 146,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10503,14 +10503,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 164,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 13,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 51,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225999": 164,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 13,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 51,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10560,14 +10560,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 392,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 57,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 9,
-      "Комков Сергей Константинович": 27,
-      "Мицуков Александр Федорович": 139,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000225999": 392,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 57,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 9,
+      "gas:candidate-vibid:1001000217964": 27,
+      "gas:candidate-vibid:1001000220852": 139,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10617,14 +10617,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 309,
-      "Емелин Александр Сергеевич": 17,
-      "Живолук Александр Юрьевич": 11,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 30,
-      "Мицуков Александр Федорович": 117,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225999": 309,
+      "gas:candidate-vibid:1001000289815": 17,
+      "gas:candidate-vibid:1001000126651": 11,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 30,
+      "gas:candidate-vibid:1001000220852": 117,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10674,14 +10674,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 379,
-      "Емелин Александр Сергеевич": 10,
-      "Живолук Александр Юрьевич": 27,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 13,
-      "Мицуков Александр Федорович": 161,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000225999": 379,
+      "gas:candidate-vibid:1001000289815": 10,
+      "gas:candidate-vibid:1001000126651": 27,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 13,
+      "gas:candidate-vibid:1001000220852": 161,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10731,14 +10731,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 133,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 5,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 23,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225999": 133,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 5,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 23,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10788,14 +10788,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 167,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 7,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 15,
-      "Мицуков Александр Федорович": 27,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225999": 167,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 7,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 15,
+      "gas:candidate-vibid:1001000220852": 27,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10845,14 +10845,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 298,
-      "Емелин Александр Сергеевич": 15,
-      "Живолук Александр Юрьевич": 16,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 8,
-      "Комков Сергей Константинович": 18,
-      "Мицуков Александр Федорович": 151,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225999": 298,
+      "gas:candidate-vibid:1001000289815": 15,
+      "gas:candidate-vibid:1001000126651": 16,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 8,
+      "gas:candidate-vibid:1001000217964": 18,
+      "gas:candidate-vibid:1001000220852": 151,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10902,14 +10902,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 111,
-      "Емелин Александр Сергеевич": 11,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 74,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225999": 111,
+      "gas:candidate-vibid:1001000289815": 11,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 74,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -10959,14 +10959,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 81,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 7,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225999": 81,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 7,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11016,14 +11016,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 465,
-      "Емелин Александр Сергеевич": 18,
-      "Живолук Александр Юрьевич": 39,
-      "Звягинцев Василий Петрович": 11,
-      "Кобжасарова Фатима Гумаровна": 17,
-      "Комков Сергей Константинович": 58,
-      "Мицуков Александр Федорович": 165,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000225999": 465,
+      "gas:candidate-vibid:1001000289815": 18,
+      "gas:candidate-vibid:1001000126651": 39,
+      "gas:candidate-vibid:374300366874": 11,
+      "gas:candidate-vibid:1001000112271": 17,
+      "gas:candidate-vibid:1001000217964": 58,
+      "gas:candidate-vibid:1001000220852": 165,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11073,14 +11073,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 339,
-      "Емелин Александр Сергеевич": 13,
-      "Живолук Александр Юрьевич": 22,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 6,
-      "Комков Сергей Константинович": 28,
-      "Мицуков Александр Федорович": 138,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000225999": 339,
+      "gas:candidate-vibid:1001000289815": 13,
+      "gas:candidate-vibid:1001000126651": 22,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 6,
+      "gas:candidate-vibid:1001000217964": 28,
+      "gas:candidate-vibid:1001000220852": 138,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11130,14 +11130,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 154,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 5,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 80,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225999": 154,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 5,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 80,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11187,14 +11187,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 320,
-      "Емелин Александр Сергеевич": 17,
-      "Живолук Александр Юрьевич": 21,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 15,
-      "Мицуков Александр Федорович": 123,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000225999": 320,
+      "gas:candidate-vibid:1001000289815": 17,
+      "gas:candidate-vibid:1001000126651": 21,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 15,
+      "gas:candidate-vibid:1001000220852": 123,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11244,14 +11244,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 453,
-      "Емелин Александр Сергеевич": 40,
-      "Живолук Александр Юрьевич": 33,
-      "Звягинцев Василий Петрович": 13,
-      "Кобжасарова Фатима Гумаровна": 23,
-      "Комков Сергей Константинович": 24,
-      "Мицуков Александр Федорович": 212,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000225999": 453,
+      "gas:candidate-vibid:1001000289815": 40,
+      "gas:candidate-vibid:1001000126651": 33,
+      "gas:candidate-vibid:374300366874": 13,
+      "gas:candidate-vibid:1001000112271": 23,
+      "gas:candidate-vibid:1001000217964": 24,
+      "gas:candidate-vibid:1001000220852": 212,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11301,14 +11301,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 323,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 30,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 155,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225999": 323,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 30,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 155,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11358,14 +11358,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 362,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 22,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 21,
-      "Комков Сергей Константинович": 22,
-      "Мицуков Александр Федорович": 114,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000225999": 362,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 22,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 21,
+      "gas:candidate-vibid:1001000217964": 22,
+      "gas:candidate-vibid:1001000220852": 114,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11415,14 +11415,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 489,
-      "Емелин Александр Сергеевич": 36,
-      "Живолук Александр Юрьевич": 39,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 17,
-      "Мицуков Александр Федорович": 237,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000225999": 489,
+      "gas:candidate-vibid:1001000289815": 36,
+      "gas:candidate-vibid:1001000126651": 39,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 17,
+      "gas:candidate-vibid:1001000220852": 237,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11472,14 +11472,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 268,
-      "Емелин Александр Сергеевич": 28,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 14,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 176,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225999": 268,
+      "gas:candidate-vibid:1001000289815": 28,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 14,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 176,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11529,14 +11529,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 362,
-      "Емелин Александр Сергеевич": 18,
-      "Живолук Александр Юрьевич": 23,
-      "Звягинцев Василий Петрович": 9,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 132,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000225999": 362,
+      "gas:candidate-vibid:1001000289815": 18,
+      "gas:candidate-vibid:1001000126651": 23,
+      "gas:candidate-vibid:374300366874": 9,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 132,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11586,14 +11586,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 194,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 219,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000225999": 194,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 219,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11643,14 +11643,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 21,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 12,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 0,
-      "Мицуков Александр Федорович": 20,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225999": 21,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 12,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 0,
+      "gas:candidate-vibid:1001000220852": 20,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11700,14 +11700,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 29,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 35,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225999": 29,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 35,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11757,14 +11757,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 106,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 9,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 14,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225999": 106,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 9,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 14,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11814,14 +11814,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 235,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 5,
-      "Мицуков Александр Федорович": 56,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225999": 235,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 5,
+      "gas:candidate-vibid:1001000220852": 56,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11871,14 +11871,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 152,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 32,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225999": 152,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 32,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11928,14 +11928,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 156,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 0,
-      "Мицуков Александр Федорович": 13,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225999": 156,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 0,
+      "gas:candidate-vibid:1001000220852": 13,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -11985,14 +11985,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 89,
-      "Емелин Александр Сергеевич": 9,
-      "Живолук Александр Юрьевич": 12,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 104,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225999": 89,
+      "gas:candidate-vibid:1001000289815": 9,
+      "gas:candidate-vibid:1001000126651": 12,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 104,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -12042,14 +12042,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 191,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 7,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 65,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225999": 191,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 7,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 65,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -12099,14 +12099,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 78,
-      "Емелин Александр Сергеевич": 1,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 33,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225999": 78,
+      "gas:candidate-vibid:1001000289815": 1,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 33,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -12156,14 +12156,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 51,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 4,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 0,
-      "Мицуков Александр Федорович": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225999": 51,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 4,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 0,
+      "gas:candidate-vibid:1001000220852": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -12213,14 +12213,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 44,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 17,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225999": 44,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 17,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367204&region=0&sub_region=0&type=429",
@@ -12270,14 +12270,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 755,
-      "Емелин Александр Сергеевич": 34,
-      "Живолук Александр Юрьевич": 19,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 20,
-      "Комков Сергей Константинович": 21,
-      "Мицуков Александр Федорович": 146,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000225999": 755,
+      "gas:candidate-vibid:1001000289815": 34,
+      "gas:candidate-vibid:1001000126651": 19,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 20,
+      "gas:candidate-vibid:1001000217964": 21,
+      "gas:candidate-vibid:1001000220852": 146,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12327,14 +12327,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 729,
-      "Емелин Александр Сергеевич": 13,
-      "Живолук Александр Юрьевич": 36,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 9,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 162,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000225999": 729,
+      "gas:candidate-vibid:1001000289815": 13,
+      "gas:candidate-vibid:1001000126651": 36,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 9,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 162,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12384,14 +12384,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 749,
-      "Емелин Александр Сергеевич": 27,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 7,
-      "Кобжасарова Фатима Гумаровна": 21,
-      "Комков Сергей Константинович": 15,
-      "Мицуков Александр Федорович": 139,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000225999": 749,
+      "gas:candidate-vibid:1001000289815": 27,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 7,
+      "gas:candidate-vibid:1001000112271": 21,
+      "gas:candidate-vibid:1001000217964": 15,
+      "gas:candidate-vibid:1001000220852": 139,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12441,14 +12441,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 795,
-      "Емелин Александр Сергеевич": 33,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 16,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 171,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000225999": 795,
+      "gas:candidate-vibid:1001000289815": 33,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 16,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 171,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12498,14 +12498,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 810,
-      "Емелин Александр Сергеевич": 23,
-      "Живолук Александр Юрьевич": 18,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 24,
-      "Мицуков Александр Федорович": 159,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000225999": 810,
+      "gas:candidate-vibid:1001000289815": 23,
+      "gas:candidate-vibid:1001000126651": 18,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 24,
+      "gas:candidate-vibid:1001000220852": 159,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12555,14 +12555,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 779,
-      "Емелин Александр Сергеевич": 15,
-      "Живолук Александр Юрьевич": 29,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 11,
-      "Комков Сергей Константинович": 12,
-      "Мицуков Александр Федорович": 107,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225999": 779,
+      "gas:candidate-vibid:1001000289815": 15,
+      "gas:candidate-vibid:1001000126651": 29,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 11,
+      "gas:candidate-vibid:1001000217964": 12,
+      "gas:candidate-vibid:1001000220852": 107,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12612,14 +12612,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 865,
-      "Емелин Александр Сергеевич": 34,
-      "Живолук Александр Юрьевич": 19,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 19,
-      "Комков Сергей Константинович": 20,
-      "Мицуков Александр Федорович": 186,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000225999": 865,
+      "gas:candidate-vibid:1001000289815": 34,
+      "gas:candidate-vibid:1001000126651": 19,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 19,
+      "gas:candidate-vibid:1001000217964": 20,
+      "gas:candidate-vibid:1001000220852": 186,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12669,14 +12669,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 763,
-      "Емелин Александр Сергеевич": 25,
-      "Живолук Александр Юрьевич": 8,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 27,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 162,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000225999": 763,
+      "gas:candidate-vibid:1001000289815": 25,
+      "gas:candidate-vibid:1001000126651": 8,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 27,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 162,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12726,14 +12726,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 759,
-      "Емелин Александр Сергеевич": 37,
-      "Живолук Александр Юрьевич": 19,
-      "Звягинцев Василий Петрович": 7,
-      "Кобжасарова Фатима Гумаровна": 23,
-      "Комков Сергей Константинович": 11,
-      "Мицуков Александр Федорович": 174,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000225999": 759,
+      "gas:candidate-vibid:1001000289815": 37,
+      "gas:candidate-vibid:1001000126651": 19,
+      "gas:candidate-vibid:374300366874": 7,
+      "gas:candidate-vibid:1001000112271": 23,
+      "gas:candidate-vibid:1001000217964": 11,
+      "gas:candidate-vibid:1001000220852": 174,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12783,14 +12783,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 842,
-      "Емелин Александр Сергеевич": 26,
-      "Живолук Александр Юрьевич": 19,
-      "Звягинцев Василий Петрович": 8,
-      "Кобжасарова Фатима Гумаровна": 20,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 160,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000225999": 842,
+      "gas:candidate-vibid:1001000289815": 26,
+      "gas:candidate-vibid:1001000126651": 19,
+      "gas:candidate-vibid:374300366874": 8,
+      "gas:candidate-vibid:1001000112271": 20,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 160,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12840,14 +12840,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 832,
-      "Емелин Александр Сергеевич": 38,
-      "Живолук Александр Юрьевич": 17,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 75,
-      "Комков Сергей Константинович": 7,
-      "Мицуков Александр Федорович": 149,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000225999": 832,
+      "gas:candidate-vibid:1001000289815": 38,
+      "gas:candidate-vibid:1001000126651": 17,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 75,
+      "gas:candidate-vibid:1001000217964": 7,
+      "gas:candidate-vibid:1001000220852": 149,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12897,14 +12897,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1179,
-      "Емелин Александр Сергеевич": 85,
-      "Живолук Александр Юрьевич": 39,
-      "Звягинцев Василий Петрович": 27,
-      "Кобжасарова Фатима Гумаровна": 23,
-      "Комков Сергей Константинович": 39,
-      "Мицуков Александр Федорович": 153,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000225999": 1179,
+      "gas:candidate-vibid:1001000289815": 85,
+      "gas:candidate-vibid:1001000126651": 39,
+      "gas:candidate-vibid:374300366874": 27,
+      "gas:candidate-vibid:1001000112271": 23,
+      "gas:candidate-vibid:1001000217964": 39,
+      "gas:candidate-vibid:1001000220852": 153,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -12954,14 +12954,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1026,
-      "Емелин Александр Сергеевич": 38,
-      "Живолук Александр Юрьевич": 14,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 29,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 165,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000225999": 1026,
+      "gas:candidate-vibid:1001000289815": 38,
+      "gas:candidate-vibid:1001000126651": 14,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 29,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 165,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -13011,14 +13011,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 813,
-      "Емелин Александр Сергеевич": 34,
-      "Живолук Александр Юрьевич": 12,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 15,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 157,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000225999": 813,
+      "gas:candidate-vibid:1001000289815": 34,
+      "gas:candidate-vibid:1001000126651": 12,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 15,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 157,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -13068,14 +13068,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 1099,
-      "Емелин Александр Сергеевич": 48,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 10,
-      "Кобжасарова Фатима Гумаровна": 21,
-      "Комков Сергей Константинович": 16,
-      "Мицуков Александр Федорович": 43,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000225999": 1099,
+      "gas:candidate-vibid:1001000289815": 48,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 10,
+      "gas:candidate-vibid:1001000112271": 21,
+      "gas:candidate-vibid:1001000217964": 16,
+      "gas:candidate-vibid:1001000220852": 43,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367205&region=0&sub_region=0&type=429",
@@ -13125,14 +13125,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 218,
-      "Емелин Александр Сергеевич": 10,
-      "Живолук Александр Юрьевич": 30,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 10,
-      "Мицуков Александр Федорович": 64,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225999": 218,
+      "gas:candidate-vibid:1001000289815": 10,
+      "gas:candidate-vibid:1001000126651": 30,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 10,
+      "gas:candidate-vibid:1001000220852": 64,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13182,14 +13182,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 197,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 5,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 56,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225999": 197,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 5,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 56,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13239,14 +13239,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 30,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 30,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225999": 30,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 30,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13296,14 +13296,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 298,
-      "Емелин Александр Сергеевич": 16,
-      "Живолук Александр Юрьевич": 20,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 11,
-      "Комков Сергей Константинович": 13,
-      "Мицуков Александр Федорович": 96,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000225999": 298,
+      "gas:candidate-vibid:1001000289815": 16,
+      "gas:candidate-vibid:1001000126651": 20,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 11,
+      "gas:candidate-vibid:1001000217964": 13,
+      "gas:candidate-vibid:1001000220852": 96,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13353,14 +13353,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 108,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 20,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225999": 108,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 20,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13410,14 +13410,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 56,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225999": 56,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13467,14 +13467,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 98,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 3,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 8,
-      "Мицуков Александр Федорович": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225999": 98,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 3,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 8,
+      "gas:candidate-vibid:1001000220852": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13524,14 +13524,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 74,
-      "Емелин Александр Сергеевич": 12,
-      "Живолук Александр Юрьевич": 7,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 10,
-      "Мицуков Александр Федорович": 31,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225999": 74,
+      "gas:candidate-vibid:1001000289815": 12,
+      "gas:candidate-vibid:1001000126651": 7,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 10,
+      "gas:candidate-vibid:1001000220852": 31,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13581,14 +13581,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 629,
-      "Емелин Александр Сергеевич": 21,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 6,
-      "Кобжасарова Фатима Гумаровна": 13,
-      "Комков Сергей Константинович": 5,
-      "Мицуков Александр Федорович": 85,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000225999": 629,
+      "gas:candidate-vibid:1001000289815": 21,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 6,
+      "gas:candidate-vibid:1001000112271": 13,
+      "gas:candidate-vibid:1001000217964": 5,
+      "gas:candidate-vibid:1001000220852": 85,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13638,14 +13638,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 251,
-      "Емелин Александр Сергеевич": 8,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 3,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 53,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225999": 251,
+      "gas:candidate-vibid:1001000289815": 8,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 3,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 53,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13695,14 +13695,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 143,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 1,
-      "Мицуков Александр Федорович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225999": 143,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 1,
+      "gas:candidate-vibid:1001000220852": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13752,14 +13752,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 39,
-      "Емелин Александр Сергеевич": 0,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225999": 39,
+      "gas:candidate-vibid:1001000289815": 0,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13809,14 +13809,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 45,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 10,
-      "Мицуков Александр Федорович": 20,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225999": 45,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 10,
+      "gas:candidate-vibid:1001000220852": 20,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13866,14 +13866,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 93,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 0,
-      "Звягинцев Василий Петрович": 2,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 2,
-      "Мицуков Александр Федорович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225999": 93,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 0,
+      "gas:candidate-vibid:374300366874": 2,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 2,
+      "gas:candidate-vibid:1001000220852": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13923,14 +13923,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 147,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 7,
-      "Комков Сергей Константинович": 4,
-      "Мицуков Александр Федорович": 9,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000225999": 147,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 7,
+      "gas:candidate-vibid:1001000217964": 4,
+      "gas:candidate-vibid:1001000220852": 9,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -13980,14 +13980,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 96,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 4,
-      "Кобжасарова Фатима Гумаровна": 6,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 23,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000225999": 96,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 4,
+      "gas:candidate-vibid:1001000112271": 6,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 23,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14037,14 +14037,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 433,
-      "Емелин Александр Сергеевич": 14,
-      "Живолук Александр Юрьевич": 10,
-      "Звягинцев Василий Петрович": 7,
-      "Кобжасарова Фатима Гумаровна": 13,
-      "Комков Сергей Константинович": 18,
-      "Мицуков Александр Федорович": 85,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225999": 433,
+      "gas:candidate-vibid:1001000289815": 14,
+      "gas:candidate-vibid:1001000126651": 10,
+      "gas:candidate-vibid:374300366874": 7,
+      "gas:candidate-vibid:1001000112271": 13,
+      "gas:candidate-vibid:1001000217964": 18,
+      "gas:candidate-vibid:1001000220852": 85,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14094,14 +14094,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 198,
-      "Емелин Александр Сергеевич": 28,
-      "Живолук Александр Юрьевич": 17,
-      "Звягинцев Василий Петрович": 9,
-      "Кобжасарова Фатима Гумаровна": 5,
-      "Комков Сергей Константинович": 9,
-      "Мицуков Александр Федорович": 89,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000225999": 198,
+      "gas:candidate-vibid:1001000289815": 28,
+      "gas:candidate-vibid:1001000126651": 17,
+      "gas:candidate-vibid:374300366874": 9,
+      "gas:candidate-vibid:1001000112271": 5,
+      "gas:candidate-vibid:1001000217964": 9,
+      "gas:candidate-vibid:1001000220852": 89,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14151,14 +14151,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 255,
-      "Емелин Александр Сергеевич": 23,
-      "Живолук Александр Юрьевич": 11,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 11,
-      "Комков Сергей Константинович": 5,
-      "Мицуков Александр Федорович": 66,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225999": 255,
+      "gas:candidate-vibid:1001000289815": 23,
+      "gas:candidate-vibid:1001000126651": 11,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 11,
+      "gas:candidate-vibid:1001000217964": 5,
+      "gas:candidate-vibid:1001000220852": 66,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14208,14 +14208,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 74,
-      "Емелин Александр Сергеевич": 4,
-      "Живолук Александр Юрьевич": 5,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 0,
-      "Комков Сергей Константинович": 6,
-      "Мицуков Александр Федорович": 18,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225999": 74,
+      "gas:candidate-vibid:1001000289815": 4,
+      "gas:candidate-vibid:1001000126651": 5,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 0,
+      "gas:candidate-vibid:1001000217964": 6,
+      "gas:candidate-vibid:1001000220852": 18,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14265,14 +14265,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 128,
-      "Емелин Александр Сергеевич": 3,
-      "Живолук Александр Юрьевич": 1,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 4,
-      "Комков Сергей Константинович": 6,
-      "Мицуков Александр Федорович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225999": 128,
+      "gas:candidate-vibid:1001000289815": 3,
+      "gas:candidate-vibid:1001000126651": 1,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 4,
+      "gas:candidate-vibid:1001000217964": 6,
+      "gas:candidate-vibid:1001000220852": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14322,14 +14322,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 63,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 2,
-      "Звягинцев Василий Петрович": 1,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 6,
-      "Мицуков Александр Федорович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225999": 63,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 2,
+      "gas:candidate-vibid:374300366874": 1,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 6,
+      "gas:candidate-vibid:1001000220852": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14379,14 +14379,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 69,
-      "Емелин Александр Сергеевич": 2,
-      "Живолук Александр Юрьевич": 8,
-      "Звягинцев Василий Петрович": 0,
-      "Кобжасарова Фатима Гумаровна": 6,
-      "Комков Сергей Константинович": 13,
-      "Мицуков Александр Федорович": 63,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225999": 69,
+      "gas:candidate-vibid:1001000289815": 2,
+      "gas:candidate-vibid:1001000126651": 8,
+      "gas:candidate-vibid:374300366874": 0,
+      "gas:candidate-vibid:1001000112271": 6,
+      "gas:candidate-vibid:1001000217964": 13,
+      "gas:candidate-vibid:1001000220852": 63,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14436,14 +14436,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 337,
-      "Емелин Александр Сергеевич": 19,
-      "Живолук Александр Юрьевич": 15,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 12,
-      "Комков Сергей Константинович": 38,
-      "Мицуков Александр Федорович": 222,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000225999": 337,
+      "gas:candidate-vibid:1001000289815": 19,
+      "gas:candidate-vibid:1001000126651": 15,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 12,
+      "gas:candidate-vibid:1001000217964": 38,
+      "gas:candidate-vibid:1001000220852": 222,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14493,14 +14493,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 61,
-      "Емелин Александр Сергеевич": 6,
-      "Живолук Александр Юрьевич": 24,
-      "Звягинцев Василий Петрович": 5,
-      "Кобжасарова Фатима Гумаровна": 1,
-      "Комков Сергей Константинович": 5,
-      "Мицуков Александр Федорович": 15,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000225999": 61,
+      "gas:candidate-vibid:1001000289815": 6,
+      "gas:candidate-vibid:1001000126651": 24,
+      "gas:candidate-vibid:374300366874": 5,
+      "gas:candidate-vibid:1001000112271": 1,
+      "gas:candidate-vibid:1001000217964": 5,
+      "gas:candidate-vibid:1001000220852": 15,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",
@@ -14550,14 +14550,14 @@ export const duma_2003_uik_428_region_74_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гришанков Михаил Игнатьевич": 48,
-      "Емелин Александр Сергеевич": 5,
-      "Живолук Александр Юрьевич": 6,
-      "Звягинцев Василий Петрович": 3,
-      "Кобжасарова Фатима Гумаровна": 2,
-      "Комков Сергей Константинович": 3,
-      "Мицуков Александр Федорович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225999": 48,
+      "gas:candidate-vibid:1001000289815": 5,
+      "gas:candidate-vibid:1001000126651": 6,
+      "gas:candidate-vibid:374300366874": 3,
+      "gas:candidate-vibid:1001000112271": 2,
+      "gas:candidate-vibid:1001000217964": 3,
+      "gas:candidate-vibid:1001000220852": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300367206&region=0&sub_region=0&type=429",

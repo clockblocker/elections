@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 138,
-      "Василевский Станислав Иванович": 16,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 16,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 13
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 138,
+      "gas:candidate-vibid:4234015230019": 16,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 16,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 23,
-      "Боева Наталья Дмитриевна": 213,
-      "Василевский Станислав Иванович": 51,
-      "Зверев Владимир Константинович": 9,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 27,
-      "Соколенко Павел Васильевич": 45,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 59
+      "gas:candidate-vibid:4234015230343": 23,
+      "gas:candidate-vibid:4234015230147": 213,
+      "gas:candidate-vibid:4234015230019": 51,
+      "gas:candidate-vibid:4234015230258": 9,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 27,
+      "gas:candidate-vibid:4234015218878": 45,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 6,
-      "Боева Наталья Дмитриевна": 70,
-      "Василевский Станислав Иванович": 10,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 10,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 6,
+      "gas:candidate-vibid:4234015230147": 70,
+      "gas:candidate-vibid:4234015230019": 10,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 10,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 62,
-      "Василевский Станислав Иванович": 12,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 3,
-      "Соколенко Павел Васильевич": 19,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 62,
+      "gas:candidate-vibid:4234015230019": 12,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 3,
+      "gas:candidate-vibid:4234015218878": 19,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 63,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 10,
-      "Соколенко Павел Васильевич": 3,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 11
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 63,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 10,
+      "gas:candidate-vibid:4234015218878": 3,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 723,
-      "Василевский Станислав Иванович": 139,
-      "Зверев Владимир Константинович": 57,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 79,
-      "Соколенко Павел Васильевич": 127,
-      "Тумин Андрей Николаевич": 15,
-      "Туренко Александр Анатольевич": 114
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 723,
+      "gas:candidate-vibid:4234015230019": 139,
+      "gas:candidate-vibid:4234015230258": 57,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 79,
+      "gas:candidate-vibid:4234015218878": 127,
+      "gas:candidate-vibid:4234015230623": 15,
+      "gas:candidate-vibid:4234015218802": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 302,
-      "Василевский Станислав Иванович": 51,
-      "Зверев Владимир Константинович": 22,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 43,
-      "Соколенко Павел Васильевич": 50,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 68
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 302,
+      "gas:candidate-vibid:4234015230019": 51,
+      "gas:candidate-vibid:4234015230258": 22,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 43,
+      "gas:candidate-vibid:4234015218878": 50,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 113,
-      "Василевский Станислав Иванович": 20,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 27,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 40
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 113,
+      "gas:candidate-vibid:4234015230019": 20,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 27,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217737&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217737&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 355,
-      "Василевский Станислав Иванович": 78,
-      "Зверев Владимир Константинович": 23,
-      "Керимов Олег Юрьевич": 22,
-      "Руденко Андрей Викторович": 64,
-      "Соколенко Павел Васильевич": 89,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 355,
+      "gas:candidate-vibid:4234015230019": 78,
+      "gas:candidate-vibid:4234015230258": 23,
+      "gas:candidate-vibid:4234015230559": 22,
+      "gas:candidate-vibid:4234015229959": 64,
+      "gas:candidate-vibid:4234015218878": 89,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 520,
-      "Василевский Станислав Иванович": 129,
-      "Зверев Владимир Константинович": 31,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 67,
-      "Соколенко Павел Васильевич": 112,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 35
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 520,
+      "gas:candidate-vibid:4234015230019": 129,
+      "gas:candidate-vibid:4234015230258": 31,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 67,
+      "gas:candidate-vibid:4234015218878": 112,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 25,
-      "Боева Наталья Дмитриевна": 590,
-      "Василевский Станислав Иванович": 112,
-      "Зверев Владимир Константинович": 24,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 91,
-      "Соколенко Павел Васильевич": 110,
-      "Тумин Андрей Николаевич": 21,
-      "Туренко Александр Анатольевич": 39
+      "gas:candidate-vibid:4234015230343": 25,
+      "gas:candidate-vibid:4234015230147": 590,
+      "gas:candidate-vibid:4234015230019": 112,
+      "gas:candidate-vibid:4234015230258": 24,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 91,
+      "gas:candidate-vibid:4234015218878": 110,
+      "gas:candidate-vibid:4234015230623": 21,
+      "gas:candidate-vibid:4234015218802": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 27,
-      "Боева Наталья Дмитриевна": 892,
-      "Василевский Станислав Иванович": 129,
-      "Зверев Владимир Константинович": 27,
-      "Керимов Олег Юрьевич": 21,
-      "Руденко Андрей Викторович": 87,
-      "Соколенко Павел Васильевич": 100,
-      "Тумин Андрей Николаевич": 25,
-      "Туренко Александр Анатольевич": 39
+      "gas:candidate-vibid:4234015230343": 27,
+      "gas:candidate-vibid:4234015230147": 892,
+      "gas:candidate-vibid:4234015230019": 129,
+      "gas:candidate-vibid:4234015230258": 27,
+      "gas:candidate-vibid:4234015230559": 21,
+      "gas:candidate-vibid:4234015229959": 87,
+      "gas:candidate-vibid:4234015218878": 100,
+      "gas:candidate-vibid:4234015230623": 25,
+      "gas:candidate-vibid:4234015218802": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 473,
-      "Василевский Станислав Иванович": 121,
-      "Зверев Владимир Константинович": 31,
-      "Керимов Олег Юрьевич": 17,
-      "Руденко Андрей Викторович": 83,
-      "Соколенко Павел Васильевич": 108,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 31
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 473,
+      "gas:candidate-vibid:4234015230019": 121,
+      "gas:candidate-vibid:4234015230258": 31,
+      "gas:candidate-vibid:4234015230559": 17,
+      "gas:candidate-vibid:4234015229959": 83,
+      "gas:candidate-vibid:4234015218878": 108,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 352,
-      "Василевский Станислав Иванович": 42,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 46,
-      "Соколенко Павел Васильевич": 59,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 352,
+      "gas:candidate-vibid:4234015230019": 42,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 46,
+      "gas:candidate-vibid:4234015218878": 59,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 8,
-      "Боева Наталья Дмитриевна": 452,
-      "Василевский Станислав Иванович": 49,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 32,
-      "Соколенко Павел Васильевич": 43,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 8,
+      "gas:candidate-vibid:4234015230147": 452,
+      "gas:candidate-vibid:4234015230019": 49,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 32,
+      "gas:candidate-vibid:4234015218878": 43,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 16,
-      "Боева Наталья Дмитриевна": 373,
-      "Василевский Станислав Иванович": 67,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 72,
-      "Соколенко Павел Васильевич": 101,
-      "Тумин Андрей Николаевич": 21,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 16,
+      "gas:candidate-vibid:4234015230147": 373,
+      "gas:candidate-vibid:4234015230019": 67,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 72,
+      "gas:candidate-vibid:4234015218878": 101,
+      "gas:candidate-vibid:4234015230623": 21,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 406,
-      "Василевский Станислав Иванович": 86,
-      "Зверев Владимир Константинович": 23,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 150,
-      "Соколенко Павел Васильевич": 118,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 35
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 406,
+      "gas:candidate-vibid:4234015230019": 86,
+      "gas:candidate-vibid:4234015230258": 23,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 150,
+      "gas:candidate-vibid:4234015218878": 118,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 403,
-      "Василевский Станислав Иванович": 60,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 64,
-      "Соколенко Павел Васильевич": 85,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 403,
+      "gas:candidate-vibid:4234015230019": 60,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 64,
+      "gas:candidate-vibid:4234015218878": 85,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 254,
-      "Василевский Станислав Иванович": 42,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 46,
-      "Соколенко Павел Васильевич": 43,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 10
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 254,
+      "gas:candidate-vibid:4234015230019": 42,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 46,
+      "gas:candidate-vibid:4234015218878": 43,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 221,
-      "Василевский Станислав Иванович": 25,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 24,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 221,
+      "gas:candidate-vibid:4234015230019": 25,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 24,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 296,
-      "Василевский Станислав Иванович": 40,
-      "Зверев Владимир Константинович": 8,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 73,
-      "Соколенко Павел Васильевич": 28,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 296,
+      "gas:candidate-vibid:4234015230019": 40,
+      "gas:candidate-vibid:4234015230258": 8,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 73,
+      "gas:candidate-vibid:4234015218878": 28,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 1155,
-      "Василевский Станислав Иванович": 163,
-      "Зверев Владимир Константинович": 31,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 47,
-      "Соколенко Павел Васильевич": 45,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 1155,
+      "gas:candidate-vibid:4234015230019": 163,
+      "gas:candidate-vibid:4234015230258": 31,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 47,
+      "gas:candidate-vibid:4234015218878": 45,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 30,
-      "Боева Наталья Дмитриевна": 943,
-      "Василевский Станислав Иванович": 97,
-      "Зверев Владимир Константинович": 29,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 104,
-      "Соколенко Павел Васильевич": 98,
-      "Тумин Андрей Николаевич": 28,
-      "Туренко Александр Анатольевич": 31
+      "gas:candidate-vibid:4234015230343": 30,
+      "gas:candidate-vibid:4234015230147": 943,
+      "gas:candidate-vibid:4234015230019": 97,
+      "gas:candidate-vibid:4234015230258": 29,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 104,
+      "gas:candidate-vibid:4234015218878": 98,
+      "gas:candidate-vibid:4234015230623": 28,
+      "gas:candidate-vibid:4234015218802": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 456,
-      "Василевский Станислав Иванович": 29,
-      "Зверев Владимир Константинович": 8,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 9,
-      "Соколенко Павел Васильевич": 14,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 456,
+      "gas:candidate-vibid:4234015230019": 29,
+      "gas:candidate-vibid:4234015230258": 8,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 9,
+      "gas:candidate-vibid:4234015218878": 14,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 167,
-      "Василевский Станислав Иванович": 12,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 20,
-      "Соколенко Павел Васильевич": 3,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 167,
+      "gas:candidate-vibid:4234015230019": 12,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 20,
+      "gas:candidate-vibid:4234015218878": 3,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 516,
-      "Василевский Станислав Иванович": 39,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 89,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 516,
+      "gas:candidate-vibid:4234015230019": 39,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 89,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 121,
-      "Василевский Станислав Иванович": 25,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 22,
-      "Соколенко Павел Васильевич": 21,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 121,
+      "gas:candidate-vibid:4234015230019": 25,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 22,
+      "gas:candidate-vibid:4234015218878": 21,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 104,
-      "Василевский Станислав Иванович": 22,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 13,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 104,
+      "gas:candidate-vibid:4234015230019": 22,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 13,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 85,
-      "Василевский Станислав Иванович": 16,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 19,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 1
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 85,
+      "gas:candidate-vibid:4234015230019": 16,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 19,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 145,
-      "Василевский Станислав Иванович": 15,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 10,
-      "Соколенко Павел Васильевич": 13,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 145,
+      "gas:candidate-vibid:4234015230019": 15,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 10,
+      "gas:candidate-vibid:4234015218878": 13,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 16,
-      "Боева Наталья Дмитриевна": 630,
-      "Василевский Станислав Иванович": 58,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 105,
-      "Соколенко Павел Васильевич": 68,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 16,
+      "gas:candidate-vibid:4234015230147": 630,
+      "gas:candidate-vibid:4234015230019": 58,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 105,
+      "gas:candidate-vibid:4234015218878": 68,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 547,
-      "Василевский Станислав Иванович": 61,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 111,
-      "Соколенко Павел Васильевич": 68,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 547,
+      "gas:candidate-vibid:4234015230019": 61,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 111,
+      "gas:candidate-vibid:4234015218878": 68,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 745,
-      "Василевский Станислав Иванович": 72,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 64,
-      "Соколенко Павел Васильевич": 64,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 745,
+      "gas:candidate-vibid:4234015230019": 72,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 64,
+      "gas:candidate-vibid:4234015218878": 64,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 483,
-      "Василевский Станислав Иванович": 59,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 130,
-      "Соколенко Павел Васильевич": 59,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 32
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 483,
+      "gas:candidate-vibid:4234015230019": 59,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 130,
+      "gas:candidate-vibid:4234015218878": 59,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 15,
-      "Боева Наталья Дмитриевна": 572,
-      "Василевский Станислав Иванович": 53,
-      "Зверев Владимир Константинович": 21,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 34,
-      "Соколенко Павел Васильевич": 59,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 36
+      "gas:candidate-vibid:4234015230343": 15,
+      "gas:candidate-vibid:4234015230147": 572,
+      "gas:candidate-vibid:4234015230019": 53,
+      "gas:candidate-vibid:4234015230258": 21,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 34,
+      "gas:candidate-vibid:4234015218878": 59,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 344,
-      "Василевский Станислав Иванович": 25,
-      "Зверев Владимир Константинович": 9,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 17,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 10
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 344,
+      "gas:candidate-vibid:4234015230019": 25,
+      "gas:candidate-vibid:4234015230258": 9,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 17,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 353,
-      "Василевский Станислав Иванович": 35,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 45,
-      "Соколенко Павел Васильевич": 48,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 353,
+      "gas:candidate-vibid:4234015230019": 35,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 45,
+      "gas:candidate-vibid:4234015218878": 48,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 174,
-      "Василевский Станислав Иванович": 48,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 25,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 8
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 174,
+      "gas:candidate-vibid:4234015230019": 48,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 25,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 28,
-      "Боева Наталья Дмитриевна": 544,
-      "Василевский Станислав Иванович": 53,
-      "Зверев Владимир Константинович": 26,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 32,
-      "Соколенко Павел Васильевич": 82,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 26
+      "gas:candidate-vibid:4234015230343": 28,
+      "gas:candidate-vibid:4234015230147": 544,
+      "gas:candidate-vibid:4234015230019": 53,
+      "gas:candidate-vibid:4234015230258": 26,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 32,
+      "gas:candidate-vibid:4234015218878": 82,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 31,
-      "Боева Наталья Дмитриевна": 952,
-      "Василевский Станислав Иванович": 58,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 74,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 31,
+      "gas:candidate-vibid:4234015230147": 952,
+      "gas:candidate-vibid:4234015230019": 58,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 74,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 502,
-      "Василевский Станислав Иванович": 45,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 62,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 502,
+      "gas:candidate-vibid:4234015230019": 45,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 62,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217738&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217738&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 76,
-      "Боева Наталья Дмитриевна": 521,
-      "Василевский Станислав Иванович": 149,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 110,
-      "Соколенко Павел Васильевич": 75,
-      "Тумин Андрей Николаевич": 20,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 76,
+      "gas:candidate-vibid:4234015230147": 521,
+      "gas:candidate-vibid:4234015230019": 149,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 110,
+      "gas:candidate-vibid:4234015218878": 75,
+      "gas:candidate-vibid:4234015230623": 20,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 33,
-      "Боева Наталья Дмитриевна": 343,
-      "Василевский Станислав Иванович": 62,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 58,
-      "Соколенко Павел Васильевич": 50,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 33,
+      "gas:candidate-vibid:4234015230147": 343,
+      "gas:candidate-vibid:4234015230019": 62,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 58,
+      "gas:candidate-vibid:4234015218878": 50,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 51,
-      "Боева Наталья Дмитриевна": 495,
-      "Василевский Станислав Иванович": 95,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 105,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 29
+      "gas:candidate-vibid:4234015230343": 51,
+      "gas:candidate-vibid:4234015230147": 495,
+      "gas:candidate-vibid:4234015230019": 95,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 105,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 70,
-      "Боева Наталья Дмитриевна": 602,
-      "Василевский Станислав Иванович": 99,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 48,
-      "Соколенко Павел Васильевич": 75,
-      "Тумин Андрей Николаевич": 18,
-      "Туренко Александр Анатольевич": 28
+      "gas:candidate-vibid:4234015230343": 70,
+      "gas:candidate-vibid:4234015230147": 602,
+      "gas:candidate-vibid:4234015230019": 99,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 48,
+      "gas:candidate-vibid:4234015218878": 75,
+      "gas:candidate-vibid:4234015230623": 18,
+      "gas:candidate-vibid:4234015218802": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 41,
-      "Боева Наталья Дмитриевна": 401,
-      "Василевский Станислав Иванович": 58,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 32,
-      "Соколенко Павел Васильевич": 31,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 41,
+      "gas:candidate-vibid:4234015230147": 401,
+      "gas:candidate-vibid:4234015230019": 58,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 32,
+      "gas:candidate-vibid:4234015218878": 31,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 32,
-      "Боева Наталья Дмитриевна": 218,
-      "Василевский Станислав Иванович": 24,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 13,
-      "Соколенко Павел Васильевич": 9,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 32,
+      "gas:candidate-vibid:4234015230147": 218,
+      "gas:candidate-vibid:4234015230019": 24,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 13,
+      "gas:candidate-vibid:4234015218878": 9,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 42,
-      "Боева Наталья Дмитриевна": 269,
-      "Василевский Станислав Иванович": 105,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 22,
-      "Соколенко Павел Васильевич": 73,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 42,
+      "gas:candidate-vibid:4234015230147": 269,
+      "gas:candidate-vibid:4234015230019": 105,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 22,
+      "gas:candidate-vibid:4234015218878": 73,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 55,
-      "Боева Наталья Дмитриевна": 335,
-      "Василевский Станислав Иванович": 116,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 23,
-      "Соколенко Павел Васильевич": 49,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 25
+      "gas:candidate-vibid:4234015230343": 55,
+      "gas:candidate-vibid:4234015230147": 335,
+      "gas:candidate-vibid:4234015230019": 116,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 23,
+      "gas:candidate-vibid:4234015218878": 49,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 74,
-      "Боева Наталья Дмитриевна": 367,
-      "Василевский Станислав Иванович": 96,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 43,
-      "Соколенко Павел Васильевич": 57,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 74,
+      "gas:candidate-vibid:4234015230147": 367,
+      "gas:candidate-vibid:4234015230019": 96,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 43,
+      "gas:candidate-vibid:4234015218878": 57,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 62,
-      "Боева Наталья Дмитриевна": 531,
-      "Василевский Станислав Иванович": 103,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 81,
-      "Тумин Андрей Николаевич": 12,
-      "Туренко Александр Анатольевич": 35
+      "gas:candidate-vibid:4234015230343": 62,
+      "gas:candidate-vibid:4234015230147": 531,
+      "gas:candidate-vibid:4234015230019": 103,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 81,
+      "gas:candidate-vibid:4234015230623": 12,
+      "gas:candidate-vibid:4234015218802": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 106,
-      "Василевский Станислав Иванович": 10,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 3,
-      "Соколенко Павел Васильевич": 4,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 4
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 106,
+      "gas:candidate-vibid:4234015230019": 10,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 3,
+      "gas:candidate-vibid:4234015218878": 4,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 64,
-      "Боева Наталья Дмитриевна": 536,
-      "Василевский Станислав Иванович": 107,
-      "Зверев Владимир Константинович": 22,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 27,
-      "Соколенко Павел Васильевич": 83,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 33
+      "gas:candidate-vibid:4234015230343": 64,
+      "gas:candidate-vibid:4234015230147": 536,
+      "gas:candidate-vibid:4234015230019": 107,
+      "gas:candidate-vibid:4234015230258": 22,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 27,
+      "gas:candidate-vibid:4234015218878": 83,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 15,
-      "Боева Наталья Дмитриевна": 167,
-      "Василевский Станислав Иванович": 25,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 4,
-      "Соколенко Павел Васильевич": 15,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 15,
+      "gas:candidate-vibid:4234015230147": 167,
+      "gas:candidate-vibid:4234015230019": 25,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 4,
+      "gas:candidate-vibid:4234015218878": 15,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 192,
-      "Василевский Станислав Иванович": 17,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 22,
-      "Соколенко Павел Васильевич": 4,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 192,
+      "gas:candidate-vibid:4234015230019": 17,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 22,
+      "gas:candidate-vibid:4234015218878": 4,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 6,
-      "Боева Наталья Дмитриевна": 179,
-      "Василевский Станислав Иванович": 19,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 0,
-      "Соколенко Павел Васильевич": 3,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 6,
+      "gas:candidate-vibid:4234015230147": 179,
+      "gas:candidate-vibid:4234015230019": 19,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 0,
+      "gas:candidate-vibid:4234015218878": 3,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 64,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 15,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 64,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 15,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 26,
-      "Боева Наталья Дмитриевна": 372,
-      "Василевский Станислав Иванович": 31,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 28,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 13
+      "gas:candidate-vibid:4234015230343": 26,
+      "gas:candidate-vibid:4234015230147": 372,
+      "gas:candidate-vibid:4234015230019": 31,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 28,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 73,
-      "Боева Наталья Дмитриевна": 269,
-      "Василевский Станислав Иванович": 92,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 51,
-      "Соколенко Павел Васильевич": 54,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 18
+      "gas:candidate-vibid:4234015230343": 73,
+      "gas:candidate-vibid:4234015230147": 269,
+      "gas:candidate-vibid:4234015230019": 92,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 51,
+      "gas:candidate-vibid:4234015218878": 54,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 56,
-      "Боева Наталья Дмитриевна": 335,
-      "Василевский Станислав Иванович": 75,
-      "Зверев Владимир Константинович": 22,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 60,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 56,
+      "gas:candidate-vibid:4234015230147": 335,
+      "gas:candidate-vibid:4234015230019": 75,
+      "gas:candidate-vibid:4234015230258": 22,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 60,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 25,
-      "Боева Наталья Дмитриевна": 194,
-      "Василевский Станислав Иванович": 38,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 9,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 25,
+      "gas:candidate-vibid:4234015230147": 194,
+      "gas:candidate-vibid:4234015230019": 38,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 9,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 66,
-      "Боева Наталья Дмитриевна": 665,
-      "Василевский Станислав Иванович": 153,
-      "Зверев Владимир Константинович": 33,
-      "Керимов Олег Юрьевич": 21,
-      "Руденко Андрей Викторович": 74,
-      "Соколенко Павел Васильевич": 107,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 42
+      "gas:candidate-vibid:4234015230343": 66,
+      "gas:candidate-vibid:4234015230147": 665,
+      "gas:candidate-vibid:4234015230019": 153,
+      "gas:candidate-vibid:4234015230258": 33,
+      "gas:candidate-vibid:4234015230559": 21,
+      "gas:candidate-vibid:4234015229959": 74,
+      "gas:candidate-vibid:4234015218878": 107,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 70,
-      "Боева Наталья Дмитриевна": 416,
-      "Василевский Станислав Иванович": 94,
-      "Зверев Владимир Константинович": 30,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 20,
-      "Соколенко Павел Васильевич": 102,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 70,
+      "gas:candidate-vibid:4234015230147": 416,
+      "gas:candidate-vibid:4234015230019": 94,
+      "gas:candidate-vibid:4234015230258": 30,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 20,
+      "gas:candidate-vibid:4234015218878": 102,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 41,
-      "Боева Наталья Дмитриевна": 191,
-      "Василевский Станислав Иванович": 63,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 38,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 14
+      "gas:candidate-vibid:4234015230343": 41,
+      "gas:candidate-vibid:4234015230147": 191,
+      "gas:candidate-vibid:4234015230019": 63,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 38,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 45,
-      "Боева Наталья Дмитриевна": 429,
-      "Василевский Станислав Иванович": 107,
-      "Зверев Владимир Константинович": 21,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 39,
-      "Соколенко Павел Васильевич": 70,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 45,
+      "gas:candidate-vibid:4234015230147": 429,
+      "gas:candidate-vibid:4234015230019": 107,
+      "gas:candidate-vibid:4234015230258": 21,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 39,
+      "gas:candidate-vibid:4234015218878": 70,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 59,
-      "Боева Наталья Дмитриевна": 380,
-      "Василевский Станислав Иванович": 96,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 94,
-      "Соколенко Павел Васильевич": 56,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 29
+      "gas:candidate-vibid:4234015230343": 59,
+      "gas:candidate-vibid:4234015230147": 380,
+      "gas:candidate-vibid:4234015230019": 96,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 94,
+      "gas:candidate-vibid:4234015218878": 56,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 45,
-      "Боева Наталья Дмитриевна": 250,
-      "Василевский Станислав Иванович": 93,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 61,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 13
+      "gas:candidate-vibid:4234015230343": 45,
+      "gas:candidate-vibid:4234015230147": 250,
+      "gas:candidate-vibid:4234015230019": 93,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 61,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217739&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217739&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 93,
-      "Боева Наталья Дмитриевна": 185,
-      "Василевский Станислав Иванович": 74,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 64,
-      "Соколенко Павел Васильевич": 85,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 93,
+      "gas:candidate-vibid:4234015230147": 185,
+      "gas:candidate-vibid:4234015230019": 74,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 64,
+      "gas:candidate-vibid:4234015218878": 85,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 112,
-      "Боева Наталья Дмитриевна": 180,
-      "Василевский Станислав Иванович": 57,
-      "Зверев Владимир Константинович": 27,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 87,
-      "Соколенко Павел Васильевич": 80,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 112,
+      "gas:candidate-vibid:4234015230147": 180,
+      "gas:candidate-vibid:4234015230019": 57,
+      "gas:candidate-vibid:4234015230258": 27,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 87,
+      "gas:candidate-vibid:4234015218878": 80,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 156,
-      "Боева Наталья Дмитриевна": 260,
-      "Василевский Станислав Иванович": 99,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 17,
-      "Руденко Андрей Викторович": 72,
-      "Соколенко Павел Васильевич": 87,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 156,
+      "gas:candidate-vibid:4234015230147": 260,
+      "gas:candidate-vibid:4234015230019": 99,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 17,
+      "gas:candidate-vibid:4234015229959": 72,
+      "gas:candidate-vibid:4234015218878": 87,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 135,
-      "Боева Наталья Дмитриевна": 315,
-      "Василевский Станислав Иванович": 112,
-      "Зверев Владимир Константинович": 24,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 50,
-      "Соколенко Павел Васильевич": 102,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 28
+      "gas:candidate-vibid:4234015230343": 135,
+      "gas:candidate-vibid:4234015230147": 315,
+      "gas:candidate-vibid:4234015230019": 112,
+      "gas:candidate-vibid:4234015230258": 24,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 50,
+      "gas:candidate-vibid:4234015218878": 102,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 96,
-      "Боева Наталья Дмитриевна": 185,
-      "Василевский Станислав Иванович": 83,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 36,
-      "Соколенко Павел Васильевич": 56,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 96,
+      "gas:candidate-vibid:4234015230147": 185,
+      "gas:candidate-vibid:4234015230019": 83,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 36,
+      "gas:candidate-vibid:4234015218878": 56,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 136,
-      "Боева Наталья Дмитриевна": 269,
-      "Василевский Станислав Иванович": 97,
-      "Зверев Владимир Константинович": 30,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 29,
-      "Соколенко Павел Васильевич": 93,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 136,
+      "gas:candidate-vibid:4234015230147": 269,
+      "gas:candidate-vibid:4234015230019": 97,
+      "gas:candidate-vibid:4234015230258": 30,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 29,
+      "gas:candidate-vibid:4234015218878": 93,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 109,
-      "Боева Наталья Дмитриевна": 233,
-      "Василевский Станислав Иванович": 108,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 37,
-      "Соколенко Павел Васильевич": 91,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 109,
+      "gas:candidate-vibid:4234015230147": 233,
+      "gas:candidate-vibid:4234015230019": 108,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 37,
+      "gas:candidate-vibid:4234015218878": 91,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 113,
-      "Боева Наталья Дмитриевна": 274,
-      "Василевский Станислав Иванович": 96,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 53,
-      "Соколенко Павел Васильевич": 97,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 26
+      "gas:candidate-vibid:4234015230343": 113,
+      "gas:candidate-vibid:4234015230147": 274,
+      "gas:candidate-vibid:4234015230019": 96,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 53,
+      "gas:candidate-vibid:4234015218878": 97,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 95,
-      "Боева Наталья Дмитриевна": 188,
-      "Василевский Станислав Иванович": 81,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 49,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 8
+      "gas:candidate-vibid:4234015230343": 95,
+      "gas:candidate-vibid:4234015230147": 188,
+      "gas:candidate-vibid:4234015230019": 81,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 49,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 91,
-      "Боева Наталья Дмитриевна": 164,
-      "Василевский Станислав Иванович": 65,
-      "Зверев Владимир Константинович": 9,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 32,
-      "Соколенко Павел Васильевич": 48,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 20
+      "gas:candidate-vibid:4234015230343": 91,
+      "gas:candidate-vibid:4234015230147": 164,
+      "gas:candidate-vibid:4234015230019": 65,
+      "gas:candidate-vibid:4234015230258": 9,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 32,
+      "gas:candidate-vibid:4234015218878": 48,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 100,
-      "Боева Наталья Дмитриевна": 215,
-      "Василевский Станислав Иванович": 75,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 29,
-      "Соколенко Павел Васильевич": 51,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 18
+      "gas:candidate-vibid:4234015230343": 100,
+      "gas:candidate-vibid:4234015230147": 215,
+      "gas:candidate-vibid:4234015230019": 75,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 29,
+      "gas:candidate-vibid:4234015218878": 51,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 120,
-      "Боева Наталья Дмитриевна": 237,
-      "Василевский Станислав Иванович": 113,
-      "Зверев Владимир Константинович": 22,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 41,
-      "Соколенко Павел Васильевич": 70,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 120,
+      "gas:candidate-vibid:4234015230147": 237,
+      "gas:candidate-vibid:4234015230019": 113,
+      "gas:candidate-vibid:4234015230258": 22,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 41,
+      "gas:candidate-vibid:4234015218878": 70,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 60,
-      "Боева Наталья Дмитриевна": 115,
-      "Василевский Станислав Иванович": 32,
-      "Зверев Владимир Константинович": 8,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 25,
-      "Соколенко Павел Васильевич": 40,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 60,
+      "gas:candidate-vibid:4234015230147": 115,
+      "gas:candidate-vibid:4234015230019": 32,
+      "gas:candidate-vibid:4234015230258": 8,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 25,
+      "gas:candidate-vibid:4234015218878": 40,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 121,
-      "Боева Наталья Дмитриевна": 277,
-      "Василевский Станислав Иванович": 108,
-      "Зверев Владимир Константинович": 27,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 61,
-      "Соколенко Павел Васильевич": 91,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 121,
+      "gas:candidate-vibid:4234015230147": 277,
+      "gas:candidate-vibid:4234015230019": 108,
+      "gas:candidate-vibid:4234015230258": 27,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 61,
+      "gas:candidate-vibid:4234015218878": 91,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 90,
-      "Боева Наталья Дмитриевна": 234,
-      "Василевский Станислав Иванович": 68,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 48,
-      "Соколенко Павел Васильевич": 67,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 11
+      "gas:candidate-vibid:4234015230343": 90,
+      "gas:candidate-vibid:4234015230147": 234,
+      "gas:candidate-vibid:4234015230019": 68,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 48,
+      "gas:candidate-vibid:4234015218878": 67,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 123,
-      "Боева Наталья Дмитриевна": 237,
-      "Василевский Станислав Иванович": 82,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 23,
-      "Соколенко Павел Васильевич": 51,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 20
+      "gas:candidate-vibid:4234015230343": 123,
+      "gas:candidate-vibid:4234015230147": 237,
+      "gas:candidate-vibid:4234015230019": 82,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 23,
+      "gas:candidate-vibid:4234015218878": 51,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 154,
-      "Боева Наталья Дмитриевна": 283,
-      "Василевский Станислав Иванович": 83,
-      "Зверев Владимир Константинович": 22,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 35,
-      "Соколенко Павел Васильевич": 82,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 154,
+      "gas:candidate-vibid:4234015230147": 283,
+      "gas:candidate-vibid:4234015230019": 83,
+      "gas:candidate-vibid:4234015230258": 22,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 35,
+      "gas:candidate-vibid:4234015218878": 82,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 93,
-      "Боева Наталья Дмитриевна": 220,
-      "Василевский Станислав Иванович": 111,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 43,
-      "Соколенко Павел Васильевич": 50,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 26
+      "gas:candidate-vibid:4234015230343": 93,
+      "gas:candidate-vibid:4234015230147": 220,
+      "gas:candidate-vibid:4234015230019": 111,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 43,
+      "gas:candidate-vibid:4234015218878": 50,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 133,
-      "Боева Наталья Дмитриевна": 339,
-      "Василевский Станислав Иванович": 116,
-      "Зверев Владимир Константинович": 31,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 42,
-      "Соколенко Павел Васильевич": 96,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 133,
+      "gas:candidate-vibid:4234015230147": 339,
+      "gas:candidate-vibid:4234015230019": 116,
+      "gas:candidate-vibid:4234015230258": 31,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 42,
+      "gas:candidate-vibid:4234015218878": 96,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 111,
-      "Боева Наталья Дмитриевна": 239,
-      "Василевский Станислав Иванович": 78,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 30,
-      "Соколенко Павел Васильевич": 55,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 30
+      "gas:candidate-vibid:4234015230343": 111,
+      "gas:candidate-vibid:4234015230147": 239,
+      "gas:candidate-vibid:4234015230019": 78,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 30,
+      "gas:candidate-vibid:4234015218878": 55,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 93,
-      "Боева Наталья Дмитриевна": 182,
-      "Василевский Станислав Иванович": 58,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 27,
-      "Соколенко Павел Васильевич": 72,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 10
+      "gas:candidate-vibid:4234015230343": 93,
+      "gas:candidate-vibid:4234015230147": 182,
+      "gas:candidate-vibid:4234015230019": 58,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 27,
+      "gas:candidate-vibid:4234015218878": 72,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 120,
-      "Боева Наталья Дмитриевна": 303,
-      "Василевский Станислав Иванович": 134,
-      "Зверев Владимир Константинович": 41,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 40,
-      "Соколенко Павел Васильевич": 88,
-      "Тумин Андрей Николаевич": 18,
-      "Туренко Александр Анатольевич": 17
+      "gas:candidate-vibid:4234015230343": 120,
+      "gas:candidate-vibid:4234015230147": 303,
+      "gas:candidate-vibid:4234015230019": 134,
+      "gas:candidate-vibid:4234015230258": 41,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 40,
+      "gas:candidate-vibid:4234015218878": 88,
+      "gas:candidate-vibid:4234015230623": 18,
+      "gas:candidate-vibid:4234015218802": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 128,
-      "Боева Наталья Дмитриевна": 316,
-      "Василевский Станислав Иванович": 116,
-      "Зверев Владимир Константинович": 26,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 35,
-      "Соколенко Павел Васильевич": 76,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 25
+      "gas:candidate-vibid:4234015230343": 128,
+      "gas:candidate-vibid:4234015230147": 316,
+      "gas:candidate-vibid:4234015230019": 116,
+      "gas:candidate-vibid:4234015230258": 26,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 35,
+      "gas:candidate-vibid:4234015218878": 76,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 176,
-      "Боева Наталья Дмитриевна": 380,
-      "Василевский Станислав Иванович": 139,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 72,
-      "Соколенко Павел Васильевич": 112,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 39
+      "gas:candidate-vibid:4234015230343": 176,
+      "gas:candidate-vibid:4234015230147": 380,
+      "gas:candidate-vibid:4234015230019": 139,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 72,
+      "gas:candidate-vibid:4234015218878": 112,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 84,
-      "Боева Наталья Дмитриевна": 187,
-      "Василевский Станислав Иванович": 105,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 44,
-      "Соколенко Павел Васильевич": 68,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 84,
+      "gas:candidate-vibid:4234015230147": 187,
+      "gas:candidate-vibid:4234015230019": 105,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 44,
+      "gas:candidate-vibid:4234015218878": 68,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 105,
-      "Боева Наталья Дмитриевна": 307,
-      "Василевский Станислав Иванович": 144,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 60,
-      "Соколенко Павел Васильевич": 117,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 105,
+      "gas:candidate-vibid:4234015230147": 307,
+      "gas:candidate-vibid:4234015230019": 144,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 60,
+      "gas:candidate-vibid:4234015218878": 117,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 162,
-      "Боева Наталья Дмитриевна": 385,
-      "Василевский Станислав Иванович": 184,
-      "Зверев Владимир Константинович": 48,
-      "Керимов Олег Юрьевич": 21,
-      "Руденко Андрей Викторович": 72,
-      "Соколенко Павел Васильевич": 179,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 30
+      "gas:candidate-vibid:4234015230343": 162,
+      "gas:candidate-vibid:4234015230147": 385,
+      "gas:candidate-vibid:4234015230019": 184,
+      "gas:candidate-vibid:4234015230258": 48,
+      "gas:candidate-vibid:4234015230559": 21,
+      "gas:candidate-vibid:4234015229959": 72,
+      "gas:candidate-vibid:4234015218878": 179,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 108,
-      "Боева Наталья Дмитриевна": 386,
-      "Василевский Станислав Иванович": 161,
-      "Зверев Владимир Константинович": 39,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 49,
-      "Соколенко Павел Васильевич": 98,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 36
+      "gas:candidate-vibid:4234015230343": 108,
+      "gas:candidate-vibid:4234015230147": 386,
+      "gas:candidate-vibid:4234015230019": 161,
+      "gas:candidate-vibid:4234015230258": 39,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 49,
+      "gas:candidate-vibid:4234015218878": 98,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 98,
-      "Боева Наталья Дмитриевна": 316,
-      "Василевский Станислав Иванович": 118,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 17,
-      "Руденко Андрей Викторович": 35,
-      "Соколенко Павел Васильевич": 88,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 98,
+      "gas:candidate-vibid:4234015230147": 316,
+      "gas:candidate-vibid:4234015230019": 118,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 17,
+      "gas:candidate-vibid:4234015229959": 35,
+      "gas:candidate-vibid:4234015218878": 88,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 117,
-      "Боева Наталья Дмитриевна": 420,
-      "Василевский Станислав Иванович": 128,
-      "Зверев Владимир Константинович": 24,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 112,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 31
+      "gas:candidate-vibid:4234015230343": 117,
+      "gas:candidate-vibid:4234015230147": 420,
+      "gas:candidate-vibid:4234015230019": 128,
+      "gas:candidate-vibid:4234015230258": 24,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 112,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 79,
-      "Василевский Станислав Иванович": 34,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 8,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 79,
+      "gas:candidate-vibid:4234015230019": 34,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 8,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 134,
-      "Боева Наталья Дмитриевна": 326,
-      "Василевский Станислав Иванович": 173,
-      "Зверев Владимир Константинович": 26,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 88,
-      "Соколенко Павел Васильевич": 151,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 28
+      "gas:candidate-vibid:4234015230343": 134,
+      "gas:candidate-vibid:4234015230147": 326,
+      "gas:candidate-vibid:4234015230019": 173,
+      "gas:candidate-vibid:4234015230258": 26,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 88,
+      "gas:candidate-vibid:4234015218878": 151,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 127,
-      "Боева Наталья Дмитриевна": 290,
-      "Василевский Станислав Иванович": 117,
-      "Зверев Владимир Константинович": 21,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 56,
-      "Соколенко Павел Васильевич": 74,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 25
+      "gas:candidate-vibid:4234015230343": 127,
+      "gas:candidate-vibid:4234015230147": 290,
+      "gas:candidate-vibid:4234015230019": 117,
+      "gas:candidate-vibid:4234015230258": 21,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 56,
+      "gas:candidate-vibid:4234015218878": 74,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 112,
-      "Боева Наталья Дмитриевна": 352,
-      "Василевский Станислав Иванович": 270,
-      "Зверев Владимир Константинович": 34,
-      "Керимов Олег Юрьевич": 23,
-      "Руденко Андрей Викторович": 71,
-      "Соколенко Павел Васильевич": 76,
-      "Тумин Андрей Николаевич": 20,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 112,
+      "gas:candidate-vibid:4234015230147": 352,
+      "gas:candidate-vibid:4234015230019": 270,
+      "gas:candidate-vibid:4234015230258": 34,
+      "gas:candidate-vibid:4234015230559": 23,
+      "gas:candidate-vibid:4234015229959": 71,
+      "gas:candidate-vibid:4234015218878": 76,
+      "gas:candidate-vibid:4234015230623": 20,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 127,
-      "Боева Наталья Дмитриевна": 595,
-      "Василевский Станислав Иванович": 202,
-      "Зверев Владимир Константинович": 52,
-      "Керимов Олег Юрьевич": 26,
-      "Руденко Андрей Викторович": 88,
-      "Соколенко Павел Васильевич": 92,
-      "Тумин Андрей Николаевич": 29,
-      "Туренко Александр Анатольевич": 28
+      "gas:candidate-vibid:4234015230343": 127,
+      "gas:candidate-vibid:4234015230147": 595,
+      "gas:candidate-vibid:4234015230019": 202,
+      "gas:candidate-vibid:4234015230258": 52,
+      "gas:candidate-vibid:4234015230559": 26,
+      "gas:candidate-vibid:4234015229959": 88,
+      "gas:candidate-vibid:4234015218878": 92,
+      "gas:candidate-vibid:4234015230623": 29,
+      "gas:candidate-vibid:4234015218802": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 176,
-      "Боева Наталья Дмитриевна": 386,
-      "Василевский Станислав Иванович": 177,
-      "Зверев Владимир Константинович": 37,
-      "Керимов Олег Юрьевич": 33,
-      "Руденко Андрей Викторович": 68,
-      "Соколенко Павел Васильевич": 181,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 36
+      "gas:candidate-vibid:4234015230343": 176,
+      "gas:candidate-vibid:4234015230147": 386,
+      "gas:candidate-vibid:4234015230019": 177,
+      "gas:candidate-vibid:4234015230258": 37,
+      "gas:candidate-vibid:4234015230559": 33,
+      "gas:candidate-vibid:4234015229959": 68,
+      "gas:candidate-vibid:4234015218878": 181,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 79,
-      "Боева Наталья Дмитриевна": 194,
-      "Василевский Станислав Иванович": 68,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 36,
-      "Соколенко Павел Васильевич": 70,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 25
+      "gas:candidate-vibid:4234015230343": 79,
+      "gas:candidate-vibid:4234015230147": 194,
+      "gas:candidate-vibid:4234015230019": 68,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 36,
+      "gas:candidate-vibid:4234015218878": 70,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 137,
-      "Боева Наталья Дмитриевна": 341,
-      "Василевский Станислав Иванович": 153,
-      "Зверев Владимир Константинович": 48,
-      "Керимов Олег Юрьевич": 18,
-      "Руденко Андрей Викторович": 44,
-      "Соколенко Павел Васильевич": 138,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 33
+      "gas:candidate-vibid:4234015230343": 137,
+      "gas:candidate-vibid:4234015230147": 341,
+      "gas:candidate-vibid:4234015230019": 153,
+      "gas:candidate-vibid:4234015230258": 48,
+      "gas:candidate-vibid:4234015230559": 18,
+      "gas:candidate-vibid:4234015229959": 44,
+      "gas:candidate-vibid:4234015218878": 138,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 69,
-      "Боева Наталья Дмитриевна": 172,
-      "Василевский Станислав Иванович": 47,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 16,
-      "Соколенко Павел Васильевич": 48,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 69,
+      "gas:candidate-vibid:4234015230147": 172,
+      "gas:candidate-vibid:4234015230019": 47,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 16,
+      "gas:candidate-vibid:4234015218878": 48,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 35,
-      "Боева Наталья Дмитриевна": 133,
-      "Василевский Станислав Иванович": 55,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 17,
-      "Соколенко Павел Васильевич": 28,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 35,
+      "gas:candidate-vibid:4234015230147": 133,
+      "gas:candidate-vibid:4234015230019": 55,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 17,
+      "gas:candidate-vibid:4234015218878": 28,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217740&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217740&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 942,
-      "Василевский Станислав Иванович": 32,
-      "Зверев Владимир Константинович": 33,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 54,
-      "Соколенко Павел Васильевич": 95,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 942,
+      "gas:candidate-vibid:4234015230019": 32,
+      "gas:candidate-vibid:4234015230258": 33,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 54,
+      "gas:candidate-vibid:4234015218878": 95,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 40,
-      "Боева Наталья Дмитриевна": 1176,
-      "Василевский Станислав Иванович": 49,
-      "Зверев Владимир Константинович": 42,
-      "Керимов Олег Юрьевич": 25,
-      "Руденко Андрей Викторович": 108,
-      "Соколенко Павел Васильевич": 125,
-      "Тумин Андрей Николаевич": 29,
-      "Туренко Александр Анатольевич": 36
+      "gas:candidate-vibid:4234015230343": 40,
+      "gas:candidate-vibid:4234015230147": 1176,
+      "gas:candidate-vibid:4234015230019": 49,
+      "gas:candidate-vibid:4234015230258": 42,
+      "gas:candidate-vibid:4234015230559": 25,
+      "gas:candidate-vibid:4234015229959": 108,
+      "gas:candidate-vibid:4234015218878": 125,
+      "gas:candidate-vibid:4234015230623": 29,
+      "gas:candidate-vibid:4234015218802": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 27,
-      "Боева Наталья Дмитриевна": 922,
-      "Василевский Станислав Иванович": 59,
-      "Зверев Владимир Константинович": 29,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 65,
-      "Соколенко Павел Васильевич": 117,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 45
+      "gas:candidate-vibid:4234015230343": 27,
+      "gas:candidate-vibid:4234015230147": 922,
+      "gas:candidate-vibid:4234015230019": 59,
+      "gas:candidate-vibid:4234015230258": 29,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 65,
+      "gas:candidate-vibid:4234015218878": 117,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 761,
-      "Василевский Станислав Иванович": 37,
-      "Зверев Владимир Константинович": 32,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 58,
-      "Соколенко Павел Васильевич": 84,
-      "Тумин Андрей Николаевич": 21,
-      "Туренко Александр Анатольевич": 32
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 761,
+      "gas:candidate-vibid:4234015230019": 37,
+      "gas:candidate-vibid:4234015230258": 32,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 58,
+      "gas:candidate-vibid:4234015218878": 84,
+      "gas:candidate-vibid:4234015230623": 21,
+      "gas:candidate-vibid:4234015218802": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 36,
-      "Боева Наталья Дмитриевна": 863,
-      "Василевский Станислав Иванович": 34,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 78,
-      "Соколенко Павел Васильевич": 90,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 38
+      "gas:candidate-vibid:4234015230343": 36,
+      "gas:candidate-vibid:4234015230147": 863,
+      "gas:candidate-vibid:4234015230019": 34,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 78,
+      "gas:candidate-vibid:4234015218878": 90,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 45,
-      "Боева Наталья Дмитриевна": 1192,
-      "Василевский Станислав Иванович": 43,
-      "Зверев Владимир Константинович": 42,
-      "Керимов Олег Юрьевич": 20,
-      "Руденко Андрей Викторович": 83,
-      "Соколенко Павел Васильевич": 120,
-      "Тумин Андрей Николаевич": 38,
-      "Туренко Александр Анатольевич": 41
+      "gas:candidate-vibid:4234015230343": 45,
+      "gas:candidate-vibid:4234015230147": 1192,
+      "gas:candidate-vibid:4234015230019": 43,
+      "gas:candidate-vibid:4234015230258": 42,
+      "gas:candidate-vibid:4234015230559": 20,
+      "gas:candidate-vibid:4234015229959": 83,
+      "gas:candidate-vibid:4234015218878": 120,
+      "gas:candidate-vibid:4234015230623": 38,
+      "gas:candidate-vibid:4234015218802": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 18,
-      "Боева Наталья Дмитриевна": 1392,
-      "Василевский Станислав Иванович": 111,
-      "Зверев Владимир Константинович": 30,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 105,
-      "Соколенко Павел Васильевич": 152,
-      "Тумин Андрей Николаевич": 25,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 18,
+      "gas:candidate-vibid:4234015230147": 1392,
+      "gas:candidate-vibid:4234015230019": 111,
+      "gas:candidate-vibid:4234015230258": 30,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 105,
+      "gas:candidate-vibid:4234015218878": 152,
+      "gas:candidate-vibid:4234015230623": 25,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 46,
-      "Боева Наталья Дмитриевна": 1095,
-      "Василевский Станислав Иванович": 46,
-      "Зверев Владимир Константинович": 38,
-      "Керимов Олег Юрьевич": 18,
-      "Руденко Андрей Викторович": 94,
-      "Соколенко Павел Васильевич": 122,
-      "Тумин Андрей Николаевич": 15,
-      "Туренко Александр Анатольевич": 47
+      "gas:candidate-vibid:4234015230343": 46,
+      "gas:candidate-vibid:4234015230147": 1095,
+      "gas:candidate-vibid:4234015230019": 46,
+      "gas:candidate-vibid:4234015230258": 38,
+      "gas:candidate-vibid:4234015230559": 18,
+      "gas:candidate-vibid:4234015229959": 94,
+      "gas:candidate-vibid:4234015218878": 122,
+      "gas:candidate-vibid:4234015230623": 15,
+      "gas:candidate-vibid:4234015218802": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 32,
-      "Боева Наталья Дмитриевна": 827,
-      "Василевский Станислав Иванович": 42,
-      "Зверев Владимир Константинович": 31,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 58,
-      "Соколенко Павел Васильевич": 75,
-      "Тумин Андрей Николаевич": 24,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 32,
+      "gas:candidate-vibid:4234015230147": 827,
+      "gas:candidate-vibid:4234015230019": 42,
+      "gas:candidate-vibid:4234015230258": 31,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 58,
+      "gas:candidate-vibid:4234015218878": 75,
+      "gas:candidate-vibid:4234015230623": 24,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 45,
-      "Боева Наталья Дмитриевна": 1102,
-      "Василевский Станислав Иванович": 46,
-      "Зверев Владимир Константинович": 39,
-      "Керимов Олег Юрьевич": 26,
-      "Руденко Андрей Викторович": 98,
-      "Соколенко Павел Васильевич": 120,
-      "Тумин Андрей Николаевич": 27,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 45,
+      "gas:candidate-vibid:4234015230147": 1102,
+      "gas:candidate-vibid:4234015230019": 46,
+      "gas:candidate-vibid:4234015230258": 39,
+      "gas:candidate-vibid:4234015230559": 26,
+      "gas:candidate-vibid:4234015229959": 98,
+      "gas:candidate-vibid:4234015218878": 120,
+      "gas:candidate-vibid:4234015230623": 27,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 1591,
-      "Василевский Станислав Иванович": 67,
-      "Зверев Владимир Константинович": 42,
-      "Керимов Олег Юрьевич": 32,
-      "Руденко Андрей Викторович": 81,
-      "Соколенко Павел Васильевич": 126,
-      "Тумин Андрей Николаевич": 29,
-      "Туренко Александр Анатольевич": 11
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 1591,
+      "gas:candidate-vibid:4234015230019": 67,
+      "gas:candidate-vibid:4234015230258": 42,
+      "gas:candidate-vibid:4234015230559": 32,
+      "gas:candidate-vibid:4234015229959": 81,
+      "gas:candidate-vibid:4234015218878": 126,
+      "gas:candidate-vibid:4234015230623": 29,
+      "gas:candidate-vibid:4234015218802": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 285,
-      "Василевский Станислав Иванович": 15,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 26,
-      "Соколенко Павел Васильевич": 39,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 285,
+      "gas:candidate-vibid:4234015230019": 15,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 26,
+      "gas:candidate-vibid:4234015218878": 39,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 282,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 8,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 14,
-      "Соколенко Павел Васильевич": 30,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 8
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 282,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 8,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 14,
+      "gas:candidate-vibid:4234015218878": 30,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 724,
-      "Василевский Станислав Иванович": 10,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 41,
-      "Соколенко Павел Васильевич": 56,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 14
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 724,
+      "gas:candidate-vibid:4234015230019": 10,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 41,
+      "gas:candidate-vibid:4234015218878": 56,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 285,
-      "Василевский Станислав Иванович": 8,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 15,
-      "Соколенко Павел Васильевич": 30,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 285,
+      "gas:candidate-vibid:4234015230019": 8,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 15,
+      "gas:candidate-vibid:4234015218878": 30,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 721,
-      "Василевский Станислав Иванович": 14,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 76,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 721,
+      "gas:candidate-vibid:4234015230019": 14,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 76,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 674,
-      "Василевский Станислав Иванович": 68,
-      "Зверев Владимир Константинович": 72,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 18,
-      "Соколенко Павел Васильевич": 76,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 674,
+      "gas:candidate-vibid:4234015230019": 68,
+      "gas:candidate-vibid:4234015230258": 72,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 18,
+      "gas:candidate-vibid:4234015218878": 76,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 864,
-      "Василевский Станислав Иванович": 1,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 13,
-      "Соколенко Павел Васильевич": 78,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 1
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 864,
+      "gas:candidate-vibid:4234015230019": 1,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 13,
+      "gas:candidate-vibid:4234015218878": 78,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 78,
-      "Василевский Станислав Иванович": 3,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 10,
-      "Соколенко Павел Васильевич": 27,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 78,
+      "gas:candidate-vibid:4234015230019": 3,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 10,
+      "gas:candidate-vibid:4234015218878": 27,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 77,
-      "Василевский Станислав Иванович": 1,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 3,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 0
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 77,
+      "gas:candidate-vibid:4234015230019": 1,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 3,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 225,
-      "Василевский Станислав Иванович": 5,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 22,
-      "Соколенко Павел Васильевич": 10,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 1
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 225,
+      "gas:candidate-vibid:4234015230019": 5,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 22,
+      "gas:candidate-vibid:4234015218878": 10,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 1273,
-      "Василевский Станислав Иванович": 20,
-      "Зверев Владимир Константинович": 9,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 61,
-      "Соколенко Павел Васильевич": 148,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 1
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 1273,
+      "gas:candidate-vibid:4234015230019": 20,
+      "gas:candidate-vibid:4234015230258": 9,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 61,
+      "gas:candidate-vibid:4234015218878": 148,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 1181,
-      "Василевский Станислав Иванович": 51,
-      "Зверев Владимир Константинович": 24,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 96,
-      "Соколенко Павел Васильевич": 143,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 34
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 1181,
+      "gas:candidate-vibid:4234015230019": 51,
+      "gas:candidate-vibid:4234015230258": 24,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 96,
+      "gas:candidate-vibid:4234015218878": 143,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 28,
-      "Боева Наталья Дмитриевна": 1137,
-      "Василевский Станислав Иванович": 28,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 92,
-      "Соколенко Павел Васильевич": 70,
-      "Тумин Андрей Николаевич": 29,
-      "Туренко Александр Анатольевич": 32
+      "gas:candidate-vibid:4234015230343": 28,
+      "gas:candidate-vibid:4234015230147": 1137,
+      "gas:candidate-vibid:4234015230019": 28,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 92,
+      "gas:candidate-vibid:4234015218878": 70,
+      "gas:candidate-vibid:4234015230623": 29,
+      "gas:candidate-vibid:4234015218802": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 43,
-      "Боева Наталья Дмитриевна": 679,
-      "Василевский Станислав Иванович": 108,
-      "Зверев Владимир Константинович": 41,
-      "Керимов Олег Юрьевич": 20,
-      "Руденко Андрей Викторович": 68,
-      "Соколенко Павел Васильевич": 39,
-      "Тумин Андрей Николаевич": 22,
-      "Туренко Александр Анатольевич": 33
+      "gas:candidate-vibid:4234015230343": 43,
+      "gas:candidate-vibid:4234015230147": 679,
+      "gas:candidate-vibid:4234015230019": 108,
+      "gas:candidate-vibid:4234015230258": 41,
+      "gas:candidate-vibid:4234015230559": 20,
+      "gas:candidate-vibid:4234015229959": 68,
+      "gas:candidate-vibid:4234015218878": 39,
+      "gas:candidate-vibid:4234015230623": 22,
+      "gas:candidate-vibid:4234015218802": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 1498,
-      "Василевский Станислав Иванович": 18,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 13,
-      "Соколенко Павел Васильевич": 208,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 4
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 1498,
+      "gas:candidate-vibid:4234015230019": 18,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 13,
+      "gas:candidate-vibid:4234015218878": 208,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 1371,
-      "Василевский Станислав Иванович": 27,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 28,
-      "Соколенко Павел Васильевич": 177,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 1371,
+      "gas:candidate-vibid:4234015230019": 27,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 28,
+      "gas:candidate-vibid:4234015218878": 177,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 168,
-      "Василевский Станислав Иванович": 6,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 7,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 4
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 168,
+      "gas:candidate-vibid:4234015230019": 6,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 7,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 580,
-      "Василевский Станислав Иванович": 93,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 58,
-      "Соколенко Павел Васильевич": 90,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 580,
+      "gas:candidate-vibid:4234015230019": 93,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 58,
+      "gas:candidate-vibid:4234015218878": 90,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 157,
-      "Василевский Станислав Иванович": 2,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 7,
-      "Соколенко Павел Васильевич": 14,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 4
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 157,
+      "gas:candidate-vibid:4234015230019": 2,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 7,
+      "gas:candidate-vibid:4234015218878": 14,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 641,
-      "Василевский Станислав Иванович": 18,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 65,
-      "Соколенко Павел Васильевич": 64,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 641,
+      "gas:candidate-vibid:4234015230019": 18,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 65,
+      "gas:candidate-vibid:4234015218878": 64,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 18,
-      "Боева Наталья Дмитриевна": 663,
-      "Василевский Станислав Иванович": 18,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 25,
-      "Руденко Андрей Викторович": 60,
-      "Соколенко Павел Васильевич": 64,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 18,
+      "gas:candidate-vibid:4234015230147": 663,
+      "gas:candidate-vibid:4234015230019": 18,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 25,
+      "gas:candidate-vibid:4234015229959": 60,
+      "gas:candidate-vibid:4234015218878": 64,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 18,
-      "Боева Наталья Дмитриевна": 1448,
-      "Василевский Станислав Иванович": 39,
-      "Зверев Владимир Константинович": 33,
-      "Керимов Олег Юрьевич": 20,
-      "Руденко Андрей Викторович": 144,
-      "Соколенко Павел Васильевич": 104,
-      "Тумин Андрей Николаевич": 24,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 18,
+      "gas:candidate-vibid:4234015230147": 1448,
+      "gas:candidate-vibid:4234015230019": 39,
+      "gas:candidate-vibid:4234015230258": 33,
+      "gas:candidate-vibid:4234015230559": 20,
+      "gas:candidate-vibid:4234015229959": 144,
+      "gas:candidate-vibid:4234015218878": 104,
+      "gas:candidate-vibid:4234015230623": 24,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 1288,
-      "Василевский Станислав Иванович": 4,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 12,
-      "Соколенко Павел Васильевич": 137,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 47
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 1288,
+      "gas:candidate-vibid:4234015230019": 4,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 12,
+      "gas:candidate-vibid:4234015218878": 137,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 415,
-      "Василевский Станислав Иванович": 6,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 33,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 18
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 415,
+      "gas:candidate-vibid:4234015230019": 6,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 33,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 204,
-      "Василевский Станислав Иванович": 11,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 15,
-      "Соколенко Павел Васильевич": 20,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 204,
+      "gas:candidate-vibid:4234015230019": 11,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 15,
+      "gas:candidate-vibid:4234015218878": 20,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 187,
-      "Василевский Станислав Иванович": 2,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 9,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 187,
+      "gas:candidate-vibid:4234015230019": 2,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 9,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 849,
-      "Василевский Станислав Иванович": 11,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 54,
-      "Соколенко Павел Васильевич": 49,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 11
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 849,
+      "gas:candidate-vibid:4234015230019": 11,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 54,
+      "gas:candidate-vibid:4234015218878": 49,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 375,
-      "Василевский Станислав Иванович": 15,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 31,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 8
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 375,
+      "gas:candidate-vibid:4234015230019": 15,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 31,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 641,
-      "Василевский Станислав Иванович": 64,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 43,
-      "Соколенко Павел Васильевич": 51,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 11
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 641,
+      "gas:candidate-vibid:4234015230019": 64,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 43,
+      "gas:candidate-vibid:4234015218878": 51,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 50,
-      "Боева Наталья Дмитриевна": 1260,
-      "Василевский Станислав Иванович": 29,
-      "Зверев Владимир Константинович": 29,
-      "Керимов Олег Юрьевич": 25,
-      "Руденко Андрей Викторович": 70,
-      "Соколенко Павел Васильевич": 173,
-      "Тумин Андрей Николаевич": 20,
-      "Туренко Александр Анатольевич": 20
+      "gas:candidate-vibid:4234015230343": 50,
+      "gas:candidate-vibid:4234015230147": 1260,
+      "gas:candidate-vibid:4234015230019": 29,
+      "gas:candidate-vibid:4234015230258": 29,
+      "gas:candidate-vibid:4234015230559": 25,
+      "gas:candidate-vibid:4234015229959": 70,
+      "gas:candidate-vibid:4234015218878": 173,
+      "gas:candidate-vibid:4234015230623": 20,
+      "gas:candidate-vibid:4234015218802": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 31,
-      "Боева Наталья Дмитриевна": 1121,
-      "Василевский Станислав Иванович": 60,
-      "Зверев Владимир Константинович": 39,
-      "Керимов Олег Юрьевич": 24,
-      "Руденко Андрей Викторович": 65,
-      "Соколенко Павел Васильевич": 80,
-      "Тумин Андрей Николаевич": 20,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 31,
+      "gas:candidate-vibid:4234015230147": 1121,
+      "gas:candidate-vibid:4234015230019": 60,
+      "gas:candidate-vibid:4234015230258": 39,
+      "gas:candidate-vibid:4234015230559": 24,
+      "gas:candidate-vibid:4234015229959": 65,
+      "gas:candidate-vibid:4234015218878": 80,
+      "gas:candidate-vibid:4234015230623": 20,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 128,
-      "Василевский Станислав Иванович": 5,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 2,
-      "Соколенко Павел Васильевич": 12,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 128,
+      "gas:candidate-vibid:4234015230019": 5,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 2,
+      "gas:candidate-vibid:4234015218878": 12,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 198,
-      "Василевский Станислав Иванович": 3,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 11,
-      "Соколенко Павел Васильевич": 21,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 198,
+      "gas:candidate-vibid:4234015230019": 3,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 11,
+      "gas:candidate-vibid:4234015218878": 21,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 135,
-      "Василевский Станислав Иванович": 3,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 13,
-      "Соколенко Павел Васильевич": 12,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 135,
+      "gas:candidate-vibid:4234015230019": 3,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 13,
+      "gas:candidate-vibid:4234015218878": 12,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 961,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 111,
-      "Соколенко Павел Васильевич": 33,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 961,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 111,
+      "gas:candidate-vibid:4234015218878": 33,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 602,
-      "Василевский Станислав Иванович": 63,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 45,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 602,
+      "gas:candidate-vibid:4234015230019": 63,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 45,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 39,
-      "Боева Наталья Дмитриевна": 1092,
-      "Василевский Станислав Иванович": 40,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 86,
-      "Соколенко Павел Васильевич": 114,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 39,
+      "gas:candidate-vibid:4234015230147": 1092,
+      "gas:candidate-vibid:4234015230019": 40,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 86,
+      "gas:candidate-vibid:4234015218878": 114,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 15,
-      "Боева Наталья Дмитриевна": 354,
-      "Василевский Станислав Иванович": 44,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 12,
-      "Соколенко Павел Васильевич": 22,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 15,
+      "gas:candidate-vibid:4234015230147": 354,
+      "gas:candidate-vibid:4234015230019": 44,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 12,
+      "gas:candidate-vibid:4234015218878": 22,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 31,
-      "Боева Наталья Дмитриевна": 231,
-      "Василевский Станислав Иванович": 35,
-      "Зверев Владимир Константинович": 25,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 35,
-      "Соколенко Павел Васильевич": 66,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 18
+      "gas:candidate-vibid:4234015230343": 31,
+      "gas:candidate-vibid:4234015230147": 231,
+      "gas:candidate-vibid:4234015230019": 35,
+      "gas:candidate-vibid:4234015230258": 25,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 35,
+      "gas:candidate-vibid:4234015218878": 66,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 593,
-      "Василевский Станислав Иванович": 20,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 48,
-      "Соколенко Павел Васильевич": 71,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 593,
+      "gas:candidate-vibid:4234015230019": 20,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 48,
+      "gas:candidate-vibid:4234015218878": 71,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 16,
-      "Боева Наталья Дмитриевна": 1035,
-      "Василевский Станислав Иванович": 39,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 20,
-      "Руденко Андрей Викторович": 86,
-      "Соколенко Павел Васильевич": 120,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 12
+      "gas:candidate-vibid:4234015230343": 16,
+      "gas:candidate-vibid:4234015230147": 1035,
+      "gas:candidate-vibid:4234015230019": 39,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 20,
+      "gas:candidate-vibid:4234015229959": 86,
+      "gas:candidate-vibid:4234015218878": 120,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 16,
-      "Боева Наталья Дмитриевна": 1026,
-      "Василевский Станислав Иванович": 98,
-      "Зверев Владимир Константинович": 22,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 103,
-      "Соколенко Павел Васильевич": 51,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 20
+      "gas:candidate-vibid:4234015230343": 16,
+      "gas:candidate-vibid:4234015230147": 1026,
+      "gas:candidate-vibid:4234015230019": 98,
+      "gas:candidate-vibid:4234015230258": 22,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 103,
+      "gas:candidate-vibid:4234015218878": 51,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217741&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217741&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 258,
-      "Василевский Станислав Иванович": 85,
-      "Зверев Владимир Константинович": 31,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 45,
-      "Соколенко Павел Васильевич": 56,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 258,
+      "gas:candidate-vibid:4234015230019": 85,
+      "gas:candidate-vibid:4234015230258": 31,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 45,
+      "gas:candidate-vibid:4234015218878": 56,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 8,
-      "Боева Наталья Дмитриевна": 205,
-      "Василевский Станислав Иванович": 81,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 62,
-      "Соколенко Павел Васильевич": 69,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 8,
+      "gas:candidate-vibid:4234015230147": 205,
+      "gas:candidate-vibid:4234015230019": 81,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 62,
+      "gas:candidate-vibid:4234015218878": 69,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 219,
-      "Василевский Станислав Иванович": 68,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 39,
-      "Соколенко Павел Васильевич": 53,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 219,
+      "gas:candidate-vibid:4234015230019": 68,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 39,
+      "gas:candidate-vibid:4234015218878": 53,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 19,
-      "Боева Наталья Дмитриевна": 276,
-      "Василевский Станислав Иванович": 83,
-      "Зверев Владимир Константинович": 32,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 50,
-      "Соколенко Павел Васильевич": 89,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 19,
+      "gas:candidate-vibid:4234015230147": 276,
+      "gas:candidate-vibid:4234015230019": 83,
+      "gas:candidate-vibid:4234015230258": 32,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 50,
+      "gas:candidate-vibid:4234015218878": 89,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 188,
-      "Василевский Станислав Иванович": 49,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 37,
-      "Соколенко Павел Васильевич": 50,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 188,
+      "gas:candidate-vibid:4234015230019": 49,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 37,
+      "gas:candidate-vibid:4234015218878": 50,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 196,
-      "Василевский Станислав Иванович": 53,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 40,
-      "Соколенко Павел Васильевич": 32,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 196,
+      "gas:candidate-vibid:4234015230019": 53,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 40,
+      "gas:candidate-vibid:4234015218878": 32,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 85,
-      "Василевский Станислав Иванович": 9,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 10,
-      "Соколенко Павел Васильевич": 8,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 0
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 85,
+      "gas:candidate-vibid:4234015230019": 9,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 10,
+      "gas:candidate-vibid:4234015218878": 8,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 105,
-      "Василевский Станислав Иванович": 39,
-      "Зверев Владимир Константинович": 8,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 22,
-      "Соколенко Павел Васильевич": 26,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 15
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 105,
+      "gas:candidate-vibid:4234015230019": 39,
+      "gas:candidate-vibid:4234015230258": 8,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 22,
+      "gas:candidate-vibid:4234015218878": 26,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 383,
-      "Василевский Станислав Иванович": 44,
-      "Зверев Владимир Константинович": 38,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 28,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 383,
+      "gas:candidate-vibid:4234015230019": 44,
+      "gas:candidate-vibid:4234015230258": 38,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 28,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 14,
-      "Боева Наталья Дмитриевна": 249,
-      "Василевский Станислав Иванович": 84,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 43,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 14,
+      "gas:candidate-vibid:4234015230147": 249,
+      "gas:candidate-vibid:4234015230019": 84,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 43,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 16,
-      "Боева Наталья Дмитриевна": 382,
-      "Василевский Станислав Иванович": 72,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 54,
-      "Соколенко Павел Васильевич": 69,
-      "Тумин Андрей Николаевич": 12,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 16,
+      "gas:candidate-vibid:4234015230147": 382,
+      "gas:candidate-vibid:4234015230019": 72,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 54,
+      "gas:candidate-vibid:4234015218878": 69,
+      "gas:candidate-vibid:4234015230623": 12,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 253,
-      "Василевский Станислав Иванович": 64,
-      "Зверев Владимир Константинович": 26,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 47,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 253,
+      "gas:candidate-vibid:4234015230019": 64,
+      "gas:candidate-vibid:4234015230258": 26,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 47,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 209,
-      "Василевский Станислав Иванович": 25,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 48,
-      "Соколенко Павел Васильевич": 39,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 13
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 209,
+      "gas:candidate-vibid:4234015230019": 25,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 48,
+      "gas:candidate-vibid:4234015218878": 39,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 479,
-      "Василевский Станислав Иванович": 99,
-      "Зверев Владимир Константинович": 34,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 47,
-      "Соколенко Павел Васильевич": 83,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 44
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 479,
+      "gas:candidate-vibid:4234015230019": 99,
+      "gas:candidate-vibid:4234015230258": 34,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 47,
+      "gas:candidate-vibid:4234015218878": 83,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 151,
-      "Василевский Станислав Иванович": 50,
-      "Зверев Владимир Константинович": 23,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 46,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 25
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 151,
+      "gas:candidate-vibid:4234015230019": 50,
+      "gas:candidate-vibid:4234015230258": 23,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 46,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 126,
-      "Василевский Станислав Иванович": 19,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 11,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 126,
+      "gas:candidate-vibid:4234015230019": 19,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 11,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 57,
-      "Василевский Станислав Иванович": 2,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 14,
-      "Соколенко Павел Васильевич": 6,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 0
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 57,
+      "gas:candidate-vibid:4234015230019": 2,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 14,
+      "gas:candidate-vibid:4234015218878": 6,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 56,
-      "Василевский Станислав Иванович": 5,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 6,
-      "Соколенко Павел Васильевич": 12,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 56,
+      "gas:candidate-vibid:4234015230019": 5,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 6,
+      "gas:candidate-vibid:4234015218878": 12,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 58,
-      "Василевский Станислав Иванович": 12,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 18,
-      "Соколенко Павел Васильевич": 11,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 58,
+      "gas:candidate-vibid:4234015230019": 12,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 18,
+      "gas:candidate-vibid:4234015218878": 11,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 66,
-      "Василевский Станислав Иванович": 9,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 2,
-      "Соколенко Павел Васильевич": 13,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 66,
+      "gas:candidate-vibid:4234015230019": 9,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 2,
+      "gas:candidate-vibid:4234015218878": 13,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 27,
-      "Василевский Станислав Иванович": 9,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 1,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 4
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 27,
+      "gas:candidate-vibid:4234015230019": 9,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 1,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 37,
-      "Василевский Станислав Иванович": 13,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 14,
-      "Соколенко Павел Васильевич": 9,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 37,
+      "gas:candidate-vibid:4234015230019": 13,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 14,
+      "gas:candidate-vibid:4234015218878": 9,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 15,
-      "Боева Наталья Дмитриевна": 236,
-      "Василевский Станислав Иванович": 44,
-      "Зверев Владимир Константинович": 63,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 39,
-      "Соколенко Павел Васильевич": 48,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 15,
+      "gas:candidate-vibid:4234015230147": 236,
+      "gas:candidate-vibid:4234015230019": 44,
+      "gas:candidate-vibid:4234015230258": 63,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 39,
+      "gas:candidate-vibid:4234015218878": 48,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 160,
-      "Василевский Станислав Иванович": 16,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 6,
-      "Соколенко Павел Васильевич": 5,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 160,
+      "gas:candidate-vibid:4234015230019": 16,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 6,
+      "gas:candidate-vibid:4234015218878": 5,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 100,
-      "Василевский Станислав Иванович": 23,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 2,
-      "Соколенко Павел Васильевич": 7,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 100,
+      "gas:candidate-vibid:4234015230019": 23,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 2,
+      "gas:candidate-vibid:4234015218878": 7,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 40,
-      "Василевский Станислав Иванович": 6,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 2,
-      "Соколенко Павел Васильевич": 3,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 40,
+      "gas:candidate-vibid:4234015230019": 6,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 2,
+      "gas:candidate-vibid:4234015218878": 3,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 19,
-      "Боева Наталья Дмитриевна": 486,
-      "Василевский Станислав Иванович": 68,
-      "Зверев Владимир Константинович": 20,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 36,
-      "Соколенко Павел Васильевич": 42,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 59
+      "gas:candidate-vibid:4234015230343": 19,
+      "gas:candidate-vibid:4234015230147": 486,
+      "gas:candidate-vibid:4234015230019": 68,
+      "gas:candidate-vibid:4234015230258": 20,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 36,
+      "gas:candidate-vibid:4234015218878": 42,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 103,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 3,
-      "Соколенко Павел Васильевич": 3,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 103,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 3,
+      "gas:candidate-vibid:4234015218878": 3,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 51,
-      "Василевский Станислав Иванович": 11,
-      "Зверев Владимир Константинович": 0,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 6,
-      "Соколенко Павел Васильевич": 2,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 1
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 51,
+      "gas:candidate-vibid:4234015230019": 11,
+      "gas:candidate-vibid:4234015230258": 0,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 6,
+      "gas:candidate-vibid:4234015218878": 2,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 95,
-      "Василевский Станислав Иванович": 7,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 2,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 5
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 95,
+      "gas:candidate-vibid:4234015230019": 7,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 2,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 58,
-      "Василевский Станислав Иванович": 4,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 4,
-      "Соколенко Павел Васильевич": 2,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 1
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 58,
+      "gas:candidate-vibid:4234015230019": 4,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 4,
+      "gas:candidate-vibid:4234015218878": 2,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 49,
-      "Василевский Станислав Иванович": 4,
-      "Зверев Владимир Константинович": 1,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 1,
-      "Соколенко Павел Васильевич": 0,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 4
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 49,
+      "gas:candidate-vibid:4234015230019": 4,
+      "gas:candidate-vibid:4234015230258": 1,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 1,
+      "gas:candidate-vibid:4234015218878": 0,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 571,
-      "Василевский Станислав Иванович": 59,
-      "Зверев Владимир Константинович": 21,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 29,
-      "Соколенко Павел Васильевич": 33,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 34
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 571,
+      "gas:candidate-vibid:4234015230019": 59,
+      "gas:candidate-vibid:4234015230258": 21,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 29,
+      "gas:candidate-vibid:4234015218878": 33,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 201,
-      "Василевский Станислав Иванович": 10,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 3,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 4,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 8
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 201,
+      "gas:candidate-vibid:4234015230019": 10,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 3,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 4,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 33,
-      "Василевский Станислав Иванович": 4,
-      "Зверев Владимир Константинович": 3,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 1,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 33,
+      "gas:candidate-vibid:4234015230019": 4,
+      "gas:candidate-vibid:4234015230258": 3,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 1,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 78,
-      "Василевский Станислав Иванович": 15,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 1,
-      "Соколенко Павел Васильевич": 2,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 78,
+      "gas:candidate-vibid:4234015230019": 15,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 1,
+      "gas:candidate-vibid:4234015218878": 2,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 265,
-      "Василевский Станислав Иванович": 65,
-      "Зверев Владимир Константинович": 30,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 45,
-      "Соколенко Павел Васильевич": 72,
-      "Тумин Андрей Николаевич": 15,
-      "Туренко Александр Анатольевич": 32
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 265,
+      "gas:candidate-vibid:4234015230019": 65,
+      "gas:candidate-vibid:4234015230258": 30,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 45,
+      "gas:candidate-vibid:4234015218878": 72,
+      "gas:candidate-vibid:4234015230623": 15,
+      "gas:candidate-vibid:4234015218802": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217742&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217742&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 20,
-      "Боева Наталья Дмитриевна": 490,
-      "Василевский Станислав Иванович": 93,
-      "Зверев Владимир Константинович": 23,
-      "Керимов Олег Юрьевич": 15,
-      "Руденко Андрей Викторович": 43,
-      "Соколенко Павел Васильевич": 104,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 53
+      "gas:candidate-vibid:4234015230343": 20,
+      "gas:candidate-vibid:4234015230147": 490,
+      "gas:candidate-vibid:4234015230019": 93,
+      "gas:candidate-vibid:4234015230258": 23,
+      "gas:candidate-vibid:4234015230559": 15,
+      "gas:candidate-vibid:4234015229959": 43,
+      "gas:candidate-vibid:4234015218878": 104,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 25,
-      "Боева Наталья Дмитриевна": 343,
-      "Василевский Станислав Иванович": 92,
-      "Зверев Владимир Константинович": 32,
-      "Керимов Олег Юрьевич": 17,
-      "Руденко Андрей Викторович": 52,
-      "Соколенко Павел Васильевич": 158,
-      "Тумин Андрей Николаевич": 12,
-      "Туренко Александр Анатольевич": 35
+      "gas:candidate-vibid:4234015230343": 25,
+      "gas:candidate-vibid:4234015230147": 343,
+      "gas:candidate-vibid:4234015230019": 92,
+      "gas:candidate-vibid:4234015230258": 32,
+      "gas:candidate-vibid:4234015230559": 17,
+      "gas:candidate-vibid:4234015229959": 52,
+      "gas:candidate-vibid:4234015218878": 158,
+      "gas:candidate-vibid:4234015230623": 12,
+      "gas:candidate-vibid:4234015218802": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 317,
-      "Василевский Станислав Иванович": 90,
-      "Зверев Владимир Константинович": 15,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 29,
-      "Соколенко Павел Васильевич": 119,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 33
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 317,
+      "gas:candidate-vibid:4234015230019": 90,
+      "gas:candidate-vibid:4234015230258": 15,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 29,
+      "gas:candidate-vibid:4234015218878": 119,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 22,
-      "Боева Наталья Дмитриевна": 918,
-      "Василевский Станислав Иванович": 126,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 12,
-      "Руденко Андрей Викторович": 63,
-      "Соколенко Павел Васильевич": 155,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 48
+      "gas:candidate-vibid:4234015230343": 22,
+      "gas:candidate-vibid:4234015230147": 918,
+      "gas:candidate-vibid:4234015230019": 126,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 12,
+      "gas:candidate-vibid:4234015229959": 63,
+      "gas:candidate-vibid:4234015218878": 155,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 34,
-      "Боева Наталья Дмитриевна": 698,
-      "Василевский Станислав Иванович": 133,
-      "Зверев Владимир Константинович": 49,
-      "Керимов Олег Юрьевич": 19,
-      "Руденко Андрей Викторович": 59,
-      "Соколенко Павел Васильевич": 165,
-      "Тумин Андрей Николаевич": 22,
-      "Туренко Александр Анатольевич": 54
+      "gas:candidate-vibid:4234015230343": 34,
+      "gas:candidate-vibid:4234015230147": 698,
+      "gas:candidate-vibid:4234015230019": 133,
+      "gas:candidate-vibid:4234015230258": 49,
+      "gas:candidate-vibid:4234015230559": 19,
+      "gas:candidate-vibid:4234015229959": 59,
+      "gas:candidate-vibid:4234015218878": 165,
+      "gas:candidate-vibid:4234015230623": 22,
+      "gas:candidate-vibid:4234015218802": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 23,
-      "Боева Наталья Дмитриевна": 600,
-      "Василевский Станислав Иванович": 113,
-      "Зверев Владимир Константинович": 19,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 42,
-      "Соколенко Павел Васильевич": 110,
-      "Тумин Андрей Николаевич": 21,
-      "Туренко Александр Анатольевич": 34
+      "gas:candidate-vibid:4234015230343": 23,
+      "gas:candidate-vibid:4234015230147": 600,
+      "gas:candidate-vibid:4234015230019": 113,
+      "gas:candidate-vibid:4234015230258": 19,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 42,
+      "gas:candidate-vibid:4234015218878": 110,
+      "gas:candidate-vibid:4234015230623": 21,
+      "gas:candidate-vibid:4234015218802": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 378,
-      "Василевский Станислав Иванович": 65,
-      "Зверев Владимир Константинович": 27,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 61,
-      "Тумин Андрей Николаевич": 16,
-      "Туренко Александр Анатольевич": 25
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 378,
+      "gas:candidate-vibid:4234015230019": 65,
+      "gas:candidate-vibid:4234015230258": 27,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 61,
+      "gas:candidate-vibid:4234015230623": 16,
+      "gas:candidate-vibid:4234015218802": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 288,
-      "Василевский Станислав Иванович": 47,
-      "Зверев Владимир Константинович": 25,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 27,
-      "Соколенко Павел Васильевич": 72,
-      "Тумин Андрей Николаевич": 5,
-      "Туренко Александр Анатольевич": 36
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 288,
+      "gas:candidate-vibid:4234015230019": 47,
+      "gas:candidate-vibid:4234015230258": 25,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 27,
+      "gas:candidate-vibid:4234015218878": 72,
+      "gas:candidate-vibid:4234015230623": 5,
+      "gas:candidate-vibid:4234015218802": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 23,
-      "Боева Наталья Дмитриевна": 707,
-      "Василевский Станислав Иванович": 112,
-      "Зверев Владимир Константинович": 32,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 51,
-      "Соколенко Павел Васильевич": 124,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 49
+      "gas:candidate-vibid:4234015230343": 23,
+      "gas:candidate-vibid:4234015230147": 707,
+      "gas:candidate-vibid:4234015230019": 112,
+      "gas:candidate-vibid:4234015230258": 32,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 51,
+      "gas:candidate-vibid:4234015218878": 124,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 8,
-      "Боева Наталья Дмитриевна": 300,
-      "Василевский Станислав Иванович": 55,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 36,
-      "Соколенко Павел Васильевич": 103,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 28
+      "gas:candidate-vibid:4234015230343": 8,
+      "gas:candidate-vibid:4234015230147": 300,
+      "gas:candidate-vibid:4234015230019": 55,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 36,
+      "gas:candidate-vibid:4234015218878": 103,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 529,
-      "Василевский Станислав Иванович": 115,
-      "Зверев Владимир Константинович": 25,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 75,
-      "Соколенко Павел Васильевич": 72,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 529,
+      "gas:candidate-vibid:4234015230019": 115,
+      "gas:candidate-vibid:4234015230258": 25,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 75,
+      "gas:candidate-vibid:4234015218878": 72,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 302,
-      "Василевский Станислав Иванович": 69,
-      "Зверев Владимир Константинович": 21,
-      "Керимов Олег Юрьевич": 7,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 111,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 23
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 302,
+      "gas:candidate-vibid:4234015230019": 69,
+      "gas:candidate-vibid:4234015230258": 21,
+      "gas:candidate-vibid:4234015230559": 7,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 111,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 28,
-      "Боева Наталья Дмитриевна": 457,
-      "Василевский Станислав Иванович": 122,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 55,
-      "Соколенко Павел Васильевич": 121,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 46
+      "gas:candidate-vibid:4234015230343": 28,
+      "gas:candidate-vibid:4234015230147": 457,
+      "gas:candidate-vibid:4234015230019": 122,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 55,
+      "gas:candidate-vibid:4234015218878": 121,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 24,
-      "Боева Наталья Дмитриевна": 695,
-      "Василевский Станислав Иванович": 109,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 14,
-      "Руденко Андрей Викторович": 35,
-      "Соколенко Павел Васильевич": 113,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 37
+      "gas:candidate-vibid:4234015230343": 24,
+      "gas:candidate-vibid:4234015230147": 695,
+      "gas:candidate-vibid:4234015230019": 109,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 14,
+      "gas:candidate-vibid:4234015229959": 35,
+      "gas:candidate-vibid:4234015218878": 113,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 13,
-      "Боева Наталья Дмитриевна": 588,
-      "Василевский Станислав Иванович": 114,
-      "Зверев Владимир Константинович": 27,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 53,
-      "Соколенко Павел Васильевич": 122,
-      "Тумин Андрей Николаевич": 12,
-      "Туренко Александр Анатольевич": 38
+      "gas:candidate-vibid:4234015230343": 13,
+      "gas:candidate-vibid:4234015230147": 588,
+      "gas:candidate-vibid:4234015230019": 114,
+      "gas:candidate-vibid:4234015230258": 27,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 53,
+      "gas:candidate-vibid:4234015218878": 122,
+      "gas:candidate-vibid:4234015230623": 12,
+      "gas:candidate-vibid:4234015218802": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 28,
-      "Боева Наталья Дмитриевна": 628,
-      "Василевский Станислав Иванович": 122,
-      "Зверев Владимир Константинович": 27,
-      "Керимов Олег Юрьевич": 13,
-      "Руденко Андрей Викторович": 60,
-      "Соколенко Павел Васильевич": 135,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 43
+      "gas:candidate-vibid:4234015230343": 28,
+      "gas:candidate-vibid:4234015230147": 628,
+      "gas:candidate-vibid:4234015230019": 122,
+      "gas:candidate-vibid:4234015230258": 27,
+      "gas:candidate-vibid:4234015230559": 13,
+      "gas:candidate-vibid:4234015229959": 60,
+      "gas:candidate-vibid:4234015218878": 135,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 185,
-      "Василевский Станислав Иванович": 55,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 19,
-      "Руденко Андрей Викторович": 11,
-      "Соколенко Павел Васильевич": 83,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 17
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 185,
+      "gas:candidate-vibid:4234015230019": 55,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 19,
+      "gas:candidate-vibid:4234015229959": 11,
+      "gas:candidate-vibid:4234015218878": 83,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 2,
-      "Боева Наталья Дмитриевна": 111,
-      "Василевский Станислав Иванович": 30,
-      "Зверев Владимир Константинович": 4,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 4,
-      "Соколенко Павел Васильевич": 17,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 2,
+      "gas:candidate-vibid:4234015230147": 111,
+      "gas:candidate-vibid:4234015230019": 30,
+      "gas:candidate-vibid:4234015230258": 4,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 4,
+      "gas:candidate-vibid:4234015218878": 17,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 113,
-      "Василевский Станислав Иванович": 29,
-      "Зверев Владимир Константинович": 6,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 11,
-      "Соколенко Павел Васильевич": 5,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 2
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 113,
+      "gas:candidate-vibid:4234015230019": 29,
+      "gas:candidate-vibid:4234015230258": 6,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 11,
+      "gas:candidate-vibid:4234015218878": 5,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 6,
-      "Боева Наталья Дмитриевна": 363,
-      "Василевский Станислав Иванович": 27,
-      "Зверев Владимир Константинович": 7,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 19,
-      "Соколенко Павел Васильевич": 42,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 18
+      "gas:candidate-vibid:4234015230343": 6,
+      "gas:candidate-vibid:4234015230147": 363,
+      "gas:candidate-vibid:4234015230019": 27,
+      "gas:candidate-vibid:4234015230258": 7,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 19,
+      "gas:candidate-vibid:4234015218878": 42,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 26,
-      "Боева Наталья Дмитриевна": 918,
-      "Василевский Станислав Иванович": 129,
-      "Зверев Владимир Константинович": 50,
-      "Керимов Олег Юрьевич": 50,
-      "Руденко Андрей Викторович": 59,
-      "Соколенко Павел Васильевич": 112,
-      "Тумин Андрей Николаевич": 48,
-      "Туренко Александр Анатольевич": 43
+      "gas:candidate-vibid:4234015230343": 26,
+      "gas:candidate-vibid:4234015230147": 918,
+      "gas:candidate-vibid:4234015230019": 129,
+      "gas:candidate-vibid:4234015230258": 50,
+      "gas:candidate-vibid:4234015230559": 50,
+      "gas:candidate-vibid:4234015229959": 59,
+      "gas:candidate-vibid:4234015218878": 112,
+      "gas:candidate-vibid:4234015230623": 48,
+      "gas:candidate-vibid:4234015218802": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 416,
-      "Василевский Станислав Иванович": 36,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 15,
-      "Соколенко Павел Васильевич": 39,
-      "Тумин Андрей Николаевич": 2,
-      "Туренко Александр Анатольевич": 13
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 416,
+      "gas:candidate-vibid:4234015230019": 36,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 15,
+      "gas:candidate-vibid:4234015218878": 39,
+      "gas:candidate-vibid:4234015230623": 2,
+      "gas:candidate-vibid:4234015218802": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 350,
-      "Василевский Станислав Иванович": 34,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 16,
-      "Соколенко Павел Васильевич": 68,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 16
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 350,
+      "gas:candidate-vibid:4234015230019": 34,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 16,
+      "gas:candidate-vibid:4234015218878": 68,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 1,
-      "Боева Наталья Дмитриевна": 196,
-      "Василевский Станислав Иванович": 16,
-      "Зверев Владимир Константинович": 5,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 5,
-      "Соколенко Павел Васильевич": 19,
-      "Тумин Андрей Николаевич": 1,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 1,
+      "gas:candidate-vibid:4234015230147": 196,
+      "gas:candidate-vibid:4234015230019": 16,
+      "gas:candidate-vibid:4234015230258": 5,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 5,
+      "gas:candidate-vibid:4234015218878": 19,
+      "gas:candidate-vibid:4234015230623": 1,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 446,
-      "Василевский Станислав Иванович": 69,
-      "Зверев Владимир Константинович": 18,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 40,
-      "Соколенко Павел Васильевич": 66,
-      "Тумин Андрей Николаевич": 7,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 446,
+      "gas:candidate-vibid:4234015230019": 69,
+      "gas:candidate-vibid:4234015230258": 18,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 40,
+      "gas:candidate-vibid:4234015218878": 66,
+      "gas:candidate-vibid:4234015230623": 7,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 344,
-      "Василевский Станислав Иванович": 58,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 34,
-      "Соколенко Павел Васильевич": 58,
-      "Тумин Андрей Николаевич": 14,
-      "Туренко Александр Анатольевич": 35
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 344,
+      "gas:candidate-vibid:4234015230019": 58,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 34,
+      "gas:candidate-vibid:4234015218878": 58,
+      "gas:candidate-vibid:4234015230623": 14,
+      "gas:candidate-vibid:4234015218802": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 18,
-      "Боева Наталья Дмитриевна": 492,
-      "Василевский Станислав Иванович": 77,
-      "Зверев Владимир Константинович": 38,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 31,
-      "Соколенко Павел Васильевич": 87,
-      "Тумин Андрей Николаевич": 15,
-      "Туренко Александр Анатольевич": 39
+      "gas:candidate-vibid:4234015230343": 18,
+      "gas:candidate-vibid:4234015230147": 492,
+      "gas:candidate-vibid:4234015230019": 77,
+      "gas:candidate-vibid:4234015230258": 38,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 31,
+      "gas:candidate-vibid:4234015218878": 87,
+      "gas:candidate-vibid:4234015230623": 15,
+      "gas:candidate-vibid:4234015218802": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 448,
-      "Василевский Станислав Иванович": 32,
-      "Зверев Владимир Константинович": 17,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 25,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 17
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 448,
+      "gas:candidate-vibid:4234015230019": 32,
+      "gas:candidate-vibid:4234015230258": 17,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 25,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 406,
-      "Василевский Станислав Иванович": 65,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 53,
-      "Соколенко Павел Васильевич": 82,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 36
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 406,
+      "gas:candidate-vibid:4234015230019": 65,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 53,
+      "gas:candidate-vibid:4234015218878": 82,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 18,
-      "Боева Наталья Дмитриевна": 353,
-      "Василевский Станислав Иванович": 67,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 20,
-      "Соколенко Павел Васильевич": 75,
-      "Тумин Андрей Николаевич": 8,
-      "Туренко Александр Анатольевич": 30
+      "gas:candidate-vibid:4234015230343": 18,
+      "gas:candidate-vibid:4234015230147": 353,
+      "gas:candidate-vibid:4234015230019": 67,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 20,
+      "gas:candidate-vibid:4234015218878": 75,
+      "gas:candidate-vibid:4234015230623": 8,
+      "gas:candidate-vibid:4234015218802": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 3,
-      "Боева Наталья Дмитриевна": 46,
-      "Василевский Станислав Иванович": 11,
-      "Зверев Владимир Константинович": 0,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 3,
-      "Соколенко Павел Васильевич": 20,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 3,
+      "gas:candidate-vibid:4234015230147": 46,
+      "gas:candidate-vibid:4234015230019": 11,
+      "gas:candidate-vibid:4234015230258": 0,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 3,
+      "gas:candidate-vibid:4234015218878": 20,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 511,
-      "Василевский Станислав Иванович": 39,
-      "Зверев Владимир Константинович": 16,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 48,
-      "Соколенко Павел Васильевич": 183,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 511,
+      "gas:candidate-vibid:4234015230019": 39,
+      "gas:candidate-vibid:4234015230258": 16,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 48,
+      "gas:candidate-vibid:4234015218878": 183,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 9,
-      "Боева Наталья Дмитриевна": 485,
-      "Василевский Станислав Иванович": 74,
-      "Зверев Владимир Константинович": 14,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 53,
-      "Соколенко Павел Васильевич": 84,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 22
+      "gas:candidate-vibid:4234015230343": 9,
+      "gas:candidate-vibid:4234015230147": 485,
+      "gas:candidate-vibid:4234015230019": 74,
+      "gas:candidate-vibid:4234015230258": 14,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 53,
+      "gas:candidate-vibid:4234015218878": 84,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 435,
-      "Василевский Станислав Иванович": 73,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 41,
-      "Соколенко Павел Васильевич": 148,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 32
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 435,
+      "gas:candidate-vibid:4234015230019": 73,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 41,
+      "gas:candidate-vibid:4234015218878": 148,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 19,
-      "Боева Наталья Дмитриевна": 385,
-      "Василевский Станислав Иванович": 53,
-      "Зверев Владимир Константинович": 11,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 27,
-      "Соколенко Павел Васильевич": 47,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 19
+      "gas:candidate-vibid:4234015230343": 19,
+      "gas:candidate-vibid:4234015230147": 385,
+      "gas:candidate-vibid:4234015230019": 53,
+      "gas:candidate-vibid:4234015230258": 11,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 27,
+      "gas:candidate-vibid:4234015218878": 47,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217743&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217743&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 27,
-      "Боева Наталья Дмитриевна": 602,
-      "Василевский Станислав Иванович": 198,
-      "Зверев Владимир Константинович": 64,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 63,
-      "Соколенко Павел Васильевич": 165,
-      "Тумин Андрей Николаевич": 28,
-      "Туренко Александр Анатольевич": 48
+      "gas:candidate-vibid:4234015230343": 27,
+      "gas:candidate-vibid:4234015230147": 602,
+      "gas:candidate-vibid:4234015230019": 198,
+      "gas:candidate-vibid:4234015230258": 64,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 63,
+      "gas:candidate-vibid:4234015218878": 165,
+      "gas:candidate-vibid:4234015230623": 28,
+      "gas:candidate-vibid:4234015218802": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 699,
-      "Василевский Станислав Иванович": 76,
-      "Зверев Владимир Константинович": 36,
-      "Керимов Олег Юрьевич": 9,
-      "Руденко Андрей Викторович": 56,
-      "Соколенко Павел Васильевич": 89,
-      "Тумин Андрей Николаевич": 9,
-      "Туренко Александр Анатольевич": 31
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 699,
+      "gas:candidate-vibid:4234015230019": 76,
+      "gas:candidate-vibid:4234015230258": 36,
+      "gas:candidate-vibid:4234015230559": 9,
+      "gas:candidate-vibid:4234015229959": 56,
+      "gas:candidate-vibid:4234015218878": 89,
+      "gas:candidate-vibid:4234015230623": 9,
+      "gas:candidate-vibid:4234015218802": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 21,
-      "Боева Наталья Дмитриевна": 529,
-      "Василевский Станислав Иванович": 17,
-      "Зверев Владимир Константинович": 40,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 59,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 11,
-      "Туренко Александр Анатольевич": 37
+      "gas:candidate-vibid:4234015230343": 21,
+      "gas:candidate-vibid:4234015230147": 529,
+      "gas:candidate-vibid:4234015230019": 17,
+      "gas:candidate-vibid:4234015230258": 40,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 59,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 11,
+      "gas:candidate-vibid:4234015218802": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 419,
-      "Василевский Станислав Иванович": 28,
-      "Зверев Владимир Константинович": 12,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 8,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 10
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 419,
+      "gas:candidate-vibid:4234015230019": 28,
+      "gas:candidate-vibid:4234015230258": 12,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 8,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 346,
-      "Василевский Станислав Иванович": 36,
-      "Зверев Владимир Константинович": 23,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 44,
-      "Соколенко Павел Васильевич": 37,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 21
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 346,
+      "gas:candidate-vibid:4234015230019": 36,
+      "gas:candidate-vibid:4234015230258": 23,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 44,
+      "gas:candidate-vibid:4234015218878": 37,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 12,
-      "Боева Наталья Дмитриевна": 603,
-      "Василевский Станислав Иванович": 30,
-      "Зверев Владимир Константинович": 45,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 33,
-      "Соколенко Павел Васильевич": 33,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 10
+      "gas:candidate-vibid:4234015230343": 12,
+      "gas:candidate-vibid:4234015230147": 603,
+      "gas:candidate-vibid:4234015230019": 30,
+      "gas:candidate-vibid:4234015230258": 45,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 33,
+      "gas:candidate-vibid:4234015218878": 33,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 30,
-      "Боева Наталья Дмитриевна": 430,
-      "Василевский Станислав Иванович": 101,
-      "Зверев Владимир Константинович": 84,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 129,
-      "Соколенко Павел Васильевич": 157,
-      "Тумин Андрей Николаевич": 24,
-      "Туренко Александр Анатольевич": 34
+      "gas:candidate-vibid:4234015230343": 30,
+      "gas:candidate-vibid:4234015230147": 430,
+      "gas:candidate-vibid:4234015230019": 101,
+      "gas:candidate-vibid:4234015230258": 84,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 129,
+      "gas:candidate-vibid:4234015218878": 157,
+      "gas:candidate-vibid:4234015230623": 24,
+      "gas:candidate-vibid:4234015218802": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 967,
-      "Василевский Станислав Иванович": 47,
-      "Зверев Владимир Константинович": 112,
-      "Керимов Олег Юрьевич": 0,
-      "Руденко Андрей Викторович": 34,
-      "Соколенко Павел Васильевич": 359,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 6
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 967,
+      "gas:candidate-vibid:4234015230019": 47,
+      "gas:candidate-vibid:4234015230258": 112,
+      "gas:candidate-vibid:4234015230559": 0,
+      "gas:candidate-vibid:4234015229959": 34,
+      "gas:candidate-vibid:4234015218878": 359,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 5,
-      "Боева Наталья Дмитриевна": 107,
-      "Василевский Станислав Иванович": 19,
-      "Зверев Владимир Константинович": 9,
-      "Керимов Олег Юрьевич": 8,
-      "Руденко Андрей Викторович": 18,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 3
+      "gas:candidate-vibid:4234015230343": 5,
+      "gas:candidate-vibid:4234015230147": 107,
+      "gas:candidate-vibid:4234015230019": 19,
+      "gas:candidate-vibid:4234015230258": 9,
+      "gas:candidate-vibid:4234015230559": 8,
+      "gas:candidate-vibid:4234015229959": 18,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 25,
-      "Боева Наталья Дмитриевна": 454,
-      "Василевский Станислав Иванович": 93,
-      "Зверев Владимир Константинович": 55,
-      "Керимов Олег Юрьевич": 11,
-      "Руденко Андрей Викторович": 40,
-      "Соколенко Павел Васильевич": 69,
-      "Тумин Андрей Николаевич": 17,
-      "Туренко Александр Анатольевич": 27
+      "gas:candidate-vibid:4234015230343": 25,
+      "gas:candidate-vibid:4234015230147": 454,
+      "gas:candidate-vibid:4234015230019": 93,
+      "gas:candidate-vibid:4234015230258": 55,
+      "gas:candidate-vibid:4234015230559": 11,
+      "gas:candidate-vibid:4234015229959": 40,
+      "gas:candidate-vibid:4234015218878": 69,
+      "gas:candidate-vibid:4234015230623": 17,
+      "gas:candidate-vibid:4234015218802": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 7,
-      "Боева Наталья Дмитриевна": 161,
-      "Василевский Станислав Иванович": 40,
-      "Зверев Владимир Константинович": 13,
-      "Керимов Олег Юрьевич": 4,
-      "Руденко Андрей Викторович": 6,
-      "Соколенко Павел Васильевич": 18,
-      "Тумин Андрей Николаевич": 4,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 7,
+      "gas:candidate-vibid:4234015230147": 161,
+      "gas:candidate-vibid:4234015230019": 40,
+      "gas:candidate-vibid:4234015230258": 13,
+      "gas:candidate-vibid:4234015230559": 4,
+      "gas:candidate-vibid:4234015229959": 6,
+      "gas:candidate-vibid:4234015218878": 18,
+      "gas:candidate-vibid:4234015230623": 4,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 0,
-      "Боева Наталья Дмитриевна": 115,
-      "Василевский Станислав Иванович": 1,
-      "Зверев Владимир Константинович": 2,
-      "Керимов Олег Юрьевич": 1,
-      "Руденко Андрей Викторович": 10,
-      "Соколенко Павел Васильевич": 3,
-      "Тумин Андрей Николаевич": 0,
-      "Туренко Александр Анатольевич": 7
+      "gas:candidate-vibid:4234015230343": 0,
+      "gas:candidate-vibid:4234015230147": 115,
+      "gas:candidate-vibid:4234015230019": 1,
+      "gas:candidate-vibid:4234015230258": 2,
+      "gas:candidate-vibid:4234015230559": 1,
+      "gas:candidate-vibid:4234015229959": 10,
+      "gas:candidate-vibid:4234015218878": 3,
+      "gas:candidate-vibid:4234015230623": 0,
+      "gas:candidate-vibid:4234015218802": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 4,
-      "Боева Наталья Дмитриевна": 134,
-      "Василевский Станислав Иванович": 26,
-      "Зверев Владимир Константинович": 10,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 2,
-      "Соколенко Павел Васильевич": 30,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 4,
+      "gas:candidate-vibid:4234015230147": 134,
+      "gas:candidate-vibid:4234015230019": 26,
+      "gas:candidate-vibid:4234015230258": 10,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 2,
+      "gas:candidate-vibid:4234015218878": 30,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 11,
-      "Боева Наталья Дмитриевна": 738,
-      "Василевский Станислав Иванович": 74,
-      "Зверев Владимир Константинович": 62,
-      "Керимов Олег Юрьевич": 5,
-      "Руденко Андрей Викторович": 74,
-      "Соколенко Павел Васильевич": 102,
-      "Тумин Андрей Николаевич": 3,
-      "Туренко Александр Анатольевич": 40
+      "gas:candidate-vibid:4234015230343": 11,
+      "gas:candidate-vibid:4234015230147": 738,
+      "gas:candidate-vibid:4234015230019": 74,
+      "gas:candidate-vibid:4234015230258": 62,
+      "gas:candidate-vibid:4234015230559": 5,
+      "gas:candidate-vibid:4234015229959": 74,
+      "gas:candidate-vibid:4234015218878": 102,
+      "gas:candidate-vibid:4234015230623": 3,
+      "gas:candidate-vibid:4234015218802": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 251,
-      "Василевский Станислав Иванович": 40,
-      "Зверев Владимир Константинович": 28,
-      "Керимов Олег Юрьевич": 10,
-      "Руденко Андрей Викторович": 28,
-      "Соколенко Павел Васильевич": 33,
-      "Тумин Андрей Николаевич": 13,
-      "Туренко Александр Анатольевич": 24
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 251,
+      "gas:candidate-vibid:4234015230019": 40,
+      "gas:candidate-vibid:4234015230258": 28,
+      "gas:candidate-vibid:4234015230559": 10,
+      "gas:candidate-vibid:4234015229959": 28,
+      "gas:candidate-vibid:4234015218878": 33,
+      "gas:candidate-vibid:4234015230623": 13,
+      "gas:candidate-vibid:4234015218802": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 224,
-      "Василевский Станислав Иванович": 28,
-      "Зверев Владимир Константинович": 44,
-      "Керимов Олег Юрьевич": 2,
-      "Руденко Андрей Викторович": 21,
-      "Соколенко Павел Васильевич": 31,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 9
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 224,
+      "gas:candidate-vibid:4234015230019": 28,
+      "gas:candidate-vibid:4234015230258": 44,
+      "gas:candidate-vibid:4234015230559": 2,
+      "gas:candidate-vibid:4234015229959": 21,
+      "gas:candidate-vibid:4234015218878": 31,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 10,
-      "Боева Наталья Дмитриевна": 176,
-      "Василевский Станислав Иванович": 59,
-      "Зверев Владимир Константинович": 95,
-      "Керимов Олег Юрьевич": 6,
-      "Руденко Андрей Викторович": 38,
-      "Соколенко Павел Васильевич": 69,
-      "Тумин Андрей Николаевич": 10,
-      "Туренко Александр Анатольевич": 26
+      "gas:candidate-vibid:4234015230343": 10,
+      "gas:candidate-vibid:4234015230147": 176,
+      "gas:candidate-vibid:4234015230019": 59,
+      "gas:candidate-vibid:4234015230258": 95,
+      "gas:candidate-vibid:4234015230559": 6,
+      "gas:candidate-vibid:4234015229959": 38,
+      "gas:candidate-vibid:4234015218878": 69,
+      "gas:candidate-vibid:4234015230623": 10,
+      "gas:candidate-vibid:4234015218802": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_23_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батуринец Александр Алексеевич": 17,
-      "Боева Наталья Дмитриевна": 423,
-      "Василевский Станислав Иванович": 34,
-      "Зверев Владимир Константинович": 85,
-      "Керимов Олег Юрьевич": 16,
-      "Руденко Андрей Викторович": 42,
-      "Соколенко Павел Васильевич": 91,
-      "Тумин Андрей Николаевич": 6,
-      "Туренко Александр Анатольевич": 47
+      "gas:candidate-vibid:4234015230343": 17,
+      "gas:candidate-vibid:4234015230147": 423,
+      "gas:candidate-vibid:4234015230019": 34,
+      "gas:candidate-vibid:4234015230258": 85,
+      "gas:candidate-vibid:4234015230559": 16,
+      "gas:candidate-vibid:4234015229959": 42,
+      "gas:candidate-vibid:4234015218878": 91,
+      "gas:candidate-vibid:4234015230623": 6,
+      "gas:candidate-vibid:4234015218802": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000070&tvd=4234015217744&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234015217744&type=464",

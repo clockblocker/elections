@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 42,
-      "Гайдым Валерий Федорович": 286,
-      "Дугенец Владимир Владимирович": 27,
-      "Зеленов Евгений Алексеевич": 198,
-      "Иванова Татьяна Николаевна": 33,
-      "Лебедева Ирина Анатольевна": 32,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 110,
-      "Филиппов Александр Николаевич": 251,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000112234": 42,
+      "gas:candidate-vibid:1001000121878": 286,
+      "gas:candidate-vibid:253200071041": 27,
+      "gas:candidate-vibid:1001000225965": 198,
+      "gas:candidate-vibid:1001000136088": 33,
+      "gas:candidate-vibid:1001000113956": 32,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 110,
+      "gas:candidate-vibid:253200070918": 251,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 22,
-      "Гайдым Валерий Федорович": 104,
-      "Дугенец Владимир Владимирович": 6,
-      "Зеленов Евгений Алексеевич": 92,
-      "Иванова Татьяна Николаевна": 18,
-      "Лебедева Ирина Анатольевна": 19,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 23,
-      "Филиппов Александр Николаевич": 92,
-      "Худяков Александр Евгеньевич": 1,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000112234": 22,
+      "gas:candidate-vibid:1001000121878": 104,
+      "gas:candidate-vibid:253200071041": 6,
+      "gas:candidate-vibid:1001000225965": 92,
+      "gas:candidate-vibid:1001000136088": 18,
+      "gas:candidate-vibid:1001000113956": 19,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 23,
+      "gas:candidate-vibid:253200070918": 92,
+      "gas:candidate-vibid:1001000195111": 1,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 60,
-      "Гайдым Валерий Федорович": 265,
-      "Дугенец Владимир Владимирович": 31,
-      "Зеленов Евгений Алексеевич": 206,
-      "Иванова Татьяна Николаевна": 24,
-      "Лебедева Ирина Анатольевна": 29,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 80,
-      "Филиппов Александр Николаевич": 233,
-      "Худяков Александр Евгеньевич": 6,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112234": 60,
+      "gas:candidate-vibid:1001000121878": 265,
+      "gas:candidate-vibid:253200071041": 31,
+      "gas:candidate-vibid:1001000225965": 206,
+      "gas:candidate-vibid:1001000136088": 24,
+      "gas:candidate-vibid:1001000113956": 29,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 80,
+      "gas:candidate-vibid:253200070918": 233,
+      "gas:candidate-vibid:1001000195111": 6,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 26,
-      "Гайдым Валерий Федорович": 149,
-      "Дугенец Владимир Владимирович": 13,
-      "Зеленов Евгений Алексеевич": 97,
-      "Иванова Татьяна Николаевна": 14,
-      "Лебедева Ирина Анатольевна": 12,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 33,
-      "Филиппов Александр Николаевич": 137,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000112234": 26,
+      "gas:candidate-vibid:1001000121878": 149,
+      "gas:candidate-vibid:253200071041": 13,
+      "gas:candidate-vibid:1001000225965": 97,
+      "gas:candidate-vibid:1001000136088": 14,
+      "gas:candidate-vibid:1001000113956": 12,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 33,
+      "gas:candidate-vibid:253200070918": 137,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 23,
-      "Гайдым Валерий Федорович": 188,
-      "Дугенец Владимир Владимирович": 18,
-      "Зеленов Евгений Алексеевич": 120,
-      "Иванова Татьяна Николаевна": 19,
-      "Лебедева Ирина Анатольевна": 22,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 73,
-      "Филиппов Александр Николаевич": 120,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000112234": 23,
+      "gas:candidate-vibid:1001000121878": 188,
+      "gas:candidate-vibid:253200071041": 18,
+      "gas:candidate-vibid:1001000225965": 120,
+      "gas:candidate-vibid:1001000136088": 19,
+      "gas:candidate-vibid:1001000113956": 22,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 73,
+      "gas:candidate-vibid:253200070918": 120,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 27,
-      "Гайдым Валерий Федорович": 241,
-      "Дугенец Владимир Владимирович": 22,
-      "Зеленов Евгений Алексеевич": 186,
-      "Иванова Татьяна Николаевна": 28,
-      "Лебедева Ирина Анатольевна": 19,
-      "Никитин Олег Аникеевич": 4,
-      "Тихомиров Николай Иванович": 125,
-      "Филиппов Александр Николаевич": 202,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000112234": 27,
+      "gas:candidate-vibid:1001000121878": 241,
+      "gas:candidate-vibid:253200071041": 22,
+      "gas:candidate-vibid:1001000225965": 186,
+      "gas:candidate-vibid:1001000136088": 28,
+      "gas:candidate-vibid:1001000113956": 19,
+      "gas:candidate-vibid:1001000202320": 4,
+      "gas:candidate-vibid:1001000190384": 125,
+      "gas:candidate-vibid:253200070918": 202,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 44,
-      "Гайдым Валерий Федорович": 262,
-      "Дугенец Владимир Владимирович": 27,
-      "Зеленов Евгений Алексеевич": 171,
-      "Иванова Татьяна Николаевна": 14,
-      "Лебедева Ирина Анатольевна": 31,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 85,
-      "Филиппов Александр Николаевич": 224,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000112234": 44,
+      "gas:candidate-vibid:1001000121878": 262,
+      "gas:candidate-vibid:253200071041": 27,
+      "gas:candidate-vibid:1001000225965": 171,
+      "gas:candidate-vibid:1001000136088": 14,
+      "gas:candidate-vibid:1001000113956": 31,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 85,
+      "gas:candidate-vibid:253200070918": 224,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 61,
-      "Гайдым Валерий Федорович": 261,
-      "Дугенец Владимир Владимирович": 100,
-      "Зеленов Евгений Алексеевич": 266,
-      "Иванова Татьяна Николаевна": 78,
-      "Лебедева Ирина Анатольевна": 64,
-      "Никитин Олег Аникеевич": 8,
-      "Тихомиров Николай Иванович": 122,
-      "Филиппов Александр Николаевич": 218,
-      "Худяков Александр Евгеньевич": 17,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000112234": 61,
+      "gas:candidate-vibid:1001000121878": 261,
+      "gas:candidate-vibid:253200071041": 100,
+      "gas:candidate-vibid:1001000225965": 266,
+      "gas:candidate-vibid:1001000136088": 78,
+      "gas:candidate-vibid:1001000113956": 64,
+      "gas:candidate-vibid:1001000202320": 8,
+      "gas:candidate-vibid:1001000190384": 122,
+      "gas:candidate-vibid:253200070918": 218,
+      "gas:candidate-vibid:1001000195111": 17,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 62,
-      "Гайдым Валерий Федорович": 309,
-      "Дугенец Владимир Владимирович": 20,
-      "Зеленов Евгений Алексеевич": 226,
-      "Иванова Татьяна Николаевна": 17,
-      "Лебедева Ирина Анатольевна": 28,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 96,
-      "Филиппов Александр Николаевич": 224,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000112234": 62,
+      "gas:candidate-vibid:1001000121878": 309,
+      "gas:candidate-vibid:253200071041": 20,
+      "gas:candidate-vibid:1001000225965": 226,
+      "gas:candidate-vibid:1001000136088": 17,
+      "gas:candidate-vibid:1001000113956": 28,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 96,
+      "gas:candidate-vibid:253200070918": 224,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 48,
-      "Гайдым Валерий Федорович": 189,
-      "Дугенец Владимир Владимирович": 23,
-      "Зеленов Евгений Алексеевич": 124,
-      "Иванова Татьяна Николаевна": 16,
-      "Лебедева Ирина Анатольевна": 21,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 69,
-      "Филиппов Александр Николаевич": 169,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112234": 48,
+      "gas:candidate-vibid:1001000121878": 189,
+      "gas:candidate-vibid:253200071041": 23,
+      "gas:candidate-vibid:1001000225965": 124,
+      "gas:candidate-vibid:1001000136088": 16,
+      "gas:candidate-vibid:1001000113956": 21,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 69,
+      "gas:candidate-vibid:253200070918": 169,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 40,
-      "Гайдым Валерий Федорович": 177,
-      "Дугенец Владимир Владимирович": 18,
-      "Зеленов Евгений Алексеевич": 133,
-      "Иванова Татьяна Николаевна": 13,
-      "Лебедева Ирина Анатольевна": 23,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 28,
-      "Филиппов Александр Николаевич": 150,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000112234": 40,
+      "gas:candidate-vibid:1001000121878": 177,
+      "gas:candidate-vibid:253200071041": 18,
+      "gas:candidate-vibid:1001000225965": 133,
+      "gas:candidate-vibid:1001000136088": 13,
+      "gas:candidate-vibid:1001000113956": 23,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 28,
+      "gas:candidate-vibid:253200070918": 150,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 55,
-      "Гайдым Валерий Федорович": 263,
-      "Дугенец Владимир Владимирович": 28,
-      "Зеленов Евгений Алексеевич": 228,
-      "Иванова Татьяна Николаевна": 34,
-      "Лебедева Ирина Анатольевна": 34,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 100,
-      "Филиппов Александр Николаевич": 172,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112234": 55,
+      "gas:candidate-vibid:1001000121878": 263,
+      "gas:candidate-vibid:253200071041": 28,
+      "gas:candidate-vibid:1001000225965": 228,
+      "gas:candidate-vibid:1001000136088": 34,
+      "gas:candidate-vibid:1001000113956": 34,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 100,
+      "gas:candidate-vibid:253200070918": 172,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 18,
-      "Гайдым Валерий Федорович": 74,
-      "Дугенец Владимир Владимирович": 17,
-      "Зеленов Евгений Алексеевич": 89,
-      "Иванова Татьяна Николаевна": 13,
-      "Лебедева Ирина Анатольевна": 21,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 48,
-      "Филиппов Александр Николаевич": 77,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000112234": 18,
+      "gas:candidate-vibid:1001000121878": 74,
+      "gas:candidate-vibid:253200071041": 17,
+      "gas:candidate-vibid:1001000225965": 89,
+      "gas:candidate-vibid:1001000136088": 13,
+      "gas:candidate-vibid:1001000113956": 21,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 48,
+      "gas:candidate-vibid:253200070918": 77,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 50,
-      "Гайдым Валерий Федорович": 221,
-      "Дугенец Владимир Владимирович": 34,
-      "Зеленов Евгений Алексеевич": 217,
-      "Иванова Татьяна Николаевна": 32,
-      "Лебедева Ирина Анатольевна": 33,
-      "Никитин Олег Аникеевич": 4,
-      "Тихомиров Николай Иванович": 109,
-      "Филиппов Александр Николаевич": 245,
-      "Худяков Александр Евгеньевич": 10,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112234": 50,
+      "gas:candidate-vibid:1001000121878": 221,
+      "gas:candidate-vibid:253200071041": 34,
+      "gas:candidate-vibid:1001000225965": 217,
+      "gas:candidate-vibid:1001000136088": 32,
+      "gas:candidate-vibid:1001000113956": 33,
+      "gas:candidate-vibid:1001000202320": 4,
+      "gas:candidate-vibid:1001000190384": 109,
+      "gas:candidate-vibid:253200070918": 245,
+      "gas:candidate-vibid:1001000195111": 10,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 43,
-      "Гайдым Валерий Федорович": 292,
-      "Дугенец Владимир Владимирович": 24,
-      "Зеленов Евгений Алексеевич": 229,
-      "Иванова Татьяна Николаевна": 30,
-      "Лебедева Ирина Анатольевна": 21,
-      "Никитин Олег Аникеевич": 5,
-      "Тихомиров Николай Иванович": 96,
-      "Филиппов Александр Николаевич": 269,
-      "Худяков Александр Евгеньевич": 1,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000112234": 43,
+      "gas:candidate-vibid:1001000121878": 292,
+      "gas:candidate-vibid:253200071041": 24,
+      "gas:candidate-vibid:1001000225965": 229,
+      "gas:candidate-vibid:1001000136088": 30,
+      "gas:candidate-vibid:1001000113956": 21,
+      "gas:candidate-vibid:1001000202320": 5,
+      "gas:candidate-vibid:1001000190384": 96,
+      "gas:candidate-vibid:253200070918": 269,
+      "gas:candidate-vibid:1001000195111": 1,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 77,
-      "Гайдым Валерий Федорович": 345,
-      "Дугенец Владимир Владимирович": 35,
-      "Зеленов Евгений Алексеевич": 301,
-      "Иванова Татьяна Николаевна": 35,
-      "Лебедева Ирина Анатольевна": 28,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 105,
-      "Филиппов Александр Николаевич": 274,
-      "Худяков Александр Евгеньевич": 6,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000112234": 77,
+      "gas:candidate-vibid:1001000121878": 345,
+      "gas:candidate-vibid:253200071041": 35,
+      "gas:candidate-vibid:1001000225965": 301,
+      "gas:candidate-vibid:1001000136088": 35,
+      "gas:candidate-vibid:1001000113956": 28,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 105,
+      "gas:candidate-vibid:253200070918": 274,
+      "gas:candidate-vibid:1001000195111": 6,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 47,
-      "Гайдым Валерий Федорович": 250,
-      "Дугенец Владимир Владимирович": 27,
-      "Зеленов Евгений Алексеевич": 213,
-      "Иванова Татьяна Николаевна": 34,
-      "Лебедева Ирина Анатольевна": 39,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 73,
-      "Филиппов Александр Николаевич": 210,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000112234": 47,
+      "gas:candidate-vibid:1001000121878": 250,
+      "gas:candidate-vibid:253200071041": 27,
+      "gas:candidate-vibid:1001000225965": 213,
+      "gas:candidate-vibid:1001000136088": 34,
+      "gas:candidate-vibid:1001000113956": 39,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 73,
+      "gas:candidate-vibid:253200070918": 210,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 15,
-      "Гайдым Валерий Федорович": 172,
-      "Дугенец Владимир Владимирович": 17,
-      "Зеленов Евгений Алексеевич": 144,
-      "Иванова Татьяна Николаевна": 21,
-      "Лебедева Ирина Анатольевна": 13,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 70,
-      "Филиппов Александр Николаевич": 164,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000112234": 15,
+      "gas:candidate-vibid:1001000121878": 172,
+      "gas:candidate-vibid:253200071041": 17,
+      "gas:candidate-vibid:1001000225965": 144,
+      "gas:candidate-vibid:1001000136088": 21,
+      "gas:candidate-vibid:1001000113956": 13,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 70,
+      "gas:candidate-vibid:253200070918": 164,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 23,
-      "Гайдым Валерий Федорович": 261,
-      "Дугенец Владимир Владимирович": 20,
-      "Зеленов Евгений Алексеевич": 196,
-      "Иванова Татьяна Николаевна": 39,
-      "Лебедева Ирина Анатольевна": 24,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 69,
-      "Филиппов Александр Николаевич": 178,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000112234": 23,
+      "gas:candidate-vibid:1001000121878": 261,
+      "gas:candidate-vibid:253200071041": 20,
+      "gas:candidate-vibid:1001000225965": 196,
+      "gas:candidate-vibid:1001000136088": 39,
+      "gas:candidate-vibid:1001000113956": 24,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 69,
+      "gas:candidate-vibid:253200070918": 178,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 44,
-      "Гайдым Валерий Федорович": 280,
-      "Дугенец Владимир Владимирович": 25,
-      "Зеленов Евгений Алексеевич": 278,
-      "Иванова Татьяна Николаевна": 37,
-      "Лебедева Ирина Анатольевна": 36,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 57,
-      "Филиппов Александр Николаевич": 248,
-      "Худяков Александр Евгеньевич": 6,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112234": 44,
+      "gas:candidate-vibid:1001000121878": 280,
+      "gas:candidate-vibid:253200071041": 25,
+      "gas:candidate-vibid:1001000225965": 278,
+      "gas:candidate-vibid:1001000136088": 37,
+      "gas:candidate-vibid:1001000113956": 36,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 57,
+      "gas:candidate-vibid:253200070918": 248,
+      "gas:candidate-vibid:1001000195111": 6,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 48,
-      "Гайдым Валерий Федорович": 245,
-      "Дугенец Владимир Владимирович": 35,
-      "Зеленов Евгений Алексеевич": 229,
-      "Иванова Татьяна Николаевна": 51,
-      "Лебедева Ирина Анатольевна": 24,
-      "Никитин Олег Аникеевич": 4,
-      "Тихомиров Николай Иванович": 70,
-      "Филиппов Александр Николаевич": 207,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000112234": 48,
+      "gas:candidate-vibid:1001000121878": 245,
+      "gas:candidate-vibid:253200071041": 35,
+      "gas:candidate-vibid:1001000225965": 229,
+      "gas:candidate-vibid:1001000136088": 51,
+      "gas:candidate-vibid:1001000113956": 24,
+      "gas:candidate-vibid:1001000202320": 4,
+      "gas:candidate-vibid:1001000190384": 70,
+      "gas:candidate-vibid:253200070918": 207,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 48,
-      "Гайдым Валерий Федорович": 298,
-      "Дугенец Владимир Владимирович": 30,
-      "Зеленов Евгений Алексеевич": 191,
-      "Иванова Татьяна Николаевна": 36,
-      "Лебедева Ирина Анатольевна": 29,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 111,
-      "Филиппов Александр Николаевич": 240,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000112234": 48,
+      "gas:candidate-vibid:1001000121878": 298,
+      "gas:candidate-vibid:253200071041": 30,
+      "gas:candidate-vibid:1001000225965": 191,
+      "gas:candidate-vibid:1001000136088": 36,
+      "gas:candidate-vibid:1001000113956": 29,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 111,
+      "gas:candidate-vibid:253200070918": 240,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 20,
-      "Гайдым Валерий Федорович": 139,
-      "Дугенец Владимир Владимирович": 15,
-      "Зеленов Евгений Алексеевич": 146,
-      "Иванова Татьяна Николаевна": 21,
-      "Лебедева Ирина Анатольевна": 21,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 38,
-      "Филиппов Александр Николаевич": 112,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000112234": 20,
+      "gas:candidate-vibid:1001000121878": 139,
+      "gas:candidate-vibid:253200071041": 15,
+      "gas:candidate-vibid:1001000225965": 146,
+      "gas:candidate-vibid:1001000136088": 21,
+      "gas:candidate-vibid:1001000113956": 21,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 38,
+      "gas:candidate-vibid:253200070918": 112,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 37,
-      "Гайдым Валерий Федорович": 233,
-      "Дугенец Владимир Владимирович": 50,
-      "Зеленов Евгений Алексеевич": 185,
-      "Иванова Татьяна Николаевна": 38,
-      "Лебедева Ирина Анатольевна": 30,
-      "Никитин Олег Аникеевич": 4,
-      "Тихомиров Николай Иванович": 143,
-      "Филиппов Александр Николаевич": 169,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000112234": 37,
+      "gas:candidate-vibid:1001000121878": 233,
+      "gas:candidate-vibid:253200071041": 50,
+      "gas:candidate-vibid:1001000225965": 185,
+      "gas:candidate-vibid:1001000136088": 38,
+      "gas:candidate-vibid:1001000113956": 30,
+      "gas:candidate-vibid:1001000202320": 4,
+      "gas:candidate-vibid:1001000190384": 143,
+      "gas:candidate-vibid:253200070918": 169,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 271,
-      "Гайдым Валерий Федорович": 247,
-      "Дугенец Владимир Владимирович": 28,
-      "Зеленов Евгений Алексеевич": 162,
-      "Иванова Татьяна Николаевна": 50,
-      "Лебедева Ирина Анатольевна": 18,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 68,
-      "Филиппов Александр Николаевич": 306,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000112234": 271,
+      "gas:candidate-vibid:1001000121878": 247,
+      "gas:candidate-vibid:253200071041": 28,
+      "gas:candidate-vibid:1001000225965": 162,
+      "gas:candidate-vibid:1001000136088": 50,
+      "gas:candidate-vibid:1001000113956": 18,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 68,
+      "gas:candidate-vibid:253200070918": 306,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 54,
-      "Гайдым Валерий Федорович": 283,
-      "Дугенец Владимир Владимирович": 39,
-      "Зеленов Евгений Алексеевич": 209,
-      "Иванова Татьяна Николаевна": 36,
-      "Лебедева Ирина Анатольевна": 45,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 119,
-      "Филиппов Александр Николаевич": 251,
-      "Худяков Александр Евгеньевич": 1,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000112234": 54,
+      "gas:candidate-vibid:1001000121878": 283,
+      "gas:candidate-vibid:253200071041": 39,
+      "gas:candidate-vibid:1001000225965": 209,
+      "gas:candidate-vibid:1001000136088": 36,
+      "gas:candidate-vibid:1001000113956": 45,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 119,
+      "gas:candidate-vibid:253200070918": 251,
+      "gas:candidate-vibid:1001000195111": 1,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 50,
-      "Гайдым Валерий Федорович": 223,
-      "Дугенец Владимир Владимирович": 20,
-      "Зеленов Евгений Алексеевич": 195,
-      "Иванова Татьяна Николаевна": 29,
-      "Лебедева Ирина Анатольевна": 25,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 103,
-      "Филиппов Александр Николаевич": 200,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112234": 50,
+      "gas:candidate-vibid:1001000121878": 223,
+      "gas:candidate-vibid:253200071041": 20,
+      "gas:candidate-vibid:1001000225965": 195,
+      "gas:candidate-vibid:1001000136088": 29,
+      "gas:candidate-vibid:1001000113956": 25,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 103,
+      "gas:candidate-vibid:253200070918": 200,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 36,
-      "Гайдым Валерий Федорович": 256,
-      "Дугенец Владимир Владимирович": 23,
-      "Зеленов Евгений Алексеевич": 197,
-      "Иванова Татьяна Николаевна": 20,
-      "Лебедева Ирина Анатольевна": 22,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 68,
-      "Филиппов Александр Николаевич": 291,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000112234": 36,
+      "gas:candidate-vibid:1001000121878": 256,
+      "gas:candidate-vibid:253200071041": 23,
+      "gas:candidate-vibid:1001000225965": 197,
+      "gas:candidate-vibid:1001000136088": 20,
+      "gas:candidate-vibid:1001000113956": 22,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 68,
+      "gas:candidate-vibid:253200070918": 291,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 50,
-      "Гайдым Валерий Федорович": 220,
-      "Дугенец Владимир Владимирович": 30,
-      "Зеленов Евгений Алексеевич": 222,
-      "Иванова Татьяна Николаевна": 28,
-      "Лебедева Ирина Анатольевна": 29,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 60,
-      "Филиппов Александр Николаевич": 214,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000112234": 50,
+      "gas:candidate-vibid:1001000121878": 220,
+      "gas:candidate-vibid:253200071041": 30,
+      "gas:candidate-vibid:1001000225965": 222,
+      "gas:candidate-vibid:1001000136088": 28,
+      "gas:candidate-vibid:1001000113956": 29,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 60,
+      "gas:candidate-vibid:253200070918": 214,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 53,
-      "Гайдым Валерий Федорович": 259,
-      "Дугенец Владимир Владимирович": 25,
-      "Зеленов Евгений Алексеевич": 163,
-      "Иванова Татьяна Николаевна": 27,
-      "Лебедева Ирина Анатольевна": 19,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 111,
-      "Филиппов Александр Николаевич": 234,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000112234": 53,
+      "gas:candidate-vibid:1001000121878": 259,
+      "gas:candidate-vibid:253200071041": 25,
+      "gas:candidate-vibid:1001000225965": 163,
+      "gas:candidate-vibid:1001000136088": 27,
+      "gas:candidate-vibid:1001000113956": 19,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 111,
+      "gas:candidate-vibid:253200070918": 234,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 56,
-      "Гайдым Валерий Федорович": 287,
-      "Дугенец Владимир Владимирович": 17,
-      "Зеленов Евгений Алексеевич": 237,
-      "Иванова Татьяна Николаевна": 32,
-      "Лебедева Ирина Анатольевна": 31,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 138,
-      "Филиппов Александр Николаевич": 277,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000112234": 56,
+      "gas:candidate-vibid:1001000121878": 287,
+      "gas:candidate-vibid:253200071041": 17,
+      "gas:candidate-vibid:1001000225965": 237,
+      "gas:candidate-vibid:1001000136088": 32,
+      "gas:candidate-vibid:1001000113956": 31,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 138,
+      "gas:candidate-vibid:253200070918": 277,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 59,
-      "Гайдым Валерий Федорович": 344,
-      "Дугенец Владимир Владимирович": 32,
-      "Зеленов Евгений Алексеевич": 288,
-      "Иванова Татьяна Николаевна": 27,
-      "Лебедева Ирина Анатольевна": 37,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 87,
-      "Филиппов Александр Николаевич": 349,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000112234": 59,
+      "gas:candidate-vibid:1001000121878": 344,
+      "gas:candidate-vibid:253200071041": 32,
+      "gas:candidate-vibid:1001000225965": 288,
+      "gas:candidate-vibid:1001000136088": 27,
+      "gas:candidate-vibid:1001000113956": 37,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 87,
+      "gas:candidate-vibid:253200070918": 349,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 30,
-      "Гайдым Валерий Федорович": 200,
-      "Дугенец Владимир Владимирович": 17,
-      "Зеленов Евгений Алексеевич": 176,
-      "Иванова Татьяна Николаевна": 27,
-      "Лебедева Ирина Анатольевна": 21,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 75,
-      "Филиппов Александр Николаевич": 181,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000112234": 30,
+      "gas:candidate-vibid:1001000121878": 200,
+      "gas:candidate-vibid:253200071041": 17,
+      "gas:candidate-vibid:1001000225965": 176,
+      "gas:candidate-vibid:1001000136088": 27,
+      "gas:candidate-vibid:1001000113956": 21,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 75,
+      "gas:candidate-vibid:253200070918": 181,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 45,
-      "Гайдым Валерий Федорович": 337,
-      "Дугенец Владимир Владимирович": 33,
-      "Зеленов Евгений Алексеевич": 237,
-      "Иванова Татьяна Николаевна": 23,
-      "Лебедева Ирина Анатольевна": 17,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 179,
-      "Филиппов Александр Николаевич": 222,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000112234": 45,
+      "gas:candidate-vibid:1001000121878": 337,
+      "gas:candidate-vibid:253200071041": 33,
+      "gas:candidate-vibid:1001000225965": 237,
+      "gas:candidate-vibid:1001000136088": 23,
+      "gas:candidate-vibid:1001000113956": 17,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 179,
+      "gas:candidate-vibid:253200070918": 222,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 32,
-      "Гайдым Валерий Федорович": 166,
-      "Дугенец Владимир Владимирович": 13,
-      "Зеленов Евгений Алексеевич": 137,
-      "Иванова Татьяна Николаевна": 22,
-      "Лебедева Ирина Анатольевна": 25,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 57,
-      "Филиппов Александр Николаевич": 157,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112234": 32,
+      "gas:candidate-vibid:1001000121878": 166,
+      "gas:candidate-vibid:253200071041": 13,
+      "gas:candidate-vibid:1001000225965": 137,
+      "gas:candidate-vibid:1001000136088": 22,
+      "gas:candidate-vibid:1001000113956": 25,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 57,
+      "gas:candidate-vibid:253200070918": 157,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 76,
-      "Гайдым Валерий Федорович": 298,
-      "Дугенец Владимир Владимирович": 32,
-      "Зеленов Евгений Алексеевич": 264,
-      "Иванова Татьяна Николаевна": 45,
-      "Лебедева Ирина Анатольевна": 38,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 100,
-      "Филиппов Александр Николаевич": 256,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000112234": 76,
+      "gas:candidate-vibid:1001000121878": 298,
+      "gas:candidate-vibid:253200071041": 32,
+      "gas:candidate-vibid:1001000225965": 264,
+      "gas:candidate-vibid:1001000136088": 45,
+      "gas:candidate-vibid:1001000113956": 38,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 100,
+      "gas:candidate-vibid:253200070918": 256,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 42,
-      "Гайдым Валерий Федорович": 265,
-      "Дугенец Владимир Владимирович": 19,
-      "Зеленов Евгений Алексеевич": 191,
-      "Иванова Татьяна Николаевна": 27,
-      "Лебедева Ирина Анатольевна": 31,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 93,
-      "Филиппов Александр Николаевич": 241,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112234": 42,
+      "gas:candidate-vibid:1001000121878": 265,
+      "gas:candidate-vibid:253200071041": 19,
+      "gas:candidate-vibid:1001000225965": 191,
+      "gas:candidate-vibid:1001000136088": 27,
+      "gas:candidate-vibid:1001000113956": 31,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 93,
+      "gas:candidate-vibid:253200070918": 241,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 46,
-      "Гайдым Валерий Федорович": 248,
-      "Дугенец Владимир Владимирович": 28,
-      "Зеленов Евгений Алексеевич": 191,
-      "Иванова Татьяна Николаевна": 31,
-      "Лебедева Ирина Анатольевна": 33,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 73,
-      "Филиппов Александр Николаевич": 211,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000112234": 46,
+      "gas:candidate-vibid:1001000121878": 248,
+      "gas:candidate-vibid:253200071041": 28,
+      "gas:candidate-vibid:1001000225965": 191,
+      "gas:candidate-vibid:1001000136088": 31,
+      "gas:candidate-vibid:1001000113956": 33,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 73,
+      "gas:candidate-vibid:253200070918": 211,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 53,
-      "Гайдым Валерий Федорович": 307,
-      "Дугенец Владимир Владимирович": 14,
-      "Зеленов Евгений Алексеевич": 234,
-      "Иванова Татьяна Николаевна": 29,
-      "Лебедева Ирина Анатольевна": 43,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 110,
-      "Филиппов Александр Николаевич": 266,
-      "Худяков Александр Евгеньевич": 12,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112234": 53,
+      "gas:candidate-vibid:1001000121878": 307,
+      "gas:candidate-vibid:253200071041": 14,
+      "gas:candidate-vibid:1001000225965": 234,
+      "gas:candidate-vibid:1001000136088": 29,
+      "gas:candidate-vibid:1001000113956": 43,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 110,
+      "gas:candidate-vibid:253200070918": 266,
+      "gas:candidate-vibid:1001000195111": 12,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 52,
-      "Гайдым Валерий Федорович": 256,
-      "Дугенец Владимир Владимирович": 23,
-      "Зеленов Евгений Алексеевич": 196,
-      "Иванова Татьяна Николаевна": 47,
-      "Лебедева Ирина Анатольевна": 39,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 126,
-      "Филиппов Александр Николаевич": 220,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000112234": 52,
+      "gas:candidate-vibid:1001000121878": 256,
+      "gas:candidate-vibid:253200071041": 23,
+      "gas:candidate-vibid:1001000225965": 196,
+      "gas:candidate-vibid:1001000136088": 47,
+      "gas:candidate-vibid:1001000113956": 39,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 126,
+      "gas:candidate-vibid:253200070918": 220,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 44,
-      "Гайдым Валерий Федорович": 265,
-      "Дугенец Владимир Владимирович": 27,
-      "Зеленов Евгений Алексеевич": 219,
-      "Иванова Татьяна Николаевна": 29,
-      "Лебедева Ирина Анатольевна": 42,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 89,
-      "Филиппов Александр Николаевич": 279,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000112234": 44,
+      "gas:candidate-vibid:1001000121878": 265,
+      "gas:candidate-vibid:253200071041": 27,
+      "gas:candidate-vibid:1001000225965": 219,
+      "gas:candidate-vibid:1001000136088": 29,
+      "gas:candidate-vibid:1001000113956": 42,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 89,
+      "gas:candidate-vibid:253200070918": 279,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 77,
-      "Гайдым Валерий Федорович": 252,
-      "Дугенец Владимир Владимирович": 37,
-      "Зеленов Евгений Алексеевич": 239,
-      "Иванова Татьяна Николаевна": 31,
-      "Лебедева Ирина Анатольевна": 33,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 94,
-      "Филиппов Александр Николаевич": 274,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112234": 77,
+      "gas:candidate-vibid:1001000121878": 252,
+      "gas:candidate-vibid:253200071041": 37,
+      "gas:candidate-vibid:1001000225965": 239,
+      "gas:candidate-vibid:1001000136088": 31,
+      "gas:candidate-vibid:1001000113956": 33,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 94,
+      "gas:candidate-vibid:253200070918": 274,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 59,
-      "Гайдым Валерий Федорович": 346,
-      "Дугенец Владимир Владимирович": 38,
-      "Зеленов Евгений Алексеевич": 252,
-      "Иванова Татьяна Николаевна": 48,
-      "Лебедева Ирина Анатольевна": 63,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 82,
-      "Филиппов Александр Николаевич": 329,
-      "Худяков Александр Евгеньевич": 7,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000112234": 59,
+      "gas:candidate-vibid:1001000121878": 346,
+      "gas:candidate-vibid:253200071041": 38,
+      "gas:candidate-vibid:1001000225965": 252,
+      "gas:candidate-vibid:1001000136088": 48,
+      "gas:candidate-vibid:1001000113956": 63,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 82,
+      "gas:candidate-vibid:253200070918": 329,
+      "gas:candidate-vibid:1001000195111": 7,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 73,
-      "Гайдым Валерий Федорович": 313,
-      "Дугенец Владимир Владимирович": 25,
-      "Зеленов Евгений Алексеевич": 273,
-      "Иванова Татьяна Николаевна": 38,
-      "Лебедева Ирина Анатольевна": 44,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 131,
-      "Филиппов Александр Николаевич": 318,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000112234": 73,
+      "gas:candidate-vibid:1001000121878": 313,
+      "gas:candidate-vibid:253200071041": 25,
+      "gas:candidate-vibid:1001000225965": 273,
+      "gas:candidate-vibid:1001000136088": 38,
+      "gas:candidate-vibid:1001000113956": 44,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 131,
+      "gas:candidate-vibid:253200070918": 318,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 53,
-      "Гайдым Валерий Федорович": 264,
-      "Дугенец Владимир Владимирович": 21,
-      "Зеленов Евгений Алексеевич": 238,
-      "Иванова Татьяна Николаевна": 26,
-      "Лебедева Ирина Анатольевна": 36,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 81,
-      "Филиппов Александр Николаевич": 245,
-      "Худяков Александр Евгеньевич": 6,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000112234": 53,
+      "gas:candidate-vibid:1001000121878": 264,
+      "gas:candidate-vibid:253200071041": 21,
+      "gas:candidate-vibid:1001000225965": 238,
+      "gas:candidate-vibid:1001000136088": 26,
+      "gas:candidate-vibid:1001000113956": 36,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 81,
+      "gas:candidate-vibid:253200070918": 245,
+      "gas:candidate-vibid:1001000195111": 6,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 58,
-      "Гайдым Валерий Федорович": 265,
-      "Дугенец Владимир Владимирович": 22,
-      "Зеленов Евгений Алексеевич": 253,
-      "Иванова Татьяна Николаевна": 46,
-      "Лебедева Ирина Анатольевна": 43,
-      "Никитин Олег Аникеевич": 6,
-      "Тихомиров Николай Иванович": 75,
-      "Филиппов Александр Николаевич": 284,
-      "Худяков Александр Евгеньевич": 6,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000112234": 58,
+      "gas:candidate-vibid:1001000121878": 265,
+      "gas:candidate-vibid:253200071041": 22,
+      "gas:candidate-vibid:1001000225965": 253,
+      "gas:candidate-vibid:1001000136088": 46,
+      "gas:candidate-vibid:1001000113956": 43,
+      "gas:candidate-vibid:1001000202320": 6,
+      "gas:candidate-vibid:1001000190384": 75,
+      "gas:candidate-vibid:253200070918": 284,
+      "gas:candidate-vibid:1001000195111": 6,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 49,
-      "Гайдым Валерий Федорович": 145,
-      "Дугенец Владимир Владимирович": 9,
-      "Зеленов Евгений Алексеевич": 136,
-      "Иванова Татьяна Николаевна": 18,
-      "Лебедева Ирина Анатольевна": 15,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 48,
-      "Филиппов Александр Николаевич": 145,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000112234": 49,
+      "gas:candidate-vibid:1001000121878": 145,
+      "gas:candidate-vibid:253200071041": 9,
+      "gas:candidate-vibid:1001000225965": 136,
+      "gas:candidate-vibid:1001000136088": 18,
+      "gas:candidate-vibid:1001000113956": 15,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 48,
+      "gas:candidate-vibid:253200070918": 145,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 52,
-      "Гайдым Валерий Федорович": 282,
-      "Дугенец Владимир Владимирович": 39,
-      "Зеленов Евгений Алексеевич": 255,
-      "Иванова Татьяна Николаевна": 41,
-      "Лебедева Ирина Анатольевна": 35,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 99,
-      "Филиппов Александр Николаевич": 313,
-      "Худяков Александр Евгеньевич": 11,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112234": 52,
+      "gas:candidate-vibid:1001000121878": 282,
+      "gas:candidate-vibid:253200071041": 39,
+      "gas:candidate-vibid:1001000225965": 255,
+      "gas:candidate-vibid:1001000136088": 41,
+      "gas:candidate-vibid:1001000113956": 35,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 99,
+      "gas:candidate-vibid:253200070918": 313,
+      "gas:candidate-vibid:1001000195111": 11,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 87,
-      "Гайдым Валерий Федорович": 309,
-      "Дугенец Владимир Владимирович": 23,
-      "Зеленов Евгений Алексеевич": 160,
-      "Иванова Татьяна Николаевна": 34,
-      "Лебедева Ирина Анатольевна": 36,
-      "Никитин Олег Аникеевич": 4,
-      "Тихомиров Николай Иванович": 87,
-      "Филиппов Александр Николаевич": 239,
-      "Худяков Александр Евгеньевич": 8,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000112234": 87,
+      "gas:candidate-vibid:1001000121878": 309,
+      "gas:candidate-vibid:253200071041": 23,
+      "gas:candidate-vibid:1001000225965": 160,
+      "gas:candidate-vibid:1001000136088": 34,
+      "gas:candidate-vibid:1001000113956": 36,
+      "gas:candidate-vibid:1001000202320": 4,
+      "gas:candidate-vibid:1001000190384": 87,
+      "gas:candidate-vibid:253200070918": 239,
+      "gas:candidate-vibid:1001000195111": 8,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 58,
-      "Гайдым Валерий Федорович": 257,
-      "Дугенец Владимир Владимирович": 12,
-      "Зеленов Евгений Алексеевич": 221,
-      "Иванова Татьяна Николаевна": 33,
-      "Лебедева Ирина Анатольевна": 29,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 65,
-      "Филиппов Александр Николаевич": 201,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000112234": 58,
+      "gas:candidate-vibid:1001000121878": 257,
+      "gas:candidate-vibid:253200071041": 12,
+      "gas:candidate-vibid:1001000225965": 221,
+      "gas:candidate-vibid:1001000136088": 33,
+      "gas:candidate-vibid:1001000113956": 29,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 65,
+      "gas:candidate-vibid:253200070918": 201,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 45,
-      "Гайдым Валерий Федорович": 289,
-      "Дугенец Владимир Владимирович": 24,
-      "Зеленов Евгений Алексеевич": 236,
-      "Иванова Татьяна Николаевна": 56,
-      "Лебедева Ирина Анатольевна": 44,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 105,
-      "Филиппов Александр Николаевич": 295,
-      "Худяков Александр Евгеньевич": 4,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000112234": 45,
+      "gas:candidate-vibid:1001000121878": 289,
+      "gas:candidate-vibid:253200071041": 24,
+      "gas:candidate-vibid:1001000225965": 236,
+      "gas:candidate-vibid:1001000136088": 56,
+      "gas:candidate-vibid:1001000113956": 44,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 105,
+      "gas:candidate-vibid:253200070918": 295,
+      "gas:candidate-vibid:1001000195111": 4,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 40,
-      "Гайдым Валерий Федорович": 177,
-      "Дугенец Владимир Владимирович": 19,
-      "Зеленов Евгений Алексеевич": 195,
-      "Иванова Татьяна Николаевна": 24,
-      "Лебедева Ирина Анатольевна": 22,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 49,
-      "Филиппов Александр Николаевич": 193,
-      "Худяков Александр Евгеньевич": 1,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000112234": 40,
+      "gas:candidate-vibid:1001000121878": 177,
+      "gas:candidate-vibid:253200071041": 19,
+      "gas:candidate-vibid:1001000225965": 195,
+      "gas:candidate-vibid:1001000136088": 24,
+      "gas:candidate-vibid:1001000113956": 22,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 49,
+      "gas:candidate-vibid:253200070918": 193,
+      "gas:candidate-vibid:1001000195111": 1,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 74,
-      "Гайдым Валерий Федорович": 301,
-      "Дугенец Владимир Владимирович": 37,
-      "Зеленов Евгений Алексеевич": 264,
-      "Иванова Татьяна Николаевна": 35,
-      "Лебедева Ирина Анатольевна": 37,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 100,
-      "Филиппов Александр Николаевич": 341,
-      "Худяков Александр Евгеньевич": 8,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112234": 74,
+      "gas:candidate-vibid:1001000121878": 301,
+      "gas:candidate-vibid:253200071041": 37,
+      "gas:candidate-vibid:1001000225965": 264,
+      "gas:candidate-vibid:1001000136088": 35,
+      "gas:candidate-vibid:1001000113956": 37,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 100,
+      "gas:candidate-vibid:253200070918": 341,
+      "gas:candidate-vibid:1001000195111": 8,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 71,
-      "Гайдым Валерий Федорович": 329,
-      "Дугенец Владимир Владимирович": 26,
-      "Зеленов Евгений Алексеевич": 273,
-      "Иванова Татьяна Николаевна": 44,
-      "Лебедева Ирина Анатольевна": 33,
-      "Никитин Олег Аникеевич": 8,
-      "Тихомиров Николай Иванович": 128,
-      "Филиппов Александр Николаевич": 307,
-      "Худяков Александр Евгеньевич": 7,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000112234": 71,
+      "gas:candidate-vibid:1001000121878": 329,
+      "gas:candidate-vibid:253200071041": 26,
+      "gas:candidate-vibid:1001000225965": 273,
+      "gas:candidate-vibid:1001000136088": 44,
+      "gas:candidate-vibid:1001000113956": 33,
+      "gas:candidate-vibid:1001000202320": 8,
+      "gas:candidate-vibid:1001000190384": 128,
+      "gas:candidate-vibid:253200070918": 307,
+      "gas:candidate-vibid:1001000195111": 7,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070480&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 17,
-      "Дугенец Владимир Владимирович": 0,
-      "Зеленов Евгений Алексеевич": 15,
-      "Иванова Татьяна Николаевна": 0,
-      "Лебедева Ирина Анатольевна": 1,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 2,
-      "Филиппов Александр Николаевич": 132,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 17,
+      "gas:candidate-vibid:253200071041": 0,
+      "gas:candidate-vibid:1001000225965": 15,
+      "gas:candidate-vibid:1001000136088": 0,
+      "gas:candidate-vibid:1001000113956": 1,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 2,
+      "gas:candidate-vibid:253200070918": 132,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 9,
-      "Дугенец Владимир Владимирович": 3,
-      "Зеленов Евгений Алексеевич": 24,
-      "Иванова Татьяна Николаевна": 5,
-      "Лебедева Ирина Анатольевна": 2,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 2,
-      "Филиппов Александр Николаевич": 104,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 9,
+      "gas:candidate-vibid:253200071041": 3,
+      "gas:candidate-vibid:1001000225965": 24,
+      "gas:candidate-vibid:1001000136088": 5,
+      "gas:candidate-vibid:1001000113956": 2,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 2,
+      "gas:candidate-vibid:253200070918": 104,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 4,
-      "Гайдым Валерий Федорович": 19,
-      "Дугенец Владимир Владимирович": 7,
-      "Зеленов Евгений Алексеевич": 33,
-      "Иванова Татьяна Николаевна": 4,
-      "Лебедева Ирина Анатольевна": 4,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 9,
-      "Филиппов Александр Николаевич": 200,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000112234": 4,
+      "gas:candidate-vibid:1001000121878": 19,
+      "gas:candidate-vibid:253200071041": 7,
+      "gas:candidate-vibid:1001000225965": 33,
+      "gas:candidate-vibid:1001000136088": 4,
+      "gas:candidate-vibid:1001000113956": 4,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 9,
+      "gas:candidate-vibid:253200070918": 200,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 14,
-      "Дугенец Владимир Владимирович": 11,
-      "Зеленов Евгений Алексеевич": 47,
-      "Иванова Татьяна Николаевна": 6,
-      "Лебедева Ирина Анатольевна": 3,
-      "Никитин Олег Аникеевич": 3,
-      "Тихомиров Николай Иванович": 5,
-      "Филиппов Александр Николаевич": 150,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 14,
+      "gas:candidate-vibid:253200071041": 11,
+      "gas:candidate-vibid:1001000225965": 47,
+      "gas:candidate-vibid:1001000136088": 6,
+      "gas:candidate-vibid:1001000113956": 3,
+      "gas:candidate-vibid:1001000202320": 3,
+      "gas:candidate-vibid:1001000190384": 5,
+      "gas:candidate-vibid:253200070918": 150,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 4,
-      "Дугенец Владимир Владимирович": 1,
-      "Зеленов Евгений Алексеевич": 4,
-      "Иванова Татьяна Николаевна": 0,
-      "Лебедева Ирина Анатольевна": 2,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 1,
-      "Филиппов Александр Николаевич": 99,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 4,
+      "gas:candidate-vibid:253200071041": 1,
+      "gas:candidate-vibid:1001000225965": 4,
+      "gas:candidate-vibid:1001000136088": 0,
+      "gas:candidate-vibid:1001000113956": 2,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 1,
+      "gas:candidate-vibid:253200070918": 99,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 4,
-      "Дугенец Владимир Владимирович": 4,
-      "Зеленов Евгений Алексеевич": 32,
-      "Иванова Татьяна Николаевна": 1,
-      "Лебедева Ирина Анатольевна": 0,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 6,
-      "Филиппов Александр Николаевич": 148,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 4,
+      "gas:candidate-vibid:253200071041": 4,
+      "gas:candidate-vibid:1001000225965": 32,
+      "gas:candidate-vibid:1001000136088": 1,
+      "gas:candidate-vibid:1001000113956": 0,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 6,
+      "gas:candidate-vibid:253200070918": 148,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 1,
-      "Гайдым Валерий Федорович": 20,
-      "Дугенец Владимир Владимирович": 10,
-      "Зеленов Евгений Алексеевич": 99,
-      "Иванова Татьяна Николаевна": 3,
-      "Лебедева Ирина Анатольевна": 4,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 8,
-      "Филиппов Александр Николаевич": 625,
-      "Худяков Александр Евгеньевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112234": 1,
+      "gas:candidate-vibid:1001000121878": 20,
+      "gas:candidate-vibid:253200071041": 10,
+      "gas:candidate-vibid:1001000225965": 99,
+      "gas:candidate-vibid:1001000136088": 3,
+      "gas:candidate-vibid:1001000113956": 4,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 8,
+      "gas:candidate-vibid:253200070918": 625,
+      "gas:candidate-vibid:1001000195111": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 1,
-      "Гайдым Валерий Федорович": 11,
-      "Дугенец Владимир Владимирович": 6,
-      "Зеленов Евгений Алексеевич": 80,
-      "Иванова Татьяна Николаевна": 8,
-      "Лебедева Ирина Анатольевна": 8,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 3,
-      "Филиппов Александр Николаевич": 380,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112234": 1,
+      "gas:candidate-vibid:1001000121878": 11,
+      "gas:candidate-vibid:253200071041": 6,
+      "gas:candidate-vibid:1001000225965": 80,
+      "gas:candidate-vibid:1001000136088": 8,
+      "gas:candidate-vibid:1001000113956": 8,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 3,
+      "gas:candidate-vibid:253200070918": 380,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 10,
-      "Дугенец Владимир Владимирович": 2,
-      "Зеленов Евгений Алексеевич": 26,
-      "Иванова Татьяна Николаевна": 2,
-      "Лебедева Ирина Анатольевна": 2,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 4,
-      "Филиппов Александр Николаевич": 158,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 10,
+      "gas:candidate-vibid:253200071041": 2,
+      "gas:candidate-vibid:1001000225965": 26,
+      "gas:candidate-vibid:1001000136088": 2,
+      "gas:candidate-vibid:1001000113956": 2,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 4,
+      "gas:candidate-vibid:253200070918": 158,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 4,
-      "Гайдым Валерий Федорович": 11,
-      "Дугенец Владимир Владимирович": 3,
-      "Зеленов Евгений Алексеевич": 30,
-      "Иванова Татьяна Николаевна": 9,
-      "Лебедева Ирина Анатольевна": 3,
-      "Никитин Олег Аникеевич": 2,
-      "Тихомиров Николай Иванович": 3,
-      "Филиппов Александр Николаевич": 153,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112234": 4,
+      "gas:candidate-vibid:1001000121878": 11,
+      "gas:candidate-vibid:253200071041": 3,
+      "gas:candidate-vibid:1001000225965": 30,
+      "gas:candidate-vibid:1001000136088": 9,
+      "gas:candidate-vibid:1001000113956": 3,
+      "gas:candidate-vibid:1001000202320": 2,
+      "gas:candidate-vibid:1001000190384": 3,
+      "gas:candidate-vibid:253200070918": 153,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 15,
-      "Гайдым Валерий Федорович": 96,
-      "Дугенец Владимир Владимирович": 31,
-      "Зеленов Евгений Алексеевич": 237,
-      "Иванова Татьяна Николаевна": 35,
-      "Лебедева Ирина Анатольевна": 9,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 22,
-      "Филиппов Александр Николаевич": 1033,
-      "Худяков Александр Евгеньевич": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112234": 15,
+      "gas:candidate-vibid:1001000121878": 96,
+      "gas:candidate-vibid:253200071041": 31,
+      "gas:candidate-vibid:1001000225965": 237,
+      "gas:candidate-vibid:1001000136088": 35,
+      "gas:candidate-vibid:1001000113956": 9,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 22,
+      "gas:candidate-vibid:253200070918": 1033,
+      "gas:candidate-vibid:1001000195111": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 5,
-      "Гайдым Валерий Федорович": 11,
-      "Дугенец Владимир Владимирович": 3,
-      "Зеленов Евгений Алексеевич": 80,
-      "Иванова Татьяна Николаевна": 3,
-      "Лебедева Ирина Анатольевна": 6,
-      "Никитин Олег Аникеевич": 1,
-      "Тихомиров Николай Иванович": 3,
-      "Филиппов Александр Николаевич": 362,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112234": 5,
+      "gas:candidate-vibid:1001000121878": 11,
+      "gas:candidate-vibid:253200071041": 3,
+      "gas:candidate-vibid:1001000225965": 80,
+      "gas:candidate-vibid:1001000136088": 3,
+      "gas:candidate-vibid:1001000113956": 6,
+      "gas:candidate-vibid:1001000202320": 1,
+      "gas:candidate-vibid:1001000190384": 3,
+      "gas:candidate-vibid:253200070918": 362,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 8,
-      "Дугенец Владимир Владимирович": 8,
-      "Зеленов Евгений Алексеевич": 39,
-      "Иванова Татьяна Николаевна": 1,
-      "Лебедева Ирина Анатольевна": 2,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 1,
-      "Филиппов Александр Николаевич": 151,
-      "Худяков Александр Евгеньевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 8,
+      "gas:candidate-vibid:253200071041": 8,
+      "gas:candidate-vibid:1001000225965": 39,
+      "gas:candidate-vibid:1001000136088": 1,
+      "gas:candidate-vibid:1001000113956": 2,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 1,
+      "gas:candidate-vibid:253200070918": 151,
+      "gas:candidate-vibid:1001000195111": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 1,
-      "Гайдым Валерий Федорович": 14,
-      "Дугенец Владимир Владимирович": 3,
-      "Зеленов Евгений Алексеевич": 15,
-      "Иванова Татьяна Николаевна": 2,
-      "Лебедева Ирина Анатольевна": 1,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 3,
-      "Филиппов Александр Николаевич": 190,
-      "Худяков Александр Евгеньевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112234": 1,
+      "gas:candidate-vibid:1001000121878": 14,
+      "gas:candidate-vibid:253200071041": 3,
+      "gas:candidate-vibid:1001000225965": 15,
+      "gas:candidate-vibid:1001000136088": 2,
+      "gas:candidate-vibid:1001000113956": 1,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 3,
+      "gas:candidate-vibid:253200070918": 190,
+      "gas:candidate-vibid:1001000195111": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_53_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Величанский Николай Николаевич": 0,
-      "Гайдым Валерий Федорович": 5,
-      "Дугенец Владимир Владимирович": 2,
-      "Зеленов Евгений Алексеевич": 8,
-      "Иванова Татьяна Николаевна": 0,
-      "Лебедева Ирина Анатольевна": 1,
-      "Никитин Олег Аникеевич": 0,
-      "Тихомиров Николай Иванович": 0,
-      "Филиппов Александр Николаевич": 90,
-      "Худяков Александр Евгеньевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112234": 0,
+      "gas:candidate-vibid:1001000121878": 5,
+      "gas:candidate-vibid:253200071041": 2,
+      "gas:candidate-vibid:1001000225965": 8,
+      "gas:candidate-vibid:1001000136088": 0,
+      "gas:candidate-vibid:1001000113956": 1,
+      "gas:candidate-vibid:1001000202320": 0,
+      "gas:candidate-vibid:1001000190384": 0,
+      "gas:candidate-vibid:253200070918": 90,
+      "gas:candidate-vibid:1001000195111": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=532000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=253200070481&region=0&sub_region=0&type=429",

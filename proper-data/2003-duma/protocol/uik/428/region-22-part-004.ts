@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 17,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 27,
-      "Серов Сергей Николаевич": 31,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225912": 17,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 27,
+      "gas:candidate-vibid:1001000217901": 31,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466631&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 102,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 54,
-      "Серов Сергей Николаевич": 45,
-      "Торопкин Юрий Георгиевич": 13,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 102,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 54,
+      "gas:candidate-vibid:1001000217901": 45,
+      "gas:candidate-vibid:1001000136013": 13,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466631&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 256,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 65,
-      "Серов Сергей Николаевич": 125,
-      "Торопкин Юрий Георгиевич": 16,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 256,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 65,
+      "gas:candidate-vibid:1001000217901": 125,
+      "gas:candidate-vibid:1001000136013": 16,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466631&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 256,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 63,
-      "Серов Сергей Николаевич": 172,
-      "Торопкин Юрий Георгиевич": 22,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 256,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 63,
+      "gas:candidate-vibid:1001000217901": 172,
+      "gas:candidate-vibid:1001000136013": 22,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466631&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 165,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 44,
-      "Серов Сергей Николаевич": 179,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225912": 165,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 44,
+      "gas:candidate-vibid:1001000217901": 179,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466631&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 28,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 87,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225912": 28,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 87,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466631&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 206,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 22,
-      "Сарычев Алексей Николаевич": 443,
-      "Серов Сергей Николаевич": 224,
-      "Торопкин Юрий Георгиевич": 27,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000225912": 206,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 22,
+      "gas:candidate-vibid:322300466761": 443,
+      "gas:candidate-vibid:1001000217901": 224,
+      "gas:candidate-vibid:1001000136013": 27,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 183,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 186,
-      "Серов Сергей Николаевич": 159,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000225912": 183,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 186,
+      "gas:candidate-vibid:1001000217901": 159,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 235,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 15,
-      "Поддубная Анна Филипповна": 35,
-      "Сарычев Алексей Николаевич": 244,
-      "Серов Сергей Николаевич": 273,
-      "Торопкин Юрий Георгиевич": 30,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000225912": 235,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 15,
+      "gas:candidate-vibid:1001000195042": 35,
+      "gas:candidate-vibid:322300466761": 244,
+      "gas:candidate-vibid:1001000217901": 273,
+      "gas:candidate-vibid:1001000136013": 30,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 164,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 18,
-      "Поддубная Анна Филипповна": 22,
-      "Сарычев Алексей Николаевич": 158,
-      "Серов Сергей Николаевич": 223,
-      "Торопкин Юрий Георгиевич": 31,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000225912": 164,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 18,
+      "gas:candidate-vibid:1001000195042": 22,
+      "gas:candidate-vibid:322300466761": 158,
+      "gas:candidate-vibid:1001000217901": 223,
+      "gas:candidate-vibid:1001000136013": 31,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 173,
-      "Колотов Владимир Павлович": 16,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 18,
-      "Сарычев Алексей Николаевич": 63,
-      "Серов Сергей Николаевич": 157,
-      "Торопкин Юрий Георгиевич": 28,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225912": 173,
+      "gas:candidate-vibid:1001000113907": 16,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 18,
+      "gas:candidate-vibid:322300466761": 63,
+      "gas:candidate-vibid:1001000217901": 157,
+      "gas:candidate-vibid:1001000136013": 28,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 303,
-      "Колотов Владимир Павлович": 27,
-      "Лабазников Сергей Борисович": 24,
-      "Поддубная Анна Филипповна": 60,
-      "Сарычев Алексей Николаевич": 111,
-      "Серов Сергей Николаевич": 379,
-      "Торопкин Юрий Георгиевич": 67,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000225912": 303,
+      "gas:candidate-vibid:1001000113907": 27,
+      "gas:candidate-vibid:1001000193907": 24,
+      "gas:candidate-vibid:1001000195042": 60,
+      "gas:candidate-vibid:322300466761": 111,
+      "gas:candidate-vibid:1001000217901": 379,
+      "gas:candidate-vibid:1001000136013": 67,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 162,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 18,
-      "Сарычев Алексей Николаевич": 73,
-      "Серов Сергей Николаевич": 230,
-      "Торопкин Юрий Георгиевич": 34,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000225912": 162,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 18,
+      "gas:candidate-vibid:322300466761": 73,
+      "gas:candidate-vibid:1001000217901": 230,
+      "gas:candidate-vibid:1001000136013": 34,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 293,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 113,
-      "Серов Сергей Николаевич": 455,
-      "Торопкин Юрий Георгиевич": 55,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000225912": 293,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 113,
+      "gas:candidate-vibid:1001000217901": 455,
+      "gas:candidate-vibid:1001000136013": 55,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 275,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 116,
-      "Серов Сергей Николаевич": 421,
-      "Торопкин Юрий Георгиевич": 49,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000225912": 275,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 116,
+      "gas:candidate-vibid:1001000217901": 421,
+      "gas:candidate-vibid:1001000136013": 49,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 347,
-      "Колотов Владимир Павлович": 21,
-      "Лабазников Сергей Борисович": 18,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 162,
-      "Серов Сергей Николаевич": 533,
-      "Торопкин Юрий Георгиевич": 53,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000225912": 347,
+      "gas:candidate-vibid:1001000113907": 21,
+      "gas:candidate-vibid:1001000193907": 18,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 162,
+      "gas:candidate-vibid:1001000217901": 533,
+      "gas:candidate-vibid:1001000136013": 53,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 54,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 43,
-      "Серов Сергей Николаевич": 254,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225912": 54,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 43,
+      "gas:candidate-vibid:1001000217901": 254,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 236,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 21,
-      "Сарычев Алексей Николаевич": 104,
-      "Серов Сергей Николаевич": 230,
-      "Торопкин Юрий Георгиевич": 43,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000225912": 236,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 21,
+      "gas:candidate-vibid:322300466761": 104,
+      "gas:candidate-vibid:1001000217901": 230,
+      "gas:candidate-vibid:1001000136013": 43,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 257,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 16,
-      "Сарычев Алексей Николаевич": 80,
-      "Серов Сергей Николаевич": 349,
-      "Торопкин Юрий Георгиевич": 45,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225912": 257,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 16,
+      "gas:candidate-vibid:322300466761": 80,
+      "gas:candidate-vibid:1001000217901": 349,
+      "gas:candidate-vibid:1001000136013": 45,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 110,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 69,
-      "Серов Сергей Николаевич": 184,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225912": 110,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 69,
+      "gas:candidate-vibid:1001000217901": 184,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 152,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 113,
-      "Серов Сергей Николаевич": 223,
-      "Торопкин Юрий Георгиевич": 28,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225912": 152,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 113,
+      "gas:candidate-vibid:1001000217901": 223,
+      "gas:candidate-vibid:1001000136013": 28,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 68,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 5,
-      "Серов Сергей Николаевич": 26,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225912": 68,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 5,
+      "gas:candidate-vibid:1001000217901": 26,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 110,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 49,
-      "Серов Сергей Николаевич": 126,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 110,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 49,
+      "gas:candidate-vibid:1001000217901": 126,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 125,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 54,
-      "Серов Сергей Николаевич": 125,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 125,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 54,
+      "gas:candidate-vibid:1001000217901": 125,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 41,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 63,
-      "Серов Сергей Николаевич": 89,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 41,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 63,
+      "gas:candidate-vibid:1001000217901": 89,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 164,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 20,
-      "Сарычев Алексей Николаевич": 67,
-      "Серов Сергей Николаевич": 342,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225912": 164,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 20,
+      "gas:candidate-vibid:322300466761": 67,
+      "gas:candidate-vibid:1001000217901": 342,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 128,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 22,
-      "Серов Сергей Николаевич": 92,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 128,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 22,
+      "gas:candidate-vibid:1001000217901": 92,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 18,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 2,
-      "Серов Сергей Николаевич": 69,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225912": 18,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 2,
+      "gas:candidate-vibid:1001000217901": 69,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 186,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 130,
-      "Серов Сергей Николаевич": 226,
-      "Торопкин Юрий Георгиевич": 24,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225912": 186,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 130,
+      "gas:candidate-vibid:1001000217901": 226,
+      "gas:candidate-vibid:1001000136013": 24,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 131,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 47,
-      "Серов Сергей Николаевич": 267,
-      "Торопкин Юрий Георгиевич": 15,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225912": 131,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 47,
+      "gas:candidate-vibid:1001000217901": 267,
+      "gas:candidate-vibid:1001000136013": 15,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 31,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 20,
-      "Серов Сергей Николаевич": 174,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 31,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 20,
+      "gas:candidate-vibid:1001000217901": 174,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 141,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 78,
-      "Серов Сергей Николаевич": 203,
-      "Торопкин Юрий Георгиевич": 16,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 141,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 78,
+      "gas:candidate-vibid:1001000217901": 203,
+      "gas:candidate-vibid:1001000136013": 16,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 26,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 67,
-      "Торопкин Юрий Георгиевич": 15,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225912": 26,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 67,
+      "gas:candidate-vibid:1001000136013": 15,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466632&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 727,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 28,
-      "Сарычев Алексей Николаевич": 209,
-      "Серов Сергей Николаевич": 367,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000225912": 727,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 28,
+      "gas:candidate-vibid:322300466761": 209,
+      "gas:candidate-vibid:1001000217901": 367,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 380,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 113,
-      "Серов Сергей Николаевич": 167,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225912": 380,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 113,
+      "gas:candidate-vibid:1001000217901": 167,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 289,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 59,
-      "Серов Сергей Николаевич": 82,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225912": 289,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 59,
+      "gas:candidate-vibid:1001000217901": 82,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 90,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 14,
-      "Серов Сергей Николаевич": 28,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225912": 90,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 14,
+      "gas:candidate-vibid:1001000217901": 28,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 101,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 35,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225912": 101,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 35,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 195,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 16,
-      "Сарычев Алексей Николаевич": 36,
-      "Серов Сергей Николаевич": 204,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225912": 195,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 16,
+      "gas:candidate-vibid:322300466761": 36,
+      "gas:candidate-vibid:1001000217901": 204,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 29,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 21,
-      "Серов Сергей Николаевич": 46,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225912": 29,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 21,
+      "gas:candidate-vibid:1001000217901": 46,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 108,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 25,
-      "Серов Сергей Николаевич": 33,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225912": 108,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 25,
+      "gas:candidate-vibid:1001000217901": 33,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 98,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 13,
-      "Серов Сергей Николаевич": 18,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225912": 98,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 13,
+      "gas:candidate-vibid:1001000217901": 18,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 163,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 18,
-      "Сарычев Алексей Николаевич": 87,
-      "Серов Сергей Николаевич": 132,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225912": 163,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 18,
+      "gas:candidate-vibid:322300466761": 87,
+      "gas:candidate-vibid:1001000217901": 132,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 33,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 13,
-      "Серов Сергей Николаевич": 7,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225912": 33,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 13,
+      "gas:candidate-vibid:1001000217901": 7,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 206,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 31,
-      "Серов Сергей Николаевич": 129,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 206,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 31,
+      "gas:candidate-vibid:1001000217901": 129,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 77,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 10,
-      "Серов Сергей Николаевич": 22,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 77,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 10,
+      "gas:candidate-vibid:1001000217901": 22,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 206,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 22,
-      "Серов Сергей Николаевич": 21,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225912": 206,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 22,
+      "gas:candidate-vibid:1001000217901": 21,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 149,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 29,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225912": 149,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 29,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 50,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 0,
-      "Серов Сергей Николаевич": 3,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225912": 50,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 0,
+      "gas:candidate-vibid:1001000217901": 3,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 118,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 18,
-      "Сарычев Алексей Николаевич": 39,
-      "Серов Сергей Николаевич": 64,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 118,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 18,
+      "gas:candidate-vibid:322300466761": 39,
+      "gas:candidate-vibid:1001000217901": 64,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 114,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 34,
-      "Серов Сергей Николаевич": 85,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 114,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 34,
+      "gas:candidate-vibid:1001000217901": 85,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 77,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 16,
-      "Сарычев Алексей Николаевич": 18,
-      "Серов Сергей Николаевич": 78,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 77,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 16,
+      "gas:candidate-vibid:322300466761": 18,
+      "gas:candidate-vibid:1001000217901": 78,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 381,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 39,
-      "Серов Сергей Николаевич": 134,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225912": 381,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 39,
+      "gas:candidate-vibid:1001000217901": 134,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466633&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 372,
-      "Колотов Владимир Павлович": 22,
-      "Лабазников Сергей Борисович": 16,
-      "Поддубная Анна Филипповна": 61,
-      "Сарычев Алексей Николаевич": 171,
-      "Серов Сергей Николаевич": 280,
-      "Торопкин Юрий Георгиевич": 39,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000225912": 372,
+      "gas:candidate-vibid:1001000113907": 22,
+      "gas:candidate-vibid:1001000193907": 16,
+      "gas:candidate-vibid:1001000195042": 61,
+      "gas:candidate-vibid:322300466761": 171,
+      "gas:candidate-vibid:1001000217901": 280,
+      "gas:candidate-vibid:1001000136013": 39,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 315,
-      "Колотов Владимир Павлович": 22,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 118,
-      "Серов Сергей Николаевич": 240,
-      "Торопкин Юрий Георгиевич": 47,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225912": 315,
+      "gas:candidate-vibid:1001000113907": 22,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 118,
+      "gas:candidate-vibid:1001000217901": 240,
+      "gas:candidate-vibid:1001000136013": 47,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 377,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 51,
-      "Сарычев Алексей Николаевич": 148,
-      "Серов Сергей Николаевич": 291,
-      "Торопкин Юрий Георгиевич": 53,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225912": 377,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 51,
+      "gas:candidate-vibid:322300466761": 148,
+      "gas:candidate-vibid:1001000217901": 291,
+      "gas:candidate-vibid:1001000136013": 53,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 399,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 52,
-      "Сарычев Алексей Николаевич": 154,
-      "Серов Сергей Николаевич": 371,
-      "Торопкин Юрий Георгиевич": 47,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000225912": 399,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 52,
+      "gas:candidate-vibid:322300466761": 154,
+      "gas:candidate-vibid:1001000217901": 371,
+      "gas:candidate-vibid:1001000136013": 47,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 97,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 21,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 100,
-      "Торопкин Юрий Георгиевич": 11,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 97,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 21,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 100,
+      "gas:candidate-vibid:1001000136013": 11,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 160,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 35,
-      "Сарычев Алексей Николаевич": 159,
-      "Серов Сергей Николаевич": 210,
-      "Торопкин Юрий Георгиевич": 25,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225912": 160,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 35,
+      "gas:candidate-vibid:322300466761": 159,
+      "gas:candidate-vibid:1001000217901": 210,
+      "gas:candidate-vibid:1001000136013": 25,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 55,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 19,
-      "Серов Сергей Николаевич": 52,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225912": 55,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 19,
+      "gas:candidate-vibid:1001000217901": 52,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 117,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 77,
-      "Серов Сергей Николаевич": 192,
-      "Торопкин Юрий Георгиевич": 24,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 117,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 77,
+      "gas:candidate-vibid:1001000217901": 192,
+      "gas:candidate-vibid:1001000136013": 24,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 109,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 152,
-      "Серов Сергей Николаевич": 162,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225912": 109,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 152,
+      "gas:candidate-vibid:1001000217901": 162,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 105,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 76,
-      "Серов Сергей Николаевич": 142,
-      "Торопкин Юрий Георгиевич": 18,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225912": 105,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 76,
+      "gas:candidate-vibid:1001000217901": 142,
+      "gas:candidate-vibid:1001000136013": 18,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 67,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 21,
-      "Серов Сергей Николаевич": 104,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 67,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 21,
+      "gas:candidate-vibid:1001000217901": 104,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 81,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 19,
-      "Серов Сергей Николаевич": 113,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225912": 81,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 19,
+      "gas:candidate-vibid:1001000217901": 113,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 129,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 20,
-      "Сарычев Алексей Николаевич": 49,
-      "Серов Сергей Николаевич": 149,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225912": 129,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 20,
+      "gas:candidate-vibid:322300466761": 49,
+      "gas:candidate-vibid:1001000217901": 149,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 103,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 32,
-      "Серов Сергей Николаевич": 143,
-      "Торопкин Юрий Георгиевич": 20,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225912": 103,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 32,
+      "gas:candidate-vibid:1001000217901": 143,
+      "gas:candidate-vibid:1001000136013": 20,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 209,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 21,
-      "Сарычев Алексей Николаевич": 108,
-      "Серов Сергей Николаевич": 132,
-      "Торопкин Юрий Георгиевич": 27,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 209,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 21,
+      "gas:candidate-vibid:322300466761": 108,
+      "gas:candidate-vibid:1001000217901": 132,
+      "gas:candidate-vibid:1001000136013": 27,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 134,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 161,
-      "Серов Сергей Николаевич": 103,
-      "Торопкин Юрий Георгиевич": 48,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225912": 134,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 161,
+      "gas:candidate-vibid:1001000217901": 103,
+      "gas:candidate-vibid:1001000136013": 48,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 25,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 5,
-      "Серов Сергей Николаевич": 16,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 25,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 5,
+      "gas:candidate-vibid:1001000217901": 16,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466634&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 279,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 20,
-      "Поддубная Анна Филипповна": 24,
-      "Сарычев Алексей Николаевич": 120,
-      "Серов Сергей Николаевич": 362,
-      "Торопкин Юрий Георгиевич": 48,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000225912": 279,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 20,
+      "gas:candidate-vibid:1001000195042": 24,
+      "gas:candidate-vibid:322300466761": 120,
+      "gas:candidate-vibid:1001000217901": 362,
+      "gas:candidate-vibid:1001000136013": 48,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 354,
-      "Колотов Владимир Павлович": 34,
-      "Лабазников Сергей Борисович": 13,
-      "Поддубная Анна Филипповна": 34,
-      "Сарычев Алексей Николаевич": 148,
-      "Серов Сергей Николаевич": 435,
-      "Торопкин Юрий Георгиевич": 35,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000225912": 354,
+      "gas:candidate-vibid:1001000113907": 34,
+      "gas:candidate-vibid:1001000193907": 13,
+      "gas:candidate-vibid:1001000195042": 34,
+      "gas:candidate-vibid:322300466761": 148,
+      "gas:candidate-vibid:1001000217901": 435,
+      "gas:candidate-vibid:1001000136013": 35,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 227,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 36,
-      "Сарычев Алексей Николаевич": 171,
-      "Серов Сергей Николаевич": 387,
-      "Торопкин Юрий Георгиевич": 33,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000225912": 227,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 36,
+      "gas:candidate-vibid:322300466761": 171,
+      "gas:candidate-vibid:1001000217901": 387,
+      "gas:candidate-vibid:1001000136013": 33,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 53,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 24,
-      "Серов Сергей Николаевич": 66,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225912": 53,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 24,
+      "gas:candidate-vibid:1001000217901": 66,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 117,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 100,
-      "Серов Сергей Николаевич": 267,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225912": 117,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 100,
+      "gas:candidate-vibid:1001000217901": 267,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 128,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 60,
-      "Серов Сергей Николаевич": 169,
-      "Торопкин Юрий Георгиевич": 22,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225912": 128,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 60,
+      "gas:candidate-vibid:1001000217901": 169,
+      "gas:candidate-vibid:1001000136013": 22,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 161,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 27,
-      "Сарычев Алексей Николаевич": 74,
-      "Серов Сергей Николаевич": 272,
-      "Торопкин Юрий Георгиевич": 25,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225912": 161,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 27,
+      "gas:candidate-vibid:322300466761": 74,
+      "gas:candidate-vibid:1001000217901": 272,
+      "gas:candidate-vibid:1001000136013": 25,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 62,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 36,
-      "Серов Сергей Николаевич": 120,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225912": 62,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 36,
+      "gas:candidate-vibid:1001000217901": 120,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 236,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 77,
-      "Серов Сергей Николаевич": 253,
-      "Торопкин Юрий Георгиевич": 29,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225912": 236,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 77,
+      "gas:candidate-vibid:1001000217901": 253,
+      "gas:candidate-vibid:1001000136013": 29,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 371,
-      "Колотов Владимир Павлович": 30,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 78,
-      "Сарычев Алексей Николаевич": 101,
-      "Серов Сергей Николаевич": 231,
-      "Торопкин Юрий Георгиевич": 58,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225912": 371,
+      "gas:candidate-vibid:1001000113907": 30,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 78,
+      "gas:candidate-vibid:322300466761": 101,
+      "gas:candidate-vibid:1001000217901": 231,
+      "gas:candidate-vibid:1001000136013": 58,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 206,
-      "Колотов Владимир Павлович": 23,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 26,
-      "Сарычев Алексей Николаевич": 55,
-      "Серов Сергей Николаевич": 272,
-      "Торопкин Юрий Георгиевич": 30,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000225912": 206,
+      "gas:candidate-vibid:1001000113907": 23,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 26,
+      "gas:candidate-vibid:322300466761": 55,
+      "gas:candidate-vibid:1001000217901": 272,
+      "gas:candidate-vibid:1001000136013": 30,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 44,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 21,
-      "Сарычев Алексей Николаевич": 163,
-      "Серов Сергей Николаевич": 202,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225912": 44,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 21,
+      "gas:candidate-vibid:322300466761": 163,
+      "gas:candidate-vibid:1001000217901": 202,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 49,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 49,
-      "Серов Сергей Николаевич": 175,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225912": 49,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 49,
+      "gas:candidate-vibid:1001000217901": 175,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 149,
-      "Колотов Владимир Павлович": 26,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 37,
-      "Сарычев Алексей Николаевич": 61,
-      "Серов Сергей Николаевич": 738,
-      "Торопкин Юрий Георгиевич": 23,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225912": 149,
+      "gas:candidate-vibid:1001000113907": 26,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 37,
+      "gas:candidate-vibid:322300466761": 61,
+      "gas:candidate-vibid:1001000217901": 738,
+      "gas:candidate-vibid:1001000136013": 23,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 180,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 38,
-      "Сарычев Алексей Николаевич": 108,
-      "Серов Сергей Николаевич": 424,
-      "Торопкин Юрий Георгиевич": 27,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225912": 180,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 38,
+      "gas:candidate-vibid:322300466761": 108,
+      "gas:candidate-vibid:1001000217901": 424,
+      "gas:candidate-vibid:1001000136013": 27,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466635&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 27,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 39,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225912": 27,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 39,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 241,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 27,
-      "Сарычев Алексей Николаевич": 81,
-      "Серов Сергей Николаевич": 71,
-      "Торопкин Юрий Георгиевич": 28,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000225912": 241,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 27,
+      "gas:candidate-vibid:322300466761": 81,
+      "gas:candidate-vibid:1001000217901": 71,
+      "gas:candidate-vibid:1001000136013": 28,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 101,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 94,
-      "Серов Сергей Николаевич": 87,
-      "Торопкин Юрий Георгиевич": 32,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000225912": 101,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 94,
+      "gas:candidate-vibid:1001000217901": 87,
+      "gas:candidate-vibid:1001000136013": 32,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 87,
-      "Колотов Владимир Павлович": 16,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 197,
-      "Серов Сергей Николаевич": 66,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225912": 87,
+      "gas:candidate-vibid:1001000113907": 16,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 197,
+      "gas:candidate-vibid:1001000217901": 66,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 11,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 25,
-      "Серов Сергей Николаевич": 10,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225912": 11,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 25,
+      "gas:candidate-vibid:1001000217901": 10,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 455,
-      "Колотов Владимир Павлович": 34,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 48,
-      "Сарычев Алексей Николаевич": 371,
-      "Серов Сергей Николаевич": 440,
-      "Торопкин Юрий Георгиевич": 49,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000225912": 455,
+      "gas:candidate-vibid:1001000113907": 34,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 48,
+      "gas:candidate-vibid:322300466761": 371,
+      "gas:candidate-vibid:1001000217901": 440,
+      "gas:candidate-vibid:1001000136013": 49,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 117,
-      "Колотов Владимир Павлович": 17,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 71,
-      "Серов Сергей Николаевич": 146,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225912": 117,
+      "gas:candidate-vibid:1001000113907": 17,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 71,
+      "gas:candidate-vibid:1001000217901": 146,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 97,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 47,
-      "Серов Сергей Николаевич": 81,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 97,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 47,
+      "gas:candidate-vibid:1001000217901": 81,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 28,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 16,
-      "Серов Сергей Николаевич": 11,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225912": 28,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 16,
+      "gas:candidate-vibid:1001000217901": 11,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 30,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 20,
-      "Серов Сергей Николаевич": 15,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 30,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 20,
+      "gas:candidate-vibid:1001000217901": 15,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 307,
-      "Колотов Владимир Павлович": 34,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 55,
-      "Сарычев Алексей Николаевич": 280,
-      "Серов Сергей Николаевич": 143,
-      "Торопкин Юрий Георгиевич": 72,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000225912": 307,
+      "gas:candidate-vibid:1001000113907": 34,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 55,
+      "gas:candidate-vibid:322300466761": 280,
+      "gas:candidate-vibid:1001000217901": 143,
+      "gas:candidate-vibid:1001000136013": 72,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 38,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 22,
-      "Серов Сергей Николаевич": 30,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 38,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 22,
+      "gas:candidate-vibid:1001000217901": 30,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 46,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 40,
-      "Серов Сергей Николаевич": 75,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225912": 46,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 40,
+      "gas:candidate-vibid:1001000217901": 75,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 18,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 10,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225912": 18,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 10,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 101,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 11,
-      "Сарычев Алексей Николаевич": 94,
-      "Серов Сергей Николаевич": 42,
-      "Торопкин Юрий Георгиевич": 18,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 101,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 11,
+      "gas:candidate-vibid:322300466761": 94,
+      "gas:candidate-vibid:1001000217901": 42,
+      "gas:candidate-vibid:1001000136013": 18,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 132,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 85,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 132,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 85,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 88,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 20,
-      "Сарычев Алексей Николаевич": 31,
-      "Серов Сергей Николаевич": 94,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225912": 88,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 20,
+      "gas:candidate-vibid:322300466761": 31,
+      "gas:candidate-vibid:1001000217901": 94,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 101,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 73,
-      "Серов Сергей Николаевич": 72,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225912": 101,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 73,
+      "gas:candidate-vibid:1001000217901": 72,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466636&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 123,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 11,
-      "Сарычев Алексей Николаевич": 38,
-      "Серов Сергей Николаевич": 212,
-      "Торопкин Юрий Георгиевич": 16,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225912": 123,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 11,
+      "gas:candidate-vibid:322300466761": 38,
+      "gas:candidate-vibid:1001000217901": 212,
+      "gas:candidate-vibid:1001000136013": 16,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 17,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 4,
-      "Серов Сергей Николаевич": 38,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225912": 17,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 4,
+      "gas:candidate-vibid:1001000217901": 38,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 82,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 139,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 82,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 139,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 11,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 6,
-      "Серов Сергей Николаевич": 20,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 11,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 6,
+      "gas:candidate-vibid:1001000217901": 20,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 28,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 4,
-      "Серов Сергей Николаевич": 10,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225912": 28,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 4,
+      "gas:candidate-vibid:1001000217901": 10,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 159,
-      "Колотов Владимир Павлович": 21,
-      "Лабазников Сергей Борисович": 15,
-      "Поддубная Анна Филипповна": 22,
-      "Сарычев Алексей Николаевич": 29,
-      "Серов Сергей Николаевич": 216,
-      "Торопкин Юрий Георгиевич": 20,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225912": 159,
+      "gas:candidate-vibid:1001000113907": 21,
+      "gas:candidate-vibid:1001000193907": 15,
+      "gas:candidate-vibid:1001000195042": 22,
+      "gas:candidate-vibid:322300466761": 29,
+      "gas:candidate-vibid:1001000217901": 216,
+      "gas:candidate-vibid:1001000136013": 20,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 69,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 8,
-      "Серов Сергей Николаевич": 75,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225912": 69,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 8,
+      "gas:candidate-vibid:1001000217901": 75,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 26,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 2,
-      "Серов Сергей Николаевич": 32,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225912": 26,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 2,
+      "gas:candidate-vibid:1001000217901": 32,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 25,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 11,
-      "Серов Сергей Николаевич": 36,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 25,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 11,
+      "gas:candidate-vibid:1001000217901": 36,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 159,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 47,
-      "Серов Сергей Николаевич": 145,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 159,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 47,
+      "gas:candidate-vibid:1001000217901": 145,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 66,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 7,
-      "Серов Сергей Николаевич": 85,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 66,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 7,
+      "gas:candidate-vibid:1001000217901": 85,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 30,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 4,
-      "Серов Сергей Николаевич": 20,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225912": 30,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 4,
+      "gas:candidate-vibid:1001000217901": 20,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 154,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 40,
-      "Серов Сергей Николаевич": 206,
-      "Торопкин Юрий Георгиевич": 11,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225912": 154,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 40,
+      "gas:candidate-vibid:1001000217901": 206,
+      "gas:candidate-vibid:1001000136013": 11,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 12,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 2,
-      "Серов Сергей Николаевич": 51,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225912": 12,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 2,
+      "gas:candidate-vibid:1001000217901": 51,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 43,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 3,
-      "Серов Сергей Николаевич": 20,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225912": 43,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 3,
+      "gas:candidate-vibid:1001000217901": 20,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 258,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 51,
-      "Серов Сергей Николаевич": 206,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 258,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 51,
+      "gas:candidate-vibid:1001000217901": 206,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 40,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 5,
-      "Серов Сергей Николаевич": 40,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225912": 40,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 5,
+      "gas:candidate-vibid:1001000217901": 40,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 118,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 88,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225912": 118,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 88,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 184,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 24,
-      "Сарычев Алексей Николаевич": 42,
-      "Серов Сергей Николаевич": 392,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225912": 184,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 24,
+      "gas:candidate-vibid:322300466761": 42,
+      "gas:candidate-vibid:1001000217901": 392,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 194,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 191,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225912": 194,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 191,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 95,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 5,
-      "Серов Сергей Николаевич": 28,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225912": 95,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 5,
+      "gas:candidate-vibid:1001000217901": 28,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 89,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 96,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225912": 89,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 96,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 45,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 6,
-      "Серов Сергей Николаевич": 23,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225912": 45,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 6,
+      "gas:candidate-vibid:1001000217901": 23,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 194,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 27,
-      "Серов Сергей Николаевич": 375,
-      "Торопкин Юрий Георгиевич": 11,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225912": 194,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 27,
+      "gas:candidate-vibid:1001000217901": 375,
+      "gas:candidate-vibid:1001000136013": 11,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 116,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 129,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225912": 116,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 129,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 52,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 4,
-      "Серов Сергей Николаевич": 72,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225912": 52,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 4,
+      "gas:candidate-vibid:1001000217901": 72,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 117,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 14,
-      "Серов Сергей Николаевич": 109,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225912": 117,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 14,
+      "gas:candidate-vibid:1001000217901": 109,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 35,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 1,
-      "Серов Сергей Николаевич": 19,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225912": 35,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 1,
+      "gas:candidate-vibid:1001000217901": 19,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466637&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 265,
-      "Колотов Владимир Павлович": 25,
-      "Лабазников Сергей Борисович": 15,
-      "Поддубная Анна Филипповна": 50,
-      "Сарычев Алексей Николаевич": 159,
-      "Серов Сергей Николаевич": 298,
-      "Торопкин Юрий Георгиевич": 54,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000225912": 265,
+      "gas:candidate-vibid:1001000113907": 25,
+      "gas:candidate-vibid:1001000193907": 15,
+      "gas:candidate-vibid:1001000195042": 50,
+      "gas:candidate-vibid:322300466761": 159,
+      "gas:candidate-vibid:1001000217901": 298,
+      "gas:candidate-vibid:1001000136013": 54,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 168,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 68,
-      "Серов Сергей Николаевич": 120,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 168,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 68,
+      "gas:candidate-vibid:1001000217901": 120,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 209,
-      "Колотов Владимир Павлович": 17,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 84,
-      "Серов Сергей Николаевич": 191,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225912": 209,
+      "gas:candidate-vibid:1001000113907": 17,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 84,
+      "gas:candidate-vibid:1001000217901": 191,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 461,
-      "Колотов Владимир Павлович": 31,
-      "Лабазников Сергей Борисович": 13,
-      "Поддубная Анна Филипповна": 54,
-      "Сарычев Алексей Николаевич": 294,
-      "Серов Сергей Николаевич": 385,
-      "Торопкин Юрий Георгиевич": 39,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000225912": 461,
+      "gas:candidate-vibid:1001000113907": 31,
+      "gas:candidate-vibid:1001000193907": 13,
+      "gas:candidate-vibid:1001000195042": 54,
+      "gas:candidate-vibid:322300466761": 294,
+      "gas:candidate-vibid:1001000217901": 385,
+      "gas:candidate-vibid:1001000136013": 39,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 300,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 156,
-      "Серов Сергей Николаевич": 286,
-      "Торопкин Юрий Георгиевич": 23,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000225912": 300,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 156,
+      "gas:candidate-vibid:1001000217901": 286,
+      "gas:candidate-vibid:1001000136013": 23,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 239,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 129,
-      "Серов Сергей Николаевич": 210,
-      "Торопкин Юрий Георгиевич": 24,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000225912": 239,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 129,
+      "gas:candidate-vibid:1001000217901": 210,
+      "gas:candidate-vibid:1001000136013": 24,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 190,
-      "Колотов Владимир Павлович": 16,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 29,
-      "Сарычев Алексей Николаевич": 157,
-      "Серов Сергей Николаевич": 171,
-      "Торопкин Юрий Георгиевич": 25,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000225912": 190,
+      "gas:candidate-vibid:1001000113907": 16,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 29,
+      "gas:candidate-vibid:322300466761": 157,
+      "gas:candidate-vibid:1001000217901": 171,
+      "gas:candidate-vibid:1001000136013": 25,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 289,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 40,
-      "Сарычев Алексей Николаевич": 96,
-      "Серов Сергей Николаевич": 254,
-      "Торопкин Юрий Георгиевич": 40,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000225912": 289,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 40,
+      "gas:candidate-vibid:322300466761": 96,
+      "gas:candidate-vibid:1001000217901": 254,
+      "gas:candidate-vibid:1001000136013": 40,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 196,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 35,
-      "Сарычев Алексей Николаевич": 64,
-      "Серов Сергей Николаевич": 211,
-      "Торопкин Юрий Георгиевич": 27,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000225912": 196,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 35,
+      "gas:candidate-vibid:322300466761": 64,
+      "gas:candidate-vibid:1001000217901": 211,
+      "gas:candidate-vibid:1001000136013": 27,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 303,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 20,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 89,
-      "Серов Сергей Николаевич": 228,
-      "Торопкин Юрий Георгиевич": 50,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000225912": 303,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 20,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 89,
+      "gas:candidate-vibid:1001000217901": 228,
+      "gas:candidate-vibid:1001000136013": 50,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 253,
-      "Колотов Владимир Павлович": 17,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 32,
-      "Сарычев Алексей Николаевич": 123,
-      "Серов Сергей Николаевич": 215,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000225912": 253,
+      "gas:candidate-vibid:1001000113907": 17,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 32,
+      "gas:candidate-vibid:322300466761": 123,
+      "gas:candidate-vibid:1001000217901": 215,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 281,
-      "Колотов Владимир Павлович": 20,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 29,
-      "Сарычев Алексей Николаевич": 106,
-      "Серов Сергей Николаевич": 191,
-      "Торопкин Юрий Георгиевич": 43,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000225912": 281,
+      "gas:candidate-vibid:1001000113907": 20,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 29,
+      "gas:candidate-vibid:322300466761": 106,
+      "gas:candidate-vibid:1001000217901": 191,
+      "gas:candidate-vibid:1001000136013": 43,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 367,
-      "Колотов Владимир Павлович": 39,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 47,
-      "Сарычев Алексей Николаевич": 115,
-      "Серов Сергей Николаевич": 303,
-      "Торопкин Юрий Георгиевич": 54,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000225912": 367,
+      "gas:candidate-vibid:1001000113907": 39,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 47,
+      "gas:candidate-vibid:322300466761": 115,
+      "gas:candidate-vibid:1001000217901": 303,
+      "gas:candidate-vibid:1001000136013": 54,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 266,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 80,
-      "Серов Сергей Николаевич": 194,
-      "Торопкин Юрий Георгиевич": 20,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225912": 266,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 80,
+      "gas:candidate-vibid:1001000217901": 194,
+      "gas:candidate-vibid:1001000136013": 20,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 627,
-      "Колотов Владимир Павлович": 46,
-      "Лабазников Сергей Борисович": 23,
-      "Поддубная Анна Филипповна": 64,
-      "Сарычев Алексей Николаевич": 173,
-      "Серов Сергей Николаевич": 361,
-      "Торопкин Юрий Георгиевич": 107,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000225912": 627,
+      "gas:candidate-vibid:1001000113907": 46,
+      "gas:candidate-vibid:1001000193907": 23,
+      "gas:candidate-vibid:1001000195042": 64,
+      "gas:candidate-vibid:322300466761": 173,
+      "gas:candidate-vibid:1001000217901": 361,
+      "gas:candidate-vibid:1001000136013": 107,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 110,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 38,
-      "Серов Сергей Николаевич": 154,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225912": 110,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 38,
+      "gas:candidate-vibid:1001000217901": 154,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 529,
-      "Колотов Владимир Павлович": 47,
-      "Лабазников Сергей Борисович": 19,
-      "Поддубная Анна Филипповна": 64,
-      "Сарычев Алексей Николаевич": 276,
-      "Серов Сергей Николаевич": 406,
-      "Торопкин Юрий Георгиевич": 60,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000225912": 529,
+      "gas:candidate-vibid:1001000113907": 47,
+      "gas:candidate-vibid:1001000193907": 19,
+      "gas:candidate-vibid:1001000195042": 64,
+      "gas:candidate-vibid:322300466761": 276,
+      "gas:candidate-vibid:1001000217901": 406,
+      "gas:candidate-vibid:1001000136013": 60,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 159,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 37,
-      "Сарычев Алексей Николаевич": 64,
-      "Серов Сергей Николаевич": 131,
-      "Торопкин Юрий Георгиевич": 42,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225912": 159,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 37,
+      "gas:candidate-vibid:322300466761": 64,
+      "gas:candidate-vibid:1001000217901": 131,
+      "gas:candidate-vibid:1001000136013": 42,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 121,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 22,
-      "Сарычев Алексей Николаевич": 43,
-      "Серов Сергей Николаевич": 101,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225912": 121,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 22,
+      "gas:candidate-vibid:322300466761": 43,
+      "gas:candidate-vibid:1001000217901": 101,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 236,
-      "Колотов Владимир Павлович": 22,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 38,
-      "Сарычев Алексей Николаевич": 56,
-      "Серов Сергей Николаевич": 85,
-      "Торопкин Юрий Георгиевич": 31,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000225912": 236,
+      "gas:candidate-vibid:1001000113907": 22,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 38,
+      "gas:candidate-vibid:322300466761": 56,
+      "gas:candidate-vibid:1001000217901": 85,
+      "gas:candidate-vibid:1001000136013": 31,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 69,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 14,
-      "Сарычев Алексей Николаевич": 20,
-      "Серов Сергей Николаевич": 51,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 69,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 14,
+      "gas:candidate-vibid:322300466761": 20,
+      "gas:candidate-vibid:1001000217901": 51,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 79,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 20,
-      "Серов Сергей Николаевич": 60,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225912": 79,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 20,
+      "gas:candidate-vibid:1001000217901": 60,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 134,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 82,
-      "Серов Сергей Николаевич": 174,
-      "Торопкин Юрий Георгиевич": 25,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000225912": 134,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 82,
+      "gas:candidate-vibid:1001000217901": 174,
+      "gas:candidate-vibid:1001000136013": 25,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 32,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 21,
-      "Серов Сергей Николаевич": 27,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225912": 32,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 21,
+      "gas:candidate-vibid:1001000217901": 27,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466638&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 572,
-      "Колотов Владимир Павлович": 25,
-      "Лабазников Сергей Борисович": 26,
-      "Поддубная Анна Филипповна": 46,
-      "Сарычев Алексей Николаевич": 235,
-      "Серов Сергей Николаевич": 451,
-      "Торопкин Юрий Георгиевич": 109,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000225912": 572,
+      "gas:candidate-vibid:1001000113907": 25,
+      "gas:candidate-vibid:1001000193907": 26,
+      "gas:candidate-vibid:1001000195042": 46,
+      "gas:candidate-vibid:322300466761": 235,
+      "gas:candidate-vibid:1001000217901": 451,
+      "gas:candidate-vibid:1001000136013": 109,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 472,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 32,
-      "Сарычев Алексей Николаевич": 375,
-      "Серов Сергей Николаевич": 499,
-      "Торопкин Юрий Георгиевич": 81,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000225912": 472,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 32,
+      "gas:candidate-vibid:322300466761": 375,
+      "gas:candidate-vibid:1001000217901": 499,
+      "gas:candidate-vibid:1001000136013": 81,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 447,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 24,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 263,
-      "Серов Сергей Николаевич": 319,
-      "Торопкин Юрий Георгиевич": 64,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225912": 447,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 24,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 263,
+      "gas:candidate-vibid:1001000217901": 319,
+      "gas:candidate-vibid:1001000136013": 64,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 258,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 372,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000225912": 258,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 372,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 368,
-      "Колотов Владимир Павлович": 16,
-      "Лабазников Сергей Борисович": 17,
-      "Поддубная Анна Филипповна": 40,
-      "Сарычев Алексей Николаевич": 86,
-      "Серов Сергей Николаевич": 354,
-      "Торопкин Юрий Георгиевич": 37,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 368,
+      "gas:candidate-vibid:1001000113907": 16,
+      "gas:candidate-vibid:1001000193907": 17,
+      "gas:candidate-vibid:1001000195042": 40,
+      "gas:candidate-vibid:322300466761": 86,
+      "gas:candidate-vibid:1001000217901": 354,
+      "gas:candidate-vibid:1001000136013": 37,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 319,
-      "Колотов Владимир Павлович": 23,
-      "Лабазников Сергей Борисович": 17,
-      "Поддубная Анна Филипповна": 36,
-      "Сарычев Алексей Николаевич": 31,
-      "Серов Сергей Николаевич": 203,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000225912": 319,
+      "gas:candidate-vibid:1001000113907": 23,
+      "gas:candidate-vibid:1001000193907": 17,
+      "gas:candidate-vibid:1001000195042": 36,
+      "gas:candidate-vibid:322300466761": 31,
+      "gas:candidate-vibid:1001000217901": 203,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 23,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 19,
-      "Серов Сергей Николаевич": 106,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225912": 23,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 19,
+      "gas:candidate-vibid:1001000217901": 106,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 148,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 29,
-      "Серов Сергей Николаевич": 202,
-      "Торопкин Юрий Георгиевич": 13,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 148,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 29,
+      "gas:candidate-vibid:1001000217901": 202,
+      "gas:candidate-vibid:1001000136013": 13,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 315,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 71,
-      "Серов Сергей Николаевич": 189,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225912": 315,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 71,
+      "gas:candidate-vibid:1001000217901": 189,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 81,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 11,
-      "Сарычев Алексей Николаевич": 30,
-      "Серов Сергей Николаевич": 66,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225912": 81,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 11,
+      "gas:candidate-vibid:322300466761": 30,
+      "gas:candidate-vibid:1001000217901": 66,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 117,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 40,
-      "Серов Сергей Николаевич": 110,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225912": 117,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 40,
+      "gas:candidate-vibid:1001000217901": 110,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 45,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 11,
-      "Серов Сергей Николаевич": 61,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 45,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 11,
+      "gas:candidate-vibid:1001000217901": 61,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 73,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 13,
-      "Серов Сергей Николаевич": 75,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225912": 73,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 13,
+      "gas:candidate-vibid:1001000217901": 75,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 157,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 44,
-      "Серов Сергей Николаевич": 171,
-      "Торопкин Юрий Георгиевич": 13,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 157,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 44,
+      "gas:candidate-vibid:1001000217901": 171,
+      "gas:candidate-vibid:1001000136013": 13,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 120,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 314,
-      "Торопкин Юрий Георгиевич": 20,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225912": 120,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 314,
+      "gas:candidate-vibid:1001000136013": 20,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 38,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 44,
-      "Серов Сергей Николаевич": 40,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225912": 38,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 44,
+      "gas:candidate-vibid:1001000217901": 40,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 119,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 33,
-      "Серов Сергей Николаевич": 88,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225912": 119,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 33,
+      "gas:candidate-vibid:1001000217901": 88,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466639&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 6,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 0,
-      "Сарычев Алексей Николаевич": 11,
-      "Серов Сергей Николаевич": 54,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225912": 6,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 0,
+      "gas:candidate-vibid:322300466761": 11,
+      "gas:candidate-vibid:1001000217901": 54,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 68,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 41,
-      "Серов Сергей Николаевич": 63,
-      "Торопкин Юрий Георгиевич": 13,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225912": 68,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 41,
+      "gas:candidate-vibid:1001000217901": 63,
+      "gas:candidate-vibid:1001000136013": 13,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 63,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 43,
-      "Серов Сергей Николаевич": 137,
-      "Торопкин Юрий Георгиевич": 16,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 63,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 43,
+      "gas:candidate-vibid:1001000217901": 137,
+      "gas:candidate-vibid:1001000136013": 16,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 41,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 52,
-      "Серов Сергей Николаевич": 79,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 41,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 52,
+      "gas:candidate-vibid:1001000217901": 79,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 170,
-      "Колотов Владимир Павлович": 22,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 24,
-      "Сарычев Алексей Николаевич": 105,
-      "Серов Сергей Николаевич": 170,
-      "Торопкин Юрий Георгиевич": 30,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000225912": 170,
+      "gas:candidate-vibid:1001000113907": 22,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 24,
+      "gas:candidate-vibid:322300466761": 105,
+      "gas:candidate-vibid:1001000217901": 170,
+      "gas:candidate-vibid:1001000136013": 30,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 150,
-      "Колотов Владимир Павлович": 16,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 83,
-      "Серов Сергей Николаевич": 199,
-      "Торопкин Юрий Георгиевич": 23,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000225912": 150,
+      "gas:candidate-vibid:1001000113907": 16,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 83,
+      "gas:candidate-vibid:1001000217901": 199,
+      "gas:candidate-vibid:1001000136013": 23,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 138,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 51,
-      "Серов Сергей Николаевич": 105,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225912": 138,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 51,
+      "gas:candidate-vibid:1001000217901": 105,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 42,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 4,
-      "Серов Сергей Николаевич": 22,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225912": 42,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 4,
+      "gas:candidate-vibid:1001000217901": 22,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 21,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 7,
-      "Серов Сергей Николаевич": 33,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225912": 21,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 7,
+      "gas:candidate-vibid:1001000217901": 33,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 285,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 27,
-      "Сарычев Алексей Николаевич": 107,
-      "Серов Сергей Николаевич": 325,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000225912": 285,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 27,
+      "gas:candidate-vibid:322300466761": 107,
+      "gas:candidate-vibid:1001000217901": 325,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 316,
-      "Колотов Владимир Павлович": 28,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 101,
-      "Серов Сергей Николаевич": 196,
-      "Торопкин Юрий Георгиевич": 27,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000225912": 316,
+      "gas:candidate-vibid:1001000113907": 28,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 101,
+      "gas:candidate-vibid:1001000217901": 196,
+      "gas:candidate-vibid:1001000136013": 27,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 97,
-      "Колотов Владимир Павлович": 17,
-      "Лабазников Сергей Борисович": 13,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 78,
-      "Серов Сергей Николаевич": 94,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000225912": 97,
+      "gas:candidate-vibid:1001000113907": 17,
+      "gas:candidate-vibid:1001000193907": 13,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 78,
+      "gas:candidate-vibid:1001000217901": 94,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 34,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 17,
-      "Серов Сергей Николаевич": 31,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225912": 34,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 17,
+      "gas:candidate-vibid:1001000217901": 31,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 16,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 0,
-      "Серов Сергей Николаевич": 40,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225912": 16,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 0,
+      "gas:candidate-vibid:1001000217901": 40,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 21,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 3,
-      "Серов Сергей Николаевич": 11,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225912": 21,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 3,
+      "gas:candidate-vibid:1001000217901": 11,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 84,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 31,
-      "Серов Сергей Николаевич": 64,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225912": 84,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 31,
+      "gas:candidate-vibid:1001000217901": 64,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 102,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 117,
-      "Серов Сергей Николаевич": 242,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225912": 102,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 117,
+      "gas:candidate-vibid:1001000217901": 242,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 72,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 7,
-      "Серов Сергей Николаевич": 40,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225912": 72,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 7,
+      "gas:candidate-vibid:1001000217901": 40,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466640&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 422,
-      "Колотов Владимир Павлович": 29,
-      "Лабазников Сергей Борисович": 301,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 213,
-      "Серов Сергей Николаевич": 214,
-      "Торопкин Юрий Георгиевич": 40,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000225912": 422,
+      "gas:candidate-vibid:1001000113907": 29,
+      "gas:candidate-vibid:1001000193907": 301,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 213,
+      "gas:candidate-vibid:1001000217901": 214,
+      "gas:candidate-vibid:1001000136013": 40,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 428,
-      "Колотов Владимир Павлович": 30,
-      "Лабазников Сергей Борисович": 364,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 199,
-      "Серов Сергей Николаевич": 148,
-      "Торопкин Юрий Георгиевич": 67,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000225912": 428,
+      "gas:candidate-vibid:1001000113907": 30,
+      "gas:candidate-vibid:1001000193907": 364,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 199,
+      "gas:candidate-vibid:1001000217901": 148,
+      "gas:candidate-vibid:1001000136013": 67,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 394,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 328,
-      "Поддубная Анна Филипповна": 50,
-      "Сарычев Алексей Николаевич": 225,
-      "Серов Сергей Николаевич": 202,
-      "Торопкин Юрий Георгиевич": 55,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000225912": 394,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 328,
+      "gas:candidate-vibid:1001000195042": 50,
+      "gas:candidate-vibid:322300466761": 225,
+      "gas:candidate-vibid:1001000217901": 202,
+      "gas:candidate-vibid:1001000136013": 55,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 462,
-      "Колотов Владимир Павлович": 25,
-      "Лабазников Сергей Борисович": 275,
-      "Поддубная Анна Филипповна": 65,
-      "Сарычев Алексей Николаевич": 139,
-      "Серов Сергей Николаевич": 245,
-      "Торопкин Юрий Георгиевич": 58,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000225912": 462,
+      "gas:candidate-vibid:1001000113907": 25,
+      "gas:candidate-vibid:1001000193907": 275,
+      "gas:candidate-vibid:1001000195042": 65,
+      "gas:candidate-vibid:322300466761": 139,
+      "gas:candidate-vibid:1001000217901": 245,
+      "gas:candidate-vibid:1001000136013": 58,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 367,
-      "Колотов Владимир Павлович": 21,
-      "Лабазников Сергей Борисович": 316,
-      "Поддубная Анна Филипповна": 38,
-      "Сарычев Алексей Николаевич": 224,
-      "Серов Сергей Николаевич": 234,
-      "Торопкин Юрий Георгиевич": 35,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000225912": 367,
+      "gas:candidate-vibid:1001000113907": 21,
+      "gas:candidate-vibid:1001000193907": 316,
+      "gas:candidate-vibid:1001000195042": 38,
+      "gas:candidate-vibid:322300466761": 224,
+      "gas:candidate-vibid:1001000217901": 234,
+      "gas:candidate-vibid:1001000136013": 35,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 177,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 60,
-      "Поддубная Анна Филипповна": 18,
-      "Сарычев Алексей Николаевич": 15,
-      "Серов Сергей Николаевич": 98,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 177,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 60,
+      "gas:candidate-vibid:1001000195042": 18,
+      "gas:candidate-vibid:322300466761": 15,
+      "gas:candidate-vibid:1001000217901": 98,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 40,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 17,
-      "Серов Сергей Николаевич": 25,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 40,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 17,
+      "gas:candidate-vibid:1001000217901": 25,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 145,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 106,
-      "Поддубная Анна Филипповна": 11,
-      "Сарычев Алексей Николаевич": 69,
-      "Серов Сергей Николаевич": 92,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 145,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 106,
+      "gas:candidate-vibid:1001000195042": 11,
+      "gas:candidate-vibid:322300466761": 69,
+      "gas:candidate-vibid:1001000217901": 92,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 67,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 22,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 36,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225912": 67,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 22,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 36,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 67,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 26,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 42,
-      "Серов Сергей Николаевич": 27,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225912": 67,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 26,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 42,
+      "gas:candidate-vibid:1001000217901": 27,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 70,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 56,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 41,
-      "Серов Сергей Николаевич": 73,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225912": 70,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 56,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 41,
+      "gas:candidate-vibid:1001000217901": 73,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 64,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 79,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 5,
-      "Серов Сергей Николаевич": 23,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225912": 64,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 79,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 5,
+      "gas:candidate-vibid:1001000217901": 23,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 222,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 115,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 204,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225912": 222,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 115,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 204,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 20,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 19,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 8,
-      "Серов Сергей Николаевич": 59,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225912": 20,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 19,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 8,
+      "gas:candidate-vibid:1001000217901": 59,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 54,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 26,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 5,
-      "Серов Сергей Николаевич": 23,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 54,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 26,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 5,
+      "gas:candidate-vibid:1001000217901": 23,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 85,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 19,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 68,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225912": 85,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 19,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 68,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 133,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 35,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 34,
-      "Серов Сергей Николаевич": 43,
-      "Торопкин Юрий Георгиевич": 27,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225912": 133,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 35,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 34,
+      "gas:candidate-vibid:1001000217901": 43,
+      "gas:candidate-vibid:1001000136013": 27,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 26,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 34,
-      "Серов Сергей Николаевич": 21,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225912": 26,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 34,
+      "gas:candidate-vibid:1001000217901": 21,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 32,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 33,
-      "Серов Сергей Николаевич": 29,
-      "Торопкин Юрий Георгиевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225912": 32,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 33,
+      "gas:candidate-vibid:1001000217901": 29,
+      "gas:candidate-vibid:1001000136013": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 135,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 17,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 11,
-      "Серов Сергей Николаевич": 13,
-      "Торопкин Юрий Георгиевич": 11,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225912": 135,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 17,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 11,
+      "gas:candidate-vibid:1001000217901": 13,
+      "gas:candidate-vibid:1001000136013": 11,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 47,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 22,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 62,
-      "Торопкин Юрий Георгиевич": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 47,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 22,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 62,
+      "gas:candidate-vibid:1001000136013": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 41,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 21,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 51,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225912": 41,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 21,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 51,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 140,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 27,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 22,
-      "Серов Сергей Николаевич": 17,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 140,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 27,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 22,
+      "gas:candidate-vibid:1001000217901": 17,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 77,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 72,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 8,
-      "Серов Сергей Николаевич": 17,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225912": 77,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 72,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 8,
+      "gas:candidate-vibid:1001000217901": 17,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466641&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 101,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 77,
-      "Серов Сергей Николаевич": 315,
-      "Торопкин Юрий Георгиевич": 22,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225912": 101,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 77,
+      "gas:candidate-vibid:1001000217901": 315,
+      "gas:candidate-vibid:1001000136013": 22,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 95,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 61,
-      "Серов Сергей Николаевич": 278,
-      "Торопкин Юрий Георгиевич": 19,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 95,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 61,
+      "gas:candidate-vibid:1001000217901": 278,
+      "gas:candidate-vibid:1001000136013": 19,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 79,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 30,
-      "Серов Сергей Николаевич": 132,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 79,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 30,
+      "gas:candidate-vibid:1001000217901": 132,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 94,
-      "Колотов Владимир Павлович": 17,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 77,
-      "Серов Сергей Николаевич": 163,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000225912": 94,
+      "gas:candidate-vibid:1001000113907": 17,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 77,
+      "gas:candidate-vibid:1001000217901": 163,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 198,
-      "Колотов Владимир Павлович": 26,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 94,
-      "Серов Сергей Николаевич": 275,
-      "Торопкин Юрий Георгиевич": 30,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225912": 198,
+      "gas:candidate-vibid:1001000113907": 26,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 94,
+      "gas:candidate-vibid:1001000217901": 275,
+      "gas:candidate-vibid:1001000136013": 30,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 157,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 28,
-      "Сарычев Алексей Николаевич": 69,
-      "Серов Сергей Николаевич": 327,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225912": 157,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 28,
+      "gas:candidate-vibid:322300466761": 69,
+      "gas:candidate-vibid:1001000217901": 327,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 68,
-      "Колотов Владимир Павлович": 20,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 32,
-      "Сарычев Алексей Николаевич": 94,
-      "Серов Сергей Николаевич": 409,
-      "Торопкин Юрий Георгиевич": 38,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225912": 68,
+      "gas:candidate-vibid:1001000113907": 20,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 32,
+      "gas:candidate-vibid:322300466761": 94,
+      "gas:candidate-vibid:1001000217901": 409,
+      "gas:candidate-vibid:1001000136013": 38,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 216,
-      "Колотов Владимир Павлович": 17,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 28,
-      "Сарычев Алексей Николаевич": 49,
-      "Серов Сергей Николаевич": 327,
-      "Торопкин Юрий Георгиевич": 28,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000225912": 216,
+      "gas:candidate-vibid:1001000113907": 17,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 28,
+      "gas:candidate-vibid:322300466761": 49,
+      "gas:candidate-vibid:1001000217901": 327,
+      "gas:candidate-vibid:1001000136013": 28,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 277,
-      "Колотов Владимир Павлович": 26,
-      "Лабазников Сергей Борисович": 19,
-      "Поддубная Анна Филипповна": 34,
-      "Сарычев Алексей Николаевич": 172,
-      "Серов Сергей Николаевич": 521,
-      "Торопкин Юрий Георгиевич": 50,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000225912": 277,
+      "gas:candidate-vibid:1001000113907": 26,
+      "gas:candidate-vibid:1001000193907": 19,
+      "gas:candidate-vibid:1001000195042": 34,
+      "gas:candidate-vibid:322300466761": 172,
+      "gas:candidate-vibid:1001000217901": 521,
+      "gas:candidate-vibid:1001000136013": 50,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 173,
-      "Колотов Владимир Павлович": 23,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 29,
-      "Сарычев Алексей Николаевич": 90,
-      "Серов Сергей Николаевич": 292,
-      "Торопкин Юрий Георгиевич": 31,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000225912": 173,
+      "gas:candidate-vibid:1001000113907": 23,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 29,
+      "gas:candidate-vibid:322300466761": 90,
+      "gas:candidate-vibid:1001000217901": 292,
+      "gas:candidate-vibid:1001000136013": 31,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 146,
-      "Колотов Владимир Павлович": 25,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 43,
-      "Сарычев Алексей Николаевич": 109,
-      "Серов Сергей Николаевич": 252,
-      "Торопкин Юрий Георгиевич": 29,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000225912": 146,
+      "gas:candidate-vibid:1001000113907": 25,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 43,
+      "gas:candidate-vibid:322300466761": 109,
+      "gas:candidate-vibid:1001000217901": 252,
+      "gas:candidate-vibid:1001000136013": 29,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 297,
-      "Колотов Владимир Павлович": 30,
-      "Лабазников Сергей Борисович": 17,
-      "Поддубная Анна Филипповна": 49,
-      "Сарычев Алексей Николаевич": 149,
-      "Серов Сергей Николаевич": 344,
-      "Торопкин Юрий Георгиевич": 58,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000225912": 297,
+      "gas:candidate-vibid:1001000113907": 30,
+      "gas:candidate-vibid:1001000193907": 17,
+      "gas:candidate-vibid:1001000195042": 49,
+      "gas:candidate-vibid:322300466761": 149,
+      "gas:candidate-vibid:1001000217901": 344,
+      "gas:candidate-vibid:1001000136013": 58,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 201,
-      "Колотов Владимир Павлович": 26,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 39,
-      "Сарычев Алексей Николаевич": 87,
-      "Серов Сергей Николаевич": 215,
-      "Торопкин Юрий Георгиевич": 28,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000225912": 201,
+      "gas:candidate-vibid:1001000113907": 26,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 39,
+      "gas:candidate-vibid:322300466761": 87,
+      "gas:candidate-vibid:1001000217901": 215,
+      "gas:candidate-vibid:1001000136013": 28,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 214,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 48,
-      "Серов Сергей Николаевич": 133,
-      "Торопкин Юрий Георгиевич": 10,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225912": 214,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 48,
+      "gas:candidate-vibid:1001000217901": 133,
+      "gas:candidate-vibid:1001000136013": 10,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 262,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 83,
-      "Серов Сергей Николаевич": 255,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225912": 262,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 83,
+      "gas:candidate-vibid:1001000217901": 255,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 71,
-      "Колотов Владимир Павлович": 20,
-      "Лабазников Сергей Борисович": 13,
-      "Поддубная Анна Филипповна": 25,
-      "Сарычев Алексей Николаевич": 63,
-      "Серов Сергей Николаевич": 348,
-      "Торопкин Юрий Георгиевич": 22,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 71,
+      "gas:candidate-vibid:1001000113907": 20,
+      "gas:candidate-vibid:1001000193907": 13,
+      "gas:candidate-vibid:1001000195042": 25,
+      "gas:candidate-vibid:322300466761": 63,
+      "gas:candidate-vibid:1001000217901": 348,
+      "gas:candidate-vibid:1001000136013": 22,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 78,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 22,
-      "Сарычев Алексей Николаевич": 67,
-      "Серов Сергей Николаевич": 192,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225912": 78,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 22,
+      "gas:candidate-vibid:322300466761": 67,
+      "gas:candidate-vibid:1001000217901": 192,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 84,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 36,
-      "Сарычев Алексей Николаевич": 100,
-      "Серов Сергей Николаевич": 166,
-      "Торопкин Юрий Георгиевич": 15,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 84,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 36,
+      "gas:candidate-vibid:322300466761": 100,
+      "gas:candidate-vibid:1001000217901": 166,
+      "gas:candidate-vibid:1001000136013": 15,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 135,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 35,
-      "Серов Сергей Николаевич": 101,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 135,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 35,
+      "gas:candidate-vibid:1001000217901": 101,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 67,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 46,
-      "Серов Сергей Николаевич": 214,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225912": 67,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 46,
+      "gas:candidate-vibid:1001000217901": 214,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 98,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 94,
-      "Серов Сергей Николаевич": 330,
-      "Торопкин Юрий Георгиевич": 23,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225912": 98,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 94,
+      "gas:candidate-vibid:1001000217901": 330,
+      "gas:candidate-vibid:1001000136013": 23,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466642&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 134,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 32,
-      "Сарычев Алексей Николаевич": 62,
-      "Серов Сергей Николаевич": 66,
-      "Торопкин Юрий Георгиевич": 30,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 134,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 32,
+      "gas:candidate-vibid:322300466761": 62,
+      "gas:candidate-vibid:1001000217901": 66,
+      "gas:candidate-vibid:1001000136013": 30,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 423,
-      "Колотов Владимир Павлович": 33,
-      "Лабазников Сергей Борисович": 43,
-      "Поддубная Анна Филипповна": 59,
-      "Сарычев Алексей Николаевич": 244,
-      "Серов Сергей Николаевич": 390,
-      "Торопкин Юрий Георгиевич": 91,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000225912": 423,
+      "gas:candidate-vibid:1001000113907": 33,
+      "gas:candidate-vibid:1001000193907": 43,
+      "gas:candidate-vibid:1001000195042": 59,
+      "gas:candidate-vibid:322300466761": 244,
+      "gas:candidate-vibid:1001000217901": 390,
+      "gas:candidate-vibid:1001000136013": 91,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 345,
-      "Колотов Владимир Павлович": 35,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 224,
-      "Серов Сергей Николаевич": 324,
-      "Торопкин Юрий Георгиевич": 58,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000225912": 345,
+      "gas:candidate-vibid:1001000113907": 35,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 224,
+      "gas:candidate-vibid:1001000217901": 324,
+      "gas:candidate-vibid:1001000136013": 58,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 369,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 36,
-      "Сарычев Алексей Николаевич": 216,
-      "Серов Сергей Николаевич": 310,
-      "Торопкин Юрий Георгиевич": 46,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000225912": 369,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 36,
+      "gas:candidate-vibid:322300466761": 216,
+      "gas:candidate-vibid:1001000217901": 310,
+      "gas:candidate-vibid:1001000136013": 46,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 298,
-      "Колотов Владимир Павлович": 25,
-      "Лабазников Сергей Борисович": 11,
-      "Поддубная Анна Филипповна": 29,
-      "Сарычев Алексей Николаевич": 211,
-      "Серов Сергей Николаевич": 275,
-      "Торопкин Юрий Георгиевич": 59,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000225912": 298,
+      "gas:candidate-vibid:1001000113907": 25,
+      "gas:candidate-vibid:1001000193907": 11,
+      "gas:candidate-vibid:1001000195042": 29,
+      "gas:candidate-vibid:322300466761": 211,
+      "gas:candidate-vibid:1001000217901": 275,
+      "gas:candidate-vibid:1001000136013": 59,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 390,
-      "Колотов Владимир Павлович": 41,
-      "Лабазников Сергей Борисович": 15,
-      "Поддубная Анна Филипповна": 45,
-      "Сарычев Алексей Николаевич": 195,
-      "Серов Сергей Николаевич": 263,
-      "Торопкин Юрий Георгиевич": 68,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000225912": 390,
+      "gas:candidate-vibid:1001000113907": 41,
+      "gas:candidate-vibid:1001000193907": 15,
+      "gas:candidate-vibid:1001000195042": 45,
+      "gas:candidate-vibid:322300466761": 195,
+      "gas:candidate-vibid:1001000217901": 263,
+      "gas:candidate-vibid:1001000136013": 68,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 375,
-      "Колотов Владимир Павлович": 41,
-      "Лабазников Сергей Борисович": 24,
-      "Поддубная Анна Филипповна": 37,
-      "Сарычев Алексей Николаевич": 183,
-      "Серов Сергей Николаевич": 174,
-      "Торопкин Юрий Георгиевич": 59,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225912": 375,
+      "gas:candidate-vibid:1001000113907": 41,
+      "gas:candidate-vibid:1001000193907": 24,
+      "gas:candidate-vibid:1001000195042": 37,
+      "gas:candidate-vibid:322300466761": 183,
+      "gas:candidate-vibid:1001000217901": 174,
+      "gas:candidate-vibid:1001000136013": 59,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 378,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 42,
-      "Сарычев Алексей Николаевич": 313,
-      "Серов Сергей Николаевич": 393,
-      "Торопкин Юрий Георгиевич": 43,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000225912": 378,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 42,
+      "gas:candidate-vibid:322300466761": 313,
+      "gas:candidate-vibid:1001000217901": 393,
+      "gas:candidate-vibid:1001000136013": 43,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 132,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 110,
-      "Серов Сергей Николаевич": 251,
-      "Торопкин Юрий Георгиевич": 15,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 132,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 110,
+      "gas:candidate-vibid:1001000217901": 251,
+      "gas:candidate-vibid:1001000136013": 15,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 73,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 90,
-      "Серов Сергей Николаевич": 132,
-      "Торопкин Юрий Георгиевич": 18,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225912": 73,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 90,
+      "gas:candidate-vibid:1001000217901": 132,
+      "gas:candidate-vibid:1001000136013": 18,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 158,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 11,
-      "Сарычев Алексей Николаевич": 71,
-      "Серов Сергей Николаевич": 73,
-      "Торопкин Юрий Георгиевич": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225912": 158,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 11,
+      "gas:candidate-vibid:322300466761": 71,
+      "gas:candidate-vibid:1001000217901": 73,
+      "gas:candidate-vibid:1001000136013": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 159,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 29,
-      "Сарычев Алексей Николаевич": 104,
-      "Серов Сергей Николаевич": 271,
-      "Торопкин Юрий Георгиевич": 29,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 159,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 29,
+      "gas:candidate-vibid:322300466761": 104,
+      "gas:candidate-vibid:1001000217901": 271,
+      "gas:candidate-vibid:1001000136013": 29,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 261,
-      "Колотов Владимир Павлович": 13,
-      "Лабазников Сергей Борисович": 14,
-      "Поддубная Анна Филипповна": 37,
-      "Сарычев Алексей Николаевич": 43,
-      "Серов Сергей Николаевич": 225,
-      "Торопкин Юрий Георгиевич": 31,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225912": 261,
+      "gas:candidate-vibid:1001000113907": 13,
+      "gas:candidate-vibid:1001000193907": 14,
+      "gas:candidate-vibid:1001000195042": 37,
+      "gas:candidate-vibid:322300466761": 43,
+      "gas:candidate-vibid:1001000217901": 225,
+      "gas:candidate-vibid:1001000136013": 31,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 44,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 15,
-      "Сарычев Алексей Николаевич": 38,
-      "Серов Сергей Николаевич": 59,
-      "Торопкин Юрий Георгиевич": 13,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225912": 44,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 15,
+      "gas:candidate-vibid:322300466761": 38,
+      "gas:candidate-vibid:1001000217901": 59,
+      "gas:candidate-vibid:1001000136013": 13,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466643&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_22_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 412,
-      "Колотов Владимир Павлович": 32,
-      "Лабазников Сергей Борисович": 12,
-      "Поддубная Анна Филипповна": 38,
-      "Сарычев Алексей Николаевич": 128,
-      "Серов Сергей Николаевич": 182,
-      "Торопкин Юрий Георгиевич": 24,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000225912": 412,
+      "gas:candidate-vibid:1001000113907": 32,
+      "gas:candidate-vibid:1001000193907": 12,
+      "gas:candidate-vibid:1001000195042": 38,
+      "gas:candidate-vibid:322300466761": 128,
+      "gas:candidate-vibid:1001000217901": 182,
+      "gas:candidate-vibid:1001000136013": 24,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466644&region=0&sub_region=0&type=429",

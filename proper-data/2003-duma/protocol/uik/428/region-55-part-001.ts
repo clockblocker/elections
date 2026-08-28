@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 80,
-      "Салохин Николай Павлович": 38,
-      "Смолин Олег Николаевич": 522,
-      "Толмачев Сергей Максимович": 30,
-      "Шейко Дмитрий Анатольевич": 37,
-      "Шушубаев Хабулда Жуспекович": 219,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136093": 80,
+      "gas:candidate-vibid:1001000195117": 38,
+      "gas:candidate-vibid:1001000121884": 522,
+      "gas:candidate-vibid:1001000217942": 30,
+      "gas:candidate-vibid:1001000113962": 37,
+      "gas:candidate-vibid:255200067141": 219,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 60,
-      "Салохин Николай Павлович": 29,
-      "Смолин Олег Николаевич": 505,
-      "Толмачев Сергей Максимович": 27,
-      "Шейко Дмитрий Анатольевич": 45,
-      "Шушубаев Хабулда Жуспекович": 97,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136093": 60,
+      "gas:candidate-vibid:1001000195117": 29,
+      "gas:candidate-vibid:1001000121884": 505,
+      "gas:candidate-vibid:1001000217942": 27,
+      "gas:candidate-vibid:1001000113962": 45,
+      "gas:candidate-vibid:255200067141": 97,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 63,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 427,
-      "Толмачев Сергей Максимович": 33,
-      "Шейко Дмитрий Анатольевич": 20,
-      "Шушубаев Хабулда Жуспекович": 157,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136093": 63,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 427,
+      "gas:candidate-vibid:1001000217942": 33,
+      "gas:candidate-vibid:1001000113962": 20,
+      "gas:candidate-vibid:255200067141": 157,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 44,
-      "Салохин Николай Павлович": 18,
-      "Смолин Олег Николаевич": 317,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 32,
-      "Шушубаев Хабулда Жуспекович": 217,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136093": 44,
+      "gas:candidate-vibid:1001000195117": 18,
+      "gas:candidate-vibid:1001000121884": 317,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 32,
+      "gas:candidate-vibid:255200067141": 217,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 48,
-      "Салохин Николай Павлович": 28,
-      "Смолин Олег Николаевич": 338,
-      "Толмачев Сергей Максимович": 24,
-      "Шейко Дмитрий Анатольевич": 40,
-      "Шушубаев Хабулда Жуспекович": 70,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136093": 48,
+      "gas:candidate-vibid:1001000195117": 28,
+      "gas:candidate-vibid:1001000121884": 338,
+      "gas:candidate-vibid:1001000217942": 24,
+      "gas:candidate-vibid:1001000113962": 40,
+      "gas:candidate-vibid:255200067141": 70,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 48,
-      "Салохин Николай Павлович": 42,
-      "Смолин Олег Николаевич": 422,
-      "Толмачев Сергей Максимович": 25,
-      "Шейко Дмитрий Анатольевич": 33,
-      "Шушубаев Хабулда Жуспекович": 253,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136093": 48,
+      "gas:candidate-vibid:1001000195117": 42,
+      "gas:candidate-vibid:1001000121884": 422,
+      "gas:candidate-vibid:1001000217942": 25,
+      "gas:candidate-vibid:1001000113962": 33,
+      "gas:candidate-vibid:255200067141": 253,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 32,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 292,
-      "Толмачев Сергей Максимович": 8,
-      "Шейко Дмитрий Анатольевич": 16,
-      "Шушубаев Хабулда Жуспекович": 148,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136093": 32,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 292,
+      "gas:candidate-vibid:1001000217942": 8,
+      "gas:candidate-vibid:1001000113962": 16,
+      "gas:candidate-vibid:255200067141": 148,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 53,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 387,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 24,
-      "Шушубаев Хабулда Жуспекович": 88,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136093": 53,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 387,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 24,
+      "gas:candidate-vibid:255200067141": 88,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 154,
-      "Салохин Николай Павлович": 66,
-      "Смолин Олег Николаевич": 433,
-      "Толмачев Сергей Максимович": 47,
-      "Шейко Дмитрий Анатольевич": 65,
-      "Шушубаев Хабулда Жуспекович": 300,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136093": 154,
+      "gas:candidate-vibid:1001000195117": 66,
+      "gas:candidate-vibid:1001000121884": 433,
+      "gas:candidate-vibid:1001000217942": 47,
+      "gas:candidate-vibid:1001000113962": 65,
+      "gas:candidate-vibid:255200067141": 300,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 72,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 428,
-      "Толмачев Сергей Максимович": 26,
-      "Шейко Дмитрий Анатольевич": 17,
-      "Шушубаев Хабулда Жуспекович": 154,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136093": 72,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 428,
+      "gas:candidate-vibid:1001000217942": 26,
+      "gas:candidate-vibid:1001000113962": 17,
+      "gas:candidate-vibid:255200067141": 154,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 69,
-      "Салохин Николай Павлович": 25,
-      "Смолин Олег Николаевич": 487,
-      "Толмачев Сергей Максимович": 26,
-      "Шейко Дмитрий Анатольевич": 48,
-      "Шушубаев Хабулда Жуспекович": 145,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136093": 69,
+      "gas:candidate-vibid:1001000195117": 25,
+      "gas:candidate-vibid:1001000121884": 487,
+      "gas:candidate-vibid:1001000217942": 26,
+      "gas:candidate-vibid:1001000113962": 48,
+      "gas:candidate-vibid:255200067141": 145,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 51,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 440,
-      "Толмачев Сергей Максимович": 20,
-      "Шейко Дмитрий Анатольевич": 26,
-      "Шушубаев Хабулда Жуспекович": 250,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136093": 51,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 440,
+      "gas:candidate-vibid:1001000217942": 20,
+      "gas:candidate-vibid:1001000113962": 26,
+      "gas:candidate-vibid:255200067141": 250,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 57,
-      "Салохин Николай Павлович": 17,
-      "Смолин Олег Николаевич": 341,
-      "Толмачев Сергей Максимович": 10,
-      "Шейко Дмитрий Анатольевич": 20,
-      "Шушубаев Хабулда Жуспекович": 225,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136093": 57,
+      "gas:candidate-vibid:1001000195117": 17,
+      "gas:candidate-vibid:1001000121884": 341,
+      "gas:candidate-vibid:1001000217942": 10,
+      "gas:candidate-vibid:1001000113962": 20,
+      "gas:candidate-vibid:255200067141": 225,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 41,
-      "Салохин Николай Павлович": 29,
-      "Смолин Олег Николаевич": 254,
-      "Толмачев Сергей Максимович": 9,
-      "Шейко Дмитрий Анатольевич": 18,
-      "Шушубаев Хабулда Жуспекович": 115,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000136093": 41,
+      "gas:candidate-vibid:1001000195117": 29,
+      "gas:candidate-vibid:1001000121884": 254,
+      "gas:candidate-vibid:1001000217942": 9,
+      "gas:candidate-vibid:1001000113962": 18,
+      "gas:candidate-vibid:255200067141": 115,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 51,
-      "Салохин Николай Павлович": 35,
-      "Смолин Олег Николаевич": 491,
-      "Толмачев Сергей Максимович": 26,
-      "Шейко Дмитрий Анатольевич": 47,
-      "Шушубаев Хабулда Жуспекович": 140,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136093": 51,
+      "gas:candidate-vibid:1001000195117": 35,
+      "gas:candidate-vibid:1001000121884": 491,
+      "gas:candidate-vibid:1001000217942": 26,
+      "gas:candidate-vibid:1001000113962": 47,
+      "gas:candidate-vibid:255200067141": 140,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 70,
-      "Салохин Николай Павлович": 33,
-      "Смолин Олег Николаевич": 407,
-      "Толмачев Сергей Максимович": 28,
-      "Шейко Дмитрий Анатольевич": 45,
-      "Шушубаев Хабулда Жуспекович": 134,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136093": 70,
+      "gas:candidate-vibid:1001000195117": 33,
+      "gas:candidate-vibid:1001000121884": 407,
+      "gas:candidate-vibid:1001000217942": 28,
+      "gas:candidate-vibid:1001000113962": 45,
+      "gas:candidate-vibid:255200067141": 134,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 57,
-      "Салохин Николай Павлович": 28,
-      "Смолин Олег Николаевич": 278,
-      "Толмачев Сергей Максимович": 22,
-      "Шейко Дмитрий Анатольевич": 37,
-      "Шушубаев Хабулда Жуспекович": 157,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136093": 57,
+      "gas:candidate-vibid:1001000195117": 28,
+      "gas:candidate-vibid:1001000121884": 278,
+      "gas:candidate-vibid:1001000217942": 22,
+      "gas:candidate-vibid:1001000113962": 37,
+      "gas:candidate-vibid:255200067141": 157,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 77,
-      "Салохин Николай Павлович": 38,
-      "Смолин Олег Николаевич": 420,
-      "Толмачев Сергей Максимович": 27,
-      "Шейко Дмитрий Анатольевич": 41,
-      "Шушубаев Хабулда Жуспекович": 154,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136093": 77,
+      "gas:candidate-vibid:1001000195117": 38,
+      "gas:candidate-vibid:1001000121884": 420,
+      "gas:candidate-vibid:1001000217942": 27,
+      "gas:candidate-vibid:1001000113962": 41,
+      "gas:candidate-vibid:255200067141": 154,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 78,
-      "Салохин Николай Павлович": 23,
-      "Смолин Олег Николаевич": 215,
-      "Толмачев Сергей Максимович": 19,
-      "Шейко Дмитрий Анатольевич": 29,
-      "Шушубаев Хабулда Жуспекович": 208,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136093": 78,
+      "gas:candidate-vibid:1001000195117": 23,
+      "gas:candidate-vibid:1001000121884": 215,
+      "gas:candidate-vibid:1001000217942": 19,
+      "gas:candidate-vibid:1001000113962": 29,
+      "gas:candidate-vibid:255200067141": 208,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 44,
-      "Салохин Николай Павлович": 22,
-      "Смолин Олег Николаевич": 374,
-      "Толмачев Сергей Максимович": 16,
-      "Шейко Дмитрий Анатольевич": 26,
-      "Шушубаев Хабулда Жуспекович": 77,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136093": 44,
+      "gas:candidate-vibid:1001000195117": 22,
+      "gas:candidate-vibid:1001000121884": 374,
+      "gas:candidate-vibid:1001000217942": 16,
+      "gas:candidate-vibid:1001000113962": 26,
+      "gas:candidate-vibid:255200067141": 77,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 65,
-      "Салохин Николай Павлович": 40,
-      "Смолин Олег Николаевич": 483,
-      "Толмачев Сергей Максимович": 28,
-      "Шейко Дмитрий Анатольевич": 43,
-      "Шушубаев Хабулда Жуспекович": 124,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136093": 65,
+      "gas:candidate-vibid:1001000195117": 40,
+      "gas:candidate-vibid:1001000121884": 483,
+      "gas:candidate-vibid:1001000217942": 28,
+      "gas:candidate-vibid:1001000113962": 43,
+      "gas:candidate-vibid:255200067141": 124,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 70,
-      "Салохин Николай Павлович": 20,
-      "Смолин Олег Николаевич": 454,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 31,
-      "Шушубаев Хабулда Жуспекович": 95,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136093": 70,
+      "gas:candidate-vibid:1001000195117": 20,
+      "gas:candidate-vibid:1001000121884": 454,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 31,
+      "gas:candidate-vibid:255200067141": 95,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 43,
-      "Салохин Николай Павлович": 36,
-      "Смолин Олег Николаевич": 612,
-      "Толмачев Сергей Максимович": 23,
-      "Шейко Дмитрий Анатольевич": 58,
-      "Шушубаев Хабулда Жуспекович": 102,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136093": 43,
+      "gas:candidate-vibid:1001000195117": 36,
+      "gas:candidate-vibid:1001000121884": 612,
+      "gas:candidate-vibid:1001000217942": 23,
+      "gas:candidate-vibid:1001000113962": 58,
+      "gas:candidate-vibid:255200067141": 102,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 73,
-      "Салохин Николай Павлович": 34,
-      "Смолин Олег Николаевич": 565,
-      "Толмачев Сергей Максимович": 39,
-      "Шейко Дмитрий Анатольевич": 68,
-      "Шушубаев Хабулда Жуспекович": 119,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136093": 73,
+      "gas:candidate-vibid:1001000195117": 34,
+      "gas:candidate-vibid:1001000121884": 565,
+      "gas:candidate-vibid:1001000217942": 39,
+      "gas:candidate-vibid:1001000113962": 68,
+      "gas:candidate-vibid:255200067141": 119,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 33,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 339,
-      "Толмачев Сергей Максимович": 23,
-      "Шейко Дмитрий Анатольевич": 33,
-      "Шушубаев Хабулда Жуспекович": 255,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136093": 33,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 339,
+      "gas:candidate-vibid:1001000217942": 23,
+      "gas:candidate-vibid:1001000113962": 33,
+      "gas:candidate-vibid:255200067141": 255,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 45,
-      "Салохин Николай Павлович": 23,
-      "Смолин Олег Николаевич": 274,
-      "Толмачев Сергей Максимович": 23,
-      "Шейко Дмитрий Анатольевич": 29,
-      "Шушубаев Хабулда Жуспекович": 99,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136093": 45,
+      "gas:candidate-vibid:1001000195117": 23,
+      "gas:candidate-vibid:1001000121884": 274,
+      "gas:candidate-vibid:1001000217942": 23,
+      "gas:candidate-vibid:1001000113962": 29,
+      "gas:candidate-vibid:255200067141": 99,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 67,
-      "Салохин Николай Павлович": 45,
-      "Смолин Олег Николаевич": 412,
-      "Толмачев Сергей Максимович": 48,
-      "Шейко Дмитрий Анатольевич": 82,
-      "Шушубаев Хабулда Жуспекович": 141,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136093": 67,
+      "gas:candidate-vibid:1001000195117": 45,
+      "gas:candidate-vibid:1001000121884": 412,
+      "gas:candidate-vibid:1001000217942": 48,
+      "gas:candidate-vibid:1001000113962": 82,
+      "gas:candidate-vibid:255200067141": 141,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 74,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 546,
-      "Толмачев Сергей Максимович": 34,
-      "Шейко Дмитрий Анатольевич": 35,
-      "Шушубаев Хабулда Жуспекович": 120,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136093": 74,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 546,
+      "gas:candidate-vibid:1001000217942": 34,
+      "gas:candidate-vibid:1001000113962": 35,
+      "gas:candidate-vibid:255200067141": 120,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 114,
-      "Салохин Николай Павлович": 22,
-      "Смолин Олег Николаевич": 391,
-      "Толмачев Сергей Максимович": 31,
-      "Шейко Дмитрий Анатольевич": 43,
-      "Шушубаев Хабулда Жуспекович": 152,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136093": 114,
+      "gas:candidate-vibid:1001000195117": 22,
+      "gas:candidate-vibid:1001000121884": 391,
+      "gas:candidate-vibid:1001000217942": 31,
+      "gas:candidate-vibid:1001000113962": 43,
+      "gas:candidate-vibid:255200067141": 152,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 112,
-      "Салохин Николай Павлович": 44,
-      "Смолин Олег Николаевич": 479,
-      "Толмачев Сергей Максимович": 27,
-      "Шейко Дмитрий Анатольевич": 59,
-      "Шушубаев Хабулда Жуспекович": 142,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136093": 112,
+      "gas:candidate-vibid:1001000195117": 44,
+      "gas:candidate-vibid:1001000121884": 479,
+      "gas:candidate-vibid:1001000217942": 27,
+      "gas:candidate-vibid:1001000113962": 59,
+      "gas:candidate-vibid:255200067141": 142,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 92,
-      "Салохин Николай Павлович": 45,
-      "Смолин Олег Николаевич": 608,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 64,
-      "Шушубаев Хабулда Жуспекович": 194,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000136093": 92,
+      "gas:candidate-vibid:1001000195117": 45,
+      "gas:candidate-vibid:1001000121884": 608,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 64,
+      "gas:candidate-vibid:255200067141": 194,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 95,
-      "Салохин Николай Павлович": 43,
-      "Смолин Олег Николаевич": 579,
-      "Толмачев Сергей Максимович": 39,
-      "Шейко Дмитрий Анатольевич": 54,
-      "Шушубаев Хабулда Жуспекович": 194,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136093": 95,
+      "gas:candidate-vibid:1001000195117": 43,
+      "gas:candidate-vibid:1001000121884": 579,
+      "gas:candidate-vibid:1001000217942": 39,
+      "gas:candidate-vibid:1001000113962": 54,
+      "gas:candidate-vibid:255200067141": 194,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 124,
-      "Салохин Николай Павлович": 42,
-      "Смолин Олег Николаевич": 640,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 71,
-      "Шушубаев Хабулда Жуспекович": 176,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000136093": 124,
+      "gas:candidate-vibid:1001000195117": 42,
+      "gas:candidate-vibid:1001000121884": 640,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 71,
+      "gas:candidate-vibid:255200067141": 176,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 64,
-      "Салохин Николай Павлович": 37,
-      "Смолин Олег Николаевич": 360,
-      "Толмачев Сергей Максимович": 39,
-      "Шейко Дмитрий Анатольевич": 59,
-      "Шушубаев Хабулда Жуспекович": 119,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136093": 64,
+      "gas:candidate-vibid:1001000195117": 37,
+      "gas:candidate-vibid:1001000121884": 360,
+      "gas:candidate-vibid:1001000217942": 39,
+      "gas:candidate-vibid:1001000113962": 59,
+      "gas:candidate-vibid:255200067141": 119,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 80,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 546,
-      "Толмачев Сергей Максимович": 29,
-      "Шейко Дмитрий Анатольевич": 76,
-      "Шушубаев Хабулда Жуспекович": 145,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136093": 80,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 546,
+      "gas:candidate-vibid:1001000217942": 29,
+      "gas:candidate-vibid:1001000113962": 76,
+      "gas:candidate-vibid:255200067141": 145,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 97,
-      "Салохин Николай Павлович": 61,
-      "Смолин Олег Николаевич": 621,
-      "Толмачев Сергей Максимович": 42,
-      "Шейко Дмитрий Анатольевич": 96,
-      "Шушубаев Хабулда Жуспекович": 180,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000136093": 97,
+      "gas:candidate-vibid:1001000195117": 61,
+      "gas:candidate-vibid:1001000121884": 621,
+      "gas:candidate-vibid:1001000217942": 42,
+      "gas:candidate-vibid:1001000113962": 96,
+      "gas:candidate-vibid:255200067141": 180,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 73,
-      "Салохин Николай Павлович": 20,
-      "Смолин Олег Николаевич": 604,
-      "Толмачев Сергей Максимович": 41,
-      "Шейко Дмитрий Анатольевич": 64,
-      "Шушубаев Хабулда Жуспекович": 160,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000136093": 73,
+      "gas:candidate-vibid:1001000195117": 20,
+      "gas:candidate-vibid:1001000121884": 604,
+      "gas:candidate-vibid:1001000217942": 41,
+      "gas:candidate-vibid:1001000113962": 64,
+      "gas:candidate-vibid:255200067141": 160,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 61,
-      "Салохин Николай Павлович": 43,
-      "Смолин Олег Николаевич": 697,
-      "Толмачев Сергей Максимович": 31,
-      "Шейко Дмитрий Анатольевич": 49,
-      "Шушубаев Хабулда Жуспекович": 184,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136093": 61,
+      "gas:candidate-vibid:1001000195117": 43,
+      "gas:candidate-vibid:1001000121884": 697,
+      "gas:candidate-vibid:1001000217942": 31,
+      "gas:candidate-vibid:1001000113962": 49,
+      "gas:candidate-vibid:255200067141": 184,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 64,
-      "Салохин Николай Павлович": 43,
-      "Смолин Олег Николаевич": 635,
-      "Толмачев Сергей Максимович": 29,
-      "Шейко Дмитрий Анатольевич": 64,
-      "Шушубаев Хабулда Жуспекович": 164,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136093": 64,
+      "gas:candidate-vibid:1001000195117": 43,
+      "gas:candidate-vibid:1001000121884": 635,
+      "gas:candidate-vibid:1001000217942": 29,
+      "gas:candidate-vibid:1001000113962": 64,
+      "gas:candidate-vibid:255200067141": 164,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 72,
-      "Салохин Николай Павлович": 41,
-      "Смолин Олег Николаевич": 689,
-      "Толмачев Сергей Максимович": 24,
-      "Шейко Дмитрий Анатольевич": 72,
-      "Шушубаев Хабулда Жуспекович": 114,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136093": 72,
+      "gas:candidate-vibid:1001000195117": 41,
+      "gas:candidate-vibid:1001000121884": 689,
+      "gas:candidate-vibid:1001000217942": 24,
+      "gas:candidate-vibid:1001000113962": 72,
+      "gas:candidate-vibid:255200067141": 114,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 48,
-      "Салохин Николай Павлович": 40,
-      "Смолин Олег Николаевич": 609,
-      "Толмачев Сергей Максимович": 29,
-      "Шейко Дмитрий Анатольевич": 77,
-      "Шушубаев Хабулда Жуспекович": 147,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136093": 48,
+      "gas:candidate-vibid:1001000195117": 40,
+      "gas:candidate-vibid:1001000121884": 609,
+      "gas:candidate-vibid:1001000217942": 29,
+      "gas:candidate-vibid:1001000113962": 77,
+      "gas:candidate-vibid:255200067141": 147,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 61,
-      "Салохин Николай Павлович": 29,
-      "Смолин Олег Николаевич": 585,
-      "Толмачев Сергей Максимович": 33,
-      "Шейко Дмитрий Анатольевич": 64,
-      "Шушубаев Хабулда Жуспекович": 129,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136093": 61,
+      "gas:candidate-vibid:1001000195117": 29,
+      "gas:candidate-vibid:1001000121884": 585,
+      "gas:candidate-vibid:1001000217942": 33,
+      "gas:candidate-vibid:1001000113962": 64,
+      "gas:candidate-vibid:255200067141": 129,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 77,
-      "Салохин Николай Павлович": 37,
-      "Смолин Олег Николаевич": 487,
-      "Толмачев Сергей Максимович": 26,
-      "Шейко Дмитрий Анатольевич": 57,
-      "Шушубаев Хабулда Жуспекович": 122,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000136093": 77,
+      "gas:candidate-vibid:1001000195117": 37,
+      "gas:candidate-vibid:1001000121884": 487,
+      "gas:candidate-vibid:1001000217942": 26,
+      "gas:candidate-vibid:1001000113962": 57,
+      "gas:candidate-vibid:255200067141": 122,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 78,
-      "Салохин Николай Павлович": 28,
-      "Смолин Олег Николаевич": 443,
-      "Толмачев Сергей Максимович": 36,
-      "Шейко Дмитрий Анатольевич": 52,
-      "Шушубаев Хабулда Жуспекович": 105,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136093": 78,
+      "gas:candidate-vibid:1001000195117": 28,
+      "gas:candidate-vibid:1001000121884": 443,
+      "gas:candidate-vibid:1001000217942": 36,
+      "gas:candidate-vibid:1001000113962": 52,
+      "gas:candidate-vibid:255200067141": 105,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 64,
-      "Салохин Николай Павлович": 38,
-      "Смолин Олег Николаевич": 466,
-      "Толмачев Сергей Максимович": 30,
-      "Шейко Дмитрий Анатольевич": 64,
-      "Шушубаев Хабулда Жуспекович": 157,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136093": 64,
+      "gas:candidate-vibid:1001000195117": 38,
+      "gas:candidate-vibid:1001000121884": 466,
+      "gas:candidate-vibid:1001000217942": 30,
+      "gas:candidate-vibid:1001000113962": 64,
+      "gas:candidate-vibid:255200067141": 157,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 62,
-      "Салохин Николай Павлович": 35,
-      "Смолин Олег Николаевич": 577,
-      "Толмачев Сергей Максимович": 40,
-      "Шейко Дмитрий Анатольевич": 72,
-      "Шушубаев Хабулда Жуспекович": 155,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136093": 62,
+      "gas:candidate-vibid:1001000195117": 35,
+      "gas:candidate-vibid:1001000121884": 577,
+      "gas:candidate-vibid:1001000217942": 40,
+      "gas:candidate-vibid:1001000113962": 72,
+      "gas:candidate-vibid:255200067141": 155,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 82,
-      "Салохин Николай Павлович": 34,
-      "Смолин Олег Николаевич": 491,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 53,
-      "Шушубаев Хабулда Жуспекович": 125,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136093": 82,
+      "gas:candidate-vibid:1001000195117": 34,
+      "gas:candidate-vibid:1001000121884": 491,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 53,
+      "gas:candidate-vibid:255200067141": 125,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 88,
-      "Салохин Николай Павлович": 41,
-      "Смолин Олег Николаевич": 495,
-      "Толмачев Сергей Максимович": 30,
-      "Шейко Дмитрий Анатольевич": 67,
-      "Шушубаев Хабулда Жуспекович": 195,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136093": 88,
+      "gas:candidate-vibid:1001000195117": 41,
+      "gas:candidate-vibid:1001000121884": 495,
+      "gas:candidate-vibid:1001000217942": 30,
+      "gas:candidate-vibid:1001000113962": 67,
+      "gas:candidate-vibid:255200067141": 195,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 57,
-      "Салохин Николай Павлович": 38,
-      "Смолин Олег Николаевич": 535,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 62,
-      "Шушубаев Хабулда Жуспекович": 88,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136093": 57,
+      "gas:candidate-vibid:1001000195117": 38,
+      "gas:candidate-vibid:1001000121884": 535,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 62,
+      "gas:candidate-vibid:255200067141": 88,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 65,
-      "Салохин Николай Павлович": 26,
-      "Смолин Олег Николаевич": 482,
-      "Толмачев Сергей Максимович": 24,
-      "Шейко Дмитрий Анатольевич": 52,
-      "Шушубаев Хабулда Жуспекович": 79,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136093": 65,
+      "gas:candidate-vibid:1001000195117": 26,
+      "gas:candidate-vibid:1001000121884": 482,
+      "gas:candidate-vibid:1001000217942": 24,
+      "gas:candidate-vibid:1001000113962": 52,
+      "gas:candidate-vibid:255200067141": 79,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 68,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 574,
-      "Толмачев Сергей Максимович": 26,
-      "Шейко Дмитрий Анатольевич": 49,
-      "Шушубаев Хабулда Жуспекович": 122,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136093": 68,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 574,
+      "gas:candidate-vibid:1001000217942": 26,
+      "gas:candidate-vibid:1001000113962": 49,
+      "gas:candidate-vibid:255200067141": 122,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 70,
-      "Салохин Николай Павлович": 28,
-      "Смолин Олег Николаевич": 602,
-      "Толмачев Сергей Максимович": 37,
-      "Шейко Дмитрий Анатольевич": 66,
-      "Шушубаев Хабулда Жуспекович": 151,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136093": 70,
+      "gas:candidate-vibid:1001000195117": 28,
+      "gas:candidate-vibid:1001000121884": 602,
+      "gas:candidate-vibid:1001000217942": 37,
+      "gas:candidate-vibid:1001000113962": 66,
+      "gas:candidate-vibid:255200067141": 151,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 47,
-      "Салохин Николай Павлович": 22,
-      "Смолин Олег Николаевич": 423,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 36,
-      "Шушубаев Хабулда Жуспекович": 113,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136093": 47,
+      "gas:candidate-vibid:1001000195117": 22,
+      "gas:candidate-vibid:1001000121884": 423,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 36,
+      "gas:candidate-vibid:255200067141": 113,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 107,
-      "Салохин Николай Павлович": 39,
-      "Смолин Олег Николаевич": 640,
-      "Толмачев Сергей Максимович": 44,
-      "Шейко Дмитрий Анатольевич": 80,
-      "Шушубаев Хабулда Жуспекович": 197,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136093": 107,
+      "gas:candidate-vibid:1001000195117": 39,
+      "gas:candidate-vibid:1001000121884": 640,
+      "gas:candidate-vibid:1001000217942": 44,
+      "gas:candidate-vibid:1001000113962": 80,
+      "gas:candidate-vibid:255200067141": 197,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 76,
-      "Салохин Николай Павлович": 34,
-      "Смолин Олег Николаевич": 803,
-      "Толмачев Сергей Максимович": 55,
-      "Шейко Дмитрий Анатольевич": 70,
-      "Шушубаев Хабулда Жуспекович": 192,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136093": 76,
+      "gas:candidate-vibid:1001000195117": 34,
+      "gas:candidate-vibid:1001000121884": 803,
+      "gas:candidate-vibid:1001000217942": 55,
+      "gas:candidate-vibid:1001000113962": 70,
+      "gas:candidate-vibid:255200067141": 192,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 75,
-      "Салохин Николай Павлович": 31,
-      "Смолин Олег Николаевич": 735,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 88,
-      "Шушубаев Хабулда Жуспекович": 161,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136093": 75,
+      "gas:candidate-vibid:1001000195117": 31,
+      "gas:candidate-vibid:1001000121884": 735,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 88,
+      "gas:candidate-vibid:255200067141": 161,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 88,
-      "Салохин Николай Павлович": 43,
-      "Смолин Олег Николаевич": 746,
-      "Толмачев Сергей Максимович": 60,
-      "Шейко Дмитрий Анатольевич": 80,
-      "Шушубаев Хабулда Жуспекович": 183,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136093": 88,
+      "gas:candidate-vibid:1001000195117": 43,
+      "gas:candidate-vibid:1001000121884": 746,
+      "gas:candidate-vibid:1001000217942": 60,
+      "gas:candidate-vibid:1001000113962": 80,
+      "gas:candidate-vibid:255200067141": 183,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 113,
-      "Салохин Николай Павлович": 48,
-      "Смолин Олег Николаевич": 647,
-      "Толмачев Сергей Максимович": 70,
-      "Шейко Дмитрий Анатольевич": 110,
-      "Шушубаев Хабулда Жуспекович": 260,
-      "Против всех": 442
+      "gas:candidate-vibid:1001000136093": 113,
+      "gas:candidate-vibid:1001000195117": 48,
+      "gas:candidate-vibid:1001000121884": 647,
+      "gas:candidate-vibid:1001000217942": 70,
+      "gas:candidate-vibid:1001000113962": 110,
+      "gas:candidate-vibid:255200067141": 260,
+      "special:against-all": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 67,
-      "Салохин Николай Павлович": 40,
-      "Смолин Олег Николаевич": 760,
-      "Толмачев Сергей Максимович": 45,
-      "Шейко Дмитрий Анатольевич": 50,
-      "Шушубаев Хабулда Жуспекович": 170,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136093": 67,
+      "gas:candidate-vibid:1001000195117": 40,
+      "gas:candidate-vibid:1001000121884": 760,
+      "gas:candidate-vibid:1001000217942": 45,
+      "gas:candidate-vibid:1001000113962": 50,
+      "gas:candidate-vibid:255200067141": 170,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 94,
-      "Салохин Николай Павлович": 44,
-      "Смолин Олег Николаевич": 785,
-      "Толмачев Сергей Максимович": 35,
-      "Шейко Дмитрий Анатольевич": 107,
-      "Шушубаев Хабулда Жуспекович": 168,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000136093": 94,
+      "gas:candidate-vibid:1001000195117": 44,
+      "gas:candidate-vibid:1001000121884": 785,
+      "gas:candidate-vibid:1001000217942": 35,
+      "gas:candidate-vibid:1001000113962": 107,
+      "gas:candidate-vibid:255200067141": 168,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 94,
-      "Салохин Николай Павлович": 50,
-      "Смолин Олег Николаевич": 801,
-      "Толмачев Сергей Максимович": 35,
-      "Шейко Дмитрий Анатольевич": 111,
-      "Шушубаев Хабулда Жуспекович": 208,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000136093": 94,
+      "gas:candidate-vibid:1001000195117": 50,
+      "gas:candidate-vibid:1001000121884": 801,
+      "gas:candidate-vibid:1001000217942": 35,
+      "gas:candidate-vibid:1001000113962": 111,
+      "gas:candidate-vibid:255200067141": 208,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 71,
-      "Салохин Николай Павлович": 31,
-      "Смолин Олег Николаевич": 518,
-      "Толмачев Сергей Максимович": 35,
-      "Шейко Дмитрий Анатольевич": 60,
-      "Шушубаев Хабулда Жуспекович": 189,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136093": 71,
+      "gas:candidate-vibid:1001000195117": 31,
+      "gas:candidate-vibid:1001000121884": 518,
+      "gas:candidate-vibid:1001000217942": 35,
+      "gas:candidate-vibid:1001000113962": 60,
+      "gas:candidate-vibid:255200067141": 189,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 50,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 431,
-      "Толмачев Сергей Максимович": 36,
-      "Шейко Дмитрий Анатольевич": 51,
-      "Шушубаев Хабулда Жуспекович": 106,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136093": 50,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 431,
+      "gas:candidate-vibid:1001000217942": 36,
+      "gas:candidate-vibid:1001000113962": 51,
+      "gas:candidate-vibid:255200067141": 106,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 30,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 330,
-      "Толмачев Сергей Максимович": 24,
-      "Шейко Дмитрий Анатольевич": 50,
-      "Шушубаев Хабулда Жуспекович": 113,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136093": 30,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 330,
+      "gas:candidate-vibid:1001000217942": 24,
+      "gas:candidate-vibid:1001000113962": 50,
+      "gas:candidate-vibid:255200067141": 113,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 55,
-      "Салохин Николай Павлович": 44,
-      "Смолин Олег Николаевич": 445,
-      "Толмачев Сергей Максимович": 33,
-      "Шейко Дмитрий Анатольевич": 48,
-      "Шушубаев Хабулда Жуспекович": 126,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136093": 55,
+      "gas:candidate-vibid:1001000195117": 44,
+      "gas:candidate-vibid:1001000121884": 445,
+      "gas:candidate-vibid:1001000217942": 33,
+      "gas:candidate-vibid:1001000113962": 48,
+      "gas:candidate-vibid:255200067141": 126,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 69,
-      "Салохин Николай Павлович": 55,
-      "Смолин Олег Николаевич": 636,
-      "Толмачев Сергей Максимович": 36,
-      "Шейко Дмитрий Анатольевич": 82,
-      "Шушубаев Хабулда Жуспекович": 170,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136093": 69,
+      "gas:candidate-vibid:1001000195117": 55,
+      "gas:candidate-vibid:1001000121884": 636,
+      "gas:candidate-vibid:1001000217942": 36,
+      "gas:candidate-vibid:1001000113962": 82,
+      "gas:candidate-vibid:255200067141": 170,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 55,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 624,
-      "Толмачев Сергей Максимович": 37,
-      "Шейко Дмитрий Анатольевич": 76,
-      "Шушубаев Хабулда Жуспекович": 206,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136093": 55,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 624,
+      "gas:candidate-vibid:1001000217942": 37,
+      "gas:candidate-vibid:1001000113962": 76,
+      "gas:candidate-vibid:255200067141": 206,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 88,
-      "Салохин Николай Павлович": 49,
-      "Смолин Олег Николаевич": 620,
-      "Толмачев Сергей Максимович": 36,
-      "Шейко Дмитрий Анатольевич": 92,
-      "Шушубаев Хабулда Жуспекович": 175,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136093": 88,
+      "gas:candidate-vibid:1001000195117": 49,
+      "gas:candidate-vibid:1001000121884": 620,
+      "gas:candidate-vibid:1001000217942": 36,
+      "gas:candidate-vibid:1001000113962": 92,
+      "gas:candidate-vibid:255200067141": 175,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 80,
-      "Салохин Николай Павлович": 43,
-      "Смолин Олег Николаевич": 692,
-      "Толмачев Сергей Максимович": 30,
-      "Шейко Дмитрий Анатольевич": 65,
-      "Шушубаев Хабулда Жуспекович": 145,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136093": 80,
+      "gas:candidate-vibid:1001000195117": 43,
+      "gas:candidate-vibid:1001000121884": 692,
+      "gas:candidate-vibid:1001000217942": 30,
+      "gas:candidate-vibid:1001000113962": 65,
+      "gas:candidate-vibid:255200067141": 145,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 83,
-      "Салохин Николай Павлович": 29,
-      "Смолин Олег Николаевич": 602,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 95,
-      "Шушубаев Хабулда Жуспекович": 146,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136093": 83,
+      "gas:candidate-vibid:1001000195117": 29,
+      "gas:candidate-vibid:1001000121884": 602,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 95,
+      "gas:candidate-vibid:255200067141": 146,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 76,
-      "Салохин Николай Павлович": 37,
-      "Смолин Олег Николаевич": 555,
-      "Толмачев Сергей Максимович": 33,
-      "Шейко Дмитрий Анатольевич": 73,
-      "Шушубаев Хабулда Жуспекович": 112,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136093": 76,
+      "gas:candidate-vibid:1001000195117": 37,
+      "gas:candidate-vibid:1001000121884": 555,
+      "gas:candidate-vibid:1001000217942": 33,
+      "gas:candidate-vibid:1001000113962": 73,
+      "gas:candidate-vibid:255200067141": 112,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 61,
-      "Салохин Николай Павлович": 33,
-      "Смолин Олег Николаевич": 595,
-      "Толмачев Сергей Максимович": 22,
-      "Шейко Дмитрий Анатольевич": 75,
-      "Шушубаев Хабулда Жуспекович": 153,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000136093": 61,
+      "gas:candidate-vibid:1001000195117": 33,
+      "gas:candidate-vibid:1001000121884": 595,
+      "gas:candidate-vibid:1001000217942": 22,
+      "gas:candidate-vibid:1001000113962": 75,
+      "gas:candidate-vibid:255200067141": 153,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 84,
-      "Салохин Николай Павлович": 42,
-      "Смолин Олег Николаевич": 495,
-      "Толмачев Сергей Максимович": 34,
-      "Шейко Дмитрий Анатольевич": 82,
-      "Шушубаев Хабулда Жуспекович": 117,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136093": 84,
+      "gas:candidate-vibid:1001000195117": 42,
+      "gas:candidate-vibid:1001000121884": 495,
+      "gas:candidate-vibid:1001000217942": 34,
+      "gas:candidate-vibid:1001000113962": 82,
+      "gas:candidate-vibid:255200067141": 117,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 74,
-      "Салохин Николай Павлович": 37,
-      "Смолин Олег Николаевич": 567,
-      "Толмачев Сергей Максимович": 19,
-      "Шейко Дмитрий Анатольевич": 86,
-      "Шушубаев Хабулда Жуспекович": 171,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136093": 74,
+      "gas:candidate-vibid:1001000195117": 37,
+      "gas:candidate-vibid:1001000121884": 567,
+      "gas:candidate-vibid:1001000217942": 19,
+      "gas:candidate-vibid:1001000113962": 86,
+      "gas:candidate-vibid:255200067141": 171,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 74,
-      "Салохин Николай Павлович": 53,
-      "Смолин Олег Николаевич": 430,
-      "Толмачев Сергей Максимович": 31,
-      "Шейко Дмитрий Анатольевич": 88,
-      "Шушубаев Хабулда Жуспекович": 138,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000136093": 74,
+      "gas:candidate-vibid:1001000195117": 53,
+      "gas:candidate-vibid:1001000121884": 430,
+      "gas:candidate-vibid:1001000217942": 31,
+      "gas:candidate-vibid:1001000113962": 88,
+      "gas:candidate-vibid:255200067141": 138,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 88,
-      "Салохин Николай Павлович": 48,
-      "Смолин Олег Николаевич": 542,
-      "Толмачев Сергей Максимович": 49,
-      "Шейко Дмитрий Анатольевич": 131,
-      "Шушубаев Хабулда Жуспекович": 195,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000136093": 88,
+      "gas:candidate-vibid:1001000195117": 48,
+      "gas:candidate-vibid:1001000121884": 542,
+      "gas:candidate-vibid:1001000217942": 49,
+      "gas:candidate-vibid:1001000113962": 131,
+      "gas:candidate-vibid:255200067141": 195,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 63,
-      "Салохин Николай Павлович": 33,
-      "Смолин Олег Николаевич": 429,
-      "Толмачев Сергей Максимович": 35,
-      "Шейко Дмитрий Анатольевич": 76,
-      "Шушубаев Хабулда Жуспекович": 161,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000136093": 63,
+      "gas:candidate-vibid:1001000195117": 33,
+      "gas:candidate-vibid:1001000121884": 429,
+      "gas:candidate-vibid:1001000217942": 35,
+      "gas:candidate-vibid:1001000113962": 76,
+      "gas:candidate-vibid:255200067141": 161,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 92,
-      "Салохин Николай Павлович": 56,
-      "Смолин Олег Николаевич": 633,
-      "Толмачев Сергей Максимович": 47,
-      "Шейко Дмитрий Анатольевич": 74,
-      "Шушубаев Хабулда Жуспекович": 130,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136093": 92,
+      "gas:candidate-vibid:1001000195117": 56,
+      "gas:candidate-vibid:1001000121884": 633,
+      "gas:candidate-vibid:1001000217942": 47,
+      "gas:candidate-vibid:1001000113962": 74,
+      "gas:candidate-vibid:255200067141": 130,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 68,
-      "Салохин Николай Павлович": 39,
-      "Смолин Олег Николаевич": 556,
-      "Толмачев Сергей Максимович": 56,
-      "Шейко Дмитрий Анатольевич": 88,
-      "Шушубаев Хабулда Жуспекович": 165,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136093": 68,
+      "gas:candidate-vibid:1001000195117": 39,
+      "gas:candidate-vibid:1001000121884": 556,
+      "gas:candidate-vibid:1001000217942": 56,
+      "gas:candidate-vibid:1001000113962": 88,
+      "gas:candidate-vibid:255200067141": 165,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 78,
-      "Салохин Николай Павлович": 47,
-      "Смолин Олег Николаевич": 604,
-      "Толмачев Сергей Максимович": 42,
-      "Шейко Дмитрий Анатольевич": 100,
-      "Шушубаев Хабулда Жуспекович": 145,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000136093": 78,
+      "gas:candidate-vibid:1001000195117": 47,
+      "gas:candidate-vibid:1001000121884": 604,
+      "gas:candidate-vibid:1001000217942": 42,
+      "gas:candidate-vibid:1001000113962": 100,
+      "gas:candidate-vibid:255200067141": 145,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 83,
-      "Салохин Николай Павлович": 73,
-      "Смолин Олег Николаевич": 667,
-      "Толмачев Сергей Максимович": 35,
-      "Шейко Дмитрий Анатольевич": 80,
-      "Шушубаев Хабулда Жуспекович": 175,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136093": 83,
+      "gas:candidate-vibid:1001000195117": 73,
+      "gas:candidate-vibid:1001000121884": 667,
+      "gas:candidate-vibid:1001000217942": 35,
+      "gas:candidate-vibid:1001000113962": 80,
+      "gas:candidate-vibid:255200067141": 175,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 86,
-      "Салохин Николай Павлович": 39,
-      "Смолин Олег Николаевич": 556,
-      "Толмачев Сергей Максимович": 26,
-      "Шейко Дмитрий Анатольевич": 92,
-      "Шушубаев Хабулда Жуспекович": 197,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000136093": 86,
+      "gas:candidate-vibid:1001000195117": 39,
+      "gas:candidate-vibid:1001000121884": 556,
+      "gas:candidate-vibid:1001000217942": 26,
+      "gas:candidate-vibid:1001000113962": 92,
+      "gas:candidate-vibid:255200067141": 197,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 91,
-      "Салохин Николай Павлович": 55,
-      "Смолин Олег Николаевич": 656,
-      "Толмачев Сергей Максимович": 41,
-      "Шейко Дмитрий Анатольевич": 99,
-      "Шушубаев Хабулда Жуспекович": 136,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136093": 91,
+      "gas:candidate-vibid:1001000195117": 55,
+      "gas:candidate-vibid:1001000121884": 656,
+      "gas:candidate-vibid:1001000217942": 41,
+      "gas:candidate-vibid:1001000113962": 99,
+      "gas:candidate-vibid:255200067141": 136,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 25,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 25,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 19,
-      "Салохин Николай Павлович": 12,
-      "Смолин Олег Николаевич": 129,
-      "Толмачев Сергей Максимович": 9,
-      "Шейко Дмитрий Анатольевич": 18,
-      "Шушубаев Хабулда Жуспекович": 48,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136093": 19,
+      "gas:candidate-vibid:1001000195117": 12,
+      "gas:candidate-vibid:1001000121884": 129,
+      "gas:candidate-vibid:1001000217942": 9,
+      "gas:candidate-vibid:1001000113962": 18,
+      "gas:candidate-vibid:255200067141": 48,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 20,
-      "Салохин Николай Павлович": 8,
-      "Смолин Олег Николаевич": 95,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 17,
-      "Шушубаев Хабулда Жуспекович": 44,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136093": 20,
+      "gas:candidate-vibid:1001000195117": 8,
+      "gas:candidate-vibid:1001000121884": 95,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 17,
+      "gas:candidate-vibid:255200067141": 44,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166717&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 162,
-      "Салохин Николай Павлович": 20,
-      "Смолин Олег Николаевич": 291,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 18,
-      "Шушубаев Хабулда Жуспекович": 285,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136093": 162,
+      "gas:candidate-vibid:1001000195117": 20,
+      "gas:candidate-vibid:1001000121884": 291,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 18,
+      "gas:candidate-vibid:255200067141": 285,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 179,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 553,
-      "Толмачев Сергей Максимович": 44,
-      "Шейко Дмитрий Анатольевич": 30,
-      "Шушубаев Хабулда Жуспекович": 347,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136093": 179,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 553,
+      "gas:candidate-vibid:1001000217942": 44,
+      "gas:candidate-vibid:1001000113962": 30,
+      "gas:candidate-vibid:255200067141": 347,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 194,
-      "Салохин Николай Павлович": 27,
-      "Смолин Олег Николаевич": 557,
-      "Толмачев Сергей Максимович": 48,
-      "Шейко Дмитрий Анатольевич": 32,
-      "Шушубаев Хабулда Жуспекович": 290,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136093": 194,
+      "gas:candidate-vibid:1001000195117": 27,
+      "gas:candidate-vibid:1001000121884": 557,
+      "gas:candidate-vibid:1001000217942": 48,
+      "gas:candidate-vibid:1001000113962": 32,
+      "gas:candidate-vibid:255200067141": 290,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 221,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 415,
-      "Толмачев Сергей Максимович": 28,
-      "Шейко Дмитрий Анатольевич": 17,
-      "Шушубаев Хабулда Жуспекович": 298,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136093": 221,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 415,
+      "gas:candidate-vibid:1001000217942": 28,
+      "gas:candidate-vibid:1001000113962": 17,
+      "gas:candidate-vibid:255200067141": 298,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 23,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 77,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 23,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 77,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 101,
-      "Салохин Николай Павлович": 23,
-      "Смолин Олег Николаевич": 368,
-      "Толмачев Сергей Максимович": 55,
-      "Шейко Дмитрий Анатольевич": 19,
-      "Шушубаев Хабулда Жуспекович": 263,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136093": 101,
+      "gas:candidate-vibid:1001000195117": 23,
+      "gas:candidate-vibid:1001000121884": 368,
+      "gas:candidate-vibid:1001000217942": 55,
+      "gas:candidate-vibid:1001000113962": 19,
+      "gas:candidate-vibid:255200067141": 263,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 14,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 92,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 42,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136093": 14,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 92,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 42,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 47,
-      "Толмачев Сергей Максимович": 7,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 34,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 47,
+      "gas:candidate-vibid:1001000217942": 7,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 34,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 53,
-      "Салохин Николай Павлович": 11,
-      "Смолин Олег Николаевич": 475,
-      "Толмачев Сергей Максимович": 19,
-      "Шейко Дмитрий Анатольевич": 10,
-      "Шушубаев Хабулда Жуспекович": 121,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136093": 53,
+      "gas:candidate-vibid:1001000195117": 11,
+      "gas:candidate-vibid:1001000121884": 475,
+      "gas:candidate-vibid:1001000217942": 19,
+      "gas:candidate-vibid:1001000113962": 10,
+      "gas:candidate-vibid:255200067141": 121,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 19,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 130,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 17,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136093": 19,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 130,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 17,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 61,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 36,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 61,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 36,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 11,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 88,
-      "Толмачев Сергей Максимович": 8,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 46,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 11,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 88,
+      "gas:candidate-vibid:1001000217942": 8,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 46,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 44,
-      "Салохин Николай Павлович": 15,
-      "Смолин Олег Николаевич": 395,
-      "Толмачев Сергей Максимович": 14,
-      "Шейко Дмитрий Анатольевич": 10,
-      "Шушубаев Хабулда Жуспекович": 157,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136093": 44,
+      "gas:candidate-vibid:1001000195117": 15,
+      "gas:candidate-vibid:1001000121884": 395,
+      "gas:candidate-vibid:1001000217942": 14,
+      "gas:candidate-vibid:1001000113962": 10,
+      "gas:candidate-vibid:255200067141": 157,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 7,
-      "Смолин Олег Николаевич": 39,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 67,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 7,
+      "gas:candidate-vibid:1001000121884": 39,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 67,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 6,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 78,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 41,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136093": 6,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 78,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 41,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 30,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 14,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 30,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 14,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 40,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 107,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 40,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 107,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 27,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 57,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 27,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 57,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 16,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 123,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 94,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136093": 16,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 123,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 94,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 10,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 23,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 28,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136093": 10,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 23,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 28,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 8,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 35,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 8,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 35,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 36,
-      "Салохин Николай Павлович": 17,
-      "Смолин Олег Николаевич": 254,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 9,
-      "Шушубаев Хабулда Жуспекович": 186,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136093": 36,
+      "gas:candidate-vibid:1001000195117": 17,
+      "gas:candidate-vibid:1001000121884": 254,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 9,
+      "gas:candidate-vibid:255200067141": 186,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 3,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 24,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 56,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136093": 3,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 24,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 56,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 65,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 24,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 65,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 24,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 61,
-      "Салохин Николай Павлович": 16,
-      "Смолин Олег Николаевич": 381,
-      "Толмачев Сергей Максимович": 27,
-      "Шейко Дмитрий Анатольевич": 25,
-      "Шушубаев Хабулда Жуспекович": 108,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136093": 61,
+      "gas:candidate-vibid:1001000195117": 16,
+      "gas:candidate-vibid:1001000121884": 381,
+      "gas:candidate-vibid:1001000217942": 27,
+      "gas:candidate-vibid:1001000113962": 25,
+      "gas:candidate-vibid:255200067141": 108,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 22,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 107,
-      "Толмачев Сергей Максимович": 9,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 55,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136093": 22,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 107,
+      "gas:candidate-vibid:1001000217942": 9,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 55,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 12,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 140,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 37,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136093": 12,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 140,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 37,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 8,
-      "Смолин Олег Николаевич": 111,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 8,
+      "gas:candidate-vibid:1001000121884": 111,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 13,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 90,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 38,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136093": 13,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 90,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 38,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 13,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 100,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 18,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136093": 13,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 100,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 18,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 48,
-      "Салохин Николай Павлович": 13,
-      "Смолин Олег Николаевич": 297,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 14,
-      "Шушубаев Хабулда Жуспекович": 202,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136093": 48,
+      "gas:candidate-vibid:1001000195117": 13,
+      "gas:candidate-vibid:1001000121884": 297,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 14,
+      "gas:candidate-vibid:255200067141": 202,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 41,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 56,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 41,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 56,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 12,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 30,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 15,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136093": 12,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 30,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 15,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 16,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 40,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 41,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136093": 16,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 40,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 41,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 12,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 59,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 43,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136093": 12,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 59,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 43,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 12,
-      "Салохин Николай Павлович": 6,
-      "Смолин Олег Николаевич": 46,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 15,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136093": 12,
+      "gas:candidate-vibid:1001000195117": 6,
+      "gas:candidate-vibid:1001000121884": 46,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 15,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 30,
-      "Салохин Николай Павлович": 11,
-      "Смолин Олег Николаевич": 273,
-      "Толмачев Сергей Максимович": 12,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 135,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136093": 30,
+      "gas:candidate-vibid:1001000195117": 11,
+      "gas:candidate-vibid:1001000121884": 273,
+      "gas:candidate-vibid:1001000217942": 12,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 135,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 44,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 27,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 44,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 27,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 29,
-      "Салохин Николай Павлович": 10,
-      "Смолин Олег Николаевич": 61,
-      "Толмачев Сергей Максимович": 7,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 28,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136093": 29,
+      "gas:candidate-vibid:1001000195117": 10,
+      "gas:candidate-vibid:1001000121884": 61,
+      "gas:candidate-vibid:1001000217942": 7,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 28,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 2,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 29,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 12,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136093": 2,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 29,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 12,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 26,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 76,
-      "Толмачев Сергей Максимович": 12,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 30,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136093": 26,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 76,
+      "gas:candidate-vibid:1001000217942": 12,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 30,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 83,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 741,
-      "Толмачев Сергей Максимович": 31,
-      "Шейко Дмитрий Анатольевич": 15,
-      "Шушубаев Хабулда Жуспекович": 381,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136093": 83,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 741,
+      "gas:candidate-vibid:1001000217942": 31,
+      "gas:candidate-vibid:1001000113962": 15,
+      "gas:candidate-vibid:255200067141": 381,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 2,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 46,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 144,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136093": 2,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 46,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 144,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 9,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 36,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 9,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 36,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 9,
-      "Смолин Олег Николаевич": 107,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 57,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 9,
+      "gas:candidate-vibid:1001000121884": 107,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 57,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 0,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 28,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 144,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136093": 0,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 28,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 144,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 6,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 72,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 86,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136093": 6,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 72,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 86,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166718&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 46,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 556,
-      "Толмачев Сергей Максимович": 23,
-      "Шейко Дмитрий Анатольевич": 18,
-      "Шушубаев Хабулда Жуспекович": 256,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136093": 46,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 556,
+      "gas:candidate-vibid:1001000217942": 23,
+      "gas:candidate-vibid:1001000113962": 18,
+      "gas:candidate-vibid:255200067141": 256,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 76,
-      "Салохин Николай Павлович": 33,
-      "Смолин Олег Николаевич": 559,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 22,
-      "Шушубаев Хабулда Жуспекович": 353,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136093": 76,
+      "gas:candidate-vibid:1001000195117": 33,
+      "gas:candidate-vibid:1001000121884": 559,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 22,
+      "gas:candidate-vibid:255200067141": 353,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 30,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 448,
-      "Толмачев Сергей Максимович": 16,
-      "Шейко Дмитрий Анатольевич": 16,
-      "Шушубаев Хабулда Жуспекович": 215,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136093": 30,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 448,
+      "gas:candidate-vibid:1001000217942": 16,
+      "gas:candidate-vibid:1001000113962": 16,
+      "gas:candidate-vibid:255200067141": 215,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 117,
-      "Салохин Николай Павлович": 41,
-      "Смолин Олег Николаевич": 619,
-      "Толмачев Сергей Максимович": 27,
-      "Шейко Дмитрий Анатольевич": 48,
-      "Шушубаев Хабулда Жуспекович": 289,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000136093": 117,
+      "gas:candidate-vibid:1001000195117": 41,
+      "gas:candidate-vibid:1001000121884": 619,
+      "gas:candidate-vibid:1001000217942": 27,
+      "gas:candidate-vibid:1001000113962": 48,
+      "gas:candidate-vibid:255200067141": 289,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 24,
-      "Салохин Николай Павлович": 12,
-      "Смолин Олег Николаевич": 267,
-      "Толмачев Сергей Максимович": 16,
-      "Шейко Дмитрий Анатольевич": 10,
-      "Шушубаев Хабулда Жуспекович": 134,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136093": 24,
+      "gas:candidate-vibid:1001000195117": 12,
+      "gas:candidate-vibid:1001000121884": 267,
+      "gas:candidate-vibid:1001000217942": 16,
+      "gas:candidate-vibid:1001000113962": 10,
+      "gas:candidate-vibid:255200067141": 134,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 23,
-      "Салохин Николай Павлович": 10,
-      "Смолин Олег Николаевич": 107,
-      "Толмачев Сергей Максимович": 12,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 96,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136093": 23,
+      "gas:candidate-vibid:1001000195117": 10,
+      "gas:candidate-vibid:1001000121884": 107,
+      "gas:candidate-vibid:1001000217942": 12,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 96,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 25,
-      "Салохин Николай Павлович": 11,
-      "Смолин Олег Николаевич": 164,
-      "Толмачев Сергей Максимович": 13,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 448,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136093": 25,
+      "gas:candidate-vibid:1001000195117": 11,
+      "gas:candidate-vibid:1001000121884": 164,
+      "gas:candidate-vibid:1001000217942": 13,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 448,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 57,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 48,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 57,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 48,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 36,
-      "Салохин Николай Павлович": 17,
-      "Смолин Олег Николаевич": 138,
-      "Толмачев Сергей Максимович": 42,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 156,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136093": 36,
+      "gas:candidate-vibid:1001000195117": 17,
+      "gas:candidate-vibid:1001000121884": 138,
+      "gas:candidate-vibid:1001000217942": 42,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 156,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 18,
-      "Салохин Николай Павлович": 13,
-      "Смолин Олег Николаевич": 103,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 55,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136093": 18,
+      "gas:candidate-vibid:1001000195117": 13,
+      "gas:candidate-vibid:1001000121884": 103,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 55,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 11,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 146,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 104,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136093": 11,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 146,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 104,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 12,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 113,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 61,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136093": 12,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 113,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 61,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 43,
-      "Салохин Николай Павлович": 12,
-      "Смолин Олег Николаевич": 354,
-      "Толмачев Сергей Максимович": 32,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 226,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136093": 43,
+      "gas:candidate-vibid:1001000195117": 12,
+      "gas:candidate-vibid:1001000121884": 354,
+      "gas:candidate-vibid:1001000217942": 32,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 226,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 75,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 34,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 75,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 34,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 29,
-      "Салохин Николай Павлович": 16,
-      "Смолин Олег Николаевич": 480,
-      "Толмачев Сергей Максимович": 10,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 94,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136093": 29,
+      "gas:candidate-vibid:1001000195117": 16,
+      "gas:candidate-vibid:1001000121884": 480,
+      "gas:candidate-vibid:1001000217942": 10,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 94,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 3,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 72,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 28,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 3,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 72,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 28,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 104,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 91,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 104,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 91,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 28,
-      "Салохин Николай Павлович": 19,
-      "Смолин Олег Николаевич": 272,
-      "Толмачев Сергей Максимович": 15,
-      "Шейко Дмитрий Анатольевич": 17,
-      "Шушубаев Хабулда Жуспекович": 126,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136093": 28,
+      "gas:candidate-vibid:1001000195117": 19,
+      "gas:candidate-vibid:1001000121884": 272,
+      "gas:candidate-vibid:1001000217942": 15,
+      "gas:candidate-vibid:1001000113962": 17,
+      "gas:candidate-vibid:255200067141": 126,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 54,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 17,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 54,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 17,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 36,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 158,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 36,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 158,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 2,
-      "Салохин Николай Павлович": 7,
-      "Смолин Олег Николаевич": 99,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 31,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136093": 2,
+      "gas:candidate-vibid:1001000195117": 7,
+      "gas:candidate-vibid:1001000121884": 99,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 31,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 34,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 34,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 46,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 539,
-      "Толмачев Сергей Максимович": 25,
-      "Шейко Дмитрий Анатольевич": 13,
-      "Шушубаев Хабулда Жуспекович": 153,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136093": 46,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 539,
+      "gas:candidate-vibid:1001000217942": 25,
+      "gas:candidate-vibid:1001000113962": 13,
+      "gas:candidate-vibid:255200067141": 153,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 3,
-      "Салохин Николай Павлович": 9,
-      "Смолин Олег Николаевич": 155,
-      "Толмачев Сергей Максимович": 5,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 60,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136093": 3,
+      "gas:candidate-vibid:1001000195117": 9,
+      "gas:candidate-vibid:1001000121884": 155,
+      "gas:candidate-vibid:1001000217942": 5,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 60,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 17,
-      "Салохин Николай Павлович": 8,
-      "Смолин Олег Николаевич": 161,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 44,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136093": 17,
+      "gas:candidate-vibid:1001000195117": 8,
+      "gas:candidate-vibid:1001000121884": 161,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 44,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 16,
-      "Салохин Николай Павлович": 11,
-      "Смолин Олег Николаевич": 96,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 16,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 16,
+      "gas:candidate-vibid:1001000195117": 11,
+      "gas:candidate-vibid:1001000121884": 96,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 16,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 14,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 86,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 45,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136093": 14,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 86,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 45,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 19,
-      "Салохин Николай Павлович": 7,
-      "Смолин Олег Николаевич": 62,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 57,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136093": 19,
+      "gas:candidate-vibid:1001000195117": 7,
+      "gas:candidate-vibid:1001000121884": 62,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 57,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 10,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 70,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 52,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136093": 10,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 70,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 52,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 6,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 62,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 16,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136093": 6,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 62,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 16,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 37,
-      "Салохин Николай Павлович": 21,
-      "Смолин Олег Николаевич": 515,
-      "Толмачев Сергей Максимович": 14,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 94,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136093": 37,
+      "gas:candidate-vibid:1001000195117": 21,
+      "gas:candidate-vibid:1001000121884": 515,
+      "gas:candidate-vibid:1001000217942": 14,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 94,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 3,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 48,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 17,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136093": 3,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 48,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 17,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 53,
-      "Салохин Николай Павлович": 25,
-      "Смолин Олег Николаевич": 496,
-      "Толмачев Сергей Максимович": 22,
-      "Шейко Дмитрий Анатольевич": 22,
-      "Шушубаев Хабулда Жуспекович": 218,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136093": 53,
+      "gas:candidate-vibid:1001000195117": 25,
+      "gas:candidate-vibid:1001000121884": 496,
+      "gas:candidate-vibid:1001000217942": 22,
+      "gas:candidate-vibid:1001000113962": 22,
+      "gas:candidate-vibid:255200067141": 218,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 9,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 43,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 40,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 9,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 43,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 40,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 0,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 5,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 103,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136093": 0,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 5,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 103,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 3,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 25,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 69,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136093": 3,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 25,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 69,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 70,
-      "Салохин Николай Павлович": 26,
-      "Смолин Олег Николаевич": 790,
-      "Толмачев Сергей Максимович": 51,
-      "Шейко Дмитрий Анатольевич": 37,
-      "Шушубаев Хабулда Жуспекович": 248,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136093": 70,
+      "gas:candidate-vibid:1001000195117": 26,
+      "gas:candidate-vibid:1001000121884": 790,
+      "gas:candidate-vibid:1001000217942": 51,
+      "gas:candidate-vibid:1001000113962": 37,
+      "gas:candidate-vibid:255200067141": 248,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 45,
-      "Толмачев Сергей Максимович": 5,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 38,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 45,
+      "gas:candidate-vibid:1001000217942": 5,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 38,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 3,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 33,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 18,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136093": 3,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 33,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 18,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 54,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 98,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 54,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 98,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 34,
-      "Салохин Николай Павлович": 10,
-      "Смолин Олег Николаевич": 313,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 13,
-      "Шушубаев Хабулда Жуспекович": 140,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136093": 34,
+      "gas:candidate-vibid:1001000195117": 10,
+      "gas:candidate-vibid:1001000121884": 313,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 13,
+      "gas:candidate-vibid:255200067141": 140,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 4,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 96,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 17,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 4,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 96,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 17,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 8,
-      "Смолин Олег Николаевич": 85,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 13,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 8,
+      "gas:candidate-vibid:1001000121884": 85,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 13,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166719&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 36,
-      "Салохин Николай Павлович": 18,
-      "Смолин Олег Николаевич": 274,
-      "Толмачев Сергей Максимович": 20,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 198,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136093": 36,
+      "gas:candidate-vibid:1001000195117": 18,
+      "gas:candidate-vibid:1001000121884": 274,
+      "gas:candidate-vibid:1001000217942": 20,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 198,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 6,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 20,
-      "Толмачев Сергей Максимович": 10,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 74,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136093": 6,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 20,
+      "gas:candidate-vibid:1001000217942": 10,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 74,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 5,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 33,
-      "Толмачев Сергей Максимович": 9,
-      "Шейко Дмитрий Анатольевич": 17,
-      "Шушубаев Хабулда Жуспекович": 45,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136093": 5,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 33,
+      "gas:candidate-vibid:1001000217942": 9,
+      "gas:candidate-vibid:1001000113962": 17,
+      "gas:candidate-vibid:255200067141": 45,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 35,
-      "Толмачев Сергей Максимович": 9,
-      "Шейко Дмитрий Анатольевич": 7,
-      "Шушубаев Хабулда Жуспекович": 75,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 35,
+      "gas:candidate-vibid:1001000217942": 9,
+      "gas:candidate-vibid:1001000113962": 7,
+      "gas:candidate-vibid:255200067141": 75,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 44,
-      "Салохин Николай Павлович": 19,
-      "Смолин Олег Николаевич": 323,
-      "Толмачев Сергей Максимович": 38,
-      "Шейко Дмитрий Анатольевич": 12,
-      "Шушубаев Хабулда Жуспекович": 191,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136093": 44,
+      "gas:candidate-vibid:1001000195117": 19,
+      "gas:candidate-vibid:1001000121884": 323,
+      "gas:candidate-vibid:1001000217942": 38,
+      "gas:candidate-vibid:1001000113962": 12,
+      "gas:candidate-vibid:255200067141": 191,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 38,
-      "Салохин Николай Павлович": 18,
-      "Смолин Олег Николаевич": 118,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 14,
-      "Шушубаев Хабулда Жуспекович": 78,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136093": 38,
+      "gas:candidate-vibid:1001000195117": 18,
+      "gas:candidate-vibid:1001000121884": 118,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 14,
+      "gas:candidate-vibid:255200067141": 78,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 61,
-      "Салохин Николай Павлович": 16,
-      "Смолин Олег Николаевич": 276,
-      "Толмачев Сергей Максимович": 14,
-      "Шейко Дмитрий Анатольевич": 18,
-      "Шушубаев Хабулда Жуспекович": 150,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136093": 61,
+      "gas:candidate-vibid:1001000195117": 16,
+      "gas:candidate-vibid:1001000121884": 276,
+      "gas:candidate-vibid:1001000217942": 14,
+      "gas:candidate-vibid:1001000113962": 18,
+      "gas:candidate-vibid:255200067141": 150,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 5,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 10,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 112,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136093": 5,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 10,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 112,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 49,
-      "Салохин Николай Павлович": 23,
-      "Смолин Олег Николаевич": 402,
-      "Толмачев Сергей Максимович": 16,
-      "Шейко Дмитрий Анатольевич": 25,
-      "Шушубаев Хабулда Жуспекович": 97,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136093": 49,
+      "gas:candidate-vibid:1001000195117": 23,
+      "gas:candidate-vibid:1001000121884": 402,
+      "gas:candidate-vibid:1001000217942": 16,
+      "gas:candidate-vibid:1001000113962": 25,
+      "gas:candidate-vibid:255200067141": 97,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 44,
-      "Салохин Николай Павлович": 20,
-      "Смолин Олег Николаевич": 490,
-      "Толмачев Сергей Максимович": 19,
-      "Шейко Дмитрий Анатольевич": 24,
-      "Шушубаев Хабулда Жуспекович": 79,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136093": 44,
+      "gas:candidate-vibid:1001000195117": 20,
+      "gas:candidate-vibid:1001000121884": 490,
+      "gas:candidate-vibid:1001000217942": 19,
+      "gas:candidate-vibid:1001000113962": 24,
+      "gas:candidate-vibid:255200067141": 79,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 51,
-      "Салохин Николай Павлович": 22,
-      "Смолин Олег Николаевич": 411,
-      "Толмачев Сергей Максимович": 14,
-      "Шейко Дмитрий Анатольевич": 23,
-      "Шушубаев Хабулда Жуспекович": 88,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136093": 51,
+      "gas:candidate-vibid:1001000195117": 22,
+      "gas:candidate-vibid:1001000121884": 411,
+      "gas:candidate-vibid:1001000217942": 14,
+      "gas:candidate-vibid:1001000113962": 23,
+      "gas:candidate-vibid:255200067141": 88,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 96,
-      "Салохин Николай Павлович": 21,
-      "Смолин Олег Николаевич": 587,
-      "Толмачев Сергей Максимович": 23,
-      "Шейко Дмитрий Анатольевич": 66,
-      "Шушубаев Хабулда Жуспекович": 223,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136093": 96,
+      "gas:candidate-vibid:1001000195117": 21,
+      "gas:candidate-vibid:1001000121884": 587,
+      "gas:candidate-vibid:1001000217942": 23,
+      "gas:candidate-vibid:1001000113962": 66,
+      "gas:candidate-vibid:255200067141": 223,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 31,
-      "Салохин Николай Павлович": 7,
-      "Смолин Олег Николаевич": 159,
-      "Толмачев Сергей Максимович": 21,
-      "Шейко Дмитрий Анатольевич": 8,
-      "Шушубаев Хабулда Жуспекович": 77,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136093": 31,
+      "gas:candidate-vibid:1001000195117": 7,
+      "gas:candidate-vibid:1001000121884": 159,
+      "gas:candidate-vibid:1001000217942": 21,
+      "gas:candidate-vibid:1001000113962": 8,
+      "gas:candidate-vibid:255200067141": 77,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 20,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 40,
-      "Толмачев Сергей Максимович": 10,
-      "Шейко Дмитрий Анатольевич": 10,
-      "Шушубаев Хабулда Жуспекович": 65,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136093": 20,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 40,
+      "gas:candidate-vibid:1001000217942": 10,
+      "gas:candidate-vibid:1001000113962": 10,
+      "gas:candidate-vibid:255200067141": 65,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 35,
-      "Салохин Николай Павлович": 14,
-      "Смолин Олег Николаевич": 170,
-      "Толмачев Сергей Максимович": 12,
-      "Шейко Дмитрий Анатольевич": 25,
-      "Шушубаев Хабулда Жуспекович": 59,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136093": 35,
+      "gas:candidate-vibid:1001000195117": 14,
+      "gas:candidate-vibid:1001000121884": 170,
+      "gas:candidate-vibid:1001000217942": 12,
+      "gas:candidate-vibid:1001000113962": 25,
+      "gas:candidate-vibid:255200067141": 59,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 35,
-      "Салохин Николай Павлович": 21,
-      "Смолин Олег Николаевич": 343,
-      "Толмачев Сергей Максимович": 22,
-      "Шейко Дмитрий Анатольевич": 14,
-      "Шушубаев Хабулда Жуспекович": 151,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136093": 35,
+      "gas:candidate-vibid:1001000195117": 21,
+      "gas:candidate-vibid:1001000121884": 343,
+      "gas:candidate-vibid:1001000217942": 22,
+      "gas:candidate-vibid:1001000113962": 14,
+      "gas:candidate-vibid:255200067141": 151,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 14,
-      "Салохин Николай Павлович": 6,
-      "Смолин Олег Николаевич": 51,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 65,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136093": 14,
+      "gas:candidate-vibid:1001000195117": 6,
+      "gas:candidate-vibid:1001000121884": 51,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 65,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 138,
-      "Салохин Николай Павлович": 40,
-      "Смолин Олег Николаевич": 932,
-      "Толмачев Сергей Максимович": 74,
-      "Шейко Дмитрий Анатольевич": 60,
-      "Шушубаев Хабулда Жуспекович": 281,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136093": 138,
+      "gas:candidate-vibid:1001000195117": 40,
+      "gas:candidate-vibid:1001000121884": 932,
+      "gas:candidate-vibid:1001000217942": 74,
+      "gas:candidate-vibid:1001000113962": 60,
+      "gas:candidate-vibid:255200067141": 281,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 85,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 519,
-      "Толмачев Сергей Максимович": 20,
-      "Шейко Дмитрий Анатольевич": 29,
-      "Шушубаев Хабулда Жуспекович": 230,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136093": 85,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 519,
+      "gas:candidate-vibid:1001000217942": 20,
+      "gas:candidate-vibid:1001000113962": 29,
+      "gas:candidate-vibid:255200067141": 230,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 10,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 27,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 57,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136093": 10,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 27,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 57,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 45,
-      "Салохин Николай Павлович": 15,
-      "Смолин Олег Николаевич": 274,
-      "Толмачев Сергей Максимович": 15,
-      "Шейко Дмитрий Анатольевич": 25,
-      "Шушубаев Хабулда Жуспекович": 243,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136093": 45,
+      "gas:candidate-vibid:1001000195117": 15,
+      "gas:candidate-vibid:1001000121884": 274,
+      "gas:candidate-vibid:1001000217942": 15,
+      "gas:candidate-vibid:1001000113962": 25,
+      "gas:candidate-vibid:255200067141": 243,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 10,
-      "Салохин Николай Павлович": 6,
-      "Смолин Олег Николаевич": 35,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 56,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136093": 10,
+      "gas:candidate-vibid:1001000195117": 6,
+      "gas:candidate-vibid:1001000121884": 35,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 56,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 55,
-      "Салохин Николай Павлович": 19,
-      "Смолин Олег Николаевич": 301,
-      "Толмачев Сергей Максимович": 127,
-      "Шейко Дмитрий Анатольевич": 23,
-      "Шушубаев Хабулда Жуспекович": 282,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136093": 55,
+      "gas:candidate-vibid:1001000195117": 19,
+      "gas:candidate-vibid:1001000121884": 301,
+      "gas:candidate-vibid:1001000217942": 127,
+      "gas:candidate-vibid:1001000113962": 23,
+      "gas:candidate-vibid:255200067141": 282,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 43,
-      "Салохин Николай Павлович": 13,
-      "Смолин Олег Николаевич": 216,
-      "Толмачев Сергей Максимович": 22,
-      "Шейко Дмитрий Анатольевич": 13,
-      "Шушубаев Хабулда Жуспекович": 150,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136093": 43,
+      "gas:candidate-vibid:1001000195117": 13,
+      "gas:candidate-vibid:1001000121884": 216,
+      "gas:candidate-vibid:1001000217942": 22,
+      "gas:candidate-vibid:1001000113962": 13,
+      "gas:candidate-vibid:255200067141": 150,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 9,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 88,
-      "Толмачев Сергей Максимович": 23,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 102,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136093": 9,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 88,
+      "gas:candidate-vibid:1001000217942": 23,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 102,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 102,
-      "Салохин Николай Павлович": 19,
-      "Смолин Олег Николаевич": 340,
-      "Толмачев Сергей Максимович": 54,
-      "Шейко Дмитрий Анатольевич": 22,
-      "Шушубаев Хабулда Жуспекович": 239,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136093": 102,
+      "gas:candidate-vibid:1001000195117": 19,
+      "gas:candidate-vibid:1001000121884": 340,
+      "gas:candidate-vibid:1001000217942": 54,
+      "gas:candidate-vibid:1001000113962": 22,
+      "gas:candidate-vibid:255200067141": 239,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 12,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 34,
-      "Толмачев Сергей Максимович": 5,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 50,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136093": 12,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 34,
+      "gas:candidate-vibid:1001000217942": 5,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 50,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 23,
-      "Салохин Николай Павлович": 8,
-      "Смолин Олег Николаевич": 117,
-      "Толмачев Сергей Максимович": 15,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 30,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136093": 23,
+      "gas:candidate-vibid:1001000195117": 8,
+      "gas:candidate-vibid:1001000121884": 117,
+      "gas:candidate-vibid:1001000217942": 15,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 30,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 16,
-      "Салохин Николай Павлович": 9,
-      "Смолин Олег Николаевич": 51,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 37,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136093": 16,
+      "gas:candidate-vibid:1001000195117": 9,
+      "gas:candidate-vibid:1001000121884": 51,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 37,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 80,
-      "Салохин Николай Павлович": 33,
-      "Смолин Олег Николаевич": 616,
-      "Толмачев Сергей Максимович": 28,
-      "Шейко Дмитрий Анатольевич": 28,
-      "Шушубаев Хабулда Жуспекович": 145,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136093": 80,
+      "gas:candidate-vibid:1001000195117": 33,
+      "gas:candidate-vibid:1001000121884": 616,
+      "gas:candidate-vibid:1001000217942": 28,
+      "gas:candidate-vibid:1001000113962": 28,
+      "gas:candidate-vibid:255200067141": 145,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 36,
-      "Салохин Николай Павлович": 14,
-      "Смолин Олег Николаевич": 176,
-      "Толмачев Сергей Максимович": 16,
-      "Шейко Дмитрий Анатольевич": 23,
-      "Шушубаев Хабулда Жуспекович": 79,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136093": 36,
+      "gas:candidate-vibid:1001000195117": 14,
+      "gas:candidate-vibid:1001000121884": 176,
+      "gas:candidate-vibid:1001000217942": 16,
+      "gas:candidate-vibid:1001000113962": 23,
+      "gas:candidate-vibid:255200067141": 79,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 26,
-      "Салохин Николай Павлович": 7,
-      "Смолин Олег Николаевич": 88,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 31,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136093": 26,
+      "gas:candidate-vibid:1001000195117": 7,
+      "gas:candidate-vibid:1001000121884": 88,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 31,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 72,
-      "Салохин Николай Павлович": 39,
-      "Смолин Олег Николаевич": 615,
-      "Толмачев Сергей Максимович": 59,
-      "Шейко Дмитрий Анатольевич": 30,
-      "Шушубаев Хабулда Жуспекович": 225,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136093": 72,
+      "gas:candidate-vibid:1001000195117": 39,
+      "gas:candidate-vibid:1001000121884": 615,
+      "gas:candidate-vibid:1001000217942": 59,
+      "gas:candidate-vibid:1001000113962": 30,
+      "gas:candidate-vibid:255200067141": 225,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 27,
-      "Салохин Николай Павлович": 15,
-      "Смолин Олег Николаевич": 278,
-      "Толмачев Сергей Максимович": 14,
-      "Шейко Дмитрий Анатольевич": 15,
-      "Шушубаев Хабулда Жуспекович": 73,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136093": 27,
+      "gas:candidate-vibid:1001000195117": 15,
+      "gas:candidate-vibid:1001000121884": 278,
+      "gas:candidate-vibid:1001000217942": 14,
+      "gas:candidate-vibid:1001000113962": 15,
+      "gas:candidate-vibid:255200067141": 73,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 19,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 40,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 4,
-      "Шушубаев Хабулда Жуспекович": 88,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136093": 19,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 40,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 4,
+      "gas:candidate-vibid:255200067141": 88,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 16,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 43,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 27,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136093": 16,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 43,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 27,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 50,
-      "Толмачев Сергей Максимович": 5,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 127,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 50,
+      "gas:candidate-vibid:1001000217942": 5,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 127,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 105,
-      "Салохин Николай Павлович": 34,
-      "Смолин Олег Николаевич": 617,
-      "Толмачев Сергей Максимович": 41,
-      "Шейко Дмитрий Анатольевич": 68,
-      "Шушубаев Хабулда Жуспекович": 156,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136093": 105,
+      "gas:candidate-vibid:1001000195117": 34,
+      "gas:candidate-vibid:1001000121884": 617,
+      "gas:candidate-vibid:1001000217942": 41,
+      "gas:candidate-vibid:1001000113962": 68,
+      "gas:candidate-vibid:255200067141": 156,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 84,
-      "Салохин Николай Павлович": 36,
-      "Смолин Олег Николаевич": 424,
-      "Толмачев Сергей Максимович": 40,
-      "Шейко Дмитрий Анатольевич": 41,
-      "Шушубаев Хабулда Жуспекович": 139,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136093": 84,
+      "gas:candidate-vibid:1001000195117": 36,
+      "gas:candidate-vibid:1001000121884": 424,
+      "gas:candidate-vibid:1001000217942": 40,
+      "gas:candidate-vibid:1001000113962": 41,
+      "gas:candidate-vibid:255200067141": 139,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 130,
-      "Салохин Николай Павлович": 37,
-      "Смолин Олег Николаевич": 535,
-      "Толмачев Сергей Максимович": 49,
-      "Шейко Дмитрий Анатольевич": 57,
-      "Шушубаев Хабулда Жуспекович": 180,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000136093": 130,
+      "gas:candidate-vibid:1001000195117": 37,
+      "gas:candidate-vibid:1001000121884": 535,
+      "gas:candidate-vibid:1001000217942": 49,
+      "gas:candidate-vibid:1001000113962": 57,
+      "gas:candidate-vibid:255200067141": 180,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 90,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 435,
-      "Толмачев Сергей Максимович": 34,
-      "Шейко Дмитрий Анатольевич": 38,
-      "Шушубаев Хабулда Жуспекович": 110,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136093": 90,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 435,
+      "gas:candidate-vibid:1001000217942": 34,
+      "gas:candidate-vibid:1001000113962": 38,
+      "gas:candidate-vibid:255200067141": 110,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 64,
-      "Салохин Николай Павлович": 21,
-      "Смолин Олег Николаевич": 200,
-      "Толмачев Сергей Максимович": 16,
-      "Шейко Дмитрий Анатольевич": 19,
-      "Шушубаев Хабулда Жуспекович": 99,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136093": 64,
+      "gas:candidate-vibid:1001000195117": 21,
+      "gas:candidate-vibid:1001000121884": 200,
+      "gas:candidate-vibid:1001000217942": 16,
+      "gas:candidate-vibid:1001000113962": 19,
+      "gas:candidate-vibid:255200067141": 99,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 44,
-      "Салохин Николай Павлович": 17,
-      "Смолин Олег Николаевич": 175,
-      "Толмачев Сергей Максимович": 14,
-      "Шейко Дмитрий Анатольевич": 7,
-      "Шушубаев Хабулда Жуспекович": 54,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136093": 44,
+      "gas:candidate-vibid:1001000195117": 17,
+      "gas:candidate-vibid:1001000121884": 175,
+      "gas:candidate-vibid:1001000217942": 14,
+      "gas:candidate-vibid:1001000113962": 7,
+      "gas:candidate-vibid:255200067141": 54,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 26,
-      "Салохин Николай Павлович": 13,
-      "Смолин Олег Николаевич": 136,
-      "Толмачев Сергей Максимович": 9,
-      "Шейко Дмитрий Анатольевич": 21,
-      "Шушубаев Хабулда Жуспекович": 54,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136093": 26,
+      "gas:candidate-vibid:1001000195117": 13,
+      "gas:candidate-vibid:1001000121884": 136,
+      "gas:candidate-vibid:1001000217942": 9,
+      "gas:candidate-vibid:1001000113962": 21,
+      "gas:candidate-vibid:255200067141": 54,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 29,
-      "Салохин Николай Павлович": 26,
-      "Смолин Олег Николаевич": 339,
-      "Толмачев Сергей Максимович": 17,
-      "Шейко Дмитрий Анатольевич": 15,
-      "Шушубаев Хабулда Жуспекович": 148,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136093": 29,
+      "gas:candidate-vibid:1001000195117": 26,
+      "gas:candidate-vibid:1001000121884": 339,
+      "gas:candidate-vibid:1001000217942": 17,
+      "gas:candidate-vibid:1001000113962": 15,
+      "gas:candidate-vibid:255200067141": 148,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 23,
-      "Салохин Николай Павлович": 10,
-      "Смолин Олег Николаевич": 74,
-      "Толмачев Сергей Максимович": 8,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 41,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136093": 23,
+      "gas:candidate-vibid:1001000195117": 10,
+      "gas:candidate-vibid:1001000121884": 74,
+      "gas:candidate-vibid:1001000217942": 8,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 41,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 82,
-      "Салохин Николай Павлович": 30,
-      "Смолин Олег Николаевич": 531,
-      "Толмачев Сергей Максимович": 37,
-      "Шейко Дмитрий Анатольевич": 39,
-      "Шушубаев Хабулда Жуспекович": 211,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136093": 82,
+      "gas:candidate-vibid:1001000195117": 30,
+      "gas:candidate-vibid:1001000121884": 531,
+      "gas:candidate-vibid:1001000217942": 37,
+      "gas:candidate-vibid:1001000113962": 39,
+      "gas:candidate-vibid:255200067141": 211,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 73,
-      "Салохин Николай Павлович": 39,
-      "Смолин Олег Николаевич": 582,
-      "Толмачев Сергей Максимович": 38,
-      "Шейко Дмитрий Анатольевич": 32,
-      "Шушубаев Хабулда Жуспекович": 124,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136093": 73,
+      "gas:candidate-vibid:1001000195117": 39,
+      "gas:candidate-vibid:1001000121884": 582,
+      "gas:candidate-vibid:1001000217942": 38,
+      "gas:candidate-vibid:1001000113962": 32,
+      "gas:candidate-vibid:255200067141": 124,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 32,
-      "Салохин Николай Павлович": 14,
-      "Смолин Олег Николаевич": 227,
-      "Толмачев Сергей Максимович": 6,
-      "Шейко Дмитрий Анатольевич": 13,
-      "Шушубаев Хабулда Жуспекович": 114,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136093": 32,
+      "gas:candidate-vibid:1001000195117": 14,
+      "gas:candidate-vibid:1001000121884": 227,
+      "gas:candidate-vibid:1001000217942": 6,
+      "gas:candidate-vibid:1001000113962": 13,
+      "gas:candidate-vibid:255200067141": 114,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 20,
-      "Салохин Николай Павлович": 11,
-      "Смолин Олег Николаевич": 96,
-      "Толмачев Сергей Максимович": 30,
-      "Шейко Дмитрий Анатольевич": 10,
-      "Шушубаев Хабулда Жуспекович": 224,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136093": 20,
+      "gas:candidate-vibid:1001000195117": 11,
+      "gas:candidate-vibid:1001000121884": 96,
+      "gas:candidate-vibid:1001000217942": 30,
+      "gas:candidate-vibid:1001000113962": 10,
+      "gas:candidate-vibid:255200067141": 224,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 40,
-      "Салохин Николай Павлович": 23,
-      "Смолин Олег Николаевич": 368,
-      "Толмачев Сергей Максимович": 19,
-      "Шейко Дмитрий Анатольевич": 13,
-      "Шушубаев Хабулда Жуспекович": 168,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136093": 40,
+      "gas:candidate-vibid:1001000195117": 23,
+      "gas:candidate-vibid:1001000121884": 368,
+      "gas:candidate-vibid:1001000217942": 19,
+      "gas:candidate-vibid:1001000113962": 13,
+      "gas:candidate-vibid:255200067141": 168,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 9,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 45,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 161,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136093": 9,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 45,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 161,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 11,
-      "Салохин Николай Павлович": 12,
-      "Смолин Олег Николаевич": 70,
-      "Толмачев Сергей Максимович": 7,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 45,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136093": 11,
+      "gas:candidate-vibid:1001000195117": 12,
+      "gas:candidate-vibid:1001000121884": 70,
+      "gas:candidate-vibid:1001000217942": 7,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 45,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 80,
-      "Салохин Николай Павлович": 31,
-      "Смолин Олег Николаевич": 473,
-      "Толмачев Сергей Максимович": 34,
-      "Шейко Дмитрий Анатольевич": 17,
-      "Шушубаев Хабулда Жуспекович": 94,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136093": 80,
+      "gas:candidate-vibid:1001000195117": 31,
+      "gas:candidate-vibid:1001000121884": 473,
+      "gas:candidate-vibid:1001000217942": 34,
+      "gas:candidate-vibid:1001000113962": 17,
+      "gas:candidate-vibid:255200067141": 94,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 69,
-      "Салохин Николай Павлович": 19,
-      "Смолин Олег Николаевич": 434,
-      "Толмачев Сергей Максимович": 25,
-      "Шейко Дмитрий Анатольевич": 20,
-      "Шушубаев Хабулда Жуспекович": 98,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136093": 69,
+      "gas:candidate-vibid:1001000195117": 19,
+      "gas:candidate-vibid:1001000121884": 434,
+      "gas:candidate-vibid:1001000217942": 25,
+      "gas:candidate-vibid:1001000113962": 20,
+      "gas:candidate-vibid:255200067141": 98,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 47,
-      "Салохин Николай Павлович": 24,
-      "Смолин Олег Николаевич": 240,
-      "Толмачев Сергей Максимович": 30,
-      "Шейко Дмитрий Анатольевич": 16,
-      "Шушубаев Хабулда Жуспекович": 93,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136093": 47,
+      "gas:candidate-vibid:1001000195117": 24,
+      "gas:candidate-vibid:1001000121884": 240,
+      "gas:candidate-vibid:1001000217942": 30,
+      "gas:candidate-vibid:1001000113962": 16,
+      "gas:candidate-vibid:255200067141": 93,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 34,
-      "Салохин Николай Павлович": 17,
-      "Смолин Олег Николаевич": 343,
-      "Толмачев Сергей Максимович": 11,
-      "Шейко Дмитрий Анатольевич": 16,
-      "Шушубаев Хабулда Жуспекович": 232,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136093": 34,
+      "gas:candidate-vibid:1001000195117": 17,
+      "gas:candidate-vibid:1001000121884": 343,
+      "gas:candidate-vibid:1001000217942": 11,
+      "gas:candidate-vibid:1001000113962": 16,
+      "gas:candidate-vibid:255200067141": 232,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 15,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 69,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 25,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136093": 15,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 69,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 25,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 42,
-      "Салохин Николай Павлович": 20,
-      "Смолин Олег Николаевич": 428,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 16,
-      "Шушубаев Хабулда Жуспекович": 135,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136093": 42,
+      "gas:candidate-vibid:1001000195117": 20,
+      "gas:candidate-vibid:1001000121884": 428,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 16,
+      "gas:candidate-vibid:255200067141": 135,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 61,
-      "Салохин Николай Павлович": 38,
-      "Смолин Олег Николаевич": 577,
-      "Толмачев Сергей Максимович": 36,
-      "Шейко Дмитрий Анатольевич": 23,
-      "Шушубаев Хабулда Жуспекович": 208,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136093": 61,
+      "gas:candidate-vibid:1001000195117": 38,
+      "gas:candidate-vibid:1001000121884": 577,
+      "gas:candidate-vibid:1001000217942": 36,
+      "gas:candidate-vibid:1001000113962": 23,
+      "gas:candidate-vibid:255200067141": 208,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 16,
-      "Салохин Николай Павлович": 7,
-      "Смолин Олег Николаевич": 90,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 35,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136093": 16,
+      "gas:candidate-vibid:1001000195117": 7,
+      "gas:candidate-vibid:1001000121884": 90,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 35,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 21,
-      "Салохин Николай Павлович": 15,
-      "Смолин Олег Николаевич": 408,
-      "Толмачев Сергей Максимович": 29,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 155,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136093": 21,
+      "gas:candidate-vibid:1001000195117": 15,
+      "gas:candidate-vibid:1001000121884": 408,
+      "gas:candidate-vibid:1001000217942": 29,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 155,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 25,
-      "Толмачев Сергей Максимович": 2,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 111,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 25,
+      "gas:candidate-vibid:1001000217942": 2,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 111,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 9,
-      "Салохин Николай Павлович": 1,
-      "Смолин Олег Николаевич": 44,
-      "Толмачев Сергей Максимович": 1,
-      "Шейко Дмитрий Анатольевич": 0,
-      "Шушубаев Хабулда Жуспекович": 93,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136093": 9,
+      "gas:candidate-vibid:1001000195117": 1,
+      "gas:candidate-vibid:1001000121884": 44,
+      "gas:candidate-vibid:1001000217942": 1,
+      "gas:candidate-vibid:1001000113962": 0,
+      "gas:candidate-vibid:255200067141": 93,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 31,
-      "Салохин Николай Павлович": 20,
-      "Смолин Олег Николаевич": 526,
-      "Толмачев Сергей Максимович": 18,
-      "Шейко Дмитрий Анатольевич": 13,
-      "Шушубаев Хабулда Жуспекович": 165,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136093": 31,
+      "gas:candidate-vibid:1001000195117": 20,
+      "gas:candidate-vibid:1001000121884": 526,
+      "gas:candidate-vibid:1001000217942": 18,
+      "gas:candidate-vibid:1001000113962": 13,
+      "gas:candidate-vibid:255200067141": 165,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 1,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 41,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 36,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136093": 1,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 41,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 36,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 36,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 61,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 36,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 61,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 6,
-      "Салохин Николай Павлович": 3,
-      "Смолин Олег Николаевич": 107,
-      "Толмачев Сергей Максимович": 8,
-      "Шейко Дмитрий Анатольевич": 6,
-      "Шушубаев Хабулда Жуспекович": 39,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136093": 6,
+      "gas:candidate-vibid:1001000195117": 3,
+      "gas:candidate-vibid:1001000121884": 107,
+      "gas:candidate-vibid:1001000217942": 8,
+      "gas:candidate-vibid:1001000113962": 6,
+      "gas:candidate-vibid:255200067141": 39,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 2,
-      "Смолин Олег Николаевич": 46,
-      "Толмачев Сергей Максимович": 0,
-      "Шейко Дмитрий Анатольевич": 3,
-      "Шушубаев Хабулда Жуспекович": 39,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 2,
+      "gas:candidate-vibid:1001000121884": 46,
+      "gas:candidate-vibid:1001000217942": 0,
+      "gas:candidate-vibid:1001000113962": 3,
+      "gas:candidate-vibid:255200067141": 39,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 7,
-      "Салохин Николай Павлович": 5,
-      "Смолин Олег Николаевич": 72,
-      "Толмачев Сергей Максимович": 5,
-      "Шейко Дмитрий Анатольевич": 1,
-      "Шушубаев Хабулда Жуспекович": 27,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136093": 7,
+      "gas:candidate-vibid:1001000195117": 5,
+      "gas:candidate-vibid:1001000121884": 72,
+      "gas:candidate-vibid:1001000217942": 5,
+      "gas:candidate-vibid:1001000113962": 1,
+      "gas:candidate-vibid:255200067141": 27,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 15,
-      "Салохин Николай Павлович": 4,
-      "Смолин Олег Николаевич": 24,
-      "Толмачев Сергей Максимович": 3,
-      "Шейко Дмитрий Анатольевич": 5,
-      "Шушубаев Хабулда Жуспекович": 39,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136093": 15,
+      "gas:candidate-vibid:1001000195117": 4,
+      "gas:candidate-vibid:1001000121884": 24,
+      "gas:candidate-vibid:1001000217942": 3,
+      "gas:candidate-vibid:1001000113962": 5,
+      "gas:candidate-vibid:255200067141": 39,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 58,
-      "Салохин Николай Павлович": 13,
-      "Смолин Олег Николаевич": 358,
-      "Толмачев Сергей Максимович": 45,
-      "Шейко Дмитрий Анатольевич": 31,
-      "Шушубаев Хабулда Жуспекович": 215,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136093": 58,
+      "gas:candidate-vibid:1001000195117": 13,
+      "gas:candidate-vibid:1001000121884": 358,
+      "gas:candidate-vibid:1001000217942": 45,
+      "gas:candidate-vibid:1001000113962": 31,
+      "gas:candidate-vibid:255200067141": 215,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 17,
-      "Салохин Николай Павлович": 6,
-      "Смолин Олег Николаевич": 121,
-      "Толмачев Сергей Максимович": 5,
-      "Шейко Дмитрий Анатольевич": 10,
-      "Шушубаев Хабулда Жуспекович": 58,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136093": 17,
+      "gas:candidate-vibid:1001000195117": 6,
+      "gas:candidate-vibid:1001000121884": 121,
+      "gas:candidate-vibid:1001000217942": 5,
+      "gas:candidate-vibid:1001000113962": 10,
+      "gas:candidate-vibid:255200067141": 58,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_55_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Большаков Владимир Сергеевич": 8,
-      "Салохин Николай Павлович": 0,
-      "Смолин Олег Николаевич": 24,
-      "Толмачев Сергей Максимович": 4,
-      "Шейко Дмитрий Анатольевич": 2,
-      "Шушубаев Хабулда Жуспекович": 32,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136093": 8,
+      "gas:candidate-vibid:1001000195117": 0,
+      "gas:candidate-vibid:1001000121884": 24,
+      "gas:candidate-vibid:1001000217942": 4,
+      "gas:candidate-vibid:1001000113962": 2,
+      "gas:candidate-vibid:255200067141": 32,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300166720&region=0&sub_region=0&type=429",

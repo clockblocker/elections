@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 92,
-      "Колесников Виктор Михайлович": 111,
-      "Котляр Татьяна Михайловна": 109,
-      "Кузнецов Николай Николаевич": 17,
-      "Лизунов Игорь Константинович": 23,
-      "Махтей Владимир Викторович": 7,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217924": 92,
+      "gas:candidate-vibid:340300170377": 111,
+      "gas:candidate-vibid:1001000113933": 109,
+      "gas:candidate-vibid:1001000136057": 17,
+      "gas:candidate-vibid:1001000250447": 23,
+      "gas:candidate-vibid:1001000202308": 7,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 355,
-      "Колесников Виктор Михайлович": 244,
-      "Котляр Татьяна Михайловна": 224,
-      "Кузнецов Николай Николаевич": 106,
-      "Лизунов Игорь Константинович": 67,
-      "Махтей Владимир Викторович": 29,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000217924": 355,
+      "gas:candidate-vibid:340300170377": 244,
+      "gas:candidate-vibid:1001000113933": 224,
+      "gas:candidate-vibid:1001000136057": 106,
+      "gas:candidate-vibid:1001000250447": 67,
+      "gas:candidate-vibid:1001000202308": 29,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 379,
-      "Колесников Виктор Михайлович": 221,
-      "Котляр Татьяна Михайловна": 267,
-      "Кузнецов Николай Николаевич": 104,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 28,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000217924": 379,
+      "gas:candidate-vibid:340300170377": 221,
+      "gas:candidate-vibid:1001000113933": 267,
+      "gas:candidate-vibid:1001000136057": 104,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 28,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 142,
-      "Колесников Виктор Михайлович": 115,
-      "Котляр Татьяна Михайловна": 72,
-      "Кузнецов Николай Николаевич": 62,
-      "Лизунов Игорь Константинович": 16,
-      "Махтей Владимир Викторович": 16,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000217924": 142,
+      "gas:candidate-vibid:340300170377": 115,
+      "gas:candidate-vibid:1001000113933": 72,
+      "gas:candidate-vibid:1001000136057": 62,
+      "gas:candidate-vibid:1001000250447": 16,
+      "gas:candidate-vibid:1001000202308": 16,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 172,
-      "Колесников Виктор Михайлович": 143,
-      "Котляр Татьяна Михайловна": 93,
-      "Кузнецов Николай Николаевич": 54,
-      "Лизунов Игорь Константинович": 35,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000217924": 172,
+      "gas:candidate-vibid:340300170377": 143,
+      "gas:candidate-vibid:1001000113933": 93,
+      "gas:candidate-vibid:1001000136057": 54,
+      "gas:candidate-vibid:1001000250447": 35,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 42,
-      "Колесников Виктор Михайлович": 21,
-      "Котляр Татьяна Михайловна": 17,
-      "Кузнецов Николай Николаевич": 9,
-      "Лизунов Игорь Константинович": 9,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217924": 42,
+      "gas:candidate-vibid:340300170377": 21,
+      "gas:candidate-vibid:1001000113933": 17,
+      "gas:candidate-vibid:1001000136057": 9,
+      "gas:candidate-vibid:1001000250447": 9,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 40,
-      "Колесников Виктор Михайлович": 174,
-      "Котляр Татьяна Михайловна": 21,
-      "Кузнецов Николай Николаевич": 14,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217924": 40,
+      "gas:candidate-vibid:340300170377": 174,
+      "gas:candidate-vibid:1001000113933": 21,
+      "gas:candidate-vibid:1001000136057": 14,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 9,
-      "Колесников Виктор Михайлович": 49,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217924": 9,
+      "gas:candidate-vibid:340300170377": 49,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 43,
-      "Колесников Виктор Михайлович": 43,
-      "Котляр Татьяна Михайловна": 14,
-      "Кузнецов Николай Николаевич": 13,
-      "Лизунов Игорь Константинович": 6,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217924": 43,
+      "gas:candidate-vibid:340300170377": 43,
+      "gas:candidate-vibid:1001000113933": 14,
+      "gas:candidate-vibid:1001000136057": 13,
+      "gas:candidate-vibid:1001000250447": 6,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 62,
-      "Колесников Виктор Михайлович": 56,
-      "Котляр Татьяна Михайловна": 22,
-      "Кузнецов Николай Николаевич": 22,
-      "Лизунов Игорь Константинович": 6,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000217924": 62,
+      "gas:candidate-vibid:340300170377": 56,
+      "gas:candidate-vibid:1001000113933": 22,
+      "gas:candidate-vibid:1001000136057": 22,
+      "gas:candidate-vibid:1001000250447": 6,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 55,
-      "Колесников Виктор Михайлович": 103,
-      "Котляр Татьяна Михайловна": 30,
-      "Кузнецов Николай Николаевич": 16,
-      "Лизунов Игорь Константинович": 14,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217924": 55,
+      "gas:candidate-vibid:340300170377": 103,
+      "gas:candidate-vibid:1001000113933": 30,
+      "gas:candidate-vibid:1001000136057": 16,
+      "gas:candidate-vibid:1001000250447": 14,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 78,
-      "Колесников Виктор Михайлович": 44,
-      "Котляр Татьяна Михайловна": 22,
-      "Кузнецов Николай Николаевич": 16,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000217924": 78,
+      "gas:candidate-vibid:340300170377": 44,
+      "gas:candidate-vibid:1001000113933": 22,
+      "gas:candidate-vibid:1001000136057": 16,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 53,
-      "Колесников Виктор Михайлович": 52,
-      "Котляр Татьяна Михайловна": 20,
-      "Кузнецов Николай Николаевич": 18,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217924": 53,
+      "gas:candidate-vibid:340300170377": 52,
+      "gas:candidate-vibid:1001000113933": 20,
+      "gas:candidate-vibid:1001000136057": 18,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 177,
-      "Колесников Виктор Михайлович": 192,
-      "Котляр Татьяна Михайловна": 144,
-      "Кузнецов Николай Николаевич": 42,
-      "Лизунов Игорь Константинович": 25,
-      "Махтей Владимир Викторович": 43,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000217924": 177,
+      "gas:candidate-vibid:340300170377": 192,
+      "gas:candidate-vibid:1001000113933": 144,
+      "gas:candidate-vibid:1001000136057": 42,
+      "gas:candidate-vibid:1001000250447": 25,
+      "gas:candidate-vibid:1001000202308": 43,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 61,
-      "Колесников Виктор Михайлович": 68,
-      "Котляр Татьяна Михайловна": 13,
-      "Кузнецов Николай Николаевич": 16,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000217924": 61,
+      "gas:candidate-vibid:340300170377": 68,
+      "gas:candidate-vibid:1001000113933": 13,
+      "gas:candidate-vibid:1001000136057": 16,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 444,
-      "Колесников Виктор Михайлович": 81,
-      "Котляр Татьяна Михайловна": 66,
-      "Кузнецов Николай Николаевич": 87,
-      "Лизунов Игорь Константинович": 19,
-      "Махтей Владимир Викторович": 27,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000217924": 444,
+      "gas:candidate-vibid:340300170377": 81,
+      "gas:candidate-vibid:1001000113933": 66,
+      "gas:candidate-vibid:1001000136057": 87,
+      "gas:candidate-vibid:1001000250447": 19,
+      "gas:candidate-vibid:1001000202308": 27,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 133,
-      "Колесников Виктор Михайлович": 107,
-      "Котляр Татьяна Михайловна": 62,
-      "Кузнецов Николай Николаевич": 50,
-      "Лизунов Игорь Константинович": 37,
-      "Махтей Владимир Викторович": 15,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000217924": 133,
+      "gas:candidate-vibid:340300170377": 107,
+      "gas:candidate-vibid:1001000113933": 62,
+      "gas:candidate-vibid:1001000136057": 50,
+      "gas:candidate-vibid:1001000250447": 37,
+      "gas:candidate-vibid:1001000202308": 15,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 24,
-      "Колесников Виктор Михайлович": 9,
-      "Котляр Татьяна Михайловна": 28,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217924": 24,
+      "gas:candidate-vibid:340300170377": 9,
+      "gas:candidate-vibid:1001000113933": 28,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 174,
-      "Колесников Виктор Михайлович": 94,
-      "Котляр Татьяна Михайловна": 144,
-      "Кузнецов Николай Николаевич": 58,
-      "Лизунов Игорь Константинович": 36,
-      "Махтей Владимир Викторович": 16,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000217924": 174,
+      "gas:candidate-vibid:340300170377": 94,
+      "gas:candidate-vibid:1001000113933": 144,
+      "gas:candidate-vibid:1001000136057": 58,
+      "gas:candidate-vibid:1001000250447": 36,
+      "gas:candidate-vibid:1001000202308": 16,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 45,
-      "Колесников Виктор Михайлович": 7,
-      "Котляр Татьяна Михайловна": 41,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217924": 45,
+      "gas:candidate-vibid:340300170377": 7,
+      "gas:candidate-vibid:1001000113933": 41,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 80,
-      "Колесников Виктор Михайлович": 27,
-      "Котляр Татьяна Михайловна": 41,
-      "Кузнецов Николай Николаевич": 21,
-      "Лизунов Игорь Константинович": 14,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217924": 80,
+      "gas:candidate-vibid:340300170377": 27,
+      "gas:candidate-vibid:1001000113933": 41,
+      "gas:candidate-vibid:1001000136057": 21,
+      "gas:candidate-vibid:1001000250447": 14,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 453,
-      "Колесников Виктор Михайлович": 192,
-      "Котляр Татьяна Михайловна": 249,
-      "Кузнецов Николай Николаевич": 118,
-      "Лизунов Игорь Константинович": 102,
-      "Махтей Владимир Викторович": 38,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000217924": 453,
+      "gas:candidate-vibid:340300170377": 192,
+      "gas:candidate-vibid:1001000113933": 249,
+      "gas:candidate-vibid:1001000136057": 118,
+      "gas:candidate-vibid:1001000250447": 102,
+      "gas:candidate-vibid:1001000202308": 38,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 489,
-      "Колесников Виктор Михайлович": 156,
-      "Котляр Татьяна Михайловна": 238,
-      "Кузнецов Николай Николаевич": 130,
-      "Лизунов Игорь Константинович": 95,
-      "Махтей Владимир Викторович": 39,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000217924": 489,
+      "gas:candidate-vibid:340300170377": 156,
+      "gas:candidate-vibid:1001000113933": 238,
+      "gas:candidate-vibid:1001000136057": 130,
+      "gas:candidate-vibid:1001000250447": 95,
+      "gas:candidate-vibid:1001000202308": 39,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 432,
-      "Колесников Виктор Михайлович": 129,
-      "Котляр Татьяна Михайловна": 245,
-      "Кузнецов Николай Николаевич": 112,
-      "Лизунов Игорь Константинович": 93,
-      "Махтей Владимир Викторович": 33,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000217924": 432,
+      "gas:candidate-vibid:340300170377": 129,
+      "gas:candidate-vibid:1001000113933": 245,
+      "gas:candidate-vibid:1001000136057": 112,
+      "gas:candidate-vibid:1001000250447": 93,
+      "gas:candidate-vibid:1001000202308": 33,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 433,
-      "Колесников Виктор Михайлович": 302,
-      "Котляр Татьяна Михайловна": 266,
-      "Кузнецов Николай Николаевич": 92,
-      "Лизунов Игорь Константинович": 69,
-      "Махтей Владимир Викторович": 38,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000217924": 433,
+      "gas:candidate-vibid:340300170377": 302,
+      "gas:candidate-vibid:1001000113933": 266,
+      "gas:candidate-vibid:1001000136057": 92,
+      "gas:candidate-vibid:1001000250447": 69,
+      "gas:candidate-vibid:1001000202308": 38,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 239,
-      "Колесников Виктор Михайлович": 82,
-      "Котляр Татьяна Михайловна": 84,
-      "Кузнецов Николай Николаевич": 49,
-      "Лизунов Игорь Константинович": 35,
-      "Махтей Владимир Викторович": 24,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000217924": 239,
+      "gas:candidate-vibid:340300170377": 82,
+      "gas:candidate-vibid:1001000113933": 84,
+      "gas:candidate-vibid:1001000136057": 49,
+      "gas:candidate-vibid:1001000250447": 35,
+      "gas:candidate-vibid:1001000202308": 24,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 374,
-      "Колесников Виктор Михайлович": 255,
-      "Котляр Татьяна Михайловна": 136,
-      "Кузнецов Николай Николаевич": 146,
-      "Лизунов Игорь Константинович": 96,
-      "Махтей Владимир Викторович": 51,
-      "Против всех": 385
+      "gas:candidate-vibid:1001000217924": 374,
+      "gas:candidate-vibid:340300170377": 255,
+      "gas:candidate-vibid:1001000113933": 136,
+      "gas:candidate-vibid:1001000136057": 146,
+      "gas:candidate-vibid:1001000250447": 96,
+      "gas:candidate-vibid:1001000202308": 51,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 404,
-      "Колесников Виктор Михайлович": 118,
-      "Котляр Татьяна Михайловна": 159,
-      "Кузнецов Николай Николаевич": 134,
-      "Лизунов Игорь Константинович": 85,
-      "Махтей Владимир Викторович": 45,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000217924": 404,
+      "gas:candidate-vibid:340300170377": 118,
+      "gas:candidate-vibid:1001000113933": 159,
+      "gas:candidate-vibid:1001000136057": 134,
+      "gas:candidate-vibid:1001000250447": 85,
+      "gas:candidate-vibid:1001000202308": 45,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 327,
-      "Колесников Виктор Михайлович": 220,
-      "Котляр Татьяна Михайловна": 320,
-      "Кузнецов Николай Николаевич": 100,
-      "Лизунов Игорь Константинович": 64,
-      "Махтей Владимир Викторович": 27,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000217924": 327,
+      "gas:candidate-vibid:340300170377": 220,
+      "gas:candidate-vibid:1001000113933": 320,
+      "gas:candidate-vibid:1001000136057": 100,
+      "gas:candidate-vibid:1001000250447": 64,
+      "gas:candidate-vibid:1001000202308": 27,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 247,
-      "Колесников Виктор Михайлович": 178,
-      "Котляр Татьяна Михайловна": 266,
-      "Кузнецов Николай Николаевич": 102,
-      "Лизунов Игорь Константинович": 60,
-      "Махтей Владимир Викторович": 21,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000217924": 247,
+      "gas:candidate-vibid:340300170377": 178,
+      "gas:candidate-vibid:1001000113933": 266,
+      "gas:candidate-vibid:1001000136057": 102,
+      "gas:candidate-vibid:1001000250447": 60,
+      "gas:candidate-vibid:1001000202308": 21,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 215,
-      "Колесников Виктор Михайлович": 152,
-      "Котляр Татьяна Михайловна": 87,
-      "Кузнецов Николай Николаевич": 39,
-      "Лизунов Игорь Константинович": 33,
-      "Махтей Владимир Викторович": 17,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000217924": 215,
+      "gas:candidate-vibid:340300170377": 152,
+      "gas:candidate-vibid:1001000113933": 87,
+      "gas:candidate-vibid:1001000136057": 39,
+      "gas:candidate-vibid:1001000250447": 33,
+      "gas:candidate-vibid:1001000202308": 17,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070675&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 57,
-      "Колесников Виктор Михайлович": 270,
-      "Котляр Татьяна Михайловна": 17,
-      "Кузнецов Николай Николаевич": 18,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 57,
+      "gas:candidate-vibid:340300170377": 270,
+      "gas:candidate-vibid:1001000113933": 17,
+      "gas:candidate-vibid:1001000136057": 18,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 190,
-      "Колесников Виктор Михайлович": 684,
-      "Котляр Татьяна Михайловна": 47,
-      "Кузнецов Николай Николаевич": 66,
-      "Лизунов Игорь Константинович": 12,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000217924": 190,
+      "gas:candidate-vibid:340300170377": 684,
+      "gas:candidate-vibid:1001000113933": 47,
+      "gas:candidate-vibid:1001000136057": 66,
+      "gas:candidate-vibid:1001000250447": 12,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 79,
-      "Колесников Виктор Михайлович": 124,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 10,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217924": 79,
+      "gas:candidate-vibid:340300170377": 124,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 10,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 33,
-      "Колесников Виктор Михайлович": 90,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 33,
+      "gas:candidate-vibid:340300170377": 90,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 20,
-      "Колесников Виктор Михайлович": 130,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 1,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 20,
+      "gas:candidate-vibid:340300170377": 130,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 1,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 33,
-      "Колесников Виктор Михайлович": 122,
-      "Котляр Татьяна Михайловна": 9,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 33,
+      "gas:candidate-vibid:340300170377": 122,
+      "gas:candidate-vibid:1001000113933": 9,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 13,
-      "Колесников Виктор Михайлович": 96,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 1,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 13,
+      "gas:candidate-vibid:340300170377": 96,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 1,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 54,
-      "Колесников Виктор Михайлович": 63,
-      "Котляр Татьяна Михайловна": 7,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 54,
+      "gas:candidate-vibid:340300170377": 63,
+      "gas:candidate-vibid:1001000113933": 7,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 14,
-      "Колесников Виктор Михайлович": 110,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 14,
+      "gas:candidate-vibid:340300170377": 110,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 16,
-      "Колесников Виктор Михайлович": 93,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 9,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 16,
+      "gas:candidate-vibid:340300170377": 93,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 9,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 16,
-      "Колесников Виктор Михайлович": 179,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 3,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 16,
+      "gas:candidate-vibid:340300170377": 179,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 3,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 28,
-      "Колесников Виктор Михайлович": 187,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 1,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217924": 28,
+      "gas:candidate-vibid:340300170377": 187,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 1,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 32,
-      "Колесников Виктор Михайлович": 105,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217924": 32,
+      "gas:candidate-vibid:340300170377": 105,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 11,
-      "Колесников Виктор Михайлович": 92,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 11,
+      "gas:candidate-vibid:340300170377": 92,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 6,
-      "Колесников Виктор Михайлович": 71,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 3,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 6,
+      "gas:candidate-vibid:340300170377": 71,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 3,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070677&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 157,
-      "Колесников Виктор Михайлович": 363,
-      "Котляр Татьяна Михайловна": 56,
-      "Кузнецов Николай Николаевич": 78,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000217924": 157,
+      "gas:candidate-vibid:340300170377": 363,
+      "gas:candidate-vibid:1001000113933": 56,
+      "gas:candidate-vibid:1001000136057": 78,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 45,
-      "Колесников Виктор Михайлович": 191,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 45,
+      "gas:candidate-vibid:340300170377": 191,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 57,
-      "Колесников Виктор Михайлович": 27,
-      "Котляр Татьяна Михайловна": 6,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 57,
+      "gas:candidate-vibid:340300170377": 27,
+      "gas:candidate-vibid:1001000113933": 6,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 43,
-      "Колесников Виктор Михайлович": 51,
-      "Котляр Татьяна Михайловна": 9,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217924": 43,
+      "gas:candidate-vibid:340300170377": 51,
+      "gas:candidate-vibid:1001000113933": 9,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 52,
-      "Колесников Виктор Михайлович": 90,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 11,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 52,
+      "gas:candidate-vibid:340300170377": 90,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 11,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 66,
-      "Колесников Виктор Михайлович": 76,
-      "Котляр Татьяна Михайловна": 16,
-      "Кузнецов Николай Николаевич": 13,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 66,
+      "gas:candidate-vibid:340300170377": 76,
+      "gas:candidate-vibid:1001000113933": 16,
+      "gas:candidate-vibid:1001000136057": 13,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 46,
-      "Колесников Виктор Михайлович": 42,
-      "Котляр Татьяна Михайловна": 4,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217924": 46,
+      "gas:candidate-vibid:340300170377": 42,
+      "gas:candidate-vibid:1001000113933": 4,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 34,
-      "Колесников Виктор Михайлович": 103,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 10,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217924": 34,
+      "gas:candidate-vibid:340300170377": 103,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 10,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 33,
-      "Колесников Виктор Михайлович": 109,
-      "Котляр Татьяна Михайловна": 4,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217924": 33,
+      "gas:candidate-vibid:340300170377": 109,
+      "gas:candidate-vibid:1001000113933": 4,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 82,
-      "Колесников Виктор Михайлович": 136,
-      "Котляр Татьяна Михайловна": 16,
-      "Кузнецов Николай Николаевич": 27,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217924": 82,
+      "gas:candidate-vibid:340300170377": 136,
+      "gas:candidate-vibid:1001000113933": 16,
+      "gas:candidate-vibid:1001000136057": 27,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 87,
-      "Колесников Виктор Михайлович": 120,
-      "Котляр Татьяна Михайловна": 8,
-      "Кузнецов Николай Николаевич": 9,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217924": 87,
+      "gas:candidate-vibid:340300170377": 120,
+      "gas:candidate-vibid:1001000113933": 8,
+      "gas:candidate-vibid:1001000136057": 9,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 159,
-      "Колесников Виктор Михайлович": 336,
-      "Котляр Татьяна Михайловна": 40,
-      "Кузнецов Николай Николаевич": 34,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000217924": 159,
+      "gas:candidate-vibid:340300170377": 336,
+      "gas:candidate-vibid:1001000113933": 40,
+      "gas:candidate-vibid:1001000136057": 34,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070680&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 331,
-      "Колесников Виктор Михайлович": 166,
-      "Котляр Татьяна Михайловна": 363,
-      "Кузнецов Николай Николаевич": 60,
-      "Лизунов Игорь Константинович": 50,
-      "Махтей Владимир Викторович": 31,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000217924": 331,
+      "gas:candidate-vibid:340300170377": 166,
+      "gas:candidate-vibid:1001000113933": 363,
+      "gas:candidate-vibid:1001000136057": 60,
+      "gas:candidate-vibid:1001000250447": 50,
+      "gas:candidate-vibid:1001000202308": 31,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 344,
-      "Колесников Виктор Михайлович": 290,
-      "Котляр Татьяна Михайловна": 307,
-      "Кузнецов Николай Николаевич": 71,
-      "Лизунов Игорь Константинович": 77,
-      "Махтей Владимир Викторович": 37,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000217924": 344,
+      "gas:candidate-vibid:340300170377": 290,
+      "gas:candidate-vibid:1001000113933": 307,
+      "gas:candidate-vibid:1001000136057": 71,
+      "gas:candidate-vibid:1001000250447": 77,
+      "gas:candidate-vibid:1001000202308": 37,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 262,
-      "Колесников Виктор Михайлович": 154,
-      "Котляр Татьяна Михайловна": 277,
-      "Кузнецов Николай Николаевич": 56,
-      "Лизунов Игорь Константинович": 52,
-      "Махтей Владимир Викторович": 20,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000217924": 262,
+      "gas:candidate-vibid:340300170377": 154,
+      "gas:candidate-vibid:1001000113933": 277,
+      "gas:candidate-vibid:1001000136057": 56,
+      "gas:candidate-vibid:1001000250447": 52,
+      "gas:candidate-vibid:1001000202308": 20,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 63,
-      "Колесников Виктор Михайлович": 73,
-      "Котляр Татьяна Михайловна": 58,
-      "Кузнецов Николай Николаевич": 26,
-      "Лизунов Игорь Константинович": 14,
-      "Махтей Владимир Викторович": 11,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000217924": 63,
+      "gas:candidate-vibid:340300170377": 73,
+      "gas:candidate-vibid:1001000113933": 58,
+      "gas:candidate-vibid:1001000136057": 26,
+      "gas:candidate-vibid:1001000250447": 14,
+      "gas:candidate-vibid:1001000202308": 11,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 278,
-      "Колесников Виктор Михайлович": 264,
-      "Котляр Татьяна Михайловна": 179,
-      "Кузнецов Николай Николаевич": 82,
-      "Лизунов Игорь Константинович": 81,
-      "Махтей Владимир Викторович": 18,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000217924": 278,
+      "gas:candidate-vibid:340300170377": 264,
+      "gas:candidate-vibid:1001000113933": 179,
+      "gas:candidate-vibid:1001000136057": 82,
+      "gas:candidate-vibid:1001000250447": 81,
+      "gas:candidate-vibid:1001000202308": 18,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 169,
-      "Колесников Виктор Михайлович": 172,
-      "Котляр Татьяна Михайловна": 150,
-      "Кузнецов Николай Николаевич": 44,
-      "Лизунов Игорь Константинович": 21,
-      "Махтей Владимир Викторович": 15,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000217924": 169,
+      "gas:candidate-vibid:340300170377": 172,
+      "gas:candidate-vibid:1001000113933": 150,
+      "gas:candidate-vibid:1001000136057": 44,
+      "gas:candidate-vibid:1001000250447": 21,
+      "gas:candidate-vibid:1001000202308": 15,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 107,
-      "Колесников Виктор Михайлович": 111,
-      "Котляр Татьяна Михайловна": 91,
-      "Кузнецов Николай Николаевич": 36,
-      "Лизунов Игорь Константинович": 17,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000217924": 107,
+      "gas:candidate-vibid:340300170377": 111,
+      "gas:candidate-vibid:1001000113933": 91,
+      "gas:candidate-vibid:1001000136057": 36,
+      "gas:candidate-vibid:1001000250447": 17,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 12,
-      "Колесников Виктор Михайлович": 50,
-      "Котляр Татьяна Михайловна": 20,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 15,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217924": 12,
+      "gas:candidate-vibid:340300170377": 50,
+      "gas:candidate-vibid:1001000113933": 20,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 15,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 7,
-      "Колесников Виктор Михайлович": 37,
-      "Котляр Татьяна Михайловна": 5,
-      "Кузнецов Николай Николаевич": 3,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000217924": 7,
+      "gas:candidate-vibid:340300170377": 37,
+      "gas:candidate-vibid:1001000113933": 5,
+      "gas:candidate-vibid:1001000136057": 3,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 18,
-      "Колесников Виктор Михайлович": 72,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 18,
+      "gas:candidate-vibid:340300170377": 72,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 31,
-      "Колесников Виктор Михайлович": 67,
-      "Котляр Татьяна Михайловна": 34,
-      "Кузнецов Николай Николаевич": 14,
-      "Лизунов Игорь Константинович": 6,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217924": 31,
+      "gas:candidate-vibid:340300170377": 67,
+      "gas:candidate-vibid:1001000113933": 34,
+      "gas:candidate-vibid:1001000136057": 14,
+      "gas:candidate-vibid:1001000250447": 6,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 41,
-      "Колесников Виктор Михайлович": 128,
-      "Котляр Татьяна Михайловна": 24,
-      "Кузнецов Николай Николаевич": 27,
-      "Лизунов Игорь Константинович": 18,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217924": 41,
+      "gas:candidate-vibid:340300170377": 128,
+      "gas:candidate-vibid:1001000113933": 24,
+      "gas:candidate-vibid:1001000136057": 27,
+      "gas:candidate-vibid:1001000250447": 18,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 55,
-      "Колесников Виктор Михайлович": 117,
-      "Котляр Татьяна Михайловна": 17,
-      "Кузнецов Николай Николаевич": 12,
-      "Лизунов Игорь Константинович": 9,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217924": 55,
+      "gas:candidate-vibid:340300170377": 117,
+      "gas:candidate-vibid:1001000113933": 17,
+      "gas:candidate-vibid:1001000136057": 12,
+      "gas:candidate-vibid:1001000250447": 9,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 42,
-      "Колесников Виктор Михайлович": 17,
-      "Котляр Татьяна Михайловна": 20,
-      "Кузнецов Николай Николаевич": 14,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000217924": 42,
+      "gas:candidate-vibid:340300170377": 17,
+      "gas:candidate-vibid:1001000113933": 20,
+      "gas:candidate-vibid:1001000136057": 14,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 58,
-      "Колесников Виктор Михайлович": 112,
-      "Котляр Татьяна Михайловна": 27,
-      "Кузнецов Николай Николаевич": 22,
-      "Лизунов Игорь Константинович": 13,
-      "Махтей Владимир Викторович": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000217924": 58,
+      "gas:candidate-vibid:340300170377": 112,
+      "gas:candidate-vibid:1001000113933": 27,
+      "gas:candidate-vibid:1001000136057": 22,
+      "gas:candidate-vibid:1001000250447": 13,
+      "gas:candidate-vibid:1001000202308": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 17,
-      "Колесников Виктор Михайлович": 62,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 10,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217924": 17,
+      "gas:candidate-vibid:340300170377": 62,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 10,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 226,
-      "Колесников Виктор Михайлович": 255,
-      "Котляр Татьяна Михайловна": 98,
-      "Кузнецов Николай Николаевич": 129,
-      "Лизунов Игорь Константинович": 21,
-      "Махтей Владимир Викторович": 12,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000217924": 226,
+      "gas:candidate-vibid:340300170377": 255,
+      "gas:candidate-vibid:1001000113933": 98,
+      "gas:candidate-vibid:1001000136057": 129,
+      "gas:candidate-vibid:1001000250447": 21,
+      "gas:candidate-vibid:1001000202308": 12,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 57,
-      "Колесников Виктор Михайлович": 41,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 37,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217924": 57,
+      "gas:candidate-vibid:340300170377": 41,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 37,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 21,
-      "Колесников Виктор Михайлович": 13,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 0,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 21,
+      "gas:candidate-vibid:340300170377": 13,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 0,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 74,
-      "Колесников Виктор Михайлович": 167,
-      "Котляр Татьяна Михайловна": 21,
-      "Кузнецов Николай Николаевич": 23,
-      "Лизунов Игорь Константинович": 18,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000217924": 74,
+      "gas:candidate-vibid:340300170377": 167,
+      "gas:candidate-vibid:1001000113933": 21,
+      "gas:candidate-vibid:1001000136057": 23,
+      "gas:candidate-vibid:1001000250447": 18,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 67,
-      "Колесников Виктор Михайлович": 186,
-      "Котляр Татьяна Михайловна": 19,
-      "Кузнецов Николай Николаевич": 22,
-      "Лизунов Игорь Константинович": 7,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000217924": 67,
+      "gas:candidate-vibid:340300170377": 186,
+      "gas:candidate-vibid:1001000113933": 19,
+      "gas:candidate-vibid:1001000136057": 22,
+      "gas:candidate-vibid:1001000250447": 7,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 69,
-      "Колесников Виктор Михайлович": 125,
-      "Котляр Татьяна Михайловна": 15,
-      "Кузнецов Николай Николаевич": 10,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217924": 69,
+      "gas:candidate-vibid:340300170377": 125,
+      "gas:candidate-vibid:1001000113933": 15,
+      "gas:candidate-vibid:1001000136057": 10,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 45,
-      "Колесников Виктор Михайлович": 101,
-      "Котляр Татьяна Михайловна": 24,
-      "Кузнецов Николай Николаевич": 35,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000217924": 45,
+      "gas:candidate-vibid:340300170377": 101,
+      "gas:candidate-vibid:1001000113933": 24,
+      "gas:candidate-vibid:1001000136057": 35,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 102,
-      "Колесников Виктор Михайлович": 94,
-      "Котляр Татьяна Михайловна": 52,
-      "Кузнецов Николай Николаевич": 16,
-      "Лизунов Игорь Константинович": 30,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000217924": 102,
+      "gas:candidate-vibid:340300170377": 94,
+      "gas:candidate-vibid:1001000113933": 52,
+      "gas:candidate-vibid:1001000136057": 16,
+      "gas:candidate-vibid:1001000250447": 30,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 74,
-      "Колесников Виктор Михайлович": 80,
-      "Котляр Татьяна Михайловна": 162,
-      "Кузнецов Николай Николаевич": 24,
-      "Лизунов Игорь Константинович": 23,
-      "Махтей Владимир Викторович": 11,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000217924": 74,
+      "gas:candidate-vibid:340300170377": 80,
+      "gas:candidate-vibid:1001000113933": 162,
+      "gas:candidate-vibid:1001000136057": 24,
+      "gas:candidate-vibid:1001000250447": 23,
+      "gas:candidate-vibid:1001000202308": 11,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 94,
-      "Колесников Виктор Михайлович": 152,
-      "Котляр Татьяна Михайловна": 155,
-      "Кузнецов Николай Николаевич": 23,
-      "Лизунов Игорь Константинович": 24,
-      "Махтей Владимир Викторович": 11,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000217924": 94,
+      "gas:candidate-vibid:340300170377": 152,
+      "gas:candidate-vibid:1001000113933": 155,
+      "gas:candidate-vibid:1001000136057": 23,
+      "gas:candidate-vibid:1001000250447": 24,
+      "gas:candidate-vibid:1001000202308": 11,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 84,
-      "Колесников Виктор Михайлович": 194,
-      "Котляр Татьяна Михайловна": 154,
-      "Кузнецов Николай Николаевич": 25,
-      "Лизунов Игорь Константинович": 20,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000217924": 84,
+      "gas:candidate-vibid:340300170377": 194,
+      "gas:candidate-vibid:1001000113933": 154,
+      "gas:candidate-vibid:1001000136057": 25,
+      "gas:candidate-vibid:1001000250447": 20,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 74,
-      "Колесников Виктор Михайлович": 116,
-      "Котляр Татьяна Михайловна": 168,
-      "Кузнецов Николай Николаевич": 40,
-      "Лизунов Игорь Константинович": 20,
-      "Махтей Владимир Викторович": 12,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000217924": 74,
+      "gas:candidate-vibid:340300170377": 116,
+      "gas:candidate-vibid:1001000113933": 168,
+      "gas:candidate-vibid:1001000136057": 40,
+      "gas:candidate-vibid:1001000250447": 20,
+      "gas:candidate-vibid:1001000202308": 12,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 78,
-      "Колесников Виктор Михайлович": 155,
-      "Котляр Татьяна Михайловна": 148,
-      "Кузнецов Николай Николаевич": 27,
-      "Лизунов Игорь Константинович": 22,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000217924": 78,
+      "gas:candidate-vibid:340300170377": 155,
+      "gas:candidate-vibid:1001000113933": 148,
+      "gas:candidate-vibid:1001000136057": 27,
+      "gas:candidate-vibid:1001000250447": 22,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 103,
-      "Колесников Виктор Михайлович": 107,
-      "Котляр Татьяна Михайловна": 161,
-      "Кузнецов Николай Николаевич": 37,
-      "Лизунов Игорь Константинович": 25,
-      "Махтей Владимир Викторович": 13,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217924": 103,
+      "gas:candidate-vibid:340300170377": 107,
+      "gas:candidate-vibid:1001000113933": 161,
+      "gas:candidate-vibid:1001000136057": 37,
+      "gas:candidate-vibid:1001000250447": 25,
+      "gas:candidate-vibid:1001000202308": 13,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 243,
-      "Колесников Виктор Михайлович": 254,
-      "Котляр Татьяна Михайловна": 127,
-      "Кузнецов Николай Николаевич": 126,
-      "Лизунов Игорь Константинович": 67,
-      "Махтей Владимир Викторович": 59,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000217924": 243,
+      "gas:candidate-vibid:340300170377": 254,
+      "gas:candidate-vibid:1001000113933": 127,
+      "gas:candidate-vibid:1001000136057": 126,
+      "gas:candidate-vibid:1001000250447": 67,
+      "gas:candidate-vibid:1001000202308": 59,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 275,
-      "Колесников Виктор Михайлович": 286,
-      "Котляр Татьяна Михайловна": 125,
-      "Кузнецов Николай Николаевич": 93,
-      "Лизунов Игорь Константинович": 38,
-      "Махтей Владимир Викторович": 40,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000217924": 275,
+      "gas:candidate-vibid:340300170377": 286,
+      "gas:candidate-vibid:1001000113933": 125,
+      "gas:candidate-vibid:1001000136057": 93,
+      "gas:candidate-vibid:1001000250447": 38,
+      "gas:candidate-vibid:1001000202308": 40,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 222,
-      "Колесников Виктор Михайлович": 287,
-      "Котляр Татьяна Михайловна": 114,
-      "Кузнецов Николай Николаевич": 74,
-      "Лизунов Игорь Константинович": 37,
-      "Махтей Владимир Викторович": 28,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000217924": 222,
+      "gas:candidate-vibid:340300170377": 287,
+      "gas:candidate-vibid:1001000113933": 114,
+      "gas:candidate-vibid:1001000136057": 74,
+      "gas:candidate-vibid:1001000250447": 37,
+      "gas:candidate-vibid:1001000202308": 28,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 243,
-      "Колесников Виктор Михайлович": 286,
-      "Котляр Татьяна Михайловна": 196,
-      "Кузнецов Николай Николаевич": 122,
-      "Лизунов Игорь Константинович": 51,
-      "Махтей Владимир Викторович": 62,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000217924": 243,
+      "gas:candidate-vibid:340300170377": 286,
+      "gas:candidate-vibid:1001000113933": 196,
+      "gas:candidate-vibid:1001000136057": 122,
+      "gas:candidate-vibid:1001000250447": 51,
+      "gas:candidate-vibid:1001000202308": 62,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070681&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 198,
-      "Колесников Виктор Михайлович": 712,
-      "Котляр Татьяна Михайловна": 81,
-      "Кузнецов Николай Николаевич": 116,
-      "Лизунов Игорь Константинович": 33,
-      "Махтей Владимир Викторович": 25,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000217924": 198,
+      "gas:candidate-vibid:340300170377": 712,
+      "gas:candidate-vibid:1001000113933": 81,
+      "gas:candidate-vibid:1001000136057": 116,
+      "gas:candidate-vibid:1001000250447": 33,
+      "gas:candidate-vibid:1001000202308": 25,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 7,
-      "Колесников Виктор Михайлович": 139,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 7,
+      "gas:candidate-vibid:340300170377": 139,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 65,
-      "Колесников Виктор Михайлович": 1013,
-      "Котляр Татьяна Михайловна": 89,
-      "Кузнецов Николай Николаевич": 27,
-      "Лизунов Игорь Константинович": 15,
-      "Махтей Владимир Викторович": 22,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000217924": 65,
+      "gas:candidate-vibid:340300170377": 1013,
+      "gas:candidate-vibid:1001000113933": 89,
+      "gas:candidate-vibid:1001000136057": 27,
+      "gas:candidate-vibid:1001000250447": 15,
+      "gas:candidate-vibid:1001000202308": 22,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 17,
-      "Колесников Виктор Михайлович": 154,
-      "Котляр Татьяна Михайловна": 6,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 17,
+      "gas:candidate-vibid:340300170377": 154,
+      "gas:candidate-vibid:1001000113933": 6,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 20,
-      "Колесников Виктор Михайлович": 102,
-      "Котляр Татьяна Михайловна": 9,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 20,
+      "gas:candidate-vibid:340300170377": 102,
+      "gas:candidate-vibid:1001000113933": 9,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 3,
-      "Колесников Виктор Михайлович": 198,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 0,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217924": 3,
+      "gas:candidate-vibid:340300170377": 198,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 0,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 2,
-      "Колесников Виктор Михайлович": 71,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 0,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217924": 2,
+      "gas:candidate-vibid:340300170377": 71,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 0,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 14,
-      "Колесников Виктор Михайлович": 118,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 14,
+      "gas:candidate-vibid:340300170377": 118,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 22,
-      "Колесников Виктор Михайлович": 120,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 1,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217924": 22,
+      "gas:candidate-vibid:340300170377": 120,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 1,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 18,
-      "Колесников Виктор Михайлович": 280,
-      "Котляр Татьяна Михайловна": 7,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217924": 18,
+      "gas:candidate-vibid:340300170377": 280,
+      "gas:candidate-vibid:1001000113933": 7,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 13,
-      "Колесников Виктор Михайлович": 144,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217924": 13,
+      "gas:candidate-vibid:340300170377": 144,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 2,
-      "Колесников Виктор Михайлович": 56,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 3,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217924": 2,
+      "gas:candidate-vibid:340300170377": 56,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 3,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 31,
-      "Колесников Виктор Михайлович": 236,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 10,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217924": 31,
+      "gas:candidate-vibid:340300170377": 236,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 10,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 10,
-      "Колесников Виктор Михайлович": 50,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 10,
+      "gas:candidate-vibid:340300170377": 50,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 328,
-      "Колесников Виктор Михайлович": 543,
-      "Котляр Татьяна Михайловна": 91,
-      "Кузнецов Николай Николаевич": 93,
-      "Лизунов Игорь Константинович": 25,
-      "Махтей Владимир Викторович": 11,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000217924": 328,
+      "gas:candidate-vibid:340300170377": 543,
+      "gas:candidate-vibid:1001000113933": 91,
+      "gas:candidate-vibid:1001000136057": 93,
+      "gas:candidate-vibid:1001000250447": 25,
+      "gas:candidate-vibid:1001000202308": 11,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 156,
-      "Колесников Виктор Михайлович": 216,
-      "Котляр Татьяна Михайловна": 32,
-      "Кузнецов Николай Николаевич": 32,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000217924": 156,
+      "gas:candidate-vibid:340300170377": 216,
+      "gas:candidate-vibid:1001000113933": 32,
+      "gas:candidate-vibid:1001000136057": 32,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 25,
-      "Колесников Виктор Михайлович": 51,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217924": 25,
+      "gas:candidate-vibid:340300170377": 51,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 28,
-      "Колесников Виктор Михайлович": 145,
-      "Котляр Татьяна Михайловна": 5,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 28,
+      "gas:candidate-vibid:340300170377": 145,
+      "gas:candidate-vibid:1001000113933": 5,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 40,
-      "Колесников Виктор Михайлович": 203,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 40,
+      "gas:candidate-vibid:340300170377": 203,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 21,
-      "Колесников Виктор Михайлович": 253,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217924": 21,
+      "gas:candidate-vibid:340300170377": 253,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 25,
-      "Колесников Виктор Михайлович": 74,
-      "Котляр Татьяна Михайловна": 9,
-      "Кузнецов Николай Николаевич": 9,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217924": 25,
+      "gas:candidate-vibid:340300170377": 74,
+      "gas:candidate-vibid:1001000113933": 9,
+      "gas:candidate-vibid:1001000136057": 9,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 75,
-      "Колесников Виктор Михайлович": 651,
-      "Котляр Татьяна Михайловна": 114,
-      "Кузнецов Николай Николаевич": 48,
-      "Лизунов Игорь Константинович": 16,
-      "Махтей Владимир Викторович": 12,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000217924": 75,
+      "gas:candidate-vibid:340300170377": 651,
+      "gas:candidate-vibid:1001000113933": 114,
+      "gas:candidate-vibid:1001000136057": 48,
+      "gas:candidate-vibid:1001000250447": 16,
+      "gas:candidate-vibid:1001000202308": 12,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 153,
-      "Колесников Виктор Михайлович": 782,
-      "Котляр Татьяна Михайловна": 38,
-      "Кузнецов Николай Николаевич": 21,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000217924": 153,
+      "gas:candidate-vibid:340300170377": 782,
+      "gas:candidate-vibid:1001000113933": 38,
+      "gas:candidate-vibid:1001000136057": 21,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 94,
-      "Колесников Виктор Михайлович": 653,
-      "Котляр Татьяна Михайловна": 42,
-      "Кузнецов Николай Николаевич": 32,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000217924": 94,
+      "gas:candidate-vibid:340300170377": 653,
+      "gas:candidate-vibid:1001000113933": 42,
+      "gas:candidate-vibid:1001000136057": 32,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 102,
-      "Колесников Виктор Михайлович": 870,
-      "Котляр Татьяна Михайловна": 42,
-      "Кузнецов Николай Николаевич": 33,
-      "Лизунов Игорь Константинович": 12,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000217924": 102,
+      "gas:candidate-vibid:340300170377": 870,
+      "gas:candidate-vibid:1001000113933": 42,
+      "gas:candidate-vibid:1001000136057": 33,
+      "gas:candidate-vibid:1001000250447": 12,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 51,
-      "Колесников Виктор Михайлович": 416,
-      "Котляр Татьяна Михайловна": 24,
-      "Кузнецов Николай Николаевич": 17,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000217924": 51,
+      "gas:candidate-vibid:340300170377": 416,
+      "gas:candidate-vibid:1001000113933": 24,
+      "gas:candidate-vibid:1001000136057": 17,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 105,
-      "Колесников Виктор Михайлович": 739,
-      "Котляр Татьяна Михайловна": 41,
-      "Кузнецов Николай Николаевич": 30,
-      "Лизунов Игорь Константинович": 7,
-      "Махтей Владимир Викторович": 10,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000217924": 105,
+      "gas:candidate-vibid:340300170377": 739,
+      "gas:candidate-vibid:1001000113933": 41,
+      "gas:candidate-vibid:1001000136057": 30,
+      "gas:candidate-vibid:1001000250447": 7,
+      "gas:candidate-vibid:1001000202308": 10,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 51,
-      "Колесников Виктор Михайлович": 251,
-      "Котляр Татьяна Михайловна": 22,
-      "Кузнецов Николай Николаевич": 24,
-      "Лизунов Игорь Константинович": 5,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217924": 51,
+      "gas:candidate-vibid:340300170377": 251,
+      "gas:candidate-vibid:1001000113933": 22,
+      "gas:candidate-vibid:1001000136057": 24,
+      "gas:candidate-vibid:1001000250447": 5,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 109,
-      "Колесников Виктор Михайлович": 609,
-      "Котляр Татьяна Михайловна": 44,
-      "Кузнецов Николай Николаевич": 32,
-      "Лизунов Игорь Константинович": 14,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217924": 109,
+      "gas:candidate-vibid:340300170377": 609,
+      "gas:candidate-vibid:1001000113933": 44,
+      "gas:candidate-vibid:1001000136057": 32,
+      "gas:candidate-vibid:1001000250447": 14,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 160,
-      "Колесников Виктор Михайлович": 560,
-      "Котляр Татьяна Михайловна": 83,
-      "Кузнецов Николай Николаевич": 48,
-      "Лизунов Игорь Константинович": 5,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000217924": 160,
+      "gas:candidate-vibid:340300170377": 560,
+      "gas:candidate-vibid:1001000113933": 83,
+      "gas:candidate-vibid:1001000136057": 48,
+      "gas:candidate-vibid:1001000250447": 5,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 89,
-      "Колесников Виктор Михайлович": 621,
-      "Котляр Татьяна Михайловна": 99,
-      "Кузнецов Николай Николаевич": 51,
-      "Лизунов Игорь Константинович": 9,
-      "Махтей Владимир Викторович": 10,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000217924": 89,
+      "gas:candidate-vibid:340300170377": 621,
+      "gas:candidate-vibid:1001000113933": 99,
+      "gas:candidate-vibid:1001000136057": 51,
+      "gas:candidate-vibid:1001000250447": 9,
+      "gas:candidate-vibid:1001000202308": 10,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 191,
-      "Колесников Виктор Михайлович": 410,
-      "Котляр Татьяна Михайловна": 139,
-      "Кузнецов Николай Николаевич": 41,
-      "Лизунов Игорь Константинович": 25,
-      "Махтей Владимир Викторович": 7,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000217924": 191,
+      "gas:candidate-vibid:340300170377": 410,
+      "gas:candidate-vibid:1001000113933": 139,
+      "gas:candidate-vibid:1001000136057": 41,
+      "gas:candidate-vibid:1001000250447": 25,
+      "gas:candidate-vibid:1001000202308": 7,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 112,
-      "Колесников Виктор Михайлович": 387,
-      "Котляр Татьяна Михайловна": 197,
-      "Кузнецов Николай Николаевич": 60,
-      "Лизунов Игорь Константинович": 16,
-      "Махтей Владимир Викторович": 17,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000217924": 112,
+      "gas:candidate-vibid:340300170377": 387,
+      "gas:candidate-vibid:1001000113933": 197,
+      "gas:candidate-vibid:1001000136057": 60,
+      "gas:candidate-vibid:1001000250447": 16,
+      "gas:candidate-vibid:1001000202308": 17,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 163,
-      "Колесников Виктор Михайлович": 315,
-      "Котляр Татьяна Михайловна": 198,
-      "Кузнецов Николай Николаевич": 40,
-      "Лизунов Игорь Константинович": 24,
-      "Махтей Владимир Викторович": 18,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000217924": 163,
+      "gas:candidate-vibid:340300170377": 315,
+      "gas:candidate-vibid:1001000113933": 198,
+      "gas:candidate-vibid:1001000136057": 40,
+      "gas:candidate-vibid:1001000250447": 24,
+      "gas:candidate-vibid:1001000202308": 18,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 151,
-      "Колесников Виктор Михайлович": 395,
-      "Котляр Татьяна Михайловна": 164,
-      "Кузнецов Николай Николаевич": 54,
-      "Лизунов Игорь Константинович": 27,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000217924": 151,
+      "gas:candidate-vibid:340300170377": 395,
+      "gas:candidate-vibid:1001000113933": 164,
+      "gas:candidate-vibid:1001000136057": 54,
+      "gas:candidate-vibid:1001000250447": 27,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 76,
-      "Колесников Виктор Михайлович": 309,
-      "Котляр Татьяна Михайловна": 69,
-      "Кузнецов Николай Николаевич": 46,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 10,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000217924": 76,
+      "gas:candidate-vibid:340300170377": 309,
+      "gas:candidate-vibid:1001000113933": 69,
+      "gas:candidate-vibid:1001000136057": 46,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 10,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 53,
-      "Колесников Виктор Михайлович": 236,
-      "Котляр Татьяна Михайловна": 95,
-      "Кузнецов Николай Николаевич": 23,
-      "Лизунов Игорь Константинович": 12,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000217924": 53,
+      "gas:candidate-vibid:340300170377": 236,
+      "gas:candidate-vibid:1001000113933": 95,
+      "gas:candidate-vibid:1001000136057": 23,
+      "gas:candidate-vibid:1001000250447": 12,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 16,
-      "Колесников Виктор Михайлович": 390,
-      "Котляр Татьяна Михайловна": 8,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217924": 16,
+      "gas:candidate-vibid:340300170377": 390,
+      "gas:candidate-vibid:1001000113933": 8,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 15,
-      "Колесников Виктор Михайлович": 159,
-      "Котляр Татьяна Михайловна": 7,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217924": 15,
+      "gas:candidate-vibid:340300170377": 159,
+      "gas:candidate-vibid:1001000113933": 7,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 23,
-      "Колесников Виктор Михайлович": 188,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 18,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000217924": 23,
+      "gas:candidate-vibid:340300170377": 188,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 18,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 9,
-      "Колесников Виктор Михайлович": 102,
-      "Котляр Татьяна Михайловна": 5,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217924": 9,
+      "gas:candidate-vibid:340300170377": 102,
+      "gas:candidate-vibid:1001000113933": 5,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 8,
-      "Колесников Виктор Михайлович": 96,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217924": 8,
+      "gas:candidate-vibid:340300170377": 96,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 474,
-      "Колесников Виктор Михайлович": 236,
-      "Котляр Татьяна Михайловна": 138,
-      "Кузнецов Николай Николаевич": 341,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 48,
-      "Против всех": 389
+      "gas:candidate-vibid:1001000217924": 474,
+      "gas:candidate-vibid:340300170377": 236,
+      "gas:candidate-vibid:1001000113933": 138,
+      "gas:candidate-vibid:1001000136057": 341,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 48,
+      "special:against-all": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 1773,
-      "Колесников Виктор Михайлович": 345,
-      "Котляр Татьяна Михайловна": 199,
-      "Кузнецов Николай Николаевич": 476,
-      "Лизунов Игорь Константинович": 136,
-      "Махтей Владимир Викторович": 75,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000217924": 1773,
+      "gas:candidate-vibid:340300170377": 345,
+      "gas:candidate-vibid:1001000113933": 199,
+      "gas:candidate-vibid:1001000136057": 476,
+      "gas:candidate-vibid:1001000250447": 136,
+      "gas:candidate-vibid:1001000202308": 75,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 1286,
-      "Колесников Виктор Михайлович": 143,
-      "Котляр Татьяна Михайловна": 106,
-      "Кузнецов Николай Николаевич": 297,
-      "Лизунов Игорь Константинович": 94,
-      "Махтей Владимир Викторович": 42,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000217924": 1286,
+      "gas:candidate-vibid:340300170377": 143,
+      "gas:candidate-vibid:1001000113933": 106,
+      "gas:candidate-vibid:1001000136057": 297,
+      "gas:candidate-vibid:1001000250447": 94,
+      "gas:candidate-vibid:1001000202308": 42,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 2475,
-      "Колесников Виктор Михайлович": 386,
-      "Котляр Татьяна Михайловна": 241,
-      "Кузнецов Николай Николаевич": 569,
-      "Лизунов Игорь Константинович": 154,
-      "Махтей Владимир Викторович": 78,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000217924": 2475,
+      "gas:candidate-vibid:340300170377": 386,
+      "gas:candidate-vibid:1001000113933": 241,
+      "gas:candidate-vibid:1001000136057": 569,
+      "gas:candidate-vibid:1001000250447": 154,
+      "gas:candidate-vibid:1001000202308": 78,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 330,
-      "Колесников Виктор Михайлович": 34,
-      "Котляр Татьяна Михайловна": 44,
-      "Кузнецов Николай Николаевич": 84,
-      "Лизунов Игорь Константинович": 27,
-      "Махтей Владимир Викторович": 13,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000217924": 330,
+      "gas:candidate-vibid:340300170377": 34,
+      "gas:candidate-vibid:1001000113933": 44,
+      "gas:candidate-vibid:1001000136057": 84,
+      "gas:candidate-vibid:1001000250447": 27,
+      "gas:candidate-vibid:1001000202308": 13,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 436,
-      "Колесников Виктор Михайлович": 106,
-      "Котляр Татьяна Михайловна": 36,
-      "Кузнецов Николай Николаевич": 80,
-      "Лизунов Игорь Константинович": 16,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217924": 436,
+      "gas:candidate-vibid:340300170377": 106,
+      "gas:candidate-vibid:1001000113933": 36,
+      "gas:candidate-vibid:1001000136057": 80,
+      "gas:candidate-vibid:1001000250447": 16,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070684&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 129,
-      "Колесников Виктор Михайлович": 28,
-      "Котляр Татьяна Михайловна": 280,
-      "Кузнецов Николай Николаевич": 16,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 20,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000217924": 129,
+      "gas:candidate-vibid:340300170377": 28,
+      "gas:candidate-vibid:1001000113933": 280,
+      "gas:candidate-vibid:1001000136057": 16,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 20,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 89,
-      "Колесников Виктор Михайлович": 27,
-      "Котляр Татьяна Михайловна": 128,
-      "Кузнецов Николай Николаевич": 11,
-      "Лизунов Игорь Константинович": 9,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000217924": 89,
+      "gas:candidate-vibid:340300170377": 27,
+      "gas:candidate-vibid:1001000113933": 128,
+      "gas:candidate-vibid:1001000136057": 11,
+      "gas:candidate-vibid:1001000250447": 9,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 256,
-      "Колесников Виктор Михайлович": 77,
-      "Котляр Татьяна Михайловна": 464,
-      "Кузнецов Николай Николаевич": 22,
-      "Лизунов Игорь Константинович": 29,
-      "Махтей Владимир Викторович": 15,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000217924": 256,
+      "gas:candidate-vibid:340300170377": 77,
+      "gas:candidate-vibid:1001000113933": 464,
+      "gas:candidate-vibid:1001000136057": 22,
+      "gas:candidate-vibid:1001000250447": 29,
+      "gas:candidate-vibid:1001000202308": 15,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 278,
-      "Колесников Виктор Михайлович": 83,
-      "Котляр Татьяна Михайловна": 362,
-      "Кузнецов Николай Николаевич": 19,
-      "Лизунов Игорь Константинович": 39,
-      "Махтей Владимир Викторович": 24,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000217924": 278,
+      "gas:candidate-vibid:340300170377": 83,
+      "gas:candidate-vibid:1001000113933": 362,
+      "gas:candidate-vibid:1001000136057": 19,
+      "gas:candidate-vibid:1001000250447": 39,
+      "gas:candidate-vibid:1001000202308": 24,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 409,
-      "Колесников Виктор Михайлович": 126,
-      "Котляр Татьяна Михайловна": 661,
-      "Кузнецов Николай Николаевич": 68,
-      "Лизунов Игорь Константинович": 66,
-      "Махтей Владимир Викторович": 41,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000217924": 409,
+      "gas:candidate-vibid:340300170377": 126,
+      "gas:candidate-vibid:1001000113933": 661,
+      "gas:candidate-vibid:1001000136057": 68,
+      "gas:candidate-vibid:1001000250447": 66,
+      "gas:candidate-vibid:1001000202308": 41,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 254,
-      "Колесников Виктор Михайлович": 157,
-      "Котляр Татьяна Михайловна": 512,
-      "Кузнецов Николай Николаевич": 34,
-      "Лизунов Игорь Константинович": 42,
-      "Махтей Владимир Викторович": 24,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000217924": 254,
+      "gas:candidate-vibid:340300170377": 157,
+      "gas:candidate-vibid:1001000113933": 512,
+      "gas:candidate-vibid:1001000136057": 34,
+      "gas:candidate-vibid:1001000250447": 42,
+      "gas:candidate-vibid:1001000202308": 24,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 48,
-      "Колесников Виктор Михайлович": 40,
-      "Котляр Татьяна Михайловна": 126,
-      "Кузнецов Николай Николаевич": 23,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 13,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000217924": 48,
+      "gas:candidate-vibid:340300170377": 40,
+      "gas:candidate-vibid:1001000113933": 126,
+      "gas:candidate-vibid:1001000136057": 23,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 13,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 231,
-      "Колесников Виктор Михайлович": 111,
-      "Котляр Татьяна Михайловна": 439,
-      "Кузнецов Николай Николаевич": 24,
-      "Лизунов Игорь Константинович": 29,
-      "Махтей Владимир Викторович": 14,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000217924": 231,
+      "gas:candidate-vibid:340300170377": 111,
+      "gas:candidate-vibid:1001000113933": 439,
+      "gas:candidate-vibid:1001000136057": 24,
+      "gas:candidate-vibid:1001000250447": 29,
+      "gas:candidate-vibid:1001000202308": 14,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 304,
-      "Колесников Виктор Михайлович": 84,
-      "Котляр Татьяна Михайловна": 496,
-      "Кузнецов Николай Николаевич": 34,
-      "Лизунов Игорь Константинович": 27,
-      "Махтей Владимир Викторович": 22,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000217924": 304,
+      "gas:candidate-vibid:340300170377": 84,
+      "gas:candidate-vibid:1001000113933": 496,
+      "gas:candidate-vibid:1001000136057": 34,
+      "gas:candidate-vibid:1001000250447": 27,
+      "gas:candidate-vibid:1001000202308": 22,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 41,
-      "Колесников Виктор Михайлович": 15,
-      "Котляр Татьяна Михайловна": 68,
-      "Кузнецов Николай Николаевич": 10,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217924": 41,
+      "gas:candidate-vibid:340300170377": 15,
+      "gas:candidate-vibid:1001000113933": 68,
+      "gas:candidate-vibid:1001000136057": 10,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 278,
-      "Колесников Виктор Михайлович": 133,
-      "Котляр Татьяна Михайловна": 486,
-      "Кузнецов Николай Николаевич": 36,
-      "Лизунов Игорь Константинович": 40,
-      "Махтей Владимир Викторович": 22,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000217924": 278,
+      "gas:candidate-vibid:340300170377": 133,
+      "gas:candidate-vibid:1001000113933": 486,
+      "gas:candidate-vibid:1001000136057": 36,
+      "gas:candidate-vibid:1001000250447": 40,
+      "gas:candidate-vibid:1001000202308": 22,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 287,
-      "Колесников Виктор Михайлович": 105,
-      "Котляр Татьяна Михайловна": 514,
-      "Кузнецов Николай Николаевич": 23,
-      "Лизунов Игорь Константинович": 43,
-      "Махтей Владимир Викторович": 15,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000217924": 287,
+      "gas:candidate-vibid:340300170377": 105,
+      "gas:candidate-vibid:1001000113933": 514,
+      "gas:candidate-vibid:1001000136057": 23,
+      "gas:candidate-vibid:1001000250447": 43,
+      "gas:candidate-vibid:1001000202308": 15,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 305,
-      "Колесников Виктор Михайлович": 110,
-      "Котляр Татьяна Михайловна": 640,
-      "Кузнецов Николай Николаевич": 36,
-      "Лизунов Игорь Константинович": 23,
-      "Махтей Владимир Викторович": 21,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000217924": 305,
+      "gas:candidate-vibid:340300170377": 110,
+      "gas:candidate-vibid:1001000113933": 640,
+      "gas:candidate-vibid:1001000136057": 36,
+      "gas:candidate-vibid:1001000250447": 23,
+      "gas:candidate-vibid:1001000202308": 21,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 254,
-      "Колесников Виктор Михайлович": 99,
-      "Котляр Татьяна Михайловна": 395,
-      "Кузнецов Николай Николаевич": 18,
-      "Лизунов Игорь Константинович": 42,
-      "Махтей Владимир Викторович": 19,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000217924": 254,
+      "gas:candidate-vibid:340300170377": 99,
+      "gas:candidate-vibid:1001000113933": 395,
+      "gas:candidate-vibid:1001000136057": 18,
+      "gas:candidate-vibid:1001000250447": 42,
+      "gas:candidate-vibid:1001000202308": 19,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 353,
-      "Колесников Виктор Михайлович": 163,
-      "Котляр Татьяна Михайловна": 688,
-      "Кузнецов Николай Николаевич": 40,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 33,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000217924": 353,
+      "gas:candidate-vibid:340300170377": 163,
+      "gas:candidate-vibid:1001000113933": 688,
+      "gas:candidate-vibid:1001000136057": 40,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 33,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 335,
-      "Колесников Виктор Михайлович": 148,
-      "Котляр Татьяна Михайловна": 641,
-      "Кузнецов Николай Николаевич": 43,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 18,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000217924": 335,
+      "gas:candidate-vibid:340300170377": 148,
+      "gas:candidate-vibid:1001000113933": 641,
+      "gas:candidate-vibid:1001000136057": 43,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 18,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 144,
-      "Колесников Виктор Михайлович": 55,
-      "Котляр Татьяна Михайловна": 398,
-      "Кузнецов Николай Николаевич": 27,
-      "Лизунов Игорь Константинович": 24,
-      "Махтей Владимир Викторович": 21,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000217924": 144,
+      "gas:candidate-vibid:340300170377": 55,
+      "gas:candidate-vibid:1001000113933": 398,
+      "gas:candidate-vibid:1001000136057": 27,
+      "gas:candidate-vibid:1001000250447": 24,
+      "gas:candidate-vibid:1001000202308": 21,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 250,
-      "Колесников Виктор Михайлович": 162,
-      "Котляр Татьяна Михайловна": 539,
-      "Кузнецов Николай Николаевич": 42,
-      "Лизунов Игорь Константинович": 32,
-      "Махтей Владимир Викторович": 48,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000217924": 250,
+      "gas:candidate-vibid:340300170377": 162,
+      "gas:candidate-vibid:1001000113933": 539,
+      "gas:candidate-vibid:1001000136057": 42,
+      "gas:candidate-vibid:1001000250447": 32,
+      "gas:candidate-vibid:1001000202308": 48,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 323,
-      "Колесников Виктор Михайлович": 160,
-      "Котляр Татьяна Михайловна": 591,
-      "Кузнецов Николай Николаевич": 35,
-      "Лизунов Игорь Константинович": 33,
-      "Махтей Владимир Викторович": 30,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000217924": 323,
+      "gas:candidate-vibid:340300170377": 160,
+      "gas:candidate-vibid:1001000113933": 591,
+      "gas:candidate-vibid:1001000136057": 35,
+      "gas:candidate-vibid:1001000250447": 33,
+      "gas:candidate-vibid:1001000202308": 30,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 260,
-      "Колесников Виктор Михайлович": 142,
-      "Котляр Татьяна Михайловна": 527,
-      "Кузнецов Николай Николаевич": 34,
-      "Лизунов Игорь Константинович": 55,
-      "Махтей Владимир Викторович": 22,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000217924": 260,
+      "gas:candidate-vibid:340300170377": 142,
+      "gas:candidate-vibid:1001000113933": 527,
+      "gas:candidate-vibid:1001000136057": 34,
+      "gas:candidate-vibid:1001000250447": 55,
+      "gas:candidate-vibid:1001000202308": 22,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 278,
-      "Колесников Виктор Михайлович": 127,
-      "Котляр Татьяна Михайловна": 588,
-      "Кузнецов Николай Николаевич": 38,
-      "Лизунов Игорь Константинович": 61,
-      "Махтей Владимир Викторович": 38,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000217924": 278,
+      "gas:candidate-vibid:340300170377": 127,
+      "gas:candidate-vibid:1001000113933": 588,
+      "gas:candidate-vibid:1001000136057": 38,
+      "gas:candidate-vibid:1001000250447": 61,
+      "gas:candidate-vibid:1001000202308": 38,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 178,
-      "Колесников Виктор Михайлович": 137,
-      "Котляр Татьяна Михайловна": 423,
-      "Кузнецов Николай Николаевич": 45,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 22,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000217924": 178,
+      "gas:candidate-vibid:340300170377": 137,
+      "gas:candidate-vibid:1001000113933": 423,
+      "gas:candidate-vibid:1001000136057": 45,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 22,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 239,
-      "Колесников Виктор Михайлович": 152,
-      "Котляр Татьяна Михайловна": 607,
-      "Кузнецов Николай Николаевич": 39,
-      "Лизунов Игорь Константинович": 59,
-      "Махтей Владимир Викторович": 43,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000217924": 239,
+      "gas:candidate-vibid:340300170377": 152,
+      "gas:candidate-vibid:1001000113933": 607,
+      "gas:candidate-vibid:1001000136057": 39,
+      "gas:candidate-vibid:1001000250447": 59,
+      "gas:candidate-vibid:1001000202308": 43,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 255,
-      "Колесников Виктор Михайлович": 175,
-      "Котляр Татьяна Михайловна": 350,
-      "Кузнецов Николай Николаевич": 35,
-      "Лизунов Игорь Константинович": 43,
-      "Махтей Владимир Викторович": 33,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000217924": 255,
+      "gas:candidate-vibid:340300170377": 175,
+      "gas:candidate-vibid:1001000113933": 350,
+      "gas:candidate-vibid:1001000136057": 35,
+      "gas:candidate-vibid:1001000250447": 43,
+      "gas:candidate-vibid:1001000202308": 33,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 330,
-      "Колесников Виктор Михайлович": 108,
-      "Котляр Татьяна Михайловна": 717,
-      "Кузнецов Николай Николаевич": 25,
-      "Лизунов Игорь Константинович": 36,
-      "Махтей Владимир Викторович": 31,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000217924": 330,
+      "gas:candidate-vibid:340300170377": 108,
+      "gas:candidate-vibid:1001000113933": 717,
+      "gas:candidate-vibid:1001000136057": 25,
+      "gas:candidate-vibid:1001000250447": 36,
+      "gas:candidate-vibid:1001000202308": 31,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 338,
-      "Колесников Виктор Михайлович": 125,
-      "Котляр Татьяна Михайловна": 668,
-      "Кузнецов Николай Николаевич": 32,
-      "Лизунов Игорь Константинович": 51,
-      "Махтей Владимир Викторович": 24,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000217924": 338,
+      "gas:candidate-vibid:340300170377": 125,
+      "gas:candidate-vibid:1001000113933": 668,
+      "gas:candidate-vibid:1001000136057": 32,
+      "gas:candidate-vibid:1001000250447": 51,
+      "gas:candidate-vibid:1001000202308": 24,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 387,
-      "Колесников Виктор Михайлович": 122,
-      "Котляр Татьяна Михайловна": 682,
-      "Кузнецов Николай Николаевич": 45,
-      "Лизунов Игорь Константинович": 54,
-      "Махтей Владимир Викторович": 29,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000217924": 387,
+      "gas:candidate-vibid:340300170377": 122,
+      "gas:candidate-vibid:1001000113933": 682,
+      "gas:candidate-vibid:1001000136057": 45,
+      "gas:candidate-vibid:1001000250447": 54,
+      "gas:candidate-vibid:1001000202308": 29,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 289,
-      "Колесников Виктор Михайлович": 125,
-      "Котляр Татьяна Михайловна": 793,
-      "Кузнецов Николай Николаевич": 24,
-      "Лизунов Игорь Константинович": 48,
-      "Махтей Владимир Викторович": 20,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000217924": 289,
+      "gas:candidate-vibid:340300170377": 125,
+      "gas:candidate-vibid:1001000113933": 793,
+      "gas:candidate-vibid:1001000136057": 24,
+      "gas:candidate-vibid:1001000250447": 48,
+      "gas:candidate-vibid:1001000202308": 20,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 233,
-      "Колесников Виктор Михайлович": 103,
-      "Котляр Татьяна Михайловна": 704,
-      "Кузнецов Николай Николаевич": 37,
-      "Лизунов Игорь Константинович": 46,
-      "Махтей Владимир Викторович": 38,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000217924": 233,
+      "gas:candidate-vibid:340300170377": 103,
+      "gas:candidate-vibid:1001000113933": 704,
+      "gas:candidate-vibid:1001000136057": 37,
+      "gas:candidate-vibid:1001000250447": 46,
+      "gas:candidate-vibid:1001000202308": 38,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 244,
-      "Колесников Виктор Михайлович": 106,
-      "Котляр Татьяна Михайловна": 682,
-      "Кузнецов Николай Николаевич": 43,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 25,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000217924": 244,
+      "gas:candidate-vibid:340300170377": 106,
+      "gas:candidate-vibid:1001000113933": 682,
+      "gas:candidate-vibid:1001000136057": 43,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 25,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 256,
-      "Колесников Виктор Михайлович": 99,
-      "Котляр Татьяна Михайловна": 502,
-      "Кузнецов Николай Николаевич": 38,
-      "Лизунов Игорь Константинович": 43,
-      "Махтей Владимир Викторович": 18,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000217924": 256,
+      "gas:candidate-vibid:340300170377": 99,
+      "gas:candidate-vibid:1001000113933": 502,
+      "gas:candidate-vibid:1001000136057": 38,
+      "gas:candidate-vibid:1001000250447": 43,
+      "gas:candidate-vibid:1001000202308": 18,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 10,
-      "Колесников Виктор Михайлович": 4,
-      "Котляр Татьяна Михайловна": 21,
-      "Кузнецов Николай Николаевич": 9,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217924": 10,
+      "gas:candidate-vibid:340300170377": 4,
+      "gas:candidate-vibid:1001000113933": 21,
+      "gas:candidate-vibid:1001000136057": 9,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 224,
-      "Колесников Виктор Михайлович": 133,
-      "Котляр Татьяна Михайловна": 508,
-      "Кузнецов Николай Николаевич": 40,
-      "Лизунов Игорь Константинович": 64,
-      "Махтей Владимир Викторович": 36,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000217924": 224,
+      "gas:candidate-vibid:340300170377": 133,
+      "gas:candidate-vibid:1001000113933": 508,
+      "gas:candidate-vibid:1001000136057": 40,
+      "gas:candidate-vibid:1001000250447": 64,
+      "gas:candidate-vibid:1001000202308": 36,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 237,
-      "Колесников Виктор Михайлович": 108,
-      "Котляр Татьяна Михайловна": 579,
-      "Кузнецов Николай Николаевич": 30,
-      "Лизунов Игорь Константинович": 53,
-      "Махтей Владимир Викторович": 27,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000217924": 237,
+      "gas:candidate-vibid:340300170377": 108,
+      "gas:candidate-vibid:1001000113933": 579,
+      "gas:candidate-vibid:1001000136057": 30,
+      "gas:candidate-vibid:1001000250447": 53,
+      "gas:candidate-vibid:1001000202308": 27,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 155,
-      "Колесников Виктор Михайлович": 77,
-      "Котляр Татьяна Михайловна": 339,
-      "Кузнецов Николай Николаевич": 47,
-      "Лизунов Игорь Константинович": 47,
-      "Махтей Владимир Викторович": 28,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000217924": 155,
+      "gas:candidate-vibid:340300170377": 77,
+      "gas:candidate-vibid:1001000113933": 339,
+      "gas:candidate-vibid:1001000136057": 47,
+      "gas:candidate-vibid:1001000250447": 47,
+      "gas:candidate-vibid:1001000202308": 28,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 321,
-      "Колесников Виктор Михайлович": 120,
-      "Котляр Татьяна Михайловна": 600,
-      "Кузнецов Николай Николаевич": 30,
-      "Лизунов Игорь Константинович": 66,
-      "Махтей Владимир Викторович": 19,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217924": 321,
+      "gas:candidate-vibid:340300170377": 120,
+      "gas:candidate-vibid:1001000113933": 600,
+      "gas:candidate-vibid:1001000136057": 30,
+      "gas:candidate-vibid:1001000250447": 66,
+      "gas:candidate-vibid:1001000202308": 19,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 241,
-      "Колесников Виктор Михайлович": 96,
-      "Котляр Татьяна Михайловна": 494,
-      "Кузнецов Николай Николаевич": 29,
-      "Лизунов Игорь Константинович": 54,
-      "Махтей Владимир Викторович": 19,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000217924": 241,
+      "gas:candidate-vibid:340300170377": 96,
+      "gas:candidate-vibid:1001000113933": 494,
+      "gas:candidate-vibid:1001000136057": 29,
+      "gas:candidate-vibid:1001000250447": 54,
+      "gas:candidate-vibid:1001000202308": 19,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 364,
-      "Колесников Виктор Михайлович": 100,
-      "Котляр Татьяна Михайловна": 781,
-      "Кузнецов Николай Николаевич": 33,
-      "Лизунов Игорь Константинович": 59,
-      "Махтей Владимир Викторович": 20,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000217924": 364,
+      "gas:candidate-vibid:340300170377": 100,
+      "gas:candidate-vibid:1001000113933": 781,
+      "gas:candidate-vibid:1001000136057": 33,
+      "gas:candidate-vibid:1001000250447": 59,
+      "gas:candidate-vibid:1001000202308": 20,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070685&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 52,
-      "Колесников Виктор Михайлович": 51,
-      "Котляр Татьяна Михайловна": 16,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 52,
+      "gas:candidate-vibid:340300170377": 51,
+      "gas:candidate-vibid:1001000113933": 16,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 31,
-      "Колесников Виктор Михайлович": 54,
-      "Котляр Татьяна Михайловна": 8,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217924": 31,
+      "gas:candidate-vibid:340300170377": 54,
+      "gas:candidate-vibid:1001000113933": 8,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 80,
-      "Колесников Виктор Михайлович": 102,
-      "Котляр Татьяна Михайловна": 14,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 5,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217924": 80,
+      "gas:candidate-vibid:340300170377": 102,
+      "gas:candidate-vibid:1001000113933": 14,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 5,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 94,
-      "Колесников Виктор Михайлович": 50,
-      "Котляр Татьяна Михайловна": 12,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 94,
+      "gas:candidate-vibid:340300170377": 50,
+      "gas:candidate-vibid:1001000113933": 12,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 22,
-      "Колесников Виктор Михайлович": 82,
-      "Котляр Татьяна Михайловна": 1,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 22,
+      "gas:candidate-vibid:340300170377": 82,
+      "gas:candidate-vibid:1001000113933": 1,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 163,
-      "Колесников Виктор Михайлович": 185,
-      "Котляр Татьяна Михайловна": 14,
-      "Кузнецов Николай Николаевич": 51,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000217924": 163,
+      "gas:candidate-vibid:340300170377": 185,
+      "gas:candidate-vibid:1001000113933": 14,
+      "gas:candidate-vibid:1001000136057": 51,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 140,
-      "Колесников Виктор Михайлович": 159,
-      "Котляр Татьяна Михайловна": 15,
-      "Кузнецов Николай Николаевич": 31,
-      "Лизунов Игорь Константинович": 5,
-      "Махтей Владимир Викторович": 7,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000217924": 140,
+      "gas:candidate-vibid:340300170377": 159,
+      "gas:candidate-vibid:1001000113933": 15,
+      "gas:candidate-vibid:1001000136057": 31,
+      "gas:candidate-vibid:1001000250447": 5,
+      "gas:candidate-vibid:1001000202308": 7,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 46,
-      "Колесников Виктор Михайлович": 22,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 46,
+      "gas:candidate-vibid:340300170377": 22,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 74,
-      "Колесников Виктор Михайлович": 132,
-      "Котляр Татьяна Михайловна": 24,
-      "Кузнецов Николай Николаевич": 24,
-      "Лизунов Игорь Константинович": 9,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000217924": 74,
+      "gas:candidate-vibid:340300170377": 132,
+      "gas:candidate-vibid:1001000113933": 24,
+      "gas:candidate-vibid:1001000136057": 24,
+      "gas:candidate-vibid:1001000250447": 9,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 70,
-      "Колесников Виктор Михайлович": 23,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 13,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217924": 70,
+      "gas:candidate-vibid:340300170377": 23,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 13,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 53,
-      "Колесников Виктор Михайлович": 52,
-      "Котляр Татьяна Михайловна": 9,
-      "Кузнецов Николай Николаевич": 20,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000217924": 53,
+      "gas:candidate-vibid:340300170377": 52,
+      "gas:candidate-vibid:1001000113933": 9,
+      "gas:candidate-vibid:1001000136057": 20,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 76,
-      "Колесников Виктор Михайлович": 101,
-      "Котляр Татьяна Михайловна": 8,
-      "Кузнецов Николай Николаевич": 12,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217924": 76,
+      "gas:candidate-vibid:340300170377": 101,
+      "gas:candidate-vibid:1001000113933": 8,
+      "gas:candidate-vibid:1001000136057": 12,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 27,
-      "Колесников Виктор Михайлович": 41,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 1,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217924": 27,
+      "gas:candidate-vibid:340300170377": 41,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 1,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 43,
-      "Колесников Виктор Михайлович": 71,
-      "Котляр Татьяна Михайловна": 6,
-      "Кузнецов Николай Николаевич": 11,
-      "Лизунов Игорь Константинович": 5,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000217924": 43,
+      "gas:candidate-vibid:340300170377": 71,
+      "gas:candidate-vibid:1001000113933": 6,
+      "gas:candidate-vibid:1001000136057": 11,
+      "gas:candidate-vibid:1001000250447": 5,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 108,
-      "Колесников Виктор Михайлович": 169,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 21,
-      "Лизунов Игорь Константинович": 6,
-      "Махтей Владимир Викторович": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000217924": 108,
+      "gas:candidate-vibid:340300170377": 169,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 21,
+      "gas:candidate-vibid:1001000250447": 6,
+      "gas:candidate-vibid:1001000202308": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 66,
-      "Колесников Виктор Михайлович": 66,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 16,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 66,
+      "gas:candidate-vibid:340300170377": 66,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 16,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 64,
-      "Колесников Виктор Михайлович": 34,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 64,
+      "gas:candidate-vibid:340300170377": 34,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 58,
-      "Колесников Виктор Михайлович": 46,
-      "Котляр Татьяна Михайловна": 7,
-      "Кузнецов Николай Николаевич": 17,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217924": 58,
+      "gas:candidate-vibid:340300170377": 46,
+      "gas:candidate-vibid:1001000113933": 7,
+      "gas:candidate-vibid:1001000136057": 17,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 69,
-      "Колесников Виктор Михайлович": 139,
-      "Котляр Татьяна Михайловна": 8,
-      "Кузнецов Николай Николаевич": 14,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217924": 69,
+      "gas:candidate-vibid:340300170377": 139,
+      "gas:candidate-vibid:1001000113933": 8,
+      "gas:candidate-vibid:1001000136057": 14,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 338,
-      "Колесников Виктор Михайлович": 244,
-      "Котляр Татьяна Михайловна": 61,
-      "Кузнецов Николай Николаевич": 56,
-      "Лизунов Игорь Константинович": 10,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000217924": 338,
+      "gas:candidate-vibid:340300170377": 244,
+      "gas:candidate-vibid:1001000113933": 61,
+      "gas:candidate-vibid:1001000136057": 56,
+      "gas:candidate-vibid:1001000250447": 10,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 359,
-      "Колесников Виктор Михайлович": 241,
-      "Котляр Татьяна Михайловна": 100,
-      "Кузнецов Николай Николаевич": 91,
-      "Лизунов Игорь Константинович": 16,
-      "Махтей Владимир Викторович": 10,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217924": 359,
+      "gas:candidate-vibid:340300170377": 241,
+      "gas:candidate-vibid:1001000113933": 100,
+      "gas:candidate-vibid:1001000136057": 91,
+      "gas:candidate-vibid:1001000250447": 16,
+      "gas:candidate-vibid:1001000202308": 10,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070686&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 282,
-      "Колесников Виктор Михайлович": 487,
-      "Котляр Татьяна Михайловна": 255,
-      "Кузнецов Николай Николаевич": 88,
-      "Лизунов Игорь Константинович": 13,
-      "Махтей Владимир Викторович": 17,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000217924": 282,
+      "gas:candidate-vibid:340300170377": 487,
+      "gas:candidate-vibid:1001000113933": 255,
+      "gas:candidate-vibid:1001000136057": 88,
+      "gas:candidate-vibid:1001000250447": 13,
+      "gas:candidate-vibid:1001000202308": 17,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 227,
-      "Колесников Виктор Михайлович": 541,
-      "Котляр Татьяна Михайловна": 148,
-      "Кузнецов Николай Николаевич": 90,
-      "Лизунов Игорь Константинович": 25,
-      "Махтей Владимир Викторович": 12,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000217924": 227,
+      "gas:candidate-vibid:340300170377": 541,
+      "gas:candidate-vibid:1001000113933": 148,
+      "gas:candidate-vibid:1001000136057": 90,
+      "gas:candidate-vibid:1001000250447": 25,
+      "gas:candidate-vibid:1001000202308": 12,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 38,
-      "Колесников Виктор Михайлович": 98,
-      "Котляр Татьяна Михайловна": 23,
-      "Кузнецов Николай Николаевич": 22,
-      "Лизунов Игорь Константинович": 7,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217924": 38,
+      "gas:candidate-vibid:340300170377": 98,
+      "gas:candidate-vibid:1001000113933": 23,
+      "gas:candidate-vibid:1001000136057": 22,
+      "gas:candidate-vibid:1001000250447": 7,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 80,
-      "Колесников Виктор Михайлович": 204,
-      "Котляр Татьяна Михайловна": 10,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217924": 80,
+      "gas:candidate-vibid:340300170377": 204,
+      "gas:candidate-vibid:1001000113933": 10,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 30,
-      "Колесников Виктор Михайлович": 42,
-      "Котляр Татьяна Михайловна": 16,
-      "Кузнецов Николай Николаевич": 12,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217924": 30,
+      "gas:candidate-vibid:340300170377": 42,
+      "gas:candidate-vibid:1001000113933": 16,
+      "gas:candidate-vibid:1001000136057": 12,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 41,
-      "Колесников Виктор Михайлович": 161,
-      "Котляр Татьяна Михайловна": 70,
-      "Кузнецов Николай Николаевич": 15,
-      "Лизунов Игорь Константинович": 6,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000217924": 41,
+      "gas:candidate-vibid:340300170377": 161,
+      "gas:candidate-vibid:1001000113933": 70,
+      "gas:candidate-vibid:1001000136057": 15,
+      "gas:candidate-vibid:1001000250447": 6,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 100,
-      "Колесников Виктор Михайлович": 115,
-      "Котляр Татьяна Михайловна": 47,
-      "Кузнецов Николай Николаевич": 20,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000217924": 100,
+      "gas:candidate-vibid:340300170377": 115,
+      "gas:candidate-vibid:1001000113933": 47,
+      "gas:candidate-vibid:1001000136057": 20,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 38,
-      "Колесников Виктор Михайлович": 84,
-      "Котляр Татьяна Михайловна": 7,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 38,
+      "gas:candidate-vibid:340300170377": 84,
+      "gas:candidate-vibid:1001000113933": 7,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 55,
-      "Колесников Виктор Михайлович": 112,
-      "Котляр Татьяна Михайловна": 31,
-      "Кузнецов Николай Николаевич": 24,
-      "Лизунов Игорь Константинович": 7,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217924": 55,
+      "gas:candidate-vibid:340300170377": 112,
+      "gas:candidate-vibid:1001000113933": 31,
+      "gas:candidate-vibid:1001000136057": 24,
+      "gas:candidate-vibid:1001000250447": 7,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 51,
-      "Колесников Виктор Михайлович": 202,
-      "Котляр Татьяна Михайловна": 38,
-      "Кузнецов Николай Николаевич": 20,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000217924": 51,
+      "gas:candidate-vibid:340300170377": 202,
+      "gas:candidate-vibid:1001000113933": 38,
+      "gas:candidate-vibid:1001000136057": 20,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 46,
-      "Колесников Виктор Михайлович": 66,
-      "Котляр Татьяна Михайловна": 5,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217924": 46,
+      "gas:candidate-vibid:340300170377": 66,
+      "gas:candidate-vibid:1001000113933": 5,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 18,
-      "Колесников Виктор Михайлович": 21,
-      "Котляр Татьяна Михайловна": 4,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217924": 18,
+      "gas:candidate-vibid:340300170377": 21,
+      "gas:candidate-vibid:1001000113933": 4,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 51,
-      "Колесников Виктор Михайлович": 144,
-      "Котляр Татьяна Михайловна": 21,
-      "Кузнецов Николай Николаевич": 11,
-      "Лизунов Игорь Константинович": 4,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217924": 51,
+      "gas:candidate-vibid:340300170377": 144,
+      "gas:candidate-vibid:1001000113933": 21,
+      "gas:candidate-vibid:1001000136057": 11,
+      "gas:candidate-vibid:1001000250447": 4,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 17,
-      "Колесников Виктор Михайлович": 35,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217924": 17,
+      "gas:candidate-vibid:340300170377": 35,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 84,
-      "Колесников Виктор Михайлович": 84,
-      "Котляр Татьяна Михайловна": 36,
-      "Кузнецов Николай Николаевич": 19,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217924": 84,
+      "gas:candidate-vibid:340300170377": 84,
+      "gas:candidate-vibid:1001000113933": 36,
+      "gas:candidate-vibid:1001000136057": 19,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070687&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 516,
-      "Колесников Виктор Михайлович": 305,
-      "Котляр Татьяна Михайловна": 194,
-      "Кузнецов Николай Николаевич": 135,
-      "Лизунов Игорь Константинович": 26,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000217924": 516,
+      "gas:candidate-vibid:340300170377": 305,
+      "gas:candidate-vibid:1001000113933": 194,
+      "gas:candidate-vibid:1001000136057": 135,
+      "gas:candidate-vibid:1001000250447": 26,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 227,
-      "Колесников Виктор Михайлович": 163,
-      "Котляр Татьяна Михайловна": 62,
-      "Кузнецов Николай Николаевич": 72,
-      "Лизунов Игорь Константинович": 12,
-      "Махтей Владимир Викторович": 7,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217924": 227,
+      "gas:candidate-vibid:340300170377": 163,
+      "gas:candidate-vibid:1001000113933": 62,
+      "gas:candidate-vibid:1001000136057": 72,
+      "gas:candidate-vibid:1001000250447": 12,
+      "gas:candidate-vibid:1001000202308": 7,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 180,
-      "Колесников Виктор Михайлович": 204,
-      "Котляр Татьяна Михайловна": 87,
-      "Кузнецов Николай Николаевич": 101,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 15,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217924": 180,
+      "gas:candidate-vibid:340300170377": 204,
+      "gas:candidate-vibid:1001000113933": 87,
+      "gas:candidate-vibid:1001000136057": 101,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 15,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 243,
-      "Колесников Виктор Михайлович": 172,
-      "Котляр Татьяна Михайловна": 78,
-      "Кузнецов Николай Николаевич": 68,
-      "Лизунов Игорь Константинович": 15,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000217924": 243,
+      "gas:candidate-vibid:340300170377": 172,
+      "gas:candidate-vibid:1001000113933": 78,
+      "gas:candidate-vibid:1001000136057": 68,
+      "gas:candidate-vibid:1001000250447": 15,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 292,
-      "Колесников Виктор Михайлович": 260,
-      "Котляр Татьяна Михайловна": 104,
-      "Кузнецов Николай Николаевич": 78,
-      "Лизунов Игорь Константинович": 18,
-      "Махтей Владимир Викторович": 11,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000217924": 292,
+      "gas:candidate-vibid:340300170377": 260,
+      "gas:candidate-vibid:1001000113933": 104,
+      "gas:candidate-vibid:1001000136057": 78,
+      "gas:candidate-vibid:1001000250447": 18,
+      "gas:candidate-vibid:1001000202308": 11,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 473,
-      "Колесников Виктор Михайлович": 427,
-      "Котляр Татьяна Михайловна": 131,
-      "Кузнецов Николай Николаевич": 165,
-      "Лизунов Игорь Константинович": 30,
-      "Махтей Владимир Викторович": 17,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000217924": 473,
+      "gas:candidate-vibid:340300170377": 427,
+      "gas:candidate-vibid:1001000113933": 131,
+      "gas:candidate-vibid:1001000136057": 165,
+      "gas:candidate-vibid:1001000250447": 30,
+      "gas:candidate-vibid:1001000202308": 17,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 267,
-      "Колесников Виктор Михайлович": 189,
-      "Котляр Татьяна Михайловна": 88,
-      "Кузнецов Николай Николаевич": 78,
-      "Лизунов Игорь Константинович": 19,
-      "Махтей Владимир Викторович": 13,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000217924": 267,
+      "gas:candidate-vibid:340300170377": 189,
+      "gas:candidate-vibid:1001000113933": 88,
+      "gas:candidate-vibid:1001000136057": 78,
+      "gas:candidate-vibid:1001000250447": 19,
+      "gas:candidate-vibid:1001000202308": 13,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 251,
-      "Колесников Виктор Михайлович": 185,
-      "Котляр Татьяна Михайловна": 106,
-      "Кузнецов Николай Николаевич": 80,
-      "Лизунов Игорь Константинович": 13,
-      "Махтей Владимир Викторович": 8,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000217924": 251,
+      "gas:candidate-vibid:340300170377": 185,
+      "gas:candidate-vibid:1001000113933": 106,
+      "gas:candidate-vibid:1001000136057": 80,
+      "gas:candidate-vibid:1001000250447": 13,
+      "gas:candidate-vibid:1001000202308": 8,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 472,
-      "Колесников Виктор Михайлович": 332,
-      "Котляр Татьяна Михайловна": 232,
-      "Кузнецов Николай Николаевич": 155,
-      "Лизунов Игорь Константинович": 41,
-      "Махтей Владимир Викторович": 15,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000217924": 472,
+      "gas:candidate-vibid:340300170377": 332,
+      "gas:candidate-vibid:1001000113933": 232,
+      "gas:candidate-vibid:1001000136057": 155,
+      "gas:candidate-vibid:1001000250447": 41,
+      "gas:candidate-vibid:1001000202308": 15,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 374,
-      "Колесников Виктор Михайлович": 322,
-      "Котляр Татьяна Михайловна": 177,
-      "Кузнецов Николай Николаевич": 185,
-      "Лизунов Игорь Константинович": 25,
-      "Махтей Владимир Викторович": 12,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000217924": 374,
+      "gas:candidate-vibid:340300170377": 322,
+      "gas:candidate-vibid:1001000113933": 177,
+      "gas:candidate-vibid:1001000136057": 185,
+      "gas:candidate-vibid:1001000250447": 25,
+      "gas:candidate-vibid:1001000202308": 12,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 225,
-      "Колесников Виктор Михайлович": 186,
-      "Котляр Татьяна Михайловна": 54,
-      "Кузнецов Николай Николаевич": 56,
-      "Лизунов Игорь Константинович": 11,
-      "Махтей Владимир Викторович": 9,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000217924": 225,
+      "gas:candidate-vibid:340300170377": 186,
+      "gas:candidate-vibid:1001000113933": 54,
+      "gas:candidate-vibid:1001000136057": 56,
+      "gas:candidate-vibid:1001000250447": 11,
+      "gas:candidate-vibid:1001000202308": 9,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 119,
-      "Колесников Виктор Михайлович": 134,
-      "Котляр Татьяна Михайловна": 31,
-      "Кузнецов Николай Николаевич": 23,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000217924": 119,
+      "gas:candidate-vibid:340300170377": 134,
+      "gas:candidate-vibid:1001000113933": 31,
+      "gas:candidate-vibid:1001000136057": 23,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 117,
-      "Колесников Виктор Михайлович": 92,
-      "Котляр Татьяна Михайловна": 40,
-      "Кузнецов Николай Николаевич": 35,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000217924": 117,
+      "gas:candidate-vibid:340300170377": 92,
+      "gas:candidate-vibid:1001000113933": 40,
+      "gas:candidate-vibid:1001000136057": 35,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 156,
-      "Колесников Виктор Михайлович": 104,
-      "Котляр Татьяна Михайловна": 27,
-      "Кузнецов Николай Николаевич": 33,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000217924": 156,
+      "gas:candidate-vibid:340300170377": 104,
+      "gas:candidate-vibid:1001000113933": 27,
+      "gas:candidate-vibid:1001000136057": 33,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 274,
-      "Колесников Виктор Михайлович": 272,
-      "Котляр Татьяна Михайловна": 80,
-      "Кузнецов Николай Николаевич": 90,
-      "Лизунов Игорь Константинович": 22,
-      "Махтей Владимир Викторович": 10,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000217924": 274,
+      "gas:candidate-vibid:340300170377": 272,
+      "gas:candidate-vibid:1001000113933": 80,
+      "gas:candidate-vibid:1001000136057": 90,
+      "gas:candidate-vibid:1001000250447": 22,
+      "gas:candidate-vibid:1001000202308": 10,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 297,
-      "Колесников Виктор Михайлович": 162,
-      "Котляр Татьяна Михайловна": 66,
-      "Кузнецов Николай Николаевич": 73,
-      "Лизунов Игорь Константинович": 16,
-      "Махтей Владимир Викторович": 6,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217924": 297,
+      "gas:candidate-vibid:340300170377": 162,
+      "gas:candidate-vibid:1001000113933": 66,
+      "gas:candidate-vibid:1001000136057": 73,
+      "gas:candidate-vibid:1001000250447": 16,
+      "gas:candidate-vibid:1001000202308": 6,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 272,
-      "Колесников Виктор Михайлович": 247,
-      "Котляр Татьяна Михайловна": 54,
-      "Кузнецов Николай Николаевич": 74,
-      "Лизунов Игорь Константинович": 15,
-      "Махтей Владимир Викторович": 5,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000217924": 272,
+      "gas:candidate-vibid:340300170377": 247,
+      "gas:candidate-vibid:1001000113933": 54,
+      "gas:candidate-vibid:1001000136057": 74,
+      "gas:candidate-vibid:1001000250447": 15,
+      "gas:candidate-vibid:1001000202308": 5,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 347,
-      "Колесников Виктор Михайлович": 253,
-      "Котляр Татьяна Михайловна": 96,
-      "Кузнецов Николай Николаевич": 176,
-      "Лизунов Игорь Константинович": 15,
-      "Махтей Владимир Викторович": 12,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000217924": 347,
+      "gas:candidate-vibid:340300170377": 253,
+      "gas:candidate-vibid:1001000113933": 96,
+      "gas:candidate-vibid:1001000136057": 176,
+      "gas:candidate-vibid:1001000250447": 15,
+      "gas:candidate-vibid:1001000202308": 12,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 203,
-      "Колесников Виктор Михайлович": 185,
-      "Котляр Татьяна Михайловна": 56,
-      "Кузнецов Николай Николаевич": 69,
-      "Лизунов Игорь Константинович": 13,
-      "Махтей Владимир Викторович": 11,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000217924": 203,
+      "gas:candidate-vibid:340300170377": 185,
+      "gas:candidate-vibid:1001000113933": 56,
+      "gas:candidate-vibid:1001000136057": 69,
+      "gas:candidate-vibid:1001000250447": 13,
+      "gas:candidate-vibid:1001000202308": 11,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 224,
-      "Колесников Виктор Михайлович": 96,
-      "Котляр Татьяна Михайловна": 42,
-      "Кузнецов Николай Николаевич": 44,
-      "Лизунов Игорь Константинович": 13,
-      "Махтей Владимир Викторович": 9,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217924": 224,
+      "gas:candidate-vibid:340300170377": 96,
+      "gas:candidate-vibid:1001000113933": 42,
+      "gas:candidate-vibid:1001000136057": 44,
+      "gas:candidate-vibid:1001000250447": 13,
+      "gas:candidate-vibid:1001000202308": 9,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 36,
-      "Колесников Виктор Михайлович": 88,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217924": 36,
+      "gas:candidate-vibid:340300170377": 88,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 51,
-      "Колесников Виктор Михайлович": 158,
-      "Котляр Татьяна Михайловна": 9,
-      "Кузнецов Николай Николаевич": 9,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217924": 51,
+      "gas:candidate-vibid:340300170377": 158,
+      "gas:candidate-vibid:1001000113933": 9,
+      "gas:candidate-vibid:1001000136057": 9,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 28,
-      "Колесников Виктор Михайлович": 70,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 4,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 28,
+      "gas:candidate-vibid:340300170377": 70,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 4,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 18,
-      "Колесников Виктор Михайлович": 86,
-      "Котляр Татьяна Михайловна": 11,
-      "Кузнецов Николай Николаевич": 11,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217924": 18,
+      "gas:candidate-vibid:340300170377": 86,
+      "gas:candidate-vibid:1001000113933": 11,
+      "gas:candidate-vibid:1001000136057": 11,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 37,
-      "Колесников Виктор Михайлович": 55,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 1,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 37,
+      "gas:candidate-vibid:340300170377": 55,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 1,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 26,
-      "Колесников Виктор Михайлович": 31,
-      "Котляр Татьяна Михайловна": 6,
-      "Кузнецов Николай Николаевич": 3,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 26,
+      "gas:candidate-vibid:340300170377": 31,
+      "gas:candidate-vibid:1001000113933": 6,
+      "gas:candidate-vibid:1001000136057": 3,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 23,
-      "Колесников Виктор Михайлович": 20,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 3,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 23,
+      "gas:candidate-vibid:340300170377": 20,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 3,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 79,
-      "Колесников Виктор Михайлович": 101,
-      "Котляр Татьяна Михайловна": 23,
-      "Кузнецов Николай Николаевич": 8,
-      "Лизунов Игорь Константинович": 5,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217924": 79,
+      "gas:candidate-vibid:340300170377": 101,
+      "gas:candidate-vibid:1001000113933": 23,
+      "gas:candidate-vibid:1001000136057": 8,
+      "gas:candidate-vibid:1001000250447": 5,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 23,
-      "Колесников Виктор Михайлович": 71,
-      "Котляр Татьяна Михайловна": 13,
-      "Кузнецов Николай Николаевич": 26,
-      "Лизунов Игорь Константинович": 3,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000217924": 23,
+      "gas:candidate-vibid:340300170377": 71,
+      "gas:candidate-vibid:1001000113933": 13,
+      "gas:candidate-vibid:1001000136057": 26,
+      "gas:candidate-vibid:1001000250447": 3,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 9,
-      "Колесников Виктор Михайлович": 101,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 7,
-      "Лизунов Игорь Константинович": 1,
-      "Махтей Владимир Викторович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217924": 9,
+      "gas:candidate-vibid:340300170377": 101,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 7,
+      "gas:candidate-vibid:1001000250447": 1,
+      "gas:candidate-vibid:1001000202308": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 39,
-      "Колесников Виктор Михайлович": 23,
-      "Котляр Татьяна Михайловна": 0,
-      "Кузнецов Николай Николаевич": 0,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217924": 39,
+      "gas:candidate-vibid:340300170377": 23,
+      "gas:candidate-vibid:1001000113933": 0,
+      "gas:candidate-vibid:1001000136057": 0,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 57,
-      "Колесников Виктор Михайлович": 45,
-      "Котляр Татьяна Михайловна": 5,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 57,
+      "gas:candidate-vibid:340300170377": 45,
+      "gas:candidate-vibid:1001000113933": 5,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 41,
-      "Колесников Виктор Михайлович": 21,
-      "Котляр Татьяна Михайловна": 2,
-      "Кузнецов Николай Николаевич": 5,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217924": 41,
+      "gas:candidate-vibid:340300170377": 21,
+      "gas:candidate-vibid:1001000113933": 2,
+      "gas:candidate-vibid:1001000136057": 5,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 24,
-      "Колесников Виктор Михайлович": 11,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 2,
-      "Лизунов Игорь Константинович": 2,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217924": 24,
+      "gas:candidate-vibid:340300170377": 11,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 2,
+      "gas:candidate-vibid:1001000250447": 2,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 44,
-      "Колесников Виктор Михайлович": 65,
-      "Котляр Татьяна Михайловна": 3,
-      "Кузнецов Николай Николаевич": 6,
-      "Лизунов Игорь Константинович": 0,
-      "Махтей Владимир Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000217924": 44,
+      "gas:candidate-vibid:340300170377": 65,
+      "gas:candidate-vibid:1001000113933": 3,
+      "gas:candidate-vibid:1001000136057": 6,
+      "gas:candidate-vibid:1001000250447": 0,
+      "gas:candidate-vibid:1001000202308": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_40_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурдуков Павел Тимофеевич": 111,
-      "Колесников Виктор Михайлович": 99,
-      "Котляр Татьяна Михайловна": 23,
-      "Кузнецов Николай Николаевич": 32,
-      "Лизунов Игорь Константинович": 8,
-      "Махтей Владимир Викторович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217924": 111,
+      "gas:candidate-vibid:340300170377": 99,
+      "gas:candidate-vibid:1001000113933": 23,
+      "gas:candidate-vibid:1001000136057": 32,
+      "gas:candidate-vibid:1001000250447": 8,
+      "gas:candidate-vibid:1001000202308": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=402000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=240200070688&region=0&sub_region=0&type=429",

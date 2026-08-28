@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 18,
-      "Бедяев Данила Сергеевич": 24,
-      "Даричева Ольга Алексеевна": 43,
-      "Калинин Вячеслав Вячеславович": 15,
-      "Курин Владимир Геннадьевич": 11,
-      "Орехов Александр Станиславович": 53,
-      "Попов Павел Вениаминович": 91,
-      "Саломатин Дмитрий Эдуардович": 196,
-      "Хохлов Алексей Алексеевич": 769,
-      "Шелякин Дмитрий Викторович": 204
+      "gas:candidate-vibid:2372000908324": 18,
+      "gas:candidate-vibid:2372000908226": 24,
+      "gas:candidate-vibid:2372000908525": 43,
+      "gas:candidate-vibid:2372000908248": 15,
+      "gas:candidate-vibid:2372000907812": 11,
+      "gas:candidate-vibid:2372000906676": 53,
+      "gas:candidate-vibid:2372000908867": 91,
+      "gas:candidate-vibid:2372000906687": 196,
+      "gas:candidate-vibid:2372000907917": 769,
+      "gas:candidate-vibid:2372000880620": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 12,
-      "Бедяев Данила Сергеевич": 13,
-      "Даричева Ольга Алексеевна": 32,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 11,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 48,
-      "Саломатин Дмитрий Эдуардович": 72,
-      "Хохлов Алексей Алексеевич": 308,
-      "Шелякин Дмитрий Викторович": 108
+      "gas:candidate-vibid:2372000908324": 12,
+      "gas:candidate-vibid:2372000908226": 13,
+      "gas:candidate-vibid:2372000908525": 32,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 11,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 48,
+      "gas:candidate-vibid:2372000906687": 72,
+      "gas:candidate-vibid:2372000907917": 308,
+      "gas:candidate-vibid:2372000880620": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 14,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 22,
-      "Калинин Вячеслав Вячеславович": 17,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 26,
-      "Попов Павел Вениаминович": 45,
-      "Саломатин Дмитрий Эдуардович": 71,
-      "Хохлов Алексей Алексеевич": 349,
-      "Шелякин Дмитрий Викторович": 95
+      "gas:candidate-vibid:2372000908324": 14,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 22,
+      "gas:candidate-vibid:2372000908248": 17,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 26,
+      "gas:candidate-vibid:2372000908867": 45,
+      "gas:candidate-vibid:2372000906687": 71,
+      "gas:candidate-vibid:2372000907917": 349,
+      "gas:candidate-vibid:2372000880620": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 11,
-      "Бедяев Данила Сергеевич": 14,
-      "Даричева Ольга Алексеевна": 21,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 20,
-      "Попов Павел Вениаминович": 47,
-      "Саломатин Дмитрий Эдуардович": 80,
-      "Хохлов Алексей Алексеевич": 211,
-      "Шелякин Дмитрий Викторович": 101
+      "gas:candidate-vibid:2372000908324": 11,
+      "gas:candidate-vibid:2372000908226": 14,
+      "gas:candidate-vibid:2372000908525": 21,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 20,
+      "gas:candidate-vibid:2372000908867": 47,
+      "gas:candidate-vibid:2372000906687": 80,
+      "gas:candidate-vibid:2372000907917": 211,
+      "gas:candidate-vibid:2372000880620": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 15,
-      "Бедяев Данила Сергеевич": 11,
-      "Даричева Ольга Алексеевна": 21,
-      "Калинин Вячеслав Вячеславович": 15,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 41,
-      "Попов Павел Вениаминович": 71,
-      "Саломатин Дмитрий Эдуардович": 129,
-      "Хохлов Алексей Алексеевич": 535,
-      "Шелякин Дмитрий Викторович": 103
+      "gas:candidate-vibid:2372000908324": 15,
+      "gas:candidate-vibid:2372000908226": 11,
+      "gas:candidate-vibid:2372000908525": 21,
+      "gas:candidate-vibid:2372000908248": 15,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 41,
+      "gas:candidate-vibid:2372000908867": 71,
+      "gas:candidate-vibid:2372000906687": 129,
+      "gas:candidate-vibid:2372000907917": 535,
+      "gas:candidate-vibid:2372000880620": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 17,
-      "Даричева Ольга Алексеевна": 16,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 34,
-      "Попов Павел Вениаминович": 74,
-      "Саломатин Дмитрий Эдуардович": 76,
-      "Хохлов Алексей Алексеевич": 349,
-      "Шелякин Дмитрий Викторович": 103
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 17,
+      "gas:candidate-vibid:2372000908525": 16,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 34,
+      "gas:candidate-vibid:2372000908867": 74,
+      "gas:candidate-vibid:2372000906687": 76,
+      "gas:candidate-vibid:2372000907917": 349,
+      "gas:candidate-vibid:2372000880620": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 23,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 27,
-      "Попов Павел Вениаминович": 49,
-      "Саломатин Дмитрий Эдуардович": 60,
-      "Хохлов Алексей Алексеевич": 173,
-      "Шелякин Дмитрий Викторович": 81
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 23,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 27,
+      "gas:candidate-vibid:2372000908867": 49,
+      "gas:candidate-vibid:2372000906687": 60,
+      "gas:candidate-vibid:2372000907917": 173,
+      "gas:candidate-vibid:2372000880620": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 17,
-      "Хохлов Алексей Алексеевич": 97,
-      "Шелякин Дмитрий Викторович": 14
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 17,
+      "gas:candidate-vibid:2372000907917": 97,
+      "gas:candidate-vibid:2372000880620": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 3,
-      "Хохлов Алексей Алексеевич": 53,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 3,
+      "gas:candidate-vibid:2372000907917": 53,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 11,
-      "Хохлов Алексей Алексеевич": 172,
-      "Шелякин Дмитрий Викторович": 22
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 11,
+      "gas:candidate-vibid:2372000907917": 172,
+      "gas:candidate-vibid:2372000880620": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 23,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 45,
-      "Калинин Вячеслав Вячеславович": 16,
-      "Курин Владимир Геннадьевич": 20,
-      "Орехов Александр Станиславович": 46,
-      "Попов Павел Вениаминович": 47,
-      "Саломатин Дмитрий Эдуардович": 95,
-      "Хохлов Алексей Алексеевич": 315,
-      "Шелякин Дмитрий Викторович": 173
+      "gas:candidate-vibid:2372000908324": 23,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 45,
+      "gas:candidate-vibid:2372000908248": 16,
+      "gas:candidate-vibid:2372000907812": 20,
+      "gas:candidate-vibid:2372000906676": 46,
+      "gas:candidate-vibid:2372000908867": 47,
+      "gas:candidate-vibid:2372000906687": 95,
+      "gas:candidate-vibid:2372000907917": 315,
+      "gas:candidate-vibid:2372000880620": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 31,
-      "Попов Павел Вениаминович": 28,
-      "Саломатин Дмитрий Эдуардович": 20,
-      "Хохлов Алексей Алексеевич": 105,
-      "Шелякин Дмитрий Викторович": 73
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 31,
+      "gas:candidate-vibid:2372000908867": 28,
+      "gas:candidate-vibid:2372000906687": 20,
+      "gas:candidate-vibid:2372000907917": 105,
+      "gas:candidate-vibid:2372000880620": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 19,
-      "Хохлов Алексей Алексеевич": 239,
-      "Шелякин Дмитрий Викторович": 23
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 19,
+      "gas:candidate-vibid:2372000907917": 239,
+      "gas:candidate-vibid:2372000880620": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 18,
-      "Саломатин Дмитрий Эдуардович": 37,
-      "Хохлов Алексей Алексеевич": 110,
-      "Шелякин Дмитрий Викторович": 37
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 18,
+      "gas:candidate-vibid:2372000906687": 37,
+      "gas:candidate-vibid:2372000907917": 110,
+      "gas:candidate-vibid:2372000880620": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 19,
-      "Калинин Вячеслав Вячеславович": 18,
-      "Курин Владимир Геннадьевич": 14,
-      "Орехов Александр Станиславович": 28,
-      "Попов Павел Вениаминович": 22,
-      "Саломатин Дмитрий Эдуардович": 72,
-      "Хохлов Алексей Алексеевич": 147,
-      "Шелякин Дмитрий Викторович": 47
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 19,
+      "gas:candidate-vibid:2372000908248": 18,
+      "gas:candidate-vibid:2372000907812": 14,
+      "gas:candidate-vibid:2372000906676": 28,
+      "gas:candidate-vibid:2372000908867": 22,
+      "gas:candidate-vibid:2372000906687": 72,
+      "gas:candidate-vibid:2372000907917": 147,
+      "gas:candidate-vibid:2372000880620": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 6,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 7,
-      "Хохлов Алексей Алексеевич": 93,
-      "Шелякин Дмитрий Викторович": 24
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 6,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 7,
+      "gas:candidate-vibid:2372000907917": 93,
+      "gas:candidate-vibid:2372000880620": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 0,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 12,
-      "Хохлов Алексей Алексеевич": 70,
-      "Шелякин Дмитрий Викторович": 16
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 0,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 12,
+      "gas:candidate-vibid:2372000907917": 70,
+      "gas:candidate-vibid:2372000880620": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 8,
-      "Хохлов Алексей Алексеевич": 36,
-      "Шелякин Дмитрий Викторович": 6
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 8,
+      "gas:candidate-vibid:2372000907917": 36,
+      "gas:candidate-vibid:2372000880620": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 11,
-      "Саломатин Дмитрий Эдуардович": 21,
-      "Хохлов Алексей Алексеевич": 253,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 11,
+      "gas:candidate-vibid:2372000906687": 21,
+      "gas:candidate-vibid:2372000907917": 253,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 2,
-      "Попов Павел Вениаминович": 2,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 255,
-      "Шелякин Дмитрий Викторович": 25
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 2,
+      "gas:candidate-vibid:2372000908867": 2,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 255,
+      "gas:candidate-vibid:2372000880620": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849565&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849565&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 33,
-      "Попов Павел Вениаминович": 31,
-      "Саломатин Дмитрий Эдуардович": 83,
-      "Хохлов Алексей Алексеевич": 109,
-      "Шелякин Дмитрий Викторович": 83
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 33,
+      "gas:candidate-vibid:2372000908867": 31,
+      "gas:candidate-vibid:2372000906687": 83,
+      "gas:candidate-vibid:2372000907917": 109,
+      "gas:candidate-vibid:2372000880620": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 18,
-      "Попов Павел Вениаминович": 26,
-      "Саломатин Дмитрий Эдуардович": 47,
-      "Хохлов Алексей Алексеевич": 71,
-      "Шелякин Дмитрий Викторович": 72
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 18,
+      "gas:candidate-vibid:2372000908867": 26,
+      "gas:candidate-vibid:2372000906687": 47,
+      "gas:candidate-vibid:2372000907917": 71,
+      "gas:candidate-vibid:2372000880620": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 38,
-      "Попов Павел Вениаминович": 44,
-      "Саломатин Дмитрий Эдуардович": 87,
-      "Хохлов Алексей Алексеевич": 115,
-      "Шелякин Дмитрий Викторович": 87
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 38,
+      "gas:candidate-vibid:2372000908867": 44,
+      "gas:candidate-vibid:2372000906687": 87,
+      "gas:candidate-vibid:2372000907917": 115,
+      "gas:candidate-vibid:2372000880620": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 46,
-      "Попов Павел Вениаминович": 34,
-      "Саломатин Дмитрий Эдуардович": 97,
-      "Хохлов Алексей Алексеевич": 99,
-      "Шелякин Дмитрий Викторович": 81
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 46,
+      "gas:candidate-vibid:2372000908867": 34,
+      "gas:candidate-vibid:2372000906687": 97,
+      "gas:candidate-vibid:2372000907917": 99,
+      "gas:candidate-vibid:2372000880620": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 25,
-      "Попов Павел Вениаминович": 40,
-      "Саломатин Дмитрий Эдуардович": 81,
-      "Хохлов Алексей Алексеевич": 104,
-      "Шелякин Дмитрий Викторович": 75
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 25,
+      "gas:candidate-vibid:2372000908867": 40,
+      "gas:candidate-vibid:2372000906687": 81,
+      "gas:candidate-vibid:2372000907917": 104,
+      "gas:candidate-vibid:2372000880620": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 19,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 16,
-      "Орехов Александр Станиславович": 30,
-      "Попов Павел Вениаминович": 49,
-      "Саломатин Дмитрий Эдуардович": 124,
-      "Хохлов Алексей Алексеевич": 128,
-      "Шелякин Дмитрий Викторович": 79
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 19,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 16,
+      "gas:candidate-vibid:2372000906676": 30,
+      "gas:candidate-vibid:2372000908867": 49,
+      "gas:candidate-vibid:2372000906687": 124,
+      "gas:candidate-vibid:2372000907917": 128,
+      "gas:candidate-vibid:2372000880620": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 22,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 35,
-      "Саломатин Дмитрий Эдуардович": 69,
-      "Хохлов Алексей Алексеевич": 100,
-      "Шелякин Дмитрий Викторович": 82
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 22,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 35,
+      "gas:candidate-vibid:2372000906687": 69,
+      "gas:candidate-vibid:2372000907917": 100,
+      "gas:candidate-vibid:2372000880620": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 37,
-      "Саломатин Дмитрий Эдуардович": 55,
-      "Хохлов Алексей Алексеевич": 89,
-      "Шелякин Дмитрий Викторович": 52
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 37,
+      "gas:candidate-vibid:2372000906687": 55,
+      "gas:candidate-vibid:2372000907917": 89,
+      "gas:candidate-vibid:2372000880620": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 30,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 31,
-      "Попов Павел Вениаминович": 42,
-      "Саломатин Дмитрий Эдуардович": 90,
-      "Хохлов Алексей Алексеевич": 122,
-      "Шелякин Дмитрий Викторович": 89
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 30,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 31,
+      "gas:candidate-vibid:2372000908867": 42,
+      "gas:candidate-vibid:2372000906687": 90,
+      "gas:candidate-vibid:2372000907917": 122,
+      "gas:candidate-vibid:2372000880620": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 21,
-      "Саломатин Дмитрий Эдуардович": 42,
-      "Хохлов Алексей Алексеевич": 72,
-      "Шелякин Дмитрий Викторович": 54
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 21,
+      "gas:candidate-vibid:2372000906687": 42,
+      "gas:candidate-vibid:2372000907917": 72,
+      "gas:candidate-vibid:2372000880620": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 18,
-      "Попов Павел Вениаминович": 31,
-      "Саломатин Дмитрий Эдуардович": 39,
-      "Хохлов Алексей Алексеевич": 114,
-      "Шелякин Дмитрий Викторович": 32
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 18,
+      "gas:candidate-vibid:2372000908867": 31,
+      "gas:candidate-vibid:2372000906687": 39,
+      "gas:candidate-vibid:2372000907917": 114,
+      "gas:candidate-vibid:2372000880620": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 16,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 31,
-      "Попов Павел Вениаминович": 60,
-      "Саломатин Дмитрий Эдуардович": 85,
-      "Хохлов Алексей Алексеевич": 104,
-      "Шелякин Дмитрий Викторович": 79
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 16,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 31,
+      "gas:candidate-vibid:2372000908867": 60,
+      "gas:candidate-vibid:2372000906687": 85,
+      "gas:candidate-vibid:2372000907917": 104,
+      "gas:candidate-vibid:2372000880620": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 39,
-      "Саломатин Дмитрий Эдуардович": 76,
-      "Хохлов Алексей Алексеевич": 100,
-      "Шелякин Дмитрий Викторович": 65
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 39,
+      "gas:candidate-vibid:2372000906687": 76,
+      "gas:candidate-vibid:2372000907917": 100,
+      "gas:candidate-vibid:2372000880620": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 17,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 18,
-      "Попов Павел Вениаминович": 62,
-      "Саломатин Дмитрий Эдуардович": 70,
-      "Хохлов Алексей Алексеевич": 117,
-      "Шелякин Дмитрий Викторович": 70
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 17,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 18,
+      "gas:candidate-vibid:2372000908867": 62,
+      "gas:candidate-vibid:2372000906687": 70,
+      "gas:candidate-vibid:2372000907917": 117,
+      "gas:candidate-vibid:2372000880620": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 113,
-      "Саломатин Дмитрий Эдуардович": 122,
-      "Хохлов Алексей Алексеевич": 172,
-      "Шелякин Дмитрий Викторович": 75
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 113,
+      "gas:candidate-vibid:2372000906687": 122,
+      "gas:candidate-vibid:2372000907917": 172,
+      "gas:candidate-vibid:2372000880620": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 41,
-      "Попов Павел Вениаминович": 74,
-      "Саломатин Дмитрий Эдуардович": 78,
-      "Хохлов Алексей Алексеевич": 89,
-      "Шелякин Дмитрий Викторович": 53
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 41,
+      "gas:candidate-vibid:2372000908867": 74,
+      "gas:candidate-vibid:2372000906687": 78,
+      "gas:candidate-vibid:2372000907917": 89,
+      "gas:candidate-vibid:2372000880620": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 26,
-      "Попов Павел Вениаминович": 46,
-      "Саломатин Дмитрий Эдуардович": 78,
-      "Хохлов Алексей Алексеевич": 135,
-      "Шелякин Дмитрий Викторович": 63
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 26,
+      "gas:candidate-vibid:2372000908867": 46,
+      "gas:candidate-vibid:2372000906687": 78,
+      "gas:candidate-vibid:2372000907917": 135,
+      "gas:candidate-vibid:2372000880620": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 21,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 37,
-      "Саломатин Дмитрий Эдуардович": 94,
-      "Хохлов Алексей Алексеевич": 63,
-      "Шелякин Дмитрий Викторович": 54
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 21,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 37,
+      "gas:candidate-vibid:2372000906687": 94,
+      "gas:candidate-vibid:2372000907917": 63,
+      "gas:candidate-vibid:2372000880620": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 16,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 47,
-      "Саломатин Дмитрий Эдуардович": 75,
-      "Хохлов Алексей Алексеевич": 87,
-      "Шелякин Дмитрий Викторович": 48
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 16,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 47,
+      "gas:candidate-vibid:2372000906687": 75,
+      "gas:candidate-vibid:2372000907917": 87,
+      "gas:candidate-vibid:2372000880620": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 23,
-      "Попов Павел Вениаминович": 13,
-      "Саломатин Дмитрий Эдуардович": 65,
-      "Хохлов Алексей Алексеевич": 106,
-      "Шелякин Дмитрий Викторович": 52
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 23,
+      "gas:candidate-vibid:2372000908867": 13,
+      "gas:candidate-vibid:2372000906687": 65,
+      "gas:candidate-vibid:2372000907917": 106,
+      "gas:candidate-vibid:2372000880620": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 21,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 28,
-      "Попов Павел Вениаминович": 87,
-      "Саломатин Дмитрий Эдуардович": 124,
-      "Хохлов Алексей Алексеевич": 118,
-      "Шелякин Дмитрий Викторович": 64
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 21,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 28,
+      "gas:candidate-vibid:2372000908867": 87,
+      "gas:candidate-vibid:2372000906687": 124,
+      "gas:candidate-vibid:2372000907917": 118,
+      "gas:candidate-vibid:2372000880620": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 10,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 27,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 60,
-      "Саломатин Дмитрий Эдуардович": 82,
-      "Хохлов Алексей Алексеевич": 162,
-      "Шелякин Дмитрий Викторович": 83
+      "gas:candidate-vibid:2372000908324": 10,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 27,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 60,
+      "gas:candidate-vibid:2372000906687": 82,
+      "gas:candidate-vibid:2372000907917": 162,
+      "gas:candidate-vibid:2372000880620": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 12,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 46,
-      "Саломатин Дмитрий Эдуардович": 82,
-      "Хохлов Алексей Алексеевич": 87,
-      "Шелякин Дмитрий Викторович": 47
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 12,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 46,
+      "gas:candidate-vibid:2372000906687": 82,
+      "gas:candidate-vibid:2372000907917": 87,
+      "gas:candidate-vibid:2372000880620": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 18,
-      "Даричева Ольга Алексеевна": 22,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 13,
-      "Орехов Александр Станиславович": 32,
-      "Попов Павел Вениаминович": 72,
-      "Саломатин Дмитрий Эдуардович": 123,
-      "Хохлов Алексей Алексеевич": 183,
-      "Шелякин Дмитрий Викторович": 96
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 18,
+      "gas:candidate-vibid:2372000908525": 22,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 13,
+      "gas:candidate-vibid:2372000906676": 32,
+      "gas:candidate-vibid:2372000908867": 72,
+      "gas:candidate-vibid:2372000906687": 123,
+      "gas:candidate-vibid:2372000907917": 183,
+      "gas:candidate-vibid:2372000880620": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 14,
-      "Даричева Ольга Алексеевна": 24,
-      "Калинин Вячеслав Вячеславович": 18,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 30,
-      "Попов Павел Вениаминович": 109,
-      "Саломатин Дмитрий Эдуардович": 173,
-      "Хохлов Алексей Алексеевич": 204,
-      "Шелякин Дмитрий Викторович": 100
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 14,
+      "gas:candidate-vibid:2372000908525": 24,
+      "gas:candidate-vibid:2372000908248": 18,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 30,
+      "gas:candidate-vibid:2372000908867": 109,
+      "gas:candidate-vibid:2372000906687": 173,
+      "gas:candidate-vibid:2372000907917": 204,
+      "gas:candidate-vibid:2372000880620": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 11,
-      "Даричева Ольга Алексеевна": 17,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 23,
-      "Попов Павел Вениаминович": 64,
-      "Саломатин Дмитрий Эдуардович": 102,
-      "Хохлов Алексей Алексеевич": 125,
-      "Шелякин Дмитрий Викторович": 74
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 11,
+      "gas:candidate-vibid:2372000908525": 17,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 23,
+      "gas:candidate-vibid:2372000908867": 64,
+      "gas:candidate-vibid:2372000906687": 102,
+      "gas:candidate-vibid:2372000907917": 125,
+      "gas:candidate-vibid:2372000880620": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 26,
-      "Даричева Ольга Алексеевна": 27,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 33,
-      "Попов Павел Вениаминович": 130,
-      "Саломатин Дмитрий Эдуардович": 178,
-      "Хохлов Алексей Алексеевич": 204,
-      "Шелякин Дмитрий Викторович": 104
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 26,
+      "gas:candidate-vibid:2372000908525": 27,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 33,
+      "gas:candidate-vibid:2372000908867": 130,
+      "gas:candidate-vibid:2372000906687": 178,
+      "gas:candidate-vibid:2372000907917": 204,
+      "gas:candidate-vibid:2372000880620": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 14,
-      "Попов Павел Вениаминович": 73,
-      "Саломатин Дмитрий Эдуардович": 107,
-      "Хохлов Алексей Алексеевич": 122,
-      "Шелякин Дмитрий Викторович": 50
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 14,
+      "gas:candidate-vibid:2372000908867": 73,
+      "gas:candidate-vibid:2372000906687": 107,
+      "gas:candidate-vibid:2372000907917": 122,
+      "gas:candidate-vibid:2372000880620": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 24,
-      "Попов Павел Вениаминович": 53,
-      "Саломатин Дмитрий Эдуардович": 71,
-      "Хохлов Алексей Алексеевич": 96,
-      "Шелякин Дмитрий Викторович": 43
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 24,
+      "gas:candidate-vibid:2372000908867": 53,
+      "gas:candidate-vibid:2372000906687": 71,
+      "gas:candidate-vibid:2372000907917": 96,
+      "gas:candidate-vibid:2372000880620": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 48,
-      "Саломатин Дмитрий Эдуардович": 83,
-      "Хохлов Алексей Алексеевич": 123,
-      "Шелякин Дмитрий Викторович": 78
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 48,
+      "gas:candidate-vibid:2372000906687": 83,
+      "gas:candidate-vibid:2372000907917": 123,
+      "gas:candidate-vibid:2372000880620": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 42,
-      "Саломатин Дмитрий Эдуардович": 56,
-      "Хохлов Алексей Алексеевич": 64,
-      "Шелякин Дмитрий Викторович": 59
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 42,
+      "gas:candidate-vibid:2372000906687": 56,
+      "gas:candidate-vibid:2372000907917": 64,
+      "gas:candidate-vibid:2372000880620": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 51,
-      "Саломатин Дмитрий Эдуардович": 84,
-      "Хохлов Алексей Алексеевич": 77,
-      "Шелякин Дмитрий Викторович": 53
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 51,
+      "gas:candidate-vibid:2372000906687": 84,
+      "gas:candidate-vibid:2372000907917": 77,
+      "gas:candidate-vibid:2372000880620": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 37,
-      "Саломатин Дмитрий Эдуардович": 81,
-      "Хохлов Алексей Алексеевич": 79,
-      "Шелякин Дмитрий Викторович": 73
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 37,
+      "gas:candidate-vibid:2372000906687": 81,
+      "gas:candidate-vibid:2372000907917": 79,
+      "gas:candidate-vibid:2372000880620": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 30,
-      "Попов Павел Вениаминович": 40,
-      "Саломатин Дмитрий Эдуардович": 70,
-      "Хохлов Алексей Алексеевич": 128,
-      "Шелякин Дмитрий Викторович": 75
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 30,
+      "gas:candidate-vibid:2372000908867": 40,
+      "gas:candidate-vibid:2372000906687": 70,
+      "gas:candidate-vibid:2372000907917": 128,
+      "gas:candidate-vibid:2372000880620": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 12,
-      "Орехов Александр Станиславович": 37,
-      "Попов Павел Вениаминович": 29,
-      "Саломатин Дмитрий Эдуардович": 73,
-      "Хохлов Алексей Алексеевич": 116,
-      "Шелякин Дмитрий Викторович": 83
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 12,
+      "gas:candidate-vibid:2372000906676": 37,
+      "gas:candidate-vibid:2372000908867": 29,
+      "gas:candidate-vibid:2372000906687": 73,
+      "gas:candidate-vibid:2372000907917": 116,
+      "gas:candidate-vibid:2372000880620": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 11,
-      "Даричева Ольга Алексеевна": 28,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 35,
-      "Попов Павел Вениаминович": 42,
-      "Саломатин Дмитрий Эдуардович": 99,
-      "Хохлов Алексей Алексеевич": 141,
-      "Шелякин Дмитрий Викторович": 90
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 11,
+      "gas:candidate-vibid:2372000908525": 28,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 35,
+      "gas:candidate-vibid:2372000908867": 42,
+      "gas:candidate-vibid:2372000906687": 99,
+      "gas:candidate-vibid:2372000907917": 141,
+      "gas:candidate-vibid:2372000880620": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849566&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849566&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 11,
-      "Даричева Ольга Алексеевна": 27,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 40,
-      "Попов Павел Вениаминович": 46,
-      "Саломатин Дмитрий Эдуардович": 100,
-      "Хохлов Алексей Алексеевич": 1098,
-      "Шелякин Дмитрий Викторович": 214
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 11,
+      "gas:candidate-vibid:2372000908525": 27,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 40,
+      "gas:candidate-vibid:2372000908867": 46,
+      "gas:candidate-vibid:2372000906687": 100,
+      "gas:candidate-vibid:2372000907917": 1098,
+      "gas:candidate-vibid:2372000880620": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 54,
-      "Хохлов Алексей Алексеевич": 110,
-      "Шелякин Дмитрий Викторович": 66
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 54,
+      "gas:candidate-vibid:2372000907917": 110,
+      "gas:candidate-vibid:2372000880620": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 14,
-      "Саломатин Дмитрий Эдуардович": 26,
-      "Хохлов Алексей Алексеевич": 164,
-      "Шелякин Дмитрий Викторович": 22
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 14,
+      "gas:candidate-vibid:2372000906687": 26,
+      "gas:candidate-vibid:2372000907917": 164,
+      "gas:candidate-vibid:2372000880620": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 47,
-      "Хохлов Алексей Алексеевич": 101,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 47,
+      "gas:candidate-vibid:2372000907917": 101,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 18,
-      "Хохлов Алексей Алексеевич": 154,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 18,
+      "gas:candidate-vibid:2372000907917": 154,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 23,
-      "Саломатин Дмитрий Эдуардович": 52,
-      "Хохлов Алексей Алексеевич": 200,
-      "Шелякин Дмитрий Викторович": 85
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 23,
+      "gas:candidate-vibid:2372000906687": 52,
+      "gas:candidate-vibid:2372000907917": 200,
+      "gas:candidate-vibid:2372000880620": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 4,
-      "Хохлов Алексей Алексеевич": 25,
-      "Шелякин Дмитрий Викторович": 9
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 4,
+      "gas:candidate-vibid:2372000907917": 25,
+      "gas:candidate-vibid:2372000880620": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 11,
-      "Хохлов Алексей Алексеевич": 20,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 11,
+      "gas:candidate-vibid:2372000907917": 20,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 2,
-      "Саломатин Дмитрий Эдуардович": 6,
-      "Хохлов Алексей Алексеевич": 21,
-      "Шелякин Дмитрий Викторович": 8
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 2,
+      "gas:candidate-vibid:2372000906687": 6,
+      "gas:candidate-vibid:2372000907917": 21,
+      "gas:candidate-vibid:2372000880620": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 26,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 55,
-      "Шелякин Дмитрий Викторович": 27
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 26,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 55,
+      "gas:candidate-vibid:2372000880620": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 5,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 26,
-      "Хохлов Алексей Алексеевич": 20,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 5,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 26,
+      "gas:candidate-vibid:2372000907917": 20,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 8,
-      "Хохлов Алексей Алексеевич": 136,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 8,
+      "gas:candidate-vibid:2372000907917": 136,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 20,
-      "Хохлов Алексей Алексеевич": 173,
-      "Шелякин Дмитрий Викторович": 64
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 20,
+      "gas:candidate-vibid:2372000907917": 173,
+      "gas:candidate-vibid:2372000880620": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 26,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 36,
-      "Хохлов Алексей Алексеевич": 155,
-      "Шелякин Дмитрий Викторович": 26
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 26,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 36,
+      "gas:candidate-vibid:2372000907917": 155,
+      "gas:candidate-vibid:2372000880620": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 12,
-      "Бедяев Данила Сергеевич": 18,
-      "Даричева Ольга Алексеевна": 35,
-      "Калинин Вячеслав Вячеславович": 19,
-      "Курин Владимир Геннадьевич": 14,
-      "Орехов Александр Станиславович": 41,
-      "Попов Павел Вениаминович": 97,
-      "Саломатин Дмитрий Эдуардович": 114,
-      "Хохлов Алексей Алексеевич": 956,
-      "Шелякин Дмитрий Викторович": 359
+      "gas:candidate-vibid:2372000908324": 12,
+      "gas:candidate-vibid:2372000908226": 18,
+      "gas:candidate-vibid:2372000908525": 35,
+      "gas:candidate-vibid:2372000908248": 19,
+      "gas:candidate-vibid:2372000907812": 14,
+      "gas:candidate-vibid:2372000906676": 41,
+      "gas:candidate-vibid:2372000908867": 97,
+      "gas:candidate-vibid:2372000906687": 114,
+      "gas:candidate-vibid:2372000907917": 956,
+      "gas:candidate-vibid:2372000880620": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 28,
-      "Саломатин Дмитрий Эдуардович": 53,
-      "Хохлов Алексей Алексеевич": 115,
-      "Шелякин Дмитрий Викторович": 39
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 28,
+      "gas:candidate-vibid:2372000906687": 53,
+      "gas:candidate-vibid:2372000907917": 115,
+      "gas:candidate-vibid:2372000880620": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 5,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 15,
-      "Хохлов Алексей Алексеевич": 96,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 5,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 15,
+      "gas:candidate-vibid:2372000907917": 96,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 30,
-      "Попов Павел Вениаминович": 16,
-      "Саломатин Дмитрий Эдуардович": 90,
-      "Хохлов Алексей Алексеевич": 178,
-      "Шелякин Дмитрий Викторович": 49
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 30,
+      "gas:candidate-vibid:2372000908867": 16,
+      "gas:candidate-vibid:2372000906687": 90,
+      "gas:candidate-vibid:2372000907917": 178,
+      "gas:candidate-vibid:2372000880620": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 16,
-      "Саломатин Дмитрий Эдуардович": 40,
-      "Хохлов Алексей Алексеевич": 90,
-      "Шелякин Дмитрий Викторович": 32
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 16,
+      "gas:candidate-vibid:2372000906687": 40,
+      "gas:candidate-vibid:2372000907917": 90,
+      "gas:candidate-vibid:2372000880620": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 0,
-      "Саломатин Дмитрий Эдуардович": 7,
-      "Хохлов Алексей Алексеевич": 62,
-      "Шелякин Дмитрий Викторович": 9
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 0,
+      "gas:candidate-vibid:2372000906687": 7,
+      "gas:candidate-vibid:2372000907917": 62,
+      "gas:candidate-vibid:2372000880620": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 17,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 49,
-      "Хохлов Алексей Алексеевич": 168,
-      "Шелякин Дмитрий Викторович": 52
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 17,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 49,
+      "gas:candidate-vibid:2372000907917": 168,
+      "gas:candidate-vibid:2372000880620": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 11,
-      "Хохлов Алексей Алексеевич": 100,
-      "Шелякин Дмитрий Викторович": 14
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 11,
+      "gas:candidate-vibid:2372000907917": 100,
+      "gas:candidate-vibid:2372000880620": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 16,
-      "Даричева Ольга Алексеевна": 32,
-      "Калинин Вячеслав Вячеславович": 14,
-      "Курин Владимир Геннадьевич": 11,
-      "Орехов Александр Станиславович": 65,
-      "Попов Павел Вениаминович": 73,
-      "Саломатин Дмитрий Эдуардович": 161,
-      "Хохлов Алексей Алексеевич": 425,
-      "Шелякин Дмитрий Викторович": 206
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 16,
+      "gas:candidate-vibid:2372000908525": 32,
+      "gas:candidate-vibid:2372000908248": 14,
+      "gas:candidate-vibid:2372000907812": 11,
+      "gas:candidate-vibid:2372000906676": 65,
+      "gas:candidate-vibid:2372000908867": 73,
+      "gas:candidate-vibid:2372000906687": 161,
+      "gas:candidate-vibid:2372000907917": 425,
+      "gas:candidate-vibid:2372000880620": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 22,
-      "Хохлов Алексей Алексеевич": 123,
-      "Шелякин Дмитрий Викторович": 16
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 22,
+      "gas:candidate-vibid:2372000907917": 123,
+      "gas:candidate-vibid:2372000880620": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 14,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 9,
-      "Хохлов Алексей Алексеевич": 130,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 14,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 9,
+      "gas:candidate-vibid:2372000907917": 130,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849567&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849567&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 10,
-      "Орехов Александр Станиславович": 28,
-      "Попов Павел Вениаминович": 45,
-      "Саломатин Дмитрий Эдуардович": 126,
-      "Хохлов Алексей Алексеевич": 261,
-      "Шелякин Дмитрий Викторович": 87
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 10,
+      "gas:candidate-vibid:2372000906676": 28,
+      "gas:candidate-vibid:2372000908867": 45,
+      "gas:candidate-vibid:2372000906687": 126,
+      "gas:candidate-vibid:2372000907917": 261,
+      "gas:candidate-vibid:2372000880620": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 17,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 43,
-      "Саломатин Дмитрий Эдуардович": 135,
-      "Хохлов Алексей Алексеевич": 123,
-      "Шелякин Дмитрий Викторович": 67
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 17,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 43,
+      "gas:candidate-vibid:2372000906687": 135,
+      "gas:candidate-vibid:2372000907917": 123,
+      "gas:candidate-vibid:2372000880620": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 23,
-      "Попов Павел Вениаминович": 21,
-      "Саломатин Дмитрий Эдуардович": 98,
-      "Хохлов Алексей Алексеевич": 123,
-      "Шелякин Дмитрий Викторович": 49
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 23,
+      "gas:candidate-vibid:2372000908867": 21,
+      "gas:candidate-vibid:2372000906687": 98,
+      "gas:candidate-vibid:2372000907917": 123,
+      "gas:candidate-vibid:2372000880620": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 11,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 21,
-      "Калинин Вячеслав Вячеславович": 20,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 60,
-      "Попов Павел Вениаминович": 94,
-      "Саломатин Дмитрий Эдуардович": 262,
-      "Хохлов Алексей Алексеевич": 262,
-      "Шелякин Дмитрий Викторович": 128
+      "gas:candidate-vibid:2372000908324": 11,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 21,
+      "gas:candidate-vibid:2372000908248": 20,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 60,
+      "gas:candidate-vibid:2372000908867": 94,
+      "gas:candidate-vibid:2372000906687": 262,
+      "gas:candidate-vibid:2372000907917": 262,
+      "gas:candidate-vibid:2372000880620": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 24,
-      "Саломатин Дмитрий Эдуардович": 101,
-      "Хохлов Алексей Алексеевич": 108,
-      "Шелякин Дмитрий Викторович": 62
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 24,
+      "gas:candidate-vibid:2372000906687": 101,
+      "gas:candidate-vibid:2372000907917": 108,
+      "gas:candidate-vibid:2372000880620": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 23,
-      "Попов Павел Вениаминович": 34,
-      "Саломатин Дмитрий Эдуардович": 123,
-      "Хохлов Алексей Алексеевич": 113,
-      "Шелякин Дмитрий Викторович": 66
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 23,
+      "gas:candidate-vibid:2372000908867": 34,
+      "gas:candidate-vibid:2372000906687": 123,
+      "gas:candidate-vibid:2372000907917": 113,
+      "gas:candidate-vibid:2372000880620": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 10,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 26,
-      "Калинин Вячеслав Вячеславович": 17,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 36,
-      "Попов Павел Вениаминович": 83,
-      "Саломатин Дмитрий Эдуардович": 271,
-      "Хохлов Алексей Алексеевич": 200,
-      "Шелякин Дмитрий Викторович": 111
+      "gas:candidate-vibid:2372000908324": 10,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 26,
+      "gas:candidate-vibid:2372000908248": 17,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 36,
+      "gas:candidate-vibid:2372000908867": 83,
+      "gas:candidate-vibid:2372000906687": 271,
+      "gas:candidate-vibid:2372000907917": 200,
+      "gas:candidate-vibid:2372000880620": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 41,
-      "Бедяев Данила Сергеевич": 34,
-      "Даричева Ольга Алексеевна": 32,
-      "Калинин Вячеслав Вячеславович": 25,
-      "Курин Владимир Геннадьевич": 19,
-      "Орехов Александр Станиславович": 33,
-      "Попов Павел Вениаминович": 47,
-      "Саломатин Дмитрий Эдуардович": 82,
-      "Хохлов Алексей Алексеевич": 198,
-      "Шелякин Дмитрий Викторович": 98
+      "gas:candidate-vibid:2372000908324": 41,
+      "gas:candidate-vibid:2372000908226": 34,
+      "gas:candidate-vibid:2372000908525": 32,
+      "gas:candidate-vibid:2372000908248": 25,
+      "gas:candidate-vibid:2372000907812": 19,
+      "gas:candidate-vibid:2372000906676": 33,
+      "gas:candidate-vibid:2372000908867": 47,
+      "gas:candidate-vibid:2372000906687": 82,
+      "gas:candidate-vibid:2372000907917": 198,
+      "gas:candidate-vibid:2372000880620": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 13,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 17,
-      "Попов Павел Вениаминович": 45,
-      "Саломатин Дмитрий Эдуардович": 173,
-      "Хохлов Алексей Алексеевич": 163,
-      "Шелякин Дмитрий Викторович": 74
+      "gas:candidate-vibid:2372000908324": 13,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 17,
+      "gas:candidate-vibid:2372000908867": 45,
+      "gas:candidate-vibid:2372000906687": 173,
+      "gas:candidate-vibid:2372000907917": 163,
+      "gas:candidate-vibid:2372000880620": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 67,
-      "Саломатин Дмитрий Эдуардович": 149,
-      "Хохлов Алексей Алексеевич": 134,
-      "Шелякин Дмитрий Викторович": 78
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 67,
+      "gas:candidate-vibid:2372000906687": 149,
+      "gas:candidate-vibid:2372000907917": 134,
+      "gas:candidate-vibid:2372000880620": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 10,
-      "Орехов Александр Станиславович": 23,
-      "Попов Павел Вениаминович": 51,
-      "Саломатин Дмитрий Эдуардович": 192,
-      "Хохлов Алексей Алексеевич": 174,
-      "Шелякин Дмитрий Викторович": 76
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 10,
+      "gas:candidate-vibid:2372000906676": 23,
+      "gas:candidate-vibid:2372000908867": 51,
+      "gas:candidate-vibid:2372000906687": 192,
+      "gas:candidate-vibid:2372000907917": 174,
+      "gas:candidate-vibid:2372000880620": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 40,
-      "Бедяев Данила Сергеевич": 25,
-      "Даричева Ольга Алексеевна": 56,
-      "Калинин Вячеслав Вячеславович": 43,
-      "Курин Владимир Геннадьевич": 36,
-      "Орехов Александр Станиславович": 57,
-      "Попов Павел Вениаминович": 84,
-      "Саломатин Дмитрий Эдуардович": 110,
-      "Хохлов Алексей Алексеевич": 277,
-      "Шелякин Дмитрий Викторович": 161
+      "gas:candidate-vibid:2372000908324": 40,
+      "gas:candidate-vibid:2372000908226": 25,
+      "gas:candidate-vibid:2372000908525": 56,
+      "gas:candidate-vibid:2372000908248": 43,
+      "gas:candidate-vibid:2372000907812": 36,
+      "gas:candidate-vibid:2372000906676": 57,
+      "gas:candidate-vibid:2372000908867": 84,
+      "gas:candidate-vibid:2372000906687": 110,
+      "gas:candidate-vibid:2372000907917": 277,
+      "gas:candidate-vibid:2372000880620": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 39,
-      "Бедяев Данила Сергеевич": 23,
-      "Даричева Ольга Алексеевна": 50,
-      "Калинин Вячеслав Вячеславович": 36,
-      "Курин Владимир Геннадьевич": 60,
-      "Орехов Александр Станиславович": 65,
-      "Попов Павел Вениаминович": 92,
-      "Саломатин Дмитрий Эдуардович": 176,
-      "Хохлов Алексей Алексеевич": 392,
-      "Шелякин Дмитрий Викторович": 187
+      "gas:candidate-vibid:2372000908324": 39,
+      "gas:candidate-vibid:2372000908226": 23,
+      "gas:candidate-vibid:2372000908525": 50,
+      "gas:candidate-vibid:2372000908248": 36,
+      "gas:candidate-vibid:2372000907812": 60,
+      "gas:candidate-vibid:2372000906676": 65,
+      "gas:candidate-vibid:2372000908867": 92,
+      "gas:candidate-vibid:2372000906687": 176,
+      "gas:candidate-vibid:2372000907917": 392,
+      "gas:candidate-vibid:2372000880620": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 48,
-      "Бедяев Данила Сергеевич": 29,
-      "Даричева Ольга Алексеевна": 51,
-      "Калинин Вячеслав Вячеславович": 39,
-      "Курин Владимир Геннадьевич": 45,
-      "Орехов Александр Станиславович": 76,
-      "Попов Павел Вениаминович": 130,
-      "Саломатин Дмитрий Эдуардович": 246,
-      "Хохлов Алексей Алексеевич": 330,
-      "Шелякин Дмитрий Викторович": 207
+      "gas:candidate-vibid:2372000908324": 48,
+      "gas:candidate-vibid:2372000908226": 29,
+      "gas:candidate-vibid:2372000908525": 51,
+      "gas:candidate-vibid:2372000908248": 39,
+      "gas:candidate-vibid:2372000907812": 45,
+      "gas:candidate-vibid:2372000906676": 76,
+      "gas:candidate-vibid:2372000908867": 130,
+      "gas:candidate-vibid:2372000906687": 246,
+      "gas:candidate-vibid:2372000907917": 330,
+      "gas:candidate-vibid:2372000880620": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 43,
-      "Бедяев Данила Сергеевич": 31,
-      "Даричева Ольга Алексеевна": 42,
-      "Калинин Вячеслав Вячеславович": 38,
-      "Курин Владимир Геннадьевич": 45,
-      "Орехов Александр Станиславович": 41,
-      "Попов Павел Вениаминович": 67,
-      "Саломатин Дмитрий Эдуардович": 163,
-      "Хохлов Алексей Алексеевич": 350,
-      "Шелякин Дмитрий Викторович": 208
+      "gas:candidate-vibid:2372000908324": 43,
+      "gas:candidate-vibid:2372000908226": 31,
+      "gas:candidate-vibid:2372000908525": 42,
+      "gas:candidate-vibid:2372000908248": 38,
+      "gas:candidate-vibid:2372000907812": 45,
+      "gas:candidate-vibid:2372000906676": 41,
+      "gas:candidate-vibid:2372000908867": 67,
+      "gas:candidate-vibid:2372000906687": 163,
+      "gas:candidate-vibid:2372000907917": 350,
+      "gas:candidate-vibid:2372000880620": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 17,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 35,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 25,
-      "Орехов Александр Станиславович": 17,
-      "Попов Павел Вениаминович": 38,
-      "Саломатин Дмитрий Эдуардович": 65,
-      "Хохлов Алексей Алексеевич": 213,
-      "Шелякин Дмитрий Викторович": 145
+      "gas:candidate-vibid:2372000908324": 17,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 35,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 25,
+      "gas:candidate-vibid:2372000906676": 17,
+      "gas:candidate-vibid:2372000908867": 38,
+      "gas:candidate-vibid:2372000906687": 65,
+      "gas:candidate-vibid:2372000907917": 213,
+      "gas:candidate-vibid:2372000880620": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849568&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849568&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 58,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 58,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 51,
-      "Хохлов Алексей Алексеевич": 87,
-      "Шелякин Дмитрий Викторович": 43
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 51,
+      "gas:candidate-vibid:2372000907917": 87,
+      "gas:candidate-vibid:2372000880620": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 12,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 14,
-      "Курин Владимир Геннадьевич": 15,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 51,
-      "Хохлов Алексей Алексеевич": 139,
-      "Шелякин Дмитрий Викторович": 57
+      "gas:candidate-vibid:2372000908324": 12,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 14,
+      "gas:candidate-vibid:2372000907812": 15,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 51,
+      "gas:candidate-vibid:2372000907917": 139,
+      "gas:candidate-vibid:2372000880620": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 40,
-      "Хохлов Алексей Алексеевич": 144,
-      "Шелякин Дмитрий Викторович": 49
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 40,
+      "gas:candidate-vibid:2372000907917": 144,
+      "gas:candidate-vibid:2372000880620": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 20,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 35,
-      "Попов Павел Вениаминович": 23,
-      "Саломатин Дмитрий Эдуардович": 81,
-      "Хохлов Алексей Алексеевич": 180,
-      "Шелякин Дмитрий Викторович": 52
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 20,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 35,
+      "gas:candidate-vibid:2372000908867": 23,
+      "gas:candidate-vibid:2372000906687": 81,
+      "gas:candidate-vibid:2372000907917": 180,
+      "gas:candidate-vibid:2372000880620": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 14,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 16,
-      "Саломатин Дмитрий Эдуардович": 45,
-      "Хохлов Алексей Алексеевич": 103,
-      "Шелякин Дмитрий Викторович": 34
+      "gas:candidate-vibid:2372000908324": 14,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 16,
+      "gas:candidate-vibid:2372000906687": 45,
+      "gas:candidate-vibid:2372000907917": 103,
+      "gas:candidate-vibid:2372000880620": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 29,
-      "Попов Павел Вениаминович": 17,
-      "Саломатин Дмитрий Эдуардович": 55,
-      "Хохлов Алексей Алексеевич": 109,
-      "Шелякин Дмитрий Викторович": 48
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 29,
+      "gas:candidate-vibid:2372000908867": 17,
+      "gas:candidate-vibid:2372000906687": 55,
+      "gas:candidate-vibid:2372000907917": 109,
+      "gas:candidate-vibid:2372000880620": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 1,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 16,
-      "Хохлов Алексей Алексеевич": 68,
-      "Шелякин Дмитрий Викторович": 14
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 1,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 16,
+      "gas:candidate-vibid:2372000907917": 68,
+      "gas:candidate-vibid:2372000880620": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 13,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 37,
-      "Хохлов Алексей Алексеевич": 136,
-      "Шелякин Дмитрий Викторович": 57
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 13,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 37,
+      "gas:candidate-vibid:2372000907917": 136,
+      "gas:candidate-vibid:2372000880620": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 42,
-      "Хохлов Алексей Алексеевич": 100,
-      "Шелякин Дмитрий Викторович": 56
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 42,
+      "gas:candidate-vibid:2372000907917": 100,
+      "gas:candidate-vibid:2372000880620": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 11,
-      "Саломатин Дмитрий Эдуардович": 20,
-      "Хохлов Алексей Алексеевич": 62,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 11,
+      "gas:candidate-vibid:2372000906687": 20,
+      "gas:candidate-vibid:2372000907917": 62,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 9,
-      "Саломатин Дмитрий Эдуардович": 8,
-      "Хохлов Алексей Алексеевич": 65,
-      "Шелякин Дмитрий Викторович": 22
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 9,
+      "gas:candidate-vibid:2372000906687": 8,
+      "gas:candidate-vibid:2372000907917": 65,
+      "gas:candidate-vibid:2372000880620": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 14,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 25,
-      "Попов Павел Вениаминович": 28,
-      "Саломатин Дмитрий Эдуардович": 120,
-      "Хохлов Алексей Алексеевич": 187,
-      "Шелякин Дмитрий Викторович": 52
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 14,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 25,
+      "gas:candidate-vibid:2372000908867": 28,
+      "gas:candidate-vibid:2372000906687": 120,
+      "gas:candidate-vibid:2372000907917": 187,
+      "gas:candidate-vibid:2372000880620": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 20,
-      "Саломатин Дмитрий Эдуардович": 62,
-      "Хохлов Алексей Алексеевич": 106,
-      "Шелякин Дмитрий Викторович": 42
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 20,
+      "gas:candidate-vibid:2372000906687": 62,
+      "gas:candidate-vibid:2372000907917": 106,
+      "gas:candidate-vibid:2372000880620": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 14,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 11,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 27,
-      "Саломатин Дмитрий Эдуардович": 63,
-      "Хохлов Алексей Алексеевич": 173,
-      "Шелякин Дмитрий Викторович": 78
+      "gas:candidate-vibid:2372000908324": 14,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 11,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 27,
+      "gas:candidate-vibid:2372000906687": 63,
+      "gas:candidate-vibid:2372000907917": 173,
+      "gas:candidate-vibid:2372000880620": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849569&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849569&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 11,
-      "Саломатин Дмитрий Эдуардович": 29,
-      "Хохлов Алексей Алексеевич": 53,
-      "Шелякин Дмитрий Викторович": 27
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 11,
+      "gas:candidate-vibid:2372000906687": 29,
+      "gas:candidate-vibid:2372000907917": 53,
+      "gas:candidate-vibid:2372000880620": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 41,
-      "Саломатин Дмитрий Эдуардович": 79,
-      "Хохлов Алексей Алексеевич": 105,
-      "Шелякин Дмитрий Викторович": 85
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 41,
+      "gas:candidate-vibid:2372000906687": 79,
+      "gas:candidate-vibid:2372000907917": 105,
+      "gas:candidate-vibid:2372000880620": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 19,
-      "Саломатин Дмитрий Эдуардович": 46,
-      "Хохлов Алексей Алексеевич": 72,
-      "Шелякин Дмитрий Викторович": 54
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 19,
+      "gas:candidate-vibid:2372000906687": 46,
+      "gas:candidate-vibid:2372000907917": 72,
+      "gas:candidate-vibid:2372000880620": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 18,
-      "Саломатин Дмитрий Эдуардович": 34,
-      "Хохлов Алексей Алексеевич": 116,
-      "Шелякин Дмитрий Викторович": 62
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 18,
+      "gas:candidate-vibid:2372000906687": 34,
+      "gas:candidate-vibid:2372000907917": 116,
+      "gas:candidate-vibid:2372000880620": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 17,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 17,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 32,
-      "Саломатин Дмитрий Эдуардович": 60,
-      "Хохлов Алексей Алексеевич": 203,
-      "Шелякин Дмитрий Викторович": 118
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 17,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 17,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 32,
+      "gas:candidate-vibid:2372000906687": 60,
+      "gas:candidate-vibid:2372000907917": 203,
+      "gas:candidate-vibid:2372000880620": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 34,
-      "Попов Павел Вениаминович": 23,
-      "Саломатин Дмитрий Эдуардович": 111,
-      "Хохлов Алексей Алексеевич": 228,
-      "Шелякин Дмитрий Викторович": 146
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 34,
+      "gas:candidate-vibid:2372000908867": 23,
+      "gas:candidate-vibid:2372000906687": 111,
+      "gas:candidate-vibid:2372000907917": 228,
+      "gas:candidate-vibid:2372000880620": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 13,
-      "Попов Павел Вениаминович": 12,
-      "Саломатин Дмитрий Эдуардович": 30,
-      "Хохлов Алексей Алексеевич": 72,
-      "Шелякин Дмитрий Викторович": 42
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 13,
+      "gas:candidate-vibid:2372000908867": 12,
+      "gas:candidate-vibid:2372000906687": 30,
+      "gas:candidate-vibid:2372000907917": 72,
+      "gas:candidate-vibid:2372000880620": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 12,
-      "Саломатин Дмитрий Эдуардович": 27,
-      "Хохлов Алексей Алексеевич": 89,
-      "Шелякин Дмитрий Викторович": 41
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 12,
+      "gas:candidate-vibid:2372000906687": 27,
+      "gas:candidate-vibid:2372000907917": 89,
+      "gas:candidate-vibid:2372000880620": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 72,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 72,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 17,
-      "Саломатин Дмитрий Эдуардович": 53,
-      "Хохлов Алексей Алексеевич": 113,
-      "Шелякин Дмитрий Викторович": 71
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 17,
+      "gas:candidate-vibid:2372000906687": 53,
+      "gas:candidate-vibid:2372000907917": 113,
+      "gas:candidate-vibid:2372000880620": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 13,
-      "Хохлов Алексей Алексеевич": 57,
-      "Шелякин Дмитрий Викторович": 47
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 13,
+      "gas:candidate-vibid:2372000907917": 57,
+      "gas:candidate-vibid:2372000880620": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 6,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 109,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 6,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 109,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 2,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 13,
-      "Хохлов Алексей Алексеевич": 51,
-      "Шелякин Дмитрий Викторович": 17
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 2,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 13,
+      "gas:candidate-vibid:2372000907917": 51,
+      "gas:candidate-vibid:2372000880620": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 9,
-      "Саломатин Дмитрий Эдуардович": 12,
-      "Хохлов Алексей Алексеевич": 60,
-      "Шелякин Дмитрий Викторович": 41
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 9,
+      "gas:candidate-vibid:2372000906687": 12,
+      "gas:candidate-vibid:2372000907917": 60,
+      "gas:candidate-vibid:2372000880620": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 27,
-      "Хохлов Алексей Алексеевич": 46,
-      "Шелякин Дмитрий Викторович": 23
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 27,
+      "gas:candidate-vibid:2372000907917": 46,
+      "gas:candidate-vibid:2372000880620": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 9,
-      "Хохлов Алексей Алексеевич": 71,
-      "Шелякин Дмитрий Викторович": 32
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 9,
+      "gas:candidate-vibid:2372000907917": 71,
+      "gas:candidate-vibid:2372000880620": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 7,
-      "Хохлов Алексей Алексеевич": 24,
-      "Шелякин Дмитрий Викторович": 7
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 7,
+      "gas:candidate-vibid:2372000907917": 24,
+      "gas:candidate-vibid:2372000880620": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849570&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849570&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 10,
-      "Бедяев Данила Сергеевич": 14,
-      "Даричева Ольга Алексеевна": 16,
-      "Калинин Вячеслав Вячеславович": 16,
-      "Курин Владимир Геннадьевич": 11,
-      "Орехов Александр Станиславович": 34,
-      "Попов Павел Вениаминович": 24,
-      "Саломатин Дмитрий Эдуардович": 189,
-      "Хохлов Алексей Алексеевич": 220,
-      "Шелякин Дмитрий Викторович": 94
+      "gas:candidate-vibid:2372000908324": 10,
+      "gas:candidate-vibid:2372000908226": 14,
+      "gas:candidate-vibid:2372000908525": 16,
+      "gas:candidate-vibid:2372000908248": 16,
+      "gas:candidate-vibid:2372000907812": 11,
+      "gas:candidate-vibid:2372000906676": 34,
+      "gas:candidate-vibid:2372000908867": 24,
+      "gas:candidate-vibid:2372000906687": 189,
+      "gas:candidate-vibid:2372000907917": 220,
+      "gas:candidate-vibid:2372000880620": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 27,
-      "Попов Павел Вениаминович": 22,
-      "Саломатин Дмитрий Эдуардович": 133,
-      "Хохлов Алексей Алексеевич": 194,
-      "Шелякин Дмитрий Викторович": 67
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 27,
+      "gas:candidate-vibid:2372000908867": 22,
+      "gas:candidate-vibid:2372000906687": 133,
+      "gas:candidate-vibid:2372000907917": 194,
+      "gas:candidate-vibid:2372000880620": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 19,
-      "Саломатин Дмитрий Эдуардович": 77,
-      "Хохлов Алексей Алексеевич": 133,
-      "Шелякин Дмитрий Викторович": 33
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 19,
+      "gas:candidate-vibid:2372000906687": 77,
+      "gas:candidate-vibid:2372000907917": 133,
+      "gas:candidate-vibid:2372000880620": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 17,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 26,
-      "Саломатин Дмитрий Эдуардович": 128,
-      "Хохлов Алексей Алексеевич": 317,
-      "Шелякин Дмитрий Викторович": 68
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 17,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 26,
+      "gas:candidate-vibid:2372000906687": 128,
+      "gas:candidate-vibid:2372000907917": 317,
+      "gas:candidate-vibid:2372000880620": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 16,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 11,
-      "Саломатин Дмитрий Эдуардович": 49,
-      "Хохлов Алексей Алексеевич": 191,
-      "Шелякин Дмитрий Викторович": 41
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 16,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 11,
+      "gas:candidate-vibid:2372000906687": 49,
+      "gas:candidate-vibid:2372000907917": 191,
+      "gas:candidate-vibid:2372000880620": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 13,
-      "Орехов Александр Станиславович": 31,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 130,
-      "Хохлов Алексей Алексеевич": 212,
-      "Шелякин Дмитрий Викторович": 106
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 13,
+      "gas:candidate-vibid:2372000906676": 31,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 130,
+      "gas:candidate-vibid:2372000907917": 212,
+      "gas:candidate-vibid:2372000880620": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 26,
-      "Саломатин Дмитрий Эдуардович": 125,
-      "Хохлов Алексей Алексеевич": 128,
-      "Шелякин Дмитрий Викторович": 58
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 26,
+      "gas:candidate-vibid:2372000906687": 125,
+      "gas:candidate-vibid:2372000907917": 128,
+      "gas:candidate-vibid:2372000880620": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 40,
-      "Хохлов Алексей Алексеевич": 114,
-      "Шелякин Дмитрий Викторович": 23
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 40,
+      "gas:candidate-vibid:2372000907917": 114,
+      "gas:candidate-vibid:2372000880620": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 1,
-      "Саломатин Дмитрий Эдуардович": 35,
-      "Хохлов Алексей Алексеевич": 76,
-      "Шелякин Дмитрий Викторович": 9
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 1,
+      "gas:candidate-vibid:2372000906687": 35,
+      "gas:candidate-vibid:2372000907917": 76,
+      "gas:candidate-vibid:2372000880620": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 5,
-      "Попов Павел Вениаминович": 1,
-      "Саломатин Дмитрий Эдуардович": 20,
-      "Хохлов Алексей Алексеевич": 47,
-      "Шелякин Дмитрий Викторович": 6
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 5,
+      "gas:candidate-vibid:2372000908867": 1,
+      "gas:candidate-vibid:2372000906687": 20,
+      "gas:candidate-vibid:2372000907917": 47,
+      "gas:candidate-vibid:2372000880620": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 17,
-      "Попов Павел Вениаминович": 9,
-      "Саломатин Дмитрий Эдуардович": 65,
-      "Хохлов Алексей Алексеевич": 106,
-      "Шелякин Дмитрий Викторович": 57
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 17,
+      "gas:candidate-vibid:2372000908867": 9,
+      "gas:candidate-vibid:2372000906687": 65,
+      "gas:candidate-vibid:2372000907917": 106,
+      "gas:candidate-vibid:2372000880620": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 54,
-      "Хохлов Алексей Алексеевич": 116,
-      "Шелякин Дмитрий Викторович": 28
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 54,
+      "gas:candidate-vibid:2372000907917": 116,
+      "gas:candidate-vibid:2372000880620": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 38,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 38,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 2,
-      "Попов Павел Вениаминович": 13,
-      "Саломатин Дмитрий Эдуардович": 10,
-      "Хохлов Алексей Алексеевич": 31,
-      "Шелякин Дмитрий Викторович": 5
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 2,
+      "gas:candidate-vibid:2372000908867": 13,
+      "gas:candidate-vibid:2372000906687": 10,
+      "gas:candidate-vibid:2372000907917": 31,
+      "gas:candidate-vibid:2372000880620": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 0,
-      "Попов Павел Вениаминович": 1,
-      "Саломатин Дмитрий Эдуардович": 26,
-      "Хохлов Алексей Алексеевич": 31,
-      "Шелякин Дмитрий Викторович": 1
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 0,
+      "gas:candidate-vibid:2372000908867": 1,
+      "gas:candidate-vibid:2372000906687": 26,
+      "gas:candidate-vibid:2372000907917": 31,
+      "gas:candidate-vibid:2372000880620": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 44,
-      "Шелякин Дмитрий Викторович": 9
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 44,
+      "gas:candidate-vibid:2372000880620": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 1,
-      "Саломатин Дмитрий Эдуардович": 7,
-      "Хохлов Алексей Алексеевич": 50,
-      "Шелякин Дмитрий Викторович": 15
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 1,
+      "gas:candidate-vibid:2372000906687": 7,
+      "gas:candidate-vibid:2372000907917": 50,
+      "gas:candidate-vibid:2372000880620": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 5,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 24,
-      "Хохлов Алексей Алексеевич": 55,
-      "Шелякин Дмитрий Викторович": 5
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 5,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 24,
+      "gas:candidate-vibid:2372000907917": 55,
+      "gas:candidate-vibid:2372000880620": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 31,
-      "Хохлов Алексей Алексеевич": 88,
-      "Шелякин Дмитрий Викторович": 13
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 31,
+      "gas:candidate-vibid:2372000907917": 88,
+      "gas:candidate-vibid:2372000880620": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 13,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 69,
-      "Хохлов Алексей Алексеевич": 86,
-      "Шелякин Дмитрий Викторович": 17
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 13,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 69,
+      "gas:candidate-vibid:2372000907917": 86,
+      "gas:candidate-vibid:2372000880620": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 37,
-      "Хохлов Алексей Алексеевич": 25,
-      "Шелякин Дмитрий Викторович": 8
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 37,
+      "gas:candidate-vibid:2372000907917": 25,
+      "gas:candidate-vibid:2372000880620": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 1,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 17,
-      "Хохлов Алексей Алексеевич": 49,
-      "Шелякин Дмитрий Викторович": 8
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 1,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 17,
+      "gas:candidate-vibid:2372000907917": 49,
+      "gas:candidate-vibid:2372000880620": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 12,
-      "Хохлов Алексей Алексеевич": 35,
-      "Шелякин Дмитрий Викторович": 11
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 12,
+      "gas:candidate-vibid:2372000907917": 35,
+      "gas:candidate-vibid:2372000880620": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849571&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849571&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 58,
-      "Шелякин Дмитрий Викторович": 15
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 58,
+      "gas:candidate-vibid:2372000880620": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 30,
-      "Хохлов Алексей Алексеевич": 84,
-      "Шелякин Дмитрий Викторович": 8
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 30,
+      "gas:candidate-vibid:2372000907917": 84,
+      "gas:candidate-vibid:2372000880620": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 25,
-      "Хохлов Алексей Алексеевич": 49,
-      "Шелякин Дмитрий Викторович": 23
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 25,
+      "gas:candidate-vibid:2372000907917": 49,
+      "gas:candidate-vibid:2372000880620": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 1,
-      "Саломатин Дмитрий Эдуардович": 13,
-      "Хохлов Алексей Алексеевич": 36,
-      "Шелякин Дмитрий Викторович": 5
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 1,
+      "gas:candidate-vibid:2372000906687": 13,
+      "gas:candidate-vibid:2372000907917": 36,
+      "gas:candidate-vibid:2372000880620": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 16,
-      "Хохлов Алексей Алексеевич": 70,
-      "Шелякин Дмитрий Викторович": 16
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 16,
+      "gas:candidate-vibid:2372000907917": 70,
+      "gas:candidate-vibid:2372000880620": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 1,
-      "Попов Павел Вениаминович": 2,
-      "Саломатин Дмитрий Эдуардович": 6,
-      "Хохлов Алексей Алексеевич": 41,
-      "Шелякин Дмитрий Викторович": 5
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 1,
+      "gas:candidate-vibid:2372000908867": 2,
+      "gas:candidate-vibid:2372000906687": 6,
+      "gas:candidate-vibid:2372000907917": 41,
+      "gas:candidate-vibid:2372000880620": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 20,
-      "Шелякин Дмитрий Викторович": 5
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 20,
+      "gas:candidate-vibid:2372000880620": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 55,
-      "Шелякин Дмитрий Викторович": 11
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 55,
+      "gas:candidate-vibid:2372000880620": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 9,
-      "Саломатин Дмитрий Эдуардович": 29,
-      "Хохлов Алексей Алексеевич": 37,
-      "Шелякин Дмитрий Викторович": 8
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 9,
+      "gas:candidate-vibid:2372000906687": 29,
+      "gas:candidate-vibid:2372000907917": 37,
+      "gas:candidate-vibid:2372000880620": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 43,
-      "Хохлов Алексей Алексеевич": 83,
-      "Шелякин Дмитрий Викторович": 20
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 43,
+      "gas:candidate-vibid:2372000907917": 83,
+      "gas:candidate-vibid:2372000880620": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 12,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 28,
-      "Калинин Вячеслав Вячеславович": 13,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 47,
-      "Саломатин Дмитрий Эдуардович": 137,
-      "Хохлов Алексей Алексеевич": 325,
-      "Шелякин Дмитрий Викторович": 96
+      "gas:candidate-vibid:2372000908324": 12,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 28,
+      "gas:candidate-vibid:2372000908248": 13,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 47,
+      "gas:candidate-vibid:2372000906687": 137,
+      "gas:candidate-vibid:2372000907917": 325,
+      "gas:candidate-vibid:2372000880620": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 27,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 10,
-      "Орехов Александр Станиславович": 36,
-      "Попов Павел Вениаминович": 53,
-      "Саломатин Дмитрий Эдуардович": 186,
-      "Хохлов Алексей Алексеевич": 275,
-      "Шелякин Дмитрий Викторович": 100
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 27,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 10,
+      "gas:candidate-vibid:2372000906676": 36,
+      "gas:candidate-vibid:2372000908867": 53,
+      "gas:candidate-vibid:2372000906687": 186,
+      "gas:candidate-vibid:2372000907917": 275,
+      "gas:candidate-vibid:2372000880620": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849572&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849572&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 32,
-      "Хохлов Алексей Алексеевич": 61,
-      "Шелякин Дмитрий Викторович": 17
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 32,
+      "gas:candidate-vibid:2372000907917": 61,
+      "gas:candidate-vibid:2372000880620": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 23,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 42,
-      "Хохлов Алексей Алексеевич": 140,
-      "Шелякин Дмитрий Викторович": 42
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 23,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 42,
+      "gas:candidate-vibid:2372000907917": 140,
+      "gas:candidate-vibid:2372000880620": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 28,
-      "Хохлов Алексей Алексеевич": 103,
-      "Шелякин Дмитрий Викторович": 40
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 28,
+      "gas:candidate-vibid:2372000907917": 103,
+      "gas:candidate-vibid:2372000880620": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 20,
-      "Саломатин Дмитрий Эдуардович": 31,
-      "Хохлов Алексей Алексеевич": 109,
-      "Шелякин Дмитрий Викторович": 44
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 20,
+      "gas:candidate-vibid:2372000906687": 31,
+      "gas:candidate-vibid:2372000907917": 109,
+      "gas:candidate-vibid:2372000880620": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 22,
-      "Хохлов Алексей Алексеевич": 60,
-      "Шелякин Дмитрий Викторович": 11
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 22,
+      "gas:candidate-vibid:2372000907917": 60,
+      "gas:candidate-vibid:2372000880620": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 23,
-      "Хохлов Алексей Алексеевич": 60,
-      "Шелякин Дмитрий Викторович": 15
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 23,
+      "gas:candidate-vibid:2372000907917": 60,
+      "gas:candidate-vibid:2372000880620": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 14,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 27,
-      "Хохлов Алексей Алексеевич": 94,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 14,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 27,
+      "gas:candidate-vibid:2372000907917": 94,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 27,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 19,
-      "Хохлов Алексей Алексеевич": 96,
-      "Шелякин Дмитрий Викторович": 22
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 27,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 19,
+      "gas:candidate-vibid:2372000907917": 96,
+      "gas:candidate-vibid:2372000880620": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 13,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 17,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 31,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 131,
-      "Хохлов Алексей Алексеевич": 209,
-      "Шелякин Дмитрий Викторович": 84
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 13,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 17,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 31,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 131,
+      "gas:candidate-vibid:2372000907917": 209,
+      "gas:candidate-vibid:2372000880620": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 14,
-      "Даричева Ольга Алексеевна": 39,
-      "Калинин Вячеслав Вячеславович": 22,
-      "Курин Владимир Геннадьевич": 21,
-      "Орехов Александр Станиславович": 65,
-      "Попов Павел Вениаминович": 39,
-      "Саломатин Дмитрий Эдуардович": 283,
-      "Хохлов Алексей Алексеевич": 290,
-      "Шелякин Дмитрий Викторович": 125
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 14,
+      "gas:candidate-vibid:2372000908525": 39,
+      "gas:candidate-vibid:2372000908248": 22,
+      "gas:candidate-vibid:2372000907812": 21,
+      "gas:candidate-vibid:2372000906676": 65,
+      "gas:candidate-vibid:2372000908867": 39,
+      "gas:candidate-vibid:2372000906687": 283,
+      "gas:candidate-vibid:2372000907917": 290,
+      "gas:candidate-vibid:2372000880620": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 25,
-      "Даричева Ольга Алексеевна": 29,
-      "Калинин Вячеслав Вячеславович": 20,
-      "Курин Владимир Геннадьевич": 14,
-      "Орехов Александр Станиславович": 37,
-      "Попов Павел Вениаминович": 49,
-      "Саломатин Дмитрий Эдуардович": 242,
-      "Хохлов Алексей Алексеевич": 267,
-      "Шелякин Дмитрий Викторович": 121
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 25,
+      "gas:candidate-vibid:2372000908525": 29,
+      "gas:candidate-vibid:2372000908248": 20,
+      "gas:candidate-vibid:2372000907812": 14,
+      "gas:candidate-vibid:2372000906676": 37,
+      "gas:candidate-vibid:2372000908867": 49,
+      "gas:candidate-vibid:2372000906687": 242,
+      "gas:candidate-vibid:2372000907917": 267,
+      "gas:candidate-vibid:2372000880620": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849573&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849573&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 14,
-      "Даричева Ольга Алексеевна": 31,
-      "Калинин Вячеслав Вячеславович": 25,
-      "Курин Владимир Геннадьевич": 14,
-      "Орехов Александр Станиславович": 35,
-      "Попов Павел Вениаминович": 43,
-      "Саломатин Дмитрий Эдуардович": 183,
-      "Хохлов Алексей Алексеевич": 356,
-      "Шелякин Дмитрий Викторович": 137
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 14,
+      "gas:candidate-vibid:2372000908525": 31,
+      "gas:candidate-vibid:2372000908248": 25,
+      "gas:candidate-vibid:2372000907812": 14,
+      "gas:candidate-vibid:2372000906676": 35,
+      "gas:candidate-vibid:2372000908867": 43,
+      "gas:candidate-vibid:2372000906687": 183,
+      "gas:candidate-vibid:2372000907917": 356,
+      "gas:candidate-vibid:2372000880620": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 6,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 17,
-      "Хохлов Алексей Алексеевич": 82,
-      "Шелякин Дмитрий Викторович": 21
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 6,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 17,
+      "gas:candidate-vibid:2372000907917": 82,
+      "gas:candidate-vibid:2372000880620": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 5,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 18,
-      "Хохлов Алексей Алексеевич": 110,
-      "Шелякин Дмитрий Викторович": 35
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 5,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 18,
+      "gas:candidate-vibid:2372000907917": 110,
+      "gas:candidate-vibid:2372000880620": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 5,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 9,
-      "Хохлов Алексей Алексеевич": 76,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 5,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 9,
+      "gas:candidate-vibid:2372000907917": 76,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 31,
-      "Хохлов Алексей Алексеевич": 94,
-      "Шелякин Дмитрий Викторович": 16
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 31,
+      "gas:candidate-vibid:2372000907917": 94,
+      "gas:candidate-vibid:2372000880620": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 6,
-      "Попов Павел Вениаминович": 9,
-      "Саломатин Дмитрий Эдуардович": 24,
-      "Хохлов Алексей Алексеевич": 112,
-      "Шелякин Дмитрий Викторович": 26
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 6,
+      "gas:candidate-vibid:2372000908867": 9,
+      "gas:candidate-vibid:2372000906687": 24,
+      "gas:candidate-vibid:2372000907917": 112,
+      "gas:candidate-vibid:2372000880620": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 11,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 16,
-      "Саломатин Дмитрий Эдуардович": 64,
-      "Хохлов Алексей Алексеевич": 195,
-      "Шелякин Дмитрий Викторович": 50
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 11,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 16,
+      "gas:candidate-vibid:2372000906687": 64,
+      "gas:candidate-vibid:2372000907917": 195,
+      "gas:candidate-vibid:2372000880620": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 109,
-      "Шелякин Дмитрий Викторович": 17
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 109,
+      "gas:candidate-vibid:2372000880620": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 2,
-      "Саломатин Дмитрий Эдуардович": 17,
-      "Хохлов Алексей Алексеевич": 36,
-      "Шелякин Дмитрий Викторович": 6
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 2,
+      "gas:candidate-vibid:2372000906687": 17,
+      "gas:candidate-vibid:2372000907917": 36,
+      "gas:candidate-vibid:2372000880620": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 0,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 81,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 0,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 81,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 33,
-      "Попов Павел Вениаминович": 30,
-      "Саломатин Дмитрий Эдуардович": 51,
-      "Хохлов Алексей Алексеевич": 223,
-      "Шелякин Дмитрий Викторович": 67
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 33,
+      "gas:candidate-vibid:2372000908867": 30,
+      "gas:candidate-vibid:2372000906687": 51,
+      "gas:candidate-vibid:2372000907917": 223,
+      "gas:candidate-vibid:2372000880620": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 6,
-      "Попов Павел Вениаминович": 1,
-      "Саломатин Дмитрий Эдуардович": 9,
-      "Хохлов Алексей Алексеевич": 93,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 6,
+      "gas:candidate-vibid:2372000908867": 1,
+      "gas:candidate-vibid:2372000906687": 9,
+      "gas:candidate-vibid:2372000907917": 93,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849574&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849574&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 18,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 22,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 33,
-      "Попов Павел Вениаминович": 29,
-      "Саломатин Дмитрий Эдуардович": 51,
-      "Хохлов Алексей Алексеевич": 562,
-      "Шелякин Дмитрий Викторович": 76
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 18,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 22,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 33,
+      "gas:candidate-vibid:2372000908867": 29,
+      "gas:candidate-vibid:2372000906687": 51,
+      "gas:candidate-vibid:2372000907917": 562,
+      "gas:candidate-vibid:2372000880620": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 17,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 25,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 55,
-      "Хохлов Алексей Алексеевич": 312,
-      "Шелякин Дмитрий Викторович": 61
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 17,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 25,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 55,
+      "gas:candidate-vibid:2372000907917": 312,
+      "gas:candidate-vibid:2372000880620": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 62,
-      "Хохлов Алексей Алексеевич": 417,
-      "Шелякин Дмитрий Викторович": 5
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 62,
+      "gas:candidate-vibid:2372000907917": 417,
+      "gas:candidate-vibid:2372000880620": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 51,
-      "Хохлов Алексей Алексеевич": 428,
-      "Шелякин Дмитрий Викторович": 26
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 51,
+      "gas:candidate-vibid:2372000907917": 428,
+      "gas:candidate-vibid:2372000880620": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 7,
-      "Калинин Вячеслав Вячеславович": 14,
-      "Курин Владимир Геннадьевич": 12,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 20,
-      "Саломатин Дмитрий Эдуардович": 87,
-      "Хохлов Алексей Алексеевич": 453,
-      "Шелякин Дмитрий Викторович": 36
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 7,
+      "gas:candidate-vibid:2372000908248": 14,
+      "gas:candidate-vibid:2372000907812": 12,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 20,
+      "gas:candidate-vibid:2372000906687": 87,
+      "gas:candidate-vibid:2372000907917": 453,
+      "gas:candidate-vibid:2372000880620": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 17,
-      "Саломатин Дмитрий Эдуардович": 38,
-      "Хохлов Алексей Алексеевич": 226,
-      "Шелякин Дмитрий Викторович": 37
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 17,
+      "gas:candidate-vibid:2372000906687": 38,
+      "gas:candidate-vibid:2372000907917": 226,
+      "gas:candidate-vibid:2372000880620": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 18,
-      "Попов Павел Вениаминович": 19,
-      "Саломатин Дмитрий Эдуардович": 64,
-      "Хохлов Алексей Алексеевич": 236,
-      "Шелякин Дмитрий Викторович": 55
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 18,
+      "gas:candidate-vibid:2372000908867": 19,
+      "gas:candidate-vibid:2372000906687": 64,
+      "gas:candidate-vibid:2372000907917": 236,
+      "gas:candidate-vibid:2372000880620": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 3,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 17,
-      "Хохлов Алексей Алексеевич": 173,
-      "Шелякин Дмитрий Викторович": 2
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 3,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 17,
+      "gas:candidate-vibid:2372000907917": 173,
+      "gas:candidate-vibid:2372000880620": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 11,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 21,
-      "Саломатин Дмитрий Эдуардович": 25,
-      "Хохлов Алексей Алексеевич": 383,
-      "Шелякин Дмитрий Викторович": 58
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 11,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 21,
+      "gas:candidate-vibid:2372000906687": 25,
+      "gas:candidate-vibid:2372000907917": 383,
+      "gas:candidate-vibid:2372000880620": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 11,
-      "Саломатин Дмитрий Эдуардович": 63,
-      "Хохлов Алексей Алексеевич": 446,
-      "Шелякин Дмитрий Викторович": 13
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 11,
+      "gas:candidate-vibid:2372000906687": 63,
+      "gas:candidate-vibid:2372000907917": 446,
+      "gas:candidate-vibid:2372000880620": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 2,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 13,
-      "Хохлов Алексей Алексеевич": 183,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 2,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 13,
+      "gas:candidate-vibid:2372000907917": 183,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 9,
-      "Саломатин Дмитрий Эдуардович": 15,
-      "Хохлов Алексей Алексеевич": 222,
-      "Шелякин Дмитрий Викторович": 12
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 9,
+      "gas:candidate-vibid:2372000906687": 15,
+      "gas:candidate-vibid:2372000907917": 222,
+      "gas:candidate-vibid:2372000880620": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 6,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 78,
-      "Хохлов Алексей Алексеевич": 456,
-      "Шелякин Дмитрий Викторович": 39
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 6,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 78,
+      "gas:candidate-vibid:2372000907917": 456,
+      "gas:candidate-vibid:2372000880620": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 8,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 24,
-      "Попов Павел Вениаминович": 17,
-      "Саломатин Дмитрий Эдуардович": 58,
-      "Хохлов Алексей Алексеевич": 363,
-      "Шелякин Дмитрий Викторович": 49
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 8,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 24,
+      "gas:candidate-vibid:2372000908867": 17,
+      "gas:candidate-vibid:2372000906687": 58,
+      "gas:candidate-vibid:2372000907917": 363,
+      "gas:candidate-vibid:2372000880620": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 13,
-      "Саломатин Дмитрий Эдуардович": 79,
-      "Хохлов Алексей Алексеевич": 460,
-      "Шелякин Дмитрий Викторович": 17
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 13,
+      "gas:candidate-vibid:2372000906687": 79,
+      "gas:candidate-vibid:2372000907917": 460,
+      "gas:candidate-vibid:2372000880620": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 27,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 18,
-      "Попов Павел Вениаминович": 21,
-      "Саломатин Дмитрий Эдуардович": 40,
-      "Хохлов Алексей Алексеевич": 228,
-      "Шелякин Дмитрий Викторович": 66
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 27,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 18,
+      "gas:candidate-vibid:2372000908867": 21,
+      "gas:candidate-vibid:2372000906687": 40,
+      "gas:candidate-vibid:2372000907917": 228,
+      "gas:candidate-vibid:2372000880620": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 14,
-      "Хохлов Алексей Алексеевич": 125,
-      "Шелякин Дмитрий Викторович": 37
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 14,
+      "gas:candidate-vibid:2372000907917": 125,
+      "gas:candidate-vibid:2372000880620": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 16,
-      "Саломатин Дмитрий Эдуардович": 64,
-      "Хохлов Алексей Алексеевич": 512,
-      "Шелякин Дмитрий Викторович": 51
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 16,
+      "gas:candidate-vibid:2372000906687": 64,
+      "gas:candidate-vibid:2372000907917": 512,
+      "gas:candidate-vibid:2372000880620": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 13,
-      "Саломатин Дмитрий Эдуардович": 53,
-      "Хохлов Алексей Алексеевич": 720,
-      "Шелякин Дмитрий Викторович": 59
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 13,
+      "gas:candidate-vibid:2372000906687": 53,
+      "gas:candidate-vibid:2372000907917": 720,
+      "gas:candidate-vibid:2372000880620": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849575&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849575&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 29,
-      "Саломатин Дмитрий Эдуардович": 68,
-      "Хохлов Алексей Алексеевич": 128,
-      "Шелякин Дмитрий Викторович": 55
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 29,
+      "gas:candidate-vibid:2372000906687": 68,
+      "gas:candidate-vibid:2372000907917": 128,
+      "gas:candidate-vibid:2372000880620": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 15,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 13,
-      "Попов Павел Вениаминович": 25,
-      "Саломатин Дмитрий Эдуардович": 43,
-      "Хохлов Алексей Алексеевич": 133,
-      "Шелякин Дмитрий Викторович": 26
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 15,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 13,
+      "gas:candidate-vibid:2372000908867": 25,
+      "gas:candidate-vibid:2372000906687": 43,
+      "gas:candidate-vibid:2372000907917": 133,
+      "gas:candidate-vibid:2372000880620": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 10,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 25,
-      "Попов Павел Вениаминович": 50,
-      "Саломатин Дмитрий Эдуардович": 85,
-      "Хохлов Алексей Алексеевич": 224,
-      "Шелякин Дмитрий Викторович": 104
+      "gas:candidate-vibid:2372000908324": 10,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 25,
+      "gas:candidate-vibid:2372000908867": 50,
+      "gas:candidate-vibid:2372000906687": 85,
+      "gas:candidate-vibid:2372000907917": 224,
+      "gas:candidate-vibid:2372000880620": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 22,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 12,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 27,
-      "Саломатин Дмитрий Эдуардович": 47,
-      "Хохлов Алексей Алексеевич": 237,
-      "Шелякин Дмитрий Викторович": 58
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 22,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 12,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 27,
+      "gas:candidate-vibid:2372000906687": 47,
+      "gas:candidate-vibid:2372000907917": 237,
+      "gas:candidate-vibid:2372000880620": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 12,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 33,
-      "Саломатин Дмитрий Эдуардович": 127,
-      "Хохлов Алексей Алексеевич": 130,
-      "Шелякин Дмитрий Викторович": 68
+      "gas:candidate-vibid:2372000908324": 12,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 33,
+      "gas:candidate-vibid:2372000906687": 127,
+      "gas:candidate-vibid:2372000907917": 130,
+      "gas:candidate-vibid:2372000880620": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 11,
-      "Бедяев Данила Сергеевич": 25,
-      "Даричева Ольга Алексеевна": 35,
-      "Калинин Вячеслав Вячеславович": 22,
-      "Курин Владимир Геннадьевич": 27,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 68,
-      "Саломатин Дмитрий Эдуардович": 195,
-      "Хохлов Алексей Алексеевич": 280,
-      "Шелякин Дмитрий Викторович": 124
+      "gas:candidate-vibid:2372000908324": 11,
+      "gas:candidate-vibid:2372000908226": 25,
+      "gas:candidate-vibid:2372000908525": 35,
+      "gas:candidate-vibid:2372000908248": 22,
+      "gas:candidate-vibid:2372000907812": 27,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 68,
+      "gas:candidate-vibid:2372000906687": 195,
+      "gas:candidate-vibid:2372000907917": 280,
+      "gas:candidate-vibid:2372000880620": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 16,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 14,
-      "Орехов Александр Станиславович": 21,
-      "Попов Павел Вениаминович": 70,
-      "Саломатин Дмитрий Эдуардович": 77,
-      "Хохлов Алексей Алексеевич": 128,
-      "Шелякин Дмитрий Викторович": 79
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 16,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 14,
+      "gas:candidate-vibid:2372000906676": 21,
+      "gas:candidate-vibid:2372000908867": 70,
+      "gas:candidate-vibid:2372000906687": 77,
+      "gas:candidate-vibid:2372000907917": 128,
+      "gas:candidate-vibid:2372000880620": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 6,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 34,
-      "Саломатин Дмитрий Эдуардович": 79,
-      "Хохлов Алексей Алексеевич": 71,
-      "Шелякин Дмитрий Викторович": 51
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 6,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 34,
+      "gas:candidate-vibid:2372000906687": 79,
+      "gas:candidate-vibid:2372000907917": 71,
+      "gas:candidate-vibid:2372000880620": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 15,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 17,
-      "Попов Павел Вениаминович": 43,
-      "Саломатин Дмитрий Эдуардович": 78,
-      "Хохлов Алексей Алексеевич": 249,
-      "Шелякин Дмитрий Викторович": 63
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 15,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 17,
+      "gas:candidate-vibid:2372000908867": 43,
+      "gas:candidate-vibid:2372000906687": 78,
+      "gas:candidate-vibid:2372000907917": 249,
+      "gas:candidate-vibid:2372000880620": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 9,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 20,
-      "Калинин Вячеслав Вячеславович": 16,
-      "Курин Владимир Геннадьевич": 19,
-      "Орехов Александр Станиславович": 13,
-      "Попов Павел Вениаминович": 44,
-      "Саломатин Дмитрий Эдуардович": 104,
-      "Хохлов Алексей Алексеевич": 149,
-      "Шелякин Дмитрий Викторович": 83
+      "gas:candidate-vibid:2372000908324": 9,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 20,
+      "gas:candidate-vibid:2372000908248": 16,
+      "gas:candidate-vibid:2372000907812": 19,
+      "gas:candidate-vibid:2372000906676": 13,
+      "gas:candidate-vibid:2372000908867": 44,
+      "gas:candidate-vibid:2372000906687": 104,
+      "gas:candidate-vibid:2372000907917": 149,
+      "gas:candidate-vibid:2372000880620": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 28,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 13,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 23,
-      "Саломатин Дмитрий Эдуардович": 52,
-      "Хохлов Алексей Алексеевич": 123,
-      "Шелякин Дмитрий Викторович": 40
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 28,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 13,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 23,
+      "gas:candidate-vibid:2372000906687": 52,
+      "gas:candidate-vibid:2372000907917": 123,
+      "gas:candidate-vibid:2372000880620": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 12,
-      "Даричева Ольга Алексеевна": 12,
-      "Калинин Вячеслав Вячеславович": 21,
-      "Курин Владимир Геннадьевич": 16,
-      "Орехов Александр Станиславович": 22,
-      "Попов Павел Вениаминович": 33,
-      "Саломатин Дмитрий Эдуардович": 63,
-      "Хохлов Алексей Алексеевич": 124,
-      "Шелякин Дмитрий Викторович": 58
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 12,
+      "gas:candidate-vibid:2372000908525": 12,
+      "gas:candidate-vibid:2372000908248": 21,
+      "gas:candidate-vibid:2372000907812": 16,
+      "gas:candidate-vibid:2372000906676": 22,
+      "gas:candidate-vibid:2372000908867": 33,
+      "gas:candidate-vibid:2372000906687": 63,
+      "gas:candidate-vibid:2372000907917": 124,
+      "gas:candidate-vibid:2372000880620": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 17,
-      "Даричева Ольга Алексеевна": 20,
-      "Калинин Вячеслав Вячеславович": 24,
-      "Курин Владимир Геннадьевич": 10,
-      "Орехов Александр Станиславович": 32,
-      "Попов Павел Вениаминович": 64,
-      "Саломатин Дмитрий Эдуардович": 118,
-      "Хохлов Алексей Алексеевич": 126,
-      "Шелякин Дмитрий Викторович": 87
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 17,
+      "gas:candidate-vibid:2372000908525": 20,
+      "gas:candidate-vibid:2372000908248": 24,
+      "gas:candidate-vibid:2372000907812": 10,
+      "gas:candidate-vibid:2372000906676": 32,
+      "gas:candidate-vibid:2372000908867": 64,
+      "gas:candidate-vibid:2372000906687": 118,
+      "gas:candidate-vibid:2372000907917": 126,
+      "gas:candidate-vibid:2372000880620": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 18,
-      "Даричева Ольга Алексеевна": 23,
-      "Калинин Вячеслав Вячеславович": 24,
-      "Курин Владимир Геннадьевич": 17,
-      "Орехов Александр Станиславович": 27,
-      "Попов Павел Вениаминович": 89,
-      "Саломатин Дмитрий Эдуардович": 173,
-      "Хохлов Алексей Алексеевич": 174,
-      "Шелякин Дмитрий Викторович": 103
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 18,
+      "gas:candidate-vibid:2372000908525": 23,
+      "gas:candidate-vibid:2372000908248": 24,
+      "gas:candidate-vibid:2372000907812": 17,
+      "gas:candidate-vibid:2372000906676": 27,
+      "gas:candidate-vibid:2372000908867": 89,
+      "gas:candidate-vibid:2372000906687": 173,
+      "gas:candidate-vibid:2372000907917": 174,
+      "gas:candidate-vibid:2372000880620": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 4,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 20,
-      "Попов Павел Вениаминович": 58,
-      "Саломатин Дмитрий Эдуардович": 97,
-      "Хохлов Алексей Алексеевич": 74,
-      "Шелякин Дмитрий Викторович": 39
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 4,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 20,
+      "gas:candidate-vibid:2372000908867": 58,
+      "gas:candidate-vibid:2372000906687": 97,
+      "gas:candidate-vibid:2372000907917": 74,
+      "gas:candidate-vibid:2372000880620": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 7,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 26,
-      "Саломатин Дмитрий Эдуардович": 42,
-      "Хохлов Алексей Алексеевич": 67,
-      "Шелякин Дмитрий Викторович": 38
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 7,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 26,
+      "gas:candidate-vibid:2372000906687": 42,
+      "gas:candidate-vibid:2372000907917": 67,
+      "gas:candidate-vibid:2372000880620": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849576&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849576&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 15,
-      "Даричева Ольга Алексеевна": 22,
-      "Калинин Вячеслав Вячеславович": 16,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 29,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 214,
-      "Хохлов Алексей Алексеевич": 799,
-      "Шелякин Дмитрий Викторович": 237
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 15,
+      "gas:candidate-vibid:2372000908525": 22,
+      "gas:candidate-vibid:2372000908248": 16,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 29,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 214,
+      "gas:candidate-vibid:2372000907917": 799,
+      "gas:candidate-vibid:2372000880620": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 10,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 26,
-      "Калинин Вячеслав Вячеславович": 22,
-      "Курин Владимир Геннадьевич": 12,
-      "Орехов Александр Станиславович": 49,
-      "Попов Павел Вениаминович": 51,
-      "Саломатин Дмитрий Эдуардович": 158,
-      "Хохлов Алексей Алексеевич": 865,
-      "Шелякин Дмитрий Викторович": 110
+      "gas:candidate-vibid:2372000908324": 10,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 26,
+      "gas:candidate-vibid:2372000908248": 22,
+      "gas:candidate-vibid:2372000907812": 12,
+      "gas:candidate-vibid:2372000906676": 49,
+      "gas:candidate-vibid:2372000908867": 51,
+      "gas:candidate-vibid:2372000906687": 158,
+      "gas:candidate-vibid:2372000907917": 865,
+      "gas:candidate-vibid:2372000880620": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 10,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 28,
-      "Попов Павел Вениаминович": 34,
-      "Саломатин Дмитрий Эдуардович": 187,
-      "Хохлов Алексей Алексеевич": 1068,
-      "Шелякин Дмитрий Викторович": 130
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 10,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 28,
+      "gas:candidate-vibid:2372000908867": 34,
+      "gas:candidate-vibid:2372000906687": 187,
+      "gas:candidate-vibid:2372000907917": 1068,
+      "gas:candidate-vibid:2372000880620": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 18,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 57,
-      "Хохлов Алексей Алексеевич": 634,
-      "Шелякин Дмитрий Викторович": 37
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 18,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 57,
+      "gas:candidate-vibid:2372000907917": 634,
+      "gas:candidate-vibid:2372000880620": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 15,
-      "Попов Павел Вениаминович": 3,
-      "Саломатин Дмитрий Эдуардович": 48,
-      "Хохлов Алексей Алексеевич": 192,
-      "Шелякин Дмитрий Викторович": 18
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 15,
+      "gas:candidate-vibid:2372000908867": 3,
+      "gas:candidate-vibid:2372000906687": 48,
+      "gas:candidate-vibid:2372000907917": 192,
+      "gas:candidate-vibid:2372000880620": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 2,
-      "Саломатин Дмитрий Эдуардович": 37,
-      "Хохлов Алексей Алексеевич": 206,
-      "Шелякин Дмитрий Викторович": 27
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 2,
+      "gas:candidate-vibid:2372000906687": 37,
+      "gas:candidate-vibid:2372000907917": 206,
+      "gas:candidate-vibid:2372000880620": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 7,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 51,
-      "Хохлов Алексей Алексеевич": 152,
-      "Шелякин Дмитрий Викторович": 36
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 7,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 51,
+      "gas:candidate-vibid:2372000907917": 152,
+      "gas:candidate-vibid:2372000880620": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 3,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 2,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 24,
-      "Хохлов Алексей Алексеевич": 218,
-      "Шелякин Дмитрий Викторович": 23
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 3,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 2,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 24,
+      "gas:candidate-vibid:2372000907917": 218,
+      "gas:candidate-vibid:2372000880620": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 1,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 5,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 10,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 57,
-      "Хохлов Алексей Алексеевич": 330,
-      "Шелякин Дмитрий Викторович": 24
+      "gas:candidate-vibid:2372000908324": 1,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 5,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 10,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 57,
+      "gas:candidate-vibid:2372000907917": 330,
+      "gas:candidate-vibid:2372000880620": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 8,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 9,
-      "Курин Владимир Геннадьевич": 8,
-      "Орехов Александр Станиславович": 18,
-      "Попов Павел Вениаминович": 12,
-      "Саломатин Дмитрий Эдуардович": 89,
-      "Хохлов Алексей Алексеевич": 635,
-      "Шелякин Дмитрий Викторович": 61
+      "gas:candidate-vibid:2372000908324": 8,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 9,
+      "gas:candidate-vibid:2372000907812": 8,
+      "gas:candidate-vibid:2372000906676": 18,
+      "gas:candidate-vibid:2372000908867": 12,
+      "gas:candidate-vibid:2372000906687": 89,
+      "gas:candidate-vibid:2372000907917": 635,
+      "gas:candidate-vibid:2372000880620": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 14,
-      "Даричева Ольга Алексеевна": 14,
-      "Калинин Вячеслав Вячеславович": 21,
-      "Курин Владимир Геннадьевич": 11,
-      "Орехов Александр Станиславович": 27,
-      "Попов Павел Вениаминович": 22,
-      "Саломатин Дмитрий Эдуардович": 134,
-      "Хохлов Алексей Алексеевич": 517,
-      "Шелякин Дмитрий Викторович": 119
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 14,
+      "gas:candidate-vibid:2372000908525": 14,
+      "gas:candidate-vibid:2372000908248": 21,
+      "gas:candidate-vibid:2372000907812": 11,
+      "gas:candidate-vibid:2372000906676": 27,
+      "gas:candidate-vibid:2372000908867": 22,
+      "gas:candidate-vibid:2372000906687": 134,
+      "gas:candidate-vibid:2372000907917": 517,
+      "gas:candidate-vibid:2372000880620": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 2,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 8,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 33,
-      "Хохлов Алексей Алексеевич": 277,
-      "Шелякин Дмитрий Викторович": 37
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 2,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 8,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 33,
+      "gas:candidate-vibid:2372000907917": 277,
+      "gas:candidate-vibid:2372000880620": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 0,
-      "Бедяев Данила Сергеевич": 0,
-      "Даричева Ольга Алексеевна": 0,
-      "Калинин Вячеслав Вячеславович": 6,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 1,
-      "Попов Павел Вениаминович": 0,
-      "Саломатин Дмитрий Эдуардович": 10,
-      "Хохлов Алексей Алексеевич": 114,
-      "Шелякин Дмитрий Викторович": 6
+      "gas:candidate-vibid:2372000908324": 0,
+      "gas:candidate-vibid:2372000908226": 0,
+      "gas:candidate-vibid:2372000908525": 0,
+      "gas:candidate-vibid:2372000908248": 6,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 1,
+      "gas:candidate-vibid:2372000908867": 0,
+      "gas:candidate-vibid:2372000906687": 10,
+      "gas:candidate-vibid:2372000907917": 114,
+      "gas:candidate-vibid:2372000880620": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 13,
-      "Даричева Ольга Алексеевна": 25,
-      "Калинин Вячеслав Вячеславович": 12,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 38,
-      "Попов Павел Вениаминович": 21,
-      "Саломатин Дмитрий Эдуардович": 117,
-      "Хохлов Алексей Алексеевич": 601,
-      "Шелякин Дмитрий Викторович": 47
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 13,
+      "gas:candidate-vibid:2372000908525": 25,
+      "gas:candidate-vibid:2372000908248": 12,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 38,
+      "gas:candidate-vibid:2372000908867": 21,
+      "gas:candidate-vibid:2372000906687": 117,
+      "gas:candidate-vibid:2372000907917": 601,
+      "gas:candidate-vibid:2372000880620": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849577&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849577&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 12,
-      "Бедяев Данила Сергеевич": 9,
-      "Даричева Ольга Алексеевна": 13,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 9,
-      "Орехов Александр Станиславович": 45,
-      "Попов Павел Вениаминович": 31,
-      "Саломатин Дмитрий Эдуардович": 128,
-      "Хохлов Алексей Алексеевич": 133,
-      "Шелякин Дмитрий Викторович": 56
+      "gas:candidate-vibid:2372000908324": 12,
+      "gas:candidate-vibid:2372000908226": 9,
+      "gas:candidate-vibid:2372000908525": 13,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 9,
+      "gas:candidate-vibid:2372000906676": 45,
+      "gas:candidate-vibid:2372000908867": 31,
+      "gas:candidate-vibid:2372000906687": 128,
+      "gas:candidate-vibid:2372000907917": 133,
+      "gas:candidate-vibid:2372000880620": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 7,
-      "Бедяев Данила Сергеевич": 11,
-      "Даричева Ольга Алексеевна": 11,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 38,
-      "Попов Павел Вениаминович": 22,
-      "Саломатин Дмитрий Эдуардович": 133,
-      "Хохлов Алексей Алексеевич": 142,
-      "Шелякин Дмитрий Викторович": 53
+      "gas:candidate-vibid:2372000908324": 7,
+      "gas:candidate-vibid:2372000908226": 11,
+      "gas:candidate-vibid:2372000908525": 11,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 38,
+      "gas:candidate-vibid:2372000908867": 22,
+      "gas:candidate-vibid:2372000906687": 133,
+      "gas:candidate-vibid:2372000907917": 142,
+      "gas:candidate-vibid:2372000880620": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 5,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 6,
-      "Орехов Александр Станиславович": 17,
-      "Попов Павел Вениаминович": 15,
-      "Саломатин Дмитрий Эдуардович": 111,
-      "Хохлов Алексей Алексеевич": 94,
-      "Шелякин Дмитрий Викторович": 49
+      "gas:candidate-vibid:2372000908324": 5,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 6,
+      "gas:candidate-vibid:2372000906676": 17,
+      "gas:candidate-vibid:2372000908867": 15,
+      "gas:candidate-vibid:2372000906687": 111,
+      "gas:candidate-vibid:2372000907917": 94,
+      "gas:candidate-vibid:2372000880620": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 21,
-      "Хохлов Алексей Алексеевич": 90,
-      "Шелякин Дмитрий Викторович": 22
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 21,
+      "gas:candidate-vibid:2372000907917": 90,
+      "gas:candidate-vibid:2372000880620": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 11,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 27,
-      "Хохлов Алексей Алексеевич": 42,
-      "Шелякин Дмитрий Викторович": 28
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 11,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 27,
+      "gas:candidate-vibid:2372000907917": 42,
+      "gas:candidate-vibid:2372000880620": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 9,
-      "Калинин Вячеслав Вячеславович": 1,
-      "Курин Владимир Геннадьевич": 3,
-      "Орехов Александр Станиславович": 9,
-      "Попов Павел Вениаминович": 7,
-      "Саломатин Дмитрий Эдуардович": 20,
-      "Хохлов Алексей Алексеевич": 96,
-      "Шелякин Дмитрий Викторович": 19
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 9,
+      "gas:candidate-vibid:2372000908248": 1,
+      "gas:candidate-vibid:2372000907812": 3,
+      "gas:candidate-vibid:2372000906676": 9,
+      "gas:candidate-vibid:2372000908867": 7,
+      "gas:candidate-vibid:2372000906687": 20,
+      "gas:candidate-vibid:2372000907917": 96,
+      "gas:candidate-vibid:2372000880620": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 4,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 4,
-      "Орехов Александр Станиславович": 16,
-      "Попов Павел Вениаминович": 10,
-      "Саломатин Дмитрий Эдуардович": 38,
-      "Хохлов Алексей Алексеевич": 70,
-      "Шелякин Дмитрий Викторович": 47
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 4,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 4,
+      "gas:candidate-vibid:2372000906676": 16,
+      "gas:candidate-vibid:2372000908867": 10,
+      "gas:candidate-vibid:2372000906687": 38,
+      "gas:candidate-vibid:2372000907917": 70,
+      "gas:candidate-vibid:2372000880620": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 8,
-      "Даричева Ольга Алексеевна": 5,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 13,
-      "Саломатин Дмитрий Эдуардович": 53,
-      "Хохлов Алексей Алексеевич": 129,
-      "Шелякин Дмитрий Викторович": 41
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 8,
+      "gas:candidate-vibid:2372000908525": 5,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 13,
+      "gas:candidate-vibid:2372000906687": 53,
+      "gas:candidate-vibid:2372000907917": 129,
+      "gas:candidate-vibid:2372000880620": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 6,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 10,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 0,
-      "Орехов Александр Станиславович": 13,
-      "Попов Павел Вениаминович": 6,
-      "Саломатин Дмитрий Эдуардович": 9,
-      "Хохлов Алексей Алексеевич": 62,
-      "Шелякин Дмитрий Викторович": 17
+      "gas:candidate-vibid:2372000908324": 6,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 10,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 0,
+      "gas:candidate-vibid:2372000906676": 13,
+      "gas:candidate-vibid:2372000908867": 6,
+      "gas:candidate-vibid:2372000906687": 9,
+      "gas:candidate-vibid:2372000907917": 62,
+      "gas:candidate-vibid:2372000880620": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 2,
-      "Бедяев Данила Сергеевич": 5,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 4,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 10,
-      "Хохлов Алексей Алексеевич": 67,
-      "Шелякин Дмитрий Викторович": 15
+      "gas:candidate-vibid:2372000908324": 2,
+      "gas:candidate-vibid:2372000908226": 5,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 4,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 10,
+      "gas:candidate-vibid:2372000907917": 67,
+      "gas:candidate-vibid:2372000880620": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 14,
-      "Бедяев Данила Сергеевич": 7,
-      "Даричева Ольга Алексеевна": 8,
-      "Калинин Вячеслав Вячеславович": 10,
-      "Курин Владимир Геннадьевич": 5,
-      "Орехов Александр Станиславович": 19,
-      "Попов Павел Вениаминович": 13,
-      "Саломатин Дмитрий Эдуардович": 53,
-      "Хохлов Алексей Алексеевич": 111,
-      "Шелякин Дмитрий Викторович": 30
+      "gas:candidate-vibid:2372000908324": 14,
+      "gas:candidate-vibid:2372000908226": 7,
+      "gas:candidate-vibid:2372000908525": 8,
+      "gas:candidate-vibid:2372000908248": 10,
+      "gas:candidate-vibid:2372000907812": 5,
+      "gas:candidate-vibid:2372000906676": 19,
+      "gas:candidate-vibid:2372000908867": 13,
+      "gas:candidate-vibid:2372000906687": 53,
+      "gas:candidate-vibid:2372000907917": 111,
+      "gas:candidate-vibid:2372000880620": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 1,
-      "Даричева Ольга Алексеевна": 1,
-      "Калинин Вячеслав Вячеславович": 3,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 6,
-      "Попов Павел Вениаминович": 4,
-      "Саломатин Дмитрий Эдуардович": 11,
-      "Хохлов Алексей Алексеевич": 150,
-      "Шелякин Дмитрий Викторович": 6
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 1,
+      "gas:candidate-vibid:2372000908525": 1,
+      "gas:candidate-vibid:2372000908248": 3,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 6,
+      "gas:candidate-vibid:2372000908867": 4,
+      "gas:candidate-vibid:2372000906687": 11,
+      "gas:candidate-vibid:2372000907917": 150,
+      "gas:candidate-vibid:2372000880620": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 3,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 7,
-      "Курин Владимир Геннадьевич": 2,
-      "Орехов Александр Станиславович": 12,
-      "Попов Павел Вениаминович": 8,
-      "Саломатин Дмитрий Эдуардович": 21,
-      "Хохлов Алексей Алексеевич": 110,
-      "Шелякин Дмитрий Викторович": 32
+      "gas:candidate-vibid:2372000908324": 3,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 7,
+      "gas:candidate-vibid:2372000907812": 2,
+      "gas:candidate-vibid:2372000906676": 12,
+      "gas:candidate-vibid:2372000908867": 8,
+      "gas:candidate-vibid:2372000906687": 21,
+      "gas:candidate-vibid:2372000907917": 110,
+      "gas:candidate-vibid:2372000880620": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_37_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Астафьев Роман Дмитриевич": 4,
-      "Бедяев Данила Сергеевич": 2,
-      "Даричева Ольга Алексеевна": 3,
-      "Калинин Вячеслав Вячеславович": 2,
-      "Курин Владимир Геннадьевич": 1,
-      "Орехов Александр Станиславович": 4,
-      "Попов Павел Вениаминович": 5,
-      "Саломатин Дмитрий Эдуардович": 5,
-      "Хохлов Алексей Алексеевич": 42,
-      "Шелякин Дмитрий Викторович": 2
+      "gas:candidate-vibid:2372000908324": 4,
+      "gas:candidate-vibid:2372000908226": 2,
+      "gas:candidate-vibid:2372000908525": 3,
+      "gas:candidate-vibid:2372000908248": 2,
+      "gas:candidate-vibid:2372000907812": 1,
+      "gas:candidate-vibid:2372000906676": 4,
+      "gas:candidate-vibid:2372000908867": 5,
+      "gas:candidate-vibid:2372000906687": 5,
+      "gas:candidate-vibid:2372000907917": 42,
+      "gas:candidate-vibid:2372000880620": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000118&tvd=2372000849578&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849578&type=464",

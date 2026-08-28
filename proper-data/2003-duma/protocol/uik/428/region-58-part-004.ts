@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 19,
-      "Илюхин Виктор Иванович": 298,
-      "Руденский Игорь Николаевич": 631,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 9,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202325": 19,
+      "gas:candidate-vibid:1001000121889": 298,
+      "gas:candidate-vibid:1001000225970": 631,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 9,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 11,
-      "Илюхин Виктор Иванович": 209,
-      "Руденский Игорь Николаевич": 525,
-      "Сейнов Александр Сергеевич": 19,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202325": 11,
+      "gas:candidate-vibid:1001000121889": 209,
+      "gas:candidate-vibid:1001000225970": 525,
+      "gas:candidate-vibid:1001000112240": 19,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 16,
-      "Руденский Игорь Николаевич": 136,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 16,
+      "gas:candidate-vibid:1001000225970": 136,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 46,
-      "Руденский Игорь Николаевич": 496,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 46,
+      "gas:candidate-vibid:1001000225970": 496,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 45,
-      "Руденский Игорь Николаевич": 290,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 45,
+      "gas:candidate-vibid:1001000225970": 290,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 17,
-      "Руденский Игорь Николаевич": 68,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 17,
+      "gas:candidate-vibid:1001000225970": 68,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 14,
-      "Руденский Игорь Николаевич": 58,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 14,
+      "gas:candidate-vibid:1001000225970": 58,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 73,
-      "Руденский Игорь Николаевич": 198,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 73,
+      "gas:candidate-vibid:1001000225970": 198,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 11,
-      "Руденский Игорь Николаевич": 99,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 11,
+      "gas:candidate-vibid:1001000225970": 99,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 32,
-      "Руденский Игорь Николаевич": 258,
-      "Сейнов Александр Сергеевич": 11,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 32,
+      "gas:candidate-vibid:1001000225970": 258,
+      "gas:candidate-vibid:1001000112240": 11,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 9,
-      "Руденский Игорь Николаевич": 131,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 9,
+      "gas:candidate-vibid:1001000225970": 131,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 9,
-      "Илюхин Виктор Иванович": 173,
-      "Руденский Игорь Николаевич": 436,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202325": 9,
+      "gas:candidate-vibid:1001000121889": 173,
+      "gas:candidate-vibid:1001000225970": 436,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 118,
-      "Руденский Игорь Николаевич": 120,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 118,
+      "gas:candidate-vibid:1001000225970": 120,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 12,
-      "Руденский Игорь Николаевич": 57,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 12,
+      "gas:candidate-vibid:1001000225970": 57,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 49,
-      "Руденский Игорь Николаевич": 132,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 49,
+      "gas:candidate-vibid:1001000225970": 132,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 107,
-      "Руденский Игорь Николаевич": 335,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 107,
+      "gas:candidate-vibid:1001000225970": 335,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 24,
-      "Руденский Игорь Николаевич": 212,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 24,
+      "gas:candidate-vibid:1001000225970": 212,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 54,
-      "Руденский Игорь Николаевич": 225,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 54,
+      "gas:candidate-vibid:1001000225970": 225,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 17,
-      "Руденский Игорь Николаевич": 119,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 17,
+      "gas:candidate-vibid:1001000225970": 119,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 7,
-      "Руденский Игорь Николаевич": 104,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 7,
+      "gas:candidate-vibid:1001000225970": 104,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 11,
-      "Руденский Игорь Николаевич": 61,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 11,
+      "gas:candidate-vibid:1001000225970": 61,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 33,
-      "Руденский Игорь Николаевич": 204,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 33,
+      "gas:candidate-vibid:1001000225970": 204,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 9,
-      "Руденский Игорь Николаевич": 72,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 9,
+      "gas:candidate-vibid:1001000225970": 72,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 142,
-      "Руденский Игорь Николаевич": 452,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 142,
+      "gas:candidate-vibid:1001000225970": 452,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 2,
-      "Руденский Игорь Николаевич": 77,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 2,
+      "gas:candidate-vibid:1001000225970": 77,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 24,
-      "Руденский Игорь Николаевич": 306,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 24,
+      "gas:candidate-vibid:1001000225970": 306,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 10,
-      "Руденский Игорь Николаевич": 45,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 10,
+      "gas:candidate-vibid:1001000225970": 45,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 31,
-      "Руденский Игорь Николаевич": 99,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 31,
+      "gas:candidate-vibid:1001000225970": 99,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 9,
-      "Илюхин Виктор Иванович": 90,
-      "Руденский Игорь Николаевич": 350,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000202325": 9,
+      "gas:candidate-vibid:1001000121889": 90,
+      "gas:candidate-vibid:1001000225970": 350,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 21,
-      "Руденский Игорь Николаевич": 61,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 21,
+      "gas:candidate-vibid:1001000225970": 61,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 67,
-      "Руденский Игорь Николаевич": 170,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 67,
+      "gas:candidate-vibid:1001000225970": 170,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 44,
-      "Руденский Игорь Николаевич": 225,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 44,
+      "gas:candidate-vibid:1001000225970": 225,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 46,
-      "Руденский Игорь Николаевич": 225,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 46,
+      "gas:candidate-vibid:1001000225970": 225,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170991&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 80,
-      "Руденский Игорь Николаевич": 177,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 80,
+      "gas:candidate-vibid:1001000225970": 177,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 34,
-      "Руденский Игорь Николаевич": 127,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 34,
+      "gas:candidate-vibid:1001000225970": 127,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 53,
-      "Руденский Игорь Николаевич": 206,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 53,
+      "gas:candidate-vibid:1001000225970": 206,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 38,
-      "Руденский Игорь Николаевич": 109,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 38,
+      "gas:candidate-vibid:1001000225970": 109,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 24,
-      "Руденский Игорь Николаевич": 52,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 24,
+      "gas:candidate-vibid:1001000225970": 52,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 28,
-      "Руденский Игорь Николаевич": 71,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 28,
+      "gas:candidate-vibid:1001000225970": 71,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 130,
-      "Руденский Игорь Николаевич": 276,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 130,
+      "gas:candidate-vibid:1001000225970": 276,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 30,
-      "Руденский Игорь Николаевич": 73,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 30,
+      "gas:candidate-vibid:1001000225970": 73,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 83,
-      "Руденский Игорь Николаевич": 185,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 83,
+      "gas:candidate-vibid:1001000225970": 185,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 11,
-      "Руденский Игорь Николаевич": 87,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 11,
+      "gas:candidate-vibid:1001000225970": 87,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 84,
-      "Руденский Игорь Николаевич": 168,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 84,
+      "gas:candidate-vibid:1001000225970": 168,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 23,
-      "Руденский Игорь Николаевич": 130,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 23,
+      "gas:candidate-vibid:1001000225970": 130,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 16,
-      "Руденский Игорь Николаевич": 103,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 16,
+      "gas:candidate-vibid:1001000225970": 103,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 16,
-      "Руденский Игорь Николаевич": 83,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 16,
+      "gas:candidate-vibid:1001000225970": 83,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 59,
-      "Руденский Игорь Николаевич": 178,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 59,
+      "gas:candidate-vibid:1001000225970": 178,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 30,
-      "Руденский Игорь Николаевич": 43,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 30,
+      "gas:candidate-vibid:1001000225970": 43,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 30,
-      "Руденский Игорь Николаевич": 203,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 30,
+      "gas:candidate-vibid:1001000225970": 203,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 21,
-      "Илюхин Виктор Иванович": 311,
-      "Руденский Игорь Николаевич": 719,
-      "Сейнов Александр Сергеевич": 26,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000202325": 21,
+      "gas:candidate-vibid:1001000121889": 311,
+      "gas:candidate-vibid:1001000225970": 719,
+      "gas:candidate-vibid:1001000112240": 26,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 20,
-      "Илюхин Виктор Иванович": 265,
-      "Руденский Игорь Николаевич": 456,
-      "Сейнов Александр Сергеевич": 7,
-      "Язвенко Валентина Ивановна": 11,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000202325": 20,
+      "gas:candidate-vibid:1001000121889": 265,
+      "gas:candidate-vibid:1001000225970": 456,
+      "gas:candidate-vibid:1001000112240": 7,
+      "gas:candidate-vibid:1001000195122": 11,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 11,
-      "Илюхин Виктор Иванович": 279,
-      "Руденский Игорь Николаевич": 635,
-      "Сейнов Александр Сергеевич": 16,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202325": 11,
+      "gas:candidate-vibid:1001000121889": 279,
+      "gas:candidate-vibid:1001000225970": 635,
+      "gas:candidate-vibid:1001000112240": 16,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170993&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 20,
-      "Илюхин Виктор Иванович": 185,
-      "Руденский Игорь Николаевич": 754,
-      "Сейнов Александр Сергеевич": 19,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000202325": 20,
+      "gas:candidate-vibid:1001000121889": 185,
+      "gas:candidate-vibid:1001000225970": 754,
+      "gas:candidate-vibid:1001000112240": 19,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 19,
-      "Илюхин Виктор Иванович": 289,
-      "Руденский Игорь Николаевич": 847,
-      "Сейнов Александр Сергеевич": 17,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000202325": 19,
+      "gas:candidate-vibid:1001000121889": 289,
+      "gas:candidate-vibid:1001000225970": 847,
+      "gas:candidate-vibid:1001000112240": 17,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 150,
-      "Руденский Игорь Николаевич": 467,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 150,
+      "gas:candidate-vibid:1001000225970": 467,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 93,
-      "Руденский Игорь Николаевич": 618,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 93,
+      "gas:candidate-vibid:1001000225970": 618,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 11,
-      "Илюхин Виктор Иванович": 123,
-      "Руденский Игорь Николаевич": 577,
-      "Сейнов Александр Сергеевич": 9,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202325": 11,
+      "gas:candidate-vibid:1001000121889": 123,
+      "gas:candidate-vibid:1001000225970": 577,
+      "gas:candidate-vibid:1001000112240": 9,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 10,
-      "Илюхин Виктор Иванович": 174,
-      "Руденский Игорь Николаевич": 557,
-      "Сейнов Александр Сергеевич": 11,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202325": 10,
+      "gas:candidate-vibid:1001000121889": 174,
+      "gas:candidate-vibid:1001000225970": 557,
+      "gas:candidate-vibid:1001000112240": 11,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 78,
-      "Руденский Игорь Николаевич": 120,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 78,
+      "gas:candidate-vibid:1001000225970": 120,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 72,
-      "Руденский Игорь Николаевич": 182,
-      "Сейнов Александр Сергеевич": 12,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 72,
+      "gas:candidate-vibid:1001000225970": 182,
+      "gas:candidate-vibid:1001000112240": 12,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 134,
-      "Руденский Игорь Николаевич": 188,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 134,
+      "gas:candidate-vibid:1001000225970": 188,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 26,
-      "Руденский Игорь Николаевич": 99,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 26,
+      "gas:candidate-vibid:1001000225970": 99,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 28,
-      "Руденский Игорь Николаевич": 200,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 28,
+      "gas:candidate-vibid:1001000225970": 200,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 17,
-      "Руденский Игорь Николаевич": 181,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 17,
+      "gas:candidate-vibid:1001000225970": 181,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 17,
-      "Руденский Игорь Николаевич": 155,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 17,
+      "gas:candidate-vibid:1001000225970": 155,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 3,
-      "Руденский Игорь Николаевич": 92,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 3,
+      "gas:candidate-vibid:1001000225970": 92,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 58,
-      "Руденский Игорь Николаевич": 266,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 58,
+      "gas:candidate-vibid:1001000225970": 266,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 46,
-      "Руденский Игорь Николаевич": 289,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 46,
+      "gas:candidate-vibid:1001000225970": 289,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 50,
-      "Руденский Игорь Николаевич": 181,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 50,
+      "gas:candidate-vibid:1001000225970": 181,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 81,
-      "Руденский Игорь Николаевич": 269,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 81,
+      "gas:candidate-vibid:1001000225970": 269,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 72,
-      "Руденский Игорь Николаевич": 351,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 72,
+      "gas:candidate-vibid:1001000225970": 351,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 168,
-      "Руденский Игорь Николаевич": 381,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 168,
+      "gas:candidate-vibid:1001000225970": 381,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 34,
-      "Руденский Игорь Николаевич": 202,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 34,
+      "gas:candidate-vibid:1001000225970": 202,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 20,
-      "Руденский Игорь Николаевич": 219,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 20,
+      "gas:candidate-vibid:1001000225970": 219,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170995&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 9,
-      "Илюхин Виктор Иванович": 152,
-      "Руденский Игорь Николаевич": 860,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202325": 9,
+      "gas:candidate-vibid:1001000121889": 152,
+      "gas:candidate-vibid:1001000225970": 860,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 169,
-      "Руденский Игорь Николаевич": 820,
-      "Сейнов Александр Сергеевич": 12,
-      "Язвенко Валентина Ивановна": 6,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 169,
+      "gas:candidate-vibid:1001000225970": 820,
+      "gas:candidate-vibid:1001000112240": 12,
+      "gas:candidate-vibid:1001000195122": 6,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 183,
-      "Руденский Игорь Николаевич": 863,
-      "Сейнов Александр Сергеевич": 19,
-      "Язвенко Валентина Ивановна": 10,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 183,
+      "gas:candidate-vibid:1001000225970": 863,
+      "gas:candidate-vibid:1001000112240": 19,
+      "gas:candidate-vibid:1001000195122": 10,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 45,
-      "Руденский Игорь Николаевич": 386,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 45,
+      "gas:candidate-vibid:1001000225970": 386,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 28,
-      "Руденский Игорь Николаевич": 284,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 28,
+      "gas:candidate-vibid:1001000225970": 284,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 31,
-      "Руденский Игорь Николаевич": 117,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 31,
+      "gas:candidate-vibid:1001000225970": 117,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 5,
-      "Руденский Игорь Николаевич": 47,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 5,
+      "gas:candidate-vibid:1001000225970": 47,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 38,
-      "Руденский Игорь Николаевич": 442,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 38,
+      "gas:candidate-vibid:1001000225970": 442,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 59,
-      "Руденский Игорь Николаевич": 437,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 59,
+      "gas:candidate-vibid:1001000225970": 437,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 54,
-      "Руденский Игорь Николаевич": 196,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 54,
+      "gas:candidate-vibid:1001000225970": 196,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 58,
-      "Руденский Игорь Николаевич": 515,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 58,
+      "gas:candidate-vibid:1001000225970": 515,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 42,
-      "Руденский Игорь Николаевич": 322,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 42,
+      "gas:candidate-vibid:1001000225970": 322,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 26,
-      "Руденский Игорь Николаевич": 242,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 26,
+      "gas:candidate-vibid:1001000225970": 242,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 41,
-      "Руденский Игорь Николаевич": 360,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 41,
+      "gas:candidate-vibid:1001000225970": 360,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 4,
-      "Руденский Игорь Николаевич": 113,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 4,
+      "gas:candidate-vibid:1001000225970": 113,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 56,
-      "Руденский Игорь Николаевич": 300,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 56,
+      "gas:candidate-vibid:1001000225970": 300,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 35,
-      "Руденский Игорь Николаевич": 139,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 35,
+      "gas:candidate-vibid:1001000225970": 139,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 25,
-      "Руденский Игорь Николаевич": 147,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 25,
+      "gas:candidate-vibid:1001000225970": 147,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 32,
-      "Руденский Игорь Николаевич": 242,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 32,
+      "gas:candidate-vibid:1001000225970": 242,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 21,
-      "Руденский Игорь Николаевич": 124,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 21,
+      "gas:candidate-vibid:1001000225970": 124,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 99,
-      "Руденский Игорь Николаевич": 500,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 99,
+      "gas:candidate-vibid:1001000225970": 500,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 108,
-      "Руденский Игорь Николаевич": 498,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 108,
+      "gas:candidate-vibid:1001000225970": 498,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 7,
-      "Руденский Игорь Николаевич": 40,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 7,
+      "gas:candidate-vibid:1001000225970": 40,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 14,
-      "Руденский Игорь Николаевич": 59,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 14,
+      "gas:candidate-vibid:1001000225970": 59,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 43,
-      "Руденский Игорь Николаевич": 166,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 43,
+      "gas:candidate-vibid:1001000225970": 166,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 70,
-      "Руденский Игорь Николаевич": 577,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 70,
+      "gas:candidate-vibid:1001000225970": 577,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 16,
-      "Илюхин Виктор Иванович": 256,
-      "Руденский Игорь Николаевич": 923,
-      "Сейнов Александр Сергеевич": 16,
-      "Язвенко Валентина Ивановна": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202325": 16,
+      "gas:candidate-vibid:1001000121889": 256,
+      "gas:candidate-vibid:1001000225970": 923,
+      "gas:candidate-vibid:1001000112240": 16,
+      "gas:candidate-vibid:1001000195122": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 19,
-      "Руденский Игорь Николаевич": 410,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 19,
+      "gas:candidate-vibid:1001000225970": 410,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 17,
-      "Руденский Игорь Николаевич": 168,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 17,
+      "gas:candidate-vibid:1001000225970": 168,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 4,
-      "Руденский Игорь Николаевич": 71,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 4,
+      "gas:candidate-vibid:1001000225970": 71,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 112,
-      "Руденский Игорь Николаевич": 761,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 112,
+      "gas:candidate-vibid:1001000225970": 761,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 32,
-      "Руденский Игорь Николаевич": 329,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 32,
+      "gas:candidate-vibid:1001000225970": 329,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 62,
-      "Руденский Игорь Николаевич": 344,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 62,
+      "gas:candidate-vibid:1001000225970": 344,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 27,
-      "Руденский Игорь Николаевич": 71,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 27,
+      "gas:candidate-vibid:1001000225970": 71,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 44,
-      "Руденский Игорь Николаевич": 424,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 44,
+      "gas:candidate-vibid:1001000225970": 424,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 26,
-      "Руденский Игорь Николаевич": 155,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 26,
+      "gas:candidate-vibid:1001000225970": 155,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 2,
-      "Руденский Игорь Николаевич": 112,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 2,
+      "gas:candidate-vibid:1001000225970": 112,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 0,
-      "Руденский Игорь Николаевич": 65,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 0,
+      "gas:candidate-vibid:1001000225970": 65,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 50,
-      "Руденский Игорь Николаевич": 341,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 50,
+      "gas:candidate-vibid:1001000225970": 341,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 10,
-      "Руденский Игорь Николаевич": 80,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 10,
+      "gas:candidate-vibid:1001000225970": 80,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 8,
-      "Руденский Игорь Николаевич": 66,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 8,
+      "gas:candidate-vibid:1001000225970": 66,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 49,
-      "Руденский Игорь Николаевич": 194,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 49,
+      "gas:candidate-vibid:1001000225970": 194,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 7,
-      "Руденский Игорь Николаевич": 85,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 7,
+      "gas:candidate-vibid:1001000225970": 85,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 13,
-      "Руденский Игорь Николаевич": 90,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 13,
+      "gas:candidate-vibid:1001000225970": 90,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170997&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 33,
-      "Руденский Игорь Николаевич": 158,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 33,
+      "gas:candidate-vibid:1001000225970": 158,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 81,
-      "Руденский Игорь Николаевич": 330,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 81,
+      "gas:candidate-vibid:1001000225970": 330,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 11,
-      "Илюхин Виктор Иванович": 123,
-      "Руденский Игорь Николаевич": 362,
-      "Сейнов Александр Сергеевич": 13,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000202325": 11,
+      "gas:candidate-vibid:1001000121889": 123,
+      "gas:candidate-vibid:1001000225970": 362,
+      "gas:candidate-vibid:1001000112240": 13,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 113,
-      "Руденский Игорь Николаевич": 357,
-      "Сейнов Александр Сергеевич": 21,
-      "Язвенко Валентина Ивановна": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 113,
+      "gas:candidate-vibid:1001000225970": 357,
+      "gas:candidate-vibid:1001000112240": 21,
+      "gas:candidate-vibid:1001000195122": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 10,
-      "Илюхин Виктор Иванович": 105,
-      "Руденский Игорь Николаевич": 338,
-      "Сейнов Александр Сергеевич": 12,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202325": 10,
+      "gas:candidate-vibid:1001000121889": 105,
+      "gas:candidate-vibid:1001000225970": 338,
+      "gas:candidate-vibid:1001000112240": 12,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 13,
-      "Илюхин Виктор Иванович": 125,
-      "Руденский Игорь Николаевич": 302,
-      "Сейнов Александр Сергеевич": 17,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202325": 13,
+      "gas:candidate-vibid:1001000121889": 125,
+      "gas:candidate-vibid:1001000225970": 302,
+      "gas:candidate-vibid:1001000112240": 17,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 75,
-      "Руденский Игорь Николаевич": 319,
-      "Сейнов Александр Сергеевич": 14,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 75,
+      "gas:candidate-vibid:1001000225970": 319,
+      "gas:candidate-vibid:1001000112240": 14,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 131,
-      "Руденский Игорь Николаевич": 341,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 131,
+      "gas:candidate-vibid:1001000225970": 341,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 9,
-      "Илюхин Виктор Иванович": 91,
-      "Руденский Игорь Николаевич": 162,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202325": 9,
+      "gas:candidate-vibid:1001000121889": 91,
+      "gas:candidate-vibid:1001000225970": 162,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 24,
-      "Руденский Игорь Николаевич": 141,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 24,
+      "gas:candidate-vibid:1001000225970": 141,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 76,
-      "Руденский Игорь Николаевич": 562,
-      "Сейнов Александр Сергеевич": 14,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 76,
+      "gas:candidate-vibid:1001000225970": 562,
+      "gas:candidate-vibid:1001000112240": 14,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 54,
-      "Руденский Игорь Николаевич": 188,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 54,
+      "gas:candidate-vibid:1001000225970": 188,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 77,
-      "Руденский Игорь Николаевич": 223,
-      "Сейнов Александр Сергеевич": 11,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 77,
+      "gas:candidate-vibid:1001000225970": 223,
+      "gas:candidate-vibid:1001000112240": 11,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 73,
-      "Руденский Игорь Николаевич": 289,
-      "Сейнов Александр Сергеевич": 14,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 73,
+      "gas:candidate-vibid:1001000225970": 289,
+      "gas:candidate-vibid:1001000112240": 14,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 49,
-      "Руденский Игорь Николаевич": 261,
-      "Сейнов Александр Сергеевич": 8,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 49,
+      "gas:candidate-vibid:1001000225970": 261,
+      "gas:candidate-vibid:1001000112240": 8,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 50,
-      "Руденский Игорь Николаевич": 236,
-      "Сейнов Александр Сергеевич": 11,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 50,
+      "gas:candidate-vibid:1001000225970": 236,
+      "gas:candidate-vibid:1001000112240": 11,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 14,
-      "Илюхин Виктор Иванович": 53,
-      "Руденский Игорь Николаевич": 260,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 14,
+      "gas:candidate-vibid:1001000121889": 53,
+      "gas:candidate-vibid:1001000225970": 260,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 99,
-      "Руденский Игорь Николаевич": 246,
-      "Сейнов Александр Сергеевич": 8,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 99,
+      "gas:candidate-vibid:1001000225970": 246,
+      "gas:candidate-vibid:1001000112240": 8,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 68,
-      "Руденский Игорь Николаевич": 245,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 68,
+      "gas:candidate-vibid:1001000225970": 245,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 77,
-      "Руденский Игорь Николаевич": 253,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 77,
+      "gas:candidate-vibid:1001000225970": 253,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 115,
-      "Руденский Игорь Николаевич": 733,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 115,
+      "gas:candidate-vibid:1001000225970": 733,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 53,
-      "Руденский Игорь Николаевич": 302,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 53,
+      "gas:candidate-vibid:1001000225970": 302,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 48,
-      "Руденский Игорь Николаевич": 205,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 48,
+      "gas:candidate-vibid:1001000225970": 205,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 66,
-      "Руденский Игорь Николаевич": 266,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 66,
+      "gas:candidate-vibid:1001000225970": 266,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 66,
-      "Руденский Игорь Николаевич": 268,
-      "Сейнов Александр Сергеевич": 12,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 66,
+      "gas:candidate-vibid:1001000225970": 268,
+      "gas:candidate-vibid:1001000112240": 12,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 23,
-      "Руденский Игорь Николаевич": 180,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 23,
+      "gas:candidate-vibid:1001000225970": 180,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 32,
-      "Руденский Игорь Николаевич": 104,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 32,
+      "gas:candidate-vibid:1001000225970": 104,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 1,
-      "Руденский Игорь Николаевич": 232,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 1,
+      "gas:candidate-vibid:1001000225970": 232,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 13,
-      "Илюхин Виктор Иванович": 192,
-      "Руденский Игорь Николаевич": 433,
-      "Сейнов Александр Сергеевич": 11,
-      "Язвенко Валентина Ивановна": 6,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202325": 13,
+      "gas:candidate-vibid:1001000121889": 192,
+      "gas:candidate-vibid:1001000225970": 433,
+      "gas:candidate-vibid:1001000112240": 11,
+      "gas:candidate-vibid:1001000195122": 6,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 89,
-      "Руденский Игорь Николаевич": 451,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 89,
+      "gas:candidate-vibid:1001000225970": 451,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 56,
-      "Руденский Игорь Николаевич": 192,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 56,
+      "gas:candidate-vibid:1001000225970": 192,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 9,
-      "Илюхин Виктор Иванович": 110,
-      "Руденский Игорь Николаевич": 240,
-      "Сейнов Александр Сергеевич": 9,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202325": 9,
+      "gas:candidate-vibid:1001000121889": 110,
+      "gas:candidate-vibid:1001000225970": 240,
+      "gas:candidate-vibid:1001000112240": 9,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 80,
-      "Руденский Игорь Николаевич": 104,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 80,
+      "gas:candidate-vibid:1001000225970": 104,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 12,
-      "Илюхин Виктор Иванович": 375,
-      "Руденский Игорь Николаевич": 476,
-      "Сейнов Александр Сергеевич": 18,
-      "Язвенко Валентина Ивановна": 10,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000202325": 12,
+      "gas:candidate-vibid:1001000121889": 375,
+      "gas:candidate-vibid:1001000225970": 476,
+      "gas:candidate-vibid:1001000112240": 18,
+      "gas:candidate-vibid:1001000195122": 10,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 13,
-      "Илюхин Виктор Иванович": 186,
-      "Руденский Игорь Николаевич": 414,
-      "Сейнов Александр Сергеевич": 19,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000202325": 13,
+      "gas:candidate-vibid:1001000121889": 186,
+      "gas:candidate-vibid:1001000225970": 414,
+      "gas:candidate-vibid:1001000112240": 19,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 44,
-      "Руденский Игорь Николаевич": 251,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 44,
+      "gas:candidate-vibid:1001000225970": 251,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 47,
-      "Руденский Игорь Николаевич": 238,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 47,
+      "gas:candidate-vibid:1001000225970": 238,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300170999&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 48,
-      "Руденский Игорь Николаевич": 142,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 48,
+      "gas:candidate-vibid:1001000225970": 142,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 20,
-      "Руденский Игорь Николаевич": 139,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 20,
+      "gas:candidate-vibid:1001000225970": 139,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 19,
-      "Руденский Игорь Николаевич": 56,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 19,
+      "gas:candidate-vibid:1001000225970": 56,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 19,
-      "Илюхин Виктор Иванович": 67,
-      "Руденский Игорь Николаевич": 385,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202325": 19,
+      "gas:candidate-vibid:1001000121889": 67,
+      "gas:candidate-vibid:1001000225970": 385,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 57,
-      "Руденский Игорь Николаевич": 389,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 57,
+      "gas:candidate-vibid:1001000225970": 389,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 14,
-      "Илюхин Виктор Иванович": 82,
-      "Руденский Игорь Николаевич": 464,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202325": 14,
+      "gas:candidate-vibid:1001000121889": 82,
+      "gas:candidate-vibid:1001000225970": 464,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 61,
-      "Руденский Игорь Николаевич": 460,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 61,
+      "gas:candidate-vibid:1001000225970": 460,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 8,
-      "Руденский Игорь Николаевич": 48,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 8,
+      "gas:candidate-vibid:1001000225970": 48,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 10,
-      "Руденский Игорь Николаевич": 172,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 10,
+      "gas:candidate-vibid:1001000225970": 172,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 55,
-      "Руденский Игорь Николаевич": 185,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 55,
+      "gas:candidate-vibid:1001000225970": 185,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 8,
-      "Руденский Игорь Николаевич": 55,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 8,
+      "gas:candidate-vibid:1001000225970": 55,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 47,
-      "Руденский Игорь Николаевич": 201,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 47,
+      "gas:candidate-vibid:1001000225970": 201,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 12,
-      "Илюхин Виктор Иванович": 40,
-      "Руденский Игорь Николаевич": 155,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 12,
+      "gas:candidate-vibid:1001000121889": 40,
+      "gas:candidate-vibid:1001000225970": 155,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 46,
-      "Руденский Игорь Николаевич": 189,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 46,
+      "gas:candidate-vibid:1001000225970": 189,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 67,
-      "Руденский Игорь Николаевич": 315,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 67,
+      "gas:candidate-vibid:1001000225970": 315,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 18,
-      "Руденский Игорь Николаевич": 68,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 18,
+      "gas:candidate-vibid:1001000225970": 68,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 45,
-      "Руденский Игорь Николаевич": 178,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 45,
+      "gas:candidate-vibid:1001000225970": 178,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 84,
-      "Руденский Игорь Николаевич": 194,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 84,
+      "gas:candidate-vibid:1001000225970": 194,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 14,
-      "Руденский Игорь Николаевич": 226,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 14,
+      "gas:candidate-vibid:1001000225970": 226,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 13,
-      "Руденский Игорь Николаевич": 78,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 13,
+      "gas:candidate-vibid:1001000225970": 78,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 28,
-      "Руденский Игорь Николаевич": 179,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 28,
+      "gas:candidate-vibid:1001000225970": 179,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 13,
-      "Руденский Игорь Николаевич": 46,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 13,
+      "gas:candidate-vibid:1001000225970": 46,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 9,
-      "Руденский Игорь Николаевич": 65,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 9,
+      "gas:candidate-vibid:1001000225970": 65,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171001&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 15,
-      "Илюхин Виктор Иванович": 201,
-      "Руденский Игорь Николаевич": 483,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202325": 15,
+      "gas:candidate-vibid:1001000121889": 201,
+      "gas:candidate-vibid:1001000225970": 483,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 10,
-      "Илюхин Виктор Иванович": 120,
-      "Руденский Игорь Николаевич": 323,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202325": 10,
+      "gas:candidate-vibid:1001000121889": 120,
+      "gas:candidate-vibid:1001000225970": 323,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 13,
-      "Илюхин Виктор Иванович": 212,
-      "Руденский Игорь Николаевич": 514,
-      "Сейнов Александр Сергеевич": 7,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202325": 13,
+      "gas:candidate-vibid:1001000121889": 212,
+      "gas:candidate-vibid:1001000225970": 514,
+      "gas:candidate-vibid:1001000112240": 7,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 148,
-      "Руденский Игорь Николаевич": 421,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 148,
+      "gas:candidate-vibid:1001000225970": 421,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 12,
-      "Илюхин Виктор Иванович": 194,
-      "Руденский Игорь Николаевич": 517,
-      "Сейнов Александр Сергеевич": 17,
-      "Язвенко Валентина Ивановна": 13,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000202325": 12,
+      "gas:candidate-vibid:1001000121889": 194,
+      "gas:candidate-vibid:1001000225970": 517,
+      "gas:candidate-vibid:1001000112240": 17,
+      "gas:candidate-vibid:1001000195122": 13,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 13,
-      "Илюхин Виктор Иванович": 236,
-      "Руденский Игорь Николаевич": 604,
-      "Сейнов Александр Сергеевич": 16,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202325": 13,
+      "gas:candidate-vibid:1001000121889": 236,
+      "gas:candidate-vibid:1001000225970": 604,
+      "gas:candidate-vibid:1001000112240": 16,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 69,
-      "Руденский Игорь Николаевич": 694,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 69,
+      "gas:candidate-vibid:1001000225970": 694,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 62,
-      "Руденский Игорь Николаевич": 417,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 62,
+      "gas:candidate-vibid:1001000225970": 417,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 103,
-      "Руденский Игорь Николаевич": 440,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 103,
+      "gas:candidate-vibid:1001000225970": 440,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 47,
-      "Руденский Игорь Николаевич": 212,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 47,
+      "gas:candidate-vibid:1001000225970": 212,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 92,
-      "Руденский Игорь Николаевич": 131,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 92,
+      "gas:candidate-vibid:1001000225970": 131,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 61,
-      "Руденский Игорь Николаевич": 212,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 61,
+      "gas:candidate-vibid:1001000225970": 212,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 70,
-      "Руденский Игорь Николаевич": 330,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 70,
+      "gas:candidate-vibid:1001000225970": 330,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 33,
-      "Руденский Игорь Николаевич": 123,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 33,
+      "gas:candidate-vibid:1001000225970": 123,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 36,
-      "Руденский Игорь Николаевич": 124,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 36,
+      "gas:candidate-vibid:1001000225970": 124,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 145,
-      "Руденский Игорь Николаевич": 528,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 145,
+      "gas:candidate-vibid:1001000225970": 528,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 37,
-      "Руденский Игорь Николаевич": 330,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 37,
+      "gas:candidate-vibid:1001000225970": 330,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 33,
-      "Руденский Игорь Николаевич": 287,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 33,
+      "gas:candidate-vibid:1001000225970": 287,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 14,
-      "Руденский Игорь Николаевич": 90,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 14,
+      "gas:candidate-vibid:1001000225970": 90,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 106,
-      "Руденский Игорь Николаевич": 467,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 106,
+      "gas:candidate-vibid:1001000225970": 467,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 23,
-      "Руденский Игорь Николаевич": 136,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 23,
+      "gas:candidate-vibid:1001000225970": 136,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 12,
-      "Руденский Игорь Николаевич": 134,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 12,
+      "gas:candidate-vibid:1001000225970": 134,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 53,
-      "Руденский Игорь Николаевич": 100,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 53,
+      "gas:candidate-vibid:1001000225970": 100,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 11,
-      "Руденский Игорь Николаевич": 72,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 11,
+      "gas:candidate-vibid:1001000225970": 72,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 8,
-      "Илюхин Виктор Иванович": 57,
-      "Руденский Игорь Николаевич": 240,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 8,
+      "gas:candidate-vibid:1001000121889": 57,
+      "gas:candidate-vibid:1001000225970": 240,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 31,
-      "Руденский Игорь Николаевич": 138,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 31,
+      "gas:candidate-vibid:1001000225970": 138,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 44,
-      "Руденский Игорь Николаевич": 98,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 44,
+      "gas:candidate-vibid:1001000225970": 98,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 52,
-      "Руденский Игорь Николаевич": 418,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 52,
+      "gas:candidate-vibid:1001000225970": 418,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 9,
-      "Руденский Игорь Николаевич": 185,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 9,
+      "gas:candidate-vibid:1001000225970": 185,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 5,
-      "Руденский Игорь Николаевич": 114,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 5,
+      "gas:candidate-vibid:1001000225970": 114,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 40,
-      "Руденский Игорь Николаевич": 445,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 40,
+      "gas:candidate-vibid:1001000225970": 445,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 33,
-      "Руденский Игорь Николаевич": 577,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 33,
+      "gas:candidate-vibid:1001000225970": 577,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 28,
-      "Руденский Игорь Николаевич": 260,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 28,
+      "gas:candidate-vibid:1001000225970": 260,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 9,
-      "Илюхин Виктор Иванович": 196,
-      "Руденский Игорь Николаевич": 708,
-      "Сейнов Александр Сергеевич": 16,
-      "Язвенко Валентина Ивановна": 8,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202325": 9,
+      "gas:candidate-vibid:1001000121889": 196,
+      "gas:candidate-vibid:1001000225970": 708,
+      "gas:candidate-vibid:1001000112240": 16,
+      "gas:candidate-vibid:1001000195122": 8,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171003&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 131,
-      "Руденский Игорь Николаевич": 324,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 10,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 131,
+      "gas:candidate-vibid:1001000225970": 324,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 10,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 16,
-      "Руденский Игорь Николаевич": 48,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 16,
+      "gas:candidate-vibid:1001000225970": 48,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 35,
-      "Руденский Игорь Николаевич": 89,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 35,
+      "gas:candidate-vibid:1001000225970": 89,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 121,
-      "Руденский Игорь Николаевич": 142,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 121,
+      "gas:candidate-vibid:1001000225970": 142,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 38,
-      "Руденский Игорь Николаевич": 101,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 38,
+      "gas:candidate-vibid:1001000225970": 101,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 34,
-      "Руденский Игорь Николаевич": 168,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 34,
+      "gas:candidate-vibid:1001000225970": 168,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 19,
-      "Руденский Игорь Николаевич": 50,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 19,
+      "gas:candidate-vibid:1001000225970": 50,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 36,
-      "Руденский Игорь Николаевич": 246,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 36,
+      "gas:candidate-vibid:1001000225970": 246,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 16,
-      "Руденский Игорь Николаевич": 95,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 16,
+      "gas:candidate-vibid:1001000225970": 95,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 40,
-      "Руденский Игорь Николаевич": 59,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 40,
+      "gas:candidate-vibid:1001000225970": 59,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 17,
-      "Руденский Игорь Николаевич": 143,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 17,
+      "gas:candidate-vibid:1001000225970": 143,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 188,
-      "Руденский Игорь Николаевич": 557,
-      "Сейнов Александр Сергеевич": 10,
-      "Язвенко Валентина Ивановна": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 188,
+      "gas:candidate-vibid:1001000225970": 557,
+      "gas:candidate-vibid:1001000112240": 10,
+      "gas:candidate-vibid:1001000195122": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 265,
-      "Руденский Игорь Николаевич": 527,
-      "Сейнов Александр Сергеевич": 6,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 265,
+      "gas:candidate-vibid:1001000225970": 527,
+      "gas:candidate-vibid:1001000112240": 6,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 13,
-      "Илюхин Виктор Иванович": 221,
-      "Руденский Игорь Николаевич": 566,
-      "Сейнов Александр Сергеевич": 12,
-      "Язвенко Валентина Ивановна": 3,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000202325": 13,
+      "gas:candidate-vibid:1001000121889": 221,
+      "gas:candidate-vibid:1001000225970": 566,
+      "gas:candidate-vibid:1001000112240": 12,
+      "gas:candidate-vibid:1001000195122": 3,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 21,
-      "Руденский Игорь Николаевич": 191,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 21,
+      "gas:candidate-vibid:1001000225970": 191,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 41,
-      "Руденский Игорь Николаевич": 299,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 41,
+      "gas:candidate-vibid:1001000225970": 299,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 27,
-      "Руденский Игорь Николаевич": 68,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 27,
+      "gas:candidate-vibid:1001000225970": 68,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 21,
-      "Руденский Игорь Николаевич": 226,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 21,
+      "gas:candidate-vibid:1001000225970": 226,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 10,
-      "Руденский Игорь Николаевич": 82,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 10,
+      "gas:candidate-vibid:1001000225970": 82,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 13,
-      "Руденский Игорь Николаевич": 76,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 13,
+      "gas:candidate-vibid:1001000225970": 76,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 43,
-      "Руденский Игорь Николаевич": 237,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 43,
+      "gas:candidate-vibid:1001000225970": 237,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 41,
-      "Руденский Игорь Николаевич": 80,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 41,
+      "gas:candidate-vibid:1001000225970": 80,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 35,
-      "Руденский Игорь Николаевич": 255,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 35,
+      "gas:candidate-vibid:1001000225970": 255,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 29,
-      "Руденский Игорь Николаевич": 152,
-      "Сейнов Александр Сергеевич": 1,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 29,
+      "gas:candidate-vibid:1001000225970": 152,
+      "gas:candidate-vibid:1001000112240": 1,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 65,
-      "Руденский Игорь Николаевич": 106,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 65,
+      "gas:candidate-vibid:1001000225970": 106,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171005&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 65,
-      "Руденский Игорь Николаевич": 197,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 65,
+      "gas:candidate-vibid:1001000225970": 197,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 33,
-      "Руденский Игорь Николаевич": 106,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 33,
+      "gas:candidate-vibid:1001000225970": 106,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 27,
-      "Руденский Игорь Николаевич": 205,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 27,
+      "gas:candidate-vibid:1001000225970": 205,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 5,
-      "Илюхин Виктор Иванович": 97,
-      "Руденский Игорь Николаевич": 347,
-      "Сейнов Александр Сергеевич": 5,
-      "Язвенко Валентина Ивановна": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202325": 5,
+      "gas:candidate-vibid:1001000121889": 97,
+      "gas:candidate-vibid:1001000225970": 347,
+      "gas:candidate-vibid:1001000112240": 5,
+      "gas:candidate-vibid:1001000195122": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 7,
-      "Илюхин Виктор Иванович": 221,
-      "Руденский Игорь Николаевич": 374,
-      "Сейнов Александр Сергеевич": 18,
-      "Язвенко Валентина Ивановна": 10,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202325": 7,
+      "gas:candidate-vibid:1001000121889": 221,
+      "gas:candidate-vibid:1001000225970": 374,
+      "gas:candidate-vibid:1001000112240": 18,
+      "gas:candidate-vibid:1001000195122": 10,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 3,
-      "Илюхин Виктор Иванович": 28,
-      "Руденский Игорь Николаевич": 185,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202325": 3,
+      "gas:candidate-vibid:1001000121889": 28,
+      "gas:candidate-vibid:1001000225970": 185,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 79,
-      "Руденский Игорь Николаевич": 173,
-      "Сейнов Александр Сергеевич": 9,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 79,
+      "gas:candidate-vibid:1001000225970": 173,
+      "gas:candidate-vibid:1001000112240": 9,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 0,
-      "Илюхин Виктор Иванович": 11,
-      "Руденский Игорь Николаевич": 45,
-      "Сейнов Александр Сергеевич": 3,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202325": 0,
+      "gas:candidate-vibid:1001000121889": 11,
+      "gas:candidate-vibid:1001000225970": 45,
+      "gas:candidate-vibid:1001000112240": 3,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 4,
-      "Илюхин Виктор Иванович": 95,
-      "Руденский Игорь Николаевич": 216,
-      "Сейнов Александр Сергеевич": 4,
-      "Язвенко Валентина Ивановна": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202325": 4,
+      "gas:candidate-vibid:1001000121889": 95,
+      "gas:candidate-vibid:1001000225970": 216,
+      "gas:candidate-vibid:1001000112240": 4,
+      "gas:candidate-vibid:1001000195122": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 6,
-      "Илюхин Виктор Иванович": 85,
-      "Руденский Игорь Николаевич": 204,
-      "Сейнов Александр Сергеевич": 8,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202325": 6,
+      "gas:candidate-vibid:1001000121889": 85,
+      "gas:candidate-vibid:1001000225970": 204,
+      "gas:candidate-vibid:1001000112240": 8,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 2,
-      "Илюхин Виктор Иванович": 46,
-      "Руденский Игорь Николаевич": 177,
-      "Сейнов Александр Сергеевич": 0,
-      "Язвенко Валентина Ивановна": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202325": 2,
+      "gas:candidate-vibid:1001000121889": 46,
+      "gas:candidate-vibid:1001000225970": 177,
+      "gas:candidate-vibid:1001000112240": 0,
+      "gas:candidate-vibid:1001000195122": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_58_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дюльдин Виктор Гаврилович": 1,
-      "Илюхин Виктор Иванович": 14,
-      "Руденский Игорь Николаевич": 109,
-      "Сейнов Александр Сергеевич": 2,
-      "Язвенко Валентина Ивановна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202325": 1,
+      "gas:candidate-vibid:1001000121889": 14,
+      "gas:candidate-vibid:1001000225970": 109,
+      "gas:candidate-vibid:1001000112240": 2,
+      "gas:candidate-vibid:1001000195122": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=583001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=358300171007&region=0&sub_region=0&type=429",

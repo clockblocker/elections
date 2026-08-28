@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 89,
-      "Габдрахманов Марсель Маликович": 43,
-      "Зинатуллин Руслан Мансурович": 9,
-      "Кротов Максим Сергеевич": 10,
-      "Минкин Иршат Султанович": 711,
-      "Прокофьев Артём Вячеславович": 95,
-      "Файзуллина Айгуль Рашитовна": 72
+      "gas:candidate-vibid:4164025209682": 89,
+      "gas:candidate-vibid:4164025209497": 43,
+      "gas:candidate-vibid:4164025210097": 9,
+      "gas:candidate-vibid:4164025210266": 10,
+      "gas:candidate-vibid:4164025210015": 711,
+      "gas:candidate-vibid:4164025210003": 95,
+      "gas:candidate-vibid:4164025209936": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 54,
-      "Габдрахманов Марсель Маликович": 26,
-      "Зинатуллин Руслан Мансурович": 50,
-      "Кротов Максим Сергеевич": 52,
-      "Минкин Иршат Султанович": 600,
-      "Прокофьев Артём Вячеславович": 86,
-      "Файзуллина Айгуль Рашитовна": 128
+      "gas:candidate-vibid:4164025209682": 54,
+      "gas:candidate-vibid:4164025209497": 26,
+      "gas:candidate-vibid:4164025210097": 50,
+      "gas:candidate-vibid:4164025210266": 52,
+      "gas:candidate-vibid:4164025210015": 600,
+      "gas:candidate-vibid:4164025210003": 86,
+      "gas:candidate-vibid:4164025209936": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 85,
-      "Габдрахманов Марсель Маликович": 38,
-      "Зинатуллин Руслан Мансурович": 53,
-      "Кротов Максим Сергеевич": 41,
-      "Минкин Иршат Султанович": 667,
-      "Прокофьев Артём Вячеславович": 93,
-      "Файзуллина Айгуль Рашитовна": 78
+      "gas:candidate-vibid:4164025209682": 85,
+      "gas:candidate-vibid:4164025209497": 38,
+      "gas:candidate-vibid:4164025210097": 53,
+      "gas:candidate-vibid:4164025210266": 41,
+      "gas:candidate-vibid:4164025210015": 667,
+      "gas:candidate-vibid:4164025210003": 93,
+      "gas:candidate-vibid:4164025209936": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 77,
-      "Габдрахманов Марсель Маликович": 93,
-      "Зинатуллин Руслан Мансурович": 50,
-      "Кротов Максим Сергеевич": 69,
-      "Минкин Иршат Султанович": 352,
-      "Прокофьев Артём Вячеславович": 174,
-      "Файзуллина Айгуль Рашитовна": 159
+      "gas:candidate-vibid:4164025209682": 77,
+      "gas:candidate-vibid:4164025209497": 93,
+      "gas:candidate-vibid:4164025210097": 50,
+      "gas:candidate-vibid:4164025210266": 69,
+      "gas:candidate-vibid:4164025210015": 352,
+      "gas:candidate-vibid:4164025210003": 174,
+      "gas:candidate-vibid:4164025209936": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 92,
-      "Габдрахманов Марсель Маликович": 59,
-      "Зинатуллин Руслан Мансурович": 52,
-      "Кротов Максим Сергеевич": 65,
-      "Минкин Иршат Султанович": 620,
-      "Прокофьев Артём Вячеславович": 109,
-      "Файзуллина Айгуль Рашитовна": 39
+      "gas:candidate-vibid:4164025209682": 92,
+      "gas:candidate-vibid:4164025209497": 59,
+      "gas:candidate-vibid:4164025210097": 52,
+      "gas:candidate-vibid:4164025210266": 65,
+      "gas:candidate-vibid:4164025210015": 620,
+      "gas:candidate-vibid:4164025210003": 109,
+      "gas:candidate-vibid:4164025209936": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 71,
-      "Габдрахманов Марсель Маликович": 50,
-      "Зинатуллин Руслан Мансурович": 50,
-      "Кротов Максим Сергеевич": 50,
-      "Минкин Иршат Султанович": 640,
-      "Прокофьев Артём Вячеславович": 112,
-      "Файзуллина Айгуль Рашитовна": 48
+      "gas:candidate-vibid:4164025209682": 71,
+      "gas:candidate-vibid:4164025209497": 50,
+      "gas:candidate-vibid:4164025210097": 50,
+      "gas:candidate-vibid:4164025210266": 50,
+      "gas:candidate-vibid:4164025210015": 640,
+      "gas:candidate-vibid:4164025210003": 112,
+      "gas:candidate-vibid:4164025209936": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 104,
-      "Габдрахманов Марсель Маликович": 74,
-      "Зинатуллин Руслан Мансурович": 49,
-      "Кротов Максим Сергеевич": 28,
-      "Минкин Иршат Султанович": 749,
-      "Прокофьев Артём Вячеславович": 136,
-      "Файзуллина Айгуль Рашитовна": 82
+      "gas:candidate-vibid:4164025209682": 104,
+      "gas:candidate-vibid:4164025209497": 74,
+      "gas:candidate-vibid:4164025210097": 49,
+      "gas:candidate-vibid:4164025210266": 28,
+      "gas:candidate-vibid:4164025210015": 749,
+      "gas:candidate-vibid:4164025210003": 136,
+      "gas:candidate-vibid:4164025209936": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 153,
-      "Габдрахманов Марсель Маликович": 21,
-      "Зинатуллин Руслан Мансурович": 23,
-      "Кротов Максим Сергеевич": 12,
-      "Минкин Иршат Султанович": 862,
-      "Прокофьев Артём Вячеславович": 209,
-      "Файзуллина Айгуль Рашитовна": 106
+      "gas:candidate-vibid:4164025209682": 153,
+      "gas:candidate-vibid:4164025209497": 21,
+      "gas:candidate-vibid:4164025210097": 23,
+      "gas:candidate-vibid:4164025210266": 12,
+      "gas:candidate-vibid:4164025210015": 862,
+      "gas:candidate-vibid:4164025210003": 209,
+      "gas:candidate-vibid:4164025209936": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 80,
-      "Габдрахманов Марсель Маликович": 28,
-      "Зинатуллин Руслан Мансурович": 32,
-      "Кротов Максим Сергеевич": 34,
-      "Минкин Иршат Султанович": 745,
-      "Прокофьев Артём Вячеславович": 135,
-      "Файзуллина Айгуль Рашитовна": 162
+      "gas:candidate-vibid:4164025209682": 80,
+      "gas:candidate-vibid:4164025209497": 28,
+      "gas:candidate-vibid:4164025210097": 32,
+      "gas:candidate-vibid:4164025210266": 34,
+      "gas:candidate-vibid:4164025210015": 745,
+      "gas:candidate-vibid:4164025210003": 135,
+      "gas:candidate-vibid:4164025209936": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 86,
-      "Габдрахманов Марсель Маликович": 50,
-      "Зинатуллин Руслан Мансурович": 65,
-      "Кротов Максим Сергеевич": 58,
-      "Минкин Иршат Султанович": 797,
-      "Прокофьев Артём Вячеславович": 160,
-      "Файзуллина Айгуль Рашитовна": 75
+      "gas:candidate-vibid:4164025209682": 86,
+      "gas:candidate-vibid:4164025209497": 50,
+      "gas:candidate-vibid:4164025210097": 65,
+      "gas:candidate-vibid:4164025210266": 58,
+      "gas:candidate-vibid:4164025210015": 797,
+      "gas:candidate-vibid:4164025210003": 160,
+      "gas:candidate-vibid:4164025209936": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 115,
-      "Габдрахманов Марсель Маликович": 88,
-      "Зинатуллин Руслан Мансурович": 72,
-      "Кротов Максим Сергеевич": 27,
-      "Минкин Иршат Султанович": 773,
-      "Прокофьев Артём Вячеславович": 141,
-      "Файзуллина Айгуль Рашитовна": 64
+      "gas:candidate-vibid:4164025209682": 115,
+      "gas:candidate-vibid:4164025209497": 88,
+      "gas:candidate-vibid:4164025210097": 72,
+      "gas:candidate-vibid:4164025210266": 27,
+      "gas:candidate-vibid:4164025210015": 773,
+      "gas:candidate-vibid:4164025210003": 141,
+      "gas:candidate-vibid:4164025209936": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 86,
-      "Габдрахманов Марсель Маликович": 53,
-      "Зинатуллин Руслан Мансурович": 79,
-      "Кротов Максим Сергеевич": 45,
-      "Минкин Иршат Султанович": 675,
-      "Прокофьев Артём Вячеславович": 87,
-      "Файзуллина Айгуль Рашитовна": 72
+      "gas:candidate-vibid:4164025209682": 86,
+      "gas:candidate-vibid:4164025209497": 53,
+      "gas:candidate-vibid:4164025210097": 79,
+      "gas:candidate-vibid:4164025210266": 45,
+      "gas:candidate-vibid:4164025210015": 675,
+      "gas:candidate-vibid:4164025210003": 87,
+      "gas:candidate-vibid:4164025209936": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 73,
-      "Габдрахманов Марсель Маликович": 114,
-      "Зинатуллин Руслан Мансурович": 67,
-      "Кротов Максим Сергеевич": 81,
-      "Минкин Иршат Султанович": 437,
-      "Прокофьев Артём Вячеславович": 191,
-      "Файзуллина Айгуль Рашитовна": 130
+      "gas:candidate-vibid:4164025209682": 73,
+      "gas:candidate-vibid:4164025209497": 114,
+      "gas:candidate-vibid:4164025210097": 67,
+      "gas:candidate-vibid:4164025210266": 81,
+      "gas:candidate-vibid:4164025210015": 437,
+      "gas:candidate-vibid:4164025210003": 191,
+      "gas:candidate-vibid:4164025209936": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 67,
-      "Габдрахманов Марсель Маликович": 111,
-      "Зинатуллин Руслан Мансурович": 96,
-      "Кротов Максим Сергеевич": 84,
-      "Минкин Иршат Султанович": 438,
-      "Прокофьев Артём Вячеславович": 160,
-      "Файзуллина Айгуль Рашитовна": 153
+      "gas:candidate-vibid:4164025209682": 67,
+      "gas:candidate-vibid:4164025209497": 111,
+      "gas:candidate-vibid:4164025210097": 96,
+      "gas:candidate-vibid:4164025210266": 84,
+      "gas:candidate-vibid:4164025210015": 438,
+      "gas:candidate-vibid:4164025210003": 160,
+      "gas:candidate-vibid:4164025209936": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 101,
-      "Габдрахманов Марсель Маликович": 28,
-      "Зинатуллин Руслан Мансурович": 36,
-      "Кротов Максим Сергеевич": 58,
-      "Минкин Иршат Султанович": 782,
-      "Прокофьев Артём Вячеславович": 139,
-      "Файзуллина Айгуль Рашитовна": 48
+      "gas:candidate-vibid:4164025209682": 101,
+      "gas:candidate-vibid:4164025209497": 28,
+      "gas:candidate-vibid:4164025210097": 36,
+      "gas:candidate-vibid:4164025210266": 58,
+      "gas:candidate-vibid:4164025210015": 782,
+      "gas:candidate-vibid:4164025210003": 139,
+      "gas:candidate-vibid:4164025209936": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 116,
-      "Габдрахманов Марсель Маликович": 38,
-      "Зинатуллин Руслан Мансурович": 46,
-      "Кротов Максим Сергеевич": 58,
-      "Минкин Иршат Султанович": 797,
-      "Прокофьев Артём Вячеславович": 142,
-      "Файзуллина Айгуль Рашитовна": 63
+      "gas:candidate-vibid:4164025209682": 116,
+      "gas:candidate-vibid:4164025209497": 38,
+      "gas:candidate-vibid:4164025210097": 46,
+      "gas:candidate-vibid:4164025210266": 58,
+      "gas:candidate-vibid:4164025210015": 797,
+      "gas:candidate-vibid:4164025210003": 142,
+      "gas:candidate-vibid:4164025209936": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 97,
-      "Габдрахманов Марсель Маликович": 86,
-      "Зинатуллин Руслан Мансурович": 59,
-      "Кротов Максим Сергеевич": 63,
-      "Минкин Иршат Султанович": 886,
-      "Прокофьев Артём Вячеславович": 156,
-      "Файзуллина Айгуль Рашитовна": 51
+      "gas:candidate-vibid:4164025209682": 97,
+      "gas:candidate-vibid:4164025209497": 86,
+      "gas:candidate-vibid:4164025210097": 59,
+      "gas:candidate-vibid:4164025210266": 63,
+      "gas:candidate-vibid:4164025210015": 886,
+      "gas:candidate-vibid:4164025210003": 156,
+      "gas:candidate-vibid:4164025209936": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 132,
-      "Габдрахманов Марсель Маликович": 109,
-      "Зинатуллин Руслан Мансурович": 69,
-      "Кротов Максим Сергеевич": 66,
-      "Минкин Иршат Султанович": 432,
-      "Прокофьев Артём Вячеславович": 164,
-      "Файзуллина Айгуль Рашитовна": 145
+      "gas:candidate-vibid:4164025209682": 132,
+      "gas:candidate-vibid:4164025209497": 109,
+      "gas:candidate-vibid:4164025210097": 69,
+      "gas:candidate-vibid:4164025210266": 66,
+      "gas:candidate-vibid:4164025210015": 432,
+      "gas:candidate-vibid:4164025210003": 164,
+      "gas:candidate-vibid:4164025209936": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 150,
-      "Габдрахманов Марсель Маликович": 65,
-      "Зинатуллин Руслан Мансурович": 47,
-      "Кротов Максим Сергеевич": 41,
-      "Минкин Иршат Султанович": 864,
-      "Прокофьев Артём Вячеславович": 154,
-      "Файзуллина Айгуль Рашитовна": 75
+      "gas:candidate-vibid:4164025209682": 150,
+      "gas:candidate-vibid:4164025209497": 65,
+      "gas:candidate-vibid:4164025210097": 47,
+      "gas:candidate-vibid:4164025210266": 41,
+      "gas:candidate-vibid:4164025210015": 864,
+      "gas:candidate-vibid:4164025210003": 154,
+      "gas:candidate-vibid:4164025209936": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 134,
-      "Габдрахманов Марсель Маликович": 92,
-      "Зинатуллин Руслан Мансурович": 46,
-      "Кротов Максим Сергеевич": 32,
-      "Минкин Иршат Султанович": 814,
-      "Прокофьев Артём Вячеславович": 147,
-      "Файзуллина Айгуль Рашитовна": 73
+      "gas:candidate-vibid:4164025209682": 134,
+      "gas:candidate-vibid:4164025209497": 92,
+      "gas:candidate-vibid:4164025210097": 46,
+      "gas:candidate-vibid:4164025210266": 32,
+      "gas:candidate-vibid:4164025210015": 814,
+      "gas:candidate-vibid:4164025210003": 147,
+      "gas:candidate-vibid:4164025209936": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 63,
-      "Габдрахманов Марсель Маликович": 37,
-      "Зинатуллин Руслан Мансурович": 42,
-      "Кротов Максим Сергеевич": 46,
-      "Минкин Иршат Султанович": 517,
-      "Прокофьев Артём Вячеславович": 93,
-      "Файзуллина Айгуль Рашитовна": 42
+      "gas:candidate-vibid:4164025209682": 63,
+      "gas:candidate-vibid:4164025209497": 37,
+      "gas:candidate-vibid:4164025210097": 42,
+      "gas:candidate-vibid:4164025210266": 46,
+      "gas:candidate-vibid:4164025210015": 517,
+      "gas:candidate-vibid:4164025210003": 93,
+      "gas:candidate-vibid:4164025209936": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 158,
-      "Габдрахманов Марсель Маликович": 80,
-      "Зинатуллин Руслан Мансурович": 42,
-      "Кротов Максим Сергеевич": 40,
-      "Минкин Иршат Султанович": 837,
-      "Прокофьев Артём Вячеславович": 173,
-      "Файзуллина Айгуль Рашитовна": 44
+      "gas:candidate-vibid:4164025209682": 158,
+      "gas:candidate-vibid:4164025209497": 80,
+      "gas:candidate-vibid:4164025210097": 42,
+      "gas:candidate-vibid:4164025210266": 40,
+      "gas:candidate-vibid:4164025210015": 837,
+      "gas:candidate-vibid:4164025210003": 173,
+      "gas:candidate-vibid:4164025209936": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 101,
-      "Габдрахманов Марсель Маликович": 98,
-      "Зинатуллин Руслан Мансурович": 41,
-      "Кротов Максим Сергеевич": 68,
-      "Минкин Иршат Султанович": 876,
-      "Прокофьев Артём Вячеславович": 131,
-      "Файзуллина Айгуль Рашитовна": 35
+      "gas:candidate-vibid:4164025209682": 101,
+      "gas:candidate-vibid:4164025209497": 98,
+      "gas:candidate-vibid:4164025210097": 41,
+      "gas:candidate-vibid:4164025210266": 68,
+      "gas:candidate-vibid:4164025210015": 876,
+      "gas:candidate-vibid:4164025210003": 131,
+      "gas:candidate-vibid:4164025209936": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 56,
-      "Габдрахманов Марсель Маликович": 69,
-      "Зинатуллин Руслан Мансурович": 63,
-      "Кротов Максим Сергеевич": 51,
-      "Минкин Иршат Султанович": 704,
-      "Прокофьев Артём Вячеславович": 125,
-      "Файзуллина Айгуль Рашитовна": 55
+      "gas:candidate-vibid:4164025209682": 56,
+      "gas:candidate-vibid:4164025209497": 69,
+      "gas:candidate-vibid:4164025210097": 63,
+      "gas:candidate-vibid:4164025210266": 51,
+      "gas:candidate-vibid:4164025210015": 704,
+      "gas:candidate-vibid:4164025210003": 125,
+      "gas:candidate-vibid:4164025209936": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 122,
-      "Габдрахманов Марсель Маликович": 76,
-      "Зинатуллин Руслан Мансурович": 35,
-      "Кротов Максим Сергеевич": 79,
-      "Минкин Иршат Султанович": 905,
-      "Прокофьев Артём Вячеславович": 158,
-      "Файзуллина Айгуль Рашитовна": 78
+      "gas:candidate-vibid:4164025209682": 122,
+      "gas:candidate-vibid:4164025209497": 76,
+      "gas:candidate-vibid:4164025210097": 35,
+      "gas:candidate-vibid:4164025210266": 79,
+      "gas:candidate-vibid:4164025210015": 905,
+      "gas:candidate-vibid:4164025210003": 158,
+      "gas:candidate-vibid:4164025209936": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 138,
-      "Габдрахманов Марсель Маликович": 85,
-      "Зинатуллин Руслан Мансурович": 49,
-      "Кротов Максим Сергеевич": 30,
-      "Минкин Иршат Султанович": 851,
-      "Прокофьев Артём Вячеславович": 157,
-      "Файзуллина Айгуль Рашитовна": 91
+      "gas:candidate-vibid:4164025209682": 138,
+      "gas:candidate-vibid:4164025209497": 85,
+      "gas:candidate-vibid:4164025210097": 49,
+      "gas:candidate-vibid:4164025210266": 30,
+      "gas:candidate-vibid:4164025210015": 851,
+      "gas:candidate-vibid:4164025210003": 157,
+      "gas:candidate-vibid:4164025209936": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 151,
-      "Габдрахманов Марсель Маликович": 58,
-      "Зинатуллин Руслан Мансурович": 33,
-      "Кротов Максим Сергеевич": 73,
-      "Минкин Иршат Султанович": 920,
-      "Прокофьев Артём Вячеславович": 195,
-      "Файзуллина Айгуль Рашитовна": 50
+      "gas:candidate-vibid:4164025209682": 151,
+      "gas:candidate-vibid:4164025209497": 58,
+      "gas:candidate-vibid:4164025210097": 33,
+      "gas:candidate-vibid:4164025210266": 73,
+      "gas:candidate-vibid:4164025210015": 920,
+      "gas:candidate-vibid:4164025210003": 195,
+      "gas:candidate-vibid:4164025209936": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 101,
-      "Габдрахманов Марсель Маликович": 72,
-      "Зинатуллин Руслан Мансурович": 78,
-      "Кротов Максим Сергеевич": 93,
-      "Минкин Иршат Султанович": 902,
-      "Прокофьев Артём Вячеславович": 162,
-      "Файзуллина Айгуль Рашитовна": 47
+      "gas:candidate-vibid:4164025209682": 101,
+      "gas:candidate-vibid:4164025209497": 72,
+      "gas:candidate-vibid:4164025210097": 78,
+      "gas:candidate-vibid:4164025210266": 93,
+      "gas:candidate-vibid:4164025210015": 902,
+      "gas:candidate-vibid:4164025210003": 162,
+      "gas:candidate-vibid:4164025209936": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 123,
-      "Габдрахманов Марсель Маликович": 68,
-      "Зинатуллин Руслан Мансурович": 36,
-      "Кротов Максим Сергеевич": 49,
-      "Минкин Иршат Султанович": 933,
-      "Прокофьев Артём Вячеславович": 162,
-      "Файзуллина Айгуль Рашитовна": 91
+      "gas:candidate-vibid:4164025209682": 123,
+      "gas:candidate-vibid:4164025209497": 68,
+      "gas:candidate-vibid:4164025210097": 36,
+      "gas:candidate-vibid:4164025210266": 49,
+      "gas:candidate-vibid:4164025210015": 933,
+      "gas:candidate-vibid:4164025210003": 162,
+      "gas:candidate-vibid:4164025209936": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 18,
-      "Габдрахманов Марсель Маликович": 11,
-      "Зинатуллин Руслан Мансурович": 10,
-      "Кротов Максим Сергеевич": 15,
-      "Минкин Иршат Султанович": 197,
-      "Прокофьев Артём Вячеславович": 19,
-      "Файзуллина Айгуль Рашитовна": 14
+      "gas:candidate-vibid:4164025209682": 18,
+      "gas:candidate-vibid:4164025209497": 11,
+      "gas:candidate-vibid:4164025210097": 10,
+      "gas:candidate-vibid:4164025210266": 15,
+      "gas:candidate-vibid:4164025210015": 197,
+      "gas:candidate-vibid:4164025210003": 19,
+      "gas:candidate-vibid:4164025209936": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 1,
-      "Габдрахманов Марсель Маликович": 0,
-      "Зинатуллин Руслан Мансурович": 0,
-      "Кротов Максим Сергеевич": 2,
-      "Минкин Иршат Султанович": 59,
-      "Прокофьев Артём Вячеславович": 2,
-      "Файзуллина Айгуль Рашитовна": 2
+      "gas:candidate-vibid:4164025209682": 1,
+      "gas:candidate-vibid:4164025209497": 0,
+      "gas:candidate-vibid:4164025210097": 0,
+      "gas:candidate-vibid:4164025210266": 2,
+      "gas:candidate-vibid:4164025210015": 59,
+      "gas:candidate-vibid:4164025210003": 2,
+      "gas:candidate-vibid:4164025209936": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 76,
-      "Габдрахманов Марсель Маликович": 83,
-      "Зинатуллин Руслан Мансурович": 121,
-      "Кротов Максим Сергеевич": 74,
-      "Минкин Иршат Султанович": 481,
-      "Прокофьев Артём Вячеславович": 167,
-      "Файзуллина Айгуль Рашитовна": 164
+      "gas:candidate-vibid:4164025209682": 76,
+      "gas:candidate-vibid:4164025209497": 83,
+      "gas:candidate-vibid:4164025210097": 121,
+      "gas:candidate-vibid:4164025210266": 74,
+      "gas:candidate-vibid:4164025210015": 481,
+      "gas:candidate-vibid:4164025210003": 167,
+      "gas:candidate-vibid:4164025209936": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 116,
-      "Габдрахманов Марсель Маликович": 37,
-      "Зинатуллин Руслан Мансурович": 10,
-      "Кротов Максим Сергеевич": 18,
-      "Минкин Иршат Султанович": 750,
-      "Прокофьев Артём Вячеславович": 152,
-      "Файзуллина Айгуль Рашитовна": 116
+      "gas:candidate-vibid:4164025209682": 116,
+      "gas:candidate-vibid:4164025209497": 37,
+      "gas:candidate-vibid:4164025210097": 10,
+      "gas:candidate-vibid:4164025210266": 18,
+      "gas:candidate-vibid:4164025210015": 750,
+      "gas:candidate-vibid:4164025210003": 152,
+      "gas:candidate-vibid:4164025209936": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562329&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562329&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 155,
-      "Габдрахманов Марсель Маликович": 100,
-      "Зинатуллин Руслан Мансурович": 43,
-      "Кротов Максим Сергеевич": 23,
-      "Минкин Иршат Султанович": 868,
-      "Прокофьев Артём Вячеславович": 154,
-      "Файзуллина Айгуль Рашитовна": 89
+      "gas:candidate-vibid:4164025209682": 155,
+      "gas:candidate-vibid:4164025209497": 100,
+      "gas:candidate-vibid:4164025210097": 43,
+      "gas:candidate-vibid:4164025210266": 23,
+      "gas:candidate-vibid:4164025210015": 868,
+      "gas:candidate-vibid:4164025210003": 154,
+      "gas:candidate-vibid:4164025209936": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 155,
-      "Габдрахманов Марсель Маликович": 72,
-      "Зинатуллин Руслан Мансурович": 75,
-      "Кротов Максим Сергеевич": 75,
-      "Минкин Иршат Султанович": 854,
-      "Прокофьев Артём Вячеславович": 70,
-      "Файзуллина Айгуль Рашитовна": 65
+      "gas:candidate-vibid:4164025209682": 155,
+      "gas:candidate-vibid:4164025209497": 72,
+      "gas:candidate-vibid:4164025210097": 75,
+      "gas:candidate-vibid:4164025210266": 75,
+      "gas:candidate-vibid:4164025210015": 854,
+      "gas:candidate-vibid:4164025210003": 70,
+      "gas:candidate-vibid:4164025209936": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 172,
-      "Габдрахманов Марсель Маликович": 53,
-      "Зинатуллин Руслан Мансурович": 18,
-      "Кротов Максим Сергеевич": 41,
-      "Минкин Иршат Султанович": 745,
-      "Прокофьев Артём Вячеславович": 92,
-      "Файзуллина Айгуль Рашитовна": 110
+      "gas:candidate-vibid:4164025209682": 172,
+      "gas:candidate-vibid:4164025209497": 53,
+      "gas:candidate-vibid:4164025210097": 18,
+      "gas:candidate-vibid:4164025210266": 41,
+      "gas:candidate-vibid:4164025210015": 745,
+      "gas:candidate-vibid:4164025210003": 92,
+      "gas:candidate-vibid:4164025209936": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 124,
-      "Габдрахманов Марсель Маликович": 65,
-      "Зинатуллин Руслан Мансурович": 31,
-      "Кротов Максим Сергеевич": 29,
-      "Минкин Иршат Султанович": 765,
-      "Прокофьев Артём Вячеславович": 115,
-      "Файзуллина Айгуль Рашитовна": 106
+      "gas:candidate-vibid:4164025209682": 124,
+      "gas:candidate-vibid:4164025209497": 65,
+      "gas:candidate-vibid:4164025210097": 31,
+      "gas:candidate-vibid:4164025210266": 29,
+      "gas:candidate-vibid:4164025210015": 765,
+      "gas:candidate-vibid:4164025210003": 115,
+      "gas:candidate-vibid:4164025209936": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 139,
-      "Габдрахманов Марсель Маликович": 78,
-      "Зинатуллин Руслан Мансурович": 25,
-      "Кротов Максим Сергеевич": 20,
-      "Минкин Иршат Султанович": 796,
-      "Прокофьев Артём Вячеславович": 91,
-      "Файзуллина Айгуль Рашитовна": 83
+      "gas:candidate-vibid:4164025209682": 139,
+      "gas:candidate-vibid:4164025209497": 78,
+      "gas:candidate-vibid:4164025210097": 25,
+      "gas:candidate-vibid:4164025210266": 20,
+      "gas:candidate-vibid:4164025210015": 796,
+      "gas:candidate-vibid:4164025210003": 91,
+      "gas:candidate-vibid:4164025209936": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 134,
-      "Габдрахманов Марсель Маликович": 101,
-      "Зинатуллин Руслан Мансурович": 35,
-      "Кротов Максим Сергеевич": 28,
-      "Минкин Иршат Султанович": 777,
-      "Прокофьев Артём Вячеславович": 102,
-      "Файзуллина Айгуль Рашитовна": 73
+      "gas:candidate-vibid:4164025209682": 134,
+      "gas:candidate-vibid:4164025209497": 101,
+      "gas:candidate-vibid:4164025210097": 35,
+      "gas:candidate-vibid:4164025210266": 28,
+      "gas:candidate-vibid:4164025210015": 777,
+      "gas:candidate-vibid:4164025210003": 102,
+      "gas:candidate-vibid:4164025209936": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 118,
-      "Габдрахманов Марсель Маликович": 64,
-      "Зинатуллин Руслан Мансурович": 16,
-      "Кротов Максим Сергеевич": 13,
-      "Минкин Иршат Султанович": 768,
-      "Прокофьев Артём Вячеславович": 115,
-      "Файзуллина Айгуль Рашитовна": 88
+      "gas:candidate-vibid:4164025209682": 118,
+      "gas:candidate-vibid:4164025209497": 64,
+      "gas:candidate-vibid:4164025210097": 16,
+      "gas:candidate-vibid:4164025210266": 13,
+      "gas:candidate-vibid:4164025210015": 768,
+      "gas:candidate-vibid:4164025210003": 115,
+      "gas:candidate-vibid:4164025209936": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 88,
-      "Габдрахманов Марсель Маликович": 64,
-      "Зинатуллин Руслан Мансурович": 44,
-      "Кротов Максим Сергеевич": 87,
-      "Минкин Иршат Султанович": 694,
-      "Прокофьев Артём Вячеславович": 103,
-      "Файзуллина Айгуль Рашитовна": 101
+      "gas:candidate-vibid:4164025209682": 88,
+      "gas:candidate-vibid:4164025209497": 64,
+      "gas:candidate-vibid:4164025210097": 44,
+      "gas:candidate-vibid:4164025210266": 87,
+      "gas:candidate-vibid:4164025210015": 694,
+      "gas:candidate-vibid:4164025210003": 103,
+      "gas:candidate-vibid:4164025209936": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 134,
-      "Габдрахманов Марсель Маликович": 73,
-      "Зинатуллин Руслан Мансурович": 37,
-      "Кротов Максим Сергеевич": 36,
-      "Минкин Иршат Султанович": 768,
-      "Прокофьев Артём Вячеславович": 73,
-      "Файзуллина Айгуль Рашитовна": 98
+      "gas:candidate-vibid:4164025209682": 134,
+      "gas:candidate-vibid:4164025209497": 73,
+      "gas:candidate-vibid:4164025210097": 37,
+      "gas:candidate-vibid:4164025210266": 36,
+      "gas:candidate-vibid:4164025210015": 768,
+      "gas:candidate-vibid:4164025210003": 73,
+      "gas:candidate-vibid:4164025209936": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 141,
-      "Габдрахманов Марсель Маликович": 116,
-      "Зинатуллин Руслан Мансурович": 34,
-      "Кротов Максим Сергеевич": 57,
-      "Минкин Иршат Султанович": 628,
-      "Прокофьев Артём Вячеславович": 144,
-      "Файзуллина Айгуль Рашитовна": 118
+      "gas:candidate-vibid:4164025209682": 141,
+      "gas:candidate-vibid:4164025209497": 116,
+      "gas:candidate-vibid:4164025210097": 34,
+      "gas:candidate-vibid:4164025210266": 57,
+      "gas:candidate-vibid:4164025210015": 628,
+      "gas:candidate-vibid:4164025210003": 144,
+      "gas:candidate-vibid:4164025209936": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 139,
-      "Габдрахманов Марсель Маликович": 97,
-      "Зинатуллин Руслан Мансурович": 11,
-      "Кротов Максим Сергеевич": 50,
-      "Минкин Иршат Султанович": 885,
-      "Прокофьев Артём Вячеславович": 114,
-      "Файзуллина Айгуль Рашитовна": 107
+      "gas:candidate-vibid:4164025209682": 139,
+      "gas:candidate-vibid:4164025209497": 97,
+      "gas:candidate-vibid:4164025210097": 11,
+      "gas:candidate-vibid:4164025210266": 50,
+      "gas:candidate-vibid:4164025210015": 885,
+      "gas:candidate-vibid:4164025210003": 114,
+      "gas:candidate-vibid:4164025209936": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 131,
-      "Габдрахманов Марсель Маликович": 38,
-      "Зинатуллин Руслан Мансурович": 25,
-      "Кротов Максим Сергеевич": 32,
-      "Минкин Иршат Султанович": 808,
-      "Прокофьев Артём Вячеславович": 127,
-      "Файзуллина Айгуль Рашитовна": 50
+      "gas:candidate-vibid:4164025209682": 131,
+      "gas:candidate-vibid:4164025209497": 38,
+      "gas:candidate-vibid:4164025210097": 25,
+      "gas:candidate-vibid:4164025210266": 32,
+      "gas:candidate-vibid:4164025210015": 808,
+      "gas:candidate-vibid:4164025210003": 127,
+      "gas:candidate-vibid:4164025209936": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 79,
-      "Габдрахманов Марсель Маликович": 98,
-      "Зинатуллин Руслан Мансурович": 48,
-      "Кротов Максим Сергеевич": 63,
-      "Минкин Иршат Султанович": 408,
-      "Прокофьев Артём Вячеславович": 180,
-      "Файзуллина Айгуль Рашитовна": 117
+      "gas:candidate-vibid:4164025209682": 79,
+      "gas:candidate-vibid:4164025209497": 98,
+      "gas:candidate-vibid:4164025210097": 48,
+      "gas:candidate-vibid:4164025210266": 63,
+      "gas:candidate-vibid:4164025210015": 408,
+      "gas:candidate-vibid:4164025210003": 180,
+      "gas:candidate-vibid:4164025209936": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 105,
-      "Габдрахманов Марсель Маликович": 67,
-      "Зинатуллин Руслан Мансурович": 48,
-      "Кротов Максим Сергеевич": 77,
-      "Минкин Иршат Султанович": 836,
-      "Прокофьев Артём Вячеславович": 96,
-      "Файзуллина Айгуль Рашитовна": 62
+      "gas:candidate-vibid:4164025209682": 105,
+      "gas:candidate-vibid:4164025209497": 67,
+      "gas:candidate-vibid:4164025210097": 48,
+      "gas:candidate-vibid:4164025210266": 77,
+      "gas:candidate-vibid:4164025210015": 836,
+      "gas:candidate-vibid:4164025210003": 96,
+      "gas:candidate-vibid:4164025209936": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 92,
-      "Габдрахманов Марсель Маликович": 46,
-      "Зинатуллин Руслан Мансурович": 33,
-      "Кротов Максим Сергеевич": 40,
-      "Минкин Иршат Султанович": 551,
-      "Прокофьев Артём Вячеславович": 73,
-      "Файзуллина Айгуль Рашитовна": 47
+      "gas:candidate-vibid:4164025209682": 92,
+      "gas:candidate-vibid:4164025209497": 46,
+      "gas:candidate-vibid:4164025210097": 33,
+      "gas:candidate-vibid:4164025210266": 40,
+      "gas:candidate-vibid:4164025210015": 551,
+      "gas:candidate-vibid:4164025210003": 73,
+      "gas:candidate-vibid:4164025209936": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 199,
-      "Габдрахманов Марсель Маликович": 31,
-      "Зинатуллин Руслан Мансурович": 19,
-      "Кротов Максим Сергеевич": 64,
-      "Минкин Иршат Султанович": 812,
-      "Прокофьев Артём Вячеславович": 174,
-      "Файзуллина Айгуль Рашитовна": 30
+      "gas:candidate-vibid:4164025209682": 199,
+      "gas:candidate-vibid:4164025209497": 31,
+      "gas:candidate-vibid:4164025210097": 19,
+      "gas:candidate-vibid:4164025210266": 64,
+      "gas:candidate-vibid:4164025210015": 812,
+      "gas:candidate-vibid:4164025210003": 174,
+      "gas:candidate-vibid:4164025209936": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 113,
-      "Габдрахманов Марсель Маликович": 26,
-      "Зинатуллин Руслан Мансурович": 54,
-      "Кротов Максим Сергеевич": 29,
-      "Минкин Иршат Султанович": 702,
-      "Прокофьев Артём Вячеславович": 100,
-      "Файзуллина Айгуль Рашитовна": 57
+      "gas:candidate-vibid:4164025209682": 113,
+      "gas:candidate-vibid:4164025209497": 26,
+      "gas:candidate-vibid:4164025210097": 54,
+      "gas:candidate-vibid:4164025210266": 29,
+      "gas:candidate-vibid:4164025210015": 702,
+      "gas:candidate-vibid:4164025210003": 100,
+      "gas:candidate-vibid:4164025209936": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 151,
-      "Габдрахманов Марсель Маликович": 108,
-      "Зинатуллин Руслан Мансурович": 40,
-      "Кротов Максим Сергеевич": 26,
-      "Минкин Иршат Султанович": 829,
-      "Прокофьев Артём Вячеславович": 123,
-      "Файзуллина Айгуль Рашитовна": 81
+      "gas:candidate-vibid:4164025209682": 151,
+      "gas:candidate-vibid:4164025209497": 108,
+      "gas:candidate-vibid:4164025210097": 40,
+      "gas:candidate-vibid:4164025210266": 26,
+      "gas:candidate-vibid:4164025210015": 829,
+      "gas:candidate-vibid:4164025210003": 123,
+      "gas:candidate-vibid:4164025209936": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 93,
-      "Габдрахманов Марсель Маликович": 58,
-      "Зинатуллин Руслан Мансурович": 45,
-      "Кротов Максим Сергеевич": 31,
-      "Минкин Иршат Султанович": 1010,
-      "Прокофьев Артём Вячеславович": 41,
-      "Файзуллина Айгуль Рашитовна": 32
+      "gas:candidate-vibid:4164025209682": 93,
+      "gas:candidate-vibid:4164025209497": 58,
+      "gas:candidate-vibid:4164025210097": 45,
+      "gas:candidate-vibid:4164025210266": 31,
+      "gas:candidate-vibid:4164025210015": 1010,
+      "gas:candidate-vibid:4164025210003": 41,
+      "gas:candidate-vibid:4164025209936": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 93,
-      "Габдрахманов Марсель Маликович": 82,
-      "Зинатуллин Руслан Мансурович": 68,
-      "Кротов Максим Сергеевич": 57,
-      "Минкин Иршат Султанович": 889,
-      "Прокофьев Артём Вячеславович": 152,
-      "Файзуллина Айгуль Рашитовна": 90
+      "gas:candidate-vibid:4164025209682": 93,
+      "gas:candidate-vibid:4164025209497": 82,
+      "gas:candidate-vibid:4164025210097": 68,
+      "gas:candidate-vibid:4164025210266": 57,
+      "gas:candidate-vibid:4164025210015": 889,
+      "gas:candidate-vibid:4164025210003": 152,
+      "gas:candidate-vibid:4164025209936": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 60,
-      "Габдрахманов Марсель Маликович": 32,
-      "Зинатуллин Руслан Мансурович": 28,
-      "Кротов Максим Сергеевич": 10,
-      "Минкин Иршат Султанович": 466,
-      "Прокофьев Артём Вячеславович": 48,
-      "Файзуллина Айгуль Рашитовна": 13
+      "gas:candidate-vibid:4164025209682": 60,
+      "gas:candidate-vibid:4164025209497": 32,
+      "gas:candidate-vibid:4164025210097": 28,
+      "gas:candidate-vibid:4164025210266": 10,
+      "gas:candidate-vibid:4164025210015": 466,
+      "gas:candidate-vibid:4164025210003": 48,
+      "gas:candidate-vibid:4164025209936": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 51,
-      "Габдрахманов Марсель Маликович": 75,
-      "Зинатуллин Руслан Мансурович": 36,
-      "Кротов Максим Сергеевич": 66,
-      "Минкин Иршат Султанович": 642,
-      "Прокофьев Артём Вячеславович": 76,
-      "Файзуллина Айгуль Рашитовна": 73
+      "gas:candidate-vibid:4164025209682": 51,
+      "gas:candidate-vibid:4164025209497": 75,
+      "gas:candidate-vibid:4164025210097": 36,
+      "gas:candidate-vibid:4164025210266": 66,
+      "gas:candidate-vibid:4164025210015": 642,
+      "gas:candidate-vibid:4164025210003": 76,
+      "gas:candidate-vibid:4164025209936": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 102,
-      "Габдрахманов Марсель Маликович": 36,
-      "Зинатуллин Руслан Мансурович": 30,
-      "Кротов Максим Сергеевич": 32,
-      "Минкин Иршат Султанович": 653,
-      "Прокофьев Артём Вячеславович": 97,
-      "Файзуллина Айгуль Рашитовна": 45
+      "gas:candidate-vibid:4164025209682": 102,
+      "gas:candidate-vibid:4164025209497": 36,
+      "gas:candidate-vibid:4164025210097": 30,
+      "gas:candidate-vibid:4164025210266": 32,
+      "gas:candidate-vibid:4164025210015": 653,
+      "gas:candidate-vibid:4164025210003": 97,
+      "gas:candidate-vibid:4164025209936": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 92,
-      "Габдрахманов Марсель Маликович": 73,
-      "Зинатуллин Руслан Мансурович": 46,
-      "Кротов Максим Сергеевич": 60,
-      "Минкин Иршат Султанович": 699,
-      "Прокофьев Артём Вячеславович": 88,
-      "Файзуллина Айгуль Рашитовна": 61
+      "gas:candidate-vibid:4164025209682": 92,
+      "gas:candidate-vibid:4164025209497": 73,
+      "gas:candidate-vibid:4164025210097": 46,
+      "gas:candidate-vibid:4164025210266": 60,
+      "gas:candidate-vibid:4164025210015": 699,
+      "gas:candidate-vibid:4164025210003": 88,
+      "gas:candidate-vibid:4164025209936": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 127,
-      "Габдрахманов Марсель Маликович": 86,
-      "Зинатуллин Руслан Мансурович": 46,
-      "Кротов Максим Сергеевич": 46,
-      "Минкин Иршат Султанович": 415,
-      "Прокофьев Артём Вячеславович": 109,
-      "Файзуллина Айгуль Рашитовна": 92
+      "gas:candidate-vibid:4164025209682": 127,
+      "gas:candidate-vibid:4164025209497": 86,
+      "gas:candidate-vibid:4164025210097": 46,
+      "gas:candidate-vibid:4164025210266": 46,
+      "gas:candidate-vibid:4164025210015": 415,
+      "gas:candidate-vibid:4164025210003": 109,
+      "gas:candidate-vibid:4164025209936": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 157,
-      "Габдрахманов Марсель Маликович": 62,
-      "Зинатуллин Руслан Мансурович": 49,
-      "Кротов Максим Сергеевич": 56,
-      "Минкин Иршат Султанович": 833,
-      "Прокофьев Артём Вячеславович": 89,
-      "Файзуллина Айгуль Рашитовна": 53
+      "gas:candidate-vibid:4164025209682": 157,
+      "gas:candidate-vibid:4164025209497": 62,
+      "gas:candidate-vibid:4164025210097": 49,
+      "gas:candidate-vibid:4164025210266": 56,
+      "gas:candidate-vibid:4164025210015": 833,
+      "gas:candidate-vibid:4164025210003": 89,
+      "gas:candidate-vibid:4164025209936": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 163,
-      "Габдрахманов Марсель Маликович": 20,
-      "Зинатуллин Руслан Мансурович": 68,
-      "Кротов Максим Сергеевич": 10,
-      "Минкин Иршат Султанович": 867,
-      "Прокофьев Артём Вячеславович": 123,
-      "Файзуллина Айгуль Рашитовна": 72
+      "gas:candidate-vibid:4164025209682": 163,
+      "gas:candidate-vibid:4164025209497": 20,
+      "gas:candidate-vibid:4164025210097": 68,
+      "gas:candidate-vibid:4164025210266": 10,
+      "gas:candidate-vibid:4164025210015": 867,
+      "gas:candidate-vibid:4164025210003": 123,
+      "gas:candidate-vibid:4164025209936": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 120,
-      "Габдрахманов Марсель Маликович": 123,
-      "Зинатуллин Руслан Мансурович": 62,
-      "Кротов Максим Сергеевич": 55,
-      "Минкин Иршат Султанович": 445,
-      "Прокофьев Артём Вячеславович": 147,
-      "Файзуллина Айгуль Рашитовна": 123
+      "gas:candidate-vibid:4164025209682": 120,
+      "gas:candidate-vibid:4164025209497": 123,
+      "gas:candidate-vibid:4164025210097": 62,
+      "gas:candidate-vibid:4164025210266": 55,
+      "gas:candidate-vibid:4164025210015": 445,
+      "gas:candidate-vibid:4164025210003": 147,
+      "gas:candidate-vibid:4164025209936": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 104,
-      "Габдрахманов Марсель Маликович": 50,
-      "Зинатуллин Руслан Мансурович": 33,
-      "Кротов Максим Сергеевич": 10,
-      "Минкин Иршат Султанович": 588,
-      "Прокофьев Артём Вячеславович": 84,
-      "Файзуллина Айгуль Рашитовна": 75
+      "gas:candidate-vibid:4164025209682": 104,
+      "gas:candidate-vibid:4164025209497": 50,
+      "gas:candidate-vibid:4164025210097": 33,
+      "gas:candidate-vibid:4164025210266": 10,
+      "gas:candidate-vibid:4164025210015": 588,
+      "gas:candidate-vibid:4164025210003": 84,
+      "gas:candidate-vibid:4164025209936": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 162,
-      "Габдрахманов Марсель Маликович": 42,
-      "Зинатуллин Руслан Мансурович": 33,
-      "Кротов Максим Сергеевич": 140,
-      "Минкин Иршат Султанович": 909,
-      "Прокофьев Артём Вячеславович": 87,
-      "Файзуллина Айгуль Рашитовна": 75
+      "gas:candidate-vibid:4164025209682": 162,
+      "gas:candidate-vibid:4164025209497": 42,
+      "gas:candidate-vibid:4164025210097": 33,
+      "gas:candidate-vibid:4164025210266": 140,
+      "gas:candidate-vibid:4164025210015": 909,
+      "gas:candidate-vibid:4164025210003": 87,
+      "gas:candidate-vibid:4164025209936": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 154,
-      "Габдрахманов Марсель Маликович": 123,
-      "Зинатуллин Руслан Мансурович": 67,
-      "Кротов Максим Сергеевич": 49,
-      "Минкин Иршат Султанович": 510,
-      "Прокофьев Артём Вячеславович": 135,
-      "Файзуллина Айгуль Рашитовна": 144
+      "gas:candidate-vibid:4164025209682": 154,
+      "gas:candidate-vibid:4164025209497": 123,
+      "gas:candidate-vibid:4164025210097": 67,
+      "gas:candidate-vibid:4164025210266": 49,
+      "gas:candidate-vibid:4164025210015": 510,
+      "gas:candidate-vibid:4164025210003": 135,
+      "gas:candidate-vibid:4164025209936": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 137,
-      "Габдрахманов Марсель Маликович": 104,
-      "Зинатуллин Руслан Мансурович": 54,
-      "Кротов Максим Сергеевич": 39,
-      "Минкин Иршат Султанович": 478,
-      "Прокофьев Артём Вячеславович": 110,
-      "Файзуллина Айгуль Рашитовна": 110
+      "gas:candidate-vibid:4164025209682": 137,
+      "gas:candidate-vibid:4164025209497": 104,
+      "gas:candidate-vibid:4164025210097": 54,
+      "gas:candidate-vibid:4164025210266": 39,
+      "gas:candidate-vibid:4164025210015": 478,
+      "gas:candidate-vibid:4164025210003": 110,
+      "gas:candidate-vibid:4164025209936": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 4,
-      "Габдрахманов Марсель Маликович": 1,
-      "Зинатуллин Руслан Мансурович": 1,
-      "Кротов Максим Сергеевич": 3,
-      "Минкин Иршат Султанович": 33,
-      "Прокофьев Артём Вячеславович": 3,
-      "Файзуллина Айгуль Рашитовна": 1
+      "gas:candidate-vibid:4164025209682": 4,
+      "gas:candidate-vibid:4164025209497": 1,
+      "gas:candidate-vibid:4164025210097": 1,
+      "gas:candidate-vibid:4164025210266": 3,
+      "gas:candidate-vibid:4164025210015": 33,
+      "gas:candidate-vibid:4164025210003": 3,
+      "gas:candidate-vibid:4164025209936": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 15,
-      "Габдрахманов Марсель Маликович": 10,
-      "Зинатуллин Руслан Мансурович": 11,
-      "Кротов Максим Сергеевич": 6,
-      "Минкин Иршат Султанович": 64,
-      "Прокофьев Артём Вячеславович": 8,
-      "Файзуллина Айгуль Рашитовна": 8
+      "gas:candidate-vibid:4164025209682": 15,
+      "gas:candidate-vibid:4164025209497": 10,
+      "gas:candidate-vibid:4164025210097": 11,
+      "gas:candidate-vibid:4164025210266": 6,
+      "gas:candidate-vibid:4164025210015": 64,
+      "gas:candidate-vibid:4164025210003": 8,
+      "gas:candidate-vibid:4164025209936": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 34,
-      "Габдрахманов Марсель Маликович": 40,
-      "Зинатуллин Руслан Мансурович": 17,
-      "Кротов Максим Сергеевич": 21,
-      "Минкин Иршат Султанович": 302,
-      "Прокофьев Артём Вячеславович": 30,
-      "Файзуллина Айгуль Рашитовна": 33
+      "gas:candidate-vibid:4164025209682": 34,
+      "gas:candidate-vibid:4164025209497": 40,
+      "gas:candidate-vibid:4164025210097": 17,
+      "gas:candidate-vibid:4164025210266": 21,
+      "gas:candidate-vibid:4164025210015": 302,
+      "gas:candidate-vibid:4164025210003": 30,
+      "gas:candidate-vibid:4164025209936": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 142,
-      "Габдрахманов Марсель Маликович": 88,
-      "Зинатуллин Руслан Мансурович": 42,
-      "Кротов Максим Сергеевич": 49,
-      "Минкин Иршат Султанович": 831,
-      "Прокофьев Артём Вячеславович": 76,
-      "Файзуллина Айгуль Рашитовна": 111
+      "gas:candidate-vibid:4164025209682": 142,
+      "gas:candidate-vibid:4164025209497": 88,
+      "gas:candidate-vibid:4164025210097": 42,
+      "gas:candidate-vibid:4164025210266": 49,
+      "gas:candidate-vibid:4164025210015": 831,
+      "gas:candidate-vibid:4164025210003": 76,
+      "gas:candidate-vibid:4164025209936": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 140,
-      "Габдрахманов Марсель Маликович": 20,
-      "Зинатуллин Руслан Мансурович": 156,
-      "Кротов Максим Сергеевич": 25,
-      "Минкин Иршат Султанович": 1011,
-      "Прокофьев Артём Вячеславович": 106,
-      "Файзуллина Айгуль Рашитовна": 94
+      "gas:candidate-vibid:4164025209682": 140,
+      "gas:candidate-vibid:4164025209497": 20,
+      "gas:candidate-vibid:4164025210097": 156,
+      "gas:candidate-vibid:4164025210266": 25,
+      "gas:candidate-vibid:4164025210015": 1011,
+      "gas:candidate-vibid:4164025210003": 106,
+      "gas:candidate-vibid:4164025209936": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 36,
-      "Габдрахманов Марсель Маликович": 13,
-      "Зинатуллин Руслан Мансурович": 10,
-      "Кротов Максим Сергеевич": 10,
-      "Минкин Иршат Султанович": 203,
-      "Прокофьев Артём Вячеславович": 19,
-      "Файзуллина Айгуль Рашитовна": 16
+      "gas:candidate-vibid:4164025209682": 36,
+      "gas:candidate-vibid:4164025209497": 13,
+      "gas:candidate-vibid:4164025210097": 10,
+      "gas:candidate-vibid:4164025210266": 10,
+      "gas:candidate-vibid:4164025210015": 203,
+      "gas:candidate-vibid:4164025210003": 19,
+      "gas:candidate-vibid:4164025209936": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 137,
-      "Габдрахманов Марсель Маликович": 72,
-      "Зинатуллин Руслан Мансурович": 24,
-      "Кротов Максим Сергеевич": 19,
-      "Минкин Иршат Султанович": 752,
-      "Прокофьев Артём Вячеславович": 109,
-      "Файзуллина Айгуль Рашитовна": 92
+      "gas:candidate-vibid:4164025209682": 137,
+      "gas:candidate-vibid:4164025209497": 72,
+      "gas:candidate-vibid:4164025210097": 24,
+      "gas:candidate-vibid:4164025210266": 19,
+      "gas:candidate-vibid:4164025210015": 752,
+      "gas:candidate-vibid:4164025210003": 109,
+      "gas:candidate-vibid:4164025209936": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 128,
-      "Габдрахманов Марсель Маликович": 106,
-      "Зинатуллин Руслан Мансурович": 39,
-      "Кротов Максим Сергеевич": 27,
-      "Минкин Иршат Султанович": 800,
-      "Прокофьев Артём Вячеславович": 120,
-      "Файзуллина Айгуль Рашитовна": 142
+      "gas:candidate-vibid:4164025209682": 128,
+      "gas:candidate-vibid:4164025209497": 106,
+      "gas:candidate-vibid:4164025210097": 39,
+      "gas:candidate-vibid:4164025210266": 27,
+      "gas:candidate-vibid:4164025210015": 800,
+      "gas:candidate-vibid:4164025210003": 120,
+      "gas:candidate-vibid:4164025209936": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_16_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Валиев Альфред Ракибович": 157,
-      "Габдрахманов Марсель Маликович": 14,
-      "Зинатуллин Руслан Мансурович": 9,
-      "Кротов Максим Сергеевич": 11,
-      "Минкин Иршат Султанович": 630,
-      "Прокофьев Артём Вячеславович": 118,
-      "Файзуллина Айгуль Рашитовна": 64
+      "gas:candidate-vibid:4164025209682": 157,
+      "gas:candidate-vibid:4164025209497": 14,
+      "gas:candidate-vibid:4164025210097": 9,
+      "gas:candidate-vibid:4164025210266": 11,
+      "gas:candidate-vibid:4164025210015": 630,
+      "gas:candidate-vibid:4164025210003": 118,
+      "gas:candidate-vibid:4164025209936": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000044&tvd=21620001562330&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562330&type=464",

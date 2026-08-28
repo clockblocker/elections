@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 146,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 55,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 45,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 57
+      "gas:candidate-vibid:2402000677538": 146,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 55,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 45,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 428,
-      "Беккер Андрей Владимирович": 22,
-      "Ефремова Надежда Игоревна": 97,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 37,
-      "Тришина Марина Александровна": 111,
-      "Чернов Александр Ефимович": 33,
-      "Яшкин Николай Иванович": 149
+      "gas:candidate-vibid:2402000677538": 428,
+      "gas:candidate-vibid:2402000677699": 22,
+      "gas:candidate-vibid:2402000643491": 97,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 37,
+      "gas:candidate-vibid:2402000635335": 111,
+      "gas:candidate-vibid:2402000677898": 33,
+      "gas:candidate-vibid:2402000677322": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 320,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 120,
-      "Колесников Алексей Николаевич": 28,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 118,
-      "Чернов Александр Ефимович": 32,
-      "Яшкин Николай Иванович": 126
+      "gas:candidate-vibid:2402000677538": 320,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 120,
+      "gas:candidate-vibid:2402000678228": 28,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 118,
+      "gas:candidate-vibid:2402000677898": 32,
+      "gas:candidate-vibid:2402000677322": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 403,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 104,
-      "Колесников Алексей Николаевич": 42,
-      "Тарасенко Антон Геннадьевич": 35,
-      "Тришина Марина Александровна": 115,
-      "Чернов Александр Ефимович": 35,
-      "Яшкин Николай Иванович": 125
+      "gas:candidate-vibid:2402000677538": 403,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 104,
+      "gas:candidate-vibid:2402000678228": 42,
+      "gas:candidate-vibid:2402000643388": 35,
+      "gas:candidate-vibid:2402000635335": 115,
+      "gas:candidate-vibid:2402000677898": 35,
+      "gas:candidate-vibid:2402000677322": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 349,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 85,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 83,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 127
+      "gas:candidate-vibid:2402000677538": 349,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 85,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 83,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 409,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 77,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 26,
-      "Тришина Марина Александровна": 81,
-      "Чернов Александр Ефимович": 14,
-      "Яшкин Николай Иванович": 114
+      "gas:candidate-vibid:2402000677538": 409,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 77,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 26,
+      "gas:candidate-vibid:2402000635335": 81,
+      "gas:candidate-vibid:2402000677898": 14,
+      "gas:candidate-vibid:2402000677322": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 400,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 97,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 97,
-      "Чернов Александр Ефимович": 17,
-      "Яшкин Николай Иванович": 134
+      "gas:candidate-vibid:2402000677538": 400,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 97,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 97,
+      "gas:candidate-vibid:2402000677898": 17,
+      "gas:candidate-vibid:2402000677322": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 336,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 111,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 109,
-      "Чернов Александр Ефимович": 31,
-      "Яшкин Николай Иванович": 129
+      "gas:candidate-vibid:2402000677538": 336,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 111,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 109,
+      "gas:candidate-vibid:2402000677898": 31,
+      "gas:candidate-vibid:2402000677322": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 332,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 102,
-      "Колесников Алексей Николаевич": 39,
-      "Тарасенко Антон Геннадьевич": 35,
-      "Тришина Марина Александровна": 96,
-      "Чернов Александр Ефимович": 28,
-      "Яшкин Николай Иванович": 138
+      "gas:candidate-vibid:2402000677538": 332,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 102,
+      "gas:candidate-vibid:2402000678228": 39,
+      "gas:candidate-vibid:2402000643388": 35,
+      "gas:candidate-vibid:2402000635335": 96,
+      "gas:candidate-vibid:2402000677898": 28,
+      "gas:candidate-vibid:2402000677322": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 240,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 55,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 51,
-      "Чернов Александр Ефимович": 17,
-      "Яшкин Николай Иванович": 90
+      "gas:candidate-vibid:2402000677538": 240,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 55,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 51,
+      "gas:candidate-vibid:2402000677898": 17,
+      "gas:candidate-vibid:2402000677322": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 288,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 75,
-      "Колесников Алексей Николаевич": 25,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 96,
-      "Чернов Александр Ефимович": 15,
-      "Яшкин Николай Иванович": 85
+      "gas:candidate-vibid:2402000677538": 288,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 75,
+      "gas:candidate-vibid:2402000678228": 25,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 96,
+      "gas:candidate-vibid:2402000677898": 15,
+      "gas:candidate-vibid:2402000677322": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 276,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 83,
-      "Колесников Алексей Николаевич": 20,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 114,
-      "Чернов Александр Ефимович": 19,
-      "Яшкин Николай Иванович": 99
+      "gas:candidate-vibid:2402000677538": 276,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 83,
+      "gas:candidate-vibid:2402000678228": 20,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 114,
+      "gas:candidate-vibid:2402000677898": 19,
+      "gas:candidate-vibid:2402000677322": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 316,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 63,
-      "Колесников Алексей Николаевич": 46,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 100,
-      "Чернов Александр Ефимович": 34,
-      "Яшкин Николай Иванович": 112
+      "gas:candidate-vibid:2402000677538": 316,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 63,
+      "gas:candidate-vibid:2402000678228": 46,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 100,
+      "gas:candidate-vibid:2402000677898": 34,
+      "gas:candidate-vibid:2402000677322": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 293,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 81,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 37,
-      "Тришина Марина Александровна": 89,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 293,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 81,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 37,
+      "gas:candidate-vibid:2402000635335": 89,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 453,
-      "Беккер Андрей Владимирович": 25,
-      "Ефремова Надежда Игоревна": 129,
-      "Колесников Алексей Николаевич": 44,
-      "Тарасенко Антон Геннадьевич": 28,
-      "Тришина Марина Александровна": 135,
-      "Чернов Александр Ефимович": 34,
-      "Яшкин Николай Иванович": 148
+      "gas:candidate-vibid:2402000677538": 453,
+      "gas:candidate-vibid:2402000677699": 25,
+      "gas:candidate-vibid:2402000643491": 129,
+      "gas:candidate-vibid:2402000678228": 44,
+      "gas:candidate-vibid:2402000643388": 28,
+      "gas:candidate-vibid:2402000635335": 135,
+      "gas:candidate-vibid:2402000677898": 34,
+      "gas:candidate-vibid:2402000677322": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 309,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 65,
-      "Колесников Алексей Николаевич": 36,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 81,
-      "Чернов Александр Ефимович": 29,
-      "Яшкин Николай Иванович": 96
+      "gas:candidate-vibid:2402000677538": 309,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 65,
+      "gas:candidate-vibid:2402000678228": 36,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 81,
+      "gas:candidate-vibid:2402000677898": 29,
+      "gas:candidate-vibid:2402000677322": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 238,
-      "Беккер Андрей Владимирович": 25,
-      "Ефремова Надежда Игоревна": 58,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 61,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 60
+      "gas:candidate-vibid:2402000677538": 238,
+      "gas:candidate-vibid:2402000677699": 25,
+      "gas:candidate-vibid:2402000643491": 58,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 61,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 279,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 96,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 20,
-      "Тришина Марина Александровна": 100,
-      "Чернов Александр Ефимович": 27,
-      "Яшкин Николай Иванович": 94
+      "gas:candidate-vibid:2402000677538": 279,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 96,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 20,
+      "gas:candidate-vibid:2402000635335": 100,
+      "gas:candidate-vibid:2402000677898": 27,
+      "gas:candidate-vibid:2402000677322": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 299,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 54,
-      "Колесников Алексей Николаевич": 24,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 101,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 82
+      "gas:candidate-vibid:2402000677538": 299,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 54,
+      "gas:candidate-vibid:2402000678228": 24,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 101,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 473,
-      "Беккер Андрей Владимирович": 20,
-      "Ефремова Надежда Игоревна": 85,
-      "Колесников Алексей Николаевич": 52,
-      "Тарасенко Антон Геннадьевич": 46,
-      "Тришина Марина Александровна": 111,
-      "Чернов Александр Ефимович": 42,
-      "Яшкин Николай Иванович": 173
+      "gas:candidate-vibid:2402000677538": 473,
+      "gas:candidate-vibid:2402000677699": 20,
+      "gas:candidate-vibid:2402000643491": 85,
+      "gas:candidate-vibid:2402000678228": 52,
+      "gas:candidate-vibid:2402000643388": 46,
+      "gas:candidate-vibid:2402000635335": 111,
+      "gas:candidate-vibid:2402000677898": 42,
+      "gas:candidate-vibid:2402000677322": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 439,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 103,
-      "Колесников Алексей Николаевич": 52,
-      "Тарасенко Антон Геннадьевич": 35,
-      "Тришина Марина Александровна": 110,
-      "Чернов Александр Ефимович": 38,
-      "Яшкин Николай Иванович": 195
+      "gas:candidate-vibid:2402000677538": 439,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 103,
+      "gas:candidate-vibid:2402000678228": 52,
+      "gas:candidate-vibid:2402000643388": 35,
+      "gas:candidate-vibid:2402000635335": 110,
+      "gas:candidate-vibid:2402000677898": 38,
+      "gas:candidate-vibid:2402000677322": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 189,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 51,
-      "Колесников Алексей Николаевич": 17,
-      "Тарасенко Антон Геннадьевич": 10,
-      "Тришина Марина Александровна": 48,
-      "Чернов Александр Ефимович": 16,
-      "Яшкин Николай Иванович": 107
+      "gas:candidate-vibid:2402000677538": 189,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 51,
+      "gas:candidate-vibid:2402000678228": 17,
+      "gas:candidate-vibid:2402000643388": 10,
+      "gas:candidate-vibid:2402000635335": 48,
+      "gas:candidate-vibid:2402000677898": 16,
+      "gas:candidate-vibid:2402000677322": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 376,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 65,
-      "Колесников Алексей Николаевич": 49,
-      "Тарасенко Антон Геннадьевич": 35,
-      "Тришина Марина Александровна": 103,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 167
+      "gas:candidate-vibid:2402000677538": 376,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 65,
+      "gas:candidate-vibid:2402000678228": 49,
+      "gas:candidate-vibid:2402000643388": 35,
+      "gas:candidate-vibid:2402000635335": 103,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 341,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 87,
-      "Колесников Алексей Николаевич": 43,
-      "Тарасенко Антон Геннадьевич": 29,
-      "Тришина Марина Александровна": 90,
-      "Чернов Александр Ефимович": 30,
-      "Яшкин Николай Иванович": 140
+      "gas:candidate-vibid:2402000677538": 341,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 87,
+      "gas:candidate-vibid:2402000678228": 43,
+      "gas:candidate-vibid:2402000643388": 29,
+      "gas:candidate-vibid:2402000635335": 90,
+      "gas:candidate-vibid:2402000677898": 30,
+      "gas:candidate-vibid:2402000677322": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 395,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 93,
-      "Колесников Алексей Николаевич": 32,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 104,
-      "Чернов Александр Ефимович": 33,
-      "Яшкин Николай Иванович": 145
+      "gas:candidate-vibid:2402000677538": 395,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 93,
+      "gas:candidate-vibid:2402000678228": 32,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 104,
+      "gas:candidate-vibid:2402000677898": 33,
+      "gas:candidate-vibid:2402000677322": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 199,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 39,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 52,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 92
+      "gas:candidate-vibid:2402000677538": 199,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 39,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 52,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 280,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 62,
-      "Колесников Алексей Николаевич": 42,
-      "Тарасенко Антон Геннадьевич": 24,
-      "Тришина Марина Александровна": 62,
-      "Чернов Александр Ефимович": 29,
-      "Яшкин Николай Иванович": 149
+      "gas:candidate-vibid:2402000677538": 280,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 62,
+      "gas:candidate-vibid:2402000678228": 42,
+      "gas:candidate-vibid:2402000643388": 24,
+      "gas:candidate-vibid:2402000635335": 62,
+      "gas:candidate-vibid:2402000677898": 29,
+      "gas:candidate-vibid:2402000677322": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 188,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 64,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 56,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 93
+      "gas:candidate-vibid:2402000677538": 188,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 64,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 56,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 214,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 57,
-      "Колесников Алексей Николаевич": 26,
-      "Тарасенко Антон Геннадьевич": 20,
-      "Тришина Марина Александровна": 66,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 214,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 57,
+      "gas:candidate-vibid:2402000678228": 26,
+      "gas:candidate-vibid:2402000643388": 20,
+      "gas:candidate-vibid:2402000635335": 66,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 282,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 73,
-      "Колесников Алексей Николаевич": 40,
-      "Тарасенко Антон Геннадьевич": 15,
-      "Тришина Марина Александровна": 70,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 139
+      "gas:candidate-vibid:2402000677538": 282,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 73,
+      "gas:candidate-vibid:2402000678228": 40,
+      "gas:candidate-vibid:2402000643388": 15,
+      "gas:candidate-vibid:2402000635335": 70,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 334,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 69,
-      "Колесников Алексей Николаевич": 37,
-      "Тарасенко Антон Геннадьевич": 23,
-      "Тришина Марина Александровна": 81,
-      "Чернов Александр Ефимович": 31,
-      "Яшкин Николай Иванович": 115
+      "gas:candidate-vibid:2402000677538": 334,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 69,
+      "gas:candidate-vibid:2402000678228": 37,
+      "gas:candidate-vibid:2402000643388": 23,
+      "gas:candidate-vibid:2402000635335": 81,
+      "gas:candidate-vibid:2402000677898": 31,
+      "gas:candidate-vibid:2402000677322": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 309,
-      "Беккер Андрей Владимирович": 20,
-      "Ефремова Надежда Игоревна": 80,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 70,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 101
+      "gas:candidate-vibid:2402000677538": 309,
+      "gas:candidate-vibid:2402000677699": 20,
+      "gas:candidate-vibid:2402000643491": 80,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 70,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 274,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 70,
-      "Колесников Алексей Николаевич": 38,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 109,
-      "Чернов Александр Ефимович": 22,
-      "Яшкин Николай Иванович": 84
+      "gas:candidate-vibid:2402000677538": 274,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 70,
+      "gas:candidate-vibid:2402000678228": 38,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 109,
+      "gas:candidate-vibid:2402000677898": 22,
+      "gas:candidate-vibid:2402000677322": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 392,
-      "Беккер Андрей Владимирович": 18,
-      "Ефремова Надежда Игоревна": 83,
-      "Колесников Алексей Николаевич": 46,
-      "Тарасенко Антон Геннадьевич": 32,
-      "Тришина Марина Александровна": 81,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 137
+      "gas:candidate-vibid:2402000677538": 392,
+      "gas:candidate-vibid:2402000677699": 18,
+      "gas:candidate-vibid:2402000643491": 83,
+      "gas:candidate-vibid:2402000678228": 46,
+      "gas:candidate-vibid:2402000643388": 32,
+      "gas:candidate-vibid:2402000635335": 81,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 231,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 36,
-      "Колесников Алексей Николаевич": 30,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 58,
-      "Чернов Александр Ефимович": 12,
-      "Яшкин Николай Иванович": 101
+      "gas:candidate-vibid:2402000677538": 231,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 36,
+      "gas:candidate-vibid:2402000678228": 30,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 58,
+      "gas:candidate-vibid:2402000677898": 12,
+      "gas:candidate-vibid:2402000677322": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 361,
-      "Беккер Андрей Владимирович": 21,
-      "Ефремова Надежда Игоревна": 83,
-      "Колесников Алексей Николаевич": 43,
-      "Тарасенко Антон Геннадьевич": 32,
-      "Тришина Марина Александровна": 93,
-      "Чернов Александр Ефимович": 40,
-      "Яшкин Николай Иванович": 133
+      "gas:candidate-vibid:2402000677538": 361,
+      "gas:candidate-vibid:2402000677699": 21,
+      "gas:candidate-vibid:2402000643491": 83,
+      "gas:candidate-vibid:2402000678228": 43,
+      "gas:candidate-vibid:2402000643388": 32,
+      "gas:candidate-vibid:2402000635335": 93,
+      "gas:candidate-vibid:2402000677898": 40,
+      "gas:candidate-vibid:2402000677322": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 354,
-      "Беккер Андрей Владимирович": 21,
-      "Ефремова Надежда Игоревна": 100,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 29,
-      "Тришина Марина Александровна": 92,
-      "Чернов Александр Ефимович": 38,
-      "Яшкин Николай Иванович": 151
+      "gas:candidate-vibid:2402000677538": 354,
+      "gas:candidate-vibid:2402000677699": 21,
+      "gas:candidate-vibid:2402000643491": 100,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 29,
+      "gas:candidate-vibid:2402000635335": 92,
+      "gas:candidate-vibid:2402000677898": 38,
+      "gas:candidate-vibid:2402000677322": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 378,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 104,
-      "Колесников Алексей Николаевич": 57,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 102,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 178
+      "gas:candidate-vibid:2402000677538": 378,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 104,
+      "gas:candidate-vibid:2402000678228": 57,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 102,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 321,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 79,
-      "Колесников Алексей Николаевич": 48,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 56,
-      "Чернов Александр Ефимович": 27,
-      "Яшкин Николай Иванович": 117
+      "gas:candidate-vibid:2402000677538": 321,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 79,
+      "gas:candidate-vibid:2402000678228": 48,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 56,
+      "gas:candidate-vibid:2402000677898": 27,
+      "gas:candidate-vibid:2402000677322": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 410,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 117,
-      "Колесников Алексей Николаевич": 46,
-      "Тарасенко Антон Геннадьевич": 53,
-      "Тришина Марина Александровна": 112,
-      "Чернов Александр Ефимович": 31,
-      "Яшкин Николай Иванович": 156
+      "gas:candidate-vibid:2402000677538": 410,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 117,
+      "gas:candidate-vibid:2402000678228": 46,
+      "gas:candidate-vibid:2402000643388": 53,
+      "gas:candidate-vibid:2402000635335": 112,
+      "gas:candidate-vibid:2402000677898": 31,
+      "gas:candidate-vibid:2402000677322": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 399,
-      "Беккер Андрей Владимирович": 29,
-      "Ефремова Надежда Игоревна": 111,
-      "Колесников Алексей Николаевич": 57,
-      "Тарасенко Антон Геннадьевич": 27,
-      "Тришина Марина Александровна": 141,
-      "Чернов Александр Ефимович": 56,
-      "Яшкин Николай Иванович": 165
+      "gas:candidate-vibid:2402000677538": 399,
+      "gas:candidate-vibid:2402000677699": 29,
+      "gas:candidate-vibid:2402000643491": 111,
+      "gas:candidate-vibid:2402000678228": 57,
+      "gas:candidate-vibid:2402000643388": 27,
+      "gas:candidate-vibid:2402000635335": 141,
+      "gas:candidate-vibid:2402000677898": 56,
+      "gas:candidate-vibid:2402000677322": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 246,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 48,
-      "Колесников Алексей Николаевич": 11,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 81,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 61
+      "gas:candidate-vibid:2402000677538": 246,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 48,
+      "gas:candidate-vibid:2402000678228": 11,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 81,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 516,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 57,
-      "Колесников Алексей Николаевич": 32,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 107,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 120
+      "gas:candidate-vibid:2402000677538": 516,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 57,
+      "gas:candidate-vibid:2402000678228": 32,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 107,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 205,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 32,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 50,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 51
+      "gas:candidate-vibid:2402000677538": 205,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 32,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 50,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 112,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 15,
-      "Колесников Алексей Николаевич": 12,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 25,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 18
+      "gas:candidate-vibid:2402000677538": 112,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 15,
+      "gas:candidate-vibid:2402000678228": 12,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 25,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 66,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 14,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 18,
-      "Чернов Александр Ефимович": 13,
-      "Яшкин Николай Иванович": 31
+      "gas:candidate-vibid:2402000677538": 66,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 14,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 18,
+      "gas:candidate-vibid:2402000677898": 13,
+      "gas:candidate-vibid:2402000677322": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594644&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594644&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 695,
-      "Беккер Андрей Владимирович": 20,
-      "Ефремова Надежда Игоревна": 127,
-      "Колесников Алексей Николаевич": 74,
-      "Тарасенко Антон Геннадьевич": 67,
-      "Тришина Марина Александровна": 159,
-      "Чернов Александр Ефимович": 31,
-      "Яшкин Николай Иванович": 223
+      "gas:candidate-vibid:2402000677538": 695,
+      "gas:candidate-vibid:2402000677699": 20,
+      "gas:candidate-vibid:2402000643491": 127,
+      "gas:candidate-vibid:2402000678228": 74,
+      "gas:candidate-vibid:2402000643388": 67,
+      "gas:candidate-vibid:2402000635335": 159,
+      "gas:candidate-vibid:2402000677898": 31,
+      "gas:candidate-vibid:2402000677322": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 439,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 79,
-      "Колесников Алексей Николаевич": 36,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 105,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 105
+      "gas:candidate-vibid:2402000677538": 439,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 79,
+      "gas:candidate-vibid:2402000678228": 36,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 105,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 213,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 37,
-      "Колесников Алексей Николаевич": 14,
-      "Тарасенко Антон Геннадьевич": 14,
-      "Тришина Марина Александровна": 81,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 41
+      "gas:candidate-vibid:2402000677538": 213,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 37,
+      "gas:candidate-vibid:2402000678228": 14,
+      "gas:candidate-vibid:2402000643388": 14,
+      "gas:candidate-vibid:2402000635335": 81,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 108,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 17,
-      "Колесников Алексей Николаевич": 11,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 25,
-      "Чернов Александр Ефимович": 5,
-      "Яшкин Николай Иванович": 32
+      "gas:candidate-vibid:2402000677538": 108,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 17,
+      "gas:candidate-vibid:2402000678228": 11,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 25,
+      "gas:candidate-vibid:2402000677898": 5,
+      "gas:candidate-vibid:2402000677322": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 117,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 13,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 25,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 19
+      "gas:candidate-vibid:2402000677538": 117,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 13,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 25,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 68,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 13,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 15,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 6
+      "gas:candidate-vibid:2402000677538": 68,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 13,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 15,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 73,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 8,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 13,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 11
+      "gas:candidate-vibid:2402000677538": 73,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 8,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 13,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 116,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 14,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 31,
-      "Чернов Александр Ефимович": 5,
-      "Яшкин Николай Иванович": 15
+      "gas:candidate-vibid:2402000677538": 116,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 14,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 31,
+      "gas:candidate-vibid:2402000677898": 5,
+      "gas:candidate-vibid:2402000677322": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 118,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 19,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 31
+      "gas:candidate-vibid:2402000677538": 118,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 19,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 101,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 9,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 4
+      "gas:candidate-vibid:2402000677538": 101,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 9,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 91,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 7,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 30
+      "gas:candidate-vibid:2402000677538": 91,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 7,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 93,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 17
+      "gas:candidate-vibid:2402000677538": 93,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 80,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 17
+      "gas:candidate-vibid:2402000677538": 80,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 125,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 13,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 30,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 32
+      "gas:candidate-vibid:2402000677538": 125,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 13,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 30,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 144,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 22,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 36,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 60
+      "gas:candidate-vibid:2402000677538": 144,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 22,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 36,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 38,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 38,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 64,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 7
+      "gas:candidate-vibid:2402000677538": 64,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 168,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 24,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 10,
-      "Тришина Марина Александровна": 33,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 11
+      "gas:candidate-vibid:2402000677538": 168,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 24,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 10,
+      "gas:candidate-vibid:2402000635335": 33,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594645&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594645&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 495,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 48,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 73,
-      "Чернов Александр Ефимович": 15,
-      "Яшкин Николай Иванович": 186
+      "gas:candidate-vibid:2402000677538": 495,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 48,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 73,
+      "gas:candidate-vibid:2402000677898": 15,
+      "gas:candidate-vibid:2402000677322": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 465,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 55,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 64,
-      "Чернов Александр Ефимович": 11,
-      "Яшкин Николай Иванович": 194
+      "gas:candidate-vibid:2402000677538": 465,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 55,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 64,
+      "gas:candidate-vibid:2402000677898": 11,
+      "gas:candidate-vibid:2402000677322": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 82,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 12
+      "gas:candidate-vibid:2402000677538": 82,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 97,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 0,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 45
+      "gas:candidate-vibid:2402000677538": 97,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 0,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 101,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 15
+      "gas:candidate-vibid:2402000677538": 101,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 65,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 7,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 17
+      "gas:candidate-vibid:2402000677538": 65,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 7,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 191,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 17,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 39
+      "gas:candidate-vibid:2402000677538": 191,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 17,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 60,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 4
+      "gas:candidate-vibid:2402000677538": 60,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 93,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 0,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 2
+      "gas:candidate-vibid:2402000677538": 93,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 0,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 59,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 2,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 59,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 2,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 96,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 27
+      "gas:candidate-vibid:2402000677538": 96,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 88,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 4,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 88,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 4,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 74,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 29
+      "gas:candidate-vibid:2402000677538": 74,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 53,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 11
+      "gas:candidate-vibid:2402000677538": 53,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 200,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 22,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 96
+      "gas:candidate-vibid:2402000677538": 200,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 22,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 86,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 0,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 33
+      "gas:candidate-vibid:2402000677538": 86,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 0,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594646&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594646&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 522,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 45,
-      "Колесников Алексей Николаевич": 20,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 103,
-      "Чернов Александр Ефимович": 15,
-      "Яшкин Николай Иванович": 134
+      "gas:candidate-vibid:2402000677538": 522,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 45,
+      "gas:candidate-vibid:2402000678228": 20,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 103,
+      "gas:candidate-vibid:2402000677898": 15,
+      "gas:candidate-vibid:2402000677322": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 439,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 33,
-      "Колесников Алексей Николаевич": 28,
-      "Тарасенко Антон Геннадьевич": 31,
-      "Тришина Марина Александровна": 121,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 102
+      "gas:candidate-vibid:2402000677538": 439,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 33,
+      "gas:candidate-vibid:2402000678228": 28,
+      "gas:candidate-vibid:2402000643388": 31,
+      "gas:candidate-vibid:2402000635335": 121,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 105,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 105,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 123,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 23,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 12
+      "gas:candidate-vibid:2402000677538": 123,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 23,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 120,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 18,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 29
+      "gas:candidate-vibid:2402000677538": 120,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 18,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 70,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 70,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 114,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 23
+      "gas:candidate-vibid:2402000677538": 114,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 92,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 9,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 15
+      "gas:candidate-vibid:2402000677538": 92,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 9,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 131,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 18,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 55
+      "gas:candidate-vibid:2402000677538": 131,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 18,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 60,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 9
+      "gas:candidate-vibid:2402000677538": 60,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 175,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 18,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 66
+      "gas:candidate-vibid:2402000677538": 175,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 18,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 54,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 16
+      "gas:candidate-vibid:2402000677538": 54,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 100,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 10,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 8
+      "gas:candidate-vibid:2402000677538": 100,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 10,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 154,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 4,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 37
+      "gas:candidate-vibid:2402000677538": 154,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 4,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 177,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 14,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 7
+      "gas:candidate-vibid:2402000677538": 177,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 14,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 74,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 9,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 12
+      "gas:candidate-vibid:2402000677538": 74,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 9,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 132,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 35
+      "gas:candidate-vibid:2402000677538": 132,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594647&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594647&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 181,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 10,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 181,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 10,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 121,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 11,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 15,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 13
+      "gas:candidate-vibid:2402000677538": 121,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 11,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 15,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 82,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 82,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 236,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 30,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 21,
-      "Тришина Марина Александровна": 39,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 61
+      "gas:candidate-vibid:2402000677538": 236,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 30,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 21,
+      "gas:candidate-vibid:2402000635335": 39,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 187,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 23,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 34
+      "gas:candidate-vibid:2402000677538": 187,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 23,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 127,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 11,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 20,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 9
+      "gas:candidate-vibid:2402000677538": 127,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 11,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 20,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 59,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 59,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 139,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 8,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 13,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 8
+      "gas:candidate-vibid:2402000677538": 139,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 8,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 13,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 730,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 96,
-      "Колесников Алексей Николаевич": 73,
-      "Тарасенко Антон Геннадьевич": 65,
-      "Тришина Марина Александровна": 159,
-      "Чернов Александр Ефимович": 26,
-      "Яшкин Николай Иванович": 196
+      "gas:candidate-vibid:2402000677538": 730,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 96,
+      "gas:candidate-vibid:2402000678228": 73,
+      "gas:candidate-vibid:2402000643388": 65,
+      "gas:candidate-vibid:2402000635335": 159,
+      "gas:candidate-vibid:2402000677898": 26,
+      "gas:candidate-vibid:2402000677322": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 722,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 93,
-      "Колесников Алексей Николаевич": 69,
-      "Тарасенко Антон Геннадьевич": 87,
-      "Тришина Марина Александровна": 159,
-      "Чернов Александр Ефимович": 36,
-      "Яшкин Николай Иванович": 190
+      "gas:candidate-vibid:2402000677538": 722,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 93,
+      "gas:candidate-vibid:2402000678228": 69,
+      "gas:candidate-vibid:2402000643388": 87,
+      "gas:candidate-vibid:2402000635335": 159,
+      "gas:candidate-vibid:2402000677898": 36,
+      "gas:candidate-vibid:2402000677322": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 98,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 8
+      "gas:candidate-vibid:2402000677538": 98,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 165,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 19,
-      "Колесников Алексей Николаевич": 19,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 39,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 12
+      "gas:candidate-vibid:2402000677538": 165,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 19,
+      "gas:candidate-vibid:2402000678228": 19,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 39,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 251,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 32,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 13,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 7,
-      "Яшкин Николай Иванович": 52
+      "gas:candidate-vibid:2402000677538": 251,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 32,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 13,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 7,
+      "gas:candidate-vibid:2402000677322": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594648&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594648&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 311,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 56,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 50,
-      "Тришина Марина Александровна": 79,
-      "Чернов Александр Ефимович": 43,
-      "Яшкин Николай Иванович": 138
+      "gas:candidate-vibid:2402000677538": 311,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 56,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 50,
+      "gas:candidate-vibid:2402000635335": 79,
+      "gas:candidate-vibid:2402000677898": 43,
+      "gas:candidate-vibid:2402000677322": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 272,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 65,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 60,
-      "Чернов Александр Ефимович": 37,
-      "Яшкин Николай Иванович": 113
+      "gas:candidate-vibid:2402000677538": 272,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 65,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 60,
+      "gas:candidate-vibid:2402000677898": 37,
+      "gas:candidate-vibid:2402000677322": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 182,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 27,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 14,
-      "Тришина Марина Александровна": 53,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 117
+      "gas:candidate-vibid:2402000677538": 182,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 27,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 14,
+      "gas:candidate-vibid:2402000635335": 53,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 210,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 33,
-      "Колесников Алексей Николаевич": 30,
-      "Тарасенко Антон Геннадьевич": 21,
-      "Тришина Марина Александровна": 47,
-      "Чернов Александр Ефимович": 35,
-      "Яшкин Николай Иванович": 89
+      "gas:candidate-vibid:2402000677538": 210,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 33,
+      "gas:candidate-vibid:2402000678228": 30,
+      "gas:candidate-vibid:2402000643388": 21,
+      "gas:candidate-vibid:2402000635335": 47,
+      "gas:candidate-vibid:2402000677898": 35,
+      "gas:candidate-vibid:2402000677322": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 205,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 28,
-      "Колесников Алексей Николаевич": 22,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 49,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 58
+      "gas:candidate-vibid:2402000677538": 205,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 28,
+      "gas:candidate-vibid:2402000678228": 22,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 49,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 327,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 60,
-      "Колесников Алексей Николаевич": 22,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 87,
-      "Чернов Александр Ефимович": 35,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 327,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 60,
+      "gas:candidate-vibid:2402000678228": 22,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 87,
+      "gas:candidate-vibid:2402000677898": 35,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 309,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 52,
-      "Колесников Алексей Николаевич": 28,
-      "Тарасенко Антон Геннадьевич": 40,
-      "Тришина Марина Александровна": 66,
-      "Чернов Александр Ефимович": 38,
-      "Яшкин Николай Иванович": 94
+      "gas:candidate-vibid:2402000677538": 309,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 52,
+      "gas:candidate-vibid:2402000678228": 28,
+      "gas:candidate-vibid:2402000643388": 40,
+      "gas:candidate-vibid:2402000635335": 66,
+      "gas:candidate-vibid:2402000677898": 38,
+      "gas:candidate-vibid:2402000677322": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 444,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 61,
-      "Колесников Алексей Николаевич": 27,
-      "Тарасенко Антон Геннадьевич": 46,
-      "Тришина Марина Александровна": 97,
-      "Чернов Александр Ефимович": 55,
-      "Яшкин Николай Иванович": 121
+      "gas:candidate-vibid:2402000677538": 444,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 61,
+      "gas:candidate-vibid:2402000678228": 27,
+      "gas:candidate-vibid:2402000643388": 46,
+      "gas:candidate-vibid:2402000635335": 97,
+      "gas:candidate-vibid:2402000677898": 55,
+      "gas:candidate-vibid:2402000677322": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 412,
-      "Беккер Андрей Владимирович": 24,
-      "Ефремова Надежда Игоревна": 67,
-      "Колесников Алексей Николаевич": 42,
-      "Тарасенко Антон Геннадьевич": 33,
-      "Тришина Марина Александровна": 92,
-      "Чернов Александр Ефимович": 50,
-      "Яшкин Николай Иванович": 147
+      "gas:candidate-vibid:2402000677538": 412,
+      "gas:candidate-vibid:2402000677699": 24,
+      "gas:candidate-vibid:2402000643491": 67,
+      "gas:candidate-vibid:2402000678228": 42,
+      "gas:candidate-vibid:2402000643388": 33,
+      "gas:candidate-vibid:2402000635335": 92,
+      "gas:candidate-vibid:2402000677898": 50,
+      "gas:candidate-vibid:2402000677322": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 397,
-      "Беккер Андрей Владимирович": 21,
-      "Ефремова Надежда Игоревна": 77,
-      "Колесников Алексей Николаевич": 36,
-      "Тарасенко Антон Геннадьевич": 49,
-      "Тришина Марина Александровна": 88,
-      "Чернов Александр Ефимович": 67,
-      "Яшкин Николай Иванович": 155
+      "gas:candidate-vibid:2402000677538": 397,
+      "gas:candidate-vibid:2402000677699": 21,
+      "gas:candidate-vibid:2402000643491": 77,
+      "gas:candidate-vibid:2402000678228": 36,
+      "gas:candidate-vibid:2402000643388": 49,
+      "gas:candidate-vibid:2402000635335": 88,
+      "gas:candidate-vibid:2402000677898": 67,
+      "gas:candidate-vibid:2402000677322": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 300,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 61,
-      "Колесников Алексей Николаевич": 37,
-      "Тарасенко Антон Геннадьевич": 33,
-      "Тришина Марина Александровна": 80,
-      "Чернов Александр Ефимович": 57,
-      "Яшкин Николай Иванович": 99
+      "gas:candidate-vibid:2402000677538": 300,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 61,
+      "gas:candidate-vibid:2402000678228": 37,
+      "gas:candidate-vibid:2402000643388": 33,
+      "gas:candidate-vibid:2402000635335": 80,
+      "gas:candidate-vibid:2402000677898": 57,
+      "gas:candidate-vibid:2402000677322": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 175,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 46,
-      "Колесников Алексей Николаевич": 27,
-      "Тарасенко Антон Геннадьевич": 23,
-      "Тришина Марина Александровна": 42,
-      "Чернов Александр Ефимович": 29,
-      "Яшкин Николай Иванович": 57
+      "gas:candidate-vibid:2402000677538": 175,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 46,
+      "gas:candidate-vibid:2402000678228": 27,
+      "gas:candidate-vibid:2402000643388": 23,
+      "gas:candidate-vibid:2402000635335": 42,
+      "gas:candidate-vibid:2402000677898": 29,
+      "gas:candidate-vibid:2402000677322": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 239,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 39,
-      "Колесников Алексей Николаевич": 22,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 58,
-      "Чернов Александр Ефимович": 34,
-      "Яшкин Николай Иванович": 97
+      "gas:candidate-vibid:2402000677538": 239,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 39,
+      "gas:candidate-vibid:2402000678228": 22,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 58,
+      "gas:candidate-vibid:2402000677898": 34,
+      "gas:candidate-vibid:2402000677322": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 229,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 56,
-      "Колесников Алексей Николаевич": 24,
-      "Тарасенко Антон Геннадьевич": 29,
-      "Тришина Марина Александровна": 45,
-      "Чернов Александр Ефимович": 33,
-      "Яшкин Николай Иванович": 87
+      "gas:candidate-vibid:2402000677538": 229,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 56,
+      "gas:candidate-vibid:2402000678228": 24,
+      "gas:candidate-vibid:2402000643388": 29,
+      "gas:candidate-vibid:2402000635335": 45,
+      "gas:candidate-vibid:2402000677898": 33,
+      "gas:candidate-vibid:2402000677322": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 416,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 79,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 66,
-      "Чернов Александр Ефимович": 92,
-      "Яшкин Николай Иванович": 91
+      "gas:candidate-vibid:2402000677538": 416,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 79,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 66,
+      "gas:candidate-vibid:2402000677898": 92,
+      "gas:candidate-vibid:2402000677322": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 366,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 63,
-      "Колесников Алексей Николаевич": 44,
-      "Тарасенко Антон Геннадьевич": 44,
-      "Тришина Марина Александровна": 67,
-      "Чернов Александр Ефимович": 83,
-      "Яшкин Николай Иванович": 147
+      "gas:candidate-vibid:2402000677538": 366,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 63,
+      "gas:candidate-vibid:2402000678228": 44,
+      "gas:candidate-vibid:2402000643388": 44,
+      "gas:candidate-vibid:2402000635335": 67,
+      "gas:candidate-vibid:2402000677898": 83,
+      "gas:candidate-vibid:2402000677322": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 288,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 35,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 15,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 45
+      "gas:candidate-vibid:2402000677538": 288,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 35,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 15,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 51,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 26,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 15,
-      "Чернов Александр Ефимович": 13,
-      "Яшкин Николай Иванович": 28
+      "gas:candidate-vibid:2402000677538": 51,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 26,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 15,
+      "gas:candidate-vibid:2402000677898": 13,
+      "gas:candidate-vibid:2402000677322": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 152,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 42,
-      "Колесников Алексей Николаевич": 9,
-      "Тарасенко Антон Геннадьевич": 14,
-      "Тришина Марина Александровна": 71,
-      "Чернов Александр Ефимович": 34,
-      "Яшкин Николай Иванович": 30
+      "gas:candidate-vibid:2402000677538": 152,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 42,
+      "gas:candidate-vibid:2402000678228": 9,
+      "gas:candidate-vibid:2402000643388": 14,
+      "gas:candidate-vibid:2402000635335": 71,
+      "gas:candidate-vibid:2402000677898": 34,
+      "gas:candidate-vibid:2402000677322": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 86,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 6
+      "gas:candidate-vibid:2402000677538": 86,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 216,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 30,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 21,
-      "Тришина Марина Александровна": 49,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 50
+      "gas:candidate-vibid:2402000677538": 216,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 30,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 21,
+      "gas:candidate-vibid:2402000635335": 49,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 547,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 71,
-      "Колесников Алексей Николаевич": 42,
-      "Тарасенко Антон Геннадьевич": 44,
-      "Тришина Марина Александровна": 122,
-      "Чернов Александр Ефимович": 60,
-      "Яшкин Николай Иванович": 128
+      "gas:candidate-vibid:2402000677538": 547,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 71,
+      "gas:candidate-vibid:2402000678228": 42,
+      "gas:candidate-vibid:2402000643388": 44,
+      "gas:candidate-vibid:2402000635335": 122,
+      "gas:candidate-vibid:2402000677898": 60,
+      "gas:candidate-vibid:2402000677322": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 98,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 15,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 24,
-      "Чернов Александр Ефимович": 15,
-      "Яшкин Николай Иванович": 18
+      "gas:candidate-vibid:2402000677538": 98,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 15,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 24,
+      "gas:candidate-vibid:2402000677898": 15,
+      "gas:candidate-vibid:2402000677322": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 246,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 32,
-      "Колесников Алексей Николаевич": 21,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 42,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 38
+      "gas:candidate-vibid:2402000677538": 246,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 32,
+      "gas:candidate-vibid:2402000678228": 21,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 42,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 190,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 32,
-      "Колесников Алексей Николаевич": 20,
-      "Тарасенко Антон Геннадьевич": 15,
-      "Тришина Марина Александровна": 48,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 18
+      "gas:candidate-vibid:2402000677538": 190,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 32,
+      "gas:candidate-vibid:2402000678228": 20,
+      "gas:candidate-vibid:2402000643388": 15,
+      "gas:candidate-vibid:2402000635335": 48,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 266,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 61,
-      "Колесников Алексей Николаевич": 19,
-      "Тарасенко Антон Геннадьевич": 27,
-      "Тришина Марина Александровна": 56,
-      "Чернов Александр Ефимович": 86,
-      "Яшкин Николай Иванович": 84
+      "gas:candidate-vibid:2402000677538": 266,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 61,
+      "gas:candidate-vibid:2402000678228": 19,
+      "gas:candidate-vibid:2402000643388": 27,
+      "gas:candidate-vibid:2402000635335": 56,
+      "gas:candidate-vibid:2402000677898": 86,
+      "gas:candidate-vibid:2402000677322": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 205,
-      "Беккер Андрей Владимирович": 23,
-      "Ефремова Надежда Игоревна": 41,
-      "Колесников Алексей Николаевич": 32,
-      "Тарасенко Антон Геннадьевич": 28,
-      "Тришина Марина Александровна": 63,
-      "Чернов Александр Ефимович": 50,
-      "Яшкин Николай Иванович": 53
+      "gas:candidate-vibid:2402000677538": 205,
+      "gas:candidate-vibid:2402000677699": 23,
+      "gas:candidate-vibid:2402000643491": 41,
+      "gas:candidate-vibid:2402000678228": 32,
+      "gas:candidate-vibid:2402000643388": 28,
+      "gas:candidate-vibid:2402000635335": 63,
+      "gas:candidate-vibid:2402000677898": 50,
+      "gas:candidate-vibid:2402000677322": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 224,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 27,
-      "Чернов Александр Ефимович": 13,
-      "Яшкин Николай Иванович": 20
+      "gas:candidate-vibid:2402000677538": 224,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 27,
+      "gas:candidate-vibid:2402000677898": 13,
+      "gas:candidate-vibid:2402000677322": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 166,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 18,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 20,
-      "Тришина Марина Александровна": 36,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 31
+      "gas:candidate-vibid:2402000677538": 166,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 18,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 20,
+      "gas:candidate-vibid:2402000635335": 36,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 150,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 9,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 9,
-      "Чернов Александр Ефимович": 7,
-      "Яшкин Николай Иванович": 16
+      "gas:candidate-vibid:2402000677538": 150,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 9,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 9,
+      "gas:candidate-vibid:2402000677898": 7,
+      "gas:candidate-vibid:2402000677322": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 54,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 14,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 9,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 27
+      "gas:candidate-vibid:2402000677538": 54,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 14,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 9,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 191,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 39,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 37,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 65
+      "gas:candidate-vibid:2402000677538": 191,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 39,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 37,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 147,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 15,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 13
+      "gas:candidate-vibid:2402000677538": 147,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 15,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 124,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 28,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 40,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 25
+      "gas:candidate-vibid:2402000677538": 124,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 28,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 40,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 150,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 28,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 24,
-      "Чернов Александр Ефимович": 27,
-      "Яшкин Николай Иванович": 19
+      "gas:candidate-vibid:2402000677538": 150,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 28,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 24,
+      "gas:candidate-vibid:2402000677898": 27,
+      "gas:candidate-vibid:2402000677322": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 27,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 7,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 5
+      "gas:candidate-vibid:2402000677538": 27,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 7,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594649&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594649&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 331,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 13,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 54,
-      "Чернов Александр Ефимович": 12,
-      "Яшкин Николай Иванович": 498
+      "gas:candidate-vibid:2402000677538": 331,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 13,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 54,
+      "gas:candidate-vibid:2402000677898": 12,
+      "gas:candidate-vibid:2402000677322": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 165,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 13,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 26,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 243
+      "gas:candidate-vibid:2402000677538": 165,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 13,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 26,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 24,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 31
+      "gas:candidate-vibid:2402000677538": 24,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 55,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 99
+      "gas:candidate-vibid:2402000677538": 55,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 57,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 109
+      "gas:candidate-vibid:2402000677538": 57,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 28,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 185
+      "gas:candidate-vibid:2402000677538": 28,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 38,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 1,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 79
+      "gas:candidate-vibid:2402000677538": 38,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 1,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 23,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 4,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 45
+      "gas:candidate-vibid:2402000677538": 23,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 4,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 22,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 49
+      "gas:candidate-vibid:2402000677538": 22,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 24,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 4,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 128
+      "gas:candidate-vibid:2402000677538": 24,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 4,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 18,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 54
+      "gas:candidate-vibid:2402000677538": 18,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 51,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 51,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 33,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 99
+      "gas:candidate-vibid:2402000677538": 33,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 34,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 7,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 77
+      "gas:candidate-vibid:2402000677538": 34,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 7,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 29,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 4,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 31
+      "gas:candidate-vibid:2402000677538": 29,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 4,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 5,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 1,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 15
+      "gas:candidate-vibid:2402000677538": 5,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 1,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 80,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 103
+      "gas:candidate-vibid:2402000677538": 80,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 8,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 2,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 41
+      "gas:candidate-vibid:2402000677538": 8,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 2,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 27,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 2,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 30
+      "gas:candidate-vibid:2402000677538": 27,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 2,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 35,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 2,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 67
+      "gas:candidate-vibid:2402000677538": 35,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 2,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594650&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594650&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 400,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 43,
-      "Колесников Алексей Николаевич": 11,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 61,
-      "Чернов Александр Ефимович": 12,
-      "Яшкин Николай Иванович": 499
+      "gas:candidate-vibid:2402000677538": 400,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 43,
+      "gas:candidate-vibid:2402000678228": 11,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 61,
+      "gas:candidate-vibid:2402000677898": 12,
+      "gas:candidate-vibid:2402000677322": 499
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 279,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 47,
-      "Колесников Алексей Николаевич": 14,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 71,
-      "Чернов Александр Ефимович": 13,
-      "Яшкин Николай Иванович": 352
+      "gas:candidate-vibid:2402000677538": 279,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 47,
+      "gas:candidate-vibid:2402000678228": 14,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 71,
+      "gas:candidate-vibid:2402000677898": 13,
+      "gas:candidate-vibid:2402000677322": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 155,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 24,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 10,
-      "Тришина Марина Александровна": 23,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 192
+      "gas:candidate-vibid:2402000677538": 155,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 24,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 10,
+      "gas:candidate-vibid:2402000635335": 23,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 346,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 58,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 70,
-      "Чернов Александр Ефимович": 17,
-      "Яшкин Николай Иванович": 384
+      "gas:candidate-vibid:2402000677538": 346,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 58,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 70,
+      "gas:candidate-vibid:2402000677898": 17,
+      "gas:candidate-vibid:2402000677322": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 213,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 19,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 33,
-      "Чернов Александр Ефимович": 11,
-      "Яшкин Николай Иванович": 221
+      "gas:candidate-vibid:2402000677538": 213,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 19,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 33,
+      "gas:candidate-vibid:2402000677898": 11,
+      "gas:candidate-vibid:2402000677322": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 184,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 10,
-      "Тришина Марина Александровна": 30,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 168
+      "gas:candidate-vibid:2402000677538": 184,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 10,
+      "gas:candidate-vibid:2402000635335": 30,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 241,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 32,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 40,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 269
+      "gas:candidate-vibid:2402000677538": 241,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 32,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 40,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 317,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 34,
-      "Колесников Алексей Николаевич": 24,
-      "Тарасенко Антон Геннадьевич": 21,
-      "Тришина Марина Александровна": 64,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 338
+      "gas:candidate-vibid:2402000677538": 317,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 34,
+      "gas:candidate-vibid:2402000678228": 24,
+      "gas:candidate-vibid:2402000643388": 21,
+      "gas:candidate-vibid:2402000635335": 64,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 311,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 26,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 72,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 372
+      "gas:candidate-vibid:2402000677538": 311,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 26,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 72,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 400,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 52,
-      "Колесников Алексей Николаевич": 13,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 72,
-      "Чернов Александр Ефимович": 16,
-      "Яшкин Николай Иванович": 339
+      "gas:candidate-vibid:2402000677538": 400,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 52,
+      "gas:candidate-vibid:2402000678228": 13,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 72,
+      "gas:candidate-vibid:2402000677898": 16,
+      "gas:candidate-vibid:2402000677322": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 177,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 31,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 181
+      "gas:candidate-vibid:2402000677538": 177,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 31,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 310,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 31,
-      "Колесников Алексей Николаевич": 13,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 59,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 252
+      "gas:candidate-vibid:2402000677538": 310,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 31,
+      "gas:candidate-vibid:2402000678228": 13,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 59,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 302,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 58,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 57,
-      "Чернов Александр Ефимович": 14,
-      "Яшкин Николай Иванович": 227
+      "gas:candidate-vibid:2402000677538": 302,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 58,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 57,
+      "gas:candidate-vibid:2402000677898": 14,
+      "gas:candidate-vibid:2402000677322": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 113,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 14,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 72
+      "gas:candidate-vibid:2402000677538": 113,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 14,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 110,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 68
+      "gas:candidate-vibid:2402000677538": 110,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 63,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 53
+      "gas:candidate-vibid:2402000677538": 63,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 104,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 44
+      "gas:candidate-vibid:2402000677538": 104,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 81,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 7,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 40
+      "gas:candidate-vibid:2402000677538": 81,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 7,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 48,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 21
+      "gas:candidate-vibid:2402000677538": 48,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 168,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 16,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 27,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 92
+      "gas:candidate-vibid:2402000677538": 168,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 16,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 27,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 83,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 7,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 40
+      "gas:candidate-vibid:2402000677538": 83,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 7,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 74,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 3,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 35
+      "gas:candidate-vibid:2402000677538": 74,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 3,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 124,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 8,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 17
+      "gas:candidate-vibid:2402000677538": 124,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 8,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 327,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 74,
-      "Колесников Алексей Николаевич": 41,
-      "Тарасенко Антон Геннадьевич": 46,
-      "Тришина Марина Александровна": 131,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 99
+      "gas:candidate-vibid:2402000677538": 327,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 74,
+      "gas:candidate-vibid:2402000678228": 41,
+      "gas:candidate-vibid:2402000643388": 46,
+      "gas:candidate-vibid:2402000635335": 131,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 366,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 80,
-      "Колесников Алексей Николаевич": 21,
-      "Тарасенко Антон Геннадьевич": 35,
-      "Тришина Марина Александровна": 202,
-      "Чернов Александр Ефимович": 36,
-      "Яшкин Николай Иванович": 116
+      "gas:candidate-vibid:2402000677538": 366,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 80,
+      "gas:candidate-vibid:2402000678228": 21,
+      "gas:candidate-vibid:2402000643388": 35,
+      "gas:candidate-vibid:2402000635335": 202,
+      "gas:candidate-vibid:2402000677898": 36,
+      "gas:candidate-vibid:2402000677322": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 145,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 41
+      "gas:candidate-vibid:2402000677538": 145,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 88,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 8,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 16,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 40
+      "gas:candidate-vibid:2402000677538": 88,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 8,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 16,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 112,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 40
+      "gas:candidate-vibid:2402000677538": 112,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 89,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 8,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 10,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 42
+      "gas:candidate-vibid:2402000677538": 89,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 8,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 10,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 50,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 11
+      "gas:candidate-vibid:2402000677538": 50,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 76,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 28
+      "gas:candidate-vibid:2402000677538": 76,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594651&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594651&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 401,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 73,
-      "Колесников Алексей Николаевич": 30,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 123,
-      "Чернов Александр Ефимович": 49,
-      "Яшкин Николай Иванович": 138
+      "gas:candidate-vibid:2402000677538": 401,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 73,
+      "gas:candidate-vibid:2402000678228": 30,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 123,
+      "gas:candidate-vibid:2402000677898": 49,
+      "gas:candidate-vibid:2402000677322": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 254,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 71,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 29,
-      "Тришина Марина Александровна": 100,
-      "Чернов Александр Ефимович": 22,
-      "Яшкин Николай Иванович": 102
+      "gas:candidate-vibid:2402000677538": 254,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 71,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 29,
+      "gas:candidate-vibid:2402000635335": 100,
+      "gas:candidate-vibid:2402000677898": 22,
+      "gas:candidate-vibid:2402000677322": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 151,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 29,
-      "Колесников Алексей Николаевич": 14,
-      "Тарасенко Антон Геннадьевич": 13,
-      "Тришина Марина Александровна": 64,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 75
+      "gas:candidate-vibid:2402000677538": 151,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 29,
+      "gas:candidate-vibid:2402000678228": 14,
+      "gas:candidate-vibid:2402000643388": 13,
+      "gas:candidate-vibid:2402000635335": 64,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 288,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 53,
-      "Колесников Алексей Николаевич": 26,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 90,
-      "Чернов Александр Ефимович": 26,
-      "Яшкин Николай Иванович": 99
+      "gas:candidate-vibid:2402000677538": 288,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 53,
+      "gas:candidate-vibid:2402000678228": 26,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 90,
+      "gas:candidate-vibid:2402000677898": 26,
+      "gas:candidate-vibid:2402000677322": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 322,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 48,
-      "Колесников Алексей Николаевич": 27,
-      "Тарасенко Антон Геннадьевич": 31,
-      "Тришина Марина Александровна": 92,
-      "Чернов Александр Ефимович": 19,
-      "Яшкин Николай Иванович": 116
+      "gas:candidate-vibid:2402000677538": 322,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 48,
+      "gas:candidate-vibid:2402000678228": 27,
+      "gas:candidate-vibid:2402000643388": 31,
+      "gas:candidate-vibid:2402000635335": 92,
+      "gas:candidate-vibid:2402000677898": 19,
+      "gas:candidate-vibid:2402000677322": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 190,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 37,
-      "Колесников Алексей Николаевич": 19,
-      "Тарасенко Антон Геннадьевич": 27,
-      "Тришина Марина Александровна": 97,
-      "Чернов Александр Ефимович": 17,
-      "Яшкин Николай Иванович": 67
+      "gas:candidate-vibid:2402000677538": 190,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 37,
+      "gas:candidate-vibid:2402000678228": 19,
+      "gas:candidate-vibid:2402000643388": 27,
+      "gas:candidate-vibid:2402000635335": 97,
+      "gas:candidate-vibid:2402000677898": 17,
+      "gas:candidate-vibid:2402000677322": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 258,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 57,
-      "Колесников Алексей Николаевич": 22,
-      "Тарасенко Антон Геннадьевич": 14,
-      "Тришина Марина Александровна": 84,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 93
+      "gas:candidate-vibid:2402000677538": 258,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 57,
+      "gas:candidate-vibid:2402000678228": 22,
+      "gas:candidate-vibid:2402000643388": 14,
+      "gas:candidate-vibid:2402000635335": 84,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 313,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 62,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 40,
-      "Тришина Марина Александровна": 118,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 123
+      "gas:candidate-vibid:2402000677538": 313,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 62,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 40,
+      "gas:candidate-vibid:2402000635335": 118,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 381,
-      "Беккер Андрей Владимирович": 20,
-      "Ефремова Надежда Игоревна": 57,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 33,
-      "Тришина Марина Александровна": 116,
-      "Чернов Александр Ефимович": 28,
-      "Яшкин Николай Иванович": 113
+      "gas:candidate-vibid:2402000677538": 381,
+      "gas:candidate-vibid:2402000677699": 20,
+      "gas:candidate-vibid:2402000643491": 57,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 33,
+      "gas:candidate-vibid:2402000635335": 116,
+      "gas:candidate-vibid:2402000677898": 28,
+      "gas:candidate-vibid:2402000677322": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 188,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 36,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 44,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 53
+      "gas:candidate-vibid:2402000677538": 188,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 36,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 44,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 201,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 50,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 61,
-      "Чернов Александр Ефимович": 15,
-      "Яшкин Николай Иванович": 82
+      "gas:candidate-vibid:2402000677538": 201,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 50,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 61,
+      "gas:candidate-vibid:2402000677898": 15,
+      "gas:candidate-vibid:2402000677322": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 190,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 59,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 26,
-      "Тришина Марина Александровна": 53,
-      "Чернов Александр Ефимович": 16,
-      "Яшкин Николай Иванович": 75
+      "gas:candidate-vibid:2402000677538": 190,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 59,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 26,
+      "gas:candidate-vibid:2402000635335": 53,
+      "gas:candidate-vibid:2402000677898": 16,
+      "gas:candidate-vibid:2402000677322": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 151,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 26,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 23,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 47
+      "gas:candidate-vibid:2402000677538": 151,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 26,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 23,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 316,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 68,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 21,
-      "Тришина Марина Александровна": 89,
-      "Чернов Александр Ефимович": 32,
-      "Яшкин Николай Иванович": 119
+      "gas:candidate-vibid:2402000677538": 316,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 68,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 21,
+      "gas:candidate-vibid:2402000635335": 89,
+      "gas:candidate-vibid:2402000677898": 32,
+      "gas:candidate-vibid:2402000677322": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 285,
-      "Беккер Андрей Владимирович": 21,
-      "Ефремова Надежда Игоревна": 102,
-      "Колесников Алексей Николаевич": 47,
-      "Тарасенко Антон Геннадьевич": 27,
-      "Тришина Марина Александровна": 106,
-      "Чернов Александр Ефимович": 40,
-      "Яшкин Николай Иванович": 154
+      "gas:candidate-vibid:2402000677538": 285,
+      "gas:candidate-vibid:2402000677699": 21,
+      "gas:candidate-vibid:2402000643491": 102,
+      "gas:candidate-vibid:2402000678228": 47,
+      "gas:candidate-vibid:2402000643388": 27,
+      "gas:candidate-vibid:2402000635335": 106,
+      "gas:candidate-vibid:2402000677898": 40,
+      "gas:candidate-vibid:2402000677322": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 339,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 70,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 20,
-      "Тришина Марина Александровна": 78,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 163
+      "gas:candidate-vibid:2402000677538": 339,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 70,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 20,
+      "gas:candidate-vibid:2402000635335": 78,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 337,
-      "Беккер Андрей Владимирович": 20,
-      "Ефремова Надежда Игоревна": 87,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 98,
-      "Чернов Александр Ефимович": 29,
-      "Яшкин Николай Иванович": 148
+      "gas:candidate-vibid:2402000677538": 337,
+      "gas:candidate-vibid:2402000677699": 20,
+      "gas:candidate-vibid:2402000643491": 87,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 98,
+      "gas:candidate-vibid:2402000677898": 29,
+      "gas:candidate-vibid:2402000677322": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 287,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 90,
-      "Колесников Алексей Николаевич": 36,
-      "Тарасенко Антон Геннадьевич": 26,
-      "Тришина Марина Александровна": 92,
-      "Чернов Александр Ефимович": 19,
-      "Яшкин Николай Иванович": 142
+      "gas:candidate-vibid:2402000677538": 287,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 90,
+      "gas:candidate-vibid:2402000678228": 36,
+      "gas:candidate-vibid:2402000643388": 26,
+      "gas:candidate-vibid:2402000635335": 92,
+      "gas:candidate-vibid:2402000677898": 19,
+      "gas:candidate-vibid:2402000677322": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 289,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 71,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 50,
-      "Тришина Марина Александровна": 103,
-      "Чернов Александр Ефимович": 29,
-      "Яшкин Николай Иванович": 130
+      "gas:candidate-vibid:2402000677538": 289,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 71,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 50,
+      "gas:candidate-vibid:2402000635335": 103,
+      "gas:candidate-vibid:2402000677898": 29,
+      "gas:candidate-vibid:2402000677322": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 239,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 63,
-      "Колесников Алексей Николаевич": 30,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 100,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 239,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 63,
+      "gas:candidate-vibid:2402000678228": 30,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 100,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 304,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 60,
-      "Колесников Алексей Николаевич": 26,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 74,
-      "Чернов Александр Ефимович": 17,
-      "Яшкин Николай Иванович": 91
+      "gas:candidate-vibid:2402000677538": 304,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 60,
+      "gas:candidate-vibid:2402000678228": 26,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 74,
+      "gas:candidate-vibid:2402000677898": 17,
+      "gas:candidate-vibid:2402000677322": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 303,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 81,
-      "Колесников Алексей Николаевич": 46,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 104,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 115
+      "gas:candidate-vibid:2402000677538": 303,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 81,
+      "gas:candidate-vibid:2402000678228": 46,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 104,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 311,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 100,
-      "Колесников Алексей Николаевич": 36,
-      "Тарасенко Антон Геннадьевич": 24,
-      "Тришина Марина Александровна": 98,
-      "Чернов Александр Ефимович": 28,
-      "Яшкин Николай Иванович": 135
+      "gas:candidate-vibid:2402000677538": 311,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 100,
+      "gas:candidate-vibid:2402000678228": 36,
+      "gas:candidate-vibid:2402000643388": 24,
+      "gas:candidate-vibid:2402000635335": 98,
+      "gas:candidate-vibid:2402000677898": 28,
+      "gas:candidate-vibid:2402000677322": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 306,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 57,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 19,
-      "Тришина Марина Александровна": 102,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 163
+      "gas:candidate-vibid:2402000677538": 306,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 57,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 19,
+      "gas:candidate-vibid:2402000635335": 102,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 451,
-      "Беккер Андрей Владимирович": 23,
-      "Ефремова Надежда Игоревна": 98,
-      "Колесников Алексей Николаевич": 50,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 153,
-      "Чернов Александр Ефимович": 48,
-      "Яшкин Николай Иванович": 160
+      "gas:candidate-vibid:2402000677538": 451,
+      "gas:candidate-vibid:2402000677699": 23,
+      "gas:candidate-vibid:2402000643491": 98,
+      "gas:candidate-vibid:2402000678228": 50,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 153,
+      "gas:candidate-vibid:2402000677898": 48,
+      "gas:candidate-vibid:2402000677322": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 72,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 18,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 5,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 72,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 18,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 5,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 310,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 86,
-      "Колесников Алексей Николаевич": 38,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 96,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 118
+      "gas:candidate-vibid:2402000677538": 310,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 86,
+      "gas:candidate-vibid:2402000678228": 38,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 96,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 321,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 69,
-      "Колесников Алексей Николаевич": 38,
-      "Тарасенко Антон Геннадьевич": 28,
-      "Тришина Марина Александровна": 89,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 121
+      "gas:candidate-vibid:2402000677538": 321,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 69,
+      "gas:candidate-vibid:2402000678228": 38,
+      "gas:candidate-vibid:2402000643388": 28,
+      "gas:candidate-vibid:2402000635335": 89,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 368,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 106,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 42,
-      "Тришина Марина Александровна": 120,
-      "Чернов Александр Ефимович": 35,
-      "Яшкин Николай Иванович": 144
+      "gas:candidate-vibid:2402000677538": 368,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 106,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 42,
+      "gas:candidate-vibid:2402000635335": 120,
+      "gas:candidate-vibid:2402000677898": 35,
+      "gas:candidate-vibid:2402000677322": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 322,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 76,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 26,
-      "Тришина Марина Александровна": 107,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 120
+      "gas:candidate-vibid:2402000677538": 322,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 76,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 26,
+      "gas:candidate-vibid:2402000635335": 107,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 199,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 42,
-      "Колесников Алексей Николаевич": 19,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 63,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 100
+      "gas:candidate-vibid:2402000677538": 199,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 42,
+      "gas:candidate-vibid:2402000678228": 19,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 63,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 280,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 56,
-      "Колесников Алексей Николаевич": 36,
-      "Тарасенко Антон Геннадьевич": 29,
-      "Тришина Марина Александровна": 106,
-      "Чернов Александр Ефимович": 30,
-      "Яшкин Николай Иванович": 144
+      "gas:candidate-vibid:2402000677538": 280,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 56,
+      "gas:candidate-vibid:2402000678228": 36,
+      "gas:candidate-vibid:2402000643388": 29,
+      "gas:candidate-vibid:2402000635335": 106,
+      "gas:candidate-vibid:2402000677898": 30,
+      "gas:candidate-vibid:2402000677322": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 347,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 76,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 118,
-      "Чернов Александр Ефимович": 32,
-      "Яшкин Николай Иванович": 175
+      "gas:candidate-vibid:2402000677538": 347,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 76,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 118,
+      "gas:candidate-vibid:2402000677898": 32,
+      "gas:candidate-vibid:2402000677322": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 153,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 25,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 39,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 66
+      "gas:candidate-vibid:2402000677538": 153,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 25,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 39,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 95,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 8,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 31,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 46
+      "gas:candidate-vibid:2402000677538": 95,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 8,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 31,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 262,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 37,
-      "Колесников Алексей Николаевич": 189,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 67,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 84
+      "gas:candidate-vibid:2402000677538": 262,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 37,
+      "gas:candidate-vibid:2402000678228": 189,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 67,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 125,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 24,
-      "Колесников Алексей Николаевич": 69,
-      "Тарасенко Антон Геннадьевич": 17,
-      "Тришина Марина Александровна": 49,
-      "Чернов Александр Ефимович": 7,
-      "Яшкин Николай Иванович": 57
+      "gas:candidate-vibid:2402000677538": 125,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 24,
+      "gas:candidate-vibid:2402000678228": 69,
+      "gas:candidate-vibid:2402000643388": 17,
+      "gas:candidate-vibid:2402000635335": 49,
+      "gas:candidate-vibid:2402000677898": 7,
+      "gas:candidate-vibid:2402000677322": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 159,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 30,
-      "Колесников Алексей Николаевич": 73,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 50,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 63
+      "gas:candidate-vibid:2402000677538": 159,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 30,
+      "gas:candidate-vibid:2402000678228": 73,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 50,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 312,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 65,
-      "Колесников Алексей Николаевич": 146,
-      "Тарасенко Антон Геннадьевич": 33,
-      "Тришина Марина Александровна": 103,
-      "Чернов Александр Ефимович": 16,
-      "Яшкин Николай Иванович": 127
+      "gas:candidate-vibid:2402000677538": 312,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 65,
+      "gas:candidate-vibid:2402000678228": 146,
+      "gas:candidate-vibid:2402000643388": 33,
+      "gas:candidate-vibid:2402000635335": 103,
+      "gas:candidate-vibid:2402000677898": 16,
+      "gas:candidate-vibid:2402000677322": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 368,
-      "Беккер Андрей Владимирович": 24,
-      "Ефремова Надежда Игоревна": 86,
-      "Колесников Алексей Николаевич": 134,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 124,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 136
+      "gas:candidate-vibid:2402000677538": 368,
+      "gas:candidate-vibid:2402000677699": 24,
+      "gas:candidate-vibid:2402000643491": 86,
+      "gas:candidate-vibid:2402000678228": 134,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 124,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 180,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 50,
-      "Колесников Алексей Николаевич": 96,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 67,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 87
+      "gas:candidate-vibid:2402000677538": 180,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 50,
+      "gas:candidate-vibid:2402000678228": 96,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 67,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 327,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 67,
-      "Колесников Алексей Николаевич": 45,
-      "Тарасенко Антон Геннадьевич": 35,
-      "Тришина Марина Александровна": 70,
-      "Чернов Александр Ефимович": 26,
-      "Яшкин Николай Иванович": 160
+      "gas:candidate-vibid:2402000677538": 327,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 67,
+      "gas:candidate-vibid:2402000678228": 45,
+      "gas:candidate-vibid:2402000643388": 35,
+      "gas:candidate-vibid:2402000635335": 70,
+      "gas:candidate-vibid:2402000677898": 26,
+      "gas:candidate-vibid:2402000677322": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 172,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 35,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 38,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 74
+      "gas:candidate-vibid:2402000677538": 172,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 35,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 38,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 364,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 120,
-      "Колесников Алексей Николаевич": 26,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 102,
-      "Чернов Александр Ефимович": 32,
-      "Яшкин Николай Иванович": 143
+      "gas:candidate-vibid:2402000677538": 364,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 120,
+      "gas:candidate-vibid:2402000678228": 26,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 102,
+      "gas:candidate-vibid:2402000677898": 32,
+      "gas:candidate-vibid:2402000677322": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 281,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 81,
-      "Колесников Алексей Николаевич": 25,
-      "Тарасенко Антон Геннадьевич": 45,
-      "Тришина Марина Александровна": 124,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 100
+      "gas:candidate-vibid:2402000677538": 281,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 81,
+      "gas:candidate-vibid:2402000678228": 25,
+      "gas:candidate-vibid:2402000643388": 45,
+      "gas:candidate-vibid:2402000635335": 124,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 262,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 80,
-      "Колесников Алексей Николаевич": 17,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 109,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 98
+      "gas:candidate-vibid:2402000677538": 262,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 80,
+      "gas:candidate-vibid:2402000678228": 17,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 109,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 258,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 75,
-      "Колесников Алексей Николаевич": 21,
-      "Тарасенко Антон Геннадьевич": 31,
-      "Тришина Марина Александровна": 109,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 89
+      "gas:candidate-vibid:2402000677538": 258,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 75,
+      "gas:candidate-vibid:2402000678228": 21,
+      "gas:candidate-vibid:2402000643388": 31,
+      "gas:candidate-vibid:2402000635335": 109,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 73,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 19,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 73,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 19,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 285,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 42,
-      "Колесников Алексей Николаевич": 22,
-      "Тарасенко Антон Геннадьевич": 30,
-      "Тришина Марина Александровна": 86,
-      "Чернов Александр Ефимович": 16,
-      "Яшкин Николай Иванович": 106
+      "gas:candidate-vibid:2402000677538": 285,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 42,
+      "gas:candidate-vibid:2402000678228": 22,
+      "gas:candidate-vibid:2402000643388": 30,
+      "gas:candidate-vibid:2402000635335": 86,
+      "gas:candidate-vibid:2402000677898": 16,
+      "gas:candidate-vibid:2402000677322": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 140,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 21,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 26
+      "gas:candidate-vibid:2402000677538": 140,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 21,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 91,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 9,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 22,
-      "Чернов Александр Ефимович": 12,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 91,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 9,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 22,
+      "gas:candidate-vibid:2402000677898": 12,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 162,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 36,
-      "Колесников Алексей Николаевич": 18,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 30,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 45
+      "gas:candidate-vibid:2402000677538": 162,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 36,
+      "gas:candidate-vibid:2402000678228": 18,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 30,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_40_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 92,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 15,
-      "Колесников Алексей Николаевич": 128,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 18,
-      "Чернов Александр Ефимович": 29,
-      "Яшкин Николай Иванович": 22
+      "gas:candidate-vibid:2402000677538": 92,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 15,
+      "gas:candidate-vibid:2402000678228": 128,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 18,
+      "gas:candidate-vibid:2402000677898": 29,
+      "gas:candidate-vibid:2402000677322": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594652&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594652&type=464",

@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "4684029199482",
+    "uikName": "УИК №177",
     "tikTvd": "2682000842251",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 837,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 94,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 48,
-      "Воротников Илья Владимирович": 11,
-      "Дубовицкий Денис Михайлович": 19,
-      "Поляков Александр Алексеевич": 479
+      "2682000855320": 94,
+      "2682000857911": 3,
+      "2682000855594": 48,
+      "2682000858426": 11,
+      "2682000855573": 19,
+      "2682000856170": 479
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.390522+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "4684029199483",
+    "uikName": "УИК №178",
     "tikTvd": "2682000842251",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 636,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 36,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 21,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 17,
-      "Поляков Александр Алексеевич": 384
+      "2682000855320": 36,
+      "2682000857911": 4,
+      "2682000855594": 21,
+      "2682000858426": 5,
+      "2682000855573": 17,
+      "2682000856170": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.390522+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "4684029199484",
+    "uikName": "УИК №179",
     "tikTvd": "2682000842251",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 781,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 69,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 33,
-      "Воротников Илья Владимирович": 16,
-      "Дубовицкий Денис Михайлович": 8,
-      "Поляков Александр Алексеевич": 333
+      "2682000855320": 69,
+      "2682000857911": 5,
+      "2682000855594": 33,
+      "2682000858426": 16,
+      "2682000855573": 8,
+      "2682000856170": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.390522+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "4684029199485",
+    "uikName": "УИК №180",
     "tikTvd": "2682000842251",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 854,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 120,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 38,
-      "Воротников Илья Владимирович": 27,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 249
+      "2682000855320": 120,
+      "2682000857911": 9,
+      "2682000855594": 38,
+      "2682000858426": 27,
+      "2682000855573": 20,
+      "2682000856170": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.390522+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842251&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842251&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "4684006163834",
+    "uikName": "УИК №136",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 926,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 149,
-      "Анциферов Юрий Дмитриевич": 15,
-      "Бадак Елена Сергеевна": 35,
-      "Воротников Илья Владимирович": 20,
-      "Дубовицкий Денис Михайлович": 23,
-      "Поляков Александр Алексеевич": 211
+      "2682000855320": 149,
+      "2682000857911": 15,
+      "2682000855594": 35,
+      "2682000858426": 20,
+      "2682000855573": 23,
+      "2682000856170": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "4684006163835",
+    "uikName": "УИК №137",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 438,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 68,
-      "Анциферов Юрий Дмитриевич": 13,
-      "Бадак Елена Сергеевна": 17,
-      "Воротников Илья Владимирович": 14,
-      "Дубовицкий Денис Михайлович": 12,
-      "Поляков Александр Алексеевич": 148
+      "2682000855320": 68,
+      "2682000857911": 13,
+      "2682000855594": 17,
+      "2682000858426": 14,
+      "2682000855573": 12,
+      "2682000856170": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "4684006163836",
+    "uikName": "УИК №138",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 567,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 67,
-      "Анциферов Юрий Дмитриевич": 10,
-      "Бадак Елена Сергеевна": 33,
-      "Воротников Илья Владимирович": 12,
-      "Дубовицкий Денис Михайлович": 25,
-      "Поляков Александр Алексеевич": 158
+      "2682000855320": 67,
+      "2682000857911": 10,
+      "2682000855594": 33,
+      "2682000858426": 12,
+      "2682000855573": 25,
+      "2682000856170": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "4684006163837",
+    "uikName": "УИК №140",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 35,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 16,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 10,
-      "Поляков Александр Алексеевич": 220
+      "2682000855320": 35,
+      "2682000857911": 3,
+      "2682000855594": 16,
+      "2682000858426": 5,
+      "2682000855573": 10,
+      "2682000856170": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "4684006163838",
+    "uikName": "УИК №141",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 391,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 51,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 26,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 8,
-      "Поляков Александр Алексеевич": 217
+      "2682000855320": 51,
+      "2682000857911": 1,
+      "2682000855594": 26,
+      "2682000858426": 9,
+      "2682000855573": 8,
+      "2682000856170": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "4684006163839",
+    "uikName": "УИК №142",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 459,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 65,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 3,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 2,
-      "Поляков Александр Алексеевич": 298
+      "2682000855320": 65,
+      "2682000857911": 2,
+      "2682000855594": 3,
+      "2682000858426": 3,
+      "2682000855573": 2,
+      "2682000856170": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "4684006163840",
+    "uikName": "УИК №143",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1065,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 166,
-      "Анциферов Юрий Дмитриевич": 14,
-      "Бадак Елена Сергеевна": 65,
-      "Воротников Илья Владимирович": 20,
-      "Дубовицкий Денис Михайлович": 48,
-      "Поляков Александр Алексеевич": 199
+      "2682000855320": 166,
+      "2682000857911": 14,
+      "2682000855594": 65,
+      "2682000858426": 20,
+      "2682000855573": 48,
+      "2682000856170": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "4684006163841",
+    "uikName": "УИК №144",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 561,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 79,
-      "Анциферов Юрий Дмитриевич": 14,
-      "Бадак Елена Сергеевна": 25,
-      "Воротников Илья Владимирович": 23,
-      "Дубовицкий Денис Михайлович": 22,
-      "Поляков Александр Алексеевич": 94
+      "2682000855320": 79,
+      "2682000857911": 14,
+      "2682000855594": 25,
+      "2682000858426": 23,
+      "2682000855573": 22,
+      "2682000856170": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "4684006163842",
+    "uikName": "УИК №145",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 20,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 3,
-      "Поляков Александр Алексеевич": 209
+      "2682000855320": 20,
+      "2682000857911": 3,
+      "2682000855594": 6,
+      "2682000858426": 0,
+      "2682000855573": 3,
+      "2682000856170": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "4684006163843",
+    "uikName": "УИК №147",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 53,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 27,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 14,
-      "Поляков Александр Алексеевич": 348
+      "2682000855320": 53,
+      "2682000857911": 5,
+      "2682000855594": 27,
+      "2682000858426": 8,
+      "2682000855573": 14,
+      "2682000856170": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "4684006163844",
+    "uikName": "УИК №148",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 326,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 35,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 24,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 201
+      "2682000855320": 35,
+      "2682000857911": 6,
+      "2682000855594": 24,
+      "2682000858426": 6,
+      "2682000855573": 11,
+      "2682000856170": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "4684006163845",
+    "uikName": "УИК №150",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 703,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 100,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 37,
-      "Воротников Илья Владимирович": 23,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 351
+      "2682000855320": 100,
+      "2682000857911": 3,
+      "2682000855594": 37,
+      "2682000858426": 23,
+      "2682000855573": 20,
+      "2682000856170": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "4684006163846",
+    "uikName": "УИК №152",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 409,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 39,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 32,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 18,
-      "Поляков Александр Алексеевич": 246
+      "2682000855320": 39,
+      "2682000857911": 2,
+      "2682000855594": 32,
+      "2682000858426": 3,
+      "2682000855573": 18,
+      "2682000856170": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "4684006163847",
+    "uikName": "УИК №153",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 228,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 41,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 19,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 3,
-      "Поляков Александр Алексеевич": 117
+      "2682000855320": 41,
+      "2682000857911": 6,
+      "2682000855594": 19,
+      "2682000858426": 3,
+      "2682000855573": 3,
+      "2682000856170": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "4684006163848",
+    "uikName": "УИК №154",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 206,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 23,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 9,
-      "Воротников Илья Владимирович": 10,
-      "Дубовицкий Денис Михайлович": 16,
-      "Поляков Александр Алексеевич": 104
+      "2682000855320": 23,
+      "2682000857911": 4,
+      "2682000855594": 9,
+      "2682000858426": 10,
+      "2682000855573": 16,
+      "2682000856170": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "4684006163849",
+    "uikName": "УИК №156",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 312,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 21,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 7,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 3,
-      "Поляков Александр Алексеевич": 218
+      "2682000855320": 21,
+      "2682000857911": 1,
+      "2682000855594": 7,
+      "2682000858426": 4,
+      "2682000855573": 3,
+      "2682000856170": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "4684006163850",
+    "uikName": "УИК №158",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 379,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 69,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 16,
-      "Поляков Александр Алексеевич": 243
+      "2682000855320": 69,
+      "2682000857911": 4,
+      "2682000855594": 11,
+      "2682000858426": 4,
+      "2682000855573": 16,
+      "2682000856170": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "4684006163851",
+    "uikName": "УИК №159",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 333,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 55,
-      "Анциферов Юрий Дмитриевич": 10,
-      "Бадак Елена Сергеевна": 20,
-      "Воротников Илья Владимирович": 7,
-      "Дубовицкий Денис Михайлович": 18,
-      "Поляков Александр Алексеевич": 173
+      "2682000855320": 55,
+      "2682000857911": 10,
+      "2682000855594": 20,
+      "2682000858426": 7,
+      "2682000855573": 18,
+      "2682000856170": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "4684006163852",
+    "uikName": "УИК №160",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 343,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 45,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 32,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 22,
-      "Поляков Александр Алексеевич": 193
+      "2682000855320": 45,
+      "2682000857911": 1,
+      "2682000855594": 32,
+      "2682000858426": 6,
+      "2682000855573": 22,
+      "2682000856170": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "4684006163853",
+    "uikName": "УИК №161",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 313,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 95,
-      "Воротников Илья Владимирович": 38,
-      "Дубовицкий Денис Михайлович": 48,
-      "Поляков Александр Алексеевич": 218
+      "2682000855320": 313,
+      "2682000857911": 12,
+      "2682000855594": 95,
+      "2682000858426": 38,
+      "2682000855573": 48,
+      "2682000856170": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "4684006163854",
+    "uikName": "УИК №162",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 767,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 131,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 47,
-      "Воротников Илья Владимирович": 18,
-      "Дубовицкий Денис Михайлович": 35,
-      "Поляков Александр Алексеевич": 149
+      "2682000855320": 131,
+      "2682000857911": 7,
+      "2682000855594": 47,
+      "2682000858426": 18,
+      "2682000855573": 35,
+      "2682000856170": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "4684006163855",
+    "uikName": "УИК №163",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 950,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 160,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 15,
-      "Воротников Илья Владимирович": 17,
-      "Дубовицкий Денис Михайлович": 22,
-      "Поляков Александр Алексеевич": 219
+      "2682000855320": 160,
+      "2682000857911": 8,
+      "2682000855594": 15,
+      "2682000858426": 17,
+      "2682000855573": 22,
+      "2682000856170": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "4684006163856",
+    "uikName": "УИК №164",
     "tikTvd": "2682000842252",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1289,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 181,
-      "Анциферов Юрий Дмитриевич": 15,
-      "Бадак Елена Сергеевна": 68,
-      "Воротников Илья Владимирович": 39,
-      "Дубовицкий Денис Михайлович": 34,
-      "Поляков Александр Алексеевич": 383
+      "2682000855320": 181,
+      "2682000857911": 15,
+      "2682000855594": 68,
+      "2682000858426": 39,
+      "2682000855573": 34,
+      "2682000856170": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.549769+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842252&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842252&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "4684005317833",
+    "uikName": "УИК №94",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1045,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 149,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 30,
-      "Воротников Илья Владимирович": 26,
-      "Дубовицкий Денис Михайлович": 55,
-      "Поляков Александр Алексеевич": 293
+      "2682000855320": 149,
+      "2682000857911": 6,
+      "2682000855594": 30,
+      "2682000858426": 26,
+      "2682000855573": 55,
+      "2682000856170": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "4684005317834",
+    "uikName": "УИК №95",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 883,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 124,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 31,
-      "Воротников Илья Владимирович": 33,
-      "Дубовицкий Денис Михайлович": 39,
-      "Поляков Александр Алексеевич": 120
+      "2682000855320": 124,
+      "2682000857911": 12,
+      "2682000855594": 31,
+      "2682000858426": 33,
+      "2682000855573": 39,
+      "2682000856170": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "4684005317835",
+    "uikName": "УИК №96",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1061,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 135,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 36,
-      "Воротников Илья Владимирович": 26,
-      "Дубовицкий Денис Михайлович": 28,
-      "Поляков Александр Алексеевич": 157
+      "2682000855320": 135,
+      "2682000857911": 7,
+      "2682000855594": 36,
+      "2682000858426": 26,
+      "2682000855573": 28,
+      "2682000856170": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "4684005317836",
+    "uikName": "УИК №97",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 882,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 113,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 41,
-      "Воротников Илья Владимирович": 30,
-      "Дубовицкий Денис Михайлович": 31,
-      "Поляков Александр Алексеевич": 232
+      "2682000855320": 113,
+      "2682000857911": 12,
+      "2682000855594": 41,
+      "2682000858426": 30,
+      "2682000855573": 31,
+      "2682000856170": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "4684005317837",
+    "uikName": "УИК №98",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 776,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 126,
-      "Анциферов Юрий Дмитриевич": 10,
-      "Бадак Елена Сергеевна": 23,
-      "Воротников Илья Владимирович": 13,
-      "Дубовицкий Денис Михайлович": 24,
-      "Поляков Александр Алексеевич": 112
+      "2682000855320": 126,
+      "2682000857911": 10,
+      "2682000855594": 23,
+      "2682000858426": 13,
+      "2682000855573": 24,
+      "2682000856170": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "4684005317838",
+    "uikName": "УИК №99",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 634,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 89,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 16,
-      "Воротников Илья Владимирович": 23,
-      "Дубовицкий Денис Михайлович": 23,
-      "Поляков Александр Алексеевич": 256
+      "2682000855320": 89,
+      "2682000857911": 3,
+      "2682000855594": 16,
+      "2682000858426": 23,
+      "2682000855573": 23,
+      "2682000856170": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "4684005317839",
+    "uikName": "УИК №100",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1014,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 174,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 36,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 356
+      "2682000855320": 174,
+      "2682000857911": 4,
+      "2682000855594": 36,
+      "2682000858426": 8,
+      "2682000855573": 7,
+      "2682000856170": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4684005317840",
+    "uikName": "УИК №101",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1112,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 143,
-      "Анциферов Юрий Дмитриевич": 13,
-      "Бадак Елена Сергеевна": 52,
-      "Воротников Илья Владимирович": 18,
-      "Дубовицкий Денис Михайлович": 34,
-      "Поляков Александр Алексеевич": 215
+      "2682000855320": 143,
+      "2682000857911": 13,
+      "2682000855594": 52,
+      "2682000858426": 18,
+      "2682000855573": 34,
+      "2682000856170": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4684005317841",
+    "uikName": "УИК №102",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 43,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 22,
-      "Воротников Илья Владимирович": 14,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 142
+      "2682000855320": 43,
+      "2682000857911": 4,
+      "2682000855594": 22,
+      "2682000858426": 14,
+      "2682000855573": 20,
+      "2682000856170": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4684005317842",
+    "uikName": "УИК №103",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 351,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 42,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 10,
-      "Поляков Александр Алексеевич": 202
+      "2682000855320": 42,
+      "2682000857911": 6,
+      "2682000855594": 10,
+      "2682000858426": 4,
+      "2682000855573": 10,
+      "2682000856170": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4684005317843",
+    "uikName": "УИК №104",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 150,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 16,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 8,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 10,
-      "Поляков Александр Алексеевич": 73
+      "2682000855320": 16,
+      "2682000857911": 2,
+      "2682000855594": 8,
+      "2682000858426": 2,
+      "2682000855573": 10,
+      "2682000856170": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "4684005317844",
+    "uikName": "УИК №105",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 72,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 35,
-      "Воротников Илья Владимирович": 11,
-      "Дубовицкий Денис Михайлович": 21,
-      "Поляков Александр Алексеевич": 106
+      "2682000855320": 72,
+      "2682000857911": 9,
+      "2682000855594": 35,
+      "2682000858426": 11,
+      "2682000855573": 21,
+      "2682000856170": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4684005317845",
+    "uikName": "УИК №106",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 75,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 26,
-      "Воротников Илья Владимирович": 12,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 186
+      "2682000855320": 75,
+      "2682000857911": 5,
+      "2682000855594": 26,
+      "2682000858426": 12,
+      "2682000855573": 20,
+      "2682000856170": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "4684005317846",
+    "uikName": "УИК №107",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 147,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 32,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 7,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 70
+      "2682000855320": 32,
+      "2682000857911": 3,
+      "2682000855594": 7,
+      "2682000858426": 2,
+      "2682000855573": 6,
+      "2682000856170": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "4684005317848",
+    "uikName": "УИК №109",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 385,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 81,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 30,
-      "Воротников Илья Владимирович": 10,
-      "Дубовицкий Денис Михайлович": 21,
-      "Поляков Александр Алексеевич": 92
+      "2682000855320": 81,
+      "2682000857911": 9,
+      "2682000855594": 30,
+      "2682000858426": 10,
+      "2682000855573": 21,
+      "2682000856170": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "4684005317850",
+    "uikName": "УИК №111",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 316,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 34,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 27,
-      "Воротников Илья Владимирович": 23,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 115
+      "2682000855320": 34,
+      "2682000857911": 6,
+      "2682000855594": 27,
+      "2682000858426": 23,
+      "2682000855573": 13,
+      "2682000856170": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "4684005317851",
+    "uikName": "УИК №112",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 15,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 30
+      "2682000855320": 15,
+      "2682000857911": 1,
+      "2682000855594": 11,
+      "2682000858426": 5,
+      "2682000855573": 7,
+      "2682000856170": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "4684005317853",
+    "uikName": "УИК №114",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 163,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 20,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 7,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 9,
-      "Поляков Александр Алексеевич": 90
+      "2682000855320": 20,
+      "2682000857911": 4,
+      "2682000855594": 7,
+      "2682000858426": 3,
+      "2682000855573": 9,
+      "2682000856170": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "4684005317855",
+    "uikName": "УИК №116",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 931,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 143,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 74,
-      "Воротников Илья Владимирович": 18,
-      "Дубовицкий Денис Михайлович": 30,
-      "Поляков Александр Алексеевич": 135
+      "2682000855320": 143,
+      "2682000857911": 6,
+      "2682000855594": 74,
+      "2682000858426": 18,
+      "2682000855573": 30,
+      "2682000856170": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "4684005317856",
+    "uikName": "УИК №117",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 496,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 99,
-      "Анциферов Юрий Дмитриевич": 15,
-      "Бадак Елена Сергеевна": 34,
-      "Воротников Илья Владимирович": 16,
-      "Дубовицкий Денис Михайлович": 18,
-      "Поляков Александр Алексеевич": 182
+      "2682000855320": 99,
+      "2682000857911": 15,
+      "2682000855594": 34,
+      "2682000858426": 16,
+      "2682000855573": 18,
+      "2682000856170": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "4684005317857",
+    "uikName": "УИК №118",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 40,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 24,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 172
+      "2682000855320": 40,
+      "2682000857911": 8,
+      "2682000855594": 24,
+      "2682000858426": 8,
+      "2682000855573": 13,
+      "2682000856170": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "4684005317858",
+    "uikName": "УИК №119",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 262,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 47,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 17,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 137
+      "2682000855320": 47,
+      "2682000857911": 7,
+      "2682000855594": 17,
+      "2682000858426": 5,
+      "2682000855573": 6,
+      "2682000856170": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "4684005317859",
+    "uikName": "УИК №120",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 392,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 89,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 13,
-      "Дубовицкий Денис Михайлович": 9,
-      "Поляков Александр Алексеевич": 119
+      "2682000855320": 89,
+      "2682000857911": 3,
+      "2682000855594": 11,
+      "2682000858426": 13,
+      "2682000855573": 9,
+      "2682000856170": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "4684005317860",
+    "uikName": "УИК №121",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 50,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 9,
-      "Поляков Александр Алексеевич": 65
+      "2682000855320": 50,
+      "2682000857911": 2,
+      "2682000855594": 6,
+      "2682000858426": 2,
+      "2682000855573": 9,
+      "2682000856170": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "4684005317861",
+    "uikName": "УИК №122",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 198,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 25,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 97
+      "2682000855320": 25,
+      "2682000857911": 3,
+      "2682000855594": 6,
+      "2682000858426": 5,
+      "2682000855573": 15,
+      "2682000856170": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "4684005317862",
+    "uikName": "УИК №123",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 40,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 9,
-      "Воротников Илья Владимирович": 1,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 91
+      "2682000855320": 40,
+      "2682000857911": 0,
+      "2682000855594": 9,
+      "2682000858426": 1,
+      "2682000855573": 7,
+      "2682000856170": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "4684005317863",
+    "uikName": "УИК №124",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 177,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 36,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 8,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 8,
-      "Поляков Александр Алексеевич": 76
+      "2682000855320": 36,
+      "2682000857911": 7,
+      "2682000855594": 8,
+      "2682000858426": 4,
+      "2682000855573": 8,
+      "2682000856170": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "4684005317864",
+    "uikName": "УИК №125",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 280,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 48,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 9,
-      "Поляков Александр Алексеевич": 168
+      "2682000855320": 48,
+      "2682000857911": 3,
+      "2682000855594": 6,
+      "2682000858426": 5,
+      "2682000855573": 9,
+      "2682000856170": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "4684005317865",
+    "uikName": "УИК №126",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 313,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 60,
-      "Анциферов Юрий Дмитриевич": 11,
-      "Бадак Елена Сергеевна": 18,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 12,
-      "Поляков Александр Алексеевич": 70
+      "2682000855320": 60,
+      "2682000857911": 11,
+      "2682000855594": 18,
+      "2682000858426": 9,
+      "2682000855573": 12,
+      "2682000856170": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "4684005317866",
+    "uikName": "УИК №127",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 150,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 18,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 8,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 82
+      "2682000855320": 18,
+      "2682000857911": 2,
+      "2682000855594": 8,
+      "2682000858426": 3,
+      "2682000855573": 7,
+      "2682000856170": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "4684005317867",
+    "uikName": "УИК №128",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 137,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 19,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 3,
-      "Поляков Александр Алексеевич": 82
+      "2682000855320": 19,
+      "2682000857911": 0,
+      "2682000855594": 6,
+      "2682000858426": 0,
+      "2682000855573": 3,
+      "2682000856170": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "4684005317868",
+    "uikName": "УИК №129",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 481,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 480,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 77,
-      "Анциферов Юрий Дмитриевич": 11,
-      "Бадак Елена Сергеевна": 13,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 216
+      "2682000855320": 77,
+      "2682000857911": 11,
+      "2682000855594": 13,
+      "2682000858426": 9,
+      "2682000855573": 11,
+      "2682000856170": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "4684005317869",
+    "uikName": "УИК №130",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 154,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 28,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 23,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 29
+      "2682000855320": 28,
+      "2682000857911": 7,
+      "2682000855594": 23,
+      "2682000858426": 9,
+      "2682000855573": 7,
+      "2682000856170": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "4684005317870",
+    "uikName": "УИК №131",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 542,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 128,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 25,
-      "Воротников Илья Владимирович": 18,
-      "Дубовицкий Денис Михайлович": 26,
-      "Поляков Александр Алексеевич": 208
+      "2682000855320": 128,
+      "2682000857911": 8,
+      "2682000855594": 25,
+      "2682000858426": 18,
+      "2682000855573": 26,
+      "2682000856170": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "4684005317871",
+    "uikName": "УИК №132",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 288,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 76,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 16,
-      "Воротников Илья Владимирович": 17,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 74
+      "2682000855320": 76,
+      "2682000857911": 5,
+      "2682000855594": 16,
+      "2682000858426": 17,
+      "2682000855573": 13,
+      "2682000856170": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "4684005317872",
+    "uikName": "УИК №133",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 56,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 24,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 19,
-      "Поляков Александр Алексеевич": 83
+      "2682000855320": 56,
+      "2682000857911": 8,
+      "2682000855594": 24,
+      "2682000858426": 3,
+      "2682000855573": 19,
+      "2682000856170": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "4684005317873",
+    "uikName": "УИК №134",
     "tikTvd": "2682000842253",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 242,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 54,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 28,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 14,
-      "Поляков Александр Алексеевич": 74
+      "2682000855320": 54,
+      "2682000857911": 7,
+      "2682000855594": 28,
+      "2682000858426": 6,
+      "2682000855573": 14,
+      "2682000856170": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:34.751596+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842253&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842253&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "4684004161196",
+    "uikName": "УИК №75",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 457,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 57,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 10,
-      "Поляков Александр Алексеевич": 347
+      "2682000855320": 57,
+      "2682000857911": 1,
+      "2682000855594": 10,
+      "2682000858426": 9,
+      "2682000855573": 10,
+      "2682000856170": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "4684004161197",
+    "uikName": "УИК №76",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 58,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 28,
-      "Воротников Илья Владимирович": 7,
-      "Дубовицкий Денис Михайлович": 26,
-      "Поляков Александр Алексеевич": 135
+      "2682000855320": 58,
+      "2682000857911": 7,
+      "2682000855594": 28,
+      "2682000858426": 7,
+      "2682000855573": 26,
+      "2682000856170": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "4684004161198",
+    "uikName": "УИК №77",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 644,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 670,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 110,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 25,
-      "Воротников Илья Владимирович": 17,
-      "Дубовицкий Денис Михайлович": 33,
-      "Поляков Александр Алексеевич": 224
+      "2682000855320": 110,
+      "2682000857911": 9,
+      "2682000855594": 25,
+      "2682000858426": 17,
+      "2682000855573": 33,
+      "2682000856170": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "4684004161199",
+    "uikName": "УИК №78",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 184,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 31,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 5,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 4,
-      "Поляков Александр Алексеевич": 121
+      "2682000855320": 31,
+      "2682000857911": 3,
+      "2682000855594": 5,
+      "2682000858426": 5,
+      "2682000855573": 4,
+      "2682000856170": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "4684004161200",
+    "uikName": "УИК №79",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1621,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1630,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 280,
-      "Анциферов Юрий Дмитриевич": 41,
-      "Бадак Елена Сергеевна": 131,
-      "Воротников Илья Владимирович": 71,
-      "Дубовицкий Денис Михайлович": 103,
-      "Поляков Александр Алексеевич": 357
+      "2682000855320": 280,
+      "2682000857911": 41,
+      "2682000855594": 131,
+      "2682000858426": 71,
+      "2682000855573": 103,
+      "2682000856170": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "4684004161201",
+    "uikName": "УИК №80",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 591,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 51,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 23,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 451
+      "2682000855320": 51,
+      "2682000857911": 5,
+      "2682000855594": 23,
+      "2682000858426": 8,
+      "2682000855573": 20,
+      "2682000856170": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "4684004161202",
+    "uikName": "УИК №81",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 247,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 23,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 188
+      "2682000855320": 23,
+      "2682000857911": 3,
+      "2682000855594": 10,
+      "2682000858426": 5,
+      "2682000855573": 7,
+      "2682000856170": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "4684004161203",
+    "uikName": "УИК №82",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 320,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 41,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 13,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 147
+      "2682000855320": 41,
+      "2682000857911": 2,
+      "2682000855594": 13,
+      "2682000858426": 6,
+      "2682000855573": 13,
+      "2682000856170": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "4684004161204",
+    "uikName": "УИК №83",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 148,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 145,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 13,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 0,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 118
+      "2682000855320": 13,
+      "2682000857911": 0,
+      "2682000855594": 0,
+      "2682000858426": 0,
+      "2682000855573": 7,
+      "2682000856170": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "4684004161205",
+    "uikName": "УИК №84",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 732,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 740,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 12,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 30,
-      "Воротников Илья Владимирович": 23,
-      "Дубовицкий Денис Михайлович": 41,
-      "Поляков Александр Алексеевич": 496
+      "2682000855320": 12,
+      "2682000857911": 12,
+      "2682000855594": 30,
+      "2682000858426": 23,
+      "2682000855573": 41,
+      "2682000856170": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "4684004161206",
+    "uikName": "УИК №85",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 490,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 490,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 41,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 25,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 18,
-      "Поляков Александр Алексеевич": 376
+      "2682000855320": 41,
+      "2682000857911": 2,
+      "2682000855594": 25,
+      "2682000858426": 2,
+      "2682000855573": 18,
+      "2682000856170": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "4684004161207",
+    "uikName": "УИК №86",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 32,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 9,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 232
+      "2682000855320": 32,
+      "2682000857911": 4,
+      "2682000855594": 9,
+      "2682000858426": 6,
+      "2682000855573": 7,
+      "2682000856170": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "4684004161208",
+    "uikName": "УИК №87",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 784,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 830,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 63,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 42,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 37,
-      "Поляков Александр Алексеевич": 596
+      "2682000855320": 63,
+      "2682000857911": 9,
+      "2682000855594": 42,
+      "2682000858426": 3,
+      "2682000855573": 37,
+      "2682000856170": 596
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "4684004161209",
+    "uikName": "УИК №88",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 340,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 11,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 259
+      "2682000855320": 11,
+      "2682000857911": 4,
+      "2682000855594": 10,
+      "2682000858426": 8,
+      "2682000855573": 15,
+      "2682000856170": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "4684004161210",
+    "uikName": "УИК №90",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 851,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 890,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 120,
-      "Анциферов Юрий Дмитриевич": 18,
-      "Бадак Елена Сергеевна": 40,
-      "Воротников Илья Владимирович": 32,
-      "Дубовицкий Денис Михайлович": 46,
-      "Поляков Александр Алексеевич": 433
+      "2682000855320": 120,
+      "2682000857911": 18,
+      "2682000855594": 40,
+      "2682000858426": 32,
+      "2682000855573": 46,
+      "2682000856170": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "4684004161211",
+    "uikName": "УИК №91",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1615,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 280,
-      "Анциферов Юрий Дмитриевич": 14,
-      "Бадак Елена Сергеевна": 81,
-      "Воротников Илья Владимирович": 38,
-      "Дубовицкий Денис Михайлович": 56,
-      "Поляков Александр Алексеевич": 234
+      "2682000855320": 280,
+      "2682000857911": 14,
+      "2682000855594": 81,
+      "2682000858426": 38,
+      "2682000855573": 56,
+      "2682000856170": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "4684004161212",
+    "uikName": "УИК №92",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1781,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 269,
-      "Анциферов Юрий Дмитриевич": 14,
-      "Бадак Елена Сергеевна": 68,
-      "Воротников Илья Владимирович": 49,
-      "Дубовицкий Денис Михайлович": 72,
-      "Поляков Александр Алексеевич": 303
+      "2682000855320": 269,
+      "2682000857911": 14,
+      "2682000855594": 68,
+      "2682000858426": 49,
+      "2682000855573": 72,
+      "2682000856170": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "4684004161213",
+    "uikName": "УИК №93",
     "tikTvd": "2682000842254",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1569,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 200,
-      "Анциферов Юрий Дмитриевич": 13,
-      "Бадак Елена Сергеевна": 57,
-      "Воротников Илья Владимирович": 51,
-      "Дубовицкий Денис Михайлович": 61,
-      "Поляков Александр Алексеевич": 258
+      "2682000855320": 200,
+      "2682000857911": 13,
+      "2682000855594": 57,
+      "2682000858426": 51,
+      "2682000855573": 61,
+      "2682000856170": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603083+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842254&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842254&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4684003182222",
+    "uikName": "УИК №39",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1125,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 101,
-      "Анциферов Юрий Дмитриевич": 91,
-      "Бадак Елена Сергеевна": 58,
-      "Воротников Илья Владимирович": 21,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 540
+      "2682000855320": 101,
+      "2682000857911": 91,
+      "2682000855594": 58,
+      "2682000858426": 21,
+      "2682000855573": 20,
+      "2682000856170": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4684003182223",
+    "uikName": "УИК №40",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1397,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 80,
-      "Анциферов Юрий Дмитриевич": 23,
-      "Бадак Елена Сергеевна": 82,
-      "Воротников Илья Владимирович": 33,
-      "Дубовицкий Денис Михайлович": 76,
-      "Поляков Александр Алексеевич": 466
+      "2682000855320": 80,
+      "2682000857911": 23,
+      "2682000855594": 82,
+      "2682000858426": 33,
+      "2682000855573": 76,
+      "2682000856170": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4684003182224",
+    "uikName": "УИК №41",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 877,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 113,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 39,
-      "Воротников Илья Владимирович": 24,
-      "Дубовицкий Денис Михайлович": 42,
-      "Поляков Александр Алексеевич": 390
+      "2682000855320": 113,
+      "2682000857911": 9,
+      "2682000855594": 39,
+      "2682000858426": 24,
+      "2682000855573": 42,
+      "2682000856170": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4684003182225",
+    "uikName": "УИК №42",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1049,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 104,
-      "Анциферов Юрий Дмитриевич": 10,
-      "Бадак Елена Сергеевна": 48,
-      "Воротников Илья Владимирович": 38,
-      "Дубовицкий Денис Михайлович": 63,
-      "Поляков Александр Алексеевич": 497
+      "2682000855320": 104,
+      "2682000857911": 10,
+      "2682000855594": 48,
+      "2682000858426": 38,
+      "2682000855573": 63,
+      "2682000856170": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4684003182226",
+    "uikName": "УИК №43",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 436,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 38,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 17,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 27,
-      "Поляков Александр Алексеевич": 149
+      "2682000855320": 38,
+      "2682000857911": 5,
+      "2682000855594": 17,
+      "2682000858426": 5,
+      "2682000855573": 27,
+      "2682000856170": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4684003182227",
+    "uikName": "УИК №44",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 89,
-      "Анциферов Юрий Дмитриевич": 11,
-      "Бадак Елена Сергеевна": 49,
-      "Воротников Илья Владимирович": 47,
-      "Дубовицкий Денис Михайлович": 52,
-      "Поляков Александр Алексеевич": 530
+      "2682000855320": 89,
+      "2682000857911": 11,
+      "2682000855594": 49,
+      "2682000858426": 47,
+      "2682000855573": 52,
+      "2682000856170": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4684003182228",
+    "uikName": "УИК №45",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1311,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 101,
-      "Анциферов Юрий Дмитриевич": 73,
-      "Бадак Елена Сергеевна": 91,
-      "Воротников Илья Владимирович": 46,
-      "Дубовицкий Денис Михайлович": 55,
-      "Поляков Александр Алексеевич": 552
+      "2682000855320": 101,
+      "2682000857911": 73,
+      "2682000855594": 91,
+      "2682000858426": 46,
+      "2682000855573": 55,
+      "2682000856170": 552
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4684003182229",
+    "uikName": "УИК №46",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 174,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 62,
-      "Воротников Илья Владимирович": 51,
-      "Дубовицкий Денис Михайлович": 0,
-      "Поляков Александр Алексеевич": 571
+      "2682000855320": 174,
+      "2682000857911": 12,
+      "2682000855594": 62,
+      "2682000858426": 51,
+      "2682000855573": 0,
+      "2682000856170": 571
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4684003182230",
+    "uikName": "УИК №47",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 957,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 26,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 22,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 27,
-      "Поляков Александр Алексеевич": 597
+      "2682000855320": 26,
+      "2682000857911": 7,
+      "2682000855594": 22,
+      "2682000858426": 9,
+      "2682000855573": 27,
+      "2682000856170": 597
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4684003182231",
+    "uikName": "УИК №48",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1016,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 138,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 69,
-      "Воротников Илья Владимирович": 28,
-      "Дубовицкий Денис Михайлович": 56,
-      "Поляков Александр Алексеевич": 429
+      "2682000855320": 138,
+      "2682000857911": 12,
+      "2682000855594": 69,
+      "2682000858426": 28,
+      "2682000855573": 56,
+      "2682000856170": 429
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4684003182232",
+    "uikName": "УИК №49",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 407,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 64,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 24,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 24,
-      "Поляков Александр Алексеевич": 150
+      "2682000855320": 64,
+      "2682000857911": 5,
+      "2682000855594": 24,
+      "2682000858426": 8,
+      "2682000855573": 24,
+      "2682000856170": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4684003182233",
+    "uikName": "УИК №50",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 791,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 71,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 32,
-      "Воротников Илья Владимирович": 17,
-      "Дубовицкий Денис Михайлович": 27,
-      "Поляков Александр Алексеевич": 454
+      "2682000855320": 71,
+      "2682000857911": 5,
+      "2682000855594": 32,
+      "2682000858426": 17,
+      "2682000855573": 27,
+      "2682000856170": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4684003182234",
+    "uikName": "УИК №51",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 830,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 89,
-      "Анциферов Юрий Дмитриевич": 10,
-      "Бадак Елена Сергеевна": 43,
-      "Воротников Илья Владимирович": 15,
-      "Дубовицкий Денис Михайлович": 54,
-      "Поляков Александр Алексеевич": 488
+      "2682000855320": 89,
+      "2682000857911": 10,
+      "2682000855594": 43,
+      "2682000858426": 15,
+      "2682000855573": 54,
+      "2682000856170": 488
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4684003182235",
+    "uikName": "УИК №53",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 495,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 41,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 14,
-      "Воротников Илья Владимирович": 16,
-      "Дубовицкий Денис Михайлович": 24,
-      "Поляков Александр Алексеевич": 280
+      "2682000855320": 41,
+      "2682000857911": 5,
+      "2682000855594": 14,
+      "2682000858426": 16,
+      "2682000855573": 24,
+      "2682000856170": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4684003182236",
+    "uikName": "УИК №54",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 42,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 29,
-      "Воротников Илья Владимирович": 14,
-      "Дубовицкий Денис Михайлович": 17,
-      "Поляков Александр Алексеевич": 151
+      "2682000855320": 42,
+      "2682000857911": 3,
+      "2682000855594": 29,
+      "2682000858426": 14,
+      "2682000855573": 17,
+      "2682000856170": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4684003182237",
+    "uikName": "УИК №55",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 216,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 23,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 12,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 17,
-      "Поляков Александр Алексеевич": 98
+      "2682000855320": 23,
+      "2682000857911": 4,
+      "2682000855594": 12,
+      "2682000858426": 4,
+      "2682000855573": 17,
+      "2682000856170": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4684003182238",
+    "uikName": "УИК №56",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 562,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 72,
-      "Анциферов Юрий Дмитриевич": 6,
-      "Бадак Елена Сергеевна": 27,
-      "Воротников Илья Владимирович": 32,
-      "Дубовицкий Денис Михайлович": 22,
-      "Поляков Александр Алексеевич": 236
+      "2682000855320": 72,
+      "2682000857911": 6,
+      "2682000855594": 27,
+      "2682000858426": 32,
+      "2682000855573": 22,
+      "2682000856170": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4684003182239",
+    "uikName": "УИК №57",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 490,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 71,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 37,
-      "Воротников Илья Владимирович": 41,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 167
+      "2682000855320": 71,
+      "2682000857911": 12,
+      "2682000855594": 37,
+      "2682000858426": 41,
+      "2682000855573": 20,
+      "2682000856170": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "4684003182240",
+    "uikName": "УИК №58",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 566,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 51,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 17,
-      "Воротников Илья Владимирович": 9,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 285
+      "2682000855320": 51,
+      "2682000857911": 1,
+      "2682000855594": 17,
+      "2682000858426": 9,
+      "2682000855573": 20,
+      "2682000856170": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "4684003182241",
+    "uikName": "УИК №59",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 556,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 91,
-      "Анциферов Юрий Дмитриевич": 13,
-      "Бадак Елена Сергеевна": 48,
-      "Воротников Илья Владимирович": 17,
-      "Дубовицкий Денис Михайлович": 29,
-      "Поляков Александр Алексеевич": 173
+      "2682000855320": 91,
+      "2682000857911": 13,
+      "2682000855594": 48,
+      "2682000858426": 17,
+      "2682000855573": 29,
+      "2682000856170": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4684003182242",
+    "uikName": "УИК №60",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 10,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 46
+      "2682000855320": 10,
+      "2682000857911": 1,
+      "2682000855594": 11,
+      "2682000858426": 6,
+      "2682000855573": 13,
+      "2682000856170": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4684003182243",
+    "uikName": "УИК №61",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 892,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 90,
-      "Анциферов Юрий Дмитриевич": 9,
-      "Бадак Елена Сергеевна": 24,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 27,
-      "Поляков Александр Алексеевич": 404
+      "2682000855320": 90,
+      "2682000857911": 9,
+      "2682000855594": 24,
+      "2682000858426": 5,
+      "2682000855573": 27,
+      "2682000856170": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4684003182244",
+    "uikName": "УИК №63",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 192,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 24,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 12,
-      "Поляков Александр Алексеевич": 99
+      "2682000855320": 24,
+      "2682000857911": 1,
+      "2682000855594": 11,
+      "2682000858426": 4,
+      "2682000855573": 12,
+      "2682000856170": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "4684003182245",
+    "uikName": "УИК №64",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 342,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 51,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 26,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 171
+      "2682000855320": 51,
+      "2682000857911": 3,
+      "2682000855594": 26,
+      "2682000858426": 6,
+      "2682000855573": 15,
+      "2682000856170": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "4684003182246",
+    "uikName": "УИК №65",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 312,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 19,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 8,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 19,
-      "Поляков Александр Алексеевич": 160
+      "2682000855320": 19,
+      "2682000857911": 0,
+      "2682000855594": 8,
+      "2682000858426": 5,
+      "2682000855573": 19,
+      "2682000856170": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "4684003182247",
+    "uikName": "УИК №66",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 271,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 13,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 12,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 154
+      "2682000855320": 13,
+      "2682000857911": 5,
+      "2682000855594": 12,
+      "2682000858426": 6,
+      "2682000855573": 15,
+      "2682000856170": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "4684003182248",
+    "uikName": "УИК №67",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 835,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 86,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 48,
-      "Воротников Илья Владимирович": 11,
-      "Дубовицкий Денис Михайлович": 73,
-      "Поляков Александр Алексеевич": 413
+      "2682000855320": 86,
+      "2682000857911": 8,
+      "2682000855594": 48,
+      "2682000858426": 11,
+      "2682000855573": 73,
+      "2682000856170": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "4684003182249",
+    "uikName": "УИК №69",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 372,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 44,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 229
+      "2682000855320": 44,
+      "2682000857911": 2,
+      "2682000855594": 11,
+      "2682000858426": 2,
+      "2682000855573": 13,
+      "2682000856170": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "4684003182250",
+    "uikName": "УИК №70",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 32,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 13,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 106
+      "2682000855320": 32,
+      "2682000857911": 3,
+      "2682000855594": 13,
+      "2682000858426": 6,
+      "2682000855573": 15,
+      "2682000856170": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "4684003182251",
+    "uikName": "УИК №71",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 546,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 62,
-      "Анциферов Юрий Дмитриевич": 11,
-      "Бадак Елена Сергеевна": 19,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 29,
-      "Поляков Александр Алексеевич": 248
+      "2682000855320": 62,
+      "2682000857911": 11,
+      "2682000855594": 19,
+      "2682000858426": 8,
+      "2682000855573": 29,
+      "2682000856170": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "4684003182252",
+    "uikName": "УИК №73",
     "tikTvd": "2682000842255",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 385,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 57,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 21,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 50,
-      "Поляков Александр Алексеевич": 154
+      "2682000855320": 57,
+      "2682000857911": 3,
+      "2682000855594": 21,
+      "2682000858426": 6,
+      "2682000855573": 50,
+      "2682000856170": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:36.603233+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842255&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842255&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4684002146714",
+    "uikName": "УИК №22",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2238,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2078,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 274,
-      "Анциферов Юрий Дмитриевич": 23,
-      "Бадак Елена Сергеевна": 71,
-      "Воротников Илья Владимирович": 41,
-      "Дубовицкий Денис Михайлович": 57,
-      "Поляков Александр Алексеевич": 914
+      "2682000855320": 274,
+      "2682000857911": 23,
+      "2682000855594": 71,
+      "2682000858426": 41,
+      "2682000855573": 57,
+      "2682000856170": 914
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "4684002146715",
+    "uikName": "УИК №24",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 643,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 591,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 64,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 21,
-      "Воротников Илья Владимирович": 19,
-      "Дубовицкий Денис Михайлович": 20,
-      "Поляков Александр Алексеевич": 372
+      "2682000855320": 64,
+      "2682000857911": 0,
+      "2682000855594": 21,
+      "2682000858426": 19,
+      "2682000855573": 20,
+      "2682000856170": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "4684002146716",
+    "uikName": "УИК №25",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1025,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 101,
-      "Анциферов Юрий Дмитриевич": 10,
-      "Бадак Елена Сергеевна": 46,
-      "Воротников Илья Владимирович": 12,
-      "Дубовицкий Денис Михайлович": 17,
-      "Поляков Александр Алексеевич": 541
+      "2682000855320": 101,
+      "2682000857911": 10,
+      "2682000855594": 46,
+      "2682000858426": 12,
+      "2682000855573": 17,
+      "2682000856170": 541
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "4684002146717",
+    "uikName": "УИК №26",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 476,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 445,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 47,
-      "Анциферов Юрий Дмитриевич": 7,
-      "Бадак Елена Сергеевна": 12,
-      "Воротников Илья Владимирович": 7,
-      "Дубовицкий Денис Михайлович": 4,
-      "Поляков Александр Алексеевич": 270
+      "2682000855320": 47,
+      "2682000857911": 7,
+      "2682000855594": 12,
+      "2682000858426": 7,
+      "2682000855573": 4,
+      "2682000856170": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "4684002146718",
+    "uikName": "УИК №27",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 415,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 31,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 0,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 5,
-      "Поляков Александр Алексеевич": 268
+      "2682000855320": 31,
+      "2682000857911": 8,
+      "2682000855594": 0,
+      "2682000858426": 0,
+      "2682000855573": 5,
+      "2682000856170": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "4684002146719",
+    "uikName": "УИК №28",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 522,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 484,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 39,
-      "Анциферов Юрий Дмитриевич": 16,
-      "Бадак Елена Сергеевна": 17,
-      "Воротников Илья Владимирович": 12,
-      "Дубовицкий Денис Михайлович": 9,
-      "Поляков Александр Алексеевич": 301
+      "2682000855320": 39,
+      "2682000857911": 16,
+      "2682000855594": 17,
+      "2682000858426": 12,
+      "2682000855573": 9,
+      "2682000856170": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "4684002146720",
+    "uikName": "УИК №30",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 225,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 207,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 33,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 3,
-      "Поляков Александр Алексеевич": 133
+      "2682000855320": 33,
+      "2682000857911": 0,
+      "2682000855594": 10,
+      "2682000858426": 2,
+      "2682000855573": 3,
+      "2682000856170": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4684002146721",
+    "uikName": "УИК №31",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 384,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 24,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 8,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 243
+      "2682000855320": 24,
+      "2682000857911": 1,
+      "2682000855594": 8,
+      "2682000858426": 5,
+      "2682000855573": 6,
+      "2682000856170": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4684002146722",
+    "uikName": "УИК №32",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 164,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 149,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 25,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 71
+      "2682000855320": 25,
+      "2682000857911": 2,
+      "2682000855594": 6,
+      "2682000858426": 4,
+      "2682000855573": 6,
+      "2682000856170": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4684002146723",
+    "uikName": "УИК №33",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 213,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 197,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 17,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 113
+      "2682000855320": 17,
+      "2682000857911": 0,
+      "2682000855594": 10,
+      "2682000858426": 5,
+      "2682000855573": 7,
+      "2682000856170": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4684002146724",
+    "uikName": "УИК №34",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 383,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 361,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 50,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 12,
-      "Воротников Илья Владимирович": 6,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 192
+      "2682000855320": 50,
+      "2682000857911": 4,
+      "2682000855594": 12,
+      "2682000858426": 6,
+      "2682000855573": 13,
+      "2682000856170": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4684002146725",
+    "uikName": "УИК №35",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 221,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 206,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 21,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 7,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 7,
-      "Поляков Александр Алексеевич": 120
+      "2682000855320": 21,
+      "2682000857911": 2,
+      "2682000855594": 7,
+      "2682000858426": 3,
+      "2682000855573": 7,
+      "2682000856170": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4684002146726",
+    "uikName": "УИК №36",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 213,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 199,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 16,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 12,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 105
+      "2682000855320": 16,
+      "2682000857911": 4,
+      "2682000855594": 12,
+      "2682000858426": 3,
+      "2682000855573": 11,
+      "2682000856170": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4684002146727",
+    "uikName": "УИК №37",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 208,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 194,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 10,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 3,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 1,
-      "Поляков Александр Алексеевич": 133
+      "2682000855320": 10,
+      "2682000857911": 1,
+      "2682000855594": 3,
+      "2682000858426": 4,
+      "2682000855573": 1,
+      "2682000856170": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4684002146728",
+    "uikName": "УИК №38",
     "tikTvd": "2682000842256",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 288,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 264,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 30,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 154
+      "2682000855320": 30,
+      "2682000857911": 4,
+      "2682000855594": 11,
+      "2682000858426": 3,
+      "2682000855573": 6,
+      "2682000856170": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:37.084789+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842256&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842256&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "4684001151631",
+    "uikName": "УИК №1",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1366,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 186,
-      "Анциферов Юрий Дмитриевич": 12,
-      "Бадак Елена Сергеевна": 78,
-      "Воротников Илья Владимирович": 22,
-      "Дубовицкий Денис Михайлович": 43,
-      "Поляков Александр Алексеевич": 310
+      "2682000855320": 186,
+      "2682000857911": 12,
+      "2682000855594": 78,
+      "2682000858426": 22,
+      "2682000855573": 43,
+      "2682000856170": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "4684001151633",
+    "uikName": "УИК №2",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1391,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 162,
-      "Анциферов Юрий Дмитриевич": 11,
-      "Бадак Елена Сергеевна": 33,
-      "Воротников Илья Владимирович": 21,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 510
+      "2682000855320": 162,
+      "2682000857911": 11,
+      "2682000855594": 33,
+      "2682000858426": 21,
+      "2682000855573": 11,
+      "2682000856170": 510
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "4684001151635",
+    "uikName": "УИК №3",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 626,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 58,
-      "Анциферов Юрий Дмитриевич": 8,
-      "Бадак Елена Сергеевна": 20,
-      "Воротников Илья Владимирович": 11,
-      "Дубовицкий Денис Михайлович": 23,
-      "Поляков Александр Алексеевич": 398
+      "2682000855320": 58,
+      "2682000857911": 8,
+      "2682000855594": 20,
+      "2682000858426": 11,
+      "2682000855573": 23,
+      "2682000856170": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "4684001151637",
+    "uikName": "УИК №4",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 355,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 37,
-      "Анциферов Юрий Дмитриевич": 4,
-      "Бадак Елена Сергеевна": 17,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 158
+      "2682000855320": 37,
+      "2682000857911": 4,
+      "2682000855594": 17,
+      "2682000858426": 8,
+      "2682000855573": 11,
+      "2682000856170": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "4684001151639",
+    "uikName": "УИК №5",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 61,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 24,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 13,
-      "Поляков Александр Алексеевич": 163
+      "2682000855320": 61,
+      "2682000857911": 2,
+      "2682000855594": 24,
+      "2682000858426": 0,
+      "2682000855573": 13,
+      "2682000856170": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "4684001151641",
+    "uikName": "УИК №6",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 490,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 87,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 5,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 294
+      "2682000855320": 87,
+      "2682000857911": 0,
+      "2682000855594": 5,
+      "2682000858426": 2,
+      "2682000855573": 11,
+      "2682000856170": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4684001151643",
+    "uikName": "УИК №7",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 290,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 12,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 5,
-      "Воротников Илья Владимирович": 1,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 219
+      "2682000855320": 12,
+      "2682000857911": 0,
+      "2682000855594": 5,
+      "2682000858426": 1,
+      "2682000855573": 6,
+      "2682000856170": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4684001151645",
+    "uikName": "УИК №9",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 255,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 240,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 42,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 1,
-      "Дубовицкий Денис Михайлович": 11,
-      "Поляков Александр Алексеевич": 154
+      "2682000855320": 42,
+      "2682000857911": 2,
+      "2682000855594": 6,
+      "2682000858426": 1,
+      "2682000855573": 11,
+      "2682000856170": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4684001151647",
+    "uikName": "УИК №10",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 234,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 20,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 1,
-      "Дубовицкий Денис Михайлович": 23,
-      "Поляков Александр Алексеевич": 132
+      "2682000855320": 20,
+      "2682000857911": 5,
+      "2682000855594": 6,
+      "2682000858426": 1,
+      "2682000855573": 23,
+      "2682000856170": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4684001151649",
+    "uikName": "УИК №11",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 10,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 3,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 0,
-      "Поляков Александр Алексеевич": 161
+      "2682000855320": 10,
+      "2682000857911": 0,
+      "2682000855594": 3,
+      "2682000858426": 0,
+      "2682000855573": 0,
+      "2682000856170": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4684001151651",
+    "uikName": "УИК №12",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 12,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 3,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 3,
-      "Поляков Александр Алексеевич": 180
+      "2682000855320": 12,
+      "2682000857911": 3,
+      "2682000855594": 3,
+      "2682000858426": 0,
+      "2682000855573": 3,
+      "2682000856170": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4684001151653",
+    "uikName": "УИК №13",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 244,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 240,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 22,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 6,
-      "Воротников Илья Владимирович": 3,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 183
+      "2682000855320": 22,
+      "2682000857911": 0,
+      "2682000855594": 6,
+      "2682000858426": 3,
+      "2682000855573": 6,
+      "2682000856170": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4684001151655",
+    "uikName": "УИК №14",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 172,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 11,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 11,
-      "Воротников Илья Владимирович": 0,
-      "Дубовицкий Денис Михайлович": 0,
-      "Поляков Александр Алексеевич": 122
+      "2682000855320": 11,
+      "2682000857911": 0,
+      "2682000855594": 11,
+      "2682000858426": 0,
+      "2682000855573": 0,
+      "2682000856170": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4684001151657",
+    "uikName": "УИК №15",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 391,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 29,
-      "Анциферов Юрий Дмитриевич": 5,
-      "Бадак Елена Сергеевна": 5,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 5,
-      "Поляков Александр Алексеевич": 259
+      "2682000855320": 29,
+      "2682000857911": 5,
+      "2682000855594": 5,
+      "2682000858426": 4,
+      "2682000855573": 5,
+      "2682000856170": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4684001151659",
+    "uikName": "УИК №16",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 269,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 22,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 10,
-      "Воротников Илья Владимирович": 5,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 140
+      "2682000855320": 22,
+      "2682000857911": 2,
+      "2682000855594": 10,
+      "2682000858426": 5,
+      "2682000855573": 15,
+      "2682000856170": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4684001151661",
+    "uikName": "УИК №17",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 47,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 18,
-      "Воротников Илья Владимирович": 8,
-      "Дубовицкий Денис Михайлович": 21,
-      "Поляков Александр Алексеевич": 167
+      "2682000855320": 47,
+      "2682000857911": 2,
+      "2682000855594": 18,
+      "2682000858426": 8,
+      "2682000855573": 21,
+      "2682000856170": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4684001151663",
+    "uikName": "УИК №18",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 36,
-      "Анциферов Юрий Дмитриевич": 3,
-      "Бадак Елена Сергеевна": 19,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 15,
-      "Поляков Александр Алексеевич": 212
+      "2682000855320": 36,
+      "2682000857911": 3,
+      "2682000855594": 19,
+      "2682000858426": 4,
+      "2682000855573": 15,
+      "2682000856170": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4684001151665",
+    "uikName": "УИК №19",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 29,
-      "Анциферов Юрий Дмитриевич": 2,
-      "Бадак Елена Сергеевна": 22,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 31,
-      "Поляков Александр Алексеевич": 177
+      "2682000855320": 29,
+      "2682000857911": 2,
+      "2682000855594": 22,
+      "2682000858426": 2,
+      "2682000855573": 31,
+      "2682000856170": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4684001151667",
+    "uikName": "УИК №20",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 441,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 39,
-      "Анциферов Юрий Дмитриевич": 1,
-      "Бадак Елена Сергеевна": 9,
-      "Воротников Илья Владимирович": 2,
-      "Дубовицкий Денис Михайлович": 6,
-      "Поляков Александр Алексеевич": 276
+      "2682000855320": 39,
+      "2682000857911": 1,
+      "2682000855594": 9,
+      "2682000858426": 2,
+      "2682000855573": 6,
+      "2682000856170": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4684001151669",
+    "uikName": "УИК №21",
     "tikTvd": "2682000842257",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100225883669",
+    "regionName": "Тамбовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 221,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Александров Артём Романович": 18,
-      "Анциферов Юрий Дмитриевич": 0,
-      "Бадак Елена Сергеевна": 7,
-      "Воротников Илья Владимирович": 4,
-      "Дубовицкий Денис Михайлович": 2,
-      "Поляков Александр Алексеевич": 116
+      "2682000855320": 18,
+      "2682000857911": 0,
+      "2682000855594": 7,
+      "2682000858426": 4,
+      "2682000855573": 2,
+      "2682000856170": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_68_part_004 = [
       "retrievedAt": "2026-08-26T08:07:38.937582+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000234&tvd=2682000842257&vrn=100100225883172&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000842257&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100225883671"
     }
   }
 ] satisfies readonly UikProtocol[];
